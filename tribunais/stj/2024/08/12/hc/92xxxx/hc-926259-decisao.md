@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gilberto Pereira Longaray contra o ato coator proferido pela Terceira Câmara Criminal do Tribunal de Justiça de Santa Catarina que, nos autos do Agravo em Execução n. 8000452-86.2024.8.24.0033, negou provimento à insurgência defensiva, mantendo o indeferimento da detração dos dias de folga e finais de semana (Execução n. 8000203-57.2023.8.24.0135, Vara de Execuções Penais de Itajaí/SC).
+A defesa alega, em síntese, que, ao incluir os dias de folga e finais de semana na imposição de recolhimento domiciliar, verifica-se que o juízo quis obrigar o Paciente a permanecer em casa não apenas no período noturno, mas inclusive em dias de folga e finais de semana, quer dizer, integralmente durante esses dias (fl. 7).
+Sustenta que o cálculo da detração deve ser feito considerando que o recolhimento domiciliar nos finais de semana e dias de folga ocorreram de forma integral, o dia todo, não apenas no período noturno (fl. 8).
+Pede a concessão da ordem para que seja considerada a detração integral dos dias de folga e fins de semana, não apenas o recolhimento noturno (fls. 3/9).
+Liminar indeferida às fls. 70/71.
+Informações prestadas pela origem às fls. 78/81 e 82/107.
+O Ministério Público Federal pugna pela concessão da ordem de ofício, conforme os termos da seguinte ementa (fl. 112):
+HABEAS CORPUS. AGRAVO EM EXECUÇÃO. DETRAÇÃO PENAL. MEDIDAS CAUTELARESDIVERSAS DA PRISÃO. RECOLHIMENTO NOTURNO. CONTAGEM DAS HORAS NOS DIAS DE FOLGA.
+- Consoante jurisprudência mais recente do STJ, as medidas alternativas à prisão, como o recolhimento domiciliar noturno, são compatíveis com o instituto da detração penal.
+- O art. 319, V, do CPP, prevê como medidas cautelares diversas da prisão o recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos. A interpretação dada pelas instâncias ordinárias de que a determinação do juízo a quo era de que o paciente estivesse sem restrições à sua liberdade nos períodos de folga, obrigado a recolher-se apenas no período noturno, é incompatível com o disposto na lei e com a própria finalidade da medida.
+Pelo não conhecimento, mas pela concessão do habeas corpus de ofício, para determinar ao juízo da execução penal que considere, para a detração, as horas de recolhimento integral do paciente nos dias de folga e finais de semana.
+É o relatório.
+A impetração pretende a ampliação dos dias de detração da pena, tendo em vista a ausência de cômputo recolhimento nos dias de folga e finais de semana.
+Após análise dos autos, entendo assistir razão à impetração.
+De fato, conforme destacado pelo Ministério Público Federal, a jurisprudência admite a detração das medidas cautelares alternativas à prisão da pena imposta. Essa foi a tese firmada no REsp n. 1.977.135/SC, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 28/11/2022, representativo de controvérsia (Tema 1.155).
+Por essa razão e também por economia processual, adoto as bem-lançadas razões ministeriais como fundamento, nos termos do permissivo jurisprudencial (fls. 117/118):
+Acolhendo esse posicionamento, a jurisprudência mais recente do STJ, em ambas as Turmas de matéria criminal, entendem que medidas alternativas à prisão, como o recolhimento domiciliar noturno, são compatíveis com o instituto da detração penal.
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE DEUPROVIMENTO AO RECURSO ESPECIAL. PLEITO MINISTERIAL. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DEEXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUEPARA FINS DE PREQUESTIONAMENTO. DETRAÇÃO DA PENA EMRECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE. ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVOPELA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR. DECISÃOMANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedente).
+III - Nos termos da jurisprudência deste Superior Tribunal, "O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem"(REsp n. 1.977.135/SC, Terceira Seção, Rel. Min. Joel Ilan Paciornik, D Jede 28/11/2022).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.976.934/SC, Ministro Messod Azulay Neto,Quinta Turma, julgado em 8/8/2023, DJe 16/8/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃOPENAL. DETRAÇÃO. PERÍODO DE RECOLHIMENTO DOMICILIARNOTURNO. POSSIBILIDADE. MATÉRIA PACIFICADA EMRECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, em recurso especial representativo da controvérsia, firmou a compreensão majoritária "de se admitir a detração, na pena privativa de liberdade, do período de cumprimento da medida cautelar do art. 319, V, do Código de Processo Penal - CPP, com ou sem monitoração eletrônica. No cálculo, as horas de recolhimento domiciliar obrigatório devem ser somadas e convertidas em dias, desprezando-se o período inferior a 24 horas" (AgRg no HC n.733.909/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022).2. Agravo regimental não provido.
+(AgRg no HC n. 558.923/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/4/2023, DJe 19/4/2023).
+O debate trazido a essa instância diz respeito ao cálculo das horas de recolhimento domiciliar obrigatório do paciente. Ao serem fixadas as medidas cautelares, foi determinado ao paciente seu "Recolhimento domiciliar a partir da 20 horas, inclusive dias de folga e final de semana". As instâncias ordinárias entenderam que nos dias de folga e nos finais de semana, o recolhimento domiciliar também se realizou a partir das 20 horas, quando o paciente afirma que, nesses dias, permanecia recolhido em domicílio o dia inteiro.
+Entendo que assiste razão à defesa.
+O art. 319, V, do CPP, prevê como medidas cautelares diversas da prisão o "recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos". A previsão legal, portanto, é de recolhimento noturno, nos dias úteis e de recolhimento integral nos dias de folga, nos finais de semana e nos feriados, em que não trabalhe o acautelado. A cautelar está atrelada à existência de trabalho fixo e, portanto, restringe a liberdade do acautelado no limite de não interferir no desempenho de atividade laboral. Portanto, a interpretação dada pelas instâncias ordinárias deque a determinação do juízo a quo era de que o paciente estivesse sem restrições à sua liberdade nos períodos de folga, obrigado a recolher-se apenas no período noturno, é incompatível com o disposto na lei e com a própria finalidade da medida.
+Ante o exposto, concedo a ordem para determinar que o Juízo de execução refaça os cálculos da pena, computando a integralidade dos dias de folga e finais de semana para fim de detração da pena.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. MEDIDA CAUTELAR DIVERSA DA PRISÃO. RECOLHIMENTO DOMICILIAR NOTURNO, DIAS DE FOLGA, FINAIS DE SEMANA. POSSIBILIDADE. TEMA 1.155. PARECER ACOLHIDO COMO RAZÕES DE DECIDIR.
+Ordem concedida nos termos do dispositivo.
