@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por BRH MANUTENÇÃO E RECUPERAÇÃO D E CRÉDITO LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 172):
+LIQUIDAÇÃO POR ARBITRAMENTO Perícia Alegação de cômputo dúplice dos custos com demissões Ocorrência Alteração do critério adotado pela sentença (apuração dos lucros cessantes com base no faturamento perdido e acréscimo dos custos de rescisões trabalhistas) pela apuração global da indenização a partir do lucro olvidado pela empresa autora (que já englobaria tais custos)- Decisão mantida - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 222-226).
+Nas razões do recurso especial (e-STJ, fls. 228-240), a recorrente apontou violação aos arts. 502, 503, 504, 505 e 506 do CPC/2015.
+Sustentou, em síntese, ofensa à coisa julgada, tendo em vista que houve a alteração na liquidação por arbitramento dos parâmetros estabelecidos no título judicial, ao excluir os valores a título de "ressarcimento das verbas rescisórias", pois se trata de verba autônoma devida pelos recorridos.
+Foram apresentadas contrarrazões (e-STJ, fls. 245-253).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 382-383):
+Com efeito, de acordo com as fls. 10 do laudo pericial, para a fixação dos lucros cessantes, o experto do juízo valeu-se da "diferença entre a média dos lucros (receitas (-) despesas) nos 17 meses anteriores a fevereiro de 2013 e a média do lucro nos 17 meses posteriores à mesma data (portanto até o ajuizamento da ação), atualizada pela Tabela do Tribunal de Justiça de São Paulo a partir do ajuizamento da ação, acrescido de juros de mora de 1% ao mês a partir da citação".
+De outro lado, respondendo ao quesito de n. 4 (fls.41 do laudo), o perito esclarece que faturamento líquido seria apenas a diferença entre o total das vendas e os impostos gerados a partir dessas mesmas vendas; o que, portanto, não corresponderia a "receita menos despesa" (parâmetro determinado no acórdão liquidando).
+Depreende-se, portanto, que o aresto alterou a forma de indenização  que, de acordo com a sentença, se faria com base nos lucros cessantes (apurados com base na diferença de faturamento mais reparação dos custos das rescisões)  para a indenização com base no cálculo dos lucros cessantes, a partir do lucro olvidado pela agravante  o que por já incluir as despesas com rescisões trabalhistas, englobaria o "custo das demissões" . Do contrário, não haveria a referência expressa ao encampamento da tese do agravado, no sentido de que o acréscimo dos custos das demissões ao montante indenizatório acarretaria enriquecimento indevido da agravante.
+Consoante excerto do voto acima transcrito, não há ofensa à coisa julgada, tendo em vista a observância quanto ao disposto na fase de conhecimento, uma vez que o "custo das demissões" já estava incluso no cálculo dos lucros cessantes.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. ARREMATAÇÃO DE IMÓVEIS. IMPUGNAÇÃO. VÍCIOS INSANÁVEIS. CARTA DE ARREMATAÇÃO NÃO EXPEDIDA. DESNECESSIDADE DE DESCONSTITUIÇÃO DA ARREMATAÇÃO POR MEIO DE AÇÃO ANULATÓRIA. AUSÊNCIA DE VIOLAÇÃO À COISA JULGADA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. "É firme a jurisprudência desta Corte no sentido de que a arrematação pode ser impugnada nos próprios autos da execução, mediante petição do interessado, ou invalidada, de ofício, caso haja nulidade, sendo certo que, após expedida a respectiva carta, a sua desconstituição deve ser pleiteada na via própria, isto é, por meio de ação anulatória" (EREsp n. 1.655.729/PR, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21.2.2018, DJe de 28.2.2018).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.037.262/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO POR ARBITRAMENTO. ALEGADA OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. INCLUSÃO EM DOBRO DOS CUSTOS COM DEMISSÕES. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
