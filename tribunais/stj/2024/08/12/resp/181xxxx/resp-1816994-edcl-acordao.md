@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que apresenta razões dissociadas do acórdão embargado, não apresenta razões ou não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida.
+II - Embargos de declaração não conhecidos.
+RELATÓRIO
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO HABITACIONAL. FCVS. MANUTENÇÃO DA DECISÃO RECORRIDA AINDA QUE POR OUTROS FUNDAMENTOS.
+I - A Corte Especial do STJ, no julgamento do CC n. 148.188/DF (DJe 16/10/2023), fixou o entendimento de que, "nos processos em que possa haver comprometimento dos recursos do Fundo de Compensação das Variações Salariais - FCVS, a competência para julgamento é da Primeira Seção".
+II - Cumpre ressaltar que não se trata de discussão relacionada ao TEMA 1.039/STJ: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação", razão pela qual é incabível o sobrestamento.
+III - Nos casos em que a Caixa Econômica Federal pede o ingresso no feito que tramita na Justiça Estadual, cabe à Justiça Federal apreciar a pretensão, conforme a regra consagrada no enunciado n. 150/STJ ("Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas").
+IV - Relativamente à integração da Caixa Econômica à lide, e à definição da competência da Justiça Estadual ou Federal, nos termos da Tese n. 2 do Tema 1.011 STF, após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, nas quais a CEF atue em defesa do FCVS. Deve haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei n. 12.409/2011. O referido julgado teve os efeitos modulados para declarar a eficácia preclusiva da coisa julgada e o não cabimento de ação rescisória fundada no julgado. (RE 827.996, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 29.6.2020, Processo Eletrônico Repercussão Geral - Mérito DJe-208 Divulg 20.8.2020, Public 21.8.2020.)
+V - Nos feitos em que se discute a respeito de contrato de seguro privado, apólice de mercado, "Ramo 68", adjeto a contrato de mútuo habitacional, por envolver discussão entre a seguradora e o mutuário, e não afetar o Fundo de Compensação de Variações Salariais (FCVS), não existe interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessá rio, sendo, portanto, da Justiça estadual a competência para seu julgamento. Nesse sentido: AgInt no AREsp n. 2.215.072/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/3/2023, DJe de 4/4/2023.
+VI - Para verificar a liquidez ou não da dívida seria necessário o exame das cláusulas contratuais bem como do conjunto fático-probatório, o que é inviável em recurso especial, nos termos dos enunciados n. 5 e 7 da Súmula do STJ. No mesmo sentido: AgInt no AREsp n. 2.196.522/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.
+VII - Conforme entendimento pacífico desta Corte, "os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a conclusão do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua extinção (vício oculto)" (REsp n. 1.804.965/SP, relatora Ministra Nancy Andrighi, Segunda Seção, j. 27/5/2020, DJe 1º/6/2020. Nesse sentido: AgInt no AREsp n. 1.884.389/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+VIII - A jurisprudência do STJ consolidou-se no sentido de que o " ..  Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS  .. " (AgInt no AREsp n. 1.465.591/MT, Quarta Turma, DJe de 10/9/2019). Também firmou-se o entendimento de que em " ..  se tratando de relação de consumo, descabe a denunciação da lide, nos termos do artigo 88 do Código de Defesa do Consumidor  .. " (AgInt no AREsp n. 997.269/BA, Quarta Turma, DJe de 29/8/2018; AgInt no REsp n. 2.105.692/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/4/2024, DJe de 10/4/2024.)
+IX - Agravo interno improvido.
+Foram opostos embargos de declaração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que apresenta razões dissociadas do acórdão embargado, não apresenta razões ou não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida.
+II - Embargos de declaração não conhecidos.
+VOTO
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz, de ofício ou a requerimento, e/ou corrigir erro material.
+O caput do art. 1.023 do Código de Processo Civil de 2015 aponta expressamente o dever do embargante de indicar a omissão, obscuridade ou contradição na decisão, ônus do qual não se desincumbiu o recorrente.
+A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos supramencionados vícios implica o não conhecimento dos embargos de declaração por descumprimento dos requisitos legais. Nesse sentido é a jurisprudência:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. RECURSO NÃO CONHECIDO.
+1. A ausência de indicação, nas razões dos embargos de declaração, da presença de quaisquer dos vícios enumerados no art. 1.022 do Código de Processo Civil (CPC) implica o não conhecimento do recurso, pois descumpridos os requisitos previstos no art. 1.023 do mesmo diploma legal.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.126.595/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/3/2024, DJe de 21/3/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INDICAÇÃO. AUSÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que o embargante utiliza-se do recurso integrativo para apresentar razões dissociadas da fundamentação do acórdão embargado.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp n. 2.191.735/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARGUMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF.
+1. O presente agravo interno foi interposto contra acórdão publicado na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Os embargos de declaração não comportam conhecimento, uma vez que deficiente sua fundamentação, visto que a parte recorrente não fundamentou o recurso na violação do art. 1.022 do CPC, tampouco especificou quais de seus incisos teriam sido contrariados, a despeito da indicação de omissão. Incidência da Súmula n. 284/STF.
+Precedentes.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EDcl no REsp n. 2.004.300/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/6/2023, DJe de 21/6/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO DESACOMPANHADO DAS RESPECTIVAS RAZÕES. RECURSO MANIFESTAMENTE INADMISSÍVEL.
+1. Conforme jurisprudência pacífica desta Corte Superior, não se conhece de recurso interposto por meio eletrônico em que a petição está desacompanhada das razões, sendo dever da parte fiscalizar sua exata transmissão, assim como é incabível posterior regularização.
+2. Agravo interno não conhecido.
+(AgInt no AgInt no REsp n. 1.643.404/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 23/11/2020, DJe de 26/11/2020.)
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
