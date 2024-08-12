@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos contra acórdão, assim ementado (f. 231):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada conheceu do agravo, para não conhecer do recurso especial, em razão do óbice contido na Súmula n. 284/STF. Contudo, nas razões do agravo interno, o agravante não impugnou, de forma específica, o fundamento da decisão agravada.
+3. A falta de impugnação específica do fundamento da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, §1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+A parte embargante sustenta que o acórdão contém vícios, porquanto, "deixou de observar que a Embargante impugnou corretamente o fundamento da decisão agravada  ..  a inadmissão do recurso extraordinário em razão da ausência de fundamentação se dará SOMENTE QUANDO NÃO PERMITIR A EXATA COMPREENSÃO DA CONTROVÉRSIA!O que não ocorreu no caso em tela. Em que pese a ausência de dispositivos legais violados e objeto de dissídio jurisprudencial expressamente indicados, sua violação é implícita e de fácil compreensão" (f. 244-246).
+Afirma que, "exaustivamente demonstrou que "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória." nos termos da Súmula 393 do STJ. Por sua vez, o art. 927, inciso II do Código de Processo Civil dispõe que os juízes e tribunais observarão os enunciados de súmula vinculante. Por corolário lógico, ao deixar de observar Súmula desta Corte Superior, tem-se que o Tribunal a quo violou o referido dispositivo legal" (f. 246-247).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Destaca-se que o acórdão embargado resolveu a controvérsia, mantendo hígido o decisum monocrático proferido pela Presidência desta Corte superior e que concluiu pelo não conhecimento do recurso, pela incidência, na espécie, do teor da Súmula n. 284/STF (f. 195-196).
+Para tanto, adotou-se a seguinte fundamentação, no que relevante (f. 234-237):
+ ..
+A Presidência desta Corte Superior conheceu do agravo, para não conhecer do recurso especial, com supedâneo na Súmula n. 284/STF, tendo por base a seguinte fundamentação (fl. 195-196):
+ ..
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de COLEPAV AMBIENTAL LTDA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Entretanto, o agravante não impugnou, especificamente, o fundamento da decisão agravada, visto que se limitou a arguir, genericamente, o seguinte (fl. 203-204):
+ ..
+Com a devida vênia, não pode subsistir o entendimento adotado pelo D. Relator do Agravo em Recurso Especial interposto pela Agravante.
+Isso porque, em brevíssima síntese, restou demonstrado no agravo em recurso especial interposto o cumprimento de todos os requisitos para sua admissão e consequente provimento do recurso especial.
+A ora agravante demonstrou cabalmente o prequestionamento da matéria em debate, a desnecessidade de reexame de provas e, em especial, a inaplicabilidade das súmulas 283 e 284 do STF, que foi o fundamento utilizado na decisão interlocutória ora agravada para não conhecer do agravo em recurso especial.
+Cumpre ao Agravante frisar, de início, que não se faz necessário o reexame das provas produzidas nos autos para se constatar que o V. Acórdão recorrido e objeto de Recurso Especial violou de forma clara e evidente a legislação pertinente ao assunto tratado nos autos e ainda deu à lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+E mais, não almeja a Agravante rediscutir matéria ou provas já apreciadas nos autos, ou seja, não se pretende com a interposição do presente recurso rediscutir nada além do mérito da demanda.
+Por outro lado, da leitura do Art. 105, inciso III, alíneas "a" e "c" da Constituição, extrai-se que cabe a esse Colendo Superior Tribunal de Justiça julgar, mediante Recurso Especial, causas em que a decisão contrarie tratado ou lei federal e dê à lei federal interpretação diversa de outro Tribunal Pátrio, sendo exatamente esta a hipótese dos presentes autos.
+No presente recurso, não se buscou o reexame de provas nem da situação fática tratada no V. Acórdão outrora Recorrido. Pelo contrário, as questões ora apresentadas são meramente de direito, que foram desacolhidas pelo tribunal a quo, em total dissonância com as determinações legais e dissídio jurisprudencial.
+Assim sendo, diferente do quanto indicado na r. decisão monocrática, a ora Agravante apresentou expressamente os dispositivos no tópico do prequestionamento, no qual transcreveu direta e claramente os dispositivos legais violados, além de demonstrar, em tópico próprio, o respectivo dissídio jurisprudencial.
+Desta forma, pelas razões no qual fundada a decisão monocrática recorrida, esta não merece prosperar, de modo que mister se faz a admissão do presente recurso para reformar a decisão agravada com o fito de conhecer o agravo em recurso especial e, no mérito, dar-lhe provimento, conforme razões a seguir expostas ".
+Como visto, no que diz respeito à Súmula 284/STF, a deficiência na argumentação recursal foi considerada em vista de que, na análise das razões recursais, não se delimitou o dispositivo legal objeto de violação e/ou de interpretação divergente entre tribunais.
+Com efeito, para impugnar tal entendimento, cabia à parte agravante transcrever, especificamente, os trechos correspondentes do seu arrazoado, no sentido de efetivamente comprovar que seu recurso especial foi fundamentado de forma correta, o que não restou demonstrado.
+Assim, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+Ante o exposto, não conheço do agravo interno.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido/julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
