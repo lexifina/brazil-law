@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ANS. PLANO DE SAÚDE. PROPORCIONALIDADE DA MULTA APLICADA E CONDIÇÕES PARA A CELEBRAÇÃO DE TAC. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A decisão embargada concluiu que o Agravo Interno interposto pela parte não impugnou o fundamento adotado pela decisão agravada quanto à não ocorrência de violação do art. 1.022 do CPC, motivo pelo qual houve a incidência, no ponto, da Súmula 182/STJ (fl. 773). Além disso, ficou consignado que seu Recurso Especial esbarra nos óbices das Súmulas 5 e 7 do STJ e 282 do STF (fls. 775-778).
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. ANS. PLANO DE SAÚDE. PROPORCIONALIDADE DA MULTA APLICADA E CONDIÇÕES PARA A CELEBRAÇÃO DE TAC. QUESTÕES DIRIMIDAS COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. NÃO CABIMENTO. SÚMULA 7/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULA 5/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DIVERGÊNCIA PREJUDICADA.
+1. Nas razões do presente Recurso, a parte não impugnou o fundamento adotado pela decisão agravada quanto à não ocorrência de violação do art. 1.022 do CPC, o que atrai, no ponto, a incidência da Súmula 182/STJ.
+2. O Colegiado originário, ao dirimir a controvérsia, concluiu que a recorrente não demonstrou o cumprimento da condição imposta para a celebração do TAC. Merece transcrição excerto do acórdão recorrido: "As Resoluções da ANS são expedidas nos limites do poder regulamentar, nos termos dos artigos 3º e 174 da Constituição da República, e explicitam as determinações contidas nas Leis nº 9.656/1998 e 9.961/2000, que disciplinam o mercado de saúde suplementar e o exercício do poder de polícia da Agência na apuração das infrações. (..) No tocante à celebração de um Termo de Ajustamento de Conduta, a sentença pontuou: "A demandante apresentou defesa em fls. 329/332 e, em fls. 336/337, requereu a celebração de Termo de Ajustamento de Conduta. (..) a Agência considerou que a operadora não demonstrou o cumprimento da condição imposta para a celebração do TAC. Em razão das circunstâncias postas, a ANS concluiu que o acordo requerido não era conveniente ou oportuno. Convém estabelecer a discricionariedade do órgão público na verificação do interesse na celebração de um TAC, não cabendo ao Poder Judiciário a imposição da medida pretendida" (fls. 626-627, e-STJ).
+3. A aferição da legalidade ou proporcionalidade da multa aplicada à insurgente, bem como do preenchimento das condições para realização do Termo de Ajuste de Conduta, baseou-se em análises contratuais dos autos e interpretação de resoluções da ANS. Portanto, não se pode conhecer do apelo ante a incidência dos óbices das Súmulas 5 e 7/STJ.
+4. Por outro lado, quanto ao tema dos prazos previstos na Lei 9.784/1999 e a alegada inobservância pela parte recorrida, verifica-se que a questão não foi examinada pelo Tribunal de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+5. A incidência das referidas súmulas é óbice também para o exame da divergência jurisprudencial, o que, na forma da jurisprudência do STJ, inviabiliza o conhecimento do REsp. pela alínea "c" do permissivo constitucional.
+6. Agravo Interno não provido.
+Nos Aclaratórios, a embargante afirma que houve omissão. Insurge-se contra a aplicação das Súmulas 5, 7 e 182 do STJ e 282 do STF. Sustenta, em suma (fls. 785-796, e-STJ):
+Assim, não resta a menor dúvida que o acordão proferido é omisso em relação aos preceitos legais federais apontados pela Embargante, os quais estão revestidos do principal requisito de cabimento do Recurso Especial anteriormente interposto, previsto no artigo 105, inciso III, "a" da Constituição Federal, sobretudo em analisar a violação perpetrada ao artigo 1.022, incisos I e II, do Código de Processo Civil, por não ter se pronunciado sobre a inaplicabilidade do julgado do STF (Tema nº 123 - RE nº 578.80, atual RE nº 948.634) ao caso em concreto, cujo como objetivo foi a consolidação do entendimento em relação a suspensão dos efeitos do art. 35-E e de parte do §2º. do art. 10 da Lei 9.656/98; e por ter violado e incorrido em contradição com o que preceituam os artigos 29, §1º e 35-E, todos constantes na Lei nº 9.656/98 e artigos 49 e 50, ambos da Lei nº 9.784/1999, violações esta que não foram apreciadas também por essa Corte ou sequer esclarecidas quando não conheceu o Agravo Interno em apreço.
+Não resta a menir dúvida, também, que o acordão em apreço foi omisso em relação aos fundamentos apontados pela Embargante em seu Agravo Interno, onde destacou, de forma específica e não genérica, quais os motivos que tornam inaplicáveis os óbices ao prosseguimento do Recurso Especial à análise de seu mérito por essa nobre corte.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ANS. PLANO DE SAÚDE. PROPORCIONALIDADE DA MULTA APLICADA E CONDIÇÕES PARA A CELEBRAÇÃO DE TAC. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A decisão embargada concluiu que o Agravo Interno interposto pela parte não impugnou o fundamento adotado pela decisão agravada quanto à não ocorrência de violação do art. 1.022 do CPC, motivo pelo qual houve a incidência, no ponto, da Súmula 182/STJ (fl. 773). Além disso, ficou consignado que seu Recurso Especial esbarra nos óbices das Súmulas 5 e 7 do STJ e 282 do STF (fls. 775-778).
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+VOTO
+Os autos foram recebidos neste Gabinete em 6.6.2024.
+A irresignação não merece acolhida, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+A decisão embargada concluiu que o Agravo Interno interposto pela parte não impugnou o fundamento adotado pela decisão agravada quanto à não ocorrência de violação do art. 1.022 do CPC, motivo pelo qual houve a incidência, no ponto, da Súmula 182/STJ (fl. 773). Além disso, ficou consignado que seu Recurso Especial esbarra nos óbices das Súmulas 5 e 7 do STJ e 282 do STF (fls. 775-778).
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há o vício alegado no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 650.536/RJ, Rel. Ministro Raul Araújo, Corte Especial, DJe 5/11/2021)
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerad o expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
