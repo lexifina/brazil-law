@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANA CHAVES CARVALHO contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fls. 529/530):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - RECURSO DO PLANO DE SAÚDE - SERVIÇO DE TRANSPORTE INTRA-HOSPITALAR PREVISTO EM CONTRATO- OPERADORA DO PLANO DE SAÚDE QUE NÃO SE NEGOU A PRESTAÇÃO DO SERVIÇO - CONTRATAÇÃO DE AMBULÂNCIA PARTICULAR POR OPÇÃO DA AUTORA - SENTENÇA BASEADA EM DEPOIMENTO PRESTADO POR MÉDICO COM RELAÇÃO DE PARENTESCO COM AUTORA E COM INTERESSE NA CAUSA JÁ QUE CONTRATADO PARA PRESTAR O SERVIÇO PARTICULAR DE TRANSPORTE - AUSÊNCIA DOS REQUISITOS DA RESPONSABILIDADE CIVIL - DANO MORAL NÃO EVIDENCIADO - RESSARCIMENTO DOS CUSTOS QUE DEVE SER MANTIDO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Muito embora o contrato entabulado entre as partes possui previsão de cobertura do serviço de transporte inter-hospitalar, não houve recusa por parte do plano de saúde em fornecer o serviço de transporte. O que ocorreu foi que a autora, que já vinha de um quadro depressivo, acometida de dengue e induzida a acreditar que seu estado de saúde era deveras grave, recusou a oferta do plano de saúde e optou por contratar serviço particular de UTI móvel.
+2. O depoimento prestado pelo médico que atestou a urgência na transferência não pode ter relevância o suficiente para embasar decreto condenatório. A uma, porque possui de relação de parentesco (primo) com a autora. A duas, porque o próprio médico que atestou a urgência possui interesse na causa, já que também é proprietário de empresa de transporte médico-hospitalar e prestou o serviço particular de transferência à autora.
+3. Ademais disso, o médico que atendeu a autora em hospital de referência em São José do Rio Preto/SP, foi categórico em afirmar que: a) seu estado de saúde não demandava transferência rapidíssima; b) que não haveria nenhum problema em aguardar a ambulância do Bensaúde; c) que a paciente ficou internada por apenas 3 dias; d) que não necessitou internação em UTI; f) que estava em quadro de evolução normal de dengue e, g) que estava recebendo em Paranaíba o tratamento adequado.
+4. Se ausentes os requisitos da responsabilidade civil, não há que falar em indenização por danos morais.
+5. O ressarcimento do valor desembolsado pela autora deve ser mantido, uma vez que havia previsão contratual de transferência intra-hospitalar; o serviço foi efetivamente prestado e a Lei 9.656/98 garante o reembolso de despesas.
+6. Recurso conhecido e parcialmente provido para afastar a condenação por danos morais.
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - RECURSO DA AUTORA - PRETENSÃO DE MAJORAÇÃO DOS DANOS MORAIS - CONDENAÇÃO AFASTADA - RECURSO PREJUDICADO.
+1. Se pretendia a autora em seu apelo a majoração dos danos morais e o recurso da parte requerida está sendo provido para afastar referida condenação, evidenciado está a prejudicialidade de seu recurso.
+2. Recurso prejudicado.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 113 e 421 do Código Civil, sustentando que a atitude da recorrida feriu o princípio da boa-fé, uma vez que ao negar transporte de UTI Móvel com urgência para deslocar-se houve a quebra de confiança que os contratantes depositaram na execução do contrato.
+Aduz que o dano moral está configurado diante da angústia decorrente da recusa de remoção do paciente para o hospital, a abalar o equilíbrio emocional pelo medo de ter sua vida ceifada, já que se trata de profissional da saúde e tinha conhecimento dos possíveis desfechos caso não tivesse chegado a tempo na UTI de hospital de referência.
+Afirma que, por conta do ocorrido, desenvolveu transtorno depressivo e pânico, com crises constantes em que tem receio de ir a óbito. E afirma que seu plano de casar com seu namorado, construindo casa, foram procrastinados sem previsão da sua concretização, em virtude do quadro de saúde da recorrente.
+Alega que o recorrido assumiu o risco em não prestar o transporte de urgência em tempo de forma a assegurar a vida da recorrente, optando por seu interesse financeiro à vida, devendo ser responsabilizado por sua negativa de assistência imediata, tratando-se de omissão de socorro, nos termos do art. 186 do CC.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da impossibilidade de análise de violação ao art. 5º, X, da Constituição Federal; do óbice das Súmulas 5 e 7 do STJ; e da ausência de comprovação do dissídio jurisprudencial.
+Neste agravo, a agravante apenas reiterou as razões do seu recurso especial.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não pode ser conhecido.
+Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada.
+No caso em análise, verifico que o recurso especial não foi admitido em virtude da impossibilidade de análise de violação ao art. 5º, X, da Constituição Federal; d o óbice das Súmulas 5 e 7 do STJ; e da ausência de comprovação do dissídio jurisprudencial (e-STJ, fls. 642/654).
+Nas razões do presente agravo em recurso especial, os referidos fundamentos não foram impugnados, tendo a parte agravante apenas reiterado as razões do seu recurso especial e a violação dos artigos nele indicados (e-STJ, fls. 705/726).
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, que o desacerto da decisão recorrida e a não impugnação específica do fundamento da decisão agravada atraem a aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
