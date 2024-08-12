@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo de CARLOS HENRIQUE DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 0101748-32.2017.8.26.0050.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados no art. 157, § 3º c/c art. 14, II, do Código Penal - CP (latrocínio tentado) e art. 2º, § 2º, da Lei n. 12.850/2013 (organização criminosa), à pena de 20 anos e 6 meses de reclusão, em regime inicial fechado, e 23 dias-multa (fl. 2010).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 2552). O acórdão ficou assim ementado:
+"Apelação das Defesas Preliminares Insuficiência de fundamentação da sentença Avaliação dos elementos de prova e conclusão quanto à responsabilidade penal dos apelantes Não constatada a inépcia da denúncia Peçaacusatória que individualizou as condutas dos acusados e bem descreveu os fatos aqui tratado Possibilidade da substituição do exame pericial por outros meios de prova Impossibilidade Inexistência de exame de corpo de delito por outros meios de prova Absolvição sumária Questão preclusa Preliminares rejeitadas Organização criminosa Associação estável voltada à prática de crimes patrimoniais Farta prova colhida por meio de diligências,apreensão e oitiva de testemunhas Condenações mantidas Penas-base fixadas no mínimo legal a míngua de maus antecedentes Acréscimo das penas dos réus Danilo, Robson e Ricardo em 1/6, ante a reincidência Acréscimo das penas em  por se tratar de organização arma da Latrocínio tentado Suficiência de provas Consistentes declarações das vítimas Condenações mantidas Penas-base fixadas acima do mínimo legal com fundamento nas circunstâncias do delito Aumento das penas dos réus Danilo e Robson em 1/6 por conta da reincidência Compensação da circunstância atenuante da confissão espontânea, reconhecida a favor do réu Ricardo, a despeitode sua parcialidade, com a circunstância agravante da reincidência Redução das penas em 1/3 pela tentativa,face ao "iter criminis" percorrido Resistência qualificada Delito imputado aos réus Jasiel e Danilo, que resistiram violentamente à abordagem policial, realizando disparos de arma de fogo na direção dos policiais, obtendo êxito em impedir a execução do ato policial Penas-base fixadasacima do mínimo legal por força das circunstâncias do delito Aumento da pena do réu Danilo em 1/6 em razãoda reincidência Concurso material de infrações bemreconhecido e mantido Penas somadas Regime fechado compatível com a quantidade de penas impostas e a gravidade das condutasRecursosde apelação desprovidos." (fl. 2537)
+Em sede de recurso especial (fls. 2627/2638), a defesa de CARLOS HENRIQUE DA SILVA apontou violação aos arts. 29, § 1º e 157, § 3º, II, ambos do CP e art. 2º da Lei Federal n. 12.850/2013, sustentando, em síntese, a absolvição dos crimes de latrocínio e organização criminosa e, subsidiariamente, a aplicação da minorante da participação de menor importância.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, TRANSVIP - TRANSPORTE DE VALORES E VIGILANCIA PATRIMONIAL LTDA. (fls. 2978/2982).
+O recurso especial foi inadmitido no TJ em razão de: a) ausência de prequestionamento; b) óbice da Súmula n. 284 do Supremo Tribunal Federal - STF; e c) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 3111/3112).
+Em agravo em recurso especial, a defesa impugnou os óbices das Súmulas n. 284/STF e 7/STJ (fls. 3200/3203).
+Contraminuta do Ministério Público (fls. 3272/3275).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 3397/3401).
+É o relatório.
+Decido.
+A decisão agravada inadmitiu o recurso especial, em razão dos óbices das Súmulas n. 284/STF e 7/STJ, além da ausência de prequestionamento (súmulas n. 282 e 356 do STF). Contudo, o agravante limitou a impugnar as Súmulas n. 284/STF e 7/STJ, sem refutar o argumento referente à "ausência de prequestionamento" .
+Assim, não se conhece do agravo em recurso especial que não impugnou todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. CONTRARIEDADE AOS ARTS. 13, 18 E 19 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF e 211/STJ. DETRAÇÃO PENAL. SENTENÇA ANTERIOR À VIGÊNCIA DA LEI Nº 12.736/2012. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVOS IMPROVIDOS.
+1. A ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial obsta o conhecimento do agravo, da Súmula 182 do STJ, aplicável por analogia.
+ ..
+4. Agravos regimentais improvidos.
+(AgRg no AREsp 626.543/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 08/03/2018).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. IMPOSSIBILIDADE DE JULGAMENTO MONOCRÁTICO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIO. DECISÃO DE NÃO CONHECIMENTO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. Nos termos da Súmula 182 desta Corte, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+5. Agravo regimental improvido.
+(AgRg no AREsp 675.884/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/11/2017).
+Diante do exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
