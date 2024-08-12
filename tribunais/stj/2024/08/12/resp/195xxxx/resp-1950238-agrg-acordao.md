@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. EVENTUAL CONHECIMENTO DA MENORIDADE OU INTENÇÃO EM INSERIR O MENOR NO CRIME. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7, STJ. ATENUANTE DA CONFISSÃO RECONHECIDA E APLICADA EM PATAMAR INFERIOR A 1/6. INEXISTÊNCIA DE FUNDAMENTOS CONCRETOS. REDIMENSIONAMENTO DA PENA. DECISÃO AGRAVADA MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+II - A pretensão defensiva esbarra na Súmula n. 7 do STJ, pois a e ventual perquirição acerca do conhecimento da menoridade do coautor pelo recorrente e da existência de dolo para inseri-lo na seara do crime, reclamaria o revolvimento das provas colhidas nos autos.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EMANUEL DA MOTA SILVEIRA contra a decisão de fls. 471-475, por meio do qual o recurso especial foi parcialmente conhecido e, na extensão, provido.
+O agravante foi condenado à pena de 12 (doze) anos de reclusão, em regime fechado e 1.300 (um mil e trezentos) dias-multa, pela prática dos crimes previstos no art. 157, § 2º, incisos I, II e V, c/c art. 14, inciso II, do Código Penal e art. 157, § 2º, incisos I, II e V, por seis vezes, na forma do art. 70, do Código Penal (fls. 322-347).
+O Tribunal deu parcial provimento à apelação da defesa para redimensionar a pena do recorrente ao patamar de 7 (sete) anos de reclusão e 308 (trezentos e oito) dias-multa, inalteradas as demais disposições (fls. 49-65).
+Os embargos de declaração opostos pelo Ministério Público foram parcialmente acolhidos para sanar a omissão configurada no cálculo do concurso formal e aplicar a fração de 1/3 (um terço), readequando a pena para 8 (oito) anos de reclusão, (fls. 92-102).
+Inconformado, o recorrente interpõe recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 59 do Código Penal, e requerer a redução da pena-base fixada, com a desvaloração da vetorial da culpabilidade, bem como a aplicação da fração de 1/6 para a redução da atenuante da confissão (fls. 2-10).
+Neste agravo regimental (fls. 482-487), a defesa sustenta que "a ilegalidade na negativação da circunstância judicial "culpabilidade" não demanda nenhum revolvimento fático probatório por esta Corte."; que "esta Corte já assentou a impossibilidade de uma instância "corrigir" os fundamentos da instância anterior, mediante a achega de novos argumentos -como foi feito no caso concreto pelo TRF5." e que "os fundamentos apresentados são em tudo imprestáveis para justificar a negativação da circunstância judicial "culpabilidade".
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. EVENTUAL CONHECIMENTO DA MENORIDADE OU INTENÇÃO EM INSERIR O MENOR NO CRIME. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7, STJ. ATENUANTE DA CONFISSÃO RECONHECIDA E APLICADA EM PATAMAR INFERIOR A 1/6. INEXISTÊNCIA DE FUNDAMENTOS CONCRETOS. REDIMENSIONAMENTO DA PENA. DECISÃO AGRAVADA MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+II - A pretensão defensiva esbarra na Súmula n. 7 do STJ, pois a e ventual perquirição acerca do conhecimento da menoridade do coautor pelo recorrente e da existência de dolo para inseri-lo na seara do crime, reclamaria o revolvimento das provas colhidas nos autos.
+Agravo regimental desprovido.
+VOTO
+Com efeito, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão combatida por seus próprios fundamentos.
+Nessa linha, não obstante o teor das razões suscitadas no presente agravo, não vislumbro elementos hábeis a alterar a decisão agravada, porquanto todos os pontos apresentados pela defesa foram analisados de forma devidamente fundamentada, como pode ser constatado pela leitura dos seguintes trechos da decisão agravada, in verbis (fl.473):
+"Na espécie, as instâncias ordinárias, com esteio nos fatos e provas constituídos nos autos, concluíram pela necessidade de sopesamento dessa circunstância judicial, por considerar, no caso concreto, o desbordamento da culpabilidade do recorrente, apresentando fundamentação adequada.
+(..)
+Para o recorrente, a ausência de comprovação do aliciamento do menor para a prática do crime em coautoria ou o conhecimento de sua menoridade seria impeditivo para a valoração negativa da culpabilidade (fl. 7).
+Eventual perquirição acerca do conhecimento da menoridade do coautor pelo recorrente e da existência de dolo para inseri-lo na seara do crime, reclamaria o revolvimento das provas colhidas nos autos, o que não se coaduna com o rito do recurso especial, conforme orienta a Súmula n. 7, STJ.
+Ademais, não vislumbro flagrante ilegalidade ou desproporcionalidade na análise das circunstâncias judicias a justificar a revisão da dosimetria por esta Corte Superior de forma excepcional. A princípio, a fundamentação das instâncias ordinárias é concreta e idônea a justificar a exasperação da pena-base, além de terem sido obedecidos os princípios da proporcionalidade, da razoabilidade e da adequação às particularidades do caso concreto, tudo dentro do juízo de discricionariedade do órgão julgador.
+Ademais, não vislumbro flagrante ilegalidade ou desproporcionalidade na análise das circunstâncias judicias a justificar a revisão da dosimetria por esta Corte Superior de forma excepcional. A princípio, a fundamentação das instâncias ordinárias é concreta e idônea a justificar a exasperação da pena-base, além de terem sido obedecidos os princípios da proporcionalidade, da razoabilidade e da adequação às particularidades do caso concreto, tudo dentro do juízo de discricionariedade do órgão julgador. "
+No caso, o acórdão recorrido, com esteio nos fatos e provas constituídos nos autos, concluiu pela maior reprovabilidade da conduta do agente que pratica do crime em concurso com menor de idade.
+Ocorre que a defesa sustenta a ausência de comprovação do aliciamento do menor para a prática do crime em coautoria ou o conhecimento de sua menoridade seria impeditivo para a valoração negativa da culpabilidade (fl. 7).
+Conforme consta da decisão recorrida, tal pretensão esbarra no óbice da Súmula n. 7, STJ, tendo em vista a necessidade de reexame de fatos e provas para modificar as conclusões do Tribunal a quo.
+Por fim, a alegação de que "esta Corte já assentou a impossibilidade de uma instância "corrigir" os fundamentos da instância anterior, mediante a achega de novos argumentos -como foi feito no caso concreto pelo TRF5." trata-se de inovação recursal, não tendo sido deduzida quando da interposição do recurso especial, razão pela qual incabível sua análise.
+Dessarte, deve ser mantida a decisão agravada por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
