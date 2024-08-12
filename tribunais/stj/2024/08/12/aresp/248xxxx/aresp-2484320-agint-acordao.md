@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. ASTREINTES. PLANO DE SAÚDE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL E DA DECISÃO DE NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+1. Ação de obrigação de fazer.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial na origem.
+3. É inepta a petição de agravo interno que não impugna, especificamente, o fundamento da decisão agravada, na hipótese, relativo à aplicação da Súmula 182/STJ.
+4. Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA contra decisão que não conheceu do agravo em recurso especial.
+Ação: de obrigação de fazer em fase de cumprimento de sentença, ajuizada por C G DE O em face da agravante.
+Decisão interlocutória: determinou bloqueio de numerário em contas da agravante por meio do BACENJUD e autorizou levantamento de valor anteriormente bloqueado juntamente com o resultante da nova penhora.
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE- Cumprimento provisório de sentença- Ação julgada procedente para condenar a ré a fornecer, custear, autorizar o tratamento completo prescrito pelo médico, em regime de home care, ainda que em outra cidade ou comarca, incluindo os atendimentos de cardiopediatria, neuropediatria e gastropediatria, sob pena de multa diária - Incidente instaurado para cobrança das astreintes fixadas bem como bloqueio de valores para custeio do tratamento ante o descumprimento da ordem - Cabimento - Agravante que insiste em rediscutir questões já analisadas e decididas em sede de ação de conhecimento - Recorrente, ademais, que não comprovou nem justificou a falta de cumprimento da ordem judicial até o momento- Bloqueio de valores efetivado para custeio do tratamento indicado ao autor ante o não cumprimento da ordem pela ré - Prestação de caução para levantamento dos valores que é medida incompatível uma vez que o bloqueio foi deferido com vistas a promover o cumprimento da ordem - Agravado, ademais, que não tem condições financeiras de arcar com o tratamento indicado com recursos próprios, tanto que ingressou com a ação, não tendo condições, da mesma forma, de prestar caução para liberação do valor bloqueado para viabilizar o tratamento - Agravo de instrumento desprovido, prejudicado o interno.
+Recurso Especial: aponta, em síntese, ofensa aos arts. 520, IV, 536, §1º e 537 do CPC.
+Decisão unipessoal: não conheceu do agravo em recurso especial em virtude da incidência da Súmula 182/STJ, haja vista não terem sido impugnados fundamentos da decisão que inadmitiu o recurso especial na origem.
+Agravo interno: o agravante reitera as ofensas aos arts. 520, IV, 536, §1º e 537 do CPC relativamente à falta de previsão legal de penhora de ativos financeiros como medida coercitiva, além da necessidade de prestação de caução para levantamento de valores.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. ASTREINTES. PLANO DE SAÚDE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL E DA DECISÃO DE NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+1. Ação de obrigação de fazer.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial na origem.
+3. É inepta a petição de agravo interno que não impugna, especificamente, o fundamento da decisão agravada, na hipótese, relativo à aplicação da Súmula 182/STJ.
+4. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC e 253, parágrafo único, I, do Regimento Interno do STJ, devido à ausência de impugnação específica de fundamento da decisão que inadmitiu o recurso especial, nos seguintes termos (e-STJ fls. 250/252):
+Examina-se agravo em recurso especial interposto por SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" , da Constituição Federal.
+Ação: de obrigação de fazer em fase de cumprimento de sentença, ajuizada por C G DE O em face da agravante.
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE- Cumprimento provisório de sentença- Ação julgada procedente para condenar a ré a fornecer, custear, autorizar o tratamento completo prescrito pelo médico, em regime de home care, ainda que em outra cidade ou comarca, incluindo os atendimentos de cardiopediatria, neuropediatria e gastropediatria, sob pena de multa diária - Incidente instaurado para cobrança das astreintes fixadas bem como bloqueio de valores para custeio do tratamento ante o descumprimento da ordem - Cabimento - Agravante que insiste em rediscutir questões já analisadas e decididas em sede de ação de conhecimento - Recorrente, ademais, que não comprovou nem justificou a falta de cumprimento da ordem judicial até o momento- Bloqueio de valores efetivado para custeio do tratamento indicado ao autor ante o não cumprimento da ordem pela ré - Prestação de caução para levantamento dos valores que é medida incompatível uma vez que o bloqueio foi deferido com vistas a promover o cumprimento da ordem - Agravado, ademais, que não tem condições financeiras de arcar com o tratamento indicado com recursos próprios, tanto que ingressou com a ação, não tendo condições, da mesma forma, de prestar caução para liberação do valor bloqueado para viabilizar o tratamento - Agravo de instrumento desprovido, prejudicado o interno.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não foi demonstrada a violação dos arts. 520, IV, 536, §1º e 537 do CPC; e ii) incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que demonstrou as apontadas ofensa a dispositivos de lei federal, e reitera a alegação de violação aos arts. 520, IV, 536, §1º e 537 do CPC, ao fundamento da falta de previsão legal de penhora de ativos financeiros como medida coercitiva, além da necessidade de previsão de grave dano ao executado.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade da Súmula 7/STJ, haja vista que nada disse sobre o óbice.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nas razões do presente agravo interno, a parte agravante reitera as razões recursais quanto à ofensa aos arts. 520, IV, 536, §1º e 537 do CPC, insurgindo-se contra a determinação de penhora e levantamento de valores.
+Assim, a parte agravante, renovando o vício de seu agravo em recurso especial, não demonstra que impugnou o fundamento da decisão ora agravada, dessa vez relativo à aplicação da Súmula 182/STJ, haja vista que deixou de demonstrar que combateu, nas razões do agravo em recurso especial, um dos fundamentos da decisão de inadmissibilidade do recurso especial na origem. Ou seja, não demonstrou que impugnou a incidência do óbice da Súmula 7/STJ.
+Saliente-se que cabia à parte, na hipótese, demonstrar que, nas razões do agravo em recurso especial, rebateu adequadamente todos os óbices invocados pelo Tribunal de origem para obstar o seguimento do recurso especial, de modo a afastar a aplicação da Súmula 182/STJ e viabilizar o conhecimento daquele agravo.
+Não o fazendo, ou seja, não demonstrando a agravante o desacerto da decisão agravada, o conhecimento do presente agravo interno também se mostra inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, o fundamento da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso à unanimidade, fixo multa de 5% sobre o valor atualizado da causa.
