@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 10 E 489 DO CPC/2015. INEXISTÊNCIA. DISCUSSÃO ACERCA DO ENQUADRAMENTO COMO INSTITUIÇÃO DE ENSINO PARA FINS DE GOZO DE IMUNIDADE TRIBUTÁRIA. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. EVENTUAL VERIFICAÇÃO DOS REQUISITOS LEGAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO .
+1.  Mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 10 e 489 do CPC/2015.
+2.  A questão relativa à caracterização da parte recorrente como entidade de instituição de ensino foi decidida sob enfoque exclusivamente constitucional, sendo a via especial inadequada para reexamina-lo, sob pena de usurpação da competência do STF.
+3. Inviável eventual análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por  FUNDAÇÃO DE ESTUDOS AGRÁRIOS LUIZ DE QUEIROZ  contra  a  decisão  que  conheceu  do  agravo  para não conhecer do recurso  especial (fls. 777-782).
+Argumenta  a  parte agravante,  em  síntese,  que: (a) "não incide a Súmula nº 7/STJ porque a Agravante não pretende questionar as premissas fáticas contidas no v. acórdão recorrido. Muito pelo contrário: o que a Agravante pretende demonstrar é que, em que pese o v. acórdão recorrido tenha reconhecido a atuação da Agravante como instituição de ensino, deixou de verificar se restam preenchidos os requisitos da imunidade tributária previstos no art. 14 do CTN" (fl. 791); (b) "o fato de o v. acórdão recorrido ter citado precedente do E. STF, bem como ter se utilizado do art. 150 da Constituição Federal para reformar a r. sentença de origem, não afastam a possibilidade de esse E. STJ examinar as violações de dispositivos legais que também deram causa à reforma da r. sentença de origem." (fl. 795); (c) "conforme já demonstrado, o v. acórdão recorrido se recusou a examinar o caso à luz dos requisitos previstos no art. 14 do CTN, tendo incorrido em evidente vício de fundamentação" (fl. 796).
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+O MUNICÍPIO DE PIRACICABA não apresentou impugnação ao recurso (fl. 806).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 10 E 489 DO CPC/2015. INEXISTÊNCIA. DISCUSSÃO ACERCA DO ENQUADRAMENTO COMO INSTITUIÇÃO DE ENSINO PARA FINS DE GOZO DE IMUNIDADE TRIBUTÁRIA. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. EVENTUAL VERIFICAÇÃO DOS REQUISITOS LEGAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO .
+1.  Mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 10 e 489 do CPC/2015.
+2.  A questão relativa à caracterização da parte recorrente como entidade de instituição de ensino foi decidida sob enfoque exclusivamente constitucional, sendo a via especial inadequada para reexamina-lo, sob pena de usurpação da competência do STF.
+3. Inviável eventual análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Quanto à alegada violação aos arts. 11 e 489 do CPC/2015, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 10 e 489 do CPC/2015.
+De outra parte, da leitura do acórdão recorrido, observa-se que o ponto em discussão nas razões recursais foi decidido pelo acórdão objurgado nos seguintes termos:
+Ao estabelecer regras negativas de competência em matéria tributária a Constituição Federal visou garantir o exercício de atividades inerentes a inúmeros direitos fundamentais, a exemplo da liberdade religiosa, partidária, sindical, beneficente e educacional. Na condição de hipótese de não incidência constitucionalmente qualificada, a imunidade deve ser interpretada sob a luz do princípio da máxima efetividade das normas constitucionais e ter garantida a aplicabilidade imediata que o § 1º do artigo 5º da CF garante às normas fundamentais.
+Assim, conforme se extrai de acórdão da 14ª Câmara de Direito Público do TJSP (Apelação Cível n. 0000123-24.2009.8.26.0053, j. de 08/08/2013):
+ ..
+Desta feita, as imunidades tributárias, para serem reconhecidas, prescindem de pedido administrativo ao poder público, uma vez que decorrem diretamente da Constituição Federal. Aliás, "as regras de imunidade têm foro exclusivo na Constituição porque são regras (ainda que negativas) de competência tributária".
+ ..
+Quanto a questão de fundo, não se desconhece que a imunidade tributária concedida às instituições de ensino e entidades de assistência social, embora de aplicabilidade imediata, foi classificada pelo constituinte originário como norma constitucional de eficácia contida (restringível), já que a própria CF estabelece circunstâncias cuja presença pode afastar a imunidade (§ 4º do art. 150 da CF), cabendo à Lei Complementar regular as limitações constitucionais ao poder de tributar (art. 146, II, da CF).
+No caso concreto, da cópia do Estatuto Social juntada às p. 17/24 se extrai que a Fundação autora é uma pessoa jurídica de direito privado, sem fins lucrativos e com autonomia administrativa e financeira, voltada à consecução das seguintes atividades (art. 6º, p. 17/18):
+ ..
+Do amplo objeto social da autora, é possível extrair que sua função é, primordialmente, colaborar e auxiliar no desenvolvimento de cursos de graduação e pós-graduação da Universidade de São Paulo, além de promover e colaborar com pesquisas e divulgar conhecimentos relacionados à agronomia.
+Em outras palavras, a Fundação autora não desenvolve exclusivamente atividades típicas de ensino, tal como as Universidades e Colégios, mas tão somente presta serviços de apoio às instituições que o fazem, de modo que, nessa qualidade, não possui autorização do Ministério da Educação para promover as ditas atividades de ensino, conforme determina o artigo 209, II, da Constituição Federal.
+Oportuno ressaltar, neste contexto, que o Supremo Tribunal Federal já assentou entendimento no sentido de que a comprovação do credenciamento junto ao MEC constitui pressuposto necessário para o reconhecimento da imunidade tributária das instituições de ensino, a que alude o artigo 150, VI, "c", da CF:
+ ..  (fls. 510-513 - grifo nosso).
+No caso, verifico que o acórdão recorrido apreciou a questão relativa à caracterização da parte recorrente como instituição de ensino sob enfoque exclusivamente constitucional, sendo a via especial inadequada para reexamina-lo, sob pena de usurpação da competência do STF.
+A esse respeito:
+TRIBUTÁRIO. ICMS. DIFAL. PRINCÍPIO DA ANTERIORIDADE. QUESTÃO DIRIMIDA PELA INSTÂNCIA DE ORIGEM COM ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Hipótese em que o Tribunal de origem dirimiu a questão referente à aplicabilidade da LC 190/2022 à luz da jurisprudência do Supremo Tribunal Federal e de dispositivos da Constituição Federal.
+2. Muito embora tenha sido citado dispositivo infraconstitucional, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. Agravo Interno não provido (AgInt no AREsp n. 2.361.146/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da presença dos requisitos necessários à caracterização da entidade para o gozo de imunidade tributária ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMUNIDADE. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. CEBAS. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+1. Não há como concluir pelo preenchimento dos requisitos legais necessários ao reconhecimento da imunidade sem o reexame fático-probatório dos autos, motivo por que o conhecimento do recurso especial esbarra no óbice da Súmula 7 do STJ.
+2. A emissão do Certificado de Entidade Beneficente de Assistência Social (Cebas) não exime a entidade do cumprimento dos demais requisitos exigidos para o reconhecimento da imunidade tributária.
+Precedentes.
+3. O recurso especial não serve à pretensão de revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+4 . Agravo interno desprovido (AgInt no REsp n. 1.973.316/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/11/2022, DJe de 20/12/2022 - grifo nosso).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. IPTU. IMUNIDADE TRIBUTÁRIA. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. REQUISITOS. PREENCHIMENTO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. LOCATÁRIO. ILEGITIMIDADE ATIVA AD CAUSAM. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. O Tribunal de origem, em autos de Ação Declaratória, julgou procedente o pedido formulado na petição inicial, a fim de reconhecer a imunidade tributária à parte autora, ora agravada, no tocante ao IPTU, de modo que declarou a inexistência de relação jurídico-tributária e condenou o Município do Rio de Janeiro, ora agravante, a restituir os valores pagos indevidamente, a tal título, observada a prescrição quinquenal.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. O entendimento firmado pelo Tribunal a quo, quanto ao preenchimento dos requisitos legais para gozo da imunidade tributária, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+V. Na forma da jurisprudência, "não é legítimo condicionar a repetição do indébito tributário relativo ao imposto sobre a propriedade predial e territorial urbana à comprovação de que o proprietário, e não eventual locatário, teria suportado o fardo da tributação" (STJ, REsp 1.382.090/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 28/08/2013).
+VI. Agravo interno improvido (AgInt no AREsp n. 1.021.707/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2019, DJe de 2/4/2019 - grifo nosso).
+Isso posto, nego provimento ao recurso.
