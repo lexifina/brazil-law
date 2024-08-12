@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. AÇÃO DE RESSARCIMENTO. SERVIDOR PÚBLICO. ÓBITO. PAGAMENTO INDEVIDO. FALHA NÃO ATRIBUÍVEL À ADMINISTRAÇÃO. DEVOLUÇÃO. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+I - Na origem, trata-se de ação de ressarcimento. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - No STJ, cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO CÍVEL. CIVIL. SERVIDOR PÚBLICO. ÓBITO. PAGAMENTO INDEVIDO. FALHA NÃO ATRIBUÍVEL Ã ADMINISTRAÇÃO. DEVOLUÇÃO. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO. 1. A presente hipótese consiste em examinar se o juízo de origem decidiu corretamente ao determinar a restituição de valores recebidos, de modo indevido, pelos herdeiros de servidora pública falecida e utilizados também, em parte, pela instituição financeira mutuante para o adimplemento das obrigações relativas ao negócio jurídico de mútuo celebrado. 2. Nas hipóteses em que o equívoco pelo pagamento não ocorrer por falha do ente público, mas por ausência de comunicação do falecimento do servidor, é devida a reposição ao erário. 3. A obrigação de restituir, no presente caso, não se insere no âmbito da responsabilidade civil e, portanto, não se confunde com o dever de indenizar. 3.1. Desnecessárias as indagações a respeito da presença de dolo ou culpa para a caracterização da obrigação de restituir os valores indevidamente recebidos pelosrecorrentes.4. Suficientemente comprovado que o banco réu utilizou parte da quantia depositada na conta bancária da falecida servidora para o pagamento de obrigações alusivas a negócio jurídico de mútuo, não merecem prosperar as alegações articuladas pela instituição financeira apelante a respeito de sua ilegitimidade passiva, pois o tema em destaque não se refere à responsabilidade civil aquiliana, insiste-se, mas singelamente à obrigação de restituir os valores indevidamente recebidos. 5. Recursos desprovidos.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida, confiram-se:
+ ..
+7. Não há que se falar em óbice da Súmula 7 do STJ para análise do recurso especial interposto, tão pouco em não reconhecimento do entendimento que obrigou os herdeiros a restituírem o valor pago indevidamente, ignorando a boa-fé dos Agravantes, violando notadamente os artigos 876, 884 e 885 do Código Civil.
+ ..
+15. Outrossim, não há que falar em aplicação da Súmula 83 do STJ no caso dos autos.
+16. Isso porque, diferentemente do entendido pela decisão Agravada, a decisão recorrida não encontra-se em consonância com as orientação do Tribunal Superior na medida em que dos autos não restou demonstrada a má-fé constituída pré-requisito estabelecido por esta Corte Superior para a imputação da obrigação.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. AÇÃO DE RESSARCIMENTO. SERVIDOR PÚBLICO. ÓBITO. PAGAMENTO INDEVIDO. FALHA NÃO ATRIBUÍVEL À ADMINISTRAÇÃO. DEVOLUÇÃO. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO.
+I - Na origem, trata-se de ação de ressarcimento. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - No STJ, cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+ ..
+No presente caso é evidente que parcela do valor depositado, de modo indevido, na conta bancária da servidora falecida foi utilizada para o pagamento de obrigações relativas ao negócio jurídico de mútuo celebrado com a instituição financeira apelante, e uma outra parte foi sacada pelos recorrentes Antônio Flávio de Barros dos Santos e Augusto Cardoso Feitosa, ocasionando prejuízo ao erário. Inicialmente deve ser ressaltado que após o falecimento da servidora houve o rompimento do vínculo com a administração pública. Logo, a partir desse momento o pagamento da remuneração é indevido. Ademais, no caso ora em exame, os apelantes não comunicaram o falecimento da servidora ao órgão. Nas hipóteses em que o equívoco pelo pagamento não ocorrer por falha do ente público, mas por ausência de comunicação do falecimento do servidor, é devida a reposição ao erário.
+ ..
+A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por fim, como dito na decisão agravada, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
