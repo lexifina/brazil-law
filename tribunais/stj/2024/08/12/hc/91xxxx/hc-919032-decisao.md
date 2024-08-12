@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de RAYNER VINICIUS VIEIRA DOS SANTOS COELHO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (HC n. 0809683-97.2024.8.15.0000).
+Depreende-se dos autos que o paciente foi preso cautelarmente, pela suposta prática dos crimes de tráfico de drogas e porte ilegal de arma de fogo.
+Nos termos da peça acusatória, foram apreendidos em poder do réu:
+a) 53 (cinquenta e três) embrulhos plásticos, sendo cinquenta trouxas, dois tabletes e uma porção embalada a vácuo, todos acondicionando substância vegetal compatível com Maconha, com peso total de 2.118,00g (dois mil cento e dezoito gramas) - Laudo de Exame Definitivo de Drogas nº 02.01.05.032024.009797, em anexo;
+b) 01 (uma) pistola, marca Taurus, calibre 9mm, modelo G2C, numeração ADC043940, com 02 (dois) carregadores e 22 (vinte e duas) munições de mesmo calibre - Exame de Eficiência nº 01.01.01.032024.009884 requisitado no id. 89214786, pág. 8;
+c) 02 (dois) aparelhos celulares, marcas XIAOMI (com chip) e SAMSUNG (sem chip);
+d) 01 (um) automóvel modelo VOLKSWAGEN GOL, placa QSD-8086, cor branca.
+Em suas razões, sustenta a defesa ser "impraticável a continuação do presente sem que seja suscitada a nulidade absoluta do feito, em virtude de violação grave à garantia constitucional insculpida no artigo 5º, inciso XI, da Constituição Federal,  ..  uma vez  que tanto a prisão quanto a apreensão dos entorpecentes ocorreram em situação manifestamente arbitrária" (e-STJ fl. 6).
+Ressalta, outrossim, que o paciente "não preenche quaisquer dos requisitos citados no artigo 312 do Código de Processo Penal, tampouco no tocante à necessidade da garantia da aplicação da lei penal, os quais nesse ponto, poderiam inviabilizar o pleito de revogação da prisão preventiva e a concessão da liberdade provisória" (e-STJ fl. 6).
+Diante dessas considerações, pede (e-STJ fls. 17/18):
+6.1. A concessão da Ordem de Habeas Corpus em sede de Liminar tendo em vista a presença dos requisitos necessários à concessão de medida liminar, quais sejam: o periculum in mora (probabilidade de dano irreparável) e o fumus boni iuris, a fim de reconhecer o constrangimento o ilegal decorrente da prisão ilegal e ilegítima que sofre o paciente ante o Acordão do Tribunal de Justiça do Estado da Paraíba, não fundamentado nos termos do art. 315 de CPP, deixando de motivar e fundamentar a medida excepcional com base na atualidade dos riscos em elementos concretos, bem como na ilegalidade cristalina do procedimento do flagrante, assim há de ser colocado o paciente RAYNER VINICIUS VIEIRA DOS SANTOS COELHO, imediatamente em LIBERDADE.
+6.2 No mérito, o reconhecimento da ilegalidade do flagrante, ante a comprovada invasão ilegal do domicílio do paciente, anulando as provas dele derivadas da ilegalidade.
+6.3. Caso não seja o entendimento de Vossa Excelência, que sejam aplicadas de medidas cautelares alternativas à prisão a fim de que o paciente, em liberdade, possa melhor se defender e se ver processar, assumindo a obrigatoriedade de comparecer a todos os atos e termos do processo, fazendo-se, dessa forma, a mais lídima justiça.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional.
+É o relatório.
+Decido.
+De saída, observo que a apontada violação de domicílio não foi apreciada pelo Tribunal de Justiça. Sendo assim, inviável o exame da matéria nesta oportunidade pelo Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância, com o consequente desprezo das normas constitucionais delimitadoras da competência entre os órgãos do Poder Judiciário.
+Passo, pois, ao pedido de revogação da prisão preventiva.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, foram estes os fundamentos invocados para a decretação da medida excepcional (e-STJ fls. 20/22):
+No que diz respeito à medida extrema, ainda que a defesa suscite a inexistência dos requisitos legais, bem como as condições favoráveis do increpado, entendo que os motivos que levaram a decretação da prisão preventiva do acusado ainda subsistem, haja vista a expressiva - de quantidade de entorpecente apreendido 2.118,00g (dois mil cento e dezoito gramas) substância compatível com maconha, além de arma de fogo, carregadores e munições.
+Data máxima vênia, diante as circunstâncias dos fatos noticiados, a conduta criminosa a ele atribuída revela-se extremamente gravosa, haja vista as circunstâncias reais de como o fato ocorreu, sobretudo pela vultosa quantidade de drogas apreendidas. Desse modo, a periculosidade do acusado é clara, na medida em que o porte ou transporte de grande quantidade de entorpecente somente é compreensível a partir do meio social e as relações pessoais do infrator. Nenhum traficante incipiente conseguiria adquirir tamanha quantidade de droga, ao contrário daqueles engajados nessa atividade e com fortes laços com grandes traficantes. E a jurisprudência pátria é pacífica no sentido de que a grande de entorpecente é fator revelador de periculosidade do agente (STF/HC 76543 / SC; HC 72730 / SP; RE 107597 / PR; HC 73878 / SP; HC 67750 / SP).
+Ora, o delito de tráfico gera grave repercussão na comunidade, porquanto se mostra como verdadeiro estopim de vários outros crimes, elevando a sensação de insegurança produzida no seio social, merecendo, pois, um tratamento diferenciado das autoridades constituídas, como forma de inibir e coibir a sua crescente marcha.
+No caso, é certo que essa conduta ilícita denunciada reflete maior gravidade e merece uma pronta resposta do Estado, que se legitima no sacrifício da liberdade individual em prol da garantia da ordem pública.
+A prisão preventiva mostra-se absolutamente necessária, pois é o único meio que se mostra eficiente para preservar os valores jurídicos que o legislador infraconstitucional visou proteger, ressaltando que referido cárcere não depende de prévia imposição de medidas cautelares, quando estas não se revelarem aptas a atingir sua finalidade.
+Outrossim, é de se registrar que, mesmo sendo o réu possuidor de condições pessoais favoráveis, é pacífico o entendimento de que a sua existência, por si só, não autoriza a desconstituição da custódia cautelar, quando presentes outros elementos que a justifiquem, o que ocorre in casu.
+Conforme visto acima, o decreto de prisão preventiva teve como lastro para a segregação cautelar do agente a grande quantidade de droga apreendida - a saber, 2,118kg (dois quilos, cento e dezoito gramas) de maconha -, o que esta Corte tem admitido como fundamentação idônea para a decretação e manutenção da prisão preventiva em razão da gravidade concreta da conduta.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+ ..
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+ ..  (AgRg no RHC n. 125.192/SC, de minha relatoria, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE READEQUAÇÃO DA PRISÃO CAUTELAR COM O REGIME INTERMEDIÁRIO IMPOSTO NA SENTENÇA. AGRAVO DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida - mais de 1 (um) quilograma e 200 (duzentas) gramas de maconha. Precedentes.
+ ..  (AgRg no HC n. 560.702/MG, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/5/2020.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
