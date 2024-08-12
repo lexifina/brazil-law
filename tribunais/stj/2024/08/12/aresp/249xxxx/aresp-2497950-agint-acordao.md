@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR. REFORMA. INCAPACIDADE DA PARTE AUTORA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A desconstituição das premissas lançadas pela instância de origem acerca da incapacidade da parte autora e da respectiva necessidade de sua reforma ensejaria o revolvimento do acervo fático dos autos, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Lucas Aparecido da Silva desafiando decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) ausência de violação aos arts. 489, § 1º, e 1.022 do CPC; e (II) que a alteração das premissas adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+O agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional e acrescenta não ser caso de reexame de provas, sob a alegação de que "não há nada que se provar ou reavaliar, tão somente dá cumprimento a lei federal quanto o que fora apresentado nos autos com relação a incapacidade definitiva (fato incontroverso e omisso na r. decisão) do Recorrente. Na verdade, não se trata de um caso que se apreciará provas, mas sim enquadrar a situação do Recorrente com a Lei Federal.  ..  Ademais, o Superior Tribunal de Justiça, também, possui firme entendimento no sentido de que "o direito à reforma de ofício do militar temporário está condicionada à demonstração da incapacidade definitiva para o serviço", sendo que "em relação ao militar que se encontra agregado por mais de 2 (dois) anos, o STJ entende que o art. 106, III, da Lei 6.880/1980 deve ser interpretado conjuntamente com os arts. 108 e 109 do mesmo Estatuto, de modo que o direito à reforma imprescinde da demonstração da incapacidade definitiva" (cf. AgInt no REsp 1515857/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/08/2017, DJe 15/08/2017)" (fl. 708).
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR. REFORMA. INCAPACIDADE DA PARTE AUTORA. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A desconstituição das premissas lançadas pela instância de origem acerca da incapacidade da parte autora e da respectiva necessidade de sua reforma ensejaria o revolvimento do acervo fático dos autos, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado no decisum, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional" (AgInt no AREsp n. 879.172/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/9/2016, DJe de 28/9/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/9/2016, DJe de 27/9/2016.)
+No mais, colhe-se do acórdão o seguinte trecho, verbis (fls. 578/582):
+Quanto à alegação do autor de fazer jus à reforma com base no art. 106, III, da Lei 6.880/1980, registra-se que a jurisprudência desta Corte é no sentido de que a mera agregação por período superior a 02 (dois) anos, nos casos de incapacidade temporária, não pode configurar direito à reforma ex officio.  ..  a aferição da incapacidade do militar é absolutamente necessária à reforma fundada no art. 106, III, da Lei nº 6.880/80.
+No caso em exame, o autor era militar temporário e se encontrava incapaz temporariamente para o serviço, e a perícia produzida nos autos nº 5001625- 77.2016.4.04.7015 constatou que a doença causadora da incapacidade é pré- existente à incorporação, ainda que agravada por acidente em serviço.
+Nesse contexto, como o autor ficou integrado à organização militar, recebendo tratamento médico-hospitalar e fisioterápico prestado pelo Exército e a respectiva remuneração, não faz jus à reforma com base no art. 106, III, da Lei 6.880/80, em que pese agregado por mais de 2 anos.
+Assim, está correta a decisão ao observar que a desconstituição das premissas lançadas pela instância de origem acerca da incapacidade da parte autora e da respectiva necessidade de sua reforma ensejaria o revolvimento do acervo fático dos autos, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MILITAR TEMPORÁRIO. REINTEGRAÇÃO. REFORMA. LAUDO PERICIAL. INVALIDEZ NÃO COMPROVADA. SÚMULA 7/STJ. INCIDÊNCIA.
+1. A desconstituição das premissas lançadas pela instância ordinária atinentes à ausência de invalidez total e definitiva para o trabalho castrense e de relação de causalidade da moléstia com a prestação do serviço militar, ensejaria o reexame de matéria fática, procedimento que, em sede especial, encontra óbice da na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.153.939/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe de 21/11/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPCP/1973 NÃO CONFIGURADA. MILITAR TEMPORÁRIO. AUSÊNCIA DE INCAPACIDADE DEFINITIVA PARA TODA E QUALQUER ATIVIDADE.
+INEXISTÊNCIA DO DIREITO À REFORMA. IMPOSSIBILIDADE DE REEXAME DE FATOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. A jurisprudência do STJ reconhece que o militar temporário ou de carreira que se torna definitivamente incapacitado para o serviço ativo das Forças Armadas, em decorrência das causas previstas nos incisos I a IV do art. 108 da Lei 6.880/1980 - que contemplam hipóteses com relação de causa e efeito com as atividades militares -, faz jus à reforma, com soldo correspondente ao que recebia na ativa, independentemente de seu tempo de serviço, conforme determina o art. 109 da Lei 6.880/1980 (STJ, AgRg no AREsp 498.944/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 27/6/2014).
+3. O Tribunal de origem, com fundamento no contexto fático-probatório dos autos, concluiu que, "na inspeção realizada pela Junta Regular de Saúde Militar, em 29/01/07, o autor foi considerado incapaz temporariamente (B1) para o serviço militar" (fl. 238, e-STJ). É inviável, portanto, analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e nessa parte não provido.
+(REsp n. 1.683.490/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2017, DJe de 9/10/2017.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
