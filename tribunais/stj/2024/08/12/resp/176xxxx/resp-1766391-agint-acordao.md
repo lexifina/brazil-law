@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. TRIBUNAL DE ORIGEM QUE, COM BASE NOS ELEMENTOS FÁTICOS DA CAUSA, CONCLUIU PELA AUSÊNCIA DE DOLO NA CONDUTA DOS RÉUS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, infirmar a conclusão do acórdão recorrido no sentido de que "não há prova minimamente consistente" (fl. 648) de que os atos imputados aos agravados "tenham decorrido de atitude dolosa dos envolvidos, com o intuito de beneficiarem indevidamente a pessoa jurídica de direito privado em detrimento de outros interessados, de obterem vantagem pessoa ilícita ou qualquer outro propósito inconfessável" (fl. 648), demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, contra a decisão que não conheceu do recurso especial (fls. 878-881).
+O agravante sintetizou suas alegações na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO RECURSO ESPECIAL. EFETIVA DEMONSTRAÇÃO DO DOLO NA CONDUTA DO AGENTE. DESNECESSIDADE DE REEXAME DE MATÉRIA DE FATO. NÃO INCIDÊNCIA DA SÚMULA 07, STJ. CONTRATAÇÃO DE EMPRESA DO IRMÃO DO ALCAIDE MEDIANTE DISPENSA DE LICITAÇÃO. NEPOTISMO CONTRATUAL. DOLO IN RE IPSA. IMPEDIMENTO. PROVIMENTO.
+1. Decisão que não conhece recurso especial assinalando que a "modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante o teor da Súmula 7/STJ"".
+2. Recurso especial expondo que "Houve a contratação, não houve a licitação e como afirmado na sentença, nas contrarrazões ministeriais, no parecer da Procuradoria de Justiça, havia 33 (trinta e três) estabelecimentos comerciais como opção para a compra das mesmas mercadorias adquiridas do irmão do recorrido".
+3. Efetiva comprovação do dolo. Desnecessidade de reexame de matéria fática. Contratação da empresa do irmão do alcaide, mediante dispensa de licitação, incidindo em regra de impedimento absoluto, violada livre e conscientemente, satisfazendo interesse alheio em hipótese de autêntico nepotismo contratual.
+4. Provimento (fl. 888).
+Ao final requer "o provimento do presente agravo interno para que o recurso especial seja conhecido e provido" (fl. 897) .
+CHARLES CÉSAR NARDACHIONI apresentou impugnação ao agravo interno (fls. 900-905).
+As partes foram intimadas a se manifestar acerca da superveniência da Lei 14.230/2021.
+O agravado afirma que, como:
+ ..  no caso presente a absoluta ausência de dolo em qualquer ato do ora agravado, sendo, ainda, que os cofres da Prefeitura Municipal de Sales não sofreram qualquer prejuízo que tenha sido motivado por ato do agravado, o que desnatura o ato de improbidade administrativa, nos termos regidos pela Lei Federal nº 8.429, de 1.992, e conforme esse e. Superior Tribunal de Justiça tem reiteradamente decidido (fl. 922).
+O agravante apresentou petição alegando que "a reforma operada na Lei de Improbidade Administrativa não altera o panorama do caso, visto que a conduta atribuída aos réus pode ser enquadrada nas novas disposições da lei" (fl. 929).
+O MINISTÉRIO PÚBLICO FEDERAL apresentou manifestação sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. RECURSO ESPECIAL. LEI Nº 14.230/2021. PRESENÇA DE DOLO. ENQUADRAMENTO DAS CONDUTAS. 1 - As condutas foram praticadas com dolo. 2 - Houve o enquadramento típico das condutas (continuidade típico-normativa). Conclusão - a Lei 14.230/21 não prejudica o presente caso; pelo provimento do agravo interno (fl. 933).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. TRIBUNAL DE ORIGEM QUE, COM BASE NOS ELEMENTOS FÁTICOS DA CAUSA, CONCLUIU PELA AUSÊNCIA DE DOLO NA CONDUTA DOS RÉUS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, infirmar a conclusão do acórdão recorrido no sentido de que "não há prova minimamente consistente" (fl. 648) de que os atos imputados aos agravados "tenham decorrido de atitude dolosa dos envolvidos, com o intuito de beneficiarem indevidamente a pessoa jurídica de direito privado em detrimento de outros interessados, de obterem vantagem pessoa ilícita ou qualquer outro propósito inconfessável" (fl. 648), demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): A pretensão não merece acolhida.
+Na origem, o agravante ajuizou, em 30/7/2013, ação civil pública, postulando a condenação do então Prefeito do Município de Sales/SP e de JOÃO NARDACCHIONE JÚNIOR - ME, ora agravados, pela prática de ato de improbidade administrativa, consubstanciado em compras com indevida dispensa de licitação em empresa de propriedade do irmão do prefeito.
+A sentença julgou procedente o pedido para:
+1) RECONHECER a prática de ato de improbidade administrativa pelo réu CHARLES CÉSAR NARDACHIONI, reputando-o como incurso no artigo 11, "caput", da Lei 8.429/92; e SUJEITANDO-O, com fundamento no artigo 12, inciso III, da LIA ao pagamento de multa civil, no valor de 3 (três) remunerações mensais, no valor percebido no ano 2013 (ano dos fatos), acrescida de correção desde maio de 2013.
+2) RECONHECER a prática de ato de improbidade administrativa pelo réu JOÃO NARDACCHIONE JÚNIOR - ME, reputando-o como incurso no artigo 11, "caput", da Lei 8.429/92; e SUJEITANDO-O, com fundamento no artigo 12, inciso III, da LIA, à proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da Qual seja sócio majoritário, pelo prazo de três anos (fl. 420).
+Interpostas apelações, foram providas, pelo Tribunal de origem. O acórdão, publicado em 5/2/2010, foi assim fundamentado:
+No caso concreto, não se cogita da ocorrência de enriquecimento ilícito nem de lesão ao erário, tanto que as condutas dos réus foram enquadradas no art. 11 da Lei de Improbidade Administrativa.
+ ..
+É imprescindível à sua tipificação que o ato ilegal tenha origem em conduta desonesta, ardilosa, denotativa de falta de probidade do agente público.
+ ..
+Portanto, a conduta ilícita do agente público para tipificar ato de improbidade deve ter esse traço comum e característico de todas as modalidades de improbidade administrativa: desonestidade, má-fé, falta de probidade no trato da coisa pública.
+ ..
+E na espécie não há prova minimamente consistente, que ao autor incumbia produzir, de que as aquisições pela Municipalidade de Sales, no princípio de abril de 2013, de autopeças da micro -empresa do irmão do Prefeito Municipal, em valores que somados não atingem seis mil reais, tenham decorrido de atitude dolosa dos envolvidos, com o intuito de beneficiarem indevidamente a pessoa jurídica de direito privado em detrimento de outros interessados, de obterem vantagem pessoa ilícita ou qualquer outro propósito inconfessável.
+Falta registrar que a questão de mérito é de direito e de fato, de sorte que ao menos em princípio não era caso de julgamento antecipado da lide, questão que todavia perde qualquer relevância ante o disposto no art. 282, § 2º, do Código de Processo Civil ("Quando puder decidir o mérito a favor da parte a quem aproveite a decretação da nulidade, o juiz não a pronunciará nem mandará repetir o ato ou suprir-lhe a falta") (fls. 647-648).
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 671-674.
+O agravante interpôs recurso especial, sustentando, além de divergência jurisprudencial, ofensa aos arts. 3º, § 1º, I, 9º, III, § 3º, da Lei 8.666/1993, por entender, em síntese, que:
+ ..  se a lei veda a participação na licitação para preservação da lisura do certame, evitando expedientes como o acesso a informações privilegiadas, a preferência em razão dos laços familiares, a fortiori proíbe a contratação direta porque, nesse caso, sem dúvida, haverá inegável favorecimento e ruptura solar da moralidade na medida em que o erário se tornará fonte de extração de riquezas e vantagens aos parentes do agente público escolhidos subjetivamente (fl. 716).
+Sobre o tema, mesmo antes da superveniência da Lei 14.230/2021, a jurisprudência do STJ era firme no sentido de que:
+A improbidade é ilegalidade tipificada e qualificada pelo elemento subjetivo da conduta do agente. Por isso mesmo, a jurisprudência do STJ considera indispensável, para a caracterização de improbidade, que a conduta do agente seja dolosa, para a tipificação das condutas descritas nos artigos 9º e 11 da Lei 8.429/92, ou pelo menos eivada de culpa grave, nas do artigo 10 (AIA 30/AM, relator Ministro Teori Albino Zavascki, Corte Especial, julgado em 21/9/2011, DJe de 28/9/2011).
+No caso, nos termos em que posta a discussão, infirmar os fundamentos do acórdão recorrido no sentido de que "não há prova minimamente consistente" (fl. 648) de que os atos imputados aos agravados "tenham decorrido de atitude dolosa dos envolvidos, com o intuito de beneficiarem indevidamente a pessoa jurídica de direito privado em detrimento de outros interessados, de obterem vantagem pessoa ilícita ou qualquer outro propósito inconfessável" (fl. 648), demandaria o reexame de matéria fática; o que é vedado em recurso especial, nos termos da Súmula 7/STJ. Nesse sentido:
+ADMINISTRATIVO. IMPROBIDADE. AUSÊNCIA DO ELEMENTO SUBJETIVO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação por Improbidade Administrativa contra a recorrida, objetivando a devolução dos valores recebidos a titulo de décimo terceiro (gratificação natalina), quando ocupante de mandato eletivo ou cargo de provimento em comissão.
+2. O Tribunal a quo consignou na sua decisão: "Assim, no caso em estudo, vislumbra-se que a apelada não praticou qualquer ato ímprobo ou de má-fé ao receber os valores referentes ao 13º salário nos períodos em questão (2001 a 2005), posto que há previsão constitucional autorizando tal recebimento." (grifo acrescentado) (fl. 321).
+3. Quanto à existência do elemento subjetivo, o Tribunal de origem foi categórico ao reconhecer a ausência da culpa o u dolo. Portanto, ausente o elemento subjetivo, seja a culpa, seja o dolo genérico, seja o dolo específico.
+4. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+5. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ.
+6. Agravo Regimental não provido (AgRg no REsp 1.457.608/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/9/2014, DJe de 10/10/2014).
+Isso posto, nego provimento ao agravo interno.
