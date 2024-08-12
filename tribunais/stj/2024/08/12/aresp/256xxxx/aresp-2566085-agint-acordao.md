@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por KOVR SEGURADORA S.A. contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 675):
+AGRAVO EM RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 682), a insurgente reitera a tese de negativa de prestação jurisdicional.
+Sem impugnação (e-STJ, fl. 696).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No caso, a insurgente defendeu, nas razões do recurso especial, que o acórdão recorrido incorreu em negativa de prestação jurisdicional por ter o Tribunal estadual se omitido sobre a finalidade da apresentação dos documentos que comprovem a data da abertura do sinistro, a data do sinistro e a data do início do processo de regulação, se todas essas informações já estão de posse da autora, uma vez que a ela cabia dar início à abertura do sinistro. Assim, afirmou que não houve a necessária prestação jurisdicional, mesmo após a oposição dos aclaratórios.
+No presente recurso, reitera a existência de omissão no acórdão recorrido ao argumento de que a referida documentação não era de sua obrigação exclusiva, por se tratar de documentos em posse da parte agravada e, portanto, de responsabilidade conjunta.
+Vale ressaltar, contudo, que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+A propósito, confira-se a fundamentação do Tribunal de Justiça do Estado de São Paulo (e-STJ, fls. 596-598 - sem grifos no original):
+Segundo consta da inicial, narra a autora que, em 01/06/2019, estipulou com a ré contrato de seguro, cujo objeto é assegurar pessoas físicas vinculadas à autora e os subestipulantes, de acordo com as garantias contratadas, mediante o pagamento do prêmio correspondente. Entretanto, desde o início da vigência do contrato, a ré apresentou dificuldades sistêmicas e operacionais, incorrendo em diversos descumprimentos contratuais que prejudicaram a administração e a estabilidade financeira da apólice.
+Destaca que a falta de pagamento das indenizações no prazo de 30 dias do recebimento da documentação tem prejudicado sua credibilidade com os subestipulantes, resultando na perda de mais de 50% da carteira de segurados migrada pela Mezzo à Investprev quando do início da relação contratual. Neste cenário e necessitando tomar conhecimento exato da atuação da requerida, requer a condenação desta na exibição de todos os documentos relacionados ao contrato de seguro, especificados na inicial.
+Há prova documental de que a ré foi notificada para que apresentasse os documentos pretendidos nesta ação. Igualmente, a autora demonstrou o questionamento perante a seguradora de inconsistências de conclusão de sinistros e datas de efetiva quitação. Patente, assim, seu interesse de agir e a necessidade da propositura da ação.
+No mais, verifica-se que a documentação pretendida diz respeito à obrigações exclusivas da seguradora, conforme cláusula 7.2, do acordo operacional (fls. 66) e que não há prova cabal de que a autora teve acesso à regulação dos sinistros na integralidade.
+Não se trata de reclamação de segurados, mas de aferição por parte da autora se houve desídia da requerida no procedimento regulatório, justificado pelo decréscimo acentuado na carteira de clientes. O teor dos e-mails colacionados respalda a dúvida levantada, porque em diversas ocasiões foi sinalizada a demora na conclusão dos sinistros, como o documento de fls. 447, por exemplo.
+Não cabe nesta ação constatar possível inadimplência da autora, circunstância que poderá ser ponderada quando se discutir eventual desídia da requerida.
+O mesmo raciocínio se aplica ao cálculo para o índice IBNR, caso tenha sido feito de forma parcial por conta da pendência de dados, que deveriam ter sido enviados pela autora.
+A disponibilização dos documentos relativos aos segurados não implica violação à Lei Geral de Proteção de Dados, sobretudo porque a requerente figurou na avença como estipulante. Além disso, a visualização a tais documentos, se disponibilizados nos autos, será restrita às partes e seus advogados, que se dá mediante senha para acesso ao processo digital.
+A alegação genérica de impossibilidade de cumprimento não prospera, porque diz respeito às obrigações contratuais sob o encargo da requerida, ainda que se trate de compilação extensa de documentos.
+Colhe-se, ainda, o seguinte trecho firmado no âmbito dos embargos de declaração (e-STJ, fls. 604-605):
+Ora, verificou-se no acórdão que a documentação pretendida diz respeito a obrigações exclusivas da seguradora, conforme cláusula 7.2, do acordo operacional (fls. 66) e que não há prova cabal de que a autora teve acesso à regulação dos sinistros na integralidade. Pretende a autora aferir eventual desídia e demora da seguradora, na conclusão dos sinistros, sob a justificativa de decréscimo de sua carteira de clientes. Assim, não vejo omissão, eis que para tanto, faz-se necessário conferir quando as regulações foram abertas.
+Não se trata, pois, de falha do foi que decidido, mas de pretensão de que se faça reexame dos autos, de maneira que favoreça a embargante, com a análise das provas e elucidações, o que torna imprestáveis os embargos para o fim almejado.
+Denota-se que o voto condutor do acórdão recorrido deixou claros os motivos da necessidade de exibição dos documentos pela ora agravante, sendo enfático em destacar que a documentação solicitada diz respeito a obrigações exclusivas da seguradora, em conformidade com cláusula prevista no acordo operacional.
+Por conseguinte, o que se observa é que a ora agravante não se conformou com o aresto impugnado ao expor, no apelo especial, a necessidade de nova apreciação dos embargos de declaração, a fim de que dê o correto tratamento ao caso dos autos.
+Como dito acima, embora os embargos de declaração tenham sido rejeitados, a Corte a quo examinou, motivadamente, as questões relativas à apelação da parte insurgente com o direito que entendeu aplicável ao caso. Logo, não há falar em negativa de prestação jurisdicional.
+Desse modo, aplica-se à espécie o entendimento pacífico do Superior Tribunal de Justiça segundo o qual "não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada" (AgInt no REsp 1.916.616/SE, Rel. o Ministro Herman Benjamin, Segunda Turma, julgado em 28/06/2021, DJe 01/07/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
