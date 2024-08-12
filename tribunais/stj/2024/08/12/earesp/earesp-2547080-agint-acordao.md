@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO À APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA. AUSENCIA DE NEXO CAUSAL RECONHECIDA NA ORIGEM. AGRAVO EM RECURSO ESPECIAL QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO DE INADMISSIBLIDADE. NÃO CONHECIMENTO. INTELIGÊNCIA DOS ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Recurso Especial da obreira não foi admitido na origem porquanto não houve indicação de dispositivo de lei federal tido por violado, de modo que se entendeu aplicável a Súmula 284/STF.
+2. E nas razões do Agravo em Recurso Especial o agravante se limitou a reiterar os fundamentos de mérito do seu inconformismo. Não se conhece, contudo, do agravo em recurso especial que deixa de atacar específica e fundamentadamente os fundamentos da decisão de inadmissibilidade. Inteligência do art. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA GORETTE FERREIRA contra decisão monocrática da Presidência desta Corte, em que se decidiu o seguinte, in verbis (1442-1443):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nas razões do agravo interno sustenta que na instância ordinária foram proferidas duas decisões na seara estadual e duas decisões na seara federal, afastando a competência uma da outra para julgar a causa.
+Argumenta que tal questão, de ordem pública, deveria ser apreciada pelo poder judiciário. Pugna pelo provimento do agravo e conhecimento da matéria.
+É o necessário relatar.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO À APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA. AUSENCIA DE NEXO CAUSAL RECONHECIDA NA ORIGEM. AGRAVO EM RECURSO ESPECIAL QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO DE INADMISSIBLIDADE. NÃO CONHECIMENTO. INTELIGÊNCIA DOS ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Recurso Especial da obreira não foi admitido na origem porquanto não houve indicação de dispositivo de lei federal tido por violado, de modo que se entendeu aplicável a Súmula 284/STF.
+2. E nas razões do Agravo em Recurso Especial o agravante se limitou a reiterar os fundamentos de mérito do seu inconformismo. Não se conhece, contudo, do agravo em recurso especial que deixa de atacar específica e fundamentadamente os fundamentos da decisão de inadmissibilidade. Inteligência do art. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+3. Agravo interno não provido.
+VOTO
+O presente recurso não merece ser provido.
+Isto porque se infere da decisão de inadmissibilidade que a decisão agravada inadmitiu o recurso especial considerando a ausência de indicação de artigo de lei federal violado, de forma a incidir sobre a pretensão o entendimento da Súmula 284/STF.
+Ocorre que, conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial exige que a parte agravante impugne todos os fundamentos da decisão que não admitiu o recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem quanto à deficiência de cotejo analítico. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente, na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+5. Analisar se houve (ou não) a prescrição, revela-se questão de mérito, que só poderia ser enfrentada caso vencida a barreira da admissibilidade.
+6. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.201.614/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS, AINDA QUE AUTÔNOMOS E/OU INDEPENDENTES, DA DECISÃO AGRAVADA. AGRAVO DO ART. 1.042 DO CPC/2015. EXIGÊNCIA. AGRAVO DO ART. 1.021 DO CPC/2015. NÃO EXIGÊNCIA. PRECEDENTES DA CORTE ESPECIAL.
+1. Trata-se de Agravo Interno contra decisão unipessoal que não conheceu do Agravo do art. 1.042 do CPC, porque não foram impugnados todos os fundamentos da decisão que não admitiu, na origem, o Recurso Especial, o que atraiu a aplicação analógica da Súmula 182 do STJ.
+2. É pacífico o entendimento do STJ acerca da necessidade de o recorrente, no Agravo do art. 1.042 do CPC/2015, atacar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+3. A jurisprudênca do STJ aplica a Súmula 182 para não conhecer do Agravo do art. 1.042 do CPC, que não impugna todos os fundamentos, ainda que autônomos e/ou independentes, da decisão que inadmitiu, no Tribunal de origem, o Recurso Especial.
+4. Tal exigência, todavia, não se aplica ao Agravo Interno, previsto no art. 1.021 do CPC/2015. Nesse caso, o atual entendimento da Corte Especial do STJ é no sentido de que "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ."
+(EREsp 1.424.404/SP, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 17/11/2021).
+5. No presente caso, a impugnação parcial ocorreu no Agravo em Recurso Especial, afigurando-se correta a decisão ora agravada, que deve ser mantida.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.153.482/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/2/2023, DJe de 28/3/2023.)
+Esclareça-se que, em respeito ao princípio da dialeticidade recursal, os recursos devem ser bem fundamentados de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+Do Regimento Interno desta Corte de Justiça, cita-se o art. 253, parágrafo único, I, do RISTJ, consta que "O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente TODOS os fundamentos da decisão recorrida" .
+Por fim, a reforçar esse entendimento, o Código de Processo Civil de 2015 é no sentido de que não deve ser conhecido o recurso que não tenha impugnado especificamente todos os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
