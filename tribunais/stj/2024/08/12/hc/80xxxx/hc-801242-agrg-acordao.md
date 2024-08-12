@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PENAL  E  PROCESSUAL  PENAL.  CRIMES  DOS  ARTS.  306  E  309  DO  CÓDIGO  DE  TRÂNSITO  BRASILEIRO.  SUBSTITUIÇÃO  DA  SANÇÃO  CORPORAL  POR  PENA  DE  MULTA.  IMPOSSIBILIDADE.  MEDIDA  QUE  NÃO  É  SOCIALMENTE  RECOMENDÁVEL  NA  HIPÓTESE.  PRECEDENTES  DESTA  CORTE  SUPERIOR.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Nos  moldes  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  em  se  tratando  de  delito  previsto  em  lei  especial,  constando  do  preceito  secundário  do  tipo  a  cominação  cumulativa  de  pena  privativa  de  liberdade  com  pena  pecuniária,  inviável  a  substituição  da  pena  corporal  por  multa
+2.  Agravo  regimental  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  HAMILTON  SANTOS  DO  AMARAL  contra  a  decisão  de  fls.  305/307,  proferida  pelo  eminente  Ministro  Teodoro  Silva  Santos,  ementada  nos  seguintes  termos  (fl.  305):
+HABEAS  CORPUS.  PENAL  E  PROCESSUAL  PENAL.  CRIMES  DOS  ARTS.  306  E  309  DO  CÓDIGO  DE  TRÂNSITO  BRASILEIRO. WRIT SUBSTITUTIVO  DE  RECURSO  ESPECIAL.  INADEQUAÇÃO  DO  PRESENTE REMÉDIO.  PRECEDENTES.  ILEGALIDADE  FLAGRANTE  NÃO  EVIDENCIADA.  SUBSTITUIÇÃO  DA  SANÇÃO  CORPORAL  POR  PENA  DE  MULTA.  IMPOSSIBILIDADE.  MEDIDA  QUE  NÃO  É  SOCIALMENTE  RECOMENDÁVEL  NA  HIPÓTESE.  PRECEDENTES  DESTA  CORTE  SUPERIOR.  PEDIDO  DE  HABEAS  CORPUS  NÃO  CONHECIDO.
+Consta  nos  autos  que,  em  primeiro  grau,  o  agravante  foi  condenado  ao  cumprimento  de  01  (um)  ano  e  02 (dois)  meses  de  detenção,  em  regime  semiaberto,  ao  pagamento  de  20 (vinte dias)  dias-multa,  cada  qual  no  valor  mínimo  previsto  para  o  tipo,  e  à  proibição/suspensão  de  obter  a  permissão  ou  habilitação  para  dirigir  veículo  automotor,  pelo  período  de  02 (dois)  meses  e  10 (dez)  dias,  conforme  art.  293,  caput,  do  Código  de  Trânsito  Brasileiro,  por  infração  ao  disposto  nos  arts.  306,  §  1º,  II,  e  309,  caput,  ambos  do  Código  de  Trânsito  Brasileiro.
+O  Tribunal  de  origem  negou  provimento  ao  recurso  defensivo  e,  de  ofício,  reconheceu  a  existência  de  concurso  formal  de  delitos,  a  fim  de  reduzir  a  pena  para  0  8  (oito)  meses  e  05 (cinco)  dias  de  detenção,  10 (dez)  dias-multa  e  02  (dois)  meses  e  10 (dez)  dias  de  proibição  de  obter  carteira  ou  permissão  para  dirigir  veículos,  e  substituir  a  reprimenda  privativa  de  liberdade  por  restritiva  de  direitos  consistente  em  prestação  de  serviços  à  comunidade,  a  ser  cumprida,  preferencialmente,  nos  termos  do  art.  312-A  da  Lei  n.  9.503/1997.
+Nas  razões  do  writ,  a Defesa  sustentou  que, uma vez estabelecida a pena privativa de liberdade em patamar não superior a 01 (um) ano, caberia sua substituição por multa ou por uma restritiva de direitos, nos termos da primeira parte do § 2.º do art. 44 do Código Penal.
+A lim inar foi indeferida às fls. 305/307.
+Às  fls.  319/321,  o  writ  não foi conhecido.
+Nas  razões  do  agravo  regimental,  a  Defesa  reitera  os  fundamentos  da  inicial  do  habeas  corpus,  insistindo  na  tese  de  que,
+embora se trate de delito de trânsito disciplinado por lei especial (Lei 9.503/97), o Código de Trânsito Brasileiro não disciplina especificamente a pena de multa, remetendo-se à disciplina do Código Penal, sendo evidentemente impertinente o Verbete 171 do STJ.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PENAL  E  PROCESSUAL  PENAL.  CRIMES  DOS  ARTS.  306  E  309  DO  CÓDIGO  DE  TRÂNSITO  BRASILEIRO.  SUBSTITUIÇÃO  DA  SANÇÃO  CORPORAL  POR  PENA  DE  MULTA.  IMPOSSIBILIDADE.  MEDIDA  QUE  NÃO  É  SOCIALMENTE  RECOMENDÁVEL  NA  HIPÓTESE.  PRECEDENTES  DESTA  CORTE  SUPERIOR.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  Nos  moldes  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  em  se  tratando  de  delito  previsto  em  lei  especial,  constando  do  preceito  secundário  do  tipo  a  cominação  cumulativa  de  pena  privativa  de  liberdade  com  pena  pecuniária,  inviável  a  substituição  da  pena  corporal  por  multa
+2.  Agravo  regimental  não  provido.
+VOTO
+O  inconformismo  não  prospera.
+No  caso,  o  Tribunal  de  origem  assim  consignou  (fls.  210/211;  grifamos):
+Diante disso, tendo em vista que as circunstâncias judiciais são favoráveis, que a reincidência não é específica, que o crime que originou a agravante aconteceu há cerca de 15 (quinze) anos e que o Apelante adimpliu com a pena corporal imposta em razão daquele fato, entende-se ser possível a substituição da pena privativa de liberdade por uma restritiva de direitos, pois não verifico que a medida não seria socialmente recomendável. .. Assim, nos termos do art. 44, §§ 2º e 3º, do Código Penal, deve a pena de 8 meses e 5 dias de detenção ser substituída por prestação de serviços à comunidade, a ser cumprida nos termos do art. 312-A da Lei 9.503/97.
+É inviável que a pena substitutiva seja a de multa, por força da Súmula 171 do Superior Tribunal de Justiça: Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.
+De fato, o  acórdão  impugnado  está  alinhado  com  a  jurisprudência  desta  Corte,  segundo a qual,
+se ao tipo penal é cominada pena de multa autônoma e cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva, prevista no art. 44, § 2º, do Código Penal (AgRg no HC n. 832.626/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+Com  igual  conclusão:
+
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PENAL.  EMBRIAGUEZ  NO  TRÂNSITO.  SUBSTITUÇÃO  DA  SANÇÃO  CORPORAL  POR  PENA  DE  MULTA.  IMPOSSIBILIDADE.  SÚMULA  N.  171/STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Nos  termos  da  Súmula  n.  171/STJ,  quando  o  próprio  preceito  secundário  do  tipo  penal  já  impõe  a  aplicação  cumulativa  da  pena  de  multa,  é  inviável  a  substituição  da  pena  privativa  de  liberdade  por  outra  pena  de  multa.
+2.  Agravo  regimental  desprovido.
+(AgRg  no  AREsp  n.  2.195.001/SC,  relator  Ministro  Teodoro  Silva  Santos,  Sexta  Turma,  julgado  em  12/12/2023,  DJe  de  15/12/2023)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  CRIME  DE  TRÁFICO  DE  DROGAS.  §  4º.  SUBSTITUIÇÃO  DA  PENA  PRIVATIVA  DE  LIBERDADE  POR  DUAS  RESTRITIVAS  DE  DIREITOS.  AUSÊNCIA  DE  CONSTRANGIMENTO  ILEGAL.  SÚMULA  N.  171  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  -  STJ.  INOVAÇÃO  DE  FUNDAMENTAÇÃO.  ART.  34,  XX,  DO  REGIMENTO  INTERNO  DESTA  CASA  POSSIBILITA  AO  RELATOR  DECIDIR  WRIT  EM  CONFORMIDADE  COM  O  DISPOSTO  EM  SÚMULA  DO  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  "Cominadas  cumulativamente,  em  lei  especial,  penas  privativa  de  liberdade  e  pecuniária,  é  defeso  a  substituição  da  prisão  por  multa"  (Súmula  n.  171  do  Superior  Tribunal  de  Justiça).  Precedentes.
+2.  Não  há  falar  em  inovação  de  fundamentação  por  esta  Corte,  haja  vista  que  as  decisões  de  primeiro  e  segundo  graus,  ao  não  substituírem  a  pena  privativa  de  liberdade  por  multa,  estão  em  conformidade  com  tese  fixada  em  Súmula  do  Superior  Tribunal  de  Justiça  (art.  34,  XX,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  -  RISTJ).
+3.  Agravo  regimental  desprovido.
+(AgRg  no  HC  n.  838.617/SC,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  julgado  em  11/3/2024,  DJe  de  13/3/2024)
+AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  CRIME  DE  FURTO.  PENA  PRIVATIVA  DE  LIBERDADE.  SUBSTITUIÇÃO  POR  DUAS  PENAS  RESTRITIVAS  DE  DIREITOS.  ESCOLHA  FUNDAMENTADA  DO  JULGADOR.  SUBSTITUIÇÃO  POR  MULTA.  APLICAÇÃO  DA  SÚMULA  N.  171  DO  STJ.  HIPOSSUFICIÊNCIA  ECONÔMICA.  REVISÃO  DE  FATOS  E  PROVAS.  JURISPRUDÊNCIA  DO  STJ.
+1.  O  art.  44,  §  2º,  do  Código  Penal  dispõe  que,  "Na  condenação  igual  ou  inferior  a  um  ano,  a  substituição  pode  ser  feita  por  multa  ou  por  uma  pena  restritiva  de  direitos;  se  superior  a  um  ano,  a  pena  privativa  de  liberdade  pode  ser  substituída  por  uma  pena  restritiva  de  direitos  e  multa  ou  por  duas  restritivas  de  direitos".
+2.  O  Superior  Tribunal  de  Justiça  tem  entendido  que,  fixada  a  pena  corporal  nos  patamares  delineados  no  art.  44,  §  2º,  do  Código  Penal,  compete  ao  julgador  a  escolha  fundamentada  do  modo  de  aplicação  da  benesse  legal  (AgRg  no  HC  n.  644.371/SC,  relator  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  DJe  31/5/2021).
+3.  "Cominadas  cumulativamente,  em  lei  especial,  penas  privativa  de  liberdade  e  pecuniária,  é  defeso  a  substituição  da  prisão  por  multa"  (Súmula  n.  171  do  STJ.)
+4.  Constatada  a  hipossuficiência  econômica  do  agravante,  a  inversão  do  julgado  de  modo  a  concluir  pela  possibilidade  da  substituição  por  multa,  é  providência  que  requer  a  revisão  dos  fatos  e  provas,  incabível  na  via  do  writ.
+5.  Agravo  regimental  improvido.
+(AgRg  no  HC  n.  809.886/SC,  relator  Ministro  Jesuíno  Rissato  (Desembargador  Convocado  do  TJDFT),  Sexta  Turma,  julgado  em  11/12/2023,  DJe  de  15/12/2023)
+Dessa  forma,  na  ausência  de  argumento  relevante  que  infirme  as  razões  consideradas  no  julgado  ora  agravado,  que  está  em  sintonia  com  a  jurisprudência  desta  Corte  Superior  de  Justiça,  deve  ser  mantida  a  decisão  por  seus  próprios  termos.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
