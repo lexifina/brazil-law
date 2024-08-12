@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por Class Veiculos Ltda. e outros contra decisão que não admitiu o recurso especial manejado em face de acórdão, prolatado pelo Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ, fl. 561):
+APELAÇÃO CÍVEL. AÇÃ O MONITÓRIA. PRELIMINAR DE NULIDADE DA SENTENÇA AFASTADA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE ABERTURA DE CRÉDITO. EMBARGOS MONITÓRIOS REJEITADOS. NOVAÇÃO DE DÍVIDA. REVISÃO DOS CONTRATOS ANTERIORES. IMPOSSIBILIDADE. AFASTAMENTO DA SÚMULA 286/STJ. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE CUMULAÇÃO. TERMO INICIAL DOS JUROS DE MORA. AJUIZAMENTO DA AÇÃO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. SENTENÇA REFORMADA DE OFÍCIO.
+1. Não há que se falar em nulidade por ausência de fundamentação, uma vez suficientes para ensejar a rejeição dos embargos de declaração, cujo objetivo dos apelantes é rediscutir o entendimento proferido.
+2. N ão configura cerceamento de defesa a ausência de juntada de contratos anteriores ao da novação da dívida, posto que caracterizada a novação não há possibilidade de se revisar contratos extintos, afastando a aplicação da Súmula 286 do STJ . Precedentes do STJ e da Corte Goiana.
+3. O contrato de abertura de crédito em conta-corrente, acompanhado dos demonstrativos de débitos, constitui documento hábil para o ajuizamento da ação monitória (Súmula 247 do STJ).
+4. Não há falar em impedimento da cobrança da comissão de permanência no contrato quando não demonstrado que está cumulada com outros encargos Súmula 472 do STJ.
+5. Em se tratando de débito acompanhado de planilha atualizada até a propositura da ação com os encargos contratuais, o termo inicial dos juros moratórios deve ser o ajuizamento da ação monitória, sob pena de bis in idem e neste aspecto, impõe-se a reforma de ofício, por tratar-se de matéria de ordem pública.
+6. Honorários recursais majorados.
+APELAÇÃO CONHECIDA E DESPROVIDA. REFORMA DE OFÍCIO.
+Nas razões do recurso especial, fundado nas alíneas a e c do permissivo constitucional, os recorrentes apontaram, além de divergência jurisprudencial, violação dos arts. 373, I, 400, I, e 702, §1º, do CPC; e 427 do Código Civil.
+Sustentaram a "possibilidade de revisão de todos contratos anteriores e que foram quitados ou novados por contrato de capital de giro ou mesmo contrato de confissão de dívida" (e-STJ, fl. 618).
+Aduziram a ocorrência de cerceamento de defesa ao argumento de que "o Recorrido não carreou aos autos todos documentos indispensáveis à correta apuração de eventual débito dos Recorrentes junto ao banco, de modo que falta à pretensão contida na petição inicial o requisito da certeza quanto ao valor correto do débito" (e-STJ, fl. 634).
+Contrarrazões apresentadas às fls. 756-761 (e-STJ).
+O Tribunal de origem inadmitiu o recurso especial, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 863-869 (e-STJ).
+Brevemente relatado, decido.
+Quanto ao cerceamento de defesa, constata-se que o Tribunal de origem, com base no acervo probatório carreado aos autos, afastou a tese recursal, porquanto entendeu não ser necessária a produção de outras provas, sendo suficiente as colacionadas aos autos.
+Nesse ponto, de acordo com a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, assim como o indeferimento daquelas que considerar prescindíveis ou meramente protelatórias.
+Ora, a produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela necessidade de juntada de contratos anteriores que geraram o contrato bancário objeto da discussão, tal como busca a parte insurgente, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. HOME CARE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Conforme jurisprudência deste Sodalício, não há cerceamento de defesa quando o eg. Tribunal estadual, de forma fundamentada, afasta a necessidade de prova pericial" (AgInt no AREsp n. 1.848.285/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, j. em 28/3/2022, DJe de 3/5/2022).
+2. "Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 1.994.152/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022.) 3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.649.729/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Não há falar em ofensa aos artigos 458 e 535 do CPC/73, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Sendo o magistrado o destinatário final da prova, a ele cabe apreciar a suficiência do acervo probatório juntado aos autos. A aferição acerca da necessidade de complementação de perícia impõe o reexame do conjunto fático exposto nos autos, atraindo o óbice da Súmula 7/STJ.
+3. No sistema da persuasão racional, adotado pela legislação processual civil, (arts. 130 e 131, CPC/73 e 370 e 371, CPC/15), o magistrado é livre para examinar o conjunto fático-probatório produzido nos autos e firmar sua convicção, desde que indique de forma fundamentada os elementos do seu convencimento.
+4. Conforme entendimento da Segunda Seção, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/15 não é automática, sendo cabível somente quando constatado o intuito protelatório, o que não se observa no caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.139.806/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/10/2019, DJe de 4/11/2019.)
+No mais, registre-se que a Corte estadual concluiu que, "no caso dos autos, observa-se que a ação monitória foi instruída com os documentos suficientes a demonstrar a origem do débito cobrado, quais sejam, o contrato e planilha de cálculos e, posteriormente, ratificados pela prova pericial" (e-STJ, fl. 565).
+Dessa foram, em que pese aos argumentos apresentados pela parte recorrente, reverter a conclusão do Tribunal local demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra indevido ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% sobre o valor atualizado do débito.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. LIQUIDEZ E CERTEZA DO CRÉDITO DEMONSTRADO. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
