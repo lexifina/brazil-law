@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, considerando o óbice da Súmula 7/STJ.
+O apelo nobre obstado interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, "a", da CF, ataca acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (TJ/SP), assim ementado (e-STJ fl. 322):
+1. Presentes o nexo causal e a incapacidade laborativa, considerando a possibilidade de reabilitação profissional, de rigor o restabelecimento do auxílio-doença acidentário a partir do dia seguinte da alta médica.
+2. A verba honorária deverá ser fixada na fase de liquidação, conforme disposto no artigo 85, §§ 3º e 4º, II do CPC, observando-se o que vier a ser decidido no Tema nº 1105 do STJ.
+Embargos de declaração rejeitados (e-STJ fls. 340-342).
+1. Presentes o nexo causal e a incapacidade laborativa, considerando a possibilidade de reabilitação profissional, de rigor o restabelecimento do auxílio-doença acidentário a partir do dia seguinte da alta médica.
+2. A verba honorária deverá ser fixada na fase de liquidação, conforme disposto no artigo 85, §§ 3º e 4º, II do CPC, observando-se o que vier a ser decidido no Tema nº 1105 do STJ.
+Aponta o recorrente, nas razões do apelo especial, violação dos arts. 1.022, parágrafo único, e 1.022, I, do CPC, 62 e 89 da Lei n. 8.213/91 e 136 e seguintes do Decreto 3.048/1999. Sustenta, em síntese: (I) anulação do v. acórdão, se entendido que não há o necessário prequestionamento; (II) o processo de reabilitação profissional desenvolve-se na esfera administrativa, não sendo passível de determinação judicial.
+Aduz que, "a condenação judicial violou o procedimento disciplinado pela lei, subtraindo da Autarquia a realização das fases sequenciais previstas no art. 137: (i) a avaliação do potencial laboral, composta das etapas "perícia médica de elegibilidade", "avaliação socioprofissional" e "perícia médica de reabilitação profissional"; (ii) orientação e acompanhamento, composta das etapas "reunião de planejamento", "avaliação subsequente por profissional de referência", "perícia médica subsequente de RP" e "reunião de acompanhamento"; (iii) desligamento, composta das etapas "avaliação de desligamento por profissional de referência" e "perícia médica de desligamento"; e, (iv) pesquisa da fixação.
+Ao final, pugna pelo provimento do recurso especial "para reformar o acórdão recorrido, para que seja afastada a condenação à realização de reabilitação profissional com o pagamento de auxílio-doença", entretanto, se "eventualmente, se entendido que não há prequestionamento, que se anule o v. acórdão recorrido, por afronta ao art. 1.022, I, do Código de Processo Civil" (e-STJ fl. 357).
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 360-362, e-STJ.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Sem contraminuta.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RIST637J e pela Súmula 568/STJ.
+Considerando que a agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não comporta acolhida.
+Inicialmente, verifica-se que, na espécie, não houve oposição de embargos de declaração perante a Corte de origem. Assim, ao indicar violação ao art. 1.022, I, CPC, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Quanto à questão de fundo, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 62 e 89 da Lei n. 8.213/91 e 136 e seguintes do Decreto 3.048/1999 não foram apreciadas pelo Tribunal local, não obstante terem sido opostos Embargos de Declaração para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Ante o exposto, não conheço do agravo em recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022, I, DO CPC. SÚMULA 284/STF. NÃO PREQUESTIONAMENTO DA QUESTÃO DE FUNDO. SÚMULA 211/STJ. AGRAVO NÃO CONHECIDO.
