@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO (USO INDEVIDO DE MARCA). COMERCIALIZAÇÃO DE PRODUTOS. AUSÊNCIA DE IRREGULARIDADES. INFRAÇÃO PENAL DE ORDEM TRIBUTÁRIA. INOVAÇÃO RECURSAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Verifica-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, entendeu que não ficaram configuradas as irregularidades na aquisição e comercialização dos produtos em questão a ensejar condenação por danos morais ou materiais, além de ser inovação recursal a alegação de existência de infração penal de ordem tributária,
+2. Assim, inviável a revisão do referido entendimento nesta via recursal, pois seria imprescindível o reexame de matéria fática, vedado em recurso especial, nos termos da Súmula n. 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ENTERTAINMENT ONE UK LIMITED contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para conhecer em parte do recurso especial e negar-lhe provimento, em razão de ausência da alegada ofensa ao art. 1.022 do Código de Processo Civil e de aplicação da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante de revisão do entendimento assentado do Tribunal de origem de que não ficaram configuradas as irregularidades na aquisição e comercialização dos produtos em questão, além de ser inovação recursal a alegação de existência de infração penal de ordem tributária (fls. 746-749).
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 568):
+Ação cominatória c. c. indenização (uso indevido de marca) - Sentença de extinção do processo, sem exame do mérito, por abandono da causa - Inconformismo da autora - Acolhimento em parte - Equivocada a conclusão de que houve abandono do processo pela apelante - Pertinência da homologação do acordo firmado com um dos adversos- Causa madura para julgamento, em relação aos demais adversos - Em virtude da ausência de apreensão de produtos indicados como contrafeitos, apenas os registros fotográficos não são suficientes para o reconhecimento do alegado ato de contrafação - Precedentes das C. Câmaras de Direito Empresarial, deste Tribunal de Justiça - A despeito da ausência de contestação por parte do apelado Roberto Galindo dos Santos, o seu litisconsorte (ABC TOYS Brinquedos Presentes e Acessórios Ltda.) apresentou defesa, de modo que não se operam os efeitos da revelia(art. 345, I, do CPC) - Sentença de extinção cassada, com homologação do acordo firmado com um dos adversos e decreto de improcedência, quanto aos demais - Recurso provido em parte.
+Rejeitados os embargos de declaração opostos (fls. 620-626).
+No presente agravo interno, alega a agravante que não incide o óbice da Súmula n. 7/STJ, pois a pretensão não enseja reexame de provas, por ser matéria exclusivamente de direito, ao tempo que reitera as alegações do recurso especial de que houve a prática de ilícito pelas ora agravadas na comercialização de produtos dos quais detém os direitos marcários.
+Alega que é a agravante quem licencia o uso da marca e imagem, e faz jus à reparação dos danos, seja no campo patrimonial, seja no campo moral, decorrentes da conduta ilícita demonstrada por parte das ora agravadas de apropriação indevida dos seus direitos.
+Pugna, por fim, pelo encaminhamento do feito à apreciação da Turma e pelo seu provimento.
+A parte agravada, instada a manifestar-se, silenciou (fl. 784).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C INDENIZAÇÃO (USO INDEVIDO DE MARCA). COMERCIALIZAÇÃO DE PRODUTOS. AUSÊNCIA DE IRREGULARIDADES. INFRAÇÃO PENAL DE ORDEM TRIBUTÁRIA. INOVAÇÃO RECURSAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Verifica-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, entendeu que não ficaram configuradas as irregularidades na aquisição e comercialização dos produtos em questão a ensejar condenação por danos morais ou materiais, além de ser inovação recursal a alegação de existência de infração penal de ordem tributária,
+2. Assim, inviável a revisão do referido entendimento nesta via recursal, pois seria imprescindível o reexame de matéria fática, vedado em recurso especial, nos termos da Súmula n. 7 desta Corte: "a pretensão de simples reexame de prova não enseja Recurso Especial".
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, entendeu a Corte de origem que não ficaram configuradas as irregularidades na aquisição e comercialização dos produtos em questão, além de ser inovação recursal a alegação de existência de infração penal de ordem tributária.
+Consoante relatado, por meio da decisão agravada, o agravo em recurso especial foi conhecido para se conhecer em parte do recurso especial e negar-lhe provimento, em razão do entendimento assentado de ausência de ofensa ao art. 1.022 do Código de Processo Civil e de aplicação da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante.
+Não merece prosperar o recurso.
+Com efeito, conforme assentado na decisão agravada, inviável a apreciação das alegações da agravante, considerando que a Corte de origem entendeu, com base no conjunto probatório dos autos, que não ficaram configuradas as irregularidades na aquisição e comercialização dos produtos em questão, a ensejar condenação por danos morais ou materiais, além de ser inovação recursal a alegação de existência de infração penal de ordem tributária. Confira-se o se guinte excerto do acórdão dos embargos de declaração (fls. 576-577):
+Aliás, o apelado ABC TOYS comprovou a regular e pretérita (abril de 2019) aquisição de produtos licenciados, coma prova documental a fls. 265/271, que não foi especificamente impugnada pela ora apelante.
+Por fim, forçoso pontuar que a sugerida infração penal de ordem tributária não foi apresentada na petição inicial, de modo que a alegação, além de configurar inovação, não tem substancial consistência para comprovar a comercialização de produtos contrafeitos.
+No contexto, considerando que a apelante não se desincumbiu satisfatoriamente do ônus de comprovar que os adversos comercializam e/ou mantém em estoques produtos contra feitos, impõe-se a rejeição dos pedidos deduzidos nesta demanda.
+Em conclusão, é caso de cassação da r.
+sentença de extinção sem exame do mérito, com homologação do acordo firmado com um dos adversos e decreto de improcedência, em relação aos demais. A verba honorária, em favor do patrono do adverso ABC TOYS, fica ajustada para 15% do valor atualizado da causa.
+Confira-se, ainda, o seguinte excerto do acórdão dos embargos de declaração (fl. 624):
+In casu, esse intento transparece sob a alegação de que o aresto padece de omissões. Acontece que a atenta leitura do voto condutor é suficiente para rechaçar a sugestão de que o julgado não se pronunciou sobre a alegação de suposto crime de ordem tributária, quanto ao modus operandi dos adversos, no que diz com a emissão de cupons e/ou notas fiscais: "Por fim, forçoso pontuar que a sugerida infração penal de ordem tributária não foi apresentada na petição inicial, de modo que a alegação, além de configurar inovação, não tem substancial consistência para comprovar a comercialização de produtos contrafeitos. "Outrossim, despropositada a alegação de omissão, pela ausência de instauração de incidente de "fraude processual". A uma, o estatuto adjetivo civil não prevê o referido incidente quando há impugnação específica a fatos alegados e documentos juntados.
+A duas, compete ao juízo criminal a apuração de eventual crime de fraude processual previsto no art. 347, do CP.
+Dessa forma, rever tal entendimento, a eventualmente ensejar novo juízo acerca dos fatos e das provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. TESE QUE NÃO CONSTA DO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. CÓDIGO DE ÉTICA DA OAB. NORMA INFRALEGAL. NÃO CONHECIMENTO. DANOS MATERIAIS E MORAIS. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não se conhece de alegação apresentada apenas em agravo interno, uma vez que constitui inadmissível inovação recursal.
+2. Nos termos do art. 105 da Constituição Federal, compete ao STJ uniformizar a interpretação da legislação federal, não se enquadrando no conceito de lei federal o Código de Ética e Disciplina da OAB.
+3.. A Corte de origem entendeu pela improcedência da condenação por danos morais e materiais com base no conjunto probatório dos autos.
+4 . Rever as conclusões do acórdão recorrido demanda novo juízo acerca dos fatos e das provas. Incidência da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.405.322/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
