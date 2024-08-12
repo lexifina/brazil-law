@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO OU SOBRE O QUAL RECAI A DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A parte recorrente não indicou, de modo específico e individualizado, quais dispositivos legais teriam sido violados pelo acórdão recorrido ou objeto de eventual divergência interpretativa pelos acórdãos apontados como paradigmas. Nesse contexto, correta a decisão agravada quando consignou que o recurso especial não pode ser conhecido nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+2 . A jurisprudência desta Corte é firme no sentido de que "a mera referência ou transcrição do dispositivo supostamente ofendido não supre a deficiência argumentativa do apelo extremo, porquanto cabe ao recorrente mencionar, de forma inequívoca, os motivos pelos quais a interpretação dada pelo acórdão impugnado viola ou nega vigência aos preceitos legais eventualmente mencionados" (AgInt no REsp n. 1.661.537/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/11/2017, DJe de 15/2/2018).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de agravo interno interposto por JERUZA FRANCISCA PONTES E SILVA contra a decisão de fls. 549/552, que não conheceu do apelo especial, ante a incidência da Súmula 284/STF, sob o fundamento de que a parte recorrente não amparou o inconformismo na violação a qualquer lei federal, tampouco indicou o dispositivo legal sobre o qual recai a apontada divergência jurisprudencial.
+A agravante aduz em suas razões que "o Recurso Especial está de acordo com as exigências Constitucional e Legal, que permitem o seu Conhecimento, Apreciação e Provimento, tendo em vista a clareza da exposição dos fatos, do direito e da controvérsia a ser dirimida por essa Corte Cidadão, qual seja o Dissídio Jurisprudencial aberto em face da interpretação da Lei 13.464/17, notadamente seus artigos 6º e 8º, no que se refere a natureza do Bônus de Eficiência por ela instituído: se verba genérica ou se verba pro labore faciendo" (fl. 566).
+Alega, também, que "os artigos da Lei, os mais relevantes para o deslinde da questão, sobre os quais divergem os Acórdão, estão expressos no tópico IV da Petição do Recurso Especial, que trata do Fato e do Direito, no qual estão consignados explicitamente o artigo 6º, e seus parágrafos, e o artigo 8º, restando comprovado que o Acórdão Recorrido os interpretou de modo divergente do entendimento dado pelo Acórdão Paradigma" (fl. 567).
+Não foi apresentada impugnação (fl. 586).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO OU SOBRE O QUAL RECAI A DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A parte recorrente não indicou, de modo específico e individualizado, quais dispositivos legais teriam sido violados pelo acórdão recorrido ou objeto de eventual divergência interpretativa pelos acórdãos apontados como paradigmas. Nesse contexto, correta a decisão agravada quando consignou que o recurso especial não pode ser conhecido nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+2 . A jurisprudência desta Corte é firme no sentido de que "a mera referência ou transcrição do dispositivo supostamente ofendido não supre a deficiência argumentativa do apelo extremo, porquanto cabe ao recorrente mencionar, de forma inequívoca, os motivos pelos quais a interpretação dada pelo acórdão impugnado viola ou nega vigência aos preceitos legais eventualmente mencionados" (AgInt no REsp n. 1.661.537/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/11/2017, DJe de 15/2/2018).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese à irresignação da recorrente, não lhe assiste razão.
+Como antes asseverado, a parte agravante não indicou, de modo específico e individualizado, quais dispositivos legais teriam sido violados pelo acórdão recorrido ou objeto de eventual divergência interpretativa pelos arestos apontados como paradigmas. Nesse contexto, correta a decisão agravada quando consignou que o recurso especial não pode ser conhecido nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+Com efeito, a jurisprudência desta Corte é firme no sentido de que "a mera referência ou transcrição do dispositivo supostamente ofendido não supre a deficiência argumentativa do apelo extremo, porquanto cabe ao recorrente mencionar, de forma inequívoca, os motivos pelos quais a interpretação dada pelo acórdão impugnado viola ou nega vigência aos preceitos legais eventualmente mencionados" (AgInt no REsp n. 1.661.537/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/11/2017, DJe de 15/2/2018).
+Nessa mesma linha, veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. NÃO OCORRÊNCIA.
+1. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.845.428/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+ANTE O EXPOSTO, nega-se provimento agravo interno.
+É o voto
