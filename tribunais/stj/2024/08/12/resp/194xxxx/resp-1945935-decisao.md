@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial manejado por ROSANE SCHIKMANN e outro, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 514/515):
+PROCESSO CIVIL. SENTENÇA ULTRA PETITA. EMBARGOS DE TERCEIRO. EXECUÇÃO FISCAL. PARTE EXECUTADA. INADEQUAÇÃO DA VIA ELEITA. PENHORA DE CONTA CORRENTE. TITULARIDADE CONJUNTA PARAFACILITAR MOVIMENTAÇÃO DA CONTA CORRENTE. COMPROVAÇÃO. LEVANTAMENTO DA PENHORA. RECURSO PARCIALMENTE PROVIDO.
+I. Observa-se que o cancelamento da penhora eletrônica sobre a conta corrente do banco Santander pertencente à embargante Rosane Schikman, fixada pelo MD. Juíza a quo, está além do requerido na exordial, caracterizando, por sua vez, julgado ultra petita, cuja vedação está preconizada nos artigos 141 e 492 do novo Código de Processo Civil de 2015.
+II. para manter a penhora eletrônica sobre a conta corrente do banco Santander pertencente à embargante Rosane Schikman.
+III. O artigo 1.046 do Código de Processo Civil de 1973 estabelece que os embargos de terceiro podem ser ajuizados apenas por quem não for parte no processo principal.
+IV. In casu, a embargante Rosane Schikman é parte nos autos principais em face do redirecionamento da execução fiscal, sendo irrelevante o momento de sua inclusão no polo passivo da execução.
+V. Portanto, para este caso específico, seria adequado o ajuizamento de ação de embargos à execução fiscal por parte da executada, e não embargos de terceiro.
+VI. Assim, há desconformidade entre o pedido formulado e o meio processual escolhido, oque evidencia a inadequação da via eleita e, consequentemente, acarreta a extinção do feito por carência de ação com relação à embargante Rosane Schikman.
+VII. No presente caso, a embargante Perla Klepacz alega que a penhora integral na conta corrente do banco Bradesco é indevida em razão da titularidade conjunta entre as partes.
+VIII. De fato, observa-se a priori que, a constrição de 50% (cinquenta por cento) dos valores da conta corrente é indevida, tendo em vista que pertence à embargante Perla Klepacz, que não está inclusa no polo passivo da execução fiscal.
+IX. Ademais, com relação aos outros 50% (cinquenta por cento) do montante da conta, cumpre esclarecer que a embargante comprovou que a titularidade conjunta da referida conta se deve apenas para facilitar a movimentação dos valores depositados, haja vista que a embargante Perla Klepacz é genitora de Rosane Schikman e se encontrava em idade avançada e com doença degenerativa.
+X. Nessa esteira, deve ser desconstituída a penhora da conta corrente do banco Bradesco, de titularidade das embargantes.
+XI. Apelação a que se dá parcial provimento.
+Os embargos declaratórios opostos por ambas as partes litigantes (fls. 522/535 e 554/556) foram rejeitados, nos termos do acórdão de fls. 567/572.
+A parte recorrente aponta, além de dissídio pretoriano, violação aos arts. 85, § 11, 489, II, 505, 507, 508, 1.000, 1.001, 1.022, I, II, e 1.046 do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, "a necessidade de majoração da verba honorária (artigo 85, § 11, do Código de Processo Civil)" (fl. 590); a "inépcia recursal (da Fazenda Nacional) em não enfrentar fundamentos específicos da Sentença que serviram como ratio decidendi" (fl. 591); "acerca da legitimidade ativa porque, segundo a Sentença, a questão da adequação dos Embargos de Terceiro a quem foi incluído no polo passivo já tinha sido objeto de Decisão, que restou irrecorrida  .. , portanto, preclusa a questão" (fl. 594); e a "aplicabilidade da fungibilidade para admitir a Ação de Embargos de Terceiro por Rosane" (fl. 597); (II) o Sodalício regional julgou a apelação fazendária sem proceder à majoração da verba sucumbencial em favor dos ora recorrentes (art. 85, § 11, do CPC); (III) a questão relativa ao cabimento dos embargos de terceiro na espécie já havia sido objeto de decisão, contra a qual não houve interposição de recurso, razão por que o acórdão recorrido não poderia ter tratado sobre isso novamente; e (IV) cabível a oposição de embargos de terceiro por Rosane, tendo em vista sua condição de ex-sócia da pessoa jurídica executada.
+Contrarrazões apresentadas às fls. 741/745.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC.
+Com efeito, já nas contrarrazões de apelação (fls. 281/297), a ora recorrente suscitou, dentre outros, a inviabilidade de conhecimento do apelo ordinário do ente público ante a falta de combate aos pilares da sentença que julgou procedentes os pedidos da ação processada como embargos à execução cumulados com embargos de terceiro.
+No acórdão de fls. 506/512, o Tribunal de origem passou ao largo dessas alegações.
+Foram, na sequência, opostos embargos de declaração (fls. 522/535), nos quais, indicando omissão, pugnou-se pelo pronunciamento acerca das questões trazidas pela parte em sede contrarrazões (fls. 281/297).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente (cf fls. 567/572), em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+Uma vez reconhecida a negativa de prestação jurisdicional, resta prejudicado o exame dos demais argumentos trazidos no apelo raro.
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação aos arts. 489 e 1.022 do CPC, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos em bargos declaratórios (fls. 522/535), desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
