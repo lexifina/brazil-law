@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS N. 283 E 284/STF. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A Corte de origem reviu a condenação em honorários advocatícios fixada na sentença em 10% (dez por cento) sobre o valor da condenação, para arbitrar a verba honorária nos percentuais mínimos das balizas previstas nos incisos do § 3º do CPC/2015.
+III - Nas razões do recurso especial, a Recorrente, ora Agravante, limita-se a argumentar acerca da impossibilidade do arbitramento dos honorários em percentual predefinido sobre condenação ilíquida, sem demonstrar, efetivamente, que a postergação da fixação da condenação em honorários advocatícios para depois da liquidação do julgado poderia lhe favorecer com uma condenação inferior ao mínimo legal.
+IV - Revela-se deficiente o recurso quando a parte recorrente deixa de rebater fundamento suficiente para manter o acórdão recorrido, invocando razões recursais dissociadas. Inteligência das Súmulas ns. 283 e 284 do STF.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão monocrática de minha lavra, mediante a qual o recurso não foi conhecido.
+Sustenta a Agravante, em síntese, que houve a violação aos parágrafos 3º e 4º do art. 85 do CPC, eis que, primeiramente, antes da fixação dos honorários, deve ocorrer a liquidação da sentença. Assim, a definição do percentual dos honorários devidos só pode ocorrer após a fase de liquidação.
+Entende que a majoração dos honorários em 10%, nos termos do art. 85, §11 do CPC, trata de questão diversa: honorários advocatícios recursais. E a condenação da Fazenda Pública em honorários recursais em nada altera a sua defesa no fato de não ser possível o arbitramento de percentual de honorários em sentenças ilíquidas.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 552e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS N. 283 E 284/STF. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A Corte de origem reviu a condenação em honorários advocatícios fixada na sentença em 10% (dez por cento) sobre o valor da condenação, para arbitrar a verba honorária nos percentuais mínimos das balizas previstas nos incisos do § 3º do CPC/2015.
+III - Nas razões do recurso especial, a Recorrente, ora Agravante, limita-se a argumentar acerca da impossibilidade do arbitramento dos honorários em percentual predefinido sobre condenação ilíquida, sem demonstrar, efetivamente, que a postergação da fixação da condenação em honorários advocatícios para depois da liquidação do julgado poderia lhe favorecer com uma condenação inferior ao mínimo legal.
+IV - Revela-se deficiente o recurso quando a parte recorrente deixa de rebater fundamento suficiente para manter o acórdão recorrido, invocando razões recursais dissociadas. Inteligência das Súmulas ns. 283 e 284 do STF.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à agravante.
+A sentença, de fato, havia fixado a condenação em honorários advocatícios em 10% do valor da condenação, nos termos do art. 85, § 3º, I, do CPC (fl. 396e).
+Entretanto, a Corte de origem reviu tal condenação para arbitrar a verba honorária nos percentuais mínimos das balizas previstas nos incisos do § 3º do CPC/2015. (fl. 500e):
+Considerando os critérios definidos no art. 85 do CPC, dou parcial provimento à remessa oficial, modificando o trecho relativo aos honorários de sucumbência, condenando a União ao pagamento de honorários advocatícios sobre o valor da condenação (a restituir ou a compensar), nos percentuais mínimos previstos nas faixas de valores indicadas no art. 85, § 3º, do CPC, observando-se o escalonamento previsto no § 5º.
+Os honorários advocatícios, na forma acima definida, deverão ser apurados em liquidação de sentença e sofrerão a majoração de 10%, com amparo no art. 85, §11, do CPC, uma vez que a União restou vencida no recurso.
+A Recorrente, nas razões do recurso especial, limita-se a argumentar acerca da impossibilidade do arbitramento dos honorários em percentual predefinido sobre condenação ilíquida, afronta ao art. 83, par. 4º , II do CPC/2015, sem demonstrar, efetivamente, que a postergação da fixação da condenação em honorários advocatícios para depois da liquidação do julgado poderia lhe favorecer com uma condenação inferior ao mínimo legal.
+Desse modo, verifica-se que as razões recursais apresentadas se encontram dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do r ecurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO MOVIDA CONTRA ESTADO. CHAMAMENTO DA UNIÃO AO PROCESSO. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RAZÕES DOS EMBARGOS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO EMBARGADO. SÚMULAS 283 E 284 DO STF. SUSPENSÃO EM RAZÃO DE RESP ADMITIDO COMO REPRESENTATIVO DE CONTROVÉRSIA. DESCABIMENTO. TEMA ESPECÍFICO.
+(..)
+3. A alegação de omissão do acórdão embargado por ter a ora embargante impugnando os fundamentos da decisão do Tribunal a quo atrai a incidência, por analogia, das Súmulas 283 e 284 do STF, uma vez que não houve menção na decisão monocrática nem no acórdão em agravo regimental sobre tal ponto, de modo que restam dissociadas as razões dos embargos de declaração com relação ao constante nos autos.
+4. Quanto à suspensão do recurso especial, tendo em vista a admissão do REsp n. 1.144.382/AL como representativo de controvérsia, tem-se que este recurso trata da solidariedade passiva da União, dos Estados e dos Municípios tão somente, e não, como no caso em exame, sobre eventual chamamento ao processo de um dos entes.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 1.309.607/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CONCURSO DE PREFERÊNCIA. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF.
+1. Constata-se que não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Na leitura do acórdão recorrido, verifica-se que o Tribunal local não olvidou o fato de possivelmente existir concurso de preferência. Apenas foi consignado que a competência para análise de tal instituto seria do Juízo da Execução. Logo, não merece respaldo a tese da agravante de que foi "inobservada a existência de concursus fiscalis entre a Fazenda Nacional e Fazenda Estadual" (fl. 861, e-STJ). Nesse sentido, verifica-se que as razões recursais mostram-se dissociadas da motivação perfilhada no acórdão recorrido e que não houve impugnação de fundamento autônomo do aresto impugnado. Incidem, portanto, os óbices das súmulas 283 e 284/STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 254.814/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013, destaque meu).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
