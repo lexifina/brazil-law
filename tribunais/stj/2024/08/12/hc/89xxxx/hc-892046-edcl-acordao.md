@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. CRIME IMPEDITIVO. NOVO ENTENDIMENTO DA TERCEIRA SEÇÃO DO STJ. AUSÊNCIA DE OMISSÃO.
+1. Os embargos de declaração, como se infere da redação do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente. Podem ser utilizados, ainda, para sanar eventual erro material.
+2. A questão posta foi decidida à luz do entendimento, à época, da Terceira Seção do STJ. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra acórdão de minha relatoria que negou provimento ao agravo regimental, nos termos da seguinte ementa (e-STJ fl. 157):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO N. 11.302/2022. INCONSTITUCIONALIDADE. CRIME IMPEDITIVO. AÇÕES PENAIS DIVERSAS. POSSIBILIDADE. ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR.
+1. "A alegação de inconstitucionalidade não é suscetível de análise na via do habeas corpus, que não pode ser utilizado como mecanismo de controle da validade das leis e dos atos normativos em geral. Ademais, o exame de constitucionalidade do teor do decreto já foi submetido à discussão no Supremo Tribunal Federal, em Ação Direta de Inconstitucionalidade, sem a determinação, por ora, de suspensão dos efeitos do dispositivo legal questionado" (AgRg no HC n. 840.517/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 9/11/2023).
+2. A Terceira Seção do Superior Tribunal de Justiça, em julgamento ocorrido aos 8/11/2023, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos".
+3. Apesar da existência de julgado do Supremo Tribunal Federal em sentido contrário, mantém-se nesta Corte Superior o entendimento ora esposado pela Terceira Seção, já que a matéria não está pacificada no âmbito da Suprema Corte.
+4. Agravo regimental desprovido.
+Nos presentes aclaratórios, sustenta a existência de "omissões quanto aos argumentos deduzidos pelo Parquet, calcados na inviabilidade de concessão do benefício em razão da existência de pena ainda não integralmente cumprida por delitos impeditivos, desprezando o comando dos artigos 7º e 11º, parágrafo único, do regramento em exame" (e-STJ fl. 189).
+Faz referência a decisões do STF que determinaram a suspensão imediata das ordens concedidas pelo Superior Tribunal de Justiça (HC 870.883, 872.808, 875.168 e 875.774) a fim de fazer prevalecer a compreensão da impossibilidade da concessão do benefício quando, após realizada a unificação total do apenamento, remanescer o cumprimento da reprimenda referente aos crimes impeditivo para a concessão do benefício, listados no art. 7º do decreto natalino, independentemente do concurso de crimes.
+Pugna pelo acolhimento dos embargos para que seja sanada a omissão apontada, com a concessão de efeitos infringentes.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. CRIME IMPEDITIVO. NOVO ENTENDIMENTO DA TERCEIRA SEÇÃO DO STJ. AUSÊNCIA DE OMISSÃO.
+1. Os embargos de declaração, como se infere da redação do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente. Podem ser utilizados, ainda, para sanar eventual erro material.
+2. A questão posta foi decidida à luz do entendimento, à época, da Terceira Seção do STJ. As razões veiculadas nos embargos de declaração revelam, em verdade, o inconformismo da parte com o julgamento da causa, legítimo, mas impróprio na espécie recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e dos demais elementos constantes do processo. Podem ser, ainda, utilizados para sanar eventual erro material.
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Guilherme de Souza Nucci, ao discorrer sobre o vício da omissão, leciona:
+7. Omissão: é a lacuna ou o esquecimento. No julgado, traduz-se pela falta de abordagem do magistrado acerca de alguma alegação ou requerimento formulado, expressamente, pela parte interessada, merecedor de apreciação.
+8. Não caracterização da omissão: não se configura lacuna na decisão o fato de o juiz deixar de comentar argumento por argumento levantado pela parte, pois, no contexto geral do julgado, pode estar nítida a sua intenção de rechaçar todos eles. (in Código de Processo Penal Comentado, 17ª edição, pág. 1.427.)
+No caso, são estes os fundamentos do acórdão embargado (e-STJ fls. 177/178):
+A Terceira Seção, em julgamento ocorrido aos 8/11/2023, posicionou-se no sentido de que "apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos".
+O acórdão ficou assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.3. Agravo regimental improvido.(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023.)
+Na ocasião, destacou-se que o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+Assim, partindo-se de uma interpretação restritiva do Decreto n. 11.302/2002, apenas em caso de concurso de crimes impeditivos e não impeditivos, dentro de um mesmo contexto, não seria possível aplicar o indulto, nos termos do art. 11, parágrafo único, do referido ato presidencial.
+Na hipótese dos autos, o Magistrado da Vara de Execuções deferiu indulto natalino em relação à condenação por infração ao art. 14 do Estatuto do Desarmamento.
+O Tribunal, contudo, cassou o benefício ao argumento de que "o agravado está a cumprir pena privativa de liberdade, por outros crimes"(e-STJ fl. 130).
+Ora, a interpretação dada pela Corte a quo à norma do parágrafo único do art. 11 do Decreto n. 11.302/2022 dissente do mais recente entendimento da Terceira Seção do Superior Tribunal de Justiça sobre o tema.
+Finalmente, ressalto que, apesar da existência de julgado da Suprema Corte em sentido contrário, neste Tribunal Superior mantém-se o entendimento ora esposado pela Terceira Seção, já que a matéria não está pacificada no âmbito daquela Corte. Ademais, a decisão proferida pelo Ministro Roberto Barroso limitou-se, em caráter liminar, a suspender as ordens concedidas apenas nos HC"s n. 870.883/RS, 872.808/RS, 872.168/SC e 875.774/RS.
+Como se pode observar, a questão foi analisada a luz do entendimento, à época, da Terceira Seção do STJ.
+Não há, portanto, nenhuma situação que dê amparo ao recurso integrativo, porquanto o vício alegado, na realidade, manifesta o inconformismo do embargante com o julgamento meritório, desiderato inadmissível em aclaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
