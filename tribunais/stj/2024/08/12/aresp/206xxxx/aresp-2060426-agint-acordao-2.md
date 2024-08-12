@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. MANDADO DE SEGURANÇA. ISS. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA OCORRÊNCIA DE FATOS GERADORES DISTINTOS NO TOCANTE À INCIDÊNCIA DO ISS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. UTILIZAÇÃO DE LEGISLAÇÃO LOCAL PARA SOLUÇÃO DA CONTROVÉRSIA. INCIDÊNCIA DO ÓBICE DA SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2. A controvérsia foi dirimida mediante análise e interpretação da legislação local de regência; fato que atrai a aplicação, por analogia, da Súmula 280/STF.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  por R & C EVENTOS, PROMOÇÕES E PUBLICIDADE LTDA., contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial pela incidência das Súmulas 7/STJ; e 280/STF.
+Argumenta  a  parte agravante,  em  síntese: (a) "Primeiramente, cumpre destacar que a r. decisão agravada, ao negar seguimento ao Apelo Especial manejado pela Agravante, incorreu em vício de nulidade, não observando os preceitos contidos no artigo 489,§ 1º, incisos III, IV e V, do CPC, o qual trata da necessidade de fundamentação de todas as decisões judiciais" (fl. 460); (b) " ..  inequívoco o cabimento do presente Recurso Especial nesse tocante, porquanto se trata tão somente - como bem delineado e incontroverso no bojo do v. acórdão de lavra do E. Tribunal a quo - de discussão de legalidade de sistemática de exigência de tributos em face do disposto em lei federal e a revaloração jurídica sobre os fatos e fundamentos adotados(conceito de serviço tributável, art. 1º da LC nº 116/03) (fl. 467); (c) " ..  em se tratando do exame de questão exclusivamente de direito a respeito da dupla incidência do ISS em serviço complexo (atividade-meio e atividade-fim), não há sequer arguição contra a legislação local em específico, mas apenas e tão somente a legalidade dessa exigência à luz da Lei Federal (conceito de serviço tributável, art. 1º da LC nº 116/03)" (fl. 468).
+Por fim, a parte pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Foi apresentada impugnação pela parte agravada.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. MANDADO DE SEGURANÇA. ISS. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA OCORRÊNCIA DE FATOS GERADORES DISTINTOS NO TOCANTE À INCIDÊNCIA DO ISS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. UTILIZAÇÃO DE LEGISLAÇÃO LOCAL PARA SOLUÇÃO DA CONTROVÉRSIA. INCIDÊNCIA DO ÓBICE DA SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1.  Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2. A controvérsia foi dirimida mediante análise e interpretação da legislação local de regência; fato que atrai a aplicação, por analogia, da Súmula 280/STF.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+De início, a preliminar de nulidade da decisão recorrida que não conheceu do recurso especial, sob o argumento de que é deficiente sua motivação, deve ser rejeitada, porquanto a aludida decisão, fundamentadamente, expôs os motivos pelos quais o recurso não ultrapassa a admissibilidade, pela alínea a do permissivo constitucional, em razão da incidência dos óbices das Súmulas 7/STJ; e 280/STF.
+Quanto ao mais, verifica-se que a alteração da conclusão do Tribunal a quo, acerca da consideração da ocorrência de fatos geradores distintos na espécie, quais sejam, "organização de shows e eventos, com incidência de ISS sobre a receita da bilheteria (item 12.07, onde a autora figura como contribuinte); e a prestação de serviços dos artistas (item 37.01), que autoriza cobrança da apelante por substituição tributária, nos termos da Lei Complementar nº 116/03 e da Lei Municipal 13.701/03", ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido:
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial" (AgInt no AREsp n. 1.981.914/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Além disso, da análise dos autos, é possível verificar que a apreciação da pretensão do recorrente, ainda que sustentada com base em suposta violação à lei federal, demandaria, necessariamente, a interpretação da legislação local considerada pelo acórdão recorrido (Lei Municipal 13.701/2003) - o que é inviável na estreita via do recurso especial, nos termos da Súmula 280/STF.
+Isso posto, nego provimento ao recurso.
