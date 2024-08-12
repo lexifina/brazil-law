@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão da falta de impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem; por conseguinte, foi aplicada, por analogia, a Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. No agravo interno, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao presente caso a Súmula 182 do STJ.
+3. Para refutar a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu de seu agravo em recurso especial em razão da incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça, uma vez que não foram impugnados todos os fundamentos de inadmissão do recurso especial.
+Em suas razões recursais, a parte agravante requer o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito. Aduz, para tanto, que o recurso trata do Tema 1.090 do STJ, de forma que o processo deveria, por ora, ser suspenso.
+Impugnação ao recurso não apresentada conforme a certidão de fl. 287.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão da falta de impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem; por conseguinte, foi aplicada, por analogia, a Súmula 182 do Superior Tribunal de Justiça (STJ).
+2. No agravo interno, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao presente caso a Súmula 182 do STJ.
+3. Para refutar a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+4. Agravo interno não conhecido.
+VOTO
+A decisão recorrida não conheceu do agravo em recurso especial em razão da falta de impugnação do seguinte fundamento de inadmissão do recurso especial: ausência de afronta ao artigo 1.022 do Código de Processo Civil (CPC).
+Nas razões do agravo interno, a parte agravante alega que a tese de mérito impõe a suspensão do processo (Tema 1.090), deixando, assim, de impugnar o fundamento de incidência da Súmula 182/STJ.
+Quanto à alegada subsunção do caso ao Tema repetitivo 1.090 do STJ, verifico que não procedem as razões do agravante, visto que o Tribunal de origem decidiu que o uso de equipamento de proteção individual (EPI), a despeito de neutralizar ou não a insalubridade na hipótese dos autos, não afasta a caracterização do período especial; a parte agravante traz a tese de efetiva comprovação de neutralização pelo uso de EPI, e o tema, por sua vez, apenas trata de meios admitidos em direito para se provar a eficácia ou ineficácia de neutralização de agentes nocivos à saúde. Não vislumbro, portanto, remota identidade entre os temas suscitados.
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Assim, é devida a aplicação ao caso em questão da Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Para rebater a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+Ademais, esta Corte Superior de Justiça consolidou a compreensão de que, na hipótese de não conhecimento do recurso, como no caso dos autos, a suspensão do processo seria medida inócua e infrutífera. A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS. RENDA MENSAL INICIAL. PRESCRIÇÃO QUINQUENAL. RECURSO INADMISSIBILIDADE. DEFICIÊNCIA RECURSAL. AUSÊNICA EM IMPUGNAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO DO AGRAVO.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos da execução individual de sentença coletiva em ação civil pública, na qual a União foi condenada a recalcular os benefícios previdenciários cuja renda mensal inicial tiver sido calculada pelo salário de contribuição referente a fevereiro de 1994, declarou a ocorrência da prescrição quinquenal. No Tribunal a quo, a decisão foi reformada para reconhecer que houve a prescrição quinquenal apenas das parcelas vencidas nos cinco anos anteriores ao ajuizamento da ação coletiva. Esta Corte não conheceu do agravo em recurso especial.
+II - Quanto ao pedido de suspensão do feito até o julgamento do Tema n. 1.033, vale destacar que se trataria de medida inócua na medida em que o agravo em recurso especial sequer ultrapassou a barreira do conhecimento. Dessa feita, o julgamento do Tema n. 1033 (interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas) não poderá influenciar o caso em tela uma vez que ausente a impugnação específica de todos os fundamentos da decisão de inadmissibilidade.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se a agravante deixou de impugnar especificamente o óbice da incidência da Súmula n. 83/STJ, forçosa é a incidência do art. 253, I, do Regimento Interno do STJ e art. 932, III, do CPC/2015. A propósito, confira-se o precedente: (AgInt no AREsp n. 856.456/AL, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/5/2016, DJe 16/5/2016).
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.881.539/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+Registro, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
