@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 06/08/2024 a 12/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SEGURO-GARANTIA. PAGAMENTO VOLUNTÁRIO. NÃO EQUIPARAÇÃO. INCIDÊNCIA. MULTA. HONORÁRIOS. ART. 532 DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO. SÚMULA Nº 83/STJ.
+1. Nos termos da jurisprudência desta Corte, em execução, o depósito judicial ou o oferecimento de seguro apenas para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do CPC, visto não configurarem pagamento voluntário; ou seja, não perfazem o adimplemento voluntário da obrigação. Precedentes. Súmula nº 83/STJ.
+2. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, está adstrita à atividade desenvolvida pelo causídico na instância recursal, e não em cada recurso por ele interposto no feito.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS  contra  a decisão  que conheceu  do  agravo em recurso  especial  para negar provimento ao recurso especial em virtude da aplicação da Súmula nº 83/STJ.
+Nas  presentes razões (e-STJ fls.  122/133),  a  agravante  alega,  em  síntese,  que  não há falar em incidência da Súmula nº 83/STJ, tendo em vista que a jurisprudência desta Corte diverge acerca das penalidades aplicadas com base no art. 523 do Código de Processo Civil, diante da apresentação do seguro-garantia.
+Além disso, repisa as razões do recurso especial para defender a violação do art. 835, § 2º, do CPC, sustentando que o seguro-garantia é meio idôneo para a garantia do juízo.
+No ponto, aduz que
+"(..) inquestionável, portanto, a regularidade da garantia do juízo realizada por meio da contratação de apólice de seguro judicial, uma vez que expressamente prevista no Código de Processo Civil e amplamente aceita pela jurisprudência pátria.
+Nesse contexto, não obstante a previsão de multa em caso de não pagamento voluntário do valor executado, conforme artigo 523, §2º do CPC, percebe-se que houve apresentação de apólice garantia quanto ao valor controverso. Portanto, considerando a regular e tempestiva garantia apresentada, como demonstrado acima, não há que se falar em imposição da multa do referido artigo" (e-STJ fl. 29).
+Por  fim,  requer a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte  contrária  ofereceu  impugnação  (e-STJ fls.  136/149) pleiteando a majoração dos honorários recursais.
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SEGURO-GARANTIA. PAGAMENTO VOLUNTÁRIO. NÃO EQUIPARAÇÃO. INCIDÊNCIA. MULTA. HONORÁRIOS. ART. 532 DO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO. SÚMULA Nº 83/STJ.
+1. Nos termos da jurisprudência desta Corte, em execução, o depósito judicial ou o oferecimento de seguro apenas para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do CPC, visto não configurarem pagamento voluntário; ou seja, não perfazem o adimplemento voluntário da obrigação. Precedentes. Súmula nº 83/STJ.
+2. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, está adstrita à atividade desenvolvida pelo causídico na instância recursal, e não em cada recurso por ele interposto no feito.
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhida.
+No especial (e-STJ fls. 27/34), a recorrente aponta violação dos arts. 523, § 1º, 835, § 2º, e 848 do Código de Processo Civil (CPC).
+Alega, em síntese, que o seguro-garantia judicial pode ser equiparado a pagamento voluntário, de modo que não devem incidir as penalidades do art. 523, § 1º, do CPC, como a multa de 10% e os honorários advocatícios.
+Busca o provimento do recurso para que, restaurando vigência aos arts. 848, parágrafo único, e 835, § 2º, do CPC, seja afastada "(..) a incidência da multa prevista no art. 523, §1º, do Código de Processo Civil, tendo em vista à equiparação legal do seguro garantia ao depósito em espécie" (e-STJ fl. 34, e-STJ).
+Ao dirimir a controvérsia, o aresto atacado assim se pronunciou:
+"Razão assiste aos recorrentes no tocante à aplicação da multa e dos honorários previstos no art. 523, § 1º, do CPC.
+Verifica-se que o juízo singular, em atendimento ao disposto no art. 523, § 2º, do CPC, limitou o cômputo de tais acréscimos sobre o valor depositado a título de seguro garantia judicial.
+No entanto, tal quantia foi apresentada apenas para efeito de garantia do juízo da quantia controversa, a ser discutida em impugnação posteriormente apresentada, não para o efetivo pagamento da credora.
+Por conseguinte, aplicável o cômputo da multa e dos novos honorários, ambos de 10% sobre o débito, previstos no atual código processual (art. 523, § 1º), elidíveis apenas com o pagamento voluntário, ou seja, com a satisfação voluntária do crédito perseguido, que "somente ocorre quando o valor a ela correspondente ingressa no campo de disponibilidade do exequente; permanecendo o valor em conta judicial, ou mesmo indisponível ao credor, por opção do devedor, por evidente, mantém-se o inadimplemento da prestação de pagar quantia certa" (REsp 1.175.763, STJ 4ª Turma, rel. Min. Herman Benjamin, j. 17.09.201)" (e-STJ fls. 23/24 - grifou-se).
+Tal conclusão não destoa da orientação firmada nesta Corte, no sentido de que, em execução, o depósito judicial ou o oferecimento de seguro apenas para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do CPC/2015, visto não configurarem pagamento voluntário; ou seja, não perfazem o adimplemento voluntário da obrigação.
+Nesse sentido, confiram-se:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. CONTRATO DE COMPRA E VENDA DE QUOTAS SOCIAIS. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO NO PRAZO LEGAL. EXISTÊNCIA DE HIPOTECA JUDICIÁRIA. INAPTIDÃO PARA AFASTAR A INCIDÊNCIA DA MULTA DE 10% E DE HONORÁRIOS DE ADVOGADO DE 10%.
+1. Ação de cobrança, em fase de cumprimento de sentença, ajuizada em 23/6/2015, da qual foi extraído o presente recurso especial interposto em 9/2/2023 e concluso ao gabinete em 18/8/2023.
+2. O propósito recursal consiste em definir se a existência de hipoteca judiciária isenta o devedor do pagamento da multa e dos honorários de advogado previstos no art. 523, § 1º, do CPC/2015.
+3. No cumprimento de sentença que reconhece a obrigação de pagar quantia certa, se o devedor não realizar o pagamento voluntário no prazo de 15 (quinze) dias o débito será acrescido de multa de 10% e de honorários de advogado de 10% (art. 523, caput e § 1º, do CPC/2015). São dois os critérios para a incidência da multa e dos honorários previstos no mencionado dispositivo: a intempestividade do pagamento ou a resistência manifestada na fase de cumprimento de sentença 4. A multa e os honorários a que se refere o art. 523, § 1º, do CPC/2015 serão excluídos apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito. Precedentes.
+5. A hipoteca judiciária prevista no art. 495 do CPC/2015 visa a assegurar futura execução, não ocasionando a imediata satisfação do direito do credor. Essa modalidade de garantia não equivale ao pagamento voluntário do débito, de modo que não isenta o devedor da multa de 10% e de honorários de advogado 10%.
+6. No particular, a Corte de origem isentou os recorridos do pagamento da multa e dos honorários previstos no art. 525, § 1º, do CPC/2015, devido à existência de hipoteca judiciária sobre imóveis dos recorridos, o que se revela descabido, uma vez que não houve pagamento voluntário do débito no prazo legal.
+7. Recurso especial conhecido e provido" (REsp 2.090.733/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2023, DJe de 27/10/2023- grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CUMPRIMENTO DE SENTENÇA. SEGURO-GARANTIA. INCIDÊNCIA DA PENALIDADE DO ART. 523 DO CPC. OFERECIMENTO DO SEGURO NÃO SE CONFUNDE COM O PAGAMENTO VOLUNTÁRIO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Na forma da tranquila jurisprudência desta Corte, a multa do art. 523, §1º, do CPC não incidirá quando o executado pagar voluntariamente a quantum executado, situação que não se confunde com quaisquer das formas de garantia do juízo, como a penhora de bens ou valores para posterior discussão do débito ou a oferta de seguro-garantia.
+2. A pretensão do recorrente de transmudar o seguro-garantia, cuja função não é outra senão assegurar futura solvência do débito, em pagamento voluntário, por alegada equivalência a valor em espécie não se mostra sequer razoável.
+3. O legislador quando equiparou o seguro a dinheiro o fez no art. 835 do CPC, norma voltada a regular a ordem a ser observada quando da realização da penhora.
+4. Não há nada menos pagamento voluntário do que a penhora, seja de dinheiro, ou de qualquer outro dos bens ali arrolados, pois expressão da imposição da vontade do Estado sobre o patrimônio do particular, ou seja, não é nem pagamento e nem voluntário.
+5. AGRAVO INTERNO DESPROVIDO." (AgInt no REsp nº 1.889.144/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022- grifou-se).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REPRESENTAÇÃO COMERCIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. OFERTA DE SEGURO GARANTIA. PAGAMENTO VOLUNTÁRIO NÃO CONFIGURADO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ERRO DE FATO NÃO CONFIGURADO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 7 E 568 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil/2015.
+2. A jurisprudência do STJ firmou-se no sentido de que a multa a que se refere o art. 523 do Código de Processo Civil/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito. Precedentes.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do STJ).
+4. Agravo interno a que se nega provimento." (AgInt no AREsp nº 2.067.003/RS, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022- grifou-se).
+Nesse contexto, não há como afastar a incidência da Súmula nº 83/STJ, aplicável em ambas as alíneas do permissivo constitucional.
+Saliente-se que o precedente colacionado no presente agravo não apresenta similitude fática com o caso analisado, tendo em vista que trata do oferecimento de fiança bancária para o afastamento da decretação de nulidade da alienação de imóvel, circunstância não divisada na espécie.
+Assim, as razões do presente agravo não são capazes de infirmar os fundamentos da decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Por fim, não há como majorar novamente a verba honorária, conforme requerido pela parte agravada nas contrarrazões (e-STJ fls. 136/149), porquanto "(..) a majoração dos honorários advocatícios prevista no artigo 85, § 11, do CPC está adstrita à atividade desenvolvida pelo causídico na instância recursal, e não em cada recurso por ele interposto no feito" (AgInt no REsp 1.869.620/DF, Relator Ministro Sérgio Kukina, DJe 31/8/2020).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. DECISÃO AGRAVADA. FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NÃO CABIMENTO.
+1. A ausência de impugnação de fundamentos autônomos não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema, o que não se aplica em caso de decisão com fundamento único ou com capítulos que dependam um do outro. Precedente da Corte Especial.
+2. Na hipótese, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+3. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, está adstrita à atividade desenvolvida pelo causídico na instância recursal, e não em cada recurso por ele interposto no feito.
+4. Agravo interno não conhecido" (AgInt no AREsp n. 2.436.716/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024- grifou-se).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
