@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, recurso especial interposto por DEPARTAMENTO DE ESTRADAS DE RODAGEM contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO DE INSTRUMENTO - DESAPROPRIAÇÃO EXECUÇÃO IMPUGNAÇÃO PRETENSÃO DE RECÁLCULO DE VALORES JÁ PAGOS MEDIANTE PRECATÓRIO DIANTE DO ADVENTO DA LEI Nº 11 960/09 INADMISSIBILIDADE REVERÊNCIA AO PRINCÍPIO DA SEGURANÇA JURÍDICA COISA JULGADA ATO JURÍDICO PERFEITO DECISÃO MANTIDA RECURSO NÃO PROVIDO
+Nas razões recursais, a parte recorrente sustenta, em síntese, a necessidade de ajuste dos juros incidentes à causa, pela impossibilidade de cumulação dos moratórios com os compensatórios e no percentual aplicado (art. 1º-F da Lei n. 9.494/1997).
+Contrarrazões apresentadas.
+O feito foi baixado para adequação a tese vinculante desta Corte, e houve juízo positivo de retratação. Na sequência, houve uma sucessão de juízos de inadmissibilidade, atacados pela ora recorrente, resultando, na terceira decisão da origem, na admissibilidade e remessa destes autos.
+É o relatório.
+Passo a decidir.
+O recurso não comporta conhecimento. Na situação dos autos, tendo havido alteração de fundamentos do acórdão recorrido, mediante o exercício do juízo de retratação pelo órgão julgador para adequação a tese vinculante, é indispensável a ratificação do recurso especial para ajuste argumentativo. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO NA ORIGEM. REEXAME À LUZ DE TESE FIRMADA EM RECURSO REPETITIVO. RATIFICAÇÃO DO APELO. NECESSIDADE. APELO NÃO CONHECIDO. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. "Consoante o entendimento do STJ, havendo a alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto é obrigatória, sob pena de aplicação, por analogia, da Súmula 579 do STJ" (STJ, AgInt no REsp 1.953.257/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 21/11/2022). No mesmo sentido: STJ, AgInt no REsp 1.959.776/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/3/2022; AgInt no REsp 1.659.599/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/11/2018; AgInt no REsp 1.493.826/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 27/11/2017; AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 25/8/2017; AgRg no AREsp 763.083/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 7/3/2016; AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 2/2/2016).
+III. Agravo interno improvido.
+(AgInt no REsp n. 1.636.173/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. BENEFÍCIO DEFERIDO. CORREÇÃO DOS VALORES EM ATRASO. INDEXADOR. TEMAS 905/STJ e 810/STF. ADEQUAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ. APLICAÇÃO. PRECEDENTES.
+1. Trata-se de Agravo Interno contra decisão que entendeu necessária a ratificação do Recurso Especial quando o juízo de retratação modificar o acórdão para adequação aos temas repetitivos ou de repercussão geral, - In casu, os Temas 905/STJ e 810/STF - a contrario sensu da Súmula 579/STJ.
+2. De acordo com o art. 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040  seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, II, do CPC/2015) , e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao Tribunal Superior para julgamento das demais questões". Diretriz metodológica que, por certo, deve alcançar também aqueles feitos que já tenham ascendido ao STJ.
+3. O Recurso Especial não tratou de questões outras. O Tribunal a quo, em juízo de retratação, proferiu novo julgamento e modificou o entendimento anteriormente exarado. Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ. Precedentes.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.903.067/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021.)
+No caso, o recurso versa unicamente sobre a incidência dos juros à luz da alteração no art. 1º-F da Lei n. 9.494/1997, matéria que foi objeto do juízo de retratação para adequação a teses vinculantes desta Corte e do Supremo Tribunal Federal, e não houve reiteração ou ratificação do recurso especial após o novo julgamento.
+Isso posto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
