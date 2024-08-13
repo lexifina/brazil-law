@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/08/2024 a 13/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. INVASÃO DA COMPETÊNCIA DO STF. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DIOGO GONÇALVES BORGES contra acórdão da Corte Especial que negou provimento ao agravo interno, nos termos da seguinte ementa (fls. 456/460, e-STJ):
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REQUISITOS DE
+ADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NÃO OCORRÊNCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, não é viável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+A embargante, em suas razões, alega que há erro material e obscuridade no acórdão recorrido. Aduz que não incide o óbice da Súmula 182/STJ. Pede, ainda, que sejam reconhecidas suas garantias constitucionais.
+Intimada a manifestar-se, a parte embargada quedou-se inerte (fl. 475, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ANÁLISE DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. INVASÃO DA COMPETÊNCIA DO STF. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+A irresignação não merece acolhida.
+A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração. Não há vícios a serem sanados.
+O embargante pretende distorcer o julgado, a fim de obter solução diversa. Em seu agravo interno, o embargante não se manifestou acerca das teses que levaram ao indeferimento liminar dos embargos de divergência: notadamente, ausência de juntada do inteiro teor do acórdão paradigma. Por essa razão, incidiu o óbice da Súmula 182/STJ.
+Em seus embargos de declaração, o embargante continua a atacar fundamento alheio àquele que motivou o indeferimento liminar dos embargos de divergência. Alega, então, que o acórdão embargado é obscuro. Olvida-se, no entanto, de que, para o enfretamento da matéria, em sede de embargos de divergência, é necessário o preenchimento dos requisitos necessários para admissão e processamento do recurso.
+Portanto, o acórdão embargado não é obscuro. O embargante não cumpriu os requisitos necessários para o processamento dos embargos de divergência. Os embargos de divergência foram indeferidos liminarmente e, em consequência, sem a análise da suposta divergência. O embargante pretende, sob o pretexto de existência de obscuridade, o novo julgamento da causa. Os embargos de declaração, entretanto, não se prestam a esta finalidade. Servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, se existentes tais vícios:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO. (..) II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional. III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum. IV. Embargos de Declaração rejeitados. (EDcl no AgInt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019)
+Acerca das garantias constitucionais, o STJ não é competente para analisar suposta ofensa a matérias constitucionais, como pretendido pelo embargante. Nos termos do art. 105 da Constituição Federal, "o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal" (AgInt nos EREsp n. 1.816.228/SP, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 12/3/2024, DJe de 19/3/2024).
+Por fim, advirto a parte embargante que a reiteração das razões já expressamente analisadas implicará o reconhecimento de comportamento protelatório.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
