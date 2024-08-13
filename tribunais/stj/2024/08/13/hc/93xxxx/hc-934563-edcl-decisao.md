@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FELIPE CARSOSO MORAES contra decisão monocrática que indeferiu liminarmente o habeas corpus (e-STJ fls. 181/183).
+Segundo consta dos autos, os pacientes foram presos cautelarmente no dia 1/8/2024 pela suposta prática do crime de extorsão.
+Nas razões do presente recurso, a defesa aponta omissão na decisão, afirmando que o writ não foi impetrado contra "o mérito da decisão que determinou a prisão preventiva, mas o fato de a medida extrema ter sido aplicada aos pacientes sem (..) decisão escrita e devidamente fundamentada tenha sido proferida nos autos" (e-STJ fl. 189). Argumenta que "na ata da audiência de custódia deverá conter os fundamentos justificadores da imposição da prisão preventiva, com entrega de cópia da referida ata aos preso se demais presentes à solenidade" (e-STJ fl. 190).
+Diante disso, pede "seja suprida a omissão presente na decisão ora embargada, a fim de que se enfrente o argumento constante do writ, qual seja, a imposição de prisão preventiva sem a emissão, em audiência de custódia, de decisão escrita e fundamentada, concedendo-se a liminar requerida na impetração" (e-STJ fl. 190).
+É o relatório, decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constata os vício alegado . Consta expressamente da decisão embargada (e-STJ fls. 182/183):
+Em que pese o esforço da defesa, não há como prosseguir a irresignação. Isso porque não consta dos autos a decisão de primeiro grau na qual foram lançados os fundamentos da prisão preventiva.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Relatora Ministra Rosa Weber, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+(..)
+Do mesmo modo, o Relator consignou não haver informações suficientes para decidir sobre o pedido liminar e solicitou informações ao juízo de primeiro grau sobre as alegações da defesa.
+Vale recordar, ainda, que Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso , o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+Intimem-se.
+EMENTA
