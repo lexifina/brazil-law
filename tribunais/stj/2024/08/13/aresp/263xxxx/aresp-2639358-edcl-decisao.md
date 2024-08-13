@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DOUGLAS HENRIQUE SILVA BUENO à decisão de fl. 531, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Ocorre que a procuração que segue acostada, embora não tenha sido juntada no momento correto, não deve ser motivo suficiente para acarretar tamanho prejuízo ao réu. Isto porque, uma vez que o recurso preenche todos os requisitos de admissibilidade, inclusive havendo real possibilidade de conquista de resultado, é certo que a falta de procuração não é motivo razoável para desconsiderar o seu recurso, ainda mais pelo fato de ter sido sanado neste momento.
+Repito: não negamos que houve deficiência da defesa em não atender a intimação no momento certo, ocorre que tal fato não deve ser mais importante do que analisar o recurso interposto, sendo este um direito fundamental do réu e assessugurado constitucionalmente, art. 5º, LV, CF/88.
+Inclusive a proteção ao direito de o réu de ser corretamente defendido é tão grande que há súmula no sentido de que se houver deficiência de defesa com prejuízo ao réu, o processo deverá ser anulado. Nesse sentido, súmula 523 do STF: "No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu." (fls. 537/538).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Rodrigo Souza Alves.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício (fl. 524), não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis (fl. 528).
+Somente agora, em sede destes aclaratórios, a parte trouxe o instrumento de mandato com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
