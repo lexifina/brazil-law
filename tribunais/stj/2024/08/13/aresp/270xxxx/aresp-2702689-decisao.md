@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por GERSON GOMES DA SILVA, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado (e-STJ, fl. 330):
+Apelação cível. Ação de reintegração de posse. Ausência de provada posse. Ônus do autor. Mantida improcedência. Recurso não provido. Para o reconhecimento do direito à reintegração de posse, é preciso que haja prova da posse do autor, do esbulho praticado pelos requeridos, da data do esbulho e da perda da posse, conforme exigência do artigo 561 do CPC. Ausente a comprovação de que o autor exercia posse direta sobre o imóvel demandado, a manutenção da sentença de improcedência é medida que se impõe.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 340-348).
+Nas razões do recurso especial (e-STJ, fls. 351-362), o agravante alegou violação aos arts. 560, 561 e 1.022, inciso II, do Código de Processo Civil de 2015; e aos arts.1.196, 1.228 e 1.210, §§ 1º e 2º, do Código Civil.
+Sustentou, em síntese, que houve negativa de prestação jurisdicional, ante a omissão do julgado sobre "a ausência de manifestação acerca da confissão sobre a invasão do imóvel, bem como inexistência de indicação do respectivo documento/justo título, que legitime a ocupação do imóvel pela embargada/apelada" (e-STJ, fl. 356).
+Defendeu que chegou a exercer a posse do imóvel, ainda que em determinado período, bem como que houve apresentação de documentação comprovando à aquisição do imóvel, além de ocorrido a confissão quanto a invasão do imóvel.
+Contrarrazões não apresentadas (e-STJ, fl. 374).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 393-401).
+Contraminuta apresentada (e-STJ, fls. 419-423).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a apontada violação ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o TJRO examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+Confira-se elucidativo trecho do acórdão que julgou a demanda (e-STJ, fls. 323-324 - sem destaque no original):
+Entretanto, as provas produzidas nos autos não se revelam suficientes para demonstrar que o apelante de fato exerceu a posse do referido imóvel.
+(..)
+Na presente hipótese, as alegações produzidas pelo apelante são frágeis, pois ficou constatado, após a instrução processual, que o autor abandonou o imóvel e manteve-se silente por muitos anos, fora que os documentos trazidos aos autos são antigos.
+Por sua vez, os apelados comprovaram que trabalharam no imóvel, realizaram benfeitorias, constituíram o sobre a coisa, dando o fim social de animus domini que se reveste o direito real da propriedade.
+Insta consignar que, se houve posse do apelante, não ficou prova do quando esta ocorreu, bem como a data do esbulho, visto que os apelados comprovaram que há mais de 10 anos ocupam e trabalham na área.
+Se eventualmente o apelante exerceu um dia a posse sobre o imóvel objeto da ação, a prova testemunhal evidencia que ela foi abandonada.
+(..)
+O recorrente sequer comprovou as ditas benfeitorias realizadas no imóvel.
+Logo, sua declaração em juízo comprova que a parte autora não exerce há muito posse de fato sobre o objeto demandado.
+A respeito da figura do possuidor, a conceituação adotada pelo Código Civil o considera como sendo aquele que exerce um dos poderes imanentes à propriedade.
+(..)
+Dessa forma, observa-se que não prospera a tese tecida pelo apelante, ante a falta de prova do exercício da posse, a ponto de vindicar sua proteção em juízo.
+Assim, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na espécie, ficou claro nos autos que não há nos autos prova que leve à posse do bem pelo agravante; muito pelo contrário, as provas convergem para a demonstração do exercício da posse direta do imóvel pelos requeridos desde o ano de 2005/2006, tendo constituído nele constituído sua residência e construído obras.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE NULIDADE C/C INDENIZAÇÃO POR DANO MORAL. CLUBE DE FUTEBOL. OFENSA GRAVE À INSTITUIÇÃO E A SEUS MEMBROS VEICULADA NA IMPRENSA. EXPULSÃO DE SÓCIO. PENALIDADE PREVISTA NO ESTATUTO DA ENTIDADE E APLICADA APÓS PROCEDIMENTO INTERNO EM QUE FORAM GARANTIDOS OS DIREITOS AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE ILEGALIDADE OU DESPROPORCIONALIDADE DA SANÇÃO. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da ausência de ilegalidades no processo disciplinar interno instaurado pelo Clube em detrimento do autor, bem como a respeito da proporcionalidade da sanção imposta a ele, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1384086/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021 - sem destaque no original)
+Com efeito, constata-se que a questão foi decidida mediante acurada análise do acervo probatório dos autos. Assim, suplantar a cognição das instâncias ordinárias acerca dos requisitos para o reconhecimento da reintegração de posse demandaria o reexame dos fatos e das provas dos autos, o que não se admite nesta via especial, ante o óbice da Súmula 7/STJ.
+A propósito (sem destaque no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONFIGURAÇÃO DE ESBULHO POSSESSÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÃO DE REEXAME DE PROVAS.
+1. O Tribunal de origem reformou a sentença e reconheceu o esbulho possessório a partir do momento em que se pôde perceber a clandestinidade da detenção do terreno pelo apelado. No recurso especial, a parte recorrente alega que o acórdão teria violado o art. 927, incisos I, II e III, do CPC/1973.
+2. O Tribunal de origem, ao dar provimento à apelação, não analisou a controvérsia à luz do art. 927, incisos I, II e III, do CPC/1973, mas sim com fundamento em elementos probatórios apresentados nos autos que demonstraram a ocorrência de esbulho possessório. Súmula n. 211/STJ.
+3. Afastar as conclusões do Tribunal de origem, a fim de manter a improcedência do pedido, afastando o reconhecimento do esbulho possessório, demanda o reexame das provas dos autos, o que encontra impedimento no teor da Súmula 7/STJ.
+4. Descabida a majoração de honorários efetivada na decisão singular, pois a verba já havia sido fixada no patamar máximo pela origem.
+Agravo interno provido em parte apenas para afastar a majoração de honorários.
+(AgInt no REsp n. 2.011.284/AM, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+3. Consoante asseverado pelo Tribunal de origem, o magistrado pode proceder à correção do valor da causa, como o fez, todavia, a impugnação pela parte deveria ter ocorrido no momento oportuno, de modo que se operou a preclusão quanto à matéria. Incidência da Súmula 83/STJ.
+4. No caso, para acolher a tese recursal no sentido de se afastar o esbulho reconhecido pelo Tribunal de origem, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai a Súmula 7 do STJ.
+5. Agravo interno provido para reconsiderar a decisão de fls. 869-871, e-STJ. Agravo em recurso especial conhecido para, de plano, não conhecer do apelo extremo.
+(AgInt no AREsp n. 2.281.877/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SUSPENSÃO DA ORDEM DE REINTEGRAÇÃO DE POSSE. DECISÃO DA PRESIDÊNCIA DESTA CORTE. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DESRESPEITO AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA.
+REQUISITOS DA REINTEGRAÇÃO DE POSSE. SÚMULAS N. 283 E 735 DO STF E 7 DO STJ. RECURSO PROVIDO.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Os pedidos formulados na demanda devem ser interpretados pelo método lógico-sistemático, bem como a própria causa de pedir, extraindo-se da peça tudo que a parte pretende obter. Esse entendimento é aplicável à petição inicial, à contestação e aos recursos. Os argumentos da inicial do agravo de instrumento foram compatíveis com a decisão de primeiro grau agravada, sendo possível colher de suas razões o inconformismo e o interesse na reforma. Desse modo, não ocorreu ofensa ao princípio da dialeticidade recursal.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF. 3.1. Ademais, a jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. 3.2. Afora isso, para alterar a conclusão do Tribunal de origem que suspendeu a ordem de reintegração de posse da área litigiosa, seria imprescindível nova análise da matéria fática, inviável em recurso especial (Súmula n. 7 do STJ).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.553.187/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/2/2020, DJe 18/2/2020)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECU RSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS PARA A CONCESSÃO DA PROTEÇÃO POSSESSÓRIA PLEITEADA. NÃO CONFIGURADOS. ESBULHO AFASTADO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
