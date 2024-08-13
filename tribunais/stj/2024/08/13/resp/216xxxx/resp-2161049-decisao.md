@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAMARA DE DIRIGENTES LOJISTAS DE PORTO ALEGRE com fundamento no artigo 105, inciso III, alínea "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE CANCELAMENTO DE REGISTRO EM BANCO DE DADOS. NOTIFICAÇÃO PRÉVIA. NÃO COMPROVADA A REGULARIDADE DE TODAS AS NOTIFICAÇÕES PRÉVIAS RELATIVAS AOS REGISTROS IMPUGNADOS, NOS MOLDES EM QUE PRECEITUA O ARTIGO 43, § 2º, DO CDC. VALIDADE DAS NOTIFICAÇÕES POR CARTA, COM LISTA DE POSTAGEM DOS CORREIOS QUE DEMONSTRA A REMESSA PRÉVIA. NOTIFICAÇÕES VEICULADAS APENAS POR POR E-MAILOU SMS. INVALIDADE, NOS TERMOS DA JURISPRUDÊNCIA DA CORTESUPERIOR. CANCELAMENTO DO REGISTRO. PRECEDENTES. SUCUMBÊNCIA REDISTRIBUÍDA. APELAÇÃO PARCIALMENTE PROVIDA." (fl. 191 e-STJ)
+No recurso especial, a recorrente sustenta violação dos arts. 1.022, I, do CPC, e do § 2º do art. 43 da Lei nº 8.078/90 (CDC), bem como pela divergência jurisprudencial, pois a notificação prévia determinada por esse dispositivo legal possuiria como único requisito a forma escrita, sendo possível o envio por meio eletrônico.
+Contrarrazões às e-STJ fls. 237/246.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Quanto à alegada negativa de prestação jurisdicional e ofensa ao art. 1.022, I, do CPC, registra-se que o tribunal de origem se pronunciou acerca dos pontos levantados pelo recorrente, os quais entendeu relevantes para a solução da controvérsia, afastando os argumentos que poderiam infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento motivado, declarando os fundamentos que o levaram a solucionar a lide. Desse modo, o não acolhimento das teses ventiladas não significa omissão ou deficiência da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie (vide Tema nº 339/STF).
+No contexto destes autos, a corte local agiu corretamente ao rejeitar os embargos declaratórios por não identificar omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente seu intuito infringente, que objetivava a reforma do julgado por via inadequada. A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Nunca é demais reforçar que o órgão julgador não está obrigado a se pronunciar de modo específico sobre todo e qualquer ponto, tese ou alegação suscitados pelos litigantes. Na técnica da decisão judicial, é usual o fato de que o acolhimento ou a refutação de determinado argumento torne prejudicado ou exclua, logicamente, a análise dos demais, por restarem prejudicados, incompatíveis com a decisão ou simplesmente por não terem sido acolhidos pelo julgador.
+Disso se conclui que a motivação contrária aos interesses da parte ou a superação de argumentos considerados irrelevantes para a solução do caso não autoriza o acolhimento dos declaratórios.
+No que tange ao cerne da controvérsia, verifica-se que o acórdão do TJRS está alinhado à jurisprudência do Superior Tribunal de Justiça, segundo a qual a inscrição do devedor nos cadastros de proteção ao crédito deve ser precedida de notificação extrajudicial entregue no endereço declinado no contrato, sendo vedada a notificação exclusivamente por meio de SMS ou e-mail.
+Nesse sentido:
+"CONSUMIDOR E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. NOTIFICAÇÃO POR E-MAIL. IMPOSSIBILIDADE. NECESSIDADE DE CORRESPONDÊNCIA AO ENDEREÇO DO CONSUMIDOR. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que "à luz das disposições do CDC e da jurisprudência desta Corte, a notificação ao consumidor da inscrição de seu nome em cadastro restritivo exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusivamente por meio de SMS ou e-mail", o que justificou o provimento do recurso especial da embargada por está o acórdão do TJRS em desconformidade com entendimento do STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados."
+(EDcl no AgInt no REsp n. 2.096.236/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a notificação extrajudicial expedida exclusivamente para endereço eletrônico não se mostra idônea para constituir em mora o devedor.
+2. A modificação da conclusão da instância originária sobre a falta de ciência da executada acerca da comunicação expedida para seu email esbarra na Súmula 7/STJ.
+3. Agravo interno desprovido"
+(AgInt no REsp nº 2.045.968/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. INSCRIÇÃO. CANCELAMENTO. CADASTRO RESTRITIVO DE CRÉDITO. NOTIFICAÇÃO POR E-MAIL. IMPOSSIBILIDADE. ENDEREÇO DO CONSUMIDOR. INTERPRETAÇÃO. TELEOLÓGICA. RESTRITIVA. ART. 43, § 2º, CDC. SÚMULA Nº 568/STJ.
+1. Nos termos da orientação firmada no Superior Tribunal de Justiça, a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva por meio de e-mail ou mensagem de texto de celular.
+Precedentes.
+2. Na atual sociedade da informação, a utilização de e-mail e mensagens de texto via celular (SMS) representa importante avanço tecnológico, podendo contribuir para aprimorar o relacionamento entre as partes no âmbito das relações de consumo. No entanto, não se revela lícita a sua utilização exclusiva como mecanismo único de notificação do consumidor acerca da abertura de cadastro, ficha, registro e dados pessoais e de consumo. Interpretação teleológica do art. 43, § 2º, do CDC.
+3. Agravo interno não provido."
+(AgInt no REsp n. 2.070.075/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024 )
+Desse modo, alterar a premissa fática estabelecida no aresto recorrido de que não são válidas as notificações efetivadas pelo órgão arquivista quando realizada exclusivamente na forma eletrônica, por mensagem de texto de celular (SMS) ou por e-mail, demandaria o reexame de fatos e provas dos autos, vedado em recurso especial (Súmula nº 7/STJ).
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% sobre o valor da causa, os quais devem ser majorados para o patamar de 15%, nos termos do art. 85, § 11, do CPC, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
