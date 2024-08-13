@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de PAMELA GONCALVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento da apelação criminal n. 5014849-87.2021.8.24.0008.
+Consta dos autos que a paciente foi inicialmente condenada pelo Juízo da 3ª Vara Criminal da Comarca de Blumenau, à pena de 5 anos de reclusão, em regime semiaberto, além do pagamento de 500 dias-multa, no mínimo legal, por incursão no artigo 33, caput, da Lei 11.343/06 (fls. 12-17).
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso (fls. 19-26).
+Sobreveio a impetração do presente habeas corpus, objetivando a concessão da ordem para reconhecer o privilégio do § 4º do artigo 33 da Lei 11.343/2006.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal, consubstanciada na negativa ao privilégio do § 4º do artigo 33 da Lei 11.343/2006.
+Ocorre que o presente writ investe contra acórdão (fls. 19-26), em substituição ao recurso especial, não podendo ser conhecido. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, pontuo que o Tribunal de Apelação - soberano na análise da matéria de fatos e provas - concluiu, a partir da prova produzida sob o crivo da ampla defesa e do contraditório, que a paciente é entrelaçada com atividades criminosas voltadas ao tráfico de entorpecentes.
+Eis os fundamentos do acórdão (fls. 19-26):
+ ..
+Na hipótese, os policiais foram firmes e coerentes ao narrarem as circunstâncias das investigações e apreensão dos entorpecentes e demais objetos utilizados para o tráfico, bem como a análise minuciosa das conversas tratadas pelo aplicativo whatsapp entre os réus e os compradores de entorpecentes.
+Embora não se ignore que a quantidade de droga apreendida não pode ser considerada expressiva, o conjunto probatório não deixa dúvidas de que seriam destinadas à comercialização.
+Demais disso, conquanto Ismael negue a autoria delitiva, afirmando ser apenas consumidor de drogas, importante destacar que a condição de usuário não elide a de traficante, como no caso em análise.
+Nesse aspecto, conforme bem registrou o magistrado, "do acesso aos dados de celular do acusado Ismael (Ev. 39 do APF e Evs. 18 e 77 da ação penal), foi possível perceber a prática reiterada da narcotraficância de ambos os acusados, com dedicação a atividades ilícitas. Vê-se que em 20.12.2019 (jl. 3, ev. 77), já há captura de mensagem de usuário solicitando droga ao réu, fato, por consequência, que ocorreu mais de 6 meses antes da prisão no presente processo (31.8.2020). Só no auto circunstanciado do Ev. 77, tem-se ainda conversas da narcotraficância nos meses que se seguem como janeiro, maio e junho de 2020 (fls. 4, 6 e 7 do auto circunstanciado). Não é demais destacar que o réu claramente apagava as mensagens de droga na tentativa de dificultar a eventual e futura investigação policial. Sua própria companheira, ora ré, reconhece, em conversa de 21.8.2020, que o réu "sempre fez corre" (fl. 18 Ev. 39 do APF). Aliás, captou-se conversa em que o denunciado se alinha à facção criminosa conhecida no Estado de Santa Catarina, para continuar sua atividades espúria (fls. 68-69 do Ev. 39 do APF). Inclusive, com os réus, foram apreendidos rádios comunicadores, para além dos apetrechos, tipicamente utilizados na prática delitiva, em grupo criminoso."
+Aliás, da análise das conversas telefônicas extraídas do aparelho celular de Ismael, não restam dúvidas de que ele e a ré Pamela estavam profundamente envolvidos no tráfico dc narcóticos, (ev. 39 do inquérito policial, p. 6/69)
+Nesta senda, plenamente caracterizado o delito previsto no art. 33, caput, da Lei n. 11.343/06, sendo inviável a pretendida desclassificação.
+ ..
+Com efeito, observo que a Corte local empregou fundamentação idônea, a partir de fatos concretamente extraídos dos autos, que demonstram sem nenhum dúvida, que a paciente não possui os requisitos cumulativos do § 4º do artigo 33 da Lei 11.343/2006. Merece especial destaque a extração de conversas do aplicativo WhatsApp, que indicam a habitual traficância, o alinhamento com organização criminosa do Estado de Santa Catarina, rádios comunicadores e petrechos para o tráfico.
+Nesse passo, o acórdão impugnado restou decido em harmonia com a jurisprudência do Superior Tribunal de Justiça:
+ ..
+3. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+4. Hipótese em que as instâncias antecedentes concluíram pelo envolvimento habitual do paciente com o tráfico transnacional de drogas, levando em conta não só a quantidade da droga apreendida - 1.343,69 kg de cocaína -, mas toda a logística na prática criminosa, qual seja, o transporte da droga em fundo falso do caminhão, além de vídeos revelando o acondicionamento das drogas, dentro de contêineres, em pelo menos três oportunidades distintas, por um grupo de pessoas, dentre as quais se encontrava o réu. Logo, a modificação desse entendimento, a fim de fazer incidir a minorante da Lei de Drogas, enseja o reexame do conteúdo probatório.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 903.157/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - O writ foi impetrado contra acórdão do Tribunal local, em substituição a recurso próprio, de modo que não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça.
+II - O parágrafo 4º do artigo 33 da Lei n. 11.343/2006 dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+III - No presente caso, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada nas circunstâncias do caso concreto, em que foram apreendidos, além dos entorpecentes, 2.000 eppendorfs vazios, um simulacro de arma de fogo e balança de precisão, a ensejar a conclusão de que o paciente está entrelaçado com atividades criminosas, motivo pelo qual o Tribunal local afastou o privilégio.
+IV - Para que a tese vertida na presente impetração pudesse ser acolhida, seria imprescindível o revolvimento de todo o conjunto fático-probatório, cujo rito do habeas corpus e a jurisprudência do Superior Tribunal de Justiça não admitem. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 892.168/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Portanto, não há no acórdão (fls. 19-26) ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
