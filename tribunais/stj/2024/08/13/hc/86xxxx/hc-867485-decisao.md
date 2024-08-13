@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de BRUNO HENRIQUE DE CAMARGO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2286126-35.2023.8.26.0000).
+O paciente foi condenado à pena de 16 anos de reclusão, em regime fechado, pela prática do crime previsto no art. 121, § 2º, I, III e IV, do Código Penal, negado o recurso em liberdade. A ordem impetrada na origem foi indeferida.
+A defesa alega: a) ausência de fundamentação suficiente a justificar a prisão preventiva; e b) condições pessoais favoráveis. Requer seja revogada a prisão preventiva.
+A  liminar  foi  indeferida.
+As  informações  foram  prestadas.
+Parecer  do  Ministério  Público  Federal  pela denegação da ordem.
+É  o  relatório.  Decido.
+A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+Veja-se:
+"O  habeas  corpus  não  pode  ser  utilizado  como  substitutivo  de  recurso  próprio,  a  fim  de  que  não  se  desvirtue  a  finalidade  dessa  garantia  constitucional,  com  a  exceção  de  quando  a  ilegalidade  apontada  é  flagrante,  hipótese  em  que  se  concede  a  ordem  de  ofício"
+(AgRg  no  HC  n.  895.777/PR,  Relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  2/4/2024,  DJe  de  8/4/2024).
+"De  acordo  com  a  jurisprudência  do  STJ,  não  é  cabível  o  uso  de  habeas  corpus  como  sucedâneo  de  revisão  criminal,  notadamente  quando  não  há  indicação  de  incidência  de  alguma  das  hipóteses  previstas  no  art.  621  do  CPP.  Precedentes"
+(AgRg  no  HC  n.  864.465/SC,  Relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  18/3/2024,  DJe  de  20/3/2024).
+A  jurisprudência  do  Supremo  Tribunal  Federal  é  no  mesmo  sentido:
+"Do  ponto  de  vista  processual,  o  caso  é  de  habeas  corpus  substitutivo  de  agravo  regimental  (cabível  na  origem).  Nessas  condições,  tendo  em  vista  a  jurisprudência  da  Primeira  Turma  desta  Corte,  entendo  que  o  processo  deve  ser  extinto  sem  resolução  de  mérito,  por  inadequação  da  via  eleita  (HC  115.659,  Rel.  Min.  Luiz  Fux)  (..)  A  orientação  jurisprudencial  deste  Tribunal  é  no  sentido  de  que  o  "habeas  corpus  não  se  revela  instrumento  idôneo  para  impugnar  decreto  condenatório  transitado  em  julgado"  (HC  118.292-AgR,  Rel.  Min.  Luiz  Fux).  4.  O  caso  atrai  o  entendimento  desta  Corte  no  sentido  de  que  não  cabe  habeas  corpus  para  reexaminar  os  pressupostos  de  admissibilidade  de  recurso  interposto  perante  outros  Tribunais  (HC  146.113-AgR,  Rel.  Min.  Luiz  Fux;  e  HC  110.420,  Rel.  Min.  Luiz  Fux).  (..)
+(HC  225896  AgR,  Relator  Ministro  Luís  Roberto  Barroso,  Primeira  Turma,  julgado  em  15/5/2023,  DJe  de  17/5/2023).
+O  entendimento  é  de  elevada  importância,  devendo  ser  utilizado  para  preservar  a  real  utilidade  e  eficácia  da  ação  constitucional,  qual  seja,  a  proteção  da  liberdade  da  pessoa,  quando  ameaçada  por  ato  ilegal  ou  abuso  de  poder,  garantindo  a  necessária  celeridade  no  seu  julgamento.
+A  concessão  de  ofício  da  ordem,  nos  termos  dos  arts.  647-A  e  654,  §  2º,  do  Código  de  Processo  Penal,  depende  da  existência  de  flagrante  ilegalidade,  situação  que  não  se  verifica  de  plano  na  hipótese  dos  autos,  conforme  se  obtém  da  fundamentação  lançada  na  origem  sobre  a  controvérsia  (e-STJ  fls.  519-520):
+Neste passo, embora o Acórdão ainda não tenha transitado em julgado perante a Defesa, importa pontuar que esta Câmara Criminal manteve a condenação e a prisão cautelar do paciente, descabendo à Turma Julgadora revisar suas próprias decisões.
+Aqui, cabe salientar que a manutenção da custódia não se revela teratológica, sendo vedado o apelo em liberdade para garantia da ordem pública, considerados os indícios de autoria e a prova da materialidade colhidos ainda no limiar da persecução e reforçados diante da solução condenatória já confirmada por este Colegiado, a par da gravidade CONCRETA da conduta ínsita ao ânimo homicida, sem se desprezar o motivo torpe, o emprego de meio cruel e o recurso que dificultou a defesa do ofendido a reforçar a índole acentuadamente perniciosa dos agentes, tudo a exigir a continuidade da segregação, tal como constou da sentença.
+Reprise-se, no mais, que o paciente foi preso preventivamente (fls.126 e 149 dos autos subjacentes) e assim permaneceu durante toda a instrução, daí porque ilógica seria sua soltura diante de título mais sólido representado pela sentença condenatória confirmada quando do julgamento da apelação.
+Condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção.
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
