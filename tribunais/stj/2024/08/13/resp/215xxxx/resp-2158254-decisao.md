@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DECISÃO QUE DETERMINA O DEPÓSITO DA QUANTIA EXECUTADA, INCLUSIVE DOS HONORÁRIOS ADVOCATÍCIOS, SOB PENA DE ACIONAMENTO DO SEGURO GARANTIA. ART. 9º, INC. I, DA L. Nº 6.830/80 E ART. 151, INC. II, DO CTN. DESNECESSIDADE DE DEPÓSITO DOS HONORÁRIOS ADVOCATÍCIOS E DAS CUSTAS PROCESSUAIS. PRECEDENTES. DECISUMR EFORMADO. RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 111/119):
+O acórdão viola o artigo 831 do Código de Processo Civil, o artigo 9º, I, da Lei nº 6830/80 e o artigo 151, II, do Código Tributário Nacional  ..  a penhora, por definição, destina-se a garantia da execução, tanto fiscal quanto não fiscal. Ela deve corresponder a integralidade do valor executado e, portanto, deve compreender não apenas o principal (crédito tributário, no caso em exame), mas também atualização monetária, juros moratórios custas processuais e honorários advocatícios, na eventualidade da parte executada pretender auferir os benefícios de ter garantido integralmente o juízo, como é a intenção da recorrida  ..  no artigo 9º, I, da Lei nº 6.830/80 e o artigo 151, II, do Código Tributário Nacional o legislador disse menos do que pretendia dizer. Tais dispositivos legais apresentam lacuna que pode e deve ser preenchida pelo determinado no artigo 831 do Código de Processo Civil. Por óbvio, o legislador sempre visou a integral garantia da execução, a qual não é possível sem a penhora ou depósito das custas processuais e honorários advocatícios.
+Contrarrazões apresentadas pela parte recorrida (fls123/129).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial se origina de agravo de instrumento interposto por WMB SUPERMERCADOS DO BRASIL LTDA contra decisão proferida em execução fiscal que determinou o depósito de R$ 335.275,80 a título de complementação do depósito judicial realizado com fim de suspender a exigibilidade do crédito tributário, no valor de R$ 2.381.758,12. Conforme causa de pedir:
+Importante destacar que a finalidade do depósito judicial é exclusivamente para garantia do crédito tributário e não teve como escopo o pagamento de eventuais honorários advocatícios, uma vez que estes não estão inseridos na CDA objeto desta ação executiva.
+Logo, o quantum depositado (guia e comprovante de depósito mov. 186.2) está de acordo com o valor do débito executado, o qual foi atualizado pelo próprio Agravado(Doc. 03 -extrato em anexo e acima exposto).
+Tampouco é de se cogitar o argumento de que o valor depositado nos autos deveria ser o mesmo garantido pela apólice, nos termos do seu objeto.
+Isso porque as condições elencadas na apólice em nada vinculam o juízo da execução fiscal em relação ao depósito. A partir do momento em que a garantia nos autos teve que ser substituída pelo depósito, suas condições deixaram de existir.
+Ademais, em relação aos valores contidos na apólice, a hipótese de inclusão dos honorários no valor global garantido não é uma exigência de Lei, mas de Resolução da própria PGE/PR, que impõe ao Executado, como condição de aceita da garantia, a inclusão do percentual de 20% de honorários, nos termos da Resolução Conjunta PGE/SEFA nº 17/18.
+Ao julgar o agravo de instrumento, o Tribunal de Justiça deu-lhe provimento. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 77/81):
+Da leitura dos dispositivos mencionados, conclui-se que, para a garantia do juízo e suspensão da exigibilidade do crédito tributário, não há a exigência de que no depósito deve ser incluído o valor dos honorários advocatícios, mas, tão somente o valor da dívida, acrescida dos juros e demais encargos discriminados na CDA.
+No presente caso, conforme o comprovante de pagamento juntado pela agravante/executada no mov. 186.2, o depósito foi realizado em 24/02/2023, no montante de R$ 2.381.758,12, valor este que corresponde exatamente àquele constante na guia de recolhimento emitida no site da Fazenda, em 10/02/2023 (mov. 1.8/AI).
+Por conseguinte, houve o depósito judicial da integralidade do valor atualizado da dívida, não encontrando amparo legal a exigência de complementação do depósito com o valor relativo aos honorários advocatícios para fins de garantia da execução e suspensão da exigibilidade do crédito tributário, muito menos que deva ser acrescentado a este valor as custas processuais.
+ ..
+Portanto, considerando a desnecessidade de inclusão do valor dos honorários e custas no depósito para garantia do juízo e consequente suspensão da exigibilidade do crédito tributário, a reforma do é medida que se impõe
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 706/107).
+Pois bem.
+O conhecimento do recurso encontra óbice na Súmula 284 do STF, tendo em vista os artigos de lei tidos por violados não conterem comando normativo apto à sustentação da tese recursal. Isso porque o art. 151, inc. II, do Código Tributário Nacional não impõe o depósito do valor dos honorários advocatícios como condição da suspensão da exigibilidade do crédito tributário, cujo conceito, aliás, em nada se relaciona com aqueles; enquanto o art. 9º, inc. I, da Lei n. 6.830/1980 é específico em relacionar a garantia ao valor da dívida, juros, multa de mora e encargos indicados na Certidão de Dívida Ativa - CDA.
+Nesse cenário, portanto, não há autorização para exigir o depósito dos valores referentes aos honorários advocatícios e das custas processuais como condição à garantia da execução, notadamente, quando essas parcelas não estão incluídas na CDA.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. DEPÓSITO. VALOR CONSTANTE DA CERTIDÃO DE DÍVIDA ATIVA SOMADO A CONSECTÁRIOS LEGAIS (CORREÇÃO MONETÁRIA E MORA). HONORÁRIOS ADVOCATÍCIOS E CUSTAS PROCESSUAIS. INCLUSÃO INDEVIDA.
+I - O depósito em dinheiro necessário para a garantia do juízo de execução com vistas ao oferecimento de embargos do devedor deve corresponder ao valor constante da Certidão de Dívida Ativa, devidamente atualizado e acrescido de mora, consoante rezam os arts. 9º da Lei nº 6.830/80 e 151, II, parágrafo único, do CTN.
+II - É indevida a exigência de depósito referente a verbas de sucumbência da execução e de custas processuais, haja vista tais valores não restarem previstos na CDA que instruiu a ação executiva. Precedente: REsp nº 243.879/RJ, Rel. Min. MILTON LUIZ PEREIRA, DJ de 14/10/2002.
+III - Recurso especial provido.
+(REsp n. 687.862/RJ, relator Ministro Francisco Falcão, Primeira Turma, julgado em 16/6/2005, DJ de 5/9/2005)
+Por fim, deve-se chamar atenção para o fato de o art. 831 do CPC/2015 não influir no processo executivo fiscal, na medida em que há regra específica na Lei n. 6.830/1980 para a garantia da execução.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
