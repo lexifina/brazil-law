@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RICHARD ALEXANDRE ALMEIDA SANTOS contra acórdão da 1ª Câmara Criminal do Tribunal de Justiça de São Paulo, no HC n. 2103295-82.2024.8.26.0000, assim ementado:
+HABEAS CORPUS. Suposta prática do crime de roubo. Pedido de trancamento da ação penal, em razão da atipicidade da conduta. Alegada prática de atos preparatórios. Inadmissibilidade. Trancamento da ação penal, pela estreita via do Habeas Corpus, demanda comprovação inequívoca de que o fato imputado não constitui crime; de ausência de justa causa ou da presença de causa extintiva da punibilidade. Hipóteses não configuradas. Acusados tentaram arrombar a porta da loja na presença da vítima, não se consumando o delito por não terem conseguido ingressar no local. Descrição dos fatos não ampara, ao menos por ora, a tese de atipicidade da conduta. Ausência de flagrante ilegalidade apta a justificar o trancamento da ação penal por esta via.
+Alegada ausência dos requisitos autorizadores da prisão preventiva é objeto de outro Habeas Corpus. Parcial conhecimento da impetração e, na parte conhecida, ordem denegada. (e-STJ, fl. 53)
+Em seu arrazoado, a impetrante insurge-se contra a decretação da prisão preventiva em desfavor do paciente, sob a alegação de carência de devida fundamentação.
+Aponta atipicidade da conduta e ausência de justa causa para a ação penal. Alega que carece de razoabilidade do reconhecimento do crime previsto no art. 157, § 2º-A, inciso I, do Código Penal, ainda que na modalidade tentada.
+Requer, liminarmente, a revogação da prisão preventiva do paciente ou a imposição de medidas cautelares diversas.
+Ao final, pugna pelo trancamento da ação penal.
+O pedido liminar foi indeferido (e-STJ, fl. 63).
+Informações prestadas às fls. 69-93, 94-147 e 149-202, e-STJ.
+O Ministério Público opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (e-STJ, fls. 206-211).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De antemão, observa-se do teor do acórdão impugnado que a questão aqui trazida relativa à prisão preventiva do paciente não foi alvo de cognição pela Corte estadual por ser objeto de análise nos autos de outro writ (HC n. 2102384-70.2024.8.26.0000). Tal situação obsta o exame da matéria diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Sobre o pedido de trancamento da ação penal, o Tribunal de Justiça assim analisou a controvérsia:
+A alegação de atipicidade da conduta, por se tratar da prática de meros atos preparatórios, não pode ser acolhida no Habeas Corpus.
+Conforme constou da denúncia, os acusados tentaram arrombar a porta da loja na presença da vítima, não se consumando o delito por não terem conseguido ingressarem no local. A descrição dos fatos não ampara, ao menos por ora, a tese da prática de atos preparatórios. No caso em tela, há indícios de que as condutas realizadas consistem em início de execução, não se vislumbrando, portanto, flagrante ilegalidade apta a justificar o trancamento da ação penal por esta via.
+O Habeas Corpus é remédio constitucional de rito célere e que só admite a análise de provas pré-constituídas, de sorte que o exame aprofundado da tese de atipicidade da conduta e dos requisitos para sua caracterização, nesta seara, acabaria por invadir o próprio mérito da ação penal em trâmite.
+Assim, não evidenciado o constrangimento ilegal, a questão, que demanda análise probatória, deverá ser realizada pelo juízo de conhecimento. (e-STJ, fls. 57-58)
+Verifica-se do acórdão impugnado, que o TJ-SP decidiu em conformidade com a orientação desta Corte.
+De fato, o trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+In casu, nos termos do parecer ministerial, " a  exordial acusatória traz indícios suficientes a embasar o processamento do feito, na medida em que indica que o paciente e seus comparsas tentaram arrombar a porta da loja na presença da vítima, não se consumando o delito por não terem conseguido ingressar no local para efetuar o roubo dos celulares". A descrição contida na denúncia indica "início de execução, não se vislumbrando, portanto, flagrante ilegalidade apta a justificar o trancamento da ação penal" (e-STJ, fl. 208-209).
+De fato, a denúncia apresentada, prima facie, descreve detalhadamente os fatos que, em tese, constituem infração penal e demonstram a justa causa para a propositura da persecutio criminis, respaldada nos indícios da prática do crime de roubo majorado.
+Cumpre registrar que o reconhecimento da atipicidade da conduta é providência inviável na via estreita do writ, por exigir profundo exame do contexto probatório dos autos. Referida tarefa é reservada ao Juízo processante que, no decorrer da instrução processual, analisará as teses suscitadas pela defesa.
+Ainda de acordo com o opinativo do Ministério Público Federal:
+A conclusão de que a conduta teria se limitado aos atos preparatórios, não configurando, assim crime, deve ser aferida no dilargado âmbito da instrução criminal, próprio para a realização de aprofundado exame de matéria fático-probatória, sob pena de se impedir que o órgão de acusação prove, ali, como se propõe, a responsabilidade penal do acusado. (e-STJ, fl. 209)
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
