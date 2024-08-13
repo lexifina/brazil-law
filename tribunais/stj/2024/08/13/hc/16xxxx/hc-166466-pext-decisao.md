@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de extensão dos efeitos do acórdão de fls. 137/146, formulado por ALEXANDRE DA SILVA pelo qual a Quinta Turma desta Corte concedeu parcialmente a ordem, nos autos do HC n. 166.466/SP, para reduzir a pena, relativa ao crime de roubo, imposta ao corréu Lucas Barbosa de Oliveira, nos autos da Ação Penal n. 050.04.033410-4 (592/04) da Décima Segunda Vara Criminal da Comarca de São Paulo, às penas de 5 anos e 4 meses de reclusão, ante a prática do crime do art. 157, §2º, I, CP.
+O requerente sustenta estar na mesma situação fático-processual do corréu, uma vez que o Tribunal de Justiça de São Paulo, ao apreciar as impugnações à terceira fase da dosimetria, elevou a pena em 1/2, tendo em vista, exclusivamente, a quantidade de causas de aumento aplicáveis (e-STJ fls. 154/159).
+Requer, assim, a aplicação ao caso do disposto no art. 580 do CPP, estendendo ao requerente os efeitos da decisão que beneficiara o corréu.
+O Ministério Público Federal manifestou-se pelo deferimento do pedido (e-STJ fl. 167/169).
+É o relatório. Decido.
+Consta dos autos que o requerente e o corréu, Lucas Barbosa de Oliveira, paciente originário do habeas corpus em análise, foram condenados às penas de 6 anos de reclusão, em regime prisional inicial fechado, e 15 dias-multa, ante a prática do crime previsto no art. 157, §2º, I, CP, incidindo, na terceira fase da dosimetria, a fração de aumento de 1/2, ante a constatação da existência de três majorantes (e-STJ fl. 59).
+Às e-STJ fls. 137/146, esta Corte asseverou que, na terceira fase da dosimetria, o aumento da pena imposta ante a prática do crime de roubo exige fundamentação concreta, não sendo suficiente, na forma da Súmula 443/STJ, a mera indicação do número de majorantes aplicáveis.
+Diante disso, o habeas corpus foi parcialmente concedido para reduzir a pena imposta a Lucas Barbosa de Oliveira, nos autos da Ação Penal nº 050.04.033410-4 (592/04) da Décima Segunda Vara Criminal da Comarca de São Paulo, relativa ao crime de roubo, a 5 anos e 4 meses de reclusão, a ser cumprida em regime prisional inicialmente fechado.
+A teor do art. 580 do Código de Processo Penal, no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros. Diante disso, o deferimento do pedido de extensão exige que o corréu esteja na mesma situação fático-processual daquele já beneficiado com a decisão que se objetiva a extensão.
+Na hipótese, verifico que a situação fático-processual do paciente e do corréu, ora requerente, são idênticas, uma vez que o acórdão impugnado elevou a reprimenda do requerente a partir de fundamentação inidônea, tal como feito com relação a Lucas Barbosa de Oliveira.
+Ante o exposto, acolho o pedido de extensão dos efeitos do acórdão de fls. 137/146 ao corréu ALEXANDRE DA SILVA, ora requerente.
+Intimem-se.
+EMENTA
