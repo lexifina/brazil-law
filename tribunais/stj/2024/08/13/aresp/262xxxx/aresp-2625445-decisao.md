@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pela UNIVERSIDADE FEDERAL DE SÃO PAULO contra decisão que inadmitiu o recurso especial com fundamento na Súmula 83/STJ.
+Nas razões do recurso especial inadmitido, a parte recorrente aponta violação aos artigos 332, § 1º e 487, II, do CPC, e art. 1º do Decreto 20.910/32, além de contrariedade ao enunciado da Súmula 85/STJ, buscando o reconhecimento da prescrição do próprio fundo de direito.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos, aduzindo que:
+Há que se reconhecer, no entanto, a ocorrência da prescrição de fundo de direito, nos termos do art. 1º do Decreto 20.910/32, que se consumou ante o decurso de prazo superior a 5 anos a contar da edição da Orientação Normativa da Secretaria de Recursos Humanos do Ministério do Planejamento, Orçamento e Gestão nº 03, de17.06.2008, publicada no DOU de 18.06.2008, que pretendendo dar cumprimento ao Acórdão 1.038/2008 do Tribunal de Contas da União-TCU - PLENÁRIO - TC 009.019/2007-0, vedou o pagamento cumulado da gratificação de raio-x e adicional de radiação ionizante (fl. 397).
+Contrarrazões apresentadas às fls. 411-423.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+De acordo com a jurisprudência do STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023).
+No caso, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Com efeito, os artigos 332, § 1º e 487, II, do CPC, e art. 1º do Decreto 20.910/32, não foram objeto de análise pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 282 do STF, por analogia.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho , Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+De outra parte, impossível a pretendida análise de violação da Súmula 85/STJ, tendo em vista que súmula e enunciado não podem ser enquadrados no conceito de lei federal para que seja objeto de recurso especial. Incidência da Súmula n. 518/STJ: Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
