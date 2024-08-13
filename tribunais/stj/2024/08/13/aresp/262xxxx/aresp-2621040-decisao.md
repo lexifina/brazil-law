@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Maranhão contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 121):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA DE AÇÃO COLETIVA. ILEGITIMIDADE. NÃO DEMONSTRADA.
+ARGUMENTO REITERADO. AFASTADO. AGRAVO CONHECIDO E NÃO PROVIDO.
+I. O Agravante, reitera sua irresignação inicial quanto a ilegitimidade da parte Agravada, afirmando que não houve a comprovação de todos os requisitos exigidos pelo STF no sentido de considerar legítimos apenas os associados à autora (ASSEPMMA) no momento do ajuizamento da ação e que a lista apresentada foi elaborada de forma unilateral.
+II. Ao ajuizar o cumprimento de sentença, foi acostado ao processo ficha de associação do Agravado na ASSEPMMA, firmada 11/01/2012, ou seja, em data anterior ao ajuizamento da ação coletiva, de forma que resta comprovada a filiação do Agravado e, por conseguinte, sua legitimidade ativa III. Agravo de Interno conhecido e não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 166/183).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 2º-A da Lei nº 9.494/97 e 535, II e 924, I, do CPC. Sustenta a ilegitimidade da parte recorrida, sob o argumento de que deve "ser declarada ilegítima a parte e extinto o Cumprimento de Sentença quando o exequente não comprove os requisitos para se beneficiar do título coletivo, no caso, a filiação à época, a residência no âmbito da jurisdição, a autorização ex pressa para ajuizamento e, ainda, sua presenta na lista de representados anexada com a inicial da fase de conhecimento" (fls. 193/194).
+Pugna. ao fim, pela concessão de efeito suspensivo ao recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que "Ao ajuizar o cumprimento de sentença, foi acostado ao processo ficha de associação do Agravado na ASSEPMMA (id nº. 8600669 - autos de origem), firmada 11/01/2012, ou seja, em data anterior ao ajuizamento da ação coletiva, de forma que resta comprovada a filiação do Agravado e, por conseguinte, sua legitimidade ativa" (fl. 127), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Ainda que assim não fosse, a alteração de tal premissa adotada pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Prejudicado o pedido de concessão de efeito suspensivo.
+Publique-se.
+EMENTA
