@@ -1,0 +1,76 @@
+DECISÃO
+Cuida-se de agravo interposto por ALVARO LUIS PEDROSO MARQUES DE OLIVEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO cuja ementa guarda os seguintes termos (fls. 654-655):
+RECURSO DE APELAÇÃO - CUMPRIMENTO DE SENTENÇA DE AÇÃO MONITÓRIA- EXTINÇÃO DO CUMPRIMENTO POR AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INEXIGIBILIDADE DE CHEQUES - PRELIMINARES - INOVAÇÃO RECURSAL - COISA JULGADA - REJEITADAS - CREDORA HIPOTECÁRIA DE CONTRATO DE COMPRA E VENDA DE IMÓVEL RURAL - ASSUNÇÃO DE DÍVIDA PELO AUTOR/COMPRADOR - MATRÍCULA ORIGINÁRIA CANCELADA EM RAZÃO DE FRAUDE - ART. 302, DO CC - PLEITO FUNDAMENTADO EM EXCEÇÃO PESSOAL DO DEVEDOR ORIGINÁRIO - NÃO OPONÍVEL - SENTENÇA REFORMADA - RECURSO PROVIDO.
+Apesar da insurgência do Apelado de não se tratar de escritura de assunção de dívida, as razões de recurso não inovam, visto que o argumento recursal foi destacado na contestação.
+"(..) - Para que se reconheça a exceção de coisa julgada, faz-se necessário verificar a tríplice identidade entre as ações (art. 337, §§ 1º e 2º do CPC).
+- Havendo distinção entre a causa de pedir em que se fundam as ações, não há que se falar em coisa julgada material.
+- Os fatos jurídicos supervenientes não são acobertados pela autoridade da coisa julgada, sendo possível sua apreciação judicial. (..) (TJMG - Apelação Cível 1.0000.22.065882-7/001, Relator(a): Des.(a) Lílian Maciel, 20ª CÂMARA CÍVEL, julgamento em 27/10/2022, publicação da súmula em 27/10/2022)
+Consoante o disposto no art. 302, do CC "O novo devedor não pode opor ao credor as exceções pessoais que competiam ao devedor primitivo."
+Os embargos de declaração opostos foram rejeitados (fls. 708-709):
+RECURSO APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA DE AÇÃO MONITÓRIA - EXTINÇÃO DO CUMPRIMENTO POR AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INEXIGIBILIDADE DE CHEQUES - OMISSÃO - INEXISTENTE - DECISÃO FUNDAMENTADA - REDISCUSSÃO DO MÉRITO - IMPOSSIBILIDADE - EMBARGOS REJEITADOS.
+Ainda que para fins de prequestionamento, não havendo erro, omissão, contradição, obscuridade ou erro material no acórdão, mas mero inconformismo do embargante com o julgamento que lhe foi desfavorável, apesar de devidamente abordados todos os aspectos relevantes ao deslinde da causa, a rejeição dos embargos de declaração é medida que se impõe.
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, porquanto o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz que "Ainda que para fins de prequestionamento, não havendo erro, omissão, contradição, obscuridade ou erro material no acórdão, mas mero inconformismo do embargante com o julgamento que lhe foi desfavorável, apesar de devidamente abordados todos os aspectos relevantes ao deslinde da causa, a rejeição dos embargos de declaração é medida que se impõe." (fl. 733)
+Sustenta que "o negócio jurídico embasador dos fundamentos utilizados pelo I. relator não foi uma ASSUNÇÃO DE DÍVIDA e sim um ESCRITURA DE DAÇÃO EM PAGAMENTO onde o recorrente não figura como parte, negócio jurídico este regido pelos arts. 356/359 do Código Civil e não pelos arts. 299/303.
+Esta distinção, NÃO ENFRENTADA NOS ACLARATÓRIOS, é fundamental Excelências e, como dito alhures, apta a infirmar a conclusão tirada pelo I. Relator em seu voto condutor." (fl. 736)
+Alega que "Também houve remanesce omissão com relação ao fundamento invocado atinente a nulidade absoluta que grava o negócio jurídico entabulado, não aclarado por ocasião do julgamento dos embargos. Ademais, não há espaço para se falar em exceções pessoais quando se está diante de nulidade ABSOLUTA consubstanciada em cancelamento das matrículas imobiliárias dos imóveis objeto da transação por conta de uso de procuração falsa." (fl. 736)
+Foram oferecidas contrarrazões ao recurso especial (fls. 775-789).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 790-795), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 807-814)
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao analisar os embargos de declaração, tratou expressamente de todos os pontos tidos por omisso, conforme o seguinte excerto do acórdão (fls. 1.029-1.030):
+Isso porque, os argumentos dos acláratórios se refletem em inconformismo com o resultado do julgamento, uma vez que os argumentos lançados em suas contrarrazões e objeto da decisão recorrida foram devidamente apreciadas, na medida necessária para deslinde do feito:"
+(..)Em assim sendo, o cancelamento da matrícula do imóvel objeto do contrato não retira do Apelado a obrigação de pagamento, não sendo oponível a Srª. Zenaide, mas sim ao vendedor do bem, visto que na assunção de dívida não é possível a oposição de exceções pessoais relativas ao devedor primitivo, como destacado no capítulo do Código Civil acerca da assunção de dívida.
+"Art. 299. É facultado a terceiro assumir a obrigação do devedor, com o consentimento expresso do credor, ficando exonerado o devedor primitivo, salvo se aquele, ao tempo da assunção, era insolvente e o credor o ignorava.
+Parágrafo único. Qualquer das partes pode assinar prazo ao credor para que consinta na assunção da dívida, interpretando-se o seu silêncio como recusa."
+"Art. 302. O novo devedor não pode opor ao credor as exceções pessoais que competiam ao devedor primitivo.""Art. 303. O adquirente de imóvel hipotecado pode tomar a seu cargo o pagamento do crédito garantido; se o credor, notificado, não impugnar em trinta dias a transferência do débito, entender-se-á dado o assentimento."
+ ..
+disposto no art. 302, do Código Civil, quando ratifica que "O novo devedor não pode opor ao credor as exceções pessoais que competiam ao devedor primitivo". A respeito do aludido dispositivo legal, são esclarecedores os comentários de Cristiano Chaves e Nelson Roselwald 1 :
+"Lembre-se por necessário: sendo a assunção de dívida um negócio jurídico abstrato, o assuntor não poderá invocar perante o credor os meios de defesa ligados ao contrato com o devedor originário, que serviu de fundamento à assunção. A título ilustrativo, o assuntar que não recebeu do antigo devedor a contraprestação a que fazia jus por ter-lhe substituído na obrigação não poderá invocar a exceptio non adimpleti em face do credor. Ele nada tem a ver com isso". (..)
+A sentença de cancelamento de matrícula não abordou, ou qualquer outro feito, o negócio havido entre as partes consistente em assunção de dívida, de modo que o cancelamento da matrícula não importa em automática inexigibilidade dos cheques, ademais a previsão legal de não ser oponível exceções pessoais relativas ao devedor originário.
+Ressalta-se por oportuno que a credora hipotecária, Srª. Zenaide, figurou na ação de cancelamento de matrícula enquanto possuidora do domínio de uma das áreas advindas da matrícula objeto dos autos, enquanto credora hipotecária, não sendo desconstituído em si, mas por consequência lógica do desfecho da demanda, como restou consignado da sentença daqueles autos: (..)
+Necessário ainda destacar que entender pela nulidade da compra e venda e da assunção de dívida, em razão do cancelamento de matrícula, importaria em voltar ao status quo ante, contudo, ao que tudo indica, o Apelado continua na posse do imóvel, e caso mantida a sentença ensejaria seu enriquecimento indevido, sendo assim, os fundamentos do pleito autoral refletem que o caso concreto se trata de contrato anulável que implica em litisconsórcio necessário.
+Em que pese ter informado o patrono do Apelado a intenção de propor "AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO COM PEDIDO DE TUTELA PARCIAL ANTECIPADA" (ID. 140309452 - Pág. 1/11), que contava com o vendedor do imóvel como integrante do polo passivo na mencionada minuta, decidiu por manejar ação de inexigibilidade de cheques apenas em face dos herdeiros da credora hipotecária. (..)" (ID. 152865191)
+Desta forma, verifica-se a inexistência de omissão na decisão embargada e a nítida pretensão do Embargante em estabelecer nova discussão acerca de matéria já decidida, e com isso obter um novo pronunciamento acerca da matéria, pretensão esta que não pode ser acolhida, ante a falta dos pressupostos de admissibilidade recursal. (fls. 711-713)
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Além disso, alterar a conclusão da Corte de origem a respeito da validade do negócio jurídico, bem como se não é ASSUNÇÃO DE DÍVIDA e sim um ESCRITURA DE DAÇÃO EM PAGAMENTO, implicaria o imprescindível reexame das provas constantes dos autos bem como das cláusulas contratuais, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. NEGÓCIO JURÍDICO. COMPRA E VENDA. IMÓVEL. EMBARGOS DE TERCEIROS. REGISTRO. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIOANAL NÃO DEMONSTRADA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FICTO. NULIDADE. MATÉRIA DE ORDEM PÚBLICA. OFÍCIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. AUSÊNCIA DE NULIDADE. COMPROVADA. BOA-FÉ. ADQUIRENTE. SÚMULAS NºS 5 E 7/STJ. EMBARGOS PROTELATÓRIOS. MULTA. REEXAME. SÚMULA Nº 7/STJ.
+(..)
+6. No caso, rever o entendimento do tribunal local, que, amparado no contexto fático-probatório dos autos, afastou a nulidade do negócio jurídico porque à época não havia interdição, reconheceu a boa-fé da recorrida e a comprovação da posse do imóvel adquirido por promessa de compra e venda, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+(..)
+9. Agravo interno não provido.
+(AgInt no AREsp n. 2.212.614/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. OMISSÃO. INEXISTÊNCIA. DECISÃO SURPRESA. FUNDAMENTO JURÍDICO. INEXIGIBILIDADE DE PRÉVIA OITIVA DAS PARTES. NULIDADE DO NEGÓCIO JURÍDICO. INOBSERVÂNCIA DA FORMA PREVISTA EM LEI. REJEIÇÃO. REEXAME. SÚMULA 7/STJ. PESSOA JURÍDICA ESTRANGEIRA. CARACTERIZAÇÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. Ao enfrentar a tese de nulidade do negócio jurídico por inobservância da forma prescrita em lei, o Tribunal de origem atestou que, ao contrário do apontado pelos réus, a pessoa jurídica compradora do imóvel rural nos idos de 1971 não era, ao tempo da celebração do contrato, caracterizada legalmente como pessoa jurídica estrangeira, pois era constituída no país, em conformidade com as leis brasileiras, e possuía domicílio no território nacional.
+A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+(..)
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.397.445/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. NULIDADE PROCESSUAL POR FALTA DA AUDIÊNCIA DE CONCILIAÇÃO. IMPROCEDÊNCIA. EXISTÊNCIA DE COBRANÇA DE VALORES JÁ PAGOS QUE AUTORIZA O PAGAMENTO EM DOBRO À PARTE COBRADA INDEVIDADAMENTE. INCIDÊNCIA DA SÚMULA 7/STJ. NULIDADE DO NEGÓCIO JURÍDICO. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. JULGAMENTO EXTRA PETITA E IMPOSSIBIIDADE DE PERDAS E DANOS EM DECORRÊNCIA DA VALORIZAÇÃO DO IMÓVEL. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. OCORRÊNCIA DE BIS IN IDEM. SÚMULA 284/STF. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. Também esbarra no óbice das Súmulas 5 e 7/STJ o acolhimento do argumento de nulidade do negócio jurídico.
+5. Referente aos argumentos de ocorrência de julgamento extra petita e de que a valorização do imóvel não gera perdas e danos, incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, diante da ausência de prequestionamento, uma vez que tais teses não foram analisadas pela Corte local.
+(..)
+8. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.021.350/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12 % sobre o valor atualizado da causa , observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. NULIDADE DO NEGÓCIO JURÍDICO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
