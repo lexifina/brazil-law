@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial de decisão que inadmitiu recurso especial interposto por AUDELINA FERNANDES DE BARROS, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EX-SERVIDORA PÚBLICA ESTADUAL - AÇÃO MOVIDA CONTRA A FAZENDA DO ESTADO VISANDO DECLARAÇÃO DE NULIDADE DO PROCEDIMENTO QUE RESULTOU NA APLICAÇÃO DA PENA DE DISPENSA COM A CONCESSÃO DE APOSENTADORIA POR INVALIDEZ - DECURSO DE MAIS DE CINCO ANOS ENTRE O ATO ADMINISTRATIVO E O AJUIZAMENTO - INCAPACIDADE RELATIVA DA AUTORA QUE NÃO INTERFERE COM O CURSO DO PRAZO PRESCRICIONAL - PRESCRIÇÃO á RECONHECIDA (fl. 427).
+Nas razões do recurso especial inadmitido, a agravante aponta violação dos arts. 3º e 198, I, do Código Civil e 487, II, do CPC, ao fundamento de que, tendo sido comprovada sua incapacidade para atos da vida civil, não corre contra ela a prescrição.
+É o relatório.
+Passo a decidir.
+A Corte de origem decidiu a questão controvertida nos seguintes termos:
+O laudo pericial de fls. 274/277 deixa claro que ao ser examinada, em 09 de agosto de 2016, a autora apresentava, em virtude de transtornos depressivo e de personalidade, incapacidade relativa para os atos da vida civil, o mesmo ocorrendo nos anos de 2003 e 2004, igual conclusão à que fora adotada no processo que resultou em sua interdição, conforme pode ser observado pela certidão de fls. 13.
+E se é assim, a ela não se aplicava o art. 198, inciso I, do Código Civil, segundo o qual somente contra os incapazes de que trata o art. 3º não corre a prescrição, de sorte que ao ser ajuizada a demanda, em 04 de novembro de 2009, o prazo de cinco anos, contado a partir da publicação do ato de dispensa (fls. 38), já havia transcorrido (fls. 428-429).
+O referido entendimento encontra amparo na jurisprudência do STJ, segundo a qual, a regra inserta no art. 198 do Código Civil somente se aplica aos absolutamente incapazes.
+No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MARCOS DA PRESCRIÇÃO. DISCUSSÃO SOBRE MATÉRIA FÁTICA. DESCABIMENTO. PRESCRIÇÃO. INÍCIO DA CONTAGEM. ME NOR RELATIVAMENTE INCAPAZ. POSSIBILIDADE.
+1. No caso em que, para reconhecer a prescrição, a Corte Regional faz alusão a diversos marcos temporais, afastar o instituto demanda incursão no acervo fático probatório, o que é vedado pela Súmula 7 do STJ.
+2. Caso em que, ao contrário do que alega a parte recorrente, se forem levados em consideração só os fatos narrados no acórdão, este reconheceu que a prescrição começa a correr em relação ao menor relativamente incapaz, isto é, nada mais fez do que aplicar a norma do art. 198, I, do CC, a qual, segundo orientação do STJ, só impede o curso do instituto quando se trata de absolutamente incapazes (AR n. 4.871/PE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/2/2020, DJe de 20/2/2020), pelo que se aplica ao caso a Súmula 83 do STJ, a qual, inclusive, impede o conhecimento do alegado dissídio jurisprudencial.
+3. Agravo interno não provido (AgInt no REsp n. 1.947.514/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+PROCESSUAL CIVIL. PENSÃO POR MORTE. PRESCRIÇÃO. MENORES RELATIVAMENTE INCAPAZES.
+1. A jurisprudência do STJ é no sentido de que não corre a prescrição contra o absolutamente incapaz (art. 169, I, c/c art. 5 do CC/2016) - no caso, o menor de 16 anos - e de que, com o implemento dos 21 anos, tornam-se automaticamente prescritas apenas as parcelas não reclamadas há mais de cinco anos. Ou seja, a prescrição apenas não corre contra absolutamente incapazes (art. 169, I, c/c art. 5 do CC/2016), mas passa a correr quando a incapacidade passa a ser apenas relativa.
+2. No caso, a parte requereu o pagamento do benefício entre 8.11.1985 e 28.5.2003, data em que completou 21 anos. Dessa forma, caracterizada a prescrição da pretensão ao pagamento dos proventos vencidos há mais de cinco anos do ajuizamento da ação.
+3. Agravo Interno não provido (AgInt no REsp n. 1.606.629/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+No caso, o acórdão recorrido reconheceu expressamente a incapacidade relativa da parte autora, a qual não impede a fluência do prazo prescricional.
+Isso posto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento. Majoro, em desfavor da parte agravante, em 1% o valor dos honorários advocatícios arbitrados na origem (de 10% para 11% sobre o valor atualizado da causa), nos termos do art. 85, § 11, do CPC/2015, observados os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo e eventual concessão de gratuidade judiciária..
+Intimem-se.
+EMENTA
