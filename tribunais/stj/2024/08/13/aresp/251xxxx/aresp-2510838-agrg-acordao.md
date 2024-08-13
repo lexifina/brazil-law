@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão da Presidência desta Corte que não conheceu do recurso, em razão da incidência da Súmula n, 284/STF.
+Sustenta a defesa, em síntese, a inaplicabilidade do óbice sumular, aduzindo "que em momento algum a súmula 284 exige a indicação de dispositivo de lei federal, pois, não há necessidade de indicação de dispositivo de lei federal de forma numérica para que haja a compreensão da controvérsia" (fl. 672).
+Requer a reconsideração ou a submissão do agravo regimental ao julgamento na Turma.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL E DOS ARTIGOS TIDOS COMO VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+1. A jurisprudência da Corte Especial do STJ firmou-se no sentido de que "a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp 1.672.966/MG, rel. Ministra Laurita Vaz, Corte Especial, DJe de 11.5.2022).
+2. No caso, verifica-se a deficiência na fundamentação do recurso especial, pois as recorrentes não indicaram o permissivo constitucional autorizador do apelo nobre, nem tampouco os artigos de lei federal tidos como violados, o que atrai a incidência da Súmula n. 284/STF.
+3. Nos termos da jurisprudência desta Corte a "via especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com a Súmula 284 do STF" (AgInt nos EDcl no REsp n. 2.091.891/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 665-666):
+Cuida-se de agravo interposto por MARIANGELA DANIEL PEREIRA SANTOS e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MARIANGELA DANIEL PEREIRA SANTOS e OUTRO, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, a parte recorrente deve evidenciar de forma explícita e específica que seu recurso está fundamentado no art. 105, inciso III, da Constituição Federal, e quais são as alíneas desse permissivo constitucional que servem de base para a sua interposição.
+Esse entendimento possui respaldo em recente julgado desta Corte:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ .. .
+(AgInt no AREsp n. 1.479.509/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999; AgInt no AREsp n. 1.824.850/MG, relator Ministro Marco Aurélio Bellizze, Terceira turma, DJe de 21/06/2021; AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 11/06/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+A decisão deve ser mantida por seus próprios fundamentos, pois, assim como demonstrado, não houve a indicação do permissivo constitucional, o que atrai a incidência da Súmula n. 284/STF.
+A jurisprudência da Corte Especial do STJ firmou-se no sentido de que "a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp 1.672.966/MG, rel. Ministra Laurita Vaz, Corte Especial, DJe de 11.5.2022).
+No caso, verifica-se a deficiência na fundamentação do recurso especial, pois as recorrentes não indicaram o permissivo constitucional autorizador do apelo nobre, nem tampouco os artigos de lei federal tidos como violados, o que atrai a incidência da Súmula n. 284/STF.
+Nos termos da jurisprudência desta Corte a "via especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com a Súmula 284 do STF" (AgInt nos EDcl no REsp n. 2.091.891/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
