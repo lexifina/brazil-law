@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDIMARA MOREIRA BARBOSA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - INDENIZAÇÃO POR DANO MORAL - DIVERGÊNCIA ENTRE O APARTAMENTO DECORADO E A UNIDADE ENTREGUE - SENTENÇA DE IMPROCEDÊNCIA - INSURGÊNCIA DA AUTORA - DESCABIMENTO - PRELIMINARES REJEITADAS - CERCEAMENTO DE DEFESA NÀO CONFIGURADO - O JUIZ É O DESTINATÁRIO DAS PROVAS - INAPLICABILIDADE DA INVERSÃO DO ÔNUS DA PROVA - AUSENTE PROVA MÍNIMA DO FATO CONSTITUTIVO E INVEROSSIMILHANCA NAS ALEGAÇÕES - VÍDEO E RESPECTIVAS IMAGENS INDICADAS NA PETIÇÃO INICIAL QUE REPRESENTAM APARTAMENTO DECORADO ALUSIVO AO CONDOMÍNIO "PARQUE DI ROMA", CONSTRUÍDO EM PIRACICABA, DISTANTE 115 KM DO IMÓVEL DA APELANTE - PROVA PERICIAL QUE SERIA INOPORTUNA, VEZ QUE INEXISTE DECORADO PRÓPRIO PARA COMPARAÇÃO - APARTAMENTO ENTREGUE EM CONFORMIDADE COM A PLANTA DO IMÓVEL E MEMORIAL DESCRITIVO - TERMO DE RECEBIMENTO DAS CHAVES ASSINADO SEM RESSALVAS, NEM MESMO QUANTO A EVENTUAIS VÍCIOS APARENTES, TAIS COMO TETO APENAS CHAPISCADO E INEXISTÊNCIA DE PUXADORES NA JANELA, QUE PRESCINDEM DE CONHECIMENTO TÉCNICO E SÃO DE FÁCIL SOLUÇÃO - INEXISTE PROPAGANDA ENGANOSA - DANO MORAL NÃO CARACTERIZADO - RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 1º e 369 do CPC, no que concerne à configuração de cerceamento de defesa, eis que a prova pericial é extremamente necessária para demonstrar todo e qualquer vício existente no imóvel, trazendo a seguinte argumentação:
+Diferente do alegado, a prova pericial se faz necessária no caso em apreço ante a fato que o pleito indenizatório aponta diversos vícios existentes em uma unidade imobiliária, fazendo-se necessária PERÍCIA TÉCNICA ESPECIALIZADA NO IMÓVEL.
+ ..
+Ora, a prova pericial é extremamente necessária para demonstrar todo e qualquer vício existente no imóvel, sendo que seu indeferimento causa expresso cerceamento de defesa.
+ ..
+Como exposto, o Recorrente não realizou qualquer ressalva ao receber as chaves do apartamento por se tratar de um consumidor leigo, sem conhecimentos técnicos da área, que havia acabado de receber um apartamento que tanto sonhou e se sacrificou para adquirir.
+Inevitável que o indeferimento de pedido expresso de produção de provas cerceia o direito da partes em comprovar suas alegações, não podendo o juiz julgar antecipadamente a lide da forma posta nos autos (fls. 431-432).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Entendeu o d. juízo a quo que os documentos juntados nos autos são suficientes ao seu convencimento, em especial porque "as especificações do imóvel e do empreendimento são ditadas pelo projeto aprovado pela Municipalidade local e Memorial descritivo da obra, sendo que no caso concreto foram seguidas as diretrizes regularmente aprovadas" (vide p. 364).
+ ..
+Além disso, inexiste apartamento decorado, porquanto as imagens apresentadas nos autos correspondem a outro empreendimento, conforme se verá.
+ ..
+Superado isso e adentrando ao mérito recursal - em complemento ao motivo pelo qual não se caracteriza o cerceamento de defesa -, cumpre dizer que o imóvel objeto da demanda se localiza na Comarca de Botucatu, referente ao "Residencial Brunello".
+Noutro giro, o apartamento decorado indicado à p. 2 da petição inicial se refere ao condomínio "Piazza di Roma", localizado na Comarca de Piracicaba a 115 km (cento e quinze quilômetros) de distância da propriedade da apelante.
+A apelante nem sequer apresentou folheto com detalhes, referente ao "Residencial Brunello", ou prova testemunhal, no sentido de que a apelada comercializava os imóveis do referido empreendimento apenas apresentando as imagens relativas a outros empreendimentos.
+Portanto, é certo que ausente fotografias ilustrativas do apartamento decorado próprio ao empreendimento contratado, assim como ausente prova de que a apelada fez propaganda do negócio apresentando as imagens do condomínio "Piazza di Roma", a prova pericial é inócua e inexiste verossimilhança nas alegações da apelante.
+Bem por isso, se o imóvel decorado indicado na petição inicial não corresponde ao empreendimento contratado pela apelante, não há se falar em desconformidade entre o decorado e a unidade entregue.
+A divergência entre esses elementos, per si, é causa para o indeferimento das alegações da apelante.
+ ..
+Superado isso, cumpre dizer que o imóvel foi entregue em conformidade com a planta do imóvel e memorial descritivo, aprovado pela Municipalidade (p. 244/245), inclusive no que concerne ao tipo de porta a ser instalado (p. 273/279 e 285) (fls. 422-425).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
