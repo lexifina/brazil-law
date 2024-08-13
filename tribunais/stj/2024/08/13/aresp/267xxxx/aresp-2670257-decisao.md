@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de agravo interposto por DJON CARLOS DOS ANJOS GOMES, contra decisão do Tribunal de Justiça do Estado do Espírito Santo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"PENAL. PROCESSO PENAL. TRÁFICO DE DROGAS. RECURSO MINISTERIAL. PLEITO DE RECONHECIMENTO DA FIGURA DE COLABORAÇÃO PARA O TRÁFICO. ART. 37 DA LEI DE DROGAS. VALIDADE DAS DECLARAÇÕES POLICIAIS. CIRCUNSTÂNCIAS DO LOCAL. CONDIÇÕES DA PRISÃO. ACOLHIMENTO. CONDENAÇÃO. CAUSA DE DIMINUIÇÃO. A RTIGO 33, § 4º, DA LEI DE DROGAS. TRÁFICO PRIVILEGIADO. PRETENDIDO AFASTAMENTO DA MINORANTE. REQUISITOS CUMULATIVOS. NÃO PREENCHIMENTO. DECOTE DO PRIVILÉGIO. RECURSO MINISTERIAL PROVIDO.
+1. Considerando o teor das declarações dos policiais militares, somadas às circunstâncias do local, e condições em que se desenvolveu a prisão em flagrante, é crível concluir que os acusados JHONDERSON e LUCAS colaboravam, como informantes, para o tráfico de drogas, impondo-se a condenação nas iras do art. 37 da Lei de Drogas.
+2. Os requisitos previstos no artigo 33, § 4º, da Lei nº 11.343/06, são cumulativos, isto é, para que o réu seja beneficiado com a redução da pena, deverá ser primário, portador de bons antecedentes, não se dedicar a atividades ilícitas, e nem participar de organização criminosa.
+3. Comprovado que o réu DJON se dedicava às atividades ilícitas, tendo em vista ter sido preso em local de conhecida mercancia de entorpecentes, na posse de drogas de grande nocividade, e ainda, porque não comprovou possuir ocupação lícita, e era conhecido pela guarnição, de outras abordagens, de rigor o afastamento da figura do tráfico privilegiado.
+4. RECURSO MINISTERIAL PROVIDO." (e-STJ, fl. 657).
+A defesa aponta negativa de vigência ao §4º do art. 33 da Lei 11.343/06, pugnado pela aplicação da redutora do art. 33, §4º, da Lei nº 11.343/2006, no seu patamar máximo de 2/3, nos termos da sentença proferida pelo magistrado singular (e-STJ, fls. 685-693).
+Foram apresentadas as contrarrazões (e-STJ, fls. 697-703).
+O recurso foi inadmitido (e-STJ, fls. 704-707). Daí este agravo (e-STJ, fls. 713-717).
+O Ministério Público Federal manifestou-se pelo conhecimento e desprovimento do agravo (e-STJ, fls. 739-744).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o recorrente foi condenado pela prática do crime descrito no artigo 33, caput, e §4º, da Lei nº 11.343/2006, à pena de 01 ano e 08 meses de reclusão, em regime inicial aberto, mais pagamento de 166 dias-multa. Não foi deferida ao réu a substituição da penal corporal pela restritiva de direitos (e-STJ, fl. 493).
+Irresignado, o Parquet recorreu, pugnando pelo reconhecimento da impossibilidade de aplicação da minorante prevista no art. 33, §4º, da Lei de Drogas.
+O Tribunal a quo, ao apreciar a controvérsia assim se manifestou, quanto ao ponto:
+"Indo adiante, o Ministério Público postula pelo afastamento da causa de diminuição de pena, prevista no art. 33, § 4º, da Lei nº 11.343/06, reconhecida em favor do réu DJON.
+Impende salientar, sobre a figura do tráfico privilegiado, que referida minorante tem como destinatário o pequeno traficante, aquele que inicia sua vida no comércio ilícito de entorpecentes, e não para os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Outrossim, os requisitos previstos no artigo 33, § 4º, da Lei nº 11.343/06, são cumulativos, isto é, para que o réu seja beneficiado com a redução da pena, deverá ser primário, portador de bons antecedentes, não se dedicar a atividades ilícitas, e nem participar de organização criminosa.
+Contudo, na hipótese dos autos, o réu DJON foi preso em local de conhecida mercancia de entorpecentes, na posse de drogas de grande nocividade (maconha, cocaína e crack), que, somadas, tinham grande valor de venda.
+Rememoro que os policiais militares afirmaram conhecer o réu de outras abordagens, o que revela seu envolvimento com a criminalidade, demostrando que ele não se enquadra, definitivamente, no conceito de criminoso de ocasião, em especial se considerado que não comprovou possuir ocupação lícita.
+Todos estes elementos apontam para a conclusão de que DJON tem envolvimento na atividade criminosa, a ponto tal de receber para depósito quantidade expressiva e variada de entorpecentes, de valor econômico relevante.
+Desta feita, comprovada a dedicação do réu DJON CARLOS DOS ANJOS GOMES a atividades criminosas, de rigor o decote do redutor previsto no art. 33, § 4º, da Lei nº 11.343/06." (e-STJ, fls. 661-662, grifou-se).
+De acordo com o §4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso dos autos, como visto, o benefício foi negado em razão de o recorrente ter sido flagrado em conhecido local de mercancia de entorpecentes e, ainda, por ser conhecido dos policiais de outras abordagens. Todavia, de acordo com a jurisprudência deste Superior Tribunal de Justiça, esses fundamentos, por si sós, não são suficientes para afastar a incidência da referida redutora de pena.
+Nesse sentido:
+" ..
+"3. "A apreensão de drogas e dinheiro em local conhecido como ponto de tráfico são elementos inerentes ao próprio tipo penal (AgRg no HC n. 577.528/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020), não podendo ser considerada como demonstração de exercício de traficância habitual" (AgRg no HC 580.641/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 05/10/2021, DJe 08/10/2021)
+4. Agravo regimental improvido."
+(AgRg no AREsp n. 1.884.772/MS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+" ..
+VI - De fato, o Superior Tribunal de Justiça aprovou o Tema Repetitivo n. 1139, que firmou a seguinte tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4º, da Lei n. 11.343/06." Ocorre que, o julgamento do REsp n. 1.977.027-PR, em que foi firmada a tese do Tema Repetitivo n. 1139, se deu em 10 de agosto de 2022, ocasião em que a 3ª Seção superou a orientação jurisprudencial consolidada no julgamento do ERESP n. 1.431.091/SP (DJe 01/02/2017). Na hipótese dos autos, a redutora capitulada no artigo 33, parágrafo 4º, da Lei n. 11.343/2006, foi afastada em razão da existência de inquéritos e processos em andamento, sem condenação com trânsito em julgado, a partir da orientação jurisprudencial do Superior Tribunal de Justiça vigente na data do trânsito em julgado.
+VII - Desta feita, não é admissível a utilização de habeas corpus como a revisão criminal, a fim de aplicar retroativamente jurisprudência que se alterou após o trânsito em julgado do feito para o qual se pretende tal procedimento.
+Agravo regimental desprovido."
+(AgRg no HC n. 889.851/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+Ademais, a quantidade de drogas apreendidas - 35,2 gramas de maconha, mais 35,4 gramas de cocaína/crack - embora não seja ínfima, também não se mostra exorbitante a ponto de impedir a aplicação da referida redutora no seu patamar máximo.
+Desse modo, considerando-se ainda a primariedade e os bons antecedentes do réu, é de rigor a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, na sua fração de 2/3.
+C onfiram-se os seguintes julgados:
+" ..
+3. Ademais, uma vez afastada a circunstância judicial dos maus antecedentes, na primeira fase da dosimetria, bem como considerando a pequena quantidade de entorpecentes apreendidos, a saber, "2 (duas) porções de maconha, com peso líquido total de 20,1g (vinte gramas e um decigrama), e 2 (duas) porções de crack, pensado 26,6g (vinte e seis gramas e seis decigramas)" (e-STJ fl. 39), entendo que o paciente faz jus ao redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3 (dois terços).
+4. Reduzida a reprimenda, e tendo em vista a fixação da pena-base no mínimo legal em virtude da análise favorável das circunstâncias judiciais do art. 59 do Código Penal, é cabível na espécie a fixação do regime aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 693.127/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+" ..
+1 - A incidência da minorante prevista no § 4º, do art. 33, da Lei n. 11.343/2006, pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2 - Na hipótese, embora a agravada fosse primária e possuísse bons antecedentes, a minorante foi afastada com base na existência de ação penal em curso.
+3 - A Quinta Turma desta Corte, alinhando-se ao entendimento sufragado no Supremo Tribunal Federal, além de buscar nova pacificação no âmbito do Superior Tribunal de Justiça, consignou que a causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, inciso LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020), (HC 6.644.284/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/9/2021).
+4 - Na espécie, não havendo prova da dedicação do agente à atividade criminosa, inexistia óbice à aplicação da causa de diminuição. Tendo em vista a quantidade não elevada das drogas apreendidas - 7,75 gramas de cocaína e 160,55 gramas de maconha -, era mesmo possível a aplicação da fração máxima da redutora, em 2/3.
+5 - Agravo regimental a que se nega provimento." (AgRg no AREsp n. 2.077.006/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Assim, aplicada a redutora do art. 33, §4º, da Lei 11.343/2006, na sua fração de 2/3, fica a reprimenda definitivamente estabelecida em 01 ano e 08 meses de reclusão, mais 166 dias-multa.
+Estabelecida a pena final em patamar inferior a 4 anos, verificada a primariedade do agente e a análise favorável das circunstâncias judiciais, o regime aberto é o adequado para o cumprimento da pena privativa de liberdade, de acordo com o disposto no art. 33, § 2º, alínea "c", do CP.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INCIDÊNCIA. AGRAVO REGIMENTAL PROVIDO EM PARTE.
+ ..
+4. Visto que o réu foi condenado a reprimenda inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes e teve a pena-base estabelecida no mínimo legal, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, bem como determinada a substituição da reprimenda privativa de liberdade por duas restritivas de direitos.
+5. Agravo regimental provido em parte, para aplicar em 2/3 a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, por conseguinte, tornar a reprimenda do acusado definitiva em 1 ano e 8 meses de reclusão e pagamento de 166 dias-multa; fixar o regime aberto e determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto."
+(AgRg no AREsp 1106482/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA
+TURMA, julgado em 15/06/2021, DJe 22/06/2021).
+Por fim, pelas mesmas razões acima alinhavadas (primariedade do agente e valoração favorável das circunstâncias judiciais), é cabível a substituição da pena carcerária por restritivas de direitos, nos termos do art. 44, §2º, segunda parte, do CP.
+Cito, a propósito, o seguinte precedente:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA INFERIOR A QUATRO ANOS. RÉU PRIMÁRIO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. QUANTIDADE DA DROGA NÃO EXPRESSIVA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE.
+1. No presente caso, estabelecida a pena definitiva em 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, verificada a primariedade do agente, sendo favoráveis as circunstâncias judiciais do art. 59 do CP e não sendo excessiva a quantidade de drogas apreendidas com o recorrente (17,1g de cocaína e 21,3g de maconha), é cabível a substituição da pena privativa de liberdade por restritivas de direitos, uma vez que preenchidos os requisitos legais do art. 44 do Código Penal.
+2. O Supremo Tribunal Federal, ao julgar a possibilidade da execução provisória da pena, tratou apenas da execução provisória da pena em caso de pena privativa de liberdade, não autorizando para as penas restritivas de direito.
+3. Agravo regimental não provido."
+(AgRg no REsp 1622395/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 05/12/2016).
+Assim, nos termos do art. 44, §2º, segunda parte, do Estatuto Repressor, substitui-se a sanção corporal por duas restritivas de direitos, a serem fixadas pelo juízo da execução.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b" e "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de aplicar a redutora do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, com seus consectários legais, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
