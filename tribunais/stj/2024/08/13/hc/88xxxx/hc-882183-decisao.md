@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ELVIS MANOEL FERNANDES MEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2266512-44.2023.8.26.0000).
+Consta dos autos que a prisão em flagrante do paciente restou convertida em preventiva em razão do suposto cometimento do crime capitulado no art. 157, § 2º, inc. II, e § 2ª, inc. I, na forma do art. 69, ambos do Código Penal (fls. 14/15), termos em que denunciado (fls. 16/19). Impetrado prévio writ, o Tribunal de origem denegou a ordem em acórdão juntado às fls. 20/23.
+Neste mandamus, o impetrante sustenta o excesso de prazo para o término do inquérito policial e oferecimento da denúncia e que é nulo o reconhecimento fotográfico realizado, uma vez que contrariou os parâmetros estabelecidos no art. 226 do Código de Processo Penal.
+Alega, ainda, que a segregação processual do paciente encontra-se despida de fundamentação idônea e que revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do Código de Processo Penal.
+Requer, assim, liminarmente e no mérito, a expedição do alvará de soltura.
+Liminar indeferida, às fls. 319-320.
+Informações prestadas às fls. 326-328 e 331-344.
+O Ministério Público Federal, às fls. 346-350, em parecer, manifestou-se pelo não conhecimento do recurso, caso conhecido, pela denegação da ordem, assim ementado:
+"HABEAS CORPUS. DIREITO PROCESSUAL PE-NAL. ROUBO MAJORADO. PRISÃO PREVEN-TIVA. FUNDAMENTAÇÃO IDÔNEA. MAUSANTECEDENTES. EXCESSO DE PRAZO. INSTRU-ÇÃO CRIMINAL ENCERRADA. SÚMULA 52/STJ. RECONHECIMENTO FOTOGRÁFICO. JURISPRU-DÊNCIA DO STJ. INDÍCIO SUFICIENTE PARA APRISÃO PREVENTIVA. CONSTRANGIMENTOILEGAL NÃO CONFIGURADO.1. Não é cabível habeas corpus substitutivo de recurso, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.2. "A preservação da ordem pública justifica a imposição da custódia cautelar quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade". (RHC n.113422/MG, Rel. Ministro ANTONIO SALDANHA PA-LHEIRO, SEXTA TURMA, j. 15/10/2019, DJe 23/10/2019).3. Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo. Súmula 52/STJ.4. O reconhecimento fotográfico, corroborado por outros elementos idôneos de convicção, podem servir de indícios suficientes da autoria para a decretação da prisão preven-tiva.5. Hipótese que não se confunde com o entendimento dessa Corte Superior, de que tal reconhecimento, por si só, não autoriza a condenação criminal, considerando que aqui se cuida de ação penal ainda em curso.6. Parecer pelo não conhecimento do writ. Caso assim não se entenda, pela denegação da ordem." (fl. 346)
+É o relatório. DECIDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/SP-, na data de hoje, foi expedida certidão de publicação de sentença, em 10/06/2024, com a condenação do Paciente, logo, há um novo título judicial que deva ser desafiado por meio judicial próprio.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
