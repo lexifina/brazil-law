@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração contra a decisão de fls. 693/695, que deu parcial provimento ao recurso ordinário em mandado de segurança, "para determinar a incidência, na expedição do precatório complementar, de expurgos inflacionários referentes ao período compreendido entre fevereiro de 1986 a fevereiro de 1991".
+Sustenta a parte embargante haver obscuridade, omissão e erro material na decisão embargada, pois segundo alega, "(a) deixou de explicitar os índices de expurgos inflacionários que incidirão no precatório; (b) deixou de apreciar a incidência do art. 21-A, incisos II a VIII, da Resolução CNJ nº 303/2019 no tocante aos índices de atualização monetária; (c) deixou de apreciar a incidência do art. 25, § 1º, da Resolução CNJ nº 303/2019 acerca dos juros compensatórios até a data de promulgação da Emenda Constitucional nº 62/2009,(d) deixou de apreciar que o pagamento da diferença pela incidência dos expurgos inflacionários deve ser efetuada no próprio precatório original porque os expurgos inflacionários decorrem da substituição de índice de atualização monetária fixados em lei" (fl. 714).
+Com impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, a decisão embargada registrou, in verbis (fl. 694/695):
+A Corte de origem negou o direito à inclusão dos expurgos inflacionários, com os seguintes fundamentos (e-STJ fl. 551):
+No caso sub examine, a sentença que certificou o direito de crédito do impetrante trouxe percentuais específicos, os quais não estavam previstos a aplicação dos expurgos inflacionários. No momento em que estes surgiram em decorrência dos Planos Cruzado, Bresser, Verão e Collor I e II, a referida decisão judicial havia - há muito - transitado em julgado, não se podendo aplicar índices não previstos, violando a coisa julgada material e segurança jurídica.
+O título executivo está estritamente vinculado ao quantum fixado pelo juízo da execução, não podendo ser alterado por decisão administrativa do Tribunal (verdadeira usurpação de competência), levando em consideração legislação superveniente que somente incidente em precatórios expedidos após a sua edição.
+Nessa parte, o julgado impugnado carece de reforma. Isso porque a jurisprudência do STJ assenta que "Não há ofensa à coisa julgada na emissão de precatório complementar para contemplar índice de correção monetária (expurgos inflacionários), mesmo após a homologação do cálculo de liquidação, desde que não haja decisão judicial em sentido oposto" (AgInt no AREsp n. 148.794/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 13/5/2019, DJe de 20/5/2019).
+Ainda nesse sentido:
+(..)
+No concernente aos juros compensatórios, a pretensão recursal deve ser elidida. Deveras, "A jurisprudência do Superior Tribunal de Justiça (STJ) é firme no sentido de não incidir juros compensatórios e moratórios em continuação durante o parcelamento do precatório, nos termos do art. 33 do Ato das Disposições Constitucionais Transitórias (ADCT), incidindo, contudo, novos juros de mora em decorrência do atraso no pagamento das parcelas anuais" (AgInt no REsp n. 1.969.816/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Veja-se, ainda, o seguinte precedente:
+(..)
+Ante o exposto, com fundamento no artigo 932, V, a, do CPC e 34, XVIII, c, do RISTJ, dou parcial provimento ao recurso ordinário em mandado de segurança, para determinar a incidência, na expedição do precatório complementar, de expurgos inflacionários referentes ao período compreendido entre fevereiro de 1986 a fevereiro de 1991.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Por outro lado, infere-se dos embargos que a parte embargante pretende, ao fim e ao cabo, assegurar a observância da Resolução CNJ 303/2019 e evitar eventual expedição de novo precatório, para pagamento das diferenças decorrentes dos índices concedidos. Contudo, acaso não se conforme com o futuro cumprimento da decisão, caberá à parte interessada, se for o caso, buscar a sua fiel execução, podendo valer-se dos meios processuais disponíveis.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
