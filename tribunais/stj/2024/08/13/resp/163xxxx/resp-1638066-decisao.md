@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AMBIENTAL - AÇÃO CIVIL PÚBLICA PROPOSTA SOB O PÁLIO DA LEI 4771/65 PARA IMPLANTAÇÃO E AVERBAÇÃO DA RESERVA LEGAL DE 20% DE ÁREA FLORESTAL - AÇÃO JULGADA PROCEDENTE COM RECURSO DOS RÉUS POR ANULAÇÃO DA SENTENÇA POR CERCEAMENTO DE DEFESA OU PELA IMPROCEDÊNCIA DA AÇÃO - SUPERVENIÊNCIA DA LEI 12651/12 - ADITAMENTO ÀS RAZÕES RECURSAIS PARA APLICAÇÃO DESSA NOVA LEI - MELHOR E CONSCIENTE POSICIONAMENTO DOS APELANTES QUE DEVE SER ACOLHIDO - PRECEDENTES DO TJ - SENTENÇA CONFIRMADA CUJO CUMPRIMENTO DEVERÁ OBSERVAR AS ALTERAÇÕES DO NOVO CÓDIGO FLORESTAL - RECURSO DE APELAÇÃO PROVIDO PARA ESSE FIM
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese: i) nulidade por vício de fundamentação quanto à incidência dos dispositivos do Novo Código Federal à causa (art. 535 do CPC/1973); e ii) impossibilidade de aplicação da nova legislação aos processos em curso, para fins de demarcação e averbação de reserva legal (arts. 2º, I, III e IV, e 4º, II e III, da Lei n. 6.938/1981).
+Contrarrazões apresentadas.
+O feito foi baixado para observação do regime de recursos repetitivos, e devolvido ante o cancelamento da afetação do tema por esta Corte.
+É o relatório.
+Passo a decidir.
+Não verifico o vício de fundamentação alegado. O acórdão é claro e coerente quanto a suas conclusões alusivas à incidência imediata do Novo Código Florestal na espécie.
+No mérito, o acórdão local converge com a jurisprudência atual desta Corte, ajustada à orientação do Supremo Tribunal Federal sobre a questão. A propósito:
+AÇÃO CIVIL PÚBLICA. AMBIENTAL. INSTITUIÇÃO DE RESERVA LEGAL. RECUPERAÇÃO AMBIENTAL. REJULGAMENTO DA CAUSA POR CONTA DA PROCEDÊNCIA DE RECLAMAÇÃO PROPOSTA NO STF EM QUE SE ASSENTOU A INCIDÊNCIA DO ART. 15 DO CÓDIGO FLORESTAL AO CASO, À LUZ DAS ADI N. 4.937, 4.903, 4.902 e ADC N. 42. TERMO DE COMPROMISSO FIRMADO SOB VIGÊNCIA DA ATUAL LEGISLAÇÃO. INEXISTÊNCIA DE OFENSA À LEI FEDERAL. TEMPUS REGIT ACTUM. INCIDÊNCIA DA NORMA VIGENTE À ÉPOCA DA CELEBRAÇÃO DA AVENÇA.
+I - Na origem, trata-se de ação civil pública ajuizada pelo Ministério Público do Estado de São Paulo, objetivando a formação, instituição e registro de Reserva Florestal Legal em propriedades rurais, nos termos Lei n. 4.771/1965, antigo Código Florestal.
+II - Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi reformada para julgar parcialmente procedente a ação, a fim de determinar a instituição de área de reserva legal na forma preconizada pelo Novo Código Florestal, reputado de aplicação imediata. Inicialmente, esta Corte deu provimento ao recurso especial interposto pelo Parquet estadual para afastar a aplicação do Novo Código Florestal à hipótese. No Supremo Tribunal Federal, a reclamação foi julgada procedente com determinação de rejulgamento da causa e apontamento de incidência, ao caso, do art. 15 de referida legislação. Após retorno dos autos para nova decisão, o recurso especial restou parcialmente conhecido, e, nessa parte, desprovido.
+III - A Suprema Corte consignou expressamente que a situação em apreço foi tratada em termo de compromisso administrativo firmado já sob a vigência da atual disciplina conferida à matéria pelo Novo Código Florestal.
+IV - Assim, não obstante as alegações do Órgão ministerial no sentido de que o exame de constitucionalidade de normas do Novo Código Florestal não interfere na solução de questões afetas à sucessão de leis ambientais no tempo, bem como, ressalvado o firme posicionamento deste relator de que, em se tratando de matéria ambiental, deve-se analisar a questão sob o ângulo mais restritivo, em respeito ao bem jurídico tutelado e à compreensão consolidada desta Corte de Justiça, que rechaça o retrocesso ambiental, constata-se que a pretensão recursal do Parquet não encontra o devido amparo, notadamente porque não se trata de aplicação retroativa.
+V - No caso específico, acolher a tese defendida pelo Ministério Público, para afastar a incidência da Lei n. 12.651/2012, equivaleria a negar cumprimento ao que assentado pela Corte Constitucional no caso concreto, razão pela qual a decisão hostilizada deve ser mantida.
+VI - Agravo interno improvido.
+(AgInt no REsp n. 1.795.237/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/10/2023, DJe de 5/10/2023.)
+Isso posto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
