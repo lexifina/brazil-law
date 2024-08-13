@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo de DIOGO GUILHERME GOMES DE JESUS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1526493-03.2021.8.26.0228.
+Consta dos autos que o agravante foi condenado por incurso nos arts. 33, caput, da Lei 11.343/2006, e 333, do Código Penal - CP, às penas de 8 anos e 3 meses de reclusão, no regime inicial fechado, mais o pagamento de 642 dias-multa (fl. 294).
+Recurso de apelação interposto pela defesa foi parcialmente provido para reduzir a pena do réu para 7 anos, 2 meses e 15 dias de reclusão, no regime fechado, mais 536 dias-multa (fl. 303).
+Em sede de recurso especial (fls. 309/318), a defesa apontou violação ao art. 386, VII, do Código de Processo Penal - CPP, porque o recorrente não portava qualquer ilícito criminal no momento da abordagem policial e sequer foi apresentado qualquer indício que o recorrente possuía fundos para a suposta corrupção. Salientou que não é típica a conduta de quem oferece ou promete vantagem após ter o funcionário público praticado, omitido ou retardado o ato.
+Em seguida, a defesa sustentou violação de domicílio.
+Requer a reforma do acórdão recorrido.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 357/363).
+O recurso especial foi inadmitido no TJ em razão de: a) contrariedade à Constituição Federal somente pode ser objeto de RE e; b) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 366/368).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 371/381).
+Contraminuta do Ministério Público (fls. 384/389).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso (fls. 404/408).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+De início, não é atribuição desta Corte analisar ofensa a dispositivos da Constituição Federal, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Do mesmo modo, quanto à tese de violação de domicílio, o recurso não merece ser conhecido, porquanto não foram indicados dispositivos de lei federal violados correspondentes , caracterizando deficiência de fundamentação, fazendo incidir o óbice da Súmula n. 284/STF.
+Sobre a violação ao art. 386, VII, do CPP, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO manteve a condenação do recorrente com base nas provas dos autos, nos seguintes termos do voto do relator:
+"Anotando-se a extensa tipificação penal (Lei 11.343/2006, art.33) e a desnecessidade da prática de atos de mercancia para a caracterização do ilícito, ausente pedido tempestivo de instauração de incidente de verificação de dependência, certo é que as circunstâncias do flagrante demonstraram a prática do delito de tráfico descrito na denúncia.
+Veja-se que, após denúncias anônimas dando conta do exercício da traficância no local dos fatos (v. extratos do "disque-denúncia" às fls. 19/25), os policiais lograram localizar quantidade vultosa de entorpecentes no imóvel, além de contabilidade relativa ao tráfico e balança de precisão, nem se olvidando de que o acusado confirmou que ganhava R$ 400,00 para vigiar o entorpecente.
+E nessa linha provado também o cometimento do crime de corrupção ativa, a caracterizar-se como delito formal que exige, para a sua consumação, somente a oferta ou promessa de vantagem indevida, não sendo necessário que o agente efetivamente a receba. Nesse sentido a pacificada jurisprudência (HC nº 445.469/RJ, rel. Min. Jorge Mussi, j. em 22.5.2018; AgReg no REsp n. 1.561.446/PR, rel. Min. AntonioSaldanha Palheiro, DJe 9.10.2017; RHC nº 47.432/SP, rel. Min. FelixFischer, j. em 16.12.2014). Assim, irrelevante a circunstância de o réu não possuir os valores prometidos aos agentes públicos.
+Acertada a condenação e inadmissível o pleito de absolvição por qualquer dos fundamentos deduzidos, viu-se observado na dosagem das reprimendas o critério trifásico (art. 68 do CP)" (fls. 298/299).
+De fato, para se concluir de modo diverso, pela absolvição dos crimes de tráfico ilícito de entorpecentes e de corrupção, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ. No mesmo sentido, citam-se precedentes (grifos nossos):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESCLARECIMENTO. PRETENSÃO DE ABSOLVIÇÃO DOS CRIMES DE TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E CORRUPÇÃO ATIVA. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+2. Não é possível alterar as conclusões do Tribunal de Justiça no sentido da ocorrência fática dos crimes de tráfico, associação para o tráfico e corrupção ativa, sob pena de incursão no universo fático-probatório dos autos, o que encontra impeço na Súmula n. 7/STJ.
+3. Embargos de declaração acolhido s, sem efeitos infringentes.
+(EDcl no AgRg no AREsp n. 1.798.785/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CORRUPÇÃO ATIVA. OFENSA AO PRINCÍPIO DO COLEGIADO. DECISÃO MONOCRÁTICA. INOCORRÊNCIA. PRECEDENTES DE AMBAS TURMAS CRIMINAIS DESTA CORTE. ABSOLVIÇÃO. IMPOSSIBILILADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. VIOLAÇÃO DO §4º DO ART. 33. DA LEI N. 11.343/2006. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DA DECISAO AGRAVADA.
+I - A prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC, e, ainda, nos termos do enunciado da Súmula n. 568/STJ. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+II - O Tribunal indicou provas produzidas em contraditório judicial, idôneas a comprovar a autoria e a materialidade delitiva do crime de tráfico e corrupção, aduzindo que "na prova oral colhida não se observa concretamente motivos relevantes a afastar a hedionda conduta do tráfico de drogas praticado pelo embargante Flávio no contexto fático e do crime de corrupção que se seguiu, quando ofereceu relevante quantia em dinheiro para que os policiais militares da ROTA não praticassem o ato que devia ser efetivado."
+(fls. 781-791). A pretensão de absolvição demandaria inédita incursão na seara probatória, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+III - No que tange a violação do art. 33, §4º da Lei n. 11.343/2006, bem como quanto a exacerbação da pena, a parte agravante limitou-se, neste regimental, a repisar os argumentos do recurso especial, sem impugnar a decisão monocrática proferida que entendeu pela incidência da Súmula 284-STF. Não pode ser conhecido o agravo regimental que não infirmar os fundamentos da decisão monocrática agravada.
+Agravo regimental conhecido em parte e, na extensão, desprovido.
+(AgRg no AREsp n. 1.811.420/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/4/2021, DJe de 26/4/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
