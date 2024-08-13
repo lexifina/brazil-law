@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/08/2024 a 13/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. DIREITO PROCESSUAL. AÇÃO RESCISÓRIA. DESCABIMENTO. ACÓRDÃO RECORRIDO QUE APLICOU A SÚMULA N. 343 DO STF. TEMA N. 136 DO STF.
+1. O Supremo Tribunal Fed eral, ao julgar o RE n. 590.809-RG/RS, firmou o posicionamento de que "não cabe ação rescisória quando o julgado estiver em harmonia com o entendimento firmado pelo Plenário do Supremo à época da formalização do acórdão rescindendo, ainda que ocorra posterior superação do precedente" (Tema n. 136 do STF).
+2. No caso, verifica-se que o recurso extraordinário foi interposto contra acórdão desta Corte Superior que, aplicando a Súmula n. 343 do STF, entendeu ser incabível ação rescisória fundada em mudança de orientação jurisprudencial, motivo pelo qual incide o Tema n. 136 do STF.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALPHA CENTAURUS COMERCIAL, IMPORTADORA E EXPORTADORA LT - EPP contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 996):
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL. AÇÃO RESCISÓRIA. MUDANÇA DE ORIENTAÇÃO JURISPRUDENCIAL. DESCABIMENTO. ACÓRDÃO RECORRIDO QUE APLICA A SÚMULA N. 343/STF. TEMA N. 136/STF. NEGATIVA DE SEGUIMENTO.
+A parte agravante sustenta o cabimento da ação rescisória, pois a seu ver (fl. 1.011):
+O tema 136/STF, consoante transcrito no presente, afasta o cabimento da ação rescisória quando à época do julgado houver entendimento firmado pelo Plenário do C. STF em harmonia com o acórdão rescindendo, ainda que ocorra posterior superação do precedente, no entanto, tal tema encontra flagrante óbice no presente caso, vez que, como já fartamente atestado, à época da decisão rescisória, o Plenário já havia se manifestado favoravelmente ao pleito da ora Agravante.
+Argumenta que o Plenário da Suprema Corte, no julgamento do RE n. 240.785/MG, ocorrido em 8/10/2014, isto é, antes do prolação do acórdão rescindendo, teria acolhido a orientação de que não incide ICMS nas bases de cálculo do PIS e da COFINS.
+Nesse contexto, defende a agravante que o óbice da Súmula n. 343 do STF não seria aplicável ao presente caso, diante da divergência ocorrida entre a tese adotada no acórdão rescindendo e o contemporâneo precedente exarado pelo Plenário do STF.
+Requer, portanto, o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 1.021).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. DIREITO PROCESSUAL. AÇÃO RESCISÓRIA. DESCABIMENTO. ACÓRDÃO RECORRIDO QUE APLICOU A SÚMULA N. 343 DO STF. TEMA N. 136 DO STF.
+1. O Supremo Tribunal Fed eral, ao julgar o RE n. 590.809-RG/RS, firmou o posicionamento de que "não cabe ação rescisória quando o julgado estiver em harmonia com o entendimento firmado pelo Plenário do Supremo à época da formalização do acórdão rescindendo, ainda que ocorra posterior superação do precedente" (Tema n. 136 do STF).
+2. No caso, verifica-se que o recurso extraordinário foi interposto contra acórdão desta Corte Superior que, aplicando a Súmula n. 343 do STF, entendeu ser incabível ação rescisória fundada em mudança de orientação jurisprudencial, motivo pelo qual incide o Tema n. 136 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+Nos termos consignados no acórdão recorrido, a presente ação rescisória tem por finalidade desconstituir acórdão proferido em 7/12/2015, complementado por decisão integrativa exarada em 3/6/2016 e transitado em julgado em 20/9/2016.
+No referido julgamento, foi mantida a sentença denegatória do mandado de segurança em que se pretendia a exclusão do ICMS da base de cálculo do PIS e da COFINS, com a declaração do direito à repetição do indébito, por meio da compensação tributária, nos cinco anos anteriores à impetração.
+O acórdão ora impugnado concluiu que a matéria debatida na ação rescisória apenas teria sido pacificada no STF posteriormente ao trânsito em julgado do acórdão rescindendo, isto é, por ocasião do julgamento do RE n. 574.706/PR, sob o regime da repercussão geral. Em razão disso, considerou inadmissível a ação rescisória.
+A parte agravante alega que não seria aplicável ao presente caso o Tema n. 136 do STF, uma vez que o Plenário da Suprema Corte, no julgamento do RE n. 240.785/MG, ocorrido em 8/10/2014, já havia acolhido a tese da não incidência do ICMS na base de cálculo do PIS e da COFINS.
+Aponta, portanto, violação do art. 5º, XXXVI, da CF, sob a justificativa de que o acórdão impugnado, ao aplicar o óbice da Súmula n. 343 do STF, desprezara a orientação do Plenário do STF que havia sido firmada no precedente acima indicado.
+Não assiste razão à parte recorrente.
+O Supremo Tribunal Federal, ao concluir o julgamento do Tema n. 69, submetido ao regime da repercussão geral, modulou os efeitos do julgado exarado no RE 574.706 para reconhecer que a exclusão do ICMS da base de cálculo do PIS e da COFINS tenha efeitos a partir de 15/03/2017.
+Naquela oportunidade, afirmou-se que o acórdão anteriormente proferido pelo Plenário nos autos do RE n. 240.785/MG apenas teve repercussão inter partes e que, antes do julgamento da repercussão geral, predominava na Suprema Corte orientação em sentido contrário ao que restou ali definido. Confira-se a seguinte transcrição do voto condutor proferido pela Ministra Carmen Lúcia:
+21. Embora a tese assentada no julgamento do presente recurso tenha sido adotada desde 2014 com o julgamento do Recurso Extraordinário n. 240.785, cingiu-se aquela decisão à produção de efeitos inter partes. Essa circunstância foi expressamente discutida, naquela assentada, tendo consignado o Ministro Gilmar Mendes:
+"(..) fato é que o julgamento começou com uma composição e agora o Tribunal tem outra composição. Esse é um dado fático que nós não podemos negar. E por isso, inclusive, já anteciparia a minha posição no sentido de que nós nos limitemos a julgar este Recurso Extraordinário sem lhe atribuir caráter de repercussão geral - ao contrário do manifestado pelo Ministro Celso -, porque, de fato, a composição mudou; três Ministros que participaram do julgamento não mais estão, e hoje nós temos um RE com quatro Ministros. E nós temos agora um Recurso Extraordinário com repercussão geral reconhecida além da ação declaratória de constitucionalidade proposta".
+Tem-se, das discussões postas no Recurso Extraordinário n. 240.785, que o Plenário deste Supremo Tribunal, naquele julgamento, optou por não dotar o julgado de efeitos erga omnes, aguardando para fazê-lo neste processo, que, naquela data, tinha tido a matéria nele constante reconhecida como de repercussão geral.
+22. Antes do julgamento do presente caso, com reconhecimento da repercussão geral, o Superior Tribunal de Justiça tinha firmado entendimento contrário ao que veio a ser concluído por este Supremo Tribunal. Os julgados daquele órgão foram adotados até mesmo sob a sistemática de recursos repetitivos. Essa questão foi observada em alguns dos votos vencidos.
+O presente recurso extraordinário foi interposto contra acórdão desta Corte Superior que, aplicando a Súmula n. 343/STF, entendeu ser incabível a ação rescisória fundada em mudança de orientação jurisprudencial, motivo pelo qual não há como se afastar a incidência do que ficou definido no Tema n. 136 do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
