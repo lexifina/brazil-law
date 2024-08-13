@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por LBR - LÁCTEOS BRASIL S/A, com fundamento na incidência da Súmula 211/STJ.
+Em suas razões recursa is, a parte agravante sustenta, em síntese, que, "ao longo dos autos, a matéria submetida foi apreciada pelo E. Tribunal a quo (ainda que implicitamente), que emitiu juízo de valor sobre o cerne da controvérsia aqui tratada, qual seja, a (i)legitimidade da recusa da Fazenda Pública em relação ao bem ofertado à penhora em razão da inobservância à gradação disposta na legislação de regência, a despeito da existência de elementos concretos demonstrando a necessidade de afastamento da ordem legal, à luz do princípio da menor onerosidade da execução fiscal" (fl. 651).
+Foi apresentada contraminuta.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+No caso dos autos, a parte recorrente interpôs agravo de instrumento buscando a reforma da decisão "exarada nos autos da Ação de Execução Fiscal que lhe move o ESTADO DO TOCANTINS, onde o magistrado de origem houve por bem manter a recusa do bem formalizada pelo Agravado" (fl.462).
+O Tribunal de origem negou provimento ao agravo, nos seguintes termos:
+Pois bem, não obstante as ponderações lançadas pela agravante, a decisão agravada não merece reforma na medida que andou bem o magistrado a quo ao indeferir a tutela provisória pleiteada, haja vista que a possibilidade de recusa pela Fazenda Pública de bem que não atende a ordem legal já é matéria pacífica na jurisprudência, inclusive julgada em recurso repetitivo (fl.522).
+Com efeito, não é cabível Recurso Especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, notadamente quando for necessária a interpretação das normas que dizem respeito ao mérito da causa, como no caso, o que atrai a incidência, por analogia, da Súmula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+Ademais, conforme jurisprudência do STJ, para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp n. 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023).
+No caso, os arts. 187 do CTN; 9º, III, e 11 da LEF; e 805 do CPC/2015 não foram objeto de análise pelo Tribunal de origem, sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incidem, no ponto, as Súmulas 282 e 356 do STF, por analogia.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
