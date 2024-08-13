@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, recurso especial interposto pela União contra acórdão do Tribunal Regional da 5ª Região, assim ementado (fls. 443-444):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO, INCORPORAÇÃO DE QUINTOS. RETORNO DO STJ PARA APRECIAÇÃO DA QUESTÃO REMANESCENTE. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. ART. 20 DO CPC/1973
+1. Em julgamento realizado em 26/01/2016, esta Segunda Turma, no exercício do juízo de adequação previsto no art. 543-B, do CPC/1973, ajustou o acórdão recorrido ao entendimento do STF (RE638.115-CE), a fim de dar provimento à apelação e à remessa oficial, julgando improcedente o pedido de incorporação de quintos decorrentes do exercício de funções comissionadas e/ou gratificadas, no período compreendido entre a edição da Lei 9.624/ 19 98 e a publicação da Medida Provisória 2.225-45/ 20 01.
+2. Interposto Recurso Especial pela União contra a parte do julgado que deixou de condenar os demandantes no pagamento da verba honorária, o eg. Superior Tribunal de Justiça deu provimento ao recurso, determinando a devolução dos autos para fixação dos honorários advocatícios.
+3. No que pertine ao arbitramento d a verba honorária, impõe -se, em razão do provimento da apelação e da remessa necessária, o reconhecimento da sucumbência da parte autora , devendo esta arcar com o ônus de honorários advocatícios, arbitrados em R$ 2.000,00 (dois mil reais), nos termos do art. 20 , §§ 3º e 4º,do CPC/ 19 73, vigente ao tempo da prolação da sentença (em 13 /0 8 /20 1 0 ).
+4. Apelação e remessa oficial providas, para julgar improcedente o pedido, condenando a parte autora em honorários advocatícios, arbitrados em R$ 2.000,00 (dois mil reais).
+Os embargos de declaração foram rejeitados (fls. 462-468).
+Nas razões recursais, a recorrente sustenta, em síntese, violação aos arts. 85 e 1.046 do CPC/2015 , sustentando que (fl. 475):
+Pelo princípio de que a verba sucumbencial é aplicada pela lei do tempo da sentença, o novo regime instituído pelo NCPC, para as ações em que a Fazenda for parte, deve ser observado nos processos pendentes, desde que o julgamento ocorra depois de vigente o novo Código.
+Desse modo, esta regra aplica-se a todas as ações em trâmite no momento da entrada em vigor da Lei nº13.105/2015, desde que o julgamento ocorra depois de vigente o novo Código, descabendo falar em retroatividade indevida.
+Aduz que "por conseguinte, deve a parte autora, sucumbente nestes autos, ser condenada ao pagamento de honorários advocatícios de sucumbência calculados entre 10% e 20% do valor da causa, na formado art. 85, parágrafo 3º, inciso I, do NCPC, sob pena de negativa de vigência ao dispositivo legal pertinente, pois repise-se a condenação pelo Acórdão já se deu sob a égide do CPC/2015" (fl. 481).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente recurso, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 2ª Turma.
+Este Superior Tribunal de Justiça tem entendimento firmado no sentido de que deve ser aplicado, para fim de fixação de verba honorária, a legislação processual vigente à época em que proferida a decisão que a fixar.
+Nesse diapasão, destaco os seguintes precedentes, in verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA. VIGÊNCIA DO CPC/1973. FIXAÇÃO COM BASE NO ART. 20, § 4º, DO CPC/1973. REVISÃO DO VALOR DOS HONORÁRIOS. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O marco temporal para delimitação do regime jurídico aplicável à fixação de honorários advocatícios é o momento em que é proferido(a): 1) a sentença; ou 2) o ato jurisdicional equivalente nas hipóteses de competência originária do Tribunal.
+2. A revisão do valor dos honorários fixados ainda à luz das normas presentes no art. 20 do CPC/1973 depende de revisão dos fatos e documentos nos autos a fim de revisar os critérios de justiça e equidade reconhecidos pelo Tribunal de origem. Incidência da Súm. n. 7/STJ.
+3. Agravo interno não provido (AgInt no REsp n. 1.913.082/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023).
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA INCIDÊNCIA DO CPC/2015. DATA DA SENTENÇA PROLATADA.
+I - O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+II - Na origem, a parte exequente, em 8/2/2022, interpôs agravo de instrumento contra decisão que, em cumprimento de sentença no valor de R$ 1.018.735,05 (um milhão, dezoito mil, setecentos e trinta e cinco reais e cinco centavos), condenou a União em honorários advocatícios em 5% do valor devido, nos termos do art. 20, § 4º, do CPC/1973.
+III - O Tribunal Regional Federal da 5ª Região deu provimento ao agravo de instrumento do ente público para fixar a verba honorária sucumbencial nos percentuais mínimos previstos nos §§ 2º e 3º do art. 85 do CPC/2015, observando-se, ainda, o escalonamento estabelecido do § 5º do mesmo artigo, ficando consignado que a sucumbência deve ser regida pelas regras processuais em vigor no momento em que proferida a decisão, aplicando-se à hipótese o princípio do tempus regit actum.
+IV - Isso porque a jurisprudência desta Corte Superior é firme no sentido de que a legislação aplicável para a fixação dos honorários advocatícios será definida pela data da sentença, devendo ser observada a norma adjetiva vigente no momento de sua publicação. Assim, considerando que a sentença foi proferida em 2021, deve seguir a sistemática definida já pelo CPC de 2015.
+V - Recurso especial desprovido (REsp n. 2.026.594/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023).
+Portanto, deve ser provido o recurso para fixar a verba honorária nos termos do art. 85, § 3º, do CPC/2015.
+Isso posto, com fundamento nos arts. 255, § 4º, III, do RISTJ; e 85 do CPC/2015, dou provimento ao recurso especial para fixar a verba honorária em 10% (dez por cento) sobre o valor da causa.
+Intimem-se.
+EMENTA
