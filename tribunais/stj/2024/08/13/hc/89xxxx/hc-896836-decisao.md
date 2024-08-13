@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se  de  habeas  corpus  impetrado  em  favor  de  OTÁVIO DE CARVALHO FERREIRA,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO CEARÁ no Recurso em Sentido Estrito n. 0217257-77.2021.8.06.0001 e no HC n. 0636456-52.2023.8.06.0000.
+Consta nos autos que o Paciente foi condenado, em 23/03/2023, às penas de 11 (onze) anos, 11 (onze) meses e 20 (vinte) dias de reclusão e 1 (um) ano, 1 (um) mês e 10 (dez) dias de detenção, em regime inicial fechado, e 836 (oitocentos e trinta e seis) dias-multa, "como incurso nas penas do art. 2º, §2º e §4º, I, da Lei n. 12.850/2013, art. Art. 33 da Lei n. 11.343/2006 e art. 12 da Lei n. 10.826/2003 c/c art. 69 do Código Penal" (fl. 143).
+A Defesa interpôs recurso de apelação, que foi considerado intempestivo.
+Contra a decisão que não recebeu a apelação, a Defesa interpôs recurso em sentido estrito, que foi desprovido pelo tribunal de origem.
+A Defesa impetrou habeas corpus, o qual não foi conhecido pela Corte a quo.
+Neste writ, o impetrante alega que não foi intimado pessoalmente da sentença condenatória, de forma que não houve o trânsito em julgado da condenação. Sustenta a nulidade das provas obtidas, em razão da atuação da guarda civil municipal. Aduz que não houve fundamentação idônea para o indeferimento do direito de recorrer em liberdade. Argumenta que o paciente tem direito à incidência da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei de Drogas. Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, a declaração de nulidade das provas, ou, subsidiariamente, o recebimento do recurso de apelação, com o recolhimento do mandado de prisão expedido em desfavor do paciente.
+A liminar foi indeferida (fls. 216/217).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 247/251).
+É  o  relatório.
+DECIDO.
+De início, nos termos da orientação desta Corte Superior de Justiça, "em se tratando de réu solto, a intimação da sentença condenatória pode se dar apenas na pessoa do advogado constituído, ou mesmo do defensor público designado, sem que haja qualquer empecilho ao início do prazo recursal e a posterior certificação do trânsito em julgado" (AgRg nos EDcl no HC n. 680.575/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 16/11/2021, DJe de 19/11/2021).
+Ademais, verifica-se que o mandado de prisão expedido em desfavor do paciente não é cautelar, mas decorre do trânsito em julgado da condenação.
+Com efeito, constato  que  o  presente  habeas  corpus  foi  impetrado  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de Ceará  transitado  em  julgado em 13/11/2023 (fl. 381 dos autos originários).
+Diante  dessa  situação,  não  deve  ser  conhecido  o  presente  writ,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte.
+De  fato,  nos  termos  do  art.  105,  inciso  I,  alínea  "e",  da  Constituição  da  República,  compete  ao  Superior  Tribunal  de  Justiça,  originariamente,  as  revisões  criminais  e  as  ações  rescisórias  de  seus  julgados.  Sobre  a  questão,  cito  os  seguintes  precedentes  das  Turmas  que  compõem  a  Terceira  Seção  desta  Corte:
+PENAL.  AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  MESMO  FIM.  NÃO  CONHECIMENTO  DO  WRIT  SUBSTITUTIVO  DE  REVISÃO  CRIMINAL.  SUPRESSÃO  DE  INSTÂNCIA.  IMPOSSIBILIDADE  DE  ANÁLISE  DA  MATÉRIA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  O  Superior  Tribunal  de  Justiça,  em  diversas  ocasiões,  já  assentou  a  impossibilidade  de  impetração  de  habeas  corpus  em  substituição  à  revisão  criminal,  quando  já  transitada  em  julgado  a  condenação  do  réu,  compreendendo  " n ão  deve  ser  conhecido  o  writ  que  se  volta  contra  acórdão  condenatório  já  transitado  em  julgado,  manejado  como  substitutivo  de  revisão  criminal,  em  hipótese  na  qual  não  houve  inauguração  da  competência  desta  Corte"  (HC  n.  730.555/SC,  relator  Ministro  Olindo  Menezes,  Desembargador  Convocado  do  TRF  1ª  Região,  Sexta  Turma,  julgado  em  9/8/2022,  DJe  de  15/8/2022).  Na  hipótese  dos  autos,  a  condenação  do  agravante  transitou  em  julgado  de  há  muito,  com  baixa  definitiva  ao  Juízo  de  origem,  tendo  o  acórdão  sido  proferido  em  março  de  2013.
+ ..
+4.  Agravo  regimental  desprovido.  (AgRg  no  HC  n.  846.952/RJ,  relator  Ministro  ANTONIO  SALDANHA  PALHEIRO,  Sexta  Turma,  julgado  em  27/11/2023,  DJe  de  30/11/2023, grifamos).
+Por  fim,  observa-se que as matérias referentes à suposta nulidade em razão da atuação da guarda municipal e de incidência da minorante do tráfico privilegiado não foram apreciadas  pela  Corte  de origem.  Assim,  este  Superior  Tribunal  de  Justiça  não  pode  dela s  conhecer,  s  ob  pena  de  indevida  supressão  de  instância.
+Nesse  sentido:
+AGRAVO  REGIMENTAL  NO  RECURSO  EM  HABEAS  CORPUS.  NÃO  CONHECIMENTO.  WRIT  SUCEDÂNEO  DE  REVISÃO  CRIMINAL.  SUPRESSÃO  DE  INSTÂNCIA.  ILEGALIDADE  FLAGRANTE  QUE  AUTORIZA  A  CONCESSÃO  DE  ORDEM  DE  OFÍCIO.  NULIDADE  NA  PRODUÇÃO  DA  PROVA.  NÃO  VERIFICADA.  AGRAVO  REGIMENTAL  DESPROVIDO.
+ ..
+2.  O  exame  pelo  Superior  Tribunal  de  Justiça  de  matéria  que  não  foi  apreciada  pelas  instâncias  ordinárias  enseja  indevida  supressão  de  instância,  com  explícita  violação  da  competência  originária  para  o  julgamento  de  habeas  corpus  (art.  105,  I,  c,  da  Constituição  Federal).  ..
+(AgRg  no  RHC  n.  182.899/PB,  relator  Ministro  JESUÍNO  RISSATO  (Desembargador  Convocado  do  TJDFT),  Sexta  Turma,  julgado  em  8/4/2024,  DJe  de  11/4/2024).
+Pelo  exposto,  não conheço do habeas corpus.
+Publique-se  e  intimem-se.
+ EMENTA
