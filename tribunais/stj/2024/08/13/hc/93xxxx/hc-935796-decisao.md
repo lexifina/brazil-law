@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DAVID CHRISTIAN ROCHA ZELAQUETE MENDES contra acórdão da 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC n. 2137607-84.2024.8.26.0000).
+Extrai-se dos autos que o paciente é investigado pela suposta prática do delito de organização criminosa, sendo decretada sua prisão temporária pelo prazo de 30 dias, posteriormente prorrogada pelo mesmo prazo. Em seguida, foi decretada sua prisão preventiva.
+Buscando a revogação da segregação temporária, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 872/876):
+HABEAS CORPUS. PRISÃO TEMPORÁRIA.
+REQUISITOS. PRESENÇA. SEGREGAÇÃO. NECESSIDADE. ORDEM DENEGADA.
+1. A prisão temporária exige, para sua decretação, uma de três situações: que a prisão seja imprescindível para as investigações do inquérito policial, quando o indiciado não tiver residência fixa ou não fornecer elementos necessários ao esclarecimento de sua identidade, ou quando houver fundadas razões, conforme prova legal, de autoria ou participação do réu em alguns crimes, dentre os quais o ora imputado (art. 1º, da Lei nº 7.960, de 1989).
+2. No caso concreto, evidente que a medida é necessária para a cabal elucidação dos fatos e para que o paciente não obste o prosseguimento e o bom andamento da instrução criminal, bem como a finalização das investigações, havendo, portanto, suficiente indicação de que sua liberdade pode prejudicar a produção de provas.
+3. Ordem denegada, eis que ausente constrangimento ilegal a ser sanado.
+No presente writ, a defesa alega que não houve demonstração de que o paciente teria cometido os delitos imputados, sendo os indícios de sua participação limitados a uma pergunta que teria feito sobre a venda de uma arma a um dos supostos integrantes da organização criminosa. Ressalta que nada de ilícito foi encontrado com ele no momento de sua prisão. Nega, portanto, a autoria delitiva.
+Destaca suas circunstâncias pessoais favoráveis.
+Requer, em liminar e no mérito, a revogação da prisão preventiva, ainda que com a aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+Verifica-se a inviabilidade de conhecimento do writ, tendo em vista que a impetração se dirige contra acórdão que examinou os fundamentos da prisão temporária do paciente.
+Ocorre que sobreveio ao julgamento do mandamus originário a decretação da prisão preventiva do paciente, com base em fundamentos diversos e os quais não foram objeto de análise por parte do Tribunal a quo.
+Desse modo, a apreciação da idoneidade da motivação contida no decreto de prisão preventiva configuraria indesejáv el supressão de instância.
+De fato, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ademais, a tese defensiva se sustenta na apontada insuficiência das provas de autoria quanto ao tipo penal imputado, tratando-se, portanto, de alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+Com efeito, segundo a Suprema Corte, " a  análise minuciosa para o fim de concluir pela inexistência de indícios mínimos de autoria demandaria incursão no acervo fático-probatório, inviável em sede de habeas corpus" (AgRg no HC n. 215.663/SP, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 04/07/2022, DJe 11/07/2022).
+De igual modo, neste Tribunal Superior de Justiça é assente que " o  enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa" (AgRg no HC n. 727.242/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe 22/12/2022).
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
