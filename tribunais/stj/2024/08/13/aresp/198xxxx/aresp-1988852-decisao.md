@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Iza Maria Coimbra Zamberlan e Luciano Nogueira Lemes Vilela Coimbra, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 423):
+INVENTÁRIO. FRAÇÃO IDEAL DE IMÓVEIS E VEÍCULO DOADOS AO AGRAVADO HERDEIRO PELO SEU GENITOR. AUTOR DA HERANÇA. BENS QUE NÃO FORAM LEVADOS À COLAÇÃO NA AÇÃO DE INVENTÁRIO. HERDEIRO QUE, EM PETIÇÃO, DECLAROU INEXISTIR BENS SUJEITOS À COLAÇÃO. OMISSÃO DOLOSA CARACTERIZADA. VIOLAÇÃO DO ARTIGO 2.002, DO CÓDIGO CIVIL. CONDUTA DO REQUERIDO QUE PREJUDICOU A JUSTIÇA DA PARTILHA E ATINGIU O DIREITO FUNDAMENTAL DOS AGRAVANTES À HERANÇA, CONFORME ARTIGO 5º, XXX, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DA PENA AO HERDEIRO SONEGADOR. CABIMENTO. PERDA DO DIREITO SUCESSÓRIO AOS BENS OMITIDOS, NOS TERMOS DO ARTIGO 1992, DO CÓDIGO CIVIL. APLICAÇÃO DA PENA DE SONEGADOS NA AÇÃO DE INVENTÁRIO. CABIMENTO. QUESTÃO DE DIREITO COMPROVADA PELA DOCUMENTAÇÃO ACOSTADA AO FEITO, NÃO NECESSITANDO DE PROVAS DISTINTAS. RESOLUÇÃO NA PRÓPRIA VIA DO INVENTÁRIO (ARTIGO 612, DO CÓDIGO DE PROCESSO CIVIL). DOAÇÃO DE QUANTIAS EM PECÚNIA AO HERDEIRO AGRAVADO. COLAÇÃO. DESCABIMENTO. MONTANTE DESTINADO À EDUCAÇÃO E AO SUSTENTO DO HERDEIRO. MONTANTE EXCLUÍDO DA COLAÇÃO, POR FORÇA DO ARTIGO 2.010 DO CÓDIGO CIVIL. DECISÃO REFORMADA EM PARTE. RECURSO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração em sequência, estes foram rejeitados.
+Nas razões do apelo especial, os recorrentes indicaram violação aos arts. 544, 2.002 e 2.010 do CC.
+Afirmaram que as doações que foram feitas ao ora insurgido pelo seu ascendente, para gastos ordinários, quando já completada a maioridade, deveriam ter sido levadas à colação, cabendo a aplicação da pena de sonegados.
+Contrarrazões às fls. 523-539 (e-STJ).
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando os insurgentes a interpor o presente agravo, por meio do qual contestam a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Do exame dos autos, constata-se que, embora o Tribunal estadual tenha se manifestado acerca da alegação de que o ora insurgido deveria trazer à colação as quantias em pecúnia que lhe foram doadas pelo autor da herança, não o fez sob o enfoque ora pretendido, qual seja, de que a lei só isentaria do dever de colação os gastos ordinários realizados com o descendente que não atingiu a maioridade.
+Assim, revela-se evidente a ausência de prequestionamento do tema aventado no apelo especial, o que atrai a incidência das Súmulas 282 e 356 do STF.
+A título exemplificativo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. ARTIGO 1022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO PER RELATIONEM. ACRÉSCIMO DE FUNDAMENTOS NO ACÓRDÃO RECORRIDO. VÍCIO DE PROCEDIMENTO DESCARACTERIZADO. CÓPIA DE TÍTULO EXECUTIVO. DOCUMENTO HÁBIL À PROPOSITURA DE AÇÃO MONITÓRIA. PRECEDENTES. SÚMULA 83/STJ. TAXA DE JUROS REMUNERATÓRIOS ANUAL INFERIOR A 12%. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. PREVISÃO EM DESTAQUE DA TAXA DE JUROS CONTRATADA. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NÃO PROVIDO.
+ ..
+4. Inexistente prequestionamento acerca da previsão de cláusula contratual em destaque acerca dos juros remuneratórios, não há como examinar a controvérsia de modo originário em recurso especial, em razão do óbice do prequestionamento, atraindo a aplicação das Súmulas 282 e 356/STF.
+5. Agravo interno a que se nega provimento.
+(Aglnt nos EDcl no REsp n. 2.038.866/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de Iza Maria Coimbra Zamberlan e Luciano Nogueira Lemes Vilela Coimbra.
+Fiquem as part es cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INVENTÁRIO. TESE DE OFENSA AOS ARTS. 544, 2.002 E 2.010 do CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE IZA MARIA COIMBRA ZAMBERLAN E LUCIANO NOGUEIRA LEMES VILELA COIMBRA.
