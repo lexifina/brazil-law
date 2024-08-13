@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMEDICA SAÚDE S.A. e OUTRO contra a decisão que inadmitiu o recurso especial. O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. QUEDA EM HOSPITAL. QUADRO DE SAÚDE AGRAVADO EM DECORRENCIA DAS LESÕES SOFRIDAS QUE CULMINOU EM ÓBITO. DEVER DE GARANTIR A INTEGRIDADE DOS PACIENTES. QUEDA DE PACIENTE INTERNADO EM HOSPITAL. EVOLUÇÃO PARA ÓBITO. RELAÇÃO DE CONSUMO. PARENTE. CONSUMIDOR POR EQUIPARAÇÃO. RESPONSABILIDADE OBJETIVA. ÔNUS DA PROVA. FALHA NA PRESTAÇÃO DO SERVIÇO. DEVER DE CUIDADO. INDENIZAÇÃO POR DANO MORAL ARBITRADA COM RAZOABILIDADE. SENTENÇA DE PARCIAL PROCEDÊNCIA. NÃO HÁ CONTROVÉRSIA ACERCA DOS FATOS NARRADOS NA INICIAL, NA QUAL OS AUTORES FORMULARAM PRETENSÃO INDENIZATÓRIA PELA MORTE DE SEU FILHO/IRMÃO, QUE ESTAVA INTERNADO NAS DEPENDÊNCIAS DO HOSPITAL RÉU, EM VIRTUDE DE UM SURTO PSIQUIÁTRICO E ACABOU SOFRENDO QUEDA DO QUINTO ANDAR. TENDO GRAVES FRATURAS/LESÕES E EVOLUINDO PARA ÓBITO. DIANTE DESSE QUADRO, A RELAÇÃO EXISTENTE ENTRE AS PARTES É NITIDAMENTE DE CONSUMO, FIGURANDO OS AUTORES NA QUALIDADE DE CONSUMIDOR POR EQUIPARAÇÃO, POR TER ALEGADO SUPORTAR, AINDA QUE DE FORMA REFLEXA (DANO RICOCHETE), AS CONSEQUÊNCIAS DA ALEGADA FALHA NA PRESTAÇÃO DO SERVIÇO (ART. 17, DO CDC). A DESPEITO DAS ALEGAÇÕES DE INEXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO E/OU CULPA EXCLUSIVA DA VÍTIMA, QUE TERIA CONSEGUIDO SE LIVRAR DA CONTENÇÃO E "PULOU" DO QUINTO ANDAR, AS PROVAS CORROBORAM NO SENTIDO DE NEGLIGENCIA QUANTO AO DEVER DE VIGILÂNCIA, POSTO QUE NO PRÓPRIO PRONTUÁRIO MÉDICO CONSTA INFORMAÇÃO "SEM CONTENÇÃO" E NENHUMA PROVA FOI PRODUZIDA NO SENTIDO DE EXCLUIR A RESPONSABILIDADE DOS RÉUS CONFORME DISPOSTO NO ART. 14, §3º DO CDC, DESCUMPRINDO O ÔNUS QUE LHE CABIA. DIANTE DISSO, DEVE O RÉU COMPENSAR OS AUTORES PELOS DANOS DECORRENTES DA FALHA NA PRESTAÇÃO DO SERVIÇO. INQUESTIONÁVEL A OCORRÊNCIA DE DANO MORAL CAUSADO AOS AUTORES EM RAZÃO DA MORTE DO PACIENTE, RECONHECIDO O NEXO CAUSAL POR LAUDO PERICIAL ANTE A INCONTESTE FALHA NO DEVER DE CUIDADO DO HOSPITAL COM SEUS ASSISTIDOS. MANTEM-SE A INDENIZAÇÃO FIXADA PELA SENTENÇA NO VALOR DE R$100.000,00 (CEM MIL REAIS) PARA OS PAIS E R$50.000,00 (CINQUENTA MIL REAIS) PARA O IRMÃO. ENUNCIADO SUMULAR 343 DESTE E.TJ. ADEMAIS, PARA A ESFERA JUDICIAL, O ÔNUS DAQUELE QUE SUCUMBE À LIDE É O DE PAGAR HONORÁRIOS DE SUCUMBÊNCIA, CONFORME ESTABELECIDO PELA LEGISLAÇÃO PROCESSUAL. NECESSIDADE DE REFORMA QUANTO AOS ÔNUS SUCUMBENCIAIS. O FATO DE TER SIDO FIXADO VALOR INFERIOR AO PRETENDIDO PELOS AUTORES NÃO INDUZ SUCUMBÊNCIA RECÍPROCA, UMA VEZ QUE O PEDIDO PRINCIPAL RESTOU PROVIDO, NOS TERMOS DO ENUNCIADO Nº 326 DA SÚMULA DO STJ. 6. MAJORAM-SE OS HONORÁRIOS DEVIDOS À PARTE AUTORA PARA 15% (QUINZE POR CENTO) DO VALOR DA CONDENAÇÃO, COM FULCRO NO ART. 85, §§ 2º E 11, DO CPC. DESPROVIMENTO DO RECURSO DAS RÉS E PARCIAL PROVIMENTO DO RECURSO DA AUTORA" (e-STJ fls. 1.018/1.019).
+No especial (e-STJ fls. 1.048/1.076), os agravantes apontam violação dos artigos 1.022, II, do Código de Processo Civil e 186, 187 e 927, parágrafo único, do Código Civil.
+Aduzem que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de aferir a proporcionalidade entre o dano e o valor da reparação a título de dano moral, deixando de se manifestar a respeito da incidência ao caso dos artigos 186, 187 e 927, parágrafo único, do Código Civil.
+Sustentam que a indenização foi fixada em valor exorbitante, visto que "(..) o paciente sequer possuía chance de cura, mas tão somente poderia ver estendida, por algum período, sua sobrevida" (e-STJ fl. 1.074).
+Afirmam que a redução do valor é devida por não se tratar o caso de erro médico que cause a morte do paciente.
+Ao final, requerem o provimento do recurso.
+Apresentadas as contrarrazões (e-STJ fls. 1.084/1.092), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A irresignação não merece acolhida.
+Registra-se, de início, a ausência de interesse recursal no tocante à alegada negativa de prestação jurisdicional.
+Isso porque os recorrentes não apresentaram embargos de declaração contra o acórdão recorrido.
+Tal fato inviabiliza a análise da apontada violação do art. 1.022 do CPC no recurso especial, porquanto torna impossível a compreensão da controvérsia, situação que também atrai o óbice da Súmula nº 284/STF à espécie.
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. LEGITIMIDADE. INTERESSE. PREJUDICIALIDADE EXTERNA. ERRO MATERIAL. FALTA DE PREQUESTOINAMENTO. ARBITRAMENTO DE ALUGUÉIS. OCUPAÇÃO EXCLUSIVA POR EX-CÔNJUGE. IMÓVEL NÃO PARTILHADO. POSSIBILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS N. 284 DO STF E 83 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência do STJ, "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973  correspondente ao art. 1.022 do CPC/2015 , na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/6/2016, DJe 13/6/2016).
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.899.276/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/6/2022, DJe 27/6/2022).
+No mais, a parte recorrente pretende a redução dos danos morais fixados na origem decorrente do óbito de ente familiar internado em suas dependências.
+Aponta violação dos artigos 186, 187 e 927, parágrafo único, do Código Civil, os quais se referem à necessidade de indenização por quem comete ato ilícito, e não sobre a proporcionalidade entre o dano e o valor fixado.
+Assim, tais preceitos legais não possuem comando normativo suficiente para infirmar os fundamentos do acórdão combatido, tampouco para sustentar a tese defendida pela parte recorrente, o que configura a deficiência de fundamentação do recurso especial, a atrair o óbice da Súmula nº 284/STF.
+A saber:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. AUSÊNCIA DE PREQUESTIONAMENTO. DISPOSITIVO INDICADO COMO VIOLADO QUE NÃO POSSUI COMANDO NORMATIVO PARA SUSTENTAR A TESE RECURSAL. SÚMULA N. 284/STF. RESPONSABILIDADE CIVIL. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ.
+(..)
+2. Ademais, o dispositivo indicado como violado não possui comando normativo para sustentar a tese recursal, o que atrai a incidência do óbice na Súmula n. 284 do STF.
+(..)
+Agravo improvido."
+(AgInt no AREsp n. 2.442.412/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE IMÓVEL RURAL. DISCUSSÃO SOBRE OS CRITÉRIOS LEGAIS DE DEFINIÇÃO DA PEQUENA PROPRIEDADE RURAL PARA EFEITO DE IMPENHORABILIDADE. IMPERTINÊNCIA DO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECLUSÃO CONSUMATIVA QUE SE OPERA MESMO EM RELAÇÃO A QUESTÕES DE ORDEM PÚBLICA. INCIDÊNCIA DA SÚMULA N. 83/STJ. EXCESSO DE EXECUÇÃO EM RAZÃO DE PAGAMENTO PARCIAL DO DÉBITO. REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. À luz da Súmula 284/STF, não se conhece de recurso especial na hipótese de o recurso especial apontar violação a artigo de lei que não contém comando normativo apto a ensejar eventual alteração do acórdão recorrido.
+1.1 No caso dos autos, os dispositivos de lei tidos como violados, revelam-se inadequados para a solução da controvérsia (..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.130.966/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 18% (dezoito por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
