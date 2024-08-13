@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  por  RIO BRANCO ALIMENTOS S/A.  à  decisão  de  minha  relatoria,  de  fls.  803/805,  que  determinou  a  devolução  dos  autos  ao  Tribunal  de  origem  ante  a  afetação  do  Tema  1.266 do Supremo Tribunal Federal (STF)  em  que  se  discute  a "incidência da regra da anterioridade anual e nonagesimal na cobrança do ICMS com diferencial de alíquota (DIFAL) decorrente de operações interestaduais envolvendo consumidores finais não contribuintes do imposto, após a entrada em vigor da Lei Complementar 190/2022".
+A  parte  embargante  afirma que a matéria a ser tratada no Tema 1.266/STF é o DIFAL NÃO-CONTRIBUINTE, sendo que a d os autos é o DIFAL USO E CONSUMO. Defende que este é tributo incide na aquisição por empresas (contribuintes de ICMS), enquanto consumidoras finais, de bens para uso e consumo ou à integração do seu ativo imobilizado. Aquele é tributo incidente na aquisição de bens por não contribuintes do ICMS (pessoas físicas).
+Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração.
+Impugnação  ao  recurso  apresentada  às  fls.  823/828.
+  É  o  relatório.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC) , os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+Na presente hipótese, a decisão embargada determinou a devolução dos autos porquanto a questão debatida no feito, qual seja, "a incidência da regra da anterioridade anual e nonagesimal na cobrança do ICMS com diferencial de alíquota (DIFAL) decorrente de operações interestaduais envolvendo consumidores finais não contribuintes do imposto, após a entrada em vigor da Lei Complementar 190/2022.", teve a repercussão geral reconhecida pelo Supremo Tribunal Federal no Recurso Extraordinário 1.426.271/CE (Tema 1.266).
+Consoante entendimento consolidado nesta Corte, a decisão de sobrestamento, com determinação de retorno dos autos ao Tribunal de origem a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do Código de Processo Civil), não possui carga decisória, sendo, portanto, irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não é o caso dos autos.
+Nesse sentido, cito o seguinte julgado deste Tribunal:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TEMA AFETADO E JULGADO EM SEDE DE RECURSO REPETITIVO PELO STJ. CASO DOS AUTOS. PERTINÊNCIA TEMÁTICA. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES.
+1. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.030, I, b, II, 1.040 e 1.041 do CPC/2015), não possui carga decisória e, por isso, trata-se de provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido. (AgInt no AREsp 1.227.445/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2020.)
+Na hipótese dos autos, cabe ao tribunal a quo realizar o juízo de conformação com precedente formado no re curso extraordinário em repercussão geral. Não sendo o caso, o Tribunal a quo devolve os autos a esta Corte para julgamento.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
