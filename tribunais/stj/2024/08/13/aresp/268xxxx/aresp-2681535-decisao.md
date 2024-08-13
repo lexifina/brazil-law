@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por FERNANDA DE SOUZA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ, fls. 267):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - Preliminar de nulidade processual afastada - Mérito - Autoria e materialidade bem compradas - Depoimentos dos policiais militares ouvidos em juízo firmes, coerentes e sem desmentidos - Ausência de motivos para dúvidas acerca da veracidade de suas palavras - Conjunto probatório suficiente para manter a condenação pelo tráfico - Pena e regime prisional inicial fechado adequados e incontroversos - Ré com mau antecedente e reincidente - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente nulidade do feito por violação do disposto no art. 212 do Código de Processo Penal, apontando quebra do sistema acusatório.
+O Tribunal a quo não admitiu o recurso especial, tendo sido interposto o presente agravo.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso (e-STJ, fls. 365/368).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso especial, contudo, não merece acolhida.
+O Tribunal estadual ao afastar a nulidade apontada pela defesa por inobservância do art. 212 do CPP, destacou o seguinte (e-STJ fl. 268):
+Inicialmente, insta observar que a defesa da acusada postula nulidade processual, tendo em vista que na audiência de instrução, as perguntas às testemunhas de acusação teriam sido feitas diretamente pelo Magistrado, com pontuais questionamentos do Representante do Ministério Público, de modo que houve violação ao disposto no artigo 212 do Código de Processo Penal.
+Todavia, o pedido preliminar não se sustenta. Isto porque, conforme se verifica no audiovisual da audiência (cf. fls. 155/156), além do fato de a ré ter optado por permanecer em silêncio, perdendo, assim, a oportunidade de oferecer sua versão acerca dos acontecimentos, a defesa, em momento algum, impugnou o procedimento adotado pelo Magistrado a quo, ou mesmo alegou cerceamento de defesa, o que deveria ter sido feito caso se sentisse prejudicada, ou seja, na própria audiência, mas não o fez.
+Preclusa, portanto, a alegação de nulidade; mesmo porque, não ficou demonstrado, ainda, o prejuízo para a defesa, a teor do disposto no artigo 563 do Código de Processo Penal.
+No caso,  observa-se  que  a  parte  recorrente  deixou  de  impugnar  o  fundamento  de  que  a  matéria  estava  preclusa.
+Assim  sendo,  caracterizada  nítida  inobservância  do  princípio  da  dialeticidade  recursal,  de  rigor  a  aplicação,  por  analogia,  da  vedação  prescrita  no  enunciado  n.  283  da  Súmula  do  Supremo  Tribunal  Federal.
+Com  efeito,  a  subsistência  de  fundamento  inatacado  apto  a  manter  a  conclusão  do  aresto  vergastado  impõe  o  não  conhecimento  da  pretensão  recursal,  nos moldes do óbice prescrito pela Súmula  n.  283/STF.
+A  propósito:
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  RECURSO  EM  MANDADO  DE  SEGURANÇA.  ABANDONO  DO  PROCESSO.  MULTA  DO  ART.  265  DO  CPP.  NÃO  COMPARECIMENTO.  SÚMULA  283/STF,  POR  ANALOGIA.  AGRAVO  DESPROVIDO.
+1.  "A  Súmula  n.  283  do  STF  prestigia  o  princípio  da  dialeticidade,  por  isso  não  se  limita  ao  recurso  extraordinário,  também  incidindo,  por  analogia,  no  recurso  ordinário,  quando  o  interessado  não  impugna,  especificamente,  fundamento  suficiente  para  a  manutenção  do  acórdão  recorrido"  (STJ,  AgRg  no  RMS  30.555/MG,  Rel.  Ministro  OG  FERNANDES,  SEXTA  TURMA,  DJe  de  1º/8/2012).
+2.  Ademais,  ainda  que,  na  interpretação  dos  advogados,  a  data  não  lhes  parecesse  compatível  com  os  atos  normativos  do  Tribunal  de  origem,  eles  deveriam  se  insurgir,  tempestiva  e  adequadamente  (pela  via  própria),  contra  a  designação.  Frise-se  que  eles  foram  devidamente  intimados,  mas  se  omitiram.  Na  data  ajustada,  apenas  não  compareceram  à  sessão  de  julgamento.
+3.  Sobre  a  multa  em  questão,  note-se  que  a  desídia  também  se  enquadra  no  conceito  de  abandono  da  norma  prevista  no  art.  265  do  CPP.  Precedentes.
+4.  Agravo  desprovido.
+(AgRg  no  RMS  n.  67.993/PB,  relator  Ministro  Ribeiro  Dantas,  Quinta  Turma,  julgado  em  14/12/2021,  DJe  de  17/12/2021).
+Ademais,  como  é  de  conhecimento,  não  se  proclama  uma  nulidade  sem  que  se  tenha  verificado  prejuízo  concreto  à  parte,  sob  pena  de  a  forma  superar  a  essência.  Vigora  o  princípio  pas  de  nulitté  sans  grief,  a  teor  do  que  dispõe  o  art.  563  do  Código  de  Processo  Penal:  "nenhum  ato  será  declarado  nulo,  se  da  nulidade  não  resultar  prejuízo  para  a  acusação  ou  para  a  defesa".  E  não  se  pode  olvidar  que  "a  condenação,  por  si  só,  não  pode  ser  considerada  como  prejuízo,  pois,  para  tanto,  caberia  ao  recorrente  demonstrar  que  a  nulidade  apontada,  acaso  não  tivesse  ocorrido,  ensejaria  sua  absolvição,  situação  que  não  se  verifica  os  autos"  (AgRg  no  AREsp  n.  1.637.411/RS,  Relator  Ministro  FELIX  FISCHER,  Quinta  Turma,  julgado  em  26/5/2020,  DJe  3/  6/2020).
+Outrossim, o entendimento firmado na origem não destoa da orientação jurisprudencial deste Tribunal Superior firme de que "eventual inobservância ao disposto no art. 212 do Código de Processo Penal gera nulidade meramente relativa, sendo necessário para seu reconhecimento a alegação no momento oportuno e a comprovação do efetivo prejuízo" (AgRg no AREsp 1741471 /SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 14/05/2021).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
