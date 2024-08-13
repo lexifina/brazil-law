@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  por ILDEFONSO COLARES FILHO - ESPÓLIO (representado por: RENARDO LINHARES COLARES - INVENTARIANTE) ao  acórdão  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE RESPONSABILIDADE CIVIL DE DIRETORES E ADMINISTRADORES DE PESSOA JURÍDICA (SEGURO DE RC D&O). DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. GARANTIA SECURITÁRIA. CLÁUSULA DE EXCLUSÃO. PRÁTICA DE EVENTUAIS ILÍCITOS CRIMINAIS. EXTENSÃO DE COBERTURA. INDISPONIBILIDADE DE BENS E PENHORA ONLINE. COBERTURA DE ADIANTAMENTO. INDENIZAÇÃO SECURITÁRIA. BASE DE CÁLCULO. REMUNERAÇÃO MENSAL DO CARGO. PRETENSÃO DE ALTERAÇÃO. INVIABILIDADE. REGRAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Para que seja caracterizado o dissídio jurisprudencial, é essencial a existência de similitude fática entre o acórdão recorrido e os julgados apontados como paradigmas.
+2. No caso, as instâncias ordinárias asseveraram que o contrato de seguro D&O pactuado visava cobrir "prejuízos financeiros" sofridos por executivos ou ex-executivos da sociedade tomadora (Construtora Queiroz Galvão S.A.), em decorrência de atividades diretas por eles desenvolvidas enquanto representantes da entidade, em seus atos negociais, sendo excluída, entre outras, a cobertura securitária para as situações em que a suposta medida constritiva decorresse de eventuais ilícitos criminais.
+3. O seguro de RC D&O somente possui cobertura para (i) atos culposos de diretores, administradores e conselheiros (ii) praticados no exercício de suas funções (atos de gestão). Em outras palavras, atos fraudulentos e desonestos de favorecimento pessoal e práticas dolosas lesivas à companhia, ao mercado, ao Estado e à sociedade civil não estão abrangidos na garantia securitária. Precedentes.
+4. A Corte local asseverou que, ainda que se levasse em consideração a extensão de cobertura de indisponibilidade de bens e penhora online, a qual seria uma cobertura de adiantamento, o bloqueio perdurou por apenas um dia (a indicar prejuízo financeiro discutível), o que daria, em tese, se fosse o caso, o direito de adiantamento de um mês de remuneração como diretor, base de cálculo contratada. Como o autor não comprovou sua remuneração, ainda que tenha sido desligado da empresa tomadora - a exemplo da média paga a outros diretores, ou de sua última remuneração como dirigente corrigida monetariamente -, apenas se apegando a outras bases de cálculo não avençadas (valor total da constrição ou recebimento de dividendos), foi-lhe negada a pretensão, porquanto não fez prova do seu eventual direito, nos limites realmente contratados. Na hipótese, alterar o parâmetro pactuado entre as partes para o pagamento da indenização securitária encontra óbice nas Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido" (e-STJ fls. 1.005-1.006).
+Em  suas  razões,  o  embargante  aponta  a  existência  de  omissões e de obscuridade  no  acórdão  atacado,  reiterando  alegações  anteriormente  aventadas  no  recurso  especial e no agravo interno.
+Aduz que:
+"(..)
+23. O acórdão invocou o óbice das súmulas 5 e 7 do STJ argumentando que, ainda que se levasse em consideração a extensão da cobertura de indisponibilidade de bens e penhora online, o acórdão recorrido não merecia reparos porque, no caso, a indenização devida seria correspondente a um mês de remuneração e, como referido valor não teria sido comprovado nos autos, não seria possível falar em indenização (e-STJ fl. 1.014).
+24. Esse entendimento, no entanto, parte de premissa equivocada: que o bloqueio judicial teria perdurado um dia e que os bens teriam sido foram devolvidos em seguida. Ocorre que os bens de Ildefonso nunca foram devolvidos. Em razão da Lava Jato, os R$ 18.000.000,00 de Ildefonso foram objeto de constrição e permanecem bloqueados junto à instituição financeira até os dias de hoje.
+25. De fato, o bloqueio das contas cessou no dia seguinte à constrição, mas tão somente porque ela foi satisfatória. Ou seja, Ildefonso pôde voltar a movimentar suas contas, mas isso não significou a devolução dos valores constritos.
+(..)
+28. Com efeito, o bloqueio das contas é diverso da indisponibilidade dos bens penhorados, o que foi apontado em sede de embargos de declaração, sem, contudo qualquer reparo na decisão.
+(..)
+32. Como reconhecido pelo acórdão ora embargado (e-STJ 1.014), o pagamento da remuneração deve se dar em razão do prejuízo financeiro sofrido em razão do bloqueio de montante nas contas do agravante. Sendo um bloqueio que perdura anos e não apenas um dia, como erroneamente reconheceu a decisão agravada, o prejuízo financeiro sofrido pelo segurado corresponde à totalidade dos valores bloqueados - seus bens pessoais.
+33. Requer-se, portanto, que seja reconhecido e sanado o erro de premissa do acórdão, para que a demanda seja analisada levando em consideração que os R$ 17.187.378,83 de Ildefonso tornaram-se indisponíveis em 2014 e seguem indisponíveis até hoje, apenas o bloqueio da conta é que perdurou um dia. Assim, sendo incontroverso que o valor segue indisponível, é esse o prejuízo patrimonial que Ildefonso teve e esse é o valor que deve ser indenizado, sob pena de impedir que o contrato cumpra com a sua função econômico-jurídica.
+(..)
+34. O r. acórdão embargado deixou de pronunciar-se sobre argumentos veiculados no agravo interno que são aptos a infirmar a conclusão alcançada.
+(..)
+39. Pretende-se, portanto, que seja sanada a omissão sobre (i) a ausência de condenação de Ildefonso e (ii) a impossibilidade de afastar-se a cobertura securitária por meio de mera alegação de ato doloso" (e-STJ fls. 1.026-1.030).
+Acrescenta, ainda, que o dissídio pretoriano foi devidamente demonstrado, havendo similitude fática entre os acórdãos cotejados.
+Ao final, busca que sejam sanados os vícios apontados, atribuindo-se efeitos infringentes aos embargos declaratórios,
+"(..) o que conduzirá ao provimento do agravo interno, para (i) reconhecer a violação aos arts. 762, 765 e 787 do CC e art. 152 da Lei das S.A.; (ii) afastar a aplicação das súmulas 5 e 7 do STJ e (iii) reconhecer o dissídio jurisprudencial" (e-STJ fl. 1.031).
+Devidamente intimada, a parte contrária apresentou impugnação (e-STJ fls. 1.036-1.055.
+É  o  relatório.
+DECIDO.
+Por entender que a matéria merece melhor exame, e para permitir o melhor exame do recurso pelos demais integrantes do Órgão Colegiado, torno sem efeito a decisão de e-STJ fls. 953-960 e o acórdão de e-STJ fls. 1.005-1.015 e dou provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do art. 34, XVI, do Regimento Interno do Superior Tribunal de Justiça, para posterior inclusão do feito em pauta de julgamento.
+Publique-se.
+Intimem-se.
+EMENTA
