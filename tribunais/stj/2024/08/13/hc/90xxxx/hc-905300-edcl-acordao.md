@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LEANDRO ALVES DA SILVA contra acórdão da Quinta Turma que negou provimento ao agravo regimental, em acórdão com a seguinte ementa (e-STJ fl. 328;329):
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. NEGATIVA DE AUTORIA E PARTICIPAÇÃO. MATÉRIA PROBATÓRIA. FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. EXCEPCIONALMODUS OPERANDI. RISCO DE REITERAÇÃO. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. EXCESSO DE PRAZO. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. É assente que " o  enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa" (AgRg no HC n. 727.242/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe 22/12/2022).
+3. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+4. No caso, a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantir a ordem pública, em razão da gravidade concreta do crime, evidenciada pelo modus operandiempregado - a vítima foi atacada pelas costas, com múltiplos disparos de arma de fogo na cabeça, tronco e nos membros superiores e inferiores, além de terem efetuado inúmeros os disparos em plena via pública. Ademais, o decreto destacou o risco de reiteração, porquanto o paciente responde a outros três processos criminais. Prisão mantida para resguardar a ordem pública. Julgados do STJ.
+5. Quanto à tese de excesso de prazo para a formação da culpa, é inviável o exame, porquanto foi não deduzidas no habeas corpus, caracterizando indevida inovação recursal.
+6. Agravo regimental parcialmente conhecido e improvido.
+Nas razões do presente recurso, a defesa afirma que a alegação de "Impossibilidade de se Decretar a Prisão Preventiva Baseado em Elementos Informativos oriundos de Declarações "Por Ouvir Dizer não teria sido examinada no acórdão" (e-STJ fl. 253). Coloca de forma objetiva: "Logo, o que se requer é a análise da (im)possibilidade de se decretar a segregação preventiva com fundamento exclusivo em Hearsay Testimony oriunda de elementos informativos (declarações de terceiros) não confirmadas em juízo." (e-STJ fl. 255). Entende, assim, não haver justa causa para a prisão cautelar, porquanto inválidos os elementos probatórios sobre os indícios de autoria.
+Diante disso, pede sejam os embargos acolhidos para sanar a omissão e conceder a ordem e revogar a prisão preventiva do embargante.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. NEGATIVA DE AUTORIA E PARTICIPAÇÃO. MATÉRIA PROBATÓRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+2. No caso, não se verifica a alegada omissão. Acerca na autoria delitiva, consta expressamente do decreto prisional: "os indícios de autoria constam no caderno inquisitorial das investigações e prova da materialidade contidos nos autos constituem a fumaça do bom direito para a segregação provisória" (e-STJ fl. 53). Vale recordar que a para a decretação da prisão preventiva exige-se apenas indícios de autoria, como consignado no decreto, inclusive foram suficientes para o recebimento da denúncia e instauração da ação penal. Ausência de constrangimento ilegal.
+3. É assente que " o  enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa" (AgRg no HC n. 727.242/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe 22/12/2022).
+4. Embargos de declaração rejeitados.
+VOTO
+Não assiste razão à defesa.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constatam os vícios alegados.
+Confira-se (e-STJ fl. 242/243):
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Inicialmente, é de se notar que a tese de insuficiência das provas de autoria e materialidade quanto ao tipo penal imputado consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+Com efeito, segundo a Suprema Corte, " a  análise minuciosa para o fim de concluir pela inexistência de indícios mínimos de autoria demandaria incursão no acervo fático-probatório, inviável em sede de habeas corpus" (AgRg no HC n. 215.663/SP, Rel. Ministra Rosa Weber, Primeira Turma, julgado em 04/07/2022, D
+Je 11/07/2022).
+De igual modo, neste Tribunal Superior de Justiça é assente que " o  enfrentamento da tese relativa à negativa de autoria é incompatível com a via estreita do habeas corpus, ante a necessária incursão probatória, devendo tal análise ser realizada pelo Juízo competente para a instrução e julgamento da causa" (AgRg no HC n. 727.242/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, D
+Je 22/12/2022).
+A propósito, consta expressamente do decreto prisional: "Os indícios de autoria constam no caderno inquisitorial das investigações e prova da materialidade contidos nos autos constituem a fumaça do bom direito para a segregação provisória" (e-STJ fl. 53). Vale recordar, mais uma vez, que a para a decretação da prisão preventiva exige-se apenas indícios de autoria, como consignado no decreto, inclusive suficientes para para o recebimento da denúncia e instauração da ação penal.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
