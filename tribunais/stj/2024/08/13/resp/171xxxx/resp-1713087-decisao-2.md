@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto por GERALDO MOREIRA DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+APELAÇÃO CÍVEL DIREITO ADMINISTRATIVO CONSTITUCIONAL E PROCESSUAL CIVIL AÇÃO DE IMPROBIDADE ADMINISTRATIVA POLICIAIS CIVIS E EX POLICIAL MILITAR EXTORSÃO MEDIANTE SEQÜESTRO NÃO CONFIGURAÇÃO FALSO TESTEMUNHO CONFIGURAÇÃO ATOS QUE ATENTAM CONTRA OS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA PERDA DA FUNÇÃO PÚBLICA SUSPENSÃO DOS DIREITOS POLÍTICOS PROIBIÇÃO DE CONTRATAR COM O PODER PÚBLICO MULTA CIVIL
+Os dois embargos de declaração opostos ao acórdão foram rejeitados, bem como os terceiros aclaratórios opostos posteriormente.
+Nas razões recursais, a parte recorrente sustenta, em síntese: i) nulidade por vício de fundamentação quanto à individualização de sua conduta, a pena aplicada e as razões de procedência da ação (art. 535 do CPC/1973); ii) desproporção da penalidade (art. 12 da LIA); e iii) julgamento além do pedido (extra petita).
+Contrarrazões apresentadas.
+O feito foi baixado para juízo de conformação ao Tema n. 1.199/STF, tendo sido refutado pela origem o enquadramento do caso à tese, porquanto a condenação foi fundada no art. 11 da LIA, sem remessa ao órgão julgador para o juízo de retratação.
+É o relatório.
+Passo a decidir.
+De início, convém esclarecer que, a despeito da decisão da origem, o Tema n. 1.199/STF deve ser considerado na espécie. Ocorre que, conforme o acórdão expressamente afirma, houve dolo na conduta, de modo a não haver implicação da tese neste caso.
+Entretanto, precisamente por se tratar de condenação fundada no caput do art. 11 da antiga LIA, é de se reconhecer a superveniente atipicidade da conduta, para julgar improcedente o pedido autoral. Isso porque o ato de mentir em depoimento perante as autoridades persecutórias não configura uma das figuras taxativas previstas na nova legislação de regência.
+A propósito:
+ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE RECOLHIMENTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS E DE FGTS. IMPROBIDADE ADMINISTRATIVA. PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. TAXATIVIDADE DO ROL DO ART. 11 DA LIA. ATIPICIDADE DA CONDUTA. DECISÃO AGRAVADA MANTIDA. PROVIMENTO NEGADO.
+1. Aplicabilidade das normas benéficas constantes na Lei 14.230/2021 aos processos em que ainda não houve o trânsito em julgado da decisão condenatória, desimportando, por isso, o eventual descumprimento de requisito de admissibilidade recursal, que não o da tempestividade.
+2. Aplicação da ratio decidendi constante no acórdão do ARE 843.989/PR (Tema 1.199/STF) para além da revogação da modalidade culposa do art. 10 da Lei de Improbidade Administrativa, alcançando a abolição da tipicidade da conduta decorrente das alterações levadas a efeito no art. 11 da Lei de Improbidade (ARE 803.568-AgR-segundo-Edv).
+3. A conduta de deixar de recolher ou deixar de repassar as contribuições previdenciárias ou o FGTS dos servidores, utilizando os valores para outros gastos públicos mais prementes, no sentir do administrador, não tipifica as hipóteses taxativas previstas no art. 11 da LIA.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.970.761/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. CONDENAÇÃO EXCLUSIVA COM BASE NO ART. 11, II, DA LEI 8.429/1992. SUPERVENIÊNCIA DA LEI 14.230/2021. INCIDIÊNCIA AOS PROCESSOS EM CURSO. TEMA 1199 DA REPERCUSSÃO GERAL. PRECEDENTES DO STF. AGRAVO INTERNO PROVIDO.
+1. No acórdão objeto do recurso especial, o Tribunal de origem, com fundamento no art. 11, II, da Lei 8.429/1992 e no reconhecimento de dolo genérico na conduta imputada, julgou procedente o pedido em ação civil pública ajuizada pelo Ministério Público Federal, para condenar o agravante, ex-servidor público federal, pela prática de ato de improbidade administrativa, consubstanciado em irregularidades na condução de processo administrativo disciplinar.
+2. O STF, ao concluir o julgamento do Tema 1199 da Repercussão Geral, fixou tese no sentido de que "a nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente".
+3. Após o julgamento do Tema 1199 da Repercussão Geral, o STF vem decidindo que "as alterações promovidas pela Lei 14.231/2021 ao art. 11 da Lei 8.249/1992 aplicam-se aos atos de improbidade administrativa praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado" (AREsp 803.568 AgR-segundo-EDv-ED, relator Luiz Fux, relator p/ acórdão Gilmar Mendes, Tribunal Pleno, julgado em 22/8/2023, DJe de 6/9/2023).
+4. No caso, deve ser reconhecida a extinção da punibilidade do agravante, tendo em vista versar sobre condenação exclusiva pela prática do ato previsto no art. 11, II, da Lei 8.429/1992, revogado, estando a ação em curso quando da fixação do tema de repercussão geral, já mencionado, inexistindo, ademais, pretensão de ressarcimento de dano ao erário.
+5. Agravo interno provido.
+(AgInt no REsp n. 1.853.626/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 14/5/2024, DJe de 20/5/2024.)
+Isso posto, reconheço a extinção da punibilidade da parte recorrente, e julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
