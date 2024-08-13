@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/08/2024 a 13/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata nenhum dos vícios mencionados, pretendendo a parte embargante, uma vez mais, o reexame de questão acerca da admissibilidade dos embargos de divergência, devidamente analisada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 521/525) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fls. 509/510):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AGRAVO INTERNO. INADMISSIBILIDADE DO RECURSO ESPECIAL EM RAZÃO DA SÚMULA N. 284/STF. AUSÊNCIA DE SEMELHANÇA ENTRE OS CASOS CONFRONTADOS. SÚMULA 315/STJ. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO. REQUISITOS DO ART. 1.043, § 4º, DO CPC DE 2015. INOBSERVÂNCIA. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte está sedimentada no sentido de que deve existir similitude fático-jurídica entre o acórdão embargado e o paradigma, nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o que não se verifica nestes autos, tendo em vista que o acórdão recorrido, diversamente do paradigma, não apreciou matéria de mérito, em razão da Súmula n. 284/STF.
+2. Configura pressuposto indispensável para a comprovação da divergência jurisprudencial a adoção de uma das seguintes providências quanto a paradigma indicado como divergente: (a) a juntada de certidões; (b) a apresentação de cópia do inteiro teor do julgado (ementa/acórdão, relatório, votos e certidão/termo de julgamento); (c) a citação do repositório oficial, autorizado ou credenciado, em que se ache publicado, inclusive em mídia eletrônica; e (d) a reprodução do julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na internet.
+Portanto, a falta de juntada da cópia do inteiro teor do paradigma configura vício substancial insanável, fato que impede o trânsito dos embargos de divergência (AgRg nos EAREsp n. 2.026.579/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, DJe de 27/3/2023, AgRg nos EAREsp n. 2.205.239/CE, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 15/12/2023).
+3. Deve a parte embargante indicar link da rede mundial de computadores que forneça acesso direto ao respectivo inteiro teor do paradigma, para atender ao requisito do art. 1.043, § 4º, do CPC/2015 (AgInt na Pet n. 14.755/SP, relatora Ministra MARIA ISABEL GALLOTTI, CORTE ESPECIAL, DJe de 17/10/2023; AgInt nos EAREsp n. 2.165.658/PR, relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 22/6/2023).
+4. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante, após realizar síntese da demanda, afirma que houve erro material e omissão no acórdão, argumentando que (e-STJ fl. 523):
+2.13.- Sempre respeitado o livre convencimento, mas na compreensão dos recorrentes, a partir do momento no qual se decidiu examinar o mérito das razões do recurso especial, a r. decisão não poderia quedar-se silente acerca do pedido de revisão fundado no artigo 10 do Código de Processo Civil, matéria de ordem pública, sob pena de manifesta contrariedade aos ar(gos 93, inciso IX e 105, inciso III, da Carta Magna.
+2.14.- Opostos os embargos de declaração para sanar os defeitos da r. decisão, estes foram rejeitados, dando ensejo a interposição de agravo interno, ao qual foi negado provimento, ensejando os embargos de divergência também rejeitados em decisão monocrática, provocando a interposição de agravo interno ao qual foi negado provimento.
+2.15.- De fato, são muitas as dificuldades encontradas para sanar a omissão de uma sentença que julgou uma causa improcedente por defeito da petição inicial SEM conceder a parte o direito de emendá-la e a correção do erro material estampado no v. acórdão que NÃO verificou o direito da parte autora estampado na sub-rogação estabelecida expressamente no EDITAL que resultou na venda do bem imóvel cuja outorga da escritura é pleiteada.
+2.16.- Há evidente repetição da manifesta contrariedade aos ar(gos 10, 321 e 1.013 do Código de Processo Civil.
+2.17.- Nestes termos, servem estes embargos de declaração agora opostos em face do v. acórdão (e-STJ fls. 509-515), sem qualquer intenção procrastinatória, objetivando a correção do erro material e para sanar omissão que se repetiu ao longo do processo e permaneceu no v. acórdão embargado, e para prequestionar os artigos 93, inc. IX e 105, inc. III, da Constituição Federal, nos termos descritos acima, à luz do direito maior de moradia e da dignidade da pessoa humana.
+Ao final, pede "acolhimento e provimento destes embargos de declaração a fim de que seja sanada a omissão ressaltada, bem como a correção do erro material apontado e para prequestionar os artigos 93, inc. IX, e 105, inc. III, da Constituição Federal" (e-STJ fl. 524).
+Foi apresentada impugnação às fls. 528/530 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso, não se constata nenhum dos vícios mencionados, pretendendo a parte embargante, uma vez mais, o reexame de questão acerca da admissibilidade dos embargos de divergência, devidamente analisada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Cuida-se de embargos de declaração opostos ao acórdão da CORTE ESPECIAL que negou provimento ao agravo interno da parte ora embargante, nos seguintes termos (e-STJ fls. 512/515):
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos, os quais devem ser mantidos (e-STJ fls. 478/480):
+ ..
+Conforme dispõem os arts. 1.043, I, do CPC/2015 e 266, I, do RISTJ, os embargos de divergência se destinam à uniformização da jurisprudência desta Corte, eliminando eventuais discrepâncias de teses entre acórdãos de turmas ou seções distintas, acerca do mesmo tema jurídico.
+Os embargos, assim, são incabíveis pois o acórdão embargado, apesar de concluir pelo desprovimento do recurso especial, assim o fez em razão da Súmula n. 284/STF, realizando somente a análise concreta dos requisitos de admissibilidade recursal. Aplicável a Súmula n. 315/STJ.
+As razões da parte embargante acerca da desnecessidade da cópia do inteiro teor do paradigma (AgInt no AgInt no AREsp n. 921.409/SP, QUARTA TURMA, Relatora Ministra MARIA ISABEL GALLOTTI, julgado em 22/05/2023) não prosperam, pois, "no que diz respeito à cópia do "inteiro teor" do acórdão paradigma, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp n. 1.903.273/PR, Relator Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 10/5/2022, DJe de 16/5/2022).
+A parte embargante deixou de juntar a certidão de julgamento do acórdão paradigma, limitando-se a transcrever parte do acórdão, como indicou a decisão agravada. Ademais, a parte embargante indicou link (www.stj.jus.br) da rede mundial de computadores por meio do qual teria obtido a cópia do paradigma, mas que, na verdade, não fornece acesso direto ao respectivo inteiro teor.
+Assim, não foi atendido o requisito do art. 1.043, § 4º, do CPC/2015.
+Nesse sentido: AgInt na Pet n. 14.755/SP, Relatora Ministra MARIA ISABEL GALLOTTI, CORTE ESPECIAL, DJe de 17/10/2023; AgInt nos EAREsp n. 2.165.658/PR, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 22/6/2023.
+Tais vícios possuem natureza substancial, sendo, portanto, insanáveis, não incidindo os arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015.
+Sobre o tema:
+ ..
+Assim, mantenho a decisão impugnada, ante a ausência de razões novas capazes de alterar seus fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
+O acórdão ora embargado apreciou os arestos confrontados para afirmar que: "Os embargos, assim, são incabíveis pois o acórdão embargado, apesar de concluir pelo desprovimento do recurso especial, assim o fez em razão da Súmula n. 284/STF, realizando somente a análise concreta dos requisitos de admissibilidade recursal. Aplicável a Súmula n. 315/STJ.  ..  As razões da parte embargante acerca da desnecessidade da cópia do inteiro teor do paradigma (AgInt no AgInt no AREsp n. 921.409/SP, QUARTA TURMA, Relatora Ministra MARIA ISABEL GALLOTTI, julgado em 22/05/2023) não prosperam, pois, "no que diz respeito à cópia do "inteiro teor" do acórdão paradigma, a jurisprudência da Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento" (AgInt nos EREsp n. 1.903.273/PR, Relator Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 10/5/2022, DJe de 16/5/2022)". Dessa forma, foram analisados todos os arestos trazidos a confronto, porém com desfecho desfavorável à parte embargante.
+Os vícios previstos no art. 1.022 do CPC, portanto, não estão caracterizados, sendo inviável o acolhimento dos presentes aclaratórios tão somente para efeito de reformar o acórdão embargado, que manteve o indeferimento liminar dos embargos de divergência pelos fundamentos supramencionados.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
