@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/08/2024 a 13/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO COATOR JUDICIAL. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. AUSÊNCIA. DESCABIMENTO DA IMPETRAÇÃO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ orienta no sentido de que o cabimento de mandado de segurança contra ato judicial exige seja desde logo evidenciada sua flagrante ilegalidade ou teratologia, circunstâncias não identificadas no caso presente.
+1.1. Na espécie, o ato apontado como coator - acórdão da Corte Especial do STJ que confirmou a decisão pela intempestividade do recurso da impetrante - está suficientemente fundamentado, e encontra amparo nas teses firmadas nos Temas n. 181 e 339 da Repercussão Geral do STF.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 334/337 (e-STJ), por meio da qual indeferi liminarmente o mandado de segurança, extinguindo o processo sem a resolução do mérito.
+Em suas razões (e-STJ, fls. 347/353), o agravante afirma tratar-se de impetração contra ato revestido de teratologia, especificamente em relação à "ausência de fundamentação e até mesmo motivação, inclusive legal, acerca da fé pública que é dotada do comprovante de protocolo físico do AREsp nº 2300097 - SP, que foi entregue ao patrono do Agravante no ato do protocolo, realizado regularmente e tempestivamente, contendo todos os dados corretos do processo e endereçamento" (e-STJ, fl. 349).
+No mais, reitera argumentos deduzidos na peça inicial do writ.
+Resposta da União Federal às fls. 360/361 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO COATOR JUDICIAL. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. AUSÊNCIA. DESCABIMENTO DA IMPETRAÇÃO. DECISÃO MANTIDA.
+1. A jurisprudência do STJ orienta no sentido de que o cabimento de mandado de segurança contra ato judicial exige seja desde logo evidenciada sua flagrante ilegalidade ou teratologia, circunstâncias não identificadas no caso presente.
+1.1. Na espécie, o ato apontado como coator - acórdão da Corte Especial do STJ que confirmou a decisão pela intempestividade do recurso da impetrante - está suficientemente fundamentado, e encontra amparo nas teses firmadas nos Temas n. 181 e 339 da Repercussão Geral do STF.
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não comporta acolhida.
+O agravante não trouxe argumentos capazes de afastar os fundamentos da decisão agravada, cuja motivação subsiste (e-STJ, fls. 334/337):
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por SERVIÇO SOCIAL DA CONSTRUÇÃO CIVIL DO ESTADO DE SÃO PAULO - SECONCI/SP, contra ato da Corte Especial do STJ consubstanciado no acórdão proferido no âmbito do Aglnt no RE nos EDcl no Aglnt no AREsp n. 2.300.097/SP, assim ementado (e-STJ, fls. 313/314):
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIA DA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE DE DEBATE OU SUPERAÇÃO. TEMA N. 181/STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF, tese de observância obrigatória (CPC, art. 927, III).
+3. Quanto às demais alegações, em caso de não conhecimento do recurso anterior por ausência de algum de seus requisitos, as razões do recurso extraordinário, sejam voltadas ao óbice aplicado ou à matéria de fundo, demandariam a reapreciação da conclusão que não conheceu do recurso.
+4. A Corte Suprema definiu, sob o regime da repercussão geral, que a questão relativa a pressupostos de admissibilidade de recurso da competência de outros tribunais não possui repercussão geral (Tema n. 181 do STF).
+5. Nos termos do art. 1.030, I, a, do Código de Processo Civil, não é possível a remessa do recurso extraordinário ao STF nos casos em que definida a ausência de repercussão geral.
+6. Agravo interno a que se nega provimento.
+O agravo interno impugnou decisão do em. Vice-Presidente do STJ, que negou seguimento a recurso extraordinário interposto pelo impetrante, aplicando o entendimento firmado nos Temas n. 181 e 339 da Repercussão Geral do STF. Em síntese, argumenta a impetrante pela tempestividade de seu agravo nos próprios autos, aduzindo irregularidade no cancelamento de protocolo levado a efeito no âmbito do TJSP. Afirma ilegal o ato coator impugnado, que não teria examinado argumentos assim sintetizados (e-STJ, fls. 10/11):
+- a ausência de reconhecimento da fé pública que é dotado do comprovante de protocolo físico realizado regularmente e tempestivamente pelo Impetrante na comarca de origem, bem como;
+- a ilegalidade do cancelamento arbitrário do registro de protocolo físico da petição de agravo, sem o prévio conhecimento do Impetrante;
+- aplicação do prazo em dobro, quando da interposição do Agravo em Recurso Especial, prazo este que se estende para todos os atos processuais em qualquer juízo ou tribunal, independentemente de requerimento.
+Ao fim, formula pedidos nos seguintes termos (e-STJ, fl. 14/15):
+Ante todo o exposto, requer se digne Vossa Excelência conceder medida liminar para que seja determinado à autoridade Impetrada, admitir o AgInt no RE interposto, reconhecendo a repercussão geral existente, determinado o processamento do recurso extraordinário ao Supremo Tribunal Federal, para a apreciação das razões recursais.
+Requer, outrossim, que se digne Vossa Excelência conceder a segurança, em caráter definitivo, para confirmar os efeitos da medida liminar deferida, garantindo-se o direito líquido e certo do Impetrante de ver apreciadas as suas razões recursais pelo Supremo Tribunal Federal, em garantia ao contraditório e à ampla defesa.
+É o relatório.
+Decido.
+É assente na jurisprudência desta Corte Superior o entendimento de que a impetração de mandado de segurança contra ato judicial exige seja desde logo evidenciada sua flagrante ilegalidade ou teratologia, o que não se verifica no caso presente.
+Com efeito, a autoridade indicada como coatora - Corte Especial do STJ - ratificou decisão do em. Relator que negou seguimento ao recurso extraordinário da impetrante, fazendo-o em razão do entendimento firmado nos Temas n. 181 e 339 da Repercussão Geral do STF.
+Isso porque o acórdão que confirmou a decisão pela intempestividade do recurso da impetrante está suficientemente fundamentado, afirmando a ausência de comprovação de suspensão do prazo processual e, da mesma forma, do alegado erro no protocolo realizado na instância precedente.
+Além disso, conforme orienta a tese firmada na RG n. 181/STF, " a  questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Nesse contexto, o que se colhe das razões iniciais é que a impetrante tem por escopo utilizar o mandado de segurança como sucedâneo de recurso, desfigurando o cabimento do remédio constitucional, o que não se admite. Cite-se, a propósito:
+AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ATO COATOR. DECISÃO DE MINISTRO DESTA CORTE. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE. INADMISSIBILIDADE MANIFESTA DO WRIT. SÚMULA 267 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é uníssona no sentido de ser inadmissível a impetração de mandado de segurança contra ato jurisdicional, salvo em caso de teratologia ou de flagrante ilegalidade, hipóteses afastadas pela decisão proferida pela Presidência deste Superior Tribunal de Justiça, objeto do presente agravo.
+2. Na espécie, o agravante defende que padece de ilegalidade a decisão proferida nos autos do CC n. 186.821/MG, na qual restou afastada a alegada ausência de fundamentação para manutenção do preso no Sistema Penitenciário Federal e foi citado precedente desta Corte Superior, no sentido de que, "uma vez explicitada adequadamente a necessidade da transferência do preso para presídio de segurança máxima, não cabe ao Juízo Federal Corregedor da Penitenciária Federal emitir juízo de valor a respeito do decidido pelo Juízo de origem, único habilitado, a partir da análise do caso concreto, a aferir a necessidade de adoção da medida, nos termos da orientação desta Corte".
+3. Ademais, a Corte Especial do STJ entende que "(..) não cabe a impetração de mandado de segurança para impugnar acórdão que tem fundamento na jurisprudência desta Corte Superior" (AgInt no MS n. 2.080/DF, relator Ministro Francisco Falcão, Corte Especial, julgado em 24/5/2022, DJe de 27/5/2022).
+4. Verifica-se, portanto, que os argumentos alinhados na petição inicial e reprisados no presente agravo regimental demonstram que o recorrente, em verdade, utiliza-se do mandado de segurança como sucedâneo recursal, por não se conformar com o resultado do julgamento, em postura repudiada por esta Corte Superior.
+5. Agravo regimental a que se nega provimento.
+(AgRg no MS n. 28.736/DF, relator Ministro Jorge Mussi, Terceira Seção, julgado em 14/12/2022, DJe de 16/12/2022.)
+Por todo o exposto, com fundamento no art. 10 da Lei Federal n. 12.016/2009 c.c. o art. 34, XIX, do RISTJ, INDEFIRO LIMINARMENTE o mandado de segurança, julgando extinto o processo, sem a resolução do mérito.
+Publique-se. Intimem-se.
+Efetivamente, o acórdão que consubstancia o ato coator está suficientemente fundamentado, e encontra amparo nas teses firmadas nos Temas n. 181 e 339 da Repercussão Geral do STF.
+Nesse contexto, não há falar em teratologia ou flagrante ilegalidade.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
