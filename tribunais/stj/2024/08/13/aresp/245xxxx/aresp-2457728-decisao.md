@@ -1,0 +1,10 @@
+DECISÃO
+Agrava-se da inadmissão de recurso especial interposto por DELVILTON COSTA AMARAL para impugnar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+O agravo preenche os requisitos de admissibilidade, o que autoriza a invocação do art. 253, parágrafo único, II, do Regimento Interno do STJ para se examinar, de pronto, o recurso especial interposto.
+Não cabe conhecer do recurso especial quanto à sua interposição por c, haja vista que o recorrente limitou-se à transcrição de ementas de julgados do STJ, sem proceder ao cotejo analítico entre o acórdão recorrido e aqueles indicados como paradigmas de confrontação.
+Do mesmo modo, não cabe conhecer do recurso por a, já que o acórdão recorrido deu solução à controvérsia sem escorar-se nos dispositivos legais havidos como violados pelo recorrente (arts. 1.784 e 1.791 do Código Civil e arts. 278, "caput", e parágrafo único, e 313, I, e § 2º do CPC), não tendo havido, na origem, a oposição de embargos declaratórios com vistas à superação de eventual omissão no acórdão impugnado.
+Constata-se, assim, ausência de adequado prequestionamento, a tornar incognoscível o recurso nos termos do entendimento consolidado na Súmula 282/STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Por fim, tem -se que o acórdão recorrido conferiu solução à demanda invocando, para tanto, o dispositivo legal do art. 485, VI, e § 3º do CPC, ao passo que o recorrente, em sua peça recursal, alega violação ao art. 485, IV, e § 3º do CPC. Nota-se aqui infringência à dialeticidade, circunstância que impede ao Tribunal compreender com exatidão a controvérsia e enseja o não conhecimento do recurso por aplicação do entendimento consolidado na Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
