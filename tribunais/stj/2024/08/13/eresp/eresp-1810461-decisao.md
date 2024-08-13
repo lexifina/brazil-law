@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Roberto de Gouveia Rego, com fulcro no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fls. 139-140):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM PERDAS E DANOS E REINTEGRAÇÃO DE POSSE. PRELIMINARES. PRESCRIÇÃO. ACÓRDÃO EM AGRAVO DE INSTRUMENTO INTERPOSTO PELO RÉU QUE NÃO ANALISOU A QUESTÃO, EM RAZÃO DE NÃO HAVER DECISÃO A RESPEITO EM PRIMEIRO GRAU. PRETENSÃO DE NATUREZA PESSOAL. PRAZO DECENAL. INOCORRÊNCIA DA PRESCRIÇÃO. ALEGAÇÃO DE NULIDADE DO PROCESSO ANTE A NÃO FORMAÇÃO DE LITISCONSÓRCIO PASSIVO COM A EX-CÔNJUGE DO RÉU. DEMANDA QUE NÃO VERSA SOBRE DIREITOS REAIS IMOBILIÁRIOS OU POSSE. ART. 10 DO CPC/73. AÇÃO DE NATUREZA PESSOAL. CONSTITUIÇÃO EM MORA REALIZADA. NOTIFICAÇÃO RECEBIDA NO ENDEREÇO INDICADO NO CONTRATO. MÉRITO. AUSÊNCIA DE CLÁUSULA SUSPENSIVA DO PAGAMENTO. POSSIBILIDADE DE RESTITUIÇÃO DO SINAL DE NEGÓCIO AO RÉU. VALOR A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA. PERDAS E DANOS. PAGAMENTO DE ALUGUERES EM RAZÃO DA OCUPAÇÃO DO IMÓVEL. MERO PARÂMETRO INDENIZATÓRIO. PRESCRIÇÃO DA PRETENSÃO RELATIVA ÀS PERDAS E DANOS. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 206, § 3º, I, DO CÓDIGO CIVIL. REINTEGRAÇÃO DE POSSE QUE DEVE RESPEITAR O TRÂNSITO EM JULGADO DO ACÓRDÃO, OBSERVADO O DIREITO À RETENÇÃO PELAS BENFEITORIAS NECESSÁRIAS E ÚTEIS. ART. 1.219, DO CC. POSSIBILIDADE DE COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 306 DO STJ. RECURSO DE APELAÇÃO (1) PARCIALMENTE PROVIDO. RECURSO DE APELAÇÃO (2) NÃO PROVIDO.
+Opostos embargos de declaração por ambas as partes, eles foram rejeitados.
+Nas razões do apelo especial, o recorrente aponta violação ao art. 206, § 5º e seu inciso I, do CC, sob a assertiva de que tratar-se-ia de demanda mista, tendo em vista que, além da rescisão contratual, haveria pedido indenizatório, o que ensejaria a aplicação do prazo prescricional quinquenal.
+Indica divergência jurisprudencial quanto à interpretação do art. 206, § 3º e seu inciso I, do CC, sob o argumento de que incidiria o prazo prescricional trienal no tocante à pretensão de recebimento dos valores relativos aos alugueis.
+Suscita ofensa aos arts. 1.225 do CC, e 10, § 1º e seu inciso I, e § 2º, do CPC/1973, sob a alegação de que, embora esteja separado de fato de Camila Scarante Rego, esta deveria figurar no polo passivo da demanda, pois, à época da aquisição do imóvel, foi uma das promissárias-compradoras, constando, inclusive, na matrícula do imóvel, além do fato de que ela seria compossuidora.
+Relata divergência jurisprudencial e afronta aos arts. 473 e 474 do CC, sob a afirmação de que a notificação extrajudicial que lhe foi enviada não possuía em seu conteúdo a concessão de prazo para pagamento, além do fato de não lhe ter sido pessoalmente entregue, de modo que não teria sido constituído em mora.
+Aventa malferimento ao art. 397 do CC, sustentando que a escritura pública não conteria valor líquido, ante a necessidade de atualização dos valores por meio de índice não indicado expressamente, sendo, portanto, impossível a rescisão do negócio jurídico de imediato.
+Contrarrazões apresentadas (e-STJ, fls. 390-399).
+Brevemente relatado, decido.
+De início, verifica-se que o Tribunal originário, ao examinar a controvérsia, consignou que "somente seria necessária a presença da esposa do réu como litisconsorte passivo caso a ação versasse sobre direito real imobiliário ou nas ações possessórias em que houvesse composse ou ato por ambos praticados, o que não ocorre no caso concreto, posto se tratar de ação de natureza pessoal e contrato firmado apenas com o réu" (e-STJ, fl. 147).
+Sobre o tema, esta Corte de Uniformização perfilha o entendimento de que é desnecessária a citação do cônjuge do promissário-comprador em ação que busca a rescisão da promessa de compra e venda de imóvel, pois a discussão versa apenas sobre direitos obrigacionais, inexistindo litisconsórcio passivo necessário.
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. REPARAÇÃO DE DANOS. FATO NOVO NA VIA ESPECIAL. INVIABILIDADE. LITISCONSÓRCIO ATIVO. CÔNJUGE. AÇÃO PESSOAL. DESNECESSIDADE. PRAZO PRESCRICIONAL. PRETENSÃO DECORRENTE DE INADIMPLEMENTO CONTRATUAL. PRAZO DECENAL. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser dispensável a citação de cônjuge do comprador em ação que vise à rescisão de contrato de promessa de compra e venda de imóvel, pois a discussão trata apenas de direitos obrigacionais, não existindo litisconsórcio passivo necessário. Precedentes.
+ ..
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.754.242/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/6/2021, DJe de 21/6/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISCONSÓRCIO NECESSÁRIO. NÃO OCORRÊNCIA. AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA. SÚMULA Nº 7/STJ. CITAÇÃO DE CÔNJUGE DO COMPRADOR EM AÇÃO QUE VISE À RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PRESCINDIBILIDADE. SÚMULA Nº 568/STJ.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser dispensável a citação de cônjuge do comprador em ação que vise à rescisão de contrato de promessa de compra e venda de imóvel, pois a discussão trata apenas de direitos obrigacionais, não existindo litisconsórcio passivo necessário. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.363.648/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/3/2020, DJe de 7/4/2020.)
+Registre-se, ademais, que a reintegração de posse é mera decorrência do pedido de rescisão contratual, de ordem pessoal, bastando, portanto, a citação do cônjuge que firmou o compromisso (REsp n. 34.197/SP, relator Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 25/6/1996, DJ de 26/8/1996, p. 29686).
+Dessa forma, por estar o acórdão recorrido em consonância ao entendimento desta Casa, de rigor a sua manutenção.
+Outrossim, é certo que não haveria como desconstituir a convicção estadual acerca da inexistência de composse sem o prévio revolvimento do acervo fático-probatório, procedimento inviável na via eleita, ante a previsão contida na Súmula 7/STJ.
+No tocante à necessidade de que a notificação extrajudicial seja feita de forma pessoal, nota-se que a questão foi decidida pelo Colegiado local à luz do disposto no Decreto-Lei n. 745/1969, não tendo aquele órgão se manifestado acerca da eventual aplicabilidade dos arts. 473 e 474 do CC.
+Logo, revela-se evidente a ausência de prequestionamento do tema trazido no apelo especial, o qual nem sequer foi aventado nos aclaratórios opostos na origem, atraindo a incidência das Súmulas 282 e 356 do STF.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. ARTIGO 1022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO PER RELATIONEM. ACRÉSCIMO DE FUNDAMENTOS NO ACÓRDÃO RECORRIDO. VÍCIO DE PROCEDIMENTO DESCARACTERIZADO. CÓPIA DE TÍTULO EXECUTIVO. DOCUMENTO HÁBIL À PROPOSITURA DE AÇÃO MONITÓRIA. PRECEDENTES. SÚMULA 83/STJ. TAXA DE JUROS REMUNERATÓRIOS ANUAL INFERIOR A 12%. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. PREVISÃO EM DESTAQUE DA TAXA DE JUROS CONTRATADA. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NÃO PROVIDO.
+
+4. Inexistente prequestionamento acerca da previsão de cláusula contratual em destaque acerca dos juros remuneratórios, não há como examinar a controvérsia de modo originário em recurso especial, em razão do óbice do prequestionamento, atraindo a aplicação das Súmulas 282 e 356/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.038.866/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+No que se refere ao conteúdo da notificação extrajudicial e à suposta iliquidez da dívida, percebe-se que, apesar da oposição dos embargos de declaração, não houve pronunciamento, pela segunda instância, sobre as teses albergadas pelos citados dispositivos legais.
+Portanto, fica clara a falta de prequestionamento, condição indispensável ao conhecimento da insurgência, o que atrai a aplicação da Súmula 211 deste Tribunal , que dispõe ser "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ilustrativamente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 85, §§2º, 3º E 8º, DO CÓDIGO DE PROCESSO CIVIL; 2º E 60 DA LEI N. 8.666/93; 413, IX, "C", DO DECRETO N. 7.212/2010; 62 E 63 DA LEI N. 4.320/1964; 20, 21 E 22 DA LINDB; 1º, §2º, DA LEI N. 6.899/1981 E 15, 16, CAPUT; I, 17, §1º E 21,I, DA LEI COMPLEMENTAR N. 101/2000. INCIDÊNCIA DA SÚMULA N. 211/STJ. NOTA DE EMPENHO. LEGALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. FATO CONSTITUTIVO DO DIREITO. PROVA. ÔNUS DO AUTOR. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+ ..
+X - Agravo Interno improvido.
+(AgInt no REsp n. 2.058.734/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Noutro ponto, a jurisprudência deste STJ é assente no sentido de que, nas demandas envolvendo resolução contratual cumulada com reintegração de posse e indenização por perdas e danos, o prazo prescricional aplicável é decenal.
+A propósito:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL CUMULADA COM REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. INADIMPLEMENTO DO COMPRADOR. PRESCRIÇÃO. PRAZO DECENAL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, nas demandas envolvendo resolução contratual cumulada com reintegração de posse, a prescrição obedece ao prazo decenal do art. 205 do Código Civil. Incidência da Súmula nº 83 do STJ.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.545.948/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL E REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA DA PARTE DEMANDADA.
+ ..
+2. De acordo com a jurisprudência desta Corte Superior, "Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual. Não havendo na lei regra limitando o tempo para a decadência do direito de promover a resolução do negócio, a ação pode ser proposta enquanto não prescrita a pretensão de crédito que decorre do contrato. No caso, a pretensão veiculada é de resolução do contrato, reintegração na posse do bem imóvel litigioso e condenação da parte recorrida em perdas e danos, de modo que incide a prescrição decenal" (AgInt no REsp n. 1.955.059/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 3/5/2022.). Incidência da Súmula 83/STJ.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.456.009/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+Assim, observa -se que o acórdão impugnado, ao concluir pela aplicação do prazo prescricional decenal à pretensão autoral, está em harmonia com o entendimento desta Corte de Superior, não merecendo reparos no ponto.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM PERDAS E DANOS E REINTEGRAÇÃO DE POSSE. 1. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DIREITO OBRIGACIONAL. DESNECESSIDADE DE CITAÇÃO DO CÔNJUGE DO PROMISSÁRIO-COMPRADOR. PRECEDENTES. 2. NOTIFICAÇÃO PESSOAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. CONTEÚDO DA NOTIFICAÇÃO EXTRAJUDICIAL E ILIQUIDEZ DA DÍVIDA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 4. DEMANDA ENVOLVENDO RESCISÃO CONTRATUAL, REINTEGRAÇÃO DE POSSE E PERDAS E DANOS. PRAZO PRESCRICIONAL DECENAL. PRECEDENTES. 5. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
