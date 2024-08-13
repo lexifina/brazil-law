@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 07/08/2024 a 13/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. TEMA N. 339 DO STF.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão que negou seguimento ao recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 339 do STF seria inaplicável ao caso dos autos e que a fundamentação sobre a desconsideração do relevante laudo pericial produzido pelo Instituto de Medicina Social e de Criminologia de São Paulo - IMESC seria insuficiente.
+Argumenta, ainda, que não teriam sido apontadas outras violações constitucionais que levassem à aplicação do Tema n. 181 do STF.
+Requer o provimento do agravo para a admissão do recurso extraordinário e o encaminhamento dos autos ao Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. TEMA N. 339 DO STF.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339 do STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339 do STF.
+3. Agravo regimental a que se nega provimento.
+VOTO
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 da repercussão geral, firmou a seguinte tese vinculante: "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas."
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso, foram declinados, de forma satisfatória, os motivos da compreensão adotada no julgado recorrido.
+A matéria invocada pela parte recorrente foi expressamente examinada no acórdão recorrido, consoante se observa na seguinte transcrição:
+Os recorrentes foram condenados à pena de 2 anos de reclusão, em regime inicial aberto, como incursos no art. 129, § 2º, IV, do Código Penal.
+Eles relatam que o primeiro laudo realizado na vítima foi produzido pelo IML, o qual atestou deformidade permanente, resultando na denúncia por lesão corporal de natureza gravíssima, mas solicitaram novo exame na vítima, pelo IMESC, que também é órgão médico oficial do Estado de São Paulo, o qual expressamente reconheceu que não havia deformidade permanente, muito menos a deformidade citada na denúncia (o desalinho de ramo mandibular visível quando da fala).
+Ambos os recorrentes sustentam a tese, segundo a qual, inexiste qualquer dano estético apto a caracterizar deformidade permanente, conforme pontuou laudo oficial produzido pelo IMESC, com base no caso concreto, e, por isso, a desclassificação do crime, pelo qual foram condenados para o de lesão corporal grave, é de rigor. Ainda que se entenda pela possibilidade de se utilizar o laudo produzido pelo IML, necessário que se explique porque deve ele prevalecer em relação àquele elaborado pelo IMESC.
+Assim, eles pretendem a desclassificação da conduta para o crime de lesão corporal grave, previsto no inciso III do § 1º do art. 129 do CPP, ou anulação do acórdão para que outro seja prolatado, fundamentando-se o motivo pelo qual foi dado valor ao laudo produzido pelo IML e desprezadas as conclusões da perícia elaborada pelo IMESC
+O Tribunal de origem, nos embargos declaratórios, quanto à utilização do laudo produzido pelo IML, esclareceu o seguinte (fl. 171):
+Aduz o embargante, em síntese, que o v. acórdão foi omisso por não fundamentar a escolha do laudo utilizado para embasar a condenação do embargante.
+Todavia, no Brasil vige o sistema do livre convencimento motivado, pelo qual o Juiz, ao proferir decisão, deve demonstrar as provas e fundamentos que a sustentam, o que foi realizado na decisão que ora se recorre.
+Nesse sentido: "O julgador não está obrigado a refutar expressamente todas as teses aventadas pela defesa, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas. Precedentes." (STJ - RHC 47212 / RO - Ministro JORGE MUSSI - DJe 07/05/2015).
+No v. acórdão ficou claro que "Conforme os laudos do I. M. L. em decorrência dessas agressões sofridas, a vítima Luís Felipe permaneceu incapacitada para as ocupações habituais por mais de 30 (trinta) dias, assim como passou a apresentar debilidade permanente da função mastigatória e deformidade permanente no rosto (fls. 31, 86, 177 e 178/180)".
+O mencionado quadro probatório foi suficiente para o convencimento do Juiz Sentenciante e da 11ª Câmara Criminal a respeito da materialidade delitiva, donde se conclui não ter havido omissão alguma no v. acórdão, respeitado, assim, o princípio do livre convencimento motivado.
+Não há, portanto, omissão a ser sanada, pois o tópico da materialidade delitiva está bem fundamentado.
+Em verdade, está-se diante de mera insatisfação com o resultado do julgamento, quando se insiste na reanálise de teses defensivas, adquirindo os presentes embargos nítido caráter infringente, o que não pode ser admitido.
+De fato, de acordo com o princípio do livre convencimento motivado, o magistrado formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas (art. 155 do CPP).
+Logo, não havendo hierarquia de provas, o juiz possui a prerrogativa de livremente apreciá-las por meio de motivada decisão, o que ocorreu na espécie, não havendo manifesta ilegalidade na decisão recorrida.
+Quanto ao pedido de desclassificação da conduta, assim dispôs o acórdão recorrido (fls. 129-132):
+A materialidade delitiva foi comprovada pericialmente (fls. 176/180) e também pela prova oral.
+Quanto à autoria não há dúvidas, pois os réus confirmaram a ocorrência das agressões, no que foram corroborados pela palavra da vítima e das testemunhas presenciais, que narraram os fatos em plena harmonia, tal com descritos na denúncia, formando acervo probatório apto a sustentar a condenação dos réus, o que foi muito bem analisado na r. sentença.
+Além disso, os vídeos trazidos aos autos, mostram a dinâmica dos fatos, as agressões sofridas pela vítima, confirmando toda a prova oral colhida durante a instrução processual.
+A dinâmica dos fatos percebida nos autos é que a vítima se aproximou dos corréus e após entrevero verbal entre eles, LUCCAS desfere uma cabeçada na vítima e na sequência, o corréu LUIS FELIPE assume as agressões e desfere diversos socos na face da mesma.
+Conforme os laudos do I. M. L. em decorrência dessas agressões sofridas, a vítima Luís Felipe permaneceu incapacitada para as ocupações habituais por mais de 30 (trinta) dias, assim como passou a apresentar debilidade permanente da função mastigatória e deformidade permanente no rosto (fls. 31, 86, 177 e 178/180).
+Dessa forma, não é caso de desclassificação para a figura típica prevista no art. 129, § 1º, inc. III, do Código Penal (lesões corporais graves debilidade permanente de membro, sentido ou função).
+ ..
+Conclui o E. Desembargador Relator do aludido recurso de apelação que:
+"O fato de ter supostamente sofrido implante dentário, pago pelo apelante em ação cível, não afasta a gravidade da lesão nos termos do laudo pericial de fls. 80 e reconhecido na sentença atacada. Anote-se ainda, nenhum implante dentário pode ser considerado como substituto perfeito dos dentes naturais, diante das consequências que disso advém posto que são próteses estando sujeita a acidentes durante o ato mastigatório. "O paciente deve evitar alimentos excessivamente duros e de pigmentação forte.." (http://www.uff. br/implantodontia/index.php option=com_content&view= article&id=6&Itemid=6), devendo permanecer a lesão de natureza grave. Entendo que não deva ser desclassificada para o paragrafo 1º, inciso III, do artigo 129, uma vez que a perda de dente ainda que possa ser implantado, incide na alteração do conjunto dentário, função mastigatória; não é a prótese colocada que afasta essa conclusão, estampada no laudo pericial. Descabe, portanto, a desclassificação pretendida."
+Nestes mesmos termos e também sob os próprios fundamentos da r. sentença, fica mantida a condenação tal como proferida.
+Não há como afastar a coautoria já que restou claro nos autos que os réus agiram em conjunto, um aderindo à conduta do outro, não sendo relevante quem iniciou as agressões, ou quem as finalizou. Ficou evidenciado que ambos agrediram o réu, o que é suficiente para serem coautores do crime.
+Importante mencionar aqui que na fotografia de fls. 174, o réu LUCCAS envia mensagem para a vítima, se desculpando por ter iniciado o "desentendimento", evidenciando que partiu dele a motivação determinante para o início da briga
+Em suma, apesar do esforço das il. defesas, que em alto nível apresentaram seus argumentos em defesa de seus clientes, as provas apresentadas aos autos comprovaram de maneira clara os acontecimentos.
+A prova testemunhal e os vídeos confirmaram que após breve discussão a vítima foi violentamente agredida pelos réus.
+Já os laudos prova técnica que dá suporte ao magistrado comprovam a natureza gravíssima das lesões sofridas pela vítima.
+Desta forma, os fatos narrados na peça inicial acusatória, foram devidamente comprovados nos autos e se subsumem perfeitamente ao tipo penal previsto no art. 129, parágrafo 2º, do Código Penal, restando a condenações dos réus mantidas, nos moldes da r. sentença.
+Como se vê, o Tribunal de origem entendeu que não era o caso de desclassificação para a figura típica prevista no art. 129, § 1º, III, do Código Penal (lesões corporais graves), em virtude dos laudos técnicos que comprovam a natureza gravíssima das lesões sofridas pela vítima, pois permaneceu incapacitada para as ocupações habituais por mais de 30 dias, assim como passou a apresentar debilidade permanente da função mastigatória e deformidade permanente no rosto.
+Dessa forma, para se chegar a um entendimento diverso do Tribunal de Justiça, implicaria o revolvimento do contexto fático-probatório dos autos, providência inviável no julgamento do recurso especial, conforme verbete 7 da Súmula do STJ.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
