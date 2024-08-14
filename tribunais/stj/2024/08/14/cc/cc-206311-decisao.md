@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência suscitado pelo Juízo de Direito da 4ª Vara Cível de Balneário Camboriú/SC contra o Juízo de Direito da 25ª Vara Cível de Brasília/DF, nos autos da Ação ordinária ajuizada por Luimara Silva Godo Fagundes contra o Banco do Brasil.
+O juízo distrital declinou de sua competência, haja vista que "a parte consumidora reside na cidade de Balneário Camboriú/SC, seus advogados estão estabelecidos em Recife/PE, mas a ação fora distribuída em Brasília/DF" (fl. 439).
+Assim, remeteu os autos para o juízo catarinense que, por sua vez, discordou da decisão e suscitou o presente Conflito, alegando que a Súmula 33/STJ veda a declinação de ofício de competência territorial, bem como que a parte possui direito de escolher o foro de seu domicílio ou do réu, no caso, o Banco do Brasil.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.07.2024.
+Com razão o juízo suscitado.
+De fato, quando a demanda é p roposta pelo consumidor, é possível optar entre o seu domicílio, o do réu, o de eleição ou o do cumprimento da obrigação, no juízo que melhor atenda a seus interesses, sendo caso, portanto, de competência relativa.
+Ademais, não se desconhece o teor da Súmula 33/STJ, que veda a declinação de ofício da competência relativa.
+Não obstante, em que pese as referidas opções à disposição da parte em comento, o entendimento do STJ é de que o consumidor, ainda que possa eleger o foro que melhor atenda a seus interesses, não poderá optar pelo ajuizamento de Ação de maneira aleatória, interpondo-a em foro sem qualquer correlação razoável com a causa ou com as partes.
+O juízo distrital salientou que a parte reside em Balneário Camboriú/SC e que seus advogados estão estabelecidos em Recife/PE, mas a Ação teria sido, sem justificativa, ajuizada em Brasília/DF.
+Assim, cabe ao juiz, ao perceber que o consumidor autor se afasta dos critérios processuais legais sem qualquer justificativa razoável, intervir para corrigir o defeito, mesmo de ofício, porquanto não se estaria diante de simples incompetência relativa, mas de arbitrária manipulação do foro judicial, significando abuso do direito de litigar e desrespeito às regras de competência previstas no ordenamento jurídico. Nesse sentido:
+CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. EFEITOS MODIFICATIVOS. PREVIDÊNCIA PRIVADA. FUNCEF. ECONOMIÁRIAS APOSENTADAS. RELAÇÃO DE CONSUMO. AJUIZAMENTO DA AÇÃO, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DA RÉ, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO OU DOMICÍLIO DAS AUTORAS. IMPOSSIBILIDADE.
+1. Verificada a presença de contradição no julgamento, possível conferir efeitos infringentes aos embargos de declaração a fim de extirpar o vício.
+2. Segundo entendimento desta Corte, nas ações propostas contra o consumidor, a competência pode ser declinada de ofício para o seu domicílio, em face do disposto no art. 101, inciso I, do CDC e no parágrafo único, do art. 112, do CPC.
+3. Se a autoria do feito pertence ao consumidor, contudo, permite-se-lhe a escolha do foro de eleição contratual, considerando que a norma protetiva, concebida em seu benefício, não o obriga, quando optar por demandar fora do seu domicílio.
+4. Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação.
+5. Embargos de declaração acolhidos com efeitos modificativos para conhecer do conflito, declarando competente a Justiça do Estado da Paraíba, anulada a sentença proferida pelo Juízo de Direito da 7ª Vara Cível do Foro Central de Porto Alegre, RS. (EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/2/2012, DJe 20/4/2012)
+AGRAVO REGIMENTAL EM AGRAVO (ARTIGO 544 DO CPC) - AÇÃO REVISIONAL DE BENEFÍCIO DE PREVIDÊNCIA PRIVADA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL.
+INSURGÊNCIA DO FUNDO DE PENSÃO.
+(..)
+2. Foro competente. 2.1. Cabe ao consumidor optar pelo foro de seu domicílio (artigo 101, inciso I, do código consumerista) ou pelo foro do domicílio do réu ou do local de cumprimento da obrigação (artigo 100 do CPC) ou pelo foro de eleição contratual (artigo 95 do CPC), não podendo, contudo, descartar tais alternativas legais e escolher, aleatoriamente, outro foro "com o fito de furtar-se ao juízo estabelecido na lei processual, prejudicar a defesa do réu ou auferir vantagem com a já conhecida jurisprudência do Judiciário estadual favorável ao direito material postulado" (EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Ministro Sidnei Beneti, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 08.02.2012, DJe 20.04.2012).
+2.2. Possibilidade de declinação de ofício pelo magistrado, quando constatadas a inobservância do princípio da facilitação da defesa do consumidor ou a escolha arbitrária da parte ou de seu advogado.
+3. Agravo regimental desprovido. (AgRg no AREsp 667.721/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9/6/2015, DJe 15/6/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE LIQUIDAÇÃO E EXECUÇÃO DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL. AJUIZAMENTO DO CUMPRIMENTO EM COMARCA QUE NÃO É DOMICÍLIO DO RÉU OU NA QUAL FOI PROFERIDA A SENTENÇA DA AÇÃO CIVIL PÚBLICA. IMPOSSIBILIDADE. SÚMULA Nº 83 DO STJ. RECURSO NÃO PROVIDO.
+1. A competência territorial, em se tratando de relação consumerista, é absoluta. Se a autoria do feito pertence ao consumidor, cabe a ele ajuizar a demanda no local em que melhor possa deduzir sua defesa, escolhendo entre seu foro de domicílio, no de domicílio do réu, no do local de cumprimento da obrigação, ou no foro de eleição contratual, caso exista. Inadmissível, todavia, a escolha aleatória de foro sem justificativa plausível e pormenorizadamente demonstrada. Precedentes. (AgRg no AREsp 391.555/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/4/2015, DJe 20/4/2015). Súmula nº 83 do STJ.
+2. A linha argumentativa apresentada pela agravante é incapaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada.
+3. Agravo regimental não provido. (AgRg no AREsp 676.025/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/5/2015, DJe 18/5/2015)
+Assim sendo, considerando que a escolha do foro judicial afigura-se em abuso do direito de litigar consubstanciado em decisão aleatória e arbitrária do consumidor, descabe a aplicação da Súmula 33/STJ por inexistir qualquer justa razão que vincule a parte à comarca ajuizada.
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 4ª Vara Cível de Balneário Camboriú/SC.
+Publique-se.
+Intimem-se.
+EMENTA
