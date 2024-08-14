@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" da Constituição Federal) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Ação de desapropriação Levantamento de 80% do valor - Admissibilidade Considerável diferença entre o montante apurado na perícia técnica e o ofertado pela expropriante Intensa discussão sobre o trabalho realizado pelo perito judicial Aparente inobservância da real situação do imóvel e das regras técnicas - Situação que não autoriza o levantamento de valor superior Inteligência do art. 33, § 2º, da Lei de Desapropriações - Decisão agravada mantida - Recurso desprovido.
+Na origem, cuida-se de Agravo de Instrumento interposto em Ação Expropriatória na qual foi deferido o levantamento de 80% do depósito prévio inicial realizado pelo expropriante, desconsiderada a parcela complementar já posta à disposição do Juízo.
+A recorrente alega violação do § 2º do art. 33 do Decreto-Lei 3.365/1941, além de dissídio jurisprudencial relativo à sua aplicação.
+O Recurso Especial foi inadmitido por incidência das Súmulas 7 e 83 do STJ, o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fl. 387 - 397.
+O Ministério Público Federal opinou pelo não provimento do Agravo (fls. 410 - 414)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.7.2024.
+Conheço do Agravo porque preenchidos os requisitos de admissibilidade, notadamente a impugnação aos fundamentos da decisão agravada.
+O Recurso Especial, contudo, não comporta acolhimento.
+De fato, a jurisprudência do Superior Tribunal de Justiça admite a interpretação ponderada do art. 33, § 2º, do Decreto-Lei 3.365/1941, à luz de critérios de prudência e cautela, em situações de discrepância entre o valor inicialmente ofertado e o encontrado pelo perito do Juízo.
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO DIRETA. DECRETO N. 3.365/41. IMISSÃO PROVISÓRIA. PARTE EXPROPRIADA QUE PRETENDE O PRONTO LEVANTAMENTO DE ELEVADO E CONTROVERSO VALOR ESTIMADO EM LAUDO APENAS PROVISÓRIO. ACÓRDÃO RECORRIDO QUE AUTORIZOU O LEVANTAMENTO DE VALOR CALCADO NO DEPÓSITO INICIAL OFERTADO PELO EXPROPRIANTE. PECULIARIDADES DO CASO CONCRETO. CORTE ESTADUAL QUE DECIDIU PAUTADA EM CRITÉRIOS DE PRUDÊNCIA E DE CAUTELA. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça tem a compreensão de que o percentual de levantamento provisório previsto no art. 33, §2º, do Decreto-Lei nº 3.365/41 deve incidir sobre o valor encontrado pelo laudo prévio.
+2. Todavia, tal diretriz pode comportar flexibilização consoante as peculiaridades de cada caso, assim, por exemplo, quando o Juízo detecta relevante discrepância entre o valor expresso no depósito inicial ofertado pelo expropriante e a cifra indicada no laudo prévio do expert.
+3. Na espécie, diante da grande disparidade entre o valor da oferta inicial (R$ 2.260.000,00) e o preço provisoriamente apurado pelo vistor judicial (primeiramente, RS 1.833.708,20 e, em posterior esclarecimento, R$ 15.547.708,20), entendeu o Tribunal de origem, à guisa de prudência e cautela, por autorizar o levantamento apenas da soma inicialmente depositada pelo expropriante, sem prejuízo de posterior e definitiva avaliação, cuja decisão, de per si, não induz malferimento aos arts. 15 e 33 do Decreto-Lei n. 3.365/41. Nesse sentido: AgRg no REsp 1.420.504/MG, Rel. Ministro HUMBERTO MARTINS, 2ª Turma, DJe 22/6/2015).
+4. Agravo interno da expropriada não provido.
+(AgInt no REsp 1.734.918/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25/2/2019, REPDJe de 26/2/2019.)
+Observo que o Tribunal a quo, ao constatar a gritante divergência de montantes defendidos pelas partes, deixa expressa a "intensa discussão" havida em torno do laudo pericial - que, inclusive, se imputa eivado de vícios - e afirma (fls.293):
+Diante de tais considerações, aparentemente o perito judicial não observou a real situação do imóvel e as regras técnicas correlatas para a sua avaliação, o que impõe cautela quanto ao levantamento de valor pretendido, mormente em montante baseado no laudo definitivo, como pretende a agravante.
+Identifica-se aí um contexto de dúvidas que, na verdade, deve dar ensejo à flexibilização do entendimento invocado pela recorrente para evitar o risco ao predicado da justa indenização.
+Desse modo, embora não olvide que, em situações de menor controvérsia entre as partes e de maior certeza judicial ancorada na prova havida nos autos, o percentual relacionado ao levantamento provisório deva incidir sobre o valor total já colocado previamente à disposição do Juízo, também não se desconsidera que, em circunstâncias específicas, tais como a da demanda em tela, é possível o balizamento. Esse é o pensamento externado pelo esta Corte Superior, o que torna adequada a aplicação a Súmula 83 do STJ.
+Leve-se em conta, outrossim, que a relevante circunstância de incerteza, assentada pelo Colegiado originário, somente poderia ser refutada mediante regresso ao acervo fático-probatório dos autos. Não se trata, como pretende a agravante, de aferir a questão jurídica relativa à base de incidência do percentual de levantamento, uma vez que já se admitiu a ponderação, mas do revolvimento da conjuntura que permite a quebra de rigidez. Incide no ponto a Súmula 7 do STJ.
+Por fim, no que diz respeito ao dissídio jurisprudencial, penso que o aresto formado no REsp 1.672.878/SP, na verdade, confirma a decisão das instâncias ordinárias, porquanto ali se pressupõe que o levantamento de parte incontroversa ocorrerá se e quando lastreado por margem de certeza que apenas a dilação probatória é capaz de propiciar.
+De qualquer forma, o exame fica prejudicado, seja porque o precedente é anterior àquele acima colacionado, seja porque o cotejo entre o caso dos autos e o cenário paradigma não poderia ser verificado sem superação do impedimento previsto na Súmula 7 do STJ, o que confirma o "pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica" (AgInt no AREsp 1.485.533/SP, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 22.6.2023).
+Por todo o exposto, nego provimento ao Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
