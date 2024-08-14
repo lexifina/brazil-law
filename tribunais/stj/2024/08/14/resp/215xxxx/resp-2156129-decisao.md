@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (fl. 322):
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. REJULGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DISTRITO FEDERAL. PARTE PATROCINADA PELA DEFENSORIA PÚBLICA. CONDENAÇÃO. REPERCUSSÃO GERAL. TEMA 1.002. RECURSO PROVIDO.
+1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que a integra (STF Tema 1.002). O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento da Defensoria Pública, vedado o seu rateio entre os membros da instituição.
+2. Recurso provido.
+Os Embargos de Declaração foram improvidos nestes termos (fl. 354):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NO JULGADO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. VIA IMPRÓPRIA. REJEIÇÃO.
+1. A inexistência de qualquer um dos vícios elencados no art. 1.022 do novo Código de Processo Civil no v. Acórdão embargado enseja a rejeição dos embargos de declaração.
+2. O inconformismo da parte com o resultado do julgamento deverá ser materializado por meio de recurso adequado, afastados os embargos declaratórios, cujo objetivo é tão somente o de depurar meras imperfeições no Julgado, in casu, inexistentes.
+3. Embargos de declaração não providos.
+A recorrente sustenta que o acórdão violou o art. 85, §§ 8º e 8º-A, do CPC. Aduz, em suma, que "o Acórdão recorrido concedeu provimento recursal para condenar o Distrito Federal no pagamento de honorários sucumbenciais a favor da Defensoria Pública do DF no valor de 20% sobre o valor da causa (R$ 998,00) com base no art. 85, do CPC. Verifica-se, assim, a violação ao que dispõe o Artigo 85, Parágrafos 8º e 8º- A, ambos do CPC ante a constatação de que, aplicando a regra preconizada pelo Parágrafo 2º do mesmo dispositivo, obter-se-á valor irrisório e violador à dignidade da justiça, desprestigiando e prejudicando o trabalho realizado pela instituição".
+Contrarrazões às fls. 379-386.
+Decisão de admissibilidade às fls. 389-390.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.7.2024.
+A irresignação não ultrapassa o exame do conhecimento.
+O Tribunal de origem, ao enfrentar a controvérsia, em juízo de adequação, consignou (fls.332-333 e 356-357):
+Determinado o retorno a esta Eg. Turma para readequação do Julgado à orientação promanada do Supremo Tribunal Federal, passo a apreciar novamente o recurso.
+Conforme dito no tema 1.002 de repercussão geral, o STF deu provimento ao recurso extraordinário para condenar a União ao pagamento de honorários em favor da Defensoria Pública da União, no valor de 10% sobre o valor da causa, nos termos do art. 85 do CPC, e fixou as seguintes teses:
+"1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra;
+2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição".
+Assim, com o tema firmado cessam os entendimentos até então expostos em julgados desta Eg. Corte, pelo que DOU PROVIMENTO ao recurso da Defensoria Pública do Distrito Federal para condenar o Distrito Federal ao pagamento de honorários advocatícios que fixo em 20% (vinte por cento) sobre o valor da causa (R$ 998,00) que deverá ser corrigido.
+O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento da Defensoria Pública, vedado o seu rateio entre os membros da instituição.
+É como voto.
+O Embargante alega a existência de omissão, eis que o valor dos honorários advocatícios é baixo e, por isso, defende que deve ser aplicada a tabela da OAB. Ao final, requer o acolhimento dos embargos, para que seja suprido o defeito apontado.
+Ocorre que o valor fixado a título de honorários seguiu estritamente o disposto no art. 85 §§ 2º e 11º, dividindo-se a sucumbência conforme o resultado do julgamento. Não há o que se falar, portanto, em aplicação da tabela da OAB.
+(..)
+Ademais, o inconformismo da parte embargante não é justificativa plausível para a oposição de embargos de declaração, pois que o recurso cabível é outro.
+Dessa forma, o resultado do julgamento contrário ao direito alegado pela parte não caracteriza vício a ser sanado através dos declaratórios, porquanto o que se verifica é mero inconformismo, que deve se materializar por meio de recurso adequado, pois o objetivo da via eleita é tão somente depurar meras imperfeições no Julgado, in casu, inexistentes.
+Ante o exposto, NEGO PROVIMENTO aos embargos de declaração.
+Com efeito, o STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática.
+Nesses casos, este Tribunal Superior atua na sua revisão somente quando o valor for irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram o TJDFT a tais conclusões significaria usurpação da competência das instâncias ordinárias.
+Ademais, aplicar posicionamento distinto do proferido pelo aresto confrontado implica o reexame da matéria fático-probatória, o que é obstado na via especial ante a incidência da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Cumpre destacar que a tabela de honorários da OAB, por sua vez, é uma referência utilizada para estabelecer os valores devidos aos advogados por seus serviços, mas não é, necessariamente, vinculativa. Ao se determinarem os honorários advocatícios, consideram-se fatores como a complexidade do caso, o tempo despendido e a capacidade financeira das partes envolvidas. Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. DEFENSOR DATIVO. VALORES PREVISTOS NA TABELA DA OAB. NÃO VINCULATIVOS. MATÉRIA DECIDIDA SOB O RITO DOS RECUROS REPETITIVOS. TEMA 984. REAVALIAÇÃO DO QUANTUM FIXADO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. A Terceira Seção do STJ, no julgamento do Recurso Especial n. 1.656.322/SC, sob o rito dos recursos repetitivos (Tema n. 984), firmou entendimento segundo o qual "as tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado" 2. Hipótese em que Tribunal de origem não imprimiu eficácia vinculante à tabela da OAB. A fixação da verba honorária observou o princípio da equidade, nos termos do art. 85, § 8º do CPC, e a utilização da tabela da OAB foi apenas um referencial.
+3. Nos termos da jurisprudência desta Corte que a modificação do valor da verba honorária fixado pelas instâncias de origem esbarra no óbice da Súmula n. 7/STJ. O afastamento da referida súmula somente é possível em situações excepcionais, que se configuram quando os honorários são estabelecidos em montantes irrisórios ou exorbitantes, o que não é o caso dos autos.
+Agravo interno improvido. (AgInt no REsp n. 1.938.659/CE, relator Ministro Humberto Martins, Segunda Turma, DJe de 12/12/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO À SAÚDE. TABELA DE HONORÁRIOS DA OAB. CARÁTER NÃO VINCULATIVO. SUCUMBÊNCIA COM SUPORTE NA EQUIDADE. ATO PRÓPRIO DAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 7. REVISÃO DO STJ. EXCEPCIONALIDADE. NÃO APLICAÇÃO AO CASO CONCRETO. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de ação de obrigação de fazer cujo objeto reside na prestação de serviços de saúde, fundada na realização de procedimento cirúrgico.
+2. A municipalidade recorrente aduz que o Tribunal catarinense ofendeu os artigos 85, §§ 2º, 8º e 8º-A, do CPC. Afirma que "a utilização da Tabela de Honorários da OAB/SC resultou no arbitramento de honorários em valor excessivo, inegavelmente em descompasso com "a natureza e a importância da causa", bem como com o "trabalho realizado pelo advogado e o tempo exigido para o seu serviço".
+3. O Colegiado originário não imprimiu eficácia vinculante à tabela da OAB, utilizando-a tão somente como referencial para a fixação dos honorários de sucumbência. Como dito acima, a fixação da verba honorária observou o princípio da equidade, nos termos do art. 85, §§ 8º e 8º-A do CPC.
+4. O STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática.
+5. O Tribunal Superior atua na sua revisão somente quando o valor for irrisório ou exorbitante, o que não se configura na presente hipótese. Assim, o reexame das razões de fato que conduziram o TJSC a tais conclusões significa usurpação da competência das instâncias ordinárias. Ademais, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado na via especial ante a incidência da Súmula 7/STJ
+6. O óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, evidenciando-se a ofensa aos princípios da razoabilidade e da proporcionalidade - hipótese não configurada nos autos, uma vez que a causa durou aproximadamente nove anos, por isso o valor fixado não destoa dos aplicados em casos similares.
+7. A tabela de honorários da OAB, por sua vez, é referência utilizada para estabelecer os valores devidos aos advogados por seus serviços, mas não é, necessariamente, vinculativa. Ao se determinar os honorários advocatícios, consideram-se fatores como a complexidade do caso, o tempo despendido e a capacidade financeira das partes envolvidas.
+8. Agravo Interno não provido.
+(AgInt no REsp n. 2.121.414/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/6/2024.)
+Diante do exposto, não conheço do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
