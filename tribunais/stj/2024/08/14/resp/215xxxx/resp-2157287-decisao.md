@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) contra acórdão do Tribunal de Justiça do Paraná assim ementado:
+CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA PROFERIDA CONTRA A FAZENDA PÚBLICA. DECISÃO QUE REJEITA A PREJUDICIAL DE PRESCRIÇÃO ARGUIDA PELO ENTE PÚBLICO. CASO EM QUE, NA AÇÃO PRINCIPAL, O ESTADO DO PARANÁ NOTICIOU A EXISTÊNCIA DE TRATATIVAS DE ACORDO COM O SINDICATO RELATIVAMENTE À OBRIGAÇÃO DE PAGAR QUANTIA CERTA AOS SERVIDORES SUBSTITUÍDOS. CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL. ART. 34 DA LEI  13.140 /2015. IRRELEVÂNCIA DO FATO DE TER SIDO EFETIVAMENTE INSTAURADO O PROCEDIMENTO ADMINISTRATIVO PARA NEGOCIAÇÃO E CONFECÇÃO DO ACORDO. PRINCÍPIOS DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA, BOA-FÉ OBJETIVA E COOPERAÇÃO. INTERPRETAÇÃO QUE MELHOR SE COADUNA COM A REGRA LEGAL QUE ESTABELECE O ESTÍMULO À SOLUÇÃO CONSENSUAL DOS CONFLITOS. DECISÃO CORRETA.
+O pedido expresso de suspensão do processo deduzido por ente ou entidade pública para tratativas de acordo suspende o prazo prescricional a partir do despacho que o defere, conforme previsto no art. 34 da Lei nº 13.140/2015.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os Embargos de Declaração foram rejeitados.
+O Estado do Paraná argumenta que não há no ordenamento jurídico previsão legal de suspensão da prescrição diante de petição em autos diversos, em clara ofensa ao rol taxativo dos arts. 197 a 199 do Código Civil. Afirma que o art. 34 da Lei de Mediação (Lei 13.140/2015) não se aplica ao caso dos autos, pois não houve instauração formal de procedimento de mediação. Defende que, sem causa de suspensão do prazo prescricional, deve-se aplicar as teses jurídicas dos Temas 877/STJ e 880/STJ, reconhecendo a prescrição.
+Contrarrazões não apresentadas.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.07.2024.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido:
+Anoto que, apesar de o pedido realizado pelo ente coletivo ter sido inicialmente de exibição das fichas financeiras, em 08/11/2016, o que interessa para o exame deste recurso é o panorama processual existente ao tempo da suspensão do feito para as tratativas de acordo, o que ocorreu em 06/10/2020 (mov. 84.1 dos autos 0008041-64.2016.8.16.0004). Reproduzo-o:
+(..)
+Ademais, a decisão agravada em momento algum considerou o pedido de exibição de documentos como marco interruptivo da prescrição. Na realidade, demonstrou-se que o prazo prescricional, iniciado com o trânsito em julgado da sentença coletiva (08/04/2016), conforme Tema Repetitivo nº 877/STJ, foi suspenso em 06/10/2020 (art. 34 da Lei nº 13.140/2015), retomando seu curso apenas em 30/10/2011, de modo que os 05 anos para execução do julgado somente se consumaram em 30/05/2022.
+Depreende-se que foi afastada a prescrição diante das especificidades relativas à suspensão do prazo prescricional. Logo, a análise da sua ocorrência possui peculiaridades que foram devidamente apreciadas pela instância ordinária e não podem ser reexaminadas pelo STJ ante o óbice da Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO EXECUÇÃO INDIVIDUAL EM AÇÃO COLETIVA. PRESCRIÇÃO. NÃO FORNECIMENTO DOS ELEMENTOS DE CÁLCULO. MODULAÇÃO DE EFEITOS. IMPOSSIBILIDADE. PRECEDENTE.
+1. Cuidaram os autos, na origem, de Agravo de Instrumento em Impugnação à Execução Individual de sentença em Ação Mandamental Coletiva. A sentença rejeitou a impugnação. O acórdão negou provimento ao Agravo.
+2. O recorrente afirma que houve, além de divergência jurisprudencial, ofensa ao art. 1º da Lei 20.910/1932. Sustenta que, configurada a demora no fornecimento de informações pela Administração Pública, incumbe ao credor ajuizar Medida Cautelar de protesto visando à interrupção da fluência do prazo prescricional.
+3. A irresignação não merece prosperar. Extrai-se do acórdão vergastado e das razões de Recurso Especial que não se aplica à hipótese dos autos o decidido no Tema 880/STJ. Com efeito, apreciando os Embargos de Declaração no Recurso Representativo de Controvérsia no REsp 1.336.026/PE, a Primeira Seção decidiu, na sessão de julgamento de 13.6.2018, modular os efeitos do que fora decidido no referido recurso representativo, utilizando como marco temporal de aplicação da resolução da controvérsia o dia 30.6.2017, data da publicação do acórdão, com fundamento no § 3º do art. 927 do CPC/2015. Dessa forma, para as decisões transitadas em julgado até 17.3.2016 que estejam dependendo do fornecimento pelo executado de documentos e fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional para a propositura da execução conta-se a partir de 30.6.2017.
+4. No que se refere à avaliação da sistemática de cálculos e do atraso na obtenção de documentos, o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+5. Recurso Especial não conhecido
+(REsp 1.809.008/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/6/2019.)
+Com a mesma orientação, recentes decisões monocráticas: REsp 2.151.637/PR, Rel. Ministro Herman Benjamin, DJe 16/7/2024; REsp 2.153.326/PR, Rel. Ministro Herman Benjamin, DJe 2/7/2024; REsp 2.134.834/PR, Rel. Ministro Herman Benjamin, DJe de 24/4/2024; e REsp 2.128.013/PR, Rel. Ministro Sérgio Kukina, DJe de 13/6/2024.
+Diante do exposto, nego provimento ao Recurso Especial.
+Caso exista nos autos prévia fixação d e honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
