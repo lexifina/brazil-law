@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pelo ESTADO DO PIAUÍ, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, assim ementado (fl. 150):
+PROCESSUAL CIVIL E TRIBUTÁRIO - AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - EXECUÇÃO FISCAL - AUSÊNCIA DE NOTIFICAÇÃO N O P R O C E S S O A D M I N I S T R A T I V O - V I O L A Ç Ã O À A M P L A D E F E S A E A O C O N T R A D I T Ó R I O - NULIDADE DA CDA. 1 - A ausência de notificação pessoal do sujeito passivo para se d e f e n d e r e m p r o c e s s o administrativo, antes de sua inscrição em Dívida Ativa, fere o devido processo legal, o contraditório e a ampla defesa.
+2. Recurso provido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 373, I, do CPC , 41 da Lei 6.830/1980 e 142 do CTN. Aduz, em resumo: (I) a desnecessidade de juntada do processo administrativo fiscal para a formação da CDA; (II) ausência de nulidade do lançamento do crédito tributário por falta de notificação uma vez ter sido constituído pelo próprio contribuinte por declaração.
+Contrarrazões apresentadas às fls. 185/194.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com relação aos arts. 373, I, do CPC e 41 da Lei 6.830/80, nota-se que os referidos dispositivos legais não contêm comando capaz de sustentar a tese recursal de desnecessidade de juntada do processo administrativo fiscal para formação da CDA e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Mi nistro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Por outro lado, a matéria pertinente ao art. 142 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+EMENTA
