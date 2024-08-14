@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAETANO AUGUSTO LUPPI, com fundamento na alínea "a" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 75-78, e-STJ):
+Agravo de instrumento Decisão interlocutória que, no curso de cumprimento de sentença, determinou (i) que a matéria relativa à multa cominatória seja suscitada no incidente competente  autos n. 0003772-21.2023.8.26.0048 , bem como (ii) a manutenção dos serviços de home care nos moldes originários pela impossibilidade de readequação unilateral e autorizou o desbloqueio do numerário por força do restabelecimento do atendimento Obrigação de trato sucessivo e continuado Possibilidade de readequação do tratamento na fase de cumprimento de sentença, em observância às necessidades do paciente Inexistência de violação à coisa julgada Propositura de ação autônoma que se mostrou impertinente Existência de divergência nos relatórios elaborados pelo médico do beneficiário e pelo médico da companhia que presta os serviços de home care Necessidade de realização de prova técnica para a eliminação das dúvidas objetivas e fundadas quanto ao real estado clínico do litigante Incognoscibilidade do tema relativo à multa cominatória Pertinência de discussão da questão no incidente específico Recurso conhecido, em parte, e não provido, com determinação.
+Nas razões do recurso especial (fls. 82-92, e-STJ), a recorrente aponta violação seguintes artigos:
+(i) 492, 502, 503 e 508 do CPC/2015, ante a vedação de rediscussão da matéria de fato já debatida na fase de conhecimento. Ademais, trata-se de acórdão extra petita, ante a inexistência do pedido de realização de perícia;
+Contrarrazões às fls. 114-124, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, constata-se que o Tribunal local não apreciou a alegada violação ao art. 492 do CPC/2015, relativa a tese relativa à existência de sentença extra petita, em razão da ausência de pedido de produção de prova pericial.
+Tal omissão, por sua vez, não foi impugnada por embargos de declaração, os quais, acaso conhecidos, poderiam ensejar a discussão da matéria, e, consequentemente, seu prequestionamento.
+De fato, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, de modo a definir a correta interpretação da legislação federal.
+Nesse contexto, revela-se impossível a admissão do recurso especial, com fulcro nos enunciados firmados pelas Súmulas 282 e 356 do STF. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. REQUISITOS PREENCHIDOS. NULIDADE. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. PROCESSO UTILIZADO COMO DIFUSOR DE ESTRATÉGIAS. IMPOSSIBILIDADE DO MANEJO DA CHAMADA "NULIDADE DE ALGIBEIRA". ALEGADA CONFISSÃO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STJ E 356/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+5. A Corte regional não apreciou a tese da alegada confissão judicial e a parte recorrente não opôs embargos de declaração objetivando suprir eventual omissão, não estando presente o necessário prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1181699/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. EXIBIÇÃO DE DOCUMENTOS. LEGITIMIDADE PASSIVA. INTERESSE DE AGIR. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco opostos embargos declaratórios para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 699.757/PB, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+2. No que toca à alegada ofensa aos artigos 502, 503 e 508 do CPC/15, não merece retoque a decisão agravada.
+Conforme preceitua a jurisprudência desta Corte, inexiste ofensa à coisa julgada quando o magistrado, em sede de cumprimento de sentença, interpreta o título judicial para melhor definir seu alcance e extensão. Precedentes:
+AGRAVO INTERNO NO AGRAVO. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. ERRO MATERIAL NOS CÁLCULOS DETECTADO PELO JUÍZO DA EXECUÇÃO. ADOÇÃO DE INTERPRETAÇÃO DO DISPOSITIVO DA DECISÃO TRANSITADA EM JULGADO EM CONFORMIDADE COM O PEDIDO FORMULADO NA INICIAL. CABIMENTO.
+(..)
+2. Ademais, é certo que, "na interpretação do título executivo judicial, deve-se adotar a que guarde conformidade com o objeto do processo e com as questões a seu respeito suscitadas pelas partes na fase de postulação" (EDcl no AgRg no AREsp 478.423/RJ, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 23.08.2016, DJe 29.08.2016).
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 632.368/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/06/2018, DJe 15/06/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. OFENSA AO ART. 535 DO CPC/73 NÃO CONFIGURADA. CORREÇÃO DOS CÁLCULOS. ALTERAÇÃO DO ENTENDIMENTO. INVIABILIDADE. SÚMULA 7 DO STJ. ÍNDICES DE CORREÇÃO. ALTERAÇÃO DO TÍTULO EXEQUENDO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+(..)
+3. Esta Corte de Justiça consagra entendimento de que não há ofensa à coisa julgada quando o juízo da execução confere ao título executivo judicial a interpretação que melhor viabilize o seu cumprimento. Precedentes.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 219.669/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 12/04/2019)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. FGTS. EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 557 DO CPC/73. CONVALIDAÇÃO PELO JULGAMENTO DO AGRAVO INTERNO. ALEGAÇÃO DE VIOLAÇÃO DA COISA JULGADA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+(..)
+IV - Quanto à suposta violação da coisa julgada, o recorrente não demonstra que a interpretação do título judicial, que resultou na homologação dos cálculos apresentados da contadoria judicial, tenha de algum modo desbordado nos limites da lide e da correspondente prestação jurisdicional. V - Entende-se nesta Corte que não há ofensa à coisa julgada quando, admitindo-o o título judicial, o juízo da execução lhe confere a interpretação que melhor viabilize o seu cumprimento. Nesse sentido: AgInt no AREsp n. 363.249/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2017, DJe 28/11/2017; AgRg no AREsp n. 94.186/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/8/2012, DJe 14/8/2012).
+(..)
+VIII - Agravo interno improvido.
+(AgInt no AREsp 1136196/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/10/2018, DJe 26/10/2018)
+No caso em tela, verifica-se que o título executivo, datado de 01.10.2018, determinou a cobertura da internação em regime de home care, consignando a necessidade de reavaliação da medida conforme a evolução clínica do paciente:
+Posto isso, e considerando o mais que dos autos consta, extingo a ação principal e a cautelar em apenso (1000429-44.2016) em relação às corrés UNIMED ESTÂNCIAS PAULISTAS - OPERADORA DE PLANOS DE SAÚDE SOCIEDADE COOPERATIVA e UNIMED DO BRASIL CONFEDERAÇÃO NACIONAL DASCOOEPERATIVAS MÉDICAS, sem resolução do mérito, com fundamento no art. 485,VI, do CPC, e JULGO PARCIALMENTE PROCEDENTES os pedidos formuladospelo autor em relação à corré UNIMED DO ESTADO DE SÃO PAULO - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS, para: 1) condenar areferida ré à obrigação de fazer, de custear o tratamento de internação domiciliar do autor, nos moldes prescritos às fls. 28/30, cuja necessidade deve ser reavaliada conforme a evolução clínica do autor, tornando definitiva a tutela de urgência concedida na cautelar em apenso (1000429-44.2016); 2) condenar referida ré ao pagamento de indenização por danosmorais, ao autor, no valor de R$ 10.000,00, corrigido monetariamente pela Tabela Prática do Egrégio Tribunal de Justiça de São Paulo a partir do arbitramento (Súmula 362 do STJ)e acrescido de juros de mora de 1% ao mês a partir da recusa (22.1.2016 art. 398 do CC eSúmula 54 do STJ). Em consequência, extingo o processo com resolução do mérito, comfundamento no art. 487, inciso I, do CPC.
+Diante de tal cenário, a Corte local determinou a produção de prova tendente a identificar se, na atualidade, persiste o quadro clínico existente ao tempo do deferimento da sentença supracitada. Veja-se (fl. 77, e-STJ):
+Outrossim, considerando que o relatório apresentado pelo médico assistente do beneficiário diverge do apresentado pelo médico que compõe a companhia que presta os serviços de home care, uma vez que aquele atesta a necessidade do atendimento domiciliar com serviços especializados 24 horas por dia, págs. 93/94 dos autos principais, enquanto este revela que a hipótese demanda apenas os cuidados de cuidador, págs. 156/159 dos autos principais, é necessária a elaboração de prova técnica para que seja apurado o real quadro clínico do litigante, oportunidade em que serão eliminadas as dúvidas objetivas e fundadas a respeito das necessidades do paciente, notadamente, se possui direito ao tratamento pretendido na forma prescrita pelo seu médico.
+Constata-se, pois, que o posicionamento assentado pela Corte local, quanto à necessidade de produção de prova para que se avalie se, à luz da evolução clínica do paciente, é devida a manutenção da internação domiciliar decorre de interpretação do título executivo.
+Logo, não se vislumbra violação aos dispositivos de lei ora tratados, uma vez que o posicionamento do Tribunal local possui amparo na jurisprudência do STJ.
+2.1. Destaque-se, por fim, que a abertura de diligência probatória determinada pela Corte local não autoriza ao plano de saúde, desde logo, interromper o fornecimento do tratamento de home care imposto no título executivo.
+Com efeito, apenas após a solução de tal controvérsia fática, assim declarada pelo juízo competente, será possível a suspensão do tratamento caso se identifique que o ora agravante, de fato, não mais dele necessita.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao recurso especial. Descabida a majoração de honorários advocatícios sucumbenciais, nos termos do art. 85, § 11, do CPC/2015, na medida em que não houve fixação de tal verba na origem.
+Publique-se.
+Intimem-se.
+EMENTA
