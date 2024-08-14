@@ -1,0 +1,113 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0750247-74.2020.8.07.0000AGRAVANTE(S)WILSON CUSTODIOAGRAVADO(S)DISTRITO FEDERAL e INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO DISTRITO FEDERAL - IPREVRelatoraDesembargadora DIVA LUCY DE FARIA PEREIRA
+ Acórdão Nº1907135
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. REJULGAMENTO DETERMINADO PELA PRESIDÊNCIA DESTE TRIBUNAL DE JUSTIÇA (ART. 1.030, II, DO CPC). CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. ÍNDICE DE CORREÇÃO MONETÁRIA. SUBSTITUIÇÃO DA TR PELO IPCA-E ATÉ 8/12/2021. TEMA DE REPERCUSSÃO GERAL 1.170. INAPLICABILIDADE AO CASO CONCRETO. SITUAÇÃO FÁTICA QUE AUTORIZA A TÉCNICA DE DISTINGUISHING. PEDIDO EXPRESSO, CLARO E INEQUÍVOCO DE APLICAÇÃO DA TR COMO ÍNDICE DE CORREÇÃO. REQUERIMENTO JUDICIALMENTE HOMOLOGADO. EXPEDIÇÃO DE REQUISITÓRIOS. INSURGÊNCIA POSTERIOR CONTRA OS CÁLCULOS ANTERIORMENTE CONFECCIONADOS. PRETENDIDA APLICAÇÃO DO IPCA-E, COMO ÍNDICE DE CORREÇÃO MONETÁRIA, EM SUBSTITUIÇÃO À TR, E DE RETIFICAÇÃO DOS REQUISITÓRIOS EXPEDIDOS. NÃO CABIMENTO. EM REJULGAMENTO, RECURSO CONHECIDO E REJEITADO. ACÓRDÃO MANTIDO.
+
+1. O Supremo Tribunal Federal, ao julgar o Tema 1.170, RE1.317.982, com repercussão geral reconhecida, fixou tese no sentido de que é “aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado”. A despeito de a tese fixada no Tema 1.170 apenas mencionar a aplicação de “juros moratórios”, as razões determinantes do voto condutor do julgamento do recurso paradigma RE 1317982 realçaram jurisprudência do Supremo Tribunal Federal afirmativa da possibilidade de “aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária”.
+
+2. Inaplicabilidade do precedente firmado pela Corte Suprema no Tema 1.170 do STF (RE1317982), em que definido não configurar violação à coisa julgada a alteração do índice de correção monetária, no caso concreto, no qual o próprio exequente apresentou planilha de débito utilizando o índice oficial de remuneração da poupança (TR), concordou com os cálculos realizados pela Contadoria judicial e somente se insurgiu após a expedição de requisições de pagamento.
+
+3. O aceite dos cálculos feitos pela Contadoria judicial e a ausência de qualquer insurgência do exequente no tempo e modo adequados fizeram operar a preclusão pela prática consciente e voluntária da faculdade processual de se manifestar sobre os cálculos consolidados, a que expressamente aquiesceu.
+
+4. Elementos informativos e probatórios que permitem aplicar à hipótese sub judice a técnica de distinguishing para afastar a aplicação ao caso concreto do precedente firmado pela Corte Suprema no Tema 1.170 do STF (RE1317982) em que definido não configurar violação à coisa julgada a alteração do índice de correção monetária.
+
+5. Considerando o disposto no art. 1.041 do CPC, segundo o qual, mantido “o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º”, deve o feito retornar ao Gabinete da Presidência.
+
+6. Em rejulgamento, embargos de declaração conhecidos e rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, DIVA LUCY DE FARIA PEREIRA - Relatora, CARLOS PIRES SOARES NETO - 1º Vogal e CARLOS ALBERTO MARTINS FILHO - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: EM REJULGAMENTO, CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Agosto de 2024
+
+Desembargadora DIVA LUCY DE FARIA PEREIRAPresidente e Relatora
+
+RELATÓRIO
+
+Trata-se de rejulgamento, por determinação da Presidência deste e. Tribunal de Justiça (Id 55060829), de embargos de declaração opostos por Wilson Custódio contra acórdão desta e. 1ª Turma Cível (Id 26548664), o qual conheceu e negou provimento ao agravo de instrumento interposto pelo ora embargante contra decisão do juízo da 6ª Vara da Fazenda Pública do DF (Id 75439317 do processo de referência) que, nos autos da ação de cumprimento individual de sentença coletiva contra a Fazenda Pública, processo n. 0709225-16.2019.8.07.0018, indeferiu o pedido formulado pelo exequente/agravante de correção dos cálculos dos requisitórios (precatório e requisição de pequeno valor), retificação da ordem de pagamento ou expedição de requisitório complementar e pedido de reembolso das custas iniciais, em razão do julgamento dos embargos de declaração opostos no RE 870.947 pelo Supremo Tribunal Federal em 3/10/2019.
+
+Colaciono a ementa dos embargos de declaração, recurso ora em rejulgamento:
+
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. OMISSÕES. VÍCIOS ELENCADOS NO ART. 1.022 DO CPC. INEXISTÊNCIA. INCONFORMISMO. REEXAME DA MATÉRIA. NÃO CABIMENTO. PREQUESTIONAMENTO. ART. 1.025 DO CPC. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS. 1. É possível a oposição de embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento, e corrigir erro material eventualmente verificado no decisum (art. 1.022 do CPC). 2. Inexiste o vício apontado nos embargos de declaração se, no acórdão embargado, a matéria indicada pelo recorrente foi devidamente apreciada pelo colegiado, o qual entendeu que a preclusão, concretamente, não decorreu do trânsito em julgado da sentença que mandou aplicar a TR na correção monetária do débito não tributário, mas da escolha feita pelo próprio exequente/embargante ao decidir pela utilização desse indexador na atualização da dívida excutida e em sua definitividade pela falta de impugnação oportuna. 3. Conforme previsão do art. 1.025 do CPC, a oposição de embargos de declaração pela parte, com observância dos limites previstos no art. 1.022 do CPC, já se mostra hábil a indicar o prequestionamento necessário para a viabilidade dos Recursos Especial e Extraordinário. 4. Embargos de declaração conhecidos e rejeitados. (Acórdão 1386894, 07502477420208070000, Relator(a): DIVA LUCY DE FARIA PEREIRA, 1ª Turma Cível, data de julgamento: 17/11/2021, publicado no DJE: 30/11/2021. Pág.: Sem Página Cadastrada.)
+
+O agravante interpôs Recursos Especial (Id 31968159) e Extraordinário (Id 31968162).
+
+Foi determinada a regularização da representação processual do recorrente (Id 32048804), com respectiva juntada de procuração no Id 32245536.
+
+Contrarrazões ao Recurso Especial (Id 33564820) e ao Recurso Extraordinário (Id 33564827) apresentadas pelo Distrito Federal.
+
+A presidência deste e. Tribunal de Justiça admitiu o processamento do Recurso Especial e inadmitiu o Recurso Extraordinário (Id 33944654).
+
+O agravante interpôs agravo em Recurso Extraordinário (Id 34785405).
+
+Contrarrazões ao agravo em Recurso Extraordinário (Id 35849461).
+
+Em decisão unipessoal, o Vice-Presidente deste e. Tribunal de Justiça, no exercício eventual da Presidência, verificou suposta divergência entre o acórdão vergastado e a tese firmada pelo c. STF no julgamento do RE 1.317.982 com repercussão geral (Tema 1.170), e, nos termos do artigo 1.030, II, do Código de Processo Civil, determinou o retorno dos autos ao órgão julgador (Id 55060829).
+
+Esta relatoria facultou manifestação das partes quanto ao retorno dos autos ao colegiado para análise da suposta divergência (Id 55615915).
+
+O exequente requereu a aplicação da tese fixada (Id 56551136) e o executado requereu a suspensão do feito até o trânsito em julgado pelo STF do RE 1.317.982 (Tema 1.170). Subsidiariamente, destacou inexistir “razões jurídicas para o juízo de retratação previsto no artigo 1.030, II, do CPC, motivo pela qual os entes públicos pugnam pela manutenção do(s) acórdão(s) proferido(s) por esta Colenda Turma Cível”.
+
+É o relato do necessário.
+
+VOTOS
+
+A Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - RelatoraConforme decisão do e. Vice-Presidente deste e. Tribunal de Justiça do Distrito Federal e dos Territórios, no exercício eventual da Presidência, em que apontou suposta divergência entre o acórdão recorrido e as orientações traçadas pelas Cortes Superiores e, com base no art. 1.030, II, do CPC, devolveu os autos a este colegiado, passo ao rejulgamento dos embargos de declaração no agravo de instrumento a fim de que seja proferida nova decisão à luz da jurisprudência do Supremo Tribunal Federal firmada no RE 1.317.982 (Tema 1.170).
+
+De fato, no acórdão ora em rejulgamento, este colegiado manteve o entendimento adotado no acórdão do agravo de instrumento (n. 1346742) interposto pelo exequente contra decisão do juízo de origem que, nos autos do cumprimento individual de sentença coletiva contra a Fazenda Pública, processo 0709225-16.2019.8.07.0018, manejado pelo agravante em desfavor do Distrito Federal e do Instituto de Previdência dos Servidores do Distrito Federal – IPREV, indeferiu o pedido formulado pelo exequente/agravante de correção dos cálculos dos requisitórios (precatório e requisição de pequeno valor), retificação da ordem de pagamento ou expedição de requisitório complementar e pedido de reembolso das custas iniciais, em razão do julgamento dos embargos de declaração opostos no RE 870.947 pelo Supremo Tribunal Federal em 3/10/2019.
+
+No acórdão do agravo de instrumento, concluiu-se que a “preclusão, concretamente, não decorre do trânsito em julgado da sentença que mandou aplicar a TR na correção monetária do débito não tributário, mas da escolha feita pelo exequente ao decidir pela utilização desse indexador na atualização da dívida excutida e em sua definitividade pela falta de impugnação oportuna”.
+
+No julgamento dos embargos de declaração, ora em rejulgamento, assentou-se a inexistência dos vícios apontados, pois, no caso, foi considerado inexistir direito à reforma da decisão agravada para que os autos fossem remetidos à Contadoria judicial para a realização de novo cálculo do débito cujas requisições já haviam sido expedidas.
+
+Com se vê a situação fática ocorrida no presente caso não autoriza a aplicação do Tema 1.170 de repercussão geral do Supremo Tribunal Federal, visto que, concretamente, a substituição da TR pelo IPCA-E para cálculo do débito excutido não foi indeferido sob fundamento de preclusão da sentença que o determinasse, mas sim em razão de conduta processual do exequente que, mesmo ciente da discussão travada sobre o tema no e. Supremo Tribunal Federal, decidiu manejar o cumprimento de sentença e indicou a TR como índice de correção. Fizera-o para escapar ao comando de suspensão dado nos autos do RE 870.947/SE. Optou por não aguardar o pronunciamento final do Excelso Pretório, com o que, voluntariamente, abandonou a pretensão de se beneficiar de entendimento futuro, ainda que mais favorável.
+
+De fato, concretamente, o agravante ajuizou o cumprimento individual de sentença coletiva em 6/9/2019 (Id 43965522 do processo de referência), ao intento de compelir o Distrito Federal a realizar o pagamento de valores relacionados à reposição de perdas oriundas do Plano Collor, no percentual de 84,32%, relativa ao IPC de março/1990, discutida nos autos do processo PJe 0033881-20.2015.8.07.0018, autos físicos 2015.01.1.125134-3 (Id 43965522, p. 1, do processo de referência).
+
+Para tanto, apresentou, na ocasião, planilha atualizada até 31/10/2018 em que indicou como importância devida o valor de R$ 101.080,30 (cento e um mil e oitenta reais e trinta centavos); além do que apontou a Taxa Referencial Mensal - TR como índice de correção (Id 43966021, pp. 1 a 6, do processo de referência). Quando o fez, o e. STF já havia julgado o RE 870.947/SE com repercussão geral e decidido pela aplicação do IPCA-E para a correção de débitos não tributários devidos pela fazenda pública.
+
+O agravado não impugnou o cálculo elaborado pelo recorrente (Id 45247380 do processo de referência). Na réplica, nenhuma correção pretendeu o agravante sobre o índice aplicado no cálculo da dívida, a pretexto da aplicação do acórdão proferido pelo e. STF no RE 870.947, mesmo tendo referida manifestação do recorrente sido apresentada em 17/10/2019, duas semanas depois da publicação do acórdão do e. STF no julgamento dos embargos de declaração no RE 870.947/SE.
+
+O i. juiz, ao rejeitar a impugnação, definiu como valor devido aquele indicado pelo recorrente (Id 48882489 do processo de referência). Evidentemente, fê-lo em conformidade com a memória de cálculo que instruiu a petição inicial do cumprimento individual de sentença coletiva.
+
+Nos embargos de declaração opostos pelo agravante, a discussão girou em torno apenas da retenção dos honorários contratuais e da majoração do percentual dos honorários advocatícios de sucumbência, na fase de conhecimento, de 10% (dez por cento) para 11% (onze por cento) em cumprimento à decisão exarada no c. STJ (Id 50030649 do processo de referência).
+
+O recurso foi respondido pelo agravado (Id 50138091 do processo de referência) e acabou provido pelo juízo a quo (Id 50621336 do processo de referência). A Secretaria do juízo certificou a preclusão do pronunciamento judicial (Id 47642365 do processo de referência). A seguir, a serventia judicial enviou os autos do processo para a Contadoria Judicial consoante o ato ordinatório de Id 55160201 do processo de referência.
+
+A Contadoria Judicial apresentou, em 7/2/2020, demonstrativo de cálculos em atualização da planilha do exequente/agravante com aplicação da TR como índice de correção monetária. A conta alcançou o valor total de R$ 129.757,87 (cento e vinte e nove mil setecentos e cinquenta e sete reais e oitenta e sete centavos), conforme Id 55793264 do processo de referência. As partes litigantes não se insurgiram oportunamente contra a conta apresentada, mesmo cientes de ser posterior ao julgamento pelo c. STF dos embargos de declaração no RE 870.947/SE.
+
+No dia 12/2/2020, foram expedidas as requisições de pequeno valor para pagamento dos honorários devidos ao advogado (Ids 56285874, 56285890, 56288354 e 56288360 do processo de referência). Intimados, os executados deixaram transcorrer o prazo para pagamento (Id 65286803 do processo de referência). Os precatórios devidos ao agravante/exequente foram também requisitados em 12/03/2020 (Ids 59112142 e 59120642 do processo de referência).
+
+Determinado bloqueio dos valores via BacenJud em 12/6/2020 (Id 65305738 do processo de referência). Após foi determinada a transferência/retorno dos valores bloqueados para o executado, eis que o pagamento já havia sido realizado, apenas não tendo constado corretamente por falha no sistema da Procuradoria (Id 66108348 do processo de referência). Expedido alvará de levantamento de importância no Id 66229332 do processo de referência.
+
+Na petição inserta no Id 67065954 do processo de referência, de 06/07/2020, o agravante/exequente consignou sua discordância com os cálculos elaborados pela Contadoria, sob o fundamento de inobservância da decisão proferida, em 3/2/2020, pelo Supremo Tribunal Federal no julgamento do RE 870.947. Pretendendo a retroatividade do entendimento adotado pela Corte Suprema, requereu a elaboração de novos cálculos para contabilizar a correção monetária com base no IPCA-E. Pediu ainda a consequente retificação da ordem de pagamento ou expedição de requisitório complementar.
+
+O acórdão de Id 26548664, no julgamento do agravo de instrumento, destacou a ocorrência da preclusão quanto à pretensão do agravante, pois, deliberadamente, apresentou a memória do cálculo do débito e não se insurgiu oportunamente para pleitear a retificação, com a finalidade de aplicar o IPCA-E em substituição à TR na correção monetária do valor devido, mesmo ciente da oposição dos embargos de declaração contra o acórdão no RE 870.947/SE, em que foram pleiteados efeitos modificativos.
+
+Nesse contexto, não há que se falar em aplicação do Tema 1.170, RE 1.317.982, com repercussão geral reconhecida, o qual fixou tese no sentido de que é “aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado”. Transcrevo adiante a ementa do aludido julgado:
+
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A Lei n. 11.960, de 29 de junho de 2009, alterou a de n. 9.494, de 10 de setembro de 1997, e deu nova redação ao art. 1º-F, o qual passou a prever que, nas condenações impostas à Fazenda Pública, para fins de atualização monetária, remuneração do capital e compensação da mora, incidirão, de uma só vez, até o efetivo pagamento, os índices oficiais de remuneração básica e de juros aplicados à caderneta de poupança. 2. A respeito das condenações oriundas de relação jurídica não tributária, o Supremo Tribunal Federal, ao apreciar o RE 870.947 (Tema n. 810/RG), ministro Luiz Fux, declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009, concernente à fixação de juros moratórios segundo o índice de remuneração da caderneta de poupança. 3. O trânsito em julgado de sentença que tenha fixado percentual de juros moratórios não impede a observância de alteração legislativa futura, como no caso, em que se requer a aplicação da Lei n. 11.960/2009. 4. Inexiste ofensa à coisa julgada, uma vez não desconstituído o título judicial exequendo, mas apenas aplicada legislação superveniente cujos efeitos imediatos alcançam situações jurídicas pendentes, em consonância com o princípio tempus regit actum. 5. Recurso extraordinário provido, para reformar o acórdão recorrido, a fim de que seja aplicado o índice de juros moratórios estabelecido pelo art. 1º-F da Lei n. 9.494/1997, na redação dada pela de n. 11.960/2009. 6. Proposta de tese: “É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado.” (RE 1317982, Relator(a): NUNES MARQUES, Tribunal Pleno, julgado em 12-12-2023, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n DIVULG 19-12-2023 PUBLIC 08-01-2024)
+
+Insta consignar que, a despeito de a tese fixada no Tema 1.170 apenas mencionar a aplicação de “juros moratórios”, as razões determinantes do voto condutor do julgamento do recurso paradigma RE 1.317.982 realçaram jurisprudência do Supremo Tribunal Federal afirmativa da possibilidade de “aplicação da tese firmada no Tema n. 810/RG, mesmo nos feitos em que já se tenha operado a coisa julgada, em relação aos juros ou à atualização monetária (RE 1.331.940, ministro Dias Toffoli, DJe de 5 de agosto de 2021; ARE 1.317.431, ministra Carmen Lúcia, DJe de 29 de junho de 2021; RE 1.314.414, ministro Alexandre de Moraes, DJe de 26 de março de 2021; ARE 1.318.458, ministro Edson Fachin, DJe de 1º de julho de 2021; RE 1.219.741, ministro Luís Roberto Barroso, DJe de 2 de julho de 2020; ARE 1.315.257, ministro Ricardo Lewandowski, DJe de 28 de abril de 2021; e ARE 1.311.556 AgR, da minha relatoria, DJe de 10 de agosto de 2021)” (grifos nossos).
+
+Todavia, no presente caso, o agravante deu início ao cumprimento de sentença na instância de origem apontando a TR como índice a ser adotado na correção monetária do valor exequendo e, em seguida, aceitou o pagamento realizado pelo agravado.
+
+Concretamente, há elementos informativos e probatórios que permitem aplicar à hipótese sub judice a técnica do distinguishing para afastar o reconhecimento da autoridade do precedente firmado pela Corte Suprema no Tema 1.170 do STF (RE1317982) em que definido não configurar violação à coisa julgada a alteração do índice de correção monetária.
+
+Feitas essas considerações, em rejulgamento, mantenho o acórdão n. 1386894, de modo que CONHEÇO e REJEITO os embargos de declaração opostos pelos exequentes, porquanto, considerando as peculiaridades do caso concreto, não é hipótese de aplicação do Tema 1.170 do STF (RE1317982).
+
+Por fim, considerando o disposto no art. 1.041 do CPC, segundo o qual, mantido “o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º”, retornem os autos ao Gabinete da Presidência, a fim de que sejam tomadas as providências necessárias quanto aos recursos especial e extraordinário interpostos no feito.
+
+É como voto.
+O Senhor Desembargador CARLOS PIRES SOARES NETO - 1º Vogal Com o relatorO Senhor Desembargador CARLOS ALBERTO MARTINS FILHO - 2º Vogal Com o relator
+
+DECISÃO
+
+EM REJULGAMENTO, CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME
