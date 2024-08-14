@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo BANCO DO BRASIL S.A. à decisão que indeferiu pedido de sobrestamento pelo Tema n. 1.290/STF, ao fundamento de que o recurso especial de fls. 134/144 não tratou da referida controvérsia.
+Em suas razões, sustenta a parte embargante que, "muito embora a questão trazida no recurso especial diga respeito a matéria diversa, na origem a ação é oriunda justamente de cumprimento de sentença coletiva proferida na Ação Civil Pública n. 94.008514-1, da qual decorreu o EREsp n. 1.319.232/DF no STJ e, agora, no RE nº 1.445.162/DF, no STF, onde se discute exatamente o Tema 1290/STF. Ou seja, a causa raiz é um cumprimento de sentença coletiva oriunda da Ação Civil Pública n. 94.008514-1" (fl. 214).
+Alega que o Ministro Alexandre de Moraes determinou expressamente a suspensão do "processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos" (fl. 214).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado e determinada a suspensão do processo, a fim de evitar-se decisões conflitantes.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consoante o art. 1.033, III, do CPC, o sobrestamento somente é cabível quando o recurso versar sobre controvérsia de caráter repetitivo, tendo sido observado tal comando pelo Ministro Relator do Tema n. 1.290/STF quando determinou "a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença".
+Ademais, como no recurso especial de fls. 134/144, discute-se a necessidade de a UNIÃO e o BACEN figurarem no polo passivo do cumprimento de sentença, não há óbice ao prosseguimento do recurso por ausência de relação de prejudicialidade entre tal controvérsia e a objeto do Tema n. 1.290/STF.
+Portanto, não há irregularidade sanável por meio dos presentes embargos, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
