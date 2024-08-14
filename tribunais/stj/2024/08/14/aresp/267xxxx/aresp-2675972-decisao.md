@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo apresentado por TRANSPORTADORA VOLCE LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+APELAÇÃO CÍVEL -AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MATERIAIS E MORAIS - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEITADA - MÉRITO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE MONITORAMENTO E/OU RASTREAMENTO DE VEÍCULOS - EXPRESSA CLÁUSULA CONTRATUAL VERSANDO SOBRE A OBRIGAÇÃO DE SOLICITAÇÃO MANUAL DO SERVIÇO DE MONITORAMENTO OU RASTREAMENTO POUCO ANTES DO INÍCIO DA VIAGEM - OCORRÊNCIA DE ROUBO DE VEÍCULO SEM QUE A EMPRESA DE MONITORAMENTO TENHA COMUNICADO A PERDA DO SINAL DE RASTREIO - FALHA NA PRESTAÇÃO DO SERVIÇO NÃO CARACTERIZADA - AUSÊNCIA DE SOLICITAÇÃO DE RASTREAMENTO OU MONITORAMENTO POR PARTE DO MOTORISTA - INOBSERVÂNCIA DE OBRIGAÇÃO CONTRATUAL PELA TRANSPORTADORA-CONTRATANTE - NÃO CABIMENTO DE RESPONSABILIZAÇÃO CIVIL DA EMPRESA DE MONITORAMENTO - PAGAMENTO DO SERVIÇO DE RASTREAMENTO E MONITORAMENTO - DEVIDO ATÉ A DATA DA RESOLUÇÃO CONTRATUAL - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia, a parte alega violação dos arts. 355 e 369, do CPC; 5º, LV, da CF; e 14, § 3º, II, do CDC, no que concerne à ocorrência de cerceamento de defesa, pois a recorrida forneceu informações contraditórias e, com o julgamento antecipado da lide, sem a necessária dilação probatória, acaba por prejudicar a recorrente. Argumenta o seguinte:
+Não estando bem delimitadas e esclarecidas as circunstâncias fáticas envolvendo a demanda, o que ocorreu in casu, não se mostra aplicável o art. 355 do CPC, devendo proceder-se à indispensável dilação probatória.
+Extrai-se o exemplo da ausência de provas robustas que ensejam e autorizam o julgamento do mérito antecipadamente, eis que o magistrado singular, havia intimado à fl. 237 a recorrida para: "juntar aos autos o relatório analítico de eventuais solicitações de rastreio realizados pela autora no mês de maio de 2017", inclusive devendo esclarecer se o veículo de placa OOM 3792, estava cadastrado em seu sistema.
+Não obstante, infere-se que a recorrida não trouxe os chamados, bem como os documentos na forma determinada, contudo, anexou um autorização de embarque e troca de e-mails referente a um veículo alheio ao debate, relativo ao mês de outubro de 2016, aduzindo que aquela seria a forma adequada de solicitar o rastreamento e a transferência do "espelho".
+ ..
+Certo é que a recorrida deveria comprovar nos autos a ausência de e-mail no dia do evento danoso solicitando o rastreio do veículo, ou mesmo, comprovar de maneira mínima que o caminhão não pertencia a frota de monitoramento do contrato.
+Nesse sentido, o Colendo Superior Tribunal de Justiça reconhece o cerceamento de defesa quando a parte, embora pugnando pela produção de provas, tem obstado o ato processual e há julgamento contrário ao seu interesse com fundamento na ausência de provas de suas alegações.
+ ..
+De mais a mais, melhor sorte não assiste o trecho da decisão em que aduz que a recorrente não comprovou minimamente suas razões, ou que há culpa exclusiva da vítima.
+ ..
+Aliás, infere-se que a prova mínima foi realizada pela própria confissão da recorrida nos autos, uma vez que não há como a recorrida aduzir em sua nota de esclarecimento que o sinal foi fornecido para Open Tech (empresa terceira que também monitorava o carregamento) na data do evento, alegando, inclusive, que a empresa ré era a responsável pelo espelhamento, e após, relatar o oposto, no sentido de que na data do evento não houve solicitação de rastreio.
+Sendo a recorrida responsável por espelhar o sinal, então não poderia afirmar que não foi solicitado o rastreio do veículo, mas relatar nos autos com veemência que o veículo estava sendo monitorado por terceiros.
+ ..
+No mais, repisa-se que a hipótese de julgamento antecipado é cabível apenas quando há nos autos provas suficientes para a resolução do imbróglio ou quando a parte requer dilação probatória de forma protelatória, o que não se verificou no caso concreto, uma vez que o presente feito precisa ser devidamente instruído (fls. 386- 390).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, sobre a alegada violação ao art. 5º, LV, da CF/1988, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+No mais, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, não se verifica a ocorrência de cerceamento de defesa.
+O Juízo a quo julgou antecipadamente a lide por reputar desnecessária a dilação probatória, nos seguintes termos (f. 272):
+ ..
+No mérito, o Juízo a quo entendeu que, de acordo com o previsto no contrato celebrado entre as partes, caberia ao motorista efetuar o procedimento de solicitação de rastreamento e monitoramento antes de qualquer partida do veículo, e que, contudo, na presente demanda, a autora não demonstrou, mesmo de que forma mínima, ter feito tal solicitação.
+Vê-se que o único fato que dependeria de dilação probatória, é a realização solicitação de rastreamento e monitoramento de veículo.
+Ocorre que a própria autora-apelante, em suas razões recursais, assume de forma expressa não ter feito a solicitação de rastreamento (f. 302-303):
+ ..
+Resta evidente, portanto, a completa desnecessidade de produção de outras provas.
+Pontue-se, aliás, que a autora-apelante sequer menciona qual seria o fato que exigiria dilação probatória e qual seria a prova pertinente.
+Sendo assim, rejeito a preliminar de cerceamento de defesa (fls. 339-341).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
