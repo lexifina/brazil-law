@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de NAIANE MARIA DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido na Apelação n. 1503557-91.2021.8.26.0548,.
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, no regime fechado, e ao pagamento de 500 dias-multa, pela prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+A apelação manejada pela defesa foi desprovida, por aresto assim ementado:
+"APELAÇÃO CRIMINAL DEFENSIVA. TRÁFICO DE ENTORPECENTES. PRETENSÃO DE DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ART. 28, CAPUT, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. PROVAS ROBUSTAS. CONDENAÇÃO MANTIDA.
+Materialidade e autoria bem demonstradas nos autos. Laudo pericial comprovou a ilicitude das substâncias apreendidas. Policiais militares receberam chamado dando conta de que duas mulheres, com determinadas características, se encontravam traficando no local dos fatos, já conhecido ponto de venda de entorpecentes, onde se depararam com a ré e Susiany, cujas características coincidiam com as repassadas via Copom, acompanhadas de Denis. Durante a abordagem, Susiany e Denis se dirigiram no sentido de um banheiro público ali existente, tendo ela dispensado uma pochete contendo 32 porções de crack e a quantia de R$ 241,25. Já com a acusada apreenderam uma bolsa com 14 outras porções de crack e R$ 5,00. Informalmente, Denis declarou que havia acabado de entregar a Susiany uma nota de R$ 20,00, para adquirir drogas, enquanto a ré se disse usuária de entorpecentes. Denis confirmou em Juízo o depoimento que dera na fase inquisitorial, no sentido de que, ao chegar ao local dos fatos, identificou a acusada e Susiany como as pessoas que vendiam drogas. Acusada admitiu a propriedade das drogas, alegando contudo, que as substâncias se destinavam ao seu consumo. Circunstâncias da abordagem que evidenciam a finalidade mercantil dos entorpecentes. Impossibilidade de desclassificação para a conduta prevista no art. 28, caput, da Lei nº 11.343/06. Mantida a condenação da ré pelo crime de tráfico ilícito de entorpecentes.
+PENAS. Bases fixadas no piso legal, a despeito do mau antecedente da acusada. Na derradeira etapa, mantida a negativa do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06, pelo mau antecedente, concretizando-se suas penas em 5 (cinco) anos e 500 (quinhentos) dias-multa mínimos.
+REGIME PRISIONAL E BENEFÍCIOS LEGAIS. Manutenção do regime inicial fechado, ante a corporal concretizada e as circunstâncias judiciais desfavoráveis (art. 33, §§ 2º e 3º, do CP), a par da gravidade concreta do delito praticado. Incabível a concessão de sursis ou de substituição das penas corporais por restritivas de direitos, ante a quantidade de pena concretizada, superior a quatro anos, bem como do mau antecedente.
+Recurso defensivo improvido." (fls. 95/96)
+Na presente impetração, a defesa busca a aplicação do redutor da pena previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+A liminar foi indeferida por decisão de fls. 111/113.
+As informações foram prestadas às fls. 121/124 e 127/152.
+O Ministério Público Federal opinou pela denegação da ordem, em parecer de fls. 154/160.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+O voto condutor do julgado atacado, ao afastar o redutor assentou:
+"Na derradeira etapa, não era mesmo o caso de aplicação do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06, vez que o benefício, por expressa disposição legal, aplica-se somente aos réus primários e sem envolvimento com atividades criminosas, hipótese em que não se enquadra a acusada, como visto, condenada definitivamente por tráfico de drogas em outro processo, o que a qualifica, inclusive, como portadora de mau antecedente." (fl. 105)
+Assim, anota-se que "sendo a paciente portadora de maus antecedentes, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais, sendo certo que a utilização de tal vetor concomitantemente na primeira e terceira fase da dosimetria não enseja bis in idem. Precedentes" (AgRg no HC n. 835.740/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Ante o exposto, com fulcro no art. 34, inc. XX, do Regimento Interno do Superior Tribunal de Justiça , não conheço d o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
