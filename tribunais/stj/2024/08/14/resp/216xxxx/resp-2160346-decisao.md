@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO PÚBLICO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. AFASTADA ARGUIÇÃO DE NULIDADE DA DECISÃO RECORRIDA. PRELIMINARES REJEITADAS. MÉRITO. HONORÁRIOS ADVOCATÍCIOS EXECUTIVOS EM RAZÃO DA ANTERIOR INTERPOSIÇÃO DE EMBARGOS À EXECUÇÃO. ART. 85, §7º, DO CPC/15. INAPLICABILIDADE. REGRA DE DIREITO INTERTEMPORAL. VERBA HONORÁRIA INDEVIDA. DECISÃO MANTIDA.
+- Aplicando-se a parte final da regra de direito intertemporal contida no art. 14 do CPC/2015, que prevê a inaplicabilidade do novo Código de Processo Civil aos atos processuais já praticado e situações jurídicas consolidadas que tramitaram sob a égide do Codex anterior, não há falar em fixação de honorários sobre os créditos submetidos ao rito do precatório, nos termos do art. 85, § 7º, do CPC. Afinal, a execução e os embargos à execução tramitaram e foram julgados de acordo com as regras do CPC de 1973, aplicável à época.
+APELAÇÃO CÍVEL DESPROVIDA.
+Os recorrentes apontam ofensa ao art. 85, § 7º, do CPC/2015. Defendem o reconhecimento do direito aos honorários advocatícios na fase de execução de sentença contra a Fazenda Pública, mesmo em casos de pagamento por precatório, quando houver impugnação à execução.
+Contrarrazões nas fls. 897-913.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 30.7.2024.
+Em estrita conformidade com a Súmula 568/STJ e lastreado na análise sistemática dos arts. 1º ao 12 e 932 do CPC, bem como do art. 34, XVIII, do RI/STJ, verifico que a presente lide pode ser decidida monocraticamente. Tal procedimento alinha-se aos princípios da celeridade processual e da vinculação aos precedentes judiciais, conforme preconizado na atual legislação processual civil.
+Ressalto que a decisão monocrática está sujeita ao mecanismo de controle colegiado por meio da interposição de Agravo Interno, tal como prescrito no art. 1.021 do CPC, em observância ao princípio da colegialidade.
+A Corte local enfrentou adequadamente todas as questões pertinentes ao litígio, de forma justificada e objetiva. A alegação de negativa de prestação jurisdicional não se sustenta, pois o magistrado não está obrigado a se manifestar sobre todos os dispositivos e argumentos ventilados pelas partes, desde que traga solução fundamentada à causa. Esse entendimento está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual não há omissão quando são abordados todos os pontos essenciais ao deslinde da demanda.
+A controvérsia central reside na possibilidade de aplicação do art. 85, § 7º, do CPC/2015 aos honorários advocatícios em execução de sentença contra a Fazenda Pública, cujo rito se iniciou sob a égide do CPC de 1973.
+Conforme disposição do art. 14 do CPC/2015, "a norma processual não retroagirá e será aplicável imediatamente aos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada".
+No caso concreto, a execução foi ajuizada em setembro de 2011 e os embargos à execução foram julgados em agosto de 2013, ambos sob a vigência do CPC de 1973. Desse modo, a fixação dos honorários advocatícios na execução seguiu o regime jurídico então em vigor, não sendo aplicável a norma superveniente.
+O disposto no art. 85, § 7º, do CPC/2015 não se aplica a atos processuais consolidados sob a égide do CPC/1973 por força da regra de direito intertemporal prevista no art. 14 daquele código, em respeito aos atos processuais praticados e às situações jurídicas consolidadas sob a vigência da lei revogada.
+Os recorrentes alegam ainda ofensa aos princípios do contraditório e da vedação à decisão surpresa, pois a ação foi extinta sem a intimação prévia das partes sobre a pendência de honorários. No entanto, conforme consignado pelo Tribunal a quo, a extinção da execução em face do pagamento foi consequência lógica do andamento processual. De resto, a execução e os embargos à e xecução tramitaram sob o CPC/1973, que não exigia intimação prévia para o arbitramento de honorários.
+O Recurso Especial também não pode prosseguir pela alínea "c" do permissivo constitucional porque o dissídio não preenche os requisitos do art. 1.029, § 1º, do Código de Processo Civil, visto que os recorrentes restringem-se a indicar julgados, sem, contudo, proceder ao adequado cotejo analítico demonstrador da similitude fática entre o aresto impugnado e a aduzida divergência, além de não providenciar a juntada do inteiro teor dos precedentes.
+Diante do exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
