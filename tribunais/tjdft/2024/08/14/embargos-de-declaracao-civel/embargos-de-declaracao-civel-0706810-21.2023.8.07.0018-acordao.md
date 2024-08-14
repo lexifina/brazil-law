@@ -1,0 +1,57 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0706810-21.2023.8.07.0018APELANTE(S)DISTRITO FEDERALAPELADO(S)ASSOCIACAO DA IGREJA METODISTA - OITAVA REGIAO ECLESIASTICARelatorDesembargador CARLOS ALBERTO MARTINS FILHO
+ Acórdão Nº1907185
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. FUNDAMENTAÇÃO VINCULADA. AUSÊNCIA DE OMISSÃO OU OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. VIA IMPRÓPRIA.
+
+1. Os embargos de declaração têm fundamentação vinculada e se prestam a sanar obscuridade, omissão ou contradição existentes na decisão embargada, além de corrigir eventual erro material.
+
+2. O acórdão não padece de nenhum dos vícios apontados nos incisos do art. 1.022 do Código de Processo Civil, tendo em vista não haver qualquer omissão, contradição, obscuridade ou erro material.
+
+3. Há jurisprudência pacificada de que o órgão julgador não está obrigado a se manifestar sobre todas as alegações levantadas pelas partes e dispositivos legais invocados, mas apenas a respeito dos pontos relevantes para fundamentar a conclusão exposta no provimento judicial.
+
+4. Embargos de declaração conhecidos e rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARLOS ALBERTO MARTINS FILHO - Relator, TEÓFILO CAETANO - 1º Vogal e RÔMULO DE ARAÚJO MENDES - 2º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Agosto de 2024
+
+Desembargador CARLOS ALBERTO MARTINS FILHORelator
+
+RELATÓRIO
+
+A parte ré-apelante opôs os embargos de declaração ID 61194473, e não explica quais os vícios acometem o julgado, limitando-se a repetir a matéria objeto do recurso. Em síntese, afirma haver erro material no julgado e requer o “provimento dos embargos de declaração, com efeitos modificativos, para sanear o equívoco material da decisão (ao considerar as apeladas como estabelecimentos matriz e filial) e, por conseguinte dar provimento à apelação”.
+
+Acórdão no ID 60073914.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador CARLOS ALBERTO MARTINS FILHO - RelatorPresentes os pressupostos de admissibilidade, conheço o recurso apenas no efeito devolutivo (art. 1.026, CPC).
+
+Os embargos de declaração têm fundamentação vinculada e se prestam a sanar obscuridade, omissão ou contradição existentes na decisão embargada, além de corrigir eventual erro material.
+
+Todavia, não se constata da decisão recorrida quaisquer dos vícios enumerados no artigo 1.022 do Código de Processo Civil, de modo que o pedido contém mera pretensão de reexame do julgado.
+
+Sobre os vícios alegados, o acórdão não é obrigado a afastar cada um dos argumentos das partes, embora tenha reconhecido que a instituição religiosa comprovou a sua constituição e a propriedade dos imóveis, além da comprovação dos débitos a título de IPTU e TLP. Julgo que a decisão não padece de nenhum dos vícios apontados nos incisos do art. 1.022 do Código de Processo Civil, tendo em vista que não houve qualquer omissão, contradição, obscuridade ou erro material.
+
+Assim, os embargos declaratórios não se prestam ao reexame de matéria já decidida à luz dos fundamentos jurídicos invocados, tampouco para forçar o ingresso na instância extraordinária se não houver omissão, contradição, obscuridade ou erro a serem supridos.
+
+É que a falta de ocorrência de vícios demonstra o interesse da parte embargante de rediscutir a matéria já enfrentada, providência incompatível com o manejo dos embargos de declaração.
+
+Há jurisprudência pacificada de que o órgão julgador não está obrigado a se manifestar sobre todas as alegações levantadas pelas partes e dispositivos legais invocados, mas apenas a respeito dos pontos relevantes para fundamentar a conclusão exposta no provimento judicial.
+
+Ausentes, portanto, quaisquer dos vícios enumerados no artigo 1.022 do Código de Processo Civil, REJEITO os embargos declaratórios.
+O Senhor Desembargador TEÓFILO CAETANO - 1º Vogal Com o relatorO Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DOS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME
