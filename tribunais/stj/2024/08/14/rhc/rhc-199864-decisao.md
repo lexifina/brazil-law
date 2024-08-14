@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por DANILO FELIX DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5066108-76.2024.8.21.7000/RS).
+Consta dos autos ter sido o recorrente preso cautelarmente, por supostamente integrar grupo criminoso voltado para o tráfico de entorpecentes.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada.
+Neste recurso, sustenta a defesa inexistir motivação idônea para a segregação antecipada, asseverando que o recorrente é o responsável pelo sustento de seu filho menor.
+Defende a suficiência da imposição de medidas diversas do cárcere.
+Busca, inclusive liminarmente, seja revogada a prisão preventiva do recorrente, mesmo que mediante a imposição de medidas diversas do cárcere.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo desprovimento do recurso.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 151/153):
+Nos autos do inquérito policial instaurado sob o n. 72/2023/153101, apura, a autoridade policial, a prática dos delitos de tráfico de entorpecentes, associação para o tráfico, bem assim o delito de lavagem de capitais, perpetrados, em tese, pelos suspeitos investigados.
+Conforme se depreende dos autos, as investigações iniciaram com a implementação de medida investigativa de infiltração de agente e autorização de ação controlada, implementadas a partir do deferimento judicial, nos autos do expediente cautelar correlato n. 500769-37.2023.8.21.0007.
+Os indícios iniciais eram no sentido de que William de Araújo e sua companheira Lidiane Pereira dos Santos mantinham vínculo, para fins de traficância, com Daniel Carvalho Garcia. Ainda, a partir da implementação das medidas acima referidas, verificou-se também vínculo dos suspeitos investigados com Danilo Félix da Silva e que a associação, possivelmente, possui ligações com a organização criminosa denominada os manos.
+Adianto, pois, estarem presentes os indícios de materialidade e autoria delitiva na pessoa dos representados. A representação está instruída com relatórios de investigação, além de vídeos - estes realizados quando das medidas de infiltração - que demonstram a prática delitiva imputada aos representados, sobretudo, a traficância.
+Conforme constatado por meio da implementação da técnica investigativa de infiltração de agente, o investigado DANIEL CARVALHO FONSECA realizou a venda de entorpecentes ao policial disfarçado, esta registrada em vídeo, bem assim na ocorrência policial n.993/2023/153101.
+Atinente ao representado DANILO FÉLIX DA SILVA, este realiza a venda de entorpecentes em sua residência, inclusive tendo sido constatada a formação de filas de usuários para a compra dos entorpecentes. Sequer a presença de moradores e crianças na localidade inibem o comércio de entorpecentes, que ocorre, inclusive, a luz do dia.
+ ..
+A partir da análise da representação e dos elementos que a acompanham, tenho que inexiste outro caminho a ser seguido, senão o deferimento da medida postulada, a fim de permitir a continuidade e o aprofundamento das investigações.
+Sabido que a prisão preventiva é uma medida excepcional que afeta o status libertatis, direito garantido constitucionalmente, de sorte que seu deferimento deve obedecer ao princípio da legalidade, indicando-se os motivos para a restrição do exercício do direito de liberdade.
+No presente feito, há prova da materialidade e indícios suficientes de autoria na pessoa dos representados, consoante se extrai do expediente, de sorte que preenchido, pois, o fumus comissi delicti, contido no art. 312, in fine, do Código de Processo Penal. Igualmente, presente o periculum libertatis, requisito presente na primeira parte do art. 312, do Código de Processo Penal.
+Trata-se, pois, de associação para o tráfico de drogas, cujos integrantes realizam a venda dos entorpecentes durante o dia, inclusive em locais que circulam crianças. Mais ainda, os indícios de lavagem de capitais, com a circulação de vultuosa quantia, também justificam a segregação cautelar.
+Necessária a medida cautelar pela situação de perigo criada pela conduta dos representados, que põe em risco a garantia da ordem pública. (Grifei.)
+O Tribunal de origem, ao vislumbrar que a soltura do recorrente caracterizaria risco à ordem pública, denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 103):
+Como se vê, a custódia provisória foi decretada em decisão devidamente fundamentada, embasada em dados concretos, consistente em prévia investigação que identificou Danilo como integrante de uma associação voltada para o comércio ilícito de drogas.
+De efeito, durante o monitoramento, os policiais constataram um intenso fluxo de usuários de drogas, que se deslocavam até a casa do paciente, com o objetivo de comprar entorpecentes, sendo observada, inclusive, a formação de filas de usuários, que aguardavam na calçada para adquirirem entorpecentes. Consta do expediente, ainda, que os usuários fazem "(..) uso da droga, principalmente, crack, no fim da rua", tornando o local uma "cracolândia" .
+O vínculo do paciente com a associação delituosa, e o fato dele fazer do comércio ilícito de drogas uma prática habitual, demonstram a gravidade concreta do delito e a necessidade da manutenção de sua prisão preventiva, como meio de preservar a paz social.
+ ..
+Ademais, a despeito de primário, o paciente ostenta condenação provisória pelo delito de tráfico de drogas (processo n. 5002266-57.2021.8.21.0007), assim como responde a outras ações penais, dentre elas uma pelo crime de tráfico de drogas (processo n. 5004654-98.2019.8.21.0007) e outra pelo delito de receptação (processo n. 5000928-14.2022.8.21.0007), o que revela o risco concreto de reiterar na prática delitiva.
+Assim, em razão das características da conduta delituosa narrada, o decreto prisional demonstrou que o ora recorrente seria membro de destaque de organização criminosa especializada na prática de tráfico de drogas e lavagem de capitais, possivelmente ligada ao grupo "os manos".
+Tal circunstância autoriza a decretação da prisão preventiva, pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+Nesse mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A necessidade da custódia cautelar está fundamentada na garantia da ordem pública, evidenciada pelo modus operandi da organização criminosa voltada para o tráfico de drogas, da qual, supostamente, o paciente faz parte, eis que, após um mês de investigações, identificou-se que ele e outros corréus transitavam entre os territórios/brasileiros e de Riviera/Uruguai na venda de drogas.
+ ..
+3. Ordem denegada. (HC n. 353.594/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 5/5/2016, DJe 16/5/2016.)
+RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É possível a decretação da prisão preventiva quando se apresenta efetiva motivação para tanto.
+2. Na espécie, a prisão preventiva foi decretada tendo em vista as peculiaridades do caso concreto (agente supostamente integrante de complexa organização criminosa, voltada à disseminação de grande quantidade de drogas, as quais são adquiridas no Paraná com a finalidade de distribuição em Minas Gerais, tendo sido apreendidos 231 kg de maconha).
+3. Recurso em habeas corpus improvido. (RHC n. 65.669/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/4/2016, DJe 9/5/2016.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+ ..
+2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes (Tiago Gonçalves, companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita .
+3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+ ..
+8. Recurso ordinário improvido. (RHC n. 83.321/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do CPP não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Por fim, como bem anotou o acórdão impugnado (e-STJ fl. 105):
+Por fim, quanto ao pleito de abrandamento da situação prisional, em razão de o paciente ser genitor de duas crianças menores de 12 anos de idade, pontuo que tal circunstância não lhe confere, automaticamente, o direito à concessão da benesse disposta no artigo 318, inciso III do CPP, uma vez que o aludido dispositivo legal exige a demonstração de que os impúberes necessitem de cuidados especiais que não possam ser realizados por outra pessoa, o que não restou evidenciado nos autos.
+Para além disso, segundo constou da decisão que manteve a custódia provisória do paciente, "(..) o acusado perpetrava o tráfico de entorpecentes na sua residência", expondo os seus filhos ao costumeiro tráfico de drogas, de modo a tornar inadequada a adoção da medida requerida.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
