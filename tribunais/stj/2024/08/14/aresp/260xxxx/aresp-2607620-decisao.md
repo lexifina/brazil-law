@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição da República) interposto de acórdão cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER - ANTECIPAÇÃO DE TUTELA DEFERIDA PELO JUÍZO A QUO PARA DETERMINAR QUE O RÉU FORNECA OS MEDICAMENTOS NECESSÁRIOS AO TRATAMENTO DO AUTOR, PORTADOR DE CERATOCONE EM AMBOS OS OLHOS - CONVERSÃO DE OBRIGAÇÃO DE FAZER PELO JUÍZO E DETERMINAÇÃO DE SEQUESTRO DE VERBAS PARA REEMBOLSO DE VALORES DESPENDIDOS COM A AQUISIÇÃO DE MEDICAMENTO - DEFERIMENTO DO PEDIDO - INCONFORMISMO MANIFESTADO PELA EDILIDADE - DECISAO QUE DEVE SER MANTIDA - SEQUESTRO DE VERBAS PÚBLICAS QUE DEVE OCORRER EM RAZÃO DE EXCEPCIONAL E PREMENTE NECESSIDADE - REITERADOS DESCUMPRIMENTOS DO COMANDO JUDICIAL E EVOLUÇÃO DA DOENÇA COM PROGRESSÃO DE CEGUEIRA UNILATERAL NO OLHO ESQUERDO. SÚMULA Nº 178 DESTE TRIBUNAL DE JUSTIÇA - DECISÃO AGRAVADA MANTIDA - NEGA-SE PROVIMENTO AO RECURSO.
+Os Embargos de Declaração foram rejeitados.
+O recorrente alega omissão no acórdão recorrido e aduz:
+Ocorre que o acórdão impugnado violou os artigos 489, §1º, IV, 1.022, II, do Novo Código de Processo Civil, vez que não obstante a interposição de embargos de declaração, o Tribunal ad quem não se manifestou acerca da tese do recorrente referente a necessidade no caso em tela de comprovação dos gastos com a realização dos exames de tomografia da córnea trimestralmente pelo recorrido, bem como de juntada aos autos do processo originário de laudo médico atualizado contendo todos os fármacos necessários para o tratamento da patologia e a necessidade de realização do exame de tomografia da córnea trimestralmente, conforme determinado pelo acórdão transitado em julgado (indexador 268).
+(..)
+Assim, infere-se que ao contrário do que consta da decisão recorrida,o exame de tomografia da córnea deve ser devidamente prescrito pelo médico que atende o recorrido e comprovado nos autos o gasto com o referido exame, devendo ser afastado o entendimento do magistrado de primeiro grau e confirmado pelo Tribunal ad quem no sentido de que o recorrido deve apenas juntar o comprovante de compra dos fármacos no prazo de 10 (dez) dias.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3.7.2024.
+Preliminarmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois a Corte local julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Dessarte, não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses da parte ora recorrente. Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+O Colegiado originário registrou (fls. 51-60):
+Desse modo, em razão da resistência injustificada no cumprimento da obrigação de fazer determinada por sentença transitada em julgado, perfeitamente cabível a conversão da obrigação em perdas e danos e possibilidade, já reconhecida na jurisprudência, do bloqueio de verbas para a aquisição de medicamentos ou mesmo efetivação de conversão de obrigação e dar em perdas e danos, como medida coercitiva em razão do descumprimento de decisão judicial, neste mister, como na hipótese presente, destacando-se que em nenhum momento o agravante comprova o recebimento, pela parte autora, dos medicamentos pleiteados na inicial, bem como o pagamento dos valores convertidos pelo Juízo.
+Os pontos acima evidenciados não foram combatidos; logo, o não preenchimento dos requisitos constitucionais exigidos para a interposição do Recurso dirigido ao Superior Tribunal de Justiça caracteriza deficiência na argumentação. Ante a motivação deficiente e a ausência de impugnação a fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/5/2013)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
