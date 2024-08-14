@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de MARCO ANTONIO DURANTE em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que indeferiu o pedido de liminar formulado no HC n. 007485-21.2024.8.16.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito capitulado no art. 33, caput, da Lei n. 11.343/2006.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea, além de não estarem presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Reclama que "a única prova usada para embasar a prisão do Paciente, é um pix de R$ 150,00 em sua conta bancária, realizada através da chave pix do seu CPF. Nas mensagens interceptadas NÃO é possível verificar que de fato o Paciente participou da suposta prática delitiva, não há qualquer mensagem trocada do paciente Marcos com os réus no processo principal, mas sim uma pessoa nominada como "THOMAS", que passa o CPF do paciente" (fl. 8).
+Aduz que revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer, assim, liminarmente e no mérito, a expedição de alvará de soltura, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão cautelar foi decretada com base na seguinte motivação, adotada na origem (fls. 21/22):
+No que tange aos indícios de autoria, estes também restaram evidenciados a partir dos elementos colhidos na investigação. Senão vejamos.
+Infere-se do presente feito que no dia 17/05/2024, os acusados JONATHAN LIMA DASILVA, MATHEUS SOBRAL BALMANT e SIDNEI JONATHAN DA SILVA MORAES foram abordados e presos em flagrante transportando significativa quantidade de drogas. A prisão em flagrante deu origem aos autos n. 0006277-49.2024.8.16.0170, no qual os réus foram denunciados como incurso nas sanções penais do art. 33, "caput", da Lei 11.343/06 e art.330, "caput", do Código Penal.
+Segundo consta, na madrugada do dia 17/05/2024, nas imediações da estrada de Ouro Verde próximo a esta cidade e Comarca de Toledo/PR, policiais da ROTAM, da Agência Local de Inteligência do 19º BPM, DENARC de Cascavel, PRF e RPA de Toledo localizaram e apreenderam aproximadamente 260 kg da substância entorpecente vulgarmente conhecida maconha, acondicionada no interior do veículo Fiat/Linea, cor preta, de placas AQW1F07. O condutor do veículo foi identificado como sendo MATHEUS SOBRAL BALMANT e a bordo também estavam os denunciados JONATHAN LIMA DA SILVA e SIDNEI JONATHAN DA SILVA MORAES.
+Por ocasião de seu interrogatório extrajudicial, o denunciado MATHEUS afirmou que receberia dois mil reais pelo transporte do entorpecente (movs.1.6/7). O acusado JONATHAN, por sua vez, relatou que ele e o comparsa SIDNEI tinham conhecimento do transporte da droga e que seriam os batedores da carga, porém, o automóvel que estavam quebrou e precisaram voltar com o MATHEUS (movs.1.4/5). Já o acusado SIDNEI informou que ele e o colega não seriam batedores, e que apenas pegaram uma carona com o MATHEUS (movs.1.9/10).
+Em continuidade às investigações, a autoridade policial representou pela quebra de sigilo de dados telemáticos dos aparelhos celulares apreendidos em poder dos acusados, o que foi deferido pelo Juízo em processo incidental (autos n. 006309-54.2024.8.16.0170). Na sequência, sobreveio aos presentes autos os relatórios de extração de dados (movs.1.13 e1.14).
+Neste contexto, em análise aos dados e diálogos registrados nos aparelhos celulares, a autoridade policial identificou que MATHEUS era o motorista responsável pelo transporte do entorpecente e que os acusados JONATHAN e SIDNEI atuavam como batedores. A autoridade policial apurou, por fim, que além dos três indivíduos que foram presos transportando o entorpecente, havia mais um indivíduo auxiliando "na bandeira da estrada", atuando igualmente na função de batedor.
+O quarto indivíduo foi identificado pela autoridade policial como sendo MARCO ANTONIO DURANTE, cuja identificação se deu através de seu PIX, encaminhado em um grupo de WhatsApp para fins de recebimento do seu pagamento (mov. 1.14, fls. 02 a 03).
+Conforme consta, referido grupo de WhatsApp estava sendo utilizado para troca de mensagens entre os indivíduos a respeito do transporte da droga.
+Desse modo, diante dos elementos acostados aos autos, a custódia cautelar do representado se faz necessária para garantia da ordem pública. Observa-se dos relatórios de extração de dados (movs.1.13 e 1.14) a gravidade em concreto da conduta supostamente praticada pelo representado. Há indícios de que o representado teria agido em coautoria delitiva com os demais acusados, exercendo a função de batedor com relação ao transporte de significativa quantidade de droga.
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
