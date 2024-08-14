@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gabriel Ferreira Ferreira apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul nos autos do Recurso em sentido estrito n. 5006041-61.2023.8.21.0023/RS.
+Consta do processo que o paciente foi denunciado como incurso no delito de tráfico de drogas, em face da apreensão de 0,5 g de cocaína, 5,5 g de maconha e 250 g de maconha (fls. 36/42).
+Decisão rejeitando a denúncia, quanto ao art. 33, caput, da Lei n. 11.343/2006, e revogando a prisão de Gabriel Ferreira Ferreira (fls. 32/35).
+Em sede de recurso em sentido estrito, interposto pelo Ministério Público do Rio Grande do Sul, a Corte local deu provimento ao recurso, para receber a denúncia e determinar o prosseguimento da ação penal (fls. 27/30).
+No presente writ, a defesa aponta a nulidade das provas, pela ausência de comprovação da existência de mercancia da droga apreendida (fls. 3/26).
+Decisão indeferindo o pedido liminar (fls. 61/63).
+Prestadas informações (fls. 69/75).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 186/187).
+É o relatório.
+No caso, confira-se trecho do acórdão sobre como estão os fatos narrados na denúncia e os fundamentos trazidos pela Corte local para determinar o prosseguimento da ação penal (fl. 28):
+ ..
+Acontece que, segundo o apurado até o momento, apenas por avistar a guarnição que fazia o patrulhamento no local, os denunciados empreenderam fuga em direção ao interior de um imóvel, ocasião em que os agentes da segurança perceberam que Pablo empunhava uma arma de fogo e que Gabriel dispensou uma sacola para fora da janela do imóvel.
+Assim, dotados de fundadas suspeitas de um flagrante, os brigadianos ingressaram na moradia, onde apreenderam significativa quantidade de entorpecentes e uma arma de fogo.
+Nesse quadro, impossível não se vislumbrar o ânimo mercantil das substâncias tóxicas apreendidas, tanto pela sua grande quantidade, que permitia a feitura de mais de 250 porções individuais, pelos apetrechos localizados, tais como balança de precisão e um revólver, como pelas circunstâncias do flagrante, uma vez que os réus empreenderam fuga sem qualquer motivo aparente, o que evidencia intenso sentimento de culpa, de maneira que se mostra imprescindível a realização da instrução criminal para o deslinde do caso.
+Ante o exposto, voto por DAR PROVIMENTO ao recurso, a fim de receber a denúncia e determinar o prosseguimento do feito em seus ulteriores termos.
+ ..
+Verifica-se que a Corte local trouxe concreta motivação para dar prosseguimento à ação penal. O julgador considerou a quantidade de drogas, o fato de os pacientes terem fugido para o interior de um imóvel, ao avistarem os policiais, além de ter o paciente dispensado uma sacola para fora da janela e também estar um dos acusados com uma arma de fogo.
+Sabe-se que a extinção da ação penal, pela via do habeas corpus, somente se dá em hipóteses excepcionais, nas quais seja patente a atipicidade da conduta, a ausência de indícios mínimos de autoria e materialidade do delito, ou a presença de alguma causa extintiva de punibilidade, requisitos não vislumbrados na hipótese (AgRg no HC 908802/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 3/7/24). No caso, há indícios de autoria e materialidade, de modo que não há ilegalidade no prosseguimento do feito. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. INÉPCIA DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O trancamento de ação penal por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito.
+2. A denúncia imputa à agravante e aos demais acusados a prática dos crimes previstos no art. 2º da Lei n. 12.850/2013, no art. 1º, § 4º, da Lei n. 9.613/1998. A peça acusatória contém narrativa clara acerca dos fatos e apresenta contextualização suficiente, de forma a viabilizar o pleno exercício da defesa da ora recorrente.
+3. "Na linha dos precedentes desta Corte, não é necessário que a denúncia apresente detalhes minuciosos acerca da conduta supostamente perpetrada, pois diversos pormenores do delito somente serão esclarecidos durante a instrução processual, momento apropriado para a análise aprofundada dos fatos narrados pelo titular da ação penal pública" (AgRg no AREsp n. 1.831.811/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/6/2021, DJe de 29/6/2021).
+4. O reconhecimento da inexistência de justa causa para o prosseguimento da ação penal e da atipicidade da conduta exigem profundo exame do contexto probatórios dos autos, o que é inviável na via estreita do writ. Nesse sentido: RHC 51.659/CE, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/5/2016, DJe 16/5/2016; e RHC 63.480/SP, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 1/3/2016, DJe 9/3/2016.
+5. In casu, a denúncia está amparada em diversos elementos informativos coligidos nas investigações que comprovaram não apenas as transações bancárias realizadas pela ora recorrente e outro corréu, mas também indícios de ilicitude dos recursos branqueados, oriundos do tráfico de drogas e do comércio de armas, infrações penais antecedentes.
+6. "O crime de lavagem de capitais é delito autônomo em relação à infração penal antecedente. Assim, a falta de identificação da autoria ou da comprovação da materialidade do crime antecedente não prejudica a imputação de lavagem de ativos, sendo de se exigir apenas a demonstração da ilicitude da origem dos ativos" (AgRg no REsp n. 1.875.233/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), relator para acórdão Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 23/6/2022).
+7. Se as instâncias ordinárias reconheceram que as condutas imputadas ao paciente, em princípio, se subsomem aos tipos previstos no art. 2º da Lei n. 12.850/2013, no art. 1º, § 4º, da Lei n. 9.613/1998, verifica-se a existência de justa causa para o prosseguimento da ação penal.
+8. Agravo regimental desprovido.
+(AgRg no RHC 196919 / RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 01/07/2024).
+Ademais, os fatos apontados na denúncia e no acórdão hostilizado não podem ser objeto de reexame, em sede de habeas corpus para esta Corte Superior, por demandar o reexame das provas.
+Ante o exposto , denego o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPETRADO NO CURSO DE AÇÃO PENAL. ORDEM QUE, SE EVENTUALMENTE CONCEDIDA, PODERÁ INFLUENCIAR DIRETAMENTE NO STATUS LIBERTATIS DO PACIENTE. TRÁFICO DE DROGAS. 0,5 G DE COCAÍNA, 5,5 G DE MACONHA E 250 G DE MACONHA. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE DEMONSTRAÇÃO DE MERCANCIA. MATERIALIDADE COMPROVADA E INDÍCIOS DE AUTORIA. REEXAME DE FATOS. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO QUANTO AO PROSSEGUIMENTO DO FEITO.
+Ordem denegada.
