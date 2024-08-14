@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIAN HENRIQUE TAVARES SOUZA (fls. 476-484) contra a decisão (fls. 462-464) que não admitiu o recurso especial (fls. 412-422) interposto com fundamento no art. 105, inc. III, alínea a, da Constituição da República, para impugnar o acórdão assim ementado (fl. 383):
+DIREITO PENAL. CONTRABANDO. ART. 334-A DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. ERRO DE TIPO NÃO EVIDENCIADO. ENUNCIADO Nº 231 DA SÚMULA DO STJ. VALOR DA PRESTAÇÃO PECUNIÁRIA. REDUÇÃO.
+1. A internalização clandestina de cigarros e assemelhados configura contrabando, nos termos do art. 334-A do Código Penal, afrontando diretamente o controle das importações e, indiretamente, a saúde pública.
+2. A Quarta Seção desta Corte alinha-se à jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça no sentido da inaplicabilidade do princípio da insignificância ao crime de contrabando de cigarros, excepcionando casos em que a quantidade de cigarros contrabandeados seja ínfima e que não haja sinais de destinação comercial.
+3. Seja em razão da inconsistência no interrogatório da ré, seja em razão dos depoimentos prestados pelas testemunhas e das circunstâncias que circundam o caso concreto, não há como dar crédito à negativa de autoria, que restou bem estabelecida pelos elementos existentes nos autos.
+4. Em casos como o presente, o elemento subjetivo, consistente na consciência e na vontade de praticar o tipo penal, sobressai das circunstâncias do delito. Erro de tipo não configurado.
+5. O enunciado nº 231 da Súmula do STJ não padece de inconstitucionalidade, como alega a defesa, sendo plenamente aplicável o entendimento nele sedimentado.
+6. Quanto ao valor da prestação pecuniária (art. 43, inc. I, do Código Penal), cumpre referir que o julgador, dentre os parâmetros estabelecidos pelo art. 45, § 1º, do Código Penal, deve considerar certos fatores, de modo a não tornar a prestação em pecúnia tão diminuta a ponto de mostrar-se inócua, nem tão excessiva que inviabilize seu cumprimento. Tal prestação deve ser su ciente para a prevenção e a reprovação dos crimes praticados, atentando-se, ainda, para a extensão dos danos decorrentes dos ilícitos e para a situação econômica do condenado, a  m de que se possa viabilizar seu cumprimento.
+O agravante CRISTIAN HENRIQUE TAVARES SOUZA foi condenado à pena de 2 anos de reclusão, em regime inicial aberto, substituída a pena privativa de liberdade por restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, fixada em 7 salários mínimo, pela prática do crime tipificado no art. 334-A do Código Penal. O Tribunal de origem deu parcial provimento ao recurso de apelação da defesa técnica, apenas para a redução do valor da prestação pecuniária,  xado individualmente em 2 (dois) salários mínimos vigentes à época do pagamento.
+No recurso especial é apontada violação do art. 20 do CP, pois não se pode afastar a tese de erro sobre o elemento essencial do tipo penal do contrabando, por fundamento de vida pregressa do recorrente, resquício da aplicação do direito penal do autor e não do fato. Entretanto, esse recurso não foi admitido, haja vista o óbice do enunciado n. 7 da Súmula do STJ.
+Portanto, pretende-se o provimento do agravo, a fim de ser conhecido o recurso especial.
+É o relatório.
+Decido.
+O recurso especial não foi admitido, pois o Tribunal de origem entendeu (fls. 462-464):
+ ..
+A sistemática dos recursos excepcionais impõe que o exame levado a efeito pelos Tribunais Superiores  que adstrito às questões de direito, uma vez que os temas de índole fático-probatória exaurem-se com o julgamento nas vias ordinárias. Isto importa dizer que o exame da matéria fática e das provas é efetivado com profundidade e se esgota no segundo grau de jurisdição.
+Assim, a pretensão recursal não merece trânsito, porque a reanálise a respeito da comprovação da conduta delitiva demandaria invariavelmente o reexame de todo o acervo fático-probatório, medida vedada em recurso especial, por óbice da Súmula nº 07 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial"). Nesse sentido:
+ ..
+Ante o exposto, não admito o recurso especial.
+Intimem-se.
+O recurso especial não foi admitido, pois nele pretende-se rediscutir fatos e provas, a fim de absolver o agravante, sustentando a tese do erro sobre elemento do tipo penal (art. 20 do CP), o que encontra óbice no enunciado n. 7 da Súmula desta Corte Superior, porque, para reformar o entendimento das instâncias ordinárias, é necessário reexaminar as provas dos autos, a fim de aferir se houve ou não a conduta delitiva.
+Na petição de agravo de fls. 476-484 não se demonstrou, eficientemente, como seria possível acolher os argumentos da parte recorrente sem o reexame de fatos e provas, haja vista que a defesa técnica, no geral, repetiu argumentos já expostos na petição de recurso especial de fls. 462-464 .
+A ausência de impugnação adequada aos fundamentos apresentados pelo Tribunal de origem para não admitir o recurso especial, nos termos do art. 932, inc. III, do Código de Processo Civil (CPC), obsta o conhecimento do agravo, porque o propósito desse recurso é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso anterior, por meio de impugnação específica de cada um deles.
+Incumbe ao agravante demonstrar o equívoco da decisão agravada, sendo imprescindível que impugne todos os óbices por ela apontados de maneira específica e suficientemente demonstrada (art. 932, III, do CPC, c/c art. 3º do CPP). E, por isso, no presente caso, aplica-se o óbice do enunciado n. 182 da Súmula do STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
