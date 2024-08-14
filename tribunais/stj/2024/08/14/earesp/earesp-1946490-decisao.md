@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial, este interposto por DULAGO COMERCIAL DE PRODUTOS QUÍMICOS E TINTAS LTDA, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 652):
+ANULATÓRIA. REGISTRO PÚBLICO. ARREMATAÇÃO DE BENFEITORIAS. DESCRIÇÃO NO AUTO DE PENHORA, NO EDITAL DE LEILÃO, NO AUTO E NA CARTA DE ARREMATAÇÃO. OMISSÃO NO REGISTRO PÚBLICO. NULIDADE. INEXISTÊNCIA.
+Existindo indicação de constrição das benfeitorias no auto de penhora, no edital de leilão, no auto de arrematação e na sua respectiva carta inexiste nulidade no registro público que as omite na averbação de arrematação, pois não houve prejuízo à devedora que, desde a penhora, detinha conhecimento dessa constrição.
+Opostos sucessivos embargos de declaração, foram todos rejeitados, com aplicação de multa de 2% nos segundos e majoração da sanção prevista no art. 1.026, §§2º e 3º, do CPC para 10%, nos terceiros aclaratórios (fls. 738/741, 798/801 e 874/878).
+Nas razões do apelo especial, aponta o recorrente, violação dos arts. 489, 1.022, 1.026, §§ 2º e 3º, 502, 503, 505, 506 e 508 do CPC; 1.228, 1.245 e 1.247, do CC.
+Sustenta, em síntese, que: (I) existe omissão no julgado; (II) há coisa julgada material que impede a análise da controvérsia; e (III) é necessário o afastamento da multa e sua majoração, previstas no art. 1.026, §§ 2º e 3º, do CPC tendo em vista que a oposição de seus três sucessivos aclaratórios não pode ser considerada como medida de intuito protelatório.
+Contrarrazões pela União às fls. 976/982.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, o Tribunal de origem decidiu que "O decidido no Agravo de Petição nº 01615-2004.027.12.009 não produz coisa julgada sobre este feito, uma vez que suas partes (Denir de JesusMaciel e Althoff Supermercados Ltda.) são distintas das desta demanda. Assim, aqui também inexiste a preliminar suscitada." (fl. 655), assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No que remanesce, o Tribunal de origem não se pronunciou sobre as demais teses e respectivos dispositivos legais, a despeito da oposição de embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+Por fim, não há como afastar a multa imposta pelo art. 1.026, § 2º, do CPC, tendo em vista o caráter manifestamente protelatório dos sucessivos embargos de declaração. Registre-se que a jurisprudência do STJ firmou a compreensão de que os embargos de declaração são cabíveis apenas para corrigir eventuais equívocos existentes no acórdão, de forma que a conduta que se distancia do propósito legal de sanar omissão, ou mesmo de prequestionar a matéria, enseja a aplicação da multa.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. TRIBUTÁRIO. PRESCRIÇÃO RECONHECIDA. ALEGAÇÃO DE QUE OS EMBARGOS DECLARATÓRIOS NÃO FORAM PROTELATÓRIOS, MAS TINHAM O OBJETIVO DE PREQUESTIONAR A MATÉRIA. INOCORRÊNCIA. TENTATIVA DE REEXAME DE TODA A MATÉRIA JÁ APRECIADA E REJEITADA NO RECURSO DE APELAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há como afastar a multa aplicada com fundamento no art. 538 do CPC, porquanto os Embargos de Declaração são considerados protelatórios já que a parte repetiu todas as teses já apreciadas e rejeitadas no recurso de apelação.
+2. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 270.327/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/3/2014, DJe 8/4/2014).
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Petição de fls. 1.118/1.120 (Petição nº 310618/2022) com documentos, requerendo alteração de representação processual da parte ALTHOFF SUPERMERCADOS LTDA. Defiro o pedido, nos termos formulados .
+À Secretaria, para providências.
+Publique-se.
+EMENTA
