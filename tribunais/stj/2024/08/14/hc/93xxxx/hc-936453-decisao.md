@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RONILDO RODRIGUES TEIXEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (Apelação n. 0009894-09.2011.8.17.0990).
+É possível extrair do acórdão de e-STJ fls. 29/53 que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 8 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, caput, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 29/53), em acórdão assim ementado:
+PROCESSO PENAL. APELAÇÃO. HOMICÍDIO SIMPLES CONSUMADO. ANULAÇÃO DO JULGAMENTO. DECISÃO CONTRÁRIA Á PROVA DOS AUTOS. IMPROCEDÊNCIA. VEREDITO AMPARADO NA PROVA DOS AUTOS. ABSOLVIÇÃO. NEGATIVA DE AUTORIA E INSUFICIÊNCIA DE PROVAS. INOCORRÊNCIA. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS. REDUÇÃO DA PENA. INADMISSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS PROVADA NOS AUTOS. PENA ADEQUADA E PROPORCIONAL. SOBERANIA DOS VEREDITOS MANTIDA. APELAÇÃO NÃO PROVIDA. DECISÃO UNÂNIME.
+1. Ao confrontar-se com várias teses, optou o Conselho de Sentença por aquela que lhe pareceu mais convincente, sendo verossímil a versão acusatória, não há que se falar em julgamento manifestamente contrário às provas dos autos, sendo vedada a cassação do decisum pelo Tribunal ad quem sob pena de afronta à soberania vereditos.
+2. A decisão do Tribunal do Júri só deve ser reformada quando totalmente divorciada dos elementos probatórios carreados aos autos, o que não ocorre, in casu, devendo ser mantida a condenação. Precedentes STJ.
+3. Presentes, no processo, prova da materialidade e autoria, reluz a verossimilhança da tese acusatória, aliada aos depoimentos prestados na fase inquisitorial e judicialmente e demais provas dos autos coadunam-se com a tese esposada pela acusação, não havendo que se cogitar falar em decisão manifestamente contrária à prova dos autos, na versão adotada pelo Tribunal do Júri.
+4. Hipótese em que estão presentes nos autos provas da culpabilidade reprovável; maus antecedentes, má-conduta social, circunstâncias e consequências do crime desfavoráveis, a fixação da pena base em patamar superior ao mínimo legal se impõe.
+5. Apelação Não Provida, Sentença Mantida. Decisão unânime.
+No presente mandamus (e-STJ fls. 3/21), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois o Tribunal a quo manteve a sua condenação com base em elementos de informação não confirmados em juízo, em manifesta ofensa ao art. 155 do Código de Processo Penal, razão pela qual entende que a decisão do Tribunal do Júri deve ser anulada, com a realização de novo julgamento.
+Subsidiariamente, aponta ilegalidade na manutenção da pena-base do paciente, pois a Corte local incorreu em reformatio in pejus indireta. Para tanto, argumenta que o Tribunal a quo apresentou novas motivações para os vetores culpabilidade, conduta social e consequências do crime. Além disso, o acórdão afastou o vetor da personalidade, mas acrescentou os antecedentes e as circunstâncias do crime para manter a pena-base aplicada pelo magistrado, decisão que configurou, na realidade, em um aumento da fração de pena para cada circunstância desfavorável (e-STJ fl. 13).
+Ao final, formula pedido liminar para que os efeitos da condenação imposta ao paciente sejam suspensos e, no mérito, pede a anulação do julgamento perante o Tribunal do Júri e a respectiva renovação ou, subsidiariamente, a redução da pena-base.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, a impetrante não instruiu o habeas corpus com cópia da sentença condenatória, documento imprescindível para o exame das aventadas ilegalidades.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação. (HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal.
+3. Agravo regimental não provido (AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
