@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte (fl. 356):
+CONSTITUCIONAL. TRIBUTÁRIO. REGIME NÃO-CUMULATIVO. TESE TEMA 69/STF. DIREITO À ASSUNÇÃO DE CRÉDITOS DE PIS/COFINS COM A INCLUSÃO DO ICMS INCIDENTE COMO CUSTO DE AQUISIÇÃO. MP 1.159/23. LEI 14.592/23. PREVISÃO LEGAL NO SENTIDO RESTRITIVO. AUSÊNCIA DO DIREITO. INEXISTENTE VIOLAÇÃO AOS PRINCÍPIO DA LEGALIDADE, NÃO-CUMULATIVIDADE E ANTERIORIDADE NONAGESIMAL.
+A parte recorrente sustenta que "a decisão recorrida viola o Principio da não cumulatividade dessas contribuições (Pis e Cofins) e de conceitos jurídicos como o valor de aquisição, e ofensa a princípios constitucionais. O valor do ICMS incidente sobre a aquisição de mercadorias ou serviços, sempre foi considerado custo de aquisição, devendo gerar o direito ao crédito da contribuição para o PIS/Pasep e a COFINS".
+Contrarrazões às fls. 531-540.
+Decisão de admissibilidade à fls. 543-545.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.7.2024.
+No enfrentamento da demanda, o Colegiado originário anotou (fls. 341-355):
+Registre-se que, diversamente da não-cumulatividade prevista constitucionalmente em relação ao ICMS e ao IPI, aquela aplicável às contribuições ao PIS e COFINS depende de previsão legal e pode beneficiar distintos setores da atividade econômica, conforme disposto no § 12 do artigo 195 da Constituição, incluído pela Emenda Constitucional n.º 42/03. Não se trata, portanto, de um direito individual do contribuinte de somente pagar o tributo se observada a não-cumulatividade, na medida em que o dispositivo constitucional apenas conferiu ao legislador a faculdade de instituir a não-cumulatividade, podendo, inclusive, adotar como critério diferenciador o setor da atividade econômica atingido, sem que isso implique em ofensa à isonomia.
+Nesse sentido, o e. Supremo Tribunal Federal, no julgamento do Tema de Repercussão Geral n.º 756 (RE n.º 841.979), firmou tese no sentido de que "o legislador ordinário possui autonomia para disciplinar a não cumulatividade a que se refere o art. 195, § 12, da Constituição, respeitados os demais preceitos constitucionais, como a matriz constitucional das contribuições ao PIS e COFINS e os princípios da razoabilidade, da isonomia, da livre concorrência e da proteção à confiança".
+(..)
+Vê-se, pois, que a jurisprudência desta Corte busca se alinhar ao regramento da lei vigente sobre a matéria, que veda o direito a crédito de PIS e Cofins sobre o valor do ICMS que tenha incidido sobre a operação de aquisição.
+Não se verifica, assim, violação aos princípios da legalidade, não-cumulatividade, da capacidade contributiva, anterioridade nonagesimal e da vedação ao confisco.
+Dessa forma, a impetrante não possui direito de aproveitar de pretenso crédito de PIS e COFINS sobre o ICMS incidente na aquisição de bens, na forma da legislação de regência.
+Depreende-se que o deslinde da vexata quaestio se deu preponderantemente sob a ótica constitucional, especialmente pelo estudo do art. 195, § 12, da Constituição da República e da compreensão dada pelo Supremo Tribunal Federal ao Tema 756, matérias insuscetíveis de serem examinadas em Recurso Especial sob pena de usurpação pelo Superior Tribunal de Justiça da competência atribuída à Corte Suprema no art. 102 da CF.
+Portanto, compete ao STF eventual modificação do acórdão recorrido.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. PROGRAMAS TELEVISIVOS JORNALISTICOS E HUMORÍSTICOS. PROIBIÇÃO DE EXIBIÇÃO. IMPROCEDÊNCIA DOS PEDIDOS. CONTROVÉRSIA DE CUNHO CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DA CORTE SUPREMA.
+(..) V - Muito embora a alegação da recorrente seja, em parte, de contrariedade a dispositivos infraconstitucionais, o seu argumento central, relativo à desconformidade da programação exibida pela recorrida com as balizas do horário adequado à classificação indicativa, foi dirimido com fundamento eminentemente constitucional, notadamente envolvendo a aplicação dos arts. 5º e 220 da Carta Magna, passando pelo exame da abrangência e dos contornos de normas constitucionais, o que compete apenas ao Pretório Excelso. Nesse contexto, inviável a análise da questão, em recurso especial, sob pena de usurpação da competência do STF.
+VI - A resolução da questão controverti da com amparo na interpretação e na aplicação de regramentos, princípios e precedentes constitucionais, como a ocorrida em tela, inviabiliza o conhecimento da controvérsia pelo Superior Tribunal de Justiça, na via estreita do recurso especial. A propósito, confiram-se: (AgInt no REsp 2.062.297/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/9/2023 e AgInt no REsp 2.075.943/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 1º/9/2023.)
+VII - Agravo interno improvido.
+(AgInt no REsp 2.025.784/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 20/12/2023)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. CONTROVÉRSIA SOBRE A SUJEIÇÃO DE PESSOA JURÍDICA DE DIREITO PRIVADO, NA CONDIÇÃO DE ARRENDATÁRIA DE BEM IMÓVEL DE TITULARIDADE DA UNIÃO, À COBRANÇA DE IPTU. MATÉRIA CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONJUNTAMENTE COM O ESPECIAL, NA ORIGEM. INAPLICABILIDADE DO ART. 1.032 DO CPC/2015. PRECEDENTES DO STJ. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Recurso Especial não deve ser conhecido, por quaisquer das alíneas do inciso III do art. 105 da Constituição Federal, ante a natureza eminentemente constitucional da controvérsia. Com efeito, no presente caso, aplica-se o mesmo raciocínio adotado pela Segunda Turma do STJ, no AgInt no AREsp 1.515.851/SC (Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/09/2019), de vez que a Corte de origem apenas aplicou os precedentes qualificados do Supremo Tribunal Federal, interpretando-os consoante a sua compreensão dos parâmetros constitucionais eleitos pelo Pretório Excelso. À toda evidência, a Corte de origem pode fazê-lo, já que não tem impedimento algum para exame de matéria constitucional. Por sua vez, o Superior Tribunal de Justiça, em sede de recurso especial, segue lógica outra: não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado pelo STF, sob o regime da repercussão geral, colocando novas balizas em tema de ordem constitucional. No mesmo sentido: STJ, AgInt no AREsp 1.686.910/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 08/09/2020; REsp 1.954.291/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2021.
+(..)
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.873.839/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2021)
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
