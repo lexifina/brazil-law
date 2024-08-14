@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão cuja ementa é a seguinte:
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ACIONAMENTO SEGURADORA. CONTRATO DE FINANCIAMENTO EFETIVADO EM 2013. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL.
+Em seu Recurso Especial, a agravante sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 1º da Lei 12.409/2011, alterado pela Lei 13.000/2014; 458, 757 e 771 do Código Civil; 17, 18, 485 e 1.022 do Código de Processo Civil; e 2º e 6º, VIII, da Lei 8.078/1990 (Código de Defesa do Consumidor). Aduz que a Caixa Econômica Federal (CEF) deve intervir em processos envolvendo o Seguro Habitacional do Sistema Financeiro de Habitação (SH/SFH) devido ao impacto econômico no Fundo de Compensação de Variações Salariais (FCVS), bem como que a Justiça Federal é competente para julgar demandas que envolvam apólices públicas de seguro habitacional, conforme a Lei 13.000/2014 e a Súmula 150 do STJ. Afirma que diversas leis e decisões judiciais, incluindo a Resolução 404/2015 e o Conflito de Competência 136.692, reforçam a necessidade de participação da CEF e a competência da Justiça Federal. Por fim, assevera que o comprometimento do FCVS legitima a intervenção da CEF, sendo essencial para a manutenção dos autos na Justiça Federal.
+Contrarrazões não apresentadas.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+O processo foi sobrestado até que fossem proferidas decisões nos Conflitos de Competência 140.456/RS (Rel. Ministro Jorge Mussi) e 148.188/DF (Rel. Ministro Humberto Martins) e, posteriormente, fora devolvido ao Tribunal de origem para conformação ou manutenção do acórdão recorrido, conforme decidido pelo STF no RE 827.996/DF (Tema 1.011).
+Às fls. 240-246, remessa dos autos ao Superior Tribunal de Justiça.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 05.08.2024.
+Inicialmente, esclareço que, no julgamento do CC 148.188/DF, a Corte Especial do STJ firmou o entendimento de que compete às Turmas que integram a Primeira Seção processar e julgar recursos que envolvam contratos de mútuo habitacional amparados em apólices securitárias de natureza pública (Ramo 66), em que possa haver comprometimento do Fundo de Compensação das Variações Salariais - FCVS.
+Quanto ao art. 1.022 do Código de Processo Civil, não se configura a alegada ofensa, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+Dessarte, não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte ora recorrente. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CREDITAMENTO PIS E COFINS. DESPESAS NÃO CARACTERIZADAS COMO INSUMOS. IMPOSSIBILIDADE. REVISÃO DE CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+6. Consoante a jurisprudência do STJ, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+(..)
+20. Agravo Interno não provido.
+(AgInt no AREsp 2.127.331/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/2/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRESA ARRENDATÁRIA EM ÁREA PORTUÁRIA. PROPRIEDADE DA UNIÃO. IMÓVEL DE PESSOA JURÍDICA DE DIREITO PÚBLICO CEDIDO A PESSOA JURÍDICA DE DIREITO PRIVADO. INCIDÊNCIA DE IPTU. MATÉRIA PACIFICADA PELO STF, EM REPERCUSSÃO GERAL - RE 594.015 E RE 601.720.
+1. Não configurada a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da recorrente. Considere-se, ainda, que nas razões recursais apresentadas (fls. 570-572, e-STJ) a recorrente não indica especificamente qual seria a omissão, contradição ou obscuridade - objeto dos prévios aclaratórios - comprometedora da intelecção do julgado, que não teria seria apreciada pela Corte de origem. O que prejudica, sobremaneira, a tese de violação do dispositivo citado.
+(..)
+14. Recurso Especial conhecido apenas em relação à alegação de violação ao art. 1.022 do CPC/15 e, nessa extensão, não provido.
+(REsp 1.849.974/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/12/2021.)
+Destaco que o Supremo Tribunal Federal, em julgamento do RE 827.966/PR, precedente com Repercussão Geral reconhecida (Tema 1.011), pacificou a "controvérsia relativa à existência de interesse jurídico da Caixa Econômica Federal para ingressar como parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, consequentemente, à competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza".
+Por sua vez, o Superior Tribunal de Justiça entende que, nos feitos referentes a contrato de seguro privado, apólice de mercado e Ramo 68 relativo a contrato de mútuo habitacional, por envolverem discussão entre a seguradora e o mutuário e não afetarem o FCVS, não existe interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário. Portanto, a competência para o seu julgamento é da Justiça estadual.
+No mérito, quanto à abrangência da cobertura securitária, o TRF4 expressamente afirma que o contrato de mútuo habitacional não possui qualquer relação com o FCVS, nem com a responsabilidade da CEF em assumir o referido fundo (fls. 111-112):
+2. Da leitura da decisão agravada, depreende-se que foi reconhecida ilegitimidade passiva da Caixa Econômica Federal e a incompetência absoluta da Justiça Federal para o julgamento da causa.
+Defende a parte recorrente a competência da Justiça Federal e a conseqüente necessidade de ingresso da Caixa Econômica Federal - CEF nas causas em que se discute contrato de seguro que tenham como lastro apólice pública do seguro habitacional.
+Se este fosse o caso dos autos, estaria correta tal argumentação.
+Contudo, não obstante o alegado pela seguradora, conforme bem destacado na decisão ora agravada, o que se pretende neste processo é obter a cobertura securitária de contrato firmado no ano de 2013, com a contratação de apólice securitária com cobertura pela Caixa Seguradora S/A.
+Consta registro de aquisição do imóvel pelos agravados em 14 de novembro de 2013, através do Contrato nº 8.4444.0461981-0, por Instrumento Particular de Compra e Venda de unidade isolada e Mútuo com Obrigações e Alienação Fiduciária Programa Carta de Crédito Individual FGTS com utilização do FGTS dos compradores, no valor de R$ 120.000,00, com o saldo de R$ 99.903,00 referente a financiamento obtido junto à CEF, com registro de alienação fiduciária e em garantia (fl. 72, INIC1, evento 1).
+A apólice securitária foi contratada com a Caixa Seguradora S/A (fls. 27/57, evento 1, INIC1).
+Assim, como bem destacado pelo magistrado prolator da decisão agravada ( evento 5, DESPADEC1 ):
+O pedido de cobertura securitária aqui formulado, portanto, não diz respeito à apólice pública relacionada ao SFH. Trata-se de contrato de seguro firmado com seguradora em relação a contrato de financiamento de imóvel.
+Não há, pois, qualquer relação com o FCVS, nem com a responsabilidade da CEF em assumir o referido Fundo.
+E a Caixa Seguradora S/A não se confunde com a Caixa Econômica Federal. São empresas distintas. Somente processos contra a empresa pública Caixa Econômica Federal devem tramitar na Justiça Federal.
+Diante de tais considerações, deve ser mantida a decisão que reconheceu a ilegitimidade passiva da Caixa Econômica Federal e a incompetência absoluta da Justiça Federal para o julgamento da causa.
+O Colegiado originário analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, além da análise das cláusulas do Contrato n. 8.4444.0461981-0, por Instrumento Particular de Compra e Venda de unidade isolada e Mútuo com Obrigações e Alienação Fiduciária Programa Carta de Crédito Individual FGTS com utilização do FGTS dos compradores.
+Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório e de cláusulas contratuais, o que é vedado pelas Súmulas 5 e 7 do STJ.
+Vejam-se os precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FINANCIAMENTO IMOBILIÁRIO. COBERTURA SECURITÁRIA DO FCVS. INEXISTÊNCIA. AUSÊNCIA DE INTERESSE DA CAIXA ECONÔMICA FEDERAL. MODIFICAÇÃO DAS PREMISSAS DO ACÓRDÃO A QUO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7 DO STJ.
+1. O Tribunal a quo, soberano no reexame dos elementos que instruem o caderno processual, assentou que o contrato firmado pelas partes e que é objeto da ação não possui cobertura do FCVS, de modo que inexiste interesse processual da Caixa Econômica Federal para participar do feito, de acordo com o que restou decidido pelo Supremo Tribunal Federal em sede de repercussão geral.
+2. Nesse contexto, é certo que a alteração das premissas adotadas pela instância recorrida, tal como colocada a questão nas razões recursais, a fim de asseverar que o contrato de financiamento imobiliário em discussão se ajuste aos parâmetros estabelecidos pelo STF no julgamento do Tema 1.011 para atrair a competência da Justiça Federal, demandaria, necessariamente, a análise de cláusulas contratuais e novo exame do acervo fático-probatório constante dos autos, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 2.373.175/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 20/6/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SFH. SEGURO HABITACIONAL. AÇÃO INDENIZATÓRIA. CAIXA ECONÔMICA FEDERAL. INTERESSE RECURSAL. AUSÊNCIA. COMPETÊNCIA. JUSTIÇA ESTADUAL. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça entende que, nos feitos referentes a contrato de seguro privado, apólice de mercado e Ramo 68 adjeto a contrato de mútuo habitacional, por envolverem discussão entre a seguradora e o mutuário e não afetarem o FCVS (Fundo de Compensação de Variações Salariais), não existe interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário. Portanto, a competência para o seu julgamento é da Justiça estadual.
+2. Na hipótese, as instâncias ordinárias, com fundamento no contexto fático-probatório dos autos, asseguraram que falta prova da existência de apólice pública (ramo 66) e da possibilidade de comprometimento do Fundo de Compensação de Variações Salariais (FCVS).
+3. O reexame da conclusão do aresto impugnado acerca do interesse da Caixa Econômica Federal (CEF) na demanda encontra óbice na Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 2.357.918/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/5/2024.)
+PROCESSUAL CIVIL. SEGURO HABITACIONAL. CONTRATO VINCULADO À APÓLICE PRIVADA (RAMO 68). COMPETÊNCIA DA JUSTIÇA ESTADUAL. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Caso em que a Corte de origem consignou que "ficou evidenciada a inexistência de apólice pública, de modo que ausente o interesse da CEF na lide".
+2. O STJ entende que, nos feitos em que se discute a respeito de contrato de seguro privado, apólice de mercado, Ramo 68, adjeto a contrato de mútuo habitacional, por envolver discussão entre a seguradora e o mutuário, e não afetar o FCVS (Fundo de Compensação de Variações Salariais), não existe interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário, sendo, portanto, da Justiça estadual a competência para seu julgamento.
+3. Extrai-se do acórdão vergastado e das razões do Apelo Nobre que o acolhimento da pretensão recursal, para entender que a apólice seria pública, porquanto firmada anteriormente a 1996, demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 2.215.072/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/4/2023.)
+PROCESSUAL CIVIL. COMPETÊNCIA INTERNA DO STJ. ALEGAÇÃO POSTERIOR AO JULGAMENTO DO FEITO. PRECLUSÃO. COBERTURA SECURITÁRIA DE IMÓVEL FINANCIADO. INTERESSE DA CAIXA ECONÔMICA FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE. REVISÃO DE E DE CLÁUSULAS CONTRATUAIS MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. No tocante à alegação de competência da Segunda Seção, é certo que a competência interna desta Corte é de natureza relativa, devendo ser suscitada até o momento do julgamento, sob pena de preclusão, nos termos do art. 71, § 4º, do RISTJ.
+2. No mérito, conforme consignado na decisão agravada, defende o recorrente que "a divergência reside justamente no fato de que o aresto paradigma exige a prova dos requisitos, quais sejam, que as apólices sejam públicas e que haja a efetiva comprovação do comprometimento do FCVS, com o que não se importou o aresto recorrido, uma vez que sequer informa quais documentos foram juntados, ou em que ponto ficou demonstrado o exaurimento do FESA com o comprometimento do FCVS, apenas alegando risco presumido". A questão não foi especificamente examinada pelo Tribunal de origem (Súmula 211/STJ), sendo certo ainda que seria inviável analisar a tese defendida, pois inarredável a revisão do conjunto probatório dos autos para se chegar a tal conclusão. Aplica-se, portanto, a Súmula 7/STJ.
+(..)
+5. Ademais, a análise do pleito exigiria revolvimento de cláusulas contratuais, o que é vedado nesta via ante o óbice da Súmula 5/STJ.
+6. Agravo Interno não provido.
+(AgInt no REsp 2.063.754/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/9/2023.)
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do REsp pela alínea "a" do permissivo constitucional. Nessa senda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
