@@ -1,0 +1,2 @@
+Artigo 57-A - O Presidente do Tribunal de Impostos e Taxas poderá determinar a realização de sessões temáticas na Câmara Superior do Tribunal, na forma estabelecida em regulamento. (NR)
+Parágrafo único - Os recursos voluntários, de ofício, ordinários e especiais, pedidos de retificação ou reformas de julgado que versem sobre o tema a ser enfrentado na sessão temática ficarão suspensos por deliberação do Presidente do Tribunal de Impostos e Taxas. (NR)

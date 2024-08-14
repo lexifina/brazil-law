@@ -1,0 +1,6 @@
+Artigo 68-A - Os juízes e o órgão de julgamento deverão, preferencialmente, obedecer à ordem cronológica para relatar e proferir acórdão. (NR)
+Parágrafo único - Estão excluídas do "caput" as seguintes hipóteses: (NR)
+1. o julgamento de processos em bloco para aplicação de tese jurídica firmada em julgamento em sessões temáticas; (NR)
+2. o julgamento de processos cujas teses tenham sido objeto de Súmula Vinculante ou súmulas do Tribunal de Impostos e Taxas; (NR)
+3. os processos nos quais haja interesse público quanto à prioridade de sua tramitação, conforme definido pela Administração Tributária; e (NR)
+4. o processo que exija urgência no julgamento, assim reconhecida por decisão fundamentada. (NR)
