@@ -1,0 +1,22 @@
+DECISÃO
+Marcos Cardoso agrava de decisão que não admitiu recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal contra acórdão do Tribunal Regional Federal da 3ª Região.
+O Vice-Presidente do Tribunal de origem inadmitiu o recurso especial pelo óbice da Súmula n. 7 do STJ.
+Manifestação do Ministério Público Federal às e-STJ fls. 4.516/4.518.
+É o relatório. Decido.
+Não merece conhecimento o agravo.
+A decisão agravada inadmitiu o recurso especial pelo óbice da Súmula n. 7 do STJ, incidente em todas as teses recursais (cerceamento de defesa, quebra do sigilo profissional do advogado, transnacionalidade do delito, comprovação do crime de associação para o tráfico, dosimetria, ausência dos vícios previstos no art. 619 do CPP).
+Contudo, o agravante, nas razões do presente inconformismo, não impugnou corretamente o referido fundamento.
+Assinala-se que, para afastar a aplicação da Súmula 7 do STJ, cabe à parte agravante desenvolver argumentos que demonstrem como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem rever o acervo fático-probatório, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido. Não basta, portanto, sustentar que o julgamento do seu apelo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Nesse contexto, aplica-se, por analogia, o disposto no enunciado n. 182 da Súmula do STJ. Nessa linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão de admissibilidade impede o conhecimento do respectivo agravo, nos termos do que dispõe a Súmula 182/STJ.
+ ..
+3. Agravo regimental a que se nega provimento. Concedido habeas corpus, de ofício, para declarar a prescrição da pretensão executória do agravante quanto ao crime do art. 90 da Lei n. 8.666/1993 (AgRg no Ag 1.378.279/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 27/3/2017).
+De toda forma, assinala-se que o Superior Tribunal de Justiça possui entendimento no sentido de que "não se acolhe alegação de nulidade por cerceamento de defesa em função do indeferimento de diligências requeridas pela defesa, pois o magistrado, que é o destinatário final da prova, pode, de maneira fundamentada, indeferir a realização daquelas que considerar protelatórias ou desnecessárias ou impertinentes" (REsp n. 1.519.662/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 1º/9/2015).
+No caso, ao contrário do alegado, consta do autos que o laudo pericial foi submetido ao contraditório e à ampla defesa, sendo a alteração dessa premissa providência inadmissível em recuso especial pela incidência da Sumula n. 7 do STJ.
+Acresça-se também que inexiste nulidade na interceptação telefônica fortuita do diálogo entre advogado e o paciente (cliente), porquanto "a interceptação telefônica, devidamente autorizada pelo juiz responsável, abrange a participação de quaisquer dos interlocutores do investigado e, em sendo a comunicação do advogado com seu cliente interceptada fortuitamente em decorrência desse provimento judicial, não há falar em violação do sigilo profissional" (RMS n. 58.898/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/11/2018, DJe de 23/11/2018).
+Para se desconstituir as conclusões das instâncias ordinárias a respeito da efetiva existência de indícios de transnacionalidade, seria necessário o revolvimento de fatos e provas carreadas aos autos, o que, como é de conhecimento, não é possível na via do recurso especial. Óbice da Súmula n. 7 do STJ.
+Do mesmo modo, para verificar se não foram preenchidos os requisitos que caracterizam o delito de associação para o tráfico, quais sejam, o acordo de vontades e a estabilidade e permanência dessa atuação conjunta, contrariando o acórdão recorrido, seria necessário o revolvimento do suporte fático-probatório dos autos, providência vedada pela Súmula 7 do STJ (ut, AgRg no REsp n. 1.969.578/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 2/6/2023.)
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
