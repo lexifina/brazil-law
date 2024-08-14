@@ -1,0 +1,36 @@
+DECISÃO
+Em face das razões elencadas no agravo interno, reconsidero a decisão da Presidência desta Corte Superior e passo à nova análise do agravo em recurso especial.
+Trata-se de agravo em recurso especial interposto pela UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MEDICO em face de acórdão assim ementado (fl. 270):
+CIVIL E CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NECESSIDADE DE ENDOSCOPIA ALTA EM CARÁTER DE URGÊNCIA. NEGATIVA DE ATENDIMENTO. IDOSA DE 81 (OITENTA E UM) ANOS. EXAME REALIZADO APROXIMADAMENTE 20 (VINTE) DIAS APÓS A SOLICITAÇÃO. ILEGITIMIDADE DA RECUSA. DANO MORAL CONFIGURADO. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do especial, aponta a recorrente violação do artigo 485, VI, do Código de Processo Civil, argumentando, em síntese, que não haveria prova da recusa injustificada ao tratamento requerido pela segurada, obstando a condenação da operadora do plano de saúde.
+Ressalta que o tratamento foi autorizado antes mesmo da decisão que deferiu a liminar na ação ajuizada pela segurada, razão pela qual o processo deveria ser extinto sem resolução do mérito, por falta de objeto.
+Questiona, ainda, a indenização por dano moral, que deveria se afastada, em razão do acolhimento da pretensão principal, consistente na inexistência de recusa à cobertura.
+O recurso especial não foi admitido na origem (fls. 303/308), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifica-se que o Tribunal de origem consignou, expressamente, que a autorização para o tratamento solicitado pelo segurado decorreria do cumprimento da liminar proferida na ação ajuizada pela segurada. A propósito, extraio do acórdão recorrido (fl. 273):
+Ao apreciar os autos, observo que a paciente foi diagnosticada com intensa dor abdominal por dilatação de vias biliares. Por essa razão, o médico responsável solicitou uma endoscopia em caráter de urgência, conforme demonstra o documento de Id. 18454948.
+Embora o exame tenha sido solicitado em 09 de junho de 2021 (Id. 18454947), o procedimento somente foi realizado pela operadora de saúde mediante ordem judicial, na data de 29 de junho de 2021. (Id. 18454949 e 18454960). (grifo acrescido)
+Como se vê, o Tribunal de origem pressupõe que a recusa da operadora do plano de saúde seria indevida e que a autorização do tratamento requerido só ocorreu após determinação judicial nesse sentido.
+Diante desse contexto, para acolher a pretensão da recorrente, reconhecendo o cumprimento espontâneo da obrigação contratual e a subsequente perda de objeto da ação judicial correspondente, seria imprescindível o reexame do contexto fático-probatório; providência vedada em recurso especial (Súmula 7/STJ).
+No que se refere ao dano moral, verifica-se que a compensação respectiva decorre apenas do inadimplemento contratual, conforme se verifica da seguinte passagem (fl.273):
+No caso em apreço, restou inegável que a paciente, em situação delicada de saúde, precisou da assistência da operadora de saúde, tendo o seu pleito negado de forma ilegítima.
+Assim, considerando a conduta ilícita praticada pelo plano de saúde, ao descumprir os termos do contrato, nasce à obrigação de reparar o prejuízo gerado ao consumidor.
+Sendo assim, presentes os requisitos necessários para o reconhecimento do dever de indenizar, forçosa a obrigação da parte apelante de reparar os danos a que deu ensejo.
+Dito isso, reputo que o valor de R$ 8.000,00 (oito mil reais), fixado na sentença, mostra-se adequado para compensar o abalo moral experimentado pelo autor. (grifo acrescido)
+Sobre o tema, a jurisprudência desta Corte Superior é firme no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 2.054.722/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024).
+Nesse contexto, a recusa do plano de saúde em cobrir determinado medicamento ou procedimento médico não configura a hipótese de dano moral presumido - ou in re ipsa - razão pela qual se mostra indispensável a comprovação do efetivo prejuízo para que haja o dever de indenizar, o que não ocorreu no caso dos autos.
+No caso concreto, conforme se verifica da sentença e do acórdão recorrido, as instâncias ordinárias não teceram maiores considerações sobre dissabores ou consequências em razão da negativa pela operadora do plano de saúde, de modo que o afastamento da condenação por danos morais é medida que se impõe.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAS E COMPENSAÇÃO POR DANOS MORAIS. TERAPIAS MULTIDISCIPLINARES. COBERTURA. NEGATIVA INDEVIDA. DANOS MORAIS. NÃO CONFIGURADOS.
+1. Ação de obrigação de fazer c/c indenização por danos materiais e compensação por danos morais, visando a cobertura de sessões de terapias multidisciplinares para tratamento do transtorno do espectro autista (TEA).
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.037.686/MA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ATENDIMENTO PLEITEADO FORA DA ÁREA DE COBERTURA. FALHA NO DEVER DE INFORMAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. EXCLUSÃO DA INDENIZAÇÃO POR DANOS MORAIS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem expressamente consignou que a recorrente não comprovou que o paciente havia sido prévia e claramente informado sobre a abrangência geográfica do plano de saúde, descumprindo, assim, o seu dever de informação, previsto estatuto consumerista. A modificação de tal entendimento demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor das Súmulas 5 e 7/STJ.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente, o que não restou demonstrado no caso dos autos. Provimento no ponto.
+3. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.113.763/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 3/4/2023.)
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para afastar a condenação ao pagamento de danos morais.
+Intimem-se.
+EMENTA
