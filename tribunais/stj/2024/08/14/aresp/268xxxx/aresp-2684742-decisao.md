@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MORTE CAUSADA POR DISPARO DE ARMA DE FOGO. CONFRONTO ENTRE POLICIAL CIVIL EM PERÍODO DE FOLGA E ASSALTANTES.
+PEDIDOS JULGADOS IMPROCEDENTES. RECURSO DA PARTE AUTORA. PRELIMINAR DE CERCEAMENTO DE DEFESA.
+INOCORRÊNCIA. PROVA REQUERIDA QUE FOI EFETIVAMENTE PRODUZIDA. AUTOR QUE MANIFESTA DESINTERESSE EM PRODUÇÃO DE OUTRAS PROVAS. INSTRUÇÃO ENCERRADA POR ATO VOLUNTÁRIO. POLICIAL CIVIL QUE SE IDENTIFICOU COMO AGENTE DE SEGURANÇA E, NESTA CONDIÇÃO, ENCAMPOU A CONDIÇÃO DE AGENTE PÚBLICO, PASSANDO A ATUAR NO EXERCÍCIO DA FUNÇÃO. PRECEDENTES DO STF. NEXO CAUSAL NÃO DEMONSTRADO EM RAZÃO DA FALTA DE PROVAS ACERCA DA ORIGEM DO DISPARO. ÔNUS DO AUTOR. RECURSO DESPROVIDO.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, aponta divergência jurisprudencial e violação dos arts. 373, 374, 489 e 1.022 do CPC e 43 do do CC. Aduz:
+Todavia, a Corte local negou o pedido sob o fundamento que o recorrente não requereu a produção de prova complementar.
+Contudo, consta claramente do pedido de exame de balística a fim de verificar se os projéteis que atingiram o genitor do recorrente eram da arma do policial.
+Diante disso requer-se a nulidade da r. sentença e retorno dos autos para a origem para o fim de produção da prova quanto ao projétil que atingiu o pai do apelante.
+(..)
+Ora, Excelências, a responsabilidade do recorrido é objetiva, nos termos do art. 37 da Constituição Federal e art. 43 do Código Civil. E, em caso de responsabilidade objetiva, como no presente feito, cabe ao recorrente a comprovação do fato, do dano e o nexo existente entre ambos.
+A ação do agente público restou incontroversa, também restou comprovado o dano, pois é igualmente incontroverso que a vítima faleceu; e, por fim, foi comprovado o nexo causal, pois a vítima foi atingida por disparo de arma de fogo em razão do tiroteio perpetrado por agente público e assaltante, em local fechado com várias pessoas.
+Portanto, comprovado o fato, o dano e o nexo existente entre ambos, tudo comprovado na petição inicial que colaciona, inclusive matérias jornalísticas que relatam o ocorrido, sendo que outras pessoas também ficaram feridas.
+Apresentadas as contrarrazões às fls. 941-944, houve juízo negativo de admissibilidade (fls. 954-958), o que ensejou a interposição do presente Agravo.
+Contraminuta às fls. 1.056-1.058.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.7.2024.
+Inicialmente, constato que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. o fato de a Corte a quo haver decidido a lide de forma contrária à tese defendida, elegendo fundamentos diversos daqueles propostos pela parte, não configura omissão nem outra causa passível de exame mediante a oposição de Embargos de Declaração. O simples descontentamento da parte com o julgado não tem o condão de torná-los cabíveis.
+O TJPR, ao afastar o cerceamento de defesa, consignou:
+Depreende-se dos autos que o processo possui arcabouço fático-probatório suficiente para a prolação de decisão de mérito, compreendendo prova oral e documental colacionada pelas partes capaz de formar o convencimento do magistrado, não tendo que se falar em cerceamento de defesa.
+A produção probatória é um direito das partes, mas também configura uma prerrogativa do juízo. Este, por seu turno, entendendo que o processo possui o necessário para o julgamento, em razão do princípio da persuasão racional, é possível o indeferimento de provas consideradas desnecessárias ou protelatórias e o julgamento no estado em que o processo se encontra: (..)
+Da análise das manifestações anexadas aos autos, percebe-se que a parte sequer requereu a realização de prova pericial complementar nos moldes alegados em suas razões de recurso, quando teve a oportunidade processual.
+De fato, conforme indicado na manifestação ministerial (mov. 14.1/TJ), da análise da petição de mov. 88.1 e reiterada posteriormente ao mov. 161.1, verifica-se que a parte apresentou os seguintes requerimentos:
+(..)
+Resta evidente que a parte não apresentou requerimento pra produção de prova complementar, mas sim pugnou pela juntada aos autos dos laudos já produzidos pelo Instituto Médico Legal (IML).
+De igual modo, vale destacar que os pedidos apresentados quando da especificação probatória foram integralmente acolhidos pelo magistrado singular (mov. 98.1 e mov. 171.1), sendo que os documentos solicitados se encontram acostados aos movs. 187, 190 e 193 dos autos de origem.
+Vale destacar, ainda, que o núcleo da divergência em primeiro grau encontrava-se na existência de nexo de causalidade entre a ação dos apelados e o evento morte que importe no dever de indenizar por parte do ente público ou do policial civil.
+Nesse ponto, observa-se que as informações ofertadas no caderno processual mostram- se suficientes para analisar as teses do autor.
+Encontra-se o processo suficientemente instruído, motivo pelo qual adequada a decisão do juiz em encerrar a fase instrutória do processo, sendo desnecessário ao seu deslinde a produção de prova pericial complementar.
+Destarte, considerando que os autos possuem elementos probatórios suficientes para análise da demanda, resta afastada a alegação de cerceamento de defesa no caso concreto.
+Quanto à alegação de cerceamento de defesa, o STJ tem o entendimento de que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências que as partes pretendem realizar, segundo as normas processuais, e afastar o pedido de produção de provas, se estas forem inúteis ou meramente protelatórias ou se já tiver firmado sua convicção, nos termos dos arts. 370 e 371 do CPC.
+Logo, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.
+Nesse contexto, para afastar o entendimento a que chegou o Colegiado estadual, segundo o qual "os autos possuem elementos probatórios suficientes para análise da demanda", é necessário revolver o acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Em relação à responsabilidade civil do Estado do Paraná, concluiu-se (fls. 780-785, grifei):
+No caso concreto, da análise do conjunto probatório, verifica-se que, de fato, o apelado Isaías Emanuel Santos Garcia encontrava-se no local como cliente da Boate Emily Drinks, vez que em período de folga do exercício de suas funções.
+No entanto, quando verificada a ocorrência do assalto, este se imbuiu da condição de autoridade policial a fim de dar voz de prisão às partes que se encontravam em flagrante delito, anunciando que era policial e passando a atuar nesta condição.
+(..) Repita-se que, considerando que a parte, apesar de estar no local em período de folga e como cliente, ao se apresentar como policial (agente público), ordenando que o assaltante abaixasse a arma e efetuando voz de prisão, como confirmado pelo próprio policial em seu depoimento prestado na delegacia, agiu no exercício do dever legal de prestação de socorro e preservação da ordem pública, o que poderia ensejar a responsabilização objetiva do Estado do Paraná por eventuais danos causados por atos de seu agente público.
+No entanto, acolho as razões ofertadas pelo Des. Lauri Caetano da Silva em sua divergência, que motivou novo pedido de vista do relator para reanálise, no sentido de que deve ser pontuado o entendimento desta Câmara de que incumbe ao autor o ônus de trazer aos autos indícios mínimos de que os disparos que causaram o apontado dano provieram de arma portada por agente público (nesta qualidade) . No entanto, inexiste nos autos qualquer  3  indício que aponte nesse sentido.
+No âmbito cível, essa prova não é necessariamente obtida por laudo de confronto balístico, podendo ser demonstrado por qualquer meio de prova, inclusive testemunhal. Desse modo, se mostra absolutamente descabida a inversão do ônus da prova, como já mencionado anteriormente, visto que o interessado tem plenas condições de produzi-la.
+No entanto, no presente caso o próprio autor desistiu da produção de novas provas, inclusive do depoimento de Isaías, de modo que a instrução deficiente decorreu de sua própria inação.
+Ou seja, não foi constatado de qual arma partiu os projéteis que atingiram o pai do autor, somente sendo averiguado que tanto Isaías quanto o assaltante Osiel efetuaram disparos no interior da boate. Também foi apurado que haviam mais assaltantes armados, que se evadiram do local, não se sabendo se também participaram do tiroteio (mov. 187.2). O inquérito policial para apuração do roubo e da morte do pai do autor foi arquivado (mov.
+187.1), sem qualquer produção de prova acerca do autor do disparo.
+Assim, reitere-se, não há provas nos autos de que os disparos que atingiram e levaram a óbito o pai do autor, ora apelante, tenha sido proferido pela arma do policial, não ficando demonstrado o nexo de causalidade entre o dano sofrido pela parte autora e a ação do agente público, o que afasta o dever de indenizar por parte do Estado.
+Como já mencionado, o autor jamais requereu a "produção de prova de análise dos ". Conforme se vê ao mov. 88.1 e ao mov. 162.1, o projéteis que atingiram o pai do apelante autor se limitou a requerer a expedição de ofícios para fornecimento de documentos por parte o Instituto Médico Legal (exame de balística) - documentos que sequer tinha conhecimento se, de fato, existiam.
+A produção da prova foi deferida, com a juntada de toda a documentação produzida no curso do Inquérito Policial (mov. 187.1).
+Ainda, observa-se que, após a juntada dos documentos, o autor não requereu mais qualquer outra prova, requerendo somente a abertura de prazo para alegações finais (mov. 199.1), evidenciando falta de interesse na instrução suplementar, de forma que a não produção de outras provas decorreu de ato voluntário, não havendo que se falar em cerceamento ao direito de defesa.
+Portanto, a manutenção da improcedência do pedido é medida que se impõe, ainda que por fundamento diverso daquele adotado pela sentença recorrida.
+Dessa forma, o acolhimento da pretensão recursal, com o reconhecimento de que foi comprovado o nexo de causalidade, demandaria o revolvimento do conjunto fático probatório dos autos, o que não é cabível na via especial, nos termos da Súmula 7/STJ.
+Por fim, esclareço que fica prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Apelo pela alínea "a" do permissivo constitucional.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
