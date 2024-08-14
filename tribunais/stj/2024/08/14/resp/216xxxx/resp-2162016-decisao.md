@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por QUIBASA QUIMICA BASICA LTDA, com fundamento no art. 105, III, a e c, da Constituição Federal.
+Na origem, o contribuinte impetrou mandando de segurança, com valor da causa atribuído em R$ 1.000,00 (um mil reais), em maio de 2019, tendo como objetivo a inexigibilidade de taxa de utilização potencial do serviço de extinção de incêndio prevista em lei estadual.
+Na sentença, concedeu-se a segurança. A apelação interposta pela fazenda pública foi provida por TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS. O referido acórdão foi assim ementado, in verbis:
+REMESSA NECESSÁRIA / APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - TAXA DE INCÊNDIO - ILEGITIMIDADE AUTORIDADE COATORA - DECRETO 47.794/2019 - SEGURANÇA DENEGADA.
+- Para efeito da impetração do mandado de segurança considera-se autoridade coatora aquela que detém poder e competência de decisão, da qual emana o ato ilegal ou abusivo do poder, bem como a torna legítima quanto à possibilidade de restaurar situação anterior a do ato impugnado.
+- Em observância ao artigo art. 37, do Decreto n. 47.794/2019, que dispõe sobre a organização da Secretaria de Estado Da Fazenda, compete ao Delegado Fiscal a cobrança do tributo.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, QUIBASA QUIMICA BASICA LTDA interpôs o presente recurso especial, apontando violação dos arts. 4º, 317, 926, 932, 1.017 e 1.029, todos do CPC/2015.
+Sustenta, em síntese, que deve ser oportunizada ao impetrante do mandado de segurança a correção do polo passivo antes da extinção do processo.
+Suscita divergência jurisprudencial, colacionando acórdão paradigma que entende pela possibilidade de emenda à inicial do mandado de segurança para fins de correção da autoridade coatora.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem entendido que nas demandas tributárias não cabe emenda à inicial de mandado de segurança nos casos que alterem a competência do órgão julgador. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ICMS SOBRE ENERGIA ELÉTRICA. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE FAZENDA DO ESTADO. PRECEDENTES. IMPOSSIBILIDADE DE APLICAÇÃO DA TEORIA DA ENCAMPAÇÃO. IMPOSSIBILIDADE DE EMENDA À INICIAL. EXTINÇÃO DO FEITO, DE OFÍCIO, SEM RESOLUÇÃO DE MÉRITO.
+1. Ambas as Turmas de Direito Público desta Corte possuem entendimento no sentido de que o Secretário de Estado da Fazenda não possui legitimidade para figurar, como autoridade coatora, em mandado de segurança no qual se pleiteia o afastamento da exigência de tributo reputada por ilegal. Nesse sentido: AgInt no RMS n. 36.682/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2017, DJe 9/10/2017; RMS n. 54.333/RN, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2017, DJe 20/10/2017; AgInt no RMS n. 54.968/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 15/5/2018, DJe 21/5/2018; e AgInt no RMS n. 35.512/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 27/11/2018, DJe 7/12/2018.
+2. Ressalte-se que a ilegitimidade aqui discutida é da autoridade coatora, portanto, do polo passivo, não havendo distinguishing, a priori, em relação a casos ajuizados por contribuintes de direito ou contribuintes de fato.
+3. Esta Corte não autoriza a emenda da petição inicial para que seja indicada a correta autoridade coatora em casos que tais, visto que tal indicação implicaria a alteração da competência jurisdicional para processamento da impetração, saindo da competência originária do Tribunal de Justiça para o primeiro grau de jurisdição. Nessas hipóteses, deve o feito ser extinto sem resolução de mérito, consoante o inciso VI do art. 485 do CPC, em razão da ausência de legitimidade passiva da autoridade indicada como coatora. A propósito: AgInt no RMS 35.432/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/11/2020; EDcl no RMS 67.101/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 16/12/2021; RMS 68.112/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/09/2022.
+4. Agravo interno não provido.
+(AgInt no RMS n. 70.010/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/4/2023, DJe de 2/5/2023.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO RECURSO EM MANDADO DE SEGURANÇA. PRETENSÃO DE AFASTAMENTO DA ALÍQUOTA ESPECIAL MAJORADA DO ICMS, EM OPERAÇÕES COM ÁLCOOL COMBUSTÍVEL. ILEGITIMIDADE DO SECRETÁRIO DE ESTADO DA FAZENDA PARA FIGURAR, COMO AUTORIDADE IMPETRADA, NO POLO PASSIVO DO MANDADO DE SEGURANÇA. PRECEDENTES DO STJ. EXTINÇÃO DO PROCESSO, DE OFÍCIO, SEM RESOLUÇÃO DO MÉRITO, RESTANDO PREJUDICADO O RECURSO ORDINÁRIO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 03/11/2021.
+II. No voto condutor do acórdão embargado, o Superior Tribunal de Justiça, de ofício, jugou extinto o Mandado de Segurança, sem resolução do mérito, e julgou prejudicado, em consequência, o Recurso Ordinário, com fundamento na atual jurisprudência desta Corte, no sentido de que o Secretário de Estado da Fazenda não possui legitimidade para figurar, como autoridade coatora, em mandado de segurança que visa afastar a exigência de tributo reputada ilegítima, sendo inaplicável, outrossim, a teoria da encampação. A propósito da questão suscitada nos presentes Declaratórios, consta do acórdão embargado precedente de cuja ementa destaca-se o entendimento de que "não é possível facultar a emenda da inicial para que a parte indique corretamente a autoridade indicada como coatora quando tal modificação implicar alteração da competência jurisdicional para processamento da impetração" (STJ, AgInt no RMS 35.432/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 19/11/2020).
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no RMS n. 67.101/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/12/2021, DJe de 16/12/2021.)
+In casu, o Tribunal a quo julgou extinto o processo em razão da ilegitimidade passiva da autoridade coatora, no entanto, não é possível verificar se haveria alteração da competência do órgão jurisdicional sem adentrar no âmbito do contexto fático-probatório ou na análise da legislação local (lei de organização judiciária).
+Nesse diapasão, aplica-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário", bem como o Enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. OMISSÃO.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, nos termos do disposto no art. 1.022 do CPC/2015.
+2. Há necessidade de integrar o acórdão embargado para acrescentar que o não conhecimento do recurso especial quanto à alínea "a", em face da incidência da Súmula 7 do STJ, também impede a análise da divergência jurisprudencial, notadamente quando o dissídio estiver amparado na mesma legislação federal indicada como violada.
+3. Quanto aos demais pontos, não há no acórdão nenhuma situação que dê amparo ao recurso integrativo.
+4. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp 864.923/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 06/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. SÚMULA 7. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL.
+(..)
+4. Pacífica a jurisprudência desta Corte de que a incidência do enunciado 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1819017/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2021, DJe 22/03/2021)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
