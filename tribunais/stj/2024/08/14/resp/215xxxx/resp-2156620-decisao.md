@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) contra acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado (fls. 51-52):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA INDIVIDUAL PROPOSTO POR SERVIDOR PÚBLICO EM FACE DO ESTADO DE SANTA CATARINA, QUE TEM COMO OBJETO A EXECUÇÃO DA DECISÃO PROFERIDA NOS AUTOS DA AÇÃO COLETIVA N. 0072300-28.2012.8.24.0023, EM QUE FICOU RECONHECIDO QUE OS MEMBROS DA ASSOCIAÇÃO DE PRAÇAS DO ESTADO DESANTA CATARINA - APRASC FAZEM JUS À PERCEPÇÃO DOS REFLEXOS DAS HORAS EXTRAS SOBRE FÉRIAS E GRATIFICAÇÃO NATALINA. DECISÃO RECORRIDA QUE RECONHECEU A NECESSIDADE DE APLICAÇÃO IMEDIATA DO TEMA 810/STF, DEFININDO O IPCA-E COMO ÍNDICE DE CORREÇÃO MONETÁRIA A PARTIR DA VIGÊNCIA DA LEI N. 11.960/2009, MANTIDO O ÍNDICE PREVISTO NO TÍTULO EXECUTIVO PARA O PERÍODO ANTERIOR, COM JUROS DE MORA DESDE A CITAÇÃO, SEGUNDO O ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA ATÉ 08/12/2021, A PARTIR DO QUE DEVERIA INCIDIR A SELIC, ISSO EM OBSERVÂNCIA À EC 113/2021. RECURSO DE AGRAVO DE INSTRUMENTO INTERPOSTO PELO EXECUTADO ESTADO DE SANTA CATARINA. SUSTENTADA OCORRÊNCIA DE PRECLUSÃO QUANTO À ALTERAÇÃO DO ÍNDICE DE CORREÇÃO MONETÁRIA (DE TR PARA IPCA-E) E IMPOSSIBILIDADE DE RELATIVIZAÇÃO DA COISA JULGADA NO TOCANTE AO ÍNDICE DE CORREÇÃO MONETÁRIA. TESE AFASTADA. POSSIBILIDADE DE MODIFICAÇÃO DOS CONSECTÁRIOS LEGAIS ATÉ O TRÂNSITO EM JULGADO DO PROCESSO EXECUTIVO, SEM IMPLICAR EM PRECLUSÃO OU OFENSA À COISA JULGADA, DIANTE DA APLICABILIDADE IMEDIATA DOS CRITÉRIOS ESTABELECIDOS NOS TEMAS 810 DO STF E 905 DO STJ. PRECEDENTES DESTA CORTE DE JUSTIÇA. SOLUÇÃO, ADEMAIS, QUE NÃO OFENDE AS TESES JURÍDICAS CONTIDAS NOS TEMAS 360 E 733 DA CORTE SUPREMA. RELAÇÃO DE TRATO SUCESSIVO. AINDA, DISCUSSÃO SOBRE A "VALIDADE DOS JUROS MORATÓRIOS APLICÁVEIS NAS CONDENAÇÕES DA FAZENDA PÚBLICA, EM VIRTUDE DA TESE FIRMADA NO RE 870.947 (TEMA 810), NA EXECUÇÃO DE TÍTULO JUDICIAL QUE TENHA FIXADO EXPRESSAMENTE ÍNDICE DIVERSO". REPERCUSSÃO GERAL RECONHECIDA PELA CORTE SUPREMA NOS AUTOS DO RE N. 1.317.982 (TEMA 1.170). INEXISTÊNCIA DE ORDEM DE SUSPENSÃO DOS PROCESSOS PENDENTES QUE VERSAM SOBRE A MATÉRIA. PARADIGMA QUE TRATA APENAS DE JUROS DE MORA. SITUAÇÃO DIVERSA DOS AUTOS. DECISÃO MONOCRÁTICA QUE MERECE SER MANTIDA. RECURSO DE AGRAVO DE INSTRUMENTO INTERPOSTO PELO ESTADO DE SANTA CATARINA CONHECIDO E DESPROVIDO.
+Os Embargos de Declaração foram rejeitados (fls. 72-78).
+O recorrente aponta violação dos arts. 141, 492 e 507 do CPC. Aduz (fl. 89):
+Na espécie, ocorreu a preclusão, pois o recorrido (exequente) - já na vigência do Tema 870/STF - apresentou cálculos com índice de correção monetária diverso do previsto no precedente vinculante e, num segundo momento, sem qualquer mudança de estado de fato e de direito, apresentou novos cálculos.
+Contrarrazões às fls. 99-104.
+Decisão de admissibilidade às fls. 107-109.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16 de julho de 2024.
+A irresignação não merece prosperar.
+Verifica-se que a Corte regional não emitiu juízo de valor sobre os arts. 141, 492 e 507 do Código de Processo Civil .
+É inadmissível o conhecimento do REsp quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência de prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que os Declaratórios são acolhidos "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
