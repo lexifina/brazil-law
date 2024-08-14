@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de DAVID ALEX DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1523275- 98.2020.8.26.0228.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e 166 dias-multa, negada a substituição da pena privativa de liberdade por restritivas de direitos (fls. 127/128).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 193). O acórdão ficou assim ementado:
+"Apelação Criminal. Tráfico de drogas (artigo 33, caput e §4º, da Lei 11.343/06). Sentença condenatória. Pretensão à absolvição.
+Impossibilidade. Materialidade e autoria comprovadas. Credibilidade do relato dos policiais civis. Depoimentos em harmonia com o conjunto probatório. Dosimetria. Réu primário e sem antecedentes penais. Mantida a aplicação do redutor de pena previsto no art. 33, §4º, da Lei de Drogas.
+Inviável a substituição da pena privativa de liberdade por restritivas de direito. Regime aberto mantido. Recurso não provido." (fl. 179).
+Em sede de recurso especial (fls. 201/210), a defesa aponta violação ao art. 44 do Código Penal - CP, porque o Tribunal de origem deixou de substituir a pena privativa de liberdade por restritivas de direitos sem fundamentação idônea.
+Afirma que o recorrente preenche os requisitos do art. 44 do Código Penal, não podendo ser adicionado critério não previsto em lei para negar a conversão da pena privativa em restritiva de direitos.
+Requer seja conhecido e provido o recurso especial para substituir a pena privativa de liberdade por restritivas de direitos.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO - MPSP (fls. 216/220).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do STJ (fl. 222).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 228/235).
+Contraminuta do Ministério Público (fls. 238/241).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do agravo em recurso especial (fls. 255/256).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+O Tribunal de origem manteve a negativa de substituição da pena privativa de liberdade por restritiva de direitos, mediante os seguintes fundamentos:
+"Por fim, incabível a substituição da pena de corporal por restritivas de direitos art. 44 do C. P., por não se mostrar recomendável, ante as circunstâncias desfavoráveis do caso concreto, destacando-se a elevada nocividade da droga apreendida "cocaína"; a ausência de indicação de trabalho lícito; a prisão do réu em decorrência da traficância em outros autos, pouco tempo após a soltura realizada neste processo (fls. 94); bem como por se tratar o tráfico de drogas de conduta de elevada reprovabilidade, que coloca em risco a saúde e a ordem pública.
+Nesse viés, como bem observado pelo MM. Juízo a quo: "(..) Salientando a natureza nefasta da conduta desenvolvida pelo réu, porque o comércio ilícito de entorpecentes coloca em sério risco a saúde pública e abala, sobremaneira, as bases familiares e sociais, mostrando-se como fator de atraso social, cultural e econômico do país, e, porque o réu não comprovou desenvolvimento de atividade lícita e foi preso na traficância, após soltura neste processo, deixo de substituir a pena privativa de liberdade por restritivas de direitos, que, ademais, não se coaduna, de ordinário, com a natureza do delito de tráfico de entorpecentes, da qual acarreta conclusão de péssima conduta social e deturpada personalidade do agente (..)" (fls. 127/128)." (fl. 192).
+Sobre a violação ao art. 44 do Código Penal, denota-se do excerto que o Tribunal de origem entendeu não ser hipótese de substituição da pena privativa de liberdade por restritiva de direitos, porquanto a medida não se mostrava socialmente recomendável ao réu, sobretudo diante das circunstâncias desfavoráveis do caso concreto e da elevada nocividade da droga apreendida (cocaína), além da ausência de indicação de trabalho lícito e da prisão do réu em decorrência da traficância em outros autos, pouco tempo após a soltura realizada neste processo. Esse entendimento encontra respaldo na jurisprudência desta Corte.
+Nesse sentido (grifos nossos):
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ARTIGO 33 DA LEI N. 11.343/2006. FRAÇÃO MÁXIMA DO REDUTOR. IMPOSSIBILIDADE. QUANTIDADE, DIVERSIDADE E NOCIVIDADE DOS ENTORPECENTES APREENDIDOS. REGIME FECHADO COM FUNDAMENTO NA QUANTIDADE DE DROGAS APREENDIDAS. POSSIBILIDADE. SUBSTITUIÇÃO DA PENA CORPORAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+VI - Finalmente, esta Corte Superior de Justiça tem decidido, por outro lado, que a quantidade, variedade e a natureza das drogas apreendidas podem, associadas aos demais elementos constantes do processo, interferir na possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos.
+VII - In casu, a natureza, variedade e a quantidade de drogas apreendidas - "170 (cento e setenta) porções de maconha, 55 (cinquentae cinco) invólucros contendo crack e 139 (cento, trinta e nove) cápsulas de cocaína, com peso líquido de 39,03g (trinta e nove gramas e três decigramas)" (fl. 69) - não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante o disposto no art. 44, inciso III, do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 824.906/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE FIXADA NO MÍNIMO LEGAL. ATENUANTE DE CONFISSÃO ESPONTÂNEA. APLICAÇÃO DO ENUNCIADO N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. IMPOSSIBILIDADE DE REDUÇÃO DA PENA. QUANTIDADE E NATUREZA DA DROGA UTILIZADOS ISOLADAMENTE PARA AFASTAR A INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO. ILEGALIDADE. APLICADO PATAMAR DE REDUÇÃO. FRAÇÃO DE 1/2 (METADE). PROPORCIONALIDADE DA FRAÇÃO ELEITA. REGIME INICIAL MAIS GRAVOSO COM FUNDAMENTO NA QUANTIDADE DE DROGA APREENDIDA. FIXADO REGIME INTERMEDIÁRIO. MANTIDA A NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Impende destacar que o Superior Tribunal de Justiça tem entendido que a gravidade concreta, evidenciada pela natureza e quantidade dos entorpecentes apreendidos, constitui elemento indicativo de que a substituição da pena privativa de liberdade por restritiva de direitos não seja suficiente para a prevenção e repressão do delito no caso concreto.
+5 . Agravo Regimental desprovido.
+(AgRg no HC n. 794.315/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. REGIME MAIS GRAVOSO. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS NÃO RECOMENDÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Em atenção ao art. 33, § 2º, alínea "c", do CP, embora estabelecida a pena definitiva da acusada em 3 anos de reclusão, verifica-se que o regime mais gravoso foi fixado com base nas circunstâncias em que o crime foi cometido, no qual os envolvidos negociavam grande quantidade de drogas, sendo que a associação era extremamente organizada, com distribuição de funções, o que configura motivação concreta a justificar regime semiaberto, mesmo sendo a acusada primária e a pena-base ter sido fixada no mínimo legal.
+4. Ainda que o quantum da reprimenda esteja dentro dos limites para a substituição da pena, as circunstâncias do caso concreto não a recomendam - tendo em vista a estrutura organizacional da associação, com distribuição de funções, envolvendo a negociação de grande quantidade de drogas. Assim, nos termos do art. 44, inciso III, do Código Penal, inviável a substituição da pena privativa de liberdade por restritivas de direitos.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 2.070.061/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+ EMENTA
