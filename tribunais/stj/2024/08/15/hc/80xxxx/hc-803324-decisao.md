@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KEWIN DE OLIVEIRA BERNARDI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2295963-51.2022.8.26.0000).
+O paciente foi preso em flagrante pela suposta prática do crime previsto no art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+A ordem impetrada na Corte de origem foi indeferida.
+A impetrante alega: a) "o reconhecimento deu-se fora dos parâmetros do artigo 226 do CPP, na medida em que, conforme consta dos termos de reconhecimento juntados, o réu foi colocado sozinho para o ato, sem qualquer justificativa" (e-STJ fl. 04); b) "o reconhecimento de pessoas apenas é válido quando respeitados os ditames do art. 226 do CPP, superando a posição anterior, que entendia tratar-se de mera irregularidade" (e-STJ fl. 06); c) "no presente caso, o reconhecimento fotográfico não é mera prova atípica, em relação à qual já se deve ter reservas, mas prova verdadeiramente ilícita, pois produzida em desconformidade com a norma" (e-STJ fl. 07); d) que o paciente "encontra-se preso cautelarmente há meses, mediante uma decisão de conversão completamente genérica (..) na decisão de conversão, contudo, o r. juízo baseou-se exclusivamente na suposta gravidade abstrata do delito, para afirmar que o crime de roubo seria insuscetível de concessão de liberdade provisória, além de aventar argumento evidentemente inidôneo no sentido de que o delito, por sua natureza, violaria a ordem pública, de modo que, por esse raciocínio, a prisão preventiva deveria ser decretada obrigatoriamente em todos os crimes de roubo majorado" (e-STJ fl. 08); e) "que o instituto da prisão cautelar - considerada a função processual que lhe é inerente - não pode ser utilizado com o objetivo de promover a antecipação satisfativa da pretensão punitiva do Estado ou como castigo, pois, se assim fosse lícito entender, subverter-se-ia a finalidade da prisão cautelar, daí resultando grave comprometimento do princípio da liberdade" (e-STJ fl. 09); e f) "mesmo que condenado o réu, sendo primário e de bons antecedentes e estando denunciado por roubo, não seria sequer caso de fixação de regime fechado (..) nesse passo, não se sustenta que ele esteja em situação pior que o regime fechado (preso em CDP) sem que sequer se tenha iniciado a instrução" (e-STJ fl. 11).
+Requer liminar para que o paciente aguarde o julgamento do habeas corpus em liberdade e, definitivamente, o deferimento da ordem para revogar a prisão preventiva e desentranhar dos autos o reconhecimento fotográfico ilícito ou, subsidiariamente, a substituição da prisão por medidas cautelares diversas da prisão.
+Liminar indeferida pelo Relator João Batista (e-STJ fl. 73-77)
+Informações prestadas. (e-STJ fl. 82-134)
+Parecer do MPF. (e-STJ fl. 136-144)
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Conforme informação prestada pela Impetrante "Embora o pedido subsidiário de revogação da prisão preventiva tenha ficado prejudicado, diante da prolação de condenação, verifico que remanesce o pleito de reconhecimento da ilicitude da prova e, em consequência, de trancamento/cassação da condenação. No mais, informo que o sentenciado permanece preso por este processo, em cumprimento de pena." (e-STJ fl. 155-156)
+O pedido remanescente constante da petição inicial diz respeito a nulidade do reconhecimento pessoal (art. 226 do CPP), pedido este que já foi analisado no HC 852012, por esta relatoria.
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
