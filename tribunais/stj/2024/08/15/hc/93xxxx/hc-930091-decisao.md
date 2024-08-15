@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO ALVES DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática do delito capitulado no art. 157, § 2º, inciso II e § 2º-A, inciso I, do Código Penal, termos em que denunciado (fls. 184-188).
+No julgamento do Habeas Corpus n. 2155016-73.2024.8.26.0000/SP, a 5ª Câmara Criminal do Tribunal de Justiça de São Paulo denegou a ordem, ao assentar não haver constrangimento ilegal a ser sanado (fls. 204-211).
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea, pois amparada na mera gravidade abstrata do delito.
+Assevera que o paciente não ofereceria riscos à instrução processual.
+Argumenta que não estariam presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão cautelar.
+Medida liminar indeferida conforme decisão de fls. 228/229.
+Informações prestadas às fls. 235/240 e 247/252.
+Parecer ministerial de fls. 275/277 pela concessão da ordem .
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Busca-se, na hipótese, a revogação da prisão preventiva do ora paciente.
+São estes os pertinentes excertos do aresto combatido (fls. 206/211), litteris:
+" ..
+Repisando os argumentos lançados na decisão que indeferiu o pedido de liminar (fls. 217/221), os fatos tratados são revestidos de elevada gravidade, porquanto o crime, em tese, foi cometido em concurso de pessoas e com emprego de arma de fogo.
+Demais disso, as informações prestadas dão conta de que os imputados foram presos em flagrante e a ação naquele local não era inédita.
+Assim, evidenciada a gravidade da conduta, a ordem pública merece resguardo.
+ ..
+Não bastasse,o paciente é reincidente, ostentando condenação definitiva por outro roubo(fls. 187/190), o que evidencia também risco de reiteração delitiva, que se soma à informação de que não seria a primeira tentativa de roubo àquela localidade.
+Também por isso, as medidas cautelares diversas se mostram insuficientes e inoportunas.
+Eventuais predicados pessoais favoráveis, como sabido, não conduzem necessariamente a afastar a necessidade da prisão preventiva,sobretudo quando as circunstâncias do fato apontam em sentido contrário."
+O Superior Tribunal de Justiça firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+No caso dos autos, como visto, a prisão preventiva foi adequadamente motivada, tendo sido demonstrada pelas instâncias ordinárias a sua necessidade, com base em elementos extraídos dos autos consubstanciados na gravidade concreta da conduta. Destacou-se que o paciente além de ter cometido o roubo, juntamente com outros agentes, com o emprego de arma de fogo, ostenta outras passagens policiais e inquéritos em andamento pela prática de outros delitos contra o patrimônio, evidenciando risco concreto de reiteração delitiva.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, tendo em vista o modus operandi do delito, e na necessidade de se evitar a reiteração delitiva. Não há falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+Ilustrativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. RISCO DE REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal, exatamente como ocorrido na espécie.
+2. A prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria e de perigo gerado pelo estado de liberdade do imputado.
+3. In casu, os indícios de autoria, nos termos da exigência contida no art. 312 do CPP, estão configurados, conforme consignado no decreto preventivo, nas declarações da proprietária do estabelecimento comercial assaltado, assim como no reconhecimento, em sede policial, do ora agravante como autor do delito, por três testemunhas.
+4. É incabível, na estreita via do habeas corpus, a análise acerca da existência, assentada pelas instâncias ordinárias, tanto de prova da existência do crime quanto de indício de autoria suficiente para a decretação da segregação preventiva, por demandar detido e profundo revolvimento fático-probatório dos autos.
+5. Quanto ao periculum libertatis, verifica-se que a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante o uso de arma de fogo e em concurso de agentes, tendo havido a subtração de R$ 30.000,00 em espécie. Essas circunstâncias justificam a prisão cautelar, consoante pacífico entendimento desta Corte no sentido de que não há constrangimento ilegal quando a segregação preventiva é decretada em razão do modus operandi com que o delito fora praticado.
+6. O ora agravante, conforme consignado pelo Juízo de primeiro grau, além desta ação em andamento, já foi condenado por crime análogo a este, tendo a sentença transitado em julgado em 24/8/2021, circunstância que também justifica a prisão cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+7. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura.
+8. Agravo regimental não provido.
+(AgRg no HC n. 743.434/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MANTIDA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ROUBO MAJORADO. CONTRADITÓRIO PREVISTO NO ART. 282, § 3º DO CÓDIGO DE PROCESSO PENAL  CPP. INOVAÇÃO RECURSAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES ANTERIORMENTE CONCEDIDAS. RISCO DE REITERAÇÃO DELITIVA. APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese trazida pelo agravante, relacionada ao contraditório previsto no art. 282, § 3º do CPP, não foi aventada nas razões do recurso em habeas corpus, configurando-se hipótese de inovação recursal, o que impede a análise em sede de agravo regimental.
+Ressalte-se, ademais, que referido tema sequer foi matéria de debate pelo TJ/BA no julgamento do habeas corpus originário, sendo que sua análise diretamente nesta Corte Superior, configuraria indevida supressão de instância.
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal  CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+In casu, verifica-se que a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do recorrente, evidenciadas pelas circunstâncias do delito, pois supostamente teria cometido o delito de roubo majorado pelo concurso de pessoas, sendo a violência exercida com emprego de simulacro de arma de fogo, subtraindo pertences de várias pessoas em um ônibus de transporte coletivo; além de ter sido ressaltado o descumprimento das medidas cautelares anteriormente concedidas. Destacou-se, também, o risco de reiteração delitiva, tendo em vista que, quando posto em liberdade, o recorrente voltou a delinquir, bem como responde por outras ações penais pela prática do crime de roubo.
+3. Forçoso lembrar, ainda, que o § 1º do art. 312 do CPP prescreve que "a prisão preventiva também poderá ser decretada em caso de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares (art. 282, § 4º)".
+4. Nesse contexto, verifica-se que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+5. O entendimento do Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa, quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública, mormente quando já descumpridas medidas anteriormente impostas, o que revela a insuficiência das cautelares diversas da prisão.
+6. O pleito de prisão domiciliar não foi objeto de discussão no acórdão recorrido, o que obsta a análise direta por esta Corte Superior de Justiça, sob pena de incorrer em indevida supressão de instância.
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 165.887/BA, da minha relatoria, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ressalto que a presença de condições pessoais favoráveis, como residência fixa e atividade lícita, não impede a decretação da prisão preventiva, quando devidamente fundamentada. A propósito:
+AGRAVO REGIMENTAL NA PETIÇÃO NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. NÃO REPRESENTA ÓBICE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. São idôneas as razões apontadas pelo Juízo singular para decretar a prisão cautelar do paciente, diante do modus operandi que revelou a gravidade em concreto da conduta, da quantidade total de droga apreendida com todos os acusados, além dos indícios de se tratar de organização criminosa voltada ao tráfico de drogas.
+2. Este Superior Tribunal afirma que - a presença de condições pessoais favoráveis ao agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva quando identificados os requisitos legais da cautela - (HC n. 498.771/SP, Relator Ministro Joel Ilan Paciornik, 5ª T., DJe 12/11/2019).
+3. Agravo regimental não provido.
+(AgRg na PET no HC n. 751.082/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+De outro lado, é firme neste STJ o entendimento de que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITIVA. CAUTELARES. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. INDIFERENÇA. RECOMENDAÇÃO N. 62/2020 DO CNJ. PACIENTE QUE NÃO INTEGRA O GRUPO DE RISCO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+(..).
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura da paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017.
+(..).
+7. Habeas corpus não conhecido.
+(HC 677.034/DF, Rel. Ribeiro Dantas, Quinta Turma, DJe 4/10/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
