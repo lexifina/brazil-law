@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FUNDAÇÃO GETÚLIO VARGAS à decisão de fls. 494/495, que não conheceu do recurso em razão da ausência de regular representação processual e do não cabimento do recurso aviado.
+Sustenta a parte embargante que a decisão proferida incorreu em omissão, e argumenta que "o douto juízo deixou de fundamentar a decisão e decidiu em descompasso com precedente de observação obrigatória do STF" (fl. 500).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição do recurso em mandado de segurança, a parte embargante não juntou aos autos a cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso, o advogado Décio Flavio Gonçalves Torres Freire.
+É firme o entendimento do Superior Tribunal de Justiça de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115 do STJ).
+A irregularidade na representação processual foi percebida no STJ, razão pela qual houve a intimação da parte embargante para sanar referido vício (fl. 485). No entanto, mesmo tendo sido regularmente intimada para regularizar a representação (art. 932, parágrafo único, do CPC), a parte deixou transcorrer o prazo sem manifestação (fl.491).
+Desta forma , a parte embargante não cumpriu devidamente os requisitos relativos à representação processual, mesmo após intimada para regularização, conforme faculdade conferida sob a égide do Código de Processo Civil em vigor.
+Ressalte-se, ainda, que a parte embargante não discutiu os vícios previstos no art. 1.022 do CPC. Após apresentar argumento genérico sobre a existência de omissão na decisão combatida, limitou-se a alegar ausência de fundamentação e descompasso com precedente do Supremo Tribunal Federal, sem indicar qual entendimento teria sido contrariado e sem estabelecer conexão entre os fundamentos da decisão de não conhecimento de seu recurso e os destes aclaratórios, em total afronta ao princípio da dialeticidade.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl no Aresp 883235/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/12/2020.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada e devidamente fundamentada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
