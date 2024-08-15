@@ -1,0 +1,8 @@
+DECISÃO
+ÉVERTON MARTINS DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0005148-44.2024.8.26.0521, em que foi mantida a decisão que o progrediu ao regime semiaberto, a despeito da não realização de exame criminológico.
+Assere a defesa que "não há, efetivamente, elementos que demonstrassem a necessidade da realização do exame, razão pela qual correta à decisão que deferiu a progressão, sem determina sua realização prévia" (fl. 5).
+Ao cassar o decisum, salientou a Corte de origem que "a nova redação conferida ao artigo 112, §1º, da Lei de Execução Penal se encontra em plena coerência e conformidade com a ordem constitucional pátria, não se vislumbrando motivação idônea para a negativa de aplicação da legislação pelo MM. Juiz da Execução Penal, o qual, repise-se, não possui legitimidade para intervir em questões de índole eminentemente administrativa" (fl. 15).
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, " a tualmente, desde a Lei n. 14.843/2024 e para os crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor que, "em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão"" (AgRg no HC n. 889.369/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 3/7/2024.)
+À vista do exposto, nos termos do art. 210, do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
