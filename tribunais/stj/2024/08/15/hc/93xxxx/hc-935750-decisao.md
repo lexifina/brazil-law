@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Maymon Gabriel Hugo Veimar, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça de Minas Gerais que denegou o Habeas Corpus criminal n. 1.0000.24.338246-2/000, mantendo a prisão preventiva imposta pelo Juízo de Direito da 3ª Vara Criminal da Comarca de Betim/MG pela suposta prática do crime de tráfico de drogas.
+Nesse writ, sustenta constrangimento ilegal na manutenção da segregação cautelar do paciente, visto que a quantidade da droga não é fundamento suficiente para decretação de prisão preventiva (fl. 4).
+Discorre sobre as condições pessoais do paciente e, pela substituição da prisão preventiva por outras medidas cautelares.
+É o relatório.
+Infere-se da decisão que manteve a preventiva (fls. 48/49):
+ ..  Analisando os autos, verifico que os elementos que justificaram o estabelecimento da medida prisional ainda permanecem presentes, de forma a indicar a necessidade e adequação da referida cautelar, pelos motivos já postos na decisão que a estabeleceu.
+Para além dos fundamentos apresentados pelo Juízo Plantonista, destaco que os laudos preliminares atestaram a apreensão de 445 pedras de crack (pesando, ao todo, 110,90g) e 567 pinos de cocaína (pesando, ao todo, 826,40g), significativa quantidade e variedade de drogas.
+Preservando a custódia cautelar, destacou a Corte estadual (fls. 54/56):
+ ..
+Como se vê, o delito em tese praticado se revela de especial e concreta gravidade, considerando, notadamente, a apreensão de exorbitante quantidade e variedade de entorpecentes, a sabe r, 826,40g (oitocentos e vinte e seis gramas e quarenta centigramas) de cocaína e 110,90g (cento e dez gramas e noventa centigramas) de crack, conforme exame preliminar de fls. 17/18 e 35/36 -doc. único, o que demonstra a real periculosidade do inculpado e reforça a necessidade de sua segregação cautelar.
+ ..
+Por fim, cumpre destacar que as medidas cautelares previstas no artigo 319 do Código de Processo Penal não são adequadas para o caso em análise, tendo em vista a gravidade concreta e real do delito supostamente praticado.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Verifico, in casu, que a manutenção da prisão preventiva está devidamente justificada pela necessidade de garantir a ordem pública. Tal necessidade é evidenciada pelas circunstâncias do flagrante e pela significativa quantidade e variedade de drogas apreendidas e demais apetrechos - 445 pedras de crack (pesando, ao todo, 110,90 g) e 567 pinos de cocaína (pesando, ao todo, 826,40 g) - (fl. 49 - grifo nosso).
+Acerca da possibilidade de se manter a prisão com fundamento na quantidade de entorpecentes, os seguintes precedentes:
+EMENTA EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Esta Corte Superior tem entendido que embargos declaratórios com nítidos intuitos infringentes opostos em razão de decisão monocrática devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. A teor do disposto no enunciado da Súmula n. 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+3. Não se conhece, em habeas corpus, de questões relativas a autoria e materialidade delitivas, diante da incompatibilidade do procedimento do writ com a necessidade de dilação probatória.
+4. O decreto prisional apresenta fundamentação que deve ser entendida como válida para a prisão preventiva, tendo em vista a gravidade concreta da conduta, consubstanciada na quantidade e diversidade dos entorpecentes empreendidos.
+5. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF, o writ deve ser indeferido liminarmente.
+6. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+(EDcl no HC n. 832.040/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024 - grifo nosso).
+EMENTA AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO. PRISÃO PREVENTIVA. PRESENÇA DOS REQUISITOS. INCIDÊNCIA DA SÚMULA Nº 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É pacífica a "jurisprudência desta Corte acerca da manutenção da prisão preventiva em razão da quantidade de droga, contumácia delitiva e fuga do distrito da culpa, circunstâncias que justificam a manutenção da prisão cautelar para a garantia da ordem pública" (AgRg no RHC n. 173.374/BA, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023); (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022); (AgRg no HC n. 799.998/MS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 29/3/2023, grifei); (AgRg no HC n. 806.211/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 761.012/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/12/2022).
+2. A existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública (AgRg no HC 793.651/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC 790.898/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado e m 24/4/2023, DJe de 28/4/2023).
+3. A alegação de insuficiência de provas para a pretendida absolvição não pode ser conhecida através do habeas corpus, já que demanda análise abrangente do conjunto de provas, o que desborda as limitações cognitivas da ação autônoma de impugnação.
+4. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+5. Agravo regimental não conhecido
+(AgRg no RHC n. 193.648/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 6/8/2024, DJe de 9/8/2024 - grifo nosso ).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro a petição inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Petição inicial indeferida.
