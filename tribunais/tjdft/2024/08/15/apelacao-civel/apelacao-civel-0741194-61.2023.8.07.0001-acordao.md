@@ -1,0 +1,81 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0741194-61.2023.8.07.0001APELANTE(S)LIBERTY SEGUROS S/AAPELADO(S)NEOENERGIA DISTRIBUIÇÃO BRASÍLIA S.ARelatorDesembargador FERNANDO HABIBE
+ Acórdão Nº1907471
+
+EMENTA
+
+ p{text-align: justify;}
+Apelação. Demanda regressiva movida por seguradora. Ausência de requerimento de ressarcimento à distribuidora ou de aferição pela requerida ou segurado. Substituição dos aparelhos danificados e posteriormente descartados. Descaracterização do nexo causal com o fornecimento de energia elétrica pela concessionária (Art. 611, § 3º, I e II, da Resolução normativa nº 1.000, de 7 de dezembro de 2021). Improcedência da demanda.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FERNANDO HABIBE - Relator, ARNOLDO CAMANHO - 1º Vogal e JAMES EDUARDO OLIVEIRA - 2º Vogal, sob a Presidência do Senhor Desembargador JAMES EDUARDO OLIVEIRA, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Agosto de 2024
+
+Desembargador FERNANDO HABIBERelator
+
+RELATÓRIO
+
+O autor apela (id 56260272) contra sentença da 2ª Vara Cível de Brasília (id 56260271), que julgou improcedente demanda regressiva de reparação de danos, sob o fundamento de não ter sido demonstrado o nexo de causalidade entre os danos alegados e o serviço prestado pela ré.
+
+Sustenta que os danos decorreram de oscilação/queda de energia na rede fornecedora, causando pane elétrica, conforme declaração do segurado e laudos técnicos elaborados por empresas especializadas e fabricantes dos equipamentos danificados, o que demonstra o nexo de causalidade, nos termos do artigo 616, § 2º da Resolução n. 1.000/2021 da ANEEL.
+
+Alega que não há a necessidade de perícia técnica, pois a perícia realizada por equipe de técnicos especializados, confirma que os danos nos equipamentos foram causados por sobretensão, conforme laudos juntados aos autos.
+
+Afirma que não é obrigatória a vistoria prévia dos equipamentos danificados para a substituição.
+
+Informa que os equipamentos não estão em sua posse e, por se tratar de sucata, não são recolhidos, ficando com o segurado o qual provavelmente já os descartou.
+
+Defende a inversão do ônus da prova, pois a apelada possui maior facilidade na obtenção da prova. Cita o IRDR instaurado pela 2ª Câmara Cível do TJMG (apelação cível nº 1.0000.21.045383-3/001), que trata da obrigatoriedade da inversão do ônus da prova, nos casos como o presente.
+
+Pugna pela reforma da sentença recorrida, com a consequente procedência dos pedidos iniciais formulados.
+
+Em contrarrazões (id 56279182), a ré suscita, preliminarmente, ausência de impugnação aos fundamentos da sentença. No mérito, alega que a recorrente não comprou os danos elétricos sofridos, nem a ocorrência da interrupção no fornecimento de energia, tampouco a relação dos seus serviços prestados com os supostos danos elétricos sofridos pelo segurado. Pugna pelo desprovimento do apelo.
+
+VOTOS
+
+O Senhor Desembargador FERNANDO HABIBE - Relatorp{text-align: justify;}
+Rejeito a preliminar de violação ao princípio da dialeticidade, uma vez que o recurso atende aos pressupostos de admissibilidade que lhe são próprios, inclusive em relação aos motivos do inconformismo com a sentença.
+Quanto ao mérito, o apelo reproduz, essencialmente, razões que foram analisadas na sentença, da lavra da MM. Juiz Carlos Eduardo Batista Dos Santos, que adoto como fundamentação:
+“(...)
+Nestes autos, constato que a parte requerente pleiteia a condenação da requerida ao ressarcimento dos valores por si dispendidos em razão de sinistro ocorrido, para os quais teria se obrigado em razão de seguro contratado pelo segurado descrito na exordial. Em suma, aduz que em razão de variações de tensão elétrica da rede de distribuição administrada pela requerida houve danos a equipamentos nas instalações do segurado.
+ A requerida, ao seu turno, defende a ausência de comprovação de nexo de causalidade entre os danos nos equipamentos e a inocorrência de perturbações no sistema elétrico da Distribuidora.
+ Emerge que a requerida atua na qualidade de prestadora de serviço público de energia elétrica e, portanto, sua responsabilidade por eventuais danos decorrentes de sua atividade é objetiva, nos termos do artigo 37, § 6º, da Constituição da República, sendo necessária a presença apenas de conduta voluntária (negligente ou imprudente); dano (material e/ou moral); e nexo de causalidade entre os elementos anteriores, sendo prescindível a incursão na análise da negligência ou imprudência.
+ Nessa senda, importante expor que a Resolução Normativa Nº 1.000/2021 (Link), que entrou em vigor em 3 de janeiro de 2022 (art. 678), ao tempo do sinistro narrada na inicial, estabelece o prazo de 5 (cinco) anos, a contar da data provável da ocorrência do dano elétrico no equipamento, para o consumidor solicitar o ressarcimento à distribuidora (art. 602). Autoriza-se o consumidor a providenciar o conserto do equipamento danificado antes de solicitar o ressarcimento ou antes da realização dos procedimentos por parte da distribuidora, devendo, contudo, informar à distribuidora o disposto e, quando solicitado, entregar as peças danificadas e substituídas (§6º).
+ No processo de ressarcimento a distribuidora deve investigar a existência do nexo de causalidade, considerando inclusive os registros de ocorrências na sua rede (art. 611), considerando o Módulo 9 do PRODIST (§1º). Estipula, ademais, que a distribuidora se exime do dever de ressarcir quando:
+ Art. 611. Na análise do pedido de ressarcimento, a distribuidora deve investigar a existência do nexo de causalidade, que é a caracterização do vínculo entre o evento causador e o dano reclamado.
+(...)
+§ 3º  Fica descaracterizado o nexo de causalidade quando:
+I - não for encontrado o equipamento para o qual o dano foi reclamado; ou
+II - o consumidor providenciar a reparação do equipamento previamente ao pedido de ressarcimento ou sem aguardar o término do prazo para a verificação, e não entregar à distribuidora:
+a) a nota fiscal do conserto, indicando a data de realização do serviço e descrevendo o equipamento consertado;
+b) o laudo emitido por profissional qualificado;
+c) dois orçamentos detalhados; e
+d) as peças danificadas e substituídas;
+III - não houve perturbação na data e hora aproximada para o dano reclamado, conforme Módulo 9 do PRODIST;
+IV - existe registro de perturbação no sistema elétrico que afetou a unidade consumidora, mas:
+a) essa perturbação não poderia ter causado dano em equipamento resistivo; ou
+b) a fonte de alimentação elétrica do equipamento está em perfeito estado de funcionamento.
+§ 4º  O laudo previsto na alínea “b” do inciso II do § 3º deve comprovar que o dano tem origem elétrica, observadas as situações excludentes do inciso II do art. 616.
+ “In casu”, não houve requerimento de ressarcimento à distribuidora ou mesmo solicitação de aferição a ser realizada pela requerida ou seu segurado, sendo que a autora, em réplica, sinaliza que não se encontram na posse da requerente, “por se tratar de sucata, sem qualquer serventia, não são recolhidos, ficando com o segurado o qual provavelmente já os descartou” (ID 178443682, p. 35). Assim, houve a substituição dos aparelhos danificados e posteriormente descartados, fatos que afastam a responsabilidade da requerida, nos termos das Resoluções supracitadas.
+ Para além disso, ainda que objeto de questionamento na via judicial, tem-se que a aferição acerca da (in)existência de nexo de causalidade somente poderia ser realizada por meio da produção de prova pericial nos equipamentos danificados pela suposta instabilidade na rede elétrica administrada pela requerida.
+ Não olvido que a jurisprudência indique a incidência do Código de Defesa do Consumidor à seguradora que se sub-rogou nos direitos do segurado, inclusive com a possibilidade de inversão do ônus da prova. Contudo, não há como se exigir da requerida a prova de um fato que, pela conduta da requerente, se perdeu. É a hipótese doutrinariamente denominada Prova Diabólica.
+ A corroborar com o entendimento exposto, cito percuciente precedente deste Eg. Tribunal de Justiça, em Acórdão assim ementado:
+ DIREITO ADMINISTRATIVO. PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO REGRESSIVA PROPOSTA POR SEGURADORA. RESPONSABILIDADE CIVIL OBJETIVA. OSCILAÇÃO DE ENERGIA ELÉTRICA. INVERSÃO DO ÔNUS DA PROVA. NEXO DE CAUSALIDADE NÃO VERIFICADO. SENTENÇA MANTIDA.  1. A relação jurídica estabelecida entre as partes é regida pelo Código de Defesa do Consumidor, uma vez que a seguradora sub-roga-se nos direitos dos segurados, consumidores finais de energia elétrica (arts. 2º e 3º do CDC). 2. O fato de as pessoas jurídicas prestadoras de serviço público responderem objetivamente pelos danos decorrentes de sua atividade (art. 37, § 6º, da Constituição Federal) não afasta a necessidade de a seguradora comprovar o nexo causal entre o fato lesivo e o dano causado à unidade consumidora danificada. 3. No caso, a concessionária de serviço público comprovou que não houve qualquer tipo de distúrbio ou oscilação na rede elétrica no dia do sinistro, afastando as alegações da seguradora. 4. A propositura de ação de reparação de danos pela seguradora não está condicionada ao prévio pedido administrativo de ressarcimento dos danos causados à unidade consumidora. Todavia, a não comunicação oportuna do fato à concessionária de energia elétrica impede que tenha acesso aos equipamentos danificados e aponte as causas dos danos. Se o consumidor providencia o reparo, por sua conta e risco, sem noticiar o dano à CEB, e descarta o dispositivo afetado, inviabiliza a plena averiguação do nexo de causalidade, em detrimento da seguradora. 5. As concessionárias de energia elétrica não são responsáveis pela adequação técnica das instalações de seus consumidores, especialmente aqueles destinados ao controle de descargas atmosféricas diretamente no imóvel. 6. Apelação conhecida e não provida. Unânime.
+(Acórdão 1325849, 07135011020208070001, Relator: FÁTIMA RAFAEL,  3ª Turma Cível, data de julgamento: 10/3/2021, publicado no DJE: 25/3/2021. Pág.:  Sem Página Cadastrada.) (s.g.)
+ Não olvido das colocações da autora no tocante aos laudos técnicos juntados por ocasião da exordial. Contudo, para além de serem unilaterais, não se bastando para substituição da perícia em Juízo, sob pálio das garantias do contraditório e ampla defesa, anoto que os laudos particulares apenas indicam que os aparelhos queimaram “devido à pane elétrica de energia” (ID 174094121, pp. 1 e 3); “pela variação ou queda ocasional de energia proveniente de um pico”; e “devido à oscilação de energia” (ID 174094121, pp. 4-5), mas não apontam as causas da “pane, “pico” e “oscilação de energia” – se decorrente de sobretensão na rede de alimentação fornecida pela requerida, de curto-circuito decorrentes das instalações da unidade consumidora, de descargas atmosféricas etc. –.
+ Nessa senda, à mingua de demonstração de falha na prestação dos serviços de fornecimento de energia elétrica e de nexo de causalidade para com os danos alegados na inicial, impõe-se a improcedência do pedido inicial.
+(...).”
+Assim, ausente a comprovação do nexo causal entre o suposto dano sofrido e a prestação do serviço pela apelada, não cabe cogitar de responsabilidade da concessionária pela restituição do valor pago pelo apelante ao segurado, por ausência de demonstração dos pressupostos da responsabilidade civil.
+Posto isso, nego provimento ao apelo.
+Majoro os honorários advocatícios para 14% (CPC 85, § 11).
+
+O Senhor Desembargador ARNOLDO CAMANHO - 1º Vogal Com o relatorO Senhor Desembargador JAMES EDUARDO OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO. UNÂNIME
