@@ -1,0 +1,27 @@
+DECISÃO
+  Trata-se  de  conflito  negativo  de  competência  entre  o  JUÍZO  DE  DIREITO  DA  5ª  VARA  DE  ENTORPECENTES  DE  BRASÍLIA  -  DF,  suscitante,  e  o  JUÍZO  DE  DIREITO  DA  2ª  VARA  CRIMINAL  DE  INDAIATUBA  -  SP,  suscitado.
+Consta  dos  autos  que  foi  instaurado  inquérito  policial  para  apurar  eventual  prática  do  delito  previsto  no  art.  33  da  Lei  n.  11.343/2006,  tendo  em  vista  que  uma  pessoa  identificada  como  Alexandre  Peixoto  postou,  na  Agência  dos  Correios  do  Município  de  Cabreúva/SP,  uma  encomenda  contendo  substâncias  entorpecentes  (fl.  254).
+Ao  fundamento  de  que  as  substâncias  foram  apreendidas  em  Indaiatuba  -  SP,  o  Juízo  da  Vara  Única  de  Cabreúva  -  SP  determinou  a  remessa  dos  autos  àquela  localidade,  atendendo  ao  pleito  feito  pelo  Ministério  Público  estadual  (fls.  249/250).
+Os  autos  foram,  então,  distribuídos  ao  Juízo  de  Direito  da  2ª  Vara  Criminal  de  Indaiatuba  -  SP  que,  com  base  no  art.  70  do  Código  de  Processo  Penal,  determinou  o  envio  do  feito  à  cidade  de  Brasília  -  DF,  local  indicado  como  destino  da  droga  (fl.  261).
+Por  sua  vez,  o  Juízo  de  Direito  da  5ª  Vara  de  Entorpecentes  de  Brasília  -  DF  declarou-se  incompetente  e  suscitou  o  presente  conflito,  argumentando  que,
+ c onforme  dispõe  o  art.  70  do  Código  de  Processo  Penal,  a  competência  criminal  dar-se-á  pelo  local  da  consumação  delitiva,  ou,  no  caso  da  tentativa,  pelo  local  onde  foi  praticado  o  último  ato  executório.
+Tão  somente  com  fundamento  nesse  dispositivo  legal,  seria  possível  concluir  que  a  competência  seria  do  juízo  suscitado,  uma  vez  que  a  droga  foi  apreendida  tão  logo  foi  postada,  ainda  no  Estado  de  São  Paulo.
+Acrescente-se,  por  conseguinte,  que  no  caso  específico  da  traficância  realizada  por  meio  da  Empresa  Brasileira  de  Correios  e  Telégrafos  -  ECT,  o  Superior  Tribunal  de  Justiça  vem  decidindo,  desde  o  ano  de  2016,  que  a  competência  é  dada  pelo  local  da  remessa  (fl.  271).
+O  Ministério  Público  Federal  manifestou-se  pelo  conhecimento  do  conflito  para  se  declarar  competente  o  Juízo  de  Direito  da  Comarca  de  Cabreúvas,  juízo  não  envolvido  no  presente  conflito  (fl.  280).
+É  o  relatório.
+DECIDO.
+Conheço  do  presente  conflito  de  competência,  porquanto  instaurado  entre  Juízes  vinculados  a  tribunais  diversos,  nos  termos  do  art.  105,  inciso  I,  alínea  "d",  da  Constituição  Federal.
+Cinge-se  a  controvérsia  a definir  a  competência  para  conduzir  inquérito  policial  que  apura  possível  tráfico  interestadual  de  drogas  praticado  via  postal.
+Acerca  da  questão -  tráfico  interestadual  de  drogas  praticado  por  via  postal -,  a  Terceira  Seção  sedimentou  entendimento  no  sentido  de  que  o  delito  se  consuma  no  local  da  remessa,  ainda  que  o  entorpecente  não  chegue  ao  destinatário.
+A  propósito:
+PROCESSUAL  PENAL.  CONFLITO  DE  COMPETÊNCIA.  CRIME  DE  TRÁFICO  INTERESTADUAL  DE  ENTORPECENTES.  REMESSA  POSTAL.  CONSUMAÇÃO.  LOCAL  DA  REMESSA  DA  DROGA.  ART.  70  DO  CPP.  CONFLITO  DE  COMPETÊNCIA  CONHECIDO.  COMPETÊNCIA  DO  JUÍZO  SUSCITANTE.
+1.  O  tráfico  ilícito  de  entorpecentes,  crime  plurinuclear  ou  de  condutas  múltiplas,  formal,  consuma-se  com  a  prática  de  qualquer  um  de  seus  verbos.  No  caso  em  comento,  remetida  a  droga  de  um  Estado  para  outro,  dentro  do  próprio  território  nacional,  restou  consumado  o  delito,  embora  interceptada  a  droga  antes  de  alcançar  o  seu  destino  final.
+2.  In  casu,  no  tráfico  interestadual  de  drogas,  tal  qual  a  exportação,  no  tráfico  internacional  de  entorpecentes,  cujos  últimos  atos  de  execução  são  praticados  dentro  do  país,  é  de  se  considerar  como  local  da  remessa  do  entorpecente  o  lugar  da  consumação  do  delito,  nos  termos  do  art.  70  do  Código  de  Processo  Penal,  relevando-se  a  competência,  inclusive,  em  favor  da  produção  de  provas  e  do  desenvolvimento  dos  atos  processuais.
+3.  Conflito  conhecido  para  declarar  a  competência  do  Juízo  de  Direito  da  2ª  Vara  Criminal  de  Campo  Grande  -  MS,  o  suscitante  (CC  n.  147.802/MS,  Terceira  Seção,  Rel.  Ministro  Ribeiro  Dantas,  julgado  em  28/09/2016,  DJe  de  13/10/2016,  grifamos).
+Na  hipótese,  verifica-se  que  os  entorpecentes  foram  postados  na  cidade  de  Cabreúva  -  SP,  apesar  de  apreendidos  em  agência  na  Comarca  de  Indaiatuba  -  SP  (fl.  254)  e  ter  como  destino s  localidades diversas ,  dentre  elas  Brasília-DF.
+Assim,  deve  ser  reconhecida  a  competência  do  Juízo  da  Vara  Única  de  Cabreúva  -  SP,  ainda  que  não  figure  como  parte  no  conflito.
+Com  efeito,  o  Superior  Tribunal  de  Justiça  tem  precedentes  no  sentido  que,  verificada  a  competência  de  um  terceiro  Juízo,  estranho  aos  autos  do  Conflito  de  Competência,  admite-se  a  remessa  do  feito  a  este  (CC  n.  177.999,  Rel.  Min.  Luis  Felipe  Salomão,  Segunda  Seção,  DJe  de  18/05/2021).
+Ante  o  exposto,  conheço  do  conflito  para  declarar  competente  o  JUÍZO  DA  VARA  ÚNICA  DE  CABREÚVA  -  SP  ,  um  terceiro  Juízo,  para  conduzir  o  presente  inquérito  policial.
+Dê-se  ciência  aos  Juízes  envolvidos.
+Publique-se.  Intimem-se.
+EMENTA
