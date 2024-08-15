@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por CLEONES MOREIRA DA SILVA e MICHAEL COUTINHO SOUZA contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim ementado (e-STJ fl. 888):
+APELAÇÕES CRIMINAIS. RECURSOS DEFENSIVOS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIACOMPROVADAS. CONDENAÇÃO MANTIDA. REDUÇÃO DA PENA-BASE. INVIABILIDADE. CIRCUNSTÂNCIA "CULPABILIDADE" DESFAVORÁVEL. AFASTAMENTO DA MAJORANTE PELO EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E PERÍCIA DA ARMA. RECURSOS DOSRÉUS DESPROVIDOS. APELAÇÃO MINISTERIAL. FIXAÇÃO DE INDENIZAÇÃOPOR DANO MORAL. POSSIBILIDADE. PEDIDO EXPRESSO NA DENÚNCIA.
+RECURSO MINISTERIAL PROVIDO.
+ ..
+5. O Ministério Público, quando da denúncia, expressamente formulou pedido de indenização, sendo certo que, durante a instrução processual, as vítimas confirmaram que ficaram extremamente abalas emocionalmente, o que justifica a fixação da indenização por dano moral, na forma do art. 387, inciso IV, do CPP.
+6. Recurso ministerial provido.
+Consta dos autos que os agravantes foram absolvidos, pelo Juízo singular, da imputada prática do delito capitulado no art. 329 do CP e, na mesma assentada, condenados como incursos nas sanções do art. 157, § 2º, II, e § 2º-A, I, do referido diploma, ambos à pena privativa de liberdade de 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, acrescida do pagamento de 16 (dezesseis) dias-multa, oportunidade em que, ex vi do art. 387, § 1º, do CPP, restou mantida a segregação cautelar outrora decretada (e-STJ fls. 647-658).
+Na sequência, a Corte de origem negou provimento às apelações defensivas e, em série, deu provimento ao apelo acusatório para fixar, em R$ 1.000,00 (mil reais), a indenização por danos morais, devida pelos acusados, em favor de cada vítima (e-STJ fls. 881-901).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta usurpação do art. 387, IV, do CPP (e-STJ fl. 906).
+Para tanto, assevera que, conforme jurisprudência firmada por esta Corte Superior:
+a fixação de valor mínimo para reparação dos danos causados pela infração exige, além de pedido expresso na inicial, a indicação de valor e instrução probatória específica, de modo a possibilitar ao réu o direito de defesa com a comprovação de inexistência de prejuízo a ser reparado ou a indicação de quantum diverso (e-STJ fl. 908).
+Nestes termos, roga para que seja afastada a fixação de valor a título de indenização por eventuais danos morais às vítimas, ante a falta de instrução probatória específica, com ausência de ampla defesa e contraditório (e-STJ fl. 909).
+Contrarrazões pelo Parquet estadual (e-STJ fls. 928-930).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 83/STJ (e-STJ fls. 917-921), fundamento oportunamente infirmado pelos agravantes (e-STJ fls. 923-926).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, pelo não provimento do agravo em recurso especial (e-STJ fls. 947-955).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do apelo raro.
+Sobre o indigitado vilipêndio ao art. 387, IV, do CPP, o Tribunal capixaba - ao dar provimento ao apelo ministerial - exortou (e-STJ fls. 893 e 894, grifamos):
+Por fim, em sede recursal, o Ministério Público Estadual requer a fixação de indenização por danos morais, em favor das vítimas.
+Sobre o tema, aclaro que o art. 387, inciso IV, do CPP, discorre que, o Magistrado, na sentença condenatória, fixará valor para reparação dos danos causados pela infração, tendo como norte, os prejuízos sofridos pela vítima.
+No caso, verifico que o Ministério Público, quando da denúncia, expressamente formulou pedido de indenização, sendo certo que, durante a instrução processual, as vítimas SÉRGIO SANTOS SOUZA (mídia fls. 272) e JESAÍAS SANTA CLARACOUTINHO (mídia fls. 298), confirmaram que ficaram extremamente abaladas emocionalmente, o que justifica a fixação da indenização, até mesmo pelo caráter pedagógico da medida, objetivando o desestímulo da infração penal.
+ ..
+Deste modo, tenho que o valor de R$ 1.000,00 (mil reais) para cada vítima, mostra-se proporcional e razoável, tendo em vista as peculiaridades do caso concreto, já que as vítimas não sofreram prejuízo material.
+Da leitura dos excertos transcritos, deflui-se que o acórdão hostilizado converge ao entendimento perfilhado pela 3ª Seção, deste Tribunal da Cidadania, nos autos do REsp n. 1.986.672/SC (adstrito a crime contra o patrimônio).
+Na ocasião, esta Corte de Uniformização, ao dar concretude à terceira via do Direito Penal (Claus Roxin), consubstanciada na dogmática atual de "simétrica" proteção a ser destinada aos interesses da vítima - como expressão do garantismo integral no bojo da persecução criminal -, sob pena de proteção Estatal insuficiente, interpretou a dicção do art. 387, IV, do CPP, nos seguintes termos:
+A Quinta Turma, no julgamento do AgRg no REsp 2.029.732/MS em 22/8/ 2023, todavia, adotou interpretação idêntica à da Sexta Turma, no sentido de que é necessário incluir o pedido referente ao valor mínimo para reparação do dano moral na exordial acusatória, com a dispensa de instrução probatória específica.  ..
+Com efeito, a possibilidade de presunção do dano moral in re ipsa, à luz das específicas circunstâncias do caso concreto, dispensa a obrigatoriedade de instrução específica sobre o dano. No entanto, não afasta a exigência de formulação do pedido na denúncia, com indicação do montante pretendido (REsp n. 1.986.672/SC, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 8/11/2023, DJe de 21/11/2023, grifamos).
+Em complemento, recentemente,
+a Terceira Seção desta Corte, no julgamento do REsp n. 1.986.672/SC, Rel. Min. Ribeiro Dantas, DJe 21/11/2023, firmou a tese de que, "em situações envolvendo dano moral presumido, a definição de um valor mínimo para a reparação de danos: (I) não exige prova para ser reconhecida, tornando desnecessária uma instrução específica com esse propósito, todavia, (II) requer um pedido expresso e (III) a indicação do valor pretendido pela acusação na denúncia" (AgRg no REsp n. 2.127.068/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024, grifamos).
+Tal delineamento processual, frise-se, despido de qualquer mácula aos edificantes postulados do contraditório e da ampla defesa, coaduna-se ao caso em exame, pois, conforme sublinhado pelo Tribunal estadual:
+verifico que o Ministério Público, quando da denúncia, expressamente formulou pedido de indenização, sendo certo que, durante a instrução processual, as vítimas SÉRGIO SANTOS SOUZA (mídia fls. 272) e JESAÍAS SANTA CLARACOUTINHO (mídia fls. 298), confirmaram que ficaram extremamente abalados emocionalmente, o que justifica a fixação da indenização, até mesmo pelo caráter pedagógico da medida, objetivando o desestímulo da infração penal (e-STJ fl. 893, grifamos).
+Incide, portanto, no ponto em voga, a Súmula 568/STJ, segundo a qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
