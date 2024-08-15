@@ -1,0 +1,34 @@
+DECISÃO
+IRACEMA CRISTINA DE VARGAS DA SILVA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Recurso em Sentido Estrito n. 5034037-58.2023.8.21.001.
+A defesa sustenta a ocorrência de excesso de linguagem na decisão de pronúncia.
+Decido.
+Sobre a matéria veiculada neste writ, a jurisprudência desta Turma proclama que não se configura o alegado excesso de linguagem quando, por ocasião da prolação da decisão de pronúncia, o magistrado se refere às provas constantes dos autos, para verificar a ocorrência da materialidade e a presença de indícios suficientes de autoria, aptos a ensejar o julgamento do feito pelo Tribunal do Júri. Exemplifico o entendimento:
+ ..
+2. Não prospera a alegação de excesso de linguagem por ocasião da decisão de pronúncia, pois as instâncias de origem não emitiram juízo de valor acerca da certeza da autoria, mas, tão somente, demonstraram, no vasto acervo probatório, a prova da materialidade e a existência de indícios suficientes que apontam o paciente como o autor dos fatos narrados na denúncia e afastaram o pleito de absolvição sumária, por não estar a alegada excludente plenamente clara.
+ ..
+(HC n. 303.353/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 25/4/2016)
+No caso sub judice, a defesa aponta o seguinte trecho da decisão de pronúncia, na qual entende haver excesso de linguagem: "As provas angariadas na investigação e na instrução judiciai indicam que a ré Iracema apresentou um comportamento de omissão, beirando a conivência e concordância com as atitudes do seu companheiro em relação à vítima, pois não manifestou nenhuma emoção em relação ao resultado morte, sequer se despediu do corpo do filho no posto de atendimento e, na Delegacia de Polícia, demonstrou preocupação apenas com a integridade tísica daquele que, supostamente, horas antes teria a espancado e estrangulado seu filho até a morte" (fl. 39).
+No trecho anterior, contudo, o Juiz de primeiro grau, conquanto haja empregado expressão um pouco mais contundente para se referir à autoria delitiva, ponderou que a prova "indica, em tese, ter havido omissão por parte da genitora".
+Consignou, ainda, que "havendo mais de uma versão a ser sustentada em plenário e havendo indícios que sustentem a tese acusatória, inviável a impronúncia dos acusados, devendo as versões apresentadas serem apreciadas pelo Conselho de Sentença, na forma do art. 413".
+O trecho extraído pela parte para apontar a ocorrência de excesso de linguagem não pode ser analisado separadamente do todo, ou seja, é necessário contextualizá-lo para entender se, de fato, a instância a quo ultrapassou os limites legais que lhe são impostos a fim de que não usurpe a competência do Tribunal Popular.
+A fala do Magistrado não teve o condão de induzir o Júri à certeza da autoria delitiva, mas demonstrou tão somente a ausência de convicção necessária para a impronúncia ou para a absolvição sumária.
+O que se constata é que, na verdade, a instância de origem apenas procurou fundamentar a pronúncia do paciente, porque, se não o fizesse, poderia ser o ato considerado viciado por falta de fundamentação. Para tanto, tomou a devida cautela de, antes de apontar a prova da materialidade e os indícios suficientes de autoria, ressalvar com clareza que não se tratava de juízo peremptório, de modo a não influenciar indevidamente os jurados.
+A decisão, portanto, encontra-se em harmonia com a jurisprudência deste Superior Tribunal, o que se verifica pelas ementas abaixo transcritas:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. PRONÚNCIA. ALEGAÇÃO DE EXCESSO DE LINGUAGEM NO ACÓRDÃO DO RECURSO EM SENTIDO ESTRITO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como se sabe, exige-se o equilíbrio nos termos utilizados na fundamentação da sentença de pronúncia e no eventual julgamento de recurso interposto contra o referido pronunciamento judicial, de modo a evitar o excesso de linguagem e, ao mesmo tempo, cumprir a exigência constitucional do art. 93, inciso IX, da Constituição Federal.
+2. No caso, da fundamentação empregada pelo Colegiado estadual, não se evidencia o alegado excesso de linguagem. Com efeito, nas razões do recurso em sentido estrito a Defesa sustentou a ausência de animus necandi para a submissão do feito ao Tribunal do Júri, sendo que, para negar provimento ao recurso, naturalmente se exige que sejam expostos argumentos que refutem a tese defensiva, providência que foi realizada pelo Tribunal estadual adequadamente, pois, em que pese constar a afirmativa de que não é possível "cogitar da ausência de ânimus necandi", o Tribunal apontou expressamente que "os dados informativos estão a apontar para a presença de animus necandi na conduta observada pelo réu", além de ter eito referências ponderadas sobre a existência de provas que indicam a presença dos indícios suficientes de autoria e da materialidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 613.583/RS, Rel. Ministra Laurita Vaz, 6ª T., DJe 25/2/2022, grifei)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. EXCESSO DE LINGUAGEM NO ACÓRDÃO DO RECURSO EM SENTIDO ESTRITO. NÃO OCORRÊNCIA. QUALIFICADORA. EXCLUSÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A decisão interlocutória de pronúncia é um mero juízo de admissibilidade da acusação, em que não é exigida, neste momento processual, prova incontroversa da autoria do delito, pois bastam a existência de indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime.
+2. Quando se fala de excesso de linguagem, tem-se em vista, particularmente, a decisão de pronúncia, pois é a peça que encerra a primeira fase do procedimento inerente aos crimes dolosos contra a vida e sobre a qual irá girar o debate perante os jurados.
+3. A jurisprudência estendeu o alcance desse dever de sobriedade da linguagem também para os acórdãos de recursos interpostos contra a pronúncia.
+4. A Corte estadual não proferiu juízo peremptório acerca dos fatos pelos quais o acusado foi pronunciado, na medida em que utiliza linguagem que indica juízo de plausibilidade a fim de justificar a impossibilidade de absolvição sumária.
+5. Verificado que as qualificadoras não se mostram manifestamente improcedentes ou descabidas, pois baseadas em provas do processo, devidamente apontadas pelas instâncias a quo, compete ao Conselho de Sentença decidir se incide o art. 121, 2º, I e IV, do CP, sob pena de usurpação da competência do Tribunal do Júri.
+6. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+7. Agravo regimental parcialmente provido.
+(AgRg no AREsp n. 922.039/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 30/8/2021, destaquei)
+Dessa forma, não há nulidade a ser sanada.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
