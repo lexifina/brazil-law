@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por FRANQUINEI BATISTA DE NEGREIROS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que inadmitiu o recurso especial interposto à vista de acórdão proferido na Apelação Criminal nº 1500959-85.2020.8.26.061, assim ementado (fl. 389):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - PRETENDIDO ABRANDAMENTO DA PENA-BASE - INVIABILIDADE - RECURSO DESPROVIDO.
+" ..  a confecção da dosimetria da pena não é uma operação matemática, e nada impede que o magistrado fixe a pena-base muito além do mínimo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (STJ, AgRg no AREsp 843303/PR).
+Consta dos autos que o agravante foi condenado, pelo Juízo singular, como incurso no art. 33, caput, da Lei 11.343/2006, a 09 (nove) anos de reclusão, em regime inicial fechado, além de 900 (novecentos) dias-multa (fls. 242-246).
+A Corte de origem negou provimento ao apelo defensivo (fls. 371-376).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta contrariedade ao art. 59 Código Penal, uma vez que o incremento da pena-base em 04 (quatro) anos pela valoração de apenas uma das circunstâncias judiciais é desproporcional.
+Contrarrazões pelo Parquet estadual (fls. 413-420).
+O Tribunal a quo inadmitiu o recurso especial com base na incidência da Súmula n. 83/STJ (fls. 421-426), fundamento oportunamente infirmado pela parte agravante (fls. 433-441).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (fls. 467-472).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+A pretensão recursal cinge-se à mitigação da pena-base, encontrando-se o acórdão apelatório assim fundamentado (fl. 385 - grifamos):
+Como asseverado, o inconformismo que rendeu ensanchas ao presente recurso consiste na fixação da pena-base muito acima do mínimo legal, razão pela qual a defesa pugna por sua redução ao argumento de que apenas uma circunstância judicial foi valorada negativamente (ID 158973979).
+O juízo singular assim fundamentou a primeira fase da dosimetria da pena:"
+Atento ao princípio constitucional da individualização da pena, analisando as circunstâncias do art. 59 do CP e do art. 42 da LT, destaca-se a grande quantidade e a qualidade da substância entorpecente apreendida do tipo cocaína (18.246,94 Kg divididos em 18 tabletes), razão pela qual a pena base em , o que fixo 9 anos de reclusão e 900 dias-multa faço com base no entendimento adotado pelo STJ no HC 204619" (ID158973961).
+A defesa objetiva o abrandamento da pena-base ao argumento de que sua majoração em 04 (quatro) anos revela-se desproporcional, mormente considerando que apenas uma circunstância judicial foi valorada negativamente.
+Todavia, razão não lhe assiste. De fato, "o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente (STJ, HC 364577/SP)."
+Nesse sentido, a quantidade e natureza da droga apreendida(aproximadamente 18 kg de cocaína) autoriza o aumento da pena basilar em 04 (quatro) anos.
+Como se sabe, o sistema legal de concretização da reprimenda ideado pelo Nelson Hungria e positivado no art. 68 do Código Penal confere ao Magistrado certa discricionariedade para que possa dar concretude ao princípio da individualização da pena - art. 5º, inciso XLVI, da Constituição Federal.
+Nesse descortino, fixou-se a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível que a pena-base seja fixada no máximo legal com a valoração de apenas uma circunstância judicial, caso haja a devida fundamentação pelo magistrado. (AgRg no HC 912476/ES, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 01/07/2024, DJe de 12/08/2024 - grifamos).
+Especificamente no que diz respeito ao crime de tráfico de drogas, a par das vetoriais do art. 59 do Código Penal, a Lei 11.343/2006 estabelece que, na fixação da pena inicial, o julgador considerará com preponderância em relação as demais circunstâncias judiciais a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Na espécie, aprendida quantidade significativa de droga com alto poder deletério, vale dizer, mais de 18 (dezoito) quilos de cocaína, não se reputa desproporcional a fixação da pena-base em 09 (nove) anos de reclusão, i. é, abaixou da média dos extremos prevista no tipo - 05 (cinco) a 15 (quinze) anos de reclusão.
+Em situações semelhantes já decidiu esta Corte Superior, v. g.:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO PARA A CONDUTA DO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO. QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. INTERESTADUALIDADE DO DELITO. QUANTUM DE AUMENTO DE PENA NO PATAMAR DE 1/5. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+3. Na hipótese do tráfico ilícito de entorpecentes, é indispensável atentar para o que disciplina o art. 42 da Lei n. 11.343/2006, segundo o qual o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Precedentes.
+5. E m atenção às diretrizes do art. 59 do CP e do art. 42 da Lei de Drogas, houve a consideração da quantidade e da diversidade dos entorpecentes apreendidos (28kg de maconha e 3,8g de cocaína), sendo um deles de natureza altamente deletéria (cocaína), para fixar a pena-base 3 anos acima do mínimo legalmente previsto, não havendo qualquer ilegalidade no referido fundamento.
+ ..
+8. Agravo regimental não provido. (AgRg no AREsp 2367054/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08/08/2023, DJe de 14/08/2023 - grifamos)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE E NATUREZA DO ENTORPECENTE. FUNDAMENTOS VÁLIDOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO NÃO PROVIDO.
+1. A teor do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+2. Como cediço, "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 21/9/2020).
+3. Hipótese em que a pena-base foi exasperada no dobro do mínimo legal com fundamento na natureza e na expressiva quantidade do entorpecente apreendido (15,800 kg cocaína na posse do paciente e 13,750 kg da mesma substância na posse na posse do corréu), o que não se mostra desproporcional, tendo em vista as penas mínima e máxima do delito de tráfico de drogas (5 a 15 anos).
+4. Agravo regimental não provido. (AgRg no HC 773090/AC, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022 - grifamos)
+Incide, portanto, a Súmula 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
