@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, recurso especial interposto por IZABEL DA CUNHA LIMA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+CONSTITUCIONAL APELAÇÕES - AÇAO POSSESSÓRIA IMÓVEL OCUPADO POR COMUNIDADE REMANESCENTE DE QUILOMBO - ENGENHO MUNDO NOVO - DECISÃO ULTRA PETITA PROTEÇÃO QUE DEVE SE - RESTRINGIR AREA DESCRITA NA PETIÇÃO INICIAL PARCIAL PROVIMENTO
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese: i) nulidade por vício de fundamentação sobre os pontos indicados em embargos (arts. 11, 141, 489 e 1.022 do CPC/2015); ii) necessidade de formação de litisconsórcio passivo com arrendatários (art. 114 do CPC/2015); iii) incompetência da Justiça Federal para ação possessória que não envolve área remanescente de quilombos (art. 64, §§ 1º e 3º do CPC/2015); iv) ausência de prova da posse, do esbulho ou suas datas (art. 561 do CPC/2015); v) redistribuição da sucumbência (art. 86 do CPC/2015); e vi) ausência de prova da natureza quilombola da comunidade (arts. 2º, § 1º, e 15 do Decreto n. 4.887/2003).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Convém observar que se está em sede de tutela possessória em defesa de comunidades quilombolas no interior da Paraíba. A pretensão não envolve, diretamente, a caracterização de toda a área envolvida em litígios da espécie na região, medida que passa pela eventual desapropriação de bens particulares, mas apenas a garantia da posse dos quilombolas que habitam o local.
+Quanto à alegação de vício de fundamentação, a alegação de nulidade não comporta conhecimento. Isso porque a parte não individualiza, de forma objetiva, nem os vícios nem suas consequências concretas para a solução da causa, o que inviabiliza a análise da nulidade processual. Incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+Acerca do litisconsórcio passivo, o acórdão afastou a necessidade de citação dos arrendatários por se tratar de debate apenas sobre a posse pelos efetivos ocupantes atuais dos imóveis. O acolhimento da pretensão depende da alteração da premissa fática de que são os arrendatários, e não os autores, que efetivamente ocupam o imóvel. Situação que atrai a incidência da Súmula n. 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+Idêntica conclusão vale para a alegada incompetência da Justiça Federal, na medida em que depende da apreciação direta de elementos probatórios, para as questões envolvendo a ausência de prova de posse e do esbulho, todas detidamente consideradas pelo acórdão à luz de elementos documentais e testemunhais constantes nos autos, bem como para a pretensão da redistribuição da sucumbência (AgInt nos EDcl no AREsp n. 2.216.192/BA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+Por fim, cumpre anotar que não cabe a via especial para discutir decreto de efeitos concretos, por não se enquadrar no conceito de lei federal (AgInt no REsp n. 2.126.054/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Isso posto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
