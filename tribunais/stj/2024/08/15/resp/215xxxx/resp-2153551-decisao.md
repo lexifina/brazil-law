@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por WESLEY DA SILVA DOS SANTOS, contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial apresentado contra acórdão que negou provimento ao Agravo de Execução Penal n. 0026229-41.2023.8.26.0050, no qual a defesa pleiteava a extinção da punibilidade, independentemente do pagamento da multa aplicada, em razão de situação de hipossuficiência (fls. 191/193).
+Opostos embargos de declaração, foram rejeitados (fls. 205/207).
+Nas razões do Recurso Especial, a Defesa alega violação aos art. 927, inciso III, do Código de Processo Civil, pois imposta cumulativamente penas privativa de liberdade e de multa, o inadimplemento desta última não impede a declaração de extinção da punibilidade quando hipossuficiente o condenado.
+Afirma que a hipossuficiência econômica está caracterizada no caso. O sentenciado é assistido pela DPESP. Isso gera a presunção de pobreza, fazendo incidir as premissas estabelecidas pelo tema 931 (fl. 225).
+Aduz que o valor dos dias-multa foi fixado no mínimo legal. Isso prova a hipossuficiência econômica. O cálculo do seu montante tem por base a condição financeira do réu, agora sentenciado (fl. 225).
+Requer, ao final, seja o recurso conhecido e provido para julgar extinta a pena de multa.
+Contrarrazões às fls. 232/236.
+O Ministério Público Federal se manifestou pelo não provimento do recurso especial (fls. 249/250).
+É  o  relatório.
+DECIDO.
+Presentes os requisitos de admissibilidade, conheço do recurso de direito estrito.
+Ao negar provimento ao agravo de execução, o Tribunal a quo consignou as seguintes razões de decidir (fls. 192/193, grifamos):
+O pedido de extinção da pena de multa por hipossuficiência não pode ser acolhido, porque o Superior Tribunal de Justiça revisou o Tema 931 no julgamento dos REsp"s nº 2.090.454/SP e 2.024.901/SP, no dia 01/3/2024, passando a entender que "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária", e no caso em exame o Agravante ainda resgata a pena imposta pelo crime de tráfico de drogas (@PEC nº 0008194-31.2021.8.26.0041), cujo término está previsto para 05/4/2030. Correta, portanto, a decisão do magistrado, ao determinar a suspensão do processo de execução, nos termos do artigo 40, da Lei nº 6.830/80, à falta de bens penhoráveis. A questão da hipossuficiência poderá ser revisitada ao término da pena privativa de liberdade.
+Do exame do excerto acima transcrito, verifica-se que o Tribunal de origem indeferiu o pleito de extinção da pena de multa, com amparo no fato de que não houve o cumprimento integral da pena privativa de liberdade imposta ao sentenciado.
+Nesse espectro, tendo em vista a ausência de impugnação congruente, específica e pormenorizada a fundamento determinante averbado no acórdão recorrido, atrai-se a aplicação, por conseguinte, do enunciado consolidado na Súmula n. 283/STF, conjugada à inteligência da Súmula n. 284/STF, face à constatada deficiência de fundamentação do apelo raro.
+Sobre o tema, este Sodalício tem propalado que,
+em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018) (AgRg no REsp 1888000/RS, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 01/06/2021, DJe 08/06/2021).
+Em reforço: AgRg no REsp 2011531/SE, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024; DJe de 5/3/2024; AgRg no AREsp 2417244/MG, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 21/11/2023, DJe de 24/11/2023 e AgRg no REsp 2009842/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023.
+Ademais, ainda que assim não fosse, o Tribunal de origem, ao assim decidir, não destoou do entendimento desta Corte Superior, sedimentado nos Recursos Especiais Representativos da Controvérsia n. 2.024.901/SP e n. 2.090.454/SP, relator Ministro Rogerio Schietti Cruz, no sentido de que o a multa penal deve ser executada como dívida de valor e não perdeu sua natureza penal. No entanto, a extinção da punibilidade dependerá sempre do cumprimento integral da reprimenda, o que, na espécie, ainda não ocorreu.
+A propósito:
+O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária (REsp n. 2.024.901/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 28/2/2024, DJe de 1/3/2024, grifamos).
+Assim, referida questão só poderá ser examinada, oportunamente, após extinta a pena privativa de liberdade imposta ao recorrente.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
