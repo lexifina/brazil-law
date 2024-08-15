@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por Ivonete Maria da Silva Bispo e Eudes Lins dos Santos Silva contra a decisão de fls. 582-587 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 510-511 e 519-522 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de Sergipe, assim ementados:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - COMPRA DE VEÍCULO - MODELO ENTREGUE SEM BANCO DE COURO NEM BOTOÕES MULTIMÍDIA - SENTEÇA QUE CONDENOU O REQUERIDO EM DANOS MATERIAIS, MAS JULGOU IMPROCEDENTE O PEDIDO DE CONDENAÇÃO EM DANOS MORAIS - IRRESIGNAÇÃO DA PARTE AUTORA - DESCUMPRIMENTO DE ACORDO - DANO MORAL NÃO CARACTERIZADO - MERO ABORRECIMENTO - MANUTENÇÃO DA SENTENÇA PRIMEVA - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+EMBARGOS DE DECLARAÇÃO - VÍCIOS - ACÓRDÃO - apelação cível - INEXISTÊNCIA - AUSÊNCIA DE CORRESPONDÊNCIA AOS REQUISITOS DO ARTIGO 1.022 DO NOVO CÓDIGO DE PROCESSO CIVIL - rediscussão de matéria - PREQUESTIONAMENTO - ART. 1025 DO NCPC - EMBARGOS CONHECIDOS E IMPROVIDOS. POR UNANIMIDADE - Os embargos de declaração somente são cabíveis quando configurados um ou mais motivos descritos no artigo 1.022 do novo código de processo civil.- Não merecem ser acolhidos os embargos que, ao pretexto de ver sanada omissão, erro material, contradição ou obscuridade, objetiva, na verdade, rediscutir matéria já apreciada.- No caso ora analisado, inexistem quaisquer dos vícios autorizadores do provimento do recurso.
+Nas razões do recurso especial (e-STJ, fls. 524-544), apontaram os insurgentes, além de dissídio jurisprudencial, a existência de violação dos arts. 186, 187 e 927 do CCB; e 489, § 1º, VI, c/c 926 do CPC/2015. Sustentaram, em síntese: i) falta de fundamentação da decisão; e ii) ocorrência de danos morais indenizáveis.
+Contrarrazões às fls. 556-564 e 566-579 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) suficiência da fundamentação; e b) incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual os insurgentes contestam a aplicação dos óbices.
+Contraminuta às fls. 617-626 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal local concluiu pela não comprovação da ocorrência dos danos morais.
+Veja-se à fl. 511 (e-STJ):
+A controvérsia recursal cinge-se exclusivamente à reparação por dano moral em razão da conduta praticada pela requerida.
+Quanto à indenização por danos morais, é cristalino que para a sua configuração, com seus aspectos preventivo e pedagógico, faz-se necessária a demonstração dos seguintes pressupostos: a) ação ou omissão do agente; b) ocorrência de dano; c) culpa e d) nexo de causalidade.
+E somente haverá direito a indenização, independentemente de a responsabilidade ser subjetiva ou objetiva, se houver um dano a se reparar, e este for capaz de causar dor, angústia e sofrimento relevante que cause grave humilhação e ofensa ao direito de personalidade.
+Com efeito, perlustrando detidamente os autos, verifica-se que o caso aqui discutido não pode ser enquadrado como dano moral, mas sim como mero aborrecimento desprovido de maior relevância, isso porque, o ato do requerido não causou qualquer desdobramento gravoso, e, portanto, indenizável. Não há prova nos autos, os danos invocados pela parte autora, como bem suscitado pelo Juízo a quo. Vejamos:
+Contudo, voltando os olhos para o caso concreto, inexiste razão para o acolhimento da pretensão autoral de condenação em danos morais, visto que a conduta não teve o condão de violar os direitos da personalidade de forma a macular sua honra ou dignidade e ensejar dano moral. Improcede, portanto, o pedido de danos morais.
+Não se vislumbra no feito que a conduta da parte requerida/recorrida tenha acarretado dor, angústia, sofrimento ou humilhação hábil a ensejar a reparação de ordem moral.
+Portanto, entendo não configurado o dano moral, agindo com acerto a sentenciante, ao julgar improcedente o pleito de indenização por dano moral.
+Assim, não assiste razão aos recorrentes quando defendem a falta de fundamentação da decisão.
+Também se constata que a revisão de tal entendimento esbarra no óbice da Súmula 7/STJ, porquanto demandaria nova incursão no conjunto probatório dos autos.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE INTERNET. SUSPENSÃO DO SERVIÇO. DANOS MORAIS IN RE IPSA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. SÚMULA 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, o Tribunal de origem, soberano nos elementos probatórios dos autos, consignou expressamente que não houve comprovação de que a frustração decorrente do inadimplemento contratual atingiu direito da personalidade a ponto de configurar dano anímico no recorrente.
+2. "A alteração das conclusões do Tribunal a quo sobre a falta de comprovação do dano moral individual a ser indenizado e da inexistência de dano moral in re ipsa envolve reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ".
+(AgRg no REsp 1553470/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/11/2015, DJe02/02/2016) 3. "A jurisprudência do STJ se firmou no sentido de que "a responsabilidade objetiva da concessionária prestadora do serviço de telefonia, por si só, não enseja a obrigação de indenizar, sendo necessário, além da ilicitude da conduta, que desta exsurja, como efeito, o dano" (REsp n. 944.308/PR, Relator o Ministro Luis Felipe Salomão, DJe 19/03/2012). Portanto, não há que se falar em dano moral in re ipsa na hipótese. (STJ, AgRg no AREsp 676.563/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 06/06/2016).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.208.493/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Importante consignar o entendimento desta Corte Superior no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RESPONSABILIDADE DO FORNECEDOR CIVIL. PROPAGANDA ENGANOSA. DANO MORAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. A verificação de que a situação não ultrapassou o mero inadimplemento contratual exigiria o reexame de provas, vedado em recurso especial.
+3. "Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1812345/AM, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/11/2019, DJe 21/11/2019).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.817.343/SP, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 04/10/2021, DJe 08/10/2021).
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados das partes recorridas em 20% (vinte por cento) sobre o montante já arbitrado, devendo ser observada a gratuidade de justiça deferida aos recorrentes.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FALTA DE FUNDAMENTAÇÃO NÃO VERIFICADA. OCORRÊNCIA DE DANOS MORAIS. INCIDÊNCIA DA SÚMULA 7/STJ. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
