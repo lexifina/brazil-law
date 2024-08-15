@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se embargos de declaração opostos por UNIMED UBERABA COOPERATIVA DE TRABALHO MÉDICO LTDA contra decisão unipessoal que conheceu e deu provimento ao recurso especial por ela interposto, para anular o acórdão recorrido e determinar o retorno dos autos ao TJ/MG a fim de que promova novo julgamento da apelação.
+Nas razões do presente recurso, alega a embargante que é "necessário sanar o erro material, para dar provimento ao recurso e julgar improcedentes os pedidos iniciais, não havendo necessidade de retorno ao Tribunal de Origem"; e que deve ser sanada a omissão "quanto a revogação da liminar concedida, com a obrigação da Embargada em restituir a operadora/embargante, os valores dispendidos no cumprimento da liminar inicial, a teor do art. 302 do CPC" (e-STJ fls. 357/358).
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, a decisão embargada foi devidamente clara e fundamentada, quanto à determinação de retorno do processo ao Tribunal de origem, a fim de que se realize novo julgamento da apelação interposta, com a aplicação da jurisprudência do STJ, no sentido de que "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, 3ª Turma, julgado em 27/4/2021, DJe de 4/5/2021; e REsp 1.883.654/SP, 4ª Turma, julgado em 08/6/2021, DJe de 02/8/2021); bem como em relação a ter ficado prejudicada a análise das demais questões trazidas nas razões do recurso especial.
+Os fundamentos dos presentes embargos de declaração revelam, na verdade, mero inconformismo com a decisão embargada e o nítido desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
