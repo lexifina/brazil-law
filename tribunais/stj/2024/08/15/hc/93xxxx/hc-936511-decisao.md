@@ -1,0 +1,12 @@
+DECISÃO
+O  presente  habeas  corpus,  impetrado  em  favor  de  Claudemir  Gomes  Batista  -  condenado  pela  prática  do  delito  tipificado  no  art.  121,  §  2º,  II  e  IV,  c/c  o  art.  14,  II,  ambos  do  Código  Penal,  à  pena  de  9  anos  e  4  meses  de  reclusão,  em  regime  fechado  - ,  no  qual  se  aponta  como  autoridade  coatora  o  Tribunal  de  Justiça  de  Minas  Gerais,  que  indeferiu  o  pedido  revisional  (Revisão  Criminal  n.  1.0000.23.200843-3/000),  não  comporta  prosseguimento.
+Busca  a  impetração  (fl.  11):
+1.  A  concessão  da  ordem  de  habeas  corpus,  com  a  redução  da  pena-base  na  primeira  fase  para  o  mínimo  legal  de  6  anos,  considerando  a  primariedade  e  ausência  de  antecedentes  do  paciente.
+2.  A  modificação  da  sentença  para  constar  a  tentativa  de  homicídio,  e  não  homicídio  duplamente  qualificado,  conforme  os  fatos  narrados  e  a  participação  da  vítima  no  júri  popular.
+Ocorre  que  já  fora  impetrado  no  Superior  Tribunal  de  Justiça  o  Habeas  Corpus  n.  908.842/MG,  no  qual  constava  o  mesmo  pleito  -  fixação  da  pena-base  no  mínimo  legal  -,  o  que  caracteriza  inadmissível  reiteração  de  pedido.  Oportuno  ressaltar  que,  no  julgamento  do  referido  writ,  restou  consignado  a  ausência  de  interesse  de  agir,  na  medida  em  que,  segundo  consta  dos  autos,  a  pena-base  foi  fixada  na  mínimo  legal  de  12  anos  de  reclusão  (art.  121,  §  2º,  II  e  IV,  c/c  o  art.  14,  II,  ambos  do  Código  Penal).
+Quanto  à  segunda  tese  ora  apresentada  -  desclassificação  do  delito  para  homicídio tentado  - ,  mais  uma  vez  ausente  o  interesse  de  agir,  porquanto ,  conforme  esclareceu  o  Tribunal  a  quo,  trata-se  de  pleitos  absolutamente  estéreis,  uma  vez  que,  a  uma,  como  visto,  já  "constou  da  sentença"  (assim  como  do  acórdão)  que  o  peticionário  foi  condenado  por  um  crime  de  "tentativa  de  homicídio",  e,  a  duas,  "a  pena  na  1ª  fase" já  foi  fixada  no  mínimo  legal  (fl.  18 - grifo nosso ).
+Ante  o  exposto,  indefiro  liminarmente  a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. DOSIMETRIA DA PENA.  FIXAÇÃO DA REPRIMENDA NO MÍNIMO LEGAL (REITERAÇÃO DE PEDIDO - HC N. 908.842/MG) E RECONHECIMENTO DO CONATUS.  FALTA DE INTERESSE DE AGIR. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.
+Petição  inicial  indeferida  liminarmente.
