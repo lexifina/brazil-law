@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rozangela Ribeiro de Melo e Thais de Melo, em razão da decisão de Desembargadora do Tribunal de Justiça do Paraná nos autos da Tutela Cautelar Crime n. 0079136-88.2024.8.16.0000.
+Extrai-se dos autos que as pacientes foram presas em flagrante, pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, sendo concedida a liberdade provisória, por conta da audiência de custódia, pelo Juízo da 1ª Vara Criminal da comarca de Guarapuava/PR (Autos n. 0011883-87.2024.8.16.0031). Foram apreendidos 88 g de maconha; 10,3 g de cocaína; uma balança de precisão; dinheiro em espécie; e uma máquina de cartão.
+Irresignado, o Ministério Público interpôs recurso em sentido estrito perante o Tribunal de origem, ajuizando medida cautelar inominada, com pedido liminar. A Desembargadora Relatora deferiu o pedido liminar da cautelar inominada para atribuir efeito suspensivo ativo ao recurso, decretando a prisão preventiva das pacientes, conforme decisão acostada às fls. 10/13.
+No presente writ, sustenta-se a inidoneidade da fundamentação na decretação da custódia cautelar, pois justificada de forma genérica, de modo que não restou demonstrado o perigo gerado pelo estado de liberdade das pacientes.
+Alega-se a proporcionalidade e suficiência da imposição de medidas cautelares diversas da prisão.
+Requer-se, liminarmente e no mérito, a revogação da prisão preventiva e, subsidiariamente, a sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+O presente writ não comporta processamento, pois impugna decisão monocrática de desembargadora que deferiu pedido liminar nos autos de ação cautelar inominada, circunstância que atrai o mesmo entendimento consubstanciado no enunciado da Súmula 691/STF, por analogia.
+Nesse sentido, consoante o entendimento consolidado na Súmula n. 691 do Supremo Tribunal Federal, também adotado nesta Corte Superior de Justiça, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica ao caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada (AgRg no HC n. 884.434/PR, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024 - grifo nosso).
+Esse posicionamento, no entanto, pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, circunstância não verificada no caso.
+Com efeito, na decisão concessiva de efeito suspensivo ao recurso em sentido estrito, a Desembargadora Relatora da Medida Cautelar Inominada concluiu pelo perigo gerado à ordem pública pelo estado de liberdade das pacientes, destacada a reincidência e a gravidade concreta da conduta (fl. 12 - grifo nosso):
+ ..
+Com a devida vênia, não se trata de quantidade ínfima de drogas, sendo a natureza deletéria da cocaína e a variedade de substâncias  maconha e cocaína , aliada à apreensão de uma balança de precisão e máquina de cartão, fatores que imprimem maior reprovabilidade às condutas das agentes. Não bastasse isso, os narcóticos foram encontrados pela Polícia na residência, já embalados para a venda.
+Ainda, o periculum libertatis reside no especial aspecto da garantia da ordem pública, na medida em que há fortes indícios de que as investigadas se dedicam a prática de infrações penais, gerando uma intensa sensação de insegurança.
+Ademais, pela certidão de antecedentes criminais extraídas do sistema "Oráculo" (mov. 1.20) constata-se que THAIS é reincidente, pois possui em seu desfavor uma condenação definitiva por porte ilegal de arma de fogo de uso permitido e ameaça. ROZANGELA, por sua vez, embora primária, teria afirmado ao agente público, no momento da abordagem, que estava comercializando drogas há aproximadamente sessenta dias.
+Nestes termos, mostra-se cogente o enclausuramento preventivo, a fim de que seja garantida a ordem pública.
+ ..
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DE RELATORA QUE DEFERIU PEDIDO LIMINAR. CONCESSÃO DE EFEITO SUSPENSIVO ATIVO AO RECURSO EM S ENTIDO ESTRITO EM SEDE DE CAUTELAR INOMINADA CRIMINAL PARA SUSPENDER A DECISÃO QUE CONCEDEU A LIBERDADE PROVISÓRIA. ÓBICE DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. INEVIDÊNCIA DE ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
