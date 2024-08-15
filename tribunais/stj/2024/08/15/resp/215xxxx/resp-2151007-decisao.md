@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado (fls. 338-339):
+CONSTITUCIONAL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. LOAS. ART. 203, V, DA CF/88. LEI 8.742/93. PESSOA PORTADORA DE DEFICIENCIA FÍSICA E/OU MENTAL. PERÍCIA MÉDICA. INCAPACIDADE PARA O TRABALHO E VIDA INDEPENDENTE. HIPOSSUFICIÊNCIA. PREENCHIMENTO DOS REQUISITOS LEGAIS. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+1. A Constituição Federal, em seu artigo 203, inciso V, e a Lei n. 8.742/93 (Lei Orgânica da Assistência Social) garantem um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, independentemente de contribuição à seguridade social.
+2. Os requisitos para a concessão do benefício de prestação continuada estão estabelecidos no art. 20 da Lei n. 8.742/93. São eles: i) o requerente deve ser portador de deficiência ou ser idoso com 65 anos ou mais; ii) não receber benefício no âmbito da seguridade social ou de outro regime e iii) ter renda mensal familiar per capita inferior a  do salário mínimo (requisito para aferição da miserabilidade).
+3. O Col. STF, ao apreciar a Ação Direta de Inconstitucionalidade n. 1.232-1/DF, declarou que a regra constante do art. 20, § 3º, da LOAS não contempla a única hipótese de concessão do benefício, e sim presunção objetiva de miserabilidade, de forma a admitir a análise da necessidade assistencial em cada caso concreto, mesmo que o "quantum" da renda "per capita" ultrapasse o valor de  do salário mínimo, cabendo ao julgador avaliar a vulnerabilidade social de acordo com o caso concreto.
+4. Também o Superior Tribunal de Justiça, em sede de recurso repetitivo, consagrou a possibilidade de demonstração da condição de miserabilidade do beneficiário por outros meios de prova, quando a renda per capita do núcleo familiar for superior a  (um quarto) do salário mínimo. Nesse sentido, cf. REsp 1.112.557/MG, Terceira Seção, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 20/11/2009.
+5. Firmou-se o entendimento jurisprudencial de que, para fins de cálculo da renda familiar mensal, não deve ser considerado o benefício (mesmo que de natureza previdenciária) que já venha sendo pago a algum membro da família, desde que seja de apenas 1 (um) salário mínimo, forte na aplicação analógica do parágrafo único do art. 34 da Lei 10.741/2003 (Estatuto do Idoso). Precedentes.
+6. Considera-se deficiente aquela pessoa que apresenta impedimentos (físico, mental, intelectual ou sensorial) de longo prazo (mínimo de 2 anos) que podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. Tal deficiência e o grau de impedimento devem ser aferidos mediante avaliação médica e avaliação social, consoante o § 6º do art. 20 da Lei Orgânica da Assistência Social.
+7. Na hipótese, a incapacidade da parte-autora ao trabalho restou comprovada pelo laudo médico acostado; já a condição de miserabilidade, nos termos alinhavados acima, encontra-se escudada no Estudo Social e documentos catalogados ao feito, autorizando, assim, a concessão do benefício vindicado, conforme deferido pelo juízo a quo.
+8. O termo inicial do benefício deve ser fixado na data do requerimento administrativo e, na sua ausência, a partir do ajuizamento da ação, em observância ao entendimento do Supremo Tribunal Federal, firmado no RE n. 631240, respeitados os limites do pedido inicial e da pretensão recursal, sob pena de violação ao princípio da no reformatio in pejus.
+10. Os honorários advocatícios devem ser majorados para 12% (doze por cento) sobre o valor das parcelas vencidas até a prolação da sentença, em razão do disposto no art. 85, § 11º do CPC.
+11. A correção monetária e os juros de mora devem observar os termos do Manual de Cálculos da Justiça Federal.
+12. Apelação do INSS desprovida.
+Os embargos de declaração opostos foram rejeitados, nos termos do acórdão de fls. 361-369.
+Nas razões do recurso especial, fundamentado na alínea a do permissivo constitucional, o INSS sustenta ofensa aos arts. 489, inciso II e § 1º, inciso IV; e 1.022, inciso II e parágrafo único, inciso II, do Código de Processo Civil.
+Assinala que, apesar dos embargos de declaração opostos, o Tribunal de origem não enfrentou argumento suficiente para infirmar a conclusão do julgado. Destaca que "inexiste qualquer correlação entre o voto colocado para julgamento e o objeto dos presentes autos, o que implica em evidente cerceamento de defesa da Autarquia, posto que sequer teve o seu recurso de apelação analisado" (fl. 376).
+Afirma, ainda, que é nula a decisão "que não analisa matéria relevante ao deslinde da controvérsia posta em julgamento, cujo conhecimento lhe foi devolvido por ocasião de recurso voluntário" (fl. 378).
+Requer, assim, a cassação do acórdão atacado, determinando-se o retorno dos autos à origem para que o Tribunal a quo profira nova decisão.
+Contrarrazões apresentadas às fls. 383-390.
+O recurso especial foi admitido na origem (fls. 391-392).
+É o relatório.
+Decido.
+A irresignação não procede.
+Depreende-se dos autos que o Juízo de primeira instância, mediante a sentença de fls. 308-309, concedeu ao ora recorrido o benefício previdenciário de aposentadoria por invalidez, fixando o termo inicial do benefício a partir do indeferimento do requerimento administrativo.
+O INSS interpôs recurso de apelação, insurgindo-se, exclusivamente, contra o referido termo inicial. Confira-se, por oportuno, o seguinte trecho das razões do recurso voluntário autárquico (fls. 314-316; sem grifos no original):
+1. SÍNTESE DO FEITO
+Trata-se de ação judicial em que a parte autora, ora recorrida, requereu a implantação de benefício por incapacidade com DIB na data do indeferimento administrativo.
+O juízo de piso condenou o INSS a restabelecer o benefício a partir da postulação administrativa.
+Ocorre, Excelências, que o perito judicial não indicou a data de início da incapacidade, informando apenas que o apelado alega que a partir de 2016 não mais conseguiu trabalhar.
+Assim, não havendo dados objetivos como exames e relatórios médicos que indiquem com precisão a DIB, esta deve ser fixada na data da perícia ou, alternativamente, na data do ajuizamento da ação.
+2. DAS RAZÕES PARA REFORMA DA DECISÃO
+DATA DE INÍCIO DO BENEFÍCIO.
+A r. sentença julgou procedente o pedido formulado na inicial, concedendo à parte autora o benefício de aposentadoria por invalidez desde a data do indeferimento administrativo.
+Ocorre que não pode prosperar a DIB deferida, uma vez que não restou comprovado que a parte autora estaria incapacitada na DER.
+Compulsando os autos, verifica-se que o perito judicial concluiu apenas que o apelado alega que a partir de 2016 não mais conseguiu trabalhar, sendo esta constatada somente no momento da perícia (31/03/2021).  ..
+Desta forma, entende-se que não é possível fixar a DIB na data do requerimento administrativo, uma vez que o perito apenas obteve elementos para concluir pela incapacidade na data da perícia.  ..
+Portanto, faz-se necessária a reforma da sentença, uma vez que há que se reconhecer a necessidade de o termo inicial do benefício ser a data da realização do laudo pericial em 31/03/2021.
+No julgamento da apelação, a insurgência concernente ao aludido termo inicial foi devidamente apreciada pelo Tribunal a quo, que invocou, inclusive, precedente específico desta Corte sobre a questão.
+É o que se verifica do seguinte trecho do aresto que apreciou o recurso voluntário (fl. 335; grifos diversos do original):
+DAS QUESTÕES ACESSÓRIAS
+O termo inicial do benefício deve ser fixado na data do requerimento administrativo e, na sua ausência, a partir da citação, conforme definição a respeito do tema em decisão proferida pelo e. STJ, em sede de recurso representativo da controvérsia (REsp 1369165/SP), respeitados os limites do pedido inicial e da pretensão recursal, sob pena de violação ao princípio da ne reformatio in pejus.
+Como se percebe, não houve ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois o Tribunal a quo enfrentou devidamente a questão que lhe foi submetida no recurso de apelação, apresentando fundamentação concreta e suficiente para dar suporte à sua conclusão. Ressalte-se que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+A propósito, conforme o entendimento desta Corte, "O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola os arts. 489 e 1.022 do CPC/2015" (AgInt no REsp n. 2.044.805/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023)
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. AUSÊNCIA DE PROVAS RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.  ..
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.030.272/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. SUPOSTA OFENSA AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. ALEGAÇÃO DE EXERCÍCIO DE ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. INÍCIO DE PROVA MATERIAL NÃO CORROBORADO POR PROVA PROVA TESTEMUNHAL, CONFORME CONSTATADO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Em relação à alegada ofensa ao art. 1.022 do Código de Processo Civil, verifica-se que o Tribunal a quo não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.384.906/MG, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 23/4/2024, DJe de 25/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+ ..
+5. Agravo Interno não provido. (AgInt no AREsp n. 2.544.386/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 337), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO OU DEFICIÊNCIA NA FUNDAMENTAÇÃO DO ACÓRDÃO. RECURSO ESPECIAL DESPROVIDO.
