@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação constitucional, com pedido de liminar, ajuizada pelo MUNICÍPIO DE RIO DAS OSTRAS, em que figura como Reclamado o Tribunal de Justiça do Estado do Rio de Janeiro, em razão do acórdão proferido no Agravo Interno n. 0055388-82.2020.8.19.0000, o qual manteve a decisão que negara seguimento a recurso especial, sob o fundamento de que o acórdão recorrido estaria em consonância com tema repetitivo pelo Superior Tribunal de Justiça.
+Alega o Reclamante, em síntese, que houve equívoco na negativa de seguimento ao recurso especial com base no Tema Repetitivo n. 291/STJ. Argumenta que, em se tratando de juros moratórios em desapropriação, o Tema adequado seria o n. 210/STJ, com as alterações promovidas no julgamento da Pet n. 12.344/DF. Aduz que não seriam cabíveis juros moratórios entre a data da realização do cálculo e a expedição do precatório ou da requisição de pequeno valor.
+Pede, liminarmente, diante da presença do fumus boni iuris e do periculum in mora, a suspensão do trâmite da expedição do precatório complementar e, no mérito, a cassação do ato reclamado.
+É o relatório.
+Decido.
+A reclamação não comporta conhecimento.
+Segundo pacífico entendimento do Superior Tribunal de Justiça, a reclamação constitucional não é via processual adequada para verificar a adequada aplicação, pelas instâncias ordinárias, das teses firmadas por esta Corte Superior em julgamentos realizados sob a sistemática dos recursos especiais repetitivos.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO. RECURSO ESPECIAL AO QUAL O TRIBUNAL DE ORIGEM NEGOU SEGUIMENTO, COM FUNDAMENTO NA CONFORMIDADE ENTRE O ACÓRDÃO RECORRIDO E A ORIENTAÇÃO FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO. INTERPOSIÇÃO DE AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. NÃO PROVIMENTO. NÃO CABIMENTO DE RECLAMAÇÃO.
+1. Trata-se de Reclamação, ajuizada com base no art. 988, I, IV, do CPC/2015, contra acórdão do Tribunal Regional Federal da 3ª Região que negou seguimento a Recurso Especial com base no art. 1.030, I, do CPC/2015 (conformidade do acórdão recorrido com a jurisprudência firmada em Recurso Repetitivo).
+2. A jurisprudência do Superior Tribunal de Justiça determina que não cabe Reclamação para aferir o acerto ou desacerto na utilização, pela instância de origem, de tese firmada sob a sistemática dos Recursos Repetitivos, nos termos do art. 1.030, I, "b", do CPC/2015.
+3. Agravo Interno não provido. (AgInt na Rcl n. 45.752/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 17/10/2023, DJe de 30/10/2023; sem grifos no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO COLETIVA E INDIVIDUAL. CONCURSO PÚBLICO. CONTRATAÇÃO DE TEMPORÁRIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INADMISSIBILIDADE DE RECLAMAÇÃO PARA O CONTROLE DE ADEQUAÇÃO DO ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+I - Nesta Corte, trata-se de reclamação, com fundamento no art. 105, I, f, da Constituição Federal, contra decisão que não conheceu do agravo interposto em desfavor de decisão que negou seguimento a recurso especial, ante a conformidade do acórdão recorrido com o Tema n. 671/STF (RG). Não foi conhecida a reclamação, prejudicada a tutela de urência requerida.
+II - Segund o entendimento firmado pela Corte Especial do STJ, é inadmissível a reclamação para se realizar o controle de adequação do entendimento das instâncias ordinárias com as teses fixadas pelo STJ, em recurso especial repetitivo, sendo impositiva a extinção do feito, sem resolução do mérito, por sua flagrante inadequação.
+III - No mesmo sentido, mutatis mutandis: AgInt na Rcl n. 43.547/RR, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 14/2/2023, DJe de 17/2/2023; Rcl n. 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/2/2020, DJe de 6/3/2020.
+IV - Agravo interno improvido. (AgInt na Rcl n. 44.902/ES, relator Ministro Francisco Falcão, Primeira Seção, julgado em 27/6/2023, DJe de 29/6/2023; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do RISTJ, INDEFIRO liminarmente a petição inicial da presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO. TESE FIXADA PELO STJ NA SISTEMÁTICA DOS RECURSOS ESPECIAIS REPETITIVOS. ARGUMENTO DE EQUÍVOCO NA APLICAÇÃO PELAS INSTÂNCIA ORDINÁRIAS. VERIFICAÇÃO. VIA PROCESSUAL INADEQUADA. PRECEDENTES. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
