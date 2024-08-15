@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por WILLIAM DE JESUS MENEZES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial interposto contra acórdão proferido no Agravo de Execução Penal nº 0000406-65.2023.8.26.0050, assim ementado (fl. 169):
+Agravo em Execução Decisão que indeferiu o pedido da defesa de extinção da punibilidade em virtude da alegada hipossuficiência econômica do executado Recurso que busca a reforma do r. decisum Impossibilidade.
+Extinção da punibilidade que se dá somente após o cumprimento da pena privativa de liberdade (ou da pena alternativa) e também da pena de multa O art. 51 do Código Penal (inserido pela Lei nº 13.964/19, publicada no dia 24 de dezembro de 2019, vigorando a partir do dia 23 de janeiro de 2020) estabelece expressamente que a multa será executada perante o MM. Juízo das Execuções Criminais.
+Entendimento perfilhado pelo Pretório Excelso no sentido de que a redação do artigo 51 do Código Penal, teve o escopo de tão somente afastar a conversão da multa inadimplida em pena privativa de liberdade, sem, no entanto, retirar a natureza penal que lhe é inerente, por forçado artigo 5º, inciso XLVI, alínea "c", da Constituição Federal.
+Plenário do Supremo Tribunal Federal, contrariando a Súmula 521 do Colendo Superior Tribunal de Justiça, que, por ocasião do julgamento da ADI nº 3.150 e da 12ª Questão de ordem da Ação Penal nº 470, no dia 13 de dezembro de 2018, por maioria de votos, firmou que, em razão da natureza penal da multa, a sua cobrança passa a ser realizada preferencialmente pelo Ministério Público, com legitimação subsidiária da Fazenda Pública, na hipótese de inércia do Parquet, o que não é o caso dos autos - Informativo nº 927 do STF Precedentes desde Egrégio Tribunal de Justiça.
+Redação do Tema 931 do C. STJ, segundo o qual, "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade. "Tema 931 do Colendo Superior Tribunal de Justiça Necessidade de comprovação inequívoca, pelo sentenciado, da incapacidade absoluta para arcar com o adimplemento da sanção pecuniária Precedentes deste Egrégio Tribunal de Justiça Recurso desprovido.
+O reeducando foi definitivamente condenado nos autos da Ação Penal nº 1516832-68.2019.8.26.0228 às penas de 05 (cinco) ano e 10 (dez) meses de reclusão, em regime inicial fechado, além de 583 (quinhentos e oitenta e três) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fls. 120-130).
+Formulado pedido de extinção da punibilidade, o Juízo das Execuções indeferiu-o, determinando o prosseguimento da ação de execução da pena de multa aviada pelo Parquet (fls. 72-76).
+A Corte de origem negou provimento ao Agravo em Execução da Defesa (fls. 168-181).
+Nas razões do Recurso Especial, interposto com fundamento a alínea "a" do permissivo constitucional, a Defesa alega violação ao art. 927, inciso III, do Código de Processo Civil.
+Argumenta que o acórdão recorrido viola o comando do Tema Repetitivo n. 931/STJ, uma vez que a impossibilidade de adimplemento da pena de multa, pela evidente hipossuficiência do reeducando, não pode ser óbice à extinção da punibilidade.
+Aduz que sua condição de hipossuficiente é comprovada tanto pelo fato de ser defendido pelo Defensoria Pública como pelo próprio valor unitário do dia-multa, fixado na sentença exequenda no mínimo legal.
+Contrarrazões às fls. 205-213.
+O recurso especial não foi admitido ante a aplicação da súmula n. 7/STJ (fl. 216-217), óbice contra o qual se insurge neste agravo.
+A Procuradoria-Geral da República manifestou-se pelo conhecimento do agravo e provimento do recurso especial (fls. 247-253).
+Em atendimento ao despacho de fl. 267, o juízo da Execução Penal informou que o término do período de prova está previsto para 12/05/2025 (fls. 280-290).
+Intimados a se manifestarem acerca das informações prestadas pelo juízo de origem, tanto a Defesa (fls. 298) como o Ministério Público (fl. 300), deixaram transcorrer in albis o prazo.
+É o relatório.
+DECIDO.
+O agravo impugna adequadamente os fundamentos da decisão de inadmissão, motivo pelo qual passo à análise do recurso especial.
+Inicialmente impõe-se esclarecer que a extinção da punibilidade diz respeito ao direito público de perseguir as condutas delitivas praticadas e não, propriamente, às penas impostas. Essa conclusão pode ser extraída, inclusive, do art. 108 do Código Penal, que estatui:
+"A extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Nos crimes conexos, extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão." (sem grifos no original)
+De fato, perpetrada uma conduta típica, ilícita e culpável - teoria analítica de delito, se concretiza em favor do Estado o direito de punir o delinquente.
+Esse direito subjetivo estatal perdura enquanto não sobrevier alguma causa legal de extinção da punibilidade, previstas no art. 107 do Código Penal e em outros dispositivos legais, v. g., o art. 89, § 5º, da Lei n. 9.099/1995, as quais possuem o condão de romper o nexo jurídico existente entre a conduta que se amolda a determinado tipo penal incriminador e sua consequência legal, prevista no respectivo preceito secundário.
+Assim, embora o direito de punir esteja intrinsicamente ligado à possibilidade de o Estado, por meio de devido processo legal, impor e executar a pena, não se pode confundir o ius puniendi estatal, que é o fundamento da persecução penal, com a pena, que é a consequência jurídica da violação à norma.
+É bem por isso que a Terceira Seção do Superior Tribunal de Justiça, ao julgar o REsp 2.024.901/SP, submetido à sistemática dos recursos repetitivos, deu nova redação ao Tema 931, que passou a dispor:
+"O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária". (Rel. Ministro Rogério Schietti Cruz, julgado em 28/2/2024, DJe de 1/3/2024)
+Tal entendimento, aliás, encontra sintonia com o art. 29, parágrafo único, da Resolução n. 425, de 8/10/2021, do Conselho Nacional de Justiça, que dispõe:
+Art. 29. Deverá ser observada a vulnerabilidade decorrente da situação de rua no momento de aplicação da pena, evitando-se a aplicação da pena secundária de multa.
+Parágrafo único. No curso da execução criminal, cumprida a pena privativa de liberdade e verificada a situação de rua da pessoa egressa, deve-se observar a possibilidade de extinção da punibilidade da pena de multa. (sem grifos no original)
+Na espécie, conforme se extrai das informações prestada pelo juízo da execução penal, ainda não foi integralmente cumprida a pena privativa de liberdade, in verbis (fl. 282 - grifamos):
+Através do presente tenho a honra de dirigir-me a Vossa Excelência a fim de prestar as informações atualizadas acerca da situação prisional do agravante relativamente à condenação da 27ª Vara Criminal Central /SP, referente a ação penal nº 1516832-68.2019 que me foram requisitadas no agravo em epígrafe , interposto por WILLIAM de JESUS MENEZES.
+Especificamente quanto à condenação pela 27ª Vara Criminal Central, consoante a certidão lançada nos autos, tem-se que o término do período de prova está previsto para 12/05/2025. Explico:
+O agravante registra 03 PECs perante esta Vara de Execução Criminal.
+- 700458-56.2014 (0061372-43.2013.8.26.0050, da 10" Vara Criminal da Capital -SP);
+- 700253-15.2020 (1516832-68.2019.8.26.0228, da 27 Vara Criminal da Capital -SP) e
+- 7005449-44.2012 (83246/2011, da 10" Vara Criminal da Capital-SP).
+As PECs 700458-56.2014 e 700253-15.2020 em virtude de se referirem a crimes equiparados a hediondos, tiveram prioridade no cumprimento.
+Desta feita, apesar do cumprimento da pena ter se dado pelo PEC 7005449-44.2012, foi interrompido pelo PEC 700458-56.2014 que se iniciou em 08/07/2013 e termino em 08/07/2018. Em 12/07/2019, interrompeu-se novamente a contagem da PEC não hedionda, para início do cumprimento da PEC 700253-15.2020, apresentando previsão do término do período de provas em 12/05/2025. Por fim, o término do período de provas da PEC 7005449-44.2012 está previsto para 22/11/2027.
+Como visto, a possibilidade de extinção da punibilidade da pena de multa criminal está condicionada ao prévio cumprimento da sanção privativa de liberdade cumulativamente imposta ou daquela pela qual fora substituída.
+Na espécie, portanto, ainda não cumprida integralmente a pena privativa de liberdade, é prematura a discussão sobre a possibilidade de extinção da punibilidade, ainda que não adimplida a sanção pecuniária em razão de eventual hipossuficiência do reeducando.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
