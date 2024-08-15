@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Embargos de declaração opostos por Rodrigo Tosta Giroldo ao acórdão da Sexta Turma (fls. 375/378).
+Nas razões, a defesa do embargante aduz que, apesar do recurso interposto ter reiterado alguns argumentos da petição inicial indeferida, também trouxe como matéria recursal diversos outros fundamentos que não foram trabalhados inicialmente e que enfrentam justamente tais pontos, novos argumentos esses que o r. Tribunal da Cidadania deixou de apreciar, o que justifica a interposição destes aclaratórios diante da omissão apontada (fl. 387).
+Alega que os Agravantes trouxeram argumento que antes não haviam expressado, de que, até em situações de presos condenados, que cumpre a pena em regime semiaberto harmonizado, a Terceira Seção desta Corte somente tem reputado admissível a recusa de transferência, quando não existem vagas ou quando a justiça do local para o qual se pretende transferir o executado não dispõe de tornozeleiras eletrônicas ou de equipamento para monitoração, o que não é o caso dos autos (fl. 387); e que, aliado a isso, ainda explicitou que o Departamento de Polícia Penal do Paraná mantém contrato com a empresa SPACECOMM MONITORAMENTO, especializada em instalar os dispositivos invioláveis e fiscalizar em tempo real os segregados à essa modalidade (fl. 387); argumentos tais que só foram trazidos com o agravo regimental e atacam justamente o fundamento central do indeferimento liminar da inicial, demonstrando o direito, a facilidade e a praticidade da corriqueira fiscalização das medidas em outro Estado da Federação (fl. 389).
+Sustenta, ainda, que os impetrantes trazem NOVOS ARGUMENTOS com relação aos processos que o paciente respondia à época da interposição do writ, autos nº 7013125-21.2023.8.22.0001 e 7013088-91.2023.8.22.0001, enaltecendo que as audiências de instrução e julgamento de referidos processos já haviam sido designadas pelo MODO VIRTUAL (fl. 390); que, além disso, às fls. e-STJ 326/335, anexou memoriais complementares, diante de situação nova, onde enaltece o encerramento da fase instrutória de ambos os feitos acima (fl. 390); e que, como se não bastasse, às fls. e-STJ 349/353, os impetrantes anexaram aos autos sentença que absolveu o Paciente de um desses autos, o de nº 7013088-91.2023.8.22.0001, intensificando o argumento trazido no parágrafo anterior (fl. 390).
+Pugna pelo acolhimento dos embargos com efeitos infringentes, a fim de que seja conhecido e provido o agravo regimental e concedida a ordem requerida.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. AUSÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são acolhidos quando evidenciado vício no decisum recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619 do CPP).
+No caso, é evidente o mero inconformismo do embargante com o resultado do julgamento de seu agravo regimental.
+A parte insiste em teses acerca das quais já foi afirmado, mais de uma vez, que não há evidência de constrangimento ilegal. Não há falar em omissão ou erro da decisão embargada.
+Na verdade, omitiu-se o embargante de, na oportunidade do agravo, rebater a fundamentação adotada na decisão agravada, concernente à inviabilidade de reverter o entendimento da instância a quo - de que a mudança de endereço seria prejudicial à fiscalização do cumprimento das medidas cautelares diversas e ao deslinde de outras ações penais - sem uma maior incursão no material fático-probatório, o que não se compatibiliza com a via estreita do writ.
+Vale destacar que, como bem exposto na decisão do agravo, uma eventual atualização do quadro fático deve ser submetida primeiro à análise do juízo originário, mais próximo dos fatos e provas da ação penal.
+Ante o ex posto, rejeito os embargos de declaração.
