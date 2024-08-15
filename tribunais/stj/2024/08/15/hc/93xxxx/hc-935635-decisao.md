@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Glenda Fernanda Menezes, em que se aponta como autoridade coatora o Tribunal de Justiça do Acre.
+Relata-se que a negativa recente pelo Tribunal de Justiça do Acre ao pedido de revogação da prisão domiciliar, conforme autos n. 1001251-95.2024.8.01.0000, fundamentada em suposta falta de pertinência, configura um constrangimento ilegal evidente, já que a paciente não representa risco à ordem pública, à instrução criminal ou à aplicação da lei penal (fl. 3).
+Argumenta-se que outros réus do mesmo processo, incluindo Eronildo Macambira Braga Júnior e Juliana, já tiveram suas medidas cautelares revogadas, evidenciando a falta de necessidade e proporcionalidade na manutenção da restrição imposta à paciente Glenda - fl. 3 (Ação Penal n. 0006605-52.2023.8.01.0001, em curso na Vara de Delitos de Organizações Criminosas da comarca de Rio Branco/AC).
+Requer-se, em liminar e no mérito, a revogação da prisão domiciliar imposta à paciente ou sejam estendidos a ela os efeitos da decisão que revogou a medida de monitoração eletrônica em relação ao corréu.
+É o relatório.
+A instrução do writ está deficiente. Apesar de a inicial mencionar insurgência contra a decisão que indeferiu o pedido liminar, verifica-se que o HC n. 1001251-95.2024.8.01.0000 teve seu mérito julgado em 16/7/2024. Apesar disso, deixou o advogado de juntar aos autos exatamente o inteiro teor desse acórdão, o que torna inviável a análise do apontado constrangimento ilegal.
+Ora, segundo os precedentes do Superior Tribunal de Justiça, o impetrante de pedido de habeas corpus tem a obrigação de devidamente instruir o writ com a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente. Não tem cabimento transferir ao Poder Judiciário o ônus pertencente à defesa, mormente quando se trata de advogado constituído. Tais peças devem estar presentes nos autos no momento da impetração do habeas corpus, não se admitindo que a juntada de peças processuais seja posterior, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem ou simples transcrições (RCD no HC n. 608.252/MG, de minha relatoria, Sexta Turma, DJe 17/9/2020).
+Afora isso, a análise de pedido de extensão compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende (AgRg no HC n. 802.725/MG, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+Pelo exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRETENSÃO DE REVOGAÇÃO DA PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. EXIGÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DO IMPETRANTE.
+Writ não conhecido.
