@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERBE INCORPORADORA 001 S.A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 688-705, e-STJ):
+APELAÇÕES CÍVEIS. RELAÇÃO DE CONSUMO.PROMESSA DE COMPRA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA DO EMPREENDIMENTO. RESPONSABILIDADE CIVIL OBJETIVA. RESCISÃO CONTRATUAL. AUSÊNCIA DE NULIDADE DA SENTENÇA VERGASTADA, QUE NÃO FOI OMISSA E ENFRENTOU A CONTROVÉRSIA OBJETO DO PRESENTE FEITO. ARGUIÇÃO DE PRESCRIÇÃO DA PRETENSÃO DE RESTITUIÇÃO DO VALOR PAGO A TÍTULO DE COMISSÃO DE CORRETAGEM QUE SE REJEITA. AUTOR QUE NÃO ESTÁ SE INSURGINDO CONTRA A VALIDADE DA CLÁUSULA CONTRATUAL QUE TRANSFERIU O PAGAMENTO AO CONSUMIDOR, E SIM PRETENDE A DEVOLUÇÃO DE TODA A QUANTIA POR ELE DESEMBOLSADA, RAZÃO PELA QUAL O TERMO INICIAL DO PRAZO PRESCRICIONAL É A DATA DO INADIMPLEMENTO DA EMPRESA RÉ, E NÃO A DATA DA CELEBRAÇÃO DO CONTRATO. INEXISTÊNCIA DE CASO FORTUITO E DE FORÇA MAIOR. FALHA NA PRESTAÇÃO DO SERVIÇO. EMPRESA RÉ QUE DEU CAUSA À RESCISÃO DO CONTRATO. DEVOLUÇÃO INTEGRAL DAS PARCELAS PAGAS. JUROS DE MORA QUE SOMENTE DEVEM FLUIR A PARTIR DO TRÂNSITO EM JULGADO SE OCORRER RESCISÃO IMOTIVADA, O QUE NÃO FOI O CASO DOS AUTOS. NO TOCANTE À MULTA DE 0,5% DO VALOR REAJUSTADO DO IMÓVEL, O JUÍZO DE PRIMEIRO GRAU CONCLUIU QUE ELA SERIA DEVIDA PELO PERÍODO DE DEZEMBRO DE 2015 ATÉ MAIO DE 2016, OU SEJA, DESDE O ATRASO NA ENTREGA ATÉ O AJUIZAMENTO DA PRESENTE DEMANDA. AUSÊNCIA DE INCOMPATIBILIDADE COM O PLEITO DE RESCISÃO CONTRATUAL. PREVISÃO EXPRESSA NO CONTRATO CELEBRADO ENTRE AS PARTES. POSSIBILIDADE DE INCIDÊNCIA. PRECEDENTE JURISPRUDENCIAL DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. TAMBÉM NÃO MERECE ACOLHIMENTO O PLEITO DO AUTOR DE MAJORAÇÃO DA MULTA DO PERCENTUAL DE 0,5% PARA 2% DO VALOR REAJUSTADO DO IMOVEL, UMA VEZ QUE DEVEM SER OBSERVADOS OS EXATOS TERMOS DO QUE FOI PACTUADO. PEDIDO DE INDENIZAÇÃO POR LUCROS CESSANTES QUE SE MOSTRA INCOMPATIVEL COM A RESCISÃO CONTRATUAL E, ACERTADAMENTE, NÃO FOI ACOLHIDO. RETORNO AO STATUS QUO ANTE, QUE AFASTA A IMISSÃO DO PROMITENTE COMPRADOR NA POSSE DO BEM E, POR CONSEQUÊNCIA, OS ALUGUÉIS QUE TERIA RECEBIDO NO PERÍODO DE ATRASO. DANO MORAL CONFIGURADO IN RE IPSA. VERBA INDENIZATÓRIA QUE DEVE SER MAJORADA PARA A QUANTIA DE R$ 10.000,00 (DEZ MIL REAIS), EM OBSERVÂNCIA AOS PARÂMETROS IMPOSTOS PELOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, DE MODO QUE ATENDA AO CARÁTER PREVENTIVO-PEDAGÓGICO-PUNITIVO DA REPARAÇÃO, MAS NÃO PERMITA O ENRIQUECIMENTO SEM CAUSA DO DEMANDANTE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, FIXADOS NO PATAMAR MÍNIMO, QUE SE MANTÉM, TENDO EM VISTA A BAIXA COMPLEXIDADE DO CASO E OS DEMAIS CRITÉRIOS PREVISTOS NO §2º DO ARTIGO 85, DO CÓDIGO DE PROCESSO CIVIL. PRIMEIRO RECURSO, INTERPOSTO PELO AUTOR, A QUE SE DÁ PARCIAL PROVIMENTO, PARA MAJORAR A INDENIZAÇÃO ARBITRADA A TÍTULO DE DANO MORAL. SEGUNDO RECURSO, INTERPOSTO PELA EMPRESA RE, A QUE SE NEGA PROVIMENTO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 738-743 e 759-763, e-STJ).
+Nas razões do recurso especial (fls. 778-790, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 1022 e 489 do CPC/2015, pois o acórdão recorrido seria omisso quanto à inexistência de dano moral in re ipsa, segundo a jurisprudência do STJ, nas hipóteses de atraso na entrega de imóveis;
+(ii) 186, 884, 927, caput, e 944 do CC/02, já que é descabida a fixação de danos morais;
+Sem contrarrazões.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem expressamente reconheceu a ocorrência de dano moral, decorrente do atraso na entrega do imóvel.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO A DELIBERAÇÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO.
+INSURGÊNCIA DO EXEQUENTE.
+1. Violação ao artigo 535 do CPC/73, atual 1.022 do NCPC, não configurada. Acórdão desta Corte Superior que analisou detidamente todos os pontos necessários ao deslinde da controvérsia. Recurso dotado de caráter meramente infringente.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+2. No que toca ao alegado descabimento da fixação de compensação por danos morais, melhor razão assiste à recorrente.
+O atraso na entrega é não é capaz, por si só, de gerar abalo moral indenizável, sendo necessária fundamentação complementar que demonstre a gravidade da circunstância fática, a ensejar a pretendida indenização. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. CIRCUNSTÂNCIA, POR SI SÓ, QUE NÃO ACARRETA ATO ILÍCITO INDENIZÁVEL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. PRECEDENTES.
+1. A jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, o que não ocorreu no caso dos autos.
+2. A condenação ao pagamento de danos morais in re ipsa, com fundamento apenas no atraso na entrega do imóvel, dissentiu da jurisprudência do STJ.
+3. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no REsp n. 1.942.812/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. MERO ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. DESCABIMENTO. RECURSO DESPROVIDO.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária fundamentação complementar que demonstre a gravidade da circunstância fática, a ensejar a pretendida indenização. Precedentes.
+2. No caso, a decisão agravada deu parcial provimento ao recurso especial da parte ré, para reformar o v. acórdão recorrido, porque este fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, sem apresentar fundamentação adicional a justificar a angústia ou abalo psicológico do autor da demanda.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1211877/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/08/2019, DJe 19/08/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MERO ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA. DECISÃO MANTIDA.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária uma consequência fática capaz de acarretar dor e sofrimento por sua gravidade. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1835960/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/05/2020, DJe 28/05/2020)
+No caso em análise, a Corte local consignou que o dano moral teria natureza in re ipsa. Veja-se (fl. 701, e-STJ):
+Por fim, o dano moral, na hipótese, restou plenamente caracterizado, tendo em vista a angústia e a apreensão experimentadas pelo autor, com a mora injustificada da empresa ré já acima especificada e o receio de perder todo o montante investido.
+Destaque-se que o dano moral na hipótese em julgamento carece de comprovação, pois existe in re ipsa, ou seja, decorre da gravidade do ato ilícito em si. Logo, uma vez demonstrado o fato ofensivo, também estará demonstrado o dano moral em razão de uma presunção natural.
+Destaque-se, por oportuno, que, ao tempo do manejo da ação judicial com pedido de rescisão contratual, o atraso na entrega do imóvel era de cerca de 6 meses. Ademais, não consta da inicial a narrativa de qualquer circunstância fática excepcional, que denote lesão extrapatrimonial em decorrência do atraso em comento.
+Nesse contexto, considerando-se que o acórdão recorrido, no presente ponto, não se alinha à jurisprudência do STJ, de rigor sua reforma, com o consequente afastamento da condenação ao pagamento de danos morais.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dá-se provimento ao recurso especial, para afastar a compensação por danos morais fixada na origem. Considerando-se a sucumbência mínima do ora recorrido, mantém-se a divisão dos ônus sucumbenciais e a fixação dos honorários advocatícios estabelecida na origem.
+Prejudicada a análise do pedido de concessão de efeito suspensivo.
+Publique-se.
+Intimem-se.
+EMENTA
