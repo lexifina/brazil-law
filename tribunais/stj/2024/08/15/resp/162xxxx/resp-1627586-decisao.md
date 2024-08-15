@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto por CRISTOVAM DIONISIO DE BARROS CAVALCANTI JUNIOR com fundamento no art. 105, III, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado, in verbis:
+EMBARGOS À EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. RÉU FORAGIDO. PROCESSO ADMINISTRATIVO FISCAL. INTIMAÇÃO POR CORREIO. PROVA DO RECEBIMENTO. SÚMULA VINCULANTE Nº 21. IMPOSSIBILIDADE DE RELATIVIZAR A COISA JULGADA. PRESCRIÇÃO INTERCORRENTE NO PROCESSO ADMINISTRATIVO FISCAL. IMPOSSIBILIDADE. PRESCRIÇÃO. INOCORRÊNCIA. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR. ALÍQUOTA DE IPI. COISA JULGADA. MULTA DE OFÍCIO. ERRO FORMAL NA CDA. INEXISTÊNCIA DE PREJUÍZO. MULTA DE 20%. INEXISTÊNCIA DECARÁTER CONFISCATÓRIO. ART. 63, CAPUT E § 2º, DA LEI Nº 9.430/96. INAPLICABILIDADE.
+No presente recurso especial, o recorrente aponta como violados os arts. 23, II, do Decreto n. 70.235/1972, 26, § 3º, da Lei n. 9.784/99 e 741, II, e parágrafo único do CPC/1973, no que concerne à nulidade do processo administrativo.
+Aduz, ainda, violação do art. 1º, § 1º, da Lei n. 9.873/1999, quanto à decadência e prescrição intercorrente do processo administrativo. Também alega violação dos arts. 1º do Decreto n. 20.910/1932, 269, IV, do CPC/1973, 142 e 174, parágrafo único, I, do CTN, quanto à tese de prescrição.
+Argumenta pela nulidade do redirecionamento, por ilegitimidade passiva, em violação dos arts. 333, I e II, 741, III, e VI, do CPC/1973 e do art. 135, III, do CTN.
+Aponta, igualmente, violação do art. 3º do Decreto n. 1.391/95 e do art. 6º da LINDB, no que concerne à alíquota considerada para cálculo dos tributos. Pugna ainda pela redução da multa aplicada, bem como em relação ao início do prazo, argumentando com base na violação do art. 61, § 2º, e do art. 63, § 2º, da Lei n. 9.430/96.
+Por fim, fundamenta a pretensão recursal igualmente na existência de divergência jurisprudencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Quanto à tese de nulidade do processo administrativo, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu pela higidez do procedimento (fls. 470-472).
+Igualmente quanto à tese de decadência, associada à prescrição intercorrente do processo administrativo fiscal para cobrança de crédito tributário, ou prescrição de cobrança, verifica-se que a irresignação do recorrente novamente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que não transcorreu o prazo decadencial nem, tampouco, teria havido prescrição intercorrente (fls. 472-474).
+Dessa forma, para rever tais posições e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Além disso, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, quanto ao ponto, não foi especificamente rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Quanto à tese de nulidade do redirecionamento, o Tribunal de origem assentou o seguinte (fl. 475):
+No caso em tela, o magistrado singular refere que o redirecionamento foi determinado em razão de a sociedade executada não ter sido encontrada no seu domicílio fiscal e em virtude de os documentos carreados ao feito executivo demonstrarem que o embargante era o verdadeiro administrador societário. O embargante, por sua vez, não produziu qualquer prova para atestar que não houve a dissolução irregular ou que ele não era o administrador da sociedade.
+Destarte, subsistem os indícios que ensejaram o redirecionamento do feito executivo.
+O entendimento não destoa da jurisprudência do Superior Tribunal de Justiça que, no julgamento dos Temas n. 962 e 981 dos recursos especiais repetitivos, firmou as seguintes teses:
+O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, não pode ser autorizado contra o sócio ou o terceiro não sócio que, embora exercesse poderes de gerência ao tempo do fato gerador, sem incorrer em prática de atos com excesso de poderes ou infração à lei, ao contrato social ou aos estatutos, dela regularmente se retirou e não deu causa à sua posterior dissolução irregular, conforme art. 135, III, do CTN.
+O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, pode ser autorizado contra o sócio ou o terceiro não sócio, com poderes de administração na data em que configurada ou presumida a dissolução irregular, ainda que não tenha exercido poderes de gerência quando ocorrido o fato gerador do tributo não adimplido, conforme art. 135, III, do CTN.
+No ponto, não comporta provimento, portanto, o recurso especial.
+Quanto à tese de inadequação da alíquota, o Tribunal assim se manifestou (fl. 475):
+Conforme pontuou o magistrado singular, a discussão atinente à alíquota de IPI aplicável às operações realizadas pela sociedade executada - se 20%, se 32% - já foi dirimida no bojo do Mandado de Segurança nº 95.00.06691-2, em que este Tribunal Regional Federal denegou a segurança, mantendo a aplicação da alíquota de 32%. O acórdão transitou em julgado em 17/10/2000 (evento 11, PROCADM3, p. 09).
+Desse modo, descabe reabrir, no bojo dos presentes embargos, a discussão referente ao tema, sob pena de afronta à coisa julgada.
+Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AGENTE FISCAL. TRANSPOSIÇÃO DE CARGO. AUDITOR FISCAL. TEMA APRECIADO SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. OFENSA À COISA JULGADA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. PEDIDO DE REDUÇÃO. SÚMULA 7/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. O acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 37, II, da Constituição da República, bem como na inconstitucionalidade do art. 156, § 2º, da Lei Complementar Estadual 92/2002, que estendia aos inativos a transposição feita aos ativos do cargo de Agente Fiscal para Auditor Fiscal.
+2. Desse modo, a modificação do acórdão descabe na via estreita do Recurso Especial, pois implica usurpação da competência do Supremo Tribunal Federal.
+3. Ademais, quanto aos limites subjetivos e objetivos da coisa julgada, também sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ.
+4. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+5. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial." 6. Agravo Interno não provido.
+(AgInt no AREsp 1777064/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/05/2021, DJe 01/07/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE REPETIÇÃO DE INDÉBITO REFERENTE AO IMPOSTO DE RENDA RETIDO A MAIOR SOBRE RENDIMENTOS RECEBIDOS ACUMULADAMENTE, A TÍTULO DE DIFERENÇAS DE CONVERSÃO DE CRUZEIRO REAL PARA URV. ALEGADA NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. ALEGADA VIOLAÇÃO AOS ARTS. 3º E 7º, § 1º, DA LEI 7.713/88, 46, § 2º, DA LEI 8.541/92, E 105, 106, 111, 144 E 176 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. INVIABILIDADE DO RECURSO ESPECIAL, ADEMAIS, QUANTO À ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 502, 503 E 505 DO CPC/2015, POR SE TRATAR, NA ESPÉCIE, DE CONTROVÉRSIA DE NATUREZA FÁTICA, EM TORNO DA COISA JULGADA. CONSIDERAÇÕES A TÍTULO DE OBITER DICTUM. IRRELEVÂNCIA. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Em relação à alegada violação aos arts. 502, 503 e 505 do CPC/2015, o Recurso Especial é inadmissível, por incidência, na espécie, da Súmula 7 do STJ, pois, de acordo com a jurisprudência dominante desta Corte, não havendo abstração de tese jurídica, mas controvérsia de natureza fática em torno da coisa julgada material, descabe ao STJ analisar, em sede de Recurso Especial, a alegação de ofensa às disposições processuais que disciplinam o instituto da coisa julgada, diante da indiscutível necessidade de reexame do contexto-fático probatório dos autos.
+(..)
+VIII. Agravo interno improvido.
+(AgInt no AgInt no AREsp 1548963/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2021, DJe 06/05/2021)
+Por fim, igualmente não comportam conhecimento as teses relacionadas à ilegalidade da multa aplicada, tendo o Tribunal de origem assentado convicção a respeito da regularidade e suficiência dos dados inscritos na CDA, ausência de prejuízo à defesa e não configuração do caráter confiscatório. Incide, novamente, na hipótese o óbice da Súmula n. 7/STJ.
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. OMISSÃO.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, nos termos do disposto no art. 1.022 do CPC/2015.
+2. Há necessidade de integrar o acórdão embargado para acrescentar que o não conhecimento do recurso especial quanto à alínea "a", em face da incidência da Súmula 7 do STJ, também impede a análise da divergência jurisprudencial, notadamente quando o dissídio estiver amparado na mesma legislação federal indicada como violada.
+3. Quanto aos demais pontos, não há no acórdão nenhuma situação que dê amparo ao recurso integrativo.
+4. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp 864.923/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 06/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. SÚMULA 7. VIOLAÇÃO DE ENUNCIADO DE SÚMULA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL.
+(..)
+4. Pacífica a jurisprudência desta Corte de que a incidência do enunciado 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1819017/RO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2021, DJe 22/03/2021)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
