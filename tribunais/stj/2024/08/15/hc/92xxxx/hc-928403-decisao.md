@@ -1,0 +1,39 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 646/651, in verbis:
+Trata-se de habeas corpus impetrado em favor de Willian Silva Costa, objetivando afastar suposto constrangimento ilegal decorrente do acórdão de fs. 591/598 e-STJ, proferido pelo Tribunal de Justiça do Rio Grande do Sul, que deu parcial provimento ao apelo defensivo, para absolver o paciente do crime do art. 35 da Lei de Drogas e fixar o regime semiaberto para o cumprimento da pena imposta pela prática do crime de tráfico de entorpecentes.
+No writ (fls. 3/8 e-STJ), o impetrante pleiteia a aplicação da minorante prevista no art. 33, § 4º, da Lei 11.343/2006 em seu patamar máximo (2/3), bem como a fixação de regime inicial mais brando (aberto) para o cumprimento da reprimenda.
+Informações prestadas às s 622 e 632 e-STJ.
+ ..
+O paciente foi condenado pelo Tribunal a quo às penas de 5 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa, no mínimo legal, pelo cometimento do delito de tráfico de entorpecentes.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Não há como conhecer da impetração.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição da condenação do paciente, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Verifico, todavia, flagrante ilegalidade na dosimetria, a atrair a concessão da ordem de ofício.
+Isso, porque a Sexta Turma adotou o atual posicionamento do Supremo Tribunal Federal segundo o qual inquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..  (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgado da Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação. (HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônico DJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 2/3, a pena do paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Na hipótese dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar a aplicação da minorante em patamar diferente do máximo ou o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, o paciente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade em medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+À vista do exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício para, reconhecendo a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, reduzir a pena do paciente para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Tendo em vista que a corré, GABRIELA PRESTES ROCKENBACH, encontra-se na mesma situação fático-processual do paciente, estendo-lhe os efeitos desta decisão, com fulcro no art. 580 do Código Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
