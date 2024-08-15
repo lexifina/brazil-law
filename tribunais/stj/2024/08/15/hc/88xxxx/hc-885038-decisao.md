@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de RAFAEL DE OLIVEIRA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo de Execução Penal n. 0011548-41.2023.8.26.0996.
+Consta dos autos que o Juízo do conhecimento absolveu o paciente, com fundamento no art. 386, VII, do Código de Processo Penal - CPP, da imputação da prática do crime de tráfico de drogas. A companheira do paciente, por sua vez, foi condenada por tentar ingressar no presídio, em 20/2/2022, portando substância entorpecente (suposto LSD) (sentença às fls. 21/34).
+No âmbito da execução penal, o paciente foi igualmente absolvido da acusação de ter praticado falta disciplinar grave, em razão do mesmo fato, ou seja, da tentativa de ingresso de sua companheira no presídio com substância entorpecente, conforme decisão de fls. 124/125.
+Irresignado, o Ministério Público recorreu perante o Tribunal a quo, que deu provimento ao agravo em execução para reconhecer o cometimento de falta disciplinar de natureza grave, com seus consectários legais, nos termos do acórdão que restou assim ementado:
+"Agravo em Execução Penal - Pleito ministerial de reconhecimento do cometimento de falta disciplinar de natureza grave - Suporte probatório suficiente para a responsabilização infracional pela má conduta prisional - Exegese do artigo 52, primeira parte, c. c. o artigo 49, parágrafo único, da Lei nº 7.210/84 - Imposição dos efeitos decorrentes da infração, que ensejam a perda parcial do tempo remido e a interrupção do lapso para futuros pleitos de progressão de regime - Precedentes - Decisão cassada - Agravo provido." (fl. 109)
+Novo agravo regimental (n. 0011548-41.2023.8.26.0996) foi interposto pelo paciente requerendo a "nulidade da respeitável decisão agravada por falta de sua prévia oitiva judicial e por estar ausente na oitiva das testemunhas. No mérito, busca a revisão da decisão que reconhecera a falta disciplinar, com a consequente absolvição da transgressão disciplinar, sob a tese de insuficiência probatória" (fl. 11). O recurso, no entanto, foi desprovido em 23/11/2023 (fls. 9/20).
+No presente writ, o impetrante sustenta que, " ..  na esfera jurídico-penal, o paciente foi absolvido ante a ausência de provas de autoria, ao passo que em sede de execução penal, condenou-se o paciente pelo mesmo fato embora não havendo o mínimo lastro probatório para sustentar tal decisão e mesmo após o trânsito em julgado da decisão anterior" (fl. 4).
+Reafirma não haver prova, no procedimento administrativo disciplinar, de que o paciente fosse o real proprietário dos ilícitos apreendidos.
+Requer, liminarmente e no mérito, a suspensão dos efeitos da decisão que reconheceu a prática da falta grave.
+O pedido liminar foi indeferido (fls. 129/131), as informações foram prestadas (fls. 137/141 e 145/182), e o Ministério Público Federal - MPF opinou pelo não conhecimento do writ (fls. 185/190).
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que o presente mandamus, no ponto em que alega ausência de provas de que o paciente seria o proprietário das drogas, traz pedido idêntico ao formulado no HC 820.378/SP, que por decisão proferida em 4/5/2023, foi liminarmente indeferido. Acrescento que no HC 866.309/SP, também indeferido liminarmente, a suposta nulidade do procedimento administrativo disciplinar foi afastada, por decisão proferida em 6/11/2023.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste writ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
