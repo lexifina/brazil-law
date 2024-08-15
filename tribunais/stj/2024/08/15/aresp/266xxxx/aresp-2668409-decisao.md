@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão da Vice-Presidência do Tribunal Regional Federal da 1ª Região que não admitiu o recurso especial com base nos seguintes fundamentos: (I) ausência de ofensa aos arts. 489 e 1.022 do CPC; (II) não cabe analisar em apelo especial violação à norma constitucional; e (III) incidência da Súmula 7/STJ.
+A parte agravante sustenta, em resumo, que " ..  a União destacou em seu recurso especial a existência de erros materiais e omissões relevantes, notadamente quanto à vedação legal e constitucional peremptória ao pagamento de valores retroativos decorrentes de transposição, e que a não integração da decisão após embargos de declaração, para sanar omissão relevante da demanda, importa em manifesta violação aos artigos 489 e 1.022 CPC/15.  ..  A questão é o descumprimento de texto expresso de Lei Federal pelo acórdão não requer qualquer análise fática. Veja-se que a sentença de piso, equivocadamente, entendeu que os efeitos financeiros deveriam retroagir à 01 de janeiro de 2014, antes da efetiva transposição do autor para os quadros da União, numa evidente afronta ao texto legal. Reitera-se, não há discussão fática no caso, uma vez que o entendimento do magistrado de primeiro grau,o mesmo que confirmado pela instância superior, não foi analisado em conformidade com a Lei que, alegadamente, ampara a própria transposição da parte autora" (fls. 459/460).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a assertiva de que não cabe analisar em apelo especial violação à norma constitucional.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto , nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
