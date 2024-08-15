@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EUGENIO ANDERSON TRAVAGIN contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n. 0000457-18.2016.8.26.0472.
+Consta dos autos que o paciente foi condenado como incurso no art. 35, da Lei n. 11.343/2006, à pena de 7 (sete) anos de reclusão, no regime inicial fechado, além do pagamento de 1.065 dias-multa (e-STJ fls. 9/24).
+Interposta apelação pela defesa, o Tribunal local negou provimento ao recurso (e-STJ fls. 25/34), em acórdão cuja ementa segue abaixo transcrita :
+EMENTA: SENTENÇA CONDENATÓRIA DOS RÉUS PELO DELITO DE SSOCIAÇÃO PARA O TRÁFICO (ART. 35 DA LEI 11.343/2006). APELOS DA DEFESA ALEGAÇÕES DE FRAGILIDADE PROBATÓRIA PARA BUSCAR A ABSOLVIÇÃO, DEDUZINDO-SE PLEITOS SUBSIDIÁRIOS DE REDUÇÃO DAS PENAS. DESCABIMENTO DAS IRRESIGNAÇÕES MATERIALIDADE E AUTORIA DELITIVAS BEM DEMONSTRADAS, ANOTANDO-SE A CREDIBILIDADE DOS RELATOS DE AGENTES DA LEI QUANDO EM CONSONÂNCIA COM OUTROS INDÍCIOS PROBATÓRIOS, INFIRMADAS AS NEGATIVAS SUCINTAS DOS ACUSADOS RÉUS QUE, DURANTE LAPSO TEMPORAL RELEVANTE, MANTIVERAM VÍNCULO ASSOCIATIVO ESTÁVEL COM A FINALIDADE DE COMERCIALIZAR ENTORPECENTES, COM REPARTIÇÃO E REVEZAMENTO DE TAREFAS CONDENAÇÕES MANTIDAS, INVIÁVEIS OS PLEITOS DE ABSOLVIÇÃO DOSAGEM DAS PENAS CORRETA, RESSABIDO QUE O LEGISLADOR NÃO PREVIU CRITÉRIOS MATEMÁTICOS PENA BASE ESTIPULADA ACIMA DO PISO COM MOTIVAÇÃO BASTANTE, ESCOLHENDO-SE REGIME INICIAL MAIS GRAVOSO PORQUE O ÚNICO ADEQUADO E SUFICIENTE NA HIPÓTESE CONCESSÃO DE BENESSES NÃO RECOMENDÁVEL RECURSOS DESPROVIDOS.
+Em consulta ao sistema Justiça, verifico que o AREsp 2.338.824/SP, (interposto em razão da negativa de seguimento do REsp pela origem) foi conhecido, para reduzir a pena-base do paciente, redimensionando-se a reprimenda final do acusado para 5 anos e 3 meses de reclusão, tendo sido mantido o regime inicial fechado.
+No presente writ (e-STJ fls. 3/8), a impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão da pena fixada
+Aduz, em suma, que a basilar sofreu aumento indevido, uma vez que o argumento utilizado para majoração foi o número de crimes perpetrados, circunstância que, no entanto, foi vislumbrada na terceira fase da dosimetria, pelo crime continuado (e-STJ, fls. 6/7), em manifesta violação ao princípio do non bis in idem.
+Assim, requer, na liminar e no mérito, a concessão da ordem de habeas corpus, para que seja readequada a reprimenda do paciente.
+É o relatório. Decido.
+Na análise do caso concreto, verifico que a pretensão de revisão da pena-base manifestada no presente habeas corpus já foi objeto de análise por esta Corte no AREsp 2.338.824/SP, que considerou válida a fundamentação empregada para majorar a pena-base, ao mesmo tempo em que reduziu o quantum do acréscimo.
+Em consequência, trata-se de mera reiteração de tese já apreciada por esta Corte, revelando-se incabível o habeas corpus para reexame do tema.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, não obstante as causas de pedir expostas no recurso especial sejam mais amplas daquela formulada neste writ, o pedido final de absolvição foram feitos em ambos processos, não tendo a defesa trazido qualquer fato novo a ensejar o reexame por esta Corte do pleito deduzido no AREsp 608.198/SP.
+3. Hipótese em que a defesa pretende, ao impetrar este writ após a interposição do agravo em recurso especial, a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido (AgRg no HC n.º 476.445/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 19/2/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, liminarmente, não conheço do habeas corpus.
+Intimem -se.
+EMENTA
