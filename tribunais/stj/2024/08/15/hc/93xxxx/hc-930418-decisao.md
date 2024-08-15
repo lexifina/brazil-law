@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de FRANCISCO IRISMAR DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+Consta nos autos que o paciente foi condenado, em primeiro grau, às penas de 11 (onze) anos de reclusão e 15 (quinze) dias de detenção, em regime inicial fechado, e ao pagamento de 520 (quinhentos e vinte) dias-multa, à razão de 1/30, como incurso no artigo 330, caput, do Código Penal; art. 33, caput, da Lei nº 11.343/06 e art. 17, caput, da Lei nº 10.826/03, todos na forma do art. 69 do Código Penal (fls. 42-45).
+O Tribunal de origem deu parcial provimento ao recurso de apelação defensivo, para absolver o recorrente do crime previsto no art. 17 da Lei 10.826/03, fixando a pena em 5 (cinco) anos de reclusão e 15 (quinze) dias de detenção, em regime semiaberto, além do pagamento de 510 (quinhentos e dez) dias-multa (fls. 67-77).
+Os Embargos de Declaração opostos pela Defesa foram rejeitados (fls. 75-77).
+Neste writ, a defesa sustenta constrangimento ilegal porquanto ausente prova da materialidade do crime de tráfico de drogas, uma vez que não foram apreendidos entorpecentes em poder do paciente (fl. 13).
+Requer a concessão da ordem para absolver o paciente do crime previsto no art. 33 da Lei de Drogas.
+Informações prestadas às fls. 87-109.
+Parecer do Ministério Público Federal às fls. 112-119, opinando pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Inicialmente, pontuo que esta Corte Superior, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+Verifico, ademais, que a Defesa, além da impetração do presente habeas corpus, também interpôs Recurso Especial contra o acórdão ora impugnado, que está aguardando a análise de sua admissibilidade, conforme informações prestadas pelo Tribunal de Justiça do Rio Grande do Norte (fl. 87).
+De acordo com o entendimento desta Corte, a impetração de habeas corpus e a interposição de recurso próprio simultâneo contra o mesmo acórdão condenatório caracteriza ofensa ao princípio da unirrecorribilidade (AgRg no HC n. 549.368/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/12/2019).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INADMISSIBILIDADE DE WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO OU DE REVISÃO CRIMINAL. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. RECURSO ESPECIAL JULGADO. PREJUDICIALIDADE DO HABEAS CORPUS. INTERCEPTAÇÃO TELEFÔNICA. EXAURIMENTO DE OUTROS MEIOS DE OBTENÇÃO DE PROVA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PERÍCIA DE VOZES CAPTADAS. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inadmissível a impetração de habeas corpus substitutivo de recurso especial ou de revisão criminal, salvo se comprovada manifesta ilegalidade.
+2. A impetração de habeas corpus e a interposição de recurso especial simultâneas contra o mesmo acórdão condenatório caracteriza ofensa ao princípio da unirrecorribilidade.
+3. No caso de interposição de recurso especial concomitante com impetração de habeas corpus com objetos idênticos, o julgamento daquele prejudica o exame da impetração.
+4. O exame da viabilidade de esgotamento de outros meios de obtenção de prova para autorização de interceptação telefônica, nos termos do art. 2º, II, da Lei n. 9.296/1996, demanda revolvimento de matéria fático-probatória, inviável em habeas corpus.
+5. É desnecessária a realização de perícia para a identificação de vozes captadas em interceptações telefônicas.
+6. Agravo regimental desprovido." (AgRg no HC 490.838/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/04/2021, DJe 29/04/2021; sem grifos no original.)
+Ante o exposto, indefiro liminarmente a petição, com fundamento no art. 34, inc. XX, c/c o art. 210, todos do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. TENTATIVA DE LATROCÍNIO. DESCLASSIFICAÇÃO DA CONDUTA PARA ROUBO. PEDIDO FORMULADO NO HC N. 695.113/SP. REITERAÇÃO. DOSIMETRIA. PRIMEIRA FASE. VETORES NEGATIVOS: MAUS ANTECEDENTES E CIRCUNSTÂNCIAS DO CRIME DEVIDAMENTE MOTIVADOS. ELEVAÇÃO DA PENA-BASE EM 1/4 (UM QUARTO) FUNDAMENTAÇÃO IDÔNEA E PROPORCIONALIDADE. TENTATIVA. ITER CRIMINIS. FRAÇÃO DE 1/3 (UM TERÇO) DEVIDAMENTE MOTIVADA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. CONCURSO FORMAL IMPRÓPRIO. NÚMERO DE VÍTIMAS ALVEJADAS. APENAS UM PATRIMÔNIO ATINGIDO. RECONHECIMENTO DE CRIME ÚNICO. ENTENDIMENTO FIRMADO PELA TERCEIRA SEÇÃO DESTA CORTE, NO JULGAMENTO DO AGRG NO ARESP N. 2.119.185/RS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
