@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 1.208/1.209, que não conheceu do agravo em recurso especial.
+Sustentam os embargantes haver omissão no julgado, "uma vez que ao contrário do que se afirmou, a situação descrita nestes autos foi devidamente fundamentada, bem como o referido recurso não desafia o óbice da Súmula 07 desta e. Corte Federal. Destaca-se que, a pretensão dos EMBARGANTES não se trata de reexame do contexto fático-probatório, circunstância que redundaria na formação de nova convicção acerca dos fatos, mas, sim, de matéria de cunho eminentemente jurídico, a fim de que as consequências jurídicas previstas na legislação civil, consumerista e processual sejam aplicadas às premissas que são de fácil cognição e verificação dos autos, e que, portanto, não se faz necessária a sua reanálise. Tal ponto não poderia jamais ter sido negligenciado, já que ao contrário do que entendeu a r. decisão, o recurso especial interposto não afronta a Súmula 7/STJ, devendo ser recebido e acolhido o presente embargos de declaração, para que as infrações aos dispositivos legais apontados no recurso especial sejam interpretadas e julgadas por esta e. Corte Federal, com vias de reformar o entendimento do Tribunal de origem" (fl. 1.213).
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, a decisão embargada registrou que "o recurso especial restou inadmitido por não configurada violação aos arts. 489, 492 e 1.022 do CPC/2015 e pela incidência da Súmula 7/STJ, conforme os precedentes transcritos na decisão agravada. Ocorre que a parte agravante não impugnou os fundamentos da decisão agravada, especialmente, a incidência do óbice da Súmula 7/STJ, circunstância que impede o conhecimento do agravo" (fl. 1.208).
+Assim, evidencia-se não ter ocorrido omissão, tampouco falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
