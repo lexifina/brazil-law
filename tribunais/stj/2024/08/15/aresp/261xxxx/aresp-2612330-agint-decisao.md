@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por OAS EMPREENDIMENTOS S.A. e outra contra decisão de relatoria da Presidência desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado por incidência da Súmula nº 182/STJ.
+Nas razões do presente inconformismo, alegam que impugnaram especificamente todos os fundamentos da decisão de admissibilidade do recurso especial.
+É o relatório.
+DECIDO.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão ora recorrida (e-STJ, fls. 605/606) e passo a novo exame do recurso interposto.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Irresignadas, OAS EMPREENDIMENTOS S.A. e outra interpuseram recurso especial com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 49 e 50 do CC; 1.016 do CC e 28 do CDC, além de dissídio jurisprudencial, ao argumento de que, mesmo considerando a relação de consumo entre as partes, a desconsideração da personalidade jurídica não pode se dar com lastro em alegações genéricas, mormente porque não haveria obstáculo para ressarcimento dos prejuízos causados aos consumidores.
+Aduziram, em suas razões recursais, que não foi demonstrado o preenchimento dos requisitos específicos para desconsideração da personalidade jurídica, no presente caso.
+Da desconsideração da personalidade jurídica
+OAS EMPREENDIMENTOS S.A. e outra interpuseram recurso especial com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 49 e 50 do CC; 1.016 do CC e 28 do CDC, além de dissídio jurisprudencial, ao argumento de que, mesmo considerando a relação de consumo entre as partes, a desconsideração da personalidade jurídica não pode se dar com lastro em alegações genéricas, mormente porque não haveria obstáculo para ressarcimento dos prejuízos causados aos consumidores.
+Aduziram, em suas razões recursais, que não foi demonstrado o preenchimento dos requisitos específicos para desconsideração da personalidade jurídica, no presente caso.
+Contudo, verifica-se que o TJSP se pronunciou sobre a controvérsia da seguinte forma:
+De fato, a existência de bens passíveis de penhora, em tese, impediria a desconsideração da personalidade jurídica das empresas devedoras, na medida em que a regra é a autonomia patrimonial e a preservação do patrimônio dos sócios.
+No caso, todavia, restaram infrutíferas as inúmeras tentativas da credora em encontrar bens passíveis de penhora. Todos os ofícios enviados aos órgãos oficiais tornaram negativos.
+Por se tratar de relação de consumo, aplica-se ao caso a chamada Teoria Menor da Desconsideração, que pode se dar sempre que a personalidade jurídica for, de alguma forma, obstáculo ao ressarcimento de prejuízos causados aos consumidores (art. 28, §5º, CDC), destacando-se que a norma jurídica a ser aplicada pelo julgador independe de pedido expresso nesse sentido. Basta que o autor indique as razões que entendem cabíveis para justificar seu pedido.
+(..)
+A agravada (OAS 06) faz parte de um conglomerado, cuja controladora é o GRUPO OAS e que, apesar de atuarem todas o mesmo ramo de atividade (construção de imóveis), instituem uma SPE para cada empreendimento, visando à proteção do patrimônio. Há fortes elementos de que essa medida de proteção funciona, de fato, como subterfúgios e tentativas de deliberada intenção de ocultar e blindar o patrimônio comum do grupo econômico, furtando-se a responder pela má administração das demais obras e à satisfação do crédito dos consumidores lesados.
+Valem-se ou valeram-se em algum momento, ademais, de mesmo endereço comercial, dos mesmos meios eletrônicos de divulgação e comercialização dos empreendimentos e de cruzamento de participação acionárias e de diretoria, sendo, no mínimo, estranho que a executada, como parte de um grupo econômico de tamanha envergadura, não possua numerário em instituição financeira para satisfazer a presente dívida. Verifica-se, ademas, a confusão patrimonial quando verificado que, nos autosdosprocessos0043586-20.2019.8.26.0100e 1076134-86.2016.8.26.0100, as dívidas da OAS 06 e da OAS 40,respectivamente, foram pagas por meio de conta bancária da OAS
+(..)
+Nesse cenário, é de rigor a inclusão das empresas OAS Empreendimentos S/A e OAS Imóveis S/A na demanda, por conta da desconsideração da personalidade jurídica e do reconhecimento de grupo econômico (e-STJ, fls. 502/505).
+Rever as conclusões do acórdão recorrido quanto aos requisitos para o deferimento da desconsideração da personalidade jurídica, no presente caso, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Salienta-se que, de acordo com o pacífico entendimento desta Corte Superior, os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi d ada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. RELAÇÃO DE CONSUMO. REQUISITOS. PREENCHIMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
