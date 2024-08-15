@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por LUCIENE BATISTA DE BARROS  contra  a  decisão  do  TRIBUNAL  DE  JUSTIÇA  DO  DISTRITO FEDERAL E DOS TERRITÓRIOS  que  inadmitiu  recurso  especial,  interposto  com  fundamento  no  artigo  105,  inciso  III,  alíneas  "a"  e "c"  da  Constituição  Federal,  nos  autos  de  Apelação  Criminal  n.  0706589-88.2020.8.07.0003,  em  acórdão  assim  ementado  ( fl.  487):
+Furto qualificado. Concurso de agentes. Crime impossível. Arrependimento posterior. Substituição da pena privativa de liberdade por restritivas de direitos. Pena-base. Fração. Falta de interesse em recorrer.
+1 - O fato de a ação criminosa ser monitorada pela supervisora do estabelecimento comercial vítima de furto, por meio de câmeras de segurança, não torna impossível o crime, que ocorre com a inversão da posse dos bens, ainda que não tenha sido mansa, pacífica e "desvigiada".
+2 - Não há arrependimento posterior se os produtos subtraídos não foram restituídos de forma voluntária -- a ré foi presa em flagrante na posse desses, que foram restituídos, pela polícia, ao estabelecimento comercial vítima do furto.
+3 - A pena privativa de liberdade pode ser substituída por restritivas de direitos se o crime não foi cometido com violência ou grave ameaça à pessoa, a ré é primária, as circunstâncias judiciais são favoráveis e a pena é inferior a 4 anos de reclusão (art. 44,CP).
+4 - Não há interesse em recorrer para que incida a fração de aumento de 1/6 da pena mínima por circunstância desfavorável se essa foi a fração adotada pela sentença.
+5 - Apelações da primeira ré provida em parte e da segunda ré não provida.
+Os embargos de declaração opostos foram desprovidos (fls. 537-548).
+Consta dos autos que a  agravante  foi  condenada  à  pena  de  02  (dois)  anos , 08 (oito) meses e 20 (vinte) dias de  reclusão,  em  regime  semiaberto,  pela  prática  do crime  previsto no artigo 155, § 4º, IV, do Código Penal.
+A  Corte  de  origem  negou provimento ao recurso de apelação interposto pela defesa (fls.  486-489).
+Nas  razões  do  recurso  especial,  a  agravante  alega ofensa do artigo 386, inciso III, do Código Penal, além de divergência jurisprudencial, defendendo,  em  síntese,  a possibilidade de aplicação do princípio da insignificância ao caso (fls. 570-579).
+Requer  o provimento do recurso especial, com sua consequente absolvição.
+Contrarrazões  apresentadas  às  fls.  585-588.
+O  Tribunal  a  quo  inadmitiu  o  apelo  especial  ante  a incidência da Súmula 7/STJ e ausência de comprovação da divergência (fls. 598-601),  fundamento s  contra  o s  quais  se  insurge  a  parte  agravante  (fls.  612-620).
+Parecer  do  Ministério  Público  Federal  pelo  não provimento do agravo,  exarado  às  fls.  639-646.
+É  o  relatório.
+DECIDO.
+O cotejo entre a decisão de inadmissibilidade e as razões do presente agravo revela a ausência de impugnação específica a todos os fundamentos adotados para inadmissão do recurso especial, em especial à incidência da Súmula n. 7 do STJ.
+Com efeito, em atinência ao referido óbice, a agravante limitou-se a afirmar, genericamente, que tratava-se de requalificação (revaloração) jurídica de fatos incontroversos, amplamente debatidos nas instâncias ordinárias (fl. 618); abstendo-se de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão atacado .
+Como se sabe,
+são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (AgRg no AREsp n. 2.176.543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/9/2023).
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, julgado em 27/09/2022, DJe de 30/09/2022.).
+4. Agravo regimental desprovido (AgRg no AREsp n. 2.422.499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024 - grifamos).
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+Com igual conclusão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO. OFENSA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. MINUTA DE AGRAVO QUE NÃO INFIRMOU, DE FORMA CONCRETA E INDIVIDUALIZADA, TODOS OS FUNDAMENTOS DECLINADOS NA DECISÃO DE INADMISSÃO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. A prolação de decisão monocrática não conhecendo do agravo em recurso especial é permitida no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade. 2. Não houve concreta impugnação de todos os fundamentos declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida. 3. Agravo regimental desprovido (AgRg no AREsp n. 1.871.630/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/02/2023, DJe de 23/02/2023 - grifamos).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
