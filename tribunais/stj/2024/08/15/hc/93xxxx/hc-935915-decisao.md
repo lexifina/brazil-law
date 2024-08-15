@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Damiao Lima dos Santos, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de São Paulo, que denegou o Habeas Corpus criminal n. 197542-55.2024.8.26.0000, mantendo a prisão preventiva do paciente, imposta pelo Juízo da 3ª Vara Criminal da comarca de Jundiaí/SP, pela suposta prática do crime de tráfico de drogas.
+Neste writ, sustenta a defesa constrangimento ilegal na manutenção da medida constritiva, visto que carente de fundamentação concreta a justificar a medida.
+Discorre sobre a possibilidade da substituição da prisão preventiva por outras medidas cautelares.
+Requer, assim, a concessão definitiva da ordem de habeas corpus para que seja concedida a liberdade provisória para que responda ao processo em liberdade, fixando, se o caso, medidas cautelares diversas da prisão, nos termos do art. 319 do Código de Processo Penal, confirmando-se, ainda, o pedido liminar (fl. 8).
+É o relatório.
+Infere-se do decreto prisional (fls. 48/49):
+ ..
+Feitas tais considerações, observo que a despeito da primariedade, com ele foram apreendidas exorbitantes quantidades de porções de entorpecentes ( mais de 300 porções), demonstrando não ser ele mero neófito na prática do tráfico e seu elevado envolvimento com esta prática delitiva, razão por que, entendo presentes os requisitos do artigo 312 do Código de Processo Penal, e não vislumbro suficiência, ao caso, de outras medidas cautelares que não a prisão preventiva. E o caso, pois, como ora se determina, de formalização da prisão em flagrante, convertendo-se-a em prisão preventiva, com expedição de mandado de prisão.
+A Corte estadual destacou que (fl. 75):
+ ..
+Exsurge das informações prestadas nos autos que o paciente foi preso em flagrante pela suposta prática do crime previsto no artigo 33, "caput", da Lei nº 11.343/06, por fatos ocorridos em 04/07/2024. Na ocasião, DAMIÃO foi flagrado pelos policiais militares em poder 05 (cinco) porções de haxixe, 81 (oitenta e uma) porções de maconha, 142 (cento e quarenta e duas) porções de "crack" e 68 (sessenta e oito) porções de cocaína, além de R$286,00 (duzentos e oitenta e seis reais) em dinheiro.
+ ..
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+E, de fato, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida, bem como o risco de reiteração delitiva, podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+Contudo, in casu, verifico ser desproporcional a imposição de prisão preventiva; crime cometido sem violência, e a quantidade de droga apreendida não se mostra expressiva a justificar a medida mais gravosa - 5 porções de haxixe, 81 porções de maconha, 142 porções de crack e 68 porções de cocaína (fl. 75). Portanto, a gravidade da infração deve ser avaliada com base na quantidade e no contexto das drogas apreendidas.
+A prisão preventiva deve ser a última ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso. A imposição direta da medida mais gravosa, sem a devida análise dos fatores mencionados, pode ser considerada desproporcional e, portanto, contrária aos princípios constitucionais.
+Necessário haver uma gradação proporcional ao fato em questão, não apenas a imposição direta da cautelar mais grave.
+A corroborar: AgRg no HC n. 821.552/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 18/4/2024; e AgRg no RHC n. 186.743/MG, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 21/12/2023.
+Ante o exposto, concedo liminarmente a ordem para cassar o acórdão impugnado e substituir a prisão preventiva por medidas cautelares a serem implementadas e especificadas pelo Juízo de origem, sem prejuízo da decretação da prisão preventiva em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE NÃO EXPRESSIVA DE ENTORPECENTES. SUBSTITUIÇÃO POR CAUTELARES. PROPORCIONALIDADE E LEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
