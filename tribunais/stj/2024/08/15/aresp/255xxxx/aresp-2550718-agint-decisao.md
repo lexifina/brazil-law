@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interno interposto por ESTADO DA PARAÍBA contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial (fls. 187-190).
+Nas razões do agravo, pondera a parte agravante (fls. 227-228):
+O tema relativo à prescrição do FGTS, muito embora tenha sido fixado pelo FGTS no julgamento do Agravo n. 709.212-RG não se restringe à temática constitucional.
+Primeiro porque a questão foi decidida a partir da análise dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990, bem como do artigo 1º do Decreto nº 20.910/32, que trata da prescrição das dívidas e do direito de ação contra os Estados.
+Portanto, das próprias razões do recurso especial pode-se verificar que a controvérsia é de índole infraconstitucional, uma vez que se resume a questão relativas a leis infraconstitucionais.
+ ..
+Caso esse entendimento não prevaleça, o recurso especial não pode ser simplesmente trancado no âmbito do STJ, mas sim, enviado ao STF para a devida apreciação da suposta questão constitucional, tendo em vista a nova ordem processual instituída pelo CPC/2015, que introduziu o livre trânsito de recursos entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, tendo em vista a função que essas cortes têm de dar unidade ao Direito.
+Nos termos do art. 1.032, do CPC/2015, cabe ao relator, ao invés de não conhecer do recurso especial, abrir prazo de 30 dias (Fazenda Pública) para que o recorrente demonstre a existência de repercussão geral e se manifeste quanto à questão constitucional, confira-se:
+"Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça".
+ ..
+Já no que diz respeito à divergência jurisprudencial ao contrário do afirmado na r. decisão recorrida, foi feita com a indicação do acórdão paradigma (REsp 1107970PE), citando-se o trecho do voto divergente, comparando-o com o voto proferido pelo TJPB (fls. 175/185), dissertou-se acerca da identidade da moldura fática e de direito do acórdão recorrido e do precedente deste Superior Tribunal de Justiça, demonstrando que foi dada solução jurídica diversa para situações idênticas.
+Ora, o recorrente indicou minuciosamente as circunstâncias que identificam e assemelham os casos confrontados, realizando o cotejo analítico nos exatos termos como exigido pelo art. 541, parágrafo único do CPC e art. 255 do RISTJ.
+Afinal, se isso não for demonstrar satisfatoriamente o cotejo analítico, mister que essa Corte de Justiça emita pronunciamento objetivo e esclarecedor acerca do que, enfim, considera ser, de fato, cotejo analítico nos moldes pretendidos pelos Exmo. Ministros, além do que já regulamentado no CPC e no RISTJ.
+Decorrido o prazo para a apresentação de contraminuta ao agravo interno (fl. 240).
+Determinada a distribuição do agravo interno (fl. 242).
+É o relatório.
+Decido.
+O agravo merece ser provido parcialmente.
+Na origem, a apelação promovida pela parte agravante, sob o fundamento de que a prescrição trintenária não se aplica ao agente público com vínculo jurídico-administrativo, de caráter temporário, devendo-se aplicar prazo quinquenal previsto no art. 1º do Decreto n. 20.910/1932.
+Inicialmente, quanto à conclusão pelo fundamento eminentemente constitucional da razão de decidir do acórdão do Tribunal de origem, não há retoques a serem feitos aos fundamentos da decisão atacada.
+Isso porque o Tribunal de origem aplicou o entendimento constante no precedente do Supremo Tribunal Federal (ARE n. 709.212) para fundamentar sua decisão e solucionar a controvérsia (fls. 135-136, grifos no original):
+No que se refere à prescrição, o tema foi objeto de apreciação pela Corte Constitucional no (Recurso Extraordinário com Agravo) - que, além de declarar ARE nº 709.212 inconstitucional os artigos 23, § 5º, §5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990, na parte em que ressalvam o privilégio do FGTS à prescrição trintenária, modulou o efeito ex nunc, conforme julgado que transcrevo:
+Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento. (ARE 709212, Relator (a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 13/11/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-032 DIVULG 18-02-2015 PUBLIC 19-02-2015).
+O contexto do julgado estabelece o seguinte: a) prescrição trintenária inteiramente consumada antes de 13 de novembro de 2014, data em que o STF julgou o tema 608; b) prescrição trintenária, nos casos em que já tiver transcorrido mais de 25 anos da lesão, até 13/11/2014; c) prescrição quinquenal, nos casos em que não houver transcorrido 25 anos da lesão, até 13/11/2014 e, por fim, d) prescrição quinquenal, nos casos em que a lesão seja posterior a 13/11/2014.
+Nesse cenário, como o termo inicial da prescrição data de 10/04/1985 (data da contratação declarada nula), em 13 de novembro de 2014 havia transcorrido cerca de 29 (vinte e nove) anos, motivo pelo qual deve ser aplicada a prescrição trintenária.
+Assim, incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Ressalte-se que tal óbice é aplicado tanto pela alínea a, quanto pela alínea c, do permissivo constitucional.
+Entretanto, em relação à questão da aplicação do princípio da fungibilidade para manifestação sobre matéria constitucional, conforme prevê o art. 1.032 do CPC, assiste razão à parte agravante.
+Nos termos do art. 1.032 do CPC:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
+Na espécie, considerando a adoção do atual Estatuto Processual, aplica-se o disposto no seu art. 1.032, já que o recorrente não interpôs recurso extraordinário.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. LEGITIMIDADE PASSIVA. QUESTÃO SOLUCIONADA COM BASE EM DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. ART. 1.032 DO CPC. NÃO CABIMENTO. LITISCONSÓRCIO PASSIVO E RESPONSABILIDADE PELOS CUSTOS DE ARMAZENAMENTO DE AGROTÓXICOS. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF.
+1. O recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado a revisar acórdão com base em fundamentos eminentemente constitucionais, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+2. A regra contida no art. 1.032 do CPC diz respeito à hipótese em que parte recorrente, por equívoco, maneja recurso especial visando a atacar fundamento constitucional existente no acórdão recorrido, o que não é o caso dos autos, haja vista que houve também a interposição de recurso extraordinário.
+3. O recurso especial deixou de impugnar fundamento basilar que ampara o acórdão recorrido, situação que atrai a aplicação do óbice previsto na Súmula 283/STF.
+4. Agravo interno não provido. (AgInt no REsp n. 1.895.280/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/5/2024, DJe de 16/5/2024.)
+TRIBUTÁRIO. PROCESSO CIVIL. DIFAL. ICMS. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. ART. 1.032 DO CPC. INAPLICÁVEL.
+1. A questão referente à incidência do diferencial da alíquota de ICMS foi decidida pelo Tribunal de origem à luz de fundamentos eminentemente constitucionais (EC 87/2015, art. 155 da CF e Tema 1.093/STF), matéria insuscetível de revisão na via especial.
+2. Inaplicável a regra contida no art. 1.032 do CPC, porquanto a parte ora agravante também interpôs recurso extraordinário contra o acórdão recorrido.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.412.920/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao agravo interno para que se determine a intimação da parte recorrente a fim de que, no prazo legal, demonstre a existência de Repercussão Geral e se manifeste sobre a questão constitucional. Caso exerça o direito, deve o recorrido ser intimado para, querendo, complementar as contrarrazões ao recurso. Após, o recurso deve ser enviado ao Supremo Tribunal Federal para juízo de admissibilidade.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AGENTE PÚBLICO. PRAZO PRESCRICIONAL. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ÓBICE À ANÁLISE DO RECURSO ESPECIAL. FUNGIBILIDADE PREVISTA NO ART. 1.032 DO CPC. AUSÊNCIA DE INTEPOSIÇÃO DE RECURSO EXTRAODINÁRIO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
