@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por IGREJA VIDEIRA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/03/2024.
+Concluso ao gabinete em: 03/06/2024.
+Ação: usucapião, ajuizada por MARIA JOSÉ DE OLIVEIRA, em face de MALONI ENGENHARIA, COMÉRCIO E INDÚSTRIA LTDA.
+Sentença: julgou improcedente o pedido da inicial, nos termos do artigo 487, inciso I, do Código de Processo Civil e, em razão da sucumbência, condenou MARIA JOSÉ DE OLIVEIRA ao pagamento das custas e dos honorários, os quais foram fixados em 10% do valor atualizado da causa.
+Acórdão: negou provimento à Apelação interposta por MARIA JOSÉ DE OLIVEIRA, nos termos da seguinte ementa:
+"Apelação Cível. Ação de usucapião. Improcedência do pedido. Princípio da dialeticidade recursal. Não violado. Usucapião extraordinária. Requisitos. Posse contínua com animus domini. Não demonstrada. Ônus da prova imputado ao autor. Improcedência dos pedidos. Manutenção da sentença. 1. Apresentando a apelante os fundamentos de fato e de direito, com o intuito de reformar o ato judicial objurgado, não há falar-se em ausência de impugnação específica aos fundamentos da sentença. 2. O art. 1.238 do CC estabelece que são requisitos, para o reconhecimento da usucapião extraordinária, a posse contínua e incontestada, com ânimo de dono e o decurso de quinze anos ou dez, caso comprovado que o possuidor estabeleceu no imóvel sua moradia habitual ou nele realizou obras ou serviços de caráter produtivo. 3. Conforme o art. 373, inciso I do CPC, é ônus da parte autora a efetiva comprovação dos fatos constitutivos do seu direito. 4. Se não restou comprovada de forma inequívoca a posse com animus domini, a manutenção da improcedência do pedido inicial é medida que se impõe. 5. Em razão do não acolhimento das teses recursais devem os honorários serem majorados. Apelação conhecida e desprovida. Sentença mantida." (e-STJ fl. 582)
+Embargos de Declaração: opostos, por MARIA JOSÉ DE OLIVEIRA, foram acolhidos, com efeitos infringentes, para suprir a omissão apontada e julgar procedente o pedido inicial, reconhecendo o direito da embargante à percepção do título de domínio sobre o imóvel, pela usucapião, invertendo-se os ônus sucumbenciais (e-STJ fl. 646/655); opostos, por IGREJA VIDEIRA, foram acolhidos, sem efeitos infringentes, apenas para sanar a omissão sobre a insurgência quanto aos limites do imóvel usucapido (e-STJ fl. 728/741); opostos, por MARIZETE MARLENE VIEIRA MIJOLARIO, HEINRICH MIJOLARIO e WELLINGTON MIJOLARIO, foram rejeitados (e-STJ fl. 728/741).
+Recurso especial: alega violação dos arts. 489, § 1º, IV, 1.022, II, CPC, sustentando que não houve a devida delimitação, metragem e confrontação da área requerida por usucapião. Ainda, defende que existem 02 (duas) sentenças e acórdãos (Recurso de Apelação) que foram desfavoráveis à MARIA JOSÉ DE OLIVEIRA, portanto não era necessária a delimitação da área naquelas oportunidades, porém, a partir do momento em que foi julgado procedente o pedido de MARIA JOSÉ DE OLIVEIRA, deveria haver a devida delimitação, metragem e confrontação da área requerida por usucapião, sendo inclusive um dos requisitos da referida ação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência de requerimentos por parte da agravante para provar o alegado (Art. 373, II, CPC), de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de usucapião.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Agravo conhecido. Recurso especial conhecido e não provido.
