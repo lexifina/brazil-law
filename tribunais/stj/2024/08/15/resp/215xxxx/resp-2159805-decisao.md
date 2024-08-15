@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A.(AMIL), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Des. COSTA NETTO, assim ementado:
+APELAÇÃO - PLANO DE SAÚDE - Ação de obrigação de fazer. Beneficiária de plano de saúde com câncer de mama. Prescrição médica para utilização do fármaco Abemaciclibe 150mg. Recusa indevida. Sentença de procedência. Insurgência das partes. Valor da causa que deve representar o proveito econômico decorrente do valor do medicamento pelo prazo total do tratamento, no caso 24 meses. Honorários advocatícios que devem ser arbitrados com base nos critérios do art. 85 do CPC. Sentença parcialmente reformada. Recurso da autora provido, desprovido o do réu (e-STJ, fl. 488.).
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls. 510/512.).
+Nas razões do presente recurso, AMIL alegou a violação dos arts. 85 e 1.022 do CPC; 10, §4º da Lei n. 9.656/98; 421, 421-A do CC; ao sustentar que (1) negativa de prestação jurisdicional; (2) que não está obrigada a custear o tratamento requerido que não consta do rol taxativo da ANS; e que (3) descabe a fixação da verba honorária sobre o pretenso valor da causa baseado no valor do procedimento médico.
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+(1) Da violação ao art. 1.022, II, do NCPC
+Não se verifica, no caso, a alegada vulneração do referido dispositivo legal, porquanto a Corte bandeirante apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Afasta-se, portanto, a prefacial.
+(2) Do dever de cobertura e da comprovação do procedimento
+Nas razões do presente recurso, AMIL alegou, em síntese, que não está obrigada a custear o tratamento requerido, pois não consta do rol taxativo da ANS.
+A este respeito, o acórdão impugnado consignou o seguinte:
+É incontroverso que as partes firmaram contrato de prestação de serviços de saúde, em que havia cobertura para o tratamento da doença da autora.
+A autora foi diagnosticada com câncer de mama, juntou documentos, comprovando que houve indicação médica expressa para realização do tratamento utilizando o medicamento pleiteado, nos exatos termos do seu requerimento (fls.58).
+É entendimento do Superior Tribunal de Justiça que, havendo previsão para cobertura de determinada doença, não cabe ao plano de saúde estabelecer o tipo de tratamento a que deverá se submeter o segurado, ficando tal indicação sob responsabilidade de profissional habilitado.
+Neste sentido, já é pacificado o entendimento deste E. Tribunal de Justiça que é abusiva a negativa de cobertura de custeio de tratamento sob o fundamento de sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS (Súmula nº 102 5 ).
+Deste modo, tratando-se de quadro grave e havendo relatório médico indicando o tratamento adequado, incabível a negativa do réu em realizar o tratamento na forma como indicado por profissional habilitado.
+Assim, existindo previsão contratual de cobertura de tratamento da doença e tendo sido este indicado por médico responsável, a recusa em autorizar o fornecimento de medicamento necessário à realização do tratamento, fere a própria natureza do contrato, em afronta ao disposto no art. 51, § 1º, II 6 , do Código de Defesa do Consumidor.
+Tal recusa subtrai do consumidor condição mais favorável de restabelecimento e de sobrevivência, o que demonstra situação de patente desvantagem, incompatível com a boa-fé ou equidade.
+Nesta linha, este E. Tribunal de Justiça editou a súmula 95 que assim estabelece: "havendo expressa indicação médica, não prevalece a negativa de cobertura do custeio ou fornecimento de medicamentos associados a tratamento quimioterápico" (e-STJ, fls. 490/492.).
+É assente no STJ o entendimento segundo o qual o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura, sendo abusiva a cláusula contratual que exclui tratamento, procedimento ou material imprescindível, prescrito para garantir a saúde ou a vida do beneficiário.
+Cabe, aqui, ressaltar que, no âmbito do REsp 1.733.013/PR, a eg. Quarta Turma firmou o entendimento de que o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Em tal precedente, contudo, fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS (AgInt no REsp n. 1.949.270/SP, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Assim, na hipótese de medicamento para o tratamento de câncer, esta Corte é firme no entendimento de que a ausência de previsão no rol da ANS não afasta do plano de saúde a obrigação de custear o referido tratamento, nos termos recomendados pelo médico assistente, com vistas à preservação da saúde do beneficiário se a doença é coberta contratualmente.
+A propósito, confiram-se os recentes precedentes:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ILEGALIDADE. MEDICAMENTO ANTINEOPLÁSICO ORAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Seria necessário o reexame dos fatos e das provas dos autos para alterar o entendimento do Tribunal de origem quanto à doença que atinge a paciente (câncer de ovário) e à necessidade do medicamento postulado para seu tratamento.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.890.823/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NEGATIVA DE COBERTURA DE MEDICAMENTO. TRATAMENTO DE CÂNCER. ADENOCARCINOMA DE PULMÃO. RECUSA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. É possível que o plano de saúde estabeleça as doenças que terão cobertura, mas não o tipo de tratamento utilizado, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para sua realização de acordo com o proposto pelo médico. Precedentes.
+3. No caso, trata-se de fornecimento de medicamento para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+4. Nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento do segurado, causando abalo emocional no segurado, como ocorrido no presente caso, a orientação desta Corte admite a caracterização de dano moral, não se tratando de mero aborrecimento. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.941.905/DF, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/11/2021, DJe de 3/12/2021 - sem destaques no original.).
+Dessa forma, forçoso concluir que a solução jurídica esposada pelo acórdão recorrido, no sentido de obrigar a operadora do plano de saúde ao fornecimento do tratamento em testilha, encontra-se em sintonia com o entendimento consolidado nesta Corte Superior, não merecendo, portanto, reparos.
+(3) Dos honorários advocatícios
+Quanto ao tema, o acórdão impugnado destacou o seguinte:
+No tocante aos honorários advocatícios, eles devem ser fixados com base nos critérios decorrentes do art.85, do CPC, cujo montante deve corresponder ao percentual sobre o valor da causa, que não é indeterminado.
+Igualmente, é assente no STJ que a obrigação de fazer que determina o custeio de tratamento médico por parte das operadoras de planos de saúde pode ser economicamente aferida.
+Assim, nas decisões que reconhecem o direito à cobertura e/ou ao reembolso de tratamento médico, os honorários advocatícios sucumbenciais incidem sobre a condenação à obrigação de fazer, equivalente ao valor despendido/reembolsado pela operadora com o tratamento do beneficiário.
+A propósito, confiram-se os recentes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. TRATAMENTO MÉDICO. DANO MORAL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. OBRIGAÇÃO DE FAZER. OBRIGAÇÃO DE PAGAR. QUANTIA CERTA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A obrigação de fazer que determina o custeio de tratamento médico por parte das operadoras de planos de saúde pode ser economicamente aferida, utilizando-se como parâmetro o valor da cobertura indevidamente negada. Precedentes.
+3. Nas sentenças que reconheçam o direito à cobertura de tratamento médico e ao recebimento de indenização por danos morais, os honorários advocatícios sucumbenciais incidem sobre as condenações ao pagamento de quantia certa e à obrigação de fazer.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.945.334/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022 - sem
+destaque no original)
+RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. NEGATIVA INDEVIDA DE COBERTURA DE TRATAMENTO. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO. DANO MORAL NÃO CONFIGURADO. CONDENAÇÃO À OBRIGAÇÃO DE FAZER. COBERTURA DE INTERNAÇÃO DOMICILIAR (HOME CARE). PROVEITO ECONÔMICO IMENSURÁVEL. CRITÉRIO PARA O ARBITRAMENTO DOS HONORÁRIOS DE SUCUMBÊNCIA. VALOR DA CAUSA. JULGAMENTO: CPC/2015.
+1. Ação cominatória c/c compensação por dano moral ajuizada em 17/10/2017, da qual foi extraído o presente recurso especial, interposto em 17/12/2019 e concluso ao gabinete em 19/11/2020.
+2. O propósito recursal é decidir sobre a configuração do dano moral e o critério para fixação dos honorários advocatícios de sucumbência.
+3. O descumprimento contratual, por parte da operadora de plano de saúde, que implica negativa ilegítima de cobertura para procedimento médico, somente enseja reparação a título de danos morais quando trouxer agravamento da condição de dor, abalo psicológico e prejuízos à saúde já debilitada do paciente. Precedentes.
+4. Segundo a jurisprudência das Turmas que compõem a Segunda Seção, o título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas as condenações.
+5. Quando o valor da cobertura indevidamente negada é imensurável no momento da fixação dos honorários advocatícios de sucumbência, assim ocorrendo nos tratamentos continuados, por prazo indefinido, o critério para o seu arbitramento, seguindo a ordem de preferência estabelecida pela Segunda Seção, deve ser o do valor da causa.
+6. Recurso especial conhecido e desprovido, com majoração de honorários.
+(REsp n. 1.904.603/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO (CPC, ART. 85, § 2º). AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ manifesta-se no sentido de que a condenação na obrigação de fazer ostenta benefício econômico, que se consubstancia no valor da cobertura indevidamente negada, e, portanto, deve ser incluída na base de cálculo da verba honorária fixada em percentual sobre a condenação.
+2. Na espécie, a demanda ostenta caráter condenatório, pois a operadora de plano de saúde foi condenada ao custeio do procedimento médico e ao pagamento de compensação por danos morais. Dessa forma, os honorários advocatícios sucumbenciais devem ser fixados sobre o valor total da
+condenação, consoante a regra do art. 85, § 2º, do CPC/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.949.138/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022 - sem destaque no original)
+Além disso, esta Corte já proclamou que sendo mensurável, ainda que somente em liquidação, devem os honorários serem fixados com base no valor da condenação ou do proveito econômico obtido pela parte vencedora (AgInt no AgInt no AREsp n. 2.058.711/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Nessas condições, CONHEÇO, em parte, do recurso especial e, nessa extensão, dou-lhe parcial provimento para estabelecer que a base de cálculo dos honorários advocatícios deve ser o proveito econômico auferido.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO DE CÂNCER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICAÇÃO. RECUSA. ROL DE PROCEDIMENTOS DA ANS. DESIMPORTÂNCIA. PRECEDENTES DO STJ. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONOMICO RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
