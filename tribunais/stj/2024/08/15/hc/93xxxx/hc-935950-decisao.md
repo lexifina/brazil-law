@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de JOSIANE MAYARA DE CALDAS RODRIGUES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Habeas Corpus - Execução Penal - Insurgência contra o indeferimento do pedido de prisão domiciliar pelo Juízo da condenação, depois desta ter se tornado definitiva, com a superveniência do trânsito em julgado, e da expedição do mandado de prisão para o início do cumprimento da pena privativa de liberdade - Alegação de que a paciente possui um filho menor de 12 anos e está grávida - Inadmissibilidade Exaurimento da jurisdição do Juízo da condenação - Inidoneidade do meio para a análise de matéria de execução de pena - Pretensão, ademais, não manifestada, por primeiro, ao Juízo competente, qual seja o da Vara das Execuções Criminais - Não conhecimento da ação constitucional O Juízo das Execuções Criminais é o competente para conhecer e julgar os incidentes da execução (cf. art. 66, III, "f", da Lei 7.210/84), afigurando-se descabida a pretensão manifestada diretamente nesta Corte de Justiça, antes de sua submissão ao Juízo competente - A ação constitucional, portanto, não é de ser conhecida, máxime por afronta ao princípio do juiz natural (art. 5º, LIII, CF). Habeas corpus não conhecido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que foram atendidos os requisitos necessários para concessão do benefício de prisão domiciliar à paciente, por ser mãe de filho menor de 12 anos e estar grávida, devendo ser observado o melhor interesse da criança, a qual estaria com transtornos psicológicos pela ausência da mãe.
+Requer, em suma, que seja concedida a prisão domiciliar à paciente.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe hab eas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Do que consta dos autos, a matéria relativa à concessão da prisão domiciliar não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental provido. (AgRg no HC n. 796.267/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS ANTECIPADAS E MONITORAMENTO ELETRÔNICO. SUPRESSÃO DE INSTÂNCIA. TUTELA COLETIVA NA VIA DO HABEAS CORPUS. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO DO AGRAVO.
+1. Inviável o exame por este Sodalício do pleito de saídas temporárias e monitoramento eletrônico, sob pena de indevida supressão de instância, uma vez que a tese não foi examinada pelo Colegiado a quo no acórdão atacado.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 766.081/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 28/3/2023.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/6/2023; RCD no HC n. 787.115/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2023; AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 6/3/2023.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
