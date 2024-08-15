@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE CARLOS DOMINGOS FERREIRA contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 0000795-95.2007.4.01.4300.
+Em suas razões, o agravante limita-se a reiterar as teses meritórias já expostas nas razões do recurso especial (fls. 1541-1568).
+Contrarrazões às fls. 1570-1581.
+Às fls. 1591-1597 vieram aos autos pedido de declaração da prescrição da pretensão punitiva, pela prescrição in concreto.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo e pela concessão de ordem de habeas corpus de ofício a fim de que seja declarada extinta a punibilidade pela prescrição (fls. 1606-1614).
+É o relatório.
+DECIDO.
+O agravo não pode ser conhecido.
+A Corte de origem inadmitiu o recurso especial diante dos óbices contidos nas Súmulas n. 7 e 211 do STJ (fls. 1534-1536). Nas razões do agravo, contudo, a parte deixou de impugnar a incidência dos referidos impedimentos.
+Com atinência à refutação do verbete sumular de número 7 desta Corte Superior, o agravante deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+Como se sabe, "são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/9/2023), o que não se verifica na hipótese.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍF ICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, julgado em 27/09/2022, DJe de 30/09/2022.).
+4. Agravo regimental desprovido. (AgRg no AREsp 2422499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024 - grifamos)
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+Com igual conclusão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO. OFENSA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. MINUTA DE AGRAVO QUE NÃO INFIRMOU, DE FORMA CONCRETA E INDIVIDUALIZADA, TODOS OS FUNDAMENTOS DECLINADOS NA DECISÃO DE INADMISSÃO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática não conhecendo do agravo em recurso especial é permitida no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade.
+2. Não hou ve concreta impugnação de todos os fundamentos declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+3. Agravo regimental desprovido. (AgRg no AREsp 1871630/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023 - grifamos)
+Não obstante, verifico que a pretensão punitiva, pela pena em concreto, encontra-se prescrita, sendo mister a declaração da extinção da punibilidade, ainda que de ofício, conforme autorizam os arts. 61 e 647-A, parágrafo único, do Código de Processo Penal.
+Na espécie, o Tribunal de origem negou provimento ao apelo defensivo e proveu em parte o ministerial para, mantida a condenação pela prática do crime descrito no art. 1º, inciso I, do Decreto-Lei n. 201/1967, fixar a pena de cada um dos crimes integrantes da continuidade delitiva em 02 (dois) anos, 07 (sete) meses e 06 (seis) dias de reclusão.
+Contra o acórdão apelatório se insurgiu apenas a Defesa. De fato, havendo o Parquet declarado ciência do julgado de fls. 1447-1469 em 21/01/2024 (fl. 1474) dele não se insurgiu.
+Ocorre que, nos termos dos art. 110, § 1º, c/c o art. 119, ambos do Código Penal, após o trânsito em julgado para a Acusação, a prescrição regula-se pelo quantum da pena imposta - individualmente - para cada um dos crimes perpetrados em concurso.
+Assim, fixada pena superior a 02 (dois) anos e inferior a 04 (quatro) anos, a prescrição da pretensão punitiva, na modalidade retroativa, ocorre em 08 (oito) anos.
+Ocorre que, recebida e denúncia em 04/02/2007 (fl. 709) e publicada a sentença condenatória em 29/07/2016 (fl. 1342), entre os marcos interruptivos previstos no incisos I e IV do art. 117 do Código Penal transcorreu prazo superior que o previsto no art. 109, inciso IV, do referido codex, motivo pelo qual extinta encontra-se a punibilidade da condutas objeto de imputação nestes autos.
+Ante o exposto, não conheço do agravo em recurso especial e, com fundamento nos arts. 109, inciso IV; 110, § 1º; 117, incisos I e IV, do Código Penal, bem como nos arts. 61 e 647-A, parágrafo único, do Código de Processo Penal, declaro extinta a punibilidade do acusado Jose Carlos Domingos Ferreira, pela prescrição da pretensão punitiva, relativamente às condutas objeto de imputação nos autos da Ação Penal n. 2007.43.00.000795-8, que tramitou perante a 4ª Vara Federal Criminal da Seção Judiciária do Estado do Tocantins.
+Publique-se. Intimem-se.
+ EMENTA
