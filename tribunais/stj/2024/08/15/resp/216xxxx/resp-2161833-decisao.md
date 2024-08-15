@@ -1,0 +1,6 @@
+DECISÃO
+Verifica-se que o Supremo Tribunal Federal reconheceu a repercussão geral do tema pertinente à hipótese em tela, "saber se o profissional da educação escolar pública contratado em regime temporário tem direito à complementação de remuneração do piso salarial para os profissionais do magistério público da educação básica", ARE 1.487.739/PE, julgado em 28/06/2024, DJe 23/07/2024 (Tema 1.308).
+Assim, em razão de economia processual e para se evitar a prolação pelo STJ de provimentos jurisdicionais em desconformidade com o que for definitivamente decidido pela Corte Suprema, é conveniente que a apreciação do recurso especial fique sobrestada até o exaurimento da competência do Tribunal de origem, que ocorrerá com o juízo de retratação ou de conformação a ser realizado pela instância ordinária, após o julgamento do recurso extraordinário sobre o mesmo tema afetado ao regime da repercussão geral, nos moldes dos arts. 1.040 e 1.041 do CPC.
+Ante o exposto, julgo prejudicado o recurso especial e determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou a manutenção do acórdão local frente ao que vier a ser decidido pela Excelsa Corte no referido Tema 1.308.
+Publique-se. Intimem-se.
+EMENTA
