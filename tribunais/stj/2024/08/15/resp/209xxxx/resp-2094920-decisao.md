@@ -1,0 +1,32 @@
+DECISÃO
+ Trata-se  de  recurso especial  interposto  pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO  contra  acórdão  do  eg. Tribunal de Justiça daquela Unidade Federativa,  proferido  na  Revisão Criminal  n.  2272844-61.2022.8.26.0000.
+Em sede de apelação, a Corte bandeirante deu parcial provimento ao apelo defensivo para, afastada a majorante do uso de arma de fogo, condenar os acusados como incursos, por duas vezes, no art. 157, § 2º, inciso II, na forma do art. 70, ambos do Código Penal, às seguintes penas: i) Gustavo Hanrry Jaques Duarte e Matheus Gagliardi Silva a 04 (quatro) anos e 08 (oito) meses de reclusão e 20 (vinte) dias-multa, ii) Dennis Bruno de Souza Batista a 05 (cinco) anos, 05 (cinco) meses e 10 (dez) dias de reclusão e 22 (vinte e dois) dias-multa. Para todos os acusados foi estabelecido o regime inicial fechado (fls. 18-26).
+Transitada em julgado a condenação, a Defesa de Matheus Gagliardi Silva propôs revisão criminal a qual, deferida em parte, ensejou o afastamento da majorante do concurso de agentes - considerada no acórdão rescindendo como circunstância judicial negativa - sem, contudo, reflexo na pena do reeducando. Com espeque no art. 580 do CPP, a Corte estadual estendeu os efeitos do julgado aos corréus Gustavo e Dennis, contudo, apenas o último teve sua pena mitigada, restando condenado a 04 (quatro) anos e 08 (oito) meses de reclusão, além de 11 (onze) dias-multa (fls. 73-79).
+ Nas  razões  do  recurso  especial,  interposto com fundamento na alínea "a" do permissivo constitucional,  a  Defesa  alega  violação  do  art.  59 do  Código  Penal,  ao  argumento  de  que  o deslocamento de causas de aumento de pena do crime de roubo, da terceira para a primeira fase do sistema de concretização da pena, não viola a lei, mas sim assegura a correta concretização da reprimenda.
+Pondera que a utilização da circunstância do concurso de agentes em primeira fase foi devidamente justificada em sentença pela pluralidade de majorantes que, naquele momento, se reconhecera (fl. 94) e, ainda que afastada em grau de apelação a majorante do uso de arma de fogo, nada obsta que fosse mantido o agravamento da pena-base em face da pluralidade de delinquentes.
+Sem contrarrazões  (fl.  102).
+O  recurso  especial  foi  admitido  (fl.  105).
+A  Procuradoria-Geral  da  República  manifestou-se  pelo  provimento  do  recurso  (fls.  167-175).
+É  o  relatório.
+DECIDO.
+O recurso especial não preenche os requisitos de admissibilidade.
+Conforme se percebe das circunstâncias fático-processuais acima relatadas, a revisão criminar proposta na origem pelo recorrido Matheus Gagliardi Silva, embora tenha sido parcialmente deferida, não resultou na redução de sua pena, permanecendo aquelas já estabelecidas no acórdão apelatório, qual seja, 04 (quatro) anos e 08 (oito) meses de reclusão e 20 (vinte) dias-multa.
+Não se pode olvidar que a revisão criminal é via desconstitutiva do trânsito em julgado de édito condenatório que, por seu nítido caráter de favor rei, possui legitimidade restrita à defesa, ex vi do art. 623 do Código de Processo Penal.
+Mutatis mutandis, já decidiu este Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. CONFISSÃO QUALIFICADA. UTILIZAÇÃO PARA FUNDAMENTAR A CONVICÇÃO DO JULGADOR. ATENUAÇÃO DEVIDA. ART. 1.º, INCISO I, DA LEI N. 8.137/1990. PENA-BASE. VETOR NEGATIVO. PATAMAR DE AUMENTO. EXASPERAÇÃO. INVIABILIDADE. REFORMATIO IN PEJUS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Também pela vedação à reformatio in pejus, em decisão concessiva de habeas corpus, de ofício, nos autos de recurso especial defensivo interposto no bojo de revisão criminal, seria incabível majorar o patamar de aumento efetivado pelas instâncias ordinárias, em relação a cada vetor negativo.
+5. Agravo regimental desprovido. (AgRg no REsp 1796095/PE, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 01/12/2020, DJe de 16/12/2020)
+Por esse motivo, não sendo possível agravar a situação do reeducando em recurso especial interposto contra acórdão proferido em revisão criminal, para além dos patamares estabelecidos no acórdão revisado, ainda que se repute adequada tese jurídica externada nas razões do recurso especial, sua aplicação quanto à reprimenda corpórea não teria qualquer efeito prático, motivo pelo qual, nesse particular, não há interesse recursal, conforme exige o art. 577, parágrafo único, do Código de Processo Penal:
+Art. 577. O recurso poderá ser interposto pelo Ministério Público, ou pelo querelante, ou pelo réu, seu procurador ou seu defensor.
+Parágrafo único. Não se admitirá, entretanto, recurso da parte que não tiver interesse na reforma ou modificação da decisão.
+Nem mesmo em relação ao regime inicial seria possível, nesta via, alterar o quanto decido no acórdão guerreado.
+Com efeito, não obstante o julgado fustigado tenha alterado o regime inicial do recorrido Matheus, de fechado para o semiaberto, estendendo os feitos aos corréus, nas razões do apelo nobre o Parquet nada disse quanto ao ponto em questão. Desse modo, o conhecimento do recurso especial, nesse particular, encontra óbice na Súmula n. 283 do Supremo Tribunal Federal.
+A propósito: AgRg no REsp 2011531/SE, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024; DJe de 5/3/2024; AgRg no AREsp 2417244/MG, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 21/11/2023, DJe de 24/11/2023 e AgRg no REsp 2009842/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023.
+Finalmente, com relação ao reeducando Dennis Bruno de Souza Batista, o único dos coautores cuja pena restou mitigada pelo acórdão revisional, se bem analisadas as razões do apelo nobre, percebe-se que o Ministério Público não o inclui no polo passivo da via recursal.
+O despacho de fls. 128 teve como escopo apenas franquear a sempre salutar manifestação das defesas, não possuindo, contudo, o efeito de ampliar o efeito devolutivo do recurso especial, repita-se, interposto apenas em face do reeducando Matheus.
+De fato, o art. 580 do Código de Processo Penal é expresso em estatuir que no caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Ora, tratando-se de recurso especial aviado pela Acusação, não é possível estender seus efeitos a corréu ao qual não se direcionou a insurgência ministerial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.  Intimem-se.
+EMENTA
