@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, suscitado por SANATÓRIO BELÉM- MASSA INSOLVENTE e ESTEVEZ GUARDA ADMINISTRAÇÃO JUDICIAL LTDA. e suscitados o JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE - RS e o JUÍZO AUXILIAR DE EXECUÇÃO DA VARA DO TRABALHO DE PORTO ALEGRE - RS.
+Ação em trâmite no juízo cível: insolvência civil da primeira suscitante.
+Ação em trâmite no juízo trabalhista: regime especial de execução forçada ajuizada em face da suscitante.
+Conflito de competência: alegam, em síntese, a competência do juízo universal da insolvência para deliberar acerca de atos de execução relacionados à reclamações trabalhistas movidas contra a massa insolvente (e-STJ, fl. 14), bem como para administrar os valores oriundos das arrematações dos imóveis da massa. Requerem o deferimento da tutela de urgência "para determinar a suspensão do processo trabalhista nº 0021061-51.2018.5.04.0000, em trâmite junto ao Juízo Auxiliar de Execução do Tribunal Regional do Trabalho da 4ª região, bem como de todos os atos executórios, constritivos e de liberação de valores por aquele Juízo" (e-STJ, fl. 15).
+Tutela antecipada: deferida parcialmente, às fls. 51/52, e-STJ.
+Parecer do MPF: manifestou-se pela declaração da competência do juízo da insolvência civil.
+RELATADO O PROCESSO, DECIDE-SE.
+A jurisprudência desta Corte assinala que é competente o juízo onde se processa a insolvência civil para deliberar sobre atos de natureza constritiva dos bens do insolvente, mesmo que referentes a créditos apurados em outros juízos, como o trabalhista. A propósito: CC 19.049/PR, Segunda Seção, DJe 3/5/1999.
+Vale lembrar, ademais, que a Segunda Seção do STJ possui entendimento consolidado no sentido de que "compete ao Juízo universal da insolvência, em que se processa a liquidação de sociedade cooperativa, proceder à reunião e ao julgamento dos créditos advindos de execuções individuais, inclusive de crédito de natureza trabalhista, salvo se designado dia para praça ou leilão, caso em que a remessa será do produto dos bens" (AgInt nos EDcl na Pet no CC 158.595/RS, Segunda Seção, DJe 1/7/2019).
+Na hipótese, por um lado, depreende-se que a insolvência civil da suscitante foi decretada, pelo Juízo da Vara Region al Empresarial de Porto Alegre, tendo a administração judicial da massa dado início à arrecadação de ativos, bem como a elaboração do quadro geral de credores, com o objetivo de equalizar o passivo, nos limites de capacidade da massa.
+Por outro lado, constata-se que o juízo laboral suscitado consignou que os imóveis da devedora/suscitante, vendidos previamente à decretação da insolvência, não mais comporiam o seu patrimônio e, assim, que o produto da venda deveria ser mantido na execução reunida para fins de pagamento das dívidas trabalhistas.
+A decisão da Justiça Laboral, portanto, nos termos da orientação jurisprudencial desta Corte Superior, invadiu a esfera de competência do juízo da insolvência civil.
+Com efeito, não compete ao juízo diverso de onde tramita a insolvência civil da suscitante intervir no produto da alienação judicial de bem de sua titularidade, motivo pelo qual o conflito deve ser acolhido.
+Forte nessas razões, DECLARO COMPETENTE o JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE - RS para deliberar, em relação à execução trabalhista indicada na inicial, acerca do produto da alienação judicial de bem de titularidade da suscitante, o qual deve ser remetido para o juízo da insolvência.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZO DA INSOLVÊNCIA CIVIL E JUÍZO TRABALHISTA. COMPETÊNCIA DO JUÍZO DA INSOLVÊNCIA PARA A PRÁTICA DE ATOS DE EXECUÇÃO.
+1. A jurisprudência desta Corte consolidou-se no sentido de que é competente o juízo onde se processa a insolvência civil para deliberar sobre atos de natureza constritiva dos bens do insolvente, mesmo que referentes a créditos apurados em outros juízos, como o trabalhista.
+2. Conflito de competência conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA VARA REGIONAL EMPRESARIAL DE PORTO ALEGRE - RS.
