@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EMERSON DA SILVA BORBA, KATIELLY LUANA DA SILVA SANTOS e LUIS FELIPE SILVA DAS NEVES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que os pacientes foram condenados pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, sendo aplicadas as seguintes penas (fl. 4):
+a) Émerson da Silva Borba, à pena de 5 anos e 6 meses de reclusão e 550 dias-multa à razão unitária de 1/30 do salário mínimo vigente ao tempo dos fatos, em regime semiaberto;
+b) Katielly Luana da Silva dos Santos, à pena de 5 anos de reclusão e 500 dias-multa à razão unitária de 1/30 do salário mínimo vigente ao tempo dos fatos, em regime semiaberto;
+c) Luís Felipe Silva das Neves, à pena de 5 anos de reclusão e 500 dias-multa à razão unitária de 1/30 do salário mínimo vigente ao tempo dos fatos, em regime semiaberto.
+O Tribunal de origem deu parcial provimento ao recurso de apelação interposto pela defesa para reconhecer a causa de diminuição do tráfico privilegiado, redimensionando a pena dos acusados Emerson, Katielly e Luis Felipe para 4 anos, 2 meses, e 420 dias-multa.
+Neste writ, insurge-se a defesa contra a fração de redução pelo tráfico privilegiado, aplicada em 1/6.
+A impetrante sustenta que o acórdão recorrido inflige indevido constrangimento ilegal aos pacientes, consistente no excesso de pena, na medida em que não reconheceu a possibilidade de aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, em patamar máximo (fl. 9).
+Requer a incidência da fração máxima de 2/3, tendo em vista que não haveria fundamentação idônea a justificar a fixação de percentual menos favorável.
+É o relatório.
+A defesa requer o acréscimo no patamar máximo de 2/3, pela incidência do tráfico privilegiado, ante a desproporcionalidade da fração de 1/6, já que não apreendida quantidade exorbitante de entorpecente.
+Eis o que consta do acórdão recorrido (fl. 23 - grifo nosso):
+Para fins de determinar o quantum de diminuição da pena, o magistrado deve se pautar nos critérios constantes do art. 42 da Lei n. 11.343/06, quais sejam, natureza e quantidade da droga, personalidade e conduta social do agente, de modo que, no caso, tratando-se de entorpecentes em considerável quantidade e variedade, não se mostra razoável a fixação do redutor em seu máximo.
+A variedade, quantidade e alta lesividade de dois dos estupefacientes traficados "65 (sessenta e cinco) porções de cocaína, pesando aproximadamente 14 g, 236 (duzentos e trinta e seis) porções de cocaína na forma da pedra "crack", perfazendo o total de 42 g (quarenta e duas gramas), 234 (duzentos e trinta e quatro) em pinos de eppendorf, 22 (vinte e duas) porções da cannabis sativa, que possui o princípio ativo tetrahidrocanabinol, vulgarmente conhecida por "maconha", perfazendo o total aproximado de 185 g (cento e oitenta e cinco gramas)", não podem passar despercebidos na fixação da pena, mormente diante do elevado impacto social ao sustentar o vício de incontáveis usuários e abrangendo maior lesão ao bem jurídico tutelado ao abarcar as drogas usualmente mais consumidas, o que efetivamente constitui fundamentação idônea à aplicação de uma fração abaixo do máximo legal no caso de deferimento da benesse contida no art. 33, § 4º, da Lei de Drogas.
+Desta feita, reputo adequada a fração minorante no patamar de 1/6, de forma a redimensionar a pena dos réus para 4 (quatro) anos, 2 (dois) meses e 420 dias-multa à razão unitária de 1/30 do salário mínimo vigente ao tempo dos fatos, em regime semiaberto.
+Esta Corte Superior admite que há lacuna na legislação no que se refere ao critério de escolha da fração redutora do art. 33, § 4º, da Lei n. 11.343/2006, dispondo que a quantidade, a natureza e a variedade das drogas constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, em patamar inferior ao máximo legal (AgRg no HC n. 846.115/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/9/2023).
+Prosseguindo, levando em consideração a quantidade da droga apreendida - 185 g de maconha, 14 g de cocaína e 42 g de crack, normais à espécie - não justifica a aplicação da fração de 1/6, prevista no art. 33, § 4º, da Lei de Drogas, denotando excesso de rigor punitivo.
+Contudo, em razão da variedade de drogas (cocaína, crack e maconha), entendo que deve ser aplicada a fração de 1/2.
+Nesse toar, fixo, para todos os réus, a pena-base no mínimo legal, ou seja, em 5 anos de reclusão e 500 dias-multa.
+Na segunda etapa, presente a atenuante da menoridade em relação à ré Katielly, a reprimenda vai mantida no piso legal, por força do conteúdo disposto na Súmula 231 do STJ.
+Na terceira fase, aplico a fração redutora no patamar de 1/2, fixando a pena dos réus, definitivamente, em 2 anos e 6 meses de reclusão, além do pagamento de 250 dias-multa.
+Diante do quanto provido, levando em consideração a primariedade e ausência de circunstâncias judiciais desfavoráveis, fixo o regime inicial aberto (Súmula 440/STJ), bem como possibilito a substituição da pena privativa de liberdade por restritivas de direitos, mediante avaliação do Juízo da execução.
+Ante o exposto, concedo parcialmente a ordem para aplicar o redutor do tráfico priv ilegiado na fração de 1/2, redimensionando as penas nos termos da presente decisão.
+Intime-se o Ministério Público e stadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS . TRÁFICO DE DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO. FRAÇÃO DE REDUÇÃO. DESPROPORCIONALIDADE. QUANTIDADE DE ENTORPECENTE QUE NÃO EXTRAPOLA AO NORMAL (185 G DE MACONHA, 14 G DE COCAÍNA E 42 G DE CRACK). VERIFICADO O EXCESSO DE RIGOR PUNITIVO. QUANTIDADE DE DROGA APREENDIDA, QUE NÃO JUSTIFICA, POR SI SÓ, A APLICAÇÃO DO REDUTOR EM 1/6. APLICAÇÃO DA FRAÇÃO DE 1/2. REDIMENSIONAMENTO DA PENA.
+Ordem parcialmente concedida.
