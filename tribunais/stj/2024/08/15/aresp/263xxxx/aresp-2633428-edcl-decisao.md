@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RUBENS PAMPLONA DE OLIVEIRA em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante
+ ..  A Douta Decisão não conheceu do Agravo em Recurso Especial, o que está totalmente correto. Entretanto, com a devida vênia, ocorreu um erro material no texto que causou uma contradição, constando que foi o Sr. Rubens Pamplona de Oliveira que teria tido seu Recurso Especial inadmitido e apresentado o Agravo ora não conhecido, condenando-o em honorários.  ..
+ .. Deste modo, com todo o acatamento jurídico devido, há evidente contradição na Douta Sentença, pois, quem ingressou com o Agravo em Recurso Especial foi a parte contrária, isto é, o Sr. Rui de Carvalho Benedito, em função de seu Recurso Especial ter sido inadmitido. Tal fato pode ser comprovado nas folhas 36(Recurso Especial), 46(Acórdão Inadmissão) e 49(Agravo R.E.) dos Autos. Em consequência lógica, quem deve ser condenada ao pagamento de honorários é o Sr. Rui não o ora Embargante. A contradição reside no fato de condenar a parte vencedora a pagar, arcar com o ônus de sucumbência. Tal contradição é decorrente de um erro material, pois, constou o nome do Sr. Rubens Pamplona de Oliveira onde deveria constar o nome do Sr. Rui de Carvalho Benedito Isto é, pretendia-se condenar a parte que teve o Recurso Especial inadmitido e, posteriormente, ingressou com o Agravo em Recurso Especial não conhecido, portanto o Sr. Rui, mas, por equívoco, foi digitado o nome do Sr. Rubens.  ..
+ .. Portanto, pretende o ora embargante que a contradição e o erro material apontados sejam sanados, confirmando que quem teve seu Recurso Especial inadmitido e ingressou com o Agravo em Recurso Especial que não foi conhecido foi o Sr. RUI DE CARVALHO BENEDITO, bem como, que este foi condenado ao pagamento de honorários.  ..  (fls.156-157).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve um erro material na decisão ora embargada, no sentido de que figurou por equívoco como agravante RUBENS PAMPLONA DE OLIVEIRA, quando na verdade deveria ter constado apenas RUI DE CARVALHO BENEDITO, conforme agravo interposto às fls. 129/137.
+Assim, determino a retificação da autuação do presente feito a fim de que conste como agravante RUI DE CARVALHO BENEDITO.
+Quanto ao mais, fica mantifa a decisão de fls. 152/153 apenas para manter o não conhecimento do agravo interposto por RUI DE CARVALHO BENEDITO em razão da ausência de impugnação específica dos fundamentos de inadmissão do recurso especial.
+Ante o exposto, acolho os embargos de declaração para determinar a retificação da autuação destes autos, nos termos acima expostos, mantendo-se a decisão de fls. 152/153.
+Publique-se. Intimem-se.
+ EMENTA
