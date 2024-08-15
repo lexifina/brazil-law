@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei formulado pelo MUNICÍPIO DE SENADOR FIRMINO, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da Turma Recursal do Grupo Jurisdicional de Ubá/MG, que negou provimento ao recurso, mantendo a sentença de procedência, que condenou o Município ao fornecimento ao autor de medicamento não padronizado no SUS.
+Em suas razões, o requerente sustenta que o acórdão atacado está em desacordo com a tese firmada no Tema 106 do STJ, submetido à sistemática dos recursos repetitivos, porquanto ausente nos autos "o enfrentamento de todas as alternativas terapêuticas do SUS pela Recorrida, ceifando os requisitos do referido repetitivo para fornecimento de fármacos não incorporados" (fls. 6).
+Defende que, "embora o §3º do art. 18 da Lei nº 12.153/09 estabeleça competir ao Superior Tribunal de Justiça o julgamento do PUIL quando a decisão proferida estiver em contrariedade com a súmula desta Corte Superior, resta evidente que também lhe compete analisar os pedidos fundados em contrariedade com a sua jurisprudência dominante" (fls. 6).
+É o relatório. Decido.
+Como cediço, nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal Superior, quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+No caso, como relatado, verifica-se que o requerente se limitou a aduzir divergência entre o julgado recorrido, proferido pela Turma Recursal, e precedente desta Corte firmado em recurso representativo de controvérsia repetitiva (Tema 106/STJ).
+Nessa quadra, forçoso concluir que o presente incidente não se mostra admissível, diante da ausência de previsão legal, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. COTEJO ANALÍTICO NÃO REALIZADO. CARÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA DOS CASOS CONFRONTADOS. SUPOSTA CONTRARIEDADE A JULGADO REPETITIVO. NÃO EQUIPARAÇÃO À OFENSA DE ENUNCIADO SUMULAR. NÃO CABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 18 da Lei 12.153/2009, "caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material". No § 3º do mesmo dispositivo é estabelecida a competência do Superior Tribunal de Justiça para examinar pedidos de uniformização sobre controvérsias em que haja dissonância na interpretação da lei federal por turmas de diferentes estados, ou quando a decisão proferida estiver em contrariedade com súmula desta Corte.
+2. Conforme entendimento desta Corte, não se conhece do pedido de uniformização de interpretação de lei fundado em divergência jurisprudencial quando a parte requerente deixa de realizar o indispensável cotejo analítico entre os acórdãos confrontados, de modo a evidenciar a similitude fática das hipóteses comparadas.
+Precedentes.
+3. A indicação de suposta contrariedade a julgado repetitivo não se equipara à alegação de ofensa a enunciado da Súmula do STJ para fins de cabimento do pedido de uniformização de interpretação de lei.
+4. Agravo interno a que se nega provimento (AgInt no PUIL n. 2.924/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 1/3/2024.)
+Ainda nesse sentido, vale conferir a seguinte decisão proferida em caso análogo: Puil 4.240/MG, rel. Min. Sérgio Kukina, DJ 07.08.24.
+Ante o exposto, não conheço do pedido.
+Publique-se.
+EMENTA
