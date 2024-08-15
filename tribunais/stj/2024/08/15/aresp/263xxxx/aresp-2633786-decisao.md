@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO PIAUÍ, sucessor do Instituto de Assistência Técnica e Extensão Rural do Estado do Piauí - EMATER-PI, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ que inadmitiu recurso especial dirigido contra o acórdão prolatado nos autos da agravo de instrumento n. 0702612-62.2018.8.18.0000, assim ementado (fls. 319-324):
+AGRAVO DE INSTRUMENTO. EFEITO SUSPENSIVO. ADICIONAL DE TEMPO DE SERVIÇO. COISA JULGADA MATERIAL E FORMAL. DIREITO QUE ASSISTE AOS AGRAVADOS. CUMPRIMENTO QUE SE IMPÕE. AGRAVO IMPROVIDO.
+Opostos embargos de declaração na origem (fls. 346-353), restaram rejeitados (fls. 383-387):
+CÍVEL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. OMISSÃO. INEXISTÊNCIA. MERA REDISCUSSÃO DO JULGADO. RECURSO QUE NÃO SE PRESTA A TAL DEBATE. EMBARGOS CONHECIDOS E IMPROVIDOS.
+1. Diferentemente de outros recursos, esta via recursal não tem o condão de revisar ou rediscutir matéria, mas tão somente perfectibilizar a decisão proferida, através da correção dos defeitos supostamente existentes que foram suscitados pela parte.
+2. Em que pese as alegações apresentadas, não merecem ser acolhidos os presentes aclaratórios. Isso porque, de uma singela leitura do acórdão guerreado, fica evidente que não há a alegada omissão em que se sustenta o fundamento do embargante.
+3. Verifica-se que o embargante, elegendo via inadequada, utiliza-se dos aclaratórios apenas para demonstrar o seu inconformismo em relação ao resultado, com o intuito de ser atribuído ao recurso um indevido efeito infringente.
+4. Embargos conhecidos e improvidos.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a parte agravante alega ofensa ao art. 1.022, II, do CPC/2015, com base nos seguintes fundamentos (fls. 395-399):
+No presente caso, conforme já fora exposto, o ente estadual, em sede de agravo de instrumento (ID 54615) e, posteriormente, embargos de declaração (ID 3662192), apresentou dois fundamentos para buscar a reforma da decisão que fora proferida pelo juízo de primeiro grau, quais sejam:
+i) ausência de trânsito em julgado da decisão exequenda em razão de o Supremo Tribunal Federal, por decisão do Ministro Marco Aurélio, ter dado provimento ao Agravo de Instrumento interposto pelo EMATER-PI para admitir o Recurso Extraordinário desta autarquia estadual;
+ii) jamais foi conferida ao EMATER-PI, nem ao Estado do Piauí, a oportunidade para recorrer contra o pronunciamento do Ministro Gilmar Mendes, ou para requerer o chamamento do feito à ordem, esclarecendo que o Recurso Extraordinário já havia sido admitido, conhecido ou destrancado pelo Ministro Marco Aurélio, no julgamento de Agravo de Instrumento interposto ao STF com essa finalidade.
+Se o EMATER-PI e o Estado do Piauí tivessem sido intimados teriam esclarecido o imbróglio requerendo o chamamento do feito à ordem, o que naturalmente teria revertido o retorno do processo ao TJ-PI. Se o Ministro Gilmar Mendes assim não o fizesse, certamente o EMATER-PI e o Estado do Piauí teriam interposto o agravo interno respectivo. Contudo, o EMATER-PI e o Estado do Piauí não puderam fazer nada disso porque não foram intimados do despacho do Ministro Gilmar Mendes.
+Contudo, o acórdão local confirmou a decisão de primeiro grau sob o fundamento de que o EMATER-PI teria deixado precluir a questão relativa ao processamento do Recurso Extraordinário.
+Todavia, Senhor Relator, verifica-se que o acórdão local não se manifestou sobre a alegação estatal de que não houve o trânsito em julgado em razão de o Ministro Marco Aurélio ter dado provimento ao Agravo de Instrumento interposto pela entidade estadual para admitir o Recurso Extraordinário desta autarquia estadual, bem como não se manifestou sobre a alegação de que o ente público não fora intimado do despacho do Min. Gilmar Mendes que determinou a devolução dos autos ao TJPI.
+A referida omissão se manteve mesmo no julgamento dos embargos de declaração, tendo a Corte local negado provimento ao citado recurso por entender se tratar de mero inconformismo.
+Assim, ao abster-se de efetuar pronunciamento acerca das matérias ventiladas no agravo de instrumento, mesmo após a oposição de embargos declaratórios visando suprir tais omissões, o Tribunal Estadual violou frontalmente o disposto no art. 1.022, II, do CPC.
+Nesse sentido, decisão deste Superior Tribunal de Justiça no REsp Nº 1.126.279 - PI (2009/0104497-3), Quinta Turma, Relator Ministro FELIX FISCHER, Publicação: 15/12/2009, na qual esta Corte frisou que "Ocorre que não houve acolhida dos argumentos do embargante, persistindo as omissões contidas no v. decisum. Corretamente, o Estado do Piauí interpôs recurso especial, aduzindo, inclusive, ofensa ao art. 535, II, do CPC. Verifica-se, dessa forma, que as matérias ventiladas eram relevantes ao deslinde da controvérsia, e não foram alvo de discussão e exame pelo e. Tribunal de origem, situação caracterizadora da violação apontada pelo recorrente".
+A recusa em discutir tais matérias no decisum (omissão) consiste em negativa de prestação jurisdicional completa. Dessa forma, a decisão não pode prosperar, sendo necessário que este Superior Tribunal de Justiça pronuncie sua invalidade e determine à Corte de origem o pronunciamento expresso acerca das questões postas.
+Foram apresentadas contrarrazões (fls. 403-405).
+O recurso especial não foi admitido (fls. 409-411).
+O agravo em recurso especial foi interposto às fls. 414-416.
+Contraminuta às fls. 435-438.
+É o relatório.
+Decido.
+Diante da suficiente impugnação do fundamento da decisão de inadmissibilidade, conheço do agravo e passo ao exame do apelo nobre, o qual, contudo, não merece prosperar.
+Com efeito, do exame dos autos, verifica-se que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão, nos seguintes termos (fls. 319-324; sem grifos no original):
+Busca o agravante por meio do presente recurso a concessão do efeito suspensivo ativo à decisão agravada, com o objetivo de suspender seus efeitos, sob o argumento de que o magistrado de piso não considerou a inexistência de transito em julgado na decisão.
+Por sua vez a parte agravada defende a manutenção da decisão que prevê o cumprimento de acórdão transitado em julgado que garante o direito adquirido pelos agravantes de implantação em seus contracheques, o anuênio de 1% (um por cento) devidos de 2004, até o ano em vigência.
+O referido acórdão atingiu ao status de coisa julgada, tanto no seu aspecto material quanto formal, fazendo lei entre as partes.
+ ..
+A decisão agravada foi objetiva no sentido de afastar a impugnação ao cumprimento de sentença, reconhecendo o transito em julgado e determinando o imediato cumprimento da sentença de fls. 231/234.
+Avaliando a decisão ora atacada conclui-se que não há qualquer irregularidade a ser atacada pela via recursal de forma que trata-se de mera insatisfação do ente agravante.
+Ante o exposto conheço do recurso somente para negar-lhe provimento mantendo a decisão atacada em todos os seus termos.
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável.
+Inexiste, portanto, ofensa ao art. 1.022, inciso II e parágrafo único, inciso II, do CPC/2015. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. ALEGADA OFENSA AO ART. 1.022, INCISO II E PARÁGRAFO ÚNICO, INCISO II, DO CPC/2015. INEXISTÊNCIA DE VÍCIO DE OMISSÃO. ACÓRDÃO REGIONAL SUFICIENTEMENTE FUNDAMENTADO. RECURSO ESPECIAL DESPROVIDO.
