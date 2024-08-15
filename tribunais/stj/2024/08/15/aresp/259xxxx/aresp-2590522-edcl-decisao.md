@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DERIVALDO PEREIRA BRITO, em face de decisão monocrática da lavra deste signatário, acostada às fls. 614-618 (e-STJ), que negou provimento ao reclamo em razão da incidência da Súmula 7/STJ.
+Irresignado, o ora embargante sustenta, em síntese, a existência de omissão quanto à aplicabilidade do art. 1240 do Código Civil, visto que estão preenchidos todos os requisitos necessários à configuração da usucapião.
+Sem impugnação.
+É o relatório.
+Decido.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado da decisão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Com efeito, não há qualquer omissão ou contradição a ser sanada.
+A decisão embargada foi suficientemente clara nas suas razões ao negar provimento ao recurso em razão da Súmula 7/STJ.
+Assim constou da decisão ora embargada (e-STJ, fl. 615-616):
+No caso, a Corte de origem, soberana na análise do acervo fático-probatório, constatou que não estão preenchidos os requisitos necessários para se reconhecer a prescrição aquisitiva na hipótese em comento.
+Assim constou do acórdão (e-STJ, fl. 511-512):
+De fato. Embora o autor tenha ingressado no bem usucapiendo há longa data (pág. 14), a natureza de sua posse não pode ser classificada como qualificada e capaz de ensejar prescrição aquisitiva. Ocorre que, como pode ser inferido dos autos, o autor foi residir no imóvel "simultaneamente com a titular de domínio", conforme ele mesmo alega (pág. 02). Consta que lá permaneceu desde o falecimento dela, pelo fato de os herdeiros da falecida proprietária terem permitido que ele ali ficasse.
+Tanto é verdade que os herdeiros buscaram judicialmente a abertura, registro e cumprimento de testamento, envolvendo o imóvel usucapiendo que tramitou até 2012 (págs. 53), além de terem ajuizado ação reivindicatória (nº. 1014811- 97.2014.8.26.0020), que teve sua sentença anulada para aguardar o julgamento desta ação de usucapião (págs. 366/371).
+Inclusive, conforme exposto na sentença, "em réplica,o autor, apesar de não negar a condição de comodatário no período em que residiu no imóvel junto com a proprietária, afirma ter exercido a posse "ad usucapionem" após o falecimento daquela. Todavia, não relata qualquer ocorrência que justifique a inversão do ânimo da posse, ou seja, não nega ter conhecimento de que o imóvel não lhe pertencia, limitando-se a fundamentar seu direito na inércia do espólio em retomar a posse do imóvel. (..) Adicionalmente, verifico que o IPTU do imóvel ainda estava em nome da proprietária por ocasião do ajuizamento da demanda (fls. 19). As contas de consumos juntadas às fls. 116/120, por sua vez, referem-se a período posterior ao ajuizamento da demanda e também evidenciam apenas a posse direta do bem. Em reforço, anoto que não houve desídia do Espólio da titular dominial em relação ao bem, uma vez que foi ajuizada ação de abertura, registro e cumprimento de testamento no ano do falecimento da titular registral e que tramitou até o ano de 2012, ou seja, tramitou durante o alegado período aquisitivo, tudo a corroborar a versão apresentada pela contestante de que houve mera tolerância do Espólio para que o autor permanecesse no imóvel após o falecimento da titular do domínio." (págs. 438/439).
+Nesse cenário, não se pode dizer que ele exerceu posse com ânimo de dono sobre o bem objeto da demanda. Isso porque o artigo 1.208 do Código Civil é claro no sentido de que os atos de permissão ou tolerância não induzem posse.
+Verifica-se, portanto, que o Colegiado de orige m formou suas conclusões pela ausência de preenchimento dos requisitos necessários à configuração da usucapião com base no substrato fático-probatório dos autos.
+Modificar esse entendimento exigiria, necessariamente, a reanálise das circunstâncias fático-probatórias, o que é vedado em âmbito de recurso especial, ante o óbice da Súmula 7/ STJ.
+Deste modo, não se vislumbrando quaisquer das máculas do artigo 1.022 do CPC/15, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, é de rigor a rejeição do apelo.
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
