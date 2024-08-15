@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JESSICA CRISTINA BRANDOLEZE DA CRUZ THEODORO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500253-86.2019.8.26.0570).
+Depreende-se dos autos que a ora paciente foi condenada, como incursa no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 (seis) anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 600 (seiscentos) dias-multa; isso, porque, "segundo a denúncia, os réus se associaram para a prática do tráfico de drogas, tanto que, no dia 16 de agosto de 2019, por volta de 23 horas, na BR 116, altura do km 418, na cidade de Juquiá, guardavam e traziam consigo, para posterior entrega a consumo de terceiros, um total de 1,400kg  um quilo e quatrocentos gramas  de cocaína, 200g  duzentos gramas  de maconha e 7,200kg  sete quilos e duzentos gramas  de crack, substâncias entorpecentes capazes de causar dependência física ou psíquica, sem autorização e em desacordo com determinação legal e regulamentar" (e-STJ fl. 28).
+Irresignada, a defesa interpôs recurso de apelação no Tribunal de origem, que deu parcial provimento ao apelo da ora paciente para reduzir a sua pena para 5 (cinco) anos de reclusão, em regime fechado, e 500 (quinhentos) dias-multa.
+Eis a ementa do mencionado acórdão (e-STJ fl. 27):
+Tráfico de entorpecentes - Prisão em flagrante - Apreensão de grande quantidade de cocaína, crack e maconha - Corréus confessos - Depoimento de policiais seguros, coerentes e sem desmentidos - Ausência de motivos para duvidar da veracidade dessas palavras - Prova indicando o tráfico - Responsabilidade de todos os acusados bem comprovada - Condenação mantida; Tráfico de entorpecentes - Réus que transportavam, traziam consigo e tinham em depósito enorme quantidade de entorpecentes variados - Aumento da pena na primeira fase da dosimetria - Possibilidade- Exegese do art. 42, da Lei de Drogas; Tráfico de entorpecentes- Corréu que confessaram o transporte e depósito das drogas - Reconhecimento da atenuante - Possibilidade - Plena indicação de que estavam ligados a atividade criminosa - Redutor previsto no art. 33, § 4º, da Lei nº 11.343/06 - Inaplicabilidade - Regime prisional correto- Recursos de dois dos acusados improvidos, com o acolhimento parcial daqueles apresentados pelos demais para redução das penas impostas.
+No presente writ, a impetrante afirma, em síntese, que o Tribunal utilizou fundamentação inidônea para não aplicar a redutora do tráfico privilegiado.
+É o relatório.
+Decido.
+Do presente writ não se pode conhecer.
+Destaque-se que, no julgamento da Apelação Criminal n. 1500253-86.2019.8.26.0570, acima referida, o reconhecimento da minorante constitui mera reiteração do pedido formulado no HC n. 739.204/SP. Isso, porque há identidade de partes e causa de pedir, ambas as ações impugnam o mesmo acórdão n. 1500253-86.2019.8.26.0570, o que constitui óbice ao seu conhecimento.
+Assim, o proceder da defesa caracteriza mera reiteração de pedido já apreciado, providência essa incabível, uma vez que já prestada a tutela jurisdicional pelo Superior Tribunal de Justiça, sendo inviável a dupla apreciação da matéria.
+No mesmo sentido:
+RECURSO EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. ART. 282 DO CPP. HOMICÍDIO QUALIFICADO. PROVIDÊNCIA DE BLOQUEIO DO ACESSO À LINHA TELEFÔNICA CONSTITUI CONSEQUÊNCIA LÓGICA DA MEDIDA CAUTELAR REAL DE BUSCA E APREENSÃO DO APARELHO TELEFÔNICO CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. Caso o recurso veicule mera reiteração de matéria que já fora formulada em insurgência anterior, resta prejudicado o recurso em face da ausência do interesse de agir (AgRg no AgRg no AREsp n. 1.997.466/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022.)
+2. A providência de bloqueio do acesso à linha telefônica constitui consequência lógica da medida cautelar real de busca e apreensão do aparelho telefônico, consoante a jurisprudência deste Superior Tribunal.
+3. Recurso em habeas corpus improvido.
+(RHC n. 157.270/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+Ante o exposto, não conheço d o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
