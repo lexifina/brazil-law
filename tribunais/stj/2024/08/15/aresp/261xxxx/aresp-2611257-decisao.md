@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de ação rescisória visando desconstituir acórdão do Tribunal de Justiça do Estado do Maranhão nos autos de ação ordinária, mediante alegação de ofensa ao art. 966, V, do CPC. No Tribunal a quo, a ação rescisória foi julgada improcedente. O valor da causa foi fixado em R$ 1.000,00 (mil reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO contra acórdão com o seguinte resumo de ementa:
+AÇÃO RESCISÓRIA. LEI ESTADUAL N.º 8.970/09. NATUREZA JURÍDICA. REVISÃO GERAL ANUAL. JULGAMENTO CONFORME ENTENDIMENTO PREVALECENTE À ÉPOCA DO JULGADO. INAPLICABILIDADE DE TESE FIRMADA EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS POSTERIORMENTE. IMPROCEDÊNCIA..
+1. A lei estadual n.º 8.970/09 possuem natureza de revisão geral anual.
+2. Os servidores têm direito à diferença remuneratória correspondente a 6,1%, decorrente da aplicação de índices distintos para atualização dos vencimentos dos servidores estaduais pela lei n.º 8.970/09, face à vedação constitucional inserta no art. 37, X, da Constituição da República.
+3. Tese firmada em sede de Incidente de Resolução de Repetitivas firmada posteriormente ao trânsito em julgado do acórdão que se pretende rescindir a ele não se aplica, visto que não se pode obrigar a aplicação de tese que sequer existia à época.
+4. Súmula nº 343, do Supremo Tribunal Federal: "Não cabe ação rescisória por ofensa a literal disposição de lei quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+5. Ação rescisória improcedente.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Em seu recurso, o recorrente alega que o acórdão vergastado argumentou pela ausência de cabimento da ação rescisória quando utilizada como sucedâneo recursal tendo, ao julgá-la improcedente, incorrido em negativa de prestação jurisdicional. Entretanto, o acórdão não considerou incabível a ação rescisória, tendo analisado o seu mérito e a julgado improcedente por entender pela inexistência de violação às súmulas do STF ou de violação constitucional. Ausente, portanto, a devida correspondência entre as alegações do recorrente e as disposições do acórdão.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
