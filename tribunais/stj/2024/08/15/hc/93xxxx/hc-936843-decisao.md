@@ -1,0 +1,9 @@
+DECISÃO
+BRENDON WILSON DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.24.283461-2/000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que " o  Paciente foi preso em Flagrante, no dia 08.06.2024, em razão da suposta prática do Crime de Homicídio Tentado" (fl. 21).
+Asseriu a defesa, perante a Corte de origem, "em síntese, a carência de fundamentação da r. Decisão que converteu o Flagrante em Prisão Preventiva, em desconformidade com o art. 93, IX, da CF/88, porquanto ausentes os requisitos autorizadores previstos no art. 312 do CPP" (fl. 20).
+Ao impor a medida cautelar extrema, ressaltou o Juízo de primeira instância que "o periculum libertatis reside na necessidade de resguardar a ordem pública, haja vista a gravidade concreta do delito doloso contra a vida, o que demonstra a periculosidade do autuado e as circunstâncias da sua execução. Infere-se do APFD que a vítima deu entrada no Pronto Atendimento Municipal com seis perfurações, sendo quatro no tórax e duas no adbome e está correndo risco de morte" (fl. 54).
+A esse respeito, em conjuntura semelhante, já decidiu o Superior Tribunal de Justiça que "a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente. O Juízo de primeiro grau destacou "a gravidade em concreto da conduta, com uso de arma de fogo, e troca de tiros na presença de várias pessoas, a demonstrar audácia e destemor dos representados", além de mencionar o "cenário de guerra entre facções criminosas". Tais circunstâncias denotam sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública" (RHC n. 162.066/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 20/5/2022, grifei.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
