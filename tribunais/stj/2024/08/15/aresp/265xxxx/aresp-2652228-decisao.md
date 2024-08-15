@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por PREVENT SENIOR PRIVATE OPERADORA DE SAUDE LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Agravo em Recurso Especial interposto em: 18/04/2024.
+Concluso para o gabinete em: 06/08/2024.
+Ação: de obrigação de fazer com pedido de antecipação de tutela, ajuizada por IONICE LEITE, em face da agravante, visando à cobertura do medicamento Nintedanibe (OFEV) para tratamento de fibrose pulmonar idiopática.
+Sentença: julgou procedente o pedido, para condenar a agravante a fornecer à agravada o tratamento medicamentoso de que necessita, autorizando a cobertura do remédio "Ofev" (Nintedanibe 150mg), em quantidade suficiente para atender à indicação médica constante nos autos e, via de consequência, confirmar a tutela antecipada deferida anteriormente.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE - Fornecimento de medicação (Ofev) para tratamento de Fibrose Pulmonar Idiopática - negativa por parte do Plano de Saúde - abusividade verificada - aplicabilidade da legislação consumerista - taxatividade do rol da ANS afastada pela redação da Lei. 14.454/22 - Medicamento com indicação expressa da ANVISA para tratamento de FIP - fármaco qualificado como neoplásico - fornecimento obrigatório por disposição legal - inteligência dos artigos 10, §6º e 12, inciso I, alínea "c" e inciso II, alínea "g", ambos da Lei 9.656/98 - Majoração dos honorários sucumbenciais - Recurso Improvido. (e-STJ, fl. 382)
+Recurso especial: alega a violação dos arts. 10, VI, § 4º, da Lei 9.656/98, bem como a existência de dissídio jurisprudencial. Sustenta:
+i) que o medicamento "Ofev" (Nintedanibe 150mg) destina-se ao uso domiciliar, bem como que que não há, na legislação vigente, obrigatoriedade para cobertura de medicamentos para uso domiciliar, exceto os medicamentos antineoplásicos orais, a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim; e
+ii) que o tratamento objeto desta ação não se encontra previsto no rol taxativo da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da obrigatoriedade de cobertura de medicamento antineoplásico
+Consoante jurisprudência desta Corte, é abusiva a recusa de cobertura de medicamentos antineoplásicos, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental, especialmente quando for imprescindível à conservação da vida do beneficiário, sendo irrelevante analisar a natureza taxativa ou exemplificativa do rol da ANS. Nesse sentido: AgInt no REsp n. 2.083.955/PB, 3ª Turma, DJe de 20/12/2023; AgInt no REsp n. 2.016.928/RN, 3ª Turma, DJe de 18/12/2023; AgInt no REsp n. 2.043.178/SP, 4ª Turma, DJe de 18/12/2023; e AgInt no REsp n. 2.066.693/SP, 4ª Turma, DJe de 15/12/2023.
+Nessa toada, a Lei 14.307, de 3/3/2022, tornou obrigatória a cobertura de medicamentos antineoplásicos no âmbito da saúde suplementar, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades.
+Especificamente sobre o medicamento em tela, a Quarta Turma assim decidiu:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FIBROSE PULMONAR IDIOPÁTICA. MEDICAMENTO. USO DOMICILIAR. ESILATO DE NINTEDANIBE (OFEV). PREVISÃO NO ROL DA ANS. NEGATIVA INDEVIDA DE COBERTURA. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. No caso em exame, todavia, o fármaco prescrito pelo médico assistente é um antineoplásico oral, devidamente registrado na ANVISA, que consta da RN-ANS nº 465/2021 como medicamento de cobertura obrigatória para o tratamento de câncer de pulmão, sendo abusiva a recusa de cobertura do plano de saúde com base somente no não enquadramento nas diretrizes de utilização da ANS para tratamento de Fibrose Pulmonar Idiopática, sem indicação, em contrapartida, de tratamento alternativo eficaz e seguro para a enfermidade do paciente.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.922.396/PE, Quarta Turma, DJe de 28/6/2023).
+No mesmo sentido, as seguintes decisões monocráticas: REsp n. 2.106.761, Ministro Ricardo Villas Bôas Cueva, DJe de 21/03/2024 e AREsp n. 2.488.101, Ministro Marco Aurélio Bellizze, DJe de 19/02/2024.
+Logo, não merece reforma o acórdão recorrido, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da divergência jurisprudencial
+A falta de similitude fática, requisito indispensável à demonstração da divergência, inviabiliza a análise do dissídio.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO parcialmente do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ, fl. 388) para 18%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação dessas nas penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. MEDICAMENTO ANTINEOPLÁSICO. RECUSA DE COBERTURA INDEVIDA. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer com pedido de antecipação de tutela.
+2. Considera-se abusiva a negativa de cobertura de medicamentos antineoplásicos. Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido, com majoração de honorários.
