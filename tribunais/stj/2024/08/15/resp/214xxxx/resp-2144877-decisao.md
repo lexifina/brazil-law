@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por NELY BOTELHO DE CAMPOS com fundamento no art. 105, III, a, da Constituição Federal.
+O feito decorre de ação ordinária movida por servidor público aposentado, tendo como objetivo a incorporação do percentual de 61,38% no benefício de aposentadoria da parte autora, bem como o pagamento do referido percentual, com valor da causa atribuído em R$ 389.824,90 (trezentos e oitenta e nove mil oitocentos e nove reais e noventa e quatro centavos), em janeiro de 2022.
+Após sentença que julgou procedente o pedido, foi interposta apelação, à qual não foi conhecida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO e, em sede de reexame necessário, retificou a sentença para julgar improcedente a demanda em acórdão assim ementado:
+RECURSO DE APELAÇÃO C/C REEXAME NECESSÁRIO - AÇÃO DE COBRANÇA - "TÍTULO EM JULGADO INCORPORADOS 61,38%" - VERBA RECONHECIDA EM SEDE DE MANDADO DE SEGURANÇA - PRELIMINAR DE OMISSÃO QUANTO À JUSTIÇA GRATUITA - REJEITADA - PRELIMINAR DE ILEGITIMIDADE PASSIVA DO ESTADO DE MATO GROSSO - REJEITADA - PRESCRIÇÃO - CAUSA INTERRUPTIVA - RETORNO DA PRESCRIÇÃO PELA METADE DO TEMPO - PRESCRIÇÃO RECONHECIDA EX OFFICIO - RECURSO DE APELAÇÃO NÃO CONHECIDO E, EM SEDE DE REEXAME, SENTENÇA RETIFICADA.
+1. O presente recurso tem como ação de base, Ação de Cobrança, fundamentada em acórdão prolatado no Mandado de Segurança Coletivo nº 37.063/2005, por este Sodalício, em que foi reconhecido o direito da parte Impetrante ao pagamento da verba suprimida.
+2. Considerando o prazo prescrição para cobrança de dívida contra a fazenda pública é de 5 (cinco) anos e que a impetração de Mandado de Segurança é causa interruptiva do prazo prescrição, teria a Autora, ora Apelada, o prazo de dois e anos e meio para ingressar com Ação de Cobrança para pleitear eventual efeito pretérito, uma vez que interrompida a prescrição, esta volta a fluir pela metade, conforme preceituam os arts. 1º e 9º, do Decreto nº 20.910/32.
+3. Recurso de Apelação Não Conhecido e, em sede de Reexame Necessário, sentença Retificada para julgar improcedente a ação, ante ao reconhecimento da prescrição.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violado o art. 1º do Decreto n. 20.910/32, sustentando, em síntese, a inocorrência de prescrição.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Quanto à prescrição, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão de benefício dos proventos de aposentadoria ou pensão, mas apenas as parcelas vencidas antes do quinquênio anterior ao ajuizamento da demanda.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PENSÃO. REAJUSTE. PERÍODO ANTERIOR À LEI 11.784/2008. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO.
+1. O entendimento firmado nesta Corte é no sentido de que, na hipótese de reajuste de pensão anteriormente concedida, a prestação é de trato sucessivo e a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.902.033/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, DJe de 19/5/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DNER. REENQUADRAMENTO NO NOVO PLANO DE CARGOS E SALÁRIOS DO DNIT. LEI N. 11.171/2005. APOSENTADOS E PENSIONISTAS. ENQUADRAMENTO OU REENQUADRAMENTO. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA N. 85/STJ.
+I - Na origem, trata-se de ação objetivando a revisão de proventos de pensão por morte, com base no critério da paridade, mediante enquadramento no plano de carreira do DNIT - Lei n. 11.171/2005. Após sentença que julgou procedentes os pedidos, o Tribunal a quo deu parcial provimento à apelação do ente público, ficando consignado que não há prescrição do fundo de direito, por se tratar de prestação de trato sucessivo.
+II - Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República. A propósito: AgInt no AREsp n. 1491611/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2022, DJe 23/3/2022; AgInt no REsp n. 1.905.408/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/5/2021, DJe 5/5/2021; AgInt no REsp n. 1.828.964/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/9/2020, DJe 30/9/2020 e AgInt no REsp n. 1.809.613/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2019, DJe 19/12/2019.
+III - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.727.666/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao Tribunal de origem para que julgue a demanda como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
