@@ -1,0 +1,15 @@
+DECISÃO
+ALEX VAZ FRANCO, denunciado pela suposta prática de furto qualificado (art. 155, § 4º, I e II, do Código Penal, alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A impetrante busca o trancamento do exercício da ação penal por ausência de justa causa ante a atipicidade material da conduta do paciente, pois insignificante.
+Decido.
+Trata-se de apuração de furto qualificado por rompimento de obstáculo e escalada, de extensão elétrica avaliada em R$ 140,00. Os fatos ocorreram no ano de 2022.
+Segundo as instâncias ordinárias, além de o valor do objeto furtado não ser ínfimo, o grau de reprovabilidade do comportamento do denunciado se mostra alto, já que o delito foi cometido na sua forma qualificada e o acusado é habitual na prática de crimes contra o patrimônio.
+Consta do acórdão recorrido que "o Juízo a quo afastou a pretensão em razão da condição de reincidente do acusado, que responde ainda por outros delitos da mesma natureza, pelo valor da res exceder 10% do valor do salário mínimo à época, e pelo modus operandi empregado, o que afasta a aplicação do princípio da insignificância" (fl. 19).
+É possível o avanço para a pronta solução do habeas corpus, uma vez que o acórdão recorrido observou a jurisprudência sobre o tema.
+Esta Corte entende que o trancamento do exercício da ação penal é excepcional e que não é possível reconhecer a atipicidade material da conduta por aplicação do princípio da insignificância "aos casos de furto qualificado (na hipótese, reconheceu-se a tentativa), a indicar especial reprovabilidade do comportamento, sobretudo quando se trata de agente reincidente, confumaz na prática desta espécie de delito" (AgRg no HC n. 759.971/SP, relator Ministro Rogerio Schietti, 6ª T., DJe 19/9/2022).
+Deveras: "a prática do delito de furto qualificado por escalada, por arrombamento ou rompimento de obstáculo, por concurso de agentes, ou por ser o paciente reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância" (AgRg no HC n. 652.008/ES, Rel. Ministro Felix Fischer, DJe 7/6/2021).
+Ilustrativamente: "a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo, ou concurso de agentes, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (AgRg no HC n. 888.846/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+As peculiaridades do caso concreto (suposta prática delituosa na forma qualificada mediante rompimento de obstáculo e escalada), somado ao valor do objeto furtado (superior a 10% do valor do salário mínimo da época) e o registro de reincidência (condenação por crime patrimonial) e de outras quatro ações penais por delitos da mesma natureza, impedem a incidência do princípio da insignificância para determinação de trancamento da persecução penal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
