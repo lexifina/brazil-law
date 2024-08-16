@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 45):
+HABEAS CORPUS - HOMICÍDIO DUPLAMENTE QUALIFICADO - MANUTENÇÃO DA PRISÃO PREVENTIVA NA PRONÚNCIA (CPP, ART. 413-§3º) - SUBSISTÊNCIA DO MOTIVO AUTORIZADOR - IMPRESCINDIBILIDADE DA CUSTÓDIA PARA GARANTIA DA ORDEM PÚBLICA - GRAVIDADE IN CONCRETO DO CRIME IMPUTADO - FUNDAMENTAÇÃO IDÔNEA - CONSTRANGIMENTO ILEGAL INEXISTENTE - WRIT DENEGADO.
+Consta dos autos que o paciente foi pronunciado e encontra-se preso preventivamente pela suposta prática artigo 121, §2º, incisos II, e IV, c/c artigo 29, ambos do Código Penal.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que foi denegado.
+Sustenta o impetrante, em síntese, que o paciente teria direito de recorrer da sentença em liberdade provisória com monitoração eletrônica, porquanto seria primário.
+Afirma estarem ausentes os requisitos para a prisão preventiva.
+Requer, liminarmente e no mérito, que seja concedida a ordem para garantir o direito do paciente de recorrer em liberdade, mediante revogação da prisão preventiva e a sua substituição por medidas cautelares diversas e monitoração eletrônica.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do artigo 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Inicialmente, em consulta ao sistema processual eletrônico desta Corte, constata-se que a alegação acerca da ausência de fundamentação da prisão preventiva não merece prosperar, uma vez que se trata de mera reiteração de pedido formulado no HC n. 895083/PR. Naquele feito, o habeas corpus foi denegado ante a presença de fundamentação idônea do decreto de prisão preventiva.
+A sentença, no que se refere à prisão preventiva, assim consignou (fl. 771):
+Ante o exposto, PRONUNCIO o acusado Victor Ferreira de Souza, como incurso no artigo 121, § 2º, incisos I e IV, do Código Penal, para o fim de submetê-lo a julgamento pelo Tribunal do Júri.
+3.1. Diante desta decisão e considerando que os motivos que ensejaram a decretação da custódia preventiva do denunciado Victor não se alteraram, a manutenção da decisão que decretou a prisão cautelar é imperativa, de modo a se preservar a ordem pública e evitar que, em liberdade, volte a delinquir. Sem prejuízo, a medida visa impedir que o acusado, se solto, possa intimidar testemunhas que eventualmente sejam intimadas a depor em plenário, de modo que a necessidade da prisão cautelar ainda subsiste pela conveniência da instrução penal.
+Nesse sentido: " ..  A manutenção da custódia cautelar por ocasião da decisão de pronúncia, invocando os argumentos do primitivo decreto, cuja regularidade já foi reconhecida por esta Corte, não caracteriza ilegalidade" (TJPR - 1ª C.Criminal - HCC - 1349735-3 - Cascavel - Rel.: Campos Marques - Unânime - - J. 16.04.2015).
+No mais, à luz da vigência da Lei n. 12.043/11, que alterou o Código de Processo Penal, vislumbra-se que as medidas cautelares diversas da prisão (art. 319 do CPP) são inadequadas e insuficientes, tendo em vista que a constrição à liberdade do denunciado é medida imprescindível.
+Por fim, consigno que resta a prisão aqui revisada para os fins do artigo 316, parágrafo único, do CPP , devendo nas próximas ocasiões a Secretaria observar a Portaria de n. 34/2021. Anote-se.
+E assim consignou o Tribunal de origem (fl. 46):
+No caso da espécie, esta Primeira Câmara, no julgamento de anterior impetração em favor do Paciente, já reconheceu a legalidade da prisão preventiva e, por consequência, a inviabilidade de sua substituição por providências cautelares alternativas.
+Inexistindo, neste momento, fato novo hábil a autorizar a revogação da medida decretada, não se revela ilegal ou arbitrária sua manutenção, dada a imprescindibilidade para garantia da ordem pública.
+Com efeito e uma vez mais, a gravidade in concreto do irrogado homicídio - a qual teria sido praticado em concurso de agentes e mediante 35 disparos de arma de fogo contra a Vítima, supostamente motivado por "disputa das organizações criminosas no domínio do tráfico de drogas no Município de Mariluz" - justifica o encarceramento do Paciente.
+A jurisprudência desta Corte Superior pacificou o entendimento de que a manutenção da custódia cautelar no momento da sentença condenatória, nos casos em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente ao entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do Código de Processo Penal (AgRg no RHC 116.112/MS, Rel. Min. Laurita Vaz, 6ª T. STJ, DJe 10/12/2019.).
+Assim, presentes os requisitos ensejadores da prisão preventiva, não havendo alteração fática ou jurídica, resta demonstrada a necessidade de garantia da ordem pública, de rigor a manutenção da prisão preventiva decretada em desfavor do paciente. Outrossim, informo que as medidas cautelares diversas da prisão não são cabíveis no caso pelos mesmos motivos expostos na decisão do habeas corpus anteriormente impetrado.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
