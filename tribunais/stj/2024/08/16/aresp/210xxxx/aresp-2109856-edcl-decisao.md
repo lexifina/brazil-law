@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARMEN LIGIA TONON contra decisão monocrática de minha relatoria que conheceu de seu agravo e negou provimento ao recurso especial nos termos da seguinte ementa (fl. 1419):
+PROCESSUAL CIVIL. CIVIL. PREVIDÊNCIA PRIVADA. PREVIDÊNCIAPRIVADA. VERBAREMUNERATÓRIA. RECONHECIMENTO NA ESFERA TRABALHISTA. REFLEXO NO BENEFÍCIO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. PRETENSÃO CONTRA PATROCINADORA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA. PRECEDENTES. ENTENDIMENTO FIRMADO NO TEMA N. 1.166/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
+Nas razões dos aclaratórios, a embargante aduz omissão na decisão quanto à tese de afronta ao art. 1.013 do CPC e sua alegação de inobservância, pelo Tribunal de origem, do efeito devolutivo amplo da apelação, de modo que sua tese relativa à "preservação do salário de participação a partir de 02/2013 e em todos os meses em que se verificar queda remuneratória" deveria ter sido abordada na origem.
+Pugna, por fim, pelo provimento dos aclaratórios.
+Contraminutas apresentadas (fls. 1.449-1.462 e 1.465-1.471).
+É, no essencial, o relatório.
+Com razão a embargante.
+Quando da análise de seu recurso especial, a decisão agravada se limitou a abordar a questão de cabimento de a entidade patrocinadora figurar no polo passivo da ação, deixando de observar que houve duas teses jurídicas em debate, quais sejam: "i) a nulidade do acórdão recorrido, em vista da violação ao efeito devolutivo da apelação e do artigo 1.013 do CPC/2015" e "ii) o Banco do Brasil S.A. seja reconhecido como parte legítima para figurar no polo passivo da demanda e, ao final, condenado a recompor a reserva matemática da Autora junto à PREVI" (fl. 1.007).
+O item "ii" já foi efetivamente enfrentado na decisão embargada e, dada sua independência com relação ao item "i", passa-se à sua análise.
+E efetivamente prospera a pretensão recursal no ponto.
+Conforme se infere dos autos, a sentença, embora já apoiada no entendimento firmado no Tema n. 955/STJ, acabou julgando improcedente o feito por entender que a recomposição da reserva matemática deveria ocorrer naquela oportunidade, providência não atendida pela recorrente e que inviabilizaria o pleito e prejudicando, consequentemente, os temas de mérito suscitados.
+A propósito, excerto da sentença:
+Como já mencionado, por ocasião da modulação de efeitos, ficaram estabelecidos como requisitos para viabilidade da revisão do benefício de aposentadoria privada: a) a propositura da demanda até 08/08/2018; b) a previsão regulamentar expressa ou implícita e a recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso.
+Pois bem. A demanda foi protocolada de modo a aproveitar a modulação dos efeitos e há previsão regulamentar expressa no sentido de as horas extras estarem incluídas no salário de participação para formação do benefício complementar.
+A controvérsia destes autos que resta ser enfrentada refere-se ao aporte para integralização da reserva matemática, dado que a parte autora defende não ter responsabilidade de fazê-lo.
+Compulsando os autos eletrônicos do recurso repetitivo, observo que, quando dos julgamentos dos embargos aclaratórios, ficou consignado:
+ ..
+Resta claro, portanto, que a integralização deve ser suportada pelo interessado na revisão do benefício, dando-se oportunidade ao participante que já protocolou a demanda de revisão assim fazê-lo.
+Em cumprimento ao julgado, portanto, intimei a parte autora para comprovar o preenchimento dos pressupostos fixados no repetitivo, realizando o competente aporte.
+No entanto, a autor limitou-se a afirmar que tinha interesse no prosseguimento da demanda, mantendo o seu pedido de condenação do banco a recompor integralmente a reserva matemática do associado junto à PREVI (fls. 644/651 PDFc).
+Assim, mesmo após a oportunidade que lhe foi proporcionada, e dado que a parte promovente se recusa a realizar o aporte da reserva matemática apta a viabilizar a potencial revisão do seu benefício de aposentadoria, seja o principal ou especial (BET), a improcedência da demanda em face da PREVI é medida que se impõe. Fica prejudicada a análise dos pedidos de preservação do salário de participação e de pagamento de eventuais diferenças não pagas, dado que estes eram desdobramentos do requerimento de revisão.
+No Tribunal, o entendimento fora reformado, alinhando-se à jurisprudência que reconhece que o aporte deverá ser realizado após apuração de seu valor por meio de perícia atuarial na fase de liquidação de sentença. Vejamos:
+A apuração do referido aporte efetivamente se dará em sede de liquidação de sentença, pois somente nesta etapa os litigantes conhecerão o montante específico a ser aportado, mediante o acréscimo do valor representativo da variação necessária à formação da reserva matemática, a exemplo dos cálculos realizados em hipóteses de equacionamento, eis que se trata de consequência lógica da aplicação do entendimento exposto pela Corte Cidadã e da vinculação dos precedentes, na forma do art. 927, inciso III, do CPC.
+Ademais, enquanto o feito se encontrar na fase cognitiva, não se mostra viável realizar o estudo técnico atuarial, a despeito de inexistirem óbices à composição das partes na esfera administrativa, ante a inegável vantagem recíproca, mediante a comunicação do resultado ao juízo da causa, no momento que considerarem oportuno.
+Nesse contexto, observado pelo Tribunal que era devida a reforma da sentença e, deixando de cassá-la e devolver os autos para apreciação das questões postas, caberia àquela Corte a análise quanto à preservação do salário de participação, porquanto considerada prejudicada, sem olvidar que o pleito na apelação fora de que "sejam julgados procedentes os pedidos formulados em desfavor da PREVI" (fl. 685).
+Assim, não subsiste o fundamento do acórdão dos aclaratórios de que, "quanto à preservação do salário de participação, ressalte-se que inexistiu pedido da recorrente específico nesse sentido" (fl. 920), visto que deixou de observar o efeito devolutivo amplo da apelação, pois o "fato de as partes terem impugnado o capítulo da sentença  ..  não devolve para o Tribunal de origem a análise da questão, decidida e não impugnada  .. " (REsp n. 2.075.880/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 24/5/2024), e, a contrario sensu, não seria possível à recorrente impugnar tema da sentença que sequer foi objeto de apreciação.
+A título de reforço, colaciona-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO. SÚMULA 283/STF. TEORIA DA CAUSA MADURA. APLICABILIDADE NO PROCESSO PENAL. PEDIDO ABSOLUTÓRIO. SÚMULA 7/STJ. FLAGRANTE ESPERADO, NÃO PREPARADO. CRIME IMPOSSÍVEL NÃO CONFIGURADO. AGRAVO REGIMENTAL CONHECIDO EM PARTE E DESPROVIDO.
+ ..
+3. Eventual omissão da sentença quanto a alguma das teses das partes pode ser sanada pelo Tribunal de apelação, como fez aqui o acórdão recorrido, em virtude da aplicação da teoria da causa madura. É desnecessário, nessa hipótese, anular a sentença. Precedentes.
+ ..
+6. Agravo regimental conhecido em parte e desprovido.
+(AgRg no AREsp n. 2.427.201/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 11/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. MANUTENÇÃO DE PLANO DE SAÚDE. RECONSIDERAÇÃO. OMISSÃO CONFIGURADA. OFENSA AO ART. 1.022 DO CPC/2015. AGRAVO INTERNO PROVIDO. DECISÃO AGRAVADA RECONSIDERADA. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+ ..
+2. O efeito devolutivo da apelação, em sua dimensão vertical, confere profundidade ampla ao recurso, impondo a apreciação de todas as questões ligadas à matéria veiculada no apelo, ainda que não enfrentadas em sentença. Precedentes.
+ ..
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.766.469/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 29/2/2024.)
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANOS MORAIS E ESTÉTICOS. FATO DO PRODUTO. DISPARO DE ARMA DE FOGO EM RAZÃO DE FALHA NO ARMAMENTO. CONSUMIDOR BYSTANDER. RECONHECIMENTO. PRESCRIÇÃO. AFASTAMENTO. TEORIA DA CAUSA MADURA. NÃO INCIDÊNCIA. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
+ ..
+6. A teoria da causa madura é aplicável às hipóteses em que o tribunal, ao julgar apelação, anula a sentença e julga imediatamente o mérito da causa, não sendo necessário o retorno dos autos ao Juízo de primeiro grau e desde que o processo esteja em condições de imediato julgamento, sem a necessidade de dilação probatória.
+ ..
+8. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.959.787/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 15/12/2023.)
+Nesse contexto, impõe-se reconhecer que houve afronta ao art. 1.013 do CPC, com devolução dos autos para análise da tese relativa à "preservação do salário de participação a partir de 02/2013 e em todos os meses em que se verificar queda remuneratória".
+A determinação de retorno para análise da referida tese não conduz, na hipótese, à cassação da decisão embargada, pois, conforme acima destacado, é questão independente e autônoma quanto à pretensão de se fazer incluir a patrocinadora no polo passivo da presente demanda, tese sem amparo e rechaçada, em especial porque o pleito relativo à preservação do salário de participação se volta contra a PREVI e não contra a patrocinadora.
+Outrossim, uma vez observado que o recurso especial da embargante merecia provimento no ponto, descabível a majoração dos honorários estabelecida na decisão embargada, a teor do entendimento firmado no Tema n. 1.059/STJ: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação".
+Ante o exposto, acolho os embargos de declaração para sanar a omissão, determinando o retorno dos autos para análise da questão da preservação do salário de participação.
+Publique-se. Intimem-se.
+Após a publicação e decorridos os prazos para eventual interposição de recursos, retornem os autos conclusos para análise do agravo interno de fls. 1.473-1.493.
+EMENTA
+PROCESSUAL CIVIL. EFEITO DEVOLUTIVO DA APELAÇÃO. MATÉRIAS PREJUDICADAS. FUNDAMENTO DA SENTENÇA CASSADO. ANÁLISE DAS QUESTÕES PREJUDICADAS. CABIMENTO. PRECEDENTES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. RECURSO ESPECIAL PROVIDO EM PARTE.
