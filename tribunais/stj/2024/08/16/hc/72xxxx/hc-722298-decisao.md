@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de PAULO ROGERIO DA SILVA GUIMARAES, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO na Apelação Criminal n. 0002689-64.2019.8.19.0028.
+A impetração, em síntese, sustenta o cabimento do ANPP em processos em curso, diante da natureza híbrida da Lei 13.964/2019, de natureza híbrida, argumentando por sua retroatividade em benefício do réu.
+Requer a concessão da ordem para desconstituir o acórdão, declarando a nulidade do feito e determinando a remessa dos autos ao Ministério Público para a oferta do ANPP.
+Vieram informações (fls. 54/58), ao que se seguiu a manifestação do Ministério Público Federal a fls. 63/66, opinando pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+A impetração não vinga.
+Quanto ao ANPP, instituído pela Lei n. 13.964/2019, este Tribunal tem entendido pela sua irretroatividade, de modo que " ..  recebida a denúncia antes da entrada em vigor da Lei n. 13.964/2019, não há falar em retroatividade do art. 28-A do CPP. Precedentes" (AgRg no HC n. 879.014/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Firme a Terceira Seção nesse sentido, com decisões de ambas as Turmas Criminais que a compõem na mesma linha. Cito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RETROATIVIDADE DA LEI N. 13.964/2019. IMPOSSIBILIDADE NO CASO CONCRETO. RECEBIMENTO DA DENÚNCIA ANTES DA INTRODUÇÃO DO INSTITUTO DESPENALIZADOR. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. TESE DE INSUFICIÊNCIA DE PROVAS. REVISÃO DA CONCLUSÃO ADOTADA PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE APROFUNDADO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INVIABILIDADE NA VIA CÉLERE DO HABEAS CORPUS.
+1. "Prevalece nesta Corte o entendimento de que, recebida a denúncia antes da entrada em vigor da lei n. 13.964/2019, como no caso dos autos, é incabível a retroatividade do art. 28-A do CPP, para aplicação do acordo de não persecução penal (ANPP). A controvérsia foi afetada à sistemática dos recursos repetitivos (Tema 1098), ocasião em que a 3ª Seção decidiu não determinar a suspensão do trâmite dos processos pendentes" (AgRg no AREsp n. 2.318.291/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023).
+2. Esta Corte é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+3. No caso, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito de tráfico de drogas imputado ao agravante, ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC n. 672.359/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/6/2021, DJe 28/6/2021)".
+5. Agravo regimental desprovido.
+(AgRg no HC n. 894.521/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENA-BASE APLICADA DE FORMA PROPORCIONAL. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE. TEMA PACIFICADO PELA TERCEIRA SEÇÃO NESTA CORTE. APLICABILIDADE DO ART. 28-A DO CPP. RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade. No caso, o método de cálculo adotado pelo Tribunal de origem para fins de dosimetria não merece censura, pois não evidenciado excesso ou desproporcionalidade.
+2. As duas Turmas que compõem a Terceira Seção deste STJ chegaram à conclusão de que o art. 28-A do CPP tem eficácia retroativa, mas desde que não tenha ocorrido o recebimento da denúncia antes da entrada em vigor da Lei 13.964/2019.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.118.260/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+O Tribunal de origem decidiu a questão nessa mesma linha, como se observa da ementa e trecho da decisão colegiada, transcrita na parte que interessa ao deslinde da controvérsia (fl. 40/44):
+EMENTA-APELAÇÃO CRIMINAL. USO DE DOCUMENTO FALSO (ART. 304 C/C ART. 297, AMBOS DO CÓDIGO PENAL). APELANTE QUE, EM MACAÉ/RJ, AO SER ABORDADO POR POLICIAIS MILITARES, FEZ USO DE UMA CARTEIRA NACIONAL DE HABILITAÇÃO FALSA.
+NULIDADE DO PROCESSO, COM A REMESSA DOS AUTOS AO MINISTÉRIO PÚBLICO, POR AUSÊNCIA DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. INOCORRÊNCIA. DENÚNCIA RECEBIDA ANTES DA VIGÊNCIA DA LEI N.º 13.964/2019. INVIÁVEL O RETROCESSO EM CASOS DE AÇÕES PENAIS EM QUE A DENÚNCIAJÁ TENHA SIDO RECEBIDA.  ..
+In casu, verifica-se que a exordial acusatória foi recebida em 28/02/2019, data anterior à vigência da Lei 13.964/2019. Logo, não há que se falar em violação ao art. 28-A do Código de Processo Penal, sendo certo que é inviável o retrocesso do benefício em casos de ações penais em que a denúncia já tenha sido recebida, como ocorreu no presente caso.
+Sendo assim, não logrou a impetração demonstrar a ocorrência da nulidade vergastada, tendo se posicionado o Tribunal a quo conforme as balizas jurisprudenciais estabelecidas por este Sodalício.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
