@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Josuel Ferreira Mirim - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça da Paraíba (Apelação Criminal n. 0000233-86.2015.8.15.0451), não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da Vara Única da comarca de Prata/PB, e mantida pelo Tribunal, ao argumento de que a r. sentença, não encontra-se devidamente fundamentada, não expondo, de modo inequívoco, as razões de convencimento que o conduziram à fixação do regime inicial fechado. No presente caso, a fixação do regime fechado para o início do cumprimento da pena, ao que tudo indica, não está em conformidade com a Súmula 719 do Supremo Tribunal Federal, que estabelece que a imposição de regime mais gravoso do que a pena deve vir acompanhada da devida fundamentação, estando contrário ao ocorrido (fls. 5/6).
+Ocorre que, além de a via eleita ter sido indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, não existe coação ilegal capaz de justificar a superação do referido óbice, pois a pena-base foi fixada acima do mínimo legal (fls. 125/126), circunstância suficiente, por si só, para justificar a imposição do regime mais rigoroso do que a reprimenda imposta autoriza, conforme expressa disposição legal (art. 33, § 3º, do CP).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. REGIME INICIAL. PENA DEFINITIVA SUPERIOR A 4 ANOS E REPRIMENDA-BASE EXASPERADA MEDIANTE DEVIDA FUNDAMENTAÇÃO. IMPOSIÇÃO DO REGIME MAIS RIGOROSO QUE DECORRE DE EXPRESSA DISPOSIÇÃO LEGAL (AR T. 33, § 3º, DO CP). CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
