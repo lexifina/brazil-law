@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí, assim ementado (fl. 741):
+REMESSA NECESSÁRIA - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - MANDADO DE INJUNÇÃO - INDÍCIOS DE COMETIMENTO DE ATO ÍMPROBO - AUSENTES - REJEIÇÃO DA INICIAL - SENTENÇA MANTIDA.
+Ausentes indícios suficientes de atos ímprobos, inexiste justa causa para o recebimento da petição inicial.
+Opostos embargos declaratórios, foram eles rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/15 (fls. 778/780).
+A parte recorrente aponta violação aos arts. 11, caput, IV e VI, e 17, § 6º, I e II, § 6º-B, todos da Lei n. 8.429/92. Sustenta ter sido prematura a rejeição da inicial, notadamente porque individualizadas as condutas dos réus e as provas acostadas são suficientes à tramitação da ação. Para além disso, segundo defende, "é possível extrair dos autos, o elemento subjetivo na modalidade doloso está plenamente caracterizado, na medida em que houve omissão da apresentação dos balancetes para fiscalização e aprovação pela Câmara do Povo, com violação de preceito básico da Administração Pública" (fl. 802).
+O recurso não foi admitido na origem (fls. 862/865), em razão do impedimento previsto na Súmula n. 7/STJ.
+O parecer do Ministério Público Federal, exarado neste Sodalício (fls. 899/904), vem pelo conhecimento e provimento do agravo e do recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso ora sub judice, o Tribunal de Justiça do Piauí negou provimento à remessa necessária relativa à sentença proferida pela Comarca de Campo Maior/PI para manter a rejeição da inicial da ação de improbidade administrativa, por falta de justa causa. Na ocasião, assentou a Corte piauiense a ausência de indícios da prática de conduta ímproba, expondo, no essencial, as seguintes razões:
+Tem-se que o parquet imputa aos requeridos a conduta de deixarem, enquanto presidentes da Câmara Municipal de Campo Maior - PI, de apresentar ao Plenário, até o dia vinte de cada mês, o balanço relativo aos recursos recebidos e despesas realizadas no mês anterior, nos anos de 2011 a 2016, em desobediência ao comando expresso pelo art. 21, VII da Lei Orgânica do Município.
+Contudo, analisando os documentos acostados pelos réus, vê-se que ocorreu a devida prestação de contas, tendo as mesmas sido aprovadas pelo TCE-PI, bem como declarações e documentos que comprovam que os balancetes ficam disponíveis na Secretaria e no Portal da Câmara, tendo toda a população e vereadores amplo acesso (ID 3296280, pags. 69/93 e ID 3296281, pags. 55/287).
+Desse modo, não se verificam indícios de improbidade e, por conseguinte, justa causa para o processamento da Ação Civil Pública.
+Como se observa, o Tribunal de Justiça concluiu pela ausência de justa causa após análise da prova documental que instrui a inicial. Em tal circunstância, a alteração das premissas adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, em razão do empecilho previsto na Súmula n. 7/STJ. Nesse sentido:
+PRO CESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. RECEBIMENTO DA INICIAL. JUSTA CAUSA. AUSÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - O tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, consignou não existir justa causa para o recebimento da ação, porquanto ausentes indícios do cometimento de atos ímprobos. Rever tal conclusão, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte. Precedentes.
+III - Não se desconhece a orientação desta Corte segundo a qual, na fase de recebimento da inicial da ação civil pública de improbidade administrativa, é suficiente a demonstração de indícios da prática do ilícito, ou, fundamentadamente, as razões de sua não apresentação, em homenagem ao princípio do in dubio pro societate. Todavia, tal entendimento encontra limite na análise da justa causa para a ação de improbidade administrativa, sendo de rigor a rejeição da exordial quando não evidenciados, ao menos, indícios suficientes da prática de conduta ímproba.
+ ..
+(AgInt no AgInt no REsp n. 1.660.310/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 1/3/2021, DJe de 5/3/2021.)
+É caso, assim, de rejeição da pretensão recursal.
+ANTE O EXPOSTO, nego provimento ao recurso.
+Publique-se.
+EMENTA
