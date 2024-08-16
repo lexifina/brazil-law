@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por Agnaldo Buliano contra a decisão do Tribunal Regional Federal da 2ª Região que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado contra o acórdão proferido na Apelação Criminal n. 0002229-45.2015.4.02.5001/ES (fls. 774/780):
+PENAL. PROCESSO PENAL. APELAÇÃO EXCLUSIVA DA ACUSAÇÃO. USO DE DOCUMENTO FALSO. COMPROVAÇÃO DE MATERIALIDADES E AUTORIAS DELITIVAS. INEXISTÊNCIA DE CRIME IMPOSSÍVEL. CONDENAÇÃO.
+I - Réu denunciado por ter apresentado, em fiscalização empreendida pela Polícia Rodoviária, autorização especial de transporte (AET) falsificada, já que as informações nela contidas não conferiam com o que constava no sistema do DNIT, em relação às datas de início e término do ato de permissão, restando absolvido da imputação do crime do art. 304 do CP, com fulcro no art. 386, III, do CPP.
+II - Materialidade delitiva demonstrada pelo laudo de perícia criminal federal que comprovou a existência de divergência no período de validade da autorização especial de transporte (AET).
+III - Autoria delitiva incontroversa, uma vez que foi o réu quem, de maneira consciente e voluntária, apresentou uma autorização especial de trânsito (AET) falsa aos policiais rodoviários federais que fizeram sua abordagem em procedimento de fiscalização de rotina.
+IV - O crime de uso de documento falso possui natureza formal, consumou-se no momento em que o réu fizera uso do documento falso, independentemente de qualquer resultado naturalístico. A adoção de mecanismos posteriores destinados à conferência de documentos não é capaz, por si só, de configurar o crime impossível, mas tão somente de evitar o exaurimento do delito.
+V - Impõe-se a condenação do réu, diante da subsunção dos fatos ao tipo do art. 304 c/c art. 297, ambos do CP, posto que comprovados nos autos pelas provas documentais e depoimentos produzidos, sob o crivo do contraditório, a materialidade e o respectivo nexo de causa e efeito com a autoria delitiva, não incidindo qualquer excludente de culpabilidade ou de ilicitude.
+VI - Apelação da acusação provida.
+No recurso especial, fls. 791/796, o agravante indica a violação do art. 17 do Código Penal, sob a tese da atipicidade da conduta em razão da ineficácia absoluta do meio, requerendo a sua absolvição.
+Apresentadas contrarrazões (fls. 800/808), o Tribunal de origem não admitiu o recurso com suporte nas Súmulas 7 e 83/STJ; 282, 283 e 284/STF (fls. 814/818).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 827/839).
+A Procuradoria-Geral da República opinou pelo não conhecimento do agravo (fls. 871/878):
+PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL COM FULCRO NA ALÍNEA ""A"" DO PERMISSIVO CONSTITUCIONAL. USO DE DOCUMENTO FALSO. PLEITO DEFENSIVO. ALEGAÇÃO DE FATO ATÍPICO E RECONHECIMENTO DA INCIDÊNCIA DO ARTIGO 17 DO CÓDIGO PENAL. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIADO ENUNCIADO N. 182 DO SUPERIOR TRIBUNAL DEJUSTIÇA. PELO NÃO CONHECIMENTO DO AGRAVO.
+1. A ausência de impugnação específica do fundamento adotado pela decisão que negou seguimento ao recurso especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça.
+2. A modificação do entendimento apresentado pela Corte a quo requer a análise do acervo probatório, o que é incompatível com a via do apelo raro. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+3. Em conclusão, o Ministério Público Federal requer o não conhecimento do agravo em recurso especial e, caso conhecido, pelo não provimento do recurso especial.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prospera a tese apresentada pelo agravante.
+Para elucidação do quanto requerido, do combatido aresto extraem-se os seguintes fundamentos (fls. 775/777 - grifo nosso):
+ ..
+O ilícito imputado ao apelado está insculpido no art. 304, c/c art. 297, caput, ambos do CP, abaixo transcritos:
+ ..
+O tipo objetivo do art. 304 consiste em fazer uso, ou seja, a ação de utilizar documento falso ou alterado, seja ele público ou particular.
+É crime comum e formal, isto é, pode ser praticado por qualquer pessoa, com exceção do próprio falsificador, e se consuma com a mera prática da conduta incriminada.
+Não admite tentativa e seu elemento subjetivo é o dolo, consistente na vontade livre e consciente de fazer uso de qualquer dos documentos falsos ou alterados, a que se referem os arts. 297 a 302 do Código Penal.
+Feitas essas considerações, verifica-se, inicialmente, que tanto a materialidade como a autoria delitivas são incontroversas, uma vez que foi o próprio apelado quem, no dia 15 de agosto de 2015, de maneira consciente e voluntária, apresentou uma Autorização Especial de Trânsito (AET) falsa aos policiais rodoviários federais que fizeram sua abordagem em procedimento de fiscalização de rotina, na BR 101, Município de Serra/ES, quando na condução do veículo de carga CAMINHÃO FORD CARGO 2422 T, ano de fab/modelo 2005,placas MCV-0964.
+Além disso, ao revés do que concluiu a sentença guerreada, não há que se falar em atipicidade da conduta, ante a ocorrência de crime impossível.
+Como é sabido, o Código Penal, em seu art. 17, adotou, em relação ao crime impossível, a teoria objetiva temperada, a qual exige, para sua caracterização, que haja a absoluta ineficácia do meio empregado ou a absoluta impropriedade do objeto, de forma a impedir a consumação do crime. Dessa forma, quando relativa a ineficácia do meio ou relativa a impropriedade do objeto os atos praticados são perfeitamente puníveis em razão da potencial eficácia para a produção do resultado típico.
+ .. , não se pode cogitar da ocorrência de crime impossível na hipótese, porquanto os policiais rodoviários tiveram a necessidade de confirmar a autenticidade do referido documento, por meio de checagem no sistema do DNIT, o que só reforça a conclusão de que o mesmo tinha aptidão para ludibriar o homem médio.
+Como se não bastasse, embora desnecessário qualquer resultado para a consumação do crime em exame, uma vez que se trata de crime formal, este poderia ter sido alcançado, que era fazer com que o réu pudesse escapar de uma fiscalização de rotina, caso, por exemplo, o referido sistema estivesse temporariamente inoperante.
+Inclusive, este também foi o entendimento do E. TRF/2 ao dar provimento ao recurso em sentido estrito ministerial e refutar a tese de crime impossível, como se infere dos seguintes trechos do voto condutor prolatado naquele acórdão:
+"Ademais, mesmo que o sujeito à conferência em sistema informatizado, quando da atuação do agente fiscalizador nas rodovias federais, o documento forjado continua apto a ludibriar o homem médio, tendo em vista que recorreu-se a exame documentoscópico para ratificar sua contrafação. Não bastasse, uma série de percalços - uma falha de acesso ao sistema, por exemplo - podem impedir ou dificultar a realização do controle dos documentos apresentados à fiscalização, de modo a permitir o exaurimento do crime pelo agente, pondo em risco outros bens jurídicos tutelados pelo ordenamento. Por óbvio, diante da potencialidade lesiva, atese do crime impossível cai por terra."
+Ora, caso pudesse prevalecer o entendimento externado pelo magistrado sentenciante, o disposto no art. 304 c/c art. 297 do CP acabaria se tornando letra morta, porquanto todos os documentos, em tese, estão sujeitos à conferência por parte daqueles a quem serão apresentados.
+ .. , não havendo dúvidas sobre a tipicidade formal e material da conduta, inclusive, já reconhecida pelo E. TRF/2, impõe-se a reforma da sentença para condenar o recorrido pela prática do crime previsto no art. 304 c/c art. 297, ambos do CP.
+ ..
+De início, a jurisprudência desta Corte Superior entende que o tipo penal de uso de documento falso é crime formal, consumando-se, portanto, com a simples utilização ou apresentação do documento.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 304 DO CPP. USO DE DOCUMENTO FALSO. CONDENAÇÃO À PENA DE 1 (UM) ANO DE RECLUSÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO OCORRÊNCIA. OFENSA AOS ARTS. 155 E 156, DO CÓDIGO PENAL. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. DOLO. COMPROVADO. ALTERAR SÚM 7/STJ. CRIME FORMAL. PREJUÍZO. DESNECESSIDADE. AGRAVO NÃO PROVIDO.
+ ..
+7. Ademais "é pacífico o entendimento neste Superior Tribunal de Justiça de que, tratando-se de crime formal, o delito tipificado no artigo 304 do Código Penal consuma-se com a utilização ou apresentação do documento falso, não se exigindo a demonstração de efetivo prejuízo à fé pública nem a terceiros" (AgInt no AREsp 1229949/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/03/2018, DJe 14/03/2018).
+8. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 656.601/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 31/10/2018 - grifo nosso).
+Por fim, a pretensão relativa ao reexame do mérito da condenação proferida pelo Tribunal a quo, ao argumento da absoluta ineficácia do meio - crime impossível, nos termos expostos no recurso em exame, não encontra amparo na via eleita.
+É que, para acolher-se a pretensão, seria necessário o reexame aprofundado do conjunto fático-probatório, providência incabível na via estreita do recurso especial, em função do óbice constante na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. FALSIFICAÇÃO GROSSEIRA. CRIME IMPOSSÍVEL. INOCORRÊNCIA. CONDUTA TÍPICA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há que falar em atipicidade na utilização de Carteira Nacional de Habilitação falsa com o intuito de se identificar perante policiais, tendo sido revelada a identidade e, consequentemente, a falsificação do documento, somente após "pesquisas realizadas na delegacia e por meio da percuciente análise pericial".
+2. Tendo o Tribunal de origem, após análise detida de todo o acervo probatório, recebido a denúncia por entender que a falsificação do documento não era grosseira, sendo necessário, inclusive, posterior perícia para a sua constatação, para se chegar à conclusão diversa, perquirindo sobre o nível da falsificação, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado em recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+3. O fato de os policiais poderem verificar por meio de consulta aos seus sistemas informatizados a autenticidade da Carteira Nacional de Habilitação não conduz à conclusão de que se estaria diante de crime impossível, já que o meio empregado pelo agente não é absolutamente ineficaz para a produção do resultado.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.264.086/DF, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 8/3/2024 - grifo nosso).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. USO DE DOCUMENTO FALSO. AUTORIZAÇÃO ESPECIAL DE TRANSPORTE. VIOLAÇÃO DO ART. 17 DO CP. CRIME FORMAL, QUE SE CONSUMA COM A APRESENTAÇÃO OU UTILIZAÇÃO DO DOCUMENTO. TESE DE CRIME IMPOSSÍVEL. PRETENSÃO DE ABSOLVIÇÃO. POLICIAIS RODOVIÁRIOS QUE TIVERAM DE CONFIRMAR A AUTENTICIDADE DO DOCUMENTO POR MEIO DE CHECAGEM NO SISTEMA DO DNIT. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
