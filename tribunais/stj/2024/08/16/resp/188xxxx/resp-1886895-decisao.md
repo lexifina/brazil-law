@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO - AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - CONTRATO DE EMPRÉSTIMO - DESCONTOS SOBRE BENEFÍCIO PREVIDENCIÁRIO - INDÍGENA IDOSO E ANALFABETO - NÃO OBSERVÂNCIA DO ART. 595 DO CC - NECESSIDADE DE INSTRUMENTO ASSINADO A ROGO E SUBSCRITO POR DUAS TESTEMUNHAS - INEXISTÊNCIA DE RELAÇÃO JURÍDICA - DESCONTOS INDEVIDOS - DANO MORAL CONFIGURADO - DEVER DE INDENIZAR - VALOR REPARATÓRIO - RESTITUIÇÃO EM DOBRO - INVERSÃO DO ÔNUS
+Verifico que o recurso especial discute a necessidade de instrumento público para que o analfabeto celebre contrato de empréstimo consignado.
+Em recente julgamento, a Segunda Seção resolveu afetar o tema, constituindo o Tema Repetitivo 1116, e determinando a suspensão dos AREsps e REsps que tratem dessa questão. Segue a ementa do julgado:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL INTERPOSTO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. CAUSA-PILOTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL COM PEDIDO DE REPETIÇÃO DE INDÉBITO. CONTROVÉRSIA ACERCA DA VALIDADE DO CONTRATO DE EMPRÉSTIMO CONSIGNADO ASSINADO A ROGO POR PESSOA ANALFABETA NA PRESENÇA DE DUAS TESTEMUNHAS.
+1. Controvérsia acerca da validade da contratação de empréstimo consignado por pessoa analfabeta mediante assinatura a rogo na presença de duas testemunhas.
+2. Julgamento de IRDR a respeito desse tema no Tribunal de origem, tendo-se firmado tese nos seguintes termos: "É considerado legal o instrumento particular assinado a rogo e subscrito por duas testemunhas para a contratação de empréstimos consignados entre pessoas analfabetas e instituições financeiras, nos ditames do art. 595 do CC, não sendo necessário instrumento público para a validade da manifestação de vontade do analfabeto nem procuração pública daquele que assina a seu rogo, cabendo ao poder judiciário o controle do efetivo cumprimento das disposições do artigo 595 do Código Civil".
+4. Acórdão recorrido fundamentado em matéria de direito federal, especialmente no art. 595 do Código Civil, que tem a seguinte redação: "No contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas".
+5. Julgamento na origem pela improcedência do pedido de anulação, sob o fundamento de validade da contratação a rogo, com duas testemunhas.
+6. Necessidade de formação de precedente qualificado a respeito desse tema no âmbito deste Tribunal Superior, a fim de preservar a missão constitucional deste Tribunal Superior como Corte de vértice em matéria de interpretação da lei federal.
+7. Questão federal afetada: "Validade (ou não) da contratação de empréstimo consignado por pessoa analfabeta, mediante instrumento particular assinado a rogo e subscrito por duas testemunhas".
+8. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp n. 1.943.178/CE, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 9/11/2021, DJe de 17/11/2021.)
+Assim, considerando-se que o presente processo se inclui entre as demandas alcançadas pela suspensão mencionada, impõe-se o retorno dos autos à Corte de origem, onde ficarão sobrestados até a publicação da tese repetitiva.
+Em face do exposto, determino a devolução dos autos ao Tribunal de origem, com baixa no STJ, para aguardo do julgamento do 1.943.178/CE, observando-se o disposto nos artigos 1.039 a 1.041 do CPC/2015.
+Intimem-se.
+EMENTA
