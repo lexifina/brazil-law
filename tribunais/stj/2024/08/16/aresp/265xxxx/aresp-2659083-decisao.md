@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, manejado pelo DISTRITO FEDERAL, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 94):
+IPTU. Desmembramento. Condomínio irregular. Posse. CTN 34. Possibilidade de desmembramento do imóvel, ocupado por mais de uma pessoa, cada qual com área distinta e separada, para fins de lançamento do tributo.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 100/109.
+A parte recorrente aponta violação aos arts. 1.022 do CPC; 3º do CTN. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, "de que a unificação do IPTU em nome da co-possuidora se deu de forma regular pela administração fiscal e em total consonância com as normas legais vigentes" (fl. 27); e (II) " a unificação do IPTU em nome da co-possuidora da autora se deu de forma regular pela administração fiscal e em total consonância com as normas legais vigentes" (fl. 31).
+Contrarrazões apresentadas às fls. 200/205.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ressalte-se, por oportuno, que a fundamentação deficiente do apelo, no tocante à negativa de prestação jurisdicional declaratória, não permite, por consequência e per saltum, ingressar no exame da alegada afronta à matéria normativa de fundo relativa ao art. 3º do CTN, porquanto remanesce ausente o indispensável prequestionamento.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
