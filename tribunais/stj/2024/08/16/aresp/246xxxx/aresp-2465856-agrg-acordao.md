@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Alega a parte agravante, em síntese, que "Não se pode falar em reexame das provas uma vez que o recurso especial somente tange na discussão sobre a tipicidade da conduta delitiva, e de elementos puramente legalistas e não de matéria de prova, como o MM. Juízo a quo afirma" (fl. 519).
+Argumenta que "o exame a ser feito por esta Corte, neste apelo nobre é quanto ao reconhecimento da atipicidade da conduta de Estelionato, o qual resta ausente de comprovação de dolo, em face do conteúdo probatório avaliado pelo acórdão guerreado. Assim, o Agravante se reporta ao indevido enquadramento legal feito pelo Tribunal a quo" (fl. 520).
+Requer a reconsideração da decisão recorrida ou o provimento do presente agravo, a fim de que seja devidamente conhecido e provido o recurso interposto.
+Foi oferecida impugnação pelo Ministério Público do Estado da Paraíba (fls. 536-539).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. ABSOLVIÇÃO. AUSÊNCIA DE DOLO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem ratificou entendimento de que ""diante dos fatos analisados, a acusação feita pelo Ministério Público está suficientemente provada, pois resto u caracterizado o fato típico descrito no artigo 171, caput, do Código Penal, como bem ficou esquadrinhada na decisão condenatória vergastada, ficando afastada a possibilidade de absolvição, bem como de extinção das penas impostas ao réu".
+2. A modificação dessa premissa implicaria a necessidade de revolvimento fático-probatório dos autos, procedimento vedado em recurso especial pelo disposto na Súmula n. 7 do STJ.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 508-512):
+No que se refere ao pleito de absolvição, assim se manifestou a Corte de origem (fls. 414-429):
+Restará, assim, configurado o ato delitivo em epígrafe quando presente o binômio vantagem ilícita/prejuízo alheio, alcançado por intermédio de meio fraudulento, isto é, com dolo, elemento que deve estar presente em todas as modalidades do tipo penal.
+A análise do conjunto probatório não deixa dúvidas de que o apelante agiu com dolo específico desde o início, para obter vantagem indevida, pois, de forma fraudulenta, induziu a vítima ao erro, adquirindo o veículo de sua propriedade e dando, em pagamento, o cheque nº.000020, agência nº. 3373, conta-corrente nº. 1390000-1, Banco Santander.
+Como visto, posteriormente, o acusado vendeu o veículo a um terceiro e, mesmo tento recebido o valor desta transação, não efetuou o pagamento acordado com a ofendida, tendo a convencido a não depositar o cheque, não efetuando o pagamento até a presente data e fazendo com que ela tivesse um prejuízo no valor de R$12.000,00 (doze mil reais).
+Embora tenha o apelante negado a prática delitiva, em nenhum momento conseguiu comprovar a versão por ele apresentada, estando a palavra da vítima corroborada pelas demais p r o v a s d o s a u t o s .
+Nesse mesmo sentido, decidiu o magistrado, razão por que faço uso de seus fundamentos, como parte integrante deste julgado, pelo que transcrevo importante trecho, in litteris:
+"(..) Assim sendo, também carece de qualquer credibilidade a informação de que o réu quitou sua dívida com a vítima tendo em vista o pedido de abertura de inquérito ingressado pela vítima na justiça, a fim de indiciar o acusado pela prática de estelionato.
+Ademais, as alegações de que o réu pagava porcentagens da dívida ao ex-esposa da vítima não o desabonam de sua conduta delituosa, uma vez que tanto essa alegação não foi comprovada em juízo, como evidencia que a dívida deveria ter sido quitada são somente com a pessoa da sra. Nilda Silpino e não com o seu ex-companheiro.(..)"
+Vê-se, portanto, que o réu cumpriu as elementares do tipo penal, sendo o fato ainda antijurídico e culpável e não havendo causas excludentes de ilicitude ou de culpabilidade, a m a n u t e n ç ã o d a c o n d e n a ç ã o s e i m p õ e .
+Sobre a versão defensiva de que a emissão de cheque pré-datado sem saldo suficiente para pagá-lo não caracteriza crime, entendo não restar aplicada à espécie.
+Na hipótese em apreciação, verificou-se que, ao chegar a data aprazada para fazer a compensação do citado cheque, o denunciado ludibriou a vítima e esta sequer depositou o cheque junto ao banco, garantindo o denunciado que lhe pagaria posteriormente. Passado os dias, o denunciado não efetuou o pagamento acordado, fazendo com que a vítima tivesse um prejuízo no valor de R$ 12.000,00 (doze mil reais).
+Apenas a título complementar, se fosse o caso dos autos, esclarece-se que, na hipótese de emissão de cheques sem previsão de fundo, passa a caracterizar o delito quando há fraude na conduta do agente, no momento em que essa prática dolosa é utilizada de modo a obter vantagem patrimonial em prejuízo alheio .
+De fato, a Súmula 246 do STF enuncia: "comprovado não ter havido fraude, não se configura o crime de emissão de cheque sem fundos", ou seja, para que seja caracterizado o crime é necessário a caracterização do elemento volitivo na esfera cognitiva do autor do fato. Para tanto, o delito de estelionato pressupõe sempre a má-fé do agente e não podendo ser tipificado na modalidade culposa, assim sendo, admite-se somente o enquadramento do crime em sua modalidade dolosa, de modo livre, consciente e voluntário.
+Logo, a presença do dolo antecedente e a intenção de auferir vantagem econômica patrimonial em desfavor da vítima caracterizam o delito de estelionato. A fraude deve ter por fim o lucro ilícito e não mero inadimplemento de obrigação, para a configuração do crime de estelionato, é exigível que o agente empregue qualquer meio fraudulento, induzindo ou mantendo alguém em erro e obtendo, assim, vantagem ilícita para si ou para outrem, com a consequente lesão patrimonial da vítima .
+Portanto, diante dos fatos analisados, a acusação feita pelo Ministério Público está suficientemente provada, pois restou caracterizado o fato típico descrito no artigo 171, caput, do Código Penal, como bem ficou esquadrinhada na decisão condenatória vergastada, ficando afastada a possibilidade de absolvição, bem como de extinção das penas impostas ao réu.
+Como visto, o Tribunal de origem concluiu que o "conjunto probatório não deixa dúvidas de que o apelante agiu com dolo específico desde o início, para obter vantagem indevida, pois, de forma fraudulenta, induziu a vítima ao erro, adquirindo o veículo de sua propriedade e dando, em pagamento, o cheque nº.000020, agência nº. 3373, conta-corrente nº. 1390000-1, Banco Santander. Como visto, posteriormente, o acusado vendeu o veículo a um terceiro e, mesmo tento recebido o valor desta transação, não efetuou o pagamento acordado com a ofendida, tendo a convencido a não depositar o cheque, não efetuando o pagamento até a presente data e fazendo com que ela tivesse um prejuízo no valor de R$12.000,00 (doze mil reais)".
+"Sedimentou-se na jurisprudência desta Corte Superior de Justiça o entendimento de que a emissão de cheques pós-datados pode caracterizar o crime previsto no artigo 171 do Código Penal quando restar comprovado que as cártulas não foram fornecidas como garantia de dívida, mas sim com o intuito de fraudar. "(HC n. 336.306/MS, Ministro Jorge Mussi, Quinta Turma, DJe 2/2/2016).
+No caso, para se chegar à conclusão de que o cheque, no valor de R$ 12.000,00 (doze mil reais), não foi passado com o intuito de fraudar, mas de simplesmente garantir um negócio, demandaria o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. ERRO DE PREMISSA FÁTICA. OCORRÊNCIA. TESE ABSOLUTÓRIA POR ATIPICIDADE DA CONDUTA. SÚMULA 7/STJ. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA CORPORAL. POSSIBILIDADE. PENA FIXADA NO MÍNIMO LEGAL. DÚVIDA A RESPEITO DA VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS. INTERPRETAÇÃO EM FAVOR DO RÉU. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. As instâncias de origem concluíram que foi devidamente comprovado o elemento subjetivo do tipo, de modo que a tese absolutória, nos termos em que veiculada no recurso especial, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, pelo óbice da da Súmula 7/STJ.
+2. Conforme a jurisprudência desta Corte Superior, "a emissão de cheques pós-datados pode caracterizar o crime previsto no artigo 171 do Código Penal quando restar comprovado que as cártulas não foram fornecidas como garantia de dívida, mas sim com o intuito de fraudar. Precedentes do STJ e do STF." (HC n. 336.306/MS, Ministro Jorge Mussi, Quinta Turma, DJe 2/2/2016).
+ ..
+5. Embargos de declaração parcialmente acolhidos, com efeitos infringentes, pra estabelecer o regime aberto para o resgate inicial da reprimenda de 1 (um) ano de reclusão, substituindo a pena privativa de liberdade por 1 (uma) restritiva de direitos a ser especificada pelo Juízo da Execução, mantidos os demais critérios da condenação.
+(EDcl no AgRg no AREsp n. 2.257.175/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE ESTELIONATO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUTORIA E MATERIALIDADE DO DELITO. PRETENSÃO DE ABSOLVIÇÃO. IMPOSSIBILIDADE DE REVISÃO DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES. SÚMULA N. 283 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste omissão e, consequentemente, violação do art. 619 do CPP quando desenvolvida fundamentação suficiente a respeito de questão controvertida.
+2. Evidenciadas a autoria e a materialidade do tipo penal de estelionato pela análise das provas e fatos da causa, não cabe reexaminá-las em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+3. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula n. 283 do STF).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.744.184/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+AGRAVO REGIMENTAL EM AGRAVO EM EM RECURSO ESPECIAL. ROUBO E ESTELIONATO. ABSOLVIÇÃO E CRIME IMPOSSÍVEL. REEXAME DE PROVA. SÚMULA N. 7 DO STJ. COTEJO ANALÍTICO. NÃO REALIZAÇÃO. RECURSO NÃO PROVIDO.
+1. No tocante à fragilidade de provas para a condenação, diferentemente do alegado, constato que a instância de origem, após minuciosa análise do acervo fático-probatório carreado aos autos, produzido sob o crivo do contraditório, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do recorrente pelo crime em comento.
+2. Para alterar tal conclusão, inclusive adentrar na tese do crime impossível, seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado nesta esfera, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A ausência de similitude fática entre o aresto paradigma e o acórdão objeto de embargos de divergência impede o seu processamento, nos termos do art. 266, § 4º, do RISTJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.907.197/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/10/2021, DJe de 4/11/2021).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.
+ESTELIONATO. ART. 171, § 3º, DO CÓDIGO PENAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE DOLO E ERRO DE PROIBIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. INVIABILIDADE DA ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO IMPROVIDO.
+1. Ausente a apontada negativa de prestação jurisdicional, na medida em que voto condutor do acórdão apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, não havendo falar em violação ao art. 619 do CPP.
+2. Tendo a Corte de origem, soberana na apreciação da matéria fático-probatória, concluído que as condutas imputadas ao recorrente caracterizam o tipo previsto no art. 171, § 3º, do CP, porque comprovadas a materialidade e autoria do delito, bem como o dolo, o exame da pretensão de absolvição encontra óbice na Súmula 7/STJ.
+3. Conforme a jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.532.799/SC, relagor Ministro Nefi Cordeiro, Sexta Turma, julgado em 22/03/2018, DJe de 03/04/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+Em que pesem os argumentos da partes agravante, a decisão agravada deve ser mantida.
+Conforme demonstrado na decisão agravada, em relação ao argumento do que
+não há comprovação de dolo, é inviável ir de encontro à conclusão a que chegaram as instâncias ordinárias - "a análise do conjunto probatório não deixa dúvidas de que o apelante agiu com dolo específico desde o início, para obter vantagem indevida, pois, de forma fraudulenta, induziu a vítima ao erro, adquirindo o veículo de sua propriedade e dando, em pagamento, o cheque nº.000020, agência nº. 3373, conta-corrente nº. 1390000-1, Banco Santander" (fl. 509)  ..  "diante dos fatos analisados, a acusação feita pelo Ministério Público está suficientemente provada, pois restou caracterizado o fato típico descrito no artigo 171, caput, do Código Penal, como bem ficou esquadrinhada na decisão condenatória vergastada, ficando afastada a possibilidade de absolvição, bem como de extinção das penas impostas ao réu" -, tendo em vista que demandaria o revolvimento probatório das provas colhidas, procedimento esse que, como se sabe, encontra óbice no enunciado da Súmula nº 7/STJ.
+Com efeito: "A pretensão recursal que objetiva a desclassificação da conduta do agravante ou a sua absolvição, seja por atipicidade formal, pela ausência de prejuízo à vítima ou pelo reconhecimento da inexistência de dolo, demandaria a ampla reanálise do conjunto fático-probatório do feito, o que é vedado nesta via especial, conforme preconizado pela Súmula n. 7 do Superior Tribunal de Justiça." (AgRg no AREsp n. 2.385.603/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024.). Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RESP. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. A pretensão absolutória - por ausência de dolo e insuficiência da prova - implica a necessidade de reexame fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+ ..
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.522.092/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. TIPICIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. ÓBICE DA SÚMULA 283/STF. ATENUANTE INOMINADA DO ART. 66 DO CÓDIGO PENAL. SÚMULA 7/STJ. VALOR DA PRESTAÇÃO PECUNIÁRIA. SÚMULA 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito à atipicidade da conduta, em razão da ausência da alegada ausência de dolo, deve-se ressaltar que para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva de que a solução da controvérsia e a violação de lei federal independem do reexame do conjunto fático-probatório dos autos.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.517.591/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
