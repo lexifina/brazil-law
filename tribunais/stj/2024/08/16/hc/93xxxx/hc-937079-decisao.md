@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Weiber Souza Peres, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça de Goiás no julgamento do Habeas Corpus n. 5625789-98.2024.8.09.0000.
+Colhe-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de tráfico de drogas em 22/6/2024. A prisão em flagrante foi convertida em preventiva (fls. 172/175).
+Isso porque foram apreendidos em sua residência 531,353 g de maconha e R$ 14.000,00 (quatorze mil reais) em espécie (fl. 13).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem (fls. 12/14).
+Neste writ, a defesa sustenta haver nulidade da prisão em flagrante sob o argumento de violação de domicílio.
+Pede, inclusive liminarmente, o reconhecimento da nulidade e, por conseguinte, a soltura do paciente.
+É o relatório.
+De início, destaco que  a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 629.625/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 17/12/2020).
+Portanto, passo a analisar diretamente a insurgência.
+Cumpre decidir se existem fundadas razões a autorizar o ingresso policial no domicílio do acusado.
+O Supremo Tribunal Federal, no Julgamento do Recurso Extraordinário n. 603.616/RO, apreciando o Tema 280 da repercussão geral, de Relatoria do Exmo. Ministro Gilmar Mendes, firmou a tese de que a entrada forçada em domicílio sem mandado judicial é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que, dentro da casa, ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil, e penal do agente ou da autoridade e de nulidade dos atos praticados, conforme se extrai do esclarecimento do Exmo. Ministro Teori Zavascki, no corpo do julgado.
+No caso, a Corte local, ao afastar a alegação de violação de domicílio, considerou o seguinte contexto fático (fl. 13 - grifo nosso):
+No caso concreto, a aventada ilegalidade da abordagem pessoal e invasão de domicílio não restaram imediatamente demonstradas. Principalmente, porque os policiais narraram que: "após denúncias de um ponto de tráfico de drogas no endereço mencionado, intensificamos o patrulhamento na região que quando ao passar em frente ao local, visualizamos WEIBER SOUZA PERES em um corredor da residência. Quando avistou a equipe de CPE, saiu correndo para os fundos e deixou cair uma porção de maconha." (mov. 1, arquivo 2, p. 14). Essa versão foi confirmada tanto pelo paciente quanto pela investigada Ana Lúcia da Fonseca Freitas, ao serem interrogados perante o Delegado de Polícia, conforme se vê nos vídeos constantes dos autos n. 5611687-38.2024.8.09.0011, movimentação 1, arquivos 9 e 13.
+Logo, não restou de plano comprovada. Assim, esta matéria deverá ser melhor analisada após instrução probatória, sob o crivo do contraditório e ampla defesa, a fim de verificar se a abordagem foi imprópria e se houve invasão domiciliar.
+Da leitura do fragmento acima colacionado observa-se que o Tribunal local rejeitou a pretensão de trancamento da ação penal, relatando que os policiais se dirigiram ao local em razão de diversas denúncias de tráfico de drogas no local, e que, após intensificarem o patrulhamento na região, visualizaram o paciente no corredor da residência, que empreendeu fuga para os fundos e deixou cair uma porção de maconha. Essa versão foi confirmada pelos corréus, conforme vídeos constantes dos autos. Tais circunstâncias, em conjunto, configuram fundadas razões para o ingresso domiciliar.
+A propósito, mutatis mutandis: AgRg no HC n. 785.658 /ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/4/2024.
+Em verdade, o feito se encontra em sua fase instrutória, devendo a tese de violação de domicílio no momento da prisão em flagrante ser analisada durante a instrução processual em juízo, em cognição plena (AgRg no HC n. 854.089/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/5/2024 - grifo nosso).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROC ESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. NULIDADE. ALEGAÇÃO DE ILICITUDE NO INGRESSO FORÇADO EM DOMICÍLIO. NÃO OCORRÊNCIA. FUNDADAS RAZÕES.
+Petição inicial indeferida liminarmente .
