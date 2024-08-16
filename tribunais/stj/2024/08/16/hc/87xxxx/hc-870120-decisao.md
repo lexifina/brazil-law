@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública estadual favor de VANDERLEI JOCHKECK DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, nos autos da apelação criminal n. 5003275-63.2023.8.24.0019.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 07 (sete) anos, 11 (onze) meses e 08 (oito) dias de reclusão, em regime inicial fechado, mais o pagamento de 793 (setecentos e noventa e três) dias-multa, como incurso nas iras do art. 33, caput, c/c art. 40, V, da Lei n. 11.343/2006 (fls. 600-612).
+Inconformada, a defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso, consoante voto condutor do acórdão de fls. 735-742.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a abordagem policial é nula, uma vez que não existia indícios de flagrante delito.
+Afirma que o paciente estava apenas conduzindo o seu veículo em via pública, o que é lícito e não configura suspeita.
+Aduz ser desproporcional o aumento da basilar diante da quantidade de droga apreendida.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 753-754).
+Informações prestadas às fls. 760-761.
+O Ministério Público Federal, às fls. 796-800, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem.
+É o relatório. DECIDO.
+Na presente impetração, a defesa busca: i) o reconhecimento da nulidade da abordagem policial e os seus consectários jurídicos; e ii) a diminuição da pena-base.
+Com efeito, a busca pessoal - prevista no art. 244, do Código de Processo Penal - requer a presença de fundada suspeita de que a pessoa abordada esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou, ainda, quando a medida for determinada no curso de busca domiciliar.
+Na hipótese dos autos, a Corte local assentou que: i) "os policiais receberam a informação de que um veículo Chevrolet/Chevet teteria se deslocado da cidade de Severiano de Almeida/RS até o município de Concórdia/SC para aquisição de drogas"; ii) "Em rondas em buscas do automotor, receberam informações do setor de inteligência que o veículo estaria retornando para o estado vizinho, de modo que tentaram efetuar a abordagem dos ocupantes mediante sinais luminosos e sonoros, mas eles não pararam"; iii) "Então, o apelante  ora paciente , que estava no banco do caroneiro, arremessou algum objeto para fora, e, em seguida, o motorista parou o carro"; iv) "Na sequência, os policiais realizaram a busca pessoal e veicular e localizaram uma quantidade de maconha no interior do veículo. Após um dos policiais ter se dirigido até o local em que foi dispensado o objeto, este logrou êxito em apreender uma porção de cocaína, embora uma parte tenha sido espalhada no chão no momento em que foi arremessada pelo apelante".
+A par dessas considerações, entendo haver justa causa para a busca pessoal.
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO ILÍCITO DE ENTORPECENTES. ABORDAGEM POLICIAL. FUNDADAS RAZÕES. DELATIO CRIMINIS ESPECIFICADA. FUGA DO AGRAVANTE AO AVISTAR A EQUIPE POLICIAL. CONSTRANGIME NTO ILEGAL NÃO EVIDENCIADO. PRISÃO PREVENTIVA. APREENSÃO DE QUASE MEIO QUILO DE MACONHA E BALANÇA DE PRECISÃO. MAUS ANTECEDENTES. TRÊS REGISTROS ANTERIORES PELO MESMO DELITO. CRIME SUPOSTAMENTE COMETIDO DURANTE CUMPRIMENTO DE PENA ANTERIOR. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+ ..
+3. No caso, durante patrulhamento de rotina, os populares locais relataram aos policiais a prática de tráfico de drogas, indicando o endereço exato do agravante, bem como fornecendo sua descrição física. Como consequência, os agentes se dirigiram ao local para averiguar a veracidade da notícia. Ao se aproximarem, o agravante, cuja aparência era compatível com a descrição dada, tentou empreender fuga em direção a uma residência, sendo, todavia, alcançado antes pelos agentes, ocasião em que foram encontradas as drogas. Observa-se, portanto, a existência de fundadas razões para a abordagem.
+ ..
+7. Agravo regimental desprovido" (AgRg no HC n. 850.173/RN, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/9/2023).
+Confira-se, ainda, em sentido semelhante: AgRg no HC n. 824.520/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023; AgRg no HC n. 830.929/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; AgRg no HC n. 788.601/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/3/2023.
+No mesmo sentido, cito as seguintes decisões monocráticas do Supremo Tribunal Federal: Re n. 1.447.030/RS, Rel.ª Min.ª Cármen Lúcia, DJe 22/09/2023; HC n. 232.327, Rel. Min. Nunes Marques, DJe 21/09/2023.
+Além disso, destaco que não vislumbro nenhuma ilegalidade na atuação dos policiais, os quais estão amparados pelo Código de Processo Penal a abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso. Cito precedentes nesse sentido: AgRg no HC n. 723.390/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/6/2022; AgRg no HC n. 688.825/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 20/5/2022; AgRg no HC n. 746.064/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/8/2022; e AgRg no RHC n. 164.112/MG, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 8/8/2022.
+No mais, conforme dispõe o art. 42 da Lei n. 11.343/2006, o magistrado, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a quantidade, natureza e diversidade das substâncias ou dos produtos apreendidos, a personalidade e a conduta social do agente.
+In casu, a quantidade, a natureza e a variedade das drogas apreendidas - 11g de maconha e 26,5 de cocaína (fl. 607) - justificam a elevação da pena-base.
+Nesse compasso, ao contrário do que sustenta a defesa, mostra-se idônea a fundamentação, uma vez que, há muito tempo, a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza e a quantidade da substância entorpecente.
+A propósito:
+" ..
+1. É certo que no caso de fundamentação baseada na quantidade e/ou natureza dos entorpecentes, aplica-se o art. 42 da Lei n. 11.343/06, cuja norma prevê a preponderância de tais circunstâncias em relação às demais previstas no art. 59 do Código Penal - CP, cabendo ao magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+ .. " (AgRg no HC n. 778.804/GO, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 23/8/2023).
+Nessa linha: AgRg no HC n. 829.342/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2023; AgRg no HC n. 816.650/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/8/2023; AgRg no HC n. 750.441/SP, Quinta Turma, Rel. Min. João Batista Moreira (Desembargador Convocado do TRF1), DJe de 21/8/2023; e AgRg nos EDcl no HC n. 817.706/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
