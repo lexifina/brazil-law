@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 487, II, 1.015, II, e 1.022 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 888):
+Agravo de Instrumento - Ação declaratória de ressarcimento de valores por enriquecimento sem causa - Decisão saneadora que rejeitou a alegação de prescrição suscitada pela agravante - Insurgência - Hipótese não elencada no rol do art. 1.015 do Código de Processo Civil - Inaplicabilidade da taxatividade mitigada (STJ, Tema 988), por não se tratar de situação de urgência decorrente da inutilidade da questão no recurso de apelação - Precedentes - RECURSO NÃO CONHECIDO.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 909):
+Embargos de declaração - Alegação de omissão e contradição do acórdão proferido - Descabimento - Inexistência dos vícios apontados - Argumentos que foram apreciados no acórdão embargado, ainda que de forma contrária ao pretendido pela aqui embargante - Caráter infringente inadmissível na espécie - Prequestionamento - Desnecessidade, a teor do que preconiza o art. 1.025 do CPC - EMBARGOS REJEITADOS.
+Sustenta a parte agravante que, sendo a questão da prescrição ou da decadência examinada por meio de decisão interlocutória, o recurso cabível é o agravo de instrumento, com fundamento no art. 1.015 do Código de Processo Civil.
+Afirma que a prescrição é matéria de ordem pública, que pode ser arguida em qualquer grau de jurisdição.
+Aduz que as decisões interlocutórias que versem sobre prescrição e decadência são decisões de mérito, na forma do art. 487, II, do Código de Processo Civil, que podem ser impugnadas por meio de agravo de instrumento.
+Afirma, por fim, que deve ser reconhecida a prescrição da pretensão constante da ação de declaração ajuizada pelos agravados.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que o Tribunal de origem não conheceu do agravo de instrumento interposto pela ora agravante, conforme os seguintes fundamentos (fls. 890/892):
+(..)
+Prevalece, no entanto, a regra de que as hipóteses de cabimento do agravo de instrumento são taxativas, admitindo-se apenas excepcionalmente sua mitigação quando presentes os pressupostos fixados referido precedente, quais sejam, a urgência e a inutilidade do julgamento da questão na apelação.
+Todavia, a hipótese presente nos autos não se enquadra no rol do art. 1.015 do CPC e também não se trata de situação de urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+E nem se há argumentar que, por ser a prescrição matéria de mérito, estaria justificado o cabimento do recurso com fundamento no art. 1015, II, do CPC, porquanto referida questão poderá ser oportunamente devolvida ao Tribunal, em eventual recurso de apelação, sem que isso seja capaz de causar qualquer prejuízo à agravante.
+(..)
+Ante o exposto e considerando todo o mais que dos autos consta, pelo meu voto, NÃO CONHEÇO do recurso.
+(..)
+Com efeito, verifico que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que é cabível a interposição de agravo de instrumento contra decisão que reconhece ou rejeita a ocorrência de decadência ou de prescrição, nos termos do art. 1.015, II, do Código de Processo Civil. Nesse sentido, confiram -se:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESCRIÇÃO AFASTADA EM DESPACHO SANEADOR. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO DE INSTRUMENTO. QUESTÃO NOVAMENTE TRATADA PELO TRIBUNAL DE ORIGEM EM APELAÇÃO DA AUTORA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. INTELIGÊNCIA DOS ARTS. 487, INCISO II, C.C. 1.015, II, DO CPC/2015. RECURSO PROVIDO.
+1. A questão posta cinge-se em saber se houve ou não preclusão em relação à prescrição suscitada pela parte ora recorrida, considerando que o Juízo de primeiro grau decidiu a respeito na decisão saneadora e não houve interposição do respectivo agravo de instrumento.
+2. Esta Corte Superior, sob a égide do Código de Processo Civil de 1973, tem entendimento pacífico no sentido de ser necessária a interposição de agravo de instrumento contra a decisão saneadora que afasta a prescrição, sob pena de preclusão consumativa.
+3. Na hipótese, o Tribunal de origem não reconheceu a preclusão da matéria, por entender que o STJ somente pacificou o cabimento de agravo de instrumento contra decisão interlocutória que afasta a alegação de prescrição, após a vigência do CPC/2015, no início de 2019, com o julgamento do REsp n. 1.778.237/RS, ou seja, em momento posterior à prolação da decisão saneadora que afastara a prescrição na ação subjacente.
+4. Ocorre que, nos termos do art. 487, inciso II, do CPC/2015, a decisão que aprecia requerimento da parte sobre prescrição trata de questão relacionada ao próprio mérito da causa. Logo, esse decisum submete-se ao disposto no inciso II do art. 1.015 do novo CPC, o qual estabelece o cabimento de agravo de instrumento contra as decisões interlocutórias que versarem sobre o "mérito do processo".
+5. Por essa razão, havendo expressa previsão legal de cabimento do agravo de instrumento contra decisão interlocutória que versar sobre o mérito do processo, o que inclui, a teor do art. 487, inciso II, do CPC/2015, a questão relativa à ocorrência da prescrição, não há como afastar a ocorrência da preclusão consumativa na hipótese.
+6. Com efeito, ao contrário do que entendeu o Tribunal de origem, a necessidade de interposição de agravo de instrumento contra a decisão interlocutória que reconhece ou afasta a prescrição, na vigência do novo diploma processual, não decorre de interpretação jurisprudencial do STJ, mas sim de expressa determinação legal - arts. 487, II, c.c. 1.015, II, do CPC/2015.
+7. Recurso especial provido.
+(REsp n. 1.972.877/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27.9.2022, DJe de 29.9.2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022, I e II, DO CPC/2015 CONFIGURADA EM PARTE. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA SOBRE MÉRITO DO PROCESSO (PRESCRIÇÃO E DECADÊNCIA) E EXCLUSÃO DE LITISCONSORTE (LEGITIMIDADE DE PARTE). CABIMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderia infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022, II, do CPC/2015.
+2. Nos termos do art. 487, II, do CPC/2015 - com redação diversa do art. 269, IV, do CPC/1973 -, haverá resolução de mérito quando o juiz decidir acerca da decadência ou da prescrição, reconhecendo ou rejeitando sua ocorrência.
+3. Cabe agravo de instrumento contra decisão que reconhece ou rejeita a ocorrência da decadência ou da prescrição, incidindo a hipótese do inciso II do art. 1.015 do CPC/2015.
+4. O art. 1.015, VII, do CPC/2015 estabelece que cabe agravo de instrumento contra as decisões que versarem sobre exclusão de litisconsorte, não fazendo nenhuma restrição ou observação aos motivos jurídicos que possam ensejar tal exclusão.
+5. É agravável, portanto, a decisão que enfrenta o tema da ilegitimidade passiva de litisconsorte, que pode acarretar a exclusão da parte.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.772.839/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14.5.2019, DJe de 23.5.2019.) (destaques nossos)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do agravo de instrumento como entender de direito, superada a questão acima tratada.
+Intimem-se.
+EMENTA
