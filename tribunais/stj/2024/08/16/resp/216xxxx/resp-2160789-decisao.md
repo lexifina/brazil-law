@@ -1,0 +1,17 @@
+DECISÃO
+Na origem, o presente feito decorre de ação monitória ajuizada por Maria Adélia Veloso da Guarda e outros contra o Município de Cubatão, objetivando o ressarcimento de despesas com reparos de imóveis locados à municipalidade por meio de contrato firmado entre as partes.
+O caput do art. 9º do RI/STJ prevê que a competência das Seções e Turmas será fixada em razão da natureza da relação jurídica litigiosa, descrevendo, ainda, em seus parágrafos, as matérias atribuídas a cada uma das Seções desta Corte.
+Em seu § 2º, inciso II, o dispositivo em destaque estabelece que compete à Segunda Seção processar e julgar os feitos relativos às obrigações em geral de direito privado, mesmo quando ente federativo participar do contrato.
+Dessa forma, nas ações em comento, nas quais a causa de pedir esteja relacionada tão somente com o direito privado, a competência será sempre da Segunda Seção, ainda que o ente federativo participe da relação processual (o que é o caso na presente lide).
+A controvérsia travada nos presentes autos insere-se exatamente na competência da Segunda Seção desta Corte.
+Confira-se:
+PROCESSUAL CIVIL. LOCAÇÕES. AÇÃO RENOVATÓRIA. LOCAÇÃO COMERCIAL. CONAB. IMÓVEL DE EMPRESA PÚBLICA. LEI N. 8.245/1991. PROIBIÇÃO DO COMPORTAMENTO CONTRADITÓRIO (NEMO POTEST VENIRE CONTRA FACTUM PROPRIUM). SUCUMBÊNCIA RECÍPROCA. INOCORRÊNCIA. ART. 21, PARÁGRAFO ÚNICO, DO CPC.
+1. Somente as locações de imóveis de propriedade da União, dos estados e dos municipios, de suas autarquias e fundações públicas não se submetem às normas da Lei n. 8.245/1991, nos expressos termos do artigo 1º, parágrafo único, alínea "a", n. 1, do texto legal.
+2. No caso concreto, não consta nenhuma informação no sentido de que o imóvel objeto do contrato de locação seria de titularidade da União, e a Conab mera possuidora deste. Muito pelo contrário, infere-se do acórdão que o imóvel é de propriedade da empresa pública, sujeita às normas aplicáveis às empresas privadas, inclusive nas relações jurídicas contratuais que venha a manter.
+3. As locações são contratos de direito privado, figure a administração como locadora ou como locatária. Neste último caso, não há norma na disciplina locatícia que retire do locador seus poderes legais. Naquele outro também não se pode descaracterizar o contrato de natureza privada, se foi este o tipo de pacto eleito pela administração, até porque, se ela o desejasse, firmaria contrato administrativo de concessão de uso. (CARVALHO FILHO, José dos Santos. Manual de direito administrativo. 22ª ed., rev, ampl. e atualizada. Editora Lumen Juris: Rio de Janeiro, 2009. p. 183)
+4. O intento da recorrente de contratar com base na Lei de Locações, oferecendo condições para renovação da locação e gerando uma legítima expectativa à locatária, e, posteriormente, não querer se submeter à Lei n. 8.245/1991, atenta contra o princípio da boa-fé objetiva, notadamente em sua vertente venire contra factum proprium.
+5. Sob o ângulo do princípio da causalidade, a recorrente, ré na ação renovatória de aluguel, ao se opor à renovação do contrato de locação celebrado entre as partes, não obstante o cumprimento dos requisitos previstos da Lei n. 8.245/1991, deve responder pelos ônus sucumbenciais. É que sem a sua conduta não haveria motivo para a propositura da demanda.
+6. Recurso especial não provido.
+(REsp n. 1.224.007/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/4/2014, DJe de 8/5/2014.)
+Ante o exposto, distribuam-se os autos a uma das Turmas que compõem a Segunda Seção.
+EMENTA
