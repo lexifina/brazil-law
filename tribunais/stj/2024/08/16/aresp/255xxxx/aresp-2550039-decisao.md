@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 287):
+APELAÇÃO. Prestação de serviço. Telefonia. Relação de consumo. Ação declaratória c/c indenização por danos morais. Sentença de parcial procedência que declarou a inexistência dos débitos e determinou a exclusão de seus registros da plataforma "Serasa Limpa Nome". Insurgência do autor, requerendo indenização por danos morais e condenação exclusiva da ré ao pagamento de honorários advocatícios ou, ao menos, o arbitramento de sucumbência recíproca. Irresignação que não prospera. Danos morais que não se verificam in re ipsa, pela simples cobrança de dívida reconhecida como inexistente, sendo necessário que a parte consumidora comprove a existência de efetivo prejuízo, fosse através de cobranças excessivas e vexatórias relacionadas à referida dívida, fosse através da demonstração concreta de que a anotação de seu nome na plataforma "Serasa Limpa Nome" dificultou seu acesso ao crédito ou obstou a contração de obrigações junto ao mercado de consumo. Ausência de prova do dano in concreto. Tendo o autor decaído da maior parte do pedido, mantida, a teor do parágrafo único do artigo 86 do Código de Processo Civil, a sua condenação ao pagamento das custas processuais e dos honorários advocatícios, observada, no entanto, a gratuidade da justiça a ele concedida. Recurso não provido.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 86 do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta que no caso existem dois pedidos principais: a) reconhecimento da prescrição com declaração de inexigibilidade do débito, exclusão e impossibilidade de continuar cobrando; e b) danos morais. Afirma que a autora foi vencedora no primeiro pedido e a requerida no segundo , devendo, por isso, ser reconhecida a sucumbência recíproca (fl. 303).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fl. 294):
+Tendo em vista que, como bem pontuou o douto magistrado singular, o autor "decaiu da maior parte do pedido", era mesmo de rigor, a teor do parágrafo único do artigo 86 do Código de Processo Civil, a sua condenação ao pagamento das custas processuais e dos honorários advocatícios, observada a gratuidade da justiça a ele concedida.
+Dessa forma, alterar a conclusão do acórdão recorrido, que asseverou expressamente que o autor da ação decaiu da maior parte do pedido, demandaria reexame de fatos e provas dos autos, providência vedada em recurso especial, ante o teor da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
