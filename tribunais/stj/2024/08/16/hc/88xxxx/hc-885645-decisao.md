@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em favor de WILLIVAN ELVIRO KELB ROSA, impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, proferido na Apelação Criminal n. 5022100-93.2023.8.21.0001/RS.
+Consta dos autos que o paciente foi condenado às penas de 9 (nove) anos de reclusão, em regime inicial fechado, além de multa de 80 (oitenta) dias-multa, à razão de 1/30 (um trigésimo) do salário-mínimo nacional vigente à época do fato, como incurso nas sanções dos arts. art. 33, caput, da Lei 11.343/2006, a teor da Lei n. 8.072/1990, c/c o art. 61, I, do Código Penal.
+O paciente interpôs recurso de apelação, tendo o Tribunal de origem dado parcial provimento para alterar a pena para 7 (sete) anos e 3 (três) meses de reclusão, no regime fechado.
+A impetrante sustenta a revisão da pena aplicada ao paciente, posto que não foi utilizado o patamar estabelecido na sentença para a agravante da reincidência.
+Alega que o juízo de primeiro grau aumentou a pena-base em aproximadamente 1/8 (um oitavo) em razão da reincidência. Contudo, em sede de recurso "o Tribunal de justiça ao julgar a dosimetria da pena entendeu por afastar as vetoriais "personalidade", "conduta social", "motivação" e "consequências", restando a pena-base em 06 anos e três meses. Na segunda fase, manteve os fundamentos da sentença quanto a reincidência. Nesse sentido, realizou-se um aumento de 01 (um) ano sobre a pena-base, ou seja, fração corresponde a 1/6 (um sexto) de aumento, ou seja, fração de aumento superior àquela utilizada pelo magistrado de primeiro grau, tendo em vista mudança da quantidade de pena aplicada".
+Assim, defende que, como houve recurso exclusivo da defesa, não poderia o Tribunal de origem aumentar a fração utilizada para majorar a pena pela reincidência, caracterizando reformatio in pejus.
+Requer, liminarmente e no mérito, seja redimensionada a pena aplicada ao paciente, com a devida aplicação da fração de aumento pela reincidência, no patamar aplicado pelo juízo de primeiro grau.
+Liminar indeferida (fls. 483/484).
+Informações prestadas (fls. 498/557).
+Parecer do MPF pelo não conhecimento ou pela denegação da ordem (fls. 565/570).
+É o relatório.
+DECIDO.
+É o entendimento pacífico das Turmas da Terceira Seção do Superior Tribunal de Justiça que não configura reformatio in pejus a revisão da dosimetria e do regime de cumprimento da pena, adotando o Tribunal fundamentação própria, ao apreciar a apelação, ainda que em recurso exclusivo da Defesa, sem que haja violação do art. 617 do CPP, desde que não seja agravada a situação do acusado:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI N. 11.343/06. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO DO RÉU EM RECURSO EXCLUSIVO DA DEFESA. PLEITO PARA QUE SEJA RECONHECIDA A CAUSA DE DIMINUIÇÃO CAPITULADA NO ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. RÉU REINCIDENTE. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. "O efeito devolutivo da apelação é amplo, permitindo a revisão da dosimetria da pena e do regime de cumprimento, mesmo que em recurso exclusivo da defesa, sem que haja violação do disposto no art. 617 do Código de Processo Penal. Nesse contexto, ainda que em recurso exclusivo da defesa e desde que não seja agravada a situação do acusado, não configura reformatio in pejus a adoção de fundamentação própria pelo Tribunal a quo para manter a pena ou o regime prisional fixados na sentença. (AgRg no HC n. 706.077/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023)" (AgRg no HC n. 842.700/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/2/2024, DJe de 1º/3/2024).
+ ..
+(AgRg no REsp n. 2.090.328/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/5/2024, DJe de 29/5/2024; grifamos)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. NOVOS FUNDAMENTOS AGREGADOS PELO TRIBUNAL DE ORIGEM. ATUAÇÃO PERMITIDA PELA DISCRICIONARIEDADE REGRADA DO JULGADOR E PELO AMPLO EFEITO DEVOLUTIVO DA APELAÇÃO. REGIME MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE. PENA PECUNIÁRIA. ALEGADA DESPROPORCIONALIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O efeito devolutivo pleno do recurso de apelação autoriza ao Tribunal ad quem, ainda que em recurso exclusivo da defesa, a proceder à revisão das circunstâncias judiciais do art. 59 do Código Penal, bem como a alteração dos fundamentos para justificar a manutenção ou redução da pena ou do regime inicial; não havendo falar em reformatio in pejus se a situação do sentenciado não foi agravada, como na espécie, em que a reprimenda imposta foi reduzida  .. " (HC n. 358.518/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2017, DJe de 10/2/2017).
+ ..
+(AgRg no AREsp n. 2.408.025/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/5/2024, DJe de 27/5/2024; grifamos)
+Compulsando os autos, observo que a Corte de origem ao dar parcial provimento ao apelo para alterar a pena para 7 (sete) anos e 3 (três) meses de reclusão, não incorreu em reformatio in pejus, beneficiando o réu em pena inferior à prolatada na sentença.
+Desse modo, inexistentes ilegalidades passíveis de concessão do writ , sendo válida a motivação exarada na apelação impugnada.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
