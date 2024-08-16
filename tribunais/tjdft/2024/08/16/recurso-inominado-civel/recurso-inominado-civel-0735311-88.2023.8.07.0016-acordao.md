@@ -1,0 +1,68 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0735311-88.2023.8.07.0016RECORRENTE(S)BANCO DO BRASIL S/ARECORRIDO(S)CRISTIANO MEDEIROS CORREARelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº1908706
+
+EMENTA
+
+ JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. FURTO DE CARTÃO DE CRÉDITO. COMPRAS. UTILIZAÇAO. CHIP. SENHA. DEVER DE GUARDA. PADRÃO DE CONSUMO. OPERAÇÕES SEQUENTES. MESMO ESTABELECIMENTO COMERCIAL. ALTO VALOR. RESPONSABILIDADE DA INSTITUIÇÃO BANCÁRIA. CULPA CONCORRENTE. RECURSO PARCIALMENTE PROVIDO.
+
+1. Trata-se de recurso inominado interposto pela parte ré em face da sentença proferida pelo Juízo do 3º Juizado Especial Cível de Brasília (ID 59605704) que, nos autos da Ação de Obrigação de Fazer c/c Danos Morais, julgou procedentes os pedidos iniciais para (i) declarar a nulidade das transações financeiras realizadas e lançadas na fatura do cartão de crédito do autor, as quais foram destacadas no documento de id. (...), no valor total de R$ 18.679,00 (dezoito mil, seiscentos e setenta e nove reais), bem assim a inexigibilidade da mencionada dívida; (ii) condenar o banco requerido a pagar ao autor a quantia de R$ 1.958,07 (mil, novecentos e cinquenta e oito reais e sete centavos), corrigida monetariamente desde o desembolso e acrescida de juros a partir da citação.
+
+2. Recurso próprio e tempestivo (ID 59605707). Custas e preparo recolhidos.
+
+3. Em suas razões recursais, a parte ré suscita, preliminarmente, sua falta de legitimidade para figurar no polo passivo, pois o recorrido teria se insurgido contra ato exclusivamente praticado por um terceiro de má-fé, o qual realizou as transações em seu nome, através do uso de seu cartão pessoal e senhas, inexistindo qualquer interferência de fato do Banco recorrente na questão. No mérito, destaca que em momento algum a Casa Bancária contribuiu para que as transações informadas pela parte recorrida se concretizassem. Argumenta que recorrido foi vítima de sua própria negligência, porque facilitou o acesso de terceiros a seus dados pessoais e seu cartão pessoal, os quais tiveram a oportunidade de utilizá-lo até o momento do cancelamento do mesmo. Defende que não há qualquer participação, omissão ou conivência da instituição bancária ou de seus prepostos no evento, razão pela qual está ausente o imprescindível nexo de causalidade a ensejar a responsabilização civil. Diz que não tem função/dever de realizar fiscalização acerca das transações de seus clientes, razão pela qual a operação é autorizada se inserida a senha do cartão e estiver dentro do limite do crédito do cliente. Conclui que inexiste defeito no serviço prestado pelo recorrente, pois o recorrido foi o próprio culpado pelo ocorrido, posto que este é a responsável pela guarda e segurança de seu cartão e senhas de acesso aos serviços bancários. Ao final, requer a improcedência da ação.
+
+4. Em contrarrazões (ID 59605715), o recorrido alega que é incontroverso nos autos que o cartão foi furtado e que não forneceu seus dados a terceiros, de modo que, se houvesse utilização de senha teria sido por meio de clonagem antes do furto, como utilização de vírus em máquina ou outro mecanismo de gravação. Defende que o serviço se mostra defeituoso, na medida em que a instituição financeira não forneceu a segurança legitimamente esperada pela correntista, tendo em vista a realização de movimentação financeira destoante do padrão de consumo da titular da conta, com valores elevados, e no mesmo “local” ou “estabelecimento” e em período da madrugada, que ultrapassam a monta de 18 mil reais. Aponta que o recorrido não utilizava o cartão a modalidade crédito com frequência, não passando suas faturas da média de R$ 200,00. Requer que o recurso seja “julgado totalmente improcedente”.
+
+5. Preliminar de ilegitimidade passiva. À luz da teoria da asserção, as condições da ação são aferidas em abstrato, considerando-se as assertivas da parte autora na petição inicial e o cabimento, em tese, do provimento jurisdicional almejado. No caso, a parte autora alega que a fraude decorreu de falha na prestação do serviço por parte do banco réu, razão pela qual é parte legítima a figurar no polo passivo da presente demanda. A análise da eventual responsabilidade pelos fatos narrados conduz à apreciação do mérito, a ser oportunamente analisado. Preliminar rejeitada.
+
+6. A relação jurídica estabelecida entre as partes é de consumo, devendo a controvérsia ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei n. 8.078/1990), que por sua vez regulamenta o direito fundamental de proteção do consumidor (CF, art. 5º, XXXII), inclusive as pertinentes à responsabilidade objetiva na prestação dos serviços.
+
+7. O enunciado da Súmula 297 do STJ dispõe que o Código de Defesa do Consumidor é aplicável às instituições financeiras. A Súmula 479 do STJ estabelece: "As instituições financeiras respondem objetivamente pelos danos causados gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias."
+
+8. O art. 14 do Código de Defesa do Consumidor estabelece que "o fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos. § 1° O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais: I - o modo de seu fornecimento; II - o resultado e os riscos que razoavelmente dele se esperam; III - a época em que foi fornecido.". O fornecedor somente não será responsabilizado quando provar que, tendo prestado o serviço, o defeito inexiste, ou que o fato se deu por culpa exclusiva do consumidor ou de terceiros, conforme prevê o §3º do art. 14 do CDC.
+
+9. Compulsando os autos, verifica-se que foram realizadas nove compras com utilização do cartão de crédito do recorrido no dia 30/04/2023, todas no mesmo estabelecimento “PRA FRENTE QUE SE ANDA” nos seguintes valores: R$ 999,00; R$ 990,00; R$ 1.985,00; R$ 1.890,00; R$ 1.950,00; R$ 1.930,00; R$ 2.990,00; R$ 2.980,00 e R$ 2.964,00 (ID 59605606, pág. 2).
+
+10. Consta do boletim de ocorrência policial (ID 59605604) a seguinte narrativa do autor: “Comunicante informa que 02 (dois) cartões de crédito/débito do Banco do Brasil (BB) e Banco de Brasília (BRB) foram furtados no estacionamento do Estádio Nacional ao sair de um festival de música. O comunicante não percebeu a subtração dos objetos, tendo notado somente durante o final da manhã quando percebeu o débito de vários valores na função crédito do cartão vinculado ao BB, tendo de imediato acionado as citadas instituições financeiras para bloqueio dos cartões. Foram debitados os seguintes valores R$ 999, R$ 990, R$ 1.985, R$ 1.890, R$ 1.950, R$ 1.930, R$ 2.990, R$ 2.980, R$ 2.965, totalizando o valor de R$ 18.679,00 (dezoito mil e seiscentos e setenta e nove reais). Afirma que nunca forneceu a sua senha para terceiros e nem a deixava junto aos cartões de crédito, não sabendo informar como foi possível a realização das transações. Por fim, informa que consta na fatura do seu cartão de crédito do BB os lançamentos em um estabelecimento identificado como Pra Frente Q Se Anda.”
+
+11. Da análise atenta dos autos, revela-se que a situação narrada trata de culpa concorrente.
+
+12. O cartão e a respectiva senha são de uso exclusivo do correntista, que deve tomar as devidas cautelas para impedir que terceiros tenham acesso a eles. (REsp n. 1.633.785/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2017, DJe de 30/10/2017.) Houve, portanto, negligência do autor na operação, pois, como se extrai dos autos, as operações foram realizadas, conforme comprovado pelo recorrente, por meio da utilização de cartão com chip e senha (ID 59605685), o que, nos termos da jurisprudência do Superior Tribunal de Justiça acarreta a responsabilidade do consumidor sobre os danos causados. Nesse sentido: (...) 2. Conforme entendimento deste Superior Tribunal "a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista" (REsp 1.633.785/SP, TERCEIRA TURMA, DJe 30/10/2017) (...) (AgInt no REsp n. 1.855.695/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/8/2020, DJe de 27/8/2020.)
+
+13. Quanto à instituição financeira, esta não adotou as medidas de segurança na movimentação dos valores fora do padrão do correntista, contribuindo a consumação da fraude. Conforme os documentos apresentados pela recorrente (ID 59605684), observa-se que foram realizadas 09 (nove) compras utilizando-se o cartão de crédito do recorrido, em um curto espaço de tempo - de 08:36 às 11:36, do dia 30/04/2023, em valores altos e totalmente destoantes do padrão de consumo e do perfil de compra do consumidor, destacando-se o fato de que todas foram realizadas no mesmo estabelecimento comercial. Tais fatos configuram falha na prestação do serviço, haja vista que, diante das evidências de uso incomum, deveria o banco recorrente proceder ao bloqueio do cartão utilizado, evitando o dano causado.
+
+14. Destas considerações, conclui-se que ambas as condutas foram determinantes para a conclusão da fraude, pelo que se deve extrair que o banco deve responder apenas pela metade do prejuízo experimentado pelo autor.
+
+15. Nesse sentido, colhe-se o seguinte precedente do Superior Tribunal de Justiça: (...) 5. Se as transações contestadas forem feitas com o cartão original e mediante uso de senha pessoal do correntista, passa a ser do consumidor a incumbência de comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros. Precedentes. 6. A jurisprudência deste STJ consigna que o fato de as compras terem sido realizadas no lapso existente entre o furto e a comunicação ao banco não afasta a responsabilidade da instituição financeira. Precedentes. 7. Cabe às administradoras, em parceria com o restante da cadeia de fornecedores do serviço (proprietárias das bandeiras, adquirentes e estabelecimentos comerciais), a verificação da idoneidade das compras realizadas com cartões magnéticos, utilizando-se de meios que dificultem ou impossibilitem fraudes e transações realizadas por estranhos em nome de seus clientes, independentemente de qualquer ato do consumidor, tenha ou não ocorrido roubo ou furto. Precedentes. 8. A vulnerabilidade do sistema bancário, que admite operações totalmente atípicas em relação ao padrão de consumo dos consumidores, viola o dever de segurança que cabe às instituições financeiras e, por conseguinte, incorre em falha da prestação de serviço. 9. Para a ocorrência do evento danoso, isto é, o êxito do estelionato, necessária concorrência de causas: (i) por parte do consumidor, ao fornecer o cartão magnético e a senha pessoal ao estelionatário, bem como (ii) por parte do banco, ao violar o seu dever de segurança por não criar mecanismos que obstem transações bancárias com aparência de ilegalidade por destoarem do perfil de compra do consumidor. (...) (REsp n. 1.995.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+
+16. RECURSO CONHECIDO E PARCIALMENTE PROVIDO para reformar a sentença para a) julgar improcedente o pedido de devolução do valor pago pelo autor ao réu - R$ 1.958,07 (mil, novecentos e cinquenta e oito reais e sete centavos); e b) reconhecer a culpa corrente sobre o dano sofrido pelo autor e o consequente rateio do prejuízo face as compras realizadas no valor total de R$ 18.679,00 (dezoito mil, seiscentos e setenta e nove reais). A repartição do prejuízo determina que o banco exclua os débitos relativos às compras de R$ 2.980,00; R$ 1.930,00; R$ 1.890,00 e R$ 2.965,00 e todos os encargos delas decorrentes (ID 59605606). O autor arcará com as operações de R$ 999,00; R$ 990,00; R$ 2.990,00; R$ 1.985,00 e R$ 1.950,00 e os encargos dela decorrentes (ID 59605606), observado o valor já pago pelo autor R$ 1.958,07 (mil, novecentos e cinquenta e oito reais e sete centavos), devendo o banco recalcular as faturas a partir de junho de 2023.
+
+17. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal, sob a Presidência da Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Agosto de 2024
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o relatorA Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNÂNIME.
