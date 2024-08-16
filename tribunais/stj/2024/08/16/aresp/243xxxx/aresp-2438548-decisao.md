@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por VAGNER DA SILVA ROCHA contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o réu foi condenado como incurso nas sanções do artigo 157, § 2º, inciso II, c/c artigo 14, ambos do Código Penal, à pena de 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado (fls. 242-255).
+O Tribunal de origem negou provimento ao apelo defensivo, mantendo a condenação inalterada (fls. 336-345).
+A Defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a" e "c", da Constituição Federal, alegar violação ao art. 386, inciso VI, do Código de Processo Penal e aos arts. 64, I, e 14 do Código Penal (fls. 351-364).
+Apresentadas as contrarrazões (fls. 367-385), o Tribunal de origem negou seguimento ao recurso especial no que atine ao Tema 150 do Colendo Supremo Tribunal Federal, nos termos do artigo 1030, I, b, do Código de Processo Civil e o inadmitiu pela incidência das Súmulas n. 284, STF, e 7 do STJ, além do dissídio jurisprudencial não comprovado (fls. 388-390).
+Nas razões do agravo, a Defesa pleiteou o processamento do recurso especial, alegando ter cumprido todos os requisitos necessários à sua admissão (fls. 393-407).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 448-451).
+É o relatório. DECIDO.
+Inicialmente, o Tribunal de origem negou seguimento ao recurso especial no que atine ao Tema 150 do Supremo Tribunal Federal, nos termos do artigo 1030, I, b, do Código de Processo Civil.
+Consoante o disposto no art. 1.030, § 2º, do CPC/2015, cabe agravo interno contra decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STF exarado no julgamento de recursos repetitivos.
+Ademais, o art. 1.042 do CPC/2015 prescreve que "cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos".
+Conclui-se, portanto, que, nessa hipótese, a interposição de agravo em recurso especial caracteriza erro grosseiro, o que afasta a aplicação do princípio da fungibilidade recursal. Nesse sentido: AgRg no AREsp 1330687/MS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 10/12/2018 e AgRg no AREsp n. 1.074.088/BA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 15/02/2018.
+Além disso, o Tribunal de origem inadmitiu pela incidência da Súmula n. 284, STF, Súmula n. 7 do STJ e do diss ídio jurisprudencial não comprovado.
+Nas razões do presente agravo, constato que a Defesa deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial.
+Sobre o ponto, limitou-se o agravante a alegar genericamente o preenchimento dos requisitos de admissibilidade e reiterar o mérito da controvérsia.
+Quanto ao fundamento relativo à divergência jurisprudencial não comprovada e à ausência de cotejo analítico, deveria o agravante comprovar que na interposição do recurso especial pela alínea "c" do permissivo constitucional cumpriu os requisitos dos arts. 1028, e § 1º do CPC e 255, § 1º, do RISTJ, o que não aconteceu.
+No tocante à Súmula n. 7 do STJ, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão a quo, o que não ocorreu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesse sentido: AgRg no REsp n. 1.958.975 /PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/11/2022; e AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020.
+Diante do exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intime-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. NEGATIVA DE SEGUIMENTO DE PARTE DO RECURSO ESPECIAL. IMPUGNAÇÃO POR AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
