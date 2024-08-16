@@ -1,0 +1,76 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0727146-79.2023.8.07.0007RECORRENTE(S)FELIPE CAIAN BARROS COCENTINO DOURADORECORRIDO(S)HELENA MARIA DA SILVA e QUINTO ANDAR SERVICOS IMOBILIARIOS LTDARelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº1908607
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. LOCAÇÃO DE IMÓVEL. PLATAFORMA DIGITAL DE INTERMEDIAÇÃO. INSTITUIÇÃO DE CLÁUSULA ARBITRAL. NULIDADE. INCOMPETÊNCIA. ILEGITIMIDADE PASSIVA. PRELIMINARES REJEITADAS. TEORIA DA CAUSA MADURA. RESCISÃO UNILATERAL DO CONTRATO DE LOCAÇÃO PELA LOCADORA E COBRANÇAS INDEVIDAS. MULTA CONTRATUAL. APLICÁVEL. DANO MATERIAL NÃO COMPROVADO. DANO MORAL. CONFIGURADO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. Trata-se de recurso inominado interposto pelo requerente em face da sentença que extinguiu o processo sem resolução do mérito, a teor do art. 485, inc. VII, do Código de Processo Civil, e do art. 51, inc. II, da Lei n. 9.099/95.
+
+2. Recurso próprio e tempestivo (ID 60813990). Tendo em vista os documentos apresentados pelo recorrente, defiro o requerimento de gratuidade judiciária.
+
+3. Em suas razões recursais, a parte requerente alega que a sentença que extinguiu o processo sem resolução de mérito deve ser reformada, pois o CDC é aplicável ao caso, uma vez que a relação foi intermediada pela empresa Quinto Andar. Argumenta-se também a validade do foro do consumidor para questões contratuais, em razão da existência de um contrato de adesão que impõe arbitragem como única solução de conflitos. Ademais, sustenta-se a nulidade da cláusula arbitral compromissória por ser abusiva, dada a desigualdade nas condições das partes. Por isso, requer a reforma da sentença para julgar procedentes os pedidos, incluindo as condenações da primeira requerida ao pagamento da verba rescisória e das indenizações por danos morais e materiais, assim como a condenação da segunda requerida por danos morais e a declaração de inexistência da dívida.
+
+4. Em contrarrazões, a primeira requerida detalha que a controvérsia origina-se de um negócio jurídico com cláusula compromissória, determinando que disputas sejam resolvidas no Centro de Mediação e Arbitragem de São Paulo – TASP; reafirma que a relação locatícia é regulada pela Lei n. 8.245/91, sem aplicabilidade do CDC, conforme sentença. Ela argumenta que a cláusula de arbitragem foi aceita consensualmente, destacada no contrato, negando sua nulidade; contesta a alegação de contrato de adesão, enfatizando a autonomia das partes na assinatura, apesar da presença de uma imobiliária. Relata um erro da imobiliária Quinto Andar, que indicou o apartamento errado, causando confusão na ocupação; apesar de tentativas de resolução, incluindo a oferta de outra unidade e isenção de três meses de aluguel, o Recorrente optou pela rescisão. Conclui que qualquer dano deve ser atribuído à imobiliária, responsável pela comunicação incorreta dos detalhes do imóvel, como comprovado pelos documentos anexados.
+
+5. A segunda requerida aduz, em contrarrazões que a pretensão autoral está vinculada exclusivamente a obrigações decorrentes do contrato de locação, conforme as cláusulas 20 e 21 que subordinam qualquer controvérsia ao procedimento de arbitragem, conforme Lei 13.140/15 e Lei 9.307/96; ressalta que a demanda se refere somente à relação contratual e que a recorrida não assinou o contrato em questão, não possuindo responsabilidade pelas discordâncias nele implicadas; argumenta que a cláusula de arbitragem é válida e que sua constitucionalidade foi reconhecida pelo STF, não violando o princípio da inafastabilidade de jurisdição; afirma a legitimidade exclusiva da recorrida como intermediária na relação locatícia, sem legitimidade para figurar no polo passivo da ação; por fim, enfatiza a inaplicabilidade da Lei 8.078/90 ao caso, uma vez que não se configura uma relação de consumo, mas sim uma locação regulada especificamente pela Lei do Inquilinato (Lei 8.245/91), e que a natureza do contrato não é alterada pela utilização de plataformas eletrônicas.
+
+6. Nos termos da Jurisprudência desse Tribunal de Justiça, a relação havida entre as partes é de consumo, razão pela qual é nula de pleno direito a cláusula contratual que prevê a utilização compulsória da arbitragem, conforme artigo 51, VII, do CDC e artigo 4º, § 2º, da Lei 9.307/96.
+
+7. Nesse sentido, colhe-se os seguintes julgados: "1. Submete-se ao CDC a relação entre o consumidor, que pretende a locação de um imóvel ou se utiliza da empresa para a contratação, e a empresa "Quinto Andar", pois demonstradas as figuras de consumidor e fornecedor de serviços, nos termos do artigo 2º e 3º do CDC. De tal forma, é nula de pleno direito a cláusula contratual que determina a utilização compulsória da arbitragem, conforme artigo 51, VII, do CDC e artigo 4º, § 2º, da Lei 9.307/96. Também pela aplicação do diploma consumerista, prevalece a competência territorial do foro do consumidor (Acórdão 1796185)." (Acórdão 1838895, 07294476920238070016, Relator(a): RITA DE CÁSSIA DE CERQUEIRA LIMA ROCHA, Primeira Turma Recursal, data de julgamento: 26/3/2024, publicado no DJE: 16/4/2024. Pág.: Sem Página Cadastrada.); "6. Ressalte-se que a solução extrajudicial de conflitos vem sendo utilizada de forma recorrente nas relações contratuais, uma vez que pela convenção de arbitragem, tanto por meio de cláusula compromissória, quanto por meio de compromisso arbitral é possível que as partes escolham o próprio árbitro, o qual solucionará o conflito, as regras de procedimento, bem como o critério de julgamento. 7. Todavia, a escolha da convenção de arbitragem nas relações jurídicas vai de encontro a certas limitações impostas pela legislação pátria, como sua utilização nas relações de consumo, que é proibida quando imposta pelo fornecedor, consoante ao Código de Defesa do Consumidor que em seu art. 51, VII, assim estabelece: ?Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que: VII - determinem a utilização compulsória de arbitragem; ? 8. Desse modo, em que pese contenha na redação do contrato cláusula compromissória com as regras específicas previstas no § 2º do artigo 4º da Lei 9.307/96, em se tratando de contrato de adesão, são nulas de pleno direito as cláusulas que determinem a utilização compulsória de arbitragem, devendo prevalecer o direito constitucional de acesso aos órgãos judiciários, a teor dos artigos 51, VII, e 6º, VII, respectivamente, do Código de Defesa do Consumidor. 9. Nesse passo, a convenção de arbitragem constante no contrato não deve prevalecer, sendo que a anulação da sentença e determinação da baixa dos autos à origem para julgamento do mérito é medida que se impõe." (Acórdão 1614816, 07048351020228070014, Relator(a): MARILIA DE AVILA E SILVA SAMPAIO, Segunda Turma Recursal, data de julgamento: 12/9/2022, publicado no DJE: 21/9/2022. Pág.: Sem Página Cadastrada.)
+
+8. Preliminar de ilegitimidade passiva da segunda requerida. A segunda requerida, ao intermediar a relação locatícia e gerenciar o contrato, assume papel crucial na cadeia de eventos que levou às disputas contratuais. Sua participação ativa na gestão do contrato a insere na relação de consumo, conferindo-lhe legitimidade para figurar no polo passivo da ação, especialmente sob a égide do CDC. Preliminares de incompetência do juízo e de ilegitimidade passiva rejeitadas.
+
+9. Não é o caso de se anular a sentença e determinar o retorno dos autos ao Juízo de origem, passando-se ao pronto julgamento do recurso, nos termos do art. 1.013, § 3º, do CPC, pois a causa está madura com todos elementos de prova juntados documentalmente não havendo necessidade de mais provas.
+
+10. Segundo a peça inicial, o autor relata que após firmar contrato de locação de imóvel com a primeira requerida, relativo ao apartamento 303, localizado à QE 44, Conj. A, Lote 13, Guará II, Brasília-DF, por meio da plataforma Quinto Andar, encontrou objetos pessoais no imóvel na véspera de sua mudança, indicando uso não autorizado do espaço. Ao questionar a locadora, primeira requerida, descobriu que ela desconhecia o contrato, sugerindo que o autor não prosseguisse com a mudança planejada. Apesar das tentativas de resolução amigável e do apoio inadequado da segunda requerida, o autor enfrentou a rescisão unilateral do contrato por parte da primeira ré, que também tentou, sem sucesso, resolver o problema oferecendo outra unidade no mesmo prédio. Como resultado, o autor alega que sofreu prejuízos materiais devido às despesas com a mudança cancelada e danos morais exacerbados por sua condição de ansiedade, levando-o a buscar reparação judicial pelos danos e pela cobrança indevida de multas por parte da segunda ré.
+
+11. A primeira requerida, em sua contestação (ID 60813973), atribui à segunda ré o erro de indicar no contrato de locação o apartamento 203 ao invés do apartamento 303, um equívoco que também não foi percebido pela primeira requerida. Além disso, esclarece que o contrato em questão teve início em 29/09/2023, e não em 29/08/2023. Adicionalmente, relata que ofereceu ao requerente outra unidade e propôs a isenção de três meses de aluguel, mas, sem um acordo, procedeu com o pagamento da multa contratual acordada com a imobiliária ré. Por fim, sustenta não haver prova de dano moral sofrido pelo autor.
+
+12. A segunda requerida, em contestação, afirma que prestou apoio adequado ao autor, consoante documentação anexada pelo requerente, e que o valor referente à multa rescisória foi devolvido ao requerente.
+
+13. Da análise dos autos, verifica-se que o contrato de locação em exame (ID 60813373) foi firmado com prazo de 30 meses, com início em 29/09/2023, e que consta da cláusula 19 que caso uma das partes descumpra qualquer disposição contratual, e não resolva o descumprimento no prazo de 15 dias, contados da notificação nesse sentido, a outra parte poderá exigir o pagamento de multa no valor de 3 aluguéis vigentes. O valor do aluguel é de R$ 950,00. Tanto o contrato de locação firmado entre autor e primeira requerida, quanto o contrato de intermediação e administração firmado entre as duas rés indicam que o imóvel a ser alugado é aquele situado na QE 44, Conjunto A, Lote 13, Apartamento 303, Guará II.
+
+14. A rescisão unilateral e abrupta do contrato de locação por parte da primeira requerida caracteriza violação dos termos do contrato e do art. 22, incisos I e II, da Lei n. 8.245/91, que impõe ao locador as obrigações de entregar ao locatário o imóvel alugado em estado de servir ao uso a que se destina e garantir o uso pacífico do imóvel locado ao locatário durante o tempo da locação.
+
+15. Ressalte-se que o equívoco inicial relacionado à numeração do apartamento, se existiu, originou-se de uma falha na comunicação entre as duas rés. Portanto, trata-se de equívoco que não deve prejudicar o autor, que agiu de boa-fé ao confiar nas informações fornecidas e, em consequência, organizou toda a sua mudança com base nelas.
+
+16. Dano material. Considerando a ausência de comprovação de pagamentos ou despesas materiais específicas resultantes da frustração na mudança, não se sustenta a condenação por danos materiais.
+
+17. Multa rescisória por descumprimento contratual. A primeira requerida rescindiu o contrato sem uma justificativa aceitável e em desacordo com os termos previamente estabelecidos, configurando uma violação direta das obrigações contratuais. Portanto, a condenação ao pagamento desta multa como indenização é devida.
+
+18. Danos Morais: A experiência negativa vivenciada pelo autor, agravada pela rescisão unilateral do contrato e pela confusão quanto à identificação do imóvel correto, justifica uma compensação por danos morais. Essa confusão é evidenciada nos documentos de IDs 60813383, 60813384, e 60813385, que mostram uma falha de comunicação entre as requeridas, contribuindo significativamente para o cenário problemático enfrentado pelo autor. Tal falha não apenas frustrou as expectativas legítimas do autor quanto à mudança, mas também impôs um estado de incerteza e stress. Este último foi exacerbado pela necessidade de lidar com pleitos administrativos e judiciais, além da busca de alternativas habitacionais em curto prazo, intensificando o transtorno emocional e a perturbação do cotidiano do autor. Portanto, é inequívoca a existência de danos morais indenizáveis, refletindo o impacto adverso e a perturbação significativa na vida do autor, causados pelas condutas das requeridas.
+
+19. No tocante ao quantum indenizatório, ao determinar o valor da reparação por danos morais, é necessário levar em conta os princípios da razoabilidade e da proporcionalidade, a extensão do dano, a situação do prejudicado e a capacidade econômica dos responsáveis, evitando assim o enriquecimento injusto do prejudicado. Feitas essas considerações, mostra-se razoável e proporcional a reparação por dano moral na quantia de R$ 4.000,00 (quatro mil reais).
+
+20. RECURSO CONHECIDO E PARCIALMENTE PROVIDO para anular a sentença e julgar parcialmente procedentes os pedidos iniciais, nos termos do art. 487, inc. I, do CPC, para: 1) declarar a inexistência das dividas referentes aos alugueis, taxa de serviço, seguro contra incêndio, IPTU e multa rescisória cobradas do autor, pela segunda requerida, e referentes ao contrato de locação juntado no ID 60813373; 2) condenar a primeira requerida a pagar ao autor o valor de R$ 2.850,00 (dois mil, oitocentos e cinquenta reais), referente à multa contratual, acrescido de juros legais a contar da citação e correção monetária a contar do ajuizamento da demanda; e 3) condenar os réus a pagarem ao autor, solidariamente, o valor de R$ 4.000,00 (quatro mil reais) a título de danos morais, com correção monetária pelo INPC a partir desta data e juros de mora a partir da citação. Sem condenação em honorários, ante a ausência de recorrente vencido, nos termos do art. 55 da Lei nº 9.099/95.
+
+21. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal, sob a Presidência da Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO EM PARTE. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Agosto de 2024
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o relatorA Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO EM PARTE. UNÂNIME.
