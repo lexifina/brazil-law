@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 271.817/SC (fl. 10.052).
+Trata-se de agravo regimental interposto por Diego Lucio da Silva contra a decisão monocrática da Presidência desta Corte, que não conheceu do seu agravo em recurso especial, ante a ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial na origem (fls. 10.011/10.014).
+Nas razões do agravo regimental, a defesa sustenta, em síntese:  c om relação à aplicação da Súmula 83/STJ (art. 33, § 4º, da Lei n. 11.343/2006), o Agravo em Recurso Especial no item III, esclarece que o referido óbice não é aplicável ao recurso em tela (fl. 10.043); referentemente à aplicação da Súmula 83/STJ (art. 2º da Lei n. 9.296/1996), que o Agravo em Recurso Especial no item IV, foi enfático ao consignar que o recurso especial não encontra óbice no referido enunciado sumular (fl. 10.043); e quanto à alegada falta de impugnação da ausência de similitude fática o Agravo em Recurso Especial, foi enfático em apresentar como paradigma o HC n. 64.096/PR (fl. 10.043).
+Alega, ainda, que a decisão monocrática feriu o princípio da colegialidade (fl. 10.044).
+O Ministério Público Federal opina pelo desprovimento do agravo regimental (fls. 10.059/10.060).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. JULGAMENTO MONOCRÁTICO PELA PRESIDÊNCIA DESTA CORTE. POSSIBILIDADE. ARTS. 932 DO CPC E 21-E, V, DO RISTJ. PRECEDENTES. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. SÚMULA 83/STJ. INSURGÊNCIA GENÉRICA.
+1. É possível ao Presidente desta Corte, de forma monocrática, não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, sem que isso configure nulidade ou mesmo ofensa ao princípio da colegialidade, haja vista a existência de previsão legal e regimental para tanto. Precedentes.
+2. A parte agravante, no agravo em recurso especial, deixou de impugnar, de forma específica, a integralidade dos fundamentos da decisão que não admitiu o recurso especial na origem. Incidência da Súmula 182/STJ.
+3. Agravo regimental desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+De início, afasta-se a alegação de violação do princípio da colegialidade.
+Como é cediço, ao apreciar agravo que objetiva o processamento de recurso especial, o Relator, nesta Corte Superior, necessita fazer um prévio estudo da viabilidade desse último, além de analisar se a tese encontra alguma plausibilidade jurídica.
+E esse procedimento não é vedado pela legislação processual ou pelo RISTJ (arts. 932 do CPC, 21-E do RISTJ e 38 da Lei n. 8.038/1990). Consoante dispõe o mencionado art. 21-E, V, do RISTJ, são atribuições do Presidente do Superior Tribunal de Justiça, antes da distribuição dos feitos aos Ministros, não conhecer de recurso inadmissível, hipótese dos autos.
+A propósito: AgRg no RHC n. 162.064/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 8/4/2022; AgRg no AREsp n. 2.013.128/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 10/6/2022 e AgRg no AREsp n. 1.777.324/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/2/2021.
+Quanto ao mais, a decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seus fundamentos, motivo pelo qual a trago ao Colegiado para ser confirmada.
+O apelo nobre não foi admitido pelo Tribunal de Justiça de Santa Catarina considerando (fls. 9.663/9.676): Súmula 7/STJ (art. 157 do CPP), Súmula 83/STJ (art. 33, § 4º, Lei n. 11.343/2006), impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário, Súmula 7/STJ (art. 2º da Lei n. 9.296/1996), Súmula 83/STJ (art. 2º da Lei n. 9.296/1996) e ausência de similitude fática e Súmula 7/STJ (art. 35, caput, da Lei n. 11.343/2006).
+Contudo, a parte agravante, no agravo em recurso especial (fls. 9.818/9.827), ao contrário do que se alega, não impugnou, de forma específica, os seguintes fundamentos: Súmula 83/STJ (art. 33, § 4º, da Lei n. 11.343/2006), impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário, Súmula 83/STJ (art. 2º da Lei n. 9.296/1996) e ausência de similitude fática.
+Portanto, inarredável a incidência da Súmula 182/STJ, in verbis: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023 e AgRg no AREsp n. 2.123.045/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/8/2022.
+Esclareço que a parte agravante deixou de demonstrar, por meio da indicação de julgados contemporâneos ou mais recentes, que foi superado o entendimento desta Corte Superior de Justiça no qual está alicerçada a decisão agravada para aplicar a Súmula 83/STJ, ou que os precedentes mencionados no citado provimento judicial tratam de questões que não são análogas à do caso examinado nestes autos. A propósito: AgRg no AREsp n. 2.222.928/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/3/2023 e; AgRg no AREsp n. 2.024.908/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023.
+Ante o exposto, nego provimento ao agravo regimental de Diego Lucio da Silva.
