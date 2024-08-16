@@ -1,0 +1,39 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por OLIVEIRA ALVES - ADMINISTRADORA DE BENS LTDA, contra decisão que inadmitiu recurso especial com fundamento na Súmula 735 do STF.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, o recurso não reúne condições de admissibilidade.
+Súmula 735/STF
+O Tribunal de origem, em sede de agravo de instrumento contra decisão de primeiro grau que indeferiu tutela de urgência, manteve a decisão do juízo singular com base nas seguintes razões (fls. 106-112):
+A controvérsia posta neste recurso é restrita à possibilidade (ou não) de manutenção da r. decisão agravada que indeferiu o pedido liminar da embargante, consistente na suspensão das medidas constritivas sobre os bens imóveis de sua propriedade, e de quaisquer medidas expropriatórias contra o seu patrimônio.
+A respeito da tutela de urgência, dispõe o artigo 300 do Código de Processo Civil que "será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo".
+ ..
+Assim, da análise dos autos nesse momento de cognição não exauriente, apesar das alegações da recorrente, vê-se que a decisão proferida pelo eminente magistrado da causa, de indeferimento do pedido de concessão da tutela de urgência (no sentido de que sejam suspensas as medidas constritivas sobre os bens imóveis de sua propriedade indicados na inicial, e de quaisquer medidas expropriatórias contra o patrimônio da empresa embargante), foi tomada para o fim de evitar eventual alienação dos bens imóveis em questão e consequente frustação da satisfação da dívida tributária, o que pode prejudicar, ainda, outras pessoas.
+A pretensão da embargante encontra óbice no § 3º, do artigo 300, doCódigo de Processo Civil, o qual disciplina que "a tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão".
+Ademais, não se vislumbra, no caso, a presença de risco de dano, pois, como bem apontou o eminente Desembargador Substituto na decisão liminar de mov. 8.1-TJ, "o Juízo da execução fiscal apenas se limitou determinar a indisponibilidades dos bens, não sendo a mera alegação genérica e hipotética apta a ensejar o deferimento da tutela recursal".
+antecipadaLogo, observando a r. decisão ora recorrida, em todos os seus fundamentos e a sua extensão, vê-se que, de fato, não se fazem presentes os requisitos exigidos para a antecipação da tutela pretendida, como bem analisou o eminente magistrado da causa. Caberá ao Colegiado, oportunamente, decidir o mérito deste agravo de instrumento.
+Com efeito, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, notadamente quando for necessária a interpretação das normas que dizem respeito ao mérito da causa, como no caso, o que atrai a incidência, por analogia, da Súmula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+Súmula 7/STJ
+Ademais, para acatar as alegações recurs ais seria necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. MEDIDA LIMINAR. DEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM. REEXAME. IMPOSSIBILIDADE.
+1. Em conformidade com o disposto na Súmula 735 do Supremo Tribunal Federal, o Superior Tribunal de Justiça firmou o entendimento de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 17/02/2014).
+2. A natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal "causas decididas em única ou última instância".
+3. A desconstituição do entendimento adotado pelo acórdão recorrido demandaria induvidosamente o revolvimento do arcabouço probatório, providência incompatível com a via do recurso especial em virtude do óbice da Súmula 7 do Superior Tribunal de Justiça 4. Agravo interno desprovido (AgInt no AREsp 2.034.308/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 15/3/2023).
+Por fim, a análise do dissídio jurisprudencial se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea a, do permissivo constitucional, alcança a alínea c, no que tange à mesma matéria. Não é outro o entendimento de ambas as turmas de direito público desta Corte Superior, conforme os seguintes precedentes:
+PROCESAL CIVIL E ADMINISTRATIVO. DECISÃO EXTRA PETITA. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. FALTA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. JORNADA DE TRABALHO DE QUARENTA HORAS SEMANAIS. BASE DE CÁLCULO. DIVISOR DE 200 HORAS MENSAIS. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+9. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+10. Agravo Interno não provido (AgInt no AREsp n. 2.259.405/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. ADICIONAIS DE ALÍQUOTA DESTINADOS AO SAT/RAT E TERCEIROS. MENOR APRENDIZ. DECRETO-LEI Nº 2.318, DE 1986, REVOGADO. ART. 7º, XXXIII, DA CONSTITUIÇÃO FEDERAL. IMPENHORABILIDADE DE VALOR DESTINADO AO PAGAMENTO DA
+FOLHA DE SALÁRIO. MENOR APRENDIZ E MENOR ASSISTIDO. EQUIVALÊNCIA DOS TERMOS. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 22 E 28 DA LEI N 8.212/1991; 4º, § 4º, DO DECRETO-LEI N. 2.318/1986; E 74 DA LEI N. 9.430/1996. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+ ..
+VIII - Agravo Interno improvido (AgInt no REsp n. 2.057.230/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
