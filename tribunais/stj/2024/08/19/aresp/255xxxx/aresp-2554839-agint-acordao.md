@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADEIA DE PROCURAÇÃO NOS AUTOS. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. NÃO ATENDIMENTO. RECURSO INEXISTENTE. SÚMULA 115/STJ. ART. 1.017, § 5º, DO CPC. INSTÂNCIA ESPECIAL. INAPLICABILIDADE.
+1. É assente neste Superior Tribunal o entendimento segundo o qual a ausência da cadeia completa de procurações/substabelecimentos impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula 115/STJ.
+2. No caso, verifica-se que, embora regularmente intimada para sanar o vício apontado, a parte agravante disso não se desincumbiu, juntando substabelecimento datado posteriormente à interposição do especial apelo. Assim, escorreita a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, em razão do óbice da Súmula 115/STJ, sendo inadmissível a regularização tardia, ante a preclusão consumativa. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por SINDICATO DOS CONTABILISTAS DE PIRACICABA E REGIÃO - SINCOP contra decisão da Presidência do STJ, assim concebida (fls. 244/245):
+Cuida-se de agravo interposto por SINDICATO DOS CONTABILISTAS DE PIRACICABA E REGIAO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive;
+ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de SINDICATO DOS CONTABILISTAS DE PIRACICABA E REGIAO, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à Dra. Daniele Ferreira Milton de Souza, subscritora do recurso especial.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, não regularizou, uma vez que os poderes consignados no instrumento de mandato de fl. 240 foram outorgados à subscritora do recurso em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.) Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Sustenta a parte agravante a inexistência de vício de representação nos autos, alegando que (fl. 254):
+ ..  ao contrário do quanto decidido pelo Exma. Ministra Presidente em sua decisão, a regularização da representação processual pode ser realizada em 5 dias após a intimação da parte para sanar o vício (artigo 932, parágrafo único, CPC), não sendo necessário, assim, que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Portanto, diante da correção do vício, não há que se falar na incidência da Súmula nº 115 do STJ.
+Requer, assim, o provimento do agravo interno, a fim de que seja conhecido o recurso especial (fl. 255).
+A parte agravada não apresentou impugnação (cf. certificado à fl. 260).
+É O RELATÓRIO.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CADEIA DE PROCURAÇÃO NOS AUTOS. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. NÃO ATENDIMENTO. RECURSO INEXISTENTE. SÚMULA 115/STJ. ART. 1.017, § 5º, DO CPC. INSTÂNCIA ESPECIAL. INAPLICABILIDADE.
+1. É assente neste Superior Tribunal o entendimento segundo o qual a ausência da cadeia completa de procurações/substabelecimentos impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula 115/STJ.
+2. No caso, verifica-se que, embora regularmente intimada para sanar o vício apontado, a parte agravante disso não se desincumbiu, juntando substabelecimento datado posteriormente à interposição do especial apelo. Assim, escorreita a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, em razão do óbice da Súmula 115/STJ, sendo inadmissível a regularização tardia, ante a preclusão consumativa. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O presente agravo interno não merece prosperar.
+Verificado vício de representação processual, a parte recorrente foi devidamente intimada para a sua regularização, conforme certificado à fl. 234, verbis:
+CERTIDÃO PARA SANEAMENTO DE ÓBICES
+Não há nos autos procuração e/ou cadeia completa de substabelecimento conferindo poderes a quem subscreveu o recurso especial.
+Em razão disso, com fundamento na RESOLUÇÃO STJ/GP N. 15 DE 26 DE JUNHO DE 2020, INTIME-SE SINDICATO DOS CONTABILISTAS DE PIRACICABA E REGIAO a realizar, no prazo de 5 dias, a regularização da representação processual, nos termos do art. 76 c/c art. 932, parágrafo único, do Código de Processo Civil.
+Sobreveio aos autos, então, a petição de fl. 238, requerendo a juntada do instrumento de mandato (fl. 239) e de substabelecimento (fl. 240), sendo este último firmado em 1º/3/2024.
+No entanto, conforme relatado, decisão da Presidência desta Corte Superior considerou não regularizada a representação processual do raro apelo, porquanto interposto em 24/7/2023 (fl. 169), data em que a subscritora digital do referido recurso, Dra. Daniele Ferreira Milton de Souza, não possuía poderes para a prática daquele ato processual, considerado ineficaz.
+Como se observa, a parte agravante deveria ter procedido à juntada da documentação completa logo após a sua intimação para regularizar o vício de representação processual apontado, sob pena de preclusão consumativa, segundo o comando específico dos arts. 76, § 2º, I, e 104, § 2º, do CPC.
+Pois bem, como essa providência não foi realizada a contento (fls. 238/240), é de rigor a manutenção da Súmula 115/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA CADEIA DE PROCURAÇÕES.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, entende-se que "a segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt no AREsp 2.245.430/SP, rel. Ministro João Otávio de Noronha Turma, DJe de 11/4/2023).
+2. Uma vez não comprovado, no momento da interposição do recurso, por documento idôneo, a suspensão de prazo processual ou de feriado local, mantém-se a intempestividade reconhecida na decisão agravada.
+3. Nos termos da Súmula 115 do STJ, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+4."A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)" (AgInt no AREsp n. 2.426.293/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024.).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.482.099/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/6/2024, DJe de 3/7/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PROCURAÇÃO E/OU CADEIA DE SUBSTABELECIMENTO OUTORGANDO PODERES AO ADVOGADO SUBSCRITOR DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. VÍCIO NÃO SANADO. JUNTADA POSTERIOR. IMPOSSIBILIDADE. ARGUMENTAÇÃO INSUFICIENTE. APELO NOBRE INEXISTENTE. INCIDÊNCIA DA SÚMULA N. 115 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não constando dos autos instrumento de mandato e/ou respectiva cadeia de substabelecimento outorgando poderes ao subscritor de recurso para a instância superior, nos termos dos arts. 76 e 932, parágrafo único, do Código de Processo Civil, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do recurso, nos termos da Súmula n. 115/STJ, in verbis: "na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+2. "Esta Corte já assentou o entendimento de que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso" (AgInt no REsp n. 2.091.118/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.) 3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.558.247/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Destarte, considerando-se que, a despeito de regularmente intimada, conforme estabelece a disciplina estatuída no CPC/2015, a parte ora agravante não regularizou a tempo e modo a sua representação processual, o não conhecimento do recurso especial é medida que se impõe.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É com o voto.
