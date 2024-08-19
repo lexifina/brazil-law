@@ -1,0 +1,28 @@
+DECISÃO
+FRANCISCO JANDERSON SANTANA SIQUEIRA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará Sul no HC n. 0626261-71.2024.8.06.0000, que manteve sua custódia preventiva.
+A defesa busca a revogação da custódia provisória do recorrente, por entender que há ilegalidade por excesso de prazo para a formação da culpa, pois o paciente está preso desde 11/1/2023 e ainda não foi encerrada a fase instrutória.
+Decido.
+Com relação ao alegado excesso de prazo, o Tribunal de origem consignou o seguinte (fls. 32-33):
+No caso em análise, observa-se que o fato apurado na ação penal ocorreu em 11/01/2023, quando foi preso em flagrante. A prisão preventiva foi decretada em 12/01/202
+A denúncia foi oferecida em 20/01/2023 (págs. 74/78) e recebida em 27/01/2023 (pág. 83); o acusado fora notificado em 14/02/2023 (pág. 90). A resposta à acusação foi apresentada em 23/05/2023 pela Defensoria Pública (págs. 93/96).
+Foi ratificado o recebimento da denúncia e designada audiência de instrução e julgamento para o dia 29/11/2023, a qual restou prejudicada devido a uma falha geral no sistema SAJPG no dia 29/11/2023 (pág. 137).
+O ato foi redesignado para 21/03/2024 (pág. 141) e a prisão foi reavaliada em 21/02/2024 (págs. 144/148).
+Em 21/03/2024 (págs. 172/173) fora realizada audiência de instrução e julgamento, oportunidade em que foram colhidos os depoimentos das vítimas e testemunhas presentes, bem como se interrogou os réus.
+Na ocasião o Ministério Público requereu a realização de perícia, o que foi deferido pelo Juízo.
+Em 02/04/2024, a Autoridade apontada como coatora consignou a persistência dos motivos da prisão e, considerando a juntada do Laudo Pericial Balístico, determinou a intimação da Autoridade Policial para apresentar laudo pericial na moto apreendida no prazo de 30 (trinta) dias.
+Nesse contexto, percebe-se que o Juízo de origem tem adotado as diligências que estão ao seu dispor a fim de julgar a ação penal com celeridade, visto que está constantemente impulsionando o feito e eventual demora na ultimação dos atos processuais, não decorreu de desídia por parte do Poder Judiciário, ou de forma injustificada e desarrazoada, razão pela qual não há que falar, nesse momento, em constrangimento ilegal por excesso de prazo na formação da culpa.
+Vale ressaltar que o elastecimento da marcha processual decorreu, principalmente da necessidade de redesignação da audiência de instrução e julgamento designada para 29 de novembro de 2023, em razão de erro no sistema processual.
+Contudo, a prova oral foi colhida e o Juízo de origem determinou a intimação da Autoridade Policial para apresentação de laudo pericial, o que evidencia que a instrução processual está próxima de ser encerrada.
+O recurso comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/5/2022).
+Cumpre ressaltar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, 6ª T., DJe 11/3/2022).
+Nessa esteira, esta Corte Superior tem entendido que " o  prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. Ministro Felix Fischer, 5ª T., DJe 17/9/2015).
+Na espécie, não constato desídia do Juízo natural da causa na condução do processo, a ensejar a intervenção desta Corte Superior.
+A despeito de o réu estar preso a cerca de 1 ano e 6 meses, segundo as informações prestadas pelo Juiz de primeiro grau (fls. 71-75), foi dispensado o laudo pericial e a fase instrutória foi encerrada no dia 20/6/2024.
+Em consulta ao sistema informatizado do Tribunal de origem, verifica-se que o feito aguarda a apresentação de alegações finais defensivas para prolação da sentença.
+Dessa forma, fica afastada, por hora, a alegação de excesso de prazo, pois não foi demonstrada demora irrazoável e injustificada para o término da instrução criminal. Os recentes andamentos processuais demonstram que as instâncias ordinárias vêm impulsionando o prosseguime nto do processo, o que ocorre em consonância com a complexidade do feito, tendo a instrução sido, inclusive, encerrada, a atrair a incidência da Súmula n. 52 do STJ.
+À vista do exposto, nego provimento ao recurso ordinário, in limine, mas recomendo ao Juízo de primeiro grau que priorize o julgamento da ação penal.
+Comunique-se o inteiro teor deste decisum à autoridade apontada como coatora.
+Publique-se e intimem-se.
+EMENTA
