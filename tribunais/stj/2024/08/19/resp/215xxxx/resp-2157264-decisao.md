@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se recurso especial interposto por JOSEFA LUNA DE MACEDO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/CE.
+Recurso especial interposto em: 09/04/2024.
+Concluso ao Gabinete em: 12/07/2024.
+Ação: declaratória de inexistência de débito cumulada com reparação de danos materiais e compensação de danos morais, ajuizada pela recorrente, em desfavor de BANCO C6 S.A., em virtude da ausência de contratação de empréstimo consignado com esta instituição financeira.
+Foi promovido o cumprimento de sentença pela recorrente, para fins de recebimento dos honorários advocatícios fixados em favor de seu(s) patrono(s).
+O recorrido, por sua vez, apresentou impugnação ao cumprimento de sentença, apontando excesso de execução, sob o argumento de que o valor das parcelas vincendas do contrato não deve integrar a base de cálculo dos honorários.
+Sentença: acolheu a impugnação ao cumprimento de sentença apresentada pelo recorrido, para reconhecer o excesso de execução.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA JULGADA PROCEDENTE QUANTO À FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. IRRESIGNAÇÃO DA AUTORA/IMPUGNADA. BASE DE CÁLCULO SOBRE DANO MORAL E SOBRE VALOR DO CONTRATO DECLARADO NULO. IMPOSSIBILIDADE. OBSERVÂNCIA DA ORDEM DE GRADAÇÃO. ART 85 §2º CPC E PRECEDENTES. FIXAÇÃO SOMENTE SOBRE VALOR DA CONDENAÇÃO EM DANOS MORAIS. RECURSO CONHECIDO E DESPROVIDO.
+1. Cuida-se de apelação interposta por Josefa Luna de Macedo contra sentença das pp. 256/258, que acolheu a impugnação ao cumprimento de sentença das pp. 241/251, manejada por Banco C6 consignado S.A, com nova denominação para Banco FICSA S.A, ora apelado.
+2. A questão principal da irresignação consiste no fato do juízo a quo, em sede de impugnação ao cumprimento de sentença, ter retirado o valor do contrato anulado (R$ 25.988,00) da base de cálculo dos honorários de sucumbência para se fazer incidir as referidas verbas somente sobre a indenização por danos morais, esta no valor de R$ 3.000,00.
+3. Especificamente quanto à base de cálculo da verba honorária, o parágrafo 2 o do artigo 85 do CPC dispõe que, em regra, os honorários advocatícios devem ser fixados no percentual entre 10% e 20% da condenação, do proveito econômico ou, na impossibilidade de estimar-se o quantum debeatur, sobre o valor atualizado da causa, atendidos o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, estabelecendo ordem de gradação, na qual o primeiro referencial a ser considerado é o valor da condenação, só se aplicando as bases de cálculo seguintes caso não exista a primeira.
+4. Partindo-se do pressuposto que de fato houve condenação ao pagamento do valor de R$ 3.000,00 (três mil reais) a título de indenização por danos morais, o juízo ad quo fixou de forma acertada ao aplicar essa base de cálculo na condenação em honorários, que não é ínfima, não se vislumbrando portanto reforma da sentença de I o grau.
+5. Recurso conhecido e desprovido. Sentença mantida (e-STJ fls. 292-293).
+Recurso especial: aponta a violação do art. 85, § 2º, do CPC, bem como dissídio jurisprudencial. Sustenta que o valor da condenação - base de cálculo utilizada para fins de fixação da verba honorária - deve ser considerado como o valor global da condenação, sem a exclusão de nenhuma parcela. Aduz que deve ser levado em conta, além do quantum compensatório arbitrado em R$ 3.000,00 (três mil reais) a título de danos morais, também o valor do negócio jurídico declarado por inexistente, isto é, R$ 25.988,00 (vinte e cinco mil, novecentos e oitenta e oito reais).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Por ocasião do julgamento do Tema 1.076/STJ (DJe de 31/05/2022), a Corte Especial do STJ firmou as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+A Corte local, por sua vez, deixou expressamente consignado que, tendo sido estabelecida ordem de gradação, o primeiro referencial a ser considerado é o valor da condenação, só se aplicando as bases de cálculo seguintes - a exemplo do proveito econômico e do valor da causa - caso não exista a primeira (e-STJ fl. 296).
+Destarte, os argumentos invocados pela recorrente não demonstram como o acórdão recorrido violou o art. 85, § 2º, do CPC - dispositivo legal que fundamenta também fundamento o dissídio jurisprudencial alegado -, uma vez que propriamente aplicado pelo TJ/CE a ordem de gradação prevista em tal dispositivo legal, reconhecendo que a base de cálculo para fins de fixação da verba honorária deve ser o valor da condenação, que, no caso concreto, equivale ao valor arbitrado a título de danos morais, isto é, R$ 3.000,00 (três mil reais).
+- Da ausência de prequestionamento
+Ademais, tem-se que o acórdão recorrido não decidiu acerca do argumento invocado pela recorrente de que o valor da condenação refere-se ao valor global em questão, sem a exclusão de nenhuma parcela, tal qual o valor do negócio jurídico declarado por inexistente, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 282/STF.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados em desfavor da recorrente na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSÊNCIA. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação declaratória de inexistência de débito cumulada com reparação de danos materiais e compensação de danos morais, já em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais impede o conhecimento do recurso especial.
+4. Recurso especial não conhecido.
