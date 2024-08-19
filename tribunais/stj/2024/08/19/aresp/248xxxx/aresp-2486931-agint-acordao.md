@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade ,  não  se  verifica  a  ofensa  ao  artigo  1.022  do  CPC/15.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMERCIAL YUZO MAKINODAN LTDA contra decisão monocrática de fls. 561-565 e-STJ, da lavra deste signatário, que conheceu do agravo para negar provimento ao recurso especial manejado pela parte ora agravante.
+O apelo extremo, a seu turno, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 451 e-STJ):
+AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA DE DIREITOS OBRIGACIONAIS DECORRENTES DE CESSÃO DE CRÉDITO - Cessão de crédito válida, cuja transferência independe de prévia notificação do devedor - Notificação prevista no art. 290, do Código Civil se destina apenas a informar o devedor a quem deve efetuar o pagamento, e sua ausência não invalida o negócio jurídico - Inexistência de previsão legal quanto ao alegado direito de preferência do devedor satisfazer a obrigação em iguais condições (mesmo valor) oferecidas ao cessionário - Validade da transferência de crédito por valor inferior ao registrado no título - Sentença mantida - RECURSO DESPROVIDO.
+Opostos embargos de declaração (fls. 468-469 e-STJ), esses foram rejeitados (fls. 476-480 e-STJ).
+Nas razões do recurso especial (fls. 482-488 e-STJ), a parte recorrente apontou violação aos seguintes dispositivos legais: (i) artigo 1.022, inc. II, do CPC/15, sustentando a existência de omissão e negativa de prestação jurisdicional acerca da matéria suscitada nos embargos de declaração, relativa à aplicação do disposto no art. 805 do CPC/15; e (ii) artigo 805 do CPC/15, aduzindo, em suma, que não foi observado, na espécie, o princípio da menor onerosidade do devedor, ao não se permitir que os recorrentes adjudiquem o débito exequendo pelo mesmo valor de R$ 75.000,00 (setenta e cinco mil reais), com a consequente extinção do processo de execução.
+Contrarrazões às fls. 494-498 e às fls. 500-514 (e-STJ).
+Em juízo de admissibilidade (fls. 515-517 e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 1.022 do CPC/15; e b) aplicação do óbice da Súmula 7 do STJ.
+Em desfavor da referida decisão, interpôs a parte recorrente o respectivo agravo (art. 1.042 do CPC/15), em cujas razões pugnou pelo processamento de seu recurso especial.
+Em decisão monocrática (fls. 561-565 e-STJ), este signatário conheceu do agravo para negar provimento ao recurso especial, sob os seguintes fundamentos: i) inexistência de violação ao art. 1.022 do CPC, eis que suficiente a fundamentação do acórdão recorrido; e ii) aplicação dos óbices das Súmulas 283 e 284 do STF, em razão da dissonância entre as razões do recurso especial e a fundamentação do acórdão recorrido.
+Inconformada, no presente agravo interno (fls. 569-575 e-STJ), a parte recorrente insurge-se contra a negativa de seguimento ao recurso especial, reiterando, primeiramente, a ocorrência de violação ao art. 1.022 do NCPC. No mais, combate a aplicação dos óbices das Súmulas 283 e 284 do STF, reiterando a matéria de mérito exposta na petição de recurso especial, no tocante à ofensa ao art. 805 do CPC. Requer, ao final, a reforma da decisão agravada.
+Impugnação às fls. 580-593 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDANTE.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade ,  não  se  verifica  a  ofensa  ao  artigo  1.022  do  CPC/15.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF.
+3. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. De início, revela-se correta  a  decisão  que  afastou  à  apontada  violação  ao  artigo  1.022, inc. II,  do  CPC/15.
+De  fato,  não  restou  configurada  a  negativa  de  prestação  jurisdicional.  Conforme  a  iterativa  jurisprudência  deste  Tribunal  superior,  deve  ser  afastada  a  alegação  de  ofensa  ao  artigo  1.022  do  CPC/15  "na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas,  apreciando  integralmente  a  controvérsia  posta  nos  autos,  não  se  podendo,  ademais,  confundir  julgamento  desfavorável  ao  interesse  da  parte  com  negativa  ou  ausência  de  prestação  jurisdicional"  (RCD  no  AREsp  1297701/RS,  Rel.  Ministro  SÉRGIO  KUKINA,  PRIMEIRA  TURMA,  julgado  em  07/08/2018,  DJe  13/08/2018).
+No  mesmo  sentido,  vejam-se,  a  título  de  exemplo:  EDcl  no  Ag  749.349/DF,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  julgado  em  07/08/2018,  DJe  14/08/2018;  AgInt  no  REsp  1716263/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  07/08/2018,  DJe  14/08/2018;  AgInt  no  AREsp  1241784/SP,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  21/06/2018,  DJe  27/06/2018.
+Alegou a parte recorrente que o acórdão impugnado restou omisso quanto à aplicação mais ampla do disposto no art. 805 do CPC/15.
+No  entanto,  conforme  consignado  pela  decisão  agravada,  o  Tribunal  local  tratou  de  forma  adequada  e  suficiente  sobre  as questões essenciais ao deslinde da lide, pronunciando-se nos seguintes termos (fls. 453-454 e-STJ):
+Trata-se de ação de adjudicação compulsória na qual os autores visam exercer direito de preferência para o adimplemento de obrigação pelo mesmo valor objeto da cessão de crédito, ocorrida entre os réus, da qual não foram notificados.
+A cessão do crédito restou devidamente comprovada às fls. 65/71, cuja transferência independe de prévia notificação, notadamente porque o artigo 290 do Código Civil tem por objetivo tão somente impedir que o devedor efetue o pagamento ao credor primitivo.
+A rigor, a inexistência de notificação não causa prejuízo ao devedor.
+Nesse sentido, a jurisprudência do C. Superior Tribunal de Justiça: (..).
+E a pretensão inicial não procede, pois inexiste previsão legal quanto ao alegado direito de preferência dos devedores satisfazerem a obrigação em iguais condições (mesmo valor) oferecidas ao cessionário, sendo, portanto, válida a transferência do crédito para terceiro interessado, no caso, a requerida G2 RECUPERADORA DE CRÉDITOS E INVESTIMENTOS S/A, por valor inferior ao registrado no título.
+Como  visto,  as  teses  da parte  insurgente  foram  apreciadas  pelo  Tribunal  a  quo,  que  as  afastou  apontando  os  fundamentos  jurídicos  para  tal,  ainda  que  em  sentido  contrário  a  pretensão  recursal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Não há, portanto, a ocorrência de qualquer vício na decisão recorrida, motivo pelo qual deve ser afastada a suposta violação ao artigo 1.022, inc. II, do CPC/15.
+2. No mais, com relação à aplicação do óbice das Súmulas 283 e 284 do STF, deve ser mantida a decisão que negou provimento ao recurso especial.
+Quanto à suposta violação ao art. 805 do CPC/15, cinge-se a pretensão recursal ao argumento de que não foi observado, na espécie, o princípio da menor onerosidade do devedor, ao não se permitir que os recorrentes adjudiquem o débito exequendo pelo mesmo valor de R$ 75.000,00 (setenta e cinco mil reais), com a consequente extinção do processo de execução.
+No entanto, observa-se que as razões recursais se encontram dissociadas dos fundamentos do acórdão recorrido.
+Conforme se depreende da fundamentação do acórdão recorrido, o Tribunal de origem manteve a sentença de improcedência do pedido inicial de adjudicação compulsória, sob os seguintes fundamentos: i) que a inexistência de notificação, prevista no art. 290 do CPC/15, não causa prejuízo ao devedor; e ii) que a pretensão inicial não procede, pois inexiste previsão legal quanto ao alegado direito de preferência dos devedores satisfazerem a obrigação em iguais condições (mesmo valor) oferecidas ao cessionário, sendo, portanto, válida a transferência do crédito para terceiro interessado.
+Nas razões do recurso especial, contudo, a parte insurgente limita-se a sustentar a aplicação do art. 805 do CPC, acerca do princípio da menor onerosidade ao devedor.
+Nada tratou do fundamento, suficiente, por si só, para manutenção do acórdão recorrido, no sentido de que a pretensão inicial não procede, pois inexiste previsão legal quanto ao alegado direito de preferência dos devedores satisfazerem a obrigação em iguais condições (mesmo valor) oferecidas ao cessionário, sendo, portanto, válida a transferência do crédito para terceiro interessado.
+Infere-se, assim, a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DO EMBARGANTE.
+1. Admissível o agravo interno, apesar de não infirmar a totalidade da decisão monocrática recorrida, pois a jurisprudência do STJ é assente no sentido de que a impugnação a capítulos autônomos da decisão apenas induz à preclusão das matérias não discutidas.
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando a Corte de origem decide de modo fundamentado, como ocorre na hipótese, Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a aplicação das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A revisão do aresto impugnado no sentido pretendido pelo recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a insuficiência de provas quanto ao bem ser o único da família ou servi-lhe de residência ou, ainda, de subsídio para essa. Incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1215038/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. RECURSO NÃO PROVIDO.
+1. A apresentação, no recurso especial, de razões dissociadas dos fundamentos do acórdão recorrido impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE IMPUGNAÇÃO. FUNDAMENTOS DO JULGADO ATACADO. RAZÕES RECURSAIS. DISSOCIAÇÃO. SÚMULAS NºS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, CPC/2015. INAPLICABILIDADE. CÓDIGO DE PROCESSO CIVIL DE 2015. VIGÊNCIA. DECISÃO AGRAVADA. PUBLICAÇÃO ANTERIOR.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. O Enunciado Administrativo nº 7 do Superior Tribunal de Justiça deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017)  grifou-se
+Sendo o suficiente para manutenção do decisum, é de rigor o desprovimento do agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
