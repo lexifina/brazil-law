@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA ANTECIPADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de rescisão contratual e restituição de valores cumulada com indenização por danos morais e pedido de tutela antecipada
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: ausência de afronta ao art. 1.022 do CPC.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por MARIA HELENA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA. contra decisão que não conheceu do agravo em recurso especial.
+Ação: de rescisão contratual e restituição de valores cumulada com indenização por danos morais e pedido de tutela antecipada movida por MARCILON DE SOUZA MENDONÇA e KEYDE ANTÔNIA DOS REIS MENDONÇA contra MARIA HELENA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA.
+Decisão interlocutória: indeferiu o pedido liminar de imediata suspensão da exigibilidade do pagamento das parcelas do financiamento.
+Acórdão: deu provimento ao agravo de instrumento interposto pelos agravados, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS - INCLUSÃO DO NOME DO CONSUMIDOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO - PARTE QUE NEGA A EXISTÊNCIA DO DÉBITO - PEDIDO DE TUTELA ANTECIPADA PARA RETIRADA DO NOME DO SPC E SERASA - INTELIGÊNCIA DO ARTIGO 300 DO CPC/2015 - PROBABILIDADE DO DIREITO - PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO - REVERSIBILIDADE DA MEDIDA ANTECIPATÓRIA - REQUISITOS CUMULATIVOS - PRESENÇA - RECURSO PROVIDO. -Tendo em vista a presença dos requisitos cumulativos ensejadores da concessão da tutela antecipada pleiteada, quais sejam, a probabilidade do direito, o perigo de dano ou de risco ao resultado útil do processo e a reversibilidade do provimento antecipatório, o seu deferimento é medida que se impõe. - Se pendente a discussão acerca do débito que originou a negativação impugnada, não é plausível a manutenção do nome do suposto devedor nos órgãos de proteção ao crédito enquanto não realizada ampla instrução a respeito, valendo ressaltar a impossibilidade de impor-lhe ônus probatório de fato negativo. Não há mínimo risco de prejuízo à parte ré com a concessão da liminar, pois se trata de medida reversível que não elide o eventual crédito do credor. (e-STJ fl. 353)
+Sentença: julgou parcialmente procedentes os pedidos para: a) Determinar a rescisão dos Contratos de Compra e Venda dos lotes de nº 198 e nº 2288; b) Condenar a parte ré a restituir aos autores todos os valores pagos dos Contratos de Compra e Venda dos lotes nº 198 e nº 2288, corrigido monetariamente pelo INPC a partir da data dos respectivos desembolsos, e acrescidos de juros de mora de 1% (um por cento) ao mês a partir da data da citação; c) Condenar a parte ré a pagar à parte autora a multa prevista no contrato no importe de 10% (dez por cento) sobre o valor atualizado de cada contrato; d) Condenar a parte ré a pagar à parte autora indenização por danos morais no valor de R$5.000,00 (cinco mil reais), corrigido monetariamente pelo INPC a partir da data da presente sentença, na forma da Súmula 362 do STJ, e acrescido de juros de mora de 1% (um por cento) ao mês desde a data do evento danoso, na forma da Súmula 54 do STJ.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/CRESTITUIÇÃO DE VALORES PAGOS C/CINDENIZAÇÃO POR DANO MORAL E PEDIDO DE TUTELA ANTECIPADA -PRELIMINAR ILEGITIMIDADE PASSIVA - REJEIÇÃO - MÉRITO CONTRATO DE PROMESSA DE COMPRA E VENDA - ATRASO NAS OBRAS DE INFRAINSTRUTURA -RESCISÃO DO COMPROMISSO DE COMPRA E VENDA - DEVOLUÇÃO DOS VALORES PAGOS - MULTA RESCISÓRIA - INVERSÃO. Deve ser rescindido o compromisso de compra e venda se a promitente vendedora não finalizar a obra no prazo avençado, com a devolução dos valores pagos ao promitente comprador.
+O Superior Tribunal de Justiça se manifestou por ensejo do julgamento dos Recursos Especiais de nº 1.614.721/DF e 1.631.485/DF, de relatoria do Ministro Luis Felipe Salomão, processados de acordo com a sistemática dos recursos repetitivos, no sentido de que, no contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para a hipótese de rescisão contratual por culpa do adquirente, deverá ela ser considerada também para a hipótese de rescisão por culpa do vendedor. (e-STJ fl. 433)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial interposto pela parte agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: a parte agravante alega que houve impugnação suficiente e adequada da decisão de inadmissibilidade do recurso especial, sendo inaplicável a Súmula 182 do STJ. Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA ANTECIPADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação de rescisão contratual e restituição de valores cumulada com indenização por danos morais e pedido de tutela antecipada
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de inadmissibilidade: ausência de afronta ao art. 1.022 do CPC.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com base no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de inadmissibilidade proferida pelo TJ/MG:
+i) ausência de violação do art. 1.022 do CPC.
+- Da ausência de violação do art. 1.022 do CPC
+Nas razões do agravo em recurso especial, a parte agravante deixou de combater o fundamento referente à ausência de violação do art. 1.022 do CPC, tendo em vista que não demonstrou, de maneira clara e específica, a existência de omissão, obscuridade, contradição ou erro material no acórdão proferido pelo Tribunal de origem.
+Nesse sentido: AgInt no AREsp 2.183.105/MG, Quarta Turma, DJe de 7/12/2023 e AgInt no AREsp n. 1.996.859/SP, Terceira Turma, DJe de 4/5/2022.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/2022.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
