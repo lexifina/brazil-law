@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de tutela cautelar antecedente requerida por Altamir Antônio dos Santos, Belino Bravin Filho, Odair de Oliveira Lima e Aparecido Domingos Regini, objetivando a concessão de efeito suspensivo à decisão proferida pelo Tribunal de Justiça do Paraná no bojo do Agravo de Instrumento em agravo de instrumento nº 0107514-88.2023.8.16.0000, até que o caso chegue ao Superior Tribunal de Justiça, por meio de recurso próprio, no caso, Recurso Especial, para julgamento do feito.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.029, § 5º, III, do CPC/2015, o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial deve ser dirigido ao presidente ou vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão que analisou a sua admissão.
+A nova lei processual civil positivou o que assentado nos enunciados das Súmulas 634 e 635 do STF, aplicados por esta Corte Superior na vigência do CPC/1973, por analogia, aos pedidos de efeito suspensivo a recursos especiais nos quais ausente o juízo preliminar de admissibilidade, sendo excepcionados somente os casos em que haja, cumulativamente, os requisitos do periculum in mora e do fumus boni juris, aliados à manifesta ilegalidade da decisão.
+De outro lado, o art. 26-C da Lei Complementar n. 64/1990, com a redação conferida pela Lei Complementar n. 135/2010, dispõe que: "Art. 26-C. O órgão colegiado do tribunal ao qual couber a apreciação do recurso contra as decisões colegiadas a que se referem as alíneas d, e, h, j, l e n do inciso I do art. 1º poderá, em caráter cautelar, suspender a inelegibilidade sempre que existir plausibilidade da pretensão recursal e desde que a providência tenha sido expressamente requerida, sob pena de preclusão, por ocasião da interposição do recurso" (destaques apostos).
+No caso dos autos, verifica-se que sequer foi comprovada eventual interposição de recurso especial, de modo que não foi inaugurada a jurisdição do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no artigo 34, XVIII, "a", do RI/STJ, não conheço do pedido.
+Publique-se. Intimem-se.
+EMENTA
