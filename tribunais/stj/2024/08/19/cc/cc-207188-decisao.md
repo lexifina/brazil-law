@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara Criminal de São Paulo - SJ/SP, o suscitante, e o Juízo de Direito do Foro Central Criminal Barra Funda (DIPO 3) da comarca de São Paulo/SP, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fl. 113):
+O JUIZ FEDERAL DA 2ª VARA CRIMINAL DE SÃO PAULO - SJ/SP suscita conflito negativo de competência em face do JUIZ DE DIREITO DO FORO CENTRAL CRIMINAL DE BARRA FUNDA - DIPO 3 - SÃO PAULO - SP, em inquérito policial, instaurado para apurar a prática do crime previsto no art. 183 da Lei nº 9.472/97.
+O suscitante afirma não verificar notícia de crime de competência da Justiça Federal, tendo em vista o não preenchimento de determinados requisitos, como a comprovação concreta de fornecimento irregular de TV por assinatura (serviço de telecomunicação). Em igual sentido, citou precedente dessa egrégia Corte Superior de Justiça (e- STJ fls. 2/3).
+Por sua vez, o juízo suscitado, acolhendo parecer do Ministério Público Estadual (e-STJ fls. 98/100), de que, havendo notícia da prática em tese de crime previsto na Lei nº 9.472/97, estaria configurada a competência da Justiça Federal, assevera que o JUÍZO FEDERAL DA 2ª VARA CRIMINAL DE SÃO PAULO - SJ/SP seria o competente para julgar o feito (e- STJ fl. 102).
+ ..
+No parecer, o órgão ministerial opinou pela competência do Juízo suscitado (fls. 113/116):
+ ..
+Com razão o suscitante.
+Da análise dos documentos amealhados aos autos, não se verifica, a priori, elementos que autorizem o deslocamento da competência para a Justiça Federal.
+Com efeito, dos elementos probatórios colacionados nessa fase processual apenas é possível concluir que os decodificadores irregulares de sinal se destinam, tão-somente, à captação não autorizada do sinal da empresa exploradora dos serviços de TV por assinatura, o que implica em crimes contra particulares, não atraindo, assim, a competência da Justiça Federal.
+Dessa forma, salvo comprovação efetiva de que o delito foi cometido em detrimento das telecomunicações, a competência para processar e julgar esta ação penal é da Justiça Estadual.
+Neste sentido: (CC n. 191.874/SP, relator Ministro Jesuíno Rissato (desembargador convocado do TJDFT), Terceira Seção, julgado em 19/10/2022, DJe de 21/10/2022); (CC n. 178.375/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 17/04/2021, DJe de 28/04/2021), e ainda:
+ ..
+Não por outro motivo, o Ministério Público Federal à fl. 106/105 e-STJ requereu a remessa dos autos à autoridade policial para as seguintes providências: expedição de ofício à ANATEL para que informe se os aparelhos apreendidos são ou não homologados pela agência, elaboração de laudo pericial em que deverão ser esclarecidas as seguintes questões: os decodificadores de TV a cabo apreendidos são de origem estrangeira  Os decodificadores de TV a cabo possuem algum selo contrafeito da ANATEL  Há com o comprovar que houve o efeitvo compartilhamento/fornecimento ilícito de TV por assinatura  Os decodificadores de TV a cabo possuem algum aplicativo que permite visualizar imagens de TV a cabo ou, de alguma forma, mostra-se funcional para permitir tal visualização
+Somente após se obter tais informações é que será possível verificar se, de fato, há competência da Justiça Federal para processar o feito.
+Com essas considerações, o Ministério Público Federal opina pela competência do JUIZ DE DIREITO DO FORO CENTRAL CRIMINAL DE BARRA FUNDA - DIPO 3 - SÃO PAULO - SP, o suscitante.
+É o relatório.
+A jurisprudência desta Corte Superior de Justiça é firme no sentido de que a venda de aparelhos para desbloqueio clandestino de sinal de televisão por assinatura, configura, em tese, o crime do art. 183, parágrafo único, da Lei n. 9.472/1997. Sobre o tema: AgRg no REsp n. 1.825.283/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 26/11/2019 e AgRg no AREsp n. 1.360.661/RJ, relator Ministro Felix Fischer, Quinta Turma, DJe de 26/10/2018 (CC n. 199.904/SP, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 27/10/2023 - grifo nosso).
+Fixada essa premissa, verifica-se que, no caso, o Juízo Federal suscitou o conflito de forma precipitada, na medida em que não acolheu a diligência objeto de representação do Ministério Público Federal na origem, qual seja, a confecção de laudo pericial, condição necessária para aferir se os aparelhos apreendidos ostentam aptidão para o desbloqueio do sinal de operadoras de televisão por assinatura.
+Com efeito, sem essa diligência e sem decisão no sentido de eventual arquivamento do crime de competência federal, a competência para processar o inquérito remanesce com a Justiça Federal, inclusive porque há laudo pericial, confeccionado pelo Instituto de Criminalística de São Paulo, que sugere a aptidão do equipamento para o acesso de conteúdo restrito aos assinantes de serviço de tv por assinatura (fl. 85 - grifo nosso):
+ ..
+Por ocasião dos exames, este perito relator verificou a funcionalidade dos equipamentos, mediante a conexão em um monitor (cabo HDMI) e na Internet (conexão Wi-Fl). Foi constatado que o modelo possuía alguns aplicativos instalados, compatíveis com o sistema operacional Android, utilizados para reprodução de vídeos e filmes disponíveis na Internet. Foi possível acessar partidas de futebol no canal fechados (pagos) "PREMIER". As fotografias abaixo ilustram os exames realizados.
+ ..
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 2ª Vara Criminal de São Paulo - SJ/SP, o suscitante.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. VENDA DE APARELHOS DECODIFICADORES DE SINAL DE TV. CONDUTA APTA A CARACTERIZAR O CRIME TIPIFICADO NO ART. 183, PARÁG. ÚNICO, DA LEI N. 9.472/1997. LAUDO PERICIAL QUE APONTA NO SENTIDO DA APTIDÃO DO EQUIPAMENTO PARA OBTENÇÃO DE CONTEÚDO RESTRITO AO SERVIÇO DE TV POR ASSINATURA. INEXISTÊNCIA DE PROVA NOVA APTA A AFASTAR AS CONCLUSÕES DO LAUDO PERICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara Criminal de São Paulo - SJ/SP, o suscitante.
