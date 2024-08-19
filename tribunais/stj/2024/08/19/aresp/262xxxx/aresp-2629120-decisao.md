@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto por CARDIF DO BRASIL VIDA E PREVIDENCIA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ cuja ementa guarda os seguintes termos (fl. 478):
+CIVIL E PROCESSO CIVIL. APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. SEGURO DE VIDA PRESTAMISTA. ÓBITO DO SEGURADO. ALEGAÇÃO DE DOENÇA PREEXISTENTE. SÚMULA 609 DO STJ. EXAME PRÉVIO NÃO REALIZADO. MÁ-FÉ NÃO COMPROVADA. RECURSOS CONHECIDOS E DESPROVIDOS.
+1) O seguro de vida prestamista destina-se a saldar dívida contraída, total ou parcialmente, pelo segurado quando da ocorrência do sinistro, sendo o beneficiário o banco credor do segurado;
+2) Não pode a seguradora eximir-se do pagamento do seguro de vida contratado, alegando a existência de doença preexistente se, no ato da contratação, não submeteu o segurado a prévio exame de saúde e não comprovou a sua má-fé ao celebrar o contrato. Precedentes TJAP e STJ.
+3) Apelações conhecidas e desprovidas.
+Rejeitados os embargos de declaração opostos (fl. 353).
+No recurso especial, alega que o acórdão contrariou os arts. 765 e 766 do CC, pois teria sido comprovada a má-fé do consumidor ao omitir doença pré-existente na contratação do seguro prestamista. Afirma que (fl. 566):
+(..) o Sr. Geraldo da Costa, o qual sofria desde 2008 de doença renal crônica (fazendo hemodiálise), de forma consciente, omitiu doença preexistente, pois declarou à recorrente, na proposta do seguro, gozar de boa saúde, não tendo doença crônica e nem fazendo qualquer tratamento medico, (..)
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 605-610), o que ensejou a interposição do presente agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, salienta-se que a jurisprudência sumulada desta Corte é no sentido de que "A recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado" (Súmula n. 609/STJ).
+O Tribunal de origem consignou que a seguradora não exigiu exames prévios nem comprovou a má-fé do segurado em relação à omissão de doença pré-existente, não podendo alegá-la para se escusar de cumprir o contrato.
+Veja-se (fl. 481):
+A alegação de doença preexistente demanda a demonstração de que exigiu exames médicos prévios à contratação ou a má-fé do segurado.
+A seguradora apelante não se desincumbiu de nenhuma das hipóteses supramencionadas.
+Não exigiu exames prévios do segurado, tampouco demonstro nos autos a má-fé.
+Pois bem, embora o contrato tenha sido assinado pelo segurado contendo declaração de que não tivesse conhecimento de doença preexistente, não há juntado, ou anexado no ato da contratação requerimento de exames prévios.
+Do mesmo modo, de acordo com o entendimento firmado pelo juízo de primeiro grau, não se pode reputar má fé por assinatura em contrato já constituído, pré-elaborado sem sequer haver espaço para questionamento acerca da saúde do segurado.
+Ademais, o ônus da prestação de serviços de forma clara e contundente acerca dos limites, a fim de minimizar os riscos, em razão da natureza do contrato do seguro, é da seguradora, e não do segurado.
+Isso posto, alterar as conclusões do acórdão recorrido quanto à caracterização da má-fé do segurado quanto ao conhecimento da doença preexistente à celebração do contrato de seguro demandaria a reanálise não apenas de cláusulas contratuais, mas também dos fatos e das provas constantes nos autos, o que é defeso a esta Corte nos termos das Súmulas n. 5 e 7/STJ. A propósito, confiram-se precedentes:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. SEGURO PRESTAMISTA. CONTRATO DE MÚTUO. PRODUTOR RURAL. COBERTURA SECURITÁRIA. DOENÇA PREEXISTENTE NÃO INFORMADA PELO SEGURADO. EXAMES PRÉVIOS NÃO EXIGIDOS PELA SEGURADORA. MÁ-FÉ DO SEGURADO AFASTADA PELO ACÓRDÃO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Na linha de orientação do STJ, não há cerceamento de defesa quando o magistrado decide de forma suficientemente fundamentada a desnecessidade da prova requerida, ante a suficiência das demais provas já produzidas.
+2. "A jurisprudência deste Superior Tribunal de Justiça vem afirmando, de um lado, que o reconhecimento da má-fé do segurado quando da contratação do seguro-saúde necessita ser devidamente comprovada, não podendo ser presumida, e, de outro, que não pode a seguradora recusar a cobertura securitária alegando a existência de doença pré-existente se deixou de exigir, antes da contratação, a realização de exames médicos pela parte segurada" (AgInt no AREsp 1.914.987/RN, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2021, DJe de 25/11/2021).
+3. No caso em exame, o Tribunal de origem consignou expressamente que a seguradora não exigiu a realização de exames previamente à contratação do seguro prestamista - acessório à contratação de operação de crédito com a instituição financeira, cuja finalidade era garantir o pagamento do saldo devedor do contrato principal -, mas apenas a declaração do segurado sobre seu estado de saúde, concluindo, com fundamento em provas trazidas aos autos pela própria seguradora, pela ausência de má-fé do segurado, uma vez que suas condições de saúde não apontavam para a ocorrência do óbito no curso da contratação.
+4. A alteração das premissas fáticas firmadas no acórdão recorrido, acerca da ausência de má-fé do segurado, exige a revisão do substrato probatório, incabível nesta instância, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se dá provimento para, em nova análise, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.709.552/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/8/2023, DJe de 25/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. CONTRATO DE SEGURO PRESTAMISTA. FALECIMENTO DA SEGURADA. DOENÇA PREEXISTENTE. AUSÊNCIA DE MÁ-FÉ. NECESSIDADE DE SUA DEMONSTRAÇÃO. SIMPLES CONHECIMENTO PRÉVIO DA SEGURADA DE QUE TINHA DOENÇA ANTERIOR À ASSINATURA DO CONTRATO NÃO FAZ PRESUMIR MÁ-FÉ. OMISSÃO DA SEGURADORA EM EXIGIR DECLARAÇÃO DA SEGURADA E APRESENTAÇÃO DE DOCUMENTOS E/OU LAUDOS MÉDICOS. NEGATIVA EM IMPLEMENTAR A COBERTURA. DESCABIMENTO. COMPORTAMENTO DA SEGURADORA ATENTATÓRIO À BOA-FÉ OBJETIVA. ATITUDE CONTRADITÓRIA. VENIRE CONTRA FACTUM PROPRIUM. AGRAVO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA PARTE ORA AGRAVANTE.
+1. Se a seguradora, no momento da assinatura do contrato de seguro prestamista, não exigiu que a segurada firmasse declaração sobre seu estado de saúde pretérito, tampouco que apresentasse documentos e/ou laudos médicos, não pode negar a cobertura securitária levando em conta, simploriamente, que teria a segurada conhecimento de diagnóstico de doença preexistente à contratação, pois a má-fé não se presume, deve ser demonstrada, o que não ocorre na espécie.
+2. A seguradora, ao não fazer nenhuma exigência para a realização do contrato, recebendo as suas parcelas até o momento da morte da segurada, adotou comportamento contraditório, que atenta contra a boa-fé objetiva (venire contra factum proprium), quando nega a cobertura securitária.
+3. Agravo provido para dar provimento ao recurso especial do Espólio.
+(AgInt no AREsp n. 2.241.818/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. DOENÇA PREEXISTENTE. MÁ-FÉ DO SEGURADO. PRETENSÃO DE REEXAME DE PROVAS. SUMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
