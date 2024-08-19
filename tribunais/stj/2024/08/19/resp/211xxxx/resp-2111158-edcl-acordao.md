@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC DE 2015. OMISSÃO. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Os Aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+2. Ao contrário do alegado em longo e repetitivo Recurso, não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Consta da decisão recorrida a impossibilidade de o STJ apreciar as violações aos arts. 507, 508 e 509 do CPC, porquanto alterar a conclusão a que chegou o órgão julgador sobre a coisa julgada e a ilegitimidade da parte, no caso, implica revolvimento do conjunto fático-probatório produzido nos autos, inadmissível na via especial, ante o óbice da Súmula 7 do STJ.
+4. Portanto, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade. Reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+5. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+6. Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Embargos de Declaração interpostos do acórdão proferido pela Segunda Turma do STJ, que negou provimento ao Agravo Interno.
+Em apertada síntese, a parte embargante alegou omissão no acórdão recorrido, tendo em vista a negativa de prestação jurisdicional (fl. 1.452).
+A parte embargada, apesar de intimada, não ofereceu impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC DE 2015. OMISSÃO. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Os Aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+2. Ao contrário do alegado em longo e repetitivo Recurso, não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Consta da decisão recorrida a impossibilidade de o STJ apreciar as violações aos arts. 507, 508 e 509 do CPC, porquanto alterar a conclusão a que chegou o órgão julgador sobre a coisa julgada e a ilegitimidade da parte, no caso, implica revolvimento do conjunto fático-probatório produzido nos autos, inadmissível na via especial, ante o óbice da Súmula 7 do STJ.
+4. Portanto, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade. Reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+5. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+6. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4.7.2024.
+O Recurso não merece prosperar.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Os Aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+Ao contrário do alegado em longo e repetitivo recurso, não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada. Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na verdade, o embargante traz os mesmos argumentos já lançados desde o Recurso de apelação, apenas modificando o nome do Recurso. Depreende-se que ele não se conforma com os resultados das decisões, porquanto contrárias aos seus interesses.
+Como já dito, o Tribunal de origem, soberano na apreciação do acervo fático-probatório produzido nos autos, assentou que o título executivo "beneficiou somente os magistrados classistas de primeiro grau aposentados", in verbis:
+Da análise da decisão proferida no RMS 25.841/DF, depreende-se claramente que o título executivo beneficiou somente os magistrados classistas de primeiro grau aposentados sob a égide da Lei 6.903/81 e seus pensionistas.
+No caso dos autos, a parte exequente exerceu o cargo de juiz classista até 3/2/2000. Contudo, não se aposentou como juiz classista sob o regime da Lei 6.903/81. Portanto, deve ser reconhecida a sua ilegitimidade ativa para o cumprimento de sentença com base no título executivo formado na ação coletiva 0006306-43.2016.4.01.3400.
+Reconhecida a ilegitimidade ativa da parte exequente, o cumprimento de sentença deve ser extinto, condenando-se a parte exequente ao pagamento de honorários advocatícios em favor da parte executada, fixados em 10% sobre o valor executado.
+Consta da decisão recorrida a impossibilidade de esta Corte apreciar as violações aos art. 507, 508 e 509 do CPC, porquanto alterar a conclusão a que chegou o órgão julgador sobre a coisa julgada e a ilegitimidade da parte, no caso, implica revolvimento do conjunto fático-probatório produzido nos autos, inadmissível na via especial, ante o óbice da Súmula 7 do STJ.
+As teses formuladas nos Temas 481, 723 e 724 do STJ não foram apreciadas no acórdão recorrido, visto que a análise do Recurso não ultrapassou a fase de admissibilidade, portanto o mérito não chegou a ser examinado.
+Assinale-se, por fim, que fica prejudicada a verificação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Assim sendo, percebe-se que a intenção do embargante é rediscutir o mérito do recurso, ao invés de integrá-lo, o que não é permitido pela legislação. Reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
