@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. QUESTÃO ANALISADA COMO SE FOSSE PRESCRIÇÃO INTERCORRENTE. REPERCUSSÃO NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. ERRO MATERIAL CONFIGURADO. EMBARGOS DECLARATÓRIOS ACOLHIDOS PARA TORNAR SEM EFEITO O ACÓRDÃO EMBARGADO E TAMBÉM A DECISÃO MONOCRÁTICA QUE DECIDIU O RECURSO, DETERMINANDO A CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DIANA WEILER DA LUZ (DIANA) contra acórdão de minha relatoria, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PRESCRIÇÃO INTERCORRENTE ACOLHIDA EM SEGUNDO GRAU. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. SÚMULA Nº 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado, responsável pela instauração do processo em seu desfavor. Incidência da Súmula nº 83 do STJ.
+3. Agravo interno não provido.
+Nas razões do presente inconformismo, indicou ofensa ao art. 1.022, II, do CPC, alegando que o acórdão impugnado partiu de premissa equivocada, uma vez que o Tribunal estadual não extinguiu o feito em razão da prescrição intercorrente, mas, sim, pela prescrição da pretensão executiva, na medida em que o exequente deixou de promover a citação da executada, ora embargante, no prazo estabelecido pela lei.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. QUESTÃO ANALISADA COMO SE FOSSE PRESCRIÇÃO INTERCORRENTE. REPERCUSSÃO NA FIXAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. ERRO MATERIAL CONFIGURADO. EMBARGOS DECLARATÓRIOS ACOLHIDOS PARA TORNAR SEM EFEITO O ACÓRDÃO EMBARGADO E TAMBÉM A DECISÃO MONOCRÁTICA QUE DECIDIU O RECURSO, DETERMINANDO A CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
+VOTO
+A irresignação colhe êxito.
+Da violação do art. 1.022 do CPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+O erro material, por seu turno, é aquele perceptível à primeira vista, dentro do próprio contexto em que inserido, não sendo necessária a comparação ou a interpretação de fatos e documentos para constatá-lo (REsp nº 1.380.692/RO, relatora Ministra ELIANA CALMON, Segunda Turma, DJe de 29/11/2013).
+Nas razões deste aclaratório, DIANA apontou ofensa ao art. 1.022, II, do CPC, alegando que o acórdão impugnado partiu de premissa equivocada, uma vez que o Tribunal estadual não extinguiu o feito em razão da prescrição intercorrente, mas, sim, pela prescrição da pretensão executiva, na medida em que o exequente deixou de promover a citação da executada, ora embargante, no prazo estabelecido pela lei.
+Com razão.
+É que, por equívoco, o teor do acórdão, às, e-STJ, fls. 170/174, encontra-se dissociado da efetiva discussão da presente demanda, uma vez que a tese da prescrição intercorrente, de fato, não foi acolhida pelo voto do Relator no Tribunal estadual, que expressamente consignou que, "independentemente da exigência ou não da intimação pessoal do credor para impulsionar o feito, não se vislumbra nos autos que tenha transcorrido o lapso temporal necessário para que se reconheça a ocorrência da prescrição intercorrente" (e-STJ, fl. 58).
+Não obstante, prosseguindo no julgamento do agravo de instrumento então interposto pela ora embargante, a Corte local identificou a ocorrência da prescrição da pretensão executiva, considerando que "desde a propositura da ação até a efetiva citação da parte executada se passaram mais de cinco anos,  .. , o que enseja a extinção da execução, na forma do art. 487, inciso II, do Código de Processo Civil" (e-STJ, fl. 61).
+Assim delineados os fatos, e sob essa nova perspectiva, de extinção do processo pela prescrição da pretensão executiva, e não pela ocorrência da prescrição intercorrente, faz-se necessário que a questão da fixação dos honorários sucumbenciais seja analisada, em observância ao princípio da causalidade.
+Nessas condições, ACOLHO os embargos de declaração opostos por DIANA, TORNANDO SEM EFEITO o acórdão embargado e também a decisão monocrática de, e-STJ, fls. 146/149, CONVERTENDO o agravo em recurso especial para melhor análise da controvérsia.
+É o voto.
