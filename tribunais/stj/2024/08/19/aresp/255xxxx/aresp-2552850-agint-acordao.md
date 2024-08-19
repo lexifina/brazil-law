@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas razões do recurso especial, não foi apontado o permissivo constitucional autorizador da interposição do apelo nobre, bem como não foi indicado, de forma precisa, o dispositivo de lei federal violado pelo Tribunal de origem, o que impede o conhecimento do apelo nobre tanto pela alínea "a" como pela alínea "c" do inciso III do artigo 105 da CF.
+2. Exsurge certo ser pacífico o entendimento desta Corte Superior no sentido de "a ausência de expressa indicação dos permissivos constitucionais autorizadores de acesso à instância especial e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF. (AgInt no AREsp n. 2.163.127/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+3. Agravo interno não provido.
+RELATÓRIO
+RICARDO HENRIQUE DE FREITAS interpôs agravo interno contra decisão da presidência desta Corte de Justiça que não conheceu do recurso especial em decorrência da incidência do óbice da Súmula 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial.
+A parte agravante aduz que: a) a interposição de recurso especial dispensa a indicação de qualquer alínea do inciso III, do art. 105 da Constituição Federal, desde que seja possível identificar de forma inequívoca a intenção de demonstrar a violação de norma federal ou a divergência de entendimento entre tribunais - no caso sob análise verifica-se Nobres Ministros que é possível identificar, de forma inequívoca, tanto as teses relacionadas aos vícios integrativos constantes do acórdão recorrido quanto a importância de sua solução para o deslinde da controvérsia; o especial foi suficientemente fundamentado, tendo argumentado o recorrente, ora agravante, que o acórdão recorrido teria violado o art. 489, § 1º, III, do CPC e divergido de julgados desta Corte Superior.
+Houve impúgnação às fls. 291-196 (e-STJ)
+É o relatório.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas razões do recurso especial, não foi apontado o permissivo constitucional autorizador da interposição do apelo nobre, bem como não foi indicado, de forma precisa, o dispositivo de lei federal violado pelo Tribunal de origem, o que impede o conhecimento do apelo nobre tanto pela alínea "a" como pela alínea "c" do inciso III do artigo 105 da CF.
+2. Exsurge certo ser pacífico o entendimento desta Corte Superior no sentido de "a ausência de expressa indicação dos permissivos constitucionais autorizadores de acesso à instância especial e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF. (AgInt no AREsp n. 2.163.127/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+3. Agravo interno não provido.
+VOTO
+A decisão monocrática não conheceu do recurso especial em decorrência da deficiência na sua fundamentação.
+Em que pese as razões do presente agravo, a decisão monocrática deve ser mantida.
+De fato, não foi apontado no recurso especial o permissivo constitucional autorizador da interposição do apelo nobre, o que atrai o óbice da Súmula 284/STF.
+Ademais, ainda que assim não fosse, a parte recorrente não indidou de forma precisa o dispositivo de lei federal violado pelo Tribunal de origem, o que impede o conhecimento do apelo nobre tanto pela alínea "a" como pela alínea "c" do inciso III do artigo 105 da CF.
+Exsurge certo ser pacífico o entendimento desta Corte Superior no sentido de "a ausência de expressa indicação dos permissivos constitucionais autorizadores de acesso à instância especial e de demonstração de ofensa aos artigos de lei apontados ou de eventual divergência jurisprudencial inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF. (AgInt no AREsp n. 2.163.127/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. EMBARGOS DE TERCEIROS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. BEM DE FAMÍLIA. IMPENHORABILIDADE E INDIVISIBILIDADE. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de indicação do permissivo constitucional autorizador da interposição recursal inviabiliza o conhecimento do recurso especial, atraindo a aplicação da Súmula nº 284 do Supremo Tribunal Federal, por aplicação analógica.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula nº 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.017.055/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESSARCIMENTO DE DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. DANO MORAL. OCORRÊNCIA. REEXAME DO CONTEXTO FÁTICO PROBATÓRIO. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir a Súmula nº 7 do STJ.
+3. A ausência de indicação do permissivo constitucional autorizador da interposição recursal inviabiliza o conhecimento do recurso especial, atraindo a aplicação da Súmula nº 284 do Supremo Tribunal Federal, por aplicação analógica.
+4. Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 1.029, § 1º, do NCPC, e 255 do RISTJ. Precedentes.
+5. A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. A jurisprudência desta Corte também é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula nº 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do quantum indenizatório.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.776.348/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/6/2021, DJe de 11/6/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. 1. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA 284 DO STF. 2. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA EM RAZÃO DA AUSÊNCIA DE MÁ-FÉ. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO CABIMENTO EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA N. 83/STJ. 3. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de indicação do permissivo constitucional autorizador da interposição recursal inviabiliza o conhecimento do recurso especial, atraindo a aplicação da Súmula 284 do Supremo Tribunal Federal, por aplicação analógica.
+2. O manejo de exceção de pré-executividade apenas se apresenta possível quando as questões a serem apreciadas puderem ser conhecidas de ofício pelo magistrado, dispensada a dilação probatória. Precedentes. Incidência da Súmula 83/STJ.
+3. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.280/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2018, DJe de 5/9/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
