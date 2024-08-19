@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. CONEXÃO. JULGAMENTO CONJUNTO. UM DOS PROCESSOS JÁ SENTENCIADO. SÚMULA 568/STJ.
+1. Embargos à execução.
+2.Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Nos termos da Súmula n 235/STJ: "a conexão não determina a reunião dos processos, se um deles já foi julgado". Aplica-se, no caso, a Súmula 568/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por L F COMERCIO DE MOVEIS LTDA, LUIZ HENRIQUE CHAVES RODRIGUES, FABIOLA MELO FREITAS contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Ação: embargos à execução opostos pelos agravantes em face de HERVAL INDUSTRIA DE MOVEIS, COLCHOES E ESPUMAS LTDA.
+Sentença: julgou improcedentes os embargos à execução.
+Acórdão: conheceu da apelação e negou-lhe provimento, nos termos da seguinte ementa:
+PROCESSO CIVIL. CONEXÃO. PEDIDO DE JULGAMENTO CONJUNTO COM A APELAÇÃO CÍVEL N. 0858743-77.2017.8.20.5001. APELO JULGADO EM 25 DE OUTUBRO DE 2022. INEXISTÊNCIA DE CONEXÃO SE UM DOS PROCESSOS JÁ FOI JULGADO. INCIDÊNCIA DO ART. 55, § 1º, DO CPC E DA SÚMULA 235 DO STJ. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. NECESSIDADE DE DECLARAÇÃO NA PETIÇÃO INICIAL DO VALOR QUE SE ENTENDECORRETOE APRESENTAÇÃODACORRESPONDENTEMEMÓRIA DISCRIMINADA DO CÁLCULO. ÔNUS LEGAL IMPOSTO AO DEVEDOR. NÃO APRESENTAÇÃO NO CASO ANALISADO. EMBARGANTES QUE NÃO CUMPRIRAM SEU ÔNUS PROCESSUAL DE APRESENTAR PLANILHA DE CÁLCULOS. APLICAÇÃO DO ART. 917, § 3º, DO CPC. CONHECIMENTO E DESPROVIMENTO DO RECURSO. PRECEDENTE.- Os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado (art. 55, § 1º, do CPC).- A conexão não determina a reunião dos processos, se um deles já foi julgado (Súmula 235do STJ).- Como o processo n. 0858743-77.2017.8.20.5001, apelação decorrente de ação ordinária envolvendo as mesmas partes, foi julgado pelo TJRN em 28/12/0222 e foi mantida a sentença de improcedência em desfavor da LF Comércio de Móveis não há valores a compensar, o que repercutiria na análise da ação aqui posta (processo n.0857265-34.2017.8.20.5001).- Assim, por não haver conexão se um dos processos já tiver sido julgado, não deve ser acolhido o pedido formulado pelos recorrentes para declaração de prejudicialidade e julgamento conjunto dos recursos.- De acordo com dicção do art. 917, § 3º, do CPC, quando alegar que o exequente, em excesso de execução, pleiteia quantia superior à do título, o embargante declarará na petição inicial o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo.- É ônus do executado provar, com a oposição dos embargos, que a execução incorre em excesso, sob pena de preclusão.- No caso, os executados não se desincumbiram do seu ônus de declarar na petição inicial dos embargos à execução, o valor que entendem correto juntamente com planilha com demonstrativo dos cálculos, como determina o § 3º acima mencionado, incidindo em preclusão.- A menção genérica de excesso de execução representa inobservância do art. 917, §§ 3º e4º, do CPC, dispositivo que exige impugnação pontual e detalhada por meio de demonstrativo discriminado de cálculos.
+Embargos de declaração: não foram opostos.
+Recurso Especial: alegaram violação dos arts. 489, §1º, e 313, V, "a" e "b", do CPC. Afirmaram que o ponto central defendido nos embargos à execução, sobre a possibilidade de compensação de créditos, depende do reconhecimento da existência de créditos dos agravantes no âmbito da ação n. 0858743-77.2017.8.20.5001. Assim, sustentaram que as ações são conexas, havendo possibilidade de reunião dos processos, pois ainda não há decisão definitiva naqueles autos.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Agravo interno: em suas razões recursais, a parte agravante reitera que houve violação do art. 489 do CPC, quanto à inexigibilidade da quantia cobrada pela agravada. Quanto à aplicação da Súmula 568/STJ, afirma que o processo que entende ser conexo ainda não foi julgado definitivamente, de modo que não há impedimento para o julgamento conjunto. Assim, requer o conhecimento e provimento do presente agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. CONEXÃO. JULGAMENTO CONJUNTO. UM DOS PROCESSOS JÁ SENTENCIADO. SÚMULA 568/STJ.
+1. Embargos à execução.
+2.Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+3. Nos termos da Súmula n 235/STJ: "a conexão não determina a reunião dos processos, se um deles já foi julgado". Aplica-se, no caso, a Súmula 568/STJ.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+A decisão unipessoal de fls. 465/468 (e-STJ), conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, nos seguintes termos:
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que a questão referente à alegada conexão e prejudicialidade entre os processos foi devidamente analisada e discutida, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC quando o Tribunal de origem decide de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da Súmula 568/STJ
+O Tribunal de origem entendeu por não acolher o pedido dos agravantes no sentido de declarar a prejudicialidade entre os embargos à execução de que trata este processo e a ação n. 0858743-77.2017.8.20.5001, bem como não determinar a reunião para julgamento conjunto, sob o fundamento de que este último já foi objeto de julgamento. Veja-se o teor da fundamentação (e-STJ, fl. 399):
+Recentemente, 08/02/2023 (ID 17533582 do processo n. 0858743-77.2017.8.20.5001), o Tribunal de Justiça do Rio Grande do Norte julgou, respectivamente, a apelação e os embargos de declaração interpostos pela LF Comércio de Móveis e outros em face de sentença de improcedência na ação de indenização por danos morais e materiais - processo n. processo n. 0858743-77.2017.8.20.5001.
+De acordo com o art. 55, § 1º, do CPC, "os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado." Também segundo o entendimento cristalizado na Súmula 235 do STJ "a conexão não determina a reunião dos processos, se um deles já foi julgado." Logo, como o processo n. 0858743-77.2017.8.20.5001, apelação decorrente de ação ordinária envolvendo as mesmas partes, foi julgado pelo TJRN em 28/12/0222 e foi mantida a sentença de o que improcedência em desfavor da LF Comércio de Móveis não há valores a compensar, repercutiria na análise da ação aqui posta (processo n. 0857265-34.2017.8.20.5001).
+Assim, por não haver conexão quando um dos processos já tiver sido julgado, não deve ser acolhido o pedido formulado pelos recorrentes para declaração de prejudicialidade e julgamento conjunto dos recursos.
+Rejeitado esse primeiro pedido, passa-se à alegação de excesso de execução.
+O entendimento adotado pelo TJ/RN está em consonância com a jurisprudência deste STJ, o qual, inclusive, é objeto da Súmula 235/STJ, no sentido de que: a conexão não determina a reunião dos processos, se um deles já foi julgado. Nesse sentido: AgInt no AREsp 2365461 / MG (4ª Turma, DJe de 19/04/2024) e AgInt no REsp 1660685 / CE (3ª Turma, DJe de 30/08/2019).
+Assim, com fundamento na Súmula 568/STJ, o recurso deve ser desprovido.
+Forte nessas razões, CONHEÇO do agravo, para CONHECER parcialmente do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO, com fundamento no art. 932, IV, do CPC, bem como na Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Conforme consignado na decisão agravada, constata-se que o acórdão proferido pelo Tribunal de origem foi devidamente fundamentado, sendo a alegada conexão e prejudicialidade entre os processos afastada de forma clara e consistente.
+Cumpre acrescentar, ainda, que a parte agravante, embora alegue deficiência da fundamentação do julgado, não opôs embargos de declaração na origem, a fim de suprir eventual omissão, o que atrai a incidência da Súmula 284/STF, conforme assente jurisprudência desta Corte de Justiça. Nesse sentido: AgInt nos EDcl no REsp 1880012/SP, 4ª Turma, DJe 23/11/2020; EDcl no AgInt no REsp 1659455/RS, 2ª Turma, DJe 14/08/2018; e EDcl no REsp 1593380/CE, 3ª Turma, DJe 24/11/2016.
+- Da Súmula 568/STJ
+No caso, os agravantes pretendem o reconhecimento de conexão com a ação 0858743-77.2017.8.20.5001.
+O TJ/RN não acolheu o argumento da agravante, nos seguintes termos (e-STJ, fl. 399):
+Recentemente, 08/02/2023 (ID 17533582 do processo n. 0858743-77.2017.8.20.5001), o Tribunal de Justiça do Rio Grande do Norte julgou, respectivamente, a apelação e os embargos de declaração interpostos pela LF Comércio de Móveis e outros em face de sentença de improcedência na ação de indenização por danos morais e materiais - processo n. processo n. 0858743-77.2017.8.20.5001.
+De acordo com o art. 55, § 1º, do CPC, "os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado." Também segundo o entendimento cristalizado na Súmula 235 do STJ "a conexão não determina a reunião dos processos, se um deles já foi julgado." Logo, como o processo n. 0858743-77.2017.8.20.5001, apelação decorrente de ação ordinária envolvendo as mesmas partes, foi julgado pelo TJRN em 28/12/0222 e foi mantida a sentença de o que improcedência em desfavor da LF Comércio de Móveis não há valores a compensar, repercutiria na análise da ação aqui posta (processo n. 0857265-34.2017.8.20.5001).
+Assim, por não haver conexão quando um dos processos já tiver sido julgado, não deve ser acolhido o pedido formulado pelos recorrentes para declaração de prejudicialidade e julgamento conjunto dos recursos.
+Rejeitado esse primeiro pedido, passa-se à alegação de excesso de execução.
+Como constou na decisão agravada, o entendimento adotado pelo Tribunal local está em consonância com a jurisprudência deste STJ, o qual, inclusive, é objeto da Súmula 235/STJ, no sentido de que: a conexão não determina a reunião dos processos, se um deles já foi julgado. Nesse sentido: AgInt no AREsp 2365461 / MG (4ª Turma, DJe de 19/04/2024) e AgInt no REsp 1660685 / CE (3ª Turma, DJe de 30/08/2019).
+Note-se que a Súmula 235/STJ se refere ao fato de um dos processos ter sido julgado, mas não exige trânsito em julgado.
+Assim, com fundamento na Súmula 568/STJ, o recurso deve ser desprovido.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
