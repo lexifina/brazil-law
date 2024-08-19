@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REJEIÇÃO PARCIAL DA DENÚNCIA ANTE A APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. DEMONSTRAÇÃO DE INDÍCIOS DA AUTÔNOMIA DAS CONDUTAS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficientes para reconsiderar a decisão proferida.,
+2. Reforço a orientação desta Corte de acordo com a qual "cabe ao conselho de sentença o reconhecimento da incidência do princípio da consunção do delito de porte ilegal de arma de fogo de uso permitido pelo delito de homicídio". Precedentes.
+3. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação desta Corte.
+4. Agravo regimental não provido.
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto, em parte, o relatório de fl. 127 (e-STJ):
+"GABRIEL GONZAGA FREIRE DA SILVA e LUCASWENDELL RODRIGUES SANTOS interpuseram Recurso Especial (e-STJ fls. 53/71), fundamentado na alínea "a" do permissivo constitucional, no qual alega violação aos artigos 14 da Lei Federal 10.826/2003 e 397, III, do Código de Processo Penal, "ao concluir, em pleno erro in judicando, haver adequação típica no crime de porte de arma (artigo 14 da Lei Federal 10.826/2003), com fundamento flagrante ilegal." (eSTJ fls. 64).
+Aduz o ora Recorrente que "Para que a premeditação seja utilizada, idoneamente, como circunstância desfavorável, devem ser extraídos do caso concreto elementos que demonstrem uma preparação prolongada do crime, com prática de eventuais atos preparatórios, não sendo suficiente a mera alegação de que "é justificativa idônea, para fins de exasperação da reprimenda base", haja vista que julgado invocado não se assemelha ao caso dos autos." (e-STJ fls. 664).
+Assevera que "emerge dos elementos circunstanciais e acidentais delineados no acórdão que a Câmara Criminal entendeu que não seria possível a aplicação do princípio da consunção, com fundamento no fato de que os crimes em discussão não seriam necessariamente complementares, motivo pelo qual restaria afastada a aplicação do princípio da consunção. Ademais, emerge dos elementos circunstanciais e acidentais delineados no acórdão que o porte de arma de fogo, na hipótese, foi praticado única e exclusivamente como meio para prática do crime-fim (homicídio), motivo pelo qual resta absorvido por este." (e-STJ fls. 65/66). Ao final, requer o provimento do Recurso Especial visando a reforma do Acórdão recorrido, "para reconhecer que o acórdão da Câmara Criminal do TJSE contrariou os artigos 14 da Lei Federal 10.826/2003 e 397, inciso III do Código de Processo Penal, restabelecendo-se a decisão do juízo de primeiro grau que rejeitou a denúncia em relação ao crime do artigo 14, da Lei 10.826/2003, por ser reflexo da mais LÍDIMA JUSTIÇA."
+O Desembargador Presidente do Tribunal Justiça do Estado de Sergipe(e-STJ fls. 84/86) não admitiu o Apelo Especial, por incidência da Súmula 07 do STJ.
+Desta Decisão foi interposto Agravo em Recurso Especial (e-STJ fls.93/106). Aduz que não incide a Súmula 07 do STJ. Requer o provimento do Agravo em Recurso Especial para dar seguimento ao Recurso Especial."
+A decisão agravada conheceu do agravo para negar provimento ao recurso especial.
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+Sem contrarrazões (e-STJ fl. 165).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. REJEIÇÃO PARCIAL DA DENÚNCIA ANTE A APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. DEMONSTRAÇÃO DE INDÍCIOS DA AUTÔNOMIA DAS CONDUTAS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficientes para reconsiderar a decisão proferida.,
+2. Reforço a orientação desta Corte de acordo com a qual "cabe ao conselho de sentença o reconhecimento da incidência do princípio da consunção do delito de porte ilegal de arma de fogo de uso permitido pelo delito de homicídio". Precedentes.
+3. Para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação desta Corte.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 137-138):
+"Da análise dos excertos transcritos, verifico que o Tribunal local apresentou elementos indicativos da autonomia das condutas, sendo suficientes para caracterizar a justa causa que autoriza o prosseguimento da ação penal.
+Rememoro a jurisprudência dominante nesta Corte, de acordo com a qual "o trancamento prematuro da ação penal somente é possível quando ficar manifesto, de plano e sem necessidade de dilação probatória, a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade, ou ainda quando se mostrar inepta a denúncia por não atender comando do art. 41 do Código de Processo Penal - CPP" (AgRg no REsp n. 2.002.434/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Além disso, o princípio da soberania dos veredictos é basilar, de modo que, ausente manifesta ilegalidade, não se pode retirar dos jurados a possibilidade de decidir o caso concreto, de acordo com as provas apresentadas pela acusação e pela defesa.
+Portanto, não é possível, sob pena de usurpação da competência concedida aos jurados pelo texto constitucional, proceder a uma extensa valoração das provas para aferir se é ou não o caso de aplicar o princípio da consunção.
+(..)
+Com fundamento no art. 253, parágrafo único, II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial."
+Ressalto, novamente, a fundamentação lançada pelo Tribunal de origem para afastar aplicação do princípio da consunção em relação à imputação do crime de porte de arma de fogo e receber a denúncia integralmente:
+"Observando o acervo probatório carreado aos autos, percebe-se que há justa causa para considerar que o crime de porte ilegal de arma de fogo pode se configurar como crime autônomo, tendo em vista o fato de os acusados/agravados já serem investigados pela prática de crime de homicídio qualificado, com emprego de revólver, no processo nº 202021800445, bem como pela prática do crime de receptação, no processo nº 202051000259, inclusive, consta ali que o denunciado LUCAS WENDELL RODRIGUES SANTOS foi preso em flagrante delito.
+Diante disto, entendo que há indícios de que a arma utilizada pelos agravados não teria sido adquirida única e exclusivamente para a prática do delito de homicídio em apreço.
+É forçoso concluir que os atos ocorridos anteriormente ao ato delitógeno em questão e relativos ao porte ilegal de arma de fogo, sem qualquer relação ao objetivo homicida, não podem ser considerados como crime meio, mas, sim, como delito autônomo, a ser julgado, em sendo o caso, em concurso material com o delito de homicídio qualificado, como determina a redação do art. 69, do CP."
+Identificada a justa causa para a ação penal, reforço a orientação desta Corte de acordo com a qual "cabe ao conselho de sentença o reconhecimento da incidência do princípio da consunção do delito de porte ilegal de arma de fogo de uso permitido pelo delito de homicídio" (AgRg no AREsp n. 2.329.217/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/11/2023, DJe de 28/11/2023 e AgRg no REsp n. 2.092.564/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Por fim, para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
