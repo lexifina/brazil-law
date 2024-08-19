@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WITOR BRENO OLIVEIRA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto pelo artigo 157, caput, e § § 2º , II e V, e 2º A, I, c.c artigo 29, ambos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a decisão do juízo a quo, conforme acórdão de fls. 22-29, assim ementado:
+"Habeas Corpus. Roubo majorado. Pleito objetivando a revogação da prisão preventiva do paciente, ante a carência de fundamentação idônea, bem como o trancamento da ação penal, pela suposta ilegalidade de sua prisão em flagrante, porquanto efetuada por guardas municipais. Inviabilidade. Ab initio, quanto à dinâmica da prisão em flagrante efetuada por guardas municipais, além de não se vislumbrar ilegalidade patente na espécie, vale ressaltar que a magistrada a quo ainda avaliará as alegações da defesa no decorrer da instrução processual, com lastro nas provas que serão produzidas, o que torna inviável, neste momento processual, qualquer análise por este E. Tribunal, sobretudo na estreita via da presente liminar em habeas corpus, que não admite dilação probatória. Excepcionalidade do trancamento da ação penal em sede de habeas corpus. Precedentes do STF e STJ Em que pese a primariedade do paciente, afigura-se necessária e adequada a manutenção de sua custódia preventiva, em virtude da gravidade concretado delito a ele imputado, consistente em roubo majorado à residência, em concurso de agentes, com emprego de arma de fogo e mediante a restrição da liberdade das vítimas, as quais foram surpreendidas pelos criminosos enquanto estavam dormindo, elementos esses sinalizadores da periculosidade por ele apresentada, tornando insuficiente a aplicação de medidas cautelares diversas da prisão. Constrangimento ilegal não configurado. Ordem denegada." (fl. 23)
+Daí o presente writ, no qual a defesa alega constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar.
+Ao final, requer, a concessão da ordem liminarmente e no mérito, com a revogação da prisão prev entiva, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+No caso em tela, o pedido de liminar se confunde com o mérito, devendo-se reservar a análise mais aprofundada da matéria por ocasião do julgamento definitivo deste recurso (AgRg no HC 348.622/DF, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 28/3/2016).
+Solicitem-se, com urgência, informações atualizadas e pormenorizadas à autoridade indigitada de coatora e ao juízo de primeiro grau, a serem prestadas, preferencialmente, pela Central de Processo Eletrônico- CPE do STJ.
+Após, vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
