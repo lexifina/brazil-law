@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO PRETORIANO. FALTA DE DEMONSTRAÇÃO. CIVIL. COMISSÃO DE CORRETAGEM. NEGÓCIO NÃO CONCRETIZADO.
+1. Sem o cotejo analítico, não se demonstra o alegado dissídio pretoriano.
+2. Nos termos do entendimento pacífico das duas Turmas que compõem a Segunda Seção, a comissão de corretagem não é devida se a venda do imóvel não se concretizou, ainda que tenha havido intermediação.
+3. No caso concreto, o negócio se realizou em momento posterior, por obra de outra imobiliária, conforme firmado pela instância de origem, já que não havia exclusividade. Chegar a uma conclusão diversa demanda revolvimento de provas, vedado pela Súmula 7/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por OCEAN CONSULTORIA DE IMÓVEIS LTDA contra decisão da Presidência desta Corte (fls. 339-346) que conheceu do agravo para não conhecer do recurso especial da ora agravante.
+Não se conforma a recorrente, argumentando, quanto ao dissídio referente ao art. 727 do CC, que teria, sim, demonstrado o dissenso pretoriano nos termos legais e regimentais, o que autoriza o conhecimento do especial no tópico.
+Aduz que tem direito a receber a comissão de corretagem, pois apresentou o imóvel às corrés, ora agravadas. A não efetivação do negócio, por fatos alheios à atuação dos corretores, não impede o pagamento da comissão de corretagem. Insiste na existência de dissídio interpretativo quanto ao art. 725 do CC.
+Foi apresentada impugnação (fls. 361-366).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO PRETORIANO. FALTA DE DEMONSTRAÇÃO. CIVIL. COMISSÃO DE CORRETAGEM. NEGÓCIO NÃO CONCRETIZADO.
+1. Sem o cotejo analítico, não se demonstra o alegado dissídio pretoriano.
+2. Nos termos do entendimento pacífico das duas Turmas que compõem a Segunda Seção, a comissão de corretagem não é devida se a venda do imóvel não se concretizou, ainda que tenha havido intermediação.
+3. No caso concreto, o negócio se realizou em momento posterior, por obra de outra imobiliária, conforme firmado pela instância de origem, já que não havia exclusividade. Chegar a uma conclusão diversa demanda revolvimento de provas, vedado pela Súmula 7/STJ.
+4. Agravo interno desprovido.
+VOTO
+A súplica não merece acolhida.
+Com efeito, a tese da recorrente, como se vê, é no sentido de que as partes, vendedora e compradora do imóvel, ora agravadas, teriam se beneficiado da intermediação da ora agravante, mas realizado o negócio apenas tempos depois, violando, assim, o seu direito de receber a comissão de corretagem.
+O acórdão do Tribunal de Justiça do Estado de São Paulo, contudo, deixou claro que, sim, houve a intermediação pela ora recorrente, mas as partes, naquele momento, não chegaram a bom termo em relação a detalhes da compra e venda, não realizando o negócio. Algum tempo depois, como o imóvel fora captado por diversas imobiliárias, terminou por se efetivar a compra e venda, mas por obra de outra intermediação.
+Confira-se o seguinte excerto do julgado (fls. 279-280):
+Conforme restou comprovado nos autos (não só à luz da prova documental, mas também à luz da prova oral), verifica-se que a corré Márcia Mandado anunciou o imóvel na plataforma SIV (Sistema Integrado de Vendas de Imóveis), página na rede mundial de computadores destinada à realização de anúncios de imóveis localizados especificamente em Riviera de São Lourenço. Totalmente verossímil, à luz das máximas de experiência (artigo 375, do Código de Processo Civil) que, em razão da localização privilegiada do imóvel e condições ínsitas ao negócio, a corré Márcia tenha passado a ser abordada por inúmeros corretores de imóveis, com o intuito de firmar parcerias para a venda do referido bem.
+Assim, o imóvel foi captado por diversas imobiliárias, sem qualquer ajuste sobre exclusividade, deve-se frisar, porque a autora não produziu qualquer prova em tal sentido. Dentre tais imobiliárias, estavam a autora e outras imobiliárias (inclusive, muito provavelmente, aquela que intermediou com êxito a negociação).
+Logo, não se olvida que autora, realmente, até iniciou e desenvolveu tratativas avançadas, inclusive com visitação e confecção de minuta contratual, junto às corrés (circunstâncias que são insuficientes para a percepção da comissão). Porém, as corrés, em razão de divergências e entraves existentes na negociação inclusive como admitido pela própria autora em suas razões recursais desistiram do negócio. Todavia, doravante, pesquisando na internet porquanto o imóvel estava anunciado no SIV e captado por várias imobiliárias, a corré Cecília teve contato com anúncio do mesmo imóvel, porém, sob a intermediação de Imobiliária diversa. E, dessa vez, iniciadas novas negociações,as partes chegaram a bom termo no que tange ao valor do preço, condições contratuais e de pagamento etc.
+Portanto, verifica-se que as partes, simplesmente, desistiram da venda sob a intermediação da autora, em razão de divergências negociais. E tal desistência não ocorreu para que, posteriormente, o imóvel fosse negociado diretamente entre as partes, burlando-se direito da autora ao recebimento de comissão. Até mesmo porque, deve-se frisar, seria notadamente ilógico que tentassem promover tal manobra deixando de pagar vultuosa comissão à autora para, simplesmente, pagar o mesmo vultoso valor a outra Imobiliária/intermediadora. Diferentemente, após a desistência, em razão do anúncio do imóvel no sistema SIV, a corré Cecília, pesquisando na internet, encontrou o mesmo imóvel sob a intermediação da mesma imobiliária e, naquela nova oportunidade, as corrés conseguiram efetuar negociações exitosas.
+Em síntese, restou demonstrado que o imóvel foi anunciadono SIV e, ato contínuo, captado por diversas imobiliárias/intermediadoras sem qualquer promessa de exclusividade. As os corrés até iniciaram negociações sob a intermediação da autora, mas, desistiram em razão de divergências. Doravante, em razão do anúncio do imóvel na internet e captação por várias imobiliárias, aquela que melhor intermediou outras negociações, logrando êxito em alcançar condições que ambas as partes consideraram adequadas, foi a vencedora nesta "corrida", de modo que a corré Márcia pagou a comissão àquela intermediadora que proporcionou a percepção de melhores benefícios pecuniários em razão da vendado imóvel. Trata-se, pois, de risco do negócio, diante das dimensões, conjunturas e peculiaridades que tal ramo de atividade tomou à luz do mundo digital.
+Ao assim decidir, coloca-se o Tribunal de origem em inteira consonância com o entendimento desta Corte, no sentido de que a comissão de corretagem somente é devida se o negócio, de fato, se concretizar, em decorrência daquela intermediação.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL. REVERSÃO DO JULGADO. SÚMULA N. 7/STJ.
+1. O posicionamento do Tribunal de origem não merece reparos, pois se alinha com reiterados julgados que afastam o cabimento da corretagem quando o negócio jurídico não se concretiza, alcançando resultado útil.
+2. "Incabível comissão de corretagem no contrato de compra e venda de imóveis, quando o negócio não foi concluído por desistência do comprador, não atingindo assim o seu o resultado útil. Precedentes. Incidência da Súmula 83 do STJ no caso em questão" (AgInt no AREsp n. 2.142.647/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 27/4/2023).
+3. É inviável revisar as premissas fáticas fixadas no acórdão recorrido de que não houve resultado útil, devido à dificuldade na obtenção de financiamento dentro do prazo previsto no contrato, ante o teor da Súmula 7 do STJ, uma vez que as instâncias estaduais delinearam a controvérsia dentro do conjunto probatório dos autos.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.150.792/SP, relator Ministro HUMBERTO MARTINS, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMISSÃO DE CORRETAGEM. VENDA NÃO CONCRETIZADA. INTERPRETAÇÃO DO ART. 725, DO CÓDIGO CIVIL. HONORÁRIOS DE CORRETAGEM INDEVIDOS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Ausência de violação ao princípio da não surpresa, visto que o fundamento do tribunal de origem, dito pela parte recorrente como inovador para justificar a não devolução da comissão de corretagem - contrato de compra e venda rescindido por ausência de aprovação de financiamento -, foi apresentado pela própria parte ora recorrente nas suas razões do recurso de apelação.
+2. Incabível comissão de corretagem no contrato de compra e venda de imóveis, quando o negócio não foi concluído por desistência do comprador, não atingindo assim o seu o resultado útil.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.864.660/SP, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022)
+Na espécie, é categórico o julgamento de origem que, por intermediação da ora agravante, as partes não realizaram o negócio, dele desistindo, sem assinar contrato de compra e venda. Foi a venda realizada em momento posterior, por obra dos serviços de outra imobiliária, não existindo nenhum conluio entre compradora e vendedora para burlar o pagamento da comissão à ora recorrente.
+Chegar a uma conclusão diversa demanda revolvimento de provas vedado pela Súmula 7/STJ.
+Não há, portanto, nada a alterar na decisão agravada, pois, além da falta de demonstração do dissídio pretoriano, já firmada no pronunciamento monocrático, sobrelevam os fundamentos aqui expendidos.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
