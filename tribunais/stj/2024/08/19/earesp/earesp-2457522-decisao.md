@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se embargos de divergência opostos contra acórdão proferido pela Quarta Turma do STJ.
+Ação: "de rescisão contratual c/c restituição de quantias pagas c/c pedido de antecipação de tutela específica" (fl. 2) ajuizada pela embargada.
+Sentença: julgou parcialmente procedente os pedidos "para confirmar a decisão que antecipou a tutela, rescindir o contrato e fixar o perdimento em favor da ré em 25% dos valores pagos pela unidade, excluídas as comissões pagas" (fl. 326)
+Acórdão: por unanimidade, negou provimento à apelação, nos termos da seguinte ementa:
+Ação de Rescisão Contratual. Relação de Consumo. Promessa de compra e venda de unidade residencial em empreendimento imobiliário em construção. Rescisão unilateral por culpa do consumidor. Inadimplência. Sentença de parcial procedência. Manutenção. Possibilidade da rescisão unilateral por parte do promitente comprador, em razão de posterior alteração de sua situação financeira. Restituição das parcelas pagas pelo promissário-comprador, mas não em sua totalidade, haja vista a incidência de parcela de retenção para fazer frente ao prejuízo causado com o desgaste da unidade imobiliária e as despesas com administração, corretagem, propaganda e outras congêneres suportadas pela empresa vendedora. Incidência da Súmula n.543 do E. STJ. Percentual que pode variar de 10% a 25% sobre o valor pago. Entendimento consolidado no E. STJ. Fixação no caso concreto de 25% de retenção. Percentual adequado. Juros de mora que devem fluir a contar do trânsito em julgado, em razão da rescisão por culpa do comprador. Aplicação do entendimento firmado pelo E. STJ, no julgamento do REsp. 1.740.911/DF, submetido ao rito dos recursos repetitivos. Majoração dos honorários advocatícios, na forma do art.85, §11, do CPC. Jurisprudência e precedentes citados:0040037-97.2015.8.19.0209 -APELAÇÃO. Des(a). JDS ISABELA PESSANHA CHAGAS -Julgamento: 10/11/2021 -VIGÉSIMA QUARTA CÂMARA CÍVEL; 0030742-30.2016.8.19.0038 -APELAÇÃO. Des(a). MARIO ASSIS GONÇALVES -Julgamento: 29/09/2021 -VIGÉSIMA QUARTA CÂMARA CÍVEL. DESPROVIMENTO DO RECURSO.
+(fls. 324-325)
+Embargos de declaração: opostos, foram rejeitados (fls. 363-369).
+Recurso Especial: interposto pela parte embargante, aduzindo, além de divergência jurisprudencial, violação aos arts. 422, 463, 474 e 475 do Código Civil e ao art. 86 do Código de Processo Civil.
+Prévio juízo de admissibilidade: o recurso foi inadmitido pelo TJRJ, o que ensejou a interposição de agravo em recurso especial.
+Acórdão embargado da Quarta Turma: manteve a decisão monocrática agravada, que negou provimento ao agravo em recurso especial, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. INICIATIVA DO COMPRADOR. RETENÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. NÃO CABIMENTO. DECISÃO MANTIDA.
+1. "A Segunda Seção do STJ, no julgamento do REsp n. 1.723.519/SP (28.8.2019), de relatoria da Ministra ISABEL GALLOTTI, firmou o entendimento no sentido de que, nos contratos firmados antes da Lei n. 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção, definido anteriormente no julgamento dos EAg n. 1.138.183/PE, por ser adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato" (AgInt nos EDcl no AgInt no AREsp 1822832/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/02/2022, DJe 03/03/2022).
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Ademais, "a discussão a respeito do percentual em que cada litigante foi vencido ou vencedor ou da existência ou inexistência de sucumbência recíproca ou mínima implica reexame de fatos e provas, vedado em recurso especial, nos termos da Súmula n. 7 do STJ" (AgInt no AREsp n. 1.968.888/MS, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 6/3/2023, D
+Je de 9/3/2023).
+4. Agravo interno a que se nega provimento.
+(fls. 519-520)
+Embargos de divergência: aduz divergência entre o acórdão embargado e precedente paradigma da Terceira Turma (AgInt no REsp 2023713/SP e REsp 1646192/PE), sustentando, em síntese, que: a) na hipótese dos autos, é possível a retenção de até 50% dos valores pagos; e b) deve ser aplicado, na espécie, o art. 86 do CPC.
+É o relatório.
+DECIDO.
+1. DA AUSÊNCIA DE COTEJO ANALÍTICO
+1. Os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva" , eis que "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJ de 01/12/2003).
+2. A admissão dos embargos de divergência, no entanto, está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se verificou na hipótese dos autos. Nesse sentido: AgInt nos EDv nos EREsp n. 1.949.566/SP, Segunda Seção, julgado em 16/8/2022, DJe de 18/8/2022.
+3. Com efeito, na espécie, a parte embargante limita-se a transcrever ementas de supostos acórdãos paradigmas sem, no entanto, demonstrar a similitude fática entre as hipóteses confrontadas por meio de cotejo analítico.
+4. Desse modo, inexistindo demonstração da similitude fática, não merece prosperar a irresignação da parte embargante.
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo no art. 932, III, do CPC/15, e do art. 266-C do RISTJ.
+Por derradeiro, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, o que não se verificou na hipótese dos autos.
+2. Embargos de divergência indeferidos liminarmente.
