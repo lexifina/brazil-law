@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de EVERTON NEVES PAIVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500880-46.2022.8.26.0583).
+Consta dos autos que o paciente foi condenado à pena de 18 (dezoito) anos, 01 (um) mês e 23 (vinte e três) dias de reclusão, em regime inicial fechado, e ao pagamento de 68 (sessenta e oito) dias-multa como incurso no art. 157, § 2º, inciso II, e § 2º-B, por duas vezes, na forma do art. 70, ambos do Código Penal.
+O Tribunal de origem deu parcial provimento ao recurso defensivo, para alterar a capitulação para art. 157, § 2º, inciso II, e § 2º-A, inciso I, por duas vezes, na forma do art. 70, ambos do CP, reduzindo a pena do réu a 15 (quinze) anos, 01 (um) mês e 13 (treze) dias de reclusão, em regime fechado, e 32 (trinta e dois) dias-multa.
+Neste writ, a impetrante sustenta a ocorrência de constrangimento ilegal, uma vez que, o v. acórdão não apontou os argumentos pelos quais decidiu manter a aplicação das duas causas de aumento de pena na terceira fase de dosimetria da pena (fl. 6).
+Requer a readequação da dosimetria.
+Informações às fls. 167/228 e 229/237.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 241/247).
+É o relatório.
+DECIDO.
+Na hipótese, o Tribunal de origem, a respeito do aumento da pena na terceira fase da dosimetria, assim consignou (fl. 154):
+Por fim, na terceira fase presentes as majorantes mencionadas (concurso de pessoas e emprego de arma de fogo de uso permitido) aumento a pena de um terço, fixando-a em 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão e 17 (dezessete) dias-multa, tal como na r. sentença.
+Em seguida, aumento de dois terços e fixo a reprimenda em 12 anos, 11 meses e 16 dias de reclusão e 28 dias-multa.
+Mantenho o concurso formal e o aumento de um sexto, de modo a fixar a reprimenda em 15 anos, 01 mês e 13 dias de reclusão e 32 dias-multa.
+Conforme se percebe, na terceira fase do sistema legal de dosimetria, houve a aplicação conjunta das causas de aumento de pena relativas ao roubo perpetrado mediante o concurso de agentes e o emprego de arma de fogo, acréscimo esse pautado exclusivamente em critério aritmético e sem nenhuma indicação de elemento concreto que demonstrasse ser razoável o afastamento da regra contida no art. 68, parágrafo único, do Código Penal.
+Ao assim decidir, ignorou o comando da Súmula n. 443/STJ, que dispõe: O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Portanto, ante a ausência de fundamentação concreta no caso em apreço, a pena deve ser majorada na fração de 2/3 (dois terços).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2. Esta Corte possui o entendimento de que "o art. 68 do Código Penal permite a aplicação cumulativa de causas de aumento de pena previstas na parte especial, desde que mediante concreta fundamentação das instâncias ordinárias" (AgRg no HC n. 679.706/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/11/2021, DJe de 12/11/2021). No caso, não foi apresentada fundamentação concreta para justificar a aplicação cumulativa das causas de aumento, devendo ser mantida a mais gravosa (art. 157, § 2º-A, I, do CP).
+3. Agravo regimental desprovido. (AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. NÃO CONHECIMENTO DO RECURSO. ROUBO. DOSIMETRIA. MAJORANTES. FRAÇÕES CUMULADAS SEM JUSTIFICATIVA. FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO. CONCEDIDO HABEAS CORPUS DE OFÍCIO.
+1. No caso, verifica-se que a intimação do julgamento do acórdão recorrido ocorreu no dia 20/3/2023, efetivando-se em 21/3/2023, mas o recurso especial somente veio a ser protocolado em 6/4/2023, ou seja, fora do prazo legal de 15 dias corridos, previsto pelo art. 994, VI, c.c. os arts. 1.003, § 5º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. Todavia, impõe-se a concessão de habeas corpus de ofício para que a pena seja reduzida na terceira fase da dosimetria, diante da ausência de fundamentação idônea para a aplicação sucessiva das causas de aumento.
+3. Em relação ao crime de roubo, a jurisprudência desta Corte Superior é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+4. A Corte de origem olvidou-se de motivar a adoção das frações de aumento relativa ao emprego de arma de fogo e de concurso de agentes de forma cumulada, tendo se limitado a ressaltar a incidência das duas majorantes, o que não serve como justificativa para o incremento sucessivo. Nesse contexto, resta evidenciada flagrante ilegalidade na aplicação cumulativa das causas de aumento previstas no art. 157, § 2º e § 2º-A, ambos do Código Penal.
+5. Agravo regimental não provido. Concessão de habeas corpus, de ofício, para reduzir a pena do agravante ao patamar total de 9 anos e 8 meses de reclusão, em regime inicial fechado, mais 26 dias-multa.
+(AgRg no AREsp n. 2.408.007/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/9/2023, DJe de 12/9/2023)
+Fixadas essas premissas, passo a refazer a dosimetria da pena do paciente.
+Na primeira fase de aplicação da pena, mantenho a pena-base fixada pelas instâncias ordinárias - exasperação de 1/6 (um sexto) pelos maus antecedentes: 04 (quatro) anos e 08 (oito) meses de reclusão e 11 (onze) dias-multa.
+Na segunda fase, mantida a incidência da agravante da reincidência em 1/4 (um quarto), a pena intermediária fica estipulada em 05 (cinco) anos e 10 (dez) meses de reclusão e 13 (treze) dias-multa.
+Na terceira fase, presentes as majorantes do art. 157, §§ 2º, inciso II, e 2º-A, inciso I, do Código Penal, não tendo as instâncias ordinárias declinado fundamentos para a aplicação cumulativa da circunstâncias legais em voga, faço incidir a regra do art. 68, parágrafo único, do CP, que resulta o acréscimo de 2/3 (dois terços), fixando a pena em 09 (nove) anos, 08 (oito) meses e 20 (vinte) dias de reclusão e 22 (vinte e dois) dias-multa.
+Mantido o aumento em 1/6 (um sexto) diante do concurso formal, as penas, tornam-se definitivas em 12 (doze) anos, 11 (onze) meses e 16 (dezesseis) dias de reclusão, em regime fechado, e 29 (vinte e nove) dias-multa.
+Ante o exposto, concedo a ordem de habeas corpus para reduzir a fração de majoração empregada na terceira fase da dosimetria e redimensionar a pena final do paciente, nos termos desta decisão.
+Publique-se. Intimem-se.
+ EMENTA
