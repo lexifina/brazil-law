@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+NILDA GONZAGA DE MATOS agrava da decisão de fls. 1.503-1.507, em que conheci do agravo para não conhecer do recurso especial e, por conseguinte, mantive a pena de 6 anos e 5 meses de reclusão mais multa, no regime fechado, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Reitera as razões recursais, a fim de que seja reconhecida a absolvição por falta de provas ou reduzida a pena.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. REVOLVIMENTO DE PROVAS. REDUÇÃO DA PENA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias concluíram pela existência de elementos concretos a ensejar a condenação do acusado pelo crime de tráfico de drogas. Assim, para entender-se pela absolvição do réu, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível em recurso especial, a teor da Súmula n. 7 do STJ.
+2. O agravante deixou indicar expressamente os dispositivos de lei federal violados, o que atrai a incidência da Súmula n. 284 do STF.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão.
+I. Absolvição - impossibilidade
+Conforme exposto na decisão agravada, o Tribunal de origem manteve a condenação da recorrente pelo delito de tráfico de drogas, pelos seguintes argumentos (fls. 1.132-1.134, grifei):
+In casu, o delito de tráfico de drogas foi configurado, uma vez que o primeiro e as segundas apelantes, conforme narrado na denúncia, guardavam, para posterior comercialização, substância entorpecente, enquadrando sua conduta em um dos verbos do tipo penal.
+Somado a isso, tem-se o relato da testemunha D.F.M.L., policial civil, um dos responsáveis pela Comunicação de serviço acostada aos autos. Ele disse, em juízo, que as acusadas Elisabeth e Nilda eram envolvidas no tráfico de drogas há muito tempo, em inúmeros procedimentos, assim como seus familiares; que foi até a empresa responsável pelas instalações das câmeras na casa de Dardane e confirmou as declarações prestadas às fls. 74; que foi o acusado Rafael quem procurou a empresa "Connect Informática" para as instalações das referidas câmeras, com a alegação de que se prestariam à monitoração de um comércio de açaí aberto no local (mídia audiovisual, fI. 432).
+A testemunha W.O.S., que trabalha na empresa "Connect Informática", disse que foi procurado pelo acusado Rafael para fazer instalações das câmeras de segurança em um ponto de comércio; que foram instaladas quatro câmeras, voltadas para as ruas; que as imagens dessas câmeras eram enviadas ao celular de Rafael; que colocou acesso só no aparelho de Rafael; que as câmeras foram instaladas, há mais ou menos três meses, antes de ser intimado, e que já prestou serviços em datas pretéritas no Restaurante Japinha; que Rafael havia pedido para colocar a nota fiscal em nome da acusada Dardane (mídia audiovisual, fI, 432).
+Merece destaque a informação, constante no depoimento acima, no sentido de que foi Rafael quem contratou o serviço de instalação de câmeras e que o único celular conectado era o dele, conquanto a nota fiscal tenha sido emitida em nome da acusada Dardane.
+Conforme ponderado na sentença condenatória (fI. 581v),
+"(..) está-se diante de um conjunto probatório uníssono, coeso e seguro para apontar, sem sombra de dúvidas, a prática do crime de tráfico de drogas pelos acusados Elisabeth, Rafael e Nilda, sendo certo que o fato de os policiais não os terem flagrado no exato momento da trafícância, não os favorece, posto que o crime de tráfico de drogas, por sua própria natureza, é cometido na clandestinidade. Ademais, o referido delito é de ação penal múltipla e os réus, de qualquer modo, incorreram nas condutas típicas "guardar" e "ter em depósito" para fins de mercancia, substâncias entorpecentes em desacordo com determinação legal ou regulamentar. (..)".
+Não se pode desprezar a dinâmica dos fatos ofertada pela vasta prova angariada ao longo da instrução criminal. Como já salientado, foi expedido mandado de busca e apreensão em três residências, após informações da prática do delito de tráfico ilícito de entorpecentes. A autoridade policial dirigiu-se aos locais e logrou êxito em localizar os réus, as pedras de crack que haviam sido jogadas no vaso sanitário, resquícios de entorpecente queimado em uma panela, além de dinheiro. Tais circunstâncias, aliadas à prova oral colacionada e aos demais elementos, dão conta da prática do crime de tráfico de drogas pelo primeiro e segundas apelantes.
+Portanto, os elementos de informação e as provas colhidas apontam claramente no sentido de que os réus Elisabeth, Nilda e Rafael praticaram o crime previsto no art. 33, caput, da Lei nº 11.343/06, devendo- se manter a condenação, nos moldes da sentença recorrida.
+Cumpre observar que, segundo fundamentei na decisão agravada, pelo trecho anteriormente transcrito, verifico que a instância ordinária, depois de minuciosa análise do conjunto fático-probatório produzido nos autos, concluiu pela existência de elementos a ensejar a condenação da acusada pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Constou do julgado que (fl. 1.133):
+A autoridade policial dirigiu-se aos locais e logrou êxito em localizar os réus, as pedras de crack que haviam sido jogadas no vaso sanitário, resquícios de entorpecente queimado em uma panela, além de dinheiro. Tais circunstâncias, aliadas à prova oral colacionada e aos demais elementos, dão conta da prática do crime de tráfico de drogas pelo primeiro e segundas apelantes.
+Por essas razões, é inviável a absolvição da ré, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Explico que, para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porque o próprio tipo penal aduz "ainda que gratuitamente" -, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Reafirmo, portanto, que não é viável, em recurso especial, alterar a conclusão alcançada no acórdão recorrido, sem a incursão do acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Assim, diante de todas essas considerações, mostra-se irretocável a conclusão da decisão recorrida de que não houve nenhuma ilegalidade manifesta no ponto em que houve a condenação da agravante pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+II. Dosimetria
+Reitero a conclusão de que a ausência de indicação expressa dos dispositivos de lei federal violados atrai a incidência da Súmula n. 284 do STF.
+Nesse sentido: "A ausência de indicação do dispositivo de lei federal supostamente contrariado na instância ordinária caracteriza deficiência na fundamentação, o que dificulta a compreensão da controvérsia, atraindo a incidência da Súmula n. 284 do STF." (AgRg no AREsp n. 356.998/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/2/2015).
+É importante salientar que não basta a mera menção a dispositivos legais. É necessária a efetiva demonstração da possível ocorrência de violação ou interpretação equivocada dada pelo acórdão recorrido.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
