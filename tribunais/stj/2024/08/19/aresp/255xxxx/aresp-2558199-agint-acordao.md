@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTIGOS 489 E 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 1.000/1.009) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 992/996).
+Em suas razões, a parte reitera a tese de negativa de prestação jurisdicional, alegando omissão no julgado acerca da necessidade de relativização do laudo pericial, tendo em vista que extrapolou sua finalidade, interpretando cláusulas contratuais, sem fundamentar suas conclusões apenas sobre a parte técnica do negócio.
+Nesse contexto, reforça a tese de violação dos arts. 479, 489, § 1º, IV, e 1.022, II, do CPC/2015 e sustenta a inaplicabilidade das Súmulas n. 5 e 7 do STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 1.012/1.020).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTIGOS 489 E 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 992/996):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da afronta aos arts. 489, §1º, e 1.022 do CPC/2015 e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 894/901).
+O acórdão recorrido está assim ementado (e-STJ fls. 825/836):
+APELAÇÃO CÍVEL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ELABORAÇÃO DE PROJETO, PELA RÉ, REFERENTE AO SISTEMA DE NÉVOAS PARA TANQUES DE AMÔNIA. VERIFICAÇÃO PELA AUTORA, QUANDO DA IMPLEMENTAÇÃO POR TERCEIRA EMPRESA, QUE O SISTEMA DESENVOLVIDO NÃO APRESENTAVA O DESEMPENHO ADEQUADO PARA SEU PLENO FUNCIONAMENTO, EIS QUE O LOCAL PREVISTO PARA CAPTAÇÃO DE ÁGUA NÃO APRESENTAVA PRESSÃO SUFICIENTE. PRETENSÃO DE INDENIZAÇÃO POR DANO MATERIAL CONSISTENTE NO VALOR DESPENDIDO PARA REFORMA DO SISTEMA. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA AUTORA. CULPA DA DEMANDADA NÃO EVIDENCIADA. PROJETO REALIZADO DE ACORDO COM OS DADOS FORNECIDOS PELA CONTRATANTE, NOS TERMOS DO DISPOSTO NO CONTRATO. DESEMPENHO INADEQUADO DO SISTEMA DE ABATIMENTO QUE, ADEMAIS, FOI VERIFICADO APÓS A REALIZAÇÃO DE TESTE DE COMISSIONAMENTO SEM A PRESENÇA DA RÉ, EM DESACORDO COM O PACTO. AUSÊNCIA DE PROVA MÍNIMA DO FATO CONSTITUTIVO DO DIRETO ALEGADO. ART. 373, I DO CPC/2015. RECURSO DESPROVIDO.
+1. "Art. 373. O ônus da prova incumbe: I -ao autor, quanto ao fato constitutivo de seu direito; (..)". (CPC/2015);
+2. Na hipótese, a autora -CSN -celebrou com a ré, em 22 de agosto de 2002, Contrato de Prestação de Serviços, cujo objeto é a elaboração de projetos de engenharia, e dentre eles, elaborou o projeto referente ao Sistema de Névoas de Tanques de Amônia, concluído em 2004. Após a conclusão do projeto, a demandante contratou, em 1º de abril de 2005, outra empresa, encarregada pela obra e sua implantação. Nada obstante, afirma que, em meados de junho de 2006, constatou a incapacidade do projeto elaborado pela empresa ré, tendo verificado que o sistema desenvolvido não apresentava o desempenho adequado para seu pleno funcionamento, "uma vez que a pressão e a vazão da água seriam insuficientes para atender a demanda necessária, que se manifestaria em uma névoa mais densa do que a emitida naquele momento, capaz de deter uma propagação da névoa de amônia em caso de vazamento nos tanques de amônia, ou em uma de suas conexões de abastecimento, em quantidade suficiente para impedir uma possível contaminação de amônia no ambiente da CSN";
+3. Pretende, então, seja declarado o descumprimento contratual pela ré, bem como a sua condenação ao pagamento de danos materiais, consistentes no valor despendido com a reforma realizada por uma terceira empresa no Sistema de Névoas implantado com base no projeto elaborado, no valor de R$ 115.107,96 (cento e quinze mil, cento e sete reais e noventa e seis centavos);
+4. Consoante laudo pericial, e com base nas cláusulas 3.1.1. e 4.1.1 do contrato, caberia à autora fornecer os dados básicos necessários ao desenvolvimento do projeto e à ré executar os serviços com integral observância aos projetos, desenhos, dados técnicos, especificações gerais e outras informações fornecidas pela CSN. Assim sendo, como referido pelo perito, os "dados referentes à pressão e ponto de picagem na linha de adução não eram escopo de definição pela Contratada, mas pela Contratante". Não resta, pois, evidenciada a culpa da demandada pelos problemas verificados quando da implementação do sistema;
+5. Demais disso, conforme cláusula 4.1.6, caberia à ré refazer ou revisar, às suas custas, quaisquer serviços que, por sua culpa, viessem a ser considerados inadequados pela CSN, após verificação em conjunto com a contratada. Ocorre que, além de não restar demonstrada culpa da demandada, e tal como alega o perito, não ressai dos elementos constantes dos autos que os problemas relatados tenham sido verificados em conjunto com a ré, visando a identificação das causas e possíveis soluções, bem apontando que "os e-mails trocados entre as partes são de data posterior aos testes, realizados sem a presença da ré";
+6. Autora que não se desincumbiu do seu ônus probatório, nos termos do que determina o art. 373, I do CPC, sendo impositiva a manutenção da improcedência dos pedidos;
+7. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 853/854).
+No recurso especial (e-STJ fls. 856/869), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente aponta ofensa aos arts. 479, 489, §1º, IV, e 1.022, I e II, do CPC/2015, alegando omissão no acórdão recorrido por não enfrentar os argumentos da recorrente no contexto das provas colacionadas aos autos (e-STJ fl. 864).
+Argumenta que o Tribunal local julgou o caso apenas com base no laudo pericial, sem fazer o necessário cotejamento com as demais provas processuais. Aduz que o acórdão se baseou nas conclusões do perito, inclusive no que diz respeito à interpretação das cláusulas contratuais. Não levou em consideração as circunstâncias do caso concreto, em especial, as previsões expressas no Anexo II do contrato quanto às obrigações da apelada em desenvolver o projeto de acordo com as normas técnicas de engenharia, com a análise dos equipamentos e sistemas existentes e com o levantamento das informações básicas necessárias ao funcionamento do projeto contratado (e-STJ fl. 868).
+Ao final, requer o provimento do agravo, a fim de que seja anulado o acórdão recorrido.
+Foram apresentadas contrarrazões (e-STJ fls. 880/891).
+No agravo (e-STJ fls. 933/943), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 961/973).
+Juízo negativo de retratação (e-STJ fl. 975).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, §1º, IV, e 1.022, I e II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 831/835):
+Vê-se, assim, que os documentos pertinentes ao projeto foram submetidos à aprovação da autora, e a memória de cálculo de e-fls. 243/268 (índex 240) apresenta os dados iniciais fornecidos pela contratante, o dimensionamento dos sistemas e como estes deveriam ser operados.
+Como se observa, consta em fls. 244, a premissa de que "os cálculos foram realizados admitindo que a pressão da rede principal de água será mantida @ 3,5kgf/cm2."
+(..)
+O laudo pericial aponta, pois, que considerando que a pressão da água informada pela CSN seria 3,5kgf/cm2, o projeto da Technip, tendo por base tal premissa, especificou corretamente os bicos.
+Conforme aponta o expert, e do que ressai do pacto, caberia à autora fornecer os dados básicos necessários ao desenvolvimento do projeto e à ré executar os serviços com integral observância aos projetos, desenhos, dados técnicos, especificações gerais e outras informações fornecidas pela CSN.
+Nesse sentido, o contrato celebrado entre as partes assim prevê (índex 21 -fls. 24/26):
+"CLÁUSULA 3-OBRIGAÇÕES DA CSN(..) 3.1. Sem prejuízo do cumprimento das demais obrigações previstas neste CONTRATO, a CSN obriga-se a: 3.1.1. Fornecer a CONTRATADA as informações e documentação técnica disponíveis e indispensáveis a execução dos SERVIÇOS;"
+Assim sendo, como referido pelo perito nos esclarecimentos de índex 670 -e-fls. 673 -os "dados referentes à pressão e ponto de picagem na linha de adução não eram escopo de definição pela Contratada, mas pela Contratante".
+E reitera que a "que principal causa da baixa pressão observada deriva da vazão insuficiente na linha, que não permitiu que as condições de trabalho projetadas fossem atingidas. Todavia, s.m.j., entendemos, conforme o exposto acima, que a obrigação de indicar um ponto de ligação do projeto à rede existente, que pudesse atender ao projeto da Contratada seria da Contratante".
+(..)
+Sendo assim, parece assistir razão à ré que, em índex 640, manifesta-se aduzindo que "o mapeamento de toda a rede de distribuição existente de água, avaliação de quais consumidores simultâneos, simulação em software de cálculo de rede para definição da pressão disponível na rede de distribuição e no ponto de picagem não era escopo do serviço acordado com a Autora para o projeto. Desta forma, a pressão disponível na rede foi uma premissa adotada no dimensionamento do sistema, de acordo com informação da Autora e base para todo o projeto desenvolvido pela Ré".
+Demais disso, conforme cláusula 4.1.6, caberia à ré refazer ou revisar, às suas custas, quaisquer serviços que, por sua culpa, venham a ser considerados inadequados pela CSN, após verificação em conjunto com a contratada.
+Ocorre que, além de não restar demonstrada a culpa da demandada, tal como alega o perito em índex 611 -e-fls. 619 -, não ressai dos elementos constantes dos autos que os problemas relatados tenham sido verificados em conjunto com a ré, visando a identificação das causas e possíveis soluções, bem apontando o expert que "os e-mails trocados entre as partes são de data posterior aos testes, realizados sem a presença da ré".
+(..)
+Oportuno referir, ademais, inexistir qualquer fundamento para que se afaste a aplicação da cláusula 4.1.6 do contrato firmado entre as partes, tanto que em mensagem eletrônica encaminhada por prepostos da própria autora (fls. 130) é cogitada a responsabilidade da demandada com base exatamente na referida cláusula.
+Diante disso, tem-se que a autora não se desincumbiu do seu ônus probatório, nos termos do que determina o art. 373, I do CPC, sendo impositiva a improcedência dos pedidos.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Modificar o entendimento do acórdão impugnado quanto ao laudo pericial, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ademais, para afastar o entendimento da Corte estadual, seria necessário estudar o contrato em sua integralidade. Imprescindível, portanto, interpretar todas as cláusulas, a ordem em que se encontram, as obrigações previstas e as concessões mútuas. Esse reexame é vedado em recurso especial, ante o óbice da Súmula n. 5 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Nos termos do art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, uma vez que foram fixados na origem em 20% (vinte por cento) sobre o valor atualizado da causa.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+Rever a conclusão do acórdão quanto ao lado pericial demandaria incu rsão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Outrossim, para modificar o entendimento da Corte estadual, seria indispensável analisar o contrato em sua íntegra. Entretanto, essa reavaliação é vedada em recurso especial, conforme a restrição imposta pela Súmula n. 5 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
