@@ -1,0 +1,15 @@
+DECISÃO
+SAULO MALKO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná na Apelação Criminal n. 0017357-11.2015.8.16.0013.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 4 meses e 20 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime descrito no art. 157, § 2º, I e II, do Código Penal, duas vezes.
+A defesa aduz, em síntese, que o paciente foi condenado apenas em razão de reconhecimento realizado em desconformidade com as regras estabelecidas no art. 226 do CPP.
+Indeferida a liminar, o Ministério Público Federal apresentou parecer pela denegação da ordem (fls. 372-375).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação proferido em 27/6/2019. Cumpre registrar que a defesa interpôs recurso especial em 30/7/2019, inadmitido pelo Tribunal de origem. Dessa decisão, o réu interpôs o Agravo em Recurso Especial n. 1.668.530/PR o qual não foi conhecido.
+Registro que após a baixa dos autos à Corte estadual, o acórdão transitou em julgado no dia 28/6/2022 (fl. 345) e, em 18/8/2022, a defesa impetrou este HC, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
