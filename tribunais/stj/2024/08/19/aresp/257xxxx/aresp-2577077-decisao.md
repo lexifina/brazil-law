@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por GAUDI EMPREENDIMENTOS E PARTICIPACOES LTDA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 9/11/2023.
+Concluso ao gabinete em: 3/5/2024.
+Ação: Cumprimento de sentença arbitral proposto pela agravante em face de Barra Sol Shopping Centers S/A.
+Decisão interlocutória: deferiu o pedido de reforço de penhora, para fins de recair sobre 100% do faturamento da agravada.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela agravada, conforme ementa a seguir (fl. 877):
+Cumprimento de sentença arbitral Reforço de Penhora Constrição sobre os frutos percebidos em razão da exploração comercial de Shopping Center, incidente sobre a fração ideal de titularidade da executada sobre o imóvel já objeto de penhora - Inconformismo centrado na prematuridade do reforço da penhora, em razão da falta de conclusão da perícia de avaliação. Alegação de suficiência do valor da fração ideal penhorada, frente ao crédito exequendo, bem como da inviabilização da atividade empresarial em razão da constrição integral de seu faturamento. Alegação, ainda, de excesso de penhora da área remanescente do imóvel, bem como de violação ao princípio da vedação à decisão surpresa - Excesso de penhora da área remanescente e levantamento de valores Questões que não foram objeto de apreciação e deliberação da decisão agravada Não conhecimento Reforço de penhora - Cabimento parcial Exame de todo o processado que não permite divisar a suficiência da constrição que recaiu sobre a fração ideal de titularidade da executada Hipótese em que a redução do percentual da penhora afasta a alegada inviabilização da atividade empresarial Razoabilidade do percentual ora fixado e nomeação de administrador visam a preservação da pessoa jurídica - Recurso conhecido, em parte, e provido parcialmente.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 373; 489, § 1º, IV; 797; 866; 867; 868; 869 e 1.022, todos do CPC. Além de negativa de prestação jurisdicional, sustenta que: i) o caso dos autos trata-se de pedido de penhora de frutos e não do faturamento da empresa agravada, e que ii) não houve a devida comprovação do alegado prejuízo que a penhora de frutos teria sobre a atividade empresarial da parte contrária
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do TJ/SP residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente, especialmente, no que concerne às alegações acerca da diferenciação entre a penhora do faturamento e a de frutos da empresa agravada, bem como da ausência de comprovação do prejuízo sofrido pela executada.
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelo recorrente, foi omisso quanto aos referidos argumentos. Verifica-se que as questões foram objeto de devida insurgência tanto nas razões da apelação, quanto nas razões dos embargos declaratórios interpostos.
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca dos pontos elencados.
+Por conseguinte, tenho por prejudicada a análise das demais matérias insertas no recurso especial.
+Forte nessas razões, CONHEÇO o agravo, para CONHECER PARCIALMENTE o RECURSO ESPECIAL, e nessa extensão, DAR-LHE PROVIMENTO, com fundamento no art. 932, III e V, a , do CPC, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração opostos pela recorrente; e b) determinar a remessa dos autos ao TJ/SP, a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos elencados nos embargos de declaração opostos ao acórdão recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ARBITRAL. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO.
+1. Cumprimento de sentença arbitral.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/2015 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questões pertinentes para a resolução da lide.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, provido.
