@@ -1,0 +1,807 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 18
+
+19/08/2024
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.493.566
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: DGL EMPREENDIMENTOS IMOBILIÁRIOS LTDA
+: MÁRIO HENRIQUE NÓBREGA MARTINS
+: RENATO FERREIRA MOURA FRANCO
+: JOSE EDUARDO MARTINS CARDOZO
+: EDUARDO LASMAR PRADO LOPES
+: COOPERATIVA DE PRODUCAO E DE COMPRA EM
+COMUM DOS EMPREENDEDORES DA FEIRA DOS
+IMPORTADOS DO DF-COOPERFIM
+: RODRIGO DUQUE DUTRA
+: COMPANHIA
+IMOBILIARIA
+DE
+BRASILIA
+TERRACAP
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+: CENTRAIS DE ABASTECIMENTO DO DISTRITO
+FEDERAL S A
+: RAFAEL DANTAS PEREIRA
+
+Ementa: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO COM AGRAVO. LICITAÇÃO. ALTERAÇÃO DE EDITAL.
+REDUÇÃO DO VALOR DA CAUÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL.
+SÚMULAS 279 E 454/STF.
+I. CASO EM EXAME
+1.
+Agravo interno contra decisão que negou seguimento a
+recurso extraordinário com agravo, o qual tem por objeto acórdão do STJ
+que deu provimento parcial a recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+2.
+Preenchimento dos pressupostos de admissibilidade do
+recurso extraordinário com agravo.
+III. RAZÃO DE DECIDIR
+3.
+A petição de agravo não trouxe novos argumentos aptos a
+desconstituir a decisão agravada, a qual deve ser mantida pelos seus
+próprios fundamentos.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 88B4-5D4C-AB47-0434 e senha EE56-AAD4-2A16-57EE
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 18
+
+ARE 1493566 AGR / DF
+4.
+O Plenário desta Corte, nos autos do ARE 748.371/MT,
+Relator o Ministro Gilmar Mendes (Tema nº 660), reafirmou o
+entendimento de que a afronta aos princípios da legalidade, do devido
+processo legal, da ampla defesa, do contraditório, dos limites da coisa
+julgada ou da prestação jurisdicional que dependa, para ser reconhecida
+como tal, da análise de normas infraconstitucionais configura apenas
+ofensa indireta ou reflexa à Constituição Federal, o que não enseja
+reexame da questão em recurso extraordinário.
+5.
+O acolhimento da pretensão recursal demandaria o
+reexame do conjunto fático-probatório dos autos e das cláusulas
+editalícias, o que se mostra incabível em sede extraordinária. Incidência
+das Súmulas 279 e 454/STF.
+IV. DISPOSITIVO
+6.
+Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, em conformidade com a
+ata de julgamento, em Sessão Virtual, acordam os Ministros do Supremo
+Tribunal Federal, por unanimidade de votos, em negar provimento ao
+agravo, nos termos do voto do Relator.
+Brasília, 9 a 16 de agosto de 2024.
+Ministro LUÍS ROBERTO BARROSO
+Presidente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 88B4-5D4C-AB47-0434 e senha EE56-AAD4-2A16-57EE
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 18
+
+19/08/2024
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.493.566
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: DGL EMPREENDIMENTOS IMOBILIÁRIOS LTDA
+: MÁRIO HENRIQUE NÓBREGA MARTINS
+: RENATO FERREIRA MOURA FRANCO
+: JOSE EDUARDO MARTINS CARDOZO
+: EDUARDO LASMAR PRADO LOPES
+: COOPERATIVA DE PRODUCAO E DE COMPRA EM
+COMUM DOS EMPREENDEDORES DA FEIRA DOS
+IMPORTADOS DO DF-COOPERFIM
+: RODRIGO DUQUE DUTRA
+: COMPANHIA
+IMOBILIARIA
+DE
+BRASILIA
+TERRACAP
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+: CENTRAIS DE ABASTECIMENTO DO DISTRITO
+FEDERAL S A
+: RAFAEL DANTAS PEREIRA
+
+RELATÓRIO:
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (PRESIDENTE):
+1.
+Trata-se de agravo interno interposto contra decisão
+monocrática que negou seguimento a recurso extraordinário com agravo,
+com fundamento no art. 13, V, do Regimento Interno do Supremo
+Tribunal Federal.
+2.
+A parte agravante sustenta a inaplicabilidade do óbice das
+Súmulas 279 e 454 do STF. Alega que “os fatos incontroversos e as provas,
+que não se pretendem reanalisar, tão somente apontam para uma notória
+afronta ao princípio licitatório, considerando que os Agravados deixaram
+de ofertar a caução devida no momento oportuno (questão que não se
+discute aqui, posto que é incontroversa)”.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8400-C79D-3A8A-F910 e senha CDA0-E4FD-B50C-42AC
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 18
+
+ARE 1493566 AGR / DF
+
+3.
+
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8400-C79D-3A8A-F910 e senha CDA0-E4FD-B50C-42AC
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 5 de 18
+
+19/08/2024
+
+PLENÁRIO
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.493.566
+DISTRITO FEDERAL
+VOTO:
+O SENHOR MINISTRO LUÍS ROBERTO BARROSO (PRESIDENTE):
+1.
+
+O agravo interno não deve ser provido.
+
+2.
+Nesta Corte, manteve-se a conclusão do Tribunal de
+origem quanto à ausência de requisitos para admissão do recurso
+extraordinário. A petição de agravo não trouxe novos argumentos aptos a
+desconstituir a decisão agravada, razão pela qual deve ser mantida pelos
+seus próprios fundamentos:
+Trata-se de recurso extraordinário com agravo contra
+decisão de inadmissão do recurso extraordinário.
+O recurso foi interposto com fundamento na alínea "a" do
+permissivo constitucional.
+O acórdão recorrido ficou assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO
+CIVIL PÚBLICA. LICITAÇÃO. TERRENO OCUPADO
+PELA DENOMINADA FEIRA DOS IMPORTADOS. ART.
+18 DA LEI 8.666/93. VALOR DA CAUÇÃO EM 5%
+(CINCO POR CENTO) SOBRE A AVALIAÇÃO DO
+IMÓVEL. ALTERAÇÃO DE ITEM EDITALÍCIO, PARA
+REDUÇÃO DO VALOR. IMPOSSIBILIDADE. PRINCÍPIO
+DA LEGALIDADE. NÃO OBSERVÂNCIA. NULIDADE
+DA CLÁUSULA DO EDITAL. APROVEITAMENTO DAS
+FASES DO CERTAME NÃO CONTAMINADAS PELA
+NULIDADE QUE ORA SE DECLARA. OFENSA AO ART.
+21, § 4º DA LEI 8.666/93. PREJUDICIALIDADE.
+RECURSO ESPECIAL PARCIALMENTE PROVIDO, POR
+MAIORIA.
+I. Recurso Especial interposto contra acórdão
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 6 de 18
+
+ARE 1493566 AGR / DF
+publicado na vigência do CPC/73. Incidência do
+Enunciado Administrativo
+2/STJ ("Aos
+recursos
+interpostos com fundamento no CPC/1973 (relativos a
+decisões publicadas até 17 de março de 2016) devem ser
+exigidos os requisitos de admissibilidade na forma nele
+prevista, com as interpretações dadas, até então, pela
+jurisprudência do Superior Tribunal de Justiça").
+II. Na origem, trata-se de Ação Declaratória de
+Nulidade de Ato Administrativo, ajuizada por DGL
+Empreendimentos Imobiliários LTDA., ora recorrente, em
+face da Companhia Imobiliária de Brasília - TERRACAP,
+Cooperativa de Produção e de Compra em Comum dos
+Empreendedores da Feira dos Importados do Distrito
+Federal - COOPERFIM e Centrais de Abastecimento do
+Distrito Federal S/A - CEASA, objetivando a nulidade da
+decisão da Diretoria Colegiada 153/2009 da TERRACAP –
+que homologara a licitação em favor da COOPERFIM, em
+face do direito de preferência –, restituindo, à autora, a
+condição de vencedora da Concorrência Pública constante
+do Edital 14/2008, para que se opere a tradição dos
+imóveis licitados em seu favor.
+III. O acórdão do Tribunal de origem reformou, em
+parte, a sentença – que julgara improcedente o pedido –,
+apenas para majorar os honorários de advogado,
+concluindo que o percentual de 5% (cinco por cento) sobre
+a avaliação do imóvel, previsto no art. 18 da Lei 8.666/93
+para a venda de bens imóveis, é limite da caução, e não o
+seu valor exato, podendo a Administração fixar a caução
+em valor inferior a 5% da avaliação do imóvel.
+IV. O art. 18 da Lei 8.666/93 estabelece o valor da
+caução, na fase de habilitação de concorrência pública
+para venda de bens imóveis, no percentual de 5% (cinco
+por cento) da avaliação do imóvel, sendo vedada, à
+Administração Pública, a fixação de entendimento
+amplamente majoritário da doutrina sobre o tema.
+Descabe, assim, estabelecer percentual diverso ou mesmo
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 7 de 18
+
+ARE 1493566 AGR / DF
+aceitar valor de caução inferior a 5% (cinco por cento) da
+avaliação do imóvel, em face do princípio da legalidade,
+representado pela expressa regra legal constante da
+expressão "quantia correspondente a 5% (cinco por cento)
+da avaliação".
+V. No caso dos autos, a empresa recorrente
+apresentou a proposta de compra, em 17/12/2008,
+depositando a caução no valor de R$ 2.105.500,00 (dois
+milhões, cento e cinco mil e quinhentos reais),
+correspondente a 5% (cinco por cento) da avaliação do
+imóvel, tal como previsto no Edital de 12/11/2008, e a
+COOPERFIM apresentou proposta de compra, em
+16/12/2008, depositando a caução, no valor de R$
+421.100,00 (quatrocentos e vinte e um mil e cem reais),
+equivalente a 1% (um por cento) da avaliação do imóvel,
+nos termos da alteração editalícia publicada em
+15/12/2008.
+VI. Embora a empresa recorrente tenha logrado
+vencer o certame, por ter oferecido um valor maior para o
+imóvel – R$ 47.550.000,00 (quarenta e sete milhões e
+quinhentos e cinquenta mil reais) –, foi reconhecido, nos
+termos do edital, o direito de preferência da COOPERFIM
+– que oferecera proposta no valor de R$ 42.110.000,00
+(quarenta e dois milhões e cento e dez mil reais) – para a
+aquisição do imóvel, uma vez que, além de habilitada na
+Concorrência Pública, representa os ocupantes dos boxes
+ou quiosques que compõem a denominada Feira dos
+Importados, tendo ela complementado o valor da melhor
+oferta, alcançando R$ 47.551.000,00 (quarenta e sete
+milhões e quinhentos e cinquenta e um mil reais).
+VII. O valor da caução, para o imóvel descrito no
+item 3 do Edital 14/2008 – inicialmente fixado em R$
+2.105.500,000 (5% do valor da avaliação do imóvel) –, foi
+reduzido a R$ 421.000,00 (1% do valor da avaliação do
+imóvel), nos termos da publicação, em 15/12/2008, da
+Errata do Edital do certame, tendo a COOPERFIM
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 8 de 18
+
+ARE 1493566 AGR / DF
+depositado a caução em 16/12/2008, no valor previsto na
+retificação editalícia.
+VIII. Estando o administrador adstrito à observância
+dos preceitos legais, o item 3 do Edital 14/2008, após a
+retificação levada a efeito em publicação de 15/12/2008, ao
+estabelecer o valor da caução no percentual de 1% (um por
+cento) da avaliação do imóvel, contraria a norma do art. 18
+da Lei 8.666/93.
+IX. Conquanto seja imperioso reconhecer a nulidade
+do item 3 do Edital 14/2008retificado pela ERRATA DO
+EDITAL 14/2008, em relação à fixação da caução em valor
+inferior a 5% (cinco por cento) da avaliação do imóvel, por
+ofensa ao princípio da legalidade, o recolhimento do valor
+da aludida caução, pela COOPERFIM, com fundamento
+na norma alterada do certame, em 15/12/2008, não pode
+prejudicar a Cooperativa, uma vez que procedeu ela de
+acordo com a norma editalícia retificada, editada pela
+Administração, inexistindo, na sentença e no acórdão
+recorrido – que trazem os elementos de fato, nos quais o
+STJ pode se louvar, em face da Súmula 7/STJ –, qualquer
+notícia ou suspeita de que a Cooperativa ou qualquer
+licitante tenha concorrido para a alteração editalícia
+considerada nula, pelo que não poderia um licitante – a
+autora – dela beneficiar-se, em detrimento de outro, a
+Cooperativa, que, nos termos do edital, exercera o seu
+direito de preferência para a aquisição do imóvel. A
+sentença e o acórdão recorrido atribuíram a retificação da
+norma do item 3 do Edital à necessidade de correção de
+erro material, para compatibilização das regras editalícias.
+X. Assim sendo, decretada a nulidade da alteração
+editalícia levada a efeito em 15/12/2018, não seria o caso de
+considerar a COOPERFIM, desde logo, inabilitada no
+certame, e, em consequência, habilitada e definitivamente
+vencedora da licitação a empresa autora, mormente
+porque a COOPERFIM, ao prestar, à época, a caução, no
+percentual de 1% (um por cento) do valor da avaliação, o
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 9 de 18
+
+ARE 1493566 AGR / DF
+fez de acordo com o Edital retificado do certame, que
+fixara as condições em que se realizaria a licitação em
+apreço, retificação para a qual não há notícia, na sentença
+e no acórdão recorrido, de qualquer interferência da
+Cooperativa. Não se pode ignorar tal fato, aliado à
+circunstância de que aos ocupantes dos imóveis,
+representados pela COOPERFIM, o Edital assegura “o
+direito de preferência à aquisição do(s) mesmo(s), no valor
+da melhor oferta. Não sendo o seu ocupante o vencedor, o
+direito de preferência poderá ser exercido desde que feito
+por escrito no prazo de 5 (cinco) dias úteis, contados a
+partir do primeiro dia útil após a realização da licitação
+pública, sob pena de perda do direito de aquisição e/ou
+Concessão de Direito Real de Uso, sendo declarado
+vencedor aquele que apresentou melhor oferta”, direito de
+preferência que fora exercido pela COOPERFIM, nos
+termos do Edital, complementando o valor da melhor
+oferta.
+XI. Prestada a caução, pela recorrida COOPERFIM,
+de acordo com o estabelecido no Edital retificado, pela
+publicação de 15/12/2008, mas em desrespeito à legislação
+de regência, haveria de ser concedida oportunidade à
+Cooperativa para a regularização da prestação da
+garantia, em sendo o caso, a fim de complementar o
+depósito, para atingir o percentual de 5% (cinco por cento)
+do valor da avaliação do imóvel, conforme previsto no art.
+18 da Lei 8.666/93.
+XII. Nesse contexto, a ilegalidade da cláusula
+constante do item 3 do Edital 14/2008, no tocante à fixação
+do valor da caução, macula somente a homologação do
+resultado da referida licitação, pois o vício do referido ato
+eiva apenas os atos que lhe sucedem, sendo possível – e
+até recomendável –, in casu, o aproveitamento das fases
+não contaminadas pela nulidade que ora se declara.
+XIII. Tal solução prejudica a hipótese de reabertura
+do prazo para apresentação de propostas, prevista no art.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 10 de 18
+
+ARE 1493566 AGR / DF
+21, § 4º, da Lei 8.666/93 – irregularidade apontada, no
+presente Recurso Especial –, seja porque não caberia
+reabertura de prazo, porquanto a alteração do valor da
+caução está sendo declarada nula, seja porque, mesmo
+antes da alteração editalícia, à licitação acorreram apenas a
+empresa autora e a COOPERFIM.
+XIV. Recurso de DGL Empreendimentos Imobiliários
+Ltda. provido, em parte, por maioria, para declarar a
+nulidade da cláusula que estabeleceu, em 1% (um por
+cento) da avaliação do imóvel, o valor da caução do
+imóvel correspondente ao item 3 do Edital 14/2008, e, por
+conseguinte, da homologação do resultado da licitação em
+favor da COOPERFIM, determinando, ainda, que seja
+concedida à COOPERFIM a oportunidade de
+complementação do valor da caução, em sendo o caso, de
+acordo com o disposto no art. 18 da Lei 8.666/93,
+prosseguindo-se no certame.
+Opostos os embargos de declaração, foram rejeitados.
+No recurso extraordinário sustenta-se violação do(s) art.(s)
+5º, II e LV, e 37, caput e XXI, da Constituição Federal.
+Decido.
+Analisados os autos, verifica-se que o Plenário da Corte,
+nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar
+Mendes (Tema 660), reafirmou o entendimento de que a afronta
+aos princípios da legalidade, do devido processo legal, da
+ampla defesa, do contraditório, dos limites da coisa julgada ou
+da prestação jurisdicional que dependa, para ser reconhecida
+como tal, da análise de normas infraconstitucionais configura
+apenas ofensa indireta ou reflexa à Constituição Federal, o que
+não enseja reexame da questão em recurso extraordinário.
+Nesse sentido:
+“Agravo regimental no recurso extraordinário com
+agravo. Administrativo. Militar. Cerceamento de defesa.
+Indeferimento de provas. Repercussão geral. Ausência.
+Proventos com remuneração correspondente ao grau
+hierárquico superior. Legislação infraconstitucional.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 11 de 18
+
+ARE 1493566 AGR / DF
+Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade.
+Precedentes. 1. A afronta aos princípios da legalidade, do
+devido processo legal, da ampla defesa, do contraditório,
+dos limites da coisa julgada ou da prestação jurisdicional,
+quando depende, para ser reconhecida como tal, da
+análise de normas infraconstitucionais, configura apenas
+ofensa indireta ou reflexa à Constituição Federal. 2. Esse
+entendimento foi reafirmado em sede de repercussão
+geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro
+Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº
+639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11
+- Tema 424. 3. Inviável, em recurso extraordinário, o
+reexame dos fatos e das provas dos autos e a análise da
+legislação infraconstitucional. Incidência das Súmulas nºs
+279 e 636/STF. 4. Agravo regimental não provido, com
+imposição de multa de 1% do valor atualizado da causa
+(art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de
+honorários advocatícios pelas instâncias de origem, seu
+valor monetário será majorado em 10% (dez por cento) em
+desfavor da parte recorrente, nos termos do art. 85, § 11,
+do Código de Processo Civil, observados os limites dos §§
+2º e 3º do referido artigo e a eventual concessão de justiça
+gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli,
+DJe de 01/02/2019).
+Ademais, colhe-se do voto condutor do acórdão atacado a
+seguinte fundamentação:
+O que me levou a pedir vista do presente processo
+foi, em verdade, dúvida surgida a respeito da extensão do
+provimento do Recurso Especial, levada a efeito pelo
+eminente Relator, e, nesse particular, peço vênia, para
+divergir de Sua Excelência.
+[...]
+Conquanto entenda eu que há nulidade da alteração
+editalícia publicada em 15/12/2008 – que diminuiu o valor
+da caução a 1% (um por cento) da avaliação do imóvel, em
+afronta ao art. 18 da Lei 8.666/93 –, penso que a sua
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 12 de 18
+
+ARE 1493566 AGR / DF
+nulidade há de ser decretada, mas dela não decorre,
+automaticamente, seja a empresa autora considerada, de
+modo definitivo, vencedora da licitação, operando-se, em
+seu favor, a tradição dos imóveis licitados, na forma do
+pedido inicial, ou que seja a COOPERFIM considerada,
+desde logo, inabilitada, na licitação, e habilitada tão
+somente a recorrente, como postulado no Recurso
+Especial, pedidos que restaram atendidos, no provimento
+amplo do Especial, dado pelo eminente Relator.
+Ressalte-se que a licitação foi realizada no dia
+18/12/2008 e o requerimento para o exercício do direito de
+preferência dos ocupantes foi protocolado em 23/12/2008
+(fl. 493e), dentro do prazo previsto no Edital.
+Conforme já assinalado, no parecer encaminhado, ao
+Presidente da CPLI (Comissão Permanente de Licitação)
+da TERRACAP, pelo Chefe da Procuradoria Jurídica da
+TERRACAP, em face de impugnação, formulada pela
+empresa ora recorrente, ao direito de preferência da
+COOPERFIM, restou assim consignado:
+"No documento que capeia o Expediente a ser
+examinado, a COOPERFIM informa que a empresa
+DGL logrou sair vencedora no direito à aquisição dos
+lotes referidos no item 3 do Edital nº 14/2008, por ter
+ofertado o maior valor para os mesmos, no montante
+de Cr$47.550.000,00 (quarenta e sete milhões,
+quinhentos e cinquenta mil reais).
+O direito de preferência está previsto no
+Capítulo I, Subcapítulo B, nº 1, do Edital. A licitação
+foi realizada no dia 18.12.2008 e o requerimento para
+o exercício do direito de preferência foi protocolado
+no dia 23 dos mesmos mês e ano. Contra o exercício
+desse direito insurgiu-se a empresa DGL, através de
+requerimento aqui protocolado em 13.01.2009. No
+documento informa ter-se logrado vencedora no
+certame; que para o item referido houve apenas duas
+propostas, a da Impugnante e a da COOPERFIM;
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 13 de 18
+
+ARE 1493566 AGR / DF
+que sua proposta foi de R$47.550.000,00 (quarenta e
+sete milhões, quinhentos e cinquenta mil reais)
+enquanto a da Impugnada foi tão somente de
+R$42.110.000,00 (quarenta e dois milhões, cento e dez
+mil reais); que no dia 09.01.2009 foi comunicada, pela
+CPLI/NUCOM, desta TERRACAP, sobre a pretensão
+da Impugnada de exercer o direito de preferência"
+(fls. 359/360e).
+O referido parecer esclarece, ainda, quanto ao
+direito de preferência da COOPERFIM, impugnado
+pela DGL, que, "assim, embora desclassificada em
+razão de menor valor proposto, preenche ela,
+Impugnada [COOPERFIM], as condições para
+exercer seu direito de preferência já que não ofendeu
+o item 9, do Capítulo IV do Edital" (fl. 364e).
+Nesse contexto, não se pode olvidar que a
+COOPERFIM não se sagrou, inicialmente, vencedora
+no certame, mas exerceu posteriormente o direito de
+preferência, previsto no Edital, como ocupante do
+imóvel, complementando o valor da melhor oferta.
+Aliás, há informação nos autos, em 19/06/2017, de
+que os ocupantes se encontram em dia "com o
+pagamento do parcelamento da licitação de 10 (dez)
+anos, tendo pago mais de 80% (oitenta por cento) do
+valor perseguido pelo certame" (fl. 1.982e). Em
+sustentação oral informou-se que todo o valor já
+haveria sido pago pelos ocupantes, representados
+pela COOPERFIM.
+Assim, conquanto seja imperioso reconhecer a
+nulidade do item 3 do Edital 14/2008, retificado pela
+ERRATA DO EDITAL 14/2008, em relação à fixação
+da caução em valor inferior a 5% (cinco por cento) da
+avaliação do imóvel, pela ofensa ao princípio da
+legalidade, o recolhimento do valor da aludida
+caução, pela COOPERFIM, com fundamento nas
+normas alteradas do certame, em 15/12/2008, não
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 14 de 18
+
+ARE 1493566 AGR / DF
+pode prejudicar a Cooperativa, que, ao prestar a
+caução, no valor de 1% da avaliação do imóvel, o fez
+de acordo com o edital retificado, retificação para a
+qual não há notícia, na sentença e no acórdão
+recorrido, de interferência de qualquer dos licitantes.
+Com efeito, prestada a caução, pela recorrida
+COOPERFIM, de acordo com o estabelecido no
+Edital retificado, pela publicação de 15/12/2008, mas
+em desrespeito à legislação de regência, haveria de
+ser concedida oportunidade à Cooperativa para a
+regularização da prestação da garantia, em sendo o
+caso, a fim de complementar o depósito, para atingir
+o percentual de 5% (cinco por cento) do valor da
+avaliação do imóvel, conforme previsto no art. 18 da
+Lei 8.666/93.
+Assim sendo, decretada a nulidade da alteração
+editalícia levada a efeito em 15/12/2018, não seria o
+caso de considerar a COOPERFIM, desde logo,
+inabilitada no certame, e, em consequência,
+habilitada e definitivamente vencedora da licitação a
+empresa autora, mormente porque – repito – a
+COOPERFIM, ao prestar, à época, a caução, no
+percentual de 1% (um por cento) do valor da
+avaliação, o fez de acordo com o Edital retificado do
+certame, que fixara as condições em que se realizaria
+a licitação em apreço, retificação para a qual não há
+notícia, nos autos – na sentença e no acórdão
+recorrido –, de qualquer interferência da
+Cooperativa. Não se pode ignorar tal fato, aliado à
+circunstância de que aos ocupantes dos imóveis,
+representados pela COOPERFIM, o Edital assegura
+"o direito de preferência à aquisição do(s) mesmo(s),
+no valor da melhor oferta. Não sendo o seu ocupante
+o vencedor, o direito de preferência poderão ser
+exercido desde que feito por escrito no prazo de 5
+(cinco) dias úteis, contados a partir do primeiro dia
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 15 de 18
+
+ARE 1493566 AGR / DF
+útil após a realização da licitação pública, sob pena
+de perda do direito de aquisição e/ou Concessão de
+Direito Real de Uso, sendo declarado vencedor
+aquele que apresentou melhor oferta".
+[...]
+Nesse contexto, a ilegalidade da cláusula constante
+do item 3 do Edital 14/2008, no tocante à fixação do valor
+da caução, macula somente a homologação do resultado
+da referida licitação, pois o vício do referido ato eiva
+apenas os atos que lhe sucedem, sendo possível – e até
+recomendável –, in casu, o aproveitamento das fases não
+contaminadas pela nulidade que ora se declara.
+Desse modo, verifica-se que para dissentir do que
+decidido pelo Tribunal a quo, necessária seria a análise das
+cláusulas contratuais, bem como o reexame do conjunto fáticoprobatório dos autos, o que atrai a incidência das Súmulas 279 e
+454 desta Corte, as quais dispõem: “Para simples reexame de
+prova não cabe recurso extraordinário” e “Simples
+interpretação de cláusulas contratuais não dá lugar a recurso
+extraordinário”.
+Nesse sentido, ARE 715.689, Rel. Min. Luís Roberto
+Barroso, DJe de 06/02/2014, AI 768.630, Rel. Min. Gilmar
+Mendes, DJede 25/06/2011, e ARE 1.277.514-AgR, Rel. Min.
+Alexandre de Moraes, Primeira Turma, DJede 28/09/2020, esse
+último, assim ementado:
+“CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO
+DE PROVAS. INADMISSIBILIDADE. SÚMULAS 279 E
+454 DO STF. EXAME DE DIREITO LOCAL. SÚMULA
+280/STF. 1. Os Recursos Extraordinários somente serão
+conhecidos e julgados, quando essenciais e relevantes as
+questões constitucionais a serem analisadas, sendo
+imprescindível ao recorrente, em sua petição de
+interposição de recurso, a apresentação formal e motivada
+da repercussão geral, que demonstre, perante o
+SUPREMO TRIBUNAL FEDERAL, a existência de
+acentuado interesse geral na solução das questões
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 16 de 18
+
+ARE 1493566 AGR / DF
+constitucionais discutidas no processo, que transcenda a
+defesa puramente de interesses subjetivos e particulares. 2.
+A obrigação do recorrente em apresentar formal e
+motivadamente a preliminar de repercussão geral, que
+demonstre sob o ponto de vista econômico, político, social
+ou jurídico, a relevância da questão constitucional
+debatida que ultrapasse os interesses subjetivos da causa,
+conforme exigência constitucional e legal (art. 102, § 3º, da
+CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde
+com meras invocações desacompanhadas de sólidos
+fundamentos no sentido de que o tema controvertido é
+portador de ampla repercussão e de suma importância
+para o cenário econômico, político, social ou jurídico, ou
+que não interessa única e simplesmente às partes
+envolvidas na lide, muito menos ainda divagações de que
+a jurisprudência do SUPREMO TRIBUNAL FEDERAL é
+incontroversa no tocante à causa debatida, entre outras de
+igual patamar argumentativo. 3. Tendo o acórdão
+recorrido solucionado as questões a si postas com base em
+preceitos de ordem infraconstitucional, não há espaço
+para a admissão de Recurso Extraordinário, que supõe
+matéria constitucional prequestionada explicitamente. 4. A
+argumentação do recurso extraordinário traz versão dos
+fatos diversa da exposta no acórdão, de modo que seu
+acolhimento passa necessariamente pela revisão das
+provas e das cláusulas contratuais. Incidem, portanto, os
+óbices da Súmula 279 (Para simples reexame de prova não
+cabe recurso extraordinário) e 454 (Simples interpretação
+de cláusulas contratuais não dá lugar a recurso
+extraordinário), ambas desta Corte. 5. A solução da
+controvérsia depende da análise da legislação local, o que
+é incabível em sede de recurso extraordinário, conforme
+consubstanciado na Súmula 280/STF (Por ofensa a direito
+local não cabe recurso extraordinário)”.
+Ante o exposto, nego seguimento ao recurso (alínea c do
+inciso V do art. 13 do Regimento Interno do Supremo Tribunal
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 17 de 18
+
+ARE 1493566 AGR / DF
+Federal).
+
+3.
+Com efeito, a afronta aos dispositivos constitucionais
+suscitados no recurso extraordinário seria, se ocorresse, indireta ou
+reflexa, o que é insuficiente para amparar o recurso. Ademais, o
+acolhimento da pretensão recursal demandaria o reexame do conjunto
+fático-probatório dos autos e das cláusulas editalícias, o que se mostra
+incabível em sede extraordinária. Incidência das Súmulas 279 e 454/STF.
+4.
+
+Diante do exposto, nego provimento ao agravo interno.
+
+5.
+
+É como voto.
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D657-827A-6DE5-10E7 e senha AD54-A90B-7A8E-9167
+
+Supremo Tribunal Federal
+Extrato de Ata - 19/08/2024
+
+Inteiro Teor do Acórdão - Página 18 de 18
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.493.566
+PROCED. : DISTRITO FEDERAL
+RELATOR : MINISTRO PRESIDENTE
+AGTE.(S) : DGL EMPREENDIMENTOS IMOBILIÁRIOS LTDA
+ADV.(A/S) : MÁRIO HENRIQUE NÓBREGA MARTINS (71629/DF)
+ADV.(A/S) : RENATO FERREIRA MOURA FRANCO (35464/DF)
+ADV.(A/S) : JOSE EDUARDO MARTINS CARDOZO (54244/DF, 67219/SP)
+ADV.(A/S) : EDUARDO LASMAR PRADO LOPES (69753/DF, 189700/RJ)
+AGDO.(A/S) : COOPERATIVA DE PRODUCAO E DE COMPRA EM COMUM DOS
+EMPREENDEDORES DA FEIRA DOS IMPORTADOS DO DF-COOPERFIM
+ADV.(A/S) : RODRIGO DUQUE DUTRA (12313/DF)
+AGDO.(A/S) : COMPANHIA IMOBILIARIA DE BRASILIA TERRACAP
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO DISTRITO FEDERAL
+AGDO.(A/S) : CENTRAIS DE ABASTECIMENTO DO DISTRITO FEDERAL S A
+ADV.(A/S) : RAFAEL DANTAS PEREIRA (32894/DF)
+Decisão: O Tribunal, por unanimidade, negou provimento ao
+agravo, nos termos do voto do Relator, Ministro Luís Roberto
+Barroso (Presidente). Plenário, Sessão Virtual de 9.8.2024 a
+16.8.2024.
+Composição: Ministros Luís Roberto Barroso (Presidente),
+Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Edson Fachin,
+Alexandre de Moraes, Nunes Marques, André Mendonça, Cristiano
+Zanin e Flávio Dino.
+
+Carmen Lilian Oliveira de Souza
+Assessora-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 33C0-5725-7B58-991F e senha 4A35-523B-9B76-F36C
