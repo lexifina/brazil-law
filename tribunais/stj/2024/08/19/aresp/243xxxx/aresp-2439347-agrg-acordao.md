@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS - MPGO contra a  decisão  de  fls.  711/718, de  minha  relatoria ,  que conheceu do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negar-lhe provimento.
+Em suas razões recursais (fls. 724/738), o agravante reitera a alegação de violação ao art. 619 do Código de Processo Penal - CPP. Afirma que, " e m sede de embargos de declaração, o Ministério Público sustentou omissão a aspectos fáticos e jurídicos relevantes ao deslinde da causa penal, em especial, quanto ao fato de que, para além da existência de ações penais em andamento, há outros elementos nos autos, aptos a indicar a conduta desabonadora do ora agravado em sociedade" (fl. 732).
+Aduz que o TJ não enfrentou expressamente o conteúdo integral dos elementos de prova, inviabilizando a própria discussão da valoração negativa da conduta social do agravado.
+Afirma que a análise do apelo nobre depende, exclusivamente, do cotejo entre a moldura fático-probatória consignada nos acórdãos impugnados e o entendimento desta Corte sobre o tema, tratando-se, pois, de hipótese de revaloração jurídica, razão pela qual não incide o óbice da Súmula n. 7 do STJ.
+Requer a  reconsideração  da  decisão  agravada  ou  o  provimento  do  presente  agravo  regimental  pelo colegiado para conhecer e dar provimento ao recurso especial.
+É  o  relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO. DOSIMETRIA. CONDUTA SOCIAL. NEUTRALIDADE. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. INEXISTÊNCIA. MERO INCONFORMISMO DO MINISTÉRIO PÚBLICO.  AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte Estadual enfrentou suficientemente todas as impugnações apresentadas pela defesa, não havendo falar em omissão ou falta de fundamentação no aresto hostilizado. Destarte, não há vícios no enfrentamento das matérias, mas apenas inconformismo da parte com o resultado, uma vez que o Tribunal de origem, diante dos elementos de prova e do caso concreto, entendeu pela neutralidade da circunstância judicial relativa à conduta social, razão pela qual afastou sua negativação.
+2. Nos termos da jurisprudência desta Corte, " o  fato do Tribunal de origem ter decidido o pleito de forma diversa da defendida pelo recorrente, elegendo fundamentos distintos daqueles por ele propostos, não configura o missão ou ausência de fundam entação" (AgRg no AREsp n. 1.322.810/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 30/8/2018).
+3. Ademais, " n ão está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pelas partes, configurando- se a negativa de prestação jurisdicional somente nos casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial  .. " (AgRg no AREsp n. 1.965.518/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022), o que não ocorreu na hipótese em epígrafe. Logo, desnecessário o enfrentamento direto de todas as questões deduzidas pela parte, quando as razões de decidir já são suficientes para manter o julgado.
+4. Agravo regimental desprovido.
+VOTO
+O agravo regimental não merece provimento.
+Com relação à apontada ofensa ao art. 619 do CPP, o Tribunal de origem rejeitou os embargos de declaração opostos pelo Ministério Público nos seguintes termos do voto do relator (grifos nossos):
+"Nas razões, alega o Ministério Público que há omissão no Acórdão, uma vez que neutralizou a circunstância judicial da conduta social do ora embargado sem observar que "para além da existência de ações penais em andamento, há outros elementos nos autos, aptos a indicar a conduta desabonadora do sentenciado em sociedade".
+ ..
+Ao contrário do alegado pela Defesa, não houve omissão no referido acórdão, uma vez que a questão suscitada foi devidamente enfrentada no corpo do voto.
+ ..
+Inclusive, sobre referida condutora, foi pronunciado no Voto:
+"Quanto à conduta social, sabido que tal circunstância tem por base o modo do acusado de viver e de se relacionar com os outros indivíduos, ou seja, "é o papel do réu na comunidade, inserido no contexto da família, do trabalho, da escola, da vizinhança etc".
+Além disso, "deve-se observar como se comporta o réu em sociedade, ausente qualquer figura típica incriminadora" (In Código Penal Comentado, Guilherme de Souza Nucci, 10ª ed. rev. e atual - São Paulo: RT,2010, p. 404/405).
+Sendo assim, como não existe nada nos autos, além do fato de ter ele haver respondido por outros crimes, outros elementos não existem, desabonando o comportamento e o modo de agir de JEAN CARLOS no seu convívio social de um modo geral, tem-se por bem considerar como favorável a modeladora da conduta social".
+Desta forma, impende ressaltar que, muito embora se evidencie a presteza do embargante em exercer seu munus, a matéria suscitada já foi debatida em sede de Apelação Criminal, havendo esta Corte cumprido seu desiderato e encerrado sua prestação jurisdicional.
+Além disso, é sabido que o julgador não fica adstrito a se manifestar sobre todas as alegações das partes nem a se ater aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão.
+Nessa ordem de ideias, por não terem sido demonstrados quaisquer defeitos na decisão embargada, em face dos quais esteja a necessitar de integração ou esclarecimento que assegurem a inteligência do julgado, máxime o das omissões e/ou contradições alegadas, desprovejo os embargos opostos " (fls. 609/611).
+Da análise dos trechos acima transcritos, verifica-se que a Corte Estadual enfrentou suficientemente todas as impugnações apresentadas pelo embargante, não havendo falar em omissão ou falta de fundamentação no aresto hostilizado.
+Destarte, não há vícios no enfrentamento das matérias, mas apenas inconformismo da parte com o resultado. Nos termos da jurisprudência desta Corte, " o  fato do Tribunal de origem ter decidido o pleito de forma diversa da defendida pelo recorrente, elegendo fundamentos distintos daqueles por ele propostos, não configura omissão ou ausência de fundamentação" (AgRg no AREsp n. 1.322.810/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 30/8/2018).
+Este Superior Tribunal de Justiça entende que " n ão está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pelas partes, configurando-se a negativa de prestação jurisdicional somente nos casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial  .. " (AgRg no AREsp n. 1.965.518/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022), o que não ocorreu na hipótese em epígrafe.
+Logo, desnecessário o enfrentamento direto de todas as questões deduzidas pela parte, quando as razões de decidir já são suficientes para manter o julgado.
+Citam-se precedentes (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. TRÁFICO DE DROGAS. ALEGAÇÃO DE OMISSÃO DA CORTE A QUO. NÃO CONFIGURADA. PLEITO DE RESTABELECIMENTO DA CONDENAÇÃO. ALEGADA LEGALIDADE DAS BUSCAS PESSOAL E VEICULAR. AUSÊNCIA DE CONTEXTO PRÉVIO DE FUNDADAS SUSPEITAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No que concerne à alegada omissão do Tribunal de origem acerca de matéria ventilada nos embargos de declaração, como é cediço, o mencionado recurso tem a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619, do Código de Processo Penal, não se prestando à revisão dos julgados no caso de mero inconformismo da parte. Precedentes.
+3. No caso ora apreciado, não há falar em omissão, uma vez que a matéria tida por omissa foi satisfatoriamente apreciada pela Corte local, que, no julgamento do apelo e dos aclaratórios, examinou as teses ministeriais com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia.
+4. Ademais, este Superior Tribunal possui entendimento consolidado no sentido de que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir. Precedentes.
+ ..
+13. Agravo regimental não provido.
+(AgRg no AREsp n. 2.478.214/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. OPERAÇÃO CARDUME. OMISSÃO. CONTRADIÇÃO. MATÉRIA ANALISADA. DECISÃO FUNDAMENTADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. CONTEMPORANEIDADE. JUÍZO DE NECESSIDADE E ADEQUAÇÃO DA MEDIDA. PRECEDENTES.
+I - Os embargos de declaração possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada ou, ainda, erro material a ser corrigido na decisão impugnada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+II - No caso, a matéria foi apreciada pela Quinta Turma do Superior Tribunal de Justiça de forma exauriente e nos estritos limites de cognição do habeas corpus. Isso porque, a partir dos elementos dos autos e na estrita observância dos limites da via eleita, o órgão colegiado entendeu que a prisão cautelar estava devidamente fundamentada.
+III - A contemporaneidade não se restringe ao tempo da consumação do crime, mas à avaliação da necessidade e adequação da medida ao momento de sua decretação, ainda que a conduta tenha sido praticada em período passado. Precedentes.
+IV - A contradição que autoriza a interposição dos embargos de declaração é interna do julgado, entre os fundamentos e as respectivas conclusões. Precedentes.
+V - O julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir, de modo que o fato de não haver expressa abordagem de cada alegação não indica, por si só, omissão ou contradição no acórdão. Precedentes.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RHC n. 161.337/CE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024.)
+Ante o exposto, voto pelo desprovimento do agravo regimental.
