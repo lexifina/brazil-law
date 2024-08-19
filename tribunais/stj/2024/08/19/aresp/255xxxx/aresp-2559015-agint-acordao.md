@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. COMPETÊNCIA. RECONHECIDA COM FUNDAMENTO NO REGIMENTO INTERNO. INCIDÊNCIA DA SÚMULA 280/STF. COISA JULGADA. PRECLUSÃO. NÃO OCORRÊNCIA. APLICAÇÃO DA SÚMULA 7/STJ. PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. O exame de normas de caráter local é impossível na via do recurso especial, em virtude da vedação prevista na Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+3. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282 e 356/STF.
+4. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LEONILA SANTOS DA SILVA contra decisão monocrática desta relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar provimento, assim ementada (e-STJ, fl. 318):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. COMPETÊNCIA. RECONHECIDA COM FUNDAMENTO NO REGIMENTO INTERNO. INCIDÊNCIA DA SÚMULA 280/STF. COISA JULGADA. PRECLUSÃO. NÃO OCORRÊNCIA. APLICAÇÃODA SÚMULA7/STJ. PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A agravante, em suas razões (e-STJ, fls. 328-334), sustenta a existência de omissão no acórdão recorrido, pois "o presente caso sendo de responsabilidade civil e não direito privado não especificado, e isso não tendo sido enfrentado, há clara omissão" (e-STJ, fl. 328).
+Defende que a competência em razão da matéria, e pela prevenção, é absoluta, acrescentando que é evidente o prequestionamento, bem como o afastamento das Súmulas 282 e 356/STF e 211/STJ.
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Foi apresentada impugnação (e-STJ, fls. 343-344).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. COMPETÊNCIA. RECONHECIDA COM FUNDAMENTO NO REGIMENTO INTERNO. INCIDÊNCIA DA SÚMULA 280/STF. COISA JULGADA. PRECLUSÃO. NÃO OCORRÊNCIA. APLICAÇÃO DA SÚMULA 7/STJ. PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. O exame de normas de caráter local é impossível na via do recurso especial, em virtude da vedação prevista na Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+3. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial - Súmulas n. 282 e 356/STF.
+4. Agravo interno improvido.
+VOTO
+Os argumentos da agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o Tribunal estadual resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Destaque-se, nesse sentido, o seguinte excerto (e-STJ, fl. 174 - sem destaque no original):
+A título de informação, a competência desta Câmara está prevista no Regimento Interno do TJ/RS, estando a demanda dentro da competência do Direito Privado não especificado:
+VII - às Câmaras integrantes do 6º Grupo Cível (11ª e 12ª Câmaras Cíveis):a) transporte; b) responsabilidade civil em acidente de trânsito; c) negócios jurídicos bancários.§ 2º Os feitos referentes ao Direito Privado não especificados nos incisos IV a X serão distribuídos a todas as Câmaras integrantes dos 6º, 8º, 9º e 10º Grupos Cíveis, observada, mensalmente, através de compensação, a igualdade de processos distribuídos entre os Desembargadores pertencentes àqueles órgãos fracionários.
+Em seguimento, refiro que os embargos de declaração têm como objetivo esclarecer obscuridade ou eliminar contradição, assim como suprir omissão de ponto ou questão sobre o qual deveria o julgador se manifestar, além de corrigir eventual erro material, consoante se verifica das expressas hipóteses trazidas nos incisos do art. 1.022 do CPC.
+Na espécie, completamente inviável rediscutir a competência para julgamento da lide, uma vez que ficou claro nos autos que há determinação no Regimento Interno do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Ademais, a questão controvertida dos autos (competência para julgamento da lide) perpassa pela análise de lei local - dispositivo do Regimento Interno do TJRS -, pelo que é de rigor a incidência da Súmula 280/STF.
+Ainda sobre o mérito, o Tribunal de origem decidiu que (e-STJ, fl. 115 - sem destaque no original):
+De início, verifico que a decisão colegiada proferida no julgamento da apelação n.º70071334858 determinou expressamente a liquidação da sentença para apurar o deságio do valor do veículo após a remarcação do motor (processo 5029886-77.2012.8.21.0001/RS, evento 10, DOC7,fls. 8 e 9).
+Aponto, ainda, que a Tabela FIPE expressa preços médios de veículos anunciados no mercado nacional, servindo apenas como um parâmetro para negociações ou avaliações e, neste norte, os preços efetivamente praticados variam em função da região, conservação, cor, acessórios ou qualquer outro fator que possa influenciar as condições de oferta e procura por um veículo específico.
+Por certo que a substituição do motor é um importante fator a ser considerado para apurar o valor do deságio do veículo, visto que a remarcação do motor deve ser registrada junto ao DETRAN.
+De fato, como referido pela agravada, no julgamento dos embargos declaratórios(evento 15, TIT_EXEC_JUD7), desacolhidos em segundo grau, houve breve referência sobre o uso da Tabela FIPE para apurar o valor do veículo, no entanto, essa colocação adicional mostra-se paralela e dispensável para integrar a fundamentação pela qual foi mantido íntegro o acórdão (processo 5029886-77.2012.8.21.0001/RS, evento 10, DOC7, fls. 8 e 9).
+Além disso, mesmo com a obrigatoriedade de liquidação do julgado, nada afasta a possibilidade da Tabela FIPE integrar um dos critérios de avaliação do veículo, porém, não pode ser utilizada de forma exclusiva.
+Isso porque a apuração do valor venal do veículo não depende apenas de simples cálculo aritmético, conforme definido em grau recursal, sendo necessária a liquidação da sentença, nos termos do art. 509, do CPC, para só então, viabilizar o seu cumprimento.
+Dito isso, de rigor a extinção do cumprimento de sentença, diante da iliquidez e inexigibilidade do julgado.
+De outra parte, o acolhimento da pretensão recursal acerca da existência de coisa julgada da matéria atinente à liquidação de sentença demandaria, inegavelmente, a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com a necessidade de revolvimento das provas produzidas, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Além disso, o conteúdo normativo contido nos arts. 18, § 1º, III, e § 4º, do Código de Defesa do Consumidor e 442 do Código Civil não foi objeto de exame pela Câmara julgadora, embora opostos embargos de declaração pela parte recorrente, deixando, portanto, de servir de fundamento à conclusão adotada no acórdão recorrido. Fica desatendido, nessa lógica, o requisito específico de admissibilidade do recurso especial concernente ao prequestionamento, o que atrai o óbice constante na Súmula 211 do Superior Tribunal de Justiça.
+Por fim, a questão pontual acerca da prevenção da 16ª Câmara Cível do TJRS não foi enfrentada pelo órgão julgador, tampouco foi suscitada nos embargos declaratórios opostos. Desatendido, portanto, o prequestionamento, requisito específico e indispensável à admissibilidade do recurso especial, o que atrai o óbice contido nas Súmulas 282 e 356, ambas do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
