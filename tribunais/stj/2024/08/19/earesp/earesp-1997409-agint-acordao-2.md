@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. CONTRARIEDADE A DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. FUNDAMENTAÇÃO.  DEFICIÊNCIA.  ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional.
+3.  Ausente  a  indicação  dos  incisos  e/ou  parágrafos  supostamente  violados  do  artigo  de  lei  apontado,  tem  incidência  a  Súmula  284  do  STF.
+4. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes para a solução do litígio.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRENO DUARTE MONTEIRO e OUTROS contra decisão de minha lavra, proferida às e-STJ fls. 4.081/4.088, em que conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, neguei-lhe provimento em virtude do não cabimento, no tocante à suposta vulneração de dispositivo constitucional, da ausência de declinação precisa de itens e/ou letras de artigo do Pacto de San José da Costa Rica supostamente contrariados (Súmula do 284 do STF), da ausência de negativa de prestação jurisdicional, bem como da aplicação da Súmula 7 do STJ no pertinente ao art. 1º da Lei n. 12.016/2009.
+Aduz a parte agravante que ocorreu a violação reflexa de dispositivo da Constituição Federal, que corretamente apontado o dispositivo da convenção anteriormente aludida, bem como que reiterou os argumentos, lançados no recurso inadmitido, de permanência de vícios decisórios após manejados aclaratórios.
+Requer, assim, a reforma da decisão atacada para que seja provido o recurso especial ou abertura de prazo para adaptação e remessa do apelo ao STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. CONTRARIEDADE A DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. FUNDAMENTAÇÃO.  DEFICIÊNCIA.  ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional.
+3.  Ausente  a  indicação  dos  incisos  e/ou  parágrafos  supostamente  violados  do  artigo  de  lei  apontado,  tem  incidência  a  Súmula  284  do  STF.
+4. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes para a solução do litígio.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+O presente agravo não merece prosperar.
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja , ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+No caso, a parte agravante não impugnou adequadamente a aplicação da Súmula 7 do STJ, razão pela qual o recurso não pode ser conhecido quanto ao tema.
+No mais, consoante anteriormente explicitado, quanto à suposta contrariedade do art. 5º, caput, da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Quanto ao art. 8º do Pacto de San José da Costa Rica, incide in casu o óbice da Súmula 284 do STF, uma vez que não indicados com precisão quais os itens e/ou letras supostamente violados.
+Nesse sentido, confiram-se: AgInt no REsp 1.951.100/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/5/2022, DJe de 11/5/2022; AgInt no AREsp 1.504.650/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/11/2019, DJe de 29/11/2019; AgRg no REsp 1.396.737/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/10/2015, DJe de 13/11/2015.
+No tocante à alegada ofensa aos arts. 489, § 1º, e 1.022, parágrafo único, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, destacou o aresto que rejeitou os declaratórios o seguinte (e-STJ fl. 3.144):
+Por sua vez, esta Corte, à unanimidade, deu provimento à Remessa Necessária para, reformando a sentença, denegar a ordem, ao compreender que os Impetrantes basearam a pretensão somente em uma decisão liminar proferida nos autos do Mandado de Segurança n. 0000963- 67.2011.8.03.0000, que todavia perdeu força com a extinção do processo sem resolução do mérito.
+Nessa esteira, no entender da Corte, os Impetrantes deveriam ter comprovado que tinham direito de serem classificados na 3º Turma à luz do edital de regência do certame (número de vagas, notas para classificação etc), elementos sobre os quais os Impetrantes sequer se dedicaram uma linha de sua petição inicial.
+Por fim, consigne-se que a regra pertinente ao princípio da fungibilidade de que trata o art. 1.032 do CPC/2015 "tem lugar apenas quando o fundamento do acórdão recorrido ostenta cunho exclusivamente constitucional" (AgInt no AREsp n. 1.350.490/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/5/2021, DJe de 11/5/2021).
+Outrossim, "o art. 1. 032, caput, do CPC/2015 não autoriza a conversão, em Recurso Extraordinário, de Recurso Especial que invoque violação de legislação federal e a matéria constitucional ao mesmo tempo, situação que exige interposição simultânea de ambos (AgRg no AREsp 1.515.092/MA, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 8.2.2021)" (AgInt no AREsp n. 1.933.696/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2022, DJe de 17/10/2022.)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO EM PARTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
