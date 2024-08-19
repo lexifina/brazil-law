@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSO CIVIL. AÇÃO RESCISÓRIA. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. PRINCÍPIO DA DIALETICIDADE.
+1. Quando a parte recorrente repete, em novo recurso, a argumentação de recursos anteriores, tão somente esse aspecto não caracteriza ofensa ao princípio da dialeticidade, desde que seja possível extrair do novo recurso fundamentos suficientes que indiquem a efetiva impugnação da decisão recorrida.
+2. Mesmo para fins de prequestionamento, os embargos de declaração são cabíveis apenas quando houver obscuridade, contradição ou omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS ROBERTO DA SILVA contra a decisão de fls. 3.083-3.087, que negou provimento ao agravo em recurso especial.
+Aduz o agravante que houve preclusão pro judicato no tocante ao exercício do juízo de admissibilidade, uma vez que a Presidência do STJ deixou de indicar as Súmulas n. 283 e 284 do STF e 7 e 83 do STJ como óbices ao conhecimento do recurso especial.
+Afirma que a pretensão recursal encontra-se respalda na jurisprudência dominante do STJ, "naquilo que concerne aos fatos e aos temas admitidos e debatidos no acórdão recorrido" (fl. 3.096).
+Sustenta que a decisão agravada apresenta suas razões em apenas três parágrafos, sendo concisa e denotando falta de fundamentação, motivo pelo qual é nula.
+Argumenta que a resilição unilateral do contrato pelo banco contratante, feita já na fase de cumprimento de sentença, e a expressão econômica dos direitos por ele tutelados (na ordem de R$ 300.000.000,00) são incontroversas e atraem o entendimento deste Tribunal de que não mais se aplicam as cláusulas restritivas do contrato resilido, e sim as disposições do CPC ou do Estatuto da OAB.
+Cita diversos precedentes deste Tribunal que, segundo entende, servem de base para a tese defendida na ação rescisória, no sentido de que o arbitramento dos honorários deve observar as regras estabelecidas no Código de Processo Civil atual e no Estatuto da OAB.
+Alega que a simples oposição de embargos declaratórios na origem atende à regra do prequestionamento estabelecida no art. 1.025 do CPC, bem como que suscitou adequadamente a ofensa aos arts. 1.022 e 489 do CPC.
+No que tange ao princípio da segurança jurídica, destaca que veio delineado adequadamente nas razões do recurso especial, mais propriamente no item 4, sendo cabível a propositura de ação rescisória por ofensa a princípios, pois a ideia é de manutenção do ordenamento jurídico.
+Pondera que não cabe a aplicação do óbice da Súmula n. 83 ao trânsito do recurso especial, já que a pretensão recursal assenta-se em que os honorários sejam arbitrados conforme a jurisprudência dominante do STJ.
+Também busca demonstrar violação das disposições do art. 22 da Lei n. 8.906/1994 e os "correlatos dissídios jurisprudenciais", passando a enumerar os itens abordados no recurso especial que comprovam suas assertivas.
+Defende que, em relação à decisão saneadora, a errônea valoração da prova permite a esta Corte revalorar os critérios jurídicos utilizados pelo Tribunal de origem na apreciação dos fatos incontroversos.
+Pugna pelo afastamento da aplicação da Súmula n. 7 do STJ, pois a revisão das conclusões de ordem fática não é necessária ao fim aqui perseguido.
+Requer, ao final, o provimento do presente agravo interno para cassar a decisão agravada a fim de que seja apreciado e provido o recurso especial.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AÇÃO RESCISÓRIA. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. PRINCÍPIO DA DIALETICIDADE.
+1. Quando a parte recorrente repete, em novo recurso, a argumentação de recursos anteriores, tão somente esse aspecto não caracteriza ofensa ao princípio da dialeticidade, desde que seja possível extrair do novo recurso fundamentos suficientes que indiquem a efetiva impugnação da decisão recorrida.
+2. Mesmo para fins de prequestionamento, os embargos de declaração são cabíveis apenas quando houver obscuridade, contradição ou omissão no julgado, nos termos do art. 1.022 do Código de Processo Civil.
+3. Agravo interno desprovido.
+VOTO
+O recurso não pode prosperar.
+Não obstante o arrazoado, observa-se que a parte agravante não apresentou argumentos novos capazes de infirmar a decisão agravada, pois não diferem muito do próprio recurso especial, cuja admissibilidade foi obstada na origem. Embora não seja vedada a repetição, no recurso atual, dos argumentos apresentados nos recursos anteriores, a peça recursal deve atender à dialeticidade, combatendo, de forma específica e direta, as razões de decidir da decisão recorrida, de modo que seja possível depreender do seu texto os motivos para a alteração ou anulação do respectivo ato decisório. E, no caso, isso não se verifica.
+Com relação à ofensa às disposições do art. 1.022 do CPC, registre-se que a oposição dos embargos de declaração, mesmo que tenha por fim prequestionar a matéria, não dispensa que haja algum dos vícios listados no referido dispositivo legal.
+Portanto, "para a configuração do prequestionamento na forma do art. 1.025 do CPC/2015, é necessária não apenas a indicação de contrariedade ao art. 1.022 do mesmo código, mas também o conhecimento da respectiva tese e a configuração de um dos vícios descritos na norma", requisitos que não foram integralmente cumpridos (AgInt nos EDcl no AREsp n. 1.948.597/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024).
+O agravante também afirma que a decisão agravada é nula por conter fundamentos sucintos.
+Contudo, fundamentação suscinta não se confunde com ausência de motivação. A parte recorrente não demonstrou referida ausência, apenas enumerou uma série de questões suscitadas no recurso especial, olvidando-se de que tal recurso não foi admitido diante da não superação dos requisitos imprescindíveis a tal desiderato. Ademais, não é por serem prolixas as razões recursais que a decisão judicial deve seguir do mesmo modo.
+De resto, as impugnações da parte recorrente referem-se ao próprio mérito do recurso especial, ou seja, trata-se de impugnação direta aos termos do acórdão do TJSP, cujos fundamentos, para serem revistos, não dispensam que seja ultrapassada a barreira da admissibilidade, o que não ocorreu.
+Portanto, a decisão ora agravada permanece hígida por seus próprios fundamentos, assim expressos (fl. 3.086):
+3.1. No tocante à alegação de coisa julgada, e preclusão pro iudicato, verifica-se que os fundamentos do Tribunal de origem, destacados acima, em negrito, autônomos e suficientes para a manutenção do acórdão recorrido, não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão, o que denota a deficiência da fundamentação recursal, que se apegou a considerações meritórias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3.2. Esta Corte possui firme o entendimento no sentido de que: "O julgamento de procedência de ação rescisória fundada no art. 485, V, do CPC/73, diante de sua excepcionalidade, pressupõe que a decisão rescindenda tenha sido proferida mediante ofensa à literalidade da regra tida por violada, o que significa dizer ela que seja ela direta e de tal modo teratológica que consubstancie o desprezo do sistema de normas pela decisão impugnada, vedada a rescindibilidade de decisão que adote uma interpretação possível ou razoável da regra alegadamente violada.".(REsp n. 1.942.682/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/9/2021, DJe de 1/10/2021.). O acórdão recorrido está em consonância com esse entendimento do STJ sobre o tema, incidindo no ponto a Súmula 83 do STJ.
+3.3. Ademais, rever as conclusões do Tribunal a quo acerca da ausência dos requisitos legais para o ajuizamento da ação rescisória, no caso em análise, demandaria o reexame de fatos e provas dos autos, providência que encontra óbice na Súmula 7 desta Corte Superior.
+Nesse sentido: (AgInt no AREsp n. 1.721.288/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022.); (AgInt no AgInt no AREsp n. 1.846.587/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/9/2021, DJe de 8/10/2021.).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
