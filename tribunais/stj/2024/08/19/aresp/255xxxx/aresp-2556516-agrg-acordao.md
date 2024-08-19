@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+O SENHOR MINISTRO ROGE RIO SCHIETTI CRUZ :
+ALISSON VIEIRA GOMES grava da decisão proferida pela Presidência dessa corte, que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182 do STJ.
+Neste regimental, a defesa repisa os argumentos apresentados no especial e postula "o reconhecimento da minorante da tentativa em seu patamar máximo" (fl. 610).
+Requer a reconsideração do decisum agravado ou a submissão do feito ao órgão colegiado, para que seja dado integral provimento ao recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Verificado que o agravante se restringiu a reiterar as razões do recurso especial, sem impugnar todos os fundamentos da decisão agravada, incide o enunciado sumular n. 182 do STJ.
+2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+3. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos aduzidos pelo agravante, deve a decisão ser mantida.
+No caso vertente, na decisão por meio da qual não se conheceu do agravo em recurso especial, consignei o seguinte (fls. 598-600):
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelo seguinte motivo (fls. 517-518):
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária, consoante determina o artigo 1.029 do Código de Processo Civil1, o que afasta a possibilidade da sua admissão, pois não foram devidamente infirmados os argumentos do aresto.
+O E. Superior Tribunal de Justiça, considerando a importância desse requisito formal, assinalou que: " (..) Verifica-se deficiência nafundamentação do recurso especial, a atrair o óbice do Enunciado n. 284 daSúmula do STF, pois o recorrente não demonstrou de maneira específica as razões de sua insurgência(..)."2.
+Nem mesmo com base na alínea "c" do permissivo constitucional a insurgência pode ser admitida, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+O Diploma Processual Civil, no artigo 1.029, § 1º, bem como o RISTJ, em seu artigo 255, § 1º, dispõem que: "Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.".
+Pertinente a decisão proferida perante o STJ de que "(..)3. No recurso especial fundado na alínea "c" do permissivo constitucional, deve a parte recorrente realizar o necessário cotejo analítico entre o acórdão recorrido e os colacionados, a fim de demonstrar a similitude fáticae a adoção de teses divergentes, sendo insuficiente a mera transcrição deementas. 4. Ademais, o recorrente deve provar o dissenso por meio de certidão, cópia autenticada ou pela citação do repositório, oficial ou credenciado, em que tiver sido publicada a decisão divergente, o que não foi feito nahipótese dos autos.".3
+Por fim, incide ao caso a Súmula nº 7 do STJ, que dispõe:"A pretensão de simples reexame de prova não enseja recurso especial", ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+A propósito, decidiu o Colendo Superior Tribunal deJustiça, no AgRg no AREsp 593109/MT, Rel. Ministro Antonio Saldanha Palheiro, julgado em 23/11/2021, DJe 26/11/21, que: "(..) para afastar as conclusões alcançadas pelas instâncias ordinárias, soberanas na análise do acervo fático-probatório, imperioso seria o reexame de fatos e provas, providência vedada na via eleita, tendo em vista a redação do enunciado n. 7 da Súmula desta Casa."4
+A defesa, contudo, não rebateu os fundamentos da inadmissão do especial.
+Assim, era imperioso que se demonstrasse, com particularidade, que: i) o recurso fora adequadamente fundamentado, com indicações das razões defensivas e o dessacerto do acórdão coator; ii) o cotejo dos dissídios jurisprudenciais teriam sido feitos a contento; e iii) a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Contra essa decisão, a defesa interpôs o agravo regimental, ocasião em que apenas repisou os fundamentos do recurso especial.
+O agravante, entretanto, apenas manifestou seu inconformismo com a decisão agravada, sem demonstrar de forma pormenorizada que: i) o recurso fora adequadamente fundamentado, com indicações das razões defensivas e o dessacerto do acórdão coator; ii) o cotejo dos dissídios jurisprudenciais teriam sido feitos a contento; e iii) a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Desse modo, incide, por analogia, o enunciado na Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+  AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. CONCURSO DE PESSOAS. CORRUPÇÃO DE MENOR. RÉU MULTIRREINCIDENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. FALTA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. RECURSO NÃO CONHECIDO.
+1. É assente neste Sodalício que não se conhece do agravo regimental que não tenha atacado, especificamente, os fundamentos da decisão agravada, conforme inteligência da Súmula n. 182/STJ. Precedente.
+2. Na espécie, a decisão agravada manteve afastado o princípio da insignificância, uma vez que, apesar do ínfimo valor do bem subtraído, o agravante é multirreincidente específico e o furto qualificado contou com a participação de um adolescente, fato que resultou a condenação do réu também pelo crime de corrupção de menor, em concurso formal, situação suficiente para excluir o vetor atinente ao "reduzidíssimo grau de reprovabilidade do comportamento".
+3. No agravo regimental, a defesa não se ateve à obrigação de refutar todos fundamentos da decisão agravada. Nada trouxe para tentar demonstrar a compatibilidade entre a causa supralegal de exclusão da tipicidade e o caso concreto, que, como frisado, envolve a inserção de pessoa menor de 18 (dezoito) anos no submundo do crime.
+4. Evidenciado que o agravante não rebateu todos os motivos assentados no provimento hostilizado, conclui-se que o regimental, por corolário, não merece conhecimento.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.665.481/RO, Rel. Ministro Jorge Mussi, 5ª T., DJe 17/6/2020, destaquei)
+Com efeito, o princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada.
+Como bem assentado pelo Ministro Luiz Fux, no julgamento do AgRg no ARE n. 664.044/MG, pela Primeira Turma da Excelsa Corte, "Vige em nosso ordenamento o Princípio da Dialeticidade, segundo o qual todo recurso deve ser formulado por meio de petição na qual a parte, não apenas manifeste a sua inconformidade com ato judicial impugnado, mas, também e necessariamente, indique os motivos de fato e de direito pelos quais requer o novo julgamento da questão nele cogitada" (DJe 27/3/2012).
+Ademais, nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundam entos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp n. 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+À vista do exposto, não conheço do agravo regimental .
