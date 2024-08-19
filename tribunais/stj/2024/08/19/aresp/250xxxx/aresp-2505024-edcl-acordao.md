@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO DE ÁREA RURAL. VERIFICAÇÃO DOS PRESSUPOSTOS PARA A PRESCRIÇÃO AQUISITIVA. QUESTÃO SOLUCIONADA A PARTIR DA ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que rever a conclusão do acórdão recorrido quanto à presença, ou não, dos requisitos da ação de usucapião intentada na origem demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado nesta sede excepcional, ante o óbice da Súmula nº 7 do STJ.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por VICENTE PAULO DE SANTANA e GENETE SOARES BEZERRA DE SANTANA (VICENTE e outra), contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO DE ÁREA RURAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. VERIFICAÇÃO DOS PRESSUPOSTOS PARA A PRESCRIÇÃO AQUISITIVA. QUESTÃO SOLUCIONADA A PARTIR DA ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. Rever a conclusão do acórdão recorrido quanto à presença, ou não, dos requisitos da ação de usucapião intentada na origem demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado nesta sede excepcional, ante o óbice da Súmula nº 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+Nas razões do presente inconformismo, defenderam a existência de omissão do julgado acerca da possibilidade de contagem do tempo de tramitação do processo para efeito de reconhecimento da usucapião.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO DE ÁREA RURAL. VERIFICAÇÃO DOS PRESSUPOSTOS PARA A PRESCRIÇÃO AQUISITIVA. QUESTÃO SOLUCIONADA A PARTIR DA ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado combatido, bem como corrigir erro material.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que rever a conclusão do acórdão recorrido quanto à presença, ou não, dos requisitos da ação de usucapião intentada na origem demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado nesta sede excepcional, ante o óbice da Súmula nº 7 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões deste aclaratório, VICENTE e outra alegaram, em síntese, a existência de omissão do julgado acerca da possibilidade de contagem do tempo de tramitação do processo para efeito de reconhecimento da usucapião.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que, no caso, rever a conclusão do acórdão recorrido quanto à presença, ou não, dos requisitos da ação de usucapião intentada na origem demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado nesta sede excepcional, ante o óbice da Súmula nº 7 do STJ.
+Isso, inclusive, é o que se denota dos seguintes trechos do voto proferido no julgamento do agravo interno, a saber:
+Em cenário de mérito, constata-se que o presente feito, apesar de ter sido ajuizado apenas em 2012, levanta discussões que remontam a 1986 - momento no qual transitava o inventário dos bens deixados por Alberto Inácio de Souza, pai de todos os apelantes, e ex-convivente da meeira Valdomira Pimenta.
+À época, mais precisamente em 28.4.1986 (f. 41-TJ), Jair Inácio de Souza, Sebastião Inácio de Souza e Maria Nanuty Souza Alves, três dos herdeiros legítimos, cederam parte dos seus direitos hereditários - correspondentes a 10 alq. da "Fazenda Harmonia", matrícula 6.586 do Livro 2 do 1º Serviço de Registro de Imóveis de Uberlândia - a José Geraldo de Castro Alves (esse negócio jurídico também será abordado mais à frente).
+Em 9.5.1997, por meio de um instrumento particular (f. 168 a 171-TJ), José Geraldo prometeu a venda do mesmo imóvel aos ora apelados. Porém, em 7.2.2008 e ainda na pendência de encerramento do inventário, as partes optaram por fazer uma "escritura pública de cessão de direitos hereditários" (f. 31 e 32-TJ).
+Vale dizer: a promessa de compra e venda do imóvel transmudou-se em nova cessão: José Geraldo, que os detinha desde 1986, repassou os direitos aos ora apelados. É esse o cenário em que se pleiteia a usucapião - mas também, curiosamente, aborda-se uma aquisição derivada do bem.
+Então, desde logo, dois fatos são importantíssimos: além de a (primeira) cessão de direitos hereditários, em 1986, ter sido anulada por este Tribunal de Justiça, o que não é contestado pelos apelados, os cedentes sequer herdaram glebas de terra da "Fazenda Harmonia". A partilha deixa claro isso (f. 1.120 a 1.126-TJ).
+Essa fazenda ficou com a sra. Valdomira Pimenta, meeira de Alberto Inácio de Souza. Posteriormente, com o falecimento dessa, dois dos "cedentes" renunciaram à herança a que teriam direito (f. 671-TJ) e Maria Nanuty Souza nem mesmo era herdeira. Ou seja, há um duplo empecilho para que a cessão produza seus efeitos em relação a José Geraldo.
+Dito isso, também não há que se vislumbrar eventual validade da promessa de compra e venda, em 1997, nem da (segunda) cessão, em 2008: José Geraldo não detinha a propriedade do que, primeiro, vendeu e, depois, cedeu.
+Entretanto, toda essa negociação para a aquisição derivada pode ser desconsiderada: afinal, eles teriam o bem por tempo suficiente para adquirir originariamente os 10 alq., afinal, apesar de todos esses fatos, propuseram ação de usucapião.
+Avançando.
+Os apelados tomaram posse do bem em 9.5.1997 (f. 168 a 171-TJ) e a ação foi distribuída em 11.1.2012. Vale dizer: não foi alcançado o tempo para a usucapião extraordinária (15 anos) e, como não detinham justo título (conforme dito acima, os títulos de cessão da posse foram invalidados), pode-se desconsiderar a ordinária (10 anos).
+Nada obstante, apesar de alegarem o contrário para defenderem a soma do período da posse de José Geraldo, houve uma ação contra esse (0702.97.013843-5) e isso marca indelevelmente a posse como litigiosa.
+Logo, não há, em tese, nada que juridicamente impeça os apelantes de tomarem posse dos 10 alq. em discussão neste feito. A discussão de eventuais perdas e danos ou retenção por benfeitorias deve ser examinada em ação própria, observado o devido processo legal (e-STJ, fls. 1.226/1.227).
+Cumpre assinalar que, embora a jurisprudência desta Corte admita que o prazo, na ação de usucapião, pode ser completado no curso do processo (REsp nº 1.361.226/MG, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 5/6/2018, DJe de 9/8/2018), este entendimento só se aplica se esse for o único requisito faltante ao reconhecimento da prescrição aquisitiva no momento da propositura da ação, ou seja, desde que tenham sido atendidos todos os outros pressupostos necessários à obtenção de decisão favorável no feito, o que não se verifica no caso em apreço, ante o reconhecimento pelo Tribunal estadual de que houve oposição à posse, bem como em relação aos efeitos decorrentes das cessões de direitos hereditários realizadas.
+Assim, vale lembrar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.524.835/SE, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 17/2/2020, DJe de 19/2/2020 - sem destaque no original).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.427.815/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado aos 17/2/2020, DJe de 20/2/2020 - sem destaques no original).
+Dessa forma, mantém-se o acórdão embargado, porque não há motivos para a sua alteração.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
