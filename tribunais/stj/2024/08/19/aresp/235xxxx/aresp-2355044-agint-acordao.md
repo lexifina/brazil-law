@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. O entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido de ser possível suspender a ação individual enquanto pendente de julgamento a ação civil pública sobre a mesma matéria, incidindo a Súmula n. 83/STJ.
+3 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 317/321) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega ser inaplicável a Súmula n. 83 do STJ, argumentando que "a r. decisão agravada consignou que o Recurso Especial não poderia ser conhecido, pois o entendimento utilizado pelo TJSP estaria em consonância com o entendimento desta Corte  ..  todavia, data máxima vênia, tal assertiva não se coaduna com a realidade, uma vez que o Tribunal local já entendeu que a suspensão do trâmite processual não pode superar o prazo legal de 1 (um) ano previsto no art. 313, § 4º do CPC" (e-STJ fl. 319).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foi aberta vista para impugnação ao agravo interno, uma vez que as partes agravadas estão sem representação nos autos (e-STJ fl. 322).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. O entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido de ser possível suspender a ação individual enquanto pendente de julgamento a ação civil pública sobre a mesma matéria, incidindo a Súmula n. 83/STJ.
+3 . Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 310/313):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 489, § 1º, do CPC/2015 e (b) ausência de ofensa aos artigos de lei apontados (e-STJ fls. 255/257).
+O acórdão recorrido está assim ementado (e-STJ fl. 210):
+Agravo de Instrumento. Despejo. Ação tendo por objeto terreno situado em loteamento irregular. Anterior ação civil pública visando a regularização do loteamento. Decisão proferida na ação civil pública determinando a suspensão de todas as ações de despejo envolvendo a loteadora. Suspensão da presente ação que se impõe. Precedentes desta Corte. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 220/225).
+Nas razões do recurso especial (e-STJ fls. 227/250), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 489, § 1º, IV, do CPC/2015, pois "o v. acórdão deixou de observar os argumentos apresentados pela recorrente relativo ao mérito do recurso interposto bem como ao fato de que o bem litigioso estaria dentro de uma cláusula excludente do acordo da Ação Civil Pública de nº 0003769-81.2000.8.26.0045" (e-STJ fl. 230),
+(ii) art. 313, § 4º, do CPC/2015, "em que pese não acolhida a irresignação da recorrente, não fora observado que o prazo de suspensão do processo nunca poderá exceder 1 (um) ano" (e-STJ fl. 230).
+Não foram oferecidas contrarrazões (e-STJ fl. 254).
+No agravo (e-STJ fls. 260/282), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 284).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ fls. 306/307).
+É o relatório.
+Decido.
+Verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em ofensa ao art. 489, § 1º, IV, do CPC/2015, pois, conforme o entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/6/2016, DJe 21/6/2016).
+Conforme as razões do acórdão, o TJSP consignou que "a decisão proferida na ação civil pública, que determinou a suspensão de todas as ações de despejo envolvendo a Agravante, apontou exatamente a dificuldade de definir quem são os beneficiários deste acordo, sem que se possa excluir do acordo o lote discutido nesta demanda. Além disto, a princípio não se extrai dos itens mencionados nas razões do agravo que o acordo não beneficia os Réus nesta ação. Acresceu que não é admissível a discussão sobre o conteúdo da decisão proferida na ação civil pública neste feito. Portanto, deve ser mantida a decisão que suspendeu a ação de despejo". O colegiado concluiu ainda que (e-STJ fls. 213/215):
+Neste sentido já decidiu esta Corte, em ações movidas contra a Agravante: "Ação de despejo por falta de pagamento cumulada com cobrança. Litígio envolvendo terreno situado em loteamento urbano irregular. Decisão proferida em ação civil pública determinando a suspensão de todas as ações que digam respeito a disputa de imóveis localizados na mesma região. Submissão do processo de despejo à referida ordem de suspensão. Reconhecimento. Decisão mantida. Agravo desprovido." (Agravo de Instrumento nº 2232408-60.2022.8.26.0000, relator Desembargador Andrade Neto, j. em 06/10/2022.)
+"LOCAÇÃO. Despejo por falta de pagamento e cobrança. Suspensão do processo em consonância com o decidido na ação civil pública nº 0003769-81.2000.8.26.0045, envolvendo a locadora e o loteamento onde situado o imóvel locado. Alegação de que o lote não está abarcado pela ação civil pública. Ausência de elementos que autorizam com a necessária segurança a adoção de tal entendimento. Precedente desta Câmara. Agravo de instrumento não provido."(Agravo de Instrumento nº 2233151-70.2022.8.26.0000, relator Desembargador Sá Duarte, j. em 04/10/2022).
+O entendimento de que a tramitação de ação civil púbica suspende a ação individual está de acordo com a jurisprudência desta Corte Superior.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SUSPENSÃO DO FEITO EM RAZÃO DE AÇÃO CIVIL PÚBLICA. POSSIBILIDADE. SÚMULA 83/STJ.
+1. Não se conhece do recurso especial quando a deficiência de sua fundamentação impedir a exata compreensão da controvérsia (Súmula 284 do STF).
+2. O entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido de ser possível suspender a ação individual enquanto pendente de julgamento a ação civil pública sobre a mesma matéria, incidindo a Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.228.978/AL, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Desse modo, como a orientação adotada no acórdão recorrido está em conformidade com jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+A Corte de origem entendeu que "conforme acordo firmado como Ministério Público em 02/12/2008 na ação civil pública, a Imobiliária Continental ficou impedida de comercializar e alugar os lotes até o registro do loteamento" (e-STJ fl. 222). A respeito de tais razões de decidir, a parte o recorrente não se manifestou, limitando-se a alegar que o prazo de suspensão seria de um ano, conforme consta em duas razões (e-STJ fl. 249):
+No mais, quanto à violação do mencionado §4º do artigo 313 do Diploma Processual Civil, podemos verificar que o legislador estabeleceu que a suspensão de um processo não poderá exceder um ano. A lei está clara nesse sentido, de que pode sim ocorrer suspensão processual, mas a mesma deverá limitar-se pelo período de um ano.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, há o impedimento da Súmula n. 283/STF.
+Além disso, a respeito da ofensa ao art. 313, § 4º, do CPC, verifico que o Tribunal local não emitiu pronunciamento a respeito do seu conteúdo ao julgar os embargos de declaração, e, apesar disso, a parte recorrente não interpôs recurso especial indicando ofensa ao art. 1.022 do CPC.
+Nessa esteira, para que se configure o prequestionamento a respeito de matéria ventilada em recurso especial, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por violado, a fim de que se possa, na instância especial, abrir discussão sobre a questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. O requisito, todavia, não está presente nestes autos.
+Com efeito, o Superior Tribunal de Justiça adota o entendimento de que não se reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, necessária a interposição de recurso especial por ofensa ao art. 1.022 do CPC de 2015, sob pena de manter-se o óbice da ausência de prequestionamento. Incide, portanto, quanto ao ponto, o óbice da Súmula 211 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Como visto, a decisão recorrida não destoa da jurisprudência desta Corte, no sentido de " ser possível suspender a ação individual enquanto pendente de julgamento a ação civil pública sobre a mesma matéria, incidindo a Súmula 83/STJ" (AgInt no AREsp n. 2.228.978/AL, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+O entendimento do Tribunal de origem está de acordo com a jurisprudência do Superior Tribunal de Justiça, atraindo, desse modo, a Súmula n. 83 desta Corte: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Por fim, não houve impugnação quanto aos demais pontos da decisão ora recorrida, operando-se a preclusão.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
