@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+1. Segundo entendimento deste STJ, para superar as conclusões alcançadas na origem, em relação ao pedido de unificação de penas pela continuidade delitiva, e chegar às pretensões apresentadas pela parte é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta instância.
+2. Agravo regimental não provido.
+RELATÓRIO
+Cuida -se de agravo regimental interposto por JOSE ALVES INOSHITA JUNIOR contra decisão, proferida pela Presidência, que indeferiu liminarmente o habeas corpus (e-STJ fls. 95/98).
+Nas razões do presente recurso, o agravante alega, em síntese, que: a) "o fato de o habeas corpus não ter sido submetido a julgamento colegiado solapou duramente o direito de defesa do agravante" (e-STJ fl. 106); b) "a análise do pedido não demandaria reexame de provas" (e-STJ fl. 107); c) "o apenado foi responsabilizado pelos diversos delitos após satisfatória investigação criminal realizada pela Polícia Civil da cidade de Itupeva/SP, que deu conta do seu envolvimento, junto com outros agentes, em diversos crimes da mesma natureza, num curto intervalo de tempo e com o mesmo modus operandi , denominando-se o grupo, inclusive, como "Quadrilha do Terror"" (e-STJ fl. 107); e d) "para além da nomenclatura técnica prevista no Código Penal, é evidente que o agravante e os demais agentes praticaram crimes em continuidade delitiva, na literalidade da expressão" (e-STJ fl. 112)
+Por isso, requer a reconsideração da decisão agravada e/ou o provimento do agravo regimental a fim de conceder a ordem, "reconhecendo-se a figura da continuidade delitiva" (e-STJ fl. 113).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 134/140) e o Ministério Público do Estado de São Paulo não apresentou contrarrazões (e-STJ fl. ).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+1. Segundo entendimento deste STJ, para superar as conclusões alcançadas na origem, em relação ao pedido de unificação de penas pela continuidade delitiva, e chegar às pretensões apresentadas pela parte é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta instância.
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 95/97):
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Na situação retratada nestes autos, houve a prática dos crimes, conforme transcrição da decisão monocrática transcrita acima.
+Com efeito, realizados em datas bastante diversas, revelando-se cada delito um acontecer isolado, não houve qualquer ligação entre eles, não se continuando a primeira conduta na segunda, pois, a oportunidade para a prática de um crime e outro, apareceram em situações estanques, em que uma nada beneficiou a posterior. Assim, os motivos podem ter sido assemelhados: a cupidez do ganho fácil, a audácia do agente, o destemor à lei, porém, motivos reiterados, feitos nascer em oportunidades diversas e, portanto, descontínuos como os crimes que geraram. Assim, não se poderia reconhecer o crime continuado.
+Aliás, não é porque praticado um primeiro delito, que a audácia e temibilidade dos agentes ao realizar outros, em oportunidades e locais diferentes, contra vítimas distintas, devam ser agraciadas com redução das penas sucessivas, numa espécie de prêmio pelas condutas criminosas, somente porque o desprezo à letra da lei e à tranquilidade das pessoas os impulsionou na censurável atividade.
+Assim, correta a decisão agravada. Somente o fato de se cuidarem de crimes da mesma espécie, não permite verificar a hipótese de continuidade delitiva entre os delitos (fls. 57-59).
+A jurisprudência desta Corte Superior sedimentou que, com base na teoria objetivo-subjetiva ou mista, o reconhecimento da continuidade delitiva demanda, além do preenchimento dos requisitos objetivos, o preenchimento do requisito da unidade de desígnios na prática dos delitos (AgRg no HC n. 817.798/RS, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 25/10/2023; AgRg no HC n. 854.096/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/9/2023; AgRg no HC n. 787.656/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 31/3/2023; AgRg no HC n. 748.279/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17/2/2023).
+Nessa linha, o entendimento do Tribunal de origem está em conformidade com a jurisprudência do STJ.
+Além disso, também há o entendimento firmado de que reforma do julgado de origem, para fim de reconhecimento da continuidade delitiva, demandaria reexame do conjunto fático-probatório, providência que é incabível na via estreita do habeas corpus.
+(..)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Reforço que, segundo entendimento desta Corte, para superar as conclusões alcançadas na origem, em relação ao pedido de unificação de penas pela continuidade delitiva, e chegar às pretensões apresentadas pela parte é imprescindível a reanálise do acervo fático-probatório dos autos, o que impede a atuação excepcional desta instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. CONTINUIDADE DELITIVA. INAPLICABILIDADE. AUSÊNCIA DE UNIDADE DE DESÍGNIO ENTRE OS CRIMES. RECURSO IMPROVIDO.
+1- Não houve um desdobramento do crime que levou ao cometimento de outros delitos. Quando a Corte local negou ao paciente a continuidade delitiva, levou em conta que o réu praticara um total de seis assaltos à mão armada, entre duas farmácias, em um bairro de Joinville/SC; no entanto, ausente a unidade de desígnios, ou seja, não comprovados os requisitos objetivo e subjetivo. 2. Agravo regimental improvido. (AgRg no HC n. 696.499/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/5/2022, DJe de 13/5/2022.).
+2- No presente caso, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova para afastar a aplicação continuidade delitiva entre os crimes de roubo, em razão da habitualidade delitiva. Dessa forma, rever tais fundamentos, para concluir pela unificação das penas, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ. 4. Agravo regimental não provido (AgRg no AREsp 1.848.885/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 18/5/2021, DJe 24/5/2021).
+3- No caso, da narrativa dos delitos acima, percebe-se claramente que, embora semelhantes as ações em vários aspectos, há muitos fatores diferentes, como a forma de violência empregada nos roubos e a quantidade de vítimas. E, sobretudo, não houve nexo de continuidade entre os crimes. Em outras palavras, não há comprovação de que os delitos tenham tido uma ligação subjetiva (unidade de desígnios), de modo que um aconteceria independentemente do outro.
+4- No mais, o reconhecimento injustificado e aleatório da continuidade delitiva implica encorajar os indivíduos que fazem do crime seu meio de vida, pois os faz crer que a prática reiterada e habitual de delitos pode ser premiada com a punição mais branda.
+5- Agravo Regimental não provido.
+(AgRg no HC 872.336/SP, relator o Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 06/02/2024, DJe de 14/02/2024, grifos acrescidos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO. CONTINUIDADE DELITIVA. ART. 71 DO CÓDIGO PENAL - CP. REITERAÇÃO CRIMINOSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para o reconhecimento do crime continuado (art. 71 do Código Penal), adota-se como premissa que determinado agente pratique duas ou mais condutas da mesma espécie em semelhantes condições de tempo, lugar e modus operandi - requisitos objetivos - unidade de desígnios entre os delitos cometidos - requisito subjetivo.
+2. As instâncias ordinárias foram taxativas no afastamento do requisito subjetivo, afirmando que os delitos em discussão foram praticados com desígnios autônomos, a revelar traços que correspondem à reiteração criminosa.
+O habeas corpus revela-se inadequado para alterar esse entendimento, uma vez que tal providência demandaria a análise aprofundada do processo de execução, incompatível com a celeridade e sumariedade do rito.
+3. Esta Corte tem posicionamento consolidado no sentido de não admitir a aplicação do art. 71 do Código Penal ao criminoso habitual. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC 800.623/MS, relator o Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023, grifos acrescidos).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
