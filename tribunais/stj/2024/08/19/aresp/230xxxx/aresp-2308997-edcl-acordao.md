@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ARTIGO  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  VÍCIOS.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  UNIMED  DE  VOLTA  REDONDA  COOPERATIVA  DE  TRABALHO  MÉDICO  ao  acórdão  que  negou  provimento  ao  agravo  interno  conforme  a  seguinte  ementa  (e-STJ  fl.  662):
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.
+1.  O  recurso  especial  é  inadmissível  por  fundamentação  deficiente  quando  deixa  de  indicar  o  dispositivo  de  lei  federal  violado.  Súmula  nº  284/STF.
+2.  Agravo  interno  não  provido."
+Nas  presentes  razões,  a  embargante  requer  esclarecimento  quanto  à  aplicabilidade  da  Súmula  nº  284/STF,  tendo  em  vista  que  a  pretensão  recursal  é  suscitar  divergência  jurisprudencial  do  acórdão  recorrido,  e  não  discutir  afronta  à  norma  federal.
+Requer,  por  fim,  o  conhecimento  e  provimento  dos  embargos  de  declaração.
+Não  houve  impugnação.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ARTIGO  1.022  DO  CÓDIGO  DE  PROCESSO  CIVIL.  VÍCIOS.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  procede  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+O  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  declaratórios  enumerados  no  estatuto  processual:  obscuridade,  contradição,  omissão  ou  erro  material.
+O  julgado  foi  expresso  ao  consignar  a  deficiência  da  fundamentação  recursal,  visto  que  a  recorrente  deixou  de  indicar  precisamente  quais  dispositivos  legais  seriam  objeto  de  dissídio  interpretativo,  atraindo  o  óbice  da  Súmula  nº  284/STF.
+Conforme  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  a  ausência  de  indicação  do  dispositivo  infraconstitucional  supostamente  violado  provoca  a  incidência  da  Súmula  nº  284/STF,  inclusive  para  o  dissídio  jurisprudencial.
+Nesse sentido :
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ART.  932,  PARÁGRAFO  ÚNICO,  DO  CPC/2015.  VÍCIO  SANÁVEL.  PROCURAÇÃO  JUNTADA  AOS  AUTOS.  INTIMAÇÃO  QUE  NÃO  FOI  REALIZADA.  AÇÃO  DE  INDENIZAÇÃO.  VIOLAÇÃO  AO  ART.  1.022  DO  CPC/2015.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  ALEGAÇÃO  DE  QUITAÇÃO  DA  OBRIGAÇÃO.  EXAME  DE  CONTRATOS  E  CLÁUSULAS,  QUE  AFASTARAM  TAL  OCORRÊNCIA.  REVISÃO.  NÃO  CABIMENTO.  APLICAÇÃO  DA  SÚMULA  7/STJ.  IMÓVEL  GRAVADO  COM  USUFRUTO.  PENHORA  DA  NUA-PROPRIEDADE.  POSSIBILIDADE.  PRECEDENTES.  ALEGAÇÃO  DE  DECISÃO  SURPRESA.  MATÉRIA  NÃO  DEBATIDA  NO  ACÓRDÃO  RECORRIDO.  PREQUESTIONAMENTO.  NÃO  OCORRIDO.  SÚMULA  211/STJ.  DISSÍDIO  JURISPRUDENCIAL.  DEFICIÊNCIA.  NÃO  INDICAÇÃO  DO  ARTIGO  DE  LEI  FEDERAL  VIOLADO.  SÚMULA  284/STF.  MULTA  DO  ART.  1.021  DO  CPC/2015.  NÃO  CABIMENTO.  MAJORAÇÃO  DE  HONORÁRIOS  RECURSAIS.  NÃO  ACOLHIMENTO.  AGRAVO  DESPROVIDO.
+1.  O  art.  932,  parágrafo  único,  do  CPC/2015  permite  apenas  o  suprimento  de  vício  formal  sanável,  como  ausência  de  procuração  ou  assinatura,  e  não  a  complementação  das  razões  do  recurso  interposto.
+2.  Não  há  nenhuma  omissão,  carência  de  fundamentação  ou  mesmo  contradição  a  ser  sanada  no  julgamento  da  segunda  instância,  portanto  inexistentes  os  requisitos  para  reconhecimento  de  ofensa  aos  arts.  489  e  1.022  do  CPC.  O  acórdão  dirimiu  a  controvérsia  com  base  em  fundamentação  sólida,  sem  tais  vícios,  tendo  apenas  resolvido  a  celeuma  em  sentido  contrário  ao  postulado  pelo  insurgente.
+3.  Não  havendo  manifestação  do  Tribunal  de  origem  acerca  do  conteúdo  normativo  dos  dispositivos  legais  tidos  por  violados  no  apelo  especial,  a  despeito  da  oposição  de  embargos  de  declaração,  revela-se  inadmissível  o  processamento  do  recurso  especial,  tendo  em  vista  a  falta  de  prequestionamento  (Súmula  211/STJ).
+4.  Observa-se  que  -  diante  das  peculiaridades  do  caso,  já  que  a  formação  do  convencimento  e  o  resultado  aplicado  à  lide  decorreram  da  interpretação  do  negócio  jurídico  estabelecido,  e  não  apenas  da  análise  dos  valores  da  contratação  -  a  decisão  ocorreu  no  contexto  do  conjunto  fático-probatório  deste  processo,  não  devendo  merecer  conhecimento  pela  aplicação  da  Súmula  n.  7/STJ.
+5.  Considerando  que  constam  do  recurso  argumentações  carentes  da  devida  indicação  do  dispositivo  infraconstitucional  supostamente  violado,  de  rigor  a  incidência  da  Súmula  284  do  Supremo  Tribunal  Federal,  inclusive  para  o  dissídio  jurisprudencial.
+6.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  não  admite  a  majoração  de  honorários  de  sucumbência  por  ocasião  do  julgamento  de  agravo  interno,  tendo  em  vista  que  a  interposição  do  mencionado  recurso  não  inaugura  nova  instância.
+7.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015  não  é  automática,  porquanto  a  condenação  da  parte  agravante  ao  pagamento  da  aludida  multa  -  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada  -  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  se  verifica  na  hipótese  examinada.
+8.  Não  pode  ser  considerada  como  litigância  de  má-fé  a  interposição  de  recurso  previsto  no  ordenamento  jurídico,  quando  não  ficar  evidenciado  o  seu  intuito  protelatório.  Inaplicabilidade  da  multa  prevista  no  art.  80  do  CPC/2015.
+9.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.327.282/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  17/6/2024,  DJe  de  19/6/2024).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  VERIFICADA.  ADJUDICAÇÃO  COMPULSORIA.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.  FUNDAMENTO.  IMPUGNAÇÃO.  AUSÊNCIA.  ÓBICE  SÚMULA  Nº  283/STF.  MULTA.  ART.  1.021,  §  4º,  DO  CPC.  NÃO  AUTOMÁTICA.
+1.  Ausentes  os  vícios  do  art.  1.022  do  CPC/15,  rejeitam-se  os  embargos  de  declaração.
+2.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  inexiste  a  violação  do  art.  489  do  CPC.
+3.  Inviável  a  análise  de  violação  de  dispositivos  de  lei  não  prequestionados  na  origem,  apesar  da  interposição  de  embargos  de  declaração.  Incide  o  disposto  na  Súmula  nº  211  do  Superior  Tribunal  de  Justiça.
+4.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+5.  Não  há  impropriedade  em  afirmar  a  falta  de  prequestionamento  e  afastar  a  negativa  de  prestação  jurisdicional,  haja  vista  o  julgado  estar  devidamente  fundamentado  sem,  no  entanto,  ter  decidido  a  causa  à  luz  dos  preceitos  jurídicos  suscitados  pelo  recorrente.
+6.  De  acordo  com  a  jurisprudência  deste  Superior  Tribunal,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  CPC/2015,  exige  que  no  mesmo  recurso  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC/2015,  o  que  não  é  o  caso  dos  autos.
+7.  Na  hipótese,  o  tribunal  de  origem  entendeu  pela  procedência  da  adjudicação  compulsória  com  base  nas  circunstâncias  fáticas  dos  autos.  Infirmar  tal  posicionamento,  demandaria  o  reexame  das  provas.Aplicação  do  óbice  da  Súmula  º  7/STJ.
+8.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+9.  A  ausência  de  combate  aos  fundamentos  do  acórdão  recorrido,  suficientes  por  si  só,  para  a  manutenção  do  decidido  acarreta  a  incidência  da  Súmula  n.º  283  do  STF.
+10.  Relativamente  à  multa  prevista  no  art.  1.021,  §  4º,  do  CPC  (art.259,  §  4,  do  RISTJ),  a  Segunda  Seção  decidiu  que  a  aplicação  da  referida  penalidade  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica
+da  rejeição  do  agravo  interno.
+11.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.454.318/PR,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  27/5/2024,  DJe  de  29/5/2024).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
