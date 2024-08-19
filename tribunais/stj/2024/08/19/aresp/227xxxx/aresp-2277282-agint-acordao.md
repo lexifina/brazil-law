@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  REINTEGRAÇÃO  DE  POSSE.  BEM  PÚBLICO.  CONCESSÃO  DE  DIREITO  REAL  DE  USO.  RESCISÃO.  TERMO  ADMINISTRATIVO.  NULIDADE.  INDENIZAÇÃO  POR  ACESSÕES.  MANUTENÇÃO.  ACOLHIMENTO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Para  rever  as  conclusões  firmadas  pelas  instâncias  ordinárias,  a  partir  das  teses  de  que  o  termo  administrativo  é  nulo  e  de  que  não  há  nenhum  motivo  para  se  excluir  a  indenização  pelas  acessões,  seria  necessário  o  revolvimento  dos  aspectos  fático-probatórios  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ASSOCIAÇÃO  DE  PROTEÇÃO  AO  CÃO  DE  ERECHIM-PRO-CÃ  O  ERECHIM  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ  (e-STJ  fls.  583/585).
+Nas  presentes  razões,  a  agravante  aduz  que
+"(..)  dos  trechos  do  acórdão  da  apelação  apresentados  na  decisão  monocrática  recorrida  é  desnecessário  rever  as  conclusões  fáticas,  sendo  pleiteado  no  recurso  especial  o  desrespeito  aos  artigos  166,  IV,  108  e  1225,  XII,  do  Código  Civil,  pois,  não  se  reveste  da  forma  prescrita  em  lei  o  mero  "termo  administrativo"  (instrumento  particular)  para  rescindir  uma  "concessão  de  direito  real  de  uso  de  imóvel  público",  dependendo  de  escritura  pública  para  renúncia.
+(..)
+Diante  disso,  dos  trechos  do  acórdão  da  apelação  apresentados  na  decisão  monocrática  recorrida  é  desnecessário  rever  as  conclusões  fáticas,  sendo  pleiteado  no  recurso  especial  o  desrespeito  aos  artigos  1248  e  1255,  do  Código  Civil,  pois,  apenas  pela  valoração  jurídica  do  consignado  no  acórdão  da  apelação  é  perceptível  que  não  há  previsão  de  exclusão  da  indenização  das  acessões  por  construção  na  lei  municipal  3.768/2004,  mas,  tão  somente,  das  benfeitorias,  institutos  jurídicos  substancialmente  distintos.
+(..)"  (e-STJ  fls.  617/622).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  REINTEGRAÇÃO  DE  POSSE.  BEM  PÚBLICO.  CONCESSÃO  DE  DIREITO  REAL  DE  USO.  RESCISÃO.  TERMO  ADMINISTRATIVO.  NULIDADE.  INDENIZAÇÃO  POR  ACESSÕES.  MANUTENÇÃO.  ACOLHIMENTO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Para  rever  as  conclusões  firmadas  pelas  instâncias  ordinárias,  a  partir  das  teses  de  que  o  termo  administrativo  é  nulo  e  de  que  não  há  nenhum  motivo  para  se  excluir  a  indenização  pelas  acessões,  seria  necessário  o  revolvimento  dos  aspectos  fático-probatórios  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+O  agravo  interno  não  merece  prosperar.
+No  recurso  especial,  a  recorrente  alega  a  violação  dos  artigos  166,  IV,  108,  1.225,  XII,  1.248  e  1.255  do  Código  Civil,  sob  a  tese  de  que  o  mero  termo  administrativo  não  se  reveste  de  forma  prescrita  em  lei  para  rescindir  uma  concessão  de  direito  real  de  uso  de  imóvel  público,  dependendo  de  uma  escritura  pública  para  a  renúncia.
+Além  disso,  sustenta  que  deve  ser  indenizada  pelas  acessões  por  construção,  porque  não  há  previsão  de  exclusão  das  mesmas,  mas,  tão  somente,  das  benfeitorias.
+No  caso,  o  tribunal  de  origem  entendeu  que  o  termo  de  rescisão  amigável  não  contem  qualquer  vício  e  que  é  incabível  que  a  recorrente  seja  indenizada  pelas  acessões  por  construções.
+É  o  que  se  colhe  nos  seguintes  trechos  do  acórdão  recorrido:
+"(..)
+No  caso  dos  autos  cuida-se  de  área  pública,  em  que  a  posse  é  jurídica,  ínsita  à  propriedade,  não  exigindo  a  demonstração  fática.
+O  "Termo  de  Concessão  de  Direito  Real  de  Uso",  conforme  se  observa,  foi  celebrado  por  instrumento  particular,  assinado  pelo  Secretário  de  Administração  Municipal  e  pela  Presidente  da  Associação  Pró-Cão,  tendo  o  posterior  "Termo  de  Rescisão  Amigável",  de  26/07/2018,respeitado  a  mesma  forma  do  instrumento  que  outorgou  a  concessão,  o  qual  foi  assinado  pelas  mesmas  pessoas:  Srª  Carmen  Salete  Cunha,  Presidente  da  Associação,  e  pelo  Secretário  Municipal  de  Administração  em  exercício.
+Neste  último,  constou  de  forma  expressa  e  grifada  que  as  partes  resolvem  RESCINDIR,  de  forma  amigável,  o  TERMO  DE  CONCESSÃO  DE  DIREITO  REAL  DE  USO,  a  contar  de  07  de  agosto  de  2018,  cujo  objeto  é  a  concessão  de  uso  da  Chácara  n.º  07  "B",  de  parte  do  Lote  Rural  n.º  43  da  Linha  Zero,  Secção  Paiol  Grande,  nesta  cidade,  com  área  de  4.007,22m  (..),  matriculado  no  Registro  de  Imóveis  de  Erechim/RS.
+Assim,  tendo  havido  a  rescisão  amigável  da  concessão  de  uso  do  imóvel  do  poder  público  (resilição),  de  forma  amigável,  não  há  que  se  perquirir  acerca  da  motivação  do  ato,  porquanto  não  se  fundou  nas  hipóteses  legais  e  contratuais  previstas  para  a  possível  rescisão  unilateral  pela  administração  pública.
+(..)
+Assim  não  se  verifica,  de  plano,  qualquer  vício  formal  no  termo  de  rescisão  amigável,  cuja  assinatura  ocorreu  pela  Presidente  da  parte  ré,  a  qual  seguiu  na  gestão  da  associação,  praticando  outros  atos  e  assinando  outros  documentos  cuja  validade  não  é  questionada  e  os  quais  inclusive  foram  juntados  aos  presentes  autos  como  meio  de  prova  de  sua  tese  defensiva  (v.  g.  Evento3,  Processo  Judicial3,  fls.  16-18),  razão  pela  qual  tampouco  se  vislumbra  possível  vício  de  consentimento.
+(..)
+Desse  modo,  a  desocupação  do  imóvel  está  devidamente  alicerçada  na  condição  de  imóvel  público  e  no  termo  de  rescisão  amigável  da  concessão  do  direito  de  real  de  uso  sobre  o  bem  que  estipulou  data  certa  para  a  desocupação,  a  qual  descumprida  pela  ré,  mesmo  após  notificação  extrajudicial  expedida  para  tanto,  configura  esbulho  passível  de  proteção  por  meio  da  presente  ação  possessória.
+(..)
+Veja-se,  assim,  que  qualquer  que  seja  o  caso  (benfeitoria  ou  acessão),  para  fins  de  indenização  mister  a  análise  da  existência,  ou  não,  do  exercício  de  posse  de  boa-fé  pelos  ocupantes  e,  no  caso  concreto,  das  normativas  estabelecidas  na  concessão  real  de  uso,  porquanto  inarredável  a  análise  do  interesse  público  no  caso  concreto.
+(..)
+Trata-se,  assim,  se  norma  de  abrangência  ampla  e  da  qual  se  extrai,  sem  margem  a  dúvidas,  que  as  obras  realizadas  pela  parte  ré  no  imóvel  público  e  necessárias  ao  exercício  de  sua  finalidade  social,  guardem  elas  natureza  de  benfeitoria  ou  acessão,  não  seriam  passíveis  de  indenização,  o  que  era  de  seu  amplo  conhecimento.
+Compreender  de  modo  diverso  acarretaria,  em  verdade,  em  enriquecimento  indevido  da  parte  ré  e  não  da  parte  autora,  porquanto  o  ente  Municipal,  além  de  conceder  a  utilização  do  imóvel  a  título  gratuito  por  mais  de  10  anos  e  de  contribuir  mensalmente  com  repasses  financeiros,  também  deslocando  servidores  públicos  para  auxiliar  nas  obras  da  associação  (vide  declaração  constante  no  Evento3,  Processo  Judicial3,  fl.  45),  ainda  teria  que  realizar  a  indenização  de  tais  construções,  mesmo  sem  comprovado  acréscimo  patrimonial,  uma  vez  que  não  se  sabe  qual  a  destinação  futura  do  imóvel  e  o  aproveitamento  ou  não  de  tais  construções.
+(..)"  (e-STJ  fls.  466/472).
+Com  efeito,  para  r ever  tais  conclusões,  a  partir  das  teses  de  que  o  termo  administrativo  é  nulo  e  de  que  não  há  qualquer  motivo  para  se  excluir  a  indenização  pelas  acessões,  seria  necessário  o  revolvimento  dos  aspectos  fático-probatórios  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+Nesse  contexto,  os  argumentos  expostos  pela  agravante  são  insuficientes  para  alterar  os  fundamentos  da  decisão  agravada,  a  qual  permanece  incólume  em  todos  os  seus  termos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
