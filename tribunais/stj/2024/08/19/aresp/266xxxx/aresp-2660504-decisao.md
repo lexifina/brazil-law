@@ -1,0 +1,43 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MONICA ELIZABETH ALTMANN FAZIO, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/05/2024.
+Concluso ao gabinete em: 10/07/2024.
+Ação: impugnação proposta por ALTMANN S/A IMPORTAÇÃO E COMÉRCIO e TOMAS GEORGE ALTMANN nos autos de cumprimento de título judicial (acordo), decorrente de ação de dissolução parcial de sociedade, que lhes move a agravante.
+Decisão: rejeitou a impugnação, sem fixação de verba de sucumbência.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa (e-STJ, fl. 634):
+Ação de dissolução parcial de sociedade, em fase de cumprimento de título judicial (acordo).
+Decisão que rejeitou a impugnação, sem fixação de verba honorária.
+Inconformismo da credora.
+Acórdão a fls. 255/265 que reformou a decisão recorrida, para fixar verba honorária por equidade, sucedendo-se a interposição de recursos especiais, por ambas as partes.
+Reexame, à luz do art. 1.030, II, do CPC, tendo em vista a tese firmada pelo C. STJ no tema 408 (Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.) e na súmula 519 (Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios.). Juízo de retratação exercido, para observância do entendimento vinculante. Manutenção da decisão de origem. Agravo de instrumento desprovido.
+Embargos de Declaração: opostos pela agravante foram rejeitados.
+Recurso especial: alega, em suma, violação dos seguintes dispositivos: (i) 489, § 1º, IV, V, VI e 1.022, II, do CPC, tendo em vista que o acórdão recorrido deixou de "considerar que a fixação de honorários não advém da instauração do cumprimento de sentença, mas o transcurso do prazo in albis para o cumprimento da obrigação exequenda, deixando de aplicar a Súmula 517 do C. Superior Tribunal de Justiça" (e-STJ, fl. 665); (ii) 85, §1º do CPC, argumentando a inaplicabilidade do Tema 408/STJ, já que não houve o cumprimento espontâneo da obrigação de fazer e, assim, foi necessário o ajuizamento do cumprimento de sentença, situação que possibilita a condenação em verba de sucumbência por força do princípio da causalidade; (iii) 22 Lei n. 8.906/1994, que garante ao advogado a percepção dos honorários de sucumbência; e (iv) dissídio jurisprudencial quanto à condenação em honorários advocatícios em cumprimento de sentença por obrigação de fazer ajuizado diante da existência de pretensão resistida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, que "a verba honorária (no v. acórdão objeto da reapreciação) havia sido fixada por conta da impugnação (ao cumprimento de sentença) e não pelo impulso da fase de cumprimento", destacando que "a discussão devolvida esteve ao largo do que está sendo tardiamente pretendido pela embargante  agravante , isto é, a aplicação do art. 523, § 1º, do CPC, e da súmula n. 517, do C. STJ" (e-STJ, fl. 658; ambas as citações), de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, não há que se falar em negativa de prestação jurisdicional.
+- Da ausência de prequestionamento
+Observa-se, ainda, que o acórdão recorrido não decidiu acerca do art. 22 Lei n. 8.906/1994, indicado como violado, que, aliás, sequer foi objeto dos embargos de declaração opostos. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado e do reexame de fatos e provas
+Noutro vértice, consta do acórdão recorrido, no que interessa:
+Por fim, pertinente ressaltar que, observando os limites do que foi decidido no acórdão objeto deste exame de retratação (fls. 255/265), é despropositada a implícita pretensão de ampliação do que foi decidido (manifestação da agravante a fls. 628/632), uma vez que está expresso, no aludido acórdão, que os honorários advocatícios foram fixados pela rejeição da impugnação ao cumprimento de sentença: "Portanto, considerando que os autos de origem tratam de fase de cumprimento de sentença de obrigação de fazer, na qual foi apresentada impugnação pelos agravados, a r. decisão que rejeitou a defesa deve incluir a condenação dos vencidos ao pagamento de honorários advocatícios, como pretende a agravante" (fls. 258). Não se trata de verba honorária referida no art. 523, §1º, do CPC. Aliás, sem desprezar que não houve recurso contra pretérita decisão de origem que fez alusão ao art. 523, do CPC (fls. 674, de origem), observa-se que não se trata de cumprimento de título judicial envolvendo obrigação de pagar quantia certa. (e-STJ, fl. 642)
+Como se observa, a agravante não impugnou o fundamento utilizado pelo TJ/SP, no sentido de que seria despropositada a pretensão de ampliação do que foi decidido, razão pela qual deve ser mantido o acórdão recorrido, diante da incidência da Súmula 283/STF.
+Ademais, a alegação de que não houve o cumprimento espontâneo da obrigação de fazer e, assim, foi necessário o ajuizamento do cumprimento de sentença, a fim de justificar o pedido de fixação de verba de sucumbência por força do princípio da causalidade, é contraditada pelo acórdão impugnado, que afirma tratar a hipótese de impugnação ao cumprimento de sentença. Portanto, diante dessa discrepância no quadro fático e jurídico entre o que se alega e aquilo que consta do acórdão, inevitável a incidência da Súmula 7/STJ.
+- Da divergência jurisprudencial
+Por fim, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1.215.736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DISSOLUÇÃO PARCIAL DE SOCIEDADE. CUMPRIMENTO DE TÍTULO JUDICIAL. IMPUGNAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Impugnação ao cumprimento de título judicial.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
