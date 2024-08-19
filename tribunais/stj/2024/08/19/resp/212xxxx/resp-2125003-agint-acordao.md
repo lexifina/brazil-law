@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PARA O PIS E A COFINS. RECEITAS ORIGINADAS DA PRESTAÇÃO DE SERVIÇO PARA EMPRESAS SITUADAS NA ZONA FRANCA DE MANAUS. ISENÇÃO.
+1. O julgado está em conformidade com a jurisprudência do STJ, segundo a qual, consoante a interpretação do Decreto-Lei 288/1967, a venda de mercadorias para empresas situadas na Zona Franca de Manaus equivale, em termos de efeitos fiscais, à exportação de produto brasileiro para o estrangeiro, e sobre tais receitas não incidem as contribuições sociais do PIS nem da Cofins, sendo irrelevante o fato de se tratar de vendas realizadas a pessoas físicas ou jurídicas.
+2. A interpretação literal que deve ser conferida às isenções não alberga situações que possam, sem amparo na mesma legislação, determinar violação ao princípio da isonomia, de modo a excluir os prestadores de serviços dos benefícios legais destinados ao desenvolvimento da Zona Franca de Manaus. Precedente: AgInt no AREsp 2.039.923/BA, Rel. Min. Gurgel de Faria, julgado em 12/6/2023, DJe. 16/6/2023.
+3. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto de decisão que acolheu os Embargos de Declaração, com efeitos modificativos, para negar provimento ao Recurso Especial da Fazenda Nacional.
+A parte agravante sustenta, em suma:
+O art. 4º do Decreto-Lei 288/67, que equipara as operações na Zona Franca de Manaus à exportação e, via de consequência, dá amparo à não incidência da contribuição ao PIS e da COFINS, alude especificamente à venda de mercadorias de origem nacional, não se referindo à prestação de serviços ou venda de mercadorias de origem estrangeira. E, diante desta premissa, interpretação ampliativa, que confere isenção para receitas decorrentes de prestação de serviços e mercadorias importadas ou nacionalizadas, viola os arts. 110 e 111 do CTN.
+A União demonstrou que o acórdão recorrido deu interpretação extensiva à norma de isenção tributária, em flagrante ofensa aos arts. 110 e 111 do CTN e, ao fazê-lo, contrariou oart. 4º do Decreto-Lei 288/67, pois foi aplicado à hipótese diversa da neles prevista. Em outras palavras, entendeu o Tribunal a quo que a isenção concedida no art. 4º do Decreto-Lei 288/67, além de alcançar o comércio de mercadorias nacionais entre pessoas físicas e jurídicas para consumo ou industrialização dentro da Zona Franca de Manaus deve alcançar, ainda, a prestação de serviços nacionais e a venda de mercadorias "nacionalizadas", ou seja, importadas e posteriormente vendidas.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 411-416 .
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PARA O PIS E A COFINS. RECEITAS ORIGINADAS DA PRESTAÇÃO DE SERVIÇO PARA EMPRESAS SITUADAS NA ZONA FRANCA DE MANAUS. ISENÇÃO.
+1. O julgado está em conformidade com a jurisprudência do STJ, segundo a qual, consoante a interpretação do Decreto-Lei 288/1967, a venda de mercadorias para empresas situadas na Zona Franca de Manaus equivale, em termos de efeitos fiscais, à exportação de produto brasileiro para o estrangeiro, e sobre tais receitas não incidem as contribuições sociais do PIS nem da Cofins, sendo irrelevante o fato de se tratar de vendas realizadas a pessoas físicas ou jurídicas.
+2. A interpretação literal que deve ser conferida às isenções não alberga situações que possam, sem amparo na mesma legislação, determinar violação ao princípio da isonomia, de modo a excluir os prestadores de serviços dos benefícios legais destinados ao desenvolvimento da Zona Franca de Manaus. Precedente: AgInt no AREsp 2.039.923/BA, Rel. Min. Gurgel de Faria, julgado em 12/6/2023, DJe. 16/6/2023.
+3. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 8.7.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, o caso em tela envolve a discussão acerca da incidência de PIS e COFINS na importação de bens do estrangeiro para uso na Zona Franca de Manaus.
+O julgado está em conformidade com a jurisprudência do STJ, segundo a qual, consoante a interpretação do Decreto-Lei 288/1967, a venda de mercadorias para empresas situadas na Zona Franca de Manaus equivale, em termos de efeitos fiscais, à exportação de produto brasileiro para o estrangeiro, e sobre tais receitas não incidem as contribuições sociais do PIS nem da Cofins, sendo irrelevante o fato de se tratar de vendas realizadas a pessoas físicas ou jurídicas. Veja-se:
+TRIBUTÁRIO. PIS E COFINS. PRODUTOS DESTINADOS À ZONA FRANCA DE MANAUS. EMPRESAS QUE VENDEM PRODUTOS PARA OUTRAS NA MESMA LOCALIDADE. DESONERAÇÃO.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3)
+2. À luz da interpretação conferida por esta Corte ao Decreto-Lei n. 288/1967, a venda de mercadorias destinadas à Zona Franca de Manaus equivale à exportação de produto brasileiro para o estrangeiro, em termos de efeitos fiscais, não incidindo sobre tais receitas a contribuição social do PIS nem da COFINS.
+3. O acórdão recorrido atuou em perfeita harmonia com a pacífica orientação do Superior Tribunal de Justiça, segundo a qual o benefício fiscal conferido à Zona Franca de Manaus alberga as operações realizadas no âmbito de tal região, afastando, nesses casos, a incidência da Contribuição do PIS e da COFINS sobre o faturamento ou receitas auferidas, não havendo que se falar em distinção quanto às vendas realizadas a pessoas físicas ou jurídicas, não contemplada na disciplina específica dessas contribuições.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.601.738/AM, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/5/2020, DJe de 14/5/2020.)
+A interpretação literal que deve ser conferida às isenções não alberga situações que possam, sem amparo na mesma legislação, determinar violação ao princípio da isonomia, de modo a excluir os prestadores de serviços dos benefícios legais destinados ao desenvolvimento da Zona Franca de Manaus. Precedente: AgInt no AREsp. 2.039.923/BA, Rel. Min. Gurgel de Faria, julgado em 12/6/2023, DJe. 16/6/2023.
+A sintonia entre o acórdão recorrido e o atual posicionamento desta Corte Superior leva a concluir que não merece prosperar a irresignação. Incide na espécie o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou n o mesmo sentido da decisão recorrida".
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
