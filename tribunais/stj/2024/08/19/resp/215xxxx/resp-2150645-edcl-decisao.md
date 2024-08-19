@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Hospital de Olhos de Minas Gerais Ltda. à decisão de fls. 1133-1142 (e-STJ), assim ementada:
+RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. QUESTÕES DEVIDAMENTE ANALISADAS PELO TRIBUNAL DE ORIGEM. CLÁUSULA DE ELEIÇÃO DE FORO. MATÉRIA INCONTROVERSA NOS AUTOS. AUSÊNCIA DE NULIDADE. OBSERVÂNCIA OBRIGATÓRIA. COMPETÊNCIA DO LOCAL DO ATO OU DO FATO. ART. 53, IV, ALÍNEA "A", DO CPC/2015. ACÓRDÃO RECORRIDO REFORMADO. RECURSO PROVIDO.
+O embargante alega, em síntese, que a referida decisão foi omissa em relação ao exame da preliminar de falta de prequestionamento suscitada nas contrarrazões ao recurso especial.
+Sustenta, ainda, a existênc ia de contradição "entre os elementos e declarações já constantes dos autos e da própria r. decisão ora embargada, vez que não há, e não houve, formalização de contrato com cláusula de eleição de foro" (e-STJ, fl. 1150).
+Busca, assim, o acolhimento dos presentes embargos de declaração para que: "A) Seja declarada a omissão atinente ao Item II, relativo a reputada Ausência de Prequestionamento do REsp, como forma impeditiva para seu conhecimento, já que a R. Decisão silenciou-se sobre a prejudicial agitada em sede DE CONTRARRAZÕES; B) Seja conhecida e declarada a aplicação ou não da Súmula 211 do C. STJ; C) Seja conhecida e declarada, a incidência ou não da Súmula 7 do STJ; D) Seja declarada a contradição constante de fls E-STJ 1.139, relativa à menção na R. Decisão embargada, de que haveria cláusula EXPRESSA de contratação de foro" (e-STJ, fl. 1152).
+A impugnação foi apresentada às fls. 1159-1166 (e-STJ).
+Brevemente relatado, decido.
+Os presentes embargos não merecem acolhimento.
+Na decisão embargada foi consignado que "todos os fundamentos suficientes ao deslinde da controvérsia foram expressamente delineados no acórdão recorrido, não havendo se falar, portanto, em violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do Código de Processo Civil de 2015", fundamento que afasta a alegação de falta de prequestionamento suscitada pelo recorrido nas contrarrazões.
+Ademais, estando as questões suficientemente delimitadas no acórdão recorrido, não há se falar em incidência do óbice da Súmula 7/STJ, sendo completamente desnecessário proceder ao reexame do conjunto fático-probatório dos autos.
+Por fim, também não prospera a alegada contradição "entre os elementos e declarações já constantes dos autos e da própria r. decisão ora embargada, vez que não há, e não houve, formalização de contrato com cláusula de eleição de foro" (e-STJ, fl. 1150).
+A uma, porque, "Nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição que abre espaço ao recurso integrativo é aquela interna, verificada entre as proposições e as conclusões do próprio julgado" (AgInt no AREsp 2528012/MT, Relator o Ministro Sérgio Kukina, DJe de 27/6/2024), e não entre o fundamento do decisum e "os elementos e declarações já constantes dos autos", como equivocadamente alega o embargante.
+E, a duas, porque essa alegação, na verdade, trata-se de nítida tentativa de rediscutir os fundamentos da decisão embargada, o que não se mostra possível na via dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO NA DECISÃO EMBARGADA. MERO INTUITO DE REDISCUSSÃO DOS FUNDAMENTOS ADOTADOS NO DECISUM. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
