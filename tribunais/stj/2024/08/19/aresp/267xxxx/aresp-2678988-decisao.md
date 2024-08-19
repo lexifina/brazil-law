@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da afronta aos arts. 489, § 1º, e 1.022, II, do CPC/2015 (e-STJ fls. 715/719).
+O acórdão recorrido está assim ementado (e-STJ fls. 598/599):
+RECURSO DE AGRAVO INTERNO - APELAÇÃO CÍVEL - AÇÃO DE RESSARCIMENTO DE DANOS MATERIAIS E MORAIS - ACIDENTE DE TRÂNSITO - COLISÃO CARRO DE CARRO EM MOTOCICLETA - DANOS MORAIS EM VALOR RAZOÁVEL - INDENIZAÇÃO POR DANOS MORAIS CONFORME COMPROVAÇÃO - APELO DESPROVIDO - REDISCUSSÃO DOS FATOS E FUNDAMENTOS - AGRAVO INTERNO DESPROVIDO. 1. Se as razões recursais nada de novo acrescentam, o agravo interno deve ser desprovido diante do intuito de rediscussão dos fatos e fundamentos. 2. Na fixação de indenização por danos morais, são levadas em consideração as peculiaridades da causa. Nessas circunstâncias, consideram-se a gravidade do ato, o potencial econômico do ofensor, o caráter pedagógico da indenização e os parâmetros adotados em casos semelhantes" (STJ - 4ª Turma - AgRg no AREsp 662.068/RJ - Rel. Ministro RAUL ARAÚJO - j. 19/05/2015, DJe 22/06/2015). 3. É imprescindível prova da existência e extensão do dano para fins de configuração do dever de indenizar, recompor ou ressarcir a título de danos materiais, visto que não existe responsabilidade civil sem lesão/dano e é inadmissível a pretensão embasada em dano abstrato ou hipotético.
+Os embargos de declaração foram rejeitados (e-STJ fls. 637/642).
+No recurso especial (e-STJ fls. 654/662), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015.
+Apontou omissão no acórdão recorrido, alegando que o Tribunal de origem ignorou a existência de provas quanto aos lucros cessantes, bem como à desproporcionalidade do valor arbitrado a título de danos morais diante da alta reprovabilidade da conduta da recorrida, a extensão do dano e por ser a condenação partilhada entre dois réus.
+Sustentou que a recorrida não tinha habilitação e não prestou socorro à vítima, fatos que interferem na gravidade da conduta e diretamente na extensão do dano, devendo repercutir na fixação do valor indenizatório.
+Ao final, requer o provimento do agravo, a fim de que seja reformado o acórdão recorrido, sanando-se os vícios apontados.
+Foram apresentadas contrarrazões (e-STJ fls. 684/697).
+No agravo (e-STJ fls. 721/729), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 740/742).
+Juízo negativo de retratação (e-STJ fls. 744/745).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, § 1º, e 1.022, II do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim se pronunciou (e-STJ fls. 600/601):
+Quanto à indenização por danos morais fixada em favor do autor, a magistrada concluiu que o valor de R$ 3.000,00 é suficiente para o caso em que o autor, vítima de acidente causado pelo veículo da apelada Leticia, foi submetido a cirurgia, em razão de fratura na perna, e precisou ficar sem trabalhar, bem como, deixou de praticar seus passa tempo preferidos, como pescar e jogar bola.
+No presente caso, a sentença levou em consideração todos os detalhes do caso, e o apelante não apresentou nenhuma particularidade que justifique a majoração do valor fixado, que é razoável se confrontado com as balizas indicadas pela jurisprudência como referências para quantificação da indenização no caso em que a parte condenada não possui boas condições financeiras, e vem sendo representada por advogado dativo.
+(..)
+Em que pese as razões recursais, nota-se que a interposição do presente agravo tem intuito único de rediscutir os fatos e os fundamentos, nada de novo foi trazido pelo agravante em suas razões recursais, merecendo registro o fato de que a decisão recorrida analisou as peculiaridades do caso concreto, concluindo pelo desprovimento do recurso, porque o autor não conseguiu provar os danos materiais que alega ter sofrido, ou que a indenização por danos morais foi fixada em valor insatisfatório.
+Extrai-se ainda do acórdão que julgou os embargos de declaração (e-STJ fl. 641):
+No caso, porém, não há falar em omissão, já que todos os documentos apresentados foram apreciados, e considerados insuficientes para provar os danos materiais alegados, e o valor da indenização por danos morais foi considerado suficiente para reparar o dano sofrido pelo autor, ou seja, o acórdão embargado não padece de quaisquer dos vícios do art. 1.022 do CPC/2015, mas apenas decidiu contrariamente à tese defendida pelo embargante, sendo incabível a interposição de embargos de declaração apenas para expressar o inconformismo da parte embargante contra o julgamento que lhe foi desfavorável, porque, em tais casos, o que se faz é simples rediscussão da matéria recursal.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Modificar o entendimento do acórdão impugnado a respeito da majoração do dano moral, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
