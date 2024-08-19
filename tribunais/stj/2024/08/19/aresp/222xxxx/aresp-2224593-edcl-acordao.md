@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, acolher os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA 1.190/STJ. AFETAÇÃO. DEVOLUÇÃO À ORIGEM.
+1. A Primeira Seção do Superior Tribunal de Justiça afetou os Recursos Especiais 1.203.118/SP, 2.029.675/SP, 2.029.636/SP e 2.030.855/SP ao rito dos Recursos Repetitivos (art. 257-C do RISTJ), com a seguinte questão a ser discutida: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (Tema 1.190/STJ).
+2. O entendimento do STJ é de que qualquer irresignação que tenha por objeto matéria tratada em Recurso Representativo da Controvérsia deve ser devolvida ao Tribunal de origem a fim de que exerça juízo de retratação antes da apreciação do respectivo Recurso Especial por esta Corte Superior.
+3. Embargos de Declaração acolhidos para, tornando sem efeito os julgados anteriores do STJ, determinar a devolução dos autos à origem para aguardar o julgamento do Tema 1.190/STJ.
+RELATÓRIO
+Trata-se de Embargos de Declaração contra acórdão assim ementado (fl. 3.425, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DESPROVIMENTO DO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÕES CONTRA A FAZENDA PÚBLICA NÃO EMBARGADAS. CABIMENTO.1. O Relator, em decisão monocrática, deu provimento ao Recurso Especial, ante jurisprudência dominante do STJ que entende como devidos honorários advocatícios nas execuções contra a Fazenda Pública, ainda que não embargadas/impugnadas, quando o crédito está sujeito ao regime da Requisição de Pequeno Valor - RPV. Precedentes: AgInt no REsp n. 2.012.137/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 13/10/2022, AgInt no REsp 2.014.120/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 6/10/2022, AgInt no AREsp 2.019.637/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17/6/2022, AgInt no REsp 1.950.451/MG, Rel. Min. Francisco Falcão,Segunda Turma, DJe 31/3/2022.2. Verifica-se que a parte agravante limita-se a reproduzir os argumentos expostos no Recurso Especial, ignorando a jurisprudência que serviu de fundamentação para a decisão agravada.3. Agravo Interno não provido.
+A parte embargante alega:
+Neste ponto,omitiu-se o acórdão embargado:o tema não se encontra pacificado neste E. TribunalSuperior, visto que ele foi afetado pelo Rito de Recursos Repetitivos nos autos do processo RESP 2029636/SP (Tema 1190), conforme se verifica no acórdão publicado em 27/04/2023, in verbis:
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA 1.190/STJ. AFETAÇÃO. DEVOLUÇÃO À ORIGEM.
+1. A Primeira Seção do Superior Tribunal de Justiça afetou os Recursos Especiais 1.203.118/SP, 2.029.675/SP, 2.029.636/SP e 2.030.855/SP ao rito dos Recursos Repetitivos (art. 257-C do RISTJ), com a seguinte questão a ser discutida: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (Tema 1.190/STJ).
+2. O entendimento do STJ é de que qualquer irresignação que tenha por objeto matéria tratada em Recurso Representativo da Controvérsia deve ser devolvida ao Tribunal de origem a fim de que exerça juízo de retratação antes da apreciação do respectivo Recurso Especial por esta Corte Superior.
+3. Embargos de Declaração acolhidos para, tornando sem efeito os julgados anteriores do STJ, determinar a devolução dos autos à origem para aguardar o julgamento do Tema 1.190/STJ.
+VOTO
+Na sessão virtual de 15 a 21.3.2023, a Primeira Seção do Superior Tribunal de Justiça afetou os Recursos Especiais 1.203.118/SP, 2.029.675/SP, 2.029.636/SP e 2.030.855/SP ao rito dos Recursos Repetitivos (art. 257-C do RISTJ), com a seguinte questão a ser discutida:
+"Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (Tema 1.190/STJ).
+No mesmo julgamento, foi determinada a suspensão de todos os Recursos Especiais e Agravos em Recurso Especial que versem sobre a matéria delimitada e tramitem na segunda instância e/ou nesta Corte Superior.
+Em tal circunstância, deve ser prestigiado o previsto na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 543-C, § 7º, e 543-B, § 3º, do CPC/1973 e dos arts. 1.040 e seguintes do CPC/2015, conforme o caso.
+Ante o exposto, acolho os Embargos de Declaração para, tornando sem efeito os julgados anteriores desta Corte, determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo Recurso excepcional representativo da controvérsia:
+a) denegue seg uimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetiti vo.
+É como voto.
