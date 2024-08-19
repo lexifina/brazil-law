@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO E DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ART. 1022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso, verifica-se a ausência de indicação e demonstração dos vícios previstos no art. 1022 do CPC/2015, sendo que, conforme assentado pela Corte Especial do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+4. Embargos de declaração não conhecidos.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 1694):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+O embargante alega ter sofrido "(..) CERCEAMENTO DE DIREITO em razão da fundamentação do v. acordão pela manutenção da sentença de improcedência do pedido, mas por fundamento diverso." (fl. 1705), o qual requer seja analisado. Trata do enquadramento da empresa como atividade preponderantemente industrial, da legalidade do agrupamento de todos os estabelecimentos para fins de aferição da base de cálculo da contribuição compulsória, da notificação de débito como peça hábil e da inexistência de decadência. Requer saneamento de omissão e contradição.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO E DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ART. 1022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso, verifica-se a ausência de indicação e demonstração dos vícios previstos no art. 1022 do CPC/2015, sendo que, conforme assentado pela Corte Especial do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+4. Embargos de declaração não conhecidos.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Assim, deve o embargante, ao apontar a existência de qualquer dos vícios previstos no referido dispositivo, indicar, de forma fundamentada, clara e balizada, de que modo a decisão embargada incorreu no defeito, não bastando a mera alegação de existência de vício do art. 1022 do CPC/2015.
+Não obstante, na espécie, o embargante deixou de apontar qualquer vício de integração a ser sanado no acórdão embargado, como exige o art. 1023, caput, do CPC/2015. Com efeito, em que pese tenha mencionado na parte final dos seus embargos a necessidade de saneamento de omissão e contradição, deixou de indicar clara e expressamente em que teriam consistido os vícios, é dizer, qual teria sido a omissão e a contradição referidas.
+Nesse contexto, é firme a jurisprudência desta Corte Superior no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp 635.459/MG, Rel. Min. João Otávio de Noronha, Corte Especial, DJe de 15/03/2017).
+Ante o exposto, não conheço dos embargos de declaração.
+É como voto.
