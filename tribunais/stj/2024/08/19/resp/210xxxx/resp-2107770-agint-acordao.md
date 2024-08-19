@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. CONDENAÇÃO À COBERTURA DE TRATAMENTE E INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. VALOR DA CAUSA E VALOR DA INDENIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. O Tribunal de origem não analisou o conteúdo normativo dos arts. 85, §§ 2º e 6º-A, 291 e 292, VI e § 2º, todos do Código de Processo Civil e 6º, VI, do Código de Defesa do Consumidor, sob a perspectiva apontada pela recorrente em suas teses recursais, o que denota a ausência de prequestionamento, atraindo a aplicação da Súmula n. 211/STJ.
+2. Prequestionamento ficto que pressupõe não apenas a oposição de embargos de declaração na origem, mas também a alegação, perante este Superior Tribunal, da ocorrência de violação do art. 1.022 do CPC, o que não ocorreu no presente caso. Precedentes.
+3. A alteração das conclusões a que chegou o Tribunal de origem acerca da impossibilidade de alteração do valor da causa ao patamar requerido pela autora/recorrente e do quantum indenizatório demandaria nova incursão no conjunto fático-probatório, esbarrando no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por M C F DOS S e M R DOS S contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 307-311):
+Apelação cível. Plano de saúde. Obrigação de fazer c.c. indenização por danos morais. Fornecimento de medicamento (Spinraza). Sentença de procedência. Inconformismo parcial da autora. Pretensão de retificação do valor da causa e de majoração da indenização fixada. Divergência de interpretação de cláusula contratual que enseja mero aborrecimento. Tutela de urgência deferida initio litis. Ré apelada que não recorreu, de modo que o valor fixado deve se mantido. Valor da causa que comporta retificação, em observância ao art. 292, incisos III e V, e §2º do CPC. Manutenção do valor da causa. Ação de obrigação de fazer. Pretensão de compelir a operadora do plano de saúde a prestação de serviços e fornecimento de medicamento. Não se trata de ressarcimento de valores pagos. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração pela recorrente, que foram rejeitados com a ressalva seguinte ressalva (fl. 372):
+De fato, houve contradição entre o mandamento do acórdão e a ementa, devendo prevalecer os termos da fundamentação e da parte dispositiva do voto.
+A decisão agravada não conheceu do recurso especial do agravante, em razão dos óbices da Súmula n. 284 do STF e das Súmula n. 7 e 211 do STJ.
+Aduz a agravante que houve o debate e, portanto, o prequestionamento da matéria alegada. Afirma também que não incidem as Súmula n. 7/STJ e 284/STF para a análise da violação dos dispositivos apontados no recurso especial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou impugnação (fls. 455-475).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. CONDENAÇÃO À COBERTURA DE TRATAMENTE E INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. VALOR DA CAUSA E VALOR DA INDENIZAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. O Tribunal de origem não analisou o conteúdo normativo dos arts. 85, §§ 2º e 6º-A, 291 e 292, VI e § 2º, todos do Código de Processo Civil e 6º, VI, do Código de Defesa do Consumidor, sob a perspectiva apontada pela recorrente em suas teses recursais, o que denota a ausência de prequestionamento, atraindo a aplicação da Súmula n. 211/STJ.
+2. Prequestionamento ficto que pressupõe não apenas a oposição de embargos de declaração na origem, mas também a alegação, perante este Superior Tribunal, da ocorrência de violação do art. 1.022 do CPC, o que não ocorreu no presente caso. Precedentes.
+3. A alteração das conclusões a que chegou o Tribunal de origem acerca da impossibilidade de alteração do valor da causa ao patamar requerido pela autora/recorrente e do quantum indenizatório demandaria nova incursão no conjunto fático-probatório, esbarrando no óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de reformar a decisão recorrida.
+A irresignação da demandante gira em torno do indeferimento ao seu pedido para retificação do valor da causa e de majoração do valor da indenização dos danos morais aos quais a recorrida foi condenada.
+Na origem, trata-se de ação movida pela ora agravante contra a operadora de plano de saúde requerendo a cobertura de tratamento prescrito à beneficiária pelo médico assistente e indenização por danos morais decorrentes da recusa.
+Em primeira instância, o Juízo indeferiu o pedido de retificação do valor da causa por faltar prova documental do novo valor apontado e julgou procedente a inicial, determinando que a ré disponibilize o tratamento solicitado, juntamente com o profissional habilitado para sua realização, no prazo de 48h, ou, escoado o prazo, que reembolse todas as despesas referentes ao medicamente e honorários médicos realizados fora da rede credenciada. Condenou ainda a requerida ao pagamento de indenização por danos morais, fixados em R$ 5.000,00 (cinco mil reais) e das despesas processuais e honorários advocatícios, fixados em 10% sobre o valor da causa.
+O Tribunal de origem manteve a sentença em acórdão assim fundamentado (fls. 309-311, grifei):
+Nada obstante as razões apresentadas alvitro não ser caso de se determinar a alteração do valor da causa, com substancial aumento na sucumbência.
+Cuida-se de ação inicialmente promovida para determinar a responsabilidade da operadora do plano de saúde a pagar as despesas médicas necessárias para a aplicação da medicação spinraza, uma vez que a ora apelante já promovia uma outra ação em face da apelada, e lá, nessa outra ação havia determinação para fornecimento do medicamento.
+Todavia, esclarece a apelante que o processo desta outra ação acabou sendo julgado extinto porque a operadora ao resistir o pedido, alegou que não se recusava fornecer o medicamento.
+Pois bem. Encerrada aquela ação a operadora informou a apelante que não forneceria mais o medicamento.
+Diante disso, a apelante apresentou petição aditando o pedido para postular também, nesta ação, compelir a apelada no fornecimento de medicamento.
+Agora pretende a majoração do valor da causa de R$ 36.000,00 (trinta e seis mil reais) para R$ 1.022.000,00 (um milhão e vinte e dois mil reais).
+Alega a apelante que o valor da causa deve ser retificado para se acrescentar o valor da medicação fornecida a título do proveito econômico.
+Nada obstante as razões apresentadas a pretensão da autora é de obter a prestação dos serviços e não indenização por serviços realizados com ressarcimento de despesas.
+ ..
+A bem da verdade não é possível acolher o valor atribuído pelo autor da ação como valor que efetivamente a operadora irá pagar aos fornecedores de medicamentos e prestadores de serviço. E, quanto a isso não tem um valor líquido para ajustar o valor da causa e a fixação de honorários de advogado.
+A adotar critério diverso teríamos a fixação de elevado valor da causa e consequentemente majoração do valor da sucumbência, inclusive honorários de advogado, de maneira desproporcional e desrazoável com a simplicidade da causa e pouco trabalho desenvolvido na ação.
+Por outro lado, a discussão quanto à interpretação de cláusulas contratuais de prestação de serviços de assistência à saúde não gera, em regra, dano moral sujeito à indenização.
+Estaria caracterizado apenas um aborrecimento não suscetível de acarretar condenação ao pagamento de indenização pordanos morais. Assim, não cabe a aplicação dos artigos 186 e 927 do CC ao caso.
+Não é o caso dos autos. Isso porque foi deferida a tutela de urgência no início da lide. No caso concreto, já que a situação comporta interpretação jurídica da natureza do procedimento, a simples necessidade de ajuizamento de ação não é suficiente para configurar dano in re ipsa.
+Daí que entendo não ser o caso de qualquer majoração, ausente, no caso, recurso da parte apelada para reforma desta parte da sentença.
+Diante do exposto nego provimento ao recurso.
+Com efeito, conforme destacado na decisão agravada, observa-se que o Tribunal a quo não analisou, sequer implicitamente, a matéria recursal à luz dos dispositivos legais apontados no recurso especial, quais sejam: os arts. 85, §§ 2º e 6º-A, 291 e 292, VI e § 2º, todos do Código de Processo Civil e 6º, VI, do Código de Defesa do Consumidor.
+Desse modo, impõe-se o não conhecimento do recurso especial, neste ponto, por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Incidência, no caso, do enunciado da Súmula n. 211 do Superior Tribunal de Justiça: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Oportuno consignar que, apesar de opostos os embargos de declaração, a agravante não suscitou sequer ofensa ao art. 1.022 do CPC nas razões do recurso especial a fim de viabilizar o prequestionamento da matéria e a consequente análise dos artigos tidos por violados.
+Nesse sentido, confiram-se precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E CONSUMIDOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, § 1º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTOFICTO NÃO CONFIGURADO. VIOLAÇÃO DO ART. 1.022 DO CPC QUE SEQUER FOI ARGUIDA. APLICAÇÃO DE MULTA COM FUNDAMENTO NO ART. 1.026, § 2º, DO CPC. IMPOSSIBILIDADE DE REEXAME. SÚMULA 7/STJ.
+1. Não pode ser conhecido o agravo interno na parte relativa ao dissídio jurisprudencial, tendo em vista a ausência de impugnação específica ao fundamento adotado na decisão agravada. Inteligência do art. 1.021, § 1º, do CPC.
+2. Ausente o prequestionamento quando o Tribunal de origem não emitiu juízo de valor acerca do dispositivo legal apontado como violado. Aplicação da Súmula 211/STJ.
+3. Prequestionamento ficto que pressupõe não apenas a oposição de embargos de declaração na origem, mas também a alegação, perante este Superior Tribunal, da ocorrência de violação do art. 1.022 do CPC, o que não ocorreu no presente caso.
+4. O exame do recurso especial, para afastar a aplicação da multa prevista no art. 1.026, § 2º, do CPC, demandaria a incursão no acervo fático dos autos, o que não se mostra possível nesta instância especial. Aplicação da Súmula 7/STJ.
+5. AGRAVO INTERNO CONHECIDO EM PARTE E DESPROVIDO. (AgInt no REsp n. 1.839.004/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. TESES E DISPOSITIVOS LEGAIS NÃO PREQUESTIONADOS. SÚMULAS 282 E 356/STF E 211/STJ. RECURSO NÃO PROVIDO.
+1. O Tribunal de origem não analisou o conteúdo normativo dos arts. 9º; 10;141; 278, § 1º; 370; 480, § 1º; 492; 346, § 1º; 349; 507;489, § 1º,III e IV; 873, I, do Código de Processo Civil, sob a perspectiva apontada pela recorrente em suas teses. Ademais, embora interpostos embargos de declaração, a parte não apontou violação ao art. 1.022, II, do Código de Processo Civil, o que impede a constatação, pelo Superior Tribunal de Justiça, de eventual omissão do acórdão e determinação de retorno dos autos a fim de completar a prestação jurisdicional. Em razão de tais deficiências, o recurso especial não pôde ser conhecido. Aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal e 211 desta Corte.
+2. "O entendimento majoritário do Supremo Tribunal Federal e o Superior Tribunal de Justiça é no sentido de que, no âmbito dos recursos excepcionais, é indispensável o prequestionamento explícito ou implícito da questão objeto do recurso extraordinário ou especial" (AgInt no REsp 1765907/RS, minha relatoria, Segunda Turma, DJe 28/06/2019).
+3. Outrossim, quanto ao prequestionamento ficto (art. 1.025 do CPC), "não basta a simples interposição de embargos de declaração, é necessária a alegação de violação ao art. 1.022 do CPC nas razões do recurso especial e o reconhecimento por esta Corte da existência de qualquer dos vícios embargáveis pelos aclaratórios; o que não ocorreu no presente caso." (AgInt no REsp n. 1.983.070/CE, minha relatoria, Segunda Turma, DJe de 30/6/2022.)
+4. Agravo interno não provido. (AgInt no AREsp n. 2.062.460/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Além disso, ressalte-se que, com base nas razões decisórias estampadas no acórdão recorrido, nos termos já aqui mencionados, verifica-se que as instâncias ordinárias, amparadas em fatos e provas, entenderam inviável a retificação do valor da causa aos termos requeridos pela parte autora e adequada a condenação em danos morais no valor fixado de R$ 5.000,00.
+Nesse sentido, rever as conclusões do Tribunal de origem acerca da adequação do valor da causa e da indenização demandaria nova incursão no conjunto fático-probatório, inviável em recurso especial em razão do óbice da Súmula n. 7/STJ.
+Cito precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROCESSUAL CIVIL. NEXO CAUSAL. INDENIZAÇÃO POR DANOS MORAIS. VALOR. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+1. Na hipótese, rever a conclusão do tribunal de origem quanto à responsabilidade do agravante e ao nexo causal demandaria o revolvimento do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ.
+2. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 20.000,00 (vinte mil reais), decorrente de acidente que gerou incapacidade funcional e em limitação de movimentos.
+3. Nos termos dos artigos 1.029, § 1º, do CPC e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional quando não demonstrada, como no caso vertente, a divergência jurisprudencial, haja vista a recorrente ter apenas colacionado algumas ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.111.032/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO CIVIL. MORTE DE CRIANÇA. DANO MORAL. REQUISITOS LEGAIS PARA A CONFIGURAÇÃO DA RESPONSABILIDADE CIVIL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. PROPORCIONALIDADEE RAZOABILIDADE DO VALOR DA CONDENAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. No caso, a Corte de origem entendeu pela procedência da condenação por danos morais e pela razoabilidade e suficiência do valor arbitrado (cem mil reais), com base no conjunto probatório dos autos.
+2. Rever as conclusões do acórdão recorrido demanda novo juízo acerca dos fatos e das provas. Incidência da Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo interno improvido.
+(AgInt no AREsp n. 2.057.498/TO, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
