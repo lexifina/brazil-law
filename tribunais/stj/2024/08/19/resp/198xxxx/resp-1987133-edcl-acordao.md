@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. JUROS DE MORA. AFASTAMENTO. HONORÁRIOS. SÚMULA N. 568/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que se verifica no caso dos autos porquanto não abordada as questões relativas aos juros de mora e sucumbência.
+2. "A entidade previdenciária somente estará em mora após a liquidação dos valores e recomposição da reserva matemática, quando então passará a ser devedora das diferenças relativas ao benefício previdenciário" (AgInt nos EDcl no REsp n. 1.942.770/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 23/3/2023).
+3. "Conforme se depreende da leitura das teses firmadas por ocasião do julgamento do REsp n. 1.312.736/RS, foi reconhecida no referido precedente uma obrigação de fazer à entidade de Previdência Privada, condicionada à recomposição integral pelo participante/assistido, de modo que os honorários advocatícios devem ser arbitrados sobre o valor atualizado da causa, e não sobre eventual condenação, que não pode sequer existir em sede de liquidação de sentença caso o participante opte por ingressar na Justiça Trabalhista em face do ex-empregador" (AgInt no AREsp n. 2.215.624/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 16/10/2023). .
+Embargos de declaração acolhidos sem efeitos infringentes.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos pelo JOSÉ CARNELOSSI FILHO contra acórdão da Terceira Turma assim ementado (fl. 1.221-1.222):
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. VERBA REMUNERATÓRIA. RECONHECIMENTO NA ESFERA TRABALHISTA. REFLEXO NO BENEFÍCIO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA. ENTENDIMENTO FIRMADO NO TEMA N. 1.166/STF.
+1. Com relação às ações que visam a inclusão reflexa de valores reconhecidos na Justiça do Trabalho em razão de ato ilícito do empregador - comumente horas extras que não foram pagas corretamente durante a relação trabalhista -, o STJ estabeleceu dois específicos precedentes qualificados (Temas n. 955/STJ e 1.021/STJ), nos quais se firmou entendimento, essencialmente, de inviabilidade de "inclusão dos reflexos de quaisquer verbas remuneratórias reconhecidas pela Justiça do Trabalho nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria", bem como se promoveu a modulação de efeito para reconhecer a excepcional possibilidade de "inclusão dos reflexos" nas demandas ajuizadas até 8/8/2018.
+2. De qualquer modo, naquelas hipóteses em que seu ato ilícito poderia conduzir a valores reflexos, tal questão é incabível de análise na Justiça comum, o que conduz à extinção da ação com relação ao patrocinador, em razão da competência da Justiça do Trabalho para o desiderato.
+3. Entendimento consagrado no julgamento do RE n. 1.265.564/SC (Tema n. 1166/STF), em que estabelecida a tese de que "Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada".
+Agravo interno improvido.
+Sustenta a parte embargante que o acordão recorrido não abordou as questões oportunamente suscitadas quanto aos juros de mora e a sucumbência.
+Requer, ao final, o acolhimento dos embargos declaratórios.
+A parte embargada apresentou impugnação (fls. 1.243-1.246).
+É, no essencial, o relatório
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. JUROS DE MORA. AFASTAMENTO. HONORÁRIOS. SÚMULA N. 568/STJ.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que se verifica no caso dos autos porquanto não abordada as questões relativas aos juros de mora e sucumbência.
+2. "A entidade previdenciária somente estará em mora após a liquidação dos valores e recomposição da reserva matemática, quando então passará a ser devedora das diferenças relativas ao benefício previdenciário" (AgInt nos EDcl no REsp n. 1.942.770/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 23/3/2023).
+3. "Conforme se depreende da leitura das teses firmadas por ocasião do julgamento do REsp n. 1.312.736/RS, foi reconhecida no referido precedente uma obrigação de fazer à entidade de Previdência Privada, condicionada à recomposição integral pelo participante/assistido, de modo que os honorários advocatícios devem ser arbitrados sobre o valor atualizado da causa, e não sobre eventual condenação, que não pode sequer existir em sede de liquidação de sentença caso o participante opte por ingressar na Justiça Trabalhista em face do ex-empregador" (AgInt no AREsp n. 2.215.624/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 16/10/2023). .
+Embargos de declaração acolhidos sem efeitos infringentes.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Com razão a embargante quanto às omissões apontadas.
+Quanto aos juros de mora, assim se pronunciou a origem: "À luz dos esclarecimentos supracitados, tem-se que a PREVI não está em mora, portanto, incidido em seu desfavor somente os juros de mora a partir do momento em que a condição estabelecida - recomposição prévia e integral das reservas matemáticas - for implementada, em relação ao participante" (fl. 935-936).
+O entendimento de origem reflete a jurisprudência do STJ, pois "A entidade previdenciária somente estará em mora após a liquidação dos valores e recomposição da reserva matemática, quando então passará a ser devedora das diferenças relativas ao benefício previdenciário" (AgInt nos EDcl no REsp n. 1.942.770/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 23/3/2023).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. JUROS DE MORA. TERMO INICIAL DOS JUROS MORATÓRIOS INCIDENTES SOBRE A OBRIGAÇÃO DE REVISÃO DE BENEFÍCIO COMPLEMENTAR DECORRENTE DO RECONHECIMENTO SUPERVENIENTE DE VERBAS REMUNERATÓRIAS PELA JUSTIÇA DO TRABALHO. RECOMPOSIÇÃO DA RESERVA MATEMÁTICA CORRESPONDENTE. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, "por ocasião do julgamento do Recurso Especial nº 1.312.736/RS, sob o rito dos repetitivos, foi reconhecida uma obrigação de fazer devida pela Entidade de Previdência Privada, condicionada à recomposição prévia integral pelo participante/assistido, não havendo que se falar em condenação ao pagamento de juros de mora desde a citação" (AgInt nos EDcl no REsp 1.886.703/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe de 11/03/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.012.830/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/11/2023.)
+Quanto à sucumbência e à alegada fixação sobre equivocada base (valor da causa), a pretensão não encontra amparo em precedentes desta Corte, que, em casos análogos, tem reconhecido que:
+2. Conforme se depreende da leitura das teses firmadas por ocasião do julgamento do REsp n. 1.312.736/RS, foi reconhecida no referido precedente uma obrigação de fazer à entidade de Previdência Privada, condicionada à recomposição integral pelo participante/assistido, de modo que os honorários advocatícios devem ser arbitrados sobre o valor atualizado da causa, e não sobre eventual condenação, que não pode sequer existir em sede de liquidação de sentença caso o participante opte por ingressar na Justiça Trabalhista em face do ex-empregador.
+(AgInt no AREsp n. 2.215.624/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 16/10/2023.)
+Dess arte, estando o acórdão recorrido quanto à mora e a sucumbência em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula n. 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, acolho os embargos de declaração para sanar as omissões, sem efeitos modificativos.
+É como penso. É como voto.
