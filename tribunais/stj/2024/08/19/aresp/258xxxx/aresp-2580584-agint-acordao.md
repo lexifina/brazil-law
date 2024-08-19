@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. ASTREINTES. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC quando o tribunal de origem decide , de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo não cabimento da multa cominatória por ausência de demonstração do descumprimento da ordem judicial, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+PAULO CESAR FERREIRA interpõe agravo interno contra a decisão de fls. 960-964, que negou provimento ao agravo em recurso especial em razão da ausência de violação do art. 1.022, II, do CPC e da incidência da Súmula n. 7 do STJ.
+Nas razões do presente recurso, o agravante sustenta efetiva violação do art. 1.022, II, do CPC, visto que ficou demonstrada a omissão do Tribunal a quo acerca do descumprimento do comando da tutela de urgência e incidência de multa.
+Também defende a violação dos arts. 301 e 537, § 4º, do CPC e a inaplicabilidade da Súmula n. 7 do STJ ao caso, pois o recurso não pretende o revolvimento da matéria fático-probatória, versando unicamente sobre questão de direito e os elementos evidentes que demonstram o amparo legal das astreintes.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+Contrarrazões apresentadas às fls. 987-995, em que se requer o desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. ASTREINTES. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC quando o tribunal de origem decide , de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo não cabimento da multa cominatória por ausência de demonstração do descumprimento da ordem judicial, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar, devendo a decisão agravada ser mantida por seus próprios fundamentos, assim expressos (fls. 962-963):
+No mais, afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A despeito da reiterada alegação de omissão acerca da incidência das astreintes, verifica-se que o Tribunal de origem tratou do trema, ponderando o seguinte (fls. 845-846, destaquei):
+Importante registrar, inclusive, a complexidade da perícia a ser realizada na primeira instância, a demandar a nomeação de perito devidamente atualizado com a questão posta nos autos, porquanto a apólice até então usufruída pelos funcionários da ex-empregadora Michelin adota a modalidade de custeio pós-pagamento, com valor do prêmio variável, dependente do cálculo das despesas efetuadas pelos usuários mês a mês, ausente, assim, ao menos a princípio, custo fixo e individualizado para os funcionários da ativa.
+Por esses mesmos motivos, inclusive, há de se acolher o inconformismo da executada quanto à necessidade de exclusão das astreintes, mantidas as ponderações efetivadas por ocasião do julgamento do agravo de instrumento nº 2108593-94.2020.8.26.0000:
+" ..  A tutela de urgência foi deferida para compelir a requerida ao cumprimento de obrigação de fazer consistente na manutenção por prazo indeterminado, a partir da próxima mensalidade vincenda, de cobertura contratual sob as mesmas condições existentes durante a vigência do contrato de trabalho (Plano "Saúde Top Quarto Nacional"), para o autor e seus dependentes, mediante custeio integral da mensalidade, com assunção do pagamento da cota-parte da ex-empregadora, nas mesmas condições dos empregados da ativa, inclusive quanto aos reajustes periódico.
+Destaca-se, contudo, o alegado descumprimento baseado no alto valor do prêmio não restou comprovado, sobretudo diante dos esclarecimentos prestados pela requerida a fls. 278/280 (autos originários), por meio dos quais ela informou que não existe fatura técnica na modalidade de apólice do autor - cuja média de valores cobrados é calculada com base na utilização diária dos integrantes da aludida apólice - e que, " ..  a partir do deferimento da liminar, o valor do prêmio do plano foi recalculado com base no custo médio dos últimos 12 meses chegando ao montante de R$ 1.880,86 como valor total (R$ 612,38 como prêmio básico por vida  IOF).8 . Desta forma, tendo em vista o valor do prêmio por custo médio é superior ao valor cobrado antes da liminar a seguradora manteve a cobrança por faixa etária, para que não haja prejuízos ao autor." (fls.280).
+Assim, inexiste omissão no julgado.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Por fim, acerca da violação dos arts. 301 e 537, § 4º, do CPC e à tese de validade da multa cominatória, como bem destacado no trecho citado do acórdão recorrido acima, observa-se que o Tribunal a quo, com base nos elementos dos autos, manifestou-se pela inaplicabilidade das astreintes ante a ausência de comprovação do descumprimento da ordem judicial.
+Nesse cenário, acolher o pleito da ora agravante para determinar o efetivo descumprimento da ordem judicial e reconhecer a validade da multa então afastada demandaria reexame fático-probatório dos elementos acostados aos autos, providência vedada em razão do óbice da Súmula n. 7 do STJ.
+Em relação à violação do art. 1.022, II, do CPC, como destacado na decisão acima colacionada, o Tribunal de origem tratou da não incidência das astreintes no caso e ausência de comprovação do descumprimento da determinação judicial.
+Assim, inexistente omissão a ser sanada no julgado, tendo o Tribunal de origem examinado e decidido, de modo claro e objetivo, as questões que delimitam a controvérsia.
+No mais, também não pode ser afastada a incidência da Súmula n. 7 do STJ.
+Como consignado na decisão agravada, o Tribunal a quo, com base nos elementos dos autos, manifestou-se pela inaplicabilidade das astreintes ante a ausência de comprovação do descumprimento da ordem judicial.
+Nesse cenário, acolher a violação dos arts. 301 e 537, § 4º, do CPC e determinar a validade da multa cominatória pleiteada, demandaria, de fato, a reanálise dos elementos fático-probatórios acostados aos autos, o que é vedado em sede de instância especial.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DEMORA NA BAIXA DO GRAVAME HIPOTECÁRIO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. ASTREINTES. REVISÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O mero inadimplemento contratual é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que o agravado foi exposto ultrapassou o mero dissabor. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+6. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor das astreintes, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, à mingua de detalhamento sobre os fatos da causa no aresto impugnado, não há como aferir a razoabilidade e a proporcionalidade da referida multa somente com base nos cálculos e nas alegações trazidas no agravo interno, sem incorrer no mencionado óbice.
+7. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.114.207/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
