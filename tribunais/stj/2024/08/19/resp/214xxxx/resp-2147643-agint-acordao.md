@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. EX-FERROVIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. APOSENTADO QUE PERMANECE EM ATIVIDADE. RESTRIÇÃO NÃO PREVISTA EM LEI. EQUIPARAÇÃO COM REMUNERAÇÃO DE EMPREGADOS DA CBTU. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência do STJ, "a Lei n. 8.186/1991 não apresenta restrições ao direito de complementação da aposentadoria para os aposentados que permanecem em atividade, razão pela qual o exercício de qualquer atividade pelo aposentado não pode impedir o pagamento da complementação" (REsp 1.843.956/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 28/10/2020).
+2. O Superior Tribunal de Justiça também já decidiu que "a complementação de aposentadoria devida aos aposentados da extinta RFFSA, mesmo que ao tempo da inatividade estivessem vinculados à CBTU, terá como referência os valores previstos no plano de cargos e salários da extinta RFFSA, sucedida pela VALEC - Engenharia, Construções e Ferrovias S.A. Inexiste, portanto, amparo legal à equiparação com a remuneração dos empregados da própria CBTU" (REsp n. 2.092.233/MG, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 26/10/2023).
+3. Agravo Interno parcialmente provido.
+RELATÓRIO
+Trata-se de Agravo Interno contra decisão que deu provimento ao Recurso Especial, reconhecendo que "a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a Lei 8.186/1991 restringe o direito de complementação da aposentadoria para os aposentados que permanecem em atividade."
+Nas razões recursais (fls. 269-276), alega-se:
+No ponto, cabe ressaltar que legislador partiu do princípio de que a aposentadoria indicava o fim da atividade laborativa, o que implicaria na necessidade da complementação para assegurar a manutenção da renda habitual do ferroviário. Assim, é evidente que o desligamento do emprego e a defasagem remuneratória são requisitos para a obtenção desta complementação.
+Logo, para haver o pagamento de complementação de aposentadoria, é necessário que haja desligamento do emprego e a defasagem remuneratória a ser compensada pelo ente público para fins de manutenção da renda habitual do ferroviário.
+Impugnação às fls. 280-285.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. EX-FERROVIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. APOSENTADO QUE PERMANECE EM ATIVIDADE. RESTRIÇÃO NÃO PREVISTA EM LEI. EQUIPARAÇÃO COM REMUNERAÇÃO DE EMPREGADOS DA CBTU. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência do STJ, "a Lei n. 8.186/1991 não apresenta restrições ao direito de complementação da aposentadoria para os aposentados que permanecem em atividade, razão pela qual o exercício de qualquer atividade pelo aposentado não pode impedir o pagamento da complementação" (REsp 1.843.956/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 28/10/2020).
+2. O Superior Tribunal de Justiça também já decidiu que "a complementação de aposentadoria devida aos aposentados da extinta RFFSA, mesmo que ao tempo da inatividade estivessem vinculados à CBTU, terá como referência os valores previstos no plano de cargos e salários da extinta RFFSA, sucedida pela VALEC - Engenharia, Construções e Ferrovias S.A. Inexiste, portanto, amparo legal à equiparação com a remuneração dos empregados da própria CBTU" (REsp n. 2.092.233/MG, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 26/10/2023).
+3. Agravo Interno parcialmente provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 17/7/2024.
+Em síntese, a parte agravada pretende o recebimento da complementação de aposentadoria prevista nas Leis 8.186/19991 e 10.478/2002, não obstante estar em atividade na CBTU.
+A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a Lei 8.186/1991 restringe o direito de complementação da aposentadoria para os aposentados que permanecem em atividade. Logo, o exercício de qualquer ocupação pelo aposentado não pode impedir o pagamento da complementação.
+Nessa senda:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚM. N. 284/STF. EX-FERROVIÁRIO. COMPLEMENTAÇÃO DE APOSENTAD ORIA. RESTRIÇÃO NÃO PREVISTA EM LEI. POSSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+1. Não é possível conhecer da alegada violação do art. 1.022, II, do CPC/2015, pois as teses indicadas no recurso especial não demonstram quais foram as questões essenciais ao deslinde da controvérsia omitidas pelo acórdão a quo.
+2. Nos termos do art. 1º da Lei n. 8.186/1991 c/c art. 1º da Lei n. 10.478/2002, o pagamento da complementação de aposentadoria é garantido aos ferroviários vinculados a antiga RFFSA admitidos até o dia 21 de maio de 1991. Precedentes.
+3. No caso dos autos, o quadro fático delineado pelo acórdão a quo reconhece a condição de ex-ferroviário do ora recorrente, porém não reconhece o direito à complementação da aposentadoria porque o empregado da CBTU permanece trabalhando.
+4. Contudo, a Lei n. 8.186/1991 não apresenta restrições ao direito de complementação da aposentadoria para os aposentados que permanecem em atividade, razão pela qual o exercício de qualquer atividade pelo aposentado não pode impedir o pagamento da complementação.
+5. Ademais, cabe destacar a jurisprudência do STJ reconhece a impossibilidade de a Administração Pública conferir interpretação extensiva para criar um requisito não previsto em lei para a concessão de direitos.
+6. Recurso especial parcialmente conhecido e, nessa extensão, provido. (REsp 1.843.956/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 28/10/2020.)
+No entanto, assiste razão à União quando defende que a complementação de aposentadoria deve ter como parâmetro a tabela salarial da extinta RFFSA, sucedida pela VALEC Engenharia, Construções e Ferrovias S.A.
+A propósito:
+ADMINISTRATIVO. EX-FERROVIÁRIO DA CBTU. SUBSIDIÁRIA DA RFFSA. COMPLEMENTAÇÃO DE APOSENTADORIA. LEIS N. 8.186/91 E 10.233/2001. REFERÊNCIA. PLANO DE CARGOS E SALÁRIOS DA EXTINTA RFFSA. SUCEDIDA PELA VALEC S.A. EQUIPARAÇÃO COM REMUNERAÇÃO DE EMPREGADOS DA CBTU. IMPOSSIBILIDADE.
+I - O benefício de complementação de aposentadoria foi concedido a todos os funcionários admitidos pela RFFSA e suas subsidiárias até a data de início da vigência da Lei n. 8.186/91, em 21 de maio de 1991.
+II - A alteração no marco temporal de admissão promovida pela Lei n. 10.478/2002 teve por escopo conceder aos empregados da RFFSA e suas subsidiárias, no caso a CBTU, um tratamento isonômico aos empregados que se encontravam na mesma situação.
+III - Assim, os ferroviários da CBTU, em que pese ela tenha deixado de ser subsidiária da RFFSA em 1993, fazem jus à complementação de aposentadoria desde que tenham sido admitidos até 21/5/1991 e preencham os demais requisitos legais.
+IV - Constatado que a complementação da aposentadoria foi concedida à parte autora nos termos das Leis n. 8.186/91 e 10.478/2002, restou a controvérsia acerca da possibilidade ou não de receber tal complementação em patamar que iguale seus proventos ao valor da remuneração do quadro de pessoal em atividade da CBTU.
+V - A Lei n. 11.483/2007, ao decretar a liquidação e extinção da RFFSA, transferiu os trabalhadores ativos da companhia, alocando-os em carreira especial. Portanto, a paridade garantida aos aposentados tem como parâmetro a remuneração dos funcionários ativos do quadro especial da extinta RFFSA, e não a dos empregados das empresas que a sucedeu.
+VI - Cabe referir que a Lei n. 11.483/07 previu ainda que, mesmo quando não existir mais nenhum empregado da extinta RFFSA em atividade, os valores dos proventos dos ferroviários inativos não seguirão o plano de cargos e salários das empresas que a sucederem, passando a ser reajustados de acordo com os mesmos índices aplicáveis aos benefícios do regime geral de previdência social.
+VII - A garantia de complementação como prevista não constitui uma aposentadoria complementar, um benefício autônomo, mas apenas um benefício legal objetivando a paridade entre ativos e inativos. Por essa razão, não há falar em ilegalidade em eventual redução do valor da compensação, o que poderá ocorrer, v.g., para que o inativo não passe a receber mais do que o empregado em atividade, quando houver descompasso entre os reajustes dos benefícios concedidos pelo INSS e os concedidos aos empregados em atividade.
+VIII - Assim, percebe-se, das disposições legais atinentes à espécie, que a complementação de aposentadoria devida aos aposentados da extinta RFFSA, mesmo que ao tempo da inatividade estivessem vinculados à CBTU, terá como referência os valores previstos no plano de cargos e salários da extinta RFFSA, sucedida pela VALEC - Engenharia, Construções e Ferrovias S.A. Inexiste, portanto, amparo legal à equiparação com a remuneração dos empregados da própria CBTU.
+IX - Recurso especial parcialmente provido.
+(REsp n. 2.092.233/MG, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 26/10/2023)
+Quanto ao ponto, não há falar em desinteresse da União em recorrer. Ora, se a sentença e o acórdão de segundo grau lhe foram integralmente favoráveis, não havia interesse do ente público em debater o paradigma a ser utilizado para fins de complementação de aposentadoria. Essa possibilidade só surgiu a partir do Agravo Interno contra a decisão desta relato ria.
+Ante o exposto, dou parcial provimento ao Agravo Interno.
+É como voto.
