@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  REGISTRO  DE  IMÓVEIS.  ANULAÇÃO.  RECURSO  ESPECIAL.  TEMPESTIVIDADE.  FERIADO  LOCAL.  COMPROVAÇÃO.  NECESSIDADE.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+ Trata-se  de  embargos  de  declaração  opostos  por  JORGE  LEÔNCIO  MARTINS  -  ESPÓLIO  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  INTEMPESTIVIDADE.  CORPUS  CHRISTI.  FERIADO  LOCAL.  COMPROVAÇÃO.  INTERPOSIÇÃO.  CALENDÁRIO  DO  STJ.  IRRELEVÂNCIA.  REGRAS.  ORIGEM.  ADMISSIBILIDADE.  JUÍZO  BIFÁSICO.
+1.  A  Corte  Especial  do  Superior  Tribunal  de  Justiça,  quando  do  julgamento  do  REsp  nº  1.813.684/SP  e  da  Questão  de  Ordem  que  lhe  seguiu,  reafirmou  o  entendimento  de  que  o  feriado  local  deve  ser  comprovado  no  ato  da  interposição  do  recurso  correspondente,  devendo  ser  observada,  exclusivamente  acerca  do  feriado  da  segunda-feira  de  carnaval,  a  modulação  dos  efeitos  dessa  decisão,  nos  termos  do  art.  927,  §  3º,  do  CPC,  a  fim  de  que  a  interpretação  consolidada  acerca  do  tema  seja  aplicada  somente  após  a  publicação  do  acórdão  respectivo,  ocorrida  em  18/11/2019.
+2.  O  Dia  do  Servidor  Público  (28  de  outubro),  o  dia  1º  de  novembro,  a  segunda-feira  de  carnaval,  a  quarta-feira  de  Cinzas,  os  dias  que  precedem  a  sexta-feira  da  Paixão  e  também  o  dia  de  Corpus  Christi  não  são  feriados  nacionais,  sendo  imprescindível  a  comprovação  de  suspensão  do  expediente  forense  na  origem.
+3.  Os  recursos  interpostos  na  instância  de  origem,  mesmo  que  endereçados  a  esta  Corte  Superior,  observam  o  calendário  de  funcionamento  do  tribunal  local,  não  podendo  se  utilizar,  para  todos  os  casos,  dos  feriados  e  das  suspensões  previstas  em  portaria  e  no  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  que  muitas  vezes  não  coincidem  com  os  da  Justiça  estadual.
+4.  O  juízo  de  admissibilidade  feito  no  tribunal  de  origem  não  vincula  esta  Corte  por  se  tratar  de  procedimento  bifásico.  5.  Agravo  interno  não  provido"  (e-STJ  fl.  4.740).
+Em  suas  razões  (e-STJ  fls.  4.750/4.756),  o  embargante  aponta  omissão  quanto  à  notoriedade  do  feriado  de  Corpus  Christi  e  no  que  diz  respeito  à  admissão  do  apelo  nobre  pela  Corte  local,  que  atestou  a  sua  tempestividade  .
+Argumenta  que
+"(..)  o  feriado  de  Corpus  Christi  é  amplamente  reconhecido  e  está  presente  em  todos  os  calendários,  sejam  físicos  ou  digitais.  É  um  evento  recorrente,  celebrado  anualmente  na  mesma  época,  conhecido  por  toda  a  população  e  amplamente  divulgado.  Essa  notoriedade  é  de  tal  magnitude  que  se  torna  desnecessária  qualquer  comprovação  formal  para  efeitos  processuais,  conforme  disposto  no  art.  374,  inciso  I,  do  CPC/2015"  (e-STJ  fl.  4.752).
+Sustenta  que
+"(..)  a  determinação  de  feriados  locais  e  pontos  facultativos  é  uma  prerrogativa  do  tribunal  local,  que  está  em  melhor  posição  para  avaliar  as  especificidades  de  sua  própria  jurisdição.  O  reconhecimento  da  tempestividade  do  recurso  pelo  TJRJ  reflete  uma  compreensão  contextualizada  e  precisa  dos  prazos  processuais  aplicáveis,  considerando  a  ausência  de  expediente  no  dia  de  Corpus  Christi,  não  podendo  ser  desconsiderado"  (e-STJ  fl.  4.754).
+Ao  final,  requer  que
+"(..)  sejam  os  presentes  embargos  de  declarações  conhecidos  e  acolhidos  para  que  seja  sanada  a  omissão  quanto  à  ausência  de  fundamentação  sobre  a  notoriedade  do  feriado  de  Corpus  Christi,  que,  embora  não  seja  um  feriado  nacional,  é  amplamente  reconhecido  e  divulgado,  dispensando  a  necessidade  de  comprovação,  conforme  disposto  no  art.  374,  inciso  I,  do  CPC/2015  e  quanto  ao  pronunciamento  do  TJRJ,  que,  em  sua  decisão  de  admissibilidade,  reconheceu  a  tempestividade  do  recurso  especial  interposto"  (e-STJ  fl.  4.754).
+As  impugnações  foram  apresentadas  às  e-STJ  fls.  4.760/4.774  e  4.775/4.778.
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  REGISTRO  DE  IMÓVEIS.  ANULAÇÃO.  RECURSO  ESPECIAL.  TEMPESTIVIDADE.  FERIADO  LOCAL.  COMPROVAÇÃO.  NECESSIDADE.  OMISSÃO,  CONTRADIÇÃO,  OBSCURIDADE  E  ERRO  MATERIAL  NÃO  VERIFICADOS.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  ,  os  embargos  de  declaração  somente  são  cabíveis  para  esclarecer  obscuridade  ou  eliminar  contradição,  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  ter  se  pronunciado  o  juiz,  de  ofício  ou  a  requerimento,  bem  como  para  corrigir  erro  material.
+Na  espécie,  não  se  verifica  a  omissão  quanto  à  admissibilidade  do  recurso  pela  Corte  local,  pois  houve  manifestação  acerca  da  duplicidade  do  juízo  preliminar  do  recurso  especial  e  da  não  vinculação  da  decisão  da  Corte  local  em  relação  ao  preenchimento  dos  requisitos  de  admissibilidade  ou  não  do  apelo  extremo.
+No  que  diz  respeito  à  necessidade  de  comprovação  do  feriado  de  Corpus  Christi  ,  tampouco  se  observa  o  vício  apontado,  pois  o  julgado  recorrido  apontou  a  jurisprudência  desta  Corte  ,  que  exige  a  comprovação,  mesmo  nas  hipóteses  como  a  dos  autos.
+Além  do  mais,  a  Terceira  Turma  do STJ  já  decidiu  que  não  há  falar  em  notoriedade  em  relação  a  feriados  locais.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  INTEMPESTIVO.  SUSPENSÃO  DOS  PRAZOS  PROCESSUAIS  NO  TRIBUNAL  ESTADUAL.  AUSÊNCIA  DE  COMPROVAÇÃO  DO  FERIADO  LOCAL,  POR  DOCUMENTO  IDÔNEO,  NA  INTERPOSIÇÃO  DO  RECURSO.  ART.  1.003,  §  6º,  DO  NCPC.  ENTENDIMENTO  DA  CORTE  ESPECIAL.  DIA  DE  CORPUS  CHRISTI.  INEXISTÊNCIA  DE  FERIADO  NACIONAL.  AUSÊNCIA  DE  NOTORIEDADE.  ART.  932,  PARÁGRAFO  ÚNICO,  DO  NCPC.  CONCESSÃO  DE  PRAZO.  VÍCIOS  FORMAIS  SOMENTE.  MAJORAÇÃO  DOS  HONORÁRIOS  ADVOCATÍCIOS  PELO  NÃO  PROVIMENTO  DO  AGRAVO  INTERNO.  ART.  85,  §  11,  DO  NCPC.  INADMISSIBILIDADE.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+4.  Esta  Corte  adota  o  entendimento  de  que  o  Dia  de  Corpus  Christi  não  é  feriado  nacional.  Desse  modo,  é  dever  da  parte  comprovar,  no  ato  da  interposição  do  recurso,  por  documento  idôneo,  a  suspensão  do  expediente  forense  no  Tribunal  estadual,  o  que  não  ocorreu  na  hipótese.
+5.  O  prazo  conferido  pelo  parágrafo  único  do  art.  932  do  NCPC  somente  é  aplicável  aos  casos  em  que  seja  possível  sanar  vícios  formais,  como  ausência  de  procuração  ou  de  assinatura,  e  não  à  complementação  da  fundamentação  ou  de  comprovação  da  intempestividade.
+6.  A  interposição  de  agravo  interno  não  inaugura  instância,  razão  pela  qual  se  mostra  indevida  a  majoração  dos  honorários  advocatícios  prevista  no  art.  85,  §  11,  do  CPC/2015.
+7.  Agravo  interno  não  provido."
+(AgInt  no  AREsp  2.338.218/SP,  Relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  2/10/2023,  DJe  de  4/10/2023  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  EM  RECURSO  ESPECIAL.  INTEMPESTIVIDADE.  FERIADO  LOCAL.  RECESSO  FORENSE  E/OU  SUSPENSÃO  DE  PRAZOS  NOS  TRIBUNAIS.  AUSÊNCIA  DE  NOTORIEDADE.  COMPROVAÇÃO  POSTERIOR.  IMPOSSIBILIDADE.  APLICAÇÃO  DO  CPC/15.
+1.  O  art.  1.003,  §  6º,  do  CPC/15,  estabelece  que  o  recorrente  comprovará  a  ocorrência  de  feriado  local  no  ato  de  interposição  do  recurso,  o  que  impossibilita  a  regularização  posterior.
+2.  A  existência  de  recesso  forense  e  suspensão  de  prazos  processuais  nos  Tribunais  de  Justiça  não  se  presume  público  e  notório  em  âmbito  nacional.
+3.  Considerando  que  o  agravo  em  recurso  especial  foi  interposto  sob  a  égide  do  novo  regramento  processual  e  deixando  a  agravante  de  comprovar  a  ocorrência  de  feriado  local  quando  de  sua  interposição,  não  há  como  ser  afastada  a  intempestividade  do  recurso.
+4.  Agravo  interno  no  agravo  em  recurso  especial  não  provido."
+  (AgInt  no  AREsp  1.391.048/SP,  Relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  13/5/2019,  DJe  de  15/5/2019  -  grifou-se).
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
