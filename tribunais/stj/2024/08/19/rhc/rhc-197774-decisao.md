@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ELIEVERSON LEONARDO SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que denegou a ordem pleiteada no HC n. 5173984-74.2024.8.09.0000, assim ementado (fl. 179):
+HABEAS CORPUS. TRÁFICO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. SENTENÇA CONDENATÓRIA. APLICAÇÃO DOBENEFÍCIO DO TRÁFICO PRIVILEGIADO. ALTERAÇÃO DO REGIME CUMPRIMENTO DE PENA. NÃO CONHECIMENTO. DECISÃO FUNDAMENTADA.
+I - O habeas corpus não é o meio adequado para questionar se o paciente deve ser beneficiado com o tráfico privilegiado e o regime de cumprimento de pena fixado na sentença, posto que tais matérias são suscetíveis de recurso próprio.
+II - Não caracteriza constrangimento ilegal a negativa do direito de recorrer em liberdade, se o Magistrado justificou, ainda que de forma sucinta, a sua necessidade, sobretudo quando o réu permaneceu preso durante toda a instrução processual.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA PARTE, DENEGADA.
+Extrai-se dos autos que o recorrente foi condenado pelos crimes descritos no art. 33, caput, da Lei n. 11.343/2006 e no art. 311 do Código Penal, sendo-lhe aplicada pena de 0 8 (oito) anos de reclusão, a ser cumprida no regime inicial fechado, e 510 (quinhentos e dez) dias-multa.
+Sustenta o recorrente a ausência de fundamentação no tocante à fixação do regime inicial fechado e ao indeferimento do direito de recorrer em liberdade.
+Assevera que o condenado teria que ser beneficiado com o tráfico privilegiado, notadamente diante dos seus predicados pessoais abonadores.
+Ao final, pugna pelo provimento do recurso, a fim de que
+seja reformado totalmente o referido acórdão, determinando o imediato redimensionamento da pena, em consonância com o redutor previsto no § 4º, artigo 33, da Lei 11.343/2006, bem como suas consequências legais, fixando regime menos gravoso para o cumprimento de eventual pena privativa de liberdade, de modo a transferir o paciente para regime semiaberto para o cumprimento provisório de pena, bem como a concessão do direito ao Paciente de recorrer em liberdade, pois presentes, em exuberância, os pressupostos cautelares necessários (fl. 207).
+Liminar indeferida (fls. 225-226).
+Informações prestadas às fls. 240-253.
+O Ministério Público Federal opinou pelo provimento do recurso e a concessão da ordem, para determinar que o e. Tribunal de origem aprecie o mérito do Habeas Corpus originário e para conceder o direito do paciente recorrer em liberdade (fl. 259).
+É o relatório.
+DECIDO.
+As  tese s  trazida s  pela  Defesa,  relativas  ao redutor previsto no art. 33, § 4º, da Lei de Drogas e ao regime inicial de cumprimento de pena,  não  foram  apreciada s  no  acórdão  impugnado.
+Desse modo, não tendo a Corte local se manifestado acerca da aludida tese defensiva, é vedado a este Tribunal examinar essa questão, sob pena de indevida supressão de instância.
+A propósito,  m atéria não apreciada pelo Tribunal de origem não pode ser diretamente enfrentada por esta Corte Superior, sob pena de supressão de instância (AgRg no HC n. 548.222/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 03/03/2020, DJe de 09/03/2020).
+Por outro lado, constato a existência de manifesta ilegalidade apta a ensejar a concessão de ordem, visto que não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HABEAS CORPUS NÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SER CABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+1. O pedido de cassação da decisão proferida pelo Juízo das Execuções, que determinou a realização de exame criminológico para a análise do pedido de progressão, não foi apreciado pelo Tribunal a quo, que indeferiu liminarmente à ordem originária por entender que era inviável a análise da matéria, na via do habeas corpus, por haver previsão de recurso específico para impugnar ato do Juiz das Execuções Penais.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na tese a respeito da previa realização do exame criminológico para fins de progressão de regime. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender de direito. (AgRg no HC n. 465.318/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 26/03/2019, DJe de 10/04/2019; grifamos).
+Assim, devido à inconstitucional omissão por não ter sido apreciada a tese defensiva - o que viola o princípio da inafastabilidade da jurisdição -, impõe-se determinar ao Tribunal estadual que prossiga no exame do pedido.
+A propósito:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RÉU FORAGIDO, REITERAÇÃO DELITIVA E MODUS OPERANDI. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. TESES DE NULIDADE E EXCESSO DE LINGUAGEM. SUPRESSÃO DE INSTÂNCIA. INDEVIDA AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. As teses referentes à ilicitude da prova e ao excesso de linguagem não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte local, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+5. Compulsando os autos, contudo, é imperioso consignar que a defesa, de fato, formulou tais pedidos na impetração originária, e que o Tribunal de Justiça não conheceu da impetração, deixando de apreciar o pleito formulado no writ, ao fundamento de que ""não admitem a utilização do habeas corpus como sucedâneo do meio processual adequado, exceto quando flagrante a ilegalidade apontada  .. "".
+6. ""A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio"" (HC n. 398.690/SC, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 3/8/2017, DJe de 10/8/2017).
+7. Recurso parcialmente conhecido, e, nessa extensão, desprovido. Ordem concedida de ofício para determinar ao Tribunal de Justiça do Estado do Piauí que aprecie o mérito (referentes aos capítulos decisórios remanescentes) do habeas corpus originário como entender de direito. (RHC n. 107.237/PI, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/10/2019, DJe de 28/10/2019; grifamos).
+Por fim, no tocante ao pleito do acusado de recorrer em liberdade, em consulta ao andamento processual disponível no site do Tribunal a quo, verifica-se que no dia 16/07/2024 foi certificado o trânsito em julgado do édito condenatório proferido em desfavor do ora recorrente.
+Portanto, diante da execução definitiva da pena, houve a superveniente perda de objeto desta insurgência, em que se objetivava demonstrar a existência de constrangimento ilegal na prisão preventiva do acusado.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. USO DE ALGEMAS. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO CONCRETO. PRECLUSÃO. MATERIALIDADE DO DELITO. VALIDADE DA PROVA. DOSIMETRIA. REGIME INICIAL. SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. DIREITO DE RECORRER EM LIBERDADE. PERDA DO OBJETO. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+ ..
+8. Com a superveniência do trânsito em julgado da condenação, fica prejudicada a análise da almejada concessão do direito de recorrer em liberdade, por tratar-se, agora, de prisão-pena, e não mais de prisão processual.
+9. Habeas corpus parcialmente conhecido e, nessa extensão, denegada a ordem.
+(HC n. 297.449/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/04/2018, DJe de 16/04/2018).
+Ante o exposto, não conheço do recurso em habeas corpus, mas concedo, de ofício, a ordem de habeas corpus para determinar ao Tribunal estadual que aprecie as teses relativas à minorante prevista no art. 33, § 4º da Lei de Drogas e ao regime inicial de c umprimento de pena, arguida no Habeas Corpus n. 5173984-74.2024.8.09.0000, julgando como entender de direito.
+Publique-se. Intimem-se
+EMENTA
