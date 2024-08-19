@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO NA VIGÊNCIA DO NOVO CPC SEM A DEVIDA COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO. RECURSO NÃO PROVIDO.
+1. Deve ser mantida a decisão agravada, pois, o acórdão recorrido foi disponibilizado no DJe no dia 10/12/2021 e considerado publicado no dia 13/12/2021, contudo, o recurso especial somente foi interposto em 07/01/2022, sendo, portanto, intempestivo.
+2. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado". Precedentes.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAYCON DANILO DA SILVA contra decisão monocrática da Presidência que não conheceu do agravo por intempestividade do recurso especial.
+O agravante requer a reconsideração da decisão agravada ou o provimento de seu recurso pelo colegiado.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ fls. 3.387-3.391).
+É o relatório.
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO NA VIGÊNCIA DO NOVO CPC SEM A DEVIDA COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO. RECURSO NÃO PROVIDO.
+1. Deve ser mantida a decisão agravada, pois, o acórdão recorrido foi disponibilizado no DJe no dia 10/12/2021 e considerado publicado no dia 13/12/2021, contudo, o recurso especial somente foi interposto em 07/01/2022, sendo, portanto, intempestivo.
+2. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado". Precedentes.
+3. Agravo regimental não provido.
+VOTO
+O recurso não merece prosperar.
+De início, cumpre ressaltar que o recurso especial foi interposto na vigência do Código de Processo Civil de 2015, o que enseja a observância do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". Na espécie, como ressaltado no decisum reprochado, aplica-se a regra do art. 798, caput, e §3º, do Código de Processo Penal, uma vez que o art. 220 do Código de Processo Civil de 2015, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal. Logo, a continuidade dos prazos processuais penais é afirmada pelo princípio da especialidade.
+Uma vez iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeiro dia útil seguinte.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. NÃO COMPROVAÇÃO. RESOLUÇÃO N. 244 DO CNJ. NÃO APLICAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O recesso judiciário não tem o condão de interromper ou suspender a contagem do prazo, mas tão somente prorroga o dia do vencimento para aqueles findos em seu curso, para o dia útil subsequente.
+2. "A suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/5/2017).
+3. Agravo regimental não provido"
+(AgRg nos EDcl no AREsp n. 1.070.409/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2017).
+No caso dos autos, verifico que o acórdão recorrido foi disponibilizado no DJe no dia 10/12/2021, sexta-feira, considerando-se publicado no dia 13/12/2021, segunda-feira (e-STJ fl. 3.239), iniciando-se a contagem no dia subsequente e encerrando-se os 15 dias para interposição no dia 28/12/2021.
+. O recurso especial, contudo, somente foi interposto em 07/01/2022 (e-STJ fl. 3.289) sendo manifesta, portanto, a sua intempestividade, pelo que deve ser mantida a decisão monocrática recorrida.
+Ademais, o recorrente não logrou demonstrar, no ato da interposição do recurso, eventual causa interruptiva do prazo recursal que o beneficiasse.
+Conforme decisão agravada (e-STJ fls. 3.361-3.362):
+Mediante análise do recurso de MAYCON DANILO DA SILVA, a parte recorrente foi intimada do v. acórdão recorrido em 13/12/2021, sendo o recurso especial somente interposto em 07/01/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre observar que, "de acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro". (AgRg no AREsp 1698961/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, D
+Je 13/08/2020.)Além disso, em consonância com o regramento do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão". (AgRg no AREsp 1612424/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/6/2020.)Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO FORA DO PRAZO LEGAL. LAPSO TEMPORAL DE (QUINZE) DIAS CORRIDOS. CORPUS CHRISTI. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO ESPECIAL AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" (ut, AgRg no AREsp n. 1040102/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 07/04/2017).
+2. No caso dos autos, o acórdão recorrido foi publicado no dia 24/5/2023, iniciando-se o prazo recursal no primeiro dia útil seguinte (25/5/2023) e terminando 15 dias corridos após essa data (8/6/2023). O recurso especial foi interposto intempestivamente, no dia 13/6/2023.
+3. O entendimento desta Corte Superior é no sentido de que o dia de Corpus Christi é feriado local, e não nacional, uma vez que não está previsto em legislação federal, exigindo-se, assim, comprovação nos autos pela parte interessada por meio de documento idôneo, no ato de interposição do recurso (ut, AgInt no AREsp 1253867/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 05/10/2018).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.465.783/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/12/2023, DJe de 11/12/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
