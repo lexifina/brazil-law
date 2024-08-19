@@ -1,0 +1,56 @@
+DECISÃO
+MAURO MANOEL RODRIGUES DA SILVA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins na Apelação Criminal n. 0002333-31.2020.8.27.2738.
+O agravante foi condenado, pelo crime previsto no art. 180, caput, do Código Penal, à sanção de 1 ano, 2 meses e 12 dias de reclusão mais 10 dias-multa, no regime inicial semiaberto.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 33, § 3º, 59, 180, caput e § 3º, do Código Penal e 386, VII, do Código de Processo Penal. Em síntese, sustentou a absolvição por insuficiência de prova do dolo delitivo. Aduziu que "o órgão acusador não conseguiu carrear provas hábeis e convincentes acerca da vontade (dolo) do recorrente em lesionar o bem jurídico tutelado" (fl. 327). Alternativamente, pleiteou a desclassificação do ilícito para a modalidade culposa. Subsidiariamente, sustentou a fixação do regime inicial aberto, ao argumento de que a reincidência não era especifica e as circunstâncias judiciais eram favoráveis.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 393-397, pelo não conhecimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou, relativamente à alegada inversão do ônus da prova (fls. 300-304):
+ ..
+O cerne da questão trazida à análise diz respeito a desclassificação do delito previsto no art. 180, caput, do Código Penal para a modalidade culposa (art. 180, § 3º, do CP), sustentando ausência de provas de que deveria saber da origem ilícita do bem apreendido.
+Todavia, pelo o que se vê dos autos, a materialidade delitiva restou sobejamente demonstrada por meio da prova testemunhal produzida em juízo, pelo auto de prisão em flagrante, auto de exibição e apreensão e depoimentos, inclusive confissão extrajudicial (Inquérito Policial nº 0002250- 15.2020.8.27.2738).
+A prova testemunhal colhida durante a instrução também não deixa dúvidas quanto a autoria. Colaciono, a seguir, os resumos dos depoimentos colhidos sob o crivo do contraditório, constantes da sentença (evento 101, SENT1):
+Com efeito, a vítima CLEIDILENE TEIXEIRA DE OLIVEIRA ALCÂNTARA contou que, nas circunstâncias em que se deu o furto do seu celular, havia deixado o objeto na janela de sua casa; que morava numa chácara; que desconfia que o autor do crime teria sido um rapaz que vendia queijo na região, pois este teria se deslocado até a chácara onde mora para oferecer seu produto aos moradores da região e, depois, o aparelho teria sumido; que não se recorda do nome dele. Questionada, disse que recuperou o celular por meio de um site que a polícia divulga os objetos apreendidos; que sua amiga identificou o aparelho como sendo dela; que de fato o aparelho lhe pertencia; que buscou o aparelho na Delegacia, posteriormente. Falou que conhece a pessoa que foi encontrada com seu celular; que essa pessoa é conhecia pelo nome de "MARANHÃO" (o réu); que sabe que na casa do acusado funciona uma boca de fumo; que acredita que a pessoa que furtou seu celular estabeleceu a troca do produto por drogas.
+A testemunha MÁRCIO DUARTE TEIXEIRA contou que, na data dos fatos, a polícia desencadeou uma operação em Taguatinga, que visava coibir a prática de tráfico de drogas; que um destes pontos a serem diligenciados era a casa do acusado; que havia fortes indícios de que no local tinha produtos de origem ilícita, ou seja, produtos objetos de crime;
+que souberam que estes produtos eram trocados por drogas. Disse que durante a diligência na casa do acusado, de cara encontraram o aparelho celular de CLEIDIANE; que além deste celular encontraram outros 2 aparelhos, estes com número de IMEI suprimido; que nos fundos da casa do réu havia uma motocicleta com o chassi raspado e possuía uma placa que não correspondia com as características da motocicleta que constava no sistema INFOSEG; que diante disto apreenderam os objetos e conduziram o réu à Delegacia pelo crime de receptação. Questionado, disse que o réu não falou nada no momento da busca; que as pessoas conhecem o réu pelo nome de "MARANHÃO";
+que ele é conhecido pela prática de crimes como roubo. Disse que que somente participou da diligência de busca e apreensão.
+A testemunha JHON ROSS SILVA CARVALHO, escrivão da polícia civil, disse que se recorda um pouco sobre os fatos; que sabe que durante o cumprimento do mandado de busca e apreensão na casa do acusado encontraram 3 celulares, tendo um deles uma restrição de furto. Que também foi apreendida uma moto; que se recorda somente disso. Falou acha que o celular foi restituído à vítima.
+A testemunha MAYKE YOUSSEF BARBOSA CONCEIÇÃO, policial civil, contou que à época dos fatos, foi escalado para participar de uma operação que tinha por objetivo o cumprimento de alguns mandados. Disse que sua equipe ficou responsável por cumprir a diligência na casa do denunciado; que esta foi cumprida nas primeiras horas do dia; que durante a busca foi encontrado um aparelho celular, o qual por meio do IMEI verificaram que o bem era objeto de furto; que não sabe à qual boletim de ocorrência o furto desse celular estaria relacionado; que em outro quarto foram encontrados outros 2 celulares com IMEI suprimido; que além desses objetos foi apreendida uma motocicleta; que fazendo a verificação do veículo pelo sistema, identificaram inconstâncias. Contou que o acusado foi questionado, no momento da operação, acerca do celular que tinha como registro em sistema que se tratava de objeto de furto; que o acusado respondeu que teria adquirido o objeto pelo valor de R$ 250,00 (duzentos e cinquenta reais); que foi dada voz de prisão em desfavor do réu.
+Assim, vê-se que a justificativa apresentada pelo Recorrente não pode ser acolhida, por tratar-se de mera tese defensiva.
+Tal qual consignado na sentença de primeiro grau, restou demonstrado na instrução que o aparelho celular era produto de crime, qual seja furto cometido contra Cleidilene Teixeira de Oliveira Alcântara, situação também demonstrada no boletim de ocorrência e depoimento em juízo.
+De outro lado, a ausência de apresentação nota fiscal original do aparelho, bem como a informação que o local da apreensão funcionava como uma "boca de fumo", são situações indicativas de sua origem ilícita.
+Insta salientar ainda que o valor que o Recorrente afirmou ter pago no referido aparelho celular se mostra abaixo do valor de mercado.
+Ademais, conforme regra insculpida no artigo 156, do Código de Processo Penal, tendo sido a res furtiva apreendida em poder do agente, a este, no crime de receptação, incumbe o onus probandi quanto à comprovação da origem lícita do bem, não se desonerando, o Recorrente, de demonstrar que a coisa foi adquirida de boa-fé, tampouco a sua procedência lícita, entendimento este corroborado pelos seguintes julgados, emanados do Superior Tribunal de Justiça:
+ ..
+Desta feita, os elementos de prova constantes nos autos, aliado ao depoimento firme e coeso dos policiais civis, são suficientes para manter o édito condenatório, consoante entendimento do Superior Tribunal de Justiça:
+ ..
+Nesse panorama, tenho por superada a pretensão de desclassificação da conduta imputada ao Recorrente para a figura da receptação culposa, pois é latente o dolo daquele em adquirir produto que, pelas circunstâncias acima narradas, sabia plenamente tratar-se de produto de crime.
+Nesse sentido:
+ ..
+Por fim, a defesa pugnou pela alteração do regime inicial para o aberto.
+Sobre o tema, o artigo 33, § 3º do Código Penal estatui que será determinado conforme a valoração dos referenciais previstos no artigo 59 do Código Penal.
+Nesse contexto, é importante destacar que, fundamentou a fixação do regime semiaberto na reincidência, situação apta a ensejar o regime mais gravoso de cumprimento da pena privativa de liberdade.
+Neste sentido, a Súmula 269 do STJ e os precedentes da mesma Corte:
+ ..
+Portanto, nos termos do artigo 33, § 2º, "b" e § 3º do Código Penal, o regime semiaberto para o início do cumprimento da pena privativa de liberdade imposta a pela prática do delito encontra-se correto.
+III - DISPOSITIVO Ante o exposto, voto no sentido de, em consonância com o parecer ministerial, NEGAR PROVIMENTO ao recurso, mantendo inalterada a sentença por seus próprios fundamentos.
+Conforme se observa, o julgado asseverou a existência de provas suficientes para justificar a condenação do ora agravante pela conduta descrita no art. 180, caput, do Código Penal.
+A apreensão do aparelho celular na posse do acusado autoriza a presunção relativa de que este tinha ciência da sua origem ilícita e de que essa compreensão não implica inversão do ônus probatório.
+Portanto, o recurso especial é inadmissível, em virtude da incidência do óbice previsto na Súmula n. 83 do STJ.
+Oportunamente:
+ ..
+3. "Quando há a apreensão do bem resultante de crime na posse do agente, é ônus do imputado comprovar a origem lícita do produto ou que sua conduta ocorreu de forma culposa. Isto não implica inversão do ônus da prova, ofensa ao princípio da presunção de inocência ou negativa do direito ao silêncio, mas decorre da aplicação do art. 156 do Código de Processo Penal, segundo o qual a prova da alegação compete a quem a fizer. Precedentes" (AgRg no HC n. 446.942/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2018).
+Precedentes. 4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.309.936/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 17/5/2024.)
+ ..
+3. Ademais, o STJ entende que, quando o agente é flagrado na posse do objeto receptado, cabe à defesa demonstrar o desconhecimento da origem ilícita do objeto, sem que esse mister caracterize ilegal inversão do ônus da prova.
+4. Além disso, é possível a condenação baseada em elementos do inquérito policial desde que corroborada por elementos produzidos em juízo, conforme ocorrido na hipótese dos autos. Assim, a pretensão era também inadmissível pelo óbice previsto na Súmula n. 83 do STJ.  ..
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.387.294/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 20/9/2023.)
+A análise da pretendida desclassificação da conduta para a modalidade de receptação culposa demanda a constatação de que o acusado não tinha prévia ciência da origem ilícita do aparelho, ou de que, pelas circunstâncias, deveria presumi-la , implicaria necessário reexame ou até mesmo dilação probatória, o que não é permitido, em recurso especial, segundo o disposto na Súmula n. 7 do STJ.
+Relativamente ao regime inicial semiaberto, o acórdão recorrido registrou tratar-se de réu reincidente. Assim, a jurisprudência do STJ consolidou a Súmula n. 269, a qual dispõe: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais". Essa é a hipótese dos autos (réu reincidente e circunstâncias judiciais favoráveis), razão pela qual o recurso especial é inadmissível conforme a orientação da Súmula n. 83 do STJ.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
