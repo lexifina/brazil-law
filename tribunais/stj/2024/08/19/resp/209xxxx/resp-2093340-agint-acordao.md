@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARTS. 371 E 479 DO CPC. RAZÕES GENÉRICAS E DEFICIENTES. SÚMULAS 283 E 284 DO STF. INFRINGÊNCIA AO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. DESPESAS COM PUBLICIDADE E MARKETING. CONCEITO DE INSUMO. CREDITAMENTO DE PIS E COFINS. ESSENCIALIDADE E RELEVÂNCIA DESCARACTERIZADAS NO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ.
+1. O Tribunal a quo denegou a Segurança, não reconhecendo o direito de apropriação de créditos de PIS e COFINS, oriundos das despesas com publicidade e marketing, diante do exame do objeto social das impetrantes (comercio de roupas, em geral). Concluiu que tais despesas, embora incrementem o faturamento empresarial, não possuem relevância e essencialidade para o exercício de sua atividade, motivo pelo qual a controvérsia é estritamente jurídica e dispensa a produção de prova pericial.
+2. A solução da lide se fez de modo adequado e suficiente, e o inconformismo da parte com os fundamentos adotados para justificar o resultado do julgamento diz respeito ao mérito, inconfundível com a presença dos vícios do art. 1.022 do CPC.
+3. A Corte regional não emitiu juízo de valor a respeito do art. 927, III, do CPC, de modo que incide a Súmula 211/STJ.
+4. No que se refere à necessidade de valoração da prova pericial, as razões recursais são deficientes, genéricas, visto que não impugnam o fundamento de que a matéria é estritamente jurídica, na medida em que a juntada do contrato social e o princípio do livre convencimento do juiz foram considerados, pelo órgão julgador, como suficientes para a composição da lide. Aplicação das Súmulas 283 e 284 do STF.
+5. Não prospera o inconformismo com a aplicação da Súmula 7/STJ. Ao contrário do que defendem as agravantes, a reforma do julgado depende da análise do contrato social da empresa, para se chegar à conclusão de que as despesas com publicidade constituem a essência de seu objeto social, e de que, por essa razão, deveriam ser consideradas como insumo.
+6. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RELATOR (Herman Benjamin): Trata-se de Agravo Interno contra decisão que conheceu parcialmente do Recurso Especial para lhe negar provimento.
+As agravantes afirmam:
+a) houve prequestionamento do art. 927, III, do CPC, pois provocaram o Tribunal de origem a se manifestar sobre o acórdão proferido no julgamento do REsp 1.221.170/PR (Tema 779/STJ), de modo que deve ser afastada a incidência da Súmula 211/STJ;
+b) é incorreta a aplicação das Súmulas 283 e 284 do STJ, no que se refere à tese de violação dos arts. 371 e 479 do CPC, pois a falta de valoração da prova pericial e a sua desconsideração pelo Tribunal a quo foram rebatidas nos itens 75 a 80 das razões de Recurso Especial;
+c) a violação do art. 1.022, II, do CPC foi demonstrada, visto que a Corte regional não se pronunciou sobre o laudo pericial e sobre a correta aplicação do acórdão proferido no REsp 1.221.170/PR.
+Por fim, defendem que deve ser afastada a Súmula 7/STJ, pois "a matéria de fundo sub judice é estritamente de direito, sendo a questão de relevância e essencialidade das despesas de publicidade e propaganda reconhecidas nas decisões judiciais (inclusive, no acórdão recorrido)" - fl. 654, eSTJ.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARTS. 371 E 479 DO CPC. RAZÕES GENÉRICAS E DEFICIENTES. SÚMULAS 283 E 284 DO STF. INFRINGÊNCIA AO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. DESPESAS COM PUBLICIDADE E MARKETING. CONCEITO DE INSUMO. CREDITAMENTO DE PIS E COFINS. ESSENCIALIDADE E RELEVÂNCIA DESCARACTERIZADAS NO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ.
+1. O Tribunal a quo denegou a Segurança, não reconhecendo o direito de apropriação de créditos de PIS e COFINS, oriundos das despesas com publicidade e marketing, diante do exame do objeto social das impetrantes (comercio de roupas, em geral). Concluiu que tais despesas, embora incrementem o faturamento empresarial, não possuem relevância e essencialidade para o exercício de sua atividade, motivo pelo qual a controvérsia é estritamente jurídica e dispensa a produção de prova pericial.
+2. A solução da lide se fez de modo adequado e suficiente, e o inconformismo da parte com os fundamentos adotados para justificar o resultado do julgamento diz respeito ao mérito, inconfundível com a presença dos vícios do art. 1.022 do CPC.
+3. A Corte regional não emitiu juízo de valor a respeito do art. 927, III, do CPC, de modo que incide a Súmula 211/STJ.
+4. No que se refere à necessidade de valoração da prova pericial, as razões recursais são deficientes, genéricas, visto que não impugnam o fundamento de que a matéria é estritamente jurídica, na medida em que a juntada do contrato social e o princípio do livre convencimento do juiz foram considerados, pelo órgão julgador, como suficientes para a composição da lide. Aplicação das Súmulas 283 e 284 do STF.
+5. Não prospera o inconformismo com a aplicação da Súmula 7/STJ. Ao contrário do que defendem as agravantes, a reforma do julgado depende da análise do contrato social da empresa, para se chegar à conclusão de que as despesas com publicidade constituem a essência de seu objeto social, e de que, por essa razão, deveriam ser consideradas como insumo.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO RELATOR (Herman Benjamin): Recebi os autos no Gabinete em 21 de junho de 2024.
+Manten ho a decisão que não conheceu do Recurso Especial no tocante aos arts. 371, 479 e 927, III, do CPC.
+A Súmula 211/STJ (aplicada em relação à tese de violação do art. 927, III, do CPC) foi corretamente aplicada, na medida em que o Tribunal de origem não examinou a questão controvertida à luz da referida norma.
+Do mesmo modo, também acertada a aplicação das Súmulas 283 e 284 do STF, pois o Tribunal de origem concluiu que a produção de prova pericial, no caso concreto, se tornava desnecessária, porquanto a leitura do objeto social da empresa autorizava a análise estritamente jurídica da matéria controvertida, sendo suficiente para justificar o entendimento de que as despesas com publicidade e marketing não são essenciais e relevantes no seu ramo, no que se refere à inclusão no conceito de insumo.
+As agravantes não atacaram especificamente esse entendimento, limitando-se a insistir que a análise do laudo pericial é imprescindível.
+De igual modo, o mesmo fundamento acima evidencia a ausência de violação do art. 1.022 do CPC, na medida em que o órgão julgador expôs os motivos pelos quais considerou que a controvérsia era estritamente jurídica e, portanto, dispensava a realização de prova pericial, de modo que a irresignação da parte  relativamente ao acerto ou desacerto dessa fundamentação  diz respeito ao mérito, e não se confunde com a presença de vícios no julgado.
+Por último, uma vez mais não prospera o inconformismo com a aplicação da Súmula 7/STJ, pois, ao contrário do que defendem as agravantes, a reforma do julgado depende da análise do contrato social da empresa, para se chegar à conclusão de que as despesas com publicidade constituem a essência de seu objeto social, e de que, por essa razão, deveriam ser consideradas como insumo.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
