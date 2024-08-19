@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especia l fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 355):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO (TERMO DE REFINANCIAMENTO). SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+1. RECURSO DA CASA BANCÁRIA. 1.1. PRELIMINAR. TESE DE CERCEAMENTO DE DEFESAEM RAZÃO DO JULGAMENTO ANTECIPADO DA LIDE. ALEGADA NECESSIDADE DE PERÍCIACONTÁBIL. PROVA DISPENSÁVEL À SOLUÇÃO DA LIDE. QUESTÕES QUE TRATAM DEMATÉRIA DE DIREITO. EXEGESE DOS ARTS. 370 E 355, INCISO I, DO CPC. PREFACIAL RECHAÇADA.
+1.2. JUROS REMUNERATÓRIOS. REQUERIDA MANUTENÇÃO DOS PERCENTUAIS AJUSTADOS. APLICAÇÃO DA ORIENTAÇÃO FIRMADA NO RECURSO ESPECIAL N.1.061.530/RS (RECURSO REPETITIVO), NA SÚMULA 382 DO SUPERIOR TRIBUNAL DE JUSTIÇA E NO ENUNCIADO I DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTE TRIBUNAL. PERCENTUAIS CONTRATADOS NA AVENÇA QUE SUPERAM DE FORMA DESPROPORCIONAL A TAXA MÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL DO BRASIL - BACEN, REFERENTE AO MÊS DA CONTRATAÇÃO. ABUSIVIDADE CONFIGURADA. "DECISUM" MANTIDO.
+1.3. REPETIÇÃO DO INDÉBITO. DEFENDIDA IMPOSSIBILIDADE DO PAGAMENTO. DIREITO DO CONSUMIDOR (ART. 42 DO CDC). HIPÓTESE EM QUE HOUVE MODIFICAÇÃOCONTRATUAL. PAGAMENTO DEVIDO.
+2. RECURSO DA AUTORA. TERMO INICIAL DOS JUROS MORATÓRIOS E DA CORREÇÃO MONETÁRIA NA REPETIÇÃO DO INDÉBITO. REQUERIDA DESDE A DATA DE CADA PAGAMENTO INDEVIDO. ACOLHIMENTO EM PARTE. INCIDÊNCIA DOS ARTS. 397, PARÁGRAFO ÚNICO, E 405 DO CÓDIGO CIVIL, E ART. 240, "CAPUT", DO CÓDIGO DEPROCESSO CIVIL. MANUTENÇÃO DA SENTENÇA QUE FIXOU A DATA DA CITAÇÃO EMRELAÇÃO AO JUROS MORATÓRIOS, ENTRETANTO, MODIFICAÇÃO REFERENTEÀ CORREÇÃO MONETÁRIA, DEVENDO SER FIXADO COMO TERMO INICIAL A DATA DECADA DESEMBOLSO. PRECEDENTES DESTA CORTE DE JUSTIÇA.
+3. HONORÁRIOS ADVOCATÍCIOS. REQUERIDA MAJORAÇÃO PELO AUTOR E MINORAÇÃO PELA INSTITUIÇÃO BANCÁRIA. MAGISTRADO QUE FIXOU A VERBA NOS MOLDES DO ART.85, §8º DO CPC EM VALOR COMPATÍVEL COM A COMPLEXIDADE DA DEMANDA E DO LABOR REALIZADO PELOS PROCURADORES DAS PARTES. "QUANTUM" MANTIDO.
+HONORÁRIOS EM GRAU RECURSAL (ART. 85, § 11, DO CPC/2015). NÃO CABIMENTO.
+RECURSOS CONHECIDOS, O DA INSTITUIÇÃO FINANCEIRA DESPROVIDO, O DO AUTORPARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 465/468).
+Em suas razões (e-STJ fls. 482/523), a parte aponta dissídio jurisprudencial e violação:
+(I) do art. 421 do CC, pois (e-STJ fl. 491):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão.
+(ii) dos arts. 355, I e II, e 356, I e II, do CPC/2015, pois (e-STJ fl. 502):
+ ..  entende a Recorrente ser imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual, principalmente considerando que na prática os julgadores estão, em sua maioria, limitando-se a seguir com a utilização da "taxa média de mercado" como ferramenta de aferição quanto a suposta abusividade da taxa de juros fixada e para definir o novo percentual a ser aplicado.
+Acrescenta que haveria divergência jurisprudencial, porque, caso mantido o entendimento do Tribunal de origem quanto à revisão dos juros, as séries a serem aplicadas seriam as de número 20742 e 25464, como aplicado por Tribunal diverso (e-STJ fl. 514).
+Contrarrazões apresentadas (e-STJ fls. 669/680).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios no caso concreto (e-STJ fls. 351/352):
+No presente caso, verifica-se que no contrato objeto da demanda, conforme tabela ilustrada na sentença, foram ajustados juros mensais muito superiores a 10% (dez por cento) da taxa média de mercado divulgada pelo Bacen.
+ ..  Derradeiramente, ad argumentandum tantum, impende registrar que, inobstante a admissão da margem de até 10% (dez por cento), como limite para fins de constatação de abusividade dos juros remuneratórios, considerando as peculiaridades do contrato objeto da lide, não se verifica qualquer circunstância que justifique a cobrança dos juros remuneratórios no patamar contratado, tais como: "(..) o custo da captação dos recursos no local e época do contrato; o valor e ao prazo do financiamento; as fontes de renda do cliente; as garantias ofertadas; a existência de prévio relacionamento do cliente com a instituição financeira; a análise do perfil de risco de crédito do tomador; a forma de pagamento da operação, entre outros aspectos" (REsp n. 1.821.182/RS, rel. Ministra Maria Isabel Gallotti, Quarta Turma, j. em 23-6-2022, DJe 29-6-2022).
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Ainda, desconstituir a convicção formada pelas instâncias ordinárias quanto às peculiaridades do contrato e, assim, acolher os argumentos do recurso especial é inviável, em razão das Súmulas n. 5 e 7 do STJ.
+No que diz respeito à alegada necessidade de realização de pericia contábil, bem como afronta aos arts. 355, I e II, e 356, I e II, do CPC/2015, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alega r violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Por fim, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, quanto à aplicação de série diferente, a parte não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
