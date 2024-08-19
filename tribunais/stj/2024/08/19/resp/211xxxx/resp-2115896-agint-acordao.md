@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 E 489 DO CPC. FORNECIMENTO DE MEDICAMENTO PRESCRITO POR MÉDICO ASSISTENTE. ALTERAÇÃO DE OFÍCIO DO VALOR DA CAUSA POR OCASIÃO DA PROLAÇÃO DA SENTENÇA. PRECLUSÃO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO COM BASE NO VALOR DO PROVEITO ECONÔMICO. SÚMULA 7/STJ.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Em que pese o julgamento do Tema 1.076 pelo STJ, observo que a questão teve Repercussão Geral reconhecida pelo STF no julgamento do RE 1.412.069/PR, cuja controvérsia foi delimitada nestes termos: "Tema 1.255 - Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes".
+3. Verifico que, na sentença, o Distrito Federal foi condenado em honorários advocatícios fixados, na forma do art. 85, §§ 2º e 3º, do Código de Processo Civil, em 10% (dez por cento) sobre o valor do proveito econômico obtido. Destaco que não se trata de adequação ao Tema 1.255/STF, uma vez que a condenação se baseou no valor atribuído à causa (R$ 265.000,00).
+4. Não é possível rever, na via especial, os critérios adotados pelo julgador no arbitramento dos honorários advocatícios - considerado adequado e proporcional pela Corte Distrital - por importar no revolvimento do acervo fático-probatório dos autos, o que é vedado ao por sua Súmula 7. Tal óbice só pode ser afastado quando o montante estipulado for exorbitante ou irrisório, o que não ocorreu no caso em tela. Precedentes: AgInt no AREsp 1.530.095/PR, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 13.2.2020; e AgInt no AREsp 2.323.728/MA, Rel. Min. Raul Araújo, Quarta Turma, DJe de 18.8.2023.
+5. Agravo Interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto de decisão que não conheceu do Recurso Especial.
+A parte agravante sustenta, em suma:
+No que diz com a violação aos artigos 1.022 c/c 489 do CPC, entendeu a r. decisão por ausente omissão juridicamente relevante, porque o acórdão recorrido bem se manifestou sobre (i) a ausência de impugnação do DF quanto ao valor da causa e à impossibilidade de sua revisão de ofício, (ii) a condenação em honorários sobre o proveito econômico e (iii) a mensurabilidade do proveito econômico/valor da causa, já que atrelado ao custeio do medicamento.
+Não obstante - tal como apontado pelo Distrito Federal nas razões do Especial - o v. acórdão recorrido desconsiderou tratar-se de demanda da área da saúde, cujo proveito econômico tem valor inestimável, consoante proclama a jurisprudência dessa eg. Corte, aplicando-se, precisamente por isso, o disposto no §8º do art. 85 do CPC.
+(..)
+Com efeito, no caso dos autos, portanto: (i) trata-se de tutela de direito à saúde; (ii) houve revisão de ofício do valor da causa, rechaçada pelo acórdão recorrido; e (iii) o valor da causa, portanto, permaneceu em R$ 265.000,00.
+Não é preciso revolver as provas dos autos nem adentrar em exorbitância ou insignificância da condenação em honorários para concluir pela aplicação, ao caso concreto, da previsão do §8º do art. 85 do CPC, na esteira do decidido por essa eg. Corte no julgamento do Tema 1.076-STJ.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 E 489 DO CPC. FORNECIMENTO DE MEDICAMENTO PRESCRITO POR MÉDICO ASSISTENTE. ALTERAÇÃO DE OFÍCIO DO VALOR DA CAUSA POR OCASIÃO DA PROLAÇÃO DA SENTENÇA. PRECLUSÃO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO COM BASE NO VALOR DO PROVEITO ECONÔMICO. SÚMULA 7/STJ.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Em que pese o julgamento do Tema 1.076 pelo STJ, observo que a questão teve Repercussão Geral reconhecida pelo STF no julgamento do RE 1.412.069/PR, cuja controvérsia foi delimitada nestes termos: "Tema 1.255 - Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes".
+3. Verifico que, na sentença, o Distrito Federal foi condenado em honorários advocatícios fixados, na forma do art. 85, §§ 2º e 3º, do Código de Processo Civil, em 10% (dez por cento) sobre o valor do proveito econômico obtido. Destaco que não se trata de adequação ao Tema 1.255/STF, uma vez que a condenação se baseou no valor atribuído à causa (R$ 265.000,00).
+4. Não é possível rever, na via especial, os critérios adotados pelo julgador no arbitramento dos honorários advocatícios - considerado adequado e proporcional pela Corte Distrital - por importar no revolvimento do acervo fático-probatório dos autos, o que é vedado ao por sua Súmula 7. Tal óbice só pode ser afastado quando o montante estipulado for exorbitante ou irrisório, o que não ocorreu no caso em tela. Precedentes: AgInt no AREsp 1.530.095/PR, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe 13.2.2020; e AgInt no AREsp 2.323.728/MA, Rel. Min. Raul Araújo, Quarta Turma, DJe de 18.8.2023.
+5. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 17.6.2024.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, afasta-se a apontada ofensa ao art. 1.022 do CPC/2015 porquanto não demonstrado vício capaz de comprometer o embasamento do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+Consoante a jurisprudência do Superior Tribunal de Justiça, a ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Assim, não há contrariedade ao art. 489 do CPC/2015 quando o Tribunal a quo decide de modo claro e fundamentado, como ocorreu na hipótese.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 14/9/2021.)
+No enfrentamento da demanda, o Colegiado originário consignou:
+(..)
+Ademais, verifica-se que o êxito na presente demanda revela conteúdo condenatório mensurável, que se traduz no custeio do medicamento indicado pelo médico assistente da parte autora, qual seja, 5 ampolas do medicamento ALENTUZUMAB (Lemtrada) 12mg, no período de 5 dias, o qual foi estimado corretamente em R$ 265.000,00 (duzentos e sessenta e cinco mil reais),conforme orçamento apresentado no ID 42777766, o qual não foi impugnado pela parte ré apelada.
+Deste modo, verifica-se que o aludido tratamento possui montante aferível economicamente, sendo inviável optar-se pela sua alteração de ofício.
+(..)
+No caso concreto, verifica-se que, foi acolhido o pedido formulado na inicial da ação de obrigação de fazer para o fornecimento de medicação para viabilizar o tratamento de esclerose múltipla em favor da parte autora apelada.
+Ademais, também restou constatado que o proveito econômico se encontra mensurado corretamente através do orçamento da medicação indicada para o tratamento da autora, o qual não foi impugnado pela parte ré.
+Assim, considerando o grau de zelo profissional, lugar de prestação do serviço, a natureza e a importância da causa, bem como o trabalho realizado e o tempo exigido para o serviço, os honorários devem ser fixados no percentual de 10% sobre o valor do proveito econômico obtido, com base no disposto no art. 85, §§2º e 3º, do CPC.
+Em que pese o julgamento do Tema 1.076 pelo STJ, observo que a questão teve Repercussão Geral reconhecida pelo STF no julgamento do RE 1.412.069/PR, cuja controvérsia foi delimitada nestes termos: "Tema 1.255 - Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes".
+Verifico que, na sentença, o Distrito Federal foi condenado em honorários advocatícios fixados, na forma do art. 85, §§ 2º e 3º, do Código de Processo Civil, em 10% (dez por cento) sobre o valor do proveito econômico obtido. Destaco que não se trata de adequação ao Tema 1.255/STF, uma vez que a condenação se baseou no valor atribuído à causa (R$ 265.000,00).
+Não é possível rever, na via especial, os critérios adotados pelo julgador no arbitramento dos honorários advocatícios - considerado adequado e proporcional pela Corte Distrital - por importar no revolvimento do acervo fático-probatório dos autos, o que é vedado a esta Corte pela Súmula 7/STJ. Tal óbice só pode ser afastado quando o montante estipulado for exorbitante ou irrisório, o que não ocorreu no caso em tela. Nesse sentido: AgInt no AREsp 1.530.095/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 13.2.2020; e AgInt no AREsp 2.323.728/MA, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 18.8.2023.
+Ausente a comprovação da necessi dade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
