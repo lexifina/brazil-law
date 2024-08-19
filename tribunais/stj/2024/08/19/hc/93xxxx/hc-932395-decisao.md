@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LOURIVAL TEIXEIRA JUNIOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 0008563-47.2013.8.26.0189.
+Consta dos autos que o paciente foi condenado pelo Juízo da 2ª Vara Criminal da Comarca de Fernandópolis à pena de 19 (dezenove) anos e 10 (dez) meses de reclusão, no regime inicial fechado, por infração ao artigo 121, § 2º, inciso IV, do Código Penal, nos termos da sentença de fls. 11-15.
+Não satisfeito, o paciente interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 16-21.
+Interposto recurso especial, foi inadmitido na origem. Aviado agravo em recurso especial (AREsp 727.120 / SP), não foi conhecido.
+Operado o trânsito em julgado em 31/08/2015, sobreveio o presente habeas corpus substitutivo de revisão criminal, em que o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na desproporcionalidade da exasperação da pena-base.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja fixado o patamar de 3/8 a título de exasperação da basilar.
+Não foi formulado pedido de liminar.
+Informações prestadas às fls. 27-30 e 35-48.
+O Ministério Público Federal, às fls. 52-56, opinou pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na possível existência de ilegalidade no acórdão impugnado em razão da ausência de fundamentação idônea a ensejar a exasperação da pena-base.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido." (AgRg no HC 561.185/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 16/03/2020)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019)
+Não obstante, verifico que o presente habeas corpus foi impetrado em 26/07/2024 (fl. 01), isto é, após quase 9 (nove) anos depois do trânsito em julgado da condenação (31/08/2015).
+Desse modo, não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorrido extenso lapso de tempo desde o trânsito em julgado da condenação, devendo prevalecer, no presente caso, a coisa julgada e o princípio da segurança jurídica.
+Assinalo que "a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 25/10/2021).
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO. RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos.
+2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Preced entes.
+4. Agravo regimental desprovido." (AgRg no HC 713708/SP, Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe 04/04/2022.)
+De toda sorte, não verifico no acórdão nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
