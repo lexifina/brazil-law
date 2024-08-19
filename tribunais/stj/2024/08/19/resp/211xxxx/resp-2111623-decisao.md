@@ -1,0 +1,45 @@
+DECISÃO
+MARCELO MARQUES MALHEIROS  interpõe  recurso  especial,  fundado  no  art.  105,  III,  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  Tribunal  Regional Federal da 2ª Região  na  Apelação  Criminal  n.  0800585-93.2013.4.02.5101.
+O  recorrente  foi condenado, pela prática do crime previsto no art. 313-A, c/c o art. 327, § 2º, do Código Penal, à sanção de 4 anos de reclusão mais 66 dias-multa, em regime inicial aberto.
+A defesa aponta violação dos arts. 44, § 3º, 171 e 313-A, todos do Código Penal. Sustenta a atipicidade da conduta, pois não teria havido a devida subsunção do fato à norma violada. Subsidiariamente, defende a substituição da pena privativa de liberdade por restritiva de direitos.
+Requer o provimento do recurso especial, a fim de absolver o acusado por atipicidade da conduta ou, eventualmente, a desclassificação para o crime de estelionato. Subsidiariamente, pleiteia a substituição da pena por restritivas de direitos.
+O  Ministério  Público  Federal , em parecer do Subprocurador-Geral da República Celso de Albuquerque Silva, às fls. 1.491-1.494,  opinou  pelo  não conhecimento do recurso especial.
+Decido.
+I. Inadmissibilidade do REsp
+O Tribunal de origem, ao examinar o enquadramento da conduta imputada ao recorrente, apresentou a seguinte fundamentação (fls. 1.434-1.437):
+ ..
+Encerrada a fase de instrução processual, o Juízo de origem entendeu pelo enquadramento das condutas no tipo penal previsto nos arts. 313-A c/c 327, § 2º, ambos do Código Penal, afastando às imputações por crime contra o Sistema Financeiro, previstas nos arts. 4º e 5º, ambos da Lei 7492/96.
+ ..
+Partindo dessa premissa, após analisar os elementos e provas dos autos, entendo que a conduta do réu Marcelo se enquadra no tipo penal previsto no art. 313-A do Código Penal, uma vez que o crime se consumou mediante a inserção de informações inverídicas nos sistemas informatizados da Caixa Econômica Federal. Além disso, é importante destacar que, na data dos fatos, a condição de servidor público, prevista no art. 327, § 2º, do Código Penal, está presente, considerando que o acusado ocupava cargo comissionado de gerente de agência.
+ ..
+O relatório de análise nº 7118.2011.5708 confirmou que ele, utilizando-se das permissões de acesso relacionadas ao cargo de gerente de agência, promoveu a abertura de contas, efetuou movimentações financeiras, transferências eletrônicas e transações de crédito comercial sem a devida autorização dos correntistas.
+É importante salientar que as operações realizada pelo réu Marcelo não apresentavam registros formais dos clientes, o que diverge das práticas bancárias e das normas estabelecidas pela CEF.
+O relatório da CEF aponta, detalhadamente, as operações executadas pelo réu Marcelo sem as devidas anotações formais dos respectivos clientes, que resultaram em prejuízo de aproximadamente R$ 205.000,00 (duzentos e cinco mil reais) à instituição financeira.
+Portanto, a análise conjunta das provas constantes dos autos demonstra, de maneira consistente, a materialidade das práticas ilícitas perpetradas pelo réu Marcelo, conduzindo à conclusão inconteste de que o delito previsto no art. 313-A, do Código Penal, foi, efetivamente, cometido.
+A autoria do delito tipificado no art. 313-A do Código Penal encontra-se devidamente comprovada pelos elementos probatórios presentes nos autos.
+Conforme se extrai dos documentos juntados aos autos, o réu MARCELO exerceu a função de gerente da agência Jardim Méier da Caixa Econômica Federal no período de 05/01/2010 a 25/11/2010, tendo apresentado seu pedido de demissão em dezembro de 2010.
+Os relatórios elaborados pela instituição financeira evidenciam que o acusado se apropriou indevidamente de cerca de R$20.800,00 (vinte mil e oitocentos reais) pertencentes ao correntista Hélcio Perdigão do Nascimento.
+O depoimento judicial da testemunha Hélcio corrobora as conclusões apresentadas nos procedimentos de investigação conduzidos pela Caixa Econômica Federal. Importante destacar que a testemunha confirmou que, após receber o dinheiro proveniente da venda de um imóvel, o réu Marcelo, que na época atuava como gerente da agência, entrou em contato com ele para sugerir a aplicação de parte do valor em CDB e outra parte, cerca de R$20.000,00 (vinte mil reais), na caderneta de poupança. No entanto, o valor depositado na poupança foi subtraído, conforme relatado no depoimento prestado em juízo.
+Foi constatado também que a geração da assinatura digital eletrônica foi realizada pelo réu MARCELO, sendo que não foram encontrados os respectivos contratos na agência. Conforme afirmado pela testemunha Márcio Andrade Queiroz da Silva, o réu possuía senha de gerente, o que lhe permitia realizar as operações relacionadas aos fatos ocorridos com o cliente Hélcio Perdigão e demais clientes envolvidos.
+Deve-se ressaltar, anda, que, segundo o depoimento da testemunha de acusação Márcio Andrade Queiroz da Silva, o acusado MARCELO teria admitido em conversa privada que se apropriou dos valores da conta do cliente Hélcio Perdigão, utilizando sua senha de gerente para tanto.
+Relativo ao elemento subjetivo da conduta delitiva, ficou comprovado o dolo do réu Marcelo, visto que, aproveitando-se de seu cargo de gerente da CEF e utilizando sua senha pessoal, inseriu informações falsas no banco de dados da Administração Pública para obter vantagem indevida em benefício próprio, mediante a realização de operações financeiras endividas.
+Por fim, não prosperam as teses defensivas aduzidas pelo réu Marcelo em sua apelação. Os relatórios da investigação conduzida pela CEF consignaram que as operações financeiras foram realizadas em desacordo com as normas da instituição.
+O crime do art. 313-A, do Código Penal, consuma-se quando o funcionário público insere, facilita, altera ou exclui dados nos sistemas informatizados, ou bancos de dados da Administração Pública, para obter vantagem indevida. Sendo assim, a ausência de prejuízo para os correntistas ou de ações cíveis de reparação de dano são indiferentes para a configuração do tipo penal.
+Afastadas as teses defensivas e considerando as provas produzidas em Juízo sob o crivo do contraditório, que comprovaram a materialidade, a autoria e o dolo, impõe-se a manutenção da sentença que condenou Marcelo Marques Malheiros pela prática do crime previsto no art. 313-A do Código Penal.
+A pretensão absolutória, baseada na atipicidade da conduta, não é passível de análise no âmbito do recurso especial, por demandar reexame de fatos e provas não permitido segundo o entendimento da Súmula n. 7 do STJ.
+A insurgência pretende demonstrar a alegada atipicidade a partir do confronto de provas outras que não aquelas invocadas pela Corte antecedente no julgado, com a finalidade de desconstituir as premissas então fixadas de que o réu se valeu de sua senha de gerente para inserir informações falsas no banco de dados da empresa pública (CEF). Esse tipo de análise não é cabível no recurso especial, conforme orientação jurisprudencial já citada.
+O pedido alternativo de desclassificação da conduta para aquela prevista no art. 171 do Código Penal não foi prequestionado na instância de origem, razão pela qual não deve ser analisado nesta Corte, segundo o disposto na Súmula n. 282 do STF.
+Por fim, em relação à substituição da pena privativa de liberdade, o acórdão recorrido estabeleceu que (fl. 1.437):
+ ..  o fato de réu Marcelo ser reincidente em crime doloso impossibilita a substituição da pena privativa de liberdade por restritiva de direitos, uma vez que não atende aos requisitos estabelecidos no art. 44 do Código Penal.
+Diante das circunstâncias judiciais desfavoráveis e da reincidência específica em crime doloso, a argumentação da defesa do réu Marcelo não encontra respaldo legal para a redução da pena privativa de liberdade ao mínimo legal ou para a substituição da pena privativa de liberdade pela restritiva de direitos.
+Com efeito, a reincidência do acusado e a existência de circunstâncias judiciais desfavoráveis inviabilizam o benefício pretendido, por não ser socialmente recomendável ou suficiente à repressão e à prevenção do crime. Assim, a pretensão, também nesse ponto, é inadmissível, conforme as disposições da Súmula n. 83 do STJ.
+Oportunamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ESTELIONATO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIAS DESFAVORÁVEIS E REINCIDÊNCIA. INVIABILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.
+ ..
+3. Revela-se inviável a substituição da pena privativa de liberdade por restritivas de direitos, em razão da presença de circunstâncias judiciais desfavoráveis, o que inclusive ensejou o aumento da pena-base. Tal situação não indica que a substituição seja suficiente, nos termos do inciso III do art. 44 do CP.
+4. Agravo regimental parcialmente provido.
+(AgRg no AREsp n. 2.087.977/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 24/10/2022, destaquei.)
+II. Dispositivo
+À  vista  do  exposto,  não  conheço  do  recurso  especial.
+Publique-se  e  intimem-se.
+EMENTA
