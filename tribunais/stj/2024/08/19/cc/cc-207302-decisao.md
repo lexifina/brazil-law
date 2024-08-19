@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 4ª VARA DE FOZ DO IGUAÇU - PR suscita conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DO SEGUNDO JUIZADO DA VEC REGIONAL DE NOVO HAMBURGO - RS.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para execução de multa aplicada cumulativamente com a pena privativa de liberdade.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarada a competência do Juízo de Direito do Segundo Juizado da VEC Regional de Novo Hamburgo - RS, ora suscitado (fls. 80-82).
+Decido.
+Com razão o Ministério Público Federal, visto que a pena de multa deve ser executada pelo mesmo juízo que executa a pena privativa de liberdade cumulativamente imposta.
+Compulsando os autos, verifica-se que "a competência para a Execução de Pena de Multa foi declinada em favor do1º Juizado da VEC Regional de Novo Hamburgo/RS (Execução Penal nº 8000095-61.2022.8.21.0033), haja vista que a execução da pena privativa de liberdade cumulativamente aplicada encontra-se a cargo daquele Juízo" (fl. 65); isto é, a pena privativa de liberdade estava sob os auspícios do Juízo suscitado.
+Segundo a orientação desta Corte, " a  execução da pena de multa deve seguir no Juízo das Execuções Penais, que é o Juízo Estadual, no caso de haver cumprimento de pena privativa de liberdade em presídio estadual aplicada cumulativamente com a multa. Além de a multa ter natureza de sanção penal, sendo racional a existência de execução penal una, ressalte-se que os valores recolhidos, quer por sentença condenatória proferida por Juízo Estadual ou por sentença condenatória proferida por Juízo Federal, têm o mesmo destino: o Fundo Penitenciário Nacional, nos termos do art. 2º, inciso V, da Lei Complementar nº 79/1994" (CC n. 168.815/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2020, DJe 16/6/2020).
+Logo, a competência para a execução da pena de mu lta cumulativamente imposta na sentença deve permanecer com o Juízo da execução da pena privativa de liberdade, de modo que não haja a cisão da execução penal, nos termos da orientação deste Superior Tribunal.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito do Segundo Juizado da VEC Regional de Novo Hamburgo - RS, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
