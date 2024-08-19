@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC. OMISSÃO, CONTRADIÇÃO E ERRO MATERIAL DE PREMISSA INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STJ. INTENÇÃO DE REEXAMINAR O CONTEXTO FÁTICO-PROBATÓRIO PRUDIZIDO NOS AUTOS. SÚMULA 7 DO STJ.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do Código Processual Civil de 2015. Os Aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+2. A embargante não descreveu especificamente o vício de contradição e o erro material de premissa, apenas suscitou que o acórdão recorrido incorreu em tais máculas. Em vista da deficiência das razões dos aclaratórios, incide sobre a hipótese, por analogia, o óbice constante da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Por outro lado, quanto à alegação de existência de omissão, ao contrário do que afirma a parte embargante, ela não existiu e, muito menos, a Turma se utilizou do referido "racional genérico de que o julgador não é obrigado a se manifestar acerca de todos as questões suscitadas pela parte quando já encontrou motivo suficiente para fundamentar a decisão".
+4. Ademais, o Tribunal de origem foi enfático em consignar que "apurou-se que a autora/embargante deixou de pagar o ICMS devido referente a saídas de mercadorias a título de vendas de bebidas alcóolicas e simples remessa de vasilhames, pois fez declaração falsa quanto ao estabelecimento de destino", portanto se afasta a alegação de omissão.
+5. Ademais, quanto aos questionamentos sobre o conteúdo probatório, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e legislação que entender aplicável ao caso (AgRg no AREsp 107.884/RS, Rel. Ministro Humberto Martins, DJe 16.5.2013).
+6. Por último, a alegação de descumprimento da regra de distribuição do ônus da prova exige reexame do acervo fático-probatório constante dos autos, aplicando-se ao caso o óbice do enunciado da Súmula 7 do STJ.
+7. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+8. Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Embargos de Declaração contra acórdão proferido pela Segunda Turma do STJ, que negou provimento ao Agravo Interno.
+Em apertada síntese, a parte embargante alegou omissão, contradição e erro material de premissa no acórdão recorrido, visto que a Turma não teria se manifestado com relação ao mérito do Recurso Especial (fl. 922).
+Aduz que o "acórdão acaba por desconsiderar integralmente a fundamentação elencada pela Embargante, sob o racional genérico de que o julgador não é obrigado a se manifestar acerca de todos as questões suscitadas pela parte quando já encontrou motivo suficiente para fundamentar a decisão" (fl. 924).
+A parte embargada, apesar de intimada, não ofereceu impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022, II, DO CPC. OMISSÃO, CONTRADIÇÃO E ERRO MATERIAL DE PREMISSA INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STJ. INTENÇÃO DE REEXAMINAR O CONTEXTO FÁTICO-PROBATÓRIO PRUDIZIDO NOS AUTOS. SÚMULA 7 DO STJ.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do Código Processual Civil de 2015. Os Aclaratórios constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+2. A embargante não descreveu especificamente o vício de contradição e o erro material de premissa, apenas suscitou que o acórdão recorrido incorreu em tais máculas. Em vista da deficiência das razões dos aclaratórios, incide sobre a hipótese, por analogia, o óbice constante da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Por outro lado, quanto à alegação de existência de omissão, ao contrário do que afirma a parte embargante, ela não existiu e, muito menos, a Turma se utilizou do referido "racional genérico de que o julgador não é obrigado a se manifestar acerca de todos as questões suscitadas pela parte quando já encontrou motivo suficiente para fundamentar a decisão".
+4. Ademais, o Tribunal de origem foi enfático em consignar que "apurou-se que a autora/embargante deixou de pagar o ICMS devido referente a saídas de mercadorias a título de vendas de bebidas alcóolicas e simples remessa de vasilhames, pois fez declaração falsa quanto ao estabelecimento de destino", portanto se afasta a alegação de omissão.
+5. Ademais, quanto aos questionamentos sobre o conteúdo probatório, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e legislação que entender aplicável ao caso (AgRg no AREsp 107.884/RS, Rel. Ministro Humberto Martins, DJe 16.5.2013).
+6. Por último, a alegação de descumprimento da regra de distribuição do ônus da prova exige reexame do acervo fático-probatório constante dos autos, aplicando-se ao caso o óbice do enunciado da Súmula 7 do STJ.
+7. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+8. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24.6.2024.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Eles constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC.
+A embargante não descreveu especificamente o vício de contradição e o erro material de premissa, apenas suscitou que o acórdão recorrido incorreu em tais máculas. Em vista da deficiência das razões dos aclaratórios, incide sobre a hipótese, por analogia, o óbice constante da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por outro lado, quanto à alegação de existência de omissão, ao contrário do que afirma a parte embargante, ela não existiu e, muito menos, a Turma se utilizou do referido "racional genérico de que o julgador não é obrigado a se manifestar acerca de todos as questões suscitadas pela parte quando já encontrou motivo suficiente para fundamentar a decisão".
+Segue trecho do acórdão recorrido:
+Conforme consignado na decisão agravada, não vislumbro ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Além disso, o Tribunal de origem foi enfático em consignar que "apurou-se que a autora/embargante deixou de pagar o ICMS devido referente a saídas de mercadorias a título de vendas de bebidas alcóolicas e simples remessa de vasilhames, pois fez declaração falsa quanto ao estabelecimento de destino", portanto se afasta a alegação de omissão. Confira-se :
+Com efeito, ficou expresso o entendimento pela Turma Julgadora, cuja premissa, na realidade, é a ausência de prova de que as mercadorias saíram do Estado de São Paulo com destino ao Estado do Espírito Santo.
+A despeito da argumentação em sentido diverso, apurou-se que a autora/embargante deixou de pagar o ICMS devido referente a saídas de mercadorias a título de vendas de bebidas alcóolicas e simples remessa de vasilhames, pois fez declaração falsa quanto ao estabelecimento de destino - KAZARROZ, declarado inidôneo pelo Fisco do Estado do Espírito Santo (GDOC1000630-568804/2011).
+Não foi comprovada, assim, a destinação da mercadoria.
+Disse-se ser impossível atribuir credibilidade às NFes e demais documentos apresentados, pois, embora possam ser formalmente regulares, não espelharam a realidade das operações, mormente pelo fato de ter sido constatada a simulação de quadro social da empresa que emitiu as notas fiscais.
+Aduziu-se que as operações realizadas por empresas inidôneas são inábeis a geração de crédito fiscal, na medida em que foi provada a fraude fiscal e o consequente descumprimento da norma permissiva para concessão do crédito.
+Ressaltou-se que a declaração de inidoneidade é, de maneira geral, posterior ao cometimento das fraudes fiscais, e que é comum a prática de uma empresa obter inscrição fiscal apenas para vender notas fiscais frias em operações aparentemente idôneas.
+Daí porque se concluiu que, não demonstradas a contento as operações negociais informadas, não há como atribuir à documentação exibida valor probatório significativo para afastar responsabilidade na obrigação tributária, isto é, não provada a idoneidade das operações de circulação de mercadorias pela efetiva comercialização com transporte, entrega e pagamento, não está provada a boa-fé da embargante, pelo que se impõe a manutenção do AIIM impugnado.
+Ademais, quanto aos questionamentos sobre o conteúdo probatório, cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e legislação que entender aplicável ao caso (AgRg no AREsp 107.884/RS, Rel. Ministro Humberto Martins, DJe 16.5.2013).
+Por último, a alegação de descumprimento da regra de distribuição do ônus da prova exige reexame do acervo fático-probatório constante dos autos, aplicando-se ao caso o óbice do enunciado da Súmula 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA MOEDA EM UNIDADE REAL DE VALOR (URV). LEI N. 8.880/1994. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. DATA DO PAGAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. APURAÇÃO DA EFETIVA DEFASAGEM REMUNERATÓRIA EM LIQUIDAÇÃO DE SENTENÇA. PRECEDENTES DO STJ, EM CASOS IDÊNTICOS. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. No que se refere à alegação de não observância da distribuição legal do ônus da prova, a jurisprudência desta Corte orienta-se no sentido de que verificar a violação ao citado dispositivo demandaria, necessariamente, revisão do quadro fático-probatório dos autos, o que é vedado, nesta instância, conforme a Súmula 7 desta Corte.
+(..)
+9. Agravo interno improvido.
+(AgInt no REsp 1.589.534/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 27/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO IRRESIGNAÇÃO RECURSAL DAS PARTES AGRAVANTES.
+(..)
+3. Rever a conclusão do Tribunal de origem quanto à inversão do ônus da prova e ao termo inicial da prescrição exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3.1. A incidência da Súmula 7/STJ prejudica a análise dos dissídios jurisprudenciais alegados. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 2.358.666/BA, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/11/2023.)
+Reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
