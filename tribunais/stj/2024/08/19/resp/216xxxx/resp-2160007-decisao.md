@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se recurso especial interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO, fundamentado, exclusivamente, na alíneas "a" do permissivo constitucional.
+Recurso especial interposto em: 30/04/2024.
+Concluso ao gabinete em: 12/08/2024.
+Ação: de obrigação de fazer ajuizada por CARMEN ELIZA MENDES em face da recorrente, visando a cobertura de sessões de eletroconvulsoterapia no tratamento de depressão grave refratária.
+Sentença: julgou procedente a demanda para condenar a recorrente no custeio do tratamento prescrito e no reembolso do valor já despendido de forma particular.
+Acórdão: negou provimento à apelação da recorrente, nos termos da seguinte ementa:
+PLANO DE SAÚDE. Sentença que julgou procedente o pleito autoral, condenando a ré à cobertura total do tratamento "ECT" e ao pagamento de sessões já realizadas.
+RECURSO DA RÉ. Nulidade por cerceamento de defesa.
+Incorrência. Prova documental reputada como suficiente para formação da convicção do Magistrado que é o destinatário da prova e não fica vinculado, em sua atividade jurisdicional, ao resultado de eventual prova pericial.
+Julgamento antecipado que possui previsão legal. Não demonstração da viabilidade da prova pretendida e, portanto, de efetivo prejuízo decorrente de seu indeferimento. PRELIMINAR REJEITADA.
+MÉRITO. Paciente que sofre de "Transtorno Depressivo Grave e Refratário, com ideação suicida e resistência ao tratamento farmacológico".
+Eletroconvulsoterapia expressamente indicada pela Equipe médica como estratégia terapêutica, com eficácia comprovada em literatura, para os quadros de humor, uma vez que, no caso dos autos, se esgotaram as abordagens farmacológicas. Situação de exceção ao Rol da ANS, nos termos do art. 10, §13, da Lei14.545/22. Dever de cobertura presente. Sentença mantida.
+RECURSO NÃO PROVIDO.
+HONORÁRIOS majorados para 15% do valor da causa, haja vista o disposto no art. 85, §11, do CPC.
+Recurso especial: alega violação dos arts. 4º da Lei 9961/2000 e 10 e 12 da Lei 9656/98. Sustenta a legalidade da recusa de cobertura de tratamento não previsto no rol da ANS, de natureza taxativa, e que o tratamento prescrito não cumpre os estritos requisitos para cobertura fora do rol relativos à comprovação de eficácia científica e recomendação de órgãos de saúde de renome internacional.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da taxatividade, em regra, do rol de procedimentos e eventos em saúde da ANS
+Ao julgar a apelação da parte agravante, o TJ/SP decidiu pela obrigatoriedade de cobertura do tratamento ante a expressa indicação médica de necessidade.
+Sobre o tema, a Segunda Seção, ao julgar o EREsp 1.886.929/SP e o EREsp 1.889.704/SP (DJe 03/08/2022), decidiu:
+1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - é possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+No entanto, em 22/09/2022, entrou em vigor a Lei 14.454/2022 estabelecendo, no § 13 do art. 10 da Lei 9.656/1998, as condições para a cobertura obrigatória, pelas operadoras de planos de saúde, de procedimentos e eventos não listados naquele rol, a saber: I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais.
+Diante desse cenário, e em virtude do óbice da súmula 7/STJ - que impede a análise, por esta Corte, do contexto fático-probatório -, forçoso determinar o retorno do processo ao Tribunal de origem, a fim de que, a partir do reexame dos elementos dos autos, realize novo julgamento da apelação, considerando o precedente da Segunda Seção e a superveniência da Lei 14.454/2022.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem a fim de que promova novo julgamento da apelação.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ELETROCONVULSOTERAPIA. NEGATIVA DE COBERTURA. PROCEDIMENTO OU EVENTO NÃO LISTADO NO ROL DA ANS. PRECEDENTE DA SEGUNDA SEÇÃO SOBRE O TEMA. SUPERVENIÊNCIA DA LEI 14.454/2022. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO NESTA CORTE. IMPOSSIBILIDADE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Ação de obrigação de fazer.
+2. Em 22/09/2022, entrou em vigor a Lei 14.454/2022, que reafirmou a natureza exemplificativa do rol da ANS, estabelecendo, no § 13 do art. 10 da Lei 9.656/1998, as condições para a cobertura obrigatória, pelas operadoras de planos de saúde, de procedimentos e eventos não listados naquele rol, a saber: I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais.
+3. Em virtude do óbice da súmula 7/STJ - que impede a análise, por esta Corte, do contexto fático-probatório -, forçoso determinar o retorno do processo ao Tribunal de origem, a fim de que, a partir do reexame dos elementos dos autos, realize novo julgamento da apelação, considerando o precedente da Segunda Seção e a superveniência da Lei 14.454/2022.
+4. Recurso especial conhecido e provido.
