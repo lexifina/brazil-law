@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 367):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. JUIZ CLASSISTA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA AJUIZADA POR ASSOCIAÇÃO. PAGAMENTO DE PAE. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante alega a não incidência da Súmula 283/STF, considerando que o recurso especial abrange todos os fundamentos capazes de manter a decisão recorrida.
+Também, aduz que não se aplica a Súmula 7/STJ, pois a reforma da decisão demanda única e exclusivamente o reconhecimento de violação à coisa julgada pela limitação do título já formado.
+Ainda, reafirma os argumentos alusivos à negativa de prestação jurisdicional, bem como a configuração do dissídio jurisprudencial.
+Por fim, requer a realização de sustentação oral para julgamento do presente agravo, se opondo, desde já, à eventual designação de julgamento virtual.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015 quando o acórdão recorrido manifesta-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Conforme delineado na decisão monocrática, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Da mesma forma, afasta-se a alegada afronta ao artigo 489 do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, relator Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Lado outro, a ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a seguinte fundamentação contida no acórdão recorrido:
+ ..
+A fim de não pairar dúvidas, ressalto que, ainda que assim não fosse, o fato é que teria ocorrido a prescrição para todos os filiados constantes da listagem da petição inicial da ação coletiva que, por não serem aposentados nem pensionistas à época do ajuizamento do mandado de segurança coletivo, não estavam abrangidos pela respectiva sentença transitada em julgado. Com efeito, como parece evidente, o mandado de segurança coletivo não interrompeu a prescrição para além do que nele foi pedido e decidido. Desse modo, mesmo que se entenda que a ação coletiva abrangia os juízes classistas da ativa, não há dúvida de que o mandado de segurança coletivo não os abrangia, consoante exposto supra, com o que as parcelas ora requeridas (anteriores a 2001) já estavam prescritas (prescrição quinquenal) quando ajuizada a ação coletiva cujo cumprimento ora se pretende, o que se deu somente em 2016. (grifos no original).
+ ..
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ainda que assim não fosse, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático- probatório constante nos autos, e que a modificação do julgado, nos moldes pretendidos, a fim de acolher os fundamentos de violação da coisa julgada, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ. No mesmo sentido: REsp 2.094.334/PR, Ministra Assusete Magalhães, DJe de 05/10/2023.
+Por fim, a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito à mesma tese de direito, o que ocorreu na hipótese.
+Anote-se, por fim, que face a ausência de previsão legal, a mera oposição da parte ao julgamento virtual não tem o condão de determinar a ocorrência do julgamento em sessão presencial ou telepresencial (AgInt no REsp 1.881.804/SP, Quarta Turma, DJe 6/4/2021). No mesmo sentido: AgInt no AREsp 1.826.593/SP, Quarta Turma, DJe 6/5/2022; AgInt no AREsp 1.527.339/MG, Terceira Turma, DJe 11/5/2020; AgInt no AREsp 1.753.422/SP, Segunda Turma, DJe 23/3/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
