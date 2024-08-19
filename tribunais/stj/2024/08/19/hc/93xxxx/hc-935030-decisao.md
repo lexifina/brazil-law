@@ -1,0 +1,26 @@
+DECISÃO
+ANA PAULA ALMEIDA aponta constrangimento ilegal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo Interno no HC n. 2139412-72.2024.8.26.0000.
+A defesa pretende revogação do monitoramento eletrônico imposto à paciente, especialmente por ser mãe de quatro filhos menores de 12 anos.
+Decido.
+A Corte local denegou a ordem, nos seguintes termos:
+No presente caso, a medida não se mostra inadequada, pois, em que pese a alegação que a paciente e seus filhos correm risco iminente à integridade de sua saúde, ao que se observa do exame dos autos, o uso da tornozeleira não tem impedido que a paciente ou seus filhos se desloquem sempre que necessário para consultas médicas agendadas ou ao Pronto Socorro.
+In casu, o magistrado a quo, ao indeferir o ora pleiteado, fundamentou da seguinte forma:
+"Não vislumbro motivo ou situação excepcional para retirada do monitoramento eletrônico ou mesmo alteração das condições fixadas, não justificando mero início de pré-natal, desacompanhada de situações de a normalidade. No mais, na forma como consignado pelo Ministério Público, fica a sentenciada autorizada a se descolar (quando necessário) de sua residência até a Unidade de Saúde, nas datas previamente agendadas e comprovadas nos autos (de forma documental), para a realização do pré-natal, devendo, porém, informar nos autos as datas agendadas para a realização de consultas e exames, com imediata comunicação ao órgão responsável pelo monitoramento eletrônico." (fl. 323)
+Nessa direção, cumpre indicar que todos os pedidos de justificativa direcionados ao Juízo da Execução, mediante comprovada necessidade, têm sido atendidos em prazo razoável, conforme se verifica às fls. 353, 363 e 367 da execução.
+Portanto, não obstante a manifestação da douta defesa, esta não comprovou nos autos do presente writ a situação de vulnerabilidade a que a paciente e seus filhos se encontrem, capaz de ensejar a revogação do monitoramento eletrônico.
+Ademais, não fosse o uso da tornozeleira, nada a impediria de se eximir do cumprimento da pena imposta. Diante desse cenário, se mostra necessária a manutenção do monitoramento eletrônico a fim de garantir a devida aplicação da lei penal.
+Isto posto, mostra-se proporcional a manutenção da medida a fim de garantir-se a indispensável fiscalização a qual a paciente deve se submeter durante o cumprimento de sua pena privativa de liberdade.
+Por tais razões, respeitado os estreitos limites da presente ferramenta constitucional, a impetração não evidenciou qualquer constrangimento ilegal de que venha padecendo a paciente (fls. 174-179, grifei).
+Em que pesem os argumentos apresentados pela defesa, na espécie, há elementos concretos que evidenciam a necessidade de certo acautelamento e restrição à liberdade da paciente, diante do risco à ordem pública, consistente na sua condenação por tráfico de drogas, em regime fechado. Com esse propósito, fixei as medidas alternativas à prisão positivadas no art. 319, I, III, IV e IX, do CPP.
+Assim, não observo fundamentos que impliquem a revogação da cautelar do monitoramento eletrônico ou a alteração da conclusão proferida, visto que a defesa nem sequer comprovou nestes autos o prejuízo do uso do equipamento de fiscalização para o exercício das atividades, especialmente as relacionadas aos cuidados dos filhos.
+Conforme bem ponderado pelas instâncias de origem, está "o uso da tornozeleira não tem impedido que a paciente ou seus filhos se desloquem sempre que necessário para consultas médicas agendadas ou ao Pronto Socorro".
+Desconstituir a conclusão alcançada demandaria dilação probatória, providência inviável no rito do habeas corpus.
+Ilustrativamente:
+PROCESSUAL PENAL. GESTÃO FRAUDULENTA. APROPRIAÇÃO DE RECURSOS. CONDENAÇÃO CONFIRMADA EM SEGUNDO GRAU. RECURSO ESPECIAL PENDENTE DE JULGAMENTO. PRISÃO PREVENTIVA SUBSTITUÍDA POR LIBERDADE COM MONITORAMENTO ELETRÔNICO. PRETENSÃO DE REVOGAÇÃO DA MEDIDA CAUTELAR. DEFICIÊNCIA INSTRUTÓRIA. AUSÊNCIA DE CÓPIA DO ATO COATOR E DA ÍNTEGRA DA SENTENÇA E ACÓRDÃO CONDENATÓRIOS. DILAÇÃO PROBATÓRIA INVIÁVEL. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma,DJe 31/8/2015).
+2. Caso em que a defesa busca que seja afastada a aplicação da medida cautelar de uso de tornozeleira eletrônica. Contudo, o impetrante não juntou cópia das peças essenciais para a compreensão da controvérsia, tais como o ato inquinado supostamente coator que determinara a medida cautelar ora combatida, de modo a permitir exame de seus fundamentos, além de sentença, acórdão e recurso especial pendente de julgamento, para que se conheça das razões e termos da condenação e necessidade e/ou viabilidade da medida cautelar imposta.
+3. Habeas corpus não conhecido.
+(HC n. 621.314/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/2/2021, DJe de 11/2/2021.)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
