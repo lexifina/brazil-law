@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO. INEXISTÊNCIA DE MÁCULA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de origem, ao manifestar-se sobre a nulidade da cessão de crédito, concluiu pela inexistência de mácula e devida comprovação da anuência das partes. Rever tal entendimento demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, situação insindicável de ser apreciada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMBEV S/A contra decisão monocrática proferida por esta Relatoria (fls. 726/728), que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões recursais (fls. 732/742), a parte agravante sustenta, em síntese, que: a) é inaplicável ao caso a Súmula 283/STF, porquanto realizou, em sede de razões do recurso especial, a efetiva impugnação de todos os argumentos expendidos pelo acórdão proferido pelo Tribunal de origem; b) são inaplicáveis ao caso as Súmulas 5 e 7 do STJ, por não ser necessário o reexame de fatos, provas e cláusulas contratuais; e c) as partes formularam previsão, na Cláusula 18.2 do instrumento contratual que regem suas obrigações recíprocas, no sentido de que qualquer cessão só seria válida se houvesse a anuência de ambas as partes, credora e devedora, o que não ocorreu.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Impugnação do agravo interno apresentada às fls. 747/755.
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CESSÃO DE CRÉDITO. INEXISTÊNCIA DE MÁCULA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal de origem, ao manifestar-se sobre a nulidade da cessão de crédito, concluiu pela inexistência de mácula e devida comprovação da anuência das partes. Rever tal entendimento demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, situação insindicável de ser apreciada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+A decisão não merece reparos, devendo ser mantida por seus próprios fundamentos.
+Verifica-se que o Tribunal a quo, à luz das circunstâncias do caso concreto, ao analisar o contrato celebrado entre as partes e os elementos probatórios constantes nos autos, manifestou-se sobre a nulidade da cessão de crédito pretendida, concluindo que ficou comprovada a ocorrência de anuência da cessão de crédito entre as partes:
+"Não tem razão esta apelante. Isto porque as duplicatas foram quitadas antes do dia 03.11.2015, quando ainda não estava ciente da cessão de crédito entre os corréus.
+Entretanto, a notificação extrajudicial de fls. 238, datada de 04.11.2015, posterior aos pagamentos, comprova a superveniente ciência da apelante quanto à cessão de crédito entre os rés apelados, cujo documento não foi impugnado pela autora, haja vista item 22 da réplica a fls. 389 na qual afirma que "jamais havia sido notificada de qualquer cessão de crédito, sendo que a primeira oportunidade na qual recebeu qualquer informação em tal sentido foi quando do recebimento da notificação de fls. 238, o que ocorreu somente em 04.11.2015".
+Assim, não há como acolher a pretensão da apelante Ambev de "declaração de nulidade integral da cessão de crédito formalizada entre os apelados." (fl. 651)
+Dessa forma, rever o entendimento adotado pelo Tribunal de origem, quanto à inexistência de mácula na cessão de créditos, demandaria o revolvimento do acervo fático-probatório dos autos e de cláusulas contratuais do contrato firmado entre as partes, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7/STJ. A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO POR INICIATIVA DOS ADQUIRENTES CUMULADA COM RESTITUIÇÃO DE PARTE DOS VALORES PAGOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. RESPONSABILIDADE SOLIDÁRIA. INTEGRANTES DA CADEIA DE CONSUMO. APLICAÇÃO DA SÚMULA N.º 568 DO STJ. ALEGAÇÃO DA CESSÃO DOS CRÉDITOS.
+INTERPRETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. SÚMULAS N.os 5 E 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO NÃO PROVIMENTO DO AGRAVO INTERNO. ART. 85, § 11, DO CPC. INADMISSIBILIDADE. APLICAÇÃO DA PENA POR LITIGÂNCIA DE MÁ-FÉ E DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. IMPOSSIBILIDADE. AGRAVO INTERNO DE AREAS NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. A jurisprudência desta Corte reconhece, em regra, a responsabilidade solidária entre os fornecedores que figuram na cadeia de consumo na compra e venda de imóvel. Incidência da Súmula n.º 568 do STJ. Ademais, a revisão da conclusão do acórdão recorrido, no caso, exigiria a interpretação dos termos da cessão de créditos firmada entre as empresas, bem como o reexame das premissas fáticas da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n.os 5 e 7 do STJ.
+3. A interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+4. A litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+5. A aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp n. 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 31/8/2020, DJe de 8/9/2020).
+6. Agravo interno de AREAS não provido."
+(AgInt no REsp n. 2.098.653/RJ, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/2/2024, DJe de 28/2/2024, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. EXCESSO DE MANDATO. CESSÃO DE CRÉDITO. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. RECURSO DESPROVIDO.
+1. Ação em que a demandante/recorrente alega que o procurador excedeu os poderes que lhe foram outorgados em instrumento público, ao ceder créditos judiciais de sua titularidade junto a terceiros.
+2. No caso, o Tribunal de origem concluiu, a partir da análise do instrumento público carreado aos autos e do instrumento de cessão, que o recorrido não desbordou dos limites do mandato, ressaltando ainda, sobre o pleito de devolução dos valores decorrentes da cessão de crédito, que a procuração pública isentou o outorgado da prestação de contas. Portanto, não foi demonstrada a alegada atuação do procurador com excesso dos poderes recebidos.
+3. Ademais, eventual modificação da conclusão do Tribunal de Justiça - de modo a se concluir pela comprovação do excesso de mandato e dos danos alegados - demandaria o revolvimento dos fatos, das provas e das cláusulas contratuais, o que é inviável em recurso especial, a teor do que dispõem as Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.269.101/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/6/2023, DJe de 13/6/2023, g.n.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
