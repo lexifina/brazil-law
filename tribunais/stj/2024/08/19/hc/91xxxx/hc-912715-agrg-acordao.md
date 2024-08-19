@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 155, § 4º, I, DO CÓDIGO PENAL. REGIME INICIAL FECHADO. REITERAÇÃO DE PEDIDO. NÃO CONHECIMENTO. EVENTUAL EXISTÊNCIA DE ILEGALIDADE FLAGRANTE JÁ AFASTADA NO JULGAMENTO DO WRIT ANTERIOR.
+I - Não se conhece de habeas corpus cujas teses foram previamente apreciadas no HC n. 893660 - SP.
+II - O s pedidos de absolvição por ausência de provas de autoria, reclassificação da conduta e estabelecimento de regime inicial prisional menos gravoso, foram previamente apreciados por esta Corte, no julgamento do AgRg no HC n. 893.660/SP, prejudicando o recurso quanto estes pedidos.
+III - As testes relativas à nulidade das provas em razão da inobservância às regras do artigo 226, do Código de Processo Penal, e nulidade da prisão em flagrante não foram submetidas previamente ao Tribunal de Apelação, não podendo ser conhecidas, sob pena de supressão de instância. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental (fls. 72-88) interposto por GABRIEL WENDEL FERNANDES VIEIRA SOUZA contra decisão monocrática (fls. 63-67) que não conheceu do habeas corpus impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 11ª Vara Criminal da Comarca de São Paulo, à pena de 8 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, e à multa equivalente a 19 dias-multa, nos termos da sentença de fls. 27-32.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, de modo a redimensionar as penas para 07 anos, 05 meses e 18 dias de reclusão, no regime inicial fechado, e multa equivalente a 17 dias-multa, conforme o acórdão de fls. 33-50.
+Operado o trânsito em julgado em 16/02/2024, a defesa impetrou previamente o HC n. 893.660/SP, objetivando a concessão da ordem para (i) absolver o paciente por ausência de provas de autoria delitiva; (ii) desclassificar a conduta para aquela capitulada no artigo 155, § 4º, inciso I, do Código Penal; (iii) reconhecer a participação de menor importância (artigo 29, § 1º, do Código Penal); e (iv) estabelecer o regime inicial semiaberto, o qual não foi conhecido (fls. 62-68, HC n. 893.660/SP). Interposto agravo regimental, foi negado provimento (fls. 99-108, HC n. 893.660/SP), com trânsito em julgado em 09/05/2024.
+A defesa, então, impetrou o HC 241.001/SP (fls. 01-18) perante o Supremo Tribunal Federal, objetivando (i) o reconhecimento da nulidade das provas obtidas em violação ao artigo 226 do Código de Processo Penal; (ii) o reconhecimento da nulidade da prisão em flagrante; (iii) a absolvição do paciente por ausência de provas de autoria delitiva; (iv) a desclassificação da conduta do paciente para aquela capitulada no artigo 155, § 4º, inciso I, do Código Penal; (v) o reconhecimento da participação de menor importância (artigo 29, § 1º, do Código Penal); e (vi) o estabelecimento do regime inicial semiaberto.
+O Presidente do Supremo Tribunal Federal, Ministro Luís Roberto Barroso, negou seguimento ao habeas corpus e encaminhou os autos para o Superior Tribunal de Justiça, conforme a decisão de fls. 54-56.
+O habeas corpus não foi conhecido (fls. 63-67).
+No regimental (fls. 72-88), o agravante defende a possibilidade de concessão da ordem de ofício, argumentando que a decisão monocrática merece ser reformada para (i) absolvê-lo em razão da nulidade das provas obtidas em violação ao artigo 226 do Código de Processo Penal; (ii) reclassificar a conduta para furto qualificado; e (iii) estabelecer regime inicial prisional menos gravoso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 155, § 4º, I, DO CÓDIGO PENAL. REGIME INICIAL FECHADO. REITERAÇÃO DE PEDIDO. NÃO CONHECIMENTO. EVENTUAL EXISTÊNCIA DE ILEGALIDADE FLAGRANTE JÁ AFASTADA NO JULGAMENTO DO WRIT ANTERIOR.
+I - Não se conhece de habeas corpus cujas teses foram previamente apreciadas no HC n. 893660 - SP.
+II - O s pedidos de absolvição por ausência de provas de autoria, reclassificação da conduta e estabelecimento de regime inicial prisional menos gravoso, foram previamente apreciados por esta Corte, no julgamento do AgRg no HC n. 893.660/SP, prejudicando o recurso quanto estes pedidos.
+III - As testes relativas à nulidade das provas em razão da inobservância às regras do artigo 226, do Código de Processo Penal, e nulidade da prisão em flagrante não foram submetidas previamente ao Tribunal de Apelação, não podendo ser conhecidas, sob pena de supressão de instância. Precedentes.
+Agravo regimental desprovido.
+VOTO
+Como relatado, o agravante pretende a reforma da decisão monocrática (fls. 63-67) para absolvê-lo por ausência de provas de autoria delitiva, para desclassificar a conduta para aquela capitulada no artigo 155, § 4º, inciso I, do Código Penal, e para estabelecer o regime inicial semiaberto.
+Consoante os fundamentos da decisão agravada (fls. 63-67), as teses objeto do presente recurso foram previamente analisadas no âmbito na decisão monocrática proferida no HC n. 893.660-SP, bem como no respectivo agravo regimental, cujo acórdão restou assim ementado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ARTIGO 155, § 4º, I, DO CÓDIGO PENAL. IMPOSSIBILIDADE. EMPREGO DE VIOLÊNCIA E GRAVE AMEAÇA. REVOLVIMENTO FÁTICO-PROBATÓRIO VEDADO. REGIME PRISIONAL INICIAL FECHADO. DUPLA REINCIDÊNCIA. AUSÊNCIA DE ILEGALIDADE.
+I -Não se conhece de habeas corpus impetrado contra acórdão com trânsito em julgado, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+II - No presente caso, o Tribunal de origem ratificou a impossibilidade de desclassificação para o delito capitulado no artigo 155, § 4º, inciso I, do Código Penal, ao argumento de que restou devidamente comprovado que a vítima foi abordada pelo agravante e outras pessoas, que a surpreenderam quando estava parada no semáforo, em via pública, utilizando-se o agravante de violência ao quebrar o vidro de seu veículo para tomar seu aparelho celular, agredindo-a, ainda, com um tapa, que acabou por lesionar a sua mão.
+III - O rito do habeas corpus não admite o revolvimento de matéria fático-probatória. Precedentes.
+IV - Não há ilegalidade na fixação do regime prisional mais gravoso sequente, em razão de ostentar o agravante dupla reincidência. Precedentes.
+Agravo regimental não provido" (AgRg no HC n. 893660/SP, Quinta Turma, de minha relatoria, DJe de 23/04/2024).
+Conquanto o HC n. 893.660/SP não tenha sido conhecido, foi afastada a possibilidade de concessão da ordem de ofício por não haver ilegalidade flagrante. E a jurisprudência do Superior Tribunal de Justiça é no sentido de que não se admite a dupla apreciação de teses em habeas corpus.
+A esse respeito, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDO. NÃO CONHECIMENTO. PLEITO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. EVENTUAL EXISTÊNCIA DE ILEGALIDADE FLAGRANTE JÁ AFASTADA NO JULGAMENTO DO WRIT ANTERIOR. NÃO CABIMENTO.
+1. Tratando-se de mera reiteração de pedido, não há como se conhecer do writ.
+2. Ainda que o writ anterior tenha sido indeferido liminarmente, por se tratar de habeas corpus substitutivo de ação revisional, tal vício também é aplicável ao presente writ, não se justificando nova apreciação, tampouco quanto à existência de eventual ilegalidade flagrante, inclusive, já apreciada e rechaçada na impetração anterior.
+3. Ademais, conforme a jurisprudência desta Corte, "nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa postule o pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg no AREsp n. 1795241/SP, rel. Min. Laurita Vaz, Sexta Turma, julgado em 6/4/2021, DJe 15/4/2021).
+4. Agravo regimental desprovido" (AgRg nos EDcl no HC n. 836.057/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 25/4/2024).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. DOSIMETRIA. HOMICÍDIOS QUALIFICADOS (CONSUMADOS E TENTADOS). CONTINUIDADE DELITIVA. REITERAÇÃO DE PEDIDO JÁ DECIDIDO POR ESTA CORTE EM OUTRA IMPETRAÇÃO. DESCABIMENTO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão que indeferiu liminarmente a impetração, mantendo a condenação do agravante pela prática dos crimes de homicídios qualificados (consumados e tentados), por reiteração de pedidos já apreciados pela Corte no julgamento do HC n. 694.420/RS.
+2. Ademais, ainda que não se tratasse de reiteração de pedidos, considerando que a condenação transitou em julgado em 20/3/2017, razão também não lhe assistiria, pois não se presta à desconstituição de condenação eventual mudança no entendimento jurisprudencial após o trânsito em julgado, como ocorreu no presente caso. Precedente.
+3. Agravo regimental improvido" (AgRg no HC n. 863.419/RS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 27/6/2024).
+" ..
+3. Em consulta ao sítio eletrônico deste Superior Tribunal de Justiça, constata-se que os pedidos de reconhecimento da nulidade da prova decorrente da violação de domicílio e de absolvição pelo crime de associação ao tráfico de drogas, já foram apreciados por esta Corte, no julgamento do HC 737.173/SP, de minha relatoria, publicado em 28/4/2022, prejudicando o recurso quanto a estes pedidos.
+ ..
+6. Agravo regimental desprovido" (AgRg no AREsp n. 2.530.824/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 5/4/2024).
+É importante frisar que o agravante também apresentou duas novas teses não apreciadas anteriormente no HC n. 893.660/SP, tampouco pelo acórdão impugnado (fls. 33-50) - nulidade das provas obtidas em violação ao artigo 226, do Código de Processo Penal, e nulidade da prisão em flagrante - que não foram conhecidas.
+Como destacado na decisão agravada (fls. 63-67), na apelação criminal a defesa pugnou pela absolvição por insuficiência de provas e, subsidiariamente, requereu a desclassificação do delito para o delito para furto, o afastamento da majorante prevista no § 2º, inciso II, do Código Penal, sem suscitar as nulidades decorrentes de falhas no reconhecimento pessoal e na prisão em flagrante.
+Tendo em vista a inovação inaugurada apenas nesta impetração e não apreciada previamente pelo Tribunal de Apelação, a pretensão não foi conhecida, em alinhamento com a jurisprudência do Superior Tribunal de Justiça, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+" ..
+1. O Tribunal de origem não se manifestou sobre os seguintes temas: violação aos arts. 212 e 226, ambos do Código de Processo Penal; art. 387, § 2º, do CPP; e inidoneidade da utilização de condenação atingida pelo período depurador de 5 anos para majorar a pena-base.
+2. Percebe-se, sob pena de indevida supressão de instância, a incompetência desta Corte para o processamento e julgamento do writ, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, I, c, da Constituição Federal, bem como do art. 13, I, b, do Regimento Interno do Superior Tribunal de Justiça.3. "É ônus do agravante impugnar os fundamentos da decisão agravada, sob pena de incidência da Súmula n. 182 do STJ" (AgRg no HC 525.324/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/11/2019, DJe 2/12/2019.)
+4. Agravo regimental não conhecido" (AgRg no HC n. 840.495/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 7/3/2024).
+" ..
+2. A questão relativa à apontada nulidade, por inobservância do art. 226 do CPP não foi submetida à análise do Tribunal de origem, que não se manifestou sobre o tema. Nesse contexto, fica impedido o exame direto por esta Corte Superior das questões trazidas no presente writ, sob pena de se incidir em indevida supressão de instância.
+3. Agravo regimental desprovido" (AgRg no HC n. 867.592/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/12/2023 ).
+De toda sorte, não verifico a presença de coação ou teratologia que desafie a concessão da ordem de ofício, motivo pelo qual a decisão agravada deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
