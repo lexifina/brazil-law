@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A instância originária entendeu que, além do significativo atraso na disponibilização da unidade imobiliária, houve situação excepcional a demonstrar a efetiva ocorrência de ofensa moral, conclusão esta pautada nos aspectos fáticos do caso concreto.
+1.1. Verifica-se, assim, que reverter a conclusão do Tribunal local - para acolher a pretensão recursal, a fim de verificar a presença ou não dos elementos que configuram o dano moral indenizável - demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MONIQUE INCORPORADORA LTDA. e MUNIZ, RABELO & CIA contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 794):
+RECURSO ESPECIAL. APELAÇÃO. PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões (e-STJ, fls. 802-812), as agravantes sustentam o desacerto da decisão agravada, uma vez que contraria a jurisprudência consolidada do Superior Tribunal de Justiça, no sentido de que o mero inadimplemento contratual não enseja reparação extrapatrimonial.
+Não foi apresentada impugnação ao recurso, conforme certificado às fls. 816-817 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. PROMESSA DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A instância originária entendeu que, além do significativo atraso na disponibilização da unidade imobiliária, houve situação excepcional a demonstrar a efetiva ocorrência de ofensa moral, conclusão esta pautada nos aspectos fáticos do caso concreto.
+1.1. Verifica-se, assim, que reverter a conclusão do Tribunal local - para acolher a pretensão recursal, a fim de verificar a presença ou não dos elementos que configuram o dano moral indenizável - demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+A respeito da tese defendida no recurso especial, o Tribunal de Justiça do Estado de Minas Gerais assim se manifestou (e-STJ, fls. 509-511; sem destaques no original):
+Relativamente aos danos morais, é cediço que o reconhecimento da obrigação de indenizar depende de comprovação da presença, no caso concreto, dos três pressupostos da responsabilidade civil, quais sejam, conduta, dano e nexo causal.
+No direito privado, a conduta passível de gerar o dever de indenizar, em regra, é aquela proveniente da prática de um ato ilícito, o que pode ocorrer tanto no âmbito de uma relação contratual como fora dela, quando não há vínculo jurídico preexistente entre as partes.
+No que tange especificamente ao ilícito contratual, espécie de ilícito que lastreia a pretensão indenizatória deduzida na presente ação, consiste em violação de um dever oriundo do negócio jurídico. É o que se entende por inadimplemento, que se caracteriza pela mora, pelo descumprimento da obrigação principal e, numa concepção moderna do direito contratual, também pela transgressão dos deveres laterais (ou anexos) de conduta.
+No caso dos autos, como visto, o ilícito contratual efetivamente ocorreu, já que além do atraso de entrega da unidade habitacional (que não foi objeto de insurgência recursal), a referida entrega não ocorreu como acordado, eis que não foram instalados os pontos de TV, nem tampouco o gás canalizado.
+Sabe-se que o inadimplemento contratual, por si só, não pode servir de premissa bastante para imputação do dever de indenizar, sendo imprescindível a demonstração das consequências danosas do descumprimento contratual na esfera dos direitos da personalidade da parte inocente.
+Discorrendo sobre a árdua tarefa de distinguir o dano moral do que a jurisprudência e a doutrina convencionaram chamar de "meros aborrecimentos", Felipe Braga Netto faz relevantes ponderações:
+(..)
+À luz dessas considerações, analisando as peculiaridades do caso concreto posto em deslinde, tenho que a situação vivenciada pelos apelados ultrapassou a baliza do mero dissabor, vulnerando direitos extrapatrimoniais, na medida em que gerou angústia e acentuado desgosto ocasionados pelo retardo na efetivação de um plano de longo prazo.
+Assim, ao contrário do que sustentam as apelantes, a situação em comento não diz respeito a meros aborrecimentos experimentados pelo inadimplemento de um negócio jurídico, mas à frustração de uma expectativa criada ao longo do período em que os apelados pagaram as prestações do imóvel, não se tratando apenas de atraso na entrega da coisa adquirida, mas de atraso na concretização de um projeto de vida.
+Do trecho acima transcrito depreende-se que a instância originária entendeu que, além do atraso na disponibilização da unidade imobiliária, o retardo na entrega do bem como acordado ainda se protrai, atestando-se, assim, a ocorrência de situação excepcional a demonstrar a efetiva ocorrência de ofensa moral, conclusão esta pautada nos aspectos fáticos do caso concreto.
+Verifica-se, assim, que reverter a conclusão do Tribunal local - para acolher a pretensão recursal, a fim de verificar a presença ou não dos elementos que configuram o dano moral indenizável - demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ilustrativamente (sem destaques nos originais):
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, a fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade do promitente-comprador, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula n.º 7 do STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+4. Agravo interno não provido.
+(AgInt no REsp 2026977 / MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 05/12/2022, DJe de 07/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. DANO MORAL CONFIGURADO. CIRCUNSTÂNCIA EXCEPCIONAL VERIFICADA. SÚMULA 83/STJ. DANO MATERIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+2. "O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar lesão extrapatrimonial, como reconhecido pela Corte de origem" (AgInt no AREsp 1.698.841/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 22/03/2021).
+3. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o atraso na entrega do imóvel, no caso concreto, gerou aborrecimentos que superam os do cotidiano e capazes de configurar a lesão extrapatrimonial. A modificação de tal entendimento demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.000.119/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Tendo em vista, portanto, que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
