@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. CERCEAMENTO DE DEFESA. CONCLUSÃO DE QUE A ÍNTEGRA DAS PROVAS SE ENCONTRA DISPONÍVEL NOS AUTOS. INVIABILIDADE DE REVERSÃO DESSE ENTENDIMENTO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Deve ser mantida por seus próprios e jurídicos fundamentos a decisão monocrática que indeferiu liminarmente o pedido de habeas corpus.
+2. Hipótese em que, para decidir de modo diverso das instâncias de origem quanto à disponibilização da íntegra das provas à defesa, seria necessária uma ampla incursão no material fático-probatório, providência incompatível com a via estreita do writ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trago a julgamento o agravo regimental de Anderson Fernandes Azevedo contra a decisão de fls. 858/859, que foi assim resumida:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CERCEAMENTO DE DEFESA. ACESSO INTEGRAL ÀS PROVAS DOS AUTOS. INFORMAÇÕES DANDO CONTA DE QUE A ÍNTEGRA DAS PROVAS SE ENCONTRA DISPONÍVEL NOS AUTOS. CONCLUSÃO INVERSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. DESÍDIA QUE NÃO PODE SER IMPUTADA AO PODER JUDICIÁRIO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Em síntese, repisa-se a tese de que houve injustificada recusa do Juiz em disponibilizar elementos já documentados (fl. 864), aduzindo-se que não há aqui que se falar em revolvimento fático probatório, o caso se mostra simples e singelo: a defesa tempestivamente pediu acesso a provas, o Ministério Público se manifestou favorável, o juízo sem qualquer fundamento indeferiu o violou o contraditório e ampla defesa (fl. 865).
+Pretende-se a reforma da decisão hostilizada com a concessão de ofício da ordem de habeas corpus para reconhecer a ilegalidade do acórdão proferido, determinando o acesso da defesa a integralidade da prova e demais pedidos da inicial (fl. 866).
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. CERCEAMENTO DE DEFESA. CONCLUSÃO DE QUE A ÍNTEGRA DAS PROVAS SE ENCONTRA DISPONÍVEL NOS AUTOS. INVIABILIDADE DE REVERSÃO DESSE ENTENDIMENTO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Deve ser mantida por seus próprios e jurídicos fundamentos a decisão monocrática que indeferiu liminarmente o pedido de habeas corpus.
+2. Hipótese em que, para decidir de modo diverso das instâncias de origem quanto à disponibilização da íntegra das provas à defesa, seria necessária uma ampla incursão no material fático-probatório, providência incompatível com a via estreita do writ.
+3. Agravo regimental improvido.
+VOTO
+Não merece reparos a decisão ora agravada, devendo ser mantida por seus próprios fundamentos, os quais transcrevo para que integrem o presente julgado (fls. 858/859 - grifo nosso):
+O presente writ, impetrado em benefício de Anderson Fernandes Azevedo - preso preventivamente pelos delitos de tráfico de drogas e associação para o tráfico -, em que se aponta como autoridade coatora o Tribunal de Justiça do Paraná (Habeas Corpus n. 0054249-74.2023.8.16.0000), não comporta processamento.
+Com efeito, busca a impetração a disponibilização à defesa da integralidade da prova produzida nos Autos n. 0009149-16.2021.8.16.0017, com a reabertura de prazo para manifestação preliminar, ao argumento de que, no caso dos autos, o juízo indeferiu o requerimento e designou audiência de instrução e julgamento, sem que a defesa pudesse ter acesso os arquivos solicitados (fl. 10), bem como sustenta o relaxamento da segregação, por excesso de prazo na formação da culpa.
+Ocorre que, da acurada análise dos autos, tem-se que as alegações da defesa não se mostram com a nitidez imprimida na inicial, em especial, porque, acerca do acesso à prova dos autos, consignou a Corte estadual que tudo que foi extraído consta nos documentos, os quais constituem todos os elementos de investigação produzidos nos autos de quebra de sigilo de Dados Telefônicos n. 0009149- 16.2021.8.16.0017. Logo, considerando que os impetrantes têm acesso amplo aos referidos elementos, inexiste contrariedade ao enunciado da Súmula Vinculante 14 do Supremo Tribunal Federal (fl. 48).
+Assim, para se afastar a conclusão das instâncias ordinárias, seria necessário profundo revolvimento fático-probatório, indesejável na via eleita.
+Por fim, acerca do excesso de prazo na formação da culpa, também não assiste razão à defesa. Ocorre que o excesso de prazo deve ser analisado sob a ótica de vários elementos, dentre os principais, o comportamento das partes, a complexidade da causa e a estrutura do órgão judiciário. No caso, além de inexistir desídia do Judiciário, como destacado pelo Tribunal a quo, a necessidade de perícia dos vestígios do crime (aparelhos celulares) pelo Instituto de Criminalística exige um período de tempo maior do que o normal para a realização da instrução processual. Em outras palavras, inexiste desídia do Poder Judiciário na condução do processo que se encontra tramitando regularmente. Inclusive, o magistrado a quo tem demonstrado celeridade na realização dos atos processuais (fls. 52/53).
+De forma que não vislumbro o alegado constrangimento ilegal.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+De fato, acatar a tese da defesa, no sentido de que não foi disponibilizada a íntegra das provas - tanto mais quanto o Tribunal a quo afirma expressamente que os documentos de mov. 52.2 e 52.3 representam cópia integral, "bit by bit", do conteúdo dos aparelhos celulares "Samsung, modelo SM-A013G" e "Samsung GSM, modelo Galaxy J3" (fl. 48) - demandaria ampla incursão no acervo fático-probatório da ação penal, o que não se admite na via estreita.
+Pelo exposto, nego provimento ao agravo regimental.
