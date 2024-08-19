@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. AÇÃO DE EXECUÇÃO. IMPUGNAÇÃO A PENHORA. PERMISSIVO CONSTITUCIONAL. INDICAÇÃO. AUSÊNCIA. SÚMULA N.º 284 DO STF. IMÓVEL PENHORADO QUE NÃO SE ENQUADRA NO CONCEITO LEGAL DE BEM DE FAMÍLIA. CONJUNTO PROBATÓRIO SUFICIENTE. REVISÃO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese, não houve indicação do permissivo constitucional autorizador do recurso especial, o que acarreta deficiência de fundamentação, atraindo a incidência da Súmula n.º 284 do STF.
+2. Ainda que superado o referido óbice, a análise da tese recursal, no sentido de que o imóvel penhorado se enquadra no conceito legal de bem de família , demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MILTON BISCONTI (MILTON) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da ausência de indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a Súmula n.º 284 do STF.
+Nas razões do presente inconformismo, MILTON defendeu que foram demonstradas, de forma inequívoca, no recurso especial, as hipóteses de seu cabimento, estando, portanto, presentes todos os requisitos de sua validade e exaustiva e indubitavelmente demonstrados e comprovados: a contrariedade da decisão recorrida às Leis Federais 8.009/90, 13.105/15 e 10.406/02 e dissídio jurisprudencial, com demonstração da semelhança dos casos confrontados.
+Foi apresentada contraminuta (e-STJ, fls. 3.530/3.541).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. AÇÃO DE EXECUÇÃO. IMPUGNAÇÃO A PENHORA. PERMISSIVO CONSTITUCIONAL. INDICAÇÃO. AUSÊNCIA. SÚMULA N.º 284 DO STF. IMÓVEL PENHORADO QUE NÃO SE ENQUADRA NO CONCEITO LEGAL DE BEM DE FAMÍLIA. CONJUNTO PROBATÓRIO SUFICIENTE. REVISÃO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese, não houve indicação do permissivo constitucional autorizador do recurso especial, o que acarreta deficiência de fundamentação, atraindo a incidência da Súmula n.º 284 do STF.
+2. Ainda que superado o referido óbice, a análise da tese recursal, no sentido de que o imóvel penhorado se enquadra no conceito legal de bem de família , demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece acolhida.
+De fato, como bem asseverado na decisão recorrida, verifica-se que o apelo nobre interposto por MILTON apresenta deficiência de fundamentação, tendo em vista a ausência de indicação da alínea constitucional pela qual o recurso foi interposto, o que atrai a incidência da Súmula n.º 284 do STF, por analogia.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICOPROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+(..)
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão". (..)
+(AgInt no AREsp 1.479.509/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 22/11/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FUNDAMENTAÇÃO. DEFICIÊNCIA. PERMISSIVO CONSTITUCIONAL. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF. ART. 1.022 DO CPC/2015. OMISSÕES. AUSÊNCIA. MINISTÉRIO PÚBLICO. LEGITIMIDADE ATIVA. CONFIGURAÇÃO. PROPAGANDA ENGANOSA. DANO MORAL. RECONHECIMENTO. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não houve indicação do permissivo constitucional autorizador do recurso especial, o que acarreta deficiência de fundamentação, atraindo a incidência da Súmula nº 284/STF.
+3. O art. 1.029, II, do CPC/2015 dispõe que a petição do recurso especial deve conter a demonstração do cabimento do recurso interposto, evidenciando, de forma explícita, o permissivo constitucional em que está fundado o apelo nobre.
+4. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+5. A jurisprudência do Superior Tribunal de Justiça possui entendimento firmado no sentido de que o Ministério Público Federal tem legitimidade para propor ação civil pública objetivando a proteção de direitos individuais homogêneos, mesmo que disponíveis e divisíveis, sobretudo se evidenciada a relevância social na sua proteção. 6. No caso concreto, rever o entendimento do tribunal de origem, que reconheceu a existência de danos morais coletivos e a proporcionalidade do valor fixado, demandaria o exame do acervo fático-probatório dos autos, procedimento inviável em recurso especial em virtude do óbice da Súmula nº 7/STJ. 7. Agravo interno não provido.
+(AgInt no AREsp 1.774.381 / RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 4/2/2022 - sem destaque no original)
+Ainda que superado o referido óbice, o recurso não merece acolhida.
+Conforme se infere das razões recursais, MILTON defende que deve ser declarada a condição de bem de família e consequente impenhorabilidade do imóvel de matrícula 136.626, situado na Rua das Municipalidades, 345, Ipiranga, São Paulo/ SP
+Ao dirimir a controvérsia, o Tribunal estadual, à luz da realidade e dos fatos postos, concluiu que as provas constantes dos autos evidenciam que o executado e sua família não residem no imóvel constrito. Confira-se:
+Da análise dos autos, não se evidencia que o executado e sua família residem no imóvel constrito.
+Não há nenhum elemento concreto acostado aos autos a comprovar tais assertivas, tais como: extratos bancários com datas atuais; correspondências pessoais de data recente vinculada ao local, constando o endereço do bem constrito como sendo a residência da devedora.
+Frise-se que o endereço fornecido pelo agravante na Cédula de Crédito Bancário é local diverso do bem penhorado, qual seja, Rua Guarapeba, nº 63, Jardim Vila Mariana São Paulo/SP. (fls. 13/24 dos autos da execução).
+Ainda, do laudo pericial realizado para avaliação do imóvel nota-se que se trata de um prédio comercial (fls. 272/323 dos autos de origem).
+Beira a má-fé processual a alegação de que o bem penhorado se enquadra no conceito legal de "bem de família". O que se constata é que o recorrente tenta fazer uso de manobras processuais visando procrastinar o deslinde do feito, o que não se pode admitir, não havendo nenhum motivo para suspender o andamento do agendamento da hasta pública (e-STJ, fls. 3.433/3.434).
+Dessa forma, rever o entendimento do acórdão impugnado demandaria o reexame do contexto fático-probatório, procedimento inadmissível em recurso especial, nos termos da Súmula n.º 7 do STJ.
+Assim, como MILTON não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
