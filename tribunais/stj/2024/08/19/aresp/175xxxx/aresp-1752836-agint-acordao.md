@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE COBRANÇA. COMPENSAÇÃO DOS INVESTIMENTOS EM INFRAESTRUTURA EFETUADOS PELA EMPRESA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias e apresentada nas razões do recurso especial, exige, precipuamente, a análise de dispositivos de legislação local, sendo a questão federal suscitada meramente reflexa. Inafastável a Súmula 280/STF.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Usina Açucareira Furlan S.A. desafiando decisão que negou provimento ao agravo, pelas seguintes razões: (I) não restou demonstrada a alegada negativa de prestação jurisdicional; (II) incabível o reexame de matéria fática no âmbito do apelo extremo, nos termos do Verbete 7/STJ; (III) a solução da controvérsia esbarra no óbice da Súmula 280/STF; e (IV) "Consoante a jurisprudência do STJ, considerando que não houve declaração de inconstitucionalidade do dispositivo legal suscitado, tampouco o afastamento deste, mas tão somente a interpretação do direito infraconstitucional aplicável à espécie, não há que se falar em violação à cláusula de reserva de plenário prevista no art. 97 da Constituição Federal e muito menos à Súmula Vinculante 10 do STF. Nesse sentido: AgRg no AREsp 347.337/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/11/2013" (AgInt no AREsp 1.806.474/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 23/9/2021).
+Inconformada, a parte agravante sustenta que a Corte de origem teria malferido o art. 1.022 do CPC, porque não teria havido manifestação sobre a contradição acerca da declaração indireta de inconstitucionalidade da Lei municipal n. 873/2006, nem sobre a falta de fundamentação da negativa de vigência do referido diploma legal. Por fim, aduz que " o  fato é que o exame da eficácia da Lei nº 873/2006 que previa o direito à compensação dos investimentos por meio de benefícios fiscais, da eficácia da Lei nº 1013/2007 (regulada pelo Decreto Municipal nº 1610/2007) situa-se no âmbito do direito intertemporal" (fl. 538).
+O recurso não foi impugnado, conforme certidão de fl. 546.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE COBRANÇA. COMPENSAÇÃO DOS INVESTIMENTOS EM INFRAESTRUTURA EFETUADOS PELA EMPRESA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Afasta-se a alegada ofensa aos arts. 489 e 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias e apresentada nas razões do recurso especial, exige, precipuamente, a análise de dispositivos de legislação local, sendo a questão federal suscitada meramente reflexa. Inafastável a Súmula 280/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos citados no presente recurso, a decisão agravada não merece reparos.
+Não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos no art. 1.022 do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+Quando do julgamentos dos embargos de declaração, o Tribunal paulista decidiu a controvérsia, nestes termos (fl. 398):
+Exatamente como ficou consignado, a Lei Municipal nº 873/2006 não previu quais os benefícios fiscais seriam deferidos às empresas, tampouco a forma da compensação dos investimentos de infraestrutura, o que ocorreu somente com a criação do Programa de Incentivo ao Desenvolvimento Econômico Industrial de Avaré  PRODEMA, por intermédio da Lei Municipal nº 1.013/2007.
+Ademais, ressaltou-se que esta Lei foi regulamentada pelo Decreto nº 1.610/2007, que dispõe que a adesão ao PRODEMA depende de análise prévia por parte do Município, e que a embargante teve sua adesão deferia apenas na data de 18/02/2010.
+Desse modo, a Turma Julgadora considerou que antes desta data não havia autorização para o Município dispor da mencionada receita tributária em favor da embargante e efetuar o repasse de valores, nos termos da Lei Municipal nº 1.013/2007, de modo que "a autorização para a autora se instalar na área destinada ao distrito industrial e realizar investimentos mediante futura compensação não tinha amparo legal e ocorreu de forma prematura" (fl. 321).
+Como se vê, o julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AÇÃO DE REPARAÇÃO DE DANOS. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. DATA DA CITAÇÃO
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1.022 do Código de Processo Civil de 2015.
+2. O Superior Tribunal de Justiça firmou orientação no sentido de que o termo inicial dos juros de mora, nas indenizações por danos materiais e morais decorrentes de ilícito contratual, é a data da citação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1364146/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/9/2019, DJe de 19/9/2019.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. SÚMULA 490/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 1.022 do CPC/2015, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. Hipótese em que o Tribunal de origem não conheceu da Remessa Necessária por entender que, "no caso concreto, o valor do proveito econômico, ainda que não registrado na sentença, é mensurável por cálculos meramente aritméticos" (fl. 140, e-STJ).
+3. O STJ, no julgamento do Recurso Especial 1.101.727/PR, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento segundo o qual o Reexame Necessário de sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público (art. 475, § 2º, do CPC/73) é regra, admitindo-se sua dispensa nos casos em que o valor da condenação seja certo e não exceda a 60 (sessenta) salários mínimos.
+4. Tal entendimento foi ratificado com o enunciado da Súmula 490/STJ: A dispensa de reexame necessário, quando o valor da condenação ou do direito
+controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas.
+5. Recurso Especial parcialmente provido para determinar o retorno dos autos à origem para que a sentença seja submetida ao Reexame Necessário.
+(REsp 1679312/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2017, DJe de 12/9/2017.)
+Registre-se que o mero inconformismo da parte não autoriza a reabertura do exame de matérias já apreciadas e julgadas, ou a introdução de questão nova, conforme já se manifestou este Superior Tribunal:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. UTILIZAÇÃO DE ÁGUA SUBTERRÂNEA PROVENIENTE DE POÇO ARTESIANO PARA CONSUMO HUMANO. LOCAL ABASTECIDO PELA REDE PÚBLICA. NECESSIDADE DE OUTORGA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA REFLEXA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1 - Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+2 - Eventual violação de lei federal, tal como posta pela embargante, seria reflexa, e não direta, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação do Decreto Estadual nº 23.430/74, descabendo, portanto, o exame da questão em recurso especial.
+3 - Embargos rejeitados
+(EDcI no Aglnt no AREsp 875.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/9/2016, DJe de 20/9/2016.)
+Quanto aos arts. 1º, 2º, 4º e 6º da LINDB, melhor sorte não socorre à parte recorrente.
+De acordo com excerto do aresto integrativo acima transcrito, observa-se que a solução da controvérsia (possibilidade ou não de a Lei n. 1.013/2007 e o Decreto municipal n. 1.610/2007, visto que seriam normas de cunho apenas regulamentador da forma de compensação dos investimentos, extinguirem o direito previsto na Lei municipal n. 873/2006) implica o exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da interpretação dos atos normativos locais em tela, o que atrai a incidência da Súmula 280/STF para a hipótese vertente.
+Nessa mesma linha de raciocínio, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO INATACADO. SÚMULA 182 DO STJ. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. INOCORRÊNCIA. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. AÇÃO RESCISÓRIA. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF. INCIDÊNCIA.
+ ..
+7. A revogação de uma norma estadual por outra, a título de ofensa ao art. 2º, §§ 1º e 2º, da Lei de Introdução às Normas do Direito Brasileiro, enseja inevitavelmente o exame de legislação local, o que encontra óbice em recurso especial, pois esbarra na Súmula 280 do STF.
+8. É inviável a análise de recurso especial interposto em sede de ação rescisória proposta com base no art. 485, V, do CPC/1973, cuja tese requer a análise de norma estadual - Leis n. 12.207/1993 e 12.
+386/1994 -, ante a proibição da Súmula 280 do STF.
+9. Agravo interno interposto por JOAO BATISTA GOMES NETO e OUTROS não conhecido, e recurso de ANTONIO VIRGILIO PEREIRA e OUTROS desprovido.
+(AgInt no REsp n. 1.563.957/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/3/2019, DJe de 23/4/2019.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPVA. RESPONSABILIDADE SOLIDÁRIA. OBRIGAÇÃO DE COMUNICAR A ALIENAÇÃO AO DEPARTAMENTO DE TRÂNSITO. LEI ESTADUAL. SÚMULA 280 STF.
+ ..
+4. Embora a parte recorrente alegue ter ocorrido violação a dispositivos de leis federais, o tema foi dirimido, pela Corte de origem, com base na interpretação da legislação local que regulamenta a matéria, notadamente a Lei Estadual 13.296/2008. Assim, eventual violação a Lei Federal seria reflexa, uma vez que a análise da controvérsia demandaria o exame da lei estadual citada, o que não se admite, em Recurso Especial, por força da Súmula 280 do STF, aplicável por analogia.
+5. Recurso Especial não conhecido.
+(REsp 1.786.999/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/3/2019, DJe de 23/4/2019.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
