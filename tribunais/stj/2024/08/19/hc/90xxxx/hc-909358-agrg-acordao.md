@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PENA-BASE. QUANTIDADE E VARIEDADE DAS DROGAS. FUNDAMENTO VÁLIDO. AUMENTO PROPORCIONAL. REGIME PRISIONAL. SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO NÃO PROVIDO.
+1. A fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias.
+2. Na hipótese , inexiste qualquer evidência de que a dosimetria utilizada pelas instâncias ordinárias se distanciou dos parâmetros admitidos por esta Corte Superior, não havendo, assim, que se falar em ofensa à proporcionalidade.
+3. Estabelecida a sanção corporal em 4 anos de reclusão e sendo desfavoráveis as circunstâncias judiciais, o regime inicial semiaberto é o adequado para a reprovação do delito, nos termos do art. 33, §§ 2º e 3º, do CP.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por AMANDA SILVA ZEFERINO, de decisão na qual indeferi liminarmente o habeas corpus (e-STJ, fls. 414-418).
+A defesa alega, em suma, ser desproporcion al o aumento da pena-base, na fração de 1/5.
+Assevera que " e sta Egrégia Corte Superior já firmou entendimento que as circunstâncias judiciais desfavoráveis serão sobrepesadas na aplicação da pena a ser imposta ao réu, na quantidade e qualidade, porém não devem ser usadas como fundamento para aplicar o regime prisional mais severo do que o previsto em lei." (e-STJ, fl. 445)
+Aduz que, "em razão do quantum final da pena e da primariedade da agravante, concluiu-se pela suficiência da imposição do regime inicial aberto, bem como pela possibilidade de substituição da pena privativa de liberdade." (e-STJ, fl. 445)
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. PENA-BASE. QUANTIDADE E VARIEDADE DAS DROGAS. FUNDAMENTO VÁLIDO. AUMENTO PROPORCIONAL. REGIME PRISIONAL. SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO NÃO PROVIDO.
+1. A fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias.
+2. Na hipótese , inexiste qualquer evidência de que a dosimetria utilizada pelas instâncias ordinárias se distanciou dos parâmetros admitidos por esta Corte Superior, não havendo, assim, que se falar em ofensa à proporcionalidade.
+3. Estabelecida a sanção corporal em 4 anos de reclusão e sendo desfavoráveis as circunstâncias judiciais, o regime inicial semiaberto é o adequado para a reprovação do delito, nos termos do art. 33, §§ 2º e 3º, do CP.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada merece ser mantida por seus próprios e jurídicos fundamentos, a seguir integralmente reproduzidos:
+"O Tribunal de origem manteve o aumento da pena-base, pela quantidade e variedade de materiais entorpecentes, nos seguintes termos:
+"- Para a acusada Amanda Silva Zeferino Diante da presença de 01 circunstância preponderante do artigo 42 da Lei de Drogas (quantidade e variedade de materiais entorpecentes), e readequando-se o quantum de aumento aos padrões usualmente utilizados pela Jurisprudência do STJ, redimensiona-se sua pena- base para 04 anos de reclusão, mantida a pena de multa em 842 dias-multa, que se torna definitiva em razão da ausência de outros moduladores que tenham o condão de escorá-la." (e-STJ, fl. 244) A defesa argumenta a inviabilidade de valoração negativa da natureza e quantidade de droga, nos termos do art. 42 da Lei n. 11.343/06, em vista da ausência de apreensão.
+A tese não encontra sustentação na norma aplicável ou na jurisprudência.
+Nada obstante o entendimento atual desta Corte seja no sentido de que a apreensão e perícia do entorpecente é imprescindível para o reconhecimento da materialidade do crime de tráfico de drogas (art. 33 da Lei n. 11.343/06), inexiste tal exigência para admitir como provado o crime de associação criminosa para fins de tráfico de drogas (art. 35 da Lei n. 11.343/06), cuja materialidade pode ser demonstrada a partir de outros meios de prova.
+Esta relevante distinção é retratada no paradigmático julgamento do HC.
+686.312/MS, que, a um só tempo, assentou a necessidade de apreensão do entorpecente para que se considere comprovada a materialidade do crime de tráfico de drogas, e admitiu a possibilidade de condenação pelo crime de associação, caso, evidentemente, haja suficientes provas neste sentido.
+Naquilo que importa para o exame ora realizado, cabe transcrever os seguintes tópicos daquela decisão:
+ ..
+Desse modo, se o entendimento prevalecente é no sentido de que para a comprovação do crime de associação para fins de tráfico de drogas não se faz indispensável a efetiva apreensão do entorpecente, mostrando-se viável a condenação a partir de outros meios de prova, possível, no mesmo sentido, aferir, a partir destas mesmas provas, para os fins do art. 42 da Lei n.
+11.343/06, a natureza e quantidade de entorpecentes transacionados pela associação.
+Ao assim proceder, o juízo estará concretizando a necessária individualização das penas, nos termos exigidos pelo art. 5º, XLVI da Constituição da República, distinguindo, no caso concreto, associações criminosas de portes distintos.
+Pensar de modo diverso levaria à conclusão, sem amparo legal, de que a incidência do art. 42 da Lei de Drogas, que trata de circunstâncias que devem preponderar sobre aquelas previstas no art. 59 do Código Penal, somente seria aplicável ao crime tipificado no art. 35 caso também comprovado o correlato crime de tráfico, cuja materialidade pressupõe apreensão e perícia do entorpecente.
+No caso, as instâncias ordinárias, apreciando o robusto conjunto de provas derivado da denominada "Operação Horse", concluiu pela existência de associação criminosa com estrutura complexa, com diversos núcleos de atuação, significativo número de integrantes e larga área de atuação, o que autorizou ponderada avaliação quanto à natureza e, principalmente, a elevada quantidade de entorpecentes transacionados ao longo do tempo.
+Chegar à conclusão diversa pressuporia profundo reexame das provas produzidas na instrução, o que se revela inviável na estreita via do habeas corpus.
+Ademais, cumpre ressaltar que a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias.
+Neste sentido:
+ ..
+Na hipótese em exame, inexiste qualquer evidência de que a dosimetria utilizada pelas instâncias ordinárias se distanciou dos parâmetros admitidos por esta Corte Superior, não havendo, assim, que se falar em ofensa à proporcionalidade."
+Estabelecida a sanção corporal em 4 anos de reclusão e sendo desfavoráveis as circunstâncias judiciais, o regime inicial semiaberto é o adequado para a reprovação do delito, nos termos do art. 33, §§ 2º e 3º, do CP (AgRg no AREsp 825.711/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 3/03/2016; AgRg no REsp 1.438.369/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 01/09/2015).
+Por fim, no tocante ao pedido de substituição da pena privativa de liberdade por restritivas de direitos, "Ainda que o quantum da reprimenda esteja dentro dos limites para a substituição da pena, as circunstâncias do caso concreto não a recomendam - tendo em vista a complexa estrutura da associação, com expressivo número de integrantes, que, inclusive, foi utilizado como fundamento para o aumento da pena-base. Assim, nos termos do art. 44, inciso III, do Código Penal, inviável a substituição da pena privativa de liberdade por restritivas de direitos." (AgRg no HC n. 766.531/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 12/5/2023.)" (e-STJ, fls. 414-418)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
