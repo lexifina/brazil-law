@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXPEDIÇÃO DE OFÍCIO EM NOME DO ESPÓLIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em cumprimento de sentença, determinou a expedição de ofício requisitório em nome de espólio. No Tribunal a quo, deu-se provimento ao recurso.
+II - Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Quanto à questão de fundo, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que os sucessores do servidor falecido têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens. Nesse sentido: AgInt no REsp n. 1.991.444/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/8/2022, DJe de 31/8/2022; AgInt no REsp n. 1.876.858/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/2/2021, DJe de 11/2/2021; AgInt no REsp n. 1.853.332/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 31/8/2020, DJe de 4/9/2020.
+V - No caso, o acórdão recorrido consignou que o pagamento poderá ser realizado com a habilitação de todos os herdeiros, sendo desnecessária a habilitação do espólio, entendimento que se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça.
+VI - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim resumido:
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO EM SEDE DE HABILITAÇÃO INCIDENTAL. HABILITAÇÃO DOS HERDEIROS NO PROCESSO DE EXECUÇÃO. INVENTÁRIO ABERTO E HOMOLOGADO. AUSÊNCIA DE NOVOS BENS A INVENTARIAR. ART. 110 DO CPC.
+- O Superior Tribunal de Justiça vem entendendo que a abertura de inventário é necessária para o levantamento de valores decorrentes de ação executiva quando o falecido tenha deixado bens.
+- Todavia, há distinção relevante se o falecido tiver deixado bens, mas já tenha ocorrido a instauração do competente inventário e sobrevinda a partilha homologada, não havendo novos bens, nem tendo surgido novos herdeiros.
+- Nestes casos, é desnecessária a habilitação do espólio, podendo os herdeiros habilitarem-se diretamente, nos termos do art. 110 do CPC.
+- Agravo de instrumento provido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com efeito, os precedentes do c. STJ vão ao encontro da pretensão da Autarquia, no sentido de que, existindo bens a inventariar, e já tendo sido homologada a partilha, a sobrepartilha é medida que se impõe previamente à habilitação dos herdeiros.
+Veja-se:
+ ..
+Portanto, ao contrário do que assentou a decisão agravada, na hipótese peculiar em que o falecido servidor deixou bens/valores a inventariar, mas a partilha já foi homologada, a habilitação dos herdeiros no cumprimento de sentença se condiciona à sobrepartilha.
+ ..
+Portanto, em consonânc ia com os precedentes dessa c. Corte acima colacionados, uma vez que, no presente caso, o falecido servidor deixou bens a inventariar e a respectiva partilha já foi homologada, então a sobre partilha é medida que se impõe previamente à habilitação dos herdeiros no cumprimento de sentença. Tudo com vistas à proteção dos próprios sucessores, bem como de eventuais credores e da Fazenda Pública Estadual, credora do imposto sobre transmissão causa mortis.
+A peculiaridade atinente à existência de "bens a inventariar" e de partilha já homologada diferencia o presente caso daqueles citados na decisão ora agravada, afastando, pois, o óbice da Súmula 83/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXPEDIÇÃO DE OFÍCIO EM NOME DO ESPÓLIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em cumprimento de sentença, determinou a expedição de ofício requisitório em nome de espólio. No Tribunal a quo, deu-se provimento ao recurso.
+II - Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Quanto à questão de fundo, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que os sucessores do servidor falecido têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens. Nesse sentido: AgInt no REsp n. 1.991.444/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/8/2022, DJe de 31/8/2022; AgInt no REsp n. 1.876.858/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/2/2021, DJe de 11/2/2021; AgInt no REsp n. 1.853.332/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 31/8/2020, DJe de 4/9/2020.
+V - No caso, o acórdão recorrido consignou que o pagamento poderá ser realizado com a habilitação de todos os herdeiros, sendo desnecessária a habilitação do espólio, entendimento que se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Quanto à questão de fundo, a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que os sucessores do servidor falecido têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+Nesse sentido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. FALECIMENTO. DEPENDENTES. HABILITAÇÃO PROCESSUAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou orientação segundo a qual sobrevindo o falecimento do autor no curso do processo, seus dependentes previdenciários poderão habilitar-se para receber os valores devidos, independentemente de inventário ou arrolamento de bens, assegurando, igualmente, que os dependentes habilitados à pensão por morte detêm preferência em relação aos demais sucessores do de cujus.
+III - Os sindicatos podem, na execução de título judicial, substituir os dependentes do servidor público falecido. Precedentes.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.991.444/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FALECIDO. EXECUÇÃO DE SENTENÇA. HABILITAÇÃO. LEGITIMIDADE DE EXEQUENTE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Infirmar a conclusão alcançada pela Corte de origem, adotando-se para tanto as razões do apelo especial, no pertinente à legitimidade do exequente, pressupõe reexaminar fatos e provas, o que esbarra com o teor da Súmula 7/STJ.
+2. O STJ tem reiteradamente assentado que "os dependentes previdenciários e, na falta deles, os sucessores do falecido têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens" (AgInt no REsp 1.853.332/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 4/9/2020). No mesmo sentido: AgInt no AREsp 820.207/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 21/10/2019.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.876.858/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/2/2021, DJe de 11/2/2021.)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. MORTE DO TITULAR DO DIREITO NO CURSO DA AÇÃO. HABILITAÇÃO PROCESSUAL DO BENEFICIÁRIO DE PENSÃO POR MORTE. DESNECESSIDADE DE INVENTÁRIO OU ARROLAMENTO DE BENS. PRECEDENTE DO STJ. RECURSO PROVIDO. MANUTENÇÃO.
+1. O acórdão recorrido se afastou da orientação jurisprudencial deste Superior Tribunal de que os dependentes previdenciários e, na falta deles, os sucessores do falecido têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+2. Provimento do recurso especial da parte agravada que merece ser mantido.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.853.332/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 31/8/2020, DJe de 4/9/2020.)
+No caso, o acórdão recorrido consignou que o pagamento poderá ser realizado com a habilitação de todos os herdeiros, sendo desnecessária a habilitação do espólio, entendimento que se encontra em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
