@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIOS CONSTRUTIVOS. COBERTURA SECURITÁRIA. FCVS. PRESCRIÇÃO. QUITAÇÃO DO CONTRATO. RECURSOS REPETITIVOS. TEMA 1.039/STJ. JUÍZO DE CONFORMIDADE QUE DEVE SER REALIZADO PELO TRIBUNAL LOCAL. AUSÊNCIA DE DISTINÇÃO.
+1. Encontra-se pendente de análise no âmbito deste Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos, a seguinte questão jurídica: "Fixação do termo inicial da prescrição da pretensão indenizatóri a em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" (Tema 1.039/STJ).
+2. Ao contrário da alegação da parte insurgente acerca da inexistência de controvérsia no feito quanto a esse tema repetitivo, verifica-se que este Sodalício já expressou sua posição de que a discussão sobre a falta de interesse processual decorrente da liquidação do contrato de financiamento habitacional e sua relação com a cobertura securitária está abarcada pelo Tema 1.039/STJ. Precedente.
+3. Desse modo, impõe-se aguardar o exaurimento da jurisdição da Corte de origem, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que aquela instância judicante, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Bradesco Seguros S.A. desafiando decisão singular que julgou prejudicado o recurso especial e determinou a devolução dos autos à instância de origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido por este Superior Tribunal de Justiça na sistemática dos recursos repetitivos (Tema 1.039/STJ).
+A parte agravante sustenta, em resumo, que a matéria em discussão nos autos é distinta daquela objeto do Tema 1.039/STJ, pois "o que se busca neste recurso é o reconhecimento de que a quitação do contrato de seguro implica na extinção do direito do Autor, de forma imediata, não sendo necessário questionar se o prazo prescricional se iniciará ou não com a quitação do contrato" (fl. 1.750).
+Afirma, também, que "o posicionamento do STJ não está consolidado quanto ao fato da quitação do contrato de financiamento não ser motivo da falta de interesse de agir" (fl. 1.750).
+Requer, ao final, a reconsideração do decisum para que seja analisado o recurso especial.
+Transcorreu, in albis, o prazo para impugnação (fl. 1.757).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIOS CONSTRUTIVOS. COBERTURA SECURITÁRIA. FCVS. PRESCRIÇÃO. QUITAÇÃO DO CONTRATO. RECURSOS REPETITIVOS. TEMA 1.039/STJ. JUÍZO DE CONFORMIDADE QUE DEVE SER REALIZADO PELO TRIBUNAL LOCAL. AUSÊNCIA DE DISTINÇÃO.
+1. Encontra-se pendente de análise no âmbito deste Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos, a seguinte questão jurídica: "Fixação do termo inicial da prescrição da pretensão indenizatóri a em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" (Tema 1.039/STJ).
+2. Ao contrário da alegação da parte insurgente acerca da inexistência de controvérsia no feito quanto a esse tema repetitivo, verifica-se que este Sodalício já expressou sua posição de que a discussão sobre a falta de interesse processual decorrente da liquidação do contrato de financiamento habitacional e sua relação com a cobertura securitária está abarcada pelo Tema 1.039/STJ. Precedente.
+3. Desse modo, impõe-se aguardar o exaurimento da jurisdição da Corte de origem, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que aquela instância judicante, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada merece ser mantida.
+Com efeito, conforme constou no decisório singular, o caso dos autos apresenta discussão acerca de matéria que possui vinculação a precedente cuja observância é obrigatória.
+Cumpre dizer que se encontra pendente de análise no âmbito deste Sodalício, sob a sistemática dos recursos repetitivos, a seguinte questão jurídica: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" (Tema 1.039).
+A proposta de afetação foi acolhida pela Segunda Seção do STJ, em aresto assim ementado:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO. CONTRATO QUITADO.
+1. Delimitação da controvérsia: "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação."
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp n. 1.799.288/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 3/12/2019, DJe de 9/12/2019.)
+Note-se que, em sessão realizada aos 7/3/2024, a Segunda Seção do STJ, acolhendo questão de ordem suscitada no bojo do REsp n. 1.799.288/PR, afetou o julgamento do Tema 1.039 à Corte Especial.
+Ademais, ao contrário da alegação da parte insurgente acerca da inexistência de controvérsia no feito quanto a esse tema repetitivo, verifica-se que este Tribunal Superior já expressou sua posição de que a discussão sobre a falta de interesse processual decorrente da liquidação do contrato de financiamento habitacional e sua relação com a cobertura securitária está abarcada pelo Tema 1.039/STJ.
+Nesse vértice, veja-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DESTA CORTE. DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS À ORIGEM. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS. TEMA N. 1.039/STJ. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, que determinou a devolução dos autos ao Juízo de primeira grau, tendo em vista a já existência de determinação de sobrestamento contida no acórdão recorrido, em razão de a matéria objeto da demanda encontrar-se afetada para julgamento sob a sistemática dos recursos repetitivos (Tema n. 1.039).
+II - A decisão proferida pela Presidência desta Corte deve ser mantida, pois a questão discutida nos presentes autos - relacionada à falta de interesse de agir nos contratos de mútuo extintos objetivando cobertura securitária - encontra-se abarcada pelo Tema n. 1.039/STJ, afetado à Segunda Seção deste Superior Tribunal de Justiça.
+III - Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 2.079.383/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+No mesmo sentido, foram proferidas as decisões monocráticas: REsp n. 2.129.091, Ministra Regina Helena Costa, DJe de 11/4/2024; REsp n. 1.608.436, Ministro Mauro Campbell Marques, DJe de 2/4/2024; e REsp n. 2.115.065, Ministro Benedito Gonçalves, DJe de 26/2/2024.
+Nesse contexto, impõe-se aguardar o exaurimento da jurisdição do Tribunal a quo, a qual apenas se esgotará com a fixação da tese por este STJ, oportunidade em que a Corte de origem, relativamente ao recurso especial lá sobrestado, haverá de observar o iter delineado nos arts. 1.040 e 1.041 do CPC.
+A propósito, confiram-se os seguintes acórdãos: EDcl no AgRg no REsp n. 1.510.988/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; EDcl no AgInt no REsp n. 1.922.773/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/9/2023, DJe de 15/9/2023; e EDcl nos EDcl no AgInt no AREsp n. 1.750.982/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 6/6/2023, DJe de 15/6/2023.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este Pretório.
+Dessa forma, a despeito das alegações apresentadas no agravo interno, não se verifica a existência de distinção entre a hipótese dos autos e a questão destacada no Tema 1.039/STJ, capaz de afastar a necessidade de observância do rito processual indicado acima, para que o Tribunal local reaprecie a tese à luz do precedente vinculante.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
