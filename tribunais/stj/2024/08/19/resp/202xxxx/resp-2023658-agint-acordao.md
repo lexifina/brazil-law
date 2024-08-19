@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MÚTUO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO CPC. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1º DA LEI N. 8.009/1990. NÃO VERIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 1.022 E 1.025 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 740-746 que negou provimento ao recurso especial por ausência de violação dos arts. 1.022 e 1.025 do CPC e incidência da Súmula n. 7 do STJ.
+Nas razões do presente recurso, a agravante defende que o Tribunal a quo foi omisso ao manter a penhora de bem de família sem se manifestar a respeito da alegação de impossibilidade de renúncia à proteção legal da impenhorabilidade do bem de família, prevista no art. 1º da Lei n. 8.009/1990
+Defende a inaplicabilidade da Súmula n. 7 do STJ, pois pretende apenas que seja analisado que o ato de renunciar ao bem de família não encontra-se previsto no art. 1º da Lei n. 8.009/1990, o que caracteriza a violação da lei.
+Defende a possibilidade de análise da divergência jurisprudencial de forma independentemente da alínea a do permissivo constitucional.
+Requer, assim, seja dado provimento ao agravo interno para que o recurso especial possa ser conhecido e provido a fim de que seja declarado impenhorável o imóvel bem de família.
+Contrarrazões apresentadas às fls. 761-776, em que se requer o desprovimento do agravo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MÚTUO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO CPC. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1º DA LEI N. 8.009/1990. NÃO VERIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 1.022 E 1.025 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não reúne condições de prosperar, devendo a decisão agravada ser mantida por seus próprios fundamentos, assim expressos (fls. 742-745, destaquei):
+No caso, a Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 69-72):
+Em que pesem as alegações dos agravantes, o pedido de impenhorabilidade o bem de família já foi apreciado pelo juízo de primeiro grau, nos seguintes termos: ..
+E, contra referida decisão, os agravantes não interpuseram qualquer recurso, restando preclusa.
+Agora, às vésperas do leilão, os agravantes/avalistas Jair Ruiz Bana e Mriram Teresinha Bana não deram o imóvel em que residem como garantia do contrato de mutuo.
+Cumpre esclarecer que tal alegação não foi levada a conhecimento do juízo de primeiro grau e cuido apreciá-la por se tratar de matéria de ordem pública.
+Verifica-se que consta expressamente do contrato de mútuo firmado entre as partes, em sua cláusula 5.2, que os avalistas renunciaram aos benefícios facultados pelos artigos 827, 835 a 839 do Código Civil, além de eventual direito ou ação que poderiam ter em razão das disposições da Lei nº 8009/90 (fls. 28 e 29, 1º grau) e, esta última, dispõe sobre a impenhorabilidade do bem de família.
+Logo, desde a contratação do mútuo, os avalistas já haviam renunciado à eventual impenhorabilidade que pudesse recair sobre o bem de família.
+E não é só.
+Para a obtenção de efeito suspensivo aos embargos à execução, os agravantes ofereceram como garantia à execução o imóvel em questão, conforme eles próprios afirmam às fls. 104 dos autos originários e às 18/19 dos autos dos embargos à execução. Pasmem! Ora, é tão certo que ofereceram diversas vezes o imóvel como garantia que chegaram a discutir exaustivamente o valor de sua avaliação no curso dos autos.
+Assim, despropositada a irresignação dos agravantes.
+No tocante à alegação de ofensa aos arts. 1.022, II, parágrafo único, e 1.025 do CPC, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, assentando que "desde a contratação do mútuo, os avalistas já haviam renunciado à eventual impenhorabilidade que pudesse recair sobre o bem de família" (fl. 71) e que, conforme os recorrentes afirmam, para a "obtenção de efeito suspensivo aos embargos à execução, os agravantes ofereceram como garantia à execução o imóvel em questão" (fl. 72).
+Desse modo, as questões que delimitam a controvérsia foram devidamente analisadas, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa de prestação jurisdicional.
+ ..
+No que se refere à apontada ofensa ao art. 1º da Lei n. 8.009/1990, a instância de origem concluiu que "o pedido de impenhorabilidade o bem de família já foi apreciado pelo juízo de primeiro grau" (fl. 69) e que "contra referida decisão, os agravantes não interpuseram qualquer recurso, restando preclusa" (fl. 71), assentando o seguinte (fl. 71):
+Verifica-se que consta expressamente do contrato de mútuo firmado entre as partes, em sua cláusula 5.2, que os avalistas renunciaram aos benefícios facultados pelos artigos 827, 835 a 839 do Código Civil, além de eventual direito ou ação que poderiam ter em razão das disposições da Lei nº 8009/90 (fls. 28 e 29, 1º grau) e, esta última, dispõe sobre a impenhorabilidade do bem de família.
+Logo, desde a contratação do mútuo, os avalistas já haviam renunciado à eventual impenhorabilidade que pudesse recair sobre o bem de família.
+Nesse contexto, a pretensão de novo pronunciamento a respeito dos temas elencados implicaria em reexame de matéria fático-probatória dos autos, medida inviável em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+ ..
+No tocante à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte ora agravante, pois a tese arguida em relação ao apelo especial com base na alínea a do permissivo constitucional foi afastada pela impossibilidade de reexame de prova (Súmula n. 7 do STJ) nesta instância especial, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Não foi constatada omissão no acórdão da Corte estadual, pois, como assinalado na decisão combatida, fora discutida a questão referente a possibilidade de penhora do bem imóvel familiar, por ter sido afastado o instituto do bem de família.
+Impositiva também a manutenção da decisão agravada em relação a alegação de violação do art. 1º da Lei n. 8.009/1990, pois rever as ponderações feitas pelo Tribunal de origem, em relação ao fato de que, desde a contratação do mútuo os agravantes já haviam renunciado à eventual impenhorabilidade que pudesse recair sobre o bem de família, de fato, demandaria reexame dos elementos dos autos, incidindo ao caso a Súmula n. 7 do STJ.
+Ademais, o entendimento adotado na origem encontra-se em harmonia com jurisprudência dessa Corte no sentido de que, "sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo (..), não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais" (REsp 1.559.348/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/06/2019, DJe de 05/08/2019).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. IMPENHORABILIDADE DO BEM DE FAMÍLIA. NÃO INCIDÊNCIA. VALIDADE DA GARANTIA. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. ALEGAÇÃO DE DÍVIDA CONSTITUÍDA EXCLUSIVAMENTE EM FAVOR DE PESSOA JURÍDICA. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Concernente à impenhorabilidade do bem de família, o Superior Tribunal de Justiça já afastou tal garantia no caso em que o devedor alienou fiduciariamente o bem de família, o qual sabidamente era de residência familiar, por caracterizar comportamento contraditório. Precedente.
+2. Outrossim, em sentido semelhante, esta Corte Superior adotou o entendimento de que, "sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo (..), não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais" (REsp 1.559.348/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/06/2019, DJe 05/08/2019).
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência deste Superior Tribunal, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. No caso, concluindo o aresto impugnado que o imóvel discutido nos autos foi oferecido como garantia em alienação fiduciária de dívida dos próprios recorrentes, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa e nova interpretação de cláusulas contratuais, o que é vedado, no âmbito do recurso especial, conforme as Súmulas n. 5 e 7/STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.071.640/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022, destaquei.)
+Por fim, quanto ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ no tocante à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A esse respeito: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
