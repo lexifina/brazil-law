@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. FIES. ERRO EM SISTEMA INFORMATIZADO. FNDE. LEGITIMIDADE PASSIVA.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Acerca da legitimidade passiva do recorrente, o STJ já se pronunciou no sentido de que o Fundo Nacional de Desenvolvimento da Educação  FNDE, enquanto gestor do FIES e operador do SisFIES, detém legitimidade para figurar no polo passivo das demandas que envolvem tal programa governamental.
+3. Agravo Interno não provido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto de decisão monocrática (fls. 793-797) que negou provimento ao Recurso.
+O agravante alega:
+A decisão agravada conclui, de forma geral, que "Acerca da legitimidade passiva do recorrente, esta Corte superior já se pronunciou no sentido de que o Fundo Nacional de Desenvolvimento da Educação -FNDE, enquanto gestor do FIES e operador do SisFIES, detém legitimidade para figurar no polo passivo das demandas que envolvem tal programa governamental." Nesse sentido, trouxe alguns precedentes a ilustrar tal fundamento.
+Ocorre que as alegações do ente público não se limitaram à discussão do tema da legitimidade passiva. O recurso especial traz a tese de ausência de responsabilidade do ente público no caso, ou seja, independentemente da (i)legitimidade passiva do FNDE, discute-se, adicionalmente, a questão da responsabilidade (ou não) do ente público no caso.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação nas fls. 818-826.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. FIES. ERRO EM SISTEMA INFORMATIZADO. FNDE. LEGITIMIDADE PASSIVA.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Acerca da legitimidade passiva do recorrente, o STJ já se pronunciou no sentido de que o Fundo Nacional de Desenvolvimento da Educação  FNDE, enquanto gestor do FIES e operador do SisFIES, detém legitimidade para figurar no polo passivo das demandas que envolvem tal programa governamental.
+3. Agravo Interno não provido.
+VOTO
+Os autos foram recebidos neste Gabinete em 1º.7.2024.
+Conforme consignado na decisão agravada, constato que não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do ora recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO OS ARTS. 489, § 1º, IV, 1.022, II, E 1.013 E INCISOS, TODOS DO CPC/15. INOCORRÊNCIA DE DANOS MORAIS.
+I - Na origem, trata-se de ação de rito ordinário ajuizada pelos autores, em face da UNIFESP (PRO-REITORIA DE ASSUNTOS ESTUDANTIS - CAMPUS DE SÃO JOSÉ DOS CAMPOS), com pedido de antecipação dos efeitos da tutela para determinar o restabelecimento de beneficio de auxílio -permanência em favor dos autores, estudantes do curso de Ciência e Tecnologia, bem como para anular as faltas escolares dos autores, permitindo a matrícula dos mesmos para o primeiro semestre de 2014. Na sentença, julgou-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Sobre a alegação de malferimento aos arts. 489, § 1º, IV, 1.022, II, e 1.013 e incisos, todos do CPC/15, o Tribunal a quo, na fundamentação do decisum, entendeu que não se verifica a ocorrência de danos morais, razão pela qual é descabida a condenação da apelante ao pagamento de indenização.
+III - Conforme demonstrado dos excertos colacionados do aresto vergastado, o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia travada nos autos, em que pese em sentido diverso da pretensão dos recorrentes, o que não significa, necessariamente, ausência de prestação jurisdicional.
+IV - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1406990/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2019)
+Ao dirimir a controvérsia, o Colegiado originário anotou (fl. 533):
+(..)
+Conforme se manifestou a 2ª Turma deste Tribunal, "o FNDE é parte legítima para figurar na lide em que se discute regularização de contrato de financiamento estudantil, visto que é o agente mantenedor do programa, na condição de gestor patrimonial do FIES (art. 3º, inciso I, "c", da Lei nº. 10.260/2001,incluído pela Lei nº. 13.530/2017), sendo desinfluente, para efeito de definir a legitimidade para estar em juízo, aspectos relacionados à utilização/manutenção de plataforma para operacionalização dos financiamentos" (Processo: 08033031220204050000, Agravo de Instrumento, Desembargador Federal Leonardo Augusto Nunes Coutinho (Convocado), 2ª Turma, Julgamento: 04/08/2020)Ainda que assim não fosse, de acordo com o §1º do art. 20-B da Lei 13.530/2017 , enquanto não 1 houver a regulamentação de que trata o de referido artigo, o FNDE dará continuidade às atribuições decorrentes do encargo de agente operador.
+No caso dos autos, inclusive, o FNDE juntou documentos demonstrando o integral cumprimento da obrigação fixada na sentença. Dessa forma, tendo sido ele responsável pelo cumprimento da obrigação, é parte legitima para figurar no pólo passivo da ação.
+Acerca da legitimidade passiva do recorrente, esta Corte superior já se pronunciou no sentido de que o Fundo Nacional de Desenvolvimento da Educação  FNDE, enquanto gestor do FIES e operador do SisFIES, detém legitimidade para figurar no polo passivo das demandas que envolvem tal programa governamental.
+Nessa senda:
+PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. LEGITIMIDADE PASSIVA DO FNDE. PRORROGAÇÃO DO PRAZO DE CARÊNCIA PARA AMORTIZAÇÃO DO SALDO DEVEDOR DO CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES, FIRMADO PARA O CUSTEIO DO CURSO DE MEDICINA, EM VIRTUDE DA EXTENSÃO EM RESIDÊNCIA MÉDICA.1. Não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil. O Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tcontrovérsia, tendo enfrentado expressamente o tema relativo à competência do Fundo Nacional de Desenvolvimento da Educação - FNDE, no tocante à implantação do benefício da carência estendida, embora contrariamente aos interesses da parte ora recorrente.
+2. A irresignação não prospera, porque o aresto vergastado decidiu em conformidade com a jurisprudência do STJ, segundo a qual o FNDE, como gestor do FIES e operador do SisFIES, é parte legítima para figurar no polo passivo das demandas envolvendo esse programa governamental. No mesmo sentido em caso absolutamente análogo: AgInt no R
+Esp 1.919.649/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13.8.2021.3. Recurso Especial não provido.(REsp 1.991.156/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26/9/2022.)
+Na mesma linha, recentes decisões monocráticas: REsp 2.021.932/CE, Rel. Ministro Mauro Campbell Marques, DJe de 17.10.2022; e REsp 2.023.778/CE, Rel. Ministra Assusete Magalhães, DJe de 7.10.2022.
+Dessume-se que o aresto impugnado está em sintonia com o atual entendimento do STJ, motivo pelo qual não merece prosperar a irresignação. Incide na espécie o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre ressaltar que a referida diretriz é aplicável também aos Recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988.
+Ausente a comprovação da necessidade de retificação a ser promov ida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
