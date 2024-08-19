@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 481):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+A agravante sustenta que "Diferente do que consta na decisão a agravada, a parte agravante impugnou sim a incidência súmula 211 do STJ, tendo em vista que a mesma se refere a ausência de prequestionamento, senão vejamos: (..). No entanto, em seu agravo a parte recorrente fez um tópico especificamente sobre o prequestionamento implícito, para atacar a incidência da Súmula 211 do STJ, (..)." (fl. 488). E acrescenta: "Da mesma forma, a parte agravante impugnou sim a incidência súmula 280 do STF, uma vez que a mesma dispõe que por ofensa a direito local não cabe recurso extraordinário, in verbis: (..). No entanto, em seu agravo a parte recorrente fez um tópico especifico para contrapor a alegação de que o acórdão recorrido se baseou em dispositivos do Código Tributário Municipal, e, assim atacar a incidência da Súmula 280 do STF, (..)." (fl. 490).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnados, especificamente, dois dos fundamentos da decisão que inadmitiu o recurso na Corte de origem (Súmulas 211/STJ e 280/STF).
+Neste agravo interno, a recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada nos seguintes fundamentos: a) incidência da Súmula 211/STJ; b) fundamentação constitucional do acórdão recorrido; c) incidência da Súmula 280/STF.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Veja-se que para o atendimento da exigência recursal de devida impugnação à aplicação da Súmula 211/STJ, é necessário que a parte indique, transcrevendo-os, os trechos do julgado recorrido em que o colegiado de origem tratou do tema discutido, decidindo sobre ele, de modo a demonstrar a efetiva ocorrência do prequestionamento - ainda que implícito - da matéria.
+No seu agravo em recurso especial, a parte transcreveu, a título dessa demonstração, o seguinte excerto do acórdão integrativo: "Tal matéria, todavia, restou abordada no julgado, tendo sido esclarecido que de acordo com Tema 437/STF, incide o IPTU, considerado imóvel de pessoa jurídica de direito público cedido a pessoa jurídica de direito privado, devedora do tributo, sobretudo porque a hipótese de incidência do IPTU não se limita à propriedade do imóvel, incluindo o domínio útil e a posse do bem:" (fls. 441-442).
+Ora, o óbice sumular foi aplicado por se considerar que o art. 110 do CTN não foi devidamente prequestionado. O dispositivo em questão diz:
+Art. 110. A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado, utilizados, expressa ou implicitamente, pela Constituição Federal, pelas Constituições dos Estados, ou pelas Leis Orgânicas do Distrito Federal ou dos Municípios, para definir ou limitar competências tributárias.
+Isso observado, a bem de ver que do excerto do acórdão trazido pela parte não se verifica discussão na Corte de origem sobre o referido artigo, donde não se ter por demonstrado seu prequestionamento e, logo, infirmado o verbete 211/STJ.
+Do mesmo modo, no concernente à Súmula 280/STF, o adequado combate à aplicação do óbice exige da parte que ela demonstre a desnecessidade, na solução da controvérsia, de análise de legislação local, fazendo o contraponto com a incidência tão somente da legislação federal invocada. E considerando que a decisão de inadmissibilidade assentou a incidência do óbice sumular porque o acórdão recorrido foi fundamentado em dispositivos do Código Tributário Municipal, cabia ainda à agravante demonstrar eventual equívoco deste entendimento.
+Na espécie, não obstante, a parte limitou-se a referir simplesmente que o "(..) acórdão citou de forma expressa o artigo 32 do CTN, (..)" (fl. 444), ao que transcreveu trecho do julgado em que o colegiado de origem nada mais fez do que relatar a pretensão apelatória do Município de Criciúma, ora agravado. Nesse diapasão, a agravante deixou, mais uma vez, de infirmar a contento o fundamento da decisão então agravada.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos arts. 932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
