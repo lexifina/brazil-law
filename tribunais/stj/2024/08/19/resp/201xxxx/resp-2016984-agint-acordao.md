@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. CONTRATO DE LOCAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. RECONHECIMENTO DE OMISSÃO. RETORNO DOS AUTOS. NECESSIDADE. DECORRÊNCIA LÓGICA. QUESTÕES PREJUDICADAS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tal questão, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade aos arts. 489 e 1.022, ambos do CPC.
+2. Diante da anulação do acórdão que julgou os embargos de declaração e a necessidade de novo julgamento com a consequente supressão da omissão apontada, é consectário lógico de tal provimento que ficam prejudicadas as alegações relativas ao critério de fixação dos honorários advocatícios e da ilegitimidade da passiva da parte, questões que somente poderão ser examinadas quando integrado o julgamento da apelação após reexame dos aclaratórios.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA DE LOURDES VEZU RAMOS e outras contra decisão de minha relatoria assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. CONTRATO DE LOCAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. INOCORRÊNCIA. FIADORES. PARCELAMENTO. NÃO PARTICIPAÇÃO. RESPONSABILIDADE. AFASTAMENTO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. PENHORA. PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. HONORÁRIOS SUCUMBENCIAIS. PROVEITO ECONÔMICO INESTIMÁVEL. EQUIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO (e-STJ, fl. 906).
+Os embargos de declaração opostos por MARIA e outras foram acolhidos, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. LOCAÇÃO. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES (e-STJ, fl. 936).
+Nas razões do presente inconformismo, defendeu que (1) a decisão agravada não deveria ter determinado a remessa dos autos à origem, pois o STJ poderia ter conhecido diretamente da irregularidade das penhoras; (2) o Relator apenas poderia ter decidido os temas abordados nos embargos de declaração, não podendo julgar prejudicada a questão relativa ao critério de fixação dos honorários advocatícios; e (3) a questão relativa à responsabilidade da fiadora também não foi suscitada nos embargos declaratórios, de modo que o provimento do recurso especial nesse ponto também não poderia ter sido afastado pela decisão integradora (e-STJ, fls. 943/952).
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUÉIS. CONTRATO DE LOCAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. RECONHECIMENTO DE OMISSÃO. RETORNO DOS AUTOS. NECESSIDADE. DECORRÊNCIA LÓGICA. QUESTÕES PREJUDICADAS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia e o Tribunal de origem não se pronuncia acerca de tal questão, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade aos arts. 489 e 1.022, ambos do CPC.
+2. Diante da anulação do acórdão que julgou os embargos de declaração e a necessidade de novo julgamento com a consequente supressão da omissão apontada, é consectário lógico de tal provimento que ficam prejudicadas as alegações relativas ao critério de fixação dos honorários advocatícios e da ilegitimidade da passiva da parte, questões que somente poderão ser examinadas quando integrado o julgamento da apelação após reexame dos aclaratórios.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Do retorno dos autos e das questões prejudicadas
+A decisão unipessoal reconheceu a existência de violação do art. 1.022 do CPC, determinando o retorno dos autos ao Tribunal estadual para que suprisse a omissão.
+Com efeito, o Tribunal estadual não tratou da alegada nulidade da penhora, por ter sido realizada antes da inclusão dos fiadores no polo passivo, inclusão esta realizada após o falecimento do fiador.
+Sendo assim, é inviável ao STJ examinar a questão aventada sem que tenha havido o pronunciamento do Tribunal estadual acerca do tema.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO DE COMPRA E VENDA. FASE DE LIQUIDAÇÃO DE SENTENÇA. ALUGUEL MENSAL. CONSIDERAÇÃO DE BENFEITORIAS. VERBA DE SUCUMBÊNCIA. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA SUPRIMENTO DOS VÍCIOS APONTADOS. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Não há que se falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, tampouco em risco ao princípio da colegialidade, tendo em vista que pode a parte interpor agravo interno, como de fato interpôs, contra a decisão agravada, devolvendo a discussão ao órgão competente, como de fato ocorreu, ratificando ou reformando a decisão.
+2. A mera oposição ao julgamento virtual, desde que neste viabilizado o exercício da sustentação oral, não implica determinar julgamento presencial ou telepresencial, nem caracteriza cerceamento de defesa ou qualquer outro prejuízo processual. Emenda Regimental 41/2022 para adequação do RI do STJ à Lei n.º 14.365/2022.
+3. A questão concernente a definir se houve omissão e/ou negativa de prestação jurisdicional é unicamente de direito e configura hipótese de violação direta dos dispositivos legais que disciplinam o instituto (arts. 489, IV, e 1.022, II, ambos do CPC), razão pela qual é cabível o recurso especial, por qualquer uma das alíneas do permissivo constitucional.
+4. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronuncia acerca de tal questão, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade aos arts. 489 e 1.022, ambos do CPC.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.809.600/SP, de minha relatoria, Terceira Turma, j. em 13/5/2024, DJe de 15/5/2024)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OMISSÃO CONFIGURADA. VIOLAÇÃO AO ART. 1.022 DO CPC. DETERMINAÇÃO DE RETORNO À ORIGEM. ANÁLISE DA PRETENSÃO INDENIZATÓRIA. IMPOSSIBILIDADE DIANTE DA OMISSÃO. SÚMULA 7 E 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Deixando a Corte local de se manifestar sobre questão relevante, apontada em embargos de declaração que, em tese, poderiam alterar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.249.962/RO, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 16/10/2023, DJe de 20/10/2023)
+Diante da anulação do acórdão que julgou os embargos de declaração e a necessidade de novo julgamento com a consequente supressão da omissão apontada, é consectário lógico de tal provimento que tenham ficado prejudicadas as alegações relativas ao critério de fixação dos honorários advocatícios e da ilegitimidade da passiva da parte, questões que somente poderão ser examinadas quando integrado o julgamento da apelação após reexame dos aclaratórios.
+Nessa linha de entendimento, confira-se:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. AUXÍLIO-TRANSPORTE. MANDADO DE SEGURANÇA. ALEGAÇÃO DE OMISSÃO NO JULGAMENTO DOS EMBARGOS NA CORTE DE ORIGEM. MATÉRIA NÃO APRECIADA. OMISSÃO CONFIGURADA. PROVIMENTO DO RECURSO ESPECIAL PARA RETORNO DOS AUTOS E REJULGAMENTO DOS ACLARATÓRIOS.
+I - Na origem trata-se de mandado de segurança contra ato administrativo que rejeitou o pedido de pagamento de auxílio-transporte a servidor público. Na sentença concedeu-se a segurança. No Tribunal a quo a sentença foi mantida. Alegação de omissão.
+II - Na hipótese dos autos, não houve, no acórdão recorrido, exame detalhado acerca das matérias articuladas nos aclaratórios. De fato a parte recorrente, embargante, formulou omissão no acórdão quanto ao "pagamento de auxílio-transporte na hipótese em que o deslocamento do servidor entre municípiosdiversos ocorra de forma voluntária". Matéria esta que não foi efetivamente apreciada, circunstância que evidencia a violação do art. 489, §1º, IV e V, e 1.022, II, do CPC/2015.III - Nesse contexto, impõe-se o provimento do recurso especial em face da reconhecida violação aos arts. 489 e 1.022 do CPC/2015. Nesse sentido: AgInt nos EDcl no REsp 1911483/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 28/06/2021, DJe 30/06/2021; AgInt no AREsp 1377683/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/09/2020, DJe 01/10/2020.
+IV - Deve ser dado parcial provimento ao recurso especial, de modo a determinar, ao Tribunal de origem, o rejulgamento dos embargos de declaração, com o expresso enfrentamento das matérias articuladas nos aclaratórios. Prejudicadas as demais alegações.
+V - Recurso especial parcialmente provido.
+(REsp n. 1.983.812/MG, relator Ministro FRANCISCO FALCÃO, Segunda Turma, j. em 10/5/2022, DJe de 12/5/2022)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
