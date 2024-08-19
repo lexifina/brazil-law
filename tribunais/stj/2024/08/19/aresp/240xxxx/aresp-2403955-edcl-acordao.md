@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. AFASTAMENTO DOS ÓBICES DA SÚMULA N.º 284 DO STF. 1. CAPITALIZAÇÃO DE JUROS. PACTUAÇÃO EXPRESSA. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. INVERSÃO DA CONCLUSÃO ADOTADA PELO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. INCIDÊNCIA DAS SUMULAS N.os 5 E 7 DO STJ. 2. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. DISCREPÂNCIA ENTRE O ÍNDICE CONTRATADO E AQUELE DE MERCADO. NÃO COMPROVAÇÃO. ABUSIVIDADE NÃO CONSTATADA PELO TRIBUNAL. REVISÃO DO JULGADO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DE FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. A possibilidade de capitalização dos juros foi decidida em conformidade com a jurisprudência desta Corte, consubstanciada no enunciado n.º 539 da Súmula do STJ. Incidência da Súmula n.º 83 do STJ.
+2. Ademais, a inversão da conclusão fática adotada pelo Tribunal estadual de que a capitalização foi expressamente pactuada encontra óbice nos enunciados n.os 5 e 7 da Súmula desta Corte.
+3. No caso concreto não ficou demonstrada a discrepância entre a taxa pactuada e a taxa de mercado, como bem pontuou o acórdão, que afirmou expressamente que a taxa de juros foi inferior a 12% ao ano.
+4. Ademais, afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença não é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das mencionadas Súmulas n.os 5 e 7, desta Corte.
+5. Embargos de declaração parcialmente acolhidos sem efeitos modificativos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por COMÉRCIO DE SORVETES JACARÉ LTDA. (COMÉRCIO DE SORVETES), ROSALVO JORGE DA CUNHA CARNEIRO (ROSALVO), BIANCA JORGE DA CUNHA CARNEIRO COSTA (BIANCA) e CAMILO AUGUSTO GATTASS COSTA (CAMILO) contra acórdão de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+2. Agravo interno não provido. (e-STJ, fls. 400/403)
+Nas razões do presente inconformismo, defendeu que indicou expressamente o dispositivo legal violado, qual seja, o art. 28 da Lei n.º 10.931/04, atendendo todos os requisitos para o conhecimento do recurso especial.
+Não foi apresentada impugnação (e-STJ, fl. 420).
+É o relatório.
+EMENTA
+CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. AFASTAMENTO DOS ÓBICES DA SÚMULA N.º 284 DO STF. 1. CAPITALIZAÇÃO DE JUROS. PACTUAÇÃO EXPRESSA. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. INVERSÃO DA CONCLUSÃO ADOTADA PELO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. INCIDÊNCIA DAS SUMULAS N.os 5 E 7 DO STJ. 2. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. DISCREPÂNCIA ENTRE O ÍNDICE CONTRATADO E AQUELE DE MERCADO. NÃO COMPROVAÇÃO. ABUSIVIDADE NÃO CONSTATADA PELO TRIBUNAL. REVISÃO DO JULGADO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DE FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7 DO STJ. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. A possibilidade de capitalização dos juros foi decidida em conformidade com a jurisprudência desta Corte, consubstanciada no enunciado n.º 539 da Súmula do STJ. Incidência da Súmula n.º 83 do STJ.
+2. Ademais, a inversão da conclusão fática adotada pelo Tribunal estadual de que a capitalização foi expressamente pactuada encontra óbice nos enunciados n.os 5 e 7 da Súmula desta Corte.
+3. No caso concreto não ficou demonstrada a discrepância entre a taxa pactuada e a taxa de mercado, como bem pontuou o acórdão, que afirmou expressamente que a taxa de juros foi inferior a 12% ao ano.
+4. Ademais, afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença não é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das mencionadas Súmulas n.os 5 e 7, desta Corte.
+5. Embargos de declaração parcialmente acolhidos sem efeitos modificativos.
+VOTO
+Da violação do art. 1.022 do CPC
+De fato, COMÉRCIO DE SORVETES e outros indicaram expressamente nas razões do recurso especial o dispositivo de lei supostamente violado, qual seja, o art. 28 da Lei n.º 10.931/04 (e-STJ, fls. 312/315), o que afasta a incidência da Súmula n.º 284 do STF e permite a análise das teses referentes à abusividade dos juros remuneratórios e ilegalidade na capitalização.
+Quanto à capitalização dos juros, o Tribunal estadual reconheceu sua legalidade por estar expressamente prevista nos instrumentos celebrados. Veja-se:
+No que concerne à capitalização dos juros, a matéria é amplamente debatida pelo STJ e este Tribunal que se mantêm firmes no posicionamento que é cabível a atualização mensal dos encargos em se tratando de crédito rural, comercial ou industrial, desde que pactuada, sendo o verbete da súmula 93 do STJ incapaz de ensejar dúvida, verbis: "A legislação sobre crédito rural, comercial e industrial admite o pacto de capitalização de juros."
+Dessa forma, compulsando os autos da execução - n. 0002685-57.2015.8.11.0006, verifico que na cédula de crédito comercial executada e no demonstrativo de conta vinculada juntados pelo exequente/apelado (id. 64164920, p. 12/23), constam expressamente a cobrança de capitalização mensal dos juros, devendo a r. sentença ser mantida também neste ponto (e-STJ, fl. 204).
+A possibilidade de capitalização dos juros foi decidida em conformidade com a jurisprudência desta Corte, consubstanciada no enunciado n.º 539 da Súmula do STJ:
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada. (Súmula n. 539, Segunda Seção, julgado em 10/6/2015, DJe de 15/6/2015.)
+Desse modo, estando o acórdão recorrido em sintonia com a orientação assentada nesta Corte, aplica-se, no ponto, o óbice da Súmula n.º 83 do STJ.
+Por outro lado, a inversão da conclusão fática adotada pelo Tribunal estadual encontra óbice nos enunciados n.os 5 e 7 da Súmula desta Corte, pois demandaria o reexame de provas e a reanálise das cláusulas contratuais, o que é vedado nesta instância extraordinária.
+Nesse sentido, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CAPITALIZAÇÃO MENSAL DE JUROS. SÚMULA N. 246 DO STJ. POSSIBILIDADE, DESDE QUE PACTUADA E CELEBRADA APÓS 31/3/2000. SÚMULA 83/STJ. COMPROVAÇÃO DE PACTUAÇÃO AFIRMADA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada", como ocorreu no presente caso. Precedentes. Incidências dos óbices das Súmulas 5, 7 e 83 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.362.943/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 25/3/2019, DJe de 28/3/2019)
+No tocante aos juros remuneratórios, COMÉRCIO DE SORVETES e outros insistiram na tese de que devem ser limitados à taxa média de mercado.
+Sobre o tema, o Tribunal de Justiça de Mato Grosso ponderou que:
+In casu, ressalto que as partes firmaram cédula de crédito comercial e, no que se refere aos juros remuneratórios, o tema se encontra pacificado perante o Superior Tribunal de Justiça, que entende a possibilidade da sua cobrança, porém, não podendo ser superior a 12% ao ano (e-STJ, fls. 202).
+ ..
+In casu, verifica-se que a cédula apresentada pelo apelante prevê a cobrança de taxa inferior a 12% ao ano, não havendo que se falar em limitação, conforme acertou a sentença recorrida (e-STJ, fl. 204).
+De fato, a taxa média de mercado, apurada pelo Banco Central para operações similares na mesma época do empréstimo, pode ser utilizada como referência no exame do desequilíbrio contratual, mas não constitui valor absoluto, a ser adotado em todos os casos.
+Com efeito, a variação dos juros praticados pelas instituições financeiras decorre de diversos aspectos e especificidades das múltiplas relações contratuais existentes (tipo de operação, prazo, reputação do tomador, garantias, políticas de captação e empréstimo, aplicações da própria entidade financeira etc.).
+Nesse sentido, veja-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. LIMITAÇÃO. TAXA MÉDIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA. SIMILITUDE FÁTICA. ALTERAÇÃO. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado apenas quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares. Precedentes.
+2. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+3. Acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e das cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.220.130/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 27/3/2023, DJe de 31/3/2023)
+No caso concreto, porém, não ficou demonstrada a discrepância entre a taxa pactuada e a taxa de mercado, como bem pontuou o acórdão, que afirmou expressamente que a taxa de juros foi inferior a 12% ao ano.
+Importante consignar ainda que a simples alegação genérica de que os juros remuneratórios devem obedecer à taxa média de mercado, desacompanhada de qualquer impugnação específica, é insuficiente para modificar o entendimento lançado no acórdão impugnado.
+Ademais, afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença não é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das mencionadas Súmulas n.os 5 e 7 desta Corte.
+Nessas condições, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos modificativos, apenas para que os fundamentos lançados neste julgado integre as decisões anteriores.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
