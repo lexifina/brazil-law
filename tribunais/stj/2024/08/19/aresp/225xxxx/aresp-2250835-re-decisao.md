@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. IRRESIGNAÇÃO RECURSAL. DEFICIÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF.
+3. A instância ordinária não emitiu juízo de valor expresso sobre a aplicação do princípio da menor onerosidade e tal temática nem sequer foi tratada nos embargos de declaração opostos pela recorrente, incidindo na hipótese as Súmulas 282 e 356 do STF, ante a flagrante ausência do devido prequestionamento.
+4. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta que esta Corte Superior não teria analisado as teses defensivas suscitadas nos aclaratórios, notadamente aquelas relacionadas à prejudicialidade externa exercida pelo mandado de segurança n. 0004188-59.2014.4.03.6100, à incidência do Tema n.111 do STF e à aplicação do princípio da menor onerosidade, as quais entende que seriam capazes de afastar a conclusão adotada .
+Requer, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 645-646):
+Conforme assentado no julgado ora combatido, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Quanto à suposta contrariedade ao art. 313 do CPC/2015, a recorrente deixa de impugnar, nas razões recursais, o fundamento do acórdão recorrido do não cabimento da suspensão do processo, uma vez que houve julgamento de mérito do mandado de segurança, cuja ordem foi denegada.
+ ..
+No recurso especial, a agravante limitou-se a defender que a pendência de julgamento de causa, que é capaz de determinar a decisão em processo diverso, é considerada questão prejudicial externa.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Além disso, a instância ordinária não emitiu juízo de valor expresso sobre a aplicação do princípio da menor onerosidade, disposto no art. 805 e 921 do CPC, até porque tal temática nem sequer foi tratada nos embargos de declaração opostos pela recorrente, incidindo na hipótese, assim, as Súmulas 282 e 356 do STF, ante a flagrante ausência do devido prequestionamento.
+Mantém-se, portanto, a decisão recorrida.
+Da mesma maneira, foi devidamente motivada a rejeição dos embargos de declaração opostos na sequência (fls. 679-680):
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+A alegação de omissões invocada pela parte embargante manifesta o seu inconformismo com o acórdão embargado, sendo que ela repisa argumentos antes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+ ..
+De toda sorte, cumpre cham ar atenção para o fato de estar expressas e claras, no voto condutor do acórdão embargado, as razões pelas quais foi aplicado o óbice imposto pela Súmula 283 do STF, registrando-se que o embargante restringiu sua defesa ao aspecto da questão prejudicial externa, enquanto a Corte Regional fundamentou seu voto no não cabimento da suspensão do processo, visto que houve julgamento de mérito do mandado de segurança, cuja ordem foi denegada.
+Destacou-se, ainda, que a instância ordinária não emitiu juízo de valor expresso sobre a aplicação do princípio da menor onerosidade, consoante os arts. 805 e 921 do CPC, incidindo no caso, assim, as Súmulas 282 e 356 do STF, ante a flagrante ausência do devido prequestionamento.
+Nesse panorama, não há falar em omissão no julgado embargado.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Quanto ao mais, o Supremo Tribunal Federal já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Isso é o que ficou definido no Tema n. 660 do STF, no qual a Suprema Corte fixou a seguinte tese:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 660.
+Ademais, o STF definiu que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional nas hipóteses em que houver óbice processual ao exame de mérito, ofensa indireta à Constituição Federal ou necessidade de análise de matéria fática.
+Essa é a conclusão consolidada no Tema n. 895 do STF, no qual a Suprema Corte assim concluiu:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No presente caso, a alegada ofensa ao princípio da inafastabilidade de jurisdição dependeria, para ser examinada, da análise de normas infraconstitucionais e da superação de óbices processuais, motivo pelo qual se aplica a conclusão do STF no mencionado Tema n. 895.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC), conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. EXISTÊNCIA DE ÓBICE AO EXAME DE MÉRITO, DEBATE FÁTICO OU OFENSA CONSTITUCIONAL INDIRETA. NATUREZA INFRACONSTITUCIONAL. TEMA N. 895 DO STF. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
