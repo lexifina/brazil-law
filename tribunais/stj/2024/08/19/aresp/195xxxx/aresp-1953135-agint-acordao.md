@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VANTAGEM DO ART. 192 DA LEI 8.112/90. BASE DE CÁLCULO. ARTIGOS 489 E 1.022 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF.
+1- Verifica-se não ter ocorrido ofensa aos arts. 489, II, 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2- Nos termos do enunciado n. 283 da Súmula do STF, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3- Agravo não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por José Cohen contra decisão que negou provimento ao agravo em recurso especial, em virtude de não ter sido demonstrada ofensa aos artigos 489, II, e 1.022, II, do CPC, bem como em razão da aplicação da Súmula 283/STF.
+Em suas razões, a parte agravante reitera a tese de que teria ocorrido negativa de prestação jurisdicional, afirmando que não foram sanadas omissões "quanto ao fato de que com a reestruturação da Carreira de Perito Médico, formalizada em 2008, o servidor deixou de pertencer à última classe da sua categoria funcional, com o que passou a fazer jus à vantagem do art. 192, I" (fl. 151/152)
+Alega, ainda, que "houve sim, pela parte ora recorrente, a demonstração, em seu recurso, da inviabilidade de aplicação, ao caso dos autos, do enunciado da Súmula 359/STF! É que se ocorre uma reestruturação na carreira do servidor após a sua aposentadoria, e disso resulta uma alteração da estrutura remuneratória, todas as vantagens percebidas são impactadas como decorrência lógica, matemática, não jurídica. E isso não implica em ofensa ao que disposto na Súmula 359/STF" (fl. 152).
+A parte agravada não apresentou impugnação.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VANTAGEM DO ART. 192 DA LEI 8.112/90. BASE DE CÁLCULO. ARTIGOS 489 E 1.022 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF.
+1- Verifica-se não ter ocorrido ofensa aos arts. 489, II, 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2- Nos termos do enunciado n. 283 da Súmula do STF, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+3- Agravo não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Como antes asseverado, observa-se não ter ocorrido ofensa aos arts. 489, II, 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito, destaca-se da fundamentação do aresto recorrido o seguinte excerto (fl. 46):
+Quando da concessão da aposentadoria (evento 1, PORT 7), o Agravante ocupava a Classe S padrão V, com a reestruturação da carreira de perito médico, formalizada em 2008, passou para a classe padrão D-III.
+A questão deve ser analisada à luz do enunciado da Súmula 359 do STF que dispõe:
+"Ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários."
+Com efeito, é no momento da aposentadoria e com base na situação fática então existente que ocorre a incorporação de dita vantagem, bem como definida a composição da renda mensal inicial, impondo-se que se considere a estrutura da carreira vigente à época da jubilação, em obediência ao preceito que determina a aplicação da norma em vigor quando do preenchimento dos requisitos necessários para a concessão da aposentadoria.
+Portanto, descabida a pretensão da parte Agravante de cálculo da vantagem do art. 192, inc. II, da Lei n.º 8.112/90 com base em classe-padrão decorrente de reestruturação de carreira posterior à aposentadoria.
+Assim, reitere-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, " a  questão deve ser analisada à luz do enunciado da Súmula 359 do STF que dispõe: "Ressalvada a revisão prevista em lei, os proventos da inatividade regulam-se pela lei vigente ao tempo em que o militar, ou o servidor civil, reuniu os requisitos necessários." Com efeito, é no momento da aposentadoria e com base na situação fática então existente que ocorre a incorporação de dita vantagem, bem como definida a composição da renda mensal inicial, impondo-se que se considere a estrutura da carreira vigente à época da jubilação, em obediência ao preceito que determina a aplicação da norma em vigor quando do preenchimento dos requisitos necessários para a concessão da aposentadoria" esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
