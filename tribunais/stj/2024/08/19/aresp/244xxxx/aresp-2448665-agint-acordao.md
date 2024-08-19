@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  MIGRAÇÃO.  POSSIBILIDADE.  PROVAS.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  acerca  da  possibilidade  de  migração  do  plano  de  saúdo  do  recorrido  encontra  óbice  na  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NOTRE  DAME  INTERMÉDICA  SAÚDE  S.A.  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+Nas  presentes  razões,  a  agravante  afirma  que  não  pretende  o  reexame  de  provas,  mas  o  reconhecimento  da  divergência  jurisprudencial  entre  o  acórdão  local  e  julgados  de  outros  tribunais,  estando  demonstrada  a  similitude  fática  entre  os  arestos.
+Ao  final,  requer  o  provimento  do  recurso.
+A  parte  contrária  impugnou  o  agravo  interno  (e-STJ  fls.  685/688).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  MIGRAÇÃO.  POSSIBILIDADE.  PROVAS.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  rever  a  conclusão  do  aresto  impugnado  acerca  da  possibilidade  de  migração  do  plano  de  saúdo  do  recorrido  encontra  óbice  na  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+A  insurgência  não  merece  prosperar.
+Conforme  asseverou  a  decisão  agravada,  a  migração  do  plano  de  saúde  coletivo  para  uma  apólice  individual  ou  familiar  somente  pode  ocorrer  quando  a  entidade  comercializar  esses  produtos.
+No  caso  dos  autos,  o  tribunal  de  origem  entendeu  que  a  recorrente  ainda  fornece  serviços  referentes  a  planos  individuais  que,  segundo  conclusões  fundadas  em  premissas  fáticas,  continuam  ativos.
+Colaciona-se,  na  parte  que  interessa,  o  seguinte  trecho  do  acórdão  recorrido:
+"(..)
+Na  hipótese  dos  autos,  verifica-se  que  a  demissão  do  segurado,  sem  justa  causa,  se  deu  em  02.03.2021  (fl.  31),  tendo  optado  pela  manutenção  do  plano  de  saúde,  o  qual  garantiria  a  ele  o  período  de  permanência  máxima  de  24  meses  no  plano  de  saúde,  nas  mesmas  condições  de  cobertura  assistencial  de  que  gozava  quando  da  vigência  do  contrato  de  trabalho  ("Termo  de  Opção  de  Continuidade",  fl.  33).
+O  prazo  concedido  pela  operadora  de  saúde,  de  permanência  do  autor  no  plano  de  saúde,  foi  somente  até  o  dia  09.08.2021,  inferior  ao  que  efetivamente  teria  direito,  ou  seja,  até  02.03.2023  (24  meses  a  contar  da  data  da  demissão).
+Pois  bem.
+Não  obstante  as  alegações  da  recorrente,  deverá  o  autor  continuar  usufruindo  das  mesmas  condições  da  apólice  extinta  até  o  término  dos  24  meses  (02.03.2023).  Veja-se  que,  o  que  está  sendo  determinado,  não  é  a  continuidade  de  sua  vinculação  à  apólice  extinta,  mas  sim,  às  mesmas  condições  que  lhe  eram  asseguradas  como  beneficiário  durante  a  relação  de  trabalho,  sem  a  necessidade  de  cumprimento  de  novas  carências.
+Com  efeito,  em  que  pese  tenha  havido  a  rescisão  do  contrato  por  iniciativa  do  ex-empregador  do  apelado  (fl.  281  e  293),  cuja  regularidade  é  incontroversa;  não  se  discute  que,  quando  houver  o  cancelamento  do  plano  privado  coletivo  de  assistência  à  saúde,  deve  ser  permitido  aos  empregados  ou  ex-empregados  a  migração  para  planos  individuais  ou  familiares,  sem  o  cumprimento  de  carência,  mas  desde  que  a  operadora  comercialize  tais  modalidades  de  plano  (arts.  1º  e  3º  da  Res.-CONSU  nº  19/1999).
+No  caso,  a  apelante  afirmou  que  não  disponibiliza  plano  individual,  exceto  para  beneficiários  com  mais  de  50  anos  de  idade,  entretanto,  em  uma  rápida  consulta  ao  site  do  Grupo  Notre  Dame  Intermédica  (www.gndi.com.br,  acessado  em  06.10.2022,  às  16h45),  se  pode  encontrar  a  oferta  do  plano  "Notre  Life",  de  caráter  individual  ou  familiar,  e  para  todas  as  idades.
+Então,  ao  contrário  do  que  foi  afirmado  nas  razões,  não  se  está  obrigando  a  recorrente  a  criar  um  novo  plano  de  saúde  unicamente  ao  apelado,  mas,  sim,  que  a  ele  disponibilize  a  migração  para  o  plano  individual  que  é  comercializado.  Logo,  não  se  vislumbra  julgamento  ultra  petita,  pois,  se  a  apólice  coletiva  foi  extinta,  deverá  ser  disponibilizado  plano  de  saúde  na  modalidade  individual  ou  familiar  nos  termos  do  art.  1º  RN  19  do  CONSU,  com  as  mesmas  coberturas  de  quando  era  funcionário  do  Sindicato,  sem  necessidade  de  cumprimento  de  novos  prazos  de  carência,  devendo  o  prêmio  estipulado  estar  de  acordo  com  os  preços  do  mercado.
+(..)
+Realmente,  não  é  ilegal  a  recusa  de  operadoras  de  planos  de  saúde  de  comercializarem  planos  individuais  por  atuarem  apenas  no  segmento  de  planos  coletivos.  Não  há  norma  legal  alguma  obrigando-as  a  atuar  em  determinado  ramo  de  plano  de  saúde.
+Ocorre  que,  no  caso  em  questão,  a  alegação  da  NOTRE  DAME  é  elidida  pela  própria  oferta  veiculada  em  sua  página  da  internet,  sendo  confirmado  que  a  operadora  ainda  comercializa  plano  de  saúde  na  modalidade  individual  e  familiar"  (e-STJ  fls.  383/384).
+Nesse  contexto,  denota-se  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+Salienta-se  que  a  errônea  valoração  da  prova  que  dá  ensejo  à  excepcional  intervenção  do  Superior  Tribunal  de  Justiça  na  questão  decorre  de  falha  na  aplicação  de  norma  ou  princípio  no  campo  probatório,  não  das  conclusões  alcançadas  pelas  instâncias  ordinárias  com  base  nos  elementos  informativos  do  processo.
+Ademais,  consoa nte  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+É  o  que  se  observa  do  seguinte  julgado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CONTRATO.  NEGÓCIOS  JURÍDICOS  BANCÁRIOS.  EMPRESA  EM  LIQUIDAÇÃO  EXTRAJUDICIAL.  1.  AÇÃO  DE  CONHECIMENTO.  SUSPENSÃO.  INAPLICABILIDADE.  2.  GRATUIDADE  DE  JUSTIÇA.  PEDIDO  INCOMPATÍVEL  COM  O  RECOLHIMENTO  DO  PREPARO  RECURSAL.  3.  JUROS  REMUNERATÓRIOS.  ABUSIVIDADE  CONSTATADA.  REVISÃO.  IMPOSSIBILIDADE.  NECESSIDADE  DE  REINTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS  E  DE  REEXAME  DO  ACERVO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULAS  N.  5  E  7/STJ.  4.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  5.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Com  efeito,  conforme  jurisprudência  desta  Corte  Superior,  o  art.  18  da  Lei  n.  6.024/1974  não  alcança  as  ações  de  conhecimento  voltadas  à  obtenção  de  provimento  relativo  à  certeza  e  liquidez  do  crédito.
+2.  O  entendimento  desta  Corte  Superior  consolidou-se  no  sentido  de  que  o  pagamento  das  custas  -  como  no  caso  concreto,  em  que  a  parte  recolheu  o  preparo  do  recurso  especial  -  é  incompatível  com  o  pedido  de  gratuidade  de  justiça.
+3.  Nos  termos  da  jurisprudência  desta  Corte  Superior,  "é  admitida  a  revisão  das  taxas  de  juros  remuneratórios  em  situações  excepcionais,  desde  que  caracterizada  a  relação  de  consumo  e  que  a  abusividade  (capaz  de  colocar  o  consumidor  em  desvantagem  exagerada  -  art.  51,  §  1º,  do  CDC)  fique  cabalmente  demonstrada,  considerando  as  peculiaridades  do  julgamento  em  concreto"  (AgInt  no  AREsp  n.  2.177.306/RS,  relator  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  19/6/2023,  DJe  de  23/6/2023).
+3.1.  A  modificação  do  entendimento  alcançado  pelo  acórdão  estadual  (acerca  da  abusividade  na  cobrança  dos  juros  remuneratórios  contratados)  demandaria  a  interpretação  de  cláusulas  contratuais  e  o  reexame  de  fatos  e  provas,  o  que  é  inviável  no  âmbito  do  recurso  especial,  permanecendo  incólume  a  aplicação  das  Súmulas  5  e  7  do  Superior  Tribunal  de  Justiça.
+4.  A  incidência  da  Súmula  n.  7/STJ  impede  o  conhecimento  do  recurso  lastreado,  também,  pela  alínea  c  do  permissivo  constitucional,  dado  que  falta  identidade  entre  os  paradigmas  apresentados  e  os  fundamentos  do  acórdão  recorrido,  tendo  em  vista  a  situação  fática  de  cada  caso.
+5.  Agravo  interno  improvido"  (AgInt  no  AREsp  2.485.847/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  DJe  2/5/2024  -  grifou-se).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
