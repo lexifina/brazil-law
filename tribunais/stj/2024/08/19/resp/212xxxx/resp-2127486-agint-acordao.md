@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 969/980) interposto contra decisão desta relatoria que não conheceu do recurso especial.
+Em suas razões, a agravante defende a ausência dos requisitos de custeio do medicamento descrito na inicial, visto que de uso domiciliar e desprovido de registro na ANVISA.
+Ao final, pleiteia a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece conhecimento.
+O recurso especial foi decidido nos seguintes termos (e-STJ fls. 963/965):
+Trata-se de recurso especial interposto contra acórdão do TJDFT assim ementado (e-STJ fls. 719/720):
+PROCESSO CIVIL E CONSUMIDOR. REJULGAMENTO. REEXAME DA MATÉRIA DETERMINADA PELO STJ. PLANO DE SAÚDE. DIAGNÓSTICO DE EPILEPSIA. FORNECIMENTO DE MEDICAMENTO À BASE DE CANABIDIOL. EREsp Nº 1886929/SP E EREsp Nº 1889704/SP. LEI Nº 14.454/2022. ROL DA ANS. EXEMPLIFICATIVO. COBERTURA EXCEPCIONAL. RECUSA INDEVIDA. USO DOMICILIAR. CABIMENTO. AUTORIZAÇÃO EXCEPCIONAL PARA IMPORTAÇÃO. TEMA REPETITIVO Nº 990 DO STJ. DISTINÇÃO. ACÓRDÃO MANTIDO.
+1. Embora o entendimento adotado no julgamento dos EREsp nº 1886929/SP e EREsp nº 1889704/SP, em 08.06.22, pelo colendo STJ, tenha sido no sentido de que o rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo, reconheceu-se a possibilidade de coberturas excepcionais fora da lista desde que observados alguns parâmetros objetivos para admissão, em hipóteses excepcionais e restritas, da superação das limitações contidas no rol.
+2. A Lei nº 14.545, de 21/09/22, estabeleceu novos requisitos para admitir a cobertura de exames ou tratamentos de saúde que não estão incluídos no rol da ANS, desde que comprovada a eficácia do procedimento ou que exista recomendação por órgãos técnicos.
+3. Demonstrada a satisfação de todos os requisitos listados para a exceção da tese geral firmada pela Segunda Seção do STJ, nos EREsps nº 1.889.704/SP e nº 1.886.929/SP, bem como as condições impostas pela Lei nº 14.454/2022 para obrigar a seguradora a cobrir os procedimentos e materiais prescritos pelo médico assistente, ainda que não estejam previstos no rol da ANS, deve ser mantida a sua condenação, ainda que o fármaco seja para uso em regime domiciliar.
+4. A Resolução nº 2.324/22, do Conselho Federal de Medicina, aprova o uso do canabidiol para tratamento de epilepsias da criança e do adolescente refratárias às terapias convencionais.
+5. Acórdão mantido. Apelo da ré não provido.
+Nas razões do especial (e-STJ fls. 752/783), a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 10, V e VI, e 35-F da Lei n. 9.656/1998 e 757 e 760 do CC/2002, defendendo ser possível limitar a cobertura do medicamento à base de canabidiol descrito na inicial, porque não previsto no rol - de natureza taxativa - de procedimentos e eventos da Agência Nacional de Saúde Suplementar - ANS, o qual excluiria o custeio de medicamentos de uso domiciliar e desprovidos de registro na ANVISA.
+Contrarrazões às fls. 950/952 (e-STJ).
+Decisão pela admissibilidade do recurso às fls. 955/956 (e-STJ).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto aos arts. 757 e 760 do CC/2002 sob o enfoque pretendido pela recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Sem embargo, o órgão colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar,
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências,
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros, e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+A Corte de origem, soberana na análise do conjunto fático-probatório dos autos, assentou que estavam presentes os requisitos de mitigação do rol da ANS (e-STJ fls. 726/727).
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. DECISÃO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. APELAÇÃO. EFEITOS. RECEBIMENTO. HARMONIA DE ENTENDIMENTO. SÚMULA 83 DO STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGOS 932, III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+(..)
+2. Nos termos do art. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o único fundamento da decisão agravada. Aplicação, por analogia, do enunciado 182 da Súmula do STJ.
+3. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo do recurso, o desacerto da decisão recorrida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.152.930/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2/10/2018, DJe 16/10/2018.)
+O entendimento da Corte local, referente à confirmação do custeio do tratamento de saúde da parte agravada, foi mantido com base nas Súmulas n. 282 e 356 do STF e 7 do STJ e com fundamento na inaptidão da divergência interpretativa (Súmula n. 284/STF), por ausência de cotejo analítico e de indicação das normas objeto de interpretação divergente.
+A respeito das Súmulas n. 282 , 284 e 356 do STF, a agravante não se manifestou, o que atrai a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto
