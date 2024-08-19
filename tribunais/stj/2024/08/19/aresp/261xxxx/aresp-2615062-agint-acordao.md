@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL DO PROPRIETÁRIO DO VEÍCULO. CULPA CONCORRENTE. NÃO VERIFICADA. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, "em acidente automobilístico, o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz, pouco importando que o motorista não seja seu empregado ou preposto, uma vez que sendo o automóvel um veículo perigoso, o seu mau uso cria a responsabilidade pelos danos causados a terceiros. É dizer, provada a responsabilidade do condutor, o proprietário do veículo fica solidariamente responsável pela reparação do dano, como criador do risco para os seus semelhantes" (REsp n. 577.902/DF, relator Ministro Antônio de Pádua Ribeiro, relatora para acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2006, DJ de 28/8/2006).
+2. Quanto à alegação de culpa concorrente da vítima, observa-se que rever o entendimento a que chegou o Tribunal de origem, impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ELENISIO CHAVES FIGUEIREDO JUNIOR contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula n. 7/STJ (fls. 1.408-1.414).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 1.022):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA -ACIDENTE DE TRÂNSITO - PROVA DO ATO ILÍCITO POR PARTE DA PARTE RÉ - IMPRUDÊNCIA -FALECIMENTO DO FILHO DA AUTORA - CULPA COMPROVADA DO CONDUTOR QUE INVADIU A CONTRAMÃO - MORTE - DANO OCASIONADO POR PREPOSTO FORA DO HORÁRIO DE SERVIÇO - ART. 932, III DO CÓDIGO CIVIL - INAPLICABILIDADE -RESPONSABILIDADE DO PROPRIETÁRIO DO VEÍCULO - RESPONSABILIDADE OBJETIVA E SOLIDÁRIA COM O CONDUTOR - DANOS MORAIS -CULPA CARACTERIZADA - DEVER DE INDENIZAR OS DANOS MORAIS - QUANTUM INDENIZATÓRIO -MINORAÇÃO.
+1- "Destarte, não há falar em conjugação de causas (culpa concorrente) à produção do desfecho lesivo, o qual teve como causa única a invasão da pista por onde trafegava a vítima; sendo, portanto, irrelevante contrapor que o de cujus fazia uso de cocaína ou excedia a velocidade em 20km/h a mais que o permitido" (AREsp nº 1574584/DF, de relatoria do Ministro João Otávio De Noronha, publicada em 29/10/2019)
+2- O art. 932, inciso III, do Código Civil deixa claro que o empregador somente se responsabiliza pelos danos causados por seus empregados caso o sinistro ocorra durante o exercício do trabalho que lhes competir ou em razão deles, ainda que não haja culpa de sua parte.
+3- Quanto à responsabilidade do proprietário do veículo, o Superior Tribunal de Justiça pacificou entendimento de que ele (proprietário) responde objetiva e solidariamente pelos danos causados pelo seu condutor.
+4- O ordenamento jurídico não possui critérios taxativos capazes de nortear a quantificação da sua indenização, motivo pelo qual a fixação do montante devido deve levar em conta o grau da responsabilidade atribuída ao réu, a extensão dos danos sofridos pela vítima, bem como a condição social e econômica do ofendido e do autor da ofensa.
+Sem embargos de declaração opostos.
+Alega o agravante que não há necessidade de reexame de provas e, portanto, inaplicável a Súmula n. 7/STJ.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 1.441-1.451).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL DO PROPRIETÁRIO DO VEÍCULO. CULPA CONCORRENTE. NÃO VERIFICADA. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência pacífica do STJ, "em acidente automobilístico, o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz, pouco importando que o motorista não seja seu empregado ou preposto, uma vez que sendo o automóvel um veículo perigoso, o seu mau uso cria a responsabilidade pelos danos causados a terceiros. É dizer, provada a responsabilidade do condutor, o proprietário do veículo fica solidariamente responsável pela reparação do dano, como criador do risco para os seus semelhantes" (REsp n. 577.902/DF, relator Ministro Antônio de Pádua Ribeiro, relatora para acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2006, DJ de 28/8/2006).
+2. Quanto à alegação de culpa concorrente da vítima, observa-se que rever o entendimento a que chegou o Tribunal de origem, impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Nos termos da jurisprudência pacífica do STJ, "em acidente automobilístico, o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz, pouco importando que o motorista não seja seu empregado ou preposto, uma vez que sendo o automóvel um veículo perigoso, o seu mau uso cria a responsabilidade pelos danos causados a terceiros. É dizer, provada a responsabilidade do condutor, o proprietário do veículo fica solidariamente responsável pela reparação do dano, como criador do risco para os seus semelhantes" (REsp n. 577.902/DF, relator Ministro Antônio de Pádua Ribeiro, relatora p/ acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2006, DJ de 28/8/2006).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE DO PROPRIETÁRIO DO VEÍCULO. DANOS MORAIS. VALOR RAZOÁVEL. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta egrégia Corte se orienta no sentido de considerar que "O proprietário do veículo que o empresta a terceiros responde solidariamente pelos danos decorrentes de sua utilização" (AgRg no Ag 823.567/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/09/2015, DJe de 1º/10/2015).
+2. A orientação pacificada no Superior Tribunal de Justiça é de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+3. No caso, não se mostra desproporcional a fixação em R$ 7.000,00 (sete mil reais) a título de reparação moral, decorrente das circunstâncias específicas do caso concreto e do dano sofrido pela vítima do acidente de trânsito, qual seja, incapacidade permanente parcial para atividades laborais que precisam da movimentação do ombro esquerdo, motivo pelo qual não se justifica a excepcional intervenção desta Corte no presente feito.
+4. Agravo interno não provido.
+(AgRg no AREsp n. 814.893/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/5/2016, DJe de 13/5/2016.)
+No caso dos autos, o Tribunal de origem, ao analisar a controvérsia, afastou a alegação de ilegitimidade passiva aplicando o mesmo entendimento desta Corte. É o que se extrai do seguinte trecho (fls. 1.034-1.035):
+Já em relação ao apelante Elenísio Chaves, proprietário do caminhão envolvido no sinistro, sua responsabilidade pelas consequências do acidente é inevitável no presente caso.
+O Superior Tribunal de Justiça pacificou entendimento de que o proprietário do veículo causador de acidente responde objetiva e solidariamente pelos danos causados pelo seu condutor.
+Nesse sentido:
+"(..) 1. Segundo a jurisprudência desta Corte, o proprietário do veículo responde objetiva e solidariamente pelos danos causados pelo condutor. Precedentes.(..) (AgInt no AREsp 362.938/PI, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/06/2017, DJe 06/06/2017)"
+Com efeito, sendo a responsabilidade objetiva, para afastar a sua responsabilidade, caberia ao proprietário do veículo provar fato exclusivo da vítima ou de terceiro, caso fortuito ou força maior, o que não ocorreu.
+Dessa forma, a manutenção de sua condenação ao ressarcimento dos prejuízos causados ao autor é medida que se impõe.
+Logo, não merece reforma o acórdão recorrido.
+Quanto à alegação de culpa concorrente da vítima, o Tribunal de origem assim se manifestou (fls. 1.027-1.029):
+Primeiramente, cumpre assinalar já ter sido reconhecida a autoria e a materialidade réu/segundo apelante Cosme a respeito do sinistro, através de julgamento na esfera criminal, com trânsito em julgado que o condenou pelo crime de homicídio culposo na direção de veículo automotor(302, § 1º, inciso III c/c art. 65, inciso III, alínea "d", CP), conforme juntada aos autos a ordens nº 144 e 145.
+ ..
+Por outro lado, o apelante Cosme ainda traz à baila a discussão da culpa concorrente com o motociclista falecido, destacando ter sido comprovada a presença de substâncias psicoativas, as quais agiriam na normal percepção do condutor.
+Eis o que consta do inquérito policial a respeito do exame toxicológico do filho da autora (ordens nº 12 e 13):
+ ..
+Constatada a presença da droga no corpo do José Roberto de Freitas, vislumbra-se a possibilidade de alguma imprudência, imperícia ou negligência que tenha concorrido para a concretização do sinistro.
+No presente caso, foi reconhecida em sentença criminal que o condutor/apelante Cosme invadiu a contramão da via em que a vítima estava, além de estar acima da velocidade permitida no trecho.
+ ..
+Logo, no contexto em que o caminhão estava em condições incorretas de condução, presume-se irrelevante a presença de substâncias tóxicas no organismo da vítima, devendo a culpa do acidente recair apenas sobre o réu Cosme.
+Observa-se que rever o entendimento a que chegou o Tribunal de origem impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. As razões da decisão monocrática que não foram objeto de irresignação, no agravo interno, ficam atingidas pela preclusão consumativa.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as pessoas jurídicas de direito privado prestadoras de serviço público são objetivamente responsáveis pelos danos causados a terceiros no desempenho das atividades referentes ao serviço que lhe é concedido . Incidência da Súmula 83 do STJ.
+3. Rever a conclusão do Tribunal a quo acerca da inocorrência de culpa concorrente no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.049.104/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATROPELAMENTO DE PEDESTRE POR COLETIVO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA RESPONSABILIDADE CIVIL OBJETIVA DA CONCESSIONÁRIA DE TRANSPORTE. AFERIÇÃO DA RESPONSABILIZAÇÃO CIVIL E CULPA PELO ACIDENTE. CARACTERIZAÇÃO DO DANO MORAL E ESTÉTICO. MATÉRIA FÁTICO-PROBATÓRIA. 3. VALOR INDENIZATÓRIO RAZOÁVEL. ÓBICE DA SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA N. 54/STJ. 5. PENSIONAMENTO MENSAL. REDUÇÃO DA CAPACIDADE LABORAL. COMPROVAÇÃO DE ATIVIDADE REMUNERADA. INCIDÊNCIA DAS SÚMULAS N. 7 E 83/STJ. 6. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 7. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A Corte local consignou que a empresa não logrou êxito em comprovar a alegada existência de culpa concorrente ou exclusiva da vítima, firmando convicção quanto à responsabilização civil da agravante pelo acidente ocasionado ao agravado, amparada no substrato fático-probatório dos autos. Por essa perspectiva, tendo sido toda a controvérsia acerca da dinâmica do acidente de trânsito apreciada e solvida à luz do acervo probatório colacionado aos autos, a revisão do acórdão, o reconhecimento e a responsabilização da recorrida pelo acidente de trânsito não dependeriam de mera valoração de provas, mas sim de verdadeiro reexame de matéria fático-probatória, pretensão que encontra óbice na Súmula 7/STJ.
+3. Aplica-se a Súmula n. 7/STJ também à pretensão de reexame do valor indenizatório fixado pela origem, sendo tal providência admitida apenas quando o montante for estabelecido em patamar excessivo ou irrisório, situação que não se verifica no caso concreto, no qual foi fixado em R$ 30.000,00 (trinta mil reais), tanto para reparação a título de danos morais como estéticos.
+4. Em se tratando de pretensão indenizatória de danos morais buscada por vítima de acidente envolvendo coletivo, o termo inicial dos juros de mora é a data do evento danoso (Súmula n. 54/STJ), pois se trata de responsabilidade extracontratual. Incide, no ponto, a Súmula n. 83/STJ.
+5. Quanto ao cabimento do pensionamento, verifica-se que o acórdão julgou a questão em conformidade com a jurisprudência desta Corte, a qual se firmou no sentido de que a pensão deve ser arbitrada com base na remuneração percebida pela vítima à época do acidente; e, quando não houver comprovação da atividade laboral, será fixada em um salário mínimo.
+5.1. Além disso, os danos foram caracterizados a partir das deformidades físicas, as quais afetam a mobilidade da vítima, além de ser maior de 60 (sessenta ) anos. Sua revisão, portanto, implicaria necessariamente o óbice das Súmulas 7 e 83/STJ.
+6. A alegação acerca do abatimento dos descontos obrigatórios na verba indenizatória e da incidência de juros de mora sobre as parcelas vincendas do pensionamento não consta do acórdão recorrido, não tendo sido sequer suscitada nos aclaratórios opostos na origem, o que revela a ausência de prequestionamento do tema. Incidência dos enunciados n. 282 e 356 da Súmula do STF.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.892.029/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/6/2021, DJe de 25/6/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
