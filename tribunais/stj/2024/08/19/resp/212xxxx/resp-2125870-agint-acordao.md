@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR. PENSÃO POR MORTE CONCEDIDA APÓS A EC Nº 41/2003. REAJUSTE. PERÍODO ANTERIOR À LEI Nº 11.784/2008. APLICAÇÃO DOS ÍNDICES UTILIZADOS NOS BENEFÍCIOS DORGPS. PRESCRIÇÃO DO FUNDO DE DIREITO. ART. 1º DO DECRETO Nº 20.910/32.. RECURSO ESPECIAL PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação requerendo pensão por morte. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi reformada para reconhecer a prescrição .
+II - Quanto à prescrição, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão de benefício dos proventos de aposentadoria ou pensão, mas apenas as parcelas vencidas antes do quinquênio anterior ao ajuizamento da demanda.No mesmo sentido: AgInt no REsp n. 1.902.033/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, DJe de 19/5/2021; AgInt no AREsp n. 1.727.666/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+III - Correta a decisão que deu provimento ao recurso especial para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao Tribunal de origem para que julgue a demanda como entender de direito.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou recurso especial interposto por MARIA LUCIA OLIVEIRA MASSUH com fundamento no art. 105, III, a e c, da Constituição Federal.
+O feito decorre de ação ordinária ajuizada por pensionista de servidor público tendo por objetivo a revisão de benefício no período anterior à Lei n. 11.784/2008, atribuindo à causa o valor de R$ 72.721,00 (setenta e dois mil, setecentos e vinte e um reais), em outubro de 2022.
+Após sentença que julgou procedente o pedido, foi interposta apelação, a qual foi provida pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO em acórdão assim ementado:
+SERVIDOR. PENSÃO POR MORTE CONCEDIDA APÓS A EC Nº 41/2003. REAJUSTE. PERÍODO ANTERIOR À LEI Nº 11.784/2008. APLICAÇÃO DOS ÍNDICES UTILIZADOS NOS BENEFÍCIOS DORGPS. PRESCRIÇÃO DO FUNDO DE DIREITO. ART. 1º DO DECRETO Nº 20.910/32.
+Quando a pensionista postula a aplicação dos índices de reajuste aplicados aos benefícios do regime geral de previdência social, no período compreendido entre o óbito do servidor (27/08/2005) e janeiro de 2008, data prevista na Lei nº 11.784/2008 para aplicação de tais índices às aposentadorias dos servidores e pensões por morte concedidas após a alteração da redação do art. 40, § 8º da Constituição Federal pela Emenda Constitucional nº 41/2003, a hipótese não é de relação de trato sucessivo, mas de ato único e de efeitos concretos da Administração Pública. A Administração não deu o reajuste por falta de lei. Ato único e claro. Inaplicável a Súmula 85 do STJ. A pretensão nasceu quando da falta de reajuste antes da edição da Lei nº 11.784/2008, tendo assim início o prazo prescricional de cinco anos. Como a ação somente foi ajuizada em 2022, ou seja, cerca de dez anos após a edição da Lei nº 11.784, é imperioso reconhecer a prescrição. Quanto a efeitos posteriores de tais reajustes, a matéria ainda será apreciada pelo STF. Remessa necessária provida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, apontando violação dos arts. 1º e 3º do Decreto n. 20.910/32, art. 15 da Lei n. 10.887/04. Sustenta, em síntese, a inocorrência de prescrição do fundo de direito nos termos da Súmula 85/STJ . Indica divergência jurisprudencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao Tribunal de origem para que julgue a demanda como entender de direito."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com efeito, não se desconhece a existência dos julgados colacionados por Vossa Excelência, ocorre que eles,absolutamente, não têm aplicação no caso concreto, na medida em que, de acordo com o Tribunal de origem, soberano naanálise do contexto fático-probatório dos autos, houve negativa do direito da parte pela União, o que representa um atoúnico de efeito concreto. Confira-se (fls. 194 e ss. e-STJ):
+ ..
+Alterar a conclusão a que chegou o acórdão de origem, demanda dilação probatória, o que é vedado em sede derecurso especial, nos termos da Súmula 7 deste Sodalício.
+Nesse contexto, estabelecida a premissa correta, Excelência, encontra-se uma caudalosa jurisprudência no mesmosentido do acórdão recorrido, segundo a qual havendo ato único de efeito concreto negando o direito pleiteado, a prescriçãoatinge o próprio fundo do direito. Veja-se:
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR. PENSÃO POR MORTE CONCEDIDA APÓS A EC Nº 41/2003. REAJUSTE. PERÍODO ANTERIOR À LEI Nº 11.784/2008. APLICAÇÃO DOS ÍNDICES UTILIZADOS NOS BENEFÍCIOS DORGPS. PRESCRIÇÃO DO FUNDO DE DIREITO. ART. 1º DO DECRETO Nº 20.910/32.. RECURSO ESPECIAL PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação requerendo pensão por morte. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi reformada para reconhecer a prescrição .
+II - Quanto à prescrição, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão de benefício dos proventos de aposentadoria ou pensão, mas apenas as parcelas vencidas antes do quinquênio anterior ao ajuizamento da demanda.No mesmo sentido: AgInt no REsp n. 1.902.033/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, DJe de 19/5/2021; AgInt no AREsp n. 1.727.666/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+III - Correta a decisão que deu provimento ao recurso especial para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao Tribunal de origem para que julgue a demanda como entender de direito.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Quanto à prescrição, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão de benefício dos proventos de aposentadoria ou pensão, mas apenas as parcelas vencidas antes do quinquênio anterior ao ajuizamento da demanda.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PENSÃO. REAJUSTE. PERÍODO ANTERIOR À LEI 11.784/2008. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO.
+1. O entendimento firmado nesta Corte é no sentido de que, na hipótese de reajuste de pensão anteriormente concedida, a prestação é de trato sucessivo e a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Precedentes.
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.902.033/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/5/2021, DJe de 19/5/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DNER. REENQUADRAMENTO NO NOVO PLANO DE CARGOS E SALÁRIOS DO DNIT. LEI N. 11.171/2005. APOSENTADOS E PENSIONISTAS. ENQUADRAMENTO OU REENQUADRAMENTO. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA N. 85/STJ.
+I - Na origem, trata-se de ação objetivando a revisão de proventos de pensão por morte, com base no critério da paridade, mediante enquadramento no plano de carreira do DNIT - Lei n. 11.171/2005. Após sentença que julgou procedentes os pedidos, o Tribunal a quo deu parcial provimento à apelação do ente público, ficando consignado que não há prescrição do fundo de direito, por se tratar de prestação de trato sucessivo.
+II - Com efeito, a jurisprudência desta Corte Superior é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República. A propósito: AgInt no AREsp n. 1491611/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2022, DJe 23/3/2022; AgInt no REsp n. 1.905.408/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/5/2021, DJe 5/5/2021; AgInt no REsp n. 1.828.964/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/9/2020, DJe 30/9/2020 e AgInt no REsp n. 1.809.613/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2019, DJe 19/12/2019.
+III - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 1.727.666/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+Correta a decisão que deu provimento ao recurso especial para afastar a prescrição do fundo de direito e determinar o retorno dos autos ao Tribunal de origem para que julgue a demanda como entender de direito.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
