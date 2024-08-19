@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, em favor de LARISSA ROSA ROQUE, FELIPE COELHO ROQUE e VAGNER ROSA FONTANA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 0002973-46.2022.8.12.0001).
+Consta dos autos que LARISSA e FELIPE foram condenados às penas de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime inicial semiaberto, e 417 (quatrocentos e dezessete) dias-multa pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. O paciente VAGNER foi condenado às penas de 05 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso da Defesa para conceder ao réu VAGNER, em extensão, os benefícios do tráfico ocasional, fixando a pena definitiva de 04 (quatro) anos e 02 (dois) meses de reclusão e pagamento de 417 (quatrocentos e dezessete) dias-multa.
+Neste writ, a impetrante alega a ausência de fundamentação idônea para a modulação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, visto que a quantidade de droga apreendida é inexpressiva (82g de maconha com Felipe e 90g de maconha com Larissa) e (1,10g de cocaína com Vagner), devendo incidir a fração máxima de 2/3 (dois terços).
+Defende a fixação no regime aberto para cumprimento de pena, nos termos da Súmula Vinculante n. 59.
+Requer, liminarmente e no mérito, a concessão da ordem para que as penas dos pacientes sejam redimensionadas nos termos delineados na impetração.
+Informações prestadas às fls. 811/820.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem (fls. 825/830).
+É o relatório.
+DECIDO.
+Quanto à modulação da fração aplicável pela incidência da causa de redução de pena do art. 33, § 4.º, da Lei de Drogas, destacou a Corte de origem (fl. 759):
+ ..
+No presente caso, a natureza (cocaína) e a quantidade (maconha) não foram utilizadas na primeira fase da dosimetria em desfavor dos recorrentes, e considerando que o julgador tem a faculdade de utilizar de tais elementos na primeira ou na terceira fase da dosimetria, mister a manutenção da sua utilização como critério para aplicação da fração no tráfico privilegiado.
+Acrescento que, embora o réu Vagner estivesse com o total de 1,10g de cocaína, não se olvide que se valeu de uma "boca de fumo" para realizar a mercancia, fator que sem dúvidas facilitou o seu trabalho, sobretudo por se tratar de uma residência já conhecida por vários usuários.
+D"outro vértice, os réus Larissa e Felipe mantinham em depósito 90g e 82,3gde maconha, que não foi considerado para exasperar a pena-base, além de balanças de precisão e dinheiro trocado.
+Aliás, o legislador deixou de estabelecer os parâmetros para a adoção das frações indicadas em razão do reconhecimento do tráfico privilegiado.
+Doutrina e a jurisprudência posicionaram-se no sentido de que, para determinar a fração, pode o julgador balizar-se tanto pelo art. 59 do Código Penal quanto pela natureza e quantidade da substância entorpecente, consoante art. 42 da Lei nº 11.343/06.
+A propósito, "reconhecido o tráfico privilegiado (art. 33, §4º, da Lei n.11.343/2006), na ausência de indicação, pelo legislador, das balizas para o quantum da redução a ser promovida, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice". (HC 379.087/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/03/2017, DJe 04/04/2017).
+Enfim, fica mantida a redução de 1/6 pelo tráfico privilegiado.
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, ambas as Turmas que compõem a Terceira Seção desta Corte Superior firmaram entendimento no sentido de que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação do índice da minorante do tráfico privilegiado, desde que não tenham sido considerados na primeira fase do cálculo da pena:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. MINORANTE. PATAMAR. QUANTIDADE NÃO RELEVANTE. FRAÇÃO MÁXIMA RECONHECIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+2. A Terceira Seção, em decisão proferida nos autos do HC n. 725.534/SP, de minha relatoria, julgado em 27/4/2022, DJe 1º/6/2022, reafirmou seu posicionamento anterior, conforme estabelecido no ARE 666.334/AM, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena.
+3. Em que pese a natureza nociva das drogas apreendidas (crack), a quantidade não justifica a aplicação de fração diversa de 2/3 (dois terços) para a minorante do tráfico privilegiado.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.493.011/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/3/2024, DJe de 20/3/2024; grifamos)
+É certo que a fração de diminuição deve ser aplicada de forma razoável e proporcional, levando-se em consideração as características do caso em análise.
+Na hipótese, a Corte originária entendeu cabível a modulação do redutor especial na fração de 1/6 (um sexto) com base na quantidade das drogas apreendidas.
+Contudo, a jurisprudência do STJ é no sentido de que a pequena quantidade de droga não justifica a diminuição na terceira fase da dosimetria da pena em patamar inferior à fração máxima:
+Mutatis mutandis, cito o seguinte precedente, envolvendo a apreensão de 54,6g de cocaína, 58,2g de crack e 104,8g de maconha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. AFASTAMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. POSSIBILIDADE DE INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÁXIMA. AGRAVO DESPROVIDO.
+ ..
+5. No caso em análise, a quantidade de entorpecentes apreendidos em poder do Agravado e dos Corréus não justifica qualquer modulação da minorante, pois não extrapola aquelas circunstâncias comuns ao delito de tráfico.
+6. Agravo regimental desprovido. (AgRg no HC n. 742.462/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/06/2022, DJe de 21/06/2022; grifamos)
+Assim, deve ser reconhecida a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar máximo, em observância às peculiaridades do caso, notadamente a pequena quantidade de droga apreendida (82g de maconha com Felipe, 90g de maconha com Larissa e 1,10g de cocaína com Vagner).
+Fixadas essas premissas, passo a redimensionar as penas dos pacientes.
+Na primeira fase de aplicação da pena, mantenho a pena-base ao mínimo legal: 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário mínimo.
+Na segunda etapa, a sanção permanece inalterada.
+Na terceira fase, considerados os termos desta decisão, faço incidir o benefício previsto no § 4º do art. 33 da Lei n. 11.343/2006 na fração de 2/3 (dois terços), de modo que a reprimenda fica definitivamente estabelecida em 01 (um) ano e 08 (meses) de reclusão e 166 (cento e sessenta e seis) dias-multa, no valor unitário mínimo.
+Considerando as circunstâncias apreciadas na formulação da nova dosimetria, tendo sido estabelecida pena de reclusão inferior a 04 (quatro) anos de reclusão, e a ausência de circunstâncias judiciais desfavoráveis, o regime inicial de cumprimento de pena adequado é o aberto, nos termos do art. 33, §§ 2.º e 3.º, c/c o art. 59, ambos do Código Penal, bem como cabível a substituição da pena privativa de liberdade por sanções restritivas de direitos.
+Ante o exposto, concedo a ordem de habeas corpus a fim de aplicar a minorante do art. 33, § 4º, da Lei de Drogas, redimensionando as penas dos pacientes LARISSA ROSA ROQUE, FELIPE COELHO ROQUE e VAGNER ROSA FONTANA para 01 (um) ano e 08 (oito) meses de reclusão e 166 (cento e sessenta e seis) dias-multa, e, por conseguinte, fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas restritivas de direitos, a serem definidas pelo Juízo das Execuções Criminais.
+Publique-se. Intimem-se.
+EMENTA
