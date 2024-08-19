@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. AUSÊNCIA DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO. IRREGULARIDADE NÃO SANADA. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. É firme o entendimento deste Tribunal Superior no sentido de que "é deserto o recurso especial não instruído, no momento da sua interposição, com a guia de recolhimento cuja comprovação do preparo é realizada mediante a juntada de documento de pagamento que não contém vinculação ao processo, notadamente pela ausência do número do código de barras da GRU das custas destinadas ao STJ" (AgInt no AREsp n. 2.442.072/MT, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024). Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por EMPRESA JORNALISTICA MUCIO DE CASTRO LIMITADA contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso es pecial em razão de sua deserção, pela falta do número do código de barras da guia no comprovante de pagamento anexo junto ao recurso especial.
+A parte agravante, no presente recurso, alega no comprovante de pagamento constam todas as informações necessárias para se comprovar o preparo do presente recurso (fls. 258-264).
+O prazo para impugnação transcorreu in albis (fl. 270).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. AUSÊNCIA DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO. IRREGULARIDADE NÃO SANADA. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. É firme o entendimento deste Tribunal Superior no sentido de que "é deserto o recurso especial não instruído, no momento da sua interposição, com a guia de recolhimento cuja comprovação do preparo é realizada mediante a juntada de documento de pagamento que não contém vinculação ao processo, notadamente pela ausência do número do código de barras da GRU das custas destinadas ao STJ" (AgInt no AREsp n. 2.442.072/MT, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024). Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece provimento.
+No caso, o recolhimento das custas devidas ao Superior Tribunal de Justiça foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso.
+A parte recorrente, embora regularmente intimada - conforme certidão para saneamento de óbices (fl. 244) -, não regularizou o preparo, deixando transcorrer in albis o prazo concedido (fl. 249), razão pela qual mostra-se acertada a decisão da Presidência dessa Corte.
+É firme o entendimento deste Tribunal Superior no sentido de que "é deserto o recurso especial não instruído, no momento da sua interposição, com a guia de recolhimento cuja comprovação do preparo é realizada mediante a juntada de documento de pagamento que não contém vinculação ao processo, notadamente pela ausência do número do código de barras da GRU das custas destinadas ao STJ" (AgInt no AREsp n. 2.442.072/MT, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+A propósito:
+PPROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. GUIA DE RECOLHIMENTO E COMPROVANTE DE PAGAMENTO. AUSÊNCIA DE CÓDIGOS DE BARRAS. RECURSO ESPECIAL DESERTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é pacífica no sentido de que a Guia de Recolhimento a União (GRU) e o respectivo comprovante de pagamento são peças essenciais à aferição da regularidade formal do recurso especial e, portanto, devem ser juntadas no ato da sua interposição, a fim de que seja conferida a correspodência dos dados de cada qual, sob pena de deserção.
+2. Este Superior Tribunal de Justiça consolidou o entendimento de que "A ausência do número de código de barras no comprovante de pagamento bancário caracteriza irregularidade no preparo do recurso especial, tornando-se, portanto, deserto" (AgInt nos EDcl nos EREsp n. 1.563.122/RS, relatora Ministra Maria Isabel Gallotti, Corte Especial, julgado em 24/10/2023, DJe de 30/10/2023).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.530.710/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO ACOMPANHADO DA GUIA DE CUSTAS. COMPROVANTE DE PAGAMENTO NÃO VINCULADO AOS AUTOS. IRREGULARIDADE NO PREPARO. DESERÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno interposto de decisão da Presidência do STJ, a qual não conheceu do Recurso em Mandado de Segurança do ora recorrente, sob o pressuposto da falta de preparo, e da consequente deserção.
+2. O agravante afirma que "juntou no ato da interposição do Recurso Ordinário o comprovante de pagamento do preparo que foi no valor de R$ 236,23 (duzentos e trinta e seis reais e vinte e três centavos), valor referente as custas de preparo do Recurso interposto". Diz que "não traz qualquer prejuízo de efeito prático ao órgão arrecadador por ter deixado de juntar a cópia da Guia, haja vista que todos são destinados à Secretaria do Superior Tribunal de Justiça" (fl. 783).
+3. Sobressai dos autos que o Recurso Especial manejado pelo agravante não foi devidamente instruído com a guia de custas devidas ao STJ, a despeito da juntada de comprovante de pagamento. Constatada a irregularidade, com escopo na Resolução STJ/GP n. 15, de 26 de junho de 2020 e no § 4º do art. 1.007 do CPCP/2015, o recorrente foi intimado a proceder ao recolhimento em dobro das custas, como se verifica de fls. 766 e 768. Nada obstante, quedou-se inerte, nos termos certificados às fls. 771.
+4. É firme o entendimento do STJ no sentido de que "é deserto o recurso especial não instruído, no momento da sua interposição, com a guia de recolhimento cuja comprovação do preparo é realizada mediante a juntada de documento de pagamento que não contém vinculação ao processo, notadamente pela ausência do número do código de barras da GRU das custas destinadas ao STJ" (AgInt no AREsp n. 2.442.072/MT, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024; (AgInt nos EAREsp n. 1.918.566/RJ, Rel. Min. Mauro Campbell Marques, Corte Especial, julgado em 9/4/2024, DJe de 18/4/2024; AgInt no AREsp n. 2.453.063/MG, Rel. Min. Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024).
+5. Agravo Interno não provido.
+(AgInt no RMS n. 72.903/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+No mesmo sentido, tem-se ainda: AgInt no AREsp n. 2.543.109/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024; AgInt no AREsp n. 2.534.925/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024; AgInt no AREsp n. 2.505.800/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/6/2024, DJe de 5/6/2024; AgInt no REsp n. 2.086.293/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024; AgInt no AREsp 1.449.432/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 12/5/2020.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
