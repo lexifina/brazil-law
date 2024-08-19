@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AJUIZAMENTO DE DUAS AÇÕES IDÊNTICAS. COISA JULGADA. RESPONSABILIDADE PELO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA NA SEGUNDA AÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OCORRÊNCIA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, o recurso deve ser provido, por violação dos arts. 489 e 1.022 do CPC/2015, na medida em que a fundamentação adotada pelo órgão julgador a quo não tornou desnecessária a integração pedida nos aclaratórios a respeito da culpa ou da má-fé no ajuizamento da segunda ação judicial, idêntica à primeira, em que ocorreu o trânsito em julgado, e isso é relevante à correta observação do princípio da causalidade para o fim de imputar a responsabilidade pelo pagamento dos honorários advocatícios de sucumbência.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por INSTITUTO SOCIAL DAS MEDIANEIRAS DA PAZ contra decisão que deu provimento a recurso especial da Fazenda Nacional, por violação dos arts. 489 e 1.022 do Código de Processo Civil - CPC/2015, para determinar o rejulgamento da questão relacionada à responsabilidade pelo ajuizamento indevido de ação judicial para, à luz da causalidade, impor a condenação em honorários advocatícios de sucumbência.
+A parte agravante sustenta, em síntese (fls. 5316/5338):
+A jurisprudência da Corte Cidadã possui inúmeros julgados sobre ser cabível a condenação em honorários advocatícios nos casos de extinção do processo sem exame de mérito pela perda superveniente do objeto  ..  acórdão Regional tem razão quanto a isso, pois é assente na jurisprudência do STJ a possibilidade de fixação de honorários advocatícios de sucumbência mesmo após a extinção da ação sem resolução de mérito por perda de objeto, até porque em sintonia com a redação do § 10 do art. 85 do CPC  ..  não há qualquer eiva ou imperfeição do acórdão do TRF da 5ª Região  ..  quem motivou (causalidade) a distribuição da ação (primeira ação, inclusive) e foi vencida (sucumbência) na lide foi a Fazenda Nacional, sem falar que a omissão por não ter arguido litispendência quando citada no Processo n.º 0808638-12.2018.4.05.8300, foi ela própria, razão pela qual a condenação da verba honorária deve ser mantida  ..  mesmo que o processo n.º 0800072-47.2018.4.05.8309 tenha sido extinto sem resolução de mérito por perda de objeto superveniente, ainda assim a condenação da verba sucumbencial deve ser mantida.
+Impugnação apresentada pela parte agravada (fls. 5342/5343).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AJUIZAMENTO DE DUAS AÇÕES IDÊNTICAS. COISA JULGADA. RESPONSABILIDADE PELO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA NA SEGUNDA AÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OCORRÊNCIA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. No caso dos autos, o recurso deve ser provido, por violação dos arts. 489 e 1.022 do CPC/2015, na medida em que a fundamentação adotada pelo órgão julgador a quo não tornou desnecessária a integração pedida nos aclaratórios a respeito da culpa ou da má-fé no ajuizamento da segunda ação judicial, idêntica à primeira, em que ocorreu o trânsito em julgado, e isso é relevante à correta observação do princípio da causalidade para o fim de imputar a responsabilidade pelo pagamento dos honorários advocatícios de sucumbência.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois o cotejo do acórdão recorrido com as razões dos embargos de declaração evidencia a violação do art. 1.022 do CPC/2015.
+A propósito, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 5173/5175):
+Na origem, o Instituto Social das Medianeiras da Paz (Hospital e Maternidade Santa Maria) movimenta cumprimento de sentença promovido em face da Fazenda Nacional, em que pleiteia o pagamento de R$ 772.245,76 (setecentos e setenta e dois mil, duzentos e quarenta e cinco reais e setenta e seis centavos) a título de repetição de indébito e, ainda, R$ 77.224,57 (setenta e sete mil, duzentos e vinte e quatro reais e cinquenta e sete centavos) a título de honorários advocatícios de sucumbência.
+Por seu turno, a Fazenda Nacional apresentou impugnação, sustentando, em suma, coisa julgada, pois a matéria foi objeto da sentença em outro processo, que se encontra em fase de cumprimento de sentença e já com requisitório expedido.
+Nesta toada sobreveio a decisão recorrida, a qual, reconhecendo a violação à coisa julgada, extinguiu do feito sem resolução do mérito, nos termos do art. 485, inc. V, do Código de Ritos, mantendo, todavia, a condenação da parte executada ao pagamento dos ditos honorários advocatícios
+ ..
+Conforme relatado, alhures, a Fazenda Nacional recorre da decisão que, em que pese reconhecer a violação à coisa julgada, deferiu o prosseguimento do feito em relação aos honorários advocatícios
+O cerne da lide consiste em saber se, diante do reconhecimento da coisa julgada material e consequente extinção da execução, é cabível a manutenção da condenação em honorários advocatícios.
+ ..
+No caso dos autos, não há dúvidas que se trata de duas ações idênticas com as mesmas partes, causa de pedir e pedido, o que acarreta a ocorrência de litispendência, conforme dispõe o art. 337, § 3º, do CPC.
+ ..
+No caso em tela, ambas ações judiciais tiveram continuidade e, inclusive, transitaram em julgado.
+Assim, penso que, como não há prova capaz de desconstituir a coisa julgada dos processos, deve-se reconhecer o pagamento de honorários advocatícios ao causídico que promoveu a ação de nº 0800072-47.2018.4.05.8309.
+Importa destacar que, na ação nº 0808638-12.2018.4.05.8300, título que se formou primeiro, não houve a condenação de pagamento de honorários advocatícios.
+É de se destacar que as procurações repassadas pelo Instituto Social das Medianeiras da Paz outorgam poderes a dois escritórios de advocacia diversos.
+Ademais, as petições iniciais das duas ações, embora tratem do mesmo petitório, foram fundamentadas de forma diferentes. Não havendo indícios de uma possível ligação entre os escritórios advocatícios.
+Sendo assim, entendo que impossibilitar o prosseguimento da ação para execução dos honorários advocatícios fixados no acórdão durante a ação de conhecimento implicaria uma desvalorização do trabalho desenvolvido pelo patrono da parte autora.
+Frise-se que os honorários advocatícios, concernentes à condenação, podem ser executados de forma autônoma em relação ao principal da dívida (art. 23 da Lei nº 8.906/94).
+Por essas razões, reconheço a obrigação da Fazenda Nacional em pagar os honorários advocatícios provenientes de sua condenação na ação de conhecimento relacionada ao presente feito.
+Por outro lado, o pagamento quanto ao valor principal não merece prosperar ante a execução do título formado na primeira coisa julgada, de modo que o seu efeito já produziu resultado concreto, nos autos do processo nº 0808638-12.2018.4.05.8300, com a expedição do respectivo requisitório.
+ ..
+Não obstante o reconhecimento da coisa julgada, entendo que possibilitar o prosseguimento da ação para execução dos honorários advocatícios fixados no acórdão durante a ação de conhecimento implica a valorização do trabalho do advogado que desempenhou suas funções do processo fazendo jus ao recebimento da verba.
+Outrossim, não há ilicitude na decisão que manteve a condenação da executada em honorários advocatícios em favor do advogado que defende os interesses da parte na causa
+Nos embargos de declaração, a FN pediu integração quanto aos princípios processuais da causalidade, razoabilidade e da lealdade; porém, por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fl. 5236).
+Pois bem.
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, verifica-se violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador não torna desnecessária a integração pedida nos aclaratórios, notadamente, porque não houve manifestação adequada a respeito da culpa ou da má-fé no ajuizamento da segunda ação, que seria idêntica à primeira em que ocorreu o trânsito em julgado, e isso é relevante à correta observação do princípio da causalidade para o fim de imputar a responsabilidade pelo pagamento dos honorários advocatícios de sucumbência.
+No contexto, portanto, deve ser mantida a decisão de provimento do recurso especial, com o retorno dos autos ao TRF5 para novo julgamento do recurso integrativo.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
