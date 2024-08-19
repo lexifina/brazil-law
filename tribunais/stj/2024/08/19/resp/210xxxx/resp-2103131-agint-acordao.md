@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE APONTAMENTO DE DISPOSITIVO CAPAZ DE ENSEJAR O AJUIZAMENTO DA AÇÃO RESCISÓRIA. ÓBICE DA SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte, o recurso especial interposto contra acórdão que examina ação rescisória deve se voltar contra os pressupostos desta (art. 966 do CPC/15), e não contra os fundamentos do aresto rescindendo.
+2. Não é possível considerar as razões trazidas no agravo interno vertente para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por GILDETE MENEZES GONÇALVES desafiando decisão de fls. 199/203, que não conheceu do recurso especial.
+Em suas razões, a parte recorrente aduz, em síntese, que "não foi bem compreendido o teor da petição do seu recurso especial, pelo que se depreende da decisão, ora agravada, até porque a recorrente tem absoluta convicção de que ocorreu realmente ofensa ao art. 1.022, incisos I e II, do CPC/2015, o que será justificado de acordo com os sólidos argumentos que seguem" (fl. 209).
+Sustenta que, "a primeira impugnação da particular dirigida ao ato, ora agravado, decorre de sua não concordância em trazer à baila o art. 966, do CPC/2015, na medida em que, permissa venia, tal dispositivo legal está presente apenas no ajuizamento da AÇÃO RESCISÓRIA, razão pela qual merece prevalecer o conteúdo da petição do recurso especial, indicando que o acórdão recorrido contrariou o art. 1.022, incisos I e II, do CPC/2015, decorrente de imperfeições já relatadas, o que deu origem aos embargos de declaração, os quais foram opostos pela então recorrente em época propícia" (fl. 209).
+Ao final, "requer a agravante o envio deste ao Colegiado dessa Corte, possibilitando a sua modificação para o critério pleiteado e, por consequência, para que seja dado provimento ao seu recurso especial e, assim, reformado o acórdão da Primeira Turma do TRF da 5ª Região de modo a ser procedido novo julgamento dos EMBARGOS DE DECLARAÇÃO opostos anteriormente pela atual agravante" (fl. 214).
+Devidamente intimada, a parte recorrida não impugnou, conforme certidão de fl. 223.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE APONTAMENTO DE DISPOSITIVO CAPAZ DE ENSEJAR O AJUIZAMENTO DA AÇÃO RESCISÓRIA. ÓBICE DA SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte, o recurso especial interposto contra acórdão que examina ação rescisória deve se voltar contra os pressupostos desta (art. 966 do CPC/15), e não contra os fundamentos do aresto rescindendo.
+2. Não é possível considerar as razões trazidas no agravo interno vertente para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento.
+Tal como afirmado na decisão agravada, verifica-se não ter ocorrido ofensa ao art. 1.022, I e II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A seguir, convém esclarecer que, nos termos da jurisprudência desta Corte, o recurso especial interposto contra acórdão que examina ação rescisória deve se voltar contra os pressupostos desta (art. 966 do CPC/15), e não contra os fundamentos do aresto rescindendo.
+Nesse contexto, conforme asseverado no decisório impugnado, no presente caso, não se faz possível conhecer as razões do apelo especial que se limitam a sustentar que o julgado rescindendo violou o direito da recorrente, "por sua interpretação equivocada do dispositivo legal acima mencionado no tocante ao critério da preservação do teto legítimo quando do reajustamento da RMI (renda mensal inicial) da aposentadoria da parte recorrente cujo tema foi exaustivamente assentado na petição dos embargos de declaração, pois a recorrente não se aposentou sob a égide da legislação que passou a praticar o teto de dez salários mínimos, mas da anterior, que tinha o parâmetro em número de vinte" (fl. 168).
+Pois bem, consoante assinalado no decisum atacado, na hipótese em exame, o Sodalício de origem julgou improcedente a ação rescisória, adotando as seguintes razões de decidir (fls. 95/96):
+O pondo nodal, para a autora da ação rescisória, é que o título executivo teria assegurado benefício equivalente a 20 salários mínimos, e daí que sustenta que o acórdão rescindendo (do agravo de instrumento) teria, a um só tempo, violado a coisa julgada, bem assim a norma jurídica.
+Sucede que, diversamente do que aduz a autora, o acórdão rescindendo considerara, sim, o teor do título transitado em julgado, e justo por isso concluíra:
+2. A decisão impugnada parte do entendimento de que ao autor teria o título executivo assegurado benefício equivalente a 20 salários mínimos, o que não corresponde ao decidido no processo de conhecimento, em que aquele é o teto de salário de benefício a ser observado.
+3. Ademais, não houve qualquer referência no título judicial acerca da liberação do teto de manutenção, já que tal determinação estaria em manifesta confrontação com texto expresso de lei
+Com efeito, consoante se extrai do voto do relator, bem assim da ementa do acórdão, os 20 salários mínimos correspondem ao teto de salário de benefício a ser observado, o que não significa que o benefício equivalerá a 20 SM. Mais que isso, não há previsão no título exequendo acerca da liberação do teto de manutenção. Note-se que a condenação do INSS foi para rever o benefício de aposentadoria por tempo de serviço da autora, mas a sua correção segue critérios próprios da legislação específica.
+Sob essa ótica, não há falar em violação à coisa julgada, menos ainda à norma jurídica.
+JULGO IMPROCEDENTE O PEDIDO DA AÇÃO RESCISÓRIA.
+Nesse contexto, correta a decisão agravada ao concluir que a recorrente, nas razões do apelo especial, alega violação aos arts. 502, 503 e 1.022, I e II, do CPC; e 41-A, § 1º, da Lei n. 8.213/91, mas não faz sequer menção ao art. 966, inciso V, do CPC, o que já caracteriza deficiência na sua fundamentação a impedir seu conhecimento, em observância à Súmula 284 do STF, aplicável por analogia.
+Em reforço, destacam-se os seguinte julgados:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CABIMENTO. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. LEI N. 6.435/1977. INEXISTÊNCIA DE INDIVIDUALIZAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+1. É "impossível o conhecimento do recurso pela alínea "a", já que citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, posto ser impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (REsp n. 1.853.462/GO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/11/2020, DJe 4/12/2020), o que ocorreu.
+2. A falta de individualização dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+3. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ.
+4. Conforme a jurisprudência do STJ, "não se admite o ajuizamento de ação rescisória como sucedâneo recursal, já que a pretensão deduzida, nessas hipóteses, não diz respeito a eventual vício de formação da coisa julgada, mas sim à revisão de razoável interpretação jurídica que foi adotada pela decisão impugnada.
+Inteligência da Súmula 343 do STF" (AgInt no REsp n. 1.430.965/SC, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/11/2020, DJe 27/11/2020), o que foi observado pela Corte local.
+5. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 83 e 211 do STJ e 282 do STF.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 944.639/SE, Rel. ANTONIO CARLOS FERREIRA, DJe de 12/03/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. AÇÃO RESCISÓRIA. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. LEI LOCAL. SÚMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. PREJUÍZO.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+2. Não há violação do art. 1022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+3. Incide a Súmula 284 do STF quando a parte aponta violação do art. 485, VI, do CPC/1973 de forma genérica.
+4. Não cabe apelo nobre quando a ação rescisória tiver por fundamento violação literal de dispositivo constitucional.
+5. Não é possível, "em sede de Recurso Especial, analisar a violação do art. 485, V do CPC/1973, quando a Rescisória demanda a análise de lei local, atraindo a incidência da Súmula 280/STF" (AgInt AREsp 179.237/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 23/06/2017).
+6. Pacífico o entendimento do STJ no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.690.260/MG, Rel. Min. GURGEL DE FARIA, DJe de 25/09/2019.)
+Ressalte-se que não há como considerar a alegação trazida somente nesse agravo interno de que "a primeira impugnação da particular dirigida ao ato, ora agravado, decorre de sua não concordância em trazer à baila o art. 966, do CPC/2015", para fins de suplantar a deficiência de fundamentação do apelo nobre, haja vista que, como cediço, os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, sendo vedado aos recorrentes peticionar complementando os fundamentos do recurso já interposto, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão.
+Nessa mesma linha, anote-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE APONTAMENTO DE DISPOSITIVO LEGAL SOBRE O QUAL RECAIRIA O DISSÍDIO PRETORIANO. ÓBICE DA SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE.
+1. Na interposição do recurso especial com base na alínea c do permissivo
+constitucional, é imperiosa a indicação do dispositivo federal supostamente violado ou sobre o qual recai a alegada divergência
+jurisprudencial, o que não ocorreu no caso em tela. Incidência do obstáculo da Súmula 284/STF. Precedentes: AgInt nos EAREsp 842.263/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe 13/09/2017; e AgRg no REsp 1.346.588/DF, Rel. Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014.
+2. Não é possível considerar as razões trazidas no agravo interno vertente, para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.227.994/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/8/2018.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
