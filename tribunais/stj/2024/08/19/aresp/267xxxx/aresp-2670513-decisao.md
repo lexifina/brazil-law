@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por ADENIRA ALMINDA CEREZER SANTOS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+USUCAPIÃO. EMGEA. SISTEMA FINANCEIRO DA HABITAÇÃO. BEM PÚBLICO. MÚTUO IMOBILIÁRIO. TERMO INICIAL DO PRAZO PRESCRICIONAL. GARANTIA HIPOTECÁRIA.
+1. Não é passível de usucapião o imóvel residencial financiado pelo Sistema Financeiro de Habitação, diante da função social que lhe é destinada por lei, dando-se a mesma proteção que é dada aos bens públicos.
+2. Caso fosse permitida a aquisição por usucapião de imóveis financiados com recursos do SFH, seria possível àquele que ocupa o imóvel financiado, ou o compra do proprietário anterior, adquirir a propriedade definitiva do imóvel, livre da hipoteca e sem ter de quitar o financiamento, após o simples transcurso do prazo aquisitivo previsto em lei, o que comprometeria o equilíbrio financeiro do sistema.
+3. Em se tratando de mútuo imobiliário, o termo inicial da prescrição é o dia do vencimento da última parcela, mesmo que tenha ocorrido o vencimento antecipado do contrato por inadimplemento do devedor.
+4. A existência de garantia hipotecária faz com que o prazo prescricional para a aquisição ad usucapionem não comece a correr (fl. 564).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 1.240 do Código Civil, no que concerne à necessidade de se reconhecer que o bem objeto da demanda é suscetível de usucapião, por se tratar de imóvel de pessoa jurídica de direito privado, sustentando que o fato de o imóvel ser financiado com recursos do Sistema Financeiro de Habitação não o transforma em público, por não haver previsão legal neste sentido. Aduz a seguinte argumentação:
+A sentença concluiu pela improcedência do pedido. A Turma julgadora do Tribunal Regional Federal confirmou a decisão sob o argumento de que o bem objeto da demanda é de natureza pública porque vinculado a financiamento para fins habitacionais, portanto não sujeito a usucapião.
+O entendimento esposado no acórdão recorrido da Turma do TRF da 4ª Região violou frontalmente normas infraconstitucionais federais, quais sejam, artigos 98 e 1240, ambos do Código Civil, conforme se demonstrará.
+ ..
+Sustenta o acórdão que o imóvel objeto da contenda é insuscetível de usucapião por se tratar de bem público.
+Tal afirmação não procede e infringe a regra do artigo 98 do Código Civil que estabelece que "são públicos os bens do domínio nacional pertencentes às pessoas jurídicas de direito público interno; TODOS OS OUTROS SÃO PARTICULARES, seja qual for a pessoa a que pertencerem.
+Na mesma esteira, bem dispõe o inciso II do artigo 173 da CF/88 ao referir que "a empresa pública que explore atividade econômica está sujeita ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários.
+Dentro desta linha de raciocínio, cabe destacar que a EMGEA é uma pessoa jurídica de direito privado, portanto os seus bens são particulares, consoante bem explicitado no dispositivo acima transcrito.
+O fato do imóvel haver sido financiado com recursos do Sistema Financeiro de Habitação, conforme argumento do acórdão, não o transforma em público, uma vez que não há previsão legal neste sentido.
+Destarte, considerando que o bem, objeto da presente demanda, foi dado em garantia à pessoa jurídica de direito privado, impõe-se o reconhecimento da sua condição de BEM PRIVADO e, portanto, suscetível à usucapião (fls. 577- 578).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
