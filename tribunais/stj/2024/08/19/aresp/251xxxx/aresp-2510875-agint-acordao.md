@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+2. O agravo interno de que trata o art. 1.030, § 2º, do CPC/2015 é a sede própria para a demonstração de eventual falha na aplicação da tese firmada no paradigma repetitivo em face de realidade do processo.
+3. Hipótese em que o fundamento condutor adotado na decisão do Tribunal de origem é o de que o acórdão recorrido está em sintonia com precedente vinculante debatido debatida no Tema 1.085 do STF.
+4. A menção sobre a existência de outro óbice de admissibilidade do recurso especial (no caso, negativa de prestação jurisdicional) que tem relação com a correta aplicação do precedente vinculante não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela ENERGIZER BRASIL INDÚSTRIA E COMÉRCIO DE BENS DE CONSUMO LTDA., em que, por meio da decisão de e-STJ fls. 1.329/1.331, não conheci do agravo em recurso especial, uma vez que sua interposição contra decisão denegatória de seguimento do apelo nobre caracteriza erro grosseiro.
+A agravante, inicialmente, esclarece que não pretendeu usar o agravo em recurso especial para impugnar a decisão que negou seguimento ao apelo especial com base no Tema 1.085 do STF, conforme afirmado pelo Ministro Relator e diz que a análise das razões recursais é suficiente para impugnar a decisão do Ministro Relator, demonstrando que o STJ pode e deve examinar a incompatibilidade do acórdão proferido pela Corte local com a legislação federal.
+Afirma que a violação do disposto nos arts. 489 e 1022 do CPC/2015, demonstrada no recurso especial, não pode ser desconsiderada devido à aplicação do precedente do STF no RE 1.258.934 (Tema 1.085) pela Corte de origem.
+Repisa que houve negativa de prestação jurisdicional, visto que, "existindo o expresso reconhecimento dos Ilustres Julgadores da Corte a quo no sentido de que a majoração da Taxa de Utilização do SISCOMEX foi promovida por meio de norma infralegal (Portaria MF 257/2011) e sem amparo no Texto Constitucional, não poderia aquele E. Tribunal, ao mesmo tempo, reconhecer válido o reajuste pelo índice do INPC (cabendo na espécie restabelecer a exigência da referida Taxa pelos valores definidos originalmente pelo art. 3º da Lei n. 9.716/1998" (e-STJ fl. 1.345).
+Sem impugnação (e-STJ fl. 1.359).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+2. O agravo interno de que trata o art. 1.030, § 2º, do CPC/2015 é a sede própria para a demonstração de eventual falha na aplicação da tese firmada no paradigma repetitivo em face de realidade do processo.
+3. Hipótese em que o fundamento condutor adotado na decisão do Tribunal de origem é o de que o acórdão recorrido está em sintonia com precedente vinculante debatido debatida no Tema 1.085 do STF.
+4. A menção sobre a existência de outro óbice de admissibilidade do recurso especial (no caso, negativa de prestação jurisdicional) que tem relação com a correta aplicação do precedente vinculante não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+5. Agravo interno desprovido.
+VOTO
+Conforme assentado na decisão agravada, a agravante discute exclusivamente a tese jurídica relativamente à majoração da taxa de utilização do SISCOMEX, temática debatida no Tema 1.085 do STF, sendo certo que, no caso em exame, a Corte de origem negou seguimento ao recurso especial, com base nesse precedente vinculante e inadmitiu quanto à negativa de prestação jurisdicional.
+Vê-se que a indicação de ofensa aos arts. 489 e 1.022 do CPC/2015, rejeitada pela decisão agravada, também guarda pertinência com a correta aplicação da tese firmada no aludido precedente firmado em julgamento submetido ao rito da repercussão geral ao caso concreto, pois a ora agravante defende, em seu recurso especial, ser omisso o julgado recorrido por não ter se manifestado sobre a afronta aos princípios da legalidade, da razoabilidade, da proporcionalidade, do não confisco (arts. 5º, II, 150, IV e 170, da CF/1988, art. 97, do CTN ), diante da majoração da taxa SISCOMEX em mais de 500% e reforça que não houve manifestação da Corte de origem sobre a "inexistência de lei (em sentido estrito - arts. 5º, inciso II, e 150, inciso I da CRFB/1988 e art. 97 do Código Tributário Nacional) capaz de autorizar e respaldar a pretensa majoração da Taxa de Utilização do SISCOMEX; por essa razão, nesse cenário, dever á  ser mantida, em sua integralidade, a exigência prevista na Lei n. 9.716/1998 (enquanto não houver, nos termos da própria jurisprudência do C. Supremo Tribunal Federal firmada em sede de repercussão geral, "balizas mínimas definidas em lei") - (e-STJ fl. 975).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos, ou do Supremo Tribunal Federal, em regime de repercussão geral. É o que se extrai do teor do referido dispositivo:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorri do, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma em face da realidade do processo.
+Em razão dessa previsão normativa, é assente o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, ou do Supremo Tribunal Federal, em regime de repercussão geral.
+Saliento que, no contexto dos autos, a menção na decisão a quo sobre existência de outros óbices à admissibilidade do recurso especial (inexistência de infringência dos arts. 489 e 1.022 do CPC/2015), porquanto relacionados com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto com fundamento em repercussão geral, não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
