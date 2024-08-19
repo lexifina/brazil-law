@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 1.404/1.405):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. LEGITIMIDADE PASSIVA PETROBRÁS. AFASTADA. MÉRITO. PETROS. REVISÃO DE SUPLEMENTAÇÃO DE PROVENTOS. PRESCRIÇÃO QUINQUENAL. RECONHECIMENTO DE OFÍCIO. MÉRITO. PREVIDÊNCIA PRIVADA. REAJUSTE PROVENIENTE DE ACORDO COLETIVO. AUMENTO GERAL DE SALÁRIOS. EXTENSÃO AOS INATIVOS. DIREITO À PARIDADE. ART. 41 DO REGULAMENTO DO PLANO DE BENEFÍCIOS. PRECEDENTES DESTE TRIBUNAL. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.
+A jurisprudência do Superior Tribunal de Justiça e deste Tribunal é firme em afastar a legitimidade da entidade patrocinadora para figurar no polo passivo de litígios envolvendo participante e entidade de previdência privada, em que se discute matéria referente a plano de benefícios.
+Inicialmente, a pretensão posta na peça vestibular submete-se ao prazo prescricional quinquenal, por configurar relação de trato sucessivo. Enunciados das Súmulas 291 e 427, do STJ.
+Os Acordos Coletivos de Trabalho evidenciam um aumento de caráter genérico a todos os trabalhadores vinculados à Petrobrás.
+Sendo assim, ante a natureza de aumento geral de salários, estende- se à complementação de aposentadoria dos ex-empregados da Petrobras benefício concedido indistintamente a todos os empregados da ativa e estabelecido em norma coletiva, prevendo a concessão de aumento de nível salarial - "avanço de nível" - a fim de preservar a paridade entre ativos e inativos assegurada no art. 41 do Regulamento do Plano de Benefícios da Fundação Petrobras de Seguridade Social - Petros.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.602/1.623).
+A Corte de origem, em cumprimento ao disposto no art. 1.040, II, do CPC, em juízo de retratação, ratificou o acórdão, nos termos da ementa a seguir (e-STJ fl. 1.722):
+JUÍZO DE RETRATAÇÃO. ACÓRDÃO PROFERIDO EM APELAÇÃO. PETROS. REVISÃO DE SUPLEMENTAÇÃO DE PROVENTOS. PREVIDÊNCIA PRIVADA. REAJUSTE PROVENIENTE DE ACORDO COLETIVO. AUMENTO GERAL DE SALÁRIOS. EXTENSÃO AOS INATIVOS. DIREITO À PARIDADE. ART. 41 DO REGULAMENTO DO PLANO DE BENEFÍCIOS. DECISÕES PARADIGMAS DO STJ.TEMAS 736 e 941. DISTINGUISHING. AUSÊNCIA DE SIMILITUDE FÁTICA. JUÍZO NEGATIVO DE RETRATAÇÃO. ACÓRDÃO RATIFICADO.
+Em suas razões (e-STJ fls. 1.626/1.645), a parte aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais, sob os respectivos fundamentos:
+(i) arts. 17 e 68, § 1º, da Lei Complementar n. 109/2001, sustentando a aplicabilidade do regulamento vigente na data em que o participante tornou-se elegível ao recebimento do benefício,
+(ii) arts. 1º e 19 da Lei Complementar n. 109/2001 e 6º, § 1º, da LINDB, sustentando ser indevida a inclusão das parcelas remuneratórias concedidas aos empregados da patrocinadora no benefício de complementação de aposentadoria pago por instituição de previdência privada.
+Contrarrazões apresentadas (e-STJ fls. 1.699/1.706).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A Segunda Seção, ao julgar o REsp n. 1.435.837/RS (Tema n. 907/STJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, DJe 7/5/2019), fixou a seguinte tese, para os fins do art. 1.040 do CPC/2015: "O regulamento aplicável ao participante de plano fechado de previdência privada para fins de cálculo da renda mensal inicial do benefício complementar é aquele vigente no momento da implementação das condições de elegibilidade, haja vista a natureza civil e estatutária, e não o da data da adesão, assegurado o direito acumulado."
+Além disso, conforme a jurisprudência pacífica das Turmas que compõem a Segunda Seção desta Corte, é inadmissível a extensão dos índices de reajuste referentes à Remuneração Mínima por Nível e Regime (RMNR) e ao Plano de Classificação e Avaliação de Cargos - PCAC - concedidos aos empregados em atividade na patrocinadora do plano de benefícios, por acordo coletivo de trabalho - aos proventos de suplementação de aposentadoria pagos pela entidade de previdência privada.
+A propósito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDÊNCIA COMPLEMENTAR. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. LEGITIMIDADE PASSIVA DO PATROCINADOR DO PLANO DE BENEFÍCIOS. INEXISTÊNCIA. PCAC E RMNR. EXTENSÃO DESSAS VERBAS PAGAS AOS TRABALHADORES DA PATROCINADORA PETROBRAS AOS ASSISTIDOS DO PLANO DE BENEFÍCIOS ADMINISTRADO PELA PETROS. INVIABILIDADE. TESE VINCULANTE SUFRAGADA EM RECURSO REPETITIVO.
+(..)
+3. "É inviável a extensão aos proventos de complementação de aposentadoria dos mesmos índices de reajuste referentes às verbas denominadas Plano de Classificação e Avaliação de Cargos - PCAC e Remuneração Mínima por Nível e Regime - RMNR -, concedidas aos empregados em atividade por acordo coletivo de trabalho, em razão da ausência de prévia formação da reserva matemática. Precedentes." (AgInt no AREsp n. 1.602.044/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/12/2020.)
+4. Consoante tese sufragada em recurso repetitivo, "nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares" (REsp 1425326/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/05/2014, DJe 01/08/2014).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.824.755/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REMUNERAÇÃO MÍNIMA POR NÍVEL E REGIME - RMNR. CONCESSÃO AOS EMPREGADOS ATIVOS. CONVENÇÃO COLETIVA DE TRABALHO. EXTENSÃO AOS PROVENTOS COMPLEMENTARES. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA.
+1. No regime de previdência privada, não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios. Precedentes da Segunda Seção.
+3. É inviável a extensão aos proventos de complementação de aposentadoria da verba denominada Remuneração Mínima por Nível e Regime - RMNR, concedida aos empregados em atividade no patrocinador da entidade fechada de previdência privada, por ausência de prévia formação da reserva matemática.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1017916/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/03/2019, DJe 28/03/2019.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para restabelecer a sentença de fls. 575/588 (e-STJ).
+Publique-se e intimem-se.
+ EMENTA
