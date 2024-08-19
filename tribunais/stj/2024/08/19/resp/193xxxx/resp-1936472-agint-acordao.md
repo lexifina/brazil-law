@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PENHORA NO ROSTO DOS AUTOS DE AÇÃO TRABALHISTA. ACÓRDÃO QUE AFASTA A NATUREZA ALIMENTAR DAS VERBAS RECEBIDAS PELO DEVEDOR . ALTERAÇÃO QUE DEMANDA ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Discute-se nos autos se, à luz do art. 833, IV, do CPC, é possível realizar penhora no rosto dos autos de percentual de crédito proveniente de ação trabalhista.
+2. O Tribunal de origem manteve a penhora, com base no fundamento de que as verbas discutidas na reclamatória trabalhista possuem natureza indenizatória, e deixou expressamente consignado que o caso concreto envolve indenização de passagens aéreas, indenização por contrato de leasing de automóvel, além de móveis e objetos domésticos, que não têm caráter alimentar.
+3. A alteração das conclusões a que chegou a instância ordinária quanto à natureza da verba penhorada e seu enquadramento como "indenizatória" demandaria o reexame do acervo fático-probatório dos autos, inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CARLOS ALBERTO DE ARRIDA MENDES contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que julgou demanda relativa a penhora no rosto dos autos de reclamatória trabalhista sobre verbas salariais nos termos da seguinte ementa (fl. 129):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Penhora no rosto dos autos de ação trabalhista. Alegação de nulidade, em razão da conexão da execução com demandas que tramitam na 2ª Vara Empresarial desta Comarca. A despeito do reconhecimento da conexão entre as ações em agravo de instrumento anteriormente julgado, não há que se falar em nulidade da decisão agravada. Princípio da conservação dos atos processuais. Art. 64, §4º, do CPC. Valores penhorados que, ademais, não tem natureza alimentícia. Inaplicabilidade do art. 833, IV, do CPC. Possibilidade de penhora. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+A decisão agravada não conheceu do recurso especial do agravante nos termos da seguinte ementa (fl. 272):
+PROCESSUAL CIVIL. PENHORA NO ROSTO DOS AUTOS DE AÇÃO TRABALHISTA. ACÓRDÃO QUE AFASTA A NATUREZA SALARIAL DAS VERBAS RECEBIDAS PELO DEVEDOR . ALTERAÇÃO QUE DEMANDA ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões de agravo interno, alega o agravante que "ao revés do perfilhado pelar. decisão agravada, o acordo celebrado na justiça laboral entre as partes apenas com o intuito de auxiliar a questão tributária da própria Agravada não detém o condão de desnaturar a verba alimentar postulado naquele juízo." (fl. 286).
+Aduz que a pretensão recursal em cotejo não se trata de reexame de fatos e provas, mas, meramente, analisar se as os acordos e requerimentos que tramitam em ações da justiça laboral, dado o seu caráter alimentar, podem ser objeto de penhora para pagamento de dívidas comuns, ou não.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+Dispensada a oitiva da agravada. A agravada, instada a manifestar-se, silenciou. sustenta que
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PENHORA NO ROSTO DOS AUTOS DE AÇÃO TRABALHISTA. ACÓRDÃO QUE AFASTA A NATUREZA ALIMENTAR DAS VERBAS RECEBIDAS PELO DEVEDOR . ALTERAÇÃO QUE DEMANDA ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Discute-se nos autos se, à luz do art. 833, IV, do CPC, é possível realizar penhora no rosto dos autos de percentual de crédito proveniente de ação trabalhista.
+2. O Tribunal de origem manteve a penhora, com base no fundamento de que as verbas discutidas na reclamatória trabalhista possuem natureza indenizatória, e deixou expressamente consignado que o caso concreto envolve indenização de passagens aéreas, indenização por contrato de leasing de automóvel, além de móveis e objetos domésticos, que não têm caráter alimentar.
+3. A alteração das conclusões a que chegou a instância ordinária quanto à natureza da verba penhorada e seu enquadramento como "indenizatória" demandaria o reexame do acervo fático-probatório dos autos, inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Discute-se nos autos se, à luz do art. 833, IV, do CPC, é possível realizar penhora no rosto dos autos de percentual de crédito proveniente de ação trabalhista.
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Inicialmente, afasto a apontada ofensa aos arts. 489 e 1.022 do CPC/2015, pois não se constatam omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos. O Colegiado originário apreciou a demanda de forma clara e precisa, deixando bem delineados os fundamentos dos julgados.
+É notório nesta Corte Superior que o juiz não fica obrigado a se ater aos argumentos indicados pelas partes nem a responder, uma a uma, a todas as suas alegações quando já encontrou motivo suficiente para embasar a decisão - o que de fato ocorreu.
+Na espécie, o Tribunal de origem manteve a penhora, com base no fundamento de que as verbas discutidas na reclamatória trabalhista possuem natureza indenizatória, e deixou expressamente consignado que o caso concreto envolve indenização de passagens aéreas, indenização por contrato de leasing de automóvel, além de móveis e objetos domésticos, que não têm caráter alimentar. Não se trata de verbas atuais que possam representar risco à subsistência da parte recorrente, senão vejamos pelo trecho que ora se transcreve, in verbis (fl. 131):
+9. Quanto à questão da impenhorabilidade do crédito a ser recebido pelo agravante, preconiza o artigo 833, IV, do Código de Processo Civil que os vencimentos, subsídios, salários, remunerações, proventos de aposentadoria, pensões, dentre outras quantias destinadas ao sustento do devedor e de sua família, são absolutamente impenhoráveis.
+Essa vedação legal tem por finalidade resguardar os direitos fundamentais do cidadão, assegurando-lhe o mínimo existencial, corolário lógico do princípio da dignidade da pessoa humana.10. No caso dos autos, entretanto, conforme se verifica de p. 4.475 dos autos originários, o crédito do recorrente diz respeito a (i) indenização por passagens áreas;(ii) indenização por contrato de leasing de automóvel;(iii) indenização por móveis e objetos domésticos e (iv) indenização por danos morais.
+Evidente, portanto, a ausência de natureza alimentar de tais verbas, uma vez que estas são destinadas a resguardar o mínimo existencial, como acima exposto.
+11. Tampouco há que se falar em afastamento da penhora, em observância ao princípio da menor onerosidade, em razão da constrição da tecnologia desenvolvida para a obtenção da certificação de salas seguras e salas-cofre, uma vez que esta penhora não recaiu sobre bem de propriedade do executado, que não pode se eximir da sua responsabilidade, alegando constrição de bem alheio.
+Alterar as conclusões a que chegou a instância ordinária quanto à natureza da verba penhorada e seu enquadramento como "indenizatória" demandaria o reexame do acervo fático-probatório dos autos, inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Segundo o entendimento firmado pela jurisprudência desta Corte, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Incidência da Súmula 83/STJ. Precedentes. 1.2 Derruir as conclusões do Tribunal local, no sentido de aferir a razoabilidade do percentual do salário penhorado, demandaria reanálise do acervo probatório. Incidência da Súmula 7/STJ. Precedentes.
+2. A incidência dos enunciados contidos nas Súmulas 07 e 83/STJ impede o exame exame do dissídio jurisprudencial na medida em que, além da falta identidade entre os paradigmas apresentados e os fundamentos que embasaram o acórdão recorrido, se a jurisprudência do STJ já se firmou no mesmo sentido do julgado hostilizado, não há conceber tenha ela contrariado o dispositivo de lei federal ou lhe negado vigência.
+3. Agravo interno desprovido" (AgInt no REsp n. 2.063.540/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. EXECUÇÃO. PENHORA DE CRÉDITO (HONORÁRIOS ADVOCATÍCIOS). RELATIVIZAÇÃO DA IMPENHORABILIDADE. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. É possível, excepcionalmente, a mitigação da impenhorabilidade prevista no artigo 833, inciso IV, do Código de Processo Civil - CPC/2015, desde que não haja prejuízo à subsistência digna da parte devedora e de sua família, consideradas as peculiaridades do caso e sempre orientando-se pelos princípios da proporcionalidade e da razoabilidade. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.969.114/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. EXECUÇÃO. PENHOrA DE CRÉDITO (HONORÁRIOS ADVOCATÍCIOS). RELATIVIZAÇÃO DA IMPENHORABILIDADE. POSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. É possível, excepcionalmente, a mitigação da impenhorabilidade prevista no artigo 833, inciso IV, do Código de Processo Civil - CPC/2015, desde que não haja prejuízo à subsistência digna da parte devedora e de sua família, consideradas as peculiaridades do caso e sempre orientando-se pelos princípios da proporcionalidade e da razoabilidade. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.969.114/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se).
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
