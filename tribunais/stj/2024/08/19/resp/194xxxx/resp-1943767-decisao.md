@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Santa Catarina, com fundamento no art. 105, III, "a", da CF, contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado (e-STJ fl. 233):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. SENTENÇA DE PROCEDÊNCIA. RECURSO DO MINISTÉRIO PÚBLICO. 1. ALEGAÇÃO DE QUE O IMÓVEL USUCAPIENDO ESTÁ EM DESACORDO COM O DISPOSTO NA LEGISLAÇÃO FEDERAL QUE TRATA DO PARCELAMENTO DO SOLO URBANO. IRRELEVÃNCIA. REQUISITOS DA AÇÃO DE USUCAPIÃO PREENCHIDOS. REGULARIDADE DO PARCELAMENTO DO SOLO QUE NÃO FIGURA COMO EXIGÊNCIA PARA AQUISIÇÃO ORIGINÁRIA DA PROPRIEDADE. SITUAÇÃO QUE NÃO OBSTA O RECONHECIMENTO DA ÁREA USUCAPIENDA. 2. APELO CONHECIDO E DESPROVIDO.
+"Inocorrendo má-fé do autor, a desobediência às normas de parcelamento do solo pela área usucapienda não obsta o usucapião, afastando-se a impossibilidade jurídica do pedido. 2. Descabe anotar qualquer restrição no registro imobiliário, porquanto o usucapião é modo originário de aquisição da propriedade que outorga o domínio sobre o imóvel de forma livre e desembaraçada de quaisquer gravames" (TJSC, Apelação Cível n. 2015.002371-2, de Garopaba, rel. Des. Monteiro Rocha, j. 12-3-2015).
+Os respectivos embargos de declaração foram rejeitados (e-STJ fls. 255/262).
+O recorrente alega violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, tendo em vista que o Tribunal de origem, no julgamento dos embargos de declaração, "deixou de sanar a omissão relativa à aplicabilidade do art. 18, caput, da Lei n. 6.766/79" (e-STJ fl. 277);
+(ii) art. 1.238, caput, do CC/2002 e art. 18, caput, da Lei n. 6.766/1979 no ponto em que se decidiu, no acórdão recorrido, que "eventual irregularidade do loteamento onde se encontra o imóvel, mesmo de ordem ambiental, não deve ser impeditivo para aquisição de propriedade" (e-STJ fl. 277). Entende que deve ser reconhecida "a impossibilidade de se usucapir área de terras situada em desmembramento irregular" (e-STJ fl. 281).
+Ao final, pede o provimento do recurso especial, "com fundamento na contrariedade ao art. 1.238, caput, do CC, e negativa de vigência ao art. 18, caput, da Lei n. 6.766/79, colimando a reforma do julgado proferido pela Corte de origem, para que se dê provimento à Apelação Cível manejada pelo Ministério Público, determinando-se, na espécie, a impossibilidade de se adquirir, por meio de usucapião extraordinário, o domínio de imóvel urbano inserido em loteamento irregular" (e-STJ fl. 283).
+Contrarrazões apresentadas (e-STJ fls. 269/283).
+O recurso foi admitido na origem.
+Parecer do Ministério Público Federal pelo não conhecimento ou desprovimento do recurso (e-STJ fls. 376/379).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Segundo o Tribunal de origem, "eventual irregularidade do loteamento onde se encontra o imóvel, mesmo de ordem ambiental, não deve ser impeditivo para aquisição da propriedade, principalmente no caso em estudo em que o imóvel está situado no bairro Centro do Município de Bombinhas, demonstrando a aquiescência do Poder Público municipal" (e-STJ fl. 240).
+No mesmo sentido, "a Segunda Seção desta Corte de Uniformização perfilha o entendimento de que a pendência do processo de regularização urbanística não impede a aquisição da propriedade por meio da usucapião.  .. . Embora a tese firmada no REsp n. 1.818.564/DF se refira aos imóveis situados no Setor Tradicional de Planaltina/DF, "o entendimento firmado pela Segunda Seção pode ser adotado em processos relativos a outras regiões, desde que se afigure possível a correta delimitação territorial do lote em discussão", como na espécie (AgInt nos EDcl no AREsp n. 1.814.300/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023)" (AgInt no REsp n. 2.107.480/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024). A propósito:
+RECURSO ESPECIAL CONTRA ACÓRDÃO PROFERIDO NO JULGAMENTO DE IRDR. USUCAPIÃO EXTRAORDINÁRIA. BEM IMÓVEL URBANO. ÁREA INTEGRANTE DE LOTEAMENTO IRREGULAR. SETOR TRADICIONAL DE PLANALTINA. PRESCRIÇÃO AQUISITIVA. FORMA ORIGINÁRIA DE AQUISIÇÃO DE PROPRIEDADE. POSSIBILIDADE DE REGISTRO. O RECONHECIMENTO DO DOMÍNIO DO IMÓVEL NÃO INTERFERE NA DIMENSÃO URBANÍSTICA DO USO DA PROPRIEDADE. INTERESSE DE AGIR CONFIGURADO. RECURSO DESPROVIDO.
+ ..
+2. A possibilidade de registro da sentença declaratória da usucapião não é pressuposto ao reconhecimento do direito material em testilha, o qual se funda, essencialmente, na posse ad usucapionem e no decurso do tempo.
+3. A prescrição aquisitiva é forma originária de aquisição da propriedade e a sentença judicial que a reconhece tem natureza eminentemente declaratória, mas também com carga constitutiva.
+4. Não se deve confundir o direito de propriedade declarado pela sentença proferida na ação de usucapião (dimensão jurídica) com a certificação e publicidade que emerge do registro (dimensão registrária) ou com a regularidade urbanística da ocupação levada a efeito (dimensão urbanística).
+5. O reconhecimento da usucapião não impede a implementação de políticas públicas de desenvolvimento urbano. Muito ao revés, constitui, em várias hipóteses, o primeiro passo para restabelecer a regularidade da urbanização.
+6. Impossível extinguir prematuramente as ações de usucapião relativas aos imóveis situados no Setor Tradicional de Planaltina com fundamento no art. 485, VI, do NCPC em razão de uma suposta ausência de interesse de agir ou falta de condição de procedibilidade da ação.
+7. Recurso especial não provido, mantida a tese jurídica fixada no acórdão recorrido: É cabível a aquisição de imóveis particulares situados no Setor Tradicional de Planaltina/DF, por usucapião, ainda que pendente o processo de regularização urbanística.
+(REsp n. 1.818.564/DF, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 9/6/2021, DJe de 3/8/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. AUSÊNCIA DE INTERESSE. INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+1. "É inadmissível a utilização da ação de usucapião para que a parte obtenha a individualização e o registro de fração de imóvel objeto de condomínio em loteamento irregular. .. " (AgInt nos EDcl no REsp 1.539.964/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/12/2019, DJe 12/12/2019).
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.645.248/SP, de minha relatoria, Quarta Turma, julgado em 16/11/2020, DJe de 20/11/2020.)
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
+ EMENTA
