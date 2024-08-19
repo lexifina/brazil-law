@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, conhecer parcialmente do recurso e, na parte conhecida, negar provimento , nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DELIBERAÇÃO UNIPESSOAL RECORRIDA ATINENTES À INCIDÊNCIA DA SÚMULA N. 284/STF E À DIVERGÊNCIA NÃO REFUTADOS NO PRESENTE RECURSO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+1. Os fundamentos da deliberação unipessoal recorrida atinentes à incidência da Súmula n. 284/STF e à não comprovação da divergência jurisprudencial não foram devidamente impugnados nas razões do presente agravo interno, de forma que não há como deles conhecer, nos moldes do disposto no art. 1.021, § 1º, do CPC/2015.
+2. A alteração das conclusões adotadas pela Corte de origem - quanto à ausência de excludente capaz de afastar a responsabilidade civil da agravante - demandaria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Viação União Ltda. contra decisão desta relatoria, assim ementada (e-STJ, fl. 715):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. ACIDENTE. PASSAGEIRO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA. AUSÊNCIA DE EXCLUDENTE DE ILICITUDE. ANÁLISE DOS ELEMENTOS PROBATÓRIOS SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante assevera a desproporcionalidade do valor arbitrado a título de danos morais, tendo em conta que não seguiu os parâmetros adotados pelo Tribunal de origem em casos semelhantes, o que caracterizaria omissão do julgado quanto aos critérios adotados.
+Sustenta a inaplicabilidade da Súmula n. 7/STJ, sob a alegação de que não há necessidade de revolvimento de matéria fático-probatória, e sim de nova qualificação jurídica das provas constantes dos autos.
+Sem impugnação ao recurso (fl. 740, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DELIBERAÇÃO UNIPESSOAL RECORRIDA ATINENTES À INCIDÊNCIA DA SÚMULA N. 284/STF E À DIVERGÊNCIA NÃO REFUTADOS NO PRESENTE RECURSO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+1. Os fundamentos da deliberação unipessoal recorrida atinentes à incidência da Súmula n. 284/STF e à não comprovação da divergência jurisprudencial não foram devidamente impugnados nas razões do presente agravo interno, de forma que não há como deles conhecer, nos moldes do disposto no art. 1.021, § 1º, do CPC/2015.
+2. A alteração das conclusões adotadas pela Corte de origem - quanto à ausência de excludente capaz de afastar a responsabilidade civil da agravante - demandaria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+VOTO
+A irresignação não merece prosperar.
+De início, tem-se que o agravo merece parcial conhecimento, porquanto a agravante nada disse sobre os fundamentos da deliberação unipessoal recorrida atinentes à incidência da Súmula n. 284/STF e à não comprovação da divergência jurisprudencial
+Desse modo, não há como conhecer de tais fundamentos neste agravo interno, porque não atendido o comando normativo disposto no art. 1.021, § 1º, do CPC/2015, que assim dispõe: "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. NULIDADE DA NFLD. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. MAJORAÇÃO DA VERBA HONORÁRIA. OBSERVÂNCIA DOS PARÂMETROS ELENCADOS NO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. O Agravo interno não impugna, específica e motivadamente, os fundamentos da decisão agravada, - mormente quanto ao fato de o acórdão recorrido encontrar-se no mesmo sentido da jurisprudência desta Corte - pelo que constituem óbices ao conhecimento do inconformismo, quanto ao ponto, a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EDcl no AREsp 1.712.233/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.745.481/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 01/03/2021; AgInt no AREsp 1.473.294/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/06/2020; AgInt no AREsp 1.077.966/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/10/2017; AgRg no AREsp 830.965/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe de 13/05/2016.
+III. Não se mostra equivocada a majoração dos honorários recursais, na medida em que, fundamentada no § 11 do art. 85 do CPC/2015, observou os limites estabelecidos nos §§ 2º e 3º do referido dispositivo legal.
+IV. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no REsp n. 1.857.492/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+De fato, conforme asseverado na decisão agravada, o Tribunal de Justiça do Estado do Rio de Janeiro soberano na análise dos elementos fáticos e probatórios dos autos, assim se manifestou (e-STJ, fls. 583-586):
+Inicialmente, é de se esclarecer que o caso é de responsabilidade objetiva do prestador de serviços. De todo pertinente salientar que a ré tem como atividade o transporte público, prestando, portanto, serviço público apontado no artigo 37, § 6º, da Constituição da República como ensejador da responsabilidade civil objetiva, que também possui fundamento no parágrafo único do artigo 927 do Código Civil.
+Para configuração da responsabilidade civil objetiva mister se faz verificar a ocorrência do dano e do nexo de causalidade com a conduta da parte ré. Tal responsabilidade poderá ser afastada em alguns casos específicos, quando ocorre rompimento do nexo causal, cabendo ao causador do ato ilícito o ônus da prova da excludente de sua responsabilidade.
+No que se refere à alegação da apelante de que não foi comprovada a condição de passageiro do autor, não lhe assiste razão. O registro de atendimento pré-hospitalar do Corpo de Bombeiros e o boletim de atendimento no Hospital Estadual Adão Pereira Nunes demonstram que o autor foi socorrido em decorrência de colisão entre automóvel e ônibus. Registre-se que, na contestação, a ré limitou-se a negar a condição de passageiro do autor, mas não impugnou especificamente os documentos acostados.
+Por sua vez, as testemunhas ouvidas em juízo afirmam claramente que o autor estava no coletivo quando ocorreu o acidente.
+Assim, não restam dúvidas a respeito da condição do autor de passageiro da empresa apelante, e da existência do fato que deu causa ao evento danoso.
+No caso concreto, a ré não logrou se desincumbir do ônus de comprovar a ocorrência de excludente de sua responsabilidade, já que não produziu qualquer prova de não ter concorrido para o evento danoso. Da mesma forma, não comprovou que houve culpa exclusiva de terceiro, eis que não demonstrou dinâmica diversa do relatado pelo autor e pelas testemunhas e do que consta no Registro de Ocorrência, que não apontou qualquer fato de terceiro no acidente.
+(..)
+Assim, não se verifica nenhuma excludente capaz de afastar a responsabilidade da recorrente no sinistro. É de se reconhecer a responsabilidade civil da empresa ré, devendo compensar o autor pelos danos causados.
+Nesse contexto, examinando as razões do aresto recorrido, depreende-se que as instâncias estaduais delinearam a controvérsia dentro do conjunto probatório dos autos.
+Sendo assim, para rever tal premissa, ao contrário do afirmado pela agravante, seria imprescindível o reexame de fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, conheço parcialmente do agravo interno e, na parte conhecida, nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
