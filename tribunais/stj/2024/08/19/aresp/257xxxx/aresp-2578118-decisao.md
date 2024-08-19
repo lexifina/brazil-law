@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NEUSA DE BRITO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, que inadmitiu o recurso especial manejado em face de acórdão assim ementado (fl. 861):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA -CONCURSO PÚBLICO - CONVOCAÇÃO EXCLUSIVAMENTE PELO DIÁRIO OFICIAL - PREVISÃO EXPRESSA NO EDITAL - ATO ADMINISTRATIVO PUBLICADO IMEDIATAMENTE APÓS A HOMOLOGAÇÃO DO RESULTADO FINAL - AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PUBLICIDADE - CANDIDATA QUE PERDEU O PRAZO PARA ENTREGA DOS DOCUMENTOS E POSSE - ILEGALIDADE DA CONDUTA ADMINISTRATIVA NÃO EVIDENCIADA - PRECEDENTES DO STJ - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+1. De acordo com o Superior Tribunal de Justiça, não se vislumbra desrespeito ao princípio da publicidade e da razoabilidade a convocação para posse em concurso público apenas por meio de publicação em diário oficial, quando realizada em curto período após a homologação do certame.
+2. Na hipótese, o ato convocatório foi publicado 02 (dois) dias úteis após a divulgação do resultado final do concurso, de modo que não há que se falar em ilegalidade do ato administrativo, por violação ao princípio da razoabilidade, tampouco em direito líquido e certo a ser amparado por meio de ação mandamental.
+Nas razões do recurso especial (fls. 914-929), interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, a parte agravante alega, além de divergência jurisprudencial, violação do art. 489, § 1º, incisos I, III e IV, e §§ 2º e 3º, do Código de Processo Civil, sustentando que:
+ ..  no writ impetrado não se discutiu apenas o lapso temporal entre a homologação do certame e a publicação (via edital) de convocação, mas sim a literalidade do teor do edital com PREVISÃO EXPRESSA DE CONVOCAÇÃO PESSOAL DO CANDIDATO ATRAVÉS DOS MEIOS DE CONTATOS FORNECIDOS NO MOMENTO DA INSCRIÇÃO, doravante, tal fato será demonstrado de forma precisa e pontual.
+ ..
+ ..  o acórdão recorrido, com a devida vênia ao posicionamento em sentido contrário, ATROPELOU os termos do edital, criando uma tese isolada, sem a devida observação sistemática imposta pelo ordenamento jurídico brasileiro. Como demonstrado no tópico 5 supra, foi levado em consideração apenas e tão somente o fato de que a convocação (por EDITAL) ocorreu em um curto espaço de tempo entre a homologação e a convocação.
+ ..
+ ..  tal como exposto na sentença e acórdão recorridos, resta a consignado no edital que a convocação ocorreria também via edital - frisa-se o "também", porque, de igual modo, está consignado de forma EXPRESSA no edital o dever do candidato manter seus dados cadastrais corretos de modo a possibilitar a efetiva convocação, sob pena de prejuízos.
+ ..
+Somado a manifesta ambiguidade, no curso da demanda restou demonstrado de forma documental o cumprimento dessa exigência contida na Cláusula 17.13 (manter os dados cadastrais, inclusive eletrônico, atualizados e corretos perante a banca organizadora/recorrida/impetrada) pela candidata recorrente, conforme ficha cadastral atualizada (id.44194983), fato este que sequer chegou a ser impugnado pela recorrida de forma direta, justamente pela impossibilidade de impugnar algo documentalmente comprovado.
+ ..
+Partindo dessas premissas, percebe-se que a principal tese ventilada na exordial deixou de ser apreciada, de modo que, em havendo duplicidade de interpretação no edital do certame, deve ser garantido ao candidato aquela que lhe é mais benéfica.
+Ao final, requer o provimento do recurso.
+Apresentadas contrarrazões (fls. 983-1010), o recurso foi inadmitido na origem (fls. 1.013-1.017).
+É o relatório.
+Decido.
+Preenchidos os pressupostos para o conhecimento do agravo, prossegue-se na análise do recurso especial.
+A irresignação não merece prosperar.
+De início, quanto à alegada afronta do art. 489 do CPC, de acordo com o entendimento fixado na jurisprudência desta Corte Superior, a mera menção a dispositivos legais, sem que haja clara e precisa fundamentação apta a demonstrar de que maneira o acórdão recorrido os tenha contrariado, tal como ocorre na hipótese dos autos, configura deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REVISÃO DO VALOR DO ALUGUEL. PRAZO LEGAL OBSERVADO. PRECEDENTES. LAUDO PERICIAL. VALOR LOCATIVO. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O recurso especial é reclamo de natureza vinculada e, dessa forma, para o seu cabimento, é imprescindível que a parte recorrente demonstre, de forma clara e objetiva, de que modo o acórdão recorrido teria contrariado os dispositivos apontados como violados, sob pena de inadmissão, atraindo o óbice da Súmula 284 do STF.
+ ..
+6. Agravo interno improvido. (AgInt no AREsp n. 1.864.640/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 04/03/2024, DJe 08/03/2024).
+No que diz respeito à alegada divergência jurisprudencial, verifica-se que a parte recorrente não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos do acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal.
+Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c do permissivo constitucional. A esse respeito: AgInt no AREsp n. 2.388.423/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no REsp n. 2.082.599/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ademais, as razões do recurso especial não indicaram o dispositivo de lei federal cuja interpretação seria controvertida entre tribunais diversos, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência, mais uma vez, da Súmula n. 284 do STF.
+A esse respeito: AgInt nos EDcl no AREsp n. 2.165.721/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023; AgInt no AREsp n. 2.087.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea a, do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários advocatícios, consoante o art. 25 da Lei n. 12.016/2009 e as Súmulas n. 512/STF e n. 105/STJ.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CONVOCAÇÃO. DIÁRIO OFICIAL. PERDA DO PRAZO. INDICAÇÃO GENÉRICA DOS DISPOSITIVOS CONSIDERADOS VIOLADOS. SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
