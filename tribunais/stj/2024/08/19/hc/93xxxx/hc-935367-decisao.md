@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de DIOGO MIGUEL SANTOS SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento da Apelação Criminal n. 1528288-44.20218.26.0228.
+Extrai-se dos autos que o paciente foi condenado pela prática dos delitos tipificados nos arts. 157, § 2º, inc. II e § 2º-A, inciso I (por duas vezes), c/c art. 70, caput, e 307, todos do Código Penal, e no art. 309 da Lei n. 9.503/97, todos em concurso material, à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, e pagamento de 18 dias-multa, para o crime de roubo majorado; 3 meses de detenção para o delito de falsa identidade, e 6 meses de detenção para o crime tipificado no Código de Trânsito Brasileiro, esses dois últimos a serem cumpridos no regime inicial semiaberto.
+Inconformada, a defesa interpôs apelação, a qual o Tribunal de origem negou provimento, nos termos do acórdão de fls. 55/64.
+No presente writ, a defesa sustenta que não teria sido apresentada fundamentação idônea para a fixação do regime mais gravoso, porquanto baseada na gravidade abstrata do delito.
+Ressalta que o paciente faz jus ao modo prisional intermediário, considerando que a pena base foi fixada no mínimo legal e a reprimenda imposta não excede 8 anos.
+Requer, liminarmente e no mérito, a fixação do regime semiaberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O presente writ comporta julgamento antecipado.
+Na espécie, a Corte local explicitou a necessidade da aplicação de regime mais gravoso com base na gravidade da conduta, evidenciada pelas circunstâncias do fato, nos seguintes termos:
+"O regime prisional fechado é o apropriado para o início de cumprimento da pena privativa de liberdade, dados os contornos de gravidade diferenciada do crime de roubo praticado em comparsaria e mediante emprego de arma de fogo, que desencadeia nas vítimas maior temor, inclusive no que se refere à integridade física e à vida, pelo que o regime prisional mais adequado como resposta penal para o autor só pode ser o fechado, não alcançando os regimes menos gravosos a finalidade retributiva e intimidativa que é o desiderato da pena" (fls. 63/64).
+Nessa conjuntura, a despeito do quantum de pena fixado na condenação, não se evidencia carência de motivação na adoção do regime fechado. Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE. ROUBO MAJORADO. VIOLAÇÃO AO DISPOSTO NO ART. 155 DO CÓDIGO DE PROCESSO PENAL. NÃO OCORRÊNCIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. INOVAÇÃO RECURSAL E SÚMULA N. 231/STJ. REGIME PRISIONAL FECHADO. JUSTIFICATIVA IDÔNEA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Hipótese em que o Tribunal local consignou que a condenação do agravante não foi fundamentada tão somente no depoimento da vítima não confirmado em Juízo, mas também na confissão extrajudicial dos réus e no depoimento dos policiais colhidos em juízo, em que os militares relataram que, acompanhados da vítima, realizaram buscas nas redondezas do local do crime, logrando encontrar os réus ainda na posse da res furtivae. Inexistência de violação ao disposto no art. 155 do Código de Processo Penal.
+2. O pedido de reconhecimento da atenuante da confissão espontânea, além de configurar indevida inovação recursal, esbarra no óbice da Súmula n. 231/STJ.
+3. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu, a eventual existência de circunstâncias judiciais desfavoráveis e, na esteira da jurisprudência desta Corte Superior, eventuais elementos fáticos demonstrativos da maior gravidade do delito. Na espécie, justificou-se a imposição do regime mais gravoso pelas circunstâncias em que ocorrido o crime, mediante o concurso de três agentes e emprego de arma de fogo, não havendo ilegalidade a ser reconhecida.
+4. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido.
+(AgRg no HC n. 893.015/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 20/6/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. REGIME INICIAL FECHADO. POSSIBILIDADE. MODUS OPERANDI. ILEGALIDADE NÃO EVIDENCIADA. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+III - O Tribunal de origem bem fundamentou a fixação do regime mais gravoso, ante a periculosidade dos pacientes, evidenciada pelo modus operandi empregado na execução do crime, vale dizer, "mediante o emprego de arma de fogo e concurso de três agentes, que se evadiram na posse do veículo subtraído. Destaca-se que um dos roubadores logrou êxito em fugir da perseguição policial e a arma de fogo apreendida estava municiada".Agravo regimental desprovido.
+(AgRg no HC n. 782.917/RJ, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 28/4/2023 ).
+Não se desincumbindo o impetrante da demonstração de patente teratologia ou manifesto constrangimento ilegal no caso concreto, de rigor o indeferimento da inicial.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
