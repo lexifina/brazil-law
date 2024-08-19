@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2.  Agravo  interno  não  conhecido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  pela UNIÃO contra  decisão  que  não conheceu do agravo em recurso especial.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  impugnou, especificamente, os óbices apontados, a saber, a violação ao art. 1.022 do CPC/2015 e a incidência da Súmula 83 dessa Corte Superior. Sobre o art. 1022, a União apontou, de forma específica, sua violação porquanto o tribunal local confundiu o erro operacional e o erro interpretativo, aplicando equivocadamente o art. 46 da Lei n. 8.112/90 (fl. 526).
+Alega que, "quanto à incidência da súmula 83/STJ, a União ofereceu as razões pelas quais entende que a referida súmula deveria ser afastada, pois a jurisprudência desse STJ não estaria firmada sobre o tema" (fl. 527).
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015; E SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Nos termos do art. 1.021, § 1º, do CPC/2015; e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2.  Agravo  interno  não  conhecido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  O agravo interno não merece conhecimento, porquanto não fora observado o princípio da dialeticidade recursal.
+Conforme dispõe o § 1º do art. 1.021 do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Segundo a decisão ora agravada, a parte agravante deixou de impugnar especificamente o fundamento da decisão de inadmissão do recurso especial, notadamente, em relação a inexistência de violação ao art. 1.022 do CPC; e a incidência da Súmula 83 do STJ.
+No presente agravo interno, a recorrente reprisa as razões do seu agravo em recuso especial, alegando, que  houve  impugnação  específica  à  fundamentação  da decisão ora agravada.
+Deveria a parte agravante ter demonstrado, de forma clara e fundamentada, que impugnara especificamente todos os fundamentos da decisão que inadmitiu o recurso especial, o que não o fez, ensejando, dessa vez, a aplicação direta do enunciado sumular 182 do STJ.
+A propósito:
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO DOS TERMOS DO PEDIDO ORIGINÁRIO. AGRAVO NÃO CONHECIDO.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. O princípio da dialeticidade recursal impõe à parte agravante o dever de impugnar de forma clara, objetiva e concreta os fundamentos da decisão agravada de modo a demonstrar o desacerto do julgado.
+3. Agravo interno não conhecido (AgInt na SS 3.430/MA, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 15/9/2023).
+Portanto, conforme jurisprudência desta Corte, à luz do que dispõem o art. 1.021, § 1º, do CPC/2015; e a Súmula 182/STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada
+Isso posto, não conheço do recurso.
