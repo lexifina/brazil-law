@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1.Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 77):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
+O agravante alega que não é caso de incidir a Súmula 282/STF, ao argumento de que ocorreu o prequestionamento ficto sobre os artigos 1º e 2º da Lei n. 8.213/1991, uma vez que "demonstrou que houve o prequestionamento a esses artigos que, embora não expressamente citados na decisão recorrida a questão de fundo que é o princípio da irredutibilidade do valor dos benefícios previdenciários foi debatida na decisão recorrida" (fl. 90).
+Refere a inaplicabilidade da Súmula 284/STF. Para tanto, aduz na fl, 94 que:
+ ..  demonstrou o porquê houve violação ao art. 2º da Lei 8.213/91. A citada lei, como dito, determina que seja observado o valor real dos benefícios.
+Ora, ausência da aplicação da SELIC na forma disposta no art. 3º da EC 113/2021 implica em grave violação a esses dispositivos de lei, já que o benefício foi pago em atraso pelo INSS sem a correção monetária devida e prevista legalmente. Fere, acima de tudo, o princípio da legalidade, visto que há previsão de qual índice de correção monetária deveria ter sido aplicado no caso.
+Além disso, a parte agravante refutou os fundamentos do acórdão e que já teria sido aplicada a correção monetária. Explicou-se que a parte não pretende a incidência de juros no período de graça (como entendeu a decisão guerreada), mas a aplicação da SELIC, que abarca correção monetária e juros, como previsto no art. 3º, da EC 113/2021.
+Dessa forma, tem-se que a controvérsia é perfeitamente assimilável, visto que a discussão gira em torno da correção monetária aplicada no precatório que deixou de observar a SELIC, em clara violação ao princípio da legalidade.
+Por fim, impugna a incidência da Súmula 283/STF, ao argumento de que "explicou-se que a ausência da aplicação da SELIC na forma disposta no art. 3º da EC 113/2021 implica em grave violação a esses dispositivos de lei, que salvaguardam o princípio da irredutibilidade do valor dos benefícios, além de ofensa constitucional-razão pela qual também apresentou recurso extraordinário" (fl. 95).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1.Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+3. Incide a Súmula 284/STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+4. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 282/STF.
+Ocorre que o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se manifestou a respeito dos artigos 1º e 2º da Lei n. 8.213/1991 e tampouco acerca da tese associada a estes artigos que fora indicada no recurso especial, o que denota a falta de pronunciamento ou prequestionamento sobre a controvérsia suscitada.
+Convém anotar que esta Corte Superior tem entendido que o acolhimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+Esclareça-se, por oportuno, que não há, nas razões recursais, alegação idônea de ofensa ao art. 1.022 do CPC, que poderia ensejar eventual negativa de prestação jurisdicional pela Corte de origem.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que justifica a manutenção do não conhecimento do recurso especial com fundamento na Súmula 282/STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE (AFRMM). ATO NORMATIVO INFRALEGAL. EXAME. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. É cediço que a via especial não é meio adequado para apreciar acórdão com fundamento em norma infralegal, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal.
+2. Consoante enuncia as Súmulas 282 e 356 do STF, não se conhece de recurso especial quando não prequestionado o dispositivo de lei federal tido por violado.
+3. Esta Corte tem entendido que o acolhimento do prequestionamento ficto, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, o que não ocorreu no caso.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.110.916/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024.) (Grifei).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A CAPÍTULO AUTÔNOMO. NÃO INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. TESE RECURSAL INDICADA SOMENTE NOS EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. INOVAÇÃO RECURSAL. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DA OFENSA AO ART. 1.022 DO CPC. INVIABILIDADE DE CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO DO QUAL NÃO SE CONHECEU. MAJORAÇÃO DOS HONORÁRIOS EM AGRAVO INTERNO. IMPOSSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ NÃO RECONHECIDA. PROVIMENTO NEGADO.
+1. A Corte Especial do Superior Tribunal de Justiça (STJ), no julgamento dos EREsp 1.424.404/SP (relator Ministro Luis Felipe Salomão), fixou o entendimento de que não se aplica a Súmula 182/STJ no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+2. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282 do Supremo Tribunal Federal (STF).
+3. Incide a Súmula 211/STJ, pois ausente o prequestionamento, sobre a tese que foi objeto somente dos embargos de declaração opostos na origem, em indevida inovação recursal.
+4. A jurisprudência desta Corte Superior é no sentido de que o reconhecimento do prequestionamento ficto exige que no recurso especial se tenha alegado a ocorrência de violação do art. 1.022 do Código de Processo Civil (CPC), possibilitando verificar a omissão do Tribunal de origem quanto à apreciação da matéria de direito de lei federal controvertida, o que não ocorreu na espécie.
+5. O não conhecimento do recurso especial inviabiliza a concessão de efeito suspensivo.
+6. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+7. A jurisprudência desta Corte Superior é no sentido de que, quando a parte interpõe o recurso legalmente previsto no ordenamento jurídico, sem abusar do direito de recorrer, não devem ser aplicadas as multas por litigância de má-fé, porquanto não verificada afronta ou descaso com o Poder Judiciário.
+8. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.108.869/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 29/4/2024, DJe de 3/5/2024.) (Grifei).
+A parte agravante sustenta que tampouco seria hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que, além de não estarem prequestionados os normativos indicados como vulnerados, não é possível extrair-se dos mesmos a pretensão do recorrente, haja vista que não possuem o comando normativo deduzido pelo recorrente, não sendo capaz de infirmar os fundamentos do acórdão recorrido, que assim decidiu (fl. e-STJ, 47):
+Não se ignora que a EC. 113 prevê a utilização da taxa SELIC a partir de dezembro de 2021.
+No entanto, ela não poderá ser utilizada no chamado período de graça, ou seja, naquele período em que houve o pagamento pois não houve a caracterização da mora. Quando os índices se acumulam, após esse período, daí se calcula o IPCA-E até um ponto, SELIC a partir de então, e depois e somam os dois valores, porquanto sobre o valor apurado com o IPCA-E (e juros) não pode incidir SELIC.
+Acaso o ofício requisitório fosse pago em 2024, por exemplo, havendo mora em seu pagamento, daí se somaria a SELIC quando do pagamento, ao período do IPCA-E. Todavia, não é este o caso dos autos.
+Firmadas estas premissas, não verifico razões para modificar o julgado, razão pela qual, mantenho integralmente a decisão proferida. (grifei).
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por fim, não se verifica argumentação suficiente contra a fundamentação supra citada contida no acórdão recorrido, qual seja, a de que a taxa SELIC "não poderá ser utilizada no chamado período de graça, ou seja, naquele período em que houve o pagamento pois não houve a caracterização da mora. Quando os índices se acumulam, após esse período, daí se calcula o IPCA-E até um ponto, SELIC a partir de então, e depois e somam os dois valores, porquanto sobre o valor apurado com o IPCA-E (e juros) não pode incidir SELIC" (fl. e-STJ, 47).
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, é caso de não conhecimento do recurso especial com fundamento na Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
