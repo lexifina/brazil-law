@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 13/08/2024 a 19/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", o que não ocorreu na espécie.
+2. No caso em exame, o acórdão embargado, fundamentadamente, negou provimento ao agravo interno, concluindo que "o ato de concessão da aposentadoria, no qual ficou indicado expressamente a forma de cálculo dos proventos do servidor, é concreto e de efeitos permanentes. Portanto, a data da publicação do referido ato consiste no termo inicial para a pretensão de sua revisão".
+3. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por HILDECIO ANTONIO MEIRELES FILHO contra o acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que se encontra assim ementado (fl. 397) :
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REVISÃO DOS PROVENTOS DE APOSENTADORIA. NÃO INCLUSÃO DE VANTAGENS A QUE ENTENDE FAZER JUS. ATO COMISSIVO ÚNICO DE EFEITOS PERMANENTES. DECADÊNCIA CONFIGURADA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, trata-se de mandado de segurança impetrado contra "ato omissivo do SECRETÁRIO DE ADMINISTRAÇÃO DO ESTADO DA BAHIA, objetivando "reconhecimento do direito de que possui referente à extensão do PDF - Prêmio por Desempenho Fazendário Municipal - aos proventos de sua aposentadoria".
+2. O Tribunal de origem declarou a decadência, mediante o fundamento de que "o ato impugnado foi publicado em 01.04.2015, ao passo que o ajuizamento desta ação mandamental somente se deu em 07.05.2020, ou seja, mais de 05 (cinco) anos depois, em flagrante desatenção ao prazo de 120 (cento e vinte) dias fixado pelo art. 23, da Lei nº 12.016/2009, impondo-se, nas circunstâncias, a proclamação da decadência".
+3. Nesta Corte, decisão negando provimento ao recurso ordinário, posteriormente reconsiderada para dar provimento ao recurso. Nova decisão acolhendo o agravo interno interposto pelo Estado da Bahia, para negar provimento ao recurso.
+4. Esta Corte tem entendimento firmado no sentido de que "o ato de aposentadoria é comissivo com efeitos permanentes, razão pela qual a fluência do prazo decadencial para impetração do mandamus tem início a partir da ciência do ato impugnado, não havendo que falar em relação de trato sucessivo" (AgInt no RMS n. 58.458/GO, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 3/10/2022).
+5. Agravo interno desprovido.
+O Embargante alega que houve omissão no julgado, em relação ao seguinte ponto:
+ ..
+a não consideração de que o Prêmio por Desempenho Fazendário -PDF -, vantagem objeto do mandamusera paga pelo Estado da Bahia na condição de verba indenizatória, não havendo que se falar, portanto, em ato comissivo consubstanciado na Portaria de Aposentadoria, uma vez que o referido ato administrativo não indeferiu - efetivamente - nenhuma verba expressamente. (fl. 402)
+Por fim, requer o acolhimento dos embargos declaratórios.
+Impugnação da parte embargada, pela rejeição dos declaratórios (fls. 412-415).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material", o que não ocorreu na espécie.
+2. No caso em exame, o acórdão embargado, fundamentadamente, negou provimento ao agravo interno, concluindo que "o ato de concessão da aposentadoria, no qual ficou indicado expressamente a forma de cálculo dos proventos do servidor, é concreto e de efeitos permanentes. Portanto, a data da publicação do referido ato consiste no termo inicial para a pretensão de sua revisão".
+3. O Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+5. Embargos de declaração rejeitados.
+VOTO
+De início, nos termos do art. 1.022 do CPC vigente, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+No caso, verifica-se que o acórdão embargado, fundamentadamente, negou provimento ao Agravo interno, consignando que:
+ E sta Corte tem entendimento firmado no sentido de que "o ato de aposentadoria é comissivo com efeitos permanentes, razão pela qual a fluência do prazo decadencial para impetração do mandamustem início a partir da ciência do ato impugnado, não havendo que falar em relação de trato sucessivo (AgInt no RMS n. 58.458/GO, rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 3/10/2022) (fls. 390-391).
+Além disso, conclui-se que "o ato de concessão da aposentadoria, no qual ficou indicado expressamente a forma de cálculo dos proventos do servidor, é concreto e de efeitos permanentes. Portanto, a data da publicação do referido ato consiste no termo inicial para a pretensão de sua revisão" (fl. 392).
+Assim, ao contrário do alegado pelo impetrante, ora embargante, o ato apontado como coator consubstancia na portaria de aposentadoria que, em tese, deixou de computar, na base de cálculo dos proventos de sua aposentadoria, os valores percebidos a título de prêmio por desempenho fazendário - PDF.
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1. 022 do CPC/2015.
+Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Diante desse contexto, observa-se que não há qualquer omissão, contradição, obscuridade ou erro material perpetrado pelo acórdão embargado.
+Em verdade, verifica-se que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. COBRANÇA PRATICADA COM BASE NA TABELA TUNEP/IVR. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+ ..
+II - Os embargos não merecem acolhimento. Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp n. 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp n. 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp n. 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida." EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+V - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+ ..
+VII - Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VIII - Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.313.544/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023; sem grifos no original.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O AUXÍLIO DE QUEBRA DE CAIXA. ACÓRDÃO EMBARGADO EMBASADO NA ORIENTAÇÃO CONSOLIDADA NESTE SUPERIOR TRIBUNAL ACERCA DA MATÉRIA. AUSÊNCIA DE OMISSÃO.
+ ..
+II - Revela-se incabível falar em omissão ou deficiência de fundamentação no acórdão apoiado na orientação consolidada neste Superior Tribunal, pois tal consolidação é resultante da interpretação dos dispositivos legais pertinentes à matéria. Precedentes.
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+IV - Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp n. 2.017.428/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/6/2023, DJe de 21/6/2023; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
