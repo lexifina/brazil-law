@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por ADAO HENRIQUE PEREIRA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Recorrente teve decretada a sua prisão preventiva, ao ser condenado à pena de 13 (treze) anos de reclusão, em regime inicial fechado, pela prática, em tese, do crime tipificado no artigo 121, § 2º, incisos II e IV, c/c art. 61, inciso II, alínea c, ambos do CP, após ser submetido a julgamento pelo conselho de sentença.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão cautelar, consignando que  " ..  HABEAS CORPUS-HOMICÍDIO QUALIFICADO -PRISÃO PREVENTIVA DECRETADA NA SENTENÇA CONDENATÓRIA -DECISÃO FUNDAMENTADA -PRESENÇA DOS PRESSUPOSTOS DO ART. 312 DO CPP -GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL -APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO -INADEQUAÇÃO -CONDIÇÕES PESSOAIS FAVORÁVEIS -INSUFICIÊNCIA -AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. 1. Não há que se falar em constrangimento ilegal quando a r. Sentença Penal nega o direito de recorrer em liberdade com fulcro na garantia da ordem pública, nos termos do estatuído no art. 312 do Código de Processo Penal. 2. A prisão preventiva se justifica pela presença dos requisitos do art. 312 do Código de Processo Penal, além da aplicação do art. 313, inc. I, do mesmo Diploma Legal, já que o delito de homicídio qualificado é doloso e punido com pena privativa de liberdade máxima superior a quatro (04) anos. 3. Nos termos do que dispõe o art. 282, inc. II, do CPP, apenas se torna possível promover a imposição de medidas cautelares diversas da prisão preventiva quando o benefício se revelar suficiente e adequado para resguardar a ordem pública, garantir os atos instrutórios do processo ou assegurar a aplicação da Lei Penal. 4. A existência de condições pessoais favoráveis, por si só, não é suficiente para autorizar a concessão da liberdade provisória, já que tais condições devem ser analisadas diante do contexto dos autos.  .. "  (fl. 949); conforme acórdão de fls. 949-968. Na hipótese, a Defesa, neste Recurso Ordinário Constitucional, alega constrangimento ilegal e falta de fundamentação à manutenção da prisão.
+Aduz que:
+" ..  não havendo fato novo após a soltura a justificar uma prisão cautelar, tendo o recorrente enquanto em liberdade comparecido a todos os atos do processo e não havendo contemporaneidade da alegada ofensa à ordem pública, a prisão preventiva é ilegal, sendo o acórdão vergastado uma ofensa aos requisitos da prisão preventiva.  ..  " (fl. 980)
+O recorrente requer o provimento do recurso, com a concessão da ordem liminarmente, e, no mérito, por conseguinte, a expedição do pertinente alvará de soltura.
+Liminar indeferida, às fls. 988-990.
+Informações prestadas às fls. 996-998 e 999-1000.
+O Ministério Público Federal, às fls. 1005-1013, em parecer, manifestou-se pelo não provimento do recurso , assim ementado:
+"RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. RECORRER EM LIBERDADE. MANTIDOS OSFUNDAMENTOS DA SEGREGAÇÃO. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Presentes os requisitos da prisão preventiva, resta incabível, pois, o direito de o Paciente apelar da condenação em liberdade;
+2. Parecer pelo não provimento da pretensão recursal." (fl. 1005)
+É o relatório. DEC IDO.
+O habeas corpus está prejudicado.
+Pois, conforme consta nas informações disponibilizadas no sítio da Corte de origem -TJ/MG-, na data de hoje, foi proferida sentença, em 13/04/2024, com a condenação do Recorrente, logo, há um novo título judicial que deva ser desafiado por meio judicial próprio.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, XI, do RISTJ, julgo o presente recurso ordinário em habeas corpus prejudicado.
+Publique-se. Intimem-se.
+ EMENTA
