@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCELO SOARES CORREA opõe embargos declaratórios contra o acórdão de fls. 346-354, por meio do qual a Sexta Turma negou provimento ao agravo regimental e manteve a prisão preventiva do acusado.
+A defesa aponta omissão no julgado, consistente na ausência de análise do laudo de exame psiquiátrico do réu. Afirma que o documento "revela importantes conclusões sobre o estado de saúde mental de MARCELO, que sob a ótica da defesa, são conclusões médicas idôneas e suficientes para possibilitar a substituição da cautelar extrema pela internação provisória em clínica psiquiátrica particular" (fl. 364).
+Requer, ao fim, seja sanado o vício apontado.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. RESISTÊNCIA. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR INTERNAÇÃO PROVISÓRIA. NÃO COMPROVAÇÃO DA INIMPUTABILIDADE DO RÉU. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são destinados a sanar omissão, ambiguidade, contradição ou obscuridade no julgado. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu convencimento.
+2. No caso, o acórdão embargado não é omisso, uma vez que foi expresso em afirmar que, segundo as instâncias ordinárias, não há provas da inimputabilidade ou da semi-imputabilidade do réu, nem da impossibilidade de o presídio fornecer eventual tratamento a ele. O laudo de exame psiquiátrico do réu reforça essa conclusão.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+O ora embargante é acusado da prática de tentativa de homicídio qualificado e resistência e teve sua prisão preventiva decretada para a garantia da ordem pública. Segundo as instâncias de origem, o crime imputado ao agente se reveste de especial gravidade, conclusão extraída do modus operandi empregado - fundamentação considerada idônea no acórdão embargado.
+O réu haveria invadido um condomínio residencial, investido o veículo que dirigia contra a moto do segurança que o seguiu, derrubando-o. Ato contínuo, haveria apontado para a cabeça do homem a arma de fogo que lhe tomou depois da queda. Em seguida, um morador, que é policial, se identificou e deu ordem de parada ao acusado, que, no entanto, haveria desferido disparos de arma de fogo contra o agente público e fugido de carro.
+No tocante ao pleito defensivo de substituição da medida extrema por internação provisória, o acórdão consignou o seguinte: "Na espécie, as instâncias ordinárias consignaram não haver provas da inimputabilidade ou da semi-imputabilidade do réu, nem da impossibilidade de o presídio fornecer eventual tratamento a ele. Assim, para infirmar a conclusão das instâncias ordinárias, seria necessária dilação probatória, providência incompatível com a via eleita" (fl. 353, grifei).
+A parte juntou aos autos laudo de exame psiquiátrico realizado no âmbito de incidente de insanidade mental. O conteúdo do documento não foi previamente examinado pelos juízos antecedentes, de modo que não se pode constatar, diretamente nesta Corte Superior, a existência de constrangimento ilegal com base no referido laudo pericial.
+De toda forma, a um primeiro olhar, as conclusões do acórdão embargado estão em consonância com o documento, que não afirmou ser o réu inimputável ou semi-imputável na data dos fatos. Além disso, a perícia concluiu o seguinte (fl. 303, destaquei):
+Nesta perícia, o exame clínico do estado mental não evidenciava alterações significativas, sendo passível de tratamento multidisciplinar (psiquiatra, psicólogo, assistente social e terapeuta ocupacional) continuado, no momento em nível ambulatorial. O tratamento ambulatorial poderá ser prestado no ambiente prisional onde ora se encontra recolhido, caso o cumprimento da sentença se dê inicialmente em regime fechado.
+Desse modo, subsistem as conclusões do acórdão de fls. 346-354, de que não há provas sobre a inimputabilidade ou da semi-imputabilidade do agente. Além disso, caso necessário, eventual tratamento pode ser fornecido no estabelecimento prisional em que ele está custodiado.
+À vista do exposto, rejeito os embargos de declaração.
