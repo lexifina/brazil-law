@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/08/2024 a 20/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO NA RECLAMAÇÃO. AUSÊNCIA DE OMISSÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. PRECEDENTES DO STJ. EMBARGOS NÃO PROVIDOS.
+1. Nos termos do art. 1022 do CPC, os embargos de declaração visam a corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2 . A decisão impugnada apresentou todos os fundamentos de forma clara e em conformidade com a legislação e a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, resolvendo a questão de maneira detalhada e congruente.
+3. A ausência do termo "ação de natureza constitucional" no julgado, portanto, não representa omissão, porquanto analisada a contento a verdadeira questão apreciada no Acórdão: a possibilidade de condenação da parte sucumbente em honorários na Reclamação, que, repita-se, tem índole constitucional indiscutível.
+5. Embargos de Declaração não providos.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos pelo Estado do Paraná contra acórdão prolatado pela Primeira Seção, em sede de Agravo Interno, que se encontra assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. IAC 14 DO STJ. DESCUMPRIMENTO. MANUTENÇÃO DOS AUTOS NA JUSTIÇA ESTADUAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão que julgou procedente a presente Reclamação, para cassar a decisão reclamada e determinar que o Juízo reclamado cumpra a decisão proferida no IAC 14/STJ, condenando o Estado do Paraná ao pagamento de honorários advocatícios sucumbenciais.
+II. No presente Agravo interno, a parte agravante defende que "não é possível a fixação de honorários advocatícios em reclamação, tendo em vista a natureza constitucional da ação, que busca garantir a autoridade dos julgados desta Corte".
+III. Na forma da jurisprudência do STJ, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis honorários sucumbenciais para as Reclamações ajuizadas na vigência do Código de Processo Civil de 2015 (STJ, EDcl na Rcl 39.884/AL, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 30/11/2022). No mesmo sentido: STJ, AgInt nos EDcl na Rcl 41.149/PE, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/09/2022; AgInt no REsp 2.017.139/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/05/2023.
+IV. Agravo interno não provido.
+O Embargante alega omissão no julgado, sob o argumento de que não teria sido analisada a natureza constitucional da ação, a qual repeliria a fixação de honorários advocatícios (fls. 225-227). Impugnação da Embargada (fls. 233-235), requerendo rejeição dos Embargos. O Ministério Público Federal e a Advocacia-Geral da União, devidamente intimados (fl. 236-237), não se manifestaram.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO NA RECLAMAÇÃO. AUSÊNCIA DE OMISSÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. PRECEDENTES DO STJ. EMBARGOS NÃO PROVIDOS.
+1. Nos termos do art. 1022 do CPC, os embargos de declaração visam a corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2 . A decisão impugnada apresentou todos os fundamentos de forma clara e em conformidade com a legislação e a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, resolvendo a questão de maneira detalhada e congruente.
+3. A ausência do termo "ação de natureza constitucional" no julgado, portanto, não representa omissão, porquanto analisada a contento a verdadeira questão apreciada no Acórdão: a possibilidade de condenação da parte sucumbente em honorários na Reclamação, que, repita-se, tem índole constitucional indiscutível.
+5. Embargos de Declaração não providos.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados na decisão.
+A Decisão impugnada resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nela plasmado, bem como em harmonia e conformidade com a legislação de regência e com o atual entendimento jurisprudencial deste Tribunal Superior.
+Com efeito, houve detalhamento minucioso de todas as questões apresentadas nos autos, de maneira que o Embargante busca questionar novamente, sem novos elementos, a correção da decisão que, seguindo a orientação desta Corte e também do Supremo Tribunal Federal, condenou-o no pagamento de honorários sucumbenciais à reclamante.
+A propósito, o Embargante sequer indicou dispositivos, constitucionais ou não, nem desenvolveu argumentos que sustentassem a alegada omissão.
+A índole constitucional da Reclamação decorre do permissivo contido no art. 105, I, "f", da Constituição, o que não afasta sua natureza de ação - termo usado pelo próprio Embargante -, assim configurada sempre que se aperfeiçoa a relação processual, como ocorrido nestes autos.
+A ausência do termo "ação de natureza constitucional" no julgado, portanto, não representa omissão, porquanto analisada a contento a verdadeira questão apreciada no Acórdão: a possibilidade de condenação da parte sucumbente em honorários na Reclamação, que, repita-se, tem índole constitucional indiscutível.
+A natureza de ação atribuída à Reclamação, outrora controvertida até mesmo no Supremo Tribunal Federal (e.g., julgados em sentidos contraditórios: ADI 2.212/CE, Pleno, Rel. Min. Ellen Gracie, DJ 14/11/2003, e RE 405.031/AL, Pleno, Rel. Min. Marco Aurélio, DJ 17/4/2009), pacificou-se com o advento do Código de Processo Civil de 2015, afastando-se entendimentos anteriores no sentido de que se trataria de mera petição, recurso ou incidente processual.
+Por conseguinte, são cabíveis honorários sucumbenciais, desde que aperfeiçoada a relação processual. Nesse sentido tem decidido esta Primeira Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMACÃO. RELAÇÃO PROCESSUAL CONCRETIZADA. CABIMENTO DE HONORÁRIOS. PRECEDENTES. PROVIMENTO NEGADO.
+1. O entendimento jurisprudencial deste Superior Tribunal é no sentido de que, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis honorários sucumbenciais para as reclamações ajuizadas na vigência do Código de Processo Civil de 2015.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl na Rcl n. 45.370/PR, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 19/3/2024, DJe de 21/3/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NA RECLAMAÇÃO. IAC 14 DO STJ. DESCUMPRIMENTO. MANUTENÇÃO DOS AUTOS NA JUSTIÇA ESTADUAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão que julgou procedente a presente Reclamação, para cassar a decisão reclamada e determinar que o Juízo reclamado cumpra a decisão proferida no IAC 14/STJ, condenando o Estado do Paraná ao pagamento de honorários advocatícios sucumbenciais.
+II. No presente Agravo interno, a parte agravante defende que "não é possível a fixação de honorários advocatícios em reclamação, tendo em vista a natureza constitucional da ação, que busca garantir a autoridade dos julgados desta Corte".
+III. Na forma da jurisprudência do STJ, uma vez aperfeiçoada a relação processual na reclamação, são cabíveis honorários sucumbenciais para as Reclamações ajuizadas na vigência do Código de Processo Civil de 2015 (STJ, EDcl na Rcl 39.884/AL, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 30/11/2022). No mesmo sentido: STJ, AgInt nos EDcl na Rcl 41.149/PE, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 05/09/2022; AgInt no REsp 2.017.139/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 24/05/2023.
+IV. Agravo interno não provido. (AgInt nos EDcl na Rcl n. 45.065/PR, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 19/12/2023, DJe de 21/12/2023.)
+Diante desse contexto, inexistindo na Decisão embargada a omissão apontada, não merecem ser acolhidos os Declaratórios, que revelam mero inconformismo da parte embargante com as conclusões da decisão.
+Reitera-se que a solução integral da controvérsia, com embasamento suficiente, não caracteriza ofensa ao CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Pelo exposto, voto no sentido de negar provimento aos Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É como voto.
