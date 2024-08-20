@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDA MURATA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+COMPRA E VENDA DE IMÓVEL. MULTA CONTRATUAL. INADIMPLEMENTO E MORA DA COMPRADORA NÃO CONFIGURADA. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DOS AUTORES. PRETENSÃO DOS VENDEDORES DE APLICAÇÃO DE MULTA CONTRATUAL, SOBRE PAGAMENTO DE PARCELA DO PREÇO QUITADA EM ATRASO. ATRASO QUE NÃO PODE SER ATRIBUÍDO COMO EXCLUSIVAMENTE DE CULPA DA APELADA. DOCUMENTAÇÃO ENTREGUE DE FORMA EXTEMPORÂNEA PELOS APELANTES E ALTERAÇÃO NA FORMA DE PAGAMENTO, DE RECEBIMENTO DO PREÇO PELOS CREDORES. MORA E INADIMPLEMENTO QUE NÃO OCORRERAM POR CULPA DA APELADA. MULTA NÃO INCIDENTE (ARTS. 408 E 476, CC). SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 371 do CPC, no que concerne à necessária revaloração da prova, eis que há farta prova documental demonstrando que houve atraso no pagamento e que este ocorreu por culpa da recorrida, trazendo a seguinte argumentação:
+Os autos contém farta prova documental.
+Os nobres julgadores, data máxima vênia, não se atentaram corretamente à prova produzida nos autos.
+Isso porque os pedidos dos Recorrentes foram negados sob o fundamento de que foi demonstrado, através da prova documental produzida nos autos, que não se pode concluir que o pagamento foi atrasado por culpa da Recorrida.
+Ocorre que tais fatos não são cabíveis para a condenação dos Recorrentes, uma vez que é medida de rigor a valoração correta das provas produzidas nos autos.
+A farta prova documental produzida nos autos demonstrou de forma incontroversa que houve atraso no pagamento e que este ocorreu por culpa da Recorrida.
+ ..
+Dessa forma, considerando que a data da entrega de toda a documentação à Recorrida foi 11/12/2020, mais de três meses se passaram desde a finalização dos procedimentos entre a Recorrida e o Banco Bradesco, transcorrendo, inequivocamente, o prazo de 60 dias para o pagamento, conforme a clara prova documental produzida nos autos.
+A prova documental foi clara.
+Assim, muito claro que o v. Acórdão não analisou corretamente as circunstâncias fáticas do presente caso, que ensejaram, equivocadamente, na condenação dos Recorrentes.
+ ..
+O Eminente Relator do v. acórdão recorrido se baseou apenas na alegação de que a partir de fevereiro/2021 que se poderia realmente contar o prazo de 60 dias para a exigência do pagamento da parcela, sem considerar as demais circunstâncias tratadas nas provas apresentadas (fls. 191-193).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O contrato previa que a segunda parcela, de R$ 1.080.000,00, a ser quitada por carta de crédito de consórcio ou recursos próprios, seria devida em até 60 dias a partir da entrega de toda a documentação exigida na cláusula quinta (ps. 16 e 18).
+A cláusula quinta previa uma série de documentos que deveriam ser entregues pelos apelantes à apelada e aqueles não provaram que os documentos foram entregues entre novembro/2020 e fevereiro/2021, ônus que cabia a eles (art. 373, I, CPC). As mensagens de email trocadas entre as partes (ps. 27/34) não bastam para provar a entrega da integralidade da documentação exigida, porque há referências a anexos que não constam dos autos.
+Ademais, a apelada demonstra que parte da documentação foi entregue em meados de fevereiro/2021 (ps. 59/62).
+Portanto, é a partir de fevereiro/2021 que se poderia realmente contar o prazo de 60 dias para a exigência do pagamento da parcela.
+A r. sentença considerou que não houve regular constituição da apelada em mora (art. 397, § ú., CC) e, realmente, para os efeitos de pagamento da parcela devida e eventual incidência da multa, não houve regular constituição em mora. As mensagens recebidas em fevereiro/2021 pela apelada podem configurar protocolo da documentação exigida para início do pagamento, mas não para constituição da apelada em mora e obrigá-la ao pagamento vencido.
+Por isso, já em razão desse fundamento, não seria o caso de incidência da multa prevista na cláusula primeira, parágrafo segundo (p. 16), como bem fundamentado pelo I. Magistrado sentenciante.
+Mesmo se ignorada essa questão e assumido que os apelantes têm razão acerca da constituição da apelada em mora, não se pode concluir que o pagamento foi atrasado por culpa desta.
+Contados os 60 dias para pagamento a partir da documentação entregue em meados de fevereiro/2021, o prazo esgotar- se-ia em meados de abril/2021. Ocorre que, em fins de março/2021 e início de abril/2021 as partes trocaram mensagens por Whatsapp (ps.
+63/65), sobre mudança na forma de pagamento, com alteração da conta bancária para recebimento do pagamento pelos vendedores os apelantes.
+A mudança na forma de pagamento foi pedida dos apelantes e foi comunicada ao banco alguns dias depois, dentro do prazo de uma semana das mensagens trocadas (ps. 65 e 67). Não se trata de atraso excessivo e, ademais, não imputável à apelada, porque a mudança de forma de pagamento, da forma de recebimento do pagamento pelos credores, foi exigência deles, apelantes.
+A quitação ocorreu, ao final, em 29/04/2021 (p. 26), 15 dias após a solicitação da mudança de forma de pagamento pelos apelantes, ou seja, prazo não excessivo.
+Nota-se, portanto, que houve intercorrências no cumprimento do contrato e de culpa não exclusiva da apelada, o que afasta qualquer responsabilidade desta pelo inadimplemento ou pela mora, para a incidência da multa contratual. Trata-se de exceção dos artigos 408 e 476 do Código Civil, para afastar a multa contratual pretendida pelos apelantes (fls. 181-182).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
