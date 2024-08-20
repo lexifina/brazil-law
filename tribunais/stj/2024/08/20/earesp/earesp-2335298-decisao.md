@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de divergência em agravo em recurso especial interpostos contra acórdão da PRIMEIRA TURMA, Relator Ministro GURGEL DE FARIA, assim ementado (e-STJ fl. 1.348):
+PROCESSUAL CIVIL E ADMINISTRATIVO. ALEGAÇÕES DAS PARTES. MANIFESTAÇÃO EXPRESSA SOBRE TODAS. DESNECESSIDADE. ENTIDADE PRIVADA. SUS. TABELA. DEFASAGEM. ENTE FEDERAL CONTRATANTE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. EXIGÊNCIA.
+1. O magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+2. A Primeira Turma do STJ, no julgamento do AREsp 2.067.898/DF, de relatoria do em. Ministro Sérgio Kukina (DJe 20/12/2022), firmou o entendimento de que, nas demandas relacionadas a desequilíbrio econômico-financeiro de contrato ou convênio com entidade privada para prestação de serviço complementar ao SUS, há litisconsórcio passivo necessário com os entes políticos locais que celebraram diretamente o negócio jurídico.
+3. Agravo interno desprovido.
+Os embargos de declaração foram parcialmente acolhidos, sem efeitos infringentes (e-STJ fls. 1.412/1.418).
+A parte embargante defende que o acórdão recorrido contrariou os seguintes julgados (e-STJ fl. 1.431):
+1) Diverge, sem fundamentação explícita, dos EAREsp 701.404/SC, julgados pela Corte Especial. A questão jurídica da divergência é: conhecimento de agravo em recurso especial fora dos parâmetros de confronto analítico com a decisão de inadmissão proferida pelo Tribunal a quo;
+2) Diverge, sem fundamentação explícita, do REsp 1.992.178/MA, julgado pela Terceira Turma: A questão jurídica da divergência é: acolhimento de litisconsórcio passivo necessário quando, expressamente, reconhece que a relação se dá "em tese" e sem indicar de modo preciso qualquer dispositivo legal supostamente violado pelo acórdão do Tribunal a quo;
+3) Diverge, sem fundamentação explícita, do AgInt no AREsp 1.055.687/SP, julgado pela Segunda Turma. A questão jurídica da divergência é: conhecimento de recurso interposto contra decisão de inadmissibilidade distinta daquela efetivamente proferida nos autos;
+4) Diverge do AgInt no AREsp 2.230.238/DF, julgado pela Segunda Turma. A questão jurídica da divergência é: conhecimento de recurso interposto contra acórdão recorrido por deficiência recursal na mesma matéria;
+5) Diverge do AgInt no AREsp 2.168.654/DF e do AgInt no AREsp 2.080.844/DF, ambos julgados pela Segunda Turma. A questão jurídica da divergência é meritória: desnecessidade de formação de litisconsórcio passivo necessário.
+Pede a reforma do acórdão embargado (e-STJ fls. 1.454/1.455).
+É o relatório.
+Decido.
+Inicialmente, compete à CORTE ESPECIAL o exame dos embargos de divergência somente em relação aos paradigmas de Turmas que compõem Seção diferente daquela integrada pelo órgão prolator do acórdão embargado.
+Nesse contexto, com o término da jurisdição da CORTE ESPECIAL, os autos devem ser remetidos à PRIMEIRA SEÇÃO, para que enfrente, como entender de direito, a divergência relativa aos paradigmas da PRIMEIRA TURMA e da SEGUNDA TURMA (nesse sentido: EDcl no AgRg nos EDcl nos EREsp n. 1.796.941/PR, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 22/11/2022, DJe de 25/11/2022).
+Dessa forma, passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da PRIMEIRA TURMA, e os EAREsp 701.404/SC, Relator para acórdão Ministro LUIS FELIPE SALOMÃO, DJe 30/11/2018 (e-STJ fls. 928/1.004).
+O acórdão recorrido, por um lado, trata de controvérsia em que se discute a formação de litisconsórcio passivo necessário com entes da federação, em demanda em que se discute os termos de convênios e contratos de serviço de saúde. Por outro lado, temos o paradigma da CORTE ESPECIAL, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial) discute sobre os pressupostos de admissibilidade do agravo do art. 544 do CPC/73.
+Portanto, não há similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Procedo, doravante, ao exame dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido, da PRIMEIRA TURMA, e o REsp 1.992.178/MA, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 18/08/2022 (e-STJ fls. 1.268/1.282).
+Como referido, o acórdão recorrido tr ata de controvérsia em que se discute a formação de litisconsórcio passivo necessário com entes da federação, em demanda em que se discute os termos de convênios e contratos de serviço de saúde. Por outro lado, tem-se o paradigma da TERCEIRA TURMA, à luz do inteiro teor das respectivas peças processuais (acórdão recorrido e recurso especial), no bojo de ação de rescisão de contrato de compra e venda de imóvel, em que se discute "se o credor fiduciário deve figurar como litisconsorte necessário em hipótese na qual a ação judicial visa à rescisão do contrato de compra e venda de imóvel que foi adquirido por alienação fiduciária".
+Patente, de igual modo, a ausência de similitude fático-jurídica entre os arestos confrontados, sendo incabíveis os embargos de divergência, consoante os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência, no que se refere aos paradigmas da CORTE ESPECIAL e da TERCEIRA TURMA.
+Publique-se e intimem-se.
+Redistribuam-se os embargos à PRIMEIRA SEÇÃO.
+EMENTA
