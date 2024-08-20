@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela AGÊNCIA FRANQUEADA DE CORREIOS TINGUI contra decisão de minha lavra, em que não conheci do agravo em recurso especial, por falta de impugnação específica dos fundamentos da decisão agravada.
+Nas razões destes embargos declaratórios, a parte embargante sustenta que "a decisão monocrática foi obscura e contraditória, ao passo que definiu não ter ocorrido, nos fundamentos do agravo, impugnação específica" (e-STJ fl. 1.288). Alega que "os fundamentos contidos no agravo, item III, são específicos e defendem os motivos da não possibilidade de aplicação das referidas sumulas" (e-STJ fl. 1.288). Afirma que "deixar de conhecer o agravo sob o fundamento de que não foram impugnados de forma específica os argumentos da decisão que negaram seguimento ao recurso especial viola o princípio da segurança jurídica, o princípio do contraditório, da ampla defesa e do devido processo legal" (e-STJ fl. 1.289). Diz que "ficou evidente que a Sumula 282 do STF aplicada foi demonstrada no agravo, que consta toda a matéria federal discutida, citando inclusive o recente acórdão da ADI 4.784-STF, ainda não transitado em julgado" (e-STJ fl. 1.289). No mais, reitera a alegação do recurso especial.
+Intimada, a parte embargada formulou impugnação, postulando a rejeição do recurso (e-STJ fl. 1.299).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+A decisão embargada não conheceu do agravo em recurso especial. Na oportunidade, consignou-se que o recurso especial não foi admitido pelo Tribunal a quo com base nos seguintes fundamentos: descabimento de recurso especial para alegação de violação de dispositivo constitucional; ausência de prequestionamento (Súmula 282 do STF); dissociação das razões recursais da motivação do acórdão recorrido (Súmula 284 do STF); e falta de impugnação específica dos fundamentos do acórdão recorrido (Súmulas 283 e 284 do STF). Contudo, concluiu-se que, nas razões do agravo em recurso especial, o agravante não impugnou esses fundamentos.
+Verifica-se que as alegações da parte embargante, na realidade, manifestam seu inconformismo com o não conhecimento do agravo em recurso especial.
+No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Relator Ministro Og Fernandes, Primeira Seção, julgado em 14/05/2019, DJe 30/05/2019).
+Com essas considerações, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
