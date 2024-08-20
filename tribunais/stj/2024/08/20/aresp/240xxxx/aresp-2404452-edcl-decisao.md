@@ -1,0 +1,19 @@
+DECISÃO
+BRUNO JEAN GOMES DA SILVA opõe embargos de declaração à decisão de fls. 462-465, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+A defesa reitera a tese de ausência de fundamentação idônea para fixar o regime inicial mais gravoso e negar a substituição da pena privativa de liberdade por restritivas de direitos. Aponta, ainda, omissão no decisum embargado, quanto à "questão da confissão espontânea" (fl. 476).
+Requer o acolhimento dos aclaratórios, com efeitos infringentes, a fim de sanar o vício apontado e dar provimento ao pleito.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Em relação à modificação do regime inicial de cumprimento da pena e à substituição da reprimenda por medida privativa de liberdade, observo que a parte não indicou nenhum dos vícios previstos no art. 619 do Código de Processo Penal na petição de oposição dos aclaratórios, o que deixa claro que pretende, na espécie, obter novo julgamento do caso.
+Constata-se que, de fato, não foi examinado o pleito de reconhecimento da confissão espontânea, o que evidencia a omissão do decisum embargado neste ponto.
+Passo, pois, a integrar a decisão embargada para sanar o defeito aludido.
+No que tange ao pretendido reconhecimento da atenuante da confissão espontânea em favor do insurgente, certo é que este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Exemplificativamente: HC n. 358.679/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 31/8/2016.
+Confira-se, ainda, o disposto na Súmula n. 545 desta Corte Superior: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+No caso, constou da sentença que, "interrogado em Juízo, o réu deu outra versão para os fatos", disse que "foi fazer um favor para um amigo dele. Ele pediu para ele retirar o relógio" (fls. 267-268).
+A Corte de origem, em relação à materialidade do delito, consignou que "tanto na fase inquisitiva quanto em juízo, Bruno negou a imputação, no sentido de apenas foi retirar o relógio com o ofendido a pedido de um amigo que não declinou o nome" (fl. 344, grifei). Ao refutar o reconhecimento da confissão espontânea, o acórdão registrou (fl. 351, destaquei):
+De reconhecimento da confissão espontânea não se cogita, pois, diversamente do que sustenta a combativa defesa, a admissão externada pelo réu (que apenas foi retirar o relógio) não habilita a pretendida redução punitiva.
+A circunstância afasta a caracterização da atenuante penal, nas hipóteses em que o agente opta pela admissão qualificada ou não reconhece a totalidade dos crimes denunciados, ou seja, quando não revela sintonia com a imputação, como é o caso em testilha.
+Assim, uma vez que o réu não confessou o delito e, portanto, seu depoimento não foi utilizado para a formação do convencimento do julgador - que se valeu dos demais elementos fático-probatórios colacionados aos autos para concluir pela sua condenação -, não há como se lhe reconhecer a atenuante prevista no art. 65, III, "d", do Código Penal.
+À vista do exposto, conheço em parte dos embargos de declaração e, na extensão, acolho os aclaratórios para sanar a omissão verificada, sem, contudo, atribuir-lhes efeitos infringentes.
+Publique-se e intimem-se.
+EMENTA
