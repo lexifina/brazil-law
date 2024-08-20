@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por ANDRE LUIZ INACIO E ENTIDADE VIVER EM CRISTO em face de decisão proferida pela Presidência desta Corte Superior que não conheceu do agravo em recurso especial sob os seguintes fundamentos (fl. 1.286 e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal, Súmula 7/STJ e deficiência de cotejo analítico.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial
+Em suas razões de agravo interno, a agravante sustenta que impugnou todos os fundamentos da decisão que inadmitiu o recurso especial e reiterou os dispositivos alegadamente violados.
+É o relatório.
+Com efeito, verifica-se que o ora agravante impugnou o fundamento da decisão que inadmitiu o recurso especial quanto à alegada incidência da Súmula 7/STJ, motivo pelo qual, não há que se falar em ausência de impugnação dos fundamentos da decisão recorrida.
+Assim, a decisão agravada merece ser reconsiderada.
+Trata-se de agravo interposto por ANDRE LUIZ INACIO E ENTIDADE VIVER EM CRISTO contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 173 e-STJ):
+AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA.
+1. Cuidamos de recurso de agravo interno tirado em face de decisão monocrática que rejeitou impugnação ao cumprimento de sentença.
+2. O cumprimento da obrigação imposta à agravante independe da atuação do município, na medida em que o que se impõe é a vedação de oferta de tratamento no local de sua sede.
+3. O descumprimento se comprovou pelos laudos de vistoria tanto do Ministério Público quanto das autoridades locais que constataram situação fática muito semelhante. Eventual remissão a ficha de outra entidade, por erro material, não invalida o restante do material probatório em sentidocontrário.4. A intimação para cumprimento da obrigação de fazer imposta em liminar, juntamente com a citação suprem a necessidade de nova intimação pessoal nesta fase.
+Agravo desprovido.
+Opostos embargos de declaração foram rejeitados em acórdão ementado nos seguintes termos (fl. 217 e-STJ):
+EMBARGOSDEDECLARAÇÃO. 1. Ausentes os pressupostos que autorizam a oposição de embargos de declaração contradição, omissão e obscuridade a conduta de fazer preponderar argumentos configura tentativa de revisão do julgado, que refoge do escopo legal pré-determinado para este recurso. 2. Embargos de declaração opostos para fim de prequestionamento da matéria devem ser rejeitados se não preencherem os requisitos legais do artigo 1022 do CPC. Prescindibilidade de menção expressa dos dispositivos legais e/ou constitucionais. Precedentes do STJ e STF. Embargos de declaração rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente sustenta violação aos artigos: a) 489 e 1022 do CPC/15, asseverando que o Tribunal de origem deixou de manifestar quanto a teses relevantes para o deslinde da causa; b) 537, do CPC/15, sustentando que demonstrada "a regularidade, salubridade e licitude das atividades da Entidade Viver em Cristo após a fixação da multa em 2016" (fl. 258 e-STJ), a multa fixada se mostrou excessiva, devendo, portanto, ser reduzida; c) 525, § 1º, III e V do CPC/15, ao argumento de que há excesso de execução, pois "a multa somente poderia incidir NO MÁXIMO no período entre 12/06/2019 (data em que o Exequente alega ter tomado conhecimento do descumprimento) e 29/10/2019(fls. 651/652), porquanto, já que a partir da data de vigência da liminar os Agravantes foram obrigados a permanecer com os acolhidos até a elaboração dos projetos terapêuticos e remoção dos acolhidos, responsabilidades que competiam à Municipalidade e que não cumprida até os dias de hoje" (fl. 271 e-STJ). Cita, ainda, ofensa ao art. 927, IV do CPC/15.
+Contrarrazões ao recurso especial às fls. 1.207/1.210 e-STJ.
+É o relatório. Decido.
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se às razões do recurso especial.
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, reconsidero a decisão agravada para conhecer do agravo em recurso especial e, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
