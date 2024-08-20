@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEONARDO CAIRES GOMES contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0024850-65.2023.8.26.0050), que manteve a decisão que indeferiu o pleito de não efetivação da penhora, como também o pedido de extinção da punibilidade da pena de multa, ante a alegada impossibilidade de pagamento.
+Nas razões recursais, fundado na alínea "a" do permissivo constitucional, a defesa aponta violação do art. 927, III, do Código de Processo Civil, pois o Tribunal de origem não decidiu a controvérsia conforme a tese jurídica fixada em recurso especial repetitivo, consolidada no Tema n. 931 desta Corte Superior.
+Aduz que "a hipossuficiência econômica está caracterizada no caso. O sentenciado é assistido pela DPESP. Isso gera a presunção de pobreza, fazendo incidir as premissas estabelecidas pelo tema 931" (e-STJ fl. 179).
+Acrescenta que o executado é pobre e o Poder Judiciário obrigatoriamente avaliou seu estado financeiro, fixando o valor dos dias-multa no mínimo previsto em lei, concluindo, assim, pela sua miserabilidade.
+Afirma, ainda, que, de acordo com a documentação juntada, nada consta a indicar que o sentenciado tenha amealhado bens ou auferido ganhos significativos quando em liberdade. E, realizada pesquisa, somente foi encontrada a quantia de R$ 58,00 (cinquenta e oito reais), tudo a indicar que se trata de valores essenciais à sua subsistência e de sua família e, portanto, impenhoráveis, nos termos dos arts. 50, § 2º, do CP, e 833 do CPC.
+Requer o provimento do recurso, para que seja declarada extinta a punibilidade do recorrente, ou, subsidiariamente, sejam liberados os valores penhorados.
+Contra-arrazoado (e-STJ fls. 192/196) e admitido (e-STJ fls. 199/200), manifestou-se o Ministério Público Federal, nesta instância, pelo não conhecimento do recurso (e-STJ fls. 211/213).
+É o relatório.
+Decido.
+O recurso não merece ser conhecido.
+Inicialmente, destaco que precedente repetitivo não se enquadra no conceito de lei federal previsto no art. 105 da Constituição Federal. Assim, para indicar o erro de sua aplicação no caso concreto, é necessário que o recurso especial indique o dispositivo legal correspondente à tese jurídica ou a interpretação divergente de norma federal, o que não ocorreu.
+Com relação à suposta violação do art. 927, III, do CPC, verifica-se que o acórdão recorrido não analisou a controvérsia à luz do dispositivo apontado como violado, carecendo, assim, do requisito indispensável do prequestionamento. Incide, na hipótese, as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+No mais, vale ressaltar que, sobre o tema, a Terceira Seção do Superior Tribunal de Justiça, em 28/2/2024, revisou entendimento firmado sob o rito dos recursos repetitivos (Tema n. 931) para fixar a seguinte tese: "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária."
+No caso, consta do acórdão recorrido que "o agravante ainda está a cumprir pena privativa de liberdad e" (e-STJ fl. 160), não se enquadrando na hipótese prevista no Tema n. 931, fundamento esse sequer impu gnado pela defesa.
+Ademais, vale lembrar que " a  ausência de impugnação específica a um ou mais fundamentos do acórdão impugnado, suficientes por si sós para manter o julgado, atrai a incidência da Súmula 283 do STF, por analogia" (AgInt no AREsp n. 1.208.397/RS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/5/2018, DJe 15/5/2018).
+Nesse sentido, destaco os seguintes precedentes desta Corte: Resp n. 2.156.841/SP, relator o Ministro Reynaldo Soares da Fonseca, DJU 24/7/2024; AResp n. 2.492.868/SP, relator o Ministro Otávio de Almeida Toledo, DJU 20/5/2024; e Aresp n. 2.480.974/SP, relator o Ministro Joel Ilan Paciornik, DJU 22/3/2024).
+Diante do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
