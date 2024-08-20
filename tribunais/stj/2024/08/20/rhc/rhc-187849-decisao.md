@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LEANDRO DOS SANTOS ROSARIO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada pela suposta prática do delito de homicídio qualificado. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem que manteve a prisão cautelar, constando no acórdão hostilizado que:
+"A decisão que recebeu a denúncia e decretou a prisão preventiva fundamentou-se na confissão apresentada pelos agentes, de que participaram - se não na execução direta do delito, mas em seu suporte logístico - e pelas características do crime praticado entendeu que as medidas cautelares seriam insuficientes e inadequadas a garantia da ordem pública. Isso porque, a polícia foi acionada para atender a um chamado, em uma via pública logo após uma passarela, onde o cadáver da vítima estava despejado na entrada de uma garagem e apresentava sinais de crueldade, amarrado com três fitas plásticas apertando o seu pescoço e uma fita plástica amarrando seus pés. No BU consta que o cadáver estava "largado no local, para que ficasse à vista de transeuntes" (fl. 177).
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a prisão cautelar mantida em desfavor do Recorrente.
+Requer a revogação da segregação cautelar e, subsidiariamente, a imposição de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Liminar indeferida, às fls. 246-247.
+Informações prestadas, às fls. 252-257. O Ministério Público Federal, às fls. 263-265, opinou pelo "desprovimento do recurso ordinário em habeas corpus". Confira-se a ementa do parecer :
+"Recurso ordinári1o em habeas corpus. Homicídio qualificado. Prisão preventiva. Gravidade em concreto da conduta. Modus operandi. Garantia da ordem pública. Requisitos presentes. Revogação. Impossibilidade. Parecer pelo desprovimento do agravo" (fl. 263).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Recorrente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a gravidade concreta da conduta, consistente em homicídio qualificado pelo motivo fútil, asfixia e recurso que dificultou a defesa do ofendido, haja vista que, em tese, ele teria concorrido para a empreitada criminosa que culminou na morte da vítima, mediante asfixia mecânica; circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade do ora Recorrente, justificando a segregação cautelar imposta.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 24/04/2019-grifei.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
