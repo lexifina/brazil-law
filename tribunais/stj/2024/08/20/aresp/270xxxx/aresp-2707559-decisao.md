@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, ao fundamento de que incide a Súmula 7/STJ.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a defesa alega violação do art. 927, III, do Código de Processo Civil, ao argumento de que se mostra cabível a extinção da punibilidade independente do pagamento da multa, por se tratar de réu assistido pela Defensoria Pública do estado de São Paulo, o que gera presunção de pobreza.
+Alega que "A multa no caso corresponde a R$ 343,57. Entretanto, os dados presentes nos autos demonstram que o sentenciado é hipossuficiente econômico. Isso leva à extinção da punibilidade independentemente do pagamento da multa" (fl. 179).
+Aduz que "conclui-se, que o executado é pobre. Isso porque o Judiciário obrigatoriamente avaliou seu estado financeiro, como exige a norma em apreço, e fixou o valor dos dias-multa no mínimo previsto em lei. Desse modo, concluiu por sua miserabilidade. De acordo com a documentação juntada, o sentenciado trabalhava como tatuador. Essa profissão notoriamente aponta para ganhos parcos, caracterizando a hipossuficiência econômica" (fl. 180).
+"Requer que o recurso seja conhecido e provido para julgar extinta a punibilidade do recorrente ou, subsidiariamente, para cassar a decisão que determinou a transferência do valor penhorado ao fundo penitenciário" (fl. 185).
+Contraminuta apresentada.
+O Ministério Público Federal manifestou-se pelo improvimento do agravo.
+É o relatório.
+Decido.
+O Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, com base nos seguintes fundamentos (fls. 160-161):
+O artigo 51 do Código Penal, com a redação dada pela Lei nº 13.964/2019, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal que lhe é inerente, por força do artigo 5º, inciso XLVI, alínea c, da Constituição Federal.
+Sobre o tema, o c. STJ, revisando a tese fixada quando do julgamento do Tema 931, firmou o entendimento, ao julgar o REsp 1.785.383/SP, de que o inadimplemento da sanção pecuniária obsta o reconhecimento da extinção da punibilidade do sentenciado, excepcionada a hipótese em que comprovada a impossibilidade do sentenciado de adimpli-la (hipossuficiência econômica).
+Por oportuno, confira-se a tese fixada após a revisão da referida Corte:
+Tema 931 Tese firmada: Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade.
+No caso dos autos, o agravante não fez prova de sua hipossuficiência econômica para o fim de pagamento da multa penal. Pelo contrário, determinada a busca de bens (fls. 104/105), foi localizada em uma das contas bancárias do agravante a quantia suficiente para a quitação do débito (R$ 343,57), de modo que é inviável se falar em extinção da execução independentemente do pagamento da multa.
+Frise-se que conforme a dicção expressa da tese fixada pelo C. STJ, a vulnerabilidade econômica não deve aferida genericamente, mas sim, em relação à possibilidade de adimplemento da quantia devida.
+Ainda, o pedido de desbloqueio de valores também não comporta acolhimento.
+Embora considerada dívida de valor, a natureza penal da multa resulta em distinções, inclusive legislativas, no que se refere à sua cobrança, de modo a não se observar aqui as estritas regras civis de impenhorabilidade.
+Com efeito, nos termos do art. 170 da Lei de Execução Penal, "Quando a pena de multa for aplicada cumulativamente com pena privativa da liberdade, enquanto esta estiver sendo executada, poderá aquela ser cobrada mediante desconto na remuneração do condenado.".
+E ainda, o art. 168 do mesmo diploma legal é expresso ao autorizar o desconto dos valores relativos à multa penal no vencimento ou salário do sentenciado. Assim confira-se: "Art. 168. O Juiz poderá determinar que a cobrança da multa se efetue mediante desconto no vencimento ou salário do condenado, nas hipóteses do artigo 50, § 1º, do Código Penal, observando-se o seguinte:  .. ".
+Logo, conclui-se que diante da natureza da multa penal, excetua-se a regra da impenhorabilidade descrita no art. 833, inciso IV, do Código de Processo Civil 1 , pois não há lacuna a ser suprida pela Lei processual civil, de modo que o regramento específico da LEP deve prevalecer segundo a consagrada técnica de solução de antinomias.
+O Tribunal de origem, na apreciação do recurso defensivo, manteve a penhora determinada, ressaltando que "o agravante não fez prova de sua hipossuficiência econômica para o fim de pagamento da multa penal. Pelo contrário, determinada a busca de bens (fls. 104/105), foi localizada em uma das contas bancárias do agravante a quantia suficiente para a quitação do débito (R$ 343,57), de modo que é inviável se falar em extinção da execução independentemente do pagamento da multa".
+De fato, nos termos da jurisprudência desta Corte "é possível a penhora para fins de saldar a pena de multa determinada em sentença condenatória. "Esta medida encontra respaldo nos dispositivos nos arts. 168, incisos I a III, e 170 da Lei 7.210/1984, não se submetendo às disposições do art. 833 do CPC. Assim, tal decisão segue o princípio da especialidade, assegurando a aplicação efetiva das normas específicas da legislação penal executória" (REsp n. 2.113.000/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 2/4/2024, DJe 10/4/2024).
+Ademais, a pretendida revisão do julgado, com vistas à constatação da efetiva condição de vulnerabilidade econômica do apenado demandaria, necessariamente, aprofundado revolvimento do conjunto fático-probatório, providência inviável em recurso especial, incidindo, na espécie, o óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
