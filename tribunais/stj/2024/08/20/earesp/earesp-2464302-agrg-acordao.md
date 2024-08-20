@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 366/369, de minha relatoria, que não conheci do agravo para não conhecer do recurso especial pela incidência do óbice das Súmulas n. 283 e n. 356 do STF e n. 7 do STJ.
+O agravante se insurge contra essa decisão alegando que o conteúdo do art. 240, § 1º foi implicitamente prequestionado e que a pretensão recursal não enseja o reexame de provas, mas apenas a sua revaloração jurídica.
+Requer a reconsideração do decisum ou o julgamento do recurso pelo órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INGRESSO IRREGULAR NO DOMICÍLIO. AUSÊNCIA DE PREQUESTIONAMENTO. PROVAS PARA A CONDENAÇÃO E REQUISITOS PARA O RECONHECIMENTO DO PRIVILÉGIO (ART. 33, § 4º, DA LEI N. 11.343/2006). REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de ilegalidade do ingresso dos policiais no domicílio não foi objeto de debate pelo acórdão estadual. Incidência das Súmulas ns. 282 e 356 do STF.
+2. O entendimento jurisprudencial desta Corte Superior é no sentido de que o prequestionamento implícito da matéria se configura quando o Tribunal a quo expressamente manifesta juízo de valor sobre a tese recursal alegada, o que não ocorreu. Citem-se: AgInt no REsp n. 1.769.090/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe 27/5/2022; AgInt no AREsp n. 2.308.131/GO, relator Ministro Marco Buzzi, Quarta Turma, DJe 29/5/2024; AgInt no AREsp n. 2.080.761/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe 27/5/2024.
+3. A alegação defensiva de ausência de provas de que a droga apreendida pertenceria ao recorrente não prescinde do revolvimento do conjunto fático-probatório reunidos nos autos, o que é vedado pela Súmula n. 7 do STJ.
+4. O Tribunal de origem manteve a sentença que negou a minorante do tráfico privilegiado, considerando o modus operandi do crime a revelar verdadeira habitualidade criminosa. Nesse contexto, para que fosse possível a análise da pretensão recursal de reonhecimento da benesse, seria imprescindível o reexame dos elementos fático-probatórios constantes do processo, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte Superior.
+5. Agravo regimental desprovido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+O conteúdo do art. 240, § 1º, do CPP, de fato, não foi objeto de debate pelo Tribunal Estadual, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento. Incidência das Súmulas ns. 282 e 356 do STF.
+O entendimento jurisprudencial desta Corte Superior é no sentido de que o prequestionamento implícito da matéria se configura quando o Tribunal a quo expressamente manifesta juízo de valor sobre a tese recursal alegada, o que não ocorreu. Citem-se: AgInt no REsp n. 1.769.090/MG, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 27/5/2022; AgInt no AREsp n. 2.308.131/GO, Relator Ministro Marco Buzzi, Quarta Turma, DJe 29/5/2024; AgInt no AREsp n. 2.080.761/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe 27/5/2024.
+A alegação defensiva de ausência de provas de que a droga apreendida pertenceria ao recorrente não prescinde do revolvimento do conjunto fático-probatório reunidos nos autos, o que é vedado pela Súmula n. 7 do STJ. Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS.
+1. A decisão impugnada não violou o princípio da colegialidade, na medida em que o art. 21-E do RISTJ permite ao Presidente deste Sodalício "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente todos os fundamentos da decisão recorrida", como na hipótese.
+2. O cabimento de agravo regimental contra a decisão singular afasta a alegação de afronta ao referido postulado, visto que a matéria, desde que suscitada, pode ser remetida à apreciação da Turma. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. CORRUPÇÃO ATIVA. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. INSURGÊNCIA NÃO PROVIDA.
+1. A tese defensiva de que todo o material ilícito apreendido (drogas, arma e munições) pertencia exclusivamente ao corréu depende de profundo revolvimento do contexto fático-probatório, providência incabível em sede especial. Assim, concluindo as instâncias de origem, a partir da análise probatória, acerca da autoria delitiva assestada ao agravante, a desconstituição do julgado, no intuito de abrigar o pleito defensivo absolutório, não encontra espaço na via eleita, ante o óbice da Súmula n. 7 desta Corte Superior.
+2. Agravo regimental não provido. (AgRg no AREsp n. 1.568.849/DF, relator Ministro Jorge Mussi, Quinta Turma, DJe de 13/2/2020.)
+O redutor do § 4º do art. 33 da Lei de Drogas foi negado tendo em conta o modus operandi do delito, no caso, havia quantidade expressiva de droga escondida em terreno baldio e localizada apenas com ajuda de cão farejador.
+Para aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam: ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Na hipótese, após apreciação do acervo probatório, as instâncias de origem concluíram pela existência de verdadeira habitualidade criminosa, considerando que o recorrente fazia do ilícito o seu meio de vida. (e-STJ fl. 254)
+Para afastar a conclusão da instância ordinária, seria necessário o revolvimento de matéria fático-probatória, providência inadmissível na via do recurso especial. Incidência da Súmula n. 7 do STJ. A propósito: AgRg no HC n. 759.512/MS, Relator Ministro JOÃO BATISTA MOREIRA - Desembargador Convocado do TRF1 -, Quinta Turma, DJe de 13/3/2023). Na mesma linha:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. REQUISITOS LEGAIS NÃO PREENCHIDOS. INVERSÃO DO JULGADO. REEXAME DE FATOS E PROVAS. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante o § 4.º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena diminuída, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa. Para que o agente possa ser beneficiado, é preciso preencher cumulativamente os requisitos.
+2. A s instâncias ordinárias afirmaram, com base no acervo probatório, que o ora recorrente transportava 600kg de maconha em um veículo furtado, com placas falsificadas, estando a serviço de organização criminosa voltada ao tráfico transnacional de drogas.
+Assim sendo, a aplicação do benefício do tráfico privilegiado foi descartada na origem por se constatar a presença de elementos outros, além da quantidade e natureza da droga apreendida, indicativos de inserção na cadeia criminosa. Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável em sede de recurso especial. Incidência da Súmula 7/STJ.
+3. Agravo regimental não provido. (AgRg no AREsp n. 2.295.521/MS, desta Relatoria, DJe de 30/6/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. APLICAÇÃO DO §4ª DO ART. 33 DA LEI N. 11.343/06. IMPOSSIBILIDADE. COMPROVAÇÃO DE QUE O AGRAVANTE SE DEDICAVA AO TRÁFICO DE DROGAS. QUANTIDADE DE DROGA E OUTROS ELEMENTOS QUE COMPROVAM A TRAFICÂNCIA. DOSIMETRIA. AGRAVO DESPROVIDO.
+1. A respeito da habitualidade no crime de tráfico de drogas, a jurisprudência deste col. STJ é pacífica no sentido de que é elemento suficiente para negar a aplicação do mencionado redutor.
+2. A Corte de Origem, fundamentou o afastamento do § 4ª do art. 33 da Lei n. 11.343/06 considerando, a quantidade, a natureza das drogas apreendidas, a balança de precisão, sacolas plásticas, rolo de plástico filme e dinheiro em espécie, além do agravante no momento da sua prisão destruir seu aparelho celular.
+3. A quantidade de drogas não foi argumento exclusivo para afastamento do redutor de tráfico privilegiado na terceira fase, não havendo que se falar ilegalidade.
+4. Agravo conhecido e não provido. (AREsp n. 2.491.406/SC, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/5/2024.)
+Pertinente registrar, no ponto, que na residência do recorrente foram encontrados apetrechos que confirmaram a denúncia e apreensão realizada (duas lâminas, uma delas com resquício de droga, mais um rolo de filme plástico utilizado para embalar o estupefaciente). (e-STJ fl. 253)
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
