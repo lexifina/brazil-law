@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial, interposto por BANCO ITAUCARD S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 3/6 /2024.
+Concluso ao Gabinete em: 12/8/2024.
+Ação: de revisão contratual, ajuizada por OSVALDO CAETANO DA SILVA em desfavor do agravante, em virtude de contrato garantido por alienação fiduciária firmado entre as partes.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos das seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL - CÉDULA DE CRÉDITO BANCÁRIA -AQUISIÇÃO DE VEÍCULO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA - TARIFA DE AVALIAÇÃO DO BEM - PROVA DO SERVIÇO - AUSÊNCIA - SEGURO PROTEÇÃO FINANCEIRA - VENDA CASADA - JUROS REMUNERATÓRIOS - CAPITALIZAÇÃO DIÁRIA -VIOLAÇÃO AO DEVER DE INFORMAÇÃO - ABUSIVIDADE - REPETIÇÃO DO INDÉBITO -FORMA SIMPLES. É abusiva a cobrança da tarifa de avalição no caso de a instituição financeira não comprovar que tenha feito uma vistoria "in loco" e elaborado um laudo ou minuta para apurar o valor do veículo. É vedado à instituição financeira obrigar o consumidor a contratar o seguro de proteção financeira ou, caso este opte pela contratação, de vincular a contratação à seguradora por ela indicada, retirando do aderente a possibilidade de escolher aquela de sua preferência (Tema n. 972/STJ). A capitalização dos juros em periodicidade inferior à anual é permitida desde que esteja ajustada de forma expressa e clara, sendo a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal suficiente para permitir a cobrança da taxa efetiva anual contratada. Todavia na hipótese em que pactuada capitalização diária, é imprescindível a informação acerca da taxa diária de juros aplicada, a fim de assegurar ao consumidor a possibilidade de controle do alcance dos encargos do contrato, sob pena de abusividade. A tese fixada pelo STJ no julgamento do EAREsp. n. 676.608/RS, a qual dispõe que restituição em dobro do indébito independe da natureza do elemento volitivo do fornecedor que realizou a cobrança indevida, deve ser aplicada apenas aos contratos de consumo celebrados após 30/03/2021, o que não é o caso.
+(e-STJ Fl. 226)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Decisão de admissibilidade do TJ/MG: inadmitiu o recurso especial do agravante em razão dos seguintes fundamentos:
+i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ), notadamente quanto à capitalização diária dos juros remuneratórios, considerando os julgados citados à e-STJ Fls. 394/395.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega que:
+i) é inaplicável, à espécie, a incidência da Súmula 83/STJ, pois o acórdão recorrido encontra-se dissonante à jurisprudência do STJ;
+ii) houve efetiva ofensa aos arts. 5º da MP 2.170/01, 1º ao 5º do Decreto 22.626/33, 1º e 4º, IX, da Lei 4595/94 e 406 e 591 do CC, bem como divergência jurisprudencial quanto o tema; e
+iii) é possível a capitalização em periodicidade inferior a um ano, inclusive de forma diária, desde que expressamente pactuada e no intervalo previamente definido, nos termos da jurisprudência desta Corte.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verif ica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice:
+i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ), notadamente quanto à capitalização diária dos juros remuneratórios, considerando os julgados citados à e-STJ Fls. 394/395.
+Limitou-se o agravante, assim, a tecer alegações meramente genéricas acerca da inaplicabilidade da Súmula 83 do STJ, deixando de demonstrar, especificamente, o desacerto da decisão quanto ao ponto.
+Consigne-se que, quanto à Súmula 83/STJ, a sua impugnação deve ser demonstrada com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/202 3.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente ao agravante em R$ 100,00 (cem reais - e-STJ Fl. 157 e 236).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
