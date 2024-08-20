@@ -1,0 +1,111 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, prosseguindo no julgamento, após o voto-vista do Sr. Ministro Moura Ribeiro, inaugurando a divergência, por maioria, dar provimento ao recurso especial, nos termos do voto da Sra. Ministra Relatora. Votou vencido o Sr. Ministro Moura Ribeiro. Os Srs. Ministros Humberto Martins (Presidente), Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+EMENTA
+RELATÓRIO
+RELATORA: Ministra NANCY ANDRIGHI
+Examina-se de recurso especial interposto por PAP EMPREENDIMENTOS E PARTICIPACOES LTDA, fundado na alínea "a" do permissivo constitucional, contra acórdão do TJ/MS.
+Ação: de execução de título extrajudicial, ajuizada por MITSUYOSHI TSUJI - ESPÓLIO, em face de PEDRO CASSILDO PASCUTTI OUTROS.
+Decisão: rejeitou a exceção de pré-executividade do recorrente, com fundamento em ilegitimidade ativa.
+Acórdão: negou provimento ao recurso interposto pelo recorrente, nos termos assim ementados:
+EMENTA - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO - AÇÃO DE EXECUÇÃO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE OPOSTA POR TERCEIRO - PRETENSÃO DE RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE - EXCIPIENTE NÃO COMPÕE A LIDE DE EXECUÇÃO -RECONHECIMENTO DA ILEGITIMIDADEDA EXCIPIENTE - LEGITIMIDADE ATIVA EXCLUSIVA DO EXECUTADO - RECURSO CONHECIDO E NÃO PROVIDO.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: argumenta que teriam sido violados o art. 17 do CPC.
+Sustenta que limitar a intervenção do terceiro interessado à oposição de embargos de terceiro significa restringir sua defesa. Alega que o terceiro interessado possui legitimidade para opor exceção de pré-executividade.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. LEGITIMIDADE. INTERESSE JURÍDICO. TERCEIRO INTERESSADO. CONSTRIÇÃO DE BENS. EMBARGOS DE TERCEIRO.
+1. Ação de execução da qual foi extraído o presente recurso especial, interposto em 18/04/2023 e concluso ao gabinete em 16/10/2023.
+2. O propósito recursal é decidir se o terceiro interessado possui legitimidade para opor exceção de pré-executividade.
+3. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, quais sejam: a) a matéria invocada deve ser suscetível de conhecimento de ofício pelo juiz; e b) desnecessidade de dilação probatória.
+4. Por se tratar de instituto que trata de matéria passível de ser reconhecida de ofício pelo julgador, não se vislumbra impedimento para que terceiros interessados oponham exceção de pré-executividade.
+5. Se a lei permite que os terceiros listados no art. 674 do CPC possam opor de embargos de terceiro, é razoável que também tenham legitimidade para opor exceção de pré-executividade.
+6. Recurso especial conhecido e provido.
+VOTO
+RELATORA: Ministra NANCY ANDRIGHI
+O propósito recursal é decidir se o terceiro interessado possui legitimidade para opor exceção de pré-executividade.
+1. DA LEGITIMIDADE PARA OPOR EXCEÇÃO DE PRÉ-EXECUTIVIDADE
+1. A exceção de pré-executividade é um instrumento excepcional criado em parecer de 1966, da lavra de Pontes de Miranda, no caso "Mannesmann", e posteriormente construído pela doutrina e pela jurisprudência, razão pela qual não se submete aos ditames do Código de Processo Civil sobre recursos.
+2. Em sua origem, a exceção de pré-executividade tinha como principal objetivo permitir que o executado apresentasse sua defesa com questões que poderiam ser conhecidas ex officio pelo órgão jurisdicional, relacionadas à admissibilidade do procedimento executivo, independentemente de prévia constrição patrimonial, que, à época, era pressuposto para a oposição dos embargos à execução.
+3. Nesse diapasão, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.110.925/SP, submetido ao regime dos recursos repetitivos, fixou o entendimento de que a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, quais sejam: a) a matéria invocada deve ser suscetível de conhecimento de ofício pelo juiz; e b) desnecessidade de dilação probatória (REsp 1110925/SP, PRIMEIRA SEÇÃO, julgado em 22/04/2009, DJe 04/05/2009).
+4. Dessarte, conclui-se que a exceção de pré-executividade tem natureza jurídica de objeção, pois, a matéria passível de ser apreciada neste instrumento independe de provocação para exame do Poder Judiciário, eis que poderia ser analisada de ofício pelo julgador.
+5. No que diz respeito à legitimidade para opor a objeção, é cediço que aqueles que figurarem no polo passivo da execução são legitimados. Nada obstante, resta saber se terceiros interessados também o são.
+6. Para este raciocínio, deve-se considerar que não seria razoável ignorar a arguição- realizada por mera petição, de matérias de ordem pública, como nulidades absolutas e falta de pressupostos processuais, que dispensam dilação probatória- somente porque não foi oposta pelo executado.
+7. Até mesmo porque as questões dessa natureza não se sujeitam à preclusão temporal dos embargos de terceiro, uma vez que podem, e devem, ser conhecidas e decididas a qualquer tempo e em qualquer fase do processo. (JUNIOR, Humberto Theodoro. Processo de execução e cumprimento de sentença. 32ª ed. Editora Forense, 2023)
+8. Nessa linha de intelecção, ainda sob a égide do CPC/73, esta Terceira Turma do STJ admitiu especificamente a legitimidade do cônjuge para opor exceção de pré-executividade, em virtude de sua condição de responsável patrimonial. (REsp n. 1.522.093/MS, Terceira Turma, julgado em 17/11/2015, DJe de 26/11/2015)
+9. Quanto aos terceiros interessados, deve ser seguida a mesma lógica, uma vez que, por se tratar de instituto que trata de matéria passível de ser reconhecida de ofício pelo julgador, não se vislumbra impedimento para que eles ofereçam exceção de pré-executividade.
+10. De forma sintetizada, Geraldo da Silva Batista Junior, analisa como essa possibilidade é amplamente defendida na doutrina:
+"Sobre o problema da legitimidade escreveu Feu Rosa que a exceção de pré-executividade, por estar relacionada a matérias de ordem pública, não é instrumento privativo de quem quer que seja. Exequente, executado e até mesmo o terceiro interessado podem argui-la.
+Francisco Fernandes de Araúj0 e Tarlei Lemos Pereira também se manifestam sobre o tema de forma semelhante, observando que até mesmo o serventuário responsável pelo processo pode levar ao juiz da causa a notícia do vício .
+Alberto Camina Moreira também disserta sobre a questão, enfatizando que todos os interessados na execução (fiador, mulher casada, proprietário do bem oferecido em hipoteca, dentre outros) estão legitimados ao ajuizamento da exceção de pré-executividade, ou seja, todos os que têm responsabilidade patrimonial.
+Inúmeros outros autores poderiam ter seus posicionamentos citados neste trabalho. No entanto, os mencionados são suficientes para demonstrar que a posição predominante na doutrina é a de que não só o executado pode arguir a exceção.(..)
+Podemos, com segurança, afirmar que todos os legitimados para o polo passivo da execução (ordinários, derivados e eventualmente algum extraordinário) são também legitimados para o ajuizamento da exceção de pré-executividade. Se ela tem natureza jurídica de defesa, todos os componentes do polo passivo da execução podem exercer este direito. Afinal, ninguém pode ser vítima de excussão patrimonial sem ter a oportunidade de influir eficazmente na elaboração da decisão judicial que a determinou. (JUNIOR, Geraldo da Silva Batista. Exceção de Pré-executividade: alcance e limites. 2ª ed. Ed. Lumen Juris, 2004)
+11. Embora autores como Araken de Assis defendam que a legitimidade "não toca a qualquer pessoa (..) sob o vago pretexto de que todos hão de colaborar com a administração da justiça", é uníssono o entendimento doutrinário quanto à possibilidade de que a exceção de pré-executividade pode ser oposta pelos que ostentem interesse jurídico na execução.
+12. Assim, se a lei permite que os terceiros listados no art. 674 do CPC possam opor de embargos de terceiro, é razoável que também tenham legitimidade para opor a exceção de pré-executividade.
+13. Tal conclusão torna-se notória quando a matéria a qual o terceiro interessado pretenda alegar - por não ter sido apreciada de ofício pelo julgador- já não possa mais ser suscitada em embargos de terceiros porque decorrido o prazo para tanto. Nessas situações, não há razão para limitar a defesa do terceiro interessado sendo que a exceção de pré-executividade serve precisamente a este fim.
+14. Em vista disso, ostenta interesse jurídico e legitimidade para opor exceção de pré-executividade aquele que sofrer constrição ou ameaça de constrição sobre bens que possua, nos termos do art. 674 do CPC.
+2. DA HIPÓTESE SOB JULGAMENTO
+15. Na espécie, o recorrente (PAP EMPREENDIMENTOS E PARTICIPACOES LTDA) alega ser pessoa jurídica controlada pelo executado, ora interessado (PEDRO CASSILDO PASCUTTI). Por essa razão, seus bens sofreram constrição. (e-STJ Fl.22)
+16. Argumentando ter havido prescrição intercorrente, matéria passível de ser conhecida de ofício e que não demanda dilação probatória, o recorrente (PAP EMPREENDIMENTOS E PARTICIPACOES LTDA) opôs exceção de pré-executividade.
+17. O juiz de Primeiro Grau rejeitou a objeção, sob o argumento de que somente o executado possui legitimidade para opor a exceção de pré-executividade, nos seguintes termos:
+Extrai-se que o agravante, que não faz parte da relação jurídica processual, opôs exceção de pré-executividade, com objetivo de ver reconhecida a prescrição intercorrente da execução. Ocorre que teve o pedido rejeitado, sob o fundamento de ser terceiro estranho à lide.
+Partindo-se dessa premissa, qual seja, a de que a exceção de pré-executividade é instrumento de defesa do qual pode se valer o executado, conclui-se que não detém legitimidade para opô-la aquele que não figura no polo passivo da execução, justamente o caso dos autos.
+Para a hipótese, na qual, quem não sendo parte do processo, considera ter suportado bloqueio ou ameaça de bloqueio sobre bens em relação aos quais sustenta ter a posse ou a propriedade, o Estatuto Processual Civil estabelece, de forma expressa, no artigo 674, o instituto dos embargos de terceiro. (e-STJ Fl.22)
+18. Conforme apontado pelo Tribunal de origem, por ter sofrido constrição de seus bens, o recorrente (PAP EMPREENDIMENTOS E PARTICIPACOES LTDA) detém legitimidade para opor embargos de terceiro, o que comprova seu interesse jurídico na execução.
+19. Dessarte, tendo em vista que a exceção pré-executividade tratou de matéria que deveria ter sido reconhecida de ofício pelo julgador e que o recorrente (PAP EMPREENDIMENTOS E PARTICIPACOES LTDA) detém interesse no deslinde da execução, é razoável reconhecer sua legitimidade e interesse jurídico para opor exceção pré-executividade; até mesmo porque, diante da alegação de prescrição intercorrente, os embargos de terceiros seriam intempestivos, sendo a exceção pré-executividade o instrumento adequado.
+3. DISPOSITIVO
+Forte nessas razões, CONHEÇO E DOU PROVIMENTO ao recurso especial para reconhecer a legitimidade do recorrente para opor exceção de pré-executividade.
+Deixo de majorar os honorários de sucumbência, visto que não foram arbitrados em desfavor da parte recorrente no julgamento do recurso pelo Tribunal de origem.
+MINISTRA NANCY ANDRIGHI
+Relatora
+EMENTA
+VOTO VENCIDO
+Trata-se de recurso especial interposto por PAP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. (PAP), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul assim ementado:
+EMENTA - EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO - AÇÃO DE EXECUÇÃO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE OPOSTA POR TERCEIRO - PRETENSÃO DE RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE - EXCIPIENTE NÃO COMPÕE A LIDE DE EXECUÇÃO -RECONHECIMENTO DA ILEGITIMIDADE DA EXCIPIENTE - LEGITIMIDADE ATIVA EXCLUSIVA DO EXECUTADO - RECURSO CONHECIDO E NÃO PROVIDO (e-STJ, fls. 54/61).
+Nas razões do presente recurso, PAP alegou a violação aos arts. 17 do CPC, ao sustentar que (1) possui interesse e legitimidade para apresentar exceção de pré-executividade, visto que sofreu constrição patrimonial nos autos; (2) não obstante tenha opostos embargos de terceiro para desconstituir a penhora, nada impede que também suscite a prescrição intercorrente por meio de exceção, já que se trata de matéria de ordem pública e seu conhecimento não demanda dilação probatória.
+Foram apresentadas contrarrazões (e-STJ, fls. 105/113).
+A ilustre Ministra Nancy Andrighi deu provimento ao recurso especial para reconhecer a legitimidade do terceiro para opor exceção de pré-executividade.
+Pedi vista dos autos para melhor análise da controvérsia.
+Com a devida vênia, ouso divergir do voto do ilustre Ministra Relatora, pelas razões que seguem.
+A questão controvertida está circunscrita na legitimidade de o terceiro, estranho à lide, opor exceção de pré-executividade para discutir a ocorrência da prescrição intercorrente.
+Da legitimidade do terceiro para opor exceção de pré-executividade
+Como emana dos autos, MITSUYOSHI TSUJI (ESPÓLIO) propôs execução de título extrajudicial em face de PEDRO CASSILDO PASCUTTI (PEDRO) e TORLIM PRODUTOS ALIMENTÍCIOS (TORLIM), buscando o recebimento do crédito original de R$327.646,00.
+Por ser pessoa jurídica controlada pelo executado, foram penhorados os bens da empresa PAP que, por sua vez, ingressou com a presente exceção de pré-executividade para alegar a ocorrência de prescrição intercorrente, em razão de o processo ter ficado paralisado por mais de cinco anos sem que o credor se manifestasse sobre o seguinte despacho:
+Posto isso, intime-se o exequente para , em trinta dias, nos termos acima, se manifestar a respeito da propriedade dos bens penhorados e interesse efetivo no prosseguimento do feito em face da executada TORLIM PRODUTOS ALIMENTÍCIOS, bem como para carrear aos autos o contrato social e alterações respectivas de PAP EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. (e-STJ, fls. 68).
+O juízo de primeiro grau afastou a pretensão de PAP, por entender que a exceção de pré-executividade é um instrumento de defesa destinado ao executado, falecendo legitimidade ao terceiro por não figurar no polo passivo da execução.
+Ressaltou ainda que, para a hipótese ameaça ou efetivo bloqueio de bens, o terceiro que não compõe o polo passivo do processo pode lançar mão de instituto próprio, qual seja, embargos terceiro, previsto no art. 674 do CPC.
+O Tribunal de Justiça do Mato Grosso do Sul manteve referido entendimento, nos seguintes termos:
+Cabe, por derradeiro, pontuar que, inobstante a pretensão expressada recorrente ser a declaração da prescrição intercorrente nos autos de execução, por óbvio tem como objetivo basilar a consequente liberação de seus bens afetados pela execução. Caso contrário não lhe restaria qualquer interesse no reconhecimento de prescrição de ação executória da qual não participa.
+Por essa razão é que a decisão objurgada esclareceu que a via adequada para o terceiro eventualmente afetado pela execução ter resguardados seus direitos e/ou desconstituir eventual constrição a recair sobre seu patrimônio - como se configura o caso em tela - são os embargos de terceiro, e não a exceção de pré-executividade (e-STJ, fls. 61).
+De fato, a exceção (ou objeção) de pré-executividade tem sido admitida quando se trata de arguir falta de condições da ação de execução ou ausência de algum pressuposto processual para o feito executivo.
+Em regra, a exceção (ou objeção) tem por fundamento matéria que ao juiz incumba conhecer de ofício e que não necessite de dilação probatória.
+Trata-se, pois, de um remédio a mais à disposição do devedor, ou daquele eventualmente sujeito à execução, para defesa contra processo executivo, sem necessidade de penhora ou depósito da coisa e sem sujeição ao procedimento dos embargos, quando a defesa se refira a matéria de ordem pública.
+O caso presente, entretanto, não parece se enquadrar na espécie, pois aqui a exceção foi proposta pela PAP, empresa controlada pelo executado, sendo assim terceira em relação à execução e que veio a sofrer constrição de seus bens.
+E mais: o fundamento central da objeção é a alegação de prescrição intercorrente.
+Penso, pois, correto o v. Acórdão que rejeitou a exceção de pré-executividade, visto que a prescrição intercorrente é matéria que diz respeito exclusivamente ao processo principal e assim reservada para aqueles que podem se opor à execução.
+Por conseguinte, a exceção de pré-executividade apresentada por terceiro é incabível, uma vez que o remédio próprio para evitar a constrição judicial do bem pertence a quem não é parte no processo são os embargos de terceiro.
+O Código de Processo Civil é muito claro a respeito ao estabelecer no art. 674 que:
+Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+O fato de esta Terceira Turma, num outro caso, ter admitido exceção de pré-executividade oposta por cônjuge (REsp nº 1.522.093/MS) não serve para justificar a oposição por terceiro estranho à lide, porque é pacífico que o cônjuge do devedor tem legitimidade para opor embargos à execução para discutir o próprio débito exequendo, o que não ocorre em relação ao terceiro estranho.
+Aliás, essa diferenciação foi feita no corpo do próprio voto, conforme trecho em destaque:
+Nota-se que sua admissão não tem sido, em regra, questionada, uma vez que, no âmbito do STJ, se reconhece a ampla legitimidade para integral defesa do patrimônio pela via dos embargos do devedor ou de sua meação pela via dos embargos de terceiros. Nesse cenário, parece irrefutável o interesse da recorrida em provocar a análise da prescrição por meio da exceção de pré-executividade e, portanto, a sua legitimidade no presente incidente
+(REsp n. 1.522.093/MS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/11/2015, DJe de 26/11/2015.)
+Em suma, se como destaca a doutrina colacionada pela ilustre Relatora, a exceção (ou objeção) é dada a "todos os que têm responsabilidade patrimonial", porque "tem natureza jurídica de defesa" a ser usada "por todos os componentes do polo passivo da execução", resulta certo que não pode ser oposta por terceiro estranho que, em princípio, não tem essa responsabilidade patrimonial.
+Logo, não parece possível seguir "a mesma lógica", porque que díspares as situações.
+Impende considerar, como explica ARAKEN DE ASSIS: "A exceção de pré-executividade constitui um meio de reação contra a execução, e não um movimento a favor de sua regularidade" (Manual da Execução. 18ªed. São Paulo: RT, 2016, p. 1529).
+E reação contra a execução compete ao executado (art. 789, CPC) ou àqueles eventualmente com responsabilidade patrimonial (art. 790, CPC). Aqueles que apenas por acaso ou circunstâncias vêm a ter bens gravados na execução não têm propriamente nenhuma reação "contra a execução", mas contra o indevido gravame. E para isso a lei reserva instrumento específico, como dito, os embargos de terceiro.
+Se perdido o prazo, ou não utilizados os embargos de terceiro, não é possível agora passar por cima da lei para tentar proteger interessado negligente, porque ao magistrado não é dado cognição irrestrita capaz de atingir toda a extensão fática do conflito de interesses, como se o processo fosse seu ou no Direito Processual houvesse um único procedimento.
+Ao contrário, como ensina LUIZ GUILHERME MARINONI:
+(..) A suposição de que um único procedimento poderia atender a todos, independentemente das suas diferenças, para que então fosse possível uma melhor sistematização técnica e teórica, implica em uma absurda superposição da teoria sobre as necessidades concretas dos homens, e assim - na melhor das hipóteses - pode ser vista como um desejo egoísta.
+(Técnica Processual e Tutela de Direitos. São Paulo: RT.2004, p. 196)
+E assim porque, como acrescenta o ilustre Jurista:
+Se a Constituição Federal deve eliminar as desigualdades, não há como aceitar o procedimento que faz exatamente o contrário, isto é, potencializa a desigualdade, abrindo ao que tem posição social privilegiada a oportunidade de percorrer as vias da jurisdição por intermédio de um procedimento diferente daquele que é atribuído às posições sociais "comuns".
+(Ob. cit., p. 197)
+De resto, não custa dizer duvidosa a possibilidade de alegação de prescrição por terceiro interessado, quando se sabe que o próprio devedor pode renunciar à prescrição (art. 191, Código Civil), até tacitamente.
+Assim, com o devido respeito, não parece possível o alargamento do objeto da exceção (ou objeção) de pré-executividade, para tentar encampar eventual direito de terceiro interessado, pois isso não se põe como matéria que o juiz pode conhecer de ofício.
+Conforme já resolveu esta Corte Superior:
+A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+(STJ - PRIMEIRA SEÇÃO - REsp 1110925 / SP - Rel. Ministro TEORI ALBINO ZAVASCKI - J. 22/04/2009 - DJe 04/05/2009)
+No caso, data venia, não se faz presente nenhum dos dois requisitos, pois não se tem segurança sobre eventual renúncia ou não à prescrição por parte do devedor, e por outro lado trata-se de matéria que exige alegação por via própria, que não foi utilizada.
+Nessas condições, pedindo vênia à eminente Ministra Relatora NANCY ANDRIGHI, a quem rendo minhas homenagens, ouso dela divergir para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11 do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia de fixação de verba honorária.
+É o voto.
