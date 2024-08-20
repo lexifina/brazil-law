@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 225/227).
+O acórdão recorrido está assim ementado (e-STJ fl. 141):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO EXTRAJUDICIAL DEVOLVIDA PELOS CORREIOS COM A INDICAÇÃO "ENDEREÇO INSUFICIENTE". DETERMINAÇÃO DE EMENDA DA PETIÇÃO INICIAL NÃO CUMPRIDA. CONSTITUIÇÃO EM MORA NÃO COMPROVADA. EXTINÇÃO DA AÇÃO. SENTENÇA MANTIDA. 1 - Para a configuração da mora do devedor na ação de busca e apreensão, mostra-se insuficiente o mero encaminhamento da notificação no endereço indicado no contrato, mormente quando o aviso de recebimento consta a informação "endereço insuficiente", sendo imprescindível o recebimento da notificação, ainda que por terceiro. 2 - Deve ser mantida a sentença que, diante da ausência de comprovação da mora e da inércia da Instituição Financeira em promover a emenda da petição inicial, declara extinto o processo, sem resolução do mérito. Apelação conhecida e desprovida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 175/181).
+No recurso especial (e-STJ fls. 184/194), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 2º, § 2º, e 3º, do Decreto-Lei n. 911/1969.
+Preliminarmente destacou a relevância das questões de direito federal infraconstitucional discutidas na presente demanda.
+Insurgiu-se contra a extinção da ação de busca e apreensão.
+S ustentou a regular constituição em mora da devedora, ante a validade da notificação extrajudicial, por carta registrada com aviso de recebimento, enviada ao endereço informado no contrato, ainda que não entregue à própria recorrida, por motivo "endereço insuficiente", sem qualquer assinatura.
+Defendeu que "se faz desnecessária a prova do recebimento da notificação extrajudicial, seja pelo devedor ou por qualquer outra pessoa, desde que encaminhada ao endereço informado no contrato" (e-STJ fl. 188).
+Aduziu que "ao enviar a notificação extrajudicial ao endereço indicado pelo devedor no contrato, o credor adotou o comportamento que dele se esperava, unicamente com a finalidade de comunicar o devedor acerca de sua mora" (e-STJ fl. 189).
+Ao final, requereu o provimento do recurso, "a fim de que seja considerada válida a notificação expedida no endereço do contrato, e, por consequência, seja considerado o devedor regularmente constituído em mora e por conseguinte seja afastada a extinção da demanda, permitindo seu regular prosseguimento" (e-STJ fl. 194).
+Não foram apresentadas contrarrazões (e-STJ fl. 219).
+No agravo (e-STJ fls. 230/238), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi oferecida contraminuta (e-STJ fl. 249).
+É o relatório.
+Decido.
+No que concerne à constituição da mora, a questão foi decidida pela Corte local nos seguintes temos (e-STJ fls. 142/143 ):
+Na espécie, conforme se depreende dos documentos acostados ao evento nº 1 dos autos originários, a notificação extrajudicial acusando a falta de pagamento de parcelas do contrato, embora enviada ao endereço da apelada indicado no pacto, foi devolvida pelos Correios com a informação "endereço insuficiente".
+Aliás, nota-se que o contrato e, de consequência, a notificação enviada, não contém o nome da rua em que reside a consumidora apelada, informando apenas a quadra e o lote, o que obviamente impediu impediu que a correspondência fosse devidamente entregue.
+Saliente-se que houve tão somente uma tentativa de notificação da devedora, restando evidente que não foram esgotados os meios para comprovar sua mora, como exige o artigo 2º , § 2º , da Lei nº 13.043/2014 que alterou o Decreto-Lei 911/69, bem como o enunciado da Súmula 72 do Superior Tribunal de Justiça, que estabelece que "a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente."
+E, mesmo intimado a emendar a petição inicial, o Banco quedou-se inerte, apenas informando a interposição de agravo de instrumento, que não foi conhecido (evento 17).
+Desse modo, demonstrado o não preenchimento de pressuposto de constituição e desenvolvimento válido e regular do processo, consubstanciado na ausência de comprovação da mora da devedora, impõe-se a extinção do feito, sem resolução de mérito, conforme determinado na sentença.
+A conclusão do Tribunal de origem está em desacordo com o entendimento firmado pela Segunda Seção desta Corte Superior processado sob o rito dos recursos repetitivos - Tema n. 1.132; REsps n. 1.951.662/RS e 1.951.888/RS, no qual assentada a seguinte tese jurídica: " p ara a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros".
+Confiram-se as ementas dos julgados:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.662/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023.)
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese:Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.888/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023.)
+No mesmo sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. CONTRATOS BANCÁRIOS. NOTIFICAÇÃO. RECEBIMENTO POR TERCEIRO. SÚMULA Nº 83 DO STJ. CAPITALIZAÇÃO. PREVISÃO CONTRATUAL. SÚMULAS NºS 5 E 7 DO STJ. LITISCONSÓRCIO PASSIVO. DEVEDORES SOLIDÁRIOS. SÚMULA Nº 283 DO STF. ENCARGOS DA MORA. SÚMULA Nº 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que a mora decorre do simples vencimento, nos termos do art. 2º, § 2º, do Decreto-Lei nº 911/1969, estando condicionado o ajuizamento da ação de busca e apreensão pelo credor, apenas, à comprovação do envio da notificação extrajudicial ao devedor.
+2. A pretensão de verificação da existência de pactuação acerca da capitalização, na forma propugnada, demandaria nova interpretação de cláusula contratual e reexame de provas, o que não é possível em sede de recurso especial, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+3. Ante a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula n.º 283 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.281.801/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. RECONSIDERAÇÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO. DEVEDOR AUSENTE. ENVIO PARA O ENDEREÇO DO DEVEDOR. SÚMULA 568/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Em assentada recente, a Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1132, pacificando o entendimento de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pro próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023).
+2. No caso concreto, houve o envio regular da notificação para o endereço do devedor, cuja comunicação não se completou em virtude de sua ausência. Portanto, comprovada a mora, deve prosseguir a ação de busca e apreensão.
+3. Agravo interno provido. Recurso especial provido.
+(AgInt no REsp n. 1.958.331/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Nesse contexto, é de rigor o provimento do recurso especial, a fim de adequar a solução do caso concreto ao entendimento atual do Superior Tribunal de Justiça.
+Ante o exposto, na forma prevista pela orientação que emana da Súmula n. 568/STJ, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para cassar a sentença extintiva e o acórdão que a confirmou, determinando o retorno dos autos ao Juízo originário para que prossiga com o regular processamento da ação de busca e apreensão.
+Publique-se e intimem-se.
+EMENTA
