@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por FCA Fiat Chrysler Automóveis Brasil Ltda. contra o acórdão da Segunda Turma do Superior Tribunal de Justiça, relatado pelo Ministro Afrânio Vilela, assim ementado (fls. 699/670):
+PROCESSUAL CIVIL, ADMINISTRATIVO E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. PROPAGANDA ENGANOSA. ABUSO NO USO DE LETRAS MIÚDAS. MULTA. DESPROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+2. Agravo interno não provido.
+Após o julgamento do agravo interno foram opostos embargos de declaração. Em acórdão de fls. 695/700, o órgão fracionário do STJ rejeitou os embargos por ausência dos vícios previstos no art. 1.022 do CPC.
+Nos presentes embargos de divergência, sustenta a parte embargante (fls. 708/723) que a controvérsia se circunscreve a duas questões jurídicas, quais sejam, a configuração de notas de rodapé de anúncio publicitário como publicidade enganosa e a proporcionalidade da multa aplicada.
+Assevera que a Segunda Turma desta Corte, ao deixar de analisar o mérito do recurso especial ante a aplicação da Súmula 7 do STJ, divergiu de entendimento da Quarta Turma que concluiu pela não incidência do óbice sumular em situação idêntica.
+Aponta como paradigma o julgamento no REsp n. 1.705.278/MA, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 2/12/2019.
+Assim, requer o conhecimento e provimento do recurso.
+É o relatório.
+Os embargos de divergência não ultrapassam o juízo de admissibilidade.
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula 315 desta Corte Superior: não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Todos os pontos suscitados foram rechaçados sem o devido exame meritório, conforme se depreende da ementa do julgado e do voto condutor do acórdão (fl. 672):
+A alteração da conclusão do Tribunal a quo, acerca do caráter abusivo da publicidade no caso concreto, bem como da adequação da multa aplicada pela autarquia, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Consoante se observa do acórdão embargado, mostra-se inequívoca a incidência do óbice da Súmula 3 15/STJ, na medida em que não examinou o mérito do recurso especial no ponto recorrido, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ, e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp n. 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp n. 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020; e AgInt nos EAREsp n. 1.022.112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+Apesar do esforço argumentativo da parte embargante, a pretensão é do reexame dos critérios de admissibilidade. Isso porque não há discussão de tese jurídica, mas da avaliação se no caso concreto houve o acerto da aplicação do óbice pelo órgão fracionário.
+É firme o entendimento no âmbito da Corte Especial do STJ, no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgInt nos EAREsp n. 1.883.018/RJ, Ministro Mauro Campbell Marques, Corte Especial, DJe 17/11/2023; AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp n. 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; e AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Caso tenham sido anteriormente fixados, majoro os honorários recursais em desfavor da embargante para 15% (quinze por cento) sobre o valor arbitrado na origem, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se for o caso, os limites percentuais previstos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão de gratuidade de justiça.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
