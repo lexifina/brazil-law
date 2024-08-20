@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VALDIR CARLOS DE ARAUJO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal nº 1501086-43.2023.8.26.0545).
+Extrai-se dos autos que o paciente foi condenado à pena de 3 meses e 3 dias de reclusão, em regime aberto, sendo a pena privativa de liberdade substituída por restritiva de direitos, como incurso no art. 155, caput, c/c art. 14, II, do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão que recebeu a seguinte ementa:
+"FURTO TENTADO. Materialidade e autoria devidamente demonstradas.
+Princípio da insignificância. Não foi recepcionado pelo ordenamento jurídico pátrio.
+Inaplicabilidade. Estado de Necessidade. Não caracterizada a imediatez da conduta a justificar o sacrifício do patrimônio subtraído.
+Condenação mantida.
+PENAS.
+Adequada e fundamentadamente impostas. Necessidade, porém, de correção do cálculo da pena pecuniária. Apelo parcialmente provido." (e-STJ, fls. 17-24)
+Neste writ, a defesa alega, em síntese, ser caso de aplicação do princípio da insignificância, argumentando que o valor da tentativa de furto superou apenas ligeiramente o parâmetro de 10% do salário-mínimo e que o bem foi recuperado.
+Requer a concessão da ordem, inclusive liminarmente, para que seja absolvido o paciente.
+Indeferida a liminar (e-STJ, fls. 155-156), o Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 233-235).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem assim considerou:
+"A absolvição do crime de furto calcada na tese de atipicidade material da conduta, pela aplicação do princípio da insignificância, a meu aviso, não pode prevalecer, uma vez que o princípio da bagatela não foi recepcionado pelo ordenamento jurídicopátrio, que cuidou de prever, expressamente, a figura do privilégio,aplicável a algumas modalidades de delitos patrimoniais não-violentos,que depende, para sua concessão, do preenchimento, por parte dosacusados, de requisitos objetivos e subjetivos.
+Seria converter-se o princípio da insignificância em portade ouro para a impunidade, o que é inadmissível.
+Ademais, conforme se depreende dos documentosexibidos nos autos a res furtiva foi avaliada em R$ 184,28 (fl.23) e porisso não pode ser considerada de valor irrisório nem insignificante;tampouco desprezível ou inservível, a ponto de se afirmar que ao dononão possuísse valor algum. Não há confundir coisas de pequeno valor,com coisas de valor insignificante. Estes são os de valor nenhum, nãochegam a incomodar o patrimônio da vítima; aqueles representamdesfalque, ainda que de pequena monta, tornando típica a ação.
+De outro lado, o fato de a coisa ter sido recuperada emnada beneficia o apelante.
+A ausência de prejuízo em decorrência da recuperaçãointegral do produto do crime não interfere na responsabilidade criminal.
+Pode ser avaliada na individualização da pena, como consequência do delito, mas não implica em atipicidade da conduta.
+Defurto famélico também não se pode cogitar. A jurisprudência tem admitido o reconhecimento do estado de necessidade,desde que o objeto furtado se preste, direta e imediatamente, ao atendimento de necessidade premente e inadiável, capaz de justificar o sacrifício de um bem jurídico em favor de outro que deva prevalecer.
+Não é o caso dos autos, considerando que foram furtados, além daspeças de carne, duas peças de salame.
+A simples alegação de necessidade não basta paraconfigurar a excludente, devendo o réu produzir prova em seu favor, o que não ocorreu.
+É o quanto basta à prolação do decreto condenatório.
+Valedizer,o doutosentencianteanalisoucondizentemente todos os requisitos objetivos e subjetivos, queculminaram no decreto condenatório, o qual, por isso, não merecequalquer modificação.
+As penas, no entanto, comportam pequena correção.
+Na primeira fase, em razão dos maus antecedentes, a pena base foi majorada de 1/6, resultando 01 ano e 02 meses de reclusãoe 11 dias-multa. Na segunda fase, inexistem atenuantes ou agravantes.
+Na terceira fase, reconhecido o privilégio, a pena foi mitigada de 2/3,resultando em 04 meses e 20 dias de reclusão e 03 dias-multa. Em razão da tentativa, a pena foi reduzida em 1/3, totalizando em 03 meses e 03dias de reclusão e ao pagamento de 05 dias-multa.
+A majoração das básicas foi adequada ao caso concreto e bem fundamentada. O d. Magistrado considerou, para tanto, os critériosestabelecidos no artigo 59, do Código Penal, especialmente os mausantecedentes.
+De fato, a apelante ostenta várias condenações comtrânsito em julgado em datas anteriores aos fatos aqui tratados (fls.104/109), a denotar inclinação para o crime e resistência ao cumprimento da lei.
+Exacerbação maior, por conta dos antecedentes, da personalidade do agente e das consequências do crime, entre outros, sãofatores que influenciam o estabelecimento da pena-base.
+A redução de 1/3 peloconatus está bem justificada na sentença, de acordo com o iter criminispercorrido pela agente. Todavia,verifica-se que, após a aplicação desta redução, a pena de multa devetotalizar 02 (dois) dias-multa, no piso legal, pelo que, se corrige nestaocasião.
+Por fim, a pena privativa de liberdade foi substituída por10 (dez) dias-multa, no piso legal, nada havendo a se alterar nesteaspecto." (e-STJ, fls. 21-23)
+No tocante à atipicidade da conduta descrita na peça acusatória, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19/11/2004).
+O instituto baseia-se na necessidade de lesão jurídica expressiva para a incidência do Direito Penal, afastando a tipicidade do delito em certas hipóteses em que, apesar de típica a conduta, é o dano juridicamente irrelevante.
+No que tange à inexpressividade da lesão jurídica, a jurisprudência desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário mínimo vigente ao tempo da infração penal, para aferição da relevância da lesão patrimonial.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. PECULIARIDADES DO CASO EM CONCRETO. REPROVABILIDADE DA CONDUTA. REINCIDÊNCIA E VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. SÚMULA 568/STJ.
+1. Esta Corte Superior tem afastado a incidência do princípio da insignificância nos casos em que o valor do bem subtraído ultrapassa o percentual de 10% do salário mínimo vigente à época dos fatos, bem como quando se tratar de acusado reincidente, contumaz na prática de delitos, como na hipótese desses autos.
+2. Agravo regimental improvido." (AgRg no AREsp 1.538.022/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. VALOR DA RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO. CONCURSO DE AGENTES. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme jurisprudência desta Corte, a prática do delito de furto qualificado pelo concurso de agentes, caso dos autos, afasta a aplicação do princípio da insignificância, mormente quando se extrai dos autos a informação de que o valor dos bens subtraídos ultrapassa 10 % do salário mínimo vigente à época dos fatos.
+2. Agravo regimental desprovido." (AgRg no REsp 1.847.979/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/02/2020, DJe 19/02/2020).
+No caso, inviável o reconhecimento da atipicidade delitiva, pois o valor do bem subtraído, avaliado em R$ 263,00, é superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos, o que, nos termos do entendimento desta Corte Superior, não pode ser considerado insignificante.
+Ademais, como bem apontaram as instâncias anteriores, trata-se que réu reincidente.
+Como se sabe, segundo a jurisprudência desta Corte, o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INAPLICABILIDADE. PRECEDENTES. DECISÃO MANTIDA.
+I - Esta Corte tem entendimento pacificado no sentido de que não há que se falar em atipicidade material da conduta pela incidência do princípio da insignificância quando não estiverem presentes todos os vetores para sua caracterização, quais sejam: a) mínima ofensividade da conduta; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento, e; d) inexpressividade da lesão jurídica provocada.
+II - Como dito no decisum reprochado, é inaplicável, na hipótese, o denominado princípio da insignificância, tendo em vista que, apesar do pequeno valor da res furtiva, o agravante é reincidente na prática de delitos patrimoniais. Agravo regimental desprovido." (AgRg no AREsp 1612423/MG, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 10/03/2020, DJe 18/03/2020).
+"PENAL. HABEAS CORPUS. FURTO TENTADO. (1) PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO. (2) VALOR DA RES FURTIVA QUASE 30% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. (3) ORDEM DENEGADA.
+1. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material. (..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC nº 84.412-0/SP, STF, Min. Celso de Mello, DJU 19.11.2004)
+2. In casu, verifica-se que não é insignificante a conduta de tentar furtar vários bens avaliados em R$ 247,88, equivalente a aproximadamente 30% do salário mínimo vigente à época dos fatos. Em tais circunstâncias, não há como reconhecer o caráter bagatelar do comportamento imputado, havendo afetação do bem jurídico.
+3. Ordem denegada." (HC 408.231/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/10/2017, DJe 6/11/2017).
+Assim, não resta configurada a excepcionalidade apontada nos precedentes deste Superior Tribunal de Justiça, por se tratar de acusado contumaz na prática de delitos, o que afasta o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta.
+Destarte, não comporta guarida o pedido de absolvição.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
