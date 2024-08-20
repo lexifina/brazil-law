@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno e manteve a decisão que conheceu do agravo e não conheceu do recurso especial.
+O acórdão recorrido recebeu a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NAUFRÁGIO DO NAVIO HAIDAR. ART. 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. TUTELA PROVISÓRIA. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 300 DO CPC. REVISÃO. SÚMULA Nº 7 DO STJ. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 735 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação ao art. 1.022 do CPC, porque as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência impede a abertura da instância especial, nos termos da Súmula nº 284 do STF, aplicável, por analogia, neste Tribunal Superior.
+2. Esta Corte, em sintonia com o disposto na Súmula n.º 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+4. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A partes recorrentes alegam a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, e 93, IX, da Constituição Federal.
+Inicialmente, afirmam que o benefício da gratuidade de justiça foi concedido em primeiro grau, devendo ser mantido, pois os recorrentes não têm condições de arcar com os custos do processo.
+Argumentam ter havido ofensa ao princípio da inafastabilidade da jurisdição, argumentando que estariam preenchidos os requisitos para o deferimento da tutela de urgência - a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo -, bem como a possibilidade do exame da matéria em recurso especial. No entanto, esta Corte Superior de Justiça teria desconsiderado as alegações defensivas. Nesse sentido, destacam (fl. 1.112):
+ ..  o I. Relator, entendeu ser descabido, via de regra, o recurso especial que pretende o reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar - incidência da Súmula 735 do STF.
+Todavia, não observou que tal entendimento não se aplica ao presente caso, pois em verdade, apesar do previsto no enunciado da súmula, no presente caso aplica-se a exceção dada pelo e. STJ, pois se discute a norma infraconstitucional que dá razão à tutela provisória.
+Asseveram, também, que a análise das alegações trazidas no recurso especial não encontraria óbice na falta de prequestionamento, uma vez que (fl. 1.113):
+ ..  o I. Relator entendeu que em relação à alegada violação dos arts. 3º, 4º e 14 da Lei n. 6.938/1981 e 186 e 927 do Código Civil, não foram objeto de análise do acórdão recorrido, estando ausente o prequestionamento.
+Todavia, mister ressaltar que foram opostos embargos de declaração com fins de prequestionamento, demostrando a ocorrência de vícios, além de ter evidenciado a violação à legislação. Desta forma, é cabível embargos declaratórios para fins de prequestionamento quando evidenciada a violação.
+Ainda que o E. Tribunal não tenha entendido dessa forma - pela violação -, tem-se prequestionada a matéria, pela simples oposição de aclaratórios.
+Por fim, aduzem que o princípio da motivação das decisões judiciais teria sido malferido, pois o Superior Tribunal de Justiça (fl. 1.116):
+ ..  em momento algum fundamentou sua decisão no sentido de restar esclarecido o motivo pelo qual não foram observados as violações expostas e o preenchimento dos requisitos para a concessão da tutela de urgência, tendo em vista, a urgência da indenização de caráter alimentar devida a pescadores e ribeirinhos em razão de danos ambientais que afetem diretamente a sua fonte de sustento.
+Requerem, ao final, a admissão do recurso, bem como a remessa dos autos ao Supremo Tribunal Federal.
+É o relatório.
+Inicialmente, acaso não tenha sido anteriormente concedido em maior amplitude, defere-se o pedido de gratuidade de justiça formulado à fl. 1.106 tão somente no que se refere às custas para a interposição do presente recurso, nos termos do art. 98, § 5º, do Código de Processo Civil, bem como da Lei n. 1.060/1950.
+Quanto à questão da adequada fundamentação das decisões judiciais, a Suprema Corte, ao apreciar o Tema n. 339, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessário que tenham sido apreciadas todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto ou desacerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no acórdão recorrido, como se observa do seguinte trecho do referido julgado:
+(1) Da alegação genérica de ofensa ao art. 1.022 do CPC
+Nas razões do seu recurso especial, ANDERSON e OUTROS alegaram a violação do art. 1.022 do CPC porque o acórdão recorrido deixou de analisar as omissões apontadas em relação ao art. 300 do CPC c/c art. 3º, 4º 14º da Lei nº 6.938/81(e-STJ, fl. 579).
+Contudo, não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+ ..
+(2) Da tutela de urgência
+Nas razões do apelo, ANDERSON e OUTROS afirmaram a violação dos arts. 300 e 3º, 4º e 14 da Lei nº 6.938/1981, sustentando (1) a necessidade de reconhecimento do dever de indenizar terceiros pelos danos causados ao meio ambiente; e (2) que estão presentes os requisitos para a concessão da tutela de urgência.
+Contudo, sem razão.
+Sobre o tema, o pacífico entendimento desta Corte, em sintonia com o disposto na Súmula nº 735 do STF, segue no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+Ainda que assim não fosse, sobre a antecipação da tutela no presente caso, o Tribunal de Justiça do Estado do Pará consignou que:
+ ..
+Dessa forma, rever as conclusões adotadas pelo Tribunal estadual quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+Quanto às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Dito de outra forma, quando o Superior Tribunal de Justiça não conhecer do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que dispõem sobre tais requisitos.
+Isso é o que ficou definido no Tema n. 181 do STF, no qual a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+Vale esclarecer que o entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais que analisam a viabilidade prévia dos recursos extraordinários negar seguimento aos recursos que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nos casos em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Anoto que contra decisões que negam seguimento a recurso extraordinário não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC e adequado para impugnação das decisões de inadmissão), conforme previsão do § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
