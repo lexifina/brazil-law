@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por VIVIANE PRISCILA DA SILVA FLORES com fundamento no artigo 105, inciso III, alínea "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO ORDINÁRIA DE CANCELAMENTO DE REGISTRO. NOTIFICAÇÃO PRÉVIA COMPROVADA, NA FORMA DO ART. 43, § 2º, CDC. HONORÁRIOS MAJORADOS, CONFORME DISPOSTO NO § 11º, DO ART. 85, DO CPC. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. NOTIFICAÇÃO PRÉVIA COMPROVADA. O devedor tem o direito de receber a notificação prévia da inscrição negativa de seu nome nos órgãos de proteção ao crédito, conforme disposto no art. 43, § 2º, do CDC, a fim de evitar o risco de inscrição indevida. No caso, há comprovação de que foram enviadas notificações prévias à parte autora via correio e e-mail. É dever do consumidor manter seus dados atualizados junto ao credor, uma vez que não incumbe aos órgãos restritivos de crédito verificar a exatidão do endereço registrado no cadastro. Portanto, mostra-se regular a inscrição do nome da parte autora nos cadastros de proteção ao crédito. RECURSO DE APELAÇÃO DESPROVIDO, EM DECISÃOMONOCRÁTICA" (fl. 151 e-STJ).
+No recurso especial, a recorrente sustenta violação do art. 43, § 2º, do Código de Defesa do Consumidor, além de divergência jurisprudencial. Defende a exigência legal de prévia notificação, por escrito, do consumidor acerca da inscrição de seu nome em cadastro de devedores, nos termos da Súmula nº 359/STJ, dizendo ser inválida aquela realizada por meio eletrônico, como teria sido o caso dos autos.
+Contrarrazões às fls. 341/356 e-STJ.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça preleciona que a inscrição do devedor nos cadastros de proteção ao crédito deve ser precedida de notificação extrajudicial entregue no endereço declinado no contrato, sendo vedada a notificação exclusivamente por meio de SMS ou e-mail.
+Nesse sentido:
+"CONSUMIDOR E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. NOTIFICAÇÃO POR E-MAIL. IMPOSSIBILIDADE. NECESSIDADE DE CORRESPONDÊNCIA AO ENDEREÇO DO CONSUMIDOR. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que "à luz das disposições do CDC e da jurisprudência desta Corte, a notificação ao consumidor da inscrição de seu nome em cadastro restritivo exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusivamente por meio de SMS ou e-mail", o que justificou o provimento do recurso especial da embargada por está o acórdão do TJRS em desconformidade com entendimento do STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados."
+(EDcl no AgInt no REsp n. 2.096.236/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a notificação extrajudicial expedida exclusivamente para endereço eletrônico não se mostra idônea para constituir em mora o devedor.
+2. A modificação da conclusão da instância originária sobre a falta de ciência da executada acerca da comunicação expedida para seu email esbarra na Súmula 7/STJ.
+3. Agravo interno desprovido"
+(AgInt no REsp nº 2.045.968/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/11/2023, DJe de 29/11/2023.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. INSCRIÇÃO. CANCELAMENTO. CADASTRO RESTRITIVO DE CRÉDITO. NOTIFICAÇÃO POR E-MAIL. IMPOSSIBILIDADE. ENDEREÇO DO CONSUMIDOR. INTERPRETAÇÃO. TELEOLÓGICA. RESTRITIVA. ART. 43, § 2º, CDC. SÚMULA Nº 568/STJ.
+1. Nos termos da orientação firmada no Superior Tribunal de Justiça, a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva por meio de e-mail ou mensagem de texto de celular.
+Precedentes.
+2. Na atual sociedade da informação, a utilização de e-mail e mensagens de texto via celular (SMS) representa importante avanço tecnológico, podendo contribuir para aprimorar o relacionamento entre as partes no âmbito das relações de consumo. No entanto, não se revela lícita a sua utilização exclusiva como mecanismo único de notificação do consumidor acerca da abertura de cadastro, ficha, registro e dados pessoais e de consumo. Interpretação teleológica do art. 43, § 2º, do CDC.
+3. Agravo interno não provido."
+(AgInt no REsp n. 2.070.075/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Entretanto, o TJRS consignou em sua decisão que a notificação à recorrente foi encaminhada, além de por e-mail, também por meio de correspondência, conforme se vê:
+"No caso em exame, verifica-se que as notificações prévias dos débitos junto ao MERCADO PAGO, LOJAS POMPEIA, GANG, JB CRED, FIDC e ao GRUPO RECOVERY, foram enviadas para dois endereços, quais sejam, Rua João de Oliveira Remião nº 5788, Lomba do Pinheiro, Porto Alegre-RS e Rua do Campo, nº 5, Lomba do Pinheiro, Porto Alegre-RS e também para o endereço eletrônico pf19518@gmail.com (Evento 10, origem).
+Ademais, ainda que as notificações tenham sido enviadas para dois endereços distintos e nenhnum seja o endereço atual da autora, pois, como já referido, é dever do consumidor manter seus dados atualizados junto ao credor, uma vez que não incumbe aos órgãos restritivos de crédito verificar a exatidão das informações. Quanto à alegação de que a carta AR foi apresentada sem o carimbo dos correios e telégrafos, também não procede a inconformidade, tendo em vista que não se exige o aviso de recebimento, conforme Súmula 404 do STJ, antes transcrita. Além disso, a notificação também foi encaminhada por correio eletrônico.
+Logo, restou comprovada pela parte ré as notificações prévias, mostrando-se regular, portanto, a inscrição do nome da parte autora nos cadastros de proteção ao crédito, razão pela qual deve ser desprovido o recurso de apelação. (e-STJ fl. 153 - grifou-se)
+Desse modo, alterar a premissa fática estabelecida no aresto recorrido de que não houve o envio e a entrega da notificação por meio de correspondência ao endereço cadastrado pela recorrente demandaria o reexame de fatos e provas dos autos, vedado em recurso especial (Súmula nº 7/STJ).
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, os honorários sucumbenciais fixados pelas instâncias ordinárias, devidos pela ora recorrente, devem ser majorados para R$ 2.000,00, atualizados desde o arbitramento na origem, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
