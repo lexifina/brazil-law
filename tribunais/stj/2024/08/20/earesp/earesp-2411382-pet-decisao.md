@@ -1,0 +1,17 @@
+DECISÃO
+Por meio das petições de fls. 3.523-3.526, 3.527-3.532 e 3.533-3.538, o requerido, MARCOS LOPEZ CERVANTES DE AZEVEDO, condenado nesta ação penal às penas de 3 anos de reclusão no regime inicial aberto e de 20 dias-multa, no valor unitário mínimo, pela prática do crime previsto no art. 312 do Código Penal, requereu seja reconhecida e declarada a extinção da punibilidade, pela incidência da prescrição penal sobre a pretensão executória das reprimendas.
+Intimado, o Ministério Público do Estado de São Paulo manifestou-se favorável ao reconhecimento da prescrição penal (fls. 3.554-3.556).
+É o relatório.
+Verifica-se que o trânsito em julgado da condenação ocorreu em 10/7/2016 para o Ministério Público, que manifestou ciência, porém não apelou da sentença proferida no primeiro grau de jurisdição (fl. 1.166).
+Nesses termos, considerando o prazo prescricional aplicável ao presente caso, previsto no art. 109, IV, do CP (8 anos), bem como a modulação de efeitos realizada pelo Supremo Tribunal Federal para a tese fixada no Tema n. 788 da sistemática da repercussão geral, conclui-se inevitavelmente pela extinção da punibilidade de fato delitivo apurado nestes autos, por incidência da prescrição sobre a pretensão executória da pena.
+A propósito, ao se manifestar, o Ministério Público paulista destacou os seguintes aspectos (fls. 3.554-3.556):
+Como é cediço, o Plenário do Egrégio Supremo Tribunal Federal, por unanimidade, ao apreciar o tema 788 da repercussão geral (ARE 848.107), "declarou a não recepção pela Constituição Federal da locução "para a acusação", contida na primeira parte do inciso I do artigo 112 do Código Penal, conferindo-lhe interpretação conforme à Constituição de forma a se entender que a prescrição começa a correr do dia em que transita em julgado a sentença condenatória para ambas as partes, aplicando-se este entendimento aos casos em que i) a pena não foi declarada extinta pela prescrição e ii) cujo trânsito em julgado para a acusação tenha ocorrido após 12/11/2020".
+ ..
+No caso dos autos, o requerente foi condenado por incurso no artigo 312,caput, do Código Penal, às penas de 3 (três) anos de reclusão, no regime inicial aberto, mais o pagamento de 20 dias-multa, no piso, com trânsito em julgado da sentença para a acusação em 10 de julho de 2016( cf. ciência a fls. 1166).
+Considerando-se que entre a data do trânsito em julgado para a acusação em 10 de julho de 2016 ( anterior a 12/11/2020 ) até a presente decorreu lapso prescricional superior a oito anos, é de se reconhecer a prescrição da pretensão executória e julgar extinta a punibilidade da pena privativa de liberdade, nos termos da aplicação do tema 788 da repercussão geral (ARE 848.107).
+Ante o exposto, aguarda o Ministério Público do Estado de São Paulo que seja reconhecida a prescrição da pretensão executória e julgada extinta a punibilidade da pena privativa de liberdade do sentenciado MARCOS LOPEZ CERVANTES DE AZEVEDO, com fundamento nos artigos 107, IV, 112, I e 109, IV, todos do Código Penal.
+Ante o exposto, com fundamento nos arts. 61 e 647-A do Código de Processo Penal; e 107, IV, 109, IV, e 112, I, do Código Penal, bem como à luz da tese e modulação de efeitos estabelecidas para o Tema n. 788 do STF, declaro extinta a punibilidade de Marcos Lopez Cervantes de Azevedo pelo fato delitivo apurado nestes autos, por força da incidência da prescrição penal sobre a pretensão executória do Estado .
+Ficam prejudicados os recursos pendentes de julgamento (fls. 3.379-3.487)
+Baixem-se os autos.
+Publique-se. Intimem-se.
+EMENTA
