@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de mandado de segurança preventivo contra ameaça de ato de Delegado da Receita Federal em Blumenau/SC relativa ao recolhimento de PIS e COFINS mediante o Decreto n. 11.347/2023. Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 10.000,00 (dez mil reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. CONTRIBUIÇÕES AO PIS E COFINS. DECRETO  11.374/2023. MAJORAÇÃO DE ALÍQUOTA. INOCORRÊNCIA. PRINCÍPIO DA ANTERIORIDADE. INAPLICABILIDADE. ADC Nº 84 MC-REF.
+O Decreto nº 11.374/2023 manteve as alíquotas das contribuições ao PIS e da COFINS praticadas no período anterior, não havendo majoração ou instituição de tributo a atrair a aplicação do princípio da anterioridade nonagesimal.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Considerando que o Decreto nº 11.374/2023 manteve as alíquotas das contribuições ao PIS e da COFINS praticadas no período anterior, não houve majoração ou instituição de tributo, a atrair a aplicação do art. 150, III, "c" e do art. 195, §6º, da Constituição Federal, relativo ao princípio da anterioridade nonagesimal.
+O Plenário do Supremo Tribunal Federal apreciou recentemente a matéria no referendo da concessão da medida cautelar na Ação Declaratória de Constitucionalidade nº 84 "para suspender a eficácia das decisões judiciais que, de forma expressa ou tácita, tenham afastado a aplicação do Decreto 11.374/2023".
+ ..
+Como se vê, no seu exíguo prazo no ordenamento jurídico, o Decreto 11.322/2022 não foi aplicado ao caso concreto, pois não houve sequer um dia útil a possibilitar auferimento de receita financeira - isto é, como não ocorreu o fato gerador, o contribuinte não adquiriu o direito de submeter-se ao regime fiscal que jamais entrou em vigência.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Ademais, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Considerando que há recurso extraordinário interposto nos autos, é inviável a providência prevista no art. 1.032 do CPC/2015. Nesse sentido: AgInt no REsp 1.626.653/PE, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe 6/10/2017; REsp 1.674.459/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/8/2017, DJe 12/9/2017.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
