@@ -1,0 +1,16 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido no Agravo em Execução n. 1.0521.15.010852-5/001.
+O recorrente se insurge contra a anulação da decisão que homologou falta grave cometida pelo apenado, no dia 28/3/2022. O postulante alega violação do art. 118, §2º, da LEP. Argumenta, em síntese, que não é obrigatória a oitiva judicial do reeducando, uma vez que já prestou declarações no procedimento administrativo disciplinar, em que lhe foi assegurados o contraditório e a ampla defesa.
+O MPF opina pelo conhecimento e provimento do recurso para restabelecer a decisão de primeiro grau.
+Decido.
+O recurso preenche os requisitos de admissibilidade, mas não comporta provimento.
+Na origem, foi homologada falta disciplinar de natureza grave imputada ao recorrido, oportunidade na qual foi determinado que este voltasse a cumprir sua reprimenda em regime fechado. O Tribunal de Justiça considerou que a audiência de justificação "afigura-se imprescindível para propiciar ao reeducando o exercício da ampla defesa, em obediência à regra do artigo 118, §2º, da Lei de Execução Penal" (fl. 48), o que não ocorreu, motivo pelo qual anulou a decisão de primeiro grau, com a determinação de novo exame do incidente, após a audiência de justificação em juízo.
+O relator, monocraticamente, poderá decidir o processo quando houver entendimento dominante acerca do tema (Súmula n. 568 do STJ).
+Segundo o art. 118, § 2º, da LEP, na hipótese de prática de falta grave e transferência para qualquer dos regimes mais rigorosos (o que somente pode ser determinado em decisão judicial), o condenado deverá ser ouvido previamente.
+O acórdão recorrido observou o entendimento desta Corte, de que o "art. 118 da LEP exige a oitiva prévia do apenado apenas nos casos de regressão definitiva de regime prisional" (AgRg no HC n. 849.211/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/10/2023, DJe de 11/10/2023, destaquei).
+Deveras, "em caso de prática de fato definido como crime doloso ou falta grave, consoante exegese do art. 118, § 2º, da Lei de Execução Penal, é necessária a prévia oitiva judicial do apenado antes que se proceda à regressão de regime" (AgRg no RHC n. 174.712/MS, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 9/3/2023, grifei).
+Apenas quando o Juiz da VEC não sujeitar a execução à forma regressiva, é dispensável ouvir o reeducando em juízo para aplicação das penalidades menos severas, de perda de até 1/3 dos dias remidos e interrupção da data-base para fins de progressão. No mesmo sentido, cito o AgRg no HC n. 726.911/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 7/10/2022.
+Ilustrativamente: ""nos termos do art. 118, § 2º, da Lei de Execução Penal, é imprescindível, para a regressão definitiva de regime carcerário, a prévia oitiva do apenado em juízo, sob pena de nulidade" (HC n. 407.808/SP, relatora a Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 13/10/2017)" (AgRg no HC n. 651.089/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/8/2021, DJe de 31/8/2021).
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
