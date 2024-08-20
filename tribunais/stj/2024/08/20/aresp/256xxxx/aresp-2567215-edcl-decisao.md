@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JONATAN HEITOR NOGUEIRA VIEIRA SELEGUIN contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 629):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte embargante sustenta a ocorrência de omissão, porquanto não teriam sido apreciados os " ..  argumentos defensivos trazidos no regimental quanto à inaplicabilidade dos óbices consignados na r. decisão que negou seguimento ao reclamo extraordinário interposto" (fl. 636).
+Argumenta que, " ..  não obstante os Temas mencionados pelo Provecto Ministro Vice-Presidente, tais julgados não são absolutos e merecem aprofundamento no caso concreto  .. " (fl. 638).
+Nesse sentido, alega que o pronunciamento objeto do recurso extraordinário não teria enfrentado as teses defensivas e, quanto à inexistência de repercussão geral, " ..  o julgado repisado no v. acórdão ora embargado não se aplica ao caso do ora embargante  .. " (fls. 638-639).
+Aduz, ainda, que o pleito de " ..  conversão do agravo regimental em agravo  .. " (fl. 640) não teria sido analisado.
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado na decisão embargada, em sintonia com a tese fixada no Tema n. 339 do STF, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+Destacou-se que, no caso dos autos, foram declinados, de forma satisfatória, os motivos da conclusão alcançada no acórdão objeto do recurso extraordinário, que não conheceu do recurso dirigido a esta Corte Superior, o que inviabiliza o exame relacionado às questões de mérito submetidas ao STJ.
+Também ficou consignado que, nos termos do entendimento fixado pela Suprema Corte no Tema n. 181 (RE n. 598.365-RG/MG), nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, como na espécie, o recurso extraordinário não prospera, porque a discussão suscitada não é dotada de repercussão geral e eventual afronta à Constituição Federal, se existente, seria apenas indireta ou reflexa, mesmo quando alegada ofensa ao art. 105, III, da CF.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
