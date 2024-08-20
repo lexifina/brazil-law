@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Em relação à inadmissão quanto à aplicação da Súmula n. 7, STJ, a defesa se limitou a aduzir que não pretende o reexame de provas, mas sim a revaloração jurídica dos fatos, entretanto, deveria demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados na decisão atacada.
+III - É incabível o pleito de concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do apelo especial ou de seus posteriores recursos, é descabido.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MANOEL FERREIRA FILHO contra a decisão de fls. 762-765, que não conheceu do agravo em recurso especial.
+Consta nos autos que o agravante foi condenado pela prática do crime previsto no art. 121, caput, e 121, caput, c/c 14, inc. II, por duas vezes, todos do CP, em 14 (quatorze) anos de reclusão e proibição de se obter habilitação para dirigir veículo automotor pelo prazo de 2 (dois) anos, no regime inicial fechado (fls. 541/548).
+A defesa interpôs recurso especial, com fulcro no art. 105, inc. III, alínea a, da Constituição Federal, alegando ofensa ao art. 70, primeira parte, do CP, sustentando que, o Tribunal de origem, ante fundamentação inidônea, aplicou a regra do concurso formal imperfeito.
+Apresentadas as contrarrazões (fls. 691-701), sobreveio juízo negativo de admissibilidade em razão do óbice da Súmula n. 7/STJ (fls. 703-709).
+Nesta Corte, o agravo em recurso especial deixou de ser conhecido, pois a Defesa não impugnou especificamente o fundamento da decisão de inadmissão do apelo nobre, qual seja, o óbice da Súmula n. 7 do STJ (fls. 762/765).
+No regimental (fls. 771/777), sustenta o agravante que o verbete sumular restou plena e satisfatoriamente impugnado nas razões do agravo, de forma a viabilizar a análise meritória do recurso especial. Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado e, ainda, requer a concessão de ordem de habeas corpus de oficio.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO SIMPLES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. IMPOSSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Em relação à inadmissão quanto à aplicação da Súmula n. 7, STJ, a defesa se limitou a aduzir que não pretende o reexame de provas, mas sim a revaloração jurídica dos fatos, entretanto, deveria demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados na decisão atacada.
+III - É incabível o pleito de concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do apelo especial ou de seus posteriores recursos, é descabido.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Na decisão monocrática, restou consignado que o agravo em recurso especial deixou de impugnar os fundamentos da decisão de admissibilidade feito pelo Tribunal de origem para não admitir o apelo nobre, nos seguintes termos (fl. 763):
+"A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao apelo especial, no caso, o óbice da Súmula n.º 7/STJ.
+Em relação à incidência da Súmula n.º 7/STJ, não cuidou a parte agravante de refutar, de forma específica e fundamentada, o referido óbice, tendo se limitado a diferenciar reexame e revaloração de provas, mencionando, em síntese, que "não há dúvida, portanto, que não se admite interposição de recurso especial visando o simples reexame do conjunto probatório, pois este intento encontra óbice na Súmula 7 do Superior Tribunal de Justiça. Todavia, o caso sob análise demanda a revaloração da prova já produzida para o fim de sanar equivocada aplicação de princípios legais e corrigir negativa de vigência a norma alusiva ao direito probante" (fl. 722).
+De fato, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula n.º 7/STJ de maneira adequada, pois deveria a agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu."
+De fato, em relação à inadmissão quanto à aplicação da Súmula n. 7, STJ, a defesa se limitou a aduzir que não pretende o reexame de provas, mas sim a revaloração jurídica dos fatos e que se está diante de questão de direito.
+Entretanto, deveria a parte agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Nesse sentido: "São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg no AREsp n. 2.176.543/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 29/3/2023). Em reforço: AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018 e AgRg nos EDcl no AREsp n. 2.104.712/CE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/11/2022.
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Com efeito, "Deixando a parte agravante de impugnar específica e concretamente os fundamentos da decisão agravada, é de se aplicar o art. 932, III, do Código de Processo Civil de 2015 e o art. 253, I, do RISTJ" (AgRg no AREsp n. 2.083.475/MA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 10/10/2022).
+Por derradeiro, nos termos da jurisprudência desta Corte, "o pleito de concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do apelo especial ou de seus posteriores recursos, é descabido" (AgRg no REsp 1706035/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 22/11/2018).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
