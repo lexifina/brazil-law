@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por ARAUJO & SARAIVA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. NULIDADE DE CRÉDITO TRIBUTÁRIO. NÃO OCORRÊNCIA. REDIMENSIONAMENTO DA MULTA. PATAMAR DE 100% DO VALOR DO IMPOSTO DEVIDO. PRECEDENTES DO STF. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. REDIMENSIONAMENTO DOS HONORÁRIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e interpretação divergente do art. 86, parágrafo único, do CPC, no que concerne à necessidade de condenação do recorrido ao pagamento integral dos ônus sucumbenciais, pois a recorrente sucumbiu em parte mínima do pedido, trazendo a seguinte argumentação:
+Em simples leitura à r. sentença prolatada nos autos de origem, evidencia-se com facilidade que a tese arguida pela Recorrente em sua exordial foi acolhida pelo eminente Magistrado que presidiu o feito.
+Convém salientar que a Recorrente sustentou em seu favor que ao Fisco Estadual seria vedado aplicar multa superior à 100% (cem porcento) do imposto cobrado a título de ICMS, haja vista a flagrante ofensa ao princípio do não-confisco.
+ ..
+Desta forma, de modo escorreito, o eminente Magistrado de instância singela decidiu por acolher a tese da Recorrente, divergindo apenas quanto à extensão dos seus efeitos, já que limitou a aplicação de multa à razão de 100% (cem por cento) do imposto cobrado.
+Ora, ao prolatar a r. sentença o eminente Magistrado declarou a inconstitucionalidade da aplicação da multa e sua redução importou em substancial benefício econômico à Recorrente e frustração de expectativa de receita ao Recorrido, sendo que este não amealhou qualquer benefício com a prolação do decisum.
+ ..
+Em verdade, nenhum ponto da tese sustentada pelo Agravado em sede de contestação foi acolhido quando da prolação da r. sentença, sem olvidar o fato de que o mérito da questão sequer foi objeto de apelação, vez que a irresignação trata apenas de honorários sucumbenciais.
+Não resta dúvida tratar-se de hipótese de sucumbência mínima, nos termos do Parágrafo único do art. 86 do CPC, cf. corrobora jurisprudência de todos os Tribunais Pátrios (fls. 1587-1588).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Conforme sustentado na decisão monocrática impugnada e devidamente debatido na sentença, não há que se falar em nulidade do lançamento do crédito tributário. Houve um redimensionamento do valor da multa para o patamar de 100% do valor do imposto devido, nos termos do citado posicionamento do Supremo Tribunal Federal.
+ ..
+Sobre a alegação de que houve a prescrição intercorrente, a decisão monocrática foi enfática ao pontuar que não houve, na espécie, uma inércia injustificada do agravado em encontrar bens passíveis de penhora.
+ ..
+Sobre a tese de redimensionamento dos honorários de sucumbência, verifico que não deve prevalecer. Conforme muito bem sustentado na decisão agravada, o ora recorrente não logrou êxito na totalidade dos seus pedidos, o que justifica a fixação igualitária das verbas sucumbenciais (fls. 1.567-1.569).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
