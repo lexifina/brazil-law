@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANA LUCIA FELICIO TEIXEIRA contra acórdão do Tribunal de Justiça do Estado do Piauí, no julgamento da apelação criminal n. 0812545-93.2022.8.18.0140.
+Consta dos autos que a paciente foi inicialmente condenada pela 6ª Vara Criminal da Comarca de Teresina, às penas de 09 (nove) anos de reclusão e ao pagamento de multa equivalente a 900 (novecentos) dias-multa, por incursão no artigo 33, caput, da Lei 11.343/2006, nos termos da sentença de fls. 71-94.
+A paciente interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 301-311.
+O impetrante alega que o acórdão impugnado padece de ilegalidade flagrante, consistente na desproporcional exasperação da pena-base e na negativa à causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/2006.
+Requer, assim, a concessão da ordem de modo que a seja redimensionada a pena e estabelecido regime inicial menos gravoso.
+O pedido liminar foi indeferido às fls. 314-315.
+Informações prestadas às fls. 329-332.
+O Ministério Público Federal, às fls. 3374-339, manifestou-se pela concessão parcial, a fim de diminuir a pena da paciente para 5 anos de reclusão, mantido o regime fechado, tendo em vista a reincidência.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração o redimensionamento da pena-base, com o afastamento da análise negativa da natureza e quantidade de droga, bem como a aplicação da figura do tráfico privilegiado.
+Inicialmente, insta consignar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Nesse compasso, ao contrário do que sustenta o impetrante, mostra-se idônea a exasperação da pena-base com fundamento na quantidade/diversidade e natureza das drogas aprendias, uma vez que o Juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, consoante o disposto no artigo 42 da Lei 11.343/2006, in verbis:
+"Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente."
+No presente caso, as instâncias ordinárias, de forma motivada e fundamentada de acordo com o caso concreto, atento as diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, consideraram mormente a quantidade e natureza dos entorpecentes (17,22g de cocaína, 43,03g de maconha e mais 22,03 g de cocaína), para exasperar a reprimenda-base, inexistindo, portanto, flagrante ilegalidade, a ser sanada pela via do writ.
+Por fim, o § 4º do art. 33 da Lei de Drogas disciplina a incidência de causa especial de redução da pena, hipótese denominada pela doutrina como "tráfico privilegiado". Para que o réu possa ter o benefício da diminuição, deverá cumprir, cumulativamente, 4 requisitos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não se dedicar a atividades criminosas; (d) não integrar organização criminosa.
+Os dois pressupostos iniciais são de avaliação estritamente objetiva, basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não esses requisitos.
+Quanto às duas últimas condições, a análise envolve apreciação subjetiva do Magistrado processante, a partir dos elementos de convicção existentes nos autos, para aferir se o apenado se dedica às atividades criminosas ou integra organização criminosa.
+Na hipótese dos autos, a Corte estadual ressaltou que se trata de ré reincidente, o que demonstra que possui vida pregressa de dedicação à vida criminosa.
+Dessa forma, verifico que não há ilegalidade na vedação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, haja vista que as instâncias ordinárias fundamentaram concretamente a negativa da benesse, de acordo com o entendimento deste Superior tribunal de Justiça.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
