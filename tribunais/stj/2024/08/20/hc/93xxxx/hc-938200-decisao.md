@@ -1,0 +1,13 @@
+DECISÃO
+DIEGO RAFAEL DE LIMA MURARO alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2207139-48.2024.8.26.0000.
+A defesa requer que seja determinada à Corte de origem a análise do mérito do habeas corpus, impetrado contra decisão transitada em julgado.
+Decido.
+O paciente foi condenado por tráfico de drogas. O trânsito em julgado ocorreu em 17/6/2024 (fl. 11). Em seguida, a defesa impetrou habeas corpus perante o Tribunal estadual, que era, portanto, substitutivo de revisão criminal, razão pela qual a Corte de origem, acertadamente, não conheceu do mérito do remédio constitucional. Veja-se (fl. 11, destaquei):
+Nesse contexto, pretende o impetrante utilizar o presente writ para obter a absolvição do paciente, sob o argumento de que as provas produzidas no processo penal em que proferida a sentença condenatória devem ser anuladas, vez que se desdobraram de revista pessoal realizada sem fundada suspeita que a justificasse.
+A pretensão, entretanto, não se admite nos limites estritos desta via, pois, como dito, a prova cuja análise se permite é apenas aquela necessária à verificação da ocorrência do constrangimento ilegal manifesto.
+No particular, o postulado reexame da condenação transitada em julgado é questão a ser revisitada em sede de revisão criminal, que é o recurso previsto em lei adequado à hipótese.
+O acórdão recorrido está em conformidade com a jurisprudência do STJ. As alegações defensivas deveriam haver sido suscitadas perante o Juízo competente no prazo oportuno, até para possibilitar às instâncias ordinárias, soberanas na análise de provas, um pronunciamento seguro sobre a questão, após a análise vertical dos autos. É vedada, portanto, a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Ilustrativamente, menciono julgados recentes sobre casos análogos: "O habeas corpus foi impetrado contra acórdão já transitado em julgado. Verifica-se, assim, a inadmissibilidade do writ, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior (art. 105, inciso I, alínea e, da Constituição da República)" (AgRg no HC n. 883.695/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., DJe de 18/3/2024); "A impetração de habeas corpus, após o trânsito em julgado da condenação e com a finalidade de reconhecimento de eventual ilegalidade na colheita de provas, é indevida e tem feições de revisão criminal" (AgRg nos EDcl no HC n. 633.625/AC, Rel. Ministro João Otávio de Noronha, 5ª T., DJe de 8/8/2022).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
