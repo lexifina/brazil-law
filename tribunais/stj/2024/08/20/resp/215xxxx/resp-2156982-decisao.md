@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CONSTRIÇÃO DE VEÍCULO. INDISPENSABILIDADE PARA TRATAMENTO DE SAÚDE. NÃO COMPROVADO. NÃO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS PARA MITIGAÇÃO DO ROL DE IMPENHORABILIDADE. RECURSO CONHECIDO E IMPROVIDO.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aponta violação dos arts. 489 e 1.022 do CPC, uma vez que que o TJTO não analisou adequadamente as provas apresentadas, configurando negativa de prestação jurisdicional. Argumenta que o veículo objeto de constrição é essencial para seu tratamento de saúde, devido a um grave problema de saúde (câncer), e, portanto, deve ser considerado impenhorável.
+Contrarrazões às fls. 149-154.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 12.07.2024.
+Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC.
+Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca a tese jurídica de "essencialidade do bem para fins de manutenção da subsistência do devedor", destacando que "ao apreciar as questões ventiladas nos Embargos de Declaração, o Tribunal a quo quedou-se silente quanto à prova inconteste de (i) determinação médica para se deslocar sempre que necessitar, haja vista a saúde fragilizada em razão do câncer, sendo ressaltado, ainda, que conforme comprovado nos autos de primeira instância, (ii) o veículo bloqueado que está prestes a ser penhorado é o único de sua propriedade."
+Porém, instada a se manifestar, a Corte estadual não analisou a questão suscitada pela parte recorrente, relevante à solução da vexata quaestio.
+É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o magistrado não pode deixar de conhecer de argumento relevante ao deslinde do feito, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a matéria controvertida.
+Reconhece-se, portanto, a existência de omissão no decisum impugnado e, por conseguinte, a ofensa ao art. 1.022 do CPC. Nesse sentido:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC/2015.
+2. Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca as teses jurídicas de existência de coisa julgada garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+3. Porém, instada a se manifestar, verifica-se que não houve análise, pela Corte local, das questões suscitadas pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria importante para o deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial provido para determinar o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca das teses jurídicas de existência de coisa julgada, garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+(REsp 1.891.151/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/04/2021.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. ART. 1.022 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que indeferiu o pagamento do salário-maternidade, por entender que não se paga o mesmo benefício duas vezes.
+2. Alega a recorrente que o acórdão vergastado partiu de premissa equivocada consequente da falta do correto exame da prova carreada ao feito, ao ter reformado a sentença de primeira instância sob o argumento de que a indenização constante do acordo trabalhista já teria englobado o período de salário maternidade, quando o referido documento é expresso em fazer constar o contrário.
+3. O recurso merece acolhida, ante a aparente violação ao artigo 1.022 do CPC, pela configuração de omissão relevante no julgado, relativa à análise da questão referente ao fato de não ter sido o benefício de salário-maternidade incluído no acordo trabalhista realizado pela parte autora com ex empregador, omissão essa não superada a despeito da oposição de Embargos Declaratórios.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial a que se dá parcial provimento, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.
+(REsp 1.697.338/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2017.)
+Diante do exposto, dou provimento ao Recurso Especial, a fim de anular o aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem para que este profira novo julgamento e aborde a tese jurídica de "essencialidade do bem para fins de manutenção da subsistência do devedor", com destaque para o fato de que há uma determinação médica para que o recorrente se desloque sempre que necessário e o veículo bloqueado, que está prestes a ser penhorado, é o único de sua propriedade.
+Publique-se.
+Intimem-se.
+EMENTA
