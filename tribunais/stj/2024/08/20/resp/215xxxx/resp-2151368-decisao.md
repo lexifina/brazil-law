@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. SISTEMÁTICA DE APURAÇÃO DO INCENTIVO FISCAL. IRPJ. DEDUÇÃO. LEI Nº 6.321/76. JULGAMENTO PROFERIDO NA SISTEMÁTICA PREVISTA NO ART. 942 DO CPC.
+1. A limitação da despesa dedutível de cada refeição pela IN/SRF nº 267/2002 não encontra respaldo na lei instituidora do benefício fiscal do Programa de Alimentação do Trabalhador - PAT.
+2. O Decreto nº 10.854/2021 exorbitou o poder regulamentar ao impor restrições ao incentivo fiscal que a Lei nº 6.321/71 não previu. Precedentes da Corte.
+Os Embargos de Declaração foram rejeitados.
+A Fazenda Nacional, nas razões do Recurso Especial, aponta violação dos arts. 1º e 2º da Lei 6.321/1976. Aduz:
+Há, assim, autorização legislativa para que o Executivo possa, por intermédio de decreto regulamentador, estabelecer regras que garantam o atendimento prioritário os trabalhadores mais vulneráveis, evitando, assim, que o programa se afaste de seu objetivo, que é melhorar as condições nutricionais dos trabalhadores de baixa renda.
+Contrarrazões às fls. 304-314.
+É o relatório.
+Decido
+Os autos foram recebidos neste Gabinete em 20.6.2024.
+O Tribunal de origem declarou ilegais as limitações à dedução das despesas com o Programa de Alimentação ao Trabalhador - PAT não estabelecidas na lei de regência da matéria. Veja-se:
+O incentivo fiscal para as empresas que aderirem ao Programa de Alimentação do Trabalhador encontra-se previsto na Lei nº 6.321/1976:
+(..)
+A Instrução Normativa SRF nº 267, de 23 de dezembro de 2002, dispõe sobre os incentivos fiscais decorrentes do imposto sobre a renda das pessoas jurídicas e estabelece que:
+(..)
+Conforme se vê, a limitação da despesa dedutível de cada refeição estabelecida pela IN/SRF nº 267/2002 não encontra respaldo na lei instituidora do benefício fiscal, de modo que a norma regulamentadora trouxe inovação em desfavor do contribuinte.
+No sentido da ilegalidade da norma é pacífica a jurisprudência do STJ e da Corte Regional Federal:
+(..)
+Assim, deve ser acolhido o pedido da impetrante para o fim de reconhecer a ilegalidade da limitação da despesa dedutível sobre o valor de cada refeição.
+2.2 Decreto nº 10.854 de 2021 O Decreto nº 10.854 de 2021 promoveu alterações no artigo 645 do Decreto nº 9.580 de 2018 (Regulamento do Imposto sobre a Renda), introduzindo novas regras de aproveitamento do incentivo fiscal, nos seguintes termos:
+Com a vigência do Decreto nº 10.854/2021, o § 1º do artigo 645 do Decreto nº 9.580/2018 passou a prever que a dedução do PAT apenas seria aplicável em relação aos valores despendidos para os trabalhadores que recebam até cinco salários mínimos e deveria apenas abranger a parcela do benefício que corresponder ao valor de, no máximo, um salário-mínimo.
+Sobre as alterações promovidas pelo recente Decreto nº 10.854/2021, as duas Turmas de Direito Tributário desta Corte já se posicionaram no sentido de que o referido Decreto, em afronta à hierarquia das normas, exorbitou o poder regulamentar ao impor restrições ao incentivo fiscal que a Lei nº 6.321/71 não previu.
+Verifica-se, assim, que tais restrições inovaram no ordenamento jurídico, uma vez que inexistiam limites dessa ordem na Lei nº 6.321/76 e nas legislações subsequentes, bem como nos atos normativos infralegais editados para regulamentação da matéria.
+Destaque-se, por fim, que a modificação da redação do art. 1º da Lei nº 6.321/1976 pela Medida Provisória nº 1.108/2022, convertida na Lei nº 14.442/22, ainda que tenha assegurado a possibilidade de o Poder Executivo, por meio de regulamento, dispor sobre limitações ao benefício fiscal, possui efeitos prospectivos e, portanto, não tem o condão de convalidar as ilegalidades que maculavam o atual Regulamento, editado sob a égide da antiga redação do art. 1º da Lei nº 6.321/1976.
+A jurisprudência do STJ é de que a Portaria Interministerial 326/1977 e a Instrução Normativa 267/2002, ao fixarem custos máximos para as refeições individuais como condição ao gozo do incentivo fiscal previsto na Lei 6.321/1976, violaram o princípio da legalidade, porque extrapolaram os limites do poder regulamentar.
+Com efeito, ato infralegal não pode restringir, ampliar ou alterar direitos decorrentes de lei. A lei é que estabelece as diretrizes para a atuação administrativa-normativa regulamentar. Se o Poder Público identificou a necessidade de realizar correções no programa há que fazê-lo pelo caminho jurídico adequado e não improvisar via comandos normativos de hierarquia inferior, conduta já rechaçada em abundância pela jurisprudência.
+Em conclusão, o art. 186 do Decreto 10.854/2021, ao restringir a dedução do PAT a valores pagos a título de alimentação para os trabalhadores que recebam até cinco salários-mínimos, limitada a dedução ao valor de, no máximo, um salário-mínimo, incorreu em ilegalidade. Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR. ILEGALIDADE DA INSTRUÇÃO NORMATIVA SRF N. 267/2002 FRENTE À LEI N. 6.321/76.
+1. Não merece conhecimento o recurso especial que aponta violação ao art. 535, do CPC, sem, na própria peça, individualizar o erro, a obscuridade, a contradição ou a omissão ocorridas no acórdão proferido pela Corte de Origem, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Em que pese a interposição de embargos de declaração, resta ausente o prequestionamento dos seguintes dispositivos legais: arts. 369 do RIR/99 (versa sobre a dedução genérica de despesas com a alimentação do trabalhador); art. 1º, §2º, do Decreto-lei n. 2.462/88; artigo 10, §2º, da Lei 8.541/92; art. 3º, §4º, da Lei 9.249/95; artigo 111 do CTN (versam sobre a impossibilidade de deduções do adicional do IR). Para estes casos incide a Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+3. A jurisprudência deste STJ já está firmada no sentido de que a Portaria Interministerial n.º 326/77 e a Instrução Normativa da Secretaria da Receita Federal n.º 267/02 estabeleceram limitações ilegais não previstas na Lei 6.321/76, no Decreto n.º 78.676/76 ou no Decreto n. 5/91, quanto à condição de gozo do incentivo fiscal relativo ao PAT, quando fixaram custos máximos para as refeições individuais oferecidas pelo programa. Precedentes: REsp 157.990/SP, Rel. Min. Francisco Falcão, Primeira Turma, DJU de 17.05.04; REsp 990.313/SP, Rel. Min. Castro Meira, Segunda Turma, DJe 06.03.08; AgRg no REsp 1240144 / RS, Segunda Turma, Rel. Min. Castro Meira, julgado em 15.05.2012.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido (REsp. n. 1.217.646 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 25.06.2013).
+PROCESSUAL CIVIL E TRIBUTÁRIO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. INCENTIVO FISCAL. LEI Nº 6.321/76. LIMITAÇÃO. PORTARIA Nº 326/77 E INSTRUÇÃO NORMATIVA Nº 143/86. VIOLAÇÃO. PRINCÍPIO DA HIERARQUIA DAS LEIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nºs 282 E 356/STF.
+I - As limitações impostas pela Portaria n.º 326/77 e pela Instrução Normativa n.º 143/86, fixando custos máximos para cada refeição individual oferecida pelo PAT, são ilegais, porquanto estabelecem restrições que não foram previstas na Lei n.º 6.321/76, nem no Decreto n.º 78.676/76 que a regulamentou, violando, com isso, o princípio da hierarquia das leis.
+II - A matéria inserta no art. 6º do Decreto-lei n.º 1.598/77, apontado como violado, não foi objeto de debate no v. acórdão hostilizado e sequer foram opostos embargos de declaração para suprir a omissão e ventilar a questão federal. Incidem, portanto, na espécie, os enunciados nºs 282 e 356, do STF.
+III - Recurso especial a que se nega provimento" (REsp 157.990/SP, Rel. Min. Francisco Falcão, Primeira Turma, DJU de 17.05.04).
+RECURSO ESPECIAL. AGRAVO REGIMENTAL. TRIBUTÁRIO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR-PAT. IMPOSTO DE RENDA. INCENTIVO FISCAL. LEI Nº 6.321/76. LIMITAÇÃO. PORTARIA INTERMINISTERIAL Nº 326/77 E INSTRUÇÃO NORMATIVA Nº 267/02. ILEGALIDADE. PRECEDENTES.
+1. A Portaria Interministerial n.º 326/77 e a Instrução Normativa n.º 267/02, ao fixarem custos máximos para as refeições individuais como condição ao gozo do incentivo fiscal previsto na Lei n.º 6.321/76, violaram o princípio da legalidade, porque extrapolaram os limites do poder regulamentar. Precedentes.
+2. Agravo regimental não provido. (AgRg no REsp 1.240.144/ RS, Segunda Turma, Rel. Min. Castro Meira, julgado em 15.5.2012)
+Ante o exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
