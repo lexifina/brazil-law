@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADRIAN JUNIO CAMARGO, IURY GOMES DE CARVALHO e LEONARDO ARAUJO SILVA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.23.249134-0/000).
+Depreende-se dos autos que os pacientes estão presos preventivamente, acusados de terem praticado os delitos descritos nos arts. 129, 147, 148 e 158 do Código Penal.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 64):
+HABEAS CORPUS - LESÃO CORPORAL, AMEAÇA, EXTORSÃO E CÁRCERE PRIVADO - PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA - AUDIÊNCIA DE CUSTÓDIA REALIZADA APÓS O DECURSO DE 24 HORAS - MERA IRREGULARIDADE - AUSÊNCIA DE PREJUÍZO - NULIDADE NÃO CONFIGURADA - PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313, INCISO I, DO CÓDIGO DE PROCESSO PENAL - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - SUBSTITUIÇÃO POR OUTRA MEDIDA CAUTELAR - IMPOSSIBILIDADE - PERICULOSIDADE DOS AGENTES E CONTUMÁCIA DELITIVA - RISCO À ORDEM PÚBLICA DEMONSTRADO - MANUTENÇÃO DA PRISÃO - CONDIÇÕES PESSOAIS FAVORÁVEIS QUE, POR SI SÓS, NÃO IMPEDEM O ACAUTELAMENTO - AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - INOCORRÊNCIA - ORDEM DENEGADA. A realização da Audiência de Custódia após o prazo de 24 horas constitui mera irregularidade, não havendo que se falar em relaxamento da prisão preventiva se não resta evidenciado qualquer prejuízo ao acautelados. Restando demonstrados os indícios de autoria, a prova da materialidade e a periculosidade dos Pacientes, em razão da gravidade concreta dos crimes em apuração e da contumácia delitiva, imperiosa é a manutenção da prisão preventiva para garantia da ordem pública, inviabilizando a aplicação das medidas cautelares do artigo 319 do Código de Processo Penal. Eventuais condições pessoais favoráveis não podem ser analisadas em descompasso com o contexto dos autos, não sendo capaz de obstar, por si só, a custódia preventiva, caso preenchidos os requisitos legais. O princípio da presunção de inocência, que encontra fundamento no artigo 5º, inciso LVII, da Constituição da República, não é incompatível com a prisão processual.
+Na presente impetração, a defesa alega que o decreto prisional carece de fundamentação idônea, já que lastrado, apenas, na gravidade abstrata dos delitos.
+Destaca a excessiva demora para a realização da audiência de custódia, bem como para o encerramento do inquérito policial, circunstâncias aptas a demonstrar o constrangimento ilegal suportado pelos pacientes.
+Destaca as condições pessoais favoráveis do acusados e afirma ser suficiente a aplicação de outras medidas cautelares.
+Requer, assim, liminarmente e no mérito, a revogação das prisões, ainda que mediante a imposição de medidas alternativas.
+Liminar indeferida (e-STJ fls. 84/85).
+Informações prestadas (e-STJ fls. 91/126 e 127/152).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 156/160).
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verifica-se que, em 8/4/2024, o Juízo da Vara Única da Comarca de Dores do Indaiá julgou parcialmente procedente a pretensão punitiva estatal deduzida na peça acusatória para condenar os pacientes como incursos no art. 159, caput, do Código Penal, todos à pena de 8 anos, 10 meses e 5 dias de reclusão, em regime inicial fechado, sendo-lhes negado o direito de recorrer em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar imposta aos pacientes, a qual, agora, decorre de novo título, a ser submetido à apreciação pelo Tribunal estadual.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte Superior, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
