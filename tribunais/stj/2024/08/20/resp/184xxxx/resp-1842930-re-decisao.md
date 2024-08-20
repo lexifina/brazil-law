@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PAGAMENTO DE BENEFÍCIO. RESPONSABILIDADE. DECISÃO MANTIDA.
+1. Conforme o entendimento da Segunda Seção desta Corte, reafirmado no julgamento conjunto do REsp n. 1.964.067/ES (relator Ministro Luis Felipe Salomão, DJe de 5/8/2022) e dos ERESP n. 1.673.890/ES (relatora Ministra Maria Isabel Gallotti, relator para o acórdão Ministro Luis Felipe Salomão, DJe de 9/9/2022), o ente previdenciário, ora recorrente, é responsável pela manutenção do pagamento da complementação de aposentadoria aos empregados aposentados da COFAVI que cumpriram as condições previstas contratualmente para o recebimento do benefício, sendo certo que "a independência patrimonial, exteriorizada pela contabilidade e gestão em separado dos fundos, assim como a ausência de solidariedade, própria dos planos de previdência complementar envolvendo os multiplanos, formados com multipatrocinadores, não afasta  ..  a obrigatoriedade da continuidade do pagamento dos benefícios"
+2. Agravo interno a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, aos arts. 5º, XXII, e 202 da Constituição Federal.
+Aduz que, conforme previsão constitucional, o regime de previdência privada seria baseado na constituição de reservas com o propósito de garantir o benefício contratado, o que não teria sido respeitado pelo julgado impugnado, uma vez que, embora reconhecido o exaurimento dos recursos da submassa Cofavi, o acórdão teria lhe imposto o pagamento da complementação do benefício previdenciário sem a correspondente receita.
+Acrescenta que a utilização dos recursos constituídos por participantes da submassa Cosipa para pagamento de benefícios aos participantes da submassa Cofavi constitui ofensa ao direito de propriedade.
+Requer o provimento do recurso.
+É o relatório.
+No caso dos autos, a conclusão alcançada no acórdão recorrido foi a de que a falência da patrocinadora do plano de previdência complementar ou o esgotamento dos recursos do fundo não são fatos capazes de afastar o dever do instituto previdenciário quanto ao pagamento do benefício desde que cumpridas, pelo beneficiário, as condições previstas contratualmente.
+Por sua vez, o Supremo Tribunal Federal, em julgamento proferido no ARE n. 1.481.694-RG/ES, fixou o entendimento de que, por depender da interpretação da legislação infraconstitucional, da análise de cláusulas contratuais e do exame de aspectos fático-probatórios, a questão em tela não possui repercussão geral.
+Eis, a propósito, a conclusão adotada pelo STF no mencionado precedente, paradigma do Tema n. 1.296, de repercussão geral:
+É infraconstitucional e pressupõe o exame de matéria fático-probatória a controvérsia sobre a responsabilidade de entidade gestora de fundo de previdência complementar pelo pagamento de benefício nos casos de falência da entidade patrocinadora ou de exaurimento da reserva pré-constituída.
+(ARE n. 1.481.694-RG, relator Ministro Luís Roberto Barroso - Presidente, Tribunal Pleno, julgado em 3/4/2024, DJe de 10/4/2024.)
+Vale anotar que, anteriormente, o próprio Supremo Tribunal Federal devolveu ao Superior Tribunal de Justiça casos semelhantes, inicialmente remetidos à Corte Suprema como agravo em recurso extraordinário, determinando a aplicação dos procedimentos previstos no art. 1.030 do CPC, em razão da orientação firmada no Tema n. 1.296 do STF.
+Nesse sentido, confiram-se: ARE n. 1.476.792, relator Ministro Luís Roberto Barroso (Presidente), julgado em 5/2/2024, DJe de 7/2/2024; ARE n. 1.488.592, relator Ministro Luís Roberto Barroso (Presidente), julgado em 17/4/2024, DJe de 18/4/2024; e ARE n. 1.481.251-AgR, relator Ministro Luís Roberto Barroso (Presidente), Tribunal Pleno, julgado em 12/4/2024, DJe de 17/4/2024.
+Portanto, tratando-se de recurso extraordinário que discute questão destituída de repercussão geral, conforme definido pelo Supremo Tribunal Federal, a negativa de seguimento é medida que se impõe.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. APOSENTADORIA. COMPLEMENTAÇÃO. FALÊNCIA DA ENTIDADE PATROCINADORA OU EXAURIMENTO DA RESERVA PRÉ-CONSTITUÍDA. TEMA N. 1.296 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
