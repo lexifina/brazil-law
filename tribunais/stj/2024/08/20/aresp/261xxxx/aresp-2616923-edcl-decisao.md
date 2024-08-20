@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por San Carlos Prestação de Serviços em Estruturas Metálicas Ltda. contra decisão que não conheceu do agravo com base na Súmula 182/STJ, tendo em vista que não foram impugnados os motivos adotados pelo Tribunal de origem para negar trânsito ao recurso especial.
+A parte embargante sustenta que "com todo respeito ao entendimento adotado, tanto no recurso especial interposto, quanto no agravo de despacho denegatório, em ambos se encontram perfeitamente e cristalina as razões de não incidência da Sumula 7 deste C. STJ. A uma porque as razões do recurso especial são claras na questão de aplicação do artigo 85, §§3 e incisos do CPC, inclusive em face de vários entendimentos proferidos por este C. STJ" (fl. 548)
+Pugna, pois, pelo acolhimento dos embargos de declaração, a fim de que seja sanada a omissão.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Ademais, cabe esclarecer que a decisão embargada foi clara quanto à aplicação da Súmula 182/STJ no caso dos autos. Assim destaca-se a seguinte fundamentação (fl. 542/543 - g.n.):
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, apesar de fazer genérica menção à Súmula 7/STJ, a parte agravante não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto, limitando-se a afirmar que "para o caso em apreço, houve a violação da interpretação do Artigo 85 do CPC e não de reincursão no acervo fático probatório mediante a análise detalhada de documentos, testemunhos, contratos, perícias, dentre outros que correspondem a provas" (fl. 501) e reiterar os fundamentos do apelo especial.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegada omissão do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
