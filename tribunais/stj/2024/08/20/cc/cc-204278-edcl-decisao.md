@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por JOSUE LUCAS DE MORAES BASTOS contra a decisão que conheceu do conflito para declarar a competência do Juízo da Recuperação Judicial porquanto, na leitura dos documentos que instruem a inicial, que a suscitante está submetida a processo de recuperação judicial em trâmite perante o d. Juízo da 1ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo/SP e que d. Juízo do Trabalho suscitado promoveu a continuidade de execução movida em face da recuperanda, liberando ao credor trabalhista valores depositados judicialmente (nas fls. 802/804).
+De sua vez, o embargante afirma, que "o valor depositado não possui natureza de garantia ou de seguro, mas se trata de cumprimento voluntário da obrigação, pelo devedor, realizado em 24/05/2017" sendo que "o valor está depositado nos autos desde essa data com o efeito de pagamento" (na fl. 842).
+Alega, também, que "outro ponto que não restou explicado pela suscitante no conflito é que a ação em que realizou o pagamento se trata de execução provisória contra duas empresas, uma devedora principal (suscitante do conflito) e outra subsidiária (Claro S.A)", estando, "portanto, equivocada a informação contida na decisão embargada de que o crédito deverá ser habilitado, mediante habilitação retardatária, no Juízo Universal" (na fl.842).
+Logo, conclui que, "se for descaracterizado o pagamento voluntário feito pela executada, antes de sua RJ, não haverá crédito a ser habilitado no Juízo Universal da Recuperação Judicial" e que, "o que ocorrerá, salvo melhor juízo, será a continuidade da execução provisória, com a prática de novos atos expropriatórios, desta vez contra a devedora subsidiária, nos termos da jurisprudência do ínclito TST" (na fl. 843).
+Requer o acolhimento dos embargos de declaração, conforme requer nas fls. 844/842.
+É o relatório.
+Passo a decidir.
+Os embargos não merecem acolhida.
+Deveras, é desimportante que "o valor depositado não possui(a) natureza de garantia ou de seguro", conforme afirma o embargante, pois o que é fundamental é que se trata de valores de titularidade da embargante que nunca passaram para a disponibilidade fática e jurídica de terceiros.
+Nesse passo, verifica-se que a decisão embargada, acertadamente, esclareceu que "esta Corte considera ser da competência precípua do Juízo "singular" apenas a apreciação e julgamento das ações versando sobre a apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que os valores apurados, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo "universal" para posterior pagamento (AgInt nos EDcl no CC n. 165.079/SP)" (na fl. 803).
+Noutro passo, a informação de que o caso, trata-se "de execução provisória contra duas empresas, uma devedora principal (suscitante do conflito) e outra subsidiária (Claro S.A)" não foi trazida aos autos, sequer pelo d. Juízo do Trabalho (na fl. 820).
+Ademais, o redirecionamento da execução para a devedora subsidiária deve ser buscada na própria instância trabalhista.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+ EMENTA
