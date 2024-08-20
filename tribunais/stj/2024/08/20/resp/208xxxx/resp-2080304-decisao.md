@@ -1,0 +1,15 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal a quo no Agravo em Execução n. 0701950-31.2023.8.07.0000.
+Em suas razões, o recorrente aponta violação do art. 126 da LEP, ao argumento, em síntese, de que não seria possível a concessão da remição em razão da aprovação no ENEM a sentenciado que haja concluído o ensino médio antes do início do cumprimento da pena.
+Requer o provimento da insurgência, a fim de que seja restabelecida a decisão proferida pelo Magistrado da execução, que indeferiu o pleito de remição da pena do recorrido.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo pelo qual avanço na análise de mérito da controvérsia.
+Infere-se dos autos que o Magistrado da execução indeferiu pedido de remição formulado em favor do recorrido, pois, a partir de 3/4/2017, não é mais possível certificar a conclusão do ensino médio por meio de aprovação no ENEM.
+Inconformada, a defesa interpôs agravo em execução, ao qual o Tribunal a quo deu parcial provimento, para determinar ao Juízo de primeiro grau que proceda à remição das horas estudadas, proporcionalmente, às áreas de conhecimento em que o reeducando obteve êxito, sem o acréscimo de 1/3 no tempo a remir, previsto no artigo 126, § 5º, da Lei de Execução Penal.
+Sobre o tema em debate, saliento que " a  jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de o Reeducando ter direito à remição da pena, pelo estudo, em decorrência da aprovação parcial no Exame Nacional do Ensino Médio - ENEM" (AgRg no HC n. 759.569/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 16/5/2023).
+Além disso, urge consignar também "" ser  cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal" (AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 9/3/2023, grifei).
+Verifica-se, portanto, que o acórdão impugnado, ao conceder ao sentenciado o direito à remição em razão de sua aprovação parcial no ENEM, está em harmonia com a jurisprudência desta Corte Superior, a atrair, assim, a incidência da Súmula n. 83 do STJ.
+À vista do exposto, nego provimento ao recurso especial
+Publique-se e intimem-se.
+EMENTA
