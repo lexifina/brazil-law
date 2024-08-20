@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por SUPERPESA CIA DE TRANSPORTES ESPECIAIS E INTERMODAIS - EM RECUPERAÇÃO JUDICIAL e OUTROS, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ, fl. 868):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECUPERAÇÃO JUDICIAL. PENHORA. RECURSO IMPROVIDO.
+1. Trata-se de agravo de instrumento interposto por João Luiz Alves, Superpesa Cia de Transportes Especiais e Intermodais em Recuperação Judicial e Zenith da Costa Machado Alves contra decisão que indeferiu o levantamento da penhora dos automóveis localizados em nome do Espólio de João Luiz Alves.
+2. Previamente, registro o entendimento fixado no agravo de instrumento nº 0012636-44.2016.4.02.0000, julgado nesta 5ª Turma Especializada, no sentido de que a homologação do plano de recuperação judicial da empresa devedora não impede o prosseguimento da execução em face de coobrigados, fiadores ou avalistas do título executivo.
+3. Com efeito, os sistemas Sisbajud, Renajud e Infojud são ferramentas eletrônicas colocadas à disposição do Judiciário a fim de auxiliar na efetividade da prestação jurisdicional. Desta forma, nenhuma ilegalidade existe na determinação do Juízo de origem na busca de bens dos devedores por meio do sistema Renajud.
+4. Por fim, não se observa a alegada impenhorabilidade dos veículos em razão dos mesmos serem utilizados para serviços diversos na empresa em recuperação judicial, tendo em vista que o patrimônio da pessoa física coobrigada não se confunde com o da pessoa jurídica e, como decidido no acórdão proferido no agravo de instrumento nº 0012636-44.2016.4.02.0000, não há impedimento para o prosseguimento da execução em face dos coobrigados, fiadores ou avalistas, conforme entendimento do Superior Tribunal de Justiça
+5. Na espécie, o juízo da decisão interlocutória de primeira instância, que indeferiu o levantamento da penhora, proferiu decisão perfeitamente fundamentada e tem respaldo em precedentes da Colenda Corte Superior, bem como das Cortes Regionais.
+6. Sem embargo, a interpretação adotada no decisum recorrido não se afigura manifestamente equivocada, não se justificando a reforma da decisão.
+7. Agravo de instrumento improvido.
+Nas razões do apelo especial, os recorrentes apontaram violação aos arts. 139, I, 492 e 805 do CPC/2015; e 3º, 6º, § 4º, 47, 58, § 2º, 59 e 76 da Lei n. 11.101/2005.
+Sustentaram ter sido determinada a penhora de automóveis diversos do pedido, o que ofenderia os princípios da congruência e da menor onerosidade ao executado.
+Afirmaram que os automóveis são essenciais para a realização das atividades da empresa em recuperação judicial, além de ser legal a previsão, no plano de recuperação judicial, da novação em favor dos coobrigados.
+Alegaram que o juízo recuperacional seria o competente para apreciar a controvérsia.
+Contrarrazões às fls. 916-930 (e-STJ).
+O processamento do apelo especial foi inadmitido pela Corte de origem, levando os insurgentes a interpor o presente agravo, por meio do qual contestam a aplicação do óbice apontado na decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, cabe registrar que os bens de titularidade dos coobrigados, ainda que sejam considerados essenciais à atividade da empresa em recuperação judicial, podem ser expropriados, por não se sujeitarem ao plano recuperacional.
+Oportunamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. INDEFERIMENTO, PELO TRIBUNAL DE ORIGEM, DO PEDIDO DE SUSPENSÃO DO PROCEDIMENTO DE CONSOLIDAÇÃO DE IMÓVEL, OBJETO DE GARANTIA FIDUCIÁRIA EM CÉDULA DE CRÉDITO BANCÁRIO. BEM DADO EM GARANTIA FIDUCIÁRIA POR TERCEIRO (E NÃO PELA RECUPERANDA). IMÓVEL NÃO ABRANGIDO NO PLANO DE RECUPERAÇÃO JUDICIAL. DESCABIMENTO DE APLICAÇÃO DA PARTE FINAL DO § 3º DO ART. 49 DA LEI N. 11.101/2005. SÚMULAS N. 480 E 581 DO STJ. ACÓRDÃO RECORRIDO, EM TESE, EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. APARÊNCIA DO BOM DIREITO. AUSÊNCIA. VERIFICAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Esta Corte de Justiça possui o pacífico posicionamento de que os credores cujos créditos não se sujeitam ao plano de recuperação não podem expropriar bens essenciais que afetem o patrimônio da sociedade recuperanda. Todavia, esta compreensão não se estende à expropriação de bens de titularidade de sócios, ex-sócios, terceiros garantes, cujo patrimônio não responde perante a recuperação judicial da devedora principal.
+2. Em princípio, o acórdão recorrido se alinhou ao entendimento desta Corte Superior, pois manteve a constrição do imóvel ao argumento de que o bem foi dado em garantia por terceiro, não estando, portanto, abrangido pelos efeitos da recuperação. Aparência do bom direito. Não verificação.
+3. Agravo interno improvido.
+(AgInt nos EDcl no TP n. 2.746/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020.)
+Nesse mesmo sentido: AgInt no AREsp n. 2.196.856/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023.
+Dessa forma, por estar o acórdão impugnado em consonância ao entendimento desta Casa, de rigor a aplicação, à espécie, do disposto na Súmula 83/STJ.
+No mais, verifica-se que não houve manifestação, no aresto recorrido, sobre as demais questões suscitadas no recurso especial, tampouco foram opostos embargos de declaração com o intuito de provocar o debate na instância ordinária, deixando a parte de cumprir o requisito do prequestionamento.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, o que não ocorreu na espécie. Incidem , portanto, as Súmulas 282 e 356/STF.
+Sobre o tema, veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. ARTIGO 1022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO PER RELATIONEM. ACRÉSCIMO DE FUNDAMENTOS NO ACÓRDÃO RECORRIDO. VÍCIO DE PROCEDIMENTO DESCARACTERIZADO. CÓPIA DE TÍTULO EXECUTIVO. DOCUMENTO HÁBIL À PROPOSITURA DE AÇÃO MONITÓRIA. PRECEDENTES. SÚMULA 83/STJ. TAXA DE JUROS REMUNERATÓRIOS ANUAL INFERIOR A 12%. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. PREVISÃO EM DESTAQUE DA TAXA DE JUROS CONTRATADA. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NÃO PROVIDO.
+
+4. Inexistente prequestionamento acerca da previsão de cláusula contratual em destaque acerca dos juros remuneratórios, não há como examinar a controvérsia de modo originário em recurso especial, em razão do óbice do prequestionamento, atraindo a aplicação das Súmulas 282 e 356/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.038.866/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. PENHORA DE AUTOMÓVEIS. ESSENCIALIDADE DOS BENS. IRRELEVÂNCIA. DÍVIDA NÃO SUJEITA AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. BENS DE TITULARIDADE DOS COOBRIGADOS . SÚMULA 83/STJ. 2. DEMAIS TESES RECURSAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
