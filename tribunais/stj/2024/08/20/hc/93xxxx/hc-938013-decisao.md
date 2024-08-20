@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DEUSIMAR AMORIM DE CARVALHO JUNIOR contra decisão monocrática de Desembargador plantonista do Tribunal de Justiça do Estado do Piauí (HC nº 0761052-41.2024.8.18.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante, em 14/8/2024, pela suposta prática do delito tipificado no art. 17 da Lei nº 10.826/03. A custódia foi convertida em preventiva.
+Contra a decisão, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 207/210):
+HABEAS CORPUS IMPETADO EM PLANTÃO JUDICIÁRIO. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA. COMÉRCIO ILEGAL DE ARMA DE FOGO. AUSÊNCIA DE JUNTADA DA MÍDIA AUDIOVISUAL DA AUDIÊNCIA DE CUSTÓDIA COM OS FUNDAMENTOS DA DECISÃO IMPUGNADA. CABIMENTO DA PRISÃO PREVENTIVA, NOS TERMOS DO ART. 313, I, DO CPP. AUSÊNCIA DE CIRCUNSTÂNCIA QUE AUTORIZE A SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR. LIMINAR INDEFERIDA.
+No presente writ, a defesa alega que "não há fundamentos idôneos que justifiquem a manutenção da prisão do paciente. Isto porque o paciente ostenta condições pessoais favoráveis, e ao contrário do que se alega, o paciente não responde a nenhuma outra ação penal, é primário, de bons antecedentes, com residência fixa no distrito de culpa e ocupação lícita" (e-STJ fl. 7).
+Aponta violação do princípio da homogeneidade, uma vez que a pena mínima cominada para a conduta é de 6 anos de reclusão, de modo que o regime inicial de pena seria o semiaberto. Desse modo, defende que a custódia seria desproporcional.
+Sustenta a suficiência da aplicação de medidas cautelares alternativas. Além disso, relata que o paciente possui cálculo renal grosseiro e acúmulo de gordura no fígado, sendo ainda pai de 2 filhos menores que fazem tratamento psiquiátrico e requerem seus cuidados. Desse modo, pugna pela concessão da prisão domiciliar humanitária.
+Requer, em liminar e no mérito, a expedição de alvará de soltura, com ou sem aplicação de medidas cautelares alternativas, ou o deferimento da prisão domiciliar, nos termos do art. 318, incisos II e IV do Código de Processo Penal.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, assim se manifestou o Relator ao indeferir a liminar (e-STJ fls. 207/210):
+O paciente foi preso em flagrante em 14/08/2024, convertido em prisão preventiva no dia 15/08/2024), motivo pelo qual admite-se o conhecimento da impetração apresentada neste plantão judiciário, a contrario senso do art. 8º, IV, da Resolução TJPI nº 111/181. Passa-se, portanto, à análise da liminar.
+Não há como analisar a alegação de inidoneidade dos fundamentos do decreto de prisão preventiva, porque a fundamentação da decisão encontra-se em vídeo não juntado à impetração. De fato, no termo de audiência de custódia consta apenas que as declarações do autuado, as manifestações do Ministério Público e do advogado de defesa, bem com a fundamentação da decisão foram gravados.
+Contudo, a mídia audiovisual com os fundamentos da decisão impugnadas nesta impetração não foram juntadas aos autos.
+Por outro lado, observa-se que a autoridade policial fundamentou o pedido de prisão preventiva na gravidade concreta da conduta. Confira-se:
+Com efeito, a diligência policial demonstrou-se extremamente exitosa, sobretudo diante da elevada QUANTIDADE e VARIEDADE de material bélico apreendido na residência do representado.
+Nesse diapasão, é de relevo assinalar que foram apreendidas munições de diversos calibres, a exemplo daqueles típicos de pistolas de uso restrito, como 9 milímetros.
+Constatou-se a NOTORIEDADE e considerável CAPACIDADE DE DISTRIBUIÇÃO do representado, a indicar que o fornecimento de material bélico ultrapassava as fronteiras do município de Esperantina.
+Em verdade, o representado mantinha um ARSENAL de GUERRA!
+Pondera-se, também, a expertise do representado na comercialização do material ilícito, na medida em que fazia no âmbito de sua venda lícita de material de construção.
+Diante de todos os fatos apontados, verifica-se que a conduta do representado é dotada de GRAVIDADE EXTREMA, a qual lesou ferozmente a ORDEM PÚBLICA.
+Nesse cenário, SOMENTE a PRISÃO PREVENTIVA será capaz de REESTABELECER a PAZ SOCIAL, severamente lesada pelo representado, que, conforme se depreende, MANTINHA a atividade criminosa há muito tempo.
+Em suma, a ausência de juntada da mídia audiovisual da audiência de custódia inviabiliza a análise da alegação de idoneidade da fundamentação adotada pelo magistrado para converter a prisão em flagrante em prisão preventiva.
+Também não se pode antecipar a pena que será imposta ao paciente em caso de condenação para afastar o cabimento da prisão preventiva, sob o argumento de que o regime de cumprimento será menos gravoso que a própria medida cautelar. Nos termos do art. 313, I, do CPP, "será admitida a decretação da prisão preventiva: (..)nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4(quatro) anos".
+Registre-se que o crime tipificado no art. 17 da Lei nº 10.826/03 comina pena de 6(seis) a 12 (doze) anos de reclusão.
+Pelo menos neste momento processual, as medidas cautelares diversas da prisão não parecem ser suficientes para salvaguardar a ordem pública, ainda mais quando os motivos da prisão não foram apresentados nesta impetração e a representação da autoridade policial encontra-se bem fundamentada na gravidade concreta do delito, conforme alhures transcrito.
+O paciente declarou perante a autoridade policial que seus filhos têm de 12 (doze) e 14 (catorze) anos de idade. Além disso, os impetrantes alegam que ele possui cálculo renal e gordura no fígado. Sucede que, numa análise sumária, nenhuma dessas circunstâncias se amoldam às hipóteses de substituição da prisão preventiva pela domiciliar previstas no art. 318 do Código de Processo Penal:
+(..)
+Basta atentar para as idades dos filhos do paciente e para ausência de prova da sua debilidade extrema por motivo de doença, não se podendo presumir que a gravidade de seu diagnóstico.
+Verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular.
+Convém observar que, conforme listado no boletim de ocorrência às e-STJ fls. 48/52, o paciente, de fato, foi preso em flagrante tendo em seu estabelecimento elevada quantidade de munições, de diversos calibres, e insumos para fabricação/recarga, supostamente destinados à comercialização ilícita.
+A conduta apresenta, portanto, gravidade concreta, de modo que a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Do mesmo modo, conforme exposto na decisão combatida, não foi demonstrado o preenchimento dos requisitos estabelecidos no art. 318 do Código de Processo Penal para o deferimento da prisão domiciliar.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
