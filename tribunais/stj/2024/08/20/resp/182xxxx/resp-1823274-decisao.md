@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de Recurso Especial (art. 105, III, "a", da CF), contra acórdão assim ementado:
+APELAÇÃO CÍVEL. PRELIMINARES. DE OFICIO REMESSA NECESSÁRIA NÃO CONHECIDA. AUSÊNCIA DE DIALETICIDADE E INOVAÇÃO RECURSAL. REJEITADAS. LEI DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE ELEMENTO SUBJETIVO. IMPROCEDÊNCIA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+I - A jurisprudência do Superior Tribunal de Justiça, bem como desta Corte entendem que não há aplicação subsidiária da lei de ação popular pois não se observa ausência de previsão na Lei n. 8.429/93 como lacuna ou omissão, devendo o instituto de reexame necessário ser analisado restritivamente.
+II - A dialeticidade recursal é observada ainda que o apelante faça menção ou reprodução de fundamentos já utilizados no trâmite processual quando estes se revelem suficientes para combater o decisum impugnado.
+III - Inobservada inovação recursal no caso em tela pois os temas vertidos no recurso foram conhecidos desde a propositura da demanda, em claro privilégio aos princípios da ampla defesa e do contraditório.
+IV - Por não vislumbrar provas hábeis a demonstrar que as contratações não se fizeram em proveito próprio dos agentes públicos requeridos - seja através de vantagem pessoal ou política - nem ficou caracterizada a volitividade de transgressão à ordem jurídica, ou o dano ao erário, tampouco violação ao caráter competitivo não há como concluir pelo direcionamento das contratações como almeja o recorrente.
+V - Apelaçã o conhecida, remessa não conhecida, preliminares rejeitas e, no mérito, não provida.
+Os Embargos de Declaração foram rejeitados às fls. 5.401-5.408.
+Nas razões do Recurso Especial, o Ministério Público do Estado do Espírito Santo sustenta que houve violação aos arts. 3º, 4º, 10, caput e VIII, 11, caput e I, e 12, III, da Lei 8.429/1992, e arts. 3º e 9º da Lei 8.666/1993. Aduz que ficou configurado ato de improbidade na conduta dos recorridos, uma vez que "tem-se que a soma do conjunto probatório coligido, com o vínculo de parentesco existente entre os membros da Comissão de Licitação da Autarquia Municipal SAAE e as empresas vencedoras dos certames nos anos de 2005 a 2010, evidenciam - de forma inconteste - o direcionamento de vários processos licitatórios.".
+Contrarrazões às fls. 5.438-5.446, 5.447-5.475 e 5.476-5.481.
+Petição das partes às fls. 5.561-5.563, 5.566-5.568, 5.578-5.582, e parecer do MPF às fls. 5.584-5.591, manifestando-se acerca da aplicação da Lei 14.230/2021 ao presente feito.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º de agosto de 2024.
+Trata-se, na origem, de Ação Civil Pública ajuizada pelo Ministério Público do Estado do Espírito Santo para apurar a prática de suposto ato ímprobo causador de prejuízo ao erário e violador dos princípios administrativos (arts. 10 e 11 da Lei 8.429/1992, respectivamente), consistente no direcionamento de processos licitatórios e contratações realizadas no âmbito da autarquia municipal "Serviço Autônomo de Água e Esgoto" (SAAE).
+O juízo de primeiro grau julgou improcedente a demanda, o que foi mantido pelo Colegiado a quo.
+A Corte de origem assim consignou ao decidir a controvérsia (fls. 5.364-5.372):
+Eminentes Pares, para modificar a cognição da origem, necessário era a demonstração cabal de direcionamento nas contratações realizadas pelo SAAE entre os anos de 2005 e 2009, evidenciada pelo elemento subjetivo (dolo) dos agentes.
+Contudo, tal contexto não restou realçado nos autos, levando a manutenção da sentença de primeiro grau como passo a expor.
+Para caracterização do ato de improbidade administrativa exige-se a demonstração do dolo dos envolvidos, ainda que genérico, conforme a jurisprudência assente do Egrégio Superior Tribunal de Justiça:
+(..)
+É nesse sentido que não vislumbro elemento subjetivo capaz de subsidiar a condenação almejada pelo apelante pois ausente substrato que revele sequer direcionamento ou favorecimento nas contratações realizadas como alegado.
+(..)
+Assim, por não vislumbrar provas hábeis a demonstrar que as contratações não se fizeram em proveito próprio dos agentes públicos requeridos - seja através de vantagem pessoal ou política - nem ficou caracterizada a volitividade de transgressão à ordem jurídica, ou o dano ao erário, tampouco violação ao caráter competitivo não há como concluir pelo direcionamento das contratações como almeja o recorrente.
+Inviável a esta Corte Superior analisar o acervo probatório dos autos para afastar as conclusões do acórdão de origem de que não houve a presença do elemento subjetivo dolo na conduta do recorrido, uma vez que incide a Súmula 7 do STJ. A propósito:
+ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. CONSTRUÇÃO DO ESTÁDIO. ABERTURA DA COPA DO MUNDO. SIMULAÇÃO DE LICITAÇÃO PARA CONCESSÃO DE BENEFÍCIOS FISCAIS. PRÉVIO ACORDO COM O PRÓPRIO MP PARA FINALIZAÇÃO DA CONSTRUÇÃO ANTES DO INÍCIO DO CAMPEONATO. CONCLUSÃO DO TRIBUNAL DE ORIGEM PELA AUSÊNCIA DE IMPROBIDADE. SÚMULA 7 DO STJ. OMISSÃO. INEXISTÊNCIA. LEI MUNICIPAL N. 15.413/2011 CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. PRECEDENTES. HISTÓRICO DA DEMANDA
+1. Na origem, o Ministério Público do Estado de São Paulo ajuizou Ação Civil Pública por ato de improbidade administrativa contra Gilberto Kassab, então prefeito do Município de São Paulo, Sport Club Corinthians Paulista, Construtora Norberto Odebrecht S/A, Arena Fundo de Investimento Imobiliário S/A e Administradora BRL Trust Distribuidora de Títulos e Valores Mobiliários S/A. O objetivo: incidentalmente, a declaração da inconstitucionalidade da Lei do Município de São Paulo 15.413/2011 e, no mérito, a condenação dos réus por infração ao disposto nos arts. 10, VII e X, e 11 da Lei 8.429/1992, devido à sanção pelo então Prefeito da capital paulista da Lei 15.413/2011, que concedia benefícios fiscais para construção de estádio de futebol na zona leste do Município, destinado à realização da abertura dos jogos da Copa do Mundo de Futebol de 2014, e favorecia, de forma irregular, os demais corréus, que foram contemplados com referidos benefícios no valor de R$ 420.000.000,00 (quatrocentos e vinte milhões de reais).
+(..)
+15. Como se observa, o Tribunal a quo entendeu que não se configurou ato de improbidade administrativa, referente à simulação de licitação, muito menos o dolo apto a caracterizar a referida conduta ilícita. Dessa forma, iniciar qualquer juízo valorativo a fim de adotar posicionamento distinto do alcançado pela Corte de origem e acolher a tese do recorrente - de que se configurou ato de improbidade - excede as razões colacionadas no aresto impugnado, implicando revolvimento do contexto fático-probatório dos autos, o que é vedado ao Recurso Especial, ante o disposto na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." A propósito: AgInt nos EDcl no REsp 2.035.643/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 31.5.2023, AgInt no AREsp 1.840.495/MA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 4.11.2021; e AgInt no AREsp 1.265.686/PB, Rel. Ministro Og Fernandes, Segunda Turma, DJe 10.8.2021. CONCLUSÃO
+16. Recurso Especial parcialmente conhecido, apenas quanto à alegação de violação ao art. 1.022 do CPC/2015, e, nessa extensão, não provido.
+(REsp n. 1.938.562/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 10/5/2024, grifei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. ART. 10 DA LEI 8.429/1992. COMPROVAÇÃO DE DOLO. REEXAME DE PROVAS. SÚMULA 7/STJ. RETROATIVIDADE DA LEI 14.230/2021. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. O Tribunal de origem, com fundamento no acervo fático-probatório carreado aos autos, concluiu pelo dolo na conduta da parte agravante. Desconstituir tal premissa implicaria, necessariamente, incursão nos fatos e nas provas dos autos, providência inviável na via especial ante o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. Tratando-se de ato de improbidade administrativa doloso tipificado no art. 10 da Lei de Improbidade Administrativa, consoante claramente deixam ver as decisões na origem, descabe falar em aplicação retroativa da Lei 14.230/2021.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.799.874/SP, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 11/4/2024.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. ATO ÍMPROBO NÃO CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Hipótese em que, em face das premissas fáticas assentadas no acórdão objurgado, que afastou o enquadramento da parte recorrida nos atos de improbidade administrativa (art. 11 da Lei n. 8.429/1992), à míngua do elemento subjetivo, a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial.
+(..)
+(AgInt no AREsp n. 2.042.566/DF, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 3/10/2022.)
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
