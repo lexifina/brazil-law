@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMINIO EDIFICIO EDUARDO PEREIRA CAMARGO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. TAXA CONDOMINIAL. Preliminar. Exibição posterior de documentos. Possibilidade. Mérito. Diante da ausência de vaga de garagem, adequada e razoável a redução proporcional da taxa condominial. Laudo pericial conclusivo. Ausente previsão na convenção condominial que determine a cobrança da taxa independentemente do tamanho da área. Sentença reformada. Recurso parcialmente provido" (e-STJ fl. 621).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 656/660).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação do art. 1.336, I, do Código Civil, sob o argumento de que a taxa condominial deve ser rateada igualitariamente.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"No caso, a convenção condominial de fls. 44/66 não estabelece que a taxa condominial será calculada de maneira igualitária sobre todos os condôminos, sem levar em conta a fração ideal de cada um sobre o condomínio.
+Estabelece o art. 29 da convenção condominial que:"Compete à assembleia fixar o orçamento das despesas comuns, e cabe aos condôminos concorrer para custeio das referidas despesas dentro do primeiro mês de cada trimestre, realizando-se o rateio na proporção das respectivas frações ideais".
+Desse modo, é possível realizar o cálculo proporcional da taxa condominial, com base na área útil de cada condômino, incluindo a área da garagem.
+No caso dos autos, o laudo pericial de fls. 468/496 chegou a duas conclusões: 1) inexiste box de garagem para o imóvel do apelado, sendo estruturalmente impossível a sua construção; 2) o apartamento sem garagem paga 18,39% a mais nas taxas condominiais que os apartamentos com garagem, fls. 492" (e-STJ fl. 624).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM CONSIGNAÇÃO EM PAGAMENTO. TAXAS CONDOMINIAIS. DEVER DE ARCAR COM AS TAXAS REFERENTES AOS SERVIÇOS COMUNS. FORMA DE RATEIO PREVISTA NA CONVENÇÃO DO CONDOMÍNIO. PREVISÃO LEGAL. REEXAME DE PROVAS. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu a regularidade da cobrança das taxas condominiais de acordo com a fração ideal do imóvel, conforme previsto na convenção de condomínio. A modificação do entendimento lançado no v. acórdão recorrido demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. "Nos termos do art. 1.336, inciso I, do Código Civil, é dever do condômino "contribuir para as despesas do condomínio, na proporção das suas frações ideais, salvo disposição em contrário da convenção". Consoante a jurisprudência desta Corte, é obrigatória a observância do critério de rateio das despesas condominiais expressamente previsto na respectiva convenção do condomínio, especialmente quando o critério eleito é justamente aquele previsto como regra geral para as hipóteses em que ausente tal estipulação. Precedentes" (AgInt no AREsp 816.278/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 18/11/2016).
+3. Agravo interno não provido." (AgInt no AREsp n. 1.709.768/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/3/2021, DJe de 26/3/2021 - grifou-se)
+Além disso, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que as despesas condominiais devem ser rateadas na proporção das frações ideais dos imóveis, salvo disposição em contrário da convenção.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. TAXA CONDOMINIAL. RATEIO PROPORCIONAL AO TAMANHO DA UNIDADE HABITACIONAL. VALIDADE. AGRAVO DESPROVIDO.
+1. Consoante dispõe o art. 1.336, I, do CC, as despesas condominiais serão rateadas de acordo com a proporção das frações ideais dos imóveis, salvo disposição em contrário da convenção. Precedentes.
+2. Agravo interno desprovido." (AgInt no AgInt no AREsp n. 961.581/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/3/2017, DJe de 14/3/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXA CONDOMINIAL. DESPESAS DE CONSERVAÇÃO E MANUTENÇÃO DO CONDOMÍNIO. RATEIO. CÁLCULO PELA FRAÇÃO IDEAL DOS IMÓVEIS. CONVENÇÃO CONDOMINIAL. LEGALIDADE. SÚMULA 83/STJ.
+1. Nos termos do art. 1.336, inciso I, do Código Civil, é dever do condômino "contribuir para as despesas do condomínio, na proporção das suas frações ideais, salvo disposição em contrário da convenção".
+2. Consoante a jurisprudência desta Corte, é obrigatória a observância do critério de rateio das despesas condominiais expressamente previsto na respectiva convenção do condomínio, especialmente quando o critério eleito é justamente aquele previsto como regra geral para as hipóteses em que ausente tal estipulação.
+3. Estando o acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula nº 83 desta Corte, aplicável por ambas as alíneas autorizadoras.
+4. Agravo regimental não provido." (AgRg no AREsp n. 583.848/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe de 6/8/2015)
+Quanto à divergência jurisprudencial, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Além disso, não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+(..)."
+(AgInt no AREsp 2.203.568/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022)
+Torna-se patente, assim, a falta de fundamentação do apelo nobre, circunstância que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa atualizado, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
