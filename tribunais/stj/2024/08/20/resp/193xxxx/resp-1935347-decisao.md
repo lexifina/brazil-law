@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pela SOCIEDADE BENEF ISRAELITABRAS HOSPITAL ALBERT EINSTEIN, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 2.322):
+AGRAVO DE INSTRUMENTO. Incidente de cumprimento de tutela de urgência. TUSD/TUST.
+1. Agravante que teve a tutela deferida em outro agravo de instrumento para que fossem excluídas da base de cálculo do ICMS as tarifas TUSD/TUST em 2018. Dois anos após noticia que a tutela não foi cumprida e, após determinação de intimação da concessionária essa se manifestou no sentido de efetuar os descontos a partir de abril de 2020. Pretensa compensação dos valores não descontados no período de novembro de 2018 a abril de 2020 nas futuras contas. Decisão que indeferiu tal pedido diante do caráter provisório da liminar e consequente reversibilidade, cujo abatimento pretendido desconfigura a liminar concedida anteriormente. Insurgência veiculada por meio de recurso de agravo de instrumento.
+2. Hipótese que não se encontra elencada no rol taxativo do artigo 1.015, do CPC/2015. Não incidência, no caso, do entendimento firmado no Colendo Superior Tribunal de Justiça por ocasião do julgamento do Tema Repetitivo 988. Agravo de instrumento que não se conhece por ausência de um dos pressupostos de admissibilidade recursal.
+3. Recurso não conhecido.
+O recurso foi admitido na origem.
+É o relatório.
+A questão debatida nos autos, qual seja, "Inclusão da Tarifa de Uso do Sistema de Transmissão de Energia Elétrica (TUST) e da Tarifa de Uso do Sistema de Distribuição de Energia Elétrica (TUSD) na base de cálculo do ICMS", foi afetada à Primeira Seção desta Corte Superior sob o rito dos recursos repetitivos (Tema 986/STJ) dos Recursos Especiais 1.699.851/TO, 1.692.023/MT, 1.734.902/SP e 1.734.946/SP de relatoria do Herman Benjamin.
+Na ocasião do julgamento, firmou-se a seguinte tese:
+A Tarifa de Uso do Sist ema de Transmissão (TUST) e/ou a Tarifa de Uso de Distribuição (TUSD), quando lançada na fatura de energia elétrica, como encargo a ser suportado diretamente pelo consumidor final (seja ele livre ou cativo), integra, para os fins do art. 13, § 1º, II, "a", da LC 87/1996, a base de cálculo do ICMS.
+Conforme os arts. 1.040 e 1.041 do Código de Processo Civil, publicado o acórdão paradigma submetido ao regime de repercussão geral ou dos recursos especiais repetitivos, deve o Tribunal de origem negar seguimento aos recursos e encaminhá-los para retratação do órgão colegiado, a fim de que haja o alinhamento das teses ou a manutenção da decisão divergente.
+Ante o exposto, determino a devolução dos autos, com a respectiva baixa, à instância de origem, onde, nos termos dos arts. 1.040 e 1.041 do Código de Processo Civil, deverá ser realizado o juízo de conformação ou confirmada a manutenção do acórdão recorrido, à luz do que decidiu o Superior Tribunal de Justiça no julgamento do Tema 986/STJ.
+Publique-se. Intimem-se.
+EMENTA
