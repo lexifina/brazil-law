@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO DO BRASIL S.A. (BB), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. CHAMAMENTO AO PROCESSO DA UNIÃO E DO BACEN. DESCABIMENTO. RESPONSABILIDADE SOLIDÁRIA. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fls. 324/328).
+Nas razões do presente inconformismo, o BB pleiteou que fosse sanada a obscuridade e/ou contradição na decisão monocrática, determinando-se a suspensão do feito, na forma definida nos autos do Recurso Extraordinário n. 1.445.163-DF (Tema n. 1.290), aplicando-se os necessários efeitos infringentes ao julgado ora embargado.
+Não foi apresentada impugnação.
+É o relatório.
+O recurso merece acolhida.
+Na decisão embargada, foi indeferido o pedido de suspensão do feito, sob o fundamento de que o tema referente ao índice de correção monetária aplicável às cédulas de crédito rural não teria sido enfrentado pelo acórdão recorrido, nem tampouco teria sido objeto do recurso especial sub judice, "de modo que é desnecessária a interrupção do julgamento do recurso em exame, já que não está em discussão a matéria relativa ao Tema 1.290" (e-STJ, fls. 325).
+No entanto, analisando melhor a decisão proferida em 7/3/2024, nos Segundos Embargos de Declaração no Recurso Extraordinário n. 1.445.162-DF, verifica-se que o ilustre Ministro Relator Alexandre de Moraes decretou a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Confira-se:
+(..)
+Com base no art. 1.035, § 5º, do Código de Processo Civil, DECRETO a SUSPENSÃO do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Oficie-se ao Conselho Nacional de Justiça e aos Presidentes de todos os Tribunais do país, com cópia deste despacho e da manifestação do Relator.
+A comunicação aos juízos de 1º grau e às turmas recursais de juizados deverá ser feita pelo Tribunal de 2ª instância com os quais mantenham vinculação administrativa.
+Nesse contexto, em observância ao princípcio de economia processual e à segurança jurídica, impõe-se a suspensão do presente feito, até a publicação da tese de repercussão geral, nos termos do art. 256-L do RISTJ, in verbis:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Nesse mesmo sentido, confiram-se as seguintes decisões monocráticas:
+(..) depreende-se que a questão de direito discutida nestes autos possui intrínseca relação com a questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cuja fonte de recursos provém dos depósitos das cadernetas de poupança referente ao mês de março de 1990.
+A questão de direito foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema 1290), o que impõe a suspensão do presente recurso perante o Tribunal de origem até a publicação da tese.
+(PET no AREsp 2.595.700, Rel Ministra NANCY ANDRIGHI, DJe 9/8/2024)
+Em decisão singular publicada no DJe 11.3.2024, o Relator do recurso, Ministro Alexandre de Moraes, decretou a suspensão do processamento de " ..  todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos.  .. ". Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação do acórdão a ser proferido no Recurso Extraordinário n. 1.445.162/DF vinculado ao Tema 1.290/STF, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+(PET no AREsp 2.014.376, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 5/8/2024).
+Nessas condições, ACOLHO os embargos de declaração, com efeitos modificativos, para tornar sem efeito a decisão monocrática de minha lavra e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que o recurso permaneça suspenso até a publicação do acórdão paradigma, nos termos dos arts. 1.039 a 1.041 do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DEMANDA COLETIVA. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL. MATÉRIA AFETADA PELO SUPREMO TRIBUNAL FEDERAL. TEMA N. 1.290. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITO MODIFICATIVO.
