@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por TALITA FERREIRA DE SOUZA DOURADO, com fulcro no permissivo constitucional, contra acórdão do TRF da 5ª Região assim ementado (e-STJ fls. 927/928):
+ADMINISTRATIVO. APELAÇÃO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. CARGO DE ANALISTA DO CONTROLE EXTERNO DO TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO. ADVOCACIA. INCOMPATIBILIDADE. ART. 28, V, DA LEI.º 8.906/1994. APELAÇÃO PROVIDA. AGRAVO INTERNO PREJUDICADO.
+1. Trata-se de apelação interposta contra sentença prolatada pelo Juízo da 6.ª Vara da Seção Judiciária de Pernambuco que concedeu a segurança para deferir a inscrição da parte impetrante nos quadros da OAB com registro de impedimento de que trata o art. 30, I, do EOAB (ID 4058300.22855128), ao argumento de ser incompatível o exercício da advocacia com quem exerce poder de polícia decorrente da ocupação do cargo de analista de controle externo no Tribunal de Contas do Estado de Pernambuco, nos termos do art. 28, V, da Lei n.º 8.906/1994 além de violação ao princípio da moralidade administrativa em decorrência do acesso a informações e dados sensíveis de entes públicos e poder de influência decorrente do cargo de analista. Requereu a suspensão da sentença e, no mérito, a reforma da sentença a fim de denegar a segurança.
+2. Cinge-se a controvérsia quanto à existência de compatibilidade de servidor público empossado em cargo de analista externo do TCE com a advocacia.
+3. É irrelevante o fato da parte apelada ser empossada em cargo técnico, uma vez que, exercendo suas funções no Tribunal de Contas, órgão responsável pela fiscalização e controle externo do Poder Legislativo (art. 71, caput, da CF/1988), inegável exercer, ainda, que de forma indireta, o poder de polícia, o que implica na incompatibilidade com o exercício da advocacia, nos termos do art. 28, V, da Lei n.º 8.906/1994.
+4. Ressalte-se que os precedentes em que amparada a decisão agravada não são vinculantes.
+5. Registre-se que o precedente vinculante referente ao RESP 1.818.872/PE (tema 1.028, do STJ) é claro ao asseverar, ainda que para cargo diverso, qual seja, de agente de trânsito, que a expressão "atividade policial de qualquer natureza" abarca todos aqueles que exerçam funções compreendidas no poder de polícia da Administração Pública, tal como definido no art. 78, do CTN. Ora, se a parte agravada alega que suas funções são de "caráter técnico-operacional de suporte à atividade-fim do Tribunal", imperioso reconhecer que ocupa cargo público INDIRETAMENTE à atividade policial de qualquer natureza, insculpido no art. 28, V, da Lei n. º 8.906/1994, inexistindo qualquer interpretação ampliativa operada por este relator, como pretende a parte agravada fazer crer.
+6. Ademais, irrelevante a alegação de haver servidores com cargos incompatíveis com o exercício da advocacia exercendo esta atividade, pois, o Poder Judiciária não serve para satisfazer pretensão ilegal.
+7. Apelação provida para denegar a segurança.
+8. Agravo interno que se declara prejudicado.
+Embargos rejeitados.
+A recorrente alega violação dos arts. 28, inciso V, e 30, I, da Lei n. 8.906/1994 - Estatuto da Ordem dos Advogados do Brasil, ao argumento de inexistência de incompatibilidade entre o cargo público de analista de controle externo do Tribunal de Contas do Estado de Pernambuco e o exercício da advocacia.
+Contrarrazões.
+Admissão do apelo nobre (e-STJ fl. 1123).
+Manifestação ministerial pelo provimento do recurso (e-STJ fls. 1143/1147).
+Passo a decidir.
+Compulsando os autos, verifico que assiste razão à pretensão recursal.
+Com efeito, a jurisprudência do STJ firmou-se no sentido de que deve ser assegurada a inscrição na OAB de servidor ocupante de cargo eminentemente administrativo, sendo essa a hipótese dos autos (Analista de Controle Externo do TCE/PE) , por enquadrar-se na hipótese descrita no art. 30, inciso I, da Lei n. 8.906/1994 (impedimento do exercício da advocacia contra a Fazenda Pública que o remunera ou à qual seja vinculada a entidade empregadora), não configurando o caso de incompatibilidade, previsto no art. 28 da referida Lei.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONSELHO PROFISSIONAL. OAB. INDEFERIMENTO DE INSCRIÇÃO. SERVIDOR OCUPANTE DE CARGO ADMINISTRATIVO. HIPÓTESE DE IMPEDIMENTO E NÃO DE INCOMPATIBILIDADE. RESTRIÇÃO IMPOSTA PELO ART. 30, I, LEI Nº 8.906/1994. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual deve ser assegurada a inscrição na OAB de servidor ocupante de cargo administrativo, por enquadrar-se na hipótese descrita no art. 30, inciso I, da Lei n. 8.906/1994 (impedimento do exercício da advocacia contra a Fazenda Pública que o remunera ou à qual seja vinculada a entidade empregadora), não configurando o caso de incompatibilidade.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (AgInt no REsp 1382363/RJ, rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 15/10/2018).
+De rigor, portanto, o restabelecimento da sentença de e-STJ fls. 540/546.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, de modo a determinar a inscrição da recorrente no quadro de advogados da OAB/PE, nos termos estabelecidos na sentença de e-STJ fls. 540/546.
+Publique-se. Intimem-se.
+EMENTA
