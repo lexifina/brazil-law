@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VANESSA DE ALMEIDA ÁLVARES DA SILVA contra a decisão que negou seguimento ao recurso extraordinário assim ementada (fls. 862-865):
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
+A parte embargante alega omissão no julgado, ressaltando (fl. 875):
+ ..  a jurisdicionada recorre em face do descumprimento do dever social do Estado de que as decisões judiciais envolvam a observância ao dever de motivação, obstando sejam proferidos julgamentos em desfavor de patrimônio dos jurisdicionados em que pese tenha a recorrente de forma clara e precisa suscitada a questão, inclusive oferecendo Precedente do Excelso Pretório, a negativa de seguimento do Recurso Especial ao deixar de se pronunciar quanto à violação ao princípio da proibição da proteção insuficiente nas decisões judiciais que envolvem o descumprimento dos deveres sociais pelo Estado à justiça, como ocorre no caso dos autos, deixando de promover o overruling e o distinguishing, quanto ao Tema, incide na violação literal da norma inscrita no art. 489, §1º, IV e VI, do CPC, razão pela qual requer seja afastada a falta de motivação para que venha a ser esclarecido o r. Decisum quanto ao ponto.
+Sustenta, também, que não foi considerado " que, em caso como o dos autos, possível a mitigação do Tema n. 181 do STF e das Súmulas 339 e 660 do eg. Supremo Tribunal Federal" (fl. 876).
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados, com a correspondente repercussão jurídica.
+É o relatório.
+O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado na decisão embargada, não ofende o art. 93, IX, da Constituição Federal a decisão que, embora de forma sucinta, examina as alegações das partes.
+Com efeito, consignou-se que (fl. 863):
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão alcançada no julgado recorrido, que não conheceu do recurso dirigido a este Tribunal Superior, o que inviabiliza o exame pretendido pela parte recorrente, relacionado à correta aplicação de óbices processuais pelo STJ.
+Portanto, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+De igual modo, no que se refere à incidência do Tema n. 181 do STF, salientou-se de forma clara e fundamentada na decisão impugnada que, nos casos em que a insurgência anterior não ultrapassou a barreira da admissibilidade, como na hipótese em apreço, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que nele se busque debater o mérito.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, com fundamento no art. 22, § 2º, I, a, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Advirto à parte embargante que a reiteração de embargos de declaração dessa natureza pode ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
