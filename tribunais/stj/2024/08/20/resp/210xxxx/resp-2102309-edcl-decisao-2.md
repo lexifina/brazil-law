@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RILDO RAMALHO PINTO contra decisão, da minha lavra, que conheceu em parte do recurso especial para, nessa extensão, negar-lhe provimento. Porém, de ofício, redimensionou-se as penas, com extensão aos corréus.
+O embargante aduz, em um primeiro momento, que não se indicou quais seriam os "documentos juntados aos autos" para demonstrar o prejuízo causado. No mais, pugna pelo reconhecimento da prescrição da pretensão punitiva estatal com relação aos crimes de peculato e de fraude à licitação, haja vista o decurso de mais de 8 anos entre a data do recebimento da denúncia, em 10/10/2007, e a data da publicação da sentença condenatória, em 26/1/2018.
+Pugna, assim, pelo acolhimento dos aclaratórios, com efeitos infringentes.
+É o relatório. Decido.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que o acórdão embargado se mostrou ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021).
+Na hipótese, o embargante aponta, em um primeiro, omissão no que diz respeito à indicação dos documentos que subsidiaram o mínimo indenizatório. Contudo, pela simples leitura da decisão embargada, é possível depreender que os documentos são aqueles indicados na transcrição de trecho do acórdão da Corte local que tratou da matéria. Dessa forma, não há se falar em omissão.
+Quanto ao pedido de reconhecimento da prescrição, verifico que, de fato, com o redimensionamento das penas, implementou-se o prazo prescricional de 8 anos entre a data do recebimento da denúncia, em 10/10/2007 (e-STJ fl. 9.459), e a data da publicação da sentença condenatória, em 24/1/2018 (e-STJ fl. 9.560).
+Com efeito, com o decote da causa de aumento do art. 84, § 2º, da revogada Lei n. 8.666/1993, a pena pelo crime de fraude à licitação fica estabelecida em 3 anos e 6 meses de detenção. Quanto ao crime de peculato, desprezando-se o aumento pela continuidade delitiva (súmula 497/STF), tem-se uma pena de 2 anos e 8 meses de reclusão. Dessa forma, ambas as penas prescrevem em 8 anos, nos termos do art. 109, inciso IV, do Código Penal.
+Ao ensejo:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SENTENÇA ANULADA. PROFERIDO NOVO ÉDITO CONDENATÓRIO. MARCO INTERRUPTIVO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA NA MODALIDADE RETROATIVA. OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Por se tratar de matéria de ordem pública, a prescrição penal deve ser reconhecida a qualquer tempo e grau de jurisdição, podendo ser declarada de ofício ou a requerimento das partes.
+2. Conforme atestado, após anulação da primeira sentença, foi proferida nova sentença condenatória, que condenou o Réu a 02 anos e 06 meses de reclusão, pela prática do crime definido no art. 1.º, inciso I, da Lei n.º 89.137/90 (por três vezes), na forma do art. 71 do Código Penal.
+3. No caso, excluído o acréscimo de pena relacionado à continuidade (Súmula n.º 497/STF), o prazo prescricional aplicável é de 08 (oito)
+anos, conforme disposto no art. 109, inciso IV, do Código Penal.
+4. Assim, observados os lapsos temporais entre os marcos interruptivos, nos termos do art. 117 do Código Penal, verifica-se que entre o recebimento da denúncia, em 08/04/2003, e a publicação da nova sentença condenatória, em 15/05/2012, foi ultrapassado o mencionado lapso temporal, razão pela qual reconheço a prescrição da pretensão punitiva estatal na modalidade retroativa.
+5. Agravo regimental a que se nega provimento.
+(AgRg no RE no AREsp n. 757.338/RS, relatora Ministra Laurita Vaz, Corte Especial, julgado em 4/5/2016, DJe de 20/5/2016.)
+Pelo exposto, acolho em parte os presentes embargos para reconhecer a prescrição da pretensão punitiva estatal e julgar extinta a punibilidade do paciente com relação aos crimes de fraude à licitação de de peculato.
+Em atenção ao art. 580 do Código de Processo Penal, estendo os efeitos da presente decisão aos corréus Fabrício Ribeiro dos Santos, Lucio Mauro Stocco e Ari Alves Moreira.
+Publique-se .
+EMENTA
