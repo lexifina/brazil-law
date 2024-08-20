@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA. TELECOMUNICAÇÕES. CÓDIGO DE DEFESA DO CONSUMIDOR. ART. 20 DO CDC. MPF. QUALIDADE DO SERVIÇO DE TELEFONIA. DANO MATERIAL. DANOS MORAIS COLETIVOS. FALHAS EPISÓDICAS. PREJUÍZOS. NÃO IDENTIFICADOS. OMISSÃO DA AGÊNCIA REGULADORA NÃO DEMONSTRADA.
+1. O autor não logrou demonstrar alegada atuação omissiva da ANATEL ou que o serviço prestado pela operadora estaria eivado de vício de qualidade na forma do art. 20 do CDC.
+2. A atuação da ANATEL tem sido voltada à fiscalização no sentido do aprimoramento dos serviços, de modo que não se caracterizam os alegados vícios de qualidade na forma do art. 20, III, do CDC. Não se pode afirmar que os usuários residentes naquela localidade receberam um serviço viciado, a ponto de justificar a diminuição do valor da contraprestação paga à companhia, tendo em vista tratar-se de falhas episódicas e resolvidas sob a orientação e fiscalização da agência ré.
+Aponta o recorrente as seguintes violações:
+i) aos arts. 5º, 6º, 9º, 10, 20, 278, parágrafo único, 357, inciso III, 369, 373, §1º, 489, § 1º, incisos III e IV, 1.013, § 3º, inciso III e § 4º, 1.022, incisos I e II e parágrafo único, inciso II, todos do CPC;
+ii) aos art. 4º, inciso II, alínea d, art. 6º, inciso III e IV, art. 20, caput e inciso. Ie II e art. 22, caput e parágrafo único, da Lei 8.078/90;
+iii) aos art. 2º, inc. I e art. 3º, incs. I e XII, da Lei 9.472/97; art. 422, do CC;art. 23, inciso III e art. 29, inciso VII, da Lei 8.987/90; o art. 9º, da Resolução ANATEL 477/07 e Resolução ANATEL 575/11.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de agosto de 2024.
+Na origem, o Ministério Público Federal (MPF) moveu Ação Civil Pública contra a Agência Nacional de Telecomunicações (ANATEL) e o Grupo OI devido aos prejuízos sofridos pelos usuários de telefonia móvel no município de São Jorge - RS.
+O recorrente afirma que, apesar dos Embargos de Declaração por ele opostos, nem o Juízo de primeiro grau nem o TRF da 4ª Região apreciaram um dos pedidos iniciais: a declaração do direito dos usuários do serviço, residentes nos municípios indicados e vinculados à operadora ré, de rescindirem os contratos sem necessidade de pagar as eventuais multas previstas nos contratos de permanência aos quais também aderiram. Adicionalmente, sustenta que, mesmo após a oposição dos aclaratórios, tampouco houve manifestação sobre o pleito específico de inversão do ônus da prova, proposto na petição inicial e reiterado na contestação, que foi indeferido somente na sentença.
+O Parquet está correto no tocante à existência de contrariedade ao art. 1022 do CPC.
+De fato, ao apresentar os Embargos de Declaração contra o acórdão da Apelação, o Ministério Público Federal destacou a falta de análise do referido pedido inicial. No entanto, ao avaliar a questão, o Colegiado regional manteve a sentença citra petita original e não mencionou tal falha. No aresto dos aclaratórios, é importante ressaltar, o órgão julgador também não mencionou essa falha nem abordou a omissão indicada pelo MPF, que ainda não foi corrigida.
+Para argumentar, note-se que o direito de rescisão dos contratos sem custos para o consumidor, baseado no art. 56, parágrafo único, do Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações (Resolução 632, de 7 de março de 2014, da ANATEL), possui estrutura e requisitos próprios, independentes do direito à indenização por danos e não relacionados aos outros pedidos considerados pelas instâncias originárias.
+Embora seja possível atribuir ao autor coletivo o ônus de provar o defeito na prestação do serviço para fins de indenização, isso é completamente inadmissível para o exercício do direito de rescisão. Isso se deve ao fato de que, para a rescisão, a legislação aplicável afirma claramente que o ônus da prova recai sobre a prestadora, e não sobre o consumidor - ou, consequentemente, sobre o Ministério Público.
+Portanto, seria ilógico subordinar o exame desse pedido ao dos demais. Assim, a omissão significativa persiste, tornando o acórdão citra petita e, por conseguinte, nulo.
+Diante do exposto, dou provimento ao Recurso Especial e, diante da infringência ao art. 1.022 do CPC, determino o retorno dos autos ao Tribunal a quo para novo julgamento dos Embargos de Declaração.
+Publique-se. Intimem-se.
+EMENTA
