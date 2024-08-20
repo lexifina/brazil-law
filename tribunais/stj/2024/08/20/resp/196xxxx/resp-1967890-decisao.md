@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 38):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. AUSÊNCIA DE PEÇAS OBRIGATÓRIAS. RECURSO NÃO CONHECIDO. CPC, ART. 1.017, I. AUTOS DE ORIGEM ELETRÔNICOS. TRAMITAÇÃO EM SISTEMA PROCESSUAL DIVERSO. PRECEDENTE. INTIMAÇÃO DO RECORRENTE. NÃO APLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "Não dispondo o Tribunal dos meios formais necessários à consulta dos autos eletrônicos na origem, não há outra alternativa a não ser condicionar o conhecimento do agravo de instrumento à juntada das peças de caráter obrigatório." Precedente.
+2. Não é razoável impor ao Poder Judiciário o ônus de intimar o recorrente para a devida instrução processual com a determinação da juntada de peças que já se sabe serem indispensáveis à análise do recurso.
+3. Agravo regimental não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 60/67)
+Nas razões de seu recurso, a parte recorrente sustenta a existência de violação dos arts. 188 e 1.017, § 5º, do Código de Processo Civil, e 1º, § 2º, da Lei 11.419/2006, ao argumento de que o Tribunal de origem não pode exigir, em agravo de instrumento, a juntada de peças constantes em autos eletrônicos, ainda que os sistemas da própria Corte, em primeiro e em segundo graus de jurisdição, sejam diversos e não se comuniquem.
+O recurso foi admitido na origem (fls. 81/82).
+É o relatório.
+Na origem, o Tribunal Regional Federal da 1ª Região não conheceu do agravo de instrumento interposto pelo IBAMA, com fundamento na ausência de juntada de peças obrigatórias para o julgamento do recurso, porquanto, embora o processo tramite em autos eletrônicos, os sistemas informatizados do primeiro e do segundo graus de jurisdição não se comunicam entre si, de modo que não poderia a Corte acessar os documentos já produzidos no feito.
+O art. 1.017, § 5º, do Código de Processo Civil estabelece norma segundo a qual, sendo eletrônicos os autos do processo, dispensa-se a juntada das peças obrigatórias previstas nos incisos I e II do caput desse dispositivo.
+No caso dos autos, embora haja incompatibilidade entre os sistemas informatizados do primeiro e do segundo graus de jurisdição, impedindo o acesso aos autos pelo Tribunal Regional Federal, incumbe ao relator garantir o direito previsto no art. 1.017, § 5º, do Código de Processo Civil e, nos termos do art. 932, parágrafo único, desse diploma normativo, antes de considerar inadmissível o recurso, conceder prazo para que seja complementada a documentação exigível, em homenagem, ainda, aos princípios do acesso à justiça, da instrumentalidade das formas, e da primazia do julgamento do mérito.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TRAMITAÇÃO FÍSICA. ART. 1.017, § 5º, DO CPC/2015. INAPLICABILIDADE. INSTRUÇÃO. PEÇAS ESSENCIAIS. NECESSIDADE.
+1. A disposição constante do art. 1.017, § 5º, do CPC/2015, que dispensa a juntada das peças obrigatórias à formação do agravo de instrumento em se tratando de processo eletrônico, exige, para sua aplicação, que os autos tramitem por meio digital tanto no primeiro quanto no segundo grau de jurisdição.
+2. Hipótese em que, a despeito da tramitação eletrônica do processo na primeira instância, ainda não dispunha o Tribunal de origem da infraestrutura necessária para receber o recurso de agravo de instrumento por meio eletrônico e ter acesso aos autos na origem.
+3. De acordo com a disciplina da Lei nº 11.419/2006, os autos de processos eletrônicos que tiverem de ser remetidos a outro juízo ou instância superior que não disponham de sistema compatível deverão ser impressos em papel e, tão logo autuados, seguirão a tramitação legalmente estabelecida para os processos físicos (art. 12, §§ 2º e 4º).
+4. Não dispondo o Tribunal dos meios formais necessários à consulta dos autos eletrônicos na origem, não há outra alternativa a não ser condicionar o conhecimento do agravo de instrumento à juntada das peças de caráter obrigatório.
+5. Na hipótese, ainda pesa contra o recorrente o fato de ter sido regularmente intimado para, em 5 (cinco) dias, suprir a falha na formação do instrumento, nos moldes do art. 1.017, § 3º, c/c o art. 932, parágrafo único, do CPC/2015, dever do qual ele não se desincumbiu a contento.
+6. Recurso especial não provido.
+(REsp n. 1.643.956/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/5/2017, DJe de 22/5/2017 - sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO SEM A CÓPIA DA DECISÃO AGRAVADA. PROCESSO QUE TRAMITA EM MEIO ELETRÔNICO. DESNECESSIDADE. SÚMULA 83/STJ. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. A disposição constante do art. 1.017, § 5o., do CPC/2015, que dispensa a juntada das peças obrigatórias à formação do Agravo de Instrumento em se tratando de processo eletrônico, exige, para sua aplicação, que os autos tramitem por meio digital tanto no primeiro quanto no segundo grau de jurisdição (REsp. 1.643.956/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 22.5.2017).
+2. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no AREsp n. 1.086.545/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 14/9/2020, DJe de 18/9/2020.)
+Ante o exposto, dou parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que conceda prazo de ao menos 5 (cinco) dias, à parte recorrente, para juntada dos documentos obrigatórios previstos no art. 1.017, I e II, do CPC.
+Publique-se. Intimem-se.
+EMENTA
