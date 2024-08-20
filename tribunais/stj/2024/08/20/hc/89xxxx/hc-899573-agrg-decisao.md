@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por BRUNO EDUARDO DA SILVA PROCOPIO contra a decisão, proferida pela Presidência desta Corte, que indeferiu liminarmente o habeas corpus (e-STJ fls. 448/450).
+Nas razões do presente recurso, o agravante alega, em síntese, que:
+a) "enquanto o agravo em execução versou sobre a concessão do benefício do trabalho externo propriamente dito, o habeas corpus ajuizado no Tribunal de Justiça objetivou o reconhecimento da nulidade, por ausência de motivação idônea, do decisum indeferitório do benefício" (e-STJ fl. 457);
+b) "além de possuírem objetos diversos, a questão aventada no habeas corpus reflete no direito à liberdade de locomoção, à medida que possibilitará ao beneficiário da presente o deslocamento para o local de trabalho, concedendo, para tanto o benefício harmonizado (trabalho extramuros e prisão albergue domiciliar)" (e-STJ fl. 457);
+c) "o agravo em execução é um recurso extremamente moroso (..), sendo certo que a defesa busca uma prestação jurisdicional mais célere, tendo em vista que fora ofertada, ao beneficiário da presente, uma proposta de emprego advinda de uma empresa sólida (..), em que a falta de prestação jurisdicional célere poderá acarretar na desistência de sua contratação, prejudicando, dessa forma, o seu processo de ressocialização" (e-STJ fls. 457/458);
+d) "ao contrário do entendimento do Juízo de piso, fatores relacionados à longa pena a cumprir, ao tipo de delito praticado e, ainda - pasme - à ausência de realização do trabalho interno, não se demonstraram idôneos para justificar a negativa do direito de saída externa para fins de realização de atividade laborativa, havendo, portanto, a flagrante ilegalidade de modo a possibilitar o conhecimento do writ, além da concessão, nem que seja de ofício, da ordem" (e-STJ fl. 458); e
+e) "o manejo do presente writ, mesmo sendo concomitantes com a interposição do agravo em execução, se encontra respaldado nos casos de exceções destacados na Jurisprudência dominante desta Corte" (e-STJ fl. 460).
+Por isso, requer a reconsideração da decisão agravada ou o provimento do presente recurso a fim de conceder, ainda que de ofício, a ordem como requerido na inicial.
+O Ministério Público do Estado do Rio de Janeiro e o Ministério Público Federal manifestaram-se pelo não conhecimento do recurso ou, caso conhecido, pelo não provimento do agravo regimental (e-STJ fls. 486/496 e 498/503).
+É o relatório.
+Decido.
+Em consulta realizada na página eletrônica do Sistema Eletrônico de Execução Unificada - SEEU, verifica-se que, no dia 26/06/2024, o Juízo da Vara de Execuções Penais da Comarca do Rio de Janeiro/RJ, nos autos do Processo nº 1001436-35.2017.4.01.4100, ao dar cumprimento ao acórdão proferido no Agravo em Execução nº 5004670-09.2024.8.19.0500, o qual cassou a decisão proferida pela VEP e determinou que outra fosse proferida, afastando os óbices da longevidade da pena a cumprir, curto prazo no regime semiaberto e não participação em atividades voltadas à ressocialização, indeferiu o pedido de trabalho extramuros a ser cumprido em prisão albergue domiciliar com monitoramento eletrônico, por entender que o pretendido benefício não se coaduna com o objetivo da pena (art. 123, III, da LEP).
+Essa circunstância evidencia a perda do objeto do presente recurso, o qual teve como origem a decisão posteriormente cassada pelo Tribunal de origem quando do julgamento do agravo em execução.
+Ante o exposto, julgo prejudicado o presente agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
