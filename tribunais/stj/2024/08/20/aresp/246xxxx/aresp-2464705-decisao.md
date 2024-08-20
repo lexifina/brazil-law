@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por JOãO FORTES ENGENHARIA S/A - EM RECUPERAÇÃO JUDICIAL contra a decisão que não admitiu o recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ fl. 209):
+"APELAÇÃO CÍVEL. CONSUMIDOR. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. PAGAMENTO INDEVIDO DE IPTU. SENTENÇA DE IMPROCEDÊNCIA. COBRANÇAS DE IPTU ANTES DA ENTREGA DAS CHAVES. DESCUMPRIMENTO CONTRATUAL EVIDENTE. RESPONSABILIDADE DO PROMITENTE VENDEDOR PELO PAGAMENTO DO IPTU, ATÉ A IMISSÃO NA POSSE PELO PROMITENTE COMPRADOR. DÉBITO IMPOSTO AO CONSUMIDOR QUE NÃO SE JUSTIFICA. COBRANÇA INDEVIDA. PRÁTICA ABUSIVA. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DO SERVIÇO. SITUAÇÃO QUE ULTRAPASSA OS MEROS ABORRECIMENTOS DIÁRIOS, SENDO NECESSÁRIO DEMANDAR EM JUÍZO, PARA EVITAR MAIORES DANOS. DESVIO PRODUTIVO. DANOS MATERIAIS E MORAIS CONFIGURADOS. OBSERVADOS OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE, BEM EXPRESSANDO O SEU CARÁTER COMPENSATÓRIO E PUNITIVO. RESTITUIÇÃO DOS VALORES PAGOS INDEVIDAMENTE A TÍTULO DE IPTU COBRADOS ANTES DA IMISSÃO DOS AUTORES NA POSSE DO IMÓVEL. PROVIMENTO DO RECURSO."
+Os embargos de declaração opostos foram parcialmente acolhidos nos seguintes termos (e-STJ fl. 254):
+"EMBARGOS DE DECLARAÇÃO. TERMO INICIAL DA CORREÇÃO MONETÁRIA SOBRE VERBA INDENIZATÓRIA POR DANO MORAL QUE SE DÁ A PARTIR DO ARBITRAMENTO. SÚMULA 362, DO STJ. QUANTO ÀS DEMAIS IRRESIGNAÇÕES, INEXISTE QUALQUER DOS DEFEITOS ELENCADOS NO ART. 1022, DO CPC. ACÓRDÃO QUE, NO MAIS, APENAS CONTRARIOU OS INTERESSES DA EMBARGANTE. PARCIAL PROVIMENTO DO RECURSO."
+No recurso especial, a recorrente alega violação aos arts. artigos 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil, ao argumento de que houve carência e negativa de prestação jurisdicional.
+Aponta contrariedade aos arts. 186 e 927, do Código Civil, sob o fundamento de que não cometeu ato ilícito apto a ensejar sua condenação por danos morais, bem como o mero inadimplemento contratual não configura dano moral.
+Por fim, requerer o provimento do recurso especial.
+Houve apresentação de contrarrazões às fls. e-STJ 412/416.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Quanto à ocorrência de negativa de prestação jurisdicional, verifica-se que o tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Em relação aos danos morais, o Tribunal de Justiça reconheceu a ocorrência sob os seguintes fundamentos (e-STJ fls. 213/214):
+"(..)
+Da análise documental dos autos, tem-se que merece reparo a sentença de improcedência.
+(..)
+Contudo, com razão à parte autora acerca da responsabilidade da parte ré no pagamento das despesas com IPTU.
+Isso porque, a responsabilidade do pagamento de IPTU, na hipótese, encontra-se prevista na cláusula 4ª, parágrafo 3º (fls. 22/26), a qual dispõe que os autores(compradores)serão responsáveis pelo pagamento do imposto somente "a partir da data originalmente prevista para celebração da Escritura de Compra e venda", o que, de fato, ocorreu em 25 de março de 2019(fls. 29).
+Desse modo, os valores pagos a título de IPTU pelos recorrentes, referentes aos exercícios de 2018 e parte do exercício de 2019 (fls. 62/65), devem ser restituídos pela parte ré, posto que anteriores à celebração do contrato de compra e venda, como visto acima.
+(..)
+Ademais, mesmo não sendo o caso em tela, cumpre registrar que eventual cláusula que transfere a responsabilidade pelo pagamento do referido tributo para os compradores, antes da entrega das chaves é abusiva e nula de pleno direito, na forma do art. 51, IV do CDC, sendo a responsabilidade do pagamento do IPTU é do promitente vendedor até a data da imissão na posse do promitente comprador.
+(..)
+Quanto ao dano extrapatrimonial, é certo que o mero inadimplemento contratual não gera dano moral, porém, tratando-se da cobrança indevida de IPTU,como ocorreu no caso em tela, é inegável que os autores, impossibilitados de realizar a transferência de titularidade do imóvel, em razão dos débitos pretéritos de IPTU, de responsabilidade da ré, foram obrigados a socorrer-se do Poder Judiciário para que a dívida fosse declarada inexigível, o que por certo gera abalo sensível ao seu direito da personalidade, produzindo sentimento de frustação e angústia da legítima expectativa daquele que adquire uma unidade imobiliária, mas que é surpreendido com inúmeros percalços,em razão da falha na prestação do serviço do promitente vendedor."
+Nesse contexto, a modificação do acórdão recorrido demanda a reinterpretação de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, providências vedadas em recurso especial pelas Súmulas nºs 5 e 7/STJ, respectivamente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. HIGIDEZ DO LAUDO PERICIAL, CONFIGURAÇÃO DO DANO, VALOR DO DANO MORAL COLETIVO E PERCENTUAL FIXADO A TÍTULO DE HONORÁRIOS SUCUMBENCIAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA PREVISTA NO ART. 81 DO CPC/2015. NÃO CABIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. MAJORAÇÃO INDEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência deste STJ, é cabível ao magistrado realizar uma interpretação lógico-sistemática dos pleitos deduzidos na petição inicial, reconhecendo, inclusive, pedidos que não tenham sido expressamente formulados pela parte autora, o que não implica julgamento extra petita.
+2. Não há como infirmar as convicções formadas pela origem - quanto à higidez do laudo pericial, à configuração do dano moral e à adequação do valor indenizatório e do percentual fixado a título de honorários de sucumbência - sem se proceder ao reexame de fatos e provas, medida defesa na seara extraordinária, em virtude do disposto na Súmula 7 desta Casa.
+3. Conforme posicionamento desta Corte, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pela origem ou sem alegação de fundamento novo.
+4. Não houve o preenchimento dos requisitos cumulativos para a fixação dos honorários recursais, nesta instância, considerando que houve o parcial provimento do recurso especial da ora agravante, o que afasta a pretensão, contida em contrarrazões, de incremento da verba honorária.
+5. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.208.042/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 28/6/2024).
+Anota-se, ainda, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Confira-se :
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. VIOLAÇÃO AOS ARTS. 55 E 919, § 1º, DO CPC/2015. CONCESSÃO DE EFEITO SUSPENSIVO. REQUISITOS NÃO PREENCHIDOS. AUSÊNCIA DE GARANTIA DO JUÍZO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. SÚMULA 13/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, nos moldes do art. 919, § 1º, do CPC/2015, o que não ocorreu no caso em análise.
+2. Modificar o entendimento do Tribunal local, acerca do fato de que o reconhecimento da conexão entre as ações não exime o devedor da garantia do juízo e da inexistência dos requisitos para atribuição de efeito suspensivo aos embargos à execução, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Outrossim, observa-se a impossibilidade de o Superior Tribunal de Justiça conhecer da divergência interpretativa suscitada pelo recorrente com base em julgado do próprio Tribunal de Justiça do Acre, haja vista que tal análise encontra óbice na Súmula n. 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+5. Agravo interno improvido."
+(AgInt no AREsp n. 2.331.876/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesse extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
