@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE BELO HORIZONTE fundado na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIO - TUTELA CAUTELAR EM CARÁTER ANTECEDENTE - SUSTAÇÃO DE PROTESTO DE CERTIDÃO DE DÍVIDA ATIVA - EXECUÇÃO FISCAL AJUIZADA - POSSIBILIDADE DE COEXISTÊNCIA DE MEIOS DE COBRANÇA EXTRAJUDICIAL E JUDICIAL - EXECUÇÃO GARANTIDA - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO - PROTESTO CANCELADO POR INEXISTÊNCIA DE TÍTULO EXIGÍVEL - MANUTENÇÃO DA SENTENÇA COM ACRÉSCIMO DE FUNDAMENTAÇÃO - RECURSO A QUE SE NEGA PROVIMENTO.
+- O Superior Tribunal de Justiça, quando do julgamento do REsp 1686659/SP, em 2018, sob a sistemática dos recursos repetitivos (Tema Repetitivo 777), firmou tese de que "a Fazenda Pública possui interesse e pode efetivar o protesto da CDA, documento de dívida, na forma do art. 1º, parágrafo único, da Lei 9.492/1997, com a redação dada pela Lei 12.767/2012".
+- O protesto extrajudicial de certidão de dívida ativa é providência constitucional e legítima posta à disposição da Fazenda Pública, não havendo óbice à realização do protesto da dívida fiscal pelo ente público concomitantemente à propositura da Execução Fiscal.
+- A garantia integral da Execução Fiscal, no entanto, suspende a exigibilidade do crédito tributário, nos termos do art. 151, II, do CTN.
+- Convertido em depósito o valor penhorado das contas do executado via BACENJUD, a exigibilidade do crédito foi suspensa, não devendo, por conseguinte, subsistir o protesto da CDA.
+- Sentença de primeiro grau mantida com acréscimo de fundamentos.
+- Recurso a que se nega provimento.
+O ente público recorrente, apontanto violação do art. 151, II, do CTN, sustenta, em resumo, que o valor penhorado na execução fiscal e convertido para depósito não é integral, porquanto não atualizado, e, por isso, não é causa de suspensão da exigibilidade do crédito tributário que permita a sustação do protesto da CDA.
+Afirma, também, que inexiste obrigação do exequente proceder à constante atualização do crédito, de modo que, para fins de suspensão da exigibilidade, compete ao devedor proceder ao depósito correspondente à obrigação principal com os acessórios (multa, juros e correção monetária).
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Na origem, cuidam os autos de ação cautelar de sustação de protesto.
+O magistrado de primeiro grau julgou o pedido cautelar procedente.
+Na sequência, o TJMG negou provimento à apelação fazendária. Vejamos, no que aqui interessa, a motivação consignada no acórdão recorrido:
+2. Da suspensão da exigibilidade do crédito tributário.
+Assentada a possibilidade de a Fazenda Pública se utilizar tanto da Execução Fiscal como do protesto da CDA para satisfazer seu crédito, simultaneamente ou não, entendo que a controvérsia dos autos desloque-se da possibilidade de coexistência do protesto e da execução fiscal da CDA para a verificação da suspensão da exigibilidade do crédito tributário no bojo da Execução Fiscal e dos Embargos do Devedor pela penhora alegadamente não integral realizada via BACENJUD.
+Como cediço, o depósito do montante integral do crédito tributário constitui uma das hipóteses previstas no art. 151 do Código Tributário Nacional, corroborada por entendimento sumulado do Superior Tribunal de Justiça (Súmula 112), que acarretam a suspensão de sua exigibilidade, impedindo o Fisco de praticar atos tendentes à cobrança da dívida.
+Nesse sentido, e volvendo-nos à Execução Fiscal, o Município argumenta que valor penhorado e convertido em depósito encontrava-se desatualizado quando da penhora, em 2016, haja vista ter sido atualizado pela última vez em 2013.
+De fato, conquanto tenha havido a pesquisa do valor atualizado no Siatu (R$ 64.173,56), a penhora fora realizada exatamente no montante requerido pelo Município em 2013.
+Todavia, entendo que caberia ao Município exequente, ora apelante, dirigir a execução com diligência e manter o valor atualizado nos autos, renovando o pedido de penhora no lapso de quase três anos entre o primeiro pedido e a efetivação da mesma, caso fosse seu interesse. De mais a mais, ao se manifestar logo após a constrição, o apelante requereu a transferência dos valores bloqueados para conta à disposição do juízo e informou o valor atualizado, não pleiteando, em nenhum momento, a sua complementação.
+Assim, por a penhora ter ocorrido no valor requerido pelo exequente, entendo por garantido o juízo, nos termos do art. 151, II, do Código Tributário Nacional, e, consequentemente, suspensa a exigibilidade do crédito tributário e demais atos tendentes à cobrança da dívida, como o protesto, em conformidade com o decidido à sentença recorrida, que deve ser mantida, acrescentando-se apenas a fundamentação supra.
+Do que se observa, entre os outros fundamentos adotados para reconhecer que o valor penhorado pode ser considerado como depósito integral para fins de suspensão da exigibilidade do crédito tributário e sustação do protesto, a Corte estadual assentou que a penhora se deu no valor requerido pela Fazenda Pública exequente e que, depois de informada de sua realização, não postulou a sua complementação.
+Esses fundamentos, todavia, não foram especificamente impugnados nas razões do recurso especial, as quais se limitaram a assentar que o valor penhorado não seria integral.
+Nesse contexto, constanta-se a deficiência da irresignação recursal, nos termos da Súmula 283 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
