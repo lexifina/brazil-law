@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ ELENILDO DE SOUSA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, nos autos da Apelação Cível n. 0005083-32.2010.4.03.6109/SP, assim ementado (fls. 587-596):
+SERVIDOR. ANISTIADO POLÍTICO. EMPREGADO DA EBCT. ARTIGO 8º, ADCT. LEI 10.559/2002. REINTEGRAÇÃO. REPARAÇÃO ECONÔMICA. CUMULAÇÃO.
+I - Reparação de natureza mensal, permanente e continuada prevista no inciso II do art. 1º da Lei nº 10.559/2002 que é dirigida a indenizar aqueles servidores públicos demitidos dos seus cargos e que permanecem fora dos quadros dos quais foram desligados.
+II - Hipótese dos autos em que, tendo a parte autora sido reintegrada aos quadros da EBCT, não faz jus à pretendida percepção da reparação econômica de prestação mensal, tendo em vista tratar-se de modalidade de reparação incompatível com a sua situação de fato, na qual foi reintegrada às suas funções em 1992 e dois anos depois desligou-se de suas atividades profissionais de forma voluntária.
+III - Recurso desprovido.
+Nas razões do recurso especial, a parte recorrente alega, além do dissídio jurisprudencial, ofensa à Lei n. 10.559/2002 e ao art. 8º, do ADCT, da Constituição Federal, com base nos seguintes fundamentos (fls. 611-638; destaquei):
+2.1- DA CONTRARIEDADE E NEGATIVA DE VIGÊNCIA AOS TERMOS CONTIDOS NA LEI FEDERAL 10.559/2002 E DO ARTIGO 8º DO ADCT - artigo 105, III, alínea "a" DA CONSTITUIÇÃO FEDERAL.
+A contrariedade aos dispositivos contido na Lei 10.559/2002, bem como o artigo 8º do ADCT, é patente, vejamos:
+A Nobre Turma "a quo", entendeu não ser possível estender todos direitos contidos na Lei 10.559/2002 ao Recorrente, pois o direito a reparação mensal permanente seria destinado somente aqueles anistiados que não haviam sido readmitidos.
+Não obstante, em que pese o notável saber jurídico da Nobre Relatora "a quo", referido entendimento não pode se manter, pois como já externado, o Recorrente foi anistiado com base no artigo 8º do ADCT, o que é incontroverso nos autos no ano de 1992, ou seja, muito antes do nascimento da Lei 10.559/2002, devendo ser estendido os demais direitos contidos na Lei, não somente a readmissão/reintegração.
+A interpretação dada pelo Turma "a quo" que o direito a prestação mensal permanente e continuada de caráter indenizatório, somente seria devida aos anistiados que não teriam sido reintegrados, não se sustenta, senão vejamos o contido no artigo 8º, § 5º do ADCT Constitucional:
+ ..
+Como se pode observar, no final da redação do § 5º do artigo 8º do ADCT previu o direito a readmissão dos empregados de empresas públicas, como é o caso do Recorrente, ocorre que logo no início do § 5º, verifica-se que a anistia concedida nos termos do artigo 8º aplica-se aos servidores públicos civis e aos empregados das empresas públicas. Portanto, como se observa foi feito remissão aos termos do artigo, o que pressupõe a aplicação do caput e do parágrafo primeiro.
+A distinção colocada pelo julgamento "a quo", não existe, sendo que os direitos contidos na Lei 10.559/2002 são acumuláveis e aplicam-se "in totum" ao Recorrente.
+A Lei 10.559/2002 regulamentou o artigo 8º do ADCT, sendo que o Recorrente foi anistiado com base no referido dispositivo constitucional. Assim, tendo a Lei 10.559/2002 ampliado os direitos dos anistiados, estes direitos devem ser contemplados ao Recorrente.
+Pede-se vênia, para embasar o presente Recurso com a transcrição "in totum", da consulta realizada pelo Presidente da Comissão de Anistia do Ministério da Justiça que resultou no Parecer nº 1, de 17 de janeiro de 2007, onde foi analisado o direito do anistiado político a cumulação dos direitos contidos na Lei 10.559/2002, de lavra do Dr. Idervânio da Silva Costa, publicada no DJU em 19/01/2007, seção 1, fls 46./48, por ato do Ministro da Previdência Social Carlos Eduardo Gabas "in verbis":
+ ..
+Como se observa no Parecer retro transcrito, o direitos estabelecidos na Lei 10.559/2002 que regulamentou o artigo 8º do ADCT, são acumuláveis, assim, equivocada a interpretação dada pela Turma "a quo", no que tange o direito do Recorrente de ser indenizado através da prestação mensal permanente e continuada consagrada na Lei 10.559/2002, pois como bem salientado na Lei, o Regime do anistiado compreende este direito e mais o direito a reintegração, além de outros direitos, senão vejamos a redação do inciso II do artigo 1º da Lei 10.559/2002 que esta sendo mitigada, "in verbis":
+ ..
+Na redação do dispositivo acima transcrito, a reparação econômica é um direito e ainda é assegurada a readmissão na forma estabelecida no § 5º e caput do artigo 8º do ADCT. Assim, o Recorrente teve a declaração da condição de anistiado político o que é incontroverso, através de portaria do Ministério das Comunicações, sendo readmitido, restando agora lhe ser conferido os demais direitos contidos na Lei 10.559/2002, especialmente o direito a ser reparado na forma escolhida da prestação mensal continuada.
+O Artigo 1º, incisos I e II da Lei 10.559/2002 assegura os direitos da declaração de anistiado e a reparação econômica de caráter indenizatório, assegurando ainda, a promoção na inatividade, já o inciso V assegura também o direito à reintegração dos servidores empregados públicos, além da contagem do tempo de serviço para todos os efeitos.
+O artigo 5º da Lei 10.559/2002, estabelece que será assegurada a reparação econômica em prestação mensal, permanente e continuada, de caráter indenizatório, aos anistiados que comprovarem vínculos com a atividade laboral, sendo assim, para melhor entendimento, necessário a transcrição do artigo em comento:
+ ..
+A referência que o artigo 5º da Lei 10.559/2002 faz com relação a comprovação de vínculo com a atividade laboral, se dá em razão de que alguma atividade remunerada o anistiado político exercia quando da perseguição, para que se possa estabelecer um valor para a referida indenização. No caso do Recorrente o mesmo comprovou que estava devidamente empregado na EBCT, quando foi sumariamente demitido em 1988 por participação em movimento paredista, sendo declarado anistiado político pelo Ministério das Comunicações e readmitido em 1992 (fato incontroverso no processo), fazendo assim jus aos direitos conferidos na Lei 10.559 de 2002 que regulamentou o artigo 8º do ADCT Constitucional, especialmente a indenização em prestação mensal, permanente e continuada, além dos valores retroativos a serem pagos desde a promulgação da Constituição Federal e 1988, devendo ainda ter reconhecido os benefícios indiretos e direitos conferidos a categoria a que pertencia.
+Neste compasso, ressalte-se, que a Lei 10.559 de 2002, no artigo 6º quando estabelece como será calculado o valor da prestação mensal, permanente e continuada, utiliza o verbo sempre no passado, ou seja, "se na ativa estivesse" .. "a que teria direito", senão vejamos:
+ ..
+Os termos empregados no artigo 6º "se na ativa estivesse" e "a que teria direito", consolida o objetivo maior da Lei 10.559 de 2002, que é a indenização dos anistiados políticos, referente ao período em que ficou afastado do emprego, sendo a readmissão apenas mais um direito a ser exercido pelo anistiado político.
+Ademais, a Lei 10.559 de 2002, no artigo 13º, transfere o direito da indenização em reparação econômica aos seus dependentes no caso de falecimento, assim, tem-se mais uma vez na Lei o divisor entre os direitos que nela são estabelecidos, ou seja, a indenização em prestação mensal, permanente e continuada, não esta vinculada ao retorno do anistiado ao serviço, sendo, portanto, direitos distintos, senão vejamos o artigo ora citado:
+ ..
+Já o § 2º do artigo 7º da Lei 10.559 de 2002, garante que quando do cálculo da prestação mensal serão asseguradas às promoções ao cargo, emprego, posto ou graduação a que teria direito o anistiado se estivesse em serviço ativo, senão vejamos:
+ ..
+Na mesma linha de raciocínio, o artigo 8º da Lei 10.559 de 2002 que contempla o reajustamento do valor da prestação mensal, estabelece que o valor da remuneração deva ser reajustado observado a remuneração que o anistiado político receberia se "estivesse em serviço ativo", sendo necessária a sua transcrição:
+ ..
+Assim, os termos utilizados pela Lei 10.559 de 2002, levam a conclusão de que a indenização da prestação mensal, permanente e continuada é devida ao anistiado como se ele estivesse em serviço ativo, ou seja, a readmissão ou reintegração é direito que pode ser exercido pelo anistiado, ou não e o fato dele ter sido readmitido em 1992 e se desligado pro sua vontade após dois anos, não lhe retira o direito de ser indenizado com a prestação mensal, permanente e continuada.
+Repisa-se que o fato de ter-se desligado em 1994 não importa em renuncia do direito, até porque a prestação mensal tem cunho "indenizatório" decorrente da demissão ocorrida em 1988, por ter participado de movimento paredista, já a reintegração seria uma forma de devolver o anistiado o seu sustento. Nesse sentido decisão proferida nesta Colenda Corte do Superior Tribunal de Justiça, que deixa claro o direito a cumulação da prestação mensal continuada com a reintegração/readmissão, vejamos:
+ ..
+Ademais, esta Colenda Corte Superior de Justiça, possui entendimento de que "indenização é reparação a prejuízos suportados ao passo em que remuneração é a contrapartida de um trabalho realizado. Não é possível considerar a reintegração como uma indenização. Em outras palavras, os fundamentos da reintegração e do pagamento são distintos, tanto no mundo dos fatos quanto no mundo do direito", nesse sentido:
+ ..
+Assim, existe a necessidade premente de ser reformada pôr este Colendo Tribunal Superior de Justiça a r. Decisão "a quo", a fim de se afastar a interpretação de que não se pode cumular a reintegração/readmissão com a indenização na forma de prestação mensal, permanente e continuada, pois referido entendimento afronta de forma direita os termos contidos na Lei 10.559/2022.
+Após, para que seja possível fixar o valor da prestação mensal permanente e continuada, é necessário tecer algumas considerações.
+Com relação ao valor da prestação mensal, permanente e continuada, o artigo 6º da Lei 10.559 de 2002, determina que seja igual ao que o anistiado receberia se na ativa estivesse, considerada a graduação a que teria direito, e demais benefícios concedidos a categoria, senão vejamos:
+ ..
+O § 1º do artigo 6º estabelece que o valor será aferido através de elementos oferecidos pelo Requerente, através de informações de órgão oficiais, empresas públicas, sindicatos ou conselhos profissionais a que o anistiado estava vinculado quando sofreu a punição, ou até com base em pesquisa de mercado, senão vejamos:
+ ..
+O Recorrente quando apresentou o Requerimento junto a Comissão de Anistia, foi representado pela FENTECT, a qual apresentou sua evolução salarial até 18/10/2006. (fls. 25/26 do processo administrativo).
+Portanto, foram juntados no processo administrativo documentos suficientes, para que fosse estabelecido o valor da prestação mensal permanente e continuada ao Recorrente.
+O § 2º do artigo 6º da Lei 10.559 de 2002, determina:
+ ..
+Assim, todos os direitos e vantagem atribuídos à categoria profissional a que pertencia o Recorrente, devem ser considerados quando da realização do cálculo da prestação mensal.
+Já o § 3º do artigo 6º da Lei 10.559 de 2002, estabelece:
+ ..
+Assim, veda-se a exigência de satisfação de condições incompatíveis com a situação pessoal do Recorrente, para efeito de promoções.
+Para estabelecimento do valor da prestação mensal, ainda pode-se utilizar-se da figura do paradigma, conforme dicção contida no § 4º do artigo 6º da Lei 10.559 de 2002, "in verbis":
+ ..
+Destarte, a forma para estabelecimento do valor da prestação mensal, permanente e continuada é a mais ampla possível, o que poderá ser dirimida em sede de cumprimento de sentença s.m.j.
+Importante ressalvar, que o anistiado político tem direito inclusive ao recebimento do décimo terceiro salário e eventuais abonos que sejam pagos à categoria profissional a que pertencia.
+Uma vez estabelecido o valor da prestação mensal, esta deverá ser reajustada sempre que houver alteração na remuneração que o anistiado receberia se estivesse em serviço ativo. Assim determina o Artigo 8º da Lei 10.559 de 2002, "in verbis":
+ ..
+O parágrafo único do artigo 11º reforça que o anistiado pode requerer a revisão do valor da prestação mensal, toda vez que a mesma não esteja de acordo com os artigos 6º, 7º, 8º e 9º da Lei 10.559 de 2002, senão vejamos:
+ ..
+Outrossim, todos os valores pagos por anistia, não podem ser objeto de contribuição ao INSS, caixas de assistência ou fundos de pensão ou previdência, conforme dicção contida no artigo 9º da Lei 10.559 de 2002, "in verbis":
+ ..
+No Parágrafo único do artigo 9º da Lei 10.559 de 2002, resta assentado que os valores pagos aos anistiados políticos são isentos do Imposto de Renda, senão vejamos:
+ ..
+Assim, não há que se falar em descontos previdenciários, bem como a título de contribuição fiscal em relação aos valores devidos a título de indenização decorrente da anistia, o que requer seja constado no v. Acórdão.
+Ainda quanto aos "benefícios indiretos" o artigo 14 da Lei 10.559 de 2002, assegura ao Recorrente, o direito de gozar dos benefícios indiretos mantidos pela EBCT em favor dos seus funcionários, senão vejamos:
+ ..
+Ressalta-se que no transcurso do processo administrativo, foram informados pela FENTECT e EBCT, todos os benefícios indiretos concedidos pela empresa. Assim, o Recorrente tem direito a todos os benefícios ali elencados.
+ ..
+Importante consignar que não há incidência da prescrição em relação aos pagamentos do valor retroativo, existindo apenas um marco inicial, que se deu com a promulgação da Constituição Federal em 05/10/1988.
+Tal assertiva se confirma, através dos termos contidos no artigo 8º do ADCT Constitucional, que no § 1º, determina:
+ ..
+O Colendo Supremo Tribunal Federal firmou entendimento de que o direito ao recebimento das vantagens pecuniárias decorrentes da anistia política se dá desde a promulgação da Constituição Federal, senão vejamos:
+ ..
+Desta feita, os valores concernentes à prestação mensal, permanente e continuada deverão ser arbitrados desde 05/10/1988, data em que entrou em vigor a nova Constituição Federal.
+Contrarrazões às fls. 642-646.
+Na origem, foi admitido o recurso especial (fl. 648-656).
+É o relatório. Decido.
+A irresignação não merece conhecimento.
+De início, cumpre destacar que a via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República, o que impede o exame da alegada ofensa ao art. 8º, do ADCT, da Constituição Federal. A propósito: AgInt no AREsp n. 2.353.629/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/6/2024, DJe de 24/6/2024; AgInt no AgInt no AREsp n. 2.422.127/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/5/2024, DJe de 4/6/2024.
+Quanto à questão de fundo, da leitura atenta das razões recursais, observa-se que a parte recorrente furtou-se de particularizar o dispositivo de lei federal supostamente violado ou cuja vigência teria sido negada, o que caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+Cabe ressaltar que a simples menção a artigos de lei ou a dissertação sobre atos normativos não se presta a atender ao requisito de admissão do recurso especial, consistente na indicação clara e inequívoca do dispositivo de lei federal ou tratado que se considera violado, o que se mostra indispensável, diante da natureza vinculada do recurso. No mesmo sentido: AgInt no REsp n. 1.861.859/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023; AgInt no REsp n. 1.891.181/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/10/2023, DJe de 18/12/2023.
+Por fim, quanto ao alegado dissídio jurisprudencial, observa-se que a parte recorrente não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do CPC/2015, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal. Tal ausência inviabiliza o conhecimento do recurso especial, pela alínea c do permissivo constitucional. A esse respeito: AgInt no AREsp n. 2.388.423/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/2/2024, DJe de 23/2/2024; AgInt no REsp n. 2.082.599/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 1% (um por cento) sobre o valor já arbitrado na sentença (fl. 479), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CONSTITUCIONAL. ANISTIADO POLÍTICO. EMPREGADO DA EMPRESA BRASILEIRA DE CORREIOS E TELEGRÁFOS. REINTEGRAÇÃO. REPARAÇÃO ECONÔMICA. OFENSA AO ART. 8º, DO ADCT, DA CONSTITUIÇÃO FEDERAL. INVIABILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. ALEGADA OFENSA À LEI 10.559/2002. AUSÊNCIA DE PARTICULARIZAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANÁLITICO. MERA CITAÇÃO DAS EMENTAS DOS JULGADOS PARADIGMAS. RECURSO ESPECIAL NÃO CONHECIDO.
