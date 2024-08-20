@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra decisão do Tribunal de Justiça dessa mesma unidade federativa.
+O recorrido YUR E DE SOUZA FERREIRA foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão em regime fechado e 16 (dezesseis) dias-multa, pela prática do crime previsto no art. 157, § 2º, incisos II e §2º-A, do Código Penal (fls. 159-162).
+O Tribunal de origem deu parcial provimento às apelações interpostas pelo Ministério Público e pela defesa para afastar a valoração negativa do concurso de pessoas da pena-base e fixar o regime semiaberto para cumprimento de pena, inalterado o quantum fixado em primeira instância (fls. 283-297).
+Inconformado, o Ministério Público interpõe recurso especial, com fundamento no artigo 105, inciso III, "a", da Constituição Federal, para alegar violação aos artigos 59 e 68, do Código Penal e requerer que seja reconhecida a majorante de concurso de agentes na primeira fase da dosimetria como circunstância desfavorável, restabelecendo integralmente a sentença primeva (fls. 319-336).
+Apresentadas as contrarrazões (fls. 341-719), o recurso foi admitido e encaminhado a esta Corte Superior de Justiça (fls. 721-727).
+O Ministério Público Federal opina pelo não conhecimento do recurso especial, por ausência de interesse recursal (fls. 743-746).
+É o relatório. DECIDO.
+A controvérsia cinge-se à possibilidade de deslocamento da majorante do concurso de pessoas no crime de roubo para a exasperação da pena-base como circunstância judicial desfavorável.
+O acordão recorrido afastou a majorante do concurso de pessoas, utilizada em sentença primária para estabelecer a pena-base acima do mínimo legal, ao argumento de que as majorantes não devem interferir na primeira fase da dosimetria, pois sua incidência é recomendável apenas na terceira fase.
+O recorrente, por sua vez, sustenta que é plenamente possível, diante da multiplicidade de causas de aumento de pena previstas no mesmo tipo penal, deslocar a incidência de algumas delas para a primeira fase, conforme jurisprudência pacífica desta Corte. Assim, requer a reforma do acordão para reconhecer a majorante do concurso de agentes na primeira fase da dosimetria como circunstância desfavorável, com restabelecimento integral da sentença.
+Esse é o entendimento consolidado do Superior Tribunal de Justiça:
+"(..) IV - Causa de aumento de pena relativa à restrição da liberdade de vítima. O Tribunal local asseverou que a majorante ficou devidamente demonstrada pelas provas dos autos. Desse modo, alterar o entendimento firmado pela instância a quo demanda reexame provas, situação vedada na via estreita do habeas corpus.
+V - Alegação de bis in idem: emprego de majorantes na primeira e na terceira fase. Com efeito, é remansosa a jurisprudência deste Sodalício em afirmar que, na hipótese de existirem mais de uma causa de aumento de pena na figura típica do roubo, é possível que uma delas seja considerada circunstância judicial desfavorável apta a majorar a pena-base, sendo as demais utilizadas para majorar a reprimenda na terceira fase da dosimetria. Precedentes.
+VI - Na espécie, a Corte originária assentou que as majorantes relativas ao concurso de agentes e à restrição da liberdade da vítima foram usadas, apenas, na primeira fase da dosimetria.
+(..)" (AgRg no HC n. 822.709/SP, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe de 30/11/2023)
+Na espécie, o Tribunal de origem utilizou a majorante do emprego de arma de fogo na terceira fase da dosimetria e desprezou no cálculo da pena a majorante do concurso de agentes, o que não se afina com a jurisprudência dominante desta Corte Superior.
+Por essa razão, restabeleço a sentença proferida pelo magistrado de primeira instância que utilizou referida causa de aumento no cálculo da dosimetria da pena-base como circunstancia judicial negativa do crime.
+Tendo em vista a presença de circunstância judicial desfavorável, aliada ao patamar de pena superior a 4 (quatro) anos de reclusão, fixo o regime inicial fechado para o cumprimento da pena de reclusão, nos termos do art. 33, §2º, "b", e §3º do Código Penal.
+Assim, considerando que o acórdão recorrido está em desconformidade com a jurisprudência desta Corte Superior de Justiça sobre o tema, incide, no caso, a Súmula n. 568, STJ: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, dou provimento ao recurso especial interposto, nos termos da fundamentação retro, consoante art. 255, § 4º, inciso III, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. USO DE ARMA DE FOGO. CONCURSO DE PESSOAS. DOSIMETRIA DA PENA. UTILIZAÇÃO DE UMA DAS MAJORANTES NO CÁLCULO DA PENA-BASE. RESTABELECIMENTO DA SENTENÇA. PRECEDENTES. SÚMULA N. 568, STJ. RECURSO ESPECIAL PROVIDO.
