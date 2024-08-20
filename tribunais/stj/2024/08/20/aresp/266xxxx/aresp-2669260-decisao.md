@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICIPIO DE PIRAUBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+REEXAME NECESSÁRIO/APELAÇÃO CÍVEL -CONTRATO ADMINISTRA TIVO-LITISCONSÓRCIO PASSIVO-NÀO CABIMENTO- INADIMPLMENTO CONTRATUAL COMPROVADO-CONSECTÁRIOS LEGAIS.
+- A relação jurídica controvertida decorre apenas do contrato administrativo celebrado entre as partes, não se justificando, por conseguinte, a formação do litisconsórcio passivo, na forma disciplinada pelo artigo 114 do CPC, - Nos termos do art. 54 da Lei 8.666/93, os contratos administrativos regulam-se pelas suas cláusulas e pelos preceitos de direito público, aplicando-lhes, supletivamente, os princípios da teoria geral dos contratos e as disposições de direito privado.
+- Ante a comprovação da prestação dos serviços, o pagamento da remuneração ajustada contratualmente é devido, sob pena de enriquecimento ilícito da Administração.
+-O valor da condenação seja corrigido com base no IPCA-E, juros de mora aplicáveis à caderneta de poupança, nos termos do disposto no art. 1º-F, da Lei nº 9.494/97, com redação dada pelo art. 5º da Lei nº 11.960/09, e a partir da vigência da EC nº 113/2021, com a incidência da Taxa Selic.
+Quanto à controvérsia, a parte recorrente alega violação do art. 114 do CPC, no que concerne à necessidade de citação da CEF e da AGEVAP para participação no processo, tendo em vista que possuem interesse direto na causa, trazendo a seguinte argumentação:
+É incontroverso nos autos que a pactuação levada a efeito entre as partes (recorrente e recorrida) tinha por objetivo atender ao Contrato de Transferência nº 3655114-29/2012.
+O contrato encontra-se em ID 5354797994.
+Como se verifica da Cláusula Primeira do Contrato de Transferência, o mesmo "tem por finalidade a transferência de recursos financeiras da AGEVAP para a execução da Elaboração do Plano Municipal de Saneamento Básico - PMSB, no Município de Piraúba".
+Ora, perdoe-nos, mas o interesse da AGEVAP é direto, consta do objeto do Contrato de Transferência.
+E veja que o art. 114 do CPC é clarividente em dispor que o litisconsórcio será necessário "quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes".
+Conforme informações retiradas do sítio oficial na internet, "a Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul - AGEVAP, criada em 20 de junho de 2002, tem personalidade jurídica de uma associação de direito privado, com fins não econômicos. Foi constituída, inicialmente, para o exercício das funções de Secretaria Executiva, sendo que atualmente exerce as funções definidas no Art. 44 da Lei Federal nº 9.433/97, Art. 59, da Lei Estadual do Rio de Janeiro nº 3.239/99 e Art. 38 da Lei Estadual de Minas Gerais nº 13.199/99, que trata das competências das chamadas Agências de Água, ou Agências de Bacia.
+A AGEVAP possui qualificação de agência de água, e consta expressamente do contrato de transferência de recursos, razão pela qual a eficácia da sentença depende de sua citação. (fls. 491).
+Como se não bastasse, veja que a AGEVAP solicitou o cancelamento do contrato em 30/12/2014 (ID 5350423005 - Págs. 12/13).
+Veja que na comunicação de ID 5350802993, datada de 19/09/2014, os agentes da Caixa Econômica Federal já haviam noticiado uma série de irregularidades não sanadas.
+O que se verifica, portanto, é que embora a recorrida tivesse ciência das inconformidades, não as sanou, levando ao encerramento do contrato unilateralmente pela AGEVAP.
+Como se não bastasse, a entrega do PMSB defeituoso também foi realizada após o prazo de vigência contratual.
+Conforme 1º Termo Aditivo constante de ID 5353518049, o contrato entre recorrente e recorrida teve vigência até 30/08/2014. A entrega foi após essa data. (fls. 492).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+A rejeição do pedido de inclusão na lide da Caixa Econômica Federal e da Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba deve ser confirmada.
+Na forma disciplinada pelos artigos 114 do CPC, a relação jurídica controvertida decorre do contrato do administrativo celebrado apenas entre o Município de Piraúba e a empresa EME Engenharia Ambiental LTDA - EPP, não repercutindo, portanto, na esfera jurídica de interesses da instituição financeira e da associação de direito privado. (fls. 462, grifo meu).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
