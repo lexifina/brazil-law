@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/08/2024 a 20/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. AUSÊNCIA. NULIDADE POR CERCEAMENTO DE DEFESA. INTIMAÇÃO DA PAUTA DE JULGAMENTO. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo DISTRITO FEDERAL contra o acórdão da Segunda Turma deste STJ, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECLAMAÇÃO. PEDIDO DE REVISÃO DE PRECATÓRIO. RETIFICAÇÃO DOS CÁLCULOS PARA DEDUZIR OS VALORES PAGOS A TÍTULO DE RECOMPOSIÇÃO DA REMUNERAÇÃO DOS SERVIDORES REPRESENTADOS PELA RECLAMANTE. OFENSA À COISA JULGADA.
+1. Reclamação ajuizada contra acórdão impugnado do Tribunal de Justiça do Distrito Federal, que, ao apreciar pedido de revisão do precatório expedido, determinou a retificação dos cálculos dos precatórios com o fim de deduzir os valores pagos a título de recomposição da remuneração dos servidores públicos representados pelo reclamante.
+2. Hipótese em que caraterizada afronta a autoridade de acórdão da Sexta Turma do Superior Tribunal de Justiça nos autos do Ag n. 963.114/DF.
+3. A execução do título executivo deve ser adstrita ao comando da decisão transitada em julgado, não sendo cabível, em embargos à execução, a discussão acerca de possíveis compensações que poderiam ter sido alegadas no processo de conhecimento, sob pena de violação do princípio da coisa julgada.
+Reclamação procedente (fl. 570).
+A parte embargante sustenta, preliminarmente, cerceamento de defesa diante da nulidade do julgamento da reclamação, por ausência de sua intimação pessoal, como manda o art. 183, caput e §1º do CPC/2015; bem como o art. 109, §2º do RISTJ, da publicação da pauta. Argumenta ter havido prejuízo, por não lhe ser viabilizada "audiência com os em. Ministros integrantes do colegiado e a sustentação oral das razões de manutenção do julgado questionado na reclamatória" (fl. 579). Assim, requer seja julgada a reclamação "em nova assentada, com o devido enfrentamento da prejudicial de preclusão da matéria, conforme destacado" (fl. 583).
+No mérito, defende, em síntese, que a compensação de valores questionada já havia sido decidida (no AREsp 1.031.773/DF) e a matéria preclusa, tendo sido expressamente autorizada a compensação, pelo que incide a Súmula 734/STF: "Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal."
+Foi apresentada impugnação aos embargos de declaração (fls. 587-596).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. AUSÊNCIA. NULIDADE POR CERCEAMENTO DE DEFESA. INTIMAÇÃO DA PAUTA DE JULGAMENTO. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do CPC/2015 dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Não se constata no acórdão ora embargado o alegado vício a incorrer em cerceamento de defesa do DISTRITO FEDERAL, revelando-se, em verdade, mero inconformismo da parte embargante com o resultado do julgamento, de forma que é imperiosa a rejeição dos embargos de declaração.
+Isso porque o DISTRITO FEDERAL apresentou memorial com razões finais às fls. 511-548, sendo a última oportunidade de manifestação nos autos. O art. 183 do CPC/2015; e o art. 109 do RISTJ, invocados pela parte embargante, ambos fazem referência à prerrogativa de intimação pessoal do ente público "para todas as suas manifestações processuais"; que não é o caso dos autos, porque foram regularmente oportunizadas as manifestações do DF nos autos.
+Assim, não há vício formal no aresto, mas tão somente a pretensão da parte embargante de rediscutir matéria já decidida - o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+A questão devolvida nos declaratórios sobre o mérito da reclamação (tese de preclusão da discussão acerca da possibilidade de compensação de valores em fase de execução), embora pertinente, só poderia ser alcançada caso verificada a alegada nulidade, com a renovação do julgamento da reclamação como consequência da anulação do acórdão anterior. Assim, superada a preliminar de nulidade da decisão, é válido o acórdão embargado, prejudicadas as demais questões trazidas nos embargos declaratórios.
+Isso posto, rejeito os embargos de declaração.
