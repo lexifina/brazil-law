@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição) contra acórdão assim ementado (fl. 1.008):
+AÇÃO ANULATÓRIA - Procedimento administrativo da ARTESP que impôs multa à concessionária de serviço público pela inexecução de obrigação prevista no contrato de concessão nº 007/CR/98, consistente em não manter o nível de funcionamento da iluminação interna e externa em qualquer ponto de uma superfície em 75% do nível previsto em projeto - Não há previsão legal estabelecendo a necessidade de prévia notificação da concessionária sobre a existência de irregularidade - Multa sancionatória fixada consoante previsão no edital e contrato - Ato administrativo que goza da presunção de legitimidade e veracidade - Análise pelo Poder Judiciário que se restringe à legalidade do ato, vedada a análise do mérito administrativo - Inexistência de provas a refutar a legalidade do ato administrativo - Precedentes desta C. Câmara e Corte de Justiça - Sentença de improcedência mantida - Honorários recursais ora fixados - Recurso não provido.
+Os Embargos de Declaração foram rejeitados (fls. 1.034-1.042).
+No âmbito do AREsp 2.369.673/SP, de relatoria da Ministra Assusete Magalhães, o Recurso Especial foi parcialmente provido para reconhecer a violação do art. 1.022 do CPC e determinar o rejulgamento dos Aclaratórios opostos na origem.
+Em resposta à decisão do Superior Tribunal de Justiça, os Embargos foram acolhidos sem efeito modificativo, consoante a seguinte ementa (fl. 1.188):
+EMBARGOS DE DECLARAÇÃO - Anulatória - Contratos Administrativos - ARTESP - Alegação de omissão no v. acordão - Determinação do C. STJ de retorno dos autos a este Sodalício, para reapreciação do julgado - Omissão verificada - Embargos de declaração conhecidos e acolhidos, sem atribuição de efeito modificativo, no entanto.
+Com a interposição de novo REsp, sobreveio o juízo de admissibilidade negativo (fls. 1.210-1.211), o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 1.232-1.239.
+O agravante afirma que ocorreu violação, em preliminar, dos arts. 489, § 1º, IV, e 1.022 do CPC, sob o argumento de que os vícios apontados nos EDcl não foram supridos. No mérito, alega ofensa aos arts. 41 e 54 da Lei 8.666/1993 e 71 do Código Penal. Em síntese, aduz (fl. 1.173-1.175):
+(..)
+25. Conforme se verifica dos fundamentos apresentados na presente ação anulatória, a Concessionária apresentou relevante fundamentação com relação (i.) à necessidade de prévia notificação antes da aplicação de qualquer penalidade e (ii.) à impossibilidade de aplicação de múltiplas infrações pelo descumprimento de uma obrigação contratual - não manter a iluminação em 75% do nível previsto em projeto.
+26. Com relação à necessidade de prévia notificação, a Recorrente demonstrou que o Edital de Licitação, em seu Anexo 11, expressamente vinculou aos casos em que a multa administrativa é cobrada na modalidade por infração a obrigatoriedade de concessão de prazo à Concessionária para a realização dos serviços supostamente não executados.
+(..)
+15. Como se verifica da notificação de infração, a ARTESP realizou nos dias 19/04/2018 e 24/04/2018 uma inspeção pelas rodovias do Sistema Anchieta Imigrantes, tendo apontado 09 (nove) infrações pelo suposto descumprimento do contrato com relação ao nível mínimo de 75% de funcionamento da iluminação do nível previsto no projeto.
+33. No entanto, ao enviar a notificação que importaria em uma única infração punível em cada rodovia pelo descumprimento do contrato, a Requerida considerou mais de uma infração para cada trecho identificado, o que vai de encontro ao quanto estabelecido no Contrato de Concessão e do Edital de Licitação.
+Contrarrazões às fls. 1.200-1.208.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 8.7.2024.
+No que diz respeito à alegação preliminar, observa-se que a recorrente não aponta, de forma clara e precisa, o vício em que teria incorrido a decisão embargada, pois limita-se a afirmar, de modo genérico, que os arts. 489 e 1.022 do Código de Processo Civil foram contrariados em virtude de haver persistido a omissão no julgado. Incide, nesse ponto, por analogia, a Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUPOSTA OFENSA AO ART. 1022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (..)
+1. A alegação genérica de violação ao art. 1.022 do CPC/2015 atrai, por analogia, a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+(..)
+(AgInt no REsp 1.992.596/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/9/2022.)
+TRIBUTÁRIO. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. (..) ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Não se pode conhecer a apontada violação ao art. 1.022, II, do Código de Processo Civil de 2015, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, a sua importância para o deslinde da controvérsia, bem como o porquê não estaria devidamente fundamentado, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+(..)
+(AgInt no REsp 1.991.540/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18/8/2022.)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. TÍTULOS DE CRÉDITO. CÉDULA RURAL PIGNORATÍCIA. EXECUÇÃO QUE DEVE SER APARELHADA COM O ORIGINAL DO TÍTULO EXECUTIVO. NATUREZA CAMBIAL. CIRCULARIDADE DO TÍTULO PREVISTA EM LEI.
+(..)
+3. Não se pode conhecer da apontada violação aos arts. 1.022 e 489 do CPC, pois as alegações que a fundamentam são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado, motivo pelo qual incide, na espécie, por analogia, a Súmula 284/STF.
+(..)
+(REsp 1.997.729/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 25/8/2022.)
+Acerca da nulidade do processo administrativo por falta de notificação, assim se posicionou o Tribunal a quo (fls. 1.013-1.014):
+(..)
+Como anotado pela MMª Juíza:
+"E, ao contrário do que dispunha o item 2 do Anexo 11 do Edital, o Termo Aditivo Modificativo dispôs, em sua cláusula quinta, que "a Diretoria Notificante poderá conceder novo prazo além do previsto em cronograma e compatível tecnicamente para realização do serviço e/ou obra inexecutado. O não cumprimento desse novo prazo acarretará a cobrança de multa moratória à razão de 1,0% ao dia sobre o valor da penalidade aplicada, a contar do primeiro dia subsequente ao da respectiva nova data fixada até o cumprimento da obrigação. As multas moratórias quando aplicadas, não poderão ultrapassar o valor da parcela da obrigação ainda não cumprida".
+Destarte, não há previsão legal que estabeleça a necessidade de prévia notificação da concessionária sobre a existência de irregularidade verificada.
+Como anotado pela MMª Juíza no decisum:
+(..)
+Considerando que esta nova previsão (que torna facultativa a notificação prévia) conflita com a antiga norma do Anexo11 do Edital, resta certo que prevalece o disposto no Termo Aditivo, que revogou as cláusulas e condições conflitantes." (fl. 850)
+Destarte, não há previsão legal que estabeleça a necessidade de prévia notificação da concessionária sobre a existência de irregularidade verificada, o descumprimento das normas contratuais motiva a aplicação de penalidade.
+Verifica-se que a questão foi dirimida com base na interpretação das cláusulas do contrato firmado entre as partes e no acervo fático-probatório dos autos. Dessa forma, inviável a sua revisão na via especial ante o disposto nas Súmulas 5 e 7 do STJ, respectivamente. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. OBRA VIÁRIA. ATRASO. PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO DE SENTENÇA. REVISÃO DO VALOR DA APOSENTADORIA. EMENDAS CONSTITUCIONAIS N. 20/1998 e 41/2003. PROCEDÊNCIA PARCIAL DOS PEDIDOS. FIXAÇÃO DO VALOR APURADO PELA CONTADORIA DO JUÍZO. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação ajuizada por Viarondon Concessionária de Rodovia S.A. contra a Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - Artesp objetivando a anulação de multa administrativa por descumprimento contratual referente ao atraso na conclusão de obra viária.
+II - Na sentença, julgaram-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - O Tribunal de origem apreciou a causa, mediante o fundamento suficiente de que não caberia à parte recorrente avaliar em termos de inutilidade ou desnecessidade da obra, em descumprimento do cronograma físico-financeiro. Confira-se trecho do acórdão recorrido: " (..) Ora, a obra era prevista em contrato e, portanto, deveria ser realizada no prazo estipulado e, caso o autor entendesse que referida obra seria "desnecessária", deveria ter impugnado o edital ou se insurgido na esfera administrativa no momento oportuno, todavia, não o fez. No mais, a ausência de resposta acerca do pedido de alteração do cronograma físico-financeiro não pressupõe anuência tácita da Administração Pública, salvo previsão legal em sentido contrário, o que inexiste no caso em tela. Ressalte-se que o contrato administrativo só pode ser alterado unilateralmente pela Administração Pública de forma expressa e, portanto, enquanto não houver manifestação expressa do réu, prevalecem os prazos e condições do contrato vigente. (..)"
+V - A manutenção da sanção aplicada lastreou-se em fundamentos suficientes, não havendo necessidade de que sejam abordados todos os tópicos que a parte recorrente julga importante.
+VI - A alegação de omissão consistiu em mero descontentamento com as conclusões a que chegou o Tribunal de origem.
+VII - O conhecimento da pretensão recursal implicaria análise das cláusulas do edital e do contrato administrativo, para que fosse afastado o fundamento em que se lastreou a exigibilidade da multa. Conforme apontado pelo Tribunal de origem, a parte recorrente busca afastar a incidência de cláusulas e do cronograma aos quais anuiu na celebração do contrato, conforme trecho acima transcrito. Assim, não cabe o conhecimento do recurso, com fundamento no enunciado n. 5 da Súmula do STJ.
+VIII - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria, notadamente quanto às manifestações do perito e ao alegado prejuízo patrimonial que decorreria do cronograma da realização da obra (tese da desnecessidade de execução da obra na data original, dado o fato de que a realização da obra à época dos fatos era inútil). Igualmente revolve fatos a pretensão relativa à desproporcionalidade da sanção aplicada. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+IX - Agravo interno improvido.
+(AgInt no AREsp 2.062.344/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 13/10/2022.)
+Quanto à aplicação do princípio da continuidade delitiva para infrações administrativas, vale transcrever este trecho do acórdão recorrido (fl. 1.190):
+(..)
+Ao que consta dos autos a autora, ora embargante foi sancionada por não ter mantido o nível de funcionamento da iluminação interna e externa em qualquer ponto de uma superfície em 75% do nível do projeto.
+No caso, os termos do contrato dão conta que a multa administrativa que ora se discute é imposta por infração. Nesse sentido a sentença de fls. 848/853. Assim, não se trata de aplicação de diversas sanções pelo mesmo fato, o que afasta a tese do bis in idem. De mesmo modo, não há que se cogitar de violação do princípio da continuidade delitiva, instituto de cunho penal, aplicado ao concurso de crimes, ou seja, de incidência incompatível com a esfera do direito administrativo.
+A definição sobre o conceito e alcance do que se entende por infração advém de interpretação das cláusulas contratuais, motivo pelo qual o conhecimento do Apelo esbarra, novamente, no entendimento das Súmulas 5 e 7 do STJ.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
