@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por FERNANDES & OLIVEIRA LTDA. contra decisão do Tribunal de Justiça do Estado de Sergipe, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 120):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - REJEIÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE - COBRANÇA DE ICMS - RECURSO DO EXECUTADO - INCIDENTE DE INCONSTITUCIONALIDADE - LEI 8.863/2021 - INACOLHIDO -INFORMAÇAO EXPRESSA NA AUTUAÇÃO QUE INDICA QUE O PROCEDIMENTO UTILIZADO FOI EMBASADO NA LEI 7.651/2013 -TESE DA NULIDADE DO AUTO DE INFRAÇÃO POR AUSÊNCIA DE INDICAÇÃO DE BASE DE CÁLCULO E DA ALÍQUOTA - INACOLHIDA - AUSENCIA DE VIOLAÇAO AOS ARTIGOS 5º E 6º DA LEI 7.651/2013 - ICMS É TRIBUTO LANÇADO POR HOMOLOGAÇAO OU AUTOLANÇAMENTO - RESPONSABILIDADE DO CONTRIBUINTE EM DECLARAR AS INFORMAÇÕES DO FATO GERADOR E APONTAR O VALOR DO TRIBUTO A SER PAGO - CERCEAMENTO DE DEFESA NÃO CONFIGURADO - INEXISTÊNCIA DE NULIDADE - RECURSO CONHECIDO E IMPROVIDO.
+No recurso especial (e-STJ fls. 128/141), o recorrente afirma que "o Acórdão recorrido ofendeu à textual disposição dos arts. 142 e 203 do Código Tributário Nacional e do art. 2º da Lei de Execução Fiscal, além da Súmula 436 do STJ, dando-lhes interpretações divergentes e negando as suas vigências, ao momento em que considerou a validade de um Auto de Infração completamente nulo, visto que carente das informações básicas necessárias ao exercício do contraditório e ampla defesa do contribuinte" (e-STJ fl. 131). Em suas razões, alega que "as Notas Fiscais não constituem confissão de imposto, sendo inaplicável, à espécie, a Súmula 436 desta Corte" (e-STJ fl. 137).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo em razão da incidência das Súmulas 7 do STJ e a 280 do STF (e-STJ fls. 165/173).
+No agravo em recurso especial (e-STJ fls. 179/192), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem manteve a decisão que indeferiu a suspensão da execução fiscal e rejeitou a exceção de pré-executividade. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 122/124):
+Compulsando os autos, verifico que a se resume à análise da presença, ou não, dos requisitos legais previstos pelo Código vexata quaestio de Processo Civil, para fins de concessão da tutela provisória de urgência/efeito suspensivo, quais sejam, a probabilidade do direito alegado (fumus boni juris), e o perigo da demora (periculum in mora), além da necessária reversibilidade do provimento antecipado.
+Nesse contexto é que a discussão trazida aos presentes autos consiste no combate à ordem judicial que deixou de acolher a pretensão da executada/agravante levantada em exceção de pré-executividade, em que pretendia que fosse reconhecida a nulidade do Auto de Infração originário do crédito executado.
+Cumpre destacar que a exceção de pré-executividade é um mecanismo de defesa incidental pelo executado, por meio do qual são arguidos vícios ou nulidades do título executivo, passíveis de serem reconhecidos de ofício pelo julgador.
+Nos termos da Súmula nº 393 do Superior Tribunal de Justiça, a admissibilidade do incidente está condicionada a presença simultânea de dois requisitos: (a) a matéria invocada deve ser conhecível de ofício; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória.
+Estabelecidas essas premissas, verifico que a matéria ventilada pela agravante, isto é, a nulidade de auto de infração é de ordem pública e passível de ser apreciada em sede de exceção de pré-executividade.
+Nesta ilação avanço na análise de mérito e destaco que, embora o art. 6º tenha sido alterado pela Lei nº 8.863/2021, o fato é que o teor da redação atual do dispositivo em nada altera o posicionamento adotado pelo juízo primevo.
+Isso porque, como ressaltou o Magistrado a quo no decisum fustigado, no respectivo Auto de Infração (documentos de fls. 40), fora aplicada a Lei n. 7.651/2013, conforme consta no campo "INTIMAÇÃO", conforme os principais excertos extraídos da autuação, verbis:
+ ..
+Com efeito, não houve a aplicação da legislação tombada sob o n. Lei nº 8.863/2021 na situação em epígrafe e, por tabela, não há pertinência temática da situação em concreto com o regramento indicado , o qual o agravante visa a declaração de inconstitucionalidade.
+Dito isto, rejeito o argumento da inconstitucionalidade apontado pelo agravante.
+Avançando no mérito da demanda, impende registrar que a análise da questão suscitada revela que o ICMS é um tributo sujeito ao lançamento por homologação ou auto lançamento, no qual o próprio contribuinte declara as informações acerca do fato gerador. Portanto, é o contribuinte quem calcula o tributo e paga o referido montante, de modo que a atuação da autoridade fiscal reside apenas na conferência do procedimento.
+Cabe registrar, também, em princípio, que os arts. 5º e 6º da Lei 7651/2013 não expõem a necessidade de constar a base de cálculo e alíquota do Imposto, no Auto de Infração, verbis:
+ ..
+Neste ponto, há nas CDA"s colacionadas aos autos de origem, a indicação da base de cálculo, qual seja, o próprio valor total do imposto não pago, cuja declaração é de responsabilidade do contribuinte.
+Denota-se, portanto, que estas CDA"s não ferem o art. 142 do CTN, pois os documentos se referem aos lançamentos de penalidades pecuniárias, uma vez que tais documentos já haviam sido lançados, de modo que o contribuinte já tinha a ciência prévia dos tributos.
+Destaca-se, mais, as CDA"s contém todos os requisitos de validade e eficácia, aptas, portanto, a serem executadas, nos termos do §5º da Lei 6.830/80.
+Portanto, não assiste razão ao agravante, motivo pelo qual mantenho o decisum fustigado na integra.
+Pois bem.
+Do que se extrai das razões recursais, o recorrente aponta violação dos arts. 142 e 203 do CTN, bem como do art. 2º da LEF. Defende, basicamente, que a emissão de nota fiscal não importa em reconhecimento de débito fiscal para fins de constituição de crédito tributário.
+Contudo, em momento algum, o acórdão recorrido manifesta-se a respeito dessa questão.
+Logo, a alegada violação não pode ser conhecida, tendo em vista que não foi enfrentada pelo acórdão recorrido, evidenciando a falta de prequestionamento de que trata a Súmula 282 do STF. Não houve oposição de embargos de declaração relacionado ao tema, a fim de sanar eventual vício do acórdão objurgado, o que atrai a incidência da Súmula 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. URV. REESTRUTURAÇÃO DA CARREIRA. LIMITAÇÃO. PRESCRIÇÃO. PRAZO PRESCRICIONAL. SÚMULAS 7/STJ E 280/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. 1. O acórdão recorrido não apreciou a matéria pertinente ao art. 489, § 1º, VI, do CPC/2015, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Quanto ao tema prescrição, o aresto objurgado não destoa da jurisprudência deste Tribunal, no sentido de que, embora não seja possível compensação de perdas salariais resultantes da conversão em URV com reajustes determinados por lei superveniente, é cabível a limitação temporal do pagamento quando há recomposição nos vencimentos decorrente de reestruturação na carreira dos servidores. Precedentes.
+3. O Tribunal de origem entendeu que houve reestruturação da carreira dos recorrentes pela Lei Estadual n.º 437/2009. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como exame de legislação local, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 7/STJ e 280/STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.467.115/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/9/2019, DJe de 18/9/2019.).
+Além disso, ao afastar a nulidade defendida na origem, o acórdão recorrido destacou que "os documentos se referem aos lançamentos de penalidades pecuniárias, uma vez que esses documentos já haviam sido lançados, de modo que o contribuinte já tinha a ciência prévia dos tributos". Contudo, o recorrente não se manifestou sobre esse motivo.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Cabe acrescentar que "o não conhecimento do especial pelo conduto da alínea "a" do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
