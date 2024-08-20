@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO ERNESTO SERRA GOMES contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que " ..  a insurgência e tudo o mais nos presentes autos ficou PREJUDICADA, pela concessão da gratuidade de justiça no processo principal, que deve retroagir os seus efeitos ao primeiro pedido feito no processo" (fl. 231 ).
+Requer, assim:
+ ..  sejam conhecidos e providos os presentes Embargos de Declaração, para pronunciar que, face à concessão expressa da Gratuidade de Justiça no processo principal (inventário) de onde provém o presente recurso, seja pronunciada a sua isenção de arcar com as custas preparos pela interposição do Agravo de Instrumento e do Recurso Especial na origem, ficando prejudicado o mérito do presente Agravo em Recurso Especial, posto que a sentença que cancelara a distribuição do Inventário também restou anulada" (fl. 232).
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 83/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
