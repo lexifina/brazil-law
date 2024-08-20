@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por DAVI GONCALVES DE MEDEIROS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que não admitiu o recurso especial formulado com fundamento no artigo 105, III, a, da Constituição da República, em oposição ao acórdão que deu parcial provimento a apelação da defesa para redimensionar a pena para 20 dias e, de ofício, alterar de detenção para prisão simples, no regime aberto, por meio de acórdão assim ementado (e-STJ fl. 171):
+EMENTA: DIREITO PROCESSUAL PENAL E PENAL. VIAS DE FATO EM ÂMBITO FAMILIAR. RECURSO EXCLUSIVO DA DEFESA. 1) PLEITO DE ABSOLVIÇÃO POR INCIDÊNCIA DE LEGÍTIMA DEFESA. IMPROVIDO. REAÇÃO DESPROPORCIONAL, NÃO SE UTILIZANDO DOS MEIOS MODERADOS E NECESSÁRIOS. 2) PLEITO DE DECOTE DA CIRCUNSTÂNCIA JUDICIAL CULPABILIDADE. PROVIDO. APRESENTADA FUNDAMENTAÇÃO INIDÔNEA, POIS PRÓPRIA DO TIPO PENAL. 3) PLEITO DE DECOTE DA CIRCUNSTÂNCIA JUDICIAL MOTIVO. IMPROVIDO. APRESENTADA FUNDAMENTAÇÃO IDÔNEA, DE ACORDO COM PRECEDENTES DESTA CORTE, POIS DIANTE DE MOTIVO FÚTIL, JÁ QUE A AGRESSÃO OCORREU APÓS DISCUSSÃO POR CIÚMES. APLICAÇÃO DE PATAMAR DE 1/8 DA DIFERENÇA ENTRE A PENA MÁXIMA E MÍNIMA EM ABSTRATO PARA CADA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. 4) MANTIDA ATENUANTE DA CONFISSÃO ESPONTÂNEA. APLICADA REDUÇÃO DE 1/6 SOBRE A PENA-BASE. PRECEDENTES DO STJ E DESTA CORTE. 5) DE OFÍCIO, ALTERADA A PENA DE DETENÇÃO PARA PRISÃO SIMPLES. RECURSO CONHECIDO, PROVIDO EM PARTE E, DE OFÍCIO, CORRIGIDA A PENA DE DETENÇÃO PARA PRISÃO SIMPLES.
+O recurso especial aponta violação do artigo 59 do Código Penal.
+Sustenta, em síntese, que: a) "a Emérita Segunda Câmara Criminal, ao analisar o cálculo dosimétrico, decidiu por manter a negativação do vetor dos motivos, sem expor fundamentação idônea, visto que baseada em fatos incontroversos, ou seja, que não possuem provas" (e-STJ fl. 196); b) "com relação aos motivos do crime, o Juízo a quo negativou tal circunstância diante do fato de o delito ter sido praticado por motivo fútil, qual seja o ciúme. No entanto, tal justificativa consiste em meras presunções, inferências e alegações abstratas não sustentadas nos elementos concretos, ou melhor, provas de que essas circunstâncias motivaram o delito praticado" (e-STJ fl. 196); c) "o presente recurso não visa o reexame do conjunto fático probatório, o que sabe ser incabível em sede de recurso especial, mas tão somente a revaloração jurídica dos fatos incontroversos, no caso, a ausência de provas para valoração negativa da circunstância judicial" (e-STJ fl. 197); e d) "foram utilizadas referências vagas, genéricas e desprovidas de fundamentação objetiva para justificar a exasperação da pena-base por meio da negativação da referida circunstância judicial, de modo que a fundamentação deve ser reconhecida como inidônea e o vetor decotado, em razão da ausência de prova" (e-STJ fl. 198).
+Requer seja o recurso conhecido e provido para reformar o acórdão recorrido, de modo a afastar o aumento pelo vetor motivo.
+Ausentes as contrarrazões (e-STJ fl. 209).
+O recurso foi inadmitido pela incidência do óbice da Súmula 83/STJ (e-STJ fls. 211-213). Assim, foi interposto este agravo (e-STJ fls. 227-232).
+Contraminuta ausente (e-STJ fl. 238).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 251-253).
+É o relatório.
+Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Cinge-se a controvérsia em verificar se as instâncias ordinárias deram a correta interpretação ao art. 59 do Código penal quando valoraram, negativamente, a circunstância judicial referente ao motivo do crime.
+A pretensão recursal não merece acolhimento.
+O Tribunal de origem ao redimensionar a pena-base, assim fundamentou a controvérsia (e-STJ fls. 177-178):
+2. Da dosimetria
+Diante do improvimento do pedido de absolvição por legítima defesa, passemos a analisar a dosimetria da pena aplicada.
+Em 1º fase da dosimetria, analisando as circunstâncias especificadas no art. 59 do CPB, entendo que deve ser afastada a valoração negativa da circunstância judicial culpabilidade, posto que, "agir com dolo de praticar injusta agressão" não extrapola a culpabilidade normal do tipo, pois inerente a ele.
+Quanto à motivação, entendo que seu desvalor deve permanecer, pois motivada na futilidade da discussão, iniciada por ciúmes da esposa, que encontrou o réu dançando com outra mulher. Nesse sentido, trago os julgados abaixo:  ..  (grifamos)
+Quanto à valoração negativa do vetor motivo, nota-se que a Corte de origem entendeu que o ciúme seria fundamento idôneo para a exacerbação. Dessa forma, constata-se que a conclusão encontrada pelo Tribunal local encontra-se em consonância com a jurisprudência desta Corte de Justiça:
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL HOMICÍDIO TENTADO. DOSIMETRIA. PRIMEIRA E SEGUNDA ETAPAS. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É idônea a avaliação negativa dos motivos do crime na primeira fase da dosimetria quando o delito é ocasionado por discussão entre as partes. Precedentes.
+2. Evidenciado que a insurgente era companheira da vítima e morava na mesma residência, bem como que a coabitação foi determinante para viabilizar a prática delitiva, justificada está a incidência da agravante prevista no art. 61, II, "f", do Código Penal. Ademais, constatado que o reconhecimento da coabitação se deu com base nas provas dos autos, o decote dessa agravante demandaria o revolvimento do conteúdo fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 2.467.666/PI, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/5/2024, DJe de 23/5/2024.) (grifamos)
+Por outro lado, vale ressaltar que o Colegiado local sequer analisou a questão alegada sobre a comprovação, ou não, da situação da motivação da discussão para fins de aumento da pena-base, de modo que seria inviável a sua análise diretamente nesta Corte.
+Ademais, ainda que assim não fosse, o Tribunal a quo, quanto ao fundamento utilizado para exasperar a pena-base, destacou que o crime ocorreu em razão da futilidade da discussão decorrente de ciúmes.
+Desse modo, a reforma do julgado como requer a defesa, para afastar a negativação do vetor motivo pela ausência de comprovação das circunstâncias que motivaram o cometimento do delito, não encontra espaço na via eleita, porquanto seria necessário revolver o contexto fático-probatório dos autos, providência incabível em recurso especial, vedada pela Súmula 7/STJ.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE LESÃO CORPORAL GRAVÍSSIMA. REGIME PRISIONAL SEMIABERTO E INVIABILIDADE DA SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AUSÊNCIA DE DOLO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. REVISÃO DA PENA-BASE. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PROPORCIONALIDADE DO AUMENTO DA PENA OCORRIDO NA SEGUNDA FASE DA DOSIMETRIA. SUSPENSÃO CONDICIONAL DA PENA. INVIABILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. "Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ" (AgRg no AREsp 1598714/SE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 29/6/2020).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp 2.306.162/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/10/2023, DJe de 27/10/2023.) (grifamos)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
