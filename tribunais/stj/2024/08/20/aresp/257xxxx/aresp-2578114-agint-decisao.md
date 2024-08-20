@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A (BB) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da ausência de impugnação ao fundamento de incidência da Súmula 83/STJ.
+Nas razões do presente inconformismo, o BB defendeu que houve impugnação específica aos fundamentos da decisão agravada, bem como pleiteou que fosse determinada a suspensão do feito, na forma definida nos autos do Recurso Extraordinário nº 1.445.163-DF (Tema 1.290).
+Não foi apresentada contraminuta.
+É o relatório.
+O recurso merece acolhida.
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que CARLOS ALBERTO SIMON (CARLOS) iniciou liquidação de sentença contra o BB, com amparo em decisão proferida na ação civil pública nº 94.0008514-1, intentada pelo Ministério Público Federal perante a 3ª Vara Federal do DF, tendo por objeto as diferenças de correção monetária, no mês de março/1990, em cédulas de crédito rural com recursos provenientes de depósitos em cadernetas de poupança.
+A questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cujos contratos estabeleciam a indexação aos índices das cadernetas de poupança referente ao mês de março de 1990, foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema 1.290), nos termos do acórdão de relatoria do Ministro Alexandre de Moraes, prolatada no RE 1.445.162-DF, a seguir transcrita:
+RECURSO EXTRAORDINÁRIO. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL, NO MÊS DE MARÇO DE 1990, NAS QUAIS PREVISTA A INDEXAÇÃO AOS ÍNDICES DA CADERNETA DE POUPANÇA. REPERCUSSÃO GERAL RECONHECIDA. 1. Revela especial relevância, na forma do art. 102, § 3º, da CONSTITUIÇÃO FEDERAL, definir o critério de reajuste do saldo devedor das cédulas de crédito rural, no mês de março de 1990, cujos contratos estabelecem a indexação aos índices da caderneta de poupança. 2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC.
+(RE 1445162 RG, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 09-02-2024, PROCESSO ELETRÔNICO DJe-033 DIVULG 22-02-2024 PUBLIC 23-02-2024).
+Na decisão proferida em 7/3/2024, nos Segundos Embargos de Declaração do Recurso Extraordinário nº 1.445.162-DF, verifica-se que o ilustre Ministro Relator decretou a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Confira-se:
+(..)
+Com base no art. 1.035, § 5º, do Código de Processo Civil, DECRETO a SUSPENSÃO do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Oficie-se ao Conselho Nacional de Justiça e aos Presidentes de todos os Tribunais do país, com cópia deste despacho e da manifestação do Relator.
+A comunicação aos juízos de 1º grau e às turmas recursais de juizados deverá ser feita pelo Tribunal de 2ª instância com os quais mantenham vinculação administrativa.
+Nesse contexto, em observância ao princípcio de economia processual e à segurança jurídica, impõe-se a suspensão do presente feito, até a publicação da tese de repercussão geral, nos termos do art. 256-L do RISTJ, in verbis:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Nesse mesmo sentido:
+(..) depreende-se que a questão de direito discutida nestes autos possui intrínseca relação com a questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cuja fonte de recursos provém dos depósitos das cadernetas de poupança referente ao mês de março de 1990.
+A questão de direito foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema 1290), o que impõe a suspensão do presente recurso perante o Tribunal de origem até a publicação da tese.
+(PET no AREsp 2595700, Rel Ministra NANCY ANDRIGHI, DJe 09/08/2024).
+Nessas condições, DOU PROVIMENTO ao agravo interno, para tornar sem efeito a decisão monocrática agravada e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que o recurso permaneça suspenso até a publicação do acórdão paradigma, nos termos dos arts. 1.039 a 1.041 do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. DEMANDA COLETIVA. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL. MATÉRIA AFETADA PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1290. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO PROVIDO.
