@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por demandar reexame de matéria fática (e-STJ fls. 391/395).
+O acórdão recorrido está assim ementado (e-STJ fl. 218):
+CIVIL. APELAÇÃO. RECORRENTE PLEITEIA A ANULAÇÃO DA SENTENÇA PROFERIDA NOS AUTOS DA AÇÃO AJUIZADA EM FACE DA CAIXA ECONÔMICA FEDERAL, QUE JULGOU IMPROCEDENTE O PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS REFERENTE A VÍCIOS CONSTRUTIVOS EM IMÓVEL DO QUAL A CAIXA ECONÔMICA FEDERAL PARTICIPOU NA QUALIDADE DE AGENTE EXECUTOR E OPERADOR DE POLÍTICAS FEDERAIS PARA A PROMOÇÃO DE MORADIA PARA CONSUMIDORES DE BAIXA RENDA, E DECLAROU O PROCESSO EXTINTO COM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ARTIGO 487, I, DO CPC. DESNECESSIDADE DE PROVA PERICIAL. DESCABIMENTO DE INVERS ÃO DO ÔNUS DA PROVA. DESCAMENTO DE INDENIZAÇÃO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+1. Trata-se de recurso de apelação interposto por ROSANGELA HILARIO DE OLIVEIRA DOLLINGER, que pleiteia a anulação da sentença proferida nos autos da ação ajuizada em face da CAIXA ECONÔMICA FEDERAL, que julgou improcedente o pedido de indenização por danos materiais e morais referente a vícios construtivos em imóvel do qual a Caixa Econômica Federal participou na qualidade de agente executor e operador de políticas federais para a promoção de moradia para consumidores de baixa renda, e declarou o processo extinto com resolução do mérito, nos termos do artigo 487, I, do CPC.
+2. Não há necessidade de realização de prova pericial. Anote-se que o Superior Tribunal de Justiça tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento. Destaque-se que cabe ao juiz avaliar a utilidade das provas requeridas, indeferindo as protelatórias ou desnecessárias ao seu livre convencimento. A aplicação do CDC ao caso não é automática, sendo certo que a parte autora não demonstrou a existência de abusividade ou ilegalidade no contrato. A inversão do ônus da prova não é automática, sendo certo que não se verifica verossimilhança nas alegações autorais.
+3. Improcedentes os danos materiais, eis que não provada qualquer ilicitude por parte da CEF. Não havendo ato ilícito, não há que se falar em responsabilidade civil. Em relação ao pedido de danos morais, não se vislumbra a hipótese de gerar condenação eis que não restou configurado qualquer ofensa a bem integrante da personalidade da parte autora, não sendo atingida a reputação, nem tampouco ficou comprovado qualquer privação nas suas necessidades básicas de subsistência, nem que tivesse sido exposta a situação vexatória, razão pela qual não há que se falar em danos desta natureza. Assim, não há que se falar em danos morais, no caso em questão. A uma, porque não houve prática de ato ilícito pela mesma. A duas, porque não demonstrada qualquer violação à direito da personalidade da parte autora. Não ficou demonstrado pela parte apelante qualquer erronia, ilegalidade ou teratologia na sentença prolatada. Sentença mantida por seus lídimos fundamentos e adotada como razões de decidir.
+4. Negado provimento à apelação. Condenada a parte autora em honorários recursais de 1% sobre o valor da causa atualizado, os quais ficam suspensos em razão da gratuidade de justiça.
+Os embargos de declaração foram rejeitados (e-STJ fls. 274/278).
+Nas razões do recurso especial (e-STJ fls. 288/312), interposto com fundamento no art. 105, III, "c", da CF, a recorrente apontou dissídio jurisprudencial acerca da aplicação do art. 6º, VIII, do CDC e da inversão do ônus probatório. Afirmou que, nos termos da Súmula n. 297/STJ, o CDC é aplicável às instituições financeiras. Defendeu a necessidade de perícia, a fim de comprovar os vícios no imóvel, sustentando que a ausência da prova implicaria cerceamento de defesa. Indicou como paradigmas julgados do STJ, do TJPR e do TJSP.
+Contrarrazões às fls. 365/380 (e-STJ).
+No agravo (e-STJ fls. 405/410), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 416/420).
+É o relatório.
+Decido.
+O recurso especial foi interposto apenas com base no dissídio jurisprudencial.
+É firme o entendimento desta Corte de que o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+No caso, a recorrente defende as seguintes teses: (a) aplicação do CDC, (b) necessidade de inversão do ônus da prova, (c) imprescindibilidade da prova pericial, e (d) cerceamento de defesa.
+O artigo apontado como objeto de interpretação divergente é o 6º, VIII, do CDC, o qual não possui alcance normativo para sustentar as teses apresentadas.
+Uma coisa é defender a aplicação do diploma consumerista, outra é a possibilidade de inversão do ônus da prova. Ainda que a relação enseje a aplicação do CDC, a inversão do ônus da prova não se dá de forma automática.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AUSÊNCIA DE OFENSA AO ART. 1.022 DO CPC. PLANO DE SAÚDE. CONTRATO ANTERIOR À LEI 9.656/98. INCIDÊNCIA DO CDC. SÚMULA 608/STJ. INVERSÃO DO ÔNUS DA PROVA. HIPOSSUFICIÊNCIA TÉCNICA. POSSIBILIDADE. SÚMULA 83 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+ ..
+4. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor. Precedentes.
+ ..
+6. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.496.479/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/6/2024, DJe de 7/6/2024.)
+Além disso, a tese de imprescindibilidade da prova não tem relação com as alegações anteriores.
+Verifica-se, portanto, deficiência na fundamentação recursal, o que atrai a Súmula n. 284/STF.
+Ademais, verificar a necessidade da perícia e a ocorrência de cerceamento de defesa, implicaria reexame de todo o contexto fático-probatório do processo, o que é inviável no âmbito do especial, por força da Súmula n. 7/STJ.
+Dessa forma, não demonstrada a divergência jurisprudencial apontada, de rigor o desprovimento do recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
