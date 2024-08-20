@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei apresentado pelo MUNICÍPIO DE JOINVILLE, com fundamento no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão prolatado pela Primeira Turma Recursal do Estado de Santa Catarina assim ementado (e-STJ fl. 247):
+AGRAVO INTERNO EM RECURSO INOMINADO. DESISTÊNCIA APÓS A APRESENTAÇÃO DE CONTRARRAZÕES. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. ENUNCIADO 122 DO FONAJE. PRECEDENTES DAS TURMAS RECURSAIS. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Alega a parte requerente que o Tribunal de origem divergiu do entendimento de Turmas Recursais de outros estados da Federação em relação à condenação da parte recorrente ao pagamento de custas e honorários de sucumbência, na hipótese de desistência do recurso inominado.
+Passo a decidir.
+Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal Superior, quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+No caso, evidencia-se que o pedido aqui deduzido possui natureza eminentemente processual, de modo que não há como conhecer do incidente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. RAZOABILIDADE NA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. QUESTÃO DE ORDEM PROCESSUAL. AUSÊNCIA DE EXAME DE DIREITO MATERIAL.
+1. Nos termos do que dispõe o § 3º do artigo 18 da Lei n. 12.153/2009, cabe pedido de uniformização de interpretação de lei no STJ quando houver controvérsia sobre questões de direito material, a qual as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+2. No caso concreto, faz-se necessário reconhecer a inadmissibilidade do pedido aqui deduzido, porque de cunho eminentemente processual, qual seja, possível desproporcionalidade na condenação dos honorários advocatícios.
+3. Agravo interno não provido.
+(AgInt no PUIL 52/RO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 25/04/2018, DJe 30/04/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO. INFRAÇÃO DE TRÂNSITO. TRANSFERÊNCIA DE PONTOS APÓS VENCIDO O PRAZO ADMINISTRATIVO. NORMA COM NATUREZA PROCESSUAL. IMPOSSIBLIDADE DE CONHECIMENTO DO PUIL.
+1. Trata-se de Agravo Interno interposto contra decisum que rejeitou liminarmente o PUIL proposto pelo ora agravante.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+3. Na origem, trata-se de Pedido de Uniformização de Interpretação de Lei (art. 18, § 3º, e 19 da Lei 12.153/2009) apresentado contra acórdão proferido pela Turma Recursal do Tribunal de Justiça de São Paulo, assim ementado:
+"Infração de trânsito. Necessidade de indicar o real condutor no prazo de quinze dias previsto no art. 257, §7º do CTB. Presunção de legitimidade dos atos administrativos não infirmada. Recurso provido".
+4. O Incidente de Uniformização de Interpretação de Lei, em suas razões, aponta que o acórdão impugnado divergiu do entendimento adotado por outras turmas recursais, acerca do art. 257, § 7º, do CTB. Aduz que os acórdãos paradigmas admitem o exame judicial da negativa de transferência de pontos infracionais do proprietário ao efetivo condutor do veículo após vencido o prazo administrativo. Pede que seja julgado procedente o pedido para que se restabeleça a sentença monocrática.
+5. O Pedido de Uniformização somente é admissível para questões de direito material. De acordo com o art. 14, § 4º, da Lei 10.259/2001, "quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+6. No caso dos autos, a matéria suscitada como divergente é a possibilidade de transferência de pontos infracionais do proprietário ao efetivo condutor do veículo após vencido o prazo administrativo.
+7. Volvendo-se à resolução do presente caso, verifica-se que não existe decisão colegiada que verse sobre a questão de direito material acerca da qual se pleiteia a pacificação de posicionamento.
+Portanto, impróprio o Pedido de Uniformização dirigido ao STJ, conforme dispõe o art. 36, caput, do Regimento Interno da Turma Nacional de Uniformização.
+8. Logo, se as normas do procedimento administrativo de transferência de pontos decorrente de multa de trânsito possuem natureza eminentemente processual, não há possibilidade de conhecimento do presente incidente de Pedido de Uniformização de Interpretação de Lei Federal, que exige debate apenas de direito material.
+9. No mesmo sentido, compreende o Superior Tribunal de Justiça que não cabe incidente de uniformização dirigido àquela Corte contra acórdão da TNU que trata de questões processuais. Citam-se precedentes: AgRg na Pet 9.631/PA, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 2/6/2014; AgRg na Pet 9.891/RN, Rel. Ministra Eliana Calmon, Primeira Seção, DJe 20/9/2013;
+AgInt no PUIL 845/RN, Rel. Min. Herman Benjamin, Primeira Seção, DJe 31/5/2019.
+10. Desse modo, constata-se ser impossível o Pedido de Uniformização de Interpretação de Lei Federal na presente hipótese.
+11. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+12. Agravo Interno não provido. (AgInt no PUIL 1.154/SP, Relator Ministro HERMAN BENJAMIN, Órgão Julgador S1 - PRIMEIRA SEÇÃO, DJe 07/05/2020).
+Ante o exposto, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
+EMENTA
