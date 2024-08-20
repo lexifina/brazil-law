@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por VIGILÂNCIA PATRULHENSE LTDA. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FURTO DE VEÍCULO EM ESTACIONAMENTO DE UNIVERSIDADE PARTICULAR. DEVER DE REPARAR. ÔNUS DA PROVA. DANOS MORAIS. NÃO CONFIGURADOS. DANOS MATERIAIS. TABELA FIPE. HORÁRIOS SUCUMBENCIAIS MAJORADOS. SENTENÇA PARCIALMENTE REFORMADA.
+- Nos termos das disposições do CDC, aplicáveis ao caso em comento, o fornecedor responde de forma objetiva pelos danos causados a seus consumidores em face dos defeitos na prestação dos serviços, bastando, portanto, a demonstração do nexo de causalidade e o prejuízo para fins indenizatórios. Aliado a isto, o STJ tem entendimento consagrado na Súmula 130 de que "A empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento".
+- No caso, a parte autora comprova os fatos constitutivos de seu direito, isto é, a ocorrência do furto de sua motocicleta do estacionamento da ré, de modo que comprovada a responsabilidade civil no caso em comento.
+- Diante do processamento da denunciação da lide na origem, e considerando a existência de contrato de prestação de serviços existente entre a litisdenunciante e a litisdenunciada sem qualquer exclusão acerca do estacionamento de veículos mantidos pela Universidade e com expressa previsão contratual admitindo o chamamento da empresa contratada aos processos que tratarem da responsabilidade pelos danos causados no estabelecimento em que realizada a vigilância., bem como a comprovada falha no serviço de segurança prestado, deverá a empresa de vigilância ressarcir os prejuízos sofridos pela litisdenunciante em razão da presente demanda.
+- Valor do ressarcimento do veículo deve observar a cotação da Tabela FIPE. - O dano moral não se caracteriza quando há mero aborrecimento, mesmo que inerente a prejuízo material, pois a configuração deste decorre de violação dos direitos de personalidade. Os efeitos danosos imateriais são: dor, tristeza, constrangimento, humilhação, vexame, opressão, que advém de uma ofensa injusta, que agride intensamente a condução da vida, comprometem o comportamento e equilíbrio psicológicos do indivíduo, uma vez que a pessoa resta diminuída no que pensa de si própria, o que, no caso, reputo não ter acontecido, apesar de conhecer todos os transtornos suportados pela apelante.
+- Da leitura e interpretação do art. 85, § 2º do CPC, a partir da vigência do atual codex processual, verifica-se que a regra geral é que os honorários serão obrigatoriamente fixados entre 10% e 20%, tendo sua base de cálculo o montante da condenação, o proveito econômico ou o valor da causa, dependendo, então, da natureza da sentença para a definição da base sobre a qual incidirá o percentual a ser fixado.
+- Sentença parcialmente reformada. Honorários majorados.
+APELO DA PARTE AUTORA PARCIALMENTE PROVIDO. APELO DA DENUNCIADA DESPROVIDO. UNÂNIME" (e-STJ fls. 411/412)
+No recurso especial (e-STJ fls. 423/437), a agravante alega a violação dos artigos 125, II e 373, I, do Código de Processo Civil.
+Defende, em síntese, que não assumiu o dever de vigilância dos estacionamentos existentes no interior da universidade, além de alegar inexistir obrigação contratual nesse aspecto.
+Sustentou que a "não demonstrou ter havido a efetiva obrigatoriedade da requerida de vigiar o espaço de estacionamento no âmbito da universidade".
+Sem contrarrazões.
+O recurso especial foi inadmitido no tribunal de origem, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+O estabelecimento comercial que oferece estacionamento a seus clientes, inegavelmente como atrativo para captação de clientela e prospecção de maior proveito econômico na prestação dos seus serviços, de modo que incumbe ao fornecedor garantir a prestação do serviço.
+Inclusive, como referido, a luz da Súmula 130 do STJ, os estabelecimentos comerciais e prestadores de serviço (supermercados, shopping centers, bancos, etc), respondem perante o cliente por danos ou furtos de veículos ocorridos em seus estacionamentos.
+O fato de o estacionamento não possuir cancela e não ser cobrado do aluno, não afasta a responsabilidade da ré, que oferece o local, que ainda conta com serviço de segurança e vigilância, para comodidade de seus alunos. Assim, referido entendimento é amplamente aplicável ao caso em análise.
+No caso em tela, ao contrário do que defende a requerida, a prova constante nos autos é apta a comprovar a ocorrência do furto nas dependências da universidade. Além do Boletim de Ocorrência Policial (evento 6 - PROCJUIDC1, p. 21) há nos autos histórico escolar e captura de tela do ambiente virtual de aprendizagem, os quais demonstram que no primeiro semestre de 2018 ele estava matriculado na disciplina Cálculo Diferencial e Integral I, ministrada na terça-feira à noite (evento 6 - PROCJUIDC1, p. 30-34), indicativo de que ele estava nas dependências da universidade no momento em que ocorreu o furto da motocicleta, lá estacionada. Neste viés, todo o conjunto probatório vai ao encontro da narrativa da peça inicial, pois entendo que a parte autora comprova a ocorrência do furto do veículo, ocorrido no estacionamento da requerida, cuja responsabilidade recai sobre ela. A parte ré, por seu turno, nada comprova nos autos.
+O réu, ao seu turno, apenas negou os fatos trazido pelo autor, não trazendo aos autos qualquer fato impeditivo, modificativo ou extintivo do direito inicial.
+Assim, entendo que o autor cumpriu com o encargo probatório que lhe cabia, a luz do art. 373, inciso I do CPC 1 .
+Portanto, comprovado o ato ilícito a ensejar a reparação civil.
+Da responsabilidade da denunciada.
+A empresa denunciada defende a improcedência da denunciação à lide, em razão da ausência de obrigação contratual prevendo o dever de guarda do estacionamento e patrimônio particular de alunos e professores, pois o serviço de segurança prestado pela Patrulhense abrangia apenas a proteção ostensiva dos corredores da Universidade e do seu patrimônio particular, e nada mais.
+Após análise dos autos entendo que não há fundamentos para a reforma da sentença que analisou a questão com acerto e adequação, quase nada havendo a acrescer aos fundamentos explanados pelo Juízo de Origem, que transcrevo abaixo, na parte que interessa, adotando-os como parte de minhas razões de decidir, in verbis: (..)
+(..)
+Cabe ser destacada a existência de contrato de prestação de serviços de segurança entre a denunciada e a Universidade litisdenunciante, sem qualquer exclusão acerca do estacionamento de veículos mantidos pela Universidade e com expressa previsão contratual admitindo o chamamento da empresa contratada aos processos que tratarem da responsabilidade pelos danos causados no estabelecimento em que realizada a vigilância.
+Não há dúvidas que houve falha no na prestação do serviço para o qual a litisdenunciada foi contratada, o que evidentemente se configurou diante da efetiva ocorrência do furto em local que estava sob a sua guarda. Assim, os danos que deverão ser indenizados pela ré à requerente contaram com a participação (omissiva) da equipe de vigilância da denunciada à lide" (e-STJ fls. 404/406).
+Assim, verifica-se que as conclusões do acórdão estão densamente impregnadas de valoração fático-probatória e de análise e interpretação contratual, de modo que é juridicamente inviável rever tais premissas em sede de recurso especial, haja vista a incidência das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorár ios sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
