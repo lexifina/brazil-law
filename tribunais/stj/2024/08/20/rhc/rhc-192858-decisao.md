@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso ordinário em habeas corpus, interposto por ANA PAULA REZENDE MUNHOZ DUBIELLA - contra o acórdão da Décima Primeira Turma do Tribunal Regional Federal da 3ª Região que denegou a ordem no HC n. 5029415-15.2023.4.03.0000, impetrado contra a decisão do Juízo da 1ª Vara Federal de Três Lagoas/MS que, nos autos da Ação Penal n. 0000105-24.2019.4.03.6003, rejeitou a defesa prévia e ratificou o recebimento da denúncia, na qual foi imputada a prática dos crimes previstos no art. 1º, I, §§ 1º e 2º, do Decreto-Lei n. 201/67, c/c os arts. 29 e 30, ambos do CP (fls. 79/81) -, no qual se pretendia o trancamento da ação penal por incompetência da Justiça Federal e por inépcia da denúncia, perdeu o objeto.
+Isso porque, em consulta à página eletrônica do Tribunal de origem, constatou-se que, em 2/4/2024, foi proferida sentença que rejeitou as preliminares de incompetência da Justiça Federal e de inépcia da denúncia e, no mérito, desclassificou a imputação formulada na denúncia para o crime previsto no art. 90 da Lei n. 8.666/1993 (redação anterior à Lei 14.133/2021), com base no art. 383 do CPP, declarando extinta a punibilidade de Ana Paula Rezende Munhoz e dos corréus, ante a prescrição da pretensão punitiva estatal, na forma dos artigos 107, IV, c/c 109, IV, ambos do CP (fls. 243/254).
+O Ministério Público interpôs recurso de apelação, o qual foi recebido em 16/4/2024.
+Considerando a prolação da sentença, perdeu o objeto o presente recurso que buscava o trancamento da ação penal.
+À vista do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA E APROPRIAÇÃO INDÉBITA. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. SUPERVENIÊNCIA DE SENTENÇA QUE DESCLASSIFICOU A CONDUTA ATRIBUÍDA AOS RÉUS E DECLAROU EXTINTA A PUNIBILIDADE ANTE A OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. APELAÇÃO DA ACUSAÇÃO RECEBIDA. ALTERAÇÃO FÁTICA. PERDA DE OBJETO.
+Recurso prejudicado.
