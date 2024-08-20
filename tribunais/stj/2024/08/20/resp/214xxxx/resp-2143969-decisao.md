@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUAN DIAS DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0016228-94.2023.8.26.0050), que manteve a decisão que indeferiu o pedido de extinção do processo, com base na hipossuficiência. É esta a ementa do acórdão (e-STJ fl. 124):
+AGRAVO DE EXECUÇÃO - Recurso defensivo - Decisão judicial que indeferiu pedido da defesa de declaração da extinção da punibilidade da pena de multa.
+Requer a defesa a reforma da decisão que indeferiu o pedido de extinção da pena de multa, asseverando a hipossuficiência do sentenciado - NÃO CABIMENTO - A multa pecuniária, ainda que considerada dívida de valor, não perdeu seu caráter penal sancionatório - Entendimento do STF, firmado no julgamento da ADI nº 3.150/DF, posteriormente positivado pelo advento da Lei nº 13.964/2019, que deu nova redação ao art. 51, do Código Penal - Ademais, o fato de o sentenciado ser assistido pela Defensoria Pública, por si só, não evidencia a absoluta impossibilidade adimplir a sanção pecuniária - De outro vértice, não obstante a revisão procedida pelo STJ, fixando nova tese nos Recursos Especiais Representativos de Controvérsia nºs 1.785.383 e 1.785.861, referido entendimento versa sobre a extinção da punibilidade nas hipóteses em que pendente apenas o adimplemento da sanção pecuniária, o que não é a hipótese dos autos, uma vez que a pessoa sentenciada ainda cumpre pena privativa de liberdade e, portanto, enquanto não integralmente resgatada, inviável o reconhecimento da extinção da punibilidade, sob pena de afronta à própria Tese 931.
+Agravo improvido.
+Embargos de declaração rejeitados (e-STJ fl. 158):
+EMBARGOS DE DECLARAÇÃO - AGRAVO EM EXECUÇÃO PENAL - OMISSÃO - NÃO VERIFICADO - OPOSIÇÃO COM FINALIDADE DE PREQUESTIONAMENTO - Os embargos de declaração se consubstanciam em instrumento processual destinado a expungir do julgado ambiguidade, obscuridade, contradição ou omissão, inexistentes no aresto embargado - A oposição dos aclaratórios, ainda que tenha por finalidade o prequestionamento da matéria, não prescindem dos requisitos contidos no art. 619 do CPP.
+Embargos rejeitados.
+Nas razões recursais, fundado na alínea "a" do permissivo constitucional, a defesa aponta violação aos arst. 59, caput, e 50, § 2º do Código Penal; 1º e 185 da Lei de Execução Penal (LEP); e 5º, item n. 6, da Convenção Americana sobre Direitos Humanos.
+Aduz que "a hipossuficiência econômica está caracterizada no caso. O valor dos dias-multa foi fixado no mínimo legal. Isso prova a hipossuficiência econômica" (e-STJ fl. 180).
+Acrescenta que o executado é pobre e o Poder Judiciário obrigatoriamente avaliou seu estado financeiro, fixando o valor dos dias-multa no mínimo previsto em lei, concluindo, assim, pela sua miserabilidade.
+Afirma, ainda, que, pelo que consta, ele estava desempregado quando em liberdade, sequer possui conta bancária e não foram encontrados quaisquer bens ou ativos que demonstrem ter condições de pagar a multa sem prejudicar o seu sustento e o de seus familiares, nos termos do artigo 50, § 2º, do CP.
+Requer o provimento do recurso, para que seja declarada extinta a punibilidade do recorrente.
+Contra-arrazoado (e-STJ fls. 187/192) e admitido (e-STJ fls. 195/196), manifestou-se o Ministério Público Federal, nesta instância, pelo desprovimento do recurso (e-STJ fls. 205/214).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+Sobre o tema, destaco que a Terceira Seção do Superior Tribunal de Justiça, em 28/2/2024, revisou entendimento firmado sob o rito dos recursos repetitivos (Tema 931) para fixar a seguinte tese: "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária."
+No caso, colho do acórdão recorrido (e-STJ fls. 136/141, sublinhei):
+De outro vértice, não é possível extinguir o processo executivo, na medida em que não integralmente cumprida a pena corporal.
+Com efeito, necessário o término do cumprimento da sanção corporal, vez que no caso concreto, o sentenciado se encontra ainda cumprindo pena privativa de liberdade, em regime inicial semiaberto, encontrando-se atualmente recolhido no CPP Bauru II (pesquisa realizada através do sistema SIVEC), com previsão de término para 31/07/2024 (cálculo de penas às fls.36 do PEC nº 0023025-55.2019.8.26.0041).
+E, enquanto não cumprida a sanção privativa de liberdade, resulta tecnicamente inviável o reconhecimento da extinção da punibilidade sob pena de afronta ao próprio Tema 931, cuja aplicação está reservada aos casos em que a pena de multa foi a única aplicada, ou naqueles em que é a única pena remanescente.
+O objetivo de tal interpretação é evitar que a pena de multa impeça a extinção da punibilidade daquele condenado que não tenha condições econômicas de arcar com tal custo.
+De fato, consoante o decidido pelo C. Superior Tribunal de Justiça no já mencionado Recurso Especial nº 1.785.861, a extinção da punibilidade em razão da hipossuficiência econômica do executado só é admissível "após o cumprimento da pena corporal", "quando pendente apenas o adimplemento da pena pecuniária".
+ ..
+Ressalto que exigir do reeducando que resgate integralmente as sanções penais que lhe foram infringidas não significa, em hipótese alguma, violação da humanidade das penas ou da dignidade da pessoa humana, afinal, poderá, se o caso, pleitear e obter o parcelamento como meio de alcançar o resultado consistente na almejada extinção da punibilidade.
+Frise-se que, no âmbito da execução da multa penal, o que se almeja não é a mera arrecadação do Estado, mas sim o atendimento aos fins da pena, ou seja, fazer jus ao seu caráter preventivo, retributivo e reeducativo, desestimulando a prática de novos delitos.
+ ..
+Assim, inviável declarar-se extinta a punibilidade da sanção pecuniária antes mesmo da extinção da pena privativa de liberdade fixada. Portanto, não obstante os argumentos sustentados pela ilustre Defensoria Pública, de rigor a manutenção da r. decisão impugnada.
+Como se pode observar, o recorrente, à época do acórdão recorrido, ainda estava a cumprir pena, não se enquadrando na hipótese prevista no Tema n. 931.
+Nesse sentido, destaco os seguintes precedentes desta Corte: Resp n. 2.156.841/SP, relator o Ministro Reynaldo Soares da Fonseca, DJU 24/7/2024; AResp n. 2.492.868/SP, relator o Ministro Otávio de Almeida Toledo, DJU 20/5/2024; e Aresp n. 2.480.974/SP, relator o Ministro Joel Ilan Paciornik, DJU 22/3/2024).
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
