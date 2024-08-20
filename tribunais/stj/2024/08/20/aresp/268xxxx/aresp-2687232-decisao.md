@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RICARDO LUIS DE CARVALHO, ODAIR JOSE VIRIATO e CRISTIANO DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 749/752, in verbis:
+Trata-se de agravo em recurso especial contra decisão da terceira vice- presidente do TJ/MG, que inadmitiu recurso especial interposto com fundamento na alínea "a" do art. 105, III, da CF, por aplicação da Súmula n. 83 do STJ.
+Os agravantes foram condenados em primeira instância pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/06, a 7 anos de reclusão em regime inicial fechado (Odair e Ricardo) e a um ano e 10 meses de reclusão, substituídos por penas restritivas de direito (Cristiano) (f. 464-483).
+As defesas apelaram, tendo o TJ/MG dado parcial provimento ao recurso de Cristiano, para reduzir a pena pecuniária a patamar mínimo e negado provimento aos apelos de Odair e Ricardo. O acórdão recebeu a seguinte ementa:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS ILÍCITAS - AUTORIA E MATERIALIDADE COMPROVADAS - ABSOLVIÇÃO - DESCLASSIFICAÇÃO - IMPOSSIBILIDADES - PENA-BASE - REDUÇÃO - NÃO CABIMENTO - PRESTAÇÃO PECUNIÁRIA FIXADA EM PATAMAR SUPERIOR AO MÍNIMO LEGAL - AUSÊNCIA DE FUNDAMENTAÇÃO - REDUÇÃO DA PENA SUBSTITUTIVA.
+01. Demonstradas a autoria e a materialidade do delito de tráfico de drogas, notadamente pelos depoimentos de policiais militares, cuja validade como meio de prova já foi reconhecida pelos tribunais superiores, a condenação dos réus, à falta de causas excludentes de ilicitude ou de culpabilidade, é medida que se impõe, sobretudo não havendo prova estreme de dúvida de que as drogas apreendidas destinavam-se ao exclusivo consumo pessoal.
+02. Tendo sido valorada, de forma desfavorável, circunstâncias judiciais, a pena base deve se afastar do mínimo legal, em observância aos princípios da razoabilidade e da proporcionalidade.
+03. Inexistindo indicação de qualquer fundamento concreto para a fixação da prestação pecuniária substitutiva em patamar superior ao mínimo legal, deve ser reduzida ao montante de um salário mínimo (art. 45, § 1º, do Código Penal) (f. 640).
+A defesa dos agravantes interpôs recurso especial, com fundamento na alínea "a", do art. 105, III, da CF, alegando contrariedade aos arts. 59 do CP e 42 da Lei n. 11.343/06, porque a pena para os três foi elevada, na primeira fase, pela consideração desfavorável apenas da natureza da droga, quando o binômio prevê a natureza e a quantidade da substância. Alegou, nesse sentido, que as circunstâncias natureza e quantidade são indissociáveis e não podem ser tomadas isoladamente como fundamento para elevar a pena (f. 676-689).
+O recurso não foi admitido na origem pela aplicação da Súmula n. 83/STJ (f. 703).
+Contra tal decisão foi manejado o presente agravo em recurso especial (f. 716-723), com o qual afirma a defesa que a decisão agravada não observou o entendimento recente dos tribunais superiores sobre o tema no sentido de que a natureza da droga não pode ser considerada isoladamente a ponto de evidenciar maior desvalor da conduta.
+Vieram os autos ao MPF para parecer.
+Ao final, o Parquet opinou pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Não se olvida da reiterada orientação do Superior Tribunal de Justiça segundo a qual "a apreciação negativa dos vetores contidos no art. 42 da Lei de Drogas (quantidade e natureza do entorpecente) justifica a exasperação da pena-base  .. " (AgRg no AREsp n. 625.887/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2016, DJe 19/10/2016). Contudo, na espécie, entendo que a quantidade de entorpecente apreendida - 52g (cinquenta e dois gramas) de maconha e 12g (doze gramas) de cocaína - não se mostra elevada o suficiente para justificar o aumento da pena-base.
+Nesse mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 114,83 G DE COCAÍNA E 647,41 G DE MACONHA. ALEGAÇÃO DA ACUSAÇÃO DE QUE A QUANTIDADE DE DROGAS É SUFICIENTE PARA ELEVAÇÃO DA PENA. AUSÊNCIA DE ILEGALIDADE NA DECISÃO.
+1. A nocividade da droga é própria do tipo penal, pois, qualquer que seja, a substância entorpecente será prejudicial à sociedade, de maneira geral. A quantidade de drogas não se mostra extremamente elevada para aumentar a pena-base, de modo que acertada a decisão agravada.
+2. Agravo regimental improvido. (AgRg no HC 682.972/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a natureza da substância entorpecente constituam circunstâncias preponderantes a serem consideradas na dosimetria da pena - a teor do que estabelecido no art. 42 da Lei n. 11.343/2006 - e não obstante o crack seja, de fato, dotada de alto poder viciante, a quantidade de drogas apreendidas com o agravante não foi tão elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, apenas tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido.
+(AgRg no HC 669.398/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/10/2021, DJe 28/10/2021, grifei.)
+Desse modo, decotando-se a suscitada circunstância judicial da pena-base e seguindo-se as demais diretrizes traçadas pelas instâncias ordinárias na dosimetria, deve a pena dos agravantes ODAIR e RICARDO ser reduzida para 6 anos e 6 meses de reclusão, e a pena do agravante CRISTIANO, para 1 ano e 8 meses de reclusão, mantidos os demais termos da condenação.
+À vista do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reduzir a pena dos agravantes nos termos acima deduzidos.
+Publique-se. Intimem-se.
+EMENTA
