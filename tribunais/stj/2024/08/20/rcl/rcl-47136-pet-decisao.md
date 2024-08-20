@@ -1,0 +1,9 @@
+DECISÃO
+Veio aos autos petição incidental em que a parte autora alega novo descumprimento do acórdão do Superior Tribunal de Justiça nos autos do RHC n.º 167.539/SP. O magistrado de primeiro grau não teria apontado de forma específica, em decisão fundamentada, a fontes independentes adotadas para dar continuidade ao processo originário e manter as medidas cautelares decretadas.
+O pedido formulado nos autos desta reclamação foi julgado parcialmente procedente - em decisão confirmada pela Quinta Turma - para determinar que o Juízo da 1ª Vara Federal de Campinas/SP analisasse, em decisão fundamentada, a extensão da contaminação da prova e determinasse o imediato desentranhamento do Relatório Fiscal da Receita Federal do Brasil e das respectivas provas contaminadas (fls. 462-467 e 530-535).
+Lembro que a decisão que declarou a nulidade da prova objeto foi proferida nos autos de habeas corpus e, portanto, foi examinada em cognição restrita, tí pica daquela ação constitucional. Assim, é imperativo que todas as decisões que decorram desse provimento jurisdicional não extrapolem os limites cognitivos da espécie de tutela que lhe deu origem, em respeito à regra de competência.
+Entendo, por conseguinte, que o exame de mérito da suficiência da decisão de primeiro grau que, após parcial deferimento do pedido desta Reclamação, examinou a extensão da contaminação e a viabilidade da manutenção de medidas cautelares, ou até mesmo da pertinência de toda a Operação, fica reservada à eventualidade de o processo originário ser submetido a este Tribunal Superior pelas vias recursais, momento em que, nos estritos limites das regras recursais e de competência, serão analisadas possíveis nulidades.
+Ademais, a Reclamação foi julgada, nos termos regimentais, de forma exauriente e, de qualquer modo, não comportaria renov ação de pedido a partir de fato novo.
+Assim, nada a prover neste momento processual.
+Publique-se. Intimem-se.
+EMENTA
