@@ -1,0 +1,163 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0734552-77.2020.8.07.0001APELANTE(S)OSMAR BATISTA DE CARVALHO JUNIORAPELADO(S)BANCO DO BRASIL S/ARelatorDesembargador DIAULAS COSTA RIBEIRO
+ Acórdão Nº1909480
+
+EMENTA
+
+APELAÇÃO CÍVEL. PRELIMINAR. CONTRARRAZÕES. DESERÇÃO. REJEIÇÃO. RECOLHIMENTO. OPORTUNO. PRELIMINARES RECURSAIS. NULIDADE DA SENTENÇA. CERCEAMENTO DE DEFESA. REJEIÇÃO. TEMA 1150 DO STJ. SAQUE PIS/PASEP. CONTA VINCULADA. ATUALIZAÇÃO MONETÁRIA. ÍNDICE. CORREÇÃO. JUROS. PERIODICIDADE. LEGISLAÇÃO ESPECIAL. PARÂMETROS. OBEDIÊNCIA. NECESSIDADE. ATO ILÍCITO. PROVAS. INEXISTÊNCIA.
+
+1. Diante do pedido recursal de gratuidade de justiça, o preparo fica dispensado na interposição do recurso e cabe ao Relator, se indeferir a benesse, fixar prazo para o respectivo recolhimento (CPC, art. 99, § 7º). Não há deserção se o benefício é indeferido e o apelante recolhe o preparo no prazo concedido pelo Relator.
+
+2. A prolação de julgamento em sentido contrário aos interesses da parte não configura omissão ou negativa de prestação jurisdicional.
+
+3. Não há cerceamento de defesa quando os documentos juntados aos autos mostraram-se suficientes para a apreciação da lide, assim como para firmar a livre convicção do julgado.
+
+4. O PASEP foi instituído pela Lei Complementar nº 8/1970 como um Programa de Formação do Servidor Público. Na mesma oportunidade, também foi criado o PIS, Programa de Integração Social, destinado aos empregados da iniciativa privada. Posteriormente, a Lei Complementar no 26/1975 unificou os dois programas, surgindo o PIS-PASEP, definindo-se como agentes arrecadadores de ambos, na forma do referido decreto, o Banco do Brasil (PASEP) e a Caixa Econômica Federal (PIS). A gestão do Fundo PIS-PASEP é de responsabilidade do Conselho Diretor vinculado à Secretaria do Tesouro Nacional do Ministério da Fazenda, nos termos dos Decretos nº 1.608/95 e nº 4.751/2003
+
+5. O PASEP não está sujeito ao Código de Defesa do Consumidor nem configura obrigação de trato sucessivo.
+
+6. Incumbe ao autor o ônus de provar os fatos constitutivos do seu direito (CPC, art. 373, I).
+
+7. A atualização monetária do saldo acumulado existente na conta individual do PASEP deve obedecer aos parâmetros indicados na legislação especial quanto aos índices de correção, percentual de juros e periodicidade.
+
+8. A inexistência de provas sobre qualquer ato ilícito praticado pelo Banco do Brasil na operacionalização da conta PASEP acarreta a improcedência dos pedidos iniciais.
+
+9. Preliminar suscitada em contrarrazões rejeitada. Preliminares recursais rejeitadas. Recurso conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, DIAULAS COSTA RIBEIRO - Relator, ROBSON TEIXEIRA DE FREITAS - 1º Vogal e JOSE FIRMO REIS SOUB - 2º Vogal, sob a Presidência do Senhor Desembargador DIAULAS COSTA RIBEIRO, em proferir a seguinte decisão: Preliminar suscitada em contrarrazões rejeitada. Preliminares recursais rejeitadas. Recurso conhecido e não provido. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 27 de Agosto de 2024
+
+Desembargador DIAULAS COSTA RIBEIROPresidente e Relator
+
+RELATÓRIO
+
+1. Ato impugnado (ID nº 61010949): sentença proferida pela 5ª Vara Cível de Brasília que, em ação de indenização por danos materiais e morais, proposta por Osmar Batista de Carvalho Junior em desfavor do Banco do Brasil, julgou improcedentes os pedidos iniciais.
+
+2. Sucumbência: autor condenado ao pagamento das custas e dos honorários advocatícios, fixados em 10% sobre o valor da causa (CPC, art. 85, § 2º).
+
+3. Opostos embargos de declaração pelo autor (ID nº 61010951), a sentença foi mantida (ID nº 61010952).
+
+4. Autor/apelante: Osmar Batista de Carvalho Júnior.
+
+5. Réu/apelado: Banco do Brasil S.A.
+
+6. Ação proposta: indenizatória por danos materiais e morais. Autor alegou que recebeu valor ínfimo de PASEP, que não foi devidamente atualizado pela instituição financeira e que contém saques não explicados. Pediu a condenação do réu ao pagamento de indenização por danos materiais, conforme planilha anexada à inicial, e ao pagamento de danos morais no valor de R$ 5.000,00. Data do ajuizamento: 21/10/2020. Valor da causa: R$ 37.410,45.
+
+7. Nas razões de ID nº 61010954, alega, inicialmente, que faz jus aos benefícios da gratuidade de justiça. Preliminarmente, suscita nulidade da sentença, por ausência de fundamentação e por cerceamento de defesa. No mérito, aduz que: (a) o réu, por ser o administrador do fundo PASEP, deve suportar os riscos decorrentes das aplicações realizadas com recursos decorrentes do fundo; (b) a instituição financeira possui responsabilidade objetiva pela falha na prestação do serviço e é vedado o enriquecimento ilícito.
+
+8. Pedidos recursais: gratuidade de justiça; cassação da sentença por cerceamento de defesa e ausência de fundamentação. No mérito, pede a procedência dos pedidos iniciais.
+
+9. Preparo não recolhido.
+
+10. Nas contrarrazões (ID nº 61010961), o apelado alega, preliminarmente, deserção do recurso, por ausência de recolhimento do preparo; impugna o pedido de gratuidade de justiça e, no mérito, rechaça as razões recursais.
+
+ 11. Após intimação do autor para apresentar documentos comprobatórios da alegada hipossuficiência financeira (ID nº 61252842), o pedido de gratuidade de justiça foi indeferido (ID nº 61718641). Na sequência, o autor/apelante recolheu o preparo recursal (ID nº 62080265, ID nº 62080266 e ID nº 62080268).
+
+12. Cumpre decidir.
+
+VOTOS
+
+O Senhor Desembargador DIAULAS COSTA RIBEIRO - Relator
+I – Preliminar suscitada em contrarrazões: não conhecimento do recurso por deserção.
+
+13. O recorrente deve comprovar o pagamento do preparo no ato de interposição do recurso (CPC, art. 1.007).
+
+14. Caso requeira a concessão do benefício da gratuidade de justiça no recurso, fica dispensado de comprovar o recolhimento do preparo, cabendo ao Relator, se indeferir a benesse, fixar prazo para a realização do recolhimento (CPC, art. 99, §7º).
+
+15. O apelante não recolheu o preparo na ocasião da interposição do recurso, mas requereu o benefício da gratuidade de justiça, indeferido na sequência (ID nº 61718641). Por conseguinte, foi concedido o prazo de 5 dias para recolhimento do preparo, o que foi realizado oportunamente pelo apelante (ID nº 62080265; ID nº 62080266 e ID nº 62080268).
+
+16. Não há, portanto, deserção do recurso.
+
+17. Conheço e recebo o recurso no duplo efeito (CPC, arts. 1.012 e 1.013).
+
+II - Preliminares recursais.
+
+a) Ausência de fundamentação.
+
+18. O apelante alega ausência de fundamentação da sentença. As teses relevantes foram debatidas ao longo da sentença, tendo o Magistrado indicado satisfatoriamente os fatos e o direito que o levaram a julgar improcedente a ação. O Juiz não está obrigado a enfrentar todo e qualquer argumento levantado pela parte, mas somente aqueles fundamentais para solucionar a controvérsia.
+
+19. Inexiste nulidade na sentença, pois houve a observância do devido processo legal e da ampla defesa. A sentença foi devidamente fundamentada e não se enquadra em qualquer das hipóteses previstas no §1º do art. 489 do CPC, tampouco afronta o texto constitucional.
+
+20. Rejeito a preliminar.
+
+b) Cerceamento de defesa.
+
+21. O Juiz pode determinar as provas necessárias ao julgamento do mérito (CPC, arts. 370 e 371), apreciar as provas constantes nos autos e indicar as razões de seu convencimento, indeferindo, contudo, as diligências inúteis ou meramente protelatórias, conforme determina o princípio do livre convencimento motivado.
+
+22. Precedente: “A prova pericial é desnecessária nas ações que discutem a atualização dos valores depositados no fundo do Programa de Formação do Patrimônio do Servidor Público (Pasep) quando o autor sequer especifica o indexador econômico utilizado para atualização monetária.” (Acórdão 1857197, 07417852820208070001, Relator(a): HECTOR VALVERDE SANTANNA,  2ª Turma Cível, data de julgamento: 2/5/2024, publicado no DJE: 15/5/2024. Pág.:  Sem Página Cadastrada.)
+
+23. Precedente desta 8ª Turma Cível: “Não há que se falar em cerceamento de defesa quando o julgador entende desnecessária a produção de prova para a verificação da situação fática cogitada, mormente quando já existem nos autos documentos suficientes ao desate da lide.” (Acórdão 1855021, 07167532120208070001, Relator(a): JOSE FIRMO REIS SOUB,  8ª Turma Cível, data de julgamento: 30/4/2024, publicado no PJe: 8/5/2024. Pág.:  Sem Página Cadastrada.)
+
+24. Os diversos documentos juntados são suficientes para a apreciação da lide, assim como para firmar a livre convicção do julgador, tendo em vista que já comprovam os fatos que a parte pretende demonstrar com a realização da perícia requerida.
+
+25. Rejeito a preliminar.
+
+III - Do mérito.
+
+26. A controvérsia cinge-se em aferir se o banco geriu adequadamente as quantias depositadas a título de PIS/PASEP a que tinha direito o apelante, entregando-lhe o saldo com a incidência correta dos índices de correção e juros legalmente estabelecidos.
+
+27. O autor/apelante alega que os valores depositados deveriam ter sido corrigidos pelo índice da ENCOGE. Também sustenta a existência de diversos saques inexplicados.
+
+28. O PASEP foi instituído pela Lei Complementar nº 8/1970 como um Programa de Formação do Servidor Público. Na mesma oportunidade, também foi criado o PIS, Programa de Integração Social, destinado aos empregados da iniciativa privada. Posteriormente, a Lei Complementar nº 26/1975 unificou os dois programas, surgindo o PIS-PASEP, definindo-se como agentes arrecadadores de ambos, na forma do referido decreto, o Banco do Brasil (PASEP) e a Caixa Econômica Federal (PIS). A gestão do Fundo PIS-PASEP é de responsabilidade do Conselho Diretor vinculado à Secretaria do Tesouro Nacional do Ministério da Fazenda, atual Ministério da Economia (Decretos nº 1.608/95 e nº 4.751/2003).
+
+29. O art. 239 da Constituição Federal de 1988 conferiu nova destinação aos valores arrecadados, cessando o aumento do capital das contas então existentes. O mesmo dispositivo estabeleceu novos arranjos para quem já se beneficiava dos programas e, ainda, para os ingressantes com remuneração de até dois salários mínimos mensais.
+
+30. Novos depósitos foram feitos nas contas individuais do Fundo PIS-PASEP até o fechamento do exercício financeiro imediatamente posterior à promulgação da Constituição (exercício 1988/1989, encerrado em 30 de junho de 1989). O patrimônio acumulado nas contas de cada beneficiário até 4/10/1988 foi preservado e está sob a responsabilidade do Conselho Diretor do Fundo PIS-PASEP. Esse Conselho Diretor – e não o Banco do Brasil ou a Caixa Econômica Federal – responde pela gestão dos valores.
+
+31. Os saldos das contas existentes até a promulgação da Constituição Federal continuam preservados e o art. 3º da Lei Complementar nº 26/1975 determina o critério de sua correção.
+
+32. O art. 4º da mesma lei faculta, ao final de cada exercício financeiro, a retirada das parcelas correspondentes aos créditos de que tratam as alíneas “b” e “c” do art. 3º.
+
+33. O PIS/PASEP não está sujeito ao Código de Defesa do Consumidor, motivo pelo qual não cabe a inversão do ônus da prova em ações como esta. As informações necessárias ou de interesse dos titulares são públicas e estão acessíveis.
+
+34. Alega-se que a correção do saldo do PASEP não foi a esperada e atribuiu-se ao Banco do Brasil, sem qualquer prova, a ausência de atualização monetária dos valores.
+
+35. É aplicável o disposto no CPC, art. 373, I e, por isso, incumbia ao autor provar o fato constitutivo do seu direito: a má administração, deliberada apenas pelo Banco do Brasil, dos valores depositados pela União na sua conta PASEP.
+
+36. Conforme já decidido por esta 8ª Turma Cível, “Para comprovar a suposta correção irregular do saldo da conta mantida no Fundo PIS-PASEP cabe à parte elaborar planilha de cálculos munida de índices aptos à demonstração de que os valores oriundos da metodologia aplicada pelo Banco do Brasil não se coadunam com os indexadores definidos pelo Conselho Diretor do Fundo.” (Acórdão 1822259, 07139116820208070001, Relator(a): MARIO-ZAM BELMIRO, 8ª Turma Cível, data de julgamento: 27/2/2024, publicado no DJE: 10/4/2024. Pág.:  Sem Página Cadastrada.)
+
+37. Há uma tabela pública, disponibilizada pelo Ministério da Economia, no seu sítio eletrônico, com o histórico de valorização do saldo das contas individuais dos participantes do Fundo PIS/PASEP.
+
+38. O autor teve conta vinculada ao PASEP cadastrada em 1/2/1985 e houve o pagamento do saldo principal em 19/8/2019. Durante esse período, sucederam diversas modificações tanto na legislação, como na moeda e no câmbio brasileiros.
+
+39. Os valores apresentados pelo autor, por meio de tabela unilateral, foram calculados com base na tabela ENCOGE (ID nº 61010583); nitidamente não foram utilizados os índices legalmente estipulados.
+
+40. Não há como analisar a suposta má gestão do apelado dos valores depositados na conta do PASEP quando a parte não demonstra o equívoco do valor recebido na petição inicial por meio de cálculo da dívida em estrita obediência aos índices de correção e periodicidade dos juros de mora previsto na lei. Sua pretensão não pode partir de mera intuição, pelo simples fato de que os depósitos foram administrados por muitos anos e o saldo não evoluiu conforme sua expectativa.
+
+41. Ademais, não há qualquer indício de que a ré sacou valores ou não os restituiu. Há indicativo, por outro lado, de que os valores foram creditados na folha de pagamento ou em conta corrente do autor/apelante (ID nº 61010909, pág. 22). Vale salientar que o Banco possui apenas poderes de gerência sobre a conta PASEP e o autor não se desincumbiu de seu ônus probatório (CPC, art. 373, I).
+
+42. Precedente desta 8ª Turma Cível: (Acórdão 1855021, 07167532120208070001, Relator(a): JOSE FIRMO REIS SOUB, 8ª Turma Cível, data de julgamento: 30/4/2024, publicado no PJe: 8/5/2024. Pág.:  Sem Página Cadastrada.
+
+43. Ausente prova de qualquer ato ilícito praticado pelo réu na administração da conta PASEP do autor, os pedidos iniciais são improcedentes. Destaca-se que os documentos anexados à apelação são insuficientes para alterar tais conclusões.
+
+44. Confirmo a sentença.
+
+45. Informações complementares: ação proposta em 21/10/2020. Valor da causa: R$ 37.410,45. Sentença proferida em 23/4/2024. Honorários advocatícios fixados em 10% sobre o valor corrigido da causa. A matéria não foi impugnada.
+
+DISPOSITIVO
+
+46. Rejeito a preliminar de deserção do recurso suscitada em contrarrazões.
+
+47. Rejeito as preliminares suscitadas na apelação.
+
+48. Conheço e nego provimento ao recurso. Confirmo a sentença.
+
+49. Majoro os honorários advocatícios em 1% e torno-os definitivos em 11% sobre o valor atualizado da causa (CPC, art. 85, §§ 2ºe 11).
+
+50. Para interposição de recursos constitucionais (especial e extraordinário), consideram-se prequestionados todos os elementos suscitados como matéria infraconstitucional e constitucional, conforme entendimento consolidado do Superior Tribunal de Justiça, que admite o prequestionamento implícito dos dispositivos tido por violados, desde que as teses debatidas no recurso especial tenham sido objeto de discussão pelo Tribunal de origem (AgInt no AREsp n. 1.481.548/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+
+51. Previno as partes de que a interposição de embargos de declaração contra este acórdão, se declarados manifestamente inadmissíveis, protelatórios ou improcedentes, acarretará a condenação à penalidade fixada no art. 1.026, § 2º do CPC.
+
+É o voto.
+
+O Senhor Desembargador ROBSON TEIXEIRA DE FREITAS - 1º Vogal Com o relatorO Senhor Desembargador JOSE FIRMO REIS SOUB - 2º Vogal Com o relator
+
+DECISÃO
+
+Preliminar suscitada em contrarrazões rejeitada. Preliminares recursais rejeitadas. Recurso conhecido e não provido. Unânime
