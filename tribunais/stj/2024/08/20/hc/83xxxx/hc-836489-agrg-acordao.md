@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental (e-STJ fls. 147/154) interposto por MARCELO DAS MERCES contra a decisão de minha lavra (e-STJ fls. 137/141), pela qual não conheci do habeas corpus.
+Neste agravo regimental, a defesa reitera os argumentos apresentados anteriormente, requerendo o provimento do agravo para que seja concedida a ordem, a fim de incidir a redução da colaboração premiada na dosimetria da pena.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante apenas reiterou aqueles já apresentados na petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo, entretanto, não merece conhecimento.
+Na decisão agravada, ressaltei, inicialmente, que o Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e aeficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Na hipótese, constatei que o presente mandamus ataca acórdão do Tribunal de Justiça do Estado de São Paulo julgado em 06 de julho de 2016. Considerando o grande lapso temporal entre a data do julgamento do acórdão impugnado e a impetração desse habeas corpus, deve ser reconhecida a preclusão da matéria, observado o princípio da segurança jurídica e o respeito à coisa julgada, não havendo como rediscutir o pedido aqui deduzido em sede de habeas corpus.
+Isso porque é pacífico o entendimento desta Corte Superior no sentido de que "ante à longa passagem de tempo entre a data dos fatos e esta impetração, forçoso o reconhecimento da preclusão da pretensão ora manifestada, em homenagem ao princípio da segurança jurídica, notadamente quando o pleito tem nítidas características revisionais" (AgRg no HC n. 879.254/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024).
+São os precedentes de ambas as Turmas que julgam a matéria criminal nesta Corte:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO. RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos.
+2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus.
+Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 713.708/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT IMPETRADO HÁ MAIS DE 04 (QUATRO) ANOS APÓS O TRÂNSITO EM JULGADO DO DECRETO CONDENATÓRIO. PRINCÍPIO DA SEGURANÇA JURÍDICA. COISA JULGADA. IMPOSSIBILIDADE DE CONHECER O MANDAMUS. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. INAPLICABILIDADE DE NOVEL ENTENDIMENTO JURISPRUDENCIAL DO STJ. GUINADA INTERPRETATIVA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, a jurisprudência do Superior Tribunal de Justiça é no sentido de que mesmo as nulidades absolutas devem ser arguidas no momento oportuno, sob pena de preclusão.
+III - In casu, o acórdão impugnado foi julgado em 25/05/2019 sem que tenha sido interposto recurso pelas partes. O presente writ foi impetrado somente em 14/02/2024, isto é, mais de 04 anos após o trânsito em julgado. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+IV - Ademais, o exame das alegações defensivas se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos do artigo 105, I, "e" da Constituição Federal. Precedentes.
+(..)
+VII - Desta feita, não é admissível a utilização de habeas corpus como a revisão criminal, a fim de aplicar retroativamente jurisprudência que se alterou após o trânsito em julgado do feito para o qual se pretende tal procedimento.
+Agravo regimental desprovido.
+(AgRg no HC n. 889.851/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/4/2024, DJe de 19/4/2024).
+AGRAVO REGIMENTAL. HABEAS CORPUS. RECEPTAÇÃO. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL A QUO. TRÂNSITO EM JULGADO. IMPOSSIBILIDADE DE DISCUSSÃO DA MATÉRIA, AVENTADA EM HABEAS CORPUS, APÓS O DECURSO DE 14 ANOS. PRINCÍPIO DA SEGURANÇA JURÍDICA.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos tribunais superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Ademais, consoante se depreende das informações prestadas, o trânsito em julgado do acórdão objeto da presente insurgência deu-se em 1998, e a presente impetração somente aportou a esta Corte Superior em 2012, ou seja, 14 (quatorze) anos depois.
+3. Esta Corte já sinalizou que "Os questionamentos expostos no presente mandamus se referem a ação penal iniciada no ano de 1999, cuja sentença condenatória transitou em julgado em 2004. Dessa forma, até mesmo eventual nulidade absoluta que possa ter-se verificado em tão longínqua data já não tem mais o condão de repercutir sobre a realidade processual dos autos, encontrando-se a alegação não apenas preclusa, mas, principalmente, acobertada pelo manto da coisa julgada. Princípio da segurança jurídica. Precedentes do STJ e do STF" (HC n. 368.217/MA, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/5/2017, DJe 8/5/2017).
+4. Agravo regimental improvido.
+(AgRg no HC n. 253.988/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/6/2018, DJe de 1/8/2018).
+No mesmo sentido, a jurisprudência da Suprema Corte:
+EMENTA Recurso Ordinário em habeas corpus. Direito Constitucional e Penal. Ausência de intimação de defensor dativo para a sessão de julgamento da apelação. Arguição posterior. Preclusão da matéria. Precedentes. Nulidade. Não ocorrência. Recurso ao qual se nega provimento.
+1. Embora se reconheça a prerrogativa de intimação pessoal dos defensores dativos para as sessões de julgamento das apelações, incide na espécie a preclusão da questão, já que a referida nulidade somente foi arguida, em relação ao primeiro paciente, mais de 7 anos e 5 meses após o julgamento e, no tocante ao segundo paciente, mais de 2 anos e 9 meses após o julgamento. Precedentes.
+2. Recurso não provido.
+(RHC 124110, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Primeira Turma, julgado em 11-11-2020, PROCESSO ELETRÔNICO DJe-035 DIVULG 24-02-2021 PUBLIC 25-02-2021)
+EMENTA: AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CONDENAÇÃO TRANSITADA EM JULGADO. PEDIDO SUBSTITUTIVO DE REVISÃO CRIMINAL. AUSENTE QUADRO DE FLAGRANTE ILEGALIDADE.
+1. O acórdão atacado encontra amparo em julgados desta SUPREMA CORTE, no sentido de que "A nulidade não suscitada no momento oportuno é impassível de ser arguida através de habeas corpus, no afã de superar a preclusão, sob pena de transformar o writ em sucedâneo da revisão criminal (Precedentes: HC 95.641/SP, Relator Min. Ricardo Lewandowski, Primeira Turma, Julgamento em 2/6/2009; HC 95.641/SP, Relator Min. Ricardo Lewandowski, Primeira Turma, Julgamento em 2/6/2009; HC 102.597/SP, Relator Ministra Cármen Lúcia, Primeira Turma; HC 96.777/BA, Relator Min. Joaquim Barbosa, Segunda Turma, Julgamento em 21/9/2010)" (RHC 107758, Relator(a): LUIZ FUX, Primeira Turma, DJe de 28/9/2011).
+2. Agravo Regimental a que se nega provimento.
+(HC 210212 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 02-03-2022, PROCESSO ELETRÔNICO DJe-042 DIVULG 04-03-2022 PUBLIC 07-03-2022).
+Desse modo, não vislumbrei, no presente caso, flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Neste recurso de agravo regimental, porém, não foram apresentados quaisquer argumentos novos, capazes de infirmar os fundamentos da decisão agravada, uma vez que o agravante apenas reitera aqueles já apresentados na petição inicial e afastados na decisão agravada.
+Uma vez que não houve a impugnação específica acerca dos fundamentos da decisão agravada, incide ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+Nesse sentido, seguem os precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS PELO AGRAVANTE. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DESSA CORTE SUPERIOR. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+- Não foram trazidos elementos aptos a afastar os argumentos da decisão agravada, os quais estavam em harmonia com a jurisprudência pacificada nessa Corte Superior acerca dos temas.
+- Tais fundamentos não foram devidamente impugnados pelo presente agravo regimental, a atrair ao caso o disposto no enunciado n. 182 da Súmula dessa Corte Superior.
+- O julgamento monocrático do habeas corpus não representa ofensa ao princípio da colegialidade, nos termos previstos no art. 34, XX, do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+- Agravo regimental não conhecido (AgRg no AgRg no HC 436.568/SP, de minha relatoria, julgado em 07/02/2019, DJe 14/02/2019).
+AGRAVO REGIMENTAL. PROCESSO PENAL. DENUNCIAÇÃO CALUNIOSA. TESE DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE INÉPCIA. AGRAVO NÃO CONHECIDO PELA APLICAÇÃO DA SÚMULA N. 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA.
+1. As teses referentes à incompetência do juízo não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Quanto à inépcia, o agravante deixou de impugnar fundamentos da decisão agravada, atraindo, por analogia, a aplicação do óbice previsto na Súmula n. 182 desta Corte. Precedentes.
+3. "Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n. 182 da Súmula desta Corte)" (AgRg no HC n. 376.793/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+4. Agravo regimental conhecido em parte e, nessa extensão, desprovido (AgInt no RHC 51.853/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
