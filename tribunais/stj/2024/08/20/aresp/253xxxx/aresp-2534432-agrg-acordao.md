@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+I - Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada.
+II - Na hipótese vertente, compulsando as razões do regimental, verifico que o ora agravante olvidou-se, por completo, de apresentar irresignação em face dos fundamentos adotados na decisão agravada, a qual concluiu pela incidência, no caso, do enunciado n. 284 da Súmula do STF, tendo em vista a deficiência de fundamentação do recurso especial, uma vez que não foram indicados precisamente os dispositivos de lei federal tidos como violados.
+III - Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento dos interesses do ora agravante, ônus do qual não se desincumbiu a Defesa, porquanto limitou-se repisar as razões do agravo em recurso especial e a impugnar exclusivamente a incidência do enunciado n. 7 da Súmula deste STJ, óbice sequer adotado na decisão agravada. Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MIGUEL HENRIQUE LUJAN contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 694-696).
+Informam  os  autos  que  o  agravante  foi  condenado,  em  primeiro  grau,  às  penas  de  3 (três) anos e 6 (seis) meses de reclusão,  em regime inicial semiaberto, e de 817 (oitocentos e dezessete) dias-multa, no mínimo legal, em razão da prática do delito previsto no art.  35, caput, da Lei n. 11.343/06 (fls.  416-425).
+Irresignado, o agravante interpôs apelação perante o Tribunal de origem, o qual  ,  por  unanimidade, negou provimento ao recurso (fls. 586-602).
+No  recurso  especial  (fls.  627-644),  interposto  com  fulcro  no  artigo  105,  inciso  III,  alínea a,  da  Constituição  Federal,  a Defesa sustentou, sem indicar os dispositivos de lei tidos como violados, que o insurgente deve ser absolvido com relação à imputação do cometimento do delito de associação para o tráfico, tendo em vista que não houve a comprovação dos elementos estabilidade e permanência da ação delitiva, os quais são exigidos para a adequada configuração do delito.
+Argumentou, ademais, que o agravante preenche todos os requisitos para iniciar o cumprimento da pena em regime aberto, bem como para que haja a substituição da pena privativa de liberdade por restritivas de direitos.
+Pleiteou, portanto,  o  conhecimento  e  provimento  do  recurso especial a fim de absolver o ora agravante, ou, subsidiariamente, para abrandar o regime inicial e substituir a pena por penas restritivas de direitos.
+Apresentadas  as  contrarrazões  (fls. 655-661),  sobreveio  juízo  negativo  de  admissibilidade  fundado: a) na incidência da Súmula n. 284/STF, ante a deficiência de fundamentação do recurso; b) na incidência da Súmula n. 7/STJ, pois a análise das questões suscitadas implicaria revolvimento fático-probatório (fls. 666-667).
+Nas  razões  do  agravo em recurso especial,  postulou o agravante  o  processamento  do  recurso  especial,  haja vista o cumprimento dos requisitos necessários à sua admissão  (fls.  669-672).  Nesta Corte Superior, o agravo em recurso especial não foi conhecido (fls. 694-696).
+Neste agravo regimental (fls. 701-704), o insurgente repisa as razões do agravo em recurso especial, requerendo, ao final, a reconsideração da decisão agravada para que seja examinado e provido o recurso especial.
+O Ministério Público Federal opinou  pelo  não conhecimento do agravo regimental, ou, no mérito, por seu desprovimento  (fls.  728-739).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+I - Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada.
+II - Na hipótese vertente, compulsando as razões do regimental, verifico que o ora agravante olvidou-se, por completo, de apresentar irresignação em face dos fundamentos adotados na decisão agravada, a qual concluiu pela incidência, no caso, do enunciado n. 284 da Súmula do STF, tendo em vista a deficiência de fundamentação do recurso especial, uma vez que não foram indicados precisamente os dispositivos de lei federal tidos como violados.
+III - Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento dos interesses do ora agravante, ônus do qual não se desincumbiu a Defesa, porquanto limitou-se repisar as razões do agravo em recurso especial e a impugnar exclusivamente a incidência do enunciado n. 7 da Súmula deste STJ, óbice sequer adotado na decisão agravada. Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça.
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece ser conhecido.
+Isso porque, nas razões do recurso, o agravante não impugnou especificamente os fundamentos da decisão agravada, que passo a reproduzir, naquilo que interessa à espécie (fl. 694, grifei):
+"Mediante análise do recurso de MIGUEL HENRIQUE LUJAN, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"."
+Com efeito, na hipótese vertente, compulsando as razões do regimental, verifico que o ora agravante olvidou-se, por completo, de apresentar irresignação em face dos fundamentos adotados na decisão agravada, a qual concluiu pela incidência, no caso, do enunciado n. 284 da Súmula do STF, tendo em vista a deficiência de fundamentação do recurso especial, uma vez que não foram indicados precisamente os dispositivos de lei federal tidos como violados.
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento dos interesses do ora agravante, ônus do qual não se desincumbiu a Defesa, porquanto limitou-se repisar as razões do agravo em recurso especial e a impugnar exclusivamente a incidência do enunciado n. 7 da Súmula deste STJ, óbice sequer adotado na decisão agravada.
+Assim, deve ser aplicado ao caso, por analogia, o enunciado da Súmula n. 182 desta Corte Superior de Justiça, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido são os precedentes desta Corte, v.g.: AgRg no AREsp n. 2.345.944/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/9/2023; e AgRg no AREsp n. 2.198.230/DF, Quinta Turma, de minha relatoria, DJe de 25/8/2023.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
