@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/08/2024 a 20/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA À LUZ DA ORIENTAÇÃO ADOTADA NO JULGAMENTO DO RE 817.338/DF (TEMA 839). INSTAURAÇÃO DE NOVO PROCEDIMENTO REVISIONAL NOS TERMOS DA IN N. 2/2021, DO MMFDH. PRETENSÃO DE MANTER SUSPENSA A EXECUÇÃO. INVIABILIDADE. REVISÃO NÃO CONCLUÍDA NO PRAZO FIXADO. PROSSEGUIMENTO DO FEITO EXECUTIVO QUE SE IMPÕE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA N. 182/STJ. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. A agravante não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional da portaria de anistia instaurado segundo as diretrizes da IN n, 2/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos. A inércia da Administração não justifica prorrogar o sobrestamento do processo, impondo-se seu prosseguimento com vistas à expedição do precatório referente à parcela incontroversa do crédito.
+2. O recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os fundamentos da decisão agravada, o que atrai o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno de fls. 198-201 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, concluiu remanescer válida a portaria de anistia objeto do presente feito, tendo em vista que não finalizada, no prazo fixado, a revisão deflagrada na esfera administrativa. Em consequência, rejeitou a preliminar de inexigibilidade do título judicial, determinando a expedição do precatório de valor incontroverso, nos termos do art. 535, § 4º, do CPC.
+A agravante alega, em síntese: (a) "merece reforma a decisão agravada no ponto em que determina a expedição de precatório para pagamento de parcela supostamente incontroversa"; (b) "estando pendente de julgamento recursos sobre o tema, torna-se inviável a expedição de precatório, até o trânsito em julgado da execução"; e (c) "a totalidade dos valores executados ainda é controvertida e está sujeita a modificação via recurso na presente execução, sustentando a inexigibilidade da obrigação definida na portaria de anistia".
+O agravado, por sua vez, pleiteia a manutenção da decisão argumentando: (a) a agravante "não apresentou nenhum elemento concreto em relação à validade da condição de anistiado do exequente"; e (b) "desde meados do ano de 2022 o processo encontra-se paralisado".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA À LUZ DA ORIENTAÇÃO ADOTADA NO JULGAMENTO DO RE 817.338/DF (TEMA 839). INSTAURAÇÃO DE NOVO PROCEDIMENTO REVISIONAL NOS TERMOS DA IN N. 2/2021, DO MMFDH. PRETENSÃO DE MANTER SUSPENSA A EXECUÇÃO. INVIABILIDADE. REVISÃO NÃO CONCLUÍDA NO PRAZO FIXADO. PROSSEGUIMENTO DO FEITO EXECUTIVO QUE SE IMPÕE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA N. 182/STJ. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. A agravante não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional da portaria de anistia instaurado segundo as diretrizes da IN n, 2/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos. A inércia da Administração não justifica prorrogar o sobrestamento do processo, impondo-se seu prosseguimento com vistas à expedição do precatório referente à parcela incontroversa do crédito.
+2. O recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os fundamentos da decisão agravada, o que atrai o óbice da Súmula 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+3. Agravo interno não conhecido.
+VOTO
+A agravante não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional da portaria de anistia instaurado nos termos da Instrução Normativa n. 2, de 29/9/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos.
+A propósito, em consulta ao respectivo processo administrativo, por meio do link de acesso externo (https://tinyurl.com/4y4n4rmz), verifica-se que, após apresentada defesa administrativa em 6/10/2022, não houve movimentação significativa naqueles autos, que se encontram paralisados.
+Dada a patente inércia da Administração, não se justifica prorrogar o prazo, impondo-se o prosseguimento do feito executivo com vistas à expedição do precatório referente à parcela incontroversa do crédito.
+Em que pese a argumentação, o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os fundamentos da decisão agravada, o que atrai o óbice da Súmula n. 182/STJ e o disposto no art. 1.021, § 1º, do CPC.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ.
+1. Inexistindo impugnação específica, como seria de rigor, de todos os fundamentos da decisão agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide, na espécie, o disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015; e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno não conhecido.
+(PET no MS n. 28.325/BA, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 27/4/2022, DJe de 3/5/2022).
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARTIGO 1.021, § 1º, DO CPC/2015.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, sob pena de não ser conhecido o agravo.
+2. Agravo interno não conhecido.
+(AgInt na AR n. 5.816/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 26/4/2017, DJe de 2/5/2017 ).
+Por fim, preclusas as vias impugnativas em relação à matéria tratada no presente recurso, deverá ser expedido o precatório de valor incontroverso, retornando os autos conclusos a esta Relatora para apreciação da impugnação de fls. 28-44.
+Ante o exposto, voto por não conhecer do agravo interno.
