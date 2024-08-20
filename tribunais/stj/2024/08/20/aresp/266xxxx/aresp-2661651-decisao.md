@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por Cooperativa Mista dos Produtores de Soja de Goiatuba contra decisão que não admitiu o recurso especial manejado em face de acórdão, prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 70):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS FIXADOS EM EMBARGOS À EXECUÇÃO. INCLUSÃO NOS AUTOS DA EXECUÇÃO. COBRANÇA EM DUPLICIDADE. NÃO OCORRÊNCIA. EXTINÇÃO DO FEITO EXECUTÓRIO COM RESSALVA. NÃO PREJUDICIALIDADE DA OBRIGAÇÃO DECORRENTE DOS HONORÁRIOS SUCUMBENCIAIS. PREENCHIMENTO DOS REQUISITOS ESSENCIAIS.
+1. Verificando-se que o processo originário tem por objeto o pagamento dos honorários advocatícios fixados em embargos à execução e que, embora referidos valores tenham sido inicialmente incluídos nos autos da ação de execução, não há que se falar em duplicidade de execução quando se constata que foi proferida sentença de extinção do procedimento executório com a ressalva de que não haveria prejuízo sobre a obrigação decorrente dos honorários advocatícios fixados nos embargos.
+2. Não há que se falar em ausência de preenchimento dos requisitos essenciais pelo título judicial, quando a parte devedora não especifica em que ponto se consubstanciaria a alegada falta certeza e liquidez, se limitando a alegar que tal fato decorreria da alegada execução em duplicidade, o que, no caso concreto, não ocorre.
+3. Agravo de instrumento conhecido e não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 137-151), a recorrente alegou, além da existência de dissídio jurisprudencial, violação aos arts. 783 e 803 do CPC.
+Aduziu, em síntese, a nulidade da execução, tendo em vista a ausência de liquidez e certeza do título executivo. Apontou a ocorrência de duplicidade de cobrança, já que o mesmo título é cobrado em outro processo.
+Contrarrazões apresentadas às fls. 186-205 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso especial sob o fundamento de incidência da Súmula 7 do STJ, o que ensejou a interposição do presente agravo em recurso especial às fls. 216-231 (e-STJ).
+Brevemente relatado, decido.
+Na hipótese, o Tribunal de origem, com base nas particularidades do caso, afastou a alegação de duplicidade da cobrança de honorários sucumbenciais, sob os seguintes fundamentos (e-STJ, fls. 71-72):
+Com efeito, o processo originário tem por objeto o pagamento dos honorários advocatícios fixados nos embargos à execução nº 0727254-97.2021.8.07.0001 (ID 154606042 - autos de origem).
+Embora referidos valores tenham sido inicialmente incluídos nos autos da ação de execução nº0718528-08.2019.8.07.0001, certo é que foi proferida sentença de extinção de referida execução com a ressalva deque não haveria prejuízo sobre a obrigação decorrente dos honorários advocatícios fixados nos embargos, tendo constado expressamente que:
+"Também em face da presente sentença extintiva, não mais se afigura viável, sob pena de ocasionar odioso tumulto processual, a perseguição dos honorários de sucumbência fixados nos embargos à execução - crédito - no bojo dos presentes autos hígido e em nada alterado por esta sentença, ficando facultado ao Exequente, querendo, doravante, deflagrar o respectivo procedimento de cumprimento de sentença em autos apartados, ficando, desde já, dispensado de recolhimento de custas, porquanto tais já foram recolhidas em id. 129039267 dos autos dos Embargos à Execução."(ID 154606043, p.5 - autos de origem)
+Não se verifica, portanto, a ocorrência de duplicidade de execução da verba honorária, não havendo que se falarem nulidade.
+Destaque-se que, embora a agravante sustente o não preenchimento dos requisitos essenciais pelo título judicial, não especificou em que ponto se consubstanciaria a alegada falta certeza e liquidez, se limitando a alegar que tal fato decorreria da alegada execução em duplicidade, o que, conforme exposto, não ocorre.
+Outrossim, a própria devedora agravante teve seu pedido de ocorrência de excesso de execução acolhido pela decisão agravada, o que demonstra que a certeza, liquidez e exigibilidade do débito.
+Diante desse contexto, infirmar a convicção alcançada pelo Colegiado de origem, para acolher a tese recursal da recorrente quanto à cobranç a em duplicidade, exige o reexame dos elementos fático-probatórios dos autos, o que é vedado em recurso especial pela Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. COBRANÇA EM DUPLICIDADE. NÃO OCORRÊNCIA. TÍTULO EXECUTIVO. PREENCHIMENTO DOS REQUISITOS ESSENCIAIS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
