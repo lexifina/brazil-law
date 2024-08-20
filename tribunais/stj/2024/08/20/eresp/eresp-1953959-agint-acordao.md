@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 14/08/2024 a 20/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO INTERNO DESPROVIDO.
+1.  A parte recorrente não demonstrou a similitude fático-jurídica entre os acórdãos confrontados, o que obsta o processamento dos embargos de divergência.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto por PAULO ADYR DIAS DO AMARAL,  contra  a  decisão  que  indeferiu liminarmente os embargos de divergência pela ausência de similitude fático-jurídica entre os acórdãos confrontados.
+Argumenta  a  parte agravante,  em  síntese,  que:
+ ..  vê-se tratar-se da licitude de acumulação de cargos públicos e quais seriam os requisitos para configuração dessa licitude. Enquanto o Acórdão do REsp (contra o qual se interpôs EMBARGOS DE DIVERGÊNCIA) coloca dois requisitos (compatibilidade de horários  regime de trabalho), os Acórdãos paradigmas são claros em estabelecer requisito único (compatibilidade de horários), que, uma vez presente, não haveria que se falar em mais nada. Houve, portanto, adoção de soluções diversas a dissídios semelhantes (fl. 908).
+Por fim, pugna pela reconsideração da decisão agravada ou submissão da questão ao Colegiado.
+Conforme certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. AGRAVO INTERNO DESPROVIDO.
+1.  A parte recorrente não demonstrou a similitude fático-jurídica entre os acórdãos confrontados, o que obsta o processamento dos embargos de divergência.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada, torna incólume o entendimento nela firmado. Com efeito, o Tribunal de origem consignou que:
+na espécie, há um elemento que distingue a situação posta dos precedentes citados, qual seja, a pretensão do exercício do cargo de Professor Adjunto com dedicação exclusiva, junto à Universidade Federal de Minas Gerais, o que tornaria ilícita eventual acumulação, consoante jurisprudência pacífica desta Corte (fl. 786).
+Nos acórdãos paradigmas apresentados, consta que "o único requisito estabelecido para a acumulação de cargos públicos remunerados na área da saúde é a compatibilidade de horários no exercício das funções, cujo cumprimento deverá ser aferido pela administração pública" (fl. 826).
+Contudo a parte recorrente não demonstrou a similitude fático-jurídica entre os acórdãos confrontados, o que obsta o pro cessamento dos embargos de divergência.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. COMPROVAÇÃO DE ERRO DE DIGITALIZAÇÃO OCORRIDO NA ORIGEM. ILEGIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS COMPARADOS.
+1. O acórdão embargado entendeu que "no caso sob exame, conforme se verifica dos autos, o comprovante de origem juntado referente ao pagamento das custas processuais encontra-se ilegível, o que impossibilita a verificação da regularidade do preparo, revelando-se, assim, deserto o recurso interposto" (e-STJ fls. 780).
+Mais adiante concluiu, também, que "a eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente" (e-STJ fls. 781).
+2. O acórdão paradigma da Quarta Turma desta Corte nos autos dos EDcl no AgRg no AREsp nº 91.026, por sua vez, concluiu que "a embargante juntou a documentação apta a demonstrar o erro no processo de digitalização e, ao mesmo tempo, o regular recolhimento do preparo, não se mostrando razoável impedir que a recorrente, que não deu causa ao erro, faça a documentada justificação da regularidade de seu recurso".
+3. Os casos comparados não possuem a mesma moldura fático- jurídica para fins de conhecimento dos embargos de divergência, sobretudo porque, além da exigência de certidão de erro de digitalização expedida pelo Tribunal de origem, o acórdão embargado, ao analisar a documentação comprobatória do preparo juntada posteriormente aos autos pela parte ora embargante, concluiu que o documento encontra-se ilegível, o que impossibilitou a aferição da regularidade do preparo. Tal aspecto fático relativo à ilegibilidade do comprovante original trazido aos autos não foi tratado pelo acórdão paradigma, e, ainda que o fosse, as peculiaridades de cada caso concreto impediriam o reconhecimento da divergência em torno do exame de requisito de admissibilidade recursal.
+4. É cediço nesta Corte que os embargos de divergência constituem a última etapa da uniformização jurisprudencial, e pressupõem casos idênticos ou assemelhados. No caso concreto, portanto, não há similitude entre o acórdão embargado e o acórdão indicado como paradigma, que não tratou da ilegibilidade do documento comprobatório juntado pela parte ora embargante. Impede registrar que, na prática, a análise dos presentes embargos de divergência implicaria exame de regras técnicas alusivas ao conhecimento do recurso especial, hipótese de cabimento não abarcada pelo nem pelo art. 266 do RISTJ nem pela jurisprudência desta Corte. Nesse sentido: AgRg no EAREsp 1.885.332/SC, Rel. Min. Antônio Saldanha Palheiro, Terceira Seção, DJe 27/10/2021; AgInt no EDv nos EREsp 1.799.950/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 18/3/2020.
+5. Os embargos de divergência não se prestam a rediscutir a justiça ou injustiça do acórdão embargado, mas a sanar divergência interpretativa no âmbito desta Corte, o que não se verificou na hipótese em razão da ausência de similitude fática entre os julgados comparados, pelo motivos ressaltados alhures. Correta, portanto, a rejeição liminar dos presentes embargos de divergência. A propósito: AgInt no EREsp 1.346.662/SP, Rel. Min. Herman Benjamin, Corte Especial, DJe 7/3/2019; AgInt nos EDcl nos EDcl nos EDcl no EREsp 744.729/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 16/11/2015.
+6. Agravo interno não provido (AgInt nos EREsp n. 1.842.862/SP, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 9/8/2022, DJe de 16/8/2022, grifo nosso).
+Isso posto, nego provimento ao recurso.
