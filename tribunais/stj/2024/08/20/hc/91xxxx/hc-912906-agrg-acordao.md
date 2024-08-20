@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  ULISSES  MARIANO  DA  SILVA  contra  decisão  de  minha  lavra,  na  qual  não  conheci  do  pedido  de  habeas  corpus  (fls.  351/355).
+Consta  dos  autos  que  o  agravante  foi  condenado  às  penas  de  advertência  quanto  a os  efeitos  da  droga  e  10  (dez)  meses  de  prestação  de  serviços  à  comunidade,  como  incurso  no  art.  28  da  Lei  n.  11.343/2006,  em  virtude  da  apreensão  de  quase  150g  (cento  e  cinquenta  gramas)  de  maconha.
+O  Parquet  interpôs  recurso  de  apelação,  que  foi  provido  pelo  Tribunal  de  origem  para  condenar  o  réu  como  incurso  no  art.  33,  caput,  da  Lei  n.  11.343/2006,  às  penas  de  05  (cinco)  anos  e  10  (dez)  meses  de  reclusão  e  583  (quinhentos  e  oitenta  e  três)  dias-multa.
+Nas  razões  do  writ,  a  impetrante  alegou  que  não  há  elementos  suficientes  para  a  condenação  do  agente  pelo  crime  de  tráfico  de  drogas,  requerendo  a  desclassificação  do  delito  para  aquele  previsto  no  art.  28  da  Lei  de  Drogas.
+No  agravo  regimental,  a  Defesa  sustenta  a  possibilidade  de  análise  do  pleito  desclassificatório.
+Para  tanto,  aduz  não  ser  necessário  o  reexame  de  provas,  uma  vez  que
+na  própria  sentença  menciona-se  que  não  há  qualquer  prova  nos  autos  que  comprova  que  ULISSES  realizava  comercialização  de  entorpecentes,  pelo  cotejo  da  prova  colhida  aos  autos  verifica-se  que  a  tese  acusatória  não  encontra  suporte  probatório,  a  prova  é  frágil  para  uma  condenação  tão  severa  por  crime  de  tráfico  de  drogas  (fl.  366).
+  Requer  a  reconsideração  da  decisão  agravada  ou  a  submissão  do  agravo  ao  colegiado  competente.
+Contrarrazões  às  fls.  376/378.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  DESCLASSIFICAÇÃO  PARA  O  TIPO  DO  ARTIGO  28  DA  LEI  N.  11.343/2006.  INVIABILIDADE.  NECESSIDADE  DE  REVOLVIMENTO  DO  ACERVO  FÁTICO-PROBATÓRIO.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+1.  O  Tribunal  de  origem,  após  exame  do  conjunto  fático-probatório  dos  autos,  concluiu  pela  existência  de  elementos  coerentes  e  válidos  a  ensejar  a  condenação  do  réu  pelo  delito  de  tráfico  ilícito  de  entorpecentes,  ressaltando  a  quantidade  e  natureza  da  droga,  as  circunstâncias  da  apreensão  precedida  de  delações,  a  existência  de  mandado  de  busca  e  apreensão  domiciliar  e  a  presença  de  apetrecho  comumente  utilizado  para  o  embalo  da  droga.
+2.  No  caso,  acolher  a  pretendida  desclassificação  do  acusado  demandaria  reapreciar  todo  o  conjunto  fático-probatório  dos  autos,  o  que  se  mostra  incabível  na  via  do  habeas  corpus.
+3.  Agravo  regimental  não  provido.
+VOTO
+O  inconformismo  não  prospera.
+O  Tribunal  de  origem  condenou  o  paciente  pelo  crime  de  tráfico  de  drogas  nos  seguintes  termos  (fls.  223/224):
+Os  Policiais  Civis  João  Reinaldo  e  Euripedes,  diante  da  existência  de  delações  apócrifas  de  que  o  apelado  praticava  o  narcotráfico,  obtiveram  mandado  de  busca  domiciliar.  Em  cumprimento  à  ordem,  logo  que  ingressaram  ao  imóvel,  encontraram,  sobre  a  mesa  da  cozinha,  três  tabletes  de  maconha  e  algumas  notas  de  dinheiro.  Nesse  momento,  ULISSES  alegou  ser  usuário  da  erva,  afirmando  não  existir  mais  drogas  na  residência.  Contudo,  prosseguindo  com  as  buscas,  localizaram  mais  cannabis  na  geladeira  e  sobre  um  armário,  no  interior  de  um  pote  plástico,  neste  caso,  já  picotada.  Também  apreenderam  um  rolo  plástico  usado.  Por  fim,  o  apelado  admitiu  a  traficância.
+As  testemunhas  de  defesa  a  nada  presenciaram.
+Nataly,  esposa  do  apelado,  afirmou  que  o  dinheiro  era  seu,  decorrente  da  venda  de  lingerie.  Disse  que  ULISSES  é  usuário  de  maconha.  José
+Aparecido  disse  que  ele  trabalhava  em  sua  companhia  e  o  pagava  semanalmente.
+Prova  mais  que  suficiente.
+Os  depoimentos  dos  agentes  públicos  foram  harmônicos  e  coerentes,  não  havendo  comprovação  de  qualquer  animosidade  anterior  específica  que  justificasse  infundada  acusação,  inclusive  diante  do  contido  no  CPP,  art.  202,  caput,  de  que  toda  pessoa  pode  ser  testemunha,  até  porque  seria  um  contrassenso  o  Estado  credenciar  pessoas  para  a  função  repressiva  e  depois  lhes  negar  crédito  quando  dão  conta  de  suas  diligências  (RT  417/94,  486/351,  771/565  e  772/682).
+Nesse  contexto,  a  certeza  do  tráfico  é  aferível  pela  quantidade  e  natureza  da  droga  (quase  150g),  pelas  circunstâncias  da  diligência,  precedida  de  delações,  que,  inclusive,  ensejaram  deferimento  de  mandado  de  busca  e  apreensão  domiciliar,  além  de  apetrecho  comumente  utilizado  para  o  embalo  da  droga,  até  porque  tal  condição  não  seria  impeditiva  ou  incompatível  com  concomitante  comércio  clandestino  de  entorpecentes.
+Em  se  tratando  de  crime  de  ação  múltipla  -  apresenta  várias  formas  objetivas  de  violação  do  tipo  penal  -,  basta,  para  a  consumação  do  injusto,  a  prática  de  um  dos  verbos  ali  previstos  (STJ  -  AgRg  no  REsp  736729/PR  -  Ministro  OG  FERNANDES  -  Sexta  Turma  -  Dje  02/05/2013).
+Nem  se  alegue  se  tratar  de  ínfima  quantidade,  pois  150g  de  maconha  são  SUFICIENTES  À  CONFECÇÃO  DE  CERCA  DE  300  BASEADOS  DE  0,5G,  não  sendo  crível  que  consumiria  essa  quantidade  sozinho.
+Do  excerto  transcrito,  observo  que  a  instância  ordinária,  soberana  na  análise  das  circunstâncias  fático-probatórias,  concluiu,  de  modo  fundamentado,  que  a  conduta  praticada  pelo  agravante  se  amolda  ao  delito  previsto  no  art.  33  da  Lei  n.  11.343/2006,  tendo  sido  destacada  a  quantidade  e  a  natureza  da  droga,  as  circunstâncias  da  apreensão  precedida  de  delações,  a  existência  de  mandado  de  busca  e  apreensão  domiciliar  e  a  presença  de  apetrecho  comumente  utilizado  para  o  embalo  da  droga.
+Com  efeito,  nos  termos  do  §  2º  do  art.  28  da  Lei  n.  11.343/2006,
+Para  determinar  se  a  droga  destinava-se  a  consumo  pessoal,  o  juiz  atenderá  à  natureza  e  à  quantidade  da  substância  apreendida,  ao  local  e  às  condições  em  que  se  desenvolveu  a  ação,  às  circunstâncias  sociais  e  pessoais,  bem  como  à  conduta  e  aos  antecedentes  do  agente.
+Outrossim,  convém  registrar  que  a  jurisprudência  desta  Corte  tem  afirmado  que  a  subsunção  típica  prescinde  da  efetiva  prática  de  atos  de  mercancia,  pois  o  crime  de  tráfico  de  drogas  é  de  ação  múltipla  ou  de  conteúdo  variado,  de  forma  que  se  consuma  com  a  prática  de  qualquer  um  dos  verbos  nucleares  descritos  no  tipo  penal.
+A  propósito:
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  VIOLAÇÃO  AO  ART.  619  DO  CPP.  NÃO  VERIFICADA.  PEDIDO  ABSOLUTÓRIO  OU  DESCLASSIFICATÓRIO.  REVOLVIMENTO  FÁTICO-PROBATÓRIO.  EXCLUSÃO  DA  CAUSA  DE  AUMENTO  DO  ART.  40,  III,  DA  LEI  DE  DROGAS.  IMPOSSIBILIDADE.  DELITO  PRATICADO  NO  INTERIOR  DO  ESTABELECIMENTO  DE  ENSINO.  RECURSO  IMPROVIDO.
+(..)
+4.  Ademais,  este  Tribunal  Superior  entende  que  a  subsunção  típica  prescinde  da  efetiva  prática  de  atos  de  mercancia,  pois  o  crime  de  tráfico  de  drogas  é  de  ação  múltipla  ou  de  conteúdo  variado,  de  forma  que  se  consuma  com  a  prática  de  qualquer  um  dos  verbos  nucleares  descritos  no  tipo  penal.
+(..)
+6.  Agravo  improvido.  (AgRg  no  AREsp  n.  1.803.460/ES,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  13/09/2022,  DJe  de  19/09/2022).
+Registro,  ainda,  que,  segundo  a  orientação  desta  Corte  Superior  de  Justiça,
+o  depoimento  dos  policiais  prestado  em  Juízo  constitui  meio  de  prova  idôneo  a  resultar  na  condenação  do  réu,  notadamente  quando  ausente  qualquer  dúvida  sobre  a  imparcialidade  dos  agentes,  cabendo  à  defesa  o  ônus  de  demonstrar  a  imprestabilidade  da  prova,  o  que  não  ocorreu  no  presente  caso  (AgRg  no  HC  n.  672.359/SP,  rel.  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  22/06/2021,  DJe  de  28/06/2021).
+Nesse  contexto,  para  se  concluir  de  maneira  diversa  a  fim  de  acolher  a  pretensão  desclassificatória,  seria  necessário  proceder  ao  revolvimento  das  provas  produzidas  nos  autos,  o  que  não  se  mostra  cabível  na  estreita  via  do  habeas  corpus.
+Mutatis  mutandis:
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS.  PLEITO  DE  ABSOLVIÇÃO  OU  DESCLASSIFICAÇÃO  DA  CONDUTA.  IMPOSSIBILIDADE.  REVOLVIMENTO  FÁTICO-PROBATÓRIO.  PENA-BASE  EXASPERADA  NOS  TERMOS  DO  ART.  42  DA  LEI  11.343/2006.  ILEGALIDADE.  INOCORRÊNCIA.  CAUSA  ESPECIAL  DE  DIMINUIÇÃO.  TRÁFICO  PRIVILEGIADO.  INAPLICABILIDADE.  AGRAVANTE  QUE  SE  DEDICAVA  A  ATIVIDADES  CRIMINOSAS.  INEXISTÊNCIA  DE  NOVOS  ARGUMENTOS  APTOS  A  DESCONSTITUIR  A  DECISÃO  AGRAVADA.  AGRAVO  DESPROVIDO.
+(..)
+II  -  O  habeas  corpus  não  se  presta  para  a  apreciação  de  alegações  que  buscam  absolvição  ou  desclassificação  de  condutas  imputadas,  em  virtude  da  necessidade  de  revolvimento  do  conjunto  fático-probatório,  o  que  é  inviável  na  via  eleita.  Precedentes.
+(..)
+Agravo  regimental  desprovido.  (AgRg  no  HC  n.  773.880/SP,  rel.  Ministro  Messod  Azulay  Neto,  Quinta  Turma,  julgado  em  13/12/2022,  DJe  de  16/12/2022;  grifamos).
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  TRÁFICO  DE  DROGAS  E  ASSOCIAÇÃO  PARA  O  TRÁFICO.  VIOLAÇÃO  AO  PRINCÍPIO  DA  COLEGIALIDADE.  NÃO  OCORRÊNCIA.  PEDIDO  DE  ABSOLVIÇÃO  DO  RÉU  OU  A  DESCLASSIFICAÇÃO  DE  SUA  CONDUTA.  IMPOSSIBILIDADE.  PROVAS  SUFICIENTES  DA  MATERIALIDADE  E  DA  AUTORIA  DO  CRIME.  REEXAME  FÁTICO-PROBATÓRIO.  REDUÇÃO  DA  PENA-BASE.  FALTA  DE  INTERRESSE  RECURSAL.  MINORANTE  PREVISTA  NO  ART.  33,  §  4º,  DA  LEI  DE  DROGAS.  NÃO  CABIMENTO.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.
+(..)
+2.  Quanto  ao  pedido  de  absolvição  ou  desclassificação  da  conduta,  verifica-se  que,  conforme  consta  do  acórdão  impugnado,  há  provas  suficientes  da  materialidade  e  da  autoria  do  paciente  para  sustentar  sua  condenação  nas  infrações  penais  ora  imputadas.
+3.  Além  disso,  registro,  nos  termos  do  art.  28,  §  2º,  da  Lei  n.  11.343/2006,  não  é  apenas  a  quantidade  de  drogas  que  constitui  fator  determinante  para  a  conclusão  de  que  a  substância  se  destinava  a  consumo  pessoal/conjunto  ou  ao  tráfico  de  drogas,  mas  também  o  local  e  as  condições  em  que  se  desenvolveu  a  ação,  as  circunstâncias  sociais  e  pessoais,  bem  como  a  conduta  e  os  antecedentes  do  agente.  Por  esse  fundamento,  também  não  cabe  a  desclassificação  da  conduta  imputada  ao  réu.
+4.  Desse  modo,  rever  o  posicionamento  adotado  pelas  instancias  ordinárias  demanda  imprescindível  revolvimento  do  acervo  fático-probatório  delineado  nos  autos,  o  que  é  vedado  por  esta  Corte  Superior.
+(..)
+7.  Agravo  regimental  não  provido.  (AgRg  no  HC  n.  762.463/SP,  Rel.  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  28/11/2022,  DJe  de  02/12/2022;  grifamos).
+Assim,  por  não  terem  sido  declinados,  nas  razões  recursais,  fundamentos  jurídicos  que  infirmem  os  motivos  da  decisão  ora  agravada,  deve  esse  ato  ser  integralmente  mantido  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
