@@ -1,0 +1,12 @@
+DECISÃO
+EDILAINE CATERINE ESPIRITO SANTO alega sofrer coação ilegal em virtude de acórdão prolatado pelo Tribunal de origem no Agravo n. 0011525-16.2024.8.26.0041.
+A defesa faz longa crítica, em mais de duas dezenas de páginas, sobre o exame criminológico e indica os entraves que o Juiz tem realizado para negar a progressão de regime à paciente. Junta centenas de páginas do processo, o que prejudica a identificação da decisão que pretende questionar. Indica, em suas razões, que foi determinado o estudo de periculosidade sem fundamentação concreta. Todavia, em outro trecho da impetração, narra que "o exame criminológico  já  fora efetuado" (fl. 14), mas o Magistrado de primeiro grau "achou por bem indeferir" (fl. 14) o benefício. Mais adiante, outra vez, afirma que a autoridade judicial proferiu decisão, "determinando que fosse feito o exame" (fl. 14).
+Decido.
+Não é possível identificar, com precisão, a decisão que está sendo contestada, nem sua confirmação por Tribunal de Justiça.
+Os dois únicos acórdãos juntados ao habeas corpus dizem respeito à Apelação n. 1500378-59.2019.8.26.0633 e ao Agravo de Execução n. 0020768-86.2021.8.26.0041, que não tratou sobre a controvérsia, mas determinou a aplicação do percentual de 1/8 de cumprimento da pena para o cálculo do benefício, nos termos do art. 112, § 3º, da LEP.
+Assim, sem a juntada de acórdão do Tribunal de Justiça com a prévia manifestação sobre a exigência do exame criminológico, ou o indeferimento da progressão, não se verifica a inauguração da competência desta Corte para o conhecimento do habeas corpus.
+Ao que parece, o advogado refuta decisão de primeiro grau, mas "falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz" (AgRg no HC n. 645.080/BA, Rel. Ministro Felix Fischer, 5ª T., DJe 19/3/2021).
+Ressalto que o habeas corpus precisa ter objetivo claro. O impetrante deve apontar precisamente a decisão e o acórdão estadual que estão sendo questionados. É preciso, ainda, apresentar razões que demostrem a ilegalidade do ato judicial, atentatória a direito de locomoção, observar a competência do Superior Tribunal de Justiça (art. 105 do CP) e evitar a anexação de documentos desnecessários para o julgamento .
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
