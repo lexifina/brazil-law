@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por SALGUEIRO INDÚSTRIA E COMÉRCIO DE AÇO LTDA. contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 3007840-10.2023.8.26.0000.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre, pelo fundamento de que (fls. 183-184, e-STJ): a) não haveria fundamentação apta a amparar o pleito de violação aos arts. 489 e 1.022 do CPC, pois motivação contrária aos interesses da parte recorrente não é caracterizadora de omissão; b) haveria a necessidade de analisar fatos e provas para a apreciação das teses expostas nas razões do Recurso Especial, incidindo o óbice do enunciado n. 7 da Súmula do STJ; e b) estaria presente o óbice do enunciado n. 280 da Súmula do STF, ante a imprescindibilidade de se analisar direito local.
+Todavia, em relação ao óbice da Súmula n. 7/STJ, não impugnou de forma específica os fundamentos da decisão recorrida, limitando-se a afirmar o que segue (fls. 243-249, STJ):
+38. Diferentemente do entendimento trazido na r. Decisão agravada, é prescindível o reexame do acervo probatório dos autos, até mesmo porque os Embargos de Declaração da Agravante foram rejeitados sem que fossem sanadas as omissões apontadas, de modo que não há que se falar em revolvimento de matéria fática e, por conseguinte, na aplicação do óbice da Súmula nº 7 deste C. Superior Tribunal de Justiça.
+39. Ora, Excelências, a Agravante busca de forma incansável apenas o justo sopesamento de sua situação jurídica, concluindo-se pela inconstitucionalidade e ilegalidade do cômputo dos juros moratórios, tendo em vista que superiores à Taxa SELIC, conforme a redação dada pela Lei Estadual Paulista nº 16.497/2017 ao artigo 96, parágrafo primeiro, item 2, da Lei Estadual nº 6.374/89,o que foi totalmente ignorado pelo E. Tribunal de Justiça do Estado de São Paulo.
+40. Não obstante isso, no caso destes autos, não se pode confundir o reexame de provas com a revaloração de fatos incontroversos. A revaloração de dados explicitamente admitidos e delineados na decisão da qual se recorre não implica o reexame de provas.
+41. Demonstrado, daí, ser desnecessário rever quaisquer documentos ou provas dos autos, bastando, para acolher a insurgência da Agravante, analisar o equivocado enquadramento jurídico que foi dado aos fatos delineados nas decisões judiciais, ou melhor dizendo, na falta de julgamento perpetrado pelo v. Acórdão de 2º grau dos pontos levantados pela Agravante em seus Embargos de Declaração, tratando-se, portanto, de matéria puramente de direito.
+ ..
+46. Nesse sentido, a r. Decisão agravada lança mão de fundamentação retórica, a qual, "data maxima venia", não se sustenta, com o nítido objetivo de atravancar a subida do Recurso Especial da Agravante, tendo em vista que a admissão do Recurso Especial não levaria à violação da Súmula nº 7 deste E. Superior Tribunal de Justiça, mas apenas à atribuição do devido valor a fato incontroverso e à aplicação dos corretos efeitos jurídicos a tal fato, o que não foi feito pelo v. Acórdão de 2º grau.
+47. Está claro, então, que a r. Decisão agravada se equivocou ao considerar que o óbice da Súmula nº 7 deste C. Superior Tribunal de Justiça incide no presente caso, de modo que a sua reforma é medida que se impõe, sendo imperiosa a admissão e conhecimento do Recurso Especial de fls. 88/121.
+Assim, a parte agravante não se desincumbiu do ônus de demonstrar, de maneira efetiva e concreta, a forma pela qual, independentemente de aprofundado reexame dos elementos probantes, seria exequível examinar as teses recursais, o que configura desobediência ao princípio da dialeticidade (art. 932, inciso III, CPC/2015).
+Limitou-se a tecer argumentos de que sua irresignação teria natureza de direito, sem especificar quais seriam as premissas de fato do decisum recorrido, tampouco deixando claras as razões pelas quais prescinde de revolvimento de sua análise.
+Afirmou, ainda, que a análise e revaloraç ão dos fatos tidos como incontroversos pelo acórdão bastaria para apreciar a tese recursal. Contudo, não afirmou quais fatos seriam estes.
+Evidentemente, esta linha argumentativa não realiza impugnação específica do óbice de admissibilidade do enunciado n. 7 da Súmula do STJ. A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a
+assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ESPECÍFICA O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4.º, DO CÓD IGO DE PROCESSO CIVIL. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma específica, o fundamento da decisão que não admitiu o apelo nobre na origem. Incidência da Súmula n. 182 do STJ.
+2. Não deve ser aplicada, na hipótese, a multa prevista no art. 1.021, § 4.º, do Código de Processo Civil, pois, consoante orientação desta Corte Superior, o mero inconformismo com a decisão impugnada não acarreta a necessária imposição da sanção, quando não caracterizada a manifesta inadmissibilidade ou improcedência do recurso.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.362.235/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA DO ÓBICE PREVISTO NO ENUNCIADO N. 7 DA SÚMULA DO STJ. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
