@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de WANESSA KELLY PINHEIRO LOPES, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, no julgamento dos Embargos de Declaração no HC n. 0638194-75.2023.8.06.0000/50000.
+De acordo com os autos, a paciente foi denunciada pelos crimes de participação em organização criminosa e lavagem de dinheiro.
+Após o recebimento da denúncia, a defesa impetrou habeas corpus perante a Corte de origem, alegando que a acusação teve início com dados extraídos do aparelho celular de Caio da Rocha Freire, investigado pelos crimes de tráfico e associação para o tráfico de drogas. No curso das investigações, a Delegacia de Narcóticos (DENARC) teria solicitado à Delegacia de Recuperação de Ativos (DRA) informações financeiras do corréu Helder Paes de Oliveira Júnior, sem prévia autorização judicial.
+No entender do impetrante, a produção do Relatório de Inteligência Financeira antes da existência de procedimento investigativo formal é causa de nulidade absoluta, pois caracteriza indevida pescaria probatória (fishing expedition).
+Diante disso, requer, liminarmente, a revogação da prisão preventiva e, no mérito, a concessão da ordem para declarar nulas as provas derivadas do relatório de inteligência financeira e, consequentemente, determinar o trancamento da ação penal.
+É o relatório. Decido.
+Este writ não comporta conhecimento.
+A pretensão deduzida neste habeas corpus foi objeto de apreciação por esta Corte por ocasião da impetração do HC n. 897.893/CE, que, atualmente, aguarda o julgamento do agravo regimental.
+Nos termos da jurisprudência desta Corte, Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT. REITERAÇÃO DE PEDIDO DE RECONHECIMENTO DE COMPETÊNCIA DA JUSTIÇA CASTRENSE. COMPETÊNCIA DA JUSTIÇA COMUM RECONHECIDA POR ESTE COLEGIADO. IMPOSSIBILIDADE DE CONCESSÃO DE ORDEM DE HABEAS CORPUS CONTRA ATO PRÓPRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "É de se considerar que é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/6/2023).
+2. Além de o HC n 765363/SP reiterar pedido já analisado pela Quinta Turma do Superior Tribunal de Justiça no julgamento do HC n. 764.059/SP, frise-se que este Colegiado se pronunciou pela competência da Justiça Comum quanto aos fatos delituosos apurados na Ação Penal 0010201-20.2016.8.26.0510 que tramitou perante a Segunda Vara Criminal da Comarca de Rio Claro/SP.
+Diante disso, é defeso a esta Corte Superior de Justiça julgar habeas corpus contra ato próprio, porquanto, à luz do art. 650, § 1º, do Código de Processo Penal - CPP, a competência para conhecer originalmente do pedido de habeas corpus cessará sempre que a violência ou coação provier de autoridade judiciária de igual ou superior jurisdição. Nesse sentido: AgRg no HC n. 272.077/PE, de minha relatoria, Quinta Turma, DJe de 19/10/2018 e RHC n. 39.858/TO, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 4/11/2014.
+3. Agravo regimental ao qual se nega provimento. (AgRg no HC n. 765.363/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
