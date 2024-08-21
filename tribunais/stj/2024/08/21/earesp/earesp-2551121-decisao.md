@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por LUCIENE PESSOA DA SILVA GARCIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 106):
+PLANODE SAÚDE. CUMPRIMENTO PROVISÓRIO. ASTREINTES. Insurgência da executada contra decisão que autorizou o levantamento das astreintes. Reforma. Autorização da cirurgia cumprida pouco tempo depois da 24h fixadas na primeira decisão liminar. Prazo decorrido que não autorizava a cobrança de astreintes, tendo em vista o prazo reduzido fixado na decisão liminar, o cumprimento logo em seguida pela operadora, e a finalidade da multa cominatória. Cirurgia, ainda, que dependia de agendamento pelo Hospital, não coincidindo com a data de autorização pela operadora. Agravante que cumpriu com a determinação de autorização da cirurgia em 30/03/2022, não podendo ser responsabilizada em virtude de atrasos no agendamento por parte do Hospital credenciado, que não é parte no processo. Responsabilidade pelas astreintes que não se confundia com a responsabilidade prevista no CDC para questões de direito material. Multa cominatória indevida. Cumprimento de sentença extinto. Sucumbência da agravada. AGRAVO PROVIDO.
+Rejeitados os embargos de declaração opostos pela agravante, em aresto assim ementado (fl. 130):
+EMBARGOS DE DECLARAÇÃO. Insurgência da agravada. Mero inconformismo. Decisão clara ao afastar a cobrança das astreintes. Embargada que cumpriu com a determinação judicial, ao autorizar a realização da cirurgia. Atrasos no agendamento por parte do Hospital que não autorizavam a cobrança da multa em desfavor da embargada. Cirurgia realizada poucos dias depois da data prevista. Cumprimento de sentença devidamente extinto.
+EMBARGOS REJEITADOS.
+No recurso especial, a agravante alega que o acórdão contrariou as disposições contidas no art. 14 do Código de Defesa do Consumidor e nos arts. 5º e 926 do Código de Processo Civil.
+Sustenta que "a mera liberação de guia sem realizar a comunicação de tal conduta às partes necessárias, inviabilizando a realização da cirurgia, não pode ser confundida com o cumprimento da obrigação" (fl. 142). Aduz a necessidade de se manter a incidência da multa pelo descumprimento, no prazo, da medida terminada pelo juízo.
+Sem contrarrazões ao recurso especial (fl. 181).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 182-183), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 204-215).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, o recurso especial não comporta conhecimento quanto à alegada violação do art. 14 do CDC e dos arts. 5º e 926 do CPC, visto que tais dispositivos não têm comando normativo apto a amparar a tese recursal, pois deles não se infere nenhuma alusão à obrigação do plano de saúde no cumprimento da medida deferida na origem ou ao pagamento da multa decorrente pelo seu suposto descumprimento, o que atrai, por conseguinte, os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido, cito:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+(AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+(AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Ademais, verifica-se que o Tribunal de origem declarou a inexigibilidade das astreintes por concluir que a operadora do plano de saúde cumpriu em tempo hábil com o que lhe foi determinado, não tendo sido a recorrida a causadora do atraso na realização da cirurgia pleiteada.
+A propósito, transcrevo o teor do acórdão recorrido (fls. 107-108):
+Com efeito, a multa cobrada pela exequente era inexigível.
+No processo principal, foi deferida a tutela de urgência no sentido de a Unimed autorizar, custear integralmente e providenciar a realização dos procedimentos cirúrgicos em hospital da rede credenciada, no prazo de 24h, sob pena de multa de dez mil reais, limitada a cinquenta mil reais (p. 78/81 do processo nº 1028733-81.2022.8.26.0100).
+Posteriormente, a multa foi ampliada para mil reais por hora, até o limite de cem mil reais (ps. 119/120 do processo nº 1028733-81.2022.8.26.0100).
+A primeira decisão foi recebida no dia 28/03/2022 às 17:42 e, no dia 30/02/2022 estava disponibilizada a guia de autorização da internação às 18:28 (ps. 83/86 137/141 do processo principal e 58/73 do agravo).
+A segunda decisão foi recebida pela ré em 30/03/2022, às 17:40 (ps. 122/131 do processo principal), ou seja, logo após a cirurgia já havia sido autorizada.
+A diferença de aproximadamente 24h depois do que seria o limite para a autorização pela operadora não permitia a cobrança da multa pretendida pela autora, tendo em vista o prazo reduzido fixado na decisão liminar, o cumprimento logo em seguida pela operadora, e a finalidade da multa cominatória (de obrigar a parte ao cumprimento da decisão e não para servir comoindenização à parte exequente).
+Tal entendimento é reforçado se considerarmos o fato de que a cirurgia não é realizada no mesmo dia da autorização, sendo que a primeira estava sugerida para dia 04/04/2022.
+Isso é assim porque essa obrigação de agendamento depende de outras variantes que fogem do controle da operadora, como número de leitos disponíveis no hospital, preparação médica e da paciente, etc.
+Assim sendo, até a data da liberação da guia em 30/03/2022, não incidia qualquer multa em desfavor da operadora.
+Após essa data, igualmente, não era cabível a multa cobrada pela exequente.
+Afinal, como constou acima, não era obrigação do plano de saúde de promover o agendamento da cirurgia pleiteada pela autora no prazo de 24h, mas sim de providenciar sua realização, pela autorização junto ao Hospital credenciado, com posterior custeio das despesas médicas.
+No caso, o erro do hospital no devido agendamento da cirurgia autorizada não pode ser imputado à operadora, que cumpriu com a determinação judicial, nos limites que lhe foram impostos.
+Não pode a operadora se rresponsabilizada por multa em decorrência de falhas ocasionadas por terceiros que sequer fazem parte do processo.
+No mais, não se pode confundir a responsabilidade solidária prevista no Código de Defesa do Consumidor para questões de direito material com a multa processual fixada no caso de descumprimento de determinação judicial.
+Nesse contexto, diante da autorização da cirurgia no dia 30/03/2022 e da alegação da agravada de que os procedimentos junto ao Hospital credenciado foram regularizados em 06/04/2022 (ps. 92 e 103 do agravo), as astreintes eram indevidas.
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, procedimento vedado a esta Corte, em razão do óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor inicialmente cobrado (fl. 108), observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIO. PLANO DE SAÚDE. ASTREINTES. INEXIGIBILIDADE DECLARADA NA ORIGEM. ARTIGOS DE LEI APONTADOS COMO VIOLADOS. SÚMULA 284/STF. CUMPRIMENTO DA MEDIDA JUDICIAL. SÚMULA 7/STJ. AGR AVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
