@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/08/2024 a 21/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO REGIMENTAL CONTRA DECISÃO EM EMBARGOS DE DIVERGÊNCIA AUTUADOS COMO PETIÇÃO. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DIVERGÊNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO E ABUSO DO DIREITO DE RECORRER.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de inadmitir a oposição de embargos de divergência contra a decisão proferida em embargos de divergência.
+2. Os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, não sendo possível sua oposição em face de julgados proferidos em outras classes processuais. Nesse sentido: AgRg na Pet n. 14.960/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/3/2023, DJe de 24/3/2023.
+3. Agravo regimental rejeitado.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo regimental interposto por MICHEL CARLOS DE FREITAS contra decisão de fls. 3504/3505 da eminente Ministra Presidente desta Corte Superior, que ao analisar embargos de divergência autuados na classe PETIÇÃO, contra acórdão da Corte Especial em embargos de divergência, houve por bem indeferi-los liminarmente, com fulcro no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, combinado com o art. 266-C, do mesmo diploma legal.
+Em seu segundo recurso de embargos de divergência, a parte embargante se insurge contra o acórdão proferido pela Corte Especial, que ao analisar agravo regimental preteritamente interposto, houve por bem manter a decisão de indeferimento liminar de seu primeiro recurso de embargos de divergência.
+Pugnando, portanto, pelo conhecimento de recurso de embargos de divergência contra acórdão da Corte Especial, que manteve indeferimento liminar de recurso de embargos de divergência, repete a parte os mesmos fundamentos preteritamente invocados, em nítido abuso do direito de recorrer.
+Como se não bastasse, com o claro intuito de ocasionar tumulto processual, apresentou o embargante novo recurso de agravo regimental, às fls. 3568/3581, a pretexto de "reiterar" o agravo regimental de fls. 3509/3522.
+Requer, portanto, o provimento do agravo regimental para obter a reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL CONTRA DECISÃO EM EMBARGOS DE DIVERGÊNCIA AUTUADOS COMO PETIÇÃO. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DIVERGÊNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. ERRO GROSSEIRO E ABUSO DO DIREITO DE RECORRER.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de inadmitir a oposição de embargos de divergência contra a decisão proferida em embargos de divergência.
+2. Os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, não sendo possível sua oposição em face de julgados proferidos em outras classes processuais. Nesse sentido: AgRg na Pet n. 14.960/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/3/2023, DJe de 24/3/2023.
+3. Agravo regimental rejeitado.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Analisando detidamente os autos, considero que a pretensão recursal não merece ser conhecida. No caso em apreço, são manifestamente incabíveis os embargos de divergência apresentados contra acórdão da Corte Especial, que apreciou em sede de agravo regimental, a admissibilidade de recurso pretérito de embargos de divergência.
+No feito em discussão, a decisão agravada indeferiu liminarmente os embargos de divergência, nos seguintes termos (e-STJ, fls. 3504/3505), in verbis:
+"Os embargos não reúnem condições de serem processados.
+Dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça que "cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+Também os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Conforme transcrito nos dispositivos acima, os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, não sendo possível sua oposição em face de julgados proferidos em outras classes processuais. Nesse sentido: AgRg na Pet n. 14.960/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/3/2023, DJe de 24/3/2023.
+Ressalte-se que a revogação do inciso IV do art. 1.043 do Código de Processo Civil pela Lei n. 13.256/2016 teve por escopo exatamente vedar o cabimento dos embargos de divergência em processos originários do Superior Tribunal de Justiça".
+Dito isto, no feito em discussão, considero que a decisão da lavra da eminente ministra presidente do Superior Tribunal de Justiça não merece quaisquer reparos.
+Como é sabido, a finalidade dos embargos de divergência no âmbito do Superior Tribunal de Justiça consiste em dirimir eventual entendimento jurisprudencial conflitante sobre teses de mérito adotadas por julgados desta Corte Superior em recurso especial. Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis os embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal. Em idêntico sentido, os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Dito isto, é evidente que os embargos de divergência de fls. 3403/3446, em grande medida, representam a reprovável reiteração dos embargos de divergência de fls. 3068/3115, os quais foram liminarmente rejeitados, por decisão posteriormente confirmada pela Corte Especial deste Superior Tribunal, em acórdão de fls. 3298 /3309, que apreciou recurso de agravo regimental manejado pela parte.
+Tanto é assim que, ao apresentar seus embargos de divergência em embargos de divergência, a Coordenadoria de Processamento de Feitos da Corte Especial houve por bem autuar essa segunda manifestação como mera "petição", dado o caráter extravagante do requerimento e o manifesto abuso do direito de recorrer, por parte do embargante.
+Por oportuno, cumpre salientar que a jurisprudência do STJ é firme no sentido de que é manifestamente incabível a apresentação de embargos de divergência contra o julgado proferido em embargos de divergência:
+AGRAVO REGIMENTAL NA PETIÇÃO. EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DIVERGÊNCIA. RECURSO INCABÍVEL. ERRO GROSSEIRO. TRÂNSITO EM JULGADO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não cabe a oposição de embargos de divergência contra a decisão proferida em embargos de divergência.
+2. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado.
+(AgRg na Pet n. 15.618/SC, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 11/6/2024, DJe de 18/6/2024.)
+"EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. É firme a orientação no sentido de que é manifestamente incabível a apresentação de embargos de divergência contra decisão deste Tribunal proferida em embargos de divergência. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado." (AgRg na Pet 15.617/AM, Relator Ministro HUMBERTO MARTINS, Corte Especial, julgado em 29/11/2023, DJe de 7/12/2023).
+Outrossim, como bem pontuou a eminente ministra Presidente, "(..) os embargos de divergência são cabíveis para impugnar os acórdãos prolatados pelos órgãos fracionários em sede de recurso especial, não sendo possível sua oposição em face de julgados proferidos em outras classes processuais" (cf. AgRg na Pet n. 14.960/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/3/2023, DJe de 24/3/2023).
+Ao ofertar novo recurso de embargos de divergência após o exaurimento da jurisdição desta Corte Superior, seu requerimento foi autuado como petição, sendo incabível o conhecimento de embargos de divergência em outras classes processuais, notadamente, em feitos originários, em consonância com a revogação do inciso IV do art. 1.043 do Código de Processo Civil.
+Ante o exposto, por considerar que a decisão de indeferimento liminar dos embargos de divergência não merece quaisquer reparos, nego provimento ao agravo regimental.
+Por conseguinte, dou por prejudicada a "reiteração" recursal de fls. 3568/3581.
+É como voto.
