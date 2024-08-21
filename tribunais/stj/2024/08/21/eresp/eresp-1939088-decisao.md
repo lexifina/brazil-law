@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de divergência opostos pelo CONDOMÍNIO RESIDENCIAL SEASONS contra acórdão proferido pela Segunda Turma, de Relatoria do em. Min. Mauro Campbell Marques, assim ementado (e-STJ fl. 917):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIÇO DE FORNECIMENTO DE ÁGUA. CONDOMÍNIOS. CÁLCULO. CONSUMO REAL AFERIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Decorre o recurso especial de demanda objetivando recálculo do consumo do condomínio, aplicando-se a tabela progressiva com base no consumo total de água registrado no hidrômetro, dividindo-se tal consumo pelo número de condôminos apenas e tão somente para o fim de enquadramento na faixa de consumo prevista na referida tabela.
+2. O TJ/RJ manteve a sentença de procedência do pedido pelo fundamento de que é ilegal a cobrança de consumo pela tarifa mínima multiplicada pelo número de economias, determinando que a tarifa progressiva só deve ser aplicada após ser encontrado o consumo médio, obtido pela divisão do consumo total pelo número de economias existentes, ou seja, incidência do encargo na forma híbrida pleiteada.
+3. O acórdão recorrido merece reparos, pois, conforme decidido pela Primeira Seção no julgamento do REsp 1166561/RJ, Rel. Ministro Hamilton Carvalhido, DJe 05/10/2010, "A cobrança pelo fornecimento de água aos condomínios em que o consumo total de água é medido por único hidrômetro deve se dar pelo consumo real aferido".
+4. Agravo interno não provido.
+A embargante alega que o acórdão embargado diverge de acórdão da Primeira Turma (Agint no REsp 1.850.506/RJ, Rel. Ministro Benedito Gonçalves, julgado em 15/03/2021) , no tocante à cobrança da tarifa do serviço de fornecimento de água nos condomínios.
+Examinando embargos de declaração opostos contra acórdão que manteve o indeferimento liminar dos presentes embargos, tornei sem efeito as decisões anteriores, para determinar o sobrestamento dos autos na Coordenadoria de Processamento de Feitos de Direito Público, haja vista a proposta de revisão da tese repetitiva firmada pela Primeira Seção no Tema 414 do STJ, de relatoria do em. Ministro Paulo Sérgio Domingues (e-STJ fls. 1.095/1.096).
+Julgado o representativo da controvérsia, os autos me retornaram para exame dos embargos.
+Passo a decidir.
+Como preceituam o Código de Processo Civil de 2015 e o Regimento Interno do Superior Tribunal de Justiça (art. 266), cabem embargos de divergência para rever acórdão proferido em recurso especial, quando a tese jurídica por ele adotada, de direito material ou processual (§ 2º), for diversa da tomada em causa semelhante (§ 1º) por outro Órgão fracionário do Tribunal (caput) ou, ainda, pelo mesmo Órgão cuja composição tenha sofrido alteração em mais da metade de seus membros (§ 3º) e desde que os acórdãos confrontados sejam de mérito (inciso I) ou um seja de mérito e outro que, embora não tenha conhecido do recurso, tenha efetivamente apreciado a controvérsia (inciso II).
+Outrossim, compete ao embargado demonstrar o dissenso alegado, por meio da comprovação da existência do aresto paradigma indicado e do devido cotejo analítico entre os julgados comparados, identificando as premissas fáticas e jurídicas que os identifiquem (§ 4º).
+No caso dos autos, os presentes embargos não merecem prosperar.
+É que, no acórdão paradigma (REsp 1.850.506/RJ), juntado às e-STJ fls. 984/989, nem sequer foi apreciado o mérito recursal, haja vista ter sido empregado os óbices das Súmulas 283 e 284 do STJ.
+Ocorre que é firme a compreensão desta Corte Superior de que não cabem embargos de divergência quando o acórdão embargado ou o paradigma nem sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal (Aplicação analógica da Súmula 315 do STJ).
+A esse respeito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 QUE NÃO PODE SER DEBATIDA EM EMBARGOS DE DIVERGÊNCIA.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. A divergência quanto à tese de negativa de prestação jurisdicional, isto é, acerca da ocorrência ou não de omissão, contradição ou obscuridade, demanda a apreciação das especificidades do caso concreto, o que, impede a demonstração da divergência.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.224.988/MT, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 25/6/2024, DJe de 27/6/2024.).
+PROCESSUAL CIVIL. AGRAVO INTERNO. DANO MATERIAL. COISA JULGADA. EXTINÇÃO DA AÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 7/STJ. REEXAME DE CLÁUSULAS E DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA 5/STJ. RECURSO QUE NÃO ANALISOU O MÉRITO. OBITER DICTUM. IMPRESTABILIDADE PARA DEMONSTRAR A DIVERGÊNCIA. PRECEDENTES DO STJ.
+1. Cuida-se de Agravo Interno contra decisum da Presidência do STJ que indeferiu os Embargos de Divergência. Na origem, trata-se de Embargos de Divergência em Agravo em Recurso Especial de julgamento turmário do STJ.
+2. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial, já que a pretensão da agravante demandaria a reanálise de cláusulas contratuais e de provas, o que é vedado pelas Súmulas 5 e 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, porquanto inadmissível interposição de Embargos de Divergência na hipótese de não ter sido apreciado o mérito do Recurso Especial, atraindo, por analogia, o teor da Súmula 315/STJ:
+"Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Precedentes.
+3. Argumentos em obiter dictum, utilizados como mero reforço argumentativo, não se prestam a caracterizar divergência jurisprudencial, tanto mais se o acórdão impugnado não conheceu do recurso. Precedentes.
+4. Agravo Interno não provido.
+(AgInt nos EAREsp n. 1.299.959/RJ, relator Ministro Herman Benjamin, Corte Especial, julgado em 7/12/2022, DJe de 20/12/2022.).
+Ante o exposto, nos termos do art. 266-C, do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
