@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAURO CARLUCCI contra a decisão do Tribunal de Justiça de São Paulo que inadmitiu recurso especial apresentado na Apelação Criminal n. 1500367-33.2018.8.26.0417, assim ementado (fl. 282):
+Apelação. Crimes previstos no artigo 54, "caput", e no artigo 60, "caput", ambos da Lei nº 9.605/98. Absolvição, ou por insuficiência de provas, ou por atipicidade dos fatos. Não cabimento. Materialidade e autoria demonstradas. Modificação do regime inicial para o aberto. Não cabimento. Não provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (fls. 312/314).
+Nas razões do especial, apontou a defesa contrariedade ao art. 33, § 1º, c, do Código Penal, sustentando, em síntese, a fixação do regime inicial aberto para o cumprimento de sua pena (fl. 302).
+Apresentadas contrarrazões (fls. 322/328), o recurso foi inadmitido na origem, por incidência das Súmulas 83 e 269/STJ (fls. 331/332).
+Daí o presente agravo (fls. 335/338). O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento ou pelo desprovimento do agravo, nos termos desta ementa (fl. 360):
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIMES AMBIENTAIS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O ESPECIAL. SÚMULA 182/STJ. PLEITO DE REVISÃO DO REGIME INICIAL APLICADO. INVIABILIDADE. REVOLVIMENTO DE FATOS E PROVAS. NÃO CABIMENTO. SÚMULA 7/STJ. MODO SEMIABERTO DEVIDAMENTE FUNDAMENTADO. REINCIDÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA PACÍFICA DESSA CORTE SUPERIOR. SÚMULA 83/STJ. PARECER PELO NÃO CONHECIMENTO OU PELO DESPROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: Súmulas 83 e 269/STJ (fls. 331/332).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à Súmula 83/STJ.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada. Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Importante ter presente, ainda em que obiter dictum, que o entendimento deste Tribunal Superior é no sentido de que "a situação de reincidência do agente, mesmo quando a pena aplicada é inferior a 4 anos e as circunstâncias judiciais são favoráveis, autoriza a fixação do regime inicial semiaberto. Nesse sentido, o enunciado da Súmula n. 269 deste Sodalício: " é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (AgRg no AREsp n. 2.359.464/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024) -AgRg no AREsp n. 2.501.021/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/8/2024) .
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
