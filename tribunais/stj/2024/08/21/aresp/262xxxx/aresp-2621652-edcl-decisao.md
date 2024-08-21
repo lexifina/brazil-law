@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CEMIG DISTRIBUICAO S.A à decisão de fls. 1088/1089, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Tendo em vista que a intimação da v. decisão agravada se deu em 22/01/2024 (segunda-feira), iniciando-se a contagem do prazo de 15 (quinze) dias úteis, prescrito no artigo 1.003, §5º c/c art. 219, do CPC, em 23/01/2024 (terça- feira).
+Impende ainda ressaltar que conforme consta na lei complementar nº 59, de 18/01/2001 e da resolução nº 458/2004, o Tribunal de Justiça de Minas Gerais não teve expediente nos dias 12, 13 e 14 e fevereiro (segunda e terça- feira de Carnaval e Quarta-Feira de Cinzas) não sendo, portanto, esses dias contabilizados para fins de prazo recursal.
+Nesse sentido importante constar que a Embargante trouxe os respectivos normativos em sua peça recursal, vejamos:
+ ..
+A r. decisão embargada negou conhecimento ao Agravo, pelo entendimento de que o mesmo seria intempestivo, no entanto os normativos devidamente trazidos no tópico de comprovação da tempestividade são claros no que se refere a suspensão do expediente na Quarta-Feira de Cinzas (fl. 1093).
+ ..
+Pelo que se infere do decisum, com a devida vênia, para que se entendesse como intempestivo o recurso, provavelmente deixou de considerar a menção à portaria do EG. TJMG, L.C. 59/2001 e Res. 458/2004, que considera Carnaval e Quarta-feira de Cinzas (dias 12 a 14 de fevereiro).
+No entanto caso tivesse considerado a normativa devidamente mencionada, o prazo final se dá 15/02/2024 (quinta - feira), e é exatamente a data em que foi realizado o protocolo, dia 15/02/2024, a tempestividade é cristalina (fl. 1094).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+É certo que o feriado nacional de 13/2/2024 não precisa ser comprovado. Porém, os dias 12 e 14/2/2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Outrossim, "a jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt nos EDcl no AREsp 1639906/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe 24/06/2022).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
