@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS RENAUX ASSIS CARNEIRO DA SILVA à decisão de fls. 314/315, que não conheceu do recurso.
+Sustenta a parte embargante que:
+1.2. Na fl. 72 dos autos, consta que o prazo para interpor Recurso Especial expirou em 10/02/2024, conforme imagem anexa:
+ ..
+1.3. O Recurso foi interposto na data de 09/02/2024, conforme consta no texto da decisão embargada. Em sendo considerado o prazo final como a data de 10/02/2024, a interposição do Recurso seria tempestiva.
+1.4. Assim, com a devida Venia, entende o embargante que a decisão embargada está em contradição com a informação indicada no item 1.2 acima (fl. 320).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta dos autos (fl. 70) que a expedição de intimação eletrônica ocorreu em 5/12/2023. Nos termos do § 3º do art. 5º da Lei n. 11.419/2006, o prazo para a efetivação da intimação eletrônica ficta é de 10 dias corridos (essa contagem não se dá em dias úteis). Contado a partir do dia 6/12/2023, o prazo expirou em 15/12/2023.
+Realizada a "consulta" no dia 15/12/2023, considera-se efetivamente intimada a parte no dia 18/12/2023 (art. 231, V, do CPC). Exclui-se o dia 18/12/2023, primeiro dia do prazo (art. 224 do CPC), prosseguindo-se na contagem de 15 dias úteis a partir de 19/12/2023, primeiro dia da efetiva contagem do prazo. Exclui-se o período de 20/12/2023 a 20/1/2024 (art. 220 do CPC). Reinicia-se novamente o prazo no dia 22/1/2024, finalizando no dia 8/2/2024, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 dias úteis (do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil) terminou em 8/2/2024, mas o recurso foi interposto somente em 9/2/2024.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.
+Veja que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais.
+Nesse sentido: AgInt no AREsp n. 2.459.649/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/4/2024, DJe de 3/5/2024; AgInt no AREsp n. 2.250.245/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/8/2023, DJe de 18/8/2023; AgInt no AREsp n. 2.050.156/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024; e, AgInt no AREsp 1686946/MA, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/12/2020.
+Por fim, a pretensão de rediscutir matéria devida mente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
