@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de WILLIAN CRUZ CARDOSO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido no julgamento da Apelação n. 1.0000.22.036426-9/001.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 15 anos, 9 meses e 15 dias de reclusão, em regime inicial fechado, pela prática dos crime de roubo majorado (art. 157, § 2º, II e V e § 2º-A, I, do Código Penal - CP) e organização criminosa (artigo 2º, § 2º, da Lei n. 12.850/13), na forma do art. 69 do CP.
+O Tribunal a quo deu parcial provimento ao recurso da defesa, afastando a condenação pelo crime de organização criminosa e estabelecendo a pena em 9 anos e 2 meses de reclusão, no regime inicial fechado. Eis a ementa do julgado:
+"APELAÇÕES CRIMINAIS - ROUBO MAJORADO E ORGANIZAÇÃO CRIMINOSA - PRELIMINARES - NULIDADES - VIOLAÇÃO DOS APARELHOS CELULARES APREENDIDOS, NULIDADE DA DECISÃO QUE DECRETOU E PRORROGOU A INTERCEPTAÇÃO TELEFÔNICA, NULIDADE POR QUEBRA DA CADEIRA DE CUSTÓDIA DAS PROVAS, NULIDADE POR INÉPCIA DA DENÚNCIA - NÃO OCORRÊNCIA - REJEITADAS - MÉRITO - ABSOLVIÇÃO DO DELITO DE ROUBO MAJORADO - NÃO CABIMENTO - AUTORIA E MATERIALIDADE COMPROVADAS - DECOTE DAS MAJORANTES DE CONCURSO DE AGENTES, RESTRIÇÃO DE LIBERDADE DA VÍTIMA E ARMA DE FOGO - NÃO CABIMENTO - ABSOLVIÇÃO DO DELITO DE ORGANIZAÇÃO CRIMINOSA - POSSIBILIDADE QUANTO A ALGUNS DOS RÉUS - MANUTENÇÃO DA CONDENAÇÃO QUANTO AOS DEMAIS - CONDENAÇÃO DOS ACUSADOS NO DELITO DE E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR - NÃO CABIMENTO - AUSÊNCIA DE PROVAS SEGURAS QUANTO AOS FATOS NARRADOS NA DENÚNCIA - MANUTENÇÃO DA ABSOLVIÇÃO - DOSIMETRIA DA PENA - REDUÇÃO DA PENA-BASE - POSSIBILIDADE - ABRANDAMENTO DO REGIME INICIAL - NÃO CABIMENTO - DETRAÇÃO - JUÍZO DA EXECUÇÃO.
+- Havendo prévia determinação de expedição de mandado de busca e apreensão, a autorização para devassa dos dados constantes de aparelho celular - mensagens e conversas por meio de programas ou aplicativos (WhatsApp) - resta subentendida. Precedentes.
+- A complexidade do feito e da pluralidade de réus autoriza a prorrogação das interceptações, conforme dispõe o artigo 5º da Lei nº.
+9.296/96. Além disso, eventual nulidade que não afete a verdade substancial da causa não cabe ser declarada, nos termos do artigo 566, do Código de Processo Penal.
+- A mera ausência do nome do agente que realizou a apreensão dos aparelhos telefônicos e do número dos lacres constitui mera irregularidade, porquanto não afasta a demonstração da escorreita realização do procedimento pericial, não sendo possível atribuir, portanto, que tal fato tenha acarretado prejuízos de qualquer natureza à defesa.
+- Afasta-se a arguição de inépcia da denúncia, pois a prolação de sentença condenatória acarreta a preclusão do tema. Precedentes.
+- Impossível o acolhimento da pretensão absolutória do delito de roubo quando a materialidade e a autoria delitivas se encontram fartamente comprovadas nos autos, mormente pelas investigações realizadas e pelas palavras dos policiais ouvidos em juízo.
+- Restando demonstrado que os agentes agiram em concurso de pessoas e se utilizaram de arma de fogo, correta é a majoração da sanção nos termos do artigo 157, § 2º, inciso II, e §2º-A, inciso I, do Código Penal.
+- Ocorrendo restrição à liberdade da vítima por tempo juridicamente relevante, deve ser mantida a causa especial de aumento de pena do § 2º, inciso V, do artigo 157 do Código Penal.
+- Diante da existência de provas de que alguns réus integravam uma associação estável e permanente para a prática de delitos de roubo e furto de cargas, como exige a Lei nº. 12.850/13, juntamente com outros agentes ainda não identificados, deve ser mantida a condenação pelo delito de organização criminosa. Quanto aos demais, tratando-se de meros executores do crime e ausente a comprovação de vínculo estável com o grupo criminoso, deve ser imposta a absolvição.
+- Inexistindo provas seguras de que os acusados efetivamente adulteraram o sinal identificador de veículo automotor, resta inviabilizado o édito condenatório.
+- Deve a pena-base ser reduzida, ainda que sem alteração da análise das circunstâncias judiciais, a fim de que o quantum fixado seja adequado e proporcional para o caso concreto.
+- Mantem-se o regime inicial fechado diante do quantum de pena fixado e considerando a existência de circunstâncias judiciais negativas, nos termos do artigo 33, §2º, alínea "a", e §3º, do Código Penal.
+- Não obstante a regra artigo 387, §2º, do Código de Processo Penal, a análise da detração penal deve ser feita pelo Juízo de Execução, diante da insuficiência de informações sobre o cumprimento de requisitos de ordem subjetiva previstos na Lei de Execução Penal e a real situação prisional do acusado" (fls. 91/92)
+O impetrante sustenta a inexistência de provas acerca da "extrema violência" supostamente empregada na ação delituosa, devendo ser afastado o aumento da pena-base decorrente desse elemento. Alega, ainda, que as consequências do delito não extrapolaram a normalidade, considerando o poder econômico da empresa proprietária da mercadoria. Por fim, quanto às majorantes, alega ofensa ao parágrafo único do art. 68 do CP.
+Requer, em liminar e no mérito, a redução da pena-base e a aplicação, na terceira fase, de um único aumento.
+Indeferido o pedido de liminar (fls. 162/163) e prestadas as informações (fls. 173/175), o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 182/188).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Por oportuno, confira-se a fundamentação apresentada pelo Tribunal a quo:
+" ..
+As majorantes de restrição de liberdade da vítima e concurso de agentes podem ser utilizadas na primeira fase para exasperar a pena- base (na culpabilidade e nas circunstâncias do crime), conforme feito em sentença, sem que com isso se incorra no indesejável bis in idem.
+ ..
+Além disso, as consequências do crime são de fato gravíssimas, seja pelo valor da carga roubada, seja porque a ação dos réus, decerto, encarece os produtos para o consumidor final, pois a empresas precisam investir em segurança e já embutir os prejuízos decorrentes de roubos de carga.
+Dessa forma, mantenho como negativas a culpabilidade, as circunstâncias e as consequências do crime, porém reduzo a pena- base para 05 (cinco) anos e 06 (seis) meses de reclusão e 13 (treze) dias-multa, pois tal quantum se mostra para adequado e proporcional para o caso concreto.
+ ..
+- RÉU WILLIAN CRUZ CARDOSO Na primeira fase do crime de roubo, e a fim de evitar repetições desnecessárias, mantenho o que foi ora realizado para os demais réus, reduzindo a pena-base para 05 (cinco) anos e 06 (seis) meses de reclusão e 13 (treze) dias-multa.
+Na segunda fase, ausentes agravantes e atenuantes, pelo quê a pena intermediária permanece em 05 (cinco) anos e 06 (seis) meses de reclusão e 13 (treze) dias-multa.
+Na terceira fase, a pena foi elevada em 2/3 (dois terços) em razão da majorante de arma de fogo, o que se afigura correto e deve ser mantido, nos termos do artigo 157, §2º-A, inciso I, do Código Penal, totalizando a reprimenda em 09 (nove) anos e 02 (dois) meses de reclusão e 21 (vinte e um) dias-multa" (fls. 147/151)
+Inicialmente, verifica-se que carece interesse de agir à defesa no que diz respeito ao pedido de afastamento do elemento relacionado à "extrema violência" da exasperação da pena-base, tendo em vista que tal peculiaridade não foi apontada para justificar a elevação da basilar.
+Por outro lado, a despeito da capacidad e financeira da vítima, a jurisprudência desta Corte entende que o alto valor do bem objeto do crime pode ser considerado no aumento da pena na primeira fase da dosimetria. Dessarte, não há flagrante ilegalidade a ser sanada por este Tribunal Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E RECEPTAÇÃO. ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA. NÚCLEOS DO TIPO PENAL. TESE NÃO DEBATIDA NA INSTÂNCIA DE ORIGEM. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 AMBAS DO ST F. RECONHECIMENTO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO EM RAZÃO DO ALTO VALOR. POSSIBILIDADE. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. Não é possível debater a tese de atipicidade da conduta em razão de não ter sido praticado nenhum dos verbos presentes no tipo penal do crime de receptação. Isso porque o Tribunal de origem não se manifestou a respeito de tal ponto, limitando-se a discorrer a respeito do conhecimento da origem ilícita do bem.
+3. Negado o reconhecimento da participação de menor importância com fundamento nos elementos de provas constantes nos autos, a alteração da conclusão das instâncias de origem esbarra na vedação prevista no enunciado sumular n. 7 desta Corte superior.
+4. É devida a exasperação da pena-base em razão do alto valor do bem, ainda que tenha sido restituído. Precedente.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.184.539/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023; sem grifos no original.)
+Por fim, igualmente, não há ilegalidade por suposta afronta ao disposto no art. 68 do CP, haja vista que, conforme verifica-se dos autos, na terceira fase da dosimetria foi utilizada apenas uma majorante para elevar a reprimenda. Destaca-se, ainda, que o deslocamento de causas de aumento remanescentes para a pena-base não contraria o entendimento da jurisprudência do STJ.
+Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO (ART. 157, § 2º, II, E § 2º-A, I, DO CÓDIGO PENAL). DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. MANUNTEÇÃO DA PENA-BASE. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+I - A pena foi majorada apenas pelo emprego de arma de fogo (art.
+157, § 2º-A, I, do Código Penal), por ser a causa de aumento mais grave, conforme art. 68, parágrafo único, do Código Penal. A circunstância do concurso de agentes, por sua vez, foi utilizada para exasperar a pena-base.
+II - Não há ilegalidade flagrante, uma vez que, diante do reconhecimento de mais de uma causa de aumento previstas no mesmo tipo penal, é possível o deslocamento de uma delas para a primeira fase, a fim de majorar da pena-base, desde que a reprimenda não seja exasperada, pelo mesmo motivo, na terceira etapa da dosimetria da pena e que seja observado o percentual legal máximo previsto pela incidência das majorantes. Precedentes.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.408.118/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/10/2023, DJe de 24/10/2023; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
