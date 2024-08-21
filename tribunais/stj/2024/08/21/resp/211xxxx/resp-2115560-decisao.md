@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PATRÍCIA ELENA DE OLIVEIRA BORGES, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, com pedido de efeito suspensivo, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que julgou demanda relativa à penhora de crédito referente a benefício previdenciário.
+O julgado negou provimento ao agravo de instrumento da recorrente nos termos da seguinte ementa (fl. 111):
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. CUMPRIMENTO DE SENTENÇA. CRÉDITO REFERENTE À BENEFÍCIO PREVIDENCIÁRIO. CARÁTER INDENIZATÓRIO. PERDA DA NATUREZA ALIMENTAR. PENHORA NO ROSTO DOS AUTOS DOS CRÉDITOS EXCEDENTES A 50 SALÁRIOS MÍNIMOS. POSSIBILIDADE. ARTIGO 833, § 2º, DO CPC.
+Segundo entendimento do Superior Tribunal de Justiça e deste Tribunal de Justiça, averba salarial acumulada no tempo perde o caráter alimentar, de sobrevivência, assumindo natureza indenizatória, sendo passível de penhora para fins de satisfação de obrigações independente da espécie. Assim, cabível a penhora do crédito oriundo de benefício previdenciário pretérito (auxílio-doença), visto que não mais se reveste de caráter alimentar. Penhora que, no caso, recairá apenas sobre o excedente a 50 salários-mínimos, até o limite do débito executado, resguardando montante significativo apto a garantir o sustento das executadas e de sua família, mantendo-se a sua dignidade. Incidência da regra do § 2º do artigo 833 do CPC. Penhora no rosto dos autos dos créditos excedentes a 50 salários-mínimos, até o limite do débito executado.
+AGRAVO DE INSTRUMENTO PROVIDO EM PARTE.
+Sem embargos de declaração.
+No presente recurso especial, a recorrente alega violação do art. 833, IV, do CPC.
+Sustenta que "O crédito ao qual se discute tem natureza alimentar, abrangido pelas normas de impenhorabilidade, nos termos do art. 833, IV, do Código de Processo Civil" (fl. 127).
+Aduz, outrossim, que "o recebimento de benefício previdenciário em atraso (auxílio-doença), mediante condenação judicial da entidade previdenciária, não prejudica o caráter alimentar da parcela auferida, devendo ser-lhe alcançada a proteção da impenhorabilidade por força do artigo 833,inciso IV, do Novo Código de Processo Civil, não havendo motivo para se autorizar a penhora de valores que excederem a cinquenta salários mínimos como determinou a decisão recorrida, pois também se paga oportunamente não excederia jamais o valor correspondente a quarenta salários mínimos" (fl. 127).
+Aponta divergência jurisprudencial com julgado do TRF da 4ª Região.
+Requer que seja reformado o acórdão recorrido, reconhecendo-se a impenhorabilidade da totalidade dos valores constritos referentes ao benefício previdenciário da ora recorrente e não somente o excedente a 50 salário mínimos (fl. 132).
+Apresentadas as contrarrazões (fls. 166-175), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 184-191).
+É, no essencial, o relatório.
+A irresignação merece prosperar.
+Conforme se extrai dos autos, a parte recorrente se insurge contra acórdão que determinou a penhora no rosto dos autos de valores excedente a 50 salários mínimos sob o argumento de que a verba penhorada não possui natureza salarial, mas sim caráter indenizatório, por se tratar de verba previdenciária pretérita oriunda de ação judicial movida contra o INSS. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 108-110):
+No caso, restou demonstrado, pelos documentos juntados aos autos, que a verba buscada pela agravante Patrícia em face do Instituto Nacional do Seguro Social (evento 63, OUT2),trata-se de verba referente à auxílio-doença, benefício previdenciário da agravante, valor referente à parcelas pretéritas. Logo, a quantia acumulada possui caráter eminentemente indenizatório e integrará seu patrimônio penhorável.
+A respeito do tema, o Superior Tribunal de Justiça e este Tribunal de Justiça firmaram entendimento de que a verba acumulada no tempo perde o caráter alimentar, de sobrevivência, assumindo natureza indenizatória, sendo passível de penhora para fins de satisfação de obrigações independente da espécie.
+ ..
+Portanto, o crédito oriundo de benefício previdenciário pretérito, não mais se reveste de natureza alimentar, o que afasta a incidência da regra do inciso IV do artigo 833 do Código de Processo Civil. Incidindo, contudo, a regra do § 2º do mesmo dispositivo legal, em que possível apenhora de créditos excedentes a 50 salários-mínimos.
+Dessa forma, em observância ao princípio da dignidade humana, a penhora deverá recair apenas sobre o excedente a 50 salários-mínimos, até o limite do valor executado, resguardando-se montante significativo em favor das agravantes, apto a garantir seu sustento e de sua família, uma vez que o crédito da agravante Patrícia, em 02/2023, era estimado em R$78.120,00(evento 63, OUT2; fl. 11).
+Assim, reconheço a impenhorabilidade da quantia equivalente a 50 salários-mínimos, dos créditos a serem pagos em favor da agravante Patrícia nos autos do processo 50159788520214047100,restando penhorado, o excedente, até o limite do débito executado, R$30.301,56, em 02/2023 (evento 56, DOC1).
+Merece reforma o acórdão recorrido.
+Com efeito, embora a penhora tenha recaído sobre verbas pretéritas decorrentes de auxílio-doença, não há como desconsiderar o seu caráter alimentar, porquanto se trata de valores que deveriam ter sido pagos ao beneficiário pelo INSS, que assim não o fez, o que deu causa à ação sobre a qual recaiu a penhora.
+Ressalta-se que se os valores tivessem sido corretamente pagos pelo INSS, no momento adequado, sem que houvesse a necessidade da propositura da ação, a verba estaria protegida pela regra prevista no art. 833 do CPC, não excedendo a 50 salários mínimos, de modo que o fato de ter sido paga posteriormente e de forma acumulada não é motivo para descaracterizar a natureza desses valores.
+A propósito, nos termos da jurisprudência pacífica desta Corte, "a natureza do crédito alimentar não se altera com o mero decurso do tempo" (AgInt no AREsp n. 1.519.579 /RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020.)
+No mesmo sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de responsabilidade civil, em fase de cumprimento de sentença, ajuizada em razão de acidente de trânsito.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A natureza do crédito alimentar não se altera com o mero decurso do tempo. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.424.484/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+Assim, entendo como indevida a penhora de valores previdenciários, ainda que se trate de valores atrasados não pagos, por possuir natureza alimentar, sendo essa regra excepcionada unicamente quando se tratar de penhora para pagamento de prestação alimentícia ou caso exceda a 50 salários mínimos, o que não se verifica na hipótese concreta, motivo pelo qual merece reforma o acórdão recorrido.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CRÉDITO REFERE NTE À BENEFÍCIO PREVIDENCIÁRIO. CARÁTER ALIMENTAR. IMPENHORABILIDADE. PENHORA NO ROSTO DOS AUTOS DOS CRÉDITOS EXCEDENTES A 50 SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
