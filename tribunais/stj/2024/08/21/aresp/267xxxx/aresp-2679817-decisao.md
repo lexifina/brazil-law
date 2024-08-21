@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VINICIUS DA CRUZ DA ROCHA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu recurso especial dirigido contra acórdão assim ementado (fls. 324-325):
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO INTERNO. AUXÍLIO-DOENÇA. AUXÍLIO-ACIDENTE. REQUISITOS NÃO ADIMPLIDOS.
+I - A questão relativa à aplicação do art. 932 do Novo CPC resta prejudicada com a realização do presente julgamento.
+II - Foi observado que o laudo médico pericial, elaborado em 08.11.2019, revelou que o autor sofreu acidente automobilístico em setembro/2017, e apresenta sequela de fratura de tíbia, com incapacidade parcial e permanente para atividades que exijam longas caminhadas (quesitos "28"), não podendo, em tese, exercer a atividade habitual de rurícola, mas podendo, no entanto, exercer outras atividades (quesito "24").
+III - Em consulta ao CNIS verifica-se que o demandante passou a exercer atividade urbana a partir de 12.03.2020, apresentando vínculo ativo, com remuneração a presente data, não se identificando, dessa forma, redução significativa para o exercício de atividade laboral. Deve ser apontado que sua atividade, como operador de pedágio não demanda esforço com membros inferiores.
+IV - Restou, ainda, demonstrado que o laudo pericial respondeu a todos os quesitos de forma suficiente à correta apreciação do pedido.
+V - Agravo (CPC, art. 1.021) interposto pela parte autora improvido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do apelo nobre, a parte recorrente alega divergência jurisprudencial e ofensa aos arts. 59, 62 e 86 da Lei n. 8.213/1991.
+Postula a anulação do acórdão recorrido, determinando-se que a avaliação da incapacidade laborativa para restabelecimento do auxílio-doença "seja feita de acordo com as premissas e interpretações aplicadas e/ou uniformizadas por este E. Tribunal" (fl. 382), ou que lhe seja deferido o benefício de auxílio-acidente.
+Inadmitido o recurso na origem (fls. 414-416), adveio o presente agravo, sem apresentação de contraminuta.
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ e da prejudicialidade do recurso quanto ao dissídio jurisprudencial.
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente à incidência da Súmula n. 7 do STJ, restringindo-se a afirmar que não almeja o reexame de provas.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalte-se que, para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial, sendo insuficiente a alegação genérica de que não se trata de revolvimento do conjunto fático-probatório.
+Sobre a questão:
+ ..  a agravante refuta genericamente a incidência da Súmula 7, afirmando tratar-se de mera "revaloração" do conjunto fático-probatório, e não de seu reexame. É pacífico, entretanto, o entendimento no sentido de que no "recurso com fundamento na Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório" (AgInt no AREsp 1.135.014/SP, Relator Ministro Gurgel de Faria, Primeira Turma, DJe 27.3.2020). Isso, no caso dos autos, indubitavelmente não ocorreu.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), que está em consonância com a redação do CPC/2015, em seu art. 1.021, § 1º.
+5. Agravo Interno não conhecido. (AgInt no AREsp n. 2.110.791/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+ ..
+5. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, ainda que autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ, aplicável por analogia.
+6. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+7. Afinal, inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão.
+8. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.983.212/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado na origem (fl. 276), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, permanecendo suspensa a exigibilidade das obrigações decorrentes da sucumbência, em razão da concessão do benefício da gratuidade de justiça (art. 98, § 3º, do CPC).
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSUAL CIVIL. PLEITO DE NULIDADE OU DE CONCESSÃO DE AUXÍLIO-ACIDENTE. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
