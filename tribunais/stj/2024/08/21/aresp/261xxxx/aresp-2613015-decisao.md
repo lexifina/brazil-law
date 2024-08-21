@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Sustenta o agravante não ser o caso de incidência do mencionado óbice sumular, a teor das considerações postas em sede de agravo.
+Sem contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do agravo (fls. 1.355-1.360).
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passa-se, portanto, à análise do mérito.
+Consta dos autos que a recorrida Naiama foi condenada, em primeiro grau, pelos delitos dos arts. 33 e 35 da Lei n. 11.343/2006, tendo o Tribunal de origem quando do julgamento da apelação, reformado a sentença para absolvê-la pelo delito de associação para o tráfico, o que ensejou a insurgência do Ministério Público.
+Nas razões do especial, se aponta violação dos arts. 33, § 4º, e 35 da Lei n. 11.343/2006, ao argumento de que se faz possível a valoração das provas ali descritas para que seja restabelecida a condenação da recorrida pelo delito de associação pelo tráfico, o que, por consequência, afasta a benesse do tráfico privilegiado.
+Requer o provimento do recurso.
+O Tribunal de origem, no que importa ao caso, assim se manifestou a respeito da questão (fls. 1.211-1.214):
+Entendo que a prova colhida mostrou-se insuficiente a demonstrar à existência de vínculo associativo entre a acusada Naiama, com Larisse e os menores, de forma estável e permanente, visando o comércio ilegal de drogas.
+Dos fatos narrados na denúncia, bem como das provas coletadas, não é possível se afirmar que tenham as rés firmado ajuste prévio, permanente e estável para praticarem a traficância, o que afasta a hipótese de associação. Não se pode presumir que há esse acordo apenas diante do fato de residirem juntas.
+As testemunhas ouvidas não forneceram elementos concretos e seguros acerca de suposta associação formada pelas apeladas.
+Acerca do tema, ensina Guilherme de Souza Nucci:
+ ..
+E mais: "Demanda-se a prova de estabilidade e permanência da mencionada associação criminosa." (Leis Penais e Processuais Penais Comentadas. Ed. RT: 2009 - p. 365).
+Observa-se, pois, que para a caracterização do delito de associação para o tráfico mostra-se necessária a comprovação inequívoca e incontroversa de que haja um vínculo associativo entre os envolvidos de caráter estável e permanente, com divisão de tarefas altamente organizadas e pré-determinadas.
+No caso em tela não vislumbro a comprovação de tais características. A existência de meros indícios e presunções não autoriza a condenação da acusada por um delito tão grave, impondo-se o acolhimento do princípio do "in dubio pro reo".
+Dessa forma, não foi possível extrair da investigação e, principalmente, da instrução realizada em juízo, elementos suficientes para a condenação da apelante nas iras do art. 35 da Lei 11.343106.
+ ..
+No caso concreto, observa-se que, de fato, Larisse, Naiama e dois menores residiam na mesma casa. Também incontroverso que ali era ponto de tráfico de drogas, sendo que todos tinham participação no delito. No entanto, as provas produzidas não demonstram, em relação à Naiama, a existência de um acordo prévio, com tarefas altamente organizadas e pré-determinadas.
+Dessa forma, não verifico evidenciada inequivocamente a existência de um vínculo associativo, pelo que, devida a absolvição da ré Naiama do delito capitulado no art. 35 da Lei 11.343/06.
+Como se vê, o Tribunal de origem mediante exame do acervo probatório constante dos autos, entendeu pela absolvição da recorrida pelo delito de associação para o tráfico, pois "a prova colhida mostrou-se insuficiente a demonstrar à existência de vínculo associativo entre a acusada Naiama, com Larisse e os menores, de forma estável e permanente, visando o comércio ilegal de drogas" (fl. 1.211).
+Dessa forma, para que se proceda a reforma do acórdão de modo a se desconstituir as conclusões do Tribunal de origem, com o intuito de acolher o pleito acusatório de que há nos autos prova suficiente para a configuração do delito de associação para o tráfico, verifico que se faz inevitável o aprofundamento no material fático-probatório dos autos, providência que encontra óbice na Súmula 7/STJ. A respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. AUSÊNCIA DE PROVA CONCRETA DA ESTABILIDADE E PERMANÊNCIA. ABSOLVIÇÃO MANTIDA. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO À ATIVIDADE CRIMINOSA AFASTADA PELO TRIBUNAL A QUO. REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Revela-se indispensável, para a configuração do crime de associação para o tráfico, a evidência do vínculo estável e permanente do acusado com outros indivíduos. Há que ser provado, de forma concreta e contextualizada, o crime de associação, autônomo, independentemente dos crimes individuais praticados pelo grupo associado.
+2. Hipótese em que, conforme ponderou o acórdão, "pelas próprias características do flagrante, não foi possível empreender investigações capazes de indicar o grau de envolvimento de cada um dos apelantes com essa associação e individualizar o seu eventual papel nela. Assim, não foi totalmente afastada a hipótese de que parte dos presentes não estivesse associado e prestasse trabalho eventual ao grupo, sendo que a dúvida deve favorecer todos os réus quanto à associação". Conclusão contrária demandaria revolvimento probatório, o que encontra óbice na Súmula 7/STJ.
+3. Ainda de acordo com o Tribunal de origem, não restou suficientemente comprovada a dedicação à atividade criminosa, de forma que, para afastar a minorante do tráfico privilegiado, seria necessário revolvimento de provas, incabível na via do recurso especial.
+4. A quantidade de droga apreendida, isoladamente considerada, é insuficiente ao afastamento da causa de diminuição de pena, sendo necessária a indicação de outras circunstâncias fáticas idôneas a evidenciar que o agente se dedica a atividades criminosas e/ou integra organização criminosa, o que não ocorreu no caso dos autos.
+5. Agravo regimental improvido. (AgRg no REsp n. 1.994.101/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. NATUREZA DA DROGA. QUANTIDADE. ATUAÇÃO INTERMUNICIPAL, DESPROPORCIONALIDADE NÃO VERIFICADA. DELITO DE ASSOCIAÇÃO PARA O TRÁFICO. CONFISSÃO ESPONTÂNEA. NÃO VERIFICAÇÃO. MINORANTE IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova a lastrear a tese de autoria delitiva imputada recorrente, a corroborar, assim, a conclusão aposta na motivação do decreto condenatório pelo delito do art. 35 da Lei n. 11.343/2006.
+2. Rever os fundamentos utilizados pelo Tribunal de origem, para decidir pela absolvição por ausência de comprovação do vínculo associativo estável e permanente entre os envolvidos, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, pelo óbice da Súmula 7/STJ.
+3. A sentença fixou a pena-base em 1/2, em decorrência da natureza e da quantidade da droga (1.278,60 gramas de cocaína) e as circunstâncias do delito - tráfico regional entre municípios de comarca vizinhas, ampliando o número de pessoas atingidas pela atividade criminosa, elementos não valorados em outras fases da dosimetria da pena.
+4. Ausente confissão em relação ao delito de associação para o tráfico, não faz jus o agravante à atenuante quanto ao referido crime.
+5. A configuração do crime de associação para o tráfico (art. 35 da Lei 11.343/06) afasta a aplicação da causa especial de diminuição de pena do tráfico privilegiado por evidenciar a dedicação do agente à atividade criminosa.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.139.627/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/10/2022, DJe de 7/11/2022.)
+Mantida a absolvição pelo delito de associação para o tráfico, incabível se faz o afastamento do benefício do tráfico privilegiado.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
