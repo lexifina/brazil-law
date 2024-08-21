@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CINARA GUIMARÃES MAGYAR, MARIA DE LOURDES MAGYAR BARROS à decisão de fls. 594/595, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entretanto, como dito, existe omissão no r. julgado, na medida em que, ainda que de fato possa ter havido erro material com a conseguinte ausência de indicação do permissivo constitucional no Recurso Especial, porém, percebe-se de sua fundamentação, que restaram demonstradas as hipóteses para seu cabimento, com a indicação dos dispositivos de Lei Federal violados e, ainda, com a indicação do dissídio jurisprudencial com a prova da divergência com a jurisprudência desta Côrte.
+No entanto, este não é o caso dos autos, posto que, da leitura do Recurso Especial interposto compreendem-se as controvérsias apontadas, fazendo com que o mesmo preencha os seus pressupostos, além de a questão nele tratada ser de ordem pública. Nos casos conforme acima descrito, em julgados recentes, a interpretação desta Eg. Côrte é no sentido de que é admissível recurso em caráter excepcional mesmo sem a indicação do permissivo constitucional, em prestígio ao princípio da instrumentalidade das formas e da efetividade do processo, é o que se depreende do julgamento do EAREsp 1.672.966 - MG, de relatoria da Exma. Ministra Laurita Vaz, conforme ementa abaixo, cuja íntegra segue anexa:
+ ..
+Excelência, nas dobras do recurso de Agravo interposto pelas ora Embargantes, tal matéria foi devidamente ventilada, conforme se lê do trecho que se replica abaixo:
+ ..
+Porém, esta matéria suscitada não teve sua apreciação, restando omissa na r. decisão, pelo que, requer seja suprida (fls. 600/601).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise dos autos, não se denota das razões recursais a demonstração inequívoca da hipótese de seu cabimento, razão pela qual não há qualquer vício a ser superado nestes aclaratórios, sendo certo que incide, conforme já fundamentado, o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
