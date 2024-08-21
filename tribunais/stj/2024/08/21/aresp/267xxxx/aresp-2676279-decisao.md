@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por DANIEL FRANCISCO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE REPETIÇÃO DE INDÉBITO EINDENIZAÇÃO POR DANOS MORAIS - INSTITUIÇÃO BANCÁRIA - COBRANÇA - ALEGAÇÃO DE PRESCRIÇÃO TRIENAL - ARTIGO 206, § 3º, DODE TARIFAS CÓDIGO CIVIL - DESCABIMENTO - INCIDÊNCIA DO ARTIGO 27 DO CDC -PRESTAÇÕES/DESCONTOS DE TRATO SUCESSIVO - PRESCRIÇÃO EMRELAÇÃO AOS DESCONTOS EFETUADOS ANTES DO QUINQUÊNIO QUEPRECEDE A PROPOSITURA DA AÇÃO - MÉRITO - CESTA DE SERVIÇOS -REGULARIDADE DA CONTRATAÇÃO NÃO COMPROVADA - RESTITUIÇÃO DOINDÉBITO - FORMA SIMPLES - DANO MORAL NÃO CONFIGURADO -SENTENÇA REFORMADA EM PARTE - . RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, a parte alega violação do art. 186 do CC, no que concerne à condenação da instituição bancária por danos morais, pois o recorrente teve a sua subsistência prejudicada durante anos por conduta ilícita do banco recorrido que descontou por anos valores da conta bancária, trazendo a seguinte argumentação:
+Os descontos ilegais na conta do autor ocorreram por anos, de modo que o banco prejudicou a subsistência do recorrente, impondo sobre ele a cobrança por serviço que não contratou. É nítido que os atos ilícitos praticados pelo banco (descontos ilegais) violaram direitos da personalidade do recorrente (integridade física e psíquica).
+Da leitura do acórdão, é possível verificar que o Tribunal reconheceu a falha na prestação do serviço, pois o autor não contratou tarifa cesta fácil, contudo, reformou a sentença para excluir a condenação por danos morais.
+Não se discute mais o fato de que o banco recorrido descontou por anos valores da conta bancária do autor, prejudicando sua integridade física e psíquica e a subsistência de sua família, já que foi reconhecido no acórdão.
+Sendo possível inclusive verificar no acórdão recorrido que os descontos se iniciaram em janeiro/2018 e se estenderam até dezembro/2022.
+Ou seja, durante anos o autor teve a sua subsistência prejudicada por conduta ilícita do banco recorrido (fls. 289- 290).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Por fim, para a configuração do dano moral é necessária comprovação de violação a algum direito de personalidade, conforme dispõe o inciso X, do artigo 5º, da Constituição Federal, não sendo, o mero desconto indevido, por si só, capaz de gerar dano moral indenizável.
+ ..
+In casu, não vislumbro qualquer repercussão na esfera in casu personalíssima da pretensa vítima, de modo que deve ser afastada a condenação da instituição apelante ao pagamento de dano moral (fls. 265- 267).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
