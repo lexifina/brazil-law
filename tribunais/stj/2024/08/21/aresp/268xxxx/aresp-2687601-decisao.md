@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do recurso de FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, em razão de indisponibilidade do sistema.
+Quanto ao recolhimento das custas, é necessário esclarecer que, conforme previsto no art. 8º, da Resolução STJ/GP n. 2/2017, que regulamenta o recolhimento das custas nesta Corte, no caso de indisponibilidade do sistema, o prazo para recolhimento do preparo será automaticamente prorrogado para o dia útil subsequente à retomada do serviço, se a indisponibilidade ocorrer das 6h às 23h, por período superior a 60 minutos, ininterruptos ou não.
+Em consulta ao sitio do STJ, de fato, há certificação de indisponibilidade no sistema de emissão da GRU cobrança entre os dias 23/03/2024 e 31/03/2024. Assim, o prazo para recolhimento do preparo seria automaticamente prorrogado para o dia útil subsequente à retomada do serviço.
+Dessa forma, no caso concreto, a recorrente deveria ter recolhido as custas no dia útil subsequente à retomada do serviço, independentemente de intimação ou reabertura de prazo, uma vez que a determinação já se encontra inserta na referida resolução. A providência não foi tomada no caso concreto.
+Assim, o Tribunal de origem intimou a parte com fundamento no art. 1.007, § 4º, do Código de Processo Civil, para realizar, no prazo de 5 (cinco) dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso.
+Embora regularmente intimada para efetuar o recolhimento em dobro, a parte o fez de forma simples, não regularizando o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil. Logo, correta a decisão de fls. 1264/1267 que julgou deserto o recurso especial. Incide na espécie o disposto na Súmula n. 187 deste Tribunal.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
