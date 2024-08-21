@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se segundos embargos de declaração opostos por CRISTIANO RIBEIRO SANTOS VELOSO E OUTRO contra decisão que rejeitou os primeiros embargos de declaração, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(fl. 1107)
+Em suas razões recursais, aduz a parte embargante, em síntese, que foi demonstrado que a Quarta Turma examinou o mérito da matéria, não incidindo, pois, o enunciado da Súmula 315 do STJ.
+É o relatório.
+DECIDO.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Na hipótese dos autos, do atento exame das razões desenvolvidas nos segundos embargos de declaração, constata-se que a parte embargante limita-se a repisar o argumento exposto nos primeiros embargos de declaração - de que não incidiria, na espécie, o enunciado da Súmula 315 do STJ -, deixando de apontar qualquer omissão na decisão embargada.
+3. Todavia, a decisão embargada é hialina ao esclarecer que, na hipótese dos autos, o acórdão embargado negou provimento ao agravo interno sem adentrar no mérito da controvérsia em razão da incidência das Súmulas 5 e 7 do STJ, o que atrairia a incidência da Súmula 315 do STJ.
+4. Nesse contexto, importa consignar, que os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito: AgRg no AREsp 37.045/GO, QUARTA TURMA, julgado em 5/3/2013, DJe 12/3/2013; AgInt no AREsp 1043856/SP, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017; REsp 1649296/PE, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017.
+5. Na espécie, portanto, está nítido o propósito da parte embargante de rediscutir tema que foi devidamente apreciado, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido: EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, TERCEIRA TURMA, julgado em 16/12/2014, DJe 02/02/2015; EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, DJe de 28.10.2008; EDcl no AgRg nos EREsp 545.285/RS, Primeira Seção, DJU de 1/8/2006.
+6. Além disso, importa consignar que, nos termos da jurisprudência desta Corte, os segundos embargos de declaração, sob pena de inovação recursal, "devem limitar-se a apontar vícios intrínsecos constatados no acórdão que julgou os primeiros declaratórios, de modo que são inadmissíveis quando se contrapõem aos argumentos já esclarecidos nos julgamentos anteriores" (AgInt no AREsp n. 2.097.025/SP, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022).
+7. Na espécie, observa-se que a questão suscitada em sede de novos embargos declaratórios já havia sido examinada por este órgão julgador no julgamentos dos primeiros embargos de declaração, circunstância que evidencia seu caráter meramente protelatório.
+8. Desse modo, considerando que o presente recurso não reúne os pressupostos específicos para o seu acolhimento, nos termos do art. 1.022 do CPC/2015 e, considerando o caráter manifestamente protelatório dos embargos de declaração, condeno a parte embargante a pagar à parte embargada multa de 2% do valor atualizado da causa nos termos do art. 1.026, §2º, do CPC/2015.
+Forte nessas razões, rejeito os segundos embargos de declaração, com a aplicação de multa do art. 1.026, §2º do CPC/ 15.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados, com aplicação de multa do art. 1.026, §2º do CPC/15.
