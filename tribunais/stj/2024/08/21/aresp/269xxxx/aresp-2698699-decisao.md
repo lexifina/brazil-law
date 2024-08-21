@@ -1,0 +1,21 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VALNEIA DAYSE SANTANA GABRIEL, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "c", da Constituição Federal.
+Ação: de obrigação de fazer c/c danos morais ajuizada por VALNEIA DAYSE SANTANA GABRIEL em face de GEAP AUTOGESTAO EM SAUDE visando a cobertura de cirurgias plásticas reparadoras após realização de cirurgia bariátrica no tratamento da obesidade.
+Acórdão: deu parcial provimento à apelação interposta pela GEAP AUTOGESTAO EM SAUDE, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR. OBRIGAÇÃO DE FAZER. NEGATIVADE COBERTURA PARA REALIZAÇÃO DE PROCEDIMENTO DANO MORAL. PRESUNÇÃO. MÉDICO. TEMA N.º 1069 DO STJ. QUANTUM INDENIZATÓRIO.
+1. Apelação interposta em ação cominativa consistente no pedido de cobertura de procedimento médico negada administrativamente por plano de saúde em que se discute a obrigatoriedade de cobertura e o cabimento de condenação por danos morais.
+2. Os planos de saúde devem garantir aos pacientes conveniados os tratamentos necessários à plena recuperação de sua saúde, sob pena de se macular a própria finalidade do contrato firmado, além da violação do princípio da dignidade da pessoa humana.
+3. O Eg. STJ, em julgamento sob o rito dos recursos repetitivos (Tema n.º1069), firmou entendimento de que em intervenções que não tenham finalidade puramente estética, representando a continuidade do tratamento médico contra a obesidade mórbida iniciado com a cirurgia bariátrica deve ser autorizado, máxime quando relatório médico é conclusivo nesse sentido. A necessidade ou não de instauração de junta médica ou realização de prova pericial deve ser apurada em cada caso.
+4. Caracterizada a ilicitude de negar autorização para procedimento prescrito pelo médico reparador pós-bariátrica, resta configurado o dano moral indenizável , sendo desnecessária a qualificação do sofrimento in re ipsa suportado pelo paciente que se vê diante e indevida recusa de da autorização de e cobertura para realizar procedimento médico necessário indicado por profissional.
+5. Ao arbitrar o valor da condenação por dano moral, devem ser observados os critérios apontados pela jurisprudência a fim de atender a dupla finalidade de reparar o dano e punir o ofensor, sem, contudo, distanciar-se da razoabilidade e da prudência, levando-se em consideração a potencialidade e a repercussão do ato danoso no contexto pessoal e socioeconômico da parte ofendida e a situação financeira de ambas as partes, para não consubstanciar o enriquecimento ilícito do autor, nem estimular a impunidade do réu.
+6. Deu-se parcial provimento ao recurso.
+Decisão de admissibilidade do TJDFT: inadmitiu o recurso especial em razão da incidência da Súmula 7/STJ no dissídio sobre os arts. 14, 47 e 51 do CDC, quanto à redução do valor fixado para a compensação por danos morais.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera as razões recursais quanto à abusividade configurada na recusa indevida de cirurgias reparadoras não estéticas após a realização de cirurgia bariátrica, apontando julgados divergentes sobre o montante fixado para a condenação em danos morais.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade da Súmula 7/STJ, limitando-se a reiterar as razões recursais.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
