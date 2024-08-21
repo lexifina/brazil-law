@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALEXANDRO JULIANO FERREIRA RIBEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO-CRIME. HOMICÍDIOS QUALIFICADOS CONSUMADOS E TENTADOS, PORTE ILEGAL DE ARMA DE FOGO E CORRUPÇÃO DE MENOR. RECURSO DEFENSIVO INTERPOSTO, COM FULCRO NO ART. 593, INCISO III, "D", DO CÓDIGO DE PROCESSO PENAL. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. SUPOSTA DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA. PARA QUE SE POSSA AVENTAR DA ANULAÇÃO DO VEREDITO DO TRIBUNAL DO JÚRI, COM BASE NA ALÍNEA "D" DO INCISO III DO ART. 593 DO CPP, HÁ QUE SE CONSTATAR QUE A DECISÃO TENHA SE MOSTRADO COMPLETAMENTE DIVORCIADA DOS ELEMENTOS PROBATÓRIOS. CASO EM QUE O CONJUNTO FÁTICO-PROBATÓRIO ATESTA A PLAUSIBILIDADE DA TESE ACUSATÓRIA, ASSENTANDO A MATERIALIDADE DELITIVA E O RECAIMENTO DA AUTORIA SOBRE OS ACUSADOS, VIÉS PROBATÓRIO ESTE REGULARMENTE ADOTADO PELO CONSELHO DE SENTENÇA. O TRIBUNAL DO JÚRI É CONSTITUCIONALMENTE SOBERANO, SENDO OS JURADOS LIVRES PARA FORMAR SUA CONVICÇÃO E VOTAR PELA CONDENAÇÃO OU ABSOLVIÇÃO, DESDE QUE AMPARADA NO QUADRO PROBATÓRIO, COMO NA HIPÓTESE. APELAÇÃO DESPROVIDA.
+Quanto à controvérsia recursal, alega violação do art. 155 do CPP, no que concerne à necessidade de reconhecimento de nulidade absoluta do feito desde a decisão de pronúncia, uma vez que a condenação do recorrente, prolatada pelo Conselho de Sentença, se baseou exclusivamente em elementos informativos colhidos na fase inquisitiva e não confirmados na fase judicial, trazendo a seguinte argumentação:
+Da detida análise dos autos, a versão acusatória está embasada exclusivamente em elementos colhidos na fase policial, o que é vedado pelo artigo 155 do CPP.
+ ..
+Na ocorrência do evento 1 do inquérito policial, há o registro de que ALEXANDRO "confessou ser o proprietário dos objetos apreendidos e também um dos autores dos homicídios acima referidos".
+Primeiramente, não é crível que um indivíduo, ao ser abordado pela Polícia Civil, espontaneamente, afirme ter participado de um homicídio. Outrossim, sinale-se que a suposta "confissão" de ALEXANDRO é o único elemento informativo que o colocaria na cena do crime.
+ ..
+Veja-se, é gritante a ausência de provas judicializadas, pois as próprias VÍTIMAS, mesmo conhecendo Alexandro, NÃO lhe RECONHECERAM como autor dos disparos de arma de fogo, bem como sequer visualizaram o veículo utilizado pelos atiradores, aduzindo apenas que ouviram boatos de que teria sido um Monza.
+ ..
+Desta forma, Excelências, verifica-se que o único elemento informativo, produzido em sede policial que poderia levar à conclusão de suposta responsabilidade de ALEXANDRO, não foi confirmado em sede judicial.
+Ora, a grave decisão proferida não poderia ser BASEADA EXCLUSIVAMENTE EM PROVAS COLHIDAS NA FASE INFORMATIVA (fls. 1.299/1.230).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem manifestou-se nos seguintes termos:
+A autoria restou induvidosa. O exame atento da prova revela que os três réus, tripulando um veículo monza, todos portando arma de fogo, efetuaram inúmeros disparos em direção a uma construção em que trabalhavam os ofendidos, fugindo logo depois no mesmo carro. Bruno foi apontado como aquele que teria deixado o carro utilizado para a prática dos crimes numa lavagem; o mencionado veículo estava na casa de Rafael um dia antes dos crimes; Rafael, inclusive, foi visto por uma testemunha passando momentos antes do crime encarando os trabalhadores; Alexandro estava na posse do armamento utilizado nos fatos.
+ ..
+Nesse rumo, uma vez que o corpo de jurados teve acesso a todas essas particularidades e a tese acusatória encontrou apoio em elementos dos autos, em especial aquela produzida judicialmente, assentando a materialidade delitiva e a autoria sobre os processados, não há falar em decisão manifestamente contrária à prova (fl. 1.286, grifo meu).
+Nessa linha, segundo o acórdão recorrido a condenação não estaria lastreada somente em elementos informativos do inquérito policial.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório baseado na suposta ausência de provas produzidas sobre o crivo do contraditório, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: AgRg no AREsp n. 2.030.511/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/5/2022; AgRg no AREsp n. 1.924.674/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 7/4/2022; AgRg no AREsp n. 1.773.536/AM, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/8/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
