@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por SIMONE GONCALVES MACHADO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS EMORAIS. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA QUITAÇÃO FINAL. DEMORA DA LIBERAÇÃO DO FINANCIAMENTOPOR CULPA EXCLUSIVA DA AUTORA. IMÓVEL NÃO REGISTRADO ANTE DAVENDA. COBRANÇA DE JUROS DE MORA, MULTA E HONORÁRIOSADVOCATÍCIOS AFASTADOS.
+I- Afastada a responsabilidade do réu/apelado peloatraso do pagamento da última parcela em decorrência de vício na documentação doimóvel, o que, por sua vez, embaraçou os trâmites para a liberação do financiamento,não faz jus a autora/apelante na percepção dos encargos moratórios e verbasindenizatórias pleiteadas na ação.
+II- A apelante afastou-se do trabalho, fato que colaborou com sua inadimplência, não podendo imputar todas suas reveses ao fato deo apelado ter atrasado, em apenas dois meses, o pagamento do valor financiado, ainda mais quando por culpa, exclusiva, da própria apelante.
+III- Ausente o ato ilícito eo nexo causal, não há falar em dever de reparação, a manutenção da sentença deimprocedência se impõe. APELO CONHECIDO, PORÉM DESPROVIDO" (e-STJ fl. 515).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 538-545 e 571-577) com a condenação da embargante ao pagamento de multa no valor de 2% sobre o valor atualizado da causa, com fundamento no artigo 1.026, §§ 2º e 3º, do Código de Processo Civil.
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 371, 373, I, e 489, § 1º, do CPC
+Sustenta a tese de negativa de prestação jurisdicional ao argumento de que o Tribunal de origem foi omisso em relação à análise de todo o conjunto probatório existente nos autos e não levou em consideração a documentação juntada pela recorrente.
+Defende que "o acórdão proferido não se atentou às peculiaridades constantes na situaçãoem debate, tal comoos desembargadores não se aprofundaram na análise do contrato pactuado entre as partes, se omitindo quanto a análise de todo o conjunto probatório" (e-STJ fl. 589).
+Afirma que há documentos nos autos que comprovam que "a data de assinatura do contrato está corretamente aposta no documento" (e-STJ fl. 587).
+Argumenta que
+"A devida análise das provas produzidas pela Recorrente, constantes, inclusive, no CONTRATO PACTUADO entre as partes, são capazes de alterar o julgamento da lide, uma vez que demonstram efetivamente que não há possibilidade de o contrato ter sido assinado em maio de 2017, como asseverado pelo Apelado e acatado pelos julgadores" (e-STJ fl. 588).
+Insiste que
+"apesar do Recorrido ter alegado que teve seu pedido definanciamento negado pela Caixa Econômica Federal por irregularidades nadocumentação do imóvel, não apresentounenhuma sequer prova de que tenha notificado aRecorrente quanto a situação levantada na contestação e que tal fato impediria a liberação do financiamento" (e-STJ fl. 589).
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto aos documentos juntados aos autos, sobretudo quanto às razões que levaram à conclusão de que o contrato foi assinado em maio de 2017 e ao afastamento da responsabilidade da parte contrária, conforme se verifica do seguinte trecho do acórdão:
+"Preambularmente cabe destacar que a autora/apelante defende que o contrato foi celebrado em 25/02/2017, quando na realidade foi concretizado em maio de 2017. O fato de constar a data informada pela recorrente no pacto, na realidade, trata-se de erro material, o foi confirmado pela imobiliária ARAGUAIA BUSINESS em resposta ao ofício a ela encaminhado pela condutora dofeito.
+A referida empresa imobiliária intermediou a negociação entre as partes e traz aos autos asseguintes informações, verbis:
+"(..) informa que apesar de o Contrato Particular de Compromisso deCompra e Venda encontrar-se com data de 25 de fevereiro de 2017,segundo pode-se observar no relatório e nos comprovantes derepasses de aluguéis feitos para a Sra. SIMONE GONÇALVESMACHADO (em anexo - Doc. 02) a redução do aluguel se deu a partirdo mês maio de 2017 em decorrência da venda do imóvel para o Sr. DANIEL DE CASTRO RODRIGUES." (mov. 71, vide anexos) Grifei
+O apelado, antes de comprar o imóvel da apelante, lá residia como inquilino, sendo que após a assinatura do contrato foi-lhe dado abatimento, desconto, no valor do aluguel até ultimada a quitação.
+Destarte, resta patente que o contrato foi assinado em maio de 2017, findando, pois, o prazo de 90 dias para o pagamento da última parcela, referente ao financiamento, em agosto de 2017.
+Logo, como o réu/apelado efetivou o pagamento final em outubro de 2017, a priori, estaria em mora de, apenas, dois meses e não cinco como alegado pela apelante.
+Todavia, fato superveniente, e omitido pela autora, ora recorrente, veio à tona no processo como forma de exclusão da responsabilidade do requerido pelo atraso na concessão do financiamento pela instituição financeira, qual seja, o imóvel, objeto contratual, padecia de registro de propriedade, restando, ainda, em nome da empresa construtora, TCI PROJETO IMOBILIÁRIOL "ESSENCE PLATINE LTDA que, a seu turno, encontrava-se sob recuperação judicial o que, por consequência, vinculou o imóvel em questão, nos termos do ofício emitido pela Caixa Econômica Federal. Confira-se:
+(..)
+Nesta esteira, afastada a responsabilidade do réu/apelado pelo atraso do pagamento da últimaparcela em decorrência de vício na documentação do imóvel, o que, por sua vez, embaraçou ostrâmites para a liberação do financiamento, não fazendo jus a autora/apelante na percepção dosencargos moratórios e verbas indenizatórias pleiteadas na ação.
+Quanto ao compromisso por ela assumido na aquisição do terreno em Foz do Iguaçu/PR, nãologrou êxito na comprovação que a rescisão do novo negócio se deu pelo atraso na liberação dofinanciamento do negócio anterior, objeto desta ação, não guardando prudência em contrairdívida sem contar, antes, com os recursos financeiros certos e líquidos para garantir a segurançada adimplência.
+Ademais, como informado pela própria nos autos, a apelante afastou-se do trabalho por motivosde saúde, fato que colaborou com sua inadimplência, além de ter dispor mais dos valores pagospelo apelado, não podendo, assim, imputar a este todas suas reveses pelo atraso de apenas 02(dois) meses do pagamento final do contrato, ainda mais quando por culpa, exclusiva, da própria apelante que não providenciou o registro do imóvel em seu nome antes de aliená-lo.
+(..)
+Destarte, ausente o ato ilícito e o nexo causal, não há falar em dever de reparação, agindo, pois,com acerto a julgadora do primeiro grau ao proferir sentença de improcedência, o que mantenho" (e-STJ fls. 511-513).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+De outro lado, com relação ao mérito, rever o entendimento firmado pelas instâncias ordinárias demandaria, necessariamente, o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
