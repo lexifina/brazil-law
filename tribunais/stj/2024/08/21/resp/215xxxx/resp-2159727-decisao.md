@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por HAROLDO CARLOS RAMALHO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição da República, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS proferido na Apelação Cível n. 0000063-75.2022.8.27.2734, ementado nos seguintes termos (fl. 467):
+ADMINISTRATIVO E PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE PENALIDADE ADMINISTRATIVA. DEMISSÃO DE SERVIDOR. PRESCRIÇÃO QUE ATINGE APENAS A PRETENSÃO EM RELAÇÃO AO ATO DE DEMISSÃO. PRAZO QUINQUENAL. POSSIBILIDADE DE QUESTIONAR O PROCESSO DE REVISÃO. CONTROLE DO ATO ADMINISTRATIVO.
+1. A revisão administrativa do processo disciplinar dos servidores do Estado do Tocantins não se submete a prazo prescricional.
+2. A revisão do ato de demissão pela autoridade administrativa, a qualquer momento, não se confunde com pretensão de revisão judicial do ato, a qual se sujeita ao prazo prescricional geral das ações contra a Fazenda Pública, previsto no Decreto nº 20.910/1932.
+3. O processo administrativo de revisão é autônomo em relação ao processo disciplinar anterior e a prescrição da pretensão para a sua impugnação na via judicial deve ser analisada individualmente.
+4. Cabe a verificação dos requisitos substanciais do ato administrativo, com a análise dos pressupostos, de fato e de direito, que levaram à sua formação, em razão da legalidade estrita que vincula a administração pública.
+5. Não comprovada a ilegalidade do procedimento administrativo de revisão, deve ser julgado improcedente o pedido de anulação do ato administrativo.
+6. Recurso parcialmente provido, para afastar prescrição do processo de revisão, e julgar improcedentes os pedidos iniciais.
+Consta dos autos que o Juízo singular declarou prescrita a pretensão autoral de revisão da penalidade de demissão, com reintegração ao cargo público anteriormente ocupado.
+Irresignado, o autor, ora recorrente, interpôs apelação, que foi parcialmente provida para reformar parcialmente a sentença e afastar a prescrição da pretensão em relação ao processo de revisão e, por conseguinte, julgar improcedente o pedido (fls. 457-462).
+Os embargos de declaração opostos foram rejeitados (fls. 516-519).
+Nas razões recursais, a parte recorrente alega, além de divergência jurisprudencial, ofensa aos arts. 3.º e 198, incisos I e II, ambos do Código Civil e 489, § 1.º, inciso IV, e 1.022, ambos do Código de Processo Civil.
+Argumenta que "nem na primeira instância nem nos acórdãos proferidos nesses autos foi enfrentada a ocorrência da condição suspensiva da prescrição preferida no artigo 198, I do Código Civil" (fl. 550).
+Sustenta que o Juízo singular "reconheceu a prescrição como prejudicial de mérito, ignorando que o fundamento da Ação é exatamente o fato da existência de doença incapacitante que impedia a contagem de prazo da prescrição" (fl. 547).
+Assinala que "na época da demissão o Autor estava acometido por doença grave que afetava seu discerniment o" (fl. 547) e que a referida condição "seria comprovada na instrução processual, que não ocorreu por causa da sentença precoce proferida reconhecendo justamente a prescrição" (fl. 547).
+Requer o provimento do recurso para que seja afastada a prescrição reconhecida pelas instâncias originárias, com "retorno dos autos à origem para instrução processual sobre a condição incapacitante do Recorrente para se aferir a existência ou não da prescrição" (fl. 552).
+Contrarrazões às fls. 558-569.
+O recurso especial foi admitido (fls. 584-587).
+É o relatório.
+Decido.
+De início, ressalto que o acórdão recorrido não possui os vícios suscitados pela parte recorrente.
+Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão no sentido de que a parte "colaciona meras alegações desacompanhadas de prova de que o alcoolismo o impedia de exprimir sua vontade de forma permanente ou provisória" (fl. 518).
+O Tribunal a quo também salientou que "o único laudo que tem nos autos do procedimento administrativo consta que este se tratou nos anos de 2000 a 2002, o que ainda assim faria incidir a prescrição do ato de demissão" (fl. 518).
+Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento.
+No caso, existe m ero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável.
+Inexiste, portanto, ofensa aos arts. 489, § 1.º, inciso IV, e 1.022, ambos do CPC/2015. Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+No mais, destaco, para a adequada análise da controvérsia, os seguintes trechos do acórdão impugnado (fls. 517-548; sem grifos no original):
+No caso em testilha, verifico que não assiste qualquer razão ao Embargante, visto que toda a matéria devolvida ao Tribunal foi enfrentada por esta Corte, decidindo integralmente a questão de mérito, apreciando as alegações da parte, bem como as provas coligidas ao feito e expondo com lucidez os fundamentos do decisum, haja vista que o não acolhimento da tese da apelante/embargante não implica omissão do julgado.
+ ..
+Ademais, quanto ao fato de interrupção da prescrição por ser absolutamente incapaz na época da demissão ante o alcoolismo, o que se tem é que a parte colaciona meras alegações desacompanhadas de prova de que o alcoolismo o impedia de exprimir sua vontade de forma permanente ou provisória, sendo que o único laudo que tem nos autos do procedimento administrativo consta que este se tratou nos anos de 2000 a 2002, o que ainda assim faria incidir a prescrição do ato de demissão, que ocorreu no ano de 2001, sendo que o pedido de revisão foi apenas no ano de 2010.
+No entanto, a parte recorrente, nas razões do recurso especial, deixou de impugnar os fundamentos acima destacados (não há prova da ocorrência da causa impeditiva da prescrição do art. 198, inciso I, do Código Civil; mesmo que considerado o laudo juntado aos autos, a pretensão autoral ainda estaria prescrita), que são suficientes, por si sós, para manter o acórdão recorrido.
+Portanto, incide o óbice da Súmula n. 283 do STF. Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Outrossim, para se alterar a conclusão da instância de origem de que "a parte colaciona meras alegações desacompanhadas de prova de que o alcoolismo o impedia de exprimir sua vontade de forma permanente ou provisória" (fl. 518), seria necessário revolver o conjunto dos fatos objeto dos autos, o que é incabível nesta via, nos termos da Súmula n. 7 do STJ.
+Com igual conclusão, mutatis mutandis:
+ ..
+3. Impossibilidade de afastar a conclusão acerca da incapacidade permanente do agravante, pois essa demandaria o efetivo reexame do contexto fático-probatório dos autos e não a mera valoração da prova, o que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno da particular a que se nega provimento. (AgInt no AREsp n. 1.906.336/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022; sem grifos no original.)
+De outra parte, registro que o art. 198, inciso II, do Código Civil não possui comando normativo capaz de amparar a tese nele fundamentada, que está dissociada de seu conteúdo, o que caracteriza a ausência de delimitação da controvérsia e atrai a incidência da Súmula n. 284 do STF.
+Nesse sentido AgInt no REsp n. 1.930.411/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2023, DJe de 6/9/2023; AgInt no REsp n. 1.987.866/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/8/2022, DJe de 15/8/2022.
+Por fim, segundo entendimento desta Corte Superior, a existência de óbice processual que impediu o conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da alegada divergência jurisprudencial acerca do tema.
+Nesse sentido: AgInt no AREsp n . 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt no REsp n. 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/12/2023, DJe de 14/12/2023.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE provimento.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 394), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. DEMISSÃO. PROCESSO DE REVISÃO. ACÓRDÃO RECORRIDO. SUPOSTA OMISSÃO. NÃO OCORRÊNCIA. NÃO IMPUGNADOS TODOS OS FUNDAMENTOS DO ACÓRDÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. PROVA DA INCAPACIDADE ABSOLUTA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. SUPOSTA OFENSA AO ART. 198, INCISO II, DO CÓDIGO CIVIL. APLICAÇÃO DA SÚMULA N. 284 DO STF. DISSÍDIO PREJUDICADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
