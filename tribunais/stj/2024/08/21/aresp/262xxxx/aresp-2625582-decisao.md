@@ -1,0 +1,55 @@
+DECISÃO
+Considerando o Pacto Nacional do Judiciário pela Linguagem Simples (CNJ/Recomendação nº 144/2023 e CNJ/Resolução nº 376/2021), adoto o relatório de fl. 442 (e-STJ):
+"Trata-se de agravo interposto com fulcro no artigo 1.042 do Código de Processo Civil, por José Marcos da Silva, contra decisão da 2ªVice-Presidente do Tribunal de Justiça do Estado da Bahia, que inadmitiu o recurso especial, ante o óbice dos enunciados sumulares 7e 83, ambos desse e. Superior Tribunal de Justiça.
+No presente agravo, reitera o pleito de nulidade do julgamento contrário as provas dos autos, porquanto manteve a indevida condenação do agravante na figura do homicídio por motivo fútil, sendo aludida "qualificadora manifestamente improcedente."
+Decido.
+Trata-se de agravo interposto por JOSÉ MARCOS DA SILVA contra decisão proferida pela 2ª Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, que inadmitiu seu recurso especial com espeque nas Súmulas 7 e 83 do STJ (e-STJ fls. 380-387).
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, os óbices aplicados na origem foram devidamente rebatidos.
+Passo ao exame do recurso especial.
+O recorrente foi condenado pelo Tribunal do Júri à pena de 12 (doze) anos, 01 (um) mês e 20 (vinte) dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, II, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação alegando manifesta contrariedade da decisão dos jurados às provas dos autos.
+A Corte local negou provimento ao apelo, afastando a referida tese nos seguintes termos (e-STJ fls. 310-321 ):
+"Do que se extrai do texto legal, tem-se evidente que a decisão dos jurados passível de revisão pela instância recursal não é aquela que apenas aprecia a prova de modo eventualmente equivocado, mas, sim, a que dela destoa por inteiro, firmando-se em sua manifesta contrariedade.
+(..)
+No caso do presente feito, do que se extrai da respectiva autuação virtual, não há como se caracterizar o entendimento alcançado pelo Conselho de Sentença como manifestamente contrário ao conjunto probatório.
+Na origem, foram expressamente contrapostas duas teses antagônicas acerca da motivação delitiva, ambas objetivamente submetidas aos jurados, que apenas optaram por uma delas, conforme evidencia a respectiva ata da sessão plenária (ID 46324920).
+De acordo com o ali registrado, o Ministério Público requereu "a condenação do acusado pela prática do crime de homicídio qualificado pelo motivo fútil, na modalidade consumada", ao passo que a Defesa "pugnou pela absolvição por inexigibilidade de conduta diversa, homicídio privilegiado e exclusão da qualificadora".
+(..)
+Contrapostas as teses, houve adesão à opção positiva pelo Conselho de Sentença, ou seja, acolheu-se a narrativa pela qual o Recorrente, após ser xingado pela vítima de "filho de rapariga", desferiu-lhe golpes com uma faca, ceifando-lhe a vida.
+Nesse espectro, a percuciente análise da prova e dos depoimentos colhidos no feito, em detrimento do que sustenta o recurso, não favorece à tese defensiva de que todos os elementos conduziriam, inequivocamente, ao reconhecimento de motivação diversa, para o que, repise-se, seria necessário não haver qualquer deles que apontasse em sentido contrário.
+Em verdade, independentemente de ser ou não a tese mais adequada ao contexto dos fatos, há nos autos elementos de convicção claros no sentido deque o Réu praticou a conduta que lhe é imputada após o xingamento da vítima, ou seja, agindo pela motivação fútil que lhe foi imputada.
+(..)
+Em Juízo, na fase instrutória, a testemunha Samuel Jacinto de Castro, asseverou:
+Que é verdade o que falam os autos de que a vítima estava bebendo ou conversando com ele e teria chamado ele de filho de rapariga e foi por isso que ele se armou com essa faca e desferiu golpes. Que agora está se recordando que teve esse fato de eles estarem bebendo e aconteceu a discussão pela questão de ter chamado ele de filho de rapariga, ter xingado ele por alguns nomes. Que então ele, naquele momento, desferiu os golpes contra o enteado." Ex vi degravação contida na sentença, a partir dos registros em vídeo - ID 46324838.
+O mesmo relato foi apresentado pela testemunha Edison de Araújo Reis:
+Que confirma que ele disse ao depoente que realmente foi ele e que ele esfaqueou ele até a morte por conta desse impropério, chamou ele de filho de rapariga. Que não se lembra se ele estava apresentando sintomas de embriaguez. Que ele não estava abalado com a situação, estava muito tranquilo.
+Que não se recorda da arma utilizada. Que não se recorda se a arma foi localizada ou se ele estava com ela (..)". Idem.
+(..)
+Diante do aludido arcabouço probatório, deflui-se que, ao contrário da narrativa recursal, a tese de atuação do Réu por motivação fútil encontra lastro probatório, sobretudo porque ausentes elementos que apontem outra eventual.
+Logo, ainda que se admita, por hipótese, ter o Réu intimamente intentado matar a vítima por outra circunstância, não se pode dizer que as conclusões do Conselho de Sentença quanto à motivação sejam "manifestamente contrárias à prova dos autos", sobretudo para que se a venha a reformar. Afinal, repise-se mais uma vez, em prestígio à soberania dos vereditos do Tribunal do Júri, não cabe à Segunda Instância apenas corrigir decisão que eventualmente acolhe a tese equivocada no julgamento de origem."
+Na análise do caso, saliento, de início, que o princípio da soberania dos veredictos é basilar, de modo que, ausente manifesta ilegalidade, não se pode retirar dos jurados a possibilidade de decidir o caso concreto, de acordo com as provas apresentadas pela acusação e pela defesa.
+À vista disso, não é possível, sob pena de usurpação da competência concedida aos jurados pelo texto constitucional, proceder a uma extensa valoração das provas para aferir se é ou não o caso de anular o julgamento em razão da alegada improcedência da qualificadora do motivo fútil.
+Acrescento que n ão cabe ao Superior Tribunal de Justiça reformar ou anular decisão das instâncias ordinárias que foi proferida sob a égide do devido processo legal.
+No caso concreto, os jurados escolheram uma das teses que possui amparo nos elementos de informação e provas, não cabendo a incursão pormenorizada nessa seara, sob pena de incorrer em revolvimento fático-probatório. (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Sobre o tema, "para af astar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Nesse sentido a jurisprudência desta Corte de Justiça:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. OFENSA À NORMA CON STITUCIONAL. INVIABILIDADE. OFENSA AO 155 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à ofensa ao art. 5º, LV, da Constituição Federal - CF, "tem-se que tal pleito não merece subsistir, uma vez que a via especial é imprópria para o conhecimento de ofensa a dispositivos constitucionais" (AgRg no AREsp 1072867/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 18/4/2018).
+2. Não há falar em violação do art. 155 do CPP, pois a prova utilizada para a condenação do agravante não deriva exclusivamente dos elementos colhidos na fase extrajudicial, mas também das provas que foram ratificadas em juízo sob o crivo do contraditório, como os depoimentos dos policiais envolvidos na ocorrência.
+3. Para rever a conclusão do Tribunal de origem acerca da existência de provas da autoria delitiva, para o fim de absolver o agravante, seria necessário o revolvimento fático-probatório, o que encontra óbice na Súmula n. 7 do STJ.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.266.469/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO E LATROCÍNIO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. CONTINUIDADE DELITIVA INAPLICÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, a Corte de origem, após a análise acurada dos elementos probatórios, entendeu comprovada a autoria dos agentes e a materialidade do delito.
+2. Alterar a conclusão a que chegaram as instâncias ordinárias e decidir pela desclassificação do delito ou absolvição dos agravantes demandaria revolvimento do acervo fático-probatório dos autos, procedimento que encontra óbice na Súmula 7/STJ.
+3. No que diz respeito ao crime continuado, vale salientar que, no caso dos crimes de roubo majorado e latrocínio, sequer é necessário avaliar o requisito subjetivo ou o lapso temporal entre os crimes, porquanto não há atendimento do requisito objetivo da pluralidade de crimes da mesma espécie.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 2.002.341/TO, relator Ministro Ribeiro Dantas, Quint a Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. APLICABILIDADE DA SÚMULA N. 182 DO STJ. REVISÃO CRIMINAL. LATROCÍNIO TENTADO. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. SÚMULA N. 7 DO STJ. REDUÇÃO DA PENA. CIRCUNSTÂNCIAS DO CRIME. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se conhece de agravo em recurso especial que deixa de atacar, especificamente, todos os fundamentos utilizados pelo Tribunal de origem para negar o processamento do apelo especial (art. 253, parágrafo único, I, do RISTJ).
+2. Na espécie, o agravante deixou de combater o fundamento da decisão agravada, daí a aplicação do enunciado sumular n. 182 desta Corte Superior.
+3. Para afastar a conclusão do acórdão recorrido e decidir pela absolvição do réu ou pela desclassificação da imputação, seria necessário o reexame do material probatório, a fim de averiguar, por exemplo, se o recorrente não agiu com animus necandi, quis participar de crime menos grave ou, mesmo, se assumiu o risco de produzir o resultado morte. Óbice da Súmula n. 7 do STJ.
+4. A exasperação da pena-base do réu está devidamente fundamentada.
+Jurisprudência do Superior Tribunal de Justiça.
+5.Agravo regimental não conhecido. (AgRg no AREsp n. 2.002.317/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/3/2022, DJe de 16/3/2022.) (Grifos acrescidos)."
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
