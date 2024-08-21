@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/08/2024 a 21/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA SÚMULA N. 182 DO STJ NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE DIVERGÊNCIA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. No caso, não se conheceu do agravo em recurso especial, diante da aplicação da Súmula n. 182 do STJ, e o agravo interno foi desprovido, adotando-se fundamentos destinados a manter a inadmissibilidade do recurso especial e a própria incidência da referida súmula.
+2. Em tal contexto, não há divergência entre o acórdão embargado e o aresto proferido nos EREsp n. 1.424.404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, da CORTE ESPECIAL, em que se considera, no julgamento do agravo em recurso especial, "inafastável o dever de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes".
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que indeferiu liminarmente embargos de divergência, os quais visavam à reforma de acórdão que não conheceu de agravo nos próprios autos em razão do óbice da Súmula n. 182 desta Corte.
+Em suas razões, a parte agravante sustenta que, no acórdão paradigma, "foi reconhecido que, em certas circunstâncias, a exigência de impugnação específica de cada fundamento da decisão agravada deve ser mitigada para permitir a análise de questões jurídicas relevantes, essencialmente quando a não análise do mérito poderá resultar em prejuízos severos ao direito material das partes.  ..  É exatamente o que ocorre no presente caso, pois apesar de ao elaborar os argumentos do recurso ter se prezado por uma impugnação abrangente e minuciosa, reconhecendo a importância de garantir que todos os dispositivos legais levantados fossem analisados, de modo a permitir o julgamento do mérito, o Recurso Especial inadmitido" (e-STJ fls. 649/650).
+Por fim, ratifica as razões para a reforma do acórdão embargado e requer o provimento do recurso (e-STJ fl. 660).
+Foi apresentada impugnação às fls. 667/676 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA SÚMULA N. 182 DO STJ NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE DIVERGÊNCIA ENTRE OS CASOS CONFRONTADOS. DECISÃO MANTIDA.
+1. No caso, não se conheceu do agravo em recurso especial, diante da aplicação da Súmula n. 182 do STJ, e o agravo interno foi desprovido, adotando-se fundamentos destinados a manter a inadmissibilidade do recurso especial e a própria incidência da referida súmula.
+2. Em tal contexto, não há divergência entre o acórdão embargado e o aresto proferido nos EREsp n. 1.424.404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, da CORTE ESPECIAL, em que se considera, no julgamento do agravo em recurso especial, "inafastável o dever de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes".
+3. Agravo interno a que se nega provimento.
+VOTO
+A parte agravante não desenvolveu nenhum argumento apto à modificação da decisão agravada, a qual deve ser mantida.
+Os embargos de divergência foram indeferidos liminarmente sob os seguintes fundamentos (e-STJ fls. 638/640):
+Trata-se de embargos de divergência em agravo em recurso especial interpostos contra aresto prolatado pela TERCEIRA TURMA, Relator Ministro HUMBERTO MARTINS, assim ementado (e-STJ fl. 510):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. Para que se considere adequadamente impugnada a Súmula n. 7/STJ, o agravo em recurso especial deve empreender um cotejo entre os fatos estabelecidos no acórdão recorrido e as teses recursais, mostrando em que medida essas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.
+3. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 551/556).
+A parte embargante defende que o acórdão recorrido divergiu de julgamento da CORTE ESPECIAL, nos EREsp n. 1.424.404/SP, Relator Ministro LUIS FELIPE SALOMÃO. Afirma que, "Nos termos do julgamento dos Embargos de Divergência em REsp nº 1.424.404/SP, que reconheceu a inaplicabilidade da Súmula 182 naqueles autos, identificamos uma extrema semelhança fática e jurídica com o presente caso, a qual possui o condão de aplicar o entendimento mais adequado ao presente recurso, possibilitando a análise de mérito do Recurso Especial interposto pela embargante.  ..  Isto pois, o EREsp 1.424.404/SP, julgado pela Primeira Turma (sic), demonstra abordagem jurisprudencial mais adequada, uma vez que naqueles autos foi reconhecido que, em certas circunstâncias, a exigência de impugnação específica de cada fundamento da decisão agravada deve ser mitigada para permitir a análise de questões jurídicas relevantes, essencialmente quando a não análise do mérito poderá resultar em prejuízos severos ao direito material das partes.  ..  Inclusive, o julgamento paradigma também decidiu matéria integralmente legal/normativa, no qual entendeu-se pela inaplicabilidade da Súmula 182 do STJ, e por consequência, a desnecessidade de impugnação de todos os tópicos abordados em sede de denegatória de Recurso Especial, sobretudo quando tratar-se de decisão proferida em capítulo único" (e-STJ fl. 567).
+Após realizar a síntese da demanda, pede a reforma do acórdão embargado, para afastar a aplicação da Súmula n. 182/STJ em relação ao agravo interno (e-STJ fl. 576).
+É o relatório.
+Decido.
+Passo à análise dos embargos de divergência com relação ao pretenso conflito entre o aresto recorrido da TERCEIRA TURMA e os EREsp n. 1.424.404/SP, Relator Ministro LUIS FELIPE SALOMÃO, da CORTE ESPECIAL.
+No caso, o acórdão recorrido não conheceu do agravo nos próprios autos, em razão do óbice da Súmula n. 182/STJ, tendo em vista a falta de impugnação específica de diversos fundamentos do juízo de admissibilidade do recurso especial, feito no Tribunal de origem - "a parte agravante não rebateu o não cabimento de REsp por ofensa a norma diversa de tratado ou lei federal, ausência de afronta ao art. 1.022 do CPC e a incidência da Súmula 7/STJ, quanto à fixação da verba honorária" (e-STJ fl. 514). Por outro lado, o paradigma proveu os embargos de divergência para afastar a aplicação da Súmula n. 182 do STJ tão somente no julgamento do agravo interno. No que se refere ao julgamento do agravo em recurso especial, interposto contra a decisão que inadmitiu o especial, declarou a aplicação da referida súmula "no sentido de ser inafastável o dever de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes" (e-STJ fl. 580).
+Para efeito da aplicação da Súmula n. 182 do STJ, portanto, na linha da jurisprudência do STJ, o paradigma fez distinção entre o agravo em recurso especial e o agravo interno.
+Assim, os acórdãos confrontados estão consoantes, inexistindo divergência de teses.
+Ante o exposto, com fundamento no art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Como fundamentado, não há discordância entre os arestos confrontados, pois ambos afirmam que, tratando-se de agravo em recurso especial, "inafastável o dever de impugnar especifica mente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes".
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
