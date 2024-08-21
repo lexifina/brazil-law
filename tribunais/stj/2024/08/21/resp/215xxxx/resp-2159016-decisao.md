@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+AGRAVO DE INSTRUMENTO. PRECATÓRIO. PENHORA NO ROSTO DOS AUTOS. PRECATÓRIOS COM DESTAQUE DE HONORÁRIOS CONTRATUAIS EXPEDIDOS ANTERIORMENTE. DIREITO DO ADVOGADO. PRECEDENTES. PROVIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, em síntese (fls. 117/129):
+A despeito de possuir natureza alimentar, o crédito decorrente de honorários advocatícios não se equipara aos créditos trabalhistas, do que se conclui que não têm preferência sobre os créditos tributários Destarte, omisso o acórdão regional quanto ao fato de que os honorários contratuais não são equiparados a créditos trabalhistas, embora possuam natureza alimentar, sofrendo a preferência do crédito tributário. Vale assinalar, ainda, a OMISSÃO do acórdão regional quanto ao fato de que a norma prevista no art. 186 da Lei nº 5.172/1966 - Código Tributário Nacional, que tem natureza de lei complementar prevalece sobre o disposto no art. 85, parágrafo 14, do CPC. A questão não é a natureza alimentar dos honorários advocatícios, mas sim o estabelecimento de uma preferência, em detrimento do crédito tributário, apenas por uma lei ordinária (artigo 85), ou seja, sem a edição da Lei Complementar exigida pela Constituição Federal  ..  Reitera-se que o Superior Tribunal de Justiça, seguindo nesse mesmo sentido, também possui precedentes com entendimento de que os honorários se enquadram no conceito de verba de natureza alimentícia; não tendo, no entanto, preferência em relação aos créditos tributários, como a referida regra insculpida no art. 186 do CTN.
+Com contrarrazões da parte recorrida, o recurso foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 65/67):
+A reserva de honorários advocatícios contratuais ocorre sobre crédito livre e desembaraçado em favor do titular do precatório, de forma que os patronos têm seu direito assegurado quando apresentarem o pedido de destaque de honorários antes da formalização da penhora. Nesse sentido, confiram-se os seguintes precedentes do colendo Superior Tribunal de Justiça e deste TRF5:
+ ..
+Os fundamentos dos precedentes transcritos aplicam-se à hipótese dos autos. A expedição destacada do precatório relativo aos honorários contratuais se deu antes mesmo da penhora levada a efeito sobre o crédito no âmbito de execuções fiscais movidas contra a empresa devedora, razão pela qual os advogados têm direito à percepção dos valores objeto do destaque.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação.
+Pois bem.
+O Supremo Tribunal Federal, ao apreciar Questão de Ordem no AI 791.292/PE, firmou tese segundo a qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas". Não obstante, os órgãos judiciais estão obrigados a enfrentar, de forma adequada, coerente e suficiente, as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+Nessa linha, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+No caso dos autos, não se verifica violação dos referidos dispositivos, na medida em que a fundamentação adotada pelo órgão julgador torna desnecessária a integração pedida nos aclaratórios.
+Com relação à penhora dos honorários advocatícios contratuais destacados do precatório, o conhecimento do recurso encontra óbice na Súmula 283 do STF, pois as razões recursais não veiculam impugnação específica ao fundamento de que o destaque ocorreu antes da penhora.
+E esse fundamento é relevante e suficiente à manutenção do acórdão recorrido porque este Tribunal Superior tem orientação segundo a qual, "se o pedido de destaque dos honorários advocatícios foi formulado em momento anterior à penhora, não há falar em impossibilidade de reserva" (AgInt nos EDcl no AgInt no REsp n. 1.987.170/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
