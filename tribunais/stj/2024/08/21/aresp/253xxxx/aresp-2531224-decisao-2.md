@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA ELIZABETH UBERTI MOREIRA contra decisão que não admitiu o recurso especial, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 240):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. EMPRÉSTIMO PESSOAL. COMPOSIÇÃO DE DÍVIDAS.
+AFERIÇÃO DA ABUSIVIDADE DOS JUROS REMUNERATÓRIOS QUE SE DÁ PELO COTEJO DO PERCENTUAL CONTRATADO E DAQUELE PRATICADO PELO MERCADO À ÉPOCA DA ASSINATURA PARA CONTRATAÇÕES DA MESMA NATUREZA. A TAXA QUE DEVE SER PARÂMETRO É AQUELA REFERENTE À CONTRATOS DE REFINANCIAMENTO. SENTENÇA REFORMADA NO PONTO. POR CONSEQUÊNCIA DA CONSTATAÇÃO DA ABUSIVIDADE, É DESCARACTERIZADA A MORA, POSSÍVEL A COMPENSAÇÃO E REPETIÇÃO SIMPLES DOS VALORES CONTRATADOS. VERBA SUCUMBENCIAL MANTIDA.
+APELO PARCIALMENTE PROVIDO, POR MAIORIA.
+Opostos embargos de declaração pela parte ora insurgente, foram rejeitados (e-STJ, fls. 267-269).
+Nas razões do recurso especial, a recorrente alegou, além de divergência jurisprudencial, violação ao art. 85, §§ 8º e 8º-A, do CPC/2015.
+Aduziu, em síntese, pela majoração do valor fixado a título de honorários em R$ 1.000,00 (mil reais), de acordo com o montante recomendado pela Tabela da OAB/RS de 2022.
+Contrarrazões apresentadas às fls. 374-391 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial (e-STJ, fls. 397-400).
+Brevemente relatado, decido.
+Com efeito, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; AgRg no AREsp n. 773.710/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016; AgRg no Ag n. 1.056.913/SP, Relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008).
+Nessa linha de intelecção, o entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Em observância ao princípio da dialeticidade, mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ.
+2. O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC).
+3. O julgamento monocrático do presidente do Superior Tribunal de Justiça antes da distribuição do processo, pelo não conhecimento de recurso que seja inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, está amparado no art. 21-E, V, do RISTJ, não havendo falar em violação do princípio da colegialidade, tampouco em cerceamento de defesa.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.189.592/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 7/STJ. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ), sendo esta a legislação aplicável.
+2. É assente o entendimento desta Corte Superior de que a impugnação ao óbice da Súmula nº 7/STJ deve ser específica quanto a todas as matérias constantes da decisão agravada.
+3. O Superior Tribunal de Justiça entende ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III, do Código de Processo Civil de 2015).
+4. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o entendimento jurisprudencial cristalizado na redação da Súmula nº 182/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.047.721/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA E REPARAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer com pedido de tutela de urgência e reparação por danos morais.2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.163.324/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+Na hipótese, da leitura das razões de agravo (e-STJ, fls. 424-432), constata-se que a parte agravante não procedeu à impugnação específica de todos os fundamentos mencionados pela Corte estadual para inadmitir o apelo especial, uma vez que deixou de infirmar o óbice das Súmulas 7/STJ e 283/STF, conforme indicado na decisão de fls. 397-400 (e-STJ).
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial de Ana Elizabeth Uberti Moreira.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 2. AGRAVO DE ANA ELIZABETH UBERTI MOREIRA NÃO CONHECIDO.
