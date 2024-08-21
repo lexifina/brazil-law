@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JACI MARIA QUADROS DA ROSA à decisão de fls. 594/595, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O primeiro juízo de com base na alegação de ponto, que os precedentes recursos de embargos desfechados pela ora recorrente, os quais foram conhecidos (evento 42 interromper ou suspender o prazo recursal.
+ ..
+No segundo juízo de admissibilidade, o recurso especial foi novamente inadmitido, desta vez com base na falta de exaurimento das instâncias ordinárias, conforme a Súmula n. 281 do STF. A cisão destacou que os embargos de declaração julgados monocraticamente não foram seguidos pelo necessário agravo interno, impedindo o acesso à instância especial.
+Com o devido respeito e consideração, apresenta âmbito do recurso especial interposto, enfatizando a relevância do prequestionamento efetuado por meio dos embargos declaratórios e a peculiaridade das decisões proferidas.
+Após a decisão da sentença pelo colegiado, foram protocolados declaratórios. O primeiro foi decidido pelo próprio colegiado, reafirmando a necessidade de debate e análise aprofundada das questões jurídicas complexas apresentadas. Os dois subsequentes, embora carregados com o mesmo propósito de prequestionamento, foram decididos de forma monocrática. Tal circunstância não diminui a importância do prequestionamento realizado, mas destaca a necessidade de um exame mais abrangente por parte deste Tribunal Superior.
+A decisão de não interpor agravo interno após as decisões monocráticas foi pautada na convicção de que as questões de direito federal já estavam devidamente prequestionadas e prontas para serem apreciadas por este Egrégio Tribunal. A interposição de agravo interno, nesse contexto, poderia resultar em uma dilata processual desnecessária, visto que as matérias já haviam sido suficientemente postas à apreciação do tribunal a quo.
+ ..
+É importante destacar que a Justiça do Rio Grande do Sul tem sido omisso em suas decisões relativas ao acordo firmado entre o Ministério Público e a Procuradoria Pública de número 001/1.11.0246307 37.2011.8.21.0001). Este acordo reconheceu o direito ao pagamento de uma parcela complementar. No entanto, tal decisão viola o cronograma estabelecido para a implementação do piso salarial, contrariando a Ação Direta de Inconstitucionalidade (ADI) número 4.167 do Supremo Tribunal Federal (STF) e a Lei Federal número 11.738 de 2008, especificamente em seus artigos 3º e 6º (fls. 601/602).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo (fls. 448/450 e 470/471).
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem.
+Essa orientação também se aplica a hipóteses como a dos autos, em que a acórdão do Tribunal de origem foram opostos embargos de declaração, julgados de forma monocrática, e, contra essa decisão, foi interposto recurso especial sem que houvesse o necessário exaurimento das instâncias ordinárias (EDcl no AgInt nos EAREsp n. 1.732.139/MA, relatora Ministra Laurita Vaz, Corte Especial, julgado em 12/4/2022, DJe de 19/4/2022; e AgInt no AREsp n. 2.171.248/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Observe que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Dessa forma , não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, Relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
