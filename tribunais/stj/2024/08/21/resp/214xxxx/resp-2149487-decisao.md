@@ -1,0 +1,53 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE SÃO PAULO contra acórdão prolatado, por unanimidade, pela 9ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de Apelação, assim ementado (fls. 115/120e):
+APELAÇÃO SERVIDORES MUNICIPAIS- PRETENSÃO À PERCEPÇÃO DE REAJUSTE RELATIVO A DIFERENÇA A SER CALCULADA COM BASE NAS LEIS MUNICIPAIS PAULISTANAS Nºs 10.688/88 E 10.722/89 E PORTARIAS NS. 256/94 E 261/94 - EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA
+- Decisão que reconheceu a ocorrência da prescrição
+- Reforma
+- No caso dos autos, a ação coletiva transitou em julgado em 09/09/2009, mas muita discussão houve no tocante à pertinência subjetiva do título, bem como à sua exequibilidade, temas que suscitaram a interposição de diversos recursos, sendo que o último recurso teve seu trânsito em julgado somente em fevereiro de 2022, não havendo, portanto, que se falar em prescrição
+- Recurso provido para determinar o prosseguimento da execução.
+Opostos embargos de declaração (fls. 122/123e), foram rejeitados (fls. 124/128e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 1 do Decreto 20.910/1932, alegando-se, em síntese, que a prescrição já estaria configurada, uma vez que o trânsito em julgado da ação coletiva se deu em 09.06.2009, bem como que a parte Recorrida "NÃO foi representada pelo Sindicato Autor da ACP na execução por ele promovida, e NÃO se beneficiou do cumprimento movido na origem", nos seguintes termos (fls. 130/139e):
+Desse modo, mesmo que se adote esse entendimento favorável à Parte Exequente, está caracterizada a prescrição da pretensão executiva, uma vez que o título executivo constituído nos autos ACP 0415960-06.1999.8.26.0053, transitou em julgado em 09.06.2009, de modo que a instauração da presente execução individual de obrigação de pagar ocorrida, se deu POSTERIORMENTE ao término do prazo prescricional quinquenal iniciado em 30 de junho de 2017 (data do julgamento do leading case pelo C. STJ Tema n. 880), cujo término ocorreu em 30 de junho de 2022, como fixado na modulação feita pelo STJ no julgamento dos ED no R
+Esp 1.336.026/PE.
+ ..
+Assim, mesmo que se aplique o entendimento do STJ (tema 880) no sentido de que a data de 30/06/2022 deve ser aplicada para o título, albergando, inclusive, execuções individuais propostas por sindicato, inelutavelmente esta execução estará prescrita.
+Por fim, perceba-se que a Parte Exequente está pedindo o Apostilamento do TÍTULO COLETIVO em seu favor (obrigação de fazer), e não meramente liquidando os atrasados (obrigação de pagar).
+Por esse motivo, não é relevante que a execução da obrigação de fazer tenha sido objeto de impugnação na ACP de origem. A Parte Exequente NÃO foi representada pelo Sindicato Autor da ACP na execução por ele promovida, e NÃO se beneficiou do cumprimento movido na origem. Caberia a ele, pois, desde o trânsito em julgado, executar o título, caso entendesse de seu interesse.
+Desse modo, o prazo inicial para prescrição em seu desfavor é o trânsito em julgado do processo de conhecimento (09.06.2009), estando patente que o pedido está prescrito, como reconhecido na sentença.
+Com contrarrazões (fls. 143/150e), o recurso foi admitido (fl. 151/154e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do estatuto processual, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, e diante das particularidades do caso concreto, afastou a prescrição, nos seguintes termos (fls. 119/120e):
+No caso em apreço, verifica-se que o V. Acórdão exequendo transitou em julgado em 09/09/2009 (fls. 868 dos autos da ação coletiva). Não obstante, muita discussão houve no tocante à pertinência subjetiva do título, bem como à sua exequibilidade, temas que suscitaram a interposição de diversos recursos.
+ ..
+No agravo de instrumento nº 2233132-69.2019.8.26.0000, ficou decidido que o título executivo produz efeitos em relação a aposentados e pensionistas.
+ ..
+Referido agravo transitou em julgado em 24.02.22, conforme fls. 247/248 dos autos do recurso.
+ ..
+Ressalte-se que a obrigação de fazer ainda não terminou, e no último despacho proferido nos autos principais (fls.3036/3037), determinou o juízo:
+"(..) Diante disso, diga a exequente sobre a suficiência da OBRIGAÇÃO DE FAZER, presumindo-se no silêncio a satisfação integral:a) Se SATISFEITA, o(s) exequente(s) deve(m)requerer cumprimento contra a FazendaPública em relação à obrigação de pagar(artigos 534/5 do CPC). Atente a parte exequente à necessidade de discriminação capitulada do que pretende ver executado, a fim de racionalizar e cooperar com a eficiência da execução e, com isso, abrir caminho para futura execução do incontroverso.
+Não haverá honorários advocatícios caso inexista impugnação da Fazenda Pública (artigo 85, §7º, do CPC) (..)"
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, a fim de verificar a ocorrência da prescrição, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRESCRIÇÃO. INOCORRÊNCIA. JURISPRUDÊNCIA DO STJ. CONFORMIDADE. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. MODULAÇÃO DOS EFEITOS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência do STJ, "em conformidade com as Súmulas 150 e 383 do STF, a ação de execução promovida contra a Fazenda Pública prescreve em cinco anos, contados do trânsito em julgado da sentença de conhecimento. Todavia, o ajuizamento da ação de execução coletiva pelo sindicato interrompe a contagem do prazo prescricional, recomeçando a correr pela metade, isto é, em dois anos e meio, a partir do último ato processual da causa interruptiva, nos termos do art. 9º do Decreto n. 20.910/32, resguardado o prazo mínimo de cinco anos" (EREsp 1.121.138/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe 18/06/2019).
+2. A compatibilidade do acórdão recorrido com a jurisprudência do STJ enseja a aplicação do óbice estampado na Súmula 83 do STJ.
+3. A Primeira Seção desta Corte, no julgamento do REsp.
+1.336.026/PE, consolidou a orientação de que: a) incide o teor da Súmula 150 do STF, no sentido de que prazo prescricional da execução é o mesmo da ação de conhecimento; b) na liquidação por cálculos, nos termos da Lei n. 10.444/2002, reputa-se correta a conta apresentada pelo exequente, quando a requisição judicial de fichas financeiras ou documentos deixar de ser atendida injustificadamente;
+c) o prazo prescricional tem início a partir da vigência da Lei n. 10.444/2002, que tornou desnecessário qualquer procedimento prévio de efetivação da conta antes de a parte exequente ajuizar a execução.
+4. Em sede de Embargos de Declaração, foram modulados os efeitos do decisum, consignando que, "para as decisões transitadas em julgado até 17/03/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/06/2017". (EDcl REsp 1336026/PE, rel. Ministro Og Fernandes, Primeira Seção, DJe 22/06/2018).
+5. Hipótese em que a execução foi ajuizada antes do marco temporal definido nos aludidos aclaratórios.
+6. Infirmar o entendimento alcançado pela Corte de origem, a fim de acolher a tese suscitada pela parte recorrente, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via de recurso especial (Súmula 7 do STJ).
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.986.101/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/8/2022, DJe de 30/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. DISPOSITIVOS NÃO PREQUESTIONADOS. SÚMULA 211/STJ. FICHAS FINANCEIRAS. PRESCRIÇÃO. TEMA 880/STJ. NÃO APLICAÇÃO. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à apontada ofensa aos arts. 3º, I e IV, 5º, caput, XXXV, LXXIV e 37 da CRFB/1988, importante destacar que não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, analisar suposta ofensa a dispositivos da Constituição Federal, ainda que a título de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Ademais, no que tange à violação dos arts. 97 e 104 do CDC, a questão federal suscitada não pode ser conhecida por este Superior Tribunal de Justiça, pois não houve manifestação do Tribunal a quo a seu respeito. Incidente a Súmula nº 211/STJ - Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+3. A análise sobre o enquadramento da hipótese ao caso do tema 880/STJ e a ocorrência ou não da prescrição, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.109.359/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
