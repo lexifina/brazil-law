@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/08/2024 a 21/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+EMENTA
+AGRAVO INTERNO NA AÇÃO DE HOMOLOGAÇÃO DE SENTENÇA ESTRANGEIRA. EXTINÇÃO DO FEITO, SEM JULGAMENTO DO MÉRITO. INEXISTÊNCIA NOS AUTOS DE TÍTULO JUDICIAL OU EXTRAJUDICIAL ESTRANGEIRO. APRESENTADA APENAS CERTIDÃO DE CASAMENTO ÁDVENA. ALTERAÇÃO DE SOBRENOME NA CONSTÂNCIA DO MATRIMÔNIO. POSSIBILIDADE DA MODIFICAÇÃO VIA CARTORIAL NO BRASIL. MANTIDOS OS FUNDAMENTOS DA DECISÃO RECHAÇADA. AGRAVO DESPROVIDO.
+1. Inexiste nos autos qualquer decisão judicial estrangeira ou extrajudicial, com natureza jurisdicional, visto que apenas consta certidão de casamento ádvena, com a averbação da alteração de nome, não ensejando, portanto, a competência desta Corte Superior. Artigo 105, I, "i", da CF, artigo 960 e seguintes do CPC/2015 e artigos 216-A e seguintes do RISTJ.
+2. A inclusão do outro sobrenome do marido pela autora, na constância do matrimônio, pode ser obtida diretamente por via administrativa, perante o cartório brasileiro, nos termos do artigo 57, inciso II, da Lei n. 6.015/1973.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARINA TANAKA ROCHA SILVA ou MARINA TANAKA ROCHA SANT OS ou MARINA TANAKA RODRIGUES DA ROCHA, fls. 29-34, contra decisão unipessoal proferida pela Presidência desta Corte, que julgou extinta a ação homologatória, sem julgamento do mérito, nos termos do artigo 485, incisos IV e VI, do Código de Processo Civil (fls. 16-17).
+No presente recurso, a agravante alega que existe "título estrangeiro passível de homologação, consistente em decisão administrativa da Conservatória dos Registros Centrais de Lisboa" (fl. 30).
+Argumenta que "a decisão administrativa estrangeira, mesmo que não possua natureza jurisdicional em rigor formal, também é passível de homologação, pois a lei não restringe o procedimento de homologação à eventual natureza estritamente jurisdicional do documento, desde que o procedimento adotado no país estrangeiro tenha simetria com procedimento de natureza jurisdicional do Brasil, preenchidos os demais requisitos e respeitada a soberania nacional, a ordem pública e a dignidade da pessoa humana" (fl. 31).
+Entende ser inviável a alteração de sobrenome em cartório brasileiro, pois o artigo 57, II, da Lei n. 6.015/1973 "não trata de questões relacionadas a decisões estrangeiras ou alterações de nome realizadas no exterior provenientes de casamentos contraídos em território estrangeiro" (fl. 32).
+Acrescenta que "a parte já tentou obter a retificação do sobrenome pela via administrativa, sendo infrutífera pela negativa do cartório em proceder com a solicitação" (fl. 33).
+Requer, ao final, a reconsideração da decisão agravada ou, caso assim não se entenda, a sua reforma pelo colegiado, com a homologação de "decisão estrangeira" (fl. 34).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA AÇÃO DE HOMOLOGAÇÃO DE SENTENÇA ESTRANGEIRA. EXTINÇÃO DO FEITO, SEM JULGAMENTO DO MÉRITO. INEXISTÊNCIA NOS AUTOS DE TÍTULO JUDICIAL OU EXTRAJUDICIAL ESTRANGEIRO. APRESENTADA APENAS CERTIDÃO DE CASAMENTO ÁDVENA. ALTERAÇÃO DE SOBRENOME NA CONSTÂNCIA DO MATRIMÔNIO. POSSIBILIDADE DA MODIFICAÇÃO VIA CARTORIAL NO BRASIL. MANTIDOS OS FUNDAMENTOS DA DECISÃO RECHAÇADA. AGRAVO DESPROVIDO.
+1. Inexiste nos autos qualquer decisão judicial estrangeira ou extrajudicial, com natureza jurisdicional, visto que apenas consta certidão de casamento ádvena, com a averbação da alteração de nome, não ensejando, portanto, a competência desta Corte Superior. Artigo 105, I, "i", da CF, artigo 960 e seguintes do CPC/2015 e artigos 216-A e seguintes do RISTJ.
+2. A inclusão do outro sobrenome do marido pela autora, na constância do matrimônio, pode ser obtida diretamente por via administrativa, perante o cartório brasileiro, nos termos do artigo 57, inciso II, da Lei n. 6.015/1973.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada não merece reforma.
+Com efeito, constata-se dos autos que apenas foi apresentada a certidão de casamento ádvena da requerente (fls. 8-9), com a certificação notarial (fl. 7) e a apostila (fl. 6), extraindo-se do referido documento uma averbação, datada de 2/11/2023, relativa à alteração de sobrenome da autora.
+Portanto, diversamente do asserido nas razões recursais, a Defensoria Pública da União não se esmerou pela juntada de qualquer decisão extrajudicial proferida pela Conservatória do Registro Civil de Lisboa, Portugal.
+Inclusive, foi consignado no decisum impugnado que "somente consta certificado cartorial de alteração de nome emitido pelo Registro Civil de Lisboa, Portugal, ou seja, inexiste decisão judicial estrangeira para tanto, nem mesmo decisão extrajudicial com natureza jurisdicional", nos termos do § 1.º do artigo 961 do Código de Processo Civil (fl. 16).
+Diante disso, não há falar em competência desta Corte Superior para atuar no caso, conforme dispõe o artigo 105, inciso I, alínea "i", da Constituição Federal, o artigo 960 e seguintes do Código de Processo Civil e os artigos 216-A e seguintes do Regimento Interno do STJ.
+Não bastasse, possível se mostra a obtenção da inclusão do sobrenome do marido pela autora via cartorial, dada a constância do matrimônio. Eis o que estatui o artigo 57, inciso II, da Lei de Registros Públicos (n. 6.015/1973), in verbis:
+Art. 57. A alteração posterior de sobrenomes poderá ser requerida pessoalmente perante o oficial de registro civil, com a apresentação de certidões e de documentos necessários, e será averbada nos assentos de nascimento e casamento, independentemente de autorização judicial, a fim de:
+(..)
+II - inclusão ou exclusão de sobrenome do cônjuge, na constância do casamento;
+Dessarte, conforme salientado na decisão vergastada, "evidencia-se que a modificação do sobrenome da autora pode ser requerida diretamente por via administrativa, no cartório de registro civil de pessoas naturais, sem a intervenção do Poder Judiciário" (fl. 17).
+De fato, a necessidade de atualizar os documentos brasileiros da autora, motivação vertida na inicial (fl. 3), deve se iniciar pelo registro e transcrição do casamento estrangeiro nos assentamentos brasileiros, por intermédio do Consulado-Geral do Brasil em Portugal, e, subsequente, com o pedido administrativo, em cartório brasileiro, de alteração de nome na constância do matrimônio, de modo a conciliar o sobrenome com o documento extrajudicial adventício, qual seja, a certidão de casamento portuguesa.
+Diversamente do declinado nas razões recursais, em nenhum momento foi indicada a "homologação de decisão estrangeira" em cartório ou mesmo "eventual ação de competência da justiça estadual" (fls. 32-33), incidindo em evidente equívoco, novamente, o órgão defensor.
+E nada obstante a menção na peça recursal de que a requerente não logrou a alteração do sobrenome no cartório - sem qualquer comprovação documental nos autos dessa novel alegação, enfatize-se -, de se notar que, apresentada a documentação necessária, eventual recalcitrância da serventia extrajudicial em realizar a averbação pode ser comunicada à corregedoria responsável pelo cartório, não cabendo ao Superior Tribunal de Justiça decidir a esse respeito.
+Por fim, convém consignar que causa espécie a Defensoria Pública da União promover desnecessária movimentação da máquina judiciária, cujo assoberbo processual é deveras conhecido, a fim de insistir em uma atuação do Superior Tribunal de Justiça, evidentemente desnecessária na hipótese.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
