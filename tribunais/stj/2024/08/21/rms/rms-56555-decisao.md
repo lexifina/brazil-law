@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso ordinário em mandado de segurança impetrado por EDUARDO VEIGA VIDAL em face do ESTADO DO AMAZONAS, em que requer a reforma do acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 285):
+DIREITOADMINISTRATIVO, CONSTITUCIONAL E PROCESSUAL CIVIL - CONCURSO PÚBLICO - BANCA EXAMINADORA - CORREÇÃO DE PROVA - CONTROLE JUDICIAL -EXCEPCIONALIDADE - LEGALIDADE - REPERCUSSÃO GERAL - TEMA N. 485/STF:
+- O controle jurisdicional sobre correção de prova realizada por banca examinadora de concurso público se mostra excepcional, restringindo-se à verificação de legalidade quanto à adequação do conteúdo da prova e a previsão editalícia, não podendo o judiciário se imiscuir nos critérios de correção da banca.
+SEGURANÇA DENEGADA.
+O recorrente alega que foi reprovado na prova de sentença cível, referente à prova discursiva, segunda fase do concurso para ingresso na carreira de juiz substituto do Poder Judiciário do Amazonas, obtendo a nota 5,91, do total de 10 (dez) pontos. Argumenta que não houve adoção de critérios objetivos, suficientemente explicitados no edital do concurso, quanto a itens como caligrafia, grafia, legibilidade, grafema, limitando-se exigir dos candidatos coerência e coesão.
+Pugna pela reforma do acórdão impugnado para que se realize controle de legalidade quanto ao critério utilizado pela banca referente à utilização do vernáculo, por ofensa à Resolução 75 do CNJ, uma vez que este não encontrava previsão no edital regente.
+Ministério Público Federal opina pelo desprovimento do recurso.
+É o relatório.
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança impetrado por Eduardo Veiga Vidal, contra ato imputado ao Desembargador Presidente da Comissão de Concurso Público do TJAM, para ingresso na carreira de Juiz Substituto, sustentando que não houve adoção de critérios objetivos de correção da prova discursiva, suficientemente explicitados no edital, referente à caligrafia, grafia, legibilidade, grafema etc, limitando-se a banca examinadora a exigir dos candidatos coerência e coesão.
+O Tribunal de origem denegou a ordem com base nos seguintes fundamentos (fls. 289-294):
+Ao contrário do que faz parecer o impetrante, o presente mandamus tem como fundamento jurídico a discussão acerca de atribuição de nota em correção realizada pela banca examinadora de concurso público, e não de impugnação a edital - mesmo porque esgotado o prazo para tanto por esta via - a fim de que lhe seja atribuída nota superior àquela efetivamente dada.
+A pontuação na questão se deu de acordo com as regras editalícias, que, além de exigir conhecimento acerca do tema cobrado, também cobra que a resposta seja dada de maneira legível, não podendo a comissão examinadora ser responsável - senão o próprio candidato - por respostas ou parte delas ilegíveis.
+O fato é que cabe ao candidato - e isso está previsto expressamente em edital - responder às questões com grafia legível, permitindo aos membros da banca o completo entendimento de sua resposta, sob sua própria responsabilidade em caso de ser ilegível a grafia.
+Não se trata de critério subjetivo na correção, mas sim de impossibilidade, por culpa exclusiva do autor, em entender a integralidade da resposta, ante a defeituosa caligrafia na resposta. E aí que constato a falta de direito liquido e certo, uma vez que não cabe o judiciário o exercício de controle sobre as conclusões objetivas da banca examinadora em concurso público.
+ ..
+Portanto, e como reconhecido pela Corte Constitucional, somente cabe controle judicial em correção de prova realizada por banca examinadora de concurso público em casos excepcionais, restringindo-se à legalidade na análise da compatibilidade entre as questões de prova e o conteúdo programático previsto em edital.
+O entendimento adotado pelo Tribunal a quo não destoa da jurisprudência do STJ quanto à impossibilidade de o Poder Judiciário substituir a banca examinadora para apreciar os critérios utilizados para a elaboração e correção das provas, sob pena de indevida interferência no mérito do ato administrativo.
+Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. CONCURSO PÚBLICO. MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA. CORREÇÃO DE PROVA. IMPOSSIBILIDADE DE REEXAME PELO PODER JUDICIÁRIO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Cuida-se na origem de mandado de segurança impetrado contra ato tido como abusivo e ilegal imputado ao Procurador-Geral de Justiça do Ministério Público de Santa Catarina.
+2. A parte recorrente requer a revisão da correção de sua peça discursiva na área cível, à qual a comissão organizadora do concurso atribuiu a nota 4,875. O Tribunal Catarinense concedeu apenas em parte a segurança, para determinar que a autoridade coatora reavaliasse o item 3.3.2 da prova discursiva de Direito Civil.
+Porém, o item somente tem peso de 0,1 pontos, o que não é suficiente para que a parte avance no certame.
+3. É firme a jurisprudência desta Corte Superior de que não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade.
+4. A simples alegação, desacompanhada de espécie alguma de prova, de que a autoridade coatora agiu de forma abusiva e ilegal não constitui elemento que evidencie a existência do direito pretendido, de forma que tal alegação deveria ter sido veiculada em ação ordinária, a qual admite dilação probatória. Portanto, o acolhimento das razões recursais é inviável na via estreita do mandado de segurança ante a necessidade de dilação probatória.
+5. Agravo interno a que se nega provimento (AgInt no RMS n. 69.682/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023 ).
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA DISCURSIVA. CORREÇÃO. ILEGALIDADE NÃO EVIDENCIADA. INTERVENÇÃO DO PODER JUDICIÁRIO. IMPOSSIBILIDADE. MÉRITO ADMINISTRATIVO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA N. 485/STF.
+1. O STF, ao julgar o RE n. 603.580-RG/RJ, firmou o entendimento de que "não compete ao Poder Judiciário substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade" (Tema n. 485/STF).
+2. No caso, o acórdão proferido pelo Superior Tribunal de Justiça está em consonância com a jurisprudência firmada pela Suprema Corte, motivo pelo qual a decisão que negou seguimento ao recurso extraordinário deve ser mantida.
+3. Agravo interno a que se nega provimento (AgInt nos EDcl no RE nos EDcl nos EDcl no AgInt no RMS n. 62.272/MG, relator Ministro Og Fernandes, Corte Especial, julgado em 13/12/2022, DJe de 16/12/2022).
+Isto posto, nego provimento ao recurso em mandado de segurança.
+Custas pelas partes. Sem condenação em honorários advocatícios  art. 25 da Lei 12.016/2009; e Súmula 105/STJ.
+Intimem-se.
+EMENTA
