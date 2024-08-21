@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 15/08/2024 a 21/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigma não possuírem entre si similitude fático-jurídica.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão deste Relator que indeferiu liminarmente embargos de divergência.
+Em suas razões, a ora agravante alega que "em recurso especial, além do dissídio jurisprudencial, apontou a violação aos artigos 10, § 4º, 35-F, ambos da Lei nº 9.656/98, 51, inciso IV e § 1º, inciso II e ao artigo 54, § 4º, do CDC, uma vez que a época da solicitação do tratamento pelo método ABA, não havia cobertura legal ou contratual, sendo que o método ABA para terapia comportamentais, sequer estava coberto pelo Rol de Procedimentos da ANS (..). Neste contexto, não é crível que a Embargante seja compelida judicialmente a arcar com custo de tratamento que a época não possui qualquer amparo legal ou contratual". Afirma, ademais, que "no bojo do acórdão recorrido, restou demonstrado que não importa se a terapia vindicada não constava do Rol de Procedimentos da ANS à época de sua solicitação, devendo ser disponibilizada, enquanto, no acórdão paradigma, se permite a modulação de efeitos. Demonstrada a similitude fática quanto a temporalidade, é essencial fazer o cotejo analítico, para apontar a divergência de entendimento, principalmente no que concerne à taxatividade do Rol da ANS vigente à época da distribuição da demanda,e a obediência do Plano de Saúde às regras setoriais".
+Devidamente intimada, a parte agravada apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE SIMILITUDE ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigma não possuírem entre si similitude fático-jurídica.
+2. Agravo interno a que se nega provimento.
+VOTO
+Os embargos de divergência foram apresentados contra acórdão da colenda TERCEIRA TURMA assim ementado:
+DIREITO PROCESSUAL CIVIL, CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. COBERTURA DE TERAPIA MULTIDISCIPLINAR. TRANSTORNO DO ESPECTRO AUTISTA - TEA. APLICAÇÃO RETROATIVA DA RN ANS N. 465/2021 E 539/2022. NÃO OCORRÊNCIA. PRECEDENTE DA TAXATIVIDADE DO ROL. INAPLICABILIDADE AOS CASOS DE TERAPIA MULTIDISCIPLINAR.
+1. Controvérsia pertinente à cobertura de terapia multidisciplinar a paciente com transtorno do espectro autista.
+2. As novidades regulatórias apenas confirmaram o acerto da conclusão a que havia chegado a Terceira Turma desta Corte Superior pela obrigatoriedade de cobertura da terapia multidisciplinar, embora com fundamento no caráter exemplificativo do Rol da ANS.
+3. A hipótese de terapia multidisciplinar foi expressamente admitida como uma mitigação da taxatividade pela Segunda Seção, por ocasião do julgamento dos EREsp n. 1.889.704/SP, relator Ministro Luis Felipe Salomão.
+Agravo interno improvido.
+Em suas razões, a embargante alegou que o aresto embargado divergiu do seguinte julgado da colenda SEGUNDA TURMA desta Corte de Justiça:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DECISÃO JUDICIAL. MODULAÇÃO DO EFEITOS. APELAÇÃO. DESCABIMENTO. HONORÁRIOS ADVOCATÍCIOS. CAUSALIDADE.
+1. O art. 927, § 3º, do CPC/2015 permite a modulação dos efeitos de certas decisões proferidas pelo Supremo Tribunal Federal e por Tribunais Superiores, quando o justifique o interesse social e a segurança jurídica. Não se aplica no julgamento de apelação.
+2. Por força do princípio da causalidade, a parte que deu causa à instauração do processo deve responder pelo pagamento das respectivas despesas. No caso, o pedido de recebimento de diferenças salariais supostamente devidas em razão do disposto na Lei estadual n. 1.206/1987 foi julgado improcedente.
+3. O fato de o STF, no julgamento do ARE 909.437 RG/RJ, haver dispensado a devolução de valores eventualmente recebidos pelos servidores públicos até certa data não altera a circunstância de que os autores foram vencidos na demanda.
+4. Recurso especial a que se dá provimento.
+(REsp 1.824.961/RJ, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/8/2019, DJe de 6/9/2019)
+Tal como decidido na decisão ora agravada, do cotejo entre ambos os acórdãos, verifica-se que as questões jurídicas são diversas, não havendo o indispensável dissenso a respeito da solução da questão de direito material ou processual controvertida.
+Assim, o paradigma apresentado não é passível de caracterizar a divergência jurisprudencial suscitada pela parte embargante.
+De um lado, o aresto embargado analisou o alegado caráter abusivo "da recusa de cobertura e da limitação do número de sessões de terapia multidisciplinar para os beneficiários com diagnóstico de Transtorno do Espectro Autista". Afirmou, para tanto, que "as novidades regulatórias apenas confirmaram o acerto da conclusão a que havia chegado a Terceira Turma desta Corte Superior, pela obrigatoriedade de cobertura da terapia multidisciplinar, embora com fundamento no caráter exemplificativo do Rol da ANS".
+De outro lado, o paradigma referiu-se a situação jurídica completamente diversa, qual seja, o cabimento da condenação em honorários advocatícios. Considerou, nesse ínterim, que o STF "dispensou os servidores públicos da devolução das verbas recebidas até 1º/9/2016, mas não do pagamento dos honorários advocatícios, que, na oportunidade, foram fixados em 10% (dez por cento) do valor atualizado da causa". Na ocasião, afirmou que o art. 927 do CPC permite a modulação dos efeitos de certas decisões proferidas pelo Supremo Tribunal Federal e por Tribunais Superiores, quando o justifique o interesse social e a segurança jurídica. Mas não se aplica no julgamento de apelação
+Efetivamente, não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigma tratarem de questões diversas.
+Esta é a orientação jurisprudencial firmada no âmbito deste Tribunal Superior. Para tanto, citam-se os seguintes julgados:
+PROCESSO CIVIL. DIREITO CIVIL. OBRIGAÇÕES. ESPÉCIES DE CONTRATOS. PREVIDÊNCIA PRIVADA. SIMILITUDE FÁTICA. IDENTIDADE ENTRE ACÓRDÃOS EM CONFRONTO. NÃO DEMONSTRADOS. INCIDÊNCIA DOS ARTS. 1.043 DO CPC/15 E 266 DO RISTJ. INCIDÊNCIA DO ART. 1.040 DO CPC/15. RESOLUÇÃO N.
+8/2008 DO STJ. RETORNO DO FEITO. SOBRESTAMENTO. DIVERGÊNCIA. AUSÊNCIA. SUSPENSÃO DOS AUTOS. IMPOSSIBILIDADE. DEVOLUÇÃO DOS AUTOS À ORIGEM. CONTROVÉRSIA. DIVERGÊNCIA NÃO EVIDENCIADA.
+I - Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+II - Para a configuração do dissídio jurisprudencial, é imprescindível que se demonstrem a similitude fática e a identidade entre os acórdãos em confronto, nos termos dos arts. 1.043 do CPC/2015 e 266, § 4º, do RISTJ.
+III - Na hipótese, o acórdão embargado, com base nos termos do art. 1.040 do CPC/15 e invocando a Resolução n. 8/2008 do STJ, determinou o retorno do feito à origem em razão da controvérsia delineada nos autos estar sob análise de recurso sob o rito repetitivo - Tema 907.
+IV - O acórdão paradigma, a seu turno, cujo entendimento foi proferido em 2016, considerou que a " ..  devolução dos autos à Corte de origem é uma possível consequência da determinação de sobrestamento do recurso especial neste Superior Tribunal de Justiça  .. ".
+V - Não se verifica a divergência para os fins consignados pela embargante, com o intuito de driblar o sobrestamento do feito, objetivando o julgamento da matéria de mérito, cuja controvérsia encontra-se sob análise em feito de âmbito repetitivo.
+VI - Veja-se que a real pretensão da embargante é que os autos não sejam suspensos, reformando-se o acórdão embargado para que prevaleça a atual jurisprudência desta Corte em relação ao tema de mérito, a despeito da existência do representativo da controvérsia ainda não julgado.
+VII - Ora, a única eventual controvérsia entre o acórdão embargado e o apontado como paradigma está no fato da devolução ou não dos autos à origem. Enquanto o primeiro decidiu pela devolução, o segundo considerou que apenas o sobrestamento do recurso especial no STJ seria suficiente, e que a devolução dos autos à origem seria " ..  uma possível consequência da determinação de sobrestamento do recurso especial  .. ".
+VIII - Não evidenciada a divergência apontada, a hipótese se amolda ao seguintes precedente: EREsp n. 1.415.390/CE, Rel. Ministro Benedito Gonçalves, Corte EspeciaL, julgado em 21/6/2017, DJe 29/6/2017.
+IX - Agravo interno improvido.
+(AgInt nos EREsp 1703788/SE, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 26/03/2019)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. LIMITAÇÃO TEMPORAL. LEI 10.355/2001. POSSIBILIDADE DE ALEGAÇÃO EM SEDE DE EMBARGOS À EXECUÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS JULGADOS CONFRONTADOS. NECESSIDADE. PRECEDENTES DA CORTE ESPECIAL DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se conhece da divergência interna corpus quando os julgados confrontados não guardam similitude fático-jurídica, o que é indispensável para o seu exame, já que os embargos de divergência constituem recurso que tem por finalidade exclusiva a uniformização da jurisprudência interna, cabível nos casos em que, embora a situação fática dos julgados seja a mesma, há dissídio jurídico entre as Turmas que compõem o Superior Tribunal de Justiça acerca da interpretação de uma mesma norma federal, o que não ocorre no presente casu.
+2. Agravo regimental não provido.
+(AgRg nos EAREsp 242.938/RS, CORTE ESPECIAL, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 29/9/2014)
+Diante do exposto, não tendo a parte agravante conseguido infirmar os fundamentos da decisão agravada, nega-se provimento ao agravo interno.
+É como voto.
