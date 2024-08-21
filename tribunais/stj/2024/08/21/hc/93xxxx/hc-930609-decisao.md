@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado por GUSTAVO HENRIQUE LIME DE OLIVEIRA MARTINS, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+O paciente foi condenado a 22 (vinte e dois) anos, 8 (oito) meses e 10 (dez) dias de reclusão, em regime inicial fechado, mais 12 (doze) dias-multa, pela prática dos crimes de homicídio qualificado e coação no curso do processo.
+A impetração de próprio punho se insurge contra condenação transitada em julgado, postulando, em síntese, existência de constrangimento ilegal decorrente de vícios durante a instrução processual.
+Por se tratar de writ impetrado por pessoa sem formação jurídica, em virtude dos postulados da ampla defesa e do amplo acesso à Justiça, bem como diante da ausência de elementos suficientes para a análise do constrangimento ilegal alegado no presente mandamus, foi nomeada a Defensoria Pública do Estado de Minas Gerais para patrocinar a defesa do paciente.
+O Tribunal de origem prestou informações e, em seguida, os autos foram encaminhados à Defensoria Pública, que informou ter encaminhado cópia do documento com as alegações do impetrante ao Defensor Público atuante no Tribunal do Júri da capital mineira.
+Os autos foram remetidos ao Ministério Público Federal, que se manifestou pelo retorno dos autos à Defensoria Pública da União, nos termos do Acordo de Cooperação Técnica n. 2/2020 (e-STJ, fl. 107).
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Este é exatamente o caso dos autos, em que a presente impetração faz as vezes de recurso próprio, no caso, revisão criminal.
+Além disso, a própria Defensoria Pública Estadual manifesta-se pela remessa do feito para Corte Estadual por entender ser caso de ajuizamento de revisão criminal e não de impetração do presente mandamus.
+Ante o exposto, não conheço do habeas corpus.
+Considerando que se trata de petição de próprio punho, impetrada por pessoa leiga, e diante das alegações trazidas e do teor da petição de e-STJ fls. 104-106, entendo prudente a determinação da remessa dos autos à Defensoria Pública do Estado de Minas Gerais, que possui maior proximidade com o paciente para a análise dos fatos, a fim de que esta verifique a possibilidade de ajuizamento de Revisão Criminal perante a Corte local ou de adoção de outra providência que entender pertinente, em virtude dos postulados da ampla defesa e do acesso à Justiça.
+Intimem-se.
+EMENTA
