@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JULIANA DA SILVA SOUSA, com fundamento na não comprovação do dissenso pretoriano.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "todos os acórdãos paradigmas referem-se a ações indenizatórias por danos morais em razão de morte de familiares em razão de erro médico. Situações semelhantes ao presente caso" e, "em todos os casos paradigmas apontados, o valor arbitrado, à título de danos morais, foram arbitrados em valores muito acima do arbitrado na presente ação".
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+No caso, observo que a parte recorrente deixou de indicar precisamente os dispositivos de lei federal que teriam sido objeto de dissídio, caracterizando, assim, deficiência na fundamentação recursal, o que impede a análise da controvérsia, incidindo, por analogia, da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Nesse sentido, "o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo supostamente objeto de interpretação divergente. Incidência da Súmula 284 do STF, aplicável por analogia" (AgInt no REsp 2.038.687/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024).
+Ademais, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
