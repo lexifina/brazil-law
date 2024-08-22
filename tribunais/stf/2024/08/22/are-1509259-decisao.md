@@ -1,0 +1,53 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. AÇÃO PISO DE COBRANÇA. NACIONAL DO MAGISTÉRIO. MUNICÍPIO DE CARIRA. SENTENÇA DE PROCEDÊNCIA.
+
+    APELO DO MUNICÍPIO. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEITADA.
+
+    DO MÉRITO. PISO SALARIAL. 11.738/08. LEI N° ADI 4167. CONSTITUCIONALIDADE. MODULAÇÃO TEMPORAL DOS EFEITOS. ATUALIZAÇÃO ANUAL DO PISO NO MÊS DE JANEIRO. DATA DO JULGAMENTO DA ADI.
+
+    COMO SE OBSERVA DO ART. 5° DA LEI 11.738/08, O PISO SALARIAL SERÁ ATUALIZADO, ANUALMENTE, NO MÊS DE JANEIRO, A PARTIR DO ANO DE 2009. O STF DEFERIU, PARCIALMENTE, A MEDIDA CAUTELAR PLEITEADA 4167-DF, NA ADI CONSIDERANDO COMO PISO SALARIAL A REMUNERAÇÃO GLOBAL DOS SERVIDORES ATÉ O SEU JULGAMENTO, O QUE SE DEU EM 27/04/2011 E TEVE COMO RESULTADO DECLARAÇÃO A DE CONSTITUCIONALIDADE DA NORMA GERAL FEDERAL QUE FIXOU O "PISO" DOS PROFESSORES DO ENSINO BÁSICO COM BASE NO SEU VENCIMENTO E, NA NÃO NA REMUNERAÇÃO.
+
+    POR SUA VEZ, O STJ, AO JULGAR O RESP N° 1.426.210/RS, FIXOU A TESE DE QUE "A LEI N. 11.738/2008, EM SEU ART. QUE 2°, § 1°, ORDENA QUE O VENCIMENTO INICIAL DAS CARREIRAS DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO BÁSICA DEVE CORRESPONDER AO PISO SALARIAL PROFISSIONAL NACIONAL, SENDO VEDADA A FIXAÇÃO DO VENCIMENTO BÁSICO EM VALOR INFERIOR, NÃO HAVENDO DETERMINAÇÃO DE INCIDÊNCIA AUTOMÁTICA EM TODA A CARREIRA E REFLEXO IMEDIATO SOBRE AS DEMAIS VANTAGENS E GRATIFICAÇÕES, O QUE SOMENTE OCORRERÁ SE ESTAS DETERMINAÇÕES ESTIVEREM PREVISTAS NAS LEGISLAÇÕES LOCAIS." (TEMA/REPETITIVO 911).
+
+    POSTERGAÇÃO DO PAGAMENTO SOB ARGUMENTO DE CUMPRIMENTO À LEI DE RESPONSABILIDADE FISCAL. NÃO CABIMENTO. PAGAMENTO DA DIFERENÇA REMUNERATÓRIA REFERENTE AO PERÍODO PLEITEADO. SENTENÇA MANTIDA NESTE PONTO.
+
+    DO TERMO INICIAL DOS JUROS DE MORA E DA CORREÇÃO MONETÁRIA. INTEGRAÇÃO DA SENTENÇA PARA DETERMINAR QUE A CORREÇÃO MONETÁRIA DEVE INCIDIR A PARTIR DA DATA DO PAGAMENTO A MENOR DE CADA SALÁRIOS E JUROS A PARTIR DA CITAÇÃO.
+
+    DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. SENTENÇA ILÍQUIDA. ARBITRAMENTO POSTERGADO PARA A FASE DE LIQUIDAÇÃO, NOS TERMOS DO ART. 85, §4º, INCISO II, DO CPC/15.
+
+    RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, segundo as quais: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/03/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 09/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de agosto de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
