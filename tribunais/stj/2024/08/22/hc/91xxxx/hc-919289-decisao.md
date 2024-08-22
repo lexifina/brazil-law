@@ -1,0 +1,14 @@
+DECISÃO
+JEFERSON SAMPAIO MOTA, condenado a cumprir penas restritivas de direitos e multa por tráfico de drogas, alega sofrer coação ilegal diante de acórdão proferido na Apelação n. 0005784-80.2022.8.19.0066.
+A defesa pede a redução da pena aplicada ao réu. Afirma que a sanção foi duplamente exasperada, na primeira e na terceira fases, em virtude da natureza e da quantidade do entorpecente apreendido.
+Decido.
+Esta Corte reconhece a "possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena" (HC n. 725.534/SP, Rel. Ministro Ribeiro Dantas, 3ª S., DJe 1º/6/2022.)
+Em primeiro grau, o réu foi condenado por tráfico de drogas sem a incidência de causa de diminuição. Ele foi autuado com 185g de maconha e 156g de cocaína (com a inscrição CPX do Maracanã). No mesmo dia, tinha em depósito 224,3g de maconha e 3.390g de cocaína, apreendidos durante o cumprimento de mandado judicial.
+O Juiz considerou a "variedade de entorpecente apreendido (maconha e cocaína) e a natureza de uma das drogas (cocaína)," para aumentar a pena-base em 2/8. Ainda, negou a incidência de redutor, por reconhecer a dedicação do denunciado à atividade criminosa.
+O Tribunal de Justiça também considerou "a maior reprovabilidade social da conduta ilícita praticada, em razão da variedade de entorpecente apreendido (maconha e cocaína) e a natureza de uma das drogas (cocaína), a qual ostenta um maior potencial lesivo à saúde pública" (fls. 132-133) para aumentar a pena-base em 1/6 (5 anos e 10 meses de reclusão e pagamento de 583 dias-multa). Depois, reconheceu a confissão (a sanção voltou ao mínimo legal).
+Na terceira fase, o órgão entendeu caracterizado o tráfico privilegiado e, "em vista a vasta quantidade de droga apreendida,  ..  adequada a fração de  . Assim, fixa-se a reprimenda final em 02 (dois) anos e 06 (seis) meses de reclusão e pagamento de 250 (duzentos e cinquenta) dias-multa" (fl. 169).
+O acórdão observou a jurisprudência desta Corte e a tese jurídica fixada pelo Supremo Tribunal Federal, no julgamento do ARE 666.334, sob o regime da repercussão geral, no sentido de que o critério da natureza e da quantidade de droga apreendida deve ser valorado em apenas uma das fases da dosimetria da pena, sob pena de bis in idem.
+A vasta quantidade de droga apreendida foi considerada somente para modular a fração do tráfico privilegiado, na terceira fase da dosimetria, e não para o acréscimo da pena-base, ausente a ilegalidade apontada pela defesa.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
