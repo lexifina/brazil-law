@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por EPC Transportes e Logística LTDA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 163):
+ANULATÓRIA DE MULTA - Não indicação de condutor - reunião de processos por conexão - Julgamento distinto das ações que não conduz à nulidade reivindicada pela autora, visto que se sagrou vencedora em todas as demandas - Municipalidade de São Paulo que informa o cancelamento das infrações administrativamente nos autos conexos nº 1048784-60.2022.8.26.0053 - Ausência de reconhecimento do pedido nestes autos - Inaplicabilidade do art. 487, inciso III do CPC Condenação do Município aos ônus sucumbenciais - Impossibilidade - R. sentença de extinção do feito, e respectivo fundamento legal confirmados. Recurso improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 199/203).
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial:
+a) ofensa ao art. 1.022 do CPC, afirmando que o acórdão não tratou sobre a aplicação do art. 90, §4º, do CPC ao caso dos autos e "deixou de analisar o ponto principal da demanda: O reconhecimento pela Ré do direito vindicado pela Autora e o consequente cancelamento das multas NIC, tudo isto após a instauração da lide com a citação de todas os sujeitos do processo" (fl. 173);
+b) contrariedade aos arts. 90, §4º, e art. 485, VI, ambos do CPC, alegando que, "a Municipalidade cumpriu integralmente a prestação reconhecida, anulando as multas debatidas no presente processo e reconhecendo o pedido, posterior a propositura da ação e ao estabelecimento da lide (com a citação), caracterizando exatamente o previsto no art. 90, § 4º do CPC" (fl. 174).
+Ausente contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De fato, no que diz respeito ao mérito da demanda, o Tribunal de origem consignou na decisão (fl. 165 - g.n.):
+E, verifica-se que somente nos autos nº 1048784-60.2022.8.26.0053 houve reconhecimento do pedido por parte da Municipalidade, razão pela qual a extinção do feito se deu com fundamento no art. 487, inciso III, "a" do CPC, sendo condenada a ré ao pagamento dos ônus sucumbenciais.
+Nas demais ações conexas, incluindo a presente, a extinção foi decorrente da informação prestada pela Municipalidade nos autos nº 1048784-60.2022.8.26.0053, de que houve cancelamento administrativo de todas as multas por não indicação de condutor impostas à autora.
+Assim, correta a fundamentação legal da r. sentença, não se cogitando da condenação da Municipalidade em ônus sucumbenciais.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais para verificar as demais ações conexas e o cabimento dos ônus sucumbenciais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. READEAQUAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. "Nos casos em que o acolhimento da p retensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados, por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo" (AREsp 1423290/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 10/10/2019).
+2. No caso dos autos, o recurso foi não conhecido porque seria necessário o reexame de fatos e provas para o fim de readequação da verba honorária de sucumbência, tendo em vista que o processo foi extinto sem julgamento do mérito, por desistência da parte autora, como condição para poder parcelar o débito que queria ver anulado.
+3. Como o débito será pago pela via administrativa, a extinção da ação, sem julgamento do mérito, não autoriza vincular os honorários de sucumbência ao valor da ação anulatória, pois o Estado não obteve, em juízo, proveito econômico algum, ao tempo em que o valor atribuído à causa a ele não corresponde. Assim, sem exame fático-probatório, não há como se entender pela irrisoriedade da verba honorária, por má apreciação dos requisitos do § 2º do art. 85 do CPC/1973 (Súmula 7 do STJ).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.841.907/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/5/2020, DJe de 13/5/2020.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
