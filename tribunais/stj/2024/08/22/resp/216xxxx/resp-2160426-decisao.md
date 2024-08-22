@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo, com pedido de efeito suspensivo, interposto por CASAALTA CONSTRUCOES LTDA EM RECUPERACAO JUDICIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO cuja ementa guarda os seguintes termos (fl. 1412):
+CIVIL. PROCESSUAL. ADMINISTRATIVO. FINANCIAMENTOHABITACIONAL. ATRASO NA ENTREGA DA OBRA. PRAZO. JUROS DEOBRA. RESPONSABILIDADE SOLIDÁRIA. DANOS MATERIAIS. DANOS MORAIS. CONDENAÇÃO. ATUALIZAÇÃO DO DÉBITO INDENIZATÓRIO. TERMO INICIAL. INVERSÃO DACLÁUSULA PENAL. NÃO CABIMENTO.
+1. A CEF tem responsabilidade solidária junto com a construtora, pois a empresa financiadora deveria proceder à fiscalização do prazo de execução da obra, e tendo configurado o atraso na entrega do imóvel financiado no âmbito do PMCMV, impõe-se a reparação dos danos sofridos pelo mutuário.
+2. A Construtora responsável pelo atraso na conclusão da unidade imobiliária deve arcar com a devolução dos juros de obra ao mutuário solidariamente à CEF. Quanto aos juros moratórios, cuidando-se de responsabilidade contratual, como no caso em análise, os juros de mora contam-se a partir da citação (art. 405, CC), conforme fixado na sentença.
+3. Configurados os pressupostos, a fixação do dano moral deve observar os princípios de moderação e de razoabilidade, assegurando à parte lesada a justa reparação, sem incorrer em enriquecimento ilícito e não deixando de observar o caráter pedagógico ao agente que cometeu o ato lesivo. O valor fixado a título de indenização do dano moral, de R$ 10.000,00 para cada autor, deve ser atualizado desde a data do arbitramento.
+4. Evidenciado o atraso na entrega do imóvel objeto de financiamento, impõe-se a reparação do dano emergente sofrido pelo mutuário. A indenização em virtude do atraso na entrega da obra, corresponde ao percentual de 0,5% (meio por cento) sobre o valor do imóvel atualizado pelo IPCA-E na data de aniversário do contrato de aquisição do imóvel, por mês de atraso. A indenização por danos materiais deve ter termo final na data da entrega/disponibilização das chaves e quanto à incidência de juros moratórios e correção monetária deve se dar desde a data do evento danoso até a data do efetivo pagamento das parcelas indenizatórias.
+5. Deve ser considerada, para fins fixação do termo inicial do atraso, a cláusula contratual que estabelece 60 dias para a entrega das chaves.
+6. Não cabe ao juiz aplicar cláusula penal sem a prévia convenção entre as partes, mas apenas adequá-la proporcionalmente ao prejuízo.
+Rejeitados os embargos de declaração opostos (fls. 1.537-1.543).
+No recurso especial, a recorrente alega violação do art. 186 do CC, ao passo em que aponta divergência jurisprudencial com arestos desta corte.
+Sustenta, em síntese, que "No caso em apreço, verifica-se que o atraso na obra não foi suficiente para ensejar dano de cunho moral a recorrida  ..  o descumprimento de contrato, não gera danos morais, uma vez que não se adentra ao âmbito existencial e de direito de personalidade da pessoa, razão pela qual, a condenação da Recorrente deve ser afastada." (fl.1.444-1.450)
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.580-1.589).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1.602-1.605), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls.1.657-1.664).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Discute-se nos autos a ocorrência de dano moral indenizável em razão de atraso na entrega de imóvel.
+Nos termos da jurisprudência desta Corte, "o mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade" (AgInt no AREsp n. 2.249.896/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Entretanto, o atraso na entrega de imóvel por longo período de tempo, em geral, em torno de um ano após o prazo de prorrogação ou tolerância, pode configurar causa de dano moral indenizável.
+A propósito, cito os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. ATRASO EXCESSIVO NA ENTREGA DE IMÓVEL. DANOS MORAIS ORIENTAÇÃO ATUAL NO SENTIDO DE CONSIDERAR CARACTERIZADO O DANO MORAL QUANDO HÁ ATRASO EXCESSIVO. JUROS DE MORA. PREVISÃO CONTRATUAL DE PERCENTUAL. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que o atraso excessivo na entrega do imóvel, no caso concreto, gerou aborrecimentos que superam os do cotidiano e capazes de configurar a lesão extrapatrimonial em razão da demora excessiva na conclusão da obra.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.106.446/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. AÇÃO DE CONHECIMENTO. ATRASO NA ENTREGA DA OBRA. INDENIZAÇÃO POR DANOS MORAIS. CABIMENTO. PECULIARIDADES DO CASO. ATRASO EXPRESSIVO. AGRAVO INTERNO IMPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro - a afastar a aplicação do princípio da fungibilidade.
+2. As Turmas integrantes da Segunda Seção do Superior Tribunal de Justiça perfilha o entendimento de que "o atraso na entrega de unidade imobiliária na data estipulada não causa, por si só, danos morais ao promitente-comprador" (REsp n. 1.642.314/SE, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 16/3/2017, DJe 22/3/2017).
+3. Na hipótese dos autos, a Corte de origem manteve a condenação das agravantes ao pagamento da indenização por danos morais, considerando a particularidade da excessiva demora na entrega do imóvel em relação ao prazo contratualmente estipulado e a efetiva entrega das chaves. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o atraso expressivo, como ocorrido no caso em estudo, extrapola o mero inadimplemento contratual, sendo passível de indenização por danos morais.
+4. Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.045.785/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. IMPUGNAÇÃO GENÉRICA. SÚMULA N.º 284 DO STF. ATRASO, ADEMAIS, QUE SE REPUTOU EXCESSIVO. RECONHECIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A simples alegação genérica de que o dano moral não foi comprovado é insuficiente para afastar a condenação imposta, pois não ataca satisfatoriamente os argumentos adotados pelo Tribunal para impor a indenização, incidindo, no caso, a Súmula n.º 284 do STF, por analogia. 2. Não obstante esta Corte Superior já tenha reconhecido que o simples inadimplemento contratual decorrente do atraso na entrega do imóvel é incapaz, por si só, de gerar indenização por danos morais, forçoso reconhecer que o caso em concreto configurou a lesão extrapatrimonial, pois o atraso ultrapassou um ano e meio.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.734.786/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+No caso dos autos, o imóvel deveria ter sido entregue em julho de 2021 e, até 19/10/2023, data da prolação do acórdão, o imóvel não tinha sido entregue e sequer havia previsão.
+Logo, forçoso reconhecer que no caso em concreto configurou-se a lesão extrapatrimonial.
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fica prejudicado o pedido de efeito suspensivo.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da c ondenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. CABIMENTO. ATRASO EXCESSIVO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
