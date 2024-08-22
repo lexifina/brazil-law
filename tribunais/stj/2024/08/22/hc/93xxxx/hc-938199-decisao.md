@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de THIAGO ROSA GUIMARAES em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que indeferiu o pedido de liminar formulado no HC n. 5020490-93.2024.4.03.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 155, § 4º, do Código Penal e 1º da Lei n. 9.613/98.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito, além de não estarem presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Reclama que "O decreto prisional amparado apenas em meras hipóteses e conjecturas como no caso dos autos, torna desarrazoada a limitação do direito fundamental de ir e vir do cidadão e viola o princípio constitucional da presunção da inocência" (fl. 15).
+Argumenta que "no que concerne ao risco de reiteração de criminosa, veja-se que o Tribunal tratou o paciente como se tivesse a conduta (e a personalidade) voltadas ao crime e, por isso, estando solto, voltaria a delinquir. Embasou sua decisão, ainda, em inquéritos datados de 2020, OS QUAIS NÃO TIVERAM ANDAMENTO" (fl. 16).
+Requer, assim, liminarmente e no mérito, a expedição de alvará de soltura.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão cautelar foi decretada com base na seguinte motivação, adotada na origem (fl. 55/56):
+Segundo a Autoridade Policial, Thiago seria um forte operador e intermediador, assim como RAPHAEL AUGUSTO PEREIRA FRANCO, porém agindo no estado de Goiás, o que facilitaria a ampliação do comércio de forma interestadual das aplicações em tese maliciosas de WELLINGTON SILVA DE LIMA.
+Operações financeiras de remessas de valores para WELLINGTON SILVA DE LIMA constantes do RIF nº 82107, que foram comunicadas por serem consideradas suspeitas de ocorrência de lavagem de dinheiro, envolviam o nome de THIAGO ROSA GUIMARÃES. De fato, THIAGO foi um dos remetentes de valores a WELLINGTON SILVA DE LIMA, repassando o valor de R$ 173.427,00 (cento e setenta e três mil quatrocentos e vinte e sete reais).
+Consta do RIF nº 99365 comunicação do Banco Itaú, segundo a qual, entre 04.12.2019 e 27.05.2020, o montante movimentado a crédito na conta do investigado foi de R$ 2.956.644,18 (dois milhões novecentos e cinquenta e seis mil seiscentos e quarenta e quatro reais e dezoito centavos), já o montante movimentado a débito foi de R$ 3.561.733,84 (três milhões quinhentos e sessenta e um mil setecentos e trinta e três reais e oitenta e quatro centavos), apesar da renda declarada de THIAGO ser de R$ 26.999,28 (fls. 09/10 do Id 317296800).
+Nas demais comunicações realizadas por outras instituições financeiras, constam informações semelhantes quanto à aparente movimentação incompatível com a capacidade financeira econômica de THIAGO ROSA GUIMARÃES e às suspeitas de que suas contas seriam utilizadas para trânsito de recursos de terceiros, em razão de diversos depósitos de valores expressivos e da dificuldade na identificação dos intervenientes e a real origem e destino dos recursos (Id 317296800).
+Entre esses depósitos, há 5 efetuados mediante cheques em nome da mãe de THIAGO, ROSINEIDE ROSA GUIMARAES, no valor total de R$ 675.210,19 (seiscentos e setenta e cinco mil duzentos e dez reais e dezenove centavos). Entretanto, conforme a Autoridade Policial apurou, ROSINEIDE faleceu em 03.03.2019, e os cheques datam de 2020 a 2022, indicando que THIAGO também possivelmente utilizaria do nome de sua falecida mãe para movimentar recursos (fls. 10/12 do Id 317296800).
+Ademais, segundo a comunicação do Banco Bradesco, FABRICIO COSTA LIMA SANTOS teria remetido o valor de R$ 125.450,00 (cento e cinte e cinco mil quatrocentos e cinquenta reais) a THIAGO (fl. 13 do Id 317296800). Ressalto que, conforme exposto acima, FABRICIO é investigado em diversos procedimentos policiais e judiciais envolvendo fraudes com cartões de crédito, estelionato e uso de documentação falsa, além de ter restrição em conta da instituição Mercado Pago por suspeita de fraude (fls. 55/56 do Id 317296440).
+THIAGO ainda figura em cinco comunicações por movimentação de valores em espécies de valor igual ou superior a R$ 50.000,00, sendo uma delas em 29.11.2023 (fl. 23 do Id 317296800).
+Assim, ao menos até novembro/2023 há movimentações de valores incompatíveis com a renda declarada do investigado, algumas de valores em espécie, havendo, consequentemente, indícios de continuidade da prática delituosa e lavagem do dinheiro dela oriundo.
+Por fim, a Autoridade Policial identificou que THIAGO ROSA GUIMARÃES já foi investigado por fraudes bancárias e estelionato (fl. 34 do Id 317296440).
+Dessa forma, a análise dos elementos de prova constantes dos autos e as comunicações realizadas pelas instituições financeiras trazem indícios de que THIAGO ROSA GUIMARÃES supostamente praticaria atos de lavagem de dinheiro em tese oriundo de fraudes bancárias eletrônicas perpetradas a partir de softwares desenvolvidos por WELLINGTON SILVA DE LIMA.
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do habeas corpus impetrado no tribunal de origem antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
