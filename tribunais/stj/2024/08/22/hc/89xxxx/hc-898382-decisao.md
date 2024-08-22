@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ERICK EVANDRO MIRANDA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi sentenciado à pena de cinco anos e dez meses de reclusão, em regime inicial fechado, como incurso no crime de tráfico de drogas, sendo negado o direito de recorrer em liberdade.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 15-19.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 22-23.
+As informações foram prestadas às fls. 29-41 e 42-69. O  Ministério  Público  Federal,  às  fls.  73-76,  manifestou-se  em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE. OMISSÃO NA FUNDAMENTAÇÃO. COMPLEMENTAÇÃO, A POSTERIORI. NECESSIDADE DE MANUTENÇÃO DA PRISÃO PREVENTIVA. - Eventual ausência de fundamentação para a decretação da prisão preventiva foi sanada com a complementação do decreto condenatório, dando cumprimento ao dispositivo previsto no art. 387, §1º, do CPP. - Ausente ilegalidade na negativa do direito de recorrer em liberdade ao réu que permaneceu preso durante a instrução criminal, se persistem os motivos da prisão cautelar. Precedentes do STJ. - Verificada a necessidade da segregação, não se mostra suficiente a aplicação das medidas cautelares alternativas à prisão previstas no art. 319 do CPP. Pelo não conhecimento do writ" - fl. 73.
+É  o  relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva e da sentença condenatória permitem a conclusão de que a prisão cautelar imposta ao Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida:554,0 g de haxixe, 885 g de skunk e pelo fato da contumácia delitiva do paciente que inclusive estava com mandado de prisão em aberto-fl.30.
+No ponto, impende destacar que:
+"Sobre o tema, esta Corte Superior possui entendimento no sentido de que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 725.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022" (AgRg no HC n. 806.211/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023).
+Nesse mesmo sentido:
+"Na hipótese, a prisão preventiva foi decretada com fundamento nas circunstâncias da prática delitiva e gravidade concreta do crime imputado, evidenciada pela expressiva quantidade de droga transportada na lataria do veículo do Agravante, de modo a justificar, nos termos da jurisprudência desta Corte Superior de Justiça, a segregação cautelar para garantia da ordem"(AgRg no HC n. 799.998/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 29/3/2023).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar , o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
