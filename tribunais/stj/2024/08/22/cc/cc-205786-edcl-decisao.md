@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração manejados por NACIONAL EXPRESSO LTDA. EM RECUPERAÇÃO JUDICIAL contra decisão, da lavra deste signatário, acostada às fls. 55/57, que não conheceu do incidente em epígrafe.
+Em suas razões, a insurgente repisa os fundamentos da exordial. Insiste na presença dos elementos do conflito de competência. Entende que o imóvel objeto da controvérsia está submetido aos efeitos do plano de recuperação judicial homologado. Requer o acolhimento do apelo recursal. (fls. 65/67)
+A impugnação do interessado está acostada às fls. 79/84.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nessa linha: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que este signatário, de maneira expressa, com fundamento nos elementos dos autos, assim destacou "(..) o r. juízo fiscal, de maneira expressa consignou, acerca da adjudicação do imóvel em questão"(..) Quanto à adjudicação do bem imóvel de matrícula nº 41.685, não percebo óbices ao deferimento do pedido estatal,porquanto já deliberado no âmbito da Recuperação Judicial que o mesmo deve servir à quitação das dívidas fiscais constituídas pela Nacional Expresso junto ao Estado de Goiás. E mais, houve determinação por parte do juízo ad quem, no julgamento do Agravo de Instrumento nº 5548899-94.2019.8.09.0000,para que expressamente ocorresse a efetiva penhora do imóvel, enquanto que nos autos do Agravo de Instrumento nº5045969.29.2020.8.09.0000, o Relator Des. Zacarias Neves Coêlho autorizou a adjudicação perquirida, não havendo mais o que se discutir, consoante art. 505 do CPC." (fls. 16)
+Outrossim, por relevante, registrou-se que "(..) não há nos autos, manifestação do r. juízo recuperacional determinando eventual substituição dos atos constritivos efetivados no âmbito da execução fiscal, o que corrobora a inexistência de conflito consoante alegado pela ora suscitante."
+Desse modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+Finalmente, registra-se que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeitam-se os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
