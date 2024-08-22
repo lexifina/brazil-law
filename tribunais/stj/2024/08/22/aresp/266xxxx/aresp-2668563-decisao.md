@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE RORAIMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, assim resumido:
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - ALEGAÇÃO DE CONTRADIÇÃO, OMISSÃO E ERRO MATERIAL NO ACÓRDÃO - PROCEDÊNCIA PARCIAL - EXISTÊNCIA DE CONTRADIÇÃO - NECESSIDADE DE READEQUAÇÃO DO JULGADO - EMBARGOS ACOLHIDOS, EM PARTE, COM EFEITOS INFRINGENTES.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1º do Decreto n. 20.910/1932 e do art. 206, § 5º, I, do Código Civil, no que concerne à ocorrência de prescrição de parte da pretensão autoral, tendo em vista que prescreve em cinco anos, contados do fato que originou a dívida, o direito de ação contra a fazenda pública, trazendo a seguinte argumentação:
+Conforme informado no recurso de Apelação do Estado de Roraima, houve a prescrição dos valores referentes a setembro de 2001, não havendo assim razão para a condenação do Estado. In verbis:
+ ..
+Observa-se que nos termos do art. 1º, do Decreto 20.910, de 6 de janeiro de 1932, a contagem do período prescricional referente a dívidas da fazenda pública se inicia do fato que originou a dívida. In verbis:
+ ..
+Em se tratando de Fazenda Pública, segundo CUNHA (2014, 83), além das disposições enunciadas no Código Civil, aplicam-se as regras contidas no Decreto nº 20.910, de 1932., bem como aquelas decorrentes do Decreto-Lei nº 4.597, de 1942.
+Deveras, consoante os diplomas legais acima "as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a natureza, prescrevem em 5 (cinco) anos, contados da dada do ato ou fato do que se originarem." Em julgamento de recurso repetitivo relatado pelo ministro Mauro Campbell Marques, a Primeira Seção do Superior Tribunal de Justiça (STJ), de forma unânime, definiu que prescreve em cinco anos todo e qualquer direito ou ação movida contra a fazenda pública, seja ela federal estadual ou municipal, inclusive indenização por reparação civil. A decisão tem importância transcendental para nortear a atuação da advocacia pública.
+ ..
+Diante do exposto, com a devida vênia, ao determinar o pagamento de dívida prescrita, o acórdão acabou por violar o art. 1º do Decreto nº 20.910/32 e o art. 206 §5, I, do Código Civil. (fls. 1.260-1.261).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
