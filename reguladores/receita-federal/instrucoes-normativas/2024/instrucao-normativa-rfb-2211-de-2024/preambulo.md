@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2211, de 19 de agosto de 2024
+Altera a Instrução Normativa RFB nº 2.205, de 22 de julho de 2024, que dispõe sobre a exclusão de multas, o cancelamento de representação fiscal para fins penais e a regularização dos débitos tributários de que tratam o art. 25, § 9º-A, e o art. 25-A do Decreto nº 70.235, de 6 de março de 1972.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 25-A, §§ 1º ao 9º, do Decreto nº 70.235, de 6 de março de 1972, resolve:
