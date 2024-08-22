@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de CHARLES SILVA LAGES, contra ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o paciente foi condenado à pena de cinco anos de reclusão, em regime inicial semiaberto, pela suposta prática do crime capitulado no artigo 33, caput, da Lei 11.343/06, sendo-lhe negado o direito de apelar em liberdade.
+Na sentença condenatória o magistrado de primeiro grau manteve a prisão preventiva do paciente por ainda persistirem os requisitos da decisão que decretou a prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva e denegou a ordem em acórdão de fls. 17-27.
+No presente writ a defesa sustenta a ocorrência de constrangimento ilegal, tendo em vista a incompatibilidade entre a fixação do regime inicial semiaberto na sentença condenatória e a manutenção da prisão preventiva em desfavor do paciente.
+Aduz ausência de fundamentos idôneos na sentença condenatória quanto a manutenção da prisão preventiva, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, em síntese, a revogação da prisão preventiva.
+Informações requeridas à fl. 42.
+As informações foram prestadas às fls. 47-49.
+O  Ministério  Público  Federal,  às  fls.  53-57,  manifestou-se  em parecer assim ementado:
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO EM REGIME SEMIABERTO, PRISÃO PREVENTIVA MANTIDA. PEDIDO DE REVOGAÇÃO. POSSIBILIDADE DE COMPATIBILIZAÇÃO COM O REGIME PRISIONAL DA CONDENAÇÃO. PRECEDENTES. 1. Nesta impetração, a defesa alega que o paciente sofre constrangimento ilegal porque a manutenção de sua prisão preventiva não tem fundamentação idônea e é incompatível com o regime semiaberto de cumprimento de pena fixado na condenação. 2. A prisão preventiva está fundamentada. As instâncias de origem ressaltaram a compatibilidade entre a fixação do regime semiaberto para cumprimento de pena e a manutenção da prisão preventiva, seguindo o entendimento dessa Corte Superior sobre o tema. Constrangimento ilegal não demonstrado. - Parecer pela denegação da ordem" - fl. 53.
+É  o  relatório. DECIDO.
+Primeiramente, quanto a alegação acerca da ausência de fundamentos idôneos na sentença condenatória quanto a manutenção da prisão preventiva, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão, verifica-se que a sentença manteve a prisão ao fundamento de: "Estarem presentes todos os motivos que justificaram a prisão cautelar"- fl. 33, entretanto a parte não colacionou aos autos a decisão que decretou a segregação cautelar, peça fundamental para compreender as alegações da inicial. Portanto, a deficiente instrução impede a compreensão da controvérsia.
+Saliente-se que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ .
+Nesse sentido:
+"Em habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Ressalte, porém, que não se pode olvidar a jurisprudência ora dominante nesta Quinta turma no sentido da possibilidade de compatibilização entre a segregação cautelar e o regime menos gravoso estabelecido na sentença, desde que adequadas as condições da prisão provisória às regras do regime imposto.
+Sobre o tema:
+"A jurisprudência desta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e o regime semiaberto, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado no caso concreto" (AgRg no HC n. 725.885/MS, Quinta Turma, relator Ministro Ribeiro Dantas, , DJe de 10/8/2022).
+Nesse mesmo sentido: (AgRg no HC n. 796.781/SP, Sexta Turma, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 31/3/2023), (AgRg no RHC n. 172.521/MG, Sexta Turma, relator Ministro Antônio Saldanha Palheiro, DJe de 9/3/2023); (AgRg no HC n. 787.182/SC, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 19/12/2022.)
+Desta forma, estabelecido na sentença condenatória o regime semiaberto para o início do cumprimento da pena, deve o paciente aguardar o trânsito em julgado de sua condenação em tal regime, compatibilizando-se a prisão cautelar com o modo de execução determinado na sentença condenatória.
+Ante o exposto, concedo a ordem para determinar que o paciente, salvo se estiver preso por outro motivo, aguarde o trânsito em julgado de sua condenação no regime semiaberto.
+Publique-se. Intime-se.
+EMENTA
