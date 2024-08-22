@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido de liminar, apresentado por CONSTRUIR FACILITIES ARQUITETURA E SERVIÇOS LTDA. - EM RECUPERAÇÃO JUDICIAL, no qual aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DO RIO DE JANEIRO - RJ e o JUÍZO DA 79ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ.
+Em suas razões, a parte suscitante defende que (fls. 4-25):
+Inicialmente é essencial esclarecer a razão do peticionamento do presente Conflito de Competência perante este E. STJ reside no fato do prosseguimento de medidas executórias e expropriatórias pelo D. Juízo Trabalhista da 79ª Vara Do Trabalho Da Comarca Do Rio De Janeiro, TRT da 1ª Região, nos autos da Ação Trabalhista nº 0100498-53.2016.5.01.0079, em que são partes a Suscitante e o Reclamante JANICE CRISTINA FERREIRA.
+Mister esclarecer a este Il. Ministro deste C. Tribunal que nos autos da referida ação, em que pese a Suscitante, ter informado ao juízo Suscitado acerca do não TÉRMINO DO PROCESSO DE RECUPERAÇÃO JUDICIAL, O JUIZO DAQUELA VARA DETERMINOU A ATUALIZAÇÃO DO CRÉDITO E ATIVAÇÃO DO CONVÊNIO SISBAJUD, CONFORME DOCUMENTO ANEXO E PRINT ABAIXO:
+ ..
+A determinação do Juízo Trabalhista de prosseguimento da execução individual com determinação de BLOQUEIO, acarreta enorme entrave na gestão financeira da empresa em processo de soerguimento, além de privilegiar apenas e tão somente a reclamante, em prejuízo a todos os demais credores, ferindo, assim, gravemente as disposições legais sobre o tema, bem como o inafastável pars conditio creditorum.
+ ..
+O D. Juíz Trabalhista, ao ignorar a legislação vigente, bem como determinar A ATIVAÇÃO DO CONVÊNIO SISBAJUD, vai em total desencontro com a norma atual, na medida em que tais decisões acarretam prejuízo imenso a Suscitante.
+ ..
+Ademais, não se alegue que o prosseguimento da execução trabalhista encontraria guarida no esgotamento do prazo de 180 (cento e oitenta) dias aludido pelo art.6º, §4º, da Lei 11.101/05, uma vez que houve efetivamente a superação da referida etapa processual relativa ao prazo de mera suspensão liminar das ações e execuções pela efetiva e superveniente novação das dívidas submetidas ao PRJ homologado na presente hipótese, devendo, repita-se, "as execuções individuais ajuizadas contra a própria devedora devem ser EXTINTAS, em razão da impossibilidade de seu prosseguimento no juízo comum, mesmo em caso de inadimplemento posterior, porquanto, nessa hipótese, se executaria a obrigação específica constante no novo título judicial ou se decretaria a falência".
+Por meio da decisão de fls. 144-147, deferi o pedido de liminar para suspender, até o julgamento definitivo do presente incidente, atos executórios contra o patrimônio da empresa suscitante, bem como designei JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DO RIO DE JANEIRO - RJ para decidir acerca das medidas urgentes.
+Informações prestadas pelo JUÍZO DA 79ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ às fls. 152-154.
+Parecer do MPF, às fls. 159-163, opinando pela competência do JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DO RIO DE JANEIRO - RJ.
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. FALÊNCIA. EXECUÇÃO TRABALHISTA. GOL LINHAS AEREAS. VARIG. COMPETÊNCIA DO JUÍZO FALIMENTAR. - PRECEDENTES DO STJ. SÚMULA 59/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo (AgInt no CC 173.626/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 28/09/2021, DJe 01/10/2021).
+3. Agravo interno não provido.
+(AgInt nos EDcl no CC n. 178.118/RJ, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022, grifei.)
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, em razão do recebimento da apelação com efeito suspensivo, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Na espécie, verifica-se que o JUÍZO DA 79ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ determinou o prosseguimento de medidas executórias contra a empresa suscitante (fl. 110), violando, assim, a competência do Juízo Recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA EMPRESARIAL DO RIO DE JANEIRO - RJ para quaisquer exames relativos a pagamento de débitos da suscitante e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUIZO DA 79ª VARA DO TRABALHO DO RIO DE JANEIRO - RJ deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
