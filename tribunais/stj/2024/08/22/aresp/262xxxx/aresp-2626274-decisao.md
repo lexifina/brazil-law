@@ -1,0 +1,21 @@
+DECISÃO
+  Trata-se  de agravo em  recurso  especial  interposto  por  DIOGO VICTOR DE SOUZA  contra  decisão que inadmitiu recurso especial manejado em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Na origem, o Tribunal deu parcial provimento ao recurso da defesa, mantendo a  condenação  do  ora agravante  pela  prática  da  conduta  típica  descrita  no art. 157, §2º-A, incisos I e II, do Código Penal, para reconhecer a atenuante da menoridade relativa e fixar a pena em cinco anos, seis meses e vinte dias de reclusão e treze dias-multa no regime inicial semiaberto (fls.  301-314).
+A  defesa  interpôs  recurso  especial,  com  fulcro  no  art.  105,  inc.  III,  alínea  a,  da  CF,  alegando  violação  ao artigo 157, §2º-A, inciso I, do Código Penal, apurada sob a perspectiva do Decreto 10.030/2019,  fundamentando que  "sem a efetiva apreensão da arma e o competente exame de sua prestabilidade, impossível avaliar se o artefato utilizado pelo recorrente enquadra-se no conceito de "arma de fogo" (fl.  318-324).
+Apresentadas  as  contrarrazões  (fls.  329-331),  o  recurso  especial  foi  inadmitido devido à Súmula n. 83, STJ  ( fls.  333-334).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fl.  337-341 ).
+O  Ministério  Público  Federal  manifestou-se  pelo  não  conhecimento  do  recurso  especial  ( fls.  359-361).
+É  o  relatório.  Decido.
+Tendo em vista os argumentos expendidos pelo agravante para afastar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+Consoante  relatado,  no  presente  recurso  especial,  pretende  a  defesa  o afastamento  da  causa  de  aumento  de  pena  pela  arma  de  fogo,  devido à  ausência  de apreensão e  perícia  da  arma.
+ O  Tribunal  de origem  consignou que "do exame das provas coligidas aos autos, vejo que restou plenamente demonstrado o uso de artefato bélico na prática da subtração, diante da palavra da vítima".
+Ademais, constou no acórdão ter a vítima narrado que "antes do declarante abrir a mochila, um na frente do declarante apontou uma arma, salvo engano revolver 22 ou 32 era menor, e não era um 38; QUE, mandou passar a mochila, sendo que o rapaz que estava atrás do declarante pegou a mochila e o da frente pegou sua pochete".
+Como cediço, o  entendimento  da  Terceira  Seção  deste  Tribunal  Superior  é  no  sentido  da  prescindibilidade  de  apreensão  e  de  perícia  da  arma  de  fogo  para  a  incidência  da  majorante,  desde  que  evidenciada  sua  utilização  por  outros  meios  de  prova,  tais  como  a  palavra  da  vítima  ou  o  depoimento  de  testemunhas,  como  é  o  caso  dos  autos.
+Nesse  sentido:
+"Nos  moldes  da  orientação  firmada  pela  Terceira  Seção  desta  Corte,  para  a  incidência  da  causa  de  aumento  relativa  ao  emprego  de  arma  de  fogo,  dispensável  a  apreensão  e  perícia  da  arma,  desde  que  o  emprego  do  artefato  fique  comprovado  por  outros  meios  de  prova"  (AgRg  no  AREsp  n.  2.100.469/RN,  Sexta  Turma,  Rel.  Min.  Antonio  Saldanha  Palheiro,  DJe  de  23/6/2023).
+No  mesmo  sentido:  AgRg  no  REsp  n.  1.989.347/MG,  Quinta  Turma,  Rel.  Min.  Joel  Ilan  Paciornik,  DJe  de  1/12/2022;  e  AgRg  no  REsp  n.  2.006.708/SP,  Quinta  Turma,  Rel.  Min.  Ribeiro  Dantas,  DJe  de  4/10/2022.
+Dessa  feita,  estando  o  v.  acórdão  prolatado  pelo  Tribunal  a  quo  em  conformidade  com  o  entendimento  desta  Corte  de  Justiça,  incide,  no  caso  o  enunciado  da  Súmula  n.º  568,  STJ:  "O  relator,  monocraticamente  e  no  Superior  Tribunal  de  Justiça,  poderá  dar  ou  negar  provimento  ao  recurso  quando  houver  entendimento  dominante  acerca  do  tema".
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se.  Intimem-se.
+EMENTA
+AGRAVO EM RECURSO  ESPECIAL.  ROUBO  MAJORADO.  RECONHECIMENTO  DA  MAJORANTE  DE  USO  DE  ARMA  DE  FOGO.  PRESCINDIBILIDADE  DE  APREENSÃO  E  DE  PERÍCIA  NA  ARMA  DE  FOGO.  PRECEDENTES.  SÚMULA  N.º  568/STJ.  AGRAVO CONHECIDO E RECURSO  ESPECIAL  DESPROVIDO.
