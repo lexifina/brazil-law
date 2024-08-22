@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por CASA DA MOEDA DO BRASIL CMB contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+DIREITO ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. DESCUMPRIMENTO CONTRATUAL PELA EMPRESA CONTRATADA. VALORES A RESTITUIR E MULTA COMPENSATÓRIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IMPOSSIBILIDADE. ARTIGO 50 DO CÓDIGO CIVIL. RECURSO DESPROVIDO (fl. 373).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 50 do CC, no que concerne à necessidade de se reconhecer o desvio de finalidade praticado pelos sócios da empresa recorrente para fins de desconsideração da personalidade jurídica. Aduz a seguinte argumentação:
+As recentes informações de dissolução irregular da sociedade UNICENTER 23, caracterizada por diversos processos trabalhistas e cíveis foram demonstrados nos presentes autos.
+A recorrente não apenas demonstrou a existência de processos em face da recorrida, mas, principalmente, comprovou que ela não fora igualmente encontrada, o que se revela uma diferença substancial. Restou claro que os sócios utilizaram a sociedade para não pagar seus credores.
+ ..
+Ademais, a recorrente fora diligente ao incluir na petição inicial a providência processual visando justamente tutelar seu crédito com o mínimo dispêndio da máquina judiciária quando já se sabia ou havia grande probabilidade de não atingir o objetivo na hipótese de ação manejada sem a inclusão dos sócios.
+ ..
+Quanto ao item 4, a intenção de cometer fraude fora rigorosamente demonstrada considerando as diversas tentativas de notificação extrajudicial, além de outros processos judiciais deflagrados contra a devedora, inclusive manejado pela CMB. A ciência e inércia dos sócios quanto aos eventos narrados, mesmo após expressamente intimada a pessoa jurídica, comprovam o abuso experimentado.
+Sobre o item 5, não é crível concluir que o pedido de desconsideração ocorreu por mera dissolução irregular. Não é o caso dos autos.
+A recorrente fez prova do desiderato maligno da recorrida que se arvora da existência da pessoa jurídica para não adimplir seus débitos. Em vários processos ficou comprovado que os sócios se esquivam das citações judiciais, promovendo uma verdadeira "chicana" com o Poder Judiciário, in verbis (fls. 424).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No entanto, a desconsideração da personalidade jurídica é medida extraordinária cuja aplicação se restringe, nos casos de dívidas não tributárias, diante da comprovação do desvio de finalidade ou confusão patrimonial a que se refere o artigo 50 do Código Civil. É imprescindível, nesse caso, a prova da intenção do sócio de cometer fraudes ou praticar abusos por meio da pessoa jurídica ou, ainda, a comprovação da confusão entre os patrimônios social e pessoal do sócio, o que não restou comprovado nestes autos (fls. 371, grifo meu ).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
