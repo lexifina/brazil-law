@@ -1,0 +1,26 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 211-220 (e-STJ), reconsidero a decisão de fls. 202-205 (e-STJ) e passo a novo exame do agravo interposto por TATIANY TAVARES SANTOS OLIVEIRA, contra decisão interlocutória que negou seguimento ao seu recurso especial, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/10/2023.
+Concluso ao gabinete em: 03/05/2024.
+Ação: de obrigação de fazer cumulada com compensação de danos morais, ajuizada pela agravante, em desfavor de DUTRA VEICULOS EIRELI - MICROEMPRESA, por meio da qual objetiva a transferência de veículo supostamente adquirido desta para o seu nome.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA. EFEITOS DA REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS. CONSOANTE ENTENDIMENTO DA CORTE SUPERIOR, "OS EFEITOS DA REVELIA SÃO RELATIVOS E NÃO ACARRETAM A PROCEDÊNCIA AUTOMÁTICA DO PEDIDO, DEVENDO O MAGISTRADO ANALISAR AS ALEGAÇÕES DO AUTOR E A PROVA DOS AUTOS" (AGINT NO ARESP 1915565/SP, REL. MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, JULGADO EM 16/11/2021, DJE 18/11/2021). MÉRITO. A DEMANDANTE SUSTENTA TER ADQUIRIDO VEÍCULO GOLF JUNTO A EMPRESA REQUERIDA, NO VALOR DE R$ 26.000,00(VINTE E SEIS MIL REAIS). AUSÊNCIA DE COMPROVAÇÃO. DOCUMENTOS ANEXADOS AOS AUTOS QUE CONSTA COMO COMPRADOR DO AUTOMÓVEL O SR. CLEVERSON SANTOS OLIVEIRA E COMO PROPRIETÁRIA A SRª MARIA GILZETE DOS SANTOS, PESSOAS ESTRANHAS A LIDE. DANO MORAL. INDEVIDO. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO. À UNANIMIDADE (e-STJ fl. 119).
+Recurso especial: aponta a violação do art. 344 do CPC. Sustenta que a revelia gera a presunção de veracidade dos fatos narrados pela parte autora, os quais só podem ser elididos se houver prova em contrário nos autos. Aduz que, na espécie, a ré revel (agravada) teve oportunidade de apresentar defesa e contestar os fatos narrados pela autora (agravante), mas se manteve inerte e silente durante todo o curso do processo, devendo ser reconhecida a veracidade dos fatos por esta alegados, isto é, a de que a agravada participou da relação de compra e venda do veículo e comprometeu-se a efetuar a transferência de propriedade do veículo junto ao DETRAN/SE.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A agravante, em relação aos efeitos da revelia e à demonstração dos fatos constitutivos de seu direito, não impugnou os seguintes fundamentos utilizados pelo TJ/SE:
+Logo, a decretação da revelia não tem o condão de induzir ao juízo de procedência, sendo necessário o exame do conteúdo probatório trazido aos autos (e-STJ fl. 120)
+(..)
+Por sua vez, quanto ao mérito da demanda, entende-se não possuir a recorrente melhor sorte, tendo em vista que não logrou êxito em demonstrar minimamente, em atenção do disposto no inciso I, do art. 373, do NCPC, fato constitutivo do seu direito.
+Ora, em que pese a demandante sustente veementemente ter adquirido junto à recorrida um veículo de marca GOLF, pelo valor de R$ 26.000,00 (vinte e seis mil reais), cujo pagamento se deu mediante entrega de uma motocicleta CG150 TITAN MIX EX de placa IAP5623, no valor de R$ 4.500,00 (quatro mil e quinhentos reais), além de ter pago R$ 11.500,00 (onze mil e quinhentos reais) em dinheiro e R$ 10.000,00 (dez mil reais) mediante financiamento; os documentos constantes nos autos consta como comprador Cleverton Santos Oliveira e como proprietária do veículo a Srª Maria Gilzete dos Santos, ou seja, pessoas estranhas a lide (e-STJ fl. 121) (grifos acrescentados).
+Assim, não impugnados esses fundamentos, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+Forte nessas razões, RECONSIDERO a decisão de fls. 202-205 (e-STJ) para CONHECER do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) sobre o valor atualizado da causa (e-STJ fl. 121) para 17% (dezessete por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO DE DANOS MORAIS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de compensação de fazer cumulada com compensação de danos morais, por meio da qual se objetiva a transferência de propriedade de veículo supostamente adquirido.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. Reconsiderada a decisão de e-STJ fls. 202-205. Agravo conhecido. Recurso especial não conhecido.
