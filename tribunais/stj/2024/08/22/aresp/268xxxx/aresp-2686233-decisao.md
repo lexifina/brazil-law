@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DA PARAÍBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - PRETENSÃO À OBTENÇÃO DE CERTIDÃO POSITIVA DE DÉBITO FISCAL COM EFEITO DE NEGATIVA - PROCEDÊNCIA - HONORÁRIOS SUCUMBENCIAIS - IRRESIGNAÇÃO - PERCENTUAL SOBRE O TOTAL DOS DÉBITOS FISCAIS - DESCABIMENTO - FIXAÇÃO COM EQUIDADE - ADOÇÃO - ENTENDIMENTO EXPOSTO EM JULGADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA - REFORMA DA SENTENÇA - PROVIMENTO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85 do CPC, no que concerne à impossibilidade de condenação da Fazenda Pública ao pagamento de honorários advocatícios na ação cautelar de antecipação de garantia, pois não há causalidade atribuível ao fisco, sendo que a execução fiscal pode ser proposta a qualquer momento no decorrer do prazo prescricional quinquenal, trazendo a seguinte argumentação:
+Se, por um lado, é lícito que o contribuinte se antecipe à execução fiscal futura para garantir o juízo e obter certidão de regularidade fiscal; por outro, o art. 174 do CTN concede ao Fisco o prazo prescricional de 5 anos para propor o executivo.
+Face a dois direitos subjetivos igualmente reconhecidos por lei, é irracional atribuir causalidade ao Estado por não ter proposto o executivo dentro do prazo que lhe é de direito por lei, sob pena de tornar o art. 174 do CTN letra morta.
+Só se saberá se o Estado deu causa à ação injustamente quando for discutido o mérito da exação -o que não se confunde com o objeto desta demanda, que é o de garantir o juízo pura e simplesmente.
+Na recente jurisprudência do STJ, definiu-se que não cabe condenação em honorários advocatícios na Ação de Antecipação de Garantia à Execução Fiscal:  ..
+ ..
+Portanto, sem que se precise sequer ponderar o modo de fixação da sucumbência, é preciso reconhece que não cabe a condenação do ESTADO ao pagamento de honorários advocatícios em se tratando de Ação Cautelar de Antecipação de Garantia, como no caso dos autos (fls. 182-183).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
