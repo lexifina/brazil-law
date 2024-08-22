@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial pelo qual F E F F e OUTROS se insurgiram, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA assim ementado (fl. 4.401):
+Apelação cível. Ação indenizatória. Direito ambiental. Construção de Usina Hidrelétrica de Santo Antônio. Nulidade da sentença. Ofensa ao princípio da congruência. Construção. Funcionamento.
+Nexo de Enchente do rio. Causalidade. Ausência de comprovação. Recurso provido.
+Tendo o juiz analisado a questão com base em prova técnica, adotando fundamentos que entendeu a quo relevantes para justificar seu convencimento, vislumbra-se fundamentada a sentença, afastando-se a alegação de nulidade da sentença e de ofensa ao princípio da congruência.
+Certificado que o alagamento resultante de enchente fora motivado por fenômeno natural, impõe-se assentira ausência de nexo de causalidade entre os danos sofridos pelos moradores da região afetada e o empreendimento relativo à construção da usina hidrelétrica, assim incabível a responsabilização civil da empresa com o intuito de reparação.
+Os embargos de declaração opostos foram rejeitados (fls. 4.483/4.485).
+Em suas razões recursais, a parte recorrente sustenta a existência de violação aos dispositivos ora indicados pelas seguintes razões:
+i) Arts. 1.022, II, 489, II, § 1º, IV, 373, § 1º, e 1.013, todos do Código de Processo Civil, e 17 da Lei 12.334/2010: o acórdão foi omisso por não se manifestar sobre a obrigatoriedade da recorrida de seguir os ditames da Lei 12.334/2010, e deixou de atribuir à empresa o ônus de provar que sua atividade não causou dano grave ou irreversível;
+ii) Arts. 186 e 927 do Código Civil, e 14, § 1º, da Lei 6.938/1981: "a posição que prevalece na doutrina ambiental é no sentido de que a Lei n. 6.938/81 - Política Nacional do Meio Ambiente - adotou, em seu artigo 14, §1º, a responsabilidade objetiva na modalidade do risco integral" (fl. 4.502).
+Argumenta, ainda, haver divergência jurisprudencial quanto ao mérito da ação.
+A parte adversa apresentou contrarrazões (fls. 4.627/4.645).
+O recurso foi admitido na origem (fls. 4.663/4.666).
+É o relatório.
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido.
+O Tribunal de origem, ao longo de todo o voto condutor, fez referência às diversas normas técnicas que regulam a atividade da empresa recorrida, inclusive àquelas infralegais, e concluiu, com base em fatos e provas, pela ausência de nexo de causalidade entre a sua conduta e os danos verificados. Assim, entendo que a consideração das disposições gerais da Lei 12.334/2010 não tem potencial para, em tese, modificar o resultado do julgamento.
+Dessa forma, o Tribunal de Justiça do Estado de Rondônia apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+A alegação de violação do art. 373 do Código de Processo Civil não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+No caso destes autos, o Tribunal a quo não se manifestou sobre a tese de inversão do ônus da prova, não abordada adequadamente nos embargos de declaração opostos pela parte ora recorrente, que, naquele recurso, se limitou a uma citação isolada do termo na fl. 4.438, sem desenvolver argumentação nesse sentido.
+A jurisprudência do Superior Tribunal de Justiça (STJ) considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos do enunciado 211 de sua Súmula.
+Ainda, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou:
+A responsabilização civil ambiental pretendida, para a aplicação da Teoria do Risco Integral, impõe a comprovação do nexo de causalidade entre o dano e a atividade exercida pela apelante, conforme entendimento exarado pelo Superior Tribunal de Justiça no Edcl no REsp 1.346.430-PR, 4ªT, DJe 14/02/2013.
+Portanto, cabe averiguar o nexo de causalidade entre a atividade da usina hidrelétrica da apelante e a alagação ocorrida pela enchente no ano de 2014.
+ ..
+Observa-se que os laudos produzidos trazem ampla análise do assunto, cuja conclusão é no sentido de que a maior cheia ocorrida em Porto Velho, no ano de 2014, não foi ocasionada pela construção da usina, pois não tem a capacidade de produzir vazão, mas, apenas, libera a mesma quantidade de água que recebe.
+Restou consignado em diversos estudos a respeito da Cheia de 2014 na Bacia do Rio Madeira, que uma barragem a fio d"água, como é a Barragem Santo Antônio, na qual o nível d"água do reservatório e o volume de água armazenado devem ser sempre os mesmos, não pode aumentar ou reduzir as vazões.
+Poder-se-ia ocorrer o agravamento da cheia a montante, caso as comportas não fossem suficientes para liberar o volume d"água recebido, tal fato, se ocorresse na Usina Hidroelétrica de Santo Antônio, provocaria danos inclusive à Usina Hidroelétrica de Jirau e, fosse nessa, o agravamento das cheias a montante desta, incluindo a Bolívia.
+Entretanto, na cheia de 2014, os reservatórios das usinas mantiveram o nível estável, o que significa que as comportas conseguiram liberar o volume de água recebido, o que se conclui que, havendo ou não as represas, o volume de água causaria os danos na proporção que causou.
+Com efeito, o volume de água da cheia de 2014 resultou de fenômeno natural, que acontece na região com periodicidade, intervalos de pouco mais de uma década. Logo, afastada a causa do dano como sendo de responsabilidade da apelante, não há que se falar em indenização (fls. 4.387/4.400).
+O Tribunal local, adotando expressamente a teoria do risco integral, reconheceu a ausência de nexo de causalidade entre a atividade da usina hidrelétrica e os danos sofridos pelos autores.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+DIREITO AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DE DANO AMBIENTAL. INCIDÊNCIA DA SÚMULA 7/STJ. RESPONSABILIDADE AMBIENTAL OBJETIVA. NECESSÁRIA A COMPROVAÇÃO DO DANO. PROVIMENTO NEGADO.
+1. Cuida-se na origem de ação civil pública na qual se objetiva a apuração de dano ao meio ambiente em razão da suposta dispersão de partículas na atmosfera.
+2. O Tribunal de origem entendeu não haver provas suficientes nos autos para comprovar eventual dano ambiental causado pela empresa ora agravada. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Segundo a jurisprudência desta Corte, "em que pese a responsabilidade por dano ambiental seja objetiva (e lastreada pela teoria do risco integral), faz-se imprescindível, para a configuração do dever de indenizar, a demonstração da existência de nexo de causalidade apto a vincular o resultado lesivo efetivamente verificado ao comportamento (comissivo ou omissivo) daquele a quem se repute a condição de agente causador" (REsp 1.596.081/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 25/10/2017, DJe de 22/11/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.682.237/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE NEXO DE CAUSALIDADE ENTRE A REDUÇÃO DO VOLUME/PISCOSIDADE DO RIO SÃO FRANCISCO E A CONDUTA DA CHESF. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. Não há a ofensa aos 489, § 1º, IV, 1.013, 1.022, II, do CPC/2015 , pois o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia em conformidade com o que lhe foi apresentado. O acórdão recorrido manifestou-se expressamente sobre a tese da assunção de responsabilidade expressa da CHESF, na licença de operação 147, rechaçando-a.
+2. É inviável analisar as teses defendidas no Recurso Especial de que a CHESF é responsável redução da vazão do Rio São Francisco e, consequentemente pela redução da piscosidade no local, bem como de que tal hidrelétrica assumiu a responsabilidade por tais danos, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário ao defendido pela recorrente. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+3. Recurso Especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp n. 1.786.140/SE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/2/2019, DJe de 11/3/2019.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DANO AMBIENTAL. NEXO CAUSAL. RESPONSABILIDADE. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA.
+1. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda consistente na ausência de nexo causal entre o dano ambiental causado e as rés, o que faz incidir a Súmula nº 7 do STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.493.070/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/3/2016, DJe de 14/3/2016.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF E 211/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF e 211/STJ.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de nexo causal entre a atividade da recorrida e a degradação ambiental. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 439.376/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/2/2014, DJe de 7/3/2014.)
+Ante o exposto, com base no art. 255, § 4º, I e II, do Regimento Interno do Superior Tribunal de Justiça, conheço parcialmente do recurso especial e, na parte conhecida, nego-lhe provimento.
+Por fim, majoro, em desfavor dos recorrentes, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
