@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto por LENILDA GOMES DE MOURA contra decisão que não conheceu do agravo em recurso especial.
+A parte recorrente tem como fundamento do pedido revisional a falta de observação de causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/06.
+O Tribunal de Justiça não acolheu o pedido revisional, mantendo, na íntegra, a decisão condenatória (fls. 860-872).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, "a", da Constituição Federal, alegando violação ao art. 33, §4º da Lei nº 11.343/06 (fls. 873-911).
+O recurso foi inadmitido com fundamento nas Súmulas n. 7 e n. 83, ambas do STJ (fls. 937-950).
+A defesa interpôs agravo em recurso especial (fls. 956-975), o qual não foi conhecido pela falta de impugnação específica dos fundamentos da decisão (fls. 1002-1003).
+Nas razões deste agravo regimental, o recorrente reitera as alegações do recurso anterior e sustenta a diferença entre revolvimento e revaloração da prova (fls. 1007-1018).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expostos no agravo regimental, reconsidero a decisão agravada, tornando-a sem efeito, e passo a examinar o agravo em recurso especial.
+Conforme entendimento da Corte, inadmitido o recurso especial em razão do óbice da Súmula n. 7, a simples argumentação de que se trata de revaloração da prova é insuficiente para afastá-lo (AgRg no AREsp n. 2.459.378/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/2/2024, DJe de 6/3/2024.).
+Acrescento que, a despeito de argumentar a desnecessidade de revolvimento do conjunto fático-probatório, as razões recursais suscitam questionamentos que demandam tal atividade, a corroborar o acerto da decisão agravada quanto à aplicação da Súmula n. 7, STJ. A título exemplificativo, às fls. 864 e 865, a decisão informa:
+"Em termos específicos, segundo consta no inquérito policial, temos que foram encontrados com a demandante 12 (doze) papelotes de maconha e 15(quinze) porções de cocaína, tendo os Policiais a observado passar uma mensagem de texto via para a sua whatsapp irmã, a senhora Renilda Gomes dos Santos, sendo que na casa desta última senhora a Polícia localizou uma folha de anotações com valores tabelados por meses." (fl. 864)
+"inviável a desclassificação da conduta para o art. 28 da Lei11.343/06, quando os elementos coletados nos autos demonstram a condição de traficante, considerando, sobretudo forma de acondicionamento do entorpecente, e quantidade, suficiente para produção de cigarros , devendo, assim, ser mantida a condenação pela prática do delito previsto no art. 33 da Lei nº 11.343/06." (fl. 865)
+Já no recurso especial, a Defesa alega que a acusada não era traficante contumaz, e sim dona de casa, vivendo do auxílio de benefício de prestação continuada. Tais afirmações revelam a necessidade de incursão no acervo fático-probatório, para que se acolha o pleito recursal, o que inviabiliza o recurso especial (AgRg no AREsp n. 2.566.794/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024; AgRg no AREsp n. 2.587.467/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/6/2024, DJe de 21/6/2024; AgRg no REsp n. 2.125.440/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. REITERAÇÃO DO MÉRITO. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/06. INCIDÊNCIA DA SÚMULA 7, DO STJ. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
