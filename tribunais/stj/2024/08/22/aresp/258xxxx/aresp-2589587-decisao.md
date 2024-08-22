@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MICHELLY RIBEIRO SILVA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/02/2024.
+Concluso ao gabinete em: 05/06/2024.
+Ação: declaratória de nulidade de doação inoficiosa, ajuizada pela ora agravante, em face de JODIR RIBEIRO SILVA e ADERVAL RIBEIRO SILVA, seus tios, ora agravados.
+Na inicial, narra que é filha de ADERBAL RIBEIRO SILVA, irmão dos ora agravados, que veio a falecer em 08 de março de 1985.
+Alega que seu genitor e os tios são filhos de DIOGA RIBEIRO DA SILVA, falecida em 13 de junho 2020.
+Afirma que, após o falecimento de seu pai, sua avó adquiriu, com recursos próprios, bens imóveis que foram colocados diretamente em nome dos outros dois filhos, ora agravados (figurando como usufrutuária dos referidos imóveis).
+Aduz que JODIR RIBEIRO SILVA provocou a abertura do inventário, arrolando somente bens que se encontram em nome de sua genitora e sonegando os imóveis que ela lhe doou.
+Pugna pela declaração de nulidade das doações inoficiosas realizadas.
+Sentença: declarou a decadência do direito da autora de pleitear a nulidade dos negócios jurídicos objeto da demanda.
+Acórdão: negou provimento à apelação interposta pela parte ora agravante, nos termos da seguinte ementa (e-STJ fl. 402):
+"DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURAS PÚBLICAS. ALEGAÇÃO DE SIMULAÇÃO. CÓDIGO CIVIL DE 1916. INCIDÊNCIA DE PRAZO DECADENCIAL. SUPOSTA DOAÇÃO INOFICIOSA. INAPLICABILIDADE DA TEORIA DA ACTIO NATA. PRETENSÃO PRESCRITA. RECURSO NÃO PROVIDO. SENTENÇA MODIFICADA DE OFÍCIO.
+1. A ação ajuizada buscando a anulação de escrituras públicas supostamente lavradas mediante simulação, durante a vigência do ordenamento legal anterior, se submete ao prazo decadencial de 4 (quatro) anos previsto no art. 178, § 9º, V, "b", do Código de Civil de1916.
+2. Ainda que fossem aplicadas as regras próprias da prescrição, seja ela decenal ou vintenária, o termo inicial do prazo corresponderia à data do registro do ato jurídico que se pretende anular em razão da doação inoficiosa, não havendo que se falar em aplicação da teoria da actio nata.
+3. Recurso não provido. Sentença modificada de ofício, a fim de fundamentar a declaração da decadência no art. 178, § 9º, V, "b", do Código de Civil de 1916 c/c art. 2.028 do Código Civil vigente."
+Recurso especial: alega violação dos arts. 166, 167, 168, 169 e 189 do CC/2002 (102, 145 e 146 do CC/1916); e 505 do CPC, sustentando que: (i) somente tomou conhecimento dos negócios jurídicos fraudulentos com a morte da sua avó, sendo indevido o reconhecimento da decadência do seu direito; (ii) completou 16 (dezesseis) anos em 29 de setembro de 2000, não podendo, anteriormente, correr o prazo decadencial ou prescricional, tendo em vista que antes era absolutamente incapaz; (iii) a Corte de origem teria se equivocado ao considerar como termo inicial a data do registro do ato jurídico que se pretende anular em razão da doação inoficiosa, não havendo que se falar em aplicação da teoria da actio nata; (iv) não poderia questionar os negócios jurídicos fraudulentos antes do falecimento da sua avó.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Renato Brill de Góes, deixou de se manifestar sobre o mérito do recurso, requerendo o prosseguimento do feito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+Na esteira da sólida jurisprudência desta Corte, firmada tanto sob a ótica do art. 1.176 do CC/1916, quanto também sob a égide do art. 549 do CC/2002, o excesso caracterizador da doação inoficiosa deve ser considerado no momento da liberalidade e não no momento do falecimento do doador e da abertura da sucessão (Sobre o tema: REsp 2.026.288, Terceira Turma, DJe de 20/04/2023; EREsp 160.969/PE, Segunda Seção, DJe de 29/05/2000; REsp 1.284.828/RS, Terceira Turma, DJe de 11/12/2012).
+Ademais, a jurisprudência do STJ é consolidada no sentido de que a ação de nulidade de doação inoficiosa se submete a prazo vintenário, se regida pelo CC/1916, ou decenal, se regida pelo CC/2002, contado, como visto, a partir do registro do ato que se pretende anular (Nesse sentido: AgInt no AREsp n. 1.915.717/SC, Terceira Turma, DJe de 19/10/2022; AgInt no AREsp n. 1.872.777/RJ, Quarta Turma, DJe de 6/4/2022; REsp n. 1.933.685/SP, Terceira Turma, DJe de 31/3/2022).
+Na hipótese, a Corte de origem, ao julgar o recurso de apelação interposto pela agravante, concluiu o seguinte (e-STJ fls. 392/393):
+"Assevere-se, no entanto, que ainda que fossem aplicadas as regras próprias da prescrição, seja ela decenal ou vintenária, o termo inicial do prazo corresponderia à data do registro do ato jurídico que se pretende anular em razão da doação inoficiosa, não havendo que se falar em aplicação da teoria da actio nata.
+(..)
+Portanto, mesmo que a ação de origem tivesse como objeto principal a anulação de doações inoficiosas, a pretensão autoral encontraria óbice na prescrição, seja ela decenal ou vintenária, tendo em vista que a demanda foi ajuizada em 23/08/2021, ou seja, quase 21 (vinte e um) anos depois da data na qual a recorrente atingiu a maioridade, qual seja, 29/09/2000." (grifou-se)
+Da leitura dos trechos acima, verifica-se que a Corte de origem expressamente asseverou que o termo inicial do prazo corresponderia à data do registro do ato jurídico que se pretende anular em razão da doação inoficiosa (e-STJ fl. 392), conforme a jurisprudência do STJ, bem como que, na hipótese em análise, transcorreram mais de 20 (vinte) anos desde que a ora agravante atingiu a maioridade (e-STJ fl. 393).
+Cumpre destacar que, conforme visto, o Tribunal a quo expressamente asseverou que o termo inicial considerado para transcurso do prazo foi a "data na qual a recorrente atingiu a maioridade" (e-STJ fl. 393) - não prosperando, portanto, a tese de que não poderia correr o prazo decadencial ou prescricional em seu desfavor por ser absolutamente incapaz.
+Destarte, forçoso reconhecer que a decisão proferida pelo Tribunal local está em consonância com a jurisprudência do STJ, atraindo, por consequência, a incidência da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ, fls. 281 e 393) para 14%, observados os efeitos de eventual concessão do benefício de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE DOAÇÃO INOFICIOSA. MOMENTO DA AFERIÇÃO DO AVANÇO SOBRE A LEGÍTIMA. DATA DA LIBERALIDADE. PRESCRIÇÃO. VINTENÁRIA OU DECENAL. SÚMULA 568/STJ.
+1. Ação declaratória de nulidade de doação inoficiosa.
+2. Na esteira da sólida jurisprudência desta Corte, firmada tanto sob a ótica do art. 1.176 do CC/1916, quanto também sob a égide do art. 549 do CC/2002, o excesso caracterizador da doação inoficiosa deve ser considerado no momento da liberalidade e não no momento do falecimento do doador e da abertura da sucessão. Precedentes.
+3. A jurisprudência do STJ é consolidada no sentido de que a ação de nulidade de doação inoficiosa se submete a prazo vintenário, se regida pelo CC/1916, ou decenal, se regida pelo CC/2002, o qual é contado a partir do registro do ato que se pretende anular. Precedentes.
+4. Agravo conhecido. Recurso especial conhecido e desprovido.
