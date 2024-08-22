@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" da Constituição Federal) interposto de acórdão assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA EM FASE DECUMPRIMENTO DE SENTENÇA. INDEFERIMENTO DE PEDIDO DE SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO (CNH), PASSAPORTE E BLOQUEIO DE CARTÃO DE CRÉDITO. MEDIDA INEFICAZ PARA A SATISFAÇÃO DO CRÉDITO. ART. 139, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL. OFENSA AO PRINCÍPIO DA DIGNIDADE DA PESSOA. AUSÊNCIA DE RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA.
+I - Estando o agravo de instrumento apto para obter julgamento meritório, ressai prejudicada a análise dos embargos de declaração.
+I - Ainda que a execução se processe em benefício do credor, e que o art. 139, inc. IV, do CPC preveja que cabe ao juiz determinar medidas atípicas para compelir o devedor ao pagamento da dívida, tais disposições submetem-se às garantias constitucionais e aos princípios da razoabilidade e proporcionalidade. Inadmissibilidade de se afetar direitos existenciais do executado para forçá-lo ao cumprimento das obrigações assumidas.
+II- Logo, em que pese a execução ser feita no interesse do exequente (CPC, art.797), não é com a suspensão da carteira de habilitação, passaporte ou através do bloqueio do cartão de crédito do devedor que o crédito reclamado será satisfeito. Na verdade, melhor que se prossigam as diligências necessárias à busca de bens do executado (agravado) passíveis de satisfazer a obrigação exequenda. Assim, cumpre salientar que a norma do inciso IV, do art. 139, do CPC deve ser interpretada em harmonia com o disposto no art. 789 do mesmo diploma legal, que consagra o princípio da responsabilidade patrimonial do devedor, permitindo-se a utilização dos meios executivos atípicos somente quando recaírem sobre os bens do executado, não se admitindo, portanto, a restrição de seus direitos fundamentais como forma de compeli-lo a quitar o débito.
+RECURSO CONHECIDO E DESPROVIDO.
+Os Embargos de Declaração foram acolhidos com efeitos infringentes:
+EMENTA. EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPROBIDADE ADMINISTRATIVA. ADOÇÃO DE MEDIDAS ATÍPICAS. SUSPENSÃO DE CNH E PASSAPORTE. ATRIBUIÇÃO DE EFEITOS INFRINGENTES. POSSIBILIDADE.
+I - Os embargos de declaração prestam-se a esclarecer ou sanar vícios constantes da decisão judicial que comprometam sua clareza (obscuridade, contradição, erro material) ou que denotem deficiência sobre questão controvertida entre as partes (omissão).
+II - A Segunda Turma do Superior Tribunal de Justiça, no REsp 1.929.230/MT, de relatoria do Min. Herman Benjamim, entendeu ser possível adotar medidas executivas atípicas no cumprimento de sentença proferida em ação de improbidade. Contudo, embora o juiz possa determinar medidas indutivas, coercitivas, mandamentais ou sub-rogatórias para assegurar o cumprimento de ordem judicial, nos termos do art. 139, IV, do CPC, o pedido de suspensão da Carteira Nacional de Habilitação do executado não configura medida útil para a satisfação do crédito, revelando-se desproporcional e ineficaz para a garantia do adimplemento do crédito objeto da execução, não trazendo resultado positivo ao processo, devendo lado outro, considerando a peculiaridade do caso, e com arrimo no citado precedente da Corte da Cidadania, ser confirmada a decisão na parte que placitou a retenção do passaporte do executado.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E PARCIALMENTE ACOLHIDOS COM EFEITOS INFRINGENTES.
+Na origem, cuida-se de Agravo de Instrumento manejado contra decisão pela qual, em Ação Civil por Improbidade Administrativa em fase de cumprimento de sentença, deferiu-se medida constritiva de retenção de documentos, o que foi alterado em segundo grau de jurisdição, já em Aclaratórios, apenas para afastar a medida de suspensão da CNH do agravante.
+Consta que o réu descumprira acordo para o pagamento da multa a que fora condenado, o que, diante da não localização de patrimônio suficiente ao adimplemento da obrigação, deu ensejo à ordem de recolhimento da CNH, apreensão do passaporte, além de busca de bens nos cartórios de registro de imóveis e no Banco Central.
+O recorrente, em seu Recurso Especial, alega violação dos arts. 1.022, I e II e 139, IV do CPC/2015.
+O juízo de admissibilidade negativo, por incidência das Súmulas 284 do STF e 7 do STJ, deu ensejo à interposição do Recurso em exame.
+Contraminuta às fls. 271 - 272.
+O Ministério Público Federal opinou pelo não provimento do Agravo (fls. 286 - 291).
+É o relatório.
+Decido.
+Os autos foram encaminhados a este Gabinete em 30.7.2024.
+A questão jurídica referente à possibilidade de "o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos", com esteio no art. 139, IV do CPC/2015, foi submetida à sistemática dos Recursos Repetitivos, com a fixação do Tema 1137 do STJ.
+Transcrevo a Ementa:
+PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - DIREITO PROCESSUAL CIVIL - EXECUÇÃO - POSSIBILIDADE, OU NÃO, DE ADOÇÃO DE MEIOS EXECUTIVOS ATÍPICOS. (Art. 139, IV, do CPC/15) 1. Delimitação da controvérsia:1.1. Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR no REsp n. 1.955.539/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 29/3/2022, DJe de 7/4/2022.)
+Há determinação da suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de Recurso Especial ou de Agravo em Recurso Especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ.
+Nesse contexto, em cumprimento à decisão de sobrestamento, que tem a finalidade de evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, bem como prestigiar o mecanismo de oportunidade de juízo de retratação, determino a devolução dos a utos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o aresto vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
+EMENTA
