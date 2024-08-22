@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCO ANTÔNIO MIRANDA DA ENCARNAÇÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, assim resumido:
+APELAÇÃO CÍVEL - EXECUÇÃO DE TITULO EXTRAJUDICIAL - EMBARGOS À EXECUÇÃO NULIDADE DO LAUDO PERICIAL GRAFOTECNICO INOCORRÊNCIA - ATA NOTARIAL - OMISSÃO DO JUIZ QUANTO A PROVA COLACIONADA NOS AUTOS - PRÁTICA DE USURA DEMONSTRADA - COMPROVAÇÃO DE QUITAÇÃO DA OBRIGAÇÃO ORIGINÁRIA. 1) INEXISTE NULIDADE DA PROVA PERICIAL QUANDO O LAUDO ESCLARECE SATISFATORIAMENTE TODOS OS QUESTIONAMENTOS LEVANTADOS PELAS PARTES, CONCLUINDO QUE A ASSINATURA PARTIU DO PUNHO DA PARTE. 2) CONSIDERANDO A COMPROVAÇÃO DA PRÁTICA DE USURA, VEDADA PELO ORDENAMENTO JURÍDICO, ALIADA À COMPROVAÇÃO DE ADIMPLEMENTO DA OBRIGAÇÃO ORIGINÁRIA, ATRAVÉS DA ATA NOTARIAL NÃO IMPUGNADA PELO APELADO NO MOMENTO OPORTUNO, RECONHECE-SE A EXTINÇÃO DA AÇÃO DE EXECUÇÃO. 3) APELO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 141 e 492, ambos do Código de Processo Civil. Sustenta que o acórdão conheceu de matéria que não foi objeto de discussão no juízo de primeiro grau, nem de recurso por parte do apelante, a configurar com esse procedimento desconsideração com o princípio da adstrição e supressão de instância, trazendo a seguinte argumentação:
+Como afirmado acima, os embargos à execução, que originam o presente recurso, trouxeram como argumento a nulidade do Termo de Acordo e Reconhecimento de Dívida - que lastreia a execução - em razão de não ter sido assinado pelo embargante/recorrido, sendo este a única razão de se embargar a execução.
+A contestação aos embargos à execução centrou em demonstrar a veracidade da assinatura e a legalidade do documento, posto que deve-se contestar aquilo que consta a petição inicial.
+Nessa mesma linha de raciocínio, o magistrado de piso fixou como único ponto controvertido da lide saber se o documento que instrui a execução é autêntico e se foi assinado pelo embargante/recorrido.
+Ora, a prova produzida nos autos é limitada ao ponto controvertido fixado pelo julgador e este o fixa segundo os argumentos e pedidos constantes na inicial e na contestação, não podendo, assim, o Tribunal ao julgar a apelação, avançar sobre matéria que não foi discutida no juízo de origem.
+É que o juiz decidirá a lide nos limites em que foi proposta, sendo defeso conhecer de questões não suscitadas, a cujo respeito a lei exige a iniciativa da parte, conforme prescreve o art. 141 do CPC vigente.
+Assim, é vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado, conforme dispõe o art. 492 do CPC vigente.
+Pois bem.
+O(s) acórdão(s) recorrido(s) negou(aram) vigência aos dois dispositivos de lei federal citados (arts. 141 e 492 do CPC/2015) na medida em que avançou sobre matéria que não foi objeto de discussão no juízo de primeiro grau, não sendo também objeto do ponto controvertido fixado por ele.
+O limite da sentença ou do julgamento é o pedido, com sua fundamentação. É o que a doutrina denomina de princípio da adstrição, princípio da congruência ou da conformidade, que é o desdobramento do princípio disposto no art. 2º do CPC vigente.
+Ora, ao dar provimento ao apelo por considerar presente a usura e estar quitada a dívida, o Tribunal a quo adentrou em matéria que não foi objeto de discussão no juízo de piso, estando portando o(s) acórdão(s) aqui recorrido(s) em desacordo com o que formulado pelo próprio recorrido, quando interpôs os embargos à execução.
+De se ressaltar, ainda, que a tese discutida nos embargos à execução foi objeto de deliberação no Tribunal a quo por ocasião do julgamento da apelação, tendo a Corte Estadual concluído que não havia nulidade alguma no laudo pericial, ou seja, decidiu neste ponto, dentro dos limites fixados na lide.
+Em suma, a apelação foi provida com base em fundamento não invocado no juízo de piso.
+Ademais, entendendo o Tribunal a quo que houve omissão do juízo de piso quanto a prova colacionada nos autos, o correto seria, com a devida vênia, anular a sentença - pois aí sim trata-se de questão de ordem pública - e devolver os autos para novo julgamento.
+Procedendo como fez o Tribunal a quo efetuou supressão de instância, em verdadeira afronta ao ordenamento jurídico vigente. Extrai-se da doutrina:
+ ..
+Ainda que a doutrina citada se refira a sentença é aplicável, com a devida vênia, também aos acórdãos, dada a identidade do assunto.
+Diante da violação aos artigos 141 e 492 do Código de Processo Civil vigente, há que se dar provimento ao presente recurso, para que o Tribunal a quo profira outro julgamento dentro dos limites da lide (fls. 640-642).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+No que tange à ofensa ao principio da adstrição, nota-se, pela simples leitura dos embargos à execução, que o autor/apelante/embargado buscava o reconhecimento da quitação da divida porquanto havia sido pago o montante de R$ 200.000,00 (duzentos mil reais) e que o valor executado se encontrava superior ao acordado entre as partes.
+Embora não tenha organizado como um tópico especifico, verifica-se que a prática da usura foi uma das causas de pedir dos embargos à execução, tanto que em vários trechos, o embargado destaca que havia pago o valor inicialmente contratado, senão vejamos (MO #01):
+"Ora Excelência, o negócio jurídico foi realizado no ano de 2010, e foi pago com R$ 200.000,00 (duzentos mil reais) atualizados e corridos, ou seja esse valor ultrapassa muito além os R$ 50.000,00 (cinquenta mil reais) corrigidos e atualizados com juros."
+Segundo remansosa jurisprudência do Superior Tribunal de Justiça, o provimento jurisdicional não está adstrito apenas aos pedidos formulados na exordial, mas também à causa de pedir, a qual é delimitada pelos fatos narrados na petição inicial. Neste sentido:
+ ..
+No tocante à supressão de instância, o inciso III do § 3º do artigo 1.013 do Código de processo civil, prevê a possibilidade de julgamento pelo juiz ad quem de matérias não analisadas pelo juiz a quo, desde que realizadas todas as diligências necessárias para o imediato julgamento da lide. Vejamos:
+ ..
+Não obstante, o acórdão impugnado é claro ao fundamentar que houve o adimplemento da execução e que os juros pactuados pelas partes ultrapassam os limites impostos pelo Decreto nº 22.626, de 07 de abril de 1933:
+"Portanto, é incontroverso que as partes celebraram contrato de mútuo em, por não se tratarem de instituição financeira, devem se submeter ao limite de 12% (doze por cento) ao ano, estabelecido pela Lei de Usura.
+Nos termos do art. 1º, do Decreto nº 22.626, de 07 de abril de 1933 (Lei de Usura), é vedado estipular taxas de juros superiores ao dobro legal, dispondo os arts. 5º e 9º que:
+"Art. 5º. Admite-se que pela mora dos juros contratados estes sejam elevados de 1% e não mais.
+Art. 9º. Não é válida a cláusula penal superior a importância de 10% do valor da dívida."
+No caso em tela, entendo válido o termo de confissão de dívida assinado pelo apelante, entretanto, ficou demonstrado que o valor ali constante, qual seja, de R$ 750.000,00 (setecentos e cinqüenta mil reais) destoa do pactuado inicialmente entre as partes, isto é, R$ 60.000,00 (sessenta mil reais), além de ter sido comprovado o adimplemento total da dívida com os R$ 200.000,00 (duzentos mil reais), conforme ata notarial acima colacionada.
+Neste sentido, a jurisprudência é pacífica:
+ ..
+Considerando a prática de usura, vedada pelo ordenamento jurídico, aliada à comprovação de adimplemento da obrigação originária, através da ata notarial
+não impugnada pelo apelado no momento oportuno, merece reforma a sentença proferida pela juíza singular.
+Posto isto, dou provimento ao apelo para reformar a sentença e julgar procedentes os embargos à execução, declarando a quitação da obrigação contida no Termo de Confissão de Dívida que embasou a execução (Proc. n. 0010868-80.2017.8.03.0002)."
+Assim, diante do que ficou exposto linhas acima, depreende-se inexistirem as alegadas contradições no acórdão embargado, buscando o embargante, conforme declinado linhas acima, a reanálise de matéria decidida por esta Corte de Justiça (fls. 619-623).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
