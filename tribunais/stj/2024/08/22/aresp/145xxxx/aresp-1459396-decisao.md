@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição) contra acórdão proferido pelo Tribunal assim ementado (fl. 620):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - Insurgência contra determinação de constrição sobre ativos financeiros pertencentes à empresa executada (créditos atinentes à alienação de patrimônio) - Manutenção do decisum - Princípio da efetividade na execução - Obediência à ordem de preferência legal de penhora estabelecida no artigo 854 do CPC/2015 - Ausência de violação ao artigo 805, do mesmo Diploma legal - Inaplicabilidade às sociedades de economia mista das benesses conferidas pelos artigos 534 e 535, ambos do Código de Processo Civil/2015 e artigo 100, da Constituição Federal - Pessoa jurídica de direito privado à qual são inaplicáveis os benefícios processuais concedidos à Fazenda Pública em juízo. Precedentes do STF e dessa Corte - Alegação de excesso de execução que deverá ser objeto de apreciação pelo mm. juiz da causa no momento devido, sob pena de supressão de um grau de jurisdição Exegese dos artigos 523 e 525, ambos do Código de Processo Civil/2015 - Decisão Mantida - Recurso improvido.
+Os Embargos de Declaração foram rejeitados (fls. 421-425).
+Sustenta a parte agravante, em Recurso Especial, violação, em preliminar, dos arts. 11, 489, § 1º, e 1.022 do CPC/2015, sob o argumento de que os vícios apontados nos Embargos de Declaração não foram supridos; e, no mérito, dos arts. 805, 832, 833, 866, todos do CPC e do art. 116 da Lei 8.666/1993. Aduz, em síntese (fls. 339-340):
+.. cumpre esclarecer que, além da impossibilidade fático-material de cumprimento da determinação de penhora da recorrente, os bens da recorrente são impenhoráveis. Explica-se.
+A DERSA foi criada pelo Decreto -Lei Estadual nº 05/1969, em regime de sociedade por ações, na condição de economia mista, sendo o Estado de São Paulo o seu acionista majoritário, com 99,9999% das ações. Sempre atuou como delegatária de serviços públicos, exercendo atividades consideradas essenciais para a comunidade. Frisa-se: a sua finalidade precípua sempre foi a prestação de serviços públicos relacionados ao transporte delegados pelo Estado de São Paulo.
+Enquanto sociedade de economia mista, o C. Supremo Tribunal Federal reconheceu que os bens da DERSA são impenhoráveis, e que suas dívidas devem ser quitadas por meio do regime de precatórios. Esse fato já foi reconhecido enquanto a DERSA ainda possui capital MISTO. Nesse sentido, imperioso destacar que recentemente a recorrente foi transformada em empresa pública, oque reforça ainda mais a impenhorabilidade de seus bens (a menos que este C. Tribunal pretenda violar o Código de Processo Civil e a própria Constituição Federal).
+Esclarecida a configuração da DERSA como empresa pública e anteriormente sociedade de economia mista prestadora de serviços públicos, cumpre destacar a consequência direta desse pressuposto como já afirmado: a impenhorabilidade do crédito decorrente da Concorrência nº 004/2017.
+Apresentadas contrarrazões, sobreveio o juízo de admissibilidade negativo da instância de origem (fls. 496-497), o que deu ensejo à interposição do presente Agravo.
+O Ministério Público Federal manifestou-se por meio do Parecer de fls. 716-718, no sentido de que o Recurso Especial seja parcialmente provido para determinar o rejulgamento dos Embargos de Declaração.
+É o relatório.
+Decido.
+No que tange à alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC, merece acolhida a irresignação.
+Verifica-se que foram opostos aclaratórios pela recorrente para sanar omissão, porém o Tribunal a quo manteve-se silente quanto à questão suscitada.
+Cito trecho do Recurso Especial em que o vício é delimitado (fls. 613-614):
+A r. decisão recorrida deixou de apreciar pontos cruciais para o entendimento sobre o tema apresentado, quais sejam:
+(i) O v. acórdão reconheceu expressamente se tratar de alegação de fato novo, todavia, consignou que as matérias postas já foram decididas ocorrendo a preclusão. Contudo, em se tratando de fato novo, não há que se falar em preclusão da matéria;
+(ii) impossibilidade fático-material de cumprir o acordão que determinou a penhora do crédito decorrente da Concorrência nº 004/2017;
+(iii) impossibilidade fático-material do cumprimento da penhora de verbas carimbadas tendo em vista que enquanto não utilizados os valores dos repasses, estes devem ser aplicados, por determinação legal, em FUNDO DEINVESTIMENTO - TESOURO RENDA FIXA, e não ficam à disposição da recorrente para movimentação, a ponto de ser objeto de constrição - exatamente como determina o artigo 116, § 4º da Lei 8.666/93.
+Observa-se, quanto ao fato novo narrado pela recorrente, que não foi enfrentado o argumento de que, no curso do processo, a empresa Dersa teria modificado o tipo societário de sociedade de economia mista para empresa pública, o que teria impacto nas regras processuais de constrição de seus bens. Nesse sentido, destaca-se dos Embargos de Declaração (fl. 399):
+.. insta esclarecer que o agravo de instrumento fora interposto quando a embargante era sociedade de economia mista prestadora de serviço público e estava iniciando o procedimento para transformação em empresa pública. Recentemente (abril de 2018) a embargante foi efetivamente convertida em empresa pública, ou seja, integrante da Administração Indireta do Estado de São Paulo, sem capital privado e obtenção de lucros (doc. 01).
+(..)
+Sendo assim, cumpre esclarecer que, já que concretizada a transformação da embargante em empresa pública, não há qualquer dúvida acerca da aplicação do art. 100 da Constituição Federal ao caso em tela.
+Além do mais, noticiou-se nos autos que a empresa está em processo de liquidação.
+Justifica-se, portanto, a devolução dos autos à origem para novo julgamento dos Embargos de Declaração, de modo que sejam especificamente abordados esses pontos, haja vista a sua relevância. A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/1973. OMISSÃO CONFIGURADA. MATÉRIA RELEVANTE NÃO ABORDADA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA MATÉRIA OMITIDA.
+1. A parte agravada interpôs Recurso Especial sustentando violação do art. 535 do CPC/1973, pois o acórdão recorrido não analisou a tese que defende possível aplicação do comando do § 3º do art. 42 do CPC/1973 ao caso.
+2. Configurada a omissão e, por conseguinte, a ofensa ao art. 535 do CPC/1973, devem os autos retornar à origem para novo julgamento dos Embargos de Declaração.
+3. Não configura inovação recursal a oposição de Embargos de Declaração visando promover a manifestação de questão relevante advinda no julgamento do acórdão embargado.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.394.325/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 30/11/2016)
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, dou-lhe provimento para determinar o retor no dos autos à Corte local a fim de que esta proceda a novo julgamento dos Embargos Declaratórios, sanando-se omissão sobre os dois seguintes fatos novos e o eventual impacto das ocorrências para a demanda em julgamento: a) conclusão da transformação do DERSA em empresa pública estadual; e b) liquidação da empresa em andamento.
+Publique-se.
+Intimem-se.
+EMENTA
