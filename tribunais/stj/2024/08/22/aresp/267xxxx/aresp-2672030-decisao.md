@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por DAFNA DA SILVA AUGUSTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE SALDO EM CONTA BANCÁRIA. PRECEDENTE: ERESP Nº 1874222/DF. NÃO COMPROVAÇAO DO COMPROMETIMENTO DE RENDA FAMILIAR. CONSTRIÇÃO VÁLIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Agravo de Instrumento interposto pela parte executada contra decisão que manteve a penhora realizada em conta bancária.
+2. Em que pese o Código de Processo Civil preveja a impenhorabilidade das verbas salariais (art. 833, IV, CPC), o c. STJ, ao interpretar o dispositivo, admite a sua relativização nos casos em que preservado percentual capaz de dar guarida à dignidade do devedor e de sua família, ainda que para pagamento de dívidas que não alimentícias.
+3. O devedor responde com todos os seus bens para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei (CPC, Art. 789). Inexistência, no caso concreto, de demonstração de prejuízo ao sustento familiar e de situação apta a atrair a incidência do art. 833, IV, do CPC.
+4. A determinação de penhora de valores em conta bancária é medida justa e equânime no caso.
+5. Agravo de instrumento conhecido e não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação do art. 833, inciso IV, do Código de Processo Civil, no que concerne à impenhorabilidade salarial quando há comprometimento da renda familiar do devedor, assim deve ser desconstituída a penhora de saldo em conta bancária da recorrente, trazendo a seguinte argumentação:
+Destarte, nota-se que o v. Acordão vergasto não observou a impenhorabilidade prescrita no artigo 833, inciso IV do CPC, outrossim, jurisprudência do Colendo Tribunal da Cidadania em que deve ser preservado percentual para resguardar à dignidade do devedor e de sua família no caso de penhora de valores.
+ ..
+Destarte, em que pese o v. Acordão do Tribunal Local afirmar que a recorrente não formulou alegação acerca da impenhorabilidade sob o fundamento de tratar-se de verba salarial, in casu, verifica-se que ela é substituída processualmente pela Curadoria Especial, sendo, portanto, inviável e impossível a aferição de tal circunstância.
+Dessa forma, o ônus da prova de que a penhora do saldo em conta bancaria do devedor não irá comprometer sua subsistência digna deve ser comprovada pelo credor, assim, não pode haver mera presunção de que a sua dignidade será preservada, pelos fatos acima delineados.
+Dessa forma, in casu, a regra da impenhorabilidade prevista no artigo 833, inciso IV do CPC não pode ser mitigada, porquanto deve-se preservar percentual capaz de dar guarida à dignidade do devedor e de sua família e tal circunstância não resta evidenciada. (fls. 272-273).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No presente recurso, a agravante não comprovou que os valores bloqueados referem-se a verba salarial ou à subsistência familiar, apenas limitou-se a afirmar que valores inferiores a 40 salários mínimos, depositados em qualquer tipo de conta bancária, são impenhoráveis.
+Ademais, todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva (Arts. 4º e 6º, CPC).
+O devedor responde com todos os seus bens para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei (CPC, Art. 789).
+Nesse contexto, sobreleva a análise do caso concreto, à luz dos princípios da razoabilidade e proporcionalidade, buscando-se o pagamento da dívida e a preservação da dignidade e do mínimo existencial daquele que tiver a renda passível de constrição.
+No caso, os documentos dos autos de origem demonstram que o valor penhorado decorre da determinação judicial (ID 169259650  origem) e foi utilizado para pagamento parcial de inadimplemento de cártula de cheque da agravante, reconhecido em sentença ID 52756741  origem.
+O RECIBO DE PROTOCOLAMENTO DE DESDOBRAMENTO DE BLOQUEIO DE VALORES, atinente à quantia de R$ 1.388,03 (ID 169259653), demonstra a realização da penhora em conta dos bancos CAIXA ECONOMICA FEDERAL e ITAU UNIBANCO S.A.
+Contudo, não foram acostados aos autos nenhum extrato dos bancos CAIXA ECONOMICA FEDERAL e ITAU UNIBANCO S.A., ou de qualquer outro banco que a agravante tenha conta aberta, para comprovar o caráter salarial da quantia penhorada, o que afasta a regra da impenhorabilidade prevista no art. 833, IV, CPC. (fl. 252).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
