@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANILO DO AMARAL OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0062736-11.2017.8.26.0050.
+Depreende-se dos autos que o paciente foi sentenciado como incurso no artigo 33, caput, da Lei n. 11.343/2006, à pena de 7 (sete) anos de reclusão, a ser cumprida em regime inicial fechado (fls. 24-29).
+Irresignada, a Defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso, conforme aresto de fls. 30-40.
+No presente writ, a impetrante alega, em síntese, a nulidade das provas oriundas do flagrante em razão da busca domiciliar realizada sem fundadas razões e sem autorização judicial, sendo ilícitas as provas delas derivadas.
+Requer, ao final, liminarmente, a suspensão da execução penal relacionada à condenação em epígrafe. No mérito, pugna pela concessão da ordem para cassar o acórdão combatido, reconhecendo a nulidade apontada.
+É o relatório. DECIDO.
+Em que pese a alegação defensiva de "não ocorrência de litispendência" (fl. 4), entre o que fora julgado no HC n. 684.682/SP e a matéria trazida na presente impetração, compulsando os autos verifica-se que o objeto deste writ caracteriza, de fato, reiteração de pedido já apreciado no referido habeas corpus impetrado anteriormente, de relatoria do em. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), que apesar de não conhecer daquele mandamus, analisou a tese de nulidade ora vindicada. Confira-se trechos da decisão proferida naquele writ, in verbis (grifei):
+"Outrossim, no que concerne ao pleito defensivo de reconhecimento da ilicitude das provas, verifica-se que o v. aresto vergastado afastou motivadamente a alegada nulidade da busca e apreensão, sob o fundamento de que a inviolabilidade de domicílio encontra exceção em caso de flagrante delito.
+De fato, afere-se dos autos que o paciente fora condenado pela prática do crime de tráfico ilícito de entorpecentes, o qual configura delito permanente, ou seja, o momento consumativo protrai-se no tempo, permitindo a conclusão de que o agente estará em flagrante delito enquanto não cessar a permanência.
+É o que está disposto no art. 303 do Código de Processo Penal, segundo o qual "nas infrações permanentes, entende-se o agente em flagrante delito enquanto não cessar a permanência".
+Diga-se, o estado flagrancial do delito de tráfico ilícito de entorpecentes consubstancia uma das exceções à inviolabilidade de domicílio prevista no inc. XI do art. 5º da Constituição Federal, sendo permitida a entrada em domicílio independentemente do horário ou da existência de mandado.
+Esse é o entendimento dominante acerca do tema nesta Corte, no sentido de que "é dispensável o mandado de busca e apreensão quando se trata de flagrante da prática do crime de tráfico ilícito de entorpecentes, pois o referido delito é de natureza permanente, ficando o agente em estado de flagrância enquanto não cessada a permanência." (AgRg no REsp 1637287/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 10/05/2017).
+ ..
+No caso dos autos, os milicianos receberam informações a respeito da prática de tráfico ilícito de entorpecentes em determinado local por indivíduo foragido da justiça. Ao chegarem no endereço informado para efetuar averiguação preliminar das informações, os policiais bateram à porta, a qual foi aberta pelo próprio acusado, que franqueou a entrada dos agentes em seu domicílio, de modo que constata-se não ser o caso de ingresso forçado.
+A esse respeito, constou no édito condenatório que, "quanto à entrada na residência do réu, a própria mulher dele disse que os policiais bateram à porta, que foi aberta pelo acusado, não se vislumbrando qualquer ilegalidade" (fl. 30).
+Nesse compasso, compreende-se igualmente que não há nulidade nas provas obtidas em decorrência da situação de flagrância.
+De mais a mais, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo processual."
+Assim, a presente impetração evidencia o propósito de dupla apreciação por este Superior Tribunal de Justiça, dado que indica o não cabimento da insurgência em exame.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. ALEGAÇÕES DE DEFICIÊNCIA DE FUNDAMENTAÇÃO E AUSÊNCIA DE CONTEMPORANEIDADE. ANTERIOR IMPETRAÇÃO DO HC N. 795.657/SP. IDENTIDADE DE PARTES E CAUSA DE PEDIR. REITERAÇÃO DE PEDIDOS. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+Agravo regimental improvido." (AgRg no HC n. 825.694/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 18/8/2023.)
+Nesse diapasão, tem incidência o artigo 210 do RISTJ, o qual dispõe que, "quando o pedido for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
