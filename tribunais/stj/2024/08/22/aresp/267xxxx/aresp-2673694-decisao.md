@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por CARMO ALBERTO OLIVEIRA, contra decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal Regional Federal da 3ª Região, assim ementado:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO. TRABALHO EM CONDIÇÕES ESPECIAIS. MOTORISTA. VIBRAÇÃO DO CORPO INTEIRO. AGRAVO INTERNO DEPROVIDO.
+- Agravo interno conhecido, eis que observados os pressupostos processuais de admissibilidade recursal.
+- No tocante à Vibração de Corpo Inteiro - VCI, para que seja possível reconhecer como especial as atividades desempenhadas pela parte autora a partir de 28/04/1995, é necessário que o desempenho da atividade se desse "com perfuratrizes e marteletes pneumáticos", nos termos do código 1.1.5 do Decreto nº 53.831/64, código 1.1.4 do Decreto nº 83.080/79, código 2.0.2 do Decreto nº 2.172/97 e código 2.0.2 do Anexo IV do Decreto nº 3.048/99, o que não é o caso dos autos.
+- Impende ressaltar que esta E. Turma já se posicionou restritivamente acerca do reconhecimento da VCI em relação às demais categorias laborais (ApCiv - APELAÇÃO CÍVEL - 5307550-38.2020.4.03.9999, Rel. Desembargador Federal CARLOS EDUARDO DELGADO, julgado em 22/03/2023, DJEN DATA: 28/03/2023; ApCiv - APELAÇÃO CÍVEL - 5003944-48.2018.4.03.6183, Rel. Desembargador Federal VICTORIO GIUZIO NETO, julgado em 03/03/2023, DJEN DATA: 09/03/2023).
+- Agravo interno improvido." (e-STJ, fl. 543).
+Nas razões do recurso especial, a agravante alega violação aos arts. 57 da Lei n. 8213/91 e 21 da Lei de Introdução às Normas de Direito Brasileiro e divergência jurisprudencial, sustentando, em síntese, que foram comprovados os requisitos para o reconhecimento de tempo especial para aposentadoria correspondente a vibração de corpo inteiro acima dos limites de tolerância, considerando que o rol de agentes de risco é exemplificativo e que há tratado internacional que prevê a referida hipótese, sendo caso de prevalência de norma supra legal sobre o decreto regulamentador.
+Juízo negativo de admissibilidade às fls. 566/568.
+Interposto agravo em recurso especial às fls. 570/572.
+É o relatório. Passo a decidir.
+Os arts. 57 da Lei n. 8213/91 e 27 da LINDB não foram objeto de análise pelo Tribunal de origem nem foram objeto de embargos de declaração para corrigir eventual vício. Assim, incidem, no caso, as Súmulas 282 e 356 do STF.
+A propósito:
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF, POR ANALOGIA. ÔNUS PROBATÓRIO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO FUNDADA EM ATO DE NATUREZA INFRALEGAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. O Tribunal de origem reconheceu que a recorrente não se desincumbira do seu ônus probatório. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que atrai a incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+3. A Corte local baseou suas razões decisórias em ato de natureza infralegal, o que inviabiliza o conhecimento do recurso especial, conforme vem decidindo o Superior Tribunal de Justiça. Precedentes.
+4. A majoração dos honorários advocatícios, prevista no art. 85, § 11, do Código de Processo Civil, não se aplica no julgamento do agravo interno, já que não há abertura de nova instância recursal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.335.662/RO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+Ademais, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para não conhecer o recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e a concessão de justiça gratuita.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
