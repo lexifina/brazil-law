@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por NOTRE DAME INTERMEDICA SAUDE S.A. em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 345, e-STJ):
+Apelação - Plano de Saúde - Ação de Obrigação de Fazerc.
+c. Indenização por Danos Morais - Sentença de procedência - Prescrição de tratamento domiciliar "homecare" pelo médico assistente - Tratamento necessário à preservação da saúde do Autor - Incidência da Súmula nº 90 deste e. Tribunal - Abusividade na recusa - Plano de saúdenão pode negar a cobertura ao tratamento, medicamentos e insumos - "Home care" que, no caso, é mera extensão da internação hospitalar - Recusa indevida comprovada nosautos - Danos morais configurados -No caso, considerandoas peculiaridades do caso concreto entendo que a indenização por danos morais foi bem fixada em R$10.000,00 (dez mil reais) - Sentença mantida - Recursoimprovido.
+Nas razões de recurso especial (fls. 357-385, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 10, caput e §4º, e 12 da Lei n. 9.656/98; 421 e 421-A do CC, 51, IV, do CDC, arguindo a necessidade de observância do rol da ANS e a ausência de cobertura obrigatória de home care; (ii) 927 e 884 do CC, inexistência de danos morais. Aduziu, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 438-444, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação das Súmulas 5 e 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 450-477 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 480-486, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. O acórdão proferido pelo Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte Superior:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO DOMICILAR. ABUSIVIDADE. PRECEDENTES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE. SÚMULA N.º 568 DO STJ. DANOS EXTRAPATRIMONIAIS. REDUÇÃO DO QUANTUM. VEDAÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N.º 7 DO STJ. . DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, "é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AREsp 1.725.002/PE, Relatora Ministra Maria Isabel Gallotti, julgado em 19/4/2021, DJe 23/4/2021).
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.055.909/RN, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA ANTECIPADA. NEGATIVA DE COBERTURA DE TRATAMENTO DOMICILIAR (HOME CARE). ÍNDOLE ABUSIVA DA CLÁUSULA DE EXCLUSÃO. DANOS MORAIS CONFIGURADOS. TERMO INICIAL DOS JUROS DE MORA. CITAÇÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no AREsp 1.725.002/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2021, DJe de 23/04/2021).
+ ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.041.740/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO DOMICILIAR (HOME CARE). ABUSIVIDADE. IMPRESCINDIBILIDADE COMPROVADA. DANOS MORAIS CONFIGURADOS. IMPOSSIBILIDADE DE REVISÃO DO VALOR DA CONDENAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1725002/PE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. HOME CARE. NECESSIDADE. REEXAME. SÚMULA Nº 7/STJ. DANOS MORAIS. CONDENAÇÃO. POSSIBILIDADE.
+ ..
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de ser abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar (Lei nº 9.656/1998).
+3. Na hipótese, inviável rever o entendimento firmado pelas instâncias ordinárias quanto à necessidade do tratamento de home care sem a análise de fatos e provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+4. A recusa indevida da operadora de plano de saúde em autorizar a cobertura de tratamento médico a que esteja legal ou contratualmente obrigada enseja reparação a título de dano moral por agravar psicologicamente a situação e o espírito do beneficiário. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1681104/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/04/2021, DJe 16/04/2021)
+Veja-se que o referido entendimento, há muito firmado por esta Corte Superior, permanece sendo aplicado, mesmo após os julgamentos acerca da taxatividade do rol da ANS, no âmbito desta Quarta Turma (REsp n. 1.733.013/PR - dez/19) e da Segunda Seção (EREsps n. 1.886.929/SP e n. 1.889.704/SP - ago/22).
+Logo, incidente a Súmula 83/STJ.
+1.1. Registre-se, ademais, que não foram apresentadas razões recursais suficientes para conhecimento de eventual controvérsia acerca da quais itens estariam incluídos na cobertura devida - o que atrai o óbice da Súmula 284/STF.
+Por fim, destaca-se que não houve manifestação da Corte de origem, de forma individualizada, sobre materiais de higiene pessoal e mobiliário, citados na peça recursal, o que igualmente obsta o conhecimento do recurso no ponto, por óbice das Súmulas 282 e 356 do STF.
+Porquanto não foram apresentados embargos de declaração pela insurgente a fim de sanar omissão ou prequestionar a matéria.
+2.  Alterar  o montante de R$ 10.000,00, fixado pelo  Tribunal  local  ,  seria  necessário  novo  exame  do  acervo  fático-probatório  constante  dos  autos. Tal  providência, não se mostrando o valor como irrisório ou exorbitante, é  vedada  em  recurso  especial,  conforme  previsto  na  Súmula  7/STJ.
+Precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DA PARTE DEMANDADA. 1. Nos termos da jurisprudência do STJ, não há falar em rol de cobertura no que se refere aos medicamentos para tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS - devendo ser fornecidos , pela operadora de plano de saúde, conforme prescrição do médico assistente. Precedentes. 2. No mais, o acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral, bem como a revisão dos parâmetros utilizados para arbitramento da indenização - que, no caso, não se mostra excessiva ou irrisória. Incidência da Súmula 7/STJ. 3. Agravo interno desprovido. (AgInt no REsp n. 1.946.731/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)  grifou-se
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. DISPENSA DA PRODUÇÃO DE PROVA PERICIAL. SISTEMA DA LIVRE PERSUASÃO RACIONAL DO MAGISTRADO. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. HOME CARE. DEVER DE COBERTURA. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANOS MORAIS DEMONSTRADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.  ..  4. O Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao tratamento médico solicitado, uma vez que o tratamento de saúde foi apurado tecnicamente como imprescindível e urgente. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto probatório, o que é vedado a esta Corte ante o óbice da Súmula n.º 7 do S TJ. 5. Existência de entendimento pacífico desta Corte Superior no sentido de que, nos casos em que a recusa indevida de cobertura de tratamento médico-hospitalar impõe ao usuário de plano de saúde um grau de sofrimento físico/psíquico que extrapola aquele decorrente do mero inadimplemento contratual, atingindo direito da personalidade, fica demonstrada a ocorrência de danos morais e caracterizado o direito à reparação. 6. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n.º 7 do STJ, impedindo o conhecimento do recurso.  ..  8. Agravo interno não provido. (AgInt no REsp n. 1.980.863/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)  grifou-se
+Inafastável, nos pontos, o óbice da Súmula 7/STJ.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, §3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
