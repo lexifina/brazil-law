@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. contra decisão que não admitiu recurso especial.
+O apelo nobre, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER. Reapreciação determinada pelo Superior Tribunal de Justiça. Necessário tratamento pré-natal dos disrafismos espinhais. Negativa de cirurgia intrauterina de correção da mielomeningocele (Fetoscopia por meio da técnica SAFER). Recusa lastreada exclusivamente na ausência de previsão do procedimento junto à ANS. Existência, porém, de evidência científica. Parecer do Conselho Federal de Medicina, datado de 2018, que apontava para validade das cirurgias fetais na prática médica. Existência, outrossim, de Nota Técnica (Natjus-SP), indicando que "o procedimento de correção de menigomielocele por meio de cirurgia intrauterina parece trazer benefícios para a evolução do quadro" (Nota Técnica Complementar 910-A/22). ACÓRDÃO PRESERVADO" (e-STJ fl. 683).
+No seu arrazoado (e-STJ fls. 689/712), a recorrente alega, além de divergência jurisprudencial, a violação dos artigos 421 e 422 do Código Civil; 10 da Lei nº 9.646/1998, e 1º e 4º da Lei nº 9.661/2000, sob o argumento de que o rol da Agência Nacional de Saúde Suplementar (ANS) é taxativo e o contrato não prevê cobertura para a cirurgia intrauterina via fetoscopia aqui pleiteada e concedida.
+Defende a validade da cláusula de exclusão de cobertura.
+Contrarrazões juntadas às e-STJ fls. 791/802.
+O recurso especial não foi admitido pela decisão de e-STJ fls. 803/805.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+A irresignação não merece acolhida.
+Conforme decisão e-STJ fls. 631/633, foi determinado o retorno dos autos à origem para que a apelação fosse julgada nos moldes dos critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Ao dirimir a controvérsia, a Corte local assim se pronunciou:
+"De saída, observe-se que não há comprovação de que a Fetoscopia por meio da técnica SAFER, indicada para tratamento da mielomeningocele que acometia o nascituro, tenha sido expressamente afastada pela Agência Nacional de Saúde Suplementar.
+Neste tocante, aliás, cumpre observar que se cuida de procedimento realizado no Sistema Único de Saúde, de modo que, na linha do decido pelo STJ, tem-se como possível a cobertura do procedimento, anotada a ausência de expressa inclusão junto ao rol estabelecido pela autarquia.
+Depois, identifica-se a evidência científica necessária para atribuir ao plano de saúde o custeio do procedimento. No ano de 2018, o Conselho Federal de Medicina cuidou de responder uma consulta ao Ministério da Saúde, oportunidade em que, naquela oportunidade, assinalou: "Esses posicionamentos corroboram o entendimento atual da comunidade médica de que as cirurgias fetais estão em etapa de desenvolvimento, mas ainda não são procedimentos de uso corrente e amplo na medicina; ao contrário, tratam-se de procedimentos de alta complexidade e alto risco, válidos e utilizáveis na prática médica, porém devendo ser restritos a centros especializados dotados de infraestrutura adequada e a médicos especialistas em medicina fetal, com equipe multidisciplinar capacitada, com igual cuidado e acompanhamento pós-natal" (fls. 677).
+Reforce-se, ainda, que a evidência científica pode ser identificada a partir da Nota Técnica (Natjus-SP), sobretudo quando reforça que "o procedimento de correção de menigomielocele por meio de cirurgia intrauterina parece trazer benefícios para a evolução do quadro" (Nota Técnica Complementar 910-A/22).
+Destaque-se, apenas, que o parecer desfavorável do seu subscritor não está condicionado à inadequação da técnica, mas apenas porque o pedido de reembolso das despesas particulares, por quem não possuía plano de saúde, implica em prejuízos do sistema único de saúde, isto é, "não fica claro nos documentos anexados se a autora tinha plano de saúde à época e se houve negativa desse plano, motivo pelo qual estaria solicitando ressarcimento do Estado. Em caso negativo da autora ter cobertura de planos de saúde à época do procedimento, este parecerista tende a não ser favorável da cobertura do procedimento" (fls. 681).
+Em suma, preenchidas as exigências dos EREsps nºs 1.886.929/SP e 1.889.704/SP, preserva-se, por novos fundamentos, o v. acórdão" (e-STJ fls. 684/686- grifou-se ).
+Com efeito, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, surpratranscritos.
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
