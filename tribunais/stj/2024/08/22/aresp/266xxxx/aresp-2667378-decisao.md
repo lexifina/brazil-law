@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICIPIO DE TIMBAUBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. INCORPORAÇÃO DA GRATIFICAÇÃO DE 100%. ESTABILIDADE FINANCEIRA. PREENCHIMENTO DOS REQUISITOS LEGAIS. HONORÁRIOS ADVOCATÍCIOS NOS TERMOS DO ART. 85, §4º, II, DO PREJUDICADA UNÂMINE
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I, do CPC, no que concerne à correta distribuição do ônus da prova, tendo em vista a ausência de comprovação dos fatos constitutivo do direito do autor , trazendo a seguinte argumentação:
+Consigne-se que a Autora, ora Recorrida, apenas juntou à inicial ficha financeira, a qual não possui o condão de provar que não gozou de férias, muito menos a Fazenda Pública, a qual se utiliza da prerrogativa da inversão do ônus da prova, não precisa fazer prova constitutiva de suposto direito alheio. Sendo assim, não cabe o deferimento de tal pedido, uma vez que a mesma omitiu provas que demonstrasse tal direito.
+Além disso, cabia à Demandante/Recorrida demonstrar que não recebeu os valores por ele pleiteado, juntados extratos de suas contas bancárias de todo o período alegado na inicial, demonstrando o não recebimento dos supostos valores.
+ ..
+Com efeito, o artigo 373 do Código de Ritos afirma ser de responsabilidade do autor a produção da prova que embasa seu direito, mas o que se observa nos pedidos exarados na inicial é a pretensão de que esse ônus seja transferido para o ente municipal sem nenhuma explicação e em claro descompasso com a legislação vigente bem como a jurisprudência pátria.
+ ..
+Em sendo assim, infere-se que para que fosse reconhecido o direito do Demandado/Apelado ao recebimento de férias indenizadas, seria imprescindível a existência de lei local tratando da matéria, o que não existe no âmbito do Município de Timbaúba (fls. 363-366).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
