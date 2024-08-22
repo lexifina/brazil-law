@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de pedido liminar deduzido em sede de habeas corpus, impetrado em favor de PABLO FERNANDO RUFFO DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Na hipótese, depreende-se dos autos que o paciente teve a prisão preventiva decretada, pela prática, em tese, do delito capitulado pelo artigo 121, § 2º, incisos II e IV, do Código Penal.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, em acórdão assim ementado: (fl. 95)
+"(..) HABEAS CORPUS Homicídio Qualificado- Pretensão de aguardar em liberdade o julgamento do Recurso em Sentido Estrito interposto Inadmissibilidade Réu pronunciado - Réu que permaneceu preso durante toda a instrução criminal- Decisão fundamentada- Requisitos legais bem evidenciados- Questões reservadas ao mérito da ação penal Réu Pronunciado - Constrangimento ilegal -Inexistência- ORDEM DENEGADA (..)"
+Alega constrangimento ilegal e falta de fundamentação idônea para a manutenção da segregação cautelar. Requer a concessão da ordem liminarmente, com a confirmação no mérito, para que a prisão preventiva seja revogada.
+A liminar foi indeferida, às fls. 107-108.
+Informações prestadas, às fls. 116-118 e 119-135. O Ministério Público Federal, às fls. 139-141, manifestou-se pelo não conhecimento do mandamus, em parecer sintetizado nos seguintes termos:
+"HABEAS CORPUS - Homicídio Qualificado - Pretensão de aguardar em liberdade o julgamento do Recurso em Sentido Estrito interposto -Inadmissibilidade - Réu pronunciado - Réu que permaneceu preso durante toda a instrução criminal - Decisão fundamentada - Requisitos legais bem evidenciados - Questões reservadas ao mérito da ação penal - Réu Pronunciado - Constrangimento ilegal - Inexistência - ORDEM DENEGADA" (fl. 139).
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; seja para a garantia da ordem pública, diante da gravidade concreta da conduta consistente em homicídio qualificado, seja para assegurar a aplicação da Lei penal, constando nos autos que:
+"Com efeito, apesar dos argumentos lançados na impetração, na presente hipótese concreta a configuração dos requisitos demonstrativos do cabimento da medida prisional está evidenciada, como demonstrado, inclusive, pela decisão do douto magistrado a quo quando da sentença de pronúncia proferida, mantendo a prisão do paciente(fls.383/388) o qual fez constar que: " .. Considerando que o acusado permaneceu preso durante toda a tramitação do processo e que continuam presentes os requisitos ensejadores da prisão preventiva, bem como que nada de novo foi trazido pela defesa que pudesse alterara situação do acusado, beneficiando-o, mantenho sua prisão. Expeça-se o respectivo ofício de recomendação  .. "Evidencia-se de tal contexto fático, portanto, que o réu tem personalidade violenta, possuindo elementos reveladores de sua periculosidade, pondo em risco a ordem pública. Ainda, que em liberdade poderá comprometer a realização de Sessão Plenária e assim como frustrar a aplicação da Lei Penal. Há testemunhas a serem ouvidas, impondo-se sejam elas ouvidas livres de constrangimentos e riscos." (fls. 97-98)
+Tais, circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar imposta.
+Sobre o tema:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo"" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022 ).
+Ademais, no presente writ, incide o óbice da Súmula nº 21 desta Corte Superior, que prescreve que:
+"Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução".
+No mais, tendo o paciente permanecido preso durante toda a instrução criminal, não é caso de se permitir recorrer em liberdade, mormente considerando a necessidade de manutenção da prisão cautelar, conforme constatado nos autos.
+Nesse sentido:
+"Tendo o recorrente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau" (AgRg no HC n. 828.927/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/9/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
