@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DE SANTA CATARINA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO INTERNO. EMBARGOS À EXECUÇÃO FISCAL. ADESÃO AO PREFIS. EXTINÇÃO PELA DESISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. RECOLHIMENTO DE VALORES AO FUNJURE. BIS IN IDEM. CONDENAÇÃO AFASTADA. PRECEDENTES DESTA CORTE. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 90 do CPC, no que concerne à necessidade de condenação da executada, ora recorrida, ao pagamento de honorários advocatícios, pois desistiu dos embargos à execução, sendo que os honorários recolhidos em razão da adesão ao parcelamento administrativo se referem tão somente à execução fiscal.
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ademais, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+O pagamento, no entanto, já foi feito de maneira antecipada na via administrativa, por meio dos valores recolhidos ao FUNJURE, e isso afasta a possibilidade de nova imposição judicial da verba.
+Como dito naquela ocasião - e agora ratifico:
+Quanto ao apelo da embargante, por seu turno, houve adesão ao PREFIS instituído pela Lei Estadual 18.165/2021, que impôs a desistência "de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam" como condição para a regularização administrativa do débito (art. 5º).
+Além do montante referente ao crédito tributário em si, a embargante recolheu também R$ 16.220,49 ao FUNJURE, que equivalem aos honorários advocatícios, sendo indevida nova imposição da verba na via judicial, sob pena de bis in idem.
+ ..  (fl. 491, grifo meu).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
