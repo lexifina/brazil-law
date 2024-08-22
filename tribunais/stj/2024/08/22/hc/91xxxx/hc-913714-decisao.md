@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIOGO MILANA ANTONIO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Narra a defesa que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, dos delitos previstos nos arts. 33 e 35 da Lei 11.343/2006 e art. 244-B do Código Penal A prisão foi decretada visando garantir a ordem pública em razão da quantidade e variedade de droga apreendida - 70 papelotes de cocaína, 125,53g de crack, 48931g de haxixe, 751,22g porções brutas de cocaína, 20,72g de ecstasy,39,91g de crack, em porções, 19 porções de cocaína, contendo 125,099g.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, em acórdão de fls. 369-389.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar. Aduz que o paciente ostenta condições pessoais favoráveis e que em caso de condenação terá direito a regime diverso do fechado.
+Requer a revogação da prisão preventiva.
+Liminar indeferida às fls. 441-442.
+Informações prestadas às fls. 449-471 e 473-544.
+O Ministério Público Federal em parecer, às fls. 549-555, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS IMPETRADO COMO SUCEDÂNEO RECURSAL. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. QUANTIDADE ELEVADA DOS ENTORPECENTES APREENDIDOS. GRAVIDADE EM CONCRETO DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. PRISÃO PREVENTIVA QUE DEVE SER MANTIDA. PARECER PELA DENEGAÇÃO DA ORDEM. - O decreto e a manutenção da custódia estão sobejamente fundamentados nos requisitos insertos no artigo 312 do Código de Processo Penal. - Parecer pelo não conhecimento da impetração e, se conhecida, pela denegação da ordem" - fl. 549.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida -70 papelotes de cocaína, 125,53g de crack, 48931g de haxixe, 751,22g porções brutas de cocaína, 20,72g de ecstasy,39,91g de crack, em porções, 19 porções de cocaína, contendo 125,099g., circunstâncias que indicam a periculosidade concreta do agente e revelam a indispensabilidad e da imposição da segregação cautelar.
+No ponto, impende destacar que:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. APREENSÃO DE GRANDE QUANTIDADE DE DROGA, APETRECHOS E MUNIÇÕES PARA ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. ILEGALIDADE. AUSÊNCIA.
+1. Tendo o decreto prisional apresentado fundamentação concreta, evidenciada na apreensão de grande quantidade e variedade de drogas apreendidas, tratando-se de 1,5 kg de cocaína, 600 g de pasta base de cocaína e 600 g de crack, de apetrechos para o tráfico e de munições para armas de fogo, não há manifesta ilegalidade.
+2. Agravo regimental desprovido" (AgRg no RHC n. 197.008/SP, Sexta Turma, Rel.Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024).
+Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado.
+Nesse sentido:
+"Não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que a agravante venha sofrer no fim do processo, porquanto, em habeas corpus e no respectivo recurso ordinário é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado" (AgRg no RHC n. 189.368/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/5/2024, DJe de 24/5/2024.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
