@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAXCASA S/A e outras contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, de relatoria do Desembargador ERICKSON GAVAZZA MARQUES, assim ementado:
+AGRAVO DE INSTRUMENTO DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INSURGÊNCIA CONTRA A DECISÃO QUE DEFERIU A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA CONSTRIÇÃO DE BENS QUE DEVE RECAIR, EM REGRA, SOBRE OS BENS DO DEVEDOR PRESENÇA, NO ENTANTO, DE HIPÓTESE ENSEJADORA DA EXTENSÃO PATRIMONIAL SOBRE OS BENS DE TODAS AS EMPRESAS PERTENCENTES AO GRUPO ECONÔMICO INTELIGÊNCIA DO ARTIGO 28 DO CÓDIGO DE DEFESA DO CONSUMIDOR DECISÃO MANTIDA RECURSO NÃO PROVIDO (e-STJ, 1067).
+Opostos embargos declaratórios foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO OMISSÃO AFASTAMENTO INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS ELENCADOS NO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL PRETENSÃO DE REAPRECIAÇÃO DA MATÉRIA JÁ DECIDIDA INADMISSIBILIDADE RECURSO QUE NÃO TEM EFEITO INFRINGENTE EMBARGOS REJEITADOS (e-STJ, 1125).
+Irresignadas, MAXCASA S/A e outras interpuseram recurso especial com base no art. 105, III, a e c, da CF, apontando a violação dos arts. 489, § 1º, III e IV, e 1022, II e III, e parágrafo único, II, e 805, do CPC, 28, §§ 2º e 5º, do CDC, 49-A e 955 do CC, ao argumento de (1) omissão e ausência de fundamentação no acórdão recorrido, que não se manifestou quanto ao argumento de que a interpretação do § 5º do art. 28 do CDC deve ser feito em conjunto com o seu caput, bem como alegam que o TJSP nada discorreu acerca do intuito particular das sociedades de propósito especifico e nem acerca do não esgotamento dos meios de busca e constrição patrimonial da empresa executada.
+Asseveram (2) faltar, no presente caso, os requisitos necessários para a desconsideração da personalidade jurídica, sobretudo porque não esgotados todos os meios de busca e constrição patrimonial da empresa executada.
+O recurso especial não foi admitido pelo Tribunal de Justiça de São Paulo, por não configurar omissão e ausência de fundamentação no acórdão recorrido, não demonstração da violação dos artigos e falta de similitude fática no dissídio jurisprudencial suscitado (e-STJ, fls. 1.154/1.156).
+Nas razões do presente agravo, MAXCASA S/A e outras refutam o referido óbice de prelibação (e-STJ, fls. 1.159/1.181).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da apontada omissão e ausência de fundamentação no acórdão recorrido
+MAXCASA S/A e outras apontaram omissão e ausência de fundamentação no acórdão recorrido, que não se manifestou quanto ao argumento de que a interpretação do § 5º do art. 28 do CDC deve ser feito em conjunto com o seu caput, bem como alegam que o TJSP nada discorreu acerca do intuito particular das sociedades de propósito especifico e nem acerca do não esgotamento dos meios de busca e constrição patrimonial da empresa executada.
+Todavia, não se verifica nos autos omissão ou ausência de fundamentação por parte do acórdão recorrido, apenas decisão contrária à pretensão da parte.
+O Tribunal estadual decidiu a controvérsia da seguinte forma:
+(..) no caso em questão, os elementos constantes do processo levam à conclusão de que as empresas requeridas formam um grupo empresarial, porque possuem os mesmos sócios administradores: José Paim de Andrade Junior, Luiz Henrique de Vasconcelos e Octávio Noronha Gonçalves Moreira, quando não coincidem o endereço de sede social.
+Ademais, não foram localizados bens livres e tampouco indicados pela executada bens suficientes para satisfazer a execução.
+Ao contrário do que afirmam as agravantes, a pesquisa SISBAJUD foi negativa, assim como a pesquisa RENAJUD (fls. 249/251).
+Há fortes elementos de que essas "sociedades de propósitos específicos" com mesmos sócios, mesmos objetos funcionam como subterfúgios e tentativas de ocultar e blindar o patrimônio comum do grupo econômico, furtando-se à satisfação do crédito dos consumidores lesados.
+Valem-se ou valeram-se em algum momento, ademais, de mesmo endereço comercial, de cruzamento de participação societária e de diretoria, sendo, no mínimo, estranho que a executada, como parte de um grupo econômico de tamanha envergadura, não possua numerário em instituição financeira para satisfazer a presente dívida.
+Não vislumbro tenha ocorrido desconsideração da personalidade jurídica "per saltum", porque mesmo a despeito de não ser imprescindível para a desconsideração, no caso da teoria menor, ficou bem caracterizada a confusão patrimonial entre as empresas, na medida em que umas pagam por dívidas de outras, inclusive em ações judiciais, o que permite a intervenção judicial.
+Reputo acertado o redirecionamento da fase de execução quando a executada, pessoa jurídica, não oferece bens ou dinheiro suficiente para adimplemento da dívida, bem como possui elementos que indiquem a existência de grupo econômico, tal como no caso em questão (e-STJ, fls. 1.070/1071 - sem destaque no original).
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(2) Dos requisitos para desconsideração da personalidade
+MAXCASA S/A e outras alegaram faltar, no presente caso, os requisitos necessários para a desconsideração da personalidade jurídica, sobretudo porque não esgotados todos os meios de busca e constrição patrimonial da empresa executada.
+Todavia, levando-se em consideração os fundamentos do acórdão recorrido acima transcritos, conclui-se que rever os termos do julgado do TJSP quanto aos requisitos exigidos para a desconsideração da personalidade jurídica, no presente caso, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER em PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+P ublique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DEFERIMENTO. REQUISITOS. DISCUSSÃO. IMPOSSIBILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA. VEDAÇÃO. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL, E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
