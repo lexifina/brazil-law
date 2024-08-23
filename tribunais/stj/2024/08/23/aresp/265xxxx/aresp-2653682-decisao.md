@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado por Marcio Roberto dos Santos contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 352):
+MANDADO DE SEGURANÇA CONCURSO PÚBLICO PRETENSÃO DE ACUMULAÇÃO DE DOIS CARGOS DE TÉCNICO EM RADIOLOGIA Impossibilidade Acumulação de cargos de técnico de radiologia deve observar o limite de 24 horas semanais, previsto no artigo 14 da Lei Federal nº 7.394/1985 Precedentes do C. STJ Ausência de ilegalidade Sentença denegatória mantida.
+Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta, além dissídio jurisprudencial, violação ao art. 1.022, I e II do CPC. Sustenta, em resumo, a reforma do acórdão recorrido "proferido pelo Egrégio Tribunal de Justiça de São Paulo/SP, nos termos da jurisprudência do Superior Tribunal de Justiça e Supremo Tribunal Federal, para o fim de que seja dada a posse definitiva ao Recorrente, no cargo de técnico de radiologia, com carga horaria superior as 24 horas semanais, assegurando lhe o direito a continuidade do exercício de suas funções." (fl. 402).
+Contrarrazões às fls. 428/441.
+Parecer ministerial às fls. 525/528.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019.
+Ademais, na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a alegada divergência jurisprudencial, o que não ocorreu no caso em tela, fazendo incidir o óbice processual. Nesse mesmo sentido, destacam-se os seguintes precedentes: AgInt no AREsp 1.742.361/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3/3/2021; AgInt no REsp 1.791.633/CE, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 4/3/2021; AgInt no AREsp 1.650.251/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 9/9/2020.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
