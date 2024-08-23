@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por INCORPORAÇÃO TROPICALE LTDA, em recuperação judicial, contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Goiás, assim ementado:
+EMENTA: AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. EXISTÊNCIA DO CRÉDITO A PARTIR DA SENTENÇA PROLATADA. TEMA 1051 DOSTJ. NÃO SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. NATUREZA EXTRACONCURSAL. DECISÃO MANTIDA. 1. A decisão unipessoal agravada está em conformidade com o Tema repetitivo nº 1051 do STJ (REsp. nº1.843.332/RS, DJe de 17.12.2020), cuja tese definida é no sentido de que os honorários advocatícios terão natureza extraconcursal, se seu fato gerador for posterior à Recuperação Judicial. 2. Na hipótese em exame, o pedido de Recuperação Judicial ocorreu em 07.11.2017, ao passo que o comando sentencial é datado de 28.05.2020. Isto é, o pleito de soerguimento da empresa agravante precedeu a sentença na qual foi arbitrada a verba honorária. 3. AGRAVO INTERNO CONHECIDO, MAS DESPROVIDO. DECISÃO CONFIRMADA (e-STJ, fls. 139).
+Opostos embargos declaratórios foram rejeitados, conforme ementa a seguir transcrita:
+EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. EXISTÊNCIA DO CRÉDITO A PARTIR DA SENTENÇA PROLATADA. TEMA 1051 DO STJ. NÃO SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. NATUREZA EXTRACONCURSAL. OMISSÃO INEXISTENTE. PREQUESTIONAMENTO.1. É inquestionável que o crédito relativo ao pagamento dos honorários advocatícios foi contraído depois que a empresa entrou em Recuperação Judicial. O pleito de Recuperação Judicial ocorreu em 07.11.2017, ao passo que o comando sentencial é datado de 28.05.2020. Nesse norte, é imperioso destacar que a decisão exarada pelo Juízo de origem está em consonância com a tese relativa ao Tema 1051 do STJ (REsp. nº 1.843.332/RS, DJe de 17.12.2020), segundo a qual os honorários advocatícios terão natureza extraconcursal, se a sentença que os arbitrou (fato gerador) foi proferida em momento posterior à Recuperação Judicial. Inexistência de omissão. 2. O prequestionamento buscado pela embargante não merece prosperar, quando todas as teses jurídicas são examinadas nos embargos de declaração. De qualquer modo, a partir do novo sistema processual civil, a simples oposição dos embargos atende ao pressuposto de admissibilidade do prequestionamento (artigo 1.025 doCPC/15). 3. EMBARGOS DE DECLARAÇÃO CONHECIDOS, MAS REJEITADOS (e-STJ, fls. 225).
+Irresignada, INCORPORAÇÃO TROPICALE LTDA interpôs recurso especial com base no art. 105, III, a, da CF, apontando a violação do art. 47 da Lei nº. 11.101/2005, ao argumento de que em nenhum momento pleiteou que o crédito fosse considerado como concursal, mas que fosse observada a ordem cronológica dos pedidos formulados pelos juízos diversos, a fim de evitar o tumulto processual e permitir um maior controle pelo juízo universal.
+Assevera ser necessário que o juízo singular expeça ofício ao juízo da recuperação judicial comunicando sobre o débito para que o pagamento seja realizado.
+O recurso especial não foi admitido pelo Tribunal de Justiça de Goiás, por incidir, no caso, o teor da Súmula nº 83 do STJ (e-STJ, fls. 279/280).
+Nas razões do presente agravo, INCORPORAÇÃO TROPICALE LTDA refuta o referido óbice de prelibação (e-STJ, fls. 285/299).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da ofensa ao art. 47 da Lei 11.101/2005
+INCORPORAÇÃO TROPICALE LTDA apontou violação do art. 47 da Lei nº. 11.101/2005, ao argumento de que em nenhum momento pleiteou que o crédito fosse considerado como concursal, mas que fosse observada a ordem cronológica dos pedidos formulados pelos juízos diversos, a fim de evitar o tumulto processual e permitir um maior controle pelo juízo universal.
+Asseverou ser necessário que o juízo singular expeça ofício ao juízo da recuperação judicial comunicando sobre o débito para que o pagamento seja realizado.
+Contudo, o Tribunal estadual não se pronunciou sobre tais alegações, apesar da oposição dos necessários embargos de declaração.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pelo Tribunal, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido.
+É imprescindível que tenha sido emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo após a oposição de embargos de declaração.
+Assim, em virtude da falta de prequestionamento, não há como ser analisada as teses trazidas no recurso especial quanto à apontada ofensa à ampla defesa e ao contraditório, no presente caso.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ELETRIFICAÇÃO RURAL. INCORPORAÇÃO DE REDE PARTICULAR DE ENERGIA. DIREITO À INDENIZAÇÃO. ALEGAÇÃO DE OFENSA A NORMA SEM STATUS DE LEI FEDERAL. DESCABIMENTO. ALEGAÇÃO DE RESTITUIÇÃO ANTECIPADA INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO.
+(..)
+3. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (Súmula nº 211 do STJ.).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.158.186/MS, de minha relatoria, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Dessa forma, quanto ao ponto, incide a Súmula nº 211 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+P ublique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. CRÉDITO EXTRACONCURSAL. RECONHECIMENTO. PAGAMENTO FORMA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
