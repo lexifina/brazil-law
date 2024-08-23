@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por BENEDITO SERGIO ALVES contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 606):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. JUNTADA DE NOVOS DOCUMENTOS. INTIMAÇÃO PARA APRESENTAÇÃO DE DOCUMENTOS ELUCIDATIVOS. POSSIBILIDADE. PREVISÃO NO ARTIGO 510, DO CPC. RECURSO NÃO PROVIDO.
+- Diante da sentença ilíquida prolatada na ação de cobrança, faz-se necessária a prévia liquidação do julgado por arbitramento, nos termos do disposto nos artigos 509 e 510 do CPC, para apuração do quantum debeatur. Hipótese em que não há óbice em se determinar que as partes apresentem os documentos necessários para a liquidação do julgado, uma vez que tal medida está amparada pelo artigo 510 do CPC e possui por escopo aparelhar o magistrado com elementos de convicção necessários para a prolação da decisão na fase de cumprimento de sentença, não havendo que se falar em preclusão de juntada de novos documentos.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 489, §1º, IV, 1.022, ambos do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem quanto à impossibilidade de produção de provas, na fase de liquidação de sentença, para comprovar direito que não foi discutido na fase de conhecimento.
+Aduz que a juntada de documentos configura a produção de prova nova, que não foi sequer apresentada anteriormente, o que é vedado em sede de liquidação (art. 509, § 4º do CPC/2015).
+Alega a impossibilidade de juntada de novos documentos, nos termos dos arts. 509, § 4º, 141, 492, todos do CPC/2015, uma vez que o procedimento da Liquidação de Sentença deverá se sujeitar à controvérsia que foi delimitada em fase de instrução na ação de conhecimento, o que, por sua vez, afasta a possibilidade de juntada de documentos novos acerca de fatos que não foram sequer objeto de cognição.
+Defende que os documentos juntados pelos recorrentes não tem o condão de esclarecer os fatos que foram expostos na lide, e, na verdade, trata-se de produção de prova nova, que não foi sequer apresentada anteriormente.
+Afirma que os recorridos, ao ingressarem com a ação de cobrança, não invocaram nenhum prejuízo sofrido pela frustração do negócio, motivo pelo qual não podem apresentar, na fase de liquidação, documentos novos que visam a corroborar a suposta existência de dano.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da ausência de negativa da prestação jurisdicional e do óbice da Súmula 7 do STJ.
+Neste agravo, a parte agravante impugnou os fundamentos da decisão agravada.
+Assim delimitada a controvérsia, passo a decidir.
+O agravo merece parcial provimento.
+No presente recurso, a parte recorrente aponta violação dos arts. 489, §1º, IV, 1.022, ambos do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem quanto à impossibilidade de produção de provas, na fase de liquidação de sentença, para comprovar direito que não foi discutido na fase de conhecimento.
+Com razão.
+De fato, em seus embargos de declaração, a parte agravante requereu a manifestação do Tribunal de origem quanto (i) a impossibilidade de produção de prova nova, o que é vedado em sede de Liquidação (art. 509, §4º, CPC/2015); (ii) os recorridos , quando ingressaram com a ação de cobrança, não invocaram qualquer prejuízo sofrido pela frustração do negócio; e (iii) o procedimento da liquidação de sentença deverá se sujeitar à controvérsia que foi delimitada em fase de instrução na ação de conhecimento, o que, por sua vez, afasta à possibilidade de juntada de documentos novos que poderiam insinuar a existência de prejuízos financeiros suportados, uma vez que não foi sequer objeto de cognição.
+Da acurada análise do acórdão que julgou os embargos de declaração, verifica-se que o Tribunal de origem não tratou sobre o tema, visto que apenas consignou:
+Com a devida vênia, entendo que o acórdão abordou adequadamente as razões recursais, ao concluir que a liquidação por arbitramento, cabe ao juízo intimar as partes para apresentar pareceres ou documentos elucidativos, nos termos do art. 510 do CPC e que a dilação probatória relativa à liquidação por arbitramento não se confunde com a instrução relativa à fase de conhecimento, bem como que não há óbice em se determinar que as partes apresentem os documentos necessários para a liquidação do julgado. Tal medida está amparada pelo artigo 510 do CPC  ..  (fl. 638).
+O tema também não foi tratado no acórdão de fls. 606/613, uma vez que no julgamento o Tribunal de origem apenas consignou que "se o juiz não puder decidir de plano, seja por hipossuficiência técnica ou documentação insuficiente nos autos, deverá nomear perito para apuração do quantum debeatur e, conseguinte, observará o procedimento da produção da prova pericial, previsto nos art. 464 e seguintes do CPC" (fl. 610).
+No caso dos autos, contudo, a parte agravante pretendeu a manifestação do Tribunal de origem quanto ao limite da fase de liquidação de sentença e a impossibilidade de apresentação de provas para comprovar fatos não discutidos na fase de conhecimento.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal de origem a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Em face do exposto, dou parcial provimento ao recurso determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Intimem-se.
+EMENTA
