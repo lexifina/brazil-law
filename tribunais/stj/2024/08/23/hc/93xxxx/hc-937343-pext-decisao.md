@@ -1,0 +1,12 @@
+DECISÃO
+JONAS PEREIRA DE SOUSA requer a extensão dos efeitos da decisão de fls. 222-225, em que concedi a ordem de habeas corpus em favor do paciente (Alan Cesar Vasconcelos), "a fim de afastar a desfavorabilidade da circunstância judicial relativa às consequências do crime e, por conseguinte, reduzir parcialmente a pena- base imposta ao paciente, em relação a ambos os crimes, tornando, assim, a sua reprimenda definitiva em 17 anos, 1 mês e 10 dias de reclusão e pagamento de 2.642 dias-multa, já considerado o concurso material"
+Na ocasião, afirma que ambos os réus estão na mesma situação fático-processual.
+Decido.
+De fato, verifico que o requerente está na mesma situação fático-processual que a do paciente. Isso porque o Juiz sentenciante, por ocasião da primeira fase da dosimetria, despendeu os mesmos fundamentos em relação a ambos para concluir pela desfavorabilidade da vetorial relativa às consequências do crime, argumentos, esses, que foram tidos como inidôneos por esta Corte Superior de Justiça.
+Assim, porque caracterizada hipótese prevista no art. 580 do CPP, devem ser a ele estendidos os efeitos da decisão proferida às fls. 222-225.
+Afastada, pois, a desfavorabilidade da circunstância judicial relativa às consequências do crime, e porque remanescem desfavoráveis ao ora requerente a culpabilidade, os antecedentes e a quantidade de drogas apreendidas, deve ser reduzida a pena-base do crime de tráfico de drogas de 7 anos e 6 meses de reclusão e 750 dias-multa para 7 anos de reclusão e pagamento de 700 dias-multa (tráfico de drogas), e de 4 anos e 6 meses de reclusão e 1.050 dias-multa para 4 anos de reclusão e pagamento de 1.000 dias-multa (associação para o tráfico de drogas).
+Observada a dosimetria feita pela instância de origem, torno a reprimenda do requerente definitiva em 17 anos, 1 mês e 10 dias de reclusão e pagamento de 2.642 dias-multa, já considerado o concurso material.
+À vista do exposto, defiro o pedido de extensão formulado às fls. 231-232, a fim de afastar a desfavorabilidade da circunstância judicial relativa às consequências do crime e, por conseguinte, reduzir parcialmente a pena-base imposta ao ora requerente, em relação a ambos os crimes, tornando, assim, a sua reprimenda definitiva em 17 anos, 1 mês e 10 dias de reclusão e pagamento de 2.642 dias-multa, já considerado o concurso material (Processo n. 0004422-23.2018.8.26.0637).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
