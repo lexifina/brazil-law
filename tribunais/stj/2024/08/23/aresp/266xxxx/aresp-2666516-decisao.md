@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por RAMON ALVES FERNANDES DE CARVALHO contra decisão que inadmitiu o recurso especial, oriundo de acórdão exarado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fl. 426):
+APELAÇÃO - TRÁFICO DE DROGAS - MATERIALIDADE E AUTORIA -ABSOLVIÇÃO -IMPOSSIBILIDADE - CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/06 - REQUISITOS LEGAIS PREENCHIDOS - REGIME PRISIONAL - MANUTENÇÃO -SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITO - INADMISSIBILIDADE.
+1 - A autoria e a materialidade, bem como o elemento subjetivo (dolo), se comprovadas, o decreto condenatório deve ser mantido, não havendo se falar em Absolvição por insuficiência de provas ou por Erro de Tipo.
+2 - A Causa especial de diminuição de pena, prevista no §4º do art. 33 da Lei 11.343/06, postula a satisfação de todos os requisitos legais, sendo que a primariedade e a ausência de provas de dedicação a atividades criminosas autorizam a aplicação.
+3 - O regime inicial de cumprimento de pena deve ser fixado no semiaberto em decorrência do quantum de pena (superior a 04 anos), nos termos do art. 33, §2º, "b", e §3º, do CP.4-A Pena Privativa de Liberdade não será substituída por restritivas de direito se a pena aplicada for superiora quatro anos (art. 44, I do CP).
+Consta dos autos que o agravante foi condenado, pelo Juízo singular, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena privativa de liberdade de 05 (cinco) anos de reclusão, em regime inicial semiaberto, acrescida do pagamento de 500 (quinhentos) dias-multa, oportunidade em que, ex vi do art. 387, § 1º, do CPP, fora-lhe concedido o direito de recorrer em liberdade (e-STJ fls. 342-346).
+Na sequência, a Corte de origem deu parcial provimento ao apelo defensivo para
+para alterar a fração de diminuição pela Minorante do § 4º do art. 33 da Lei 11.343/06, concretizando a pena do Apelante Ramon Alves Fernandes de Carvalho em 04 (quatro) anos e 02 (dois) meses de reclusão, em regime semiaberto (art. 33, §2º, "b" e §3º do CP) e 416 (quatrocentos e dezesseis) dias-multa (e-STJ fls. 426-436).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta degeneração do art. 33, § 4º, da Lei n. 11.343/2006 (e-STJ fl. 445-457).
+Para tanto, assevera que o condenado - por preencher todos os requisitos estabelecidos em lei, adstritos ao tráfico privilegiado - jus à causa de diminuição de pena no patamar máximo (e-STJ fl. 450).
+Estratifica que, o § 4ºdo art.33 da Lei de Drogas não prevê nada sobre quantidade ou qualidade da droga (e-STJ fl. 450).
+Nestes termos, por não se tratar de mera faculdade (a cargo do Estado-juiz), pugna pela modulação da referida minorante em seu patamar máxima (2/3) (e-STJ fl. 457).
+Contrarrazões pelo Parquet estadual (e-STJ fls. 463-466).
+O Tribunal a quo inadmitiu o apelo especial com base na incidência da Súmula n. 83/STJ (e-STJ fls. 469-471), fundamento oportunamente infirmado pela parte agravante (e-STJ fls. 479-489).
+Parecer do Ministério Público Federal, na forma dos arts. 62 e 64, X, ambos do RISTJ, pelo conhecimento do agravo para não se conhecer do recurso especial (e-STJ fls. 570 e 571).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados o fundamento da decisão agravada, conheço do agravo e passo ao exame do apelo raro.
+Sobre o indigitado ultraje ao art. 33, § 4º, da lei n. 11.343/2006, o Tribunal mineiro, ao revisar a terceira fase do apenamento cominado ao sentenciado, exortou (e-STJ fls. 433 e 434, grifamos):
+A Defesa de pleiteia, ainda, o reconhecimento da minorante prevista no §4º do art. 33 da Lei 11.343/06, na fração máxima de 2/3 (dois terços).
+O art. 33, §4º, da Lei nº 11.343/06 prevê que os delitos definidos no caput e no §1º do referido artigo poderão ter as penas reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes e que não se dedique a atividades criminosas nem integre organizações criminosas.
+Nesse sentido, para que o agente possa se beneficiar da referida Causa Especial de Diminuição de Pena, deve preencher os requisitos de natureza objetiva e subjetiva, que devem ser satisfeitos cumulativamente.
+ ..
+Na espécie, verifica-se que o Réu é primário e sem antecedentes criminais (CAC - doc. 15).
+Não se olvida da apreensão de relevante quantidade de entorpecentes - 04 "porções" de maconha, pesando 5,001kg (cinco quilogramas e um grama).
+ ..
+A respeito da fração de diminuição pelo Privilégio, preceitua o art. 42 da Lei 11.343/06 que devem ser observadas as circunstâncias fáticas, bem como a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. No caso em comento, verifica-se do Laudo Preliminar em Drogas de Abuso e o Laudo Toxicológico Definitivo que foram apreendidas 04"porções" de maconha, pesando 5,001kg (cinco quilogramas e um grama), quantidade relevante que recomenda a aplicação da fração mínima.
+Registra-se, por oportuno, que a quantidade de droga apreendida não foi utilizada como fundamentação em nenhuma fase da Dosimetria da Pena, podendo ser utilizada, portanto, para modular a Minorante do Privilégio, sem que haja bis in idem (STJ, AgRg no HC 753526/MG, Relator Min. OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), 6ª Turma, data do julgamento: 22/11/2022, DJe 25/11/2022).
+Assim, o patamar de redução pelo reconhecimento da minorante prevista no §4º do art. 33 da Lei 11.343/06 deve ser de 1/6 (um sexto).
+Dos excertos transcritos, deflui-se que o acórdão hostilizado está em consonância ao entendimento firmado por esta Corte de Uniformização, em casos correlatos.
+Com efeito, é cediço que a gravidade (concreta) da conduta delitiva deve manter - com esteio na "teoria das margens" (discricionaridade motivada) a cargo Estado-julgador e nos princípios da individualização da pena e da proporcionalidade - simbiótica correspondência ao apenamento imposto ( como uma das  ferramentas  de  controle  e  pacificação social), sob a tríade tônica repressora, preventiva e pedagógica da pena alvitrada pelo legislador, consoante interpretação sistêmica do art. 59, caput, do CP, c/c os arts. 33, § 4º, e 42, ambos da Lei n. 11.343/2006, sob pena de proteção Estatal insuficiente.
+Nesta perspectiva, este Tribunal Superior tem assentado:
+O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+2. Tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas (AgRg no REsp n. 2.139.097/AL, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024, grifamos).
+De igual sorte:
+Na falta de parâmetros legais para se fixar o quantum da redução pela incidência da minorante do art. 33, §4º da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017) (AgRg no AREsp n. 2.466.078/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024, grifamos).
+Na espécie, o Tribunal local, com base na apreensão de 5,001 kg (cinco quilogramas e um grama) de maconha, reputou - pelos prismas na necessidade, adequação e utilidade - que esta expressiva quantidade recomenda a aplicação da fração mínima, já que não utilizada como fundamentação em nenhuma outra fase (e-STJ fl. 434), do subjacente regramento trifásico, previsto no art. 68 do CP.
+Incide, portanto, no ponto em voga, a Súmula 568/STJ, segundo a qual: O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
