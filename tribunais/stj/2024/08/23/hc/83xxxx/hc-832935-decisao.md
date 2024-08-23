@@ -1,0 +1,20 @@
+DECISÃO
+Os pacientes, condenados a cumprir penas restritivas de direitos, alegam sofrer coação ilegal em face de acórdão do Tribunal de Justiça de origem.
+A defesa aponta a nulidade do processo a partir do julgamento de segundo grau, pois, apesar da juntada de substabelecimento sem reserva de poderes, houve inclusão da apelação em pauta e publicação do acórdão sem intimação do novo defensor, o que resultou da certificação errônea do trânsito em julgado.
+Na petição de fls. 186-200, o impetrante esclarece que o Juiz da VEC determinou o início da prestação de serviços à comunidade e o pagamento da multa.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Esta Corte reconhece a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" ( AgRg no HC n. 805.183/SP, Rel. Ministro Teodoro Silva Santos, 6ª T., julgado em 12/3/2024, DJe de 15/3/2024).
+Com efeito,  ..  depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal  ..  (AgRg no HC n. 713.747/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/2/2022)
+Ressalto que não patente a nulidade do processo.
+A reserva de poderes não foi encaminhada ao Tribunal de Justiça. Por erro do advogado, a peça foi protocolada, em 3/3/2020, na Comarca de Taubaté e endereçada à Comarca de Piquete, onde os autos não mais se encontravam. O patrono "jamais teve a curiosidade de checar a situação dos autos" (fl. 22).
+A remessa dos autos à segunda instância ocorreu tempos antes, em 24/1/2020. Os advogados que patrocinavam os réus e subscreveram a apelação foram intimados da distribuição do Tribunal e, novamente, em 17/2/2020, para manifestar eventual oposição ao julgamento virtual.
+Todos estavam cientes de que os autos físicos estavam em segunda instâncias. Mesmo assim, ocorreu o protocolo em Comarca do interior, com petição endereçada a outra Comarca, e não ao Tribunal de Justiça.
+O equívoco poderia ser facilmente constatado por consulta ao andamento da apelação. O julgamento virtual foi finalizado aos 31/3/2021. O recurso foi provido, a fim de reduzir as reprimendas impostas aos condenados. Os advogados que tinham procuração nos autos foram intimados do acórdão por publicação disponibilizada no dia 21/5/2021.
+Houve entrada no Setor de Distribuição da segunda instância, em 17/5/2021, e juntada da subprocuração ao processo principal, em 6/10/2021, após o trânsito em julgado da condenação, certificado no dia 28/9/2021.
+A jurisdição ordinária estava encerrada e não se verifica o descumprimento de fórmula legal, pois a subscrição sem reservas a outro advogado deixou de ser notificada ao Tribunal, no processo principal, e o órgão intimou os que continuavam com a procuração nos autos e, portanto, deveriam praticar os atos necessários até que a substituição fosse comunicada no processo de segundo grau. A defesa teve oportunidade de apontar essa situação ao Tribunal, mas não identificou o prejuízo à parte.
+A decretação da nulidade não pode ser requerida por aquele que lhe deu causa. O erro no encaminhamento da peça foi da defesa e era simples corrigir o evento, a tempo de refazer intimações e até mesmo o julgamento na próxima sessão.
+Parece improvável que o novo advogado não tenha consultado o processo que havia acabado de receber após a intimação para oposição ao julgamento virtual. Todos os profissionais que atuaram no feito tinha meios e plena capacidade para evitar a situação que está sendo alegada como causadora da nulidade. Ainda, o impetrante não traz questão de mérito nem indica erro do acórdão que justificaria a interposição de recurso especial. Ao que tudo indica, o objetivo é protelar o cumprimento da pena.
+À vista do exposto, não conheço do habeas corpus. Ainda, não verifico flagrante ilegalidade que justifique a concessão da ordem, de ofício.
+Publique-se e intimem-se.
+EMENTA
