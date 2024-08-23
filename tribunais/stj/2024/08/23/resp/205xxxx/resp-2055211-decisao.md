@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AÇÃO DE COBRANÇA DE SEGURO HABITACIONAL. DECISÃO DE AFASTAMENTO DO ALEGADO EXCESSO DE EXECUÇÃO E NEGATIVA DO PLEITO DE INTIMAÇÃO DA RESPONSÁVEL SOLIDÁRIA PARA QUE CUMPRA COM SUA PARTE DA OBRIGAÇÃO. RECURSO DA EXECUTADA. 1. RESPONSABILIDADE SOLIDÁRIA. DEVEDORES QUE SÃO OBRIGADOS À DÍVIDA TODA. EXEGESE DO ART. 264 DO CÓDIGO CIVIL. 2. APONTADO O EXCESSO DE EXECUÇÃO, EM RAZÃO DA IMPOSSIBILIDADE DE INCLUSÃO DE JUROS DE MORA SOBRE A MULTA DECENDIAL. INSUBSISTÊNCIA. PENALIDADE CONTRATUAL QUE DEVE INCIDIR SOBRE O VALOR DA CONDENAÇÃO (APURADO NO LAUDO PERICIAL), ACRESCIDO DOS CONSECTÁRIOS LEGAIS. INTELIGÊNCIA DA SÚMULA 16 DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA. 3. DECISÃO MANTIDA. 4. RECURSO PRINCIPAL CONHECIDO E DESPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Nas razões de recurso especial, a parte ora agravante alega violação do artigo 412 do Código de Processo Civil, além de divergência jurisprudencial.
+Merece reforma o acórdão recorrido.
+Com efeito, o entendimento do Tribunal catarinense diverge do desta Corte, segundo o qual a multa decendial deve se limitar ao valor da obrigação principal, nos termos do artigo 412 do Código Civil, sem o acréscimo de juros de mora e correção monetária (cf. AgInt no REsp 1.820.513/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14.6.2021, DJe 17.6.2021 e AgInt no REsp 1837780/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8.3.2021, DJe 10.3.2021).
+Em face do exposto, dou provimento ao recurso especial para excluir do cômputo da multa decendial a incidência de juros de mora; por conseguinte, em razão do parcial acolhimento da impugnação ao cumprimento de sentença, fixo a verba honorária em 10% (dez por cento) sobre o excesso decotado, em favor da executada.
+Intimem-se.
+EMENTA
