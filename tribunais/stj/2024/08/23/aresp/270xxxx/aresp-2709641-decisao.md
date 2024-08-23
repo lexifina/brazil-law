@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por Banco Daycoval S.A. contra decisão que não admitiu o recurso especial manejado em face de acórdão, prolatado pelo Tribunal de Justiça do Pará, assim ementado (e-STJ, fl. 217):
+FRAUDE BANCÁRIA. EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. NÃO COMPROVADA A EXISTÊNCIA DA RELAÇÃO NEGOCIAL. EVIDÊNCIAS DE FRAUDE BANCÁRIA. SÚMULA 479 DO STJ. DANOS MORAIS CONFIGURADOS. RECURSO CONHECIDO E PROVIDO, À UNANIMIDADE.
+1. A jurisprudência pátria tem entendido que a comprovação de que o empréstimo foi disponibilizado ao consumidor é essencial à aferição da regularidade na contratação. Logo, tem-se que verificada a mera apresentação nos autos da cédula de crédito bancário, estando ausente comprovante de TED, resta impedida a clara averiguação da licitude da relação negociai, apontando, consequentemente, evidências de fraude. Súmula 479 e Tema 1061 do STJ.
+2. O prejuízo na órbita extrapatrimonial do consumidor é inegável, tendo em vista que a falha do serviço, no que se refere à segurança que se espera das instituições bancárias, culminou em desconto de valores não contratados. O constrangimento supera o mero aborrecimento, pois, in casu, o autor é idoso, aposentado e teve seu sustento comprometido em virtude da falta de zelo do banco apelante, o qual não se cercou dos devidos cuidados para impedir possíveis fraudes.
+3. Recurso conhecido e provido, à unanimidade.
+Opostos embargos de declaração, foram parcialmente acolhidos para determinar que, em relação aos danos materiais, os valores deverão ser corrigidos nos termos da Súmula 54 e 43 do STJ.
+Nas razões do recurso especial (e-STJ, fls. 274-281), a recorrente alegou violação aos arts. 938, §§ 3º e 4º, e 1.022, II, do CPC.
+Aduziu que, "mesmo após a oposição de embargos de declaração, o órgão a quo deixou de converter o julgamento em diligência e oficiar o Banco Bradesco para que este confirmasse o recebim ento da TED na conta do Autor".
+Defendeu que "os autos sejam remetidos a origem, para que seja o julgamento convertido em diligência, no sentido de que seja oficiado o Banco Bradesco para informar acerca do recebimento ou não da TED na conta do Recorrido".
+Contrarrazões apresentadas às fls. 340-347 (e-STJ).
+O Tribunal de origem inadmitiu o recurso especial, o que ensejou a interposição do presente agravo em recurso especial às fls. 361-365 (e-STJ) e contraminuta às fls. 367-374 (e-STJ).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente, sobretudo no tocante à apreciação livre das provas colacionadas aos autos.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido. (AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023)
+No que concerne ao cerceamento de defesa, o ordenamento jurídico brasileiro adota o princípio do livre convencimento motivado, que possibilita ao juiz a apreciação livre das provas colacionadas aos autos. Ou seja, o julgador não está adstrito à prova que a parte entende lhe seja mais favorável, mas pode formar a sua convicção a partir de outros elementos ou fatos constantes dos autos.
+A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. PROVA PERICIAL. NÃO INTERPOSIÇÃO DE RECURSO. PRECLUSÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INVERSÃO DA PROVA. VEROSSIMILHANÇA DA PRÁTICA DE AGIOTAGEM.
+(..)
+3. O magistrado, com base no livre convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, hipótese em que não se verifica a ocorrência de cerceamento de defesa. Precedentes.
+4. A inversão do ônus da prova autorizada pelos arts. 1º e 3º da MP n.º 2.172-32, que trata da nulidade dos atos de usura pecuniária, impõe acurada análise da ocorrência de requisito legal para seu deferimento: demonstração da verossimilhança da prática de agiotagem. Precedentes.
+5. Agravo regimental não provido. (AgRg no REsp 1196519/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/06/2015, DJe 04/08/2015)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIVRE CONVENCIMENTO MOTIVADO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O nosso sistema processual civil é orientado pelo princípio do livre convencimento motivado, cabendo ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+3. Agravo regimental não provido. (AgRg no AREsp 281.230/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/08/2015, DJe 17/08/2015)
+Ademais, o princípio da persuasão racional ou da livre convicção motivada do juiz consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+No caso em estudo, o Tribunal estadual concluiu pela prescindibilidade da produção de outras provas além daquelas constantes dos autos, de modo que o acolhimento da tese veiculada nas razões do recurso especial não prescindiria do reexame de circunstâncias fático-probatórias da causa, o que não se admite no âmbito do recurso especial, dado o óbice da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FRAUDE BANCÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
