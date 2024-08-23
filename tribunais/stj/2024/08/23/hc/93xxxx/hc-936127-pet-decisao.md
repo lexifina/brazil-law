@@ -1,0 +1,16 @@
+DECISÃO
+GUSTAVO CESAR FERREIRA SANTOS requer a reconsideração da decisão de fls. 41-42, por meio da qual indeferi liminarmente o writ, diante da insuficiência na instrução.
+Juntada a peça faltante, reconsidero do referido decisum e passo à análise do pedido.
+A defesa alega que o paciente sofre coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no HC n. 2203482-98.2024.8.26.0000.
+Busca a progressão apenado ao regime aberto, sem a exigência de exame criminológico.
+Decido.
+O Tribunal estadual confirmou a decisão de origem e determinou a submissão do reeducando ao referido exame, com fulcro na Lei n. 14.843/2024, por reputar que esta trata de matéria eminentemente processual e, por tal razão, " n ão há que se falar em irretroatividade da Lei n.º 14.843/24, na medida em que se trata de lei de natureza processual e que, portanto, é imediatamente aplicável e incide sobre os processos em tramitação" (fls. 14-15).
+Acerca do tema, ressalto que, com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Somente após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, o paciente praticou os crimes pelos quais está em cumprimento de pena antes da inovação legislativa. A Lei de Execução Penal trata da individualização da pena na fase do cumprimento da sentença e leis penais mais gravosas não podem ser aplicadas retroativamente.
+Assim, é de rigor a concessão da ordem. Aplica-se ao caso a compreensão de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+O Juiz da VEC determinou o exame criminológico sem a indicação de fundamento idôneo, relacionado à execução penal, na medida em que se limitou a tecer considerações a respeito da obrigatoriedade trazida pela nova lei.
+A motivação não explica a dúvida sobre a falta de capacidade do apenado de ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime.
+À vista do exposto, concedo o habeas corpus para cassar a determinação de exame criminológico, estabelecer a irretroatividade do art. 112, § 1º, da LEP ao caso concreto e determinar ao Juiz da VEC que, em nova decisão, reexamine o pedido de progressão de regime com amparo nos requisitos legais, sem considerar fundamentos não relacionados à execução penal, como a gravidade abstrata do crime e a longa pena a cumprir.
+Publique-se e intimem-se.
+EMENTA
