@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, conflito negativo de competência instaurado entre o Juiz Federal da 21ª Vara Cível de São Paulo - SJ/SP, suscitante, e o Juiz Federal da 17ª Vara Cível de Brasília - SJ/DF, suscitado, nos autos do mandado de segurança com pedido de liminar impetrado por MARCELO SAVIO PAIVA DO AMARAL FILHO em desfavor do PRESIDENTE DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE, objetivando provimento judicial para que se determine o recebimento e processamento da solicitação de renegociação de dívida FIES.
+Sustenta o Juiz suscitado que:
+De plano, consabido que a competência relativa pode ser modificada pelas partes, às quais é facultada a eleição, por instrumento escrito, do foro mais conveniente para dirimir questões relativas aos direitos e obrigações decorrentes de determinado negócio jurídico (CPC/73, art. 111, § 1.º; CPC/2015, art. 63, § 1.º).
+Na concreta situação dos autos, verifica-se que o contrato de financiamento estudantil em discussão veicula, expressamente, na sua "Cláusula Vigésima Quarta - Do Foro"(id 2132749118, fl. 11), a previsão de que, para dirimir quaisquer questões que direta ou indiretamente decorram daquela avença, é competente o foro da Justiça Federal no Estado de São Paulo. Disposição essa que sequer restou impugnada pela impetrante em sua petição inicial, razão pela qual se impõe a remessa dos autos para processamento e julgamento. (fl. 64)
+Por sua vez, alega o Juiz suscitante que:
+Em sede de competência territorial, ou seja, de natureza relativa, havendo válida pactuação do foro de eleição, o magistrado não pode declinar, de ofício, da competência contratualmente fixada.
+Vale dizer, a competência territorial e relativa será prorrogada caso o réu não a alegue em preliminar de contestação, sendo descabido o declínio de ofício, nos termos do art. 64, §1º e do art. 65, ambos do CPC/2015.
+ ..
+Assim, em que pese o entendimento daquele Juízo Federal, por se tratar de competência territorial (relativa), não poderia ter sido conhecida de ofício, de modo que os autos devem retornar ao Juízo suscitado. (fls. 4-6)
+Dispensada a remessa dos autos ao Ministério Público Federal, tendo em vista as disposições contidas nos arts. 178, parágrafo único, e 951, parágrafo único, do CPC/2015, e levando-se em consideração, ainda, a existência de jurisprudência dominante, no âmbito do STJ, sobre a matéria objeto deste Conflito.
+É o breve relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Colenda 1ª Seção.
+Com efeito, impõe-se destacar que a competência territorial é prorrogável, sendo restrito às partes, todavia, o questionamento sobre a incompetência do juiz onde foi ajuizada a ação. É esse o entendimento consagrado pela Súmula n. 33 do STJ: "A incompetência relativa não pode ser declarada de ofício".
+Ademais, a jurisprudência do STJ, calcada na legislação de regência, já está pacificada no sentido de reconhecer que, tratando-se de hipótese de competência relativa, tem-se a estabilização da competência (perpetuatio jurisdictionis), sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. CONCURSO PÚBLICO. CANDIDATO. ELIMINAÇÃO. ANULAÇÃO DO ATO. COMPETÊNCIA DO JUÍZO DO DOMICÍLIO DO AUTOR. CABIMENTO. COMPETÊNCIA RELATIVA.
+I - Trata-se de conflito de competência suscitado na ação ajuizada contra o Estado de São Paulo, objetivando a anulação de ato administrativo que eliminou o autor de etapa do concurso público e, consequentemente, a continuidade de sua participação no certame.
+II - Esta Corte declarou competente o Juizado Especial Cível da Comarca de Igarapé/MG, o suscitante.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é permitido ao particular o ajuizamento de ação, em seu domicílio, contra Estado da Federação - ainda que a parte autora não resida no território do ente réu. Constituindo-se em verdadeira opção do seu promovente.
+IV - Tendo em vista o caráter relativo de eventual incompetência territorial, o Juízo suscitado não poderia tê-la pronunciado de ofício, nos termos da Súmula n. 33/STJ. Sobre o tema, a orientação desta Corte Superior é no mesmo sentido: (AgInt no CC 163.985/MT, relator Ministro Gurgel de Faria, Primeira Seção, Julgado em 18/6/2019, Dje 25/6/2019 e Agint no CC 157.479, relatora Ministra Regina Helena Costa, Primeira Seção, Julgado em 28/11/2018, Dje 4/12/2018.) V - Agravo interno improvido." (STJ, AgInt no CC n. 187.454/MG, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/10/2022, DJe de 27/10/2022)
+Portanto, sendo relativa a competência para o processamento e julgamento da ação, não poderia o Juízo suscitado tê-la declinado de ofício, nos termos da já referida Súmula n. 33 do STJ.
+Isso posto, conheço do conflito para declarar a competência do Juiz Federal da 17ª Vara Cível de Brasília - SJ/DF (suscitado).
+Comunique-se aos Juízos suscitante e suscitado a presente decisão.
+Intimem-se.
+EMENTA
