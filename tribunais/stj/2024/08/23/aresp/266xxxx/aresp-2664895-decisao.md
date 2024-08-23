@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto po r LILUANY VIVIAN RABELO DA SILVA contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 27):
+COMPRA E VENDA. Ação declaratória de nulidade de escritura de compra e venda. Decisão que afastou a tese de litispendência. Insurgência da ré. Inadmissibilidade. A ação que recebeu o nº 1034573-89.2020.8.26.0602 visa a rescisão de compromisso de compra e venda e a retomada da posse sob o fundamento de inadimplemento da adquirente, ao passo que a demanda que deu origem ao presente agravo tem por objeto a declaração de nulidade de escritura pública de compra e venda, frente à simulação verificada. Ausência de identidade entre as ações que ostentam pedidos diversos. Decisão mantida. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a recorrente alegou a ofensa ao art. 337, inciso VI, e §§ 1º ao 3º, do Código de Processo Civil de 2015, sustentando, em síntese, que deve ser reconhecida a litispendência no caso em comento, haja vista que se mostra presente a "tríplice identidade, sendo: a) mesmas partes; b) mesma causa de pedir (fatos e fundamentos do pedido), e; c) mesmo pedido (anulação da escritura pública)" (e-STJ, fls. 44-45).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+A agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 72-86).
+Contraminuta apresentada (e-STJ, fls. 94-97).
+Brevemente relatado, decido.
+A controvérsia refere-se, em síntese, ao reconhecimento, ou não da litispendência no caso vertente.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 28-29; sem grifo no original):
+Com efeito, o artigo 337, §§ 1º e 2º, do CPC dispõe que se verifica a litispendência quando se reproduz ação anteriormente ajuizada e que uma ação é idêntica à outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido.
+Como bem asseverado pelo MM. Juiz a quo, o pedido na ação que recebeu o nº 1034573-89.2020.8.26.0602 é o de rescisão contratual cumulada com reintegração de posse, enquanto o pedido formulado nos presentes autos principais nº 1035705-16.2022.8.26.0602 é o de anulação da escritura de compra e venda de imóvel.
+Desse modo, em que pese a identidade de partes, os pedidos são diversos, não sendo possível reconhecer a litispendência.
+Com efeito, vislumbra-se que a irresignação da agravante não merece prosperar, haja vista que a questão foi resolvida com base nos elementos fáticos que permearam a demanda.
+Dessa forma, percebe-se que rever os fundamentos do acórdão recorrido quanto ao não reconhecimento da litispendência, exigiria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito, guardadas as devidas particularidades (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÃO DO CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. SUPOSTA VIOLAÇÃO DOS ARTIGOS 489 E 1022 DO CPC/15. ANÁLISE DA MATÉRIA NOS TERMOS DA DEVOLUÇÃO. OMISSÃO NÃO OCORRENTE. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. VALOR DOS HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. NÃO PROVIDO.
+1. Não há falar-se em violação aos arts. 489, II, e 1.022 do CPC se o Tribunal de origem examina o recurso atendo-se aos limites objetivos da matéria devolvida.
+2. A análise relativa à existência de litispendência é insuscetível de reapreciação em sede de Recurso Especial, por força do óbice da Súmula nº 7 do STJ.
+3. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova técnica considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento. Incidência da Súmula nº 83 do STJ.
+4. Segundo entendimento desta Corte Superior, "a decisão que julga procedente o direito de exigir contas na primeira fase da ação respectiva ostenta natureza de sentença, com eficácia predominantemente condenatória inclusive, a teor do que previsto no § 5º do art. 550 do CPC; sendo devido o arbitramento de honorários em favor do autor" (AgInt no REsp n. 1.918.872/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022.
+5. A revisão dos critérios utilizados para arbitrar honorários advocatícios demandaria o reexame de fatos e provas, inviável em recurso especial, conforme previsto na Súmula n. 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.080.108/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE NULIDADE DE CHEQUE EMITIDO PELO FALECIDO PAI DOS AUTORES. ALEGAÇÃO DE FALSIDADE DA ASSINATURA. ARTS. 489, § 1º, V, E 503, § 1º, DO NCPC. REJEIÇÃO DE PEDIDO DE PROVA PERICIAL. COISA JULGADA. OCORRÊNCIA. LITISPENDÊNCIA AFASTADA. ALTERAÇÃO DO JULGADO. SÚMULA Nº 7 DO STJ. DISSÍDIO NÃO COMPROVADO. DECISÃO MANTIDA. RECURSO ESPECIAL NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em falta de fundamentação, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+3. Rever o posicionamento adotado na Corte estadual quanto ao reconhecimento da litispendência e da coisa julgada, demanda o reexame dos fatos da causa, de modo que sua alteração encontra óbice no enunciado da Súmula nº 7 do STJ.
+4. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Precedentes: AgInt no AREsp n. 1.188.742/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/4/2018, DJe 30/4/2018; e, AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO, Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.855.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.)
+Assim, melhor sorte não socorre à agravante.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, ca racterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURA DE COMPRA E VENDA. LITISPENDÊNCIA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
