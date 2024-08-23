@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interposto por ANDRE RIBEIRO CAMPOS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, percebeu-se, no STJ, haver irregularidade na representação processual do recurso, uma vez que a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Waldir Marins Silva Júnior.
+A parte, embora regularmente intimada para sanar referido vício, não regularizou o feito, uma vez que os poderes consignados no substabelecimento de fl. 687 foram outorgados ao subscritor dos recursos em data posterior à sua interposição.
+A jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso (AgInt no AREsp n. 1.512.704/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020, e AgRg no AREsp n. 1.825.314/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Para além disso, cumpre ressaltar que não basta, na petição de regularização, que a parte traga substabelecimento, ratificando o ato processual pretérito.
+Essa providência é insuficiente, uma vez que trata de ratificação desconexa com os atos anteriores.
+É vital perceber que a ratificação não é propriamente a realização de um novo ato, ignorando-se o ato que já foi praticado. Ratificar significa confirmar, reafirmar o que foi dito.
+Dessa forma, a abertura de prazo para regularização da representação do subscritor do recurso, nesta instância especial, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, bem como nos ditames da interpretação conjunta do Enunciado da Súmula n. 115/STJ, tem razão de ser no sentido de que a ratificação possível, nos termos da intimação para trazer aos autos a procuração dos subscritores anteriores, é uma complementação, uma reiteração de uma vontade já manifestada, uma confirmação do ato anteriormente praticado.
+A possibilidade de saneamento, da correção de um defeito, não pode ignorar o ato já praticado, mas, ao contrário, tem que oportunizar a ratificação desse ato. Nesse sentido, a intimação para regularização é expressa no sentido de que se traga aos autos a procuração dos subscritores originais, uma vez que o marco processual, que se leva em consideração para fins de verificação de regularidade da representação processual, é o momento da interposição do recurso.
+Desse modo, a regularização da representação processual que se considera válida deve guardar pertinência com o subscritores originários, não bastando a mera ratificação por outros procuradores.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
