@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SIDNEY NATAL DO PRADO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 0006139-61.2013.8.26.0050.
+Consta dos autos que o paciente foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de São Paulo à pena de 03 (três) anos de reclusão, no regime inicial fechado, e ao pagamento de 30 (trinta) dias-multa, por infração ao disposto no artigo 171, caput, do Código Penal. nos termos da sentença de fls. 13-22.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, somente a fim de alterar o regime inicial de cumprimento de pena para o semiaberto, conforme o acórdão de fls. 60-70.
+Interposto recurso especial pela defesa, foi inadmitido na origem. Aviado agravo em recurso especial (AResp 2.618.120 / SP), encontra-se concluso para julgamento.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na fixação de regime inicial prisional mais gravoso, qual seja, o semiaberto, despida de fundamentação idônea.
+Requer, liminarmente, que o paciente aguarde em liberdade o julgamento final desta impetração. No mérito, pugna pela fixação do regime aberto para o início do cumprimento da sanção imposta.
+Pedido de liminar indeferido pela Presidência às fls. 86-87.
+Informações prestadas às fls. 93-96 e 99-123.
+O Ministério Público Federal, às fls. 125-130, opinou pelo não conhecimento do writ.
+É o relatório. DECIDO.
+A controvérsia consiste na possível ilegalidade flagrante no acórdão impugnado em razão da fixação de regime inicial prisional mais gravoso, despida de fundamentação idônea.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido." (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido." (AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023.)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 69-70):
+ ..
+Por derradeiro, na individualização da medida repressiva, a pena foi acertadamente fixada em 3 anos de reclusão e 30 dias-multa, no importe de 10 salários-mínimos cada, em virtude das circunstâncias judiciais amplamente desfavoráveis aferidas, denotando a acentuada culpabilidade da conduta e o altíssimo prejuízo carreado à instituição vitimada, sem recuperação, além de demonstração quanto ao alto potencial financeiro do increpado, o que justifica as sanções fixadas, ainda que rigorosas.
+No entanto, embora acertado o cálculo penal, de rigor o abrandamento do regime prisional, especialmente por se tratar de réu primário e delito cometido sem o emprego de violência ou grave ameaça à pessoa, revelando-se mais proporcional e adequado o estabelecimento do sistema inicial semiaberto, nos termos do art. 33, § 3º, do diploma penal, na linha do que bem pontuou a d. Procuradoria Geral de Justiça, inclusive.
+Descabida, por fim, em razão do quadro notadamente adverso e circunstâncias judiciais acima destacadas, a concessão de qualquer benefício liberatório imediato, a teor dos arts. 44, inc. III, e 77, inc. II, ambos do Código Penal.
+A via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantitativo da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Nesse mesmo sentido, as Súmulas 718 e 719 do Supremo Tribunal Federal, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Ademais, ao se debruçar sobre o tema, esta Corte consolidou "o entendimento de que a fixação de regime mais gravoso do que o indicado para a pena imposta ao réu deve ocorrer com fundamentação específica, que considere a existência de circunstâncias judiciais desfavoráveis do art. 59 do Código Penal ou outro dado concreto que demonstre a extrapolação da normalidade do tipo" (AgRg no AgRg no HC n. 713.364/SP, Relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 16/12/2022).
+Na hipótese, em que pese a pena tenha sido estabelecida em patamar inferior a quatro anos de reclusão, ainda que não seja o paciente reincidente, a existência de circunstâncias judiciais desfavoráveis, com a fixação da basilar acima do mínimo legal, constitui fundamentação idônea a ensejar a fixação do regime prisional inicial mais gravoso sequente, qual seja, o semiaberto, nos termos do artigo 33, §§ 2º e 3º e artigo 59, ambos do Código Penal, e da jurisprudência desta Corte Superior.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CHAVE FALSA. PERÍCIA REALIZADA. REGIME SEMIABERTO. CIRCUNSTÂNCIAS DESFAVORÁVEIS. ADEQUAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..  4. Na hipótese, malgrado o paciente tenha sido condenado a pena inferior a 4 anos de reclusão e seja primário, tem como desfavoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal e, por isso, correta a fixação de regime semiaberto para cumprimento de pena, nos termos do 33, § 2º, "c", e § 3º, do Código Penal e da Súmula 269/STJ.
+5. Agravo regimental desprovido." (AgRg no HC n. 859.627/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/12/2023.)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SUSTENTAÇÃO ORAL DESCABIDA. EXASPERAÇÃO DA PENA-BASE. RECEPTAÇÃO DE VEÍCULO AUTOMOTOR. MAIOR GRAVIDADE. FUNDAMENTAÇÃO IDÕNEA. REGIME INICIAL GRAVOSO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante art. 159, IV, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não haverá sustentação oral no julgamento de agravo, salvo expressa disposição legal em contrário. Em atenção à legislação vigente, registra-se que o art. 7º, § 2º-B, da lei n. 8.906/1994, não abarca o pleito de sustentação oral em agravo regimental na decisão monocrática que julgou o agravo em recurso especial. O referido dispositivo está em linha com o art. 937 do Código de Processo Civil de 2015 - CPC/15 que não preconiza a sustentação oral em julgamento de agravo em recurso especial. (AgRg no AgRg no AREsp n. 2.383.997/GO, minha relatoria, Quinta Turma, DJe de 13/11/2023).
+2. Conforme entendimento desta Corte, a receptação de veículos automotores (carros e motocicletas) se reveste de maior gravidade, com maior intensidade do dolo, o que justifica o recrudescimento da pena-base.
+3. Diante do quantum de pena fixado, cotejado com a presença de circunstância judicial desfavorável, revela-se adequado o estabelecimento do regime inicial semiaberto, nos termos do art. 33, §3º c/c art. 59, ambos do Código Penal - CP.
+4. Quanto ao pleito de substituição da pena, a pretensão não foi objeto de debate e discussão na instância ordinária, carecendo do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas ns. 282 e 356, ambas do Supremo Tribunal Federal - STF.
+5. Agravo regimental desprovido." (AgRg no AREsp n. 2.316.373/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023.)
+De todo modo, não vislumbro, de plano, qualquer flagrante ilegalidade a ser sanada nos moldes do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
