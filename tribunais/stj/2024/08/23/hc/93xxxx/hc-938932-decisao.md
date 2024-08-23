@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Alex Eduardo Turman de Melo, apontando-se como autoridade coatora o Tribunal de Justiça do Paraná no julgamento da Apelação Criminal n. 0002748-50.2023.8.16.0075.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 3 meses de reclusão, em regime inicial fechado, e ao pagamento de 625 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fl. 171), ante a apreensão de aproximadamente 308 kg de maconha (fl. 176).
+O Tribunal de origem negou provimento ao apelo defensivo (fls. 165/190).
+Neste writ, a defesa sustenta a incidência da causa de diminuição de pena no § 4º do art. 33 da Lei n. 11.343/2006 à fração de 2/3, bem como os consectários legais, sob o argumento de que a minorante foi afastada com base na quantidade de drogas apreendidas.
+Requer, nesses termos, inclusive liminarmente, a concessão da ordem de habeas corpus.
+É o relatório.
+De início, destaco que as disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 629.625/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2020).
+Portanto, passo a analisar diretamente a insurgência.
+No caso, ao julgar o recurso de apelação, a Corte local manteve o afastamento do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 com base nas seguintes razões (fl. 180 - grifo nosso):
+O acusado atuou em concurso de agentes para transportar cerca de 308kg (trezentos e oito quilogramas) de maconha, em que um veículo transportava a droga e os demais eram usados com o intuito de garantir o sucesso da empreitada. Portanto, sendo evidente a dedicação às atividades criminosas, torna-se impossível a concessão da benesse pleiteada. (fl. 180)
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 a 2/3, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Há muito, a Quinta Turma desta Corte Superior afirmou que o legislador ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida (HC n. 437.178/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 11/6/2019).
+No caso, o redutor foi afastado com o entendimento de que o paciente se dedicava a atividades criminosas, pois atuou em concurso de agentes para transportar cerca de 308kg (trezentos e oito quilogramas) de maconha, em que um veículo transportava a droga e os demais eram usados com o intuito de garantir o sucesso da empreitada (fl. 180), revelando, assim, um planejamento e uma estrutura organizada por trás das atividades criminosas.
+Nesse sentido, mutatis mutandis, cito os seguintes julgados: AgRg no HC n. 887.794/MS, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024; AgRg no AREsp n. 2.264.904/MS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 8/3/2024; AgRg no HC n. 851.073/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/3/2024; AgRg no HC n. 861.645/CE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/12/2023.
+Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do paciente a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+Em consequência, mantenho o regime inicial fechado, bem como indefiro a substituição da pena privativa de liberdade por penas restritivas de direitos, nos termos do art. 33, §§ 2º e 3º, e do art. 44, ambos do Código Penal.
+Ante o exposto, com b ase no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. AFASTAMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE DE PROFUNDA INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO.
+Petição inicial indeferida liminarmente.
