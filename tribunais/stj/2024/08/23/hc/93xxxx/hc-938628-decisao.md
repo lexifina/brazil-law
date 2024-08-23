@@ -1,0 +1,24 @@
+DECISÃO
+RODRIGO LOPES MAGALHAES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.24.342468-6/000.
+A defesa busca a conversão da segregação cautelar em prisão domiciliar (a ser cumprida na forma de internação compulsória em clínica terapêutica), ao argumento de que o acusado é dependente químico e o estabelecimento prisional não possui condições adequadas para a continuidade do tratamento de que necessita.
+Decido.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+O pleito de conversão da segregação cautelar em prisão domiciliar foi indeferido pelo Tribunal de origem nos seguintes termos (fls. 186-188, grifei):
+A defesa, em síntese, alega se encontrar o paciente RODRIGO extremamente debilitado por condição de doença grave, necessitando de uso regular de medicamentos controlados, como Rivotril (Clonazepam) e Venvanse (Lisdexanfetamina), além de ser usuário contumaz de drogas ilícitas, motivo pelo qual pugna pelo deferimento da prisão domiciliar.
+O pedido defensivo não merecer prosperar.
+O instituto da prisão domiciliar atua como uma alternativa à prisão preventiva para aqueles que preenchem as condições necessárias, vejamos o teor do inciso II do Art. 318 do CPP:
+Art. 318. Poderá o juiz substituir a prisão preventiva pela domiciliar quando o agente for:
+II - extremamente debilitado por motivo de doença grave.
+Pois bem, há que serem demonstrados dois requisitos, presença da doença grave e a debilidade extrema decorrente deste mal, uma vez que uma não pressupõe, efetivamente, a outra, podendo a pessoa, embora portadora de doença grave, não se mostrar debilitada.
+A prisão domiciliar é uma excepcionalidade e somente será admitida em casos específicos arrolados taxativamente na lei, não se enquadrando no caso em tela, principalmente tendo em vista que a doença do paciente é tratável, não havendo nos autos comprovação de que esteja debilitado ou que o tratamento não possa ser realizado no local onde o paciente se encontra acautelado.
+O STJ, por meio de sua "Jurisprudência de Teses" n. 32 (de 15 de abril de 2015), já se manifestou acerca da questão, sendo este o teor do enunciado n. 3: "A substituição da prisão preventiva pela domiciliar exige comprovação de doença grave, que acarrete extrema debilidade, e a impossibilidade de se prestar a devida assistência médica no estabelecimento penal".
+Cediço que o Habeas Corpus - ação direta de cognição sumária -demanda, para análise, colação de prova pré-constituída, não se admitindo, nessa via processual estreita, dilação probatória, eis porque, do instrumento da impetração deverão constar todas as peças necessárias à compreensão e formação do convencimento da Corte.
+Inexistindo, pois, elementos de prova hábeis a comprovar o alegado constrangimento ilegal, não há falar-se em concessão do benefício da prisão domiciliar.
+No tocante ao pedido de substituição da custódia preventiva por domiciliar, a jurisprudência desta Corte Superior é firme em assinalar que, "excepcionalmente, pode-se conceder ao preso provisório o benefício da prisão domiciliar, quando demonstrado que o seu estado de saúde é grave e que o estabelecimento prisional em que se encontra não presta a devida assistência médica" (HC n. 202.200/RJ, Rel. Ministro Og Fernandes, 6ª T., DJe 24/8/2011, grifei).
+Nessa perspectiva: "A situação de extrema debilitação por doença grave, como medida excepcional justificadora da prisão domiciliar, deve ser demonstrada de plano, mediante a apresentação de documentos e laudos médicos que comprovem a ineficiência e a inadequação estatais no tratamento de saúde prestado no sistema prisional" (RHC n. 114.971/CE, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/10/2019).
+No caso em exame, as instâncias ordinárias ressaltaram não haver demonstração de que o acusado esteja com a saúde debilitada e que o local em que ele está custodiado pode oferecer o tratamento necessário, no tocante à sua peculiar situação (dependência química e uso de medicação controlada).
+Neste writ, a defesa também não logrou comprovar a extrema debilidade do agente, necessária para autorizar a medida prevista no art. 318, II, do CPP, limitando-se a juntar laudo médico do ano de 2006 (fl. 8), que atesta que o paciente necessitava de acompanhamento psicopedagógico, e receituários de medicamentos prescritos ao acusado recentemente .
+Logo, para alterar a conclusão da instância antecedente quanto ao estado de saúde do réu e a suficiência do tratamento recebido no local em que está custodiado, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
