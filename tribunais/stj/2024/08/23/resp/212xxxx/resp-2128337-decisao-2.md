@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a recorrente aponta violação aos arts. 535, I e II, do CPC/1973, e 28, I, §§ 2º e 9º da Lei 8.212/91, sustentando, em síntese, negativa de prestação jurisdicional e a incidência da contribuição previdenciária sobre a indenização adicional prevista no art. 9º da Lei 7.238/1984 e a indenização paga por quebra de garantia de emprego assegurada à empregada gestante.
+É o relatório.
+Passo a decidir.
+Inicialmente, "é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF" (AgInt no AREsp 1031163/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/06/2017, DJe 29/06/2017).
+No mais, as razões recursais estão dissociadas dos fundamentos utilizados pelo aresto recorrido, uma vez que não impugnaram o fundamento de que a indenização adicional prevista no art. 9º da Lei 7.238/1984 e a indenização por quebra da garantia de emprego assegurada à gestante, desde a confirmação da gravidez até cinco meses após o parto, "assemelham-se às férias indenizadas pagas por ocasião da rescisão do contrato de trabalho", razão pela qual "afasta-se a incidência das contribuições sociais e previdenciárias" (fls. 606-607).
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso para justificar o pedido de reforma do julgado, atraindo novamente a aplicação do óbice da Súmula 284/STF, por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os ato s normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
