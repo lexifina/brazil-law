@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WENDELL DO PATROCÍNIO contra decisão de Desembargadora do 2º Grupo de Direito Criminal do Tribunal de Justiça de São Paulo, Relatora da Revisão Criminal n. 0005211-80.2024.8.26.0000.
+Em seu arrazoado, o impetrante alega, em suma, que o paciente foi condenado injustamente, uma vez que estava preso na data dos fatos.
+Sustenta que não há provas para a sua condenação e pugna pela nulidade da decisão impetrada.
+O pedido liminar foi indeferido pela Presidência desta Corte (e-STJ, fls. 21-22).
+Informações prestadas às fls. 28-30 e 33-46, e-STJ.
+O Ministério Público opinou pelo não conhecimento do writ ou pela denegação da ordem de habeas corpus (e-STJ, fls. 49-52).
+É o relatório.
+Decido.
+Consoante se observa dos autos, trata-se de impetração contra decisão monocrática da Desembargadora Relatora que não conheceu do pedido revisional.
+Como se sabe, não cabe habeas corpus contra decisão do relator, a qual deveria ter sido impugnada por agravo, a fim de devolver a questão ao colegiado competente, nos termos do art. 105, inciso I, alíneas a e c, da Constituição da República.
+A propósito, os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA. IMPOSSIBILIDADE. AUSÊNCIA DE ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra decisão monocrática de desembargador relator, porquanto, ausente a manifestação do órgão colegiado, não houve o prévio esgotamento da instância antecedente.
+2. Não há excesso de prazo nas hipóteses em que não há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 165.048/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022; grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE QUE AUTORIZE A SUPERAÇÃO DO ÓBICE.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, arrimada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. Precedentes.
+2. O habeas corpus foi impetrado contra decisão monocrática do Relator que, na origem, julgou prejudicado o conflito de competência, por perda do objeto, não havendo a interposição do recurso cabível, de forma a submeter a apreciação da matéria ao colegiado do Tribunal, pelo que ausente o esgotamento da instância antecedente, descabendo ao Superior Tribunal de Justiça a apreciação do pedido, sob pena de indevida supressão de instância.
+3. Outrossim, não se verifica flagrante ilegalidade na decisão impetrada, que julgou prejudicado o pedido ante a perda de objeto do conflito de jurisdição, porquanto os órgãos suscitante e suscitado perderam a competência para atuar nos feitos envolvendo organizações criminosas.
+4. Agravo regimental improvido.
+(AgRg no HC n. 700.099/RN, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/3/2022, DJe de 25/3/2022; grifou-se.)
+E conforme bem observado pela Corte a quo, a revisão criminal é circunscrita às hipóteses de cabimento previstas no art. 621 do Código de Processo Penal:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+In casu, verifica-se que a pretensão defensiva se resume à reapreciação do quadro fático-probatório dos autos, já analisado em sede de apelação criminal, o que é inadmissível nos termos da jurisprudência desta Corte, pacificada no sentido "do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP." (HC 206.847/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 25/2/2016).
+Conforme leciona Guilherme de Souza Nucci (in Código de Processo Penal Comentado, 19.ª ed., Rio de Janeiro: Forense, 2020):
+o acolhimento da pretensão revisional, na esfera criminal, há de ser excepcional, pois o que se pretende é alterar a coisa julgada. Assim, eventual contradição ao texto expresso da lei e à evidência dos autos deve exsurgir cristalina nos autos, sem a necessidade de interpretação duvidosa ou análise puramente subjetiva das provas.
+Nesse sentido:
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. ART. 621, I, DO CPP. PLEITO ABSOLUTÓRIO. PRETENSÃO INVIÁVEL NO JUÍZO RESCISÓRIO. NECESSIDADE DE PATENTE CONTRARIEDADE ENTRE A CONDENAÇÃO E AS PROVAS DOS AUTOS. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. DOSIMETRIA. USO DE ALGEMAS NA SESSÃO PLENÁRIA DO JÚRI. DECISÃO FUNDAMENTADA. OBSERVÂNCIA DA SÚMULA N. 11 DO STF. PENA-BASE ACIMA DO MÍNIMO LEGAL. VALORAÇÃO DA QUALIFICADORA REMANESCENTE E DA CULPABILIDADE DO RÉU. MOTIVAÇÃO IDÔNEA DECLINADA. PROPORCIONALIDADE. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. QUALIFICADORAS. FUNDAMENTAÇÃO SUFICIENTE. PRINCÍPIO DA SOBERANIA DO VEREDITO POPULAR. EXISTÊNCIA DE SUPORTE PROBATÓRIO A EMBASAR O ÉDITO REPRESSIVO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. INSTITUTO DA REINCIDÊNCIA NÃO ATENTA CONTRA OS PRINCÍPIOS DO NE BIS IN IDEM E DA INDIVIDUALIZAÇÃO DA PENA. ORDEM DENEGADA.
+1. A revisão criminal não deve ser utilizada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, a dispensar a interpretação ou a análise subjetiva das provas produzidas.
+2. Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC n. 206.847/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/2/2016).
+3. O Tribunal a quo desacolheu o pedido revisional por entender que não se configurou a hipótese de condenação contrária à evidência dos autos, prevista no art. 621, I, do CPP, não sendo cabível o pedido para a reapreciação do quadro fático-probatório dos autos, entendimento que se coaduna com a jurisprudência desta Corte.
+4. A decisão que determinou o uso de algemas durante a sessão plenária está devidamente fundamentada na análise do caso concreto e atende adequadamente aos mandamentos da Súmula n. 11 do STF, o que afasta a nulidade aduzida.
+5. A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, mas sim um exercício de discricionariedade vinculada, devendo o magistrado eleger a sanção que melhor servirá para a prevenção e a repressão do fato-crime praticado, exatamente como realizado na espécie.
+6. Havendo mais de uma qualificadora do delito, é possível que uma delas seja utilizada como tal e as demais sejam consideradas circunstâncias desfavoráveis, seja para agravar a pena na segunda etapa da dosimetria, seja para elevar a pena-base na primeira fase do cálculo.
+7. Na presente hipótese, ao exasperar a reprimenda-base, utilizando como fundamento o deslocamento de uma das qualificadoras, a Corte recorrida alinhou-se à jurisprudência deste Sodalício, inexistindo violação da lei federal na espécie.
+8. Tendo a Corte de origem reconhecido, motivadamente, que a decisão proferida pelo Tribunal do Júri não se mostrou manifestamente contrária à prova dos autos, não é dado ao STJ aferir se a decisão possui ou não amparo probatório no processo. Referida providência demandaria minucioso cotejo fático-probatório, o que é vedado na via estreita do writ.
+9. O instituto da reincidência não atenta contra os princípios do ne bis idem e da individualização da pena. O réu era, conforme a denúncia, marido da vítima, circunstância que autoriza o reconhecimento da agravante do art. 61, II, "e" do CP. Para além disso, prevaleceu-se das relações domésticas e da hospitalidade, na medida em que, tendo livre acesso à residência em que a ofendida residia com a filha do casal, ingressou na casa e matou a vítima, fazendo incidir a agravante do art. 61, II, "f", do Código Penal.
+10. Ordem denegada.
+(HC 406.484/RS, relator Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 19/3/2019, DJe 26/3/2019; grifou-se.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. REVISÃO CRIMINAL. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. "AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. PRETENSÃO DE REVALORAÇÃO DA PROVA. IMPOSSIBILIDADE.
+I - "O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes" (HC n. 206.847/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 25/02/2016).
+II - In casu, acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+Agravo regimental desprovido.
+(AgRg no AREsp 1673581/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2020, DJe 19/10/2020; grifou-se.)
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
