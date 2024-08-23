@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TIAGO DA SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente teve a prisão preventiva decretada na data de 27/3/2024, em razão da suposta prática dos crimes de tráfico e associação para o tráfico de drogas e comércio ilegal de arma de fogo (fls. 337-343).
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente e não reconheceu alegado excesso de prazo, denegando a ordem em acórdão de fls. 97-105.
+Neste writ a defesa aponta ausência de contemporaneidade da medida, já que a extração de dados do telefone celular de outro investigado dataria dos anos de 2022 e 2023, e, desde então, não haveria elementos que vinculassem o custodiado aos pretensos crimes.
+Aponta excesso de prazo para a conclusão do inquérito policial.
+Requer a revogação da prisão preventiva do paciente. Subsidiariamente, pede a substituição da prisão por medidas cautelares diversas.
+A liminar foi indeferida às fls. 588-589 e as informações foram prestadas às fls. 595-597, 598-612.
+Juntada de petição às fls. 625-632.
+O Ministério Público Federal manifestou-se, às fls. 616-622, em parecer que restou assim ementado:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. UTILIZAÇÃO INADEQUADA DO REMÉDIO HEROICO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A CONCLUSÃO DO INQUÉRITO POLICIAL. INOCORRÊNCIA. REGULAR TRAMITAÇÃO DO FEITO. AUSÊNCIA DE DESÍDIA DA AUTORIDADE ESTATAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER PELO NÃO CONHECIMENTO DO WRIT.- A jurisprudência do STJ e do STF assentou o entendimento de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição à revisão criminal.- A alegação de ausência de contemporaneidade da prisão preventiva não foi apreciada pelo Corte de origem, o que impossibilita seu debate inaugural perante o Superior Tribunal de Justiça, sob pena de supressão de instância.- Tendo sido realizada a prisão preventiva do paciente em 5/4/2024, e indeferido o pedido de prisão domiciliar em maio de 2024, não subsiste a tese de excesso de prazo para a conclusão do inquérito policial, que observa o princípio da razoabilidade.- Parecer pelo não conhecimento do writ" - fl. 616.
+É o relatório.DECIDO.
+Na hipótese dos autos, o paciente encontra-se preso preventivamente desde o dia 05 de abril de 2024 sem que o inquérito policial tenha sequer sido concluído.Verifico, portanto, que a prisão preventiva deve ser relaxada, diante do princípio da razoável duração do processo, uma vez que tal direito visa garantir não apenas a efetividade da prestação jurisdicional, mas também a proteção de direitos fundamentais do jurisdicionado.
+Nesse sentido:
+"Segundo o ordenamento jurídico vigente, a duração razoável do processo e do inquérito constitui um direito fundamental assegurado a todo cidadão pelas leis ordinárias e pela Constituição da República e pelos tratados internacionais dos quais o Brasil é signatário. Tal direito visa garantir não apenas a efetividade da prestação jurisdicional, mas também a proteção de direitos fundamentais dos jurisdicionados". (HC n. 837.701/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/8/2024, DJe de 15/8/2024.)
+Ressalte-se, que o atraso na prestação jurisdicional não afasta nem elide a gravidade da conduta supostamente praticada pelo paciente, motivo pelo qual, ainda que se faça necessário o relaxamento da prisão preventiva imposta ao paciente, a imposição de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, se mostra necessária, por ora, para resguardar a ordem pública e a conveniência da instrução penal, bem como para assegurar a futura aplicação da lei penal.
+Ilustrativamente:
+"HABEAS CORPUS. INQUÉRITO POLICIAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS JUSTIFICADO. EXCESSO DE PRAZO. CARACTERIZAÇÃO. HABEAS CORPUS PARCIALMENTE CONCEDIDO.
+1.  ..
+2. A teor da jurisprudência desta Corte, os prazos para a finalização do inquérito são impróprios e devem ser sopesados conforme a complexidade dos fatos e as demais circunstâncias que explicariam a dilatação das investigações.
+3. No caso, o suspeito de tráfico de drogas está segregado, desde 14/9/2023, sem oferecimento da denúncia. Em face da garantia prevista no art. 5º, LXXVIII, da CF, a privação da liberdade não pode ser mantida enquanto o averiguado aguarda a definição sobre a autoridade competente para processá-lo.
+4. Verifica-se a imprescindibilidade de fixação de medidas do art. 319 do CPP, ante a periculosidade social do paciente.
+5. Habeas corpus parcialmente concedido, para substituir a prisão preventiva por cautelares descritas no voto" (HC n. 867.166/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/2/2024, DJe de 19/2/2024.)
+Ante o exposto, concedo a ordem para relaxar a prisão preventiva decretada em desfavor do paciente, salvo se por outro motivo estiver preso, devendo ser impostas, a critério do juízo de primeiro grau, medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Publique-se e intime-se.
+ EMENTA
