@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conhecer parcialmente do agravo regimental e, nessa extensão, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS ALVES DA SILVA contra decisão de minha lavra, que negou provimento ao recurso ordinário em habeas corpus (fls. 478-484).
+Consta nos autos que, em 15/02/2024, o recorrente teve a prisão em flagrante convertida em preventiva, pela suposta prática do crime previsto no art. 155, caput, do Código Penal.
+Irresignada, a Defensoria Pública impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões do recurso ordinário, a parte recorrente sustentou, em suma, que a custódia cautelar teria sido mantida sem fundamentação idônea e que não estariam presentes os requisitos do art. 312 do CPP, autorizadores da medida extrema.
+Afirmou que a gravidade abstrata do crime não autoriza a decretação da prisão preventiva e alegou inexistir elementos concretos que permitam concluir que o recorrente, solto, trará perigo à ordem pública ou à instrução criminal.
+Na decisão de fls. 478-484, foi negado provimento ao recurso ordinário em habeas corpus.
+Nas razões do agravo regimental, a Defesa reitera as razões deduzidas no recurso ordinário e acrescenta, ainda,  que a manutenção do decreto prisional fere o princípio da homogeneidade.
+Pede, assim, a reconsideração da decisão impugnada ou a apreciação do feito pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PENAL. FURTO. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. ALEGAÇÃO DE VIOLAÇÃO DO PRINCÍPIO DA HOMOGENEIDADE. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A prisão preventiva está devidamente fundamentada nos exatos termos do art. 312 do Código de Processo Penal, pois o Juízo de primeira instância, referendado pela Corte de origem, afirmou que o agravante é reincidente, com extensa ficha criminal e estava em cumprimento de pena.
+2. E sta Corte, em inúmeros julgados, já se manifestou no sentido de que ações penais em curso, assim como maus antecedentes e condenações definitivas, denotam o risco de reiteração delitiva e constituem fundamentação idônea a justificar a segregação cautelar.
+3. É inviável, no âmbito do agravo regimental, a apreciação de matéria não deduzida na petição do recurso ordinário.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+VOTO
+A  irresignação  não  prospera.
+Na hipótese, o Tribunal estadual concluiu pela legitimidade do decisum de primeira instância, consignando que (fls. 364-369; grifamos):
+Compulsando os autos, não vislumbro a presença de elementos que permitam concluir pelo alegado constrangimento ilegal.
+A decisão que decretou a prisão preventiva aparenta boa fundamentação em elementos concretos que demonstram o preenchimento dos requisitos do art. 312 do CPP. A fundamentação exarada pelo juízo de origem apresenta prova de materialidade, indícios suficientes de autoria em relação ao paciente, bem como o perigo gerado pelo seu estado de liberdade, senão vejamos:
+"(..) Compulsando os autos, verifica-se que o autuado ostenta inúmeros apontamentos pretéritos pela prática de crimes diversos, com extensa ficha criminal (ID 10167554818). Outrossim, o investigado é reincidente, posto que noticiado o cumprimento de pena nos autos de execução aos 20 de novembro de 2020, ainda no período depurador do artigo 64, inciso I, do CP (autos nº. 1029019-06.2009.8.13.0382 - ID 10167554818, p. 17). Ademais, ostenta maus antecedentes (dentre outros, os autos de nº. 0129404-42.2010.8.13.0382; 038201013828-9 e 038299006158-4). Nesse contexto, não se pode olvidar que a insistência do autuado em vulnerar o patrimônio alheio indica que restabelecimento de sua liberdade colocará em risco a ordem pública, o que também demonstra a ineficiência de medidas cautelares diversas. (..)".
+O juízo a quo, com base em elementos concretos dos autos, evidenciou a real necessidade da segregação cautelar do paciente para a garantia da ordem pública, considerando as circunstâncias do caso concreto e a ineficiência de medidas cautelares diversas da prisão. Destacou que o paciente estava em cumprimento de pena e possui diversas condenações anteriores, inclusive por crime contra o patrimônio.
+Ora, se nem mesmo condenação penal transitada em julgado foi capaz de afastar o paciente da prática delitiva, as medidas cautelares é que não se mostram mesmo suficientes para tutelar a ordem pública.
+Desta forma, impositiva a manutenção da prisão cautelar, não havendo que se falar em constrangimento ilegal.
+Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é firme quanto à possibilidade de utilização de condenações anteriores para fundamentar a prisão cautelar quando concretamente demonstrando o risco à ordem pública, o que se verifica no caso dos autos.
+ ..
+Ademais, a impetração sustenta atipicidade material da conduta.
+Contudo, a análise da tese depende do exame aprofundado das provas, que serão colhidas na ação principal.
+A aplicação do princípio da insignificância exige o preenchimento dos quatro vetores fixados pelo Supremo Tribunal Federal: mínima ofensividade da conduta do agente; nenhuma periculosidade social da ação; reduzidíssimo grau de reprovabilidade do comportamento; e inexpressividade da lesão jurídica provocada. Essencial, portanto, avaliação da res furtiva, a fim de verificar o preenchimento dos requisitos.
+Não ignoro que somente o valor da coisa subtraída seja suficiente para aplicar ou afastar o princípio da insignificância. Contudo, deve existir documento oficial firmado por perito que ateste o valor do bem, a fim de analisar o preenchimento dos requisitos, sendo evidente que não se presume a "bagatela".
+ ..
+Pelo exposto, por não vislumbrar o alegado constrangimento ilegal, DENEGO A ORDEM.
+Do excerto transcrito, verifica-se que, ao contrário do que alega a Defesa, a decretação da prisão preventiva está suficientemente fundamentada, tendo sido amparada no concreto risco concreto de reiteração delitiva, pois, conforme apontado pelo Juízo de primeiro grau, o custodiado é reincidente, "estava em cumprimento de pena e possui diversas condenações anteriores, inclusive por crime contra o patrimônio".
+Tais circunstâncias são aptas a justificar a segregação cautelar para garantia da ordem pública, pois, segundo a jurisprudência deste Tribunal,
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 04/06/2019, DJe de 11/06/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. POSSIBILIDADE CONCRETA DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO PROVIDO.
+1. A decretação da prisão preventiva está suficientemente fundamentada, tendo sido amparada no risco concreto de reiteração delitiva, pois, a despeito do pequeno valor da res furtiva, o Agravado é multireincidente e estava em gozo de livramento condicional quando do cometimento do delito, o que justifica a segregação cautelar para garantia da ordem pública.
+2. Considerada a real possibilidade de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal.
+3. Agravo regimental provido, para denegar a ordem de habeas corpus.
+(AgRg no HC n. 828.407/SP, relator Ministro Sebastião Reis Júnior, relatora para acórdão Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 19/9/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. FURTO MAJORADO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. ESPECIAL REPROVABILIDADE DA CONDUTA. REINCIDÊNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. ALEGAÇÃO DE QUE A PENA FUTURA SERÁ MENOS GRAVOSA QUE O CÁRCERE. EXAME PRÓPRIO DA JURISDIÇÃO ORDINÁRIA. PRINCÍPIO DA HOMOGENEIDADE NÃO VIOLADO. CAUSA DE AUMENTO DE PENA QUE DEVE SER CONSIDERADA NA HIPÓTESE PREVISTA NO ART. 313, INCISO I, DO CÓDIGO DE PROCESSO PENAL. REINCIDÊNCIA QUE, ADEMAIS, É HIPÓTESE AUTÔNOMA DE DECRETAÇÃO DA CUSTÓDIA CAUTELAR. MANTIDA A DENEGAÇÃO DA ORDEM. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O pequeno valor da vantagem patrimonial ilícita não se traduz, automaticamente, no reconhecimento do crime de bagatela. Igualmente, " o  fato de o produto do furto ter sido devolvido à Vítima não afasta, de per si, a tipicidade material da conduta delitiva" (HC n. 747.651/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/8/2022, DJe de 12/8/2022).
+3. In casu, imputou-se o delito de furto majorado ao Agravante, que, além de ser duplamente reincidente em delitos patrimoniais, detém contra si diversas ações penais com denúncia recebida e ao menos três condenações provisórias, todas por furtos, que remontam a fatos recentes, praticados entre dezembro de 2019 e junho de 2021, a demonstrar possível escalada na prática de crimes contra o patrimônio. Tais condições pessoais, sobretudo em cotejo com a maior reprovabilidade da prática do delito no período noturno, obstaculizam, assim, o prematuro trancamento da ação penal.
+4. A custódia cautelar decretada na origem tem base empírica, considerado o concreto risco de reiteração delitiva, ante os antecedentes criminais do Paciente, que é reincidente em delitos contra o patrimônio.
+5. A alegada pena prospectiva, supostamente menos gravosa, não justifica a revogação da prisão preventiva antes da cognição exauriente do mérito da causa principal pelo Juízo competente, motivo pelo qual não tem fundamento a alegação de violação do princípio da homogeneidade.
+6. Embora a Defesa alegue que o crime em exame não se enquadraria na hipótese prevista no art. 313, inciso I, do Código de Processo Penal, o Agravante está sendo processado pela prática de furto com a incidência da majorante do repouso noturno, que deve ser considerada para verificação da pena máxima cominada ao delito. Ainda que assim não fosse, o Agravante é duplamente reincidente, hipótese autônoma de cabimento da custódia cautelar, expressamente, prevista no art. 313, inciso II, do Código de Processo Penal.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 777.703/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/3/2023, DJe de 10/4/2023).
+Por fim, o agravante alega que houve violação do princípio da homogeneidade, todavia, este tema não foi deduzido na petição do recurso em habeas corpus, o que evidencia a hipótese de inovação recursal e, portanto, obsta o conhecimento da pretensão (v.g.: AgRg nos EDcl nos EDcl no HC  n.  812.951/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 12/06/2023 e AgRg no HC  n.  798.249/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 05/06/2023).
+Dessa forma, por não terem sido declinados, nas razões recursais, fundamentos jurídicos que infirmem os motivos da decisão ora agravada, deve esse ato ser integralmente mantido por seus próprios fundamentos.
+Ante o exposto, conheço em parte do agravo regimental e, nessa extensão, nego-lhe provimento.
+É o voto.
