@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Manoel Maria Barbosa Tavares, em que se aponta como órgão coator o Tribunal de Justiça do Pará (HC n. 0810143-14.2024.8.14.0000 - fls. 31/34).
+Infere-se dos autos que o paciente foi preso preventivamente desde 6/6/2023 e denunciado como incurso no art. 121, II e IV, c/c o art. 14, II, ambos do Código Penal (Processo n. 0800816-83.2023.8.14.0031).
+Irresignada, a defesa impetrou o HC n. 0810143-14.2024.8.14.0000 (fls. 31/34), objetivando a revogação da prisão do ora paciente, contudo, os integrantes da Seção de Direito Penal do Tribunal de Justiça do Pará, por unanimidade, conheceram do writ e denegaram a ordem em acórdão assim ementado (fl. 31):
+HABEAS CORPUS LIBERATÓRIO - DELITO CAPITULADO NO ART. 121, II e IV, c/c 14, TODOS DO CÓDIGO PENAL BRASILEIRO - PREVENTIVA - ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO EM DECISÃO QUE MANTEVE A CUSTÓDIA CAUTELAR - INOCORRÊNCIA - FUNDAMENTAÇÃO REMISSIVA AO DECRETO PREVENTIVO ORIGINÁRIO (per relationem) - ORDEM DENEGADA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal.
+2. "A jurisprudência dos Tribunais Superiores há muito admite a validade das decisões que se utilizem da fundamentação per relationem ou aliunde, hipótese em que o ato decisório faz expressa referência à decisão ou manifestação anterior e já existente nos autos, adotando aqueles termos como razão de decidir. (AgRg no RMS 66.271/RJ, Rel. Ministro RIBEIRO DANTAS, DJe 27/10/2021)".
+3. Ordem denegada.
+Sobreveio, então, o presente writ, no qual o impetrante alega constrangimento ilegal suportado pelo ora paciente decorrente de: (i) inidoneidade de fundamentação da decisão que manteve a prisão preventiva, porquanto amparada em argumentos futurologistas; (ii) desnecessidade da referida segregação ante as condições pessoais de favorabilidade - réu primário, de bons antecedentes, possui trabalho lícito, tem residência fixa na comarca (fl. 4); e (iii) possibilidade concreta de substituição da constrição cautelar por medidas cautelares diversas previstas no art. 319 do Código de Processo Penal.
+Requer, assim (fl. 15):
+a) A concessão da LIMINAR ora pretendida, para conceder ao PACIENTE o direito de responder ao processo em liberdade, expedindo-se o competente alvará de soltura em favor de MANOEL MARIA BARBOSA TAVARES, até ulterior deliberação desta Casa Judicante;
+b) Ao final e após as formalidades de praxe, seja concedida a ordem impetrada, garantindo ao PACIENTE o direito de ir e vir, expedindo-se o competente ALVARÁ DE SOLTURA  .. .
+Estes autos foram a mim distribuídos por conexão (RHC n. 184.652/PA).
+É o relatório.
+Pelo exame dos autos, o presente writ não merece ser conhecido.
+Isso porque a negativa de revogação da prisão preventiva pelo Magistrado de piso (cf. Termo de Audiência acostado à fl. 27) reportou-se à presença, ainda, dos pressupostos e fundamentos do decreto prisional primevo, que, por sua vez, deixou de ser anexado pelo impetrante ao presente habeas corpus, inviabilizando, assim, a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO. 1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ: HC n. 437.808/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 28/6/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019).
+E ainda: EDcl no HC n. 504.490/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/8/2019; AgRg no HC n. 512.896/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019; AgRg no HC n. 512.017/SP, da minha relatoria, Sexta Turma, DJe 2/8/2019; HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012; e AgRg no HC n. 196.824/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/11/2011.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 121, II E IV, C/C O ART. 14, II, AMBOS DO CP. PRISÃO PREVENTIVA. TESE DE INIDONEIDADE DA DECISÃO QUE MANTEVE A MEDIDA CONSTRITIVA EXTREMA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONST ITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE.
+Writ não conhecido.
