@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MEDICOS, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, ajuizada por VANIA BALSIMELLI PADRAO, em face da agravante, na qual requer o custeio do medicamento Pembrolizumabe/Lenvatinibe, necessário ao tratamento da beneficiária, diagnosticada com neoplasia de endométrio metastática.
+Acórdão: negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+PLANO D E SAÚDE. USUÁRIA ACOMETIDA DE CÂNCER ENDOMETRIAL AVANÇADO GRAU IV. NEGATIVA DE COBERTURA DE MEDICAMENTO ONCOLÓGICO (LENVATINIBE). CONDUTA ABUSIVA. MEDIDA TERAPÊUTICA IMPRESCINDÍVEL PARA SALVAGUARDAR A SAÚDE E A VIDA DA PACIENTE. FÁRMACO PREVISTO NA LISTAGEM DE TERAPIA ANTINEOPLÁSICA ORAL OBRIGATÓRIA DA ANS (RESOLUÇÃO NORMATIVA  465/2021). NATUREZA TAXATIVA OU EXEMPLIFICATIVA DO ALUDIDO ROL QUE É DESIMPORTANTE NOS CASOS DE NEOPLASIA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CARÁTER EXPERIMENTAL DO TRATAMENTO. INDICAÇÃO EXPRESSA EM BULA. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO MAJORADO. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CONDENAÇÃO, QUE COMPREENDE INCLUSIVE O CUSTEIO DA MEDICAÇÃO DADO O VALOR PECUNIÁRIO DA OBRIGAÇÃO. APELAÇÃO DA RÉ NÃO PROVIDA. APELAÇÃO DA AUTORA PROVIDA.
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ) quanto à alegada ofensa aos arts. 47, 51, 54, § 4º, do CDC, e 10, § 4º, da Lei 9.656/98 (recusa de cobertura de medicamento para o tratamento de câncer); e,
+ii) incidência da Súmula 7 do STJ (quanto à pretensa violação dos arts. 186, 188, e 927 do CC).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que não há que se falar em presunção do dano moral e tampouco de ato ilícito, tendo em vista que a conduta da operadora se tratou de mero inadimplemento contratual ocorrido em razão de dúvida razoável do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ) quanto à alegada ofensa aos arts. 47, 51, 54, § 4º, do CDC, e 10, § 4º, da Lei 9.656/98 (recusa de cobertura de medicamento para o tratamento de câncer).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
