@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JHONNY MICHEL DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, no julgamento da apelação criminal n. 0007173-54.2019.8.24.0038.
+Depreende-se dos autos que paciente foi condenado, em primeira instância, às penas de 7 anos de reclusão, em regime fechado, mais pagamento de 700 dias-multa, pela prática do crime constante do art. 33, caput, c/c o art. 40, VI, ambos da Lei n. 11.343/2006 (fls. 33-38).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do acórdão de fls. 12-27.
+Dai o presente writ, onde o impetrante aponta constrangimento ilegal na fixação do regime fechado para início de cumprimento da pena, alegando negativa de vigência aos artigos 33 e 59 do Código Penal e violação da Súmula n. 443 esta Corte Superior.
+Requer, assim, em caráter limiar e no mérito, a concessão da ordem para que seja fixado o regime inicial semiaberto.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a fixação do regime semiaberto para início de cumprimento da pena.
+Compulsando os autos, verifico que o acórdão impugnado (fls. 39-54) foi julgado em 14 de maio de 2020, com o trânsito em julgado no mesmo ano.
+O presente writ foi impetrado somente em 21/08/2024 (folha 01), isto é, mais de 04 anos após o trânsito em julgado.
+Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de 04 anos desde o trânsito em julgado da condenação, devendo prevalecer a coisa julgada e o princípio da segurança jurídica.
+"Com efeito, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal" (AgRg no HC 690.070/PR, de relatoria do Ministro JOEL ILAN PACIORNIK, 5ª Turma, DJe: 25/10/2021).
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. PRECLUSÃO. RECONHECIMENTO. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO. 1. A decisão agravada deve ser mantida por seus próprios fundamentos. 2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020). 3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Precedentes. 4. Agravo regimental desprovido.(STJ - AgRg no HC: 713708/SP Relator Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 29/03/2022, QUINTA TURMA, Data de Publicação: DJe 04/04/2022, grifei.)
+A jurisprudência do Superior Tribunal de Justiça não tem admitido que o habeas corpus seja utilizado em substituição ao recurso próprio, tampouco à revisão criminal, permitindo-se, contudo, em situações de flagrante ilegalidade do ato apontado como coator, em prejuízo que acabe por refletir na liberdade individual, a concessão, de ofício, da ordem de habeas corpus.
+Demais disso, o exame das alegações do impetrante se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos do artigo 105, I, "e" da Constituição Federal.
+Nessa linha:
+" ..
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. "
+ ..
+(HC n. 483065 SP, Relator: Ministro RIBEIRO DANTAS, Data de Julgamento: 05/11/2019, 5ª Turma, DJ-e 11/11/2019)
+Cito, também, a orientação do Supremo Tribunal Federal:
+ ..
+1. O SUPREMO TRIBUNAL FEDERAL não tem admitido a utilização de Habeas Corpus como sucedâneo de Revisão Criminal (HC 134691 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 1º/8/2018; HC 149.653-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 6/2/2018; HC 144.323-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 30/8/2017).
+2. Habeas corpus indeferido. (HC n. 199.284/SP, relator Ministro Alexandre de Morais, Primeira Turma, DJe de 16/8/2021).
+Mesmo que assim não fosse, a fixação do regime mais gravoso foi fundamentada na elevada quantidade de drogas apreendidas e na existência de circunstância judicial desfavorável (e-STJ fls. 53-54). Tais circunstâncias, de fato, justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada. Nesse sentido: (AgRg no HC n. 874.121/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do artigo 210 do RISTJ.
+Dê-se ciência ao Ministério Púbico Federal.
+Publique-se. Intimem-se.
+EMENTA
