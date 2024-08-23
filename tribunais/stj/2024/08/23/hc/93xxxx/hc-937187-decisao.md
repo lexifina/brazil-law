@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Luiz Henrique Souza Lima - condenado por furto qualificado a 3 anos, 3 meses e 18 dias de reclusão, em regime inicial fechado, e a 15 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Minas Gerais (fls. 465/483), não comporta processamento.
+Com efeito, busca a impetração abrandar o regime inicial e redimensionar a pena imposta - na condenação proferida na Ação Penal n. 0019630-30.2023.8.13.0024 (fls. 368/382 - da 9ª Vara Criminal da c omarca de Belo Horizonte/MG) -, com o afastamento:
+a) da qualificadora de escalada - ao argumento de que não foi apresentado qualquer fundamento concreto para justificar a ausência de exame pericial no local do fato, o que poderia ser realizado por se tratar de mera característica do palco do evento (fls. 6/7); e
+b) do mínimo fixado para reparação de danos - sustentado que a indenização à vítima foi concedida sem que, contudo, houvesse uma fundamentação robusta, individualizada e baseada concretamente em provas carreadas aos autos, muito especialmente sem oportunizar ao recorrente a ampla defesa e o contraditório pleno (fl. 15).
+Entretanto, do atento exame dos autos tem-se que não foi demonstrado o alegado constrangimento ilegal, uma vez que:
+a) a alegação de afastamento da qualificadora de escalada nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância;
+b) a pretensão de afastamento do mínimo fixado para reparação de danos não se amolda à concepção de constrangimento ilegal do direito de ir e vir, próprio do remédio constitucional - fundamento que, por si só, inviabilizaria a sua análise em sede de habeas corpus (AgRg no HC n. 750.609/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe 12/6/2024); e
+c) a fixação do regime inicial fechado foi fundamentada na existência de circunstâncias judiciais negativadas e reincidência do paciente - diante do quantum final da pena, pela análise negativa das circunstâncias judiciais da culpabilidade, antecedentes e consequências, bem como pela multirreincidência do apelante (fl. 480) -, em consonância com o entendimento desta Corte Superior (AgRg no REsp n. 2.038.062/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe 26/6/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS . FURTO QUALIFICADO. ALEGAÇÃO DE AFASTAMENTO DA QUALIFICADORA DA ESCALADA. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. PRETENSÃO DE REPARAÇÃO DE DANOS À VÍTIMA. INEXISTÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO. VIA INADEQUADA. REGIME INICIAL FECHADO JUSTIFICADO . RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. EXPRESSA PREVISÃO LEGAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
