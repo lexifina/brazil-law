@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA LÚCIA REZENDE SIMONSEN e MARCELLO WALLACE SIMONSEN (MARIA e outro) contra decisão que negou seguimento ao seu apelo nobre anteriormente manejado.
+Não foi apresentada contraminuta (e-STJ, fl. 126).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, MARIA e outro alegaram ofensa aos arts. 489, § 1º, III e IV, 795, 905, 908 e 1.022, I e II, todos do NCPC. Sustentaram que (1) o aresto recorrido foi omisso, porque não se explicou o fundamento jurídico da diferenciação entre excussão patrimonial judicial e dação em pagamento em acordo na execução para fins de definição das regras de preferência de penhora; e, (2) a competência para se decidir deve recair sobre o Juízo que decretou a primeira penhora, pois havendo mais de uma penhora contra o mesmo devedor, em juízos diferentes, o concurso ocorrerá naquele em que se der a primeira penhora; e, (3) a primeira penhora foi promovida pelo agravado na execução de origem.
+Não foram apresentadas contrarrazões (e-STJ, fl. 96).
+Da eventual assertiva de omissão no aresto recorrido
+MARIA e outro alegaram ofensa aos arts. 489, § 1º, III e IV, 795, 905, 908 e 1.022, I e II, todos do NCPC. Sustentaram que o aresto recorrido foi omisso, porque não se explicou o fundamento jurídico da diferenciação entre excussão patrimonial judicial e dação em pagamento em acordo na execução para fins de definição das regras de preferência de penhora.
+Sobre o tema, a Corte local consignou que, na hipótese, não se discute a preferência entre as penhoras ocorridas.
+Ficou esclarecido que, tendo sido homologado um acordo entre as partes, o magistrado a quo liberou a restrição incidente sobre o veículo em questão para que fosse possível o pagamento ao credor por meio da transferência do bem, conforme acordado.
+Desse modo, concluiu-se que se não foi possível a transferência do bem, conforme acordado, em decorrência de uma segunda constrição incidente sobre o mesmo bem e ordenada em outra demanda executiva, não cabe ao magistrado a quo imiscuir-se em processo que não conduz.
+Nesse sentido, ficou destacado ser inadmissível que o primeiro Juízo libere o bem contrito também por outro credor em outra demanda para livre entrega ao ora agravado por meio da dação em pagamento.
+Em resumo, o TJSP assentou que se os agravantes/executados não pretendem perder o acordo que lograram firmar com o credor/agravado, devem providenciar o levantamento da constrição existente junto ao juízo que a determinou ou ainda tentar a substituição do bem ou da forma de pagamento (e-STJ, fls. 62/63).
+Dessa forma, não ficou evidenciada a negativa de prestação jurisdicional, pois o TJSP emitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+O que se vê, na verdade, é a irresignação de MARIA e outro com o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto nos arts. 489 e 1.022 do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados nos mencionados artigos.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A revisão da conclusão alcançada pelo colegiado estadual (quanto à regularidade da cobrança realizada pelo banco recorrido, em virtude da existência do débito oriundo de dois distintos contratos de financiamentos) demandaria o revolvimento do acervo fático-probatório dos autos, o que é defeso dada a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à divergência jurisprudencial, o Superior Tribunal de Justiça firmou entendimento de que a incidência da Súmula n. 7/STJ impede o exame do recurso no que tange à alínea c do inciso III do art. 105 da Constituição Federal, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.022.899/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022)
+No tocante às alegações de que a competência deve recair sobre o Juízo que decretou a primeira penhora e de que a primeira penhora foi promovida pelo agravado
+MARIA e outro alegaram ofensa aos arts. 795, 905, 908, todos do NCPC. Sustentaram que (1) a competência para se decidir deve recair sobre o Juízo que decretou a primeira penhora, pois havendo mais de uma penhora contra o mesmo devedor, em juízos diferentes, o concurso ocorrerá naquele em que se der a primeira penhora; e, (2) a primeira penhora foi promovida pelo agravado na execução de origem.
+A esse respeito, o Tribunal estadual concluiu que, na hipótese, não se discute a preferência entre as penhoras ocorridas, considerando a homologação de acordo entre agravantes e agravado e a ocorrência de uma segunda constrição incidente sobre o mesmo bem e ordenada em outra demanda executiva, não cabendo ao primeiro magistrado, que apenas homologou o acordo, imiscuir-se em processo que não conduz.
+No caso concreto, deve incidir o óbice da Súmula nº 283 do STF, uma vez que a parte deixou de atacar fundamentos autônomos e suficientes para manter o julgado.
+Com efeito, constatou-se que MARIA e outro se limitaram a afirmar que (1) a competência para se decidir deve recair sobre o Juízo que decretou a primeira penhora, pois havendo mais de uma penhora contra o mesmo devedor, em juízos diferentes, o concurso ocorrerá naquele em que se der a primeira penhora; e, (2) a primeira penhora foi promovida pelo agravado na execução de origem.
+Dessa forma, observa-se que não houve a impugnação do referido fundamento, o que atrai a incidência da Súmula nº 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VALOR DEPOSITADO EM CONTA BANCÁRIA. IMPENHORABILIDADE ATÉ O LIMITE DE 40 SALÁRIOS MÍNIMOS. INCIDÊNCIA DA SÚMULA 83/STJ. AFRONTA AO PRINCÍPIO DA VEDAÇÃO DA DECISÃO SURPRESA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. VIOLAÇÃO DOS ARTS. 789, 797. 789, 797, 824, 854, § 3º, I, DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis, ressalvada a comprovação de má-fé, abuso de direito ou fraude. Incidência da Súmula 83/STJ no caso.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do recurso especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. A alegação genérica de violação de lei federal, sem que a parte insurgente explicite, de forma concreta, como os dispositivos teriam sido vulnerados pelo aresto impugnado, configura deficiência na fundamentação, ensejando a inadmissibilidade do recurso especial ante incidência da Súmula n. 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.783.548/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/8/2021, DJe 19/8/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte não indica o dispositivo legal violado, ainda que para efeito da divergência jurisprudencial. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.711.630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 16/8/2021, DJe 18/8/2021)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável, ao caso, a majoração dos honorários advocatícios.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SUFICIÊNCIA NA FUNDAMENTAÇÃO. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. INVIABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
