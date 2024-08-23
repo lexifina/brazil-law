@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ADEMIR MAURO DE FREITAS e OUTROS com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Décima Câmara de Direito Privado do Tribunal de Justiça de São Paulo (e-STJ, fl. 44):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. Irresignação dos exequentes contra decisão que acolheu parcialmente a impugnação ao cumprimento de sentença. Não acolhimento. Tendo em vista que os juros de mora e a correção monetária são questões de ordem pública, não há que se cogitar de preclusão. Juros de mora sobre multa decendial. Nos termos do entendimento iterativo do C. STJ, a multa decendial está limitada ao valor da obrigação principal, excluídos os juros de mora e a correção monetária. Decisão mantida. RECURSO DESPROVIDO.
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 53-74), os insurgentes apontaram violação aos arts. 82, 84, 240, 322, § 1º, 502, 503, 505,507, 508, 525, §§ 4º e 5º, do CPC; e aos arts. 389, 395, 407 e 412 do Código Civil.
+Alegaram, ao ser afastados os juros e correção monetária, o a decisão proferida na instância ordinária violara a coisa julgada.
+Contrarrazões às fls. 77-97 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos (e-STJ, fls. 98-99), o que ensejou a interposição do presente agravo (e-STJ, fls. 102-118).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial - o qual, adianta-se, não merece ser conhecido.
+Cuida-se, na origem, de agravo de instrumento manejado pelos recorrentes contra decisão proferida que, em incidente de cumprimento de sentença, acolheu parcialmente a impugnação apresentada pela parte agravada para afastar os juros de mora aplicados sobre a multa decendial.
+De início, deve ser rechaçada a alegada violação aos arts. 82, 84, 240, 525, §§ 4º e 5º, do CPC. Isso porque a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Com efeito, é firme o entendimento neste Superior Tribunal quanto à incidência das Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem, tampouco foram opostos os embargos declaratórios com intuito de provocar o debate na instância ordinária, como se observa no caso sob julgamento.
+Ilustrativamente (sem grifo no original):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ART. 591 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. CAPITALIZAÇÃO DE JUROS E ERRO NO CÁLCULO PERICIAL. INOCORRÊNCIA. SÚMULA N. 7/STJ.
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. A desconstituição da convicção formada - a respeito da ausência de inconsistências nos cálculos periciais - demandaria o reexame de fatos e provas, medida defesa na seara extraordinária, em virtude do disposto no enunciado sumular n. 7 desta Casa. (AgInt no AREsp n. 2.477.380/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.) Agravo interno improvido.
+(AgInt no AREsp n. 2.508.582/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 10/6/2024, DJe de 12/6/2024.)
+Outrossim, é importante salientar a impossibilidade de se alegar a tese do prequestionamento implícito no caso sob julgamento. Isso porque, conforme jurisprudência firmada neste Superior Tribunal, aquele ocorre desde que os temas correspondentes tenham sido expressamente discutidos na Corte de origem, o que não aconteceu no caso sob julgamento.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE EMPREITADA. OFENSA A PRINCÍPIO. IMPOSSIBILIDADE. PETIÇÃO INICIAL E DOCUMENTOS INDISPENSÁVEIS. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA. COMPROVAÇÃO DA RESPONSABILIDADE. NÃO CUMPRIMENTO DO CONTRATO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. APLICAÇÃO DA SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui entendimento de ser incabível a interposição de recurso especial fundado na ofensa a princípios, tendo em vista que não se enquadram no conceito de lei federal.
+2. As matérias pertinentes ao art. 320 do NCPC não foram objeto de debate prévio nas instâncias de origem, a despeito da oposição de embargos de declaração. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 211 do STJ.
+3. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que os temas correspondentes tenham sido expressamente discutidos no Tribunal local, o que não ocorreu na hipótese dos autos.
+4. No caso, a partir da interpretação das cláusulas do contrato, bem como da análise dos elementos fáticos da causa, o Tribunal estadual reconheceu a responsabilidade da agravante e o não cumprimento do contrato. A pretensão de rever esse entendimento encontra óbice nas Súmulas n.os 5 e 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.403.043/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER E OBRIGAÇÃO DE PAGAR C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA ANTECIPADA. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO IMPLÍCITO. NÃO VERIFICAÇÃO. SÚMULAS N. 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL. NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+2. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF.
+3. Não se considera preenchido o requisito do prequestionamento (prequestionamento implícito) quando o tribunal de origem não debate efetivamente acerca da matéria inserta no dispositivo de lei federal.
+4. A simples transcrição das ementas, sem o correspondente cotejo analítico entre os paradigmas e o acórdão recorrido e sem a demonstração da identidade ou similitude fática entre eles nos moldes do RISTJ, impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+5. A falta de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+6 . Agravo interno desprovido.
+(AgInt no REsp n. 2.041.495/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+Quanto à questão central da controvérsia, a irresignação dos agravantes não viceja. Conforme se extrai do acórdão recorrido, a Corte de origem, ao manter a decisão proferida pelo juízo singular, consignou que a correção monetária e os juros de mora são consectários legais da condenação principal, possuindo natureza pública, podendo ser analisados de ofício, de modo que não havia que se cogitar a preclusão.
+Veja-se (e-STJ, fl. 48):
+Nos termos da jurisprudência do Superior Tribunal de Justiça, "a correção monetária e os juros de mora são consectários legais da condenação principal, sendo considerados pedidos implícitos, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício" (AgInt no AREsp n. 1.555.087/SP, relator o Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023,DJe de 11/4/2023).
+Dessa forma, é possível que esta C. Câmara se debruce acercada presente controvérsia, não havendo que se cogitar de preclusão.
+Ocorre que, nas razões do recurso especial aviado, o fundamento apontado acima não foi efetivamente rebatido, sobretudo a natureza pública e a impossibilidade de se alegar a preclusão.
+Efetivamente, não se conhece do recurso especial quando a decisão recorrida se assenta em mais de um fundamento autônomo e o reclamo não abrange todos eles, como na hipótese dos autos. Portanto, incide, por analogia, o óbice da Súmula n. 283/STF.
+No ponto (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. INDENIZAÇÃO DE HORAS TRABALHADAS. SUPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA REPETITIVA. JUÍZO DE CONFORMIDADE. DISTINGUISHING REALIZADO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 211/STJ. LINDB. ÍNDOLE CONSTITUCIONAL.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+2. Na espécie a recorrente não impugnou o fundamento do acórdão recorrido que fez a distinção entre o presente caso concreto e aquele decidido no recurso especial repetitivo 1.312.736/RS, destacando que a verba em questão, denominada Indenização de Horas Trabalhadas (IHT), sempre integrou a remuneração do beneficiário, não se tratando, portanto, de uma parcela salarial reconhecida pela Justiça do Trabalho.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE S ENTENÇA. AGRAVO DE INSTRUMENTO. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 2. JUROS. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO. SÚMULA N. 283/STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
