@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MAURICIO DAL AGNOL, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/02/2024.
+Concluso ao gabinete em: 05/06/2024.
+Ação: de conhecimento em fase de cumprimento de sentença, ajuizada pelo agravado, em face do agravante, na qual se insurge o agravante contra a decisão que julgou parcialmente procedentes os pedidos formulados na impugnação ao cumprimento de sentença, interposto pela parte agravante.
+Decisão interlocutória: julgou parcialmente procedentes os pedidos, para o fim de reconhecer excesso de execução de R$ 1.931,53 (mil, novecentos e trinta e um reais e cinquenta e três centavos), relativamente ao valor executado a título de danos materiais e, por conseguinte, declarou que o exequente é credor da quantia nominal de R$ 7.450,16 (sete mil, quatrocentos e cinquenta reais e dezesseis centavos) a título de danos materiais, que devem corrigidos pelo IGPM-FGV a partir do levantamento do alvará (17/12/2012), com aplicação de juros de mora de 1% ao mês (sem capitalização), incidentes a partir da citação na fase de conhecimento.
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA C/C INDENIZATÓRIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA JULGADA PARCIALMENTE PROCEDENTE. CONDENAÇÃO A TÍTULO DE DANOS MATERIAIS E MORAIS. INCIDÊNCIA DE CORREÇÃO MONETÁRIA PELO IGP-M E JUROS DE MORA DE 1% AO MÊS. RECONHECIMENTO DE EXCESSO DE EXECUÇÃO. AUSÊNCIA DE INSURGÊNCIA DE QUALQUER DAS PARTES, QUANTO AO PONTO. PRETENSÃO DO EXECUTADO DE ATUALIZAÇÃO DO QUANTUM DEVIDO PELA TAXA SELIC. DESCABIMENTO. RESPEITO À COISA JULGADA. AINDA QUE NÃO ESTIVESSE PRECLUSO O DIREITO DE PEDIR A SUBSTITUIÇÃO DOS JUROS MORATÓRIOS PELA TAXA SELIC, TAL REQUERIMENTO NÃO MERECERIA, DE IGUAL FORMA, ACOLHIDA PORQUANTO É CEDIÇO QUE AS CONDENAÇÕES JUDICIAIS UTILIZAM LARGAMENTE OS JUROS LEGAIS DE 1%, CONSOANTE DISPÕEM O ART.2 40 DO CPC/2015 E O ART. 405 DO CC. NÃO CONSTATADA OFENSA AO ACÓRDÃO PROFERIDO PELO STJ NO RESP Nº 1.112.743/BA (TEMA Nº176). IMPUGNAÇÃO À PENHORA. NÃO CONHECIMENTO DA ARGUIÇÃO DE IMPENHORABILIDADE. CONSTRIÇÃO NO ROSTO DE AUTOS EM QUE O EXECUTADO POSTULA HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. CASO CONCRETO. RELATIVIZAÇÃO DA NATUREZA ALIMENTAR DA VERBA HONORÁRIA. EXISTÊNCIA DE INÚMERAS VÍTIMAS DA "OPERAÇÃO CARMELINA". AÇÃO DE INDENIZAÇÃO ORIUNDA DA FALHA NA PRESTAÇÃO DE SERVIÇOS DO ADVOGADO. CONSTRIÇÃO QUE NÃO INVIABILIZARÁ A SUBSISTÊNCIA DO DEVEDOR. PRECEDENTES JURISPRUDENCIAIS. DECISÃO MANTIDA.
+RECURSO DESPROVIDO. (e-STJ Fl. 480)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 322, § 1º, do CPC; 406 do CC, bem como dissídio jurisprudencial. Sustenta ser possível a aplicação de correção monetária até a mora, com posterior aplicação da taxa SELIC.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/RS de que "não se trata, portanto, de definir ou não a incidência da SELIC como fator de correção e oneração, mas de preservar o princípio da coisa julgada, na medida em que esse ponto não foi atacado pelo devedor quando da prolação da sentença" (e-STJ Fl. 483), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Ademais, impende consignar que esta Corte possui o entendimento de que o instituto da coisa julgada diz respeito ao comando normativo veiculado no dispositivo da sentença, de sorte que os motivos e os fundamentos, ainda que importantes para determinar o alcance da parte dispositiva, não são alcançados pelo fenômeno da imutabilidade, nos termos do art. 469, do CPC/73, atual 504 do CPC/15. Nesse sentido: AgInt no AREsp 384.553/SC, Quarta Turma, DJe de 26/4/201;
+Confira-se, ainda, os seguintes precedentes: EDcl no REsp n. 1.799.345/SC, Quarta Turma, DJe de 17/6/2024 e AgInt nos EDcl no AgInt nos EDcl no REsp n. 1.799.800/RS, Segunda Turma, DJe de 18/4/2024.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
