@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GABRIELLE DOS SANTOS MARTINS e outros contra decisão singular de minha lavra na qual conheci do agravo e neguei provimento ao recurso especial em virtude do óbice das Súmulas 5 e 7 do STJ.
+Sustenta a parte embargante que é possível a juntada de novos documentos em fase de recurso especial. Apresentam provas de que o próprio condomínio reconheceu "a inconstitucionalidade do artigo regimental que proibia o fracionamento da unidade", e entendeu pela possibilidade de fracionamento do lote.
+Aduz a existência de contradição, uma vez que o condomínio reconheceu a regularidade das unidades fracionadas, inclusive emitiu certidão para a Concessionária de Energia, motivo pelo qual a justiça não pode determinar a nulidade do negócio.
+Impugnação não apresentada.
+Assim delimitada a questão, passo a decidir.
+De início, destaco que a regra prevista no art. 396 do CPC/73 (art. 434 do CPC/2015) determina que a parte deve instruir a inicial ou a contestação com os documentos que forem necessários para provar o direito alegado, e essa regra somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior, nos termos do art. 397 do CPC/73 (art. 435 do CPC/2015)" (AgInt no AREsp n. 1.734.438/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/3/2021, DJe de 7/4/2021), o que não é o caso dos autos.
+Quanto ao mais, a decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (fls. 574/577):
+Constou no acórdão proferido pelo Tribunal de origem que (i) a alegação de que a norma prevista no art. 27 da Convenção Condominial está amparada em lei declarada inconstitucional por esse Tribunal, no julgamento da Ação Direta de Inconstitucionalidade (ADI) n.º 10531, constitui inovação recursal; (ii) da análise dos documentos carreados aos autos, verifica-se que é vedado o fracionamento de lotes no Condomínio; e (iii), considerando a vedação contida na Convenção, e que não houve qualquer autorização ou deliberação do Condomínio para afastar referida vedação, ficou demonstrada a ilicitude do objeto, que é causa de nulidade do pacto.
+Inicialmente, cumpre consignar que a alegação de que a norma prevista no art. 27 da Convenção Condominial está amparada em lei declarada inconstitucional por esse eg. Tribunal no julgamento da Ação Direta de Inconstitucionalidade (ADI) n.º 10531 constitui inovação recursal.
+Nesse contexto, questão que não foi discutida na instância de origem não pode ser invocada nas razões recursais nem decidida em grau recursal, sob pena de supressão de instância.
+No mais, verifica-se que as partes celebraram dois contratos, sendo o primeiro de cessão de direitos de um lote residencial e suas benfeitorias existentes, com uma área de 1.000m  (mil metros quadrados), desmembramento da área total de 2.800m , situado no Condomínio Asa Branca (cláusula primeira - id 33390395).
+ ..
+Com efeito, da análise dos documentos carreados aos autos, verifica-se que é vedado o fracionamento de lotes no Condomínio Asa Branca, conforme estabelecem o artigo 27 da Convenção do condomínio (id 33390385), e o art. 17 do Regimento interno do condomínio (id 33390392), respectivamente, in verbis:
+ ..
+Acrescente-se que na Assembleia Geral extraordinária de 2020 (id 33391193) não houve deliberação no sentido de alterar as normas acima destacadas, de forma que prevalece até então a proibição para o desmembramento dos lotes.
+De fato, incumbe à convenção do condomínio estabelecer as regras proibitivas, às quais todos os condôminos têm o dever de respeitar, não se podendo admitir que o direito individual prevaleça sobre a comunhão de interesses da coletividade.
+Na hipótese, conforme bem assentado na sentença, evidencia-se a ilicitude do contrato, em razão do desmembramento do lote de 2.800m2 para uma área menor de 1.000m2 infringir a norma posta no art. 27 da Convenção do Condomínio, a qual proíbe terminantemente a redução das áreas dos lotes.
+Assim, considerando a vedação contida na Convenção, e que não houve qualquer autorização ou deliberação do Condomínio para afastar referida vedação, resta demonstrada a ilicitude do objeto, que é causa de nulidade do pacto, nos termos do disposto no art. 166, II do Código Civil, que não pode, portanto, produzir nenhum efeito jurídico.
+ ..
+Dessa forma, diante da ilicitude do objeto do contrato, a consequência natural é a declaração de nulidade da avença, com o restabelecimento do "status quo ante", tal como determinado na sentença  ..  (e-STJ, fls. 430/432).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo que não houve qualquer autorização ou deliberação do Condomínio para afastar a vedação constante na sua convenção, tendo sido demonstrada a ilicitude do objeto e, portanto, a nulidade do contrato, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos e do contrato celebrado entre as partes, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Nos termos da jurisprudência desta Corte, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado. A propósito, confira-se
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+ ..
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
