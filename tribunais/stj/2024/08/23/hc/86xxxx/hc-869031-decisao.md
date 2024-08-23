@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ryan Alves da Silva e Luiz Fernando Sousa Santos, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo nos autos do Habeas Corpus Criminal n. 2224363-33.2023.8.26.0000.
+Neste writ, a defesa aponta a nulidade das provas por ilegalidade na busca realizada na residência, por ausência de justa causa. Aduz, ainda, a defesa que há constrangimento ilegal, p elo excesso de prazo, para o julgamento do recurso de apelação, já que a sentença condenatória foi proferida em 24/3/2021.
+De acordo com as informações trazidas aos autos, pela Presidência do Tribunal de Justiça de São Paulo (fls. 443/455), o recurso de apelação foi julgado, pela Décima Câmara Criminal do Tribunal de Justiça de São Paulo, tendo sido negado provimento ao apelo Ministerial, e dado parcial provimento ao recurso da defesa, redimensionando a pena dos pacientes para 6 anos, 9 meses e 20 dias de reclusão, e ao pagamento de 680 dias-multa. Esta, a ementa do julgado (fl. 446):
+APELAÇÃO RECURSO DEFENSIVO DE RYAN ALVES DA SILVA TRÁFICO ILÍCITO DE ENTORPECENTES MATÉRIA PRELIMINAR NATUREZA PERMANENTE DO CRIME SITUAÇÃO DE FLAGRÂNCIA ABORDAGEM POLICIAL DEVIDAMENTE REALIZADA DESNECESSIDADE DE MANDADO DE BUSCA E APREENSÃO DOMICILIAR - LICITUDE DA PROVA REJEITADA A MATÉRIA PRELIMINAR - MÉRITO AUTORIA E MATERIALIDADE DEMONSTRADAS REDUÇÃO DAS PENAS RECONHECIMENTO DA CIRCUNSTÂNCIA ATENUANTE DA MENORIDADE RELATIVA ACUSADO REINCIDENTE ESPECÍFICO - REGIME PRISIONAL FECHADO COMPATÍVEL COM A CONDIÇÃO PESSOAL DO ACUSADO E COM AS CIRCUNSTÂNCIAS DO CASO EM TELA RECURSO PARCIALMENTE PROVIDO. RECURSO MINISTERIAL - TRÁFICO ILÍCITO DE ENTORPECENTES PLEITO DE FIXAÇÃO DO REGIME PRISIONAL FECHADO PARA O RÉU LUIZ HENRIQUE QUE NÃO COMPORTA ACOLHIMENTO MANUTENÇÃO DO REGIME PRISIONAL SEMIABERTO RECURSO DESPROVIDO.
+O acórdão transitou em julgado. Nesse sentido, este mandamus está prejudicado.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. MATÉRIAS APONTADAS SOBRE A ILEGALIDADE NA DILIGÊNCIA POLICIAL JÁ ANALISADA NO JULGAMENTO DE APELAÇÃO. APONTAMENTO DE EXCESSO DE PRAZO. APELAÇÃO JULGADA PARCIALMENTE PROCEDENTE. PENA REDIMENSIONADA.
+Habeas corpus prejudicado.
