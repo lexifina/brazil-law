@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DOUGLAS FERNANDES RAULINO, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, no julgamento da Apelação Criminal n. 0500252-21.2020.8.05.0004.
+Consta dos autos que o paciente foi condenado, em primeira instância, como incurso no art. 155, § 4º, Incisos I e IV e art. 307 c/c art. 69, todos do Código Penal, às penas definitivas de 5 (cinco) anos e 8 (oito) meses de reclusão, em regime fechado, além do pagamento de 20 (vinte) dias-multa, e 5 (cinco) meses de detenção (e-STJ fls. 50/62).
+Irresignada, a defesa interpôs recurso de apelação, que foi parcialmente provido, apenas a fim de afastar a valoração da conduta social na primeira fase do cálculo dosimétrico para ambos os crimes, redimensionando as penas e tornando-as definitivas no patamar de 4 (quatro) anos e 8 (oito) meses de reclusão e 17 (dezessete) dias-multa; e 15 (quinze) dias de detenção (e-STJ fls. 16/45).
+No presente mandamus (e-STJ fls. 3 a 14), a defesa aduz, em síntese, que o paciente sofre constrangimento ilegal em razão do acréscimo operado na primeira fase da dosimetria.
+Alega que ambas as instâncias anteriores utilizaram a fração superior a  (metade) para cada circunstância judicial considerada desfavorável, entretanto, nenhuma das decisões proferidas demonstraram qualquer elemento que justificasse a maior gravidade na conduta que lastreasse a majoração da pena em patamar superior a 1/6 (um sexto), sendo este pacificado no âmbito deste egrégio SUPERIOR TRIBUNAL DE JUSTIÇA (e-STJ, fl. 11).
+Diante disso, requer, na liminar e no mérito, a redução das basilares em decorrência da utilização da fração de 1/6 (um sexto) para cada circunstância judicial negativada.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Acerca do rito a ser adotado para o julgamento desta impetração, as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforme com súmula ou com a jurisprudência consolidada dos Tribunais Superiores ou a contraria (AgRg no HC n. 513.993/RJ, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 25/06/2019, DJe 1º/7/2019; AgRg no HC n. 475.293/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 27/11/2018, DJe 3/12/2018; AgRg no HC n. 499.838/SP, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 11/4/2019, DJe 22/4/2019; AgRg no HC n. 426.703/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/10/2018, DJe 23/10/2018 e AgRg no RHC n. 37.622/RN, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 6/6/2013, DJe 14/6/2013).
+Nesse diapasão, uma vez verificado que as matérias trazidas a debate por meio do habeas corpus constituem objeto de jurisprudência consolidada neste Superior Tribunal, não há nenhum óbice a que o Relator conceda a ordem liminarmente, sobretudo ante a evidência de manifesto e grave constrangimento ilegal a que estava sendo submetido o paciente, pois a concessão liminar da ordem de habeas corpus apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n. 45/2004 com status de princípio fundamental (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Na verdade, a ciência posterior do Parquet, longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Em suma, para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 06/08/2019, DJe 13/08/2019).
+Possível, assim, a análise do mérito da impetração, já nesta oportunidade.
+Busca-se, como relatado, o redimensionamento das penas do paciente.
+Como cediço, a dosimetria se insere dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Além disso, a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade vinculada, devendo o Direito pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. Precedentes: AgRg no HC n. 355.362/MG, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 332.155/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/5/2016, DJe 10/5/2016; HC n. 251.417/MG, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 3/11/2015, DJe 19/11/2015; HC n. 234.428/MS, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 1º/4/2014, DJe 10/4/2014.
+Por outro lado, embora a lei não estabeleça critérios específicos para o quantum da exasperação, sedimentou-se nesta Corte orientação no sentido de que o aumento da pena em fração superior a 1/6 sobre a pena mínima cominada ao delito para cada circunstância judicial negativada deve estar acompanhada de motivação adequada e específica, com indicação de circunstância que evidencie a necessidade de incremento em maior extensão. A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COAÇÃO NO CURSO DO PROCESSO. ART. 344 DO CP. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. MAUS ANTECEDENTES, PRESENÇA DE TRÊS CONDENAÇÕES DEFINITIVAS DISTINTAS. POSSIBILIDADE. QUANTUM DE AUMENTO NA PRIMEIRA FASE. OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+ ..
+2. Considerando a existência de três condenações transitadas em julgado não valoradas na segunda etapa da dosimetria a título de reincidência, não se vislumbra ilegalidade na exasperação da pena-base pelos maus antecedentes da ré.
+3. Ocorre que o aumento determinado pela instância ordinária a título de maus antecedentes, ainda que levado em consideração tratar-se de três condenações, mostra-se desproporcional. Note-se que, muito embora a lei não estabeleça o patamar mínimo e o máximo para incidência de cada circunstância judicial, sedimentou-se nesta Corte Superior de Justiça a orientação de que o acréscimo superior a 1/6 (um sexto) para cada circunstância judicial desfavorável deve ser devidamente justificado.
+ ..
+5. Agravo regimental não provido. (AgRg no AREsp 1116974/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 22/8/2017, DJe 1º/9/2017).
+No caso, confira-se como as penas do paciente foram fixadas na primeira instância (e-STJ, fls. 58/60):
+ ..
+DA DOSIMETRIA DO CRIME DE FURTO QUALIFICADO:
+DAS CIRCUNSTANCIAS JUDICIAIS
+Com espeque nos arts. 59 e 68 do Código Penal, passo a examinar as circunstâncias Judiciais para a fixação da pena-base privativa de liberdade.
+Culpabilidade - Resta seriamente demonstrada na medida em que o acusado praticou crime de furto contra uma agência bancária de maneira planejada e logrou êxito na subtração de R$ 615.833,00 (seiscentos e quinze mil, oitocentos e trinta e três reais) do interior da Agência do Banco do Brasil na cidade de Alagoinhas, que jamais foram recuperados. O réu, realizando a prática de tal delito, contribui para o prejuízo patrimonial, ofende a integridade moral e liberdade de terceiros de boa fé.
+Antecedentes - O réu é reincidente e possui condenação transitada em julgado por delito de mesma natureza, conforme mandado de prisão de fls.36, onde consta ordem de prisão contra o mesmo para que cumpra sua pena.
+Conduta Social - A conduta social do acusado é em muito negativa, na medida em que já possui outras investigações criminais em desfavor pela prática de delito da mesma natureza, o que demonstra que a sua conduta no meio social é voltada ao cometimento de delitos.
+Personalidade - Não possui este Juízo elementos para proceder a tal valoração.
+Motivo - Não apurado. Circunstâncias e consequências do crime - O acusado cometeu o ilícito em circunstâncias normais à espécie do delito.
+Do comportamento da vítima - A vítima não teve qualquer conduta a qual pudessem contribuir para a prática do delito.
+Do exposto, fixo a pena-base em 5 (cinco) anos e 8 (oito) meses de reclusão e 20 (vinte) dias-multa.
+ ..
+DA DOSIMETRIA DO CRIME DE FALSA IDENTIDADE:
+DAS CIRCUNSTANCIAS JUDICIAIS
+Com espeque nos arts. 59 e 68 do Código Penal, passo a examinar as circunstâncias Judiciais para a fixação da pena-base privativa de liberdade.
+Culpabilidade - Não excede o tipo penal.
+Antecedentes - O réu é reincidente e possui condenação transitada em julgado, conforme mandado de prisão de fls. 36, onde consta ordem de prisão contra o mesmo para que cumpra sua pena.
+Conduta Social - A conduta social do acusado é em muito negativa, na medida em que já possui outras investigações criminais em desfavor pela prática de crimes contra o patrimônio e associação criminosa, o que demonstra que a sua conduta no meio social é voltada ao cometimento de delitos.
+Personalidade - Não possui este Juízo elementos para proceder a tal valoração.
+Motivo - Não apurado. Circunstâncias e consequências do crime - O acusado cometeu o ilícito em circunstâncias normais à espécie do delito.
+Do comportamento da vítima - A vítima não teve qualquer conduta a qual pudessem contribuir para a prática do delito.
+Do exposto, fixo a pena-base em 6 (seis) meses e 20 (vinte) dias de detenção.
+ ..
+Já a Corte local, ao afastar a negativação da conduta social, assim refez o cálculo dosimétrico (e-STJ fls. 38/42):
+DA DOSIMETRIA DO CRIME DE FURTO QUALIFICADO
+ ..
+Isto posto, após análise revisional das circunstâncias judiciais, mantendo apenas o sopesamento negativo da culpabilidade e dos antecedentes, fixo a pena-base em 04 (quatro) anos e 08 (oito) meses e ao pagamento de 17 (dezessete) dias-multa.
+ ..
+DA DOSIMETRIA DO CRIME DE FALSA IDENTIDADE:
+ ..
+Em razão do posicionamento do Superior Tribunal de Justiça, com a edição da Súmula 444 do STJ, já mencionado acima, afasto a valoração negativa da conduta social do agente, mantendo apenas o sopesamento negativo dos antecedentes.
+Assim, fixo a pena-base em 05 (cinco) meses e 12 (doze) dias de detenção.
+ ..
+Dessa forma, extrai-se que a pena-base do crime de furto foi exasperada em patamar superior a 1/6 por circunstância judicial com fundamento nos maus antecedentes e culpabilidade do paciente, ao passo que, a do crime de falsa identidade, apenas em razão dos antecedentes, em circunstâncias que não exorbitam a reprovabilidade própria de cada vetorial, razão pela qual revela-se excessivo o incremento, devendo ser utilizada a usual fração de 1/6 por vetor negativado.
+Em consequência, passo ao redimensionamento das penas do paciente.
+Crime de furto qualificado: Na primeira fase, mantida a negativação da culpabilidade e dos antecedentes, majoro a reprimenda em 1/3, ficando estabelecida em 2 anos e 8 meses de reclusão e 13 dias-multa, a qual se torna definitiva diante da inexistência de outras causas modificadoras.
+Crime de falsa identidade: Na primeira fase, mantida a negativação da culpabilidade, majoro a reprimenda em 1/6, alcançando esta o patamar de 3 meses e 15 dias de detenção. Na segunda etapa, presente a atenuante da confissão espontânea, a reprimenda retorna ao mínimo legal - 3 meses de detenção, a qual se torna definitiva diante da inexistência de outras causas modificadoras.
+Quanto ao regime, fixo o inicial semiaberto para os 2 crimes, em razão da presença de circunstâncias judiciais negativas, e, pelo mesmo motivo, deixo de proceder à substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir as penas do paciente para 2 anos e 8 meses de reclusão e 13 dias-multa, e 3 meses de detenção , mantidos os demais termos da condenação.
+Intimem-se.
+EMENTA
