@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fl. 179):
+PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CRÉDITO RURAL. SATISFAÇÃO DA OBRIGAÇÃO. EXTINÇÃO DO FEITO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. GRATUIDADE PROCESSUAL. DEFERIMENTO.
+1. Apelação interposta pelo Particular em face da sentença que, em sede de Exceção de Pré-Executividade, julgou extinta a execução, com fulcro no art. 924, II, do CPC. Houve condenação da parte executada ao pagamento de honorários advocatícios, fixados em 9% (nove por cento) sobre o valor da causa, nos termos do art. 85, § 3º, I, do CPC, bem como das custas processuais.
+2. Nas razões recursais, o Apelante pediu que fosse afastada a sua condenação do pagamento de honorários advocatícios, ao argumento de que, em se tratando de renegociação/liquidação de dívidas oriundas de cédula de crédito rural, inclusive para aquelas já ajuizadas, caberia a cada uma das partes arcar com os honorários de seu advogado, nos termos do art. 8º-A, § 5º, da Lei nº 11.775/08. Requereu, ainda, o benefício da justiça gratuita, bem como a isenção ao pagamento das custas processuais.
+3. No caso, verifica-se que a parte Executada, no curso da execução, informou o pagamento total do débito em discussão, tendo a Exequente se manifestado expressamente pela extinção do feito.
+4. Nos termos do que dispõe o art. 8º-A, § 5º, da Lei 11.775/08, com a redação dada pela Lei nº 13.001/2014, em caso de renegociação para as dívidas originárias de operações de crédito rural, caberá a cada parte arcar com os honorários de seu advogado, fixados na ação de execução ou de embargos à execução.
+5. Assim, considerando a disposição prevista no art. 8º-A, § 5º, do comando legal supracitado, deve ser afastada a condenação do Apelante ao pagamento de honorários advocatícios.
+6. É pacífica a jurisprudência do colendo STJ no sentido de que, "Nos termos do art. 99, § 3º, do CPC/2015, não havendo indícios de ausência dos pressupostos legais para a concessão da gratuidade, presume-se verdadeira a alegação de hipossuficiência deduzida exclusivamente por pessoa natural." (STJ - EDcl no AgInt no AREsp 1.305.066/PR, Rel. Ministro Ricardo Villas Bôas, julg. em 23/05/2019).
+7. O pedido de justiça gratuita foi formulado por pessoa física, devendo-lhe ser deferido em face da presunção de veracidade da declaração de insuficiência de recursos.
+8. Quanto ao pedido de isenção do pagamento das custas processuais, estabelece a parte final do § 5º do art. 8º-A da Lei nº 11.775/2008, que caberá ao devedor o pagamento das demais despesas processuais. No entanto, como foi concedido ao Apelante o benefício da justiça gratuita, deverá permanecer suspensa a exigibilidade das referidas despesas até que se comprove que a parte perdeu a situação jurídica de beneficiária da gratuidade da justiça, de acordo com o disposto no art. 98, § 3º do CPC.
+9. Apelação parcialmente provida, para afastar a condenação em honorários advocatícios, e conceder o benefício da justiça gratuita, permanecendo, no entanto, suspensa a exigibilidade das demais despesas processuais até que se comprove que a parte perdeu a situação jurídica de beneficiária da gratuidade da justiça, nos termos do art. 98, § 3º, do CPC.
+Os embargos de declaração opostos foram rejeitados (fls. 209/211).
+Nas razões de seu recurso, a parte recorrente sustenta a existência de violação aos dispositivos a seguir indicados pelas razões ora declinadas:
+i) Art. 1.022 do Código de Processo Civil: o acórdão foi omisso ao não considerar que o art. 8º-A, § 5º, da Lei 11.775/2008 incide apenas em relação aos débitos não inscritos em Dívida Ativa da União, e o caso dos autos versa sobre débito inscrito em Dívida Ativa da União.
+ii) Arts. 85, § 10, do Código de Processo Civil e 8º-A, § 5º, da Lei 11.775/2008: deve haver condenação em honorários advocatícios, porquanto "no presente caso, revela-se indene de dúvida o fato de que quem deu causa à propositura da ação foi o particular, em razão de configurar-se devedor da União, cuja higidez do citado débito não se discute, até mesmo porque a extinção sem julgamento do presente feito se deu em razão de renegociação da dívida, que se viu adotada em razão da implantação, por parte da União, de medidas de estímulos à liquidação ou regularização de dívidas originárias de operações de crédito rural e de crédito fundiário" (fls. 219/220).
+A parte adversa não apresentou contrarrazões (fl. 226).
+O recurso foi admitido na origem (fl. 227).
+É o relatório.
+Verifico que inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido.
+O Tribunal a quo examinou, expressamente, a redação do art. 8º-A, § 5º, da Lei 11.775/2008, concluindo pela impossibilidade de condenação da parte em honorários advocatícios. In verbis:
+No caso, verifica-se que a parte executada, no curso da execução, informou o pagamento total do débito em discussão, tendo a Exequente se manifestado expressamente pela extinção do feito.
+Nos termos do que dispõe o art. 8º-A, § 5º, da Lei N. 11.775/08, com a redação dada pela Lei n. 13.001/2014, em caso de renegociação para as dívidas originárias de operações de crédito rural, caberá a cada parte arcar com os honorários de seu advogado, fixados na ação de execução ou de embargos à execução.
+ ..
+Assim, considerando a disposição prevista no art. 8º-A, § 5º, da Lei nº 11.775/2008, deve ser afastada a condenação do Apelante ao pagamento de honorários advocatícios (fls. 184/185).
+Assim, o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+De outra parte, quanto ao mérito, esta Corte Superior possui jurisprudência segundo a qual, na hipótese de quitação de dívida com base na Lei 11.775/2008, não é cabível a condenação do executado em honorários advocatícios sucumbenciais.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. ENCARGO LEGAL. EXCLUSÃO. ART. 8º, § 10, DA LEI N. 11.775/2008. DISPENSA DO PAGAMENTO DE HONORÁRIOS.
+1. Quitado o débito na forma da Lei n. 11.775/2008, descabe a condenação do executado em honorários advocatícios de sucumbência.
+Afinal, o objetivo da norma é fomentar a liquidação ou a renegociação das dívidas rurais inscritas em dívida ativa da União.
+Precedentes da Segunda Turma.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.823.178/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/9/2020, DJe de 23/9/2020.)
+PROCESSUAL CIVIL. CÉDULA DE CRÉDITO RURAL. QUITAÇÃO INTEGRAL DO CRÉDITO FISCAL EXECUTADO. APLICAÇÃO DO ART. 8º DA LEI N. 11.775/2008. EXCLUSÃO DO ENCARGO LEGAL DO DECRETO-LEI N. 1.025/1969. DISPENSA DO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 284/STF.
+I - Impõe-se o afastamento da violação aos arts. 489 e 1.022, do CPC/2015, quando a alegada omissão foi apresentada de forma genérica, sem especificar a aludida mácula, o que inviabiliza a exata compreensão da controvérsia. Incidência da súmula 284/STF.
+II - Com a informação de quitação do débito oriundo de cédula de crédito rural, foi extinta a execução fiscal e negado o pedido de condenação do executado ao pagamento de honorários advocatícios.
+III - Havendo dívida quitada na forma da Lei n. 11.775/2008, descabe a condenação do executado em honorários advocatícios sucumbenciais. Tal entendimento, vai ao encontro do propósito da Lei n. 11.775/2008, que é de fomentar a liquidação ou renegociação das dívidas rurais inscritas em dívida ativa da União. Precedentes: REsp 1.767.601/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23/4/2019 e REsp 1.772.092/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 4/12/2018, DJe 29/5/2019. No mesmo sentido, as seguintes decisões monocráticas: REsp 1.801.150/RS, Rel. Min. Assusete Magalhães, DJ de 4/6/2019; REsp 1.772.989/RS, Rel. Min. Francisco Falcão, DJ de 3/6/2019; REsp 1.813.048/RS, Rel. Min. Regina Helena Costa, DJ de 29/5/2019; AgREsp 1.439.570/RS, Rel. Min. Sérgio Kukina, DJ 19/3/2019.
+IV - Recurso especial parcialmente conhecido e nessa parte improvido.
+(REsp n. 1.781.400/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 5/9/2019, DJe de 16/9/2019.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
