@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+AGRAVO EM EXECUÇÃO. RECURSO DEFENSIVO. CONVERSÃO DE PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DELIBERDADE. DECISÃO MANTIDA.
+Ressalvado o entendimento pessoal de que é possível acolher a tese da interpretação mais benéfica ao apenado que, condenado à pena restritiva de direitos, assim deve cumpri-la, diante da posição majoritária deste Tribunal e do STJ, negada possibilidade de manutenção da pena restritiva de direitos, impondo a conversão da pena restritiva de direitos em privativa de liberdade.
+AGRAVO DESPROVIDO.
+Paciente foi condenado à pena de 1 ano e 8 meses de reclusão, substituída por duas restritivas de direitos, pela prática do crime de tráfico de drogas. Porém, antes de iniciar o cumprimento das restritivas de direitos, sobreveio nova condenação, à pena de 2 anos e 6 meses de reclusão, também substituída por restritiva de direitos.
+Diante desta situação, o Magistrado de primeira instância determinou que, pela somatória das penas privativas de liberdade ultrapassar quatro anos, as restritivas de direito deveriam ser convertidas em privativas de liberdade.
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois teve sua pena convertida em privativa de liberdade fora das hipóteses legais e em desacordo com o entendimento jurisprudencial.
+Ao final, requer a concessão da ordem para que as condenações por penas restritivas de direitos sejam reestabelecidas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, vislumbro a presença de flagrante ilegalidade.
+O art. 44, §5º do Código Penal estabelece que "sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior".
+Interpretando mencionado dispositivo, a 3ª Seção desta col. Corte firmou o tema repetitivo nº 1106, com a seguinte tese: "Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente".
+Da interpretação do dispositivo legal e da tese firmada, pode-se concluir que nas situações em que há condenação de pena privativa de liberdade substituída por restritiva de direitos e, posteriormente, surge nova condenação também substituída, não é permitido ao Magistrado unificar as penas privativas substituídas e fazer uma nova análise sobre a possibilidade de substituição.
+Ressalte-se que se a lei diz que a superveniência de condenação por pena privativa de liberdade não implicará em automática reconversão da condenação anterior de restritiva para privativa, salvo impossibilidade de cumprimento, com maior razão não será possível tal reconversão quando a condenação superveniente for por restritiva de direitos.
+Ademais, de acordo com o art. 59, inc. IV, do CP, a decisão sobre a substituição da pena privativa de liberdade por restritiva de direitos é parte da fixação da pena, que deve ser feita pelo juízo da fase de conhecimento. O juízo da execução não pode unificar as penas privativas já substituídas pelos juízos de conhecimento e fazer uma nova análise sobre a substituição ou não.
+No caso, foi exatamente o que fez o Magistrado da execução, pois sem que existisse qualquer razão disposta no art. 181 da LEP para converter a restritiva de direitos em privativa de liberdade, simplesmente somou as penas privativas de liberdade já substituídas pelos juízes de conhecimento e fez novo juízo sobre a substituição, concluindo pela impossibilidade.
+Importante destacar que o Magistrado de proferiu a segunda sentença condenatória já tinha conhecimento da primeira condenação e mesmo assim substituiu a pena privativa por restritiva, de modo que o juízo da execução acabou usurpando a competência e reformando decisão já transitada em julgado do juízo da execução.
+Ao assim agir, o Magistrado impôs constrangimento ilegal ao paciente, que viu suas penas restritivas de direito reconvertidas em privativa de liberdade sem qualquer amparo legal.
+Ante o exposto, não conheço do habeas corpus substitutivo, mas concedo a ordem de ofício para manter as duas condenações por restritivas de direitos ao paciente.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal e ao juízo de origem.
+Ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
