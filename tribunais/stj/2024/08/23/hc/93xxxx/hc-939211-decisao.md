@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MARCOS PAULO FERREIRA LUSTOSA, apontando-se como autoridade coatora o Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu o pedido liminar nos autos do HC n. 2247792-92.2024.8.26.0000.
+Verifica-se dos autos que o Juízo de Direito da 1ª Vara da comarca de Várzea Paulista/SP, no Processo n. 0004736-32.2006.8.26.0655, determinou a realização de plenário do júri por videoconferência.
+A defesa, com a alegação de ofensa aos princípios da ampla defesa e do contraditório, ajuizou o prévio writ no Tribunal estadual. Diante da negativa, pelo Relator, do requerimento urgente para que a decisão seja totalmente reformada, sobreveio o presente feito.
+Aduz, em suma, que a data da sessão está próxima (18/9/2024) e que a justificativa apresentada para não apresentação do paciente de forma presencial ao Plenário do Júri carece de idoneidade.
+Requer a concessão de medida liminar para cassar a decisão do Juiz processante, permitindo, assim, que o paciente compareça de forma física ao dia do julgamento já marcado ou para redesignar a data do Júri, até o julgamento do mérito do presente writ.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Ora, o Desembargador Relator, para negar o pedido liminar, levou em conta as peculiaridades do caso, destacando que o Magistrado de piso ressaltou que o paciente ostenta condenação de 115 anos, 1 mês e 5 dias de reclusão em regime fechado, além disso, está custodiado em penitenciária de segurança máxima e alta contenção, distante mais de 600 km daquela comarca, destinada à custódia de líderes e integrantes de organizações criminosas e com perfil de alta periculosidade. Diante disso, "sua remoção e apresentação em Juízo constitui medida de extrema dificuldade" (fl. 11).
+Além disso, S. Exa. dispensou o pedido de informações e encaminhou, de pronto, o writ à Procuradoria-Geral de Justiça para a elaboração de parecer, o que imprimirá maior celeridade na análise do mérito da impetração.
+Antes de o tema de fundo ser enfrentado pelo Tribunal a quo, não se admite a pretendida supressão de instância. Até porque não vislumbro situação excepcional, flagrante ilegalidade ou abuso de poder. Afinal, em conjuntura assemelhada, já decidiu o Superior Tribunal de Justiça que " a  periculosidade do réu, somada à dificuldade enfrentada na remoção e apresentação dos presos em juízo, constitui motivação suficiente e idônea para realização do interrogatório do réu, no plenário Júri, por meio do sistema de videoconferência, assegurado o exercício da ampla defesa através de entrevista prévia com o seu defensor" (RHC n. 83.318/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/8/2017) - (AgRg no HC n. 822.130/MT, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/6/2023 - grifo nosso).
+Com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+De ofício, expeça-se recomendação ao Desembargador Relator do HC n. 2247792-92.2024.8.26.0000 para que submeta o feito ao colegiado com a maior brevidade possível.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF. INEVIDÊNCIA DE SITUAÇÃO EXCEPCIONAL, FLAGRANTE ILEGALIDADE OU ABUSO DE PODER.
+Writ indeferido liminarmente.
