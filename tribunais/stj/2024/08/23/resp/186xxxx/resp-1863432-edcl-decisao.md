@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Maria José Alves da Silva e outro (fls. 637-643 e-STJ), em face de decisão singular de minha Relatoria de fls. 626-629 e-STJ, em que dei provimento ao recurso especial da parte embargada para afastar os lucros cessantes à hipótese.
+Em razões de embargos de declaração (fls. 637-643 e-STJ), a parte embargante alega que a decisão singular foi omissa em relação às contrarrazões interpostas às fls. 477-519 e-STJ pela parte embargante. Argumenta que estas não foram consideradas, pois apenas apresentou a peça em período posterior, devido ao nascimento de seu filho, e fazia jus à suspensão dos prazos.
+Argumenta que "a suspensão do processo ocorre de forma imediata, independente de notificação ao juízo" (fl. 640 e-STJ). Afirma que "os argumentos expostos nas contrarrazões sequer foram analisados e poderiam modificar o entendimento da decisão embargada" (fl. 642 e-STJ).
+A parte embargada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidão de fl. 651 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Isso, porque, mesmo que se considerasse a suspensão requerida - em razão do nascimento do filho da parte embargante -, e, assim, as suas contrarrazões de fls. 477-519 e-STJ, ainda assim não poderia considerar a decisão singular omissa, tal como alega.
+Isso, porque suas razões não modificariam o resultado do julgamento, tendo em vista que é matéria pacífica e julgada recentemente por esta Corte de que, se o credor opta pela resolução do contrato de compra e venda, o retorno das partes ao estado anterior (arts. 475 c/c 182, ambos do Código Civil) inviabiliza o pedido de lucros cessantes presumidos.
+Conforme bem fundamentado em sede de decisão singular de minha Relatoria:
+"(..) Nesta hipótese, decretada a resolução do contrato, com a restituição das parcelas pagas pelo comprador, o retorno das partes ao estado anterior (arts. 475 c/c 182, ambos do Código Civil) implica a restituição da quantia paga devidamente corrigida e acrescida dos juros legais (Súmula 543 do STJ), abarcando também o interesse contratual negativo, o qual deve ser comprovado.
+Por isso, firmou-se o entendimento de que os lucros cessantes, no caso do interesse contratual negativo, não são presumidos, devendo ser cabalmente alegados e demonstrados, o que, contudo, não foi o caso em questão. (..)
+Na hipótese dos autos, o autor-recorrido escolheu a rescisão do contrato, o que implica que nunca terá o bem em seu patrimônio, de forma que, nos termos do entendimento firmado acima por esta Corte, sua pretensão resolutória seria incompatível com o postulado ganho relacionado à renda mensal que seria gerada pelo imóvel.
+Na hipótese dos autos, contudo, o Tribunal de origem entendeu que os lucros cessantes presumidos seriam devidos, diante da impossibilidade do promitente comprador de usufruir do seu imóvel, a despeito do pedido resolutório realizado. Conforme trechos do acórdão recorrido: (..)
+Dessa forma, por estar o acórdão recorrido em desconformidade com a jurisprudência desta Corte e com a legislação pátria a respeito, deve o acórdão recorrido ser reformado para afastar os lucros cessantes presumidos à hipótese" (fls. 627-629 e-STJ).
+Por isso, não houve omissão ou irregularidade alguma da decisão Embargada, posto que os pontos foram efetivamente esclarecidos, diferentemente do alegado pela parte embargante.
+Ressalto ainda, que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel, Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJ e 28.8.2014.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
