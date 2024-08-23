@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Rosana Charnoski, em que se aponta como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul que denegou o Habeas Corpus criminal n. 5165999-70.2024.8.21.7000, mantendo a prisão preventiva da paciente, imposta pelo Juízo da 2ª Vara Criminal da Comarca de Montenegro/RS, pela suposta prática do crime de tráfico de drogas.
+Nesse writ, sustenta a ausência dos requisitos legais a justificar a medida preventiva; a ausência de periculosidade e de indícios concretos do perigo decorrente do estado de liberdade.
+Discorre sobre a possibilidade de substituição da preventiva pela domiciliar, por ser a paciente mãe de menor de doze anos e única responsável pela criança.
+Requer, assim, a concessão liminar da ordem, para revogar a prisão preventiva, com a expedição do respectivo alvará de soltura; subsidiariamente, a substituição por outras medidas cautelares ou a domiciliar.
+É o relatório.
+Do decreto prisional, pode-se extrair (fl. 18):
+ ..
+As circunstâncias do fato, com a apreensão de extremamente elevada quantidade de droga de alto poder lesivo e econômico, transportada no veículo da própria custodiada para Estado diverso da Federação, são elementos que evidenciam a gravidade concreta da(s) conduta(s), a atuação relevante na cadeia do tráfico e a elevada probabilidade de o(s) preso(s) continuar(em) suas empreitadas criminosas caso posto(s) em liberdade.
+Não se sabe, ademais, de forma satisfatória, a qualificação das condições pessoais da custodiada, sobretudo diante do fato de ser oriunda do Estado do Paraná, ao passo que a certidão anexa aos autos é relacionada apenas ao Estado do Rio Grande do Sul.
+Assim, resta evidente a necessidade da prisão preventiva para salvaguardar a ordem pública.
+No presente caso, conforme se extrai do acima referido, não se mostra adequada a aplicação de qualquer medida cautelar diversa da prisão, porquanto se mostrariam insuficientes para salvaguardar a ordem pública.
+No julgamento do habeas corpus, o Tribunal de Justiça pontuou (fls. 43/44):
+ ..
+Nesse cenário, entendo que, por ora, estão presentes os indícios de autoria, a gravidade concreta do delito e a periculosidade da paciente, tendo em vista (i.) a expressiva quantidade de droga que transportava;(ii.) envolvia, em tese, o tráfico interestadual, pois supostamente saiu do Estado do Paraná com destino ao Município de Porto Alegre/RS. Logo, há fundamentos suficientes para a decretação da prisão preventiva da paciente com base na garantia da ordem pública.
+ ..
+Quanto às medidas cautelares diversas da prisão do art. 319 do CPP, julgo por inviáveis, dada a constatação da periculosidade da paciente (não se olvide que foi presa com expressiva quantidade de droga, transportando-a, em tese, entre Estados da Federação) e a ausência de elementos novos posteriores ao decidido pelo juízo de primeiro grau capazes de alterar o entendimento já adotado pela autoridade indigitada como coatora. Por fim, na hipótese, a impetrante sustenta como fundamento para a conversão da prisão preventiva da paciente em prisão domiciliar o fato de a paciente ser genitora de menor de doze anos. Todavia, o documento que instrui este remédio constitucional indica que a menor possui quinze anos de idade (nascida em 23.07.2008, evento 1, OUT2), de modo que não caracterizada a hipótese do artigo 318,V, do CPP.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Verifico, in casu, que a manutenção da prisão preventiva está devidamente justificada pela necessidade de garantir a ordem pública. Tal necessidade é evidenciada pelas circunstâncias do flagrante - transporte interestadual - e pela significativa quantidade de drogas apreendidas - 47 tabletes de cocaína, com peso aproximado de 50kg - (fl. 34 - grifo nosso).
+Acerca da possibilidade de se manter a prisão com fundamento na quantidade de entorpecentes, os seguintes precedentes: EDcl no HC n. 832.040/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 8/8/2024; AgRg no RHC n. 193.648/MS, Ministra Daniela Teixeira, Quinta Turma, DJe 9/8/2024.
+Quanto ao pedido de substituição da prisão preventiva pela domiciliar, o pleito não merece acolhimento. O documento que instrui o presente writ indica que a menor possui dezesseis anos de idade (nascida em 23/7/2008, conforme fl. 21), o que afasta a incidência da hipótese prevista no artigo 318, V, do Código de Processo Penal.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. 50 KG DE COCAÍNA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Petição inicial indeferida liminarmente.
