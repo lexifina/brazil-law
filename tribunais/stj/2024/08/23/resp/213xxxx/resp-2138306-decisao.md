@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 528):
+APELAÇÃO - Seguro Saúde - Ação de Obrigação de Fazer - Pretensão de compelir a ré a custear insumos necessários para o tratamento de diabetes mellitus - Sentença de improcedência - Inconformismo da autora, alegando, basicamente, que necessita da bomba de insulina e insumos para o tratamento da diabetes mellitus - Cabimento - Prescrição médica - Súmula 608 do STJ - Aplicação do Código de Defesa do Consumidor - Recusa abusiva - Compete somente ao médico indicar o tratamento mais adequado ao paciente - Aplicação da Súmula 102 do Tribunal de Justiça de São Paulo - Recurso provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 1.022, II, do Código de Processo Civil; do art. 10, VI, da Lei n. 9.656/1998; bem como divergência jurisprudencial.
+Sustenta que o acórdão teria incorrido em omissão, mesmo após análise dos embargos de declaração, por não se manifestar quanto ao argumento de não haver obrigatoriedade de as operadoras de plano de saúde fornecerem medicamentos para tratamento domiciliar, salvo nas hipóteses de home care ou de terapia antineoplásica.
+Alega que a decisão do Tribunal de origem contrariou as limitações contratuais e a jurisprudência do STJ, ao determinar que fosse fornecida bomba de insulina de uso domiciliar.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No presente caso, o Tribunal de origem, ao reexaminar a questão tratada nos autos, assim se manifestou (fls. 529-534):
+Tendo as partes, portanto, firmado contrato soba égide do Código de Defesa do Consumidor, que por seu artigo 47 determina a interpretação de suas cláusulas de forma mais favorável ao consumidor, não poderia a ré negar à autora, portadora de diabetes mellitus o fornecimento dos insumos necessários ao tratamento da moléstia como a bomba de insulina com sensor de glicose prescrita pelo médico que a assiste, sob o argumento de expressa exclusão contratual do tratamento diante da ausência de previsão no rol da ANS.
+Portanto, respeitado o entendimento esposado pelo MM. Juiz monocrático, o Código de Defesa do Consumidor atua em favor da autora, visto que a interpretação de cláusulas contratuais favoráveis ao consumidor está prevista em seu artigo 47, sendo certo, por outro lado, que a negativa em testilha configura a hipótese prevista em seu artigo 51, inciso IV, eis que incompatível com a natureza do contrato.
+Ora, cabe ao médico competente, e somente a ele, que já acompanha o paciente e tem conhecimento da moléstia a ser tratada, solicitar e ter disponibilizado todo o material e medicamentos necessários para a realização do tratamento adequado.
+Por isso, a ré ao manifestar a negativa já epigrafada, impôs ao beneficiário um ônus excessivo que determinou flagrante e ilegal desequilíbrio contratual, vedado pelas normas de proteção do Código de Defesa do Consumidor e pelo princípio da boa-fé objetiva.
+ ..
+Pelo exposto, dou provimento ao recurso para julgar procedente a ação para compelir a ré a autorizar a custear os insumos necessários ao tratamento indicado à autora, conforme prescrição médica de fls. 21/22, no prazo de 5 (cinco) dias, sob pena de multa diária de R$ 1.000,00 (mil reais), limitada a R$ 30.000,00 (trinta mil reais), condenando a ré ao pagamento das custas, despesas processuais e honorários advocatícios que ora fixo em 15% (quinze por cento) sobre o valor da causa.
+Verifica-se que o Tribunal estadual decidiu de forma contrária ao entendimento deste Superior Tribunal de Justiça, conforme se depreende destes julgados:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MEDICAMENTO DE USO DOMICILIAR. CUSTEIO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA.
+1. Para a jurisprudência do STJ, inexiste abuso na cláusula contratual que desonere os planos de saúde do custeio de medicamentos de uso domiciliar, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS). Precedentes.
+1.1. A Corte de apelação condenou a agravada ao custeio do medicamento de uso domiciliar descrito na inicial, o que afronta a jurisprudência pacífica desta Corte Superior, não estando o caso concreto inserido nas exceções também previstas na jurisprudência. Por isso, de rigor excluir tal cobertura.
+2. Agravo interno que se nega provimento.
+(AgInt no REsp n. 2.107.094/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.)
+AGRAVO INTERNO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. INSUMOS PARA BOMBA INFUSORA DE INSULINA. TRATAMENT O DOMICILIAR. EXCLUSÃO DO PLANO DE REFERÊNCIA. ART. 10, INCISO VI, DA LEI N. 9.656/1998. INOBRIGATORIEDADE DE COBERTURA. JULGADOS DE AMBAS AS TURMAS DE DIREITO PRIVADO DESTA CORTE SUPERIOR. SUPERVENIÊNCIA DA LEI N. 14.454/2022. ALEGAÇÃO DE ROL EXEMPLIFICATIVO. AUSÊNCIA DE ALTERAÇÃO DO ART. 10, INCISO VI, DA LEI N. 9.656/1998. MANUTENÇÃO DA EXCLUSÃO DE COBERTURA.
+1. Controvérsia pertinente à obrigatoriedade de cobertura de bomba infusora de insulina (e insumos) para o controle de glicemia de paciente diagnosticado com diabetes mellitus tipo 1 em ambiente domiciliar.
+2. Ausência de obrigatoriedade de cobertura de tratamento domiciliar, salvo nas hipóteses de "home care" ou de terapia antineoplásica. Exegese do art. 10, inciso VI, da Lei n. 9.656/1998, consoante julgados recentes desta Corte Superior.
+3. Julgado específico desta TURMA acerca da ausência de obrigatoriedade de cobertura de bomba de insulina, por se tratar de equipamento de uso domiciliar.
+4. Ausência de alteração da força normativa do já citado art. 10, inciso VI, da Lei n. 9.656/1998 ante a superveniência da Lei n. 14.454/2022, de modo que a tese do rol exemplificativo não infirma a conclusão pela ausência de obrigatoriedade de cobertura da bomba de insulina.
+Agravo interno improvido.
+(AgInt no REsp n. 1.890.572/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Conclui-se que esta Corte Superior possui entendimento consolidado de que a cobertura de tratamento por meio de bomba de infusão contínua de insulina não é obrigatória, por configurar mero medicamento de uso domiciliar, que pode ser adquirido em farmácias e autoadministrado.
+Com efeito, consoante disposição contida no artigo 10, VI, da Lei nº 9.656/98, o plano-referência não é obrigado a custear o "fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas ""c"" do inciso I e ""g"" do inciso II do art. 12", que versam sobre medicamentos antineoplásicos, ou tratamento em home care.
+Em face do exposto, dou provimento ao recurso especial e julgo improcedentes os pedidos contidos na inicial.
+Responderá a parte autora pelo pagamento das custas processuais e honorários advocatícios, os quais fixo em 10% sobre o valor atualizado da causa, nos moldes do previsto pelo artigo 85, § 2º, I a IV, do Código de Processo Civil.
+Intimem-se.
+EMENTA
