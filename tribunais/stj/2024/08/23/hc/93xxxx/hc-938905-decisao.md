@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GILSON RENATO DREYER apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em Execução n. 8000756-33.2024.8.24.0018).
+Depreende-se dos autos que o paciente teve o pedido de remição de pena por aprovação no ENEM indeferido pelo Juízo da execução (e-STJ fls. 10/12).
+Interposto agravo em execução, o Tribunal a quo negou provimento ao recurso nos termos do acórdão assim ementado (e-STJ fls. 52):
+AGRAVO EM EXECUÇÃO PENAL - REMIÇÃO POR ESTUDO - INDEFERIMENTO NA ORIGEM - RECURSO DEFENSIVO. APENADO QUE JÁ FOI AGRACIADO COM A BENESSE DA REMIÇÃO DA PENA PELA APROVAÇÃO INTEGRAL NO ENSINO MÉDIO ATRAVÉS DO ENCCEJA - PRETENDIDA REMIÇÃO PELA APROVAÇÃO NO ENEM - IMPOSSIBILIDADE - BENEFÍCIO JÁ COMPUTADO ANTERIORMENTE - DECISÃO MANTIDA. Uma vez concedida a remição em razão da aprovação no ensino médio através do Exame Nacional de Certificação de Competências de Jovens e Adultos (ENCCEJA), inviável a concessão de nova remição pela aprovação posterior no Exame Nacional do Ensino Médio (ENEM).
+RECURSO DESPROVIDO.
+Daí o presente writ, no qual alega a defesa que "o fato de já ter sido beneficiado com a remição pela aprovação no ENCCEJA 2022 e 2023, não impede o novo deferimento da remição de pena por estudo e por aprovação no ENEM. Afinal, o Paciente efetivamente estudou novamente e, consequentemente, cumpriu o requisito legal para tanto (e-STJ fl. 5).
+Requer, assim, seja declarada a remição de 133 dias da pena pela aprovação no ENEM 2023.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, em situações como a dos autos, haveria "mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual" (AgRg no HC n. 592.511/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 8/9/2020, DJe 15/9/2020).
+No caso, veja o que disse o Magistrado de primeiro grau ao indeferir o pleito defensivo (e-STJ fl. 10):
+Ao analisar detidamente o caderno processual, vejo que o reeducando já realizou prova para demonstrar sua aprovação no ensino médio. Inclusive, recebeu remição por isso.
+Refiro-me ao ENCCEJA do Ensino Médio prestado no ano de 2018, cuja homologação foi realizada, inclusive, na decisão proferida no Mov. 300.
+A aprovação atual é condizente com o mesmo grau de estudo já apreciado, de modo que sua conversão em remição acarretará um duplo cômputo decorrente do mesmo fato gerador.
+Desse modo, o entendimento firmado pelas instâncias ordinárias está em consonância com a jurisprudência desta Corte Superior, não merecendo reparo. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. APROVAÇÃO PARCIAL NO ENEM E NO ENCCEJA. MESMAS ÁREAS DO CONHECIMENTO. DUPLICADE DE BENEFÍCIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, uma vez que a remição de pena, em razão de aprovação do paciente no exame ENCCEJA, configuraria bis in idem de remição na mesma execução penal, tendo em vista que já fora agraciado em razão de sua aprovação, em 2015, no Exame Nacional do Ensino Médio (ENEM) (AgRg no HC n. 627.958/SC, relator Ministro Jesuíno Rissato (Desembargador Conv ocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021). Ainda que se trate de exames distintos, as provas se referem à certificação de conclusão pelo mesmo nível (médio) educacional, inviabilizando a concessão do benefício em apreço pelo mesmo fato gerador, pois configurada a sua duplicidade.
+3. Agravo regimental desprovido. (AgRg no HC n. 842.165/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL. EXECUÇÃO. REMIÇÃO DE PENA. APROVAÇÃO NO ENCCEJA - NÍVEL MÉDIO - E APROVAÇÃO PARCIAL DO ENEM. DUPLA CONCESSÃO PELO MESMO FATO GERADOR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROV IMENTO.
+1. O paciente teve remida sua pena devido a certificação no ENCCEJA em atividade educacional do Ensino Médio, não podendo ser beneficiado agora devido à aprovação parcial no ENEM.
+2. Ora, a jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, em situações como a dos autos, haveria "mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual" (AgRg no HC n. 592.511/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 8/9/2020, DJe 15/9/2020).
+3. Agravo regimental a que se nega provimento. (AgRg nos EDcl no HC n. 763.585/SP, de minha relatoria, unânime, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
