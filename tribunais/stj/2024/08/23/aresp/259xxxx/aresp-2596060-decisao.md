@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por ISAC DE OLIVEIRA SILVA e CRISTIANE PEREIRA DE OLIVEIRA contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, a qual inadmitiu o recurso especial por incidência das Súmulas 7/STJ e 284/STF (fls.596-599).
+Em suas razões, a parte agravante sustenta que não incide o óbice das referidas Súmulas, ao argumento de que o que se pretende é a revaloração dos critérios jurídicos adotados (fl. 606) e que fora demonstrado corretamente e aduzidos os fundamentos do inconformismo, inclusive com explicitação dos dispositivos legais vulnerados (fl.606), não se aplicando a Súmula 284/STF.
+Reprisa, ainda, os argumentos de mérito em relativamente à pleiteada redução proporcional da pena de multa.
+Requer o provimento do agravo para que seja admitido e provido o recurso especial.
+Parecer do Ministério Público Federal pelo desprovimento do agravo (fls. 640-643).
+É o relatório.
+DECIDO.
+O cotejo entre a decisão de inadmissibilidade e as razões do presente agravo revela a ausência de impugnação específica de todos os fundamentos adotados para inadmissão do recurso especial, qual seja, as Súmulas 7/STJ e . 284/STF.
+Com efeito, a parte limitou-se a afirmar, genericamente, que, ao contrário do exarado na decisão agravada, a matéria discutida no recurso especial é exclusivamente de direito, dispensando exame do material fático-probatório e que fora demonstrado corretamente os fundamentos do inconformismo com explicitação dos dispositivos vulnerados, não se aplicando o enunciado da Súmula 284/STF (fl. 606).
+Sobre o tema, a Corte Especial do Superior Tribunal de Justiça pacificou orientação de que a
+falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Cito, nesse sentido, os seguintes acórdãos:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. APELO NOBRE. PLEITO ABSOLUTÓRIO. NÃO CONHECIMENTO. SÚMULA N. 7 DESTA CORTE SUPERIOR. RECURSO INTERNO. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O art. 932, inciso III, do Código de Processo Civil, positivou o princípio da dialeticidade recursal, sendo aplicável por força do art. 3.º do Código de Processo Penal. Assim cabe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando concretamente todos os fundamentos nela lançados para obstar sua pretensão.
+2. Nas razões do agravo regimental, o Agravante sustentou, genericamente, que o exame do apelo nobre não exigiria reexame probatório, devendo ser afastada a aplicação da Súmula n. 7 desta Corte Superior. Porém , não demonstrou, concretamente, como, a partir dos fatos incontroversos constantes do acórdão proferido na apelação, sem a necessidade de amplo reexame das provas que compõem o caderno processual, seria possível analisar a tese de que não estaria comprovada a prática do crime de tráfico de drogas.
+Aplicação da Súmula n. 182 do Superior Tribunal de Justiça.
+3. Nos termos da jurisprudência desta Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (Ag Rg no AREsp 1.750.146/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021).
+4. Agravo regimental não conhecido (AgRg no AREsp n. 2.145.683/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023 - grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182 DO STJ. ÓBICE DAS SÚMULAS N. 7 DO STJ E 284 DO STF NÃO INFIRMADOS PELO AGRAVANTE. DECISÃO MANTIDA.
+(..)
+2. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015;
+art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+3. Para impugnar a incidência da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Agravo regimental improvido (AgRg no AREsp n. 2.204.049/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024 -grifamos).
+Inicialmente, com atinência à refutação do verbete sumular de número 7 desta Corte Superior, o agravante deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+Como se sabe,
+são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (AgRg no AREsp 2176543/SC. Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe de 29/9/2023), o que não se verifica na hipótese.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍF ICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MONOCRÁTICA MANTIDA.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe, conforme ressaltado na decisão monocrática recorrida, o não conhecimento do agravo em recurso especial.
+2. No caso dos autos, a parte agravante deixou de infirmar, de maneira adequada e específica, as razões apresentadas pelo Tribunal de origem para inadmitir o recurso especial, especificamente com relação à incidência da Súmula n. 7/STJ.
+3. Nos termos da jurisprudência desta eg. Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 2.121.358/ES, relator Ministro João Otávio de Noronha, julgado em 27/09/2022, DJe de 30/09/2022.).
+4. Agravo regimental desprovido. (AgRg no AREsp 2422499/SP. Rel. Ministra Daniela Teixeira, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024 - grifamos)
+Ademais, o entendimento deste Superior Tribunal de Justiça é no sentido de que
+para rebater a incidência da Súmula n. 284 do STF, quando aplicada por ausência de indicação de artigo supostamente violado, como na espécie, é necessário que o agravante demonstre que apontou, nas razões do especial, o dispositivo legal com força normativa capaz de alterar o aresto atacado (AgRg no AREsp n. 2.512.162/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/4/2024, DJe de 15/4/2024, grifamos).
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
