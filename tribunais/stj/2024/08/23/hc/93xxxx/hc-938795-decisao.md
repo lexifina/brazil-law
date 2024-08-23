@@ -1,0 +1,27 @@
+DECISÃO
+MICHAEL ALEXANDRE ALVES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0002962-82.2024.8.26.0154.
+A defesa busca a concessão de indulto ao paciente, com fulcro no Decreto Presidencial n. 11.846/2023, em relação à pena imposta pela prática do delito tipificado no art. 16 da Lei n. 10.826/2003, por reputar preenchidos os requisitos exigidos para tal fim.
+Decido.
+O habeas corpus comporta avanço para a pronta solução, com amparo na jurisprudência desta Corte, pois, "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019).
+Ademais, "o implemento dos requisitos exigidos no decreto presidencial que concede o indulto deve ser apreciado de acordo com o momento da publicação do normativo" (AgRg no HC n. 441.551/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 25/9/2018, DJe de 9/10/2018).
+No caso, a leitura combinada dos artigos 2º e 9º, ambos do Decreto Presidencial revela a necessidade de unificação das penas para se aferir a observância aos limites temporais do indulto.
+Na hipótese, o sentenciado foi condenado ao total de 19 anos e 4 dias pela prática de homicídio qualificado e porte ilegal de arma de fogo de uso restrito.
+O perdão das penas não se aplica ao homicídio qualificado, pois o Decreto n. 11.846/2023, em seu art. 1º, afirma expressamente que o indulto e a comutação não alcançam os condenados "por crime hediondo ou equiparado, nos termos do disposto na Lei n. 8.072, de 25 de julho de 1990" (inc. I).
+Ainda, existe a previsão legal de que "as penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023" (art. 9º, do Decreto n. 11.846/2023).
+O concurso somente é relevante se houver registro de condenações por crimes impeditivos, pois, segundo o art. 9º, parágrafo único, do mesmo decreto, "na hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios".
+Nos termos do aresto estadual, o paciente, reincidente, não cumpriu 2/3 da reprimenda do crime impeditivo. Seria necessário o cumprimento de tal fração para, só então, apurar o adimplemento de 1/3 da pena referente ao delito não impeditivo.
+A propósito:
+ ..
+2. O Decreto n.º 8.615/2015, em seu art. 8º, parágrafo único, prevê expressamente a possibilidade de deferimento de indulto ao crime comum no caso de concurso com hediondo, exigindo-se apenas o cumprimento de 2/3 (dois terços) da penalidade referente ao delito impeditivo. Atendido esse requisito, apurar-se-á então o adimplemento de 1/3 (um terço) da pena, se não reincidente, ou 1/2 (metade), se reincidente, aplicada à infração penal comum.(HC n. 464.475/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 4/12/2018, DJe 19/12/2018). No mesmo sentido: (AgRg no HC n. 420.186/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 24/4/2018, DJe 4/5/2018).
+ ..
+5. Habeas Corpus não conhecido. Contudo, ordem concedida de ofício para, cassando o acórdão impugnado e a decisão de primeiro grau, determinar que o Juízo das execuções penais verifique se o paciente preencheu os requisitos para a comutação da pena previstos no Decreto Presidencial nº 8.615/2015.
+(HC 498006/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 03/06/2019, destaquei)
+ ..
+1. O Decreto n.º 8.615/2015, em seu art. 8º, parágrafo único, prevê expressamente a possibilidade de deferimento de indulto ao crime comum no caso de concurso com hediondo, exigindo-se apenas o cumprimento de 2/3 (dois terços) da penalidade referente ao delito impeditivo. Atendido esse requisito, apurar-se-á então o adimplemento de 1/3 (um terço) da pena, se não reincidente, ou 1/2 (metade), se reincidente, aplicada à infração penal comum.
+2. Ordem de habeas corpus parcialmente concedida para, cassando o acórdão impugnado e a decisão de primeiro grau, considerar atendido o lapso temporal de 2/3 (dois terços) relativamente ao crime hediondo impeditivo, nos termos do parágrafo único do art. 8º do Decreto n.º 8.615/2015, devendo o Magistrado de piso, fixada essa premissa, verificar se o Paciente preenche os demais requisitos necessários à concessão do benefício em relação aos crimes comuns não impeditivos.
+(HC 464475/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 19/12/2018)
+Aplica-se ao caso o entendimento de que a "concessão de indulto ou comutação da pena é ato de indulgência do Presidente da República, condicionado ao cumprimento, pelo apenado, das exigências taxativas previstas no decreto de regência (AgRg no HC n. 714.744/PR, Relator Ministro Rogerio Schietti, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022). No mesmo sentido, cito o AgRg no REsp n. 2.102.056/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/11/2023, DJe de 1/12/2023.
+Assim sendo, o apenado não se enquadra nas hipóteses previstas para o indulto.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
