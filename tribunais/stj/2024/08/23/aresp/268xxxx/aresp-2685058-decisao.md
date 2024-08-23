@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por JEAN FRANCISCO DA SILVA contra a decisão que não admitiu recurso especial fundamentado na alínea "a" do permissivo constitucional, no qual desafia acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (e-STJ fl. 301):
+APELAÇÃO CRIMINAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR (ARTIGO 302, CAPUT, DA LEI N.º 9.503/97). SENTENÇA CONDENATÓRIA. APELANTE QUE, CONDUZINDO COM IMPRUDÊNCIA O VEÍCULO MARCA/MODELO FIAT/STRADA, COR BRANCA, ANO 2011/2012, PLACA KXF-5097, CONSISTENTE EM INVADIR A CONTRAMÃO DE DIREÇÃO, COLIDIU COM O VEÍCULO MARCA/MODELO FIAT/UNO, COR AZUL, PLACA KYG-3079, CONDUZIDO PELA VÍTIMA, CAUSANDO NESTE ÚLTIMO LESÕES CORPORAIS QUE FORAM A CAUSA EFICIENTE DE SUA MORTE. PRETENSÃO DEFENSIVA NO SEGUINTE SENTIDO: (1) A NULIDADE DO PROCESSO, EM RAZÃO DO NÃO OFERECIMENTO DO ACORDO DE NÃO PERSECUÇÃO PENAL, E (2) A REDUÇÃO DO QUANTUM ESTABELECIDO PARA CUMPRIMENTO DA PRESTAÇÃO PECUNIÁRIA, COM A SUA FIXAÇÃO EM 1 (UM) SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. MANUTENÇÃO DA SENTENÇA. NULIDADE INEXISTENTE. IMPOSSÍVEL O OFERECIMENTO DO ACORDO DE NÃO PERSECUÇÃO PENAL. INICIAL ACUSATÓRIA RECEBIDA EM 08/06/2016, ANTERIOR À VIGÊNCIA DA LEI 13.964/19 (23/01/2020), A QUAL INSERIU NO CÓDIGO DE PROCESSO PENAL O ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE DO INSTITUTO A FATOS OCORRIDOS ANTES DA LEI DESDE QUE AINDA NÃO RECEBIDA A DENÚNCIA (SUPREMO TRIBUNAL FEDERAL - HC 191.464/SC - 18/09/2020). FATOS INCONTROVERSOS. PENA PECUNIÁRIA FIXADA DE FORMA MODERADA E BEM PRÓXIMA AO VALOR DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO DELITO (EM DEZEMBRO DE 2014), QUE ERA DE R$ 724,00 (SETECENTOS E VINTE E QUATRO REAIS), O QUE SE MANTÉM. HIPOSSUFICIÊNCIA DO APELANTE QUE É INCIDENTE A SER APRECIADO PELO JUÍZO DE EXECUÇÃO (SÚMULA 74 DO TJ/RJ). AUSÊNCIA DE VIOLAÇÃO À NORMA CONSTITUCIONAL OU INFRACONSTITUCIONAL.
+REJEIÇÃO DA PRELIMINAR E DESPROVIMENTO DO RECURSO.
+O agravante foi condenado às penas de 2 (dois) anos de detenção, em regime aberto, além da suspensão da habilitação para direção de veículo automotor pelo mesmo período da pena, pela prática do crime previsto no art. 302, caput, da Lei n. 9.503/97.
+O Tribunal de origem negou provimento ao recurso da defesa (e-STJ fls. 301-310).
+Os embargos de declaração opostos pela Defesa não foram conhecidos (e-STJ fls. 356-363).
+Em suas razões, o agravante alega violação do art. 28-A do Código de Processo Penal, ao argumento de possibilidade de oferecimento do acordo de não persecução penal.
+Requer o provimento do recurso a fim de que seja possibilitado ao recorrente a aplicação do acordo de não persecução penal (e-STJ fls. 376-386).
+Sem apresentação de contrarrazões.
+O Tribunal a quo inadmitiu o apelo especial por incidência da Súmula n. 83/STJ (e-STJ fls. 404-410), fundamento contra o qual se insurge a parte agravante (e-STJ fls. 420-429).
+Parecer do Ministério Público Federal pelo não provimento do recurso especial (e-STJ fls. 453-499).
+É o relatório.
+DECIDO.
+Releva consignar, inicialmente, que
+o fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal (HC 185.913) não implica a suspensão dos processos em andamento nesta Corte Superior, uma vez que a controvérsia foi afetada à sistemática dos recursos repetitivos (Tema Repetitivo 1098), ocasião em que a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes (AgRg no REsp n. 2.037.768/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023). Ademais, não reconhecida a repercussão geral da matéria de fundo pelo Supremo Tribunal Federal, tampouco determinado pela referida Corte ou por este Tribunal Superior o sobrestamento das causas que versem a respeito da temática, inexiste óbice ao seu julgamento (AgRg no AgRg no AREsp n. 1.962.355/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/11/2021) (AgRg no AREsp n. 2.240.776/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/3/2023, DJe de 22/3/2023) (AgRg no REsp n. 2.055.481/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/6/2023, DJe de 14/6/2023).
+A jurisprudência desta Corte Superior possui orientação de que o acordo de não persecução penal - ANPP, introduzido pela Lei n. 13.964/2019, no art. 28-A do CPP, não pode retroagir às ações penais cuja denúncia já tenha sido recebida até sua entrada em vigor, como ocorre na presente hipótese.
+Nesse contexto, a orientação firmada no âmbito das Turmas que integram a Terceira Seção do Superior Tribunal de Justiça é a de ser possível a aplicação retroativa do acordo de não persecução penal, previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, apenas quando não recebida a denúncia.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182/STJ AFASTADA. EXPLORAÇÃO DE PRESTÍGIO. ART. 28-A DO CPP. ANPP. IMPOSSIBILIDADE. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. SOBRESTAMENTO DO FEITO. INCABÍVEL.
+ ..
+2. Prevalece nesta corte o entendimento de que, recebida a denúncia antes da entrada em vigor da lei n. 13.964/2019, como no caso dos autos, é incabível a retroatividade do art. 28-A do CPP, para aplicação do acordo de não persecução penal (ANPP). A controvérsia foi afetada à sistemática dos recursos repetitivos (Tema 1098), ocasião em que a 3ª Seção decidiu não determinar a suspensão do trâmite dos processos pendentes.
+ ..
+5. Agravo regimental provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgRg no AREsp n. 2.318.291/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 23/6/2023).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). RETROATIVIDADE. RECEBIMENTO DA DENÚNCIA. PRECLUSÃO. AGRAVO DESPROVIDO.
+1. A jurisprudência dominante do Superior Tribunal de Justiça é de que o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei 13.964/2019, desde que não recebida a denúncia à data de sua vigência.
+2. Ocorrência de preclusão, pois recebida a denúncia e prolatados sentença e acórdão.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.203.438/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OMISSÃO INEXISTENTE. USURPAÇÃO DE COMPETÊNCIA DO PRETÓRIO EXCELSO. NÃO OCORRÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). DENÚNCIA RECEBIDA E SENTENÇA CONDENATÓRIA CONFIRMADA EM SEGUNDA INSTÂNCIA. IMPOSSIBILIDADE
+ ..
+5. A jurisprudência firmou entendimento no sentido de que, "iniciada a persecução penal com o recebimento da denúncia e, no caso, com a condenação, inclusive, do paciente em segunda instância, resta afastada a possibilidade de acordo de não persecução penal, por não se coadunar com o propósito do instituto despenalizador pré-processual" (AgRg no HC N. 644.020/SC, relator Ministro Felix Fischer, Dje de 12/3/2021).
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg nos EAREsp n. 1.533.884/PB, relator Ministro Humberto Martins, Corte Especial, DJe de 25/6/2021).
+No caso, quando foi promulgada a Lei n. 13.964 de 24/12/2019, a denúncia já havia sido recebida, em 08/06/2016 (e-STJ fl. 47 ), de forma que não é possível a celebração do acordo de não persecução penal - ANPP.
+Ademais, a retroatividade do art. 28-A do Código de Processo Penal é negada com maior razão normativa quando, após o recebimento da denúncia, a prestação jurisdicional nas instâncias ordinárias se tenha exaurido mediante prolação de sentença condenatória confirmada em segunda instância, como na hipótese em exame.
+Incide, portanto, a Súmula 568 do STJ, segundo a qual o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+ EMENTA
