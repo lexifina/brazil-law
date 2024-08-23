@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência suscitado pelo Juízo Federal da 3ª Vara Federal de Santa Maria, com fundamento no art. 105, I, "d", da Constituição Federal, em face do Juízo de Direito da Comarca de Santa Maria - RS.
+Na origem, trata-se de Ação de Obrigação de Fazer, ajuizada por Nelci Becker Leston, objetivando o fornecimento de endarterectomia para tratamento de cardiopatia isquêmica transitória (CID I65.2).
+A ação foi inicialmente ajuizada na Justiça Estadual, que julgou procedente o pedido e determinou a inclusão da União no polo passivo, sob o argumento de que a responsabilidade pelo custeio do procedimento seria do ente federal, conforme as diretrizes do Sistema Único de Saúde e o entendimento consolidado pelo Supremo Tribunal Federal no Tema 1.234 da Repercussão Geral.
+O Juízo Federal analisou a questão sob a ótica da responsabilidade solidária dos entes federativos em demandas prestacionais de saúde e, com base nas diretrizes fixadas pelo STF, reconheceu a ilegitimidade da União para figurar no polo passivo e declinou da competência, remetendo os autos novamente à Justiça Estadual.
+A União alegou que, conforme as normas do SUS, a gestão e execução direta dos serviços de saúde são responsabilidades primárias dos Estados e Municípios, sendo sua participação limitada ao financiamento supletivo, sem responsabilidade direta pela execução dos serviços.
+É o relatório.
+Decido.
+Os autos foram recebidos neste G abinete em 22.7.2024.
+A Primeira Seção, ao apreciar os Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC, afetados à sistemática do Incidente de Assunção de Competência (IAC 14), deliberou que as ações que tratam da dispensação de medicamentos/tratamentos não incluídos nas políticas públicas devem continuar no juízo de escolha do autor, em razão do potencial dano de difícil reparação aos beneficiários de tais tratamentos. Além disso, o STJ estabeleceu que, em casos de Conflito de Competência, o Juízo estadual ficaria designado para decidir, provisoriamente, as medidas urgentes relacionadas a esses processos, conforme o art. 955 do CPC.
+Em 12.4.2023, o mérito do referido IAC foi julgado, oportunidade em que foi fixada a seguinte tese jurídica:
+a) Nas ações relativas à saúde, intentadas com o objetivo de compelir o Poder Público a fornecer medicamentos não inseridos na lista do SUS, mas registrados na ANVISA, prevalecerá a competência do juízo conforme o ente federativo demandado;
+b) As regras de repartição de competência administrativa do SUS não devem ser invocadas para alterar ou ampliar o polo passivo delineado pela parte autora no momento da propositura da ação, devendo essas regras ser utilizadas somente para redirecionar o cumprimento da sentença ou determinar o ressarcimento entre os entes federativos;
+c) A competência da Justiça Federal, nos termos do art. 109, I, da CF/88, é determinada por critério objetivo, conforme as pessoas que figuram no polo passivo da demanda (competência ratione personae). Assim, o Juízo Federal decide sobre o interesse da União no processo (Súmula 150 do STJ), não cabendo ao Juízo estadual suscitar conflito de competência após a exclusão do ente federal, conforme as Súmulas 254 e 224 do STJ.
+Posteriormente, o STF, ao julgar o RE 1.366.243/SC (Tema 1. 234), proferiu decisão confirmando os parâmetros estabelecidos pelo STJ e determinou que, nas demandas envolvendo medicamentos ou tratamentos padronizados, a composição do polo passivo deve observar a repartição de responsabilidades estruturada no SUS, sendo vedada a inclusão da União no polo passivo se o tratamento não estiver incorporado ao SUS para a doença específica do autor.
+No caso em apreço, o procedimento pleiteado, apesar de estar padronizado no SUS, refere-se a uma responsabilidade direta do Estado do Rio Grande do Sul, sendo a União responsável apenas pelo financiamento supletivo.
+Diante do exposto, conheço do Conflito e declaro a competente a Justiça Estadual para processar e julgar o feito, determinando a remessa dos autos ao Juízo de Direito da Comarca de Santa Maria - RS.
+Publique-se.
+Intimem-se.
+EMENTA
