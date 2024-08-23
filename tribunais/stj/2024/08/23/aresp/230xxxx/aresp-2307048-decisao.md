@@ -1,0 +1,42 @@
+DECISÃO
+Em análise, agravo de decisão que deixou de admitir recurso especial interposto por MARIVET COMÉRCIO DE PRODUTOS AGROPECUÁRIOS LTDA em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+AGRAVO INTERNO. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. MANDADO DESEGURANÇA. CONTRIBUIÇÃO A ENTIDADES TERCEIRAS. LIMITE. 20 SALÁRIOS MÍNIMOS. SOBRESTAMENTO DO FEITO. AGRAVO NÃO PROVIDO.
+1. O julgamento monocrático tem por objeto liberar as pautas de julgamento dos tribunais de recursos cuja matéria já tenha entendimento firmado na jurisprudência majoritária das Cortes nacionais.
+2. Não há que se falar em ofensa ao duplo grau de jurisdição se a questão já foi reiteradamente discutida nos Tribunais.
+3. A matéria relativa ao pedido de suspensão da exigibilidade das contribuições a entidades terceiras, na parte em que excederem a base de cálculo de 20 (vinte) vezes o maior salário mínimo vigente no país, é objeto dos Resp nº 1.898.532/CE e REsp nº 1.905.870/PR, afetados ao rito dos recursos representativos de controvérsia.
+4. A ordem de suspensão dos processos alcança todos os processos em trâmite, independente do estado em que se encontram, e é impositiva a todos os magistrados, não lhes sendo facultado decidir sobre a sua aplicação.
+5. Agravo não provido. (fl. 115)
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta ofensa aos arts. 314 e 932, IV, do CPC.
+Contrarrazões às fls. 159/183.
+O Recurso Especial foi inadmitido pelo Tribunal de origem (fls. 191/192), daí a interposição do presente agravo (fls. 196/206).
+Sem impugnação.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não merece prosperar.
+Quanto a apontada violação ao art. 932, IV, do CPC, esta Corte Superior possui o entendimento de que a apreciação colegiada, confirmando anterior decisão monocrática no tribunal de origem supera eventual nulidade por ofensa ao mencionado dispositivo legal.
+A propósito, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO MONOCRÁTICA DO RELATOR CONFIRMADA PELO COLEGIADO. EVENTUAL NULIDADE. SUPERAÇÃO. EPIDEMIA DE COVID. EMPREGADA GESTANTE. AFASTAMENTO DO TRABALHO PRESENCIAL. MANUTENÇÃO DO VÍNCULO EMPREGATÍCIO. REMUNERAÇÃO DEVIDA. EQUIPARAÇÃO A SALÁRIO-MATERNIDADE PARA EFEITO DE COMPENSAÇÃO TRIBUTÁRIA IMPOSSIBILIDADE. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o agravo interno.
+II - A confirmação de decisum monocrático do Relator pelo Órgão Colegiado supera eventual violação ao art. 932 do CPC/2015. Precedentes.
+III - A Lei n. 14.151/2021 determinou o afastamento da gestante do trabalho presencial, e não do trabalho tout court, não se verificando, portanto, suspensão ou interrupção do contrato de trabalho, mas apenas alteração na sua forma de execução, o que configura a remuneração direta e habitual devida em razão da existência do vínculo empregatício, ainda que, eventualmente, a contratada fique somente à disposição do empregador. Precedentes.
+IV - A ocorrência de pagamento, pelo próprio empregador, de remuneração efetivamente devida à empregada em razão direta da relação empregatícia, cujo contrato de trabalho se encontra em execução, afasta a pretensão de compensar tais valores com parcelas futuras de contribuição previdenciária e de contribuição parafiscal, como se salário-maternidade fosse. Precedentes.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido (AgInt no REsp n. 2.109.093/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/5/2024, DJe de 3/6/2024 - Grifo nosso).
+TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE SOLIDÁRIA. NOME DO SÓCIO INCLUÍDO NA CDA. INVERSÃO DO ÔNUS DA PROVA EM RELAÇÃO À EXCLUDENTE DE RESPONSABILIDADE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Esta Corte Superior entende "não haver violação do art. 557 do CPC/1973 (art. 932, III e IV, do NCPC) quando o relator decide a controvérsia na mesma linha da jurisprudência dominante do Tribunal. Eventual nulidade da decisão monocrática fica superada com a reapreciação do recurso pelo órgão colegiado pela via de agravo regimental/interno" (AgInt no REsp 1.197.594/GO, Rel. Min. Marco Buzzi, Quarta Turma, DJe 3.3.2017). No mesmo sentido: AgInt no REsp 2.012.805/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma,  ..
+5. Agravo Interno não provido (AgInt no REsp n. 2.014.104/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 31/5/2023 - Grifo nosso)
+De outra parte, de leitura do acórdão recorrido, observa-se que o voto condutor considerou que a suspensão imediata do feito, com fundamento no art. 1.037 do CPC, não acarretaria prejuízos a posterior apreciação do pedido principal, nos seguintes termos:
+A matéria ora posta é objeto de exame nos REsp nºs 1.898.532/CE e 1.905.870/PR, afetados conjuntamente como representativos de controvérsia, a teor do disposto no §5º do artigo 1035 do CPC/2015, tendo sido determinada a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, conforme a regrado inciso II do artigo 1.037 daquele Códex.
+A ordem de suspensão dos processos alcança todos os processos em trâmite, independente do estado em que se encontram, e é impositiva a todos os magistrados, não lhes sendo facultado decidir sobre a sua aplicação.
+Por sua vez, a norma do artigo 314 do CPC/2015 assegura a realização de atos urgentes durante a suspensão do processo, a fim de se evitar a ocorrência de danos irreparáveis e perecimento de direito.
+No caso em apreço, em que pesem os argumentos trazidos pela agravante no tocante à existência de risco na demora do julgamento do feito, o fato é que a não concessão da liminar pleiteada neste momento não enseja a ocorrência de danos irreparáveis e nem tampouco perecimento de direito, uma vez que o provimento pretendido poderá ser alcançado quando da cessação da suspensão, caso preenchidos os requisitos para tanto. (fl. 122 - Grifo nosso)
+O espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim, ilidir o afirmado pelas instâncias ordinárias, acatando toda a linha argumentativa dos recorrentes referentes à possibilidade de dano irreparável ao direito da parte autora, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE REQUISITOS PARA A CONCESSÃO DE EFEITO SUSPENSIVO.
+1. A atribuição de efeito suspensivo aos embargos à execução exige, além da garantia, a presença dos juízos de relevância da argumentação (fumus boni juris) e perigo de dano irreparável ou de difícil reparação (periculum in mora), ambos ausentes na espécie.
+2. Dessa forma, o apelo não supera o conhecimento, pois, no âmbito do recurso especial, não se permite o reexame dos requisitos da fumaça do bom direito e do perigo na demora para o deferimento da medida liminar pelo Juízo de origem, seja em razão do óbice constante da Súmula 7/STJ, seja pela incidência do disposto no enunciado da Súmula 735/STF, respectivamente: "A pretensão de simples reexame de prova não enseja recurso especial."; "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 1.815.546/AM, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/11/2019, DJe de 26/11/2019)
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
