@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+MARCIO SANTANA MARQUES opõe novos embargos declaratórios. Assinala, contradição do acórdão de fls. 682-685.
+A defesa afirma ser dispensável a comprovação de feriado nacional no ato de interposição do recurso. Alega que os dias 16 e 17 de junho de 2022 eram feriados nacionais e, portanto, não haveria a exigência de que fosse juntado ato normativo de suspensão do prazo processual.
+Requer, novamente, o conhecimento do agravo em recurso especial e, subsidiariamente, a concessão de habeas corpus de ofício para anular a condenação do acusado.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. VÍCIO NÃO CONSTATADO. EMBARGOS REJEITADOS.
+1. Previstos no art. 619 do CPP, os embargos de declaração são cabíveis para corrigir omissão, contradição, ambiguidade ou obscuridade da decisão judicial. Eventual alteração do conteúdo decisório é admitida somente quando decorre da correção de u m desses vícios.
+2. O acórdão embargado não incorreu em contradição, uma vez que expressamente afirmou que a defesa não havia juntado, no momento da interposição do agravo em recurso especial, documento que comprovasse a suspensão do expediente forense pela existência de feriado.
+3. A insistência na utilização de meios impugnativos consecutivamente inadmissíveis sinaliza intuito protelatório. Por isso, fica consignada a advertência expressa quanto aos efeitos do abuso do direito de recorrer.
+4. Embargos de declaração rejeitados.
+VOTO
+Previstos no art. 619 do CPP, os embargos de declaração são cabíveis para corrigir omissão, contradição, ambiguidade ou obscuridade da decisão judicial. Eventual alteração do conteúdo decisório é admitida somente quando decorre da correção de um desses vícios.
+O acórdão de fls. 682-685 não incorreu em contradição, uma vez que expressamente afirmou que a defesa não havia juntado, no momento da interposição do agravo em recurso especial, documento que comprovasse a suspensão do expediente forense pela existência de feriado. Veja-se (fls. 683-684, grifos no original):
+Na hipótese, noto que a irresignação da defesa se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos aclaratórios, notadamente porque o acórdão embargado foi expresso em afirmar que não foi comprovada, no momento da interposição do agravo em recurso especial, por meio da juntada de documento idôneo, a suspensão do expediente forense no Tribunal local.
+No caso em exame, reafirmo que a defesa não juntou aos autos, no momento adequado - é dizer, ao interpor o AREsp -, a portaria editada pelo TJ-SP que haveria determinado a suspensão de prazos. A representação gráfica de calendário com mera menção ao ato normativo não supre os requisitos exigidos por esta Corte Superior para comprovar a tempestividade recursal.
+Reitero que não há vícios no referido julgado. De acordo com o art. 1º da Lei n. 662/1949, "São feriados nacionais os dias 1º de maio, 7 de setembro, 2 de novembro, 15 de novembro e 25 de dezembro". A Lei n. 6.802/1980, a seu turno, declara como feriado nacional o dia 12 de outubro. Portanto, ao contrário do que afirma o embargante, 16 e 17 de junho não são feriados nacionais e, portanto, a parte deveria haver comprovado a suspensão dos prazos processuais nestas datas.
+Ademais: ""o pleito de concessão de habeas corpus de ofício, como forma de tentar burlar a inadmissão do apelo especial ou de seus posteriores recursos, é descabido (AgRg no REsp 1706035/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018)" (EDcl no AgRg no AgRg no AREsp 1363476/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 8/3/2019)" (AgRg nos EDcl no AgRg nos EDcl nos EDcl nos EAREsp n. 1828984/SP, Rel. Ministro Joel Ilan Paciornik, 3ª S., DJe 21/10/2021, destaquei).
+A insistência na utilização de meios impugnativos consecutivamente inadmissíveis caracteriza intuito protelatório e abuso do direito de recorrer, onera o Poder Judiciário e impede a razoável duração do processo. Por isso, fica expressamente consignada a advertência expressa quanto aos efeitos da reiteração dessa estratégia.
+À vista do exposto, rejeito os embargos de declaração.
