@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por GLENDA MIRELA GARCIA contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 10):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.
+Prestação de serviços educacionais. Penhora de valores em conta bancária da agravante. Alegação de impenhorabilidade, por se tratar de quantia inferior a 40 salários-mínimos, ainda que depositada em conta corrente. Mera indicação do valor total bloqueado que não constitui fundamento suficiente para a liberação. Pretensão que é contrária ao entendimento desta Colenda Câmara, no sentido de que a norma do art. 833, X, do CPC não admite interpretação extensiva. Precedentes. Inexistência, ademais, de elementos indicativos de que a verba foi poupada pelo devedor com o intuito de prover sua subsistência. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial, a recorrente alegou a ofensa ao art. 833, inciso X, do Código de Processo Civil de 2015, sustentando, em síntese, a impenhorabilidade dos valores inferiores a 40 (quarenta) salários mínimos, depositados em conta corrente. Aduziu, ainda, dissídio jurisprudencial.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+A agravante impugna os f undamentos da decisão denegatória do recurso especial (e-STJ, fls. 41-44).
+Contraminuta apresentada (e-STJ, fls. 47-49).
+Brevemente relatado, decido.
+A controvérsia refere-se, em síntese, à penhorabilidade, ou não, dos valores inferiores a 40 (quarenta) salários mínimos, depositados em conta corrente.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 11-18; sem grifo no original):
+O agravado move em desfavor do agravante a presente execução de título extrajudicial, objetivando o recebimento de valores decorrentes de contrato de prestação de serviços educacionais firmado entre as partes.
+No curso do feito, foi realizada a constrição de R$1.836,22 em contas bancárias do agravante (fls. 148/151 dos autos de origem).
+A agravante ofertou impugnação ao bloqueio (fls. 94/137) e houve manifestação do executado (fls. 154/159). ..
+O pedido de desbloqueio dos ativos, foi rejeitado pelo Juízo da causa, motivando a interposição do recurso.  ..
+Com efeito, ao contrário do que foi aduzido no recurso, não há nada nos autos que permita alcançar a conclusão pretendida pela parte quanto aos valores constritos.
+Em suas razões recursais, a agravante sustenta que a respeitável decisão merece ser reformada para se reconhecer a impenhorabilidade dos baixos valores penhorados, causando prejuízos à subsistência da agravante e de sua família, por ser de Justiça (fls. 4) (realce não original).
+Tal alegação, contudo, contradiz toda a narrativa deduzida em sua impugnação e no restante do agravo de instrumento, deque o montante de R$1.795,00 foi arrecadado exclusivamente para fins sociais em campanha de Natal Solidário. Tem-se, assim, que referido montante não pode ser ao mesmo tempo destinado à subsistência da agravante e de sua família e aos fins sociais.
+Dessa forma, se do montante total bloqueado deR$1.836,22, a quantia de R$1.795,00 seria utilizada em campanha solidária, somente o restante de R$41,22 seria destinado ao uso próprio da agravante. Frise-se, ademais, que tampouco restou comprovado que o referido valor foi realmente arrecadado com doações de terceiros para fins sociais.
+Nesse contexto, a agravante não comprovou que os valores constritos de suas contas correntes se tratava de reserva econômica ou quantia destinada à subsistência.
+Em verdade, o agravante que se limita a arguir a impenhorabilidade puramente com base no valor constrito, sem demonstrara imprescindibilidade da quantia.  ..
+Ausente qualquer mínima documentação sobre a imprescindibilidade da quantia para sua subsistência ou, ainda, que referido montante constituiria reserva financeira, não há como acolher a alegação da parte executada, não bastando para tanto o argumento de presunção da impenhorabilidade no caso.
+Isso porque não prospera o argumento de que o valor seria impenhorável por força de interpretação extensiva do artigo 833, X, do Código de Processo Civil, de modo a abranger não apenas a conta poupança, mas também a reserva em conta corrente ou demais aplicações financeiras.
+Conforme precedentes desta Colenda Câmara, a mera circunstância de o bloqueio de ativos financeiros do devedor ter incidido sobre quantias inferiores a quarenta salários-mínimos não é suficiente para caracterizar como impenhoráveis os valores constritos.
+Com efeito, nos termos do artigo 833, X, do Código de Processo Civil, é impenhorável apenas "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos" e referida norma não admite interpretação extensiva.  ..
+Tanto é assim que não reconhece sequer a impenhorabilidade de valores depositados em conta poupança que é movimentada como conta corrente, pois, em tais situações, há um desvirtuamento da função típica da conta poupança.  ..
+É certo que no julgamento do mencionado EREsp n.º1.330.567/RS e do REsp n.º 1.230.060/PR, a 2ª Seção do Superior Tribunal de Justiça firmou o entendimento de que também é possível reconhecer a impenhorabilidade de valores depositados em conta corrente ou fundos de investimentos, todavia, desde que se trate de quantia poupada, vale dizer, de efetiva reserva financeira mantida pelo devedor.
+A tese da parte, portanto, não se sustenta, especialmente porque o agravante não apresentou quaisquer elementos indicativos de que a quantia constrita vinha sendo poupada como forma de garantir sua subsistência.  ..
+Também não ficou suficientemente provado que os valores bloqueados sejam destinados exclusivamente para fins sociais, pois constam depósitos, inclusive, de valores superiores ao proposto como doação ao Natal Solidário(fls. 170 dos autos de origem) (realce não original).
+Com efeito, destaca-se que as Turmas de Direito Privado deste Tribunal Superior já pacificaram o entendimento de que os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis.
+Efetivamente, conforme a jurisprudência do STJ, a impenhorabilidade de que trata o inciso X do art. 833 do CPC abrange não apenas os valores depositados em caderneta de poupança, mas também aqueles mantidos em conta corrente, aplicações financeiras ou fundos de investimentos, ressalvada a comprovação de má-fé, abuso de direito ou fraude, hipóteses não identificadas no caso concreto.
+Confiram-se (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES ENCONTRADOS EM CONTA CORRENTE. VALOR INFERIOR A QUARENTA SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRECLUSÃO. INOVAÇÃO RECURSAL. INVIABILIDADE.
+1. Ação de execução de título extrajudicial.
+2. É impenhorável o valor de até 40 (quarenta) salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, fraude ou abuso de direito, que não se caracteriza pela simples movimentação atípica. Precedentes.
+3. Fica inviabilizado o conhecimento de matéria suscitada somente no agravo interno, por se tratar de indevida inovação recursal.
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.100.907/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE. CONTA BANCÁRIA. VALORES DEPOSITADOS. 40 (QUARENTA) SALÁRIOS MÍNIMOS. ART. 833, X, DO CPC.
+1. A jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis.
+2. Na hipótese, o posicionamento do tribunal de origem divergiu da orientação firmada nesta Corte, motivo pelo qual deve ser mantida a decisão agravada, que deu parcial provimento ao recurso especial para determinar a impenhorabilidade dos valores depositados em aplicações financeiras, até o limite de 40 (quarenta) salários mínimos.
+3. No caso, inviável a análise do alegado abuso ou má-fé do executado, tendo em vista que demandaria o reexame das circunstâncias fáticas dos autos, procedimento vedado pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.245.929/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PENHORA DE VALORES EM CONTA CORRENTE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Malgrado a literalidade da dicção legal do art. 932, V, do NCPC, esta Corte Superior já se manifestou no sentido de que a interpretação sistêmica do Código recomenda uma exegese ampliativa da norma, de modo a autorizar o julgamento monocrático dos recursos com amparo na existência de orientação jurisprudencial dominante.
+2. A apreciação do tema pelo órgão colegiado no agravo interno supera eventual nulidade da decisão singular.
+3. A jurisprudência desta Corte Superior é firme no sentido da impenhorabilidade de valor até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.622.093/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Dessa forma, percebe-se que a irresignação da agravante merece acolhida, uma vez que o acórdão recorrido, ao concluir que "a mera circunstância de o bloqueio de ativos financeiros do devedor ter incidido sobre quantias inferiores a quarenta salários-mínimos não é suficiente para caracterizar como impenhoráveis os valores constritos", bem como que, "nos termos do artigo 833, X, do Código de Processo Civil, é impenhorável apenas "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos" e referida norma não admite interpretação extensiva" (e-STJ, fl. 14), vai de encontro ao supracitado entendimento desta Corte Superior - de que os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis.
+Assim, é de rigor a reforma do julgado para reconhecer a impenhorabilidade dos valores inferiores a 40 salários mínimos, depositados na conta corrente da agravante.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a constrição dos valores, nos termos da fundamentação.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO DE ATIVOS FINANCEIROS NA CONTA CORRENTE. MONTANTE INFERIOR A 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE PRESUMIDA. PRECEDE NTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
