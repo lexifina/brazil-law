@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANDRE AUGUSTO RIEBOLDT SILVA (ANDRE) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 371/373).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ANDRÉ alegou a violação dos arts. 85, § 8º, do CPC, 4º da Resolução CMN nº 5.004/2022, 5º da Medida Provisória nº 2.170-36/2001, Resolução nº 3.517/2007 do Banco do Brasil, ao sustentar que (1) o documento descritivo de crédito deve ser fornecido, contendo todas as informações essenciais; (2) o banco deve ser condenado no pagamento dos honorários advocatícios, de forma equitativa, uma vez que o valor da causa é baixo; (3) ficou caracterizada a existência de dissídio jurisprudencial.
+(1) Da exibição do documento
+Sobre o tema, o Tribunal de Justiça de Santa Catarina se manifestou nos seguintes termos:
+Isso porque o art. 4º, § 2º, inciso I, da Resolução CMN n. 5.004/2022 do Banco Central, estabelece que o "documento descritivo de crédito" deve ser disponibilizado continuamente aos clientes através de seus canais eletrônicos, como caixas eletrônicos e internet banking.
+Nesse palmilhar, segundo orientação pacificada pela Súmula 57 deste Sodalício, "disponível em sítio eletrônico o documento pretendido, carece de interesse processual a produção antecipada de provas ou a pretensão de sua exibição".
+ ..
+Além disso, este Órgão Fracionário tem decidido que a exibição desse demonstrativo é desnecessária, na medida em que o próprio contrato acostado pela Instituição Financeira já prevê as informações e os encargos incidentes sobre a operação (e-STJ, fls. 301).
+Portanto, o Tribunal estadual afastou a pretensão de ANDRÉ por entender que o documento descritivo de crédito é disponibilizado continuamente pelos bancos por meio dos seus canais eletrônicos.
+Tendo em vista que o ANDRÉ não impugnou especificamente o argumento de que o documento pretendido está disponível em sítio eletrônico do banco, incide a Súmula 283 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido, o precedente abaixo ilustra o tópico:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO A DIREITO DA PERSONALIDADE. LEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ATO ILÍCITO. DANO MORAL. REVISÃO. SÚMULA 7/STJ. VALOR DA CONDENAÇÃO. REEXAME. EXORBITÂNCIA NÃO CONSTATADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "a falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial" (AgInt no AREsp 1.940.620/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 29/11/2021, DJe 01/12/2021).
+3. Para desconstituir o entendimento contido no aresto recorrido, concluindo pela inexistência de violação a direito da personalidade apta a ensejar a reparação moral, seria indispensável a incursão na seara fático-probatória dos autos, procedimento que se encontra obstado pelo verbete sumular n. 7 desta Corte.
+4. A revisão da conclusão do colegiado originário, a fim de acolher a pretensão recursal, referente ao afastamento da indenização por danos morais e ao valor arbitrado para a indenização, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.955.096/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022, sem destaque no original.).
+(2) Dos honorários advocatícios
+ANDRÉ insistiu na condenação do banco nos honorários advocatícios, nos termos do art. 85, § 8º, do CPC.
+O Tribunal de Justiça estadual negou referido pedido por não ficar configurada a pretensão resistida na esfera administrativa diante da irregularidade da notificação extrajudicial. Confira-se:
+Com efeito, o Superior Tribunal de Justiça estabeleceu que para a exibição judicial de documentos bancários (cópias e segunda via de documentos) faz-se necessário que o consumidor demonstre: a) a existência da relação jurídica entre as Partes; b) a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável; e c) o pagamento do custo do serviço conforme previsão contratual e a normatização da autoridade monetária.
+In casu, o Demandante municiou a peça exordial com os seguintes documentos: a)procuração (Evento 1, anexo 2); b) documentos de identificação (Evento 1, anexos 2 a 4); c)comprovante de residência (Evento 1, anexo 5); d) extrato bancário (Evento 1, anexo 6); e)declaração de hipossuficiência (Evento 1, anexos 7 e 8); f) declaração de pensionista (Evento 1, anexo9); g) histórico de créditos do INSS (Evento 1, anexo 10); h) histórico de empréstimo consignado(Evento 1, anexo 11); i) certidão positiva de veículo (Evento 1, anexo 12); j) certidão de casamento(Evento 1, anexo 13); e k) notificação extrajudicial e carta registrada com aviso de recebimento(Evento 1, anexo 14).
+Deveras, identifico que o Autor não logrou êxito em cumprir todas as exigências para a instrução do pedido extrajudicial prévio ao Banco, pois não especificou de forma clara quais contratos pretendia ver exibidos, cujos dados tinha livre acesso.
+Ora, a notificação extrajudicial enviada pelo Advogado da Autora tem conteúdo genérico ao requerer que "lhes sejam apresentadas cópias de todos os extratos e contratos firmados, nos últimos10 (dez) anos, e que possuam qualquer vinculação com a conta retro mencionada" aspecto que poderia ter sido minudenciado com as próprias informações contidas nos extratos trazidos em conjunto com a petição inicial.
+ ..
+Logo, brota clarividente que o pedido administrativo se apresenta irregular devido à superficialidade e à ampla abrangência do conteúdo da notificação extrajudicial (e-STJ, fls. 302/303).
+Assim, rever as conclusões quanto à irregularidade da notificação extrajudicial demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PRODUÇÃO ANTECIPADA DE PROVAS. EXIBIÇÃO DE DOCUMENTOS. PRETENSÃO RESISTIDA. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. REVISÃO. SÚMULA Nº 7/STJ.
+1. Nas ações cautelares de exibição de documentos e produção antecipada de provas, somente são cabíveis honorários de sucumbência quando houver resistência da parte requerida ao atendimento do pedido.
+2. Na hipótese, rever o entendimento do tribunal de origem, que concluiu que todos os documentos cabíveis foram apresentados, afastando, assim, a pretensão resistida, encontra o óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.396.021/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Por fim, inócua as indicações dos precedentes indicados por ANDRÉ , tendo em vista que a jurisprudência do STJ entende que a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito, veja-se o julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. JULGADA PROCEDENTE. NEGATIVA INDEVIDA DE COBERTURA A PROCEDIMENTO. DANOS MORAIS CONFIGURADOS. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULAS 282 E 356/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Inadmissível o recurso especial referente à questão que não foi apreciada pelo Tribunal de origem, pela ausência de prequestionamento. Incidência das Súmulas n. 282 e 356/STF.
+2. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7 do Superior Tribunal de Justiça.
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.286.720/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023, sem destaque no original.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. PRODUÇÃO ANTECIPADA DE PROVAS. 1. EXIBIÇÃO DE DOCUMENTOS. DOCUMENTO DESCRITIVO DE CRÉDITO. DISPONIBILIZAÇÃO EM CANAIS ELETRÔNICOS DA INSTITUIÇÃO FINANCEIRA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. 2. HONORÁRIOS ADVOCATÍCIOS. IRREGULARIDADE DA NOTIFICAÇÃO EXTRAJUDICIAL. PRETENSÃO RESISTIDA NA ESFERA ADMINISTRATIVA. NÃO RECONHECIMENTO PELO TRIBUNAL ESTADUAL. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
