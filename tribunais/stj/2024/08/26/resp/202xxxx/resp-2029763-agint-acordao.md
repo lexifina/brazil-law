@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Herman Benjamin.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PEDIDO DE DESTAQUE DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Consoante o entendimento do STJ, nos termos do art. 22, § 4º, da Lei n. 8.906/1994, é possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, mas não a expedição autônoma de requisição de pequeno valor ou precatório. Precedentes.
+2. Na hipótese dos autos, é indevida a expedição de precatório exclusivamente para o pagamento da reserva de honorários contratuais diante do óbito do autor e da ausência de habilitação de eventuais sucessores.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Alexandre Augusto Forcinitti Valera contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PEDIDO DE DESTAQUE DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, o agravante sustenta que, na forma da jurisprudência desta e. Corte, constituindo os honorários contratuais direito autônomo, e sendo eles exigíveis, não há subordinar seu pagamento aos procedimentos e trâmites próprios da sucessão processual, por ausência de acessoriedade ou dependência.
+Aduz, ademais, que embora falecida a parte recorrida e ainda não habilitados os herdeiros, é possível a expedição do total do valor devido, destacado o crédito do causídico, tendo em vista o disposto na Resolução 458/2017, alterada pela Resolução 670/2020, hipotese que os valores serão requisitados com status de bloqueado à disposição do juízo requisitante, a quem competirá autorizar o levantamento por alvará ou meio equivalente.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PEDIDO DE DESTAQUE DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Consoante o entendimento do STJ, nos termos do art. 22, § 4º, da Lei n. 8.906/1994, é possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, mas não a expedição autônoma de requisição de pequeno valor ou precatório. Precedentes.
+2. Na hipótese dos autos, é indevida a expedição de precatório exclusivamente para o pagamento da reserva de honorários contratuais diante do óbito do autor e da ausência de habilitação de eventuais sucessores.
+3. Agravo interno a que se nega provimento.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Com efeito, ao contrário do que restou consignado nas razões do agravo, nos termos do art. 22, § 4º, da Lei n. 8.906/1994, é possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, mas não a expedição autônoma de requisição de pequeno valor ou precatório.
+Confira-se.
+PROCESSUAL CIVIL. DESTAQUE DOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. NECESSIDADE DE JUNTADA DO CONTRATO ANTES DA EXPEDIÇÃO DO PRECATÓRIO OU RPV.
+1. Consoante o entendimento do STJ, nos termos do art. 22, § 4º, da Lei n. 8.906/1994, é possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, mas não a expedição autônoma de requisição de pequeno valor ou precatório.
+2. Hipótese em que a parte recorrente formulou o pedido de destaque dos honorários contratuais (apresentando contrato de cessão) após a expedição do precatório.
+3. Agravo interno desprovido.
+(AgInt no RMS n. 66.977/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/11/2023, DJe de 23/11/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. DESTACAMENTO. RPV. IMPOSSIBILIDADE.
+I - Na origem, trata-se de agravo de instrumento interposto contra a decisão que, nos autos de cumprimento de sentença em mandado de segurança contra a Fazenda Pública Distrital fixou que o precatório dos honorários contratuais observará a mesma natureza do crédito principal, não podendo ser pago na modalidade de RPV. No Tribunal a quo, a decisão foi reformada para que, de forma autônoma, seja realizado o pagamento dos honorários advocatícios contratuais via RPV.
+II - A Corte de origem, ao permitir o pagamento dos honorários advocatícios contratuais por RPV, consignou que: "Ao conceder a liminar pleiteada, segui orientação do c. Superior Tribunal de Justiça, no sentido de que os honorários constituem direito autônomo do causídico, que terá a faculdade de optar por executá-los nos próprios autos ou em ação autônoma, seguindo rito distinto do crédito principal. (..) Frise-se, portanto, que, nos termos dos precedentes do e. Superior Tribunal de Justiça, a possibilidade de execução autônoma por parte do causídico não se restringe aos honorários de sucumbência, mas aos de qualquer espécie, incluindo-se os contratuais."
+III - A Primeira Seção, em julgamento pelo rito dos recursos repetitivos, decidiu pela autonomia dos honorários em relação ao crédito principal, inclusive no que refere à forma de expedição do requisitório (REsp 1.347.736/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Primeira Seção, julgado em 9/10/2013, DJe 15/4/2014).
+IV - Os honorários contratuais, todavia, como não decorrem da condenação, não podem ser objeto de RPV, tendo-se em conta o regime estabelecido no artigo 100 da Constituição Federal.
+V - Quanto a essa espécie de honorários, assegura-se ao advogado a possibilidade de requerer a sua reserva, mediante a juntada do contrato de prestação de serviços aos autos, antes da expedição do mandado de levantamento ou do precatório, se não houver litígio já instalado a esse propósito entre o patrono e seu cliente. Ver, a propósito, os seguintes precedentes: (AgInt no AgRg no REsp 1282125/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/10/2016, DJe 24/10/2016 , AgInt no REsp 1605280/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/9/2016, DJe 14/10/2016, AgRg nos EDcl nos EDcl no REsp 1.464.842/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/8/2015, DJe 3/9/2015, AgRg no AREsp 447.744/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/3/2014, DJe 27/3/2014 e AgRg no AREsp 408.178/RS, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/11/2013, DJe 27/11/2013).
+VI - Recurso Especial provido.
+(REsp n. 1.759.784/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2023, DJe de 19/5/2023.)
+PROCESSUAL CIVIL. DESTAQUE DOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. REQUISIÇÃO MEDIANTE JUNTADA DO CONTRATO ANTES DA EXPEDIÇÃO DO PRECATÓRIO OU RPV. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. Assentou a jurisprudência do STJ que "é possível o destaque dos honorários contratuais em favor dos advogados mediante a juntada, antes da expedição do precatório, do contrato de prestação de serviços profissionais, nos termos do art. 22, § 4º, da Lei n. 8.906/1994, mas não a expedição autônoma de requisição de pequeno valor ou precatório. Nesses casos, deve ser levado em consideração o crédito pertencente ao autor para fins de classificação do requisitório, porquanto os honorários contratuais não decorrem da condenação em si" (AgRg no AgRg no REsp 1.494.498/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21.9.2015). Esse entendimento foi adotado pelas duas Turmas integrantes da Primeira Seção do STJ ao apreciar idêntica controvérsia recentemente.
+2. Todavia, no caso em apreço, não há informação de que houve juntada do contrato de prestação de serviços advocatícios antes da expedição do precatório ou RPV. Desse modo, é necessário revolver matéria de fato para rever as conclusões colacionadas no acórdão recorrido, inviabilizado à luz dos ditames da Súmula 7/STJ.
+3. Os fatos são aqui recebidos como estabelecidos pelo Tribunal a quo, senhor da análise probatória. E, se o exame da violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.192.954/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+Registre-se, por oportuno, que a possibilidade de expedição de precatório pelo total do valor, antes da habilitação dos herdeiros, por força do disposto na Resolução Resolução 458/2017, alterada pela Resolução 670/2020, não foi objeto de debate na instância ordinária, faltando, para análise de tal tese, o necessário requisito do prequestionamento.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
