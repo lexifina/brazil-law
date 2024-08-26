@@ -1,0 +1,33 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 1ª Região no julgamento de Apelação, assim ementado (fls. 143/144e):
+CONSTITUCIONAL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APLICAÇÃO DOS NOVOSTETOS ESTABELECIDOS PELAS EMENDAS CONSTITUCIONAIS 20/98 E 41/2003. BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À EC 20/98. POSSIBILIDADE. JURISPRUDÊNCIA DO PLENÁRIO DO STF EM SEDE DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. JUROS DE MORA. CORREÇÃO MONETÁRIA.
+1. A tese de que deve haver a aplicação da decadência do direito à revisão do benefício da parte autora, na forma do art. 103 da Lei 8.213/91, não merece prosperar, já que o presente processo não envolve revisão do ato de concessão de benefício, mas adequação do valor do benefício previdenciário aos tetos estabelecidos pelas Emendas Constitucionais n.º 20/1998 e n.º 41/2003 (Enunciado n/º 66 das Turmas Recursais do Rio de Janeiro).
+2. No julgamento do RE n. 564.354/SE, o pleno do egrégio Supremo Tribunal Federal (Relatora Min. Carmem Lúcia, julgamento 08/09/2010), decidiu no sentido de se aplicar as alterações proclamadas pela EC 20/98 e pela EC 41/2003, no tocante à fixação dos novos valores para os tetos dos benefícios previdenciários, aos benefícios concedidos em datas anteriores àquela primeira emenda constitucional.
+3. "Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n.20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados ao teto do regime geral de previdência, estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional." (STF, RE 564.354 RG/SE).
+4. "A partir do julgamento do RE n. 193.456-5/RS, as turmas do STF, bem como o STJ, referindo-se à decisão plenária da Corte Suprema, passaram a decidir reiteradamente pela propriedade da imposição do teto previdenciário previsto nos artigos 29, § 2º, e art. 33 da Lei 8.213/91, ao qual se refere o art. 26 da Lei 8.870/94." (1ª Seção, AR 2004.01.00.047291-7/MG, Rel. Juiz Federal Convocado Miguel Angelo de Alvarenga Lopes, eDJF1 de 23.11.2009, p. 47).
+5. Titulares de benefícios previdenciários que tiveram a renda mensal inicial limitada ao teto à época da concessão fazem jus à aplicação dos novos limites, a partir da entrada em vigor das EC"s 20 e 41, sendo certo que a adequação da renda mensal aos novos tetos aplica-se inclusive aos benefícios concedidos durante a época conhecida como "buraco negro". Precedentes (AC0002082-22.2013.4.01.3803 / MG, Rel. DESEMBARGADOR FEDERAL CARLOS AUGUSTO PIRES BRANDÃO, PRIMEIRA TURMA, e-DJF1 p.1186 de 05/02/2016)"
+6. In casu, o benefício da parte autora extrapola o teto devido na ocasião da sua concessão, ou com a revisão devida àqueles benefícios concedidos na vigência do período denominado "buraco negro", conforme prova dos autos.
+7. Os honorários advocatícios devem ser majorados para 12% (doze por cento) sobre o valor das parcelas vencidas até a prolação da sentença, em razão do disposto no art. 85, § 11º do CPC, e tendo em vista o trabalho adicional realizado em grau recursal.
+8. Os juros e a correção monetária devem incidir nos termos do Manual de Cálculos da JustiçaFederal.
+9. Apelação do INSS desprovida
+Opostos embargos de declaração, foram rejeitados (fls. 172/180e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 1.022, III, do Código de Processo Civil, alegando-se, em síntese, erro material no acórdão que teria analisado questão diversa daquela tratada nos autos.
+Com contrarrazões (fls. 441/450e), o recurso foi admitido (fls. 455/456e).
+Feito breve relato, decido.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+O Recorrente sustenta a existência de erro material no acórdão recorrido, não sanada no julgamento dos embargos de declaração, relativamente à matéria em debate nos autos.
+No caso, assiste razão à parte Recorrente.
+De fato, a ação foi ajuizada objetivando a revisão do benefício de aposentadoria, com aplicação da regra prevista no art. 29, I,da Lei n. 8.213/1991, em prejuízo da regra de transição instituída pelo art. 3º, da Lei n. 9.876/1999. Contudo, o acórdão recorrido limita-se a analisar a pertinência da revisão fundamentamentada nos valores de teto fixdados pelas EC 20/1998 e 20/2003.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do novo Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+3. Embargos de declaração rejeitados.
+(EDcl no RE nos EDcl no AgRg no CC 114.435/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 04/05/2016, DJe 20/05/2016).
+Entendo haver erro material no julgado, não sanado no julgamento dos embargos de declaração, uma vez que o tribunal de origem deixou de analisar a controvérsia discutida nos autos, analisando matéria estrada à discussão apresentada em juízo.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que seja sanado o vício apontado.
+Publique-se e intimem-se.
+EMENTA
