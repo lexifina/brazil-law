@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo manejado por Arlete Elaine Barros e outro contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 172):
+AÇÃO DE REINTEGRAÇÃO DE POSSE. LOTEAMENTO. ÁREA PÚBLICA. Imóvel destinado ao Sistema de Lazer do loteamento "Jardim Natália", transferido ao domínio do Município de Jundiaí por força da Lei nº 6.766/1979. Estrutura de alvenaria e madeira erigida de modo contíguo à residência da parte ré.
+Contestação e pedido reconvencional de usucapião da área. Intempestividade reconhecida na origem. Efeitos da revelia. R. sentença de procedência do pedido de reintegração de posse e demolição da estrutura erigida no local. Extinção da reconvenção, sem resolução de mérito, com fulcro no art. 485, I, do CPC/2015, em virtude da intempestividade.
+PRELIMINARES. Ilegitimidade ativa. Litisconsórcio passivo necessário. Afastamento. Descabimento do pedido de denunciação da lide.
+MÉRITO. Ocupação de bem público por particular. Mera detenção que não gera quaisquer direitos aos invasores. Área transferida ao domínio do Poder Público, inalienável, impenhorável, imprescritível e não suscetível de usucapião. Esbulho possessório de bem público demonstrado na espécie. Precedentes.
+Reintegração de posse, demolição da construção erigida e desocupação total da área. Manutenção da r. sentença.
+Majoração dos honorários em grau recursal. Inteligência do art. 85, §11, do CPC/2015. Observação nesse sentido.
+RECURSO DE APELAÇÃO DESPROVIDO, com observação.
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos de lei:
+(I) art. 213, § 1º, da Lei n. 12.105/2014 ao argumento de que deve ser admitida a usucapião em defesa, ressaltando que o "momento é irrelevante, diante da questão de ordem pública." (fl. 195);
+(II) arts. 1.208 e 1.210 do CC pois a área objeto da demanda é ocupada pela agravante e sua família "há pelo menos 30 anos" (fl. 197) sabendo que pertencia a particular e, por isso "cercaram e edificaram nas terras, sem qualquer oposição de qualquer interessado." (fl. 197 );
+(III) art. 1.228 do CC porquanto a edilidade não é proprietária da área ocupada pela parte agravante, mas, diversamente, "a propriedade restou mantida em favor da personalidade jurídica de "Gaúcha - Empreendimentos e Participações Ltda"" (fl. 197), de modo que o Município agravado não detém legitimidade ativa para a propositura da ação de reintegração de posse.
+Apontou, ainda, ofensa aos arts. 183, § 3º, e 191 da CF e à Súmula 237/STF, a fim de sustentar a pretensão de reconhecimento da usucapião.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 183, § 3º, e 191 da Constituição Federal.
+No que se refere à alegada infringência à Súmula 237/STF, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF. Nesse sentido, sobressaem os seguintes precedentes: AgInt no REsp 1.889.960/MG, Rel. Herman Benjamin, Segunda Turma, DJe 1º/3/2021; AgInt no REsp 1.869.620/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 31/8/2020.
+A matéria pertinente ao art. 213, § 1º, da Lei n. 12.105/2014 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Quanto à alegada ilegitimidade do Município agravado, colhem-se do acórdão recorrido os seguintes fundamentos (fls. 175/179):
+Dos documentos acostados à inicial, notadamente a matrícula nº 74.496, do 1º Oficial de Registro de Imóveis da Comarca de Jundiaí (fl. 20), observa-se que o imóvel discutido nesta ação se trata de "SISTEMA DE LAZER do loteamento denominado "JardimNatália"", de propriedade da loteadora Gaúcha Empreendimentos e Participações S/C Ltda., cujo domínio foi transmitido à Prefeitura Municipal de Jundiaí em 23.07.2001, em cumprimento da Lei nº 6.766/1979 (que dispõe sobre o parcelamento do solo urbano).
+Consoante os dispositivos da Lei nº 6.766/1979, as áreas públicas do loteamento passam ao domínio do Município desde a data do registro do loteamento:
+ ..
+Na obra "Tratado de Direito Municipal", abalizados doutrinadores esclarecem sobre o concurso voluntário, estabelecido no art. 22 da Lei nº 7.66/1979, acima transcrito, como forma de aquisição de propriedade pelo Poder Público. As áreas transferidas ao domínio do Município passam a ser bens públicos, gozando de inalienabilidade, impenhorabilidade, imprescritibilidade e, por consequência, não suscetibilidade à usucapião:
+ ..
+Pacífico é o entendimento do E. Superior Tribunal de Justiça, no sentido de que, independentemente de título aquisitivo e transmissivo, incorporam-se ao domínio do Município as áreas destinadas ao uso comum, sendo suficiente a aprovação do loteamento. A exemplo:
+ ..
+Destarte, o caráter público da área objeto da matrícula nº 74.496 do 1º ORIC de Jundiaí foi devidamente comprovado nos autos por aquela Municipalidade, beneficiada pela transferência do domínio do imóvel em seu favor.
+Em se tratando de área indubitavelmente pública, verifica-se estar bem evidenciado o interesse do Município em relação ao pedido de desocupação da área e demolição das construções erigidas no local. Ao contrário do que defende o réu, descabe cogitar de ilegitimidade ativa do Município de Jundiaí, na espécie, tampouco de denunciação da lide à empresa Gaúcha Empreendimentos e Participações S/C Ltda..
+Por sua vez, o § 2º do art.10 do CPC/2015 estabelece a indispensabilidade do ato citatório do cônjuge, nas ações possessórias, nos casos de composse ou de ato praticado por ambos, situações não observadas na espécie, uma vez que os invasores da área pública figuram como meros detentores em face do Município.
+Por sua vez, o pleito de reconhecimento da usucapião foi rechaçado nestes termos (fls. 179/182):
+Com efeito, o próprio réu admite ter construído na área discutida nesta ação, de domínio público. E, nos termos do entendimento do E. Superior Tribunal de Justiça, a ocupação de área pública sem autorização expressa e legítima do titular do domínio constitui mera detenção (REsp 998.409DF, Terceira Turma, DJe 03.11.2009).
+Por oportuno, saliento que a Corte Especial do E. STJ aprovou, em outubro de 2018, o verbete de Súmula nº 619, segundo o qual, "a ocupação indevida de bem público configura mera detenção, de natureza precária, insuscetível de retenção ou indenização por acessões e benfeitorias".
+ ..
+Ainda que o réu e sua família tenham ocupado a área pública de boa-fé, de forma mansa e pacífica, ao menos desde 2003, esta circunstância não autoriza a concessão de usucapião das terras, porquanto se trata de área de domínio público, não passível de gerar direitos possessórios em favor de particulares.
+É pacífico perante a doutrina e jurisprudência que o imóvel público não é passível de apossamento por particular, excetuada a hipótese de existência de título legitimamente outorgado pelo respectivo ente Público, o que não é o caso dos autos.
+Verifica-se que a instância a quo, com base nos elementos probatórios, concluiu que a área ocupada pela parte agravante se caracteriza como área pública de propriedade do Município de Jundiaí, ficando patente, por isso, a legitimidade ativa para a propositura da ação de reintegração de posse e a impossibilidade de aquisição por meio de usucapião. Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. SUFICIÊNCIA NA FUNDAMENTAÇÃO. LEGITIMIDADE PASSIVA CARACTERIZADA. CONCLUSÃO PAUTADA EM FATOS E PROVAS. REVISÃO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça, ao apreciar a Questão de Ordem no Ag 1.154.599/SP (Rel. Ministro Cesar Asfor Rocha, DJe 12/5/2011), firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC". Dessa forma, qualquer contestação de tese embasada em recurso repetitivo, como no caso examinado, deve ser alinhavada por meio da interposição de agravo interno na instância de origem, o que não ocorreu na espécie.
+2. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da parte recorrente.
+3. Relativamente à alegada ofensa aos arts. 17 e 485 do CPC/2015, verifica-se das argumentações recursais que a parte recorrente não indicou de que forma o acórdão recorrido teria contrariado esse dispositivo, apresentando-se a fundamentação do recurso, no ponto, de forma genérica, a ensejar a incidência da Súmula 284/STF.
+4. Para derruir a convicção formada quanto à legitimidade ad causam da ora agravante (a qual participou ativa e diretamente do empreendimento imobiliário), seriam indispensáveis a interpretação de cláusulas contratuais e o reexame de fatos e provas, procedimentos defesos na via eleita, em razão dos óbices contidos nos enunciados n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+5. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime, devendo ser aferida a sua incidência caso a caso.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.427.578/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. NOVA ANÁLISE. SÚMULA N. 283 DO STF. USUCAPIÃO. BEM IMÓVEL. REQUISITOS NÃO COMPROVADOS. REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do julgado acarreta a incidência da Súmula n. 283 do STF.
+2. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, não ter sido comprovada a posse do imóvel pelo tempo exigido em lei para a prescrição aquisitiva, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+3. O não conhecimento de pedido contraposto não enseja o pagamento de honorários em favor do autor, por ausência de previsão legal, visto não estar entre as hipóteses descritas no art. 85, § 1º, do CPC.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.495.412/SC, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. ILEGITIMIDADE PASSIVA. SÚMULA 7/STJ. IMPROVIMENTO.
+1.- A convicção a que chegou o Tribunal a quo quanto à legitimidade passiva decorreu da análise do conjunto probatório. O acolhimento da pretensão recursal demandaria o reexame do mencionado suporte.
+Incide nesse ponto a Súmula STJ/7.
+2.- Agravo Regimental improvido.
+(AgRg no REsp n. 1.429.709/PI, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 19/8/2014, DJe de 2/9/2014.)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
