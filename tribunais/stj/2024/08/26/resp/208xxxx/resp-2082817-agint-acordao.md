@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PENHORA DO IMÓVEL. EXISTÊNCIA DE CONTRATO DE FIANÇA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOEL ALVES contra a decisão mediante a qual neguei provimento a seu recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+Agravo de instrumento. Ação de despejo por falta de pagamento c. c. cobrança. Contrato de locação não residencial. Cumprimento de sentença. Penhora do imóvel. Impugnação à penhora. Alegação de impenhorabilidade por se tratar de bem de família. Rejeitada a tese formulada pelo(a) devedor(a) em razão da argüição da impenhorabilidade do imóvel. Fiador(a). Decisão mantida. Não há o que tirar ou acrescentar à fundamentação do que foi decidido quanto ao inconformismo do(a) agravante com a r. decisão agravada que não acolheu a impugnação à penhora na demanda em discussão e consequentemente sua tese de impenhorabilidade do bem de família, bem como condenou o executado por litigância de má-fé ao pagamento de multa no percentual de um por cento (1%) sobre o valor da dívida atualizada. Neste sentido, há precedente desta 30ª Câmara, Apelação Cível n.º 1012057-82.2019.8.26.0320, sob minha relatoria: "Apelação - Embargos à execução - Contrato de locação - Fiadora que é solidariamente responsável pela dívida do afiançado" - Nos casos de fiança prestada em locação, seja residencial ou não, aplica-se o art. 3º, inciso VII, da Lei 8.009, de 29 de março de 1990, com a redação dada pela Lei 8.245, de 18 de outubro de 1991, para possibilitar a penhora do bem de família, dispositivo esse não revogado com a redação dada ao art. 6º da Constituição da República pela Emenda Constitucional n.º 26 de 14 de fevereiro de 2000 De acordo com a Súmula 549 do STJ: "É válida a penhora de bem de família pertencente a fiador de contrato de locação" Além disso, a decisão emanada da 1ª Turma da Corte Superior não tem natureza vinculante, porque o Recurso Extraordinário n.º 605.709 não foi afetado à sistemática dos recursos repetitivos. Neste sentido: "AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - CUMPRIMENTO DE SENTENÇA - PENHORA DO IMÓVEL DE FIADOR EM LOCAÇÃO COMERCIAL - Alegação de impenhorabilidade do bem de família que não se sustenta - Possibilidade prevista pelo art. 3º, inciso VII, da Lei nº 8.009/90 - Súmula 549 do STJ - Entendimento do Supremo Tribunal Federal de que a excepcionalidade da proteção do bem de família é constitucional (RE nº 407.688/AC) - Ausência de fato novo a justificar a revisitação do tema quanto à possiblidade de penhora de bem de família de fiador de contrato de locação comercial - Notícia de decisão isolada do Supremo Tribunal Federal, sem vinculatividade, que considerou peculiaridades do caso, e que, assim, não tem o condão de afastar as conclusões tomadas em sede de anterior recurso extraordinário com repercussão geral - Precedente deste Tribunal - Negado provimento" (agravo de instrumento n.º2170515-10.2018.8.26.0000, julgado em 05 de setembro de 2018 pela Colenda 25ª Câmara de Direito Privado desta Corte, por votação unânime. Relator Desembargador Hugo Crepaldi).
+O agravante entende ser inaplicável ao caso o que decidido no Tema 708. Argumenta não se insurgir contra a penhora de bem de família do fiador, pois não se trata de penhorabilidade de bem do garantidor, dado que a situação não é sequer de fiança. Aduz que o bem de família em questão é do próprio locatário, ao qual se deve aplicar a proteção do art. 1º da Lei 8.009/90.
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PENHORA DO IMÓVEL. EXISTÊNCIA DE CONTRATO DE FIANÇA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+O agravo não prospera.
+Com efeito, segundo consta do acórdão recorrido, integrado por acórdão proferido em embargos de declaração, segundo consta do acórdão recorrido, foi penhorado o imóvel do fiador. Confira-se:
+Com efeito, o artigo 3º, inciso VII, da Lei nº. 8.009/90, excepciona, de modo expresso, a impenhorabilidade do bem de família, quando a dívida se tratar de obrigação decorrente de fiança concedida em contrato de locação. Nesse sentido, o Colendo Superior Tribunal de Justiça editou a Súmula nº 549, que dispõe que É válida a penhora de bem de família pertencente a fiador de contrato de locação.(..)
+O agravante alega impenhorabilidade do bem de família.
+Todavia, a fiança só se extingue, num contrato prorrogado por prazo indeterminado, se o fiador desvincular-se da responsabilidade por meio de notificação prévia.(..)
+A exceção estabelecida com relação aos prestadores de fiança não pode ser vista como afronta à determinação constitucional, uma vez que ninguém está obrigado a prestar tal garantia e somente o faz por liberalidade.
+Assim, não se pode admitir que o (a) fiador (a) utilize-se do bem que possui para garantir a celebração do contrato e, posteriormente, diante da inadimplência, alegue sua impenhorabilidade.
+Instado a se manifestar em embargos de declaração, o Tribunal de origem confirmou que estava sendo penhorado o imóvel do fiador. A alegação de que o bem não é do fiador, mas do próprio locatário, não dispensa o reexame de prova, pois somente com ela seria possível questionar a premissa do acórdão recorrido de que o imóvel penhorado era do fiador. Aplica-se ao caso a Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
