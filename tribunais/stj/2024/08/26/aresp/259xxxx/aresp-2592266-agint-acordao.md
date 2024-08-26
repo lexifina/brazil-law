@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+$ ementa
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ALEXANDRE FONSECA SANDÓLIA contra decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, presidente desta Corte, por meio da qual não conheceu do agravo em recurso especial, ao aplicar a Súmula n. 182 do STJ, em virtude da ausência de impugnação específica dos seguintes fundamentos da decisão de admissibilidade do recurso especial: incidência, por analogia, da Súmula n. 284/STF, e deficiência de cotejo analítico quanto à divergência jurisprudencial (fls. 427-428).
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 321):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA. PRELIMINAR SUSCITADA -VIOLAÇÃO DO INCISO III, DO ARTIGO 1.016, DO CPC/2015 -NÃO CONHECIMENTO DO RECURSO. -Consiste em pressuposto de admissibilidade a motivação do recurso, sendo imprescindível que este contenha a impugnação específica da decisão hostilizada, sendo apresentados erros in procedendo ou in iudicando, bem como os fundamentos de fato e de direito com a qual o recorrente sustenta sua insurgência contra o ato judicial proferido, sob pena de seu não conhecimento.
+Embargos de declaração rejeitados (fls. 354-358).
+No presente agravo interno, alega o agravante que é improcedente o fundamento da decisão agravada de que deixou de impugnar os óbices de inadmissão do recurso especial aplicados na decisão que inadmitiu o referido recurso, porquanto demonstrou que não há discussão sobre os fatos e as provas , ao tempo que reitera as razões recursais de ofensa aos artigos de lei apontados por violados no recurso especial.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, apresentou contrarrazões (fls. 451-455).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, o Tribunal de origem inadmitiu o recurso especial por entender pela ausência de impugnação específica dos seguintes fundamentos da decisão de admissibilidade do recurso especial, a impedir o prosseguimento do feito: incidência, por analogia, da Súmula n. 284/STF, e deficiência de cotejo analítico quanto à divergência jurisprudencial. Verifica-se que no agravo em recurso especial não houve impugnação dos referidos fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não merece prosperar o recurso
+Com efeito, no caso dos autos, o Tribunal de origem inadmitiu o recurso especial por entender pela incidência dos seguintes óbices a impedir o prosseguimento do feito: incidência, por analogia, da Súmula n. 284/STF, e deficiência de cotejo analítico quanto à divergência jurisprudencial.
+Conforme relatado, por meio da decisão agravada, o agravo em recurso especial não foi conhecido, considerando que, do simples cotejo entre o decidido e as razões do referido agravo, é possível verificar que a parte agravante deixou de impugnar os referidos fundamentos.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Nesse sentido, confira-se julgado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DO ENUNCIADO N. 182/STJ. HABEAS CORPUS EX OFFICIO. TRÁFICO. PENA RECLUSIVA DE 5 (CINCO) ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PRIMARIEDADE RECONHECIDA. REGIME INICIAL SEMIABERTO. ART. 33, § 2.º, ALÍNEA B, E § 3.º, DO CÓDIGO PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO.
+1. Ausente a impugnação concreta aos fundamentos utilizados pela decisão agravada, que não conheceu do recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Nos termos de reiteradas manifestações desta Corte, " a  não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é suficiente a assertiva de que todos os requisitos foram preenchidos ou a insistência no mérito da controvérsia". (AgRg no AREsp 1.547.953/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/09/2019, DJe 04/10/2019.).
+ ..  (AgRg no AREsp n. 2.016.016/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 6/5/2022.)
+Ademais, a jurisprudência desta Corte Superior é iterativa no sentido de que alegações genéricas não são suficientes para impugnar a decisão.
+A propósito, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. PREPARO. SÚMULA 187/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NAS RAZÕES RECURSAIS. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 1.021, § 1º, DO CPC E ART. 259, § 2º, DO RISTJ. AGRAVO INTERNO NÃO CONHECIDO.
+ ..
+2. O artigo 1.021, § 1º, do CPC/2015 e o art. 259, § 2º, do RISTJ determinam que, na petição de agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada, o que não foi observado no presente caso.
+3. Ressalte-se que o princípio da dialeticidade impõe à parte recorrente, sob pena do não conhecimento do seu recurso, o ônus de explicitar os motivos específicos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente tecer alegações genéricas de não aplicabilidade dos óbices invocados ou repetir o teor do apelo nobre.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.813.746/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022 - g.n.)
+Outrossim, é firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, cito: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Fr ancisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
