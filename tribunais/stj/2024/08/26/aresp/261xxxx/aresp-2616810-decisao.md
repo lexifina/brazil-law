@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por Sandwandy Soares Silva Correia contra decisão que não admitiu seu recurso especial, este, por sua vez, manejado com fundamento no art. 105, inciso III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 278):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. REGULAR CONSTITUIÇÃO EM MORA DA PARTE DEVEDORA. NÃO RECONHECIDA, NA AÇÃO REVISIONAL, A COBRANÇA DE ENCARGO ABUSIVO NO PERÍODO DA NORMALIDADE CONTRATUAL. PROCEDÊNCIA DO PEDIDO FORMULADO NA AÇÃO DE BUSCA E APREENSÃO. RECURSO IMPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 284-305), o agravante alegou, além do dissídio jurisprudencial, violação aos arts. 6º, III, 39, I, 46, 51, § 1º, e 52 do Código de Defesa do Consumidor; e 396 do Código Civil, sob o argumento de que há abusividade na cobrança de encargo em período de normalidade contratual.
+Sustentou o insurgente que, no contrato de financiamento entabulado, houve a prática de capitalização diária, sem a prévia menção no instrumento contratual acerca da taxa pactuada, o que caracteriza ofensa ao direito de informação do consumidor.
+Prosseguiu defendendo que a presença de taxas mensal e anual não autoriza a cobrança de capitalização diária, sendo inaplicável a tese do duodécuplo adotada pelo aresto recorrido. Diante disso, aduziu a abusividade da cobrança retromencionada, descaracterizando a mora da parte recorrente.
+Contrarrazões às fls. 343-352 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte local (e-STJ, fls. 355-358), levando o insurgente a interpor o presente agravo.
+Brevemente relatado, decido.
+Superada a análise quanto aos requisitos de admissibilidade do agravo, impende registrar que o recurso especial não merece conhecimento.
+O Tribunal de Justiça do Estado do Rio Grande do Sul, ao dirimir a controvérsia, assim fundamentou (e-STJ, fls. 276-277):
+ ..
+Encontram-se preenchidos os requisitos extrínsecos e intrínsecos de admissibilidade do recurso interposto, razão pela qual o recebo.
+A concessão da liminar de busca e apreensão de bem alienado fiduciariamente tem previsão no art. 3º do Decreto-Lei nº 911/69, cuja constitucionalidade foi reconhecida pelas Cortes Superiores (REsp 986.517/RS, DJe 20/05/2010), desde que inequivocamente preenchidos os requisitos legais.
+Nesse contexto, a comprovação da mora é imprescindível (Súmula 72 do STJ) e poderá ser realizada por carta registrada encaminhada ao endereço do domicílio do devedor, revelando-se, por outro lado, dispensável a notificação pessoal (AgInt no REsp 1828198/RS, DJe24/10/2019) e menção acerca do valor do débito (Súmula 245 do STJ).
+Além disso, conforme nova redação do § 2º do art. 2º do Decreto-Lei n. 911/69, o ato não precisa ser efetivado por intermédio de Cartório de Títulos e Documentos ou pelo Protesto do Título; entretanto, caso realizado de tal forma, o fato de ter sido por Comarca diversa daquela do domicílio do devedor não interfere em sua legalidade (REsp 1184570/MG, DJe 15/05/2012).
+Cabe ressaltar, ainda, a recente tese desenvolvida pelo Superior Tribunal de Justiça no julgamento do Recurso Especial Repetitivo n. 1951888/RS, no sentido de que é suficiente o envio de notificação extrajudicial ao endereço indicado no contrato:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOSRECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE. 1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, §2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se aprova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. (..). (REsp n.1.951.888/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023,DJe de 20/10/2023.)
+No caso concreto, foi observado o regramento, conforme se verifica dos documentos anexados ao evento 1, item 06, do processo principal.
+Além disso, na ação revisional (5019832-17.2020.8.21.0019), não houve o reconhecimento de abusividade nos encargos da normalidade contratual. Por conseguinte, havendo regular comprovação da mora e inexistindo abusividade nos encargos da normalidade contratual, impende a manutenção da decisão proferida na origem.
+Diante do exposto, voto no sentido de negar provimento ao recurso. Majora-se averba honorária arbitrada na origem para 13% do valor atualizado da causa, nos termos do §11 do art. 85 do CPC, observada a gratuidade de justiça ora concedida.
+Pela leitura do acórdão recorrido, verifica-se que não houve debate quanto à infringência ou não aos arts. 6º, III, 39, I, 46, 51, §1º, e 52 do Código de Defesa do Consumidor; e 396 do Código Civil. Quanto a esse ponto, denota-se que o colegiado estadual não emitiu nenhum juízo de valor sobre os dispositivos tidos por violados, tampouco a parte interessada opôs embargos declaratórios para suprimento da omissão.
+Diante desse contexto, constata-se a incidência, por analogia, das Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+Súmula 282.
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. AUSÊNCIA DE JUNTADA DO INSTRUMENTO CONTRATUAL. SÚMULAS 282 E 356/STF. ABUSIVIDADE DAS TARIFAS BANCÁRIAS. AFASTAMENTO. REEXAME. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. SÚMULA N. 83/STJ. SUCUMBÊNCIA. DISTRIBUIÇÃO. REEXAME. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+ ..
+5. Agravo interno provido para, em novo julgamento, negar provimento ao recurso especial.
+(AgInt no REsp n. 1.991.236/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 26/8/2022.)
+Lado outro, pela análise da fundamentação do aresto atacado, observa-se que, ao negar provimento à apelação, o TJRS asseverou que: i) na Ação Revisional n. 5019832-17.2020.8.21.0019, não houve o reconhecimento de abusividade nos encargos da normalidade contratual; ii) ocorreu a constituição da mora do recorrente, por meio de remessa de notificação extrajudicial ao endereço indicado no contrato.
+Como pode ser notado pela leitura das razões do apelo especial, estas não atacam, especificamente, os fundamentos adotados pelo colegiado estadual, sobretudo no que concerne à regularidade da constituição da mora e ao não reconhecimento, no processo 5019832-17.2020.8.21.0019, da abusividade nos encargos da normalidade contratual.
+Com efeito, nos termos da jurisprudência deste Superior Tribunal, não se conhece do recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o reclamo não abrange todos eles, incidindo, por analogia, o óbice da Súmula n. 283/STF.
+Em face de tais circunstâncias, fica prejudicada a análise da pretextada divergência jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALEGAÇÃO DE QUE OS ENCARGOS PREVISTOS PARA O PERÍODO DE NORMALIDADE SÃO ABUSIVOS. DESCARACTERIZAÇÃO DA MORA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS N. 282 E 356/STF. FUNDAMENTO AUTÔNOMO DO ACÓRDÃO, SUFICIENTE PARA SUA MANUTENÇÃO, NÃO IMPUGNADO NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 283/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
