@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por INSTITUTO DE EDUCAÇÃO, CULTURA E ENSINO SUPERIOR S.A. (atual denominação da ASSOCIAÇÃO EDUCACIONAL DO LITORA SANTISTA) contra a decisão que inadmitiu seu recurso especial interposto nos autos do Agravo de Instrumento nº 2203285-56.2018.8.26.0000.
+No apelo nobre, interposto com fundamento no artigo 105, inciso III, alínea "a", da Con stituição Federal, insurge-se a recorrente contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INDEFERIU OS PEDIDOS DE SUSPENSÃO E EXIGÊNCIA DE CAUÇÃO, ASSIM COMO DEIXOU CONSIGNADO QUE A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA NÃO DETERMINAVA O RETORNO DO CUMPRIMENTO DE SENTENÇA À FASE DO ARTIGO 523 DO CPC. NÃO SE JUSTIFICA A PRETENSÃO DE RETORNO À FASE DE LIQUIDAÇÃO OU AO INÍCIO DO CUMPRIMENTO DE SENTENÇA. SÓCIAS INSERIDAS NO POLO PASSIVO, ANTE A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, FORAM EFETIVAMENTE CIENTIFICADAS DE QUE, APÓS A CONFERÊNCIA, PELO CONTADOR, DO MONTANTE DEVIDO, SERIA ABERTA VISTA ÀS PARTES E INICIADA A FLUÊNCIA DO PRAZO, DE 15 DIAS, PARA O PAGAMENTO VOLUNTÁRIO E, EVENTUAL, DISCORDÂNCIA DEVERIA TER SIDO OBJETO DO RECURSO ADEQUADO NO MOMENTO OPORTUNO. EXECUÇÃO QUE NÃO PODE SER CONSIDERADA DEFINITIVA EM RELAÇÃO ÀS SÓCIAS, TENDO EM VISTA A AUSÊNCIA DE TRÂNSITO EM JULGADO DA DECISÃO QUE DESCONSIDEROU A PERSONALIDADE JURÍDICA, O QUE TORNA NECESSÁRIA A OBSERVÂNCIA, PELO JUIZO "A QUO", QUANDO APRECIAR EVENTUAL PEDIDO DE LEVANTAMENTO, DOS TERMOS DOS ARTIGOS 520, IV E 521 DO C Ó DIGO DE PROCESSO CIVIL. RECURSO PARCIALMENTE PROVIDO" (e-STJ fl. 4.537).
+Os embargos de declaração opostos pela ora agravante ao referido aresto foram rejeitados (e-STJ fls. 4.550/4.553).
+Nas razões do especial, a recorrente alega, preliminarmente, a violação do art. 489, § 1º, do Código de Processo Civil, ao fundamento de ser nulo o acórdão recorrido por ausência de suficiente fundamentação, em virtude de não ter a Corte local sanado contradição que teria sido apontada em seus embargos de declaração.
+No mérito, afirma, de forma genérica, terem sido ofendidos os arts. 203, §3º, 523, 525 e 1.001 do CPC, pugnando, ao final, por que lhe seja conferida a oportunidade de apresentar defesa quanto aos cálculos e critérios utilizados para liquidar o débito exequendo na já superada fase de liquidação, que foi concluída antes de sua inclusão no polo passivo do feito em virtude da desconsideração da personalidade jurídica da sociedade originalmente executada (REDE BRASILEIRA DE EDUCAÇÃO À DISTÂNCIA LTDA.).
+Sem as contrarrazões (e-STJ fl. 4.586), o recurso especial foi inadmitido na origem em exame de prelibação (e-STJ fl. , o que deu ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência, todavia, não merece prosperar.
+No tocante à alegada negativa de prestação jurisdicional (suposta violação do art. 489, §1º, do CPC), fato é que, ao contrário do que sustenta a recorrente, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por ela opostos às e-STJ fls. 4.542/4.547, haja vista inexistirem no julgado então embargado omissões, contradições ou obscuridades, ficando patente, em verdade, o evidente o intuito infringente daquela irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO NÃO VERIFICADA. CONCLUSÃO DO ACÓRDÃO PELA NÃO CONFIGURAÇÃO DOS DANOS MORAIS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+2. O Tribunal de origem não reconheceu a configuração dos danos morais decorrentes da matéria jornalística, ante a não verificação de ocorrência de violação do direito de personalidade. Nesse contexto, para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+3. Agravo interno improvido."
+(AgInt no AREsp nº 1.439.955/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/6/2019, DJe de 13/6/2019 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. OMISSÃO NO ACÓRDÃO DE ORIGEM. ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. LIMITES DO RISCO CONTRATADO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento".
+(AgInt no AREsp nº 1.374.504/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 11/06/2019, DJe de 14/6/2019 - grifou-se).
+Oportuno destacar que, não se confunde com deficiência de fundamentação do acórdão recorrido ou omissão da Corte local a mera adoção pelo referido colegiado de fundamentos com os quais não convergem as pretensões da parte recorrente. Afinal, o simples inconformismo do vencido não inaugura a via dos aclaratórios e tampouco configura vício de fundamentação da decisão por ele hostilizada.
+No tocante à alegação de ofensa aos arts. 203, §3º, 523, 525 e 1.001 do CPC, fato é que o recurso especial não merece nem sequer conhecimento.
+Isso porque, apesar de indicar como violados os referidos dispositivos legais, a recorrente se limita a tecer, nas razões do especial, considerações genéricas a respeito das conclusões esposadas pelo acórdão recorrido, sem indicar, de forma precisa e específica, os motivos pelos quais compreende ter a Corte local violado cada um dos mencionados artigos de lei.
+Tal proceder indica a deficiência da fundamentação recursal, o que, consoante a jurisprudência pacífica desta Corte Superior, atrai a incidência do óbice da Súmula nº 284/STF, aplicável ao recurso especial por analogia.
+A propósito:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OFENSA À LEI FEDERAL. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF. APLICAÇÃO POR ANALOGIA. VIOLAÇÃO AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INOCORRÊNCIA. PROVIMENTO JURISDICIONAL. RELAÇÃO JURÍDICO-TRIBUTÁRIA CONTINUATIVA. EFEITOS PROSPECTIVOS DESDE QUE MANTIDOS OS ESTADOS DE FATO E/OU DE DIREITO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+(..).
+VIII - Agravo Interno desprovido."
+(AgInt no REsp nº 1.874.328/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021).
+"PROCESSO PENAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 396-A DO CPP. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE FUNDAMENTAÇÃO JURÍDICA. SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL. INDICAÇÃO DE ACÓRDÃO PROFERIDO EM HABEAS CORPUS COMO PARADIGMA. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de recurso especial fundado na alínea a do permissivo constitucional exige, além da indicação do dispositivo de lei tido por violado, a demonstração dos motivos jurídicos da violação alegada, sob pena de incidência da Súmula n. 284 do STF.
+2. Acórdão proferido em habeas corpus, em mandado de segurança ou em recurso ordinário não serve de paradigma para a comprovação do dissídio jurisprudencial, ainda que se trate de dissídio notório, pois as referidas ações mandamentais e seus recursos não têm o mesmo objeto/natureza nem a mesma extensão material previstos para o recurso especial.
+3. Agravo regimental desprovido."
+(AgRg no REsp n. 1.843.257/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 1/12/2020, DJe de 7/12/2020.)
+Além disso, nenhum dos referidos dispositivos legais apontados nas razões do apelo nobre como malferidos possui comando normativo capaz de infirmar os bem lançados fundamentos do acórdão ora hostilizado.
+A simples leitura dos arts. 203, §3º, 523, 525 e 1.001 do CPC é suficiente para evidenciar que não guardam nenhuma pertinência com o que pretende a recorrente ver reconhecido na hipótese em exame: a possibilidade de que, após sua inclusão no polo passivo da execução em tela (em virtude da desconsideração da personalidade jurídica da sociedade executada originalmente), seja-lhe permitido reinaugurar discussões próprias da já superada fase de liquidação do débito exequendo.
+Inarredável, pois, também por este motivo, a aplicação da Súmula nº 284/STF ao caso em apreço.
+A propósito:
+"TRIBUTÁRIO. AMBIENTAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SOCIEDADE DE ECONOMIA MISTA. VALIDADE DO EXERCÍCIO DO PODER DE POLÍCIA. COMINAÇÃO DE MULTA. VIOLAÇÃO A NORMATIVOS FEDERAIS. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF.
+1. A indicação de preceito legal federal que não consigna em seu texto comando normativo apto a sustentar a tese recursal e a reformar o acórdão impugnado padece de fundamentação adequada, a ensejar o impeditivo da Súmula 284/STF.
+(..) 3. Agravo regimental não provido."
+(AgRg no AREsp nº 761.803/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/10/2015, DJe de 5/11/2015 - grifou-se).
+"ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MORTE DE DETENTO NAS DEPENDÊNCIAS DE PRESÍDIO. NEXO CAUSAL E REVISÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. DANOS MATERIAIS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PENSÃO. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF.
+(..) 4. É deficiente a fundamentação quando as normas indicadas como violadas não contém comandos normativos capazes de desconstituírem os fundamentos do acórdão recorrido, esbarrando, pois, no óbice da Súmula 284/STF.
+(..) 6. Agravo regimental não provido."
+(AgRg no AREsp nº 729.565/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/9/2015, DJe de 28/9/2015 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
