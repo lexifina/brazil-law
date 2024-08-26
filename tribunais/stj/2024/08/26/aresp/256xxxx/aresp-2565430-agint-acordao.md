@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. IMÓVEL VINCULADO AO SISTEMA FINANCEIRO DE HABITAÇÃO. SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PARTICULAR. CONSONÂNCIA DO ACÓRDÃO ESTADUAL COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento desta Corte é no sentido de que "O imóvel vinculado ao Sistema Financeiro de Habitação, porque afetado à prestação de serviço público, deve ser tratado como bem público, sendo, pois, imprescritível. Precedentes" (REsp 1.874.632/AL, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021).
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARI LEILA VARISCO contra decisão proferida por esta Relatoria (e-STJ, fls. 345/348), que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões do agravo interno (e-STJ, fls. 352/358), a agravante aduz que não há incidência das Súmulas 7 e 83/STJ no presente caso.
+Apresentada impugnação às fls. 361/366.
+É o relatório.
+EMENTA
+CIVIL . AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. IMÓVEL VINCULADO AO SISTEMA FINANCEIRO DE HABITAÇÃO. SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PARTICULAR. CONSONÂNCIA DO ACÓRDÃO ESTADUAL COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento desta Corte é no sentido de que "O imóvel vinculado ao Sistema Financeiro de Habitação, porque afetado à prestação de serviço público, deve ser tratado como bem público, sendo, pois, imprescritível. Precedentes" (REsp 1.874.632/AL, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021).
+2. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, porquanto não foram apresentados argumentos aptos a modificar a decisão vergastada.
+Conforme consignado na decisão agravada, o eg. Tribunal de Justiça decidiu que, em razão de o imóvel objeto da lide ser vinculado ao Sistema Financeiro de Habitação (SFH), não seria possível a sua aquisição por usucapião, como se depreende do seguinte trecho do acórdão:
+"Além disso, há outro óbice, referente à impossibilidade de o objeto ser usucapido, porque de caráter público. A rigor, as partes não discordam sobre a impossibilidade jurídica de usucapião de imóvel vinculado ao SFH e, portanto, com caráter público latu sensu. Apenas para não deixar o tema em aberto, destaco que, como alegado pela EMGEA, não há possibilidade de se usucapir um imóvel vinculado ao SFH, em face do preceito do art. 9º da Lei nº 5.741/71, tema sobre o qual já houve pronunciamento inclusive por parte do STF:
+(..)
+A documentação trazida aos autos esclarece suficientemente a vinculação da operação ao SFH. Mesmo no Contrato de Promessa de Compra e Venda (contrato de gaveta), há cláusula em que a cessionária declara expressamente conhecer as normas que regem o SFH, especialmente em relação à sub- rogação ou transferência de dívida hipotecária, e assume o compromisso de pagamento das prestações, respondendo por perdas e danos em caso de eventual atraso:
+(..)
+De fato, o mútuo envolveu recursos provenientes do Sistema Financeiro da Habitação (SFH), como demonstram os documentos acostados no ev. 1 e ev. 6 (matrícula do imóvel e termo de cessão).
+A EMGEA arrematou o imóvel em execução extrajudicial movida contra Lucir Giordani (mutuário original) em 04 de agosto de 2015, nos termos da carta de arrematação:
+(..)
+Portanto, o imóvel sempre esteve, no período aquisitivo apontado na inicial, vinculado ao SFH. Antes da arrematação, consistia garantia do SFH insuscetível de usucapião, ante o caráter público lato sensu.
+Após a arrematação pela EMGEA e antes de sua destinação a terceiros (compradores), manteve o caráter público / estatal, enquanto de propriedade da EMGEA, uma empresa pública federal cujo capital pertence inteiramente à União, não se tratando de uma empresa privada ou mesmo de uma empresa pública exercente de atividade econômica privada em regime de igualdade de competição com bancos privados. Ainda que assim não se entendesse, fato é que a hipoteca só foi baixada em 2018 (av. 18);
+logo, até tal ano, o imóvel constava na matrícula como vinculado ao SFH, com caráter erga omnes, não podendo terceiros alegarem desconhecimento, especialmente a requerente, que pelo próprio contrato de gaveta por si firmado tinha inequívoco conhecimento de tal condição.
+Somente com a sua aquisição por particulares é que o imóvel perde o caráter público e se sujeita a poder ser objeto de usucapião. A aquisição, contudo, não é possível, ante o curto prazo decorrido e a oposição expressa dos adquirentes (ev. 47).(e-STJ, fls. 195/196)
+Reitera-se que o entendimento da Corte de origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que "não é possível adquirir, por usucapião, imóveis vinculados ao SFH, em virtude do caráter público dos serviços prestado pela Caixa Econômica Federal na implementação da política nacional de habitação" (AgInt no REsp 1.700.681/AL, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/9/2019, DJe de 4/10/2019). A propósito:
+"RECURSO ESPECIAL. CIVIL. USUCAPIÃO DE BEM PÚBLICO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. COLISÃO DE PRINCÍPIOS FUNDAMENTAIS. DIREITO À MORADIA E SUPREMACIA DO INTERESSE PÚBLICO SOBRE O PARTICULAR. IMÓVEL ABANDONADO. PRESCRIÇÃO AQUISITIVA. IMPOSSIBILIDADE.
+1- Recurso especial interposto em 12/7/2019 e concluso ao gabinete em 19/8/2020.
+2- Na origem, cuida-se de embargos de terceiro, opostos pelos ora recorrentes, por meio do qual pretendem a manutenção na posse do imóvel público objeto da lide, ao argumento de ocorrência de usucapião.
+3- O propósito recursal consiste em dizer se seria possível reconhecer a prescrição aquisitiva de imóveis financiados pelo SFH, quando ocorre o abandono da construção pela CEF.
+4- Regra geral, doutrina e jurisprudência, seguindo o disposto no parágrafo 3º do art. 183 e no parágrafo único do art. 191 da Constituição Federal de 1988, bem como no art. 102 do Código Civil e no enunciado da Súmula nº 340 do Supremo Tribunal Federal, entendem pela absoluta impossibilidade de usucapião de bens públicos.
+5- O imóvel vinculado ao Sistema Financeiro de Habitação, porque afetado à prestação de serviço público, deve ser tratado como bem público, sendo, pois, imprescritível. Precedentes.
+6- Na eventual colisão de direitos fundamentais, como o de moradia e o da supremacia do interesse público, deve prevalecer, em regra, este último, norteador do sistema jurídico brasileiro, porquanto a prevalência dos direitos da coletividade sobre os interesses particulares é pressuposto lógico de qualquer ordem social estável.
+7- Mesmo o eventual abandono de imóvel público não possui o condão de alterar a natureza jurídica que o permeia, pois não é possível confundir a usucapião de bem público com a responsabilidade da Administração pelo abandono de bem público. Com efeito, regra geral, o bem público é indisponível.
+8- Na hipótese dos autos, é possível depreender que o imóvel foi adquirido com recursos públicos pertencentes ao Sistema Financeiro Habitacional, com capital 100% (cem por cento) público, destinado à resolução do problema habitacional no país, não sendo admitida, portanto, a prescrição aquisitiva.
+9- Eventual inércia dos gestores públicos, ao longo do tempo, não pode servir de justificativa para perpetuar a ocupação ilícita de área pública, sob pena de se chancelar ilegais situações de invasão de terras.
+10- Não se pode olvidar, ainda, que os imóveis públicos, mesmo desocupados, possuem finalidade específica (atender a eventuais necessidades da Administração Pública) ou genérica (realizar o planejamento urbano ou a reforma agrária). Significa dizer que, aceitar a usucapião de imóveis públicos, com fundamento na dignidade humana do usucapiente, é esquecer-se da dignidade dos destinatários da reforma agrária, do planejamento urbano ou de eventuais beneficiários da utilização do imóvel, segundo as necessidades da Administração Pública.
+11- Recurso especial não provido."
+(REsp n. 1.874.632/AL, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC/1973. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA N. 284 DO STF. USUCAPIÃO. IMÓVEL VINCULADO AO SFH. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 535 do CPC/1973, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. No caso concreto, para alterar a conclusão do Tribunal de origem, acolhendo-se a pretensão de declarar a usucapião do imóvel litigioso, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+4. Segundo a jurisprudência do STJ, "não é possível adquirir, por usucapião, imóveis vinculados ao SFH, em virtude do caráter público dos serviços prestado pela Caixa Econômica Federal na implementação da política nacional de habitação" (AgInt no REsp n. 1.700.681/AL, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/9/2019, DJe 4/10/2019). Incidência da Súmula n. 83/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.171.235/RJ, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 4/5/2021, DJe de 11/5/2021)
+Ademais, o Tribunal de origem, com base no conjunto fático-probatório dos autos, consignou, expressamente, que não foram preenchidos os requisitos necessários para cristalizar-se a usucapião. A propósito:
+"A parte autora pretende no caso usucapir um imóvel que foi objeto de financiamento habitacional, mais recentemente retomado pela EMGEA em razão de inadimplência contratual.
+Segundo esclareceu a autora, o imóvel foi adquirido dos mutuários originais por contrato de gaveta, não comunicado ao credor (primeiro Caixa Econômica Estadual, depois CEF e por fim EMGEA). A posse da demandante ocorreu, segundo ela, desde a vigência do financiamento habitacional assumido, ou seja, desde 1999. De se notar que a cessionária Mari Leila Varisco, que é autora desta ação, assumiu expressamente a obrigação de pagar as prestações do financiamento (evento 6, OUT2), o que deixou de efetuar, levando o imóvel a ser executado extrajudicialmente:
+(..) Portanto, a autora tinha ciência do vício que pendia sobre a coisa, não podendo alegar boa-fé, nos termos do art. 1.201 do Código Civil: "É de boa- fé a posse, se o possuidor ignora o vício, ou o obstáculo que impede a aquisição da coisa." A autora não exercia a posse como se dona dele fosse, mas sim ciente de que o imóvel estava gravado por uma dívida que, não sendo paga, provocaria a retomada do imóvel pelo banco credor." (e-STJ, fl. 195, g.n)
+No caso concreto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
