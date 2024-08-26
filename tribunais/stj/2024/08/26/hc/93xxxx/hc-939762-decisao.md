@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de RAFAEL FERNANDO DO PRADO em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2246513-71.2024.8.26.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 12, caput, e 17, § 1º, ambos da Lei n. 10.826/2003; 273, caput, §§ 1º, 1º-A e 1º-B, I e V, do Código Penal, todos em concurso material, termos em que denunciado.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar, pois os fatos teriam ocorrido há mais de um ano e meio.
+Alega ainda que o paciente tem predicados pessoais favoráveis, não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP e revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão foi decretada com base na seguinte motivação, adotada na origem:
+No que se refere a imposição da medida extrema, quando do exame dos requisitos de imposição da prisão preventiva requerida pelo Ministério Público, a autoridade judiciária assim deliberou (fls. 733/736 dos autos principais):
+(..)
+Por conseguinte, acolho ainda o requerimento Ministerial para decretar a prisão preventiva de MAYCON WILLIAM BRUNO e RAFAEL FERNANDO DO PRADO, a qual se mostra proporcional e necessária, uma vez que os delitos a eles imputados são extremamente graves, com penas superiores a 4 anos e, consoante aos laudos periciais juntados nos autos, há provas de materialidade e indícios suficientes de autoria.
+Ressalta-se que pelos fatos narrados, há risco iminente de os acusados se evadirem desta comarca, devido ao poder econômico, bem como as atividades desempenhadas por ambos, colocando em risco a instrução criminal, bem como eventual aplicação da lei penal. Rememora-se ainda, que no decorrer da atividade delitiva, os acusados foram avisados por agentes públicos acerca do mandado de busca e apreensão o que resultou na fuga do acusado Rafael.
+Sem prejuízo, não se desconhece que nos autos do processo n.º 1500747-48.2023.8.26.0363, 1ª Vara de Mogi Mirim, que, embora não tenha ainda transitado em julgado, evidencia que o poder de influência dos acusados corroborou com o resultado morte do policial civil. Neste sentido, está presente o risco à ordem pública, eis que é um dos fundamentos da prisão preventiva, consistente na tranquilidade no meio social. O laudo de fls. 211/217 corrobora a materialidade dos graves delitos descritos na denúncia.
+(..) Logo, a tutela dos superiores bens jurídicos da incolumidade das pessoas e do patrimônio, constitui-se explícito dever do Estado, direito e responsabilidade de todos (artigo 144,caput, da CF/88). Destarte, pelos fundamentos aqui expostos, as medidas cautelares previstas no artigo 319 do Código de Processo Penal, mostram-se insuficientes a serem aplicadas no caso dos autos. Além disso, as condutas são concretamente graves, exigindo uma resposta rápida e proporcional do Estado. As circunstâncias fáticas demonstram a periculosidade dos réus que em liberdade poderão facilmente prejudicar a instrução, bem como influenciar o animus das testemunhas.
+(..)
+Por fim, consigna-se que os fatos expostos na presente decisão são oriundos de excessiva investigação prévia criminal da qual resultou na expedição de mandados de busca e apreensão que restaram positivos.
+Portanto, evidente que a custódia cautelar se impõe, para garantia da ordem pública e por conveniência da instrução criminal. Ante o exposto, nos termos dos artigos 312 e 313, do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA DE MAYCON WILLIAM BRUNO e RAFAEL FERNANDO DO PRADO.
+ ..
+Há, ao menos por ora, elementos indicativos do periculum libertatis. Para além da gravidade abstrata da imputação, há, em tese, elementos materiais a apontar a gravidade concreta da ação delituosa, os quais foram consignados pela autoridade judiciária quando de sua decisão. Não houve, portanto, simples referência às elementares abstratas da figura penal típica ou mesmo emprego de fórmulas genéricas (fls. 42/43 - grifo no original).
+Em relação à contemporaneidade dos motivos que ensejaram a prisão, não há flagrante ilegalidade, pois, segundo julgados do STJ, seu exame leva em conta não apenas o tempo entre os fatos e a segregação processual, mas também a necessidade e a presença dos requisitos da prisão no momento da sua decretação, sendo que a gravidade concreta do delito impede o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no RHC n. 169.803/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/2/2023; AgRg no HC n. 707.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/3/2022; AgRg no HC n. 789.691/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/2/2023; AgRg no HC n. 775.563/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/12/2022; HC n. 741.498/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
