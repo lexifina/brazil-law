@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JANAINA SIQUEIRA DA COSTA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5027830-07.2023.8.24.0000/SC).
+Consta dos autos que o Magistrado de primeiro grau, ao proferir decisão de recebimento da denúncia oferecida em desfavor da paciente, pela suposta prática do delito previsto no art. 2º, § 2º e § 4º, incs. I e IV, da Lei n. 12.850/13, decretou a prisão preventiva da acusada (fls. 493/494). Na sequência, houve o indeferimento do pedido da paciente de substituição da prisão preventiva por domiciliar (fls. 553/565).
+Impetrado prévio writ, o Tribunal de origem denegou a ordem às fls. 592-601.
+Os impetrantes sustentam que a prisão preventiva deve ser substituída por domiciliar, tendo em vista que a paciente é mãe de duas filhas, uma de 8 anos e outra de 12 anos de idade. Para tanto, destacam que a imprescindibilidade dos cuidados de mãe é presumido, conforme entendimento do Superior Tribunal de Justiça, e que não há situação excepcional que impeça a concessão da domiciliar no caso concreto.
+Alegam, ainda, que "a filha menor de 8 anos, Maria Valentina, foi diagnosticada como "portadora de sequela de pé torto congênito esquerdo com deformidade residual e existe a possibilidade de nova cirurgia para melhorar o pé" " (fl. 12).
+Requerem, liminarmente e no mérito, a substituição da prisão preventiva da paciente por domiciliar.
+O pedido liminar foi indeferido pela Ministra Maria Thereza de Assis Moura, então Presidente desta Corte, às fls. 667-669.
+Informações processuais prestadas às fls. 675-682.
+Ministério Público Federal opinou pelo não conhecimento do writ às fls. 686-692.
+Os presentes autos foram atribuídos à minha relatoria à fl. 698.
+É o relatório.
+DECIDO.
+De início, pontuo que, em consulta ao site do Tribunal de Justiça do Estado de Santa Catarina, pude constatar que o Magistrado de primeiro grau, em 01/08/2023, substituiu a prisão preventiva da paciente por medidas cautelares alternativas, verbis (grifamos):
+Ante o exposto, sem mais delongas, REVOGO A PRISÃO PREVENTIVA outrora decretada em desfavor da acusada Janaina Siqueira da Costa, e, em consequência, determino que se expeça o competente alvará de soltura, a fim de que seja imediatamente colocada em liberdade, salvo se por algum outro motivo deva permanecer presa. E em substituição ao decreto prisional, aplico à mesma acusada as seguintes medidas cautelares diversas da prisão, previstas no art. 319, incisos I, II, III e IV do CPP, cujo descumprimento poderá acarretar a decretação/restabelecimento da prisão preventiva (art. 282, § 4º do CPP): 1) Comparecimento a cada três meses, perante este Juízo, para informar e justificar suas atividades; 2) Proibição de frequentar reuniões, bares, festividades públicas, casas noturnas ou quaisquer outros lugares onde possa ter contato com pessoas ou objetos dos crimes apurados nestes autos, inclusive de frequentar estabelecimentos prisionais na condição de visitante de pessoas presas; 3) Proibição de manter contato com os demais acusados, seja pessoalmente ou por interpostas pessoas (parentes ou terceiros); 4 ) Proibição de ausentar-se da Comarca de seu domicílio por mais de 15 dias sem prévia justificativa e autorização deste Juízo. Além das medidas acima elencadas, a liberada deverá manter este juízo informado acerca de seu atual endereço residencial e eventuais mudanças, a fim de propiciar o rigoroso cumprimento e fiscalização das medidas cautelares acima impostas, bem como para propiciar o encaminhamento de intimações acerca dos atos processuais subsequentes. Tais medidas cautelares prevalecerão até que, eventualmente, sejam revistas em decisão ulterior nesta Ação Penal.
+Dessarte, tenho que a presente impetração perdeu o objeto.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
