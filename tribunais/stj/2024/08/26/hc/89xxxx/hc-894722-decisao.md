@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Juscelio Almeida Silva, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de Minas Gerais que concedeu parcialmente a ordem no HC n. 1.0000.24.011857-0/000.
+Narram os autos que o paciente, ao lado de Jhefferson de Oliveira Reis, após representação da autoridade policial, no Processo n. 5004591-93.2023.8.13.0512, teve a prisão preventiva decretada, em 24/8/2023, pelo Juízo da Vara Criminal da comarca de Pirapora/MG (fls. 32/33). Posteriormente, em 19/9/2023, foi denunciado em razão do suposto crime de extorsão (fls. 61/65).
+Inconformada com a letargia processual e a ausência dos requisitos necessários da prisão, a defesa impetrou habeas corpus na origem. O Tribunal a quo concedeu parcialmente a ordem, apenas para determinar ao Juízo singular que revisasse a necessidade da manutenção da segregação cautelar do paciente, nos termos do art. 316, parágrafo único, do Código de Processo Penal (fls. 1.576/1.591).
+Daí o presente writ, em que o impetrante insiste na existência de constrangimento ilegal decorrente do excesso de prazo na formação da culpa e na ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Requer a concessão da ordem liberatória com ou sem a aplicação de medidas cautelares diversas da prisão.
+Os autos vieram a mim conclusos por prevenção do HC n. 851.530/MG.
+A liminar foi por mim indeferida em 4/3/2024 (fls. 1.595/1.596).
+Prestadas informações (fls. 1.603/2.579), o Ministério Público Federal, em seu parecer, opinou pelo não conhecimento do writ (fls. 2.584/2.591).
+É o relatório.
+Inicialmente, registro que, quanto à tese de excesso de prazo, o presente writ está prejudicado nesse ponto.
+Isso porque, de acordo com as informações extraídas do sistema eletrônico de consultas processuais do Tribunal de origem, a instrução está encerrada e os autos já se encontram conclusos ao juiz para a sentença desde 2/7/2024.
+Com efeito, no caso, passa a ser aplicável a Súmula 52/STJ: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo (AgRg no RHC n. 149.601/SP, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 8/10/2021).
+Portanto, com a superveniência do oferecimento das alegações finais e a conclusão dos autos para sentença, fica superada a alegação de constrangimento ilegal por excesso de prazo (HC n. 705.930/RJ, Ministra Laurita Vaz, Sexta Turma, julgado em 15/2/2022, DJe 25/2/2022).
+No mais, estou de acordo com o parecer do Ministério Público Federal, da lavra do Subprocurador-Geral da República Francisco Xavier Pinheiro Filho, o qual também adoto como razões de decidir (fls. 2.586/2.587 - grifo nosso):
+ ..
+In casu, não vislumbro o alegado constrangimento ilegal, pois trata-se de decisão concretamente fundamentada exarada pela autoridade judiciária competente, não havendo que se cogitar de qualquer ilegalidade ou abuso de poder.
+11. No que concerne ao fumus comissi delicti, insta salientar que há indícios de autoria e materialidade do crime imputado ao paciente. Corroborando tal assertiva, destaca-se a presença de Relatórios Circunstanciados de Investigações (doc. 20, fls 56/75; e doc. 21 fls. 01/06), da Denúncia oferecida pelo IRMP (doc. 20, fls. 07/10) e do Boletim de Ocorrência (doc. 21, fls. 29/43) (fl. 1586 e-STJ), evidenciando-se a presença de justa causa.
+12. Outrossim, quanto ao periculum libertatis, afigura-se necessária a prisão ante tempus, traduzida na necessidade de manter o paciente segregado do convívio social, pois, acaso seja colocado em liberdade, poderá causar danos à ordem pública, diante da gravidade concreta da imputação, da periculosidade e da possibilidade de reiteração delitiva.
+ ..
+14. É o que ocorre no caso sub examine. Com efeito, constam dos autos elementos que denotam a gravidade concreta da imputação, sua periculosidade e a possibilidade de reiteração delitiva, notadamente por se tratar de réu reincidente específico o qual empregou arma de fogo mediante com a restrição de liberdade da vítima, afastando-se, de plano, a alegação de inobservância do art. 312 do CPP.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+A propósito, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no HC n. 813.512/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 5/6/2023).
+Ainda, confira-se o AgRg no RHC n. 161.586/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/3/2022.
+Por fim, vale destacar que, concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas (AgRg no HC n. 573.598/SC, da minha relatoria, Sexta Turma, DJe 30/6/2020).
+Ante o exposto, julgo prejudicado em parte o habeas corpus e, no mais, em consonância com o parecer ministerial e precedentes, denego a ordem.
+Publique -se.
+EMENTA
+HABEAS CORPUS. EXTORSÃO. PRISÃO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. CONCLUSO PARA JULGAMENTO. INCIDÊNCIA DA SÚMULA 52/STJ. PERDA DE OBJETO. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CIRCUNSTÂNCIAS DO CRIME. MODUS OPERANDI. RISCO FUNDADO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Habeas corpus prejudicado em parte e, no mais, ordem denegada.
