@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juízo de Direito da 1ª Vara de Registro/SP e o Juízo Federal da 1ª Vara de Registro/SP, em autos em que se discute expedição de diploma de instituição de ensino superior.
+É o relatório. Decido.
+A respeito da controvérsia que envolve expedição de diplomas e similares, o STJ possuía duas correntes de entendimento: se a hipótese estivesse relacionada a assuntos sobre o credenciamento da instituição particular de ensino perante o Ministério da Educação (MEC), evidente o interesse da União, com a declaração do Juízo federal. Não sendo essa a situação que envolveria o credenciamento junto ao MEC, mas motivo outro, a ação deveria seguir seu trâmite no Juízo estadual.
+Tal entendimento, dentre outros, foi espelhado no CC n. 156.186/PR, relator Ministro Herman Benjamin, Primeira Seção, DJe 20/11/2018 e no AgRg nos EDcl no CC n. 128.718/PR, relator Ministro Sérgio Kukina, Primeira Seção, DJe 16/5/2018.
+Ocorre que, em recente decisão, nos autos do RE n. 1.304.964/SP, o Supremo Tribunal Federal definiu a seguinte tese, firmada sob o Tema n. 1.154, in verbis:
+Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização.
+O acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL. COMPETÊNCIA. INSTITUIÇÃO DE ENSINO SUPERIOR. SISTEMA FEDERAL DE ENSINO. CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR. INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ARTIGO 109, I, DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. ACÓRDÃO RECORRIDO DIVERGE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+(RE n. 1.304.964 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 24/06/2021, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-166 DIVULG 19-08-2021 PUBLIC 20-08-2021.)
+Recentemente, o STJ já aderiu ao entendimento prestigiado pelo STF, nos autos do AgInt no CC n. 179.261/CE, da relatoria do Ministro Herman Benjamin, no qual foi dado provimento ao agravo para reformar a anterior decisão e deliberar sobre a competência do Juízo Federal, DJe 16/12/2021, e, ainda, em juízo de retratação, o CC n. 175.208/SP, de minha relatoria, julgado em 9/3/2022.
+Cito, ainda, os seguintes julgados desta Corte Superior:
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. ENSINO SUPERIOR. EXPEDIÇÃO DE DIPLOMA. TEMA 1.154/STF. JUÍZO DE RETRATAÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. O Supremo Tribunal Federal, em 25/6/2021, ao apreciar o Recurso Extraordinário 1.304.964, julgou o mérito do Tema 1.154 estabelecendo a seguinte tese: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão limite-se ao pagamento de indenização".
+2. Em juízo de retratação, conheço do conflito para declarar a competência da Justiça Federal.
+(AgInt nos EDcl no CC n. 171.822/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 19/9/2023, DJe de 22/9/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. REGISTRO DE DIPLOMA DE CURSO SUPERIOR. RE 1.304.964/SP. REPERCUSSÃO GERAL (TEMA 1.154/STF).
+1. O Pleno do Supremo Tribunal Federal, nos autos do RE 1.304.964/SP, Rel. Min. Luiz Fux, em Repercussão Geral consolidou a tese segundo a qual "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+2. Embargos de declaração acolhidos, com efeitos infringentes, para declarar competente o Juízo Federal da 6ª Vara de Guarulhos - SJ/SP, o suscitante.
+(EDcl no AgInt no CC n. 178.235/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 12/4/2023, DJe de 29/5/2023.)
+Nesse panorama, sendo a hipótese dos autos análoga ao respectivo precedente da Suprema Corte, e diante do entendimento firmado, não há mais motivo para que permaneça a anterior diferença entre as situações que envolvem a controvérsia relativa a diplomas para fins de fixação da competência.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo Federal da 1ª Vara de Registro/SP.
+Publique-se. Intimem-se.
+EMENTA
