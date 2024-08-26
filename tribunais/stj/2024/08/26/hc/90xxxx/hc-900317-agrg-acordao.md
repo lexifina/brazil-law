@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. TRÁFICO DE DROGAS. 17 GRAMAS DE MACONHA. AUSÊNCIA DE PROVAS DA TRAFICÂNCIA. IN DUBIO PRO REO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há provas seguras de que a droga apreendida se destinava ao comércio, uma vez que não foram produzidas provas nesse sentido. Com efeito, o testemunho dos policiais sobre a ocorrência não tem o condão de elidir quaisquer dúvidas a respeito da eventual destinação da droga para consumo próprio. E, como é de conhecimento, na dúvida, deve preval ecer a tese defensiva. Nesse contexto, apesar de não ser possível, na via eleita, reexaminar fatos e provas, não é possível igualmente desprezar a existência de duas versões igualmente válidas, devendo a dúvida beneficiar os pacientes.
+- Assim, "quando a acusação não produzir todas as provas possíveis e essenciais para a elucidação dos fatos, capazes de, em tese, levar à absolvição do réu ou confirmar a narrativa acusatória caso produzidas, a condenação será inviável, não podendo o magistrado condenar com fundamento nas provas remanescentes" (AREsp n. 1.940.381/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 16/12/2021.)
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática, da minha lavra, que não conheceu do mandamus, porém concedeu a ordem de ofício.
+Consta  dos  autos  que  os  pacientes foram condenados como  incursos  no  art.  33,  caput,  da  Lei  n.  11.343/2006,  GENESIS  à  pena  de  6  anos  e  8  meses  de  reclusão,  e  GENESIO  à  pena  de  5  anos  de  reclusão,  ambos em  regime  fechado  . Irresignada,  a  defesa interpôs  recurso  de  apelação,  a  qual  foi  julgada,  nos  termos  da  seguinte  ementa  (e-STJ Fl. 207):
+Tráfico  ilícito  de  entorpecentes  (art.  33,"caput",da  Lei  nº  11.343/06).  Preliminares  insubsistentes.  Apreensão  de  droga  na  residência  dos  acusados.  Desnecessidade  de  ordem  judicial.  Diligência  ao  imóvel  dentro  da  legalidade.  Existência  de  fundadas  razões  para  o  ingresso  no  local.  Juntada  de  documento  determinada,  de  ofício,  pelo  Magistrado,  ao  término  da  instrução.  Possibilidade.  Inteligência  do  art.  156,  do  Código  de  Processo  Penal.  Acusado  não  advertido  quanto  ao  direito  de  permanecer  calado  no  momento  da  prisão.  Nulidade  inocorrente.  Ausência  de  prejuízo  à  defesa.  Mérito.  Crime  caracterizado,  integralmente.  Flagrante  inquestionável.  Acondicionamento  e  quantidade  da  droga  que  revela  comércio.  Palavras  coerentes  e  incriminatórias  de  Policiais  Militares.  Versões  exculpatórias  inverossímeis.  Necessidade  condenatória  imperiosa.  Responsabilização  inevitável.  Apenamento  criterioso.  Inaplicabilidade  do  art.  33,  §  4º.  Inviabilidade  de  substituição  das  corporais  por  penas  alternativas.  Regime  inicial  fechado  único  possível.  Impossibilidade  da  detração  penal.  Erro  material  caracterizado  no  dispositivo  da  condenatória. Necessidade  de  correção.  Apelo  improvido,  rejeitadas  as  preliminares,  com  observação.
+A defesa interpôs, ainda, o AREsp n. 2.455.129/SP, que não foi conhecido.
+No mandamus, a defesa aduziu, em um primeiro momento, que a busca domiciliar seria ilícita, porquanto carente de fundadas razões e que o consentimento para a diligência foi posterior à invasão do imóvel. Alegou, ainda, que o direito ao silêncio foi violado, devendo as provas serem consideradas nulas, com a consequente absolvição.
+Apontou que não há elementos que comprovem a prática delituosa, especialmente de GENESIS  , uma vez que seu irmão assumiu a propriedade dos entorpecentes. Arguiu que o sistema acusatório foi violado, pois as partes não solicitaram provas suplementares. Por fim, afirmou que a fundamentação utilizada para afastar a substituição da pena e a aplicação de regime mais brando é inidônea.
+Pugnou,  assim,  pela  nulidade  das  provas,  com  a  consequente  absolvição  do  s  pacientes, e, subsidiariamente, pela desclassificação do crime ou pela substituição da pena ou, ao menos, pela aplicação de regime mais brando. Contudo a ordem não foi conhecida.
+Interposto agravo regimental pela defesa, a decisão monocrática foi reconsiderada, para conceder a ordem de ofício, desclassificando a conduta do paciente Genésio para porte para consumo próprio e absolvendo o paciente Gênesis, em atenção ao princípio in dubio pro reo.
+No presente agravo regimental, o Ministério Público Federal afirma, em um primeiro momento, a incompetência do Superior Tribunal de Justiça. No mais, afirma que "a autoria e a materialidade do crime de tráfico de drogas ficaram devidamente comprovadas" e que "para a absolvição e desclassificação das condutas dos paciente, porinsuficiência probatória, seria necessária a análise aprofundada do acervo de probatório, providência incabível na estreita via do habeas corpus".
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. TRÁFICO DE DROGAS. 17 GRAMAS DE MACONHA. AUSÊNCIA DE PROVAS DA TRAFICÂNCIA. IN DUBIO PRO REO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há provas seguras de que a droga apreendida se destinava ao comércio, uma vez que não foram produzidas provas nesse sentido. Com efeito, o testemunho dos policiais sobre a ocorrência não tem o condão de elidir quaisquer dúvidas a respeito da eventual destinação da droga para consumo próprio. E, como é de conhecimento, na dúvida, deve preval ecer a tese defensiva. Nesse contexto, apesar de não ser possível, na via eleita, reexaminar fatos e provas, não é possível igualmente desprezar a existência de duas versões igualmente válidas, devendo a dúvida beneficiar os pacientes.
+- Assim, "quando a acusação não produzir todas as provas possíveis e essenciais para a elucidação dos fatos, capazes de, em tese, levar à absolvição do réu ou confirmar a narrativa acusatória caso produzidas, a condenação será inviável, não podendo o magistrado condenar com fundamento nas provas remanescentes" (AREsp n. 1.940.381/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 16/12/2021.)
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a condenação dos ora agravados se embasou apenas no fato de que o estado flagrancial, "só por si, caracteriza por sem dúvidas e de pronto a autoria - e o próprio tráfico - uma vez que não há lógica capaz de fugir a essa interpretação". A Corte local registrou, ainda, que (e-STJ fls. 216-222):
+Aqueles que são apanhados em pleno "iter criminis", como aqui, mantendo em depósito mais de 17 gramas de maconha, frise-se, além de material utilizado no seu preparo e embalagem, simplesmente não tem como justificar a situação.
+Não há explicação razoável ou verossímil para tal atitude, senão aquela que a entenda destinada ao comércio.
+Fugir desta realidade é fechar os olhos ao óbvio e desprezar o bom-senso.
+Só por aí e já seria e é verdadeiramente indisputável, nada obstante mais, e forte, também haver contra os acusados.
+Assim as narrativas dos diligentes e competentes Policiais Militares (i)Cristiano e (ii) Argemiro (f. 431 e 432).
+Estoriam exatamente a ação, em correspondência de detalhes, unicidade de entendimento e ação.
+Os milicianos encetavam diligências visando apurar informes dando conta de que os irmãos Genésio e Gênesis vinham utilizando a sua casa para o comércio de entorpecentes, quando avistaram Ivo (f. 13), conhecido usuário de drogas, ingressando rapidamente no quintal e anunciando a sua chegada aos moradores do imóvel.
+Os réus, então, foram surpreendidos no local e, efetuadas buscas, os Policiais localizaram as porções de maconha os valores em espécie, bem como os materiais utilizados na embalagem e pesagem das drogas.
+Os Policiais acrescentaram que, durante a ação, Gênesis conseguiu imprimir fuga do local.
+Pois bem.
+Evidentemente autênticos os relatos.
+Enfim e fugir de realidade tamanha é querer não enxergar o que os autos mostram com cristalinidade pura.
+E nada se alegue contra as palavras daqueles agentes da lei.
+Porquanto não há suspeita sobre elas, mormente quando, exatamente como aqui, estão coerentes e consonantes ao demais do contexto probatório.
+A jurisprudência pátria, a esta altura, tem constantemente acolhido a palavra policial como prova segura, firme e convincente, notadamente quando, como aqui, esteja coerente ao mais probatório colacionado e não discrepe do mais produzido, em sua essência.
+A este respeito, vale destacara reiterada jurisprudência do Egrégio Superior Tribunal de Justiça, reportando-se à validade e credibilidade atribuídas à palavra policial no processo penal:  .. .
+E irrelevantes as divergências de detalhes que se levantam das narrativas dos Policiais Militares.
+Porque elas, por si só, não são capazes de alterar a essência dos fatos, estes sim apontando para o acontecimento exatamente tal admitido.
+O que se conta é o convencimento generalizado que se extrai da leitura globalizada do contexto probante, e que leva à certeza dos acontecimentos.
+Independentemente deste ou daquele detalhe que possa ter passado a um ou outro testigo.
+Detalhes e divergências mínimas, por conseguinte, não terão nunca o condão de alterar a verdade que emana do processo.
+O que só pode levar à certeza do quadro.
+No vazio, portanto, as versões exculpatórias oferecidas em audiência pelos acusados negando a prática do tráfico, f. 427 e 428, verdadeiramente fantasiosas e perdidas em si mesmas, quando confrontadas, não só face sua posição inverossímil, como e principalmente porque improvadas.
+Genésio alegou ser usuário de maconha e que tinha apenas uma porção da droga em casa, que serviria para consumo próprio, assim como uma balança de precisão, que utilizava para verificar o peso do entorpecente adquirido, a fim de "não ser
+enganado".
+Gênesis também afirmou ser mero usuário de maconha e que resolveu empreender fuga do imóvel por se sentir "ameaçado" pela ação policial.
+Ora.
+Para além de fantasiosas, as versões dos acusados estão isoladas e desacompanhadas de qualquer elemento probatório.
+Nesses termos, aceitar suas versões, "data venia", seria fechar os olhos a uma realidade manifesta e dar costas ao óbvio, em total e completo desapego às normas genéricas da verdade e de bom-senso, que emanam sem nenhuma dúvida dos autos.
+Nada obstante deva estar o julgador sempre atento e dedicado às teses defensórias, verdade é que há um momento em que as versões não podem ser aceitas, pelo óbvio manifesto que representam sua irrealidade.
+O julgador, então, que é e deve ser homem de bom-senso e com preocupação com a realidade ideal, pode e deve sempre afastar as teses sem qualquer cunho de razoabilidade ,como aqui.
+própria Justiça.
+Tanto não é possível, na verdade, exatamente porque as escusas são para livrá-los da responsabilização, que é imperiosa, todavia.
+Ou valem as palavras dos Policiais ou se estará dando crédito maior a quem comercializa a droga, em plena ação delituosa.
+As testemunhas arroladas pela defesa (f. 429 e 430), por sua vez, afirmaram que os valores em dinheiro apreendidos no local lhes pertenciam e demonstraram nítido intento de eximir Genésio e Gênesis da responsabilização, ao confirmarem sua versão.
+Ocorre que, por se tratar de familiares dos réus, suas palavras devem ser recebidas com cautela até porque as testemunhas deixaram de prestar compromisso, nos termos da lei.
+Vale ressalvar que a irmã dos réus admitiu que não presenciou a prisão de Genésio, enquanto a genitora deles sequer estava no imóvel por ocasião dos fatos.
+Não há, enfim e nem de longe, fragilidade probatória.
+Ela, ao reverso, é plena, categórica.
+E nada foi feito ou produzido pela defesa, capaz de invalidar ou diminuir a força probante que os autos revelam.
+Donde o quadro probatório indicar como autores do delito exatamente aqueles que apontados e responsabilizados.
+Condenação, portanto, inevitável.
+Pela leitura atenta dos excertos acima transcritos, verifica-se que os pacientes encontram-se condenados pelo crime de tráfico de drogas, em virtude da apreensão de 17 gramas de maconha, tendo a Corte local considerado estar devidamente provado o crime, uma vez que "Não há explicação razoável ou verossímil para tal atitude, senão aquela que a entenda destinada ao comércio. Fugir desta realidade é fechar os olhos ao óbvio e desprezar o bom-senso" (e-STJ fl. 216).
+O Tribunal de origem consignou, ainda, que não é possível desconsiderar a palavra dos agentes da lei é que é "prova segura, firme e convincente, notadamente quando, como aqui, esteja coerente ao mais probatório colacionado e não discrepe do mais produzido, em sua essência" (e-STJ fl. 217). Conclui, assim, que o "que se conta é o convencimento generalizado que se extrai da leitura globalizada do contexto probante, e que leva à certeza dos acontecimentos" (e-STJ fl. 219).
+Reafirmo, portanto, que não há provas seguras de que a droga apreendida se destinava ao comércio, uma vez que não foram produzidas provas nesse sentido. Com efeito, o testemunho dos policiais sobre a ocorrência não tem o condão de elidir quaisquer dúvidas a respeito da eventual destinação da droga para consumo próprio. E, como é de conhecimento, na dúvida, deve prevalecer a tese defensiva.
+Nesse contexto, reitero que, apesar de não ser possível, na via eleita, reexaminar fatos e provas, não é possível igualmente desprezar a existência de duas versões igualmente válidas, devendo a dúvida beneficiar os pacientes.
+Ao ensejo:
+O Tribunal de origem, diante de duas versões, decidiu pela absolvição em razão da máxima in dubio pro reo, (..). Valorar juridicamente a prova é aferir se, diante da legislação pertinente, um determinado meio probatório é apto para provar algum fato, ato, negócio ou relação jurídica. (AgRg no REsp n. 1.505.023/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/9/2015, DJe de 22/9/2015.)
+Assim, "quando a acusação não produzir todas as provas possíveis e essenciais para a elucidação dos fatos, capazes de, em tese, levar à absolvição do réu ou confirmar a narrativa acusatória caso produzidas, a condenação será inviável, não podendo o magistrado condenar com fundamento nas provas remanescentes" (AREsp n. 1.940.381/AL, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 16/12/2021.)
+Dessa forma, em que pese o esforço argumentativo do combativo órgão ministerial, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
