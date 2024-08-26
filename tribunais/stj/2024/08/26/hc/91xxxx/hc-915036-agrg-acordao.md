@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRESCRIÇÃO RETROATIVA DOS CRIMES CONTINUADOS. MATÉRIA NÃO ANALISADA NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. O capítulo impugnado acerca do reconhecimento da prescrição retroativa por inaplicabilidade do cômputo dosimétrico da continuidade delitiva não foi apreciado pelo Tribunal a quo, pois apenas se pronunciou acerca da negativa dos pleitos de redução da pena do paciente, prejudicando o pedido sucessivo de redução do patamar prescricional pela redução da pena. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THIAGO FANTI SILVA, contra decisão monocrática que não conheceu do habeas corpus.
+Em razões, a agravante apenas reitera os argumentos trazidos no habeas corpus, destacando que não poderia o Tribunal de Justiça do Estado de São Paulo ter utilizado como fundamento que não se foi alterada a pena, e deixando de considerar os termos da Súmula 497/STF, que não se calcula o acréscimo decorrente da continuidade delitiva para regular a prescrição.
+Requer, assim, pelo provimento do recurso a fim de que seja concedida a ordem nos termos do writ impetrado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRESCRIÇÃO RETROATIVA DOS CRIMES CONTINUADOS. MATÉRIA NÃO ANALISADA NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. O capítulo impugnado acerca do reconhecimento da prescrição retroativa por inaplicabilidade do cômputo dosimétrico da continuidade delitiva não foi apreciado pelo Tribunal a quo, pois apenas se pronunciou acerca da negativa dos pleitos de redução da pena do paciente, prejudicando o pedido sucessivo de redução do patamar prescricional pela redução da pena. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+2. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como afirmei quando do julgamento monocrático, esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Eis o teor do acórdão impugnado:
+"O acusado Thiago também apelou justificando ser o caso de conhecimento do recurso, julgando-o provido para absolvê-lo, com base no argumento de serem insuficientes as provas que embasam sua condenação, a teor do art. 386, VII, do Código de Processo Penal. Subsidiariamente, pede a diminuição da pena aplicada, assim como a fixação do regime aberto, ou a extinção da punibilidade, caso a pena seja redimensionada em patamar abaixo de 2 anos de reclusão, viabilizando-se o reconhecimento da prescrição em sua modalidade retroativa. Por fim, pede a restituição dos bens apreendidos (fls. 2366/2389).
+ ..
+A pretendida declaração de prescrição, na modalidade retroativa, pelo acusado, não se verifica. Com efeito, além de ainda não ter decorrido o trânsito em julgado para a acusação, não houve provimento em relação ao pedido de redução da pena. "(e-STJ, fls. 23-35)
+No caso, percebe-se que capítulo impugnado acerca do reconhecimento da prescrição retroativa por inaplicabilidade do cômputo dosimétrico da continuidade delitiva não foi apreciado pelo Tribunal a quo, pois apenas se pronunciou acerca da negativa dos pleitos de redução da pena do paciente, prejudicando o pedido sucessivo de redução do patamar prescricional pela redução da pena. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
