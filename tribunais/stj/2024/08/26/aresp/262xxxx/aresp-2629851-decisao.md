@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por HITECH ELECTRIC LTDA. contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 1.049/1.052).
+O acórdão recorrido está assim ementado (e-STJ fls. 807/808):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS EMBARGOS À MONITÓRIA E JULGOU IMPROCEDENTE O PEDIDO RECONVENCIONAL - APELAÇÃO 1 - INSURGÊNCIAS - (A) CÁLCULO DO CRÉDITO DA PARTE AUTORA DEVE CONSIDERAR O VALOR TOTAL DO CONTRATO SUB JUDICE. DEMONSTRADO. CLÁUSULA CONTRATUAL NÃO DEVE SER INTERPRETADA ISOLADAMENTE, MAS EM CONJUNTO COM AS DEMAIS - INTERPRETAÇÃO SISTEMÁTICA - (B) CÁLCULO DO CRÉDITO DA PARTE AUTORA DEVE CONSIDERAR A PARCELA ATINENTE À 9ª ETAPA QUE DIZ RESPEITO À 2ª CORRIDA DE CAMPO GRANDE - NÃO DEMONSTRADO - ETAPA EM QUE AMBAS AS PARTES RESTARAM INADIMPLENTES COM AS SUAS RESPECTIVAS OBRIGAÇÕES CONTRATUAIS - APELAÇÃO 2 - INSURGÊNCIAS - (A) -INADIMPLEMENTO CONTRATUAL DA EMPRESA CONTRATADA NÃO DEMONSTRADO - PROVA TESTEMUNHAL PRODUZIDA EM JUÍZO SE MOSTRA INSUFICIENTE À COMPROVAÇÃO DA INAPTIDÃO TÉCNICA DO CARRO FORNECIDO PELA EMPRESA CONTRATADA - (B) NECESSIDADE DE INDENIZAÇÃO POR DANO MORAL E DANO MATERIAL - INOCORRÊNCIA - AUSÊNCIA DE COMPROVAÇÃO DE CONDUTA ILÍCITA DA EMPRESA CONTRATADA NO QUE SE REFERE À INAPTIDÃO TÉCNICA DO VEÍCULO FORNECIDO - APLICAÇÃO DA CLÁUSULA 5.7 DO CONTRATO SUB JUDICE - (C) CONTRATO PREVÊ EXPRESSAMENTE QUE OS VALORES DEVEM SER COBRADOS PROPORCIONALMENTE ÀS CORRIDAS REALIZADAS - PREJUDICADO.
+I - APELAÇÃO 1: CONHECIDA E PARCIALMENTE PROVIDA.
+II - APELAÇÃO 2: CONHECIDA E NÃO PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 850/855).
+No recurso especial (e-STJ fls. 1.002/1.027), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa ao art. 476 do Código Civil.
+Narrou que o contrato foi celebrado por um montante global, devido independentemente dos recorridos comparecerem, ou não, às etapas, e que os recorridos já estavam inadimplentes quando da realização da 9ª etapa do Campeonato de Fórmula 3 Sul-americana.
+Insurgiu-se contra a conclusão da Corte local que manteve a sentença que entendeu que "a empresa recorrente não faria jus ao montante integral por não ter comparecido à última etapa, a despeito do adimplemento de todas as suas obrigações que, destaque-se, seguiram sendo cumpridas, até então, mesmo após o prévio inadimplemento dos recorridos" (e-STJ fl. 1.009).
+Argumentou que uma vez caracterizado o inadimplemento dos devedores, não deveria ser exigido o adimplemento contratual por parte da empresa recorrente.
+Sustentou que houve inadimplemento prévio e substancial dos recorridos e que o comparecimento na última etapa do campeonato - mesmo sabendo que os recorridos não compareceriam, viola o princípio da boa-fé objetiva.
+Ao final, requer o provimento do recurso, a fim de que os recorridos sejam condenados ao pagamento do montante integral contratado , ainda não pago, no valor de R$ 650.000,00 (seiscentos e cinquenta mil reais), com o abatimento dos valores já quitados.
+Foram apresentadas contrarrazões (e-STJ fls. 1.035/1.047).
+No agravo (e-STJ fls. 1.055/1.065), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.069/1.075).
+Juízo negativo de retratação (e-STJ fl. 1.076).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, e no instrumento contratual, assim se manifestou (e-STJ fls. 812/814):
+Nos contratos escritos, a análise do texto conduz, em regra, à descoberta da intenção dos pactuantes. No entanto, quando uma cláusula se mostra obscura, passível de dúvida, deve-se considerar o contido no art. 112 do Código Civil. Vale dizer, que "nas declarações de vontade se atenderá mais à intenção nelas consubstanciadas do que ao sentido literal da linguagem".
+No mais, há que se observar que as cláusulas contratuais não devem ser interpretadas isoladamente, mas em conjunto com as demais.
+In casu, não se pode negar que, a priori, a cláusula 3.1 do contrato celebrado entre as partes pode gerar certa dúvida quanto à real vontade das partes (mov. 1.4).
+Isto porque, em um primeiro momento estabelece que, pelo objeto pactuado, os apelados deveriam pagar o valor total de R$ 650.000,00 (seiscentos e cinquenta mil reais), e, posteriormente, que caberia à parte apelada pagar uma parcela de entrada e o saldo restante de forma proporcional a quantidade de corridas realizadas.
+(..)
+Daí, ab initio, a dúvida se caberia aos apelados a obrigação de pagar o valor global do contrato, ou seja R$ 650.000,00 (seiscentos e cinquenta mil reais), ou, se estes deveriam pagar a parcela de entrada e depois apenas os valores decorrentes das corridas que efetivamente participassem, tal como entendeu o Juízo singular.
+Reitere-se os termos da sentença recorrida neste ponto: "em que pese o valor total do contrato atingisse o importe de R$ 650.000,00, restou pactuado que, após dada a entrada do valor de R$ 30.000,00 pelo contratante, as demais parcelas seriam pagas de acordo com a quantidade de corridas feitas pelo piloto. Isto é, somente em relação às corridas por ele realizadas e disputadas."
+Ocorre que a vontade das partes deve ser extraída a partir da análise e da interpretação sistemática das cláusulas pactuadas.
+E, nesse sentido, é de se reputar que o teor da cláusula 3.1 cumulado com a cláusula 5.1 do contrato sub judice leva à conclusão de que os apelados assumiram a obrigação de pagar quantia certa correspondente ao valor global do contrato, de modo que não lhes restou facultado a prerrogativa de pagar apenas os valores relativos às corridas efetivamente realizadas.
+(..)
+Nestes termos, acolho, pois, as alegações da empresa apelante, para o fim de determinar que o cálculo do valor do crédito da parte autora seja elaborado considerando o valor global do contrato celebrado entre as partes, qual seja R$ 650.000,00 (seiscentos e cinquenta reais).
+Extrai-se ainda do acórdão que julgou os embargos de declaração (e-STJ fls. 853/854):
+Nota-se que o acordão embargado não se furtou à análise das alegações da embargante. Nele bem consta o entendimento de que caberia, sim, à empresa autora HITECH RACING LTDA. ME, ora embargante, comparecer à 9ª Etapa do Campeonato em Campo Grande, sob o fundamento que à época da realização da referida etapa restava vigente o contrato celebrado entre as partes, o qual impunha a ambas as partes o dever de cumprirem suas obrigações contratuais.
+Portanto, patente que a insurgência da embargante não é propriamente do acórdão embargado, mas da análise de elemento probatório contido nos autos, o que não é possível por meio da via aclaratória.
+Note-se, ainda, que o acordão embargado consignou claramente que, em razão do não comparecimento da empresa autora HITECH RACING LTDA. ME, ora embargante, na 9ª Etapa do Campeonato em Campo Grande, o valor atinente à referida etapa, o qual foi especificado na sentença recorrida e não restou impugnado pelas partes, deveria ser deduzido do montante global do contrato sub judice, assim como deveriam ser deduzidos os valores das parcelas comprovadamente pagas pelos réus, ora embargados.
+Desse modo, a pretensão de alterar o entendimento do acórdão recorrido acerca do inadimplemento do contrato e da aplicação da exceção do contrato não cumprido demandaria a análise e interpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
