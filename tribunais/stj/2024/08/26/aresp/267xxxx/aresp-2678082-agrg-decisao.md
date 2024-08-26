@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por NATANAEL APARECIDO DE JESUS, contra decisão monocrática da lavra da Ministra Presidente MARIA THEREZA DE ASSIS MOURA, que não conheceu do recurso, em razão da incidência da Súmula n. 182/STJ (e-STJ fls. 747/748).
+Em seu agravo regimental (e-STJ fls. 755/759), a parte recorrente alega que impugnou todos os fundamentos da decisão agravada.
+Manifestação do Ministério Público Federal, às e-STJ fls. 774/776, pelo não conhecimento do agravo regimental.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 615):
+ROUBO CIRCUNSTANCIADO SENTENÇA ABSOLUTÓRIA INSURGÊNCIA MINISTERIAL MATERIALIDADE E AUTORIA DELITIVAS. Suficientes os elementos probatórios a demonstrar a autoria de agente que subtraiu, mediante grave ameaça exercida pelo emprego de arma de fogo, em concurso de agentes e restrição da liberdade da vítima, coisa alheia móvel, condenações de rigor. DESOBEDIÊNCIA E RESISTÊNCIA SENTENÇA ABSOLUTÓRIA INSURGÊNCIA MINISTERIAL RÉU QUE DESOBEDECEU A ORDEM LEGAL DE FUNCIONÁRIO PÚBLICO E ACUSADO QUE SE OPÔS À EXECUÇÃO DE ATO LEGAL MEDIANTE VIOLÊNCIA A FUNCIONÁRIO COMPETENTE PARA EXECUTÁ-LO DEPOIMENTOS DOS AGENTES PÚBLICOS EM SINTONIA COM O ACERVO PROBATÓRIO, A MERECER CREDIBILIDADE - CRIMES COMPROVADOS CONDENAÇÕES DE RIGOR.
+Interpostos embargos de declaração, esses foram acolhidos, sem efeitos infringentes para prestar esclarecimentos quanto à aplicação da detração penal, bem como em relação à possibilidade de abatimento do tempo em que os embargantes permaneceram presos preventivamente (e-STJ fls. 648/653).
+Nas razões do recurso especial (e-STJ fls. 685/699), alega a parte recorrente violação dos artigos 155 e 387, §2º, do CPP. Sustenta: (i) a absolvição por ausência de prova concreta para a condenação; (ii) a aplicação da detração penal.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+De início, o Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a manter a condenação do acusado pelo crime de roubo (e-STJ fls. 616/622).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Prosseguindo, salienta-se que, no caso dos autos, mostra-se irrelevante a discussão acerca do tempo de prisão provisória, conforme dispõe o art. 387, § 2º, do CPP, para fins de escolha do regime inicial de cumprimento da pena. Isso porque, conforme se observa nos autos, ainda que descontado o período de prisão cautelar, não haveria alteração do regime inicial fixado na condenação, pois o agravamento do regime está baseado na existência de circunstância judicial negativa, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 747/748 e, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Intimem-se.
+EMENTA
