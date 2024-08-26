@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Mauro Campbell Marques, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Herman Benjamin.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ, CSLL, PIS e COFINS,. SIMPLES NACIONAL. GORJETA. EXCLUSÃO DA BASE DE CÁLCULO. CONCEÇÃO DA SEGURANÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. ACÓRDÃAO RECORRIDO ALINHADO COM A JURIPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de mandado de segurança impetrado por IHT Alimentos Eireli (New Hakata) contra o Delegado da Receita Federal em Aracaju/SE objetivando excluir da base de cálculo do IRPJ, CSLL, PIS e COFINS, englobados no simples nacional, os valores recebidos e repassados aos funcionários a título de gorjetas.
+II - Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: " Com efeito, a matéria já fora apreciada pelos tribunais, tendo sido construído o entendimento sub judice de que a gorjeta ostenta a natureza jurídica de salário, sobre a qual devem incidir apenas os tributos e contribuições aplicados sobre as parcelas salariais, haja vista não compor a receita bruta das empresas. Confira-se o seguinte julgado do Superior Tribunal de Justiça (..)" Desta feita, como restou consignado no precedente acima citado, uma vez se tratando de verba de natureza salarial, é defeso conferir interpretação extensiva, em face do disposto no art. 111, inciso II, do CTN, de modo a admitir a incidência de tributos e contribuições diversos daqueles que devem incidir sobre a verba salarial. (..)"
+IV - O Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno contra monocrática que decidiu recurso especial interposto pela União, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 5ª Região, nos termos assim ementados:
+REEXAME NE CESSÁRIO E RECURSO DE APELAÇÃO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. SIMPLES NACIONAL. RECEITA BRUTA. INCIDÊNCIA DE PIS - COFINS - IRPJ E CSLL SOBRE GORJETAS. IMPOSSIBILIDADE. VERBA DE NATUREZA SALARIAL. POSSIBILIDADE DE COMPENSAÇÃO TRIBUTÁRIA.
+1 - CINGE-SE A CONTROVÉRSIA ACERCA DA POSSIBILIDADE OU NÃO DE INSERIR AS VERBAS RECEBIDAS A TÍNILO DE GORJETA NA BASE DE CÁLCULO DO PIS, COFINS. IRPJ E CSLL. ABARCADOS PELA SISTEMÁTICA DO SIMPLES NACIONAL.
+2 - INDEPENDENTEMENTE DA NATUREZA JURÍDICA DA GORJETA, COMPULSÓRIA OU INSERIDA NA NOTA DE SERVIÇO, O ART. 457, §3º. DA CLT PREVÊ QUE CONSTITUI REMUNERAÇÃO DOS EMPREGADOS NA ATIVIDADE PERTINENTE, DE MODO QUE. MESMO SENDO RECEBIDA PELO EMPREGADOR, IMPÕE-SE O REPASSE AOS OBREIROS.
+3 - DESTA FEITA, SOBRE TAIS VERBAS SE ADMITE APENAS A INCIDÊNCIA DOS TRIBUTOS E CONTRIBUIÇÕES PRÓPRIOS DAS PARCELAS SALARIAIS, HAJA VISTA NÃO COMPOREM AS GORJETAS A RECEITA BRUTA DAS EMPRESAS.
+4 - NO TOCANTE À COMPENSAÇÃO, O ENUNCIADO 213 DA SÚMULA DE JURISPRUDÊNCIA DO STJ PRECONIZA QUE "O MANDADO DE SEGURANÇA CONSTIMI AÇÃO ADEQUADA PARA A DECLARAÇÃO DO DIREITO À COMPENSAÇÃO TRIBUTÁRIA".
+5 - OS VALORES PASSÍVEIS DE COMPENSAÇÃO DEVEM SER CORRIGIDOS EXCLUSIVAMENTE PELA TAXA SELIC, QUE JÁ ENGLOBA JUROS E CORREÇÃO MONETÁRIA, NA FORMA PREVISTA NO ARTIGO 39, § 4O, DA LEI 9.250/95.
+6 - ADEMAIS, CONSIDERANDO-SE QUE A PRESENTE AÇÃO FOI AJUIZADA APÓS O ADVENTO DA LC Nº 118/05. É DE SE APLICAR A PRESCRIÇÃO QÜINQÜENAL, CONSOANTE ENTENDIMENTO DO STF. ASSENTADO SOB A SISTEMÁTICA DO ART. 543-B DO CPC (RE 566621. RELATOR(A): MIN. ELLEN GRACIE. TRIBUNAL PLENO, JULGADO EM 04 08 2011. PUBLICADO EM 11/10/2011, DJE-195).
+7 - NESSA PERSPECTIVA, O IMPETRANTE POSSUI DIREITO À PRETENDIDA COMPENSAÇÃO TRIBUTÁRIA, DEVENDO A MEDIDA SER EFETIVADA NO ÂMBITO ADMINISTRATIVO, APÓS O TRÂNSITO EM JULGADO DA PRESENTE DECISÃO JUDICIAL, POIS CABE À AUTORIDADE ADMINISTRATIVA AFERIR A REGULARIDADE DO PROCEDIMENTO, INCLUSIVE NO QUE DIZ RESPEITO AO MONTANTE EFETIVAMENTE RECOLHIDO E RESPECTIVAS BASES DE CÁLCULO.
+8 - REEXAME NECESSÁRIO E APELO NÃO PROVIDOS.
+Na origem, trata-se de mandado de segurança impetrado por IHT Alimentos Eireli (New Hakata) contra o Delegado da Receita Federal em Aracaju/SE objetivando excluir da base de cálculo do IRPJ, CSLL, PIS e COFINS, englobados no simples nacional, os valores recebidos e repassados aos funcionários a título de gorjetas.
+Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, a União alega ofensa aos arts. 489,II, § 1º, IV e 1022, ambos do CPC E 111 do CTN.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos:
+.. não há jurisprudência firmada na Corte da Cidadania a respeito da questão em debate. Houve, sim, pacificação em torno da questão da exclusão das gorjetas da base de cálculo de CSLL, IRPJ, PIS e COFINS, como se verifica nos julgados AgInt no REsp 1780009/RN (2ª Turma) e AgInt no REsp 1796890/PE (1ª Turma). Não há, todavia, definição do Tribunal a respeito da exclusão dessa verba da base de cálculo do SIMPLES Nacional, que é tributo diverso, composto por um conjunto de exações que não se limitam àquelas tratadas na jurisprudência pacificada. (..)
+..acerca da discussão específica das gorjetas na base de cálculo do SIMPLES Nacional são poucas decisões monocráticas. Neste ponto, é oportuno ponderar que decisões monocráticas, e até mesmo decisões em pequeno número de uma única Turma, não configuram jurisprudência pacífica que justifique a aplicação da Súmula nº 83 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. IRPJ, CSLL, PIS e COFINS,. SIMPLES NACIONAL. GORJETA. EXCLUSÃO DA BASE DE CÁLCULO. CONCEÇÃO DA SEGURANÇA. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. ACÓRDÃAO RECORRIDO ALINHADO COM A JURIPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de mandado de segurança impetrado por IHT Alimentos Eireli (New Hakata) contra o Delegado da Receita Federal em Aracaju/SE objetivando excluir da base de cálculo do IRPJ, CSLL, PIS e COFINS, englobados no simples nacional, os valores recebidos e repassados aos funcionários a título de gorjetas.
+II - Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: " Com efeito, a matéria já fora apreciada pelos tribunais, tendo sido construído o entendimento sub judice de que a gorjeta ostenta a natureza jurídica de salário, sobre a qual devem incidir apenas os tributos e contribuições aplicados sobre as parcelas salariais, haja vista não compor a receita bruta das empresas. Confira-se o seguinte julgado do Superior Tribunal de Justiça (..)" Desta feita, como restou consignado no precedente acima citado, uma vez se tratando de verba de natureza salarial, é defeso conferir interpretação extensiva, em face do disposto no art. 111, inciso II, do CTN, de modo a admitir a incidência de tributos e contribuições diversos daqueles que devem incidir sobre a verba salarial. (..)"
+IV - O Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+V - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Com efeito, a matéria já fora apreciada pelos tribunais, tendo sido construído o entendimento sub judice de que a gorjeta ostenta a natureza jurídica de salário, sobre a qual devem incidir apenas os tributos e contribuições aplicados sobre as parcelas salariais, haja vista não compor a receita bruta das empresas. Confira-se o seguinte julgado do Superior Tribunal de Justiça:
+ ..
+(AgRg no AgRg nos EDcl no REsp 1339476/PE, Rel. Ministro HERMAN BENJAMIN,SEGUNDA TURMA, julgado em 15/08/2013, DJe 16/09/2013)
+ ..
+Desta feita, como restou consignado no precedente acima citado, uma vez se tratando de verba de natureza salarial, é defeso conferir interpretação extensiva, em face do disposto no art. 111, inciso II, do CTN, de modo a admitir a incidência de tributos e contribuições diversos daqueles que devem incidir sobre a verba salarial.
+No tocante à compensação, o enunciado 213 da súmula de jurisprudência do STJ preconiza que "o mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária", não implicando o mero reconhecimento do direito compensatório em concessão de efeitos patrimoniais pretéritos(v.g, PROCESSO: 08094360220204058300, APELAÇÃO CÍVEL,DESEMBARGADORFEDERAL IVAN LIRA DE CARVALHO (CONVOCADO), 3ª TURMA,JULGAMENTO:14/10/2021).
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
