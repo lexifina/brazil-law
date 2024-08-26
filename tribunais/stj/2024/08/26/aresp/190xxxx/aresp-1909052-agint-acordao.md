@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. APROVEITAMENTO DE CRÉDITOS DE ICMS. ACÓRDÃO COMBATIDO FUNDAMENTADO NAS PROVAS DOS AUTOS E EM LEGISLAÇÃO LOCAL. REVISÃO. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. Hipótese em que o Tribunal a quo, com base no conjunto fático-probatório e na legislação estadual relativa ao Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), julgou a ação improcedente diante da existência de irregularidades no aproveitamento de créditos, sendo certo que rever esse posicionamento ensejaria o reexame de provas e de direito local. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) e, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por REGINAVES INDUSTRIA E COMERCIO DE AVES LTDA contra a decisão em que o então relator, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região), não conheceu de seu recurso especial com fundamento nas Súmulas 7 do STJ e 280 do STF.
+A parte agravante, em resumo, sustenta o afastamento do óbice da Súmula 7/STJ ao argumento de que o conhecimento do recurso especial não demanda o reexame de fatos e provas, e sim manifestação sobre questão exclusivamente de direito.
+Alega que o recurso especial busca a aplicação do entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema 1.099 quanto à não incidência do ICMS no deslocamento de mercadorias entre estabelecimentos do mesmo contribuinte, sendo desnecessário o exame de lei estadual.
+Impugnação apresentada às fls. 678/680.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. APROVEITAMENTO DE CRÉDITOS DE ICMS. ACÓRDÃO COMBATIDO FUNDAMENTADO NAS PROVAS DOS AUTOS E EM LEGISLAÇÃO LOCAL. REVISÃO. IMPOSSIBILIDADE. PROVIMENTO NEGADO.
+1. Hipótese em que o Tribunal a quo, com base no conjunto fático-probatório e na legislação estadual relativa ao Imposto sobre Operações relativas à Circulação de Mercadoria e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), julgou a ação improcedente diante da existência de irregularidades no aproveitamento de créditos, sendo certo que rever esse posicionamento ensejaria o reexame de provas e de direito local. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) e, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+2. Agravo interno a que se nega provimento.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+O recurso especial tem origem em acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 363/364):
+APELAÇÃO CÍVEL. TRIBUTÁRIO. ICMS. AQUISIÇÃO DE ENERGIA ELÉTRICA. APROVEITAMENTO DE CRÉDITOS. CONTRARIEDADE À LEGISLAÇÃO DE REGÊNCIA DA ÉPOCA. COMPENSAÇÃO ENTRE MATRIZ E FILIAL. HIGIDEZ DAS AUTUAÇÕES.
+1. A lide consiste na possibilidade do aproveitamento pela autora de crédito referente à aquisição de energia elétrica empregada na sua atividade produtiva, em que pese a vedação prevista no artigo 6º, §1º,da Lei Estadual nº 4.177/2003, com a redação conferida pela Lei Estadual nº 5.028/2007.
+2. À época do incontroverso aproveitamento de créditos decorrentes da aquisição de energia pela autora, a legislação de regência não permitia tal operação, o que mais tarde passou a ser autorizado.
+3. As autuações se deram no ano de 2008, referente ao período compreendido entre os meses de julho de 2003 e julho de 2008, portanto, antes da referida alteração legislativa ocorrida no ano de 2010.
+4. O aproveitamento do crédito tributário em questão não era permitido à época das autuações.
+5. O Superior Tribunal de Justiça sedimentou entendimento segundo o qual a transferência de mercadorias entre estabelecimentos do mesmo contribuinte não é fato gerador do ICMS. Verbete nº 166 da súmula de jurisprudência do STJ.
+6. As autuações se deveram às indevidas escriturações de créditos relativos ao ICMS que seriam considerados na contabilidade do estabelecimento principal (matriz), quando os mesmos fossem escriturados e apurados créditos e débitos relativos ao referido tributo.
+7. Em que pese a transferência entre estabelecimentos não configurar fato gerador do tributo em questão, conforme já expostos alhures, não se pode olvidar que a escrituração foi indevida, pois além da irregularidade decorrente do equivocado creditamento vedado expressamente pelo então vigente artigo 6º, §1º da Lei Estadual nº 4.177/2003, tais créditos seriam aproveitados pelo estabelecimento principal (matriz) na saída das mercadorias, em respeito ao Princípio da Não-cumulatividade, consagrado no artigo 155, §2º, I da Constituição da República.
+8. O provimento do recurso do réu importa na inversão dos ônus sucumbenciais, razão pela qual a análise do pleito recursal pela majoração dos honorários advocatícios devidos ao patrono da autora resta prejudicado.
+9. Provimento do apelo interposto pelo réu e prejudicada a análise do recurso da autora.
+Colho do acórdão recorrido que o Tribunal a quo reformou a sentença para julgar a ação improcedente diante de irregularidade constatada no aproveitamento dos créditos de ICMS e devido à vedação legal constante no § 1º do art. 6º da Lei estadual 4.177/2003, senão vejamos (fls. 364/369 ):
+Conhece-se o recurso, pois tempestivo e dispensado o preparo, presentes os demais requisitos para a sua admissibilidade.
+Insurge-se o réu contra a aplicação retroativa da Lei nº 5.814/2010, que passou a permitir o creditamento ICMS decorrente da aquisição de energia elétrica sobre a operação de transferência de mercadorias, a despeito de o referido aproveitamento de créditos ter ocorrido quando ainda era vedado pela antiga redação do artigo 6º da Lei Estadual nº 4.177/03.
+A autora, por seu turno, pretende a majoração dos honorários advocatícios.
+Pois bem.
+A lide consiste na possibilidade do aproveitamento pela autora de crédito referente à aquisição de energia elétrica empregada na sua atividade produtiva, em que pese a vedação prevista no artigo 6º, §1º da Lei Estadual nº 4.177/2003, com a redação conferida pela Lei Estadual nº 5.028/2007.
+Confira-se, por oportuno, o referido dispositivo:  ..
+A sentença guerreada, por seu turno, em razão da modificação legislativa implementada pela Lei nº 5.703/2010, que acrescentou o §2º ao referido dispositivo, cuja redação foi mantida a despeito da alteração promovida pela Lei Estadual nº 5.814/2010, considerou legal o creditamento que deu ensejo às autuações em análise.
+Transcreve-se o referido dispositivo legal:  ..
+Nota-se que à época do incontroverso aproveitamento de créditos decorrentes da aquisição de energia pela autora, a legislação de regência não permitia tal operação, o que mais tarde passou a ser autorizado, conforme acima descrito.
+Por seu turno, igualmente imperioso salientar que as autuações se deram no ano de 2008, referente ao período compreendido entre os meses de julho de 2003 e julho de 2008, portanto, antes da referida alteração legislativa ocorrida no ano e 2010.
+Dessa forma, depreende-se que o aproveitamento do crédito tributário em questão não era permitido à época da ação fiscalizatória.
+Além disso, as autuações se deveram ao fato de a contribuinte ter aproveitado créditos de ICMS em operações de transferência de mercadorias entre estabelecimentos filial e matriz.
+Ora, é imperioso salientar, por oportuno, que o Superior Tribunal de Justiça sedimentou entendimento segundo o qual a transferência de mercadorias entre estabelecimentos do mesmo contribuinte não é fato gerador do ICMS. Transcreve-se o no verbete nº 166 da súmula de jurisprudência do Superior Tribunal de Justiça:  ..
+Entretanto, na espécie, as autuações se deveram às indevidas escriturações de créditos relativos ao ICMS que seriam considerados na contabilidade do estabelecimento principal (matriz), quando os mesmos fossem escriturados e apurados créditos e débitos relativo ao referido tributo em determinado período.
+Dessa forma, em que pese a transferência entre estabelecimentos não configurar fato gerador do tributo em questão, conforme já expostos alhures, não se pode olvidar que a escrituração foi indevida, pois além da irregularidade decorrente do equivocado creditamento, vedado expressamente pelo então vigente artigo 6º, §1º da Lei Estadual nº 4.177/2003, tais créditos seriam aproveitados pelo estabelecimento principal (matriz) na saída das mercadorias, em respeito ao Princípio da Não-cumulatividade, consagrado no artigo 155, §2º, I da Constituição da República. Note-se que, na forma do caput do artigo 25 da Lei Complementar nº 87/1996 (Lei Kandir), há compensação de saldos credores e devedores do tributo em questão entre os estabelecimentos do mesmo contribuinte localizados no mesmo Estado.
+Assim, havendo o indevido aproveitamento de créditos em uma das filiais, essa prática, ao serem considerados tais valores na escrituração da matriz, importará em prejuízo à fazenda estadual.
+Transcreve-se o referido dispositivo legal:  ..
+Dessa forma, diante da ausência de vícios, as autuações não reclamam anulação, a impor o provimento do apelo fazendário.
+A alteração do julgado de modo a acolher a tese sustentada no recurso especial demandaria necessariamente o revolvimento do conjunto fático-probatório e a análise da legislação local, o que é vedado na instância especial ante o óbice das Súmulas 7 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial") e 280 do STF ("Por ofensa ao direito local não cabe recurso extraordinário").
+Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. DOCUMENTO NOVO. JUNTADA. INVIABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. BASE DE CÁLCULO. MARGEM DE VALOR AGREGADO (MVA). REQUISITOS. PREVISÃO EXPRESSA. REEXAME DE PROVAS E DE DIREITO LOCAL. IMPOSSIBILIDADE.
+1. "A jurisprudência do Superior Tribunal de Justiça não admite, em sede de recurso especial, a juntada de documentos novos, uma vez que se trata de recurso excepcional e de fundamentação vinculada. Caso se permitisse a análise de documentos novos, haveria supressão de instância na resolução de questões que não foram objeto de prequestionamento. Ademais, haveria, inequivocamente, análise de fatos e provas nesta Corte Superior, o que é vedado nos termos da Súmula 7 do STJ" (REsp 1.517.837/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/04/2021, DJe 10/05/2021).
+2. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ) e "por ofensa a direito local não cabe recurso extraordinário" (Súmula 280 do STF).
+4. Hipótese em que o conhecimento do recurso especial encontra óbice nos referidos enunciados, pois Tribunal a quo, atento ao conjunto fático-probatório e legislação estadual relativa ao ICMS, decidiu que houve aplicação de base de cálculo com fundamento no percentual de margem de valor agregado (MVA) apurado em estudo prévio que cumpre as normas da legislação estadual, sendo certo que rever esse posição ensejaria o reexame de provas e de direito local.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.109.366/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/4/2024, DJe de 18/4/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
