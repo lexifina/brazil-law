@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ATENUANTES GENÉRICAS. FRAÇÃO DE REDUÇÃO. DESPROPORCIONALIDADE. TESE NÃO DEDUZIDA EM REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A coisa julgada é garantia constitucional e impede, em regra, que sejam rediscutidos indefinidamente processos findos. Essa medida visa assegurar a estabilidade e a segurança jurídica, fundamentais para a eficácia do sistema judiciário.
+2. Embora seja relativo o trânsito em julgado de condenação penal, a ação revisional é o meio legal para corrigir eventual erro judiciário ou injustiças.
+3. No caso, a condenação por latrocínio transitou em julgado há mais de uma década e a defesa deixou de indicar, em revisão criminal, a tese de desproporcionalidade da fração de redução da pena em razão das atenuantes genéricas. Não houve pedido para o Tribunal de Justiça aplicar a fração de 1/6 na segunda fase da dosimetria, com a fixação da pena no mínimo legal.
+4. Assim, o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com violação da competência estabelecida no art. 105, I, c, da Constituição Federal.
+5. Agravo regimental não provido.
+RELATÓRIO
+ROSIVALDO ANTONIO DA SILVA agrava da decisão de fls. 81-82.
+A parte aponta "flagrante erro na dosimetria da pena" (fl. 89), pois "em que pese a Corte Local não haver sido provocada em recurso de apelação, e, por isso, não se pronunciou quanto a revisão da pena", a defesa ajuizou revisão criminal e o Tribunal local foi provocado a deliberar sobre "a redução da reprimenda, especificamente quanto a atenuante da confissão espontânea e menoridade relativa" (fl. 90). Assim, seria possível conhecer o habeas corpus para discutir a fração aplicada em virtude das circunstâncias em apreço.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ATENUANTES GENÉRICAS. FRAÇÃO DE REDUÇÃO. DESPROPORCIONALIDADE. TESE NÃO DEDUZIDA EM REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A coisa julgada é garantia constitucional e impede, em regra, que sejam rediscutidos indefinidamente processos findos. Essa medida visa assegurar a estabilidade e a segurança jurídica, fundamentais para a eficácia do sistema judiciário.
+2. Embora seja relativo o trânsito em julgado de condenação penal, a ação revisional é o meio legal para corrigir eventual erro judiciário ou injustiças.
+3. No caso, a condenação por latrocínio transitou em julgado há mais de uma década e a defesa deixou de indicar, em revisão criminal, a tese de desproporcionalidade da fração de redução da pena em razão das atenuantes genéricas. Não houve pedido para o Tribunal de Justiça aplicar a fração de 1/6 na segunda fase da dosimetria, com a fixação da pena no mínimo legal.
+4. Assim, o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com violação da competência estabelecida no art. 105, I, c, da Constituição Federal.
+5. Agravo regimental não provido.
+VOTO
+Sem razão o agravante.
+A coisa julgada é garantia constitucional e impede, em regra, que sejam rediscutidos indefinidamente processos findos. Essa medida visa assegurar a estabilidade e a segurança jurídica, fundamentais para a eficácia do sistema judiciário. Embora seja relativo o trânsito em julgado penal, a ação revisional é o meio legal para corrigir eventual erro ou injustiças das condenação.
+No caso, em sentença prolatada no dia 8/6/2011, o réu foi condenado por latrocínio. A pena-base foi fixada em 25 anos de reclusão. Diante das atenuantes da menoridade relativa e da confissão espontânea, a sanção final foi estabelecida em 24 anos de reclusão (fl. 37).
+Em ação revisional, o Tribunal reexaminou apenas a questão indicada pela parte. A defesa argumentou que "a pena foi exacerbada, não tendo o magistrado sentenciante levado em conta o fato de ser réu primário, ter bons antecedentes, endereço fixo, ter confessado espontaneamente e ter se entregado à polícia" (fl. 62). Veja-se que não houve menção às atenuantes genéricas nem à fração usada na segunda fase da dosimetria.
+Assim, não houve pedido ao Tribunal para reduzir a pena em 1/6 devido às atenuantes. Por isso, constou da decisão o registro sobre a supressão de instância.
+O órgão de segundo grau decidiu, ao julgar a revisional em acórdão proferido no dia 28/5/2015, que a "pena-base aplicada ao acusado e ora requerente encontra proporcionalidade com as circunstâncias objetivas e subjetivas que envolveram o crime" (fl. 73).
+De ofício, o Tribunal verificou ofensa ao princípio da igualdade, porque incidiram "as atenuantes da confissão espontânea e da menoridade relativa" (fl. 76) a dois corréus, mas o Magistrado não observou a similitude fática e processual entre eles ao fixar reprimendas diferentes. Por motivo de isonomia e para igualar a sanção aplicada aos sentenciados, o órgão fixou a pena do agravante em 23 anos de reclusão.
+Não houve oposição de embargos de declaração para discutir a fração correspondente às atenuantes. A defesa ficou inerte. Assim, a Corte de origem não foi instada a se pronunciar sobre a matéria deduzida neste habeas corpus e, por tal motivo, inexiste causa decidida sobre a controvérsia no ato apontado como coator (fls. 42-59).
+Estamos diante de condenação transitada em julgado há quase uma décad a. A defesa não traz notícia sobre a execução penal e a atual situação do apenado. Assim, deve ser observado o entendimento de que a "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+Com efeito, o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+À vista do exposto, nego provimento ao agravo regimental.
