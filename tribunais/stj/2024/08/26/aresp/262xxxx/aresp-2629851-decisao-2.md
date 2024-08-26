@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por FERNANDO ANTONIO RESENDE E OUTRO contra decisão que inadmitiu o recurso especial por ofensa a dispositivos constitucionais, ausência de violação dos arts. 489, II e § 1º, IV, e 1.022, II, do CPC/2015, incidência das Súmulas n. 5, 7 e 211 do STJ e não comprovação do dissídio jurisprudencial nos moldes legais (e-STJ fls. 961/970).
+O acórdão recorrido está assim ementado (e-STJ fls. 807/808):
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS EMBARGOS À MONITÓRIA E JULGOU IMPROCEDENTE O PEDIDO RECONVENCIONAL - APELAÇÃO 1 - INSURGÊNCIAS - (A) CÁLCULO DO CRÉDITO DA PARTE AUTORA DEVE CONSIDERAR O VALOR TOTAL DO CONTRATO SUB JUDICE. DEMONSTRADO. CLÁUSULA CONTRATUAL NÃO DEVE SER INTERPRETADA ISOLADAMENTE, MAS EM CONJUNTO COM AS DEMAIS - INTERPRETAÇÃO SISTEMÁTICA - (B) CÁLCULO DO CRÉDITO DA PARTE AUTORA DEVE CONSIDERAR A PARCELA ATINENTE À 9ª ETAPA QUE DIZ RESPEITO À 2ª CORRIDA DE CAMPO GRANDE - NÃO DEMONSTRADO - ETAPA EM QUE AMBAS AS PARTES RESTARAM INADIMPLENTES COM AS SUAS RESPECTIVAS OBRIGAÇÕES CONTRATUAIS - APELAÇÃO 2 - INSURGÊNCIAS - (A) -INADIMPLEMENTO CONTRATUAL DA EMPRESA CONTRATADA NÃO DEMONSTRADO - PROVA TESTEMUNHAL PRODUZIDA EM JUÍZO SE MOSTRA INSUFICIENTE À COMPROVAÇÃO DA INAPTIDÃO TÉCNICA DO CARRO FORNECIDO PELA EMPRESA CONTRATADA - (B) NECESSIDADE DE INDENIZAÇÃO POR DANO MORAL E DANO MATERIAL - INOCORRÊNCIA - AUSÊNCIA DE COMPROVAÇÃO DE CONDUTA ILÍCITA DA EMPRESA CONTRATADA NO QUE SE REFERE À INAPTIDÃO TÉCNICA DO VEÍCULO FORNECIDO - APLICAÇÃO DA CLÁUSULA 5.7 DO CONTRATO SUB JUDICE - (C) CONTRATO PREVÊ EXPRESSAMENTE QUE OS VALORES DEVEM SER COBRADOS PROPORCIONALMENTE ÀS CORRIDAS REALIZADAS - PREJUDICADO.
+I - APELAÇÃO 1: CONHECIDA E PARCIALMENTE PROVIDA.
+II - APELAÇÃO 2: CONHECIDA E NÃO PROVIDA.
+Os embargos de declaração não foram conhecidos (e-STJ fls. 892/895).
+No recurso especial (e-STJ fls. 901/920), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes alegaram ofensa aos arts. 5º, II e 93, IX, da CF/88, 489, II, § 1º, IV e 1.022, II, do CPC/2015, 421 e 884 do Código Civil.
+Apontaram negativa de prestação jurisdicional por ofensa aos princípios da boa-fé objetiva e do pacta sunt servanda.
+Sustentaram omissão e contradição no acórdão recorrido por não prestar os esclarecimentos solicitados pelos recorrentes, argumentando que "aplicado o entendimento de que, pelos serviços não prestados pela recorrida, seria necessário abatê-los do valor do contrato, impossível prevalecer a conclusão de que o contrato era global e que a parte deveria pagar sua integralidade, independente da prestação do serviço ou não pela recorrida" (e-STJ fl. 912).
+Defenderam que deve ser observada a vontade das partes, além da literalidade do que está previsto no contrato, sem ignorar sua função social, e que a manutenção da decisão nos termos propostos resultaria em enriquecimento sem causa da recorrida, o que é vedado pelo ordenamento pátrio.
+Foram apresentadas contrarrazões (e-STJ fls. 943/960).
+No agravo (e-STJ fls. 1.079/1.095), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.111/1.125).
+Juízo negativo de retratação (e-STJ fl. 1.126).
+É o relatório.
+Decido.
+De início, cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Inexiste afronta aos arts. 489, II, § 1º, IV, e 1.022, II, do CPC/2015, quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 812/814):
+Nos contratos escritos, a análise do texto conduz, em regra, à descoberta da intenção dos pactuantes. No entanto, quando uma cláusula se mostra obscura, passível de dúvida, deve-se considerar o contido no art. 112 do Código Civil. Vale dizer, que "nas declarações de vontade se atenderá mais à intenção nelas consubstanciadas do que ao sentido literal da linguagem".
+No mais, há que se observar que as cláusulas contratuais não devem ser interpretadas isoladamente, mas em conjunto com as demais.
+In casu, não se pode negar que, a priori, a cláusula 3.1 do contrato celebrado entre as partes pode gerar certa dúvida quanto à real vontade das partes (mov. 1.4).
+Isto porque, em um primeiro momento estabelece que, pelo objeto pactuado, os apelados deveriam pagar o valor total de R$ 650.000,00 (seiscentos e cinquenta mil reais), e, posteriormente, que caberia à parte apelada pagar uma parcela de entrada e o saldo restante de forma proporcional a quantidade de corridas realizadas.
+(..)
+Daí, ab initio, a dúvida se caberia aos apelados a obrigação de pagar o valor global do contrato, ou seja R$ 650.000,00 (seiscentos e cinquenta mil reais), ou, se estes deveriam pagar a parcela de entrada e depois apenas os valores decorrentes das corridas que efetivamente participassem, tal como entendeu o Juízo singular.
+Reitere-se os termos da sentença recorrida neste ponto: "em que pese o valor total do contrato atingisse o importe de R$ 650.000,00, restou pactuado que, após dada a entrada do valor de R$ 30.000,00 pelo contratante, as demais parcelas seriam pagas de acordo com a quantidade de corridas feitas pelo piloto. Isto é, somente em relação às corridas por ele realizadas e disputadas."
+Ocorre que a vontade das partes deve ser extraída a partir da análise e da interpretação sistemática das cláusulas pactuadas.
+E, nesse sentido, é de se reputar que o teor da cláusula 3.1 cumulado com a cláusula 5.1 do contrato sub judice leva à conclusão de que os apelados assumiram a obrigação de pagar quantia certa correspondente ao valor global do contrato, de modo que não lhes restou facultado a prerrogativa de pagar apenas os valores relativos às corridas efetivamente realizadas.
+ ..
+Nestes termos, acolho, pois, as alegações da empresa apelante, para o fim de determinar que o cálculo do valor do crédito da parte autora seja elaborado considerando o valor global do contrato celebrado entre as partes, qual seja R$ 650.000,00 (seiscentos e cinquenta reais).
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Ademais, a pretensão de alterar o entendimento do acórdão recorrido acerca da função social do contrato demandaria a análise e interpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor das Súmulas n. 5 e 7 do STJ.
+Constata-se ainda que, apesar de opostos embargos de declaração, a tese de enriquecimento sem causa da parte recorrida não foi expressamente indicada nas razões do recurso e nem enfrentada pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211/STJ.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, as partes não se desobrigaram desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
