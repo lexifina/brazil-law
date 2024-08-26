@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS contra despacho que determinou a redistribuição dos autos para um dos Ministros integrantes das Turmas da Segunda Seção (e-STJ fls. 737/738).
+Nas razões do agravo interno, a agravante defende, em síntese, que (e-STJ fl. 748):
+Trata-se de ação proposta pelos segurados objetivando a condenação da Traditio ao pagamento de indenização por danos decorrentes de alegados vícios de construção em sua moradia, segurada por apólice pública do seguro habitacional do Sistema Financeiro da Habitação (SFH - Ramo 66).
+A matéria, pois, versa inequivocamente sobre Direito Público considerando que os pedidos de indenização formulados pelos segurados nos respectivos processos originários, se procedentes atingirão recursos públicos administrados por banco público a Caixa Econômica Federal
+Dessa forma, com o encerramento do julgamento do CC nº 148 188/DF, diante do interesse público que circunda a questão, a competência interna é da Primeira Seção desse e. Tribunal Superior nos termos do que determina o art 9, § 1º, XIV do Regimento Interno do Superior Tribunal de Justiça (RISTJ).
+Pugna pela reconsideração da decisão agravada para que o feito seja julgado pela Primeira Seção.
+Sem impugnação ofertada (e-STJ fls. 1999/2009).
+É o relatório.
+A jurisprudência deste Tribunal Superior é firme no sentido de que o despacho de redistribuição dos autos para outra Turma ou Seção determinado em face da competência interna prevista no RISTJ configura ato meramente ordinatório e, portanto, irrecorrível. Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - RESPONSABILIDADE SECURITÁRIA - DANOS EM IMÓVEIS - FCVS - COMPETÊNCIA DA PRIMEIRA SEÇÃO DO STJ - DETERMINAÇÃO DE REDISTRIBUIÇÃO INTERNA - IRRECORRIBILIDADE.
+1. Nos termos da recente decisão proferida pela Corte Especial nos autos do CC 148.188/DF, DJ de 16/10/2023, compete às Turmas que integram a eg. Primeira Seção processar e julgar questões que envolvam contratos de mútuo habitacional, amparados em apólices securitárias de natureza pública (Ramo 66), em que possa haver comprometimento do Fundo de Compensação das Variações Salariais - FCVS.
+1.1. O despacho que determina a redistribuição dos autos por se tratar de matéria afeta à competência da eg. Primeira Seção, configura-se como irrecorrível. Precedentes da Segunda Seção.
+2. Agravo interno não conhecido.
+(AgInt no CC n. 202.001/SP, relator Ministro Marco Buzzi, Segunda Seção, julgado em 28/5/2024, DJe de 4/6/2024, grifos nossos.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REDISTRIBUIÇÃO DOS AUTOS. DESPACHO. RECONSIDERAÇÃO. CONTEÚDO DECISÓRIO. AUSÊNCIA. IRRECORRIBILIDADE.
+1. É irrecorrível o ato judicial que apenas determina a redistribuição do feito, pois não apresenta conteúdo decisório, tratando-se de despacho meramente ordinatório. Precedentes.
+2. O mesmo entendimento deve ser aplicado à hipótese em que o relator, por entender aplicável o conteúdo de norma processual que impede a criação de fato superveniente a fim de caracterizar o impedimento do magistrado (art. 144, § 2º, do Código de Processo Civil), torna sem efeito despacho anterior que havia determinado a redistribuição do feito.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.370.759/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024, grifos nossos.)
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO DE DESPACHO. COMPETÊNCIA INTERNA. REDISTRIBUIÇÃO A UM DOS MINISTROS QUE COMPÕEM OUTRA SEÇÃO. PREJUÍZO. AUSÊNCIA. RECURSO NÃO CONHECIDO.
+1. "É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, haja vista tratar-se de ato meramente ordinatório bem como inexistir conteúdo decisório apto a causar gravame às partes". (AgRg na Rcl 9.858/CE, Rel. Min. Felix Fischer, Corte Especial, DJe de 25.4.2013). Nesse mesmo sentido: AgInt no AgInt no AREsp 1.979.933/RS, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe de 20.10.2022; AgInt no REsp 1.889.338/MA, Rel. Min. Moura Ribeiro, Terceira Turma, DJe 4.3.2021; e AgInt no REsp 1.758.549/CE, Rel. Min. Raul Araújo, Quarta Turma, DJe 25;6;2019.
+2. Agravo Interno não conhecido.
+(AgInt no AgInt no REsp n. 2.014.935/PA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/4/2024, DJe de 2/5/2024, grifos nossos.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. REDISTRIBUIÇÃO DOS AUTOS. DESPACHO. IRRECORRIBILIDADE. ATO ORDINATÓRIO.
+1. É irrecorrível o ato judicial que apenas determina a redistribuição do feito, pois não apresenta conteúdo decisório, tratando-se de despacho meramente ordinatório. Precedentes.
+2. Agravo interno não conhecido.
+(AgInt no REsp n. 1.351.136/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024, grifos nossos.)
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO CONTRA DESPACHO QUE DETERMINA A REDISTRIBUIÇÃO DO FEITO. DESCABIMENTO.
+1. Os despachos de mero expediente são atos judiciais desprovidos de conteúdo decisório que têm por função impulsionar o feito, daí por que, nos termos do disposto no art. 1.001 do CPC/2015, deles não cabe recurso.
+2. Hipótese em que a irresignação formulada objetiva impugnar, pela via inadequada do agravo interno, o despacho que determinou a redistribuição dos autos por se tratar de matéria afeta à competência da Primeira Seção do STJ.
+Agravo interno não conhecido.
+(AgInt no AgInt no REsp n. 1.992.114/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/2/2024, DJe de 29/2/2024, grifos nossos.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVENÇÃO ACEITA. REDISTRIBUIÇÃO DOS AUTOS. AUSÊNCIA DE PREJUÍZO ÀS PARTES. IRRECORRIBILIDADE. DECISÃO MANTIDA.
+1. Hipótese de interposição de Agravo interno contra decisão que aceitou a prevenção e determinou a redistribuição dos autos.
+2. Consoante a jurisprudência do STJ, "É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, haja vista tratar-se de ato meramente ordinatório bem como inexistir conteúdo decisório apto a causar gravame às partes" (STJ, AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe de 25/04/2013).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.061.639/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023, grifos nossos.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. PROVIMENTO JUDICIAL QUE DETERMINOU A REDISTRIBUIÇÃO DOS AUTOS. ATO ORDINATÓRIO. AUSÊNCIA DE CONTEÚDO DECISÓRIO. DESPACHO IRRECORRÍVEL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O despacho que determina a redistribuição ou atribuição dos autos é irrecorrível, uma vez que se trata de ato meramente ordinatório, sem conteúdo decisório apto a causar gravame às partes.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.276.352/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022, grifos nossos.)
+Ante o exposto, não conheço do agravo interno.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO INTERNO INTERPOSTO CONTRA DESPACHO DE REDISTRIBUIÇÃO. IRRECORRIBILIDADE. ATO MERAMENTE ORDINATÓRIO. AGRAVO INTERNO NÃO CONHECIDO.
