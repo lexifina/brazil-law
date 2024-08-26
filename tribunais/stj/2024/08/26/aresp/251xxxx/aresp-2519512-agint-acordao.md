@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DA EMBARGANTE.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do art. 1.021, § 1º, do CPC/15. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto do decisum hostilizado. Aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PATRICIA DE NAZARETH MOTA BAHIA, em face da decisão monocrática proferida às fls. 492/497, e-STJ, de lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial.
+Consoante se depreende dos autos, o apelo nobre desafia acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fl. 366, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTES OS EMBARGOS A EXECUÇÃO. RECURSO CONHECIDO E PROVIDO.
+I- Preliminar de intempestividade do recurso rejeitada, tendo em vista, que apesar do Apelante não ter juntado documentação a comprovar os feriados nacionais de finados e Nossa Senhora de Aparecida, bem como os dias 15/10/2018 (Segunda pós-Círio) e 29/10/2018 (Recirio), os primeiros estão previstos na Portaria 5828/17-GP e os dias sem expediente forense na Portaria 4984/18-GP, ambos deste e.TJPA, sendo objeto de certidão de tempestividade juntada pelo juízo a quo a ser conferido ao Id. 1962896 - Página 3. PRELIMINAR REJEITADA.
+II Não há o mínimo de elementos nos autos que indiquem a contratação da apelante pela apelada com que a primeira prestando serviços a segunda. E principalmente a não finalização do suposto trabalho contratado que se subsumiu em um laudo unilateral juntado a posteriori. Aliás, muito pelo contrário, a existência de minuta contratual juntada pela própria recorrida, além do aventado pelas partes, sem adentrar ao relacionamento que existiu entre ambos, demonstra um pacto por um empreendimento que geraria lucro a ambas as partes, sendo rescindido de forma tácita na forma dos pagamentos que se seguiram por cheque.
+III- Não encontra guarida ou matéria factual a amparar a exceção do contrato não cumprido, posto que do distrato a única obrigação do apelante era a extinção do vínculo que tinha com o apelado, enquanto este deveria indenizar aquele pela propriedade que ficou sob sua titularidade, com todas suas benfeitorias. Cheques são resultado da rescisão, com todos os requisitos formais e materiais válidos.
+IV- RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial (fls. 423/434, e-STJ), a recorrente apontou ofensa ao artigo 1013, § 3º, do CPC/2015.
+Sustentou, em síntese, que a causa não estava suficientemente madura para o seu julgamento de mérito. Afirmou que o feito deve retornar à primeira instância para regular instrução processual.
+Contrarrazões (fls. 442/451, e-STJ).
+Em juízo prévio de admissibilidade, a Corte de origem negou o processamento do recurso especial, sob o fundamento de que aplicável ao caso a Súmula 7/STJ.
+Daí o agravo (art. 1042 do CPC/15).
+Contraminuta às fls. 479/483 (e-STJ).
+Por decisão monocrática (fls. 492/497, e-STJ), o recurso especial foi desprovido sob os seguintes fundamentos:
+(a) quanto à alegada ofensa ao artigo 1013, § 3º, do CPC/2015, não houve particularização do inciso supostamente violado. Tal situação atrai o óbice disposto na Súmula 284 do STF;
+(b) ademais, observou-se que as razões utilizadas pelo Tribunal de origem para julgar improcedentes os Embargos à Execução oposto pela ora agravante não foram impugnados pela parte recorrente. Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF; e
+(c) além disso, consignou-se que reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Na presente oportunidade, a agravante, em suas razões de fls. 501/518, e-STJ, no tópico 2, fls. 502/513, e-STJ, faz breve resumo da demanda; no item 3, fls. 513/516, e-STJ, sustenta a inaplicabilidade da Súmula 284/STF, afirmando ter particularizado o dispositivo indicado como violado; e, por fim, no ponto 4 da petição recursal, entre as fls. 516/517, e-STJ, aduz a impossibilidade de majoração dos honorários advocatícios.
+Impugnação às fls. 523/526, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DA EMBARGANTE.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do art. 1.021, § 1º, do CPC/15. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto do decisum hostilizado. Aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O agravo interno não merece sequer conhecimento.
+1. Com efeito, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o decisum hostilizado, de maneira a demonstrar que o julgamento proferido merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge, deve especificamente infirmar a fundamentação utilizada.
+No caso dos autos, nas razões do agravo interno (fls. 501/518, e-STJ), a insurgente não combateu, especificamente, como lhe competia, o fundamento utilizado na decisão ora agravada (Súmulas 283/STF e 7/STJ).
+Em decisão monocrática (fls. 492/497, e-STJ), o recurso especial foi desprovido sob os seguintes fundamentos:
+(a) quanto à alegada ofensa ao artigo 1013, § 3º, do CPC/2015, não houve particularização do inciso supostamente violado. Tal situação atrai o óbice disposto na Súmula 284 do STF;
+(b) ademais, observou-se que as razões utilizadas pelo Tribunal de origem para julgar improcedentes os Embargos à Execução oposto pela ora agravante não foram impugnados pela parte recorrente. Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF; e
+(c) além disso, consignou-se que reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Ocorre que, nas razões de agravo interno de fls. 501/518, e-STJ, a insurgente no tópico 2, fls. 502/513, e-STJ, faz breve resumo da demanda; no item 3, fls. 513/516, e-STJ, sustenta a inaplicabilidade da Súmula 284/STF, afirmando ter particularizado o dispositivo indicado como violado; e, por fim, no ponto 4 da petição recursal, entre as fls. 516/517, e-STJ, aduz a impossibilidade de majoração dos honorários advocatícios.
+Observa-se, assim, a agravante não impugnou, como lhe competia, a incidência das Súmulas 283 do STF e 7 do STJ, não trazendo argumentos aptos a afastar a aplicação dos referidos óbices.
+Inexistindo impugnação específica, como seria de rigor, ao fundamento da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, § 1º, do CPC/2015 que determina "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Incide, na espécie, analogamente, novamente, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. NÃO VERIFICADO. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. SÚMULA N. 7 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO. 1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ. 2. Para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar, genericamente, que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas, devendo a parte expor a tese jurídica desenvolvida no recurso especial e a demonstrar a adoção dos fatos tais quais postos nas instâncias ordinárias. 3. Não se verifica cerceamento de defesa, quando, no julgamento antecipado da lide, o Tribunal a quo entende o feito devidamente instruído e refuta a produção de provas adicionais, que considera desnecessárias, por se tratar de matérias de fato ou de direito já comprovadas documentalmente. 4. Agravo interno não conhecido. (AgInt no AREsp n. 2.173.404/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação da Súmula nº 7 quanto a negligência da agravante e da Súmula nº 568 do STJ quanto a inocorrência de decisão surpresa que levaram ao não provimento do especial articulado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ. 3. Agravo interno não conhecido. (AgInt no REsp n. 1.860.663/RO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+Assim, ante a falta de ataque específico aos fundamentos da decisão agravada aplica-se, por analogia, o óbice contido na Súmula 182 do STJ.
+2. Por fim, correta a majoração dos honorários advocatícios.
+Compulsando os autos, é possível verificar que a sentença de fls. 264/271, e-STJ, ao julgar procedentes os Embargos do Devedor, ora agravante, para anular o título de crédito objeto da execução, condenou o Embargado, ora agravado, ao pagamento de custas e despesas do processo, fixando verba de sucumbência em dez por cento sobre o valor da causa.
+Por sua vez, a Corte de origem, ao dar provimento ao recurso de apelação da parte recorrida, reformou a sentença "julgando totalmente improcedentes os Embargos à Execução oposto pela apelada, além de inverter o ônus da sucumbência, em todos os seus termos" (fl. 380, e-STJ).
+Portanto, de rigor a aplicação do artigo 85, § 11, do CPC/2015, em razão do julgamento do recurso especial.
+3. Do exposto, não conheço do agravo interno.
+É como voto.
