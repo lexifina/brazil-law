@@ -1,0 +1,74 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5028654-60.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RAQUEL RIBEIRO SANT ANA
+RECORRIDO: COOPERATIVA DE CREDITO CONEXAO - SICOOB CONEXAO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+Recurso Inominado nos autos n° 5028654-60.2023.8.08.0048
+Recorrente: RAQUEL RIBEIRO SANT’ANA
+Recorrida: COOPERATIVA DE CRÉDITO CONEXÃO – SICOOB CONEXÃO
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo a gratuidade da justiça à parte recorrente, visto que preenchidos os requisitos legais.
+
+EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE DANOS MATERIAIS EM SUA RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. EXTINTO O FEITO POR AUSÊNCIA DA REQUERENTE À AUDIÊNCIA DE CONCILIAÇÃO.
+(1). RECURSO DA PARTE REQUERENTE.
+ADUZ QUE NÃO COMPARECEU À AUDIÊNCIA TENDO EM VISTA PROBLEMAS DE CARÁTER PESSOAIS QUE A IMPEDIRAM DE COMPARECER AO ATO. REQUER O PROVIMENTO DO RECURSO INTERPOSTO, COM A CONSEQUENTE PROCEDÊNCIA DA DEMANDA. POR FIM, POSTULA PELA REFORMA DO JULGADO, ALMEJANDO CONCESSÃO DE JUSTIÇA GRATUITA.
+(2). DO MÉRITO.
+PARTE AUTORA QUE, APESAR DE DEVIDAMENTE INTIMADA, NÃO COMPARECEU À
+AUDIÊNCIA DE CONCILIAÇÃO (ID. 8196028)
+, TAMPOUCO APRESENTOU JUSTIFICATIVA PLAUSÍVEL DE SUA AUSÊNCIA ATÉ O ENCERRAMENTO DO ATO, O FAZENDO APENAS E TÃO SOMENTE QUANDO DA INTERPOSIÇÃO DE RECURSO INOMINADO. EM SEDE DE JUIZADO ESPECIAL O COMPARECIMENTO PESSOAL DA PARTE PESSOA FÍSICA É REGRA, CONFORME JÁ PACIFICADO NO ENUNCIADO 20 DO FONAJE EM REAFIRMAÇÃO DO EXPRESSO NO ART. 9º DA LEI 9.099/95. SENDO CASO DE EXTINÇÃO PROCESSUAL A AUSÊNCIA DA PARTE AUTORA EM QUALQUER DAS AUDIÊNCIAS DO PROCESSO. ADEMAIS, AS CUSTAS PROCESSUAIS DEVIDAS PELA EXTINÇÃO PREMATURA DO FEITO, NESSES CASOS, POSSUEM NATUREZA DE MULTA, NA FORMA DO ART. 51, § 2º, DA LEI 9.099/95, E, MESMO DIANTE DA CONCESSÃO DE JUSTIÇA GRATUITA POR ESTA TURMA RECURSAL, SÃO DEVIDAS E NÃO TEM SUA EXIGIBILIDADE SUSPENSA, MESMO COM A APLICAÇÃO SUBSIDIÁRIA DO CPC AO CASO. NESTA ESTEIRA, ENTENDO QUE A SENTENÇA IMPUGNADA DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS NA FORMA DO ENUNCIADO NÚMERO 11 DAS TURMAS RECURSAIS:
+“A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA”.
+(3).
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+(4).
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA, SUSPENSA, CONTUDO, SUA EXIGIBILIDADE, ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA, CONFORME PRELEÇÃO DO § 3º, DO ART. 98, DO CPC.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator
+Dr.
+FELIPE LEITÃO GOMES
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
