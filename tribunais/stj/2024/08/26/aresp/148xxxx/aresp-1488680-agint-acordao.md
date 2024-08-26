@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC. VÍCIOS NO ACÓRDÃO PROFERIDO NA ORIGEM. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FRACIONAMENTO. RPV EM NOME DO CAUSÍDICO. POLO ATIVO. COMPOSIÇÃO. NECESSIDADE. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação liter al de todas as teses defensivas ou dispositivos de lei.
+2. Consoante o entendimento assentado por esta Corte Superior de Justiça nos autos do Recurso Especial 1.347.736/RS, representativo de controvérsia, o fracionamento do crédito relativo aos honorários sucumbenciais por requisição de pequeno valor (RPV) somente é possível quando a parte também compuser o polo ativo da ação, o que não ocorreu na presente hipótese.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCO GERALDO ABRAHÃO SCHORR e OUTRO contra a decisão que negou provimento ao recurso especial com fundamento na inexistência de violação aos arts. 489 e 1.022 do CPC e no entendimento do STJ sobre a impossibilidade de fracionamento do RPV.
+Em suas razões, a parte agravante sustenta que:
+(a) há efetiva violação aos arts. 489 e 1.022 do CPC, pois há omissão sobre os fundamentos de mérito, especialmente a respeito do entendimento assentado pelo Supremo Tribunal Federal (STF) e estatuído na Súmula Vinculante 47 no sentido de a verba honorária pertencer exclusivamente aos advogados;
+(b) na forma dos arts. 22, 23 e 85 do Estatuto da Ordem dos Advogados do Brasil (EOAB), os honorários advocatícios constituem direito autônomo de natureza alimentar do advogado, devendo ser emitido RPV em apartado do valor principal em nome do causídico, não se fazendo ressalva alguma em relação à forma como serão recebidos, muito menos ao litisconsórcio.
+Impugnação às fls. 730/737.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC. VÍCIOS NO ACÓRDÃO PROFERIDO NA ORIGEM. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FRACIONAMENTO. RPV EM NOME DO CAUSÍDICO. POLO ATIVO. COMPOSIÇÃO. NECESSIDADE. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação liter al de todas as teses defensivas ou dispositivos de lei.
+2. Consoante o entendimento assentado por esta Corte Superior de Justiça nos autos do Recurso Especial 1.347.736/RS, representativo de controvérsia, o fracionamento do crédito relativo aos honorários sucumbenciais por requisição de pequeno valor (RPV) somente é possível quando a parte também compuser o polo ativo da ação, o que não ocorreu na presente hipótese.
+3. Agravo interno a que se nega provimento.
+VOTO
+Compulsando os autos, observo que o agravo interno não merece prosperar tendo em vista que, dos argumentos nele apresentados, não vislumbro razões para reformar a decisão recorrida.
+Conforme consignado na decisão agravada, registrou-se inexistir a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional havia sido dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido, contando o acórdão na origem com ampla fundamentação sobre o tema trazido pela parte ora agravante.
+Conforme se depreende notadamente das fls. 345/346, o Tribunal de origem apreciou fundamentadamente a controvérsia, inclusive, de modo expresso, sobre o entendimento do STF, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade. Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No mais, a despeito das alegações da parte agravante quanto à natureza autônoma dos honorários, o entendimento apresentado pela Corte de origem se alinha à jurisprudência consolidada nesta Corte Superior de Justiça nos autos do Recurso Especial 1.347.736/RS, julgado sob o rito dos recursos repetitivos, no sentido de que o fracionamento do crédito relativo aos honorários sucumbenciais por RPV somente é possível quando a parte também compuser o polo ativo da ação, o que não ocorreu na presente hipótese. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. ERRO DE PREMISSA. EXISTÊNCIA. EFEITOS INFRINGENTES. CARÁTER EXCEPCIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO DO CRÉDITO PRINCIPAL EM CONJUNTO COM OS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSENTE LITISCONSÓRCIO FACULTATIVO ENTRE A PARTE E SEU PATRONO NO FEITO EXECUTIVO. IMPOSSIBILIDADE DE FRACIONAR O PRECATÓRIO PARA POSSIBILITAR O RECEBIMENTO DE HONORÁRIOS SUCUMBENCIAIS POR MEIO DE REQUISIÇÃO DE PEQUENO VALOR - RPV. RECURSO ACOLHIDO COM EFEITOS INFRINGENTES
+ ..
+4. Na presente hipótese, "é inaplicável o entendimento sufragado no julgamento do REsp 1.347.736/RS (sob o rito do art. 543-C do CPC/1973), porquanto a execução apenas foi ajuizada em nome da credora principal, sem que os advogados credores também constassem do polo ativo, razão pela qual é defeso o fracionamento da execução, para possibilitar que os honorários sejam pagos por meio de RPV" (EDcl no AgInt no RMS 51.980/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022).
+5. Embargos de declaração acolhidos, com efeitos infringentes, para, conhecendo do agravo, negar provimento ao recurso especial.
+(EDcl no AgInt nos EDcl no AREsp n. 1.762.414 /RS, de minha relatoria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. OMISSÃO VERIFICADA. POSSIBILIDADE DE ATRIBUIR EFEITO INFRINGENTE AO JULGADO. EXECUÇÃO TÃO SOMENTE AJUIZADA EM FAVOR DA CREDORA DO VALOR PRINCIPAL. IMPOSSIBILIDADE DE FRACIONAR O PRECATÓRIO PARA POSSIBILITAR O RECEBIMENTO DE HONORÁRIOS SUCUMBENCIAIS POR MEIO DE REQUISIÇÃO DE PEQUENO VALOR - RPV.
+ ..
+2. No presente caso, verifica-se a ocorrência de omissão, na medida em que não houve manifestação sobre a alegação do ora embargante, no sentido de que a execução é tão somente movida pela parte autora, sem a presença do advogado no polo ativo do referido feito.
+3. In casu, é inaplicável o entendimento sufragado no julgamento do REsp 1.347.736/RS (sob o rito do art. 543-C do CPC/1973), porquanto a execução apenas foi ajuizada em nome da credora principal, sem que os advogados credores também constassem do polo ativo, razão pela qual é defeso o fracionamento da execução, para possibilitar que os honorários sejam pagos por meio de RPV.
+4. Embargos de declaração acolhidos, com excepcional atribuição de efeito infringente ao julgado.
+(EDcl no AgInt no RMS n. 51.980/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do Código de Processo Civil porque o mero inconformismo com a decisão agravada não enseja a necessária imposição de sanção, quando não configurada a manifesta inadmissibilidade ou a improcedência do recurso, por decisão unânime do colegiado, como no caso em exame.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
