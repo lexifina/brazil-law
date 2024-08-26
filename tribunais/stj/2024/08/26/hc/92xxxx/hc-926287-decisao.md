@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS BALBINO contra acórdão do Tribunal de Justiça do Estado do Santa Catarina proferido no HC n. 5031533-09.2024.8.24.0000.
+Consta dos autos que o paciente teve a prisão preventiva decretada em 27/2/2024, pela suposta prática da conduta descrita nos arts. 33, caput, e 35, caput, c/c o art. 40, inciso VI, todos da Lei n. 11.343/2006. A prisão ocorreu no dia 05/03/2024.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões do writ, alega-se, em síntese, que não se encontram presentes os requisitos autorizadores da prisão preventiva, que o decreto prisional está amparado em fundamentação inidônea e que é suficiente a imposição de medidas cautelares diversas.
+Ressalta-se, ainda, que o custodiado é portador de condições pessoais favoráveis.
+Requer-se, em liminar e no mérito, seja revogada a prisão preventiva do paciente, ainda que mediante a imposição de medidas cautelares alternativas.
+O pedido liminar foi indeferido às fls. 1608-1609.
+Informações prestadas às fls. 1616-1690 e 1694-1699.
+O Ministério Público Federal manifestou-se às fls. 1701-1706, opinando pelo não conhecimento do writ, se conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro decretou a prisão preventiva do paciente valendo-se das razões a seguir transcritas (fls. 356-362; grifamos):
+ ..
+Sobre a coordenação desempenhada por Alisson e Josiel, notou-se que João Victor e Matheus Balbino, vulgo "PK", seriam mais alguns dos recrutados para fazer girar os entorpecentes até as mãos dos usuários, os quais, quando estivessem em dívida, também seriam cobrados por eles. No ponto, além de terem sido flagrados na residência quando em cumprimento de diligências, convém destacar trechos em que, segundo a Autoridade Policial, João Victor ameaçava pessoas com as determinações exaradas pela "organização" com seus decretos, que poderiam ser aplicados contra os inadimplentes.
+ ..
+Com relação a Andrey e Andrea, ainda que sem maiores comprovações, indicou-se informações de que aquele traficava drogas junto de João Victor e Matheus, em especial nas imediações do Bar Azul, enquanto esta exercia o comércio de entorpecentes, indicando a autoridade policial que ela também integra posição de liderança dentro do grupo de organização criminosa PGC.
+ ..
+II. DA SEGREGAÇÃO PREVENTIVA
+A priori, no que tange à situação dos investigados Josiel Gresele Jose, João Victor Toreti Viana, Letícia da Silva Dalke, Jairo Luiz Joaquim, Alex Junio dos Santos Silva, Matheus Balbino, Danielly Pereira Machado e Alisson Barreto Santos tal como representa a Autoridade Policial, entendo que, por ora, presentes estão os requisitos do artigo 312 do Código de Processo Penal para a prisão cautelar, em que dispõe que " a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria ".
+ ..
+Estabelecidas tais premissas, resta bem evidente o risco à ordem pública em face da liberdade dos representados Josiel Gresele Jose, João Victor Toreti Viana, Letícia da Silva Dalke, Jairo Luiz Joaquim, Alex Junio dos Santos Silva, Matheus Balbino, Danielly Pereira Machado e Alisson Barreto Santos, porquanto iminente o risco de reiteração delitiva, visto que dados como intensamente atuantes no narcotráfico neste Município, sendo ainda suspeitos de integrarem associação para o tráfico, organização criminosa e partícipes em crimes de gravidade concreta e abstrata acentuadas.
+Com efeito, não obstante a vagueza da expressão "ordem pública", em geral a doutrina e a jurisprudência associam ameaça à ordem pública à possibilidade de reiteração criminosa, à gravidade do crime e de sua repercussão no meio social, acrescidos de uma miscelânea entre garantia da credibilidade da justiça, reiteração criminosa e circunstâncias das práticas delituosas que demonstrem periculosidade exacerbada dos agentes.
+Desse modo, estando em liberdade e incidindo na senda criminosa, resta claro que os representados colocam em risco a ordem pública. Fatos concretos e não meras suposições, indicam a necessidade da medida excepcional; diante disso vislumbram-se fatos certos ou possíveis, que levam a crer que os representados, em liberdade, apresenta transtorno social.
+ ..
+Entretanto, o risco concreto que a liberdade dos representados causam - já exaustivamente demonstrado ao longo da fundamentação - evidencia a insuficiência das medidas cautelares diversas da prisão, tendo em vista que são medidas que obviamente preservam, ainda que com algumas limitações, direito de ir e vir dos indivíduos.
+ ..
+b) decretar a prisão preventiva de Josiel Gresele Jose, João Victor Toreti Viana, Letícia da Silva Dalke, Jairo Luiz Joaquim, Alex Junio dos Santos Silva, Matheus Balbino, Danielly Pereira Machado e Alisson Barreto Santos, pois presentes os requisitos constantes nos artigos 312 e 313 do Estatuto Processual Penal, mormente em relação a necessidade de ser garantida a ordem pública;
+c) com base no artigo 240, § 1º, alíneas "b", "e" e "f" e "h", e §2º, do CPP, deferir o pedido para determinar a busca e apreensão a ser cumprida nos respectivos endereços, contra os seguintes alvos:
+ ..
+c.7) casa de Matheus Balbino, localizada à Rua Nildo Antônio Rampinelli, n. 65, Bairro Ouro Negro, Forquilhuinha - SC;
+O Tribunal de origem, por sua vez, manteve a segregação cautelar, consignando, in verbis (fl. 1590; grifamos):
+ ..
+Como se vê, a autoridade judiciária destacou o suposto envolvimento do paciente, com papel relevante, em grupo criminoso, este, em tese, formado com os corréus para a prática do tráfico de drogas, que também integram organização criminosa, com ampla atuação no Estado. Ainda que, por ocasião do cumprimento do mandado de busca e apreensão, o paciente tenha sido apreendido com quantidade não expressiva de droga (além de dois cadernos com anotações sobre o tráfico de drogas), a periculosidade destacada para justificar a segregação cautelar não se baseia neste fato, mas, sim, na probabilidade de reiteração criminosa evidenciada pela investigação realizada pela polícia civil, que indica estar o paciente associado aos demais corréus para a prática de tráfico de drogas, pessoas que possuem relação com organização criminosa, conforme denúncia ofertada em desfavor do paciente (evento 1 dos autos n. 5000837-74.2024.8.24.0166).
+Diante disso, entendo que a prisão preventiva do paciente está satisfatoriamente fundamentada nas disposições do art. 312, caput , do Código de Processo Penal.
+Portanto, voto no sentido de denegar a ordem.
+Como se percebe, a decretação da prisão preventiva está suficientemente fundamentada, tendo as instâncias ordinárias destacado a gravidade concreta dos fatos, bem como a necessidade de impedir a reiteração delitiva e desarticular a aparente organização criminosa que supostamente o paciente faz parte .
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Aplica-se à espécie o entendimento desta Corte de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades (AgRg no HC n. 773.086/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 04/10/2022, DJe de 10/10/2022).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. INTEGRANTE DE FACÇÃO CRIMINOSA.
+1 Antes do trânsito em julgado da condenação, a prisão somente é cabível quando demonstrado o periculum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. No caso, a preservação da segregação antecipada encontra-se devidamente motivada, pois invocou o Magistrado de piso a gravidade concreta da conduta e a periculosidade social do recorrente, já que que supostamente integra a facção do Primeiro Grupo Catarinense (PGC). Destacaram as instâncias de origem que "a Polícia Civil, por meio da DIC de Lages, desencadeou, nesta data (08 de março) a Operação Hidras da Serra - Fase II para combater integrantes de organização criminosa Primeiro Grupo Catarinense - PGC. As investigações referentes aos alvos desta operação estão formalizadas no IP nº 114.2024.8, nesta fase, foram identificados 9 integrantes desta facção criminosa que, ao menos até o meio do ano de2023, estavam ocupando os cargos da cúpula da facção criminosa" .
+3. Conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe 20/2/2009).
+4. Agravo regimental desprovido. (AgRg no RHC n. 198.290/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. REPUTADO PROTAGONISMO EM ORGANIZAÇÃO CRIMINOSA. LEGITIMIDADE DA MEDIDA CAUTELAR EXTREMA. EXCESSO DE PRAZO QUE NÃO SE VERIFICA. RECURSO DA DEFESA NÃO PROVIDO.
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, as instâncias ordinárias concluíram haver indícios suficientes, na esteira de investigação policial que se estendeu por mais de três anos, de que o ora agravante integraria organização criminosa que orbita o tráfico de drogas ilícitas, sendo um dos líderes do núcleo responsável pela aquisição de substâncias usadas no falseamento de drogas ilícitas, além de "arregimentar interpostas pessoas para movimentação dos valores ilicitamente amealhados".
+2. Ao que se vê, os fundamentos da prisão preventiva são robustos, descrevendo indícios muito concretos de risco à ordem pública, e não a mera gravidade abstrata atribuída pela lei aos tipos penais, sendo certo que esta Corte considera legítima a prisão preventiva destinada a desarticular associações ou organizações criminosas.
+3. Ademais, conforme referido, o ora agravante e seu irmão desempenhariam posição de liderança na organização criminosa, a qual teria permanecido em atividade até março de 2023, tendo sido capturado apenas em 13/03/2024.
+(..)
+8. Agravo regimental não provido.
+(AgRg no HC n. 915.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
