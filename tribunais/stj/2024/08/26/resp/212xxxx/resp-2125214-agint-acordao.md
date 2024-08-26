@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PRESTAÇÃO  JURISDICIONAL.  DEFICIÊNCIA.  NÃO  OCORRÊNCIA.  INDENIZAÇÃO EMERGENCIAL. TERMO DE ACORDO.  PAGAMENTO.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. RECONHECIMENTO NA ORIGEM. MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL. AFASTAMENTO. IMPOSSIBILIDADE.
+1.  A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+2. Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  Na  hipótese,  acolher  a  tese  pleiteada  pela  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  de provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+4. Tendo o tribunal de origem vislumbrado o caráter protelatório dos embargos opostos, não há falar em ofensa ou negativa de vigência ao art. 1.026, § 2º, do CPC, mas em seu fiel cumprimento.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto por VALE S.A. contra  a  decisão  (e-STJ fls.  899/903)  que  conheceu  em parte do  recurso  especial  e,  nessa  extensão,  negou-lhe  provimento  em  virtude  da  ausência  de  violação  dos  artigos  489  e 1.022 do  Código  de  Processo  Civil e  da  incidência  das  Súmulas  nºs  5 , 7 e 211/STJ.
+Em  suas  razões  (e-STJ fls.  907/1.122),  a agravante  reitera  a  negativa  de  prestação  jurisdicional  na  origem, bem como a inaplicabilidade da Súmula nº 211/STJ, sustentando que "a douta Turma não analisou a argumentação sobre a aplicabilidade da quitação, com efeitos ex-tunc previstos no AJRI, o que inegavelmente atrai a perda do objeto da ação" (e-STJ fl. 914).
+Aduz, ainda, que  os  óbices  apontados  não  se  aplicam  à  espécie. , pois trata-se de matéria exclusivamente de direito, que independe dos elementos de prova colacionados aos autos, atraindo, por consequência, apenas a revaloração da matéria fático-probatória externada na decisão vergastada.
+Por fim, aponta violação ao artigo 1.026, do CPC, eis que os aclaratórios possuem evidente natureza de prequestionamento, o que afasta a multa do artigo mencionado.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PRESTAÇÃO  JURISDICIONAL.  DEFICIÊNCIA.  NÃO  OCORRÊNCIA.  INDENIZAÇÃO EMERGENCIAL. TERMO DE ACORDO.  PAGAMENTO.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. RECONHECIMENTO NA ORIGEM. MULTA. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL. AFASTAMENTO. IMPOSSIBILIDADE.
+1.  A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211/STJ.
+2. Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  Na  hipótese,  acolher  a  tese  pleiteada  pela  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  de provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+4. Tendo o tribunal de origem vislumbrado o caráter protelatório dos embargos opostos, não há falar em ofensa ou negativa de vigência ao art. 1.026, § 2º, do CPC, mas em seu fiel cumprimento.
+5.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Preliminarmente, no que se refere à ofensa aos artigo 141 do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ainda, registra-se que o tribunal de origem se pronunciou acerca da quitação integral integral e definitiva conferida nos termos do Acordo para Reparação Integral (AJR) que fez coisa julgada, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+
+No  que  diz  respeito  à  perda do objeto pela coisa julgada,  o  tribunal  de  origem  assim  dispôs:
+"(..)
+"Alega a apelante que houve a perda do objeto, em razão da extinção/solução definitiva, do pagamento emergencial e do TAP - Termo de Ajuste Preliminar.
+Sem razão.
+O que busca a requerente é seu reconhecimento enquanto atingida pelo incidente ambiental, o consequente pagamento retroativo do pagamento emergencial suspenso deliberadamente pela requerida, ora apelada, e sua inscrição no Programa de Transferência de Renda instituído pela Vale S/A e gerido pela Fundação Getúlio Vargas - FGV.
+Em seus fundamentos, o d. Juízo a quo afastou tal alegação sob o argumento de que:
+"até o momento, as requerentes não contavam com um título judicial para liquidar seu direito ou crédito em relação à indenização emergencial pretendida. Aliado a isso, a gestora de fundo não se confunde com a alteração de polo passivo, ou de assunção de responsabilidade civil e, estando este processo ainda na fase de conhecimento, dependente ainda de apuração e fixação da responsabilidade civil, deve ser sentenciado, com resolução do mérito, vez que o acordo firmado entre a VALE S/A e demais instituições em 04.02.2021, não alcança, até o momento, as partes autoras, que dele não participou e nem tem, por ora, título judicial que possa ser objeto de execução frente a gestora responsável pelo pagamento."
+(..)
+Ad argumentandum, ressalta-se que o eventual término das prestações do auxílio emergencial firmado no Termo de Acordo Preliminar (TAP) apenas implicaria no encerramento dos pagamentos, remanescendo a obrigação em relação às parcelas vencidas durante o período de vigência do acordo, razão pela qual não há perda de objeto" (fls. 645/646, e-STJ).
+Desse  modo,  a  alteração  de tais premissas  é  providência  que  esbarra  no  s óbices  das  Súmulas  nºs  5  e  7/STJ.
+Nesse  sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. ROMPIMENTO DA BARRAGEM DA MINA CÓRREGO DO FEIJÃO EM BRUMADINHO/MG. INDENIZAÇÃO EMERGENCIAL AJUSTADA EM TERMO DE ACORDO PRELIMINAR. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. MÉRITO. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7, DO STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. No caso, o Tribunal de Justiça, com fulcro no acervo fático-probatório carreado aos autos, reformando sentença, julgou parcialmente procedentes os pedidos postos na ação de indenização, condenando a ora agravante ao pagamento de prestações estabelecidas em "Termo de Ajuste Preliminar" à ora agravada, bem como a "(..) repassar o cadastro da referida autora à instituição gestora do Programa de Transferência de Renda, tudo sob pena de indisponibilidade eletrônica dos seus ativos financeiros".
+3. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria a reinterpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas 5 e 7, ambas do eg. STJ.
+4. Agravo interno a que se nega provimento" (AgInt no REsp n. 2.089.740/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ROMPIMENTO DA BARRAGEM BRUMADINHO. PERDA DE OBJETO. EXTINÇÃO DO PAGAMENTO EMERGENCIAL. SUBSTITUIÇÃO PELO TERMO DE ACORDO PRELIMINAR - TAP. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal de origem reconheceu a inexistência de perda de objeto da presente demanda, diante da existência de Acordo de Reparação Integral, de modo que a análise das alegações recursais - todas voltadas a defender a abrangência dos valores devidos nesta demanda pelo referido acordo - atrai a incidência das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento" (AgInt no REsp n. 2.051.700/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Por fim, a multa permanece mantida, diante do reconhecimento, pela Corte local, da má-fé e o intuito manifestamente protelatório nos embargos de declaração opostos pela agravante na origem.
+Assim,  verifica-se  que  a  recorrente  não  trouxe  nenhum  argumento  capaz  de  modificar  a  decisão  combatida,  que  segue  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
