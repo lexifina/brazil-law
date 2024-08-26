@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de  agravo  regimental  (Petição  n.  334.495/2024),  tempestivo, interposto  por  Francisco Leonardo Pinheiro da Silva contra a decisão, da lavra deste Relator, que negou seguimento o recurso ordinário em habeas corpus (fls. 309/311), a seguir ementada:
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E RECEPTAÇÃO SIMPLES. NULIDADE. RECEBIMENTO DA DENÚNCIA. FUNDAMENTAÇÃO SUCINTA. POSSIBILIDADE. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS E IDÔNEOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. AUSÊNCIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+Recurso a que se nega seguimento com recomendação.
+Pretende o agravante, em síntese:
+a) a declaração da nulidade da decisão de ratificou o recebimento da denúncia - apontando que nem sequer fez alusão, ainda que de forma suscinta, aos argumentos trazidos pela defesa em sua resposta à acusação (fl. 321); e
+b) a revogação de sua prisão cautelar, aos argumentos de excesso de prazo para a formação da culpa - assentando que o agravante se encontra recluso desde o dia 31 de julho de 2023, preso há exatos 9 (nove) meses (fl. 326) - e deficiência de fundamentação do decreto preventivo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS COM SEGUIMENTO NEGADO. HOMICÍDIO QUALIFICADO E RECEPTAÇÃO SIMPLES. NULIDADE. RECEBIMENTO DA DENÚNCIA. SUPERVENIÊNCIA DA DECISÃO DE PRONÚNCIA. PREJUDICIALIDADE. PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA E REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS E IDÔNEOS. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. DESÍDIA OU INÉRCIA DO MAGISTRADO SINGULAR. AUSÊNCIA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática na qual se negou seguimento ao recurso ordinário, quando não evidenciado constrangimento ilegal quanto à alegada nulidade da decisão de recebimento da denúncia, nem ausência de fundamentação da segregação provisória ou coação ilegal por excesso de prazo.
+2. Prejudicada a alegação de nulidade do recebimento de denúncia, em razão da superveniência da pronúncia do ora agravante.
+3. Inexistente constrangimento quanto à fundamentação do decreto prisional, pois se demonstrou o re ceio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e a reiteração delitiva, em razão da suspeita de envolvimento com diversos delitos de homicídio ocorridos na localidade, com modo de execução semelhante, em disputas entre facções criminosas pelo tráfico de drogas na região.
+4. Inevidente o alegado excesso de prazo para formações da culpa, uma vez que se trata de feito complexo (com 4 réus, diversidade de condutas delitivas e sujeito ao procedimento especial do Tribunal do Júri) e inexiste contribuição do Judiciário na eventual mora processual, pois, nos termos das informações prestadas pelo Juízo de primeiro grau, em 7/5/2024, foi proferida a pronúncia, tendo sido interposto recurso em sentido estrito pelo ora agravante em 13/5/2024.
+5. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que manteve a prisão preventiva do ora agravante, decretada em 27/9/2023 (fls. 337/338), e não reconheceu nulidade do recebimento da denúncia na Ação Penal n. 0803835-80.2023.8.10.0105, da Vara Única da comarca de Parnarama/MA, que apura a prática dos crimes de homicídio qualificado e receptação simples - não comporta reparos.
+Inicialmente, tem-se que prejudicada a alegação de nulidade do recebimento de denúncia, em razão da superveniência da pronúncia do agravante (fls. 347/354).
+Ademais, da análise dos autos não se verifica constrangimento quanto à fundamentação do decreto prisional, pois demonstrou o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando a gravidade concreta do delito e a reiteração delitiva - os representados são suspeitos da autoria dos diversos delitos de homicídio que vem ocorrendo neste município de Parnarama, que já passam de 9 (nove), todos com modo de execução semelhante, em disputas entre facções criminosas pelo tráfico de drogas na região, de modo que liberdade destes oferece grave risco à ordem pública (fl. 337) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+Finalmente, também não evidenciado o alegado constrangimento ilegal por excesso de prazo para formações da culpa, uma vez que, no trâmite processual não se verificou, de plano, violação dos princípios da razoabilidade e da proporcionalidade, balizas de aferição da razoável duração do processo, porque:
+a) trata-se de feito complexo - com 4 réus, diversidade de condutas delitivas (receptação simples e homicídio qualificado por motivo torpe, emprego de meio cruel, mediante recurso que dificultou a defesa da vítima e com emprego de arma de uso restrito), sujeito ao procedimento especial do Tribunal do Júri -; e
+b) inexiste contribuição do Judiciário na eventual mora processual, pois, nos termos das informações prestadas pelo Juízo de primeiro grau (fls. 332/335), em 7/5/2024, foi proferida a pronúncia (fls. 347/354), tendo sido interposto recurso em sentido estrito pelo ora agravante em 13/5/2024.
+Em razão disso, nego provimento ao agravo regimental.
