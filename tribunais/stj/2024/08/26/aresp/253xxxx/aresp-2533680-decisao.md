@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIA REGINA TUCCI contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. DESPESAS DE CONDOMÍNIO. EMBARGOS À EXECUÇÃO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. DOCUMENTAÇÃO HÁBIL A INSTRUIR A DEMANDA. DILAÇÃO PROBATÓRIA DESNECESSÁRIA E PROCRASTINATÓRIA. ELEMENTOS COMPROBATÓRIO DO CRÉDITO. ATRIBUIÇÃO SEGURA DE LIQUIDEZ, CERTEZA E EXIGIBILIDADE. CARACTERIZAÇÃO DO TÍTULO EXECUTIVO EXTRAJUDICIAL. RECURSO IMPROVIDO.
+Não se vislumbra o alegado cerceamento de defesa no caso em julgamento. Ação executiva lastreada em título extrajudicial, ou seja, baseada em documentos que comprovam seguramente o crédito condominial, ao qual a lei atribui os requisitos que caracterizam o título executivo da certeza, liquidez e taxatividade. Desnecessária a dilação probatória pretendida pela embargante que visa procrastinar o andamento do processo com direcionamentos inúteis.
+APELAÇÃO. DESPESAS DE CONDOMÍNIO. EMBARGOS À EXECUÇÃO. NULIDADE DA CITAÇÃO POR EDITAL. NÃO CONFIGURADA. ESGOTAMENTO DAS TENTATIVAS DE LOCALIZAR A EMBARGANTE (EXECUTADA). RECURSO IMPROVIDO. A citação por edital ocorreu em cumprimento às regras processuais previstas nos arts. 256 e 257 do Código de Processo Civil (CPC), afastando, por sua vez, a alegação de nulidade invocada pela embargante por eventuais vícios" (e-STJ fl. 652).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 663/665).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao desprezar importante questão arguida nos embargos declaratórios;
+(ii) art. 784, X, do Código de Processo Civil - em razão de não constar nos autos convenções de condomínio e atas de assembleia geral capazes de justificar as taxas executadas;
+(iii) art. 5º, LV, da Constituição Federal - haja vista o cerceamento de defesa decorrente do indeferimento da produção de prova pericial contábil.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem se pronunciou acerca dos pontos levantados pela recorrente, mesmo que de modo breve, afastando os argumentos deduzidos que, em tese, seriam capazes de infirmar a conclusão adotada.
+Como se sabe, cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pela parte recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE PROCESSUAL. DECISÃO QUE DEFERIU O PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DA EMPRESA EXECUTADA. PRECLUSÃO. OCORRÊNCIA. REVISÃO. SÚMULA N. 7/STJ. TEORIA MENOR. OBSTÁCULO AO RESSARCIMENTO DOS DANOS CAUSADOS AOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 83/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS CONSTATADOS. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. PENHORA SOBRE SALDO DE PLANOS DE PREVIDÊNCIA PRIVADA. POSSIBILIDADE. NÃO UTILIZAÇÃO PARA FINS ALIMENTARES. REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. ANÁLISE CASUÍSTICA. NÃO OCORRÊNCIA, NA ESPÉCIE. AGRAVO INTERNO IMPROVIDO.
+1. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido contrariamente à pretensão da parte. Nesse contexto, esta Corte já se manifestou no sentido de que não há se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+2.(..)"
+(AgInt no AREsp 2.205.438/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+Quanto ao mais, constata-se que o Tribunal estadual, à luz da prova dos autos, concluiu pela validade e exigibilidade do título executivo, conforme se extrai da leitura do voto condutor, merecendo destaque os seguintes trechos:
+"Tramita ação de execução de débitos condominiais desde 2014, cujos créditos estão documentalmente comprovados por meio das contribuições ordinárias, extraordinárias de condomínio edilício previstas em convenção ou aprovadas em assembleia geral.
+(..)
+Dessa forma, no caso, bastou ao embargado ingressar com processo de execução contra a embargante devedora instruindo sua petição inicial com cópia da convenção condominial e da ata da assembleia que estabeleceu o valor das cotas condominiais, ordinárias ou extraordinárias, além de outros elementos.
+Logo, constata-se que, em decorrência do texto expresso de lei, o crédito referente às contribuições de condomínio edilício constitui título executivo extrajudicial e pode ser objeto de execução, já que documentalmente comprovado" (e-STJ fls. 654/656 - grifou-se).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 INEXISTENTE. INCONFORMISMO. COTA CONDOMINIAL. TÍTULO EXECUTIVO EXTRAJUDICIAL. HIGIDEZ DOS VALORES APRESENTADOS. INADEQUAÇÃO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA N. 7/STJ.
+(..) 4. Concluindo a Corte de origem que os documentos necessários à execução foram apresentados e que eventual pretensão de ver reconhecida a nulidade da assembleia ou da convenção do condomínio deve ser promovida por meio de embargos, sendo inservível para o desiderato a via da exceção de pré-executividade, a reversão do julgado demandaria reexame do acervo fático-probatório dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+Agravo interno improvido." (AgInt no AREsp n. 2.295.287/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023 - grifou-se)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONDOMÍNIO. EXECUÇÃO. REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. JULGAMENTO "EXTRA PETITA". ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático- probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que o inadimplemento é incontroverso, bem como que houve demonstração da existência de previsão orçamentária, aprovada por assembleia, e que os documentos apresentados são suficientes para o exercício da ação executiva. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante o óbice da referida súmula. (..)" (AgInt no AgInt no AREsp n. 2.264.225/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023 - grifou-se)
+Quanto ao art. 5º, LV, da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+Além disso, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor corrigido da execução , não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
