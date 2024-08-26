@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+$ ementa
+RELATÓRIO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 620):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIABILIDADE DE CONSTRUÇÃO. EXIGÊNCIA DA DISTÂNCIA MÍNIMA ENTRE A EDIFICAÇÃO E O RIO CRICIÚMA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO QUE, POR SI SÓ, ASSEGURA O RESULTADO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Inexiste violação do art. 1.022 do CPC, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. No caso, a ausência de impugnação a fundamento autônomo do acórdão recorrido que, por si só, respalda o resultado do julgamento, atrai a incidência da Súmula n. 283 do STF.
+4. Agravo interno não provido.
+Em suas razões, a parte embargante alega omissão do acórdão embargado, aduzindo que esta Corte deixou de se manifestar em relação ao pedido de reconsideração da decisão monocrática. Defende ainda omissão quanto à análise do pedido de afastamento da incidência da citada Súmula n. 283/STF, mediante a atribuição de efeitos infringentes, para que seja dado provimento ao Agravo Interno interposto pelo Parquet, para "prover-se o Apelo Especial do Ministério Público e, consequentemente, determinar que sejam observadas as disposições previstas no Código Florestal, consoante o Tema 1.010 dessa Corte Superior, reconhecendo-se a necessidade de que seja respeitado o limite de 30 (trinta) metros de distância do curso d"água como área non aedificandi." (fl. 641).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Analisando as razões apresentadas pela parte embargante, nota-se inexistir qualquer vício a ser sanado no julgado embargado, considerando que o acórdão embargado está fundamentado de modo coeso e preciso acerca dos pontos levantados no recurso especial.
+No caso, o acórdão embargado está bem fundamentado, na medida em que se negou provimento ao agravo interno de forma objetiva e fundamentada, não padecendo de qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, embora contrário ao interesse da parte embargante, ao se concluir que (fl. 624):
+ ..  ao indicar no recurso especial ofensa aos artigos 61, caput, § 1º e § 2º, da Lei n. 12.378/2010, 24 e 34 da Lei n. 12.378/2010, 1º, incisos I, III, IV, VI e VIII, da Lei n. 7.347/85, 3º, IX, da Lei n. 9.394/96, e direcionar a sua tese no sentido de que o Conselho possui competência para tratar de questões de ensino em arquitetura, deixou de impugnar os seguintes fundamentos do acórdão recorrido (fls. 299-349): o corpo hídrico, no trecho em questão, não exerce qualquer função ambiental; a situação se mostra irreversível; e mostra-se irrelevante a preservação das margens do curso d"água naquele curto trecho em que se localiza o imóvel.
+Ocorre que os fundamentos do acórdão recorrido (ausência de função ambiental, irreversibilidade e irrelevância), por si só, mantêm o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incide ao caso a Súmula n. 283 do STF. Nesse sentido: gInt no REsp 2.055.193/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 28/6/2023; AgInt no AREsp 1.775.664/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/06/2021; AgInt no AREsp 884.057/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 30/6/2023.
+Dessa forma, a despeito dos argumentos empreendido pelo agravante, mantem-se a decisão monocrática pelos seus próprios fundamentos.
+Ademais, a jurisprudência consolidada desta Corte entende que os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeitos os embargos de declaração.
+É como voto.
