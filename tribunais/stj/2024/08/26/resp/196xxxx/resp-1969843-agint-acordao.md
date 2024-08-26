@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo interno interposto pelo GRÊMIO FOOTBALL PORTO ALEGRENSE contra a decisão proferida pelo Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) às fls. 923/926.
+Nas razões recursais, a parte agravante reitera o que já foi exposto em seu recurso especial, reafirmando que houve ofensa ao art. 1.022, I e II, do CPC, o que justificaria a reforma da decisão agravada no ponto, além de afirmar que a matéria em análise não requer o revolvimento probatório da causa, mas tão somente sua efetiva valoração jurídica, sendo inaplicável a Súmula 7/STJ à espécie.
+Pede, ao final, a reconsideração da decisão impugnada ou a submissão do processo ao colegiado.
+Impugnação apresentada às fls. 963/966.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INÉPCIA DA INICIAL NÃO CONSTATADA NAS INSTÂNCIAS ORDINÁRIAS. TAXA DE CONTRIBUIÇÃO SOBRE TRANSFERÊNCIA DE ATLETAS. REGULARIDADE DA COBRANÇA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. PROVIMENTO NEGADO.
+1. A prestação jurisdicional foi dada pelo Tribunal de origem na medida da pretensão deduzida, abordando integral e fundamentadamente a matéria levada a seu conhecimento, inexistindo afronta ao art. 1.022 do Código de Processo Civil (CPC).
+2. Ao rechaçar as alegações relativas às supostas inépcia da inicial e inexigibilidade da cobrança da taxa de contribuição à Federação das Associações de Atletas Profissionais (FAAP), decorrente da transação de atletas de clubes esportivos, o Tribunal de origem se apoiou no exame dos elementos fático-probatórios constantes dos autos, e não apenas dos critérios jurídicos concernentes à utilização da prova, como pretende levar a crer a parte recorrente. Neste caso, a análise do mérito do recurso especial esbarraria, de fato, no óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito da argumentação do agravante, fica mantida a decisão agravada.
+Inicialmente, observo que a prestação jurisdicional foi dada pelo Tribunal de origem na medida da pretensão deduzida, abordando integral e fundamentadamente a matéria levada ao seu conhecimento, inexistindo afronta ao art. 1.022 do CPC.
+Quanto ao mérito da controvérsia, o Tribunal de origem rechaçou as alegações relativas às supostas inépcia da inicial e inexigibilidade da contribuição em comento (contribuição à FAAP) com estes fundamentos (fls. 556/557):
+De outro lado, as notícias colacionadas pela apelada na petição inicial são suficientes ao desempenho do ônus a respeito do valor das transferências, justamente em função do descumprimento do dever acima indicado, bem assim da ausência de prova, pelo recorrente, acerca de eventual imprecisão destes. Destaco que foi precisamente o descumprimento do dever do art. 55 do Decreto nº 7.984/2013 que justificou a colação de notícias de mídia especializada para o fim de mensurar a pretensão, como destacado na petição inicial da autora:"
+Nesse passo, à falta daquelas informações que o Clube Réu haveria de prestar por força do artigo 55 do Decreto nº 7.984/2013, mencionado acima, a Autora se serviu dos meios possíveis para, ao menos, ter um indicativo dos valores envolvidos nas negociações dos atletas em questão, valendo-se para tanto da mídia especializada para alcançá-los, conforme estampado nas notícias anexadas aos autos, bem como dos extratos desportivos dos atletas, obtidos no sistema de gestão da Confederação Brasileira de Futebol, que comprova a realização das transferências."
+Logo, imperioso o afastamento da alegação.
+2. Do pagamento.
+Afirma o apelante que o pagamento da contribuição do art. 57 da Lei 9.615/98 é condição necessária à realização do registro da transferência perante a Confederação Brasileira de Futebol, na forma dos arts. 57, §1º, da Lei 9.615/98 e 4º, do Decreto 6.297/2007, de modo que há presunção legal de que houve o recolhimento, questão não ilidida pela entidade apelada.
+Ocorre que a necessidade de recolhimento da contribuição para o registro do contrato de transferência não desonera o devedor de fazer prova efetiva do fato extintivo do direito do autor em havendo cobrança judicial desta, na forma do art. 373, II do CPC/15.
+Na verdade, a presunção de recolhimento não vem explícita na legislação de regência, que apenas destaca a necessidade de recolhimento para fins de registro, mas que, por exemplo, prevê, em decreto regulamentar, a necessidade de comunicação por parte das entidades nacionais de administração do desporto eventual inadimplência da contribuição, nos termos do art. 56, parágrafo único do Decreto nº 7.984/2013:
+"Art. 56. A entidade responsável pelo registro do contrato de trabalho do atleta profissional e pelo registro de transferência de atleta profissional a outra entidade desportiva deverá exigir, quando de sua efetivação, o comprovante do recolhimento das contribuições fixadas no art.57 da Lei nº 9.615, de 1998.
+Parágrafo único. As entidades nacionais de administração do desporto deverão informar à FAAP e à FENAPAF a relação dos atletas e das entidades de prática desportiva que não atenderem ao disposto no caput."
+De outro lado, a situação em apreço não se amolda a da Apelação Cível nº 70055620132, indicada pela parte insurgente, já que, naquele caso, "a presunção do pagamento pelo registro do contrato estava acompanhada de demais elementos probatórios, como, por exemplo, a lista de transferências de valores à FEDERAÇÃO DAS ASSOCIAÇÕES DE ATLETASPROFISSIONAIS - FAAP e a própria admissão em réplica do recebimento da quantia", nos termos em que consignado pela douta Relatora.
+Ainda no ponto, quanto às Apelações Cíveis n.º 70052776895, de relatoria do insigne Des. Irineu Mariani, e n.º 70032420192, de minha relatoria, o que se assentou era a impossibilidade de se mensurar a quantia devida em face de documentos unilateralmente produzidos pela Federação ora recorrida, o que não acontece na espécie, em que o indicativo dos valores vem referendado por notícias de mídias especializadas em futebol.
+Como fundamentado anteriormente, a desconstituição das premissas acima delineadas, que deram suporte à convicção do colegiado de origem quanto à existência de elementos probatórios suficientes a demonstrar a pretensão autoral, afastando a alegação de inépcia da inicial, bem como da regularidade na cobrança da taxa de contribuição à Federação das Associações de Atletas Profissionais (FAAP), decorrente da transação de atletas de clubes esportivos, importaria em nova análise dos elementos fático-probatórios constantes dos autos, e não apenas dos critérios jurídicos concernentes à utilização da prova, como pretende levar a crer a parte recorrente. Neste caso, a análise do mérito do recurso especial esbarraria, de fato, no óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ART. 57, I, LEI Nº 9.615/1998 (LEI PELÉ). FEDERAÇÃO. ATLETAS PROFISSIONAIS. CONTRIBUIÇÃO SOBRE SALÁRIOS. ART. 373, I E II, DO CPC/2015. FATOS CONSTITUTIVOS DO DIREITO DO AUTOR. COMPROVAÇÃO. REEXAME. SÚMULA Nº 7/STJ. JULGAMENTO EXTRA PETITA. SÚMULAS NºS 283 E 284/STF. ESTATUTO DA FEDERAÇÃO. SÚMULAS NºS 5 E 7/STJ. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+ ..
+2. Na espécie, o tribunal local considerou que a autora/agravada comprovou os fatos constitutivos do direito alegado, sendo devida a cobrança da contribuição sobre os salários dos atletas destinados à federação, conforme disposição legal e do estatuto da entidade.
+3. Na hipótese, a tese pleiteada pelo agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do estatuto da parte adversa, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.682.882/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/6/2021, DJe de 22/6/2021.)
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE CONTRIBUIÇÃO PREVISTA NO ART. 57, I, DA LEI 9.615/1998 (LEI PELÉ). INTERPOSIÇÃO DO RECURSO DE APELAÇÃO. PRECLUSÃO LÓGICA APONTADA PELA CORTE LOCAL. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. Cuida-se, originariamente, de Ação de Cobrança ajuizada pela Federação das Associações de Atletas Profissionais contra o Sport Club Internacional, ora recorrente, visando à condenação ao pagamento da contribuição prevista no art. 57, I, da Lei 9.615/1998 (Lei Pelé).
+2. A sentença julgou procedente o pedido, tendo sido mantida por ocasião do julgamento da Apelação. Fundamentou a Corte local falta de interesse recursal, tendo em vista a suposta concordância do recorrente com as conclusões do laudo pericial que serviu de base para a condenação.
+3. Nesse sentido, o Tribunal de origem concluiu: "Aliás, o requerido solicitou que fosse considerado o laudo complementar retificado pelo Experto (fls. 437/438), o qual foi levado em consideração pelo Julgador de 1º grau e agora em sede de recurso a parte pretende a modificação do julgado, sendo irrefutável a aplicação do instituto da preclusão lógica ao caso em tela" (fl. 539, e-STJ).
+4. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+5. Recurso Especial não conhecido.
+(REsp n. 1.693.960/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2017, DJe de 19/12/2017.)
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
