@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE PERDAS E DANOS JULGADA IMPROCEDENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 EFETUADA POR MEIO DE ARGUMENTOS GENÉRICOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. A alteração das conclusões adotadas pela Corte de origem - acerca da ciência do recorrente quanto à origem e ao estado de conservação dos veículos adquiridos - demandaria necessariamente a interpretação de clausulas contratuais e o reexame do acervo fático-probatório constante dos autos, providências vedadas no âmbito do recurso especial, dados os óbices das Súmulas 5 e 7 deste Tribunal Superior.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por JND ARGAMASSA E MATERIAIS DE CONSTRUÇÃO LTDA. contra a decisão de fls. 889-896 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial interposto, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE PERDAS E DANOS JULGADA IMPROCEDENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 EFETUADA POR MEIO DE ARGUMENTOS GENÉRICOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O recurso especial foi deduzido com base no art. 105, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 514, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE PERDAS E DANOS C/C TUTELA PROVISÓRIA DE URGÊNCIA. SENTENÇA DE IMPROCEDÊNCIA. REVELIA DECRETADA NA ORIGEM. PRELIMINAR DE AUSÊNCIA DE APLICAÇÃO DOS EFEITOS DA REVELIA. INACOLHIMENTO.
+RECONHECIMENTO DA REVELIA QUE NÃO ACARRETA A PROCEDÊNCIA DOS PEDIDOS FORMULADOS NA PEÇA PORTAL. PRESUNÇÃO RELATIVA DE VERACIDADE ACERCA DOS FATOS NARRADOS. PREFACIAL REJEITADA.
+MÉRITO. PLEITO DE RESCISÃO CONTRATUAL COM RETORNO DAS PARTES AO STATUS QUO ANTE. AUTOR QUE ALEGOU TER RECEBIDO COMO FORMA DE PAGAMENTO DE NEGÓCIO JURÍDICO CELEBRADO COM A PARTE RÉ, VEÍCULOS COM AVARIAS, PROVENIENTES DE LEILÃO. INSUBSISTÊNCIA. CONTRATO ENTABULADO ENTRE AS PARTES QUE CONTÉM CLÁUSULA EXPRESSA DEMONSTRANDO O CONHECIMENTO DO AUTOR QUANTO AO ESTADO DE CONSERVAÇÃO E ORIGEM DOS AUTOMÓVEIS. AUTOR QUE NÃO COMPROVOU FATO CONSTITUTIVO DO SEU DIREITO À AMPARAR SEU PEDIDO DE RESCISÃO DA AVENÇA, ÔNUS QUE LHE PERTENCIA (ART. 373, I, DO CPC). SENTENÇA MANTIDA.
+HONORÁRIOS RECURSAIS. INAPLICABILIDADE.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 765-769, e-STJ).
+Nas razões do recurso especial (fls. 782-798, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 344, 489 e 1.022 do Código de Processo de 2015; 186, 422, 441, 475 e 927 do Código Civil de 2002.
+Sustentou, em suma:
+(i) estar configurada a negativa de prestação jurisdicional ante a omissão do colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão recorrida;
+(ii) ausência de previsão expressa de que os veículos foram adquiridos em leilão e que contam com restrições (sinistrados), tendo em vista que a cláusula citada no acórdão faz alusão apenas ao desgaste de tempo e uso;
+(iii) que o recorrido, além de revel - com a consequente presunção de veracidade das alegações da recorrente, não trouxe nenhuma prova de que cumpriu com seu dever de informação e advertiu a recorrente da real situação e origem dos bens negociados, acarretando-lhe prejuízos;
+(iv) que, em virtude da conduta do recorrido, que violou a boa-fé objetiva e descumpriu a avença celebrada entre as partes, pode a recorrente pleitear a rescisão contratual, com o consequente ressarcimento dos danos suportados.
+Em razão do juízo prévio negativo de admissibilidade a insurgente interpôs agravo, do qual se conheceu para não conhecer do recurso especial pelos seguintes fundamentos: a) incidência da Súmula 284/STF, por deficiência na fundamentação do reclamo, tendo em vista que a alegação de violação dos arts. 489 e 1.022 do CPC/2015 foi realizada por meio de argumentos genéricos; e b) aplicação das Súmulas 5 e 7/STJ para revisão das conclusões do acórdão recorrido, óbices que tornaram prejudicada a análise da divergência jurisprudencial apontada.
+Neste agravo interno (fls. 900-912, e-STJ), a agravante pugna pela inaplicabilidade dos óbices apontados para o não conhecimento de seu recurso, ao tempo que repisa as mesmas razões trazidas no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 916-921 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE PERDAS E DANOS JULGADA IMPROCEDENTE. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 EFETUADA POR MEIO DE ARGUMENTOS GENÉRICOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS. SÚMULA 211/STJ. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. A alteração das conclusões adotadas pela Corte de origem - acerca da ciência do recorrente quanto à origem e ao estado de conservação dos veículos adquiridos - demandaria necessariamente a interpretação de clausulas contratuais e o reexame do acervo fático-probatório constante dos autos, providências vedadas no âmbito do recurso especial, dados os óbices das Súmulas 5 e 7 deste Tribunal Superior.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Conforme asseverado na decisão agravada, no que se refere à apontada violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, observa-se que não houve a indicação pormenorizada dos pontos supostamente omitidos pela Corte de origem, tampouco acerca de quais temas a fundamentação do acórdão estaria deficiente, apresentando-se a fundamentação do recurso, no ponto, genérica, a ensejar a incidência da Súmula 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E INDENIZATÓRIA. ALEGAÇÃO DE OFENSA AO ARTIGO 1.022 DO CPC/15. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. ÔNUS DA PROVA. ARTIGO 373 DO CPC/15. REEXAME DE FATOS E PROVAS. DANO MORAL. QUANTUM FIXADO. VALOR RAZOÁVEL. DANOS MORAIS. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de demonstração de como ocorreu a ofensa ao art. 1.022, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial.
+2. A Corte de origem consignou que a ré se desincumbiu do ônus de provar
+fato desconstitutivo do direito alegado na inicial como lhe impõe o art. 333, II, do CPC de 1973, suplantado pelo art. 373, II, do CPC, demonstrando que as compras foram efetuadas e entregues a preposto da autora, bem como o consequente inadimplemento contratual praticado pela empresa autora. A modificação do referido posicionamento demandaria o reexame de fatos e provas.
+3. Esta Corte Superior "firmou orientação de que o termo inicial dos juros de mora, nas indenizações por danos morais decorrentes de ilícito contratual, é a data da citação" AgInt no AREsp n. 1.665.271/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1º/7/2021). Incidência da súmula 83/STJ.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente deve ser revisado em sede de recurso especial quando irrisório ou exorbitante.
+5. No caso, o montante fixado em R$ 30.000,00 (trinta mil reais), em favor da agravada, não se mostra exorbitante, tampouco se distancia dos padrões de razoabilidade, diante da circunstância fática apresentada na hipótese, consubstanciada na ofensa à honra objetiva da empresa.
+6. A jurisprudência desta Corte firmou-se no sentido de ser a citação o termo inicial para a incidência dos juros de mora em caso de responsabilidade contratual.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.838.915/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. TRANSPORTE DE PESSOAS. ACIDENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284 DO STJ. CONSÓRCIO ENTRE EMPRESAS. RESPONSABILIDADE SOLIDÁRIA. PREVISÃO CONTRATUAL. SÚMULAS NºS 5 E 7 DO STJ. QUANTUM INDENIZATÓRIO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é firme no sentido de que a alegação genérica de violação do art. 1.022 do NCPC, sem a indicação das teses omitidas, importa deficiência de fundamentação do recurso, a incidir o óbice da Súmula nº 284 do STF, por analogia.
+3. Rever as conclusões da instância a quo quanto a tese de ilegitimidade passiva ad causam devido à inexistência de responsabilidade solidária demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as empresas consorciadas, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+4. É firme o entendimento jurisprudencial de que a revisão dos critérios de proporcionalidade e razoabilidade na definição da verba indenizatória
+demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.989.934/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022.)
+Não fosse isso, verifica-se que o acórdão apresenta-se devida e suficientemente fundamentado, tendo enfrentado as questões necessárias ao deslinde da controvérsia que lhe fora posta.
+Da leitura do acórdão recorrido, observa-se que o conteúdo normativo dos arts. 186, 422, 441, 475 e 927 do Código Civil de 2002 não foi objeto de exame pela Corte estadual, carecendo portanto do necessário prequestionamento viabilizador do recurso especial.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese, razão pela qual incide, na espécie, a Súmula 211/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. INDENIZAÇÃO DE HORAS TRABALHADAS. SUPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA REPETITIVA. JUÍZO DE CONFORMIDADE. DISTINGUISHING REALIZADO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 211/STJ. LINDB. ÍNDOLE CONSTITUCIONAL.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+2. Na espécie a recorrente não impugnou o fundamento do acórdão recorrido que fez a distinção entre o presente caso concreto e aquele decidido no recurso especial repetitivo 1.312.736/RS, destacando que a verba em questão, denominada Indenização de Horas Trabalhadas (IHT), sempre integrou a remuneração do beneficiário, não se tratando, portanto, de uma parcela salarial reconhecida pela Justiça do Trabalho.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da
+Súmula nº 211 do Superior Tribunal de Justiça.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A mera citação de dispositivos de lei federal tidos por violados, desacompanhada de fundamentação clara e objetiva acerca de como teria ocorrido a violação pelo acórdão recorrido, evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do Supremo Tribunal Federal.
+2. Para rever as conclusões do Tribunal local acerca do efetivo cumprimento da obrigação de fazer, na forma como posta no apelo extremo, seria necessário o revolvimento de matéria fática, providência obstada pela Súmula 7/STJ.
+2.1. A ausência de enfrentamento da matéria objeto da controvérsia - exorbitância das astreintes - pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, sendo obrigatória a incidência da Súmula 211 do STJ.
+3. Agravo interno desprovido.(AgInt no AREsp n. 685.627/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/5/2024, DJe de 3/6/2024.)
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 517-520, e-STJ - sem grifos no original):
+Na hipótese, defendeu a parte apelante que a Togada singular, ao julgar improcedente a demanda, não aplicou corretamente os efeitos da revelia.
+Todavia, sem razão.
+Isso porque, embora de fato tenha sido decretada a revelia dos réus, seus efeitos, não induzem, automaticamente, a procedência da pretensão postulada. A revelia pressupõe a confissão quanto à matéria de fato, o que não impede que o juiz decida com o seu livre convencimento e com base nas provas produzidas, tendo em vista que seus efeitos não são absolutos e a presunção de veracidade da revelia é iuris tantum, ou seja, relativa.
+(..)
+Compulsando-se os autos, denota-se que a apelante relatou ter negociado
+em 7-3-2019 uma sala comercial e uma vaga de garagem (recebidas em negócio jurídico realizado anteriormente) com os réus, pelo valor de R$ 135.000,00 (cento e trinta e cinco mil reais) (evento 1, Informação 6 -8, da origem).
+Como forma de pagamento, disse que a parte ré entregou (evento 1, Petição Inicial 1, p. 3,da origem):
+(..)
+Disse que em 11-3-2019, negociou os veículos com terceiro (Daniel Edgard Domingo Demétrio), o qual procurou a apelante em razão da existência de restrições graves nos automóveis, os quais foram adquiridos em leilão. Relatou que, de boa-fé e por não ter conhecimento quanto às referidas restrições, realizou o distrado do negócio com o adquirente (Daniel Edgard Domingo Demétrio) (evento 1, Informação 9-11, da origem).
+Afirmou que, por conta do distrato, precisou arcar com multa contratual, no importe de R$ 28.686,65 (vinte e oito mil, seiscentos e oitenta e seis reais e sessenta e cinco centavos) (evento1, Informação 12-13, da origem).
+Diante desse cenário, postula a rescisão da avença com os réus e o consequente retorno das partes ao status quo ante, uma vez que a parte apelada ocultou e negociou com a apelante veículos com graves restrições, os quais foram adquiridos através de leilão.
+Todavia, tal alegação não merece prosperar.
+Denota-se dos autos, mais precisamente do contrato de compromisso de compra e venda pactuado pelas partes deste processo (evento 1, Informação 7, da origem) a seguinte cláusula:
+(..)
+Isto é, da referida cláusula é possível verificar que a apelante foi responsável por acompanhar a vistoria dos automóveis e que esteve ciente do seu resultado, do estado de conservação dos bens, assim como de suas origens.
+Não pode agora a apelante se insurgir em face da origem dos veículos se este, ao assinar o contrato aqui discutido, confirmou estar ciente quanto "às origens" dos bens adquiridos.
+Logo, a apelante não logrou êxito em comprovar minimamente os fatos alegados, no intuito de comprovar a existência de um vício oculto e amparar sua pretensão de rescisão do negócio jurídico, ônus que lhe pertencia (art. 373, I, do CPC).
+(..)
+Assim, a manutenção da sentença é medida a rigor. Por derradeiro, não obstante o recurso da autora ter sido desprovido, descabe a fixação de honorários recursais em seu desfavor, uma vez que não foi sucumbente em primeiro grau.
+Ante o exposto, voto no sentido de conhecer do recurso e negar-lhe provimento.
+Em face disso, a revisão das conclusões do acórdão recorrido - acerca da ciência do recorrente quanto à origem e ao estado de conservação dos veículos adquiridos - demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, dada a aplicação das Súmulas 5 e 7/STJ.
+Nesse sentido, fica igualmente prejudicada a análise do dissídio jurisprudencial apontado, em razão da aplicação da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões divergentes ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Por conseguinte, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
