@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LUIS SANTO ROSA E OUTROS contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ, fl. 414):
+APELAÇÃO CÍVEL. AÇÃO DE DESPEJO C/C COBRANÇA. LOCAÇÃO COMERCIAL. SENTENÇA DE PERDA DE OBJETO NO TOCANTE AO PEDIDO DE DESPEJO, DADA A DESOCUPAÇÃO VOLUNTÁRIA DO IMÓVEL, E DE ACOLHIMENTO QUANTO AOS DEMAIS PEDIDOS, COM EXCEÇÃO DA MULTA CONTRATUAL, CONDENANDO A RÉ AO PAGAMENTO DOS ALUGUERES, VENCIDOS E VINCENDOS ATÉ A EFETIVA DESOCUPAÇÃO DO IMÓVEL. INSURGÊNCIA PELA PARTE REQUERENTE/LOCADORA. 1. PRELIMINAR EM CONTRARRAZÕES DO LOCATÁRIO. ALEGAÇÃO DE INOVAÇÃO RECURSAL QUANTO AO PLEITO DE CONDENAÇÃO RELATIVA À MULTA CONTRATUAL. ACOLHIMENTO. TESE RECURSAL DA APELANTE PLEITEANDO A APLICAÇÃO DE MULTA DE 10% POR ATRASO DOS ALUGUERES NÃO REQUERIDA EM INICIAL. RECURSO NÃO CONHECIDO NESSA PARTE. 2. MÉRITO.PLEITO DE CONDENAÇÃO AO PAGAMENTO DOS VALORES RELATIVOS AOS REPAROS APURADOS PELA VISTORIA DE SAÍDA. ACOLHIMENTO. PEDIDO GENÉRICO CONTIDO EM INICIAL, COMPLEMENTADO POSTERIORMENTE A DESOCUPAÇÃO DO IMÓVEL. CAUSA MADURA. JULGAMENTO EM SEGUNDO GRAU. COMPROVAÇÃO DE REPAROS A SEREM REALIZADOS POR MEIO DE VISTORIA REALIZADA POR EMPRESA IDÔNEA. RECUSA DO RÉU AO COMPARECIMENTO A VISTORIA. COMPROVAÇÃO DO QUANTUM. JUNTADA DE TRÊS ORÇAMENTOS. CONDENAÇÃO AO PAGAMENTO DO MONTANTE ATINENTE AOS REPAROS CONSTATADOS. SENTENÇA REFORMADA. RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 463-466).
+Nas razões do especial (e-STJ, fls. 523-541), a parte recorrente sustentou violação ao art. 329, II, do CPC/15, alegando que a recorrida aditou a demanda após a citação e incluiu valores não inseridos nos pedidos iniciais, ensejando inovação recursal e violando os princípios do contraditório e do devido processo legal.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 571-575 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 578-580, e-STJ), o que ensejou o manejo do presente agravo (fls. 597-603, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 614-618 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. O Tribunal de origem, ao apreciar a controvérsia, asseverou que o pedido reparatório já havia sido feito na petição inicial, e nã o fora impugnado pela parte ré, que permaneceu inerte mesmo tendo ciência da complementação posterior.
+Confira-se (e-STJ, fl. 419):
+Malgrado, as considerações do réu, o pedido reparatório não configura emenda da inicial, porque, já integrava a inicial, apenas tendo sido complementado posteriormente, não havendo necessidade de intimação do réu para concordância.
+Outrossim, existindo o pedido indenizatório na exordial, mesmo que genérico, este deveria ter sido impugnado pela parte ré, o que não ocorreu, tendo ela permanecido silente. A parte silente não pode se beneficiar de sua inércia, dada ciência a respeito do pedido indenizatório. Além disso, as provas dos autos atestam a ciência também do locatário sobre a data da vistoria, tendo optado por não comparecer a ela. Ora, o direito não pode beneficiar aquele que arbitrariamente decide se omitir, postura contrária a boa-fé, na medida em que conhecia o pedido indenizatório, haja vista estar o processo em curso à época da desocupação, bem como a data da vistoria.
+Da mesma forma, a petição de complementação do pedido foi juntada no sequencial 60.1, após a partes manifestaram sobre a produção de provas (seq. 61.1 e 62.1/orig.) e o juízo proferiu decisão declarando o julgamento antecipado do feito (seq. 64.1/orig.), ocasião em que as partes foram intimadas. Logo, ainda que não tenha havido intimação especifica, os procuradores da parte ré tiveram ciência dos documentos juntados e, mais uma vez, permaneceram inertes.
+Contudo, malgrado o esforço argumentativo, a parte recorrente não logrou infirmar nas razões do especial nenhum dos dois fundamentos, insistindo na tese de que teria ocorrido emenda da inicial e violação ao princípio do contraditório, de modo que a pretensão reformatória encontra obstáculo na Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. TAXA ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL. POSSIBILIDADE. PRECEDENTES. REVISÃO DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno improvido.
+(AgInt no REsp n. 2.013.366/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REGRESSIVA. RESSARCIMENTO DE DANOS. TRANSPORTE AÉREO DE MERCADORIA. AVARIA DE CARGA. ALEGAÇÃO DE DECADÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LIMITAÇÃO DA RESPONSABILIDADE. POSSIBILIDADE. PREVALÊNCIA DA CONVENÇÃO DE MONTREAL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA ANÁLISE DE QUESTÃO FÁTICA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+(..)
+(AgInt no AREsp n. 1.636.421/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
