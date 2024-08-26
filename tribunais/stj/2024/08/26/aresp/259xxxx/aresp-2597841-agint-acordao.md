@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão do óbice Súmula n. 284/STF e ausência de comprovação da divergência jurisprudencial.
+2. O argumento utilizado na decisão recorrida para não conhecer do agravo em recurso especial, qual seja ausência de comprovação da divergência jurisprudencial, não foi objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, §1º, do CPC.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por VC APOIO ADMINISTRATIVO LTDA. contra decisão monocrática da Presidência do STJ por meio da qual aplicou a Súmula n. 182 do STJ.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado (fl. 233):
+AGRAVO INTERNO EM APELAÇÃO. CONTRATO DE SHOPPING CENTER. RISCO DO NEGÓCIO. TESE RECURSAL DE DESCUMPRIMENTO CONTRATUAL PELO EMPREENDEDOR QUANDO AOS ATRATIVOS QUE TERIA LEVADO AO INSUCESSO DA LOJA DO AGRAVANTE. INOCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+1. No caso, a autora/locatária, aqui recorrente, argumenta que a rescisão do pacto de locação de loja/espaço comercial, dar-se por culpa exclusiva da empresa ora agravada/locadora, que não honrou com suas promessas de instalações de cinemas e lojas-âncoras no shopping, tendo ludibriado a locatária/agravante a investir na locação; porém, nada se apresentou nos autos para comprovar essas alegações e a responsabilidade pelos prejuízos materiais alegados.
+2. Embora seja sim obrigação do responsável pelo shopping center oferecer uma estrutura que favoreça o fluxo de clientes, é certo que não há nos autos prova de que a incorporação de lojas-âncoras ou cinema teria sido condicionante contratual para que a agravante escolhesse aquele estabelecimento, ou ainda que ela (ora agravante) desconhecia no todo a realidade em que o shopping center se encontrava, não havendo, por outro lado, um indicativo mínimo nestes autos de que à agravante tenha sido prometida uma melhoria daquele ambiente comercial; ou seja, embora se espere que um shopping center trabalhe para um incremento do seu portfólio, dada a natureza do contrato firmado, no fim das contas, a instalação da loja naquele espaço ainda é escolha única do lojista (agravante), que assume o risco do negócio e de eventual insucesso, o qual não pode ser transferido inteiramente à parte agravada.43. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do agravo interno, o agravante aduz que "conforme demonstrado não há o que se falar em ausência de indicação de dispositivo de lei federal, vez que, em verdade o Agravo claramente demonstrou que o acórdão proferido pelo juízo ad quem maculava diretamente o art. 478 do CC" (fl. 294).
+Assevera que "A violação do art. 478 do CC se deve, ao fato de que, em que pese o ter entregue aloja antes do prazo final, esta situação se deu por culpa exclusiva do Agravado, que prometeu a entregado empreendimento com diversos atrativos para a captação de clientela, mas não foi o que ocorreu" (fl. 294).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada não apresentou contrarrazões (fl. 302).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão do óbice Súmula n. 284/STF e ausência de comprovação da divergência jurisprudencial.
+2. O argumento utilizado na decisão recorrida para não conhecer do agravo em recurso especial, qual seja ausência de comprovação da divergência jurisprudencial, não foi objeto de impugnação nas razões recursais do agravo interno.
+3. Razões do agravo interno que desatendem o princípio da dialeticidade e a previsão contida no art. 1.021, §1º, do CPC.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão agravada não conheceu do agravo em recurso especial em razão do óbice da Súmula n. 284/STF e ausência de comprovação da divergência jurisprudencial, nos seguintes termos (fls. 284-285):
+Mediante análise do recurso de VC APOIO ADMINISTRATIVO LTDA, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ademais, verifica-se que não foi comprovada a divergência jurisprudencial, uma vez que a parte recorrente sequer indicou acórdão paradigma ou julgado que atenda os requisitos legais e regimentais necessários ao conhecimento do apelo, nos termos dos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, o Superior Tribunal de Justiça já decidiu: " Não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal se, como no caso dos autos, não estiver comprovado nos moldes dos arts. 1.029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do RISTJ". (AgInt no AREsp n. 1.702.387/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2022, DJe de 17/8/2022.)Confiram-se os seguintes julgados: AgRg no REsp n. 983.687/RS, relator Ministro Castro Meira, Segunda Turma, julgado em 26/2/2008, DJe de 11/3/2008; AgInt nos EDcl no REsp n. 1.808.839/PE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023; AgInt nos EDv no AgInt nos EAREsp n. 800.313/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 31/5/2022, DJe de 27/6/2022; EDcl no AgRg nos EAREsp n. 2.060.616/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 13/12/2023, DJe de 18/12/2023; e, AgRg no REsp n. 1.592.633/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.
+Com efeito, o agravo interno não merece conhecimento, porquanto o fundamento utilizado na decisão recorrida para não conhecer do agravo em recurso especial - ausência de comprovação da divergência jurisprudencial - não foi objeto de impugnação nas razões recursais, as quais se limitaram a reiterar as alegações do agravo em recurso especial.
+Desse modo, forçosa é a incidência do disposto nos arts. 932, III, e 1.021, § 1º, do CPC, segundo os quais não se conhece do recurso que não ataca especificamente os fundamentos da decisão recorrida nos seguintes termos:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ ..
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+Assim, a ausência de impugnação do fundamento para não conhecimento do agravo em recurso especial faz incidir, na espécie, por analogia, os preceitos da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se estes julgados:
+II - Razões de agravo interno que apresentam combate genérico aos fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus da Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+(AgInt no AREsp n. 2.077.483/GO, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/9/2022.)
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+(AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+1. Segundo previsto no art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante atacar especificamente os fundamentos da decisão combatida, o que, na hipótese, não foi observado.
+2. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 2.066.383/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/9/2022.)
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.960.887/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/4/2022.)
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
