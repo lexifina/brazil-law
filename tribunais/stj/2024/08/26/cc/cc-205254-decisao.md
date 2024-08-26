@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de conflito de competência, com pedido liminar, suscitado por GOLD BLUE EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. - EM RECUPERAÇÃO JUDICIAL, no qual aponta como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP e o JUÍZO DE DIREITO DA 25ª VARA CÍVEL DE GOIÂNIA - GO.
+A parte suscitante defende a existência de conflito de competência argumentando que (fls. 4-14):
+Visa a Suscitante obter, liminarmente e em definitivo, o conhecimento do presente Conflito de Competência, para que esta Egrégia Corte Superior declare e determine que o MM. Juízo da 1ª Vara de Falências e Recuperações Judiciais e Conflitos Relacionados à Arbitragem do Foro Central da Comarca da Capital do Estado de São Paulo é o único competente para decidir sobre o prosseguimento das diversas ações sujeitas ao processo de Recuperação Judicial, e que são movidas em face da Suscitante e do Grupo PDG, nos específicos termos do artigo 52, inc. III, da Lei nº 11.101/2005.
+ ..
+Pois bem. Há de esclarecer que perante o 2º Suscitado tramita a ação ordinária cumulada com indenização por danos materiais e morais promovida por Adilson Donizetti da Costa Junior, em face da ora suscitante, cujo crédito possui o fato gerador constituído em data anterior àquela em que se apresentou judicialmente o pedido de soerguimento(10/08/2015 -data do fato gerador), de modo que se submete ao quanto previsto no art. 49 da Lei nº 11.101/2005.
+ ..
+Por outro lado, mesmo informado clara e tempestivamente da decisão referida, o MM. Juízo, ora 2º Suscitado, desconsiderou olimpicamente a plena existência, vigência e eficácia da citada decisão, tendo negado o pedido de valores constritos em prejuízo da executada, e determinado o prosseguimento do curso executório do Cumprimento de sentença, autuado no processo sob nº5146345-98.2019.8.09.0051, bem como deferido o pedido de expedição de alvará do valor bloqueado na quantia de R$ 15.046,83, o que ocasionou em consequência, o ora suscitado CONFLITO POSITIVO DE COMPETÊNCIA.
+ ..
+Nobres Julgadores, o D. Juízo da 25ª Vara Cível da Comarca de Goiânia do Estado de Goiás -GO, após ser cientificado expressamente nos aludidos autos da execução de título judicial do plano recuperatório, do qual faz parte a Suscitante, entendeu por indeferir o pedido de extinção dos autos, para que o exequente possa se habilitar administrativamente, determinando o curso executório e deferindo a expedição de alvará do valor bloqueado nos autos, o que por sua vez, gerou o ora suscitado CONFLITO DE COMPETÊNCIA POSITIVO. Vejamos a decisão conflitante:
+ ..
+Fato é que a decisão ensejadora do desacertado prosseguimento de atos executórios do 2º Suscitado fora proferida por juízo absolutamente incompetente, em afronta à COMPETÊNCIA ABSOLUTA DO JUÍZO UNIVERSAL, ora 1º Suscitado.
+Por meio da decisão de fls. 65-67, deferi o pedido de liminar para suspender, até o julgamento definitivo do presente incidente, atos executórios, exclusivamente, contra a empresa suscitante, bem como designei o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP para decidir acerca das medidas urgentes.
+Informações prestadas pelo JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP às fls. 72-78.
+Parecer do MPF, às fls. 83-86, opinando pela competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP.
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, bem como quaisquer outros atos judiciais que envolvam o patrimônio das referidas empresas, tanto sob a égide do Decreto-Lei n. 7.661/1945 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal.
+Nesse contexto, ressalta-se que esta Corte Superior também tem se manifestado no sentido de que, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, em razão do recebimento da apelação com efeito suspensivo, permanece a competência do Juízo da Recuperação Judicial para decidir sobre o patrimônio da empresa.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA.
+1. Nos termos da jurisprudência deste STJ, enquanto não transitada em julgado a sentença de encerramento da recuperação judicial, permanece a competência do Juízo recuperacional para decidir sobre atos constritivos realizados contra a recuperanda.
+2. Ainda, de acordo com a tese definida no Tema Repetitivo n. 1.151/STJ, "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+4. No caso, o Juízo da execução trabalhista determinou a intimação da recuperanda para o pagamento do débito, sob pena de penhora, violando, assim, a competência do Juízo da recuperação judicial.
+5. Por fim, não há se falar em incidência da Súmula n. 59/STJ, pois, tratando-se de matéria de competência absoluta, como, na espécie, "(..) no âmbito dos processos judiciais que tratam de falência e recuperação judicial, inexiste prazo estipulado em lei para a interposição de conflito de competência, o qual pode ser manejado a qualquer momento, nas hipóteses em que juízo incompetente passa a deliberar sobre o patrimônio da empresa falida/recuperanda" (AgInt nos EDcl no CC 165.415/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 27/11/2019, DJe de 2/12/2019.).
+Manutenção da decisão agravada.
+Agravo interno improvido.
+(AgInt no CC n. 192.559/SP, relator Ministro Humberto Martins, Segunda Seção, julgado em 15/8/2023, DJe de 18/8/2023, grifei.)
+Na espécie, verifica-se que o JUÍZO DE DIREITO DA 25ª VARA CÍVEL DE GOIÂNIA - GO deferiu o pedido de expedição de alvará de valores da empresa suscitante (fl. 32), violando, assim, a competência do Juízo Recuperacional.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP para quaisquer exames relativos a pagamento de débitos da suscitante e constrição dos seus patrimônios.
+Os valores eventualmente constritos pelo JUÍZO DE DIREITO DA 25ª VARA CÍVEL DE GOIÂNIA - GO deverão ser colocados à disposição do Juízo da Recuperação Judicial, a quem competirá analisar eventuais pedidos de levantamento.
+Comunique-se aos juízos suscitados acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO. INVASÃO DE COMPETÊNCIA DO JUÍZO RECUPERACIONAL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
