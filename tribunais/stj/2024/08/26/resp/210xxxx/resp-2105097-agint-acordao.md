@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. ARTS. 30 E 31 DA LEI Nº 9.656/98. DIREITO DE MANUTENÇÃO DOS EMPREGADOS INATIVOS NAS MESMA CONDIÇÕES DOS ATIVOS. PRECEDENTES. NÃO PROVIMENTO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. "O art. 31 da Lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador" (REsp 1818487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 1º/2/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 1499/1501 e-STJ.
+A parte agravante sustenta, em resumo, que a Súmula 7/STJ não constitui obstáculo ao conhecimento do recurso especial.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. ARTS. 30 E 31 DA LEI Nº 9.656/98. DIREITO DE MANUTENÇÃO DOS EMPREGADOS INATIVOS NAS MESMA CONDIÇÕES DOS ATIVOS. PRECEDENTES. NÃO PROVIMENTO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. "O art. 31 da Lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador" (REsp 1818487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 1º/2/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A decisão agravada julgou recurso especial interposto por FUNDAÇÃO CESP em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. Ação de obrigação de fazer. Preliminar de ausência dos pressupostos para a constituição e desenvolvimento válido e regular do processo afastada.
+Plano de Saúde Coletivo. Manutenção do plano com base em benesse prevista no artigo 31 da Lei 9.656/98. Alegação de onerosidade excessiva em razão de imposição de contratos diferentes para ativos e inativos.
+Pretensão de manutenção do modelo de custeio. Julgamento pelo Superior Tribunal de Justiça do Tema 1034 sob o rito dos recursos repetitivos. Tese firmada no sentido de que o art. 31 da Lei nº 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo com a igualdade de modelo de custeio e de valor de contribuição, admitida, portanto, a diferenciação de mensalidade por faixa etária somente se for contratada para todos.
+Caso concreto. Custeio por faixa etária é aplicado apenas para os funcionários inativos. Existência de tratamento discriminatório. R. sentença mantida. Recurso improvido.
+A parte recorrente, ora agravante, apontou a existência de dissídio jurisprudencial, além de violação dos artigos 30 e 31 da Lei 9.656/1998, sob o fundamento da impossibilidade de manutenção do ex-empregado em plano de saúde na mesma modalidade anteriormente concedida, haja vista a composição do preço e reajuste serem diversos dos funcionários da ativa.
+No caso dos autos, a Corte de origem dirimiu a controvérsia nos seguintes termos (fl. 1.338, e-STJ):
+Assim, o custeio através do regime de faixa etária ou número de dependentes não se apresenta abusivo, desde que seja também aplicado aos funcionários da ativa, pois, como visto, é vedada a imposição de critérios diferenciados para as duas categorias de funcionários.
+No caso em tela, a própria ré admite que a forma de cobrança é diferente entre ativos e inativos.
+Assim, passando a maneira de cobrança de per capta para cobrança por faixa etária existe uma diferença entre o tratamento entre ativos e inativos, o que não se pode admitir.
+Desta feita, era mesmo de rigor a procedência da demanda, para assegurar ao autor o direito de permanecer vinculado ao plano de saúde coletivo nos mesmos moldes dos funcionários da ativa.
+O entendimento expresso pela Corte de origem guarda harmonia com a orientação do Superior Tribunal de Justiça, como se extrai das teses firmadas em julgamento de recurso repetitivo, cuja dição é: "O art. 31 da lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador". Confira-se:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. DEFINIÇÃO ACERCA DAS CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO.
+1. Delimitação da controvérsia Definir quais condições assistenciais e de custeio do plano de saúde devem ser mantidas a beneficiários inativos, nos termos do art. 31 da Lei n. 9.656/1998.
+2. Teses definidas para os fins do art. 1.036 do CPC/2015 a) "Eventuais mudanças de operadora, de modelo de prestação de serviço, de forma de custeio e de valores de contribuição não implicam interrupção da contagem do prazo de 10 (dez) anos previsto no art. 31 da Lei n. 9.656/1998, devendo haver a soma dos períodos contributivos para fins de cálculo da manutenção proporcional ou indeterminada do trabalhador aposentado no plano coletivo empresarial."
+b) "O art. 31 da lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador."
+c) "O ex-empregado aposentado, preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente na época da aposentadoria, podendo haver a substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, desde que mantida paridade com o modelo dos trabalhadores ativos e facultada a portabilidade de carências."
+3. Julgamento do caso concreto Ofensa ao art. 31 da Lei n. 9.656/1998 caracterizada, tendo em vista que os empregados ativos e os ex-empregados inativos, apesar de vinculados a plano de saúde administrado por uma única operadora, encontram-se inseridos em categorias distintas, sendo diversas a forma de custeio e os valores de contribuição.
+4. Recurso especial a que se dá provimento.
+(REsp n. 1.818.487/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, DJe de 1/2/2021)
+AGRAVO INTERNO. PLANO DE SAÚDE COLETIVO. ARTS. 30 E 31 DA LEI Nº 9.656/98. DIREITO DE MANUTENÇÃO DOS EMPREGADOS INATIVOS NAS MESMA CONDIÇÕES DOS ATIVOS. PRECEDENTES. NÃO PROVIMENTO.
+1. "O art. 31 da Lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador" (REsp 1818487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe 1º/2/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.208.834/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/10/2023)
+Anoto que rever tais premissas lançadas no acórdão atacado esbarraria no óbice da Súmula nº 7, desta Corte Superior.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
