@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. PROCRASTINAÇÃO E TUMULTO PROCESSUAL. REVISÃO DO VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento .
+RELATÓRIO
+Trata-se de agravo interno interposto por VERA BERENGUEL RODRIGUES e OUTROS, manifestado contra decisão da Presidência do STJ (fls. 97-100), na qual foi negado provimento ao recurso em razão da incidência da Súmula 7/STJ.
+Nas razões do presente agravo, a parte argumenta tratar-se de matéria exclusivamente de direito, pois ficou demonstrado que houve explícita violação à literalidade do parágrafo único do art. 774 do CPC, que deixa ao arbítrio do magistrado determinar o percentual que, por bem, assim entender.
+Assevera que não se trata de mero atentado, mas sim de reiterados recursos e injustificados artifícios, ardis e "gincanas processuais" no decorrer do processo, como forma de tumultuar e procrastinar o pagamento do valor constante do cumprimento de sentença.
+Adverte que a decisão do ilustre julgador singular, foi muito bem fundamentada e esclarecedora sobre os motivos que o levaram na aplicação da multa de 20%, com fundamento nos incisos II, III, IV, V e parágrafo único do art. 774 do CPC.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. PROCRASTINAÇÃO E TUMULTO PROCESSUAL. REVISÃO DO VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento .
+VOTO
+Não merece reforma a decisão recorrida.
+O Tribunal de origem ao dirimir a questão entendeu às fls. 38-40 - grifei:
+Seu comportamento, induvidosamente, encontra-se alinhado ao disposto no art. 774 do CPC, quando considera ato atentatório à dignidade da justiça "a conduta comissiva ou omissiva do executado que se opõe maliciosamente à execução, empregando ardis e meios artificiosos; dificulta ou embaraça a realização da penhora; resiste injustificadamente às ordens judiciais; e que, intimado, não indica ao juiz quais são e onde estão os bens sujeitos à penhora e os respectivos valores, nem exibe prova de sua propriedade e, se for o caso, certidão negativa de ônus". Correta, neste caso, a imposição da multa, anotando-se: "Por fim, resta mantida a aplicação da multa por ato atentatório à dignidade da justiça, nos termos do art. 774, inciso IV, e parágrafo único, do Código de Processo Civil, consoante bem fundamentado na decisão agravada, com indicação da injustificada resistência às ordens judiciais exaradas na execução. Cumpre salientar que se trata de cumprimento de decisão que impôs ao executado devolução de valores que não lhe pertencem, tendo sido, ademais, encontrados alguns ativos capazes de abater parte do débito" (Agravo de Instrumento 2069788-04.2022.8.26.0000, deste relator). No mesmo sentido: "Aplicação de multa por prática de ato atentatório à dignidade da justiça, justificada pela inércia do devedor em indicar bens à penhora" (REsp n. 1.364.773/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/8/2013, DJe de 13/9/2013). Entretanto, comporta acolhimento parcial o recurso, em atenção aos princípios da proporcionalidade e razoabilidade, para que se reduza a multa a 2% do valor atualizado do débito em execução, à luz de parâmetro estabelecido em precedente desta Corte, observando-se, ademais, que se cuida de uma conduta atentatória, de modo que o percentual poderá ser majorado em caso de repetição do sobredito comportamento: Agravo de Instrumento 2082257- 53.2020.8.26.0000; Relator (a): Jose Eduardo Marcondes Machado; Órgão Julgador: 1ª Câmara de Direito Privado Foro de Agudos - 1ª Vara Judicial; Data do Julgamento: 31/03/2021; Data de Registro: 31/03/2021. No mesmo sentido: "Ato atentatório à dignidade da justiça. Multa preservada. Caracterizada hipótese do artigo 774, IV, do CPC. Em atenção à proporcionalidade e à razoabilidade, contudo, reduz-se a multa a 2% do valor atualizado do débito em execução. Precedente" (Agravo de Instrumento 2069788-04.2022.8.26.0000, de minha relatoria) (fls. 38/40).
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
