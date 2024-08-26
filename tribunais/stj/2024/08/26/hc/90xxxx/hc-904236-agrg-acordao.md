@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Reynaldo Soares da Fonseca.
+Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÕES CONTRA A DECISÃO MONOCRÁTICA QUE CONCEDEU A ORDEM DE OFÍCIO AO PACIENTE. MATÉRIA JÁ EXAMINADA POR ESTA CORTE EM SEDE DE AGRAVO REGIMENTAL. REITERAÇÃO. NÃO CABIMENTO. PEDIDO DE EXTENSÃO. ART. 580 DO CÓDIGO DE PR OCESSO PENAL. SIMILITUDE FÁTICO-PROCESSUAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A decisão que concedeu a ordem de ofício ao paciente já foi objeto de agravo regimental nesta Corte, ocasião em que foram examinadas as alegações ora apresentadas. Incabível, portanto, mesmo exame da mesma matéria.
+2. O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+3. Hipótese na qual a conduta de ambos os acusados é equivalente, tendo sido ambos presos pela mesma decisão, com base em idênticos fundamentos.
+4. As razões adotadas para a revogação da prisão do paciente são aplicáveis ao requerente. Ou seja, "verifica-se que a própria denúncia destaca seu papel subordinado no grupo, referindo-se a ele como mera "mula"", e que "sua suposta atividade na estrutura criminosa era restrita a atos subalternos, não havendo demonstração de profundo envolvimento, ou que sua liberdade, diante da desarticulação do grupo, possa representar efetivo risco de continuidade dos atos criminosos". Desse modo, cabível a revogação da custódia, com a mesma ressalva de que "são fortes os indícios de sua participação em grupo criminoso responsável, em tese, pela comercialização ilícita de elevadas quantidades de drogas de natureza especialmente deletéria, o que justifica que sua liberdade seja condicionada ao cumprimento de medidas cautelares alternativas".
+5. Agravo parcialmente conhecido e desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul em habeas corpus impetrado em favor de TALES ARTHUR FERIGOLO ANHAIA e em pedido de extensão formulado por MARCELL DENIER ALVES DA SILVA.
+Extrai-se dos autos que o primeiro agravado foi preso preventivamente em 4/8/2023, acusado da suposta prática do delito tipificado no art. 35 c/c 40, inciso V, da Lei nº 11.343/06.
+Buscando a revogação da custódia, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo (e-STJ fls. 143/155).
+Foi impetrado o presente habeas corpus buscando-se a revogação da custódia, inclusive com aplicação de medidas cautelares alternativas.
+A ordem não foi conhecida, mas concedida de ofício, nos termos da decisão de e-STJ fls. 160/170.
+O segundo agravado formulou pedido de extensão, o qual foi deferido conforme decisão de e-STJ fls. 524/526.
+No presente agravo regimental, o Parquet Estadual alega que indevida a liberdade dos agravados, uma vez que eles "foram presos em flagrante delito pela prática, em tese, dos crimes de tráfico ilícito de drogas e associação ao tráfico, participação em organização criminosa estruturalmente ordenada e caracterizada pela divisão de tarefas, que atuava com o uso de armamentos, comercializando uma quantidade expressiva de entorpecentes e movimentando valores exorbitantes" (e-STJ fl. 542).
+Destaca que "TALES atuava na divisão, preparação, transporte de entorpecentes e nas atividades financeiras da organização criminosa; já MARCEL, além de transportar os entorpecentes, prestava serviços de cobrança, com emprego de arma de fogo, para organização criminosa. E ambos, em suas certidões de antecedentes, apresentam envolvimentos anteriores com a prática delitiva" (e-STJ fl. 544).
+Requer, assim, o restabelecimento da prisão preventiva.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM PEDIDO DE EXTENSÃO EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÕES CONTRA A DECISÃO MONOCRÁTICA QUE CONCEDEU A ORDEM DE OFÍCIO AO PACIENTE. MATÉRIA JÁ EXAMINADA POR ESTA CORTE EM SEDE DE AGRAVO REGIMENTAL. REITERAÇÃO. NÃO CABIMENTO. PEDIDO DE EXTENSÃO. ART. 580 DO CÓDIGO DE PR OCESSO PENAL. SIMILITUDE FÁTICO-PROCESSUAL. AUSÊNCIA DE ILEGALIDADE. AGRAVO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. A decisão que concedeu a ordem de ofício ao paciente já foi objeto de agravo regimental nesta Corte, ocasião em que foram examinadas as alegações ora apresentadas. Incabível, portanto, mesmo exame da mesma matéria.
+2. O deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+3. Hipótese na qual a conduta de ambos os acusados é equivalente, tendo sido ambos presos pela mesma decisão, com base em idênticos fundamentos.
+4. As razões adotadas para a revogação da prisão do paciente são aplicáveis ao requerente. Ou seja, "verifica-se que a própria denúncia destaca seu papel subordinado no grupo, referindo-se a ele como mera "mula"", e que "sua suposta atividade na estrutura criminosa era restrita a atos subalternos, não havendo demonstração de profundo envolvimento, ou que sua liberdade, diante da desarticulação do grupo, possa representar efetivo risco de continuidade dos atos criminosos". Desse modo, cabível a revogação da custódia, com a mesma ressalva de que "são fortes os indícios de sua participação em grupo criminoso responsável, em tese, pela comercialização ilícita de elevadas quantidades de drogas de natureza especialmente deletéria, o que justifica que sua liberdade seja condicionada ao cumprimento de medidas cautelares alternativas".
+5. Agravo parcialmente conhecido e desprovido.
+VOTO
+Verifico que o presente agravo regimental se dirige contra duas decisões: a de e-STJ fl. 160/170, que concedeu a ordem de ofício ao agravado TALES ARTHUR FERIGOLO ANHAIA, e a de e-STJ fl. 524/526, que deferiu pedido de extensão a MARCELL DENIER ALVES DA SILVA.
+Todavia, a decisã o originária já foi objeto de agravo regimental nesta Corte, julgado às e-STJ fls. 483/495, no qual foram examinadas as alegações ora apresentadas. Incabível, portanto, mesmo exame da mesma matéria.
+Desse modo, não conheço do agravo em relação a TALES ARTHUR FERIGOLO ANHAIA.
+Em relação ao deferimento do pedido de extensão, tampouco se verificam razões para a reforma da decisão.
+Nos termos do art. 580 do CPP, no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, "a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais)" (RHC n. 7.439/SP, Rel. Ministro Luiz Vicente Cernicchiaro, Sexta Turma, julgado em 18/8/1998).
+Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+Segundo o decreto preventivo, integrado pela promoção ministerial contendo a descrição de cada um dos representados na organização criminosa, consta o seguinte em relação ao paciente e agravado (e-STJ fl. 39):
+MARCELL DENIER ALVES DA SILVA, alcunha "TAZ", também a mando de GABRIEL MATHIAS, atua como transportador do entorpecente, levando SKUNK e trazendo maconha prensada, ou seja, atuação padrão da atividade de "mula" do tráfico de drogas conforme Item 3.1.4.5 .
+(..)
+TALES ARTHUR FERIGOLO ANHAIA, alcunha "MENOR", é um dos componentes da ORCRIM destinada ao tráfico de drogas administrada por GABRIEL MATHIAS, sendo responsável por realizar a divisão e preparação dos entorpecentes que seria entregue aos clientes conforme já explicado no Item 3.2.2. Além disso, de forma esporádica, também é responsável pelo transporte do entorpecente SKUNK que GABRIEL MATHIAS vende no atacado para outros estados, conforme Item 3.1.4.6 . TALES também participa das atividades financeiras da ORCRIM através da movimentação de suas contas bancárias em favor das práticas criminosas por ela desenvolvida, conforme Item 3.9.
+Consta ainda, do decreto, o mesmo fundamento em relação aos antecedentes criminais de ambos (e-STJ fl. 40):
+Já os representados Eduardo (evento 8, DOC9), Marcel (evento 8, DOC17), Matheus (evento 8, DOC21) e Tales (evento 8, DOC23), embora tecnicamente primários, respondem a processos por tráfico de drogas.
+Vê-se, portanto, que a conduta de ambos os acusados é equivalente, tendo sido ambos presos pela mesma decisão, com base em idênticos fundamentos.
+Desse modo, as razões adotadas para a revogação da prisão do paciente são aplicáveis ao agravado. Ou seja, "verifica-se que a própria denúncia destaca seu papel subordinado no grupo, referindo-se a ele como mera "mula"", e que "sua suposta atividade na estrutura criminosa era restrita a atos subalternos, não havendo demonstração de profundo envolvimento, ou que sua liberdade, diante da desarticulação do grupo, possa representar efetivo risco de continuidade dos atos criminosos" (e-STJ fl. 169).
+Desse modo, cabível a revogação da custódia, com a mesma ressalva de que "são fortes os indícios de sua participação em grupo criminoso responsável, em tese, pela comercialização ilícita de elevadas quantidades de drogas de natureza especialmente deletéria, o que justifica que sua liberdade seja condicionada ao cumprimento de medidas cautelares alternativas" (e-STJ fl. 170).
+Diante do exposto, conheço parcialmente do agravo e, nessa extensão, nego-lhe provimento.
+Retifique-se a autuação para que conste como "AgRg no PExt no HABEAS CORPUS Nº 904.236 - RS (2024/0120824-5)".
+É como voto.
