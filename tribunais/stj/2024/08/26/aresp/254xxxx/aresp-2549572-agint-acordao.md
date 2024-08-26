@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Herman Benjamin.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO CIVIL PÚBLICA. LIQUIDAÇÃO DE SENTENÇA. RECURSO INADEQUADO. ERRO GROSSEIRO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO APTO A MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGAÇÃO DE AFRONTA A TESE NÃO ANALISADA NO ACÓRDÃO RECORRIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve enfrentamento ao fundamento do acórdão recorrido essencial, autônomo e apto a manter íntegra a solução alcançada pela origem, qual seja, a ausência de manifestação da Corte a quo sobre o teor dos dispositivos do Código de Defesa do Consumidor em que se funda a demanda. Incidência da Súmula 283/STF.
+2. Tese recursal que não foi objeto de análise, pelo Tribunal de origem, a despeito da oposição de embargos de declaração, sob o viés pretendido pela agravante. A usente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 211/STJ.
+3. Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em  análise,  agravo  interno  interposto  pela COMPANHIA DE ELETRICIDADE DO AMAPÁ CEA contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para não conhecer do recurso especial pela incidência da Súmula 283/STF e por ausência de prequestionamento da tese recursal.
+Argumenta  a  parte agravante,  em  síntese:
+ ..  não há que se falar em afastamento do fundamento apresentado no tópico IV.I.1 concernente aos dispositivos do CPC que definem a sentença e o recurso contra ela cabível (CPC, 203, §1º e 1.009) pela constatação da subsistência de fundamento suficiente não abrangido (STF, súm. 283) através da menção a trecho onde o acórdão recorrido menciona que a apelação não veiculou manifestação a respeito dos dispositivos do Código de Defesa do Consumidor.
+De fato, se analisado esse primeiro fundamento que embasou a interposição do Recurso Especial em seu item IV.I.1 ("primeira controvérsia"), restará claro que a ausência de discussão dos arts. do CDC nas razões de apelo de modo algum aponta a presença de algum "fundamento suficiente" (STF, 283) apto a afastar a alegação de necessidade de reforma do julgado recorrido pela violação às regras concernentes ao cabimento da apelação contra a sentença de mérito proferida (fls. 1.349-1.350).
+Sustenta, ainda:
+ ..  em que pese como já demonstrado o cerne do fundamento ("primeira controvérsia") reste evidentemente apontado desde o protocolo da apelação que se funda no próprio art. 1.009 do CPC, ainda que se tomasse como necessária a menção aos dispositivos do Código de Defesa do Consumidor resta inconteste que essa inédita violação já surge por ocasião da prolação do acórdão do apelo e que foi objeto de imputação específica nos embargos de declaração.
+Nesse contexto, aliás, a própria passagem transcrita na decisão agravada como prova de que a parte deixou de atacar fundamento autônomo e suficiente apenas escancara a afronta aos arts. 489 e 1.022 do CPC que é apontada como fundamento no tópico IV.1.5 do Recurso Especial.
+ ..  tanto o E. STF quanto este C. STJ reconhecem pacificamente como omisso - e, portanto, violador da norma do art. 1.022, II do CPC ou 535, II do CPC/73 - o provimento jurisdicional que silencia quanto ao apontamento no ED de violação surgida no julgamento da apelação, de modo que diante do teor do tópico IV.1.5 restaria clara a caracterização também de prequestionamento implícito, não havendo o que falar em afastamento da apreciação da primeira controvérsia por ausência de prequestionamento (fls. 1.357-1.358).
+Por fim, pugna pela reconsideração da decisão agravada ou pelo provimento do agravo interno pelo Colegiado.
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO  INTERNO  NOS EMBARGOS DE DECLARAÇÃO NO  AGRAVO  EM  RECURSO  ESPECIAL. AÇÃO CIVIL PÚBLICA. LIQUIDAÇÃO DE SENTENÇA. RECURSO INADEQUADO. ERRO GROSSEIRO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO APTO A MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGAÇÃO DE AFRONTA A TESE NÃO ANALISADA NO ACÓRDÃO RECORRIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve enfrentamento ao fundamento do acórdão recorrido essencial, autônomo e apto a manter íntegra a solução alcançada pela origem, qual seja, a ausência de manifestação da Corte a quo sobre o teor dos dispositivos do Código de Defesa do Consumidor em que se funda a demanda. Incidência da Súmula 283/STF.
+2. Tese recursal que não foi objeto de análise, pelo Tribunal de origem, a despeito da oposição de embargos de declaração, sob o viés pretendido pela agravante. A usente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 211/STJ.
+3. Agravo  interno  não  provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No caso, a parte autora ajuizou ação de liquidação de sentença condenatória prolatada em ação civil pública, que julgou procedente o pedido de condenação da empresa ré ao pagamento de indenização aos munícipes lesados pela interrupção de fornecimento de energia elétrica.
+O Juízo a quo julgou parcialmente procedente o pedido. Inconformada, a empresa ré interpôs recurso de apelação, o qual não foi conhecido, em razão do não cabimento de apelação contra decisão proferida em liquidação de sentença que não extingue a execução.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões recursais, a parte recorrente sustenta, em síntese:
+ ..  a decisão pela qual o magistrado de 1º grau julga uma ação individual de rito ordinário fundada no art. 97 do CDC é uma sentença passível de enfrentamento pela via do recurso de apelação. Note-se, ainda, que o próprio art. 97 ao tratar separadamente a "liquidação" e a "execução" reforça o equívoco presente na decisão de tratar a sentença da liquidação como passível de enfrentamento via agravo de instrumento, eis que posteriormente terá de ser apresentada uma nova ação sobretudo quando se trata de responsabilidade extracontratual onde é impossível tratar-se de meros cálculos aritméticos nos termos da controvérsia firmada no tema 1.169 (fl. 1.029).
+A Corte a quo consignou, no acórdão dos embargos de declaração, que:
+ ..  quanto à ausência de manifestação sobre o teor dos dispositivos do Código de Defesa do Consumidor em que se fund a a demanda, tal tema não foi trazido à apreciação desta Corte nas razões dos apelos, razão pela qual não estavam os julgadores obrigados a analisarem tal questão (fl. 990 - grifo nosso).
+Com efeito, a empresa agravante não impugnou adequadamente o fundamento supracitado. Assim, correta a decisão agravada quando decidiu pela ausência de impugnação do fundamento autônomo e suficiente.
+Nesse sentido:
+PROCESSO CIVIL E COMERCIAL. AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. 1. AUSÊNCIA DE DOCUMENTO HÁBIL PARA DEMONSTRAR A EVOLUÇÃO DA DÍVIDA. EMENDA DA PETIÇÃO INICIAL. NECESSIDA DE. EXTINÇÃO DA EXECUÇÃO QUE SE MOSTRA INVIÁVEL DIANTE DA APRESENTAÇÃO DO TÍTULO EXECUTIVO. 2. PRECLUSÃO TEMPORAL. JUÍZO MONOCRÁTICO QUE NÃO POSSIBILITOU A EMENDA DA INICIAL. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N.º 283 DO STF, POR ANALOGIA. 3. AVAL. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A inexistência de documento que demonstre a evolução da dívida não acarreta a extinção automática da execução, devendo ser possibilitada a emenda da inicial.
+2. A ausência de impugnação específica quanto aos fundamentos utilizados no acórdão, inviabiliza o conhecimento do recurso especial, atraindo a incidência da Súmula n.º 283 do STF, por analogia.
+3. A falta de previsão expressa do aval no art. 14 do Decreto-lei n.º 413/69 não impede que a garantia seja implementada nas cédulas de crédito comercial, visto que o art. 52 do mesmo diploma legal estabelece que: Aplicam-se à cédula de crédito industrial e à nota de crédito industrial, no que forem cabíveis, as normas do direito cambial, dispensado, porém, o protesto para garantir direito de regresso contra endossantes e avalistas.
+4. Agravo interno não provido (AgInt no AREsp n. 1.694.907/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023 - grifo nosso).
+Ademais, a Corte de origem não analisou a tese recursal em questão, de acordo com o pretendido pela parte recorrente, tampouco houve alegação de afronta ao art. 1.022 do CPC/2015 quanto ao ponto, faltando, dessa forma, o requisito do prequestionamento.
+É nesse sentido o enunciado da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+No mesmo sent ido, cito o seguinte precedente: AgInt nos EDcl no AResp n. 2.549.687/AP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/6/2024, DJe de 13/6/2024.
+Isso posto, nego provimento ao recurso.
