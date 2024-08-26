@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 69 DA LEI N. 9.069/1995 E 8º, III E PARÁGRAFO ÚNICO, 13 E 25 DA LEI N. 7.357/1985. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 283 DO STF. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes por si sós para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AMÍLCAR DO NASCIMENTO SANTOS contra a decisão de fls. 767-772, que negou provimento ao agravo em recurso especial em razão da ausência de omissão e da incidência da Súmula n. 7 do STJ.
+O agravante reitera a alegação de omissão do acórdão recorrido, aduzindo que o Tribunal de origem deixou de enfrentar as seguintes alegações: a) o precedente do STJ citado está em sentido contrário à fundamentação do acórdão; b) o beneficiário dos cheques foi identificado no prazo de apresentação dos títulos, o que demonstra sua exequibilidade; c) há precedentes do STJ favoráveis à tese defendida.
+Alega que não incide na espécie o óbice da Súmula n. 7 do STJ, pois busca apenas que o STJ "confira qualificação jurídica diversa para os fatos incontroversos e já explicitados pelo Tribunal de origem" (fl. 789).
+Assevera que, de acordo com o entendimento do STJ, a emissão de cheque ao portador em valor acima de R$ 100,00 não obsta a cobrança ao emitente pela via judicial, desde que tenha havido a identificação do favorecido, como é o caso dos autos.
+Alega violação dos arts. 8º, III e parágrafo único, 13 e 25 da Lei n. 7.357/1985, pois é "incontroversa a emissão dos cheques ao portador pela empresa recorrida, restando hoje como favorecido, de forma que, ao contrário da conclusão adotada no julgado, o cheque conserva suas características cambiárias" (fl. 777).
+Por fim, afirma que, tendo sido emitidos ao portador, os cheques conservam suas características cambiárias, não podendo o emitente opor exceções pessoais que teria em desfavor do primitivo credor.
+Requer o provimento do agravo interno ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 69 DA LEI N. 9.069/1995 E 8º, III E PARÁGRAFO ÚNICO, 13 E 25 DA LEI N. 7.357/1985. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 283 DO STF. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes por si sós para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+I - Da alegada omissão (violação dos arts. 489, § 1º, V e VI, e 1.022, II, do CPC)
+Não há falar em omissão, uma vez que o Tribunal de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito, nos embargos de declaração, assim se manifestou o Tribunal a quo sobre os pontos acerca dos quais o ora recorrente aponta a existência de omissão e contradição (fls. 628-629):
+Verifica-se da leitura do acórdão embargado que os cheques se vinculam ao negócio jurídico que lhe deu origem, porque o apelado, indiretamente, participou da transação que constituiu a causa debendi ensejadora da emissão dos cheques ao portador que lhe foram repassados pelo locatário, de maneira oblíqua, mas não seria o beneficiário direto dos cheques.
+Esse fato por si só é capaz de identificar a falta de executividade dos cheques e impede que o ora embargante execute imediatamente referidos cheques pelo valor devido, sendo desse recorrente exigido que promova a prévia ação de conhecimento contra o recorrente, para somente depois poder executar seu crédito, em razão da restrição da autonomia e abstração dos cheques em face do negócio jurídico subjacente, como mencionado no decisum recorrido.
+Ademais disso, não há equívoco algum na interpretação do art. 69 da Lei n. 9.069/95,uma vez que serviu ela de baliza para demonstrar o fundamento da falta de executividade das cártulas.
+A execução foi julgada extinta, pois os cheques não ostentam executividade, como dito no julgado porque " s e afasta inclusive o argumento de que a simples tradição dos cheques seria suficiente para legitimar o apelado para o exercício de todos os direitos, uma vez que as cártulas foram emitidas ao portador, ou seja, elas foram entregues sem a identificação do beneficiário, contrariando disposição da Lei 9.069/95 em seu art. 69, de que cheques acima de R$100,00 devem ser nominais, conforme fl. 32".
+O nome do beneficiário deveria constar do momento do negócio e não do momento de apresentação do cheque para desconto e, por essa razão, não há contradição com a jurisprudência do STJ, que está em consonância com a fundamentação do julgado ora recorrido e não com o entendimento do recorrente.
+No que tange ao argumento de que não foram analisadas as jurisprudências colacionadas às contrarrazões do apelo, segundo o STJ, o julgador não está obrigado a responder todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão (EDcl no MS n. 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em8/6/2016, DJe 15/6/2016).
+Desse modo, não assiste razão ao embargante em seu presente recurso, pois está claro seu objetivo em rediscutir o julgado no que lhe fora desfavorável.
+Dessa forma, afasta-se a alegada ofensa ao art. 1.022 do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+II - Da violação dos arts. 69 da Lei n. 9.069/1995 e 8º, III e parágrafo único, 13 e 25 da Lei n. 7.357/1985
+Quanto à alegada violação dos arts. 69 da Lei n. 9.069/1995 e 8º, III e parágrafo único, 13 e 25 da Lei n. 7.357/1985, melhor sorte não assiste ao agravante.
+O Tribunal de origem considerou que, no caso, deveriam ser mitigados os princípios da autonomia e da independência dos cheques com base em três fundamentos: 1) o ora agravante participou indiretamente da transação que constituiu a causa da emissão dos cheques que lhe foram repassados pelo locatário; 2) há indícios de que a obrigação foi constituída em desrespeito à ordem jurídica; e 3) o fato de os cheques, em valores acima de R$ 100,00, terem sido emitidos sem identificação do beneficiário não possibilita o exercício de todos os direitos pelo portador. Confira-se (fls. 572-573, destaquei):
+Considera-se, portanto, viável a invocação pelo apelante e emitente dos cheques de exceção relativa ao negócio jurídico que ensejou a expedição dos títulos e que diz respeito à relação pessoal do emitente com o anterior portador dos títulos(o locatário do imóvel objeto do contrato de trespasse), havendo ser mitigados os princípios da autonomia e da independência do cheque de que ele não se vincula ao negócio jurídico que lhe deu origem, porque o apelado, indiretamente, participou da transação que constitui a causa debendi ensejadora da emissão dos cheques que lhe foram repassados pelo locatário.
+Dessa forma, constatado indício de que a obrigação foi constituída em flagrante desrespeito à ordem jurídica, passível a discussão acerca da relação jurídica subjacente à emissão dos referidos cheques, na forma da jurisprudência do STJ:
+ ..
+Se afasta inclusive o argumento de que a simples tradição dos cheques seria suficiente para legitimar o apelado para o exercício de todos os direitos, uma vez que as cártulas foram emitidas ao portador, ou seja, elas foram entregues sem a identificação do beneficiário, contrariando disposição da Lei 9.069/95em seu art. 69, de que cheques acima de R$100,00 devem ser nominais, conforme fl. 32.
+Todavia, a parte recorrente em momento algum rebateu os fundamentos n. 1 e 2 do acórdão recorrido, suficientes para a manutenção do julgado, o que atrai a incidência da Súmula n. 283 do STF.
+Ademais, ainda que se pudesse superar tal óbice, para modificar o entendimento do Tribunal estadual de que o agravante participou diretamente da transação que constituiu a causa ensejadora da emissão dos cheques e de que hav ia indícios de que a obrigação foi constituída em desrespeito à ordem jurídica, seria necessário o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
