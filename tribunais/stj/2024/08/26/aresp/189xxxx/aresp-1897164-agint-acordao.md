@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO. DÍVIDA CONDOMINIAL. BEM ARRECADADO NO JUÍZO FALIMENTAR. COMPETÊNCIA DO JUÍZO DA AÇÃO DE COBRANÇA MANTIDA. AGRAVO INTERNO PROVIDO.
+1. Os encargos condominiais, mesmo que anteriores à recuperação judicial, enquadram-se no conceito de despesas necessárias à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências. Precedentes.
+2. Mantém-se a competência do juízo da ação de cobrança para o prosseguimento dos atos expropriatórios
+3. Agravo interno do Condomínio do Edifício Queen Elizabeth provido.
+4. Prejudicado o agravo interno de Leda Lúcia Martins de Almeida.
+RELATÓRIO
+Trata-se de dois agravos internos interpostos pelo CONDOMÍNIO DO EDIFÍCIO QUEEN ELIZABETH (fls. 218-232) e por LEDA LÚCIA MARTINS DE ALMEIDA (fls. 265-281) contra a decisão proferida pelo Ministro Luis Felipe Salomão (fls. 211-215) que conheceu do agravo e deu provimento ao recurso especial para "reconhecer a competência do Juízo falimentar para o prosseguimento dos atos de execução, tais como o leilão de ativos arrecadados, bem como para definir se haverá ou não o aproveitamento dos atos praticados pelo Juízo incompetente".
+O Condomínio do Edifício Queen Elizabeth alega, nas razões do agravo interno, que a dívida condominial constitui encargo da massa falida e, por isso, é crédito extraconcursal, na forma do que preconiza o art. 84, III, da Lei de Falências. Acrescenta que o entendimento do Superior Tribunal de Justiça sobre a matéria é no sentido de não se suspender o trâmite da execução da ação de cobrança de cotas condominiais, já que a mesma não se sujeita aos ditames do art. 99, III, da Lei de Falências.
+Requer, assim, o provimento do presente agravo a fim de que seja reconsiderada a decisão monocrática para negar provimento ao agravo em recurso especial interposto por Luiz Carlos Pereira da Silva, ora agravado.
+Leda Lúcia Martins de Almeida, por sua vez, afirma que, por hasta pública realizada em 8/11/2019, arrematou o imóvel objeto da presente execução de cotas condominiais, e requer a sua admissão no processo como litisconsorte passiva necessária, argumentando que "os embargos de terceiro em epígrafe afetam diretamente os direitos do arrematante, sendo necessária a garantia de contraditório e ampla defesa, nos moldes do art.5º, LV da CF" (fl. 266).
+Defende que débito condominial possui natureza de obrigação propter rem e, por isso, não se sujeita à habilitação no quadro geral de credores da falência, na medida em que se trata de despesa própria para a manutenção do ativo.
+Requer a reforma da decisão monocrática a fim retirar a suspensão dos atos expropriatórios da arrematação.
+Contrarrazões às fls. 236-242 e 290-292.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO. DÍVIDA CONDOMINIAL. BEM ARRECADADO NO JUÍZO FALIMENTAR. COMPETÊNCIA DO JUÍZO DA AÇÃO DE COBRANÇA MANTIDA. AGRAVO INTERNO PROVIDO.
+1. Os encargos condominiais, mesmo que anteriores à recuperação judicial, enquadram-se no conceito de despesas necessárias à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências. Precedentes.
+2. Mantém-se a competência do juízo da ação de cobrança para o prosseguimento dos atos expropriatórios
+3. Agravo interno do Condomínio do Edifício Queen Elizabeth provido.
+4. Prejudicado o agravo interno de Leda Lúcia Martins de Almeida.
+VOTO
+Inicialmente, admito o pedido de intervenção nos autos formulado no agravo interno por LEDA LÚCIA MARTINS DE ALMEIDA na qualidade de assistente do ora agravante.
+Extrai-se dos autos que o condomínio agravante ajuizou em 2009 ação de cobrança de cotas condominiais em face do agravado.
+Já na fase de cumprimento de sentença, o Juízo da 5ª Vara Cível de Nova Iguaçu, competente para processar a falência da empresa TRANSCOL TRANSPORTES TURISMO LTDA., decretada nos autos do Processo n. 006002-38.1998.8.19.0038, remeteu ofício ao Juízo em que se processava a ação de cobrança, comunicando a arrecadação do bem imóvel em razão da procedência de pedido de desconsideração da personalidade jurídica da referida sociedade falida para responsabilizar pessoalmente os sócios, dentre eles o agravado.
+O Juízo da ação de cobrança entendeu que sua competência deveria ser mantida e procedeu à alienação do imóvel para satisfazer as dívidas condominiais.
+É sabido que, nos termos do art. 6º, II, da Lei de Falências, a decretação da falência implica a "suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência".
+Ademais, o art. 76 da Lei de Falências preceitua que "o juízo da falência é indivisível e competente para conhecer todas as ações sobre bens, interesses e negócios do falido, ressalvadas as causas trabalhistas, fiscais e aquelas não reguladas nesta Lei em que o falido figurar como autor ou litisconsorte ativo".
+O Tribunal de origem entendeu que o crédito condominial cobrado é um crédito extraconcursal, razão pela qual não deve necessariamente ser arrecadado pela massa falida, tampouco a sua cobrança por meio de processo autônomo é atingida pela decisão de suspensão geral, que ocorre por força da decretação da falência. Confira-se:
+Trata-se de ação de cobrança de cotas condominiais devidas pelo réu, promitente comprador imitido na posse. A ação transitou em julgado, encontrando-se em fase de conhecimento.
+Efetivada a penhora do imóvel e já designada a data do leilão, foi proferida a decisão agravada na qual determinou a suspensão do leilão eis que comunicado pela 5ª. Vara Cível de Nova Iguaçu onde tramita a falência da empresa da qual o réu era sócio que o bem havia sido ali arrecadado.
+Como já cediço na jurisprudência, inclusive do Superior Tribunal de Justiça, as cotas condominiais são despesas inerentes à administração do ativo, tratando-se, portanto, de crédito extraconcursal, não se sujeitando à habilitação de crédito, bem como à suspensão da ação de cobrança. Com efeito, ostentando a natureza de obrigação propter rem, se constituem em ônus do próprio imóvel.
+Neste sentido: .. De ressaltar que não se justifica a suspensão de um leilão com data já designada, despendidos todos os custos inerentes ao mesmo, se o pagamento das referidas cotas se impõe de forma incontroversa e o seu produto ficará preservado para a devida distribuição, que é providência do juízo "a quo", podendo, encaminhá-lo ao juízo da recuperação para o pagamento que se impõe, observadas outras eventuais preferências.
+Deste modo, voto no sentido de DAR PROVIMENTO ao recurso para cassar a decisão de suspensão do leilão.
+O caso em questão apresenta ainda uma peculiaridade. O crédito condominial cobrado não decorre de dívida de imóvel de propriedade da empresa falida e sim de propriedade de um de seus sócios. O bem apenas foi arrecadado pela massa falida após o deferimento de pedido de desconsideração da personalidade jurídica, por meio de decisão proferida em 11/3/2014 (fl. 64), sendo que a ação de cobrança da dívida condominial foi ajuizada em 2009 .
+Pois bem, entendo que os encargos condominiais, mesmo que anteriores à recuperação judicial, enquadram-se no conceito de despesas necessárias à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências.
+Isso porque os valores devidos ao condomínio são necessários para manter a utilidade do bem. Não importa se a dívida é anterior à decretação da falência ou ao pedido de recuperação.
+A legislação pátria alçou a dívida condominial a uma posição de importância, porquanto o seu adimplemento é necessário para manter a higidez do imóvel. Basta dizer que é possível a penhora do bem de família se as dívidas decorrem de inadimplemento de taxas e contribuições condominiais relativas ao imóvel objeto da execução, nos termos do disposto no inc. IV do art. 3º da Lei n. 8.009/1990.
+Se o crédito extraconcursal não se sujeita à habilitação, tampouco à suspensão da lei de falências, a competência para proceder com os atos de alienação do bem era, de fato, do Juízo da ação de cobrança, tal qual concluiu o pronunciamento de segunda instância.
+Nesse sentido, o seguinte precedente desta Turma, da minha relatoria:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 18 DA LEI N. 6.024/1974. LIQUIDAÇÃO EXTRAJUDICIAL. ENCARGOS CONDOMINIAIS. CRÉDITO EXTRACONCURSAL. NÃO SUJEITO À HABILITAÇÃO OU SUSPENSÃO. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Os encargos condominiais, mesmo que anteriores à recuperação, enquadram-se no conceito de despesas necessárias à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências.
+O mesmo entendimento se aplica ao art. 18, a, da Lei n. 6.024/1974.
+2. Agravo interno desprovido. (AgInt no REsp n. 1.565.058/SP, de minha relatoria, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+No mesmo sentido, confira-se julgado da Terceira Turma:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO EXTRAJUDICIAL. COTAS CONDOMINIAIS. ENCARGOS DA MASSA. CRÉDITO NÃO SUJEITO À HABILITAÇÃO NO QUADRO GERAL DE CREDORES. INCIDÊNCIA DA SÚMULA 83/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A decisão recorrida se mostra em sintonia com o entendimento desta Corte de que o encargo condominial, ainda que anterior ao pedido de quebra, enquadra-se no conceito de despesa necessária à administração do ativo, tratando-se de crédito extraconcursal que não se sujeita à habilitação, tampouco à suspensão determinada pela Lei de Falências. Incidência da Súmula 83/STJ.
+2. Razões recursais insuficientes para a revisão do julgado. 3. Agravo interno desprovido. (AgInt no AgInt no AREsp n. 769.043/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/9/2020, DJe de 7/10/2020.)
+E ainda: AgInt no AREsp n. 1.948.924/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023 e AgInt no REsp n. 1.646.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/4/2018, DJe de 30/4/2018 e AgInt nos EDcl no REsp n. 1.758.897/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 21/10/2019, DJe de 29/10/2019.
+Ante o exposto, dou provimento ao agravo interno para, reconsiderando a decisão agravada, negar provimento ao recurso especial .
+É o voto.
