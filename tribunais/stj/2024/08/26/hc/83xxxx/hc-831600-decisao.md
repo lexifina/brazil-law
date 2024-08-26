@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de LUCIANO HENRIQUE SOUZA CANSANCAO contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul proferido nos autos da Apelação Criminal n. 0024072-48.2017.8.12.0001.
+Consta dos autos que a sentença "julgou procedente a denúncia e condenou como incurso no art. 33, caput, c.c. art. 40, III, da Lei nº 11.343/06, à pena de 15 (quinze) anos, 11 (onze) meses e 01 (um) dia de reclusão e multa de 1.593 (hum mil quinhentos e noventa e três) dias-multa, em regime fechado." (fl. 307).
+Em sede de apelação, deu-se parcial provimento ao recurso defensivo para, por maioria, "reduzir a pena-base, afastar a agravante da reincidência, aplicar o quantum de 1/6 referente a causa de aumento do art. 40, III, da Lei n. 11.343/06 e ainda a conceder os benefícios da justiça gratuita. Em razão desse entendimento, resta a reprimenda final de Luciano Henrique Souza Cansanção em 08 anos e 02 meses de reclusão e 816 dias-multa, mantidos inalterados os demais termos da sentença." (fl. 319).
+Neste writ, a impetrante defende a desclassificação da condenação por tráfico de drogas para o art. 28 da Lei n. 11.134/2006, por inexistir evidência da destinação comercial, aduzindo ser pequena a quantidade de drogas (99,01 gramas - noventa e nove gramas e uma centigrama de maconha, em duas porções).
+Informações prestadas (fls. 413/432).
+Parecer do MPF pelo não conhecimento do habeas corpus (fl. 437).
+É o relatório.
+DECIDO.
+O acórdão impugnado assim se manifestou quanto ao suscitado (fls. 91/113 -grifamos):
+O recorrente sustenta que não há prova suficiente para condenação pela prática do crime de tráfico de drogas e que as porções de maconha apreendidas eram destinadas exclusivamente ao consumo próprio.
+Sem razão, no entanto.
+Vale de início ressaltar que a conduta de ter drogas sob guarda e posse, por si só, configura o delito de tráfico de drogas, sendo dispensável o flagrante na prática de atos de mercancia.
+E no caso destes autos, os testemunhos dos agentes penitenciários são seguros no sentido de que o recorrente, ao realizarem revista de rotina no instituto penal nos internos que estavam retornando do trabalho externo, com o apelante foi encontrado nas suas vestes, duas porções de maconha pesando 99,1 g (noventa e nove gramas e um decigrama), sendo que o mesmo no momento do flagrante conseguiu se evadir sem ser preso.
+O apelante, em seu interrogatório em fase policial confessou os fatos e, em juízo (fls. 130), disse ser viciado em maconha, bem como confirmou que a droga foi encontrada com ele, mas que era tão somente para seu consumo.
+Assim, não há que se falar em insuficiência de provas.
+No que tange ao pleito de desclassificação do delito, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, "para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente."
+A tese defensiva não encontra amparo nas circunstâncias do delito comprovada nos autos.
+Em que pese a quantidade de droga apreendida - quase 100 gramas de maconha - o apelante registra outras passagens pelo mesmo delito, conforme consta de sua certidão de antecedentes acostada às fls. 133/141.
+Ressalto ainda, que mesmo a alegação de ser o apelante usuário de drogas, tal condição não afasta a caracterização do crime de tráfico de drogas pela prática do verbo "trazer" consigo, se as circunstâncias não indicam que a droga fosse para uso próprio, mas para disseminação dentro no presídio.
+Ademais, é de se estranhar que se um interno que ficou durante o dia fora do estabelecimento penal ao retornar traz consigo razoável quantidade de droga (quase cem gramas de maconha) suficiente para fazer vários cigarros de estupefacientes.
+Do fato se conclui que por certo incorre na conduta do art. 33 da Lei n.º 11.343/06, pois decerto que ele não traz tal droga para uso próprio, quando muito mais comodamente e sem vigilância poderia consumir a droga em outro local ao longo do dia, onde está sem a vigilância, somado ainda ao fato de que a quantidade apreendida é incompatível com o uso em pequeno período de tempo. Em casos semelhantes, assim entendeu este E. Tribunal de Justiça ..
+Tecidas essas considerações, ao passo em que há nos autos um conjunto probatório robusto no sentido de confirmar a atividade de traficância, os argumentos apresentados pela defesa, avaliados de forma conglobada, não evidenciam um contexto tendente à absolvição ou mesmo à desclassificação delitiva.
+Consequentemente, não merece acolhida o pedido de reforma formulado neste ponto, devendo ser mantida a condenação nos termos do art. 33, caput da Lei 11.343/06.
+Constatado no acórdão que o paciente portava a quantia de aproximadamente 100g (cem gramas) de maconha, em duas porções, contumaz na traficância, indicam a destinação da droga para a disseminação no presídio. Desclassificar a condenação demandaria revolvimento do acervo fático probatório, inviável na via eleita. Vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA PARA O DELITO DE PORTE DE ENTORPECENTES PARA USO PESSOAL. CONCLUSÃO DO TRIBUNAL DE ORIGEM DE QUE AS CIRCUNSTÂNCIAS DO FLAGRANTE APONTAM PARA A CONFIGURAÇÃO DO DELITO DE TRÁFICO ILÍCITO DE ENTORPECENTES. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+1. É firme nessa Corte o entendimento de que, "Consoante o disposto no art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente" (RHC 94.980/RN, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/03/2021).
+2. No caso, as circunstâncias da prisão do agravante efetivamente conduzem à conclusão de que os entorpecentes apreendidos destinavam-se à mercancia, isso porque "o imputado foi encontrado portando entorpecentes já fracionados, uma quantia significativa em notas trocadas, bem como, em sua residência, foi localizada mais droga da mesma espécie".
+3. Os depoimentos dos policiais responsáveis pela prisão em flagrante são meios idôneos e suficientes para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu no presente caso.
+4. A pretensão de desclassificatória implicaria rever o conjunto fático-probatório constante nos autos, o que é incabível em habeas corpus.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 854.955/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/5/2024, DJe de 27/5/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTE. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+1. Tendo as instâncias pretéritas concluído, a partir do material apreendido, sua quantidade, e do depoimento dos agentes penitenciários, pela prática do tráfico de drogas no interior do presídio no qual se encontra o recorrente, solução diversa é incorrer em revolvimento do acervo fático probatório, procedimento inviável na via estreita de atuação permitida em habeas corpus.
+2. Agravo regimental improvido.
+(AgRg no HC n. 671.129/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+PROCESSO PENAL E PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA A CONDUTA DE MERO USUÁRIO. REEXAME DE FATOS. IMPOSSIBILIDADE NA VIA ELEITA. PENA-BASE. AUMENTO PROPORCIONAL. RÉU PORTADOR DE MAUS ANTECEDENTES. AGRAVANTE DA REINCIDÊNCIA. PLURALIDADE DE CONDENAÇÕES. ÍNDICE DE AUMENTO ADEQUADO. RECURSO NÃO PROVIDO.
+1. É inadmissível a pretensão de desclassificação do delito do art. 33, caput, da Lei n. 11.343/2006 para o de uso próprio, pois há testemunhos seguros, somado ao conjunto probatório trazido como fundamento no acórdão recorrido (auto de apreensão e apresentação; e laudo de exame químico), de que o réu tentou introduzir, em presídio, e trazia consigo 69,33g de maconha, sem autorização legal ou regulamentar. Logo, qualquer entendimento em contrário demanda o exame aprofundado dos fatos, o que é inviável em habeas corpus.
+2. Não é desproporcional o aumento da pena-base em 10 meses tendo como fundamento os maus antecedentes do réu, sobretudo quando as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas são de 5 a 15 anos de reclusão, e tal circunstância é elencada inclusive como preponderante pelo art. 42 da Lei de Drogas.
+3. A multirreincidência do réu - registro de cinco condenações definitivas - autoriza a majoração da pena em 1/2, na segunda fase da dosimetria.
+4. Recurso não provido.
+(AgRg no HC n. 685.879/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/10/2021, DJe de 4/11/2021.)
+Assim , verifico a inexistência de ilegalidade no aresto, que se encontra em consonância com o entendimento desta Corte Superior.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
