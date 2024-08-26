@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO §4º, ART. 33, DA LEI N. 11.343/2006. REINCIDÊNCIA CARACTERIZADA POR CRIME DE MENOR POTENCIAL OFENSIVO. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Para a aplicação do redutor do tráfico privilegiado, o condenado deve preencher, cumulativamente, todos os requisitos, quais sejam: ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa. Portanto, estando caracterizada a reincidência, ainda que decorrente de crime de menor potencial ofensivo e não específica, é vedado o reconhecimento do privilégio por expressa vedação legal.
+2. Os crimes de menor potencial ofensivo não afastam os efeitos da reincidência, uma vez que o art. 63 do Código Penal não faz nenhuma referência quanto à natureza do delito anterior.
+3. Apesar de o quantum de pena aplicado (5 anos) autorizar, em tese, o início do cumprimento da privativa de liberdade no regime semiaberto, a reincidência do agente obsta a fixação do regime inicial menos gravoso, nos termos do art. 33, §2º, "b" do Código Penal.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ LUIS NUNES FREDERICO FILHO contra decisão de minha relatoria em que não conheci do habeas corpus (e-STJ, fls. 30-33).
+Em suas razões recursais, o agravante repisa os fundamentos suscitados na exordial. Destaca que a condenação anterior utilizada para caracterizar a reincidência é de menor potencial ofensivo e que "não há nenhuma relação com conduta reiterada de um criminoso, pois trata-se de um atrito dentro do seio familiar com a sua ATUAL companheira." (e-STJ, fl. 40). Aponta que o crime ora versado ocorreu de forma singela e sem o envolvimento do agravante com facções.
+Além disso, aduz que a Procuradoria de Justiça do Estado do Rio de Janeiro deu parecer favorável para o pleito de abrandamento de regime.
+Portanto, requer a aplicação do redutor do tráfico privilegiado e, subsidiariamente, o abrandamento do regime prisional.
+Caso não seja exercido o juízo de retratação, pugna pela submissão do presente recurso ao crivo do Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO §4º, ART. 33, DA LEI N. 11.343/2006. REINCIDÊNCIA CARACTERIZADA POR CRIME DE MENOR POTENCIAL OFENSIVO. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Para a aplicação do redutor do tráfico privilegiado, o condenado deve preencher, cumulativamente, todos os requisitos, quais sejam: ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa. Portanto, estando caracterizada a reincidência, ainda que decorrente de crime de menor potencial ofensivo e não específica, é vedado o reconhecimento do privilégio por expressa vedação legal.
+2. Os crimes de menor potencial ofensivo não afastam os efeitos da reincidência, uma vez que o art. 63 do Código Penal não faz nenhuma referência quanto à natureza do delito anterior.
+3. Apesar de o quantum de pena aplicado (5 anos) autorizar, em tese, o início do cumprimento da privativa de liberdade no regime semiaberto, a reincidência do agente obsta a fixação do regime inicial menos gravoso, nos termos do art. 33, §2º, "b" do Código Penal.
+4. Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada, razão pela qual a mantenho por seus próprios fundamentos.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos, quais sejam: ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Na hipótese, o Tribunal a quo assim consignou acerca do afastamento do redutor do tráfico privilegiado:
+"A Defesa pugna pelo reconhecimento do tráfico privilegiado, o que, no entanto, não merece acolhimento. Repita-se que, segundo os Policiais, o Réu já era conhecido pelo envolvimento com o tráfico na localidade, que, inclusive, como por eles também afirmado, é dominado pelo CV. Ademais, trata-se de reincidente, já que condenado com trânsito em julgado em 08/10/2019 pela prática do delito previsto no art. 129, § 9º do CP à pena de 03 meses de detenção, em regime aberto (indexes 137 e 155)." (e-STJ, fl. 14)
+Portanto, estando caracterizada a reincidência, ainda que decorrente de crime de menor potencial ofensivo e não específica, é vedado o reconhecimento do privilégio por expressa vedação legal.
+Frisa-se que é assente nesta Corte o entendimento de que " o  fato de o crime pelo qual o acusado fora anteriormente condenado ser de menor potencial ofensivo não é motivo para afastar os efeitos da reincidência, haja vista que o art. 63 do CP não faz nenhuma referência quanto à natureza do delito anterior" (AgRg no HC n. 777.848/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022; sem grifos no original).
+Cito, a propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DESCLASSIFICAÇÃO PARA POSSE. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AFASTAMENTO DO TRÁFICO PRIVILEGIADO. REINCIDÊNCIA. BIS IN IDEM. INOVAÇÃO RECURSAL.
+1. Em que pesem as alegações da defesa, no que se refere à desclassificação da conduta, não se verifica manifesta ilegalidade, uma vez que o Tribunal de origem, soberano na análise da s provas, concluiu que "a prova dos autos apurou, de maneira segura, que o apelante trazia consigo drogas e dinheiro, e se não vendeu, ao menos mantinha a droga no local para tal finalidade, aliadas às circunstâncias da apreensão e à prova oral não deixam margem a dúvidas acerca da sua destinação mercantil", acrescendo que "a defesa do réu não fez prova alguma dos seus argumentos, ônus que lhe competia, por força do disposto no artigo 156 do Código de Processo Penal".
+2. "Não há como ser reconhecido o benefício previsto no art. 33, § 4º, da Lei de Drogas em favor do réu, haja vista a vedação legal expressa da concessão desse redutor aos acusados reincidentes" (AgRg no HC n. 777.848/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+3. "O fato de o crime pelo qual o acusado fora anteriormente condenado ser de menor potencial ofensivo não é motivo para afastar os efeitos da reincidência, haja vista que o art. 63 do CP não faz nenhuma referência quanto à natureza do delito anterior" (AgRg no HC n. 777.848/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+4. Configura-se a alegação de ocorrência de bis in idem em inovação recursal, porquanto não trazida originariamente na inicial do mandamus, impossibilitando-se, assim, a sua análise nesta via.
+5. Noutra vertente: " o  entendimento desta Corte Superior é no sentido de que a reincidência, ainda que por delito de natureza diversa, constitui óbice legal à concessão da minorante do tráfico privilegiado, consoante previsto no art. 33, § 4º, da Lei 11.343/2006, inexistindo bis in idem ante a utilização concomitante na segunda e terceira fases da dosimetria. Precedentes" (AgRg no AREsp n. 1.810.760/PR, relator Ministro Olindo Menezes, Desembargador convocado do TRF 1ª Região, Sexta Turma, julgado em 9/11/2021, DJe de 16/11/2021).
+6. Agravo regimental desprovido."
+(AgRg no HC 766850 / SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/03/2023, DJe 30/03/2023.)
+No tocante ao regime inicial, extrai-se do acórdão apelatório:
+"A Defesa pugna pelo abrandamento do regime, tendo a Procuradoria de Justiça endossado o pleito. No entanto, o quantum final de pena aliado à reincidência justifica a manutenção do Regime Fechado, ex vi do art. 33, § 2º, do Código Penal. Ressalto que foi concedido ao réu o direito de recorrer em liberdade." (e-STJ, fl. 15)
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenação por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006.
+Apesar de o quantum de pena aplicado (5 anos) autorizar, em tese, o início do cumprimento da privativa de liberdade no regime semiaberto, a reincidência do agente obsta a fixação do regime inicial menos gravoso, nos termos do art. 33, §2º, "b" do Código Penal.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. TESES DE ILEGALIDADE. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE DESCLASSIFICAÇÃO. MATÉRIA APRECIADA NO HABEAS CORPUS 836.113/SP. REITERAÇÃO DE PEDIDO. MINORANTE DO ART. 33, §4º DA LEI N. 11.343/2006. RÉU REINCIDENTE. REGIME FECHADO. FUNDAMENTO IDÔNEO. AGRAVO NÃO PROVIDO.
+1. Embora a defesa sustente a ilicitude das provas, em razão da ausência de justa causa para a busca pessoal e domiciliar, tais teses não foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. A tese de desclassificação da condenação de tráfico para o delito do art. 28 da Lei n. 11.343/2006 constitui mera reiteração do pedido formulado no HC 836.113/SP, o que configura óbice ao seu conhecimento.
+3. Não há falar em aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, uma vez que o agravante é reincidente, inclusive específico, não preenchendo, portanto, os requisitos legais.
+4. A reincidência do réu torna incabível a alteração do regime prisional para o aberto ou semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+5. Agravo regimental não provido."
+(AgRg no HC 888647/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/04/2024, DJe 18/04/2024; destacou-se.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
