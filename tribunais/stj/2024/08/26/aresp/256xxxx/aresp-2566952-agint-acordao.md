@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. INDENIZAÇÃO POR ERRO MÉDICO. IMPARCIALIDADE DO PERITO. REEXAME. SÚMULA 7/STJ. AUSÊNCIA DE ERRO MÉDICO. PERÍCIA. REEXAME. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem registrou que "(..) não há se falar em suspeição do perito, uma vez que a manifestação considerada para fundamentar essa alegação ocorreu, apenas, em sede de esclarecimentos. Aliás, foi motivada por manifestação da própria parte apelante e nem sequer caracteriza a hipótese prevista no artigo 465, I do Código de Processo Civil". A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. O Tribunal de origem manteve a improcedência do pedido indenizatório, com base na prova pericial produzida nos autos, que foi categórica ao afastar a ocorrência de erro médico, no caso. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA GILVANIA SILVA DE LIMA em face de decisão da Presidência do STJ, que não conheceu do agravo em recurso especial.
+A agravante sustenta que "o RECURSO ESPECIAL E RESPECTIVO AGRAVO, OS QUAIS REMETO VOSSAS EXCELÊNCIAS, APONTOU DE FORMA CLARA E PRECISA a impugnação de todos os fundamentos da decisão recorrida, isso de forma CONCRETA E PORMENORIZADA, apontando ainda no Recurso Especial e respectivo Agravo interpostos a LEI FEDERAL VIOLADA" (fl. 470).
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 469/480).
+Impugnação às fls. 484/494.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. INDENIZAÇÃO POR ERRO MÉDICO. IMPARCIALIDADE DO PERITO. REEXAME. SÚMULA 7/STJ. AUSÊNCIA DE ERRO MÉDICO. PERÍCIA. REEXAME. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem registrou que "(..) não há se falar em suspeição do perito, uma vez que a manifestação considerada para fundamentar essa alegação ocorreu, apenas, em sede de esclarecimentos. Aliás, foi motivada por manifestação da própria parte apelante e nem sequer caracteriza a hipótese prevista no artigo 465, I do Código de Processo Civil". A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. O Tribunal de origem manteve a improcedência do pedido indenizatório, com base na prova pericial produzida nos autos, que foi categórica ao afastar a ocorrência de erro médico, no caso. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+A decisão merece reparos.
+A parte, nas razões do agravo em recurso especial às fls. 431/442, impugnou de forma específica todos os fundamentos da decisão de inadmissibilidade do apelo, notadamente o relativo à Súmula 7/STJ.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão às fls. 464/465, passando a novo exame do recurso.
+Trata-se de agravo interposto em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Responsabilidade civil. Dano moral e material. Ação fundada na alegação de má prestação do serviço pelo médico. Questão que deve ser analisada à luz da responsabilidade subjetiva. Não caracterizada a suscitada suspeição do perito, nem a incapacidade técnica. Perícia produzida nos autos afastou qualquer conduta passível de responsabilização. Ausência de justificativa às pretensões indenizatórias. Recurso desprovido." (fl. 391)
+Sob a alegação de ofensa aos arts. 371, 465, I, 479 e 480 do CPC/2015, a recorrente sustenta, em síntese: (a) "a cirurgia da coluna cervical, foi efetivada com diagnóstico equivocado, pois os sintomas narrados pela requerente não eram oriundos da debilidade na coluna cervical, pois continuaram como acima colocado, salientando que o tratamento cirúrgico indicado equivocadamente ainda o foi sem qualquer outro meio menos agressivo que o antecedesse, pois exame realizado em 29.06.2017, e cirurgia da coluna cervical efetivada em 01.11.2017" (fl. 404); (b) imparcialidade do perito e ausência de resposta aos questionamentos técnicos formulados, o que impõe a substituição do profissional, sob pena de cerceamento de defesa; e (c) "foi constatado em data de 23.12.2019 que os parafusos e hastes metálicas fixadas pelo ora requerido  na cirurgia de coluna , frise-se já com diagnóstico equivocado, sofreu fratura, isso especificamente no parafuso C4, no seu segmento intrasomático, tudo na forma da Tomografia e Imagem anexa" (fl. 405).
+Sem contrarrazões.
+Decido.
+Sobre a alegação de imparcialidade do perito, o eg. TJSP consignou:
+"(..) não há se falar em suspeição do perito, uma vez que a manifestação considerada para fundamentar essa alegação ocorreu, apenas, em sede de esclarecimentos. Aliás, foi motivada por manifestação da própria parte apelante e nem sequer caracteriza a hipótese prevista no artigo 465, I do Código de Processo Civil.
+Destaque-se que a perícia foi realizada pelo IMESC, instituto de reconhecida idoneidade, que possui, em seu quadro, profissionais habilitados e com currículo compatível. O mero fato de o perito não ter especialização nas áreas médicas relacionadas às patologias apresentadas, pela apelante, não invalida o trabalho realizado, uma vez que possui especialização em Medicina Legal e Perícias Médicas pela ABMLPM, assim como respondeu aos quesitos formulados, pelas partes, com base nos documentos presentes nos autos e exame físico que realizou na apelante." (fl. 494)
+A reforma desse entendimento, contudo, demandaria investigar novamente se o perito nomeado pelo Juízo de 1º grau incorre ou não em causa de suspeição ou impedimento, providência inviável nesta sede, em razão do óbice da Súmula 7/STJ.
+No mesmo sentido:
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SOMENTE A EXCEÇÃO DE SUSPEIÇÃO SUSPENDE O PROCESSO. ART. 135 DO CPC/1973. ROL TAXATIVO. INCIDÊNCIA DA SÚMULA 83/STJ. ALTERAÇÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DA SEGURADA A QUE SE NEGA PROVIMENTO.
+1. De acordo com a orientação firmada neste Superior Tribunal de Justiça, o rol do art. 135 do CPC/1973 é taxativo e, portanto, imprescindível ao provimento da exceção de suspeição a presença de uma das situações dele constantes (AgRg no Ag 142.2408/AM, Rel. Min. MARIA ISABEL GALLOTTI, DJe 21.2.2013).
+2. Na hipótese, o Tribunal de origem, ao negar provimento ao Agravo de Instrumento, concluiu, com base nos elementos fáticos dos autos, que inexiste qualquer fato concreto capaz de macular a imparcialidade do perito, ficando a alegação somente no campo da retórica. Consignou, ainda, que as alegações da ora agravante não se amoldam ao rol taxativo do art. 135 do CPC/1973, de modo que para alterar esse entendimento seria necessário o reexame de fatos e provas, o que é vedado em Recurso Especial.
+3. Agravo Interno da Segurada a que se nega provimento.
+(AgInt no AREsp n. 1.402.090/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 19/10/2020, DJe de 23/10/2020.)
+Quanto à principal questão de fundo, a conclusão lançada tanto pelo Juízo de 1º grau quanto pelo Tribunal de origem foi fundada na prova pericial produzida, segundo a qual, em resumo, "(..) não houve erro médico. Se não houve imperícia por parte do requerido, não há como imputar à parte o dever de indenizar o dano alegado" (fl. 394).
+No entanto, como não compete a esta Corte reexaminar a conclusão de prova pericial, o conhecimento do recurso especial fica obstado pela Súmula 7/STJ. Em igual sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. A jurisprudência do Superior Tribunal de Justiça encontra-se consolidada no sentido de que a responsabilidade civil dos profissionais liberais depende da verificação de culpa (art. 14, § 4º, do CDC). Aplicação da teoria da responsabilidade subjetiva.
+Precedentes.
+2. Para derruir as conclusões contidas no decisum atacado e acolher o inconformismo recursal no sentido de verificar a alegada existência de erro médico, segundo as razões do apelo extremo, seria imprescindível o reexame dos fatos e das provas dos autos, providências que esbarram no óbice da Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.039.710/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Ante o exposto, dou provimento ao agravo interno e, em novo julgamento, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
