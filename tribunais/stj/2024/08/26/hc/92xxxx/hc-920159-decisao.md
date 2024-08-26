@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FERNANDO SILVA DE OLIVEIRA (ou FERNANDO SILVA OLIVEIRA) e ALDENIO SANTOS ARAUJO (ou ALDELINO SANTOS ARAUJO), em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2132322-13.2024.8.26.0000).
+Extrai-se do acórdão impugnado que os pacientes foram presos em flagrante no dia 26/05/2023, e após preventivamente, pela suposta prática do crime previsto no art. 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal. No dia 14/05/2024, o Magistrado singular indeferiu o pedido de revogação da custódia.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante sustenta que i) inexiste fundamentação idônea para a prisão preventiva dos pacientes; ii) não houve sequer uma prova material e indícios suficientes de autoria quanto às acusações que são feitas aos ora pacientes (fl. 12); iii) não ocorreu a revisão da necessidade da custódia no prazo previsto no art. 316, parágrafo único do CPP; e iv) há excesso de prazo para a conclusão do feito.
+Requer, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante a aplicação de medidas cautelares alternativas.
+O pedido liminar foi indeferido às fls. 46-48.
+Informações prestadas às fls. 50-53.
+O Ministério Público Federal manifestou-se às fls. 59-63, opinando pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+De início, ressalto que as teses relativas à ausência de fundamentação idônea e de indícios suficientes de autoria para a prisão cautelar dos pacientes, bem como quanto à ilegalidade da custódia pelo descumprimento do prazo previsto no art. 316, parágrafo único, do CPP, não foram examinadas no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode delas conhecer, sob pena de indevida supressão de instância.
+No mais, de acordo com as informações obtidas no endereço eletrônico do Tribunal do origem, já foi encerrada a instrução, estando o processo em fase de apresentação de alegações finais. Desse modo, fica superada a alegação de constrangimento ilegal por excesso de prazo, nos termos da Súmula n. 52 do Superior Tribunal de Justiça: Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE OFENSA. INTELIGÊNCIA DOS ARTS. 932 DO CPC E 34 DO RISTJ E DA SÚMULA N. 568 DO STJ. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. SÚMULA N. 52 DO STJ. PREJUDICIALIDADE. COVID-19. RECOMENDAÇÃO N. 62/2020 DO CNJ. INAPLICÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Os prazos processuais previstos na legislação pátria devem ser computados de man eira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da Constituição da República), considerando cada caso e suas particularidades.
+3. A tese de que haveria excesso de prazo está prejudicada, tendo em vista a notícia de que a instrução criminal foi encerrada, com a apresentação de alegações finais pelas partes. Entendimento consolidado na Súmula n. 52 deste Superior Tribunal.
+ ..
+5. Agravo regimental não provido. (AgRg no RHC n. 136.854/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 7/12/2020, DJe de 15/12/2020; grifamos).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADO. PRISÃO PREVENTIVA. REQUISITOS DA CUSTÓDIA CAUTELAR. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE NA PRESENTE VIA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE NULIDADE DA PROVA OBTIDA POR MEIO DAS INTERCEPTAÇÕES TELEFÔNICAS. NÃO EVIDENCIADA. IMPRESCINDIBILIDADE DA QUEBRA DE SIGILO PARA APURAÇÃO DOS FATOS. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. PROCESSO COM REGULAR TRAMITAÇÃO. ALEGAÇÕES FINAIS APRESENTADAS. SÚMULA N. 52 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PROCESSO DIGITALIZADO. 6 VOLUMES. RAZOABILIDADE. AUSÊNCIA DE DESÍDIA DO MAGISTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Prejudicada a análise quanto à alegação de excesso de prazo na formação da culpa, pois, conforme se depreende das informações prestadas, a defesa do agravante já havia apresentado as alegações finais e o Ministério Público juntou as suas alegações finais em 5/5/2021, o que atrai ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, a qual prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo". Ademais, em nova consulta ao site do TJ/RJ, verifica-se que foi proferido despacho em 30/6/2022, informando que o processo foi digitalizado, em atendimento ao art. 3º, §2º, do Ato Normativo Conjunto TJ/CGJ/Vice-Presidência n. 7/2013, encontrando-se os autos deste processo devidamente regularizados, inclusive quanto à numeração e ordenação das folhas, ressaltando-se que o processo possui 6 volumes.
+6. Agravo regimental desprovido. (AgRg no RHC n. 169.330/RJ, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023; grifamos).
+Ante o exposto, julgo parcialmente prejudicada a impetração e, no mais, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
