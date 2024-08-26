@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS, MATERIAIS E ESTÉTICOS. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+Reitera-se que rever o entendimento firmado pelo Tribunal de origem, a fim de concluir pela ocorrência de falha na prestação de serviço, bem como afastar a culpa exclusiva da vítima, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula n. 7 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MIRNA LANIUS BORELLA BRAVO contra decisão monocrática que conheceu do agravo para não conhecer do recurso especial (fls. 692-697).
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 576):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃOINDENIZATÓRIA CAUSADOS POR ACIDENTE EMESTABELECIMENTO COMERCIAL. QUEDA DE CLIENTE EM ESCADAROLANTE. LESÃO NO BRAÇO. CULPA EXCLUSIVA DA PARTEAUTORA CONFIGURADA. DEVER DE INDENIZAR. AUSENTE.
+- No caso, a parte autora manejou ação de indenização decorrente de acidente sofrido por queda na escada rolante do estabelecimento réu, tendo sofrido lesões no braço, motivo pelo qual pleiteou indenização de cunho material. Recorre a este Segundo Grau, tendo em vista a sentença de improcedência.
+- É bem verdade que a responsabilidade do estabelecimento réu é objetiva, ou seja, independe de prova da culpa do agente causador do dano. Doutra banda, detectada uma das hipóteses de excludente previstas no parágrafo terceiro do artigo 14 do CDC, quais sejam, a inexistência de defeito no serviço (inciso I) ou a culpa exclusiva da vítima ou de terceiro (inciso II), não há que se falar no dever de indenizar.
+- In casu, restou incontroversa a queda da autora e a lesão sofrida, no entanto, pela prova coligida aos autos, reconhece-se que a parte autora, no momento da queda, encontrava-se distraída, olvidando da sinalização existente para utilização da escada rolante, delineando que a situação ocorreu por culpa exclusiva sua e não por desídia da empresa ré. Ademais, mister ressaltar que tanto o local utilizado, como a sinalização de instrução estão adequados à legislação, não se constatando ato ilícito.
+APELO DESPROVIDO. UNÂNIME.
+Rejeitados os embargos de declaração opostos (fl. 617):
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO. AUSÊNCIA DE CONTRADIÇÃO OU OMISSÃO. DECISÃO MANTIDA. PREQUESTIONAMENTO.
+- O acolhimento dos embargos de declaração pressupõe a existência, no acórdão embargado, deum dos vícios previstos no art. 1.022, do CPC.- Restou devidamente esclarecido no julgado as razões de decidir, especialmente que inexiste prova de ato ilícito praticado pela ré, pois o local é amplamente sinalizado, objeto de manutenção preventiva e o vídeo comprova que a autora encontrava-se minimamente distraída. Não estão presentes os requisitos da responsabilidade civil, ao passo que se verifica culpa exclusiva da vítima na ocasião. Não há, portanto, erro material na decisão.
+- Desnecessário o prequestionamento da legislação invocada para interposição de recursos às instâncias superiores, conforme entendimento do artigo 1.025, do CPC. No entanto, declara-se todos os dispositivos apontados como prequestionados.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS. UNÂNIME.
+Nas razões do agravo interno, a parte agravante defende que "o pleito da Agravante não implica em reanálise de mérito e provas, pretende-se somente a aplicação do Código de Defesa do Consumidor, posto que tratando-se de acidente de consumo, a responsabilidade da Agravada é objetiva, tendo acontecido dentro das suas dependências." (fl. 703)
+Sustenta ainda, que:
+ ..  não pode o Juízo de forma negligente e contra legem afastar a responsabilidade civil objetiva da Agravada, eis que esta é atribuída em lei. Está evidenciado que o respeitável acórdão proferido está em desacordo com a aduzidas normas jurídicas, sendo necessária a reforma da decisão proferida. (fl.703)
+Foram apresentadas contrarrazões(fls. 710-716).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS, MATERIAIS E ESTÉTICOS. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+Reitera-se que rever o entendimento firmado pelo Tribunal de origem, a fim de concluir pela ocorrência de falha na prestação de serviço, bem como afastar a culpa exclusiva da vítima, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula n. 7 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação recursal não merece prosperar.
+Na origem, cuida-se ação indenizatória por danos morais, materiais e estéticos, em decorrência de acidente ocorrido na escada rolante do estabelecimento ora agravado.
+O TJRS afastou a ocorrência de obrigação de indenizar com base nos seguintes fundamentos (fls. 573-574):
+Como bem pontuado pela sentença de Origem, não verifico ato ilícito praticado pela ré, pois as fotografias, por si só, demonstram que o local é amplamente sinalizado.
+Ainda, a parte ré juntou aos autos, documento de manutenção preventiva da escada rolante, em que se verifica que o equipamento estava seguro (evento 54, OUT3).
+Afora isto, analisando o vídeo do momento do acidente, verifica-se que a filha da autora se desequilibra diante do movimento da escada rolante, mas sem comprometimento; enquanto que a autora da ação, ao contrário, ingressou na escada rolante portando objetos em ambas as mãos, o que contribuiu para o desequilíbrio que sofreu diante do movimento próprio da escada. Percebe-se, ainda, que terceiros ajudaram a autora e uma funcionária, imediatamente, desligou a escada rolante.
+Diante disso não prospera a irresignação da parte autora. Não fosse isso, é das máximas da experiência que locais de escada rolante possuem sinalizações que indicam a maneira correta de utilização, de modo que não verifico irregularidades na conduta da ré, mas, sim, culpa exclusiva da autora.
+É bem verdade que a responsabilidade do réu é objetiva, ou seja, independe de provada culpa do agente causador do dano. Doutra banda, detectada uma das hipóteses de excludente previstas no parágrafo terceiro do artigo 14 do CDC, quais sejam, a inexistência de defeito no serviço (inciso I) ou a culpa exclusiva da vítima ou de terceiro (inciso II), não há que se falar no dever de indenizar.
+Mas no caso, muito embora tenha restado incontroverso a queda da autora no estabelecimento réu, assim como são incontestes as lesões sofridas, pela prova coligida aos autos, reconhece-se que a parte autora, no momento da queda, encontrava-se minimamente distraída, olvidando da sinalização existente no local, o qual é comum existir nestes tipos de lugares, delineando que o choque ocorreu por culpa exclusiva da autora e não por desídia da empresa ré.
+Inclusive, destaco entendimento deste Órgão Fracionário da 6ª Câmara Cível sobre o thema:
+ ..
+Dessa forma, a conclusão não é outra senão a de manter a sentença sem qualquer alteração.
+No caso dos autos, o Tribunal de origem expressamente consignou que o acidente não foi causado por falhas na prestação do serviço e sim por culpa exclusiva da vítima.
+Com efeito, reitera-se que rever o entendimento firmado pelo Tribunal de origem, a fim de concluir pela ocorrência de falha na prestação de serviço, bem como afastar a culpa exclusiva da vítima, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula n. 7 do STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. LEGITIMIDADE PASSIVA. OCORRÊNCIA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DANOS MORAIS. REEXAME DO CONJUNTOFÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. DECISÃO MONOCRÁTICA. IMPRESTABILIDADE À COMPROVAÇÃODA DIVERGÊNCIA JURISPRUDENCIAL.
+AGRAVOINTERNO DESPROVIDO.1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais - quanto à legitimidade passiva da agravante - demandaria necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A alteração das conclusões adotadas pela Corte de origem - quanto à ocorrência de responsabilidade civil apta a gerar danos morais indenizáveis - implicaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+4. De acordo com o entendimento do Superior Tribunal de Justiça, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+5. A jurisprudência do Superior Tribunal de Justiça, "interpretando o art. 1.043, incisos I e III, do CPC, firmou a orientação de que decisão monocrática não pode ser adotada como paradigma para fins de comprovação da divergência" (AgInt nos EAREsp 1.185.827/ES, Rel. o Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe 24/6/2021).6. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.536.144/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DE OBRA. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE REANÁLISE FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Em síntese, cuida-se de ação de indenização por danos morais e materiais, em decorrência de atraso de obra.
+2. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso do recurso à instância especial, porquanto não preenchido o requisito do prequestionamento.
+3. Insuscetível de revisão, nesta via recursal, o entendimento do Tribunal de origem, que, com base nos elementos de convicção do autos, entendeu pela ocorrência de dano moral e pela razoabilidade dos alugueis, porquanto demanda a reapreciação de matéria fática, o que é obstado pela Súmula n. 7/STJ.
+4. Avaliar em que monta os litigantes sagraram-se vencedores ou vencidos na demanda, com o propósito de reformular a distribuição dos ônus de sucumbência, é providência que não pode ser adotada no âmbito de recurso especial, por demandar o reexame de matéria fática. Incidência da Súmula n. 7/STJ.
+5. Fica prejudicado o exame da divergência jurisprudencial quando as teses já foram afastadas na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7/STJ.
+Agravo interno improvido.(AgInt no AREsp n. 2.099.311/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. USO INDEVIDO DA IMAGEM DO AUTOR PARA FINS LUCRATIVOS, SEM AUTORIZAÇÃO PRÉVIA. REPERCUSSÃO GERAL. TEMA 837 DO STF. DISTINÇÃO FÁTICA. DETERMINAÇÃO DE SUSPENSÃO DE PROCESSOS SOBRE O MESMO TEMA. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com indenização por danos morais.
+2. Não autoriza a suspensão de julgamento de recurso especial que não tem identidade fática com aquela tratada em recurso extraordinário em que foi reconhecida a repercussão geral da matéria, por meio da afetação do Tema 837/STF, no RE n. 662.055/SP. Precedentes.
+3. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Alterar o decidido no acórdão impugnado no que se refere às teses atinentes à possibilidade de divulgação de imagem não autorizada desde que indispensável ao direito à informação e não destinada a fins comerciais e à inexistência de danos morais indenizáveis, envolve o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.480.427/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/4/2024, DJe de 10/4/2024.)
+T endo em vista a ausência de elementos aptos a modificar o decidido, mantenho a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
