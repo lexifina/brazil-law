@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RELAXAMENTO DE PRISÃO. IMPOSSIBILIDADE. DECISÃO DE DECRETAÇÃO DA PRISÃO PREVENTIVA DO ACUSADO APRESENTA FUNDAMENTAÇÃO IDÔNEA.
+1. O inconformismo da defesa não tem razão de ser, especialmente, porque, como sublinhado pelo Relator ao indeferimento liminar da ordem, "não se vislumbra, em análise perfunctória, nenhuma irregularidade na prisão em flagrante do paciente, porquanto, realmente, há indicação de que a houve acompanhamento do suspeito por meio do cadastramento do veículo nos sistemas policiais, sendo certo que a detenção ocorreu em curto espaço de tempo" (fl. 90).
+2. Em que pese o ora paciente utilize-se do argumento da legítima defesa, fato é que a dispensa da arma usada, bem como a tentativa de evasão mostram-se, em princípio, contraditórios com ela.
+3. Não se verifica qualquer flagrante ilegalidade na convolação da prisão em flagrante em preventiva no presente caso.
+4. Agravo regimental não provido.
+RELATÓRIO
+Em petição incidental de fls. 117-120 requer a defesa de MAURICIO CAMARGO GUIMARAES que seja reconsiderada decisão de fls. 111-113 em que deneguei in limine o pedido contido neste habeas corpus.
+No mais, reporto-me ao relatório de fls. 111.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RELAXAMENTO DE PRISÃO. IMPOSSIBILIDADE. DECISÃO DE DECRETAÇÃO DA PRISÃO PREVENTIVA DO ACUSADO APRESENTA FUNDAMENTAÇÃO IDÔNEA.
+1. O inconformismo da defesa não tem razão de ser, especialmente, porque, como sublinhado pelo Relator ao indeferimento liminar da ordem, "não se vislumbra, em análise perfunctória, nenhuma irregularidade na prisão em flagrante do paciente, porquanto, realmente, há indicação de que a houve acompanhamento do suspeito por meio do cadastramento do veículo nos sistemas policiais, sendo certo que a detenção ocorreu em curto espaço de tempo" (fl. 90).
+2. Em que pese o ora paciente utilize-se do argumento da legítima defesa, fato é que a dispensa da arma usada, bem como a tentativa de evasão mostram-se, em princípio, contraditórios com ela.
+3. Não se verifica qualquer flagrante ilegalidade na convolação da prisão em flagrante em preventiva no presente caso.
+4. Agravo regimental não provido.
+VOTO
+O pedido feito pela defesa não deve prosperar, porquanto a prisão preventiva imposta ao acusado teve decisão idoneamente fundamentada.
+Conforme se depreende dos autos, esses foram os fundamentos apontados pelo Juízo singular ao convolar a prisão em flagrante em prisão preventiva (fl. 83, grifei):
+Flagrante formalmente em ordem. Ao contrário do alegado pela Defesa, em uma primeira análise, há indicação de perseguição, por meio de cadastramento do veículo nos sistemas policiais, havendo sequência temporal exígua, indicando possa ser o averiguado o autor do delito. Não há indicação de abuso policial. Aguarde-se a vinda dos autos principais. É o caso de conversão da prisão em flagrante em prisão preventiva, nos termos do art. 310, inciso II, e art. 312, ambos do Código de Processo Penal. Com efeito, a custódia se faz necessária para a garantia da ordem pública, já que o delito de homicídio é dos mais graves existentes e envolveu o emprego de arma de fogo disparada por diversas vezes contra a vítima. A prisão também é conveniente para a instrução processual e futura aplicação da lei penal, havendo notícias de evasão do distrito da culpa. As circunstâncias específicas do caso concreto recomendam a decretação da prisão. Incabível a substituição da prisão pelas medidas cautelares previstas no art. 319, do Código de Processo Penal, por manifesta insuficiência, ao menos neste momento. Como já ressaltado acima, a manutenção da prisão é necessária e conveniente. As medidas diversas da prisão não se afiguram adequadas à gravidade do crime e às circunstâncias da sua prática.
+Como se pode verificar, o inconformismo da defesa não tem razão de ser, especialmente, porque, como sublinhado pelo Relator ao indeferimento liminar da ordem, "não se vislumbra, em análise perfunctória, nenhuma irregularidade na prisão em flagrante do paciente, porquanto, realmente, há indicação de que a houve acompanhamento do suspeito por meio do cadastramento do veículo nos sistemas policiais, sendo certo que a detenção ocorreu em curto espaço de tempo" (fl. 90), decisão esta corretamente mantida pelo Colegiado em decisão que julgou o agravo interno interposto pela defesa.
+Até porque, as declarações prestadas em sede policial pelo paciente dão detalhada conta de como os fatos se desenrolaram (fl. 33, grifei):
+Quer acrescentar que quando passava por Guararema dispensou a arma num pequeno córrego naquela localidade. Não tinha intenção de matar CRISENALDO, e em razão do que já foi acima exposto, agiu em legítima defesa e se assim não o fizesse poderia estar morto, pois seu objetivo principal foi preservar sua própria vida".
+Em que pese o ora paciente utilize-se do argumento da legítima defesa, fato é que a dispensa da arma usada, bem como a tentativa de evasão, mostram-se, em princípio, contraditórios com ela. Desse modo, não se verifica qualquer flagrante ilegalidade na convolação da prisão em flagrante em preventiva no presente caso.
+À vista do exposto, nego provimento ao agravo regimental.
