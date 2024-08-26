@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  ISMAEL DOS SANTOS CONSENTINS  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a  parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a"  e "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO RIO GRANDE DO SUL  cuja  ementa  guarda  os  seguintes  termos  (fl.  280):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. BEM MÓVEL. AUSÊNCIA DE ABUSIVIDADE QUANTO AOS ENCARGOS DA NORMALIDADE. REGULAR COMPROVAÇÃO DA MORA. PROCEDÊNCIA.
+NÃO VERIFICADAS ABUSIVIDADES EM RELAÇÃO AOS ENCARGOS DA NORMALIDADE, OS QUAIS, NOS TERMOS DOS ENTENDIMENTOS CONSOLIDADOS NOS RECURSOS ESPECIAIS PARADIGMAS NºS 1.061.530/RS E 1.639.320/SP, TERIAM O CONDÃO DE FRAGILIZAR A MORA. VALIDADE DA COMPROVAÇÃO DA MORA ATRAVÉS DE CARTA ARRECEBIDA NO ENDEREÇO INDICADO PELO DEVEDOR NO CONTRATO.
+ATENÇÃO AOS TERMOS DO ARTIGO 2º, § 2º, DO DECRETO-LEI N.911/69 EÀ REDAÇÃO DA SÚMULA N.245 DO EGRÉGIO SUPERIOR TRIBUNAL DEJUSTIÇA. MANTIDA A PROCEDÊNCIA DOS PEDIDOS NA AÇÃO DE BUSCA E APREENSÃO. NEGADO PROVIMENTO À APELAÇÃO CÍVEL.
+Sem  embargos  de  declaração  .
+No  recurso  especial,  sustenta  a  recorrente  ofensa  aos arts 6º, III, 39, 46, 51, IV, e 52, inciso II, do Código de Defesa do Consumidor, e 396 do Código Civil, ao defender a ilegalidade de capitalização de juros diária, e a descaracterização da mora no casos dos autos.
+Alega que não cabe capitalização de juros diária porquanto inexiste previsão expressa no contrato, e que não houve divulgação da respectiva taxa efetiva diária.
+Aduz que ficou configurada a abusividade no caso, por colocar o consumidor em flagrante desvantagem, e que, considerando a abusividade dos encargos contratuais, fica descaracterizada a mora.
+Suscita, outrossim, divergência jurisprudencial.
+Contrarrazões  ao  recurso  especial  ( fls. 331-339).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  342-345),  o  que  ensejou  a  interposição  do  presente  agravo.
+Sem  contraminuta  ao  agravo ( fls. 365).
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+Não  merece  prosperar  o  recurso.
+Com efeito,  na hipótese em comento, a Corte de origem entendeu, com base no conjunto probatório dos autos, pela inexistência de abusividades nos encargos contratuais em questão, e pela caracterização da mora.  Confira-se  o  seguinte  excerto  do  acórdão  recorrido  (fls.  227-228):
+Consoante jurisprudência do egrégio Superior Tribunal de Justiça, quando suscitada em matéria de defesa, a existência de abusividades nos encargos deve ser apreciada pela Corte, para aferição da higidez da mora contratual. Nesse sentido, e.g.:
+(..)
+No presente caso, todavia, os encargos da normalidade contratual - únicos passíveis de descaracterização da mora (REsps n.ºs 1.061.530/RS e 1.639.320/SP) - foram objeto de análise exauriente nos autos da apensa ação revisional n.5016036-38.2022.8.21.0022, sem qualquer modificação. Assim, consolidada, com trânsito em julgado, a higidez da mora do fiduciante, não há falar em renovação da discussão como matéria de defesa na presente ação revisional. Ultrapassada a questão prejudicial, cumpre ser analisada a existência de regular comprovação da mora, a qual, nos termos da redação do artigo 2º, §2º, do Decreto-Lei nº911/69,poderá ser procedida até mesmo por carta registrada com aviso de recebimento, sequer sendo exigível a assinatura pessoal do destinatário no AR.
+No presente caso, o réu/recorrente foi notificado por meio de carta AR, recebida no endereço do contrato (evento 1, CONTR6 e NOT7), atendendo, portanto, aos requisitos da legislação especial à idoneidade da diligência. Quanto aos elementos próprios da comprovação, por sua vez, vale ressaltar que o egrégio Superior Tribunal de Justiça sedimentou, na Súmula nº245, que "a notificação destinada à comprovação da mora do devedor não precisa indicar o valor atualizado do débito.
+"Hígida a mora contratual do fiduciante, bem como verificada sua válida comprovação, a manutenção da procedência dos pedidos na ação de busca e apreensão é medida que se impõe.
+Assim,  rever  tal  entendimento,  a  eventualmente  ensejar  novo  juízo  acerca  dos  fatos  e  provas,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos  e  de  cláusulas  contratuais.  Sendo  assim,  incide  no  caso  as  Súmulas  n.  5  e  7  do  STJ.
+A  propósito,  mutatis mutandis, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. CERCEAMENTO DE DEFESA COM O JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. DESNECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. SÚMULA 7/STJ. CONCLUSÃO DA CORTE ESTADUAL NO SENTIDO DA EXISTÊNCIA DE PREVISÃO NO CONTRATO DE TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL E CONTRATAÇÃO DOS ENCARGOS INCIDENTES SOBRE A OPERAÇÃO DE CRÉDITO. CUMPRIMENTO DO DEVER DE INFORMAÇÃO. ENTENDIMENTO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULAS 5, 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+2. Na espécie, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção da prova pericial, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula desta Corte.
+3. A jurisprudência do Superior Tribunal de Justiça continua assente no sentido de que a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada, não havendo falar em superação desse entendimento diante do teor do julgado no RESP n. 1.124.552/RS (Tema 572/STJ).
+4. Reverter a conclusão do Tribunal local para acolher a pretensão recursal, sobretudo no que concerne à ausência de expressa previsão de juros compostos no ajuste, demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos vedados em recurso especial, consoante teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+5. Agravo interno improvido.
+(AgInt no REsp n. 2.083.774/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023.)
+Outrossim, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC,  majoro  os  honorários  fixados  em  desfavor  da  parte  recorrente  para  16%  sobre  o  valor  atualizado  da  causa.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. ENCARGOS CONTRATUAIS. AUSÊNCIA DE ABUSIVIDADE. CARACTERIZAÇÃO DA MORA.  PRETENSÃO  DE  REEXAME  DE  PROVAS  E  DE  CLÁUSULA  CONTRATUAIS.  SÚMULAS N.  5  E  7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
