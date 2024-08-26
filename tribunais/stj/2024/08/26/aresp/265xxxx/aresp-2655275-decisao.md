@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em face de inadmissão de recurso especial interposto por UNIMED UBERABA COOPERATIVA DE TRABALHO MÉDICO LTDA. O apelo extremo, com fulcro no art. 105, inciso III,alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - NEGATIVA DA OPERADORA DE SAÚDE - CONSTATAÇÃO DO ATO ILÍCITO EM OUTRO PROCESSO - COISA JULGADA MATERIAL -DANOS MORAIS -CONFIGURAÇÃO - QUANTUM -MANUTENÇÃO. - A coisa julgada material torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso (art. 502 do CPC), já que esta passa a ter força de lei nos limites da questão principal expressamente decidida (art. 503, caput, do CPC).- Constatado que em outro processo, que debatia apenas a obrigação de fazer, a prática de ato ilício na negativa indevida de cobertura de plano de saúde, não mais comporta discussão a matéria no âmbito da ação meramente indenizatória. -O transtorno oriundo da negativa em autorizar a realização de transporte aeromédico para hospital especializado, e com o instituto de viabilizar a realização de cirurgia de transplante recomendada, é suficiente a ensejar dano moral indenizável, por si só, notadamente por intensificar o sofrimento do paciente. - A indenização por dano moral vem sendo entendida como forma de compensação pela dor, sofrimento ou constrangimento injustamente sofrido pela vítima, que possam merecer correspondente valor econômico apurável, além de punição para o ofensor, impedindo-lhe de repetir o ato ofensivo" (e-STJ fl. 552).
+Nas razões do recurso especial, a recorrente sustenta, além da divergência jurisprudencial, violação dos arts. 186, 187 e 927 do Código Civil.
+Aduz inexistência de conduta ilícita do plano de saúde.
+Menciona que deve ser reduzido o montante fixado a título de indenização por danos morais, para evitar o enriquecimento indevido da recorrida.
+Contrarrazões às e-STJ fls. 627/644.
+O recurso foi inadmitido na origem, sobrevindo o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto ao pedido de indenização por danos morais, o tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+No caso vertente, atento que a abusividade do comportamento da ré (UNIMED UBERABA COOPERATIVA DE TRABALHO MEDICO LTDA) já foi constatado quando do julgamento da ação 0701.19.001568-8 (que tramitou no âmbito dos juizados especiais), em que foi reconhecido por meio de sentença já transitada em julgado que a operadora de saúde teria a obrigação de proceder com a remoção hospitalar da paciente por transporte aero médico para a realização de transplante de fígado em hospital especializado, em Curitiba/PR (documento de ordem 08).
+Com efeito, em que pese toda a argumentação da apelante, denoto que não mais comporta qualquer discussão judicial as questões que foram objeto da referida demanda, cuja solução já se encontra acobertada pelo manto da coisa julgada.
+Não obstante se alegue que o ajuizamento da ação indenizatória teria sido uma forma de retaliação, é inconteste que nos autos da ação 0701.19.001568-8 foi constatada a prática de ato ilícito pela operadora de saúde, com a negativa indevida de cobertura de transporte para unidade de saúde que seria especializada no procedimento cirúrgico de transplante imprescindível à manutenção da saúde da paciente.
+A coisa julgada material torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso (art. 502 do CPC), já que esta passa a ter força de lei nos limites da questão principal expressamente decidida (art. 503, caput, do CPC).
+Dessa forma, comprovada a existência do ato ilícito capaz de ensejar a responsabilidade civil da ré, a meu entender está configurado o seu dever em promover a indenização da parte ao pagamento de indenização por danos morais" (e-STJ fls. 558/559).
+A jurisprudência desta Corte Superior é no sentido de que, em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+Cumpre ressaltar, todavia, que há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, de forma que a conduta da operadora, ao optar pela restrição da cobertura sem ofender os deveres anexos do contrato - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, o que afasta qualquer pretensão de compensação por danos morais.
+Nesse sentido: AgInt no REsp nº 2.058.134/SE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023; AgInt no AREsp nº 1.918.038/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/3/2022, DJe de 23/3/2022; AgInt no REsp nº 1.896.776/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.
+No caso, além de inexistir dúvida jurídica razoável na interpretação do contrato, como se extrai dos autos, a parte autora experimentou prejuízos com a negativa de cobertura dos serviços solicitados em virtude da gravidade de seu quadro de saúde, sobretudo porque agravou o estado de sua saúde mental, já debilitada pela doença que a acometia sendo de rigor o reconhecimento dos danos morais.
+Diante disso, a conduta da operadora merece censura a ponto de fazer incidir dano moral indenizável.
+Ademais, no tocante ao valor arbitrado (R$ 15.000,00 - quinze mil reais), esta Corte Superior somente tem afastado a incidência da Súmula nº 7/STJ e reexaminado o montante fixado a título de danos morais pelas instâncias ordinárias caso se revele irrisório ou exorbitante, o que não é a hipótese, visto que se adequa aos parâmetros jurisprudenciais e à razoabilidade.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO. INDENIZAÇÃO. DANOS MATERIAL E MORAL. REDUÇÃO. SÚMULA Nº7/STJ. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE CIVIL. SÚMULA Nº 83/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Na hipótese, inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos declaratórios. Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+4. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente 5. Na hipótese, acolhimento da pretensão recursal para infirmar a conclusão do acórdão recorrido quanto à legitimidade de parte passiva, à responsabilidade civil da recorrente e à ocorrência e comprovação dos danos morais e materiais demandaria o reexame das circunstâncias fáticas dos autos, procedimento vedado em virtude do óbice da Súmula nº 7/STJ.
+6. A orientação jurisprudencial desta Corte Superior se firmou no sentido de que se o contrato é fundado na prestação de serviços médicos e hospitalares próprios e/ou credenciados, no qual a operadora de plano de saúde mantém hospitais e emprega médicos ou indica um rol de conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço. Súmula nº 83/STJ.
+7. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrado no valor de R$ 40.000,00 (quarenta mil reais), pelos danos morais sofridos em decorrência do erro médico.
+8. Agravo interno não provido"
+(AgInt no AREsp n. 2.310.925/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nestes termos:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS NÃO CONFIGURADOS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+(..)
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno não provido."
+(AgInt no REsp 1.889.218/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da condenação, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
