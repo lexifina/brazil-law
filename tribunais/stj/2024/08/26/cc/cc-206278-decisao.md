@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito negativo de competência, no qual é suscitante o JUÍZO FEDERAL DA 1ª VARA DE MARINGÁ - SJ/PR e suscitado o JUÍZO DE DIREITO DA VARA CÍVEL DE CENTENÁRIO DO SUL - PR.
+A ação foi ajuizada perante à Justiça estadual que declinou a competência para a Justiça Federal.
+O JUÍZO FEDERAL DA 1ª VARA DE MARINGÁ - SJ/PR suscitou o conflito nos seguintes termos (e-STJ fl. 195):
+A ação foi distribuída na Justiça Estadual em agosto de 2022, perante o Juízo da Vara Cível de Centenário do Sul/PR. Por entender ser o caso de formação de litisconsórcio passivo com a Caixa Econômica Federal - CEF, o Tribunal de Justiça do Paraná negou provimento ao recurso de Agravo de Instrumento interposto pela parte autora, declarando a incompetência da Justiça Estadual e determinando a remessa dos autos à Justiça Federal.
+A demanda foi proposta única e exclusivamente contra a construtora Pizolato, pessoa jurídica de direito privado, tendo a parte autora insistido nesse sentido em suas manifestações, deixando claro o desinteresse em demandar contra a CEF, bem como a inexistência de litisconsórcio necessário.
+O empreendimento imobiliário foi construído com recursos públicos administrados pela CEF, que atuou apenas como agente financiador da obra. A parte autora pretende ser ressarcida pela construtora, que, segundo alega, tem responsabilidade por vícios construtivos e danos resultantes de construção inadequada. Além disso, consignou expressamente que não pretende demandar contra a Caixa Econômica Federal.
+Tem razão a parte autora, que, ressalte-se, não pode ser obrigada a demandar contra quem não quer, sujeitando-se a risco de sucumbência ao qual não pretende dar causa.
+Atuando apenas como agente financiador da obra, a CEF não teve qualquer interferência ou gestão sobre escolha de materiais e técnicas de engenharia utilizada na construção, não podendo ser responsabilizada por atos da construtora, especialmente quando a causa de pedir tem por fundamento somente a responsabilidade da construtora, sem mencionar ou indicar qualquer omissão ou responsabilidade da CEF.
+Seria o caso de devolver os autos à Justiça Estadual, nos termos das Súmulas 150 e 224 do Superior Tribunal de Justiça e do artigo 45, § 3º, do Código de Processo Civil. Contudo, considerando que a decisão foi proferida pelo Egrégio Tribunal de Justiça do Paraná, entendo, excepcionalmente, ser o caso de o Superior Tribunal de Justiça resolver, de maneira definitiva, a questão da competência no caso concreto, até mesmo para assegurar a razoável duração do processo.
+Por todo o exposto, a fim de dirimir a questão atinente à competência para o processamento da ação, suscito conflito negativo de competência, na forma do artigo 953, I, do Código de Processo Civil e determino a remessa dos autos ao Superior Tribunal de Justiça com urgência (artigo 105, I, d, da Constituição Federal).
+O Ministério Público Federal manifestou-se pela competência do Juízo estadual (e-STJ fl. 213):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL X JUSTIÇA FEDERAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE VÍCIOS CONSTRUTIVOS. INTERESSE DA CAIXA ECONÔMICA FEDERAL AFASTADA PELO JUÍZO FEDERAL. INCIDÊNCIA DA SÚMULA 150 DO STJ.
+PARECER PELO CONHECIMENTO DO CONFLITO, PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA CÍVEL DE CENTENÁRIO DO SUL/PR, ORA SUSCITADO.
+É o relatório.
+Decido.
+Na origem, DORACI RAMOS ajuizou ação pelo rito comum com pedido de indenização por danos materiais e morais contra PIZOLATO CONSTRUTORA E INCORPORADORA LTDA. perante a Justiça estadual, que entendeu por ser caso de litisconsórcio passivo com a CEF.
+O JUÍZO FEDERAL DA 1ª VARA DE MARINGÁ - SJ/PR reconheceu a ilegitimidade da CEF, suscitando o presente conflito.
+Em relação à matéria deste conflito, a jurisprudência do STJ firmou-se no seguinte sentido: "Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (Súmula n. 150/STJ), sendo que "a decisão do Juízo Feder al que exclui da relação processual ente federal não pode ser examinada no Juízo Estadual" (Súmula n. 254/STJ).
+Nesse caso, tendo o Juízo Federal afastado o interesse jurídico de ente federal, não há hipótese de competência da Justiça Federal prevista no art. 109 da CF, nos termos das Súmulas n. 150 e 254 do STJ. Assim, a competência pertence à Justiça comum estadual.
+Diante do exposto, CONHEÇO do presente conflito negativo de competência para DECLARAR COMPETENTE o JUÍZO DE DIREITO DA VARA CÍVEL DE CENTENÁRIO DO SUL - PR .
+Publique-se e intimem-se.
+EMENTA
