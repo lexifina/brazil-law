@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONTRATO COLETIVO. TRATAMENTO MÉDICO. RESILIÇÃO. IMPOSSIBILIDADE.
+1. É inviável a rescisão unilateral de contrato de plano de saúde individual ou coletivo pela operadora durante o período em que o beneficiário ou dependente estiver submetido a tratamento médico garantidor de sua sobrevivência e/ou incolumidade física. Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FORD MOTOR COMPANY BRASIL LTDA. contra a decisão que conheceu do agravo para negar provimento ao recurso especial em virtude da jurisprudência desta Corte acerca do tema (arts. 30 e 31 da Lei nº 9.656/1998).
+Nas presentes razões, a agravante alega que, "(..) No que tange à condenação constante do v. acórdão de recurso de apelação, consistente na obrigação de fazer de manter o dependente no plano de saúde até o término do tratamento médico viola o art. 31 da Lei 9.656/98, na medida em que o recorrido não se enquadra no referido artigo, mas sim no quanto dispõe o art. 30 da Lei 9.656/98" (e-STJ fl. 1.107).
+Não foi apresentada impugnação (e-STJ fl. 1.116).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONTRATO COLETIVO. TRATAMENTO MÉDICO. RESILIÇÃO. IMPOSSIBILIDADE.
+1. É inviável a rescisão unilateral de contrato de plano de saúde individual ou coletivo pela operadora durante o período em que o beneficiário ou dependente estiver submetido a tratamento médico garantidor de sua sobrevivência e/ou incolumidade física. Precedentes.
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Não trouxe a parte recorrente argumentos suficientes para infirmar a decisão agravada.
+Consoante anotado na decisão ora agravada, o Tribunal estadual, ao manter a decisão de primeira instância, consignou que:
+"(..)
+No caso, considerando que o autor não estava aposentado ao tempo da rescisão do contrato de trabalho e que optou por permanecer vinculado nos termos do que dispõe a Lei 9.656/98, não há dúvida de que o prazo de 24 (vinte e quatro) meses ao qual ele tinha direito se esgotou.
+Todavia, a possibilidade de cancelamento do contrato coletivo em relação ao ex-funcionário não afasta a obrigação da operadora de manter o plano de saúde de beneficiário que esteja em meio ao tratamento imprescindível à sua saúde, com as mesmas condições do contrato coletivo de que era beneficiário.
+Conforme se infere dos documentos acostados às págs. 982/992, constata-se que o filho do autor realiza tratamento em razão de ser portador de Hemofilia A grave (CID 10 D: 66). A presente situação reclama, portanto, interpretação sistemática e conjugada da legislação, a qual veda a suspensão ou rescisão unilateral do contrato, em qualquer hipótese, durante a ocorrência de internação hospitalar (art. 13,§ único, inciso III).
+Muito embora este dispositivo trate dos planos individuais, é certo que a sua aplicação analógica, em casos excepcionais como o presente, é autorizado por este E. Tribunal:
+(..)
+Ademais, a própria função social do contrato em comento, ou seja, a preservação da vida, não permite que o beneficiário seja, no momento de necessidade, abandonado a própria sorte, sob pena, inclusive, de grave violação ao princípio da dignidade da pessoa humana.
+Destarte, de rigor a parcial procedência da ação, para determinar que a corré Bradesco Saúde mantenha o plano de saúde nas mesmas condições anteriormente vigentes, mas apenas em relação ao menor (filho do autor), com a mensalidade proporcionalmente calculada, até que ocorra eventual alta médica." (fls. 1.009/1.014 e-STJ - grifou-se).
+De fato, não há reparo a fazer ao referido entendimento, porquanto está em sintonia com a orientação jurisprudencial desta Corte, conforme se verifica dos seguintes precedentes:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PLANO DE SAÚDE COLETIVO. CANCELAMENTO UNILATERAL. BENEFICIÁRIO SUBMETIDO A TRATAMENTO MÉDICO DE DOENÇA GRAVE.
+1. Tese jurídica firmada para fins do artigo 1.036 do CPC: "A operadora, mesmo após o exercício regular do direito à rescisão unilateral de plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais prescritos a usuário internado ou em pleno tratamento médico garantidor de sua sobrevivência ou de sua incolumidade física, até a efetiva alta, desde que o titular arque integralmente com a contraprestação (mensalidade) devida."
+2. Conquanto seja incontroverso que a aplicação do parágrafo único do artigo 13 da Lei 9.656/1998 restringe-se aos seguros e planos de saúde individuais ou familiares, sobressai o entendimento de que a impossibilidade de rescisão contratual durante a internação do usuário - ou a sua submissão a tratamento médico garantidor de sua sobrevivência ou da manutenção de sua incolumidade física - também alcança os pactos coletivos.
+3. Isso porque, em havendo usuário internado ou em pleno tratamento de saúde, a operadora, mesmo após exercido o direito à rescisão unilateral do plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais até a efetiva alta médica, por força da interpretação sistemática e teleológica dos artigos 8º, § 3º, alínea "b", e 35-C, incisos I e II, da Lei n. 9.656/1998, bem como do artigo 16 da Resolução Normativa DC/ANS n. 465/2021, que reproduz, com pequenas alterações, o teor do artigo 18 contido nas Resoluções Normativas DC/ANS n. 428/2017, 387/2015 e 338/2013.
+4. A aludida exegese também encontra amparo na boa-fé objetiva, na segurança jurídica, na função social do contrato e no princípio constitucional da dignidade da pessoa humana, o que permite concluir que, ainda quando haja motivação idônea, a suspensão da cobertura ou a rescisão unilateral do plano de saúde não pode resultar em risco à preservação da saúde e da vida do usuário que se encontre em situação de extrema vulnerabilidade.
+5. Caso concreto: (i) a autora aderiu, em 1º.12.2012, ao seguro-saúde coletivo empresarial oferecido pela ré, do qual o seu empregador era estipulante; (ii) no aludido pacto, havia cláusula expressa prevendo que, após o período de 12 meses de vigência, a avença poderia ser rescindida imotivadamente por qualquer uma das partes, mediante notificação por escrito com no mínimo 60 dias de antecedência; (iii) diante da aludida disposição contratual, a operadora enviou carta de rescisão ao estipulante em 14.12.2016, indicando o cancelamento da apólice em 28.2.2017; (iv) desde 2016, a usuária encontrava-se afastada do trabalho para tratamento médico de câncer de mama, o que ensejou notificação extrajudicial - encaminhada pelo estipulante à operadora em 11.1.2017 - pleiteando a manutenção do seguro-saúde até a alta médica; (v) tendo em vista a recusa da ré, a autora ajuizou a presente ação postulando a sua migração para plano de saúde individual; (vi) desde a contestação, a ré aponta que não comercializa tal modalidade contratual; e (vii) em 4.4.2017, foi deferida antecipação da tutela jurisdicional pelo magistrado de piso - confirmada na sentença e pelo Tribunal de origem - determinando que "a ré mantenha em vigor o contrato com a autora, nas mesmas condições contratadas pelo estipulante, ou restabeleça o contrato, se já rescindido, por prazo indeterminado ou até decisão em contrário deste juízo, garantindo integral cobertura de tratamento à moléstia que acomete a autora" (fls. 29-33).
+6. Diante desse quadro, merece parcial reforma o acórdão estadual a fim de se afastar a obrigatoriedade de oferecimento do plano de saúde individual substitutivo do coletivo extinto, mantendo-se, contudo, a determinação de continuidade de cobertura financeira do tratamento médico do câncer de mama - porventura em andamento -, ressalvada a ocorrência de efetiva portabilidade de carências ou a contratação de novo plano coletivo pelo atual empregador.
+7. Recurso especial parcialmente provido."
+(REsp nº 1.846.123/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/6/2022, DJe de 1/8/2022-grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (ART. 1.042 DO NCPC) - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. A jurisprudência desta Corte Superior considera abusiva a rescisão contratual de plano de saúde, por parte da operadora, independentemente do regime de contratação (individual ou coletivo), durante o período em que a parte segurada esteja submetida a tratamento médico de emergência ou de urgência garantidor da sua sobrevivência e/ou incolumidade física.
+1.1. Hipótese dos autos em que a segurada foi diagnosticada com câncer do colo do útero, necessitando, portanto, de específico tratamento médico hospitalar.
+Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp nº 1.314.417/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/4/2019, DJe de 5/4/2019).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONTRATO COLETIVO. RESILIÇÃO POR DECURSO DE PRAZO PREVISTO NO ART. 30, § 1º, DA LEI 9.656/98. TRATAMENTO MÉDICO GARANTIDOR DE SOBREVIVÊNCIA. MANUTENÇÃO DO PLANO DE SAÚDE. AGRAVO INTERNO PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão que não conheceu do recurso especial, em razão da incidência da Súmula 283/STF. Reconsideração.
+2. Consoante entendimento desta Corte Superior, é inviável a rescisão unilateral de contrato de plano de saúde individual ou coletivo, pela operadora, durante o período em que o beneficiário ou dependente estiver submetido a tratamento médico garantidor de sua sobrevivência e/ou incolumidade física. Precedentes.
+3. Referida conclusão se impõe mesmo quando esgotado o prazo a que se refere o art. 30, § 1º, da Lei 9.656/98.
+4. Agravo interno provido para, reconsiderando a decisão agravada, dar provimento ao recurso especial."
+(AgInt no REsp nº 1.942.086/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
