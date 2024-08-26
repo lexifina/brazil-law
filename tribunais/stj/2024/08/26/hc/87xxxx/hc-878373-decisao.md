@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de THALES SILVA TELES, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, em acórdão assim ementado (fl. 25):
+EMENTA: HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EMFLAGRANTE CONVERTIDA EM PREVENTIVA. NULIDADE.
+ILEGALIDADE DA BUSCA PESSOAL/VEICULAR. AUSÊNCIA DEFUNDAMENTAÇÃO. REVOGAÇÃO. APLICAÇÃO DE OUTRASMEDIDAS. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. BONSPREDICADOS PESSOAIS. IRRELEVÂNCIA. 1) Não há ilegalidade na busca pessoal e veicular, diante da demonstração de justa causa(fundadas razões), notadamente quando o flagrante se deu em abordagem da polícia após constatação de atitudes suspeitas. 2) Não há constrangimento ilegal a ser reparado na prisão preventiva fundamentada de forma concreta e idônea, com suporte nos elementos dos autos e levando em conta a gravidade concreta da ação delitiva, com apreensão de quantidade considerável de droga (03 porções de maconha - 2,215 kg). 3) Uma provável existência de bons predicados pessoais do paciente não elide a prisão válida. 4) As medidas cautelares diversas da prisão, dispostas nos incisos do artigo 319 do CPP, revelam-se incompatíveis com a medida de exceção que visa a garantia da ordem pública. 5) ORDEM CONHECIDA E DENEGADA.
+Consta dos autos que o paciente foi preso em flagrante, prisão convertida em preventiva, como incurso no artigo 33, caput, da Lei n. 11.343/2006.
+Indeferida a liminar (fls. 75/76), vieram informações (fls. 81/84; 86/125), ao que se seguiu a manifestação do Ministério Público Federal às fls. 134/142, opinando pelo não conhecimento do writ e, no mérito, pela denegação da ordem.
+É o relatório.
+DECIDO.
+Em consulta ao site do Tribunal de origem (autos n. 5787951-18.2023.8.09.0051 da 2ª UPJ Vara de Crimes Punidos com Reclusão e Detenção da Comarca de Goiânia - GO), constata-se que em 23/02/2024, foi proferida sentença que condenou o paciente como incurso no artigo 33, caput, da Lei n. 11.343/2006, às penas de 0 4 anos e 7 meses de reclusão, regime inicial semiaberto e ao pagamento de 575 dias-multa, concedido o direito de apelar em liberdade.
+Interposta apelação pela defesa, o Tribunal de origem deu parcial provimento ao recurso e reduziu a pena do paciente em 2 anos e 6 meses de reclusão, regime inicial aberto, substituída por duas restritivas de direitos, mantida a sentença nos demais termos. Constata-se que em sede de apelação, houve a discussão da nulidade suscitada neste writ.
+Na  espécie,  em  sendo  atacada  pelo  writ  a  decisão  que  decretou  a  preventiva,  a  superveniência  de  decisões de mérito  implica  na  modificação  do  título  sobre  o  qual  se  sustenta,  o  que  impede  o  seguimento  deste feito  por  perda  do  objeto  do  mandamus  .
+Nessas  circunstâncias,  aponta  a  jurisprudência  deste  Sodalício  no  sentido  do  prejuízo  à  análise,  inclusive,  da  nulidade,  devendo  o  novo  título  ser  impugnado  :
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. PREJUDICIALIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 179.855/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Ante  o  exposto,  com  base  no  art.  34,  inciso  XI,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  julgo  prejudicado  o  presente  habeas  corpus.
+Publique-se. Intimem-se.
+EMENTA
