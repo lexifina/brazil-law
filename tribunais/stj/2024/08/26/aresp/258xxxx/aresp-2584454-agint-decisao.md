@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por GEAP AUTOGESTÃO EM SAÚDE contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em virtude da ausência de impugnação dos fundamentos da decisão denegatória de recurso especial.
+O agravante sustenta que impugnou todos os fundamentos da decisão atacada.
+Por fim, pugna pela reforma da decisão agravada.
+A parte agravada apresentou impugnação (e-STJ fls. 620/626).
+É o relatório.
+DECIDO.
+Com razão o agravante.
+Verifica-se que todos os fundamentos da decisão que negou seguimento ao recurso especial na origem foram impugnados.
+Dessa forma, reconsidera-se a decisão proferida e passa-se ao exame do agravo em recurso especial.
+Trata-se de agravo em face de inadmissão de recurso especial fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO PRELIMINARES Gratuidade concedida à autora tão somente para o ato de interposição de seu recurso adesivo. Inteligência do disposto no artigo 98, § 5º, do CPC Descabido o reconhecimento da perda do objeto da ação pelo integral cumprimento da tutela de urgência. Pedido inicial que não se limitou à obrigação de cobertura e custeio do tratamento. Pleito de indenização por danos extrapatrimoniais. Rejeição.
+MÉRITO PLANO DE SAÚDE Ação de obrigação de fazer e danos morais julgada procedente em parte. Autora que suportou fratura na região do fêmur esquerdo após queda da própria altura e foi socorrida a Hospital Municipal. Operadora que se recusou a realizar a transferência da beneficiária a nosocômio integrante de sua rede credenciada. Ilegalidade da conduta acertadamente reconhecida. Medida impositiva, sob pena de prejuízo ao objeto do próprio contrato (resguardo à saúde da paciente) Inconformismo da GEAP. Entidade de autogestão. Inaplicabilidade do CDC (Súmula nº 608 do C. STJ) que não afasta a abusividade da negativa de atendimento de beneficiário em caráter de urgência/emergência. Carência de 24 horas. Inteligência do disposto no artigo 12, V, "c", da Lei nº 9.656/98 e no enunciado da Súmula nº 103 desta Corte bandeirante("É abusiva a negativa de cobertura em atendimento de urgência e/ou emergência a pretexto de que está em curso período de carência que não seja o prazo de 24 horas estabelecido na Lei n. 9.656/98"). Necessidade da paciente incontroversa Recurso adesivo. Dano moral reconhecido. Arbitramento que deve observar a intensidade da culpa do agente, as consequências do ato ilícito e o grau de hipossuficiência do consumidor. Ponderação entre o caráter pedagógico da indenização e a vedação de enriquecimento ilícito. Precedentes do C. STJ e desta C. Câmara. Razoável e proporcional a fixação do quantum em R$ 15.000,00 (quinze mil reais) Recurso de apelação da GEAP desprovido. Apelo adesivo da autora acolhido para arbitrar a indenização por danos morais em R$ 15.000,00, corrigidos monetariamente a partir do arbitramento (Súmula nº 362 do C. STJ) e com juros demora de 1% (um por cento) ao mês contados do evento danoso (Súmula nº 54 do C. STJ" (e-STJ fl. 451).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente sustenta violação dos artigos 10 da Lei nº 9.656/1998; 186, 188, 421 e 422 do Código Civil.
+Menciona que "não há que se falar em negativa de procedimento, uma vez que o autor está em período de carência, não fazendo jus à remoção" (e-STJ fl. 481).
+Sustenta que não há o que falar em indenização a título de danos morais, considerando que não houve prática de ato ilícito pelo plano de saúde.
+Contrarrazões às e-STJ fls. 509/510.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso, o tribunal de origem analisou a questão nos seguintes termos:
+"(..)
+Emerge dos autos que por Sandra, já idosa, suportou fratura na parte alta do fêmur esquerdo após queda da própria altura e foi socorrida ao Hospital Municipal Albert Sabin. Solicitada a transferência para nosocômio da rede credenciada de seu plano de saúde, a operadora negou-se a realizar o procedimento, ao argumento de que a beneficiária ainda se encontrava em cumprimento de período de carência (fls. 244/248 e 255/271).
+Com efeito, saliente-se que o simples afastamento de aplicação do CDC aos planos de autogestão não exime o prestador de cumprir os deveres decorrentes da cláusula de boa-fé objetiva prevista no Código Civil, o que torna indevida a recusa de cobertura de procedimento de urgência. Nesse sentido, a incidência da Súmula nº 608 do C. STJ2 não afasta a abusividade da negativa da recusa de cobertura ou ressarcimento dos custos referentes a procedimento necessário ao restabelecimento da saúde essencial da beneficiária, a qual se deu em contexto de urgência, frisando que o contrato de prestação de serviços de saúde, visa justamente resguardar tal objeto, e não pode fugir ao programado por meio de entrelinhas, que contrariam disposições legais.
+Ademais, é descabida a negativa de custeio de internação de urgência após o período de carência de 24 horas" (e-STJ fl. 455).
+Conforme expresso, é pacífico que a recusa indevida, pela operadora de pla no de saúde, em autorizar tratamento médico emergencial durante o período de carência enseja reparação a título de danos morais, pois agrava a situação de aflição psicológica e de angústia no espírito do beneficiário.
+Ademais, rever a conclusão firmada pelas instâncias ordinárias, acerca do caráter de urgência do tratamento médico a ser realizado pelo recorrido, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAUDE. COBERTURA DE INTERNAÇÃO. CARÊNCIA DE 180 DIAS. URGÊNCIA RECONHECIDA. SÚMULA N. 7 DO STJ. CARÊNCIA SUPERIOR A 24 HORAS. SÚMULA N. 597 DO STJ. DANO MORAL. CARACTERIZAÇÃO. PRECEDENTES. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A controvérsia tem origem em recusa de cobertura de internação de paciente oncológico com quadro clínico de "processo infiltrativo hepático com hepatomegalia" (e-STJ fl. 3), sob o argumento de carência contratual.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2.1. O Tribunal de origem analisou a prova dos autos para concluir pelo caráter urgente da internação. Alterar tal conclusão é inviável em recurso especial.
+3. "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação" (Súmula n. 597 do STJ).
+4. "A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis" (AgInt no REsp n. 1.838.679/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/3/2020, DJe 25/3/2020).
+5. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão.
+5.1. O valor estabelecido pelo Tribunal de origem, R$ 8.000,00 (oito mil reais), não se mostra excessivo, a justificar a intervenção desta Corte.
+6. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.297.670/AL, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/3/2024, DJe de 21/3/2024).
+Ante o exposto, reconsidero a decisão de e-STJ fl. 571/572 conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
