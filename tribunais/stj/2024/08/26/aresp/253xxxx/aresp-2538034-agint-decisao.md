@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A (BB) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. (e-STJ, fls. 214/218).
+Nas razões do presente inconformismo, BB defendeu que (1) deve ser determinada a suspensão do feito, na forma definida nos autos do Recurso Extraordinário nº 1.445.163-DF (Tema 1.290); (2) subsiste a negativa de prestação jurisdicional a ensejar violação aos arts. 489, § 1º, III e IV, 1.022, II, e 1.025 do CPC, à medida que o Tribunal de origem deixou de enfrentar e fundamentar adequadamente pontos relevantes ao deslinde da demanda por ocasião do julgamento dos aclaratórios.
+Foi apresentada contraminuta (e-STJ, fls. 243/254).
+É o relatório.
+O recurso merece acolhida.
+Na decisão recorrida, foi indeferido o pedido de suspensão do feito, sob o fundamento de que o tema referente ao índice de correção monetária aplicável às cédulas de crédito rural não teria sido enfrentado pelo acórdão recorrido, nem tampouco teria sido objeto do recurso especial sub judice, "de modo que é desnecessária a interrupção do julgamento do recurso em exame, já que não está em discussão a matéria relativa ao Tema 1.290" (e-STJ, fls. 215).
+No entanto, analisando melhor a decisão proferida em 7/3/2024, nos Segundos Embargos de Declaração do Recurso Extraordinário nº 1.445.162-DF, verifica-se que o ilustre Ministro Alexandre de Moraes decretou a suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Confira-se:
+(..)
+Com base no art. 1.035, § 5º, do Código de Processo Civil, DECRETO a SUSPENSÃO do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nestes autos. Oficie-se ao Conselho Nacional de Justiça e aos Presidentes de todos os Tribunais do país, com cópia deste despacho e da manifestação do Relator.
+A comunicação aos juízos de 1º grau e às turmas recursais de juizados deverá ser feita pelo Tribunal de 2ª instância com os quais mantenham vinculação administrativa.
+Nesse contexto, em observância ao princípcio de economia processual e à segurança jurídica, impõe-se a suspensão do presente feito, até a publicação da tese de repercussão geral, nos termos do art. 256-L do RISTJ, in verbis:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Nesse mesmo sentido:
+(..) depreende-se que a questão de direito discutida nestes autos possui intrínseca relação com a questão referente ao índice de correção monetária aplicável às cédulas de crédito rural, cuja fonte de recursos provém dos depósitos das cadernetas de poupança referente ao mês de março de 1990. A questão de direito foi afetada pelo Supremo Tribunal Federal, sob o rito da repercussão geral (Tema 1290), o que impõe a suspensão do presente recurso perante o Tribunal de origem até a publicação da tese.
+(PET no AREsp 2595700, Rel Ministra NANCY ANDRIGHI, DJe 09/08/2024).
+Nessas condições, DOU PROVIMENTO ao agravo interno, para tornar sem efeito a decisão monocrática de minha lavra e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, a fim de que o recurso permaneça suspenso até a publicação do acórdão paradigma, nos termos dos arts. 1.039 a 1.041 do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO MONOCRÁTICA . DEMANDA COLETIVA. CRITÉRIO DE REAJUSTE DO SALDO DEVEDOR DAS CÉDULAS DE CRÉDITO RURAL. MATÉRIA AFETADA PELO SUPREMO TRIBUNAL FEDERAL. TEMA 1290. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO PROVIDO.
