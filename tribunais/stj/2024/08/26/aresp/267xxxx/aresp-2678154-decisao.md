@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ELIANE TOBIAS GUERRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de compensação por danos morais e indenização por danos materiais, ajuizada pela agravante, em face de TERNIUM BRASIL LTDA., decorrente de dano ambiental.
+Acórdão: manteve a decisão unipessoal do Relator que negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Agravo Interno em agravo de instrumento. Ação indenizatória. Alegação autoral de dano ambiental causado pela empresa Ré. Vazamento de material utilizado para preparação do aço, no Canal São Francisco/Baía de Sepetiba,em16/03/2021. Decisão agravada que indeferiu o pedido de tutela de urgência para fixar pensionamento mensal de 01 (um)salário-mínimo. Inconformismo da Autora. Decisão proferida por esta Relatora negando provimento ao Agravo de Instrumento. Novo inconformismo. Entendimento desta Desembargadora quanto à constatação de que as questões arguidas no presente Agravo Interno foram devidamente analisadas na decisão monocrática recorrida. A controvérsia a ser dirimida está restrita ao cabimento da antecipação da tutela, nos termos do artigo 300 do CPC. Deve, portanto, restringir-se à ótica estritamente processual: presença ou ausência dos requisitos para a concessão da tutela antecipada, ou seja, a probabilidade do direito, o perigo de dano e o risco ao resultado útil do processo. As outras questões dizem respeito ao próprio mérito da causa e não podem ser aqui examinadas, sob pena de supressão de um grau de jurisdição. Neste passo, somente a existência de prova inequívoca que convença o juiz da verossimilhança acerca das alegações da Autora autoriza o provimento antecipatório da tutela jurisdicional em processo de conhecimento, isto é, exigem-se elementos probatórios robustos quanto aos fatos aduzidos na inicial, indene a qualquer dúvida. Com efeito, in casu, a Autora/Agravante não comprova, de plano, a urgência da antecipação, posto que já na exordial aponta que o acidente ocorreu em março de 2021, contudo a demanda só foi distribuída em outubro de 2022, ou seja, 01 (um) ano e 08 (oito) meses depois. Some-se a isso a existência da necessidade de dilação probatória para que se possa aferir o dano, comprovar o exercício da atividade laboral indicada na inicial, bem como para delinear os limites da responsabilidade da empresa Ré/Agravada e o consequente dever de indenizar. Ademais, em vistoria realizada pela Gerência de Operações em Emergências Ambientais do INEA, realizada alguns dias após o relatado vazamento, a equipe do referido órgão ambiental não observou qualquer tipo de poluição/contaminação em razão do evento (índice 176). Incidência da Súmula n.º 59 do E. TJERJ. Precedentes do E. TJERJ. Inexistência de argumentos capazes de infirmar a decisão monocrática proferida por esta Relatora às fls. 484/487. CONHECIMENTO E NEGATIVA DE PROVIMENTO AO AGRAVO INTERNO.
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i) incidência da Súmula 735/STF;
+ii) incidência da Súmula 7 do STJ; e
+iii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que:
+i) "não se pretende reavaliar fatos e provas, mas apenas a se discutir o direito" (e-STJ fl. 679);
+ii) "como a não concessão da tutela importa em ofensa direta à lei federal, a Súmula 735/STF não se aplica ao caso" (e-STJ fl. 681); e
+iii) a jurisprudência do STJ se consolidou em sentido diverso.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i) incidência da Súmula 735/STF;
+ii) incidência da Súmula 7 do STJ; e
+iii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
