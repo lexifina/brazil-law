@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/08/2024 a 26/08/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. APLICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS Nº 5 E 7/STJ.
+1. Rever o entendimento da corte local, acerca da aplicação da exceção do contrato não cumprido, demandaria a análise de fatos, de provas e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas n. 5 e 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SAAGROS COM. IND. IMPORTAÇÃO E EXPORTAÇÃO DE CEREAIS LTDA. contra a decisão que conheceu do agravo para não conhecer do recurso especial devido à incidência das Súmulas nºs 5 e 7/STJ. (e-STJ fls. 614/618).
+Nas presentes razões, a agravante aduz que "não se pede na via especial, que a matéria fática e probante seja analisada, e sim a apreciação da questão de direito referente à violação da Lei Federal nº.10.406/02 em seu art. 476, haja vista, que o contrato não foi cumprido pela Agravada, gerando assim, a Exceção de Contrato não cumprido" (e-STJ fl. 625).
+Impugnação às e-STJ fls. 630/635.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COMPRA E VENDA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. APLICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS Nº 5 E 7/STJ.
+1. Rever o entendimento da corte local, acerca da aplicação da exceção do contrato não cumprido, demandaria a análise de fatos, de provas e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas n. 5 e 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O agravo interno não merece prosperar.
+No que tange à alegada violação do artigo 476 do Código Civil, não há como se afastar a aplicação das Súmulas nºs 5 e 7/STJ.
+No caso dos autos, o tribunal de origem afastou as alegações da recorrente em relação à aplicação da exceção do contrato não cumprido, nos seguintes termos:
+"(..)
+O argumento da Autora/Reconvinda, no sentido de que a demora na disponibilização das cotas foi o que lhe impossibilitou o cumprimento do contrato a tempo, não convence.
+O contrato de compra e venda não atrela a entrega da soja à disponibilização de determinado número de cotas diárias de caminhão, pela compradora, no Porto de Paranaguá. Ao contrário, a vendedora se responsabilizou integralmente pela entrega da quantidade adquirida (1.800 toneladas) até o dia 25/06/2020, inclusive se a mercadoria viesse de "parceiros ou porcenteiros", conforme se vê da parte introdutória do instrumento, alíneas "b" e "c" (mov. 1.4). Assim, se todas as cotas necessárias à descarga dos grãos fossem disponibilizadas apenas um ou dois dias antes, a compradora ainda estaria, em tese, respaldada pelo contrato.
+O contrato sequer previu qual o meio de transporte a ser utilizado - se rodoviário, ferroviário, aéreo - mas tão somente que a quantidade de grãos vendida deveria ser entregue dentro do prazo, no local indicado.
+Ressalte-se que, embora o contrato estipulasse um prazo total de cinqüenta dias para a entrega dos grãos, a interpretação da cláusula que assim dispõe há de levar em conta o que preceitua o artigo 113, § 1o, II do Código Civil, ou seja, que se considere os usos e costumes atinentes ao negócio, sobretudo a necessidade de respeito á fixação de cotas máximas para recebimento das cartas pela administração do Porto de Paranaguá, donde se concluir que, ao contrário do que apregoa a Autora, o prazo não foi instituído em seu favor, mas sim da Ré, para permitir a compatibilização do recebimento das mercadorias compradas com a logística de repasse à cliente para a qual as revendeu.
+Aliado a isso, ao assinarem o termo aditivo que previu a alteração da forma de pagamento, em 02/07/2020, as partes deixaram de convencionar a prorrogação do prazo de entrega, subordinando apenas a realização de novos pagamentos à prévia entrega dos grãos por parte da Autora.
+Assim, analisando-se o acordo à luz do que diz o artigo 112 do Código Civil, conclui-se que não houve apenas dilação do prazo para pagamento do preço, mas, e sobretudo, oportunizado à vendedora cumprir sua obrigação, mesmo que a destempo.
+Todo o contexto - distância entre o local de aquisição e depósito dos grãos a serem repassados à Ré, tempo de transporte, necessidade de observância das regras de admissão do produto no Porto de Paranaguá - deveria ter sido sopesado pela Autora/Reconvinda no momento da assinatura dos instrumentos, ou seja, caberia ao seu representante ou administrador ponderar as variáveis relativas à logística de entrega da soja e o risco assumido no negócio. Vale ressaltar que a autonomia da vontade é corolário do direito contratual e assegura aos contratantes plena liberdade em disciplinar seus interesses, notadamente quando se trata de relação comercial entre duas pessoas jurídicas que o fazem com habitualidade e são dotadas da expertise necessárias à compreensão da extensão das responsabilidades e riscos assumidos.
+Outrossim, ainda que se pudesse cogitar que a disponibilização de cotas era dever colateral da compradora emanado do princípio da boa-fé, independentemente de previsão contratual a respeito, não há comprovação de que a liberação de 5 cotas diárias, entre 20/06/2020 e 25/06/2020 (totalizando 30 cotas), tornou impossível, "logisticamente" e "matematicamente", o cumprimento da obrigação da vendedora.
+A esse respeito, tem-se somente o depoimento do informante da Autora/Reconvinda (mov. 67.1), no sentido de que a viagem da Bahia a Paranaguá levaria em média cinco ou seis dias e que, devido à limitação no volume que comporta o caminhão, mesmo as 5 cotas diárias seriam insuficientes. Todavia, a documentação trazida pela Autora/Reconvinda ("demonstrativo embarque/pagtos" de mov. 1.31) mostra que os caminhões levaram de 2 a 4 dias para procederem à entrega dos grãos e, além disso, é incontroverso nos autos que nem mesmo as 5 cotas diárias foram utilizadas.
+Não há outras provas, documentais ou testemunhais, que corroborem a tese da Autora/Reconvinda de exceção de contrato não cumprido, motivo pelo qual, com a devida vênia, não merece ela ser acolhida.
+Evidenciado o descumprimento contratual por parte da Autora/Reconvinda, ao não entregar a totalidade da mercadoria vendida na data aprazada, correta a incidência, em seu desfavor, da cláusula penal compensatória, prevista no item 7.1, "b", do instrumento no importe de 10% sobre o valor do contrato (RS 3.240.000,00).
+(..)" (e-STJ fls. 428/429 ).
+Com efeito, conforme consignado na decisão agravada, rever o entendimento da corte local, acerca da aplicação da exceção do contrato não cumprido, demandaria a análise de fatos, de provas e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas nºs 5 e 7 do STJ.
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA OBRA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. ASTREINTES DESPROPORCIONAIS E DECISÃO EXTRA PETITA. ORDEM PÚBLICA. PREQUESTIONAMENTO.
+1. A jurisprudência do STJ firmou-se no sentido de que mesmo as matérias de ordem pública necessitam do prequestionamento para serem analisadas em sede de recurso especial. Precedentes.
+2. A pretensão de alterar o entendimento do acórdão recorrido acerca da aplicação da exceção do contrato não cumprido demandaria a análise e interpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor das Súmulas n. 5 e 7 do STJ.
+Agravo interno improvido" (AgInt no REsp n. 1.946.084/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023).
+"PROCESSO CIVIL E DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL E REPARATÓRIA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS EM TESE VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INADIMPLEMENTO CONTRATUAL. COMPORTAMENTO CONTRADITÓRIO. PROIBIÇÃO. SÚMULA 83/STJ. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de particularização dos dispositivos de lei federal em tese violados pelo aresto recorrido caracteriza deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o óbice da Súmula 284/STF.
+2. O Tribunal a quo decidiu em sintonia com a jurisprudência do STJ, ao repreender o comportamento denominado "venire contra factum proprio". Incidência da Súmula 83/STJ ao recurso especial.
+3. "A pretensão de alterar o entendimento do acórdão recorrido acerca da aplicação da exceção do contrato não cumprido demandaria a análise e interpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor das Súmulas 5 e 7 do STJ" (AgInt no AREsp 502.075/RJ, R elator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/3/2022, DJe de 19/4/2022).
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.167.223/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023).
+Nesse contexto, os argumentos expostos pela agravante são insuficientes para alterar os fundamentos da decisão agravada, a qual permanece incólume em todos os seus termos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
