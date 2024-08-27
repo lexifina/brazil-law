@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por MUNICIPIO DE FORTALEZA, sob o fundamento de incidência  das Súmula s 283 e 284/STF, nos seguintes termos (fl. 235):
+Fica claro, pois, que inconformado com o resultado do jugado, o ente público tenta revertê-lo, dando interpretação diversa à fundamentação do acórdão, o que dificulta a compreensão da controvérsia e constitui deficiência na fundamentação recursal, atraindo a incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal  .. .
+A parte agravante alega que a decisão agravada não merece prosperar, argumentando não haver "deficiência na fundamentação que não permita a exata compreensão da controvérsia" (Súmula 284/STF), já que "expôs, de forma clara, por qual razão teria se dado, na espécie, o julgamento extra petita e a respectiva ofensa ao artigo 492 do CPC" (fl. 248). Sustenta a inaplicabilidade da Súmula 283/STF, "na medida em que o único fundamento que justifica o recurso  natureza extra petita da decisão  fora devidamente abordado pelo recurso especial apresentado" (fl. 250).
+Sem contraminuta, conforme certidão (fl. 277).
+É o relatório.
+Passo a decidir.
+Com efeito, as alegações deduzidas pela parte agravante são insuficientes para serem consideradas como impugnação aos fundamentos da decisão agravada, notadamente em relação à não incidência  das Súmulas 283 e 284/STF. Foi apresentada argumentação genérica quanto à inaplicabilidade dos referidos óbices. Desse modo, a parte não observou o princípio da dialeticidade e a necessária impugnação efetiva e fundamentada, o que atrai a aplicação analógica da Súmula 182/STJ.
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NÃO CONHECIMENTO DO RECURSO ESPECIAL. APLICAÇÃO DAS SÚMULAS 7 E 182 DO STJ. ART. 932, III, DO CPC E ART. 253, PARÁGRAFO ÚNICO, INCISO I, DO RISTJ - AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo Interno interposto de decisão monocrática que não conheceu do Recurso Especial, fundamentando-se na aplicação da Súmula 7 do STJ, pela natureza eminentemente fática da controvérsia, e na ausência de impugnação específica dos fundamentos da decisão agravada, conforme exigência do art. 932, III, do CPC e do art. 253, parágrafo único, inciso I, do RISTJ.
+2. O recorrente, ao pleitear a reforma da decisão que aplicou as mencionadas súmulas, não logrou demonstrar, de forma específica e concreta, a desconstituição dos fundamentos que sustentaram a decisão que inadmitiu o Recurso Especial, mantendo-se assim os óbices sumulares.
+3. É imprescindível, segundo a jurisprudência consolidada do STJ, que o agravante enfrente todos os fundamentos da decisão recorrida, refutando-os de maneira específica e detalhada, sob pena de não conhecimento do Agravo.
+4. Não apresentação, pelo agravante, de argumentos suficientes para desconstituir os fundamentos da decisão agravada, mantendo-se a aplicação da Súmula 182/STJ.
+5. Agravo Interno a que se nega provimento, ressaltando-se a advertência quanto à possibilidade de reconhecimento de litigância de má-fé e aplicação das penalidades previstas nos arts. 81 e 1.026, §§ 2º e 3º, do CPC/2015, em caso de interposição de Recurso Protelatório ou manifestamente inadmissível.
+(AgInt no AREsp n. 1.941.413/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/5/2024, DJe de 29/5/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, não conheço do agravo em recurso especial.
+Intimem-se.
+EMENTA
