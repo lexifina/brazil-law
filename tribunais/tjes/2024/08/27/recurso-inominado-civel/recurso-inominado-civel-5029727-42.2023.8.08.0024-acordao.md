@@ -1,0 +1,94 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5029727-42.2023.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JOAO VITOR FERREIRA GUIMARAES
+RECORRIDO: MUNICIPIO DE VITORIA e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº 5029727-42.2023.8.08.0024
+
+Recorrente: JOAO VITOR FERREIRA GUIMARAES
+
+Recorrido: ESTADO DO ESPIRITO SANTO, MUNICIPIO DE VITORIA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Defiro à parte autora/Recorrente os benefícios da assistência judiciária gratuita.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE
+SONDA URETRAL
+.
+PRETENSÃO DE SUBSTITUIÇÃO
+POR PRODUTO DE OUTRA MARCA ESPECÍFICA
+,
+AO ARGUMENTO DE QUE
+MELHOR
+ATENDE
+RIA
+ÀS SUAS NECESSIDADES
+E
+LHE CAUSARIA MENOS DESCONFORTOS
+.
+SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO DA INICIAL. RECURSO INOMINADO DA PARTE AUTORA QUE VISA A REFORMA DA SENTENÇA E CONDENAÇÃO DOS ENTES PÚBLICOS.
+PARECER DO NATJUS NO SENTIDO DE QUE NÃO HÁ LAUDO MÉDICO QUE ESPECIFIQUE
+A NECESSIDADE DE
+EQUIPAMENTO DIVERSO DAQUELE RECEBIDO PEL
+O
+PACIENTE
+E D
+A
+MARCA INDICADA
+. FORNECIMENTO DE
+SONDA
+PADRONIZADA PELO SUS,
+NAS ESPECIFICAÇÕES SOLICITADAS
+.
+AUTOR QUE SE BASEIA NO LAUDO JUNTADO
+COM A INICIAL
+, NO QUAL HÁ DESCRIÇÃO DA QUEIXA APRESENTADA PELO PACIENTE SOBRE A COMPARAÇÃO DE FLEXIBILIDADE DA MESMA SONDA DE MARCAS DIFERENTES. OLVIDOU A PARTE AUTORA, NO ENTANTO, DE TRAZER PROVAS DOCUMENTAIS DE SUAS ALEGAÇÕES, COMO POR EXEMPLO, UM LAUDO TÉCNICO QUE ESPECIFIQUE A QUALIDADE DE CADA MATERIAL. A IMPRESCINDIBILIDADE DA INFORMAÇÃO/PROVA SUPRACITADA ENCONTRA FUNDAMENTO NO PRÓPRIO MEIO DO ESTADO
+PARA
+ADQUIRIR O PRODUTO, UMA VEZ QUE A LEI DE LICITAÇÕES PROÍBE DIRECIONAMENTO DE MARCAS ESPECÍFICAS, SALVO QUANDO DEMONSTRADO QUE APENAS AQUELA MARCA ATENDE O PACIENTE, SOB RISCO DE A CONDUTA DA ADMINISTRAÇÃO SER CONTRÁRIA AO PRINCÍPIO DA ISONOMIA E INCORRER EM ILEGALIDADE.
+
+RECURSO NÃO PROVIDO.
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+1
+.
+
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DE CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA” (ART. 55, 2ª PARTE, DA LEI 9.099/95). SUSPENDE-SE, NO ENTANTO, A EXIGIBILIDADE DA VERBA SUCUMBENCIAL (CUSTAS E HONORÁRIOS ADVOCATÍCIOS), ANTE A CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA EM FAVOR DA PARTE AUTORA.
+
+É COMO VOTO.
+
+1. ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
