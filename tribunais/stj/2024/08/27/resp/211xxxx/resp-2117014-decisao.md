@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO DE PREVIDENCIA DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 180):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. TAXA SELIC. ANATOCISMO NÃO CONFIGURADO.
+A partir do advento da EC nº 113/2021, sobre os débitos da Fazenda Pública, independentemente da sua natureza, incide a taxa SELIC, a qual será aplicada sobre o valor consolidado da dívida até então. Aplicação que não configura anatocismo. Res. 303 do CNJ, com a redação conferida pela Res.482, de 19.12.2022.
+Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fl. 228).
+Em suas razões recursais, a parte recorrente sustenta a violação dos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil (CPC), 1º da Resolução 303 do Conselho Nacional de Justiça (CNJ), 4º do Decreto 22.626/1933 e da Súmula 523 do Superior Tribunal de Justiça (STJ). Alega, para tanto:
+(a) existência de negativa de prestação jurisdicional;
+(b) "a Resolução nº 303/2019 do CNJ, não se aplica ao caso. Isso porque "Dispõe sobre a gestão dos precatórios e respectivos procedimentos operacionais no âmbito do Poder Judiciário". Segundo seu artigo 1º, "A expedição, gestão e pagamento das requisições judiciais previstas no art. 100 da Constituição Federal são disciplinadas no âmbito do Poder Judiciário pela presente Resolução." Na hipótese, não se trata de decisão a ser proferida no âmbito de processo administrativo de precatório, mas de decisão judicial exarada nos autos do processo judicial, relativo ao cálculo base que dará origem ao precatório, ainda não expedido" (fl. 282); e
+(c) "defende a Fazenda Pública que, na atualização de um cálculo anterior, no qual os totais já são compostos de principal corrigido e de juros, a aplicação da SELIC deve incidir somente sobre o principal corrigido anterior, pois sobre os juros já apurados não incide a SELIC, uma vez que resultaria na aplicação de juros SELIC sobre os juros já previamente calculados, caracterizando anatocismo. Isso ocorre porque a SELIC é fator tanto para correção monetária, remuneração do capital, quanto de compensação da mora. Esta a forma correta de aplicação da norma do art. 3º da Emenda Constitucional nº113/2021 - ou seja, sem incidência de anatocismo. E tal foi o postulado pela Fazenda Pública" (fl. 283).
+A parte adversa apresentou contrarrazões (fls. 303/312).
+O recurso foi admitido na origem (fls. 331/345).
+É o relatório.
+A parte recorrente opôs embargos de declaração a fim de provocar o Tribunal de origem a se manifestar sobre a "inaplicabilidade da metodologia de aplicação da SELIC prevista no art. 22, §1º, da Resolução nº 303/2019 do CNJ, na redação que lhe conferiu a Resolução nº 482/2022" (fl. 279). A propósito, transcrevo trecho da petição de embargos de declaração (fl. 216):
+ ..  a decisão ora embargada, autoriza o anatocismo ao adotar metodologia de cálculo que implica claramente na incidência da SELIC sobre juros já apurados no período anterior à EC 113/21. Para tanto, funda-se no artigo 22, § 1º, da Resolução nº 303/2019 do CNJ.
+A resolução adotada como fundamento para a prática de anatocismo não se aplica ao caso, isso porque "Dispõe sobre a gestão dos precatórios e respectivos procedimentos operacionais no âmbito do Poder Judiciário". Segundo seu artigo 1º, "A expedição, gestão e pagamento das requisições judiciais previstas no art. 100 da Constituição Federal são disciplinadas no âmbito do Poder Judiciário pela presente Resolução."
+Na hipótese, não se trata de decisão proferida no âmbito de processo administrativo de precatório, mas de decisão judicial exarada nos autos do processo judicial, relativo ao cálculo base que dará origem ao precatório, ainda não expedido.
+Assim, inaplicável a normativa do CNJ.
+Entretanto, o Tribunal de origem rejeitou os embargos de declaração sem o exame do ponto tido como omisso relativo ao não cabimento da Resolução 303/2019 do CNJ à presente hipótese, que é essencial à solução da controvérsia, limitando-se a reprisar as razões do acordão embargado relativamente à inexistência de anatocismo.
+Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação dos arts. 489, § 1º, e 1.022, II, do CPC, devendo os autos retornar à origem para que seja sanado o vício apontado no recurso integrativo por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+Prejudicado o exame das demais questões.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido nos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de sanar o vício apontado.
+Publique-se. Intimem-se.
+EMENTA
