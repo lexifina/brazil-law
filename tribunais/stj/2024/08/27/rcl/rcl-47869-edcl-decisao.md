@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos DOMINGOS DE MORAES - ESPÓLIO contra decisão, da lavra deste signatário, acostada às fls. 621/624, que indeferiu liminarmente a presente reclamação.
+Em suas razões, os insurgentes apontam omissão em relação a julgados deste STJ os quais, na sua compreensão, ensejam o cabimento da presente reclamação. Repisam os fundamentos concernentes à usurpação de competência do STJ. Pede o acolhimento dos aclaratórios. (fls. 628/630)
+A impugnação está juntada às fls. 633/636.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, registram-se os seguintes precedentes desta Corte: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015; AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que este signatário deixou consignado que "(..) subsumindo esse entendimento ao presente caso, constata-se que o ato judicial inquinado de ter usurpado a competência deste STJ é a decisão de fls. 18/30, proferida no AG n.º 5643202-68.2024.8.09.0051, em trâmite perante o eg. TJ/GO, no qual o e. Relator, em sede liminar, deferiu pedido de efeito suspensivo deduzido pela agravante, ora interessada, Travessia Securitizadora de Créditos Financeiros VIII S/A, cuja deliberação está sujeita aos recursos pertinentes e cabíveis perante àquela eg. Corte de Justiça, valendo destacar, por oportuno, que a reclamação não pode ser utilizada por como sucedâneo recursal, a teor de inúmeros julgados deste STJ. (ut. AgInt na Rcl 47013/BA, Rel. Min. Ricardo Villas Bôas Cueva, DJe 03/6/2024) Desse modo, não há se falar em desrespeito a qualquer decisão deste STJ e tampouco usurpação de competência porquanto, perante as instâncias ordinárias, está em curso recursos passíveis de exame pelos respectivos órgãos internos competentes, sendo inviável se fala r, ante à ausência de plausibilidade jurídica, em manejo de reclamação perante este Superior Tribunal de Justiça."
+Nesse contexto, inexistindo demonstração de usurpação de competência deste STJ, é manifesta a inviabilidade de manejo da presente reclamação, valendo destacar aos embargantes, a teor do art. 1.026 e seguintes do CPC, a possibilidade de aplicação das penalidades legais pertinentes.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeitam-se os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
