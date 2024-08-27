@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual EUCATEX S A INDUSTRIA E COMERCIO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 182):
+PROCESSO CIVIL. EXECUÇÃO FISCAL. PARCELAMENTO. REQUERIMENTO DE QUITAÇÃO ANTECIPADA. ARTIGO 33 DA LEI 13.043/2014. SUSPENSÃO DA EXIGIBILIDADE. MANUTENÇÃO DA GARANTIA.
+I. Artigo 33 da Lei 13.043/14 que instituiu a possibilidade de o contribuinte que tenha aderido a programa de parcelamento requerer a quitação antecipada por meio da utilização de créditos de prejuízos fiscais e de base de cálculo negativa da contribuição social sobre o lucro líquido.
+II. Somente após o deferimento da quitação antecipada pelo órgão fazendário é possível reconhecer a extinção do crédito tributário.
+III. Hipótese em que deve ser mantida constrição levada a efeito nos autos da execução fiscal.
+IV. Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 203/210).
+Nas razões de seu recurso especial, a parte ora agravante aponta violação dos arts. 489 e 1.022 do Código de Processo Civil (CPC) e do art. 33 da Lei 13.043/2014.
+Alega primeiramente que, a despeito da oposição dos embargos de declaração, o Tribunal de origem permaneceu silente sobre aspectos relevantes, capazes de infirmar a conclusão adotada no julgamento da demanda, notadamente no tocante à alegação de quitação antecipada do débito.
+No mérito, alega que houve a quitação antecipada do débito, o que consubstancia causa de suspensão da exigibilidade do crédito tributário (art. 151, VI, do CTN) e causa de extinção do crédito tributário, na forma do art. 33 da Lei 13.043/2014.
+A parte ora agravada apresentou as contrarrazões (fls. 298/311).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não merece acolhimento.
+Inicialmente, inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Quanto ao mais, o acórdão recorrido está assim fundamentado (fls. 177/180):
+Versa o recurso interposto pretensão de levantamento da garantia dada em execução fiscal em decorrência de requerimento de quitação antecipada feito pela executada no âmbito de programa de parcelamento de débitos tributários.
+ ..
+O artigo 33 da Lei 13.043/2014 instituiu a possibilidade de o contribuinte que tenha aderido a programa de parcelamento requerer a quitação antecipada por meio da utilização de créditos de prejuízos fiscais e de base de cálculo negativa da contribuição social sobre o lucro líquido:
+ ..
+Da leitura do parágrafo 6º do dispositivo legal, extrai-se que o Requerimento de Quitação Antecipada previsto no § 4º apenas suspende a exigibilidade das parcelas devidas, ficando sua extinção condicionada à análise e aprovação pela Receita Federal do Brasil dos créditos utilizados.
+Somente após o deferimento da quitação antecipada pelo órgão fazendário é possível reconhecer a extinção do crédito tributário, de modo que deve ser mantida, destarte, a constrição levada a efeito nos autos da execução fiscal.
+O acórdão recorrido está em consonância com a orientação da Primeira Turmas do Superior Tribunal de Justiça (STJ) de que a legislação condiciona a concessão do benefício fiscal de liquidação de débito objeto de parcelamento de natureza tributária, mediante a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido (CSLL), ao cumprimento das exigências cumulativas estabelecidas em portaria e no próprio art. 33 da Lei 13.043/2014.
+Confiram-se, a propósito, os julgados a seguir colacionados:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. BENEFÍCIO FISCAL. LIQUIDAÇÃO DE DÉBITO PARCELADO. UTILIZAÇÃO DE CRÉDITOS DE PREJUÍZO FISCAL E DE BASE DE CÁLCULO NEGATIVA DA CSLL. EXIGÊNCIA LEGAL DE PAGAMENTO DE, PELO MENOS, 30% (TRINTA POR CENTO) DO SALDO DEVEDOR EM ESPÉCIE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+III - O benefício fiscal de liquidação de débito objeto de parcelamento de natureza tributária mediante a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL está, legitimamente, condicionado ao pagamento antecipado em espécie de, no mínimo, 30% (trinta por cento) do saldo do parcelamento, a teor do disposto na Portaria Conjunta PGFN/RFB 15/2014 e no art. 33 da Lei n. 13.043/2014. Precedente.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 1.567.929/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 31/5/2021, DJe de 2/6/2021.)
+DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. PARCELAMENTO FISCAL. QUITAÇÃO MEDIANTE UTILIZAÇÃO DE CRÉDITOS DE PREJUÍZO FISCAL E DE BASE DE CÁLCULO NEGATIVA DA CSLL, CONSOANTE PREVISTO NO ART. 33 DA LEI 13.043/2014. EXIGÊNCIA DE PAGAMENTO ANTECIPADO E EM ESPÉCIE DE, PELO MENOS, 30% DO SALDO DEVEDOR DO PARCELAMENTO. RECURSO ESPECIAL DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO, EM CONFORMIDADE COM O PARECER DO MINISTÉRIO PÚBLICO FEDERAL.
+1. A Medida Provisória 651, de 09 de julho de 2009, convertida na Lei 13.043, de 13 de novembro de 2014, autorizou ao Contribuinte que tivesse débitos de natureza tributária, vencidos até 31 de dezembro de 2013, perante a Secretaria da Receita Federal do Brasil - RFB ou a Procuradoria-Geral da Fazenda Nacional - PGFN, utilizar créditos próprios de prejuízos fiscais e de base de cálculo negativa da CSLL, apurados até 31 de dezembro de 2013 e declarados até 30 de junho de 2014, para a quitação antecipada dos débitos parcelados.
+2. Para fins de estabelecer os procedimentos para quitação antecipada dos débitos parcelados, a Portaria Conjunta PGFN/RFB 15/2014 também prescreveu a exigência de pagamento antecipado de, no mínimo, 30% do saldo devedor declarado pelo contribuinte para cada modalidade de parcelamento a ser liquidada.
+3. Como se vê, a legislação condiciona a concessão do benefício fiscal de liquidação de débito objeto de parcelamento de natureza tributária, mediante a utilização de créditos de prejuízo fiscal e de base de cálculo negativa da CSLL, ao cumprimento das exigências cumulativas estabelecidas na aludida Portaria e no próprio art. 33 da Lei 13.043/2014, quais sejam, pagamento antecipado em espécie de 30% do saldo do parcelamento e quitação integral de 70% do saldo remanescente.
+4. Nesse contexto, no caso que se trata, não há censura a se impor à postura da autoridade fiscal de se recusar a aceitar a liquidação do débito parcelado frente à ausência de quitação em espécie do valor monetário equivalente a, pelo menos, 30% do saldo devedor do parcelamento, porquanto há dispositivo legal que exige seja antecipada o pagamento daquele montante.
+5. Recurso Especial da Contribuinte a que se nega provimento.
+(REsp n. 1.572.154/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 1/10/2019, DJe de 8/10/2019.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar a ele provimento.
+Publique-se. Intimem-se.
+EMENTA
