@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de VALDERI SPINDOLA DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Agravo de Execução Penal n. 5238226-29.2022.8.21.7000/RS).
+O paciente foi condenado às penas de 8 meses de reclusão em regime aberto, substituída por uma pena restritiva de direitos, consistente em prestação pecuniária, e 10 dias-multa, pelo cometimento do crime de receptação.
+A defesa sustenta "sendo o apenado assistido pela Defensoria Pública, presume-se sua incapacidade financeira para adimplir a pena de multa, de modo que deve ser reconhecida sua hipossuficiência e restabelecida a decisão que julgou extinta e execução da pena de multa" (e-STJ fl. 5).
+Requer seja declarada extinta a pena.
+A liminar foi indeferida.
+As informações foram prestadas e o  Ministério  Público  Federal  opinou pelo não conhecimento da ordem, com recomendação.
+É  o  relatório.  Decido.
+A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+Veja-se:
+"O  habeas  corpus  não  pode  ser  utilizado  como  substitutivo  de  recurso  próprio,  a  fim  de  que  não  se  desvirtue  a  finalidade  dessa  garantia  constitucional,  com  a  exceção  de  quando  a  ilegalidade  apontada  é  flagrante,  hipótese  em  que  se  concede  a  ordem  de  ofício"
+(AgRg  no  HC  n.  895.777/PR,  Relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  2/4/2024,  DJe  de  8/4/2024).
+"De  acordo  com  a  jurisprudência  do  STJ,  não  é  cabível  o  uso  de  habeas  corpus  como  sucedâneo  de  revisão  criminal,  notadamente  quando  não  há  indicação  de  incidência  de  alguma  das  hipóteses  previstas  no  art.  621  do  CPP.  Precedentes"
+(AgRg  no  HC  n.  864.465/SC,  Relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  18/3/2024,  DJe  de  20/3/2024).
+A  jurisprudência  do  Supremo  Tribunal  Federal  é  no  mesmo  sentido:
+"Do  ponto  de  vista  processual,  o  caso  é  de  habeas  corpus  substitutivo  de  agravo  regimental  (cabível  na  origem).  Nessas  condições,  tendo  em  vista  a  jurisprudência  da  Primeira  Turma  desta  Corte,  entendo  que  o  processo  deve  ser  extinto  sem  resolução  de  mérito,  por  inadequação  da  via  eleita  (HC  115.659,  Rel.  Min.  Luiz  Fux)  (..)  A  orientação  jurisprudencial  deste  Tribunal  é  no  sentido  de  que  o  "habeas  corpus  não  se  revela  instrumento  idôneo  para  impugnar  decreto  condenatório  transitado  em  julgado"  (HC  118.292-AgR,  Rel.  Min.  Luiz  Fux).  4.  O  caso  atrai  o  entendimento  desta  Corte  no  sentido  de  que  não  cabe  habeas  corpus  para  reexaminar  os  pressupostos  de  admissibilidade  de  recurso  interposto  perante  outros  Tribunais  (HC  146.113-AgR,  Rel.  Min.  Luiz  Fux;  e  HC  110.420,  Rel.  Min.  Luiz  Fux).  (..)
+(HC  225896  AgR,  Relator  Ministro  Luís  Roberto  Barroso,  Primeira  Turma,  julgado  em  15/5/2023,  DJe  de  17/5/2023).
+O  entendimento  é  de  elevada  importância,  devendo  ser  utilizado  para  preservar  a  real  utilidade  e  eficácia  da  ação  constitucional,  qual  seja,  a  proteção  da  liberdade  da  pessoa,  quando  ameaçada  por  ato  ilegal  ou  abuso  de  poder,  garantindo  a  necessária  celeridade  no  seu  julgamento.
+A  concessão  de  ofício  da  ordem,  nos  termos  dos  arts.  647-A  e  654,  §  2º,  do  Código  de  Processo  Penal,  depende  da  existência  de  flagrante  ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei n. 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Não há falar em presunção de incapacidade financeira do agente, apenas porque este é assistido pela Defensoria Pública, devendo a extinção da punibilidade ser novamente submetida ao Juízo da execução, conforme parecer ministerial (e-STJ fl. 180):
+Além disso, muito embora a impetrante afirme ser notória a incapacidade do paciente para adimplir a pena de multa, a condição financeira dele sequer foi objeto de debate e apreciação pelas instâncias ordinárias, pelo que o exame e discussão dessa matéria por essa Corte Superior configuraria indevida supressão de instância.
+Note-se que nada obsta - e inclusive é até aconselhável - que o Juízo da Execução seja novamente provocado pelo ora paciente para que se tente, perante ele, comprovar a eventual impossibilidade de ele proceder ao pagamento da pena de multa que foi imposta na sentença condenatória.
+O que não é possível, como já visto, é que esse STJ supere a patente supressão de instância para dar por comprovada essa impossibilidade, providência que, ademais, como fartamente sabido, reclamaria análise fático-probatória, incompatível com a via ora utilizada do habeas corpus.
+Veja-se a jurisprudência sobre o tema:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NÃO PAGAMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. CONDIÇÃO DE HIPOSSUFICIÊNCIA NÃO COMPROVADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA n. 7, STJ.
+I - O Supremo Tribunal Federal, no julgamento da ADI n. 3.150/DF, decidiu que a Lei n. 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal, que lhe é inerente por força do art. 5.º, inciso XLVI, alínea "c", da Constituição da República.
+II - "O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se diversamente entender o juiz competente, em decisão suficientemente motivada, que indique concretamente a possibilidade de pagamento da sanção pecuniária" (Tema n. 931).
+III - No caso dos autos, a hipossuficiência não foi comprovada, não havendo que se falar em presunção dessa condição por se tratar de réu patrocinado pela Defensoria Pública. Desse modo, a pretensão recursal requer o reexame de fatos e provas para elidir as conclusões do Tribunal de origem, o que atrai, inevitavelmente, o óbice da Súmula n. 7, STJ.
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.069.230/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 10/6/2024, DJe de 17/6/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE E DE MULTA IMPOSTAS CUMULATIVAMENTE. DECISÃO QUE EXTINGUIU O PROCESSO DE EXECUÇÃO DA PENA DE MULTA, EM RAZÃO DO VALOR SER INFERIOR A UM SALÁRIO MÍNIMO. EXTINÇÃO DA PUNIBILIDADE. NECESSIDADE DE COMPROVAÇÃO DA IMPOSSIBILIDADE DE PAGAMENTO DA SANÇÃO PECUNIÁRIA. AGRAVO DESPROVIDO.
+1. Segundo orientação desta Corte, na hipótese de condenação concomitante a pena privativa de liberdade e multa, não se pode mais declarar a extinção da punibilidade pelo cumprimento integral da pena privativa de liberdade quando pendente o pagamento da multa criminal.
+2. O fato de o reeducando ser assistido pela Defensoria Pública não faz presumir, por si só, a sua completa e absoluta impossibilidade de adimplir a sanção pecuniária. A demonstração da incapacidade econômica de pagamento da multa criminal, como requisito para a extinção da punibilidade, deve ser comprovada.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 823.580/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.  Intimem-se.
+Oficie-se ao Juízo de origem, com cópia da presente decisão.
+EMENTA
