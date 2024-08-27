@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DA BAHIA em face de acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO FISCAL. PRESCRIÇÃO EVIDENCIADA E RECONHECIDA DE OFÍCIO. EXTINÇÃO DA EXECUÇÃO. POSSIBILIDADE ANTE A AUSÊNCIA DE PROVA DE CAUSA INTERRUPTTVA OU SUSPENSIVA DA PRESCRIÇÃO. INÉRCIA DA PARTE. DEVER DO AUTOR DE IMPULSIONAR O FEITO. OBRIGAÇÃO TRIBUTARIA EXTINTA. RECURSO IMPROVIDO. (fl. 63)
+Opostos embargos de declaração, foram rejeitados (fls. 89/98).
+No recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a parte recorrente aponta violação aos arts. 126, 219, § 2º, 262, 458, II e III, e 535 do CPC/1973; e 40 da Lei 6.830/1980.
+Sustenta, essencialmente, que:
+(a) "Em breve leitura de ambos os Acórdãos se percebe a ausência de fundamentação quanto ao exame da violação dos dispositivos legais suscitados e às questões de nulidade absoluta como a falta de impulso oficial, ausência de observância do procedimento do Art. 40 da Lei nº 6.83011980 (suspensão e arquivamento, até a localização dos Executados e de seus bens penhoráveis)" (fl. 107);
+(b) "A violação das normas do Art. 40, caput, e parágrafos da LEF é evidente, pois as mesmas foram negligenciadas, pelo Juízo a quo. Com efeito, estas Normas impõem que, nas Execuções Fiscais não encontrado o Executado, o feito será suspenso por 01 ano, dando-se conhecimento desta suspensão ao Exequente, e, ultrapassado este prazo, será a mesma arquivada, temporariamente, pelo lustro prescricional, findo o qual, depois de ouvido o Exequente, poderá ser extinta por prescrição" (fl. 110).
+Contrarrazões não apresentadas.
+O Recurso Especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+Quanto à apontada violação aos arts. 458, II, 535, II, do CPC/1973, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que, apesar de a doadora do bem não haver sido pessoalmente citada para responder pela execução da pessoa jurídica, à época da doação do imóvel, o processo foi iniciado em 1981 e os donatários pertenciam ao quadro social da executada à época, o configura o consilium fraudis apto a ensejar fraude à execução no caso.
+Como se vê, a negativa de prestação jurisdicional não restou configurada. O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 458 do CPC/1973, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador. Assim, inexiste violação aos arts. 458, II, e 535, II, do CPC/1973.
+Por outro lado, ao afastar a pretensão relativa a inexistência de prescrição no presente caso, o Tribunal de origem assim fundamentou:
+ ..  antes mesmo da entrada em vigor da LC 118/2005 em junho de 2005, o crédito tributário tinha sido alcançado pela prescrição comum, porquanto já havia transcorrido mais de cinco anos desde a sua constituição, que ocorreu nos anos de 1999 a 2000, oportunidade na qual não fora o débito, iniciando-se, pois, a contagem do prazo prescricional. Por oportuno salientar, ainda, que não tendo ocorrido a citação do devedor e sendo o direito subjetivo alcançado pela prescrição, os efeitos da LC 118/2005 não alcançaram o mencionado direito já prescrito.
+ ..
+Insofismavelmente, a demora na propositura da ação, e mesmo da citação válida, deveu-se à desídia do apelante, não ao mecanismo da Justiça. Sem haver o apelante se desincumbido desse ônus, forçoso concluir pela inexistência de causas suspensivas ou interruptivas e, em consequência, a fluência normal do prazo prescricional.
+Equivoca-se o apelante, portanto, ao imputar ao Poder Judiciário a responsabilidade pela demora na citação, pois conforme estabelece o art. 219, §2º do Código de Processo Civil, "incumbe à parte promover a citação do réu nos 10 (dez) dias subsequentes ao despacho que a ordenar". Assim, não há que se falar em error in procedendo.
+Não de outra forma, forçoso reconhecer a prescrição direta, pois regulada por norma cogente de ordem pública, cuja função maior é preservar a paz social e a segurança jurídica (5º. Do art. 219 do CPC).
+E nem se argumente pela ausência de intimação da Fazenda Pública para que pudesse apontar causas impeditivas ou suspensivas da prescrição. Tal alegação, no entanto, não possui consistência, tendo em vista que, embora o juízo a quo não tenha determinado a intimação anterior da Fazenda Pública, no recurso voluntário ao submeter o reexame da matéria, poderia o apelante trazer a comprovação da ocorrência de qualquer causa interruptiva ou suspensiva da prescrição. Não o fazendo de forma substancial, confirma-se, neste ponto, que a decisão primária foi acertada e não merece retoques. (fls. 65/66 - Grifo nosso).
+Nesse aspecto, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamentos autônomos e suficientes à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
