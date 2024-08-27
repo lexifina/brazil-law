@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO ATLÂNTICO DE SEGURIDADE SOCIAL e FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL, fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fls. 1.859/1.860):
+APELAÇÃO CÍVEL. REVISÃO DE CÁLCULOS PREVIDENCIÁRIOS. ALEGAÇÃO DE ERROS DE CÁLCULOS DO BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA EXTRA E CITRA PETITA. NULIDADE. JUGAMENTO DO FEITO PELA TEORIA DA CAUSA MADURA.
+O PLANO PREVIDENCIÁRIO APLICÁVEL À HIPÓTESE É AQUEL VIGENTE NO MOMENTO DA IMPLEMENTAÇÃO DAS CONDIÇÕES DE ELEGIBILIDADE. AUTOR QUE SE APOSENTOU QUANDO VIGIA O REGULAMENTO DE 1991 DA RÉ.
+O AUTOR SE APOSENTOU ANTECIPADAMENTE, CONFORME PERMITIA O REGULAMENTO DE 1991. DAÍ A UTILIZAÇÃO DO PERCENTUAL DE 90% DO SALÁRIO-REAL-DE-BENEFÍCIO E O ÍNDICE DE REDUÇÃO PROPORCIONAL DO BENEFÍCIO, EM RAZÃO DA ANTECIPAÇÃO DA APOSENTADORIA. FATORES DE REDUTORES DE DIA E OU DE TEMPO DE CONTRIBUIÇÃO.
+LEGITIMIDADE DA EMPREGADORA - TELEMAR - PARA ESTAR NO POLO PASSIVO DA DEMANDA, EIS QUE O AUTOR ALEGA ILÍCITO PRATICADO POR ELA.
+NO JULGAMENTO DO RESP 1.312.736, HOUVE MODULAÇÃO DOS EFEITOS DA DECISÃO ADMITINDO-SE A INCLUSÃO DOS REFLEXOS DAS VERBAS REMUNERATÓRIAS, RECONHECIDAS NA JUSTIÇA TRABALHISTA, NOS CÁLCULOS DA RENDA MENSAL INICIAL DOS BENEFÍCIOS DE COMPLEMENTAÇÃO DE APOSENTADORIA NAS DEMANDAS AJUIZADAS ATÉ 08/08/2018.
+ANULAÇÃO DA SENTENÇA E PELA TEORIA DA CAUSA MADURA JULGAR PARCILMANETE PROCEDENTE O PEDIDO PARA CONDENAR A 3ª RÉ A EFETUAR AS CONTRIBUIÇÕES REFERENTES À DIFERENÇA SALARIA RECONHECIDA NA JUSTIÇA DO TRABALHO E AS 1ª E 2ª RÉS A REVISAREM O BENEFÍCIO EM RAZÃO DO REAJUSTE SALARIAL. ESSE PROCEDIMENTO FICA CONDICIONADO AO PAGAMENTO DAS CONTRIBUIÇÕES DEVIDAS PELA PARTE AUTORA.
+PARCIAL PROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.924/1.927).
+Em suas razões (e-STJ fls. 2.039/2.075), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais, sob os respectivos fundamentos:
+(i) arts. 489, II e § 1º, IV e VI, e 1.022 do CPC, sustentando negativa de prestação jurisdicional,
+(ii) art. 78 da LC n. 109/2001, afirmando a ocorrência de prescrição quinquenal extintiva,
+(iii) arts. 1º, 7º, 18, caput e § 3º, e 19 da LC n. 109/2001, diante da necessidade de prévio custeio, com a recomposição total da reserva matemática.
+Alega ainda ter o acórdão recorrido divergido da tese firmada no Tema repetitivo n. 955/STJ, pois, "(1) não há previsão regulamentar para o recálculo do benefício em razão das verbas deferidas em ação trabalhista, e (2) não foi deferida a recomposição total da reserva matemática da cota parte patronal (patrocinadora) e do participante, a ser apurado através de estudo atuarial e não houve custeio prévio, sendo a hipótese de improcedência dos pedidos em face da ora Recorrente, conforme tese definida pelo STJ" (e-STJ fl. 2.059/2.060).
+Contrarrazões apresentadas (e-STJ fls. 2.097/2.116).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, II e § 1º, IV e VI, e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à legitimidade da patrocinadora e à tese firmada no Tema repetitivo n. 955/STJ, o Tribunal de origem assim se manifestou (e-STJ fl. 1.868/1.870):
+Tendo a parte autora atribuído a prática de ilícito à Telemar, esta é parte legítima para configurar no polo passivo da demanda, não se aplicando a regra geral da tese fixada no julgamento do Tema 936 do STJ, acima transcrita, em razão da ressalva do item II.
+ ..
+Conforme já mencionado anteriormente, tal matéria foi pacificada no âmbito do Superior Tribunal de Justiça, por ocasião do julgamento do recurso representativo de controvérsia REsp 1.312.736/RS - onde se firmou as seguintes teses:
+ ..
+Pois bem, de acordo com a modulação no julgamento do repetitivo, o STJ definiu que todas as demandas propostas até a data da prolação do julgado, que ocorreu em 20/08/2018, deve ser aplicado o entendimento de ser possível aos participantes do plano a inclusão dos reflexos das parcelas remuneratórias reconhecidas como devidas pela Justiça do Trabalho, desde que haja previsão regulamentar e recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico e atuarial em cada caso.
+É a hipótese dos autos, vez que a ação foi ajuizada em 2012 perante a Justiça do Trabalho e posteriormente declinada a competência para a Justiça Estadual em 2014.
+Visto isso, tem-se que a pretensão do autor é condicionada a previsão regulamentar e a prévia recomposição da reserva matemática.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC.
+Não houve pronunciamento do Tribunal a quo a respeito do tema inserto no art. 78 da LC n. 109/2001, nem houve questionamento sobre o tema nos embargos de declaração, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Quanto ao mérito, no julgamento do Recurso Especial n. 1.312.736/RS, de minha relatoria, submetido à sistemática dos recursos repetitivos (Tema n. 955/STJ), a Segunda Seção definiu as seguintes teses, para os fins do art. 1.036 do CPC/2015:
+a) "A concessão do benefício de previdência complementar tem como pressuposto a prévia formação de reserva matemática, de forma a evitar o desequilíbrio atuarial dos planos. Em tais condições, quando já concedido o benefício de complementação de aposentadoria por entidade fechada de previdência privada, é inviável a inclusão dos reflexos das verbas remuneratórias (horas extras) reconhecidas pela Justiça do Trabalho nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria."
+b) "Os eventuais prejuízos causados ao participante ou ao assistido que não puderam contribuir ao fundo na época apropriada ante o ato ilícito do empregador poderão ser reparados por meio de ação judicial a ser proposta contra a empresa ex-empregadora na Justiça do Trabalho."
+c) "Modulação dos efeitos da decisão (art. 927, § 3º, do CPC/2005): nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso."
+d) "Nas reclamações trabalhistas em que o ex-empregador tiver sido condenado a recompor a reserva matemática, e sendo inviável a revisão da renda mensal inicial da aposentadoria complementar, os valores correspondentes a tal recomposição devem ser entregues ao participante ou assistido a título de reparação, evitando-se, igualmente, o enriquecimento sem causa da entidade fechada de previdência complementar."
+(REsp n. 1.312.736/RS, de minha relatoria, SEGUNDA SEÇÃO, julgado em 8/8/2018, DJe 16/8/2018.)
+No caso concreto, a Corte local, em consonância com esse entendimento, ressaltou que "deve haver recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial. Tais valores, quais sejam, as devidas contribuição de cada um e o benefício final do autor, deverão ser apurados em liquidação de sentença" (e-STJ fl. 1.827).
+Cabe anotar que, diante da exclusão da TELEMAR NORTE LESTE S. A. - EM RECUPERAÇÃO JUDICIAL da lide, com o provimento do recurso especial interposto pela patrocinadora, a recomposição da reserva matemática deverá ficar a cargo exclusivo da parte autora.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial para determinar a responsabilidade exclusiva do autor, MAURO FERREIRA CALDAS, pela recomposição prévia e integral da reserva matemática.
+Publique-se e intimem-se.
+ EMENTA
