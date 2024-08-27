@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial pelo qual a COMPANHIA DE SANEAMENTO DO PARANA SANEPAR se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 835):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS, DECORRENTES DE LESÃO CAUSADA PELA QUEDA DA AUTORA EM BURACO EXISTENTE EM CALÇADA. RESPONSABILIDADE CIVIL DO MUNICÍPIO E DA SANEPAR. NÃO CONFIGURAÇÃO DE CULPA EXCLUSIVA OU CONCORRENTE DA VÍTIMA. DANO MORAL EVIDENCIADO. VALOR ADEQUADO. SENTENÇA MANTIDA. RECURSOS 01 E 02 NÃOPROVIDOS.
+Os embargos de declaração opostos foram rejeitados (fls. 858/869).
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação aos arts. 489, § 1º, IV, e 1.022 do Código de Processo Civil (CPC), assim como aos arts. 186 e 927 do Código Civil (CC) e ao art. 25 da Lei 8.987/1995.
+Sustenta que (fls. 907/908):
+ ..  é apenas a prestadora dos serviços relativos a distribuição de água potável e coleta e tratamento de esgoto, os quais são executados nos termos e nos limites do contrato firmado com o Município de Curitiba. De sorte que não se pode atribuir à esta Companhia o dever genérico de fiscalizar as condições dos passeios públicos e de repor os passeios públicos nas condições originárias, eis que tal competência, além de ser exclusiva do Município, não integra o contrato de concessão.
+Pondera que "não houve ação tampouco omissão  ..  que pudesse vinculá-la ao referido acidente e, por corolário, condená-la ao pagamento de indenização por danos morais e materiais, tal como indevidamente ocorreu" (fl. 909).
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 935/939).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+Verifico que inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Destaco que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+Ainda, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fls. 841/842):
+Diante do critério para responsabilização do Município, o mesmo se estende à SANEPAR, na condição de prestadora de serviços públicos, tendo o dever de manter a regularidade e fiscalização de suas instalações.
+O art. 25 da Lei nº 8.987/95 dispõe que cabe à concessionária na execução do serviço responder por todos os prejuízos causados aos usuários ou terceiros, independentemente da fiscalização exercida pelo órgão concedente:
+ ..
+Ademais, reafirmam-se aqui os motivos apontados na sentença também quanto à responsabilidade da Sanepar:
+ ..  Além disso, vale relembrar o entendimento exarado pelo Tribunal de Justiça Paranaense, em jurisprudência supracitada, no sentido de que: "Houve omissão específica dos entes públicos, onde ambos têm o dever de conservação e fiscalização das calçadas públicas, a fim de propiciar segurança à circulação dos pedestres, evitando o evento que provocou os danos. Reconheço a legitimidade passiva dos dois, não importando se o buraco era de esgoto/água, porque isso não retira de nenhum deles o dever de zelo pela via pública, eliminando potenciais causadores de acidentes. Ambos têm culpa pela irregularidade da calçada, por omissão quanto à fiscalização e conservação do passeio público, posto que deveriam conservá-lo, exigir que fosse conservado ou, no mínimo, sinalizar os seus defeitos. Assim, a discussão a respeito do duto ao lado do buraco, se era via de esgoto ou águas pluviais, em nada influencia na responsabilidade recaída sobre os réus: Município e Sanepar, vez que àquele tem o dever de fiscalizar as condições dos passeios públicos, garantido a segurança dos transeuntes e esta, ao prestar os serviços nos dutos, tem o dever de repor os passeios públicos nas condições originárias, adequadas ao trânsito seguro de pessoas, portanto, sem desníveis ou buracos.  ..
+Nessa perspectiva, a concessionaria responde pelos danos causados aos usuários ou terceiros por ser ela prestadora e mantenedora do serviço, máxime considerando-se a observação que se extrai da fotografia acima, de que o buraco se encontrava junto ao bueiro.
+Ademais, ao recompor a via, como ocorreu, a Apelante traz para si a responsabilidade pela manutenção do local, consumando a tese da responsabilidade solidária.
+O Órgão concedente também responde por esses danos por ser o titular do serviço, o que resulta na legitimidade tanto do Município quanto da Sanepar, conforme já decidiu este TJPR:  ..
+A Corte local reconheceu a responsabilidade civil da concessionária pelos danos suportados pela parte adversa, com base no acervo probatório da causa.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL OBJETIVA DA CONCESSIONÁRIA. NEXO DE CAUSALIDADE. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. REDUÇÃO DO QUANTUM DEVIDO A TÍTULO DE REPARAÇÃO DO DANO MORAL. IMPOSSIBILIDADE. ARBITRAMENTO RAZOÁVEL E PROPORCIONAL. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7 DESTA CORTE.
+1. Observa-se da leitura do Voto condutor que as conclusões nele registradas foram obtidas com base no acervo de fatos e provas dos autos. A partir desses elementos, a Corte estadual confirmou a responsabilidade civil da parte Agravante atribuindo-lhe o dever de indenizar e de reparar o dano acometido às partes Agravadas.
+2. A tentativa de modificar o quadro fático para alterar o resultado do julgamento, conforme estabelecido pelo Tribunal a quo - senhor da análise probatória -, perpassa pela necessidade de fixar premissa diversa da que consta do aresto impugnado.
+3. Nessa linha, para aferir se a concessionária é ou não responsável pelo dano material e moral em questão, necessário seria revolver o acervo fático-probatório dos autos, o que é inviável diante da incidência do Enunciado da Súmula 7 desta Corte.
+4. Do mesmo modo, verifica-se que a busca pela revisão do quantum devido à título de reparação de dano moral, decorrente do óbito da vítima, não comporta, via de regra, redução ou majoração do valor nesta esfera judicial.
+5. A utilização da excepcionalidade, que confere o afastamento do óbice sumular 7 do STJ, não se enquadra no caso dos autos, uma vez que a Corte de origem com base nas circunstâncias fáticas apuradas em juízo, reduziu o montante arbitrado na sentença de R$ 200.000,00 (duzentos mil reais) para R$ 100.000,00 (cem mil reais), a ser dividido entre a viúva e seus três filhos.
+6. Nessa esteira, não se reconhece desproporcionalidade nem irrazoabilidade no valor devido. Portanto, igualmente, inviável o apelo nobre, na medida em que alterar os fundamentos do acórdão recorrido exige reexame do conjunto fático-probatório dos autos. Novamente, aplica-se a Súmula 7/STJ.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.208.522/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/3/2023, DJe de 27/3/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. QUEDA EM BUEIRO. CONCESSIONÁRIA DE ÁGUA E ESGOTO. LEGITIMIDADE PASSIVA. DANOS MORAIS. CARACTERIZAÇÃO E QUANTUM INDENIZATÓRIO ARBITRADO. SÚMULA 7 DO STJ. APLICAÇÃO.
+ ..
+3. Constitui providência que esbarra no óbice estampado na Súmula 7 do STJ dissentir da conclusão alvitrada na Corte de origem, acerca da responsabilidade da concessionária pelo evento tido como danoso e da caracterização do dano moral dele decorrente.
+4. Somente em casos excepcionais, quando a quantia arbitrada se mostrar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o quantum indenizatório fixado pela instância de origem a título de danos morais, ante a impossibilidade de análise de fatos e provas (Súmula 7 do STJ), de acordo com jurisprudência do Superior Tribunal de Justiça.
+5. Hipótese em que o montante indenizatório fixado pelo Tribunal a quo (R$ 4.000,00) não justifica o transpasse do aludido óbice sumular.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 478.485/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/10/2017, DJe de 19/12/2017.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos no § 2º desse dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
