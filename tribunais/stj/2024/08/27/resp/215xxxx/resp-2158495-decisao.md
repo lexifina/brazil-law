@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso especial interposto por DAIANE ANTUNES SILVEIRA com fundamento nas alíneas a e c do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fl. 164):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. INSCRIÇÃO EM ÓRGÃO DE PROTEÇÃO AOCRÉDITO. NOTIFICAÇÃO PRÉVIA ENCAMINHADA POR E-MAIL. ART.43, § 2º DO CDC. ADOÇÃO DA SÚMULA 404 DO STJ. SENTENÇAMANTIDA. - A notificação via e-mail, embora haja entendimentos divergentes, é válida e eficaz caso haja menção a respeito da procedência do endereço eletrônico, oque pode ser realizado mediante prova de que o próprio devedor o informou ao credor, no ato da negociação ou mesmo nos casos em que o consumidor realiza cadastro junto ao arquivista e informa o endereço e, ainda, com provado envio do e-mail com as informações necessárias. - No caso dos autos, a parte ré comprova a procedência do endereço eletrônico, sendo fornecido tanto pela credora do débito quanto pela própria consumidora por ter cadastro junto ao arquivista de modo que restou mantida a sentença. - Honorários recursais aplicados. APELO DESPROVIDO, POR MAIORIA.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 233/234).
+Em suas razões recursais (e-STJ, fls. 240/251), sustenta a parte recorrente a existência de violação ao artigo 43, § 2º do Código de Defesa do Consumidor, o qual prevê que "para abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele".
+Sustenta, em síntese, ser vedada a notificação feita através de e-mail , como ocorreu no caso concreto.
+Aponta, ainda, divergência jurisprudencial sobre o tema.
+Contrarrazões apresentadas às fls. 333-344 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 347-354 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Com efeito, no caso, a Corte estadual considerou válida a notificação feita por meio eletrônico, nos seguintes termos (e-STJ, fls. 162/163).
+A parte ré comprova aos autos todas as notificações encaminhadas à parte autora, que ocorreram de forma eletrônica, através de e-mail, nos termos da documentação juntada ao evento 15.
+Neste norte, recordo que incontroversa é a responsabilidade do arquivista de notificar a parte devedora acerca do apontamento, pelo credor, conforme determina o art.43, § 2º, do Código de Defesa do Consumidor.
+Ainda, cabe mencionar que a lei determina aos órgãos arquivistas a demonstração no que tange apenas à remessa escrita da notificação para o endereço do devedor, conforme indicado pela empresa credora, dispensando o comprovante do recebimento, tudo nos termos da Súmula 404 do STJ.
+Por conseguinte, embora não haja norma expressa a respeito da notificação eletrônica e não obstante os entendimentos divergentes, considerando a própria evolução do direito e da tecnologia, situação que todos devem observar, entendo que razoável se mostra a realização da notificação por e-mail, pois é feita na forma escrita, no endereço da parte (endereço eletrônico é endereço), sendo razoável a evolução dos relacionamentos negociais e legais.
+Inclusive, recordo que o STJ já entendeu a respeito da possibilidade jurídica de intimações e citações via WhatsApp, desde que contenha elementos indutivos da autenticidade do destinatário, como número do telefone, confirmação escrita e foto individual.
+No caso da notificação via e-mail é considerada válida e eficaz caso haja menção a respeito da procedência do endereço eletrônico, o que pode ser realizado mediante prova de que o próprio devedor o informou ao credor, no ato da negociação ou mesmo nos casos em que o consumidor realiza cadastro junto ao arquivista e informa o endereço e, ainda, com prova do envio do e-mail com as informações necessárias.
+Assim como não é necessária a comprovação do recebimento pessoal da notificação por escrito, nos termos do que dispõe a Súmula 404 do STJ e, neste sentido, lembrando que não é incumbência do arquivista a averiguação acerca da correção do endereço que consta no cadastro do credor e que lhe é informado, entendo que igualmente não é necessário demonstrar a efetiva leitura do e-mail. Neste norte, no caso em comento, a parte ré comprova o envio do e- mail para o endereço "daianesilveira788@gmail. com", o mesmo fornecido pela própria parte autora ao "Serasa Consumidor".
+No caso dos autos, entendo que a parte ré se desincumbiu do seu ônus no momento em que trouxe à baila os comprovantes de envio da carta de notificação prévia à parte autora do apontamento realizado em seu nome, indo ao encontro do que preconiza o art. 43, §2º do CDC.
+No julgamento do REsp 2.063.145-RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, por maioria, julgado em 14/3/2024, restou definido que "É válida a comunicação remetida por e-mail para fins de notificação do consumidor acerca da inscrição de seu nome em cadastro de inadimplentes, desde que comprovado o envio e entrega da comunicação ao servidor de destino" (Informativo 808 do STJ).
+Confira-se a ementa do julgado:
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA.
+INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. ARTIGO 43, § 2º, DO CDC.
+PRÉVIA NOTIFICAÇÃO. POSSIBILIDADE DE ENVIO DA COMUNICAÇÃO ESCRITA POR E-MAIL. SUFICIÊNCIA DA COMPROVAÇÃO DO ENVIO E ENTREGA DO E-MAIL NO SERVIDOR DE DESTINO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir a validade ou não da comunicação remetida por e-mail ao consumidor acerca da inscrição de seu nome em cadastro de inadimplentes para fins de atendimento ao disposto no art. 43, § 2º, do Código de Defesa do Consumidor.
+2. O dispositivo legal determina que a abertura de cadastro, ficha, registro e dados pessoais e de consumo deverá ser comunicada por escrito ao consumidor, quando não solicitada por ele.
+3. Considerando que é admitida até mesmo a realização de atos processuais, como citação e intimação, por meio eletrônico, inclusive no âmbito do processo penal, é razoável admitir a validade da comunicação remetida por e-mail para fins de notificação prevista no art. 43, § 2º, do CDC, desde que comprovado o envio e entrega da comunicação ao servidor de destino.
+4. Assim como ocorre nos casos de envio de carta física por correio, em que é dispensada a prova do recebimento da correspondência, não há necessidade de comprovar que o e-mail enviado foi lido pelo destinatário.
+5. Comprovado o envio e entrega de notificação remetida ao e-mail do devedor constante da informação enviada ao banco de dados pelo credor, está atendida a obrigação prevista no art. 43, § 2º, do CDC.
+6. Na hipótese, o Tribunal local consignou, de forma expressa, que foi comprovado o envio de notificação ao endereço eletrônico fornecido pelo credor associado cientificando o consumidor e sua efetiva entrega à caixa de e-mail do destinatário.
+7. Modificar a premissa fá tica estabelecida no acórdão recorrido de que houve o envio e entrega da notificação por e-mail demandaria o reexame de fatos e provas dos autos, providência vedada em recurso especial.
+8. Recurso especial a que se nega provimento. (REsp 2063145/RS, Rel. Min. MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/03/2024, DJe 07/05/2024)
+O entendimento do Tribunal de origem encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Ante o exposto, com amparo no art. 932 do CPC/2015 c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
