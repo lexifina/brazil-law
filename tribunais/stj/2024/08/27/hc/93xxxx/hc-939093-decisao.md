@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Habeas Corpus impetrado em favor de GABRIEL MORAIS SILVA em face de uma alegada demora na apreciação do HABEAS CORPUS impetrante perante o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Assevera a impetrante que o constrangimento ilegal suportado gravita em torno da inércia do tribunal de origem na apreciação do pleito liminar, bem como pela ausência dos requisitos legais para a segregação cautelar do paciente.
+Indica no bojo da peça inaugural do presente feito que o impetrado perante o TJMG estava "há mais de 30 horas" sem qualquer movimentação ou indicação de que possa haver uma resposta breve da c. Corte Estadual.
+Pede liminar e definitivamente, para que seja determinado ao Tribunal de Origem que aprecie o pedido de medida liminar e seja revogada a prisão preventiva do paciente.
+É a síntese do necessário.
+Decido.
+O impetrante alega que o ato indigitado coator se materializa na demora do tribunal de origem em apreciar o pedido liminar que lhe foi submetido em ação de habeas corpus e na inexistência dos pressupostos para a prisão preventiva na hipótese.
+Entretanto, o instrumento utilizado pelos autores da ação constitucional para tal desiderato não merece ser conhecido.
+O princípio da duração razoável do processo é um dos alicerces essenciais do sistema judicial brasileiro, estabelecido no artigo 5º, inciso LXXVIII, da Constituição Federal de 1988, o qual garante a todos os litigantes o direito a um andamento rápido e eficaz de seus pleitos judicializados. A aplicação desse princípio tem como objetivo premente evitar a lentidão e assegurar que as partes recebam uma resposta justa e oportuna às suas solicitações.
+Em que pese o princípio impor ao Poder Judiciário a obrigação de garantir agilidade procedimental, ele não confere aos tribunais superiores a competência para compelir diretamente os tribunais inferiores a decidirem sobre demandas específicas das partes. A independência dos juízes é um dos fundamentos da administração da justiça e impede intervenções hierárquicas diretas nas decisões judiciais.
+Essa impossibilidade decorre da própria estrutura do sistema judiciário pátrio, o qual se fundamenta na autonomia dos magistrados e na independência funcional dos juízes. Os tribunais superiores, como o Superior Tribunal de Justiça, desempenham principalmente funções de revisão e uniformização da interpretação da lei, sem substituir o julgamento de mérito pelos tribunais inferiores e sem exercer atividade correcional dos tribunais de instâncias inferiores, sob pena de supressão de instância.
+Em casos que tais, cujas alegações das partes gravitam em torno de um atraso prolongado e injustificado na tomada de uma decisão, o interessado pode socorrer-se de meios processuais específicos ou dos órgãos correcionais competentes. Tais instrumentos são projetados para assegurar que abusos ou negligências sejam corrigidos sem comprometer a independência judicial.
+Entretanto, o habeas corpus, como ferramenta de liberdade, não tem o condão de determinar ao tribunal de origem que se pronuncie, e nem mesmo de decidir a questão per saltum, suprimindo a instância intermediária.
+Nesta esteira, embora o princípio da duração razoável do processo seja um direito fundamental, sua aplicação deve respeitar a independência dos juízes e a autonomia dos tribunais de instância inferior. É responsabilidade do sistema judiciário como um todo criar condições para que a eficiência processual seja observada, sem interferências indevidas na atuação dos magistrados singulares e colegiados.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
