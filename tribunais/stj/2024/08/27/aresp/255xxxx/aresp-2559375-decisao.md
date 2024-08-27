@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 139/141).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 46):
+AGRAVO DE INSTRUMENTO. Irresignação contra a decisão que, nos autos do cumprimento de sentença proposto pelo agravante contra as agravadas, acolheu em parte a impugnação por elas apresentada para permitir a compensação de parte do débito com despesas condominiais e tributárias não pagas. Descabimento. Constando do disposto da sentença exequenda a possibilidade de compensação, não negando o agravante a existência do débito e tendo as impugnantes comprovado a existência de despesas condominiais, não se vislumbra quaisquer óbices à compensação, de modo que fica mantida a decisão agravada. Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 62/64).
+Nas razões do recurso especial (e-STJ fls. 66/83), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alega dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 489, I e II, e § 1º, do CPC/2015, por negativa de prestação jurisdicional, destacando que "a Câmara Julgadora deixou de emitir juízo explícito acerca dos argumentos constantes dos embargos, especialmente acerca da negativa de vigência aos artigos 368 e 369 do CPC" (e-STJ fl. 72) e
+(b) arts. 368, 369 e 380 do CPC/2015, sustentando, em síntese, "a impossibilidade de compensação das verbas condominiais e tributárias não pagas e das quais as Recorridas não são credoras, com o valor devido ao Recorrente por força da sentença que anulou a aquisição do imóvel" (e-STJ fl. 78).
+No agravo (e-STJ fls. 144/161), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 167/170).
+É o relatório.
+Decido.
+Cuida-se, na origem, de agravo de instrumento interposto contra a decisão que, no cumprimento de sentença, acolheu parcialmente impugnação das ora recorridas para permitir a compensação de parte do débito com despesas condominiais e tributárias não pagas.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fl. 47):
+Respeitado o entendimento do agravante, suas alegações não merecem guarida, pois, conforme constou da decisão agravada, de fato, o título judicial exequendo previu a possibilidade de compensação com valores devidos a título de tributo e de condomínio, nos seguintes termos (f. 20 deste agravo):"condenar as rés BONNAIRE, solidariamente, a restituírem ao autor os valores dele recebidos a título de preço, corrigidos monetariamente desde o desembolso e acrescidos de juros de 1% ao mês a partir da citação, autorizada a compensação com as despesas tributárias e condominiais em aberto incidentes sobre o imóvel até a citação" (gn).
+Assim, de acordo com o fora deliberado pelo juízo a quo (f. 232 autos originários), constando do disposto da sentença exequenda a possibilidade de compensação, não negando o agravante a existência do débito e tendo as impugnantes comprovado a existência de despesas condominiais, não se vislumbra quaisquer óbices à compensação, de modo que fica mantida a decisão agravada.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, o TJSP concluiu pela possibilidade de compensação, tendo em vista determinação contida na sentença exequenda.
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, com o reconhecimento de que haveria decisão transitada em julgado permitindo a compensação, o conteúdo dos arts. 368, 369 e 380 do CPC/2015 não foi analisado pela Corte local, pois desnecessário para a resolução da controvérsia. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
