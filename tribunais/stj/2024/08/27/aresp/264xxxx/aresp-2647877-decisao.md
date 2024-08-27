@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 11 e 489 do CPC/2015, (b) ausência de ofensa aos artigos de lei apontados, (c) aplicação da Súmula n. 282 do STF e (d) falta de comprovação do dissídio jurisprudencial (e-STJ fls. 427/430).
+O acórdão recorrido está assim ementado (e-STJ fl. 354):
+Acidente de veículo. Culpa do Autor reconhecida, pois cruzou a via em manobra inoportuna e atingiu a motocicleta dos Autores. Danos material e moral configurados. Ação improcedente. Reconvenção procedente. Recurso do Autor desprovido e provido o dos Réus.
+Os embargos de declaração foram rejeitados (e-STJ fls. 372).
+Nas razões do recurso especial (e-STJ fls. 378/401), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou, além de dissídio jurisprudencial, violação dos seguintes dispositivos:
+(i) arts. 11 e 489, § 1º, IV, do CPC/2015, por deficiência na prestação jurisdicional, alegando a necessidade de apreciação "da integralidade das provas e documentos carreados nos autos (..), especialmente as provas documentais e testemunhas arroladas pelo recorrente" (e-STJ fl. 396),
+(ii) art. 371 do CPC/2015, por entender que "é dever do juiz apreciar todas as provas carreadas nos autos, indicando na sua decisão as razões da formação de seu convencimento  ..  deixou o D. Juízo a quo de se manifestar acerca de toda a prova testemunhal produzida em sede de audiência, o qual seria fundamental para o correto deslinde do fato, haja vista que ambas as testemunhas ouvidas pelo recorrente esclareceram que, além dos recorridos trafegarem na contramão, o local do acidente estava obras, de modo que não havia acesso na pista do lado direito" (e-STJ fls. 390/391),
+(iii) arts. 435, 437 e 498 do CPC/2015, sustentando que "como se sabe, o art. 435 do CPC/15 prevê expressamente a possibilidade de juntada de documentos novos no processo, os quais devem ser analisados pelo I. Julgador responsável pelo caso  ..  tendo em vista que a transação se deu no dia 03/10/2023, após a interposição do recurso de apelação, resta cristalino o entendimento de que se trata de documento novo, de modo que, indene de dúvidas, caberia ao I. Julgador conhecer do pleito e apreciá-lo, e não se limitar a proferir mero acórdão padrozinado" (e-STJ fl. 395).
+Requer a atribuição de efeito suspensivo ao recurso.
+Foram oferecidas contrarrazões (e-STJ fls. 416/426).
+No agravo (e-STJ fls. 433//450), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 452).
+É o relatório.
+Decido.
+Verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em ofensa aos arts. 11 e 489, § 1º, IV, do CPC/2015, pois, conforme o entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/6/2016, DJe 21/6/2016).
+Quanto às provas, o TJSP entendeu que (e-STJ fl. 356):
+O exame da prova não revela qualquer comportamento culposo dos Réus. Nada autorizava concluir que tenham invadido a contramão de direção, inclusive porque a via pela qual trafegavam tem duas faixas em cada um dos sentidos. Nem há qualquer indicativo de que tivessem em excesso de velocidade. Nenhuma irregularidades e demonstrou na manobra de ultrapassagem do ônibus, antes cumpria ao Autor, antes de seguir em frente, verificar se nenhum veículo se aproximava no mesmo sentido de direção do ônibus, pela faixa que não era por ele ocupada, exatamente aquela pela qual se aproximavam os Réus.
+O acórdão recorrido encontra-se em consonância com a jurisprudência do STJ de que "o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado" (AgInt no AREsp n. 2.263.243/SP, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COMINATÓRIA E CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DE PLANO NEGAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DO AUTOR.
+1. (..).
+3. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Precedentes. 3.1. A jurisprudência firme desta Corte é no entendimento de que a análise quanto à necessidade de produção de determinada prova esbarra no óbice da Súmula 7/STJ, porquanto seria necessário reexaminar as circunstâncias fáticas e o conjunto probatório constante dos autos para concluir se a produção da prova almejada pelo recorrente seria, ou não, imprescindível para o julgamento da demanda.
+4. (..).
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.202.801/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Havendo posicionamento dominante sobre o tema, aplica-se a Súmula n. 83/STJ.
+De todo modo, para modificar o acórdão impugnado quanto à suficiência das provas apresentadas e à ausência de cerceamento de defesa, seria necessário o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção aos arts. 437 e 498 do CPC/2015, indicado nas razões recursais, conforme se infere do voto condutor do acórdão recorrido.
+Assim, incidentes as Súmulas n. 282 e 356 do STF.
+Finalmente , a suposta ofensa ao art. 435 do CPC/2015 não foi analisada previamente pelo Tribunal de origem, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do CPC/2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Ressalte-se que esta Corte Superior perfilha o entendimento de que a admissão do prequestionamento ficto previsto no art. 1.025 do CPC/2015 exige que se aduza, no recurso especial, violação do art. 1.022 do Diploma Processual (art. 535 do CPC/1973), providência não adotada pela parte recorrente.
+Ante o exposto, NEGO PROVIMENTO ao agravo e JULGO PREJUDICADO o pedido de efeito suspensivo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
