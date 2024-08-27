@@ -1,0 +1,45 @@
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IMUNIDADE TRIBUTÁRIA. ARTIGO 150, INCISO VI, ALÍNEA “D”, DA CONSTITUIÇÃO FEDERAL. PUBLICAÇÃO. SUPORTE. CARDS COLECIONÁVEIS. TEMA 593 (RE 330.817). ALCANCE. MAJORAÇÃO DE HONORÁRIOS. ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. NEGADO SEGUIMENTO AO RECURSO.
+
+    DECISÃO: Trata-se de recurso extraordinário manejado com arrimo na alínea “a” do permissivo constitucional, contra acórdão que assentou:
+
+      “TRIBUTÁRIO. ADUANEIRO. CARDS COLECIONÁVEIS. IMUNIDADES, EXTENSÃO DO CONCEITO CONSTITUCIONAL DE LIVRO, JORNAIS E PERIÓDICOS. SUPORTE FÍSICO DIFUSOR DE IDEIAS E PENSAMENTOS. LIBERDADE DE EXPRESSÃO E DE LIVRE MANIFESTAÇÃO. 1. O STF já decidiu que não cabe à autoridade fazendária realizar juízo sobre o conteúdo e o valor cultural da publicação, ressaltando a inexistência de qualquer ressalva no texto constitucional que permita a restrição do conceito de livro para fins de imunidade. Precedentes do STF e desta Corte. 2. Ao firmar a tese no tema 593 de repercussão geral o STF definiu que a interpretação das imunidades tributárias deve se projetar no futuro e levar em conta os novos fenômenos sociais, culturais e tecnológicos. Com isso, evita-se o esvaziamento das normas imunizantes por mero lapso temporal, além de se propiciar a constante atualização do alcance de seus preceitos. 3. O texto constitucional deve ser interpretado de maneira teleológica, de forma a incluir os "Cards colecionáveis" no conceito de livros e periódicos da regra imunizante. Cabe ao intérprete averiguar a finalidade que busca a lei, não se atendo exclusivamente à letra fria desta, mas, sim, ao real objetivo que ela almeja. Precedentes do STF e de outros Regionais.”
+
+    Os embargos de declaração opostos foram desprovidos.
+
+    Nas razões do apelo extremo, a parte recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 150, inciso VI, alínea “d”, da Constituição Federal.
+
+    A parte recorrida apresentou contrarrazões ao recurso.
+
+    O Tribunal a quo proferiu juízo positivo de admissibilidade do recurso extraordinário.
+
+    É o relatório. DECIDO.
+
+    O recurso não merece prosperar.
+
+    Com efeito, o Plenário desta Corte, no julgamento do Tema 593 da sistemática da repercussão geral, RE 330.817, rel. Min. Dias Toffoli, fixou a seguinte tese: “A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se ao livro eletrônico (e-book), inclusive aos suportes exclusivamente utilizados para fixá-lo”. Por oportuno, transcreve-se a ementa do julgado em controle concentrado de constitucionalidade:
+
+    “Recurso extraordinário. Repercussão geral. Tributário. Imunidade objetiva constante do art. 150, VI, d, da CF/88. Teleologia multifacetada. Aplicabilidade. Livro eletrônico ou digital. Suportes. Interpretação evolutiva. Avanços tecnológicos, sociais e culturais. Projeção. Aparelhos leitores de livros eletrônicos (ou e-readers). 1. A teleologia da imunidade contida no art. 150, VI, d, da Constituição, aponta para a proteção de valores, princípios e ideias de elevada importância, tais como a liberdade de expressão, voltada à democratização e à difusão da cultura; a formação cultural do povo indene de manipulações; a neutralidade, de modo a não fazer distinção entre grupos economicamente fortes e fracos, entre grupos políticos etc; a liberdade de informar e de ser informado; o barateamento do custo de produção dos livros, jornais e periódicos, de modo a facilitar e estimular a divulgação de ideias, conhecimentos e informações etc. Ao se invocar a interpretação finalística, se o livro não constituir veículo de ideias, de transmissão de pensamentos, ainda que formalmente possa ser considerado como tal, será descabida a aplicação da imunidade. 2. A imunidade dos livros, jornais e periódicos e do papel destinado a sua impressão não deve ser interpretada em seus extremos, sob pena de se subtrair da salvaguarda toda a racionalidade que inspira seu alcance prático, ou de transformar a imunidade em subjetiva, na medida em que acabaria por desonerar de todo a pessoa do contribuinte, numa imunidade a que a Constituição atribui desenganada feição objetiva. A delimitação negativa da competência tributária apenas abrange os impostos incidentes sobre materialidades próprias das operações com livros, jornais, periódicos e com o papel destinado a sua impressão. 3. A interpretação das imunidades tributárias deve se projetar no futuro e levar em conta os novos fenômenos sociais, culturais e tecnológicos. Com isso, evita-se o esvaziamento das normas imunizantes por mero lapso temporal, além de se propiciar a constante atualização do alcance de seus preceitos. 4. O art. 150, VI, d, da Constituição não se refere apenas ao método gutenberguiano de produção de livros, jornais e periódicos. O vocábulo “papel” não é, do mesmo modo, essencial ao conceito desses bens finais. O suporte das publicações é apenas o continente (corpus mechanicum) que abrange o conteúdo (corpus misticum) das obras. O corpo mecânico não é o essencial ou o condicionante para o gozo da imunidade, pois a variedade de tipos de suporte (tangível ou intangível) que um livro pode ter aponta para a direção de que ele só pode ser considerado como elemento acidental no conceito de livro. A imunidade de que trata o art. 150, VI, d, da Constituição, portanto, alcança o livro digital (e-book). 5. É dispensável para o enquadramento do livro na imunidade em questão que seu destinatário (consumidor) tenha necessariamente que passar sua visão pelo texto e decifrar os signos da escrita. Quero dizer que a imunidade alcança o denominado “audio book”, ou audiolivro (livros gravados em áudio, seja no suporte CD-Rom, seja em qualquer outro). 6. A teleologia da regra de imunidade igualmente alcança os aparelhos leitores de livros eletrônicos (ou e-readers) confeccionados exclusivamente para esse fim, ainda que, eventualmente, estejam equipados com funcionalidades acessórias ou rudimentares que auxiliam a leitura digital, tais como dicionário de sinônimos, marcadores, escolha do tipo e do tamanho da fonte etc. Esse entendimento não é aplicável aos aparelhos multifuncionais, como tablets, smartphone e laptops, os quais vão muito além de meros equipamentos utilizados para a leitura de livros digitais. 7. O CD-Rom é apenas um corpo mecânico ou suporte. Aquilo que está nele fixado (seu conteúdo textual) é o livro. Tanto o suporte (o CD-Rom) quanto o livro (conteúdo) estão abarcados pela imunidade da alínea d do inciso VI do art. 150 da Constituição Federal. 8. Recurso extraordinário a que se nega provimento. TESE DA REPERCUSSÃO GERAL: 9. Em relação ao tema nº 593 da Gestão por Temas da Repercussão Geral do portal do STF na internet, foi aprovada a seguinte tese: “A imunidade tributária constante do art. 150, VI, d, da CF/88 aplica-se ao livro eletrônico (e-book), inclusive aos suportes exclusivamente utilizados para fixá-lo.” (DJe de 31/8/2017)
+
+    Nesse contexto, verifica-se que o Tribunal a quo julgou em harmonia com a jurisprudência do Supremo Tribunal Federal quanto à abrangência da imunidade tributária sobre publicações em forma de álbuns de figurinhas, cards colecionáveis e cromos. Sobre o tema, a propósito:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. CARDS DA SÉRIE MAGIC THE GATHERING. ACESSO À INFORMAÇÃO E DISSEMINAÇÃO CULTURAL. ART. 150, VI, “D”, DA CONSTITUIÇÃO FEDERAL. INTERPRETAÇÃO EXTENSIVA. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM O ENTENDIMENTO FIRMADO PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 330.817.
+
+      1. Ao apreciar a controvérsia, o Tribunal de origem divergiu de entendimento firmado pelo Plenário do Supremo segundo o qual “a interpretação das imunidades tributárias deve se projetar no futuro e levar em conta os novos fenômenos sociais, culturais e tecnológicos. Com isso, evita-se o esvaziamento das normas imunizantes por mero lapso temporal, além de se propiciar a constante atualização do alcance de seus preceitos” (RE 330.817, ministro Dias Toffoli).
+
+      2. Agravo interno desprovido” (RE 1.108.541 AgR, rel. Min. Nunes Marques, Segunda Turma, DJe de 15/9/2022).
+
+    Anoto, ainda, no mesmo sentido, as seguintes decisões oriundas desta Suprema Corte: ARE 1.488.727, rel. Min. Alexandre de Moraes, DJe de 2/5/2024, RE 1.278.823, rel. Min. Cármen Lúcia, DJe de 5/8/2020, e RE 1.447.358, rel. Min. André Mendonça, DJe de 24/1/2024.
+
+    Ex positis, NEGO SEGUIMENTO ao recurso, ex vi art. 932, VIII, do Código de Processo Civil, c/c o art. 21, § 1º, do Regimento Interno do STF.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de agosto de 2024.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
