@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Carlos Eduardo Garcia - condenado por roubo circunstanciado a 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e a 13 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 63/71), não comporta processamento.
+Com efeito, busca a impetração a desclassificação da conduta delitiva de roubo para furto - referente à condenação proferida na Ação Penal n. 0002304-32.2018.8.26.0360 (fls. 37/45 - da 1ª Vara Criminal da comarca de Mococa/SP) -, ao argumento de que a violência foi empregada apenas sobre objeto, não havendo ameaça ou violência contra a vítima, não se amoldando no tipo penal de roubo que necessariamente exige esses requisitos (fl. 5), e, consequentemente, a alteração do regime inicial para o regime aberto e a substituição por pena restritiva de direitos (fl. 9).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 6/11/2020 (conforme informações do endereço eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+Inicialmente, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois, quanto à pretensão de desclassificação, essa nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configura prestação jurisdicional em indevida supressão de instância. Ademais, não seria possível analisar tal pretensão, pois demandaria reexame probatório, inviável na via eleita (AgRg no HC n. 917.598/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe 19/8/2024).
+Finalmente, mantida a reprimenda corporal em 5 anos e 4 meses de reclusão, correta a fixação do regime semiaberto e o indeferimento da substituição da pena (arts. 33, § 2º, b, e 44, I, CP).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA PARA FURTO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL E INDEFERIMENTO DA SUBSTITUIÇÃO DA PENA. EXATOS TERMOS LEGAIS (ARTS. 33, § 2º, B, E 44, I, DO CP). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
