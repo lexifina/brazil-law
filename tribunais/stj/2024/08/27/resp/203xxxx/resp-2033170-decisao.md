@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão do Tribunal Regional Federal da 1ª Região assim mentado:
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL. ARTIGO 557 DO CPC/73. DECISÃO PROFERIDA DE ACORDO COM JURISPRUDÊNCIA DO STJ.
+1. A decisão agravada está em conformidade com o disposto no artigo 557 do Código de Processo Civil, visto que proferida com esteio em jurisprudência do Superior Tribunal de Justiça, no sentido de permitir ao Relator admitir as razões de decidir adotadas nas sentenças, utilizando- se a chamada fundamentação per relationem. Portanto, permanece irretorquível.
+2. Agravo regimental desprovido" (fl. 181).
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, a parte recorrente alega, inicialmente, violação ao art. 1.022 do CPC/2015, sustentando, em síntese, que "cabia ao Tribunal a quo apreciar as questões formuladas nos embargos declaratórios - impossibilidade de acumulação de pensão especial seringueiro com aposentadoria do RGPS, motivo pelo qual restou configurada a ofensa ao artigo art. 1.022 do CPC/2015".
+Aduz, por fim, violação aos art. 1º e 2º da Lei 7.986/89, pois referidos artigos "são claros ao dispor que necessária, para a concessão da pensão vitalícia a dependente de seringueiro, a comprovação da condição de carente, o que é, por óbvio elidida Guando o requerente usufrui de outro benefício previdenciário".
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+A jurisprudência do STJ orienta-se no sentido de que há violação ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de embargos de declaração, não se manifesta sobre questão relevante ao deslinde da controvérsia.
+Da análise dos autos, verifica-se que o INSS, em sede de embargos de declaração, questionou a existência de omissão no julgado, no que diz respeito à impossibilidade de acumulação da pensão vitalícia de seringueiro com a aposentadoria por idade rural, sob os seguintes fundamentos, em síntese:
+"Para fins de prequestionamento, há necessidade de que o Tribunal se manifeste sobre os artigos 1 2 e 2 2 da Lei n2 7.986/89, que dizem:
+ ..
+Em vista do trecho destacado ("que não possuam meios para a sua subsistência e da sua família"), verifica-se que o dispositivo em questão veicula benefício típico de Assistência Social.
+Ademais disso, trata-se de benefício concedido independentemente de qualquer contraprestação por parte do beneficiário. Visa-se tutelar situação excepcional, protegendo-se de forma especial determinada parcela da população nacional que contribuiu sobremaneira com os interesses pátrios em determinado momento histórico.
+O escopo do legislador constitucional foi garantir amparo àqueles que não conseguiram prover o seu próprio sustento, nem o de sua família, em decorrência da missão que desempenharam em prol do Estado Brasileiro. Dito de outra forma, o constituinte garantiu aos "soldados da borracha" que não ficariam desamparados.
+Ora, nos casos em que os "soldados da borracha" tenham conseguido reinserir-se no mercado de trabalho, contribuído para a previdência social normalmente, e obtido o direito a gozar de aposentadoria, por óbvio que não necessitam do amparo que lhes fora assegurado.
+Há na relação entre previdência e assistencial social uma ideia de subsidiariedade desta em relação àquela. Assim, sempre que a previdência social tutelar determinada situação, a assistência perde a sua razão de ser. A assistência busca amparar os não abrangidos pela previdência, seja por que não contribuíram, seja por que não satisfizeram as exigências que norteiam o sistema previdenciário.
+Por conseguinte, resta demonstrado o pertencimento do benefício delineado pelos artigos 1Q e 2Q da Lei O 7.986/89, à Assistência Social e, por óbvio, à Seguridade Social, devendo se pautar pelos princípios que inspiram esta última  dentre os quais o da seletividade.
+Por certo, quem passa a titularizar benefício previdenciário não se encontra em situação de hipossuficiência econômica, pois a renda jamais será inferior ao patamar interpretado como "capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social" (art. 7Q, IV, CF/88), pois a renda mensal está vinculada a piso consistente em um salário-mínimo (art. 201, 4 2, CF/88) Por conseguinte, ao se determinar a cumulação do aludido benefício assistencial com o benefício previdenciário, estar-se-ia estendendo direito da Assistência Social a quem desta não precisa, afrontando indiretamente o princípio da seletividade da Seguridade Social.
+Pelo exposto, tanto a Portaria MPAS nº 4.630/90 (art. 3 2 , § 2 2 , e art. 42 , p. ún.)  que regulamenta a Lei nº 7.986/89 (art. 62 )  quanto a Instrução Normativa do INSS nº 78/2002 (art. 418, inc. IV, e art. 617), todos transcritos em fls. 60/61, estão em harmonia com a Lei nº 7.986/89" (fls. 85-188).
+Não obstante, o Tribunal de origem os rejeitou, sem o enfrentamento das questões cujo conhecimento havia-lhe sido devolvido nos embargos opostos.
+Nesse contexto, sendo constatado que o Tribunal de origem deixou de enfrentar a argumentação supra, mostra-se impositivo reconhecer a ocorrência de violação ao art. 1.022, II, do CPC/2015, porquanto a análise da matéria mostra-se relevante para o deslinde da controvérsia.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, a fim de que sejam enfrentadas as questões suscitadas.
+Intimem-se.
+ EMENTA
