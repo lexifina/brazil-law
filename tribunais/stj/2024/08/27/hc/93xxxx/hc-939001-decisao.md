@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO MAMÉDIO DA SILVA, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime inicial fechado, e ao pagamento de 12 dias-multa, pela prática do delito previsto no artigo 2º da Lei n. 12.850/13.
+Nesta instância, a impetrante alega inobservância da detração penal, bem como a ilegalidade da fixação do regime inicial fechado quando cabível o regime semiaberto por aplicação da Súmula n. 269 do STJ.
+Requer, inclusive liminarmente, a concessão da ordem para fixar o regime inicial semiaberto para o início do cumprimento de pena da paciente ou a concessão de livramento condicional ao paciente, pelo preenchimento dos requisitos objetivos e subjetivos.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No que se refere ao pedido de concessão de livramento condicional, tratar do tema nesta sede implicaria indevida supressão de instância, haja vista que o acórdão não tratou da questão e não houve pedido formulado perante o Juízo das Execuções Penais.
+Outrossim, na hipótese, o Tribunal de origem assim aduziu ao fixar o regime inicial do paciente:
+" ..  Todavia, de se observar que a MMª. Juíza, a fl. 2196, ao elaborar a dosimetria para o corréu Diego, corretamente o fez na primeira e na segunda fases, porém, ao final, já tendo estabelecido as penas em três anos e seis meses de reclusão, e paga de doze dias-multa, ao repeti-las, uma vez concluído o cálculo do artigo 68, do CP, fez consignar que seria a reprimenda corporal de três anos, apenas, daí porque lhe estabeleceu, como aos demais réus, que eram primários (quando ele é reincidente), o regime prisional inicial semiaberto, que aqui fica corrigido para a forma fechada, da mesma maneira que passa a ficar estabelecida a pena de três anos e seis meses, corrigindo-se mero erro material  .. " (e-STJ, fls. 46-47).
+Note-se que a pena-base foi fixada no mínimo legal diante da ausência de circunstâncias judiciais desfavoráveis, sendo que o regime inicial fechado foi estabelecido exclusivamente com base na reincidência do paciente. Contudo, faz jus o acusado à aplicação do entendimento sedimentado por esta Corte Superior, sintetizado na Súmula 269 do STJ: " é  admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+No mesmo sentido, colaciono:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO DE FIXAÇÃO DO REGIME SEMIABERTO. INCIDÊNCIA DA SÚMULA N. 269/STJ. POSSIBILIDADE.
+I - Conforme o teor da Súmula n. 269/STJ, o réu reincidente condenado a pena igual ou inferior à 4 (quatro) anos, com circunstâncias judiciais totalmente favoráveis, poderá iniciar o cumprimento da reprimenda em regime semiaberto.
+II - No caso dos autos, apesar da multireincidência específica do réu destacada pela instância de origem, é possível a fixação do regime inicial semiaberto, pois a pena-base foi fixada em seu mínimo legal, diante da ausência de circunstâncias judiciais negativas.
+Agravo regimental desprovido. (AgRg no REsp n. 1.995.789/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022; grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO TENTADO. RÉU REINCIDENTE ESPECÍFICO. SÚMULA 269/STJ. REGIME SEMIABERTO. AGRAVO NÃO PROVIDO.
+1."Consoante o entendimento desta Corte, nas hipóteses em que as circunstâncias judiciais forem favoráveis, é possível, ao réu reincidente específico, que haja sofrido a imposição de pena inferior a 4 anos, a fixação do modo semiaberto para o início de seu cumprimento. Súmula n. 269 do STJ.". (AgRg no HC 527.015/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 5/9/2019, DJe 12/9/2019).
+2. Agravo regimental desprovido. (AgRg no HC 692.780/SP, deste Relator, Quinta Turma, julgado em 19/10/2021, DJe 27/10/2021; grifou-se.)
+Ex vi do art. 580 do CPP, estendo a presente decisão ao corréu RAFAEL DIAS, por estar em idêntica situação fático- processual que o paciente.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para fixar o regime inicial semiaberto para o início do cumprimento da pena do paciente, estendendo a presente decisão, por força do art. 580 do CPP, ao corréu RAFAEL DIAS, mantidos os demais termos da condenação.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e à 2ª Vara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores da Comarca de São Paulo/SP.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
