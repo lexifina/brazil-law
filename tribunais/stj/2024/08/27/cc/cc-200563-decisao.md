@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo JUÍZO DE DIREITO DO DEPARTAMENTO DE INQUÉRITOS POLICIAIS E POLÍCIA JUDICIÁRIA DE SÃO PAULO DIPO 3, o suscitante, contra o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE ÁGUAS CLARAS - DF, o suscitado.
+A controvérsia consiste em definir o Juízo competente para o caso de inquérito policial instaurado para apurar fato delituoso no qual a vítima foi convencida, mediante fraude, a entregar cartões bancários e senhas a suposto funcionário do banco que foi até sua residência, localizada em Águas Claras-DF. Após, foram realizados saques e transferências bancárias no Estado de São Paulo.
+O Ministério Público Federal - MPF manifestou-se pela "competência do Juízo de Direito da 2ª Vara Criminal de Águas Claras/DF" (fls. 155/159), local de residência da vítima, conforme dispõe o § 4º do art. 70 do CPP.
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, I, "d", da Constituição Federal - CF.
+Consta dos autos que a vítima, após tomar conhecimento de suposta fraude em sua conta bancária, ligou para o número que acreditada ser do seu gerente. A pessoa que atendeu a ligação o instruiu a entregar os cartões bancários e fornecer as senhas ao funcionário que iria até sua residência, localizada em Águas Claras-DF. Assim foi feito, permitindo que os agentes realizassem saques e transferências na cidade de São Paulo-SP.
+O Juízo da 2ª Vara Criminal de Águas Claras-DF entendeu que, por se tratar de furto mediante fraude, a competência seria de uma das Varas da Comarca de São Paulo, onde localizavam as agências bancárias beneficiárias dos valores, conforme se extrai do seguinte trecho:
+"Trata-se de inquérito policial instaurado pela Polícia Civil do Distrito Federal em que se apura a ocorrência do delito de furto praticado mediante fraude contra Tadayasu Sakamoto.
+Consta nos autos que a vítima recebeu uma ligação e foi informada de uma suposta fraude em sua conta bancária. Desconfiada, a vítima ligou para um número que pensou ser de sua agência e conversou com um indivíduo, que se apresentou como gerente, e sugeriu que a vítima digitasse sua senha e entregasse o seu cartão a um funcionário que iria até sua residência.
+No dia 18.11.2019, a vítima recebeu a informação da Caixa Econômica Federal de que foram realizados saques em sua conta, bem como transferências bancárias, no valor total de R$ 47.203,00 (quarenta e sete mil e duzentos e três reais).
+Em manifestação, o Ministério Público salientou que o caso em tela é referente ao delito de furto mediante fraude, uma vez que a vítima foi furtada em razão da fraude empregada, razão pela qual pugnou pelo declínio de competência para uma das Varas Criminais de São Paulo/SP, considerando que as agências beneficiárias dos valores ilícitos localizam-se na cidade mencionada.
+É o relatório.
+Decido.
+Compulsando os autos, verifica-se que teria havido, por intermédio de fraude, saques e transferências de valores da conta bancária da vítima, que reside em Águas Claras/DF, para duas contas bancárias localizadas em São Paulo/SP.
+No caso em tela, a competência deve ser fixada no local da agência beneficiária dos valores ilícitos. Como, na hipótese, a subtração teria ocorrido mediante a realização de saques e transferência de valores para as agências bancárias situadas em São Paulo, local do recebimento dos valores ilícitos, seria desta Comarca a competência para processar e julgar o feito.
+Ante o exposto, acolho o parecer do Ministério Público e declino da competência em favor de uma das Varas Criminais da Comarca de São Paulo/SP." (fls. 108/109)
+Recebidos os autos, o Juízo do Foro Central Criminal Barra Funda - DIPO 3 também declarou-se incompetente, sob o argumento de que os fatos descritos no Boletim de Ocorrência "referem-se ao delito de Estelionato (art. 171 do Código Penal), cuja competência para investigação e julgamento refere-se ao local de residência da vítima" (fl. 139), nos termos do § 4º do art. 70 do CPP, in verbis:
+" ..  As investigações foram iniciadas em Brasília/DF e, com fundamento no artigo 70, §4º, do Código de Processo Penal, o juízo declinou a competência para Águas Claras/DF, uma vez que se trata do local de residência da vítima, passando-se posteriormente à redistribuição para a 2 Vara Criminal de Águas Claras/DF.
+O MM. Juiz de Direito da 2º Vara Criminal de Águas Claras/DF, por sua vez, na esteira do parecer do d. Promotor de Justiça (fls. 102/105), entendeu ser o caso de remessa dos autos a uma das Varas Criminais de São Paulo (fls. 107/108), considerando que os fatos investigados corresponderiam a furto mediante fraude, configurando-se a competência do local da agência beneficiaria pelo furto,São Paulo/SP.
+ ..
+DECIDO
+Em que pese a argumentação do Juiz de Direito da 2º Vara Criminal de Águas Claras/DF, entendo que este Juízo não é competente para a apuração dos fatos.
+Isso porque, conforme consignado no pareceres ministeriais de fls. 113/122, os fatos descritos no Boletim de Ocorrência nº15.547/2019 (fls.13/15), referem-se ao delito de Estelionato (art. 171 do Código Penal), cuja competência para investigação e julgamento refere-se ao local de residência da vítima.
+Com efeito, é possível verificar pelo depoimento da vítima (fls. 29) que os cartões e senhas não foram furtados por sua vigilância reduzida e sim entregues de próprio punho aos autores do delitos, que o induziram a erro mediante ardil, qual seja, induzir a vítima a acreditar que estava tratando diretamente com funcionário oficial do banco.
+ ..
+Ademais, mesmo que seja reconhecido o furto mediante fraude a competência, consoante jurisprudência do STJ, seria do local da agência onde o correntista possui a conta fraudada (fls.17/28):
+ ..
+Assim, no entendimento desta Magistrada, resta caracterizada a competência da 2º Vara Criminal de Águas Claras/DF, nos termos do artigo 70, §4º, do Código de Processo Penal" (fls. 139/141)
+Os fatos delineados acima apontam para a prática do delito de estelionato (art. 171 do CP), visto que os cartões e as senhas foram entregues voluntariamente pela vítima. Nesse sentido: CC n. 181.53 8/SP, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 25/8/2021, DJe de 1/9/2021.
+Dessa forma, há a incidência do disposto no § 4º do art. 70 do CPP, segundo o qual, "nos crimes previstos no art. 171 do Decreto-Lei n. 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção".
+A propósito:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. DENÚNCIA DE PRÁTICA DE ESTELIONATO. TRANSFERÊNCIA BANCÁRIA FRUSTRADA E EMISSÃO DE CHEQUE SEM SUFICIENTE PROVISÃO DE FUNDO. ART. 70, § 4º, DO CPP. COMPETÊNCIA DO DOMICÍLIO DA VÍTIMA. APLICAÇÃO IMEDIATA DA LEI PROCESSUAL AOS PROCESSOS EM CURSO. COMPETÊNCIA DE TERCEIRO JUÍZO. AGRAVO REGMENTAL PARCIALMENTE PROVIDO.
+1. Nos termos do § 4º do art. 70 do Código Penal, acrescentado pela Lei n. 14.155/2021, a competência para o processamento e o julgamento dos crimes de estelionato, quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, será definida pelo local do domicílio da vítima.
+2. Conforme orientação jurisprudencial desta Corte Superior, a lei processual tem aplicação imediata, mesmo que os fatos tenham ocorrido antes da lei nova, motivo pelo qual, diante da alteração legislativa que criou hipótese específica de competência no caso de crime de estelionato, deve ser reconhecida a competência do Juízo do domicílio da vítima.
+3. Agravo regimental parcialmente provido para declarar a competência de uma das Varas Criminais da Circunscrição Judiciária do Riacho Fundo/DF, juízo não envolvido no presente conflito.
+(AgRg no CC n. 196.475/SP, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 14/6/2023, DJe de 21/6/2023.)
+Ante o exposto, conheço do presente conflito de competência, para declarar a competência do JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE ÁGUAS CLARAS - DF , o suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
