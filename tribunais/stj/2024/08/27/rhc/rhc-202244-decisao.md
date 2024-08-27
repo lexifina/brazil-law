@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por GUSTAVO HENRIQUE NASCIMENTO LUQUETI contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2142174-61.2024.8.26.0000.
+Consta nos autos que o recorrente foi preso em flagrante, em 06/05/2024, com posterior conversão da custódia em preventiva, pela suposta prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006, em virtude da apreensão de 464g de maconha, 26g de haxixe e 8g de cocaína.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões recursais, alega-se que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Informa-se que o recorrente possui condições pessoais favoráveis.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva.
+Manifestação do Ministério Público Federal pelo não provimento do recurso ordinário (fls. 70-71).
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau, ao manter a prisão cautelar do ora paciente, ressaltou o que segue (fl. 12; grifamos):
+O crime de tráfico de entorpecentes é delito gravíssimo e que merece séria reprimenda, diante das consequências nefastas que causam à sociedade, seja com relação à saúde pública, onde se expõem pessoas inocentes a perderem sua integridade corporal diante do consumo de tóxicos, ou então em razão das demais consequências à sociedade em geral, tal como o financiamento do crime organizado ou a prática desenfreada de delitos contra o patrimônio para a aquisição de tóxicos. Em que pese a primariedade do autuado, a quantidade e a forma de acondicionamento do entorpecente apreendido, bem como as circunstâncias apuradas (local conhecido como ponto de drogas) bem indicam a prática da mercância ilícita, o que deve ser duramente combatido.
+Ressalto que primariedade e os bons antecedentes, quando cotejada com a conduta imputada, não se mostram circunstâncias suficientes a ensejar a concessão da liberdade provisória. Confira, neste sentido: STJ - " A primariedade, os bons antecedentes e a residência e domicílio no distrito da culpa são circunstâncias que não obstam a custódia provisória, quando ocorrentes os motivos que legitimaram a constrição do acusado" (JSTJ 2/267). De se esclarecer que o autuado declarou- se desempregado (fls. 20), sendo que nesta situação é evidente que voltará ao serviço do tráfico, até mesmo porque é de conhecimento público e notório que este crime enseja habitualidade, em especial diante do pronto e rápido retorno financeiro. No mais, observo que está com 18 anos de idade e ostenta duas passagens na Vara da Infância e Juventude (fls.31) por fato idêntico, o que revela sua familiariedade as práticas delitivas. Justificável, assim, a custódia cautelar para garantia da ordem pública.
+O Tribunal de origem, por sua vez, consignou que (fls. 36-41):
+3. Vê-se, pois, que a r. decisão vergastada se encontra devidamente fundamentada, tendo realçado aspectos relevantes do caso concreto (variedade e quantidade dos estupefacientes apreendidos) e do próprio paciente ("que está com 18 anos de idade e ostenta duas passagens na Vara da Infância e Juventude (fls.31) por fato idêntico, o que revela sua familiaridade as práticas delitivas") - além de, na espécie, o direito positivo vedar a liberdade provisória.
+ ..
+4. A transgressão atribuída ao increpado é demolidora da integridade moral e mental de seus desditosos alvos; submete progressivamente os incautos ao cativeiro existencial do vício morfético e ao mais deletério ócio, porque os vitimados por essa chaga praticamente conduzem sua vida produtiva ao epílogo.
+5. Em decorrência do exposto, meu voto denega a ordem.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a especial gravidade dos fatos, evidenciada pela quantidade de droga apreendida, além do fundado risco de reiteração delitiva, pois o acusado, que está com 18 (dezoito) anos de idade, possui duas passagens na Vara da Infância e da Juventude por fato idêntico.
+Tais circunstâncias demonstram a periculosidade do agente e são aptas a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+ c onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Além disso,
+ a  jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRANDE QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. REINCIDÊNCIA. BUSCA VEICULAR. DENÚNCIA ANÔNIMA ESPECIFICADA. NULIDADE NÃO EVIDENCIADA. APONTAMENTO DE ELEMENTOS CONCRETOS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Destaca-se que, "No caso, a manutenção da prisão preventiva está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pela apreensão de grande quantidade de drogas, o que justifica a segregação cautelar para garantia da ordem pública." (AgRg no HC n. 173.924/MG, relatora Ministra Laurita Vaz, Sexta Turma Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+3. Não bastasse, conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019).
+ ..
+7. Agravo regimental desprovido.
+(AgRg no HC n. 825.690/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 2/4/2024, DJe de 10/4/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Na hipótese, a Juíza singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação idônea para decretar a prisão preventiva do réu, ao salientar a gravidade concreta da conduta, caracterizada pela expressiva quantidade de droga apreendida (500 comprimidos de ecstasy), e o risco de reiteração delitiva, em razão do registro de prisão anterior pela prática do mesmo delito, ocasião em que foi beneficiado por acordo de não persecução penal.
+3. Essas circunstâncias revelam a periculosidade do agente, em razão da gravidade concreta dos fatos imputados e do risco de reiteração delitiva, dada a aparente habitualidade da conduta, situação que, por si só, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar.
+4. Por idênticos fundamentos, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+5. Agravo regimental não provido.
+(AgRg no HC n. 875.093/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
