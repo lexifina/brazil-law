@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL - MPF contra decisão proferida às fls. 358/364 em que, com fundamento na Súmula n. 568 do STJ, se conheceu do agravo e do recurso especial do agravado para dar-lhe provimento, restabelecendo a sentença absolutória.
+No presente regimental (fls. 369/374), o agravante insiste pela legitimidade da abordagem policial que culminou na prisão em flagrante do acusado em razão da traficância, crime de natureza permanente. Sustenta a impossibilidade da revisão do julgado sob pena de incidência da Súmula n. 7/STJ.
+Requer a reconsideração da decisão agravada, ou, ainda, a submissão do recurso ao colegiado para que seja desprovido o recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE TRÁFICO DE DROGAS. NULIDADE DA BUSCA PESSOAL RECONHECIDA. DENÚNCIA ANÔNIMA GENÉRICA SEM INVESTIGAÇÃO PRÉVIA. RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. NÃO INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO ESPECIAL PROVIDO. AGRAVO DESPROVIDO.
+1. Preliminarmente, não se faz incidente a Súmula n. 7/STJ, uma vez que a própria sentença e o acórdão recorrido esclareceram como teria sido efetivada a busca pessoal.
+2. Na hipótese, o TJSC cassou a nulidade da busca pessoal acolhida pelo juiz de piso ao argumento de que a denúncia teria sido específica, uma vez citado o nome do agente e a sua característica etária. Ocorre que não se trata de denúncia específica e não houve investigação prévia. O fato de o ora agravado deter idade compatível com a descrita, por si só, não constitui subsídio legal para a busca pessoal, ainda que posteriormente confirmada a prática delitiva de caráter permanente. Nulidade acolhida. Restabelecimento da sentença absolutória.
+3. Agravo regimental desprovido.
+VOTO
+O inconformismo não prospera.
+Não há razões para alterar o decisório, que fica mantido por seus próprios fundamentos.
+Consoante assinalado, o caso dos autos não revela denúncia específica, mas genérica, sem investigação prévia, de que pessoa de idade avançada estaria traficando em determinada rua sem saída. O fato de o ora agravado deter idade compatível com a descrita, por si só, não constitui subsídio legal para a busca pessoal, ainda que posteriormente confirmada a prática delitiva de caráter permanente.
+Na sentença absolutória, tal nulidade foi acolhida, nos termos seguintes:
+"a partir dessa premissa, todavia, que razão assiste defesa quando aponta a ilegalidade da busca pessoal realizada no réu e a consequente nulidade das provas decorrentes das apreensões efetivadas nesse momento (conforme jurisprudência recente do Superior Tribunal de Justiça).(..)A despeito disso, no vislumbro, no caso em análise, a existência de prévias e fundadas suspeitas que legitimassem a abordagem e a revista pessoal realizada no réu Valdecir no dia dos fatos, consoante entendimento atual do Superior Tribunal de Justiça:(..)E a tal conclusão se chega a partir das declarações dos próprios policiais militares.
+Isso porque, se os relatos dos agentes indicam que as rondas no Loteamento Souza nortearam exatamente ao acaso (pelas denúncias de tráfico que pairavam sobre o local), de seus depoimentos também se extrai que a abordagem do réu Valdecir teria sido bastante aleatória.
+Conquanto já tivessem informações de que um indivíduo de alcunha "Val" estaria traficando drogas naquela localidade, os policiais no apontaram qualquer razão concreta pela qual decidiram abordar especificamente o ora réu naquele dia, ambos relatando apenas que o viram prontamente ao adentrarem a Rua Irregular 012, encontrando-o sentado na beirada da via.
+Nenhum dos agentes descreveu qualquer atitude suspeita por parte do réu que pudesse levá-los a crer que ele estaria "na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito", não havendo informações, por exemplo, de que ele teria esboçado alguma reação inusitada na presença da guarnição, como uma tentativa de fuga ou de dispensar algum objeto como j dito, segundo os policiais, o réu estava apenas sentado perto da rua.
+E nem se diga que as informações específicas quanto ao traficante de alcunha "Val" teriam sido as razões por trás da abordagem, pois o policial militar Odair Garbila reconheceu, na fase extrajudicial, que nem sequer sabia que o indivíduo que avistara naquele momento era o dito "Val", inclusive porque não o conhecia, reforçando a conclusão no apenas quanto aleatoriedade da abordagem, mas também quanto inexistência de diligências investigativas mínimas antes dela.
+Não se nega que o patrulhamento ostensivo - que comumente envolve abordagens de indivíduos em vias públicas- inerente atividade da Polícia Militar, nos termos do art. 144, 5, da Constituição Federal.
+Contudo, por exigência legal, conforme já mencionado acima, necessário que a revista pessoal seja motivada por um mínimo de suspeitas, que podem até ser subjetivas, mas que obrigatoriamente devem ser prévias, devendo ser apenas justificadas a posteriori para fins de controle judicial.
+Da porque, aliás, se mostra irrelevante o fato de o crime de tráfico de drogas ter natureza permanente, pois, no caso em tela, como já dito, a problemática reside no fato de nenhum dos agentes ter apontado quais eram as suspeitas prévias que possuam para proceder busca pessoal do réu naquela noite, ambos relatando somente que o viram sentado nas proximidades da via pública.
+Assim, por fora dos arts.240, 2, e 244, ambos do CPP, a busca pessoal realizada na ocasião deve ser considerada ilegal" (fls. 181/184).
+O TJSC cassou a nulidade da busca pessoal ao argumento de que a denúncia teria sido específica, uma vez citado o nome do agente e a sua característica etária. Ocorre que não se trata de denúncia específica.
+Não se faz incidente a Súmula n. 7/STJ, uma vez que a própria sentença e o acórdão recorrido esclareceram como teria sido efetivada a busca pessoal. Desse modo, deve ser acolhida a nulidade da busca pessoal e restabelecida a sentença absolutória.
+Ante o exp osto, voto no sentido de desprover o agravo regimental.
