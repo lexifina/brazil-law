@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por FERNANDO MAURO DE SIQUEIRA BORGES E OUTROS, contra decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"AÇÃO RESCISÓRIA. AÇÃO DE MANDADO DE SEGURANÇA. PROVA PRÉVIA. DESNECESSIDADE. DECADÊNCIA INOCORRENTE. PROVA FALSA E ERRO DE FATO INEXISTENTES. PRETENSÃO RESCISÓRIA IMPROCEDENTE.
+1. Não é necessária prova prévia para aforamento de ação rescisória por comportar fase instrutória.
+2. Proposta a ação rescisória na vigência do CPC de 1973 e antes do vencimento do biênio previsto no art. 495, inocorreu a invocada decadência.
+3. O art. 966, VI, do CPC de 2015, admite ação rescisória quando o julgado rescindendo tiver sido fundado em prova falsa.
+4. O art. 966, VIII, do mesmo Código, abstratamente prevê o cabimento de ação rescisória se houve erro de fato no julgamento do conflito de interesses.
+5. Há utilização de prova falsa quando, ulteriormente, a falsidade estiver devidamente comprovada.
+6. Ocorre erro de fato quando se afirma fato inexistente ou é negado fato que existe.
+7. Ausentes os dois vícios, revela-se inacolhível a pretensão.
+8. Pretensão da ação rescisória julgada improcedente, rejeitada uma preliminar." (e-STJ, fls. 7813).
+Opostos embargos de declaração pela ora agravada, os mesmos foram rejeitados (e-STJ, fls. 7901/7904 e 7943/7946).
+Nas razões do recurso especial, os agravantes alegam violação aos arts. 489, §1º, inciso IV, 1022, inciso II, parágrafo único, inciso II do Código de Processo Civil de 2015, 122 e 19, §§ 1º e 7º da Lei n. 6015/73, sustentando, em síntese, (a) que o acórdão de origem foi obscuro e omisso com relação à apreciação das regras registrais, como a necessidade de certidão de documento de registro civil de pessoas jurídicas, com relação às inconsistências periciais apontadas e com relação à inexistência da revista apontada, (b) que as publicações periódicas e as empresas por elas responsáveis devem estar matriculadas no registro civil de pessoas jurídicas, (c) que a empresa apontada como responsável pela publicação não se encontra registrada e (d) que a certidão anterior não poderia ser reconhecida como válida, pois não se confunde um projeto de revista ou apanhado de artigos com revista de publicação periódica.
+Juízo negativo de admissibilidade às fls. 8019/8023.
+Interposto agravo em recurso especial às fls. 8031/8042.
+É o relatório. Passo a decidir.
+Inicialmente, afasta-se a alegada violação ao artigo 1.022, II, parágrafo II do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, em especial com relação à existência de publicação e da revista por ela responsável (e-STJ, fls. 7816/7821).
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que: "Não resta configurada nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado. Não é ele obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa de suas teses, devendo, apenas, enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no REsp n. 2.103.088/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+No tocante a suposta violação aos arts. 7º da Lei n. 6015/73 e 122 da Lei n. 6.015, a Corte de origem concluiu, diante das provas documental, pericial e testemunhal produzidas, que inexiste dúvida a respeito da existência da revista responsável pela publicação em comento e que houve a referida publicação do artigo, in verbis:
+"Anoto que o ponto controvertido da lide cinge-se em examinar se o artigo "A escritura pública e a segurança jurídica", de autoria do segundo réu, foi ou não publicado na Revista Leiditathi Cartórios, conforme o autor delimitou na petição inicial (arquivo eletrônico nº 1, f. 3).
+(..)
+Ora, o autor entende que foi utilizada prova falsa geradora de erro de fato no julgamento contido no acórdão rescindendo.
+(..)
+A prova falsa seria decorrente de não ter existido a Revista Leiditathi Cartórios nem a publicação do artigo escrito pelo segundo réu.
+Conforme exaustivamente analisado, as provas documental, pericial e testemunhal não deixam qualquer dúvida quando à existência da revista, que foi registrada na Biblioteca Nacional e no Cartório de Registro de Títulos e Documentos e Registro de Pessoas Jurídicas da Comarca de Uberlândia. E no sumário da Revista nº 1 está estampado, dentre os artigos publicados, aquele escrito pelo segundo réu. Em outras palavras, não houve utilização de prova falsa nem erro de fato no julgado que se pretende rescindir.
+Força é concluir pela impertinência da pretensão rescisória." (e-STJ, fls. 7816/7821)
+Tem-se que a revisão da conclusão a que chegou o Tribunal de origem acerca da inexistência de prova falsa ou erro de fato demandaria o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial. Incide, ao caso, a Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Muito embora a jurisprudência desta Corte restrinja, em matéria de concurso público, a substituição da banca examinadora do certame pelo judiciário, para alterar os métodos de avaliação e os critérios de correção das provas, situações concretas dos concursos públicos podem sinalizar que aspectos de legalidade foram vulnerados, exigindo o controle jurisdicional do ato administrativo. (AgInt no REsp n. 1.928.649/SC, rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/12/2021) 3. Hipótese em que a Corte de origem, ao majorar a nota da prova prático profissional da parte demandante, louvou-se nas circunstâncias fáticas delineadas no feito, de modo que o acolhimento da pretensão recursal fica obstado pelo enunciado referido.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.157.831/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Ante o exposto, conheço o agravo para conhecer parcialmente o recurso especial e, nessa extensão, negar-lhe provimento. Majoro-os os honorários sucumbenciais fixados anteriormente pelas instâncias ordinárias em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e a eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. AÇÃO RESCISÓRIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. PROVA FALSA OU ERRO DE FATO. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
