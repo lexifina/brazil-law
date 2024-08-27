@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 627/629) .
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 568):
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA DE ALUGUÉIS - INDEFERIMENTO DOS PEDIDOS DE EXCLUSÃO DE LITISCONSORTE E AUSÊNCIA DE INTERESSE DE AGIR - ART. 1.015 DO CPC - HIPÓTESES TAXATIVAS DE CABIMENTO - NÃO CONHECIMENTO PARCIAL DO RECURSO - IMÓVEL OBJETO DE HERANÇA - CONDOMÍNIO INDIVISÍVEL ATÉ A PARTILHA - DENUNCIAÇÃO DE USO EXCLUSIVO POR PARTE DOS HERDEIROS - TERMO INICIAL -MANIFESTA OPOSIÇÃO - PEDIDO DE ARBITRAMENTO DOS ALUGUÉIS NOS AUTOS DO INVENTÁRIO - DEFERIMENTO - INTERRUPÇÃO DA CONTAGEM DO PRAZO TRIENAL - PRESCRIÇÃO NÃO CARACTERIZADA - DECISÃO MANTIDA.
+- É taxativo o rol das decisões interlocutórias agraváveis. Não estando, o capítulo da decisão que rejeita as preliminares de ilegitimidade passiva e ausência de interesse de agir relacionado nos incisos ou no parágrafo único do art. 1.015 do Código de Processo Civil, contra ele não cabe agravo de instrumento.
+- Enquanto não formalizada a partilha, prevalece a composse e o condomínio indivisível dos herdeiros sobre o acervo hereditário. Por conseguinte, se determinado imóvel da herança for ocupado exclusivamente por um único herdeiro, mostra-se possível o arbitramento de alugueis em prol dos demais (art. 1.319, CC), desde que haja efetiva oposição à ocupação exclusiva.
+- Na hipótese, após a efetiva a oposição, houve pedido de arbitramento de aluguéis no bojo do inventário e, via de consequência, a interrupção da contagem do prazo prescricional, razão pela qual não se cogita da extinção da extinção da pretensão por ocorrência da prescrição trienal, prevista no art. 206, § 3º, I, do CC.
+Não foram opostos embargos de declaração ao referido acórdão.
+Nas razões do recurso especial (e-STJ fls. 599/611), fundamentado no art. 105, III, "a", da CF, a parte agravante alegou violação dos arts. 202 e 206, § 3º, I, do CC e 487, II, do CPC/2015.
+Sustenta, em síntese, que o termo inicial do prazo prescricional trienal incidente sobre a pretensão de cobrança de locativos decorrentes da fruição exclusiva de bem imóvel inventariado é a data falecimento da Sra. Natália Pia da Natividade, e não o momento em que os demais herdeiros se opuseram ao uso exclusivo do referido bem.
+Aduz, ademais, a inexistência de causa de interrupção do referido prazo prescricional.
+No agravo (e-STJ fls. 640/648), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 655/661 (e-STJ).
+É o relatório.
+Decido.
+Trata-se, na origem, de recurso de agravo de instrumento interposto por RÔMULO GUIMARÃES e MARIA EUNICE GUIMARÃES, em face da decisão proferida pelo Juízo da 2ª Vara Cível da Comarca de Campo Belo - MG, que, nos autos da ação de cobrança de aluguéis movida por ESPÓLIO DE JOSÉ LUIZ PINHEIRO e ESPÓLIO DE NATÁLIA PIA DA NATIVIDADE, representados pelo inventariante JOVIANO DUQUE PINHEIRO, contra os agravantes  em razão da utilização exclusiva de imóvel inventariado pelo herdeiro RÔMULO GUIMARÃES e sua família  , rejeitou, entre outras, a preliminar de prescrição.
+Não há controvérsia quanto ao prazo prescricional aplicável no caso ora em apreço, porquanto a pretensão relativa a aluguéis prescreve no prazo de três anos, conforme dispõe o art. 206, § 3º, I, do CC. A propósito: AgInt nos EDcl no AgInt nos EDcl no AREsp n. 2.260.926/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/10/2023, DJe de 25/10/2023; e AgInt no AREsp n. 1.714.826/SC, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/3/2021, DJe de 6/4/2021.
+Relativamente ao marco inicial dos locativos, "este Superior Tribunal de Justiça entende como devidos os aluguéis, por uso exclusivo de bem imóvel pertencente ao espólio, após a efetiva oposição, judicial ou extrajudicial, dos demais herdeiros", tendo em vista que "somente com a denúncia dos demais herdeiros e coproprietários/condôminos do espólio é  que  se encerra o comodato gratuito que antes vigorava" (AgInt no REsp n. 1.952.149/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022 - grifei).
+No mesmo sentido:
+DIREITO CIVIL. FAMÍLIA. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DO VÍCIO. INCIDÊNCIA DA SÚMULA 284/STF. AÇÃO DE INDENIZAÇÃO POR USO EXCLUSIVO DE BEM IMÓVEL RURAL. MARCO INICIAL DOS LOCATIVOS. OPOSIÇÃO DOS DEMAIS HERDEIROS INEQUIVOCAMENTE MANIFESTADA POR OUTROS MEIOS. POSSIBILIDADE.
+ ..
+2- O propósito recursal é definir, na hipótese, o marco inicial dos locativos devidos em virtude da fruição exclusiva de bem imóvel rural.
+ ..
+4- Em regra, o marco temporal para o cômputo do período a ser indenizado é a data da citação para a ação judicial de arbitramento de alugueis ou de indenização, ocasião em que se configura a extinção do comodato gratuito que antes vigorava. Precedentes.
+5- Circunstâncias específicas da hipótese que, todavia, excepcionam a regra geral, diante da presença de elementos concretos que atestam a efetiva oposição dos demais herdeiros à fruição exclusiva do bem anteriormente ao ajuizamento da ação de indenização pelo uso exclusivo do bem imóvel, aliada a comprovada procrastinação do herdeiro possuidor exclusivo do bem, também administrador provisório, em ultimar a partilha.
+6- Recurso especial parcialmente conhecido e, nessa parte, provido em parte, apenas para delimitar a data de início da incidência dos alugueis.
+(REsp n. 1.583.973/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/10/2017, DJe de 13/10/2017 - grifei.)
+Direito civil. Recurso especial. Cobrança de aluguel. Herdeiros.
+Utilização exclusiva do imóvel. Oposição necessária. Termo inicial.
+- Aquele que ocupa exclusivamente imóvel deixado pelo falecido deverá pagar aos demais herdeiros valores a título de aluguel proporcional, quando demonstrada oposição à sua ocupação exclusiva.
+- Nesta hipótese, o termo inicial para o pagamento dos valores deve coincidir com a efetiva oposição, judicial ou extrajudicial, dos demais herdeiros.
+Recurso especial parcialmente conhecido e provido.
+(REsp n. 570.723/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/3/2007, DJ de 20/8/2007, p. 268 - grifei.)
+No ponto, o Tribunal de origem concluiu que "o direito ao arbitramento de alugueis nasceu da constituição em mora dos Agravantes, ou seja, a partir da notificação extrajudicial (07/08/2013), momento no qual os Agravados demonstraram a intenção de extinguir o comodato" (e-STJ fl. 583).
+Havendo consonância entre o acórdão recorrido e o entendimento desta Corte Superior quanto à questão, incide a Súmula n. 568 do STJ.
+Por fim, é sabido que "a prescrição ocorre quando o titular do direito não exerce, no prazo legal, ação tendente a proteger tal direito" (REsp n. 822.914/RS, relator Ministro Humberto Gomes de Barros, Terceira Turma, julgado em 1/6/2006, DJ de 19/6/2006, p. 139).
+A prescrição decorre, portanto, da inércia do titular da pretensão não exercida, o que não se caracteriza no caso ora em apreço, em que, conforme consignado no acórdão recorrido, houve, no âmbito da ação de inventário, a interrupção do prazo prescricional em decorrência da formalização de pedido de arbitramento de aluguéis devidos em virtude da fruição exclusiva, pela parte agravante, de bem imóvel pertencente ao espólio , com o consequente reconhecimento, pelo Juízo da 2ª Vara Cível da Comarca de Campo Belo - MG, do direito ao pagamento dos respectivos valores. A propósito (e-STJ fls. 583/584, grifei):
+Salienta-se que no bojo do inventário nº 0064622-55.2013.8.13.0112, houve pedido arbitramento dos locatícios e o reconhecimento, por aquele juízo, do direito ao pagamento dos respectivos valores, referentes ao imóvel cuja posse é exercida exclusivamente pelos Agravantes, havendo inclusive, a instituição da quantia devida a esse título e a intimação para seu adimplemento (ID n. 9570602223). Confira-se:
+"Vistos.
+Ante a manifestação de fls. 121/122, em que alguns dos herdeiros insurgem-se quanto à necessidade de pagamento de alugueres pelo Inventariante que detém posse exclusiva do único bem imóvel deixado pelo de cujus, ao Sr. Oficial de Justiça para atribuir valor de aluguel ao imóvel declinado na fl. 07.
+Após, intime-se o inventariante para trazer aos autos a certidão atualizada do bem em apreço, expedida pelo CRI competente, assim como para efetuar o depósito judicial de 71,25 (setenta e um, vinte e cinco por cento) do valor apurado pelo Meirinho, todo dia 10 (dez) de cada mês, sob pena de arquivamento dos autos."
+Logo, o prazo para ajuizamento do feito de origem começou a fluir em 07/08/2013 e, - diante do pedido de arbitramento de aluguéis nos autos do inventário e, via de consequência, a interrupção do prazo prescricional a partir de 09/04/2015, com reinício da contagem em 01/12/2020, ou seja, após a decisão que determinou o ajuizamento da ação de cobrança em apartado (ID n. 9570602229) -, findou-se em 02/12/2023.
+Destarte, interposta a ação de origem em 03/12/2021, antes do término do prazo trienal previsto no art. 206, § 3º, I, do CC, não se cogita da extinção da pretensão por ocorrência da prescrição.
+Rever a conclusão do Tribunal a quo acerca da interrupção do prazo prescricional, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula n. 7 do STJ.
+Destaca-se que, segundo entendimento desta Corte, "somente com o trânsito em julgado da partilha é que a pretensão de arbitramento dos aluguéis por uso exclusivo é exercitável, momento a partir do qual será possível averiguar, com precisão, o direito individualizado de cada herdeiro, sendo esse, portanto, também o termo inicial para o início do prazo prescricional da ação de cobrança" (AgInt no REsp n. 1.952.149/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/8/2022, DJe de 12/8/2022).
+Confira-se ainda o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+ ..
+3. A ação de inventário previamente ajuizada era necessária para que, posteriormente, houvesse a fixação dos alugueis, em ação própria, devidos por quem usufruiu exclusivamente o bem comum, a despeito da concreta oposição dos demais herdeiros.
+ ..
+(EDcl no REsp n. 1.583.973/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/2/2018, DJe de 23/2/2018 - grifei.)
+Assim, seja em razão do exercício da pretensão no âmbito da ação de inventário e do consequente reconhecimento do direito pelo Juízo da 2ª Vara Cível da Comarca de Campo Belo - MG, seja em virtude do entendimento de que apenas após o deslinde da partilha é que se inicia o prazo prescricional da ação de cobrança de aluguéis devidos por quem usufruiu exclusivamente do bem comum, é manifesto o fato de, no caso dos autos, a pretensão de cobrança dos locativos não ter sido alcançada pela prescrição.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
