@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por ESTADO DO CEARA em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, que negou admissibilidade a recurso contra acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO. PRELIMINAR. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL COMUM PARA PROCESSAR E JULGAR O FEITO. ACOLHIDA. PERÍODO LABORAL SOB A ÉGIDE DO REGIME CELETISTA. ANTERIOR À VIGÊNCIA DO ESTATUTO DOS SERVIDORES PÚBLICOS ESTADUAIS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTE DO STF. TEMA 928 DO STF. SÚMULA 97 DO STJ. PRECEDENTES DESTE SODALÍCIO ALENCARINO. RECURSO CONHECIDO E PROVIDO. NULIDADE DA SENTENÇA. REMESSA DOS AUTOS À JUSTIÇA DO TRABALHO.  .. .
+Embargos de declaração rejeitados.
+No especial, sustentou a parte embargante que o Tribunal a quo, ao declinar da competência para a justiça especializada, não se manifestou sobre a alegação de que o pedido da parte autora abrange "período em que as servidoras passaram a ser reguladas pelo regime estatutário, e não mais pelo regime celetista".
+Após juízo negativo de admissibilidade sobreveio o presente recurso.
+É o relatório. Decido.
+Observo que deveria ter havido a manifestação expressa na origem sobre a questão suscitada, o que não ocorreu por falha do Tribunal a quo, o qual não dirimiu, como deveria, a controvérsia nos autos.
+A questão suscitada é relevante (grifo):
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. AGENTE COMUNITÁRIO DE SAÚDE. PLEITO QUE ABARCA O REGIME CELETISTA E JURÍDICO-ADMINISTRATIVO. INCIDÊNCIA DA SÚMULA 170/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso em exame, a agravante aduz que, após aprovação em processo seletivo, foi contratada como agente comunitária de saúde pelo Município de Solânea - PB, em 1998, período anterior à Lei 11.350/2006, juntando aos autos demonstrativo de pagamento dos serviços prestados, o que evidencia a existência de relação jurídico administrativa, nos termos do art. 37, IX, da Constituição Federal.
+2. No entanto, o Município editou a Lei 15/2007, de 5/11/2007, que criou empregos públicos para o Programa de Agentes Comunitários de Saúde, regidos pela CLT, e estabeleceu que os profissionais contratados antes da lei e que foram submetidos a processo seletivo enquadram-se nos empregos criados.
+3. Identifica-se, assim, a cumulação de pedidos, que envolvem períodos relativos a ambos os vínculos, estatutário e trabalhista.
+4. Nessa hipótese determina-se a aplicação do entendimento firmado pelo STJ na Súmula 170, segundo a qual: "Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio".
+5. Agravo interno improvido.
+(AgInt no CC n. 188.734/PB, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 24/4/2024, DJe de 29/4/2024.)
+Manifesta a doutrina no sentido de que
+uma corte que visa ao controle da decisão recorrida é uma corte reativa. Vale dizer: a corte desempenha um papel que pressupõe a existência de uma violação ao direito já ocorrida, sendo sua tarefa sancioná-la e, quando possível, neutralizar ou eliminar os seus efeitos mediante cassação ou reforma dessa decisão. O recurso serve para reagir a uma violação ao direito já ocorrida, perpetrada pela decisão judicial que constitui o seu objeto, sendo a atuação da corte pensada tão somente para o passado. (MARINONI, Luiz Guilherme, MITIDIERO, Daniel. Recurso extraordinário e recurso especial: do "jus litigatoris" ao "jus constitutionis"  livro eletrônico . 3. ed. rev. atual. São Paulo: Revista dos Tribunais, 2021).
+Assim, importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Revista dos Tribunais, 2012).
+Desse modo, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. RETORNO DOS AUTOS PARA REJULGAMENTO DO RECURSO INTEGRATIVO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
