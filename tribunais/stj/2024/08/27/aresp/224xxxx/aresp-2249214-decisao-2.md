@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual CENTRAIS ELÉTRICAS BRASILEIRAS S/A se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fls. 78/79):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. SENTENÇA ILÍQUIDA, NOS TERMOS DO RECURSO REPETITIVO DO E. STJ, RESP 1.147.191. RECONHECIDA A COMPLEXIDADE DOS CÁLCULOS. NECESSÁRIA LIQUIDAÇÃO. PERITO JUDICIAL. AUXILIAR DO JUÍZO. POSSÍVEL ADOÇAO. AFASTADA A ALEGACAO DE JULGAMENTO ULTRA PETITA. ACOLHIDO O PEDIDO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DO CONTRADITÓRIO E DA AMPLA DEFESA.
+1. A situação apresentada ganha especial relevo, tendo em vista o entendimento firmado no REsp 1.147.191, em julgamento submetido ao rito dos recursos repetitivos, o qual declarou que as sentenças que julgaram ações sobre empréstimos compulsórios, são "ilíquidas", sendo necessária sua liquidação.
+2. O magistrado singular determinou a liquidação do julgado e nomeou perito judicial, em razão da complexidade dos cálculos envolvidos.
+3. Nos termos do artigo 149, do CPC, o perito é auxiliar da justiça e é dotado de imparcialidade e de fé pública. Por essa razão, o montante por ela apurado, ainda que importe em pagamento de valor superior à quantia inicialmente apresentada pelos exequente, não agrava a situação da executada, tendo em vista que a confecção de cálculos objetiva apenas dar cumprimento ao título judicial transitado em julgado e, sobretudo, ao entendimento firmado, em sede de recurso repetitivo, pelo E. STJ, o que afasta eventual alegação de julgamento ultra petita.
+4. O pedido de liquidação por arbitramento foi requerido pela própria Eletrobrás, a qual, inclusive, indicou como devida a quantia de R$ R$ 4.668.159,28, a demonstrar que, de fato, os cálculos discutidos são complexos e envolvem vários indexadores e fatores técnicos para sua confeçcão.
+5. O E. STJ, também em recurso repetitivo, fixou os índices e indexadores para confecção dos cálculos, (REsp 1003955/RS, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 12/08/2009, DJe 27/11/2009)
+6. De rigor a reforma da decisão agravada, visto que o acolhimento dos valores apresentados pela exequente, antes da "necessária" liquidação de sentença seria contrário ao entendimento vinculante do E. STJ sobre o tema.
+7. Aplicação do preceituado no artigo 927, III do CPC.
+9. Contudo, observa-se que o contraditório acerca dos valores indicados pelo expert e pela executada (Eletrobrás) foi interrompido, em razão do proferimento da decisão agravada.
+10 Observados os princípios do contraditório e da ampla defesa, deve ser acolhido somente o pedido subsidiário da agravante, para reconhecer como incontroverso a quantia indicada pela Eletrobrás e, segundo ela, apurada utilizando os critérios fixados no já mencionado REsp 1003955.
+11. Agravo de instrumento parcialmente provido para acolher o pedido subsidiário, observado o entendimento firmando pelo E. STJ, nos REsp"s 1.147.191 e 1.003.955, julgados sob o rito dos recursos repetitivos, reconhecendo como incontroverso o valor indicado pela Eletrobrás (R$ 4.668.159,28).
+Os embargos de declaração opostos foram rejeitados (fls. 165/176).
+Em suas razões recursais, a parte recorrente alega que houve violação ao art. 927, III, do Código de Processo Civil (CPC).
+Sustenta que o acórdão recorrido (fls. 198/199)
+ ..  foi omisso e contraditório pois aplicou de forma incompleta o precedente vinculativo firmado no RESp 1147191/RS. De fato, a decisão recorrida não aplicou corretamente a tese de número 380 firmada pelo Superior Tribunal de Justiça, como adiante apontado.
+A tese firmada pelo Superior Tribunal de Justiça no julgamento do Resp 1147191/RS(tema 380), em regime de recursos repetitivos, estabelece o momento processual adequado para a imposição da multa prevista no parágrafo primeiro do artigo 523 do CPC na hipótese de sentenças ilíquidas - tal como ocorre no caso concreto. De acordo com o STJ as verbas do artigo 523 somente podem ser aplicadas após a liquidação do julgado.
+O erro em aplicar o precedente vinculativo se deu pelo fato de que o Tribunal, ao julgar procedente em parte ao recurso do Autor entendeu que deve ser aplicado o precedente que determina a liquidação do julgado, contudo, manteve parte da decisão do juiz de primeiro grau que aplicou a multa de 10% do artigo 523 para a Executada por não ter a mesma pago o valor cobrado pelo Exequente antes da liquidação do julgado!
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 246/255).
+O recurso não foi admitido na origem (fls. 285/287), razão da interposição do recurso ora examinado.
+É o relatório.
+Preenchidos os requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+No caso em questão, o Tribunal de origem, quando do julgamento dos embargos de declaração opostos pela parte ora recorrente, assim consignou (fls. 169/173):
+De início, deve ser asseverado que o agravo de instrumento foi interposto pela empresa Plásticos Metalma S/A contra decisão que acolheu como devido o valor indicado pela referida empresa, em sua petição inicial da fase de cumprimento de sentença, na quantia de R$ 318.637,39.
+Atente-se que não houve recurso da Eletrobrás quanto à imposição de multa e honorários advocatícios e que esta apenas na sua contraminuta requereu a manutenção da decisão agravada, asseverando que, na eventualidade do provimento do recurso, que deveria ser reformada a decisão agravada quanto à imposição da multa, prevista no artigo 523, do CPC.
+A par disso, asseverou que:
+ ..
+Com relação à questão apresentada pela Eletrobrás, repise, na sua contraminuta, o v. acórdão embargado, expressamente, asseverou que o referido pleito não poderia ser analisado, uma vez que não interposto o devido recurso, mas apenas contraminuta.
+Nesse sentido, o decisum asseverou que a Eletrobrás deveria ter se insurgido contra a condenação no tempo e modo devidos.
+Em consulta ao feito originário, constata-se que a decisão objeto do agravo de instrumento acolheu como devido o valor indicado pela exequente (R$ 318.637,39) e, na mesma oportunidade, condenou a Eletrobrás a pagar a multa de 10%, prevista no artigo 523, §1º, do CPC, "uma vez que, injustificadamente (como reconheceu depois, conforme explanado), deixou de pagar a importância pleiteada pelo exequente".
+Convém, ainda, ressaltar que a decisão objeto do agravo de instrumento ainda condenou a Eletrobrás, nos seguintes termos:
+ ..
+Observa-se, ainda, que no feito originário, a Eletrobrás opôs embargos de declaração, justamente para requerer a reconsideração quanto à condenação ao pagamento da multa, sendo que o juízo a quo, decidiu nos seguintes termos:
+ ..
+Não vislumbro qualquer omissão no v. acordão embargado, visto que a decisão objeto do agravo de instrumento não só, expressamente, condenou a Eletrobrás ao pagamento da multa e dos honorários, como também, ratificou a referida condenação por ocasião da apreciação dos embargos de declaração, consignando que a insurgência deveria ser objeto de recurso, no entanto, mais uma vez, destaco que a aqui embargante não apresentou recurso quanto à referida condenação.
+Ora, contraminuta não é recurso, não sim defesa da parte contrária quanto aos argumentos apresentados pela recorrente.
+Nesse sentido, deve ser observado que, por motivos óbvios, o recurso da empresa sequer abordou a condenação da Eletrobrás quanto ao pagamento da multa e dos honorários e que, portanto, a referida questão não poderia ser examinada por esta Corte.
+Dessa forma, forçoso concluir que o teor da peça processual demonstra, por si só, que a parte deseja alterar o julgado, em manifesto caráter infringente para o qual não se prestam os embargos de declaração, anão ser em situações excepcionais, uma vez que seu âmbito é restrito: visam suprir omissão, aclarar ponto obscuro ou, ainda, eliminar contradição ou erro material eventualmente existente em decisão, sentença ou acórdão.
+A peça recursal, todavia, não se insurge contra aquele fundamento - segundo o qual a parte recorrente não apresentou recurso contra a condenação ao pagamento da multa e dos honorários ora discutidos, e que, portanto, a aludida questão não poderia ser objeto de análise pela Corte regional, estando a contraminuta então apresentando apenas defesa contra os interesses da parte adversa, e não o devido recurso.
+A parte ora recorrente limitou-se a afirmar que (fls. 215/216):
+Esse Superior Tribunal de Justiça já deixou claro que a imposição da multa pelo artigo 523 somente pode se dá após a liquidação o mesmo pelo não pagamento no prazo legal -o que não ocorreu na hipótese dos autos. No caso concreto o Tribunal entendeu que deve ser observado a liquidação porém manteve a multa fixada pelo juiz em total desconformidade com o precedente vinculativo.
+No caso concreto o entendimento do Tribunal Regional Federal foi a de que merece a aplicação do RESp 1147191/RS contudo, de forma inexplicável, manteve a decisão do magistrado na parte em que aplicou a multado artigo 523 do CPC em contradição ao entendimento do RESp 1147191/RS. É sobre esse ponto a insurgência da ora recorrente.
+Ora, quando o Exequente recorreu do cálculo e pediu o afastamento da decisão do juiz de primeiro grau que limitou a execução do valor pedido incialmente pedido por ele, e pediu a aplicação do RESp 1147191/RS a Executada em contrarrazões apontou que se fosse aplicado o RESP 1147191/RS, não poderia ser mantida a parte da decisão que tinha interposto a multa para a Executada.
+Contudo, o E. Tribunal Regional Federal da 3ª região nesse caso concreto fez uma aplicação "picotada" do precedente vinculativo, o que não pode ser admitido.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal (STF), que estabelece: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020 - sem destaques no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018 - sem destaques no original.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
