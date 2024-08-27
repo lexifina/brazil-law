@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPRA E VENDA - CONTRATO DE FORNECIMENTO DE BENS MÓVEIS E PRESTAÇÃO DE SERVIÇOS NA REDE ELÉTRICA - AÇÃO DE RESCISÃO CONTRATUAL C.C. RESSARCIMENTO DE DANOS - SENTENÇA DE PROCEDÊNCIA - RECURSO DA CORRÉ KDL TECNOLOGIA EM ILUMINAÇÃO LTDA. EPP - AUSÊNCIA DE RECOLHIMENTO DO PREPARO - JUSTIÇA GRATUITA INDEFERIDA - INTIMAÇÃO DA APELANTE PARA RECOLHIMENTO - DESATENDIMENTO - DESERÇÃO RECURSAL - RECONHECIMENTO - RECURSO NÃO CONHECIDO. O preparo é um dos requisitos extrínsecos de admissibilidade do recurso e a sua falta ou seu recolhimento fora do prazo legal acarreta a deserção do apelo. In casu, nos termos do art. 1.007, § 4º do CPC, determinou-se o recolhimento do preparo, no prazo de 05 (cinco) dias, ante o indeferimento dos benefícios da assistência judiciária gratuita à apelante KDL. Decorrido o prazo legal sem que a determinação fosse atendida, de rigor o reconhecimento da deserção do recurso, o que conduz ao seu não conhecimento.
+PROCESSUAL CIVIL - JULGAMENTO ANTECIPADO DA LIDE - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA- PRELIMINAR REPELIDA. O juiz é o destinatário da prova e deve decidir quais provas são relevantes à formação de sua convicção, a teor do disposto nos artigos 370 e 371, do CPC. No caso, o resultado da análise das provas contrário ao interesse da parte (apelante) não pode ser confundido com violação ao contraditório e à ampla defesa. Assim, presente o requisito do art. 355, I, do CPC, de rigor o julgamento antecipado da lide.
+COMPRA E VENDA - CONTRATO DE FORNECIMENTO DE BENS MÓVEIS E PRESTAÇÃO DE SERVIÇOS NA REDE ELÉTRICA - PRODUÇÃO ANTECIPADA DE PROVAS - AÇÃO DE RESCISÃO CONTRATUAL C.C. RESSARCIMENTO DE DANOS - SENTENÇA DE PROCEDÊNCIA MANTIDA - RECURSO DA CORRÉ CELSADO BRASIL NÃO PROVIDO, COM OBSERVAÇÃO. Pertinente a decisão que declarou a rescisão do contrato firmado entre as partes e a restituição do valor pago pelos seccionalizadores à autora, não se desincumbindo a parte requerida em demonstrar a integridade dos produtos adquiridos pela Eletropaulo, nos termos do art. 373, II do Código de Processo Civil, de rigor a manutenção da sentença de procedência da ação, com observação" (e-STJ fls. 3.814/3.815).
+Os embargos de declaração opostos por Celsa do Brasil Comércio de Eletroeletrônicos Ltda. foram rejeitados (e-STJ fls. 3.847/3.850), sendo o recurso especial interposto por ela providos pelo Superior Tribunal de Justiça por reconhecimento de negativa de prestação jurisdicional, retornando os autos à origem para novo julgamento dos declaratórios que, contudo, foram rejeitados (e-STJ fls. 4.119/4.123 e 4.136/4.141).
+Já o recurso especial interposto pela recorrente não foi conhecido (e-STJ fls. 4.071/4.074).
+Em novo recurso especial (e-STJ fls. 4.143/4.162), a recorrente reitera a violação dos artigos 343 e 492 do Código de Processo Civil e 248, 368, 884, 885 e 886 do Código Civil.
+Sustenta a ocorrência de julgamento ultra petita, visto que não houve pedido de condenação de devolução dos equipamentos em pedido contraposto ou em reconvenção quando do oferecimento da peça contestatória.
+Argumenta que tal pedido não foi apreciado na sentença, tendo sido formulado apenas quando da interposição da apelação.
+Aduz que a rescisão contratual foi causada exclusivamente pela parte recorrida, de modo que não pode sofrer qualquer condenação, não havendo falar em seu enriquecimento sem causa, porquanto foi quem sofreu prejuízos com a inadimplência da parte recorrida.
+Afirma que no caso de ser mantida a condenação na devolução dos aparelhos, ou a sua conversão em perdas em danos, pugna pela possibilidade de compensação dos débitos até se equivalerem.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 4.203/4.211 ), o recurso foi inadmitido na origem, sobrevindo daí a interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação de resolução contratual c/c restituição de valores ajuizada por Eletropaulo Metropolitana Eletricidade de São Paulo S.A. em desfavor de Celsa do Brasil Comércio de Eletroeletrônicos Ltda. e KDL Tecnologia em Iluminação Ltda. EPP. objetivando a resolução do contrato celebrado entre as partes para o fornecimento de 5.000 (cinco mil) unidades do equipamento denominado Seccionalizador Automático Monofásico, fabricado pela ré Celsa, em virtude dos defeitos técnicos apresentados após iniciada a instalação.
+O magistrado de primeiro grau de jurisdição julgou pela procedência dos pedidos.
+O Tribunal de origem, por sua vez, não conheceu da apelação da KDL devido à deserção e negou provimento ao apelo da Celsa com a observação de que a autora, ora recorrente, deve devolver os equipamentos às recorridas para não causar enriquecimento sem causa ou, no caso de impossibilidade de cumprir a determinação, a obrigação deve ser convertida em perdas e danos, apurados em liquidação de sentença.
+Irresignada, a recorrente busca a reforma do julgado, sustentando que o acórdão recorrido ofendeu os artigos 343 e 492 do CPC e 248, 368, 884, 885 e 886 do Código Civil.
+Contudo, verifica-se que referidos dispositivos legais não foram objeto de debate pelo Tribunal de origem, sequer de modo implícito, e não foram opostos aclaratórios com a finalidade de sanar omissão porventura existente.
+De acordo com a jurisprudência deste Superior Tribunal, para que se configure o prequestionamento, é necessário que o Tribunal local se pronuncie especificamente sobre a matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO TARDIA DE IMPENHORABILIDADE DOS ATIVOS FINANCEIROS. PRECLUSÃO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REVISÃO DAS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL DE ORIGEM. ÓBICE DA SÚMULA 7/STJ. OFENSA AO ART. 525, § 11, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. (..) verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.455.117/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024)
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. REANÁLISE DE PROVA E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DISPOSITIVO APONTADO POR VIOLADO NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. NEGÓCIO CELEBRADO NO EXTERIOR. PESSOAS FÍSICAS. DOMICÍLIO OU RESIDÊNCIA. RELAÇÃO DE CONSUMO. COMPETÊNCIA. AUTORIDADE JUDICIÁRIA BRASILEIRA.
+(..)
+2. Verifica-se que a Corte de origem não analisou, sequer implicitamente, os arts. 23, I, e 47 do CPC; 8º e 9º da LINDB; 28 do Decreto n. 7.381/2010; e 473, 1.358-B, 1.358-C e 67-A da Lei n. 4.591/64. Incidência das Súmulas 282 e 356/STF.
+3. Se a parte recorrente entendesse haver algum vício no acórdão impugnado, deveria ter apresentado embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais. Caso persistisse tal omissão, seria imprescindível a alegação de violação do art. 1.022 do CPC, por ocasião da interposição do recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidência do intransponível óbice da ausência de prequestionamento.
+(..)
+Agravo interno improvido."
+(AgInt no AREsp n. 2.474.056/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, conheço do agravo para não conhecer o recurso especial.
+Deixo de majorar os honorários recursais nos termos do artigo 85, § 11, do Código de Processo Civil, considerando que, na origem, o pagamento dos honorários sucumbenciais ficou ao encargo da parte ora recorrida.
+Publique-se.
+Intimem-se.
+EMENTA
