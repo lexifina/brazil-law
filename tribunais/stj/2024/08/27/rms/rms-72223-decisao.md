@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por CARLA FREITAS PORTELA, com fundamento no art. 105, inciso III, alínea b, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado (fl. 1.554):
+MANDADO DE SEGURANÇA. PRELIMINAR DE DECADÊNCIA. ACOLHIDA. CONCURSO PÚBLICO. EDITAL SAEB Nº 001/2018. CANDIDATA EXCLUÍDA DO CERTAME. CLÁUSULA DE BARREIRA. TERMO A QUO. DATA DA EXCLUSÃO DA IMPETRANTE DO CERTAME. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. SEGURANÇA DENEGADA.
+1. O prazo de 120 dias para a impetração demandado de segurança no caso de insurgência contra ato de reprovação em certame, inicia-se a partir da ciência do candidato acerca da não correção de suas redações e consequente desclassificação do certame.
+2. Para fins de comprovação do termo a quo, a impetrante anexou a Portaria SHR/SAEB nº 83 (Id. 2515124), onde se evidencia que a data de publicação de sua exclusão ocorreu em 06/07/2018, de sorte que o prazo de 120 dias corridos se encerrou, visto que o presente writ fora protocolado apenas em 19/12/2018, isto é, após a consumação do prazo decadencial de 120 (cento e vinte) dias, previsto no art. 23 da Lei nº 12.016/09.
+3. Preliminar de Decadência Acolhida. Segurança Denegada.
+Nas razões de seu recurso (fls. 1580/1583), a parte recorrente afirma que, "em que pese o ato impugnado ter sido publicado em 06/07/2018, esta não foi a data de ciência, que somente ocorreu 02 (dois) meses após a sua publicação, onde a Agravante foi surpreendida com sua exclusão do certame, levando-a a buscar o presente remédio constitucional para garantir seu direito" (fl. 1.582).
+Requer "seja anulado o Acórdão de piso, reconhecendo a inocorrência de decadência, devolvendo os autos à Seção Cível de Direito Público do TJBA para que julgue o mérito do presente remédio" (fl. 1.582).
+A parte adversa não apresentou contrarrazões (fl. 1.587).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 1.595/1.602) .
+É o relatório.
+Na origem, trata-se de mandado de segurança impetrado por CARLA FREITAS PORTELA contra ato do Secretário da Administração do Estado da Bahia e do Delegado-Geral da Polícia Civil do Estado da Bahia, consubstanciado na exclusão da impetrante do Concurso Público para o cargo de Delegado de Polícia, Investigador de Polícia e Escrivão de Polícia (Edital SAEB 001/2018), por não ter sido classificada para a correção da prova subjetiva.
+O Tribunal local, acolhendo a preliminar de decadência, denegou a segurança, pois a Portaria SHR/SAEB 83, com o resultado final dos candidatos aprovados na 1ª etapa do concurso (prova objetiva), na qual não constava o nome da impetrante, foi publicada em 6/7/2018 (fl. 120), e o mandado de segurança foi impetrado em 19/12/2018, ou seja, após os 120 dias contados da ciência da sua exclusão no certame.
+O prazo para a impetração do mandado de segurança tem início na data em que o interessado toma ciência do ato impugnado, nos termos do art. 23 da Lei 12.016/2009. No caso em análise, é inequívoco que a ciência do ato se dá com a publicação do resultado da etapa correspondente à eliminação do candidato, de modo que o acórdão não merece qualquer reparo.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PROCESSO ADMINISTRATIVO DISCIPLINAR. FRAUDE EM CONCURSO PÚBLICO. IMPETRAÇÃO DO MANDAMUS FORA DO PRAZO LEGAL. ATO COMISSIVO. TERMO INICIAL. DATA DA PUBLICAÇÃO DO ATO ADMINISTRATIVO NO DIÁRIO OFICIAL. RECURSO ADMINISTRATIVO SEM EFEITO SUSPENSIVO. SÚMULA N. 430 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA. DECADÊNCIA PARA A UTILIZAÇÃO DA VIA MANDAMENTAL. MATÉRIA DE ORDEM PÚBLICA. DECLARAÇÃO DE OFÍCIO.
+I - Consoante o decidido pela 1ª Turma, na sessão realizada em 19.02.2015, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Nos termos do art. 23 da Lei n. 12.016/2009, o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.
+III - Tratando-se de ação mandamental contra ato comissivo, considera-se, como termo inicial do prazo decadencial para sua propositura, a data da ciência, ao interessado, do ato impugnado, momento a partir do qual revela-se apto à produção de efeitos lesivos à esfera jurídica do impetrante. Precedente do STF.
+IV - O manejo de pedido de reconsideração ou de recurso administrativo sem efeito suspensivo não tem o condão de suspender ou interromper o prazo para impetração da ação mandamental, consoante inteligência da Súmula 430/STF.
+V - A decadência para a impetração da ação mandamental configura matéria de ordem pública, devendo ser declarada de ofício pelo julgador, providência que não afronta o princípio da non reformatio in pejus.
+VI - Havendo pendência de demanda judicial em torno da controvérsia, nos termos dos arts. 202, I, do Código Civil e 240 do Código de Processo Civil de 2015, a contagem do prazo prescricional fica interrompida, possibilitando a posterior busca da tutela jurisdicional por meio da via ordinária.
+VII - Decadência para a impetração reconhecida de ofício e declarado extinto o processo, sem resolução de mérito.
+(RMS n. 34.879/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 15/2/2022, DJe de 7/3/2022.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+ EMENTA
