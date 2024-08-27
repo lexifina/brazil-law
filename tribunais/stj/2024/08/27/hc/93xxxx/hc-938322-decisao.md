@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de REISSON ALMEIDA ARAUJO em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim ementado:
+AGRAVO DE EXECUÇÃO PENAL - ALEGAÇÃO DE AFASTAMENTO DO DELITO DE TRÁFICO DE DROGA EQUIPARADO A CRIME HEDIONDO - INCABÍVEL - DETRAÇÃO A SER DESCONTADA SOBRE O TOTAL DE PENA PRIVATIVA DE LIBERDADE IMPOSTA AO CONDENADO - ABRANDAMENTO DO REGIME PRISIONAL DO FECHADO PARA O ABERTO E RECONHECIMENTO DO TRÁFICO PRIVILEGIADO - IMPOSSIBILIDADE -- PRETENSÃO DE PRISÃO DOMICILIAR - FILHA MENOR DE IDADE - INVIABILIDADE - AUSÊNCIA DOS REQUISITOS LEGAIS OU SITUAÇÕES EXCEPCIONAIS - AGRAVO IMPROVIDO.
+A revogação do § 2º do art. 2º da Lei nº 8.072/1990 não teve por objetivo excluir o tráfico de drogas como crime equiparado à hediondo, mas tão somente alterar as frações para a progressão de regime, até porque o supracitado delito, assim como a tortura e o terrorismo, consta na Constituição Federal, em seu art. 5º,inciso XLIII, como sendo hediondo.
+Atualmente, a matéria relativa a progressão de regime nos crimes hediondos encontra-se disciplinada apenas no art. 112, da Lei de Execução Penal, comas modificações introduzidas pela Lei nº 13.769/18 (Pacote Anticrime), estando, assim, revogada a regra anteriormente existente no § 2º, do art. 2º, da Lei nº 8.090/90.
+O desconto de tempo relativo à detração deve ser aplicado sobre o total da pena imposta ao réu, e não sobre a fração que o agravante deverá cumprir para alcançar o requisito objetivo da progressão de regime.
+O juízo da execução penal não possui competência para reexaminar matérias de reconhecimento do tráfico privilegiado e nem de abrandamento do regime prisional sem a ocorrência de qualquer situação fática inovadora, sob penal de violar o instituto constitucional da coisa julgada.
+Nos termos do art. 117, III, da LEP, o benefício da prisão domiciliar somente será admitido ao condenado com filho menor ou deficiente físico ou mental se já for beneficiário do regime aberto. Ademais, ausente qualquer situação excepcional que autorize o deferimento do pedido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que o paciente preenche os requisitos para incidência da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, devendo ser readequada a dosimetria.
+Alega que o quantum da pena aplicado autoriza a fixação do regime inicial semiaberto, bem como que, considerando a detração, o paciente já teria direito à progressão ao regime aberto.
+Aduz que o apenado estava trabalhando e estudando e que possui uma filha menor de idade, necessitando da prisão domiciliar para continuar a trabalhar.
+Requer, em suma, o reconhecimento do tráfico privilegiado, com consequente afastamento da hediondez do delito, a aplicação da detração, e a readequação do regime inicial, com a concessão da prisão domiciliar e progressão ao regime aberto.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+Do regime inicial de cumprimento da pena e do reconhecimento do tráfico privilegiado
+A defesa postula também pelo abrandamento do regime prisional, bem como pelo reconhecimento da minorante do tráfico privilegiado, o que, a meu ver, não lhe assiste razão.
+Isso porque, o agravante foi condenado a pena de 06 (seis) anos de reclusão, em regime fechado, pela prática do delito de tráfico de drogas, previsto no art. 33, caput, da Lei nº 11.343/06, cuja sentença condenatória transitou em julgado na data de 06 de junho de 2023.
+Portanto, eventual inconformismo com o cálculo de pena e o regime prisional aplicados deveriam ter sido discutidos no processo de conhecimento, através das vias recursais cabíveis, e não nos presentes autos de execução penal.
+Ademais, vale ressaltar que o juízo de execução penal não possui competência para reexaminar matéria já decidida como trânsito em julgado, ainda mais em se tratando de alteração do cálculo de pena e do regime prisional sem qualquer situação fática inovadora, o que certamente violaria o instituto constitucional da coisa julgada.
+Desse modo, a manutenção do julgado recorrido nesse ponto é a medida que se impõe.
+Da prisão domiciliar
+O apenado, ora agravante, formulou pedido de concessão do benefício de prisão domiciliar para cuidar de sua filha menor de idade.
+Extrai-se dos autos que o agravante cumpre pena privativa de liberdade de 06 (seis) anos de reclusão, em regime fechado, pela prática do crime de tráfico de substância entorpecente.
+Insta destacar que não se aplica o artigo 318, do CPP, no caso em tela, uma vez que esse dispositivo legal utiliza-se nas hipóteses de prisão preventiva ou provisória, contudo, in casu, o agravante já fora condenado e encontra-se cumprindo pena definitiva.
+Assim, no caso do agravante, o cabimento da prisão domiciliar se constitui em medida excepcional, sendo admitida somente nas restritas hipóteses previstas no artigo 117, da Lei de Execução Penal
+ ..
+A lei de regência, muito embora admita o recolhimento do condenado em residência particular na hipótese de ser genitor de filho menor, como no caso versando, condiciona a segregação domiciliar, naquela situação, apenas aos detentos que cumprem pena em regime aberto.
+Desse modo, em que pese o apenado-agravante ser genitor de uma filha menor de idade, fato é que cumpre pena no regime fechado, não havendo previsão legal para a concessão da prisão domiciliar nesse caso.
+Aliás, é bom que se diga, o agravante foi condenado pela prática do delito de tráfico de drogas, pois, a meu ver, a concessão da prisão domiciliar no caso concreto, ao invés de fortalecer os laços familiares e cumprir com o caráter preventivo e punitivo da pena, pode agravar o mau exemplo dado pelo genitor à filha menor. É a triste realidade de genuína degradação da família.
+Além do mais, é certo que o agravante não trouxe aos autos qualquer elemento apto a corroborar sua afirmação no sentido de que seria o reeducando o único responsável ou mesmo imprescindível aos cuidados da filha menor, condições estas indispensáveis ao deferimento da pretensão defensiva.
+Destarte, tenho como ausente qualquer hipótese excepcional a flexibilizar o comando do art. 117, da Lei de Execução Penal, muito menos o melhor interesse da criança ou adolescente.
+ ..
+Desse modo, não havendo razão que justifique a necessidade da concessão da prisão domiciliar, é de rigor a manutenção da decisão que indeferiu o pedido em tela (fls. 52-53).
+Do que consta dos autos, as matérias relativas ao reconhecimento da minorante do tráfico privilegiado, à aplicação da detração e à fixação de regime inicial mais brando não foram apreciadas no acórdão impugnado, o que impede a manifest ação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental provido. (AgRg no HC n. 796.267/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25/4/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS ANTECIPADAS E MONITORAMENTO ELETRÔNICO. SUPRESSÃO DE INSTÂNCIA. TUTELA COLETIVA NA VIA DO HABEAS CORPUS. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO DO AGRAVO.
+1. Inviável o exame por este Sodalício do pleito de saídas temporárias e monitoramento eletrônico, sob pena de indevida supressão de instância, uma vez que a tese não foi examinada pelo Colegiado a quo no acórdão atacado.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 766.081/SC, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 28/3/2023.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22/6/2023; RCD no HC n. 787.115/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9/3/2023; AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 6/3/2023.
+Quanto ao mais, segundo entendimento firmado pela Terceira Seção do STJ, embora exista prevista normativa na LEP estabelecendo que a prisão domiciliar somente seria cabível para os reeducandos em cumprimento de pena em regime aberto, "excepcionalmente, se admite a concessão do benefício às presas dos regimes fechado e semiaberto quando verificado pelo juízo da execução penal, no caso concreto - em juízo de ponderação entre o direito à segurança pública e a aplicação dos princípios da proteção integral da criança e da pessoa com deficiência -, que tal medida seja proporcional, adequada e necessária e que a presença da mãe seja imprescindível para os cuidados da criança ou pessoa com deficiência, salvo se a periculosidade e as condições pessoais da reeducanda indiquem que o benefício não atenda os melhores interesses da criança ou pessoa com deficiência (RHC n. 145.931/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/3/2022.)
+Por outro lado, o pai também pode se beneficiar da prisão domiciliar, desde que seus cuidados sejam comprovadamente imprescindíveis ao infante.
+Na espécie, o benefício foi afastado em razão de não ter havido a comprovação da imprescindibilidade do genitor no cuidado de sua prole, entendimento cuja reforma exigiria o reexame da prova, inviável na via estreita do habeas corpus.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
