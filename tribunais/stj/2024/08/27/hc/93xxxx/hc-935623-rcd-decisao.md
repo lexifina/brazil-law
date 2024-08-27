@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de pedido de reconsideração da decisão de minha lavra na qual foi concedida parcialmente a ordem formulada em favor de EDSON DA CONCEICAO FERREIRA (e-STJ fls. 49/53).
+Consta dos autos que o Juízo da execução indeferiu o pedido de progressão ao regime aberto por entender ausente o requisito subjetivo (e-STJ fls. 22/24).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal estadual, tendo o relator não conhecido do pedido, em decisão mantida pelo colegiado, nos termos do acórdão assim ementado (e-STJ fl. 13):
+Recurso de agravo. Hostilização de decisão monocrática do Desembargador Relator que deixou de conhecer de habeas corpus manejado, por se revelar substitutivo do recurso legalmente cabível. Writ que, originariamente, perseguia a reforma da decisão que indeferiu o pleito de progressão para o regime aberto, aduzindo, em síntese, que não houve motivação idônea. Recurso conhecido. Monocrática viável, nos termos do permissivo jurisprudencial, em nada arranhando o princípio da colegialidade. Argumentos defensivos que atacaram e não se mostram suficientes a ilidir a fundamentação da decisão vergastada. Postulação específica veiculada pela Impetração que está direcionada à reforma de decisão proferida em processo de execução de pena, ensejando que o presente writ tenha a feição de ser substitutivo do agravo cabível, inviabilizando o seu conhecimento por este Tribunal. Taxatividade do art. 197 da LEP no sentido de que "das decisões proferidas pelo Juiz caberá recurso de agravo, sem efeito suspensivo", realçando-se que "o habeas corpus não é panaceia e não pode ser utilizado como um "super" recurso, que não tem prazo nem requisitos específicos" (STJ). Daí a advertência maior do Superior Tribunal de Justiça no sentido de que, "o habeas corpus é inadequado para a revisão da negativa de concessão de benefícios relativos à execução da pena, diante da necessidade da reavaliação de aspectos fáticos e probatórios, incabíveis na via estreita do mandamus". Igualmente, não se verifica situação de estridente ilegalidade, abuso de poder ou teratologia, capaz de autorizar a expedição da ordem de ofício, nos termos do art. 654, § 2º, do CPP, e na linha da orientação do STJ.
+Desprovimento do recurso.
+Alegou a defesa que o paciente (ora requerente) preencheu os requisitos para a obtenção da progressão ao regime aberto. Afirmou que foi realizado exame criminológico e o laudo foi favorável ao benefício.
+Destacou que a falta grave citada pelas instâncias ordinárias é antiga e a longa pena a cumprir ou a gravidade abstrata dos delitos não são fundamentos idôneos para obstar a progressão.
+Requereu, em liminar e no mérito, o deferimento da progressão ao regime aberto.
+Concedi parcialmente a ordem para afastar a falta grave praticada em 2015 como fundamento para obstar a progressão de regime por ausência de requisito subjetivo, determinando nova análise pelo Magistrado de primeiro grau (e-STJ fls. 49/53).
+Nas razões do presente pedido, a defesa assevera que o Juízo das execuções descumpriu o que foi decidido no bojo desta impetração, valendo-se novamente de fundamentos inidôneos para negar a progressão de regime.
+Busca, assim, a reconsideração da decisão com a concessão da progressão ao regime aberto.
+É o relatório.
+Decido.
+A despeito do esforço da diligente defesa, não vislumbro violação ao que foi decidido na presente impetração, tendo o Magistrado de primeiro grau utilizado fundamento diverso daquele que foi afastado pela decisão de e-STJ fls. 49/53.
+Os novos motivos expostos pelo Juízo das execuções devem ser primeiramente analisados pela Corte estadual, sob pena de supressão de instância, providência vedada pela uníssona jurisprudência do Superior Tribunal de Justiça.
+À vista do exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
