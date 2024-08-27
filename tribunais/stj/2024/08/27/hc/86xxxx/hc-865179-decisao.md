@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ELIJACSON TEODORO DO NASCIMENTO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1500981-78.2022.8.26.0617).
+O paciente foi condenado à reprimenda de 05 anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa, pela prática de crime previsto no art. 33, caput, da Lei 11.343/2006 (e-STJ fls. 46).
+A apelação interposta pela defesa foi desprovida (e-STJ fls 12-30).
+Pretende, o impetrante, a aplicação da causa de diminuição de pena prevista no art. 33, §4º, da Lei 11.343/06, com a consequente alteração do regime inicial e a substituição da pena privativa de liberdade por restritiva de direito (e-STJ fls. 3-10).
+Para tanto, alega o preenchimento dos requisitos do tráfico privilegiado e que as condenações pretéritas são de datas longínquas, sendo certo que não servem para configurar a reincidência e, como isso, afastar a minorante pretendida.
+A liminar foi indeferida pelo Ministro João Batista Moreira (Desembargador convocado do TRF1), e-STJ fls. 37-39.
+As informações foram prestadas em e-STJ fls. 45-82.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, e, se conhecida, pela denegação da ordem. (e-STJ fls. 86-91)
+Intimada a se manifestar, a defesa informou que persiste o interesse no julgamento do presente habeas corpus. (e-STJ fls. 103-104)
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Passo a análise de ofício.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Consagra o § 4º, art. 33 da Lei n. 11.343/2006, que os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+A controvérsia posta em julgamento refere-se a possibilidade da utilização da reincidência, como fundamento para a não aplicação do redutor do §4º, e se a reincidência precisa ser específica.
+Esta corte possui entendimento de que a reincidência é fundamento idôneo para afastar a aplicação da minorante do tráfico privilegiado, por expressa previsão da Lei de Drogas, não sendo necessária que a reincidência seja específica.
+Nesse sentido:
+EMENTA AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. QUEBRA DA CADEIA DE CUSTÓDIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF E SÚMULA 211/STJ. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. INOCORRÊNCIA DE VÍCIOS. NECESSIDADE DE EXAME APROFUNDADO DO CONJUNTO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 7/STJ. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI N. 11.343/2006. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS EM LEI RÉU REINCIDENTE. REGIME FECHADO. POSSIBILIDADE. PENA ACIMA DE 4 ANOS DE RECLUSÃO E REINCIDÊNCIA. PERDIMENTO DE BENS. UTILIZAÇÃO NO TRÁFICO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+6. No caso, as instâncias ordinárias entenderam que, do caderno instrutório, emergiam elementos suficientemente idôneos de prova a corroborar a conclusão aposta no decreto condenatório pelo delito do art. 33 da Lei 11.343/2006, tendo em vista (i) a quantidade e variedade de drogas e a expressiva soma em dinheiro apreendidos, notadamente 8 microtubos contendo crack, com peso de 0,61g, 1 tablete de maconha, com peso de 21,62g e 1 tijolo de crack, com peso de 199,53g, além de R$ 5.389,75 em espécie, 3 celulares e 2 motocicletas; e (ii) o conteúdo das conversas captas mediante interceptação telefônica, que demonstram a função do acusado como chefe da organização criminosa voltada para o tráfico de drogas. Para desconstituir essas conclusões e decidir pela desclassificação, como requer a defesa, seria necessário o revolvimento de matéria fático-probatória, vedado em recurso especial, pelo óbice da Súmula 7/STJ.
+7. Não há nenhuma ilegalidade a ser sanada na negativa de reconhecimento do tráfico privilegiado ao agravante, ante a ausência do primeiro requisito cumulativo exigido em Lei, que é a primariedade. Por oportuno, nos termos da jurisprudência desta Corte Superior, "A reincidência, específica ou não, não se compatibiliza com a causa especial de diminuição de pena prevista § 4.º do art. 33 da Lei n.º 11.343/06, dado que necessário, dentre outros requisitos, seja o agente primário. Tal óbice e a exasperação da pena, na segunda fase, não importam em bis in idem, mas em consequências jurídico-legais distintas de um mesmo instituto" (HC n. 229.340/SP, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 5/9/2013, DJe 11/9/2013). Desse modo, qualquer tipo de reincidência impede a aplicação do referido benefício.
+8. No que tange ao regime de cumprimento de pena, em atenção ao art. 33, § 2º, do CP, embora estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, o acusado é reincidente, fundamento a justificar a manutenção de regime prisional mais gravoso, no caso, o fechado.
+9. Por fim, as instâncias ordinárias concluiram que o réu se valeu do veículo e dos aparelhos celulares para a prática do crime e, consequentemente, decretou a sua perda em favor da União.
+Para se alcançar conclusão diversa, seria imprescindível o reexame do acervo fático-probatório amealhado aos autos, procedimento vedado em recurso especial, por força da Súmula n. 7 do STJ.
+10. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.499.408/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.) (grifos acrescidos)
+Argumentou o impetrante, que condenações pretéritas, por fatos praticadas há mais de 10 anos não poderiam ser utilizadas para o reconhecimento da reincidência.
+Ocorre que, para a desconfiguração da reincidência, é preciso o decurso de prazo superior a 05 anos entre o cumprimento ou extinção da pena pretérita e o novo fato, não sendo a data do fato pretérito fator determinante para a descaracterização da reincidência, como pretende a defesa.
+Em documento apresentado na inicial de habeas corpus (e-STJ fls. 7) é possível verificar, inclusive, que o fim da execução de uma das Ações Penais que a defesa questiona a reincidência, autos n. 7000718-39.2013.8.26.0577, estava previsto para 28/03/2021 e o fato em análise ocorreu em 20 de julho de 2022, ou seja, evidente a reincidência.
+CP.
+Art. 63 - Verifica-se a reincidência quando o agente comete novo crime, depois de transitar em julgado a sentença que, no País ou no estrangeiro, o tenha condenado por crime anterior.
+Art. 64 - Para efeito de reincidência:
+I - não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 5 (cinco) anos, computado o período de prova da suspensão ou do livramento condicional, se não ocorrer revogação;
+No caso, o acórdão negou a aplicação da causa de diminuição de pena com a seguinte fundamentação (e-STJ fl. 27)
+"Na segunda fase, presente a agravante da multirreincidência devidamente documentada nos autos (fls. 47/49), a pena do réu foi elevada em 1/6, fixando-se em 5 anos e 10 meses de reclusão, e 583 dias-multa, o que, inclusive, se mostrou benéfico ao sentenciado que ostenta multirreincidência, a demandar maior reprovabilidade de sua conduta.
+Na terceira fase, ausentes causas de aumento ou diminuição, a reprimenda tornou-se em definitiva.
+A despeito da judiciosa manifestação defensiva, impossível a aplicação do redutor previsto no art. 33, §4º, da Lei nº 11.343/06 por ausência dos requisitos legais, já que multirreincidente, circunstância que obsta a incidência de tal minorante, não ensejando bis in idem a utilização concomitante da reincidência na segunda e terceira fases da dosimetria."
+Extrai-se dos autos que a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi afastada com base em elementos concretos e idôneos.
+Assim, o paciente não faz jus à aplicação da causa de diminuição de pena do art. 33, §4º, da Lei nº 11.343/06.
+Outrossim, não sendo o caso de aplicação da minorante, inviável o estabelecimento de regime prisional menos gravoso e substituição por penas restritivas de direito, pelo quantum de pena estabelecido, seguindo a disposição dos artigos 33 e 44, ambos do Código Penal.
+Verifica-se, portanto, que a fundamentação do acórdão está em consonância com a jurisprudência dessa Corte Superior, não se observando qualquer ilegalidade.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade
+Ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
