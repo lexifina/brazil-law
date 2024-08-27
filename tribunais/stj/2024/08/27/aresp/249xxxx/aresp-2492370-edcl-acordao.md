@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  (fls.  386/389)  apresentados  contra  acórdão  sintetizado  na  seguinte  ementa:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FALTA  DE  IMPUGNAÇÃO  ESPECÍFICA  DO  FUNDAMENTO  DA  DECISÃO  AGRAVADA.  ÓBICE  DA  SÚMULA  182/STJ.1.  É  inviável  o  agravo  interno  que  não  impugna  os  fundamentos  da  decisão  agravada  (Súmula  182/STJ).2.  Agravo  interno  não  conhecido.
+O  embargante  sustenta,  em  suma,  que:
+
+Todavia,  o  v.  acórdão  é  omisso  na  fixação  de  honorários  em  grau  recursal.  Vale  lembrar  que  o  processo  é  conduzido  a  longos  15anos(fl.  99),  cujo  valor  de  execução  remonta  a  R$  6.660.739,68milhões(05/2024  -  atualização  da  base).  A  fixação  de  honorários  em  grau  recursal  é  a  retribuição  do  trabalho  exercido  (princípio  da  causalidade),  isto  é,  de  remuneração  do  trabalho  adicional  do  advogado  que  venceu  em  segunda  instância.  O  retrato  da  hipótese  fática  foi  amplamente  debatido  no  julgamento  do  TEMA  1059/STJ,  oportunidade  que  se  colaciona  argumentos  apresentados  pelo  Amicus  curiae  que  demonstra  a  relevância  da  fixação  dos  honorários:
+
+Requer  sejam  acolhidos  os  embargos.
+Impugnação  às  fls.  400/401.
+  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO.  HONORÁRIOS  RECURSAIS.  ART.  85,  §  11,  DO  CPC/2015.  HONORÁRIOS  NÃO  FIXADOS  NA  CORTE  DE  ORIGEM.  IMPOSSIBILIDADE.  AUSÊNCIA  DE  OMISSÃO,  OBSCURIDADE,  CONTRADIÇÃO  OU  ERRO  MATERIAL.
+1.  Os  honorários  recursais  não  têm  autonomia  nem  existência  independente  da  sucumbência  fixada  na  origem  e  representam  um  acréscimo  ao  ônus  estabelecido  previamente,  motivo  pelo  qual,  na  hipótese  de  descabimento  ou  de  ausência  de  fixação  anterior,  não  há  que  se  falar  em  honorários  recursais  (AgInt  nos  EDcl  no  REsp  n.  2.004.107/PB,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  15/12/2022,  DJe  de  19/12/2022.).
+2.  No  mesmo  sentido:  EDcl  no  AgInt  no  REsp  n.  2.065.428/RS,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  julgado  em  4/3/2024,  DJe  de  7/3/2024;  AgInt  nos  EDcl  no  AREsp  n.  2.196.691/RJ,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  28/8/2023,  DJe  de  30/8/2023.
+3.  Não  havendo  omissão,  obscuridade,  contradição  ou  erro  material,  merecem  ser  rejeitados  os  embargos  de  declaração  opostos,  sobretudo  quando  contêm  elementos  meramente  impugnativos.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+O  recurso  não  merece  prosperar.
+
+De  acordo  com  o  artigo  1.022  do  CPC/2015,  os  embargos  declaratórios  são  cabíveis  quando  houver,  na  decisão  judicial,  obscuridade  ou  contradição,  quando  for  omitido  ponto  sobre  o  qual  deveria  se  pronunciar  o  juiz  ou  tribunal  ou  quando  vislumbrada  a  existência  de  erro  material.
+Alega  o  embargante  que  "o  v.  acórdão  é  omisso  na  fixação  de  honorários  em  grau  recursal".
+  Ocorre  que  os  honorários  recursais  não  têm  autonomia  nem  existência  independente  da  sucumbência  fixada  na  origem  e  representam  um  acréscimo  ao  ônus  estabelecido  previamente,  motivo  pelo  qual,  na  hipótese  de  descabimento  ou  de  ausência  de  fixação  anterior,  não  há  que  se  falar  em  honorários  recursais  (AgInt  nos  EDcl  no  REsp  n.  2.004.107/PB,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  15/12/2022,  DJe  de  19/12/2022.).  No  mesmo  sentido:
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  HONORÁRIOS  ADVOCATÍCIOS.  FIXAÇÃO  ANTERIOR.  AUSÊNCIA.  MAJORAÇÃO  INDEVIDA.  EMBARGOS  DE  DECLARAÇÃO  ACOLHIDOS.  1.  "Os  honorários  recursais  não  têm  autonomia  nem  existência  independente  da  sucumbência  fixada  na  origem  e  representam  um  acréscimo  ao  ônus  estabelecido  previamente,  motivo  pelo  qual,  na  hipótese  de  descabimento  ou  de  ausência  de  fixação  anterior,  não  há  que  se  falar  em  honorários  recursais."  (AgInt  nos  EDcl  no  REsp  n.  2.004.107/PB,  relator  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  15/12/2022,  DJe  de  19/12/2022.)  2.  Embargos  de  declaração  acolhidos,  com  efeitos  infringentes.  (EDcl  no  AgInt  no  REsp  n.  2.065.428/RS,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  julgado  em  4/3/2024,  DJe  de  7/3/2024.).  Grifou-se.
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  MAJORAÇÃO  EM  SEDE  RECURSAL  SEM  A  DEVIDA  FIXAÇÃO  NO  JUÍZO  A  QUO.  IMPOSSIBILIDADE.  1.  Execução  de  título  extrajudicial.  2.  A  jurisprudência  do  STJ  é  firme  no  sentido  de  que  não  incide  a  regra  do  art.  85,  §  11,  do  CPC,  que  trata  da  majoração  dos  honorários  advocatícios,  quando  o  recurso  é  interposto  contra  julgado  que  não  fixou  previamente  honorários  advocatícios,  tal  como  ocorre  na  hipótese.  3.  Agravo  interno  no  agravo  em  recurso  especial  não  provido.  (AgInt  nos  EDcl  no  AREsp  n.  2.196.691/RJ,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  28/8/2023,  DJe  de  30/8/2023.).  Grifou-se.
+Na  espécie,  não  houve  condenação  do  embargado  ao  pagamento  de  honorários  advocatícios  no  Tribunal  de  origem.  Logo,  na  ausência  de  fixação  anterior,  não  é  cabível  o arbitramento  de  honorários  recursais  no  presente  caso.
+Assim,  não  havendo  omissão,  obscuridade,  contradição  ou  erro  material,  merecem  ser  rejeitados  os  embargos  de  declaração  opostos,  sobretudo  quando  contêm  elementos  meramente  impugnativos.  Nesse  sentido:  EDcl  no  AgRg  no  Ag  1.218.989/SP,  2ª  Turma,  Rel.  Min.  Humberto  Martins,  DJe  de  7.5.2010;  EDcl  no  REsp  1.118.103/SP,  1ª  Turma,  Rel.  Min.  Teori  Albino  Zavascki,  DJe  de  20.4.2010.
+Diante  do  exposto,  REJEITO  os  embargos  de  declaração.
+É  o  voto.
