@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERGIO TOKUDA e OUTRA, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DESPESAS DE MANUTENÇÃO DE LOTEAMENTO FECHADO. INADIMPLEMENTO. ENTENDIMENTO CONSOLIDADO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM SEDE DE RECURSO REPETITIVO. ANUÊNCIA EXPRESSA. OBRIGAÇÃO PESSOAL ASSUMIDA QUE OBRIGA AO PAGAMENTO DAS CONTRIBUIÇÕES ASSOCIATIVAS. DESASSOCIAÇÃO COMPROVADA, NO ENTANTO, NÃO AFASTA O DEVER DE CONTRIBUIÇÃO. OBRIGAÇÃO DE CUSTEIO DAS DESPESAS COMUNS QUE RESULTA DOS ATOS CONSTITUTIVOS. RECURSO PARCIALMENTE PROVIDO.
+1. Inadmissível o comportamento contraditório, máxime quando comprovado nos autos que o proprietário tinha plena ciência de que o imóvel estava inserido em loteamento administrado por Associação de moradores, tendo efetuado pagamentos por vários anos.
+2. Ainda que o comprador tenha se desassociado, permanece a obrigação de contribuição das despesas de conservação, que resultam de ato constitutivo, e não mais pelo ato de associação. Inteligência do art. 1.358-A, par.2º, do Código Civil, com a nova redação dada pela Lei nº 13.465/17" (fl. 313 e-STJ).
+Nas razões recursais, os recorrentes sustentam, além da divergência jurisprudencial, violação dos artigos 5º, II e XX, da CF; 36-A da Lei nº 13.465/2017 e 926 e 927, III, do CPC. Sustentam a ilegalidade da cobrança da taxa de associação.
+Contrarrazões às fls. 515/529 e-STJ.
+É o relatório.
+DECIDO.
+A insurgência merece prosperar parcialmente .
+Com relação ao artigo 5º, II e XX, da Constituição Federal, esclareça-se que compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+No entanto, o Tribunal de origem consignou:
+"Com a devida vênia ao magistrado a quo, muito embora esteja demonstrado que o proprietário dos lotes requereu a sua "desassociação do quadro de associados" da entidade autora (págs.188/189), tal situação não exime os apelados da obrigação de pagamento das taxas de conservação dos lotes adquiridos mediante "Escritura de Venda e Compra", lavradas nas notas do 1º Tabelionato de Notas e Protesto de Letras e Títulos de Peruíbe/SP, (págs.58/139), com declaração de ciência e pleno conhecimento de que "a administração geral do loteamento Jardim São Luiz é feita pela Associação Residencial Jardim São Luiz, se considerando, portanto, associado da mesma, desde a aquisição dos lotes, estando quites até a presente data (..) e se compromete a continuar cumprindo as obrigações estabelecidas nos seus Estatutos" (pág 59 cc 66, 72, pág.141- Cláusula Quinta -Item "B" )" (fl. 315 e-STJ).
+Verifica-se que o aresto combatido encontra-se em dissonância com a jurisprudência firmada pela Segunda Seção do Superior Tribunal de Justiça no julgamento, sob o rito dos recursos especiais repetitivos, do Recurso Especial n.º 1.280.871/SP, vinculado ao Tema nº 882/STJ, o qual consolidou o entendimento no sentido de que "as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram", nos termos do acórdão assim ementado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA - ART. 543-C DO CPC - ASSOCIAÇÃO DE MORADORES - CONDOMÍNIO DE FATO - COBRANÇA DE TAXA DE MANUTENÇÃO DE NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU - IMPOSSIBILIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: "As taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram".
+2. No caso concreto, recurso especial provido para julgar improcedente a ação de cobrança" (REsp 1.280.871/SP, Rel. p/ Acórdão Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/3/2015, DJe 22/5/2015).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para afastar a cobrança das taxas de manutenção , invertidos os ônus da sucumbência.
+Publique-se.
+Intimem-se.
+EMENTA
