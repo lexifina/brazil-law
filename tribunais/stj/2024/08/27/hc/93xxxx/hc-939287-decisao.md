@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. DECISÃO QUE REALIZA PROGNÓSTICO DE PROGRESSÃO DE REGIME COM BASE NA APLICAÇÃO DE PARÂMETROS DISTINTOS (2/5 E 3/5), EM CONDENAÇÕES DA MESMA NATUREZA, DEIXANDO DE RECONHECER A REINCIDÊNCIA ESPECÍFICA DO AGRAVADO SOBRE A TOTALIDADE DAS PENAS. RECURSO DO MINISTÉRIO PÚBLICO.
+PRETENDIDA RETIFICAÇÃO DO CÁLCULO PARA A APLICAÇÃO DO PATAMAR MAIS GRAVOSO (3/5 OU 60% - ART. 112, VII, DA LEP) EM TODAS AS CONDENAÇÕES DE CARÁTER HEDIONDO E/OU EQUIPARADO. CABIMENTO. RECIDIVA ESPECÍFICA QUE ALCANÇA REFLEXOS EM TODA A EXECUÇÃO PENAL. IMPERIOSA ADEQUAÇÃO DA FRAÇÃO NA INTEGRALIDADE DAS CONDENAÇÕES DE IDÊNTICA NATUREZA.
+PRECEDENTES DO STJ E DESTA CORTE. DECISÃO REFORMADA NO PONTO. "1. HIPÓTESE EM QUE FICOU CARACTERIZADA A REINCIDÊNCIA ESPECÍFICA DO AGRAVANTE EM CRIMES HEDIONDOS OU EQUIPARADOS, A PERMITIR A APLICAÇÃO DA FRAÇÃO DE 60% PARA A PROGRESSÃO DE REGIME PRISIONAL, NÃO HAVENDO QUE SE FALAR EM PERCENTUAIS DIFERENCIADOS PARA A PRIMEIRA E TERCEIRA CONDENAÇÕES (TRÁFICO DE DROGAS E ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO)" (STJ - AGRG NO HC N. 904.725/RN, RELATOR MINISTRO ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, JULGADO EM 10/6/2024, DJE DE 14/6/2024).
+RECURSO CONHECIDO E PROVIDO.
+A defesa alega, em síntese, aplicação equivocada do percentual relativo à progressão de regime.
+Ao final, requer a concessão da ordem para obter a progressão pleiteada
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Com efeito, certo é que "a jurisprudência deste Superior Tribunal é firme em assinalar que a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios" (AgRg no HC 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022).
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o Tribunal de origem exigiu que o paciente cumprisse 60% da pena para obtenção da progressão de regime prisional, em razão dele ostentar a condição de reincidente específico na prática de crime hediondo ou equiparado.
+Aliás, esse entendimento está em consonância com a jurisprudência desta Corte. Correta, portanto, a exigência do cumprimento de 3/5 (três quintos) ou 60% (sessenta por cento) da pena para fins de progressão de regime.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CRIME HEDIONDO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE ESPECÍFICO. REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. INAPLICÁVEL. PACIENTE REINCIDENTE ESPECÍFICO. JURISPRUDÊNCIA CONSOLIDADA. AGRAVO DESPROVIDO.
+1. No julgamento do HC 613.268/SP, fixou orientação jurisprudencial no sentido de que não há como aplicar de forma extensiva e prejudicial aos reincidentes genéricos o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+2. No caso, segundo consignado no acórdão impugnado o ora paciente é reincidente específico em crime equiparado a hediondo, conforme destacado no acórdão atacado. Cabe ressaltar que é pacífico o entendimento desta Corte Superior no sentido de que o tráfico de drogas é crime equiparado a hediondo, mesmo após a edição do Lei n. 13.964/2019. Desse modo, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal.
+3. Agravo regimental desprovido.
+(AgRg no HC 729.176/SP, relator o Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/04/2022, DJe de 03/05/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. LEI N. 13.964/2019. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. APLICAÇÃO DO INCISO VII DO ART. 112 DA LEP. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A alteração promovida pela Lei n. 13.964/2019 no art. 112 da Lei de Execuções Penais estabeleceu novos lapsos para a progressão de regime.
+2. Hipótese de aplicação do percentual de 60% previsto no inciso VII do art. 112 da Lei de Execução Penal, conforme reconhecido pelas instâncias ordinárias, dado que o agravante, registrando uma condenação pelo art. 12 da Lei 6.368/76, com cumprimento de pena em 20/6/2012, veio a praticar o tráfico de drogas em 17/3/2015, com posterior condenação.
+3. Agravo regimental improvido.
+(AgRg no HC 723.863/SP, relator o Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 10/05/2022, DJe de 13/05/2022).
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
