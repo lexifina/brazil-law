@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DANIEL SOUZA MOURA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (HC n. 1015610-08.2023.8.11.0000).
+Consta dos autos que o paciente foi preso preventivamente, em 2/4/2022, e foi denunciado como incurso nos arts. 2º, § 3º, inciso I, da Lei n. 12.850/2013 e 148, § 2º, do Código Penal.
+Posteriormente, a denúncia foi aditada para incluir as condutas descritas nos art. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+O impetrante sustenta a ocorrência de constrangimento legal e ressalta nulidade do reconhecimento fotográfico, além de excesso de prazo na formação da culpa. Ao final, requer a concessão da ordem, para:
+Reconhecimento do reconhecimento fotográfico nulo, com o seu consequente desentranhamento dos autos.
+Reconhecimento do excesso de prazo prisional, excesso de prazo para análise do requerimento defensivo.
+Concessão da medida liminar com a competente expedição do Alvará de Soltura, a fim de que seja o paciente posto em liberdade, ou caso seja o entendimento de V. Exa., sem prejuízo das cautelas cabíveis, ao menos substituí-la, em análise da possibilidade, da aplicação das medidas cautelares alternativas, o remédio que garante a liberdade pessoal, impetra- se em favor de Daniel Souza Moura, seja confirmada esta ordem de HABEAS CORPUS, ao final.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do presente remédio constitucional.
+É o relatório.
+Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de Justiça, o Magistrado sentenciante julgou parcialmente procedente o pedido formulado pelo Ministério Público na inicial acusatória, sendo interposto e recebido o recurso de apelação da defesa contra essa decisão.
+Nesse contexto, tanto a alegação de ausência de fundamentos para a prisão preventiva, como a alegação de nulidade das provas, porquanto desrespeitado o disposto no art. 226 do Código de Processo Penal, encontram-se prejudicadas, porquanto analisadas pelo Magistrado sentenciante, que entendeu não ter ocorrido nenhuma ilegalidade. Com efeito, após encerrada a devida instrução processual, fundamentos diversos e complementares foram apresentados pelo sentenciante para manter a segregação do acusado e afastar a alegação de nulidade. Sendo assim, diante do novo contexto fático, parece-me evidente a perda do objeto do presente inconformismo. Os novos fundamentos expostos na sentença condenatória devem ser submetidos ao Tribunal a quo antes de serem aqui analisados, sob pena de incidir o Superior Tribunal de Justiça em indevida supressão de instância.
+No mesmo caminhar:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE HOMICÍDIO QUALIFICADO TENTADO. ARGUIÇÃO DE NULIDADE POR INOBSERVÂNCIA ÀS DISPOSIÇÕES DO ART. 226 DO CÓDIGO DE PROCESSO PENAL. PRONÚNCIA QUE SE AMPARA EM OUTROS ELEMENTOS PROBATÓRIOS AUTÔNOMOS. INDÍCIOS PROBATÓRIOS MÍNIMOS APONTADOS PELA JURISDIÇÃO ORDINÁRIA. SUPERVENIÊNCIA DE SENTENÇA PELO TRIBUNAL DO JÚRI. AGRAVO PREJUDICADO.
+1. A decisão de pronúncia é válida, pois fundamentada em prova produzida em juízo, qual seja, o depoimento da vítima que apontou o Réu como o autor do homicídio tentado, e não apenas nos depoimentos das testemunhas na fase inquisitória, que não foram reproduzidos em juízo, e no reconhecimento fotográfico extrajudicial. Inexiste, assim, nulidade capaz de ensejar a absolvição do Agravante, sobretudo após condenação pelo Conselho de Sentença, cujo prazo de impugnação sequer transcorreu, o qual reconheceu a existência de prova suficiente para a condenação.
+2. Incide a a orientação jurisprudencial desta Corte segundo a qual "a superveniência de sentença condenatória esvazia a alegação de nulidade da pronúncia" (AgRg no HC n. 429.228/PR, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/02/2019, DJe 12/03/2019; sem grifos no original).
+3. Agravo regimental prejudicado.
+(AgRg no HC n. 804.151/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+PROCESSO PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. (1) FUMUS COMISSI DELICTI. RECONHECIMENTO FOTOGRÁFICO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO QUADRO DO SUPORTE FÁTICO DA PRISÃO. ASPECTO DA IMPETRAÇÃO PREJUDICADO. (2) PERICULUM LIBERTATIS. GRAVIDADE CONCRETA. OUSADIA E AGRESSIVIDADE. RISCO DE REITERAÇÃO DELITIVA. CAUTELARIDADE. RECONHECIMENTO.
+1. A alegação de ausência do fumus comissi delicti no decreto de prisão preventiva, diante de supostos vícios no reconhecimento fotográfico, não pode ser apreciado por esta Corte dada a superverniência de sentença condenatória que, mantendo a segregação, efetiva profunda análise da prova, trazendo novo universo de cognição que não fora enfrentado pelo Tribunal a quo.
+2. A jurisprudência desta Casa entende que a gravidade concreta dos fatos confere embasamento de cautelaridade para a prisão preventiva, a título de risco para a ordem pública. In casu, além de se remeter ao risco de reiteração delitiva, em razão da extensa lista de antecedentes do paciente, aponta-se que o crime de roubo fora perpetrado com ousadia e agressividade, a cristalizar a necessidade do encarceramento.
+3. Ordem em parte prejudicada e, no mais, denegada.
+(HC n. 74.955/BA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 18/3/2010, DJe de 12/4/2010.)
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte Superior, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
