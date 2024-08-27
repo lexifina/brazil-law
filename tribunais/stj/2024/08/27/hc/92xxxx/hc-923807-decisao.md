@@ -1,0 +1,41 @@
+DECISÃO
+  Trata-se  de  habeas  corpus  , em  favor  de  MARCONES  ROZENDO  DA  SILVA  , impetrado  contra  o  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  ALAGOAS  proferido  na  Apelação  Criminal  n.  0700461-98.2018.8.02.0023.
+Consta  dos  autos  que  o  paciente  foi  condenado  à  pena  de  16  (dezesseis)  anos  e  07  (sete)  meses  de  reclusão,  em  regime  inicial  fechado,  como  incurso  nos  arts.  121,  § 2º,  IV,  e  129,  ambos  do  Código  Penal  Brasileiro.
+Em  sede  de  apelação,  a  Corte  estadual  negou  provimento  ao  recurso  defensivo.
+Os  embargos  de  declaração  opostos  pela  Defesa  foram  parcialmente  acolhidos,  sem  efeitos  infringentes  (fls.  172-173).
+  Neste  writ,  o  impetrante  sustenta  a  ocorrência  de  constrangimento  ilegal  na  fixação  da  pena-base,  porquanto  valorados  maus  antecedentes  em  virtude  do  reconhecimento  de  condenação  por  fato  posterior  ao  delito.
+Requer  a  concessão  da  ordem  para  redimensionamento  da  dosimetria,  nos  termos  da  impetração.
+Informações  prestadas  às  fls.  193-201.
+Parecer  do  MPF  às  fls.  207-210,  opinando  pela  concessão  da  ordem.
+É  o  relatório.
+DECIDO.
+O  Juízo  sentenciante  fundamentou  a  exasperação  da  pena-base  assente  nas  seguintes  razões  (fl.  116):
+Por  sua  vez,  há  notícia  nos  autos  de  maus  ANTECEDENTES,  uma  vez  que  há  condenação  pré-existente,  nos  autos  de  número  0727472-71.2018.8.02.0001,  pelo  crime  de  homicídio  qualificado.
+O  acórdão  impugnado  manteve  a  dosimetria  fixada  na  sentença  nos  seguintes  termos  (fls.  82/85):
+No  entendimento  dos  antecedentes  como  circunstância  judicial  influenciadora  da  pena,  Luiz  Otávio  Resende  e  Fabrício  Castagna  Lunardi,  clarificam  que:  Os  antecedentes  do  réu  constitui  circunstância  judicial  que  se  refere  a  prática  ou  não  de  outras  condutas  criminosas  do  réu,  ocorridas  antes  do  fato  criminoso  que  está  considerando  2.
+O  magistrado  de  primeiro  grau  fundamentou  da  seguinte  forma:
+Por  sua  vez,  há  noticia  nos  autos  de  maus  ANTECEDENTES,  uma  vez  que  há  condenação  pré-existente.  nos  autos  de  número
+0727472-71.2018.8.02.0001.  pelo  crime  de  homicídio  qualificado.
+Assim,  acertada  a  valoração  negativa  de  tal  circunstância,  razão  por  que  deve  ser  mantida.
+Ocorre  que  a  guia  de  execução  do  processo  utilizado  para  negativar  os  maus  antecedentes  do  réu  (Autos  n.  0727472-71.2018.8.02.0001,  fl.  137)  indica  o  dia  15/07/2018  como  data  da  prática  do  fato  criminoso,  sendo,  portanto,  posterior  ao  crime  apurado  na  ação  penal  de  referência,  que  foi  praticado  em  18/6/2018.
+De  acordo  com  a  jurisprudência  pacífica  desta  Corte  Superior,  condenações  por  delito  praticado  em  data  posterior  à  do  crime  em  julgamento  não  podem  ser  utilizadas  para  valorar  negativamente  os  antecedentes  do  acusado.
+Confira-se:
+PENAL.  HABEAS  CORPUS  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  INADEQUAÇÃO.  HOMICÍDIO  DUPLAMENTE  QUALIFICADO.  DOSIMETRIA.  CULPABILIDADE.  MOTIVOS.  CONSEQUÊNCIAS.  PERSONALIDADE.  ANTECEDENTES.  COMPORTAMENTO  DA  VÍTIMA.  CARÊNCIA  DE  MOTIVAÇÃO  IDÔNEA  PARA  A  ELEVAÇÃO  DA  PENA-BASE.  VALORAÇÃO  DA  QUALIFICADORA  REMANESCENTE  COMO  CIRCUNSTÂNCIA  JUDICIAL  DESABONADORA.  POSSIBILIDADE.  AGRAVANTE  DA  REINCIDÊNCIA  AFASTADA.  REPRIMENDA  REVISTA.  WRIT  NÃO  CONHECIDO  E  ORDEM  CONCEDIDA  DE  OFÍCIO.
+1.  Esta  Corte  e  o  Supremo  Tribunal  Federal  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+2.  A  individualização  da  pena  é  submetida  aos  elementos  de  convicção  judiciais  acerca  das  circunstâncias  do  crime,  cabendo  às  Cortes  Superiores  apenas  o  controle  da  legalidade  e  da  constitucionalidade  dos  critérios  empregados,  a  fim  de  evitar  eventuais  arbitrariedades.
+Destarte,  salvo  flagrante  ilegalidade,  o  reexame  das  circunstâncias  judiciais  e  dos  critérios  concretos  de  individualização  da  pena  mostram-se  inadequados  à  estreita  via  do  habeas  corpus,  pois  exigiriam  revolvimento  probatório.
+3.  As  instâncias  ordinárias  limitaram-se  a  afirmar  que  a  culpabilidade  do  agente  foi  acentuada,  sem  terem  declinado  qualquer  motivação  concreta  ao  sopesar  como  negativos  os  motivos  e  as  consequências  do  crime.  Com  efeito,  a  jurisprudência  desta  Corte  é  firme  no  sentido  de  que  considerações  genéricas  e  desvinculadas  do  contexto  fático  dos  autos,  assim  como  elementos  inerentes  ao  próprio  tipo  penal  não  servem  para  o  agravamento  da  pena,  como  se  constata  na  espécie.
+4.  O  comportamento  da  vítima  é  circunstância  judicial  ligada  à  vitimologia,  que  deve  ser  necessariamente  neutra  ou  favorável  ao  réu,  sendo  descabida  sua  utilização  para  incrementar  a  pena-base,  devendo,  portanto,  ser  afastado  o  incremento  da  pena  pela  referida  vetorial.  De  fato,  se  não  restar  evidente  a  interferência  da  vítima  no  desdobramento  causal,  como  ocorreu  na  hipótese  em  análise,  essa  circunstância  deve  ser  considerada  neutra.
+5.  Simples  anotações  na  folha  de  antecedentes  criminais,  conquanto  possam  desabonar  o  comportamento  da  vítima,  não  demonstram  que  ela  concorreu,  de  alguma  maneira,  para  a  sua  morte,  sendo  descabido  falar  em  valoração  favorável  da  referida  circunstância  judicial.
+6.  Ainda  que  o  agente  possua  vasto  histórico  criminal,  com  diversas  condenações  transitadas  em  julgado,  elas  devem  ser  divididas  para,  na  segunda  fase  da  dosimetria,  configurar  a  reincidência  e,  na  primeira  etapa,  serem  sopesadas  apenas  como  maus  antecedentes,  sob  pena  de  bis  in  idem,  não  restando,  no  caso,  justificado  o  aumento  da  pena  a  título  de  personalidade.
+7.  A  pacífica  a  jurisprudência  desta  Corte  Superior  de  Justiça  e  do  Supremo  Tribunal  Federal  no  sentido  de  que  inquéritos  e  processos  penais  em  andamento,  ou  mesmo  condenações  ainda  não  transitadas  em  julgado,  não  podem  ser  negativamente  valorados  para  fins  de  elevação  da  reprimenda-base,  sob  pena  de  malferimento  ao  princípio  constitucional  da  presunção  de  não  culpabilidade.  A  propósito,  esta  é  a  orientação  trazida  pelo  enunciado  na  Súmula  444  desta  Corte:  "É  vedada  a  utilização  de  inquéritos  policiais  e  de  ações  penais  em  curso  para  agravar  a  pena-base."
+8.  Fatos  posteriores  aos  apurados  nos  autos  não  podem  ser  valorados  na  dosagem  da  pena,  devendo,  portanto,  ser  afastada,  de  igual  modo,  a  valoração  negativa  dos  antecedentes.
+(..)
+12.  Writ  não  conhecido.  Ordem  concedida,  de  ofício,  a  fim  de  reduzir  a  pena  do  crime  de  homicídio  duplamente  qualificado  a  14  anos  e  3  meses  de  reclusão,  ficando  mantido,  no  mais,  o  teor  do  decreto  condenatório.  (HC  n.  542909 / ES  ,  relator  Ministro  Ribeiro  Dantas  ,  Quinta  Turma,  julgado em  12/05/2020  ,  DJe  de  18/05/2020).
+Estabelecidas  essas  premissas,  passo  à  reforma  da  pena.
+Na  primeira  fase  da  dosimetria  penal,  ausentes  circunstâncias  judiciais  negativas,  fixo  a  pena-base  no  mínimo  legal,  correspondente  a  12  (doze)  anos  de  reclusão.
+Na  segunda  fase,  inexistindo  atenuante  ou  agravante  de  pena,  a  pena  intermediária  fica  mantida  em  12  (doze)  anos  de  reclusão.
+Na  terceira  fase  da  dosimetria,  considerando  o  concurso  formal  com  o  crime  de  lesão  corporal,  mantenho  o  aumento  na  razão  de  1/6  (um  sexto),  ficando  a  pena  do  paciente  definitivamente  fixada  em  14  (quatorze)  anos  de  reclusão.
+Ante  o  exposto,  concedo  a  ordem  de  habeas  corpus  para  reformar  a  pena  do  paciente  nos  termos  desta  decisão.
+Publique-se.  Intimem-se.
+EMENTA
