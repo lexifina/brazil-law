@@ -1,0 +1,16 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MC MULLER REPRESENTACAO COMERCIAL LTDA contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: monitória, ajuizada pelo banco agravado, em face dos agravantes, devido ao inadimplemento do contrato de abertura de crédito fixo celebrado entre as partes, na qual pleiteia seja expedido mandado de pagamento no valor de R$ 251.494,89 (duzentos e cinquenta e um mil, quatrocentos e noventa e quatro reais e oitenta e nove centavos).
+Acórdão: negou provimento às apelações interpostas pela parte agravante, nos termos da seguinte ementa:
+Apelação. Contratos Bancários. Ação Monitória. Sentença que rejeitou ambos os embargos monitórios e julgou procedente a ação, constituindo título executivo. Apelação da parte ré. Preliminares de cerceamento de defesa e de inépcia da inicial afastadas. Ação monitória fundada em Cédula de Crédito Bancário e demonstrativo do débito. Súmula 247 do C. STJ. Apuração do débito independe de perícia contábil, sendo auferível mediante simples cálculos aritméticos tendo por base os encargos contratuais e o período de inadimplência. Cláusula contratual que prevê expressamente a renúncia ao benefício de ordem dos fiadores. Ausência de indícios concretos da existência de vício do consentimento. Contrato de adesão que, por sí só, não o torna abusivo. Pedido reconvencional que não guarda conexão com a ação principal, além de ter sido objeto de discussão em demanda diversa. Adequada a rejeição. Sentença mantida. Honorários recursais majorados. Preliminares Rejeitadas.
+Recursos não providos. (e-STJ Fl. 1.103)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não foi demonstrada a violação dos dispositivos arrolados (incidência da Súmula 284/STF) e ii) incidência das Súmulas 5 e 7, ambas do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que as razões recursais foram devidamente fundamentadas, de modo que a incidência da Súmula 284/STF à hipótese dos autos se revela indevida. Afirma, de forma genérica, que a análise dos razões expostas no apelo especial independe do revolvimento do acervo fático-probatório carreado aos autos.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: incidência das Súmulas 5 e 7, ambas do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente para 15% sobre o valor atualizado da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
