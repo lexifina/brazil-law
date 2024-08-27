@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto por NEUZA DE OLIVEIRA LANDGRAF, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 222/223):
+APELAÇÃO CÍVEL. PENSÃO ESPECIAL. VIÚVA DE MAGISTRADO. Lei 7.301/73 REVOGADA PELA LEI 3.309/99. FALECIMENTO ANTERIOR À REVOGAÇÃO DA LEI. DIREITO À INTEGRALIDADE E PARIDADE. SENTENÇA DE IMPROCEDÊNCIA. DESACERTO DA DECISÃO.
+Apelação cível interposta contra sentença que julgou improcedente o pedido de revisão de pensão de viúva de magistrado, que teve o seu pleito de integralidade do benefício negado na sentença recorrida.
+Pensão percebida pela autora que se originou na Lei Estadual 7.301/73, que instituiu pensão especial para os beneficiários de servidores públicos que contribuíssem, de forma voluntária, para um fundo de reserva.
+Lei Estadual 3309/99 que extinguiu a espécie da pensão prevista na lei 7.301/73, mantida apenas para os beneficiários que já a recebiam.
+Óbito ocorrido em data anterior à revogação da lei, implementando-se o termo necessário para a incorporação a pensão ao patrimônio da beneficiária.
+Unificação da pensão da autora, que passou a ser regida pela lei 3.309/99, administrada pelo regime de previdência dos servidores estaduais- Rioprevidência, possuindo natureza previdenciária (e não securitária) e regida pelas normas de direito público.
+Emenda Constitucional nº 20/98, introduzindo nova redação ao art. 40, § 7º, estabelecendo a integralidade quanto às pensões em relação aos vencimentos do servidor se estivesse em atividade.
+Emenda constitucional nº 41/2003 que ao alterar o cálculo das pensões por morte, assegurou às pensões já concedidas na data de sua publicação a referida integralidade (art. 7º).
+Pensionamento da apelante, a partir desta nova sistemática, que deve observar a integralidade dos vencimentos, para efeitos de atualização, valendo salientar, inclusive, que a recorrente vem sofrendo descontos previdenciários selo sistema geral de previdência pública do Estado do Rio de Janeiro.
+Pensionista que faz jus ao percebimento integral do seu benefício, no equivalente a 100% dos vencimentos do ex-servidor, se vivo fosse, respeitado o teto constitucional.
+RECURSO PROVIDO.
+Os embargos de declaração opostos foram parcialmente acolhidos nestes termos (fls. 279/280):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. PENSÃO ESPECIAL. VIÚVA DE MAGISTRADO. Lei 7.301/73 REVOGADA PELA LEI 3.309/99. FALECIMENTO ANTERIOR À REVOGAÇÃO DA LEI. DIREITO À INTEGRALIDADE E PARIDADE. SENTENÇA DE IMPROCEDÊNCIA. REFORMA. PRAZO PRESCRICIONAL QUE SEGUE O QUINQUÊNIO ANTERIOR AO AJUIZAMENTO DA AÇÃO. JUROS E CORREÇÃO MONETÁRIA NOS MOLDES DO TEMA 810 DO E. STF E EC 113/2021. HONORÁRIOS SUCUMBENCIAIS SOBRE O VALOR DA CONDENAÇÃO.
+Embargos de declaração opostos contra acórdão que deu provimento a apelo, ao percebimento integral do seu pensionamento, determinando o pagamento da pensão a viúva de magistrado no equivalente a 100% dos vencimentos do ex-servidor, se vivo fosse, respeitado o teto constitucional, observadas a integralidade e paridade e respeitado o teto constitucional.
+Pensão percebida pela autora que se originou na Lei Estadual 7.301/73, que instituiu pensão especial para os beneficiários de servidores públicos que contribuíssem, de forma voluntária, para um fundo de reserva.
+Lei Estadual 3309/99 que extinguiu a espécie da pensão prevista na lei 7.301/73, mantida apenas para os beneficiários que já a recebiam.
+Óbito ocorrido em data anterior à revogação da lei, implementando-se o termo necessário para a incorporação a pensão ao patrimônio da beneficiária.
+Unificação da pensão da autora, que passou a ser regida pela lei 3.309/99, administrada pelo regime de previdência dos servidores estaduais- Rioprevidência, possuindo natureza previdenciária (e não securitária) e regida pelas normas de direito público.
+Emenda Constitucional nº 20/98, introduzindo nova redação ao art. 40, § 7º, estabelecendo a integralidade quanto às pensões em relação aos vencimentos do servidor se estivesse em atividade.
+Emenda constitucional nº 41/2003 que ao alterar o cálculo das pensões por morte, assegurou às pensões já concedidas na data de sua publicação a referida integralidade (art. 7º).
+Pensionamento da apelante/embargante, a partir desta nova sistemática, que deve observar a integralidade dos vencimentos, para efeitos de atualização, valendo salientar, inclusive, que a recorrente vem sofrendo descontos previdenciários selo sistema geral de previdência pública do Estado do Rio de Janeiro.
+Pensionista que faz jus ao percebimento integral do seu benefício, no equivalente a 100% dos vencimentos do ex-servidor, se vivo fosse, respeitado o teto constitucional.
+Honorários sucumbenciais em favor da autora que devem ser fixados em 10% do valor da condenação, ao invés do valor da causa.
+Pagamento das parcelas pretéritas que deve respeitar o prazo prescricional quinquenal anterior ao ajuizamento da ação, com incidência de juros de mora segundo o índice de remuneração da caderneta de poupança e correção monetária com base no IPCA-E, consoante teses jurídicas fixadas no julgamento do RE nº 870.947- SE, em sede de repercussão geral (Tema nº 810), no tocante às parcelas anteriores à 09/12/2021, data em que foi publicada a Emenda Constitucional 113/2021, que determinou a incidência da taxa Selic.
+EMBARGOS DECLARATÓRIOS PARCIALMENTE PROVIDOS.
+Em suas razões recursais, a parte recorrente sustenta a violação dos arts. 2º e 9º do Decreto 20.910/1932, 202, I, do Código Civil (CC) e 240 do Código de Processo Civil (CPC). Alega, para tanto (fls. 305/309):
+28. O ponto jurídico objeto do presente recurso envolve a interrupção do prazo prescricional considerando que a Sra. Neuza Landraf, ora Recorrente, ajuizou demanda idêntica ao processo, tombado sob o nº 0217066- 45.2016.8.19.0001 e movido em face do Estado do Rio de Janeiro, a qual fora distribuída em 30.06.2016 e com citação válida em 27.07.2016.
+29. Como visto, o referido processo fora extinto sem resolução do mérito, em razão da ilegitimidade passiva do Estado do Rio de Janeiro, entendendo-se que seria o RioPrevidência quem deveria figurar exclusivamente no polo passivo.
+ ..
+30. Ocorre, Excelências, que a citação válida no processo movido preteritamente pela ora recorrente e extinto sem resolução de mérito por ilegitimidade, mas em que ocorreu a citação válida, interrompeu a prescrição
+ ..
+32. No entanto, o fato de a ora ré no presente caso não ter integrado a lide da ação anteriormente ajuizada, qual seja, processo nº 0217066- 45.2016.8.19.0001 em nada interfere na necessidade de observância de seu ajuizamento para incidência do cálculo prescricional quinquenal.
+33. Isso porque, em outras oportunidades já manifestou este e. STJ que o fato de a ação anterior ter sido extinta por ilegitimidade passiva (e, consequentemente, sem a parte legítima figurar no processo), não impede a consideração da ação pretérita como marco para o cálculo da prescrição quinquenal.
+A parte adversa apresentou contrarrazões (fls. 326/335).
+O recurso foi admitido na origem (fls. 337/345).
+É o relatório.
+O Tribunal de origem assim se manifestou acerca da controvérsia relativa à prescrição (fl. 282):
+Do mesmo modo, deve ser esclarecido que o pagamento das parcelas pretéritas deve respeitar o prazo prescricional quinquenal anterior ao ajuizamento da ação.
+Nesse ponto, não merece acolhimento a pretensão da embargante para que o prazo prescricional retroaja à anterior ação movida em face do Estado do Rio de Janeiro 0217066-45.2016.8.19.0001 (distribuído em 30.06.2016), que foi julgado extinto sem julgamento do mérito com base na ilegitimidade passiva.
+Isso porque não há que se falar em interrupção do prazo pela citação válida ocorrida naquele feito, considerando que o Fundo Único de Previdência Social do Estado do Rio de Janeiro- Rioprevidência não integrou a referida demanda.
+Ressalta-se que o julgado do E. STJ mencionado pela embargante - Resp 1679199/SP - no qual foi decidida pela interrupção do prazo prescricional por demanda anterior julgada extinta sem julgamento do mérito em face de litisdenunciada, o prazo retroagiu ao ajuizamento da referida demanda, considerando que a litisdenunciada foi citada naquele feito, ou seja, ela integrou a referida demanda.
+No caso dos autos, o Fundo Único de Previdência Social do Estado do Rio de Janeiro- Rioprevidência não chegou a participar da demanda anterior, razão pela qual não há que se falar em interrupção do prazo a partir daquele ato.
+Verifico que a conclusão adotada pelo Tribunal de origem no sentido de que " ..  não há que se falar em interrupção do prazo pela citação válida ocorrida naquele feito  0217066-45.2016.8.19.0001 , considerando que o Fundo Único de Previdência Social do Estado do Rio de Janeiro- Rioprevidência não integrou a referida demanda" (fl. 282) não está em consonância com a jurisprudência do STJ sobre o tema. Isso porque esta Corte Superior possui o entendimento de que a citação válida interrompe o prazo prescricional e retroage à data da propositura da ação, mesmo que ocorra em processo extinto sem julgamento do mérito em decorrência da ilegitimidade da parte. Confiram-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PROCESSO EXTINTO POR ILEGITIMIDADE DE PARTE. CITAÇÃO VÁLIDA. EFEITO INTERRUPTIVO DA PRESCRIÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A citação válida é apta a interromper a prescrição, ainda que o processo tenha sido extinto por ilegitimidade da parte, ressalvando-se apenas as causas de inércia do autor, previstas no art. 267, II e III, do CPC/73. Precedentes.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.725.885/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/6/2018, DJe de 18/6/2018.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IRPF. AÇÃO DE REPETIÇÃO DE INDÉBITO. SERVIDOR ESTADUAL. AJUIZAMENTO NA JUSTIÇA FEDERAL, CONTRA A FAZENDA NACIONAL. EXTINÇÃO POR ILEGITIMIDADE PASSIVA. NOVO AJUIZAMENTO NA JUSTIÇA ESTADUAL. PRESCRIÇÃO. APROVEITAMENTO DA CITAÇÃO VÁLIDA REALIZADA NA JUSTIÇA FEDERAL. POSSIBILIDADE.
+1. Trata-se de Ação de Repetição de Indébito promovida por servidores estaduais, discutindo a não incidência de IRPF sobre parcela de sua remuneração.
+2. Originalmente, o feito foi promovido na Justiça Federal, porque foi indicada a Fazenda Nacional para ocupar o polo passivo. Extinto o feito em razão da ilegitimidade passiva, a demanda foi ajuizada na Justiça Comum, desta vez contra o Estado do Paraná.
+3. O acórdão hostilizado decretou a prescrição, considerando que a citação válida somente interrompe a prescrição, na forma do art. 219 do CPC/1973, se, ainda que ordenada por juiz incompetente, for validamente promovida, ou seja, contra o réu corretamente indicado.
+4. A orientação acima destoa da jurisprudência do STJ, segundo o qual a citação válida interrompe a prescrição, mesmo quando envolver parte ilegítima, excetuando-se, apenas, os casos em que o feito é extinto sem resolução do mérito por abandono da parte.
+5. Superado o entendimento adotado no acórdão hostilizado, deve o feito retornar à origem para prosseguimento da análise da Apelação, considerando-se, para efeito da interrupção da prescrição, a citação promovida na demanda que tramitou na Justiça Federal.
+6. Recurso Especial provido.
+(REsp n. 1.668.107/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2017, DJe de 30/6/2017.)
+Sendo assim, a pretensão recursal merece acolhimento, devendo o prazo prescricional relativo ao pagamento das parcelas pretéritas retroagir à anterior ação movida contra o Estado do Rio de Janeiro (0217066-45.2016.8.19.0001 - distribuída em 30/6/2016), que foi julgada extinta sem julgamento do mérito com base na ilegitimidade passiva.
+Ante o exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
