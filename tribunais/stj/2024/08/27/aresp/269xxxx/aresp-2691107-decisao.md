@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por RENATO LUIZ MICHELON, em face de decisão que não admitiu recurso especial da parte ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 1841, e-STJ):
+APELAÇÃO CÍVEL. SEGUNDA FASE DA AÇÃO DE EXIGIR CONTAS. FUNDO 157. AUSÊNCIA DE IMPUGNAÇÃO ESPECIFICADA AOSCÁLCULOS APRESENTADOS PELA INSTITUIÇÃO FINANCEIRA. HOMOLOGAÇÃO NA ORIGEM MANTIDA NESTE GRAU DEJURISDIÇÃO.
+Consoante lição do artigo 550, §3º, do cpc, a impugnação às contas apresentadas pelo réu deve ser feita de modo fundamentado e específico. No caso dos autos, o autor não se desincumbiu de seu encargo. Sentença que se formaliza nesse sentido que vai mantida. Majoração dos honorários. Possibilidade.
+APELO DESPROVIDO.
+Nas razões do recurso especial (fls. 1.899/1.943, e-STJ), a parte insurgente apontou violação aos seguintes artigos: a) 1.022, II, do CPC, sustentando omissão quanto ao ônus de provar os valores investidos, acerca da insuficiência da indicação dos rendimentos, bem como quanto à existência de impugnação específica das contas; b) 6º, VIII, do CDC e 373, I, 551, caput e § 1º, do CPC, ao argumento da necessidade da parte recorrida comprovar os valores investidos, por meio da juntada da integralidade dos extratos bancários, não sendo suficiente a mera informação dos rendimentos para a prestação de contas.
+Contrarrazões às fls. 1949/1967, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 1970/1978, e-STJ), dando ensejo na interposição do presente agravo (fls. 1.985/2.018, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 2025/2037, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a parte insurgente alega vulneração do artigo 1.022, II, do CPC, sustentando omissão quanto ao ônus de provar os valores investidos, acerca da insuficiência da indicação dos rendimentos, bem como quanto à existência de impugnação específica das contas.
+Acerca da controvérsia, o Tribunal local assim decidiu (fl. 1839, e-STJ):
+Como estamos diante de fundo de investimento submetido a risco, em que a posição de cada investidor se dá 1. pelo número de cotas que possui e 2. pelo valor da cota na data, ambos demonstrados a contento nas contas julgadas boas, resta afastada a pretensão do apelante neste sentido.
+A somar-se a essas razões, quanto ao argumento de que o documento apresentado pelo apelado (tela sistêmica) seria absolutamente unilateral, destaco que qualquer extrato apresentado também seria igualmente produzido por ele próprio, não havendo como autor impugna-lo especificadamente sem a apresentação de alguma prova que demonstrasse que investiu montante superior ao que ali consignado e que este, pelas regras a serem observadas, representa montante diverso daquele aceito como bom.
+Ora, o apelante suscita a inversão do ônus da prova, dizendo que era dever do demandado, e não seu, demonstrar a evolução os valores investidos, entretanto, quando apresentado documento pelo banco réu, o autor simplesmente não aceita a quantia de cotas ali descritas, mas também não apresenta qualquer prova em contrário, o que não merece prosperar.
+Por fim, no tocante à impugnação apresentada pelo autor, verifico que, ao contrário doque sustenta, foi genérica, porquanto meramente discorda do valor apresentado pelo réu, sem quaisquer provas que sustentem as suas alegações.
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Inexiste, portanto, violação ao artigo 1.022 do CPC, visto que a matéria fora apreciada pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. Em seguida, alega violação dos artigos 6º, VIII, do CDC e 373, I, 551, caput e § 1º, do CPC, ao argumento da necessidade da parte recorrida comprovar os valores investidos, por meio da juntada da integralidade dos extratos bancários, não sendo suficiente a mera informação dos rendimentos para a prestação de contas.
+Sobre o tema acima, o órgão julgador, amparado nas peculiaridades do caso concreto e nas provas acostadas aos autos, concluiu que a parte recorrida prestou contas quanto aos valores investidos, bem como acerca de seus rendimentos, restando apenas o encargo de comprovar em quais ações e/ou debêntures os valores das cotas pertencentes ao autor foram aplicados.
+Para alterar tais conclusões, na forma como posta nas razões do apelo extremo, seria necessário o revolvimento de aspectos fáticos e provas dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS PARA CONFECÇÃO DE REVISTA ESPECIALIZADA. SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO E PARCIAL PROCEDÊNCIA DA RECONVENÇÃO. RESCISÃO CONTRATUAL. INFRINGÊNCIA CONTRATUAL DA REQUERIDA NÃO EVIDENCIADA. PAGAMENTO DA MULTA CONTRATUAL IMPOSTO À AUTORA/RECONVINDA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Consoante o entendimento do Superior Tribunal de Justiça, o juiz não fica adstrito ao laudo pericial, podendo formar sua convicção com base em outros elementos ou fatos provados nos autos, pois, como destinatário final da prova, cabe ao magistrado a interpretação da produção probatória, necessária à formação do seu convencimento.
+2. No caso, o Tribunal de origem observou que, embora o laudo pericial tenha concluído que a prestação de contas não foi realizada pela ré/reconvinte da maneira determinada no contrato, não ficou evidenciada a infringência contratual por parte desta. Isso, porque os documentos dos autos, consistentes em e-mails trocados entre as partes, demonstraram que a planilha de prestação de contas era alimentada e preenchida pela própria autora/reconvinda e, durante todo o prazo em que o contrato estava vigente, as contas foram prestadas a contento pela requerida, sem que tenha havido nenhum registro de impugnação sobre as contas apresentadas.
+3. A reforma do julgado demandaria, necessariamente, o reexame do contexto fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.339.730/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/6/2019, DJe de 28/6/2019.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. VALOR APURADO POR PERÍCIA. IMPUGNAÇÃO AO CRITÉRIO DE APURAÇÃO UTILIZADO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. LIVRE ADMISSIBILIDADE E CONVENCIMENTO DO JUIZ.
+1. A aferição, no âmbito do Superior Tribunal de Justiça, da perfeição e da forma em que as contas foram prestadas demanda o revolvimento do conjunto fático-probatório, inviável, ante o enunciado da Súmula 7 do STJ. Precedentes.
+2. O princípio da livre admissibilidade da prova e do livre convencimento do juiz permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias, não configurando cerceamento de defesa o julgamento da causa nessas condições.
+3. Concluindo o acórdão recorrido, com base nos elementos de fato e prova dos autos, pela desnecessidade de realização de nova perícia requerida pelo recorrido, a revisão julgado, como pretendido, demandaria o revolvimento de matéria de prova, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp n. 1.410.730/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/12/2015, DJe de 1/2/2016.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. FORMA DE PRESTAÇÃO DE CONTAS. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser inadmissível o exame do valor fixado a título de honorários advocatícios, em sede de recurso especial, tendo em vista que tal providência depende da reavaliação do contexto fático-probatório inserto nos autos, o que é vedado pela Súmula 7/STJ.
+2. O conhecimento da divergência jurisprudencial pressupõe demonstração, mediante a realização do devido cotejo analítico, da existência de similitude das circunstâncias fáticas e do direito aplicado nos acórdãos recorrido e paradigmas, nos moldes dos arts.541 do CPC e 255 do RISTJ, o que se observa no presente caso.
+4. Rever os fundamentos do Tribunal de origem acerca da regularidade na forma em que as contas foram prestadas exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da súmula 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 335.600/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/3/2014, DJe de 31/3/2014.)
+Desta forma, para alterar o entendimento do Tribunal local, na forma como posta, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não se conhecer do recurso especial.
+Por conseguinte, nos termos do ar t. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
