@@ -14,5 +14,7 @@ XII - estabelecer os parâmetros técnicos e econômicos das licitações de con
 XIII - definir a estratégia e a política de desenvolvimento tecnológico do setor de energia elétrica.
 XIV - estabelecer diretrizes para o suprimento de gás natural nas situações caracterizadas como de contingência, nos termos previstos em lei.
 XV - estabelecer diretrizes para o desenvolvimento da indústria do hidrogênio de baixa emissão de carbono.
+XVI - definir índices mínimos de conteúdo local em navios-tanque novos produzidos no Brasil destinados ao ativo imobilizado e empregados exclusivamente em atividade de cabotagem de petróleo e seus derivados, a serem beneficiados por quotas diferenciadas de depreciação acelerada de que trata a Lei nº 14.871, de 28 de maio de 2024.
 § 1º Para o exercício de suas atribuições, o CNPE contará com o apoio técnico dos órgãos reguladores do setor energético.
 § 2º O CNPE será regulamentado por decreto do Presidente da República, que determinará sua composição e a forma de seu funcionamento.
+§ 3º A definição dos índices mínimos de conteúdo local a que se referem os incisos X e XVI do caput deve observar o dinamismo inerente ao setor de petróleo e gás natural e se basear em dados concretos acerca da capacidade da indústria, de forma a garantir que os custos decorrentes da política sejam proporcionais aos benefícios auferidos.
