@@ -1,0 +1,1 @@
+Art. 23-A. A Diretoria de Proteção Ambiental (DPA) é o órgão de Direção Setorial do CBMMS, responsável pelo planejamento, execução, orientação normativa, supervisão e pelo controle das atividades inerentes ao serviço de proteção ambiental no âmbito do CBMMS.

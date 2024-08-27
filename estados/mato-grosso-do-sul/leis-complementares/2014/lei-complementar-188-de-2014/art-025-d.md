@@ -1,0 +1,3 @@
+Art. 25-D. O Comando de Operações do Corpo de Bombeiros Militar (COCB) é o órgão de Direção Setorial, subordinado diretamente ao Subcomandante-Geral, responsável pelo planejamento, coordenação, fiscalização, controle, assessoramento, acompanhamento direto de despacho de viaturas e empenho de pessoal de serviço de todas as operações e as ocorrências do CBMMS.
+§ 1º O Comandante do COCB será um Oficial Superior da ativa do último posto do Quadro de Oficiais Combatentes Bombeiro Militar (QOBM), e será designado pelo Comandante-Geral.
+§ 2º O Subcomandante do COCB será um Oficial Superior da ativa do penúltimo posto do Quadro de Oficiais Combatentes Bombeiro Militar (QOBM).

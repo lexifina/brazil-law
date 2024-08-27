@@ -1,0 +1,3 @@
+Art. 25-B. O Comando de Bombeiros de Fronteiras (CBFron) é o órgão de Direção Setorial, subordinado diretamente ao Subcomandante-Geral, responsável pelo planejamento, coordenação, fiscalização, controle, assessoramento e acompanhamento direto de todas as atividades operacionais, administrativas e de prevenção desenvolvidas na sua área de competência.
+§ 1º O Comandante do CBFron será um Oficial Superior da ativa do último posto do Quadro de Oficiais Combatentes Bombeiro Militar (QOBM), e será designado pelo Comandante-Geral.
+§ 2º O Subcomandante do CBFron será um Oficial Superior da ativa do penúltimo posto do Quadro de Oficiais Combatentes Bombeiro Militar (QOBM).

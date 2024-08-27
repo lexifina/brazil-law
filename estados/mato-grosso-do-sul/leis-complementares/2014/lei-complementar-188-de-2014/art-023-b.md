@@ -1,0 +1,1 @@
+Art. 23-B. A Diretoria de Inteligência (DIntel) é o órgão de Direção Setorial do CBMMS, responsável pelas políticas referentes ao sistema de gestão de Inteligência, voltado à atividade-fim da Instituição, com competência para planejar, coordenar, controlar e fiscalizar as atividades de inteligência e o gerenciamento, fiscalização e controle de material bélico.

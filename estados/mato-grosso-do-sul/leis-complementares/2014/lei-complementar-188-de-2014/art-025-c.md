@@ -1,0 +1,3 @@
+Art. 25-C. O Comando de Bombeiros de Atividades Especializadas (CBEsp) é o órgão de Direção Setorial, subordinado diretamente ao Subcomandante-Geral, responsável pelo planejamento, coordenação, fiscalização, controle, assessoramento e acompanhamento direto de todas as atividades especializadas do CBMMS.
+§ 1º O Comandante do CBEsp será um Oficial Superior da ativa do último posto do Quadro de Oficiais Combatentes Bombeiro Militar (QOBM), e será designado pelo Comandante-Geral.
+§ 2º O Subcomandante do CBEsp será um Oficial Superior da ativa do penúltimo posto do Quadro de Oficiais Combatentes Bombeiro Militar (QOBM).
