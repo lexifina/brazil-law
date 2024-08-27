@@ -1,0 +1,50 @@
+DECISÃO
+Examina-se recursos especiais interpostos por H.B. SAUDE S/A (primeira recorrente/recorrida) e por GABRIEL OSTI AVILA SERRANO DE CARVALHO (segundo recorrente/recorrido), fundamentados no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Recurso Especial de H.B. SAUDE S/A interposto em: 09/08/2023.
+Recurso Especial de GABRIEL OSTI AVILA SERRANO DE CARVALHO interposto em: 24/08/2023.
+Concluso ao gabinete em: 16/08/2024.
+Ação: de obrigação de fazer com pedido de tutela de urgência, ajuizada por GABRIEL OSTI AVILA SERRANO DE CARVALHO (segundo recorrente/recorrido), em face de H.B. SAUDE S/A (primeira recorrente/recorrida), em razão de alegada negativa indevida de cobertura de tratamento de escoliose com uso do "Colete Milwaukee".
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta por GABRIEL OSTI AVILA SERRANO DE CARVALHO (segundo recorrente/recorrido), para condenar H.B. SAUDE S/A (primeira recorrente/recorrida) a fornecer o colete indicado na inicial, consoante prescrição médica, ante a expressa indicação do médico assistente, justificando, inclusive, o porquê da necessidade do tratamento.
+Nesse sentir, é a ementa do julgado:
+PLANO DE SAÚDE - Negativa de cobertura de colete indicado ao autor - Improcedência decretada - Descabimento - Abusividade reconhecida - Alegação de que a órtese não está ligada a ato cirúrgico - Inadmissibilidade - Empresa prestadora de serviços de assistência médica que não pode interferir na indicação feita pelo médico - Aplicação de novas técnicas que decorrem da evolução da medicina, sendo exigível, para defesa do consumidor a especificação de não cobertura nos contratos - Pedido médico que justifica a necessidade de utilização da órtese como o melhor método para evitar a progressão da doença que atinge o autor - Dever da apelante de fornece-la tal como indicada - Recurso provido. (e-STJ, fl. 223)
+Embargos de declaração: opostos por GABRIEL OSTI AVILA SERRANO DE CARVALHO (segundo recorrente/recorrido), foram rejeitados.
+Recurso especial de H.B. SAUDE S/A: alega a violação do art. 10, VII, da Lei 9.656/98, bem como a existência de dissídio jurisprudencial. Sustenta:
+i) a existência de exclusão contratual e legal de cobertura de órtese/prótese não ligada a ato cirúrgico, como é a situação dos autos; e
+ii) a impossibilidade de obrigar o custeio de procedimento não constante no Rol da ANS, o qual possui natureza taxativa.
+Recurso especial de GABRIEL OSTI AVILA SERRANO DE CARVALHO: alega a violação do art. 85, §8º-A, do CPC. Sustenta que os honorários sucumbenciais deverão ser fixados de acordo com o recomendado pelo Conselho Seccional da Ordem dos Advogados do Brasil ou no limite de 10% (dez por cento) estabelecido no § 2º do art. 85 do CPC, aplicando-se aquele que for maior.
+Despacho prolatado pelo Presidente da Seção de Direito Privado do TJ/SP: determinou o encaminhamento dos autos à Câmara de origem, para - querendo - exercer juízo de retratação entre a decisão proferida em sede de recurso repetitivo e o acórdão recorrido (e-STJ, fl. 255/257).
+Acórdão proferido após julgamento no STJ de recursos repetitivos representativos da controvérsia REsp"s 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1.076): por unanimidade de votos, exercendo juízo de retratação, manteve o acórdão recorrido.
+Prévio juízo de admissibilidade: o TJ/SP admitiu os recursos especiais interposto pelos pelas partes.
+RELATADO O PROCESSO, DECIDE-SE.
+I - Do recurso especial de H.B. SAUDE S/A:
+- Da Súmula 568/STJ
+Ao registrar no acórdão recorrido o seu entendimento a respeito da cobertura do procedimento objeto desta ação (fornecimento do colete/órtese milwaukee), o TJ/SP decidiu que:
+Consta dos autos que o autor, por intermédio de sua guardiã, contratou plano de saúde junto à ré e que esta, dentre outras coisas, se obrigou a lhe oferecer cobertura para tratamentos médicos e hospitalares.
+Diagnosticado com escoliose do adolescente progressiva, foi indicado ao autor tratamento com utilização de colete milwaukee por ser o único tratamento capaz de evitar a doença, recusando-se a ré a cobrir o tratamento sob a alegação de que não é obrigada a fornecer órteses e próteses não ligadas a ato cirúrgico, consoante expressa previsão contratual.
+Sem razão, porém, para fazê-lo.
+Isto porque, não obstante as alegações da ré, no contrato celebrado não há qualquer cláusula contratual de exclusão de cobertura para a doença que atingiu o apelante, tanto que vinha recebendo tratamento por médicos e clínicas credenciadas à ré. E, sendo inegável a submissão do ajuste às normas do Código de Defesa do Consumidor, as cláusulas contratuais devem ser interpretadas de forma mais benéfica ao consumidor.
+Além disso, consta do documento de fls. 31/32 o pedido do médico que assistia o autor para a utilização do colete, demonstrando a necessidade para melhora na vida do paciente, não podendo a empresa prestadora de serviços de assistência médica interferir na indicação médica.
+Ademais, consta de mencionado pedido, justificando a necessidade da utilização do colete: "evitar progresso da curva", ou seja, para evitar a progressão da doença apresentada pelo autor.
+(..)
+Mesmo que assim não fosse, submetendo-se os planos de saúde às regras do Código do Consumidor, as cláusulas contratuais deverão ser interpretadas de maneira mais favorável ao aderente. Nesse passo, a negativa de cobertura do convênio, consubstanciada em cláusula que veda tratamento claramente viola as normas de proteção do consumidor, como a boa-fé contratual, bem como ameaça o objeto e o equilíbrio da avença, quando atestado pelo médico como sendo a melhor forma de recuperação da saúde do paciente.
+Em outras palavras, a limitação imposta excluiria o tratamento que foi prescrito como meio adequado e indispensável à tentativa de recuperação da higidez física do paciente, negando, pois, o próprio objetivo do contrato, o que não pode ser admitido.
+Não o fazendo, é obrigação da ré fornecer ao autor o colete indicado, consoante prescrição médica, ante expressa indicação do médico que o assiste, justificando, inclusive, o porquê da necessidade do tratamento. (e-STJ, fls. 224/226) (grifo nosso)
+Segundo a jurisprudência do STJ, "nos termos do art. 10, inciso VII, da Lei n. 9.656/1998, não há obrigatoriedade legal de cobertura de "fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico" " (AgInt no REsp n. 2.023.668/SP, Terceira Turma, DJe de 19/6/2024).
+No mesmo sentido, conferir: AgInt nos EDcl no REsp n. 1.974.211/SP, Terceira Turma, DJe de 29/11/2023; AgInt nos EDcl no AREsp n. 2.315.594/SE, Quarta Turma, DJe de 16/10/2023.
+Constata-se, pois, que o acórdão prolatado pelo TJ/SP, ao entender que o pedido médico justifica a necessidade de utilização da órtese na hipótese, sem tecer considerações sobre a ligação do referido dispositivo ao ato cirúrgico, decidiu em dissonância com a jurisprudência atual deste STJ.
+Nota-se - entretanto - que, no bojo do acórdão recorrido, não ficou consignada expressamente determinada questão fático-probatória (ligação da órtese e seus acessórios ao ato cirúrgico), a qual não pode ser analisada por este STJ, em razão da incidência da Súmula 7/STJ.
+Nesse sentir, necessária devolução dos autos ao Tribunal de origem, para que - à luz da jurisprudência citada - se pronuncie sobre as questões fático-probatórias necessárias à resolução da demanda.
+Logo, nos termos da Súmula 568/STJ, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+II - Do recurso especial de GABRIEL OSTI AVILA SERRANO DE CARVALHO:
+Em razão do parcial provimento do recurso especial interposto por H.B. SAUDE S/A (primeira recorrente/recorrida), para anular o acórdão recorrido e determinar o retorno dos autos ao TJ/SP, a fim de que promova novo julgamento da apelação nos termos da jurisprudência do STJ, resta prejudicada a análise do recurso especial interposto por GABRIEL OSTI AVILA SERRANO DE CARVALHO (segundo recorrente/recorrido).
+Forte nessas razões, CONHEÇO do recurso especial interporto por H.B. SAUDE S/A e DOU-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, IV, "a", V, "a", do CPC, bem como da Súmula 568/STJ, para anular o acórdão recorrido e determinar o retorno dos autos ao TJ/SP, a fim de que promova novo julgamento da apelação nos termos da jurisprudência do STJ; JULGO PREJUDICADO o recurso especial interposto por GABRIEL OSTI AVILA SERRANO DE CARVALHO, com fundamento no art. 932, III, do CPC.
+Deixo de majorar honorários advocatícios, nos termos do art. 85, § 11, do CPC, em razão do provimento do apelo especial (EDcl no AgInt no REsp 1.573.573/RJ, 3ª Turma, DJe de 08/05/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA. CUSTEIO DE PRÓTESE/ÓRTESE NÃO LIGADA AO PROCEDIMENTO CIRÚRGICO. EXCLUSÃO CONTRATUAL. VALIDADE. PRECEDENTES. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Ação de obrigação de fazer com pedido de tutela de urgência.
+2. Segundo a jurisprudência do STJ, "nos termos do art. 10, inciso VII, da Lei n. 9.656/1998, não há obrigatoriedade legal de cobertura de "fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico" " (AgInt no REsp n. 2.023.668/SP, Terceira Turma, DJe de 19/6/2024). No mesmo sentido, conferir: AgInt nos EDcl no REsp n. 1.974.211/SP, Terceira Turma, DJe de 29/11/2023; AgInt nos EDcl no AREsp n. 2.315.594/SE, Quarta Turma, DJe de 16/10/2023.
+3. Recurso especial interposto por H.B. SAUDE S/A conhecido e parcialmente provido.
+4. Recurso especial interposto por GABRIEL OSTI AVILA SERRANO DE CARVALHO julgado prejudicado.
