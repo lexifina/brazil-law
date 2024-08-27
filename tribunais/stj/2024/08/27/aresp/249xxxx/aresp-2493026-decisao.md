@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ e da falta de comprovação do dissídio jurisprudencial (e-STJ fls. 310/312).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 173):
+PRESTAÇÃO DE SERVIÇOS. Ação de Obrigação de Fazer c/c Indenização por Danos Materiais e Morais e Tutela de Urgência. Descredenciamento de aplicativo de transporte de passageiros. Rescisão unilateral pela empresa provedora do aplicativo. Autonomia da vontade das partes. Liberdade de contratação. Exercício regular de direito na seleção de parceiros. Comprovação de reclamações dos usuários por comportamento inapropriado do motorista. Telas sistêmicas juntadas pela ré que detalham as ocorrências, sem impugnação especifica. Prova impugnada genericamente pelo autor. Decisão da empresa pelo descredenciamento permanente do motorista. Abusividade não configurada a caracterizar dano moral. Sentença mantida. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 178/208), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega dissídio jurisprudencial e violação dos arts. 186, 187, 421, 422, 424, 475, 603, 927 e 942 do CC/2002.
+O agravante assevera que foi indevidamente excluído de plataforma de transporte e aponta ofensa aos princípios do contraditório e da ampla defesa.
+Aduz que "a recorrida busca corroborar o desligamento do apelante fundado em reclamações antigas isoladas que, por si só, não se revestem de tamanha gravidade a ensejar a exclusão do aplicativo, ainda mais considerando que, ao tempo dos fatos daquelas reclamações, não foi tomada nenhuma atitude contra o demandante" (e-STJ fl. 194).
+Requer o arbitramento de indenização por danos morais e ressalta que, "ao ter o contrato rompido de forma indevida e repentina, sem qualquer oportunidade de manifestação e defesa, todas as expectativas transformaram-se em frustração e indignação, extrapolando em muito o mero dissabor ou incômodo" (e-STJ fl. 195).
+No agravo (e-STJ fls. 315/331), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 334/345).
+É o relatório.
+Decido.
+De início, quanto à alegação de ofensa aos arts. 424, 475, 603 e 942 do CC/2002, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+No que se refere ao desligamento do agravante do aplicativo de transporte, concluiu o Colegiado de origem (e-STJ fls. 174/175):
+Nesse contexto, a relação entre as partes é interpretada com base no princípio da autonomia da vontade, nos termos do art. 421 do CC. Assim, é facultada às empresas a liberdade de selecionar seus parceiros de acordo com seus próprios critérios e valores, havendo, portanto, discricionariedade para decidir pela rescisão unilateral do contrato.
+Em que pese o autor sustentar que a apelada não cumpriu com o contrato de adesão ao qual se obrigou, é certo que, diante da documentação colacionada pela apelada, outro não poderia ser o entendimento do Juízo, senão a improcedência dos pedidos iniciais.
+Como bem ressaltado na r. sentença "consta que a desativação ocorreu em razão de conduta inadequada do requerente (fls. 46/47), além da existência de apontamento criminal, considerada irregularidade cadastral, em violação aos Termos e Condições de Política de Privacidade".
+Diante de queixas de usuários, que narraram condutas inapropriadas por parte do motorista, como direção perigosa, entre outros comentários negativos, incluindo suposto furto (fls. 89/91), a requerida, ao tomar conhecimento dos fatos e, amparada pelas prerrogativas previstas nos Termos de Condições de Uso da Plataforma (fls. 66/68), optou pelo descredenciamento do autor, exercendo, portanto, a sua autonomia e liberdade de contratar.
+Por derradeiro, incabível a pretensão do apelante, de condenação da ré no pagamento de indenização por danos morais, uma vez que o descredenciamento do autor não comporta o reconhecimento de ato ilícito.
+Modificar o entendimento do acórdão impugnado quanto à regularidade do desligamento do motorista e à caracterização dos danos morais, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Da mesma forma, sobre o dissídio jurisprudencial, a incidência da Súmula 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
