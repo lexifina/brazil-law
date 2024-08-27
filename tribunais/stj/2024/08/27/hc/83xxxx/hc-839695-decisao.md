@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de JOSE GERALDO PEREIRA, alegando constrangimento ilegal por parte do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS na Apelação Criminal n. 1.0114.19.007344-4/001, em acórdão assim ementado (fls. 27):
+EMENTA: APELAÇÃO CRIMINAL. PORTE E POSSE ILEGAL DE ARMA DE FOGO. PRELIMINAR MINISTERIAL. APELO INTERPOSTO DENTRO DO QUINQUÍDIO LEGAL. RECURSO CONHECIDO. TESE DEFENSIVA DE NULIDADE DAS PROVAS POR VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. FLAGRANTE CONFIGURADO. CRIME PERMANENTE. ILEGALIDADES NÃO DEMONSTRADAS. MOMENTO PROCESSUAL INOPORTUNO. RECURSO DESPROVIDO.- O prazo para a interposição do recurso de apelação é de 05 (cinco) dias, sendo tempestivo o recurso interposto dentro do transcurso desse prazo. -Caracterizado o flagrante, não há que se falar em ilegalidade da abordagem policial, sendo dispensável, portanto, a apresentação de mandado de busca e apreensão para que os policiais adentrassem na residência ou mesmo a existência de investigações prévias, uma vez se tratar de crime permanente. Recurso desprovido.
+Consta dos autos que o paciente foi condenado em primeira instância pelos delitos tipificados nos artigos 12 e 15 da Lei 10.826/2003, à pena total de 03 (três) anos de reclusão, em regime inicial aberto, e 20 (vinte) dias-multa - condenação mantida em segundo grau.
+A impetração sustenta a ilegalidade da busca domiciliar, requerendo a concessão da ordem para, reconhecendo a nulidade do acervo probatório, absolver o paciente.
+Vieram informações (fls. 202/237 e 243/266), ao que se seguiu a manifestação do Ministério Público Federal a fls. 268/276, opinando pelo não conhecimento do writ e, no mérito, pela denegação da ordem.
+É o relatório.
+DECIDO.
+De início, ressalto que, em sede de habeas corpus, faz-se necessário que a prova se constitua previamente, devendo a impetração vir instruída de toda a documentação necessária para a análise do pleito.
+No caso em tela, todavia, constato que a parte impetrante não juntou aos autos cópia do auto de prisão em flagrante, peça que se revela essencial para a devida compreensão da controvérsia - sobretudo porquanto a alegação de nulidade se refere a diligência realizada naquela etapa. Dessa forma, a pretensão ora formulada não pode ser conhecida, porque a defesa não se desincumbiu do seu ônus de instruir devidamente o feito.
+Nesse sentido: RCD no HC n. 860.640/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023; AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023; e AgRg no HC n. 827.576/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
