@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 175/179).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 121/122):
+AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NOVAÇÃO E INTERRUPÇÃO DO PRAZO PRESCRICIONAL. INOCORRÊNCIA. MANUTENÇÃO DO DECISUM. A exceção de pré-executividade é meio de defesa, resultante de construção doutrinária e jurisprudencial pátrias, em que o executado, dentro do próprio processo de execução, alega matéria de defesa de ordem pública e ainda questões extintivas ou modificativas do direito do exequente, desde que em quaisquer das hipóteses não haja necessidade de dilação probatória. Nada obstante, a exceção de pré-executividade não se encontra limitada a matérias de ordem pública, mas a defesa reconhecível de plano, ou seja, que quando muito, depende tão-somente de prova documental. Com efeito, a r. exceção foi idealizada por Pontes de Miranda quando os embargos dependiam da garantia do juízo, o que não figura como pressuposto da defesa do executado no atual ordenamento processual. In casu, porém, como afirmado na decisão que rejeitou o efeito suspensivo, carece de fundamento a irresignação da parte. Ora, na novação há modificação de um elemento estrutural da obrigação: o vínculo originário. Nessa forma de adimplemento das obrigações, portanto, há necessariamente um acordo entre as partes - expresso ou tácito - com o escopo de se extinguir uma obrigação pretérita, além de se ultimar a criação de um novo vínculo. Assim, malgrado a parte recorrente sustente que o prazo prescricional fora interrompido com a celebração de negócio firmado em 2014 (doc. 212 dos autos principais), há verdadeira novação objetiva no ajuste promovido em 2015 (doc. 16 dos autos principais), como apontado pelo juízo a quo, uma vez que novas prestações foram acordadas, razão pela qual não se vislumbra mera confissão de dívida quanto aos mútuos anteriormente concedidos e, por conseguinte, inexiste a prescrição aventada. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 135/148), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega dissídio jurisprudencial e violação do art. 202 do CC/2002.
+Defende que a dívida encontra-se prescrita, pois (e-STJ fl. 146):
+(..) estando descrito no próprio instrumento que se trata da mesma dívida, o prazo prescricional fora interrompido originalmente no dia 18 de agosto de 2014, não podendo ter sido interrompido novamente em 18 de agosto de 2015.
+Desse modo, na inteligência da jurisprudência do próprio STJ, bem como por expressa previsão legal, o prazo prescricional do mútuo original já havia sido interrompido em 18/08/2014, não podendo ser novamente interrompido em 18/08/2015 pode se tratar da mesma relação jurídica.
+Ao final, requer a atribuição de efeito suspensivo ao recurso e que "seja dado provimento ao recurso, reconhecendo a prescrição do mútuo original, declarando inexigível a dívida" (e-STJ fl. 148).
+No agravo (e-STJ fls. 187/194), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 198/208).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem concluiu que (e-STJ fl. 126):
+Ora, na novação há modificação de um elemento estrutural da obrigação: o vínculo originário.
+Nessa forma de adimplemento das obrigações, portanto, há necessariamente um acordo entre as partes - expresso ou tácito - com o escopo de se extinguir uma obrigação pretérita, além de se ultimar a criação de um novo vínculo.
+Assim, malgrado a parte recorrente sustente que o prazo prescricional fora interrompido com a celebração de negócio firmado em 2014 (doc. 212 dos autos principais), há verdadeira novação objetiva no ajuste promovido em 2015 (doc. 16 dos autos principais), como apontado pelo juízo a quo , uma vez que novas prestações foram acordadas, razão pela qual não se vislumbra mera confissão de dívida quanto aos mútuos anteriormente concedidos e, por conseguinte, inexiste a prescrição aventada.
+Modificar o entendimento do acórdão impugnado quanto à confissão de dívida, à novação e à prescrição demandaria reexame das clásulas contratuais e do conjunto fático-probatório dos autos, providências não admitidas no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Prejudicado o pedido de efeito suspensivo.
+Publique-se e intimem-se.
+EMENTA
