@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ e inexistência de violação do art. 1.022, I e II, do CPC/2015 (e-STJ fls. 549/553).
+O acórdão recorrido está assim ementado (e-STJ fl. 454):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS. GOLPE DA CARTA DE CONSÓRCIO CONTEMPLADA. CONJUNTO PROBATÓRIO QUE NÃO DENOTA O COMETIMENTO DE ATO ILÍCITO PELO CORRÉU. MANUTENÇÃO DA CONDENAÇÃO APENAS DA CORRÉ RESPONSÁVEL PELA VENDA DA SUPOSTA CARTA AO AUTOR.
+1. PARA QUE SEJA DEVIDA QUALQUER INDENIZAÇÃO, É NECESSÁRIO QUE SE REÚNAM OS PRESSUPOSTOS DA RESPONSABILIDADE CIVIL EXTRACONTRATUAL SUBJETIVA PREVISTOS NOS ARTIGOS 186 E 927 DO CC, QUAIS SEJAM: A CONDUTA - OMISSIVA OU COMISSIVA -; A CULPA DO AGENTE; O DANO; E O NEXO CAUSAL ENTRE A CONDUTA EO DANO.
+2. CONTEXTO PROBATÓRIO QUE DEMONSTRA QUE O CORRÉU APENAS EFETUOU O DESCONTO DOS CHEQUES PRESTANDO UM FAVOR À CORRÉ, AUTORA DA FRAUDE APLICADA SOBRE O AUTOR, SEM SE BENEFICIAR DE QUALQUER VALOR PARA TANTO E SEM A INTENÇÃO DE PREJUDICAR O AUTOR. OUTROSSIM, O ACEITE DA SUSPENSÃO CONDICIONAL DO PROCESSO CRIMINAL NÃO IMPORTA ASSUNÇÃO DE CULPA TAL COMO DISPÕE O ART. 76, § 6º, DA LEI Nº 9.099/95. ASSIM, AUSENTE ATO ILÍCITO E NEXO DE CAUSALIDADE, INVIÁVEL RESPONSABILIZAR O CORRÉU.
+3. AUTOR QUE NÃO SE DESINCUMBIU DO ÔNUS DE FAZER PROVA DO DIREITO ALEGADO (ART. 373, I, DO CPC). SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 512/513).
+Nas razões do recurso especial (e-STJ fls. 519/532), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, II, do CPC/2015, aduzindo que "o acórdão que desacolheu os Embargos de Declaração está eivado de nulidades, na medida em que não se manifestou sobre os artigos legais invocados pelo Recorrente  ..  afastando desse modo à aplicabilidade de diversos dispositivos legais vigentes" (e-STJ fls. 524/525),
+(ii) art. 371 do CPC/2015, por entender que "no caso dos autos, flagrante a afronta ao ordenamento processual vigente, uma vez que os Desembargadores da corte a quo, concluíram pela manutenção da sentença, não só em desacordo as provas constantes dos autos, como sem sequer tê-las apreciado em sua totalidade  ..  as provas produzidas nos autos, de forma contrária ao que concluiu a decisão ora atacada, demonstraram que o Recorrido Adriano se beneficiou do ilícito ou no mínimo se trata de um "laranja" da Recorrida Telly" (e-STJ fl. 526),
+(iii) arts. 186, 187 e 927 do CC/2002, sustentando que "é evidente, consoante bem concluiu o inquérito policial, que os apelados cometeram o crime de estelionato, ou seja, ambos devem ser condenados ao ressarcimento dos importes indevidamente recebidos" (e-STJ fl. 527) e ainda "os recorridos devem ser condenados de forma solidária ao ressarcimento atualizado dos valores ilicitamente recebidos do Recorrente" (e-STJ fl. 530).
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 537/546).
+No agravo (e-STJ fls. 561/579), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 584/597).
+É o relatório.
+Decido.
+De início, afasta-se a afronta ao art. 1.022 do CPC/15, porquanto em suas razões recursais, a parte recorrente limitou-se a apontar a existência de omissões sobre questões relevantes que deverias ter sido objeto de pronunciamento pelo Tribunal, sem indicar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo teria sido violado, o que atrai a Súmula n. 284 do STF.
+Ao analisar as provas constantes dos autos, o TJRS consignou que "Adriano apenas efetuou o desconto dos cheques prestando um favor à corré Telly, sem se beneficiar de qualquer montante para tanto e sem a intenção de prejudicar o autor". Confira-se o seguinte excerto (e-STJ fls. 451/452):
+Ausente, portanto, ato ilícito e nexo de causalidade, não há como responsabilizar Adriano pelos danos materiais amargados pelo autor em decorrência do golpe que lhe aplicou Telly.
+Dessa forma, como o autor não se desincumbiu de seu ônus probatório de demonstrar a prática de ato ilícito, culposo ou doloso, praticado pelo réu, nos termos do que prevê o artigo 373, I, do CPC, inviável responsabilizá-lo pelos danos reclamados na exordial.
+Destarte, impõe-se a manutenção da sentença de improcedência quanto ao corréu Adriano, desprovendo-se o recurso de apelação.
+E ainda acerca do pedido de indenização o TJRS afirmou que "a questão posta nos autos trata de responsabilidade civil extracontratual subjetiva. Assim, para que devida qualquer indenização, necessário que se reúnam seus três pressupostos, previstos nos artigos 186 e 927 do CC: (a) conduta, omissiva ou comissiva, culposa do agente, (b) dano e (c) nexo causal entre a primeira e o segundo  ..  após analisar detidamente os autos, notoriamente a prova documental e oral, tenho que a conclusão do magistrado sentenciante é irretocável" (e-STJ fl. 449).
+A Corte local entendeu pela ausência de ilicitude do agravado Adriano pelos danos materiais amargados pelo agravante em decorrência do golpe que lhe aplicou Telly. Para modificar o acórdão nesse ponto, seria preciso reexaminar fatos e provas, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
