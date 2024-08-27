@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 2.436):
+Apelação cível. Ação de cobrança. Contrato de prestação de serviços. Reajustes dos valores.
+Descumprimento contratual de ambas as partes. Incidência de multa penal. Impossibilidade.
+Havendo previsão contratual estipulando o reajuste anual do valor do contrato de prestação de serviço entabulado entre as partes, correta a decisão que, com respaldo em laudo pericial, julgou procedente o pedido, condenando a parte inadimplente ao pagamento da diferença do reajuste.
+Indevida a incidência de multa contratual quando devidamente comprovado que o descumprimento contratual foi mútuo, como bem apontado pela perícia judicial.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.480/2.484).
+Em suas razões (e-STJ fls. 2.492/2.520), a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(a) arts. 5º, XXXV e LV e 93, IX, da CF, 165, 458 e 535 do CPC/1973 e 1.022 do CPC/2015, por negativa de prestação jurisdicional, afirmando que (e-STJ fls. 2.513/2.514):
+A decisão embargada sequer analisou ponto relevante da defesa da Recorrente, consistente na ausência de previsão legal para reajuste do contrato de limpeza e conservação firmado pela parte em 13/04/2015, situação igualmente não observada pelo jurisperito, razão pela qual não haveria o que se falar em reajuste contratual ante a ausência de previsão legal nesse sentido.
+ ..
+Outra tese jurídica não apreciada, tanto na sentença recorrida quanto no v. acórdão, diz respeito ao fato de a Recorrida jamais ter comprovado as alterações das condições iniciais do contrato que justificassem a efetiva majoração dos preços, salvo quando os reajustes foram efetivamente concedidos pela Recorrente, mediante ampla negociação entre os contratantes em busca de um acordo que atendesse seus interesses.
+(b) arts. 113, 360, III, 364, 421 e 422 do CC/2002, sustentando, em síntese, serem indevidos os reajustes pretendidos pela parte recorrida. Argumenta que (e-STJ fls. 2.505/2/506):
+Inexiste qualquer fundamento decisório que justifique a condenação da Recorrente ao pagamento de reajustes já concedidos durante o da relação comercial mantida com a Recorrida, ainda mais quando há nos autos prova de que os reajustes do preço dos serviços foram objeto de ajuste comum, ou seja, por mera liberalidade, as partes que optaram por majorar o preço do negócio sem obrigatoriamente estar adstrito os índices previstos no instrumento contratual, celebrando outro instrumento particular que dispunha o valor encontrado após ampla negociação.
+Inclusive, foram ajustados novos instrumentos contratuais para definirem o valor de cada serviços, não sendo crível apurar diferenças de valores do primeiro contrato firmado entre as partes, considerando que cada novo instrumento pactuado impõe a novação da obrigação e, consequentemente, a revogação das clausulas de reajuste anual estipulada nos instrumentos contratuais substituídos.
+(c) art. 373, I, do CPC/2015, aduzindo que, "ao não produzir o documento indispensável a comprovar o fato gerador da obrigação, a Recorrida não se desincumbiu do ônus do art. 373, I do CPC, vez que o processo não foi instruído com qualquer pedido de reajuste e/ou recusa da Recorrente em conceder reajuste contratual na forma do contrato, não sendo os referidos documentos dispensados sequer no caso de revelia, porquanto sem tal formalidade inexiste prova de infração a dar procedência ao ato de cobrança" (e-STJ fl. 2.515).
+Contrarrazões apresentadas (e-STJ fls. 2.536/2.548).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Além disso, inexiste afronta aos arts. 165, 458 e 535 do CPC/1973 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fl. 2.435):
+Cuida-se de ação de cobrança ajuizada por R L do Nascimento Comércio de Produtos Alimentícios - ME em face de Mercantil Nova Era, visando ao recebimento de R$ 197.403,72, referentes à prestação de serviços de fornecimento de refeições e de limpeza e manutenção, não reajustados anualmente, conforme previsão contratual.
+Em análise aos contratos acostados aos autos, em especial no contrato de refeições, na Cláusula 2ª, § 4º, IDs 25270333, 25270334 e 25270340, o reajuste anual pelo índice IGPM foi objeto de negociação entre as partes.  ..
+Quanto ao contrato de prestação de serviço de limpeza e manutenção, de acordo com a Cláusula 14.5, o reajuste do preço convencionado entre as partes deveria observar o índice concedido pelo governo federal, vinculado ao salário mínimo.  ..
+Com efeito, da leitura das cláusulas acima, por certo, depreende-se que a autora da ação, ora apelada, fazia jus ao reajuste anual em ambos os contratos, devendo ser calculado sobre o índice do IGPM para o contrato de refeição e sobre o índice vinculado ao salário mínimo para o contrato de serviços de limpeza e manutenção.
+Contudo, como observado pelo laudo pericial, ID 25270301, em que pese não tenham sido nos moldes do pactuado, os reajustes, de certo modo, foram realizados, contradizendo a informação inicial da apelada de que não ocorreram.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos artigos acima referidos.
+Com relação aos arts. 113, 360, III, 364, 421 e 422 do CC/2002 e 373, I, do CPC/2015, modificar o entendimento do acórdão impugnado e reconhecer (i) que a parte autora não faz jus ao reajuste anual em ambos os contratos, (ii) a existência de novação em observância ao princípio da boa-fé e (iii) a ausência de comprovação das exigências contratuais para a ocorrência do reajuste, demandaria a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Por fim, esta Corte tem entendimento no sentido de que a incidência das Súmulas n. 5 e 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, na parte conhecida, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
