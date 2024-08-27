@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+RELATÓRIO
+Trata- se de agravo regimental interposto por LEANDRO IZEPPI contra decisão que rejeitou os embargos de declaração em agravo em recurso especial (e-STJ fls. 1819/1820).
+Segundo consta dos autos, o recorrente foi "condenado como incurso nas sanções do art. 303, § 1º do CPM (peculato majorado), por duas vezes, impondo-lhe a pena de 10 dez) anos e 08 (oito) meses de reclusão, em regime inicial fechado" (e-STJ fl. 1009).
+Nas razões do presente agravo, a defesa alega que a nulidade debatida no HC 704.264/PR tinha "o objetivo de restituir a liberdade do agravante. Porém, observa-se que o mérito do argumento defensivo não havia sido apreciado naquela oportunidade, nem pela Corte Cidadã, bem pelo TJPR no habeas corpus de origem, tendo em vista trata-se de matéria imprópria de debate na via eleita" (e-STJ fl. 1827), tanto que o habeas corpus sequer foi conhecido. Complementa (e-STJ fl. 1827):
+(..) até a presente data, essa Corte Cidadã não se manifestou sobre a nulidade arguida, sendo que a primeira e única vez que tal matéria foi analisada e debatida se deu em 17/11/2022, por ocasião do acordão proferida na Ação Penal nº 0017716-48.2021.8.16.0013, oportunidade em que se ingressou o com recurso especial que não foi conhecido pelo STJ quando do julgamento do recurso do agrave e com a rejeição dos presentes embargos de declaração.
+Diante disso, pede seja o recurso provido para conhecer e dar provimento ao recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. CRIME TIPIFICADO NO ART. 303, §1º DO CPM (PECULATO MAJORADO). NULIDADE PROCESSUAL. MATERIA EXAMINADA ANTERIORMENTE EM SEDE DE HABEAS CORPUS. IMPOSSIBILIDADE DE REEXAME. AUSÊNCIA DE CONTRADIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO .
+1. Caso em que a nulidade arguida no recurso especial já foi objeto de debate anterior nesta Corte no julgamento do HC 704.264, decisão proferida no dia 27 de janeiro de 2022, configurando reiteração de pedido, tal como reconheceu o Relator do acórdão do recurso de apelação. Impossibilidade de reexame da tese. Ausência de contradição.
+2. Agravo regimental a que se nega provimento.
+VOTO
+A decisão deve ser mantida.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, não se constata o vício alegado. Confira-se (e-STJ fls. 1797/1798):
+A defesa alega, resumidamente, violação ao artigo 245, §4º, do Código de Processo Penal (nulidade da busca domiciliar) e artigo 179, inciso II, alínea "b", do Código de Processo Penal Militar, asseverando que a diligência não teria cumprido as exigências legais, sobretudo porque a autoridade policial não ateria intimado um vizinho para acompanhar a diligência.
+No que interessa, colhe-se do acórdão do recurso de apelação (e-STJ fls. 1664-1665):
+Da Busca e Apreensão
+A legalidade da busca e apreensão realizada na residência do Apelante já foi reconhecida por esta c. 1ª Câmara Criminal no julgamento do Habeas Corpus nº 0055504-38.2021.8.16.0000, assim ementado:
+"HABEAS CORPUS - POLICIAL MILITAR - PECULATO - PRISÃO PREVENTIVA -ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL - NECESSIDADE DA PRISÃO PREVENTIVAPARA GARANTIA DA ORDEM PÚBLICA E MANUTENÇÃO DAS NORMAS E PRINCÍPIOS DADISCIPLINA MILITAR -PERICULOSIDADE EVIDENCIADA PELA GRAVIDADE CONCRETA DOS CRIMES IMPUTADOS, PRATICADOS, EM TESE, DE FORMA REITERADA E NOEXERCÍCIO DA FUNÇÃO POLICIAL - CONSTRANGIMENTO ILEGAL INEXISTENTE -DECISÃO MANTIDA - ORDEM DENEGADA"
+A decisão também foi confirmada pelo Superior Tribunal de Justiça, quando do julgamento do Habeas Corpus nº 704264:
+"No caso em espécie, os policiais que realizaram a diligência estavam munidos de mandado de busca e apreensão autorizador da medida invasiva, evidenciando a existência de controle jurisdicional do ato, nos termos do art. 5º, XI, da CF/88. Inviável, portanto, desconstituir os fundamentos do acórdão do Tribunal de origem, visto que exigiria dilação probatória, situação não permitida no rito especial do habeas corpus. Nesse sentido, a jurisprudência do STJ: HC n. 431.708/MS, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 30/5/2018; AgRg no HC n. 681.870/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2021; AgRg no RHC n. 146.915/RJ, relator Ministro Olindo Menezes, Desembargador convocado do TRF1, Sexta Turma, DJe de 31/8/2021"
+Com efeito, o mandado foi cumprido em atendimento às disposições trazidas pela Lei nº13.869/2019 (Lei de Abuso de Autoridade) que, entre as modificações introduzidas ao ordenamento jurídico, fixou o horário para início legal do cumprimento de diligências de busca e apreensão, sanando a discussão a respeito do termo "dia":
+"Art. 22. Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei:
+Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.
+§ 1º Incorre na mesma pena, na forma prevista no caput deste artigo, quem: ..
+III - cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas)."
+Portanto, demonstrada e reiterada a legalidade do cumprimento do mandado de busca e apreensão na residência do apelante às 05h01min.
+Como visto, a nulidade arguida no recurso especial já foi objeto de debate anterior nesta Corte no HC 704264, em decisão proferida no dia 27 de janeiro de 2022, configurando reiteração de pedido. O então Relator do habeas corpus deixou registrado em sua decisão:
+Quanto às alegações de nulidade do flagrante, consta do acórdão do Tribunal de origem que o ingresso no domicílio do acusado se deu amparado por mandado de busca e apreensão, a autorizar a diligência policial. Tal mandado foi cumprido às 5h01, de modo que não há que falar em cumprimento ilegal do mandado.
+Ao mesmo tempo, as circunstâncias concretas da situação, isto é, a distância entre as chácaras adjacentes à propriedade do paciente, a baixa luminosidade e as plantações perimetrais inviabilizaram a presença de vizinhos para acompanhamento da diligência. Tal situação justifica a ausência de testemunhas.
+Confira-se excerto do voto proferido pelo relator na origem (fl. 20):
+A respeito da legalidade do cumprimento do mandado de busca e apreensão na residência do Paciente, deliberou o magistrado:
+"Na tentativa de sanar a discussão sobre a delimitação do termo "dia", a nova Lei de Abuso de Autoridade (Lei nº. 13.869/2019) dispõe que incorre em abuso de autoridade o agente que "cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco  ..  horas)".
+No caso concreto, a leitura do Boletim de Ocorrência Unificado nº. 2021/710395, somado aos esclarecimentos prestados pela autoridade responsável pelo cumprimento da ordem judicial, deixa claro que a diligência realizada na residência de LEANDRO IZEPPI iniciou-se às 5h01min.
+Assim, não há que se falar em nulidade da busca e apreensão realizada na residência de LEANDRO IZEPPI, em razão do horário de execução da diligência".
+Com efeito, a decisão atacada conta com idônea fundamentação, amparada que está em dispositivo de lei que fornece elementos delimitadores da expressão "dia" - conceituando-a como o período entre as 21h e as 5h -, não se vislumbrando, portanto, hipótese de flagrante ilegalidade remediável pela via do habeas corpus.
+Além disso, como se consignou no decisum, "a distância entre as chácaras adjacentes à propriedade de LEANDRO IZEPPI, somada à baixa luminosidade e às plantações perimetrais, inviabilizou que a Autoridade policial se certificasse acerca da existência de vizinhos, bem como sobre sua presença para acompanhamento da medida". Tal situação, pois, está a justificar a ausência de testemunha para acompanhamento da diligência. A via eleita, ademais, é imprópria ao pretendido revolvimento fático-probatório acerca das referidas circunstâncias.
+Assim, não há irregularidade no cumprimento do mandado judicial, este baseado nas provas colhidas durante as diligências prévias realizadas pelos órgãos de investigação policial e submetidas ao controle judicial.
+Também não há falar em ilicitude da prova, porquanto à situação dos autos não se aplica o decidido pela Sexta Turma do STJ no julgamento do HC n. 598.051/SP, da relatoria do Ministro Rogerio Schietti Cruz, tampouco o Tema n. 280, submetido pelo STF ao regime de repercussão geral no RE n. 603.616/RO, em que ficou definido que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori" (RE n. 603.616/RO, relator Ministro Gilmar Mendes, DJe de 10/5/2016).
+Em ambas as situações, tratou-se do ingresso domiciliar por policiais ou autoridades investigativas sem mandado judicial e sem fundadas razões para tanto, situações não evidenciadas nestes autos.
+No caso em espécie, os policiais que realizaram a diligência estavam munidos de mandado de busca e apreensão autorizador da medida invasiva, evidenciando a existência de controle jurisdicional do ato, nos termos do art. 5º, XI, da CF/88.
+Inviável, portanto, desconstituir os fundamentos do acórdão do Tribunal de origem, visto que exigiria dilação probatória, situação não permitida no rito especial do habeas corpus.
+Nesse sentido, a jurisprudência do STJ: HC n. 431.708/MS, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 30/5/2018; AgRg no HC n. 681.870/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2021; AgRg no RHC n. 146.915/RJ, relator Ministro Olindo Menezes, Desembargador convocado do TRF1, Sexta Turma, DJe de 31/8/2021.
+Nesse contexto, considerando que já houve manifestação expressa desta Corte acerca da nulidade arguida, o recurso especial não pode ser conhecido, sob pena de violação ao princípio da unirrecorribilidade das decisões.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
