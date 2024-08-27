@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei indicados, (b) aplicação da Súmula n. 7/STJ e (c) falta de cotejo analítico para comprovar o dissídio jurisprudencial (e-STJ fls. 484/486).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 426):
+Recurso. Apelação. Existência de distribuição anterior de recurso de apelação julgado por membro da Colenda 30ª Câmara de Direito Privado, em feito conexo ao presente. Artigo 105 do Regimento Interno deste E. Tribunal. Recurso não conhecido, com remessa determinada.
+No recurso especial (e-STJ fls. 430/448), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes indicaram dissídio jurisprudencial e violação dos arts. 2º, 4º, § 1º, e 5º da Lei n. 1.060/1950 e 5º da Lei n. 4.657/1942, argumentando que fariam jus à assistência judiciária gratuita ou, subsidiariamente, ao pagamento diferido das custas processuais.
+Nesse contexto, alegaram que justificaria o deferimento dos referidos benefícios a sua situação momentânea de hipossuficiência econômica.
+No agravo (e-STJ fls. 489/508), afirmam a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A Corte local indeferiu a gratuidade de justiça e o pedido de pagamento diferido das custas processuais requerido pelos recorrentes, tendo em vista que (e-STJ fls. 427/428):
+As alegações deduzidas pelos agravantes já foram adequadamente rechaçadas ao fundamento de que não se amoldam a nenhuma das hipóteses previstas no artigo 5º da Lei 11.608/2003, inviabilizando o diferimento do recolhimento do preparo. Não bastasse, os apelantes não exibiram documentos que emprestassem alicerce ao pretendido diferimento. Insistem, agora, os agravantes, batendo-se novamente pela concessão da benesse reprisando os mesmos argumentos utilizados quando do pedido formulado nas razões de apelo, notadamente que não possuem condições financeiras para arcar com o alto valor das custas de preparo.
+Tais argumentos já foram devidamente analisados e repelidos, cumprindo repisar que o benefício da assistência judiciária foi indeferido na origem, e as custas foram recolhidas, o que demonstra a capacidade financeira dos agravantes para suportar as despesas do processo, além do fato de que suas alegações não se enquadram no artigo 5º da Lei 11.608/2003, cujo rol é taxativo. Portanto, não tendo comprovado adequadamente a precariedade econômica sustentada, mantenho o indeferimento do pedido de diferimento das custas ao final do processo.
+Como se vê, o TJSP resolveu a controvérsia com base em direito local, art. 5º da Lei Estadual n. 11.608/2003 , motivo por que a revisão das conclusões assentadas no acórdão impugnado esbarra no óbice da Súmula n. 280/STF.
+A Corte local não se manifestou quanto aos arts. 2º, 4º, § 1º, e 5º da Lei n. 1.060/1950 e 5º da Lei n. 4.657/1942 sob o enfoque pretendido pelos recorrentes. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais os recorrentes não se desincumbiram.
+Registre-se, por fim, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
