@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração da ofensa aos artigos de lei indicados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 388/389).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 308):
+APELAÇÃO - Ação declaratória c/c indenização por danos morais - Empréstimo consignado - Contratação comprovada - Alegações do Autor inverossímeis - Sentença mantida - Recurso não provido.
+No recurso especial (e-STJ fls. 314/321), fundamentado no art. 105, III, "a", da CF, o recorrente alegou desrespeito aos arts. 186 e 927 do CC/2002 e 14 do CDC, pois o banco recorrido estaria exigindo valores supostamente oriundos de contratos redigidos unilateralmente pela instituição financeira.
+Acrescentou que "celebrou com a instituição financeira recorrida um contrato de crédito consignado nº tendo sido disponibilizado o valor de R$ 22.218,29 para pagamento em 120 parcelas fixas de R$ 379,54 através de desconto em seu salário, no entanto a partir de junho/2021 os descontos passaram a ser em valores maiores, passando para R$ 417,93, R$ 418,40 e R$ 449,85. Isto porque sem a ciência e aquiescência do recorrente a instituição financeira, unilateralmente, realizou contratos de crédito consignado, mediante a quitação de contrato original, além de outros contratos posteriores" (e-STJ fl. 317).
+Nesse contexto, requereu a reforma do aresto impugnado, a fim de "anular o contrato nº 504429000 de 14.06.2021, no valor de R$ 25.976,08, determinar a reativação dos contratos de nºs 467793146 de 27.11.2020 no valor de R$ 22.218,29, 496559594 de 11.05.2021, 534401355, no valor de R$ 1.491,24, compensando-se o valor já pago" (e-STJ fl. 321).
+Foram ofertadas contrarrazões (e-STJ fls. 331/339).
+No agravo (e-STJ fls. 392/400), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 403/406).
+É o relatório.
+Decido.
+A Corte local, soberana na análise do conjunto fático-probatório dos autos, assentou que as circunstâncias do caso concreto, verificadas no momento do julgamento, não demonstraram os vícios de consentimento alegados pelo recorrente, na celebração dos contratos de empréstimos consignados descritos na inicial, motivo pelo qual manteve a improcedência do pedido de declaração de inexigibilidade dos débitos constantes nos instrumentos contratuais impugnados. Confira-se o seguinte trecho (e-STJ fl. 310):
+A análise dos documentos apresentados pelo Apelado não deixa dúvidas quanto à celebração dos contratos pelo Autor. Desincumbiu-se satisfatoriamente, portanto, o requerido, de seu ônus probatório. Considerando que era seu o ônus de demonstrar a regularidade da contratação, em razão da negativa pelo Autor, e que dele se desincumbiu satisfatoriamente, de rigor a manutenção da r. sentença que reconheceu legítima a contratação existente entre as partes.
+Nenhum dos documentos apresentados foi devidamente impugnado pelo Apelante que em réplica limitou-se a alegar que "não haveria justificativa financeira para o autor realizar o refinanciamento dos contratos" (fl. 225), o que não é argumento jurídico suficiente para provocar a manifestação do Estado e intervenção do poder judiciário na contratação existente entre as partes, devendo prevalecer o pacto entabulado, em observação ao princípio do pacta sunt servanda. Ressalta-se que a inversão do ônus da prova nas relações de consumo não implica em aceitação automática e irrestrita da matéria de fato, tal como exposta no pedido.
+Ainda, a inversão do ônus probatório conforme disposto no art. 6º, do CDC, não conduz a imediata procedência dos pedidos e automática condução dos autos. Considerando que o Réu juntou aos autos os contratos devidamente assinados, cabia ao Autor a impugnação específica. Em não havendo, presume-se a veracidade dos documentos juntados e, corolário, a validade da contratação.
+Por tais razões, a sentença deve ser mantida integralmente.
+Não há como ultra passar as conclusões do Tribunal de origem sem nova interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 312), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
