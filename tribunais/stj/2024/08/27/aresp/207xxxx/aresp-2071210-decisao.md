@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de BETTIO SERVICE COMERCIO DE MANUFATURADOS EIRELI no qual se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. PRAZO. INTERRUPÇÃO. PARCELAMENTO. DILAÇÃO PROBATÓRIA.
+A notícia da interrupção do prazo prescricional pela confissão do débito fiscal para fim de parcelamento torna controvertida a questão relativa à prescrição, caso em que a resolução exige dilação probatória, incompatível com a exceção de pré-executividade (fl. 42).
+Os embargos de declaração opostos foram rejeitados (fls. 4/66).
+Nas razões do recurso especial, a parte ora agravante aponta, além de divergência jurisprudencial, violação dos arts. 156, V, e 174 do Código Tributário Nacional (CTN). Defende o reconhecimento da prescrição do crédito objeto das CDAs que embasam a execução fiscal ao argumento de que "a mera informação de suposto parcelamento não é apta a suspender a contagem do prazo prescricional, por não se tratar de prova inequívoca" (fl. 86).
+Com contrarrazões (fls. 94/96), o recurso foi inadmitido na origem, dando ensejo à interposição do agravo ora em análise.
+É o relatório.
+O inco nformismo não merece acolhimento.
+Observo que o Tribunal de origem, ao tratar das questões suscitadas no expediente sumário, manteve a rejeição da objeção de pré-executividade, porquanto, da análise da moldura fática apresentada nos autos, verificou que não seria possível acolher a pretensão ali deduzida (reconhecimento da prescrição do crédito tributário) sem dilação probatória. Nesse aspecto, merece destaque a fundamentação do acórdão recorrido, em seus exatos termos:
+Postula a recorrente pelo reconhecimento da prescrição quanto às competências referentes ao período de 02-2013 a 08-2014. Ocorre que há notícia de parcelamento do crédito, que teria sido realizado já em 28-08-2014, com cancelamento em 22-08-2016 (cf. evento 17, EXTR3, do processo originário), o que teria o efeito de interromper o prazo prescricional, nos termos do artigo 174, parágrafo único, IV, do Código Tributário Nacional.
+Em tais condições, a simples notícia do parcelamento apresentada pela União (Fazenda Nacional) torna, pelo menos, controvertida a matéria, de modo que nesse momento processual - julgamento de exceção de pré- executividade, em que não se admite dilação probatória (cf. súmula 393 do STJ) -, não caberia reconhecer já a prescrição dos créditos tributários, nem impor à exequente o ônus de comprovar o momento em que houve a adesão ao programa de parcelamento, bem assim o momento em que se verificou o descumprimento das condições que justificasse a exclusão. Cabia, isto sim, à parte executada (=excipiente) demonstrar a ocorrência indubitável da prescrição antes do ajuizamento da execução fiscal, o que não fez, já que suas alegações não se sustentam frente à notícia de parcelamento trazida pelo Fisco.
+Assim, agiu acertadamente o juízo de origem ao rejeitar a exceção de pré-executividade (fls. 44/45).
+A jurisprudência desta Corte entende que é cabível a exceção de pré-executividade nas situações em que o magistrado possa conhecer de ofício das questões em que não há necessidade de dilação probatória.
+A propósito, registro que o tema em questão já foi alvo de debate pela Primeira Seção desta Corte em recurso repetitivo. Veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. EXECUÇÃO FISCAL. INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL. POSSIBILIDADE. MATÉRIA DE DEFESA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INVIABILIDADE. RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. Por outro lado, é certo que, malgrado serem os embargos à execução o meio de defesa próprio da execução fiscal, a orientação desta Corte firmou-se no sentido de admitir a exceção de pré-executividade nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras.
+3. Contudo, no caso concreto, como bem observado pelas instâncias ordinárias, o exame da responsabilidade dos representantes da empresa executada requer dilação probatória, razão pela qual a matéria de defesa deve ser aduzida na via própria (embargos à execução), e não por meio do incidente em comento.
+4. Recurso especial desprovido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ.
+(REsp. 1.104.900/ES, relatora Ministra Denise Arruda, DJe de 1º/4/2009.)
+Confira-se, também, o disposto na Súmula 393/STJ: "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória."
+Na espécie, o Tribunal de origem foi categórico ao afirmar que "a notícia da interrupção do prazo prescricional pela confissão do débito fiscal para fim de parcelamento torna controvertida a questão relativa à prescrição, caso em que a resolução exige dilação probatória, incompatível com a exceção de pré-executividade" (sem destaque no original).
+Logo, a modificação desse entendimento requer indispensavelmente o reexame do suporte fático-probatório dos autos, o que é defeso em recurso especial.
+Quanto à alegação de dissenso interpretativo, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+ ..
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+(AgInt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020 - sem destaque no original.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+ ..
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe 8/3/2018 - sem destaque no original.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial .
+Publique-se. Intimem-se.
+EMENTA
