@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC/2015, (b) ausência de demonstração de ofensa ao art. 341 do CPC/2015 e (c) aplicação da Súmula n. 7 do STJ (e-STJ fls. 470/472).
+O acórdão recorrido está assim ementado (e-STJ fl. 409):
+Apelação Cível. Ação de Indenização por Danos Morais e Materiais. Autora que alega ter sido ofendida e sofrido agressão física pelo réu em meio a desentendimento envolvendo a compra e venda de pneus. Muito embora a narrativa seja grave, não demonstrou a autora satisfatoriamente os fatos constitutivos do seu direito, ônus que lhe competia, nos termos do art. 373, inc. I, do Código de Processo Civil. Sentença de improcedência, mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 422/424).
+Nas razões do recurso especial (e-STJ fls. 441/456), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, VI e 1.022, II, do CPC/2015, alegando deficiência na fundamentação e omissão do acórdão recorrido, a respeito das seguintes questões (e-STJ fls. 447/448):
+. Neste particular, toma como defesa indireta do Réu, expressamente, reconhecendo ausência de enfrentamento dos fatos em contestação, o desfecho dado ao termo circunstanciado aberto em razão dos fatos, que foi arquivado por ausência de provas, não isentando o Réu da autoria dos fatos (agressões físicas e verbais).
+. Omite-se em enfrentar a responsabilidade civil do réu, tomando por base o arquivamento do procedimento penal, omitindo-se em enfrentar matéria suscitada expressamente de que a responsabilidade civil independe da criminal.
+. Reconhece LITERALMENTE a ocorrência de agressões verbais, afirmando, contudo, serem elas incapazes de gerar o dever de indenizar, sem qualquer fundamentação.
+. Despreza exame de corpo de delito juntado aos autos apontando a existência de lesões impingidas pelo Réu à autora, ao fundamento de que causou estranheza o fato de que, "ao final do Termo Circunstanciado, lavrado em 13/05/2011 pela delegada de polícia, havia mesmo constado expressamente que nenhuma das partes apresentava lesões (fl. 40), Tal fato, como razão de decidir, contudo, esta em descompasso ao laudo do IML (FLS. 49) e aditamento ao termo circunstanciado (fls. 42), onde se corrigiu erro material do inicial TC de fls. 40.
+(ii) art. 341 do CPC/2015, por entender que "embora tenha atribuído outra versão aos fatos, genericamente, a contestação confessa, pela ausência de impugnação, que o réu agrediu fí sica e verbalmente a autora, e não atribui nenhuma agressão desta ao réu" (e-STJ fl.450).
+Foram oferecidas contrarrazões, requerendo a majoração de honorários recursais (e-STJ fls. 464/469).
+No agravo (e-STJ fls. 475/481), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 484/488).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 410/413):
+Trata-se de ação de indenização por danos morais e materiais, na qual a autora alega ter sido ofendida e sofrido agressão física pelo réu em meio a desentendimento envolvendo a compra de pneus na loja da autora.
+(..)
+Diferentemente do alegado em grau recursal pela autora, verifica-se que o réu negou frontalmente, em sua peça contestatória, tenha havido lesão corporal ou agressão física contra a autora, inclusive afirmando que não poderia ter levantado a autora, causando-lhe lesões, porque estaria impossibilitado de realizar esforço físico, em decorrência de cirurgia realizada.
+Causa estranheza, ainda, o fato de que, ao final do Termo Circunstanciado, lavrado em 13/05/2011 pela delegada de polícia, havia mesmo constado expressamente que nenhuma das partes apresentava lesões (fl. 40).
+Além disso, a autora teria sido surpreendida, segundo seu próprio relato, quando estava agachada, tendo sido por ele alçada pelos braços, mas as lesões se constataram em seu dorso.
+Na versão dos fatos dada pelo réu, ainda, inexistem as ofensas que teriam sido por ele proferidas à autora, o que corresponde a defesa indireta de mérito. Não bastasse isso, ao menos algumas delas teriam sido lançadas, segundo os relatos dos autos, em meio a ligação telefônica efetuada pelo réu na tentativa de reverter o pagamento pelos pneus junto à operadora de cartão de crédito, não tendo sido diretamente dirigidas à autora e não sendo, por si sós, aptas a gerar ofensa íntima em grau passível de compensação por danos morais.
+No caso concreto, o TJSP consignou que ao final do Termo Circunstanciado, lavrado em 13/05/2011 pela delegada de polícia, havia mesmo constado expressamente que nenhuma das partes apresentava lesões e na versão dos fatos dada pelo réu, ainda, inexistem as ofensas que teriam sido por ele proferidas à autora, o que corresponde a defesa indireta de mérito. Portanto, a decisão recorrida não é contraditória nem omissa. Em verdade, pretende-se o revolvimento do conteúdo fático-probatório dos autos, vedado em recurso especial, por óbice da Súmula n. 7/STJ.
+Além disso, conforme consta nas razões de decidir do acórdão dos embargos de declaração (e-STJ fl. 437):
+Aliás, o que mais na hipótese importou sobre as ditas agressões verbais é que não foram, por si sós, aptas a gerar ofensa íntima em grau passível de compensação por danos morais.
+Cumpre consignar, ainda, que qualquer antiga atividade profissional do réu, ora embargado, em absolutamente nada se mostrou relevante para a análise dos autos, ficando a embargante advertida de que ilações de tal natureza não serão toleradas por este órgão julgador.
+Destaque-se, também, que dúvidas de cunho subjetivo relativamente à leitura, interpretação e bom entendimento das peças processuais não comportam guarida por via de aclaratórios.
+Dito isso pela Corte de origem, o que mais na hipótese importou sobre as ditas agressões verbais é que não foram, por si sós, aptas a gerar ofensa íntima em grau passível de compensação por danos morais. Busca a parte recorrente, em verdade, o simples reexame da matéria e alteração do quanto já decidido e julgado, o que não lhe é permitido por esta via recursal.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
