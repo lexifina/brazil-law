@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por ADMINISTRACAO & PARTICIPACOES G1 LTDA contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 195, e-STJ):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. SENTENÇA EXTINTIVA. RECURSO CABÍVEL. APELAÇÃO. ERRO GROSSEIRO.
+1. Na sistemática processual atual, dois são os critérios para a definição de "sentença": (I) conteúdo equivalente a uma das situações previstas nos arts. 485 ou 489 do CPC/2015; e (II) determinação do encerramento de uma das fases do processo, conhecimento ou execução. Nos termos, do art. 1009 do CPC de sentença caberá apelação.
+2. Neste contexto, considerando que o ato judicial recorrido extinguiu o processo, sem resolução do mérito, nos termos do art. 485, VI, do CPC, o recurso cabível é apelação e não agravo de instrumento.
+3. A interposição do agravo de instrumento representa erro grosseiro, não sendo passível de aplicabilidade o princípio da fungibilidade recursal, pois para o ato judicial em análise há previsão legal de recurso próprio, qual seja, a apelação, conforme suso indicado.
+4. Destarte, do exame da peça recursal, não foi levantada qualquer inovação na situação fático-jurídica a possibilitar a reforma pelo órgão colegiado da decisão hostilizada, instando confirmar o ato monocrático recorrido.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram acolhidos para afastar a condenação em litigância de má-fé, pelo acórdão de fls. 281-312, e-STJ.
+Em suas razões de recurso especial (fls. 317-335, e-STJ), a insurgente alega, além de dissídio jurisprudencial, afronta ao artigo 1015, parágrafo único, do CPC. Sustenta, em síntese, que contra decisão que julga incidente de habilitação de crédito em inventário cabe agravo de instrumento, por tratar-se de decisão interlocutória que não põe fim ao processo
+Contrarrazões apresentadas às fls. 361-364, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, o que justificou a interposição do presente agravo (fls. 376-388, e-STJ).
+Apresentada contraminuta (fls. 397-403, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local entendeu que "não foi interposto o recurso adequado, sendo que o correto seria a apelação cível, e não agravo de instrumento, uma vez que o ato judicial ora recorrido extinguiu o processo, sem resolução do mérito, nos termos do art. 485, VI, do CPC" (fl. 197, e-STJ).
+Assim, o Tribunal estadual decidiu pela impossibilidade de aplicação do princípio da fungibilidade recursal, ante a constatação de erro grosseiro na interposição do agravo de instrumento, uma vez que o ato judicial recorrido extinguiu o processo sem resolver o mérito, por ausência de interesse de agir (art. 485, VI, do CPC), de maneira que, na hipótese, a impugnação deveria ter ocorrido por meio do recurso de apelação.
+Com efeito, conforme entendimento desta Corte, o recurso cabível contra decisão judicial que extingue o processo é a apelação, enquanto o agravo de instrumento contra decisões que não coloquem fim ao processo ou à fase executiva em andamento, sendo que a inobservância desta sistemática caracteriza erro grosseiro que impede a aplicação do princípio da fungibilidade.
+Nesse sentido, colhem-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. RECONHECIDO EXCESSO DE EXECUÇÃO. INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. DECISÃO MONOCRÁTICA QUE NÃO CONHECE DO RECURSO DE APELAÇÃO. ERRO GROSSEIRO. RECURSO CABÍVEL CONTRA DECISÃO QUE JULGA IMPUGNAÇÃO E NÃO EXTINGUE O CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.  ..  3. Sob a égide do Código de Processo Civil de 2015, consolidou-se a jurisprudência do STJ no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução, enquanto o agravo de instrumento é o recurso cabível contra as decisões que acolhem parcialmente a impugnação ou lhe negam provimento, mas que, sobretudo, não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal, cabível apenas na hipótese de dúvida objetiva.  ..  5. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp n. 2.098.834/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE. DECISÃO DE RESOLVE, EM PARTE, O MÉRITO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO FIRMADO NESTA CORTE. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme dispõe o art. 356, caput, I e II, e § 5º, do CPC/2015, o juiz decidirá parcialmente o mérito quando um ou mais dos pedidos formulados ou parcela deles mostrarem-se incontroversos ou estiver em condições de imediato julgamento, nos termos do art. 355, sendo a decisão proferida com base neste artigo impugnável por agravo de instrumento. Precedentes.
+2. Segundo jurisprudência pacífica desta Casa: "Trata-se de erro grosseiro interpor apelação contra decisão interlocutória que não extinguiu o processo. Dessa forma, não é aplicável o princípio da fungibilidade recursal.".(AgInt no AREsp 1940126/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2022, DJe 24/02/2022).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.900.019/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AFASTAMENTO DA SÚMULA N. 284 DO STF. INEQUÍVOCO DEMONSTRADO. NOVA ANÁLISE. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO. RECURSO CABÍVEL. APELAÇÃO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. NÃO APLICAÇÃO. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A apelação é o recurso cabível contra a decisão que extingue a execução, hipótese em que, interposto agravo de instrumento, não se aplica o princípio da fungibilidade recursal por se tratar de erro grosseiro. Incidência da Súmula n. 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.389.811/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+Nesse contexto, portanto, trata-se de erro grosseiro a interposição de agravo de instrumento contra sentença que extinguiu o processo, sem exame do mérito, por ausência de interesse de agir, não sendo cabível a aplicação do princípio da fungibilidade recursal.
+Dessa forma, estando a orientação do Tribunal Estadual em consonância com a jurisprudência desta Corte, incide, na espécie, o óbice da Súmula 83/STJ, aplicável a ambas as alíneas do permissivo constitucional.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
