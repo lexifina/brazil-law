@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se agravo interno no agravo em recurso especial interposto por ARTEFLEX MAXIMINAS EQUIPAMENTOS DE PROTECAO INDIVIDUAL LTDA, com fundamento no art. 105, inciso III, alínea a da Constituição Federal (CF), no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 193 - 198):
+MANDADO DE SEGURANÇA. PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS) E CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). BASE DE CÁLCULO. EXCLUSÃO DOS VALORES REFERENTES À REDUÇÃO DE MULTAS E JUROS EM PARCELAMENTOS. DESCABIMENTO.
+Os valores das reduções de multa e juros devem integrar a base de cálculo do PIS e COFINS, por não haver lei autorizando que esses valores - que sequer foram suportados pelo contribuinte - possam ser considerados como recuperação de custo ou despesa dedutível.
+Embargos de declaração opostos pela recorrente às fls. 208-213, os quais foram rejeitados (fls. 222-223).
+Em suas razões recursais, expostas em fls. 255 - 274, a parte recorrente alega afronta aos arts. 1º das Leis n. 10.637/02 e 10.833/03; 110 do CTN, 2º e 3º da Lei n. 9.718/98 e 12, do Decreto-Lei n. 1.598/77. Ao final, requer o provimento do recurso.
+Contrarrazões da FAZENDA NACIONAL às fls. 304 - 309.
+O recurso foi admitido na origem (fls. 318 - 319).
+Em decisão de fls. 355 - 357, a eminente Ministra Assusete Magalhães, então relatora, não conheceu do recurso especial, pois entendeu que para eventual revisão do julgado seria imprescindível o incurso em matéria constitucional.
+A parte, então, apresentou o presente agravo interno.
+É o relatório. Decido.
+Inicialmente, cabe rever o posicionamento anteriormente adotado, visto que no Tema n. 1.111 o STF definiu que "é infraconstitucional a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS".
+Com efeito, a presente controvérsia relacionada à definição dos conceitos de faturamento e receita bruta tem fundamento em suposta afronta à legislação ordinária, competindo este Tribunal o seu conhecimento.
+O acórdão recorrido, quanto à impossibilidade de se excluir da base de cálculo da contribuição ao PIS e da COFINS os valores decorrentes da redução das multas e dos juros moratórios, instituída por meio do Programa Especial de Regularização Tributária (PERT), está assentado nos seguintes fundamentos: o art. 44, Lei n. 4.506/64 expressamente prevê que a recuperação ou devolução de custos, deduções ou provisões integram a receita bruta operacional; a parcela referente à redução das multas e juros constituem-se em verdadeiros acréscimos patrimoniais dos contribuintes que aderiram ao PERT; nem a lei que instituiu o PERT nem as que tratam da contribuição ao PIS e da COFINS autorizam a exclusão da base de cálculo ora pretendida, caracterizando-se em verdadeiro duplo benefício não previsto em lei.
+A parte recorrente, no entanto, deixou de impugnar especificamente a previsão contida no art. 44 da Lei n. 4.506/64, suficiente, por si só, para dar suporte à conclusão do Tribunal de origem. Portanto, incide o óbice da Súmula n. 283 do STF. Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ante o exposto, CONHEÇO do agravo interno para NÃO CONHECER em razão do óbice sumular de n. 283 do STF.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DA BASE DE CÁLCULO DOS VALORES REFERENTES À REDUÇÃO DE MULTAS E JUROS EM PARCELAMENTOS. MATÉRIA INFRACONSTITUCIONAL. FUNDAMENTO INDEPENDENTE NÃO IMPUGNADO. SÚMULA N. 283 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
