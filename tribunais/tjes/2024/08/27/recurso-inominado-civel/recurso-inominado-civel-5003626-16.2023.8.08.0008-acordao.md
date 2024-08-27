@@ -1,0 +1,89 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003626-16.2023.8.08.0008
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LEOPOLDINA MARIA DA SILVA e outros
+RECORRIDO: RECOVERY DO BRASIL CONSULTORIA S.A e outros
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5003626-16.2023.8.08.0008
+
+Recorrentes: FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS NPL II - (RECOVERY DO BRASIL CONSULTORIA S.A) e
+LEOPOLDINA MARIA DA SILVA
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recursos conhecidos por preencherem os pressupostos de admissibilidade.
+
+Defiro à parte autora/recorrente as benesses da gratuidade da Justiça, na forma do art. 98, do CPC.
+
+EMENTA
+:
+
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. PESSOA ANALFABETA.
+
+RELATA A PARTE AUTORA QUE AO TENTAR COMPRAR UMA TELEVISÃO E OUTROS ITENS EM DETERMINADA LOJA, NA MODALIDADE A PRAZO, DEPAROU-SE COM O SEU NOME INSCRITO NO ROL DE MAUS PAGADORES. AO DILIGENCIAR JUNTO A CDL DE BARRA DE SÃO FRANCISCO OBTEVE EXTRATO COM O VALOR DE R$7.355,94 INSCRITO. POR DESCONHECER O DÉBITO E A EMPRESA, PROPÔS A PRESENTE AÇÃO, VISANDO QUE SEJA RECONHECIDA A INEXISTÊNCIA DE NEGÓCIO JURÍDICO E A CONDENAÇÃO DA PARTE REQUERIDA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS.
+
+SENTENÇA
+QUE JULGOU PROCEDENTE, EM PARTE, A PRETENSÃO AUTORAL, A FIM DE: A) DETERMINAR A EXCLUSÃO DO NOME DO POSTULANTE DO CADASTRO DE DEVEDORES INADIMPLENTES MANTIDO PELOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO, EM RAZÃO DO DÉBITO ATACADO, SOB PENA DE MULTA DIÁRIA; B) DECLARAR A INEXISTÊNCIA DO DÉBITO VERGASTADO NO VALOR DE R$7.355,94 VINCULADA AO CONTRATO DE CÉDULA DE CRÉDITO BANCÁRIO CEDIDO PELA EMPRESA PORTOCRED S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO DE N° 3810811540; E C) CONDENAR O REQUERIDO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS À AUTORA, NO VALOR DE R$3.000,00.
+
+RECURSO INOMINADO
+DA PARTE REQUERIDA, PLEITEANDO A REFORMA DA SENTENÇA PARA JULGAR O PEDIDO TOTALMENTE IMPROCEDENTE, AFASTANDO A CONDENAÇÃO EM DANO MORAL E DECLARANDO EXIGÍVEL O DÉBITO OBJETO DA NEGATIVAÇÃO REALIZADA.
+
+RECURSO CONHECIDO E IMPROVIDO.
+
+ESCORREITA A SENTENÇA PROFERIDA PELO JUIZ DE PRIMEIRO GRAU QUE NESSE SENTIDO DISPÔS
+: ”
+Não obstante a demandada ter procedido com a juntada da respectiva contratação (ID 35884663), pode-se aferir que, a mesma foi assinada a rogo, com pessoas desconhecidas pela autora. Mesmo que exista uma aposição de digital, não se pode olvidar que, embora a postulante possua plena capacidade para a prática de atos da vida civil, o art. 595 do Código Civil preceitua que 'no contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas'. A teleologia do dispositivo legal antes referido é tutelar o sujeito do negócio jurídico que se encontra em acentuada condição de vulnerabilidade, sob pena de sua invalidade.
+Acrescente-se que, tratando-se de relação consumerista, o art. 39, inciso IV, da Lei nº 8.078/90 elenca como prática abusiva “prevalecer-se da fraqueza ou ignorância do consumidor, tendo em vista sua idade, saúde, conhecimento ou condição social, para impingir-lhe seus produtos ou serviços”, uma vez que tal conduta viola a boa-fé contratual e o coloca em desvantagem exagerada.”
+COMPULSANDO OS AUTOS, FOI DEMONSTRADO A CONTENTO QUE A PARTE AUTORA É PESSOA ILETRADA. ASSIM CONSIGNA O SEU DOCUMENTO DE IDENTIFICAÇÃO PESSOAL. ALÉM DISSO, O PRÓPRIO INSTRUMENTO CONTRATUAL E OUTROS DOCUMENTOS DOS AUTOS CONTÉM APENAS A SUA DIGITAL, À GUISA DE SUBSCRIÇÃO.
+O SUPERIOR TRIBUNAL DE JUSTIÇA JÁ RECONHECEU COMO CATEGORIA JURÍDICA A HIPERVULNERABILIDADE, SALIENTANDO QUE “
+[...] A VULNERABILIDADE INFORMACIONAL AGRAVADA OU POTENCIALIZADA, DENOMINADA HIPERVULNERABILIDADE DO CONSUMIDOR, PREVISTA NO ART. 39, IV, DO CDC, DERIVA DO MANIFESTO DESEQUILÍBRIO ENTRE AS PARTES. [...]
+” (RESP 1329556/SP, REL. MINISTRO RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, JULGADO EM 25/11/2014, DJE 09/12/2014). SENDO O CONTRATANTE NÃO ALFABETIZADO E, POR CONSEGUINTE, INCAPAZ DE CONHECER, POR SI MESMO, O TEOR DAS CLÁUSULAS ÀS QUAIS ADERE AO INSTRUMENTO PARTICULAR, ISOLADAMENTE, NÃO CONSTITUI PROVA SUFICIENTE DA EMISSÃO VÁLIDA DA VONTADE.
+
+SENTENÇA
+A QUO
+DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+
+RECURSO DA PARTE AUTORA
+
+PLEITEANDO A REFORMA DA SENTENÇA NO SENTIDO DE MAJORAR OS DANOS MORAIS.
+
+RECURSO CONHECIDO E IMPROVIDO
+
+O PEDIDO DE MAJORAÇÃO DO VALOR ARBITRADO, ENTENDO POR IMPROCEDENTE. O VALOR DA INDENIZAÇÃO DEVE ATENDER A DUAS FINALIDADES, PUNIR O OFENSOR E OFERECER ALGUMA COMPENSAÇÃO AO OFENDIDO, SEM CONSTITUIR ENRIQUECIMENTO ILÍCITO. SENTENÇA
+A QUO
+DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+
+SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+,
+NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95), CONDENA-SE A PARTE RECORRENTE AO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”. EM RELAÇÃO A PARTE AUTORA FICA SUSPENSO A CONDENAÇÃO, VISTO A CONCESSÃO DA BENESSES DA JUSTIÇA GRATUITA.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
