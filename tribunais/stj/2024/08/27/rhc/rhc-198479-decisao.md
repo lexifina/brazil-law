@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por OSANIAS MOREIRA DE FREITAS, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Ceará (HC n. 0623119-59.2024.8.06.0000).
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada, pela suposta prática do delito tipificado no art. 121, §2º, II e IV, do Código Penal, a qual foi posteriormente substituída por medidas alternativas ao cárcere.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem e manteve as medidas cautelares da forma como fixadas, nos termos do acórdão de fls. 60-69 (e-STJ).
+Nesta Corte, a defesa sustenta a existência de constrangimento ilegal decorrente da desnecessidade e da desproporcionalidade da medida cautelar de monitoramento eletrônico, sob o argumento de que a fiscalização prejudica a rotina do acusado e o seu convívio em sociedade. (e-STJ, fls. 72-79).
+Requer a revogação do monitoramento eletrônico.
+A medida liminar foi indeferida (e-STJ, fls. 92).
+Prestadas as informações (e-STJ, fls. 99-102), o Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 105-110).
+É o relatório.
+Decido.
+Na decisão que revogou a prisão provisória com a fixação de medida cautelar alternativa, constou:
+"Entendo que não mais subsiste concretamente a necessidade da manutenção da custódia cautelar, devendo a prisão preventiva ser revogada.
+(..)
+Segundo se verifica da fundamentação da decisão que decretara a prisão preventiva, fora ela motivada de forma ampla nos termos do art. 312, do Código de Processo Penal, mormente por suposta fuga do distrito da culpa.
+Contudo, da detida análise da documentação que fora juntada aos autos, constata-se que frágeis são as provas de que o acusado Ozanias Moreira de Freitas representa uma ameaça efetiva e concreta à ordem pública ou mesmo à aplicação da lei penal, ausente ainda o motivo da conveniência da instrução penal.
+Isso porque, pelo que restou demonstrado pelo causídico subscritor da peça inicial, o citado réu possui endereço fixo na cidade de Guailiba/CE, conforme documentos juntados nestes autos, qual seja, na Rua José Lopes da Costa, nº 495, Centro, Guaiuba/CE.
+Ademais, denota-se que houve um equívoco quanto ao direcionamento dos expedientes, tanto pela Secretaria da Comarca Agregada como pela autoridade policial, visto que conforme observado no mandado de prisão e na carta precatória de pgs. 149/150 nos autos principais, consta como endereço a Rua Catumbi, 95, Parque Potira, Caucaia/CE, endereço totalmente divergente ao apresentado pelo acusado nos autos.
+Além disso, apesar de haver novas intimações para os endereços informados às pgs. 140/141 pelo Ministério Público, nenhuma das cartas precatórias expedidas foi direcionada para o endereço informado pelo réu, com a numeração correta.
+Desse modo, verifica-se que o acusado supra esteve durante todo esse tempo praticando atos da vida civil normalmente no Município de Guaiuba, no endereço indicado, não havendo como induzir que estava foragido ou mesmo que seja uma pessoa que representa perigo pra a sociedade a ponto de merecer um decreto preventivo em virtude de responder por um delito.
+(..)
+Além disso, a certidão criminal presente nestes autos (pgs. 19/21) demonstra que o acusado supra não fora condenado em qualquer outro processo criminal, sendo pessoa tecnicamente primária.
+(..)
+Também não se pode conjecturar que o acusado, uma vez posto em liberdade, poderá empreender fuga, porquanto tais adivinhações não são condizentes com os pressupostos para o decreto de prisão preventiva, os quais devem basear-se em situações concretas, sob pena de se inverter a ordem constitucional, já que a regra é que os acusados respondam o processo em liberdade.
+(..)
+No entanto, é de se concluir que somente é possível a aplicação de medidas cautelares quando preenchidos os critérios do art. 282 e quando não for cabível a prisão preventiva, a teor do § 6º desse mesmo dispositivo.
+Destarte, deve-se conceder ao acusado a liberdade provisória com imposição de medidas cautelares diversas da prisão, como forma de garantir a conveniência da instrução criminal e pela gravidade concreta do delito atribuído ao acusado, qual seja o de homicídio em sua forma qualificada, enquadrando-se nas hipóteses previstas no art. 282, do Código de Processo Penal,(..)
+(..)
+Diante do exposto, REVOGO a prisão preventiva de OZANIAS MOREIRA DE FREITAS decretada, nos termos do art. 310, parágrafo único, em sua antiga redação e 316, caput, ambos do Código de Ritos Penais, mediante a imposição das seguintes medidas cautelares:
+a) fica o réu proibido de ausentar-se da Comarca onde reside, salvo situações de risco ou perigo de vida, pelo prazo de 180 (cento e oitenta) dias (art. 319, IV, CPP);
+B) recolhimento domiciliar noturno de 18 às 06 hrs diariamente e aos finais de semana de 18hrs de sábado às 06hrs de segunda-feira, observado os feriados, no prazo de 180 (cento e oitenta) dias (art. 319, V) e
+c) Uso de tornozeleira eletrônica, não podendo ultrapassar o perímetro delimitado, no prazo de 180 (cento e oitenta) dias (art. 319, IX do CPP)". (e-STJ, fls. 22-30)
+O Tribunal de origem assim se manifestou:
+"2.1 Da tese de ausência de fundamentação para manutenção da medida cautelar de monitoramento eletrônico
+Quanto à alegação de constrangimento ilegal devido ausência de requisitos para a manutenção da medida cautelar de monitoramento eletrônico, sendo necessária a revogação devido a medida prejudicar o seu retorno para a convivência em sociedade e sua rotina diária, não assiste razão à impetrante. Explico.
+In casu, por ocasião da análise do pedido de revogação da prisão nº 0010110-76.2022.8.06.0056 realizada em 22/04/2022 (fls. 29/37 do referido processo), que culminou com a sua revogação da segregação cautelar do paciente, a autoridade coatora entendeu necessária e adequada ao caso concreto a imposição das medidas cautelares como forma de garantir a conveniência da instrução criminal e garantir a ordem pública pela gravidade concreta do delito atribuído ao acusado, estabelecendo a medida de monitoração eletrônica por prazo inicial de 180 (cento e oitenta) dias para o seu cumprimento.
+Após pedido do paciente de retirada do monitoramento eletrônico (fls. 661/662 dos autos de origem), a autoridade impetrada proferiu decisão no dia 31/07/2023 (fls. 669/671 dos autos de origem), indeferindo o pedido de revogação da medida cautelar de monitoração eletrônica, prorrogando por 90 (noventa) dias.
+Em decisão de reavaliação da medida cautelar de monitoração eletrônica em 05/02/2024 (fls. 678/680 dos autos de origem), objeto do presente writ, a autoridade coatora prorrogou a medida pelo prazo de 90 dias devido estas serem proporcionais ã gravidade da conduta supostamente cometida pelo paciente e devido ã ausência de alteração do contexto fãtico da decisão que impôs as medidas cautelares diversas, eis que, o paciente ceifou a vida da vítima por meio de disparos de arma de fogo no momento em que esta estava discutindo com outra pessoa, fugindo do local em seguida, consoante relatório final do inquérito policial nº 04/2013 (fls. 107/113 dos autos de origem) e denúncia (fls. 120/122 dos autos de origem).
+Assim, observa-se que, ao contrário do que alega a parte impetrante, a manutenção da medida cautelar de monitoramento eletrônico está devidamente fundamentada na gravidade em concreto da conduta supostamente praticada pelo paciente, não existindo manifesta ilegalidade, sendo a referida medida cautelar forma de resguardar a ordem pública.
+(..)
+Ademais, ressalta-se que a monitoração eletrônica não impossibilita o paciente de conviver em sociedade e realizar sua rotina diária, como exercer uma atividade profissional.
+Desse modo, no presente momento processual, não se verifica qualquer ilegalidade na permanência da medida cautelar de monitoração eletrônica, eis que a medida está devidamente fundamenta e não se vislumbra elementos novos capazes de evidenciar que a revogação da medida cautelar aplicada seja a solução mais acertada para o caso concreto, já que se mostra adequada para assegurar a manutenção da ordem pública, conforme decisão do juízo a quo (fls. 678/680 dos autos de origem)." (e-STJ fl. 63-69)
+No caso, observa-se que a colocação do réu sob monitoramento eletrônico está fundada na garantia da ordem pública, tendo em vista o modus operandi do delito - já o recorrente ceifou a vida da vítima por meio de disparos de arma de fogo no momento em que esta estava discutindo com outra pessoa, fugindo do local em seguida.
+Esta Corte Superior possui jurisprudência no sentido de que "diante das circunstâncias concretas do caso e em observância à proporcionalidade e adequação, é possível a manutenção das medidas cautelares quando se mostrarem necessárias para garantir a ordem pública, a conveniência da instrução criminal ou a aplicação da lei penal" (AgRg no RHC n. 160.743/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 17/5/2022, DJe de 20/5/2022).
+Desse modo, embora o recorrente esteja sendo cautelarmente monitorado há quase 2 anos, verifica-se que a medida se mostra adequada ao caso - ou até se pode dizer mais benéfica ao acusado, diante da motivação apresentada em sua determinação - e tem sido regularmente reavaliada, consoante se extrai das informações prestadas pelo Juízo processante (e-STJ, fls. 100-101), de modo que não há se falar em desproporcionalidade.
+Confira-se os julgados desta Corte nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. MONITORAMENTO ELETRÔNICO. PROPORCIONALIDADE. MEDIDA JUSTIFICADA.
+1. Legítima a imposição e manutenção da medida cautelar de monitoração eletrônica, a qual se mostra proporcional ao caso concreto para fins de garantia da ordem pública, ainda mais se tratando de homicídio qualificado, com sentença de pronúncia já proferida. Ademais, como destacaram as instâncias ordinárias, o uso do equipamento eletrônico pelo ora agravante não obsta exercer sua atividade laborativa.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 177.785/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO E CORRUPÇÃO DE MENORES. ANULAÇÃO DO TRIBUNAL DO JÚRI. CONCEDIDA LIBERDADE PROVISÓRIA COM MONITORAMENTO ELETRÔNICO. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte superior entende que, "para a aplicação das medidas cautelares diversas da prisão, exige-se fundamentação específica que demonstre a necessidade e adequação da medida em relação ao caso concreto" (HC n. 399.099/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe de 1º/12/2017).
+2. Ademais, "para a imposição das medidas cautelares, deverá ser observada a presença do fumus comissi delicti - materialidade e indícios de autoria - e do periculum ao regular andamento da ação penal, exigindo-se, ainda, em cada caso concreto, o exame dos vetores necessidade e adequabilidade" (RHC n. 93.516/RS, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 6/11/2018, DJe 16/11/2018).
+3. No caso, apesar de sucinta a fundamentação para a imposição da medida cautelar de monitoramento eletrônico, o Tribunal de origem fez referência à gravidade do delito praticado, estando, portanto, devidamente justificada a imposição da citada medida.
+4. Recurso em habeas corpus desprovido.
+(RHC n. 136.414/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/9/2021, DJe de 22/9/2021.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Recomenda-se, entretanto, de ofício, ao Juízo da Vara Única da Comarca de Capistrano/CE, que prossiga com o reexame periódico da necessidade da medida cautelar, tendo em vista o tempo decorrido e disposto na Lei 13.964/19.
+Publique-se. Intimem-se.
+EMENTA
