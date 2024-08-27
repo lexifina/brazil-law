@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos artigos arrolados, incidência da Súmula n. 7/STJ, e falta de comprovação do dissídio jurisprudencial (e-STJ fls. 718/720).
+O acórdão recorrido está assim ementado (e-STJ fl. 653):
+AÇÃO ORDINÁRIA DE CUMPRIMENTO DE CONTRATO - INSTRUMENTO DE TRANSFERÊNCIA DE QUOTAS E OBRIGAÇÕES - ILEGITIMIDADE PASSIVA DO CORRÉU ADRIANO FERNANDES DE ARRUDA - CONTRATO POSTERIOR À TRANSFERÊNCIA DA INTEGRALIDADE DE SUAS COTAS AO CORRÉU ALTAIR APARECIDO GARCIA, SEM QUALQUER PARTICIPAÇÃO D E ADRIANO - RESPONSABILIDADE DO CEDENTE A QUE ALUDE O ART. 1003, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL RESTRITA ÀS OBRIGAÇÕES SOCIAIS CONTRAÍDAS ANTES DE SUA RETIRADA, NÃO SENDO ESSE O CASO - AUSÊNCIA DE COMPROVAÇÃO DE ADIMPLEMENTO PELA AUTORA DO VALOR ACORDADO E DA FORMA DE PAGAMENTO A FIM DE QUE POSSA EXIGIR IMPLEMENTO DA OBRIGAÇÃO DA PARTE CONTRÁRIA - FATO CONSTITUTIVO DO DIREITO NÃO DEMONSTRADO - CPC, ART. 473, INCISO I - CÓDIGO CIVIL, ART. 476 - AÇÃO IMPROCEDENTE RECURSO IMPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 658/691), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 476 e 1.003, parágrafo único, do CC/2002. Sustentou que o recorrido Adriano foi sócio da recorrente até o ano de 2019, o que o tornaria responsável pelas obrigações assumidas nos dois anos subsequentes. Afirmou que Adriano transferiu a totalidade de sua participação societária a Altair, de forma que ambos devem ocupar o polo passivo da ação. A seu ver qualquer disputa referente à divisão de responsabilidades deve ser tratada em futura ação regressiva. Alegou que a "parte Recorrida negligenciou completamente as obrigações entabuladas, que consistiam em adquirir mercadorias da Recorrente, o que resultou na suspensão dos pagamentos por parte da Recorrente. Estes pagamentos tinham como finalidade específica garantir o cumprimento das parcelas do contrato" (e-STJ fl. 680). Ressalta ter efetivamente cumprido sua obrigação, podendo, portanto, exigir o cumprimento por partes dos recorridos. Indicou julgado do TJMG a fim de demonstrar a divergência de entendimentos.
+Contrarrazões às fls. 696/717 (e-STJ).
+No agravo (e-STJ fls. 723/735), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 738/755).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O Tribunal de origem, no que concerne à legitimidade de Adriano, assim decidiu (e-STJ fl. 654):
+A ilegitimidade passiva de Adriano foi bem reconhecida, na medida em que ao ensejo do instrumento de transferência de quotas e obrigações que está em discussão já havia cedido a integralidade de suas quotas a Altair, e do qual, portanto, não participou.
+Ressalte-se que responsabilidade do cedente pelo biênio a que alude o art. 1.003, parágrafo único, do Código Civil, restringe-se às obrigações contratuais que foram contraídas no período em que ainda ostentava a qualidade de sócio, antes de sua retirada da sociedade (STJ, REsp nº 1.537.521, Rel. Min. Ricardo Cueva, DJ 12.02.2019; Ag no Resp nº 1.520.206, Rel. Min. Luis Felipe Salomão, DJ 05.11.2019), não sendo esse o caso.
+O entendimento do TJSP está de acordo com a jurisprudência desta Corte, a teor do seguinte julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE DO EX-SÓCIO PELAS OBRIGAÇÕES CONTRAÍDAS APÓS SUA RETIRADA DA SOCIEDADE. IMPOSSIBILIDADE. LIMITE TEMPORAL DE DOIS ANOS. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A jurisprudência desta Corte é no sentido de que, "na hipótese de cessão de quotas sociais, a responsabilidade do cedente pelo prazo de até 2 (dois) anos após a averbação da respectiva modificação contratual restringe-se às obrigações sociais contraídas no período em que ele ainda ostentava a qualidade de sócio, ou seja, antes da sua retirada da sociedade. Inteligência dos arts. 1.003, parágrafo único, 1.032 e 1.057, parágrafo único, do Código Civil de 2002" (REsp 1.537.521/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 12/2/2019).
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.294.750/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1/7/2024, DJe de 2/8/2024.)
+Aplicável a Súmula n. 83/STJ.
+Quanto ao cumprimento da obrigação, o Colegiado local concluiu que a agravante "não comprovou o cumprimento de sua obrigação contratual", estando "parcialmente inadimplente desde novembro de 2020" (e-STJ fl. 656), de forma que não poderia exigir o cumprimento do contrato pela parte contrária.
+Para decidir de outro modo, acolhendo a alegação recursal de que teria cumprido integralmente sua obrigação, seria necessário o revolvimento do contexto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Referidos óbices - Súmulas n. 7 e 83 do STJ - impedem o conhecimento do recurso interposto com base tanto na alínea "a" quanto na "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
