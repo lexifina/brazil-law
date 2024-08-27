@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015), interposto por KATIA PINHEIROS PESSE, contra decisão que não admitiu recurso especial (fls. 1328/1329, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1278, e-STJ):
+Apelação Cível - Dano Moral em razão de ajuizamento de ação - Inexistência - Ausência de abuso de direito pelo Condomínio no ajuizamento de ação de cobrança de taxas condominiais, tendo em conta contrato com empresa garantidora - Precedentes desta Corte reconhecendo a legitimidade do credor - Apelo provido para afastar a condenação ao pagamento de dano moral.
+Em suas razões de recurso especial, a recorrente aponta a existência de dissídio jurisprudencial, sustentando, em síntese, a ilegitimidade do condomínio para ajuizar ação de cobrança de taxas condominiais já pagas por empresa privada de crédito, mesmo sem cláusula expressa de sub-rogação no contrato. Afirma que o recorrido deve ser condenado ao pagamento de danos morais no importe de R$5.000,00 (cinco mil reais).
+Contrarrazões (fls. 1320/1327, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de ausência de cotejo analítico.
+Daí o presente agravo (art. 1042 do CPC/2015), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 1347/1352 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, cabe ressaltar, a falta de indicação clara e objetiva de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C COMPENSAÇÃO POR DANOS MORAIS E REPETIÇÃO DO INDÉBITO. CONTRATAÇÃO DE EMPRÉSTIMO NA MODALIDADE DE DESCONTO DA RESERVA DA MARGEM CONSIGNÁVEL (RMC) DE BENEFÍCIO PREVIDENCIÁRIO. DISCUSSÃO ACERCA DA LEGALIDADE DA COBRANÇA. MANUTENÇÃO DA SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO. 1. A ausência de indicação do dispositivo de lei em que apontada interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). 2. Agravo interno desprovido. (AgInt no AREsp n. 2.014.852/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DISPOSITIVOS DE LEI FEDERAL ALEGADAMENTE VIOLADOS. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DA VIOLAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. NÃO PROVIMENTO. 1. A mera citação de dispositivos de lei federal tidos por violados, desacompanhada de fundamentação clara e objetiva acerca de como teria ocorrido a violação pelo acórdão recorrido, evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do Supremo Tribunal Federal. Precedentes. 2. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). 3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.551.525/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/3/2020, DJe de 26/3/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA. 1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do artigo 105 da Constituição Federal. Incidência, por analogia, da Súmula 284 do STF. 2. Agravo interno desprovido. (AgInt no REsp n. 1.680.845/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/4/2018, DJe de 19/4/2018.)
+2. Ademais, ainda que superado o óbice, a Corte de origem, ao solucionar a demanda, adotou os seguintes fundamentos (fls. 1279/1280, e-STJ):
+Com o devido respeito a entendimento diverso, não vislumbro dano imaterial a ser reconhecido.
+Inexiste dúvida de que a apelada, à época do ajuizamento da ação, era inadimplente das taxas condominiais.
+Ocorreu o ajuizamento de Ação Civil Pública, por parte do Ministério Público do Estado de São Paulo, com o intuito de averiguar a legitimidade do Condomínio, em razão de contrato com empresa garantidora.
+Entendeu o Magistrado, como correto, devido a esta ação, extinguir a ação ajuizada pelo apelante, por ilegitimidade de parte.
+(..)
+Com efeito, existindo entendimento aceitando a legitimidade do Condomínio, não há violação ao direito da personalidade.
+O exercício do direito de ação, garantido constitucionalmente, somente causa dano em caso de abuso.
+(..)
+No caso, como exposto, inexiste este elemento, o que acarreta a improcedência da ação.
+2.1. Ocorre, com relação à fundamentação delineada pela Corte de origem acerca da ausência de abuso do direito de ação, não houve impugnação nas razões do recurso especial.
+Desse modo, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF.
+Com efeito, cabe ressaltar que a incidência do verbete da Súmula 283/STF impede, de igual modo, o conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional, tendo em vista que os precedentes colacionados não fazem qualquer referência ao fundamento não impugnado do aresto, deixando de haver a necessária similitude para que se configure a hipótese em questão.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO REVISIONAL DE CONTRATO E DE RESTITUIÇÃO DE VALORES. REAJUSTES DAS CONTRAPRESTAÇÕES PECUNIÁRIAS COM BASE NA SINISTRALIDADE. DECISÃO RECORRIDA FUNDAMENTADA NA INOBSERVÂNCIA DO DEVER DE INFORMAÇÃO. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283 DO STF. ALÍNEAS "A" E "C". AGRAVO INTERNO NÃO PROVIDO. (..) 2. O óbice da Súmula 283/STF aplica-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1207118/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/04/2018, DJe 06/04/2018)
+2.2. Além disso, reexaminar o entendimento da instância inferior, conforme busca o ora agravante, demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Outrossim, esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem (AgInt no REsp 1715896/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2018, DJe 11/10/2018).
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se. Intimem-se.
+EMENTA
