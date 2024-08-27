@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICIPIO DE PARAUNA contra decisão que negou admissibilidade a recurso contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (e-STJ fl. 552):
+APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. PEDIDO DE COBRANÇA. REVOGAÇÃO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA. AUSÊNCIA DE PROVAS. JORNADA SEMANAL DE TRABALHO. HORAS EXTRAORDINÁRIAS. ATIVIDADES EXTRACLASSE. NECESSIDADE DE DILAÇÂO PROBATÓRIA. CADERNO DE PONTOS. SENTENÇA CASSADA DE OFÍCIO. APELO PREJUDICADO.
+1. Para a revogação do benefício da gratuidade da justiça, a impugnação deve estar acompanhada da comprovação da ausência da hipossuficiência da apelante, ônus do qual não se desincumbiu o apelado.
+2. Considerando que o cerne da discussão processual é justamente o direito da autora ao recebimento de horas extraordinárias, conclui-se que o feito necessita de melhor instrução processual, com a produção da prova documental consistente na apresentação de folha de pontos e/ou escala de aulas requerida pela parte apelante.
+SENTENÇA CASSADA DE OFÍCIO. APELO PREJUDICADO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 802/810).
+Interposto recurso especial, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, alega a violação ao artigo 373, §§ 1º e 2º do CPC/2015, nestes termos (e-STJ fl. 885):
+O artigo 373 do Código de Processo Civil vigente prevê: como regra: a teoria estática do ônus da prova, cabendo ao autor demonstrar os fatos constitutivos do seu direito, recaindo sobre o réu o ônus de provar fato impeditivo, extintivo ou modificativo do direito do autor. Já os §§ 1º e 2º do artigo 373, preveem, excepcionalmente, a teoria da carga dinâmica do ônus da prova, segundo a qual o magistrado pode atribuir o ônus da prova a quem tenha maior facilidade de produzi-la, desde que o faça por decisão fundamentada.
+No presente caso se mostra viável a aplicação da teoria da carga dinâmica, vez que, em que pese a imposição da apresentação dos documentos supramencionados pelo requerido, a autora, por sua vez, poderá apresentar seus contracheques ou quaisquer outras provas que demonstrem o direito ora vindicado.
+Defende divergência jurisprudencial, assim (e-STJ fl.888):
+Após isso, durante a instrução processual, foram produzidas outras provas que comprovam que a Requerente não faz jus ao direito ora alegado, restando estas, suficientes.
+Tanto é verdade que inúmeras outras apelações foram analisadas por outras Câmaras Cíveis do Tribunal de Justiça do Estado de Goiás, as quais mantiveram intactas as r. Sentenças a quo, tratando-se de casos estritamente idênticos ao caso dos presentes autos, em que este MUNICÍPIODE PARAÚNA figura como apelado.
+Isso se dá porque diversas ações foram manejadas por quase todos os Professores da rede municipal de educação da cidade de Paraúna/GO, questionando acerca de horas extras.
+Requer, alternativamente, que (e-STJ fl. 906/907):
+" ..  caso Vossas Excelências não acatem as alegações acima formuladas, o que não se espera, requer que os autos retornem a origem, sendo oportunizado à parte autora a emenda à petição inicial, para delimitar o pedido referente ao suposto direito às horas extras, especificando as horas as quais faz jus, bem como os devidos valores a serem cobrados do Município de Paraúna a esse título.
+Em juízo de admissibilidade, o Tribunal de origem inadmitiu o recurso especial por verificar que o exame da controvérsia recursal implicaria em reexame fático-probatório, vedado em sede de recurso especial, a teor do entendimento firmado na Súmula 7/STJ (e-STJ fls. 1390/1392).
+Interposição de agravo (e-STJ fls. 1397/1426).
+Sem contraminuta (e-STJ fl. 1887).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os pressupostos recursais do agravo, passo ao exame do recurso especial.
+Não se conhece do recurso especial no tocante à negativa de vigência ao artigo 373, §§ 1º e 2º do CPC/2015, pois assim decidiu o colegiado na origem (e-STJ fls.548/550):
+Ressalto, por oportuno, que o reconhecimento da necessidade de dilação probatória pelo magistrado não preclui, podendo ser determinada, inclusive, de ofício, tanto no primeiro quanto no segundo grau de jurisdição.
+No caso em tela, entendo que a prova documental consistente na exibição da folha de pontos da autora (pleito formulado liminarmente na exordial, conforme narrado em linhas pretéritas) é essencial para averiguar se houve o alegado descumprimento da legislação (art. 2º,§ 4º, da Lei federal n. 11.738/2008) que determina a reserva de 1/3 das horas para atividades extraclasse.
+ ..
+Concluo que, no caso ora em análise, em virtude da insuficiência probatória, em especial pela ausência dos cadernos de pontos do período pleiteado na inicial, documentos essenciais na verificação da questão controvertida (que trata justamente sobre horas extras), e em busca da verdade real, a cassação da sentença em apreço é medida que se impõe, a fim de que seja determinada nova intimação da parte requerida/apelada para juntar a prova documental pleiteada, restando, assim, prejudicada a análise do recurso de apelação cível.
+Destaco que, embora o pedido tenha sido analisado pelo julgador a quo na movimentação n.º 21, nada impede a determinação de dilação probatória por este segundo grau de jurisdição, ainda que de ofício, em atenção aos princípios da efetividade da tutela jurisdicional e da busca da verdade material.
+Por fim, esclareço que o caso em apreço difere da Apelação Cível n. 5653467-58.2020.8.09.0120, também sob minha relatoria, considerando que naqueles autos houve ajuntada dos cadernos de pontos pela própria autora, de modo que não haveriam outras provas a serem produzidas.
+Ante o exposto, casso, de ofício, a sentença, a fim de que o feito seja melhor instruído, especialmente para determinar a produção da prova documental consistente na apresentação da folha de pontos e/ou escala de aulas da autora/apelante, se houver, relativo aos cinco anos anteriores ao ajuizamento da ação. De consequência, julgo prejudicado o apelo.
+Considerando as premissas consignadas no acórdão a quo, a tese recursal requer reexame fático-probatório, o que é vedado em sede de recurso especial, a teor do entendimento firmado na Súmula n. 7/STJ.
+Acrescenta-se que o recorrente defende divergência jurisprudencial com julgados oriundos do próprio Tribunal de origem, o que obsta o conhecimento do recurso especial, nos termos do entendimento firmado na Súmula n. 13/STJ, que assim dispõe: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. JULGAMENTO ANTECIPADO DA LIDE. CONJUNTO DE PROVAS SUFICIENTE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃO PARADIGMA DO MESMO TRIBUNAL JULGADOR. SÚMULA 13/STJ. PROVIMENTO NEGADO.
+ ..
+2. Não se conhece do recurso com fundamento em divergência jurisprudencial quando o acórdão indicado como paradigma foi proferido pelo mesmo tribunal prolator do acórdão impugnado, situação que atrai a incidência da Súmula 13 do STJ: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.481.940/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 20/11/2023, DJe de 27/11/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. COMPRA E VENDA. VEÍCULO USADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA 13/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. Nos termos da Súmula 13 do STJ, não se admite recurso especial por dissídio entre julgados do mesmo Tribunal.
+3. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.401.167/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. JORNADA SEMANAL. HORAS EXTRAORDINÁRIAS. OFENSA AO AO ARTIGO 373, §§1º E 2º, DO CPC/2015. TESE RECURSAL ATRELADA A ASPECTOS FÁTICO-PROBATÓRIOS CONSIDERADOS PELO COLEGIADO LOCAL . SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. JULGADOS ORIUNDOS DO MESMO TRIBUNAL DE ORIGEM. NÃO CONHECIMENTO. SÚMULA 13/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
