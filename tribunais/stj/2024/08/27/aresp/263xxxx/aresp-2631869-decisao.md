@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência das Súmulas n. 5 e 7 do STJ (e-STJ  fls.  457/459).
+O  acórdão  recorrido  encontra-se  assim  ementado  (e-STJ  fl.  386 ):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL C/C DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E RESTITUIÇÃO DE VALORES EM DOBRO E DANOS MORAIS. CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO. INCIDÊNCIA DO CDC. UTILIZAÇÃO DO CARTÃO PARA EFETUAR COMPRAS. SÚMULA Nº 63 DO TJGO. DISTINGUISHING. SENTENÇA REFORMADA.
+I- A contratação de cartão de crédito consignado será considerada abusiva nas hipóteses em que, por ausência de informação clara, adequada e precisa, o consumidor for induzido a acreditar que está realizando operação de empréstimo consignado quando, na realidade, está celebrando contrato de cartão de crédito, com direito a desconto em folha do valor da parcela mínima.
+II- Evidenciado pelo conjunto probatório dos autos a ciência da consumidora a respeito da modalidade contratada com a utilização do cartão para realização de compras, não se reputa irregular a cobrança do requerido em face da autora.
+III - Ademais, o distinguishing que afasta a aplicação do entendimento sumulado por esta Corte permeia no fato de que a apelada realizou compras utilizando o cartão de crédito, que evidencia, portanto, que tinha plena consciência dos efeitos e das condições previstas na avença firmada entre as partes.
+IV - Log o, não há falar em declaração de inexistência do débito, em revisão da avença originária para o contrato de empréstimo pessoal consignado, em readequação da taxa de juros remuneratórios prevista no pacto, em restituição do indébito (simples ou em dobro), tampouco em indenização por danos morais, motivo pelo qual merece reforma a sentença para julgar improcedentes os pedidos iniciais.
+V - Diante do desfecho ora conferido à lide, resta condenar a autora nas custas e honorários advocatícios em 12% (doze por cento) do valor da causa, observada a suspensão de exigibilidade decorrente da gratuidade de justiça deferida.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 408/416).
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  421/431),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  a parte recorrente alegou violação dos arts. 51, inciso IV, 52 e 54 do Código de Defesa do Consumidor.
+Aduziu que seja reconhecido que o contrato assumido pela parte seja de empréstimo consignado e que, "diante da inexistência de previsão da taxa de juros no contrato, determinar que seja feito o recálculo dos juros fixados, segundo a taxa média mensal de juros das operações de crédito com recursos livres" (e-STJ fl. 430).
+Defendeu que "seja condenando o recorrido a devolver em DOBRO todos os valores descontados indevidamente de taxa mínima e/ou valore pagos a maior do que utilizo" (e-STJ fl. 430).
+Consignou, ainda, a necessidade de condenação do "Banco recorrido ao pagamento a título de indenização por danos morais pela humilhação e vexame, pela ilegalidade que cometeu com o recorrente desde o início da contratação" (e-STJ fl. 431).
+  No  agravo  (e-STJ  fls.  463/473),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Não foi  oferecida  contraminuta  (e-STJ  fl.  478).
+  É  o  relatório.
+Decido.
+Relativamente à tese de que seja reconhecido que o contrato assumido pela parte seja de empréstimo consignado, a Corte de origem asseverou que (e-STJ fls. 390/391, negritei):
+ ..
+Analisando o caderno processual, especialmente a proposta de adesão cartão de crédito consignado e autorização para desconto em folha de pagamento, tem-se que a requerente anuiu com os termos da contratação, visto que pactuou a emissão de cartão de crédito e autorizou expressamente o desconto em folha de pagamento, apondo sua assinatura no contrato em avença.
+Além disso, o conjunto probatório evidencia a ciência da consumidora a respeito da modalidade contratada, com a utilização do cartão para realização de compras em diversos estabelecimentos, conforme demonstra as faturas juntadas com a contestação (mov. 15, arq. 5, fls. 34, 35, 36, 38, 40).
+Logo, evidente o distinguishing, o que afasta a aplicação do entendimento sufragado na súmula 63 desta Corte, pois, conforme demonstrado, a autora realizou compras em diversos estabelecimentos, revelando, desse modo, que tinha consciência dos efeitos e das condições previstas no contrato.
+Desta forma, não se reputa irregular a cobrança da parte apelante em desfavor da recorrida, que, conscientemente, utilizou-se do cartão de crédito com o intuito realizar saques e compras periódicas.
+Modificar o entendimento do acórdão impugnado tendo em vista que "o conjunto probatório evidencia a ciência da consumidora a respeito da modalidade contratada, com a utilização do cartão para realização de compras em diversos estabelecimentos, conforme demonstra as faturas juntadas com a contestação", no caso concreto, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Quanto às alegações de necessidade de devolução em dobro de todos os valores descontados indevidamente e ocorrência de dano moral, passível de indenização, o Tribunal a quo consignou que (e-STJ fl. 392):
+ ..
+Logo, tendo em vista a ciência da consumidora em relação a modalidade contratada, não há falar em incidência da Lei 14.181/2021 (Lei do Superendividamento), visto que não vislumbrado quebra do dever de informação, tampouco constatado que o mínimo existencial da consumidora não esteja sendo observado.
+Sendo assim, não há falar em declaração de inexistência do débito, em revisão da avença originária para o contrato de empréstimo pessoal consignado, em readequação da taxa de juros remuneratórios prevista no pacto, tampouco em restituição do indébito ou mesmo indenização por danos morais, visto que o uso do cartão, na forma como realizado pela autora, deve sujeitar-se aos efeitos da modalidade originária (Cartão de Crédito Consignado com Autorização para Descontos em sua remuneração).
+Portanto, para alterar o entendimento de que "não há falar em declaração de inexistência do débito,  .. , em readequação da taxa de juros remuneratórios prevista no pacto, tampouco em restituição do indébito ou mesmo indenização por danos morais, visto que o uso do cartão, na forma como realizado pela autora, deve sujeitar-se aos efeitos da modalidade originária", no caso em tela, também seria preciso reexaminar o conjunto fático-probatório dos autos, o que é vedado pelo óbice da Súmula n. 7/STJ.
+Ante  o  exposto,  NE GO  PROVIMENTO  ao  agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se  e  intimem-se.
+ EMENTA
