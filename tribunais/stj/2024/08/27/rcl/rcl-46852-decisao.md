@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de reclamação apresentada pelo Município de Taubaté contra decisão proferida pela Primeira Turma Cível do Colégio Recursal de Taubaté/SP.
+Na inicial, narra que o interessado foi exonerado do cargo de assessor de vereador por suposto nepotismo. Contudo, no âmbito de mandado de segurança, narrou que o particular conseguiu o seu retorno ao cargo, mas sem perceber remuneração pretérita. No âmbito da ação proposta perante o Juízo reclamado, narra que foi condenado ao pagamento de vencimentos para o servidor e outras vantagens desde a exoneração indevida até a reintegração e à obrigação de averbação do período indevidamente afastado em seu prontuário como se de exercício fosse.
+Porém, afirma que o julgado reclamado diverge da jurisprudência do Superior Tribunal de Justiça acerca da imposição de uma condição puramente potestativa (ilegal, portanto) em favor do interessado, pois deixou ao exclusivo arbítrio desse a fixação da data da nova contratação e (por consequência) do pagamento dos valores pretéritos. Isso porque a natureza do cargo comissionado é incompatível com a indenização decorrente da dispensa.
+Informações às 45/53.
+Contestação às e-STJ fls. 63/75.
+Em parecer, o Ministério Público Federal suscita o não conhecimento da reclamação.
+É o relatório. Passo a decidir.
+Não há indicação precisa de um precedente do Superior Tribunal de Justiça proferido no âmbito da ação principal. Ou seja, não há indicação de uma decisão desse Tribunal, cuja autoridade foi (ou está sendo) desconsiderada. Além disso, nitidamente, o processamento da ação principal não viola as regras de competência do STJ. O que se observa nessa reclamação é uma pretensão infringente que se utilizou do instrumento reclamação como se um recurso fosse. Como reclamação não é recurso, a pretensão fazendária não pode ser conhecida. Nesse sentido, o parecer do Ministério Público Federal:
+Verifica-se inexistir similitude entre o caso concreto e a decisão que o reclamante alega ter sido descumprida, o que inviabiliza o conhecimento desta reclamação. A Primeira Seção do Superior Tribunal de Justiça manifestou-se no sentido de que "Vigora no STJ o posicionamento de que "a Reclamação Constitucional afim de assegurar a autoridade de decisão judicial pressupõe a estrita aderência entre o objeto do ato reclamado e o conteúdo da decisão que se alega ter sido descumprida, de modo que a ausência de identidade perfeita entre eles é circunstância que inviabiliza o conhecimento da reclamação" (AgInt na Rcl 37.960/RJ, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 19/9/2019)". (AgInt na Rcl n. 46.185/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 28-11-2023, DJe de 30-11-2023).
+Ademais, "A Reclamação, prevista no art. 988 do CPC, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal" (AgInt na Rcl n. 46.378/GO, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 28-2-2024, DJe de 1-3-2024).
+Pela impossibilidade de se utilizar a reclamação como substituto de recurso, os seguintes precedentes do STJ:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL (CF, ART. 105, I, F, E ART. 988, § 5º, II, DO CPC/2015. CABIMENTO VINCULADO AO EXAURIMENTO DA INSTÂNCIA DE ORIGEM. NÃO OCORRÊNCIA NA HIPÓTESE CONCRETA. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade da reclamação prevista no art. 988, § 5º, II, do CPC/2015 vincula-se ao prévio esgotamento da instância ordinária, o que ocorre com o julgamento do agravo interno (CPC, art. 1.030, §2º), interposto contra a decisão que inadmite o recurso especial por considerar o acórdão recorrido em conformidade com o entendimento paradigmático do Superior Tribunal de Justiça proferido sob o regime especial, evento não ocorrido na presente hipótese, em que sequer houve manejo de recurso especial.
+2. Agravo Interno não provido.
+(AgInt na Rcl n. 39.155/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 1/9/2020, DJe de 4/9/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. DECISÃO RECLAMADA PROFERIDA PELO PRÓPRIO STJ. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a Reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, bem como para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, conforme disposto nos artigos 105, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, sendo, pois, instrumento processual de caráter específico e de aplicação restrita, não sendo admissível o seu uso quando a autoridade reclamada for órgão julgador do próprio STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt na Rcl 35.739/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA
+SEÇÃO, DJe 29.6.2018)
+A propósito, o seguinte precedente do STF:
+PROCESSUAL CIVIL. RECLAMAÇÃO PROPOSTA PARA GARANTIR A OBSERVÂNCIA DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. CPC/2015, ART. 988, § 5º, II. INTERPRETAÇÃO TELEOLÓGICA.
+1. Em se tratando de reclamação para o STF, a interpretação do art. 988, § 5º, II, do CPC/2015 deve ser fundamentalmente teleológica, e não estritamente literal. O esgotamento da instância ordinária, em tais casos, significa o percurso de todo o íter recursal cabível antes do acesso à Suprema Corte. Ou seja, se a decisão reclamada ainda comportar reforma por via de recurso a algum tribunal, inclusive a tribunal superior, não se permitirá acesso à Suprema Corte por via de reclamação.
+2. Agravo regimental não provido.
+(Rcl 24686 ED-AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em
+25-10-2016, PROCESSO ELETRÔNICO DJe-074 DIVULG 10-04-2017 PUBLIC 11-04-2017)
+Ante o exposto, nego provimento à reclamação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. SERVIDOR PÚBLICO. DIVERGÊNCIA DE ACÓRDÃO DE TURMA RECURSAL COM JURISPRUDÊNCIA DOMINENTE NO STJ. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. RECLAMAÇÃO NÃO PROVIDA.
