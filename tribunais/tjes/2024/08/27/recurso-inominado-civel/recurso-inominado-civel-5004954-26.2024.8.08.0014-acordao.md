@@ -1,0 +1,99 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004954-26.2024.8.08.0014
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GOL LINHAS AEREAS S.A.
+RECORRIDO: ROSA MARIA MENEGHELLI BASSETTI e outros (3)
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5004954-26.2024.8.08.0014
+
+Recorrente: GOL LINHAS AÉREAS S.A.
+
+Recorridos:
+ROSA MARIA MENEGHELLI BASSETTI, MILTON LUIZ BASSETTI, JACINTA MENEGHELLI FERREIRA e JOANIR FERREIRA
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. TRANSPORTE AÉREO. ATRASO E CANCELAMENTO DE VOO. ALEGAÇÃO DE NECESSIDADE DE MANUTENÇÃO NA AERONAVE. REMARCAÇÃO EM OUTRA COMPANHIA AÉREA. ATRASO DE 8 HORAS PARA CHEGADA AO DESTINO FINAL. OVERBOOKING. FALHA NA PRESTAÇÃO DO SERVIÇO. PEDIDO DE DANO MORAL NO VALOR DE R$10.000,00 PARA CADA PARTE POSTULANTE.
+
+SENTENÇA
+QUE JULGOU PROCEDENTES OS PEDIDOS AUTORAIS, RECONHECENDO A FALHA NA PRESTAÇÃO DO SERVIÇO E CONDENANDO A REQUERIDA, A PAGAR A QUANTIA DE R$10.000,00 PARA CADA DEMANDANTE, A TÍTULO DE DANOS MORAIS, TOTALIZANDO R$40.000,00.
+
+RECURSO INOMINADO
+INTERPOSTO PELA COMPANHIA GOL, CONTRA A SENTENÇA, ARGUMENTANDO QUE O ATRASO NO VOO FOI DEVIDO A MANUTENÇÃO NÃO PROGRAMADA, CONSIDERADA FORÇA MAIOR, E QUE PRESTOU TODA A ASSISTÊNCIA NECESSÁRIA AOS PASSAGEIROS. A RECORRENTE ALEGOU AUSÊNCIA DE DANOS MORAIS, CLASSIFICANDO O OCORRIDO COMO MERO ABORRECIMENTO. SUBSIDIARIAMENTE, REQUEREU A REDUÇÃO DO VALOR INDENIZATÓRIO, DESTACANDO A NECESSIDADE DE PROPORCIONALIDADE E RAZOABILIDADE.
+
+EM
+CONTRARRAZÕES
+, OS RECORRIDOS DEFENDERAM A MANUTENÇÃO DA SENTENÇA, ALEGANDO QUE A GOL LINHAS AÉREAS NÃO CONSEGUIU PROVAR A INEVITABILIDADE DO ATRASO. DESTACARAM QUE A COMPANHIA AÉREA TENTOU DISTRAIR OS PASSAGEIROS COM VOUCHERS DE ALIMENTAÇÃO, ENQUANTO O VOO CONTINUAVA PROGRAMADO NO PAINEL, EVIDENCIANDO OVERBOOKING. REFORÇARAM QUE OS DANOS MORAIS ESTAVAM DEVIDAMENTE COMPROVADOS E QUE A INDENIZAÇÃO FIXADA ERA JUSTA E PROPORCIONAL.
+
+DA CONCLUSÃO:
+A MANUTENÇÃO NÃO PROGRAMADA, COMO RISCO INERENTE À ATIVIDADE, CARACTERIZA-SE COMO FORTUITO INTERNO. CABE AO FORNECEDOR ORGANIZAR-SE PARA TAIS CONTINGÊNCIAS, SENDO INADMISSÍVEL TRANSFERIR O RISCO DO NEGÓCIO AOS CONSUMIDORES. ADEMAIS, A EVIDÊNCIA DE QUE O VOO CONTINUOU CONFIRMADO SUGERE UMA TENTATIVA DE OCULTAR A VERDADEIRA CAUSA DO ATRASO, O QUE REFORÇA A FALHA NA PRESTAÇÃO DO SERVIÇO. PORTANTO, MANTENHO A DECISÃO A QUO, NO SENTIDO DE QUE HOUVE FALHA NO SERVIÇO DA GOL LINHAS AÉREAS.
+
+OS RECORRIDOS EVIDENCIARAM QUE O VOO PERMANECEU CONFIRMADO NO PAINEL DO AEROPORTO E QUE HOUVE TENTATIVA DE DISTRAÇÃO DOS PASSAGEIROS, SUGERINDO A PRÁTICA DE OVERBOOKING. ALÉM DISSO, CONSOANTE PESQUISA JUNTO AO SITE DA ANAC
+, CONSTATA-SE QUE O VOO Nº 1882 DA EMPRESA RECORRENTE, PROCEDENTE DE VITÓRIA/ES COM DESTINO À SALVADOR/BA, PARTIDA PREVISTA PARA O DIA 20/03/2024, ÀS 11:55 MINUTOS, FOI REALIZADO NO MESMO DIA, ÀS 12:48 MINUTOS, CONFORME TELA A SEGUIR:
+
+A SITUAÇÃO DOS AUTOS NÃO DEVE SER SUPORTADA COMO DECORRÊNCIA DOS CONTRATEMPOS DO COTIDIANO, CAPAZ DE TRANSCENDER A ESFERA DO MERO DESCUMPRIMENTO CONTRATUAL E, POR ISSO, TEM O CONDÃO DE CAUSAR OFENSA À ESFERA MORAL DOS POSTULANTES.
+
+DANO MORAL CONFIGURADO E ARBITRADO EM R$10.000,00 (DEZ MIL REAIS) PARA CADA AUTOR. CONSIDERANDO QUE HOUVE ASSISTÊNCIA POR PARTE DA EMPRESA AOS PASSAGEIROS, COMO FORNECIMENTO DE VOUCHER ALIMENTAÇÃO E REMANEJAMENTO EM OUTRO VOO PARA O MESMO DIA, ENTENDO QUE VALOR ARBITRADO ENCONTRA-SE ACIMA DOS PADRÕES PARA SITUAÇÕES EQUIVALENTES. NESTES TERMOS, PROCEDO MINORAÇÃO DO VALOR PARA A QUANTIA DE R$ 6.000,00 (SEIS MIL REAIS), PARA CADA DEMANDANTE, EM ATENÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE E DA RAZOABILIDADE, ASSIM COMO O GRAU DE CULPA, EXTENSÃO DO DANO E PORTE ECONÔMICO DAS PARTES.
+
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+SENTENÇA REFORMADA SOMENTE PARA MINORAR O MONTANTE DA CONDENAÇÃO POR DANOS MORAIS PARA O VALOR DE R$6.000,00 (SEIS MIL REAIS). NO RESTANTE,
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. SEM CUSTAS E HONORÁRIOS.
+
+Mantenho incólume a sentença, por seus próprios fundamentos (art. 46, da Lei nº 9.099/95), à exceção do ponto a seguir.
+
+No que concerne à reparação moral, também entendo que os fatos narrados nos autos não podem ser considerados como mero aborrecimento do cotidiano e caracterizam, sim, dano moral indenizável.
+
+Todavia, considero que o valor fixado relativo à indenização por danos morais, no importe de R$10.000,00 (dez mil reais) para cada autor é desproporcional em relação ao dano sofrido.
+
+Desse modo, considerando as circunstâncias do caso concreto, o grau de culpa e o dano sofrido, reduzo o
+quantum
+para
+R$ 6.000,00 (seis mil reais) para cada autor
+, por entender suficiente a compensar o mal suportado, sem descuidar do caráter pedagógico atribuído à reparação.
+
+Pelo exposto,
+CONHEÇO
+do recurso interposto e, no mérito,
+DOU-LHE PARCIAL PROVIMENTO
+para reformar a r. sentença recorrida, apenas e tão somente, com o fito de
+REDUZIR o
+quantum
+indenizatório fixado a título de danos morais para
+R$ 6.000,00 (seis mil reais)
+para cada parte autora/recorrida,
+valor este que deverá ser atualizado monetariamente, a partir deste arbitramento, e com incidência de juros, a partir da citação.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
