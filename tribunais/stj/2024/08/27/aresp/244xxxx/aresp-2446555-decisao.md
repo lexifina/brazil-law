@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão (i) do não cabimento de recurso especial fundado em suposta ofensa a dispositivo constitucional e (ii) da inexistência de afronta ao art. 1.022 do CPC/2015 (e-STJ fls. 438/440).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 389/390):
+APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA - Dívidas prescritas - Sentença de procedência - Requerido que apela sustentando a improcedência da ação - Requerente que se insurge, via recurso adesivo, objetivando majoração da indenização por danos morais e dos honorários advocatícios arbitrados em primeira instância.
+INEXIGIBILIDADE - Prescrição que, malgrado não exclua a dívida natural, veda sua cobrança, até mesmo a extrajudicial - Enunciado nº 11, da Sessão de Direito Privado deste E. Tribunal de Justiça de São Paulo que consolidou o entendimento acerca da ilegalidade da cobrança extrajudicial de dívida prescrita - Impossibilidade de reconhecimento da inexistência do débito que não impede a declaração de sua inexigibilidade - Precedentes desta C. 38ª Câmara de Direito Privado - Declaração de inexistência dos objetados débitos prescritos e determinação da exclusão de seu registro junto às plataformas da Serasa S/A - Sentença alterada neste ponto.
+DANOS MORAIS - Dívidas objeto de discussão nos autos que não ensejaram efetiva inscrição do nome e dos dados da requerente em cadastro de proteção ao crédito - Mera anotação em cadastro de cunho administrativo, destinado a negociação de dívidas, que, por si só, não enseja dano moral - Entendimento firmado no mesmo Enunciado nº 11, da Sessão de Direito Privado deste E. Tribunal de Justiça de São Paulo - Cobrança de débitos inexigíveis que na hipótese também não extrapolaram os meros aborrecimentos não indenizáveis, tampouco ensejando comprovada redução de score - Danos morais não configurados - Precedentes desta C. 38ª Câmara de Direito Privado - Afastamento da respectiva condenação que se impõe - Pleito recursal formulado pela autora consequentemente prejudicado - Sentençade procedência reformada para parcial procedência - RECURSO do réu PARCIALMENTE PROVIDO - RECURSO ADESIVO da autora PREJUDICADO.
+Os embargos de declaração foram rejeitados, com imposição de multa (e-STJ fls. 424/427).
+Nas razões do recurso especial (e-STJ fls. 399/404), fundamentado no art. 105, III, "a", da CF, a parte alegou violação dos arts. 1.022, I, e 1.026, § 2º, do CPC/2015.
+Alega a existência de contradição entre o acórdão recorrido e o disposto no art. 85, § 8º-A, do CPC/2015.
+Defende, ademais, a inaplicabilidade da multa pela oposição de aclaratórios manifestamente protelatórios.
+No agravo (e-STJ fls. 443/449), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 452/455 (e-STJ).
+É o relatório.
+Decido.
+Primeiramente, ressalta-se, na linha da jurisprudência deste Tribunal Superior, que a contradição sanável pelos embargos de declaração é a interna, entre os fundamentos do provimento jurisdicional, e não a externa, entre o julgado e dispositivos de lei, como o apontado art. 85, § 8º-A, do CPC/2015, ou entre o decisum e o entendimento da parte. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO AUTORAL. USO SEM AUTORIZAÇÃO DE MÚSICA. GRAVAÇÃO, EDIÇÃO E INSERÇÃO INTENCIONAL DE OBRA MUSICAL EM VÍDEO. DANOS MATERIAIS E MORAIS. ARTS. 24, 28 E 29 DA LEI DE DIREITOS AUTORAIS (LDA). CONFIGURAÇÃO. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 489 DO CPC. NÃO VERIFICAÇÃO. CONTRADIÇÃO EXTERNA. INCABÍVEL. PROVA PERICIAL. DECISÃO MOTIVADA. APRECIAÇÃO LIVRE DAS PROVAS DO PROCESSO. CONVENCIMENTO DO MAGISTRADO FUNDADO EM LAUDO PERICIAL. ILEGITIMIDADE. ARGUMENTO DE VIOLAÇÃO DE NORMAS LEGAIS SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO STF. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+ ..
+5. A contradição que dá ensejo aos aclaratórios é a interna ao julgado embargado, devida à desarmonia entre a fundamentação e as conclusões da própria decisão, e não aquela externa, existente entre o julgado e a lei, o entendimento da parte, os fatos e provas dos autos ou com o entendimento exarado em outros julgados.
+ ..
+(AgInt no AREsp n. 2.355.302/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. 1. MORTE DO AUTOR. AUSÊNCIA DE REGULARIZAÇÃO PROCESSUAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. EXEGESE DO ART. 313, § 2º, II, DO CPC. 2. VIOLAÇÃO DO ART. 1.022 DO NCPC. HIGIDEZ DO ACÓRDÃO IMPUGNADO. CONTRADIÇÃO INEXISTENTE. 3. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. REDIMENSIONAMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A contradição remediável por embargos de declaração é a interna ao julgado embargado, devida à desarmonia entre a fundamentação e as conclusões da própria decisão, e não aquela externa entre o julgado impugnado e o entendimento da parte, ou entre este e outras decisões judiciais.
+ ..
+(AgInt no AREsp n. 2.161.641/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Não há falar, portanto, em violação do art. 1.022, I, do CPC/2015, nos moldes apontados pela parte agravante.
+Por fim, conforme orientação desta Corte, "a oposição de embargos de declaração para forçar o Tribunal de origem a reexaminar questões já decididas anteriormente de maneira clara, caracteriza o manifesto intuito protelatório do embargante e autoriza a aplicação da multa prevista no art. 1026, § 2º, do CPC/15" (AgInt no REsp n. 1.909.425/PR, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/10/2021, DJe 28/10/2021).
+No mesmo sentido: AgInt no AREsp n. 1.410.031/MT, de minha relatoria, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em favor da advogada da parte ora agravada, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
