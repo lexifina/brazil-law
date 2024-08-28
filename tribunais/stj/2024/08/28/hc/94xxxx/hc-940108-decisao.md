@@ -1,0 +1,12 @@
+DECISÃO
+RENAN PINTO DE MOURA alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação n. 20073002829-5.
+Nesta Corte, a defesa postula, liminarmente, seja suspensa "a execução da pena imposta ao paciente até o julgamento  do  writ" (fl. 10). No mérito, requer seja aplicada a fração de 1/6 pela incidência da atenuante prevista no art. 65, I, do Código Penal.
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação proferido em 11/12/2007. De acordo com a guia de recolhimento definitiva, o feito transitou em julgado em 22/8/2016 (fl. 55). A impetração em análise foi manejada em 23/8/2024, cerca de 8 anos após o trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Ademais, observo que a própria defesa relata, na inicial deste writ, que a matéria relacionada à dosimetria da pena já foi previamente examinada no REsp n. 1.188.952/PA, interposto pelo ora paciente contra o mesmo acórdão combatido neste feito, o que reforça a impossibilidade de conhecimento do pedido aqui veiculado.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
