@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto pelo Estado do Ceará contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 211 do STJ e 282 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 294):
+EMENTA: DIREITO CONSTITUCIONAL, PREVIDENCIÁRIO E ADMINISTRATIVO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. PENSÃO POR MORTE. INCIDÊNCIA DA NORMA VIGENTE À ÉPOCA DO ÓBITO DO INSTITUIDOR (SÚMULA 340 DO STJ), O ART. 40, § 7º, I, CF, COM A REDAÇÃO DADA PELA EC Nº 41/2003, PREVÊ A INTEGRALIDADE DOS PROVENTOS DO SERVIDOR FALECIDO, ATÉ O LIMITE MÁXIMO ESTABELECIDO PARA OS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL, ACRESCIDO DE SETENTA POR CENTO DA PARCELA EXCEDENTE A ESSE LIMITE. ATUALIZAÇÃO DO DÉBITO, A INCIDIR A PARTIR DE CADA PAGAMENTO INDEVIDO. DEVOLUÇÃO DOS AUTOS PARA JUÍZO DE RETRATAÇÃO, NOS TERMOS ART. 1.040, II, DO CPC. RECURSO ESPECIAL REPETITIVO (TEMA Nº 905, STJ). NÃO CONFORMIDADE DO ACÓRDÃO DESAFIDO POR RECURSO ESPECIAL. TESE FIRMADA PELO STJ, TEMA 905. JUÍZO DE RETRATAÇÃO POSITIVO. ACÓRDÃO PARCIALMENTE REFORMADO, APENAS PARA DETERMINAR, QUE SOBRE AS DIFERENÇAS CORRESPONDENTES ÀS PARCELAS PAGAS A MENOR, INCIDIRÃO OS JUROS DE MORA APLICÁVEIS À REMUNERAÇÃO OFICIAL DA CADERNETA DE POUPANÇA (ART. 1º-F DA LEI 9.494/1997, COM REDAÇÃO DADA PELA LEI 11.960/2009) A PARTIR DA CITAÇÃO (SÚMULA 204 DO STJ) E CORREÇÃO MONETÁRIA PELO INPC (TEMA 905 - RESP 1.495.146/MG) A PARTIR DO VENCIMENTO DE CADA PRESTAÇÃO (SÚMULA 148 DO STJ).
+Embargos de declaração rejeitados.
+Em suas razões de recurso especial, sustenta ofensa aos artigos 141, 492, 496, 1008 e 1013 do CPC/2015, sob o seguinte argumento: "impossibilidade de reconsideração de decisão anteriormente proferida nos autos, sem recurso da parte interessada, em virtude da preclusão pro judicato, bem como ao agravamento da condenação em relação à Fazenda Pública, o que representa evidente reformatio in pejus" (fl. 343).
+Com contrarrazões (fls. 370-374).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+No caso dos autos, pretende o Estado do Ceará seja parcialmente reformado o acórdão prolatado em juízo de retratação e mantido o acórdão original no ponto em que determinava a aplicação da TR como índice de correção.
+Na espécie, no que diz respeito aos artigos 141, 492, 496, 1008 e 1013 do CPC/2015 e a tese a eles vinculada, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS E DA TESE RECURSAL. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
