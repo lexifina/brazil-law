@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por Jefferson Joao Rocha de Sousa, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça do Pará no julgamento do Habeas Corpus n. 0806494-41.2024.8.14.0000.
+Colhe-se dos autos que o recorrente foi preso em flagrante pela suposta prática do crime de tráfico de drogas em 8/3/2024. A prisão em flagrante foi convertida em preventiva (fls. 38/41). Foram apreendidas 149 gramas de maconha prensada (fl. 62).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem (fls. 69/83).
+Neste recurso , a defesa sustenta haver nulidade da prisão em flagrante sob o argumento de ausência de fundada suspeita à busca pessoal.
+Requer, inclusive liminarmente, seja determinado o trancamento da ação penal 0800428-94.2024.8.14.0501, e seja rejeitada a denúncia por falta de justa causa em virtude da nulidade no nascedouro da ação, em face da ilegalidade da busca pessoal (fl. 94).
+É o relatório.
+De início, destaco que as disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/10/2023).
+Portanto, passo a analisar diretamente a insurgência.
+Segundo o disposto no art. 244 do Código de Processo Penal, a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+A Corte local, ao afastar a preliminar de nulidade do flagrante, considerou o seguinte (fl. 74 - grifo nosso):
+No caso concreto, observa-se que a guarnição da Polícia Militar realizava operação de bloqueio, com o intuito de apreender armas e drogas em veículos que circulavam pela Ilha de Mosqueiro. Durante a mencionada operação, os policiais avistaram o paciente tentando jogar uma mochila da janela do ônibus onde estava, fazendo com que JEFFERSON fosse abordado de forma mais minuciosa, momento em que fora encontrado um tablete de substância prensada, conhecida como maconha.
+Constata-se portanto, que a busca pessoal realizada no caso em comento se encontra justificada em fundadas razões, devidamente descritas, não havendo qualquer ponto que justifique a ilegalidade apontada pela impetrante.
+Faz-se necessário consignar que a busca pessoal ocorrida, na espécie, destina-se a apurar eventual posse de corpo de delito e têm fundamento processual penal (art. 244 do CPP).
+É certo que a busca pessoal (art. 244 do CPP) possui um nível diverso de proteção da busca domiciliar (art. 240, § 1º, do CPP). Isto é, adota-se um standard probatório um pouco menos rigoroso. Nesse sentido, cito o seguinte precedente: HC n. 877.943/MS, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 15/5/2024.
+Com efeito, verifica-se objetivamente que a circunstância do caso concreto denota anormalidade ensejadora da busca pessoal. Há de se destacar que a medida foi efetivada após os militares visualizarem o réu tentando jogar uma mochila da janela do ônibus onde estava, em via pública, em contexto fático de bloqueio viário policial. Assim, os elementos colacionados aos autos indicam a existência de fundadas suspeitas.
+De fato, a fundada suspeita é um conceito legal que avalia as circunstâncias específicas para determinar se há motivos r azoáveis de envolvimento em atividades criminosas. Essa avaliação considera fatores como comportamento suspeito, informações recebidas e características do indivíduo ou veículo (AgRg no AgRg nos EDcl no AgRg no HC n. 791.510/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/6/2023).
+Sublinho que o caso paradigmático da Sexta Turma (RHC n. 158.580/BA) busca evitar o uso excessivo da busca pessoal, garantir a sindicabilidade da abordagem e evitar a repetição de práticas que reproduzem preconceitos estruturais arraigados na sociedade; premissas atendidas na espécie.
+Nesse contexto, é prematuro determinar o trancamento da ação penal, sendo certo que, no curso da instrução processual, poderá a defesa demonstrar a veracidade dos argumentos sustentados, mesmo porque a estreita e célere via do habeas corpus não permite revolvimento fático-probatório.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROC ESSUAL PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. BUSCA PESSOAL. FUNDADA SUSPEITA. ELEMENTO OBJETIVO DEMONSTRADO. FEITO AINDA EM INSTRUÇÃO PROCESSUAL.
+Petição inicial indeferida liminarmente.
