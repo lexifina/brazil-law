@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado por Zelina Ângelo da Silva Calvis com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 34):
+RECURSO DE APELAÇÃO - INDEFERIMENTO DO PEDIDO DE FORNECIMENTO DA MEDICAÇÃO ESILATO DE NINTEDANIBE 150MG - MEDICAMENTO NÃO PADRONIZADO NO RENAME - CONITEC RECOMENDOU A NÃO INCORPORAÇÃO DO FÁRMACO REQUERIDO - AUSÊNCIA DE LAUDO MÉDICO INDICANDO A IMPRESCINDIBILIDADE DO FÁRMACO REQUERIDO - DIVERSAS OPÇÕES TERAPÊUTICAS FORNECIDAS PELO SUS - PARECER TÉCNICO ELABORADO PELO NATJUS. ACOLHIDO - RECURSO CONHECIDO E PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 189/192).
+A parte recorrente aponta violação ao art. 156 do CPC, por considerar que "o acórdão recorrido baseou-se em parecer médico emitido por profissional que não possui especialização na área pertinente à patologia da autora" (fl. 200), assim como a tese repetitiva firmada no Tema 106/STJ impõe como requisito somente a apresentação de laudo médico fundamentado e circunstanciado expedido, por médico que assiste o paciente, que ateste a imprescindibilidade ou necessidade do medicamento, e a ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS.
+Junta novos documentos aos autos e requer a concessão de efeito suspensivo ao recurso, a fim de garantir a continuidade do tratamento deferido em primeira instância, via tutela antecipada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Estado do Mato Grosso do Sul interpôs, na origem, agravo de instrumento contra tutela antecipada concedida em ação ação de obrigação de entrega de coisa certa, em que a autora busca o fornecimento da medicação Nintedanibe (OFEV), não incorporada ao SUS.
+Sobre o fornecimento de fármaco não incorporado aos atos normativos do SUS, esta Corte, ao apreciar recurso representativo da controvérsia, estabeleceu no Tema 106/STJ que o Judiciário deverá averiguar a presença dos seguintes requisitos, de forma cumulativa:
+I) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS;
+II) incapacidade financeira de arcar com o custo do medicamento prescrito;
+III) existência de registro do medicamento na ANVISA, observados os usos autorizados pela agência.
+O Tribunal local, por maioria, cassou a tutela de urgência concedida na instância ordinária, firme nos seguintes fundamentos (fls. 38/39):
+Após acurada análise dos autos, verifica-se que a decisão ora combatida deixou de acolher o Parecer do NatJus (f.72/78), que manifestou-se de maneira desfavorável ao pedido do medicamentos em questão, a saber: Esilato de Nintedanibe 150mg.
+Dentre as razões apresentadas no parecer, destaca-se a seguinte, in verbis:
+"O Esilato de Nintedanibe não está padronizado na Relação Nacional de Medicamentos Essenciais (RENAME 2022) ou outro ato normativo do SUS.
+A CONITEC avaliou o Nintedanibe no Relatório de recomendação nº 419 Esilato de nintedanibe para o tratamento de fibrose pulmonar idiopática (CONITEC, dezembro/2018), doença diferente da apresentada pela paciente.
+Decisão: Não incorporar o nintedanibe para o tratamento da fibrose pulmonar idiopática (FPI), no âmbito do Sistema Único de Saúde - SUS. Dada pela Portaria nº 86, publicada no DOU nº 247, seção 1, página 54, em 26 de dezembro de 2018."
+De efeito, o Conitec concluiu pela negativa de incorporação para o medicamento, mesmo para a patologia para a qual prescrita e que nem é a da Agravada. Ademais, como anotado, o medicamento não está padronizado no SUS, já que não foi incorporado na Rename.
+Além disso, embora haja a alegação de que os medicamentos fornecidos pelo SUS não são suficientes para o tratamento adequado da paciente, não foram identificadas quaisquer provas aptas a comprovar o alegado.
+Destaca-se que o SUS disponibiliza diversas opções terapêuticas para a patologia da Autora, conforme disposto no Parecer Técnico do NATJus. Senão vejamos:
+Considerando o PCDT da Esclerose Sistêmica, Portaria Conjunta SAES/SCTIE/MS nº 16 de 10/08/2022 e oferece os medicamentos Azatioprina, Ciclofosfamida, Metotrexato, Captopril, Nifedipino, Sildenafila, Metoclopramida, Prednisona, Omeprazol, Besilato de Anlodipino, sendo que a paciente está cadastrada mas não retirou a ciclofosfamida autorizada.
+Exatamente por isso, a Agravante deve valer-se dos medicamentos usualmente disponibilizados no SUS, especialmente porque não há qualquer demonstração de que não possam ou não devam ser utilizados.
+Ante o exposto, data vênia entendimento contrário, conheço do recurso e dou-lhe provimento, para reformar a Decisão de Primeiro Grau e indeferir o fornecimento do medicamento, nos termos do voto acima e do parecer do NATJus às f.72/78 dos autos principais.
+Como se observa do excerto transcrito, a questão foi solucionada somente com base no fato de que o medicamento não foi incorporado na RENAME, existindo outras opções terapêuticas no SUS para o tratamento da patologia da autora.
+Contudo, o fundamento utilizado não está previsto no Tema 106/STJ, que restringiu os requisitos a serem apreciados pelo Poder Judiciário nas causas que envolvem o fornecimento de fármaco não incorporado aos atos normativos do SUS.
+Assim, levando-se em consideração que, no caso, a presença os requisitos autorizadores para a concessão de antecipação de tutela exige o reexame do conjunto fático-probatório dos autos, providência vedada nesta instância extraordinária pela Súmula 7/STJ, é caso de retorno dos autos para nova apreciação do subjacente agravo de instrumento do Estado do Mato Grosso do Sul.
+ANTE O EXPOSTO, conheço do recurso especial e dou-lhe provimento para, anulando o acórdão recorrido, determinar o retorno dos autos nova apreciação do agravo de instrumento, desta vez com a estrita observância dos requisitos previstos no Tema 106/STJ.
+Publique-se.
+EMENTA
