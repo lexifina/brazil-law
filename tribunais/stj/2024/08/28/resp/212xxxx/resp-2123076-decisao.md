@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social (INSS), com respaldo no art. 105, III, "a", da CF, contra acórdão do TRF da 4ª Região, assim ementado (e-STJ fl. 31):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CONSECTÁRIOS. TEMA810 DO STF. EXECUÇÃO COMPLEMENTAR. PRESCRIÇÃO. PRECLUSÃO.
+1. Nas situações em que o título executivo diferiu para a fase executiva a definição dos consectários legais, é admissível o pedido de execução complementar quanto às diferenças relativas à correção monetária, com fundamento no Tema 810 do STF.
+2. No caso dos autos, porém, a sentença extintiva da execução foi proferida anteriormente ao trânsito em julgado do Tema 810, que se deu em 03/03/20, o que viabiliza o prosseguimento da execução complementar.
+3. Sobre a alegação de prescrição, não se verifica, considerando o tempo decorrido entre a data em que se tornou possível a execução complementar (03/03/20) e a data em que foi requerida (20/05/2022).
+Embargos de declaração acolhidos apenas para fins de prequestionamento.
+Em suas razões, a parte recorrente aponta preliminar de afronta ao art. 1.022, II, do CPC/2015, visto que o Tribunal de origem rejeitou os aclaratórios sem apreciar "a legislação aplicável na espécie - arts. 316, 502, 503, 505, 924, II e 925 todos do Código de Processo Civil" (e-STJ fl. 69).
+No mérito, alega violação dos artigos 927, III, 316, 502, 503, 505, 924, II e 925 todos do Código de Processo Civil, argumentando, em suma, ser indevida a reabertura de execução, quando já satisfeita a obrigação e extinto o processo de execução, sob pena de ofensa à res judicata.
+Em sua defesa, sustenta que o acórdão recorrido não se coaduna com a jurisprudência do Superior Tribunal de Justiça firmada no julgamento do REsp n. 1.143.471/PR (Tema 289).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às e-STJ fls. 79.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Acerca da violação ao art. 1.022, II, do CPC/2015, verifico que nas razões do recurso especial a agravante apenas cita o dispositivo como violado genericamente, sem demonstrar de forma clara e objetiva, em que ponto, matéria ou questão, o acórdão combatido restou omisso. Portanto, não restou demonstrado obscuridade, contradição, omissão ou erro material no decisum impugnado. Tal circunstância consubstancia deficiência na fundamentação recursal, situação que atrai a incidência, por analogia, da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, são os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. REPETIÇÃO. INDÉBITO. DANOS MORAIS. CIVIL. CONSUMIDOR. FALHA. PRESTAÇÃO DE SERVIÇO. CONTRATO. EMPRÉSTIMO. BANCO. FRAUDE. INEXISTÊNCIA. ARTS. 489 E 1.022 DO CPC/2015. DEFICIÊNCIA. FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. REEXAME DE PROVAS. ERRÔNEA VALORAÇÃO DA PROVA.
+(..)
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se à hipótese o óbice da Súmula 284 /STF.
+(..)
+7. Agravo interno não provido. (AgInt no REsp 1.913.650/CE, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 3/11/2021). (Grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1022, INC. II, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. A alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+(..)
+4. Agravo interno não provido. (AgInt no AREsp 1851514/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/8/2021) (Grifei).
+No que toca à questão de fundo, observo que a Corte de origem assim se manifestou acerca do tema (fl. 33):
+Quanto à discussão veiculada pela recorrente, cabe considerar que o Superior Tribunal de Justiça, no julgamento do Recurso Especial Representativo de Controvérsia nº 1.143.471/PR (Tema 289), posicionou-se no sentido de que, transitada em julgado a sentença de extinção da execução, pelo pagamento, não é possível sua reabertura.
+No caso dos autos, porém, consoante os termos da decisão recorrida, o o julgamento do recurso de apelação diferiu para a fase de cumprimento a definição dos critérios de juros e correção monetária e o arquivamento da execução ocorreu antes do trânsito em julgado do Tema 810 (03/03/20), o que viabiliza o prosseguimento da execução complementar.
+Cotejando-se os argumentos da defesa, verifica-se que os fundamentos do acórdão recorrido não foram especificamente impugnados. Aplicável, portanto, o óbice da Súmula 284/STF, uma vez que as razões recursais delineadas no recurso especial estão dissociadas dos fundamentos utilizados no aresto impugnado, de forma específica, os seus fundamentos, o que atrai a aplicação da Súmula 284/STF.
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+No que diz respeito à alegação de prescrição, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não teria se configurado, tendo em vista "o tempo decorrido entre a data em que se tornou possível a execução complementar (03/03/20) e a data em que foi requerida (20/05/2022)" (fl. 33).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL. INTERPRETAÇÃO. POSSIBILIDADE. OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, no sentido de que "não viola a coisa julgada a interpretação do título judicial conferida pelo magistrado, para definir seu alcance e extensão, observados os limites da lide" (AgInt no AREsp 1.696.395/RJ, Rel. Min. MARCO AURÉLIO BELLIZZE, Órgão Julgador T3 - TERCEIRA TURMA, DJe 18/12/2020.
+2. Hipótese em que o acolhimento da pretensão recursal, a fim de reconhecer a eventual ofensa à coisa julgada na interpretação do título judicial pelas instâncias de origem, demandaria a incursão no conjunto fático-probatório, providência que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 1640417/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17/9/2021) (Grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DA TABELA DO SUS. LIMITAÇÃO TEMPORAL. QUESTÃO DECIDIDA NA AÇÃO DE CONHECIMENTO. REDISCUSSÃO EM EMBARGOS À EXECUÇÃO. INVIABILIDADE. COISA JULGADA. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM.
+PRECLUSÃO CONSUMATIVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ ..
+2. Todavia, na hipótese dos autos, há determinação expressa no título exequendo (REsp 422.671/RS), quanto ao termo final de incidência do índice de reajuste de 9,56%, relativo ao mês de novembro de 1999, razão pela qual não pode ser alterada no âmbito dos Embargos à Execução, sem ofensa à coisa julgada.
+3. Havendo determinação expressa na parte dispositiva do título exequendo quanto ao termo final de incidência do índice de reajuste, anterior à tese firmada em julgamento repetitivo, inafastável essa determinação, em face da ocorrência da preclusão consumativa.
+4. Ademais, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+5. Agravo Interno não provido. (AgInt no AREsp 1767027/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021) (Grifei).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO COMPLEMENTAR DE SENTENÇA. ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. PAGAMENTO DE DIFERENÇAS DE CONSECTÁRIOS LEGAIS DIFERIDOS PELO TÍTULO PARA A FASE EXECUTIVA. SENTENÇA EXTINTIVA DA EXECUÇÃO QUE ANTECEDE O TRÂNSITO EM JULGADO DO TEMA 810/STF, ÉPOCA EM QUE A PARTE NÃO POSSUÍA ELEMENTOS PARA QUANTIFICAR O SALDO DEVEDOR. ARGUMENTAÇÃO RECURSAL DISSOCIADA. SÚMULA 284/STF. OCORRÊNCIA OU NÃO DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO NÃO CONHECIDO.
