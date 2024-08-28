@@ -1,0 +1,43 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5023690-97.2022.8.08.0035
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: BANCO OLE BONSUCESSO CONSIGNADO S.A. e outros (2)
+
+RECORRIDO: CLARA CASTORINA VIEIRA LISBOA
+
+RELATOR(A):
+ADEMAR JOAO BERMOND
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: A unanimidade, conhecer em parte o recurso, e, nesta parte, negar-lhe provimento, nos termos do voto do Relator.
+
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 3
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
