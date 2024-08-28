@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo DISTRITO FEDERAL contra decisão de e-STJ fls. 216/220, por meio da qual dei parcial provimento ao recurso especial da parte embargada, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1022, II, DO CPC/2015. OMISSÕES. TESES SUSCITADAS NOS EMBARGOS DE DECLARAÇÃO. DECISÃO SURPRESA E REPRESENTAÇÃO SINDICAL À ÉPOCA DA AÇÃO COLETIVA. MATÉRIAS NÃO APRECIADAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS PARA COMPLEMENTAÇÃO DO JULGADO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+O embargante alega, em síntese, que não houve violação ao art. 1022, II, do CPC/2015.
+Ademais, sustenta que a decisão embargada padeceria de omissão, pois não apreciados os óbices suscitados nas contrarrazões ao recurso especial, que impediam o conhecimento do recurso.
+Impugnação aos aclaratórios apresentada às e-STJ fls. 236/238.
+É o relatório. Decido.
+Quanto à ausência de violação ao art. 1022, II, do CPC/2015, verifica-se que o embargante não apontou qualquer vício na decisão embargada, carecendo o recurso de adequada fundamentação, o que impede o conhecimento dos aclaratórios, pois inobservada a regra prevista no art. 1023 do CPC/2015 para a oposição dos embargos.
+Nesse sentido os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL, NO ACÓRDÃO EMBARGADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado na vigência do CPC/2015.
+II. Segundo a jurisprudência do STJ, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 15/03/2017). Em igual sentido: STJ, EDcl no AgInt no AREsp 865.398/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 08/03/2017.
+III. No caso, os Embargos de Declaração não podem ser conhecidos, pois a parte embargante não aponta omissão, contradição, obscuridade ou erro material existentes no acórdão embargado, demonstrando mero inconformismo com as conclusões do decisum.
+IV. Demais disso, no que tange ao pedido de sobrestamento do recurso em razão da afetação da matéria, "o STJ possui o entendimento de que, não tendo o Recurso ultrapassado o juízo de admissibilidade, como no caso dos autos, não pode a matéria de mérito ser apreciada, mesmo que a controvérsia seja objeto de Recurso Repetitivo. A propósito: AgInt nos EDcl no AREsp 1.808.426/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 25/11/2021, REsp 1.367.108/MG, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 30/03/2022 e AgInt no AREsp 2.000.334/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 28/04/2022" (STJ, AgInt no AREsp 2.027.820/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/06/2023).
+V. Embargos de Declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de Declaratórios.
+(EDcl no AgInt no REsp nº 2.027.761/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/8/2023, DJe de 31/8/2023)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF.
+"A jurisprudência desta eg. Corte firmou-se no sentido de que a não indicação de um dos vícios previstos no art. 1.022 do CPC/2015, nos termos do exigido no art. 1.023, caput, do CPC/2015, inviabiliza a compreensão da controvérsia a ser sanada nos embargos de declaração, caracterizando deficiência de fundamentação (Súmula 284/STF)" (EDcl no MS n. 28.073/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 15/8/2022).
+Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp nº 1.939.700/TO, relator Ministro Humberto Martins, Segunda Turma, julgado em 15/12/2022, DJe de 20/12/2022)
+Quanto a suposta omissão pela ausência de análise dos óbices suscitados nas contrarrazões ao recurso especial, razão não assiste ao embargante.
+Com efeito, nenhum dos óbices levantados - Súmula nº 182/STJ, Súmula nº 7/STJ, Súmula nº 283/STF e Súmula nº 280/STF - dizem respeito à tese de violação ao art. 1022, II, do CPC/2015, por negativa de prestação jurisdicional, único tópico do recurso especial apreciado na decisão embargada, restando prejudicada a análise das demais matérias.
+Ademais, o embargante nem sequer impugnou a violação ao art. 1022, II, do CPC/2015 nas contrarrazões ao recurso especial.
+Ante o exposto, conheço parcialmente dos embargos de declaração para, nessa extensão, rejeitá-los.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1022, II, DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE VÍCIO NA DECISÃO EMBARGADA. OMISSÃO SOBRE AS TESES APRESENTADAS EM SEDE DE CONTRARRAZÕES. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE CONHECIDOS E, NESSA EXTENSÃO, REJEITADOS.
