@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+CARLOS HENRIQUE SILVA MORA agrava de decisão, por meio da qual conheci do agravo para não conhecer do recurso especial.
+Neste regimental, a defesa refuta a incidência da Súmula n. 7 do STJ ao caso, bem como afirma que comprovou o dissídio jurisprudencial alegado. No mais, reitera os argumentos sobre a fragilidade probatória.
+Requer, assim, a reconsideração da decisão ou a submissão do feito ao julgamento colegiado, a fim de que seja conhecido e provido o especial, para que seja absolvido o agravante.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. ILEGALIDADE DA PROVA TESTEMUNHAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para entender-se pela absolvição do recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+2. A Corte estadual entendeu devidamente comprovadas a autoria e a materialidade do furto pelo qual o réu foi condenado, notadamente pela prova oral produzida durante a instrução do feito, além das imagens da câmera de segurança.
+3. A ilegalidade da prova testemunhal não foi abordada no acórdão estadual, no enfoque pretendido pela defesa, o que impede o seu conhecimento, diante da ausência de prequestionamento da matéria.
+4. Quando o recurso interposto estiver fundado em dissídio pretoriano, deve a parte colacionar aos autos cópia dos acórdãos em que se fundamenta a divergência ou indicar repositório oficial ou credenciado, bem como realizar o devido cotejo analítico, demonstrando de forma clara e objetiva suposta incompatibilidade de entendimentos e similitude fática entre as demandas, o que não ocorreu na espécie.
+5. Agravo regimental não provido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+A decisão ora impugnada foi clara ao concluir que a pretensão defensiva demanda o revolvimento do acervo fático-probatório contido nos autos, especialmente porque pretende a absolvição do réu, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ. Confira-se (fls. 304-306, grifos no original):
+Consta dos autos que o ora agravante foi condenado, em primeira instância, como incurso no art. 155 do Código Penal. A sentença registrou: "ficou comprovado que o réu subtraiu, para si, o aparelho celular da vítima Jamyly Keila de Lima Costa. A vítima e testemunha confirmaram os fatos narrados na denúncia. As imagens mostraram a subtração" (fl. 126).
+A condenação foi mantida pela Corte estadual no julgamento da apelação defensiva, que assim concluiu pela condenação (fls. 160-163, grifei):
+Impossível a pretendida absolvição, pois as provas reunidas nos autos conferiram o necessário amparo à condenação do apelante. .. De se observar que as imagens da câmera de segurança revelam ter o réu se aproximado da vítima, caixa do estabelecimento, colocado sua bolsa dentro do balcão, onde ela trabalhava, e, depois de pagar a conta, dali se afastou, não sem antes, segundo a vítima e a testemunha Hilton, subtrair o celular descrito na denúncia (link fl. 115).
+No caso vertente, não há razão a infirmar as palavras da vítima e da testemunha Hilton, pois nada de concreto se demonstrou que pudesse tisnar de parcialidade o depoimento delas, até porque não tinham interesse em, levianamente, imputar delito de tal gravidade a pessoa inocente, de modo que essa prova era mesmo suficiente para a condenação, observado que o próprio réu admitiu ter se apossado do bem da vítima.
+A alegação de erro de tipo ou simples engano não vinga, pois os depoimentos da vítima e da testemunha Hilton revelam ter o réu agido com dolo de subtrair, porque ele se aproximou da vítima, colocou sua bolsa dentro do balcão e, após pagar a conta, retirou dali a bolsa juntamente com o celular da vítima, não havendo possibilidade de ter se enganado sobre tratar-se o celular de bem alheio. .. Sendo assim, impossível a absolvição pretendida no recurso, ficando mantida a decisão condenatória, por ter dado ao caso justo desfecho.
+Dessa forma, constato que as instâncias antecedentes, após minuciosa análise do acervo fático-probatório carreado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do agravante pelo crime que lhe foi imputado, notadamente pela prova oral produzida ao longo da instrução do feito, além das imagens da câmera de segurança.
+Portanto, para alterar tal conclusão, como pugna o recurso especial, seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado nesta esfera, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+Reafirmo, portanto, que não é viável, em recurso especial, alterar a conclusão alcançada no acórdão recorrido, sem a incursão do acervo fático-probatório dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Ademais, reafirmo não ser possível o conhecimento da tese sobre a comprovação do delito pela prova testemunhal por ouvi dizer, diante da ausência de prequestionamento do tema.
+Especificamente sobre a comprovação do dissídio jurisprudencial alegado, registrei que "a defesa limitou-se a colacionar julgados, deixando de realizar o devido cotejo analítico necessário a demonstrar a existência do alegado dissenso jurisprudencial" (fl. 307 ).
+Assim, reitero a conclusão de que é inviável o conhecimento do recurso interposto, também, pela alínea "c" do art. 105, III, da Constituição Federal.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
