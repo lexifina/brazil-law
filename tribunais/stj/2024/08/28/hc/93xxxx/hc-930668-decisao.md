@@ -1,0 +1,20 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Maycon Alisson Guedes de Andrade - condenado por homicídio qualificado tentado a 12 anos de reclusão -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de Pernambuco (fls. 45/52), não comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - imposta na condenação proferida na Ação Penal n. 0001310-29.2019.8.17.0001 (fls. 40/42 - da 3ª Vara do Tribunal do Júri da comarca do Recife/PE) -, com o afastamento da negativação dos vetores:
+a) culpabilidade, ao argumento de que, embora o Desembargador Relator tenha consignado que, de fato, a utilização de elementos inerentes ao delito não constitui fundamentação idônea para exasperação da pena base, incluiu nova fundamentação para manter desfavorável o vetor (fl. 7); e
+b) conduta social, assentando que, apesar de a sentença ter utilizado "argumentos equivocados" para considerar a vetorial como desfavorável, seria possível a valoração negativa da circunstância judicial com base em nova fundamentação (fl. 7).
+Sem pedido liminar.
+Prestadas informações (fls. 96/97 e 123/125), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 129/141).
+De início, observo ser inviável a impetração destinada a revisar a condenação imposta e mantida pelas instâncias ordinárias.
+Do atento exame dos autos, observo que não f oi demonstrado o alegado constrangimento ilegal, pois a jurisprudência desta Corte considera que, mesmo havendo recurso exclusivo da defesa, é possível a revisão dos fundamentos da dosimetria da pena, desde que não seja modificada a quantidade de sanção imposta, sem que tal procedimento caracterize indevida reformatio in pejus.
+Ademais, a fundamentação utilizada no acórdão hostilizado está com consonância com o entendimento desta Corte Superior. Confira-se:
+a) culpabilidade (fl. 48 - grifo nosso):
+Isto porque, embora no momento da motivação não tenha ficado claro, do contexto dos autos se extrai que a violência empregada pelo apelante, contra a vítima, ultrapassou a reprovabilidade comum da conduta de tentativa de homicídio, pois além de lhe bater com arma de fogo, efetivou cinco disparos, todos atingindo o seu alvo (aqui registro que houve utilização desse argumento nas circunstâncias do crime), e ainda agiu em via pública, podendo vir a lesionar ou matar outras pessoas, que estivessem ou passassem pelo local (o que se pontua como desfavorável ao recorrente, em sua culpabilidade).
+b) conduta social (fl. 48 - grifo nosso):
+É que se extrai, do caderno processual, que a testemunha Vilson da Silva Souza narrou que o apelante é conhecido por ser envolvido com tráfico de drogas e que acredita que o crime se deu porque o mesmo estava protegendo o ponto de venda de entorpecentes que há no local. Outra testemunha (Flaviano José Francisco da Silva), corroborando com àquela, ratifica que o recorrente é conhecido como traficante no seu meio social. Em um outro depoimento, Jailson da Silva Gomes, igualmente testemunha dos autos, afirma que no dia anterior ao crime houve uma festa naquele bairro, regada a drogas e álcool, com participação ativa do acusado.
+Aliás, o próprio réu confirmou, em interrogatório, que realmente vendia drogas, tendo confundido a vítima com outras pessoas que dias antes frequentaram o local, armadas. Evidentemente, seu comportamento social é totalmente desfavorável, pois não somente reconhecido no meio como pessoa temível, como ainda o é assim identificado externamente, pois se houve o temor de ser enfrentado por terceiros é óbvio que seu comércio ilegal/fama negativa ultrapassa a fronteira de onde ocorreu o delito.
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. PRIMEIRA FASE. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE. CINCO DISPAROS E AGRESSÃO CONTRA A VÍTIMA , BATENDO COM ARMA NA VÍTIMA. POSSIBILIDADE. CONDUTA SOCIAL. ENVOLVIMENTO COM TRÁFICO DE DROGAS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
