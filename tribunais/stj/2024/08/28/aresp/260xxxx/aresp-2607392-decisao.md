@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por EDERSON PANDOLFO contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADUANEIRO. TRANSPORTE DE MERCADORIAS DESCAMINHADAS. PENA DE PERDIMENTO DE VEÍCULO. RESPONSABILIDADE DO PROPRIETÁRIO. PROPORCIONALIDADE.
+Em suas razões, o particular aponta violação dos arts. 96 e 104, V, do Decreto-lei n. 37/1966.
+Defende a inaplicabilidade da pena de perdimento do veículo de sua propriedade, pois "inexistem provas concretas nos autos de que o recorrente ou sua empresa teriam qualquer outro histórico de infrações cometidas relacionadas à importação irregular de mercadorias estrangeiras. Em que pese o TRF4 tenha mencionado que a Receita Federal informou que o recorrente já foi flagrado transportando outras mercadorias clandestinas, o processo administrativo em questão sequer foi finalizado, e o recorrente não foi penalizado" (e-STJ fl. 501).
+Acrescenta que, "no caso dos autos, vê-se que o veículo nunca foi utilizado para outras finalidades, bem como não estava preparado para a atividade de contrabando/descaminho e, ainda, nem o recorrente, nem a empresa em que trabalha possuem histórico de práticas ilícitas, fatos estes provados nos autos" (e-STJ fl. 504).
+Contrarrazões apresentadas às e-STJ fls. 560/569.
+A Corte regional inadmitiu o recurso especial ante a incidência da Súmula 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Sem apresentação de contraminuta.
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança, em que se busca a declaração da ilegalidade da aplicação da perdimento do veículo de propriedade do impetrante e a consequente liberação do bem.
+Em primeiro grau de jurisdição, a segurança foi denegada.
+Interposta apelação, essa foi desprovida pelo Tribunal de origem, por meio de acórdão assim fundamentado (e-STJ fls. 394/396):
+o impetrante pretende a liberação do veículo marca/modelo Ford/Focus, modelo 2009,placas EMG6018, apreendido em 31-08-2022, na rodovia BR 163, no município de Dionísio Cerqueira/PR, flagrado transportando mercadorias introduzidas clandestinamente no país (dentre as quais, 24 garrafas de vinho, 240 garrafas de 330 ml de cerveja Miller, 12 garrafas de 710 ml de cerveja Corona e 5 frascos de azeite de oliva - evento 1, APREENSAO4). Na ocasião, o veículo era conduzido por Vinícius Paixão Damo, o qual estava acompanhado do impetrante.
+(..)
+A comprovação da responsabilidade do proprietário do veículo é pressuposto essencial para a aplicação da pena de perdimento, conforme Súmula 138 do extinto Tribunal Federal de Recursos:
+"A pena de perdimento de veículo, utilizado em contrabando ou descaminho, somente se justifica se demonstrada, em procedimento regular, a responsabilidade de seu proprietário na prática do ilícito."
+Além da prova de que o proprietário do veículo concorreu para o cometimento do ilícito fiscal, o Superior Tribunal de Justiça e esta Corte exigem relação de proporcionalidade entre o valor do veículo e das mercadorias apreendidas.
+(..)
+No caso concreto, é evidente a responsabilidade do impetrante no cometimento do ilícito, porquanto estava presente por ocasião da apreensão.
+Por outro lado, a despeito de o preço do veículo (R$ 30.966,00 - evento 1, APREENSAO5) ser superior ao das mercadorias (R$ 1.854,35 - evento 1, APREENSAO4), não é o caso de aplicação da excludente da desproporcionalidade, na medida em que (a) trata-se de descaminho de mercadorias às quais seria dada destinação comercial (certamente o caso dos autos, tendo em conta que, além da quantidade de mercadorias apreendidas, o impetrante é proprietário de microempresa individual cuja atividade principal é "bares e outros estabelecimentos especializados em servir bebidas"), caso em que a aplicação do princípio da proporcionalidade significaria verdadeiro estímulo à continuação da atividade ilícita; (b) há indício veemente da prática habitual de ilícito fiscal, uma vez que o impetrante já foi flagrado em outra ocasião transportando mercadorias introduzidas clandestinamente no país, conforme informado pela autoridade coatora (evento 23, INF1, fl. 05), sendo irrelevante não ter havido a conclusão do respectivo processo administrativo.
+Em casos assim, não há falar em violação do princípio da proporcionalidade, à semelhança do que já decidiu este tribunal:
+(..)
+Com efeito, a construção jurisprudencial da excludente de desproporcionalidade deve ser aplicada em casos específicos de cometimento esporádico de pequeno ilícito (compras para consumo próprio acima da cota de isenção, por exemplo), mas não em caso como o dos autos, em que evidenciada a destinação comercial, sob pena de resultar em indevidas distorções.
+Pois bem.
+Consoante se extrai do trecho do acórdão recorrido acima transcrito, o Tribunal de origem decidiu a questão a respeito da responsabilidade do proprietário do veículo e da proporcionalidade da aplicação da pena de perdimento, com base na análise das circunstâncias fáticas da causa, concluindo que os elementos constantes nos autos demonstraram a reiteração da prática ilícita e a destinação comercial das mercadorias , o que justifica a imposição da sanção administrativa.
+Nessa perspectiva, para se alcançar conclusão diversa, seria necessária a incursão no quadro fático-probatório dos autos, o que esbarra no óbice da Súmula 7 do STJ.
+Nesse mesmo sentido, destaco os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADUANEIRO. PERDIMENTO DE VEÍCULO TRANSPORTADOR. FUNDAMENTAÇÃO DEFICIENTE NÃO VERIFICADA. PRINCÍPIO DA PROPORCIONALIDADE. AFASTAMENTO. REEXAME VEDADO. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação do art. 489 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de fundamentação deficiente.
+2. A conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência do STJ firmada no sentido de que o exame da pena de perdimento de veículo pode levar em consideração outros requisitos alheios à proporcionalidade para compor o juízo valorativo da sanção, a exemplo da gravidade do caso, reiteração da conduta ilícita ou a boa-fé das partes envolvidas. Precedentes: REsp 1.843.912/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019; e AgInt no AREsp 863.425/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 27/5/2019.
+3. A alteração das conclusões da Corte de origem, para afastar a aplicação de pena de perdimento do veículo, demandaria, a toda evidência, o reexame de conteúdo fático-probatório dos autos, providência vedada em recurso especial à luz da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.192.059/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ADUANEIRO. PERDIMENTO DE VEÍCULO TRANSPORTADOR. PRINCÍPIO DA PROPORCIONALIDADE. AFASTAMENTO. REEXAME VEDADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Como consignado no aresto recorrido, o Tribunal de origem considerou legítima a pena de perdimento do veículo transportador de mercadoria ilicitamente internalizada em solo brasileiro, afastando neste ínterim o princípio da proporcionalidade, porquanto no caso em análise trata-se "de descaminho de mercadorias às quais seria dada destinação comercial (caso dos autos, pela quantidade de mercadorias transportadas), hipótese em que a aplicação do princípio da proporcionalidade significaria verdadeiro estímulo à continuação da atividade ilícita".
+2. Deste modo, dissentir das conclusões então adotadas demandaria, a toda evidência, o reexame de conteúdo fático-probatório dos autos, providência vedada em recurso especial à luz da Súmula 7/STJ.
+3. Ademais, impende registrar que a conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência do STJ firmada no sentido de que o exame da pena de perdimento de veículo pode levar em consideração outros requisitos alheios à proporcionalidade para compor o juízo valorativo da sanção, a exemplo da gravidade do caso, reiteração da conduta ilícita ou a boa-fé das partes envolvidas.
+4. Agravo conhecido para não se conhecer do recurso especial.
+(AREsp 2.473.772/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/2/2024, DJe de 1/3/2024.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
