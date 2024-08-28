@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por CRISTIANO SAIDEL (CRISTIANO), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Catarinense, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DE UM DOS RÉUS. INEXISTÊNCIA DO DEVER DE INDENIZAR. FATO DE TERCEIRO. APLICAÇÃO DA TEORIA DO CORPO NEUTRO. VEÍCULO DO RÉU QUE, DESGOVERNADO APÓS PRIMEIRA COLISÃO, ATINGIU O AUTOR. DEVER INDENIZATÓRIO DOS REQUERIDOS NÃO CONFIGURADO. RECURSO DO RÉU CONHECIDO E PROVIDO (e-STJ, fl. 204).
+Nas razões do presente recurso, CRISTIANO alegou violação dos arts. 98 do NCPC, 186 e 930 do CC, 28 do CTB, bem como dissídio jurisprudencial, aduzindo que (1) houve deferimento da assistência judiciária gratuita, diante da publicação ocorrida, ainda que a sentença tenha silenciado a esse respeito; e (2) o réu deve responder pelos danos causados, porquanto seu veículo não foi impulsionado contra os demais, tendo havido conduta volitiva de sua parte (e-STJ, fls. 591/603).
+Foram apresentadas contrarrazões (e-STJ, fls. 652/661).
+É o relatório.
+Decido.
+O recurso merece prosperar em parte.
+(1) Do benefício da assistência judiciária gratuita
+O Tribunal estadual consignou que não houve expresso deferimento do benefício da assistência judiciária gratuita, confira-se:
+No que diz respeito à primeira omissão alegada, quanto ao benefício da justiça gratuita concedido à Embargante, verifico, dos autos, que o evento indicado como evidenciando que a Embargante teve concedido em seu favor o benefício da justiça gratuita (Evento 4) trata-se de mera comunicação eletrônica expedida por servidor do primeiro grau indicando que o benefício da justiça gratuita teria sido deferido à parte Autora, quando, em verdade, não houve tal apreciação na origem.
+Em despacho na origem (evento 8, DESPADEC1) o magistrado delegou a apreciação do pedido de justiça gratuita para a sentença e, quando este a prolatou (evento 98, SENT1), deixou de apreciar tal pedido, não havendo a concessão de tal benesse à Embargante. Trata-se de omissão da decisão de origem que deveria ter sido combatida pela Embargante, e não da decisão deste areópago (e-STJ, fl. 579).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que a omissão do juízo de primeira instância quanto ao requerimento de gratuidade da justiça enseja seu deferimento tácito, mormente quando pleiteado por pessoa física sobre cuja declaração de hipossuficiência recai presunção de veracidade.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. TEMPESTIVIDADE DOS EMBARGOS À EXECUÇÃO. SÚMULA N. 7/STJ. 2. OMISSÃO DO JUDICIÁRIO EM ANALISAR O PEDIDO DE CONCESSÃO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. DEFERIMENTO TÁCITO. PRECEDENTES. 3. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO FICTO. INEXISTÊNCIA. 4. QUALIFICAÇÃO DO CURSO DE AVIAÇÃO CIVIL COMO ATIVIDADE EXTRACURRICULAR. SÚMULA 7/STJ. 5. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REVISÃO. ÓBICE DA SÚMULA 7/STJ. 6. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual, com base nos elementos fático-probatórios dos autos, concluiu pela tempestividade dos embargos à execução. Desse modo, a análise da pretensão recursal demandaria a modificação das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em recurso especial. Incidência da Súmula 7/STJ.
+2. Este Superior Tribunal possui entendimento no sentido de que "a omissão do juízo a quo em analisar o pedido de concessão dos benefícios da gratuidade da justiça implica em seu deferimento tácito, sobretudo quando apresentado por pessoa física, a favor de quem se presume verdadeira a declaração de hipossuficiência" (AgInt no AREsp 1.406.846/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 24/06/2019, DJe 28/06/2019).
+3. A ausência de debate no acórdão recorrido quanto a tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto somente na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do novo CPC no recurso especial, o que não ocorreu no caso em apreço.
+4. A alteração das conclusões adotadas pela Corte de origem acerca da qualificação do curso de aviação civil demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+5. Segundo a jurisprudência do Superior Tribunal de Justiça, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fático-probatórios, aplicando-se à hipótese a Súmula n. 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.848.536/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 29/11/2021, DJe de 2/12/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA FORMULADO NA ORIGEM. AUSÊNCIA DE MANIFESTAÇÃO DO PODER JUDICIÁRIO. DEFERIMENTO TÁCITO. POSSIBILIDADE. OMISSÃO. EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+2. Nos termos da jurisprudência do STJ, "a omissão do julgador atua em favor da garantia constitucional de acesso à jurisdição e de assistência judiciária gratuita, favorecendo-se a parte que requereu o benefício, presumindo-se o deferimento do pedido de justiça gratuita, mesmo em se tratando de pedido apresentado ou considerado somente no curso do processo, inclusive nesta instância extraordinária" (AgRg nos EAREsp 440.971/RS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 03/02/2016, DJe de 17/03/2016).
+3. Embargos de declaração acolhidos.
+(EDcl no AgInt no AREsp n. 1.249.691/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/11/2019, DJe de 9/12/2019.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+(2) Da culpa do réu
+O Tribunal estadual consignou que houve culpa exclusiva de terceiro e que não houve conduta volitiva do réu a contribuir para o acidente, aplicando-se a teoria do corpo neutro, confira-se:
+Do contrário, verifico que as provas presentes nos autos são uníssonas no sentido de suportar a versão dos fatos defendida pelo Réu, de que teria sido atingido pelo veículo "GM Vectra" de placa EKR 0310, em colisão traseira, fazendo com que perdesse controle de sua direção, invadisse a pista contrária, e colidisse com o veículo conduzido pelo Autor.
+ ..
+Assim, diante da falta de indícios de qualquer conduta volitiva por parte do Réu que tenha contribuído para o acidente, o presente feito clama pela aplicação da teoria do corpo neutro para afastar a responsabilidade do Réu (e-STJ, fls. 542).
+Assim, rever as conclusões quanto à ausência de conduta volitiva do réu demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, a fim de reconhecer o deferimento tácito da justiça gratuita pelo Juízo de primeiro grau de jurisdição.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. CORPO NEUTRO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. OMISSÃO. DEFERIMENTO TÁCITO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO.
