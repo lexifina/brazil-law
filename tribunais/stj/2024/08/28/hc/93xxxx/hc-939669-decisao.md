@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Leonardo Deni Alves, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina no julgamento da Apelação Criminal n. 0002071-67.2014.8.24.0057.
+Consoante se extrai dos autos, o paciente foi condenado como incurso no art. 33, caput, § 4º, da Lei n. 11.343/2006, à pena de 2 anos, 6 meses e 6 dias de reclusão, em regime inicial semiaberto, além do pagamento de 226 dias-multa.
+Interpostas apelações, a Corte de origem negou provimento ao recurso defensivo e deu provimento ao apelo do Ministério Público para afastar o redutor e as penas substitutivas, além de reajustar a pena final para 6 anos, 9 meses e 20 dias de reclusão, em regime inicial semiaberto, e pagamento de 680 dias-multa, no mínimo legal, substituída a pena privativa de liberdade por duas restritivas de direitos, a saber, prestação pecuniária no valor de 2 salários mínimos e prestação de serviços à comunidade pelo período da condenação (fls. 22/36).
+Interposto recurso especial, não foi admitido pelo Tribunal local (fls. 1.861/1.868). Protocolado recurso extraordinário, negou-se seguimento ao apelo no que se refere ao Tema 660/STF; não o admitindo quanto às demais teses (fls. 1.873/1.874); e interposto agravo in terno, foi conhecido e não provido (fls. 1.936/1.941).
+No presente writ, sob a alegação de constrangimento ilegal na dosimetria, requer-se, em liminar e no mérito, a fixação da pena base no mínimo legal e a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+A condenação do paciente já é definitiva ante o trânsito em julgado da ação penal. Portanto, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Ora, diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Além disso, inexiste, na espécie, flagrante ilegalidade a ser reparada por meio de habeas corpus de ofício.
+Primeiro, porque a elevação da pena-base em 1/6 com fundamento na quantidade e natureza do entorpecente apreendido (mais de uma tonelada de maconha - fl. 26), nos termos do art. 42 da Lei n. 11.343/2006, não ocorreu de forma desproporcional.
+Nesse sentido, mostra-se idônea a fundamentação, uma vez que, há muito tempo, a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza e a quantidade da substância entorpecente. Precedentes (AgRg no HC n. 732.950/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 30/5/2022).
+Ademais, segundo precedentes,  n ão há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto (HC n. 557.108/MG, Ministro Antonio Saldanha Pa lheiro, Sexta Turma, DJe 16/6/2021).
+Quanto ao redutor, o tema já foi objeto do HC n. 713.059/SC, na qual exarei decisão terminativa rechaçando a ilegalidade aventada nesse tópico, razão pela qual está configurada a mera reiteração de pedido quanto ao ponto.
+Pelo exposto, indefiro liminarmente o writ (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE EXASPERADA EM RAZÃO DA QUANTIDADE DE DROGAS. FUNDAMENAÇÃO IDÔNEA. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. REITERAÇÃO DE PEDIDO (HC N. 713.059/SC). AUSENTE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
