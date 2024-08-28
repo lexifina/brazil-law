@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Anderson Sikorski, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo no julgamento da Apelação Criminal n. 0001027-36.2018.8.26.0471.
+Consta dos autos que o paciente foi condenado pelo Juízo da 2ª Vara Criminal da comarca de Porto Feliz/SP, em 28/2/2019, à pena de 10 anos, 4 meses e 13 dias de reclusão, em regime inicial fechado, além do pagamento de 1.036 dias-multa, pela prática do delito tipificado no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006. Foram apreendidos 137 g de cocaína (fls. 45/53).
+Irresignada, a defesa interpôs recurso de apelação no Tribunal de origem, que deu parcial provimento ao recurso, em 8/8/2019, para afastar a agravante da reincidência, reduzindo a pena do paciente a 9 anos e 26 dias de reclusão, e o pagamento de 906 dias-multa, conforme o acórdão acostado às fls. 59/65.
+No  presente writ, alega-se ilegalidade na dosimetria da pena, aduzindo-se a necessidade de afastar a exasperação de 1/3 da pena-base em razão da quantidade e natureza de droga apreendida.
+Argumenta-se que o art. 42 da Lei n. 11.343/2006 menciona não apenas a quantidade da substância, mas sim a quantidade e a natureza da substância ou do produto, a personalidade e a conduta social do agente, restando evidente que os fatores devem ser considerados cumulativamente (fl. 7).
+Afirma-se, ainda, que não houve fundamentação idônea para justificar o incremento da pena inicial superior a 1/6.
+Requer-se, inclusive liminarmente, seja concedida a ordem para reformar a dosimetria da pena, na primeira fase ou na pena base, para deixar no minimo legal ou considerar apenas uma vetorial negativa, alternativamente aplicar a exasperação no pamatar de apenas 1/6 (um sexto), seja determinado que o juízo a quo, após definir o patamar de redução, recalcule a pena e proceda ao reexame do regime inicial do cumprimento da sanção e da substituição da pena privativa de liberdade por sanções restritivas de direitos, se preenchidos os requisitos do art. 44 do Código Penal (fl. 12)
+É o relatório.
+Adianto que o writ, no entanto, é manifestamente inadmissível.
+Com efeito, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a condenação transitou em julgado em 10/10/2019 e o presente writ foi impetrado em 23/8/2024, de maneira que esta impetração é substitutiva de pedido revisional e, portanto, incabível.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação pelo crime de tráfico de drogas sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Ademais, importa ressaltar que a condenação transitou em julgado há mais de 4 anos, sendo incabível a utilização do habeas corpus para revisar a aplicação da pena.
+Além disso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, pois contravindo o que foi alegado pela defesa, o Magistrado exasperou a pena-base em 1/3 com base não apenas nas circunstâncias judiciais preponderantes da quantidade e natureza da substância entorpecente apreendida, nos termos do art. 42 da Lei n. 11.343/2006, mas também nos maus antecedentes do paciente.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO EM 2019. SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS. PLEITO DE REFAZIMENTO DA DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO (137 G DE COCAÍNA) E MAUS ANTECEDENTES. FUNDAMENTAÇÃO CONCRETA. FRAÇÃO PROPORCIONAL. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
