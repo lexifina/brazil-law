@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por MV 1 EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. contra a decisão de fls. 320-322 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 260, e-STJ):
+APELAÇÃO CÍVEL. Ação pauliana. Sentença de improcedência. Insurgência da autora. Desacolhimento. Ausência dos requisitos necessários para configuração de fraude contra credores. Não comprovação pelo autor do requisito referente ao eventus damni. Sentença mantida por seus próprios fundamentos (RITJSP, art. 252). Recurso improvido.
+Nas razões do recurso especial (fls. 270-297, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 158, 159, 163 e 836 do Código Civil de 2002.
+Sustentou, em síntese:
+(i) estar configurada a ocorrência de fraude contra credores pelos recorridos, em virtude da conduta de doação do único imóvel de sua propriedade a seus filhos, reservando-lhe o usufruto vitalício do bem, tendo em vista que à época da doação já existia execução movida contra eles, e na qualidade de fiadores de contrato de locação, devem responder com todo seu patrimônio pela dívida garantida; bem como que após a referida doação encontram-se em situação de insolvência, motivos pelos quais a doação ilegal deve ser anulada;e
+(ii) que os recorridos tinham conhecimento da dívida afiançada, pois ação de execução foi proposta em 10/09/2020 e a doação foi realizada em 23/09/2020, ficando nítido que os apelados tinham como objetivo fraudar seus credores, realizando a alienação gratuita do bem.
+Em juízo de admissibilidade (fls. 320-322, e-STJ), a corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não houve demonstração das vulnerações legais suscitadas; b) incidência da Súmula 7/STJ para revisão das conclusões do acórdão recorrido; e c) a divergência jurisprudencial não foi demonstrada nos termos exigidos pelo art. 1.029 do CPC/2015.
+Irresignada (fls. 325-338, e-STJ), aduz a agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade, ao mesmo tempo que alega usurpação de competência pelo colegiado estadual à época de emissão do juízo prévio de admissibilidade.
+Contraminuta às fls. 343-354 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, afasta-se a alegação da agravante quanto à usurpação de competência por parte do Tribunal de origem. Isso porque cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe o enunciado n. 123 da Súmula do Superior Tribunal de Justiça: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+No que diz respeito à alegada afronta ao art. 836 do Código Civil de 2002, constata-se que o conteúdo do citado normativo não foi objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão dos temas nele contido, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, nestes termos:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada,
+na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos
+embargos declaratórios, não pode ser objeto de recurso extraordinário, por
+faltar o requisito de prequestionamento.
+No caso em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 262-264, sem grifos no original):
+O recurso não merece provimento.
+A sentença deve ser confirmada pelos seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo improvimento do recurso, nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça.
+(..)
+Para configuração da fraude contra credores devem ser preenchidos os seguintes requisitos: a anterioridade da dívida, o consilium fraudis (conluio fraudulento dos envolvidos no ato) e o eventus damni (prejuízo causado ao credor).
+Observa-se que a anterioridade do crédito está configurada, considerando a data de realização do negócio entre as partes e a inadimplência, que se opera desde o ano de 2019.
+Está também demonstrado o consilium fraudis, porquanto os apelados doadores, sabendo ser devedores da apelante, realizaram a alienação gratuita do imóvel objeto da matrícula 127.504, por meio de doação a seus filhos, a fim de impedir sua penhora.
+Considerando que houve a alienação de bem de forma gratuita fica presumido o intuito fraudulento, conforme ensina Daniel Amorim A. Neves:
+(..)
+Com relação ao requisito do eventus damni, cabia ao autor sua demonstração, nos termos do artigo 373, I, do CPC: O ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito, o que não se verifica.
+Não está demonstrado nos autos que os devedores estavam em estado de insolvência quando da alienação do bem e nem que tal doação os reduziu a tal estado, o que afasta a alegada fraude contra credores.
+A situação de insolvência para estar inserida à regra do art. 158 do Código Civil deve estar caracterizada ao tempo da alienação tida como fraudulenta, porquanto imprescindível que haja nexo de causalidade direto com a venda. A mera alegação, sem efetiva comprovação, de que o imóvel deveria garantir a execução ajuizada, não é suficiente para configuração do eventus damni, se desacompanhada de provas sobre o patrimônio, das atividades e ativos financeiros do devedor na época da alienação que se pretende desconstituir.
+Desse modo, para rever as conclusões do acórdão recorrido - acerca de não estarem preenchidos os requisitos para a configuração de fraude contra credores -, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, pois já estabelecido no patamar máximo permitido pelo art. 85 do CPC.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA JULGADA IMPROCEDENTE. AUSÊNCIA DOS REQUISITOS PARA CONFIGURAÇÃO DA ALEGADA FRAUDE CONTRA CREDORES. USURPAÇÃO DE COMPETÊNCIA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 123/STJ. FALTA DE PREQUESTIONAMENTO DO ARTIGO DE LEI TIDO POR VIOLADO. SÚMULAS 282 E 356/STF. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
