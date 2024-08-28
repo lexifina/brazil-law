@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, às fls. 113-115, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. EXECUÇÃO FISCAL. SISBAJUD. REITERAÇÃO AUTOMÁTICA DE ORDENS DE BLOQUEIO ("TEIMOSINHA"). ANÁLISE CASUÍSTICA. DEVOLUÇÃO DOS AUTOS À ORIGEM, PARA NOVO EXAME DA CONTROVÉRSIA. RECURSO ESPECIAL PARCIALMETE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+Em suas razões, a parte embargante aponta, à fl. 120, que:
+ ..
+5. Referida decisão levou em consideração não só a consequência da medida (penhora integral de faturamento), mas sobretudo a situação fática da empresa Executada, ora Embargante, e sua condição de empresa em recuperação judicial, circunstância esta inobservada pela decisão ora embargadaproferida neste STJ.
+ ..
+10. Ao assim decidir, a decisão ora embargada viola a vedação deste próprio STJ de analisar fatos, entendimento este vertido na Súmula 7, que destaca que "a pretensão de simples reexame de prova não enseja recurso especial". Não pode o próprio STJ reconhecer a necessidade de análise de fatos para conhecer o prover o Recurso Especial com a determinação de retorno dos autos ao Tribunallocal, pois se o Recurso Especial demanda a análise de fatos, então sequer poderia ser conhecido pelo STJ.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, destaca-se que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: AgInt no REsp 1.348.521/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 23/9/2016; EDcl no REsp 1.537.597/MA, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 14/3/2016; EDcl nos EDcl no AgRg no REsp 1.319.666/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/2/2016.
+No caso, o recurso especial foi parcialmente conhecido e, nessa extensão, parcialmente provido pelos seguintes fundamentos (fls. 113-115):
+ ..
+Não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Lado outro, no que diz respeito ao mérito, verifica-se que a Primeira Turma do STJ já decidiu que "a modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções, e não é revestida, por si só, de qualquer ilegalidade, porque busca dar concretude aos arts. 797, caput, e 835, I, do CPC, os quais estabelecem, respectivamente, que a execução se desenvolve em benefício do exequente, e que a penhora em dinheiro é prioritária na busca pela satisfação do crédito. A medida deve ser avaliada em cada caso concreto, porque pode haver meios menos gravosos ao devedor de satisfação do crédito (art. 805 do CPC), mas não se pode concluir que a ferramenta é, à primeira vista, ilegal.". Veja-se a ementa do julgado:
+ ..
+O referido entendimento tem sido observado nesta Corte, inclusive com determinação de retorno dos autos à origem para sua aplicação,ex vi o decidido nos REsp 2057414/PR, Rel. Min. Regina Helena Costa, DJe 22/03/2023 e REsp 2131007/RS, Rel. Min. Benedito Gonçalves, DJe 19/4/2024.
+No caso dos autos, consoante se extrai da decisão do juízo da execução e do voto condutor do acórdão recorrido, o indeferimento de acionamento da referida ferramenta se apoia em fundamento genérico, sem menção às peculiaridades fáticas do caso concreto.
+Nesse contexto, deve-se reconhecer que o acórdão recorrido não se coaduna com a orientação jurisprudencial deste Tribunal Superior a respeito da questão, razão pela qual o recurso especial deve ser provido e cassado o acórdão, com a determinação de retorno dos autos para novo julgamento do agravo de instrumento, ocasião em que o órgão julgador deverá decidir a respeito da adequação da medida pedida pela exequente, à luz das peculiaridades do caso concreto, à luz do princípio da razoabilidade.
+Ante o exposto, conheço parcialmente o recurso especial e, nessa extensão, dou-lhe parcial provimento para cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal Regional Federal da 4ª Região para novo julgamento do agravo de instrumento.
+Como se vê, a decisão embargada é clara e bem fundamentada ao demonstrar que o acórdão recorrido não se coaduna com a orientação jurisprudencial, inclusive apontando decisões monocráticas no mesmo sentido da decisão embargada.
+Ademais, como o ora embargante descreve razões inerentes ao mérito da causa, fica clara sua intenção de rediscussão por via transversa da matéria decidida, subvertendo o propósito do presente instrumento recursal.
+Assim, evidenciando-se não haver falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido, devem os embargos serem rejeitados.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
