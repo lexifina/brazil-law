@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça daquele Estado, cuja ementa é a seguinte (e-STJ fl. 41):
+AGRAVO EM EXECUÇÃO PENAL -UNIFICAÇÃO DAS PENAS DE RECLUSÃO E DETENÇÃO -INVIABILIDADE -REGIMES PRISIONAIS DIVERSOS -PRINCÍPIO DA LEGALIDADE -1. Nos termos do artigo 69, "caput", do Código Penal, no caso de aplicação cumulativa de penas de reclusão e de detenção, executa-se primeiro aquela. -2. Em observância ao princípio da legalidade, torna-se inviável se proceder ao somatório das penas de reclusão e detenção, uma vez que não se pode estabelecer o regime fechado para as penas de detenção.
+Nas razões do recurso especial (e-STJ fls. 73-82), alega o recorrente violação do art. 111, caput, parágrafo único, da LEP, segundo o qual "quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+Alega, ainda, contrariedade aos arts. 33 e 69, ambos do Código Penal
+Apresentadas contrarrazões (fls. 88-95), o Tribunal a quo admitiu o recurso especial (e-STJ fls. 99-101), manifestando-se o Ministério Público Federal pelo provimento do recurso (e-STJ fls. 115-117).
+É o relatório. Decido.
+Insurge-se o agravante contra acórdão que deu provimento a agravo em execução, determinando o desmembramento das penas do reeducando, com a consequente suspensão da pena de detenção até que haja compatibilidade na execução desta com a pena de reclusão.
+O entendimento adotado, contudo, diverge da orientação jurisprudencial desta Corte de que, concorrendo penas de detenção e reclusão, ambas devem ser somadas para efeito de fixação da totalidade do encarceramento, porquanto constituem reprimendas de mesma espécie, ou seja, penas privativas de liberdade, por disposição do art. 111 da Lei n. 7.210/84. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DAS PENAS DE DETENÇÃO E RECLUSÃO. ART. 111 DA LEP. SOMATÓRIO. POSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1. A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que " ..  concorrendo penas de reclusão e detenção, ambas devem ser somadas para efeito de fixação da totalidade do encarceramento, porquanto constituem reprimendas de mesma espécie, ou seja, penas privativas de liberdade. Inteligência do art. 111 da Lei n. 7.210/84.  .. " (HC 460.460/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019). 2. Agravo regimental desprovido. (AgRg no REsp n. 1.993.254/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/9/2022, DJe de 19/9/2022.)
+AGRAVO REGIMETAL EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS DE RECLUSÃO E DETENÇÃO. ART. 111 DA LEP. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. As razões trazidas no regimental não são suficientes para infirmar a decisão agravada, devendo ser mantida por seus próprios fundamentos.
+2. O acórdão impugnado está perfeita harmonia com a orientação jurisprudencial desta Corte, no sentido de que as penas de reclusão e as de detenção constituem reprimendas de mesma espécie, e, portanto, para efeito de fixação do regime prisional, devem ser consideradas cumulativamente, a teor do art. 111 da Lei n. 7.210/1984.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 869.324/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Assim, o recurso especial comporta provimento para restabelecer a decisão proferida pelo Juízo das Execuções, que determinou a unificação das penas de reclusão e detenção.
+Incide, portanto, a Súmula 568 do STJ, segundo a qual O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante.
+Ante o exposto, dou provimento ao recurso especial.
+Intimem-se.
+EMENTA
