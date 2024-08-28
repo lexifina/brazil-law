@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado (e-STJ fl. 84):
+EMENTA: APELAÇÃO CÍVEL. EXECUÇÃO FORÇADA. PEDIDO DE CITAÇÃO POSTAL DO EXECUTADO. INDEFERIMENTO. ART. 829, §1º,DO CPC. DECISÃO QUE DETERMINOU O DEPÓSITO PRÉVIO DAS DILIGÊNCIAS DO OFICIAL DE JUSTIÇA. FAZENDA PÚBLICA. LEGISLAÇÃO ESTADUAL QUE INSTITUIU O FUNDO ESPECIAL DE CUSTEIO DAS DESPESAS COM DILIGÊNCIAS DOS OFICIAIS DE JUSTIÇA. LEI Nº 11.838/2021. NOVO ENTENDIMENTO. VALOR NECESSÁRIO PARA O CUMPRIMENTO DAS DILIGÊNCIAS FORMULADAS PELA FAZENDA PÚBLICA, MINISTÉRIO PÚBLICO, DEFENSORIA PÚBLICA E PELOS BENEFICIÁRIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. ESTABELECE O CUSTEIO COMO VERBA INDENIZATÓRIA. INTELIGÊNCIA DOS ARTS. 5º E 6º DA NORMA ESTADUAL SUPRA. PRINCÍPIO DA LEGALIDADE. RESP 1.144.687/RJ JULGADO EM SEDE DE RECURSO REPETITIVO. TEMA 396. ANTECIPAÇÃO DAS DESPESAS REFERENTES ÀS DILIGÊNCIAS DO OFICIAL DE JUSTIÇA. SÚMULA 190 DO STJ. DESPROVIMENTO DO APELO.
+Embargos de declaração acolhidos, sem efeitos infringentes (e-STJ fl. 124).
+Em suas razões, a parte recorrente aponta violação dos arts. 247, 249 e 1.022, II e parágrafo único, II, do CPC/2015, por negativa de prestação jurisdicional.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 150/154.
+Passo a decidir.
+Verifico que a pretensão recursal não comporta conhecimento.
+Inicialmente, no tocante ao art. 1.022, II, do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI (desembargadora convocada do TRF da 3ª Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+Em relação aos arts. 247 e 249, do CPC, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento, sendo certo que, diante da deficiência do apelo nobre na parte relativa à negativa de prestação jurisdicional, fica prejudicado o reconhecimento do prequestionamento ficto previsto no art. 1.025, do CPC.
+Assim, conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF.
+Quanto ao mais, constato que o acórdão recorrido louvou-se na edição da Lei n. 11.838/2021, do Estado da Paraíba, que instituiu o Fundo Especial de custeio das despesas com diligências dos oficiais de justiça, de modo a inviabilizar o exame da controvérsia sob tal enfoque, em razão do disposto na Súmula 280 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
