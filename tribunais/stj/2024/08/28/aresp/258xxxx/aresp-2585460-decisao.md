@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por ELI DE JESUS ARAUJO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 798):
+APELAÇÃO CÍVEL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. COBERTURA PARA INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). CLÁUSULAS RESTRITIVAS E/OU LIMITATIVAS. DEVER DE INFORMAÇÃO DO(A) ESTIPULANTE. ENTENDIMENTO CONSOLIDADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NOS RECURSOS ESPECIAIS AFETADOS AO RITO DOS REPETITIVOS (TEMA 1.112). COBERTURA PARA INVALIDEZ FUNCIONAL PERMANENTE POR DOENÇA CONDICIONADA À PERDA DA EXISTÊNCIA INDEPENDENTE DA PARTE SEGURADA. LEGALIDADE. PRECEDENTE DO STJ (TEMA 1.068). NÃO CONFIGURAÇÃO, TODAVIA. LAUDO PERICIAL QUE ATESTOU A AUSÊNCIA DE PERDA DA AUTONOMIA E INDEPENDÊNCIA DO SEGURADO PARA EXERCER AS ATIVIDADES DO COTIDIANO. SENTENÇA REFORMADA. ÔNUS SUCUMBENCIAIS READEQUADOS. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente que o acórdão contrariou os arts. 4º, 6º, II, III e IV, 31, 47 e 54, §§ 3º e 4º, do CDC, além do art. 373, I, do CPC. Aduz que está aposentado por invalidez e que sua incapacidade laboral é total e permanente e, por isso, faria jus à cobertura do seguro de vida para invalidez funcional permanente e total por doença. Afirma ainda que teria sido violado o dever de informação clara e adequada sobre os serviços contratados.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 834-841).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 842-845), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 871-875).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem consignou que o dever de informação cabe à estipulante a respeito das condições contratuais e não à seguradora (fl. 804):
+In casu, inquestionável que as informações referentes às Condições Gerais do Seguro foram repassadas, pois, em se tratando a estipulante de empresa pública, a contratação do seguro de vida e acidentes pessoais em grupo ocorreu mediante modalidade de licitação.
+De modo que cabia a COPEL DISTRIBUIÇÃO S.A. o dever de cientificar o grupo de segurados, dentre os quais o autor da presente demanda. Assim, não há falar em violação ao dever de informação por parte da seguradora.
+Referido entendimento está de acordo com tese firmada no REsp n. 1.874.811/SC, paradigma do Tema n. 1.112 do STJ:
+RECURSO ESPECIAL REPETITIVO. CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. EXCLUSIVIDADE. ESTIPULANTE. GARANTIA SECURITÁRIA. INVALIDEZ PERMANENTE TOTAL OU PARCIAL POR ACIDENTE (IPA). INDENIZAÇÃO SECURITÁRIA. INCAPACIDADE PARCIAL DEFINITIVA. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE. GRAU DE INVALIDEZ. VALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia dos autos está em definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+3. Teses para os fins do art. 1.040 do CPC/2015: (i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e (ii) não se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas figuras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora.
+4. Recurso especial provido.
+(REsp n. 1.874.811/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2/3/2023, DJe de 10/3/2023.)
+Quanto ao direito à cobertura pleiteada, o Tribunal de origem consignou que o recorrente não comprovou invalidez que inviabilize de forma irreversível o pleno exercício das relações autonômicas, conforme previsão contratual (fls. 804-805):
+Quanto às cláusulas contratuais, estas dispõem que a Invalidez Funcional Permanente Total por Doença, consiste na "invalidez que Funcional Permanente Total por Doença, cause a perda da existência independente do segurado, caracterizada pela ocorrência de quadro clínico incapacitante, decorrente de doença que inviabilize de forma irreversível o pleno exercício das relações autonômicas do segurado".
+Assim, inerente às condições para a caracterização da garantia securitária, que o(a) segurado(a) tenha perdido a existência independente em razão de doença, não sendo suficiente a incapacidade para a realização das atividades funcionais.
+(..)
+Conforme consta da perícia levada a efeito nestes autos, a doença que acomete a parte autora não compromete a realização das atividades da vida diária, mas somente o exercício das atividades laborais: (..)
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória e interpretação das cláusulas contratuais, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de cobrança de indenização securitária.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A cobertura securitária de Invalidez Funcional Permanente Total por Doença (IFPD) condiciona-se à verificação da incapacidade do segurado que lhe provoque a perda de sua existência independente, ou seja, a irreversível inviabilidade do pleno exercício de suas relações autonômicas, cobertura essa que não se confunde - também - com a de Invalidez Laborativa Permanente Total por Doença. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à conclusão, por meio de perícia, de que o agravante não apresenta características incapacitantes para atividades da vida diária (e-STJ, fl. 879), da ausência de contratação em relação à hipótese de invalidez laborativa total permanente por doença (e-STJ, fl. 884), bem como da ausência de mácula no dever de informação na situação dos autos, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.485.721/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO NOBRE DA SEGURADORA DEMANDADA. INSURGÊNCIA DO AUTOR.
+1. "Não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica" (Repetitivo/Tema 1068/STJ).
+1.1. Tendo as instâncias ordinárias, em análise ao acervo probatório, concluído pela ausência de incapacidade para os atos da vida diária e independente, o julgamento do feito, a luz do quadro fático delineado na origem, não encontra óbice nas Súmulas 5 e 7/STJ.
+2. Nos contratos de seguro de vida em grupo, o dever de prestar informações ao segurado, na fase de execução do contrato, é da estipulante (Repetitivo/Tema 1112/STJ).
+3. Agravo interno desp rovido.
+(AgInt no REsp n. 2.105.169/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a"" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. COBERTURA PARA INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). CLÁUSULAS RESTRITIVAS E/OU LIMITATIVAS. DEVER DE INFORMAÇÃO DO(A) ESTIPULANTE. HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. PERDA DA EXISTÊNCIA INDEPENDENTE DA PARTE SEGURADA NÃO COMPROVADA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
