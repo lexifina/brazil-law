@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por ARTUR ROCHA DE SOUZA contra decisão do Tribunal de origem que inadmitiu o processamento do recurso especial em razão do óbice da Súmula 7/STJ.
+A defesa pugna pel o conhecimento do agravo para prover o recurso especial, com aplicação da causa de diminuição prevista no art. 14, parágrafo único, do Código Penal, em grau máximo.
+O Ministério Público Federal manifestou-se pelo desprovimento da insurgência.
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, o óbice aplicado foi devidamente rebatido.
+Passo ao exame do recurso especial.
+ARTUR ROCHA DE SOUZA foi condenado à pena de 04 (quatro) anos e 11 (onze) meses de reclusão, em regime semiaberto, pela prática do crime previsto no art. 121, § 2º, IV, c/c o art., 14, II, parágrafo único, ambos do Código Penal,
+Irresignada, a acusação interpôs recurso de apelação pleiteando o aumento da pena na terceira fase da dosimetria, ao qual o Tribunal de origem deu parcial provimento para fixar a pena do recorrente em 09 (nove) anos e 04 (quatro) meses, em regime fechado, valendo-se da seguinte fundamentação (e-STJ fl. 783):
+"Na terceira fase o magistrado reduziu a pena em 2/3 diante da ausência de consumação por circunstâncias alheias a vontade do recorrido. A redução da pena referente à tentativa deve resultar não das circunstâncias do crime ou das condições pessoais do acusado, que são consideradas na fixação da pena-base, mas das circunstâncias da própria causa geral de diminuição de pena, ou seja, da extensão do iter criminis percorrido pelo agente, graduando-se o percentual em face da maior ou menor aproximação do resultado. Assim, tendo o agente percorrido considerável parte do iter criminis, a fração de diminuição relativa à tentativa deve ser conduzida ao patamar de 1/3 (um terço), uma vez que a vítima esteve bem próximo do resultado morte, consoante atestou o laudo pericial, havendo perigo de vida, razão pela qual apena definitiva restará fixada em 9 anos e 4 meses de reclusão, em regime fechado.
+ANTE O EXPOSTO, voto no sentido de CONHECER do recurso e, no mérito, DAR-LHE PARCIAL PROVIMENTO para, alterando a fração de redução na terceira fase da dosimetria, vez que a vítima esteve bem próximo do resultado morte, refazer o cálculo, fixando a pena definitiva em 9 anos e 4 meses de reclusão, em regime fechado."
+No recurso especial, a defesa alega violação ao art. art. 14, II, parágrafo único, do Código Penal, razão pela qual pleiteia a aplicação da minorante da tentativa em patamar máximo.
+Sobre a tese defensiva, esta Corte firmou orientação no sentido de que "o critério a ser considerado para fixação do quantum de diminuição na hipótese de crime tentado é o iter criminis percorrido pelo agente, de modo que, quanto mais próximo ele houver chegado da consumação do crime menor será a diminuição na reprimenda" (AgRg no AREsp n. 2.453.240/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023 e AgRg no HC n. 802.438/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 31/8/2023).
+A partir dos trechos transcritos e dentro dos limites do reexame fático-probatório, verifico que, ao contrário do que aduz a defesa, o Tribunal local apresentou fundamentação idônea para justificar a fração adotada. Observa-se que o relator do voto vencedor considerou que "a vítima esteve bem próxima do resultado morte, consoante atestou o laudo pericial, havendo perigo de vida."
+Desse modo, com fundamento no art. 253, parágrafo único, II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
