@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de embargos de declaração (fls. 583/585) apresentados contra acórdão sintetizado na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. ART. 1030, INCISO I, ALÍNEAB, DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NA ORIGEM. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284/STF.1. Nos termos do art. 1.030, § 2º, do CPC/2015, não compete ao Superior Tribunal de Justiça analisar questões às quais cujo seguimento tenha sido negado pelo Tribunal de origem, com base na aplicação de entendimento firmado em julgamento de recursos repetitivos, sendo cabível tão somente Agravo interno ao próprio Tribunal. Precedentes: AgInt no AREsp n. 2.200.316/AP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023; AgInt no REsp n. 2.031.322/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023; AgInt no AREsp n. 2.254.519/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/5/2023, DJe de 10/5/2023. 2. Alegou a recorrente afronta aos arts. 489 e 1.022 do CPC/2015, tendo se limitado, contudo, a mencionar a existência de omissão e de contradição, de modo genérico, deixando de demonstrar, com precisão, os vícios imputados ao acórdão recorrido. A alegação genérica de violação dos referidos dispositivos atrai, por analogia, a incidência da Súmula 284/STF.3. Agravo interno não provido.
+A embargante sustenta, em suma, que:
+É dizer, em outras palavras, que no entender desta Nobre Turma, a Embargante deixou de demonstrar as razões pelas quais o acórdão proferido pelo Egrégio Tribunal de origem teria sido omisso na análise dos argumentos que lhe foram submetidos de modo a justificar a suscitada violação aos artigos 489 e 1022 do CPC.
+Porém, senhores (as) Ministros(as), com o máximo respeito, é de rigor a reforma desse entendimento.
+4. Isso porque, tal qual fora devidamente informado na minuta do agravo em recurso especial e, posteriormente, reiterado na minuta do agravo interno ora denegado, a Embargante vem suscitando a omissão do acórdão recorrido desde que os autos tramitam no Egrégio Tribunal Regional Federal da 3ª Região. Tal fato, inclusive, pode ser atestado nas razões fáticas do agravo interno em apreço:
+(..)
+Ato contínuo, diante das negativas de seguimento recursais, a Embargante acabou reiterando nas razões do agravo interno, num tópico dedicado, a razão pela qual entende ter havido violação ao artigo 489 e 1022 do CPC, qual seja a ausência de observação e aplicação do Tema 345/STJ dos recursos repetitivos ao presente caso, confira:
+Requer sejam acolhidos os embargos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+2. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece prosperar.
+Os embargos de declaração têm a finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições, ou para a correção de erro material. Não têm caráter substitutivo, modificador ou infringente do julgado, mas sim integrativo ou aclaratório. O objetivo dos embargos não pode ser a infringência, a qual, por ventura, ocorreria como consequência da supressão de omissão, ou da resolução de obscuridade ou de contradição (cf. NERY JUNIOR, Nelson. NERY, Rosa Maria de Andrade. Código de Processo Civil comentado  livro eletrônico . 3. ed. São Paulo: Thomson Reuters Brasil, 2018).
+Observo que o caso em apreço não comporta os presentes aclaratórios, pois o julgado recorrido apresenta fundamento suficiente, exauriente e específico. Confira-se:
+No mais, alegou a recorrente afronta aos arts. 489 e 1.022 do CPC/2015, tendo se limitado, contudo, a mencionar a existência de omissão e de contradição, de modo genérico, deixando de demonstrar, com precisão, os vícios imputados ao acórdão recorrido.
+Assim, a alegação genérica de violação dos referidos dispositivos atrai, por analogia, a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". A propósito:
+Desse m odo, a qu estão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Os embargos de declaração não servem para que se adequem os fundamentos do acórdão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (cf. EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe 23/03/2018).
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os e mbargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Diante do exposto, REJEITO os embargos de declaração.
+É o voto.
