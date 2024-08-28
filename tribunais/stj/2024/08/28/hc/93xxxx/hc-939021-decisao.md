@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Guilherme Fernando Giraldelli Paixao, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo que negou provimento à apelação defensiva, mantendo a condenação do paciente por incurso no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 680 dias-multa (Autos n. 1501099-73.2023.8.26.0567, da 2ª Vara Criminal da comarca de Sorocaba/SP).
+Interposto recurso espec ial, este não foi admitido pelo Tribunal local, e o agravo não conhecido nesta Corte Superior.
+Aqui, após o trânsito em julgado da condenação, alega-se constrangimento ilegal na dosimetria da pena e requer-se, em liminar e no mérito, a concessão da ordem a fim de reduzir a pena-base no mínimo legal; aplicar o redutor previsto no art. 33, § 4º, da Lei de Drogas, na fração de 2/3; fixar o regime inicial mais benéfico; bem como substituir a pena privativa de liberdade por restritiva de direitos.
+É o relatório.
+A condenação do paciente já é definitiva, ante o trânsito em julgado da ação penal. Portanto, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Ora, diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+No entanto, vislumbro ilegalidade flagrante apta a justificar a concessão da ordem de ofício.
+No tocante à dosimetria, o Tribunal de origem assim se manifestou (fl. 1.225/1.229 - grifo nosso):
+ ..
+Foi a pena-base foi fixada 1/6 acima do mínimo legal, consideradas as circunstâncias do artigo 42, da Lei 11.343/06.
+Com efeito, a Lei nº 11.343/06, no art. 42, estabelece que "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+ ..
+Nesse passo, considerando quantidade e a natureza das drogas apreendidas, em especial a cocaína e o crack, de alto potencial deletério, viciante e de destruição do organismo, necessária maior reprovação, pois imprime maior gravidade à empreitada criminosa e evidencia, realmente, culpabilidade exacerbada na conduta dos acusados, de modo que fundamentado está o aumento da reprimenda, em atenção à expressa determinação legal.
+ ..
+A personalidade e conduta social dos agentes, vez que não mencionadas em sentença, entendem-se por valoradas de modo neutro, por ausentes elementos para tanto.
+Assim, não se cogitando aumento tarifado, não vejo ilegalidade na fixação do aumento aplicado, que pode traduzir maior rigor da Magistrada, mas jamais ilegalidade.
+Na segunda fase, ausentes agravantes ou atenuantes.
+Na terceira fase, restou afastada a aplicação da minorante.
+In casu, inaplicável o §4º, do artigo 33, da Lei 11.343/06.
+ ..
+No caso, restou evidenciado nos autos que os réus se dedicavam ao tráfico de drogas, a obstar o reconhecimento do tráfico privilegiado, em razão da falta de atendimento dos requisitos legais.
+O tráfico se desenvolve através de estrutura organizada e, nos autos, comprovou-se que Guilherme Paixão era o "gerente do tráfico" e Guilherme Liberato e Kenjy eram "vapores", dados à venda da droga aos usuários. Veja-se que com eles foi apreendida quantidade de droga relevante, a demonstrar que, de fato, fazem parte da estrutura organizada, dedicando-se ao tráfico, a afastar a aplicação da minorante.
+Assim, inalterada a pena, resta mantida em 06 anos, 09 meses e 20 dias de reclusão e pagamento de 680 dias-multa, no piso.
+O regime fechado, para o tráfico, se mostra o adequado, tendo em vista as circunstâncias judicia is desfavoráveis (art. 33, § 3º. do CP).
+ ..
+Na hipótese, foi apreendida a quantidade de 427,42 g de maconha (fl. 119). Considero que a referida quantidade de substância ilícita não se mostra exorbitante a ponto de justificar o recrudescimento da pena-base em 1/6.
+Com efeito, a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo (AgRg no AREsp n. 984.996/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/5/2018).
+Quanto ao redutor, o acórdão impugnado está em consonância com a orientação jurisprudencial consolidada na Terceira Seção desta Corte, segundo a qual a quantidade de droga apreendida, associada com as outras circunstâncias do caso concreto - inclusive, que o tráfico se desenvolve através de estrutura organizada e, nos autos, comprovou-se que Guilherme Paixão era o "gerente do tráfico" (fl. 1.229 - grifo nosso) -, permite concluir que o réu se dedicava a atividades criminosas. Nesse sentido, confiram-se: AgRg no HC n. 841.876/SP, Quinta Turma, Ministro Joel Ilan Paciornik, DJe 18/4/2024; AgRg no HC n. 838.171/MS, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024; e AgRg no HC n. 765.490/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2022.
+Além disso, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do acusado a atividades criminosas e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos (AgRg no HC n. 765.490/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/10/2022).
+Quanto ao regime inicial, fixada a basilar no mínimo leal, sendo favoráveis as circunstâncias judicias e estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, o modo prisional semiaberto é o adequado e suficiente para o início do cumprimento da pena reclusiva, nos termos do art. 33, § 2º, b, do Código Penal. Nesse sentido, confira-se: AgRg no HC n. 733.775/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 13/9/2022.
+Fixadas essas premissas, passo a redimensionar a pena do paciente.
+Na primeira fase, afastada a exasperação, fixo a basilar em 5 anos de reclusão e 500 dias-multa; na segunda etapa, ausente agravante e atenuante, mantenho a pena intermediária em 5 anos de reclusão e 500 dias-multa; na terceira fase, não estão presentes causas de diminuição da pena, contudo mantido o aumento de 1/6 (um sexto), por força do artigo 40, VI, da Lei n. 11.343/2006, resultando na pena privativa de liberdade de 5 anos e 10 meses de reclusão, e 583 dias-multa, fixado o regime semiaberto para início do cumprimento da pena.
+Verificada, ainda, a existência dos corréus Guilherme Poveda Camargo Liberato e Kenjy Massayuki Oshikata, em situação idêntica à do paciente, deve-lhes ser estendida a concessão do direito reconhecido neste writ, nos termos do art. 580, c/c o art. 654, § 2º, todos do Código de Processo Penal.
+Em face do exposto, concedo liminarmente a ordem impetrada, em parte, para redimensionar a reprimenda imposta ao paciente, fixando-a em 5 anos e 10 meses de reclusão, e 583 dias-multa, no regime inicial semiaberto, com extensão da ordem aos corréus Guilherme Poveda Camargo Liberato e Ke njy Massayuki Oshikata, mantendo os demais termos da condenação (Autos n. 1501099-73.2023.8.26.0567, da 2ª Vara Criminal da comarca de Sorocaba/SP).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE JULGAMENTO DE MÉRITO, NESTA CORTE. FUNDAMENTO SUBSIDIÁRIO. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA O AGRAVAMENTO DA PENA-BASE. INERENTE AO PRÓPRIO TIPO PENAL. INDIVIDUALIZAÇÃO DA PENA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. EVIDENCIADA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REGIME INICIAL SEMIABERTO. CABIMENTO. EXTENSÃO DA ORDEM. ART. 580 DO CPP.
+Ordem liminarmente concedida, em parte, com extensão aos corréus.
