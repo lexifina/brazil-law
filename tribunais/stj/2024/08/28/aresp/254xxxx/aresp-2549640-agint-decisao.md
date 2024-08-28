@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, o particular apresentou pedido de cumprimento individual de sentença coletiva com valor atribuído à causa de R$ 8.681,31 (oito mil, seiscentos e oitenta e um reais e trinta e um centavos), decorrente de título judicial formado nos autos da Ação Coletiva n. 6542/2005, ajuizada pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão - SINTSEP/MA, em que se reconheceu o direito de seus substituídos à diferença de 3,17% sobre os vencimentos percebidos a partir da conversão de cruzeiro para URV.
+Após sentença que extinguiu o cumprimento de sentença, o TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO negou provimento à apelação da parte autora, ficando consignado que o SINTSEP/MA só representa os servidores públicos estaduais que não possuam sindicato específico, com fulcro no Princípio da Unicidade Sindical. Ou seja, o SINTSEP/MA representa os servidores públicos estaduais que não possuem Sindicato para a categoria específica. No caso sub examine, a ora Apelante pertence a classe do magistério estadual que possui sindicato próprio, no caso o SINPROESSEMA.
+O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. SENTENÇA COLETIVA EM DEMANDA PROPOSTA PELO SINTSEP. ILEGITIMIDADE ATIVA DO EXEQUENTE. EXTINÇÃO DO FEITO. SENTENÇA MANTIDA. APELO IMPROVIDO DE ACORDO COM PARECER MINISTERIAL.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto recurso especial, apontando violação dos arts. 489 e 1.022 do CPC.
+Sustenta, em síntese, que "a Corte Estadual restou omissa sobre o cargo não abrangido por sindicato mais específico e a preclusão da legitimidade" (fl. 322).
+Apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+O agravo foi conhecido para não conhecer do recurso especial.
+O particular interpôs agravo interno, em que alega, às fls. 397-400, que:
+Não se pretende que a corte superior realize juízo sobre a legitimidade da parte Recorrente, mas tão somente que seja identificada a negativa de prestação jurisdicional pela corte estadual, com a anulação do julgado e devolução dos autos para que seja realizado novo julgamento, enfrentando as questões essenciais trazidas pelo Recorrente.
+(..)
+Assim, configurada a deficiência pela negativa de prestação jurisdicional, a medida que se impõe é a anulação do julgado recorrido, para que ocorra rejulgamento da questão com o necessário enfrentamento daquilo que foi apontado pela parte recorrente, ou seja, a preclusão da legitimidade em razão de sua aferição em momento oportuno anterior, e a necessidade de demonstração da regularidade/registro sindical da entidade apontada como mais específica.
+Portanto, tal objeto recursal não enseja a aplicação do óbice da súmula 7 do STJ, vez que não se pretende que a corte superior reexamine questão fática ou probatória, mas que tão somente verifique ausência de apreciação sobre a questão apresentada, para que a corte estadual faça o exame da questão fático-probatória.
+(..)
+Por isso, não merece prosperar a sustentação do Tribunal Estadual sobre a aplicabilidade da Súmula 7 do STJ. Não se trata de matéria sujeita a reexame de fatos e provas, pois a questão é meramente processual.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Compulsando os autos, verifica-se que há pertinência nas alegações da parte agravante, de modo que torno sem efeito a decisão ora agravada e passo à nova análise do agravo em recurso especial.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/2015.
+De fato, verifica-se que a Corte a quo deixou de se manifestar acerca da existência do apontado erro de premissa, consistente na alegação de que haveria preclusão quanto à discussão sobre a legitimidade ativa, bem como no tocante à alegação de que o Recorrente não estaria abrangido pelo sindicato apontado como mais específico.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO SUBMETIDOS AO ENUNCIADO ADMINISTRATIVO 3/STJ. RECEBIMENTO COMO AGRAVO INTERNO. DIREITO AMBIENTAL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. OMISSÃO RELEVANTE NÃO SANADA NA ORIGEM. PROVIMENTO DO RECURSO ESPECIAL QUANTO À VIOLAÇÃO AO ART. 1.022 DO CPC/2015.
+1. Sobre os presentes embargos de declaração, a análise de suas razões evidencia, de forma clara e inequívoca, que o seu objetivo não é o de sanar erro material, omissão, obscuridade ou contradição, mas sim o de buscar a reforma da decisão embargada. Assim, recebo-o como agravo interno, nos termos do art. 1.024, § 3º, do CPC/2015.
+2. É de ser mantida a decisão agravada, tendo em vista que a Corte de origem, mesmo com a oposição de embargos de declaração, deixou de se manifestar sobre o tema da responsabilidade subjetiva para fins de aplicação de multa por infração administrativa ambiental. Como se trata de vício cuja correção tem o potencial de alterar o resultado da demanda, impõe-se a anulação do acórdão dos embargos de declaração para que novo julgamento dos aclaratórios seja realizado, de forma seja apreciada a alegação em questão.
+3. Embargos recebidos como agravo interno e, nesta extensão, não provido.
+(EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. DECISÃO QUE DEU PROVIMENTO PARCIAL AO APELO RARO POR RECONHECER OMISSÕES NO ACÓRDÃO, NÃO SUPRIDAS MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. CABIMENTO, DENTRE OUTRAS PROVIDÊNCIAS, DE SE APRECIAR A ALEGADA NECESSIDADE DE ATUALIZAÇÃO MONETÁRIA DA PROPOSTA ADMINISTRATIVA, PARA FINS DE COMPARAÇÃO AO VALOR INDENIZATÓRIO FINAL AFERIDO, E, A PARTIR DAÍ, SE DETERMINAR A SUCUMBÊNCIA E A PARAMETRIZAÇÃO DOS JUROS COMPENSATÓRIOS. MATÉRIA RELEVANTE AO DESLINDE DA CAUSA, CUJA APRECIAÇÃO, PODERÁ EM TESE, ALTERAR O RESULTADO DO JULGAMENTO. INEXISTÊNCIA DE QUALQUER APRECIAÇÃO OUTRA, DADA A PREJUDICIALIDADE DESTA MATÉRIA. RECONHECIMENTO DE NULIDADE QUE NÃO IMPLICA A INCORREÇÃO DO ACÓRDÃO LOCAL, APENAS DO VÍCIO DECLARADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Ocorre a violação do art. 535 do CPC/1973, quando a parte opõe perante a Corte local, Embargos de Declaração alegando omissão relevante e capaz de influenciar o resultado final do julgamento e, tal argumentação não é apreciada.
+2. O reconhecimento da nulidade de acórdão local, por violação do art. 535 do CPC/1973, nesta Instância Superior demanda apenas a objetiva constatação de um dos vícios previstos na legislação específica; análise realizada de maneira prejudicial às demais alegação e, que, por óbvio, não implica a análise da correção do acórdão recorrido.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.)
+Ante o exposto, com esteio no art. 259 do RISTJ, dou provimento ao agravo interno para, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conhecer do agravo para dar provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
