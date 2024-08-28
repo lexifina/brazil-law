@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por GILSOM CARVALHO GOMES DA SILVA contra decisão do Tribunal de origem que inadmitiu o processamento do recurso especial em razão do óbice da Súmula 7/STJ.
+O recorrente pugna pel o conhecimento do agravo para prover o recurso especial, com a reforma da dosimetria.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O recurso é tempestivo e preenche os demais requisitos de admissibilidade. Além disso, o óbice aplicado foi devidamente rebatido.
+Passo ao exame do recurso especial.
+O agravante foi condenado à pena de 11 (onze) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime previsto art. 121, § 1º e § 2º, IV, do Código Penal.
+Irresignada, a defesa interpôs apelação pleiteando a revisão da dosimetria, à qual o Tribunal de origem deu parcial provimento para reduzir a pena do recorrente ao patamar de 10 (dez) anos de reclusão.
+No recurso especial, a defesa alega que o acórdão violou os arts. 59 e 121, § 1º, ambos do Código Penal, pleiteando o afastamento da negativação do vetor culpabilidade e a aplicação da causa de diminuição de pena do § 1º no patamar máximo, ante a suposta ausência de fundamentação idônea.
+Relativamente à revisão da dosimetria, relembro que esta Corte possui entendimento consolidado no sentido de que "por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos" (AgRg no HC n. 873.376/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024 e AgRg no HC n. 880.725/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024).
+Ressalto que o aumento da pena-base em virtude das circunstâncias judiciais desfavoráveis do artigo 59 do Código Penal depende de fundamentação concreta e específica que extrapole os elementos inerentes ao tipo penal e ao elemento subjetivo da conduta. (AgRg no HC n. 747.029/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023 e AgRg no HC n. 770.059/RO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+A partir dos trechos transcritos, verifico que as instâncias ordinárias utilizaram fundamentação concreta e idônea para desabonar a culpabilidade do recorrente ao destacarem (e-STJ 882-883):
+"Depreende-se da sentença condenatória que a pena base foi fixada em 14 (quatorze) anos de reclusão, considerando-se a culpabilidade e as consequências do crime como circunstâncias judiciais desfavoráveis ao réu, sob os seguintes fundamentos:"
+Observo que o réu agiu com culpabilidade intensa, já que foram desferidas uma enormidade de facadas na vítima, motivo pelo qual exaspero a pena em 1 (um) ano (..)
+A culpabilidade, mencionada em primeiro lugar no art. 59 do Código Penal, funciona como fundamento e a medida da responsabilidade penal.
+Deve ela ser aferida lembrando-se principalmente o grau de reprovabilidade da conduta praticada e a censurabilidade do ato, considerando-se não só as condições pessoais do réu, mas também o contexto fático que o levou a praticar o delito.
+Nesse caminho, in casu, suficientemente justificada a valoração negativa nos elementos concretos destacados."
+Quanto ao pleito de aplicação da fração da causa de diminuição prevista no art. 121, § 1º, do Código Penal, em fração superior a 1/6, esta Corte assim se posiciona: "a escolha do quantum de diminuição relativo à privilegiadora prevista no art. 121, § 1º, do CP, entre os patamares de 1/6 a 1/3, deve se basear nas circunstâncias concretas evidenciadas nos autos, considerando "os elementos caracterizadores do homicídio privilegiado, ou seja, a relevância social ou moral da motivação do crime, ou o grau emotivo do réu, além da intensidade da injusta provocação realizada pela vítima. Precedente do Pretório Excelso" (AgRg no HC n. 841.609/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/5/2024, DJe de 15/5/2024 e AgRg no HC n. 846.357/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+Vejamos a fundamentação da sentença acerca da causa de diminuição (e-STJ fl. 735):
+"Em razão do reconhecimento do privilégio, previsto no artigo 121, § 1º, do Código Penal, ocorrido em plenário, reduzo a pena em 1/6 (um sexto), fixando-a, de forma definitiva em 11 (onze) anos e 8 (oito) meses, de reclusão."
+O Tribunal de origem corroborou o patamar fixado na sentença (e-STJ 885).
+Nos limites do reexame fático-probatório admitido nesta via, resta evidente que a aplicação da causa de diminuição de pena prevista no art. 121, § 1º, do Código Penal, em seu patamar mínimo, não foi devidamente fundamentada, tendo em vista que o Juízo de origem não apresentou elementos para justificar a adoção de fração inferior à máxima.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do Regimento Interno do STJ, conheço do agravo e dou parcial provimento ao recurso especial para, nos demais termos do acórdão e da sentença, fixar a pena definitiva de GILSOM CARVALHO GOMES DA SILVA em 08 (oito) anos de reclusão.
+Publique-se. Intimem-se.
+EMENTA
