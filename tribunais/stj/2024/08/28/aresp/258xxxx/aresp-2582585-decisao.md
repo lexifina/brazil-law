@@ -1,0 +1,19 @@
+DECISÃO
+Na origem, trata-se de ação previdenciária c/c declaração de inexigibilidade de débito e indenizatória, objetivando a restauração de benefício acidentário e dano moral. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 152.623,11.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO contra acórdão com o seguinte resumo de ementa:
+AÇÃO ACIDENTÁRIA - AÇÃO DE RESTABELECIMENTO DE BENEFÍCIO DE AUXÍLIO SUPLEMENTAR - SENTENÇA DE PROCEDÊNCIA - RECURSO DO AUTOR E REEXAME NECESSÁRIO - POSSIBILIDADE DE CUMULAÇÃO COM AUXÍLIO-ACIDENTE - APLICAÇÃO DO PRINCÍPIO TEMPUS REGIT ACTUM - RESTABELECIMENTO DO BENEFÍCIO DEVIDO EM ÍNTERIM CONSOLIDADO FIXAÇÃO DOS JUROS E CORREÇÃO MONETÁRIA - HONORÁRIOS ADVOCATÍCIOS - ARBITRAMENTO NO MOMENTO DE LIQUIDAÇÃO DO JULGADO - ARTIGO 85 DO ATUAL CPC - APLICAÇÃO DA SÚMULA Nº 111 DO C. STJ - INDENIZAÇÃO POR DANOS MORAIS - INVIABILIDADE - INOCORRÊNCIA DE ATO ILÍCITO DE NATUREZA IN RE IPSA.
+Recurso do autor desprovido. Sentença de procedência mantida, em sede de reexame necessário, com observações.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Analisando a possibilidade de revisão do benefício, ressalvado o meu entendimento pessoal, adota-se o posicionamento desta 16ª Câmara de Direito Público e do Superior Tribunal de Justiça no sentido de que a Autarquia tem o dever de verificar e corrigir equívocos apurados na análise dos benefícios concedidos aos segurados, respeitado o prazo decadencial.
+ ..
+Na hipótese, o auxílio-acidente (NB 94/812.726.057 fls. 43), a ele foi concedido em 01.08.1986. O ajustamento do INSS se deu em 12.11.2020 (fls. 32), portanto, fora do prazo decenal, devendo ser observada a decadência, conforme bem analisado na r. sentença: "E no caso dos autos, constatase que o prazo decenal para a autarquia revisar seu ato administrativo foi em muito ultrapassado, operando-se a decadência, uma vez que a notificação do segurado ocorreu aos 12/11/2020 (fls. 32)." (fls. 150).
+ ..
+Nos termos acima delimitados, de rigor a manutenção da respeitável sentença de primeiro grau, para julgar procedente em parte o pedido inicial, reconhecendo a discricionariedade da Autarquia na revisão de seu benefício mas, apesar da legitimidade de revisão, há que se declarar a inexigibilidade dos valores percebidos a mais pelo segurado ante a natureza alimentar, conferindo caráter irrepetível ao benefício. Mantida a condenação do INSS na devolução de eventual montante retido na consignação do auxílio-acidente NB nº 94/812.726.057 em razão da cumulação dos benefícios.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agra vo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
