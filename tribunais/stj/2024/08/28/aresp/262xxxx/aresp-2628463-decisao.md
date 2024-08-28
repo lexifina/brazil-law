@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CALHEIRA ALMEIDA S.A. (CALHEIRA) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 929/954).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, CALHEIRA alegou a violação dos arts. 369, 370, 373, II, 375 do NCPC, aduzindo que (1) houve cerceamento de defesa, tendo em vista a necessidade de produção de provas oral e pericial; e (2) o risco da atividade não abrange a imprevisibilidade da crise de desabastecimento do cacau (e-STJ, fls. 875/883).
+(1) Da inexistência de cerceamento de defesa
+Nos termos da jurisprudência desta Corte, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do NCPC.
+No caso concreto, o Tribunal estadual afastou o alegado cerceamento de defesa por entender que as provas constantes nos autos são suficientes para o julgamento da lide ao afirmar que os fatos eram incontroversos, sendo desnecessária a produção de outras provas além das documentais acostadas aos autos.
+Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável nesta esfera recursal.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. PRODUÇÃO DE PROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PENHORA. BEM DE FAMÍLIA. IMÓVEL DADO EM GARANTIA DE EMPRÉSTIMO EM FAVOR DA ENTIDADE FAMILIAR. CABIMENTO. RECURSO PROVIDO.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na instância a quo.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. A jurisprudência desta Corte firmou-se no sentido de que a impenhorabilidade do bem de família não é oponível para obstar a execução de hipoteca sobre bem imóvel oferecido como garantia real hipotecária pelo casal ou entidade familiar. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1.682.003/PR, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 8/2/2021, DJe 23/2/2021)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. RECUSA DE COBERTURA DE TRATAMENTO. DISPOSITIVO CONSTITUCIONAL. OFENSA. INVIABILIDADE. CERCEAMENTO DE DEFESA. JUIZ. DESTINATÁRIO FINAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+3. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que não era necessária a produção de provas pericial e oral. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+4. Esta Terceira Turma tem entendimento de que é dispensável a previsão do procedimento no rol da ANS, de modo que sua falta não afasta do plano de saúde a obrigação de custear exame necessário ao tratamento de moléstia coberta contratualmente.
+5. Para comprovação da divergência jurisprudencial, é necessário que o recorrente proceda ao cotejo analítico, mediante a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.684.620/SP, de minha relatoria, Terceira Turma, j. em 15/12/2020, DJe 18/12/2020)
+(2) Da imprevisão
+O Tribunal estadual consignou que a seca não é considerada fato imprevisível, tratando-se de risco inerente à atividade agrícola. Confira-se:
+Ora, as intempéries climáticas, como, por exemplo, a falta ou excesso de chuvas, são fenômenos considerados previsíveis na produção agrícola, representando risco da própria atividade rural, e, nesse contexto, não se qualificam como caso fortuito ou força maior.
+Nesta conformidade é que não há como acolher a teoria da imprevisão, de cujo conceito se insere apenas a ideia de superveniência de acontecimentos extraordinários e imprevisíveis, com os quais se torna insuportável a um dos contratantes a execução do contrato.
+A jurisprudência do colendo Superior Tribunal de Justiça, inclusive, firmou-se no sentido de que "nos contratos agrícolas, o risco é inerente ao negócio, de forma que eventos como seca, pragas ou estiagem, dentre outros, não são considerados fatores imprevisíveis ou extraordinários que autorizem a adoção da teoria da imprevisão" (STJ - AgInt nos EDcl no REsp: 1808110 DF 2019/0098236-3, Relator: Ministro MARCO BUZZI, Data de Julgamento: 19/11/2019, T4 - QUARTA TURMA, Data de Publicação: DJe 22/11/2019)  e-STJ, fls. 790/791).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que, em contratos agrícolas, eventos como seca, pragas, entre outros, não são considerados imprevisíveis ou extraordinários a justificarem a aplicação da teoria da imprevisão.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CONVERTIDA EM PERDAS E DANOS. COMPRA E VENDA DE GRÃOS. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 211/S TJ. 2. CONTRATOS AGRÍCOLAS. TEORIA DA IMPREVISÃO. INAPLICABILIDADE. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. AGRAVO INTERNO DESPROVIDO.
+1. No tocante ao art. 393 do Código Civil de 2002, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada. Incidem, ao caso, as Súmulas 211/STJ e 282/STF.
+1.1. O Superior Tribunal de Justiça possui jurisprudência assentada no sentido de que o prequestionamento ficto/implícito só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese.
+2. A jurisprudência desta Corte Superior possui entendimento no sentido de que, nos contratos agrícolas, o risco é inerente ao negócio, de forma que eventos como seca, pragas, ou estiagem, entre outros, não são considerados fatores imprevisíveis ou extraordinários, que autorizem a adoção da teoria da imprevisão.
+2.1. Para o acolhimento da pretensão recursal - a fim de que seja aplicada a Teoria de Imprevisão sob o argumento de que o não cumprimento das obrigações do recorrente se deu em virtude de acontecimentos imprevisíveis e extraordinários - seria imprescindível derruir as conclusões contidas no decisum atacado, o que forçosamente demandaria a rediscussão de matéria fática e contratual, incidindo, na espécie, as Súmulas 5 e 7 deste Tribunal Superior.
+3. Consoante iterativa jurisprudência desta Corte Superior, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.169.148/GO, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 13/2/2023, DJe de 16/2/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO E DEPÓSITO. CONTRATOS AGRÍCOLAS. TEORIA DA IMPREVISÃO. INAPLICABILIDADE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, nos contratos agrícolas, o risco é inerente ao negócio, de forma que eventos como seca, estiagem, pragas, ferrugem asiática, entre outros, não são considerados fatores imprevisíveis ou extraordinários que autorizem a adoção da Teoria da Imprevisão. Precedentes.
+2. A Segunda Seção desta Corte consolidou o entendimento de que a devolução em dobro dos valores pagos pelo consumidor somente é possível quando demonstrada a má-fé do credor, o que não é o caso dos autos, conforme preceituou o Tribunal a quo.
+3. Em relação à admissibilidade do recurso especial pela alínea c do permissivo constitucional, a jurisprudência desta Corte é no sentido de que a simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.233.352/RS, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 22/6/2020, DJe de 1º /7/2020)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula n. 568 do STJ.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de CALHEIRA, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO INDENIZATÓRIO. CONTRATO DE DEPÓSITO. CACAU. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JUIZ. DESTINATÁRIO DA PROVA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. ATIVIDADE AGRÍCOLA. SECA. PRAGAS. IMPREVISÃO. INAPLICABILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
