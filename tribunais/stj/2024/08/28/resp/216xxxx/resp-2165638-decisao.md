@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTANDER LEASING S.A. ARRENDAMENTO MERCANTIL, com fundamento no art. 105, III, a e c, da Constituição Federal, visando a reforma do acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ, fl. 299):
+APELAÇÃO CÍVEL . DECLARATÓRIA. PEDIDO PREJUDICADO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO . COISA JULGADA MATERIAL. IRRESIGNAÇÃO. ANÁLISE JUNTO COM O MÉRITO. INOCORRÊNCIA. CAUSA MADURA. APLICAÇÃO DO ART. 1.013, § 3º, DO CPC/2015. MÉRITO. PEDIDO DE RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE TARIFAS BANCÁRIAS DECLARADAS ILEGAIS. PEDIDO DISTINTO DO FORMULADO NO ÂMBITO DO JUIZADO ESPECIAL. ACESSÓRIO QUE SEGUE O PRINCIPAL. RESTITUIÇÃO DOS JUROS INCIDENTES SOBRE AS TARIFAS DECLARADAS ILEGAIS. AUSÊNCIA DE MÁ-FÉ. DEVOLUÇÃO NA FORMA SIMPLES. ANULAÇÃO DA SENTENÇA. PROVIMENTO PARCIAL DO APELO.
+1 - Declarada por sentença a ilegalidade da tarifa bancária com determinação de restituição dos valores pagos, é devida, também, a repetição de indébito em relação aos juros remuneratórios sobre esta incidente, como consectário lógico, conforme a regra de que a obrigação acessória segue o destino da principal.
+2 - "A repetição do indébito prevista no art. 42,parágrafo único, do CDC somente é devida quando comprovada a má-fé do fornecedor; em não comprovada a má-fé, é devida a restituição simples."
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 359-364).
+Nas razões do recurso especial (e-STJ, fls. 373-395), a insurgente aponta, além de dissídio jurisprudencial, violação aos arts. 337, §§ 1º, 2º e 4º, e 1.022, II, do CPC/2015; e 323 do Código Civil.
+Defende, preliminarmente, a negativa de prestação jurisdicional por parte do acórdão recorrido, ao argumento de o julgado não analisou suas alegações a respeito do descabimento da restituição dos juros remuneratórios ante a ocorrência da coisa julgada.
+No mérito, sustenta, em síntese, que a parte recorrida obteve êxito em ação anteriormente ajuizada para a declaração da abusividade de tarifas de contrato bancário e a repetição dos valores indevidamente pagos, incluindo os demais consectários.
+Afirma, então, a ocorrência de violação à coisa julgada, ao argumento de que os juros remuneratórios pleiteados na presente demanda já foram objeto da primeira ação ajuizada, havendo identidade entre as partes, a causa de pedir e o pedido.
+Argumenta que a eficácia preclusiva da coisa julgada implica a impossibilidade de ajuizamento de ação autônoma com a finalidade de obter direito que poderia ter sido discutido na lide anterior.
+Alega, ainda, que "a restituição dos juros remuneratórios sobre as tarifas compreende dedução lógica do pedido do afastamento da cobrança, na medida em que o acessório (juros incidentes sobre a tarifa afastada) segue a sorte do principal (princípio da gravitação). Sendo assim, não combatida a sentença do Juizado Especial que eventualmente não contemple condenação à repetição dos acessórios, há evidente preclusão, dada a concordância com os termos do provimento jurisdicional, com os valores pagos e com a quitação operada, não cabendo a reabertura da discussão em nova ação" (e-STJ, fl. 389).
+Contrarrazões às fls. 422-437 (e-STJ).
+O Tribunal de origem admitiu o recurso especial, ascendendo os autos a esta Corte (e-STJ, fls. 472-473).
+Brevemente relatado, decido.
+A questão de direito tratada no recurso especial foi afetada pela Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão de afetação proferida nos autos do REsp n. 2.145.391/PB, relator ministro Antonio Carlos Ferreira, DJe de 27/6/2024, submeteu a julgamento a questão nos seguintes termos:
+PROPOSTA DE AFETAÇÃO. RITO DOS RECURSO ESPECIAIS REPETITIVOS. PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO. JUROS REMUNERATÓRIOS. TARIFA DECLARADA ABUSIVA. DEMANDA ANTERIOR. CONTROVÉRSIA SOBRE A COISA JULGADA.
+1. Questão afetada: Definir se a declaração de ilegalidade ou abusividade de tarifas e encargos em demanda anterior impede, sob a ótica da coisa julgada, o ajuizamento de nova demanda para requerer a repetição de juros remuneratórios não pleiteados na ação precedente.
+2. Caso concreto: 2.1. Primeira demanda: Condenação da instituição financeira à repetição em dobro de tarifas declaradas abusivas. 2.2. Segunda demanda: Pedido de repetição dos juros remuneratórios incidentes sobre as referidas tarifas. 2.3. Rejeição da preliminar de coisa julgada pelo Tribunal de origem.
+3. Recurso especial afetado ao rito dos recursos especiais repetitivos, com determinação de suspensão dos recursos especiais e agravos em segunda instância ou no STJ.
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.268/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. NULIDADE DE TARIFAS DECLARADA EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. ALEGAÇÃO DE OFENSA À COISA JULGADA. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS. TEMA 1.268/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
