@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE CURITIBA se insurgira, com fundamento no art. 105, inciso III, alínea a e c, da Constituição Federal (CF/88), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 33):
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO DO FEITO. CONDENAÇÃODA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS PROCESSUAIS. IRRESIGNAÇÃO. PAGAMENTO ADMINISTRATIVO APÓS AJUIZAMENTO DA EXECUÇÃO FISCAL E ANTES DA CITAÇÃO. AUSÊNCIA DE CRIVO JUDICIAL. PEDIDO DE ARQUIVAMENTO DO FEITO EM RAZÃO DA EXTINÇÃO DA DÍVIDA. OBRIGAÇÃO DE PAGAR AS DESPESAS DO PROCESSO QUE COMPETE AO EXEQUENTE. DESCUMPRIMENTO DOS DEVERES DE DILIGÊNCIA, DE BOA-FÉ, DE ETICIDADE E DE COOPERAÇÃO PROCESSUAL. SENTENÇA MANTIDA.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões de seu recurso especial, a parte ora agravante aponta, além de divergência jurisprudencial, violação do art. 90 do Código de Processo Civil (CPC), alegando a possibilidade de responsabilizar o executado pelo pagamento das custas processuais, com base no princípio da causalidade, uma vez que houve o pagamento administrativo do débito, posteriormente ao ajuizamento da ação, mesmo não ocorrendo a citação.
+Não houve apresentação de contrarrazões, conforme certificado (fl. 77 ).
+É o relatório.
+A irresignação merece prosperar.
+O entendimento do acórdão recorrido diverge da orientação do STJ, consoante a qual, em observância ao princípio da causalidade, o pagamento do débito na esfera administrativa realizado posteriormente ao ajuizamento da execução fiscal, ainda que antes da citação, impõe ao executado, não ao exequente, o pagamento dos ônus sucumbenciais, entre eles as custas judiciais, porquanto a sua inadimplência deu causa à instauração do processo (REsp 1854592/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA Turma, julgado em 05/03/2020, DJ e 31/08/2020).
+Cito, ainda, em casos semelhantes, as seguintes decisões monocráticas da Primeira e Segunda Turmas do Superior Tribunal de Justiça (STJ): REsp 1.971.812, Ministro Gurgel de Faria, DJe de 1º/2/2022; REsp 2.101.464, Ministro Sérgio Kukina, DJe de 9/10/2023; REsp 2.137.541, Ministra Regina Helena Costa, DJe de 25/4/2024; REsp 2.133.170, Ministro Sérgio Kukina, DJe de 11/4/2024; REsp 2.110.213, Ministro Mauro Campbell Marques, DJe de 24/11/2023; e REsp 2.101.472, Ministra Assusete Magalhães, DJe de 11/10/2023.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para afastar a condenação do ente municipal ao pagamento de custas processuais .
+Publique-se. Intimações necessárias.
+EMENTA
