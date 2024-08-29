@@ -1,0 +1,8 @@
+DECISÃO
+RAFAEL KAIRUZ BORDIN alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 1604105-07.2024.8.12.0000, em que foi mantido o indeferimento da remição de pena.
+Asseriu a defesa, perante a Corte de origem, que, ""mesmo se tratando de período anterior ao início do cumprimento da pena, bem como de empresa não conveniada com a AGEPEN, se faz necessário a concessão de 41 dias de remição, conforme folhas de frequência, em anexo (seq. 32.2)"" (fl. 11).
+Todavia, conforme oportunamente apontou o Juízo singular, " o  sentenciado iniciou o cumprimento de sua pena em 06/02/2024 e requer concessão de remição da pena pelo trabalho realizado do período de 02/10/2023 a 29/02/2024 realizado a Rychard Colombo Bezerra, juntando como comprovante sua carteira de trabalho e folha de ponto" (fl. 35, sublinhei).
+Todavia, segundo a compreensão do Superior Tribunal de Justiça, " a  decisão impugnada observou a jurisprudência desta Corte, de que é incabível a remição entre processos diversos por trabalho realizado antes da prática do delito cuja condenação se executa, sob pena de se permitir espécie de crédito com o Estado, de modo a possibilitar que um indivíduo realize a compensação de saldo de pena na próxima empreitada criminosa, o que não encontra previsão legal e estaria em confronto com as finalidades da pena" (AgRg no AREsp n. 2.408.544/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 28/2/2024.)
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
