@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS ALTERNATIVE ASSETS I, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 50):
+AGRAVO DE INSTRUMENTO. Execução. Penhora. Devedora em recuperação judicial. Alienação dos bens constritos que depende da manifestação do d. Juízo da recuperação judicial, sem prejuízo do cumprimento do plano de recuperação. Precedentes do C. STJ. Decisão parcialmente reformada. Recurso parcialmente provido, com determinação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 85-88).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 6º, § 7-A, 49, § 4º, e 86, II, da LRF; e 489, § 1º, e 1.022, II, do CPC.
+Esclareceu que se opôs ao acórdão por estabelecer que eventual penhora estaria submetida ao prévio crivo do Juízo recuperacional, ainda mais quando não há prova de que tal constrição atingiria os bens essenciais ao soerguimento das empresas, sob pena de forçar um credor extraconcursal a se submeter aos efeitos da recuperação judicial que, nos termos da legislação vigente, não deveriam lhe afetar.
+Afirmou existirem omissões, obscuridade e carência de fundamentação no julgamento estadual, embora opostos e apreciados os embargos de declaração.
+Frisou que o crédito detido pelo fundo é oriundo de um contrato de adiantamento de câmbio, razão pela qual é expressamente excluído dos efeitos da recuperação judicial, consoante o art. 49, § 4º, c/c o art. 86, II da Lei n. 11.101, logo ostenta natureza extraconcursal, motivo a evidenciar que não é necessária a submissão de atos constritivos ao crivo do Juízo universal.
+Defendeu que "não há que se falar em submissão ao crivo do Juízo Universal, vez que é o Juízo da execução singular quem possui competência para a execução dos créditos concursais. Ou seja, o simples fato de a Jari e a Saga estarem em recuperação judicial, per se, não torna, na origem, eventuais penhoras ilegais, pois a penhora visa a garantir o débito exequendo" (e-STJ, fl. 68).
+Sustentou que uma eventual ordem de suspensão dos atos constritivos deveria vigorar tão somente até o dia 31/1/2022, quando se encerrou o stay period concedido no caso em referência, o que também não foi observado. Requereu o provimento do recurso especial (e-STJ, fls. 59-71).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 107-121).
+Contraminuta apresentada (e-STJ, fls. 124-128).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls.).
+Brevemente relatado, decido.
+Não há nenhuma omissão, obscuridade, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+O julgamento concluiu que não deveria ser admitido, de plano, o levantamento das penhoras, tampouco a alienação dos bens constritos "ou a decisão definitiva dos embargos do devedor". Justificou-se que nada impede o prosseguimento da execução, embora a constrição e a alienação de ativos deverão ser submetidas ao Juízo da recuperação para que ele examine se a medida, concretamente, prejudicará o cumprimento do plano recuperacional ou violará os princípios da menor onerosidade e da preservação da empresa.
+Leia-se (e-STJ, fls. 51-53):
+Não se desconhece que "a jurisprudência do STJ firmou-se no sentido de que os atos de alienação e constrição devem ser submetidos ao juízo da recuperação judicial, em homenagem ao princípio da preservação da empresa" (STJ, 2ª Turma, AgInt no REsp 1.616.438-SP, Rel. Min. Og Fernandes, unânime, j. 07.02.17, destacou-se).
+É dizer, ""Ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, alegadamente garantidas por alienação fiduciária, bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, de minha relatoria, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 30/5/2018)" (STJ,4ª Turma, AgInt no AREsp 1.317.401-PR, Rel. Min. Antonio Carlos Ferreira,unânime, j. 13.11.18, destacou-se).
+Nesta medida, não deve ser admitida o levantamento das penhoras, tampouco a alienação dos bens constritos ou a "decisão definitiva nos embargos à execução" (fl. 428), respeitado o entendimento diverso, pois nada impede o prosseguimento da execução, embora a constrição e a alienação de ativos deverão ser submetidas ao Juízo da recuperação para que se examine se a medida, concretamente, prejudicará o cumprimento do plano ou violará os princípios da menor onerosidade e da preservação da empresa.
+Nesse sentido, os precedentes deste Relator, Ag2116532-28.2020.8.26.0000, unânime, j. 13.10.20, e desta C. 12ª Câmara de Direito Privado:
+ ..
+Recurso parcialmente provido.
+Diante do exposto, dá-se parcial provimento ao agravo de instrumento para reformar em parte a r. sentença e determinar que se oficie ao d. Juízo da recuperação sobre a constrição e a alienação dos ativos penhorados.
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobe ambas as alíneas do permissivo constitucional.
+O insurgente não busca a mera qualificação jurídica desse quadro, mas sua reapreciação, o que é vedado em recurso especial.
+. Segundo a jurisprudência do STJ, "cabe ao juízo da recuperação judicial exercer o controle dos atos constritivos incidentes sobre o patrimônio de empresa, aferindo a essencialidade dos bens para seu reerguimento" (AgInt no REsp n. 2.085.090/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/6/2024, DJe de 21/6/2024).
+A título ilustrativo:
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO SOBRE O PATRIMÔNIO DA EMPRESA RECUPERANDA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL PARA EXERCER O CONTROLE DOS ATOS DE CONSTRIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao juízo da recuperação judicial exercer o controle dos atos constritivos incidentes sobre o patrimônio de empresa, aferindo a essencialidade dos bens para seu reerguimento.
+2. Os estreitos limites do conflito de competência não autorizam discutir a natureza do crédito - se concursal ou extraconcursal -, devendo o debate ocorrer nas vias e recursos próprios.
+3. Ainda que se atribua o caráter extraconcursal a crédito, incumbe ao juízo em que se processa a recuperação judicial deliberar sobre os atos expropriatórios e sopesar a essencialidade dos bens de propriedade de empresa passíveis de constrição e a solidez do fluxo de caixa.
+4. Agravo interno desprovido.
+(AgInt no CC n. 194.397/MG, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 28/6/2023, DJe de 3/7/2023.)
+Dessa forma, a medida acautelatória adotada pelo Tribunal estadual não destoa da jurisprudência desta Corte Superior - Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. MEDIDAS RELATIVAS À CONSTRIÇÃO E ALIENAÇÃO DE BENS PENHORADOS. NECESSIDADE DE PRÉVIA ANUÊNCIA DO JUÍZO UNIVERSAL. APLICAÇÃO DAS SÚMULAS 7 E 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
