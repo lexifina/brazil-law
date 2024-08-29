@@ -1,0 +1,16 @@
+DECISÃO
+RONALDO DA SILVA JUNIOR, condenado definitivamente por furto, a 1 ano, 7 meses e 1 dia de reclusão, em regime inicial semiaberto, além de multa, alega sofrer coação ilegal diante de acórdão do Tribunal de origem, proferido na Apelação n. 1525044-73.2022.8.26.0228.
+A defesa busca a absolvição pela incidência do princípio da insignificância, porque os bens, de valor total reduzido (R$ 273,00), foram recuperados pelas vítimas. Alternativamente, requer a fixação do regime aberto, com base no princípio da proporcionalidade.
+Decido.
+O habeas corpus comporta avanço para pronta solução, por decisão monocrática do relator, com amparo na jurisprudência sobre o tema.
+Depreende-se dos autos que o paciente foi condenado por dois furtos, em continuidade delitiva, porque, em 5/11/2022, subtraiu blusas e cuecas em estabelecimentos comerciais diversos, avaliados no total de R$ 273,00.
+Ainda que os bens hajam sido recuperados, a jurisprudência desta Corte é firme em reconhecer, em relação ao princípio da insignificância, que o "instituto é inaplicável quando o "valor da coisa furtada supera o limite de 10% do salário mínimo ao tempo da prática delitiva, e em que o acusado é reincidente e ostenta maus antecedentes" (AgRg no HC n. 852.800/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023)" (AgRg no AREsp n. 2.480.609/DF, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+Não estamos diante de subtração de ninharia ou de valor inexpressivo, e o réu "tem contra si cinco condenações penais definitivas, quatro por furto e uma por receptação" (fl. 60). Com efeito:
+ ..  o princípio da insignificância não objetiva resguardar condutas habituais juridicamente desvirtuadas, pois comportamentos contrários à lei, ainda que isoladamente irrisórios, quando transformados pelo infrator em verdadeiro meio de vida, perdem a característica da bagatela e devem sujeitar-se ao direito penal (HC n. 338.357/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 26/8/2016).
+ ..
+(AgRg no REsp n. 1.733.020/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/6/2018, DJe de 12/6/2018.)
+O acórdão recorrido está conforme a compreensão do colegiado, de que a "reincidência constitui fundamento concreto para o agravamento do regime prisional, ainda que fixada pena inferior a 4 anos de reclusão, nos termos do art. 33, §§ 2º e 3º, do CP, notadamente quando também maculada a pena-base pela presença de circunstância judicial desfavorável, sendo devido o estabelecimento da modalidade mais gravosa" (AgRg no AgRg no AREsp n. 2.271.667/TO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+Não há que se falar em ofensa ao princípio da proporcionalidade. O paciente não furtou bem de valor insignificante, é reincidente específico e "ostenta maus antecedentes" (fl. 62). As instâncias ordinárias mensuram todas as circunstâncias da conduta para a escolha do regime inicial semiaberto, o que beneficiou o sentenciado, uma vez que a motivação judicial apoiaria a imposição do modo inicial fechado de cumprimento da pena.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
