@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por MANOEL DE JESUS, contra decisão que não admitiu o recurso especial do insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 313, e-STJ):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL E CIVIL. RESCISÃO CONTRATUAL. COMPRA E VENDA DE VEÍCULO. PERDAS E DANOS. DEPRECIAÇÃO DO VEÍCULO ENTRE ADATA DA VENDA E A DATA DA APREENSÃO. IMPOSSIBILIDADE DE CUMULAÇÃOCOM ALUGUÉIS. BIS IN IDEM.1. Diante do descumprimento da obrigação de pagamento do preço do veículo, e decretada a rescisão do contrato, o comprador inadimplente deve pagar ao vendedor indenização pela desvalorização do bem, consistente na diferença de seu valor na data da venda e na de apreensão.2. Configura bis in idem a cumulação de indenização a título de aluguéis pelo uso do bem com ade depreciação do bem.3. Apelo não provido.
+Os embargos de declaração foram rejeitados (fls. 347-357, e-STJ).
+Nas razões do recurso especial (fls. 362-370, e-STJ), o insurgente alega que o acórdão recorrido violou os artigos 475, 884, 885 e 886 do CC, postulando: i) o direito de auferir o valor que deixou de ganhar em razão de não ter posse do veículo, e ii) a possibilidade de se cumular o pleito de aluguel com compensação pela desvalorização, visto que não configura bis in idem.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 381-382, e-STJ), dando ensejo a interposição do presente agravo (fls. 387-394, e-STJ).
+Foi apresentada contraminuta (fls. 399-404, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. O insurgente alega que o acórdão recorrido violou os artigos 475, 884, 885 e 886 do CC, postulando: i) o direito de auferir o valor que deixou de ganhar em razão de não ter posse do veículo, e ii) a possibilidade de se cumular o pleito de aluguel com compensação pela desvalorização, visto que não configura bis in idem.
+O Tribunal de origem, ao analisar a impossibilidade de cumulação da pretensão, assentou que (fls. 314-315, e-STJ, grifou-se):
+No caso dos autos, as partes celebraram contrato verbal de compra e venda de veículo e, embora tenha ocorrido a tradição do bem móvel, não houve o recebimento da prestação acordada, no valor de R$ 9.500,00 (nove mil e quinhentos reais), pois foi dado um cheque sem fundos a título de pagamento.
+Como se sabe, em se tratando de rescisão contratual pelo inadimplemento, há que ser determinado o retorno dos contratantes ao status quo ante, devendo aquele que usufruiu do bem por certo período indenizar o proprietário.
+Nesse sentido, em que pese ser cabível indenização por eventuais prejuízos sofridos, o valor pleiteado a título de aluguel do veículo suplantaria o próprio preço do bem, ocasionando nítido enriquecimento sem causa do autor/apelante.
+Com efeito, considerando que a indenização se mede pela extensão do dano, mostra-se escorreita a sentença resistida ao condenar o réu ao pagamento de indenização pela desvalorização do veículo, consistente na diferença de seu valor na data da venda e na de apreensão.
+(..)
+Ademais, não se mostra possível a cumulação de indenização a título de aluguéis pelo uso do bem com a de desvalorização do bem, sob pena de configurar bis in idem.
+Portanto, o valor indenizatório consistente na diferença entre o valor do bem na data da venda e seu valor na data da apreensão, mostra-se adequado para o restabelecimento das partes ao status quo ante.
+Assim, denota-se que o acórdão recorrido utilizou como fundamento o fato de que a citada cumulação suplantaria o valor do bem, configurando o enriquecimento indevido; referido fundamento, suficiente para manutenção do decisum, não foi impugnado.
+Deste modo, a subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)  grifou- se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TU RMA, julgado em 14/06/2016, Dje 21/06/2016)  grifou-se .
+Incide, portanto, o teor da Súmula 283/STF, aplicável por analogia aos recursos especiais.
+2. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
