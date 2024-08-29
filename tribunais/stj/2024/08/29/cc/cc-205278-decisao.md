@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO FEDERAL DA VARA DE EXECUÇÃO PENAL DE CATANDUVAS - SJ/PR suscita conflito de competência, em execução penal, diante do JUÍZO FEDERAL DA 5ª VARA CRIMINAL - FECHADO E SEMIABERTO - DE CAMPO GRANDE - SJ/MS.
+A controvérsia estabelecida neste incidente processual se cinge a saber de quem é a competência para o exame de agravo em execução penal interposto pelo apenado contra a decisão que indeferiu o pedido de Providências n. 9003115-67.2023.4.04.7000 de entrega de livro escrito pelo próprio interno.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 5ª Vara Criminal - Fechado e Semiaberto - de Campo Grande-SJ/MS, ora suscitado (fls. 554-557).
+Decido.
+Em razão das especificidades do caso, estou de acordo com o Ministério Público Federal. Deveras, depreende-se dos autos que o apenado estava recolhido na Penitenciária Federal de Catanduvas - PR (Execução Penal n. 5003362-92.2018.4.04.7000).
+Diante da decisão denegatória do Juízo da Corregedoria da referida Penitenciária Federal (de Catanduvas), no Pedido de Providências n. 9003115-67.2023.4.04.700, onde pleiteava a entrega de livro escrito por ele, houve a interposição de recurso de agravo em execução.
+Entretanto, o referido recurso, embora se volte contra decisão proferida por Magistrado Corregedor da Penitenciária Federal de Catanduvas - PR, foi apresentado somente em 8/2/2024 (fl. 5). O apenado, contudo, já havia sido transferido de estabelecimento prisional ainda em 10/1/2024, isto é, quase um mês antes, para a Penitenciária Federal de Campo Grande/MS.
+É o caso, portanto, de aplicação da orientação desta Corte, segundo a qual compete ao Juízo do local onde estiver recolhido o preso a apreciação dos pedidos referentes à execução da pena (CC n. 129.703/TO, relator Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Terceira Seção, julgado em 25/2/2015, DJe de 5/3/2015).
+Nas palavras do Parquet Federal, "após a transferência do apenado para a penitenciária federal de Campo Grande-MS, que se deu em 10/01/2024, o Juízo Corregedor daquela unidade passou afigurar como juízo da execução penal em todos os processos executivos do custodiado, inclusive recursos e incidentes, a teor, contrario sensu, do artigo 7º da Resolução nº 113 do Conselho Nacional de Justiça, conforme ressaltou o Juízo suscitante" (fl. 556).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 5ª Vara Criminal - Fechado e Semiaberto - de Campo Grande-SJ/MS, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
