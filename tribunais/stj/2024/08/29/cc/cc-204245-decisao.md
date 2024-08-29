@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO DE DIREITO DA VARA CRIMINAL DE IBIPORÃ - PR, suscitante, e o JUÍZO FEDERAL DA 5ª VARA DE LONDRINA - SJ/PR, suscitado.
+O Juízo Federal da 5ª Vara de Londrina - SJ/PR determinou a remessa dos autos n. 5008871-59.2022.4.04.7001/PR à Vara de Execução em Meio Aberto de Ibiporã - PR, comarca em que reside o apenado, ao argumento de que a expedição de cartas precatórias para a fiscalização de cumprimento de pena seria incompatível com o estabelecido na Resolução CNJ 280/2019 (fls. 51-52).
+O Juízo de Direito da Vara Criminal de Ibiporã - PR, por sua vez, suscitou conflito de competência. Sustentou, em síntese, que, tendo em vista o acordo de não persecução penal ter sido ofertado pelo Ministério Público Federal e homologado pela Justiça Federal, a competência para a execução das condições fixadas no referido acordo seria da Justiça Federal, nos termos do art. 65, caput, da Lei n. 7.210/84, c/c art. 324-B da Consolidação Normativa da Corregedoria Regional da Justiça Federal da 4ª Região (fls. 67-68).
+O Ministério Público Federal se manifestou pelo conhecimento do conflito a fim de que seja declarada a competência do Juízo Federal da 5º Vara de Londrina - PR, ora suscitado (fls. 78-85).
+É o relatório. DECIDO.
+Conheço do conflito de competência, porquanto instaurado entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Conforme entendimento consolidado do Superior Tribunal de Justiça, o cumprimento das condições estabelecidas no acordo de não persecução penal compete ao juízo que o homologou. Confira-se:
+"CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, § 6.º, DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DAS REGRAS ATINENTES À EXECUÇÃO PENAL. COMPETÊNCIA. CUMPRIMENTO. JUÍZO QUE HOMOLOGOU O ACORDO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. O art. 28-A, § 6.º, do Código de Processo Penal, ao determinar que o acordo de não persecução penal será executado no juízo da execução penal, implicitamente, estabeleceu que o cumprimento das condições impostas no referido acordo deverá observar, no que forem compatíveis, as regras pertinentes à execução das penas.
+2. Segundo pacífica orientação desta Corte Superior, a competência para a execução das penas é do Juízo da condenação. No caso específico de execução de penas restritivas de direitos, em se tratando de condenado residente em jurisdição diversa do Juízo que o condenou, também é sedimentada a orientação de que a competência para a execução permanece com o Juízo da condenação, que deprecará ao Juízo da localidade em que reside o apenado tão-somente o acompanhamento e a fiscalização do cumprimento da reprimenda.
+3. Em se tratando de cumprimento das condições impostas em acordo de não persecução penal, a competência para a sua execução é do Juízo que o homologou, o qual poderá deprecar a fiscalização do cumprimento do ajuste e a prática de atos processuais para o atual domicílio do Apenado.
+4. Conflito conhecido para declarar competente o JUÍZO FEDERAL DA 1.
+ª VARA CRIMINAL DE SÃO PAULO - SJ/SP, o Suscitado." (CC n. 192.158/MT, Terceira Seção, Relª. Minª. Laurita Vaz, DJe de 18/11/2022, grifei)
+No caso dos autos, uma vez que o acordo de não persecução penal foi homologado pelo Juízo Federal da 5ª Vara de Londrina - PR, a este compete a execução das condições estabelecidas no acordo, sendo permitido apenas deprecar a fiscalização do cumprimento das referidas condições.
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 5ª Vara de Londrina - PR , ora suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. ACORDO DE NÃO PERSECUÇÃO PENAL. EXECUÇÃO DAS CONDIÇÕES ESTABELECIDAS. COMPETÊNCIA DO JUÍZO QUE HOMOLOGOU O ACORDO.
