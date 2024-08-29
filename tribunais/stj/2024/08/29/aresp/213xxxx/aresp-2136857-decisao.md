@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por DENISE CAETANO DOS SANTOS contra a decisão que não admitiu recurso especial apresentado, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão do Tribunal de Justiça do Pará proferido no Recurso em Sentido Estrito n. 0801112-57.2021.8.14.0005 (fl. 1.345):
+RECURSO EM SENTIDO ESTRITO. PRONÚNCIA. ART. 121, § 2º, INCISOS I E IV, ARTIGO 211 E ARTIGO 288, PARÁGRAFO ÚNICO DO CÓDIGO PENAL. PRELIMINAR. NULIDADE DA CAPTAÇÃO DE DADOS TELEFÔNICOS. PERMISSÃO DO ACUSADO. LICITUDE DAPROVA. NULIDADE NÃO CONFIGURADA. PLEITO DE IMPRONÚNCIA. NÃO ACOLHIMENTO. INDÍCIOS DE AUTORIA. EXCLUSÃO DAS QUALIFICADORAS. IMPOSSIBILIDADE.
+1. Como é cediço, a pronúncia é um mero juízo de admissibilidade da acusação, não exigindo prova incontroversa sobre a existência do crime, sendo suficiente que o juiz convença-se de sua materialidade, assim como para a autoria não é necessária a certeza exigida para a prolação de édito condenatório, bastando que existam indícios suficientes de que o réu seja o autor do delito, conforme preceitua o art. 413, § 1º do Código de Processo Penal.
+2. No caso em apreço, portanto, não cabe falar-se em impronúncia, devendo o Conselho de Sentença apreciar, detidamente, as teses hasteadas pela defesa e acusação, decidindo, de acordo com sua íntima convicção, acerca delas, vez que é o juízo natural para o julgamento dos crimes dolosos contra a vida. Princípio do in dubio pro societate.
+3. É sabido que a exclusão de qualificadora na pronúncia só é viável quando a sua ocorrência for manifestamente improcedente e totalmente descabida e dissociada do conjunto probatório, o que não é o caso dos presentes autos.
+4. Ficou evidenciado no caso em questão que restaram demonstrados através das mensagens, via SMS, com o celular da corré ANDRÉA, em que restou demonstrado que a recorrente DENISE ficou responsável pela entregada arma usada na execução da vítima, bem como emprestou sua motocicleta à corré para que pudesse ir ao supermercado comprar o material usado para ocultar o cadáver, além de ter acompanhado ANDRÉA até o local onde foi realizada a carbonização do corpo do ofendido. RECURSO CONHECIDO E IMPROVIDO.
+Alega o agravante, no especial, além de divergência jurisprudencial, violação dos arts. 155, 156, inciso II, 158, 315, § 2º, III e IV, 381, 414, 415, II, e 563 do Código de Processo Penal.
+A Subprocuradoria-Geral da República opinou pelo desprovimento do agravo, em parecer assim resumido (fl. 1.758):
+AGRAVO EM RECURSO ESPECIAL. ARTIGO 121, CAPUT, DO CÓDIGO PENAL. HOMICÍDIO, QUADRILHA ARMADA E OCULTAÇÃO DE CADÁVER. PRONÚNCIA MANTIDA PELO TRIBUNAL DE ORIGEM. DEMONSTRAÇÃO DA MATERIALIDADE E DE INDÍCIOS SUFICIENTES DA AUTORIA. EXCLUSÃO DAS QUALIFICADORAS. INVIABILIDADE. COMPETÊNCIADO TRIBUNAL DO JÚRI. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+DESPROVIMENTO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade, sobretudo por infirmar especificamente os fundamentos adotados.
+Passo ao exame do recurso especial.
+O inconformismo não merece abrigo.
+Com efeito, o Tribunal de Justiça do Pará afirmou, com base no lastro probatório dos autos, estarem presentes a prova da materialidade e os indícios de autoria suficientes para a pronúncia, assim como as qualificadoras imputadas, destacando, ainda, o que se segue (fls. 1.349/1.351 - grifo nosso):
+ ..
+A materialidade delitiva dos crimes em questão encontra-se evidenciada na Certidão de Óbito (Id nº 5317212) e pela Perícia de necropsia médico-legal (Id nº 5317246), que conclui o óbito por baleamento e posterior carbonização do cadáver.
+Já os indícios de autoria restaram demonstrados através das mensagens, via SMS, com o celular da corré ANDRÉA, em que restou demonstrado que a DENISE ficou responsável pela entrega da arma usada na execução da vítima, bem como emprestou sua motocicleta à corré para que pudesse ir ao supermercado comprar o material usado para ocultar o cadáver, além de ter acompanhado ANDRÉA até o local onde foi realizada a carbonização do corpo do ofendido.
+Conforme demonstra o acervo probatório, não há argumentos capazes de afastar a pronúncia.
+Ademais, sabe-se que a sentença de pronúncia é apenas um juízo de admissibilidade relacionado à existência de indícios de autoria e prova da materialidade, ou seja, de acordo com o MM. Juízo a quo, para que se pronuncie, basta haver prova da materialidade e indícios suficientes de que seja o acusado o autor do delito a ele imputado na denúncia, o que, no presente caso, está evidente.
+ ..
+Por fim, requer a Defesa a exclusão da apreciação do plenário do Tribunal do Júri das qualificadoras de que tratam o art.121, §2º, I e IV, do Código Penal. É sabido que a exclusão de qualificadora na pronúncia só é viável quando a sua ocorrência for manifestamente improcedente e totalmente descabida e dissociada do conjunto probatório, o que não é o caso dos presentes autos.
+ ..
+Portanto, deve ser mantida as qualificadoras em prestígio ao princípio do "in dubio pro societate", a fim de que somente após apreciação dos fatos exaustivamente confrontados e aprofundados pelos debates da causa, os Senhores Jurados, em sua soberania, decidam acerca da materialidade, autoria e manutenção das qualificadoras.
+Dessa forma, tenho que o juízo da pronúncia sopesou as evidências das provas dos autos, destacando os elementos de materialidade e indícios de autoria, cuidando-se, numa análise de juízo perfunctório, de admissibilidade da acusação, não sendo o momento processual para aferir os argumentos de mérito trazidos pela defesa, que serão objeto do julgamento de competência do Conselho de Sentença.
+Dessa forma, a inversão do que ficou decidido, como pretende o agravante, demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+Nesse sentido, destaco o seguinte precedente:
+ ..
+4. A pretensão de impronúncia ou de desclassificação da conduta para o crime de homicídio privilegiado ou de lesões corporais, tal como pleiteada nas razões recursais, demanda, como ressaltado no decisum reprochado, nova incursão no acervo, tarefa obstada pela Súmula 7/STJ (AgRg no AREsp n. 1.651.852/MG, Ministro Felix Fischer, Quinta Turma, DJe 19/5/2020).
+ ..
+(EDcl no AgInt no REsp n. 1.838.360/RS, de minha relatoria, Sexta Turma, DJe 9/9/2020).
+Outrossim, como bem anotado no parecer ministerial, cujas razões adoto como fundamento para decidir, a sentença de pronúncia não se pautou apenas nos elementos informativos do inquérito policial, mas, também e principalmente nas provas produzidas no jus accusationis, que deram suporte necessário para a manutenção da pronúncia da ora agravante e dos corréus, não havendo que se falar em violação ao artigo 155 do CPP (fl. 1.761).
+Restou anotado ainda que, através das mensagens, via SMS, com o celular da corré ANDRÉA, e dos demais elementos probatórios produzidos nos autos, que a recorrente DENISE ficou responsável pela entrega da arma usada na execução da vítima, bem como emprestou sua motocicleta à corré para que pudesse ir ao supermercado comprar o material usado para ocultar o cadáver, além de ter acompanhado ANDRÉA até o local onde foi realizada a carbonização do corpo do ofendido (fl. 1.761 - grifo nosso).
+Tal o contexto, inexoravelmente, alterar a conclusão do acórdão recorrido demanda o reexame do lastro fático-probatório dos autos, vedado pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA, COM BASE NOS ELEMENTOS DE PROVA, ESTAR COMPROVADA A MATERIALIDADE E EXISTIREM INDÍCIOS DE AUTORIA SUFICIENTES PARA A PRONÚNCIA. ALTERAR A CONCLUSÃO DO ACÓRDÃO DEMANDA REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial
