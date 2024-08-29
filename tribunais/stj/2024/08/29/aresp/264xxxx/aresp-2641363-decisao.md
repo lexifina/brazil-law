@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por AGROINDUSTRIAL VISTA ALEGRE S/A - EM RECUPERAÇÃO JUDICIAL, AGRÍCOLA ALMEIDA LTDA. - EM RECUPERAÇÃO JUDICIAL, MANUEL RODRIGUES TAVARES DE ALMEIDA FILHO, ESPÓLIO DE MANUEL RODRIGUES TAVARES DE ALMEIDA, TAVARES DE ALMEIDA PARTICIPAÇÕES S/A e BLACK RUBBER INDÚSTRIA DE ARTEFATOS DE BORRACHA LTDA., contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/03/2024.
+Concluso ao gabinete em: 19/08/2024.
+Ação: cumprimento de sentença promovido por BANCO CREFISA S/A em face dos agravantes. O juiz de primeiro grau determinou a suspensão do feito em relação às recuperandas, tendo em vista a notícia da aprovação do plano de recuperação judicial. Contra tal decisum foi interposto agravo de instrumento pelos agravantes objetivando a suspensão do feito, também, em relação aos coobrigados, diante da existência de cláusula de liberação das garantias no plano de soerguimento, mas acabaram por desistir do recurso, diante da decisão, proferida pelo magistrado processante, determinando a suspensão do feito, pelo prazo de 180 dias ou até o julgamento definitivo do REsp 1.932.886/SP (sobre a validade da cláusula de liberação das garantias e exoneração dos coobrigados), o que ocorresse primeiro. Após o escoamento do prazo de 180 dias, foi dado prosseguimento ao cumprimento de sentença em relação aos coobrigados.
+Decisão: indeferiu o pedido de manutenção da suspensão do curso do processo, porque escoado o prazo de 180 dias concedido em decisão anterior.
+Acórdão: conheceu em parte do agravo de instrumento interposto pelos agravantes e negou-lhe provimento, nos termos da seguinte ementa (e-STJ, fl. 136):
+Agravo de instrumento - Cumprimento de sentença - Decisão indeferiu o pedido de manutenção da suspensão do cumprimento de sentença por escoado o prazo de 180 (cento e oitenta dias) concedido em decisão anterior - Pretensão a suspensão do cumprimento de sentença até que se aguarde o julgamento do REsp nº 1.932.886/SP pelo C. STJ ou por mais 1 ano, nos termos dos art. 313, V, "a" e art. 921, I, do CPC Tema superado pela preclusão - Inteligência dos artigos 505 e 507 do CPC - Questões examinadas decididas anteriormente pelo juízo a quo que, em decisão irrecorrida, determinou a suspensão do feito por 180 dias ou até julgamento definitivo do RESp nº 192886/SP pelo C. STJ, o que ocorrer primeiro, prosseguindo o cumprimento de sentença a partir de então Recurso negado.
+Agravo de instrumento - Cumprimento de sentença - Alegação de extinção da execução em razão da homologação do plano de recuperação judicial - Tema não analisado pela decisão agravada, inviabilizando o enfrentamento da matéria diretamente pelo Tribunal, pena de supressão de instância em ofensa ao duplo grau de jurisdição - Recurso não conhecido.
+Recurso negado, na parte conhecida.
+Recurso especial: alegam violação dos arts. 297, 313, V, "a", 507 e 921, I, do CPC. Defendem, em suma, a necessidade de suspensão do cumprimento de sentença até o julgamento do REsp 1.932.886/SP, em que se discute a validade da cláusula de liberação das garantias e exoneração dos coobrigados, argumentando que tal pleito está sedimentado nos princípios da segurança jurídica e do poder de cautela e, assim, sobre o qual não pode haver a preclusão. Acrescentam, ainda, que a homologação da recuperação judicial da devedora principal deveria acarretar a extinção da demanda, também, em relação aos coobrigados, na medida em que o agravado votou pela aprovação do plano.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+Observa-se, inicialmente, que o acórdão recorrido não decidiu acerca dos argumentos invocados pelos agravantes em seu recurso especial, quanto aos arts. 297, 313, V, "a", 507 e 921, I, do CPC, no sentido de que o pleito de suspensão não precluiria, diante dos princípios da segurança jurídica e do poder de cautela.
+- Da fundamentação deficiente
+Constata-se, ademais, da leitura das razões do recurso especial, que, quanto ao pleito de extinção do cumprimento de sentença, também, em relação aos coobrigados, o s agravantes não alegam violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Cumprimento de sentença.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4 . Agravo conhecido. Recurso especial não conhecido.
