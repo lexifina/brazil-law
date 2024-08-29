@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+RECURSO DE APELAÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. JUNTADA DE DOCUMENTOS APÓS A APRESENTAÇÃO DOS EMBARGOS. SIMPLES CORREÇÃO FORMAL RECONHECIDA. APLICAÇÃO DO ART. 139, IX, E ART. 370, AMBOS DO CPC. OPORTUNIDADE DO EXECUTADO/EMBARGANTE DE APRESENTAR MANIFESTAÇÃO SOBRE DOCUMENTOS GARANTIA. VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA INEXISTENTE. PEDIDO DE PRODUÇÃO DE PROVA PERICIAL. PRESCINDIBILIDADE RECONHECIDA. APLICAÇÃO DO ART. 917, § 3º E § 4º, DO CPC. RECURSO DESPROVIDO.
+1. Trata-se de recurso de apelação em face de sentença que julgou improcedente embargos à execução de título extrajudicial, declarando legítima a cobrança decorrente de Cédula de Crédito Bancário, em favor da Caixa Econômica Federal.
+2. Apresentação de nota promissória e de instrumento de renegociação de dívida após a interposição de embargos à execução. Correção de vício formal reconhecida. Incidência do art. 139, IX, e art. 370, ambos do CPC.
+3. Melhor sorte não socorre à apelante, quanto à alegação de ocorreu violação aos princípios do contraditório e da ampla defesa (art. 7, do CPC e art 5º, LV, da CF). Conforme já foi reconhecido, a nota promissória e o instrumento de renegociação de dívida foram juntados no evento 28, na ação de embargos à execução 5010508-81.2019.4.02.5101. Logo na sequência foi determinada vista ao embargante (eventos 30 e 31 - JFRJ). Diante disso, A. J. Pereira Imóveis Ltda. - EPP apresentou detalhada manifestação sobre os documentos (evento 35 - JFRJ). O fato de que foi permitido a parte embargante apresentar defesa a respeito dos documentos (evento 28 - JFRJ), importa na conclusão de que o direito à ampla defesa foi devidamente assegurado.
+4. Razão não assiste à apelante, ao alegar que a falta de deferimento do pedido de produção da prova pericial, também incorre em violação à ampla defesa. O embargos à execução foi interposto sem demonstrativo de cálculo, contendo o valor que a embargante entende correto, de forma a comprovar o excesso de execução. Obviamente a embargante não cumpriu o disposto no art. 917, § 3º, do CPC. O juiz a quo, na sentença, reconheceu expressamente esse fato e aplicou o art. 917, § 4º do CPC. Assim, é evidente que não se fala em deferimento do pedido de produção da prova pericial, uma vez que o excesso de execução não pôde ser examinado. Dessa forma, inexistiu violação aos princípios do contraditório e da ampla defesa, expressos no art. 7º, do CPC e art. 5º, LV, da CF.
+5. No que se refere aos honorários advocatícios, constata-se que o juiz a quo fixou o valor de acordo com o art. 85, § 2º, I a IV, do CPC. Por conseguinte, não há que se falar em redução.
+6. Recurso desprovido. Majorados os honorários advocatícios para acrescer 1% sobre o valor atualizado da causa, na forma do disposto no art. 85, § 11, do CPC/15.
+Alegou-se, no especial, violação do artigo 7º do Código de Processo Civil sob o argumento de que houve desrespeito ao princípio da paridade.
+Assim delimitada a controvérsia, passo a decidir.
+A respeito do tratamento igualitário entre as partes em virtude da juntada de documentos pela parte contrária, o Tribunal local consignou expressamente que foi dada a oportunidade para a manifestação a respeito pela devedora.
+Veja-se:
+"Melhor sorte não socorre à apelante, quanto à alegação de ocorreu violação aos princípios do contraditório e da ampla defesa (art. 7º, do CPC e art. 5º, LV, da CF).
+Conforme já foi reconhecido, a nota promissória e o instrumento de renegociação de dívida foram juntados no evento 28, na ação de embargos à execução 5010508-81.2019.4.02.5101.
+Logo na sequência foi determinada vista ao embargante (eventos 30 e 31 - JFRJ).
+Diante disso, A. J. Pereira Imóveis Ltda. - EPP apresentou detalhada manifestação sobre os documentos (evento 35 - JFRJ)" (e-STJ, fl. 260).
+Invencível, pois, a atração do enunciado n. 284, também do Supremo Tribunal Federal.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
