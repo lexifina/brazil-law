@@ -1,0 +1,27 @@
+DECISÃO
+Cuida de agravo (art. 1.042 do CPC/15), interposto por JUAREZ GOMES DA SILVA, MARIA APARECIDA DA CONCEICAO, contra decisão que não admitiu o recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", do permissivo constitucional, desafia acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim ementado (fl. 332-342, e-STJ):
+DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. SENTENÇA QUE EXTINGUIU O FEITO COM RESOLUÇÃO DO MÉRITO, POR FORÇA DE DECADÊNCIA DO DIREITO. APELAÇÃO CÍVEL. CONTRATO DE FINANCIAMENTO DE IMÓVEL. CARHP. SOCIEDADE DE ECONOMIA MISTA. FUNÇÃO SOCIAL DOS CONTRATOS. HABITAÇÃO DA POPULAÇÃO DE BAIXA RENDA. INADIMPLÊNCIA DO PARTICULAR. SUPOSTA INÉRCIA DO CREDOR. SENTENÇA COM FUNDAMENTO EM MATÉRIA NÃO ALEGADA PELAS PARTES. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE INTIMAÇÃO PRÉVIA. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. AFASTADA. PRINCÍPIO DA PRIMAZIA DA DECISÃO DE MÉRITO. DECADÊNCIA QUINQUENAL. APLICAÇÃO ANALÓGICA DO ART. 206, §5º, I, DO CC/02. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. NÃO CONFIGURADA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ERROR IN PROCEDENDO. SENTENÇA ANULADA. RETORNO DOS AUTOS À ORIGEM PARA O REGULAR PROSSEGUIMENTO DO FEITO. RECURSO CONHECIDO E PROVIDO.
+Nas razões de recurso especial (fls. 349-358, e-STJ), a insurgente apontou violação ao artigo 206, §5º, I, do CC, ao argumento de que na presente situação aplica-se o instituto da decadência e não o da prescrição, pois se discute o direito potestativo da parte contrária em propor ação de resolução contratual após a estabilização da relação jurídica pelo decurso do tempo (24 anos).
+Contrarrazões às fls. 364-368, e-STJ.
+Em razão do juízo negativo de admissibilidade na origem, fora interposto o presente agravo (fls. 379-386, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta às fls. 391-394, e-STJ.
+É o relatório.
+Decido.
+O recurso especial não merece prosperar.
+1. Trata-se, na origem, de ação ordinária, em que a parte recorrida busca o adimplemento do contrato de promessa de compra e venda de imóvel.
+Conforme se observa no acórdão recorrido, "o contrato fora celebrado em 04/08/1988, por meio do qual o valor do bem foi financiado em 300 (trezentos) meses, sendo o vencimento da primeira prestação em 30 de agosto de 1988, conforme documento de fls. 56/65. Ocorre que, de acordo com os documentos colacionados pela Apelante, desde julho de 1992, o Apelado se tornou inadimplente com as parcelas do financiamento, o que deu ensejo ao ajuizamento da presente demanda." (fl. 336, e-STJ) e que "considera-se como termo inicial de contagem do prazo a data de vencimento da última parcela devida." (fl. 339, e-STJ).
+Com efeito, de acordo com a jurisprudência do STJ "Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual. Não havendo na lei regra limitando o tempo para a decadência do direito de promover a resolução do negócio, a ação pode ser proposta enquanto não prescrita a pretensão de crédito que decorre do contrato. No caso, a pretensão veiculada é de resolução do contrato, reintegração na posse do bem imóvel litigioso e condenação da parte recorrida em perdas e danos, de modo que incide a prescrição decenal." (AgInt no REsp n. 1.955.059/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 3/5/2022.).
+Ademais, no referido precedente, restou consignado que, tratando-se de parcelas sucessivas, o termo inicial do prazo prescricional decenal é o vencimento da última parcela.
+Veja-se ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. PRETENSÃO DECORRENTE DE INADIMPLEMENTO CONTRATUAL. PRAZO. DECENAL. OCORRÊNCIA. AUSÊNCIA DO ELEMENTO OBJETIVO QUE SUSTENTA O PEDIDO DE RESOLUÇÃO DO CONTRATO. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+3. Com efeito, já decidiu esta Corte que "Se o pedido de resolução se funda no inadimplemento de determinada parcela, a prescrição da pretensão de exigir o respectivo pagamento prejudica, em consequência, o direito de exigir a extinção do contrato com base na mesma causa, ante a ausência do elemento objetivo que dá suporte fático ao pleito. (REsp 1728372/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/03/2019, DJe 22/03/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.589.393/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/6/2021, DJe de 5/8/2021.)
+No particular, o acórdão impugnado está em sintonia com a jurisprudência do STJ sobre o tema, fazendo incidir o teor da Súmula 8 3/STJ.
+2. Do exposto, nego provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
