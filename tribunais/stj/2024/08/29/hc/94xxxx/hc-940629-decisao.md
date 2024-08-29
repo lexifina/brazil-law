@@ -1,0 +1,21 @@
+DECISÃO
+LUIZ ALBERTO ROBEIRO DE SEIXAS, condenado por furto, alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que impõs o regime fechado para o início do cumprimento da pena, o qual pretende a defesa seja modificado para o mais brando.
+O writ comporta pronta solução, uma vez que o acórdão impugnado está em consonância com a jurisprudência desta Corte Superior. Deveras, segundo a Súmula n. 269 do STJ, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Na espécie, verifico que não há como se aplicar o enunciado sumular anteriormente mencionado, pois, embora a reprimenda haja sido definitivamente estabelecida em patamar inferior a 4 anos, a pena-base foi fixada acima do mínimo legal, em virtude da existência de circunstâncias judiciais desfavoráveis, além da reincidência do paciente.
+A esse teor, confira-se o acórdão de apelação:
+ ..  a fixação do regime fechado para o início do cumprimento da penafoidevidamente fundamentada, visto que, mesmo tendo sido imposta sanção penal inferior a 4 (quatro) anos de reclusão, o agravante é reincidente e foi reconhecida circunstância judicial desfavorável  ..
+Portanto, à luz das peculiaridades do caso concreto, deve ser mantida inalterada a fixação do regime inicial fechado de cumprimento de pena. Nessa perspectiva:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO TENTADO. CRIME IMPOSSÍVEL. INEXISTÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA ABSOLUTA INEFICÁCIA DO MEIO. CIRCUNSTÂNCIAS DO CASO CONCRETO. PRECEDENTES. SÚMULA N. 567/STJ. PACIENTE MULTIRREINCIDENTE. REGIME INICIAL FECHADO. LEGALIDADE. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. A presença de sistema eletrônico de vigilância e de agentes no estabelecimento comercial não torna o agente completamente incapaz de consumar o furto. Logo, não se pode afastar a punição, pela configuração do crime impossível, pela absoluta ineficácia dos meios empregados, nos termos da Súmula n. 567 desta Corte. Precedentes.
+2. O regime prisional fechado é o único cabível para o inicial cumprimento da pena reclusiva diante do Réu reincidente e com maus antecedentes, mesmo que a pena não ultrapasse quatro anos de reclusão. Inteligência da Súmula n. 269/STJ. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 704.885/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 17/12/2021, destaquei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE FURTO. REGIME PRISIONAL FECHADO. REINCIDÊNCIA E FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. FATORES DETERMINANTES PARA A FIXAÇÃO DO REGIME INICIAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Quanto à fixação do regime prisional, muito embora o paciente tenha cometido o delito de furto e a condenação não supere 4 anos de reclusão, é reincidente e teve a pena-base fixada acima do mínimo, de modo que, nos termos do art. 33, §§ 2º e 3º do Código Penal - parâmetros legais para a fixação do regime prisional -, de rigor a escolha do modo fechado para o início de expiação da pena.
+2. Consoante jurisprudência desta Corte, "ao paciente reincidente somente é possível a fixação do regime semiaberto quando, a teor do verbete 269 da Súmula deste Superior Tribunal de Justiça, as circunstâncias judiciais forem favoráveis, o que não se verifica na hipótese dos autos" (HC n. 358.141/SP, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/9/2016, DJe 21/9/2016).
+3. Agravo regimental improvido.
+(AgRg no HC n. 695.205/SP, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe 13/12/2021)
+Ademais, ressalto que, sob o prisma do entendimento adotado por esta Corte Superior de Justiça acerca da adequação do regime inicial mais gravoso em casos como o dos autos, não vejo razões para o processamento deste habeas corpus, notadamente porque expressamente autorizado - pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o Relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar a súmula do STJ.
+À vista do exposto, com fundamento nos arts. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
