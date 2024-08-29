@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Vanderlei Taglioni contra o acórdão do Tribunal de Justiça de São Paulo no julgamento do HC n. 2 107745-68.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática do crime de adulteração de sinal identificador de veículo automotor (art. 311 do Código Penal). Foi concedida a liberdade provisória ao réu na audiência de custódia, mediante o pagamento de fiança e medidas cautelares diversas da prisão (fls. 132/134).
+Impetrado prévio writ perante a Corte estadual, a ordem foi denegada (fls. 17/21).
+Daí o presente habeas corpus, em que a impetrante sustenta, em síntese, que o paciente está sofrendo constrangimento ilegal em razão do ingresso ilegal dos policiais no seu domicílio comercial.
+Aduz que o paciente está sendo processado por delito que não cometeu, advindo de um ato irregular praticado pelos militares ao ingressarem em seu comércio sem mandado, não sendo crível que o inquérito policial permaneça em trâmite (fl. 15).
+Requer, em liminar e no mérito, o trancamento do inquérito policial ante a ausência de mandado de busca e apreensão (fl. 15).
+A liminar foi indeferida pela Presidência desta Corte (fls. 171/172).
+Prestadas as informações (fls. 178/179).
+Em sua manifestação, opinou o Ministério Público Federal pelo não conhecimento do writ (fls. 196/198).
+É o relatório.
+O inconformismo não prospera, tendo em vista a ausência de manifesto constrangimento ilegal.
+Considerou o Tribunal estadual (fls. 20/21 - grifo nosso ):
+ ..
+Como se observa pelas informações, não houve denúncia pelo Ministério Público, motivo pelo qual não há falar em trancamento de ação penal.
+O trancamento do inquérito policial também não é possível.
+Não há ilicitude a ser reconhecida.
+Consoante verifica-se nos autos principais e conforme apontou o magistrado de primeiro grau, a entrada no estabelecimento comercial foi realizada de forma consentida pelo paciente e este foi preso em flagrante por manter no interior de estabelecimento comercial de sua propriedade veículo automotor em processo de desmonte e montagem com peças com sinais identificadores remarcados (art. 311, §§ 2-, inciso II e § 3 Q do CP). Registre-se, outrossim, que a abordagem policial foi realizada em um imóvel no qual funcionava estabelecimento comercial, que não se enquadra no conceito de domicílio protegido pelo art. 5, inciso XI, da Constituição Federal.
+No mais, existem, in casu, elementos indicativos da tipicidade da conduta e da materialidade delitiva, além de indícios de autoria, havendo, portanto, justa causa para apuração do ocorrido e consequente prosseguimento do procedimento investigatório.
+ ..
+Havendo investigação de fatos que configuram, teoricamente, algum ilícito penal, não há constrangimento ilegal na instauração do inquérito policial para averiguação da suspeita.
+Como se isso não bastasse, para o deferimento de trancamento, em sede de habeas corpus, é necessário que a ausência de justa causa resulte nítida, patente, incontroversa, translúcida, extreme de dúvida, não ensejando sequer análise profunda e valorativa da prova, o que não ocorre.
+ ..
+O posicionamento adotado está em consonância com o desta Corte, na linha de que a providência perseguida somente é possível, na via estreita do habeas corpus, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito (AgRg no RHC n. 122.377/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/9/2020).
+Nesse sentido: AgRg no RHC n. 197.125/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/6/2024; e AgRg no RHC n. 186.866/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 28/2/2024.
+Prematuro e inoportuno, assim, o pleito de controle judicial para fins de trancamento do inquérito. Também inviável o amplo revolvimento de matéria fática, nos autos de habeas corpus, a fim de verificar a viabilidade da tese de ausência de provas da participação do paciente na prática delitiva.
+No mais, trago a baila o parecer do Ministério Público Federal, o qual adoto também como razão de decidir (fls. 197/198 - grifo nosso):
+ ..
+A impetrante pretende o trancamento do Processo nº 1504795-16.2023.8.26.0536, da Segunda Vara Criminal da Comarca de Guarujá - em que o ora paciente responde pela imputação da prática do crime previsto no artigo 311, § 3º, na formado § 2º, III, do Código Penal -, em razão da ilicitude das provas, na medida que o flagrante foi realizado sem justa causa, pois ausente fundada suspeita para a invasão de domicílio.
+Ocorre que, houve fundadas suspeitas para a diligência, foi franqueada a entrada dos policiais no local, pelo paciente, e o estabelecimento comercial não pode ser equiparado a residência. Consta do Boletim de Ocorrência que:
+ ..
+Diante do cenário apresentado, foram até o estabelecimento comercial e identificaram o proprietário do "desmanche" como sendo VANDERLEI TAGLIONI, o qual franqueou a entrada para que a equipe de investigação pudesse verificar as condições de armazenamento de veículos e peças, bem coma regularidade das atividades desenvolvidas, oportunidade em que constataram a existência de um caminhão Scania com cabine em mal estado de conservação em processo de remontagem, com remoção de algumas das plaquetas/etiquetas antigas para remarcar os agregados novos sem sinal identificador, visando garantir aparente situação de regularidade, mascarando sua verdadeira origem. Além do caminhão Scania, foi encontrado um caminhão Volvo, o qual foi objeto de recente colisão, e que tinha sinal de remontagem recente, sem que o proprietário pudesse justificar a origem dos agregados utilizados, com inobservância do disposto na Lei 12.977/2014 e Resolução CONTRAN nº 611 de 24/05/2016.
+Ao ser indagado sobre a origem e aquisição de agregados e motores encontrados no interior do seu estabelecimento, o proprietário não apresentou qualquer nota fiscal ou justificativa plausível, confirmando as suspeitas no sentido de que as peças tem origem de mercado paralelo(possivelmente ilícitas), muitas com indícios de sinal identificador adulterado, remarcado ou suprimido, para emprego na atividade econômica desenvolvida por ele. Além do processo de montagem e remontagem com utilização de peças sem sinal identificador e utilização das plaquetas de peças antigas, sem correlação, várias placas de veículos automotores foram localizados no estabelecimento, sendo que em pesquisas parte das placas não retornam com parâmetro de pesquisa, denotando indícios de ilicitude.
+ ..
+Ou seja, os policiais somente procederam à busca no estabelecimento comercial após o setor de inteligência receber informações de populares a respeito da existência de um comércio irregular conhecido como "desmanche" e que naquele momento realizava-se o desmonte e montagem de veículo automotor, com número de sinal identificador veicular adulterado ou remarcado.
+Como se pode verificar, a denúncia anônima foi minimamente confirmada, sendo que a busca no estabelecimento comercial se deu no exercício regular da atividade investigativa promovida pela autoridade policial, o que justificou a abordagem após a confirmação das informações relatadas na denúncia apócrifa. (STJ - AgRg no HC: 848928GO 2023/0302368-4, Relator: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 11/12/2023, T5 - QUINTA TURMA, Data de Publicação: DJe 19/12/2023).
+ ..
+Verifica-se que consta dos autos que o acesso foi franqueado pelo paciente, além de se tratar de estabelecimento comercial .
+A jurisprudência do STJ entende que a entrada no domicílio da paciente foi franqueada, após a confissão informal de um dos réus, e do depoimento da própria paciente no interrogatório judicial. Modificar as premissas fáticas no sentido de concluir de que o consentimento da proprietária do estabelecimento comercial não restou livremente prestado, demandaria o revolvimento de todo o contexto fático/probatório dos autos, expediente inviável na sede mandamental (AgRg no HC n. 824.619/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/9/2023 - grifo nosso ).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL. AUSÊNCIA DAS HIPÓTESES AUTORIZATIVAS. CONTROLE JUDICIAL INOPORTUNO. PRISÃO EM FLAGRANTE. ALEGAÇÃO DE NULIDADE. NÃO OCORRÊNCIA. INGRESSO DOS POLICIAIS NO ESTABELECIMENTO COMERCIAL SEM MANDADO JUDICIAL. ENTRADA FRANQUEADA PELO PROPRIETÁRIO DO IMÓVEL . TESE CONTRÁRIA. IMPOSSIBILIDADE. REEXAME DE PROVAS. PRECEDENTES. INEVIDÊNCIA DE ILEGALIDADE. PARECER MINISTERIAL ACOLHIDO.
+Habeas corpus não conhecido.
