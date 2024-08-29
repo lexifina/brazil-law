@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIOGO OTAVIO MIRANDA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento da Revisão Criminal n. 1.0000.22.118549-9/000.
+Depreende-se dos autos que, em 31/8/2017, o paciente foi sentenciado como incurso no art. 157, § 2º, I e II, do Código Penal, à pena de 9 anos e 4 meses de reclusão, e ao pagamento de 22 dias-multa, em regime inicial fechado (e-STJ fls. 53/79).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso, conforme acórdão assim ementado (e-STJ fl. 29):
+APELAÇÕES CRIMINAIS  ROUBO MAJORADO  PRELIMINAR DE NULIDADADE DO FEITO  REJEIÇÃO  MÉRITO  AUTORIA E MATERIALIDADE COMPROVADAS  DECOTE DA MAJORANTE DO EMPREGO DE ARMA DE FOGO  DESCABIMENTO  DESCLASSIFICAÇÃO PARA OS CRIMES DE RECEPTAÇÃO E DE FURTO TENTADO  IMPOSSIBILIDADE  REDIMENSIONAMENTO DAS REPRIMENDAS FIXADAS  PERTINÊNCIA APENAS EM RELAÇÃO A UM DOS SENTENCIADOS  INCIDÊNCIA DA ATENUANTE DA MENORIDADE RELATIVA  PRISÃO PREVENTIVA DE UM DOS RECORRENTES  INDISPENSABILIDADE  AGENTE FORAGIDO  NECESSIDADE DE SE ASSEGURAR A APLICAÇÃO DA LEI PENAL  INTELIGÊNCIA DO ART. 312, DO CÓDIGO DE PROCESSO PENAL  PRIMEIRO E SEGUNDO RECURSOS DESPROVIDOS E TERCEIRO PARCIALMENTE PROVIDO.
+Preliminar:
+- Não há falar em nulidade do feito, seja por inversão no rito procedimental, seja pelo indeferimento da oitiva de uma das testemunhas, tal como faz crer a defesa.
+- Preliminar rejeitada.
+Mérito:
+- Restando devidamente comprovadas a autoria e a materialidade delitivas, a manutenção da condenação dos apelantes é medida de rigor.
+- Descabido o pleito de decote da majorante do emprego de arma de fogo quando comprovado nos autos que esta foi utilizada durante a execução do delito, ainda que não apreendida e nem periciada.
+- Verificando-se o animus furandi dos agentes e o emprego de efetiva violência e grave ameaça na subtração dos bens da vitima, não há falar em crime outro que não o de roubo.
+- Devem ser redimensionadas as reprimendas aplicadas apenas em relação a um dos sentenciados, ante a incidência na segunda fase da operação dosimétrica da atenuante da menoridade relativa.
+- Tratando-se de agente foragido, faz-se indispensável a sua prisão preventiva, visando seja assegurada a aplicação da lel penal, a teor do previsto no art. 312, do Código de Processo Penal.
+- Primeiro e segundo recursos desprovidos e terceiro parcialmente provido.
+Contra esse acórdão, a defesa impetrou habeas corpus perante o STJ (HC n. 662.721/MG), alegando, em síntese, inobservância do procedimento desenhado no art. 226 do Código de Processo Penal.
+Contudo, em decisão monocrática proferida no dia 18/5/2021, o Relator, Ministro FELIX FISCHER, não conheceu do writ, ante a inexistência do alegado constrangimento ilegal a justificar a concessão, de ofício, da ordem postulada.
+Após o trânsito em julgado na origem, a defesa ajuizou a Revisão Criminal n. 1.0000.20.024505-8/000, que foi indeferida pelo TJMG.
+Ainda inconformada, a defesa ajuizou novo pleito revisional (Revisão Criminal n. 1.0000.22.118549-9/000), que foi indeferido, em acórdão assim ementado (e-STJ fl. 27):
+EMENTA: REVISÃO CRIMINAL - ROUBO - AUSÊNCIA DOS PRESSUPOSTOS DE ADMISSIBILIDADE -REITERAÇÃO DE PEDIDO - ARQUIVAMENTO DETERMINADO.
+- Sendo o pedido de revisão criminal mera reiteração de anterior, já julgado, e inexistindo novas provas, não há comodar prosseguimento no feito, devendo ser o pedido arquivado, nos termos do p. único do artigo 622 do Código deProcesso Penal.
+Na inicial do habeas corpus substitutivo de recurso próprio, a impetrante reitera o pedido de desconstituição da coisa julgada, ante a nulidade do reconhecimento fotográfico, que não observou o procedimento do art. 226 do CPP.
+Assim, entende que, sem outras provas que corroborem a participação do paciente no delito, não há elementos suficientes para sustentar uma condenação, devendo o paciente ser absolvido, conforme previsto no artigo 386, VII, do Código de Processo Penal.
+Ainda, sustenta as seguintes teses: nulidade do processo com base na inversão do rito procedimental, conforme previsto no artigo 564, inciso IV, do Código de Processo Penal; cerceamento de defesa pelo indeferimento da oitiva de testemunha; ausência de comprovação do emprego de arma de fogo; e desproporcionalidade da pena e possibilidade de regime semiaberto.
+Ao final, requer seja concedida a ordem, "com a consequente revogação de qualquer medida restritiva de liberdade imposta ao paciente baseada exclusivamente em um reconhecimento fotográfico irregular, configura flagrante constrangimento ilegal, tendo em vista a invalidade do reconhecimento fotográfico realizado sem a observância das formalidades legais e a ausência de outras provas que corroborem a autoria do delito. A nulidade do feito por inversão no rito procedimental e pelo indeferimento da oitiva de uma das testemunhas. A absolvição do recorrente Diogo Otávio de Miranda por ausência de provas suficientes para a condenação. Eventualmente, o decote da majorante do emprego de arma de fogo. O redimensionamento das sanções aplicadas, com a redução da pena e a fixação do regime semiaberto para cumprimento"(e-STJ fl. 25).
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Como é de conhecimento, o art. 210 do Regimento Interno do STJ dispõe que: quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+In casu, verifico que nenhum dos temas ora arguidos foram efetivamente debatidos pela Corte local no julgamento da revisão criminal ora impugnada, sob a seguinte fundamentação (e-STJ fls. 27/28):
+Vistos. Trata-se de ação revisional proposta de próprio punho por DIOGO OTAVIO MIRANDA, condenado definitivamente pela prática do crime previsto no art. 157, parágrafo 2º, incisos I e II, do Código Penal, às penas de 09 (nove) anos e04 (quatro) meses de reclusão, em regime fechado, e pagamento de 22 (vinte e dois) dias-multa.
+O autor da presente ação penal constitutiva pleiteia a cassação da decisão condenatória, afirmando não existir prova segura acerca da participação do mesmo na prática do delito a ele imputado.
+Sustenta que o Requerente foi reconhecido exclusivamente por fotografia no curso do inquérito policial, procedimento que restou apenas ratificado no curso da ação penal, sob o crivo do contraditório. Aduz que "esse dito reconhecimento ilegal foi o único fator levantado na sentença penal, assim como no acórdão proferido por este Tribunal, para fundamentar a condenação do Requerente." (Ordem 01).
+A douta Procuradoria-Geral de Justiça, em parecer da lavra da ilustre Procuradora Fátima Borges, opinou pela improcedência da revisão criminal (ordem 73).
+Em despacho de ordem 74, o e. Des. Júlio Cesar Lorens determinou a remessa do presente feito para mim, em decorrência dos autos terem sido distribuídos por dependência da Revisão Criminal de n. 1.0000.20.024505-8/000, julgada pelo Des. Eduardo Machado, em observância ao Regimento Interno.
+É o breve relato. Passo a decidir.
+Não obstante serem relevantes os argumentos trazidos pelo impetrante, entendo que a presente Revisão Criminal não preenche os pressupostos de admissibilidade.
+Inicialmente, ao analisar a missiva, pude verificar que a presente revisão não passa de mera reiteração da Revisão Criminal nº. 1.0000.20.024505-8/000, na oportunidade, este colendo Segundo Grupo de Câmaras Criminais acordou, à unanimidade, em indeferir o pedido de absolvição do peticionário, de forma que o objeto da presente pretensão se faz ora prejudicado.
+Nesse sentido, o p. único do artigo 622, do Código de Processo Penal, estipula que "não será admissível a reiteração do pedido, salvo se fundado em novas provas".
+Dessa forma, somente seria admissível a impetração de outra revisão criminal, versando sobre o mesmo tema, diante da presença de novas provas, o que não é o caso dos autos.
+Portanto, impossível atender à pretensão suscitada, inobservância do comando do artigo 622, do Código de Processo Penal.
+Ante o exposto, com fulcro no artigo 89, inciso II, alínea "a", e artigo 329, ambos do Regimento Interno deste Tribunal, INDEFIRO O PEDIDO REVISIONAL.
+Sem custas.
+É como voto. - negritei.
+Com efeito, uma vez que a defesa sequer colacionou aos autos o inteiro teor da primeira revisão criminal ajuizada na origem, e se os temas não foram debatidos no acórdão ora impugado (Revisão Criminal n. 1.0000.22.118549-9/000), esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Nesse sentido: Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância (RHC n. 68.025/MG, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 17/5/2016, DJe de 25/5/2016).
+Inclusive, ressalta-se que: Matéria não apreciada pelo Tribunal de origem, inviabiliza a análise por esta Corte sob pena de indevida supressão de instância, mesmo em caso de suposta nulidade absoluta (AgRg nos EDcl no HC n. 692.704/SC, Relator Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021).
+Ainda que assim não fosse, cumpre ressaltar, conforme relatado por esta relatoria, que a matéria referente à suposta ilegalidade da condenação do paciente, pois supostamente baseada, exclusivamente, em reconhecimento fotográfico nulo, já foi anteriormente submetida ao crivo desta Corte Superior, no bojo do HC n. 662.721/MG. Portanto, tratando-se o pedido de mera reiteração de anterior, não deve ser conhecido, porque o Tribunal, em regra, não funciona como instância revisora de suas próprias decisões.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
