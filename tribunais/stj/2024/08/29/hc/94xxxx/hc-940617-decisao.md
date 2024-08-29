@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDILAINE GRACIELE CARDOSO LAMEGO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que a ora paciente encontra-se presa preventivamente pela prática, em tese, do delito capitulado no art. 33 da Lei n. 11.343/06.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que negou a substituição da prisão preventiva por domiciliar conforme acórdão de fls. 274-282.
+Postula a defesa, no presente writ, em linhas gerais, a substituição da prisão preventiva por prisão domiciliar, com fulcro no habeas corpus coletivo n. 143.641/SP, pois a Paciente é mãe de criança menor de doze anos.
+É o relatório. DECIDO.
+Em análise a prisão domiciliar, verifica-se que a inovação da lei processual positivou o entendimento anteriormente firmado pelo Supremo Tribunal Federal, e, não obstante tenha elencado apenas duas exceções à concessão da prisão domiciliar, é certo que seu cabimento deve ser analisado caso a caso, devendo prevalecer o que restou decidido pela Suprema Corte nas questões não abrangidas pela nova legislação.
+Assim, a ausência de previsão expressa de outras situações que obstem a concessão da prisão domiciliar não impede a atuação do julgador no sentido de negar a benesse quando constatada situação excepcionalíssima que revele a inadequação da medida.
+Quanto a prisão domiciliar, o Tribunal de origem manifestou: "ainda que a paciente seja mãe de umfilho menor de 12 anos de idade (fls. 10), o certo é que o envolvimento com o tráfico de drogas evidencia que, em liberdade, a acusada compromete não só a ordem pública, mas também a integridade da criança, tanto que, está sendo justamente acusada de tráfico de drogas, com a participação do seu filho Bruno Henrique Lamego Granzotto, o que também inviabiliza, no caso, a substituição da custódia por prisão domiciliar, uma vez que a maternidade,por si só, não constitui motivo para a conversão"- fl. 280, grifei.
+Nesse sentido é o entendimento firmado pela 3ª Seção desta Corte Superior, que, no julgamento do RHC n. 113.897/BA, em 27/11/2019, que destacou a inadequação da prisão domiciliar em razão das circunstâncias em que praticado o delito, consignando que:
+"apresentou-se fundamento válido na decisão que negou a substituição da prisão preventiva por domiciliar, porquanto a prática delituosa, ligada à organização criminosa, desenvolvia-se no mesmo ambiente em que convive com o filho menor, não se mostrando adequado para os cuidados do incapaz a prisão domiciliar" (RHC 113.897/BA, Rel. Ministro Nefi Cordeiro, Terceira Seção, julgado em 27/11/2019, DJe 13/12/2019).
+Assim, é certo que da situação evidenciada nos autos verifica-se excepcionalidade apta a revelar a inadequação da prisão domiciliar, considerando as circunstâncias do caso concreto, que comprometem a segurança da criança, o que justifica o indeferimento da prisão domiciliar.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO DOMICILIAR. MÃE DE CRIANÇAS MENORES DE 12 ANOS DE IDADE. IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONALÍSSIMA PREVISTA NO JULGAMENTO DO MANDAMUS COLETIVO N. 143.641/SP DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. No caso dos autos, a prisão domiciliar foi negada à agravante, em razão de compor perigosíssima organização criminosa armada voltada para o tráfico de drogas e outros crimes contra o patrimônio, sendo atribuída à paciente função de destaque, sendo responsável pela entrega das drogas a adolescentes que vendiam para usuários.Salientou-se, ainda, o fato de terem sido apreendidos na residência da ré grande quantidade de entorpecentes. Assim, é certo que verifica-se excepcionalidade apta a revelar a inadequação da prisão domiciliar, considerando as circunstâncias do caso concreto, que comprometem a segurança das crianças, o que justifica o indeferimento da prisão domicilia r.
+4. Agravo regimental desprovido." (AgRg no HC n. 769.869/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego o habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intime-se.
+ EMENTA
