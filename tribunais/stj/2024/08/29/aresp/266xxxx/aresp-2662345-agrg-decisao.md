@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, em razão do óbice a Súmula 182/STJ.
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+O Ministério Público Federal manifestou-se pelo desprovimento agravo.
+O Ministério Público do Estado de Rondônia apresentou contrarrazões, manifestou-se pela inadmissibilidade do presente agravo regimental, e, caso conhecido, o seu desprovimento.
+É o relatório.
+Decido.
+O recurso não merece ser conhecido, uma vez que intempestivo.
+Da análise dos autos, constata-se que o presente recurso se mostra intempestivo, pois interposto fora do prazo legal, nos termos do que dispõem os arts. 1.021 do CPC e 258 do RISTJ.
+De fato, na presente hipótese, a decisão monocrática agravada foi disponibilizada em 25/06/2024 e considerada publicada em 26/06/2024 (e-STJ, fl. 348). O início do prazo legal para interposição do recurso teve início em 27/06/2024 (quinta-feira) e, pela contagem normal, expirou no dia 01/07/2024 (segunda-feira).
+Porém, o presente agravo regimental somente foi interposto em data de 03/07/2024 (e-STJ, fl. 359), fora, portanto, do prazo legal de 05 (cinco) dias, e após o trânsito em julgado da decisão monocrática, conforme atesta a certidão de trânsito em julgado acostada aos autos (e-STJ, fl. 361), inclusive tendo sido certificado o trânsito em julgado no dia 02/07/2024 conforme certidão às fls. 352 (e-STJ).
+Cumpre salientar, por oportuno, que a Terceira Seção deste Superior Tribunal de Justiça, ao julgar o AgRg na Rcl n. 30.714/PB, tendo como Relator o Ministro Reynaldo Soares da Fonseca, julgado em 27/04/2016, DJe de 4/5/2016, firmou tese no sentido de que "O agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015)".
+Sendo assim, o agravo contra decisão monocrática proferida por Relator, em feitos que versam sobre matéria penal e/ou processual penal, nos tribunais superiores, não segue as regras dispostas no novo Código de Processo Civil, referentes à contagem dos prazos em dias úteis (art. 219, da Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015).
+Isso porque, no ponto, não foi revogada, expressamente, a norma especial contida na Lei 8.038/1990 que dispõe sobre procedimentos para os processos que especifica, perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal, e que, em seu art. 39, dispõe, in verbis: "Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias." (Grifamos).
+No mesmo sentido, temos, no art. 258, caput, do Regimento Interno deste Superior Tribunal, a seguinte previsão (sem grifos no original):
+"A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a."
+De mais a mais, cumpre, por oportuno, lembrar que o art. 798, caput e § 1º, do Código de Processo Penal, determina que "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" e que "Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento".
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. AGRAVO INTERPOSTO APÓS O PRAZO DE 5 (CINCO) DIAS PREVISTO NA LEI N. 8.038/1990. RECURSO INTEMPESTIVO. NOVO CPC. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não se pode falar em sustentação oral no presente caso, uma vez que o § 2º-B do art. 7º da Lei n. 8.906/1994, inserido pela Lei n. 14.365/2022 não faz alusão ao recurso em apreço (agravo em recurso especial). Segundo a referida lei, poderá o advogado realizar a sustentação oral no recurso interposto contra a decisão monocrática de relator que julgar o mérito ou não conhecer dos seguintes recursos ou ações.
+2. O agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei n. 13.105/2015).
+3. Isso porque, no ponto, não foi revogada, expressamente, como ocorreu com outros de seus artigos, a norma especial da Lei n. 8.038/1990, que estabelece o prazo de cinco dias para o agravo regimental.
+4. No presente caso, o agravo regimental foi interposto fora do prazo de 5 dias, intempestivamente, portanto.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.401.655/MG, relator Ministro Reynaldo Soares da Fonseca, julgado em 12/12/2023, DJe de 15/12/2023.) (Grifos acrescidos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO CONHECIMENTO DO AGRAVO REGIMENTAL. INTEMPESTIVIDADE. ARTS. 39 DA LEI N. 8.038/1990 e 258 do RISTJ.
+1. Destaca-se que, não obstante a aplicação subsidiária do Código de Processo Civil ao processo penal, o prazo para a interposição de agravo regimental é de 5 dias corridos, conforme estabelecem os arts. 39 da Lei n. 8.038/1990 e 258, caput, do RISTJ.
+2. Na espécie, a decisão agravada foi publicada em 22/8/2023. O prazo para a interposição do recurso iniciou-se em 23/8/2023 e se encerrou em 28/8/2023, tendo sido o presente recurso protocolizado somente em 1º/9/2023, fora, portanto, do quinquídio legal para a interposição de agravo regimental.
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 846.798/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.) (Grifos acrescidos)
+Ante o exposto, não conheço do agravo regimental.
+EMENTA
