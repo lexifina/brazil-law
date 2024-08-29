@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por SCALA SPE LTDA. contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de Goiás assim ementado (e-STJ, fls. 358-359):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO RESCISÃO CONTRATUAL C/C ANULAÇÃO DE CLÁUSULAS PENAIS C/C DEVOLUÇÃO DAS PARCELAS PAGAS. CONTRATO DE COMPRA E VENDA DE LOTE URBANO. RESCISÃO CONTRATUAL. CULPA DO PROMITENTE COMPRADOR. RETENÇÃO DO PERCENTUAL RAZOÁVEL. ABATIMENTO DE EVENTUAIS DÍVIDAS TRIBUTÁRIAS. IMPOSSIBILIDADE. RESTITUIÇÃO DE DESPESAS DE COBRANÇA. NÃO PROVADAS. TAXA DE FRUIÇÃO. COMPRA E VENDA DE LOTE NÃO EDIFICADO. NÃO CABIMENTO. AUSÊNCIA DE FATO NOVO. DECISÃO UNIPESSOAL MANTIDA.
+1. Na hipótese de rescisão do contrato de compromisso de compra e venda por culpa do comprador, mesmo que haja cláusula contratual expressa contendo outros percentuais, revela-se razoável e proporcional a retenção de 10 % (dez por cento) dos valores pagos a título de multa penal compensatória pelas despesas inerentes à negociação realizada. Precedentes do TJGO.
+2. No tocante ao pagamento dos impostos de IPTU e ITU, sabe-se que a responsabilidade do adimplemento destes decorre da obrigação propter rem. Por se tratar de contrato de compra e venda de lote sem edificação, se não demonstrada a efetiva transferência da posse direta para o adquirente, com comprovação da imissão na posse, não pode o consumidor ser responsabilizado pelas despesas tributárias a partir da assinatura do contrato.
+3. Não há se falar em restituição de despesas de cobranças que sequer foram demonstradas que foram pagas.
+4. Conforme entendimento jurisprudencial dominante, não é admitida a cobrança da taxa de fruição quando o objeto da promessa de compra e venda for lote de terreno não edificado, devido à inexistência de proveito econômico advindo do imóvel e auferido pelos possuidores. Precedentes do TJGO.
+5. Diante da inexistência de argumentos relevantes para a reforma, visando o recurso apenas o reexame de matéria já decida, deve ser mantida a decisão monocrática.
+AGRAVO INTERNO CONHECIDO MAS DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 466-487).
+Nas razões do recurso especial, a recorrente alegou a ofensa aos arts. 1.022, inciso II, e 1.025, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão recorrido quanto à inaplicabilidade do disposto no art. 32-A da Lei n. 6.766/1979.
+Afirmou, ainda, a violação ao art. 32-A, inciso II, da Lei n. 6.766/1979, preconizando que o valor de retenção é de 10% (dez por cento) do valor atualizado do contrato, e não das parcelas pagas.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+A agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 660-679).
+Contraminuta apresentada (e-STJ, fls. 818-822).
+Brevemente relatado, decido.
+De início, consoante análise dos autos, verifica-se que a alegação de violação aos arts. 1.022, inciso II, e 1.025, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de Goiás foi claro ao concluir, em suma, que "a "culpa" pelo desfazimento do negócio é do consumidor, razão pela qual aplica-se ao caso a Súmula nº 543 do Superior Tribunal de Justiça", bem como que o percentual de retenção fixado na sentença - de 10% (dez por cento) - está em consonância com a jurisprudência da Corte Estadual, veja-se (e-STJ, fls. 361-363; sem grifo no original):
+Adentrando ao mérito, a agravante alega desprezo à vigência a lei do distrato, defende a retenção de 23% sobre as parcelas pagas, destaca a necessidade de abatimento de tributos e taxa de fruição, bem como dos honorários e demais despesas administrativas.
+Da análise do arrazoado denota-se que não merece acolhimento a irresignação, conforme passo a expor.
+Primeiramente, registro que a relação jurídica existente entre as partes possui natureza consumerista, uma vez que os autores são destinatários finais da unidade imobiliária negociada pela empresa requerida/apelante, a qual, por sua vez, se enquadra no conceito de fornecedora, conforme a dicção dos arts. 2º e 3º, §1º do Código de Defesa do Consumidor.
+Pois bem. Extrai-se dos autos que as partes firmaram em 01/07/2019 um contrato particular de compra e venda de um terreno urbano constituído à Rua ES-06, nº 37, quadra 37, no Loteamento Residencial Laguna, no Município de Trindade/GO.
+Porém, a autora, alegando onerosidade excessiva, solicitou a rescisão.
+Resta evidenciada, portanto, que a "culpa" pelo desfazimento do negócio é do consumidor, razão pela qual aplica-se ao caso a Súmula nº 543 do Superior Tribunal de Justiça, que estabelece, verbis:  ..
+Como se vê, é incontroversa a necessidade de devolução imediata dos valores pagos pelo consumidor apelado, ainda que de forma parcial, como decidido na sentença.
+No que se refere ao percentual de retenção fixado na sentença de 10% (dez por cento), vislumbro que este encontra-se em consonância à jurisprudência do Egrégio Tribunal de Justiça do Estado de Goiás, inclusive em precedente. ..
+Nesse aspecto, não há se falar em reforma da decisão unipessoal que ratificou a condenação da empresa requerida à restituição, ao requerente, de 90% (noventa por cento) do valor pago atualizado monetariamente, em parcela única, corrigidos monetariamente pelo índice estabelecido no contrato, a partir do efetivo desembolso, mais juros legais de 1% ao mês, e juros de mora a contar do trânsito em julgado desta.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da agravante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+ ..
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.781.868/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Por conseguinte, destaca-se que a jurisprudência desta Corte de Justiça se firmou no sentido de que, "nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, admite-se a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga" (AgInt no AREsp n. 2.403.988/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Nesse sentido (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESISTÊNCIA DO PROMITENTE-COMPRADOR. VALORES PAGOS. RESTITUIÇÃO DE PARTE DOS VALORES DESEMBOLSADOS. CABIMENTO. DECISÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos do decisum de inadmissibilidade do recurso especial, razão pela qual deve ser reconsiderada a decisão proferida pela em.
+Presidência desta Corte Superior.
+2. Não se verifica a alegada violação dos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+3. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+4. "A Segunda Seção do STJ, ao apreciar o REsp 1.723.519/SP, da Relatoria da Ministra MARIA ISABEL GALLOTTI, estabeleceu, no que tange à cláusula penal fixada no contrato, nas hipóteses de rescisão de promessa de compra e venda de imóvel por inadimplemento do comprador, que o percentual de retenção pelo vendedor pode ser de até 25% do total da quantia paga. Precedente: EAg 1.138.183/PE, Rel. Ministro SIDNEI BENETI, Segunda Seção, julgado em 27/06/2012, DJe de 04/10/2012" (AgInt no AREsp 1.568.920/GO, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 3/3/2020, DJe de 25/3/2020).
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.263.212/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/8/2023, DJe de 25/8/2023.)
+Dessa forma, vislumbra-se que a irresignação da agravante não merece prosperar, uma vez que o acórdão recorrido, ao concluir pela viabilidade do percentual de retenção de 10% (dez por cento) do valor pago atualizado, está em consonância com o supracitado entendimento desta Corte Superior, incidindo, portanto, a Súmula n. 83/STJ ao caso vertente.
+Assim, melhor sorte não socorre à agravante.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL C/C ANULAÇÃO DE CLÁUSULAS PENAIS E DEVOLUÇÃO DE PARCELAS PAGAS. CONTRATO DE COMPRA E VENDA DE LOTE URBANO. RESCISÃO CONTRATUAL POR CULPA DO PROMITENTE COMPRADOR. RETENÇÃO DE PERCENTUAL RAZOÁVEL. ALEGADA OFENSA AOS ARTS. 1.022 E 1.025, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
