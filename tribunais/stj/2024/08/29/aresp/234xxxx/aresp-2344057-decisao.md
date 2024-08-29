@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BALTAZAR RODRIGUES NOGUEIRA contra a decisão que não admitiu recurso especial apresentado, com fundamento nas alíneas a e c do permissivo constitucional, em ataque ao acórdão proferido pelo Tribunal de Justiça do Piauí no Recurso em Sentido Estrito n. 0707488-26.2019.8.18.0000 (fls. 3.946/3.990).
+Aponta o agravante violação dos arts. 70,78, II, a, 155, 252, 258, 472, 564, III, h, do Código de Processo Penal; art. 489, § 1º, IV, c/c o art. 1.022, caput, II, e parágrafo único, do Código de Processo Civil; e arts. 20, § 1º, 23, III, 30, do Código Penal.
+A Subprocuradoria-Geral da República opinou pelo não conhecimento do agravo em recurso especial, em parecer assim resumido (fl. 4.293):
+Penal e Processual Penal. Agravo em Recurso Especial. Sequestro qualificado e homicídio qualificado. Tribunal do Júri. Pronúncia. Ausência de impugnação específica aos fundamentos da decisão agravada. Súmula 182/STJ. Competência penal por prevenção (CPP, art. 71). Reexame de fatos. Impossibilidade. Súmula 7/STJ. A jurisprudência do STJ admite a fixação da competência no local em que tiveram início os atos executórios. Alegação de nulidade em razão de impedimento do membro do Ministério Público. Fundamentação deficiente. Súmula 284/STF.
+Nulidade da decisão de pronúncia fundamentada em evidências coletadas exclusivamente durante a fase investigativa. Ausência de prequestionamento (Súmula 282 e 356/STF). Nulidade por cerceamento de defesa. Não ocorrência.
+Nenhuma das partes poderá alegar nulidade a que haja dado causa, ou para que tenha concorrido (CPP, art. 565). Nulidade da decisão de pronúncia por excesso de linguagem. Inexistência. Pedidos de exclusão da qualificadora da paga ou promessa de recompensa e despronúncia, em razão da excludente de ilicitude do exercício regular do direito. Impossibilidade. Versões defensivas não comprovadas de plano.
+Prevalência do princípio do in dubio pro societate. O aresto recorrido está em conformidade com a jurisprudência do STJ, o que leva à aplicação da Súmula 83/STJ.
+  Requer-se o não conhecimento do agravo.
+É o relatório.
+O agravo é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: Súmula 284/STF (impedimento MP); Súmula 7/STJ (cerceamento defesa); Súmula 283/STF (excesso de linguagem); Súmula 7/STJ (prova testemunhal não indica autoria); Súmula 283/STF (incompetência do juízo) e Súmulas 7/STJ e 284/STF (exclusão das qualificadoras).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, a fundamentação atinente às Súmulas 283 e 284 do STF e 7/STJ, limitando-se a abordar de maneira genérica a não incidência dos óbices sumulares, sem demonstrar a sua não aplicação quanto às respectivas matérias.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada. Ilustrativamente: AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; e AgRg no HC n. 755.900/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2022.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
