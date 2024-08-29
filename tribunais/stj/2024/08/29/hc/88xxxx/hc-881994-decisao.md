@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LAURO MACHADO CHAGAS LOPES e ABRAHAO GUTEMBERG DOS SANTOS CARDOSO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC 0084485-25.2023.8.19.0000).
+Os pacientes foram presos preventivamente pela suposta prática dos crimes tipificados nos arts. 33, caput, e 35 da Lei 11.343/2006, em concurso material.
+A defesa sustenta, em síntese: a) ausência dos requisitos do art. 312 do Código de Processo Penal; b) condições pessoais favoráveis; c) possibilidade de substituição da prisão por medidas cautelares diversas; e d) desproporcionalidade de medida extrema frente ao regime a ser imposto em eventual condenação.
+Requer a concessão da ordem para revogar a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+O pedido liminar foi indeferido (e-STJ fls. 141-142).
+Informações prestadas (e-STJ fls. 149-154 e 157-165).
+Parecer do Ministério Público Federal pela concessão da ordem de habeas corpus (e-STJ fls. 167-169).
+É o relatório.
+Decido.
+Consigno, ab initio, que a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que configurada flagrante ilegalidade apta a gerar constrangimento ilegal, em que é possível a concessão da ordem de ofício. Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. GENITOR. IMPRESCINDIBILIDADE DE CUIDADOS AO FILHO MENOR NÃO DEMONSTRADA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+I - A Primeira Turma do Supremo Tribunal Federal firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. Precedentes.
+II - O art. 318, inciso VI, do Código de Processo Penal dispõe que o magistrado poderá substituir a prisão preventiva pela domiciliar quando o agente for homem, caso seja o único responsável pelos cuidados do filho de até 12 (doze) anos de idade incompletos.
+III - No caso dos autos, conforme consignado pelo Tribunal a quo a defesa não se desincumbiu do ônus de demonstrar a imprescindibilidade do ora agravante aos cuidados de seus filhos.
+IV - Para desconstruir as conclusões alcançadas na origem seria necessário o revolvimento da matéria fático-probatória do caso em apreço, providência que é vedada em sede de habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 764.589/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+O entendimento é de elevada importância, porquanto deve-se utilizá-lo com fito de preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Ultrapassado o ponto, relembro que o art. 312 do Código de Processo Penal dispõe que a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+No caso, a prisão preventiva foi ordenada nos seguintes termos (e-STJ fls. 25-27, grifo acrescido):
+De se registrar também que no caso em análise os custodiados foram indiciados pela prática, em tese, de crimes dolosos cujas penas abstratamente cominadas ultrapassam 04 anos, restando configurada, portanto, a hipótese de cabimento da segregação cautelar conforme previsto no art. 313, I do Código de Processo Penal.
+No caso, os conduzidos estão detidos em razão da prisão em flagrante, por suposta prática dos crimes previstos nos arts. 33 e 35 da Lei 11343/2006.
+No caso em apreço, entendo necessária a decretação da prisão preventiva dos custodiados, para garantia da ordem pública, em face da gravidade em concreto dos delitos, considerando, em especial, a apreensão de considerável quantidade de entorpecentes variados (223 gramas de maconha, 10 gramas de cocaína e 9 gramas de crack).
+Portanto, a periculosidade dos custodiados, evidenciada na gravidade em concreto do delito, demonstra a necessidade de se acautelar o meio social, que não pode ser velado, neste momento, por nenhuma outra medida cautelar constritiva de liberdade, nada impedindo, por motivo óbvio, que o Juízo Natural faça nova análise da questão em destaque.
+Registre-se que, por ora, não há elemento de prova que esteie o prognóstico de que o custodiado será agraciado com o regime semiaberto para o início do cumprimento de sentença, não havendo falar em ofensa ao princípio da homogeneidade, até porque há a imputação do crime de associação para o tráfico, afatando-se, em tese, o privilégio previsto no art. 33, § 4º, da Lei de Drogas.
+ ..
+Registre-se ainda, que as medidas cautelares diversas da prisão previstas no art. 319 do CPP se revelam insuficientes a debelar o risco que a liberdade do réu representa para a ordem pública, como já ressaltado.
+Assim, por entender estarem presentes os requisitos processuais e os pressupostos fáticos autorizadores da prisão cautelar no caso concreto, a conversão do flagrante em prisão preventiva é medida que se impõe.
+O Tribunal de origem assim delineou a controvérsia (e-STJ fls. 17-18, grifo acrescido):
+Da análise do processo originário nº 0822664-42.2023.8.19.0014, verifica-se que os pacientes se encontram custodiados pela prática, em tese, dos crimes previstos nos artigos 33 e 35, da Lei 11.343/2006.
+Noticiam os autos que policiais se encontravam em patrulhamento quando avistaram alguns elementos traficando em frente à residência situada no Beco do Pinel, local conhecido pela venda de entorpecentes. Em seguida, na abordagem dos pacientes, foram encontrados drogas e dinheiro em espécie.
+O fumus comissi delicti e o periculum libertatis, que fundamentam a prisão cautelar, estão ancorados nas circunstâncias do caso concreto.
+A decisão atacada descreve o modus operandi dos crimes imputados aos pacientes, ressaltando a imprescindibilidade do resguardo da garantia da ordem pública, especialmente em razão da quantidade de drogas apreendida.
+Registre-se que os crimes cominam pena privativa de liberdade máxima, em abstrato, superior a 04 anos de reclusão, o que autoriza a decretação da custódia cautelar, conforme disposição do art. 313, I do CPP.
+Registre-se, ainda, que, embora os pacientes sejam primários, não foi comprovada pela defesa a alegada residência fixa.
+Ademais, segundo a jurisprudência do STJ, a comprovação de ocupação lícita, bons antecedentes e residência fixa não impedem que seja mantida a custódia quando presentes os requisitos legais da prisão preventiva (HC 612.232/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 14/12/2020).
+Nesse contexto, vislumbra-se necessária, por ora, a manutenção da segregação cautelar, visto que a medida extraordinária somente seria justificável no caso de flagrante teratologia e abuso de poder, o que não parece ser a hipótese dos autos.
+Finalmente, quando presentes os requisitos da prisão preventiva, deve ser afastada a aplicação de medidas cautelares diversas da prisão, notadamente diante do risco de reiteração delitiva.
+Reafirmo que, diferentemente do alegado pela combativa defesa, há justa causa para manutenção da constrição cautelar dos pacientes, com fundamento no art. 312 do Código de Processo Penal, notadamente para a garantia da ordem pública, diante da significativa quantidade e variedade das drogas apreendidas - 223g de maconha, 10g de cocaína, 9g de crack e 18 embalagens com lança perfume.
+A jurisprudência desta Corte é pacífica no sentido de que "a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no HC n. 880.124/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024) .
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE E VARIEDADE DE DROGAS. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - In casu, a prisão preventiva do Agravante se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerada a gravidade concreta da conduta supostamente perpetrada; haja vista a quantidade e a variedade das drogas apreendidas, (6 tabletes de maconha, pesando 102,59 gramas; um papelote de cocaína, pesando 4,24 gramas e oito porções de haxixe, pesando 37,03 gramas); havendo informações de que os entorpecentes seriam distribuídos através de um sistema de "delivery". Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública. Precedentes.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC n. 197.292/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 1/7/2024, DJe de 2/8/2024.)
+Quanto à alegada desproporcionalidade de medida extrema, ressalto que a tese não foi apreciada no acórdão impugnado, o que impede este Sodalício de conhecer do tema, para não incorrer em indevida supressão de instância.
+Por fim, condições pessoais favoráveis, ainda que comprovadas, não têm o condão de, isoladamente, desconstituir a prisão cautelar ou autorizar medidas cautelares alternativas quando há nos autos elementos hábeis que autorizam sua manutenção, como ocorre no caso.
+Nesse sentido, é assente nesta Corte que se tem "por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura" (AgRg no HC n. 844.095/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Ante o exposto, não conheço do habeas corpus
+Publique-se. Intimem-se.
+EMENTA
