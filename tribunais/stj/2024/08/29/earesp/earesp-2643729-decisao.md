@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por WILLIAM SHAYEB e outros contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 82):
+AGRAVO DE INSTRUMENTO Cumprimento de Sentença Desconsideração da personalidade jurídica Possibilidade Relação de consumo Incidência da teoria menor da desconsideração(art. 28, § 5º, do CDC) Insucesso das diligências adotadas no cumprimento de sentença Personalidade jurídica que é obstáculo ao ressarcimento do prejuízo causado ao consumidor Recuperação judicial das empresas devedoras que não afasta a responsabilidade dos sócios ainda que não administradores ou gerentes Planos de recuperação judicial que ainda não foram aprovados em Assembleia Geral de Credores, não obstando a desconsideração da personalidade jurídica em relação aos sócios - Recurso desprovido.
+Nas razões do especial (e-STJ, fls. 97/105), as partes recorrentes apontam violação aos arts. 6.º -C da LRF e 28,§5.º do CDC.
+Sustentam, em síntese:
+a) ausência dos requisitos legais que legitimariam a desconsideração da personalidade jurídica;
+b) ausência de atribuição de responsabilidade a terceiros em decorrência do mero inadimplemento de obrigações do devedor falido ou em recuperação judicial.
+Contrarrazões às fls. 166/177, e-STJ.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 178/179, e-STJ), o que ensejou o manejo do presente agravo (fls. 182/188, e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 191/204, e-STJ.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Quanto à suposta ofensa aos arts. arts. 6.º -C da LRF e 28,§5.º do CDC, a pretensão recursal não merece prosperar.
+Compulsando os autos, extrai-se do acórdão recorrido que o Tribunal decidiu o incidente de desconsideração da personalidade jurídica à luz da legislação consumerista (teoria menor). Confira-se (e-SJT, fls. 89/93):
+Dessa forma, não há necessidade de se perquirir eventual abuso da personalidade jurídica, uma vez que o art. 28 do Código de Defesa do Consumidor, aplicável ao caso, exige tão somente a verificação de ausência de patrimônio suficiente para a satisfação do crédito do consumidor.
+(..)
+Inequivocamente, a personalidade jurídica é obstáculo ao ressarcimento de prejuízos causados ao consumidor, em violação ao disposto no § 5º do art. 28 do CDC.
+Destarte, o mero estado de insolvência e a inexistência de bem livre penhorável das sociedades executadas, o que se constata através das diligências já realizas no cumprimento de sentença perante o BacenJud e Infojud e das justificativas que deram causa ao incidente de desconsideração, autorizam, pela personalidade jurídica ser obstáculo ao ressarcimento de prejuízos causados aos consumidores, a desconsideração da personalidade jurídica, com a inclusão dos sócios e administradores no polo passivo da ação.
+(..)
+As pesquisas de bens realizadas nos autos do cumprimento de sentença que restaram frutíferas em um primeiro momento, mostraram-se, posteriormente, inaptas a garantir a satisfação do crédito executado, destacando-se que o imóvel de matrícula nº 125.949, penhorado às fls. 210/212 dos autos de cumprimento de sentença, é de propriedade da empresa executada Assuã, que se encontraem Recuperação Judicial, em razão do que os atos expropriatórios sobreo bem foram suspensos e os pagamentos observarão a ordem legal, consoante alegado pelo exequente e não impugnado pelas rés (fls. 159dos autos de origem), evidenciando-se, portanto, que não é apto à satisfação do crédito. Quanto à indicação à penhora apresentada pelas executadas, referente ao crédito no importe de R$ 20.000.000,00decorrente da Ação Civil Pública na qual figuram como rés, constou expressamente do Acórdão prolatado nos autos do Agravo de Instrumento nº 248998-83.2020.8.26.0000 que o exequente não pode ser obrigado a aceitar a nomeação de bem sobre o qual recai ação civil pública movida pelo Ministério Público, em concorrência com inúmeros outros credores (fls. 250/252 do cumprimento de sentença). Por fim, no que toca aos veículos localizados através da pesquisa Renajud verifica-se, a partir da pesquisa do valor dos automóveis na Tabela FIPE4 (R$33.299,00 e R$ 27.981,00), que não são suficientes à satisfação de parcela relevante do crédito executado, que ultrapassa a monta de R$600.000,00, além do que não foram efetivamente disponibilizados pelas executadas para tal finalidade, que deveriam ter procedido à avaliações e à alienação do bem com vistas a quitar o débito, mas não o fizeram, sequer mencionaram os bens após o resultado da pesquisa.
+Com relação à recuperação judicial das empresas devedoras, ressalta-se que bens dos sócios não estão sujeitos ao plano de recuperação judicial da devedora principal, nem à competência do Juízo Universal da recuperação.
+(..)
+Em consulta aos respectivos autos, os planos de recuperação judicial da ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA e da H. AIDAR PAVIMENTAÇÃO E OBRASLTDA ainda não foram aprovados em Assembleia Geral de Credores, de maneira que são válidas as desconsiderações das personalidades jurídicas julgadas.
+Com efeito, para alterar a conclusão da Corte local e acolher a pretensão recursal quanto à ausência dos requisitos para a desconsideração jurídica, seria necessário promover o reexame do acervo fático probatórios dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+Confira-se:
+AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. VIOLAÇÕES DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EMPRESAS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITOS LEGAIS. AFERIÇÃO NA VIA DO RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1 - Não incide a Súmula 182/STJ se a parte, no agravo, impugna os fundamentos da decisão que, na origem, não admitiu o recurso especial. Decisão da Presidência que merece reconsideração.
+2 - Não decididas no acórdão recorrido as matérias afetas aos dispositivos tidos como violados, ressente-se o especial do necessário prequestionamento, atraindo o óbice das Súmulas 282 e 356 do STF.
+3 - Firmado pelas instâncias ordinárias que estão presentes os requisitos legais para a desconsideração da personalidade jurídica, notadamente que há confusão entre o patrimônio da empresa que figura originariamente no polo passivo do cumprimento de sentença e as outras que fazem parte do mesmo grupo econômico, não há como elidir essas conclusões na via do recurso especial, ante o veto das Súmulas 5 e 7 do STJ. Julgados nesse sentido das duas Turmas que integram a Segunda Seção.
+4 - Agravo interno provido, conhecendo do agravo para não conhecer do
+recurso especial. (AgInt no AREsp n. 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11,
+do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
