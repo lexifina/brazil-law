@@ -1,0 +1,15 @@
+DECISÃO
+FERNANDO MUNHOZ e DENER HENRIQUE VERISSIMO, denunciados pela suposta prática de furto qualificado (art. 155, § 4º, IV, c/c o art. 14, II, ambos do Código Penal), alegam sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A impetrante busca o trancamento do exercício da ação penal por ausência de justa causa ante a atipicidade material da conduta dos pacientes, pois insignificante.
+Decido.
+Trata-se de apuração de furto qualificado por concurso de agentes de res furtiva avaliada em R$160,77.
+Segundo as instâncias ordinárias, além de o valor do objeto furtado não ser ínfimo, o grau de reprovabilidade do comportamento do denunciado se mostra alto, já que o delito foi cometido na sua forma qualificada e o acusado é habitual na prática de crimes contra o patrimônio.
+Consta do acórdão recorrido que, "no caso em tela, não houve o preenchimento de tais requisitos, eis que, conforme salientou o Parquet nos autos principais (fls. 43/45), o Paciente Dener é reincidente  .. , que se está diante da imputação de furto qualificado pelo concurso de agentes,  de modo que  tratar tal conduta como "insignificante" é ignorar os efetivos e consideráveis prejuízos materiais e morais que suportam as vítimas de tais crim es" (fl. 105).
+É possível o avanço para a pronta solução do habeas corpus, uma vez que o acórdão recorrido observou a jurisprudência sobre o tema.
+Esta Corte entende que o trancamento do exercício da ação penal é excepcional e que não é possível reconhecer a atipicidade material da conduta por aplicação do princípio da insignificância "aos casos de furto qualificado  .. , a indicar especial reprovabilidade do comportamento, sobretudo quando se trata de agente reincidente, confumaz na prática desta espécie de delito" (AgRg no HC n. 759.971/SP, relator Ministro Rogerio Schietti, 6ª T., DJe 19/9/2022).
+Deveras: "a prática do delito de furto qualificado por escalada, por arrombamento ou rompimento de obstáculo, por concurso de agentes, ou por ser o paciente reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância" (AgRg no HC n. 652.008/ES, Rel. Ministro Felix Fischer, DJe 7/6/2021).
+Ilustrativamente: "a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo, ou concurso de agentes, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância" (AgRg no HC n. 888.846/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/3/2024, DJe de 22/3/2024).
+As peculiaridades do caso concreto (suposta prática delituosa na forma qualificada mediante concurso de agentes), somado ao valor do objeto furtado (superior a 10% do valor do salário mínimo da época) e o registro de reincidência de Dener, impedem a incidência do princípio da insignificância para determinação de trancamento da persecução penal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
