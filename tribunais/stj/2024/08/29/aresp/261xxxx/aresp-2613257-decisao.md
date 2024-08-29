@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL CONTRATO BANCÁRIO. CREFISA. LIMITAÇÃO DE JUROS REMUNERATÓRIOS. DESCARACTERIZAÇÃO DA MORA. REPETIÇÃO DO INDÉBITO NA FORMA SIMPLES.
+1. O STJ, NO ENUNCIADO DA SÚMULA 596, CONSOLIDOU ENTENDIMENTO DE QUE OS LIMITES À ESTIPULAÇÃO DA TAXA DE JUROS, CONSTANTES NO DECRETO Nº 22.626/33, NÃO SE APLICAM ÀS OPERAÇÕES REALIZADAS POR INSTITUIÇÕES FINANCEIRAS. A AUSÊNCIA DE LIMITAÇÃO NÃO IMPEDE A POSSIBILIDADE DE VERIFICAR A ABUSIVIDADE DA TAXA DE JUROS CONTRATADA.
+2. AFIGURAM-SE ABUSIVOS OS JUROS REMUNERATÓRIOS COBRADOS EM DISCREPÂNCIA COM O MERCADO FINANCEIRO. NO CASO RECONHECIDA A ABUSIVIDADE E REVISADO O CONTRATO.
+3. DESCARACTERIZAÇÃO DA MORA - CABÍVEL, POIS CONSTATADA A ABUSIVIDADE DA TAXA DE JUROS COBRADA NO CONTRATO.
+4. REPETIÇÃO DO INDÉBITO - HAVENDO CRÉDITO EM FAVOR DA CONTRATANTE, CABÍVEL A COMPENSAÇÃO E/OU A REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES POIS A MUTUANTE AGIU DENTRO DO ACERTADO PELAS PARTES SEM ATUAR NA AUSÊNCIA DE CONTRATAÇÃO OU ACIMA DO PACTUADO. APELAÇÃO IMPROVIDA.
+Alegou-se, no especial, violação dos artigos 421 do Código Civil; 927 do Código de Processo Civil; e 51, § 1º, do Código de Defesa do Consumidor, associada a dissídio jurisprudencial, sob o argumento de que a incursão do Poder Judiciário na autonomia privada para fins de limitar a taxa de juros remuneratórios estipulada em contrato bancário depende de cabal demonstração de abusividade.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local manteve a sentença que limitou os juros remuneratórios em contrato bancário à vista de que na:
+"(..) espécie os autos estampam revisão do contrato nº 030900027918, celebrado em 09/11/2017, no valor de R$ 1.681,71 com previsão de taxa de juros remuneratórios com redutor em 18,50% ao mês, mútuo em 12 parcelas no valor de R$ 345,00 cada. Os encargos são evidentemente abusivos diante da taxa leonina avençada, particularmente quando visualizada a sua anualidade; na captação os Bancos e Financeiras giram com taxas de 12% ao ano para a captação da pecúnia, mesmo somando encargos administrativos, "spread" pelo risco e outros fatores seria possível que o produto ($) fosse oferecido com o dobro do gasto na captação, todavia a obtenção do dinheiro por índice em torno de 12% ao ano e sem empréstimo por absurdos 666,69% anualizados é de indiscutível abusividade. Na taxa mensal a captação é ao redor de 1% e o mercado empresta a 7,03% mas o pacto estipulou 18,50% com indiscutível exorbitância" (e-STJ, fl. 361).
+Examinada a questão no caso concreto, com análise inclusive do custo de captação e spread bancário, o reexame da questão esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS 489 E 1.022 DO CPC. JUROS REMUNERATÓRIOS. ABUSIVIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Não impugnados os fundamentos acerca da impossibilidade de concessão da justiça gratuita e de suspensão do processo, está preclusa a discussão a respeito das referidas matérias.
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O acórdão recorrido, mediante o exame do conjunto probatório dos autos, concluiu pela existência de abusividade na taxa de juros cobrada. A alteração do desfecho conferido ao processo quanto ao tema demandaria análise do conteúdo fático-probatório dos autos, circunstância que atrai as Súmulas n. 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.544.387/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
