@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se recurso especial interposto por TERRAPLENAGEM AZZA LTDA - EM RECUPERAÇÃO JUDICIAL fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 13/5/2024.
+Concluso ao gabinete em: 9/8/2024.
+Ação: Recuperação Judicial da empresa recorrente.
+Decisão interlocutória: determinou a habilitação retardatária do crédito do recorrido no quadro de credores.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, conforme ementa a seguir (fl. 154):
+AGRAVO DE INSTRUMENTO. REQUERIMENTO DE HABILITAÇÃO DE CRÉDITO EM RECUPERAÇÃO JUDICIAL. DECISÃO QUE JULGOU PROCEDENTE O REFERIDO PEDIDO E LIMITOU EM ATÉ 150 (CENTO E CINQUENTA) SALÁRIOS-MÍNIMOS OS VALORES REFERENTES AOS CRÉDITOS DA CLASSE TRABALHISTA. RECURSO DA EMPRESA RECUPERANDA.
+PLEITO DE REFORMA DA DECISÃO, SOB O ARGUMENTO DE QUE NÃO HÁ FALAR EM LIMITAÇÃO DE CRÉDITO E QUE TODO O IMPORTE DEVE SER CLASSIFICADO COMO QUIROGRAFÁRIO. DESPROVIMENTO. MAGISTRADO ORIGINÁRIO QUE DEFERIU O PROCESSAMENTO DA RECUPERAÇÃO COM FULCRO NA LEI N. 11.101/2005. CÂMARA QUE POSSUI O ENTENDIMENTO DE QUE É POSSÍVEL A APLICAÇÃO DO INC. I DO ART. 83 DA REFERIDA NORMA ÀS RECUPERAÇÕES EMPRESARIAIS. ORDEM DE CLASSIFICAÇÃO DOS CRÉDITOS DISPOSTA NO ART. 83 DO ALUDIDO REGRAMENTO QUE INICIA PELOS CRÉDITOS DA LEGISLAÇÃO TRABALHISTA, LIMITADOS A 150 (CENTO E CINQUENTA) SALÁRIOS-MÍNIMOS POR CREDOR, E TAMBÉM AQUELES DECORRENTES DE ACIDENTES DE TRABALHO. INC. VI, "C", DO MENCIONADO ARTIGO DE LEI QUE É EXPRESSO EM DESTACAR QUE SÃO QUIROGRAGÁRIOS OS SALDOS DOS CRÉDITOS DERIVADOS DA LEGISLAÇÃO TRABALHISTA QUE ULTRAPASSAREM O LIMITE ESTABELECIDO NO ART. 83, I, DA REFERIDA NORMA. EVENTUAL CLASSIFICAÇÃO INTEGRAL DE TODOS OS CRÉDITOS COMO QUIROGRAFÁRIOS QUE DEMANDAVA EXPRESSA ANOTAÇÃO NO PLANO DE RECUPERAÇÃO.
+Em que pese a restrição imposta pelo art. 83, I, da Lei n. 11.101/2005 esteja prevista no capítulo referente às falências, é possível sua aplicação, analogicamente, às recuperações de empresa, visando o estímulo ao pagamento de todos aqueles que pleiteiam verbas derivadas da legislação do trabalho, a continuidade das atividades empresariais e também possibilita o cumprimento do plano apresentado e aprovado (Agravo de Instrumento n.
+8000446-62.2016.8.24.0000, de Blumenau, rel. Des. Robson Luz Varella, Segunda Câmara de Direito Comercial, j. 20-2-2018).
+A classe quirografária também acolhe os créditos que excederem os limites de classificação estabelecidos para algumas das classes ou foram rebaixados por previsão expressa da LREF, a saber:  ..  (c) Os créditos de correntes da legislação do trabalho que excederem o limite de 150 salários mínimos  ..  (SCALZILLI, João Pedro. SPINELLI, Luis Felipe. TELLECHEA, Rodrigo. Recuperação de empresas e falência : teoria e prática na Lei 11.101/2005, 3ª ed. rev. atual. e ampl. São Paulo : Almedina, 2018. p. 961-962).
+HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AUSÊNCIA DAS HIPÓTESES AUTORIZADORAS.
+RECURSO CONHECIDO E DESPROVIDO.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos artigos 489, § 1º, VI; 927, III, e 1.022, todos do CPC; 35, I, "a", e 47, ambos da Lei 11.101/2005, bem como dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta que "Não houve na decisão soberana da assembleia qualquer estabelecimento de limite que permita sobejar apenas o excesso a classe III, a dicção do que se estabeleceu é bastante clara no sentido de que serão considerados e pagos como quirografários, portanto na sua integralidade" (fl. 213).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela parte recorrente, não se manifestou acerca da "inconsistência da R. Decisão agravada ao estabelecer o crédito como Classe I, até o limite de 150 (cento e cinquenta) salários mínimos, e o remanescente como Classe III, bem como, incluir o valor concernente ao FGTS, mesmo já existindo credor para receber este crédito" (fl. 212).
+Da análise do processo, constata-se que, de fato, o Tribunal não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela parte recorrente.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas neste recurso.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Recurso especial conhecido e provido.
