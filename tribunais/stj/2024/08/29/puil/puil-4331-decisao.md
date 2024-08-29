@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei federal, com invocado fundamento no disposto pelo art. 18, § 3º, da Lei 12.153/2009, requerido por Yara Juliete Oliveira Melo, com o manifesto objetivo de reformar acórdão proferido à unanimidade pela Turma Recursal do Grupo Jurisdicional de Paracatu, MG.
+Segundo expôs no pedido dirigido a esta Corte, fls. 115/129, o colegiado não reconheceu "a interrupção da prescrição pela distribuição de ação individual com mesmos pedidos e citação válida, bem como desconsiderou a interrupção da prescrição pela distribuição de ação coletiva" (fl. 117), pelo que teria violado o disposto no art. 240, § 1º, do CPC, .interpretando a norma processual em dissenso com julgados do TJMA, TJMG, TJSP e TJRS, além do próprio STJ, razão pela qual requer "a admissão do presente Pedido de Uniformização de Interpretação de Lei, em especial no tocante ao disposto no artigo 240, do Código de Processo Civil, para que este Tribunal Superior promova a uniformização de interpretação legal nos moldes acima preceituados" (fl. 128).
+Em contrarrazões, fls. 98/108, o Estado de Minas Gerais requer, em preliminar, o não conhecimento do recurso, por inobservância do princípio da dialeticidade e, no mérito, defende a manutenção da decisão atacada.
+Feito isento de custas, conforme prevê o art. 3º, IV, da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017.
+Representação regular (fl. 17).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Tem-se, na origem, ação processada no âmbito do microssistema dos Juizados Especiais da Fazenda Pública, o que, com efeito, atrai a disciplina da Lei n. 12.153, de 22 de dezembro de 2009.
+Cumpre, porém, destacar ser o pedido de uniformização de interpretação de lei federal um meio de impugnação de decisão judicial muito peculiar e próprio dos microssistemas dos juizados especiais, cujo juízo de admissibilidade se dá por critérios assemelhados aos que esta Corte emprega para a admissão do recurso especial.
+Fixadas estas premissas, passo ao exame do pedido dirigido a esta Corte Superior.
+Na presente hipótese, como relatado, busca a requerente obter a reforma de decisão judicial em ordem a ver declarada a interrupção da prescrição em razão de distribuição de ação coletiva, fim para o que aponta alegado dissídio jurisprudencial na exegese do art. 240, § 1º, do diploma processual civil.
+Todavia, à luz dessa moldura fático-jurídica que dos autos emerge, não há como dar prosseguimento ao pedido, por muitas e variadas razões.
+Em primeiro lugar, por deficiência da instrução, visto não se achar, dentre as peças processuais apresentadas, o inteiro teor do acórdão contestado, o que impossibilita, dentre outras questões, examinar a satisfação de requisitos específicos como, v.g., o prequestionamento da matéria suscitada. Nesse sentido, ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Caso em que o Tribunal de origem deu parcial provimento ao recurso para o fim de reconhecer o direito ao reajuste mensal do vale-refeição, atualizando as parcelas "desde a data em que deveriam ter sido pagas, mês a mês, pelo IGPM e, a partir de 30.6.2009, pelos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança (art. 1º-F da Lei 9.494/2007)", respeitado o prazo prescricional, e observados os períodos de efetivo exercício.
+2. A inadmissibilidade do pedido aqui deduzido é medida que se impõe. Isso porque o acórdão recorrido realmente não se manifestou, nem mesmo implicitamente, acerca da tese segundo a qual os juros de mora são devidos apenas após a citação (artigos 219 do CPC/1973 e 405 do Código Civil).
+3. Agravo interno não provido.
+(AgInt no PUIL n. 679/RS, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 19/6/2018.)
+Em segundo lugar, nos termos do art. 18, caput, da Lei n. 12.153/2009 o pedido dirigido a esta Corte superior somente é cabível "quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material", o que, à toda vista, não é o caso, em que o intento da requerente é declarar interrupção da prescrição por conta do ajuizamento de outra ação coletiva. Cuida-se, assim, de aspecto essencialmente processual e nada mais.
+Assim, examinada por qualquer um destes ângulos, a hipótese revela-se sempre não merecedora de conhecimento.
+ANTE O EXPOSTO, suficientemente demonstrado o não cabimento do presente pedido de uniformização de interpretação de lei federal, dele não conheço , com fundamento no disposto no art. 34, XVIII, "a", do RISTJ.
+Publique-se.
+EMENTA
