@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. LABOR EXERCIDO EM CONDIÇÕES ESPECIAIS. DIREITO ADQUIRIDO. INSTRUÇÃO DEFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. AGENTES BIOLÓGICOS. EPI. RECONHECIDA INEFICÁCIA. CONTRIBUINTE INDIVIDUAL. IMPLANTAÇÃO.
+1. Comprovado o exercício de atividade especial, conforme os critérios estabelecidos na lei vigente à época do exercício, o segurado tem direito adquirido ao cômputo do tempo de serviço como tal.
+2. Até 28/04/1995, é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29/04/1995, necessária a demonstração da efetiva exposição, deforma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; e, a contar de 06/05/1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+3. Em demandas previdenciárias, nos casos em que houver ausência ou insuficiência de provas do direito reclamado, o processo deve ser extinto sem julgamento de mérito. Precedente da Corte Especial do Superior Tribunal de Justiça, em sede de recurso representativo de controvérsia (CPC, art. 543-C), lavrado no REsp n.º 1.352.721/SP (Rel. Min. Napoleão Nunes Maia Filho, julgado em16/12/2015).
+4. Os agentes biológicos estão previstos nos códigos 1.3.1 do quadro Anexo do Decreto n.º53.831/64, 1.3.1 do Anexo I do Decreto n.º 83.080/79 e 3.0.0 e 3.0.1 do Anexo IV dos Decretos n.º2.172/97 e n.º 3.048/99. Os riscos ocupacionais gerados por esses agentes não requerem a análise quantitativa de sua concentração ou intensidade máxima e mínima no ambiente de trabalho, dado que são caracterizados pela avaliação qualitativa (art. 278, § 1º, I da IN 77/2015 c/c Anexo 14 da NR-15).
+5. Não há necessidade de exposição permanente ao risco decorrente de agentes infecto-contagiosos para a caracterização do direito à aposentadoria especial (Precedentes desta Corte).
+6. Nos casos de reconhecida ineficácia do EPI (enquadramento por categoria profissional, ruído, agentes biológicos, substâncias cancerígenas e periculosidade), o tempo deve considerado como especial independentemente da produção da prova da falta de eficácia (IRDR 15).
+7. Não há vedação legal ao cômputo como especial de períodos trabalhados como contribuinte individual, tampouco à concessão de aposentadoria especial a essa categoria de segurados da Previdência Social.
+8. Determinada a imediata implantação do benefício (fl. 314).
+Opostos embargos de declaração, foram parcialmente acolhidos, apenas para fins de prequestionamento.
+No recurso especial, o recorrente aponta negativa de vigência ao art. 1.022, II, do CPC/2015, ao fundamento de que:
+ ..  não foi apreciada a tese levantada pela autarquia previdenciária acerca da impossibilidade do reconhecimento como especial da atividade exercida pelo contribuinte individual não cooperado após 29/04/1995, em razão da ausência de fonte de custeio, falta de habitualidade e permanência, impossibilidade de analisar ou não a eficácia do EPI e da unilateralidade e parcialidade da prova (fls. 345-346).
+Alega, ainda, violação aos arts. 22, II, da Lei 8.212/91, 11, V, h, 14, I, parágrafo único, 57, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei 8.213/91, pois:
+ ..  se o contribuinte individual trabalha por conta própria, exerce suas atividades por sua conta e risco, não pode valer-se disso para beneficiar-se de uma situação a que dá causa ou que pode evitar, por exemplo, com a eliminação da nocividade com a utilização de EPI eficaz. Não há qualquer relação de subordinação, não há sujeição a uma jornada de trabalho fixada pelo empregador, não preenchendo, portanto, os requisitos da habitualidade e permanência de submissão a agentes nocivos, assim, não há como se adotar critérios diferenciados para a concessão de benefício para essa categoria (fl. 347).
+Requer, ao final, o provimento do recurso.
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, I e II, do CPC/2015, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+No que diz respeito ao mérito, o acórdão recorrido está em consonância com a jurisprudência desta Corte, firmada no sentido da possibilidade do "reconhecimento da especialidade de atividade exercida pelo segurado contribuinte individual, bem como da concessão de aposentadoria especial" (AgInt no AREsp n. 1.697.600/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/4/2021, DJe de 29/4/2021).
+Nesse contexto , a alteração da conclusão do Tribunal a quo, acerca da configuração da atividade especial, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, conheço, em parte, do recurso especial e, nesta extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
