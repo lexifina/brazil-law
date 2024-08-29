@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto por NILSON DELAMUTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 599-606):
+AÇÃO RESCISÓRIA - AÇÃO DE COBRANÇA - SERVIDOR PÚBLICO - INÉPCIA DA INICIAL AFASTADA - DECADÊNCIA NÃO CONFIGURADA - CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DE AUXÍLIO ALIMENTAÇÃO, COM FUNDAMENTO NO ARTIGO 117-A DA LEI COMPLEMENTAR MUNICIPAL N.º 002/2000, ACRESCENTADO PELA LEI COMPLEMENTAR MUNICIPAL N.º 001/2012 - PEDIDO DE RESCISÃO FUNDADO NA DECLARAÇÃO POSTERIOR DE INCONSTITUCIONALIDADE MATERIAL DA NORMA MUNICIPAL PELO ÓRGÃO ESPECIAL DESTE TRIBUNAL - ADI N.º 1.747.260-1 - VINCULAÇÃO DO BENEFÍCIO AO SALÁRIO MÍNIMO - OFENSA À NORMA JURÍDICA CONFIGURADA - ARTIGO 7.º, INCISO IV DA CONSTITUIÇÃO, SÚMULA VINCULANTE Nº 4 - HIPÓTESE DE RESCISÃO CONFIGURADA - ARTIGO 966, INCISO V DO DIPLOMA PROCESSUAL - PRECEDENTES. AÇÃO RESCISÓRIA JULGADA PROCEDENTE.
+Tendo o acórdão rescindendo fundamentado a condenação do Município ao pagamento de auxílio alimentação em norma posteriormente declarada inconstitucional porque vincula a verba ao salário mínimo, é cabível o pedido de rescisão do julgado.
+Os embargos de declaração foram rejeitados (fls. 631-636).
+Nas razões recursais (fls. 643-659), o recorrente sustenta, em síntese, violação dos arts. 927, V e 966, V, do CPC; 27 da Lei 9.868/1999 e 6º, § 2º, da LINDB, defendendo, em suma, o efeito ex nunc da declaração de inconstitucionalidade da Lei Municipal 1/2012, de Santa Mariana/PR.
+Argumenta, quanto à modulação dos efeitos da declaração de inconstitucionalidade, que "deve se perquirir aquela que prestigia a segurança jurídica, como direito constitucional fundamental, constituída pelo tripé direito adquirido, ato jurídico perfeito e coisa julgada (CF, art. 5º, inc. XXXVI). Essencial para estabilidade, pacificação e desenvolvimento social".
+Conclui que, "durante o período em que a lei gozava de constitucionalidade, é devido o pagamento sobre a rubrica de auxílio alimentação para todos aqueles servidores que cumpriam os requisitos legais para fazer jus à percepção do benefício".
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+O Tribunal de origem julgou procedente a ação rescisória do Município de Santa Mariana/PR, a fim de considerar indevido o pagamento do auxílio alimentação, considerou, nos seguintes termos, que (fl. 603):
+ ..  o acórdão rescindendo, bem como a sentença por ele confirmada, que determinou o pagamento dos valores a título de auxílio alimentação com base na mencionada regra legal, implicaram em manifesta afronta à norma jurídica insculpida no ao artigo 7º, inciso IV, da Constituição Federal, na Súmula Vinculante n.º 04 do Supremo Tribunal Federal, no artigo 33, §3º da Constituição do Estado do Paraná e no artigo 927, inciso II do CPC.
+O próprio recorrente narra que "O v. acórdão julga procedente o pedido de rescisão por um fundamento: o dispositivo que prevê o auxílio-alimentação foi declarado inconstitucional na Ação Direta de Inconstitucionalidade nº. 1.747.260 (ADI nº. 1.747.260-1), em julgamento pelo Órgão Especial do Tribunal de Justiça do Estado do Paraná (OE -TJPR)"
+Como se observa, a controvérsia foi dirimida sob enfoque exclusivamente constitucional, sendo atribuição do Supremo Tribunal Federal potencial reforma do acórdão recorrido quanto ao ponto, sob pena de violação ao art. 102 da Constituição.
+A propósito, o seguinte julgado:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DECADÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO CONTIDO NA DECISÃO ATACADA. SÚMULA 182/STJ. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA 211/STJ. OFENSA REFLEXA A DISPOSITIVOS INFRALEGAIS FEDERAIS. QUESTÃO VINCULADA AO EXAME DE MATÉRIA LOCAL E CONSTITUCIONAL. IMPOSSIBILIDADE.
+ ..
+5. Eventual ofensa aos arts. 927, V, do CPC, 27 da Lei 9.868/1999 e 6º, § 2º, da LINDB seria no máximo reflexa, porquanto vinculada a um afirmado desacerto do Tribunal de origem na interpretação da tese fixada ADI n. 1.747.260-1, conclusão esta que, por sua vez, passa pelo exame dos dispositivos da lei municipal tida por inconstitucional c/c a norma constitucional utilizada como parâmetro para tal juízo de inconstitucionalidade, o que extrapola a competência deste Superior Tribunal. Nesse sentido: AgInt no REsp n. 1.929.686/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 18/8/2021.
+6. Da mesma forma, apresenta-se inviável o conhecimento do recurso especial quanto ao mérito da subjacente ação rescisória, haja vista que a discussão a respeito da possibilidade, ou não, de os reajustes do auxílio-alimentação serem vinculados ao salário mínimo envolve matéria exclusivamente constitucional.
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no REsp n. 2.006.155/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Assim, a análise do fundamento apresentado no acórdão recorrido como almejada pelo recorrente atrai o óbice da Súmula 211 deste STJ, porque não realizado o efetivo prequestionamento dos dispositivos de lei federal apontados (arts. 927, V e 966, V, do CPC; 27 da Lei 9.868/1999 e 6º, § 2º, da LINDB).
+Além disso, aponta-se violação à norma local (Lei Municipal 1/2012, de Santa Mariana/PR), cuja análise também é vedada, conforme teor da Súmula 280 do STF, aplicável por analogia.
+Isso posto, não conheço do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
