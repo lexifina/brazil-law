@@ -1,0 +1,16 @@
+DECISÃO
+Em análise, embargos de declaração opostos por CHEVRON ORONITE BRASIL LTDA contra decisão de fls. 663/665, que não conheceu do agravo em recurso especial.
+A parte embargante sustenta, em síntese, que "não há que se falar no óbice ao processamento do especial por matéria exclusivamente constitucional, quando a prestação jurisdicional legal buscada, está diretamente ligada ao direito à produção de provas, a ser convalidada por este Eg. Superior Tribunal de Justiça, porém, exercida na instância ordinária, para que se ateste a correção ou não das ocorrências consideradas para apuração do multiplicador FAP atribuído à empresa" (fl. 672).
+Defende, ao final:
+(a) "O acolhimento dos presentes embargos de declaração, para devida análise do recurso especial, determinando-se o retorno dos autos à instância ordinária, para produção de provas, a ensejar a correção do FAP aplicado à empresa, com base nas ocorrências que de fato devem compor o cálculo" (fl. 672);
+(b) "Ou, sucessivamente, pela suficiência das razões apresentadas, o provimento do recurso especial, para que seja declarada a violação pelo acórdão lavrado pelo E. TRF-3 dos artigos 202-A, §5º, do Decreto 3.048/1995, 22, inciso II, da Lei nº 8.212/91, 97, inciso IV, e 110, ambos do CTN, 5º, incisos II, XXXIII e LX, 37, 7º, inciso XXVIII, 150, inciso I, 154, inciso I, 195, §4º, e 201, inciso I e §10, todos da Constituição Federal, em razão da inconstitucionalidade e ilegalidade do FAP, nos termos do cálculo e metodologia adotados pelo MPS/INSS" (fl. 672);
+(c) "Ou, sucessivamente, seja, desde já, dado parcial provimento ao recurso especial da empresa, determinando o recálculo do FAP da agravante Chevron, excluindo-se as ocorrências mencionadas no item 4.2.5, com nova submissão à apreciação do contribuinte, com a reabertura do prazo de impugnação" (fl. 672).
+A UNIÃO não apresentou impugnação aos embargos de declaração (fl. 599).
+É o relatório.
+Passo a decidir.
+Os embargos de declaração não comportam conhecimento.
+Nos termos do art. 1.023 do CPC, "os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Interpretando o referido dispositivo legal, o Superior Tribunal de Justiça firmou entendimento no sentido de que "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (STJ, EDcl no AgInt nos EAREsp 635.459/MG, Relator Ministro João Otávio de Noronha, Corte Especial, DJe de 15/3/2017). Nesse sentido: STJ, EDcl no MS 28.073/DF, Relator Ministro Raul Araújo, Cote Especial, DJe de 15/08/2022; EDcl no MS 25.797/DF, Relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 22/10/2021.
+No caso, a parte embargante não aponta a existência de omissão, contradição, obscuridade ou erro material no acórdão embargado, demonstrando mero inconformismo com a solução dada à lide, o que impede o conhecimento dos embargos de declaração.
+Isso posto, não conheço dos embargos de declaração.
+EMENTA
