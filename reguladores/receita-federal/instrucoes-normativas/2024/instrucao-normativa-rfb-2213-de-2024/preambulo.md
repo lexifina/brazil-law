@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2213, de 27 de agosto de 2024
+Altera a Instrução Normativa RFB nº 2.164, de 25 de outubro de 2023, para alterar o cronograma de envio de informações relativas a operações realizadas no mercado financeiro e de capitais por meio do Programa Auxiliar de Apuração do Imposto sobre a Renda da Pessoa Física incidente sobre operações de Renda Variável - Revar.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
