@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo de decisão que inadmitiu recurso especial interposto pelo ESTADO DA BAHIA, contra acórdão proferido pelo TJBA, assim ementado (fl. 253):
+APELAÇÃO. DIREITO ADMINISTRATIVO. AÇÃO DE REINTEGRAÇÃO. POLÍCIA MILITAR DA BAHIA. ÔNUS DA PROVA DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE DEMONSTRAÇÃO DA EXISTÊNCIA DE PROCESSO ADMINISTRATIVO DISCIPLINAR. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA. INOBSERVÂNCIA AOS PRINCÍPIOS DOCONTRADITÓRIO E DA AMPLA DEFESA. ILEGALIDADE MANIFESTA. REINTEGRAÇÃO AO CARGO DEVIDA. DIREITO AO RESSARCIMENTO REMUNERATÓRIO COM AS VANTAGENS DEVIDAS. ENTENDIMENTO SEDIMENTADO PELO STJ. REINTEGRAÇÃO AO CARGO DEVIDA. RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial inadmitido, aponta violação dos arts. 140 e 1.022, II, do CPC, ao argumento de que, "a ausência de prequestionamento, quando devida e oportunamente provocado, impõe a oposição de embargos declaratórios, para fins de ensejar o suprimento das omissões que podem consubstanciar negativa de prestação jurisdicional, além de inviabilizar o acesso aos pretórios superiores, em sendo o Recurso Especial e o Recurso Extraordinário recursos de direito em sentido estrito" (fls. 292-293).
+Foi apresentada resposta ao REsp ( fls. 393-395).
+É o relatório.
+Quanto à suposta violação dos arts. 140 e 1.022 do CPC, por não proceder ao prequestionamento das matérias de lei federal invocadas, o que configuraria negativa de prestação jurisdicional, consta do acórdão recorrido a seguinte fundamentação acerca do tema controvertido nos autos (fls. 257-260):
+Com efeito, em se tratando de processo administrativo disciplinar, o ônus da prova da conduta irregular é da Administração Pública e, diante da ausência de prova suficientemente forte, deverá favorecer o indiciado.
+Assim, no caso em comento, deveria o Estado trazer aos autos o processo administrativo que ocasionou a demissão do apelante, o que não foi feito, mesmo sedando nova oportunidade de fazê-lo no segundo grau.
+(..).
+Sabe-se que a "presunção de inocência condiciona toda condenação a uma atividade probatória produzida pela acusação e veda taxativamente a condenação, inexistindo as necessárias provas."(in Constituição do Brasil Interpretada, Alexandre de Moraes, editora Atlas).
+Ademais, nesse caso, o ônus da prova é inverso, tendo em vista que compete à acusação provar que o servidor público é culpado, militando em favor do acusado o princípio da presunção de inocência. Essa presunção de inocência só poderá ser elidida com a devida prova de que houve falta disciplinar, militando em favor do ora apelante o princípio in dubio pro reo.
+(..)
+Lado outro, o servidor público só pode ser demitido mediante processo administrativo disciplinar em que tenha sido assegurado o contraditório e a ampla defesa, sendo uma garantia decorrente do art. 5º, LV, da Constituição Federal, in verbis:
+(..)
+Ressalte-se que não cabe ao Poder Judiciário adentrar no mérito administrativo ,somente nos aspectos de legalidade. Com efeito, no caso em comento, salta aos olhos a ilegalidade do ato demissional e a contrariedade aos princípios do contraditório e da ampla defesa vez que o apelante alega nunca ter tido acesso a suposta sindicância realizada pelo Estado, não sabendo os motivos que levaram a aplicação da sua penalidade, impossibilitando-o, portanto, de exercer uma defesa plena com violação do devido processo legal.
+Dessa forma, não seria razoável manter o ato demissional se não foi dado acesso ao conteúdo do ato, não tendo o Estado se desincumbido do ônus de provar acerca da existência do procedimento administrativo e do exercício da ampla defesa e do contraditório.
+Assim, infere-se que o afastamento em comento violou aos princípios do contraditório e da ampla defesa, estatuídos no art. 5º, LV, da Magna Carta, razão pela qual necessária se faz a sua reintegração aos quadros da Policia Militar da Bahia.
+No caso dos autos, não se constata a existência de vícios, pois o acórdão explicitou fundamentadamente as razões pelas quais considerou ilegal o ato demissional do servidor, revelando-se, em verdade, mero inconformismo do recorrente.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intime-se.
+EMENTA
