@@ -1,0 +1,19 @@
+DECISÃO
+GIOVANE GARCIA ESPINDOLA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no Agravo em Execução n. 8000069-79.2024.8.24.0075.
+A defesa busca seja concedida a remição da pena do paciente, em razão de sua aprovação no ENEM/2023, a despeito de haver sido beneficiado, anteriormente, com o desconto de 133 de sua reprimenda, em decorrência de sua aprovação no ENCCEJA - 2018 e 2022 -ensino médio.
+Decido.
+O condenado que cumpre pena em regime fechado ou semiaberto poderá remir, por estudo, parte do tempo de execução da pena. Mesmo que não comprove atividade regulares de ensino no interior da unidade, poderá realizar exames nacionais e demonstrar o aprendizado por conta própria do ensino fundamental, quando fará jus ao limite de 177 dias de remição se completar essa etapa de conhecimento.
+No caso, o Magistrado da execução declarou remidos 60 dias da pena do paciente, em razão de sua participação no ENCCEJA/2018, oporunidade na qual alcançou a nota mínima em três disciplinas (fls. 17/18).
+Posteriormente, o reeducando se submeteu novamente ao ENCEEJA, obtendo aprovação nas 5 áreas de conhecimento. Diante de tal cenário, o Juiz de origem declarou remidos 40 dias, além do acréscimo de 1/3 (33 dias) , em razão de sua conclusão do ensino médio. Colhe-se do respectivo decisum (fls. 25-26, destaquei):
+Vê-se pelo controle de remição constante no evento 214.1 que o reeducando realizou, nas dependências do Presídio Masculino de Tubarão, o Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA, obtendo aprovação em cinco áreas de conhecimento.
+Ao analisar os autos, verifica-se que a aprovação em três áreas de conhecimento já foram objeto de análise da decisão de evento 203.1.
+ ..
+No tocante à quantidade de dias remidos, vale ressaltar que o Superior Tribunal de Justiça firmou o entendimento de que o percentual de 50%, mencionado acima, já corresponde a 1600 horas, no caso de ensino fundamental, ou 1200 horas, no caso do ensino médio, utilizando-se, como parâmetro, a Lei de Diretrizes Básica da Educação Nacional (Lei n. 9.394/1996).
+No caso do apenado, a elaboração do cálculo deve partir de 50% da carga horária do ensino médio, quantia equivalente a 1200 horas, que, divididas por 12 (doze) horas (art. 126, § 1º, I, daLEP), perfaz-se o montante de 40 dias, uma vez que foi aprovado em duas áreas do conhecimento.
+Conforme já mencionado, o reeducando concluiu o ensino médio, motivo pelo qual deve-se acrescer mais 1/3, motivo pelo qual faz jus a 73 dias de remição.
+O Tribunal estadual ratificou a decisão do Juízo de primeiro grau.
+O acórdão vai ao encontro de jurisprudência unânime desta Corte, de que "em situações como a dos autos, haveria "mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual" (AgRg no HC n. 592.511/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 8/9/2020, DJe 15/9/2020)" (AgRg nos EDcl no HC n. 763.585/SP, relator Ministro Antonio Saldanha Palheiros, Sexta Turma, DJe 31/5/2023).
+Diante de tal cenário, outra solução não há, senão reconhecer o acerto do aresto impugnado, quando destacou a impossibilidade de concessão do benefício em duplicidade, considerando que o sentenciado obteve a remição de 133 dias de sua pena em decorrência de sua conclusão no ensino médio, por meio da participação no ENCCEJA, nos anos de 2018 e 2022, pois "a instrução do ensino médio  ou fundamental  durante os regimes semiaberto ou fechado pode ensejar uma única vez a remição, sob pena de bis in idem e de concessão de benefício indevido" (AgRg no HC n. 797.329/SC, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 26/5/2023).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
