@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NORPLAN - LOTEAMENTO NOVA CARPINA SPE LTDA (NORPLAN) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, NORPLAN alegou, a par de dissídio jurisprudencial, violação dos arts. 407 e 884 do CC, ao sustentar que os juros de mora devem incidir a partir do arbitramento da obrigação de pagar.
+O Tribunal reconheceu que, em se tratando de relação contratual, a mora se configura pela citação, eis o teor da decisão:
+Frise que, embora não tenha sido questão debatida em sede de apelação cível, a tese ora levantada sobre o termo inicial dos juros de mora é passível de conhecimento até mesmo de ofício pelo magistrado, por ser matéria de ordem pública.
+Pois bem. No REsp. Nº 1.132.866/SP, o Ministro Sidnei Beneti enfatizou, em seu voto, que, na responsabilidade contratual, "a incidência dos encargos moratórios a partir da inadimplência deve respeitar o que ficou convencionado, ficando a demora no acionar por conta do autor, o que, à ausência de previsão diversa ou notificação, justifica a incidência de juros moratórios legais a partir da citação (Cód. Civil/2002, art. 405)" - grifei.
+Já em seu voto, o Ministro Paulo de Tarso Sanseverino anotou que se considera "em mora o devedor da obrigação de indenizar, na responsabilidade extracontratual, desde a data do evento danoso (art. 398 do CC), enquanto que, na responsabilidade contratual, configura-se a mora, em regra, apenas a partir da citação (art. 405). E continua: "essa distinção é fundamental para se estabelecer o termo inicial dos juros moratórios". Ao final, arremata: "(..) A função dos juros moratórios é compensar o credor da obrigação pelo atraso, pela demora, pelo retardamento no seu adimplemento. Por isso, o termo inicial deve corresponder à data da constituição em mora do devedor, na forma prevista pelo Código Civil. Na responsabilidade civil contratual, é a data da interpelação do devedor pela citação para responder à ação indenizatória, enquanto, na extracontratual, é o momento da própria ocorrência do evento danoso" - grifei. (REsp nº 1.132.866/SP, Rel. Min. Maria Isabel Gallotti, Segunda Seção, julgado em 23/11/2011.) (e-STJ, fl. 360).
+Segundo a jurisprudência firmada nesta Corte, o dano extrapatrimonial decorrente da inscrição indevida em cadastro de inadimplentes é extracontratual, ainda que a dívida objeto da inscrição seja contratual (EDcl no REsp 1.375.530/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 6/10/2015, DJe 9/10/2015).
+Assim, em se tratando de responsabilidade extracontratual, a jurisprudência dessa corte firmou o entendimento de que os juros moratórios, incidem desde a data do evento danoso, na forma da Súmula nº 54 do STJ: Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual.
+Nesses termos, como o recurso especial foi interposto pela NORPLAN não é possível aplicar o entendimento desta Corte com relação ao termo inicial dos juros de mora em razão da vedação da reformatio in pejus.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INSCRIÇÃO INDEVIDA EM ÓRGÃO DE PROTEÇÃO AO CRÉDITO. TERMO INICIAL DOS JUROS DE MORA. IMPOSSIBILIDADE DE APLICAÇÃO DO ENTENDIMENTO DO STJ SOB PENA DE REFORMATIO IN PEJUS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO
