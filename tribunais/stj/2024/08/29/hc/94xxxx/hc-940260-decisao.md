@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de JESUALDO PEREIRA DAMASCENA contra acórdão da 7ª Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.24.304622-4/000).
+Extrai-se dos autos que foram aplicadas ao paciente, vereador do município de Nanuque/MG, medidas cautelares alternativas, tendo em vista a suposta prática dos delitos tipificados nos arts 2º, § 4º, inciso II, da Lei n. 12.850/13, 297 e 299 do Código Penal e 90 da Lei n. 8.666/93,
+Em razão do suposto descumprimento das condições impostas, foi decretada sua prisão preventiva.
+Buscando a revogação da custódia, a defesa impetrou a ordem originária, que foi parcialmente concedida pelo Tribunal a quo, para revogar a custódia e restabelecer as medidas anteriormente impostas. O acórdão foi assim ementado (e-STJ fls. 10/18):
+EMENTA: HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA, FRAUDE À LICITAÇÃO, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E FALSIDADE IDEOLÓGICA - NULIDADE DOS ELEMENTOS UTILIZADOS PARA A DECRETAÇÃO DA CUSTÓDIA CAUTELAR - DESCABIMENTO -DESCUMPRIMENTO DE MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE - INOCORRÊNCIA - REVOGAÇÃO DA PRISÃO PREVENTIVA -VIABILIDADE.
+1. Não verificado concretamente violação alguma à cadeia de custódia, incabível reconhecer a nulidade das provas que dão base ao decreto preventivo.
+2. Evidenciado que as condutas imputadas ao paciente, embora dotadas de reprovabilidade em relação ao escopo de medida cautelar imposta, não implicaram em seu frontal descumprimento, ressai possível o reestabelecimento da liberdade provisória, ainda que com algum reforço a cautelares diversas da prisão, em especial, o monitoramento eletrônico.
+No presente writ, a defesa alega que, dentre as medidas cautelares impostas, a determinação de afastamento do cargo de vereador é desproporcional. Ressalta que, embora aplicada há mais de 150 dias, houve o deferimento de prorrogação pelo prazo de mais 100 dias. Destaca que ele se encontra no último ano do mandato.
+Requer, em liminar e no mérito, a cassação da medida, com retorno do paciente ao exercício do cargo.
+É o relatório. Decido.
+Verifica-se a inviabilidade do exame da matéria arguida, uma vez que não foi objeto de exame no acórdão ora atacado.
+Note-se que a irresignação ora apresentada se concentra na decisão de e-STJ fls. 20/23, que determinou a prorrogação da medida de afastamento do cargo/função pública. Trata-se de decisão de juízo singular, a qual não foi objeto de julgamento perante a Corte a quo, visto que o recurso em sentido estrito se encontra pendente de julgamento.
+O utrossim, o habeas corpus impetrado limitou-se à discussão do cabimento da prisão preventiva aplicada.
+"Desse modo, como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Diante do exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
