@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por JHEYMISON SOARES DE PAIVA, contra decisão que não admitiu o recurso especial da insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. DANOS MORAIS E DANOS ESTÉTICOS. CUMULAÇÃO. POSSIBILIDADE. . BIS IN IDEM NÃO OCORRÊNCIA. VALOR DA INDENIZAÇÃO. ADEQUADO E PROPORCIONAL.1. Consoante a jurisprudência do Superior Tribunal de Justiça, admite-se a cumulação de indenização de danos morais e de danos estéticos, conforme disposto na Súmula 387: "É lícita a". É cumulação das indenizações de dano estético e dano moral o caso dos autos.2. No caso concreto, não foi considerado o mesmo fundamento para as condenações em danos morais e estéticos, pelo que não há falar em bis in idem. 3. Para a fixação do quantum devido, devem ser utilizados os critérios gerais, como o prudente arbítrio, o bom senso, a equidade e a proporcionalidade ou razoabilidade, bem como específicos, sendo estes o grau de culpa da parte ofensora e o seu potencial econômico, a repercussão social do ato lesivo, as condições pessoais da parte lesada e a natureza do direito violado. 3.1. Dessa forma, ante as peculiaridades do caso concreto e considerando os critérios mencionados, reputa-se adequado e proporcional a quantia de R$ 16.000,00 fixada na sentença recorrida para a reparação dos danos morais e estéticos sofridos pela apelada, não prosperando o argumentodo apelante de que tal valor seria exagerado oudesproporcional.4. Apelo conhecido e não provido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a insurgente alegou: (i) ofensa aos artigos 3º, 11, 489, § 1º, incisos III, IV e V, e 1.022, parágrafo único, inciso II, todos do Código de Processo Civil, ante a negativa de prestação jurisdicional; (ii) ofensa ao artigos 944 e 945 do Código Civil, sustentando que o valor da indenização à título de danos morais e estéticos é desproporcional ao prejuízo e desconsidera a culpa concorrente da recorrida.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial, dando ensejo a interposição do presente agravo.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. De início, em relação à alegada negativa de prestação jurisdicional, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, inclusive no que diz respeito aos valores da indenização.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma expressa e suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. Outrossim, quanto ao valor da indenização arbitrada por danos morais e estéticos, o Tribunal local asseverou:
+No caso em análise, os danos estéticos estão comprovadospelas fotos juntadas aos autos (ID 47477678, 47477679 e 47477678), tendo emvista que, em decorrência do acidente de trânsito, a apelada teve modificação nasua aparência externa devido à existência de cicatrizes na sua face, que afetama sua harmonia física, repercutindo negativamente em sua imagem. Cabível,portanto, a compensação pecuniária.
+Para a fixação do devido, devem ser utilizados osquantumcritérios gerais, como o prudente arbítrio, o bom senso, a equidade e aproporcionalidade ou razoabilidade, bem como específicos, sendo estes o graude culpa da parte ofensora e o seu potencial econômico, a repercussão social doato lesivo, as condições pessoais da parte lesada e a natureza do direito violado.
+Dessa forma, ante as peculiaridades do caso concreto econsiderando os critérios mencionados, reputa-se adequado e proporcional aquantia de R$ 16.000,00 fixada na sentença recorrida para a reparação dosdanos morais e estéticos sofridos pela apelada, não prosperando o argumentodo apelante de que tal valor seria exagerado ou desproporcional.
+Com efeito, não obstante o grau de subjetivismo que envolve o tema, uma vez que não existem critérios predeterminados para a quantificação do dano moral, esta Corte Superior tem reiteradamente se pronunciado no sentido de que a indenização deve ser suficiente a restaurar o bem estar da vítima, desestimular o ofensor em repetir a falta, não podendo, ainda, constituir enriquecimento sem causa ao ofendido.
+Com a apreciação reiterada de casos semelhantes, concluiu-se que a intervenção desta Corte ficaria limitada aos casos em que o quantum fosse irrisório ou excessivo, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição.
+Assim, se o arbitramento do valor da compensação por danos morais foi realizado com moderação, proporcionalmente ao grau de culpa, ao nível sócio-econômico do recorrido e, ainda, ao porte econômico do recorrente, orientando-se o juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com razoabilidade, fazendo uso de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso, o STJ tem por coerente a prestação jurisdicional fornecida (RESP 259.816/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, DJ de 27/11/2000).
+Dessa forma, para modificar as conclusões consignadas no acórdão impugnado e concluir estar excessivo o quantum indenizatório como quer o insurgente, seria necessário a incursão no conjunto fático-probatório das provas e nos elementos de convicção dos autos, o que é vedado em sede de recurso especial (Súmula nº 7 do STJ).
+Nesse sentido:
+PROCESSUAL CIVIL. ISSQN. ATOS COOPERADOS. MANDADO DE SEGURANÇA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA QUANTO AO ALEGADO DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REVISÃO DESSE ENTENDIMENTO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONHECIDA.
+1. A Corte de origem, com amparo nos elementos de convicção dos autos, negou a pretensão da agravante, tendo em vista a necessidade de dilação probatória, inviável na ação mandamental.
+2. Assim, insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7/STJ.
+3. A incidência da referida Súmula 7 impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Agravo interno improvido.
+(AgInt no AREsp 866.679/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 26/04/2016, DJe 02/05/2016)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DO VALOR DA CAUSA. DANOS MORAIS FIXADOS AO ARBÍTRIO DO JUIZ. SÚMULAS N. 7 E 83 DO STJ.
+1. É possível a fixação dos danos morais de acordo com o prudente arbítrio do juiz da causa. Precedentes.
+2. A revisão do quantum fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 730.160/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 15/03/2016, DJe 28/03/2016)
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para de plano negar provimento ao recurso especial e, ante o disposto no artigo 85, § 11, do CPC, majoro em 10% (dez por cento) o valor dos honorários de sucumbência arbitrados pelo Tribunal de origem em favor da parte ora agravada.
+Publique-se.
+Intimem-se.
+EMENTA
