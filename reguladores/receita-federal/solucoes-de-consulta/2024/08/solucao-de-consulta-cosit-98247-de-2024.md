@@ -1,0 +1,11 @@
+Solução de Consulta Cosit nº 98247, de 21 de agosto de 2024
+Assunto: Classificação de Mercadorias
+Reforma de ofício a Solução de Consulta Cosit nº 98.416, de 17 de dezembro de 2018.
+Código NCM: 9102.12.20
+Mercadoria: Relógio de pulso multiesportivo, com cronômetro, acelerômetro, GPS, medidor de frequência cardíaca, recursos avançados para atividades esportivas, monitoramento do sono, com funcionamento elétrico, visor digital quadrado de 1,3" com bordas arredondadas, bateria recarregável, pulseira e caixa de plástico não reforçada com fibra de vidro. Permite visualizar os dados dos treinos em sua tela. Pode ser emparelhado a um smartphone, via Bluetooth ou ANT, que possibilita transmitir os dados coletados, receber notificações de chamadas móveis (atendê-las ou rejeitá-las no dispositivo para comunicação no smartphone), receber e-mails e mensagens de texto (sem capacidade de respondê-los), alertas do calendário, notificações de atualizações de redes sociais e controlar músicas armazenadas no dispositivo emparelhado.
+Código NCM: 9102.12.90
+Mercadoria: Relógio de pulso multiesportivo, com cronômetro, acelerômetro, GPS, medidor de frequência cardíaca, recursos avançados para atividades esportivas, monitoramento do sono, com funcionamento elétrico, visor digital quadrado de 1,3" com bordas arredondadas, bateria recarregável, pulseira e caixa de plástico reforçada com fibra de vidro. Permite visualizar os dados dos treinos em sua tela. Pode ser emparelhado a um smartphone, via Bluetooth ou ANT, que possibilita transmitir os dados coletados, receber notificações de chamadas móveis (atendê-las ou rejeitá-las no dispositivo para comunicação no smartphone), receber e-mails e mensagens de texto (sem capacidade de respondê-los), alertas do calendário, notificações de atualizações de redes sociais e controlar músicas armazenadas no dispositivo emparelhado.
+Dispositivos Legais: RGI 1, RGI 3 c), RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Gecex nº 272, de 2021, e da Tipi, aprovada pelo Dec. nº 11.158, de 2022, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, de 2023, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98.247-2024.pdf]
+CLAUDIA ELENA FIGUEIRA CARDOSO NAVARRO
+Presidente do Comitê
