@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRE CESARIO DA SILVA contra decisão oriunda do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que negou seguimento ao recurso especial.
+Depreende-se dos autos que o agravante foi condenado, como incurso no art. 157, § 2º-A, inciso I, na forma do art. 71, parágrafo único, do Código Penal, à pena de 8 anos, 8 meses e 3 dias de reclusão, no regime fechado.
+O Tribunal de origem negou provimento ao recurso de apelação da defesa em acórdão assim ementado (e-STJ fl. 378):
+APELAÇÃO CRIMINAL. ROUBO MAJORADO PELO EMPREGO DE ARMA DE FOGO. A U T O R I A E M A T E R I A L I D A D E D E M O N S T R A D A S . A B S O L V I Ç Ã O . IMPOSSIBILIDADE. DOSIMETRIA. CULPABILIDADE. FUNDAMENTAÇÃO NÃO IDÔNEA. ANTECEDENTES. CONDENAÇÕES POR FATOS POSTERIORES AO PRESENTE JULGAMENTO. NÃO CABIMENTO. PENA-BASE AGRAVADA. IMPOSSIBILIDADE. CRIME COMETIDO ANTES DA VIGÊNCIA DO PACOTE ANTICRIME. EMPREGO DE ARMA DE FOGO. AUMENTO DA PENA EM 1/3.CONTINUIDADE DELITIVA. FRAÇÕES DE AUMENTO PELA QUANTIDADE DE INFRAÇÕES.1. Não merece censura a sentença condenatória quando a materialidade e a autoria do delito restarem plenamente comprovadas.2. A instrução ofereceu elementos aptos à prolação da sentença condenatória, podendo-se constatar de forma cristalina, a materialidade e a autoria dos delitos. 3. O conjunto probatório é idôneo, não há que se falar em absolvição 4. Crime majorado pelo uso de arma de fogo. A palavra dos ofendidos assume relevante valor probatório. Vítimas narraram com objetividade toda a dinâmica criminosa. 5.Continuidade delitiva demonstrada, devendo, portanto, incidir a majoração no coeficiente de 1/5, relativo à quantidade de infrações cometidas. 6. Havendo equívocos na fixação da pena e no regime inicial de cumprimento, reparação de ofício. Regime inicial semiaberto. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Os embargos de declaração que se seguiram foram rejeitados.
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, alegou a defesa que "existe uma carência probatória nos autos, que vislumbra um entendimento não diferente da absolvição. Conclui-se que, inexistindo provas, cabais e concretas devemos invocar o princípio do "in dubio pro reo", clara e evidente afronta ao Art. 386 do CPP" (e-STJ fl. 435).
+O MPF, às e-STJ fls. 493/495, manifestou-se pelo desprovimento do recurso.
+É, em síntese, o relatório.
+A Corte de origem, após minucioso exame do acervo probatório, sobretudo a prova testemunhal e os bens apreendidos em poder do agravante, concluiu pela manutenção da condenação imposta em primeiro grau.
+Para reverter o que foi decidido pela instância ordinária, sob o argumento de fragilidade das provas produzidas, seria necessário analisar o caderno probatório, intento que esbarra no óbice imposto pela Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
