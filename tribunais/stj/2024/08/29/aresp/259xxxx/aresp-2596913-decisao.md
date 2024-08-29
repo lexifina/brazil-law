@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EVEN CONSTRUTORA E INCORPORADORA S.A. e EXTRAORDINAIRE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (EVEN e outra) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 661/671).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, EVEN e outra alegaram a violação dos arts. 166, 171 e 849 do CC, ao sustentarem a validade do termo de acordo extrajudicial celebrado por livre iniciativa das partes, o que impede os promitentes compradores de reclamarem qualquer valor adicional ou de buscarem o reconhecimento judicial de sua nulidade.
+Trata-se de ação de revisão de termo de distrato cumulada com indenização por danos morais ajuizada por ELIANA CRISTINA DE GOIS PEREIRA e GENI DA SILVA contra EVEN e outra, cujo pedido foi julgado procedente em Primeira instância, para (a) declarar nula a cláusula VIII do "instrumento particular de promessa de venda e compra de unidade autônoma"; (b) declarar nula a cláusula 2 e 3 do "termo de distrato de instrumento particularde promessa de venda e compra de unidade autônoma"; (c) condenar as requeridas, solidariamente, na restituição de todos os valores pagos pelas autoras, em uma única parcela, corrigidos monetariamente do desembolso e acrescidos de juros de mora de 1% ao mês a contar da citação, deduzidos os valores eventualmente já reembolsados. Por força da sucumbência, condeno as requeridas solidariamente ao pagamento das custas, despesas processuais e honorários do patrono das autoras em 10% do valor atualizado da condenação (e-STJ, fls. 517/520).
+Irresignada, EVEN e outra apelaram, e o Tribunal de Justiça de São Paulo negou provimento ao recurso, confirmando os termos da sentença em sua integralidade.
+Da revisão do termo de distrato
+Conforme entendimento do STJ, é cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, apesar de ter havido a quitação ampla, geral e irrevogável, se tenha constatado a existência de cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta aos ditames do CDC e aos princípios da boa-fé objetiva e do equilíbrio contratual, como é o caso dos autos, em que o acordo entabulado entre as partes previu a perda de 50% dos valores pagos pelas promitentes compradoras.
+Insta salientar que, na espécie, o descumprimento do contrato se deu por culpa da incorporadora, que não cumpriu o prazo de entrega da obra, impondo-se concluir que, da forma como foi firmado o acordo, o valor a ser retido pelas empresas corrés afigura-se manifestamente abusivo e desproporcional.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. RESCISÃO. PEDIDO DO COMPRADOR. RETENÇÃO. PERCENTUAL. CLÁUSULA. ABUSIVIDADE. DIVERGÊNCIA COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça entende ser cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, a despeito da quitação ampla, geral e irrevogável, exista cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta ao Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+3. Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp n.º 1.701.206/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 1º/6/2021, DJe de 17/6/2021 - sem destaque no original.)
+RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. PARQUE RESIDENCIAL UMBU. REVISÃO DE CONTRATOS FINDOS. POSSIBILIDADE. DISTRATO À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESOLUÇÃO EXTRAJUDICIAL DO NEGÓCIO COM ESTIPULAÇÃO DE CLÁUSULA DE DECAIMENTO. IMPOSSIBILIDADE. NULIDADE DAS CLÁUSULAS ABUSIVAS.
+1. A transação é espécie de negócio jurídico que objetiva por fim a uma celeuma obrigacional, alcançada por meio de concessões mútuas (CC, art. 840), cujo objetivo primordial é evitar o litígio ou colocar-lhe fim. A extinção se exterioriza na forma de renúncia a direito patrimonial de caráter privado, disponível, portanto, conforme previsto na lei.
+2. É firme o entendimento do STJ quanto à possibilidade de revisão dos contratos findos, ainda que em decorrência de quitação, para o afastamento de eventuais ilegalidades. Precedentes. Súm 286 do STJ.
+3. As normas previstas no Código de Defesa do Consumidor são de ordem pública e interesse social, cogentes e inderrogáveis pela vontade das partes.
+4. É cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, apesar de ter havido a quitação ampla, geral e irrevogável, se tenha constatado a existência de cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta aos ditames do CDC e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+5. Na hipótese, verifica-se que a Construtora recebeu dupla vantagem advinda da referida cláusula, pois, além de retomar a propriedade do imóvel, dando-o em pagamento de dívidas ao Município, acabou por se apoderar do dinheiro pago pelo consumidor no financiamento do bem, configurando vantagem abusiva em seu favor.
+6. Recurso especial não provido.
+(REsp n.º 1.412.662/RS, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 1º/9/2016, DJe de 28/9/2016 - sem destaque no original.)
+Incide, à hipótese, o comando da Súmula n.º 568 do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interpo sição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR ATRASO NA ENTREGA DA OBRA. REVISÃO DE DISTRATO. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
