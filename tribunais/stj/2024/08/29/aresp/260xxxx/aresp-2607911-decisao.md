@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por Orlando Francisco de Jesus contra a decisão que não admitiu recurso especial apresentado, com fundamento na alínea a do permissivo constitucional, contra o acórdão do Tribunal de Justiça do Espírito Santo proferido no Recurso em Sentido Estrito n. 0009564-80.2014.8.08.0012, assim ementado (fls. 569/570):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. ART. 121,§2º, IV, CP. DESPRONÚNCIA. PROVA DA MATERIALIDADE E PRESENÇA DE INDÍCIOS DE AUTORIA. "IN DUBIO PRO SOCIETATE". PRONÚNCIA MANTIDA. CIRCUNSTÂNCIAS QUALIFICADORAS. MOTIVO TORPE E SURPRESA. INDÍCIOS SUFICIENTES. RECURSO CONHECIDO. NEGADO PROVIMENTO.
+1. A pronúncia é um juízo de admissibilidade da acusação, de natureza declaratória e não condenatória. Demonstrada a materialidade do fato e estando presentes indícios suficientes de autoria, inviável a despronúncia do réu, eis que qualquer dúvida acerca da participação do agente deve ser analisada pelo Tribunal do Júri, a quem compete apreciar e valorar o contexto probatório. Caso em que testemunhas afirmaram que o apelante e a vítima estariam juntas efetuando um roubo, ocasião em que o recorrente, armado, teria realizado disparos de arma de fogo, sendo o ofendido encontrado morto no local dos fatos.
+2. Tem-se admitido, de forma excepcional, a possibilidade de o Tribunal excluir da pronúncia as circunstâncias qualificadoras impertinentes ou manifestamente divorciadas do contexto dos autos. Caso em que estão presentes indícios de ter sido o crime praticado de maneira a diminuir a possibilidade de resistência da vítima. Demais disso, cabe ao corpo de jurados avaliar se a conduta se enquadra no conceito legal da qualificadora em comento.
+3. Recurso conhecido e não provido.
+Alega o agravante, no especial, violação dos arts. 386, V, 413 e 414 do Código de Processo Penal e 121, § 2º, do Código Penal.
+A Subprocuradoria-Geral da República opinou pelo não provimento do agravo, em parecer assim resumido (fl. 656):
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. AFASTAMENTO QUALIFICADORA. SENTENÇA PRONÚNCIA. NECESSIDADE DE REVOLVMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PELO NÃO PROVIMENTO DO AGRAVO.
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade, sobretudo por infirmar especificamente os fundamentos adotados.
+Passo ao exame do recurso especial.
+O inconformismo não merece abrigo.
+Com efeito, o Tribunal de Justiça do Espírito Santo afirmou, com base no lastro probatório dos autos, estarem presentes a prova da materialidade e os indícios de autoria suficientes para a pronúncia, assim como as qualificadoras imputadas, destacando, ainda, o que se segue (fls. 572/574 - grifo nosso):
+ ..
+No caso em apreço, a materialidade do crime emerge do laudo de exame cadavérico de fl. 25.
+Presentes, também, os indícios de autoria necessários para viabilizar a pronúncia.
+Por ocasião de audiência de instrução e julgamento constante de fls. 160/165, foram ouvidas testemunhos que, em tese, corroboram a versão inicial.
+Márcio Souza de Jesus, ouvido à fl.163, informa:
+que o declarante, seu irmão gêmeo MARCOS e seu amigo EMERSON estavam transitando nas proximidades da marmoraria UNO PEDRAS, em 14 de Dezembro de 2003, quando dois indivíduos saíram de trás de um matagal e fizeram a abordagem dizendo que era um assalto; que um deles estava de arma em punho; que somente um estava com a arma em punho; que após a abordagem, aos assaltantes disseram para que o declarante e seus amigos não reagissem e entregassem tudo o que tinham; que foram levados para trás de uma pedra de mármore e nesse local começaram a entregar seus pertences; que em dado momento, um dos assaltantes pediu para que entregassem os sapatos e após o declarante e seus amigos retirarem os sapatos, esse mesmo assaltante disse que todos iriam morrer; que em seguida, foi efetuado um disparo, o qual atingiu a perna de seu irmão MARCOS e ato continuo, todos saíram correndo; que correram uns 80 à 100 metros e conseguiram socorro; que após o primeiro disparo, foram efetuados mais alguns disparos, mas não acertou mais ninguém; que somente no dia seguinte, quando foi visitar seu irmão no hospital, é que o declarante tomou conhecimento que um dos assaltantes teria sido morto no local;
+Em semelhante sentido, as declarações de Marcos Souza de Jesus, acostadas às fls. 164/164-v.
+Além dos testemunhos acima, consta, também, os depoimentos prestados pelo irmão e pelo pai do ofendido, de fls. 161 e 162, respectivamente, em que declararam que o acusado ORLANDO FRANCISCO DE JESUS buscou a vítima em sua casa naquela data, e apesar de não saber ao certo a motivação do crime, poderia haver ligação com o envolvimento de Misael Ferreira Monteiro com drogas, uma vez que era viciado em entorpecentes.
+Logo, conforme exposto pelas testemunhas, o apelante e a vítima Misael Ferreira Monteiro, em comunhão de desígnios, abordaram três pessoas nas imediações da Marmoraria Uno pedras, na Rodovia José Sette, ocasião em que teriam anunciado um "assalto". Após render as mencionadas pessoas, acusado e vítima as teriam conduzido para detrás de uma pedra de mármore para ali subtrair-lhes objetos pessoais.
+Detalharam que somente o recorrente estaria armado. Após a subtração, Misael Ferreira Monteiro teria dito que matariam a todos, ocasião em que o recorrente teria começado a realizar disparos, vindo a atingir a perna de MARCOS SOUZA DE JESUS. Os indivíduos disseram, ainda, ter fugido do local e, no dia seguinte, ficado sabendo que um dos assaltantes, a vítima Misael Ferreira Monteiro, teria morrido no local dos fatos.
+Assim, presentes a prova da materialidade e indícios razoáveis de autoria a recair sobre o recorrente, descabe a desconstituição da pronúncia, haja vista prevalecer nesta etapa da persecução criminal, o princípio in dubio pro societate.
+Frise-se, com isso, que somente o Tribunal do Júri poderá, ou não, acolher as teses defensivas, eis que é daquele órgão a competência constitucional para julgar os crimes dolosos contra a vida, consumados ou tentados.
+Quanto ao pedido de decote da qualificadora da surpresa, destaco que, excepcionalmente, tem-se admitido a possibilidade do Juízo de Segundo Grau examinar a questão para efeito de excluí-la da pronúncia, desde que seja impertinente ou que esteja manifestamente divorciada do contexto dos autos, o que não restou claramente demonstrado.
+Na espécie, os testemunhos acima citados descrevem a prática do crime de maneira a diminuir a possibilidade de resistência da vítima, considerando estar ela desarmada no momento dos fatos, assim como, por haver relação de amizade entre o acusado e o ofendido, o que, em tese, faria com que este sequer desconfiasse de alguma ação agressiva por parte daquele.
+Assim, desaconselhável a esta colenda Câmara Criminal desde logo afastar a circunstância qualificadora.
+Dessa forma, a inversão do que ficou decidido, como pretende o agravante, demanda o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+Nesse sentido, destaco o seguinte precedente:
+ ..
+4. A pretensão de impronúncia ou de desclassificação da conduta para o crime de homicídio privilegiado ou de lesões corporais, tal como pleiteada nas razões recursais, demanda, como ressaltado no decisum reprochado, nova incursão no acervo, tarefa obstada pela Súmula 7/STJ (AgRg no AREsp n. 1.651.852/MG, Ministro Felix Fischer, Quinta Turma, DJe 19/5/2020).
+ ..
+(EDcl no AgInt no REsp n. 1.838.360/RS, de minha relatoria, Sexta Turma, DJe 9/9/2020).
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. TRIBUNAL AFIRMA, COM BASE NOS ELEMENTOS DE PROVA, ESTAR COMPROVADA A MATERIALIDADE E EXISTIREM INDÍCIOS DE AUTORIA SUFICIENTES PARA A PRONÚNCIA. ALTERAR A CONCLUSÃO DO ACÓRDÃO DEMANDA REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial
