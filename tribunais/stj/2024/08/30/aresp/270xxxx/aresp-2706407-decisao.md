@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CASILLO ADVOGADOS - SOCIEDADE DE ADVOGADOS contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Paraná, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE INCLUSÃO DOS SÓCIOS DA EMPRESA DEVEDORA NO POLO PASSIVO. INDEFERIMENTO. EXTINÇÃO DA PESSOA JURÍDICA NÃO COMPROVADA. AUSÊNCIA DE PROVA DE QUETENHA HAVIDO O ENCERRAMENTO, AINDA QUE IRREGULAR, DA EMPRESA, BEM COMO DISTRIBUIÇÃO DE PATRIMÔNIO E/OU ATIVOS ENTRE OS SÓCIOS. PARALISAÇÃO DAS ATIVIDADES COMERCIAIS QUE NÃO IMPLICA EM SUCESSÃO PROCESSUAL DOS SÓCIOS. PRECEDENTES. DECISÃO ACERTADA. RECURSO NÃO PROVIDO.
+Opostos embargos declaratórios foram rejeitados, conforme ementa a seguir transcrita:
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE INCLUSÃO DOS SÓCIOS DA EMPRESA DEVEDORA NO POLO PASSIVO. INDEFERIMENTO. INEXISTÊNCIA DE OMISSÕES. RAZÕES DE DECIDIR CLARAS E QUE CONSIDERAM A SITUAÇÃO FÁTICA POSTA NOS AUTOS. PARALISAÇÃO DAS ATIVIDADES COMERCIAIS QUE NÃO IMPLICA EM SUCESSÃO PROCESSUAL DOS SÓCIOS. AUSÊNCIA DE DEMONSTRAÇÃO DAS HIPÓTESES PREVISTAS NO ART. 1.022, DO CPC. INTUITO DE REFORMAR O MÉRITO DO ACÓRDÃO. DESCABIMENTO. EMBARGOS CONHECIDOS E NÃO ACOLHIDOS.
+Irresignada, CASILLO ADVOGADOS - SOCIEDADE DE ADVOGADOS interpôs recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 110 e 1.022, II, do CPC, ao argumento de (1) omissão por parte do acórdão recorrido que, mesmo instado, não se pronunciou acerca de o pedido de redirecionamento da execução ser diverso das hipóteses previstas no artigo 50 do CPC e (2) irregularidade no encerramento da empresa, devendo, portanto, ser admitida a sucessão processual, para direcionar a execução para os sócios da empresa por responsabilidade limitada pelas obrigações assumidas, sem a necessidade de desconsideração da personalidade.
+O recurso especial não foi admitido pelo Tribunal de Justiça do Paraná por não configurar omissão no acórdão recorrido e por incidir, no caso, o teor da Súmula nº 7 do STJ (e-STJ, fls. 144/147).
+Nas razões do presente agravo, CASILLO ADVOGADOS - SOCIEDADE DE ADVOGADOS refuta o referido óbice de prelibação (e-STJ, fls. 150/167).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da apontada omissão no acórdão recorrido
+CASILLO ADVOGADOS - SOCIEDADE DE ADVOGADOS apontou omissão por parte do acórdão recorrido que, mesmo instado, não se pronunciou acerca de o pedido de redirecionamento da execução ser diverso das hipóteses previstas no artigo 50 do CPC e
+Todavia, não se verifica nos autos omissão por parte do acórdão recorrido, apenas decisão contrária à pretensão da parte.
+O Tribunal estadual decidiu a controvérsia da seguinte forma:
+Como se percebe, portanto, o deferimento do pedido de sucessão exige a extinção da personalidade jurídica da empresa. Decorre do término do procedimento de liquidação da sociedade empresária e da baixa perante a junta comercial estadual, o que não ocorreu no caso dos autos, conforme a prova havida.
+Repita-se, no caso em apreço não há informações acerca da extinção da pessoa jurídica "Roferma Representações Ltda.", tampouco se houve partilha entre os sócios de patrimônio e/ou ativos.
+Ao contrário do que faz crer o Agravante, não se verifica, pelas provas colacionadas aos autos, a ocorrência da extinção da pessoa jurídica devedora (ainda que de forma irregular), mas tão somente a paralisação de suas atividades comerciais.
+Registre-se, inclusive, que a empresa devedora continua ativa perante a Receita Federal Brasileira (mov. 68.3) e não há nos autos demonstração de modificação de status na Junta Comercial.
+Não se pode presumir que o fato de a empresa estar paralisada significa que houve encerramento de suas atividades, tampouco irregularidade, não sendo causa, portanto, que imponha a substituição pelos sócios neste momento.
+Com a precariedade da prova havida nos autos, a inclusão dos sócios no polo passivo da ação confunde-se com antecipada e prematura desconsideração da personalidade jurídica da empresa envolvida, o que, evidentemente, não se pode admitir.
+A empresa executada é de sociedade limitada e o agravante não apresentou indicativos de distribuição de eventual patrimônio ativo remanescente da empresa perante os sócios, ou qualquer outra informação acerca da empresa ou tentativa de localização de bens.
+Portanto, não havendo provas da extinção da empresa (regular ou não), bem como da falta de bens capazes de satisfazer o crédito exequendo, subsiste para todos os efeitos legais a personalidade jurídica da sociedade, não sendo admitido o redirecionamento da execução, em face dos sócios, quando existe meio específico para tal, conforme art. 133 e seguintes do Código de Processo Civil (e-STJ Fls.58/59).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(2) Da sucessão processual
+CASILLO ADVOGADOS - SOCIEDADE DE ADVOGADOS alegou irregularidade no encerramento da empresa, devendo, portanto, ser admitida a sucessão processual, para direcionar a execução para os sócios da empresa por responsabilidade limitada pelas obrigações assumidas, sem a necessidade de desconsideração da personalidade.
+Todavia, levando-se em consideração os fundamentos do acórdão recorrido acima transcritos, conclui-se que rever os termos do julgado do TJPR, quanto ao pedido de inclusão dos sócios no polo passivo do cumprimento de sentença, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda n.º 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para CONHECER em PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+P ublique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. OMISSÃO. NÃO OCORRÊNCIA. INCLUSÃO DOS SÓCIOS NO POLO PASSIVO. INDEFERIMENTO. EXTINÇÃO DA PESSOA JURÍDICA. NÃO COMPROVAÇÃO. DESCONSTITUIÇÃO DOS TERMOS DO ACÓRDÃO RECORRIDO. MPOSSIBILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA. VEDAÇÃO. SÚMULA Nº 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL, E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
