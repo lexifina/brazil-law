@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática que deu parcial provimento ao recurso especial defensivo, a fim de desclassificar a imputação (e-STJ, fls. 5.530-5.534).
+A parte embargante afirma que a decisão seria contraditória, ao desconsiderar a incidência da Súmula 7/STJ e decisões anteriores desta Corte desfavoráveis à defesa. Afirma que foram extrapolados "os limites constitucionais de atuação das instâncias superiores na apreciação dos recursos referentes aos julgamentos pelo Tribunal do Júri" (e-STJ, fl. 5.544), com um "exame indevido sobre o dolo" (e-STJ, fl. 5.545).
+Pede, ao final, o provimento dos aclaratórios, para sanar os supostos vícios apontados.
+É o relatório.
+Decido.
+Os embargos não merecem ser acolhidos.
+Dispõe o art. 619 do CPP:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Cumpre registrar que os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+Observa-se que a decisão embargada declinou, claramente, as razões para a desclassificação da conduta, pautada na compreensão - amparada pela jurisprudência mais recente da Quinta Turma - de que o in dubio pro societate não tem aplicação na aferição do dolo, mesmo na etapa da pronúncia. As decisões anteriores em processos conexos citadas pelo MPF (HC 504.202/RJ e RHC 62.997/RJ) não se debruçaram sobre o tema, de modo que não há nenhuma contradição entre elas e a decisão embargada.
+Aliás, a contradição tratada no art. 619 do CPP é somente aquela interna, entre as premissas e conclusões da própria decisão, e não a contradição entre a decisão e a interpretação que a parte dá aos fatos ou ao direito. Nesse sentido:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ART. 619 DO CÓDIGO DE PROCESSO PENAL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+3. "A contradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com tese, lei ou precedente tido pelo Embargante como correto" (EDcl no AgRg no AREsp n. 1275606/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/9/2018, DJe 11/10/2018).
+4. Embargos de declaração rejeitados".
+(EDcl no AgRg nos EDcl no HC 594.988/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 15/03/2021)
+"PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. 1. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. 2. TEMA NÃO TRAZIDO NO MANDAMUS. AUSÊNCIA DE OMISSÃO. CONTRADIÇÃO COM O DISPOSTO NA SENTENÇA. NÃO CABIMENTO DE EMBARGOS. CONTRADIÇÃO QUE DEVE SER INTERNA. 3. POSSIBILIDADE DE EXAME DE OFÍCIO. PRINCÍPIO DA ISONOMIA. FIXAÇÃO DO REGIME ABERTO. 4. EMBARGOS DE DECLARAÇÃO REJEITADOS. CONCESSÃO DA ORDEM DE OFÍCIO, PARA FIXAR O REGIME ABERTO, COM EXTENSÃO A CORRÉU.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão, que concedeu a ordem de ofício, não viabiliza a oposição dos aclaratórios.
+2. Não se verifica omissão, uma vez que o impetrante não trouxe nenhuma argumentação referente à necessidade de modificação do regime de cumprimento da pena. Ademais, a contradição que autoriza a utilização dos aclaratórios é aquela interna ao próprio voto e não em relação a fatos externos, normas ou entendimentos proferidos em outras decisões. Dessa forma, eventual contradição do entendimento assentado no voto embargado, em relação ao que ficou assentado na sentença condenatória e mantido no acórdão impugnado, não autoriza a oposição de aclaratórios.
+ ..
+4. Embargos de declaração rejeitados. Ordem concedida de ofício, em observância ao princípio da isonomia, para fixar o regime aberto para cumprimento da pena do paciente, com extensão ao corréu Adail, paciente no Habeas Corpus n. 502.870/SP, com fundamento no art. 580 do Código de Processo Penal".
+(EDcl no HC 518.301/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/09/2019, DJe 04/10/2019).
+Logo, as supostas contradições suscitadas nestes aclaratórios não se adequam ao art. 619 do CPP, por tratarem do confronto entre a decisão embargada e a leitura que o MPF faz do direito posto. Os argumentos da parte embargante (sobretudo aqueles relacionados aos limites da cognição judicial na pronúncia) demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão incabível na estreita via dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se. Em seguida, voltem os autos conclusos para o julgamento do agravo regimental.
+ EMENTA
