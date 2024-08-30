@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por A&T MEDICINA PERSONALIZADA LTDA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+A decisão retro foi omissa em relação ao fato de que o recurso especial foi interposto com base na alínea "c" do artigo 105, III, da Constituição Federal, mas o TRF4 fala que por ter sido inadmitido pela alínea "a", a alínea "c" (real fundamento) não seria analisada: "em relação à interposição do recurso com fundamento na divergência jurisprudencial, nos termos da jurisprudência do STJ, o óbice imposto à admissão do recurso pela alíneaado permissivo constitucional impede a análise recursal pela alínea c.
+Como visto, a decisão é inegavelmente genérica, não se aplica ao caso concreto, e deveria ser anulada, para que, com nova decisão, caso fosse adequadamente fundamentada, permitisse o manejo de eventuais recursos cabíveis.
+E ainda que não fosse necessário, foi exposto que em relação ao tema repetitivo, também houve carência de fundamentação. Portanto, primeiro precisamos ter uma decisão fundamentada, para que depois possa-se ser apresentado um recurso adequado em relação ao mérito.
+Se a decisão é literal no sentido de que não analisou o recurso com base na alínea "c", por supostamente ter sido inadmitido pela alínea "a", quem garante que o restante do texto é coerente com a situação concreta dos autos  (fl. 304).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada, Súmula 7/STJ, conforme exigido pelo art. 253, parágrafo único, do RISTJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
