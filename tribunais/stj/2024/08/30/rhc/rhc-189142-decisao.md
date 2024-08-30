@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por WEVERTON NEPOMUCENO DE SANTANA, contra acórdão do Tribunal de Justiça do Estado de Goiás que denegou a ordem originária, em acórdão assim ementado:
+"HABEAS CORPUS EM EXECUÇÃO PENAL. ROUBO QUALIFICADO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. PROGRESSÃO DE REGIME. NÃO CONHECIMENTO.
+1) No âmbito do Habeas Corpus, inviável o conhecimento de matéria ainda não apreciada no juízo da execução sob pena de supressão de instância. DA EXPEDIÇÃO DO CONTRAMANDADO DE PRISÃO. IMPOSSIBILIDADE.
+2) Em tendo sido fixado o regime fechado para o início do cumprimento da pena, não há ilegalidade da prisão após o trânsito em julgado do processo. ORDEM PARCIALMENTE CONHECIDA E DENEGADA." (e-STJ, fl. 173)
+Consta dos autos que o recorrente foi condenado, definitivamente, a uma pena de 7 anos, 2 meses e 18 dias de reclusão, mais o pagamento de 18 dias-multa, em regime inicial fechado, por infração ao disposto no art. 157, §§ 2º, II, III e V, e 2º-A, do Código Penal.
+Em suas razões de recurso, o recorrente alega que permaneceu preso provisoriamente durante 720 dias, e que o Tribunal de origem deve realizar a detração penal e conceder a progressão de regime, ante o preenchimento dos requisitos. Alega, ainda, que não subsistem motivos para manter o paciente preso.
+Requer a concessão da ordem para determinar a detração do tempo de prisão provisória e a progressão de regime do paciente.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opina pelo desprovimento do recurso.
+É o relatório.
+Decido.
+No caso, a sentença transitou em julgado em 15/05/2023 e o recorrente não se apresentou para o cumprimento da pena privativa de liberdade.
+Quanto a progressão de regime, o Tribunal de origem assim fundamentou pela denegação da ordem (e-STJ, fl. 170 ): "não bastasse isso, denota-se que o paciente possui outras duas condenações transitadas em julgado sob os autos de execução nº0403787-57.2020.8.07.0015 e nº 7000247-55.2022.8.09.0100, que serão unificadas a esta e consequentemente influenciará em novo cálculo para o beneficio da progressão de regime, que deverá ser analisado pelo juízo da execução. Portanto, a análise da progressão de regime pela via eleita é inadequada, não só isso, pelos elementos detido dos autos, torna também temerária, vez que demanda profunda análise probatória."
+Inicialmente, tenho que o pedido de detração da pena não prospera, pois "uma vez que já houve o trânsito em julgado da condenação "tratando-se, agora, do cumprimento de prisão-pena, a pretendida incidência da detração penal deve ser apresentada perante o Juízo das Execuções Penais, a quem cabe a análise do pedido, juntamente com eventual pleito de progressão. (AgRg no HC n. 736.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/05/2022, DJe 16/05/2022.
+Quanto ao regime prisional, consignou-se que "o sentenciado é reincidente, tendo cometido outro delito patrimonial. Assim, bem fixado o regime semiaberto, nos termos do artigo 33, § 2º, alínea b, do Código Penal" (e-STJ, fl. 194).
+A orientação adotada encontra-se em consonância com Súmula 269 do STJ, segundo a qual "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. DETRAÇÃO. IMPOSSIBILIDADE. RÉU MULTIRREINICIDENTE E EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS AVALIADAS EM SEU DESFAVOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicável a detração nos casos em que o regime mais gravoso para o cumprimento da pena foi estabelecido em virtude de o réu ser multirreincidente e de ter circunstâncias judiciais sopesadas em seu desfavor.
+2. Pertinente lembrar que, nos termos da jurisprudência do STJ, "o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado. As alterações trazidas pelo diploma legal supramencionado não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o Magistrado sentenciante não houver adotado tal providência" (AgRg no AREsp n. 1.994.952/MS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/12/2021).
+3. Agravo regimental não provido."
+(AgRg no REsp n. 2.064.100/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. CONSUMAÇÃO. INVERSÃO DA POSSE DA RES FURTIVA. REGIME INICIAL IMEDIATAMENTE MAIS GRAVOSO. SEMIABERTO. REINCIDÊNCIA. SÚMULA N. 269/STJ. DETRAÇÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. INSUFICIÊNCIA. AGRAVO IMPROVIDO.
+1. Conforme a pacífica jurisprudência desta Corte Superior, consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. Não há ilegalidade na fixação do regime imediatamente mais gravoso, o semiaberto, com fundamento na reincidência do acusado, em consonância com Súmula 269 do STJ.
+3. O artigo 387, § 2º, do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas sim acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+4. Mesmo que se procedesse à detração do período de custódia cautelar efetivamente cumprido pelo paciente, o regime inicial prisional semiaberto não seria modificado, diante da reincidência.
+5. O art. 44, II, do Código Penal não admite a substituição da pena privativa de liberdade por restritiva de direitos para o réu reincidente em crime doloso, salvo se, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+6. Agravo regimental improvido."
+(AgRg no REsp n. 1.894.347/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/12/2020, DJe de 10/12/2020.)
+"AGRAVO REGIMENTAL. HABEAS CORPUS. CONTRABANDO. PRETENDIDO AFASTAMENTO DA REINCIDÊNCIA DO PACIENTE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. FALTA DE PROVA PRÉ-CONSTITUÍDA. COAÇÃO ILEGAL INEXISTENTE.
+1. Inviável a análise de eventual ilegalidade no reconhecimento da reincidência do paciente quando não houve debate da instância a quo quanto ao ponto. 2. Ainda que assim não fosse, a impetração não foi instruída com certidão idônea capaz de proporcionar a análise de eventual ilegalidade da condenação utilizada para reconhecer mencionada agravante. Precedentes. DETRAÇÃO. REGIME INICIAL MENOS GRAVOSO. SUBSTITUIÇÃO DA SANÇÃO PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. SENTENCIADO REINCIDENTE. PENA-BASE ACIMA DO MÍNIMO LEGAL. AGRAVO DESPROVIDO.
+1. O estabelecimento do regime inicial de cumprimento não está atrelado ao quantum de pena fixado, devendo ser considerados os ditames estabelecidos nos arts. 59 e 68 do CP.
+2. Na hipótese, verificando-se a reincidência do agravante e considerando-se, ainda, que a pena-base foi estabelecida acima do mínimo legal em razão da grande quantidade de cigarros apreendidos, de rigor a manutenção do regime inicial mais gravoso, o afastamento da permuta da pena privativa de liberdade por restritivas de direitos e, ainda, a inviabilidade da detração do tempo em que permaneceu cautelarmente custodiado o paciente, considerando que, a despeito do quantum de pena ser inferior a 4 anos de reclusão, a fixação do modo de cumprimento observou a reincidência do acusado e a desfavorabilidade das circunstâncias judiciais.
+3. Recurso desprovido."
+(AgRg no HC n. 499.357/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 10/9/2019, DJe de 23/9/2019.)
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
