@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, proposta por CARLOS FABRÍCIO PIRES PADILHA, com fundamento no art. 988 e seguintes do CPC/2015, contra acórdão da Primeira Turma desta Corte de Justiça, proferido nos autos do Agravo Interno no AREsp 2.465.154/SC, de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+A parte reclamante sustenta, em síntese, que a decisão reclamada carece da devida fundamentação, pois não emitiu nenhum juízo de valor sobre as teses recursais apresentadas no agravo interno e no recurso especial, notadamente sobre a negativa de vigência dos arts. 6º, 11 e 489, §1º, DO CPC/2015, padecendo o julgado mesmo vício do acórdão recorrido proferido pel o Tribunal de origem.
+Requer o provimento do agravo interno, a fim de que seja reformada a decisão de inadmissibilidade do agravo e, por conseguinte, recebido e provido o recurso especial, com a análise do mérito.
+Passo a decidir.
+Nos termos do art. 105, I, "f", da CF, c/c o art. 988 do CPC/2015, e do art. 187 do RISTJ, cabe reclamação da parte interessada para preservar a competência do Tribunal, para garantir a autoridade das suas decisões, para observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade e para observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+In casu, verifica-se a inadequação da via eleita, já que a presente reclamação não se enquadra nas hipóteses acima destacadas.
+Com efeito, alega o reclamante que o aresto ora atacado carece de fundamentação, pois "não fez concatenação com as teses apresentadas no Agravo Interno e no Recurso Especial, de modo que não deliberou sobre os argumentos concretos recursais", quais sejam, negativa de vigência dos arts. 6º, 11, e 489, §1º, do CPC/2015 (e-STJ fl. 08).
+Ocorre que reclamação não pode ser utilizada, por ausência de previsão legal e constitucional, para impugnar acórdão do próprio Superior Tribunal de Justiça, hipótese em que serviria como simples sucedâneo recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NA RECLAMAÇÃO. ACÓRDÃO RECLAMADO PROFERIDO PELO PRÓPRIO STJ. NÃO CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão, publicada na vigência do CPC/2015, que não conheceu da presente Reclamação.
+II. Reclamação ajuizada com o objetivo de cassar acórdão proferido pela Segunda Turma do STJ, que, nos autos do AREsp 1.544.475/MS, deu provimento ao Recurso Especial interposto pelo ora agravado, para o fim de determinar o recebimento de inicial de Ação Civil Pública por ato de improbidade administrativa em relação ao ora agravante. A parte agravante sustenta, em síntese, que o acórdão reclamado teria divergido do entendimento adotado pela Segunda Turma do STJ no julgamento do AREsp 1.564.686/MS, envolvendo outro réu da mesma da ação por improbidade administrativa, no qual o Recurso Especial do Parquet Estadual não fora conhecido, com base na Súmula 7/STJ.
+III. Nos termos do art. 105, I, f, da Constituição Federal e 988 do CPC, a Reclamação tem como finalidade preservar a competência do Superior Tribunal de Justiça ou garantir a autoridade de suas decisões, sempre que haja indevida usurpação, por parte de outros órgãos, de sua competência constitucional.
+IV. No caso, não se verifica qualquer das hipóteses preconizadas pelo texto constitucional, pois a parte reclamante procura, na verdade, utilizar-se da Reclamação como sucedâneo recursal, o que não é cabível.
+V. Na forma da jurisprudência do Superior Tribunal de Justiça, "a reclamação dirigida ao STJ destina-se a preservar sua competência e garantir a autoridade de suas decisões, não sendo via própria, por ausência de previsão legal e constitucional, para impugnar julgado desta Corte Superior, hipótese em que serviria como simples sucedâneo do recurso originalmente cabível" (STJ, AgInt na Rcl 39.476/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, DJe de 21/09/2021).Nesse sentido: STJ, AgInt na Rcl 41.549/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 07/06/2021; AgInt na Rcl 39.671/GO, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe de 26/05/2020; AgInt na Rcl 36.414/AM, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 05/06/2019; AgRg na Rcl 5.874/DF, Rel. Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, DJe de 26/09/2011.
+VI. Agravo interno improvido.
+(AgInt nos EDcl na Rcl 42.324/DF, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 4/10/2022, DJe de 7/10/2022.).
+PROCESSO CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AJUIZAMENTO PARA IMPUGNAR ACÓRDÃO DO PRÓPRIO STJ. MANIFESTO DESCABIMENTO. RECURSO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. É manifestamente descabida a reclamação dirigida a esta Corte Superior contra acórdão proferido por um de seus órgãos jurisdicionais, mormente porque ausente vinculação entre a autoridade reclamada e o juízo a que foi submetida a presente reclamatória. Nesse sentido: AgRg na Rcl 2.540/DF, Rel.
+Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 25/08/2010, DJe 10/09/2010; AgRg na Rcl 5.123/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23/03/2011, DJe 19/04/2011;
+AgRg na Rcl 5.874/DF, Rel. Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, julgado em 31/08/2011, DJe 26/09/2011.
+2. No caso, a parte ajuizou reclamação contra acórdão proferido pela Primeira Seção do STJ que indeferiu liminarmente ação rescisória.
+Não faz sentido reconhecer que o órgão judicial reclamado tenha usurpado sua própria competência para julgamento da ação rescisória, nos termos regimentais.
+3. De acordo com a jurisprudência do STJ, é inadmissível o ajuizamento de reclamação como sucedâneo de recurso.
+4. A insistência da parte na utilização de instrumento processual manifestamente descabido autoriza a aplicação da multa prevista no art. 1.021, § 4º, do CPC, que deve ser fixada, na situação em apreço, no percentual mínimo de 1% (um por cento) sobre o valor atualizado da causa.
+5. Agravo interno a que se nega provimento, com aplicação de multa.
+(AgInt na Rcl 41.549/RS, relator Ministro Og Fernandes, Primeira Seção, julgado em 1/6/2021, DJe de 7/6/2021.).
+AGRAVO REGIMENTAL NA RECLAMAÇÃO CONSTITUCIONAL. ACÓRDÃO IMPUGNADO EMANADO DO PRÓPRIO SUPERIOR TRIBUNAL DE JUSTIÇA. INCABÍVEL A RECLAMAÇÃO. PRECEDENTES. PETIÇÃO LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a competência originária desta Corte para processar e julgar reclamação, prevista nos arts. 105, I, f, da Constituição Federal, e 187 do RISTJ, limita-se à preservação de sua competência ou à garantia da autoridade de suas próprias decisões, não sendo admissível o seu uso quando a autoridade reclamada for órgão julgador do próprio STJ." (AgRg na Rcl 29.987/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/04/2016, DJe 19/04/2016).
+2. Não é outra a hipótese dos autos, cujo escopo preconizado na exordial é fazer prevalecer a tese segundo a qual o acórdão proferido quando do julgamento do AgInt no AREsp n.º 1.530.673/GO, proferido pela Segunda Turma do STJ, estaria em desconformidade com o estabelecido pela Corte Especial desta Corte Superior de Justiça no RESp n.º 1.813.684/SP.
+3. Agravo regimental desprovido.
+(AgInt na Rcl 39.671/GO, relatora Ministra Laurita Vaz, Corte Especial, julgado em 12/5/2020, DJe de 26/5/2020.).
+Ante o exposto, nos termos do art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO da presente reclamação, por ser manifestamente incabível. Fica PREJUDICADO o pleito liminar.
+Publique-se. Intimem-se.
+EMENTA
