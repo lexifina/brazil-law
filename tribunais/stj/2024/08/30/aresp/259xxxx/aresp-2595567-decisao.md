@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por HELGA RENZ VOGEL contra decisão do TRIBUNAL DE JUSTIC A DO ESTADO DO RIO GRANDE DO SUL, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 772):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. COMPLEMENTAÇÃO DE APOSENTADORIA. PRESCRIÇÃO. TRATO SUCESSIVO. AUSÊNCIA DE FONTE DE CUSTEIO. IRRETROATIVIDADE DA LEI.
+1. Conforme entendimento do STJ, o pedido de complementação de aposentadoria "se traduz em prestação de caráter sucessivo, uma vez que se renova a cada mês de pagamento equivocado dos proventos", não havendo se falar em prescrição do fundo de direito.
+2. Inexistente instituição de fundo de custeio da complementação da aposentadoria, inviável seu pagamento, ainda que existente previsão legal para sua realização.
+3. Previsão legal de instituição da complementação criada somente após a aposentadoria da parte autora, sem retroação de seus efeitos, a impedir a pretensão.
+APELAÇÃO PROVIDA. NA FORMA DO ART. 1.013, § 4, DO CPC, JULGADOS IMPROCEDENTES OS PEDIDOS.
+Rejeitados os aclaratórios (e-STJ fls. 895/898).
+No especial obstaculizado, a parte recorrente, além de divergência jurisprudencial, apontou violação dos arts. 489, §§ 1º e 3º, 1.022, I e II, parágrafo único, I e II, do CPC/2015 e 6º, § 2º, da Lei de Introdução às normas do Direito Brasileiro, sustentando negativa de prestação jurisdicional respeitante à efetiva existência de norma municipal prevendo fonte de custeio, bem como conferindo o direito à complementação dos seus proventos de aposentadoria vindicada. Reiterou, na sequência, tais teses como aptas à reforma do julgado.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 1.219/1.231.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 489, §§ 1º e 3º, 1.022, I e II, parágrafo único, I e II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+No caso, entendeu o Tribunal a quo que (e-STJ fls. 767/769, com destaques no original):
+Contudo, a pretensão não prospera. A uma, não há indicação nos autos da existência da instituição de fundo de custeio para o pagamento da complementação, como determinado pelo caput do art. 40 da Constituição Federal, na redação anterior à EC nº 103/19, que assegura ao servidor "regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial" (grifei).
+ ..
+Registro que lacuna legislativa semelhante, mas relativa a Município distinto, já foi inclusive objeto de Mandado de Injunção concedido neste órgão fracionário:
+ ..
+A duas, pois no caso do Município de Venâncio Aires, a lei que instituiu a complementação de aposentadoria (art. 238, § 3º, da Lei nº 1.573/92) é posterior à própria inativação da parte autora, ocorrida em 1983.
+Neste contexto, considerada a ausência de comando expresso da retroação de seus efeitos, inaplicável o comando estatutário criado pela lei de regência quando a parte autora já havia cessado o vínculo ativo perante a municipalidade.
+Assim, observa-se que a Corte local enfrentou diretamente a controvérsia a respeito da (in)existência de fonte de custeio para o direito pleiteado e inaplicabilidade da legislação municipal editada em momento posterior à aposentadoria da parte adversa, evidenciando-se inexistir omissão quanto aos temas.
+No  que  toca  à  alegação  de  contrariedade  do  art.  6º, § 2º, da Lei de Introdução às normas do Direito Brasileiro,  registre-se  que  o  presente  apelo  nobre  carece  do  requisito  constitucional  do  prequestionamento.
+Conquanto  não  seja  exigida  a  menção  expressa  do  dispositivo  de  lei  federal,  a  admissibilidade  do  recurso  na  instância  excepcional  pressupõe  que  a  Corte  de  origem  tenha  se  manifestado  sobre  a  tese  jurídica  apontada  pelo  recorrente.  Esse  é  o  entendimento  pretoriano  consagrado  na  edição  da  Súmula  282  do  STF:  "é  inadmissível  o  recurso  extraordinário,  quando  não  ventilada,  na  decisão  recorrida,  a  questão  federal  suscitada."
+Ademais,  no que toca à alegação de contrariedade do art. 6º, § 2º, da Lei de Introdução às normas do Direito Brasileiro, a argumentação do apelo nobre centra-se na necessidade de apreciação da legislação municipal.
+Nesse passo, deve-se destacar ser notório que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a legislação local, conforme a inteligência da Súmula 280 do STF.
+Ainda, vê-se que analisou o Tribunal de Justiça o cabimento da complementação discutida nos autos a partir das análise dos dispositivos pertinentes da legislação do município recorrido.
+Dessa forma, a revisão das razões de decidir do acórdão recorrido também encontra óbice na Súmula 280 do STF.
+Por fim, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
