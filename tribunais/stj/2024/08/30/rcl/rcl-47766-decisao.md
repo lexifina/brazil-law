@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de reclamação constitucional ajuizada com o objetivo de impugnar ato que se atribui ao TJSP, consubstanciado no acórdão proferido no agravo de instrumento autuado sob o n. 2052302-35.2024.8.26.0000, assim ementado (e-STJ, fl. 48/53):
+JUSTIÇA GRATUITA Deferimento tácito do benefício - Não cabimento, tendo em conta as peculiaridades do caso em análise Documentos apresentados que não demonstram a alegada hipossuficiência, não havendo prova inequívoca de piora da situação financeira Percepção mensal de quantia superior a três salários- mínimos Agravo de instrumento não provido.
+Na petição inicial (e-STJ, fls. 3/11), aduz o reclamante que a conclusão do aresto conflita com o entendimento firmado pela Corte Especial do STJ no AgRg nos EDiv no AgREsp n. 440.971/RS - do qual não é parte -, desafiando a autoridade das decisões proferidas por este Tribunal Superior. Defende que, tendo formulado pedido de gratuidade de justiça na demanda originária, conquanto não apreciado o requerimento, cabe entender que a benesse foi deferida tacitamente, de sorte que suspensa a exigibilidade dos honorários advocatícios sucumbenciais a que fora condenado.
+Requer o deferimento de tutela de urgência e, ao fim, formula pedido nos seguintes termos (e-STJ, fls. 10/11):
+Ante todo o exposto, requer:
+1º. Seja admitida e PROVIDA a presente Reclamação para cassar o acórdão proferido pela Ilma. 33ª Câmara de Direito Privado do TJSP, nos autos do Agravo de Instrumento nº 2137838-48.2023.8.26.0000, nos termos do artigo 992 do CPC, além de sustar de imediato os efeitos deste acórdão, que contraria o que foi decidido no AgRg nos EmbDiverg em AgREsp nº 440.971, nos termos do artigo 993 do CPC, para que se alinhe aos preceitos estabelecidos;
+2º. Seja determinado a requisição de informações da autoridade cujo ato foi impugnado, ressaltando que deverão ser prestadas no prazo máximo de 10 (dez) dias, conforme artigo 989, I, do CPC;
+3º. Sejam os autos Agravo de Instrumento nº 2137838-48.2023.8.26.0000 suspenso, mantendo a liminar de suspensão do feito originário, de modo a evitar dano irreparável ocasionado pelo superveniente trânsito em julgado do acórdão, nos termos do artigo 989, II, do CPC, até que seja decidida definitivamente esta Reclamação;
+4º. Seja o beneficiário da decisão ora impugnada citado para apresentar contestação em 15 (quinze) dias, nos termos do artigo 989, III, do CPC;
+5º. Para demonstrar a veracidade dos fatos alegados, protesta por todos os meios de prova em direito admitidos, em especial a oitiva de testemunhas, juntada de documentos novos, exibição de documentos, realização de perícias e demais providências que se fizerem necessárias no decorrer da instrução.
+É o relatório.
+Decido.
+Conforme orienta a jurisprudência desta Corte Superior, " a  reclamação (art. 105, I, f, da Constituição da República) tem por finalidade tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recusal" (AgInt na Rcl n. 36.756/MG, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 20/8/2019, DJe de 23/8/2019).
+No mesmo sentido, ainda: AgInt na Rcl n. 45.565/PR, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 28/5/2024, DJe de 4/6/2024; AgInt na Rcl n. 46.424/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/3/2024, DJe de 22/3/2024; AgInt na Rcl n. 42.586/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022; AgRg na Rcl n. 44.082/PR, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 9/8/2023, DJe de 14/8/2023, dentre outros.
+Em razão do exposto, INDEFIRO LIMINARMENTE a reclamação, julgando extinto o processo, sem a resolução do mérito.
+Prejudicado o pedido de tutela provisória de urgência.
+Publique-se. Intimem-se.
+EMENTA
