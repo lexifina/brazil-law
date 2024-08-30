@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pela MEGA COMERCIAL DE PRODUTOS ELETRONICOS LTDA., com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 200):
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS). CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). CREDITAMENTO. ICMS. TEMA 756/STF. TEMA 69/STF. IMPOSSIBILIDADE.
+1. Os valores de ICMS destacados nas notas  scais de compra não são aptos ao creditamento em PIS e COFINS não-cumulativo, frente à expressa previsão do art. 3º, §2º, III, das Leis 10.637/2002 e 10.833/2003, incluído pela Lei 14.592/23, cuja legalidade e constitucionalidade é reconhecida dado o entendimento firmado pelo Tema 756/STF.
+2. O Tema 69/STF afastou da base de cálculo do PIS/COFINS os valores referentes ao ICMS, não se admitindo o creditamento de tais valores (ICMS) em PIS/COFINS, por força do art. 3º, §2º, II, das Leis 10.637/2002 e 10.833/2003.Embargos de declaração rejeitados (e-STJ fls. 264/268).
+No seu recurso especial, a parte recorrente aponta violação dos arts. 2º e 3º das Leis n. 10.637/2002, n. 10.833/2003, sob o fundamento essencial de que "deve ser reconhecido o direito de apuração de créditos de contribuição para o PIS e COFINS pela impetrante sobre os valores relativos ao ICMS incidente nas operações de aquisição, na medida que a sua vedação pela MP n. 1.159/2023 e pela Lei n. 14.592/2023 implica violação do primado constitucional da não cumulatividade" (e-STJ fl. 239).
+Requer a reforma do julgado e "a declaração do direito à restituição/compensação dos valores pagos a maior dentro do prazo prescricional, devidamente atualizados pela Taxa Selic, podendo compensar esses créditos com qualquer tributo administrado pela Receita Federal do Brasil" (e-STJ fl. 253).
+Com contrarrazões, o recurso especial foi admitido na origem (e-STJ fl. 293).
+O parecer conclusivo do MPF (e-STJ fls. 311/313) opina pelo não conhecimento do recurso especial.
+Passo a decidir.
+O recurso não comporta êxito, pois a questão foi resolvida com base em temática de estatura constitucional, a impedir a revisão da tese em sede de recurso especial, sob pena de usurpação da competência do STF.
+De fato, no caso, a ora recorrente busca, no presente mandado de segurança, expressamente, afastar disposições contidas em lei federal (MP 1.159/2023 e Lei n. 14.592/2023), a fim de que possa se creditar de valores da Contribuição ao PIS e da COFINS relativos à parcela de ICMS incidente nas operações de aquisição de bens ou serviços. Transcreve-se o pedido formulado na petição inicial, que bem demonstra essa compreensão (e-STJ fl. 18):
+ ..  seja CONCEDIDA A SEGURANÇA, a fim de declarar o direito da Impetrante de apurar a base de crédito de PIS/COFINS considerando o ICMS incidente nas operações de aquisição, nos termos do art. 3º, § 1º, das Leis nº10.637/02 e 10.833/03, afastando as alterações promovidas pela Medida Provisória nº 1.159/23, que incluiu o inciso III, no §2º, do art. 3º, das Leis nº10.637/02 e 10.833/03, em virtude da violação a sistemática da não cumulatividade do PIS/COFINS, especialmente o Método Subtrativo Indireto; (Grifos acrescidos).
+Cabe ponderar que, nos termos da Súmula Vinculante 10, "o afastamento da incidência de lei, mesmo sem declaração expressa de inconstitucionalidade, exige a observância da cláusula de reserva de plenário" (Rcl 27.169-AgRg, relator Ministro Roberto Barroso, Primeira Turma, julgado em 29/05/2018, DJe 25/06/2018).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
