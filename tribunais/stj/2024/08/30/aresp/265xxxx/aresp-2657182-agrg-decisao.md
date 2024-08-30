@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Jonathas Sampaio contra decisão monocrática da lavra da então Ministra Presidente desta Corte, que não conheceu do agravo pela ausência de impugnação dos fundamentos da decisão denegatória de admissibilidade (Súmula 182/STJ).
+O agravante alega que todos os fundamentos da decisão denegatória de admissibilidade foram impugnados.
+É o relatório. Decido.
+Compulsando-se os autos, verifica-se que procede a argumentação trazida no agravo regimental. Passa-se, então, ao reexame do recurso especial.
+Extrai-se dos autos que o recorrente foi condenado às penas de 9 anos e 26 dias de reclusão e 4 anos e 9 meses de reclusão, pelo cometimento dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006, respectivamente.
+Sobre a tese de ausência de provas para a condenação, assinala-se que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+Quanto à alegação de bis in idem na utilização das condenações para exasperar a pena-base e para reconhecer a reincidência na segunda fase da dosimetria, também sem razão a defesa, isso porque em cada uma das fases foi considerada condenação distinta, conforme destacado no acórdão à e-STJ fl. 707.
+Nessa linha, já se decidiu:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGOS 163, PARÁGRAFO ÚNICO, III, E ART. 348 C/C ART. 14, II, DO CÓDIGO PENAL. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PENA-BASE. MAUS ANTECEDENTES E REINCIDÊNCIA. AUSÊNCIA DE BIS IN IDEM. REGIME MAIS GRAVOSO. SÚMULA 269/STJ. ISENÇÃO OU SOBRESTAMENTO DA PENA DE MULTA. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. No tocante ao reconhecimento dos maus antecedentes, fora utilizada condenação diversa da reincidência, não havendo qualquer ilegalidade, uma vez que a jurisprudência desta Corte Superior é no sentido de que, havendo múltiplas condenações, não há que se falar em bis in idem na consideração de fatos distintos para fins de maus antecedentes e reincidência.
+3. No que tange ao regime inicial de cumprimento de pena, de acordo com a Súmula n. 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior à inicial de quatro anos, se favoráveis as circunstâncias judiciais.
+No caso em análise, embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 4 (quatro) anos de detenção, o regime inicial semiaberto encontra-se justificado, uma vez que além da reincidência, houve a consideração de circunstância judicial negativa (antecedentes) para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ.
+4. A questão acerca da isenção ou sobrestamento da pena de multa não foi objeto de debate pela instância ordinária, mesmo com a apresentação de embargos de declaração, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento.
+Incidem ao caso as Súmulas n. 211/STJ e 282/STF.
+5. Agravo regimental não provido. (AgRg no AREsp n. 2.584.151/MG, desta Relatoria, DJe de 17/6/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. TESE DE ILEGALIDADE. SUPRESSÃO DE INSTÂNCIA. PENA-BASE. MAUS ANTECEDENTES E REINCIDÊNCIA. AUMENTO DE 1/6 EM CADA FASE DA DOSIMETRIA. CONDENAÇÕES DISTINTAS. NÃO BIS IN IDEM. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. REGI M E FECHADO. CIRCUNSTÂNCIA DESFAVORÁVEL. AGRAVO NÃO PRO VIDO.
+1. A tese de ilegalidade da busca pessoal porque efetivada sem fundadas razões deixou de ser objeto de exame pela Corte de origem, o que impede o conhecimento do tema diretamente por este Superior Tribunal, sob pena de indevida supressão de instância.
+2. A utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda, como ocorreu no caso em apreço.
+3. Tratando-se de réu que ostenta maus antecedentes é incabível a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, sendo certo que a utilização de tal vetor concomitantemente na primeira e na terceira fase da dosimetria não enseja bis in idem.
+4. Estabelecida a pena final em patamar superior a 4 anos e não excedente a 8 anos, o modo fechado é o adequado para o início cumprimento da pena reclusiva, diante das circunstâncias judiciais desfavoráveis (maus antecedentes), nos termos dos arts. 33, §§ 2º e 3º, do Código Penal.
+5. Agravo regimental desprovido. (AgRg no HC n. 862.828/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/3/2024.)
+Ante o exposto, reconsidero a decisão de e-STJ fls. 767/768 e conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
