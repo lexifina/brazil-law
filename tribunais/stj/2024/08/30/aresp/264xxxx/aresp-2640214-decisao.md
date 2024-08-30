@@ -1,0 +1,32 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JOSE ANTONIO DA COSTA, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame.
+Assevera, ainda, que a profissão da esposa, o auxílio de terceiros nas atividades rurais e o fato de haver uma microempresa em nome em seu nome, não descaracterizam a condição de segurado especial, apto a receber a aposentadoria rural. (fl. 306).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+A controvérsia cinge sobre o preenchimento dos requisitos para a concessão de aposentadoria rural.
+O Tribunal a quo fez constar que não estavam comprovados a qualidade de agricultor, bem como o exercício da atividade rural.
+Confira-se (fl. 217-218):
+Os documentos apresentados poderiam, em princípio, ser considerados como início de prova material.
+Contudo, há nos autos documento da Receita Federal, noticiando uma microempresa em nome do autor com atividade principal "tabacaria" no período de 1994 a 2008 e documento do MTE, no qual consta que a esposa do autor é servidora pública estatutária desde 1973, o que demonstra a fragilidade dos documentos acostados aos autos, bem como que a atividade rural não é a atividade principal para a Precedente desta Corte Regional . subsistência do grupo familiar. 1 Ademais, consta no Relatório da "em entrevista realizada às fls. 21 e 22, o entrevistador Segunda Junta de Recursos da Previdência Social: solicita oitiva de confinantes, cujos termos repousam às fls. 28 a 30, em que ficou consignado em um dos termos que o recorrente paga diárias de R$ 10,00, em outro, que recebe ajuda de 4 homens".
+Em relação aos depoimentos prestados em juízo, verifica-se, em atenção ao disposto no citado art. 55, § 3º da Lei nº. 8.213/91 e na Súmula nº 149 do STJ, que os mesmos não possuem sozinhos, idoneidade suficiente para comprovar o exercício da atividade rural. Nesse sentido, há precedentes do STJ . 2
+Não restou provada, portanto, a qualidade de agricultor da parte autora, bem como o exercício da atividade rural pelo período exigido em lei, requisitos para a concessão da aposentadoria por idade na qualidade de segurado especial.
+Por fim, registro que não se aplica o entendimento consagrado pelo STJ no REsp 1352721/SP, julgado sob a sistemática de recurso repetitivo. Indeferimento do pedido não apenas por ausência ou insuficiência de início de prova material, mas também porque há provas nos autos contrárias à pretensão da parte autora. (PROCESSO: 08076059320184058103, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERALFREDERICO WILDSON DA SILVA DANTAS (CONVOCADO), 4ª TURMA, JULGAMENTO:06/04/2021).
+Assim, a pretensão da parte recorrente relativa à violação do art. 11, VII e §9º, da Lei 8.213/91 encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões, do órgão julgador - a fim de aferir os requisitos para a concessão de aposentadoria rural -, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. REGIME DE ECONOMIA FAMILIAR. PROPRIEDADE RURAL. TAMANHO ACIMA DO LEGALMENTE PERMITIDO. REEXAME DE PROVAS. IMPOSSIBILIDADE. REPETIÇÃO DE DEMANDA ANTERIOR. COISA JULGADA. FLEXIBILIZAÇÃO. DESCABIMENTO.
+1. De acordo com o art. 11, VII, "a", item I, da Lei n. 8.213/1991, o proprietário de área agropecuária de até 4 (quatro) módulos fiscais também é considerado segurado especial, sendo certo que, ao interpretar a aludida norma, esta Corte firmou a compreensão de que a extensão da propriedade rural, por si só, não tem o condão de descaracterizar o regime de economia familiar do segurado se preenchidos os demais requisitos legalmente exigidos. Tema 1.115 do STJ.
+2. Caso em que a instância ordinária não reconheceu a condição de segurado especial do recorrente com base no conjunto fático-probatório, cuja revisão esbarra no óbice da Súmula 7 do STJ.
+3. A Corte Especial, no julgamento do REsp 1.352.721/SP, e a Primeira Seção (REsp 1.352.875/SP) decidiram que, no âmbito de demandas previdenciárias, a ausência de conteúdo probatório eficaz a instruir a inicial implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC). Ressalva de entendimento do relator.
+4. A excepcionalidade da flexibilização da norma processual reconhecida em ambos os julgados repetitivos aplica-se ao processo em curso, ainda sem o trânsito em julgado, e não a demandas diversas, já alcançadas pelo efeito da imutabilidade, sendo certo que eventual pretensão de desconstituir a coisa julgada deve ser formulada na via adequada, na forma disciplinada pelo art. 966, VII, do CPC.
+5. Hipótese em que o acórdão da instância ordinária consignou que a parte autora já havia ajuizado uma ação anterior, com o mesmo pedido e causa de pedir, tendo sido julgada improcedente por ausência de prova do labor agrícola.
+6. Agravo interno desprovido.(AgInt no AREsp n. 2.285.370/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
