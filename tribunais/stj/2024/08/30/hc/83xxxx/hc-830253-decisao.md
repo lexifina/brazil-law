@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de AGLANILTON MARINHO DE ARAUJO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0625221-88.2023.806.0000).
+Depreende-se dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes de homicídio qualificado, corrupção de menor, porte ilegal de arma de fogo e receptação.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fls. 13/14):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO, CORRUPÇÃO DE MENORES, PORTEILEGAL DE ARMA DE FOGO E RECEPTAÇÃO. ART. 121, §2º, INC. IV C/C, DO CPB. ART. 14 DA LEI Nº 10.826/03 E ART. 244-B, §2º DOECA. PRISÃO PREVENTIVA.
+1. Na presente ação constitucional de habeas corpus, busca-se a soltura do paciente mediante a alegação excesso de prazo na formação da culpa. O impetrante alega também a fundamentação inidônea do decreto prisional por ausência, no caso concreto, dos requisitos necessários para a decretação da prisão preventiva e ausência de contemporaneidade. Subsidiariamente, requer aplicação de medidas cautelares diversas da prisão..
+2. Tese de excesso de prazo na formação da culpa. Inicialmente, verifica-se que a alegação de excesso de prazo não foi submetida à apreciação da autoridade impetrada, motivo pelo qual o enfrentamento da matéria, per saltum, em sede de habeas corpus, configuraria indevida supressão de instância. Portanto, este mandamus não merece conhecimento quanto a esta causa de pedir. Em análise de ofício, identifico que há elemento capaz de indicar excesso de prazo, na segregação cautelar, imputado à demora dos atos processuais. Ademais, tendo sido encerrada a instrução criminal, com a prolação da decisão de pronúncia, não há que se falar em excesso de prazo para a formação da culpa. Nessa linha de entendimento, o Superior Tribunal de Justiça publicou as Súmulas nº 21 e 52. Ressalta-se, ainda, que na data de ontem, a autoridade impetrada exarou decisão na qual reavaliou e manteve a prisão do paciente.
+3. Tese de ausência de requisitos autorizadores da prisão preventiva e do pleito de aplicação de medidas cautelares diversas da prisão. Preliminarmente, vale esclarecer que as teses descritas foram objeto de deliberação pela 2ª Câmara Criminal deste Tribunal de Justiça no âmbito do Habeas Corpus nº 0633495-75.2022.8.06.0000, julgado em 26/10/2022. Desse modo, é incabível interposição imediata de segundo Habeas Corpus com o objetivo de promover reanálise de questão já decidida em impetração anterior. Incidência do art. 259 do RITJCE.
+4. Da alegada ausência de contemporaneidade do decreto prisional. No presente caso, destaco que não há o que se falar em inexistência de contemporaneidade da referida decisão, porquanto ainda presentes e manifestos os elementos ensejadores desta, notadamente diante da gravidade concreta dos delitos.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada.
+No presente writ, sustenta a defesa haver excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por quase um ano sem que o paciente tenha sido submetido a julgamento pelo Tribunal do Júri.
+Assevera que a manutenção da custódia cautelar na sentença de pronúncia carece de fundamentação idônea e que inexistem elementos contemporâneos aptos a justificar a continuidade da medida extrema. Alega que não mais persistem os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas ao cárcere.
+Liminar indeferida às e-STJ fls. 44/46.
+Prestadas as informações, o Ministério Público Federal opina pela denegação da ordem (e- STJ fls. 75/86).
+É o relatório.
+Decido.
+Conforme informações obtidas no endereço eletrônico do Tribunal de Justiça, verifica-se que, em 27/11/2023, o paciente foi condenado à pena de 19 anos e 10 meses de reclusão, em regime inicial fechado, sendo mantida a sua prisão preventiva.
+Ademais, apurou-se, inclusive, que, no dia 10/7/2024, houve o superveniente julgamento do apelo defensivo, ao qual foi negado provimento e mantida a sentença, de modo que se está diante de novo panorama fático a esvaziar os pleitos aqui formulados.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte Superior, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
