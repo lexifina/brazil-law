@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+RELATÓRIO
+Embargos de declaração opostos por Alexandre Haddad Astolfi ao acórdão da Terceira Seção, assim ementado (fl. 1.096):
+AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AFERIÇÃO DE REGRA TÉCNICA DE CONHECIMENTO RECURSAL. IMPOSSIBILIDADE. PRECEDENTES DA CORTE ESPECIAL. FUNDAMENTO SUBSIDIÁRIO. AUSÊNCIA DE COTEJO ANALÍTICO. DIVERGÊNCIA NÃO COMPROVADA.
+Agravo regimental improvido.
+Nas razões, aduziu que o acórdão padece de omissões.
+Asseverou que a discussão se restringe a divergência quanto à possibilidade de se revalorar o quanto concluído pelo Tribunal a quo e primeira instância acerca da atipicidade do delito de falsidade ideológica ante a ausência de dolo, para meritoriamente analisar as violações levantadas; E o acórdão paradigma apresentado nos embargos trata exatamente desta questão, naquele a súmula 7 foi superada - sequer foi mencionada - para que em sede de Agravo em Recurso Especial fosse reanalisada a questão da atipicidade, igualmente foi o que se pediu no presente caso, avaliada a tese de violação ao art. 386, III do CPP, sem óbice na súmula 7/STJ, ponto este em que o v. acórdão restou omisso, nada deliberando a respeito (fl. 1.109).
+Alegou, ainda, que houve omissão na análise de mérito do recurso, uma vez que a tese foi discorrida de maneira clara, exemplificativa, com citação da decisão guerreada e com expressa citação de paradigma divergente e que amparam o Direito perseguido. sendo que o acórdão paradigma foi citado, bem como restou adequadamente explicitado em quais pontos os casos se assemelhavam possibilitando a exata compreensão do ponto divergente que se pedia pela uniformiza-ão, restando absolutamente satisfeita a análise analítica, constatando-se a contrariedade do v. acórdão nesse quesito (fl. 1.110).
+Pugnou, assim, pela supressão dos vícios apontados, inclusive com a atribuição de efeitos modificativos ao acórdão embargado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO. CARÁTER PROTELATÓRIO. ADVERTÊNCIA.
+Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios são manifestamente improcedentes, pois o acórdão embargado fundamentação clara e suficiente para manter a decisão agravada que indeferiu liminarmente os embargos de divergência opostos pelo embargante, tendo consignado, como fundamento primário, que o tópico tido como objeto de dissenso jurisprudencial (violação do art. 386, III, do CPP) não foi sequer conhecido no acórdão embargado ante a incidência do óbice da Súmula 7/STJ, circunstância que obsta a admissão do reclamo, sendo aplicável o entendimento jurisprudencial segundo o qual se revela inviável o dissenso interpretativo entre julgados quando o acórdão paradigma conhece do recurso e adentra o mérito recursal e o embargado não ultrapassa o juízo de admissibilidade (fl. 1.098); e, como fundamento subsidiário, o fato de que o embargante inobservou as diretrizes estabelecidas em norma regimental para fins de comprovação da divergência, uma vez que apenas transcreveu a ementa do acórdão paradigma, mas não demonstrou, de forma analítica, a identidade fática entre ele e o acórdão impugnado (fl. 1.099).
+Em suma, o acórdão ostenta mais de um fundamento suf iciente para manter a decisão que indeferiu liminarmente os embargos de divergência.
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado com repercussão geral, no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes), circunstância verificada no caso, eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral . Em face do exposto, rejeito os embargos de declaração.  ..
+Aliás, o que se verifica das razões dos embargos é a tentativa do embargante de, por via oblíqua, rediscutir as conclusões do acórdão embargado, providência descabida na via eleita.
+A propósito:
+ ..
+1. Os Embargos de Declaração, segundo o disposto no art. 619 do CPP, se prestam a afastar a existência, no julgado, de ambiguidade, omissão, contradição e obscuridade, sendo-lhe impróprio o manejo para o fim de se rediscutir a matéria decidida.
+ ..
+(EDcl no HC n. 335.663/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/3/2016)
+Diante da manifesta improcedência dos aclaratórios, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, a saber: baixa imediata dos autos com certificação do trânsito em julgado ou a remessa dos autos para o STF (na hipótese de remanescer recurso pendente de competência daquela Corte).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. RECURSO COM NÍTIDO CARÁTER PROTELATÓRIO. ABUSO DO DIREITO DE DEFESA. REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL PARA ANÁLISE DO AGRAVO EM RECURSO EXTRAORDINÁRIO PENDENTE. DETERMINAÇÃO DE BAIXA IMEDIATA DOS AUTOS PARA EXECUÇÃO DA PENA DOS DEMAIS EMBARGANTES.
+1. A mera desconformidade do embargante com a rejeição da tese que entende cabível não caracteriza omissão, porquanto insiste em rediscutir matéria que já foi devidamente rechaçada por esta Corte de Justiça em recursos anteriores.
+2. A reiteração recursal sem inovação evidencia o caráter protelatório do recurso, configurando abuso do direito de defesa.
+3. Embargos de declaração rejeitados, determinando-se a imediata remessa dos autos ao Supremo Tribunal Federal para o julgamento do agravo em recurso extraordinário de C A A e determinação da imediata baixa dos autos para execução da pena de Z D L e D F A, procedendo-se à certificação do trânsito em julgado.
+(EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018)
+Ante o exposto, rejeito os embargos de declaração.
