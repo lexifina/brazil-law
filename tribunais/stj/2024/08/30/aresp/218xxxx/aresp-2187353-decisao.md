@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por Aloar Bueno dos Santos, com fundamento na incidência  da Súmula  7 do STJ, bem como por ausência de demonstração do dissídio nos moldes legais e regimentais.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "essa questão já foi analisada diversas vezes por esta Colenda Corte, pois se trata apenas e tão somente da aplicação do artigo 86 do Código de Processo Civil ou não, para o qual não tem necessidade de avaliação de qualquer prova material".
+É o relatório.
+Passo a decidir.
+O acórdão ora recorrido restou assim ementado:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO RETIDO. PROVA TÉCNICA POR SIMILARIDADE. LABOR EXERCIDO EM CONDIÇÕES ESPECIAIS. DIREITO ADQUIRIDO. HIDROCARBONETOS. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. APOSENTADORIA ESPECIAL. NÃO PREENCHIDOS OS REQUISITOS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REVISÃO. TERMO INICIAL DOS EFEITOS FINANCEIROS" (fl. 361).
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, o recorrente aponta violação aos arts. 85 e 86 do CPC/2015 sustentando, em síntese, que "a parte autora, ora recorrente, foi parte "vencedora" da demanda, eis que seus pedidos, em sua maioria, foram acolhidos no v. acórdão, garantindo o alce à revisão do benefício previdenciário - aposentadoria por tempo de contribuição (B42). Ademais, o parágrafo único do art. 86 do NCPC (antigo art. 21, parágrafo único, do CPC) determina que se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários".
+A irresignação não merece acolhida.
+A jurisprudência desta Corte é firme "no sentido de não se admitir, em recurso especial, a aferição do quantitativo em que autor e réu saíram vencidos na demanda ou a verificação de sucumbência mínima ou recíproca para efeito de fixação de honorários advocatícios. Tais questões não prescindem do revolvimento de matéria fático-probatória, atraindo a incidência à hipótese da Súmula n.º 7 do STJ" (STJ, AgInt no REsp 2.136.016/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/6/2024).
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF. INCONSTITUCIONALIDADE DE LEGISLAÇÃO LOCAL. SÚMULA 280/STJ. HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. DIVERGÊNCIA NÃO COMPROVADA. SÚMULA 284/STF.
+1. Trata-se de Agravo Interno contra decisão que conheceu do Agravo para não conhecer do Recurso Especial por incidência das Súmulas 7/STJ e 284/STF, ausência de interesse recursal, divergência recursal não comprovada e viés constitucional dado à matéria.
+2. A jurisprudência do Superior Tribunal de Justiça entende que os artigos 77, 78 e 79 do CTN reproduzem as regras previstas no artigo 145 da Constituição Federal, razão pela qual não é possível examinar aqueles dispositivos infraconstitucionais pelo STJ, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. O acórdão recorrido julgou a controvérsia sob a ótica da legislação local e Súmula vinculante do STF, razão pela qual a análise da questão nesta seara recursal esbarra no óbice da Súmula 280/STF.
+4. Evidente a falta de interesse recursal. Muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática. Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula 7 do STJ". (AgInt no AREsp 969.868/MT, Rel. Min. Moura Ribeiro, Terceira Turma, DJe de 25.6.2020).
+5. Agravo Interno não provido" (STJ, AgInt no AREsp 1.929.127/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 15/3/2022).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
