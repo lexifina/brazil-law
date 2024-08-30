@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Davita Serviços de Nefrologia Pacini Ltda. contra a decisão de fls. 18.717/18.723, por meio da qual dei provimento ao recurso especial interposto pela Clínica da Mama Diagnóstico por Imagem Ltda., determinando o retorno dos autos ao Tribunal de origem para apreciação da apelação por ela interposta e para manifestar-se expressamente sobre as incongruências apontadas quan to ao critério de fixação dos lucros cessantes e a possibilidade de cumulação de lucros cessantes com a devolução de aluguéis, bem como sobre a necessidade de abatimento de eventuais valores já pagos.
+Alega a embargante, em síntese, que a decisão recorrida violou o art. 489, § 1º, V, do CPC e incorreu em omissão e obscuridade, pois citou precedentes que não guardariam similitude processual com o presente caso e, além disso, deixou de se manifestar acerca de jurisprudência invocada em suas contrarrazões, sem demonstrar a existência de distinção ou superação do entendimento.
+Contrarrazões apresentadas às fls. 18.751/18.765.
+Assim posta a controvérsia, passo a decidir.
+Da análise dos autos, verifico que não merecem prosperar os embargos opostos, pois não há omissão ou obscuridade a ser sanada na decisão recorrida.
+Ao proferi-la, esclareci que havia dúvida razoável sobre qual recurso seria cabível contra a decisão que extinguiu a fase de liquidação do julgado na origem, haja vista a forma como foi escrito o seu dispositivo.
+De fato, como o Juiz de primeira instância decretou a "extinção da fase de liquidação", parecia que se tratava, aqui, de uma sentença, e não de uma decisão, e isto induziu a parte embargada a erro.
+Assim, nesse contexto, é evidente que deve ser aplicado à hipótese dos autos o princípio da fungibilidade recursal, nos termos da jurisprudência pacífica desta Corte.
+Registro, no ponto, que os motivos que induzem uma parte a erro podem variar de caso para caso e não há como comparar as peculiaridades de decisões proferidas em diferentes processos para que somente se admita a aplicação do princípio da fungibilidade recursal quando as situações retratadas forem exatamente iguais àquelas existentes em casos já julgados anteriormente pelo STJ.
+No mais, quanto aos precedentes citados pela embargante em suas contrarrazões, os quais afirmam ser in admissível a interposição de apelação, quando a decisão encerra a fase de liquidação do julgado sem por fim ao processo executivo, registro que, embora, em regra, também entenda dessa forma, há que se fazer distinção quando, como, no caso dos autos, a parte foi induzida a erro e há dúvida razoável sobre qual o recurso cabível, hipótese em que fica autorizada a aplicação do princípio da fungibilidade em seu favor.
+Cabe aqui ressaltar que o Relator não é obrigado a seguir precedentes quando eles não refletem, exatamente, a mesma questão posta em julgamento, nem há que se falar que, por não mencionar tais acórdãos, haveria omissão na decisão embargada.
+Assim, considerando não existir na decisão recorrida omissão ou obscuridade, não merecem prosperar os presentes embargos, os quais não se prestam para submeter o julgador ao exame da matéria exatamente nos termos em que a parte gostaria de ver analisada.
+Ante o exposto, rejeito os embargos opostos.
+Intimem-se.
+EMENTA
