@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquele Estado assim ementado (e-STJ fls. 20/21):
+AGRAVO DE INSTRUMENTO. ATO JUDICIALIMPUGNADO. REJEIÇÃO DA IMPUGNAÇÃO AOCUMPRIMENTO DE SENTENÇA.
+JULGAMENTO DE PLANO. Não provimento do agravo sem abertura de audiência da parte contrária. Prevalência dos princípios do melhor aproveitamento dos atos processuais, razoável duração do processo, gerenciamento, economicidade. Preservação do devido processo legal. Excepcionalidade do julgamento do recurso independentemente de facultar manifestação à parte contrária. Interpretação sistemática das normas processuais. Aproximação da regra do art. 927 para melhor interpretar o art. 932, IV, permitindo que seja dispensada a intimação da parte agravada se não houver qualquer prejuízo ou mesmo proveito para ela, já que o julgamento de não provimento do recurso considera a prevalência de teses consolidadas pela jurisprudência e repercute favoravelmente ao interesse do agravado.
+FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM PROL DO EXEQUENTE. Interpretação da regra do art. 85, §7º, do CPC determina a sujeição da Fazenda Pública ao pagamento de honorários de advogado. O entendimento consolidado no enunciado nº 519 da Súmula do STJ somente se aplica se o devedor não for a Fazenda Pública. O regime de cumprimento da sentença proferida contra a Fazenda tem a diferença fundamental de que não se inicia com a intimação do Poder Público para pagar, mas para impugnar. O critério material que determina a cominação de honorários considera a resistência jurídica da parte devedora à pretensão executiva do credor. Entre particulares, essa resistência se materializa pelo só fato de que há inadimplemento subsequente à intimação para pagar. Não por outro motivo o art. 523, §1º, determina a incidência de honorários se não sobrevém o pagamento. Raciocínio que não se aplica se devedora for a Fazenda porque a intimação é para impugnar, e não para pagar. A resistência se materializa com a efetiva impugnação, que dá ensejo a honorários se rejeitada ou acolhida em parte. A regra do art. 85, §7º,do CPC conduz à conclusão de que os honorários são devidos se houver impugnação e ela for rejeitada ou acolhida em parte. Condenação que se impõe. Manutenção da decisão agravada.
+RECURSO NÃO PROVIDO.
+A recorrente alega afronta ao art. 927, IV, do CPC/2015, sustentando a impossibilidade de fixação de honorários sucumbenciais em razão da rejeição da impugnação ao cumprimento de sentença, considerando o entendimento do STJ cristalizado na Súmula 519.
+Após contrarrazões, o recurso foi admitido pelo Tribunal de origem.
+Passo a decidir.
+A irresignação não merece prosperar.
+No tocante ao art. 927, IV, do CPC/2015, apontado como violado, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa a dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que não ocorreu nas hipóteses. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF, in verbis:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não
+ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos
+embargos declaratórios, não pode ser objeto de recurso extraordinário, por
+faltar o requisito do prequestionamento.
+Cumpre destacar que nem sequer foram opostos embargos de declaração, o que inviabiliza até mesmo a aplicação do prequestionamento ficto (art. 1.025 do CPC/2015), conforme orientação jurisprudencial desta Corte. A propósito: REsp 1.812.100/PB, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 11/06/2019, DJe 17/06/2019.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
