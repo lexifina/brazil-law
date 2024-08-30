@@ -1,0 +1,21 @@
+DECISÃO
+BRUNO DOS SANTOS agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0006592-85.2023.8.26.0509/50000.
+Consta dos autos que o Tribunal de origem negou provimento ao agravo em execução e, por conseguinte, manteve a falta grave aplicada pelo Juízo de primeiro grau.
+Nas razões do recurso especial, a defesa alega violação dos arts. 45, § 3º, da Lei de Execução Penal e 386, III e VII, do Código de Processo Penal.
+Requer a absolvição ou a desclassificação da conduta para falta disciplinar de natureza média.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+Quanto à falta disciplinar de natureza grave, extrai-se do julgado os seguintes fundamentos (fls. 137-138, grifei):
+Instaurada sindicância contra o Agravante para apurar falta disciplinar de natureza grave cometida em 28/8/2021, consistente em desobediência, por decisão datada de 18/1/2022 o Juízo das Execuções reconheceu como grave a conduta faltosa. A Defensoria Pública, que representava o Agravante na época, não recorreu. Decorridos quase dois anos a advogada constituída pelo Agravante resolveu questionar a responsabilização dele pela mencionada falta sob a roupagem do "excesso de execução", apontando falta de provas, sustentando que houve sanção coletiva. O juiz não conheceu do pleito, ao fundamento de que a questão há muito foi resolvida.
+Neguei seguimento ao recurso porque a decisão transitou em julgado há muito tempo, não podendo a matéria ser reavivada, salientando que a Defensoria Pública, que na época defendia o Agravante, se desincumbiu a contento do seu dever, e que se não recorreu é porque concluiu que eventual inconformismo não lograria sucesso. Ademais, ficou demonstrado que o Agravante desobedeceu a determinação de servidor dada diretamente a ele, não havendo que falar em sanção coletiva ou coisa do gênero.
+A definitividade das decisões judiciais, conferida pela coisa julgada, visa garantir a segurança jurídica, impedindo que as relações processuais possam ser revisitadas a todo e qualquer tempo, o que causaria verdadeira balbúrdia jurídica e tornaria inócua a existência dos prazos recursais.
+Conforme visto, o Tribunal de origem negou provimento ao recurso porque houve a coisa julgada da decisão que reconheceu a falta grave e porque ficou comprovada a desobediência do réu à determinação do agente.
+No caso, verifica-se que a questão relacionada à definitividade das decisões judiciais não foi impugnada pelo agravante nem foi indicada pela defesa o dispositivo legal pertinente à matéria e tido por violado, o que atrai a incidência, respectivamente, das Súmulas n. 283 e 284 do STF.
+Além disso, não se verifica patente ilegalidade e não há direito inequívoco à absolvição ou à desclassificação da conduta, que se amolda ao art. 50, VI, c/c o art. 39, II e V, da LEP. Não consistiu o comportamento do recorrente em mero atuar de maneira inconveniente ou com falta de urbanidade.
+Desse modo, para determinar, como pretende o agravante, que não houve recusa do reeducando em realizar os procedimentos determinados pelos policiais penais ou a desclassificação para falta média, seria necessária uma nova análise dos fatos e provas dos autos, providência incompatível com a via do recurso especial, a teor da Súmula n. 7 do STJ.
+Aplica-se ao caso a compreensão de que: "Para se acolher o argumento defensivo de que o Reeducando não buscou o enfrentamento dos profissionais de saúde ou tentou os agredir, ou mesmo, que as circunstâncias fáticas apontam para a prática de infração disciplinar de natureza média, e não grave, seria necessário o amplo revolvimento fático-probatório, providência vedada pelo óbice intransponível da Súmula n. 7/STJ" (AgRg no AREsp n. 2.377.613/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
