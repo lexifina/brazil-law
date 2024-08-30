@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marco Antonio Maria - condenado como incurso nos crimes de tráfico de drogas majorado e facilitação da entrada de aparelho celular em estabelecimento prisional -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (Apelação Criminal n. 0821866-93.2023.8.19.0204), não comporta acolhimento.
+Com efeito, busca a impetração a aplicação da minorante do tráfico privilegiado, ao argumento de que não há nos autos qualquer prova de que o réu exercia em momentos outros o trafico de entorpecentes (fl. 6).
+Ocorre que é inviável a utilização da via eleita como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias. Ademais, não existe constrangimento ilegal manifesto na fundamentação utilizada para afastar o redutor, pois se considerou a dedicação do paciente a atividades criminosas.
+Como bem asseverou o Ministério Público Federal, na presente hipótese, o Tribunal de origem afastou a aplicação do redutor com base em análise motivada do conjunto das circunstâncias em que ocorreu a prisão do paciente, notadamente tendo em vista que "foi detido no estabelecimento prisional onde trabalhava, na posse de expressiva quantidade de material entorpecente - 443 g (quatrocentos e quarenta e três gramas) de cocaína, distribuída em 300 (trezentos) sacolés, e de um tablete com 515 g (quinhentos e quinze gramas) de cocaína -, além de peças e acessórios de aparelhos de telefone celular, à indicar a sua habitualidade delitiva" (fl. 36) - fl. 100.
+Acrescentando que, além disso, como bem destacado no acórdão em discussão, o magistrado singular registrou que "o acusado, policial penal, praticou atividade criminosa gravíssima por meio da disseminação ilícita de entorpecentes em seu local de trabalho, atingido os detentos e ressocializandos, em grave violação de dever público, mediante atuação sistemática" (fl. 38) - fl. 100.
+Nesse contexto, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita do writ.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO E FACILITAÇÃO DA ENTRADA DE APARELHO CELULAR EM ESTABELECIMENTO PRISIONAL. DOSIMETRIA DA PENA. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem denegada.
