@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATEUS EDUARDO AREND contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5000505-97.2023.8.24.0019).
+Narra-se nos autos que o paciente foi condenado como incurso nas sanções do art. 121, § 2º, incisos I e III, do Código Penal, à pena de 14 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado.
+Interposta apelação, o Tribunal local deu parcial provimento ao recurso defensivo, para redimensionar a pena para 13 anos, 2 meses e 12 dias de reclusão, mantidos os demais termos da condenação (e-STJ fls. 62/75).
+No presente writ (e-STJ fls. 3/8), a impetrante alega que o paciente está sofrendo constrangimento ilegal, em razão da dosimetria realizada.
+Em primeiro lugar, se insurge quanto ao reconhecimento da agravante prevista no art. 61, inciso II, alínea "l", do Código Penal (embriaguez predordenada). Argumenta que para que essa agravante seja reconhecida, não basta a afirmação de que o Paciente estava embriagado após o cometimento do delito, sendo imprescindível que se comprove também que se embriagou com o objetivo de praticar o crime. Aponta que No caso, não há nada que indique que o agente ingeriu bebida alcoólica para cometer o crime. Não se infere tal circunstância da denúncia e da sentença de pronúncia, bem como não há laudo atestando a ingestão de álcool nos autos (CPP, art. 158) (e-STJ fl. 6).
+Por fim, alega, em síntese, que a atenuante da confissão deve preponderar sobre as duas agravantes objetivas previstas no artigo 61, II, "d", do CP (meio cruel) e artigo 61, II, alínea "l", do CP (embriaguez preordenada), conforme dispõe o art. 67 do Código Penal.
+Dessa forma, requer a concessão da ordem para que seja afastada a agravante da embriaguez preordenada e que seja conferido preponderância da atenuante da confissão espontânea sobre as demais agravantes objetivas.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, as teses suscitadas não foram objeto de debate pelo Tribunal a quo. Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+ ..  DOSIMETRIA. MATÉRIA NÃO ANALISADA NAS INSTÂNCIAS ORDINÁRIAS. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA DESPROVIDA.
+1. Inviável a concessão de habeas corpus de ofício se a matéria relativa à aplicação da pena ainda não foi analisada pelas instâncias ordinárias, pois implicaria em indevida supressão de instância.
+2. Agravo regimental desprovido (AgRg no REsp 1.382.235/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 26/10/2016).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DAS PROVAS. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte. Precedentes.
+2. "Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada a sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da aventada nulidade das provas produzidas (..)" (HC 318.623/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/05/2015, DJe 28/05/2015).
+3. Agravo regimental não provido (AgRg no HC 196.282/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 18/10/2016).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Rela tor Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
+EMENTA
