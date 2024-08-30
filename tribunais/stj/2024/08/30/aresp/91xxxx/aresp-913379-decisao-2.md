@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pela FAZENDA NACIONAL.
+O recurso especial foi interposto pelo ente público, com fundamento no art.  105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMPOSTO DE RENDA. LEI 7.713/88. ISENÇÃO. AÇÃO COLETIVA. LEGITIMIDADE ATIVA. EFEITOS DA SENTENÇA. ART. 2º-A DA LEI 9.494/97. LIMITAÇÃO TERRITORIAL. POSSIBILIDADE.
+1. Não se há de falar na hipótese de afronta ao parágrafo único do artigo 1º da Lei 7.347/1985, na medida em que na hipótese em exame não se trata de ação civil pública, mas de ação coletiva.
+2. "A ação civil pública não é a única ação para a defesa de interesses coletivos, tampouco a única possível de ajuizamento pelas associações. Uma vez autorizada pelos seus membros, a associação poderá propor qualquer ação, seja de conhecimento, condenatória, declaratória, execução, tendo como requisitos a prévia autorização dos associados e a correlação com os objetivos constitucionais."(APELREXX0001798-92.2009.4.03.6100, relatora Desembargadora Federal Consuelo Yoshida, e-DJF3Judicial 1: 02/06/2011).
+3. A associação autora juntou aos autos cópia da Ata da Assembleia Geral Extraordinária realizada em 04 de novembro de 2010 que autorizou a propositura desta demanda, cumprindo o requisito previsto no art. 5º,XXI, da Constituição Federal para ajuizamento de ação coletiva pela associação.
+4. O Superior Tribunal de Justiça pacificou o entendimento de ser indevida a cobrança de imposto de renda sobre o valor da complementação de aposentadoria e o do resgate de contribuições correspondentes a recolhimentos para entidade de previdência privada ocorridos no período de 1º.01.1989 a 31.12.1995, por ocasião do julgamento do REsp 1.1012.903, relator Ministro Teori Albino Zavascki, DJe: 13/10/2008.
+5. Referido recurso foi julgado sob o regime do art. 543-C e da Resolução STJ 08/2008, que disciplinam o regramento dos recursosrepetitivos.
+6. Em ação coletiva, nada impede que se postergue para a fase de liquidação a comprovação da efetiva contribuição no período compreendido entre janeiro de 1989 e dezembro de 1995, bem como o montante indevidamente recolhido aquele título.
+7. A ação de caráter coletivo, proposta por entidade associativa, na defesa dos interesses e direitos dos seus associados, abrange apenas os substituídos que tenham, na data da propositura da ação, domicílio no âmbito da competência territorial do órgão prolator, nos termos do art. 2º-A da Lei 9.494/97. Precedentes STJ (fls. 538-539).
+Em seu recurso especial, o ente público apontou violação ao art. 267, VI, do CPC/1973, bem como ao art. 1º, parágrafo único, da Lei 7.347/1985, sustentando que "não detém legitimidade ativa, carecendo de interesse processual a associação para propor ação coletiva, visando à defesa do interesse dos substituídos, no sentido de eximi-los da incidência do IR sobre benefícios pagos por entidade privada no período de vigência da Lei 7.713/88 (pretensão que envolve tributos), à vista da norma proibitiva supratranscrita, sendo de rigor a extinção da ação, com fundamento no artigo 267, VI, do CPC" (fl. 552).
+Inadmitido o recurso especial, na origem, foi interposto agravo nos próprios autos.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+A irresignação do ente público não merece acolhida.
+Na jurisprudência do STJ:
+ ..  o parágrafo único do art. 1º da Lei 7.347/1985 trata do não cabimento de "ação civil pública" para veicular pretensão tributária, não sendo legitima a extensão da proibição a outras espécies de ações coletivas, notadamente em razão do art. 5º, XXI e LXX, e 8º, III, da CF/1988. Pela possibilidade de ações tributárias por entidades sindicais, vide: REsp 1.778.137/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/10/2019; REsp 1.560.766/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/05/2016; REsp 760.840/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 02/10/2008 (AgInt no REsp 1.902.266/PR, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 26/5/2021).
+Em igual sentido:
+PROCESSUAL CIVIL. AÇÃO COLETIVA. MATÉRIA TRIBUTÁRIA. VIABILIDADE.
+1. "O parágrafo único do art. 1º da Lei 7.347/1985 trata do não cabimento de "ação civil pública" para veicular pretensão tributária, não sendo legitima a extensão da proibição a outras espécies de ações coletivas, notadamente em razão do art. 5º, XXI e LXX, e 8º, III, da CF/1988" (AgInt no REsp 1.902.266/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/5/2021, DJe de 26/5/2021).
+2. Agravo interno desprovido (AgInt nos EDcl no REsp 1.982.150/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/3/2024, DJe de 14/3/2024).
+Confiram-se, ainda, no mesmo sentido, as seguintes decisões monocráticas proferidas, no âmbito do STF, em casos semelhantes: ARE 1.342.975/PR, relator Ministro Nunes Marques, DJe de 27/9/2022; ARE 1.355.359/PR, relator Ministro Gilmar Mendes, DJe de 22 /8/2022; RE 1.266.631/PR, relator Ministro Ricardo Lewandowski, DJe de 18/4/2022.
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal Superior, aplica-se, ao caso, o entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo, para negar provimento ao recurso especial do ente público.
+Intimem-se.
+EMENTA
