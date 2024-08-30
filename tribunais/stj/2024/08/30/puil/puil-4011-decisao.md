@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de pedido de uniformização interposto com base no art. 19 da Lei n. 12.153/2009 por Roseli Pereira da Costa Guarnieri contra acórdão proferido pela Turma de Uniformização do Sistema dos Juizados Especiais do Tribunal de Justiça do Estado de São Paulo, o qual foi ementado nestes termos:
+Recurso inominado. Servidor Público de Fernandópolis. Adic ional por tempo de serviço (triênio), previsto na Lei Complementar Municipal n. 1/1992. Prazo prescricional - sentença mantida.
+Os embargos de declaração foram rejeitados.
+Em suas razões, a recorrente sustenta divergência entre o acórdão impugnado e o Tema n. 529 do STJ, definido no julgamento do REsp n. 1.270.439/PR. Argui ser servidor público municipal cujo direito à vantagem de triênio foi reconhecido extrajudicialmente pelo Município de Fernandópolis. Consequentemente, em processo judicial, houve o reconhecimento da interrupção da prescrição. Ocorre que não houve individualização das parcelas atrasadas devidas. Assevera que a sentença judicial interpretou que a prescrição recomeçou pela metade a partir do ato administrativo. Defende que o prazo prescricional deveria ser recomeçado somente após a individualização da dívida.
+Em resposta, o Município defendeu o não conhecimento do pedido de uniformização. Afirma que, em hipótese idêntica (PUil n. 4.005/SP), o Min. Sérgio Kukina declarou o não conhecimento do recurso. Argui que não houve apresentação de divergência entre Turmas Recursais de diferentes estados e nem a demonstração de contrariedade de súmula do STJ. Quanto ao mérito do recurso, afirma que o caso dos autos é distinto do Tema n. 529 do STJ.
+Em parecer, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Não há nas razões do recurso a indicação de uma súmula do STJ que teria sido violada pelo acórdão a quo. Além disso, o precedente indicado pelo recorrente não é de Tribunal de Justiça de outro estado-membro.
+Ocorre que as hipóteses de cabimento do pedido de uniformização no âmbito dos Juizados Especiais da Fazenda Pública não correspondem - ipso litteris - as hipóteses de cabimento do pedido de uniformização dos Juizados Especiais Federais.
+Quando o pedido de uniformização ocorre no âmbito dos Juizados Especiais da Fazenda Pública, as hipóteses de cabimento do pedido de uniformização são: 1) divergência entre Turmas Recursais de diferentes estados; 2) violação de súmula do STJ pelo acórdão a ser impugnado por esse recurso. A propósito, confira-se o art. 18, § 3º e o art. 19, ambos da Lei n. 12.153/2009:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1º do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência.
+Logo, em face da ausência de indicação de súmula do STJ violada e de divergência jurisprudencial de direito material entre Turmas Recursais de diferentes Estados. A propósito:
+DIREITO PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE ATENDIMENTO, PELO ENTE FEDERATIVO POSTULANTE, AOS REQUISITOS PREVISTOS NO ART. 18, § 3º, DA LEI 12.153/2009.
+1. De acordo com o art. 18, caput e § 3º, da Lei 12.153/2009, o pedido de interpretação de lei dirigido ao Superior Tribunal de Justiça somente é cabível quando satisfeitas, cumulativa e simultaneamente, as condições lá apresentadas, quais sejam: (a) que existe divergência na interpretação de lei federal ou contrariedade a enunciado da Súmula do STJ; (b) que a divergência se dá entre Turmas Recursais de diferentes Estados; e (c) que o dissenso interpretativo se circunscreve a questões de direito material.
+2. Na hipótese, nenhum dos requisitos legais se faz presente. A controvérsia resulta da interpretação da Lei Complementar Gaúcha 10.098/1994, alusiva a prazos prescricionais. Não indica o ente federativo requerente legislação federal. Ademais, o cerne da controvérsia também está na competência jurisdicional, temática de índole processual e não de direito material, consoante exige o indicado art. 18 da Lei 12.153/2009.
+3. Depois, não há contrariedade a enunciado da Súmula do Superior Tribunal de Justiça, mas ao que entende o Estado ser discordância com jurisprudência majoritária, hipótese não prevista em lei.
+4. Por fim, o pedido se volta, exclusivamente, contra o entendimento da 3ª Turma Recursal da Fazenda Pública do Estado do Rio Grande do Sul, motivo pelo qual não demonstra a necessária divergência interpretativa entre Turmas de diferentes Estados.
+5. Agravo interno do ente federativo desprovido.
+(AgInt na Pet n. 14.222/RS, relator Ministro Manoel Erhardt (Desembargador
+Convocado do TRF5), Primeira Seção, julgado em 17/5/2022, DJe de 20/5/2022.)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE.
+1. Nos termos dos arts. 18 e 19 da Lei 12.153/2009 cabe Pedido de Uniformização de Interpretação de Lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material; quando as Turmas de diferentes Estados derem à lei federal interpretações divergentes; ou quando a decisão proferida contrariar súmula do Superior Tribunal de Justiça.
+2. No caso dos autos, a Turma de Uniformização do Sistema dos Juizados Especiais não julgou o mérito da questão, porque não conheceu do Pedido de Uniformização a ela dirigido. Não houve, portanto, análise do art. 257, § 7º, do CTB pela Turma de Uniformização do Sistema dos Juizados Especiais, de modo que não é cabível o Pedido de Uniformização no Superior Tribunal de Justiça.
+3. Ademais, a jurisprudência do Superior Tribunal de Justiça entende que o Pedido de Uniformização de Jurisprudência nos Juizados Especiais da Fazenda Pública é admissível somente quanto há afronta a súmula do Superior Tribunal de Justiça.
+4. Agravo Interno não provido.
+(AgInt no PUIL 1.941/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 29/06/2021, DJe 01/07/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃO RECORRIDO ROFERIDO POR TURMA RECURSAL DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. REGIME PRÓPRIO DE SOLUÇÃO DE DIVERGÊNCIA (ARTS. 18 E 19 DA LEI 12.153/2009). AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. INVIABILIDADE DA APRECIAÇÃO DO PEDIDO. NÃO CABIMENTO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Esta egrégia Corte Superior é competente para conhecer diretamente do pedido de Uniformização em duas situações: (i) quando o dissídio se verificar entre Turmas Recursais de Estados diferentes; e (ii) quando uma Turma Recursal proferir decisão contrária à Súmula do STJ. Em situação diversa, as próprias Turmas conflitantes haverão de resolver a divergência, nos moldes do § 1º do art. 18 da Lei 12.153/2009.
+2. A interferência do STJ, dessa maneira, não se baseia em divergência com sua jurisprudência dominante, mas tão somente se dará quando a contrariedade atingir entendimento já sumulado.
+3. Além disso, tal como ocorre no Recurso Especial manifestado com base no art. 105, III, c da Constituição Federal, é necessário que haja similitude fática entre os julgados confrontados. Contudo, no caso em exame, não há similitude fática e jurídica.
+4. Agravo Interno do Particular a que se nega provimento.
+(AgInt no PUIL 1.709/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020)
+Ante o exposto, não conheço do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO. SERVIDOR PÚBLICO. ADICIONAL POR TEMPO DE SERVIÇO. AUSÊNCIA DE VIOLAÇÃO DE SÚMULA DO STJ. DIVERGÊNCIA ENTRE TURMAS RECURSAIS DE DIFERENTES ESTADOS. NÃO DEMONSTRAÇÃO. PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO.
