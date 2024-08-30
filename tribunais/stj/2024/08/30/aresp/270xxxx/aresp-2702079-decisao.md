@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por HOTEIS FIOREZE LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fls. 455-456) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 407):
+APELAÇÃO CÍVEL. RECURSO ADESIVO. PROPRIEDADE INTELECTUAL. DIREITO AUTORAL. ECAD. AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL C/C PERDAS E DANOS. COBRANÇA. RETRANSMISSÃO RADIOFÔNICA E POR TV EM QUARTO DE HOTEL. CONTRATAÇÃO DE TV POR ASSINATURA. TEMA 1066 DO STJ.
+1. RESTANDO INCONTROVERSA A UTILIZAÇÃO DE EQUIPAMENTOS DE RÁDIO E TELEVISÃO NOS APOSENTOS DO HOTEL DEMANDADO É DEVIDA A COBRANÇA DE VALORES A TÍTULO DE DIREITOS AUTORAIS.
+2. A CONTRATAÇÃO DE TV POR ASSINATURA NÃO AFASTA O DEVER DE RETRIBUIÇÃO DOS DIREITOS AUTORAIS. ENTENDIMENTO FIRMADO NO TEMA 1066 DO STJ.
+3. TAXA DE OCUPAÇÃO PARA CÁLCULO DA RETRIBUIÇÃO E O PERCENTUAL DE UTILIZAÇÃO DOS APARELHOS DE TELEVISÃO, DEVE COMPREENDER OS CRITÉRIOS APONTADOS PELO AUTOR, COMO TAMBÉM AS PECULIARIDADES DO PERÍODO, DE ACORDO COM A IMPUGNAÇÃO DA PARTE RÉ. APURAÇÃO DO VALOR EM OPORTUNA LIQUIDAÇÃO DE SENTENÇA.
+4. CONDENAÇÃO DO RÉU AO PAGAMENTO DAS PARCELAS CORRESPONDENTE AO PERÍODO APONTADO NA INICIAL, BEM COMO DAS VINCENDAS NO CURSO DA DEMANDA.
+5. INAPLICABILIDADE DO ÍNDICE TR PREVISTO NO REGULAMENTO DE ARRECADAÇÃO DO ECAD.
+6. SUCUMBÊNCIA RECÍPROCA E PROPORCIONAL FIXADA, AUSENTE HIPÓTESE DE DECAIMENTO MÍNIMO. APELAÇÃO DESPROVIDA E RECURSO ADESIVO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 23 da Lei 11.171/2008; e 68, § 3º, da Lei 6.910/1998.
+Sustentou a inexistência de fato gerador para justificar a condenação ao pagamento de direitos autorais relativamente à disponibilização de aparelhos de rádio e televisão em quartos de hotéis.
+Frisou que "no caso em discussão consoante art. 23 da lei 11.771/2008, os quartos de hotel são locais de frequência individual" (e-STJ, fl. 421).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem negou seguimento à insurgência, nos termos do art. 1.030, I, b, do CPC/2015, por incidência do Tema 1.066/STJ (e-STJ, fls. 455-456).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 469-475).
+Brevemente relatado, decido.
+Nos termos do Enunciado n. 77 da I Jornada de Direito Processual Civil do Conselho da Justiça Federal, "Para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais".
+No presente caso, verifica-se que a decisão que negou seguimento e inadmitiu o recurso especial tratou sobre uma única questão de direito, qual seja, pagamento de direitos autoriais em caso de disponibilização de aparelhos de rádio e televisão em quartos de hoteis, cujo conhecimento exige a interposição simultânea de agravo interno na origem, impugnando o fundamento relativo ao recurso repetitivo, e de agravo em recurso especial nesta instância, refutando os fundamentos referentes aos pressupostos recursais.
+Assim, ainda que a parte recorrente tenha manejado o agravo em recurso especial, insurgindo-se contra a aplicação do enunciado sumular n. 283 do STF, observa-se que ela não interpôs, simultaneamente, o agravo interno na origem, com vistas a impugnar o fundamento relativo à incidência Tema 1.066/STJ, o que impede o trânsito desta insurgência.
+Esclareça-se, oportunamente, que a jurisprudência desta Corte Superior não admite a interposição do agravo do art. 1.042, caput, do CPC/2015 contra parte da decisão que, com fundamento no art. 1.030, I, b, do CPC/2015 (art. 543-C, § 7º, I, do CPC/1973), nega seguimento ao recurso especial, por considerar que tal providência constitui erro grosseiro.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. JUÍZO NEGATIVO DE ADMISSIBILIDADE. ACÓRDÃO COINCIDENTE COM ORIENTAÇÃO FIRMADA EM RECURSO REPETITIVO. AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO.
+1. O tema veiculado no agravo do segurado cinge-se à pretensão de reconhecimento do direito à reafirmação da Data de Entrada do Requerimento administrativo - DER, sendo certo que o juízo de prelibação negou seguimento ao apelo nobre, no tocante à referida matéria, amparado no julgamento repetitivo proferido no Tema 995 do STJ.
+2. De acordo com o disposto no art. 1.030, § 2º, do CPC/2015, o agravo interno é o recurso cabível contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos, sendo a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+3. Caso em que a interposição de agravo em recurso especial configura erro grosseiro, o que torna inviável a aplicação do princípio da fungibilidade re cursal.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.184.369/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o proveito econômico obtido com o julgamento da demanda, observada a distribuição fixada na origem.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO E INADMISSÃO. PRESENÇA DE UMA ÚNICA QUESTÃO DE DIREITO. NECESSIDADE DE INTERPOSIÇÃO SIMULTÂNEA DO AGRAVO INTERNO E DO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO APENAS DO SEGUNDO RECURSO. AGRAVO NÃO CONHECIDO.
