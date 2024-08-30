@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pela TAMBORJET EMBALAGENS LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fls. 148/149):
+AGRAVO REGIMENTAL. NULIDADE DE ATOS PROCESSUAIS. DESCABIMENTO. A intimação e publicação do inteiro teor do V. Acórdão, diferente do que tenta fazer crer a agravante, não ocorreu, somente acontecendo a liberação da Súmula Administrativa, que é passível de equívoco e retificação. Não se vislumbra na hipótese ventilada nos autos, portanto, a caracterização de ato jurídico perfeito, à luz do quanto disposto no artigo 6º, § 1º, da Lei de Introdução às Normas do Direito Brasileiro (LINDB). Ausente insegurança jurídica na demanda em voga, não há razão para se anular os atos processuais lançados após a referida súmula administrativa, justamente por não haver inobservância aos preceitos do artigo 494 do Código de Processo Civil, bem como não restar cabalmente demonstrado qualquer prejuízo ao agravante. Outrossim, não há o que se falar em nulidade sem efetiva demonstração de prejuízo, latente no princípio "pas de nullité sans grief". Precedentes desta Seção de Direito Público. Decisão mantida.
+RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 177/188).
+No recurso especial (e-STJ fls. 249/271), o recorrente aponta violação dos arts. 155, II, 278, 494, I e II, 941, § 1º, e, 1.022, I, do CPC/2015. Defende, em síntese, ofensa ao ato jurídico perfeito, "na medida em que, após ser proclamado o resultado de julgamento com disponibilização da súmula nos autos, o Tribunal a quo, sem qualquer tipo de motivação, alterou o seu entendimento e proferiu nova decisão nos autos" (e-STJ fl. 267).
+Com relação ao dissídio jurisprudencial, diz que o julgado diverge do que foi decidido por esta Corte no REsp 2.005.052/SP.
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo por entender ausente omissão, falta de desrespeito à legislação e aplicável a Súmula 7 do STJ (e-STJ fls. 331/334).
+No agravo em recurso especial (e-STJ fls. 365/395), o agravante defende ofensa ao art. 1.022 do CPC/2015 e sustenta que "basta uma mera análise dos acontecimentos processuais para se verificar o direito alegado pela agravante" (e-STJ fl. 377). No mais, reitera a argumentação do recurso especial.
+A contraminuta foi apresentada.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Na hipótese, da análise dos autos, verifica-se que o Tribunal de origem não admitiu o recurso especial destacando, entre outros motivos, a incidência da Súmula 7 do STJ.
+Da leitura do agravo, todavia, constata-se que a parte deixou de impugnar específica e adequadamente a incidência do referido enunciado, limitando-se, no ponto, a aduzir genericamente que "não há qualquer necessidade de reexame de provas no presente caso" (e-STJ fl. 376).
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
