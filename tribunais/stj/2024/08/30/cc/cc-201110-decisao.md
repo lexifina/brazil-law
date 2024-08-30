@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo JUÍZO FEDERAL DA 2A VARA CRIMINAL DE SÃO PAULO por entender que o JUÍZO FEDERAL DA 14A VARA DE CURITIBA - SJ/PR é que detém competência para processar ação penal sobre os crimes do art. 155, § 4º, incisos II e IV, do Código Penal, e do art. 2º da Lei n. 12.850/2013, os quais teriam sido praticados em diversas jurisdições.
+Segundo o Juízo Suscitante, o Juízo Suscitado se tornou prevento, nos termos do art. 83 do Código de Processo Penal, quando deferiu diligências investigativas, como a interceptação telefônica e a quebra dos sigilos bancário e telemático dos investigados. Além disso, os crimes teriam sido praticados em continuidade delitiva e no território de duas ou mais jurisdições, o que atrai a aplicação do art. 71 do Código de Processo Penal (fls. 286-292).
+Na perspectiva do Juízo Suscitado, apesar de a investigação ter se iniciado em Curitiba, a maioria dos fatos ocorreram em São Paulo, onde também se situa a base da organização criminosa, motivo pelo qual a competência deve ser fixada com fundamento no art. 78, inciso II, do Código de Processo Penal.
+O Ministério Público Federal opinou pela competência do juízo suscitado (fls. 14.999-15.007).
+É o relatório. DECIDO.
+Consta dos autos que os investigados teriam praticado inúmeras condutas delitivas entre fevereiro de 2022 e maio de 2023, sendo que a maioria das ocorrências foram registradas no estado de São Paulo (fls. 176-249).
+Em que pesem as considerações do Juízo Suscitante e do Ministério Público Federal, é inviável pressupor que as condutas foram praticadas em continuidade delitiva, haja vista que a audiência de instrução ainda não foi realizada.
+Nesse sentido:
+"CONFLITO POSITIVO DE COMPETÊNCIA. PROCESSO PENAL. FURTOS PRATICADOS EM QUATRO CIDADES. TRÊS EM MINAS GERIAS E UM NO RIO DE JANEIRO. CONTINUIDADE DELITIVA ENTRE TODOS OS CRIMES. RECONHECIMENTO INDEVIDAMENTE ANTECIPADO. POSSIBILIDADE DE AFERIÇÃO EM SEDE DE EXECUÇÃO PENAL APÓS COMPLETA INSTRUÇÃO DOS FEITOS. AUSÊNCIA DE PREJUÍZO AOS DENUNCIADOS. CONFLITO CONHECIDO PARA RECONHECER A COMPETÊNCIA DA JUSTIÇA DO ESTADO DO RIO DE JANEIRO PARA O CRIME PRATICADO EM ITAPERUNA/RJ.
+- O reconhecimento antecipado da existência de continuidade delitiva entre os crimes praticados não é a melhor solução para o caso, uma vez que depende da análise detalhada dos autos, que somente poderá ser aferida de forma correta após a instrução do feito.
+- Não estando totalmente afastada a controvérsia sobre a existência da continuidade delitiva, seja pela ausência dos requisitos objetivos necessários ao seu reconhecimento, seja pela possibilidade da caracterização de reiteração delitiva, circunstância que impede o reconhecimento da ficção legal, mostra-se prudente que essa análise seja postergada para um momento em que já concluída a instrução probatória relativa aos crimes praticados.
+- Caso os denunciados venham a ser condenados pela prática de todos ou alguns dos crimes imputados na denúncia da Comarca de Miraí/MG e pelo furto cometido na Comarca de Itaperuna/RJ, poderão requerer, em sede de execução, o reconhecimento da continuidade delitiva. Lá o Juiz das Execuções fará a análise do pedido, porém após a completa instrução dos processos, não restando qualquer prejuízo aos acusados.
+- Conflito positivo conhecido para declarar competente o JUÍZO DE DIREITO DA 2ª VARA DE ITAPERUNA - RJ, o suscitado, para processar e julgar o furto praticado no Estado do Rio de Janeiro."(CC n. 122.545/MG, Terceira Seção, Rel. Min. Ericson Maranho (Desembargador Convocado do TJ/SP), DJe de 5/3/2015.)
+Em face disso, a competência deve ser fixada nos termos do art. 78, inciso II, alínea "b", do Código de Processo Penal, in verbis:
+"Art. 78. Na determinação da competência por conexão ou continência, serão observadas as seguintes regras:
+(..)
+II - no concurso de jurisdições da mesma categoria:
+(..)
+b) prevalecerá a do lugar em que houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade;"
+A propósito:
+"CONFLITO DE COMPETÊNCIA. PENAL. ESTELIONATO QUALIFICADO, RECEPTAÇÃO, FORMAÇÃO DE QUADRILHA, FALSIFICAÇÃO DE DOCUMENTO. USO DE DOCUMENTO FALSO. FALSIDADE IDEOLÓGICA E CRIME CONTRA O SISTEMA FINANCEIRO. COMPETÊNCIA FIRMADA PELO DELITO CUJA PENA SEJA MAIS GRAVE. ESTELIONATO QUALIFICADO. CONSUMAÇÃO NO MOMENTO E LUGAR DA OBTENÇÃO DA VANTAGEM ILÍCITA. CONEXÃO. CONCURSO DE JURISDIÇÕES. CRIMES DA MESMA ESPÉCIE. COMPETÊNCIA DO JUÍZO DO LOCAL ONDE OCORREU O MAIOR NÚMERO DE INFRAÇÕES. ART. 78, II, B, DO CPP. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Estando as provas entrelaçadas e tendo sido praticado por várias pessoas, embora em local e tempo diverso, deve-se reconhecer a existência de conexão, por se enquadrar a situação fática em alguma das hipóteses previstas no art. 76 do Código de Processo Penal.
+2. A pretensão delimita a competência jurisdicional e o recebimento da peça acusatória evidencia a justa causa para o procedimento criminal, nos termos aspirados pelo órgão acusador.
+3. O crime de estelionato consuma-se no momento e lugar em que o agente obtém a vantagem indevida.
+4. A configuração da continuidade delitiva exige o implemento dos requisitos da pluralidade de delitos da mesma espécie e o nexo entre as condutas, mediante a verificação das circunstâncias em razão de tempo, lugar e modo de execução, o que é aferível mediante prévio processamento e instrução do feito.
+5. O reconhecimento da continuidade delitiva nesta instância, para efeito de fixar a competência jurisdicional, constituiria precipitação, tendo em vista que o ordenamento jurídico oferece meios eficazes de fixação da competência jurisdicional quando crimes conexos são praticados em mais de uma circunscrição (art. 78, II, CPP).
+6. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara Criminal da Seção Judiciária do Estado de São Paulo, ora suscitado." (CC n. 108.146/DF, Terceira Seção, Rel. Min. Arnaldo Esteves Lima, DJe de 7/5/2010)
+Por conseguinte, conheço do conflito para declarar competente o Juízo Federal da 2ª Vara Criminal de São Paulo.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. FURTO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA. CRIMES PRATICADOS EM DIVERSOS ESTADOS. AUSÊNCIA DE INSTRUÇÃO. IMPOSSIBILIDADE DE PRESSUPOR A CONTINUIDADE DELITIVA. REGRA DO ART. 78, II, CPP. LOCAL DO MAIOR NÚMERO DE INFRAÇÕES. COMPETÊNCIA DO JUÍZO SUSCITANTE .
