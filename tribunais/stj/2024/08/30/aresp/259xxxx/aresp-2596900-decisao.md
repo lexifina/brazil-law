@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto pela LEME EMPREENDIMENTOS E PARTICIPACOES LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA cuja ementa guarda os seguintes termos (fl. 628):
+Apelação Cível Cerceamento de defesa. Inocorrência. Usucapião extraordinária. Requiqsitos. Comprovação. Recurso desprovido. Não há cerceamento de defesa quando o julgador indefere a produção de prova por considerar que há nos autos elementos suficientes para a formação de seu convencimento.
+Comprovada a posse pelo prazo de quinze anos, sem interrupção (posse contínua), sem oposição (posse pacífica) e com animus domini, estão preenchidos os requisitos legais e se impõe o reconhecimento da usucapião extraordinária.
+Sem embargos de declaração..
+No recurso especial, a parte recorrente aponta violação do art. 369 do Código de Processo Civil.
+Sustenta que:
+Sendo imprescindível a produção de prova pericial, a realização desta deve ser determinada pelo magistrado, independentemente de pedido das partes, justamente por ser o Julgador o destinatário da prova. É o que se extrai do exposto no art. 370, do Código de Processo Civil, que estabelece: (fl. 634)
+Alega que (fl. 243):
+Para julgar procedente a ação possessória ou petitória, como é o caso em apreço, o autor deverá indicar exatamente sobre a qual incide a pretensão, pois não se pode proferir sentença aleatória, há que se ter a exata individualização da área pretendida para que não se acabe deferindo a posse em cima de área pertencente a qualquer outro imóvel, que não aquele resultante da relação processual, nem tampouco em extensão maior ou menor do que a efetiva posse.
+No caso em tela, os Recorridos, não comprovaram a extensão da área supostamente ocupada pelos mesmos, não havendo como, na sentença final, definir-se em que área se dará a proteção pretendida, pela falta de indicação da extensão da área.
+Foram apresentadas contrarrazões ao recurso especial (fls. 649-658).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 659-661), o que ensejou a interposição do presente agravo.
+Foram apresentadas contrarrazões (fls. 684-690).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+DA PRODUÇÃO DE PROVAS
+Nos termos da jurisprudência dominante do Superior Tribunal de Justiça, o juiz é soberano na análise das provas, podendo concluir pela desnecessidade da produção de provas periciais, documentais e testemunhais, não ficando adstrito aos fundamentos legais apontados pelas partes. Exige-se apenas que a decisão seja fundamentada, aplicando o julgador a solução por ele considerada pertinente ao caso concreto.
+Assim decidiu o TJMG (fls. 517-518):
+Nos termos do art. 370, do CPC, o juiz tem ampla liberdade para determinar a produção de provas que julgar necessárias à formação de seu convencimento e ao deslinde da causa, podendo, por outro lado, indeferir o pedido de produção de prova inútil ou desnecessária, e julgar antecipadamente a lide face aos argumentos deduzidos pelas partes ou aos demais elementos probatórios já existentes nos autos.
+ ..
+In casu, entendo que o deferimento de outras provas somente iria retardar o andamento do processo, sem efetivo benefício para qualquer das partes, contrariando os princípios da economia e celeridade processuais, mormente porque a parte apelante, em suas razões, não conseguiu indicar a necessidade na realização de prova pericial capaz de alterar a decisão judicial requerida, não apresentando indícios da imprescindibilidade das provas indeferidas.
+Portanto, considerando que as provas constantes dos autos são suficientes, não há que se falar em cerceamento de defesa.
+Verifica-se que, para concluir pela necessidade ou não de produção prova, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula n. 7 do STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. CERCEAMENTO DE DEFESA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. LIBERDADE DE EXPRESSÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 568 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 568/STJ).
+3. Nos termos da jurisprudência do STJ, "cabe ao magistrado verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide e indeferir a produção de provas consideradas desnecessárias, conforme o princípio do livre convencimento do julgador" (AgRg no AREsp 723.568/MS, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/02/2016, DJe de 23/02/2016).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. Rever a conclusão do Tribunal estadual a respeito da suficiência das provas e da não ocorrência de cerceamento de defesa exigiria incursão no campo fático-probatório, providência vedada na via especial, conforme a referida súmula.
+6. "A jurisprudência desta Corte Superior é consolidada no sentido de que a atividade da imprensa deve pautar-se em três pilares, quais sejam: (i) dever de veracidade, (ii) dever de pertinência e (iii) dever geral de cuidado. Se esses deveres não forem observados e disso resultar ofensa a direito da personalidade da pessoa objeto da comunicação, surgirá para o ofendido o direito de ser reparado" (AgInt no AREsp n. 2.090.707/MT, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+7. No caso concreto, o Tribunal de origem concluiu que a matéria não possui conteúdo ofensivo, mas apenas veicula fatos com juízo crítico. Entender de modo contrário demandaria nova análise dos elementos fáticos dos autos, inviável em recurso especial, ante a Súmula n. 7/STJ.
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.251.239/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DESNECESSIDADE DE PRODUÇÃO DE PERÍCIA GRAFOTÉCNICA. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ. REVISÃO. SÚMULA 7/STJ. REVALORAÇÃO DA PROVA. AFASTAMENTO. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos do art. 1.030, I, b, do CPC/2015, não cabe a interposição de recurso ao Superior Tribunal de Justiça para impugnar ato decisório que denega seguimento ao recurso especial, sob o fundamento de estar o acórdão recorrido em consonância com o entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+2. A jurisprudência desta Corte Superior é assente no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento.
+2.1 Por outro lado, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da produção de perícia grafotécnica, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça, sendo inviável a revaloração jurídica.
+3. Acolher o inconformismo da parte insurgente, com vista a desconstituir a convicção alcançada no aresto recorrido, reconhecendo a ocorrência de litigância de má-fé, demandaria o reexame do contexto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ, não sendo caso, também, de revaloração da prova produzida.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.120.272/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DESNECESSIDADE DE NOVA PERÍCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO DA CONFIGURAÇÃO DE DANO INDENIZÁVEL. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR ADEQUADO. IMPOSSIBILIDADE DE ALTERAÇÃO. JUROS DE MORA. RESPONSABILIDADE EXTRACONTRATUAL. TERMO INICIAL. EVENTO DANOSO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção ou complementação de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. O Tribunal a quo, com amparo nos elementos de convicção dos autos, concluiu pela responsabilidade civil da agravante em razão dos danos ambientais causados em decorrência da exploração de sua atividade empresarial. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos.
+3. No caso, o montante dos honorários advocatícios, fixado pela instância ordinária em 12% (doze por cento) sobre o valor da condenação, está dentro dos parâmetros estabelecidos pelo art. 20, § 3º, do CPC/73 e não se caracteriza como exorbitante ou desproporcional, a justificar a excepcional intervenção do Superior Tribunal de Justiça.
+4. Os juros moratórios incidentes sobre os danos morais decorrentes de responsabilidade extracontratual fluem a partir do evento danoso, nos termos da Súmula 54 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 804.303/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/6/2020, DJe de 1/7/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15%, sobre o valor atualizado da causa, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. USUCAPÍÃO EXTRAORDINÁRIO. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. NECESSIDADE. REEXAME DE MATÉRI A FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
