@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por AGUINALDO MARTINS DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, proferido no julgamento do HC n. 0003280-28.2022.8.17.9000.
+Consta dos autos que o recorrente foi inicialmente condenado pelo Juízo da 10ª Vara Criminal da Comarca de Recife, na ação penal n. 001.1994.031672-3, pela prática do delito previsto no artigo 157, § 2º, I e II, do Código Penal, à pena de 12 anos de reclusão e 150 dias-multa, a ser cumprida em regime inicial fechado (fls. 08-19), com trânsito em julgado em 17/06/2013 (fl. 20).
+A defesa impetrou o HC n. 0003280-28.2022.8.17.9000 perante o Tribunal de Justiça do Estado de Pernambuco, que denegou a ordem (fls. 39-64). Interposto o presente recurso ordinário, a defesa alega, em síntese, a desproporcionalidade na dosimetria da pena, marcada pela exasperação da pena-base em dobro do mínimo legal e pela cumulação das causas de aumento de pena com base em um critério meramente matemático.
+Pugna pelo provimento do recurso para reformar o acórdão (fls. 39-49) e conceder a ordem para revisar a dosimetria da pena.
+É o relatório. DECIDO.
+O recorrente busca a reforma do acórdão (fls. 39-64), defendendo a possibilidade de revisar a dosimetria da pena, que exasperou a pena-base em dobro do mínimo legal e cumulou as causas de aumento.
+A decisão colegiada recorrida restou assim ementada:
+PENAL, PROCESSO PENAL E CONSTITUCIONAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO MAJORADO. DOSIMETRIA. OFENSA À SÚMULA Nº 444 DO STJ. SENTENÇA QUE SE LASTREOU NA FOLHA DE ANETECDENTES DO PACIENTE NÃO ACOSTADA AOS AUTOS. VALORAÇÃO MANTIDA. PERSONALIDADE. FRIEZA E AUDÁCIA QUE JUSTIFICAM A NEGATIVAÇÃO DO VETOR. PRECEDENTES. COMPORTAMENTO DA VÍTIMA. VETYOR NEUTRO. CONSEQUÊNCIAS GRAVES DOS DELITOS. ELEVADO VALOR PATRIMONIAL DOS BENS. PENA-BASE MANTIDA. SEGUNDA FASE. PENA INALTERADA. TERCEIRA ETAPA. OFENSA À SÚMULA N. 443 DO STJ. INOCORRÊNCIA. CRIMES PRATICADOS POR CINCOS AGENTES, TODOS ARMADOS E COM REVÓLVERES APONTADOS ÀS VÍTIMAS. PENAS MANTIDAS. ORDEM DENEGADA. DECISÃO UNÂNIME.
+-No âmbito da Revisão Criminal e, também, no habeas corpus substitutivo de revisão criminal, o apenamento imposto na sentença condenatória transitada em julgado somente deve ser revisto quando houver manifesta injustiça ou erro na aplicação ou quando se descobrirem novas circunstâncias que determinem ou autorizem diminuição especial da pena.
+- É possível reorganizar a dosimetria da pena, sem que haja ofensa ao primado do non reformatio in pejus, pois é cabível nova ponderação dos fatos e circunstâncias em que se deu a conduta criminosa pelo Tribunal, mesmo tratando-se de recurso ou pedido exclusivamente defensivo, desde que não seja agravada a situação do réu. Nessa linha: AgRg no HC 448.608/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/06/2018, DJe 08/06/2018.
+- De pronto, a defesa sustenta que, na primeira fase da dosimetria da pena, o juízo a quo ofendeu a Súmula n. 444 do STJ, mas não acostou aos autos da presente impetração, que exige prova pré-constituída, a folha de antecedentes criminais do paciente para a análise da matéria.
+- Por outro lado, inocorreu o alegado bis in idem, pois a sentenciante, embora tenha afirmado que os acusados "associaram-se para praticarem delitos assaltos a mão armada, logo em seguida ressalvou que "no entanto, tal fato não pode servir para elevar o patamar da pena base, pois já está contido no tipo penal a eles enquadrado".
+- Ademais, quanto à frieza e audácia da ação criminosa, tais elementos podem sim ser valorados a título de personalidade negativa, ainda mais no caso, em que os autos narram dois assaltos seguidos, com fuga com carro roubado, rendição de porteiro e a restrição da liberdade de cerca de trinta moradores do prédio, por mais de duas horas, dentro de um cômodo de um apartamento, com ameaça de atear fogo em duas ofendidas, demonstrando que a atuação do paciente e seus comparsas destoou e muito do tipo penal violado.
+- O comportamento da vítima, de fato, não pode ser utilizado em demérito do réu, na medida em que constitui circunstância neutra. Contudo, mesmo afastado dito vetor, verifico o desvalor das consequências do crime, ante o fato de ter se tratado de roubos de bens de elevado valor: um veículo automotor (Monza, na primeira ação, em Piedade) e a quantia de R$ 34.650,00 (segunda ação, no prédio dos Aflitos), o que deve ser levado em conta na primeira fase da dosimetria.
+- Assim, valoradas em desfavor do paciente as circunstâncias judiciais dos antecedentes, personalidade e consequências do delito, deve ser mantida a pena-base aplicada - 8 anos reclusão -, pois proporcional à gravidade concreta do crime e à variação das penas abstratamente cominadas ao tipo penal violado, qual seja, 4 a 10 anos de reclusão.
+- Pela leitura da sentença, verifica-se, de fato, que a pena foi aumentada na fração de  pelas majorantes do emprego de arma de fogo e concurso de agentes sem qualquer fundamentação. Contudo, os autos apontam que os delitos foram praticados pelo concurso de cinco agentes, todos armados com revólveres, apontados, em muitos momentos, para as vítimas, demonstrando a existência de elementos concretos a ensejar a aplicação de fração de aumento maior que a mínima.
+- Ademais, é de bom alvitre destacar que se trata de uma condenação que conta com quase 10 anos de seu trânsito em julgado (17/6/2013) e, considerando que a Súmula n. 443 do STJ foi publicada em momento posterior ao julgado (sentença proferida em 13/4/2007) e que inexiste retroatividade de entendimento jurisprudencial mais favorável ao réu, por questão de segurança jurídica do sistema e em respeito à coisa julgada, entendo inviável a aplicação retroativa do verbete n. 443 da Súmula do Superior Tribunal de Justiça, ainda mais no caso em tela, em que há elementos concretos a justificar a escolha da fração superior. Precedentes.
+- Ordem denegada. Decisão unânime.
+Ocorre que o habeas corpus impetrado na origem funcionou como substituto de revisão criminal e visava à desconstituição de sentença condenatória quase 10 anos após o trânsito em julgado.
+A jurisprudência do Superior Tribunal de Justiça é clara ao estabelecer que, mesmo as nulidades absolutas devem ser arguidas no momento oportuno, sob pena de preclusão.
+Nesse sentido:
+ ..
+2. Verifica-se, na espécie, preclusão da matéria, em virtude de ter transcorrido mais de sete anos entre a impetração do mandamus e a sessão de julgamento do recurso de apelação em que teria ocorrido a suposta ilegalidade.
+3. Com efeito, a jurisprudência do Superior Tribunal de Justiça - STJ, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas, ou qualquer outra falha ocorrida no acórdão impugnado, também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. 4. Agravo regimental improvido.
+(AgRg no HC n. 690070-PR Relator Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 19/10/2021, QUINTA TURMA, DJ-e de 25/10/2021)
+ ..
+2. "Este Superior Tribunal de Justiça possui entendimento de que o manejo do habeas corpus muito tempo após a edição do ato atacado demanda o reconhecimento da preclusão, não havendo se falar, portanto, em ilegalidade manifesta. Na hipótese em exame, a sentença atacada no Tribunal de origem por meio do mandamus originário transitou em julgado em 21 de agosto de 2017, sem que a defesa tenha interposto apelação, recurso apropriado, nos termos do art. 416 do CPP, vindo o recorrente, após passados 3 anos, alegar a ocorrência de constrangimento ilegal" (RHC 97.329/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+3. Na hipótese, a sentença condenatória foi proferida em 1º de fevereiro de 2016. O Tribunal de origem, por sua vez, julgou a apelação em exame no dia 28 de abril de 2017, sendo que somente no dia 15 de dezembro de 2021 foi impetrado o presente habeas corpus. Desse modo, o mandamus não pode ser conhecido em decorrência da preclusão da matéria, uma vez que transcorridos mais de quatro anos desde o trânsito em julgado da condenação, devendo ser observada a coisa julgada e o princípio da segurança jurídica. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC: 713708/SP Relator Ministro JOEL ILAN PACIORNIK, Data de Julgamento: 29/03/2022, QUINTA TURMA, DJ-e de 04/04/2022)
+ ..
+1. Em respeito à segurança jurídica e a lealdade processual, mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC n. 813269-SC Relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 27/04/2023, QUINTA TURMA, DJ-e de 03/05/2023)
+Além disso, o exame das alegações do recorrente se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, configurando, assim, usurpação da competência do Tribunal de origem, nos termos do artigo 105, I, "e" da Constituição Federal.
+Nessa linha:
+ ..
+1. O advento do trânsito em julgado, ainda que posterior à data da impetração, impossibilita a admissão do writ, visto que o conhecimento de habeas corpus em substituição à revisão criminal subverte o sistema de competências constitucionais, transferindo a análise do feito de órgão estadual para este Tribunal Superior.
+ ../
+4. Agravo regimental de fls. 186/219 desprovido; agravo regimental de fls. 220/253 não conhecido.
+(AgRg no HC n. 811.126/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+Cito, também, a orientação do Supremo Tribunal Federal:
+ ..
+1. O SUPREMO TRIBUNAL FEDERAL não tem admitido a utilização de Habeas Corpus como sucedâneo de Revisão Criminal (HC 134691 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 1º/8/2018; HC 149.653-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 6/2/2018; HC 144.323-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 30/8/2017).
+2. Habeas corpus indeferido.
+(HC n. 199.284/SP, relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 16/8/2021).
+De toda sorte, não vislumbro a presença de coação ilegal ou teratologia que justifique a concessão da ordem de ofício, uma vez que a dosimetria da pena foi fundamentada em elementos concretamente extraídos dos autos, dentro dos limites da discricionariedade vinculada do julgador.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
