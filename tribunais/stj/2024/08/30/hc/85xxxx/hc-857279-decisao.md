@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOAO DA CRUZ JUNIOR, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o ora paciente teve a prisão preventiva decretada, em 23/09/2022, pela suposta prática dos crimes de homicídio, duas tentativas de homicídio e extorsão.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão negando sua substituição por domiciliar e não acolheu a alegação de excesso de prazo, denegando a ordem em acórdão de fls. 51-59.
+No presente writ, postula a defesa, em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente em razão do excesso de prazo para a formação da culpa.
+Pondera que o paciente tem problemas de saúde, sendo necessária a substituição da prisão preventiva por domiciliar.
+Requer, ao final, a revogação da prisão, ou, ainda, a concessão da prisão domiciliar.
+A liminar foi indeferida às fls. 70-71.
+Informações prestadas às fls. 77-80.
+O Ministério Público Federal em parecer, às fls. 82-88, manifestou-se pela denegação do writ, nos termos assim ementado:
+"HABEAS CORPUS COM PEDIDO DE LIMINAR. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, podendo variar diante das circunstâncias do caso concreto.
+3. Parecer pelo não conhecimento do writ" - fl. 82.
+É o relatório. DECIDO.
+Quanto à alegação de excesso de prazo na formação da culpa, extrai-se das informações colhidas que o paciente teve a prisão preventiva decretada no dia 12/01/2023, pela suposta prática dos crimes de homicídio, duas tentativas de homicídio e extorsão" - fl. 19. Em que pese o fato do paciente estar recolhido desde janeiro de 2023, a denúncia foi recebida em 02/02/2023.
+A respeito do tema, destacou a corte de origem que "o feito é complexo, diante do número de denunciados (10) e dos fatos narrados (03). Ademais, verifico que nos dias 10, 11 e 12 de julho de 2023 foram realizadas audiências, tendo sido ouvidas dezenove testemunhas de acusação. Outrossim, o feito aguarda a realização de duas audiências já designadas para o próximo mês (23 e 24 de agosto - evento 505,TERMOAUD1), sendo que na primeira data serão ouvidas cinco testemunhas de acusação e no segundo dia as testemunhas arroladas pelas Defesas" - fl. 54.
+Ressalte-se que a ação penal tramita com regularidade sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+Cumpre salientar que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos.
+Sobre o tema:
+"No que concerne à alegação de excesso de prazo, sua análise não resulta de um critério aritmético, mas de juízo de razoabilidade sobre a marcha investigatória ou processual, feito a partir das circunstâncias do caso concreto, como a complexidade da causa e quaisquer outros fatores que possam influir na tramitação da ação penal ou do inquérito, e não só do tempo da prisão cautelar" (AgRg no HC n. 914.833/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024).
+Nesse sentido: AgRg no HC n. 898.465/SC,de minha relatoria, Quinta Turma, DJe de 16/8/2024; AgRg no RHC n. 197.279/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024 e AgRg no HC n. 915.504/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024.
+Quanto a possibilidade de concessão da prisão domiciliar, verifico que melhor sorte não socorre a defesa.
+In casu, as instâncias ordinárias concluíram não haver comprovação satisfatória dos requisitos necessários para o deferimento da prisão domiciliar, salientando, ainda, que "o Juízo singular requisitou ao presídio que encaminhasse o segregado à consulta médica, inclusive com encaminhamento para especialista, bem como solicitou a entrega do prontuário médico hospitalar. Desse modo, está sendo verificado e prestado o devido acompanhamento médico" - fl. 56.
+Com efeito, é firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de o réu esteja extremamente debilitado, por motivo de grave doença aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, o que não ocorreu nos autos.
+A propósito: AgRg nos EDcl no HC n. 906.481/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024; AgRg no HC n. 908.993/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024; AgRg no RHC n. 188.776/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024 e AgRg no RHC n. 186.041/RO, de minha relatoria, Quinta Turma, DJe de 19/4/2024.
+Ante o exposto, denego a ordem. Expeça-se, contudo, recomendação ao Juízo a quo para que imprima maior celeridade possível no julgamento do presente processo.
+Publique-se. Intime-se.
+EMENTA
