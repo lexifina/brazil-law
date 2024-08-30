@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de incidente de uniformização jurisprudencial apresentado por ESTADO DO RIO GRANDE DO NORTE, com fundamento no art. 18, § 3º, da Lei 12.153/2009, contra o acórdão do JUIZADO ESPECIAL CÍVEL, E DA FAZENDA PÚBLICA DA COMARCA DE FLORÂNIA, assim ementado (fl. 162):
+RECURSO INOMINADO. DIREITO ADMINISTRATIVO. CONSTITUCIONAL. AÇÃO DE COBRANÇA. SERVIDOR DO TJRN. PROGRESSÃO FUNCIONAL POR TITULAÇÃO. COMPROVAÇÃO DOS REQUISITOS EM SETEMBRO DE 2018. MANDADO DE SEGURANÇA COLETIVO IMPETRADO EM JULHO DE 2019. COBRANÇA DOS VALORES NÃO ALCANÇADOS PELO WRIT. DEMANDA ADEQUADA PARA PLEITEAR O RECEBIMENTO DOS VALORES PRETÉRITOS, A CONTAR DO PREENCHIMENTO DOS REQUISITOS EXIGIDOS LEGAIS. IRRESIGNAÇÃO RECURSAL. ACOLHIMENTO PARCIAL. REDUÇÃO DA CONDENAÇÃO AOS LIMITES DO PEDIDO. RETIFICAÇÃO, DE OFÍCIO, DOS JUROS E MORA E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas suas razões, a parte requerente afirma que o acórdão proferido pela Turma Recursal "violou frontalmente o disposto nos arts. 240 do Código de Processo Civil e o art. 405 do Código Civil, dando interpretação divergente da que vem sendo trilhada por essa Corte de Justiça em matéria de juros moratórios"  Tema 611/STJ  (fl. 176).
+Requer que seja provido e incidente "para restabelecer a integridade da interpretação da lei federal, tudo com vistas a uniformizar as decisões das Turmas Recursais dos Juizados Especiais em todo território nacional, pugnando, como consequência, pela reforma do acórdão recorrido, especialmente quanto ao termo inicial dos juros de mora, para que seja ele considerado como a data da citação" (fl. 181).
+Parecer do Ministério Público Federal a favor do não conhecimento do incidente (fls. 208/211).
+É o relatório.
+Nos termos do art. 18, § 3º, da Lei 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal "quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça", e especificamente no que se refere a questões de direito material, senão vejamos:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+ ..
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Nesse contexto, a divergência jurisprudencial segue o mesmo entendimento firmado por ocasião da análise dos recursos especiais fundamentados na alínea c do permissivo constitucional, devendo a parte requerente, para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles.
+Exige-se, portanto, a realização do cotejo analítico dos precedentes confrontados com o caso em apreciação, o que se faz por meio da transcrição dos trechos dos acórdãos paradigma e recorrido que identifiquem a similitude fática e a adoção de posicionamento distinto pelo órgão julgador.
+No presente pedido de uniformização, apenas se limitou a transcrever ementas de julgados desta Corte Superior, e a afirmar que (fl. 180):
+Já o acórdão recorrido, numa mesma situação fática envolvendo a condenação do Estado ao pagamento de vantagens a servidores públicos ainda não liquidadas, decidiu o seguinte sobre o termo inicial dos juros moratórios: "Determino, de ofício, que os juros e correção monetária nos seguintes termos: Desde a data em que a obrigação deveria ter sido cumprida até o dia 8 de dezembro de 2021, correção monetária calculada com base no IPCAE, e juros de mora, calculados com base no índice oficial de remuneração básica aplicado à caderneta de poupança", ou seja, tais consectários incidirão desde o indevido inadimplemento."
+Contudo, não logrou êxito em demonstrar a similitude fática entre o precedente qualificado (Tema 611/STJ) e o presente caso.
+A propósito, confiram-se estes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. FALTA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA E JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio, sendo insuficiente, para tanto, a mera transcrição das ementas dos acórdãos apresentados como paradigmas. Precedentes.
+2. É entendimento pacífico desta Corte que o Pedido de Uniformização de Interpretação de Lei não pode ser conhecido quando não demonstrada a similitude fática e jurídica entre os julgados confrontados.
+3. Agravo interno não provido.
+(AgInt no PUIL n. 1.232/DF, relator Ministro Benedito Gonçalves, Primeira Seção, DJe 2de /4/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno.
+II - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas. Precedentes.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no PUIL n. 440/RN, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 28/2/2018.)
+Ante o exposto, não conheço do pedido de uniformização.
+Publique-se. Intimem-se.
+EMENTA
