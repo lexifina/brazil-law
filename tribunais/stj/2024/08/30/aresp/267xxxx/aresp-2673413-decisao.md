@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIANO SILVESTRE DA SILVA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+A defesa aponta negativa de vigência ao art. 387, § 2º, do Código de Processo Penal, bem como ao art. 33, § 2º, "c", do Código Penal, alegando que o próprio julgado admite que há uma pena restante de aproximadamente 03 anos e 02 meses a ser cumprida, o que permitiria a imposição do regime aberto.
+Afirma que as considerações acerca da suposta gravidade do crime já justificaram o aumento da pena na primeira fase da dosimetria, de modo que considerá-la novamente para deixar de fixar o regime aberto para o resgate da reprimenda, quando o recorrente permaneceu preso por 3 anos e 5 meses, configura evidente bis in idem (e-STJ, fls. 1330-1332).
+Foram apresentadas as contrarrazões (e-STJ, fls. 1342-1346).
+O recurso foi inadmitido (e-STJ, fls. 1349-1350). Daí este agravo (e-STJ, fls. 1353-1356).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ, fls. 1373-1376).
+É o relatório.
+Decido.
+Consoante se extrai dos autos, o recorrente foi condenado a cumprir uma pena de 06 anos e 08 meses de reclusão em regime fechado, por infração ao artigo 33, caput, da Lei 11.343/06.
+Ao examinar o pedido para realização do cálculo da detração penal, o TJSP assim se manifestou:
+"O réu Adriano Silvestre da Silva foi condenado ao cumprimento de 6 (seis) anos e 8 (oito) meses de reclusão, e ao pagamento de 666 (seiscentos e sessenta e seis) dias-multa, por infração do art. 33, caput, da Lei nº 11.343/06.
+Na primeira fase, a base foi estabelecida acima do mínimo legal em 1/3, em virtude de considerável quantidade e diversidade de entorpecentes que eram comercializados, perfazendo 06 anos e 08 meses de reclusão, e 666 dias multa.
+Na segunda fase, a reincidência se compensou com a confissão, mantidas as penas-básicas.
+Na terceira fase, ausentes causa de aumento ou diminuição. Por fim, não era o caso de se aplicar o redutor previsto no § 4º, do artigo 33 da Lei nº 11.343/06, diante da reincidência.
+Assim, à míngua de outras modificadoras resultou a pena em definitiva em 06 anos e 08 meses de reclusão, e 666 dias multa.
+Importante salientar que o quantum da pena privativa de liberdade não induz, obrigatoriamente, no estabelecimento do regime por ela indicado, eis que para a fixação do regime inicial de cumprimento de pena deve ser feita uma análise conjunta dos artigos 59, caput, e 33, § 3º, ambos do Código Penal.
+E, na hipótese em apreço, observo que, a despeito do disposto na Lei nº 12.736/12, o mero desconto aritmético do tempo de prisão cautelar não possui o condão de modificar o regime prisional, notadamente em razão das circunstâncias judiciais desfavoráveis ao acusado Adriano, que, no caso, guardava, trazia consigo e transportava, para fins de comercialização e entrega a consumo de terceiros, 25 porções de maconha, pesando 25 gramas, e 7 tijolos de cocaína, pesando 7,5 kg., substâncias entorpecentes e que causam dependência física ou psíquica, sem autorização e em desacordo com determinação legal ou regulamentar, oportunidade em que foi surpreendido por policiais civis que investigavam o tráfico de drogas.
+Assim, de acordo com as declarações prestadas em juízo, admitiu o transporte dos entorpecentes. Disse que uma pessoa em Piracicaba lhe ofereceu R$ 10.000,00 para ir a São Paulo buscar as drogas. Quando regressava à cidade, foi abordado pelos policiais, e, desde logo, confessou que transportava os entorpecentes. Confirmou que na sua casa foi encontrada a motocicleta, mas não a prensa. Disse, por fim, que foi a primeira vez que fez esse "tipo de trabalho", e que antes vendia roupas com sua esposa, de porta em porta.
+Os policiais civis contaram que havia meses vinham investigando o envolvimento do réu com o tráfico de drogas. Surgiram notícias de que ele estaria transportando entorpecentes pela Rodovia dos Bandeirantes. Então se posicionaram em campana, e, de fato, avistaram o veículo conduzido pelo réu. Após breve acompanhamento realizaram a abordagem. Questionado, o réu admitiu que transportava 7 tijolos de cocaína sob um fundo falso no porta luvas do veículo.
+No entanto, ainda assim, acatando a decisão do Col. Superior Tribunal de Justiça, e procedendo-se ao desconto do tempo em que esse acusado permaneceu custodiado cautelarmente, (preso em 05/05/2018, solto em 28/10/2021 - fls. 687) (aproximadamente 3 anos e 5 meses), restará uma pena aproximada de 3 anos e 2 meses de reclusão, para apreciação do regime prisional a ser fixado, o que, evidentemente, não se traduz em situação jurídica mais benéfica ao imputado Adriano, como o regime aberto, tendo em vista tendo em vista a gravidade concreta do delito, evidenciada pela quantidade/variedade de droga apreendida e, ainda, pelo fato de que o apelante se dedica a atividades criminosas, a denotar maior periculosidade, o que justifica, a meu ver, a imposição do regime prisional semiaberto.
+Ante o exposto, dá-se parcial provimento ao recurso para estabelecer o regime prisional semiaberto, mantido no mais, o v. Acórdão de fls. 1204/1207." (e-STJ, fls. 1318-1320).
+Como se vê, o acórdão recorrido, após efetuada a detração penal, destacou que, mesmo diante do restante de pena a cumprir - 03 anos e 02 meses de reclusão - o apenado não faz jus ao regime inicial aberto, tendo em vista a quantidade e variedade de drogas apreendidas em seu poder (25 porções de maconha, pesando 25 gramas, e 7 tijolos de cocaína, pesando 7,5 kg), o que ensejou a fixação da pena base em patamar superior ao mínimo legal, em razão da valoração negativa da circunstância judicial do art. 42 da Lei de Drogas.
+Esse entendimento encontra-se em sintonia com a jurisprudência deste Superior Tribunal de Justiça.
+Nesse sentido:
+" ..
+4. Diante do quantum de pena fixado (2 anos, 2 meses e 20 dias de reclusão e 222 dias-multa), inferior a 4 anos, cotejado com a presença de circunstâncias judiciais desfavoráveis e a quantidade de droga apreendida e seu consequente potencial lesivo à saúde pública, o regime a ser imposto é o semiaberto, nos termos dos art. 33, § 3º e 59, ambos do Código Penal, bem como no art. 42 da Lei n. 11.343/06 e em consonância com esta Quinta Turma.
+5. Mantida a não substituição da pena privativa de liberdade por restritivas de direitos, pois, embora a reprimenda final seja inferior a 4 anos, a pena-base foi fixada acima do mínimo legal tendo em vista o reconhecimento de circunstâncias judiciais desfavoráveis e em razão da quantidade de drogas apreendidas, o que justifica o agravamento do regime prisional e a não substituição da pena privativa de liberdade por restritivas de direitos, nos termos dos arts. 33 e 44 do Código Penal c/c o art. 42 da Lei de Drogas.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 885.148/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Ainda que assim não fosse, a reincidência do apenado é suficiente para a fixação do regime imediatamente mais severo do que aquele estabelecido pelo quantum da pena restante (03 anos e 02 meses).
+Corrobora:
+" ..
+7. No caso, desconsiderando-se as ações penais em curso, remanesce apenas a reincidência como fundamento para a fixação do regime inicial imediatamente mais gravoso que, de acordo com o art. 33, § 2.º, do Código Penal, é o semiaberto, por se tratar de pena não superior a quatro anos.
+8. Pedido não conhecido. Ordem de habeas corpus, todavia, concedida, de ofício, para fixar o regime prisional inicial intermediário.
+(HC n. 819.722/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/8/2023, DJe de 30/8/2023.)
+Ante o exposto, com fundamento no art. 932, VIII, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
