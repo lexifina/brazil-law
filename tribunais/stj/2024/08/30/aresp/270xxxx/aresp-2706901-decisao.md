@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo interposto por VENUSIA DE PAULA COSTA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 631):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE EMPRÉSTIMO BANCÁRIO. INSTRUMENTO PARTICULAR DE CESSÃO DE CRÉDITO/DÉBITO FIRMADO COM A CREDBRAZ. VÍNCULO DE CORRESPONDÊNCIA BANCÁRIA ENTRE O BANCO E A CREDBRAZ. NÃO COMPROVAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO DO BANCO. NEXO CAUSAL NÃO DEMONSTRADO. CULPA EXCLUSIVA DO CONSUMIDOR E DE TERCEIROS.
+1. Nos termos do Enunciado nº 297, da Súmula do STJ, aplicam-se aos contratos bancários os preceitos legais do CDC.
+2. Restando demonstrado nos autos que a consumidora, de maneira livre e voluntária, firmou contrato de empréstimo com o banco e, após a disponibilização do valor em conta de sua titularidade, por liberalidade própria, transferiu todo o montante para a conta bancária da Credbraz, visando auferir vantagens pecuniárias, bem como ausente qualquer elemento que demonstre a contribuição do banco com a fraude perpetrada pela Credbraz, não se pode estabelecer nexo causal que permita a responsabilização da instituição financeira.
+3. Sendo certo que o contrato celebrado com o banco não apresenta vícios de vontade, vez que foi regularmente realizado pela consumidora, que não tomou as precauções pertinentes para a utilização do mútuo após o seu recebimento, não há de se falar em nulidade.
+4. Apelação do réu provida. Apelação da autora prejudicada.
+Rejeitados os embargos de declaração opostos (fls. 679/689).
+No recurso especial, a recorrente alega ofensa ao art. 1.022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz a recorrente que "o Tribunal a quo ignorou completamente os argumentos trazidos em sede de contrarrazões de apelação pela ora Recorrente (ID nº 152269939), acima reproduzidos, e que demonstram a participação de correspondente bancário contratado pelo ITAÚ na fraude, o que atrai a responsabilidade do banco segundo aResolução nº 4.935/21do Banco Central" (fls. 696).
+Foram oferecidas contrarrazões ao recurso especial (fls. 710/720), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 724/725), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 728/733).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem ao dar parcial provimento à apelação, consignou que (fls. 634/638):
+Analisando os autos, observa-se que, em 13.05.2019, a parte autora firmou com o Banco Itaú Consignado S.A. contrato de empréstimo com desconto em folha de pagamento, no valor deR$ 72.054,14 (setenta e dois mil e cinquenta e quatro reais e quatorze centavos), a serem pagos em noventa e seis (96) parcelas de R$ 1.810,00 (mil e oitocentos e dez reais) (ID nº 44744753).
+O Banco Itaú Consignado S.A. creditou na conta da autora o valor total do empréstimo, conforme documento de ID nº 44746028.
+Em 16.05.2019, a parte autora firmou com a Credbraz Representação e Consultoria Ltda. instrumento particular de cessão de crédito/débito, no qual se comprometia a transferir a quantia líquida de R$ 72.054,14 (setenta e dois mil e cinquenta e quatro reais e quatorze centavos) para a conta da Credbraz. A Credbraz, por sua vez, se obrigava a pagar à autora quarenta e seis (46)parcelas no valor R$ 2.517,28 (dois mil e quinhentos e dezessete reais e vinte e oito centavos) e, após o pagamento dessas parcelas, se obrigava pagar à autora mais trinta e seis (36) parcelas no valor de R$ 1.810,00 (mil e oitocentos e dez reais) (ID nº 44744754).
+Em 17.05.2019, a parte autora realizou transferência bancária no valor de R$ 72.054,14(setenta e dois mil e cinquenta e quatro reais e quatorze centavos) para a conta da Credbraz (ID nº44744757).
+Em 24.05.2019, a parte autora firmou termo aditivo ao referido instrumento particular de cessão de crédito/débito, na qual a Credbraz se comprometia a pagar à autora noventa e seis (96)parcelas de R$ 1.885,05 (mil e oitocentos e oitenta e cinco reais e cinco centavos) (ID nº44744755), tendo em vista que a parte autora havia firmado com o Banco Itaú novo contrato de empréstimo.
+Contudo, a Credbraz efetuou o pagamento de apenas algumas parcelas e, em março de2020, deixou de arcar com as demais. Não obstante, as parcelas do empréstimo contraído diretamente com o Banco Itaú Consignado S.
+A. continuaram sendo descontadas no contracheque da parte autora.
+Com efeito, as provas juntadas aos autos não demonstram que houve conluio, concordância ou, ao menos, ciência do Banco Itaú com a proposta ofertada pela Credbraz.
+Pelo contrário, os documentos comprovam que a parte autora, de maneira livre e voluntária, firmou contrato de empréstimo com o Banco Itaú e, após a disponibilização do valor em conta de sua titularidade, por liberalidade própria, transferiu todo o montante para a conta bancária da Credbraz, visando auferir vantagens pecuniárias.
+Apesar das alegações da autora no tocante ao golpe sofrido, inexiste qualquer elemento nos autos que demonstre vínculo de correspondência bancária entre o Banco Itaú e a Credibraz, a qual sequer é citada no contrato de empréstimo impugnado.
+Assim, nada obstante a fraude perpetrada pela Credbraz, é certo que o contrato celebrado com o Banco Itaú não apresenta vícios de vontade, vez que foi regularmente realizado pela consumidora, que não tomou as precauções pertinentes para a utilização do mútuo, após o seu recebimento. Além disso, não há comprovação de que a instituição financeira vem realizando descontos no contracheque da autora de forma ilegal e sem o seu prévio consentimento.
+Em que pese ser lamentável a situação vivenciada pela autora, não se pode negar a sua própria responsabilidade pelos prejuízos que sofreu, não se podendo atribuir a culpa do evento à existência de falha nos serviços fornecidos pelo Banco Itaú.
+Portanto, não havendo conduta do banco a contribuir com a fraude perpetrada, não se pode estabelecer nexo causal que permita a sua responsabilização. Esse é o entendimento desta egrégia Corte de Justiça:
+ ..
+Verificada a ocorrência de fato atribuível exclusivamente ao consumidor e/ou aos terceiros envolvidos, a responsabilidade da instituição financeira deve ser afastada, de acordo com o no art. 14, § 3º, do CDC.
+Assim, não há que se falar em responsabilização objetiva ou solidária da instituição bancária, tampouco em anulação do contrato de empréstimo consignado pactuado e a respectiva suspensão dos descontos em folha de pagamento, já que não houve prática de ato ilícito, defeito na prestação do serviço financeiro ou participação em anterior negócio jurídico distinto fraudulento.
+Por todo exposto, deve ser julgada improcedente a demanda em relação ao réu Banco ItaúConsignado S.A., devendo ser reformada a sentença nesse ponto, uma vez que, verificada a conduta regular do banco na prestação do serviço e a culpa exclusiva apenas das outras rés, Credbraz e Padrão de Vida Corretora de Seguros e Representações Ltda., não há ilícito capaz de permitir a indenização, seja material, seja moral.
+Por fim, reconhecida a improcedência dos pedidos com relação do Banco ItaúConsignado S.A., o exame do recurso de apelação interposto pela parte autora resta prejudicado, eis que buscava afastar sua responsabilidade de restituir ao banco o valor do empréstimo. (grifo nosso).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, citos os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12%, sobre o valor atualizado da condenação, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. OFENSA AO ARTIGO 1022 DO CPC/15. INOCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
