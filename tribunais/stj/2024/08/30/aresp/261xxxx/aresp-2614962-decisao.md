@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA se insurgira contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A questão debatida nos autos teve sua repercussão geral reconhecida pelo Supremo Tribunal Federal (STF) nos autos do Recurso Extraordinário 1.479.602 /MG (relator Ministro André Mendonça) e foi assim delimitada:
+"Recurso extraordinário em que se discute, à luz do artigo 150, VI, "a", da Constituição Federal, se o arrendamento de bem imóvel da União para concessionária de serviço público de transporte ferroviário afasta a imunidade tributária recíproca, com a consequente incidência de IPTU sobre o imóvel afetado à prestação do serviço. " (Tema 1.279).
+O Ministro relator determinou, em 26/08/2024, "a suspensão nacional do processamento dos recursos especiais e extraordinário que tratam da questão controvertida no Tema nº 1.297 da Repercussão Geral, até o julgamento deste recurso extraordinário".
+Dessa forma, por medida de economia processual e para evitar decisões divergentes entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, os recursos de temas similares em curso neste Tribunal devem aguardar na Corte de origem a solução do recurso extraordinário afetado, viabilizando, assim, o juízo de conformação nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil (CPC).
+Somente após tal providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Tribunal superior para a análise das questões jurídicas nele suscitadas e que não ficarem prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimem-se.
+EMENTA
