@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. PRISÃO EM FLAGRANTE. CONDENAÇÃO. NULIDADE. ALEGAÇÃO. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE MANDADO JUDICIAL. FUNDADAS RAZÕES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. Agravo regimental improvido.
+RELATÓRIO
+Igor Aurelio Ferreira ingressa com agravo regimental, inconformado com a decisão de fls. 438/442, assim ementada:
+HABEAS CORPUS. RECEPTAÇÃO. PRISÃO EM FLAGRANTE. CONDENAÇÃO. NULIDADE. ALEGAÇÃO. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE MANDADO JUDICIAL. FUNDADAS RAZÕES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Alega o agravante que não existem ressalvas para a impetração de habeas corpus, quando a liberdade de locomoção estiver sendo ameaçada. Em verdade, o habeas corpus trata-se ação autônoma de impugnação, capaz de impugnar ato atentatório à liberdade de locomoção, não havendo que se falar em não cabimento ante suposta necessidade de dilação probatória (fls. 451/452).
+Reitera que o Tribunal de origem manteve a condenação imposta ao agravante, mesmo baseada em elementos probatórios obtidos por meio ilícito, quais sejam, violação do direito à intimidade e violação do domicílio. Afirma que, dos autos, não se verifica a existência de fundadas razões presentes em momento anterior à invasão domiciliar. Isso porque o ingresso forçado se apoiou em denúncia anônima que relatou aos policiais que teria visto quem deixou o veículo furtado/roubado no local e informou onde ele residia (fl. 454).
+Impugnação do Ministério Público estadual às fls. 473/485.
+Parecer do Ministério Público Federal pelo não provimento do agravo regimental (fl. 493):
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. VIOLAÇÃO DE DOMICÍLIO E AUSÊNCIA DE MANDADO DE BUSCA E APREENSÃO. PACIENTE QUE FOI VISTO ESTACIONANDO VEÍCULO PRODUTO DE FURTO/ROUBO. SITUAÇÃO QUE JUSTIFICA A ENTRADA NA RESIDÊNCIA SEM MANDADO JUDICIAL E MITIGA O DIREITO À INVIOLABILIDADE DE DOMICÍLIO.
+1. Neste recurso, a defesa pede a reconsideração da decisão recorrida, a fim de que o paciente seja absolvido, nos termos do art. 386-II do CPP, porque as provas foram obtidas em razão da quebra da regra de inviolabilidade de domicílio, sem fundadas razões constatadas anteriormente à medida extrema.
+2. O ingresso em moradia alheia depende, para sua validade e sua regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio. Precedentes.
+3. No caso em apreço, constata-se que o ingresso no domicílio se deu em razão de que policiais em patrulhamento de rotina avistaram um carro mal estacionado e, em pesquisa, constataram que se tratava de produto de furto/roubo. Uma pessoa relatou ter visto quem deixou o veículo no local e sabia onde ele residia, o que justificou a entrada dos policiais.
+- Parecer pelo não provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. PRISÃO EM FLAGRANTE. CONDENAÇÃO. NULIDADE. ALEGAÇÃO. INVASÃO DE DOMICÍLIO. AUSÊNCIA DE MANDADO JUDICIAL. FUNDADAS RAZÕES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA. Agravo regimental improvido.
+VOTO
+O inconformismo não merece prosperar.
+As razões do agravo regimental não são suficientes para infirmar a fundamentação da decisão agravada, que manteve o entendimento do Tribunal estadual no sentido da existência de fundadas razões para o ingresso no domicílio do ora agravante. Com efeito, reitero que o ingresso em domicílio ficou devidamente justificado pelas circunstâncias do caso concreto, qual seja, o roubo do veículo, a informação de uma pessoa que viu o acusado estacionando o carro no local e indicou onde ele residia, que indicavam ocorrer, no interior da casa, situação de flagrante delito (fl. 399), não havendo, assim, ilegalidade na atuação dos agentes.
+Confira-se o precedente já mencionado na decisão agravada (fls. 441/442):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.
+NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. EXISTÊNCIA. FUNDADAS RAZÕES PARA O INGRESSO NO IMÓVEL. ALTERAÇÃO DESSE ENTENDIMENTO QUE DEMANDA REEXAME DE PROVA. NULIDADE POR VIOLAÇÃO AO DIREITO DE NÃO AUTOINCRIMINAÇÃO. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 5º, inciso XI, da Constituição Federal - CF assegura a inviolabilidade do domicílio. No entanto, cumpre ressaltar que, consoante disposição expressa do dispositivo constitucional, tal garantia não é absoluta, admitindo relativização em caso de flagrante delito.
+Acerca da interpretação que deve ser conferida à norma que excepciona a inviolabilidade do domicílio, o Supremo Tribunal Federal - STF, por ocasião do julgamento do RE n. 603.616/RO, assentou o entendimento de que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+2. No caso dos autos, os policiais militares realizavam patrulhamento de rotina e avistaram um veículo estacionado de forma irregular, ao lado de um grupo de pessoas que estavam fazendo um churrasco. Realizada a abordagem, em busca veicular foram encontradas 4 porções de maconha, com peso de 29,718g. Somente após essa primeira apreensão, os policiais se dirigiram à residência do paciente, onde localizaram mais drogas e duas balanças de precisão. Nesse contexto, entendo que presente a justa causa para ingresso no imóvel, razão pela qual não há nulidade das provas por violação de domicílio.
+3. Ante os elementos fáticos extraídos dos autos, para acolher a tese defensiva de nulidade por violação domiciliar, desconstituindo os fundamentos adotados pelas instâncias ordinárias a respeito da existência de elementos previamente identificados que denotavam a prática de crime permanente no interior da residência, seria necessário o reexame de todo o conjunto probatório, providência vedada em habeas corpus, procedimento de cognição sumária e rito célere.
+4. A tese de nulidade por violação ao direito de não autoincriminação constitui inovação recursal, uma vez que não deduzida na petição do habeas corpus, o que impede sua análise no presente agravo regimental.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 819.662/GO, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/9/2023, DJe 20/9/2023 - grifo nosso).
+Ultrapassar o entendimento adotado nas instâncias originárias demandaria o amplo reexame do contexto probatório, o que é incompatível com a via de cognição sumária.
+Nego provimento ao agravo regimental.
