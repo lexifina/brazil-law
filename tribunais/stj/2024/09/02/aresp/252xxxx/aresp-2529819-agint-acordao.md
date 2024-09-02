@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA C/C PEDIDO DE TUTELA ANTECIAPADA - DECISÃO QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por SINDICATO DOS TRABALHADORES EM POSTOS DE SERVICOS DE COMBUSTIVEIS DERIVADOS DE PETROLEO NO ESTADO DA BAHIA, em face de decisão monocrática de fls. 665-669, e-STJ, que conheceu do agravo para não conhecer do recurso especial do ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fls. 343-344, e-STJ):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. NEGÓCIO CELEBRADO SOB A ÉGIDE DO CÓDIGO CIVIL DE 1916. TRANSCURSO DO PRAZO DECADENCIAL DE QUATRO ANOS PREVISTO NOART. 178, § 9º, V, B, DO CC/1916. LEGISLADOR QUE PREVIU PRAZO ESPECÍFICO PARA A HIPÓTESE TRATADA NOS AUTOS. INAPLICABILIDADE DO ART. 177, QUE É RESIDUAL.
+ESCRITURA PÚBLICA LAVRADA EM 1992 E AÇÃO AJUIZADA EM 2003. PRESCRIÇÃO CONFIGURADA. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+1 - Trata-se de Apelação Cível interposta por SINDICATO DOS TRABALHADORES EM POSTOS DE SERVIÇOS DE COMBUSTÍVEIS E DERIVADOS DE PETRÓLEO DO ESTADO DA BAHIA, em face da sentença proferida pela M.M. Juíza de Direito da 7ª Vara de Relações de Consumo da Comarca de Salvador - BA, que nos autos Ação Ordinária n.º 0117419-24.2003.8.05.0001, reconheceu a ocorrência da prescrição e julgou extinto o processo com resolução do mérito, nos termos do artigo 487, inciso II, do Código de Processo Civil.
+2 - Pretende o apelante a declaração de nulidade da cadeia sucessória e reconhecimento da existência de condomínio entre os três novos sindicatos na condição de proprietários dos imóveis descritos na exordial. Alega que "o Sr. ARMANDO FIALHO, quando na condição de dirigente sindical do antigo SIMDEPE, teria utilizado de artifício ardilosos para desviar o patrimônio doente sindical em prol de si e de sua família, haja vista a ocorrência de alienação de imóvel para a Sra. Maria Alice Andrade Mello em 1992, sendo certo que meros dois meses depois teria ocorrido a transferência do bem para MARTABEATRIZ FIALHO, filha do requerido".
+3 - Compulsando detidamente os autos, verifica-se que a sentença deve ser mantida em todos os seus termos.
+4 - Ressalta-se que a escritura em discussão foi lavrada sob a égide do antigo Código Civil de 1916, razão pela qual aplica-se o seu artigo 179, § 9º, inciso V, que fixava o prazo prescricional de 04 (quatro) anos para anulação de negócio jurídico.
+5 - Na hipótese vertente, constata-se que a contagem do prazo prescricional de 04 (quatro) anos se iniciou em 1992, ocasião em que foram averbadas as escrituras em discussão, consoante se verifica da leitura da matrícula acostada aos autos (ID 14648792). Ocorre que somente em 2003 o apelante ingressou com apresente Ação Ordinária, transcorridos mais de 10 (dez) anos desde o início do referido prazo prescricional. Nestas condições, agiu com acerto a eminente Magistrada de Primeiro Grau ao reconhecer a ocorrência da prescrição.
+6 - Sobre a matéria, colacionam-se precedentes dos Tribunais Pátrios.
+7 - Recurso conhecido e desprovido. Sentença mantida.
+Os embargos declaratórios opostos foram rejeitados (fls. 443-466, 493-513 e 537-557, e-STJ).
+Nas razões do recurso especial (fls. 396-417, e-STJ), a parte insurgente apontou violação aos artigos 489, § 1º, IV e 1.022, do CPC, ao argumento da nulidade do acórdão, por ausência de enfretamento de questões essenciais para o deslinde da controvérsia, não obstante a oposição de embargos declaratórios.
+Não houve contrarrazões.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 593-596, e-STJ), dando ensejo na interposição do competente agravo (fls. 599-621, e-STJ), visando destrancar aquela insurgência.
+Não houve contraminuta.
+Em decisão monocrática, conheceu-se do agravo para não se conhecer do recurso especial ante ausência de negativa de prestação jurisdicional.
+Daí o presente agravo interno (fls. 673-682, e-STJ), no qual a parte agravante reitera as razões do apelo extremo, bem como refuta os supramencionados óbices.
+Não houve impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA C/C PEDIDO DE TUTELA ANTECIAPADA - DECISÃO QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte insurgente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. De início, mantém-se a decisão singular no ponto em que afastou a tese de negativa de prestação jurisdicional.
+Consoante asseverado no decisum agravado, cinge-se a controvérsia acerca da alegada vulneração dos artigos 489, § 1º, IV e 1.022, do CPC, ao argumento da nulidade do acórdão, por ausência de enfretamento de questões essenciais para o deslinde da controvérsia, não obstante a oposição de embargos declaratórios.
+Na hipótese, sustentou a existência de omissões acerca dos seguintes pontos: a) a data em que cessou a coação até então exercida pelo recorrido Armando Fialho; b) a data em que o sindicato recorrente, por sua nova diretoria democraticamente eleita, teve ciência da violação de seu direito de proprietário, que foi quando ocorreu a citação dos termos da Ação de Despejo; c) que o prazo prescricional somente começa a fluir do dia em que cessar a coação.
+Acerca das controvérsias, o Tribunal local assim decidiu (fls. 354-355, e-STJ):
+Trata-se de Apelação Cível interposta por SINDICATO DOS TRABALHADORES EMPOSTOS DE SERVIÇOS DE COMBUSTÍVEIS E DERIVADOS DE PETRÓLEO DO ESTADO DA BAHIA em face da sentença proferida pela M.M. Juíza de Direito da 7ª Vara de Relações de Consumo da Comarca de Salvador - BA, que nos autos Ação Ordinária n.º 0117419-24.2003.8.05.0001, reconheceu a ocorrência da prescrição e julgou extinto o processo com resolução do mérito, nos termos do artigo 487, inciso II, do Código de Processo Civil.
+Pretende o apelante a declaração de nulidade da cadeia sucessória e reconhecimento da existência de condomínio entre os três novos sindicatos na condição de proprietários dos imóveis descritos na exordial. Alega que "o Sr. ARMANDO FIALHO, quando na condição de dirigente sindical do antigo SIMDEPE, teria utilizado de artifício ardilosos para desviar o patrimônio do ente sindical em prol de si e de sua família, haja vista a ocorrência de alienação de imóvel para a Sra. Maria Alice Andrade Mello em 1992, sendo certo que meros dois meses depois teria ocorrido a transferência do bem para MARTA BEATRIZ FIALHO, filha do requerido".
+Compulsando detidamente os autos, verifica-se que a sentença deve ser mantida em todos os seus termos.
+Ressalta-se que a escritura em discussão foi lavrada sob a égide do antigo Código Civil de 1916, razão pela qual aplica-se o seu artigo 179, §9º, inciso V, que fixava o prazo prescricional de 04 (quatro) anos para anulação de negócio jurídico, consoante se observa:
+ ..
+Na hipótese vertente, constata-se que a contagem do prazo prescricional de 04 (quatro) anos se iniciou em 1992, ocasião em que foram averbadas as escrituras em discussão, consoante se verifica da leitura da matrícula acostada aos autos (ID 14648792). Ocorre que somente em 2003 o apelante ingressou com a presente Ação Ordinária, transcorridos mais de 10 (dez) anos desde o início do referido prazo prescricional. Nestas condições, agiu com acerto a eminente Magistrada de Primeiro Grau ao reconhecer a ocorrência da prescrição.
+No caso dos autos , o Tribunal local concluiu que o termo inicial do prazo prescricional de 4 anos teve início em 1992, ocasião em que foram averbadas as escrituras, de modo que a pretensão encontra-se prescrita. Dessa forma, não se vislumbram as alegadas omissões, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da insurgente.
+Ademais, a orientação desta Corte é no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+ ..
+(AgInt no AREsp n. 1.832.549/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2021, DJe de 24/8/2021.)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO JURISDICIONAL ADEQUADA. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO PRÉVIA. CONDIÇÃO DE PROCEDIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+(AgInt no AREsp n. 1.455.461/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)  grifou-se
+Como se vê, não se vislumbra omissão, porquanto o acórdão restou devida e suficientemente fundamentado sobre as questões necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos. Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Mantém-se, portanto, afastada a tese de violação aos artigos 489 e 1.022, do CPC/15.
+Deve ser mantida, portanto, a decisão singular que afastou a alegação de ofensa aos artigos 489 e 1.022 do CPC/15.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
