@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO BULK. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE REVOGAÇÃO DAS MEDIDAS CAUTELARES IMPOSTAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PROPORCIONALIDADE E ADEQUAÇÃO NA MANUTENÇÃO DAS MEDIDAS. MOTIVAÇÃO VÁLIDA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Nilton Fernando Ribeiro de Araújo contra a decisão de minha relatoria em que neguei provimento ao recurso, à vista dos fundamentos sintetizados na seguinte ementa (fl. 428):
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO BULK. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE REVOGAÇÃO DAS MEDIDAS CAUTELARES IMPOSTAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PROPORCIONALIDADE E ADEQUAÇÃO NA MANUTENÇÃO DAS MEDIDAS. MOTIVAÇÃO VÁLIDA. PRECEDENTES.
+Recurso improvido.
+Neste recurso, o agravante pede a reconsideração da decisão impugnada, discorrendo sobre o excesso de prazo na manutenção da tornozeleira eletrônica, que perdura por 1 ano e 7 meses.
+Sustenta que NILTON provou sua postura colaborativa no processo durante 1 ano e 7 meses, sendo que qualquer risco de fuga foi elidido porque houve apreensão de passaporte e comunicação de praxe às aduanas para que a PF inclua a restrição de circulação de NILTON no sistema de controle (fl. 437).
+Acrescenta que o monitoramento atualmente só serve para causar constrangimentos ao paciente perante a família, sendo por exemplo barrado para entrar em bancos, viajar de avião ou perante a própria sociedade, que vê a tornozeleira como um estigma, como se réu fosse uma ameaça constante para os demais presentes. Portanto, a utilização de tornozeleira eletrônica por longo período se transformou em uma espécie de etiqueta que coloca NILTON como culpado e perigoso, sem que tenha sequer denúncia recebida (fl. 439).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. OPERAÇÃO BULK. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE REVOGAÇÃO DAS MEDIDAS CAUTELARES IMPOSTAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PROPORCIONALIDADE E ADEQUAÇÃO NA MANUTENÇÃO DAS MEDIDAS. MOTIVAÇÃO VÁLIDA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve prosperar.
+Reitero os fundamentos abordados na decisão impugnada, no sentido da prematuridade da revogação das cautelares que, diante das peculiaridades do caso -remessa de grandes quantidades de drogas pelo Aeroporto Internacional de Guarulhos, evidenciando a atuação de uma organização criminosa -, estão adequadamente justificadas, considerando, ainda, que o recorrente tem apontamentos criminais anteriores por roubo e lesão corporal (informação extraída dos Autos n. 5000868-38.2023.4.03.6119, do site da Justiça Federal da Terceira Região) e, por isso, apesar do tempo decorrido desde a fixação das medidas restritivas impostas ao paciente, o substrato fático que as recomendou remanesce hígido, haja vista a necessidade de se acautelar a persecução penal, ainda em fase de defesa prévia, assegurando-se que o paciente cumpra os seus deveres processuais e que não fuja do distrito da culpa com prejuízo manifesto à instrução processual e à aplicação da lei penal (fl. 393 - grifo nosso).
+Pois bem, apesar das alegações da defesa sobre os possíveis prejuízos causados ao agravante pelo uso excessivo da tornozeleira eletrônica, é imperativo considerar as especificidades do caso concreto. A remessa de grandes quantidades de drogas pelo Aeroporto Internacional de Guarulhos/SP configura um delito de extrema gravidade, que demanda uma resposta adequada das autoridades para garantir a ordem pública e prevenir a reiteração criminosa.
+Nesse contexto, a medida cautelar de monitoramento eletrônico deve ser analisada sob a ótica da necessidade e proporcionalidade. O princípio da necessidade requer que a medida seja essencial para assegurar o cumprimento das determinações judiciais e a prevenção de novas infrações. O princípio da proporcionalidade exige que a medida seja adequada e não excessiva, equilibrando a restrição à liberdade com a gravidade do delito cometido.
+O uso da tornozeleira eletrônica, neste caso, não deve ser considerado excessivo, mas, sim, forma eficaz de monitoração do agravante e de coibir a continuidade de atividades ilícitas. A manutenção da medida deve, portanto, ser justificada pela necessidade de prevenir novos crimes e proteger a ordem pública, mesmo que implique uma restrição ao bem-estar privado do réu, o qual já se encontra beneficiado a o não estar submetido à cautelar máxima da prisão.
+Ausentes, portanto, fundamentos capazes de infirmar a decisão agravada, mantenho-a integralmente.
+Ante o exposto, nego provimento ao agravo regimental.
