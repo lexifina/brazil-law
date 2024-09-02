@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANDERSON JOAQUIM DA SILVA contra decisão proferida às fls. 137/141 em que, com fundamento nos artigos 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conheceu do agravo em recurso especial por incidência da Súmula n. 182/STJ.
+No presente regimental (fls. 148/153), o agravante sustenta que nas razões do agravo em recurso especial foi expressamente argumentado que inexiste causa de pedir recursal em contrariedade com a jurisprudência consolidada desse Tribunal. Aduzem a possibilidade de revaloração da prova. Aduz que a decisão de inadmissibilidade faz referência à suposta incidência da Súmula n. 83/STJ, sem dizer como e por quê, restando inviabilizada a concreta e específica impugnação do decisum.
+Requer a reconsideração da decisão agravada, ou, ainda, a submissão do recurso ao colegiado para que seja conhecido e provido o recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE NÃO IMPUGNADA. SÚMULA N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NÃO DEMONSTRAÇÃO DE INAPLICABILIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ MANTIDA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A defesa deixou de impugnar de forma concreta e específica todos fundamentos da decisão de inadmissibilidade da origem. Quanto à Súmula n. 83 do STJ, cingiu-se a afirmar, genericamente, que a decisão não está em acordo com o entendimento do STJ, sem demonstrar, sequer superficialmente, que os precedentes indicados pelo Tribunal a quo não se aplicam ao caso dos autos, tampouco comprovam que o entendimento desta Corte Superior é diverso do apresentado pelo TJ. Portanto, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+2. Agravo regimental desprovido.
+VOTO
+O inconformismo não prospera.
+Não há razões para alterar o decisório, que fica mantido por seus próprios fundamentos.
+Não é verdade que a decisão de inadmissibilidade foi genérica ao se referir à Súmula n. 83/STJ, tendo citado precedentes desta Corte que refutam a tese de ocorrência de bis in idem, deixando a defesa de demonstrar, sequer superficialmente, que os julgados indicados pelo Tribunal a quo não se aplicam ao caso dos autos, tampouco comprovam que o entendimento desta Corte Superior é diverso do apresentado pelo TJ.
+Assim, a jurisprudência desta Corte determina que " n ão basta, para afastar o óbice da Súmula 83 do STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ, com a indicação clara de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada" (STJ, AgInt no AREsp 1.685.430/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/11/2020).
+Portanto, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Nessa esteira:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA N. 182/STJ. ÓBICES DAS SÚMULAS N. 7 E 83/STJ E 282/STJ NÃO INFIRMADOS PELO AGRAVANTE. DECISÃO MANTIDA.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos do art. 932, III, do CPC/2015; art. 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. Para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. Para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.231.715/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/4/2023, DJe de 14/4/2023.)
+Ante o exposto, voto no sentido de desprover o agravo regimental.
