@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Conforme a orientação jurisprudencial adotada por este Superior Tribunal de Justiça, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF.
+1.1 Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por DECORAÇÕES RONE LTDA em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL, assim ementado (e-STJ, fl. 363):
+AGRAVO DE INSTRUMENTO EM AÇÃO DE DESPEJO POR DENÚNCIA VAZIA C.C. COBRANÇA DE TAXA DE FRUIÇÃO E ACESSÓRIOS. DEFERIMENTO DA TUTELA DE URGÊNCIA - MANTIDO. REQUISITOS LEGAIS - PREENCHIDOS. TÉRMINO DO CONTRATO ENTRE AS PARTES. NOTIFICAÇÃO EXTRAJUDICIAL - DESNECESSÁRIA, PORÉM EFETUADA. DIREITO DE PREFERÊNCIA NA COMPRA DO IMÓVEL - AFASTADO - FALTA DE PRÉVIA AVERBAÇÃO DO CONTRATO DE LOCAÇÃO NA MATRÍCULA DO IMÓVEL. ILEGITIMIDADE DO ESPÓLIO AGRAVADO - REJEITADA - PARTILHA NÃO CONCRETIZADA. INCOMPETÊNCIA DO JUÍZO DE ORIGEM - MATÉRIA A SER SUBMETIDA À APRECIAÇÃO EM PRIMEIRO GRAU, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 433-436).
+Em suas razões recursais (e-STJ, fls. 438-458), a parte recorrente sustentou a existência de violação aos arts. 33 da Lei 8.245/91 e 1245 do Código Civil, defendendo que, como não houve a transferência do imóvel ao adquirente Marcelo Rosa Ribeiro, não começaram a correr os prazos de 30 dias para o registro do contrato de locação na matrícula do imóvel e de 6 (seis) meses para o exercício do direito de preferência pelo locatário preterido.
+Aponta, ainda, divergência jurisprudencial sobre o tema.
+Contrarrazões apresentadas às fls. 499-527 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 586-595 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 626-629), este signatário não conheceu do recurso especial em razão da incidência das Súmulas 735/STF e 7/STJ.
+No presente agravo interno (e-STJ, fls. 633-651), a ora agravante combate os óbices supracitados e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 655-673 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Conforme a orientação jurisprudencial adotada por este Superior Tribunal de Justiça, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF.
+1.1 Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Não merece reparos a decisão agravada que aplicou as Súmulas 735/STF e 7/STJ à pretensão recursal.
+No acórdão ora combatido, o Tribunal de origem limitou-se a manter a decisão que deferiu a tutela de urgência.
+Confira-se (e-STJ, fl. 364-365):
+A concessão da liminar para desocupação do imóvel encontra amparo no artigo 59, §1º, inciso VIII, da Lei nº 8.245/1991, tendo em vista o término da relação contratual entre as partes e o desinteresse do demandante na prorrogação da locação.
+Observo que houve a notificação premonitória (aliás, mais de uma), que se perfectibilizou por reconhecimento da própria Agravante, precisamente o que a motivou a ingressar com ação renovatória de locação c/c com preferência na compra de imóvel (autos nº 08366478-58.2023.8.12.0001).
+Todavia, a notificação sequer seria necessária, visto que o dispositivo acima mencionado diz respeito ao "término do prazo da locação não residencial, tendo sido proposta a ação em até 30 (trinta) dias do termo ou do cumprimento de notificação comunicando o intento de retomada" (destaquei), de modo que basta o termo contratual.
+Ademais, não se vislumbra a probabilidade do direito quanto à preferência na aquisição do imóvel, uma vez que a Recorrente, ao que consta, não cumpriu com o disposto no artigo 33 da Lei de Locações, tendo efetuado tardiamente o registro de locação à margem da matrícula imobiliária, muito tempo depois da cessão de direitos hereditários questionada.
+Também não se mostra plausível a alegação de ilegitimidade ativa do autor, considerando que ainda não teria havido efetiva partilha de bens no inventário do Espólio de Antônio Guedes de Melo, o que o torna parte legítima para a ação de despejo, mesmo porque consta como parte nos autos 0836478-58.2023.8.12.0001.
+Vale ressaltar que houve desistência do pedido renovatório nos autos supracitados, o que apenas corrobora a improcedência recursal. Ainda, a alegada incompetência do juízo de origem deve primeiro ser por ele apreciada, sob pena de supressão de instância. De todo modo, eventual reconhecimento, em princípio, não afetaria o decisum já proferido.
+Assim, diante das razões esposadas e do contexto fático-probatório delineado até o momento nos autos, tenho que se impõe o desprovimento do Recurso, mantendo o decisum que deferiu a tutela de urgência.
+Consoante restou consignado na decisão singular, a jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária.
+Incide, portanto, a Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.").
+Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC/15) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido, confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A TUTELA PROVISÓRIA DE URGÊNCIA. APLICAÇÃO DA SÚMULA Nº 7 DO STJ E DA SÚMULA Nº 735 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que à luz do disposto no enunciado da Súmula nº 735 do STF, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. O Tribunal de Justiça firmou que não estão presentes os requisitos para o deferimento da tutela antecipada, quais sejam, a fumaça do bom direito e o perigo da demora. Essas ponderações foram fundadas na apreciação de fatos, atraindo a incidência da Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. SEGURO HABITACIONAL. ANTECIPAÇÃO DE TUTELA. REQUISITOS CONFIGURADOS. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão de inadmissibilidade do apelo nobre. Reconsideração.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial contra acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação à norma que diga respeito ao mérito da causa. Precedentes.
+3. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, concluiu pela presença dos requisitos autorizadores da tutela cautelar. A alteração da conclusão a que chegou a instância ordinária demanda o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial.
+4. Na hipótese vertente, os embargos de declaração foram opostos com o intuito de questionar matéria considerada não apreciada pela parte recorrente. Tal o desiderato dos embargos, não há motivo para inquiná-los de protelatórios; daí que, em conformidade com a Súmula nº 98 do Superior Tribunal de Justiça, deve ser afastada a multa aplicada pelo Tribunal local.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para dar parcial provimento ao recurso especial, apenas para afastar a multa por embargos protelatórios.
+(AgInt nos EDcl no AREsp n. 1.558.047/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022.)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
