@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO RECORRIDO PELA NÃO OCORRÊNCIA EM RAZÃO DE CULPA DA MÁQUINA JUDICIÁRIA. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme pacífica jurisprudência deste Tribunal Superior, não se reconhece a prescrição intercorrente, na hipótese em que não demonstrada a inércia da parte exequente na condução do processo executivo fiscal. Precedentes.
+3. No caso dos autos, o conhecimento do recurso especial encontra óbice nas Súmulas 7 do STJ e Súmula 283 do STF, pois, além de ser necessário o reexame fático-probatório para eventual conclusão pela ocorrência da prescrição intercorrente, o cotejo das razões do especial com a fundamentação do acórdão recorrido revela a ausência de impugnação específica quanto à afirmação de que haveria culpa da máquina judiciária em providenciar o impulso processual.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por EDUARDO SOUZA SANTOS contra decisão que, ao conhecer do agravo, com apoio nas Súmulas 7 do STJ e 283 do STF, não conheceu de recurso especial em que discute a ocorrência de prescrição intercorrente em processo executivo fiscal.
+A parte agravante não concorda com os óbices sumulares ao conhecimento do recurso e sustenta, em síntese (fls. 148/151):
+Não houve ausência de impugnação específica quanto à afirmação de que haveria culpa da máquina judiciária em providenciar o impulso processual necessário à oitiva da Fazenda Pública para o fim do art. 158 do CTN. Tal questão restou devidamente combatida no especial, eis que assim restou lá explanado pelo ora recorrente  ..  Não se está diante de demora na citação, quando proposta a ação no prazo legal. O processo executivo de primeiro grau encontrava-se em fase de penhora, a qual restou efetivada, tendo sido determinada a suspensão do feito executivo até o efetivo pagamento dos precatórios, estes devidos pelo próprio Estado exequente ao recorrido  ..  O agravado Estado não alegou pandemia para que não obedecesse à decisão transitada em julgado de compensar os valores. Não pode o magistrado, de ofício, defender o Estado, ainda que o represente a condição de Juiz (nunca como parte)  ..  Ainda, o contexto fático descrito no acórdão recorrido é suficiente para eventual conclusão em sentido contrário àquela a que chegou o órgão julgador de piso, pois está sobejamente revelada situação de prescrição intercorrente, o que afasta o óbice da Súmula 7 do STJ.
+Impugnação apresentada pela parte agravada (fls. 157/162).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ACÓRDÃO RECORRIDO PELA NÃO OCORRÊNCIA EM RAZÃO DE CULPA DA MÁQUINA JUDICIÁRIA. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme pacífica jurisprudência deste Tribunal Superior, não se reconhece a prescrição intercorrente, na hipótese em que não demonstrada a inércia da parte exequente na condução do processo executivo fiscal. Precedentes.
+3. No caso dos autos, o conhecimento do recurso especial encontra óbice nas Súmulas 7 do STJ e Súmula 283 do STF, pois, além de ser necessário o reexame fático-probatório para eventual conclusão pela ocorrência da prescrição intercorrente, o cotejo das razões do especial com a fundamentação do acórdão recorrido revela a ausência de impugnação específica quanto à afirmação de que haveria culpa da máquina judiciária em providenciar o impulso processual.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois insuperáveis os óbices ao conhecimento do recurso, uma vez que considerada a pacífica jurisprudência deste Tribunal Superior, segundo a qual não se reconhecer a prescrição intercorrente, na hipótese em que não demonstrada a inércia da parte exequente na condução do processo executivo fiscal.
+A respeito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DA FAZENDA PÚBLICA. MORA ATRIBUÍDA AO PODER JUDICIÁRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Primeira Seção desta Corte fixou a tese jurídica de que "a perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário" (REsp 1.102.431/RJ, relator Ministro Luiz Fux, Primeira Seção, julgado em 9/12/2009, DJe de 1º/2/2010 - regido pela sistemática do art. 543-C do CPC/1973).
+2. A prescrição intercorrente da execução fiscal pressupõe inércia injustificada do ente exequente, o que não se verifica quando o período sem prática de atos processuais é atribuível à mora do Poder Judiciário. Precedentes.
+3. O reexame da decisão proferida pelo Tribunal de origem, de que os autos aguardavam providência do juízo, esbarra no óbice da Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.316.336/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 8/4/2024, DJe de 11/4/2024)
+No mesmo sentido, entre outros: EDcl no AgInt no AREsp n. 1.506.127/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/5/2024, DJe de 7/6/2024; AgInt no REsp n. 2.090.772/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/3/2024, DJe de 19/4/2024.
+Considerada a orientação jurisprudencial deste Tribunal Superior, vejamos, desde logo e no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 63/66):
+Conforme referido na decisão que indeferiu o efeito suspensivo, no caso dos autos, trata-se de execução fiscal ajuizada em 04/04/2006, para a cobrança de IPVA não recolhido dos anos de 2000 a 2004, segundo a CDA que instrui a inicial.
+Comparecendo espontaneamente aos autos, o executado ofereceu para pagamento créditos mediante compensação (fl. 21), com o que não concordou o ente estatal, sendo, posteriormente, acolhido o pedido como oferta de penhora, determinada a lavratura do termo de (fl.49).
+Em grau recursal, após a interposição de agravo interno em agravo de instrumento, fora mantida a penhora do precatório.
+Posteriormente, o executado pugnou pela sub-rogação dos créditos, sendo deferido pelo juízo de origem, determinando-se a suspensão da execução até o efetivo pagamento (fl. 23).
+Após, não houve qualquer manifestação judicial ou das partes no feito, sendo o ente municipal intimado para manifestação somente em 10/07/2019.
+Em imediato peticionamento, o exequente noticiou o pagamento dos precatórios, requerendo a intimação do executado para manifestação acerca do recebimento dos valores, sobrevindo, então, o pedido de reconhecimento da prescrição intercorrente.
+Pois bem.
+Tenho que evidenciado que a demora se deu por questões inerentes aos mecanismos da justiça, aplicável, aqui, a previsão da súmula 106 do STJ.
+Desimporta o fato de o ser o próprio ente Estatal aquele quem realizou o pagamento dos precatórios em que sub-rogado, na medida em que deveria constar nestes autos a informação acerca do pagamento, para, daí sim, iniciar-se a contagem do quinquídio prescricional.
+No mais, suspensa a exigibilidade do crédito tributário, faz-se necessária a intimação do credor para informar acerca do pagamento do débito.
+ ..
+Evidentemente, no caso em apreço, não se está diante do parcelamento nos autos.
+Aplicável o art. 158 do CTN à espécie, dada a indisponibilidade do crédito tributário, que impede a presunção de pagamento.
+Assim, o quinquídio prescricional não se inicia a contar o pagamento do precatório, como faz tentar crer o agravante, mas, sim, da intimação do exequente para manifestação acerca da satisfação do débito.
+Pois bem.
+Tal como consignado na decisão agravada, correta a decisão de inadmissão com apoio na Súmula 283 do STF, pois o cotejo das razões do especial com a fundamentação do acórdão recorrido revela a ausência de impugnação específica quanto à afirmação de que haveria culpa da máquina judiciária em providenciar o impulso processual necessário à oitiva da Fazenda Pública para o fim do art. 158 do CTN.
+De fato, a só alegação de que "foi por pura inércia do órgão estatal exequente ora recorrido que a prescrição intercorrente restou implementada, e não por culpa do Poder Judiciário" não serve ao afastamento do fundamento relacionado à Súmula 106 do STJ, notadamente, diante da firmação de que seria necessária a intimação da parte exequente, que, no caso, não foi feita.
+De outro lado, o contexto fático descrito no acórdão recorrido, por si, não é suficiente para eventual conclusão em sentido contrário àquela a que chegou o órgão julgador a quo, pois não revela situação de prescrição intercorrente; e, por isso, o conhecimento do recurso também encontra óbice na Súmula 7 do STJ.
+Nessa linha, entre outros: REsp n. 1.102.431/RJ, relator Ministro Luiz Fux, Primeira Seção, julgado em 9/12/2009, DJe de 1/2/2010; AgInt no AREsp n. 2.557.913/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/6/2024, DJe de 27/6/2024; AgInt nos EDcl no AREsp n. 2.296.475/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/6/2024, DJe de 26/6/2024; AgInt no REsp n. 2.107.831/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024; AgInt nos EDcl no AREsp n. 2.190.513/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023; AgInt no REsp n. 1.998.791/RJ, relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
