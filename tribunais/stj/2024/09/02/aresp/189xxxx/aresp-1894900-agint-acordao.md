@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÕES NO ACÓRDÃO PROFERIDO NA ORIGEM. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dispositivos de lei.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incidência no presente caso da Súmula 283 do Supremo Tribunal Federal (STF).
+3. Inadmitido o recurso especial em virtude da existência de divergência entre a pretensão recursal e entendimento desta Corte Superior, deve a parte recorrente apresentar julgados deste Tribunal contemporâneos ou supervenientes aos transcritos na decisão de admissibilidade, realizando o cotejo analítico entre eles. Pode ainda, quando for o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA CONSTANZA DE LIMA MUNIZ BOTELHO contra a decisão que conheceu parcialmente do recurso especial para dar-lhe parcial provimento com fundamento na inexistência de violação aos arts. 489 e 1.022 do CPC, na impossibilidade de exame de norma constitucional, na incidência da Súmula 283 do STF e na ausência de intuito protelatório nos embargos de declaração opostos na origem.
+Em suas razões, a parte agravante sustenta que:
+(a) há efetiva violação aos arts. 489 e 1.022 do CPC, dado que o Tribunal de origem não se manifestou sobre os argumentos inerentes ao mérito, mormente a respeito de sua irresponsabilidade de arcar com perícia definitiva, da redução dos honorários do perito e do respectivo ônus do ente expropriante;
+(b) foi impugnado o fundamento relativo à incidência da Súmula 283 do STF de que a responsabilidade pelo custeio da perícia não se confundiria com a inversão do ônus da prova;
+(c) é inconstitucional atribuir à parte expropriada a responsabilidade pelo pagamento da perícia definitiva;
+(d) o dissídio foi regularmente cotejado.
+Não foi apresentada impugnação (fl. 852).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÕES NO ACÓRDÃO PROFERIDO NA ORIGEM. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. Não há ofensa aos arts. 489 e 1.022 do Código de Processo Civil (CPC) quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dispositivos de lei.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incidência no presente caso da Súmula 283 do Supremo Tribunal Federal (STF).
+3. Inadmitido o recurso especial em virtude da existência de divergência entre a pretensão recursal e entendimento desta Corte Superior, deve a parte recorrente apresentar julgados deste Tribunal contemporâneos ou supervenientes aos transcritos na decisão de admissibilidade, realizando o cotejo analítico entre eles. Pode ainda, quando for o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+4. Agravo interno a que se nega provimento.
+VOTO
+Compulsando os autos, observo que o agravo interno não merece prosperar tendo em vista que, dos argumentos nele apresentados, não vislumbro razões para reformar a decisão recorrida.
+Conforme consignado na decisão agravada, verificou-se inexistir a alegada violação dos arts. 489 e 1.022 do CPC, pois a prestação jurisdicional havia sido dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido.
+O Tribunal de origem apreciou fundamentadamente a controvérsia, notadamente às fls. 484/486, não padecendo o julgado de nenhum erro material, omissão, contradição ou obscuridade.
+Ressalto que o contraponto aos argumentos das partes não demanda citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao debate dos autos, não fazendo sentido, assim, que se exija a pormenorização de cada tese jurídica ou precedente trazido à baila, à guisa de quesitos, como se laudo pericial fosse.
+Noutro passo, constatou-se que o Tribunal de origem havia decidido quanto ao ônus de custeio da prova pericial que "é cediço o entendimento de que a responsabilidade pelo custeio da perícia não se confunde com a inversão do ônus da prova" (fl. 484).
+A parte ora recorrente, todavia, não se insurgiu contra esse fundamento, limitando-se a reafirmar que, porque o apossamento administrativo se tratava de medida indenizatória, os encargos decorrentes da prova pericial deviam ser despendidos pelo expropriante.
+Não é possível afastar, assim, a incidência, por analogia, da Súmula 283 do STF, que estabelece: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Outrossim, consignou-se que, consoante entendimento firmado pelo Superior Tribunal de Justiça, a parte devia proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurassem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a demonstração da divergência jurisprudencial devia ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados; a inobservância do 1.029, § 1º, do CPC impede o conhecimento do recurso especial pela alínea c do permissivo constitucional. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO PARA IMPUGNAR DECISÃO QUE DEFERIU LIMINAR EM PRODUÇÃO ANTECIPADA DE PROVA. NÃO CABIMENTO. ART. 382, § 4º, DO CPC/2015. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+ ..
+3. Não se conhece do recurso especial interposto com base na alínea "c" do permissivo constitucional quando a divergência não é demonstrada nos termos em que exigido pela legislação processual de regência (1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ). Na espécie, o dissídio não foi comprovado, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.893.155/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/4/2021, DJe de 28/4/2021.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO PERMANÊNCIA. PRESCRIÇÃO. ALEGAÇÃO DE RELAÇÃO DE TRATO SUCESSIVO. INCABÍVEL. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO ENUNCIADO N. 83. DIVERGÊNCIA NÃO COMPROVADA.
+ ..
+VII - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Agravo interno improvido.
+(AgInt no AREsp n. 1.656.796/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/4/2021, DJe de 29/4/2021.)
+Observo que, tanto a respeito da incidência da Súmula 283 do STF quanto em relação à deficiência no cotejo do dissídio, a parte agravante limitou-se a descrever razões breves e genéricas, sem apontamento específico de possível trecho em que teria impugnado o fundamento do acórdão proferido na origem e, no caso do dissídio, apenas colacionou a fundamentação do recurso anterior.
+Nesses termos, não há razão para reforma da decisão monocrática agravada.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC porque o mero inconformismo com a decisão agravada não enseja a necessária imposição de sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado, como no caso em exame.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
