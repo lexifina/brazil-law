@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT CONTRA DECISÃO QUE INDEFERIU LIMINAR NO HABEAS CORPUS. SUPERVENIÊNCIA DE ACÓRDÃO NA ORIGEM. PREJUDICIALIDADE. REITERAÇÃO DE MATÉRIA SUSCITADA EM OUTRA IMPETRAÇÃO. AGRAVO DESPROVIDO.
+1. A decisão agravada julgou prejudicado o recurso no writ impetrado contra ato de Desembargador Relator que indeferiu liminar em habeas corpus.
+2. Segundo orientação do STJ, "na hipótese de habeas corpus contra liminar de Desembargador, é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências" (AgRg no HC n. 737.749/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 17/8/2023).
+3. A irresignação veicula pedido e causa de pedir análogos aos formulados no HC 920.733/SP. Diante de inadmissível reiteração, resta obstaculizado o processamento do agravo .
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de petição ajuizada em favor de ELIAS DE ALMEIDA VITORIANO após prolação de decisão de minha lavra que julgou prejudicado o agravo regimental interposto contra a decisão que indeferiu liminarmente o habeas corpus.
+A defesa pretende a revogação da prisão preventiva imposta ao paciente.
+É o breve relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT CONTRA DECISÃO QUE INDEFERIU LIMINAR NO HABEAS CORPUS. SUPERVENIÊNCIA DE ACÓRDÃO NA ORIGEM. PREJUDICIALIDADE. REITERAÇÃO DE MATÉRIA SUSCITADA EM OUTRA IMPETRAÇÃO. AGRAVO DESPROVIDO.
+1. A decisão agravada julgou prejudicado o recurso no writ impetrado contra ato de Desembargador Relator que indeferiu liminar em habeas corpus.
+2. Segundo orientação do STJ, "na hipótese de habeas corpus contra liminar de Desembargador, é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências" (AgRg no HC n. 737.749/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 17/8/2023).
+3. A irresignação veicula pedido e causa de pedir análogos aos formulados no HC 920.733/SP. Diante de inadmissível reiteração, resta obstaculizado o processamento do agravo .
+4. Agravo regimental desprovido.
+VOTO
+Preliminarmente, em respeito ao princípio da fungibilidade, da instrumentalidade das formas e da efetividade do processo, o pedido será recebido como agravo regimental, uma vez que esse é o recurso cabível para fins de reconsideração de decisão monocrática proferida por relator, nos termos dos arts. 258 e 259 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.
+A decisão combatida julgou prejudicado recurso no writ impetrado contra ato de Desembargador Relator que indeferiu liminar em habeas corpus, nos seguintes termos:
+"O agravo está prejudicado.
+De acordo com as informações disponíveis no sistema de processamento de ações judiciais eletrônicas da Corte estadual (e-SAJ), a Sétima Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo denegou a ordem pleiteada no HC 2049051-09.2024.8.26.0000.
+Sobrevindo decisão de mérito na origem, evidencia-se a perda de objeto recursal, pois cessadas as circunstâncias determinantes da impetração formulada nesta Corte Superior. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO TRIPLAMENTE MAJORADO. EXTORSÃO. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE. SUPERVENIÊNCIA DE JULGAMENTO DE MÉRITO DO WRIT ORIGINÁRIO PELO TRIBUNAL A QUO. AGRAVO PREJUDICADO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2. Anoto que " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/08/2018).
+3. Agravo regimental prejudicado.
+(AgRg no HC n. 803.709/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/5/2023, DJe de 26/5/2023.)
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o agravo regimental no habeas corpus" (fls. 246/247).
+Verifica-se a higidez do ato contestado, porquanto apresenta harmonia com a orientação do STJ de que "na hipótese de habeas corpus contra liminar de Desembargador, é correta a declaração de prejudicialidade do pedido de superação da Súmula n. 691 do STF se sobrevém o julgamento de mérito da impetração requerida ao Tribunal de Justiça. O acórdão denegatório da ordem desafia impugnação própria, não sendo mais necessária a subversão à regular ordem de competências" (AgRg no HC n. 737.749/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe de 17/8/2023). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT CONTRA INDEFERIMENTO DE LIMINAR. SÚMULA N. 691 DO STF. JULGAMENTO DO MÉRITO DO HABEAS CORPUS ORIGINÁRIO. PEDIDO PREJUDICADO. POSTERIOR INTERPOSIÇÃO DE RECURSO ORDINÁRIO CONTRA ACÓRDÃO DO TRIBUNAL ANTECEDENTE. TEMAS EXAMINADOS NO STJ. MERA REPETIÇÃO. INADMISSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A superveniência do julgamento do mérito de habeas corpus originário pelo tribunal a quo torna prejudicada a análise de writ impetrado no STJ.
+2. É inadmissível o conhecimento de habeas corpus quando for mera repetição de feito anteriormente julgado no STJ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 677.543/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 9/11/2021, DJe de 16/11/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ROUBO TRIPLAMENTE MAJORADO. EXTORSÃO. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE ILEGALIDADE PATENTE. SUPERVENIÊNCIA DE JULGAMENTO DE MÉRITO DO WRIT ORIGINÁRIO PELO TRIBUNAL A QUO. AGRAVO PREJUDICADO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2. Anoto que " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/08/2018).
+3. Agravo regimental prejudicado.
+(AgRg no HC n. 803.709/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/5/2023, DJe de 26/5/2023.)
+Por fim, a causa de pedir e o pedido delineados na petição de fls. 248/253 são análogos àqueles formulados no HC 920.733/SP - em que a liminar foi indeferida e a defesa se insurgiu mediante agravo regimental - conjuntura que evidencia a operação de reiteração e impede o processamento do recurso.
+A propósito, ilustrativamente:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. ILEGALIDADE DA BUSCA PESSOAL. ALEGADA AUSÊNCIA DE FUNDADAS SUSPEITAS. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA E NULIDADE DA BUSCA PESSOAL REALIZADA. MERA REITERAÇÃO DE HABEAS CORPUS PRÉVIO. PROCESSAMENTO DE DOIS MEIOS DE IMPUGNAÇÃO. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Inviável o processamento do recurso ordinário em habeas corpus que consiste em mera reiteração do HC nº 824.489/MG, já impetrado nesta Corte Superior, com as mesmas partes, pedido e causa de pedir.
+2. Por outro lado, a opção deste Relator para prosseguir com o processamento do habeas corpus deu-se em razão do princípio da economia processual, tendo em vista que, quando o recurso ordinário foi distribuído nesta Corte Superior em 26/5/2023, a liminar no habeas corpus já havia sido indeferida em decisão de 19/5/2023, estando o remédio constitucional em estágio mais avançado.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 181.626/MG, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO. IMPOSSIBILIDADE. RESPEITO AO SISTEMA RECURSAL PREVISTO NA CARTA MAGNA. COAÇÃO ILEGAL DEDUZIDA EM RECURSO ORDINÁRIO AINDA EM PROCESSAMENTO. VIA PROCESSUAL CORRETA. MERA REITERAÇÃO DE PEDIDO. NEGATIVA DE SEGUIMENTO AO PRESENTE WRIT. NÃO CONHECIMENTO ACERTADO. REGIMENTAL IMPROVIDO.
+1. A Primeira Turma do Supremo Tribunal Federal, buscando dar efetividade às normas previstas na Constituição Federal e na Lei 8.038/90, passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que passou a ser adotado por este Superior Tribunal de Justiça, a fim de que fosse restabelecida a organicidade da prestação jurisdicional que envolve a tutela do direito de locomoção.
+2. Ainda que assim não fosse, constituindo a impetração mera reiteração do pedido formulado em recurso ordinário em habeas corpus, ainda em processamento, e considerando-se que essa é via processual correta para analisar o constrangimento apontado, segundo a nova orientação desse STJ, evidente o óbice ao conhecimento do habeas corpus substitutivo.
+3. Agravo regimental improvido.
+(AgRg no HC n. 271.672/MG, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/9/2013, DJe de 26/9/2013. )
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
