@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios de expressão no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTR O SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração opostos por Santa Casa de Misericórdia e Beneficência Portuguesa desafiando acórdão, assim ementado (fls. 1.589/1.590):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. ENTIDADE PRIVADA. SAÚDE COMPLEMENTAR. REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. DEFASAGEM DA TABELA DO SUS. PRETENSÃO DE UTILIZAÇÃO DA TABELA TUNEP. COMPETÊNCIA ADMINISTRATIVA DO CONSELHO NACIONAL DE SAÚDE PARA DEFINIR CRITÉRIOS E VALORES DOS SERVIÇOS PRESTADOS NO ÂMBITO DO SUS. NECESSIDADE DA PRESENÇA, ALÉM DA UNIÃO, DO ENTE SUBNACIONAL CONTRATANTE NA RELAÇÃO JURÍDICO-PROCESSUAL. INCIDÊNCIA DO ART. 114 DO CPC. FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. INDISPENSABILIDADE CARACTERIZADA.
+1. Cuida-se, na origem, de ação ordinária, em que hospital privado prestador de serviço complementar no âmbito do Sistema Único de Saúde (SUS) busca a revisão da Tabela do SUS e dos valores que, com base nela, recebeu pelos procedimentos realizados, com a consequente condenação da União ao pagamento das diferenças a serem oportunamente apuradas. A tanto, sob a alegação de desequilíbrio econômico-financeiro no ajuste celebrado, almeja a parte autora tomar como referência os valores constantes da Tabela TUNEP (editada pela ANS), no lugar da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde .
+2. Em se cuidando da prestação de saúde por meio da participação complementar da iniciativa privada, nos termos do art. 26 da Lei n.
+8.080/90, " o s critérios e valores para a remuneração de serviços e os parâmetros de cobertura assistencial serão estabelecidos pela direção nacional do Sistema Único de Saúde (SUS), aprovados no Conselho Nacional de Saúde".
+3. Sendo, pois, da União o encargo de fixar, em tabela própria, os valores a serem pagos aos entes particulares no âmbito da saúde complementar, legítima se descortina sua presença no polo passivo desta demanda condenatória, em que se postula a revisão da referida tabela. Precedentes.
+4. Nos casos em que a estrutura pública se mostre insuficiente para garantir cobertura assistencial à população, o gestor do SUS pode recorrer à contratação de entidades particulares para prestação de serviços faltantes ou deficitários.
+5. Essa contratação pode se dar por meio de convênio, contrato de gestão e termo de parceria (Lei n. 9.790/99), observada a subsidiária aplicação da Lei n. 8.666/93.
+6. Tendo em vista a coparticipação da União, dos estados e dos municípios na formação do Fundo Nacional de Saúde, bem como o caráter contratual da relação estabelecida entre os entes público e privado, quando prestada a saúde na modalidade complementar, necessária revelar-se-á a presença do contratante subnacional (estado ou município) para compor o polo passivo de ações judiciais como a que ora se está a apreciar, uma vez que, em tese, tais entes federados também suportarão as consequências financeiras do acolhimento da pretensão pecuniária autoral, ou seja, do hospital particular.
+7. Agravo interno não provido.
+A parte embargante, em suas razões recursais, aponta omissão no decisum em relação ao art. 275 do CC. Alega que "a omissão do julgado se mostra bastante evidente na medida em que a decisão embargada não tece uma linha sequer sobre a (des)necessidade de formação de litisconsórcio passivo necessário face à lei que rege o próprio SUS, como também face à Constituição Federal, legislação federa citada e às decisões desse C STJ e do STF" (fl. 1.617).
+Adiante, alega contradição no julgamento "na medida em que impõe a formação de litisconsórcio para incluir o Estado e o Município, mas na mesma decisão reconhece que os entes subnacionais não poderão suportar a obrigação de modificar os valores descritos na Tabela SUS nem ressarcir o autor pelos valores pagos a menor nos últimos anos, tendo em vista que essa responsabilidade é EXCLUSIVA da União Federal, nos termos da Lei nº 8.080/90 - o que só demonstra a ilegitimidade passiva ad causam dos Estados e Municípios" (fl. 1.622).
+Impugnação às fls. 1.658/1.663.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios de expressão no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o estatuído no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do aresto atacado e, ainda, para correção de erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o aresto embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignadas no decisório colegiado embargado as razões para o reconhecimento da legitimidade da União para figurar no feito e, também, a necessidade de formação de litisconsórcio com o ente federado que celebrou o contrato administrativo ou convênio para a prestação de assistência complementar de saúde.
+Ainda no tocante à necessidade de formação de litisconsórcio, não cabe falar em ofensa ao art. 1.022 do CPC. Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativo ou prova. Confiram-se, a propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. CONTRADIÇÃO INTERNA. INEXISTÊNCIA. OMISSÃO. HONORÁRIOS DE SUCUMBÊNCIA. INVERSÃO DA SUCUMBÊNCIA. RECURSO ACOLHIDO PARCIALMENTE.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. A contradição interna passível de ser sanada na via dos embargos declaratórios pode ser entendida como incoerência existente entre os fundamentos e a conclusão do julgado em si mesmo considerado, o que não ocorreu neste caso.
+3. É pacífico o entendimento do Superior Tribunal de Justiça de que "a regra processual aplicável, no que tange à condenação em honorários advocatícios sucumbenciais, é aquela vigente na data da prolatação da sentença" (AgInt no REsp 1.741.941/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 15/10/2018). No presente caso, constitui consectário lógico do provimento do agravo interno do Sindicato a redistribuição dos honorários de sucumbência.
+4. Embargos de declaração acolhidos, com efeitos integrativos.
+(EDcl no AgInt nos EDcl no REsp n. 1.698.201/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/5/2024, DJe de 20/5/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO À DATA-BASE DOS CÁLCULOS NAS PRÉVIAS DO PRECATÓRIO. CONTRADIÇÃO E OMISSÃO DO ACÓRDÃO ESTADUAL. VÍCIOS INEXISTENTES. O ART. 884 DO CÓDIGO CIVIL NÃO AMPARA A TESE RECURSAL. SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO PROVIDO.
+1. O acórdão estadual foi claro e preciso ao consignar os motivos que formaram o seu convencimento sobre a ausência de impugnação tempestiva da
+data-base dos cálculos e a anuência do expropriante, implicando a preclusão para discutir a questão nas prévias dos precatório.
+2. Não houve contradição entre os fundamentos tomados pelo acórdão e o dispositivo do julgado que reconheceu a preclusão para impugnar a data-base nas prévias do precatório.
+3. Como se sabe, "é assente no STJ que apenas a contradição interna autoriza a oposição de Embargos de Declaração, sendo aquela compreendida como a existente entre os fundamentos e o dispositivo do julgado" (EDcl no AgInt nos EAREsp 966.953/GO, Rel. Ministro Herman Benjamin, Corte Especial, Dje de 8/5/2020). Precedentes.
+4. A tese apresentada no recurso especial diz respeito ao afastamento da preclusão e da anuência reconhecidas pelo colegiado estadual, possibilitando a impugnação da data-base nas prévias do precatório. Como se vê a norma encravada no art. 884 do Código Civil não ampara referida tese, nem possui força para afastar os fundamentos do acórdão.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.328.039/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
