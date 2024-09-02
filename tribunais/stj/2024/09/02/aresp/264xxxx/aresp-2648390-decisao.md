@@ -1,0 +1,89 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por AGRIPASTO AGRICULTURA E PECUÁRIA LTDA, em face de decisão que não admitiu recurso especial (fls. 1632-1634, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1378, e-STJ):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE ASTREINTES - SUSPENSÃO - AÇÃO ANULATÓRIA APENSA PENDENTE DE JULGAMENTO - NECESSIDADE - RISCO DE PREJUDICIALIDADE -INTELIGÊNCIA DO ART. 313, V, "A", DO CPC/2015 - PODER GERAL DE CAUTELA - REFORMA DA DECISÃO.
+Segundo o disposto no artigo 313, V, "a", do Código de Processo Civil, quando o julgamento de uma causa depender do julgamento de outra causa pendente, convém suspender a causa dependente, enquanto não se decida a causa subordinante, tendo em vista a ocorrência de prejudicialidade entre as demandas. Cabe ao Julgador, utilizando-se do poder geral de cautela, definir a prática dos atos processuais de acordo com as peculiaridades do caso concreto, sempre visando a efetiva garantia da prestação jurisdicional.
+Opostos embargos de declaração, os quais foram desacolhidos (fls. 1429-1434, e-STJ).
+Nas razões do recurso especial (fls. 1452-1476, e-STJ), a parte recorrente aponta violação aos seguintes artigos: 7º, 9º, 10, 436, 437, §1º, 489, §1º, II, III e IV, 1.022, II e III, e 1.026, §2º do Código de Processo Civil.
+Sustenta, em síntese, a negativa de prestação jurisdicional, tendo em vista a ausência de fundamentação do acórdão e a existência de omissão e erro material não sanados por meio de embargos de declaração. Na oportunidade, aduz (a) omissão do acórdão recorrido, o qual não apreciou a matéria atinente à preliminar de coisa julgada e à preclusão; (b) a ausência de intimação para se manifestar acerca dos documentos juntados pela parte contrária; (c) a rejeição dos embargos de declaração se deu de forma genérica, sem apreciar os fundamentos invocados pela recorrente, (d) a mera oposição de embargos de declaração para fins de prequestionamento não importa na aplicação da multa do art. 1.026, §2º do CPC.
+Foram apresentadas contrarrazões (fls. 1614-1622, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que o acórdão está adequadamente fundamentado e enfrentou de forma suficiente e integral as questões submetidas ao Tribunal. Além disso, destacou que o reexame da matéria implicaria em revolvimento fático-probatório dos autos, hipótese vedada pela Súmula 7 do STJ.
+Irresignada, aduz a parte agravante, em suma, que o reclamo merece trânsito (fls. 1643-1662, e-STJ). Reitera, na oportunidade, que a corte de origem incorreu em omissão ao não apreciara matéria atinente à preliminar de coisa julgada e preclusão invocada pela recorrente em contraminuta. Afirmou, ainda, que a análise do apelo extremo não exige a incursão em elementos fáticos-probatórios dos autos, razão pela qual deve ser afastado o óbice da Súmula 7/STJ.
+Contraminuta às fls. 1677-1685, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar parcialmente, para que seja afastada a multa do art. 1.026, § 2º, do CPC.
+1. N ão merece prosperar a tese de que a fundamentação adotada pelo Tribunal de origem se deu de forma genérica, sem apreciar os fundamentos invocados pela recorrente, tampouco sem sanar as omissões e erros materiais apontados.
+No caso dos autos, a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia mostra-se clara e suficiente, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+Com efeito, as indagações devolvidas à Corte estadual foram rechaçadas, mediante a adoção de fundamentação dotada da profundidade e da completitude exigidas, mostrando-se a decisão recorrida como amplamente elucidativa.
+É o que se transcreve do seguinte excerto do aresto proferido (fl. 1432, e/STJ):
+(..) No entanto, entendo ser válido esclarecer, tão somente, que não há que se falar em nulidade do acórdão embargado, na medida em que os supostos novos documentos anexados pelos ora embargados após a apresentação de contraminuta, referem-se apenas a cópia da ação anulatória, a qual a recorrente figura como parte, restando evidente que não se tratam de documentos novos, como ela tenta fazer crer, assim como resta demonstrado o conhecimento da agravante sobre os conteúdos constantes nos documentos, se mostrando, assim, completamente descabida a alegação de nulidade do decisum.
+Cumpre ressaltar, ainda, que a Corte de origem foi clara ao mencionar que a "a questão debatida no presente recurso ainda não foi objeto de análise por esta Segunda Instância" (fl. 1381, e-STJ), razão pela qual não haveria falar em correspondência da matéria ora tratada neste agravo de instrumento com outras, anteriormente debatidas em diferentes agravos.
+Assim, resta inequívoca que as alegações são consequências da inconformidade da parte recorrente pelo fato da decisão recorrida não ter acolhido a interpretação que, segundo ela, deveria ter sido emprestada às questões postas.
+Ressalte-se que não são necessárias a análise e interpretação de cada um dos fundamentos jurídicos apresentados pelas partes frente ao caso proposto, devendo o julgador, contudo, apresentar fundamentação suficiente para amparar a tese adotada na decisão.
+No caso dos autos, houve esmiuçada fundamentação acerca da questão principal, sobre a ausência de coisa julgada e preclusão consumativa, bem como acerca de eventual nulidade do acórdão embargado, não cabendo falar, assim, em vício na fundamentação.
+Não se observa, pois, a negativa de prestação jurisdicional alegada.
+2. Em suas razões recursais, a parte recorrente aduz que o pleito de suspensão das medidas já fora rejeitado não só pelo juízo primevo, mas também pelo Eg. TJMG, atraindo a incidência da coisa julgada e do instituto da preclusão à matéria trazida no presente agravo de instrumento.
+Narra, em suma, que a Turma Julgadora rejeitou a preliminar de coisa julgada e preclusão sem explicitar o porquê de as razões ora trazidas não possuírem correspondência com as matérias já julgadas em outros agravos de instrumento.
+No caso, verifica-se que o Tribunal local, à luz das particularidades do caso e do acervo probatório que instrui os autos, constatou que a matéria trazida nos autos ainda não havia sido objeto de análise pela segunda instância da Corte de origem, afastando, assim, a tese preclusão/coisa julgada.
+Veja-se (fl. 1381, e-STJ):
+No que diz respeito a preliminar de coisa julgada, tenho que mais uma vez não assiste razão à agravada.
+Isso porque, ao contrário do que tenta fazer crer a recorrida, analisando com cautela o feito, verifica-se que a questão debatida no presente recurso ainda não foi objeto de análise por esta Segunda Instância, não havendo, assim, que se falar em preclusão/coisa julgada da matéria ora em debate, pelo que rejeito a preliminar acima e passo a análise do mérito recursal. (Grifou-se)
+Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local, na forma pretendida pela parte recorrente, relativo à ofensa à coisa julgada e a ocorrência de preclusão, demandaria necessariamente a reapreciação do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+A propósito, mutatis mutandis:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE CONTRAFAÇÃO - DIREITO MARCÁRIO - PROPRIEDADE INDUSTRIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+(..) 5. A análise dos fundamentos que afastaram a alegação de coisa julgada exige o reexame do conjunto fático-probatório dos autos, o que se mostra inviável nesta via especial, ante o óbice da Súmula 7/STJ. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.834.330/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.) (Grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. QUESTÃO DE ORDEM PÚBLICA. ALEGAÇÃO DE INTEMPESTIVIDADE E DE VIOLAÇÃO À COISA JULGADA. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ. 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. "Inexiste preclusão quanto aos pressupostos processuais e condições da ação alegados em exceção de pré-executividade, pois são matérias de ordem pública, podendo ser apreciadas pela instância ordinária a qualquer tempo"
+(AgRg no REsp n. 1.336.574/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 17.5.2016, DJe de 23.5.2016). 3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.251.878/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.) (Grifou-se)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - RECUPERAÇÃO JUDICIAL - INCIDENTE DE IMPUGNAÇÃO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO RECLAMO DA AGRAVANTE - INSURGÊNCIA DA RECUPERANDA.
+(..) 2. No caso, alterar a conclusão do Colegiado estadual e acolher a pretensão recursal quanto à ocorrência de preclusão ou ofensa à coisa julgada demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ. Precedentes.
+3. Em face da regra do art. 49, § 3º, da Lei 11.101/2005, não se submetem aos efeitos da recuperação judicial os créditos garantidos por alienação fiduciária. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.020.313/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.) (Grifou-se)
+Inafastável, no ponto, o teor da Súmula 7 do STJ.
+3. Do mesmo modo, o acolhimento da tese, quanto ao prejuízo sofrido pela ausência de intimação para se manifestar acerca dos documentos juntados pela parte contrária, demandaria incursão no acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+Na hipótese, a Corte de origem consignou inexistir qualquer nulidade no acórdão recorrido, não se tratando de apresentação de documentos novos, que pudesse atrair eventual prejuízo à parte contrária.
+É o que se extrai de trecho do decisum, à fl. 1432, e-STJ:
+No entanto, entendo ser válido esclarecer, tão somente, que não há que se falar em nulidade do acórdão embargado, na medida em que os supostos novos documentos anexados pelos ora embargados após a apresentação de contraminuta, referem-se apenas a cópia da ação anulatória, a qual a recorrente figura como parte, restando evidente que não se tratam de documentos novos, como ela tenta fazer crer, assim como resta demonstrado o conhecimento da agravante sobre os conteúdos constantes nos documentos, se mostrando, assim, completamente descabida a alegação de nulidade do decisum.
+A jurisprudência desta Corte admite a juntada posterior de documento, desde que respeitado o contraditório e inexistente má-fé:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JUNTADA DE DOCUMENTO COM AS RAZÕES RECURSAIS. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. O STJ possui jurisprudência no sentido de que "é admitida a juntada de documentos, em outras fases do processo, até mesmo na via recursal, desde que respeitado o contraditório e inexistente a má-fé" (AgInt no REsp 1.625.029/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/03/2018, DJe de 13/03/2018). Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1794662/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/06/2019, DJe 28/06/2019)
+Assim, rever a afirmação da Corte local, no sentido de que não se tratava de documentos novos, bem como de que não houve prejuízo ao contraditório ou deslealdade processual, encontra óbice na Súmula 7/STJ.
+4. Por fim, merece prosperar o apelo nobre quanto à aplicação da multa prevista no do art. 1.026, § 2º, do CPC.
+O Tribunal a quo, ao apreciar os aclaratórios então opostos, aplicou multa ao embargante, nos seguintes termos (fl. 1433, e-STJ):
+Diante das considerações acima feitas, nota-se que os presentes Embargos são manifestamente protelatórios, na medida em que objetivam o reexame de matéria já decidida, com o consequente retardamento da prestação jurisdicional e, por tais razões, há que se condenar a embargante no pagamento, a parte embargada, de multa no importe de 1% (um por cento) sobre o valor da causa, nos termos do art. 1.026, §2º do CPC/2015.
+A jurisprudência desta Corte, todavia, é firme no sentido de afastar a aplicação da penalidade de multa quando manejado o recurso previsto em lei, sendo a conduta de per si insuficiente para demonstrar o intento protelatório, sobretudo quando não há reiteração da oposição dos aclaratórios, como ocorre na hipótese.
+Sobre o tema, colaciona-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MULTA EM EMBARGOS DE DECLARAÇÃO. INTUITO PREQUESTIONADOR. ART. 1.026, § 2º, DO CPC. AFASTAMENTO.
+1. Trata-se de Agravo Interno contra decisão que entendeu incidente a Súmula 7/STJ, em causas em que se pretende desconstituir multa protelatória aplicada em primeiros Embargos de Declaração com o fim de prequestionamento.
+2. As decisões apontadas no sentido de relativizar a Súmula 7/STJ, para revalorar os fatos da causa com o fim de enquadramento na Súmula 98/STJ, tem recebido abrigo no Superior Tribunal de Justiça.
+3. Os Embargos de Declaração visaram buscar melhores subsídios para a interposição dos excepcionais recursos. Afastado, portanto, o caráter protelatório e consequentemente a multa.
+4 Agravo Interno provido para dar parcial provimento ao Recurso Especial.
+(AgInt nos EDcl no AREsp n. 2.084.362/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023.)  Grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INTERDITO PROIBITÓRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS PRIMEIROS EMBARGOS DE DECLARAÇÃO OPOSTOS EM FACE DO ACÓRDÃO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de embargos de declaração e o caráter manifestamente protelatório da presente insurgência, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt no AREsp n. 1.847.472/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. INVOCAÇÃO DE SUCESSÃO EMPRESARIAL. PEDIDO PARA SE ALCANÇAR O PATRIMÔNIO DE TERCEIRO QUE NÃO A PESSOA JURÍDICA EXECUTADA. PEDIDO INDEFERIDO. PRECLUSÃO. NOVO PEDIDO. INADMITIDO. DIVERGÊNCIA DAS PREMISSAS FÁTICAS ADOTADAS NA DECISÃO COLEGIADA RECORRIDA. INCIDÊNCIA DO ENUNCIADO DE SÚMULA 7/STJ. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. EMBARGOS DE DECLARAÇÃO. MULTA DO ART. 1.026, §2º, CPC/2015. RECURSO MANIFESTAMENTE PROTELATÓRIO.
+LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. EXERCÍCIO REGULAR DE DIREITO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+ ..  3. Nos termos da jurisprudência prevalecente no STJ, o exercício regular do direito constitucional de recorrer não enseja condenação às penalidades por litigância de má-fé e multa, sendo de se afastar a sanção aplicada na hipótese dos autos.
+4. Agravo interno parcialmente provido.
+(AgInt no AREsp 1243285/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)  Grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+INTEMPESTIVIDADE DO RECURSO ESPECIAL AFASTADA. CÓDIGO DE PROCESSO CIVIL/73. EMBARGOS DECLARATÓRIOS OPOSTOS CONTRA SENTENÇA. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/73. APELAÇÃO. RECURSO CABÍVEL PARA O PEDIDO DO AFASTAMENTO DA MULTA POR EMBARGOS PROTELATÓRIOS.
+NATUREZA INTEGRATIVA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+(..) 3. Conforme jurisprudência do STJ, deve estar evidenciado o caráter procrastinatório dos embargos declatórios para a incidência da multa estabelecida no art. 538 do CPC/73. Não possuem esse intuito os primeiros embargos de declaração manejados contra sentença.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1263237/RR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 15/05/2018, DJe 21/05/2018)  Grifou-se
+Merece reforma o julgado, portanto, neste ponto.
+5. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, dou parcial provimento ao recurso especial, para tão somente afastar a a multa do art. 1.026, § 2º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
