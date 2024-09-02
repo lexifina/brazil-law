@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. RECURSO NÃO PROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Hipótese em que a minorante especial da Lei de Drogas foi negada com base em prova suficiente a respeito da dedicação do réu em a tividades criminosas - decorrente do contexto da prisão em flagrante, de relatório de investigação e testemunho policial ocular de envolvimento do réu, em área criminosa, portando arma de fogo. Logo, a desconstituição de tal entendimento demanda o revolvimento do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+3 . Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JULIANO BARBOSA DE ARAÚJO de decisão na qual dei provimento ao agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais para não conhecer do habeas corpus (e-STJ, fls. 390-39 3).
+A defesa alega, em suma, que "pacífico é o entendimento desta Corte de que fatores como a quantidade e o tipo de droga apreendida podem ser usados para aumentar a pena-base ou fracionar um minorante, mas não podem fundamentar a negativa do benefício do tráfico privilegiado." (e-STJ, fl. 401)
+Aduz que "o habeas corpus teve como objetivo atacar as fun- damentações utilizadas pelo Tribunal de origem, ao passo que o Ministério Público, através de seu recurso, buscou trazer novas fundamentações para o indeferimento da concessão da benesse." (e-STJ, fl. 402)
+Argumenta que "o que deveria ser analisado, conforme voto do próprio ministro é se os inquéritos em curso teriam o condão de afastar ou não o tráfico privilegiado, vez que foi esta a fundamentação atacada." (e-STJ, fl. 402)
+Aponta que "em um dos Boletins de Ocorrência acostados aos autos é demonstrado de maneira clara que o agravante sequer possuía envolvimento com os fatos, de modo que apenas estava no mesmo veículo em que um indivíduo foi preso. Abaixo tre- cho do REDS" (e-STJ, fl. 402)
+Sustenta que, " q uanto aos demais boletins de ocorrência acostados aos autos, há apenas a menção em algumas das oportunidades que o paciente seria integrante de uma gangue. Contudo, além de não indicarem de onde decorrem tais informações e quais seriam as provas nesse sentido, o STJ já sedimentou o entendimento de que "ser conhecido no meio po- licial" e "informações que circulam o meio policial" não servem para afastar o redutor de perna do parágrafo quarto." (e-STJ, fl. 403)
+Anota, ainda, que, embora a Polícia Civil tenha indicado o envolvimento do réu em uma gangue, não indicou "como tomaram ciência dessa informação, se houve alguma investigação nesse sentido ou qualquer elemento concreto que possa comprovar o envolvimento do paciente com o crime organizado." (e-STJ, fl. 404)
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA EVIDENCIADA. RECURSO NÃO PROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Hipótese em que a minorante especial da Lei de Drogas foi negada com base em prova suficiente a respeito da dedicação do réu em a tividades criminosas - decorrente do contexto da prisão em flagrante, de relatório de investigação e testemunho policial ocular de envolvimento do réu, em área criminosa, portando arma de fogo. Logo, a desconstituição de tal entendimento demanda o revolvimento do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+3 . Agravo regimental não provido.
+VOTO
+A decisão agravada merece ser mantida por seus próprios e jurídicos fundamentos, a seguir integralmente reproduzidos:
+" ..
+O juiz sentenciante deixou de aplicar a minorante do tráfico privilegiado nos seguintes termos:
+"I.I. Quanto ao pedido de reconhecimento da causa de diminuição prevista no art. 33, §4º da Lei 11.343/06, acusado Juliano Barbosa Araújo: A Defesa do acusado Juliano Barbosa Araújo pleiteou em sede de alegações finais o reconhecimento da causa de diminuição de 1/6 a 2/3 da pena, conforme redação do artigo supracitado.
+Nessa vereda, temos que a redação do artigo 33, §4º, da Lei 11.343/06 preconiza que é cabível o reconhecimento dessa benesse aos réus que gozem de primariedade, bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Compulsando os autos verifica-se que o acusado não preenche os requisitos citados para o reconhecimento dessa causa de diminuição. O réu Juliano Barbosa Araújo, conforme evidencia-se nos REDS, n.º 2022-005591500-001 e n.º 2021-012602524-001, o último informa que Juliano "é integrante da gangue do buracão do bairro Carapina". Ademais, coaduna com as informações acostadas no REDS o relatório da ocorrência (ID: 9640677768, fl. 09) que narra uma operação de incursão em área de risco, onde os militares avistaram Juliano com um revólver nas mãos junto a outros indivíduos não identificados.
+Outrossim, através da Ordem de Serviço n.º 1635796 (ID: n.º 968917454) os investigadores apuraram que o acusado é bastante conhecido no meio policial.
+Possuindo passagens por crimes de receptação, porte ilegal de armas, ameaça, adulteração de veículos e tráfico de drogas. Para mais, em 2020, foi apreendido, juntamente a outros membros da "gangue do buracão", com várias armas de fogo.
+Portanto, o acusado Juliano Barbosa de Araújo não faz jus a causa de diminuição suscitada pela defesa." (e-STJ, fls. 76-77; sem grifos no original)
+O Tribunal de origem manteve afastado o redutor pelos seguintes motivos:
+" ..  Na terceira fase, também não se verifica causas de aumento e de diminuição da pena, motivo pelo qual concretizo-a, em definitivo, no patamar de 08 (oito) anos de reclusão, e pagamento de 800 (oitocentos) dias-multa, ao valor unitário mínimo.
+E, nesse estrito aspecto, não há como reconhecer, na espécie, a minorante do privilégio, tal como requerido pela defesa técnica.
+Para a aplicação do referido benefício é necessário que o agente preencha os requisitos legais elencados de maneira cumulativa, a saber:
+ ..  Registre-se que a dedicação a atividades criminosas não pode ser apreciada pela certidão de antecedentes criminais, devendo ser aferida do conjunto probatório, visto que a lei já conta como requisitos a primariedade e os bons antecedentes.
+Na presente hipótese, apesar da primariedade técnica do acusado (CAC de fls. 12/13, ordem 06), os elementos de prova atestam, de modo suficiente, que ele se dedicava habitualmente às atividades criminosas, não se tratando de tráfico eventual.
+Extrai-se da comunicação de serviço de fls. 06/08, ordem 98, que, Juliano integra a "Gangue do Buracão" no Bairro Carapina, conhecida pela prática de delitos graves.
+Também foram juntados aos autos diversos boletins de ocorrência (ordens 09 e 10), reportando o seu envolvimento com crimes de receptação, porte ilegal de armas, ameaça e adulteração de veículos e tráfico de drogas, sendo que, no ano de 2020, o acusado foi apreendido junto com outros membros da mencionada gangue, na posse de armas de fogo que seriam utilizadas para executar um rival que sairia da penitenciária Francisco Floriano de Paula (REDS 2020-38742626).
+Desse modo, comprovado nos autos que o réu não preenche os requisitos legais, inviável o reconhecimento da causa de diminuição do artigo 33, § 4º, da Lei nº 11.343/06 em seu favor." (e-STJ, fls. 34-35; sem grifos no original)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+In casu, observa-se que as instâncias ordinárias destacaram que, além de o paciente ter sido preso em flagrante com 2,2kg de cocaína, de acordo com relatório de investigação, ele é integrante da gangue do buracão do bairro Carapina e bastante conhecido no meio policial, além de possuir passagens por crimes de receptação, porte ilegal de armas, ameaça, adulteração de veículos e tráfico de drogas. Ademais, "em 2020, foi apreendido, juntamente a outros membros da "gangue do buracão", com várias armas de fogo", o que indica a sua habitualidade com o tráfico de entorpecentes.
+Ao que se tema, a instância antecedente indicou elementos concretos que comprovam a habitualidade delitiva do agente. Portanto, amparada a decisão em prova suficiente - decorrente do contexto da prisão em flagrante, de relatório de investigação e testemunho policial ocular de envolvimento do réu, em área criminosa, portando arma de fogo - a desconstituição de tal entendimento demanda o revolvimento do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+ ..
+Ante o exposto, dou provimento ao agravo regimental para não conhecer do habeas corpus." (e-STJ, fls. 390-393)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
