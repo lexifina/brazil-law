@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO. AGRAVO NÃO CONHECIDO POR AUSÊNCIA DE CAPACIDADE POSTULATÓRIA. AUSÊNCIA DE VÍCIOS A SEREM SANADOS. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+2. O acórdão embargado não está eivado de vícios, pois explicita que o agravo é inadmissível por ausência de capacidade postulatória do agravante, cuja inscrição na Ordem dos Advogados do Brasil - Seção Judiciária de Minas Gerais encontra-se suspensa. Por esta razão não há de se falar em omissão na análise das alegações expostas na petição.
+3. Constata-se, em suma, que o embargante pretende, na realidade, reapresentar as teses expostas no agravo regimental sem tecer qualquer consideração sobre sua ausência de capacidade postulatória. Em tal situação os embargos devem ser rejeitados. Precedentes.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração (fls. 601/604) opostos por RAIMUNDO JOSÉ REIS FILHO em face de acórdão que negou provimento ao Agravo Regimental na PET 16216/MG assim ementado:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NA PETIÇÃO. ADVOGADO COM INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL - SEÇÃO JUDICIÁRIA DE MINAS GERAIS - OAB/MG SUSPENSA. AUSÊNCIA DE CAPACIDADE POSTULATÓRIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada não identificou qualquer ilegalidade na decisão proferida por Desembargador do Tribunal de Justiça do Estado de Minas Gerais - TJMG que impediu o ora agravante de encaminhar petições àquele Tribunal Estadual, por estar com sua inscrição na OAB/MG suspensa.
+2. Referida suspensão foi confirmada em resposta a ofício encaminhado ao Diretor Secretário Geral da OAB/MG, em 12/4/2024.
+Diante disso, o presente agravo regimental é inadmissível por ausência de capacidade postulatória do agravante.
+3. Agravo regimental não conhecido."
+Nos presentes embargos de declaração o embargante alega que esta relatoria não se manifestou acerca de questões de ordem pública, bem como sobre as alegações de cerceamento de defesa, insistindo na necessidade de encaminhamento de ofícios ao Supremo Tribunal Federal, Conselho Nacional de Justiça, Ordem dos Advogados do Brasil e Tribunal Penal Internacional.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO. AGRAVO NÃO CONHECIDO POR AUSÊNCIA DE CAPACIDADE POSTULATÓRIA. AUSÊNCIA DE VÍCIOS A SEREM SANADOS. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+2. O acórdão embargado não está eivado de vícios, pois explicita que o agravo é inadmissível por ausência de capacidade postulatória do agravante, cuja inscrição na Ordem dos Advogados do Brasil - Seção Judiciária de Minas Gerais encontra-se suspensa. Por esta razão não há de se falar em omissão na análise das alegações expostas na petição.
+3. Constata-se, em suma, que o embargante pretende, na realidade, reapresentar as teses expostas no agravo regimental sem tecer qualquer consideração sobre sua ausência de capacidade postulatória. Em tal situação os embargos devem ser rejeitados. Precedentes.
+4. Embargos de declaração rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Não há omissão ou ambiguidade. O acórdão embargado não está eivado de vícios, pois explicita que o agravo é inadmissível por ausência de capacidade postulatória do agravante, cuja inscrição na Ordem dos Advogados do Brasil - Seção Judiciária de Minas Gerais encontra-se suspensa. Por esta razão não há de se falar em omissão na análise das alegações expostas na petição.
+Constata-se, em suma, que o embargante pretende, na realidade, reapresentar as teses expostas no agravo regimental sem tecer qualquer consideração sobre sua ausência de capacidade postulatória . Em tal situação os embargos devem ser rejeitados. Vejamos:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. PECULATO. LAVAGEM DE DINHEIRO. ORGANIZAÇÃO CRIMINOSA. OMISSÃO E OBSCURIDADE NO ACÓRDÃO EMBARGADO. NÃO OCORRÊNCIA. REITERAÇÃO DE PEDIDOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando no julgado houver ambiguidade, obscuridade, contradição ou omissão.
+2. Não há omissão/obscuridade no acórdão embargado, pois as matérias foram decididas com a devida e clara fundamentação, com fulcro na jurisprudência consolidada do Superior Tribunal de Justiça.
+3. Esta Corte Superior, em julgamento colegiado, concluiu i) não ter ocorrido a negativa de prestação jurisdicional por violação do acórdão recorrido ao art. 619 do CPP, além da ii) inocorrência da inépcia da denúncia, bem como pela iii) existência de justa causa para o prosseguimento da ação penal e que iv) alterar a conclusão do Tribunal de origem acerca da suficiência do lastro probatório a embasar a denúncia, no presente caso, demandaria maior incursão no conjunto fático-probatório dos autos.
+4. Com efeito, "o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento." (AgRg no AREsp n. 2.222.222/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+5. Não se prestam os embargos de declaração para a rediscussão do aresto recorrido, menos ainda em nível infringente, revelado mero inconformismo com o resultado do julgamento.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no RHC n. 170.844/PE, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FINOR. RECURSOS FINANCEIROS. INCORPORAÇÃO POSTERIOR. ADMINISTRAÇÃO POR INSTITUIÇÃO FINANCEIRA (BANCO DO NORDESTE). CONVERSÃO EM AÇÕES E DEBÊNTURES. VALORES DISPONIBILIZADOS PARA BENEFICIÁRIOS. FINANCIAMENTO. DESVIO NA APLICAÇÃO. FINALIDADE ESPECÍFICA. CRIME CONTRA O SISTEMA FINANCEIRO. CONTRADIÇÃO. INEXISTÊNCIA EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou devidamente explicitado que os recursos obtidos pelo Finor eram aplicados em ações e debêntures, os quais eram administrados pelo Banco do Nordeste (instituição financeira), e que se destinavam a apoiar financeiramente determinados empreendimentos. Além disso, após a incorporação desses recursos pelo Finor, havia, por intermédio do Banco do Nordeste, a sua disponibilização para financiamento de projetos dos beneficiários, que deviam ser empresas sob a forma de sociedade por ações, de modo a permitir, em contrapartida, a emissão de valores mobiliários.
+Todas essas circunstâncias, portanto, caracterizam a conduta do insurgente, que desviou o financiamento obtido por meio do Banco do Nordeste de sua finalidade específica, no modelo típico descrito no 20 da Lei n. 7.492/1986.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.731.450/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/11/2021, DJe de 23/11/2021.)
+Ante o exposto, voto no sentido de rejeitar os embargos de declaração.
