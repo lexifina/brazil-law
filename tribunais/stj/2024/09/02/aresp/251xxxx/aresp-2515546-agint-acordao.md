@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AGRAVANTE.
+1. Não se conhece da alegada violação dos artigos 489 e 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes.
+2. A modificação do entendimento do Tribunal de origem demandaria a incursão na seara probatória dos autos, o que é vedado em recurso especial. Aplicação da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por ISMAEL BERTONI, contra decisão monocrática, acostada às fls. 136/139, e-STJ, da lavra deste signatário, a qual conheceu do agravo para não conhecer do recurso especial.
+Consoante se depreende dos autos, o apelo nobre pretendia reformar o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 24, e-STJ):
+APELAÇÃO - Ação de Exigir Contas - Ação ajuizada por herdeira contra inventariante - Sentença de procedência - Inconformismo do réu, sustentando, preliminarmente, que teve seu direito de defesa cerceado com julgamento antecipado da lide. No mérito, sus tenta que as contas foram prestadas nos autos do inventário não havendo se falar em interesse processual ou legitimidade da autora na prestação de contas. Requer, ainda, a concessão da gratuidade da justiça - Preliminares rechaçadas - Descabimento da alegação de mérito - Primeira fase da ação que se limita à análise da necessidade e cabimento da prestação de contas - Réu que efetivamente esteve na administração de bens que também pertencem à autora, coherdeira dos bens deixados por ALDO BERTONI, o que resulta no reconhecimento da legitimidade da autora e a pertinência da ação de prestação de contas - Gratuidade da justiça indeferida, à míngua de comprovação da condição de hipossuficiência econômica do réu - Recurso desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial (fls. 39/54, e-STJ), o recorrente aponta ofensa aos artigos 99, §§ 2º e 3º, 330, II, 489, § 1º, III e IV, e 1.022, III, parágrafo único, II, do CPC/15.
+Sustenta, preliminarmente, entre as fls. 47/50, e-STJ, negativa de prestação jurisdicional. No mérito, alega (a) que deve ser concedida a gratuidade de justiça, porquanto houve comprovação da hipossuficiência econômica. Afirma, ainda, (b) a ilegitimidade da autora, ora recorrida, para exigir contas da inventariante, ora recorrente, por não ter demonstrado a condição de herdeira.
+Contrarrazões (fls. 65/72, e-STJ).
+Em juízo prévio de admissibilidade, a Corte de origem negou o processamento do recurso especial, pelos seguintes fundamentos: (i) ausência de ofensa aos artigos 489 e 1022 do CPC/2015; (ii) não houve demonstração das vulnerações legais suscitadas; e (iii) incidência da Súmula 7/STJ.
+Daí o agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 102/106 (e-STJ).
+O Ministério Público Federal, em parecer de fls.129/133, e-STJ, opinou pelo não provimento do recurso.
+Por decisão monocrática (fls. 136/139, e-STJ), foi desprovido o reclamo, sob o fundamento de incidência da Súmula 284/STF, quanto à alegada violação aos artigos 489 e 1022 do CPC/2015, incidência da Súmula 7 do STJ.
+Irresignado, o insurgente interpõe agravo interno (fls. 143/153, e-STJ), no qual pretende o afastamento da incidência do óbice da Súmula 284/STF, bem como alega a inaplicabilidade, ao caso, da Súmula 7/STJ.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AGRAVANTE.
+1. Não se conhece da alegada violação dos artigos 489 e 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes.
+2. A modificação do entendimento do Tribunal de origem demandaria a incursão na seara probatória dos autos, o que é vedado em recurso especial. Aplicação da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+1. Inicialmente, no tocante à apontada violação aos artigos 489 e 1022 do CPC/2015, deve ser ressaltado que no recurso especial há, entre as fls. 47/50, e-STJ, somente alegação genérica de negativa de prestação jurisdicional, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Ante a deficiente fundamentação do recurso neste ponto, incide a Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. 1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF. (..) 5. Agravo interno desprovido. (AgInt no REsp n. 1.856.694/AL, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/3/2022, DJe de 6/4/2022.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. BENEFICIÁRIO MENOR DE 25 ANOS, MATRICULADO EM INSTITUIÇÃO DE ENSINO SUPERIOR. VIOLAÇÃO DOS ARTIGOS 165, 458 E 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AFRONTA AO ARTIGO 6º DA LINDB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO A QUO ANCORADO EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. (..) 2. A alegação genérica de violação dos artigos 165, 458 e 535 do CPC/1973, sem demonstrar qual questão de direito não foi abordada no acórdão recorrido e a sua efetiva relevância para fins de novo julgamento pelo Tribunal de origem, atrai a aplicação do disposto na Súmula 284/STF. (..) 5. Agravo regimental não provido. (AgRg no AREsp 365.360/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/08/2017, DJe 17/08/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA. LEI 8.270/91. ATUALIZAÇÃO DECORRENTE DE REVISÃO GERAL. PRECEDENTES DO STJ. OMISSÃO DO ACÓRDÃO REGIONAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. 1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF. (..) 3. Agravo interno a que se nega provimento. (AgInt no REsp 1654714/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 20/06/2017)
+2. No mérito, a Corte de origem confirmou a existência de interesse processual e legitimidade da autora, ora agravada, na prestação de contas.
+Convém colacionar os seguintes trechos do acórdão recorrido (fls. 26/27, e-STJ):
+Conforme se depreende do artigo 550 e parágrafos, do Código de Processo Civil, a ação de exigir contas se desenvolve em duas fases.
+Na primeira fase analisa-se a obrigação de prestar contas. Após o trânsito em julgado da sentença que decide a primeira fase, passa-se, logicamente, para a segunda fase, na qual se apura o quantum do débito ou do crédito. Conferir, neste sentido, RT 495/233.
+Presentemente, o que se discute nos autos é a necessidade e consequente obrigação da ré de prestar contas de sua inventariança, trata-se, portanto, da primeira fase da ação.
+E, assim sendo, considerando que o réu, efetivamente, esteve na administração de bens que também pertencem à autora, coherdeiras dos bens deixados por ALDO BERTONI, de rigor o reconhecimento da legitimidade da autora e a pertinência da ação de prestação de contas, com a consequente procedência da ação, pois, como dito, cuida-se presentemente da primeira fase da ação.
+Desse modo, deve prevalecer a r. sentença, pois limitou-se a analisar a adequação da medida, atentando-se escorreitamente para o rito especial da presente demanda.
+Frise-se, por derradeiro, que não cabe discutir e decidir, nesta fase processual, sobre a existência ou não de crédito ou de débito, mas apenas e tão somente determinar-se se há ou não dever de prestar contas, pois como nos ensina ADROALDO FURTADO FABRÍCIO, a ação de prestação de contas "tem a finalidade de aclarar qual o estado, em determinado momento, das relações contrapostas de débito e crédito entre os interessados, de tal modo que só depois de prestados se saberá quem há de pagar e quem tem a receber" (Comentários ao Código de Processo Civil, v. VIII, t. 3, p. 387).
+Dessa forma, reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. NÃO OCORRÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ILEGITIMIDADE ATIVA. INTERESSE DE AGIR. DEVER DE PRESTAR CONTAS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO. 1. Não há falar em violação ao art. 489 do CPC/2015 quando o acórdão resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer em vícios processuais, solucionando a controvérsia. 2. Alterar o entendimento alcançado pelo Tribunal de Justiça, de que haveria legitimidade ativa da agravada, bem como interesse de agir em eventual ação de prestação de contas, demandaria reexame fático-probatório e interpretação de cláusulas contratuais do contrato de fomento mercantil em questão, o que se veda no âmbito do recurso especial por força das Súmulas 5 e 7/STJ. 3. Agravo interno desprovido. (AgInt no AREsp n. 1.816.978/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+3. Quanto à alegada ofensa ao artigo 99, §§ 2º e 3º, do CPC/15, o Tribunal local assim dispôs (fl. 27, e-STJ):
+Por derradeiro, à míngua de comprovação da condição de hipossuficiência econômica do réu, inviável a concessão da gratuidade da justiça, devendo ser mantido o indeferimento nos moldes da sentença recorrida.
+Assim, também neste ponto, rever o entendimento do Tribunal de origem demandaria, inevitavelmente, o exame do contexto fático-probatório dos autos, atraindo o óbice da Súmula 7/STJ.
+Logo, verifica-se, no caso, que a decisão singular deve ser mantida com amparo nos fundamentos e nos precedentes acima alinhavados.
+4 . Ante o exposto, nego provimento ao agravo interno.
+É como voto.
