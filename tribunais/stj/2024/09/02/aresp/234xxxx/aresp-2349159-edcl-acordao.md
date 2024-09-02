@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão da Quarta Turma que negou provimento a agravo interno.
+Em suas razões, sustenta a parte embargante, em síntese, que o acórdão embargado, ao aplicar a Súmula 182 do STJ, fez menção apenas à parte das razões do agravo que dizia respeito à incidência da Súmula 7/STJ, deixando de considerar os demais tópicos, nos quais se teria demonstrado a discussão de direito.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contrarrazoar os embargos de declaração, o que deixou de realizar.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Conforme o art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A parte embargante argumenta, em síntese, que teria impugnado devidamente a decisão agravada de inadmissibilidade do recurso especial.
+Sem razão. Consoante a jurisprudência do Superior Tribunal de Justiça, a decisão de inadmissibilidade do recurso especial é incindível, devendo ser impugnada integralmente, sob pena de incidência da Súmula 7/STJ.
+No caso, embora a decisão em questão tenha deixado de admitir o recurso especial da embargante por, ao menos, três fundamentos (ausência de negativa de prestação jurisdicional, Súmulas 283 e 284 do STF, bem como Súmula 7/STJ), a parte embargante limitou-se a argumentar de forma genérica, nas razões do agravo em recurso especial, a inaplicabilidade da Súmula 7/STJ.
+O fato de ter dedicado parte do seu agravo para impugnar as demais questões relativas à admissibilidade do recurso especial não significa que tenha demonstrado de que maneira a óbice da Súmula 7/STJ poderia ser afastado no caso concreto, razão pela qual foi aplicada, no caso, a Súmula 182 do STJ, por analogia.
+No caso, na origem, a parte sustentava que "o recorrido, na condição de sócio serviço, ao renunciar a favor de terceiro crédito confessado a favor da sociedade de advogados, inadimpliu regra contratual estabelecida no Contrato Social, causando prejuízos", teria violado os termos do contrato social, bem como a legislação federal, no que se afirmaria também ofensa à Súmula 300 do STJ.
+Ocorre que o Tribunal enfrentou a questão, deixando claro que, ainda que se reconhecesse o ato ilícito do agravado em ter renunciado à cobrança dos honorários, tal como arguido pela embargante, a jurisprudência do STJ entende ser nula a cláusula cujo implemento a parte agravante pretende, ao consignar que "Não é possível a estipulação de multa no contrato de honorários para as hipóteses de renúncia ou revogação unilateral do mandato do advogado, independentemente de motivação, respeitado o direito de recebimento dos honorários proporcionais ao serviço prestado" (REsp 1.346.171/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 07/11/2016).
+No tocante à reconvenção, por sua vez, o Tribunal local dirimiu a controvérsia com base em detido exame dos fatos e provas produzidas nos autos, como se pode destacar da seguinte passagem (e-STJ, fl. 3895):
+Em relação à reconvenção, razão igualmente não assiste à reconvinda/apelante.
+Isso porque, não obstante os contratos (evento 1, Informação 660/661, 690/691, 705/706, 709/710, 727/728, 742/742, 785/786, 795/796, 775/776, 880/881 e 848/849) estejam em nome do advogado Aparecido Rodrigues, sócio administrador da reconvinda/apelante, e não em nome desta, restou incontestável, pois não refutado nas razões do recurso e na contestação do evento 5, Contestação 3449/3467, a alegação do réu/reconvinte (evento 1, Contestação 419) de que a sociedade recorrente recebeu os respectivos honorários contratuais sem lhe repassar a sua devida porcentagem. E, os documentos do evento 1, Informação 686/688, 696/704, 707/708, 712/713, 730/740, 763, 777/783, 787/793, 807/841, 851/876 e 885/912, corroboram tal fato, eis que evidenciam o êxito das ações trabalhistas com a expedição dos respectivos alvarás, alguns, inclusives, levantados pela Dra. Aline Fernanda Dall"Azen, que recebeu o respectivo poder (retirada de alvará) do advogado Aparecido Rodrigues em substabelecimento identificando a sociedade apelante, inclusive (evento 1, Informação 703, 739 e 911). (grifos meus).
+O acórdão recorrido possui capítulos autônomos, tendo, em um deles, se dedicado a apreciar a sentença de improcedência da inicial, e, no outro, a sentença de parcial procedência da reconvenção apresentada pela embargada. A decisão de admissibilidade seguiu, portanto, a mesma estrutura do acórdão.
+No caso, a parte embargante até tentou, sem êxito, impugnar, no agravo em recurso especial, a parte da decisão que se referia ao primeiro capítulo do acórdão, mas, em relação ao capítulo que tratou da Súmula 7/STJ, o fez de forma genérica, sem demonstrar de que maneira seria possível afastar, sem reexaminar as provas dos autos, os fundamentos adotados pelo acórdão, acima transcritos.
+Desse modo, correto, e sem omissão, o acórdão embargado, que entendeu pela aplicação da Súmula 182/STJ ao caso, em razão da impugnação genérica ao óbice da Súmula 7/STJ nas razões do agravo em recurso especial.
+É evidente, portanto, que não há omissão ou contradição alguma apta a possibilitar o acolhimento dos presentes embargos de declaração.
+Percebe-se, pois, que a embargante maneja os presentes embargos de declaração em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se verificando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar a decisão embargada.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel, Min. Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, Dje 28.8.2014.
+Assim, não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
