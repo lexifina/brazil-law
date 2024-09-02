@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE TRANSFERÊNCIA DA EXECUÇÃO PENAL. SUPRESSÃO DE DUAS INSTÂNCIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se insere, no âmbito da competência do Superior Tribunal de Justiça, prevista no art. 105 da CF, julgar habeas corpus para resolver incidente da execução não decidido previamente pelo Juiz de primeiro grau ou por Tribunal estadual, por caracterizar supressão de duas instâncias.
+2. Incabível a concessão da ordem, de ofício, pois o condenado não tem direito subjetivo à transferência da execução para outro estado. Em regra, a condenação deve ser cumprida no local onde o delito se consumou (art. 86 da LEP) e a preferência do agravante deve ser analisada conforme critérios de conveniência e oportunidade da Administração, pois está condicionada à boa conduta carcerária, à comprovação do vínculo familiar e à existência de vaga na comarca de destino.
+2. Agravo regimental não provido.
+RELATÓRIO
+JOSE ANTONIO ROMA agrava da decisão de fls. 752-755, denegatória do habeas corpus.
+O condenado argumenta que a manutenção da sua prisão preventiva na sentença é ilegal, "tendo em vista que  ..  o regime de cumprimento de pena é o SEMIABERTO" (fl. 759). Ademais, tem o direito de "ser beneficiado em cumprir pena próximo de sua família" (fl. 762, sic), com tornozeleira eletrônica e em liberdade.
+O MPF opinou pelo não provimento do regimental.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE TRANSFERÊNCIA DA EXECUÇÃO PENAL. SUPRESSÃO DE DUAS INSTÂNCIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se insere, no âmbito da competência do Superior Tribunal de Justiça, prevista no art. 105 da CF, julgar habeas corpus para resolver incidente da execução não decidido previamente pelo Juiz de primeiro grau ou por Tribunal estadual, por caracterizar supressão de duas instâncias.
+2. Incabível a concessão da ordem, de ofício, pois o condenado não tem direito subjetivo à transferência da execução para outro estado. Em regra, a condenação deve ser cumprida no local onde o delito se consumou (art. 86 da LEP) e a preferência do agravante deve ser analisada conforme critérios de conveniência e oportunidade da Administração, pois está condicionada à boa conduta carcerária, à comprovação do vínculo familiar e à existência de vaga na comarca de destino.
+2. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+A defesa nem sequer refuta os motivos para o não conhecimento do habeas corpus.
+De todo modo, registro que o postulante, condenado pelo Poder Judiciário de Minas Gerais, por crime praticado naquela unidade federativa, resgata a pena no regime semiaberto, na Comarca de Muriaé/MG. A execução foi iniciada em 19/8/2020 e a defesa busca a transferência do processo para o Paraná e o deferimento da prisão domiciliar por falta de vagas no sistema penitenciário local, com autorização de trabalho externo, em local próximo aos familiares, na Comarca de Umuarama/PR.
+Existe obstáculo ao conhecimento do habeas corpus por este Superior Tribunal, pois não inaugurada a competência prevista no art. 105 da CF. O pedido de transferência da execução das penas ainda não foi analisado pelo Juiz da VEC ou pelo Tribunal de Justiça e está caracterizada a indevida supressão de duas instâncias.
+O acórdão recorrido sinaliza que "a defesa protocolou o pedido" e os procedimentos para a sua análise ainda "estão em trâmite" (fl. 43, grifei). O "Juízo da execução está atento à situação do paciente" (fl. 43) e expediu ofícios à comarca de destino, mas ainda não decidiu o incidente.
+Nesse panorama, qualquer deliberação antecipada desta Corte implicaria violação das regras constitucionais de repartição de competências.
+Não há falar, ainda, em concessão da ordem, de ofício. Em regra, a condenação deve ser executada no local onde o delito se consumou, conforme disposto no art. 86 da Lei de Execução Penal. Trata-se de competência jurisdicional, conforme o princípio da territorialidade previsto no art. 6º, do Código Penal.
+Tanto quanto possível, o Estado poderá adotar medidas para que o condenado cumpra pena em local próximo de seus familiares, mas não existe direito subjetivo à transferência com amparo na preferência do preso. O pedido deve ser analisado conforme critérios de conveniência e oportunidade da Administração e está condicionado à comprovação de vínculo familiar, boa conduta carcerária e à existência de vaga na comarca de destino.
+Assim, o agravante deve aguardar a deliberação do Juiz da VEC. A teor do art. 105 da CF, é incabível o conhecimento do habeas corpus, pois o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC n. 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Adicionalmente, ressalto que o acórdão prolatado no HC n. 1.0000.24.091983-7/000 não tratou de prisão preventiva. No atestado da pena consta que o paciente foi condenado a cumprir pena no regime fechado (fl. 413). As razões do agravo regimental são deficientes, ausente a prova pré-constituída das alegações, e o pedido é contrário à jurisprudência desta Corte, que reconhece a "compatibilidade da custódia preventiva com o regime (semiaberto) fixado na sentença, desde que tal medida seja executada adequadamente" (AgRg no RHC n. 193.603/MG , relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 10/6/2024, DJe de 20/6/2024).
+À vista do exposto, nego provimento ao agravo regimental.
