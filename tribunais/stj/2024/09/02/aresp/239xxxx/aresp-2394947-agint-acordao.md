@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO MILITAR. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL. PRESCRIÇÃO. ACORDO ENTRE AS PARTES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem afirmou que após o trânsito em julgado do MS 693/93, houve a celebração de acordo entre as partes, o qual não foi cumprido por parte do Estado e, a partir de então, é que teve prosseguimento a execução. Fundamento não impugnado pela parte em seu recurso especial.
+2. Dessa forma, verifica-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MILITAR. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL. PRESCRIÇÃO. ACORDO ENTRE AS PARTES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte agravante alega, em síntese, que houve a efetiva impugnação aos fundamentos da decisão na origem, o que afasta a incidência da súmula 283/STF, demonstrando o argumento que corrobora a necessidade de alteração do julgado, qual seja: a ocorrência da prescrição da pretensão executiva, nos termos do disposto no art. 1º do Decreto 20.910/32.
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO MILITAR. CUMPRIMENTO DE SENTENÇA. TERMO INICIAL. PRESCRIÇÃO. ACORDO ENTRE AS PARTES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem afirmou que após o trânsito em julgado do MS 693/93, houve a celebração de acordo entre as partes, o qual não foi cumprido por parte do Estado e, a partir de então, é que teve prosseguimento a execução. Fundamento não impugnado pela parte em seu recurso especial.
+2. Dessa forma, verifica-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Em seu recurso especial, a parte ora agravante aponta violação do art. 1º do Decreto 20.910/32, sob o fundamento de que a pretensão executiva está prescrita, pois entre o trânsito em julgado do título executivo e o ajuizamento da execução, transcorreu prazo maior de cinco anos.
+Contudo, o Tribunal de origem afirmou que após o trânsito em julgado do MS 693/93, houve a celebração de acordo entre as partes, o qual não foi cumprido por parte do Estado e, a partir de então, é que teve prosseguimento a execução. É o que se infere do seguinte trecho do acórdão recorrido:
+Iniciada a Execução do Acórdão, as partes entabularam acordo(Evento 01 - PET362 e OUT363, autos do MS), o qual foi devidamente homologado na forma convencionada (Evento 01 - DEC365, autos do MS). Em petição acostada nos eventos 14 e 15 (autos do MS), a ASSOCIAÇÃO DOSSUBTENENTES E SARGENTOS DA POLÍCIA E BOMBEIROS MILITARES DO ESTADODO TOCANTINS - ASSPMETO comunicou que o Estado do Tocantins não estava cumprindo o acordo entabulado pelas partes, pugnando pelo prosseguimento da execução.
+Em decisão acostada ao evento 65, proferida pelo então Presidente deste Tribunal de Justiça, na data de 21/11/2018, o Desembargador EURÍPEDES LAMOUNIER, determinou que os atos executórios fossem praticados, de forma individual, ou seja, por impulso e petição de cada exequente beneficiado pelo acordo homologado, observando-se as normas de regência atinentes à execução contra a Fazenda Pública, em que cada pedido tenha sua própria distribuição, tramitando em apartado e recebendo número próprio, devidamente relacionado aos autos principais.
+Após o trâmite processual, em que pese a tentativa de acordo e cumprimento do Acórdão, adveio nova decisão na data de 12/05/2020 (evento127), a qual chamou o feito à ordem a fim de tornar sem efeito as manifestações exaradas naqueles autos a partir do despacho encartado no evento 72, e em consonância com a referida decisão encartada no evento65, indeferiu o pedido de cumprimento de sentença nos autos, devendo os atos executivos serem praticados, via advogado, de forma individual, a fim de que cada exequente individualize seu crédito e comprove sua legitimidade para postular os valores respectivos, observando os ditames estabelecidos no art.534 do CPC, com a apresentação da memória discriminada dos cálculos, sob pena de indeferimento da petição de execução.
+Por fim, registra-se que o prazo para a manifestação da Associação transcorreu in albis na data de 16/06/2021 (evento 163)e o feito foi baixado definitivamente em 02/07/2021 (evento 164).
+Com efeito, entende-se que o prazo prescricional de 5 (cinco) anos não se operou, tendo em vista que o termo inicial para execução do Acórdão é a data do trânsito em julgado perante este Tribunal de Justiça.
+No recurso especial, a parte recorrente não impugnou tais fundamentos, limitando-se a reiterar genericamente a sua tese de insurgência no sentido de que ocorreu a prescrição da pretensão executiva do servidor.
+Dessa forma, verifica-se que o recurso especial não impugnou de maneira específica e suficiente os fundamentos do acórdão recorrido, de modo que incide na espécie o óbice da Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. A propósito:
+DIREITO PROCESSUAL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRANQUIA. AÇÃO DE RESCISÃO. RESPONSABILIDADE CONTRATUAL CARACTERIZADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS E DO CONTRATO FIRMADO. SÚMULAS 5 E 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.954.803/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018).
+Com essas considerações, nego provimento ao agravo interno. É como voto.
