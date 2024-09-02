@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por LUCAS RAMOS, contra decisão que deixou de admitir recurso especial, pelos seguintes fundamentos:
+(i) ausência de ofensa ao artigo 1022 do CPC/15;
+(ii) no que tange à suscitada infringência aos artigos 6º, III e IV, 31, 46, 47, 51, I e IV, e 54, §§ 3º e 4º, do Código de Defesa do Consumidor, ante a incidência do enunciado de Súmula de n. 283/STF;
+(iii) incidência do óbice da Súmula n.284/STF quanto ao alegado dissídio jurisprudencial.
+Nas razões do agravo de fls. 930/946, e-STJ, em suma, o agravante a insiste na alegada violação aos artigos 6º, III e IV, 31, 46, 47, 51, I e IV, e 54, §§ 3º e 4º do CDC; bem como afirma a inaplicabilidade dos óbices sumulares.
+Contraminuta às fls. 961/963, e-STJ.
+É o relatório.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Com efeito, a agravante se limitou a renegar, genericamente, o juízo de admissibilidade realizado na origem, sem, contudo, efetivamente demonstrar a inadequação dos óbices invocados.
+1.1. Observa-se, da leitura das razões do agravo em recurso especial que, quanto ao art. 1022 do CPC/15, a insurgente não impugnou o fundamento da decisão agravada.
+Nesse sentido, cita-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. 1. A teor do disposto no art. 1.021, § 1º, do CPC/2015 e na Súmula 182 do STJ, as razões do agravo interno devem infirmar todos os fundamentos da decisão atacada, sejam eles autônomos ou não, sob pena de não ser conhecido. 2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar os motivos da decisão agravada, notadamente aquele relativo à inocorrência de ofensa ao art. 535 do Estatuto Processual Civil, circunstância que enseja a aplicação da Súmula 182 do Superior Tribunal de Justiça, em flagrante desrespeito ao principio da dialeticidade. 3. Agravo interno não conhecido. (Ag Int no REsp 1396976/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 12/09/2016)
+1.2 Outrossim, também não foi demonstrada a inadequação do óbice invocado (incidência da Súmula 284 do STF)
+Da leitura das razões do agravo, verifica-se que a parte recorrente não impugnou, especificamente, tal óbice.
+No tocante à comprovação do dissídio jurisprudencial, a insurgente limitou-se a dizer que a divergência foi demonstrada mediante cotejo analítico no recurso especial.
+Portanto, a insurgente não se desincumbiu do ônus de evidenciar em que trecho da petição do apelo extremo houve a demonstração da alegada divergência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO. USURPAÇÃO DE COMPETÊNCIA DESTA CORTE NO EXERCÍCIO DE ADMISSIBILIDADE DO RECURSO. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 123/STJ. 1. A impugnação genérica ou a falta de impugnação acerca de fundamento contido na decisão de admissibilidade do recurso especial atrai o óbice contido no enunciado da Súmula 182 do STJ. Para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser objetiva, específica e pormenorizada. 2. "É necessária a aferição de pressupostos específicos relacionados ao mérito da controvérsia, quando realizado o exercício do juízo de admissibilidade do Recurso Especial pelo Tribunal de origem, nos termos da Súmula n. 123/STJ". (AgRg no AREsp 449.710/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/08/2015) 3. Agravo regimental desprovido. (AgRg no AREsp 113.799/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 17/09/2015, DJe 24/09/2015)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. PROVA EXCLUSIVAMENTE DE DIREITO. IMPUGNAÇÃO GENÉRICA. REITERAÇÃO. RECURSO NÃO CONHECIDO. 1- A argumentação genérica, divorciada do ônus da impugnação específica dos fundamentos deduzidos na decisão agravada, autoriza, em mais esta oportunidade, a aplicação da Súmula nº 182 deste Superior Tribunal. 2- Segundo orientação pacífica desta Corte, a Súmula nº 182 do STJ aplica-se, por analogia, ao agravo de instrumento que deixou de atacar, de forma especifica, decisão que negou seguimento a recurso especial. 3- Agravo regimental não conhecido. (AgRg no Ag 1427187/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/09/2012, DJe 04/10/2012
+É dever da parte agravante, à luz do princípio da dialeticidade, demonstrar o desacerto do da decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, III, do CPC/15, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugna os fundamentos do decisum.
+Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;  grifou-se .
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de o rigem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).
+2. Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
