@@ -1,0 +1,13 @@
+DECISÃO
+LUIS FELIPE VENTURA DE OLIVEIRA alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no Agravo de Execução n. 0006752-40.2024.8.26.0521.
+A defesa busca o restabelecimento da decisão proferida pelo Juízo da execução, que deferiu ao paciente a progressão ao regime smiaberto, independentemente da realização de exame criminológico.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência pacífica sobre o tema.
+Com as mudanças da Lei n. 10.792/2023, o exame criminológico, antes obrigatório, deixou de ser imprescindível para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação judicial, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Atualmente, desde a Lei n. 14.843/2024 e para os crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor que, "em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, as condenações ocorreram por fatos praticados antes da lei penal mais gravosa, que não pode retroagir. O Tribunal de Justiça não fundamentou a necessidade da perícia. O acórdão registrou, tão somente, que "com a superveniência da mencionada lei, a realização se tornou obrigatória, conforme se extrai do artigo 112, § 1º da Lei de Execução Penal" (fl. 12).
+Verifica-se a ilegalidade manifesta. Segundo a Súmula n. 439 do STJ, era obrigatório indicar dado pertinente ao período de execução da pena para justificar a dúvida sobre a persistência da periculosidade social do condenado e sobre sua falta de condições para o retorno gradual ao convívio em comunidade.
+Aplica-se ao caso a compreensão de que "desde a Lei n. 14.843/2024 e para os crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor que, "em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão"" (AgRg no HC n. 889.369/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 1/7/2024, DJe de 3/7/2024, destaquei).
+À vista do exposto, concedo a ordem de habeas corpus, in limine, para restabelecer a decisão do Juiz da execução, que deferiu ao paciente a progressão ao regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
