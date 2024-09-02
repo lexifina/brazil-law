@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TUTELA ANTECIPADA NÃO CONCEDIDA. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, "em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no AREsp 2.286.331/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por PRUDENTE EMPREENDIMENTOS E SERVIÇOS ADMINISTRATIVOS LTDA , inconformada com a decisão de fls. 371-375, que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, a agravante sustenta, em síntese, que "Em nenhum momento o Recorrente, ora Agravante, requer a modificação de uma decisão que defere ou indefere uma medida liminar, até mesmo porque a decisão proferida no Cumprimento de Sentença trata, em especial, da questão de mérito apresentada na Impugnação ao Cumprimento de Sentença, a qual busca-se reformar" (fl. 387). Acrescenta que "não há que se falar em violação à Súmula 735 do STF, uma vez que o que se discute não é o indeferimento da concessão do efeito suspensivo, mas sim a nulidade da citação com um novo pedido de concessão de efeito suspensivo" (fl. 389).
+Não foi apresentada impugnação, conforme certidão de fl. 399.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TUTELA ANTECIPADA NÃO CONCEDIDA. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, "em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no AREsp 2.286.331/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não prospera.
+Na hipótese, a ora agravante se insurge contra acórdão que manteve o entendimento acerca do indeferimento do pedido de tutela antecipada. Ao apreciar a questão, a Corte de origem afirmou que não foram preenchidos os requisitos para deferimento da tutela , inexistindo probabilidade do direito, in verbis:
+"Cinge-se o mérito recursal em perquirir acerca da decisão que indeferiu o pedido de antecipação de tutela.
+Conforme relatado, a parte recorrente se insurge contra a decisão que rejeitou a impugnação ao cumprimento de sentença.
+Depreende-se da decisão agravada - ID 14862786 -, que o juízo negativo se deu diante da carência de prova apta a demonstrar o alegado pela parte agravante.
+Afirma, para tanto, que haveria nulidade de citação e da intimação da sentença, o que ensejaria excesso de execução o valor imposto a título de multa de 10 % (dez por cento) - art. 523, §1º do CPC -, posto que indevida diante da ausência de intimação da sentença.
+Compulsando os autos, contudo, depreende-se não assistir razão ao recorrente.
+Com efeito, examinando os documentos que guarnecem o presente instrumento recursal, bem como aqueles que acompanham a inicial, tem-se que não são hábeis em firmar um juízo mínimo de verossimilhança dos fatos que sustentam a pretensão liminar.
+Em que pese a gravidade dos fatos narrados nas razões recursais, é indubitável que para a concessão da liminar é indispensável que estes estejam minimamente comprovados, ainda que seus indícios, na medida em que se mostra temerosa a concessão de medida extrema, como é a requerida, amparado tão somente em alegações unilaterais, sem o correspondente lastro probatório. Ou seja, não há nos autos elementos de prova suficientes para embasar o pedido da parte agravante, mostrando-se acertado o juízo lançado na instância originária, não havendo nas razões recursais elementos que elidam tal compreensão.
+Sobre o tema, prevê o artigo 300, do Código de Processo Civil acerca da tutela antecipada
+(..)
+Analisando a situação contida nos autos, depreende-se que não há qualquer elemento de prova que caracterize, inequivocamente, quaisquer das hipóteses postas no dispositivo legal supramencionado.
+Sendo, desta forma, insubsistentes as razões que amparam a pretensão recursal.
+Noutros termos, assente-se que os substratos fático-jurídicos apresentados pela agravante em suas razões não são hábeis a demonstrar a relevância dos argumentos esposados por esta parte, não estando o conjunto probatório formado com elementos necessários a regular caracterização do fato constitutivo do direito vindicado.
+(..)
+Válido ressaltar, ainda, que verificada a ausência do requisito primordial, qual seja, a prova inequívoca da verossimilhança da alegação, inviabilizando-se, por decorrência lógica, o deferimento da presente medida, resta dispensada a averiguação do ou de outro fundamento sob o qual periculum in mora esteja lastreada a pretensão da parte agravante.
+Infere-se, assim, que o juízo originário agiu com a cautela que o caso demanda ao julgar improcedente a impugnação ao cumprimento de sentença." (fls. 273/274).
+Verifica-se que a pretensão está obstada pela Súmula 735 do Supremo Tribunal Federal.
+A Quarta Turma do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp 1.085.584/SP (Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2017, DJe de 14/12/2017), consolidou o entendimento de que "A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa". E também que "A verificação do preenchimento ou não dos requisitos necessários para a antecipação de tutela, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado nº 7 da Súmula do STJ, respectivamente". Nesse mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. LEI DO INQUILINATO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. PRESSUPOSTOS. INDEFERIMENTO. REVISÃO. SÚMULA N. 735 DO STF. DESPEJO LIMINAR. PRAZO DE AJUIZAMENTO DA AÇÃO. CAUÇÃO. REQUISITOS NÃO PREENCHIDOS. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir decisão que defere ou indefere medida liminar ou de antecipação de tutela. Incidência, por analogia, da Súmula n. 735 do STF.
+2. A prestação de caução equivalente a 3 meses de aluguel é condição legal para concessão de liminar. Precedente 3. A ausência de um dos requisitos previstos no art. 59 da Lei 8.245/1991, obsta a concessão da tutela antecipada pleiteada na ação de despejo.
+4. Inadmissível recurso especial quando o entendimento adotado pelo tribunal de origem encontra-se em harmonia com a jurisprudência do STJ (Súmula n. 83 do STJ).
+5. Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida (Súmula n. 83 do STJ).
+6. Agravo interno desprovido."
+(AgInt no AREsp 2.349.376/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 17/6/2024, DJe de 19/6/2024)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TUTELA CAUTELAR ANTECEDENTE. DEFERIMENTO PARCIAL DA ANTECIPAÇÃO DOS EFEITOS DA TUTELA. JULGAMENTO VIRTUAL. SUSTENTAÇÃO ORAL. NÃO DEMONSTRADO O PREJUÍZO. FATO NOVO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO DOS ARTS. 489, § 1º, III, IV, 1.022, II, DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. REQUISITOS DA TUTELA. SÚMULA Nº 735 DO STF. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. INDISPENSABILIDADE DA INTIMAÇÃO DA PARTE ADVERSA. AUSÊNCIA DE NULIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A declaração da nulidade do ato processual está condicionada à demonstração de efetivo prejuízo.
+2. De acordo com esta Corte Superior, "não é possível a alegação de fato novo exclusivamente em sede de recurso especial por carecer o tema do requisito indispensável de prequestionamento e importar, em última análise, em supressão de instância" (AgInt no AREsp n. 2.038.019/MS, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022).
+3. Não se conhece da alegada violação dos arts. 489, § 1º, III, IV, e 1.022, II, do CPC quando ausentes os esclarecimentos suficientes dos motivos aptos à configuração das alegações de omissão e negativa de prestação jurisdicional. Incidência da Súmula n.º 284 do STF.
+4. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, considerando a natureza precária da decisão, conforme disposta na Súmula n.º 735 do STF.
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmulas n.º 7 do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido."
+(AgInt no REsp n. 2.032.857/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/4/2024, DJe de 2/5/2024)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO CONTRA ACÓRDÃO QUE INDEFERIU A ANTECIPAÇÃO DOS EFEITOS DA TUTELA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 735/STF E 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF "(Não cabe recurso extraordinário contra acórdão que defere medida liminar)", entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas.
+5. Decisões monocráticas do Superior Tribunal de Justiça não se prestam à comprovação de divergência jurisprudencial.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.407.072/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/4/2024, DJe de 11/4/2024)
+Ainda que superado o referido óbice, verifica-se que o conteúdo normativo dos arts. 248, § 1,º 280, 281 e 282 do CPC e a tese acerca da nulidade do ato de comunicação pelo recebimento da correspondência por pessoa desconhecida da empresa executada, não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. INDENIZATÓRIA. VIOLAÇÃO AOS ARTS. 14, § 3º, II, DO CDC; 738, PARÁGRAFO ÚNICO, E 945 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA 7/STJ . AGRAVO DESPROVIDO.
+1. É inviável o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, quando tampouco foram opostos embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. É possível a revisão do montante da reparação por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame, pois o valor arbitrado em R$10.000,00 (dez mil reais), não é excessivo nem desproporcional aos danos sofridos pela parte recorrida, a qual, conforme as instâncias ordinárias, teve uma mão lesionada em virtude de o braço ter ficado preso na porta do trem, durante embarque no transporte coletivo da agravante.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.901.957/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 29/3/2022)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
