@@ -1,0 +1,14 @@
+DECISÃO
+MARCOS EDUARDO FERREIRA BUENO alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça, proferido no Agravo de Execução n. 0009925-05.2024.8.26.0996.
+A defesa busca o restabelecimento da progressão de regime sem a submissão do apenado ao exame criminológico, pois não foi justificada a exigência do estudo de periculosidade.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência pacífica sobre o tema.
+Com as mudanças da Lei n. 10.792/2023, o exame criminológico, antes obrigatório, deixou de ser imprescindível para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação judicial, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Atualmente, desde a Lei n. 14.843/2024 e para os crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor que, "em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, a condenação ocorreu por fatos praticados antes da lei penal mais gravosa, que não pode retroagir. O Tribunal de Justiça não fundamentou a necessidade da perícia. O acórdão registrou, tão somente, que o apenado, reincidente, praticou tráfico de drogas e roubo majorado, com término de pena previsto para 16/8/2028, além de indicar considerações gerais e genéricas sobre a importância de avaliar o estado emocional e psicológico dos presos para constatar se a agressividade atenuada e se houve arrependimento de suas condutas.
+Verifica-se a ilegalidade manifesta. O acórdão está em desacordo com a jurisprudência desta Corte, pois "a autoridade coatora cassou a decisão do juízo de execução  ..  utilizando-se de fundamentação inidônea, relativa à gravidade abstrata dos delitos  .. . 3. Agravo regimental desprovido" (AgRg no HC n. 705.594/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021).
+Segundo a Súmula n. 439 do STJ, era obrigatório indicar dado pertinente ao período de exec ução da pena para justificar a dúvida sobre a persistência da periculosidade social do condenado e sobre sua falta de condições para o retorno gradual ao convívio em comunidade.
+Aplica-se ao caso a compreensão de que "a determinação para se realizar exame criminológico deve apresentar fundamentação relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena, como no caso concreto" (HC n. 581.022/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 29/6/2020).
+À vista do exposto, concedo o habeas corpus, in limine, para restabelecer a decisão do Juiz da VEC.
+Publique-se e intimem-se.
+EMENTA
