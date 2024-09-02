@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por TIAGO SILVA DO NASCIMENTO, contra decisão monocrática proferida pelo Desembargador Relator no Tribunal de Justiça do Estado da Paraíba no julgamento do HC n. 0819874-07.2024.8.15.0000.
+Consta dos autos que o recorrente impetrou ordem de habeas corpus perante o Tribunal de origem alegando constrangimento ilegal em razão da incidência, ao caso, das qualificadoras de motivo fútil e de impossibilidade de defesa da vítima, ao fundamento de que eram inconsistentes os depoimentos prestados ao longo da instrução criminal, requerendo, ao final, o redimensionamento da pena.
+A impetração, porém, não foi conhecida na origem, por decisão monocrática do relator (e-STJ fls. 63/69).
+No presente recurso, a defesa reitera os fundamentos apresentados na origem e requer, assim, a redução da pena aplicada.
+É o relatório. Decido.
+Verifico que as matérias aventadas na presente ordem de habeas corpus não foram objeto de análise pelo Colegiado do Tribunal a quo, uma vez que o recorrente ataca decisão singular de Relator.
+A aludida decisão monocrática não foi desafiada pelo manejo de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado, com a posterior interposição de recurso cabível a esta Corte Superior.
+Dessa forma, uma vez que a parte não se desincumbiu do ônus de esgotar as instâncias ordinárias, que primeiro devem conhecer da controvérsia para que se inaugure a competência desta Corte, fica inviabilizado o conhecimento deste recurso.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE INDEFERIU LIMINARMENTE O RECURSO. INTERPOSIÇÃO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NÃO ESGOTAMENTO DE INSTÂNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente recurso em habeas corpus se impugna decisão singular do Desembargador Relator do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao writ impetrado na origem, por se tratar de mera reiteração. Contra essa decisão seria cabível agravo regimental ao colegiado competente, o qual não foi interposto, o que impossibilita o conhecimento do recurso ordinário.
+2. O princípio da fungibilidade recursal tem aplicação quando se verifica a existência de dúvida objetiva a respeito de qual seria o recurso cabível em determinada hipótese. O equívoco da defesa em interpor o recurso adequado não se enquadra na categoria de dúvida objetiva, o que impossibilita a incidência do referido princípio na espécie.
+3. No caso, deveria ter sido interposto agravo regimental contra a decisão monocrática do relator na origem, a fim de submeter os argumentos defensivos à análise pelo colegiado competente daquela Corte. O recurso ordinário em habeas corpus mostra-se manifestamente incabível, tendo em vista a previsão constitucional de seu cabimento contra decisão denegatória de habeas corpus por Tribunal de Justiça (art. 105, inciso II, alínea "a", da CF), ou seja, contra aquela decisão que adentra o mérito da impetração e esgota seu exame naquela instância, para, assim, inaugurar a competência do Superior Tribunal de Justiça.
+4. Ante o não esgotamento da instância antecedente, por meio da interposição do recurso cabível contra decisão monocrática de Desembargador Relator, não pode o Superior Tribunal de Justiça, subvertendo o sistema de organização judiciária, analisar diretamente questão não apreciadas pela Corte de origem, sob pena de indevida supressão de instância (AgRg no HC n. 325.124/RJ, rel. Min. SEBASTIÃO REIS JÚNIOR, Sexta Turma, j. 9/6/2015, DJe 22/6/2015).
+5. Agravo regimental desprovido.
+(AgRg no RHC n. 118.447/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/10/2019, DJe de 18/10/2019.)
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO. HABEAS CORPUS. DECISÃO MONOCRÁTICA. NECESSIDADE DE ESGOTAMENTO DE INSTÂNCIA. ART. 102, II, CF. PRECEDENTES.
+I - O recurso ordinário em questão foi interposto contra decisão monocrática proferida pela relatora nos autos do respectivo habeas corpus, não tendo a parte recorrente interposto agravo regimental para esgotamento da instância, com vistas a atender os ditames do art. 102, II, da Constituição Federal.
+II - Entendimento prestigiado tanto por este Tribunal quanto pelo colendo Supremo Tribunal Federal. Precedente: RHC n. 124.734, Rel. Min. Luiz Fux, DJe de 30/10/14).
+Agravo regimental desprovido (AgRg no RO no HC 284.895/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 4/2/2015, DJe 9/3/2015).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DA INSTÂNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO. 1. É inviável o conhecimento de habeas corpus ou recurso em habeas corpus quando o impetrante/recorrente se insurge contra decisão singular de Desembargador do Tribunal de Justiça, contra a qual seria cabível agravo regimental, que não foi interposto. Precedente do STF e do STJ.
+2. Agravo regimental improvido.
+(AgRg no RHC n. 102.858/PE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 26/2/2019, DJe de 13/3/2019.)
+No Supremo Tribunal Federal:
+HABEAS CORPUS. PROCESSO PENAL. NÃO ESGOTAMENTO DE JURISDIÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. NULIDADE PROCESSUAL. NEGATIVA DE AUTORIA. NECESSIDADE DE EXAME DOS FATOS E PROVAS DA CAUSA. IMPOSSIBILIDADE. DEFICIÊNCIA DEFESA TÉCNICA. INOCORRÊNCIA. FLAGRANTE FORJADO. SUPRESSÃO DE INSTÂNCIA.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática de Ministra Relatora do Superior Tribunal de Justiça, em que negado seguimento ao recurso especial interposto naquela Corte, cuja jurisdição não se esgotou. Precedentes.
+2. O habeas corpus não se presta ao exame e à valoração aprofundada das provas, de todo inviável nele reavaliar o conjunto probatório que levou à condenação criminal.
+3. Participação ativa do advogado, conforme legalmente determinado, e ausência de prova de prejuízo concreto ao paciente, a afastar a tese de deficiência de defesa técnica ensejadora da pretendida nulidade processual, nos termos do art. 563 do Código de Processo Penal.
+4. Inviável a apreciação por este Supremo Tribunal Federal, em sede de habeas corpus, de matéria não apreciada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Habeas corpus extinto sem resolução de mérito (HC 120655, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 10/6/2014, PROCESSO ELETRÔNICO DJe-148 DIVULG 31-7-2014 PUBLIC 1º-8-2014).
+Ante o exposto, com base no art. 34, inciso XVIII, alínea a , do Regimento Interno do STJ, não conheço do recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
