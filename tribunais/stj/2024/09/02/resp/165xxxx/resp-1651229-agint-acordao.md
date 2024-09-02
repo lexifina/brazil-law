@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO ANULADO POR DOLO. RESTITUIÇÃO DAS PARTES AO ESTADO ANTERIOR. COMPENSAÇÃO ENTRE REBANHO PENHORADO NA EXECUÇÃO E PAGAMENTO PELO TEMPO DE USO DO IMÓVEL. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM DESACORDO COM O ART. 85, § 2º, DO CPC/2015. RECURSO ESPECIAL QUE REPETE OS MESMOS PEDIDOS E FUNDAMENTOS DO RECURSO ESPECIAL N. 1.649.530/MT INTERPOSTO NA AÇÃO DE EXECUÇÃO E JÁ DECIDIDO. RECURSO ESPECIAL PREJUDICADO. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que o presente recurso especial repete exatamente os mesmos argumentos e pedidos formulados no Recurso Especial n. 1.649.530/MT, o qual foi desprovido por decisão monocrática deste Relator, deve ser mantida a decisão agravada que reconheceu a prejudicialidade do recurso.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Espólio de Manuel Martinho contra a decisão de fls. 856-858 (e-STJ), assim ementada:
+RECURSO ESPECIAL. DIREITO CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO ANULADO POR DOLO. RESTITUIÇÃO DAS PARTES AO ESTADO ANTERIOR. COMPENSAÇÃO ENTRE REBANHO PENHORADO NA EXECUÇÃO E PAGAMENTO PELO TEMPO DE USO DO IMÓVEL. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM DESACORDO COM O ART. 85, § 2º, DO CPC/2015. RECURSO ESPECIAL QUE REPETE OS MESMOS PEDIDOS E FUNDAMENTOS DO RECURSO ESPECIAL N. 1.649.530/MT INTERPOSTO NA AÇÃO DE EXECUÇÃO E JÁ DECIDIDO. RECURSO ESPECIAL PREJUDICADO.
+O agravante sustenta, em síntese, que, "Muito embora o Em. relator esteja correto ao afirmar que o recurso especial nº 1.649.530/MT já tenha sido decidido monocraticamente, há questão importante que deve ser observada: referida decisão foi desafiada por agravo interno, que ainda não foi julgado pela C. 3ª Turma. E ainda precisa ser resolvida a questão da tempestividade daquele agravo interno, porquanto foi interposto no contexto da regularização da representação processual, em razão da morte do recorrente, onde foi deduzido pedido de devolução de prazo recursal, com nova intimação do recorrente, na pessoa dos novos advogados constituídos pelo inventariante", razão pela qual "não pode deixar de recorrer aqui, neste recurso especial nº 1.651.229/MT, porquanto poderá se ver na terrível condição de (por lá) não ter o seu recurso conhecido (tendo em perspectiva a sua tempestividade) e aqui por condição consequente de uma preclusão consumativa por não ter recorrido" (e-STJ, fls. 863-864).
+No mais, reitera os mesmos argumentos suscitados no recurso especial, aduzindo ter direito aos frutos do gado penhorado.
+A impugnação foi apresentada às fls. 877-893 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO ANULADO POR DOLO. RESTITUIÇÃO DAS PARTES AO ESTADO ANTERIOR. COMPENSAÇÃO ENTRE REBANHO PENHORADO NA EXECUÇÃO E PAGAMENTO PELO TEMPO DE USO DO IMÓVEL. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM DESACORDO COM O ART. 85, § 2º, DO CPC/2015. RECURSO ESPECIAL QUE REPETE OS MESMOS PEDIDOS E FUNDAMENTOS DO RECURSO ESPECIAL N. 1.649.530/MT INTERPOSTO NA AÇÃO DE EXECUÇÃO E JÁ DECIDIDO. RECURSO ESPECIAL PREJUDICADO. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que o presente recurso especial repete exatamente os mesmos argumentos e pedidos formulados no Recurso Especial n. 1.649.530/MT, o qual foi desprovido por decisão monocrática deste Relator, deve ser mantida a decisão agravada que reconheceu a prejudicialidade do recurso.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece provimento.
+Conforme consignado na decisão agravada, o recurso especial subjacente repete exatamente os mesmos argumentos e pedidos formulados no Recurso Especial n. 1.649.530/MT, o qual foi desprovido por decisão monocrática deste Relator, que recebeu a seguinte ementa:
+RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. FIXAÇÃO DO DEVER DE REPARAÇÃO PELOS FRUTOS DE BENS FUNGÍVEIS. GADO. CONCLUSÃO ESTADUAL NO SENTIDO DA IMPOSSIBILIDADE DE DISCUSSÃO NESTA VIA. REPARAÇÃO PELOS EVENTUAIS ANIMAIS NASCIDOS A SER APURADA EM LIQUIDAÇÃO. INEXISTÊNCIA DE OFENSA AO ART. 1.216 DO CC. JULGAMENTO ULTRA PETITA. INEXISTÊNCIA. APLICAÇÃO DA CONCLUSÃO LÓGICA FIRMADA EM OUTRA DEMANDA. ESTIPULAÇÃO DA VERBA HONORÁRIA COM BASE NO VALOR DA CAUSA. FIXAÇÃO POR EQUIDADE. POSSIBILIDADE. QUANTIA ESTABELECIDA COM BASE EM FATOS E PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+Constata-se que, embora proferidos em processos diferentes (Embargos à Execução n. 278-86.2000.811.0044, e Execução n. 348.40.1999.811.0044) e publicados em datas diversas, os acórdãos de apelação de ambas as ações foram exatamente iguais, pois analisaram os mesmos fatos e teses, aplicando idênticos fundamentos e exatamente os mesmos termos.
+Tal o quadro delineado, não há razões para reformar a decisão agravada que julgou prejudicado o recurso especial.
+Vale ressaltar, por fim, que o fato de eventualmente não ser conhecido o agravo interno interposto no bojo do REsp 1.649.530/MT não tem o condão de possibilitar que as mesmas questões sejam novamente analisadas neste recurso, como equivocadamente defende o agravante.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
