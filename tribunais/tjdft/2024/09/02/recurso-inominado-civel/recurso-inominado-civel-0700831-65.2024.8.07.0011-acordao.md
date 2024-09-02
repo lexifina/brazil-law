@@ -1,0 +1,71 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0700831-65.2024.8.07.0011RECORRENTE(S)CRISTIANA DA SILVA AMARAL RODRIGUES e BANCO BRADESCO SARECORRIDO(S)BANCO BRADESCO SA e CRISTIANA DA SILVA AMARAL RODRIGUESRelatoraJuiza MARILIA DE AVILA E SILVA SAMPAIO
+ Acórdão Nº1915776
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. BANCÁRIO. GOLPE PRATICADO VIA TELEFONE. ANÁLISE CASUÍSTICA. FRAGILIZAÇÃO DE DADOS CADASTRAIS. LGPD ART. 43 DEVER DE SEGURANÇA. REALIZAÇÃO DE TRANSFERÊNCIAS VIA PIX. FALHA NA PRESTAÇÃO DO SERVIÇO. VALORES DAS TRANSAÇÕES BLOQUEADOS EM SUA MAIORIA PELA INSTITUIÇÃO. RESSARCIMENTO OBRIGATÓRIO. DANO MORAL. CONFIGURADO. RECURSO DO RÉU CONHECIDO E NÃO PROVIDO. RECURSO DA AUTORA CONHECIDO E PROVIDO.
+
+1. Insurgem-se ambas as partes em face da sentença que julgou parcialmente procedente o pedido inicial, para determinar que o Banco requerido restitua à autora o valor de R$15.893,39, relativo à metade do correspondente às transações fraudulentas, reconhecendo a culpa concorrente, e julgou improcedente o pedido de indenização por danos morais. A parte autora, em suas razões,  argumenta que, após advertido da fraude, o setor de segurança corporativa da instituição logrou bloquear a maioria das transações, apenas uma foi objeto de saque pelos fraudadores. Mas não houve o estorno de tais valores, devendo ser ressarcida a importância bloqueada (R$26.788,84). Assevera que o dano moral está presente, uma vez que o gerente responsável pelo atendimento declarou que os valores haviam sido bloqueados, mas o Banco não os devolveu. Pugna pela reforma da sentença para condenar o requerido a ressarcir o valor das transações e a pagar indenização por danos morais. Subsidiariamente, pede que seja condenado a ressarcir o valor que declarou ter tido êxito em bloquear.
+
+2. Por sua vez, o Banco pede a concessão de efeito suspensivo. No mérito, sustenta que é o caso de culpa exclusiva da vítima que não teve o zelo devido para evitar a fraude, pois forneceu seus dados pessoais. Pede a reforma da sentença para julgar improcedentes os pedidos da autora.
+
+3. Recursos próprios e tempestivos. Preparo devidamente recolhido por ambas as partes, ids. 62625818 e 62625823. Ambos os recursos foram contrarrazoados, ids. 62625828 e 62625829. No âmbito dos Juizados Especiais os recursos inominados são recebidos apenas no efeito devolutivo, salvo comprovada possibilidade de dano irreparável, nos termos do art. 43 da Lei nº 9.099/95. No caso, a alegação de conteúdo satisfativo do decisório não constitui motivo idôneo a caracterizar dano irreparável capaz de atribuir efeito suspensivo ao presente recurso, motivo pelo qual indefiro o efeito suspensivo.
+
+4. A relação jurídica estabelecida entre as partes é de natureza consumerista, devendo a controvérsia ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor (Lei Federal nº 8.078/90), protetor da parte vulnerável da relação de consumo. Aliás, o art. 4º, inciso I do CDC – A Política Nacional das Relações de Consumo tem como princípio que se deve reconhecer a vulnerabilidade do consumidor no mercado de consumo, pois está em posição de inferioridade se comparado ao status do fornecedor.
+
+5. No ambiente não presencial essa vulnerabilidade é agravada, podendo caracterizar uma hipervulnerabilidade, pois há que se reconhecer que em matéria de evolução tecnológica e de usos de dispositivos digitais, e de razoavelmente controlar tais domínios é responsabilidade do fornecedor. Para mais, é cediço que os dados pessoais têm sido considerados como o novo petróleo da economia, razão de existência dos Data Brokers, cujo serviço cinge-se à coleta, processamento e venda de informações a terceiros. Embora haja consentimento do correntista quanto ao armazenamento dos dados em seus sistemas, a Instituição Financeira deve garantir que esses não sejam acessados por terceiros.
+
+6. Quanto à responsabilidade civil da Instituição recorrente, de acordo com a Súmula 479 do Superior Tribunal de Justiça, as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno, relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. Não bastassem tais ponderações, destaque-se que a Lei Geral de Proteção de Dados nos art. 42 e 43 trata da responsabilidade civil dos agentes de tratamento, impondo-lhes o dever de reparar os danos que causarem, em violação ao dever de segurança relacionado aos dados disponibilizados. No caso sob análise, conforme relato da autora “o suposto funcionário estava de posse de todos os dados de qualificação da Requerente, inclusive com CPF, dados bancários como saldo disponível, limite de empréstimo pré-aprovado os quais consideram sigilosos.”, ID. 62625506, p. 1.
+
+7. Nos últimos anos houve um aumento exponencial das atividades bancárias executadas de forma on-line, sendo os clientes/consumidores levados a utilizar cada vez mais os serviços digitais e, na mesma proporção, sendo expostos a riscos de perdas financeiras decorrentes de acessos irregulares, fraudes e operações irregulares. Nesse passo, a instituição financeira há de ser responsabilizada pela segurança contra fraudes na prestação de serviços bancários, tendo em vista que, na mesma proporção em que os Bancos investem em ferramentas de segurança da atividade e atendimento ao cliente, de igual modo os fraudadores buscam meios de burlar os sistemas, restando evidenciado que as atividades executadas no ambiente digital têm enorme potencial de acarretar danos ao consumidor.
+
+8. Convém esclarecer que o dever de segurança dos bancos implica ciência dos riscos decorrentes da própria atividade, e nas operações realizadas em ambiente digital o cliente não sabe com quem está interagindo, se humano ou não humano, se um legítimo representante do banco ou um fraudador. Assim, em que pese sejam irrefreáveis, inexoráveis e inegavelmente úteis tanto ao fornecedor, como ao consumidor e, portanto, lícitas (sendo seu uso às vezes obrigatório), são permeadas por riscos inerentes, o parâmetro de cuidado exigido dos bancos quanto ao crédito e à administração financeira do consumidor é maior do que aquele exigido para ferramentas digitais que não tratem de interesses imprescindíveis aos usuários. Para mais, a boa-fé e o dever de cuidado impõem aos bancos a obrigação de garantirem a segurança dos produtos e serviços oferecidos, preservando o patrimônio do consumidor, e pondo-o a salvo de práticas que representem prejuízo. O art. 8º do CDC preconiza que tais riscos não podem ser suportados pelo consumidor, sob pena de ter seu patrimônio dilapidado por fraudadores.
+
+9. Não obstante, em se tratando de fraude bancária, os casos não podem ser analisados de maneira uníssona, as circunstâncias que permeiam a hipótese devem ser averiguadas de forma minuciosa, atentando a todas as especificidades, de modo a se constatar se as situações concretas são aptas a autorizar a responsabilização da Instituição Financeira, uma vez que a conduta exclusiva do consumidor ou o fato de terceiro nas operações bancárias somente serão consideradas aptas a excluir tal responsabilidade se estiverem absolutamente dissociadas das condutas omissivas, comissivas ou informativas que competem ao banco.
+
+10. Na hipótese, resta evidente a comprovação dos fatos pela autora, tendo em vista que houve vazamento de seus dados cadastrais, em violação ao regramento da Lei Geral de Proteção de Dados, o que configura falha no sistema de segurança do Banco recorrente, conferindo verossimilhança à ligação recebida pela autora, e possibilitando a concretização da fraude.
+
+11. Neste sentido, cito julgado desta Turma: “É incontroverso que os estelionatários tinham informações sobre os dados bancários da parte autora. Situação quase que rotineira para qualquer correntista de Banco é o recebimento de ligações, via celular, de prepostos dessas instituições financeiras, para ofertar produtos. Assim, a parte autora idosa não tinha como saber que se tratava de golpe. Diversas ações sobre golpes contra idosos aposentados e pensionistas do INSS são comuns nas Turmas Recusais, tal como o já mencionado o Golpe do Motoboy. Assim, há verossimilhança nas alegações da parte autora. Diante da fraude, restou provado que a recorrente deixou de atender aos critérios de segurança para monitoramento da quantia, no valor de R$ 19.000,00, cuja transferência foi realizada via PIX, sendo incompatíveis com o seu perfil de usuário.”(Acórdão 1431274, 07049441820228070016, Relator: ARNALDO CORRÊA SILVA, Segunda Turma Recursal, data de julgamento: 20/6/2022, publicado no DJE: 28/6/2022). E, ainda, acórdão da 3ª. Turma: “A despeito da falsidade do atendimento, há verossimilhança nas alegações do autor de que a partir da ligação realizada em nome do banco, foi convencido da legitimidade das orientações para realização de procedimentos de verificação, já que advinda de preposto do banco que conhecia seus dados pessoais e da existência da conta corrente junto ao BRB.” Grifei. (Acórdão 1427793, 07669855520218070016, Relator: CARLOS ALBERTO MARTINS FILHO, Terceira Turma Recursal, data de julgamento: 8/6/2022, publicado no DJE: 14/6/2022).
+
+12. Ademais, embora seja plausível a tese de que a autora poderia ter sido mais diligente, e evitado o prejuízo suportado, certo é que, à luz do homem médio, as circunstâncias que permeiam este caso são preponderantes no sentido de que era muito mais difícil perceber a fraude do que ser vítima dela, considerando-se que o interlocutor dispunha dos dados sigilosos da correntista.
+
+13. Com efeito,  a presente hipótese apresenta peculiaridade consistente na afirmação do gerente responsável pelo atendimento da correntista de que a segurança corporativa havia realizado os “procedimentos lá para bloqueio e que eles conseguiram bloquear a maioria, da maior parte das transações” (sic), conforme ata notarial id 62625763. Das operações, conforme consignado na inicial, apenas a quantia de R$4.997,00 havia sido sacada pelo titular. Desse modo, tendo em vista que não houve impugnação específica quanto à esta alegação, é patente que o Banco reteve o dinheiro da consumidora indevidamente, devendo ressarcir à autora o valor de R$26.788,84 (vinte e seis mil, setecentos e oitenta e oito reais e oitenta e quatro centavos).
+
+16. No que concerne ao dano moral. Ressalte-se que, nas relações de consumo, diferentemente das relações contratuais paritárias, reguladas pelo Código Civil, o que se indeniza a título de danos morais é o descaso, a desídia, a procrastinação da solução de um pedido do consumidor sem razão aparente por mais tempo do que seria razoável.
+
+17. O cumprimento dos deveres deve se pautar pela solidariedade entre ambos os contratantes na consecução dos objetivos do contrato. Não pode o fornecedor, porque detém a primazia na condução do contrato, impor o atendimento de somente seus interesses, em detrimento dos interesses do consumidor. É exatamente para equalizar as forças contratuais nessas situações que existe o CDC. Deve ficar consignado, por fim, que enquanto não houver uma mudança de mentalidade em relação aos direitos dos consumidores contra o tratamento desidioso e desrespeitoso imposto por fornecedores de serviço, que, quando questionados, se limitam a dizer que sua prática se caracteriza como mero aborrecimento e que o consumidor não provou seu direito, as conquistas positivadas no CDC não serão implantadas em sua inteireza.
+
+18. Conforme o arcabouço probatório dos autos, a autora, apesar de toda a proatividade em relatar a fraude e do êxito do Banco de bloquear a maior parte dos valores objeto de fraude, tais valores não foram ressarcidos extrajudicialmente, o que a obrigou a ajuizar esta ação para ver respeitados os seus direitos. Evidente, assim, a existência de dano moral a ser compensado.
+
+19. Com relação ao quantum, sopesando as circunstâncias do processo e os requisitos jurisprudenciais usualmente utilizados para a fixação do quantum debeatur, sem perder de mira a natureza da infração, e o escopo de tornar efetiva a reparação, tenho que o valor de R$5.000,00 (cinco mil reais) é adequado para compensação dos danos experimentados pela autora/recorrente, sem caracterizar enriquecimento sem causa.
+
+20. RECURSO DO RÉU CONHECIDO E NÃO PROVIDO. Condenado ao pagamento de honorários de sucumbência que fixo em 10% sobre o valor da condenação (art. 55 da Lei 9099/95).
+
+21. RECURSO DA AUTORA CONHECIDO E PROVIDO. Sentença reformada para determinar o ressarcimento do valor de R$26.788,84 (vinte e seis mil, setecentos e oitenta e oito reais e oitenta e quatro centavos), e condenar o Banco a pagar a autora o valor de R$5.000,00 (cinco mil reais) para compensação dos danos morais, valor que deve ser acrescido de juros de 1% ao mês, a partir da citação (art. 405 do CC), e correção monetária pelo INPC, a contar desta decisão (Súmula 362 do STJ).  Sem honorários face ao provimento do recurso (art. 55 da Lei 9099/95).
+
+22. Acórdão lavrado nos termos do art. 46 da Lei 9099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARILIA DE AVILA E SILVA SAMPAIO - Relatora, GISELLE ROCHA RAPOSO - 1º Vogal e SILVANA DA SILVA CHAVES - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSOS CONHECIDOS. RECURSO DO RÉU NÃO PROVIDO. RECURSO DA AUTORA PROVIDO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 06 de Setembro de 2024
+
+Juíza MARILIA DE AVILA E SILVA SAMPAIORelatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza GISELLE ROCHA RAPOSO - 1º Vogal Com o relatorA Senhora Juíza SILVANA DA SILVA CHAVES - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSOS CONHECIDOS. RECURSO DO RÉU NÃO PROVIDO. RECURSO DA AUTORA PROVIDO. UNÂNIME
