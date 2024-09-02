@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por HEITOR FERNANDES DE OLIVEIRA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo de Execução Penal n. 0003989-06.2023.8.26.0520.
+Consta dos autos que o magistrado de primeiro grau indeferiu o pedido de remição da pena em virtude da aprovação parcial no Exame Nacional do Ensino Médio - ENEM (fl. 259).
+Em segunda instância, o Tribunal de origem negou provimento ao recurso interposto pela Defesa, em acórdão assim ementado (fls. 57/58):
+AGRAVO EM EXECUÇÃO PENAL - REMIÇÃO POR ESTUDO -Aprovação no ENEM - Descabimento Sentenciado que já havia concluído o ensino médio ao ingressar no sistema prisional - Espécie de remição que visa aos estudos e esforços havidos no período de cumprimento de pena Inteligência do art. 1º, IV, da Recomendação nº 44/2013, do CJN - Precedentes - Recurso desprovido.
+Nas razões do recurso especial, a parte alega violação do art. 126, § 5º, da Lei n. 7.210/1984 ao argumento de que deveria ter sido deferida a remição da pena em decorrência da aprovação no ENEM.
+Contrarrazões às fls. 284/288.
+O recurso especial foi admitido (fls. 291/292).
+O Ministério Público Federal se manifestou pelo provimento do recurso especial (fls. 302/307).
+É  o  relatório.
+DECIDO.
+Presentes os requisitos de admissibilidade, conheço do recurso de direito estrito.
+Acerca da controvérsia dos autos, assim se manifestou o Tribunal de origem (fls. 261/262):
+Dito de outra forma, a aprovação no ENCCEJA ou no ENEM apenas formalizam o conhecimento obtido durante o cumprimento da pena à luz dos estudos. Não é a aprovação, per se, garantidora da remição.
+E, como bem anotou o juízo de origem, o sentenciado já havia completado o ensino médio ao ingressar no sistema prisional.
+Ou seja, já possuía os conhecimentos prévios e próprios dos Ensinos Fundamental e Médio, obtidos, à evidência, em momento anterior e estranho ao cumprimento de penas, de maneira que não fazia mesmo jus à almejada remição por estudos.
+Do excerto acima, verifica-se que, em relação ao indeferimento da remição da pena devido à aprovação do agravado no Exame Nacional do Ensino Médio (ENEM), mesmo tendo concluído o grau de instrução antes de iniciar o cumprimento da pena, o acórdão recorrido está dissonância com a jurisprudência consolidada nesta Corte Superior.
+Com efeito, a Terceira Seção do Superior Tribunal de Justiça, ao julgar o EREsp 1.979.591/SP, relatado pelo Ministro Messod Azulay Neto, e publicado em 13/11/2023, decidiu, por unanimidade, acompanhar o entendimento da Quinta Turma, uniformizando a jurisprudência, segundo a qual a remição de pena pode ser concedida pela aprovação no ENEM, até mesmo nos casos em que o reeducando já possuía o diploma de ensino médio, inclusive, antes de iniciar o cumprimento da pena.
+A propósito, confira-se a ementa do julgado:
+EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do conteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. º 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC.
+Embargos de divergência providos. (EREsp n. 1.979.591/SP, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 8/11/2023, DJe de 13/11/2023, grifamos).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO - ENEM. REEDUCANDO QUE JÁ HAVIA CONCLUÍDO O ENSINO MÉDIO ANTERIORMENTE. REMIÇÃO CONCEDIDA. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+1. Conforme orientação jurisprudencial emanada por esta Corte, "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp 1.854.391/DF, relatora a Ministra Laurita Vaz, Sexta Turma, julgado em 22/09/2020, DJe 06/10/2020).
+2. Agravo regimental não provido. Decisão mantida. (AgRg no HC n. 829.069/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 24/6/2024, DJe de 26/6/2024, grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO. APROVAÇÃO NO ENEM. APENADO PORTADOR DE DIPLONA DE NÍVEL SUPERIOR ANTES DE INGRESSAR NO SISTEMA PRISIONAL.
+1. O Conselho Nacional de Justiça, por meio da Recomendação n. 44/2013, posteriormente substituída pela Resolução n. 391/2021, estabeleceu a possibilidade de concessão de remição de pena à pessoa privada de liberdade, que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no ENEM.
+2. E o Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP (DJe de 13/11/2023), da Terceira Seção, consolidou entendimento de que é admitida a remição da pena, por aprovação no ENEM ou no Encceja, dos apenados que ingressaram no sistema penitenciário após a conclusão do ensino médio.
+3. No caso, contudo, o apenado, ao ingressar no sistema prisional, era portador de diploma de nível superior. Em hipóteses tais, não há aquisição de novos conhecimentos, razão pela qual não há que se falar em remição por aprovação no ENEM, sob pena de destoar do escopo da norma.
+4. Agravo regimental a que se nega provimento. (AgRg no HC n. 896.787/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024, grifamos).
+Ante o exposto, dou provimento ao recurso especial para cassar o acórdão recorrido e determinar que o Juízo das Execuções Penais examine o pedido de remição da pena do recorrente, considerando a aprovação no ENEM, ainda que tenha concluído o ensino médio em momento anterior ao início da execução penal.
+Publique-se. Intimem-se.
+EMENTA
