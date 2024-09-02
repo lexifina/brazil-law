@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO AUSENTE. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE TRATAMENTO. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. ASTREINTES. DESPROPORCIONALIDADE RECONHECIDA. REDUÇÃO DO QUANTUM . CABIMENTO. PRECLUSÃO. COISA JULGADA. NÃO SUBMISSÃO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. A decisão que fixa astreintes não faz coisa julgada, podendo ser modificada inclusive na fase de execução do julgado. Assim, não havia óbice a que a Corte de origem determinasse a redução do montante final executado.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA FRANCISCA DOS SANTOS CARDOSO CARVALHO contra decisão monocrática desta relatoria que conheceu em parte do recurso e, nessa extensão, negou-lhe provimento, assim ementada (e-STJ, fl. 606):
+RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO. AUSENTE. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE TRATAMENTO. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. ASTREINTES. DESPROPORCIONALIDADE RECONHECIDA. REDUÇÃO DO QUANTUM. CABIMENTO. PRECLUSÃO. COISA JULGADA. NÃO SUBMISSÃO. PRECEDENTES. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+A agravante, em suas razões (e-STJ, fls. 615-619), sustenta a existência de omissão no acórdão recorrido, pois "os adendos não foram objeto de análise em segunda instância, mas apenas o contrato inicialmente firmado. Com efeito, a parte continua sem a devida prestação jurisdicional" (e-STJ, fl. 617).
+Defende a ocorrência de dano moral, pois "não se tratava de uma cirurgia de retirada de algo benigno, por exemplo, que por si só seria um procedimento cirúrgico, mas sim um procedimento para a salvaguarda da própria vida da agravante" (e-STJ, fl. 618).
+Assevera que, com relação às astreintes, a agravante não questiona a possibilidade de revisão do valor, mas a impossibilidade de revisão do mesmo valor mais de uma vez.
+Alega a inaplicabilidade da Súmula 7/STJ, porque todas as premissas já estão devidamente delimitadas no acórdão de origem, não havendo falar em reanálise de fatos ou provas, mas tão somente avaliar se a aplicação da legislação.
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+Não foi apresentada impugnação (e-STJ, fls. 624).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO AUSENTE. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE TRATAMENTO. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. ASTREINTES. DESPROPORCIONALIDADE RECONHECIDA. REDUÇÃO DO QUANTUM . CABIMENTO. PRECLUSÃO. COISA JULGADA. NÃO SUBMISSÃO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+3. A decisão que fixa astreintes não faz coisa julgada, podendo ser modificada inclusive na fase de execução do julgado. Assim, não havia óbice a que a Corte de origem determinasse a redução do montante final executado.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos da agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o Tribunal estadual resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Destaque-se, nesse sentido, o seguinte excerto (e-STJ, fls. 605-606 - sem destaque no original):
+No caso concreto, o contrato elenca, dentre as hipóteses de exclusão de cobertura, o fornecimento de próteses, órteses e seus acessórios, independentemente do fato de serem ou não ligados ao ato cirúrgico(item 14.2, fl. 23).
+No entanto, a despeito do entendimento até então adotado por este relator de que disposição contratual restritiva seria lícita e, como já previamente conhecida, não teria ferido o princípio da boa-fé contratual, é certo que a jurisprudência vem se orientando no sentido de considerar abusiva a cláusula que prevê a exclusão de cobertura em qualquer hipótese análoga a dos autos.
+(..)
+Logo, tendo em vista que há expressa indicação médica para o procedimento, a fim de evitar prolongamento da lide com a interposição de novos recursos, e levando em conta o interesse das partes, além do dever dos Tribunais em manter estável, integra e coerente a jurisprudência uniformizada (consoante se verifica dos artigos 926 e 927 do Código de Processo Civil), curva-se este Relator ao entendimento majoritário para manter a procedência do pedido cominatório.
+Assinala-se que o acórdão recorrido enfrentou, de forma clara e fundamentada, as questões suscitadas pela parte, notadamente acerca do dever de cobertura, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Isso porque ficou claro que houve o exame das cláusulas adicionais, considerando abusiva a sua exclusão.
+Por ser assim, ausente o interesse processual da parte no exame dos arts. 10, VII, 10-A, 12, da Lei 9.656/1998, considerando que as cláusulas limitativas foram consideradas abusivas pelo acórdão recorrido, conforme trecho acima transcrito.
+Quanto ao dano moral, é assente no Superior Tribunal de Justiça a orientação de que a negativa indevida de cobertura de plano de saúde, por si só, não gera dano moral, devendo-se verificar as peculiaridades do caso concreto, para avaliar se a conduta ilícita ultrapassou o mero inadimplemento contratual.
+Na espécie, a Corte local, mediante análise do conjunto fático-probatório dos autos, entendeu não estar configurado o dano moral, pois "não há que se falar em prejuízo à sua honra ou à dignidade, decorrente do mero inadimplemento contratual relatado" (e-STJ, fl. 489).
+Portanto, além de estar o posicionamento da instância originária amparado na orientação jurisprudencial deste Tribunal Superior, seus fundamentos, por estarem alicerçados em elementos de fatos e provas existentes nos autos, não podem ser revistos em julgamento de recurso especial, ante o impedimento imposto pela Súmula 7/STJ.
+Por fim, esta Corte Superior firmou entendimento de que "a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada" (REsp n. 1.333.988/SP, Relator Ministro Paulo de Tarso Sanseverino, julgado em 9/4/2014, DJe de 11/4/2014). Dessa forma, é possível a modificação do seu valor, até mesmo de ofício, a qualquer tempo, inclusive na fase de execução.
+Logo, cabível a redução do valor arbitrado para astreintes, independente da coisa julgada operada.
+Na mesma linha de cognição (sem destaque no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. ASTREINTES. DESPROPORCIONALIDADE RECONHECIDA. REDUÇÃO DO QUANTUM. CABIMENTO. PRECLUSÃO. COISA JULGADA. NÃO SUBMISSÃO. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ é pacífica no sentido de que o valor ou a periodicidade da multa cominatória prevista no art. 537 do NCPC pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada.
+2. O entendimento do Tribunal a quo está em harmonia com a jurisprudência desta eg. Corte no sentido de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, a agravada cumpriu com atraso, mas integralmente, a ordem judicial, uma vez que excluiu a restrição lançada em nome do agravante por suspeita de envolvimento em crime de roubo. Dessa forma, não merece reforma o entendimento da Corte de origem, que diminuiu o valor máximo fixado a título de astreintes, do montante de R$ 60.000,00 (sessenta mil reais) para R$5.000,00 (cinco mil reais), máxime porque as astreintes não devem constituir via geradora de enriquecimento indevido.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.104.125/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO DE MULTA POR DESCUMPRIMENTO DE ORDEM JUDICIAL. REVISÃO DO VALOR ARBITRADO.
+1. A decisão que fixa astreintes não faz coisa julgada, podendo ser modificada inclusive na fase de execução do julgado. Assim, não havia óbice a que a Corte de origem determinasse a redução do montante final executado.
+2. Segundo compreensão desta Corte, "o art. 537, § 1º, do CPC/2015 não se restringe somente à multa vincenda, pois, enquanto houver discussão acerca do montante a ser pago a título da multa cominatória, não há falar em multa vencida" (AgInt no AREsp n. 1.944.977/GO, relator Ministro Manoel Erhardt, Desembargador Convocado do TRF5, Primeira Turma, julgado em 11/4/2022, DJe de 18/4/2022).
+3. Em regra, não é cabível, na via especial, a revisão do valor estabelecido pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a disposição contida na Súmula 7/STJ.4 . Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.091.177/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
