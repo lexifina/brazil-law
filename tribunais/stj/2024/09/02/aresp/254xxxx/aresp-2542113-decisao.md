@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 109/116) que inadmitiu recurso especial por aplicação das Súmulas n. 7 e 83 do STJ.
+A parte agravante refuta os fundamentos da decisão agravada e alega o cumprimento de todos os requisitos legais par a recebimento do especial (e-STJ fls. 142/158).
+Não foi apresentada contraminuta (e-STJ fl. 166).
+O acórdão recorrido está assim ementado (e-STJ fl. 70):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE INTIMAÇÃO DE NOVO PATRONO. NULIDADE QUE DEVE SER VERIFICADA DE ACORDO COM O CASO CONCRETO. AUSÊNCIA DE PREJUÍZO. MANUTENÇÃO DA DECISÃO QUE REJEITOU PEDIDO DE CHAMAMENTO DO FEITO À ORDEM. NULIDADE DECORRENTE DA INOBSERVÂNCIA DO ART. 272, § 5º, DO CPC QUE DEVE SER ANALISADA CONFORME CASO CONCRETO. PAS NULLITÉ SAN GRIEF. RECORRENTE QUE NÃO APONTOU O VÍCIO QUANDO OCORRIDA A PRIMEIRA PUBLICAÇÃO, EM NOME DO ANTIGO PATRONO. AGRAVANTE QUE AGUARDOU O TRÂNSITO EM JULGADO DO AGRAVO EM RECURSO ESPECIAL PARA, EM FASE DE CUMPRIMENTO DE SENTENÇA, REALIZAR PEDIDO DE CHAMAMENTO DO FEITO À ORDEM, ARGUINDO NULIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE QUALQUER IMPEDIMENTO AO ACOMPANHAMENTO EX TEMPORE DO PROCESSO. NULIDADE DE ALGIBEIRA. MANUTENÇÃO DA DECISÃO ATACADA QUE SE IMPÕE. DESPROVIMENTO DO RECURSO.
+No recurso especial (e-STJ fls. 76/89), fundamentado no art. 105, inc. III, alínea "a", da CF, a parte apontou ofensa aos arts. 272, § 5º, e 280 do CPC, argumentando com a nulidade das intimações.
+Não foram oferecidas contrarrazões (e-STJ fl. 107).
+É o relatório.
+Decido.
+Conforme o Tribunal recorrido, "O agravante se insurgiu contra decisão que rejeitou a anulação do feito, a partir da decisão de fl. 777, ao argumento de que não houve observância, pela serventia, do requerimento de cadastramento de novo patrono, o que ensejou o bloqueio eletrônico de R$ 11.369,95, já que não foi intimada para o depósito do valor de R$ 8.619,66" (e-STJ fl. 72).
+A Corte local reconheceu que, "No caso em análise, tem-se que o agravante pleiteou em petição, constante no índex 538, que as publicações dos atos processuais fossem feitas exclusivamente em nome do patrono ALEXANDRE GHAZI - OAB/RJ 70.771, quando o feito estava tramitando no Tribunal de Justiça. Contudo, o pedido não foi observado e quando os autos retornaram ao Juízo de Origem, em 03/2020, as publicações mantiveram-se em nome do patrono anteriormente cadastrado" (e-STJ fl. 73).
+O acórdão recorrido negou provimento ao agravo de instrumento por dois fundamentos (e-STJ fl. 74): (i) "cumpria ao recorrente apontar a nulidade quando ocorrida a primeira publicação em nome do antigo patrono e não aguardar o trânsito em julgado de Agravo em Recurso Especial para, em fase de cumprimento de sentença, realizar pedido de chamamento do feito à ordem"; e (ii) "caberia ao patrono demonstrar o prejuízo ao contraditório decorrente da publicação ocorrida em nome do patrono anteriormente cadastrado, o que também não ocorreu".
+No especial, a parte defendeu "não ser possível suscitar a Nulidade Processual quando havida a primeira publicação em nome do antigo patrono da PREVI, justamente pois a Publicação não foi destinada ao Procurador a cujo respeito houve Pedido de Publicações Exclusivas, não tomando a PREVI ciência da incorreção" (e-STJ fl. 84).
+A recorrente não impugnou especificamente o fundamento do aresto impugnado que concluiu pela necessidade de demonstração do prejuízo pela PREVI, o que atrai a aplicação, por analogia, da Súmula n. 283 do STF, ao caso em questão.
+Ademais, a alteração da conclusão de que "ausente demonstrativo de qualquer impedimento ao acompanhamento ex tempore do processo" (e-STJ fl. 74), demanda o reexame da prova dos autos, vedado em recurso especial pela Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo .
+Publique-se e intimem-se.
+EMENTA
