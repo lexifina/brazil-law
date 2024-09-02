@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por MUNICIPIO DE NOVA SERRANA, contra decisão que não admitiu recurso especial (fls. 463/466, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 343, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE -MUNICÍPIO DE NOVA SERRANA - REGULARIZAÇÃO FUNDIÁRIA PROMOVIDA NO DECORRER DO PROCESSO -DESISTÊNCIA REQUERIDA PELO ENTE MUNICIPAL - PERDA SUPERVENIENTEDO OBJETO EVIDENCIADA -PROCESSO EXTINTO, SEM RESOLUÇÃO DO MÉRITO - ÔNUSSUCUMBENCIAIS - OBRIGAÇÃO DO AUTOR - ART. 85, §10, CPC/15 -PRINCÍPIO DA CAUSALIDADE - SENTENÇA CONFIRMADA - RECURSO DESPROVIDO. 1. De acordo com o disposto no art. 85, §10, do CPC/15, "nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo". 2. Ao providenciar a regularização fundiária da área objeto da demanda, a municipalidade desistiu expressamente da lide, não pairando dúvidas no sentido de que a ela incumbe o pagamento dos ônus de sucumbência, à luz do princípio da causalidade.
+Em suas razões de recurso especial, o recorrente aponta ofensa aos artigos 85, § 10, e 90, "caput", do CPC/2015.
+Sustenta, em síntese, não ter dado causa ao ajuizamento da ação e, por isso, não pode ser condenado ao pagamento de honorários sucumbenciais.
+Contrarrazões (fls. 431/438, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de que aplicável ao caso a Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 543/548 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Na espécie, a Corte de origem, quanto à responsabilidade pelos honorários de sucumbência, aplicando o princípio da causalidade, assim decidiu (fls. 344/346, e-STJ):
+O MUNICÍPIO DE NOVA SERRANA ajuizou em julho/2017 a presente ação de reintegração de posse em face de VANDERLEI GONÇALVES DOS SANTOS E OUTROS alegando ser proprietário da área localizada no bairro Santa Helena, referente ao registro imobiliário de matrícula n.º 58.234.
+No decorrer da demanda, a municipalidade aviou, aos 03/11/2020, a petição de f. 13 (doc. 12), nos seguintes termos:
+"Conforme documentos anexos, verifica-se que a área objeto da presente reintegração de posse será beneficiada com a regularização fundiária. Dessa forma, não persiste mais as razões para continuidade da presente ação de reintegração de posse.
+Diante do exposto, requer a desistência da presente ação."
+Diante do narrado, o d. Magistrado extinguiu o feito, sem resolução do mérito, com base na perda superveniente de objeto (art. 485, IV, do CPC/15), condenando a parte autora ao pagamento de honorários advocatícios arbitrados em 10% (dez por cento) do valor atualizado da causa. Insurge-se o ora apelante ao argumento de que, por não ter dado causa à propositura da ação, não pode ser condenado a pagar verba honorária.
+Com a devida vênia, razão não lhe assiste.
+Isso porque, ao contrário do arguido no recurso, o ente municipal deu sim causa à instauração do processo, atraindo a regra contida no art.85, §10, do CPC/15, segundo a qual:
+(..)
+Pelo que se vê, ao providenciar a regularização fundiária da área objeto da demanda, a municipalidade desistiu da lide, inclusive expressamente, não pairando dúvidas no sentido de que a ela incumbe o pagamento dos ônus de sucumbência, à luz do princípio da causalidade.
+Com efeito, o aresto recorrido encontra apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. DESISTÊNCIA DO PROCESSO. ART. 90 DO CÓDIGO DE PROCESSO CIVIL. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Segundo a jurisprudência desta Corte Superior, o princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente. Precedentes. 2. Se o autor desistir da demanda, será dele a responsabilidade pelo custo do processo (art. 90, caput, CPC). 3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 2.239.324/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. ARTIGO 90 DO CPC. 1. A controvérsia busca definir se há responsabilidade pelo pagamento de honorários advocatícios quando houver desistência da ação e aplicação do princípio da causalidade. 2. Na hipótese, chegar a entendimento diverso do adotado pelo aresto atacado, apto a influir na aplicação do princípio da causalidade e distribuição dos honorários sucumbenciais, encontra óbice na Súmula nº 7/STJ, visto que exigiria o revolvimento de fatos e de provas, procedimento inadmissível na via do recurso especial. 3. Consoante disposto no artigo 90 do CPC, a desistência do processo enseja o pagamento dos honorários advocatícios e das custas processuais pela parte que desistiu. 4. Agravo interno não provido. (AgInt no REsp n. 1.945.748/PA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+Aplica-se, pois, na espécie, o óbice insculpido na Súmula 83 do STJ.
+Ademais, para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AOS DISPOSITIVOS LEGAIS INVOCADOS. ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.(..) 2. Segundo a jurisprudência desta Corte Superior, o "princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente" (AgInt no AREsp n. 466.997/RJ, Relatora Min istra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/10/2018, DJe 24/10/2018). 3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 4. No caso concreto, para alterar a conclusão do Tribunal de origem de que a parte recorrente deu causa à propositura da demanda, seria necessário o reexame da prova, o que é vedado em recurso especial. 5. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.604.820/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2019, DJe de 22/11/2019.)
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se. Intimem-se.
+EMENTA
