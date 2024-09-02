@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto da reiteração delitiva, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+2. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS VINICIUS DE ALMEIDA DE SOUZA contra a decisão que denegou a ordem de habeas corpus (fls. 25-28).
+Consta que o paciente, ora agravante, foi preso em flagrante, em 10/12/2023, com posterior conversão da custódia em preventiva (fls. 20-22), em virtude da suposta prática do ilícito tipificado no art. 33, caput, da Lei n. 11.343/2006, pois, em tese, foi surpreendido na posse de 13 (treze) pinos de cocaína - 02 (dois) em seu bolso e os outros 11 (onze) em seu carro.
+Inconformada com a decisão de conversão da prisão em flagrante em preventiva, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões do writ, a parte impetrante postulou a revogação da prisão preventiva do acusado, ainda que mediante a aplicação de medidas cautelares diversas.
+A ordem foi denegada às fls. 25-28.
+Daí o presente regimental, no qual a Defesa reitera a fundamentação e os pleitos formulados na inicial da ação constitucional.
+Pede, assim, a reconsideração da decisão impugnada ou a apreciação do feito pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto da reiteração delitiva, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+2. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+3. Agravo regimental não provido.
+VOTO
+O inconformismo não prospera.
+No caso concreto, constato que o Juízo de primeiro grau, ao converter a prisão flagrancial em preventiva, destacou, sobretudo, a necessidade do cárcere cautelar em virtude do fundado risco de reiteração delitiva - foi verificado que o indiciado possui registro criminal na Bahia por infringir o artigo 157 e artigo 288 do CP, na comarca de Porto Seguro/BA (fl. 21; grifamos).
+Como se vê, a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+De fato, a jurisprudência desta Corte Superior compreende que
+a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. (AgRg no RHC n. 159.385/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022; grifamos).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. RISCO DE REITERAÇÃO DELITIVA. OUTROS REGISTROS. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. No caso, não obstante a pequena quantidade de drogas apreendidas (23 g de maconha, 10 g de cocaína e 3 g de crack), as instâncias ordinárias apontaram prova da existência do delito e o receio de perigo gerado pelo estado de liberdade do agravante à ordem pública, com base em elementos concretos nos autos, mormente diante do risco de reiteração delitiva, pois o acusado estava em gozo de liberdade provisória concedida em outros dois processos pelo cometimento do mesmo crime, o que constitui fundamento apto a consubstanciar a prisão cautelar.
+2. Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas.
+3. Agravo regimental improvido (AgRg no HC n. 802.892/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 12/6/2023, DJe de 16/6/2023; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE IRREGULAR DE MUNIÇÕES DE ARMA DE FOGO. PRISÃO PREVENTIVA. RISCO DE REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 34, XX, do Regimento Interno do STJ permite ao relator decidir o habeas corpus quando a decisão impugnada se coadunar com o entendimento dominante acerca do tema. Na hipótese, a decisão proferida não descurou do princípio da colegialidade, visto que o acórdão impugnado manteve a prisão preventiva do acusado com base em argumentos considerados concretos e idôneos pela jurisprudência da Quinta e da Sexta Turmas desta Corte Superior.
+2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. No caso em exame, o decreto prisional apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação concreta para decretar a prisão preventiva, ao salientar o risco de reiteração delitiva, extraído de registros pretéritos do acusado. Inclusive, no momento do flagrante, o réu estava em liberdade provisória concedida no curso de um outro processo que apura a prática de tráfico de drogas.
+4. Ademais, as instâncias de origem consignaram que a custódia cautelar também se justificaria pela gravidade concreta da conduta, evidenciada pela quantidade de entorpecentes apreendidos - 324,68 g de maconha e 132 comprimidos de ecstasy -, além de quatro munições de arma de fogo, uma motocicleta produto de furto, R$ 702,00 e três balanças de precisão.
+5. Em relação à alegada violação de domicílio e ao pleito de internação provisória em razão da dependência química do réu, as matérias não foram previamente analisadas pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do STJ. Assim, não pode este Tribunal Superior conhecer diretamente dos temas, sob pena de inadmissível supressão de instância.
+6. Agravo regimental não provido (AgRg no HC n. 826.470/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023; grifamos).
+Ressalto que a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada caso estejam presentes os requisitos autorizadores da custódia cautelar, como na hipótese vertente. Nesse sentido: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe 17/11/2023.
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
