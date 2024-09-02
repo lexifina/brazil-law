@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIANA BARRETO FIGUEIREDO e outros (ADRIANA e outros) contra decisão que negou seguimento ao seu recurso especial, manejado, por sua vez, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+COMPRA E VENDA ENTRE PARTICULARES - SOBRELOJA -RESCISÃO - MORA DO ADQUIRENTE - ALUGUERES DEVIDOS PELO RÉU EM DECORRÊNCIA DA OCUPAÇÃO INDEVIDA DO IMÓVEL - CONTAGEM A PARTIR DA DATA EM QUE O RÉU FOI NOTIFICADO. TERMO FINAL FIXADO NA DATA DA EFETIVA REINTEGRAÇÃO DOS AUTORES NA POSSE DO IMÓVEL - DANO MATERIAL - DESPESAS INERENTES A POSSE. IMPOSSIBILIDADE DE COMPENSAR PERDA DO SINAL COM ALUGUERES DEVIDOS POR OCUPAÇÃO IRREGULAR.
+A sentença rescindiu o contrato de promessa de compra e venda celebrado entre as partes, determinando a reintegração dos autores na posse do imóvel, antecipando, nesteaspecto, os efeitos da tutela. Determinou a expedição dorespectivo mandado, com urgência. Condenouo réu ao pagamento das custas relativas a este pedido e de honorários advocatícios em favor do patrono dos autores, fixadosem 10% sobre o valor da causa, na forma dos arts. 82 e 85, do CPC. Condenou o réu ao pagamento de alugueres mensais em favor dos autores, a contar de 03/08/2017 até a presente data, acrescidos de juros de mora legais, a contar da citação, e corrigidos monetariamente pelos índices oficiais da Corregedoria Geral de Justiça, a contar da data do vencimento. O valor será apurado em liquidação de sentença. Considerando que os autores decaíram de parte mínima do pedido, condenou o réu ao pagamento das custas relativas a este pedido e de honorários advocatícios em favor do patrono dos autores, fixados em 10% sobre o valor da condenação, na forma dos arts. 82 e 85, do CPC. Acolheu em parte o pedido para condenar o réu ao pagamento dos débitos de IPTU e condomínio, cujos valores estão indicados às fls. 89 e 91/92, acrescidos de juros de mora legais, a contar da citação, e corrigidos monetariamente pelos índices oficiais da Corregedoria Geral de Justiça, a contar da data do vencimento. Face à sucumbência recíproca, as custas referentes a este pedido deverão ser rateadas. Condenou o réu ao pagamento de honorários advocatícios em favor do patrono dos autores, fixados em 10% sobre o valor da condenação, na forma dos arts. 82 e 85, caput c/c §14, do CPC. E condenou os autores ao pagamento de honorários advocatícios em favor do patrono do autor, que fixou em R$ 2.000,00, na forma dos arts. 82 e 85, caput c/c §§ 2º e 14, do CPC. Apelam as partes.
+Compra e venda entre particulares.
+Incontroversa a mora do comprador. Negócio desfeito por iniciativa do mesmo, que demonstrou desinteresse na concretização do negócio. Não atendimento de notificação expedida a fim de que fosse integralizado o preço e celebrado o contrato definitivo.
+Rescisão do negócio.
+Arras confirmatórias. Perda que se operou face ao desfazimento do contrato ser por culpa do comprador. Impossibilidade de compensar osaluguéis devidos pelo réu em razão da ocupação indevida do imóvel,com o sinal. Institutos diversos.
+Aluguel devido pelo réu a partir da data danotificaçãopara a celebração do contratovisto que não compareceu ao ato (03/08/2017), até a efetiva reintegração dos autores na posse do imóvel. Despesas inerentes a posse do imóvel que devem ser suportadas pelo réu, conforme se apurar em cumprimento de sentença. Sucumbência suportada integralmente pelo réu. Art. 86, parágrafo único do CPC.
+RECURSO DO RÉU DESPROVIDO.
+RECURSO DOS AUTORES PARCIALMENTE PROVIDO.(e-STJ, fls. 353/356).
+Nas razões do presente recurso, ADRIANA e outros alegaram, a par de divergência jurisprudencial, a violação aos arts. 489 e 1.022, II, do CPC; 475 e 884 do CC, ao sustentar (1) omissão do acórdão recorrido acerca da possibilidade da cobrança da taxa de fruição referente a todo o período de ocupação do imóvel ; e (2) que é devida a cobrança da taxa de ocupação da adquirente, desde a data da posse até a efetiva desocupação do bem, sob pena do enriquecimento sem causa do comprador .
+Os embargos de declaração opostos por ADRIANA e outros foram rejeitados (e-STJ, fls. 391/399).
+Foram apresentadas contrarrazões (e-STJ, fls. 501/529).
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 532/536).
+Nas razões do presente agravo, ADRIANA e outros alegaram que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 579/613).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+Trata-se de ação de resolução de promessa de compra e venda de imóvel cumulada com reintegração de posse e indenização por perdas e danos ajuizada por ADRIANA e outros contra EGEKKE PATRIMONIAL EMPREENDIMENTOS E PARTICIPAÇÕES LTDA., alegando inadimplemento da ré em relação à celebração da escritura e ao pagamento do saldo do preço após a regularização para sua transferência, conforme pactuado.
+(1) Da violação do art. 1.022, II, do CPC
+Nas razões do recurso especial, ADRIANA e outros sustentaram, preliminarmente, omissão do julgado acerca da possibilidade da cobrança da taxa de fruição referente a todo o período de ocupação.
+Sem razão, contudo.
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora insurgente, o TJRJ assim se pronunciou:
+Quanto à insurgência dos autores para que a condenação do réu ao pagamento de aluguéis que seja a contar de 02.09.13, data de sua imissão na posse do bem, até a efetiva reintegração dos mesmos na posse do imóvel, não se sustenta.
+Isso porque foi n adata de 03/08/2017 que o réu passou a ocupar indevidamente o imóvel, devendo, assim, incidir o pagamento de aluguéis a contar desta data.
+Com efeito, até então o réu ocupava o imóvel de forma legítima, posto que no mesmo se encontrava como promitente comprador, até por conta da disposição contratual dilargando a exigibilidade do preço para a data do encerramento do inventário.
+Ocorre que, solvida a questão sucessória, em tendo o preço não sido integralizado, e havendo a notificação para a concretização do pagamento e assinatura da escritura definitiva sido entregue ao mesmo, e não atendida, a partir do exaurimento deste prazo sua ocupação de tornou indevida, donde sua responsabilidade pelos alugueres deve se dar deste esta data.
+Todavia, os mesmos devem ser pagos até a efetiva reintegração dos autores na posse do imóvel, merecendo retoque a sentença nesse ponto somente. (e-STJ, fl. 370).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que busca a parte é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original)
+Não se verifica, assim, a apontada contrariedade à lei processual.
+(2) Da taxa de fruição
+Por sua vez, ADRIANA e outros argumentaram que é devida a cobrança da taxa de ocupação da adquirente, desde a data da posse até a efetiva desocupação do bem, sob pena do enriquecimento sem causa do comprador.
+Razão assiste aos recorrentes.
+Nesse ponto, o aresto recorrido comporta parcial reforma, a fim de reconhecer que a cobrança da taxa de ocupação deve ter por termo inicial a data em que o promitente comprador passou a ocupar o imóvel.
+Isso porque, a jurisprudência desta Corte Superior assentou a orientação no sentido de que a taxa de fruição é devida durante o período em que os compradores tiveram a posse do imóvel que adquiriram da vendedora, alcançando, inclusive, a fase de adimplência do contrato.
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. TAXA DE FRUIÇÃO. CABIMENTO. INDENIZAÇÃO DEVIDA POR TODO O PERÍODO DE OCUPAÇÃO DO BEM, DESDE A IMISSÃO NA POSSE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça assenta que, nas hipóteses de rescisão de contrato de compra e venda com a determinação de devolução dos valores pagos pelo comprador, é cabível a fixação de indenização relativa ao período da ocupação do imóvel, desde a data em que a posse foi transferida até a efetiva entrega do bem.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.996.109/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 8/8/2022, DJe de 10/8/2022)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE APARTAMENTO. DESFAZIMENTO CONTRATUAL PELO ADQUIRENTE. RETORNO AO ESTADO ANTERIOR. TAXA DE FRUIÇÃO DEVIDA AO VENDEDOR EM VIRTUDE DA OCUPAÇÃO PELO COMPRADOR DO IMÓVEL. MARCO INICIAL. DATA DA TRANSFERÊNCIA DA POSSE AO DEVEDOR. PRECEDENTES DE AMBAS AS TURMAS QUE COMPÕE A SEÇÃO DE DIREITO PRIVADO. IMPOSSIBILIDADE DE ANÁLISE DE TEMAS NÃO DEVOLVIDOS POR OCASIÃO DA CONTRARRAÕES AO APELO NOBRE. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões do manifesto enriquecimento ilícito e da redução da cláusula penal manifestamente excessiva não foram suscitadas em contrarrazões ao recurso especial, inviabilizando que seja levantada em sede de agravo interno, tendo em vista a configuração da preclusão consumativa.
+2. Segundo entendimento adotado por este Superior Tribunal de Justiça, nas hipóteses de rescisão de contrato de compra e venda com a determinação de devolução dos valores pagos pelo comprador, é cabível a fixação de indenização relativa ao período da ocupação do imóvel, desde a data em que a posse foi transferida até a efetiva entrega do bem (AgInt no REsp n.º 1.996.109/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.023.006/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TAXA DE FRUIÇÃO. IMISSÃO NA POSSE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Nas hipóteses de rescisão de contrato de compra e venda com a determinação de devolução dos valores pagos pelo comprador, é cabível a fixação de indenização relativa ao período da ocupação do imóvel, desde a data em que a posse foi transferida até a efetiva entrega do bem. Precedentes.
+2. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, a análise das razões apresentadas pela parte recorrente, quanto ao valor fixado a título de taxa de fruição e aos critérios de cálculos utilizados, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.090.348/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E RESTITUIÇÃO DE VALORES. PROMESSA DE COMPRA E VENDA DE LOTE. TAXA DE FRUIÇÃO. CABIMENTO, NO CASO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça assenta que, nas hipóteses de rescisão de contrato de compra e venda com a determinação de devolução dos valores pagos pelo comprador, é cabível a fixação de indenização relativa ao período da ocupação do imóvel, desde a data em que a posse foi transferida até a efetiva entrega do bem.
+2. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.088.804/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Nessas condições, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial para fixar a data da imissão da posse da compradora como termo inicial dos aluguéis devidos.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL. INDENIZAÇÃO POR PERDAS E DANOS. (1) VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. (2) COBRANÇA DA TAXA DE FRUIÇÃO. TERMO INICIAL. DATA DA EFETIVA OCUPAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
