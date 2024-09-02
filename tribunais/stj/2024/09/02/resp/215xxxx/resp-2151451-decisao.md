@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RAFAEL BRITO DO NASCIMENTO e CAIO VICTOR GONCALVES DO NASCIMENTO com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ - TJPA em julgamento da Apelação Criminal n. 0808063-30.2022.8.14.0006.
+Consta dos autos que os recorrentes foram condenados pela prática do delito tipificado no art. 157, § 2º, II, do Código Penal - CP (roubo majorado), às penas de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e 13 dias-multa, à razão mínima (fls. 377/387).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 519). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. ROUBO. ART. 157, § 2º, II, DO CP. PLEITO DEFENSIVO. FIXAÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA 231 DO STJ. NÃO CABIMENTO. PEDIDO PARA RECORRER EM LIBERDADE. IMPOSSIBILIDADE. SENTENÇA MANTIDA. RECURSO IMPROVIDO." (fl. 506).
+Em recurso especial (fls. 535/546), a defesa aponta a violação ao art. 65, III, "d", do CP, porque o TJ deixou de reduzir a pena intermediária abaixo do mínimo legal, com lastro no Enunciado da Súmula n. 231 do Superior Tribunal de Justiça - STJ, o qual afirma ser inconstitucional.
+Sustenta que o referido enunciado sumular não se compatibilizaria com os princípios da segurança jurídica, da boa-fé objetiva e da proteção da confiança, na medida em que frustra a efetivação de direito legitimamente adquirido pelo réu (da aplicação de atenuantes da pena).
+Assinala que a validade da Súmula n. 231 do STJ está sendo rediscutida nesta Corte Superior.
+Requer, assim, a aplicação da atenuante da confissão espontânea, com a readequação da reprimenda dos recorrentes. Subsidiariamente, pleiteia a "admissão do Recurso Especial como representativo da controvérsia, nos termos do art. 1.036, § 1º, do CPC, sendo delimitada a questão de direito, a teor do art. 256, §2º, inc. I, do Regimento Interno do C. STJ, nos seguintes termos: Discutir a inconstitucionalidade da Súmula nº 231 do C. STJ, propondo a compatibilização vertical entre os princípios constitucionais da (1) segurança jurídica nas relações, (2) boa-fé objetiva e (3) proteção à confiança" (fl. 545). Pugna, ainda, pela suspensão do processo, nos termos do art. 1036, § 1º, do CPC.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ (fls. 548/553).
+Admitido o recurso no TJ (fls. 554/556), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 568/574).
+É o relatório.
+Decido.
+Quanto à controvérsia recursal, o TJPA manifestou-se nos seguintes termos do voto do relator :
+"Analisando-se a sentença, verifica-se que o Magistrado sentenciante fixou a pena base para ambos os Apelantes em 04 (quatro) anos de reclusão e ao pagamento de 10 (dez) dias-multa, vez que as circunstâncias previstas no Art. 59, do CP foram favoráveis ao mesmo.
+Na segunda fase da dosagem penalógica, foi reconhecida a atenuante prevista no Art. 65, d, III do CP, observando-se o quanto disposto na Súmula 231, do STJ.
+Na terceira fase, foi aplicada uma circunstância que se enquadra na causa de aumento pertinente ao inciso II, do § 2º do artigo 157 do CP (concurso de agentes), razão pela qual foi majorada a pena na fração de 1/3 (um terço), ou seja 01 (um) ano e 04 (quatro) meses e 03 (três) dias-multa, totalizando 05 (cinco) anos e 04 (quatro) meses de reclusão e ao pagamento de 13 (treze dias-multa, a serem cumpridas em regime semiaberto.
+Em que pese a alegação recursal, tenho que não há como afastar o enunciado de Súmula 231 do Superior Tribunal de Justiça, haja vista que este se encontra em consonância com critério trifásico da dosimetria do apenamento adotado no Brasil, conforme artigo 68, do Código Penal.
+Neste sistema, em primeiro lugar será estabelecida a pena-base, atendendo-se aos critérios previstos no artigo 59 do diploma legal. Logo após, serão consideradas as circunstâncias atenuantes e agravantes, e, por fim, as causas de diminuição e aumento de pena.
+Esse instituto obedece à garantia constitucional da individualização da pena, a qual se encontra capitulado no artigo 5º, XLVI, da CF, lembrando-se de que na fixação da punição cada etapa deverá ser fundamentada, tendo sido garantido o direito a ampla defesa.
+Tanto o Superior Tribunal de Justiça quanto o Supremo Tribunal Federal já decidiram no mesmo sentido." (fls. 511/512).
+Dessume-se, dos trechos acima que o Tribunal de origem consignou não ser possível a redução da pena aquém do mínimo legal, na segunda fase da dosimetria, em face do Enunciado n. 231 da Súmula do STJ.
+O entendimento da origem é irretocável, porquanto se encontra em absoluta consonância com a jurisprudência atual e pacífica desta Corte.
+Conforme é cediço, a Súmula n. 231 do STJ, segundo a qual " a  incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal", teve sua vigência mantida com a proclamação do resultado de julgamento dos REsps n. 1.869.764/MS, 2.052.085/TO e 2.057.181/SE pela Terceira Seção na sessão de 14/8/2024, que pode ser assistida no canal desta Corte no YouTube.
+Desse modo, não há se falar em superação ou afastamento no caso concreto aludido do enunciado sumular, estando, ainda, o pleito de afetação ou suspensão do presente recurso prejudicado, ante a citada realização do julgamento pela Terceira Seção sobre a manutenção da vigência da Súmula n. 231 do STJ.
+No mesmo sentido (grifos nossos):
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DOS ARTS. 171, § 3º E 297, § 3º, III, DO CÓDIGO PENAL. PRINCÍPIO DA CONSUNÇÃO. SÚMULA N. 7 DO STJ. CONFISSÃO. REDUÇÃO AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA 231/STJ. AGRAVO IMPROVIDO.
+1. A instância de origem afastou a aplicação do instituto da consunção, dado o não esgotamento da potencialidade lesiva da falsificação de documento público quando da prática do estelionato, demonstrando sua autonomia, o que impede a absorção de um delito pelo outro.
+2. Para rever as conclusões alcançadas pela Corte regional, soberana no exame do acervo fático-probatório dos autos, seria imprescindível a reanálise dos elementos de prova produzidos, procedimento que não se coaduna com a via do recurso especial.
+Incidência da Súmula n. 7/STJ.
+3. Nos termos da Súmula 231 do STJ, a incidência de circunstância atenuante não pode implicar a redução da pena abaixo do mínimo legal.
+4. Conquanto a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência consolidada na Súmula n. 231/STJ, remetendo, assim, os autos dos Recursos Especiais n.s 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, até o momento, não houve determinação de sobrestamento dos feitos pelo então relator, Ministro Rogerio Schietti Cruz, como permitido no § 1º do art. 125 do Regimento Interno do Superior Tribunal de Justiça.
+5. Agravo regimental improvido.
+(AgRg no REsp n. 2.122.715/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MOEDA FALSA. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REDUÇÃO ABAIXO DO MÍNIMO LEGAL. SÚMULA N. 231 DO STJ. APLICABILIDADE MANTIDA. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido está em consonância com a orientação firmada no Superior Tribunal de Justiça, segundo a qual a incidência de circunstância atenuante, como a confissão espontânea, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 do STJ.
+2. Conquanto haja sido afetado à Terceira Seção o julgamento da questão, a "incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte (..)" (AgRg no AREsp n. 2.243.342/PA, Rel. Ministra Laurita Vaz, 6ª T., DJe 9/5/2023).
+3. "O regime inicial fechad o é o adequado para o cumprimento da pena superior a 4 e não excedente a 8 anos, em razão da reincidência da acusada, a teor do art. 33, §§ 2º, do Código Penal" (HC n. 470.694/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 23/10/2018).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.522.067/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/5/2024, DJe de 28/5/2024.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CONSUMADO E ROUBO TENTADO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. PEDIDO DE SUSPENSÃO DO TRÂMITE DO FEITO ATÉ O JULGAMENTO DE RECURSOS ESPECIAIS PELA TERCEIRA SEÇÃO. IMPOSSIBILIDADE. PEDIDO DE SUPERAÇÃO DA SÚMULA N. 231, STJ. INCABÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Conquanto a Sexta Turma tenha aprovado a proposta de revisão da jurisprudência consolidada na Súmula n. 231/STJ, remetendo, assim, os autos dos Recursos Especiais n.s 2.057.181/SE, 2.052.085/TO e 1.869.764/MS à Terceira Seção, até o momento, não houve determinação de sobrestamento dos feitos pelo então relator, Ministro Rogerio Schietti Cruz, como permitido no § 1º do art. 125 do Regimento Interno do Superior Tribunal de Justiça. Desta feita, não há óbice para o julgamento do presente feito (AgRg no HC n. 862.440/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+III - Com efeito, não é possível superar o entendimento sedimentado na Súmula n. 231, STJ. Isso porque a orientação sumular representa a jurisprudência pacífica e atualizada do Tribunal da Cidadania quanto ao tema. Precedente.
+Agravo regimental desprovido.
+(AgRg no HC n. 844.900/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2024, DJe de 11/3/2024.)
+Em reforço, o Supremo Tribunal Federal - STF, no julgamento de questão de ordem no Recurso Extraordinário n. 597.270 RG -QO/RS, paradigma vinculado ao Tema n. 158 de Repercussão Geral intitulado "Fixação de pena aquém do mínimo legal, em face da incidência de circunstância genérica atenuante", fixou a seguinte tese: "Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal".
+O julgamento de questão de ordem no referido Recurso Extraordinário ficou assim ementado:
+"AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal".
+(STF, RE 597270 QO-RG, Relator Min. CEZAR PELUSO, julgado em 26/3/2009.)
+Nesse contexto, verifica-se que a Súmula n. 231 desta Corte Superior não destoa do entendimento do STF sobre a questão nela tratada.
+Ainda assim, este Tribunal entende que "É incabível a arguição de inconstitucionalidade de súmulas, porquanto correspondem ao resumo de reiteradas decisões proferidas pelos tribunais, não constituindo lei nem ato normativo." (AgRg no AREsp n. 1.879.727/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 16/11/2021, DJe de 22/11/2021).
+Destarte, a pretensão defensiva não deve ser acolhida.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+ EMENTA
