@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REALIZAÇÃO DE JULGAMENTO VIRTUAL. VIOLAÇÃO DO ART. 937 DO CPC E CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, II, DO CPC. NÃO OCORRÊNCIA. REQUISITOS DO ART. 50 DO CC. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência deste STJ é no sentido de que a realização de julgamento virtual, mesmo com a oposição da parte, por si só, não caracteriza o cerceamento de defesa ou nulidade.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+3. Não se admite a revisão do entendimento firmado no Tribunal de origem que, com base nos elementos de prova dos autos, concluiu pelo preenchimento dos requisitos do art. 50 do CC, ante a incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TRIANA ADMINISTRAÇÃO DE BENS LTDA. contra decisão que negou provimento ao agravo em recurso especial (fls. 157-162).
+Os embargos de declaração foram rejeitados conforme decisão de fls. 200-203.
+Em suas razões, a parte agravante sustenta violação do art. 937, VIII, do CPC, ante a nulidade decorrente do julgamento virtual realizado na origem, ao arrepio do pedido de sustentação oral formulado por seus patronos. Informou que, a despeito do acórdão ter julgado o agravo de instrumento interposto na origem, fato é que os desembargadores proferiram decisão de mérito acerca do incidente de desconsideração da personalidade jurídica, o que autorizaria a manifestação oral dos advogados da parte interessada.
+Alega ainda violação dos arts. 489 e 1.022 do CPC, uma vez que os requisitos do art. 50 do CC, base a desconsideração inversa e direta perpetrada em primeiro grau de jurisdição, não foram avaliados pelo Tribunal de origem. Aduz que a referida desconsideração foi determinada com base na presunção de formação de grupo econômico, sem a necessária demonstração do desvio de finalidade social e da confusão patrimonial.
+Por fim, informa a inaplicabilidade da Súmula n. 7 do STJ ao caso concreto, haja vista que a ofensa ao art. 50 do CC foi devidamente demonstrada nas razões do recurso especial, consubstanciada no deferimento do pedido de desconsideração da personalidade jurídica por intermédio de presunção e não na configuração dos requisitos legais para tanto.
+Esclarece que a manutenção do acórdão configura divergência da jurisprudência deste STJ a respeito do tema, na medida em que os julgados desta Corte exigem a demonstração inequívoca de atos intencionais e a utilização da pessoa jurídica para fins fraudulentos.
+Requer, portanto, seja reconsiderada a decisão agravada e dado provimento ao presente agravo interno, afastando-se a desconsideração da personalidade jurídica e, por consequência, a inclusão da agravante no polo passivo da execução em curso em primeiro grau de jurisdição.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REALIZAÇÃO DE JULGAMENTO VIRTUAL. VIOLAÇÃO DO ART. 937 DO CPC E CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, II, DO CPC. NÃO OCORRÊNCIA. REQUISITOS DO ART. 50 DO CC. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência deste STJ é no sentido de que a realização de julgamento virtual, mesmo com a oposição da parte, por si só, não caracteriza o cerceamento de defesa ou nulidade.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+3. Não se admite a revisão do entendimento firmado no Tribunal de origem que, com base nos elementos de prova dos autos, concluiu pelo preenchimento dos requisitos do art. 50 do CC, ante a incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+Retira-se da decisão agravada a inexistência de nulidade apontada pela parte agravante a respeito da não realização do julgamento presencial do agravo de instrumento, haja vista a não demonstração de prejuízo para a parte.
+A conclusão acima teve por base o disposto no acórdão proferido na origem, segundo o qual "não padece de nulidade o v. Acórdão, considerando que, dada a ausência de possibilidade de sustentação oral em sede de agravo de instrumento, inexiste óbice a que julgado por meio de julgamento virtual, que tem por objetivo a celeridade processual, inexistindo, portanto, qualquer prejuízo à parte recorrente" (fl. 104).
+Essa orientação se coaduna com a jurisprudência do STJ, segundo a qual "Não há, no ordenamento jurídico vigente, o direito de exigir que o julgamento ocorra por meio de sessão presencial. Portanto, o fato de o julgamento ter sido realizado de forma virtual, mesmo com a oposição expressa e tempestiva da parte, não é, por si só, causa de nulidade. (REsp n. 1.995.565/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2022, DJe de 24/11/2022)".
+O mesmo pode ser dito em relação à violação dos arts. 489 e 1.022 do CPC.
+Nas razões do especial, a parte sustenta que os requisitos para o deferimento da desconsideração da personalidade jurídica perpetrada na origem não foram analisados, devendo, portanto, ser reconhecida a ilegitimidade da agravante para compor o polo passivo da execução em curso em primeiro grau.
+Contudo, como bem demonstrado na decisão que rejeitou os embargos de declaração, o relator na origem avaliou todos os pressupostos do art. 50 do CC, reconhecendo, a partir dos documentos comprobatórios acostados aos autos, a existência de grupo econômico com evidente interligação das sociedades empresárias, configurando o abuso de direito e a confusão patrimonial.
+Veja-se o trecho do acórdão citado na mencionada decisão (fl. 202):
+Na hipótese em comento, apesar dos fatos e fundamentos de direito expostos no presente recurso, os elementos existentes nos autos comprovam, de forma segura, a existência de grupo econômico diante da evidente interligação entre as sociedades empresárias, as quais possuem semelhança de endereços, bem como de sócios, que são integrantes da mesma família, além da exploração de similar atividade (administração e exploração de patrimônio próprio), evidenciando abuso da personalidade jurídica, com a consequente confusão patrimonial e desvio de finalidade.
+Como elucidação concreta de tal cenário, o agravado aponta que determinado bem imóvel (Matrícula 18.012, do 1º CRI de Piracicaba/SP), conforme matrícula extraída do agravo de instrumento 2008185-27.2022, era titularizado por todos os sócios da devedora originária e garantia dívidas desta perante credores diversos, até quando frações ideais do bem integralizaram, inclusive a agravante, conforme R. 23 (fls. 50 daqueles autos), a evidenciar a pulverização de patrimônio.
+Assim, irrelevante que o sócio Mario Luiz Fernandez tenha se separado consensualmente de Eloise em 2004 e transferido suas cotas às demais sócias 2002, conforme contrato social de fls. 33/40, porque o fato que justifica a desconsideração é a confusão social desde a sua formação e integralização do capital social.
+É o que basta, pois, para a manutenção da r. decisão recorrida, prejudicado o agravo interno interposto.
+Correta, portanto, a decisão agravada, haja vista que o reconhecimento na origem do preenchimento dos requisitos do art. 50 do CC, tendo como base o conjunto fático-probatório dos autos, reclama a aplicação da Súmula n. 7 do STJ, caso a parte interessada requeira a revisão de tal conclusão no bojo do recurso especial.
+Caso, pois, de manutenção da decisão agravada pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
