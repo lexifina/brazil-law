@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DO DEVEDOR. EXCESSO DE EXECUÇÃO NÃO EVIDENCIADO. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+2. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+3. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constit ucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOSÉ TEODORO PIMENTA contra a decisão de fls. 481-484, que não conheceu de agravo em recurso especial com fundamento na incidência, por analogia, da Súmula n. 182 do STJ.
+O agravante afirma não ser aplicável à espécie o óbice da Súmula n. 182 do STJ, uma vez que todos os fundamentos indispensáveis para o julgamento da causa foram suficientemente impugnados.
+No mérito, reitera as razões do recurso especial, alegando comprovado dissídio jurisprudencial e violação dos arts. 783 e 786 do CPC no tocante à caracterização de excesso de execução em decorrência da cobrança de encargos contratuais abusivos não pactuados.
+Sustenta ainda não ser aplicável à espécie o óbice da Súmula n. 7 do STJ, uma vez que busca apenas a adequada valoração jurídica da matéria.
+Requer seja reconsiderada a decisão agravada ou seja o agravo submetido ao colegiado.
+Contrarrazões pelo desprovimento do recurso (fls. 492-494). Requer a majoração de honorários advocatícios em sede recursal (art. 85, § 11, do CPC) e a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DO DEVEDOR. EXCESSO DE EXECUÇÃO NÃO EVIDENCIADO. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do instrumento contratual e do acervo fático-probatório dos autos atrai a incidência das Súmulas n. 5 e 7 do STJ.
+2. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+3. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constit ucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. Agravo interno desprovido.
+VOTO
+Razão assiste à parte agravante.
+As razões recurso especial denotam efetiva impugnação específica da decisão de inadmissibilidade do recurso especial quanto ao fundamento de não incidência da Súmula n. 7 do STJ (fls. 443-444).
+Assim, na forma do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 481-484 e passo a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação não reúne condições de prosperar.
+Trata-se, na origem, de ação de execução de título extrajudicial.
+Em primeira instância, os embargos à execução foram julgados parcialmente procedentes apenas para afastar a cobrança de multa processual (fls. 297-301).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (fls. 387-390).
+Sobreveio recurso especial em que se alega caracterizado excesso de execução em decorrência da cobrança de encargos contratuais abusivos não pactuados.
+No caso em análise, assim se manifestou o Tribunal de origem ao analisar a insurgência do ora agravante contra a sentença que afastou o alegado excesso de execução para, ao final, reconhecer a correção dos valores apurados com base nos cálculos apresentados pela parte exequente, destacando, ainda, a sua conformidade com os termos do contrato celebrado. Confira-se (fls. 389-390, destaquei):
+Na verdade, divergem as partes acerca da forma de atualização do débito, perpetuando-se a lide no tocante ao alegado excesso de execução por afirmar o recorrente ter havido, por parte da Cooperativa de Crédito, ora exequente, o descumprimento do quanto pactuado.
+Especificamente, alega nas razões do presente apelo que, no memorial de cálculo por ela apresentado a fls. 51, há incidência de juros de mora de 1% ao mês e correção pelo INPC quando pelo aditivo firmado (fls. 29) deveria incidir a taxa SELIC e juros de mora de 1% ao ano. Para tanto, contrapõe-se à pretensão, apresentando sua planilha de fls. 66.
+Ocorre que referido memorial de cálculos além de não partir do valor da execução (R$ 60.566,59) mas sim do valor de R$ 30.747,49, apurado pelo exequente no mês do inadimplemento (09.2007), não exibe de forma especificada a incidência diária da taxa SELIC e juros de mora de 1% ao ano (09.2017), olvidando-se ainda da forma de atualização do débito após o ajuizamento da pretensão executória em agosto de 2013.
+Por outro lado, a Cooperativa exequente exibiu o demonstrativo de débito a fls. 31/50 em plena conformidade com o pactuado entre as partes, observando a incidência de encargos para o período da normalidade até setembro de 2007 e, na sequência, dos encargos de inadimplência. E, a partir do valor de R$ 60.566,59 encontrado para a data de ajuizamento da execução (agosto de 2013), instruiu o feito com o memorial de atualização do quantum devido, fazendo incidir juros de mora de 1% ao mês e atualização pela Tabela Prática deste E. Tribunal como se observa a fls. 51.
+Tudo na forma do quanto avençado entre as partes e ainda de acordo com a forma de atualização dos débitos judiciais, restando pois afastado o alegado excesso de execução, ponto do presente inconformismo do embargante.
+Nessa linha, nos limites das razões recursais, mantida pois a sentença tal como lançada.
+Sendo manifesto o caráter fático-probatório das premissas que orientaram as instâncias de origem a afastar o alegado excesso de execução, para adotar conclusão diversa, como pretende a parte agravante, seria imprescindível a análise do instrumento contratual e a incursão no acervo fático-probatório dos autos, medida que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Nesse sentido: AgInt no AREsp n. 2.341.993/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/3/2024, DJe de 22/3/2024; AgInt no AREsp n. 2.326.193/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023; AgInt no AREsp n. 2.260.837/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/8/2023, DJe de 16/8/2023.
+Quanto ao apontado dissídio, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Nesse contexto, não há semelhança entre as bases fáticas dos acórdãos confrontados que entenderam caracterizado excesso de execução pela exigência de encargos contratuais abusivos, situação não reconhecida no caso em análise.
+Ressalte-se ainda que a incidência das Súmulas n. 5 e 7 do STJ quanto à interposição pela alínea a do permissivo constitucional, também impedem o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A propósito: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil, pleiteada em contrarrazões, a orientação desta Corte é no sentido de que "a multa aludida no art. 1.021, §§ 4º e 5º, do CPC/2015, não se aplica em qualquer hipótese de inadmissibilidade ou de improcedência, mas apenas em situações que se revelam qualificadas como de manifesta inviabilidade de conhecimento do agravo interno ou de impossibilidade de acolhimento das razões recursais porque inexoravelmente infundadas" (AgInt no RMS n. 51.042/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/3/2017, DJe de 3/4/2017).
+No caso, apesar do desprovimento do agravo interno, não está configurada a manifesta inadmissibilidade, razão pela qual é incabível a aplicação de multa.
+Por fim, no que se refere ao pedido de majoração dos honorários recursais em razão do julgamento deste agravo interno, pleiteada em contrarrazões, cumpre destacar que a jurisprudência desta Corte firmou-se no sentido de que a interposição de agravo interno não inaugura instância, razão pela qual é inviável a majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte cujo recurso não ultrapassou a fase de conhecimento ou foi desprovido (EDcl no AgInt no AREsp n. 437.263/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/4/2018, DJe de 10/4/2018; e AgInt no AREsp n. 1.223.865/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/3/2018, DJe de 3/4/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
