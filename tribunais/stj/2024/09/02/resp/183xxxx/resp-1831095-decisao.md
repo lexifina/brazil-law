@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por DÉBORA ROSA FERREIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (fls. 164/165):
+ADMINISTRATIVO. PROCESSUAL CIVIL. FINANCIAMENTO ESTUDANTIL. FIES. CDC. INAPLICABILIDA DE CAPITALIZAÇÃO DE JUROS. IMPOSSIBILIDADE. APLICAÇÃO DA TABELA PRICE. LEGALIDADE. ADEQUAÇÃO DOS JUROS. À LEI Nº 12.202/10. POSSIBILIDADE. CUMULAÇÃO DE MULTA COM HONORÁRIOS ADVOCÁTÍCIOS. ABUSIVIDADE DAS CLAUSULAS CONTRATUAIS NÃO DEMONSTRADA. LEGALIDADE.
+1. Os contratos, de financiamento estudantil não se submetem ao disciplinamento emanado do Código de Defesa do Consumidor, pois não encerram uma relação de consumo, mas adesão a um programa governamental, de cunho social, que promove financiamento em condições especiais com vistas a propiciar educação aos jovens que não disponham de recursos financeiros suficientes ao custeio de sua formação profissional.
+2. De acordo com as disposições normativas constantes da Lei nº 10.260/01, que instituiu o FIES, não havia previsão para a capitalização dos juros até que foi editada a Medida Provisória nº 517, de 30.12.2010, que alterou o inciso II, do art. 5º, do referido diploma legal, vindo a autorizar a referida capitalização. No caso dos autos, porém, permanece a vedação, porquanto, à data da celebração do contrato, em 2003, a capitalização não ainda não era prevista.
+3. À míngua de disposição normativa expressa, não há como sustentar a possibilidade de capitalização de juros nos contratos de financiamento estudantil, consoante o entendimento firmado no c. Superior Tribunal de Justiça que, em situações semelhantes à tratada nos autos, defendeu a aplicação da Súmula nº. 121/STF.
+4 Sobre a aplicação do CDC e a capitalização mensal dos juros nos contratos da espécie, o e. STJ, inclusive, já decidiu neste mesmo sentido em sede Recurso Repetitivo, a saber, RESP 1155684-RN, Rel. Min. Benedito Gonçalves, Primeira Seção, Julgado em 12.05.10, DJ .18.05.10.
+5. É possível a aplicação do Sistema Francês de Amortização - Tabela PRICE - aos contratos de financiamento estudantil, por ele não encerrar, em si mesmo, a prática do anatocismo. Precedentes.
+6. É possível aplicar-se a hipótese vertente a redução dos juros determinada pela Lei nº 10.260/01, uma vez o próprio legislador ordinário também previu a mencionada redução sobre o saldo devedor dos contratos já formalizados anteriormente a sua vigência.
+7. Quanto à impossibilidade de cumulação da multa contratual e dos honorários advocatícios, tem-se que o inconformismo da parte vencida, inobstante compreensível e, por vezes, legítimo, não pode prescindir de fundamentação capaz de demonstrar os motivos ensejadores de sua irresignação contra determinado posicionamento adotado pelo MM. Julgador. Sendo assim, o argumento genérico erigido pela apelante não é capaz de, por si só, ensejar a formação de juízo de valor desta c. Turma no sentido de reformar a decisão prolatada pelo douto sentenciante a quo.
+8. Entende-se restar prejudicado o pleito da recorrente de limitação da multa contratual ao percentual de 2%, uma vez que ela já foi prevista neste patamar, conforme se verifica da leitura da Cláusula Décima Nona.
+Apelação parcialmente provida.
+Os embargos de declaração opostos foram parcialmente acolhidos, sem efeitos infringentes (fls. 255/260).
+Nas razões de seu recurso, a parte recorrente alega violação do art. 20, caput e § 3º, do Código de Processo Civil (CPC), defendendo que os honorários foram arbitrados em valor excessivo, pois baseados em clausula contratual abusiva. Defende, ainda, a sucumbência recíproca no presente caso.
+Requer ao final o provimento do recurso especial para que seja declarada nula a cláusula contratual sobre os honorários advocatícios.
+A parte adversa apresentou contrarrazões (fls. 275/283).
+O recurso foi admitido na origem (fl. 287).
+É o relatório.
+Trata-se, na origem, de Ação Monitória proposta pela Caixa Econômica Federal - CEF, contra particular, com o intuito de ver satisfeito o crédito decorrente de abertura de crédito para financiamento estudantil.
+A parte recorrente se insurge quanto ao valor arbitrado a título de honorários advocatícios, afirmando que se baseia em cláusula abusiva de contrato de adesão.
+O Tribunal de origem analisou aspectos das cláusulas do contrato de financiamento estudantil e, julgando a questão nos embargos declaratórios, assim se manifestou (fls. 257/258):
+O Acórdão assentou que a Cláusula Décima Nona do Contrato de Abertura de Crédito para Financiamento Estudantil - FIES nº 15.0046.185.0003708-47 (fls. 08/16), prevê Multa no montante de 2%, razão pela qual estaria prejudicado o Pedido de redução da mesma de 20% para 2%. No entanto, conforme consta na referida Cláusula, o Pedido não se encontra prejudicado:
+"CLÁUSULA DÉCIMA NONA - DA IMPONTUALIDADE
+(..)
+PARÁGRAFO TERCEIRO. Caso a CAIXA venha dispor de qualquer procedimento judicial ou extrajudicial para a cobrança de seu crédito, o ESTUDANTE e o(s) FIADOR(es), pagarão, ainda, apena convencional de 10% (dez por cento) sobre o valor do débito apurado na forma deste contrato, respondendo também pelas despesas judiciais e honorários advocatícios de até 20% (vinte porcento) sobre o valor da causa."
+A fixação da Verba Honorária Contratual, no patamar de 20% (vinte por cento), não fere qualquer dispositivo legal ou constitucional, na medida em que o Contrato para financiamento do FIES não se submete ao CDC (REsp 1.155.684/RN,) além de que a porcentagem se encontra de acordo com o limite estabelecido no CPC/73.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial relativamente ao ponto em questão.
+Incide no presente caso a Súmula 5 do STJ, segundo "a qual a simples interpretação de cláusula contratual não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
