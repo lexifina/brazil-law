@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EMBARGOS DE DE CLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO DA CORTE DE ORIGEM QUE NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA SOMENTE NO ART. 1.030, I, DO CPC. CORREÇÃO DE ERRO MATERIAL. POSSILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9. 3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A errônea indicação de termo estranho aos autos caracteriza erro material passível de correção.
+III - Embargos de declaração acolhidos, sem efeitos infringentes, para correção de erro material.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA:
+JOELLESON DA SILVA LEMOS opõe embargos de declaração contra o acórdão proferido em sede de agravo interno que, por unanimidade, não o conheceu, cuja ementa transcrevo (fl. 468/469e):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO DA CORTE DE ORIGEM QUE NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA SOMENTE NO ART. 1.030, I, DO CPC. AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO. AUSÊNCIA DE INTERESSE PROCESSUAL. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado.Aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação pretende trazer o Agravo em Recurso Especial interposto contra julgado que negou seguimento ao recurso especial com fundamento, tão somente, no art. 1.030, I, do CPC.
+III - Em que pese, a princípio, caracterizada a usurpação de competência, carece a Reclamante do necessário interesse de agir pela ausência de probabilidade de êxito recursal. Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+Alega, em síntese, que o acórdão recorrido padece de erro material, porquanto faz menção, em relatório e voto, a questão estranha aos autos.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 495e).
+Os embargos foram opostos tempestivamente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EMBARGOS DE DE CLARAÇÃO NO AGRAVO INTERNO NA RECLAMAÇÃO. DECISÃO DA CORTE DE ORIGEM QUE NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA SOMENTE NO ART. 1.030, I, DO CPC. CORREÇÃO DE ERRO MATERIAL. POSSILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9. 3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A errônea indicação de termo estranho aos autos caracteriza erro material passível de correção.
+III - Embargos de declaração acolhidos, sem efeitos infringentes, para correção de erro material.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA:
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustenta o Embargante que há erro material a ser corrigido, nos termos do art. 1.022, III, do Código de Processo Civil.
+Na lição de Liebman o "erro material é o erro "na expressão", não no pensamento: a simples leitura da sentença deve tornar evidente que o juiz, no manifestar o seu pensamento, usou nome, ou palavras, ou cifras diversas daquelas que deveria ter usado para exprimir fielmente e corretamente a ideia que havia em mente.  ..  Em outros termos, o erro material é aquele devido a uma desatenção ou um erro perceptível na operação de redação do ato" (LIEBMAN, Enrico Tullio, apud FIGUEIRA JÚNIOR, Joel Dias. Erro material da sentença, eficácia do ato e meios de impugnação. in "Revista de Processo", n. 78, ano 20, abr/jun, 1995, p. 249).
+Nessa esteira, a orientação desta Corte:
+A expressão "erro material" possui sentido técnico e consiste na existência de flagrante equívoco na utilização de sinais gráficos relacionados com vocábulos referentes ao nome das partes ou do recurso, ou, ainda, a expressões numéricas como datas, valores monetários etc. Cuida-se, como se vê, de equívoco flagrante, de imediata percepção, consistente na manifesta incompatibilidade entre o que o órgão julgador entendeu ou quis dizer, e, por outro lado, os sinais gráficos para expressar o julgamento. Tal defeito pode ser corrigido de ofício pela autoridade judicial ou mediante a oposição dos Embargos Declaratórios. Não se enquadra no conceito de erro material aquele relacionado com critérios ou elementos do julgamento.
+(EDcl nos EDcl no REsp n. 1.340.444/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 21/9/2021, DJe de 15/12/2021 - destaquei).
+Outrossim, "o erro material deve, ainda, ser qualificado pela ausência de debate ou controvérsia judicial a seu respeito, evidenciando-se logo que não tenha sido percebido pelos julgadores e não tenha sido objeto de decisão sob o contraditório" (3ª T., REsp n. 1.208.982/DF, Rel. Min. Sidnei Beneti, j. 16.08.2011, DJe 6.9.2011).
+Logo, à luz de tais referenciais teóricos e jurisprudenciais, e a partir da leitura dos trechos acima colacionados, restou configurado o erro material apontado pela Embargante.
+Nesse cenário, impõe-se o acolhimento dos embargos de declaração para, corrigindo o erro material apontado, redefinir a redação do acórdão embargado, de modo que no relatório, onde se lê (fls. 470/471):
+Sustenta o Agravante, em síntese (fls. 1.321/1.324e):
+É que a decisão reclamada negou seguimento ao Recurso Especial do particular sob o argumento de que "inobstante o acórdão guerreado tenha reconhecido a possibilidade de arguição da prescrição na via da exceção de pré-executividade, na hipótese dos autos a discussão demanda dilação probatória, evidenciando assim a inadequação da via eleita". Ao final, conclui que para rever o entendimento consignado no acórdão recorrido, seria imprescindível o revolvimento do arcabouço fático, cujo propósito esbarraria no óbice da Súmula 07 deste STJ, que veda o reexame de provas, utilizando como paradigma justamente o recurso repetitivo n. 1.104.900/ES. .. Por assim ser, houve usurpação da competência deste E. STJ pelo Tribunal a quo, atraindo a aplicação do art. 988, inciso I e §1º do CPC, que determina: .. Dessa forma, é cabível a reclamação para preservar a competência deste E. STJ para analisar matéria de índole infraconstitucional, sendo incabível que o Tribunal a quo tenha se arvorado de tal competência sob o fundamento de que seria imprescindível o revolvimento do arcabouço fático. .. Ora, não há falar que a presente reclamação foi utilizada como sucedâneo recursal, isso porque restou plenamente demonstrado que o objetivo da ora Agravante é, justamente, preservar a competência deste E. STJ, bem como garantir a aplicação dos precedentes firmados por esta Colenda Corte, o que denota evidente violação ao dispositivo constitucional supramencionado.
+Leia-se:
+Sustanta o Agravante, em síntese, estar caracaterizada a usurpação da competência do STJ, porquanto o Tribunal de Justiça não poderia realizaar o juízo de admissibilidade/julgamento do Agravo em Recurso Especial.
+Da mesma forma, na fundamentação, redefine-se que, como já delineado na decisão agravada e na ementa do acórdão embargado, este Superior Tribunal já se manifestou no sentido de, em que pese, a princípio, esteja caracterizada a usurpação de competência ante o julgamento do Agravo em Recurso Especial pela Corte de origem, carece ao Reclamante do necessário interesse de agir, tendo em vista a ausência de probabilidade de êxito recursal (AgInt na Rcl 40.720/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020).
+No caso, a negativa de admissibilidade teve fundamento relacionado, tão somente, à sistemática dos recursos repetitivos, na forma do art. 1.030, I, do CPC, de modo que o único recurso cabível é o agravo interno, consoante art. 1.030, § 2º, do CPC (fl. 81e).
+Desse modo, somente se exigiria a interposição de Agravo em Recurso Especial, com fundamento no art. 1.042 do CPC, caso houvesse capítulo da decisão que inadmitisse o recurso com base no inciso V do mencionado art. 1.030 do CPC, o que não se verifica no caso em exame.
+Nesse sentido, os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECLAMAÇÃO INDEFERIDA LIMINARMENTE. INEXISTÊNCIA DE USURPAÇÃO DA COMPETÊNCIA DO STJ. DECISÃO DO TRIBUNAL DE ORIGEM PROFERIDA DENTRO DOS COMANDOS LEGAIS. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA CORTE LOCAL QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE NO ART. 1.030, I, B, DO CPC. ERRO GROSSEIRO. UTILIZAÇÃO DE MEIO RECURSAL IMPRÓPRIO. INÚMEROS PRECEDENTES.
+1. Não se verifica usurpação de competência deste Superior Tribunal de Justiça quando o agravo, obstado na origem, é manifestamente incabível, motivo pelo qual não se admite o manejo da via reclamatória.
+2. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no art. 1.030, I, b, do CPC, o único recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento. A interposição do agravo previsto no art. 1.042 do CPC, nesses casos, caracteriza-se como erro grosseiro. Inúmeros precedentes.
+3. Agravo regimental improvido.
+(AgRg na Rcl n. 46.356/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 31/10/2023, DJe de 9/11/2023.)
+AGRAVO INTERNO NA RECLAMAÇÃO. RECURSO ESPECIAL. INADMISSÃO. TESE REPETITIVA. AGRAVO EM RECURSO ESPECIAL INCABÍVEL. COMPETÊNCIA DO STJ. USURPAÇÃO. INEXISTÊNCIA.
+1. Nos termos da orientação desta Corte, se o recurso especial teve seu seguimento negado na origem exclusivamente com base no artigo 1.030, inciso I, alínea "b" ou no artigo 1.040, inciso I, do Código de Processo Civil, o único recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento. A interposição do agravo previsto no artigo 1.042 do Código de Processo Civil nesses casos caracteriza-se como erro grosseiro.
+2. Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, motivo pelo qual não se admite o manejo da via reclamatória.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt na Rcl n. 44.487/MS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 20/6/2023, DJe de 23/6/2023.)
+Posto isso, ACOLHO OS EMBARGOS DE DECLARAÇÃO, sem efeitos infringentes, para correção de erro material, nos termos expostos.
