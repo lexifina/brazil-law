@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SINDICATO DOS TRABALHADORES NAS INSTITUIÇÕES FEDERAIS DE ENSINO (SINDIFES) contra decisão de fls. 487/490 que conheceu em parte do agravo para conhecer o recurso especial e negar-lhe provimento nessa extensão.
+A parte embargante em suas razões alega que a decisão é omissa quanto aos argumentos de que:
+ ..  ao contrário do que insinua o relator, o recurso especial não teve seu trâmite negado com base na holding do precedente formado no julgamento do RESP 1.371.750/PE, mas na afirmação de que a jurisprudência do Superior Tribunal de Justiça admitiria, em linha de princípio, a limitação temporal do reajuste de 3,17% quando concedido por decisão judicial (fls. e-STJ 347/354).
+ ..  o apelo nobre não foi denegado com apoio no inciso I do art. 1.030 do CPC/2015 (consonância do acórdão recorrido a entendimento repetitivo do STJ), e o recurso cabível para o seu destrancamento é o agravo em recurso especial, ex vi do art. 1.030, §1º, c/c art. 1.042 do diploma processual, e não o agravo interno do art. 1.021
+ ..  a ausência de pronunciamento acerca de qualquer dos fundamentos deduzidos na ação caracteriza ofensa à congruência objetiva, princípio - e regra, a depender do contexto de aplicação - cujo conteúdo vincula a atividade cognitiva do julgador à controvérsia delimitada pelas partes e compele o magistrado a pronunciar-se sobre cada um dos pedidos e fundamentos determinantes deduzidos pela parte, sob pena de juízo citra petita. (e-STJ, fls. 494/502)
+Não foi apresentada impugnação.
+É o relatório. Passo a decidir.
+Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do artigo 1.022, I e II, do CPC/15, bem como para sanar a ocorrência de erro material.
+Tem-se que o presente recurso não merece amparo. Vejamos.
+A decisão embargada afirmou que o Tribunal de origem não conheceu em parte do recurso especial considerando a consonância do acórdão com o Tema n 905/STJ e com o Resp nº 1.690.581/RJ submetido ao regime de recursos repetitivos, de modo que "o Tribunal de origem não conhecido em parte do recurso especial considerando a consonância do acórdão com o Tema n 905/STJ e com o Resp nº 1.690.581/RJ submetido ao regime de recursos repetitivos".
+Ademais, afastou a alegada violação ao artigo 1.022 do CPC/2015, "porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia relacionada à limitação temporal dos reajustes e inexistência de ofensa à coisa julgada (e-STJ, fl. 217), apenas não adotando as razões da recorrente, o que não configura violação do dispositivo invocado", bem como que "afasta-se a alegada afronta ao artigo 489, § 1º, IV do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido".
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, em especial a ocorrência de omissão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
