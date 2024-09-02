@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. JUNTADA DE DOCUMENTAÇÃO FALTANTE. RECONSIDERAÇÃO. ECONOMIA E CELERIDADE PROCESSUAIS. POSSIBILIDADE. DETRAÇÃO. DETERMINAÇÃO DO REGIME INICIAL DE PENA. PROGRESSÃO DE REGIME. INSTITUTO PRÓPRIO DA EXECUÇÃO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por economia e celeridade, reconsidero a decisão anterior somente para o processo do presente agravo regimental.
+2. O § 2º do art. 387 do CPP, incluído pela Lei n. 12.726/2012, dispõe que o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade.
+3. O referido preceito normativo não se refere à progressão de regime prisional, instituto próprio da execução penal, mas, sim, à possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do Código Penal.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto por ROBERTO CARLOS FRANCO contra decisão por mim proferida que, liminarmente, indeferiu a ordem de habeas corpus sob o fundamento de indevida supressão de instância e, ainda, a utilização de via inadequada para exame da pretendida tese da Defesa.
+A Defesa reitera os argumentos trazidos na inicial do habeas corpus, tendo sido juntada a peça faltante ao exame da controvérsia.
+Aduz que agravante foi sentenciado pelo crime do artigo 157, § 2º, incisos II, V e VII, do Código Penal a uma pena de 12 (doze) anos de reclusão, e 255 (duzentos e cinquenta e cinco) dias-multa, em regime fechado (fl. 4), e que, após a interposição de recurso de apelação, a pena foi redimensionada para 08 (oito) anos e 02 (dois) meses, sendo mantido o regime fechado.
+Sustenta que a decisão do Juízo de Execução Penal em manter o agravante preso em regime fechado, após a análise do pedido de detração penal, configura constrangimento ilegal pois, com a detração penal, e a pena restando abaixo de 08 (oito) anos, deveria ser feita a readequação do regime de cumprimento de pena.
+Nessas premissas, pede a reconsideração da decisão agravada para determinar a imediata progressão ao regime semiaberto do agravante. Caso contrário, seja o agravo regimental submetido ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. JUNTADA DE DOCUMENTAÇÃO FALTANTE. RECONSIDERAÇÃO. ECONOMIA E CELERIDADE PROCESSUAIS. POSSIBILIDADE. DETRAÇÃO. DETERMINAÇÃO DO REGIME INICIAL DE PENA. PROGRESSÃO DE REGIME. INSTITUTO PRÓPRIO DA EXECUÇÃO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por economia e celeridade, reconsidero a decisão anterior somente para o processo do presente agravo regimental.
+2. O § 2º do art. 387 do CPP, incluído pela Lei n. 12.726/2012, dispõe que o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade.
+3. O referido preceito normativo não se refere à progressão de regime prisional, instituto próprio da execução penal, mas, sim, à possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do Código Penal.
+4. Agravo regimental não provido.
+VOTO
+Por economia e celeridade, reconsidero a decisão anterior somente para o processo do presente agravo regimental.
+O acórdão atacado, mantendo a decisão de primeiro grau, entendeu que o paciente não tem direito à progressão de regime por não ter preenchido o lapso temporal necessário para a progressão, que somente ocorrerá em 22/03/2025, assim consignado pelo voto do Relator:
+Por outro lado, verifica-se que a decisão proferida na mov. 50 dos autos da execução penal se encontra fundamentada, tendo o magistrado ressaltado que o período de 03.03.2023 à 15.06.2023 já consta no relatório de penas (mov. 49). Pontuou ainda que compete ao juiz que proferiu a sentença condenatória observar o tempo de prisão provisória para computar e fixar o regime inicial de pena privativa de liberdade. Confira-se:
+" .. . A defesa técnica sobreveio aos autos no evento n. 46, requerendo a concessão da detração e a aplicação do regime semiaberto ao apenado. Instado, o Ministério Público se manifesta pelo indeferimento do requerimento de nova detração e requer seja oficiado ao Diretor da Unidade Prisional para que encaminhe a este juízo a certidão carcerária do reeducando, a fim de verificar eventual direito à remição (evento n. 50). Pois bem. Em análise dos autos, observo no relatório de penas acostado no evento n. 49 que o período referente à prisão provisória do reeducando já foi devidamente lançado. Considerando, portanto, que o período em que o apenado permaneceu preso provisoriamente de 03.03.2023 à15.06.2023 já consta no relatório de penas, portanto não há falar em retificação dos cálculos. Ainda, não cabe ao Juízo da Execução determinar a modificação do regime inicial estabelecido na sentença, e a somatória das penas restantes resultam em montante de 7 (sete)anos, 03 (três) meses e 06 (seis) dias. Ademais, a data-base para progressão de regime ao semiaberto é em 22/03/2025. Por estes motivos, INDEFIRO os pedidos da defesa de evento n. 46.  .. " (Mov.53 dos autos nº 7000215-37.2023.8.09.0093)
+Como se vê, a data-base para progressão de regime ao semiaberto é em 22/03/2025,conforme relatório de execução carcerária de mov. 49.
+Nesse contexto, não há ilegalidade flagrante a ser reparada pela via mandamental.
+(..)
+Diante do exposto, acolhendo em parte o parecer ministerial de cúpula, denego a ordem impetrada.
+O § 2º do art. 387 do CPP, incluído pela Lei n. 12.726/2012, dispõe que o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade:
+Art. 387. O juiz, ao proferir sentença condenatória:
+(..)
+§ 2º O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade.
+O preceito normativo em questão não se refere à progressão de regime prisional, instituto próprio da execução penal, mas, sim, à possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do Código Penal.
+Nesse sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CARACTERIZADA. DOSIMETRIA. REGIME PRISIONAL FECHADO. DETRAÇÃO. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS DESABONADORAS. MEIO MAIS GRAVOSO DO QUE O INDICADO PELA QUANTIDADE DE PENA. MOTIVAÇÃO CONCRETA DECLINADA. AGRAVO DESPROVIDO.
+1. O entendimento pacífico deste Superior Tribunal de Justiça é no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Descabe falar em cerceamento de defesa, considerando a possibilidade de interposição de agravo regimental contra a respectiva decisão, o que permite o julgamento da matéria pelo Colegiado, afastando a ocorrência do vício suscitado pelo agravante.
+3. Quanto à detração penal, o § 2º do art. 387 do Código de Processo Penal, acrescentado pela Lei n. 12.736/2012, dispõe que o tempo de prisão cautelar deve ser considerado para a determinação do regime inicial de cumprimento de pena. Destarte, forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+4. No caso, o regime prisional fechado foi imposto ao ora agravante, condenado ao desconto de pena de 3 anos, 1 mês e 10 dias de reclusão, em razão da reincidência e da presença de vetoriais desabonadoras na dosagem da pena-base, e não em decorrência do quantum da pena aplicada, o que impõe reconhecer que a detração penal não importaria em nenhum benefício para o paciente.
+5. No que se refere ao regime prisional, não se infere qualquer desproporcionalidade do imposição do meio inicialmente mais gravoso para o desconto da reprimenda, pois, nada obstante ser a pena inferior a 4 (quatro) anos de reclusão, a pena-base restou estabelecida acima do mínimo legal pela valoração negativa de circunstâncias judiciais, tendo, ainda, sido reconhecida a sua reincidência, não havendo se falar em negativa de vigência à Súmula 269/STJ.
+6. Agravo desprovido.
+(AgRg no HC n. 853.277/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+A progressão de regime possui regras próprias, estabelecidas na Lei de Execuções Penais - Lei n. 7.210/1984 -, mais precisamente entre os arts. 110 e 119, nos quais há requisitos objetivos e subjetivos que precisam ser observados. No presente caso, o paciente não preencheu o requisito objetivo.
+Por  isso,  conclui-se  que  o  recurso  não  traz  argumentos  novos ,  capazes  de  alterar  o  entendimento  anteriormente  firmado.
+Ante o exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
