@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por W3 FACTORING LTDA. à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 332, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. INDEXADOR DA CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE DE REVISÃO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA OU TESE TRAZIDA NO RECURSO ESPECIAL. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (fls. 339-375, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Em especial, aponta não estarem configuradas a inovação recursal e a falta de prequestionamento apontadas na decisão embargada.
+Impugnação às fls. 379-382 (e-STJ).
+É o relatório.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, somente têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situação que não se observa na espécie.
+A decisão embargada decidiu a controvérsia com base em fundamentação sólida, sem omissões ou contradições. Na verdade, apenas se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A decisão embargada esclareceu a controvérsia, apontando fundamentação consistente, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte.
+Dito isso, cabe rememorar que a ora embargante, em desfavor do acórdão proferido pelo TJMS, interpôs recurso especial (fls. 63-87, e-STJ), o qual não foi admitido (fls. 267-281, e-STJ), ensejando o manejo do agravo em recurso especial (fls. 283-310, e-STJ), do qual se conheceu para não conhecer do recurso especial.
+Nas razões do recurso especial, a recorrente alegou:
+(i) que o agravo de instrumento pela parte recorrida não deveria ter sido conhecido, porquanto seu manejo configura erro grosseiro, na medida que o recurso cabível é a apelação;
+(ii) como a sentença não definiu o índice de correção a ser utilizado no cumprimento de sentença e a parte adversa não recorreu dessa decisão, tem-se que a questão encontra-se preclusa, não podendo ser analisada pelo Tribunal de origem; e
+(iii) que a adoção do incide adotado pelo colegiado estadual - IGPM, de maneira abrupta e sem previsão expressa causa onerosidade excessiva à executada, motivo pelo qual não pode prevalecer.
+Na decisão embargada, reconheceu-se: a) a impossibilidade de revisão das conclusões do acórdão recorrido - acerca do índice a ser utilizado para correção dos valores cobrados em cumprimento de sentença -, em virtude da aplicação da Súmula 7/STJ, óbice que tornou prejudicada a análise da divergência jurisprudencial apontada; b) inovação recursal em relação à alegação de que o agravo de instrumento não poderia ter sido conhecido, porquanto o recurso cabível seria a apelação; e c) falta de prequestionamento acerca da tese de ocorrência de preclusão em relação ao índice a ser utilizado para correção dos valores constantes do presente cumprimento de sentença, porquanto a sentença não o fixou e a parte adversa não recorreu dessa decisão, atraindo a incidência da Súmula 211/STJ.
+Em relação à inovação recursal, em que pese ter a embargante mencionado a questão em contrarrazões, além de o acórdão recorrido não ter tratado da questão, a insurgente não trouxe a matéria nos embargos de declaração opostos, aduzindo essa questão apenas nas razões do recurso especial.
+Quanto ao argumento de estar prequestionada a tese relativa à ocorrência de preclusão em relação ao índice a ser utilizado para correção dos valores constantes do presente cumprimento de sentença, porquanto a sentença não o fixou e a parte adversa não recorreu dessa decisão, verifica-se que o tema não foi debatido pelo Tribunal de origem, motivo pelo qual aplicou-se a Súmula 211/STJ.
+No que se refere a alegação de que a matéria encontra-se prequestionada, em virtude de o Tribunal de origem ter assim concluído nos embargos de declaração rejeitados, cumpre esclarecer que tal fundamento não vincula esta Corte, que possui competência plena para verificar o preenchimento dos pressupostos recursais.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da ora insurgente, não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+Logo, ausentes pontos omissos, contraditórios ou outros vícios processuais, não cabe falar em provimento destes embargos de declaração.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. COMPRA E VENDA. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. PRECEDENTE NÃO VINCULANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. A previsão do art. 489, § 1º, VI, do NCPC aplica-se unicamente a precedentes de caráter vinculante.
+3. Não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, tampouco foi comprovado qualquer erro material.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.470.123/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. REJEITADA A VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO FUNDAMENTADO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. MÉRITO. REINTERPRETAÇÃO DE CLAÚSULAS CONTRATUAIS (SÚMULA 5/STJ) E REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 7/STJ). AGRAVO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Incidência da Súmula 83/STJ.
+3. No caso, o Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, assentou que há "(..) prova documental suficiente para o procedimento monitório de modo a permitir a formação do título executivo, na forma do art. 702 do novo CPC". A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.601.677/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+Dessa forma, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Quanto à pretensão da parte embargada de aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, é importante esclarecer que ela se destina aos casos em que, interposto agravo interno, estes se revelam manifestamente protelatórios.
+Neste caso, não há como acolher o presente pleito, considerando que não se está sequer diante de agravo interno, mas de embargos de declaração, cuja regulamentação se encontra prevista no art. 1.026 do Código de Processo Civil de 2015.
+Por fim, quanto ao pleito de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, impende destacar que, no presente caso, por ora, não se verifica o nítido caráter protelatório dos aclaratórios que autorizaria a sua aplicação.
+Ilustrativamente :
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CPC/2015. SÚMULA 98/STJ. NÃO CABIMENTO. ACÓRDÃO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula 98/STJ.
+2. Na hipótese, o entendimento adotado no acórdão recorrido está dissonante da jurisprudência assente desta Corte Superior. Recurso especial provido.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.260.630/SP, relator Ministro Raul Araújo,
+Quarta Turma, julgado em 17/6/2024, DJe de 27/6/2024.)
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. MULTA DO ART. 1.026, § 2º DO CPC/2015. NÃO INCIDÊNCIA. MULTA DISPOSTA NO ART. 1.021, § 4º DO CPC/2015. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
