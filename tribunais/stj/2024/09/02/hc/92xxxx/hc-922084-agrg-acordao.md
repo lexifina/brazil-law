@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. LAVAGEM DE DINHEIRO. ORGANIZAÇÃO CRIMINOSA. QUEBRA DO SIGILO TELEMÁTICO. NULIDADE. MATÉRIA EXAMINADA PELO SUPREMO TRIBUNAL FEDERAL. INCOMPETÊNCIA DO SUPERIOR TRBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por meio deste habeas corpus, a defesa pretendeu o reconhecimento da nulidade das provas obtidas mediante a suspensão do sigilo telemático do agravante, pois a autorização teria sido dada por juízo incompetente.
+2. A matéria foi submetida a exame do Supremo Tribunal Federal por meio do Recurso Extraordinário n. 1.467.275/DF. A Suprema Corte negou provimento ao recurso, não reconhecendo o vício apontado pela defesa e inviabilizando a reapreciação do tema pelo Superior Tribunal de Justiça, tendo em vista a delimitação da competência desta Corte, estabelecida no art. 105 da Constituição Federal.
+3. Agravo regimental não provido.
+RELATÓRIO
+RAPHAEL SILVA PEREIRA interpôs agravo regimental, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão que não conheceu do habeas corpus substitutivo de recurso especial impetrado em razão de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, proferido no julgamento da Apelação Criminal n. 0708770-05.2019.8.07.0001.
+Em suas razões, o agravante insiste na alegação de incompetência do juízo que autorizou a quebra do sigilo telemático, alegando que a decisão foi proferida após outro juízo ter se tornado prevento, o que torna ilícitas as provas obtidas por meio da medida.
+Assevera que, ao contrário do que se afirmou na decisão impugnada, o Supremo Tribunal Federal não apreciou os argumentos e teses relativos ao tema aqui discutido, pois a Corte Suprema entendeu que a análise dependeria de reexame de provas, providência incabível em grau de recurso extraordinário, a teor do enunciado n. 279 de sua Súmula.
+Diante do exposto, requer a reconsideração da decisão agravada para que seja reconhecida a incompetência do juízo que autorizou o levantamento do sigilo telemático e, por consequência, sejam declaradas nulas as provas obtidas com esse procedimento.
+Por entender pela manutenção da decisão monocrática, submeto este agravo à apreciação do Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. LAVAGEM DE DINHEIRO. ORGANIZAÇÃO CRIMINOSA. QUEBRA DO SIGILO TELEMÁTICO. NULIDADE. MATÉRIA EXAMINADA PELO SUPREMO TRIBUNAL FEDERAL. INCOMPETÊNCIA DO SUPERIOR TRBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Por meio deste habeas corpus, a defesa pretendeu o reconhecimento da nulidade das provas obtidas mediante a suspensão do sigilo telemático do agravante, pois a autorização teria sido dada por juízo incompetente.
+2. A matéria foi submetida a exame do Supremo Tribunal Federal por meio do Recurso Extraordinário n. 1.467.275/DF. A Suprema Corte negou provimento ao recurso, não reconhecendo o vício apontado pela defesa e inviabilizando a reapreciação do tema pelo Superior Tribunal de Justiça, tendo em vista a delimitação da competência desta Corte, estabelecida no art. 105 da Constituição Federal.
+3. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil e art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+O agravante foi denunciado, juntamente com outros doze indivíduos, por integrar uma organização criminosa destinada à aquisição fraudulenta de mercadorias por meio de portais eletrônicos de compra e venda de mercadorias.
+Com o encerramento da instrução, o juízo de primeiro grau julgou parcialmente procedente a pretensão acusatória e condenou o paciente pelos crimes de participação em organização criminosa (art. 2º da Lei n. 12.850/2013), lavagem de dinheiro (art. 1º, caput, e § 1º, incisos I e II, da Lei n. 9.613/1998) e estelionato, na forma consumada e tentada (art. 171 do Código Penal, por sete vezes, e art. 171, na forma do art. 14, inciso II, do Código Penal, por 39 vezes). A pena imposta totalizou 46 (quarenta e seis) anos e 6 (seis) meses de reclusão, em regime inicial fechado, mais 336 (trezentos e trinta e seis) dias-multa (e-STJ, fls. 168-256).
+O Tribunal de Justiça deu parcial provimento ao apelo defensivo e reduziu a pena para 9 (nove) anos, 11 (onze) meses e 10 (dez) dias de reclusão, mais 44 (quarenta e quatro) dias-multa, mantido o regime inicial fechado (e-STJ, fls. 44-121).
+Durante as investigações, duas delegacias especializadas atuaram no caso. Enquanto a Coordenação de Repressão aos Crimes Contra o Consumidor, à Ordem Tributária e a Fraudes (CORF) investigava os crimes de estelionato e lavagem de dinheiro, a Delegacia Especial de Repressão aos Crimes Cibernéticos (DRCC) apurava a origem de e-mails enviados a algumas vítimas pelo mesmo grupo criminoso, razão pela qual requereu a quebra do sigilo telemático perante o juízo da circunscrição do Guará/DF, tendo em vista que a primeira empresa vítima se situa naquela localidade. Já a representação pelas prisões temporárias e pelo levantamento do sigilo telefônico foi deferido pelo juízo da Segunda Vara Criminal de Brasília, a pedido da CORF.
+O Tribunal de origem apreciou o tema e entendeu inexistir vício que macule a decisão judicial que determinou o levantamento do sigilo telemático, pois o trabalho paralelo das duas delegacias especializadas implicou no requerimento da quebra de sigilo telemático em juízo diverso daquele onde foi requerida a interceptação telefônica, não se vislumbrando qualquer nulidade em tal procedimento, tampouco na utilização das provas produzidas na ação penal em apreço, uma vez que os fatos estavam intimamente relacionados.(e-STJ, fl. 59).
+A defesa buscou impugnar a decisão da Corte local por meio de recurso especial, inadmitido na origem. O agravo não logrou êxito em destrancar o apelo nobre.
+O tema foi submetido ao Supremo Tribunal Federal, por meio do Recurso Extraordinário n. 1.467.275/DF, sob a relatoria do eminente Ministro Nunes Marques. Em consulta ao sítio eletrônico da Corte Suprema, obteve-se a informação de que a pretensão defensiva não foi provida. Os autos foram examinados pela Segunda Turma da Corte Suprema em sessão virtual realizada entre os dias 10 e 17 de maio de 2024 e assim foi decidido:
+Por outro lado, o Colegiado rejeitou a alegação de afronta ao princípio do juiz natural com fundamento em elementos fático-probatórios. Considerou que, embora o trabalho paralelo de duas delegacias especializadas tenha resultado na formalização de pedido para o afastamento de sigilo de dados telemáticos perante Juízo diverso daquele no qual requerida a interceptação telefônica, isso não implica a incompetência da autoridade que determinou a quebra do sigilo telemático. Confira-se (eDoc 55, fls. 79-80):
+(..)
+Incide, por conseguinte, quanto a esses pontos, o óbice do verbete n. 279 da Súmula do Supremo, que enuncia:
+Para simples reexame de prova não cabe recurso extraordinário.
+Tendo em vista a decisão acima citada, o Supremo Tribunal Federal passou a ser a autoridade coatora, o que evidencia a incompetência deste Superior Tribunal de Justiça para o exame dos temas ventilados deste writ, nos termos do art. 105 da Constituição Federal.
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Assim, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+RELATOR
