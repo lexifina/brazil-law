@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Eleonora Maria Mandarino Barcellos e outros , contra decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) ausência de negativa de prestação jurisdicional; e (II) incidência da Súmula 7/STJ.
+Em suas razões, a parte embargante sustenta que "assim, demonstrada a infringência aos art. 313, inciso V, alínea "a" do Código de Processo Civil, os embargantes confiam serão conhecidos e inteiramente acolhidos os presentes embargos de declaração para sanar a omissão acima apontada e, por conseguinte, imprimir efeito modificativo ao julgado para revogar o r. decisum, e assim sendo, seja suspensa a tramitação do apelo nobre, até a conclusão do julgamento em definitivo da Ação Rescisória nº 6.436/DF, com seu respectivo trânsito em julgado." (fl. 872).
+Aberta vista à parte embargada, transcorreu in albis o prazo para apresentação de impugnação (fl. 901).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Conforme asseverado na decisão recorrida "verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional  ..  a alteração das premissas adotadas pela Corte de origem, firmada no sentido de que "preliminarmente, não merece prosperar o requerimento veiculado nos autos, no sentido de se manter o presente feito sobrestado, até que ocorra o trânsito em julgado da Ação Rescisória 6436/DF. Com efeito, verifica-se que a decisão que concedeu a tutela de urgência proferida pelo colendo Superior Tribunal de Justiça, no âmbito da ação rescisória acima mencionada, teve o condão apenas de "suspender o levantamento ou pagamento de eventuais precatórios ou RPV"s já expedidos, em quaisquer processos de execução decorrentes da decisão rescindenda, até a apreciação colegiada desta tutela provisória"." (fl. 618), bem como de que necessária a extinção da execução ante a ausência superveniente de título executivo, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ." (fls. 864/865).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões/contradições do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
