@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alínea c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fls. 1.398/1.411):
+IMPROBIDADE ADMINISTRATIVA. EX-PREFEITO. PROGRAMA DINHEIRO DIRETO NA ESCOLA  PDDE. PRESTAÇÃO DE CONTAS TARDIA E INSUFICIENTE. ATO DE IMPROBIDADE ADMINISTRATIVA. PERDA DA FUNÇÃO PÚBLICA. APLICAÇÃO DO ART. 12 DA LEI 8.429/92. REDUÇÃO DA MULTA CIVIL. RESSARCIMENTO INTEGRAL DO DANO. DESCABIMENTO.
+1. Preliminares de ilegitimidade do Ministério Público Federal e de incompetência da Justiça Federal infundadas à luz dos precedentes, e rejeitadas adequadamente pela sentença.
+2. Constitui ato de improbidade administrativa, à luz do art. 11, VI da Lei 8.429/92, "deixar de prestar contas quando esteja obrigado a fazê-lo." O mero atraso na prestação de contas, ou a sua prestação incompleta, faltando peças que depois são complementadas, não implicam o cometimento do ato de improbidade, se houver a aprovação, mesmo a destempo, o que não se dá no caso.
+3. A prestação de contas, que deveria ter ocorrido em 02/2007, somente aconteceu em 01/2011, depois do ajuizamento da ação de improbidade administrativa, e de forma incompleta, nos termos da Resolução CD/FNDE nº 027/2006, sem o "demonstrativo sintético anual da execução físico-financeira", e com o "demonstrativo da execução da receita e da despesa e de pagamentos efetuados" sem o nome do signatário, levando o FNDE a notificar o gestor para a regularização, sem sucesso.
+4. A perda da função pública referida no art. 12 da Lei 8.429/92 diz respeito àquela da qual se vale o agente para cometer o ato de improbidade. A lei não se referiu à inabilitação para o exercício da função pública, não podendo a previsão ser ampliada, pois de trata de matéria punitiva, pautada pela legalidade estrita.
+5. A aplicação das penalidades, na improbidade administrativa, deve observar a gravidade do fato, a extensão do dano causado e o proveito patrimonial obtido pelo agente (art. 12, caput e parágrafo único), não sendo obrigatória a aplicação das penalidades de modo cumulativo. 6. A ausência de prestação de contas (ou a incompletude) pode ser um sintoma de irregularidades na aplicação dos recursos públicos, mas não traduz, ipso facto, a existência de dano patrimonial, que não pode ser presumido. Não pode haver responsabilidade civil sem dano material, direto ou indireto, ou mesmo moral, comprovados.
+7. Considerando o valor destinado ao Programa Dinheiro Direto na Escola  PDDE, de R$ 15.138,00, a razoabilidade e a proporcionalidade aconselham a redução da multa civil de cinco para duas o valor da última remuneração percebida pelo agente público quando em atividade.
+8. Apelação do acusado parcialmente provida. Não provimento da apelação do FNDE.
+Nas razões de seu recurso, a parte recorrente afirma que o TRF1, ao restringir o âmbito de aplicação da sanção de perda da função pública (art. 12, III da Lei 8.429/92) ao cargo do qual se vale o recorrente para cometer o ato de improbidade, divergiu da interpretação dada pela Corte Superior de Justiça (STJ).
+Afirma que a perda da função pública visa a extirpar da Administração Pública aquele que exibiu inidoneidade (ou inabilitação) moral e desvio ético para o exercício da função pública, abrangendo qualquer atividade que o agente esteja exercendo ao tempo da condenação irrecorrível.
+A parte adversa não apresentou contrarrazões (fl. 1.427).
+O recurso foi admitido na origem (fl. 1.436/1.437).
+É o relatório.
+A discussão devolvida no recurso do Parquet se limita à aplicação da pena de perda da função pública, prevista no art. 12 da Lei 8.429/1992.
+Discute-se, notadamente, se a sanção alcançará o cargo exercido pelo condenado quando do trânsito em julgado da decisão condenatória ou a função exercida quando da prática do ato ímprobo.
+Provido o recurso especial do réu e julgado improcedente o pedido condenatório diante da aplicação das normas mais benéficas da Lei 14.230/2021, o presente recurso especial perde o seu objeto , ficando prejudicado.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
