@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ASTREINTES. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VALOR ARBITRADO. RA ZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. ART. 886 DO CC. SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo cabimento da multa cominatória por ausência de demonstração do cumprimento integral de obrigação, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+2. A questão relativa à redução das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, da leitura, não for possível aferir de que maneira o acordão impugnado violou o dispositivo de lei federal indicado no recurso especial.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra julgado da Presidência que, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em recurso especial em razão da aplicação analógica da Súmula n. 182 do STJ.
+Nas razões do presente recurso, a agravante sustenta que o recurso especial preenche todos os requisitos para sua admissibilidade, tendo refutado todos os fundamentos da decisão que inadmitiu o recurso especial.
+Alega que o presente agravo não tem caráter protelatório, devendo ser afastada a aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+Requer, assim, seja o agravo interno julgado pelo colegiado para que o recurso especial seja provido.
+Contrarrazões apresentadas às fls. 428-519, em que se requer a manutenção da decisão agravada com a condenação da parte agravante à pena por litigância de má-fé, bem como à multa prevista no art. 1.021, § 4º, do CPC.
+Parecer do Ministério Público Federal às fls. 537-539.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ASTREINTES. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VALOR ARBITRADO. RA ZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. ART. 886 DO CC. SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo cabimento da multa cominatória por ausência de demonstração do cumprimento integral de obrigação, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+2. A questão relativa à redução das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, da leitura, não for possível aferir de que maneira o acordão impugnado violou o dispositivo de lei federal indicado no recurso especial.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido.
+VOTO
+Razão assiste à parte agravante quanto à inaplicabilidade da Súmula n. 182 do STJ, de modo que a decisão de fls. 405-406 deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação do apelo nobre não reúne condições de prosperar.
+O recurso especial foi interposto por NOTRE DAME INTERMÉDICA SAÚDE S.A. com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido em agravo de instrumento nos autos de ação de obrigação de fazer em cumprimento provisório de sentença.
+O julgado foi assim ementado (fl. 107):
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. Ação de obrigação de fazer. Imposição de nova multa à ré por descumprimento de ordem judicial. Comprovação que a ré não havia cumprido a tutela concedida até o momento em que foi proferida a decisão agravada, tanto que houve fixação de nova multa caso não cumprida novamente a ordem. Multa que atinge montante razoável, diante do porte da empresa ré e dos riscos da recusa à saúde do paciente. Concretização das penalidades que, ademais, depende da confirmação da medida em sentença. Art. 536 e 537, CPC. Decisão mantida.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente apontou violação dos arts. 537, § 1º, I e II, do CPC e 884 e 886 do CC.
+Quanto aos arts. 537 do CPC e 884 do CC, afirmou que cumprira a obrigação imposta judicialmente, inexistindo justificativa para a aplicação da multa.
+Defendeu que o valor fixado a título de astreintes fora exorbitante e desarrazoado, o que ocasionaria o enriquecimento ilícito da parte recorrida.
+Ponderou que o tratamento prescrito para a recorrida fora disponibilizado pela operadora, que, inclusive, comprovou a realização.
+Sustentou a ocorrência de divergência jurisprudencial.
+Requereu o provimento do recurso especial.
+A controvérsia diz respeito ao cabimento e ao valor da multa por descumprimento de ordem judicial nos autos de ação de obrigação de fazer.
+Foi deferida a tutela para determinar à operadora do plano de saúde o fornecimento de tratamento indicado pelo médico assistente, sob pena de multa diária de R$ 1 mil, limitada a 90 dias.
+Posteriormente, o Juízo singular constou que, até o momento de prolatar sua decisão, a operadora de saúde não havia cumprido a ordem judicial, o que ocasionou a fixação de nova multa, a ser aplicada em caso de novo descumprimento.
+A Corte a quo, baseada nas premissas fáticas dos autos, manteve a decisão de origem quanto à nova multa aplicada por descumprimento de decisão judicial por parte da operadora de saúde, que ainda não havia cumprido a obrigação. Ressaltou que o montante fixado - R$ 2 mil, limitado a 90 dias - não era desarrazoado ante o porte da empresa e o risco da falta do tratamento para a saúde do paciente. Confira-se trecho do acórdão do agravo de instrumento (fl. 109, destaquei):
+Anoto que a questão atinente à multa foi bem analisada pelo julgador monocrático uma vez que a ré não cumpriu a ordem liminar, o que restou comprovado pela petição juntada à fl. 35/37 dos autos principais (não infirmada pela ré), montante que se mostra razoável diante do porte da empresa ré e dos riscos da recusa à saúde do paciente.
+Além disso, até o proferimento do despacho ora agravado, a ré ainda não havia cumprido a ordem judicial, razão pela qual o juiz a quo fixou nova multa a ser aplicada no caso de novo descumprimento.
+ ..
+Como bem ressaltou o d. representante da PGJ às fls. 104:
+" ..  Cumpre notar que a primeira decisão proferida nos autos de cumprimento de sentença já consignava o descumprimento de anterior deliberação por mais de 08 (oito) meses (fls. 24/25 dos autos de origem), fixando primeiro valor de multa contra a agravante.
+Na sequência daquele processo de cumprimento de sentença, sobreveio nova decisão dessa vez, impugnada devidamente por meio deste agravo com fixação de segunda multa pelo novo período de descumprimento da obrigação de fazer.
+O que parece não entender a agravante é que deve cumprir a obrigação de fazer imposta judicialmente, não substituída pela astreinte que tem, como propósito, instá-la ao cumprimento daquela primeira decisão.
+Com essa finalidade, pode o Poder Judiciário se valer de diversos meios de coerção, inclusive aplicação de multa por período de descumprimento de decisão judicial exatamente o que ocorreu no caso em apreço. Trata-se de medida imprescindível para garantir a efetividade do direito".
+O Superior Tribunal de Justiça já consolidou entendimento no sentido da impossibilidade de rever as conclusões do ac órdão recorrido sobre o cabimento de astreintes, tendo em vista a necessidade de incursão no acervo fático-probatório, o que atrai a aplicação da Súmula n. 7 do STJ.
+A propósito, confiram-se os seguintes precedentes: AgInt no AREsp n. 2.007.095/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022; AgInt no REsp n. 1.761.583/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/2/2022, DJe de 17/2/2022; e AgInt no AREsp n. 1.880.329/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021.
+Além disso, não obstante as alegações da operadora do plano de saúde, o Tribunal a quo deixou claro que não houve o cumprimento da ordem judicial. Assim, rever tal conclusão demanda reexame de provas, aplicando-se ao caso, mais uma vez, a Súmula n. 7 do STJ.
+Registre-se ainda que, segundo o entendimento do Superior Tribunal de Justiça, a análise da questão relativa à redução das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia, salvo se o arbitramento for excessivo ou ínfimo, o que não ocorreu na espécie. Assim, no ponto, aplica-se também a Súmula n. 7 do STJ.
+A propósito: AgInt no AREsp n. 1.784.618/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/3/2022, DJe de 24/3/2022; REsp n. 1.929.288/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022.
+Ademais, "a verificação da existência de exorbitância da multa cominatória por descumprimento de decisão judicial não pode ser direcionada apenas à comparação entre a quantia total da penalidade e o valor da obrigação principal, devendo ser analisado o valor estabelecido diariamente como multa à parte recalcitrante" (AgInt no AREsp n. 2.211.019/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Quanto à alegada violação do art. 886 do CPC, a deficiência na fundamentação recursal obsta o conhecimento do apelo extremo, pois, de sua leitura, não foi possível aferir de que maneira o acordão impugnado violou o dispositivo de lei federal indicado no recurso especial, inviabilizando a compreensão da controvérsia. Quanto a este ponto, portanto, incide a Súmula n. 284 do STF.
+Ressalte-se que a aplicação da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/5/2022, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; AgInt no REsp n. 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Também não há como acolher os pedidos da parte agravada constantes da impugnação a este agravo i nterno, referentes à imposição da pena por litigância de má-fé e da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015.
+A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na espécie (AgInt no AREsp n. 1.658.454/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 31/8/2020, DJe de 8/9/2020).
+Por fim, "a multa do art. 1.021, § 4º, do CPC/2015 não é consequência automática do não conhecimento ou do não provimento unânime do agravo interno. Quando exercitado o regular direito de recorrer e não verificada hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária, afasta-se mencionada penalidade" (EDcl no Agint nos EREsp n. 1.881.207/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+Vejam-se precedentes: AgInt na Rcl n. 42.586/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022; AgInt nos EREsp n. 1.760.825/SC, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 18/8/2021, DJe de 23/8/2021.
+No caso, apesar do desprovimento do agravo interno, não se configuram a manifesta inadmissibilidade do recurso e a litigância temerária, razão pela qual é incabível a aplicação das penalidades acima referidas.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
