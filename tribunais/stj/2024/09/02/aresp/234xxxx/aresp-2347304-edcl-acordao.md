@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Talib Al Jalali Moreira (fls. 1364-1373 e-STJ), em face de acórdão proferido em sede de agravo interno, assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA TESTEMUNHAL. DISPENSA. SÚMULA 7 DO STJ. USUCAPIÃO. REQUISITOS NECESSÁRIOS. AUSÊNCIA DE ANIMUS DOMINI. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+Em razões de embargos de declaração (fls. 1364-1373 e-STJ), a parte Embargante alega que há contradição na decisão singular, devendo ser sanada, dando-se efeitos infringentes.
+Argumenta que "a produção de prova testemunhal é indispensável para a resolução do presente caso, logo, não poderia ter sido impedido o Autor/Embargante de ter nos autos a mídia com o depoimento de uma de suas testemunhas, o que, por óbvio afetou diretamente o direito do Embargante à sua ampla defesa e contraditório" (fl. 1366 e-STJ).
+Segundo suas palavras, "seria imperiosa a apreciação da prova oral produzida através da carta precatória, para que se comprove que não possuem fundamento as alegações da Embargada, logo, devem ser reformado o v. Acórdão, bem como as decisões que com este corroborem" (fl. 1367 e-STJ).
+Ademais, também afirma que deve ser sanada contradição existente no que se refere ao preenchimento dos requisitos para a usucapião. Argumenta que "o ora Embargante sempre exerceu seu animus domini, arcando com as despesas de financiamento, IPTU, condomínio, luz ao longo dos cinco anos que se seguiram à aquisição do imóvel" (fl. 1368 e-STJ).
+Alega que "não há no corpo dos autos qualquer prova em contrário ao longo dos últimos anos de 2006, 2007, 2008, 2009, 2010, 2011 que venha a contrapor o fato do Embargante exercer a sua posse sem qualquer resistência" (fl. 1370 e-STJ).
+A parte embargada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidão de fl. 1378 e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. DIREITO CIVIL. USUCAPIÃO. AUSÊNCIA DE ANIMUS DOMINI. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado, o que não se verifica na hipótese.
+Em acórdão Embargado, percebe-se que fundamentei no sentido de que, na hipótese dos autos, o Tribunal de origem teria sido expresso em delimitar que a produção da prova testemunhal - tal como requerida pela parte embargante - seria desnecessária ao deslinde da controvérsia, pois não teria o condão de modificar o julgado.
+Conforme se nota dos seguintes trechos do Tribunal de origem, e transcritos em sede de acórdão embargado:
+"A preliminar de nulidade da sentença deve ser afastada. De fato, a prova produzida em nada contribui para a solução da controvérsia, já que é pacífico que o apelante sempre residiu no imóvel, sendo que tal é expressamente admitido pela apelada.
+Em verdade, o ajuizamento da reivindicatória, que é calcada no direito de propriedade, visa que o proprietário obtenha a posse do bem que jamais exerceu a posse.
+Assim, a prova produzida, inclusive a qual foi determinada a juntada por este relator, é desimportante a solução da controvérsia, considerando que incontroverso que o apelante reside no imóvel objeto da lide" (fl. 111 e-STJ).
+Com base nesse posicionamento e na consideração de que esta Corte possui o entendimento de que "não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias" (AgInt no AREsp n. 1.885.002/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021; REsp n. 1.866.108/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2022, DJe de 17/5/2022), não dei provimento em seu recurso no que tange a esse ponto.
+Assim, percebe-se que não há contradição alguma do julgado, posto que em consonância com a jurisprudência do STJ a respeito.
+Ademais, no que tange ao segundo ponto mencionado - contradição no que se refere ao preenchimento dos requisitos para usucapião - tampouco merece prosperar seu recurso.
+Isso, porque, em sede de acórdão embargado, houve fundamentação contundente no sentido de que faltou o animus domini, requisito essencial para possibilitar o reconhecimento da usucapião. Confira:
+"(..) Assim, diferentemente do que alega a parte agravante, para se declarar a usucapião, a lei exige três requisitos principais: lapso temporal, inexistência de oposição e animus domini.
+No que tange mais especificamente ao último requisito, exige-se que o autor detenha efetivamente a posse do bem, e não a mera detenção. Isso, porque a detenção ou mera tolerância do proprietário no uso do bem por outrem não levam à posse apta e legítima a ensejar a declaração de usucapião (como assim se denomina de posse ad usucapionem).
+(..) Na hipótese, percebe-se que a parte agravante, em sede de agravo interno, apenas menciona o preenchimento do lapso temporal necessário e a ausência de interferência de terceiros, sem refutar, contudo, a falta do animus domini- pela constatação de um comodato, de posse precária.
+Para impugnar tal questão, e eventualmente ter seu direito à usucapião reconhecida, a parte agravante tão somente menciona que pagou os tributos do imóvel respectivo, conforme se nota de trechos de recurso: (..) O mero fato de ter realizado o pagamento desses tributos, contudo, não ilide o fato de que a parte agravante exerceu a posse do imóvel em questão de forma precária, sob uma típica relação de comodato - o que levaria à ausência do preenchimento do requisito do animus domini -, conforme mencionado pelo Tribunal de origem.
+Confira-se trecho do acórdão recorrido:
+"No mérito, melhor sorte não socorre o apelante. Isso porque, a posse será ad usucapionem quando o possuidor puder adquirir a propriedade do bem. É imprescindível uma relação externa entre o possuidor e a coisa, ainda que indireta, e a vontade de ser dono, de se assenhorar da coisa -animus.
+Neste sentido, não há como acolher a pretensão do apelante de ver reconhecido a usucapião em seu favor. Conforme se verifica dos autos, o apelante é filho da apelada e afirma que adquiriu o imóvel em nome da sua genitora apelada com recursos advindo de seus avós.
+No entanto, tal fato não restou demonstrado nos autos. Não há qualquer elemento de convicção, ainda que mínimo, que demonstre que o apelante e apelada tenham realizado qualquer negócio jurídico tendo como objeto o imóvel ora debatido. Tampouco, há como inferir que a apelada tenha simulada aquisição do imóvel em nome próprio através do filho apelante.
+No mesmo sentido, não se mostra razoável a alegação de animus domini do apelante. Como sabido, o que caracteriza o animus domini é o possuidor, desde o início aposse em seu nome, nos termos do artigo 1.204 do CC.
+Ressalta-se, por oportuno que não há dúvidas de que o apelante arcou com o pagamento de tributos e até mesmo de parcela do financiamento, porém, tal conduta não caracteriza o animus domini para fins de usucapição.
+Não se pode admitir que o imóvel dado em comodato ao apelante pela apelada, leva a caracterização da posse. A posse decorrente do comodato é precária e destituída de animus domini. (..)É preciso destacar, que as regras de experiência comum, permitem concluir que há um comportamento de tolerância por parte dos genitores em permitir que seus filhos habitem seus bens imóveis, não havendo qualquer surpresa em tal comportamento, tratando-se, em verdade, de um hábito cultural.
+A conduta do apelante de arcar com o pagamento dos tributos incidentes sobre o imóvel, bem como de parcelas do financiamento, não permitem concluir que o apelante exercesse a posse com animus domini, necessária a caracterização da usucapião.
+Por fim, importante destacar, que o imóvel se encontra alienado a CEF, e decorre de financiamento imobiliário do SFH, o que impede o reconhecimento da usucapião" (fls. 111- 113 e-STJ)" (fls. 1355-1358 e-STJ).
+Assim, de fato, não há há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ressalto ainda que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel, Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJe 28.8.2014.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
