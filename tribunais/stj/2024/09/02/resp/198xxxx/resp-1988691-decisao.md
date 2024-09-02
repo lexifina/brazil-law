@@ -1,0 +1,51 @@
+DECISÃO
+
+Trata-se  de  recurso  especial  interposto  por  CARLOS JACI DA SILVA  contra  o  acórdão  do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS,  proferido  na  Apelação Criminal  nº  1.0024.15.165588-3/001,  assim  ementado  (fl.  278):
+CRIME FALIMENTAR - FRAUDE CONTRA CREDORES - APELAÇÃO - ABSOLVIÇÃO - IMPOSSIBILIDADE - DECOTE DA MAJORANTE PREVISTA NO ART. 168, §1º, II E IV DA LEI 11.101105 - NECESSIDADE.
+O  juízo  de  primeiro  grau  condenou  o  acusado  como  incurso  no  art.  168, §§ 1º, inciso II, e 2º, da Lei 11.101/2005 a 05 (cinco) anos e 20 (vinte) dias de reclusão, em regime inicial semiaberto, além de 46 (quarenta e seis) dias-multa (fls. 204-214).
+A  Corte  de  origem deu parcial provimento ao apelo defensivo para reduzir as penas a 03 (três) anos, 09 (nove) meses e 15 (quinze) dias de reclusão, em regime inicial aberto, e 35 (trinta e cinco) dias-multa. A sanção privativa de liberdade foi substituída por duas restritivas de direito, consistentes em prestação de serviços comunitários e prestação pecuniária, no valor de 200 (duzentos) salários-mínimos (fls. 277-287).
+Opostos embargos de declaração, foram rejeitados (fls. 311-315).
+Nas  razões  do  recurso  especial,  interposto com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  a  Defesa  alega  violação  dos  arts.  315, § 2º, incisos II e III; 438 e 619 do Código de Processo Penal; 59 e 60 do Código Penal; 8º do Código de Processo Civil e, ainda, 5º da LINDB.
+Aduz que, não obstante a oposição de embargos declaratórios, a Corte de origem deixou de suprir omissões e obscuridades relacionadas a ausência de fundamentação do quantum imposto ao título de prestação pecuniária substitutiva, bem como à documentação que comprovaria a hipossuficiência do acusado.
+Assevera que o montante equivalente a 200 (duzentos) salários-mínimos foi determinado com arrimo em expressões genéricas e sem vinculação com a prova dos autos.
+Pondera que o acusado é pessoa hipossuficiente e que o valor em questão afigura-se absolutamente além de suas capacidades financeiras de adimplemento, o que pode enseja o descumprimento da obrigação e, portanto, a conversão da pena substitutiva em privativa de liberdade.
+Contrarrazões  às  fls.  401-404.
+O  recurso  especial  foi  admitido  (fls.  406-409).
+A  Procuradoria-Geral  da  República  manifestou-se  pelo  não conhecimento  do  recurso  especial  (fls.  420-422).
+É  o  relatório.
+DECIDO.
+Preenchidos os requisitos de admissibilidade, conheço do recurso especial.
+Em introito, é uníssono o entendimento deste Sodalício:
+(..) os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão, nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002) (REsp n. 2.069.465/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/6/2024, DJe de 21/6/2024, grifamos).
+No tocante ao indigitado menoscabo aos  arts.  315, § 2º, incisos II e III; 438 e 619 do Código de Processo Penal, a Corte a quo - ao rejeitar os embargos de declaração opostos pela Defesa - aclarou (fls. 313-314, grifamos):
+Reconhecidamente, no que tange aos vícios apontados, o recurso em tela tem objetivo de prequestionamento.
+Em relação ao ponto de insurgência defensiva, ou seja, a prestação pecuniária aplicada, entendo que clara e expressamente, conforme se infere do voto por mim proferido que ora se impugna, restou suficientemente fundamentada.
+Apenas para deixar claro o posicionamento adotado no v. acórdão, atendendo assim, à finalidade dos presentes embargos, cumpre ressaltar que, ao analisar defensivo, restou consignado que:
+Como bem mencionado na sentença recorrida, "portanto, a acusada não observou o dever objetivo de cuidado, segundo as regras de trânsito, pois lhe cabia, ao efetuar a manobra, verificar o fluxo de veículos e pedestres antes de iniciar a conversão". Concluiu que "a manobra, no local exigia redobrada atenção, pois teria que transpor a pista por onde trafegavam veículos também em sentido contrário".
+"Observado o disposto no art. 44, do Código Penal, substituo a pena privativa de liberdade imposta ao apelante por duas restritivas de direitos especificamente por prestação de serviços comunitários e prestação pecuniária no valor de 200 (duzentos) salários mínimos, vigentes à época do fato, a ser destinada a instituição a ser indicada pelo Juízo de execuções penais, considerando as especificidades do caso e a alto nível dos valores que objeto de alienação em prejuízo de credores".
+Os conceitos de ambiguidade, obscuridade, contradição e omissão foram equivocadamente utilizados pelo ora embargante, porquanto os elementos de provas foram analisados e sopesados em estrita observância aos princípios da legalidade e do livre convencimento do juiz.
+Dos excertos transcritos constata-se que, para além de terem sido invocados fundamentos que em nada se relacionam ao caso concreto, mas sim a eventual crime de trânsito, o Tribunal a quo deixou contextualizar as especificidades do caso concreto e de determinar os valores que considerou para determinar a estimativa dos prejuízos sofridos pelos credores da massa falida.
+No mais, além de não se afigurar adequada a destinação da prestação pecuniária a instituição indeterminada quando há, possivelmente, credores específicos da massa falida, é certo que o montante dos prejuízos e as condições financeiras do delinquente são critérios utilizados por esta Corte Superior para analisar a proporcionalidade ou a razoabilidade da prestação imposta.
+Nesse sentido, já decidiu o Superior Tribunal de Justiça que
+o valor da prestação pecuniária deve ser suficiente para a prevenção e reprovação do crime praticado, atentando-se ainda, para a extensão dos danos decorrentes do ilícito e para a situação econômica do condenado, a fim de que se possa viabilizar seu cumprimento, uma vez que não tem relação com o montante fixado na pena privativa de liberdade (AgRg no HC 764125/SC, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/05/2023, DJe de 02/06/2023 - grifamos)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 241-A DO ECA. DECISÃO DA PRESIDÊNCIA DESTA CORTE. SÚMULA N. 7 DO STJ. AFASTAMENTO.
+PRESTAÇÃO PECUNIÁRIA. ADEQUAÇÃO À CONDIÇÃO ECONÔMICA DO RÉU E AO PREJUÍZO CAUSADO PELO CRIME. PROPORCIONALIDADE. AGRAVO REGIMENTAL PROVIDO.
+1. A fixação da pena restritiva de direitos consistente em prestação pecuniária deve observar a situação econômica do condenado, a extensão dos danos decorrentes do ilícito e a suficiência do valor arbitrado para a prevenção e a reprovação do crime. O quantum não deve ser tão reduzido a ponto de a sanção não produzir os efeitos pretendidos, nem tão excessivo de forma a impossibilitar o seu adimplemento.
+2. No caso concreto, verificada a desproporcionalidade do valor da prestação pecuniária, é de rigor sua redução, conforme os vetores assinalados.
+3. Agravo regimental provido para reformar a decisão da Presidência desta Corte, conhecer do recurso especial e a ele dar provimento. (AgRg no AREsp 1972582/RS, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 16/08/2022, DJe de 23/08/2022 - grifamos)
+Preconiza o Superior Tribunal de Justiça que há afronta ao art. 619 do CPP quando o acórdão farpeado deixa de se manifestar, de forma fundamentada, sobre tese essencial ao desenlace da controvérsia, hipótese que se harmoniza ao caso em voga.
+Desta feita, constatada por esta Corte de Uniformização a omissão invocada, a nulidade do acórdão infirmado, proferido no julgamento do recurso integrativo defensivo (fls. 311-315), é medida que se impõe, sob pena de indisfarçável negativa de prestação jurisdicional.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. (..) APONTADA VIOLAÇÃO DO ART. 619 DO CPP. OMISSÃO CONSTATADA. QUESTÃO DE RELEVÂNCIA AO DESLINDE DA CONTROVÉRSIA. INTERESSE DE AGIR CONFIGURADO. RETORNO DOS AUTOS À ORIGEM. AGRAVO REGIMENTAL PROVIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal a quo, quando do julgamento do recurso integrativo, não se manifestou explicitamente acerca da questão veiculada nos citados embargos (..)
+2. Entende este Superior Tribunal de Justiça haver afronta ao art. 619, do Código de Processo Penal, quando o acórdão hostilizado deixa de se manifestar, de forma fundamentada, sobre tese essencial ao deslinde da controvérsia (..), o que se coaduna ao caso em exame.
+3. Agravo regimental provido para, mantido o conhecimento do agravo, dar provimento ao recurso especial, determinando o retorno dos autos à origem para novo julgamento dos embargos de declaração.
+(AgRg no AREsp n. 2.193.149/CE, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024, grifamos).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 619 DO CPP. COMPLEMENTAÇÃO DO JULGADO A QUO. NECESSIDADE. INSURGÊNCIA DESPROVIDA.
+1. Segundo entendimento deste Sodalício, "A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal. (..)
+3. Assim, ao persistir na omissão (..), a despeito da oposição de embargos de declaração, o Tribunal de origem prestou tutela jurisdicional deficitária, razão pela qual restou violado o disposto no art. 619 do CPP, sendo necessário o retorno dos autos ao Tribunal de origem, a fim de que se manifeste sobre as matérias aventadas em sede de embargos de declaração.
+4. Agravo regimental desprovido (AgRg no REsp n. 1.669.311/SP, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 15/05/2018, DJe 22/05/2018; grifos diversos do original).
+Ante o exposto, dou provimento ao recurso especial, a fim de cassar o julgamento dos embargos declaratórios (fls. 311-315) e, por conseguinte, determinar que outro seja proferido pelo Tribunal de origem, com a efetiva apreciação da matéria suscitada pela Defesa no formulado recurso integrativo (fls. 292-295).
+Publique-se.  Intimem-se.
+EMENTA
