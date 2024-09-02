@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. MERA INSISTÊNCIA NA CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 932 do Código de Processo Civil - CPC, c/c o art. 3º do Código de Processo Penal - CPP, c/c o art. 34, XI, XVIII, e XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, além do enunciado 568 da Súmula do Superior Tribunal de Justiça - STJ, permitem ao relator negar seguimento a recurso ou pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou com jurisprudência dominante nos Tribunais superiores, não consubstanciando cerceamento de defesa ou violação ao princípio da colegialidade, notadamente diante da possibilidade de interposição de agravo regimental contra a respectiva decisão, o que permite a apreciação da controvérsia pelo Colegiado.
+2. É inviável o agravo que deixa de impugnar todos os fundamentos da decisão contestada. Aplicação do enunciado 182 da Súmula do STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANIEL AUGUSTO GODINHO contra a decisão de fls. 682/683, de minha lavra, que indeferiu liminarmente o habeas corpus diante da constatação da reiteração de pedidos.
+O agravante sustenta que o recurso deveria ter sido julgado pela Turma, sob pena de ofensa ao princípio da colegialidade. Aduz que não foi devidamente comprovada a participação do agente no crime pelo qual restou condenado (fls. 688/700).
+Parecer ministerial pelo não conhecimento do agravo regimental (fls. 712/713).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. MERA INSISTÊNCIA NA CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 932 do Código de Processo Civil - CPC, c/c o art. 3º do Código de Processo Penal - CPP, c/c o art. 34, XI, XVIII, e XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, além do enunciado 568 da Súmula do Superior Tribunal de Justiça - STJ, permitem ao relator negar seguimento a recurso ou pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou com jurisprudência dominante nos Tribunais superiores, não consubstanciando cerceamento de defesa ou violação ao princípio da colegialidade, notadamente diante da possibilidade de interposição de agravo regimental contra a respectiva decisão, o que permite a apreciação da controvérsia pelo Colegiado.
+2. É inviável o agravo que deixa de impugnar todos os fundamentos da decisão contestada. Aplicação do enunciado 182 da Súmula do STJ.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece provimento, devendo ser integralmente mantida a decisão combatida, assim fundamentada:
+"A ação deve ser liminarmente indeferida, pois a petição inicial veicula argumentos análogos àqueles delineados no HC 852.909/SP, definitivamente julgado em 11/9/2023.
+Ademais, a defesa não descreveu a operação de qualquer fato superveniente que permita novo exame da questão controvertida suscitada na inicial.
+Ressalto que "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 23/05/2014).
+Com essas considerações, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus" (fls. 682/683).
+Sobre a alegação descabimento da decisão monocrática do writ, ressalto que o art. 932 do Código de Processo Civil - CPC, c/c o art. 3º do Código de Processo Penal - CPP, c/c o art. 34, XI, XVIII, a e b, e XX, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, além do enunciado 568 da Súmula do Superior Tribunal de Justiça - STJ, permitem ao relator negar seguimento a recurso ou pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou com jurisprudência dominante nos Tribunais superiores, não consubstanciando cerceamento de defesa ou violação ao princípio da colegialidade, notadamente diante da possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre no caso, o que permite a apreciação da controvérsia pelo Colegiado.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. JULGAMENTO MONOCRÁTICO. ALEGADA VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. MATÉRIAS NÃO EXAMINADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CAUSA DE AUMENTO DO ART. 40, INCISO VI, DA LEI DE DROGAS. DEVIDAMENTE FUNDAMENTADA. AFASTAMENTO QUE DEMANDARIA REVOLVIMENTO DE FATOS E PROVAS. INVIÁVEL NO HABEAS CORPUS. PENA PRIVATIVA DE LIBERDADE MANTIDA EM 6 ANOS, 9 MESES E 20 DIAS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E REINCIDÊNCIA. REGIME INICIAL FECHADO. AUSÊNCIA DE ILEGALIDADE. SUBSTITUIÇÃO POR PENA RESTRITIVA DE DIREITOS. INVIÁVEL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A prolação de decisão monocrática pelo Ministro relator está autorizada não apenas pelo Regimento Interno do Superior Tribunal de Justiça, mas também pelo art. 932 do Código de Processo Civil.
+Ademais, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. O acórdão da Corte estadual tratou tão somente da incidência da causa de aumento do art. 40, VI, da Lei n. 11.343/2006 e do regime inicial de cumprimento da pena, não havendo manifestação acerca das demais teses suscitadas na impetração. Não é possível a apreciação per saltum das teses não examinadas pela Corte de origem, sob pena de indevida supressão de instância. Precedentes
+3. O envolvimento de adolescente na prática do crime de tráfico de drogas foi consignado de forma expressa e fundamentada no acórdão, de modo que o afastamento da causa de aumento do art. 40, inciso VI, da Lei n. 11.343/2006 não prescindiria do revolvimento fático-probatório dos autos, providência inviável na estreita via do habeas corpus. Precedentes.
+4. Mantida a pena privativa de liberdade em 6 (seis) anos, 9 (meses) e 20 (vinte) dias reclusão, bem como considerando as circunstâncias judiciais desfavoráveis e a reincidência do condenado, não há ilegalidade na fixação do regime inicial fechado. Precedentes. Da mesma forma, inviável a substituição da reprimenda por pena restritiva de direitos, por expressa determinação legal, nos termos do art. 44, inciso I, do Código Penal.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 912.158/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/6/2024, DJe de 3/7/2024.)
+Superada a preliminar, verifica-se que a decisão agravada indeferiu liminarmente o habeas corpus tendo em vista que a petição inicial veicula argumentos análogos àqueles delineados no HC 852.909/SP, definitivamente julgado em 11/9/2023, ao que se soma a constatação de que não se descreveu qualquer fato superveniente que permita novo exame da questão suscitada.
+Consoante firme jurisprudência do STJ, não prospera a pretensão que veicula mera reiteração de pedido julgado definitivamente por esta Corte. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. REITERAÇÃO DE ARGUMENTOS JÁ SUSCITADOS NO HC N. 829.241/SP. COISA JULGADA. DEVERES DE LEALDADE E BOA-FÉ PROCESSUAIS. MANDAMUS NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 829.241/SP foi formulada idêntica pretensão em favor do ora Agravante. No dia 02/06/2023, foi d enegado o habeas corpus. A referida decisão monocrática foi objeto de agravo regimental, o qual, por unanimidade, foi desprovido pela Sexta Turma do Superior Tribunal de Justiça (já transitado em julgado).
+2. Não obstante, o mesmo Causídico impetra novo habeas corpus, reiterando os mesmos argumentos em favor do mesmo Paciente e apontando idêntico ato coator. Portanto, o mandamus é mera reiteração de pedido anterior, já julgado definitivamente por esta Corte.
+3. A impetração sistemática de habeas corpus idênticos perante o Superior Tribunal de Justiça mesmo após a controvérsia já ter sido analisada viola os deveres de lealdade, decoro, ética e boa-fé impostos a todos os sujeitos processuais.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 860.004/SP, relator Ministro TEODORO SILVA SANTOS, SEXTA TURMA, julgado em 5/12/2023, DJe de 12/12/2023.)
+A despeito das razões de decidir do ato contestado, o recurso não impugna, especificamente, os fundamentos do ato combatido , o que, como bem observado pelo MPF, inviabiliza o conhecimento da irresignação. Nessa toada:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. DECISÃO MANTIDA.
+1. Não infirmados especificamente todos fundamentos da decisão recorrida, é de ser negada a simples pretensão de reforma (Súmula 182 desta Corte). Precedente.
+2. No caso, não foi rebatido pela agravante o óbice referente à impossibilidade de conhecimento do writ por se tratar de substitutivo de revisional.
+3. No mais, reitero que o Tribunal de origem apontou a existência de outros elementos para afastar o tráfico privilegiado que não somente a quantidade de drogas, entendendo não se tratar de traficante ocasional.
+4. Mantido o óbice apontado na decisão monocrática, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a superação do impedimento apontado.
+5. Na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão monocrática por seus próprios termos.
+6. Agravo regimental não conhecido.
+(AgRg no HC n. 747.786/SE, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/6/2024, DJe de 27/6/2024. )
+Ante o exposto, vo to pelo desprovimento do agravo regimental.
