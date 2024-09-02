@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+$ ementa
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por ANTÔNIO MOACIR BETTIO e ADELMA SCHMECHEL BETTIO contra acórdão da Terceira Turma que ostenta a seguinte ementa (fl. 3.412):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 INEXISTENTE. EXTINÇÃO DO PROCESSO. ABANDONO DE CAUSA. ÂNIMO INEQUÍVOCO AUSENTE. EFETIVAÇÃO DO ATO DETERMINADO.
+1. Inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, se seria o caso de reconhecimento do abandono da causa com consequente extinção do cumprimento de sentença em razão do descumprimento do prazo para dar prosseguimento ao feito.
+2. Inexiste o alegado julgamento extra petita, pois houve a análise da questão recursal, com expresso desprovimento da pretensão de ver declarada a extinção do feito por abandono de causa, pois destacado que, "em cumprimento ao procedimento determinado pelo art. 485, § 1º, do CPC/2015, a análise quanto à desídia da parte fica reservada ao juiz, que vai avaliar o efetivo abandono do processo para proferir a sentença de extinção" (REsp n. 1.977.579/PR, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/10/2022).
+3. No caso, a análise da desídia por parte do juízo foi no sentido de seu afastamento e manutenção do prosseguimento do feito, porquanto promovida a diligência requerida. Ausente o ânimo de abandonar a causa.
+Agravo interno improvido.
+Nas razões dos declaratórios, o embargante aduz que as questões suscitadas no agravo interno não foram objeto de análise, a propósito da contradição existente no agravo de instrumento, o preenchimento dos requisitos para extinção por abandono da causa, inobservância da jurisprudência, fundamentação deficiente e existência de contradição interna.
+Suscita omissão e contradição quanto ao julgamento extra petita.
+A parte embagada não apresentou manifestação (fls. 3.443-3.444).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO . EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. REITERAÇÃO DE TESE RECURSAL. INCONFORMISMO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno e que foram rejeitadas, não servindo os embargos de declaração para tal desiderato.
+3. O acórdão embargado foi claro ao consignar que não havia deficiência na prestação jurisdicional de origem, mas entendimento contrário à da parte, que insiste no reconhecimento do abandono de causa, questão rechaçada pelo juízo e pelo Tribunal, ainda que este tenha dado fundamento diverso do juízo para afastá-lo, sendo que a análise do abandono é casuística reservada ao magistrado, que não a decretou, na hipótese, porque, ainda que decorrido o prazo processual, promoveu a diligência requerida.
+4. O acórdão embargado efetivamente enfrentou a questão posta quanto à pretensão de reconhecimento do abandono de causa, cabendo relembrar que não é necessário abordar todos os temas suscitados pela parte, pois "a função teleológica da decisão judicial é a de compor, precipuamente, litígios. Não é peça acadêmica ou doutrinária, tampouco destina-se a responder a argumentos, à guisa de quesitos, como se laudo pericial fora. Contenta-se o sistema com a solução da controvérsia observada a res in iudicium deducta" (REsp n. 209.048/RJ, relator Ministro Franciulli Netto, Segunda Turma, DJ de 19/12/2003, p. 380).
+5. A parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com omissão.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada, o que não ocorre na espécie.
+No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno, as quais foram expressamente rejeitadas, não servindo os embargos de declaração para tal desiderato.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DO ART. 1.022 DO CPC. AUSÊNCIA. TENTATIVA DE REDISCUSSÃO DO MÉRITO JULGADO.
+1. A parte não aponta efetiva contradição interna ou omissão no julgado. Os Embargos de Declaração foram opostos com o intuito de rediscutir o que foi decidido de maneira clara: não houve impugnação específica do fundamento da decisão monocrática que não conheceu do Recurso Ordinário, qual seja, o de que o referido recurso não é cabível contra acórdão do Tribunal de segundo grau que, originariamente, concede a segurança.
+2. Embargos de Declaração rejeitados, com advertência de multa em caso de reiteração considerada protelatória.
+(EDcl no AgInt no RMS n. 66.803/TO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/4/2022.)
+O acórdão embargado foi claro ao consignar que não havia deficiência na prestação jurisdicional de origem, mas entendimento contrário à da parte, que insiste no reconhecimento do abandono de causa, questão rechaçada pelo juízo e pelo Tribunal, ainda que este tenha dado fundamento diverso do juízo para afastá-lo, sendo que a análise do abandono é casuística reservada ao magistrado, que não a decretou, na hipótese, porque, ainda que decorrido o prazo processual, promoveu a diligência requerida. Vejamos:
+Conforme consignado na decisão agravada, inexiste a alegada violação dos arts. 489 e 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, se seria o caso de reconhecimento do abandono da causa com consequente extinção do cumprimento de sentença em razão do descumprimento do prazo para dar prosseguimento ao feito.
+E, a propósito do contexto recursal, destacou o Tribunal que o abandono previsto no art. 485, III, do CPC não teria incidência na hipótese de cumprimento de sentença, em especial diante das hipóteses de extinção previstas no art. 924 do CPC, de modo que seria possível apenas o arquivamento provisório do feito. Vejamos:
+ ..
+Observa-se, assim, que as questões recursais foram efetivamente enfrentadas pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional.
+ ..
+No mérito em si, inexiste o alegado julgamento extra petita, pois houve a análise da questão recursal, com expresso desprovimento da pretensão de ver declarada a extinção do feito por abandono de causa, pois destacado que, "em cumprimento ao procedimento determinado pelo art. 485, § 1º, do CPC/2015, a análise quanto à desídia da parte fica reservada ao juiz, que vai avaliar o efetivo abandono do processo para proferir a sentença de extinção" (REsp n. 1.977.579/PR, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/10/2022).
+No mesmo sentido, cito:
+ ..
+No caso dos autos, a análise da desídia por parte do juízo foi no sentido de seu afastamento e manutenção do prosseguimento do feito, porquanto promovida a diligência requerida (fl. 33):
+Por outro lado, em relação ao pedido de extinção do processo por abandono, em virtude de a parte exequente ter permanecido inerte por mais de 150 dias, tenho que o rigorismo formal deve ser mitigado, tendo em vista que não restou caracterizado o desinteresse da parte exequente no prosseguimento do feito, ante o pagamento da complementação da diligência solicitada pelo oficial de justiça, ainda que extemporâneo.
+Assim, em homenagem ao princípio da economia processual, entendo que o pedido de extinção do processo por abandono merece ser indeferido, tendo em vista que evitaria a repropositura de novo pedido de cumprimento de sentença.
+E, ao contrário do que aduzem os agravantes, não há nenhum impedimento legal em adotar os fundamentos da sentença como razões de decidir quando evidenciado, como na hipótese, que estes foram adequados à questão posta.
+Longe de apontar qualquer dos vícios previstos no art. 1.022 do CPC/2015, observa-s e que a parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado.
+Nesse sentido, cito :
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. ERRO MATERIAL. INEXISTÊNCIA. REDISCUSSÃO. PRETENSÃO DE REEXAME. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+2. O erro material sanável na via dos embargos de declaração é aquele conhecível de plano, isto é, sem que sejam necessárias deliberações acerca dos elementos dos autos e que dizem respeito a incorreções internas do próprio julgado.
+3. No caso dos autos, o suposto erro material diz respeito a incorreção, em tese, do próprio conteúdo da decisão, configurando inconformismo da parte com a conclusão a que chegou o órgão julgador.
+4. Não havendo omissão, obscuridade, contradição ou erro material, devem ser rejeitados os embargos declaratórios interpostos com o propósito infringente.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.006.905/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/10/2022.)
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+(EDcl nos EDcl no AgInt no AREsp n. 1.946.993/AP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/9/2022.)
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+(EDcl no REsp n. 1.977.830/MT, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/6/2022.)
+O acórdão embargado efetivamente enfrentou a questão posta quanto à pretensão de reconhecimento do abandono de causa, cabendo relembrar que não é necessário abordar todos os temas suscitados pela parte, pois "a função teleológica da decisão judicial é a de compor, precipuamente, litígios. Não é peça acadêmica ou doutrinária, tampouco destina-se a responder a argumentos, à guisa de quesitos, como se laudo pericial fora. Contenta-se o sistema com a solução da controvérsia observada a res in iudicium deducta" (REsp n. 209.048/RJ, relator Ministro Franciulli Netto, Segunda Turma, DJ de 19/12/2003, p. 380).
+A título de reforço, cito:
+2. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+(EDcl no REsp n. 2.024.829/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 17/5/2023.)
+1. O julgado recorrido não padece de qualquer omissão ou nulidade na sua fundamentação, porquanto apreciou as teses relevantes para o deslinde da controvérsia, tendo concluído, após minucioso exame dos elementos fáticos e probatórios produzidos nos autos, que o decreto condenatório está em conformidade com a evidência dos autos. Nesse ponto, cumpre ressaltar que, conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre aqueles necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado.
+(AgRg no REsp n. 2.041.751/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/4/2023.)
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e, de pronto, advirto ao embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado d a causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+É como penso. É como voto.
