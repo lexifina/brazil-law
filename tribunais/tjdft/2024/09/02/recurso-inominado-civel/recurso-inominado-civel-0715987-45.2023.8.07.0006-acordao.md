@@ -1,0 +1,98 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0715987-45.2023.8.07.0006RECORRENTE(S)BANCO MERCANTIL DO BRASIL SARECORRIDO(S)COSMO PEREIRA DIASRelatoraJuiza MARIA ISABEL DA SILVA
+Relatora Designada Juiza MARILIA DE AVILA E SILVA SAMPAIO Acórdão Nº1915753
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. CONSUMIDOR. INSTITUIÇÃO FINANCEIRA. FALSA PORTABILIDADE. TRANSAÇÕES FRAUDULENTAS. RESPONSABILIDADE OBJETIVA. SÚMULA 479 DO STJ. DANO MORAL CONFIGURADO. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. Trata-se de recurso inominado interposto pelo banco réu, contra sentença que julgou parcialmente procedente os pedidos iniciais para declarar a nulidade dos contratos objeto dos presentes autos, condenar o réu a restituir ao autor o valor total de R$ 6.627,42, e a pagar o valor de R$ 2.000,00 (mil reais) a título de danos morais.
+
+2. Em suas razões, o recorrente suscita preliminares de incompetência diante da necessidade de realização de perícia e ilegitimidade passiva. No mérito, sustenta a ausência de vício de consentimento no contrato firmado entre as partes. Defende que não é devida a devolução dos valores e que não há dano a ser indenizado. Pede a reforma da sentença. Contrarrazões apresentadas de ID 62292829.
+
+3. Presentes os pressupostos de admissibilidade, vez que o recurso foi interposto no prazo legal, e o preparo devidamente recolhido (ID 62292821).
+
+4. Preliminares. Não prospera a alegação da parte ré/recorrente acerca da imprescindibilidade da realização de perícia técnica para solução da questão controvertida, porquanto esta pode ser dirimida através da apreciação do acervo probatório já existente nos autos, que se mostra suficiente para subsidiar a formação da convicção do julgador. Não obstante isso, o juiz é o destinatário final das provas, não tendo obrigação de deferir a produção de todos os meios de provas eventualmente postulados pelas partes, mormente quando pode formar a sua convicção com os elementos já existentes nos autos. Também não merece respaldo a aventada preliminar de ilegitimidade passiva, porquanto, à luz da teoria da asserção, as condições da ação são aferidas de forma abstrata, admitindo-se, em juízo de cognição sumária, como verdadeiros os fatos relatados na petição inicial. Se a parte autora atribui ao réu a responsabilidade pelos fatos ocorridos, resta configurada sua legitimidade para figurar no polo passivo da ação. Preliminares rejeitadas.
+
+4. A controvérsia deve ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor, que por sua vez regulamenta o direito fundamental de proteção do consumidor (CF, art. 5º, XXXII) e assentada no enunciado da súmula nº 297 do STJ, in verbis: "O Código de Defesa do Consumidor é aplicável às instituições financeiras".
+
+5. Das provas colacionadas aos autos, percebe-se que o recorrido foi vítima de fraude, pois, em que pese acreditar que se tratava de um contrato de portabilidade, acabou confirmando alguns dados que o interlocutor possuía, o que deu origem a operações fraudulentas vinculadas a sua conta corrente. Importa esclarecer que a ação fraudulenta de terceiro não tem o condão de romper o nexo causal entre a conduta da instituição financeira e os danos experimentados pelos consumidores, por se tratar de fortuito interno, inerente ao risco da atividade que o requerido exerce, a teor do que dispõe também o art. 14 do CDC.
+
+6. Ademais, a excludente mencionada no citado dispositivo, capaz de elidir a responsabilidade objetiva do fornecedor de produtos ou serviços, é somente aquela classificada como fortuito externo, o que não é o caso dos autos, pois a fraude somente se concretizou porque os fraudadores dispunham dos dados sigilosos relativos à conta corrente da recorrente.
+
+7. Aliás, no caso de instituições financeiras, trata-se de risco inerente à própria atividade, sendo que a segurança dos serviços é "dever indeclinável do fornecedor" e eventual fraude não teria o condão de romper sua responsabilidade frente ao consumidor, pois inerente aos próprios riscos da atividade empresarial, constituindo um fortuito interno que não pode ser transferido ou assumido pelo consumidor, ante a vedação instituída pelo CDC. Ademais, as Instituições Bancárias devem ter conhecimento de possíveis riscos e mitigá-los de modo que os seus clientes não sejam lesados.
+
+8. Registre-se que o art. 8º do CDC prescreve um dever geral de segurança, mandatório e de ordem pública, ao estabelecer que "os produtos e serviços colocados no mercado de consumo não acarretarão riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição, obrigando-se os fornecedores, em qualquer hipótese, a dar as informações necessárias e adequadas a seu respeito". O aludido artigo estabelece os limites de aceitação dos riscos impostos aos consumidores por parte dos fornecedores de serviços, quais sejam, a previsibilidade e a normalidade do risco. A previsibilidade é um conceito objetivo, mas normalidade não. Trata-se de um conceito jurídico indeterminado, que deverá ser interpretado na concretude da vida diária, sendo que cada sociedade admite os riscos que achar cabíveis. O maior dos riscos é aquele que o consumidor não vê.
+
+9. Não bastassem tais ponderações, destaque-se que a Lei Geral de Proteção de Dados nos art. 42 e 43 trata da responsabilidade civil dos agentes de tratamento, impondo-lhes o dever de reparar os danos que causarem, em violação ao dever de segurança relacionado aos dados disponibilizados. Na hipótese, a fraude somente foi concretizada porque os estelionatários dispunham dos dados bancários da recorrente, conferindo verossimilhança ao contato recebido da empresa intermediária. Sobre o assunto, o STJ assim se manifestou: "Para sustentar o nexo causal entre a atuação dos estelionatários e o vazamento de dados pessoais pelo responsável por seu tratamento, é imprescindível perquirir, com exatidão, quais dados estavam em poder dos criminosos, a fim de examinar a origem de eventual vazamento e, consequentemente, a responsabilidade dos agentes respectivos. Os nexos de causalidade e imputação, portanto, dependem da hipótese concretamente analisada. (REsp n. 2.077.278/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023).
+
+10. De se registrar que os dados bancários se revestem de sigilo (Lei Complementar 105/2001), e seu armazenamento é de inteira responsabilidade das instituições. Portanto, se tais dados são armazenados de maneira inadequada, permitindo a apropriação por terceiros, há defeito na prestação do serviço (art. 14 do CDC e art. 44 da LGPD), pelo qual as instituições financeiras devem ser responsabilizadas.
+
+11. Em recente julgamento sobre a fraude na emissão de boleto bancário, a 3a. Turma do STJ entendeu que: "não há como se afastar a responsabilidade da instituição financeira pela reparação dos danos decorrentes do famigerado "golpe do boleto", uma vez que os criminosos têm conhecimento de informações e dados sigilosos a respeito das atividades bancárias do consumidor. Isto é, os estelionatários sabem que o consumidor é cliente da instituição e que encaminhou e-mail à entidade com a finalidade de quitar sua dívida, bem como possuem dados relativos ao próprio financiamento obtido (quantidade de parcelas em aberto e saldo devedor do financiamento). (REsp n. 2.077.278/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023).   Nesse quadro, deve a Instituição responder pelos danos causados ao consumidor, impondo-se a confirmação da sentença atacada.
+
+12. Preliminares rejeitadas. RECURSO CONHECIDO E NÃO PROVIDO. 13. Em razão da sucumbência, condeno o recorrente ao pagamento de honorários que fixo em 10% sobre o valor da condenação (art. 55 da Lei 9099/95).
+
+14. A súmula de julgamento servirá de acórdão, nos termos do art. 46 da Lei 9099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA ISABEL DA SILVA - Relatora, MARILIA DE AVILA E SILVA SAMPAIO - Relatora Designada e 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA. VENCIDA A RELATORA, REDIGIRÁ O ACÓRDÃO A 1ª VOGAL., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 06 de Setembro de 2024
+
+Juíza MARILIA DE AVILA E SILVA SAMPAIORelatora Designada
+
+RELATÓRIO
+
+Trata-se de Recurso Inominado interposto pela parte requerida em face da sentença que julgou procedentes os pedidos iniciais para “declarar a nulidade dos contratos (cred cartão consignado no valor de R$1.184,40 e contrato de empréstimo nº 998000457242 no valor de R$3.329,00) objeto dos presentes autos, devendo o réu BANCO MERCANTIL DO BRASIL S/A se abster de efetuar novos descontos relativos aos referidos contratos, sob pena de devolução em dobro do valor descontado. Condeno o réu a pagar ao autor a importância de R$6.627,42 (seis mil, seiscentos e vinte e sete reais e quarenta e dois centavos), devidamente atualizada pelos índices oficiais do TJDFT a contar da data do ajuizamento da demanda e acrescida de juros de mora de 1% (um por cento) ao mês a contar da citação. Por fim, condeno o réu a pagar ao autor a importância de R$2.000,00 (dois mil reais), a título de danos morais, devidamente atualizada pelos índices oficiais do TJDFT e acrescido de juros legais de mora a partir do arbitramento”.
+
+ Em suas razões recursais, o recorrente alega, preliminarmente, a incompetência dos juizados especiais para julgamento da demanda em face da necessidade de perícia grafotécnica, bem como a ilegitimidade passiva porquanto o ato foi cometido por terceiros sem relação com a instituição financeira. No mérito, sustenta que tanto os contratos objeto da lide quanto a transferência realizada via PIX foram realizados por meio de internet banking, cuja validação se faz necessários o uso de senha pessoal e de chaves de segurança. Afirma que são contratos válidos de empréstimos consignados e que não foram objeto de fraude, porquanto foram confirmados pela apresentação de documentos válidos, denotando que foi o próprio cliente quem realizou a contratação. Pugna pela reforma da sentença para que os pedidos sejam julgados improcedentes.
+
+Recurso próprio, tempestivo e com preparo regular (ID 62292821, 62292822). Contrarrazões apresentadas no ID 62292829.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Juíza MARIA ISABEL DA SILVA - RelatoraDe acordo com a Teoria da Asserção, as condições da ação, como a legitimidade passiva ad causam, são analisadas à luz da narrativa contida na petição inicial. Na hipótese, o que se discute é a existência de responsabilidade do banco recorrente quanto aos fatos relatados. Portanto, não há que se falar em impertinência subjetiva. Por fim, desnecessária a realização de prova pericial para análise da demanda a qual não possui complexidade capaz de afastar a competência dos Juizados Especiais. Preliminares não acolhidas.
+
+Na origem, narra a parte autora que no dia 1/11/2023 recebeu uma ligação de uma suposta funcionária do banco recorrente oferecendo-lhe portabilidade de empréstimo bancário e que ela detinha todos os seus dados pessoais, dificultando sua percepção que se tratava de um golpe. Relata que foi surpreendido ao descobrir a existência de dois contratos realizados em seu nome junto ao banco recorrente, nos valores de R$3.329,00 e R$1.184,40, e uma transferência via PIX no valor de R$4.519,00 para terceiro desconhecido (ID 62292487). Afirma ser portador de deficiência visual, que não faz uso de aplicativos bancários e não possui nem mesmo chave pix para fazer transações financeiras.
+
+A relação jurídica estabelecida entre as partes é de natureza consumerista, devendo a controvérsia ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor.
+
+O Código de Defesa do Consumidor, em seu art. 14, dispõe que o fornecedor responde objetivamente, ou seja, independentemente da demonstração de culpa, pelos danos causados aos consumidores por defeitos relativos à prestação de serviços. A referida responsabilidade só pode ser afastada quando provar que o defeito inexiste ou a ocorrência de culpa exclusiva de terceiros ou do consumidor (art. 14, § 3°, do CDC). No mesmo sentido, a súmula 479 do E. Superior Tribunal de Justiça refere que “as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias”.
+
+ Na hipótese, a análise dos autos revela que o recorrido foi vítima de fraude perpetrada por terceiros e dependeu da contribuição do consumidor para a sua concretização. Deflui dos autos, que o próprio autor informa ter repassado à suposta atendente cópia de seus documentos pessoais. Daí o golpe se formalizou com a promessa de que ele estaria fazendo portabilidade de um empréstimo, com juros reduzidos, e que receberia uma vantagem financeira. Para conclusão da portabilidade ela precisaria destinar o valor creditado e disponibilizado em sua conta para o outro banco, o que foi feito, mediante pix para desconhecido (ID 62292487).
+
+Nesse cenário, não há como sustentar falha na prestação dos serviços da instituição financeira recorrente, que somente concluiu as operações efetuadas pelo próprio recorrido que não adotou as diligências e cautelas necessárias para averiguar a veracidade das informações recebidas, a fim de evitar a concessão de acesso à sua conta para terceiros. Ao contrário do registrado na sentença, houve, inclusive, verificação de biometria facial e as transações foram realizadas com uso da senha pessoal (ID 62292782 a 62292785 e 62292788), por meio de dispositivo móvel autorizado junto à instituição financeira.
+
+Por todo o exposto, constata-se que o cometimento da fraude decorreu da conduta de terceiros, o que exclui a responsabilidade do fornecedor, que não teve qualquer influência nos prejuízos sofridos pelo consumidor, nos termos do artigo 14, §3, inciso II, do Código de Defesa do Consumidor.
+
+Assim, voto pelo conhecimento do recurso, provendo-o para reformar a sentença, julgando improcedentes os pedidos formulados na inicial.
+
+É como voto.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - Relatora Designada e 1º Vogal
+Peço a devida vênia, porquanto meu entendimento é diverso.
+
+Das provas colacionadas aos autos, percebe-se que o recorrido foi vítima de fraude, pois, em que pese acreditar que se tratava de um contrato de portabilidade, acabou confirmando alguns dados que o interlocutor possuía, o que deu origem a operações fraudulentas vinculadas a sua conta corrente. Importa esclarecer que a ação fraudulenta de terceiro não tem o condão de romper o nexo causal entre a conduta da instituição financeira e os danos experimentados pelos consumidores, por se tratar de fortuito interno, inerente ao risco da atividade que o requerido exerce, a teor do que dispõe também o art. 14 do CDC. Ademais, a excludente mencionada no citado dispositivo, capaz de elidir a responsabilidade objetiva do fornecedor de produtos ou serviços, é somente aquela classificada como fortuito externo, o que não é o caso dos autos, pois a fraude somente se concretizou porque os fraudadores dispunham dos dados sigilosos relativos à conta corrente da recorrente.
+
+Aliás, no caso de instituições financeiras, trata-se de risco inerente à própria atividade, sendo que a segurança dos serviços é "dever indeclinável do fornecedor" e eventual fraude não teria o condão de romper sua responsabilidade frente ao consumidor, pois inerente aos próprios riscos da atividade empresarial, constituindo um fortuito interno que não pode ser transferido ou assumido pelo consumidor, ante a vedação instituída pelo CDC. Ademais, as Instituições Bancárias devem ter conhecimento de possíveis riscos e mitigá-los de modo que os seus clientes não sejam lesados.
+
+Registre-se que o art. 8º do CDC prescreve um dever geral de segurança, mandatório e de ordem pública, ao estabelecer que "os produtos e serviços colocados no mercado de consumo não acarretarão riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição, obrigando-se os fornecedores, em qualquer hipótese, a dar as informações necessárias e adequadas a seu respeito". O aludido artigo estabelece os limites de aceitação dos riscos impostos aos consumidores por parte dos fornecedores de serviços, quais sejam, a previsibilidade e a normalidade do risco. A previsibilidade é um conceito objetivo, mas normalidade não. Trata-se de um conceito jurídico indeterminado, que deverá ser interpretado na concretude da vida diária, sendo que cada sociedade admite os riscos que achar cabíveis. O maior dos riscos é aquele que o consumidor não vê.
+
+Não bastassem tais ponderações, destaque-se que a Lei Geral de Proteção de Dados nos art. 42 e 43 trata da responsabilidade civil dos agentes de tratamento, impondo-lhes o dever de reparar os danos que causarem, em violação ao dever de segurança relacionado aos dados disponibilizados. Na hipótese, a fraude somente foi concretizada porque os estelionatários dispunham dos dados bancários da recorrente, conferindo verossimilhança ao contato recebido da empresa intermediária. Sobre o assunto, o STJ assim se manifestou: "Para sustentar o nexo causal entre a atuação dos estelionatários e o vazamento de dados pessoais pelo responsável por seu tratamento, é imprescindível perquirir, com exatidão, quais dados estavam em poder dos criminosos, a fim de examinar a origem de eventual vazamento e, consequentemente, a responsabilidade dos agentes respectivos. Os nexos de causalidade e imputação, portanto, dependem da hipótese concretamente analisada. (REsp n. 2.077.278/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023).
+
+De se registrar que os dados bancários se revestem de sigilo (Lei Complementar 105/2001), e seu armazenamento é de inteira responsabilidade das instituições. Portanto, se tais dados são armazenados de maneira inadequada, permitindo a apropriação por terceiros, há defeito na prestação do serviço (art. 14 do CDC e art. 44 da LGPD), pelo qual as instituições financeiras devem ser responsabilizadas.
+
+Em recente julgamento sobre a fraude na emissão de boleto bancário, a 3a. Turma do STJ entendeu que: "não há como se afastar a responsabilidade da instituição financeira pela reparação dos danos decorrentes do famigerado "golpe do boleto", uma vez que os criminosos têm conhecimento de informações e dados sigilosos a respeito das atividades bancárias do consumidor. Isto é, os estelionatários sabem que o consumidor é cliente da instituição e que encaminhou e-mail à entidade com a finalidade de quitar sua dívida, bem como possuem dados relativos ao próprio financiamento obtido (quantidade de parcelas em aberto e saldo devedor do financiamento). (REsp n. 2.077.278/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023).   Nesse quadro, deve a Instituição responder pelos danos causados ao consumidor, impondo-se a confirmação da sentença atacada.
+
+Esse o meu voto.
+
+A Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com a divergência
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA. VENCIDA A RELATORA, REDIGIRÁ O ACÓRDÃO A 1ª VOGAL.
