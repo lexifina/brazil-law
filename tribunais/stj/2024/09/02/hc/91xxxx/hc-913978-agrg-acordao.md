@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ROUBO MAJORADO. TERCEIRA FASE. INCIDÊNCIA CUMULATIVA DAS MAJORANTES. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. LEGALIDADE. JUSTIFICATIVA CONCRETA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INICIAL FECHADO. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte Superior de Justiça no sentido de que, a teor do art. 68, parágrafo único, do Código Penal, é possível aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais. Para tanto, é necessário que o cúmulo de majorantes esteja baseado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta.
+2. Na hipótese, a aplicação cumulativa das causas de aumento foi devidamente fundamentada pelas instâncias ordinárias, pois o delito foi praticado por 03 (três) agentes, com o emprego de arma de fogo utilizada para ameaçar as vítimas, que foram amarradas com enforca gatos e trancadas no banheiro, circunstâncias reveladoras do elevado grau de reprovabilidade da ação a justificar o incremento da pena.
+3. A presença de circunstância judicial desfavorável (art. 33, §§ 2.º e 3.º, do Código Penal), justifica a fixação do regime inicial fechado.
+4 . Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VITOR BENELLI VIOLA contra a decisão que denegou a ordem de habeas corpus (fls. 100-105).
+Consta nos autos que, em primeiro grau de jurisdição, o agravante foi condenado à pena de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 21 (vinte e um) dias-multa, como incurso nas sanções do art. 157, § 2.º, inciso II, e § 2.º-A, inciso I, c/c o art. 29, caput, todos do Código Penal.
+O sentenciado apelou ao Tribunal de origem, que negou provimento ao recurso.
+Nas razões do writ, alegou-se que
+não é cabível a aplicação sucessiva da causa de aumento pelo concurso de pessoas, e, depois, em seguida, sobre a pena intermediária, da majorante por arma de fogo, sob risco de fracionamento da dosimetria em mais de 3 (três) fases, em violação ao sistema trifásico previsto no caput, do artigo 68, do Código Penal (fl. 6).
+Sustentou-se falta de fundamentação para a fixação do regime inicial fechado.
+Às fls. 100-105, a ordem de habeas corpus foi denegada.
+Nas razões do agravo regimental, a Defesa reitera as alegações feitas na inicial do writ.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao colegiado competente.
+Certidão de decurso de prazo para manifestação às fls. 121 e 123.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. ROUBO MAJORADO. TERCEIRA FASE. INCIDÊNCIA CUMULATIVA DAS MAJORANTES. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. LEGALIDADE. JUSTIFICATIVA CONCRETA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME INICIAL FECHADO. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte Superior de Justiça no sentido de que, a teor do art. 68, parágrafo único, do Código Penal, é possível aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais. Para tanto, é necessário que o cúmulo de majorantes esteja baseado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta.
+2. Na hipótese, a aplicação cumulativa das causas de aumento foi devidamente fundamentada pelas instâncias ordinárias, pois o delito foi praticado por 03 (três) agentes, com o emprego de arma de fogo utilizada para ameaçar as vítimas, que foram amarradas com enforca gatos e trancadas no banheiro, circunstâncias reveladoras do elevado grau de reprovabilidade da ação a justificar o incremento da pena.
+3. A presença de circunstância judicial desfavorável (art. 33, §§ 2.º e 3.º, do Código Penal), justifica a fixação do regime inicial fechado.
+4 . Agravo regimental não provido.
+VOTO
+O inconformismo não prospera.
+No que interessa à solução da controvérsia, tem-se que o colegiado estadual declinou as seguintes razões (fl. 91; grifamos):
+Na terceira etapa, por força da majorante da comparsaria, as penas sofreram incremento de 1/3.
+Ainda nessa etapa, reconheceu-se o aumento relativo ao emprego de arma de fogo.
+Correta, neste caso, a incidência das duas exasperações, ao invés de uma única, como facultado pelo artigo 68, parágrafo único, do Código Penal. Além do emprego de arma, avulta o fato de o roubo ter sido praticado por nada menos do que três pessoas, quando apenas duas bastariam para configurar a majorante da comparsaria. Esta causa de aumento, portanto, não pode ser ignorada.
+Por conta disso, em terceira fase, cumulam-se as majorantes do artigo 157 § 2 º , II e do § 2 º A do Código Penal.
+Conforme entendimento desta Corte Superior de Justiça,
+a teor do art. 68, parágrafo único, do Código Penal, é possível, de forma concretamente fundamentada, aplicar cumulativamente as causas de aumento de pena previstas na parte especial, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais  ..  (HC 560.059/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 26/05/2020, DJe 02/06/2020; grifamos).
+Na hipótese vertente, reafirmo que a aplicação cumulativa das causas de aumento foi devidamente fundamentada pelas instâncias ordinárias, pois o delito foi praticado por 03 (três) agentes, com o emprego de arma de fogo utilizada para ameaçar as vítimas, que foram amarradas com enforca gatos e trancadas no banheiro, circunstâncias reveladoras do elevado grau de reprovabilidade da ação a justificar o incremento da pena.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO E NULIDADE. VIOLAÇÃO AO ART. 226 DO CPP. INOCORRÊNCIA. RECONHECIMENTO PESSOAL DEVIDAMENTE RATIFICADO EM JUÍZO E CORROBORADO POR OUTRAS PROVAS. DOSIMETRIA. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO DE PENA. INTERPRETAÇÃO CORRETA DO ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+VI - Quanto ao cúmulo de majorantes, a jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique quando da escolha da cumulação das causas de aumento.
+VII - Na presente hipótese, na terceira fase da dosimetria, o cúmulo das majorantes foi devidamente fundamentado, lastreando-se no fato do crime ter sido cometido "por duas pessoas que adentraram na farmácia anunciando o assalto, mediante utilização de uma arma de fogo e de uma arma branca (faca), de forma grosseira e violenta, agindo contra 5 (cinco) atendentes/colaboradores do estabelecimento, ameaçando-as a todo tempo com o uso ostensivo dos artefatos, apontando as armas contra os rostos dos ofendidos e exigindo a entrega de bens e dinheiro da loja" (fl. 383).
+VIII - Desse modo, verifica-se que não foi considerado somente o critério numérico das majorantes, como alega o impetrante, mas houve a devida fundamentação concreta, em consonância com jurisprudência pacífica deste Tribunal Superior.
+Agravo regimental desprovido. (AgRg no HC n. 861.793/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/3/2024, DJe de 11/3/2024).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. MOTIVAÇÃO IDÔNEA. VIOLAÇÃO DO ARTIGO 68 DO CP NÃO CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. A jurisprudência do Supremo Tribunal Federal e desta Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+3. No caso em análise, o delito foi praticado por quatro agentes, com o emprego de arma de fogo utilizada para ameaçar a vítima, selecionada pelo grupo - "saidinha de banco" - a qual foi abordada depois de ter efetuado um pagamento em uma agência bancária, dirigindo sua motocicleta na rodovia, quando foi segurado pelo braço, o que o fez parar no acostamento e entregar a chave do veículo, seu relógio, uma corrente de ouro e R$3.000,00.
+4. O número de agentes, quando superior ao mínimo para a configuração do concurso de agentes, bem como o modus operandi da conduta criminosa servem como fundamentos aptos a manter a incidência cumulativa das causas de aumento referentes à comparsaria e ao emprego de arma de fogo. Nesse contexto, não resta evidenciada flagrante ilegalidade na aplicação cumulativa das causas de aumento previstas no art. 157, § 2º, II, e § 2º-A, I, do Código Penal.
+5. Agravo regimental não provido. (AgRg no HC n. 786.322/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. INCIDÊNCIA CUMULATIVA DE CAUSAS DE AUMENTO DE PENA. ART. 68 DO CP. POSSIBILIDADE DE INCIDÊNCIA CUMULATIVA. PECULIARIDADES DO CASO CONCRETO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, " o  comando do parágrafo único do art. 68 do Código Penal confere ao juiz, no caso de concurso de causas de aumento previstas na parte especial, a faculdade - e não o dever - de fazer incidir a que mais aumente a pena, excluindo as demais.  ..  No entanto, optando o magistrado sentenciante pela incidência cumulativa de majorantes, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos, a evidenciar o maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa" (AgRg no HC n. 710.991/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/8/2022).
+2. Na hipótese, "as vítimas relataram em juízo que três pessoas, um deles utilizando arma de fogo, subtraíram o veículo deles, R$ 50,00 e documentos. Uma das vítimas disse ter levado uma coronhada na cabeça", a evidenciar o emprego de violência real e, assim, a exacerbação da gravidade intrínseca ao tipo penal.
+3. Agravo regimental não provido. (AgRg no HC n. 751.111/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/9/2022, DJe de 6/10/2022; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONCURSO DE AGENTES. USO DE ARMA DE FOGO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. INTERPRETAÇÃO DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO CONCORRENTE DAS CAUSAS DE AUMENTO. FUNDAMENTAÇÃO CONCRETA. DESPROPORCIONALIDADE. VIOLAÇÃO À SÚMULA N. 443/STJ. AUSÊNCIA.
+ ..
+2. É firme o entendimento dessa Corte Superior no sentido de que, a teor do art. 68, parágrafo único, do Código Penal, é possível aplicar cumulativamente as causas de aumento de pena previstas na parte especial, mediante fundamentação, não estando obrigado o julgador somente a fazer incidir a causa que aumente mais a pena, excluindo as demais.
+3. Caso em que o sentenciante justificou o cúmulo de causas de aumento de pena referentes à parte especial (art. 157, § 2º, II, IV e V, e § 2º-A, I, do Código Penal), nos termos do art. 68, parágrafo único, do referido código, salientando a maior reprovabilidade da conduta diante do concurso de três agentes, que agiam separadamente, com o emprego de arma de fogo, empreendendo fuga posteriormente.
+4. Incidência da majorante do art. 157, § 2º-A, I, do Código Penal, na medida em que, sendo o delito cometido com o emprego de arma de fogo, a elevação é arbitrada em índice fixo pelo legislador, não cabendo ao julgador, portanto, ponderar sobre o quantum da exasperação.
+5. Agravo regimental improvido. (AgRg no HC 676.447/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 16/11/2021, DJe 19/11/2021; grifamos).
+No que diz respeito ao regime prisional, a Corte local consignou o seguinte (fl. 92; grifamos):
+(..)
+4. Imperiosa, por fim, a fixação do regime inicial fechado para o início do cumprimento da pena.
+Elencam os §§ 2º e 3º do artigo 33 do Código Penal os seguintes critérios à fixação do regime prisional: quantidade de pena, circunstâncias judiciais e reincidência.
+In casu, a quantidade de penas e as circunstâncias judiciais desfavoráveis, observado o disposto nos artigos 33, g 2º e 3º e 59, inciso III, ambos do Código Penal, determinam que o fechado é o regime inicial cabível à espécie.
+Todas essas circunstâncias revelam exacerbada periculosidade dos acusados, e acentuam o desvalor e a censurabilidade incidentes sobre a conduta, bem por isso determinam o regime mais gravoso.
+Ademais, tais circunstâncias desfavoráveis - notadamente o fato de tratar-se de crime praticado mediante grave ameaça contra pessoa com emprego de arma de fogo -, e o quantum de penas estabelecido inviabilizam a modificação do regime prisional ou a substituição da pena privativa de liberdade por pena restritiva de direitos ou sursis.
+No caso em apreço, está devidamente justificada a imposição do regime inicial fechado, em razão do disposto no art. 33, § 2.º, alínea "a", do Código Penal, bem como em razão da existência de circunstância judicial negativa.
+A propósito:
+ ..
+11. Por fim,  t endo em vista a fixação da pena total em patamar superior a 8 anos de reclusão e a presença de circunstâncias judiciais desfavoráveis, mostra-se adequada a imposição do regime prisional inicial fechado, bem como vedada a substituição de pena privativa de liberdade por restritivas de direitos. (AgRg no AgRg no AREsp n. 1.996.252/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/9/2022, DJe de 12/9/2022.) 12. Agravo regimental desprovido. (AgRg no REsp n. 2.026.295/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022; grifamos)
+Assim, por não terem sido declinados, nas razões recursais, fundamentos jurídicos que infirmem os motivos da decisão ora agravada, deve esse ato ser integralmente mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
