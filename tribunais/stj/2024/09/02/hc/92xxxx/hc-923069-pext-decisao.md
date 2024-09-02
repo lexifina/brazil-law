@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de extensão proposto pela defesa de CLEBER JOSE FERREIRA, pugnando, ao final, que sejam estendidos ao ora requerente os efeitos da decisão que substituiu a prisão preventiva do paciente EDMILSON CARLOS PEREIRA JUNIOR.
+Alega, no presente expediente, basicamente, que "os fundamentos que ensejaram a prisão preventiva tanto de Edemilson quanto de Cleber se basearam na gravidade das condutas com base no esquema criminoso para acautelar a ordem pública e a instrução criminal. Vossa Excelência revogou a prisão preventiva e a substituiu por medidas cautelares diversas da prisão apontando três pontos fundamentais: a) os supostos crimes perpetrados não foram cometidos mediante violência ou grave ameaça, b) o paciente possui condições pessoais favoráveis, c) afastamento da função pública. Esses fundamentos podem ser aplicados, respectivamente, para Cleber  .. " (e-STJ fl. 6.393).
+É, em síntese, o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso, porque consta, da decisão acostada às e-STJ fls. 6.520/6.532, que houve a substituição, pelo Juízo de primeiro grau, da prisão preventiva do ora requerente por medidas cautelares diversas, a saber:
+REVOGO A PRISÃO PREVENTIVA outrora decretada em desfavor dos acusados RENÊ RAUL JUSTINO, CLEBER JOSÉ FERREIRA e LUCAS DA ROSA FAGUNDES, e, em consequência, determino que se expeçam os competentes alvarás de soltura, a fim de que sejam imediatamente colocados em liberdade, salvo se por algum outro motivo devam permanecer presos.
+A medida liberatória é concedida de ofício por este Juízo ao acusado CLEBER JOSÉ FERREIRA, tendo em vista a ausência de requerimento, até este momento, por parte da defesa técnica constituída.
+Em substituição ao decreto prisional e visando o resguardo do meio social e também com o intuito de assegurar a aplicação da lei penal e evitar que o acusado se evada do distrito da culpa, aplico as mesmas medidas cautelares diversas da prisão, fixadas pelo eminente Ministro Relator em relação ao corréu EDMILSON PEREIRA, cujo descumprimento poderá acarretar a decretação/restabelecimento da prisão preventiva (art.
+282, § 4º do CPP), a saber: 1) proibição de manter contato com outros investigados sobre os fatos em apuração que possam interferir na produção probatória, ou seja, contato pessoal, telefônico ou por meio eletrônico ou virtual, enquanto durar a instrução, salvo aqueles que mantêm relação de afinidade ou parentesco entre si (inciso III); 2) proibição de mudança de endereço e de ausentar-se do País sem autorização judicial (inciso IV); 3) entrega do passaporte; 4) compromisso de comparecimento em juízo, para todos os atos designados;
+Além das medidas acima elencadas, o liberado deverá manter este Juízo informado acerca de seu atual endereço residencial e eventuais mudanças, a fim de propiciar o rigoroso cumprimento e fiscalização das medidas cautelares acima impostas, bem como para propiciar o encaminhamento de intimações acerca dos atos processuais subsequentes (arts. 327 e 328 do CPP), caso seja necessário. (Grifei.)
+Assim, patente que o presente pedido está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente pedido de extensão.
+Publique-se. Intimem-se.
+EMENTA
