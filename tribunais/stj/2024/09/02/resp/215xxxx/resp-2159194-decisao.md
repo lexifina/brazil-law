@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por JEFFERSON PALMEIRA DA SILVA (JEFFERSON), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça da Paraíba, assim ementado:
+PRELIMINARES. NULIDADE DA SENTENÇA. NEGATIVA DEPRESTAÇÃO JURISDICIONAL. ALEGAÇÃO DE JULGAMENTO EXTRA EULTRA PETITA. NÃO OCORRÊNCIA. REJEIÇÃO.
+A decisão vergastada cumpriu o seu papel em oferecer o desate da matéria posta à deslinde, mesmo que não tenha correspondido aos anseios do ora recorrente, o que não se pode entender como negativa de prestação jurisdicional.
+O magistrado a quo não julgou pedido diverso daquele pretendido, nem concedeu mais do que foi pedido pelo autor.
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. CONTRATO DEFINANCIAMENTO DE VEÍCULO. TARIFAS BANCÁRIAS. AÇÃOANTERIOR COM PRETENSÃO ACOLHIDA NO JUIZADO ESPECIALCÍVEL. PEDIDO DE DEVOLUÇÃO DE JUROS REMUNERATÓRIOS SOBRETARIFAS. COISA JULGADA. CONFIGURAÇÃO. EXTINÇÃO DOPROCESSO SEM RESOLUÇÃO DE MÉRITO. DESPROVIMENTO.
+O reconhecimento da coisa julgada é medida que se impõe haja vista que, na presente ação declaratória, a parte autora renova pedido que já foi objeto de discussão em ação anterior (e-STJ, fl. 124).
+Nas razões do presente recurso, JEFFERSON alegou, a par de dissídio jurisprudencial, 502 do CPC e 92, 184 e 884, todos do CC, ao aduzir que o pedido de devolução do montante cobrado a título de juros remuneratórios sobre tarifas reconhecidas como ilegais deveria ser acolhido por não ter sido supostamente objeto de outra ação com trânsito em julgado. .
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Da coisa julgada.
+JEFFERSON alegou que o pedido de devolução do montante cobrado a título de juros remuneratórios sobre tarifas reconhecidas como ilegais deveria ser acolhido por não ter sido supostamente objeto de outra ação com trânsito em julgado.
+A Corte local consignou expressamente que o pedido e a causa de pedir das duas demandas são iguais na medida em que, na primeira ação, foi formulado o requerimento de devolução dos valores cobrados a título de tarifa considerada ilegal e seus acréscimos, conforme se extrai do excerto transcrito:
+No caso em tela, a parte autora ingressou com a presente ação declaratória c/c repetição de indébito, no intuito de perceber os juros remuneratórios que incidiram sobre as tarifas consideradas ilegais em contrato para aquisição de veículo com o banco promovido.
+A sentença julgou improcedente o pleito inicial, em razão do acolhimento da coisa julgada.
+E, de fato, operou-se a coisa julgada material.
+Tem-se da inicial da primeira ação (Proc. N. 200.2012.913.933-9, que tramitou perante o 3º Juizado Especial Cível da Capital), que o autor formulou o seguinte pedido (id. 17000178):
+"(..) 5 - E ao final, no mérito, seja a presente demanda julgada PROCEDENTE, para condenar a promovida ao pagamento da quantia no valor de R$ 1.699,92(hum mil seiscentos e noventa e nove reais e noventa e dois centavos),correspondentes ao pagamento da quantia indevida em dobro: Tarifa de Cadastro(TAC), no valor de R$ 600,00 (seiscentos reais); Seguro, no valor de R$ 50,00 (cinqüenta reais); Taxa de Gravame, no valor de R$ 55,00 (cinqüenta e cinco reais), e também Pagamento de Serviços de Terceiros, no valor de R$ 144,96(cento e quarenta e quatro reais), devendo, também ser corrigidos pelos mesmos índices aplicados pela instituição ré no contrato, e recaindo sobre o quantum fixado, juros moratórios e correção monetária a partir da assinatura do contrato(22/12/2011), conforme as Súmulas 43 e 54do STJ; - Informações Prestadas(INICIAL DA AÇÃO N 200.2012.913.933 9)".
+Assim, ao formular tal pedido, a parte autora o fez de forma abrangente, incluindo na sua pretensão, além da restituição do valor correspondente às tarifas reputadas ilegais, também que os valores fossem corrigidos pelos mesmos índices aplicados pela instituição ré no contrato.
+Evidentemente, tais correções pelos mesmos índices aplicados ao contrato, impostos ao valor do financiamento, incluindo o montante das tarifas, sub judice, referem-se exatamente aos juros remuneratórios. Portanto, correspondem aos acessórios do valor principal, derivados do contrato.
+Nesse passo, considerada a causa de pedir no sentido de que o valor das tarifas sofreu a incidência dos juros remuneratórios previstos no contrato, porque os montantes respectivos foram incluídos no financiamento, resta manifesto que a sua pretensão de reaver oque pagou envolve o principal e os acessórios ou, nas suas palavras, "corrigidos pelos mesmos índices aplicados pela instituição ré no contrato".
+Portanto, a causa de pedir e o pedido formulados na ação proposta perante o Juizado Especial Cível abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros remuneratórios incidentes sobre as tarifas diluídas nas parcelas do financiamento. Logo, a parte autora está a repetir, agora, ação idêntica a outra já definitivamente julgada (e-STJ, fls. 127/128 - com destaque no original).
+Assim, assentada a existência de identidade entre o pedido, a causa de pedir e as partes, revela-se inviável afastar a conclusão do Tribunal paraibano de que não incide a coisa julgada sem o revolvimento do contexto fático-probatório, tendo em vista o óbice da Súmula nº 7 do STJ, conforme o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO JUDICIAL. SENTENÇA PROFERIDA EM AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. LITISPENDÊNCIA. NÃO OCORRÊNCIA. PRESCRIÇÃO. AFASTAMENTO. COISA JULGADA. AFERIÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CONDENAÇÃO MANTIDA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do § 1º do art. 301 do Código de Processo Civil de 1973, verifica-se a litispendência quando se reproduz ação anteriormente ajuizada, sendo certo que uma ação é idêntica à outra, segundo o disposto no § 2º do mesmo preceito legal, quando têm as mesmas partes, a mesma causa de pedir e o mesmo pedido. Hipótese não ocorrente na espécie.
+3. Não se verifica a prescrição de que tratava o art. 100, I, da Lei nº 4.215/1963 (antigo Estatuto da Ordem dos Advogados do Brasil) se no interregno verificado entre o encerramento dos serviços prestados e o ajuizamento da ação de arbitramento de honorários não transcorreu prazo superior a 5 (cinco) anos.
+4. O acolhimento da pretensão recursal no tocante à alegação de ofensa à coisa julgada e de ausência de título judicial capaz de garantir o prosseguimento da execução demandaria o reexame de matéria fática e das demais provas constantes dos autos, atraindo o óbice da Súmula nº 7/STJ.
+5. Hipótese em que a aplicação da pena de litigância de má-fé vem calcada não apenas na nítida intenção da agravante de se esquivar da obrigação que lhe foi imposta, suscitando teses jurídicas sem nenhum respaldo legal, mas também no seu comportamento malicioso.
+Manutenção da pena processual.
+6. Agravo interno não provido.
+(AgInt no REsp 1418133/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 27/02/2018, DJe 08/03/2018)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZATÓRTIA. JUROS RENUBERATÓRIOS INCIDENTES SOBRE TARIFAS BANCÁRIAS CONSIDERADAS ILEGAIS EM DEMANDA PRETÉRITA. AFRONTA À COISA JULGADA. NECESSIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO IDÊNTICOS NAS DEMANDAS. EXISTÊNCIA. REANÁLISE. IMPERATIVO REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
