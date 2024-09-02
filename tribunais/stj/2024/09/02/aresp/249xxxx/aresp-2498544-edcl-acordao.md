@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL (PETROS) opõe embargos de declaração ao acórdão assim ementado (fl. 1.399):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. SÚMULA N. 735 DO STF. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+Em suas razões, a embargante aponta omissão acerca da análise da necessidade de suspensão da medida liminar concedida por força do decidido na SLS n. 2.507/RJ. Pugna pela suspensão da liminar concedida e, como consequência, pela extinção do presente feito sem julgamento de mérito, porquanto prejudicado o único objeto do recurso especial.
+Alega ainda omissão quanto à aplicação da Súmula n. 735 do STF, ponderando que o entendimento firmado na referida súmula pode ser afastado quando há violação direta de normas de direito processual, justamente como teria ocorrido no caso dos autos.
+Por fim, sustenta ser obscura a aplicação da Súmula n. 7 do STJ, porquanto a análise da controvérsia prescinde do reexame dos fatos constantes dos autos, já que, apenas da leitura da controvérsia, pode-se verificar se a parte ora embargada possui ou não a prerrogativa de ser isentado do pagamento de contribuições extraordinárias, tendo em vista a retirada de sua condição de participante do Grupo Pré-70 da Petros.
+Requer, assim, o provimento dos embargos de declaração com efeitos infringentes.
+Impugnação às fls. 1.440-1.446.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado (art. 1.022 do CPC).
+2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado.
+No presente caso, em verdade, a parte não aponta omissão ou contradição passíveis de ser sanadas pelo STJ em embargos de declaração. Apenas demonstra seu interesse em nova análise da matéria.
+Eis o que consta do acórdão impugnado (fls. 1.402-1.405):
+Reitere-se que, conforme exposto na decisão de fls. 1.333-1.337, as tutelas provisórias de urgência são conferidas com base na cognição sumária e mediante juízo de verossimilhança. Não representam, portanto, pronunciamento definitivo sobre o direito reclamado, podendo ser modificadas a qualquer tempo, devendo ser confirmadas ou revogadas quando proferida decisão definitiva (AgInt no AREsp n. 2.069.406/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022; AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022).
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Isso porque, consoante dispõe o art. 105, III, da Constituição Federal, o recurso especial somente deve ser interposto para atacar as "causas decididas em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios  .. ".
+Como causa decidida deve-se considerar aquela na qual não há mais possibilidade de reversão pelas instâncias ordinárias, permitindo que o STJ possa exercer sua missão constitucional de uniformização da legislação federal.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+No caso, verifica-se que a agravante pretende, por via transversa, examinar o mérito da decisão que concedeu ao agravado a tutela de urgência para suspender os descontos da contribuição extraordinária decorrente do plano de equacionamento do déficit do PPSP.
+A propósito, assim decidiu a Corte de origem ao manter a concessão da tutela de urgência (fls. 729-730):
+Nesta toada, a fumaça do bom direito resta nitidamente preenchida diante da fundamentação jurídica supramencionada, no sentido de ser o agravado integrante do grupo Pré-70, sob o qual não incidem as contribuições extraordinárias de equacionamento do déficit da Petros (Fundação Petrobras de Seguridade Social).
+No mais, destaca-se que, diante da insuficiência de fundos ao pagamento de benefícios previdenciários, a Petrobras, em 1996, decidiu assumir o encargo financeiro relativo ao pagamento dos benefícios previdenciários dos empregados admitidos antes de 01/06/1970 na Petrobras e vinculados à Petrobras ininterruptamente até a aposentadoria (grupo Pré-70), exatamente o caso sub examine, consoante a fundamentação supra.
+Por seu turno, o perigo da demora afigura-se patente ante a verba de caráter alimentar que está sendo suprimida dos proventos de aposentadoria do agravado. Confira-se:
+No recurso especial, a recorrente, pretende, de fato, rediscutir o mérito da decisão que concedeu a atribuição de efeito suspensivo ao agravo de instrumento a fim de que o processo principal fosse suspenso, suspendendo-se também os efeitos da decisão recorrida no tocante à suspensão dos descontos no contracheque da parte ora agravada.
+Assim, em razão da natureza instável da referida decisão, a qual pode ser ou não confirmada definitivamente, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+ ..
+Ademais, para alterar o entendimento Tribunal a quo e reconhecer que o ora agravado não faz parte do grupo Pré-70, como alega a parte nas razões do recurso especial (fl. 882), é necessária uma profunda incursão no conjunto fático dos autos, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+Como visto, tratam os autos de recurso interposto na origem contra decisão que deferiu liminar para suspender os descontos relativos à contribuição extraordinária de equacionamento da PETROS. Na ocasião, concluiu-se existir um grupo dentro dos participantes da Petros que ingressara antes de 1970 na Petrobras, denominado Pré-70, do qual a parte ora embargante faz parte e em relação ao qual não incidem as contribuições extraordinárias de equacionamento do déficit da Petros, afastando-se, assim, os efeitos da suspensão de processos, liminares e sentenças decorrente das decisões vinculantes daquela Corte e do Superior Tribunal de Justiça (fl. 721).
+Interposto recurso especial, em que a PETROS requeria o reconhecimento de que a parte ora embargada não fazia parte do grupo Pré-70 (fl. 882) e, consequentemente, deveria ser suspensa a liminar deferida diante do decidido na SLS n. 2.507/RJ, aplicou-se ao caso a Súmula n. 735 do STF por ser incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Ressaltou-se que, para alterar o entendimento do Tribunal a quo e reconhecer que o ora agravado não faz parte do grupo Pré-70 e, assim, suspender a liminar deferida diante do decidido na SLS n. 2.507/RJ, seria necessária profunda incursão no conjunto fático dos autos, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+Ressalte-se que a mera irresignação da embargante com o entendimento adotado no julgamento do agravo interno não viabiliza a oposição dos aclaratórios (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgado em 1º/12/2021, DJe de 15/12/2021).
+A propósito, segundo orientação firmada pela a Corte Especial do STJ, "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Dessa forma, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração .
+É o voto.
