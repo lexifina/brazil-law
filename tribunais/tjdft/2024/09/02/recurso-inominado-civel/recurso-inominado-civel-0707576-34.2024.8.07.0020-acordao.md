@@ -1,0 +1,70 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0707576-34.2024.8.07.0020RECORRENTE(S)HIPERCARD BANCO MULTIPLO S.A.RECORRIDO(S)WILTON RIBEIRO VIANNARelatoraJuiza MARIA ISABEL DA SILVA
+ Acórdão Nº1915649
+
+EMENTA
+
+JUIZADO ESPECIAL CÍVEL. CONSUMIDOR. BANCÁRIO. RECURSO INOMINADO. USO DE CARTÃO DE CRÉDITO. COMPRA NÃO RECONHECIDA PELO TITULAR. REGULARIDADE DAS TRANSAÇÕES NÃO COMPROVADA. SÚMULA 479 DO STJ. RESPONSABILIDADE OBJETIVA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL CONFIGURADO. MONTANTE REDUZIDO. TERMO INICIAL DOS JUROS DE MORA. RECURSO CONHECIDO E PROVIDO EM PARTE.
+
+1. Trata-se de Recurso Inominado interposto por Hipercard Banco Múltiplo S.A., em face da sentença que julgou procedente o pedido inicial para: (a) declarar a nulidade das compras mencionadas na inicial, e, por consequência, a inexistência de quaisquer débitos decorrentes destas transações; (b) determinar que a instituição financeira retire o nome da parte autora dos cadastros de inadimplentes e se abstenha de realizar novas cobranças indevidas, e (c) condenar a parte ré ao pagamento de R$ 5.000,00, a título de reparação por danos morais.
+
+2. Em suas razões recursais, o banco recorrente afirma que as transações impugnadas não poderiam ter sido realizadas sem a utilização do cartão e conhecimento dos dados do recorrido. Sustenta não ser possível a sua responsabilização por fortuito externo e que as operações foram realizadas fora de seus estabelecimentos. Aduz a inexistência de danos morais, ou, subsidiariamente, pleiteia a redução do valor da condenação, com a fixação dos juros de mora a partir da sentença. Pugna pelo provimento do recurso para que os pedidos sejam julgados improcedentes.
+
+3. Recurso próprio, tempestivo e com preparo regular (IDs 61881185 e 61881186). Contrarrazões apresentadas (ID 61881190).
+
+4. Na origem, o recorrido afirma que possuía cartão de crédito junto à instituição financeira recorrente, além de dois cartões adicionais utilizados por sua filha e esposa. Acrescenta que não utilizava o seu cartão, porém na fatura do mês de junho de 2022 constaram diversas compras não reconhecidas pelo consumidor, que possui 88 anos de idade, em sites como Shein, Uber, IFood, Apple e Google (ID 61880969). Assim, contestou os valores, que foram parcialmente estornados na fatura de julho (ID 61880970), porém também foram efetuadas novas compras indevidas, com acréscimo de juros e taxas pelo atraso no pagamento, porquanto somente a quantia reconhecida foi paga. No mês seguinte foram estornados outros valores, mas também adicionados novos encargos (ID 61880971). Narra que a última fatura recebida foi em outubro de 2022, o que o levou a acreditar que a questão estava resolvida, contudo passou a receber ligações de cobrança do recorrente e teve o seu nome negativado em órgão de proteção de crédito (ID 61880974). Afirma ter entrado em contato diversas vezes para resolver a demanda, porém não obteve sucesso.
+
+5. A relação jurídica estabelecida entre as partes é de natureza consumerista, devendo a controvérsia ser solucionada sob o prisma do sistema jurídico autônomo instituído pelo Código de Defesa do Consumidor.
+
+6. O Código de Defesa do Consumidor, em seu art. 14, dispõe que o fornecedor responde objetivamente, ou seja, independentemente da demonstração de culpa, pelos danos causados aos consumidores por defeitos relativos à prestação de serviços. A referida responsabilidade só pode ser afastada quando provar que o defeito inexiste ou a ocorrência de culpa exclusiva de terceiro (art. 14, § 3°, do CDC). No mesmo sentido, a súmula 479 do E. Superior Tribunal de Justiça refere que “as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias”.
+
+7. No caso dos autos, o recorrente não instruiu o feito com qualquer documento que pudesse comprovar a utilização da senha pessoal do correntista para a realização das compras. Destaca-se que, corroborando o relato inicial, as faturas dos meses de maio e abril de 2022 (IDs 61881062 e 61881056) demonstram que apenas os cartões adicionais eram utilizados, sobretudo em lojas localizadas no Distrito Federal, e não em sites da internet. As operações realizadas na fatura de junho, portanto, destoam do perfil de consumo do recorrido (ID 61881057). Os estornos efetivados também reforçam a hipótese de que o consumidor foi vítima de clonagem de cartão. Com efeito, competia à instituição financeira comprovar a regularidade das transações bancárias, o que não ocorreu no caso em apreço.
+
+8. O entendimento consolidado do Colendo Superior Tribunal de Justiça é no sentido de que, nos casos de inscrição indevida em cadastros de inadimplentes, o dano moral se configura in re ipsa (AgInt no AREsp n. 2.513.837/GO, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024). Deste modo, uma vez que não foi comprovada a regularidade das transações, deve ser mantida a sentença que condenou o recorrente ao pagamento de reparação por danos morais.
+
+9. Em relação à fixação do montante da indenização extrapatrimonial, entende-se que, em observância às características do caso concreto e das partes, e de acordo com a jurisprudência desta Turma Recursal, a quantia fixada na origem (R$ 5.000,00) é excessiva, devendo ser minorada ao patamar de R$ 2.000,00, valor que é razoável e suficiente à reparação do dano, sem gerar enriquecimento ilícito ao recorrido. Nesse sentido: Acórdão 1844928, 07138205520238070006, Relator(a): EDILSON ENEDINO DAS CHAGAS, Segunda Turma Recursal, data de julgamento: 15/4/2024, publicado no DJE: 23/4/2024.
+
+10. Por se tratar de reparação por danos morais perante a negativação indevida, decorrente de relação contratual, o termo inicial para a incidência dos juros é a citação (art. 405, do Código Civil).
+
+11. RECURSO CONHECIDO E PROVIDO EM PARTE para reduzir a condenação à indenização por danos morais ao montante de R$ 2.000,00 (dois mil reais), com juros de mora incidentes a partir da citação. Responderá a parte recorrente vencida ao pagamento de honorários advocatícios que fixo em 10% sobre o valor da condenação.
+
+12. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA ISABEL DA SILVA - Relatora, MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal e GISELLE ROCHA RAPOSO - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E PROVIDO EM PARTE. MAIORIA, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 06 de Setembro de 2024
+
+Juíza MARIA ISABEL DA SILVARelatora
+
+RELATÓRIO
+
+DISPENSADO O RELATÓRIO, NA FORMA DO ARTIGO 46 DA LEI 9.099/95.
+
+VOTOS
+
+A Senhora Juíza MARIA ISABEL DA SILVA - Relatora
+
+DISPENSADO O VOTO, NA FORMA DO ART. 46 DA LEI 9.099/95.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 1º Vogal
+Com a devida vênia, meu entendimento é diverso. Explico.
+
+Afora o fato de não existir um critério matemático para fixação de indenização por danos morais, as Turmas Recursais consolidaram entendimento no sentido de que o valor da indenização é fixado na origem, pelo juiz a quem incumbe o julgamento da causa, somente se admitindo a modificação do quantum na via recursal, se demonstrado que a sentença esteve dissociada dos parâmetros que ensejaram sua valoração.
+
+Ademais, reconhecer a falha na prestação do serviço e o consequente dano extrapatrimonial fixando valor irrisório, não revela potencial dissuasório, porquanto as instituições entendem que é mais lucrativo pagar pequenas indenizações do que mudar os processos internos, a fim de prestigiar e evitar danos aos consumidores.
+
+Outrossim, não há que se falar em minoração do quantum porquanto a inscrição em rol de inadimplentes é extremamente gravosa e gera dano in re ipsa, de acordo com o entendimento do STJ: "Nos termos da jurisprudência desta Corte, a inscrição/manutenção indevida do nome do devedor no cadastro de inadimplentes enseja dano moral in re ipsa." (AgInt no AREsp n. 2.478.429/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/6/2024, DJe de 14/6/2024.)
+
+ Por fim, colaciono acórdão desta Turma concernente ao valor da indenização: “JUIZADO ESPECIAL CÍVEL. CONSUMIDOR. INSTITUIÇÃO BANCÁRIA. DEFEITO NA PRESTAÇÃO DO SERVIÇO. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL COMPROVADO. RECURSO CONHECIDO E NÃO PROVIDO.    1. Trata-se de recurso inominado interposto em face da sentença exarada pelo Juízo do 2º Juizado Especial Cível de Taguatinga, que julgou parcialmente procedentes os pedidos para confirmar a tutela de urgência de exclusão do nome da requerente dos cadastros de proteção ao crédito, declarar a inexigibilidade do débito de R$ 5.008,12, referente ao contrato 20221436469 (parcelas 8 e 9), e condenar o banco réu a pagar à autora a importância de R$ 5.000,00 (cinco mil reais), a título indenização por danos morais. 2. Na origem, a autora ajuizou ação em que pretende a declaração de inexistência de quaisquer débitos vinculados aos fatos narrados na inicial, a exclusão de seu nome dos cadastros de inadimplentes e a condenação do banco réu a lhe pagar o valor de R$ 10.000,00, em reparação por danos morais. Narrou que, em outubro/2023, foi surpreendida com a inclusão de seu nome nos órgãos de proteção ao crédito em razão da dívida no valor de R$ 5.008,12, referente a empréstimo consignado contrato nº 20221436469. Alegou que não se encontra inadimplente, pois o valor a ser debitado se encontrava disponível em conta, todavia o banco não realizou o débito. Discorreu que recebeu diversas ligações de cobrança, sendo informada que havia ocorrido erro no sistema, em razão da ausência de débito em conta. Informou que se dirigiu até a instituição financeira ré e realizou o pagamento de boleto emitido, em razão da impossibilidade de desconto na conta da autora. Sustentou que suportou ofensas morais, em razão da inclusão e manutenção indevida de seu nome nos órgãos de proteção ao crédito. 3. Recurso tempestivo e adequado à espécie. Preparo regular (ID 58921901). Foram ofertadas contrarrazões (ID 58921903). 4. A questão devolvida ao conhecimento desta Turma Recursal consiste na análise da existência dos requisitos caracterizadores da responsabilidade civil. Em suas razões recursais, o recorrente alega que a autora não comprovou a existência de danos à sua imagem ou honra, bem como não adotou nenhuma conduta capaz de gerar os alegados danos. Sustenta que o valor da indenização por danos morais acarreta o enriquecimento sem causa da autora. Requer o afastamento da condenação em reparação dos danos morais ou, alternativamente, a redução do valor da indenização.  5. A hipótese em exame configura relação jurídica de natureza consumerista, uma vez que as partes se enquadram nos conceitos de fornecedor e de consumidor previstos no Código de Defesa do Consumidor. Dessa forma, aplicável ao caso as regras do direito do consumidor, inclusive as que tratam da responsabilidade objetiva na prestação de serviços. Nesse contexto, a reparação de danos pelo fornecedor ocorrerá, independente da existência de culpa, em razão de defeito na prestação do serviço, o qual leva em consideração os riscos do negócio, nos termos do art. 14, § 1º, II do CDC. 6. O dano moral decorrente de inscrição injusta do consumidor junto aos sistemas de proteção de crédito configura a hipótese de ofensa moral presumida (in re ipsa) em razão do nexo causal entre a conduta e o dano. A inscrição injusta abala presumidamente a dignidade da pessoa, além de sua honra subjetiva e perante a sociedade. No caso, restou comprovado que a manutenção do nome da autora nos órgãos de proteção ocorreu de forma indevida, uma vez que a autora, após ser exonerada do cargo que ocupava, manteve em conta os valores relativos às duas últimas parcelas do empréstimo consignado, cujo montante não foi descontado pela instituição em razão de erro de processamento. Diante da situação, a autora pagou, no dia 18/10/2023, as parcelas 8 e 9, referente ao contrato 20221436469, as quais estavam em atraso (ID 58921885) e o banco recorrente não realizou a exclusão do nome da recorrida do SERASA. A baixa da inscrição negativa somente ocorreu em 30/10/2023, em razão de determinação judicial (ID 58921884). Logo, cabe ao recorrente reparar os alegados danos morais suportados pela recorrida. 7. Em relação ao montante da indenização por dano moral, as Turmas Recursais firmaram entendimento de que o valor da indenização é fixado na origem, pelo juiz a quem incumbe o julgamento da causa. Somente se admite a modificação do quantum, na via recursal, se demonstrado estar dissociado dos parâmetros que ensejaram sua valoração. Embora não haja um critério matemático ou padronizado para estabelecer o montante pecuniário devido à reparação na seara da fixação do valor da reparação por dano moral, deve-se levar em consideração a gravidade do dano e as condições pessoais e econômicas das partes envolvidas. Também, não se pode deixar de lado a função pedagógico-reparadora da medida (desestimular novos comportamentos ofensivos aos consumidores), consubstanciada em impelir à parte ré uma sanção bastante a fim de que não retorne a praticar os mesmos atos. Considerados os parâmetros acima explicitados, a importância arbitrada na sentença recorrida se mostra razoável e suficiente, além de não caracterizar o enriquecimento sem causa da recorrida.  (...)” (Acórdão 1871400, 07223833520238070007, Relator(a): SILVANA DA SILVA CHAVES, Segunda Turma Recursal, data de julgamento: 3/6/2024, publicado no DJE: 14/6/2024).
+
+Meu voto é no sentido de manter a sentença.
+
+A Senhora Juíza GISELLE ROCHA RAPOSO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E PROVIDO EM PARTE. MAIORIA
