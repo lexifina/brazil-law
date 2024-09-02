@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CRIME HEDIONDO COM RESULTADO MORTE. LEI N. 16.964/2019. PROGRESSÃO E LIVRAMENTO CONDICIONAL. COMBINAÇÃO DE LEIS. NÃO OCORRÊNCIA. TEMA REPETITIVO N. 1.196. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias decidiram de forma contrária ao consolidado por esta Corte Superior, no julgamento dos REsp"s n. 2.012.101/MG, 2.012.112/MG e 2.016.358/MG (Tema n. 1.196), sob o rito dos Recursos Repetitivos, de que "É válida a aplicação retroativa do percentual de 50% (cinquenta por cento), para fins de progressão de regime, a condenado por crime hediondo, com resultado morte, que seja reincidente genérico, nos moldes da alteração legal promovida pela Lei n. 13.964/2019 no art. 112, inc. VI, alínea a, da Lei n. 7.210/84 (Lei de Execução Penal), bem como a posterior concessão do livramento condicional, podendo ser formulado posteriormente com base no art. 83, inc. V, do Código Penal, o que não configura combinação de leis na aplicação retroativa de norma penal material mais benéfica".
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA interpõe agravo regimental contra a decisão de fls. 1.054-1.055, por meio da qual concedi a ordem de habeas corpus.
+Em suas razões, o Parquet aponta que a decisão agravada ofende os princípios constitucionais da separação dos poderes, da legalidade e da retroatividade da lei penal mais benéfica, "sobretudo considerando os precedentes recentes exarados pelo STF" (fl. 1.067).
+Argumenta que haveria sido permitida a aplicação retroativa fracionada do art. 112, VI, "a", da LEP, configurando indevida combinação de leis, ao permitir a incidência da fração de 50% para fins de progressão prisional e desconsiderar a expressa vedação ao livramento condicional.
+Requer o provimento do agravo, a fim de que seja reconhecida a incidência da vedação ao livramento condicional, na hipótese.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CRIME HEDIONDO COM RESULTADO MORTE. LEI N. 16.964/2019. PROGRESSÃO E LIVRAMENTO CONDICIONAL. COMBINAÇÃO DE LEIS. NÃO OCORRÊNCIA. TEMA REPETITIVO N. 1.196. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias ordinárias decidiram de forma contrária ao consolidado por esta Corte Superior, no julgamento dos REsp"s n. 2.012.101/MG, 2.012.112/MG e 2.016.358/MG (Tema n. 1.196), sob o rito dos Recursos Repetitivos, de que "É válida a aplicação retroativa do percentual de 50% (cinquenta por cento), para fins de progressão de regime, a condenado por crime hediondo, com resultado morte, que seja reincidente genérico, nos moldes da alteração legal promovida pela Lei n. 13.964/2019 no art. 112, inc. VI, alínea a, da Lei n. 7.210/84 (Lei de Execução Penal), bem como a posterior concessão do livramento condicional, podendo ser formulado posteriormente com base no art. 83, inc. V, do Código Penal, o que não configura combinação de leis na aplicação retroativa de norma penal material mais benéfica".
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pese o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+Infere-se dos autos que o agravado cumpre pena privativa de liberdade de 22 anos e 11 meses de reclusão, pela prática dos delitos de corrupção ativa, resistência e homicídio qualificado.
+O Juízo das Execuções aplicou o percentual de 50% para a progressão de regime quanto ao crime hediondo com resultado morte, haja vista a retroatividade da Lei n. 13.964/2019, e vedou a concessão de livramento condicional, com lastro no art. 112, VI, "a", da LEP, entendimento ratificado pelo Tribunal estadual.
+Acerca do tema, em data recente, a Terceira Seção desta Corte Superior, no julgamento do Tema n. 1.196, submetido ao rito dos recursos repetitivos, firmou a seguinte tese jurídica: "É válida a aplicação retroativa do percentual de 50% (cinquenta por cento), para fins de progressão de regime, a condenado por crime hediondo, com resultado morte, que seja reincidente genérico, nos moldes da alteração legal promovida pela Lei n. 13.964/2019 no art. 112, inc. VI, alínea a, da Lei n. 7.210/84 (Lei de Execução Penal), bem como a posterior concessão do livramento condicional, podendo ser formulado posteriormente com base no art. 83, inc. V, do Código Penal, o que não configura combinação de leis na aplicação retroativa de norma penal material mais benéfica"(REsp n. 2.012.101/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Terceira Seção, julgado em 22/5/2024, DJe de 27/5/2024).
+Verifico, pois, que a conclusão das instâncias ordinárias vai ao encontro do entendimento supra, motivo pelo qual a pretensão defensiva foi acolhida.
+Dessa forma, a decisão impugnada deve ser mantida, por seus próprios fundamentos.
+À vista do exposto, nego provimento ao agravo regimental.
