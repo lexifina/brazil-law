@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APENADO DO REGIME FECHADO. PEDIDO DE LIVRAMENTO CONDICIONAL. HISTÓRICO DE FALTA GRAVE. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. TESE FIRMADA NO TEMA REPETITIVO N. 1.161. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O apenado do regime semiaberto não preenche o requisito subjetivo para a antecipação direta de liberdade, em livramento condicional, ante o histórico de faltas disciplinares.
+2. Segundo a tese jurídica fixada no Tema Repetitivo n. 1.161: "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+3. Agravo regimental não provido.
+RELATÓRIO
+VICTOR MORALES ARANTES ZANETTI agrava da decisão denegatória do habeas corpus.
+O apenado busca o restabelecimento do livramento condicional, pois usufruiu de saídas temporárias durante o regime semiaberto, sem ocorrências, e faltas disciplinares antigas, praticadas nos anos de 2018 e 2019 não justificam o indeferimento do benefício, uma vez que o comportamento carcerário foi reabilitado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APENADO DO REGIME FECHADO. PEDIDO DE LIVRAMENTO CONDICIONAL. HISTÓRICO DE FALTA GRAVE. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. TESE FIRMADA NO TEMA REPETITIVO N. 1.161. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O apenado do regime semiaberto não preenche o requisito subjetivo para a antecipação direta de liberdade, em livramento condicional, ante o histórico de faltas disciplinares.
+2. Segundo a tese jurídica fixada no Tema Repetitivo n. 1.161: "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada e faço expresso referência aos seus termos, que ora ratifico, para evitar repetições.
+O apenado do regime semiaberto não preenche o requisito subjetivo para a antecipação direta de liberdade, em livramento condicional, ante o histórico de falta disciplinar.
+Segundo a tese jurídica fixada no Tema Repetitivo n. 1.161: "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+A "inclusão da alínea "b" no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado  ..  (AgRg no HC n. 730.327/RS, relatora Ministra Laurita Vaz, 6ª T., DJe de 2/12/2022).
+Deveras, além da previsão objetivo de não cometimento de falta grave nos últimos 12 meses, a legislação também estabelece requisito subjetivo mais rigoroso para o livramento condicional, que não pressupõe a passagem pelos regimes semiaberto e aberto. A exigência é proporcional à amplitude do benefício. Para alcançar a liberdade antecipada, exige-se o bom comportamento durante a execução da pena.
+Seria inconsistente permitir que um reeducando com histórico de faltas disciplinares obtenha a antecipação de liberdade quando nem sequer preenche os requisitos para ser transferido aos regimes mais brandos, semiaberto ou aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura do condenado ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+Assim, a "análise do bom comportamento do apenado enquanto requisito do livramento condicional (art. 83, III, "a", do CP) deve considerar todo seu histórico prisional" (AgRg no REsp n. 2.017.532/TO, rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 2 4/10/2022).
+À vista do exposto, nego provimento ao agravo regimental.
