@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S/A, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 317, e-STJ):
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL, LASTREADA NO ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CÓDIGO DE PROCESSO CIVIL. ACÓRDÃO CONFORME À DECISÃO DA CORTE SUPERIOR DE JUSTIÇA NO RESP Nº 1.274.466/SC, JULGADO SEGUNDO O RITO DOS RECURSOS REPETITIVOS. ARGUIÇÃO PELA IMPOSSIBILIDADE DE APLICAÇÃO DAS TESES FIRMADAS, POIS FIRMADAS PERANTE O CPC/73. NÃO CABIMENTO. CORTE SUPERIOR QUE CONTINUA A APLICÁ-LAS NA VIGÊNCIA DO CPC VIGENTE. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+Em suas razões de recurso especial (fls. 330/348, e-STJ), o agravante, aponta ofensa aos artigos 1.030, inciso I, alínea "b", 82 e 95 do Código de Processo Civil/15; b) artigo 1.030, §1º do Código de Processo Civil/15. Sustenta, em síntese, ter havido aplicação incorreta de repetitiva. Não haveria motivo para incidência do artigo 1.030, inciso I, alínea ""b"" do CPC. Alega cerceamento de defesa.
+Sem contrarrazões (fl. 378, e-STJ).
+Em juízo de admissibilidade (fls. 383/385, e-STJ), negou-se o processamento do recurso especial, sob o seguinte fundamento "Dessa maneira, não é aceitável que os recorrentes interponham novo recurso especial visando rediscutir matéria já solucionada pelo Órgão Especial, e que manteve a negativa de seguimento do recurso especial sob a égide do artigo 1.030, inciso I, alínea "a", do Código de Processo Civil. Posto isso, o presente recurso especial não deve ser conhecido por ser manifestamente inadmissível, restando inviável a sanabilidade do ato processual."
+Daí o agravo (fls. 392/409, e-STJ), buscando destrancar o processamento daquela insurgência, o qual o insurgente refutar o óbice aplicados pela Corte estadual.
+Sem contraminuta (fl. 434, e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Na hipótese, verifica-se que o recurso especial (fls. 330/348, e-STJ) foi interposto contra o acórdão de fls. 317/322, e-STJ, que julgou agravo interno apresentado contra a inadmissibilidade do recurso especial decorrentes das teses repetitivas Resp 1.274.466/SC (Temas 671, 672 e 871 do STJ), nos termos do art. 1.030, I, "b", do CPC.
+Nesse contexto, conforme entendimento desta Corte, não é cabível novo recurso especial contra acórdão que, em juízo de retratação, nega provimento ao agravo interno apresentado com base no art. 1.030, § 2º, do CPC, por considerar que o
+entendimento adotado está de acordo com a orientação do STJ, como no caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO PREVISTO NO ART. 1030, § 2º, CPC. NEGATIVA DE PROVIMENTO. MANUT ENÇÃO DA APLICAÇÃO DA TESE REPETITIVA. INTERPOSIÇÃO DE NOVO RECURSO ESPECIAL. NÃO CABIMENTO.
+1. O STJ firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual" (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/3/2014, DJe 1º/4/2014).
+2. Inadmissível, pois, a interposição de novo recurso especial contra acórdão que, em juízo de retratação, nega provimento ao agravo interno apresentado com base no art. 1030, § 2º, do CPC, por considerar que o entendimento adotado está de acordo com a orientação do Superior Tribunal de Justiça firmada no recurso representativo da controvérsia. Precedentes: AgInt no AREsp 945.255/PA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 11/9/2018, DJe 8/10/2018; AgInt no AREsp 908.392/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/2/2017, DJe 23/2/2017; AgRg no AREsp 552.339/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/9/2014, DJe 30/9/2014.
+3. Ainda na linha de nossa jurisprudência, "A insurgência da parte agravante contra tese fixada em recurso especial repetitivo enseja a incidência da multa do art. 1.021, § 4º, do CPC/2015." (AgInt no RMS n. 51.627/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 27/6/2022).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.191.676/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+AGRAVO INTERNO. PROCESSUAL CIVIL. DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM TESE FIRMADA EM SEDE DE RECURSO REPETITIVO. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO INTERNO NA ORIGEM. TESE DE TER HAVIDO AFETAÇÃO DE TEMA PARA JULGAMENTO EM ÂMBITO DE REPERCUSSÃO GERAL. INEXISTÊNCIA DE FEITO EM TRAMITAÇÃO NO ÂMBITO DO STJ. COMPETÊNCIA PARA EXAME ACERCA DE EVENTUAL DESCUMPRIMENTO DE SOBRESTAMENTO DE PROCESSO. INSTÂNCIAS ORDINÁRIAS OU STF.
+1. Como dito na decisão monocrática, o Vice-Presidente da Corte local negou seguimento ao REsp, com embasamento em tese sufragada em repetitivo, com expressa invocação do art. 1.030, I "b", do CPC, o que atrai a competência exclusiva e definitiva da Corte local para exame da adequação do caso à tese vinculante, sem que tenha havido nem mesmo demonstração de interposição do recurso cabível.
+2. Por um lado, "de acordo com a jurisprudência do STJ, o recurso cabível contra decisão que, com fulcro no art. 1030, I, b, do CPC/15, nega seguimento a recurso especial, é o agravo interno para o próprio Tribunal de origem. Precedentes." (AgInt no AREsp n. 2.008.628/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022). Por outro lado, "para que se defira o pedido de tutela provisória de urgência e, assim, seja concedido o provimento, é necessário que a parte requerente demonstre concomitantemente o fumus boni iuris e o periculum in mora: a plausibilidade do direito alegado, consubstanciada na elevada probabilidade de êxito do apelo nobre; e o perigo de lesão grave e de difícil reparação ao direito da parte, o que não é o caso dos autos (art. 300, caput, do CPC/2015)" (AgInt na Pet 13.893/AC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 6/4/2021)" (AgInt no TP n. 3.588/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/11/2021, DJe de 8/11/2021.)
+(..)
+4. Agravo interno não provido.
+(AgInt na Pet n. 13.334/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ,
+conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
