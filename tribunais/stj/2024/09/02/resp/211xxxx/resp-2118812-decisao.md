@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 145):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. DESEMBARAÇO ADUANEIRO. PRAZO. PRINCÍPIO DA EFICIÊNCIA.
+Inexistindo prazo específico para o desembaraço aduaneiro, deve ser observado o prazo de oito dias, estabelecido para execução de atos no âmbito do processo administrativo fiscal pelo art. 4º do Decreto 70.235, de 1972, o que está em conformidade com o princípio da eficiência da Administração Pública.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489 e 1.022 do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, aponta ofensa aos artigos 49 da Lei 9784/1999, e 542 do Decreto 6759/2009. Sustenta a "inaplicabilidade ao despacho aduaneiro do Decreto 70235/1972, e em especial, do seu artigo 4º. Sendo assim, o prazo de 8 dias não pode ser aplicado ao despacho aduaneiro como um todo, mas, admite-se, a cada ato do despacho, à exceção dos atos decisórios, em relação aos quais há prazo previsto no art. 49 da Lei 9784/1999." (fl. 198)
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 208.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois a parte recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula n. 284/STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. FERROVIÁRIO APOSENTADO PELA CBTU. COMPLEMENTAÇÃO DE APOSENTADORIA. REFERÊNCIA NOS VALORES PREVISTOS NO PLANO DE CARGOS E SALÁRIOS DA EXTINTA RFFSA. PROVIMENTO NEGADO.
+1. A ausência de indicação, nas razões de recurso especial, das questões sobre as quais o Tribunal de origem manteve-se omisso, inviabiliza o reconhecimento da violação do art. 1.022 do CPC/2015, em razão do óbice contido na Súmula 284/STF.
+2. Consoante a jurisprudência do STJ, a complementação da aposentadoria dos ex-ferroviários é regida pelo plano de cargos e salários próprio dos empregados da extinta RFFSA, e não existe amparo legal à equiparação com a remuneração dos empregados da própria CBTU.
+3. Agravo interno a que se nega provimento.(AgInt no REsp n. 2.047.671/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/11/2023, DJe de 30/11/2023.) (grifo nosso)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. AÇÃO RESCISÓRIA. DECADÊNCIA. TERMO INICIAL. TRÂNSITO EM JULGADO NA VIGÊNCIA DO CPC/73. ART. 535, III, §§ 5º E 8º, DO CPC/2015. INAPLICABILIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. Hipótese em que a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões.
+3. A Primeira Seção do STJ, em recente julgamento, por unanimidade, assentou que "não se aplica o disposto no art. 535, III, §§ 5º e 8º, do CPC/2015, o qual excepciona o termo inicial da contagem do prazo da ação rescisória ao trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal em controle de constitucionalidade concentrado ou difuso, às hipóteses em que o acórdão rescindendo tenha transitado em julgado na vigência do Código de Processo Civil de 1973" (AgInt na AR 6.496/DF, rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 10/03/2022).
+4. Agravo interno desprovido.(AgInt no AREsp n. 2.086.721/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023.) (grifo nosso)
+Observa-se que a Corte de Origem adotou os seguintes fundamentos para dirimir a controvérsia: (fls. 147/148)
+"Por outro lado, quanto ao prazo para a Administração, o Decreto n. 70.235/72, que dispõe sobre o processo administrativo fiscal, traz a regra geral de oito dias, previstos no art. 4º:
+Art. 4º Salvo disposição em contrário, o servidor executará os atos processuais no prazo de oito dias.
+Ressalto que o prazo de 5 (cinco) dias previsto no art. 25 da Instrução Normativa RFB n. 69/1996 é inaplicável, ante a revogação integral do ato normativo pelo art. 80 da Instrução Normativa RFB n. 206/2002, revogada pela Instrução Normativa RFB n. 1169/2001, por sua vez revogada pela Instrução Normativa RFB n. 1986/2020, que dispõe sobre o procedimento de fiscalização utilizado no combate às fraudes aduaneiras, deixando de prever, no entanto, prazos para o despacho de importação, exceto no caso de instauração do procedimento especial nela regulado, cujo prazo é 60 dias, prorrogável por igual período (art. 11).
+A instauração do referido procedimento especial pressupõe a parametrização para conferência aduaneira pelo canal cinza, nos moldes do art. 21 da Instrução Normativa RFB n. 680/2006, caso em que se tem o parâmetro temporal acima referido. Já em caso de parametrização para os demais canais, quais sejam, verde, amarelo e vermelho, a regulamentação restou omissa, atraindo a aplicação do prazo comum do art. 4º do Decreto n. 70.235/72.
+Nesta senda, quanto à questão dos prazos legais considerados pela jurisprudência para o transcurso regular do despacho de importação, nota-se uma tendência à uniformização de 8 (oito) dias previstos no Decreto n. 70.235/72.
+Logo, para dar prosseguimento e concluir o despacho de importação em geral, a autoridade aduaneira deve observa o prazo de 8 (oito) dias, exceto no caso de instauração de procedimento especial de controle aduaneiro, com prazo específico de 60 (sessenta) dias." (grifo nosso)
+Portanto, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento no Decreto n. 70.235/72, razão pela qual o recurso especial não deve ser conhecido nesta Corte Superior, por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula n. 280/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
