@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER C/C INDENIZAÇÃO. OFENSAS PERPETRADAS POR MEIO DA INTERNET. COMPETÊNCIA. DOMICÍLIO DA VÍTIMA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação aos arts. 489, § 1º, inciso VI, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, "a competência para julgamento de ação de indenização por danos morais, decorrente de ofensas proferidas em rede social, é do foro do domicílio da vítima, em razão da ampla divulgação do ato ilícito" (REsp n. 2.032.427/SP, relator o Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 27/4/2023, DJe de 4/5/2023).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DAMARES REGINA ALVES contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 466):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER C/C INDENIZAÇÃO. OFENSAS PERPETRADAS POR MEIO DA INTERNET. COMPETÊNCIA. DOMICÍLIO DA VÍTIMA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do agravo interno, a agravante alega, em síntese, que os arts. 489, § 1º, inciso IV, e 1.022, inciso II e parágrafo único, inciso II, do CPC/2015, firmam a necessidade de apreciação explícita de todas as questões suscitadas; que não há falar em incidência da Súmula n. 83/STJ; que o foro competente para o julgamento da ação de origem é o do domicílio do réu, conforme dispõe o art. 46, caput, do CPC/2015; bem como que o dissídio jurisprudencial está evidente no caso em comento.
+Impugnação apresentada (e-STJ, fls. 487-503).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER E NÃO FAZER C/C INDENIZAÇÃO. OFENSAS PERPETRADAS POR MEIO DA INTERNET. COMPETÊNCIA. DOMICÍLIO DA VÍTIMA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação aos arts. 489, § 1º, inciso VI, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, "a competência para julgamento de ação de indenização por danos morais, decorrente de ofensas proferidas em rede social, é do foro do domicílio da vítima, em razão da ampla divulgação do ato ilícito" (REsp n. 2.032.427/SP, relator o Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 27/4/2023, DJe de 4/5/2023).
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, verifica-se que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, uma vez que, além da ausência de violação aos arts. 489, § 1º, inciso VI, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, mostra-se cristalina a incidência da Súmula n. 83/STJ à presente demanda.
+Consoante análise dos autos, percebe-se que a alegação de violação aos arts. 489, § 1º, inciso VI, e 1.022, incisos II e III, e parágrafo único, inciso II, ambos do Código de Processo Civil de 2015, deveras, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de São Paulo foi claro ao concluir, em suma, que, em caso de "veiculação em meio de comunicação de abrangência nacional (Twitter e Instagram), conclui-se pela ocorrência do dano em qualquer localidade, sendo possível, portanto, a escolha da comarca do domicilio da autora para a propositura da ação, incluindo-se o Foro Central da Comarca da Capital.
+Confira-se (e-STJ, fls. 318-321; sem grifo no original):
+Em que pese as alegações da agravante sua irresignação não merece prosperar, haja vista que diferentemente do que quer fazer, a questão indenizatória é primordial e configura objeto principal da lide e não mero corolário lógico dos demais pedido.
+Verifica-se, pela análise do caso concreto, que a competência para o processamento e julgamento da presente ação deve ser definida pelo disposto no artigo 53, IV, "a", do Código de Processo Civil, que assim dispõe: "É competente o foro: ..  IV -do lugar do ato ou fato para a ação: a) de reparação de dano."
+No caso dos autos, tratando-se de veiculação em meio de comunicação de abrangência nacional (Twitter e Instagram), conclui-se pela ocorrência do dano em qualquer localidade, sendo possível, portanto, a escolha da comarca do domicilio da autora para a propositura da ação, incluindo-se o Foro Central da Comarca da Capital.
+A escolha do Foro, pela agravada, encontra-se em consonância com a jurisprudência desta Corte, em caso análogo ao dos autos:  ..
+Logo, evidentemente não há como se reconhecer a incompetência do Juízo a quo, ficando afastada a preliminar.
+Nessa esteira, cabe reiterar que todas as questões suficientes ao deslinde da controvérsia foram devidamente analisadas no acórdão recorrido, não havendo falar em nenhum vício capaz de comprometer o seu embasamento.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. RECUPERAÇÃO JUDICIAL CONCEDIDA EM FAVOR DE DEVEDOR SOLIDÁRIO AUSÊNCIA DE SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA OS DEMAIS DEVEDORES SOLIDÁRIOS OU COOBRIGADOS EM GERAL. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. OFENSA À COISA JULGADA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+3. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+4. A Segunda Seção do Superior Tribunal de Justiça, em recurso repetitivo, sob o rito do art. 543-C do CPC/73, no julgamento do REsp 1.333.349/SP, de relatoria do Ministro LUIS FELIPE SALOMÃO, firmou entendimento de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.340.840/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONFISSÃO DE DÍVIDA. APELO NOBRE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III e IV, do Código de Processo Civil de 2015).
+3. Na hipótese, inexiste afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo interno contra a decisão monocrática permite que a matéria seja apreciada pela Turma, afastando eventual vício.
+4. Não viola o art. 489, § 1º, I, II e IV, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia.
+5. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.089.072/MT, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 16/3/2023.)
+Por conseguinte, repisa-se que a irresignação da agravante não merece acolhida, haja vista que é firme a jurisprudência desta Corte Superior no sentido de que, em hipóteses de ampla divulgação do ato, inclusive pela internet, como no caso (Twitter e Instagram), a competência é do foro do domicílio da vítima do ato ilícito, que é a pessoa que teve o seu direito violado.
+Nesse sen tido (sem grifo no original):
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIVULGAÇÃO. ATO ILÍCITO. INTERNET. COMPETÊNCIA. DOMICÍLIO DA VÍTIMA. RECURSO PROVIDO.
+1. A competência para julgamento de ação de indenização por danos morais, decorrente de ofensas proferidas em rede social, é do foro do domicílio da vítima, em razão da ampla divulgação do ato ilícito.
+2. Recurso especial provido para manter a competência da 7ª Vara Cível do Foro de São Bernardo do Campo.
+(REsp n. 2.032.427/SP, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 27/4/2023, DJe de 4/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL MATÉRIA JORNALÍSTICA. COMPETÊNCIA. FORO DO LUGAR DO ATO OU DO FATO. ART. 53, IV, A, DO CPC. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A regra do art. 54, IV, do CPC, que trata do foro competente para a reparação do dano - o local do ato ilícito - é norma específica em relação às do art. 53, III, do mesmo diploma - domicílio da pessoa jurídica - e sobre esta deve prevalecer. Precedentes" (AgInt no REsp 1.686.393/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 11/9/2018).
+2. "No caso de ação de indenização por danos morais causados pela veiculação de matéria jornalística em revista de circulação nacional, considera-se "lugar do ato ou fato", para efeito de aplicação da regra especial e, portanto, preponderante, do art. 100, V, letra "a", do CPC, a localidade em que residem e trabalham as pessoas prejudicadas, pois é na comunidade onde vivem que o evento negativo terá maior repercussão para si e suas famílias" (REsp 191.169/DF, Relator Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 6/4/2000, DJ de 26/6/2000, p. 178).
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.991.809/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 4/10/2022.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE INCOMPETÊNCIA. USO NÃO AUTORIZADO DO NOME. DIVULGAÇÃO DO EVENTO NA "INTERNET". FORO COMPETENTE. DOMICÍLIO DO TITULAR DO DIREITO VIOLADO. PRECEDENTES.
+1. Utilização do nome "Maria Bonita" em evento com fins comerciais por Shopping Center localizado no Município de Vila Velha/ES, com divulgação pela Internet.
+2. Fixação da competência no domicílio do titular do direito violado.
+3. Precedentes do STJ.
+4. RECURSO ESPECIAL DESPROVIDO.
+(Resp n. 1.347.097/SE. Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJE 10/4/2014).
+Dessa forma, convém reafirmar que o acórdão recorrido, ao concluir que, em caso de "veiculação em meio de comunicação de abrangência nacional (Twitter e Instagram), conclui-se pela ocorrência do dano em qualquer localidade, sendo possível, portanto, a escolha da comarca do domicilio da autora para a propositura da ação, incluindo-se o Foro Central da Comarca da Capital" (e-STJ, fl. 319), está em consonância com o supracitado entendimento do Superior Tribunal de Justiça.
+Além disso, destaca-se que, conforme consignado no acórdão, "a questão indenizatória é primordial e configura objeto principal da lide e não mero corolário lógico dos demais pedidos" (e-STJ, fls. 318-319).
+Assim, constata-se que o entendimento adotado pelo Tribunal de origem está em harmonia com a jurisprudência do Superior Tribunal de Justiça, incidindo a Súmula n. 83/STJ ao caso em comento.
+Melhor sorte, portanto, não socorre à agravante, não merecendo reparo a decisão monocrática de fls. 466-471 (e-STJ).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
