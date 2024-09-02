@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BOMBAS JVP LTDA. contra decisão que não conheceu do AREsp por falta de impugnação específica à aplicação do óbice da Súmula 7/STJ, considerando a fundamentação adotada na decisão agravada para inadmitir o recurso especial.
+A embargante alega omissão, ao argumento de que a conclusão firmada "decorre de premissa falsa, haja vista que a incidência da Súmula 7 foi objeto de tópico específico nas razões de agravo em recurso especial" (fl. 374), transcrevendo trecho das alegações consignadas.
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, a decisão de inadmissibilidade aplicou o óbice da Súmula 7/STJ quanto aos argumentos recursais expendidos referentes à alegação de nulidade da CDA, com o escopo de modificar as conclusões firmadas no acórdão, pretensão essa que demanda o reexame de matéria fático-probatória.
+Por sua vez, nas razões do AREsp, ao tratar da Súmula 7/STJ, a agravante consignou que as violações perpetradas pela sentença foram mantidas pelos acórdãos recorridos, a qual se esqueceu de que o juiz poderia ter requisitado eventuais documentos faltantes, bem como assinalando seu inconformismo quanto à possibilidade da inclusão de valores referentes ao PIS/COFINS/ICMS na base de cálculo do ICMS.
+Isso considerado, a decisão ora embargada dispôs (fl. 369):
+No caso dos autos, a agravante, cingindo-se a razões dissociadas, não impugna especificamente o óbice da Súmula 7/STJ, ao fundamento de que, no caso, rever a posição do acórdão quanto aos argumentos expendidos referentes à eventual nulidade da CDA demanda revolvimento do conjunto fático-probatório.
+Não supre o princípio da dialeticidade, cumprindo-se com a impugnação específica, requisito legal de admissibilidade do AREsp, nos termos do disposto nos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ, a mera organização das alegações por tópico, se não há o confronto direto e pertinente contra o que pontualmente consta na decisão de inadmissibilidade, para fins de demonstrar o seu desacerto.
+Daí, a decisão ora embargada ter explicado (fl. 369):
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+Em relação ao óbice da Súmula 7/STJ, não basta alegar que a questão é meramente de interpretação jurídica, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos: deve aí comprovar tal circunstância, mediante a transcrição dos trechos do acórdão em que constem, de forma clara, os fatos e provas necessários à adequada solução da controvérsia, e conectá-los à violação legal apontada, demonstrando, assim, que a análise da pretensão recursal não exige reexame de fatos e provas por esta Corte Superior, vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita - o que, como visto, não ocorreu no caso dos autos.
+Assim, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante todo o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
