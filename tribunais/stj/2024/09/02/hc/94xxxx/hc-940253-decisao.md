@@ -1,0 +1,20 @@
+DECISÃO
+ENGRI JUNIOR DE ALMEIDA MAIA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás que não conheceu do HC n. 5675802-04.20248.09.0000.
+A defesa requer o conhecimento do writ impetrado na origem como substitutivo de revisão criminal.
+Decido.
+Consta dos autos que "o paciente foi condenado pela prática dos delitos previstos nos artigos 33, §1.º, inciso I, 34 e 35, todos da Lei n.º 11.343/2006, à pena de 18 (dezoito) anos de reclusão, a ser cumprida em regime inicial fechado, além do pagamento de 2.410 (dois mil e quatrocentos e dez) dias-multa". Ainda, "com relação à prática do crime previsto no artigo 12 da Lei n.º 10.826/2003, o paciente foi condenado à pena de 02 (dois) anos de detenção, a ser cumprida em regime inicial semiaberto, além do pagamento de 10 (dez) dias-multa" (fl. 118).
+No exame da apelação defensiva, "as penas impostas ao paciente foram reduzidas para 09 (nove) anos de reclusão, a ser cumprida no regime inicial fechado, além do pagamento de 1.300 (hum mil e trezentos) dias-multa e 01 (um) ano de detenção, a ser cumprida no regime inicial semiaberto e 10 (dez) dias-multa, conforme acórdão juntado aos autos originais, que foi publicado em 29/10/2013 (mov. 03, arq. 03, páginas 11/39 e 45)" (fl. 118).
+O writ não foi conhecido, pois, o Tribunal estadual entendeu que a matéria deveria ser questionada por meio de revisão criminal, nos seguintes termos:
+Ora, sabidamente o ordenamento jurídico disponibilizou mecanismo próprio para a desconstituição de decisão condenatória transitada em julgado, sendo cediço que a revisão criminal possui caráter mais amplo do que o remédio heroico.
+Assim, existindo meio próprio de impugnação, torna-se descabida a impetração do presente writ, até porque, a via estreita não permite a cassação do édito condenatório, a não ser que houvesse flagrante nulidade, o que não foi comprovado nos autos.
+ ..
+Dessa forma, considerando que os assuntos abordados estão acobertados pelo trânsito em julgado da ação penal, consolidado na coisa julgada material, não há espaço para debate no âmbito do writ (fls. 119-120, destaquei).
+O habeas corpus é um remédio constitucional isento de custas e de formalidades, para o qual não são previstos prazos e não se exige capacidade postulatória. É, ainda, uma medida de urgência, que deve ser colocada em mesa para julgamento na sessão seguinte à sua impetração, e têm prioridade em relação às demais classes processuais.
+Suas facilidade e vantagens, que não são poucas, não podem, entretanto, ensejar a sua banalização, já que o writ acaba por ser utilizado como solução de todo e qualquer mal processual, até mesmo nos casos em já há recurso próprio para o debate da matéria.
+Ora, admitir o habeas corpus em casos tais é, além de ignorar os limites constitucionais do writ, reconhecer a inutilidade do agravo de instrumento, pois diante da ausência de custas, de prazo e de formalidade, além da celeridade no julgamento, não haveria sentido em se opor o recurso próprio.
+As consequências são muitas, e a mais grave delas é que os casos em que realmente há constrangimento ilegal sanável pela via do habeas corpus disputam espaço, atenção e, principalmente, tempo com os demais, que simplesmente deixaram de observar as regras processuais quando recorreram à justiça.
+Não é possível a análise direta da controvérsia por esta Corte Superior, diante da indevida supressão de instância. No entanto, cabia ao Tribunal a quo se manifestar sobre o mérito da tese defensiva.
+Com efeito, a teor dos julgados do STJ: "A existência de recurso específico não obsta a impetração de habeas corpus, dada a possibilidade de lesão à liberdade de locomoção do indivíduo" (AgRg no RHC n. 69.302/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/06/2016).
+À vista do exposto, concedo a ordem, in limine, a fim de determinar o retorno dos autos ao Tribunal de Justiça do Estado de Goiás, para que examine o mérito do habeas corpus originário.
+Publique-se e intimem-se.
+EMENTA
