@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO (UNIMED) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, UNIMED alegou a violação dos arts. 4º da Lei n. 9.661/00; e 10 e 12 da Lei n. 9.656/98, ao sustentar, que não lhe cabe a obrigação de cobrir procedimentos não previstos no rol taxativo da ANS.
+Pois bem !
+ Em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa, concluiu pela abusividade da negativa de cobertura do procedimento, considerando estar comprovado nos autos que o tratamento de insuficiência mitral severa e sintomática foi devidamente prescrita por médico, razão pela qual não haveria dúvida de que é o tratamento indicado para a patologia. Tais circunstâncias, aliás, revelam a existência de excepcional necessidade de cobertura do procedimento requerido, sobretudo ante o acentuado risco de morte do paciente.
+Assim, para se desconstituir as premissas firmadas no acórdão recorrido, seria necessário perquirir se haveria outro procedimento eficaz para o tratamento da patologia, ponderação que demandaria, inevitavelmente, o reexame do acervo fático-probatório dos autos, o que é obstado, em recurso especial, pelo enunciado da Súmula nº7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP) firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade.
+Precedentes. 1.1. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela inexistência de excepcional necessidade de cobertura. Aplicação das Súmulas 7 e 83 do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.886.532/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/4/2023, DJe de 2/5/2023.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ROL DE PROCEDIMENTOS DA ANS. RECUSA DE COBERTURA DE MEDICAMENTO. ESCLEROSE MÚLTIPLA. MEDICAMENTO QUE NÃO CONSTAVA DO ROL DA ANS. SITUAÇÃO EXCEPCIONAL APTA A AUTORIZAR O CUSTEIO DO TRATAMENTO. AGRAVO DESPROVIDO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao tratamento médico solicitado, eis que o tratamento de saúde não era experimental, tendo sido apurado tecnicamente à luz de evidências científicas constantes do Laudo Médico Pericial que o tratamento era imprescindível e urgente. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto probatório, o que é vedado a esta Corte ante o óbice da Súmula n. 7 do STJ.
+2. Conforme entendimento desta Quarta Turma, firmado no julgamento do REsp 1.733.013/PR, o rol de procedimentos mínimos da ANS não pode ser visto como meramente exemplificativo, tampouco a cobertura do plano de saúde como ilimitada, não sendo correto afirmar ser abusiva a exclusão do custeio dos meios e dos materiais necessários ao tratamento indicado pelo médico assistente que não estejam no rol da ANS ou no conteúdo contratual.
+3. No presente caso, a necessidade de se custear medicamento não previsto, à época, no rol da ANS encontra-se justificada, devido ao fato de o beneficiário apresentar esclerose múltipla cujo tratamento com o medicamento Ocrelizumabe era adequado à garantia de sua sobrevivência, conforme apontado pelo Laudo Médico Pericial, devendo ser mantida a determinação das instâncias ordinárias de custeio do procedimento pelo plano de saúde.
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.919.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/6/2021, DJe de 1/7/2021.).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em R$ 2.000,00 (dois mil reais) o valor dos honorários advocatícios anteriormente fixados em favor de DANILO, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DEVER DE COBERTURA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
