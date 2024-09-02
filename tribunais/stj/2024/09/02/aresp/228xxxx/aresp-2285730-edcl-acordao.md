@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. ADMINISTRAÇÃO DE BENS. NÃO OCORRÊNCIA. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Refinaria de Petróleos de Manguinhos S.A. (fls. 859-876 e-STJ), em face de acórdão proferido em sede de agravo interno, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. INTERESSE DE AGIR. ADMINISTRAÇÃO DE BENS OU INTERESSES. NÃO CONFIGURADA. RELAÇÃO CONTRATUAL. INCABÍVEL. FALTA INTERESSE DE AGIR. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O escopo da prestação de contas é o acertamento de lançamentos a crédito e a débito em determinada relação jurídica em que haja a administração de bens ou interesses alheios para, ao final, declarar a existência de saldo em favor de uma das partes, não comportando a pretensão de alterar ou revisar cláusula contratual, nem mesmo em caráter secundário. Precedentes.
+2. A prestação de contas apenas deve ocorrer se houver administração de bens ou interesses de quem age em nome de outra pessoa ou lhe gerencia os negócios ou bens.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+Em razões de embargos de declaração (fls. 859-876 e-STJ), a parte embargante alega que houve contradição do julgado, bem como obscuridade, pois no acórdão embargado não ficou claro se o óbice da Súmula 182 do STJ se referia ao agravo interno ou agravo em recurso especial anterior.
+Afirma que "tal obscuridade fica ainda mais evidente quando se considera que, na decisão monocrática objeto do agravo interno, proferida após a retratação, conheceu do agravo em recurso especial, para, no mérito, negar-lhe provimento, ao entender que a pretensão deduzida no recurso especial esbarraria no óbice da Súmula n. 7/STJ" (fl. 863 e-STJ).
+Alega que a premissa adotada (manutenção da decisão anterior por seus próprios fundamentos) "não se compatibiliza, logicamente, com fundamentação adotada (incidência do óbice da Súmula n. 182/STJ, não aplicado pela decisão anterior, mantida)" (fl. 866 e-STJ).
+Conforme suas palavras, "a decisão do agravo interno foi omisso a não enfrentar o argumento de que a embargante enfrentou, ponto a ponto, no agravo em recurso especial" (fl. 873 e-STJ).
+Não houve apresentação de contrarrazões, conforme certidão de fl. 880 e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. ADMINISTRAÇÃO DE BENS. NÃO OCORRÊNCIA. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado, o que não se verifica na hipótese.
+Percebe-se que a parte embargante apenas replica que não seria caso de incidir a Súmula 182 do STJ ou Súmula 7 do STJ, pois seria caso de requalificação jurídica, e não de reexame de provas, sem que demonstre efetivamente contradição ou omissão do acórdão embargado.
+Com efeito, de fato, conforme bem mencionado pela parte embargante, esta Corte possui o entendimento de que a revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido, quando suficientes para a solução da lide, não implica reexame do conjunto fático-probatório, mas apenas seu correto enquadramento jurídico.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. SEGURO DE VIDA. DOENÇA PRE-EXISTENTE. OMISSÃO DE INFORMAÇÃO. MÁ-FÉ. RECURSO ESPECIAL SÚMULA 7/STJ. SOBREVIDA POR MAIS DE CINCO ANOS.
+1. Não configura revisão de matéria de fato, vedada pela Súmula 7, a revaloração jurídica dos fatos assentados como ocorridos pelo acórdão recorrido. 2. No caso, a sobrevida por mais mais cinco anos afasta a conclusão de que a segurada agiu de má-fé. Precedentes.
+3. Agravo regimental a que se nega provimento. (AgRg no AgRg no Ag n. 1.271.941/RS, Minha Relatoria, Quarta Turma, julgado em 28/8/2012, DJe de 3/9/2012).
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. APELAÇÃO. NULIDADE DE COMPRA E VENDA IMOBILIÁRIA. SIMULAÇÃO EM DETRIMENTO DA PARTILHA DE BENS DO CASAL (WAGNER NETO E ANA LUIZA). REVALORAÇÃO DA PROVA. CABIMENTO. ACÓRDÃO DIVERGENTE RECONHECENDO A PRÁTICA ILÍCITA. CASA QUE SEMPRE SERVIU DE RESIDÊNCIA DO CASAL. NEGOCIAÇÃO ENTRE EMPRESAS CONSIDERADAS DE "FACHADA" DO MARIDO E SEUS FAMILIARES (GRUPO CANHEDO). EXISTÊNCIA DE SUBORDINAÇÃO E PARENTESCO ENTRE ESTE E OS SÓCIOS DAS EMPRESAS ENVOLVIDAS NO NEGÓCIO IMOBILIÁRIO. SIMULAÇÃO MANIFESTAMENTE DEMONSTRADA. RECURSO ESPECIAL PROVIDO. (..) 3. A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido, quando suficientes para a solução da lide, não implica reexame do conjunto fático-probatório, mas apenas seu correto enquadramento jurídico.
+(..) (REsp n. 1.969.648/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/10/2022, DJe de 21/10/2022).
+Na hipótese dos autos, contudo, não se trata de mera requalificação jurídica, pois, conforme bem fundamentado em sede de acórdão embargado, o Tribunal de origem foi expresso em mencionar que não há a presença da gestão de valores por parte da embargada para possibilitar a ação de prestação de contas, como deveria.
+Conforme trechos do acórdão embargado:
+"Na hipótese dos autos, contudo, não há a presença dessa gestão de valores, conforme bem reconhecido pelo Tribunal de origem. Também transcrevendo trechos da sentença:
+"Explora a autora, na condição de pessoa jurídica de direito privado, o ramo de refinaria de petróleo, tendo contratado a ré para transportar os produtos derivados de petróleo.
+Sustenta que no período apontado na peça exordial de 27.09.2010 pagou à ré o montante de R$ 861.120,00. Todavia, a ré alega ser detentora de crédito, no mesmo período acima descrito, de R$ 155.372,32. Ocorre que a ré, no entanto, jamais prestou contas do vinculo em seu aspecto econômico, impossibilitando a determinação, com exatidão, dos valores cobrados e sua correlação com o volume efetivamente transportado em cada um dos trechos.
+Por conseguinte, menciona a autora que tem interesse processual exigir da ré a prestação de contas, objetivando apurar os valores cobrados e já pagos, e, ainda, os créditos acima especificados, os quais entende que devem corresponder à efetiva prestação de serviços, visto que insubsistente a cobrança de valores fixos dissociados da respectiva contrapartida.
+Percebe-se, portanto, que pretende a parte autora, por meio desta ação de prestação de contas de natureza dúplice, aclarar o porquê da cobrança de numerário, cuja origem, alegadamente, desconhece, bem como daquele numerário já cobrado e pago.
+Ressalte-se que a relação jurídica travada entre as partes é o transporte de mercadorias, não se vislumbrando, deste modo, seja a ré obrigada a gerir, administrar ou gerenciar os negócios da autora, que constitui pressuposto básico para o ajuizamento da ação de prestação de contas, e cuja inexistência, como no caso dos autos, toma inadequada a via eleita para a formulação da pretensão deduzida.
+A bem da verdade, a autora objetiva seja declarada a inexistência de débitos cobrados a maior, motivo pelo qual a via eleita revela-se incorreta e inapropriada para o fim colimado.
+Com efeito, se a autora discorda das cobranças realizadas pela ré, caberá questionar expressamente por meio da via processual adequada a extensão dos serviços de transporte prestados pela ré e os valores correspondentes; mas não cabe um pedido genérico de prestação de contas para a finalidade colimada (..)" - fls. 698-700 e-STJ.
+Nesse sentido, nota-se que a controvérsia demanda a interpretação do contrato entre autora e ré, com acertamento de várias questões a respeito da prestação de serviços de transporte contratado, e não necessariamente de gestão de valores que estariam, eventualmente, no poder da ré" (fls. 852-853 e-STJ).
+Por isso, de fato, concluir em sentido diverso do Tribunal de origem - a verificar se efetivamente a parte embargada-ré possuiria ou não o poder de gestão de interesses ou bens da parte embargante, a possibilitar eventual provimento da primeira fase da ação de prestação de contas - demandaria reexame de matéria fático-probatória (Súmula 7 do STJ), e não requalificação jurídica.
+Por isso, nota-se que não há omissão ou contradição alguma do acórdão embargado nesse ponto.
+No que tange ao óbice da Súmula 182 do STJ, é notório que esta incidiu em razão do agravo interno interposto pela parte embargante em face de decisão singular de minha Relatoria que reconsiderou a decisão da Presidência, e não de seu agravo em recurso especial, tendo em vista que a fundamentação anterior já havia aplicado o óbice da Súmula 7 do STJ e a parte embargante continuou repetindo os mesmos argumentos anteriormente já afastados.
+Assim, nota-se que não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material). Portanto, não merece prosperar sua oposição.
+Reitero ainda que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Relator Ministro Luis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJ e 28.8.2014.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
