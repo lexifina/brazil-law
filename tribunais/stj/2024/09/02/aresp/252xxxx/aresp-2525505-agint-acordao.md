@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do artigo 1.021, § 1º, do CPC/2015 cabe ao agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada.
+2. Incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno manejado em face de decisão de minha relatoria sintetizada da seguinte maneira (e-STJ fl. 331):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. GRATIFICAÇÃO. ÔNUS DA PROVA. COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões de agravo interno, a parte agravante sustenta que "Como é de conhecimento comezinho, o constituinte, mediante juízo de razoabilidade, consagrava a isonomia (paridade) entre servidores ativos e inativos, no tocante à questão da remuneração e proventos devidos em razão da ocupação de cargos públicos. Logo, de acordo com o ordenamento jurídico devem ser estendidos aos aposentados e pensionistas quaisquer vantagens ou benefícios concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão. A Gratificação de Risco de Policiamento Ostensivo, por consistir em acréscimo remuneratório concedido indistintamente a todos os servidores públicos militares do Estado de Pernambuco, enquadra-se na regra de proteção consagrada nos referidos dispositivos constitucionais. Na realidade, a Gratificação de Risco de Policiamento Ostensivo, criada pela Lei Complementar Estadual nº 59/2004, contempla todo tipo de atividade policial (policiamento de radiopatrulha, policiamento de guarda dos estabelecimentos prisionais, os das sedes dos Poderes Estaduais e dos estabelecimentos públicos, o policiamento de trânsito urbano e rodoviário, o policiamento de choque e demais modalidades previstas no artigo 24 da Lei 11.328/96). Assim sendo, a mencionada gratificação, por ser paga indistintamente a todos os militares ativos, sem qualquer critério de avaliação ou de localidade, acaba por se tornar uma parcela genérica da remuneração dos servidores, extensível, assim, aos inativos. " (fl. 344 e-STJ)
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do artigo 1.021, § 1º, do CPC/2015 cabe ao agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada.
+2. Incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo interno não conhecido.
+VOTO
+O agravo não deve ser conhecido.
+O presente agravo interno não deve ser conhecido, pois, nos termos do que determina o artigo 1.021, § 1º, do CPC/2015, não houve impugnação efetiva e específica ao fundamento adotado na decisão ora agravada, qual seja: a incidência das Súmula 7/STJ.
+Ressalta-se que a parte agravante limitou-se a afirmar que "A r. decisão monocrática ora agravada não conheceu dor recurso especial sob o argumento de que, para decidir a demanda, seria necessário que este tribunal superior realize incursão no universo fático-probatório, agindo como terceira instância revisora. Data maxima venia, o decisum incorreu em equívoco e merece ser reformado. In casu, cumpre historiar, de forma sucinta, a situação. Como é de conhecimento comezinho, o constituinte, mediante juízo de razoabilidade, consagrava a isonomia (paridade) entre servidores ativos e inativos, no tocante à questão da remuneração e proventos devidos em razão da ocupação de cargos públicos. Logo, de acordo com o ordenamento jurídico devem ser estendidos aos aposentados e pensionistas quaisquer vantagens ou benefícios concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão. A Gratificação de Risco de Policiamento Ostensivo, por consistir em acréscimo remuneratório concedido indistintamente a todos os servidores públicos militares do Estado de Pernambuco, enquadra-se na regra de proteção consagrada nos referidos dispositivos constitucionais." (fl. 344 e-STJ)
+Tal afirmação revela combate não específico e inapto a reformar a decisão agravada, porque compete à parte agravante demonstrar de que forma a violação aos artigos suscitada nas razões recursais não depende de reanálise do conjunto fático-probatório dos autos.
+Incide, portanto, ao presente recurso a Súmula 182/STJ, que assim dispõe: "é inviável o agravo do Art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ilustrativamente:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de ag ravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravan te. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III c/c art. 1.021, § 1º, do Código de Processo Civil.
+III - Honorários recursais. Não cabi mento.
+IV - Agravo interno não conhecido.
+(AgInt no REsp 1.429.962/RS, Primeira Turma, Relatora Ministra Regina Helena Costa, DJe 2/8/2017)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
