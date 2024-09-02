@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se recurso especial interposto por CARLOS HENRIQUES DOS SANTOS, com fundamento no artigo 105, III, alínea "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL Ação de adjudicação compulsória Sentença de improcedência - Imóvel que não conta com matrícula individualizada, em razão do não desmembramento do lote - Providência que cabia exclusivamente à vendedora - Circunstância que não pode servir de óbice eterno ao cumprimento da obrigação assumida perante o comprador - Quitação do preço incontroversa - Possibilidade de se determinar, na fase de cumprimento de sentença, a tomada de medidas administrativas tendentes à regularização do imóvel, inclusive sob pena de multa diária, ressalvada a conversão em perdas e danos, se o caso, em liquidação - Precedentes deste E. TJSP - Sentença reformada - Recurso provido para julgar a ação procedente." (fl. 316 e-STJ).
+No recurso especial, o recorrente sustenta a existência de divergência jurisprudencial a respeito da interpretação dos arts. 195 e 237 da Lei nº 6.015/1973.
+Após a apresentação das contrarrazões (fls. 376/386 e-STJ), o recurso especial foi admitido na origem (fls. 390/391 e-STJ), ascendendo a esta Corte Superior.
+Por meio do Parecer de fls. 400/406 e-STJ, o Ministério Público Federal opina pelo não conhecimento do apelo nobre.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+De fato, o recurso não merece conhecimento, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie. Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E TUTELA DE URGÊNCIA. 1. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. 3. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. 4. DANO MORAL. IN RE IPSA. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula 284/STF.
+(..)."
+(AgInt no AREsp 2.203.568/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022 - grifou-se)
+Igualmente, é manifesta a deficiência na fundamentação recursal, haja vista que o acórdão recorrido não determinou a imediata adjudicação compulsória do imóvel, mas fixou prazo para que a parte recorrente tomasse as providências cabíveis em relação à regularização do imóvel por ela vendido.
+Nesse cenário, os dispositivos legais supostamente objeto de interpretação divergente não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura deficiência de fundamentação do recurso especial, atraindo os óbices das Súmulas nºs 283 e 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
