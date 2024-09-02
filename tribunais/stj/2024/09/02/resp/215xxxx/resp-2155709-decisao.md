@@ -1,0 +1,23 @@
+DECISÃO
+CLEITON RAMOS CARDOSO interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5003755-26.2023.4.04.7005.
+O recorrente foi condenado, pelo delito de descaminho , a 1 ano de reclusão, em regime aberto, e sua pena privativa de liberdade foi substituída por uma restritiva de direitos consistente em prestação de serviços à comunidade ou a entidades públicas.
+Neste recurso especial, a defesa indica violação do art. 65 do Código Penal. Alega que "deve ser possibilitada a redução da pena abaixo do mínimo legal, em virtude da aplicação da atenuante da confissão, alterando o entendimento até então predominante." (fl. 403).
+Apresentadas as contrarrazões, o recurso foi admitido na origem, e o Ministério Público Federal manifestou-se por seu não conhecimento (fls. 439-443).
+Decido.
+O recurso especial preenche os requisitos de admissibilidade, mas, no mérito, não comporta provimento.
+O acórdão recorrido, no tocante à segunda fase da dosimetria, está assim fundamentado (fl. 377):
+Na segunda fase, ausente circunstância agravante. Presente a atenuante da confissão espontânea, reconhecida na sentença pelo Juiz, que deixou de reduzir a sanção, com fundamento na Súmula nº 231 do STJ.
+A defesa pugnou pela redução da pena do réu abaixo do mínimo legal, aduzindo que "mediante aplicação das atenuantes a pena seja fixada abaixo do mínimo legal, estar-se-á adequando a reprimenda penal à "culpabilidade in concreto" do agente, verificada pelo juízo no bojo do processo criminal, e não pelo legislador de forma abstrata e alheia à realidade do caso".
+Conforme a jurisprudência deste Tribunal, "não há inconstitucionalidade ou ilegalidade no enunciado da súmula nº 231 do STJ" (ACR nº 5009922-15.2016.404.7002, 8ª T., Relator Desembargador Federal João Pedro Gebran Neto, por unanimidade, j. 25-08-2017).
+Nessa linha os seguintes arestos desta Corte:
+ ..
+Tal entendimento foi reafirmado pelo STF, em sede de Repercussão Geral, nos autos do RE nº 597.270/RS, em que a questão foi discutida à luz dos princípios constitucionais da reserva legal, da proporcionalidade e da individualização da pena:
+AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal. (STF, RE nº 597.270/RS, Tribunal Pleno, Ministro CEZAR PELUSO, julgado em 26/03/2009)
+Embora a Sexta Turma do STJ tenha aprovado a proposta de revisão da jurisprudência relacionada a Súmula 231 e remetidos os autos dos Recursos Especiais ns. 2.057.181/SE,2.052.085/TO e 1.869.764/MS à Terceira Seção, não houve determinação de sobrestamento dos feitos das causas que versem a respeito da temática. Logo, inexiste óbice ao julgamento da presente ação penal, prevalecendo, ainda, o entendimento de que a pena não pode ser reduzida abaixo do mínimo legal .
+O entendimento adotado confirma a orientação consolidada na Súmula n. 231 do STJ, segundo a qual a incidência de circunstância atenuante não pode implicar a redução da pena abaixo do mínimo legal.
+Com efeito, "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o  recorrente  não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+Ressalto, por oportuno, que a Terceira Seção do STJ, no julgamento dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS, de minha relatoria, sob o rito dos recursos repetitivos, em sessão realizada no dia 14/8/2024, decidiu, por maioria de votos, pelo não cancelamento da Súmula n. 231 do STJ. Na ocasião, fiquei vencido, mas aplico a decisão soberana do Colegiado, ressalvado entendimento pessoal sobre a matéria.
+A Seção concluiu que não caberia contrariar a seguinte orientação da Suprema Corte, ainda vigente, firmada no Tema n. 158 do STF: "Circunstância atenuante genérica não pode co nduzir à redução da pena abaixo do mínimo legal" (RE 597.270 QO-RG, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 26-03-2009, REPERCUSSÃO GERAL - MÉRITO DJe-104 DIVULG 04-06-2009 PUBLIC 05-06-2009 EMENT VOL-02363-11 PP-02257 LEXSTF v. 31, n. 366, 2009, p. 445-458).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
