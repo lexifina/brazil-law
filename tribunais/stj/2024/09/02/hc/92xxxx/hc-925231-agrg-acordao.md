@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO DECRETO N. 11.846/2023. CRIME PATRIMONIAL. REPARAÇÃO DE DANO À VÍTIMA. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É imperioso assinalar que, "" a  jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)" (AgRg no HC 623.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/03/2021)" (AgRg no REsp n. 1.960.472/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 16/12/2021.)
+2. No caso, a Corte de origem assinalou que "sequer há alegação de incapacidade econômica para afastar a reparação do dano, nos termos do art. 2º, XV, última parte do Decreto Presidencial n. 11.864/2023", além da incidência do princípio da especialidade sobre os delitos contra o patrimônio cometidos sem violência ou grave ameaça.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDRE LUIZ DOS SANTOS DUARTE interpõe agravo regimental contra decisum de fls. 50-52, em que deneguei a ordem.
+Nas razões do regimental, a defesa sustenta, em síntese, que "embora tratar-se de crime contra o patrimônio, o paciente faz jus à declaração do indulto com fulcro no inciso I, do art. 2º, do Decreto Presidencial 11.846/23, que prevê o resgate de lapso maior e o limite máximo de penas inferior, dispensando, por outro lado a reparação do dano ou a comprovação da impossibilidade de fazê-lo" (fl. 60).
+Pleiteia a reconsideração da decisão proferida ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO DECRETO N. 11.846/2023. CRIME PATRIMONIAL. REPARAÇÃO DE DANO À VÍTIMA. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É imperioso assinalar que, "" a  jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)" (AgRg no HC 623.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/03/2021)" (AgRg no REsp n. 1.960.472/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 16/12/2021.)
+2. No caso, a Corte de origem assinalou que "sequer há alegação de incapacidade econômica para afastar a reparação do dano, nos termos do art. 2º, XV, última parte do Decreto Presidencial n. 11.864/2023", além da incidência do princípio da especialidade sobre os delitos contra o patrimônio cometidos sem violência ou grave ameaça.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+Conforme explicitado anteriormente, no decisum impugnado, salientou o Juízo singular que "não há comprovação de que o sentenciado reparou o dano até 25/12/2023, nos termos do artigo 2º, inciso XV, última parte, do Decreto nº 11.864/2023, o que impede a concessão da benesse" (fl. 31).
+Consoante apontou a Corte de origem:
+O agravante afirma ter cumprido os requisitos necessário para a concessão do indulto, citando o art. 2º do Decreto Presidencial nº 11.846/2023. No entanto, alega que, apesar de ter cometido crime contra o patrimônio, o disposto no art. 2º, inc. XV do referido Decreto, não se aplica ao seu caso. Não explicou, porém, os fundamentos de seu pleito.
+Nesse ponto, observo que sequer há alegação de incapacidade econômica para afastar a reparação do dano, nos termos do art. 2º, XV, última parte do Decreto Presidencial nº 11.864/2023.
+A afirmação de que o pedido de indulto está baseado no inciso I do art. 2º do Decreto nº 11.846/2023, não convence, já que, o princípio da especialidade atrai a aplicação da hipótese reservada aos delitos contra o patrimônio cometidos sem violência ou grave ameaça, exatamente o caso dos autos (fls. 41-42, destaquei).
+A esse respeito, " é  imperioso assinalar que, "" a  jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)" (AgRg no HC 623.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/03/2021)" (AgRg no REsp n. 1.960.472/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 16/12/2021.)" (AgRg no HC n. 824.862/RN, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 28/8/2023, grifei.).
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
