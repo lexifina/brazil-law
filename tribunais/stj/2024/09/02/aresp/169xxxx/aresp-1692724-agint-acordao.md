@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno, interposto por CHINA CONSTRUCTION BANK (BRASIL BANCO MÚLTIPLO S/A), contra decisão desta Relatoria, de fls. 1046/1048, que conheceu do agravo para negar provimento ao recurso especial, em razão da incidência da Súmula 83/STJ.
+Em suas razões recursais, a parte agravante impugna os fundamentos da decisão agravada e reitera o mérito recursal, sustentando, em síntese, que "foi apreciado (embora indeferido) o pedido de penhora/penhorabilidade de valores de previdência privada/VGBL" (fl. 1089).
+Devidamente i ntimada, a parte agravada apresentou impugnação às fls. 1099/1105.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE DE O TRIBUNAL ANALISAR QUESTÃO AINDA NÃO APRECIADA PELO JUÍZO NATURAL. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Súmula 83/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada.
+Na hipótese, o Tribunal de origem negou provimento ao agravo de instrumento interposto pela ora agravante contra decisão que "indeferiu o pedido de transferência da quantia bloqueada do plano VGBL, uma vez que deve ser feita como penhora de direito, ficando ao critério do titular sub-rogado, após a alienação, requerer ou não o seu resgate" (fl. 968).
+Na ocasião, a Corte a quo consignou que a tese acerca da possibilidade de penhora do benefício não poderia ser apreciada por ausência de manifestação da instância ordinária sobre o ponto em questão. Além disso, concluiu que a transferência do saldo devedor no momento é prematura, pois pressupõe a observância de devido processo legal executivo, in verbis:
+"A princípio não cabe apreciar a alegação de penhorabilidade do benefício porquanto em contrário a r. decisão vergastada não se pronunciou.
+Se e quando isso for alegado pelo prejudicado ou se isso for decidido é que será possível tal análise pelo Tribunal.
+(..)
+Assim, como se verifica, não é caso de simplesmente se pleitear a transferência do saldo como pretende o agravante, o qual pode, todavia, requerer a adjudicação, e levantar o valor restante após realizados os descontos diante do que é devido ao Fisco.
+Ou seja, caberá a transferência do saldo devedor e não sem a observância do devido processo legal, mais especificamente mediante respeito às regras procedimentais do processo executivo." (Fls. 968/969).
+"Antes de se determinar transferência incumbe ao Meritíssimo Juízo de primeiro grau decidir acerca da penhorabilidade ou não do valor existente em plano de previdência privada que pode ser utilizado como pecúlio para a inatividade do trabalhador mediante depósitos mensais compatíveis com os seus ganhos ou como meio de blindagem patrimonial, em especial quando há aportes de altas quantias de forma a esvaziar o patrimônio do devedor. Como esclarecido, isso ainda não foi decidido, de forma que prematuro ordenar a transferência sem tal providência." (fls. 1002/1003)
+No excerto transcrito, constata-se que o egrégio Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos e da natureza da lide, consignou categoricamente que o MM. Juízo de primeiro grau ainda não decidiu acerca da penhorabilidade ou não do valor existente em plano de previdência privada, que pode ser utilizado como pecúlio para a inatividade do trabalhador mediante depósitos mensais compatíveis com os seus ganhos ou como meio de blindagem patrimonial.
+Firme nesse fundamento do não conhecimento da matéria de per saltum, o Tribunal a quo deixou de conhecer da matéria e não emitiu juízo de valor acerca do tema, evitando as indevidas supressão de instância e inobservância do princípio do duplo grau de jurisdição.
+Nesse contexto, verifica-se que o entendimento esposado pelo Tribunal de origem, no julgamento do agravo de instrumento, está em consonância com a pacífica jurisprudência do Superior Tribunal de Justiça assente no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo J uízo de origem, a qual não pode ser objeto de deliberação pela instância ad quem, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. A pretensão recursal esbarra no óbice da Súmula 7 do STJ, máxime porque a análise acerca da violação ou não da coisa julgada não pode ser apreciado sem o revolvimento do acervo fático-probatório dos autos. Precedentes.
+3. O Tribunal estadual julgou a lide em conformidade com o entendimento desta Corte no sentido da impossibilidade de análise de questão que ainda não foi apreciada pelo juízo de origem, não pode ser objeto de deliberação, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.931.075/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/5/2023, DJe de 11/5/2023)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. AUSÊNCIA DE OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SUBSTITUIÇÃO PROCESSUAL, DESNECESSIDADE DE NOTIFICAÇÃO DO DEVEDOR PARA EXIGÊNCIA DA DÍVIDA. CONFUSÃO DO CRÉDITO. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não se fala em omissão do acórdão ou em negativa de prestação jurisdicional quando o Tribunal de origem não conhece de determinada matéria que não foi submetida ao juízo de primeiro grau, sob pena de supressão de instância.
+2. A cessão de crédito não possui eficácia contra o devedor, senão quando devidamente notificado, mas não significa que a falta de notificação impede a exigência da dívida.
+3. O acórdão recorrido entendeu que ocorreu a confusão do crédito, sendo que alterar a conclusão alcançada pelo colegiado estadual demandaria reexame fático-probatório, vedado no âmbito do recurso especial por força da Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no REsp n. 1.935.154/MT, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/2/2022, DJe de 21/2/2022)
+"AGRAVO INTERNO EM AGRAVO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. PENSÃO RECEBIDA MENSALMENTE PELA DEVEDORA. VERBA REMUNERATÓRIA. IMPENHORABILIDADE. SÚMULA 83/STJ. ARGUMENTO DE QUE A PENHORA NÃO AFETARÁ A SUBSISTÊNCIA DA DEVEDORA E SERÁ CAPAZ DE AMORTIZAR A DÍVIDA. SÚMULAS 7 DO STJ. SUPRESSÃO DE INSTÂNCIA. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de identidade do caso em exame com um precedente desta c. Corte Superior de Justiça em que se autorizou a penhora de salário para saldar dívida não alimentícia, em razão de não afetar a subsistência do devedor e ser capaz de amortizar o crédito exequendo, encontra óbice na Súmula 83 do STJ, que determina a pronta rejeição dos recursos a ele dirigidos, quando o entendimento adotado pelo e. Tribunal de origem estiver em conformidade com a jurisprudência consolidada do STJ.
+2. A invocação de que a situação dos autos apresenta peculiaridade de se tratar de devedora de alta renda, autorizando a penhora de sua pensão por não atingir a subsistência dela ou de sua família e ser capaz de amortizar adequadamente o crédito exequendo, encontra dois óbices: (i) o tema não foi tratado no v. acórdão recorrido ou na decisão de Primeiro Grau agravada, induzindo que a pronuncia sobre aludido tema implicaria supressão de instância; (ii) a questão demandaria o revolvimento das premissas fático-probatórias estabelecidas pelas instâncias ordinárias, o que é vedado em sede de recurso especial, nos termos do enunciado das Súmulas 5 e 7 do STJ.
+3. Agravo Interno desprovido."
+(AgInt no AREsp n. 1.441.417/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/5/2019, DJe de 4/6/2019)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. CAPITALIZAÇÃO ANUAL DE JUROS. INOVAÇÃO RECURSAL. NECESSIDADE DE PACTUAÇÃO EXPRESSA DA CAPITALIZAÇÃO, SEJA MENSAL OU ANUAL. AUSÊNCIA DOS CONTRATOS. ÔNUS DA INSTITUIÇÃO FINANCEIRA. TAXAS, TARIFAS E DEMAIS ENCARGOS. EXCLUSÃO ANTE A AUSÊNCIA DE PROVA DE CONTRATAÇÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A legitimidade da cobrança da capitalização anual deixou de ser suscitada perante o primeiro grau, sendo vedado ao Tribunal de origem apreciar o tema no julgamento da apelação, sob pena de supressão de instância e inobservância do princípio do duplo grau de jurisdição.
+2. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do AgRg no AREsp 429.029/PR, Rel. Ministro MARCO BUZZI, DJe de 14/04/2016, consolidou o entendimento de que a cobrança de juros capitalizados - inclusive na periodicidade anual - só é permitida quando houver expressa pactuação. Nas hipóteses em que o contrato não é juntado, é inviável presumir o ajuste do encargo, mesmo sob a periodicidade anual.
+3. É necessária a expressa previsão contratual das tarifas e demais encargos bancários para que possam ser cobrados pela instituição financeira. Não juntados aos autos os contratos, deve a instituição financeira suportar o ônus da prova, afastando-se as respectivas cobranças.
+4. A sentença suficientemente fundamentada que acata laudo pericial apontando saldo credor em favor da autora, com a ressalva de que a parte ré não se desincumbiu do ônus da prova, abstendo-se de apresentar os contratos e as autorizações para débito em conta-corrente, imprescindíveis à apuração das contas, não ofende os arts. 131 e 436 do CPC/73.
+5. Agravo interno não provido."
+(AgInt no REsp n. 1.414.764/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/2/2017, DJe de 13/3/2017)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NULIDADE DO TÍTULO. SUPRESSÃO DE INSTÂNCIA. EFEITO TRANSLATIVO DO RECURSO. SÚMULA N. 83/STJ.
+1. Inviável a apreciação de questões que ainda não foram discutidas no juízo sentenciante, sob pena de se incorrer em supressão de instância.
+2. Ainda que a matéria de ordem pública seja ventilada em recurso especial, é indispensável, para que não ocorra supressão de instância, que a tese tenha sido apreciada pela origem.
+2. Agravo regimental desprovido."
+(AgRg no AREsp n. 700.340/MS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 3/12/2015, DJe de 14/12/2015)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
