@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS REJEITADOS.
+1. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. Embargos declaratórios rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão, da minha relatoria, que negou provimento ao agravo regimental no habeas corpus, impetrado em benefício do paciente, nos termos da seguinte ementa (e-STJ fl. 164):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL. CONCURSO FORMAL. CRIME PRATICADO CONTRA 5 VÍTIMAS. ADEQUAÇÃO DA FRAÇÃO DE 1/3 PARA O ACRÉSCIMO. AGRAVO NÃO PROVIDO.
+1. Inicialmente, relembro que o habeas corpus não é a via adequada para apreciar pedido de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio constitucional, caracterizado pelo rito célere e por não admitir dilação probatória.
+2. As instâncias ordinárias embasaram a condenação do paciente em elementos fáticos e probatórios concretos, em especial no confronto das declarações prestadas pelos ofendidos, policiais militares e informantes (tanto no inquérito, quanto em juízo) com as demais provas coligidas.
+3. Desconstituir tal entendimento, para absolver o paciente, implicaria aprofundado reexame dos fatos e provas carreados aos autos, procedimento que é incompatível com a via estreita do habeas corpus.
+4. Tendo o delito sido praticado contra 5 vítimas, correta a adoção da fração de 1/3 em razão do concurso formal. Ademais, a Corte local não examinou a questão sob a ótica sugerida pela defesa nesta instância - de que somente teriam sido atingidos os patrimônios de 3 vítimas. Assim, constatada a ausência do exame do tema na origem, não é possível a sua apreciação pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Agravo regimental não provido.
+O embargante sustenta, nesta oportunidade, que houve omissão no acórdão, tendo em vista não ter havido menção à tese defensiva principal: insuficiência de elementos indiciários não confirmados na instrução para a condenação, nos termos do art. 155, do CPP (e-STJ, fl. 184). Acrescenta não ser necessário, para o deslinde da controvérsia, o revolvimento de provas, mas apenas a revaloração, por esta Corte, do peso probatório atribuído aos depoimentos em fase policial e judicial, já que os fatos incontroversos já foram delineados pela origem (e-STJ, fl. 184).
+Alega que, embora o acórdão da origem aponte que o Policial Militar tenha confirmado a participação do Embargante, por outro lado, trata-se de TESTEMUNHA DE OUVIR dizer a qual, também pelo entendimento desta 5ª Turma, não é suficiente para embasar pronúncia, muito menos condenação (e-STJ, fl. 184). Aduz, assim, omissão em relação à violação ao art. 155 do CP, mormente pelo fato de nenhuma outra testemunha ou informante ter presenciado o planejamento da ação criminosa, sendo os adolescentes ouvidos os únicos que poderiam dar conta sobre a participação do Embargante. Todavia, aqueles afastaram sua responsabilidade penal em sede judicial, sob o crivo do contraditório e da ampla defesa (e-STJ, fl. 186).
+Aponta, ainda, a ocorrência de erro material em relação à aventada supressão de instância com relação ao concurso formal, uma vez que a Corte local teria enfrentado a tese defensiva, ao considerar vítima todos aqueles que sofreram eventual grave ameaça ou violência, entendimento este que não se coaduna com a jurisprudência desta Corte, que considera o número de patrimônios afetados. Acrescenta, por fim, que se trata de questão unicamente de direito, já que, desde a denúncia, é fato incontroverso a existência de apenas 3 patrimônios atingidos.
+Pugna, assim, pelo acolhimento dos presentes embargos, com efeitos infringentes, a fim de que seja suprida a apontada omissão, no tocante à contrariedade ao art. 155, do CPP. Ademais, pleiteia o reconhecimento de erro material, porquanto a Corte local se manifestou acerca da fração do aumento pelo concurso formal, considerando, no entanto, a quantidade de vítimas que sofreram violência.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO JULGADO. EMBARGOS REJEITADOS.
+1. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+2. Embargos declaratórios rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+No caso em tela, o que realmente o embargante pretende é o novo julgamento da causa, o que não se admite, porquanto "conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração" (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Min. JORGE MUSSI, Terceira Seção, DJe 20/2/2015).
+Observa-se que os argumentos contidos nas razões recursais consistem em teses para invalidar as provas da autoria delitiva e para alterar a fração de acréscimo do concurso formal.
+Ocorre que, como bem justificado no voto proferido no agravo interno, o afastamento da conclusão a que chegaram as instâncias locais quanto à autoria delitiva requer reexame do arcabouço probatório. Além disso, não houve pronunciamento da Corte local sobre a tese de que deve ser considerado o número de patrimônios atingidos para o cálculo do acréscimo pelo concurso formal, o que impede a análise de tema por esta Corte.
+Dessa forma, rejeito os embargos de declaração.
+É como voto.
