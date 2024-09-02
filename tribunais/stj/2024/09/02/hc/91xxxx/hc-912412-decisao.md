@@ -1,0 +1,8 @@
+DECISÃO
+JULIANO ANTONIO MORAES VARELA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 8000260-56.2024.8.24.0033, em que foi mantida a decisão "que negou o pedido de comutação de pena previsto no Decreto Presidencial n. 11.846/2023" (fl. 47).
+Assere a defesa que "a comutação do art. 3º do Decreto Presidencial n. 11.846/2023, será concedida ainda que, até 25 de dezembro de 2023, o reeducando tenha sido beneficiado com comutações por decretos anteriores, devendo a norma ser interpretada globalmente" (fl. 10).
+No decisum impugnado, salientou a Corte de origem que " o  Juízo a quo indeferiu o pedido haja vista o apenado já ter sido agraciado com comutação anterior. Ressaltou a Magistrada na decisão agravada que "Muito embora este requisito consistente em não ter sido beneficiado com comutações anteriores seja novo, em comparações a outros decretos de indulto/comutação, é importante observar que como se trata de discricionariedade do Presidente da República a concessão da benesse, não se verifica qualquer ilegalidade na criação de tal requisito" (evento 1, AGRAVO1)" (fl. 47).
+A esse respeito, em conjuntura assemelhada, " o  Superior Tribunal de Justiça pacificou o entendimento de que a exegese do art. 7.º, parágrafo único, do Decreto n.º 9.246/2017, expressamente limita o deferimento da comutação a quem não tenha obtido comutação decorrente de decreto anterior" (AgRg no HC n. 774.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/4/2023.)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
