@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo regimental interposto por HENRIQUE AMORIM DA CRUZ contra decisão monocrática, por mim proferida, a qual não conheceu o habeas corpus impetrado em seu favor.
+Na espécie, pretendia o agravante o reconhecimento da minorante do tráfico privilegiado, com o consequente abrandamento do regime prisional e a substituição da pena privativa dec liberdade por restritivas de direitos.
+Insiste o acusado na mesma tese, defendendo que faz jus a incidência do art. 33, § 4.º, da Lei n. 11.343/06. Pugna, ao final, pela reconsideração da decisão agravada ou pela remessa do recurso ao Colegiado para julgamento.
+Por não reconsiderar a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. ELEMENTOS CONCRETOS. DEDICAÇÃO A ATIVIDADE CRIMINOSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do §4º do art. 33 da Lei n. 11.343/2006, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+2. No caso concreto, além das circunstâncias do fato, o relatório policial indica o agravante como gerente do ponto de tráfico, o que evidencia a dedicação à atividade criminosa, impeditiva da incidência da minorante do tráfico privilegiado.
+3. Agravo regimental desprovido.
+VOTO
+Pretende o agravante seja reformada a decisão agravada, a fim de que seja reconhecido o tráfico privilegiado.
+Contudo, a ele não assiste razão.
+Nos termos do §4º do art. 33 da Lei n. 11.343/06, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+A sentença condenatória afastou a mencionada minorante, nos seguintes termos:
+"A prova testemunhal produzida indica a apreensão de R$ 1.569,00 em poder do réu, no caso, proveniente da venda de 156 cápsulas de cocaína, o que demonstra que a atuação profissional do réu na traficância, o qual não é um mero debutante na prática delituosa. Anoto que nos presentes autos houve a apreensão de celular do réu e nas degravações restou apurado que o réu, vulgo "Rick" ou "Tio Rick", é o fornecedor e gerente de uma biqueira denominada "biqueira do Coringa", localizada na Rua Francisco Magioni, Jardim Santana, em Cravinhos, conforme relatório policial apresentado no processo nº 1500510-96.2022.8.26.0153 (fls. 144)." (e-STJ, fls. 78-79)
+O Tribunal local consignou que:
+" ..  Finalmente, respeitados entendimentos diversos, o redutor previsto no §4º do artigo 33 da Lei de Drogas era mesmo inaplicável, tendo em vista que o réu, muito embora primário e sem antecedentes, demonstrou séria dedicação ao comércio nefasto ao se ver novamente envolvido na prática do comércio nefasto poucos dias após sua soltura (fls.133/134). De mais a mais, os policiais foram uníssonos ao informar que Henrique continua sendo alvo de denúncias sobre a prática do tráfico de drogas na região, bem como responsável por uma biqueira localizada no local dos fatos." (e-STJ, fl. 95).
+Ao contrário do que alega a Defesa, a sentença condenatória indicou relatório policial que vincula o agravante ao fornecimento e gerenciamento do tráfico na "biqueira do Coringa" (e-STJ, fl. 144), o que evidencia a dedicação à atividade criminosa, impeditiva da incidência da pretendida minorante.
+Cito precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO DELITO. NATUREZA E QUANTIDADE DE ENTORPECENTE APREENDIDO. AUSÊNCIA DE ILEGALIDADE NA FRAÇÃO DE AUMENTO OPERADA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. CIRCUNSTÂNCIAS APURADAS NOS AUTOS QUE DENOTAM A DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL NA VIA ELEITA. PRECEDENTES. ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. MONTANTE DA PENA E CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PRECEDENTES. SANÇÕES INALTERADAS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador e está atrelada às particularidades fáticas do caso concreto, de forma que somente é passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade na fixação da pena.
+2. Em se tratando de crime de tráfico de drogas, como no caso, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+3. Na hipótese, a pena-base foi exasperada de forma proporcional, em razão da grande quantidade, a variedade e da natureza especialmente deletéria das drogas apreendidas, elementos que claramente denotam a gravidade concreta da conduta, a exigir uma resposta mais enfática do julgador na fixação da pena. Precedentes.
+4. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+6. Como assentado pelas instâncias de origem, o acervo probatório colhidos nos autos denota a dedicação do paciente a atividade criminosa, porquanto ficou apurado que o paciente figura na condição de gerente do tráfico, exercendo participação importante em organização criminosa destinada a tal finalidade.
+7. Desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Precedentes.
+8. Quanto ao regime prisional, a existência de circunstância judicial desfavorável, a qual embasou a exasperação da basilar, justifica a fixação do regime prisional mais gravoso, nos termos do art. 33, §§ 2º e 3º, do Código Penal. Precedentes.
+9. Ante a manutenção da pena nos patamares fixados pelo acórdão impugnado, é inviável a substituição da pena privativa de liberdade por restritiva de direitos, ante a vedação prevista no art. 44 do Código Penal.
+10. Agravo regimental não provido. (AgRg no HC n. 882.757/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/4/2024, DJe de 29/4/2024.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS. INVASÃO DE DOMICÍLIO. FUNDADAS RAZÕES. JUSTA CAUSA. COMPROVAÇÃO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO APLICAÇÃO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. REGIME FECHADO. NATUREZA E DIVERSIDADE DE ENTORPECENTES APREENDIDOS.
+1. Consoante entendimento desta Corte, "nos crimes permanentes, tal como o tráfico de drogas, o estado de flagrância se protrai no tempo, o que, todavia, não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que, naquele momento, dentro da residência, está diante de situação de flagrante delito" (RHC 134.894/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021.)
+2. As instâncias ordinárias concluíram que os agentes públicos (policiais) tinham fundadas suspeitas da prática de crime na casa do acusado, tendo em vista que, ao avistar os policiais, dispensou na rua uma sacola contendo diversos eppendorfs de cocaína (63gr), evadindo-se para o interior de sua residência.
+3. As circunstâncias que antecederam o ingresso dos policiais no domicílio do acusado evidenciaram, de modo objetivo, as fundadas razões que justificaram o ingresso no imóvel em que se residia o paciente, não se constatando, portanto, ilicitude das provas obtidas.
+4. O indeferimento da minorante do tráfico se deu não apenas diante da natureza e expressiva quantidade de entorpecentes apreendidos (na mochila, 63,0g de cocaína distribuídos em 314 eppendorfs; e, dentro da residência, mais 255,0g de cocaína, uma balança de precisão, um liquidificador com resquícios de droga, R$128,00 em espécie e uma arma de fogo municiada), mas também pelas circunstâncias do fato, diante das informações de que o paciente é "gerente do tráfico" local.
+5. Quanto ao regime de cumprimento de pena imposto, a natureza e a quantidade dos entorpecentes encontrados justificam a imposição do regime prisional mais severo, sem que tal medida constitua constrangimento ilegal.
+6. Habeas corpus denegado. (HC n. 683.211/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
