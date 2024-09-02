@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILLY HENKE (espólio) e representantes, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado (e-STJ, fls. 71-72):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA DE CRÉDITO RURAL. BANCO DO BRASIL. PROPOSITURA. FORO. SEDE. AUSÊNCIA DE RAZOABILIDADE. DOMICÍLIO DO EXEQUENTE E DA CELEBRAÇÃO DO CONTRATO. FORO COMPETENTE. EXCEÇÃO DE INCOMPETÊNCIA. ACOLHIMENTO. RECURSO CONHECIDO E DESPROVIDO. DECISÃO MANTIDA.
+1. A regra do foro do lugar da sede da pessoa jurídica para processar e julgar a ação em que for ré, que está prevista no art. 53, inciso III, alínea "a", do CPC, apenas deve ter aplicabilidade se a causa não versar sobre transação efetivada especificamente com uma filial, agência ou sucursal, tendo em vista que em tal circunstância deve incidir a regra da alínea "b" do mesmo dispositivo legal.
+2. Não se mostra razoável reconhecer a competência da Justiça do Distrito Federal para processar e julgar todas as ações de Liquidação de Sentença de Ação Coletiva propostas contra o Banco do Brasil unicamente por se tratar do foro da sede da referida instituição financeira, notadamente quando há disposição legal com fixação da competência no local de assunção da obrigação.
+3. In casu, o processo ainda se encontra em fase inicial, sendo certo que sequer houve ampla instrução processual, bem como o agravado suscitou exceção de incompetência, de modo que não há que se falar em excepcional prorrogação da competência, com base nos princípios da celeridade e da economia processuais (arts. 4º e 6º do CPC).
+4. Assim, deve ser mantida a decisão agravada que acolheu a exceção de incompetência suscitada pelo requerido e determinou a remessa dos autos para uma das Varas de competência cível da Comarca de São Félix do Araguaia/MT.
+5. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração pela parte ora insurgente, foram rejeitados (e-STJ, fls. 130-139).
+Em suas razões de recurso especial, a parte recorrente alega violação dos arts. 46 e 53, III, a, 337, § 5º, do CPC/2015.
+Preliminarmente, pugnou pelo efeito suspensivo ao recurso especial.
+Sustenta ainda pela propositura da ação para fins de cumprimento individual de sentença coletiva em Brasília/DF, sede administrativa do banco demandado, ao argumento de que a escolha do foro é prerrogativa do consumidor, tendo em vista a competência relativa.
+Contrarrazões apresentadas às fls. 156-183 (e-STJ).
+O processamento do recurso especial foi admitido na origem e o pedido de efeito suspensivo indeferido (e-STJ, fls. 191-193).
+Brevemente relatado, decido.
+Cuida-se, a hipótese, de liquidação provisória, proposta exclusivamente em desfavor do Banco do Brasil, referente às diferenças da correção do saldo devedor de cédulas de crédito rural no mês de março de 1990 (ACP nº 94.008514-1).
+Com efeito, esta Corte Superior possui entendimento consolidado no sentido de que é possível ingressar com a execução individual de sentença coletiva no foro do domicílio do beneficiário ou no juízo em que foi processada e julgada a ação coletiva.
+Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUIZES VINCULADOS A TRIBUNAIS DIVERSOS. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A UNIÃO (DIFERENÇAS RELATIVAS AO FUNDEF). AJUIZAMENTO NO DISTRITO FEDERAL. POSSIBILIDADE. § 2º DO ART. 109 DA CONSTITUÇÃO FEDERAL. MÁXIMA EFETIVIDADE DO DISPOSITIVO CONSTITUCIONAL. DISTINGUISHING EM RELAÇÃO AO RESP N. 1.243.887/PR, CORTE ESPECIAL, DJE 12/12/2011, PROCESSADO SOB O REGIME DO ART. 543-C DO CPC/1973. SUPERAÇÃO DO ENTENDIMENTO FIRMADO NO RESP N. 1.991.739/GO, SEGUNDA TURMA DESTA CORTE, DJE 19/12/2022. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
+ ..
+3. A Corte Especial deste Superior Tribunal de Justiça, quando do julgamento do REsp n. 1.243.887/PR, Rel. Ministro Luis Felipe Salomão, DJe 12/12/2011, processado sob o regime do art. 543-C do CPC/1973, adotou entendimento sobre a competência para julgar a execução individual do título judicial em Ação Civil Pública, cabendo ao exequente escolher entre (i) o foro em que a Ação Coletiva foi processada e julgada e (ii) o foro do seu domicílio, nos termos dos arts. 98, § 2º, I, e 101, I, do CDC.
+ ..
+7. Conflito de competência conhecido para declarar competente o Juízo Federal da 17ª Vara Cível de Brasília SJ/DF (suscitado). (CC n. 199.938/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2023, DJe de 17/10/2023)
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. AÇÃO COLETIVA.
+EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE DE AJUIZAMENTO DA EXECUÇÃO COLETIVA EM FORO DIVERSO AO FORO DO JUÍZO SENTENCIANTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. TEMAS REPETITIVOS 480 E 481. ESCOLHA NÃO ALEATÓRIA DE FORO. FORO DE DOMICÍLIO DO AUTOR. AGRAVO INTERNO NÃO PROVIDO.
+1. Na forma da jurisprudência desta Corte, a execução de sentença proferida em ação civil pública não segue as regras comuns de competência prevista no art. 516 do CPC/2015, pois ausente interesse apto a justificar a prevenção do Juízo que julgou a ação de conhecimento.
+2. A facilitação da defesa dos direitos do consumidor em juízo mitiga o rigor da regra de competência funcional entre o juízo da execução e o da condenação, sendo, porém, vedada a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, tampouco o de eleição ou mesmo o do local de cumprimento da obrigação.
+3. Caso em que a execução coletiva de sentença condenatória favorável a grupo de consumidores foi ajuizada no foro do domicílio do executado, local em que também domiciliado parte dos beneficiados, não havendo cogitar-se do denominado forum non conveniens.
+4. Agravo interno não provido. (AgInt nos EDcl no CC n. 186.202/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 30/8/2022)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APLICAÇÃO DOS PRINCÍPIOS DA FUNGIBILIDADE RECURSAL E ECONOMIA PROCESSUAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. IDEC X BANCO DO BRASIL. CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. ABRANGÊNCIA NACIONAL DA DEMANDA. COISA JULGADA. FACULDADE DO CONSUMIDOR DE PROPOR O CUMPRIMENTO DA SENTENÇA NO DISTRITO FEDERAL OU NO PRÓPRIO DOMICÍLIO.
+ ..
+3. Forçoso reconhecer aos beneficiários/poupadores a faculdade de ingressar com o cumprimento individual da sentença coletiva no foro do próprio domicílio ou no território do juízo sentenciante (Distrito Federal).
+4. Embargos de declaração recebidos como agravo regimental a que se nega provimento, com aplicação de multa.(EDcl no REsp n. 1.389.127/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/3/2014, DJe de 25/4/2014.)
+Sendo assim, cabe ao exequente a escolha do foro para ingressar com a execução da sentença proferida em ação coletiva.
+No caso, a parte elegeu o foro do juízo sentenciante para o cumprimento de sentença, de modo que, tratando-se de competência relativa, é vedada a sua declinação de ofício, consoante o teor da Súmula 33/STJ, que assim dispõe: "A incompetência relativa não pode ser declarada de ofício".
+Por conseguinte, constatada a divergência entre a conclusão adotada pela Corte de origem e o entendimento do Superior Tribunal de Justiça a respeito da matéria, impõe-se a reforma do acórdão impugnado para determinar que a demanda seja processada e julgada no foro eleito pelo recorrente.
+Ante o exposto, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para prosseguimento do feito.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA COLETIVA. RELAÇÃO DE CONSUMO. POSSIBILIDADE DA ESCOLHA DO FORO. COMPETÊNCIA RELATIVA. DECLÍNIO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ. AÇÃO PROPOSTA NO FORO DE DOMICÍLIO DO RÉU. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
