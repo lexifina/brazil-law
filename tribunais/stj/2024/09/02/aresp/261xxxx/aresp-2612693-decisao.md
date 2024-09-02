@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por ASSOCIAÇÃO COMUNITÁRIA DO POVOADO ARACAS E OUTROS, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 149, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INTERDITO PROIBITORIO. REQUISITOS DO ART. 567 DO CPC.
+I - Na ação de interdito proibitório cabe ao autor provar a sua posse, a ameaça de turbação ou de esbulho praticada pelo réu e a data da ameaça.
+II - Comprovado os requisitos deve ser deferida a medida.
+Embargos de declaração opostos e rejeitados na origem pelo acórdão de fls. 197-216, e-STJ.
+Nas razões do recurso especial (fls. 218-225, e-STJ), os insurgentes apontam ofensa ao artigo 567 do CPC, porquanto não preenchido o requisito da posse antiga para o deferimento da liminar em interdito proibitório.
+Sem contrarrazões (fl. 228, e-STJ).
+Em juízo prévio de admissibilidade (fls. 229-234, e-STJ), a Corte de origem negou seguimento ao apelo nobre, dando ensejo à interposição do presente agravo (fls. 235-242, e-STJ), visando destrancar o processamento da insurgência.
+Sem contraminuta (fl. 244, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A controvérsia limita-se à verificação acerca de eventual ofensa ao artigo 567 do CPC. Para tanto, os recorrentes afirmam que não restou preenchido o requisito da posse antiga para o deferimento de liminar em interdito proibitório.
+O Tribunal de origem decidiu a controvérsia com base na seguinte fundamentação (fls. 150-151, e-STJ):
+A questão a ser analisada nos presentes autos refere-se sobre os requisitos para a concessão liminar do interdito proibitório.
+ ..
+Constitui ônus do autor provar sua posse, seja direta ou indireta, e a eminência da turbação ou esbulho por parte do réu. Presentes tais requisitos, é imperiosa a concessão do mandado proibitório.
+No presente caso, o agravante alega que não há discussão administrativa sobre as matrículas do imóvel em questão, pois o Processo Administrativo nº 16.927/2019 julgado pela Corregedoria Geral de Justiça não cancelou a matrícula impugnada, demonstrando que o mesmo é proprietário e possuidor da área.
+Argumentaram os agravados que a atividade desenvolvida pelo recorrente seria prejudicial à saúde dos moradores. Ocorre que conforme inquérito policial instaurado para apurar a existência de contaminação e intoxicação com agrotóxicos na localidade, a conclusão da perícia foi por sua inexistência.
+Além disso, o recorrente comprovou possuir licença ambiental para a exploração da área válida até 10/07/23, de forma a demonstrar que a atividade agropastoril por ele exercida encontra-se até o momento autorizada.
+Destaco que a referida licença comprova a destinação social à terra rural.
+ ..
+Desse modo, entendo presente os requisitos para a concessão do interdito proibitório, em especial diante da ameaça de turbação que foi comunicada as autoridade policiais e o histórico de conflitos na região.  grifou-se .
+Como se verifica, o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, concluiu pela presença dos requisitos necessários à concessão do interdito proibitório, especialmente diante da ameaça de turbação e do histórico de conflitos na região.
+Com efeito, para derruir as conclusões contidas no decisum recorrido, no sentido de aferir a existência dos requisitos necessários ao deferimento do interdito proibitório, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA. REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AOS ARTS. 1.202 E 1.211 DO CÓDIGO CIVIL. ESBULHO. DIREITO DE RETENÇÃO NÃO COMPROVADO. POSSE INJUSTA E DE MÁ-FÉ. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO. 1. Rever o acórdão recorrido e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como a interpretação de cláusulas contratuais, providências vedadas em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ. 2. Agravo interno não provido. (AgInt no AREsp n. 1.794.855/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/5/2021.) (grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSIGNAÇÃO EM PAGAMENTO. DÚVIDA DA TITULARIDADE DO CRÉDITO. LEGITIMIDADE DO ADQUIRENTE QUE POSSUI REGISTRO DO TÍTULO AQUISITIVO DA PROPRIEDADE. PRECEDENTES. REVISÃO DOS FUNDAMENTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A revisão da conclusão da Corte local, a fim de reconhecer que o agravado jamais deteve a posse sobre o imóvel objeto da contenda seria imprescindível exceder os fundamentos colacionados no acórdão recorrido e adentrar no exame das provas, providência vedada a esta Corte Superior, em sede de recurso especial ante o óbice da Súmula 7 do STJ. 2. Nos termos da jurisprudência firmada nesta Corte Superior, a comprovação da propriedade de bem imóvel somente se faz por meio da apresentação da escritura devidamente registrada no Cartório de Registro de Imóveis competente, nos termos dos arts. 1.227 e 1.245 do Código Civil. 3. Agravo interno não provido. (AgInt no AREsp 1272596/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 21/08/2018) (grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO DE POSSE 1. POSSE DO IMÓVEL. TURBAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 2. AGRAVO INTERNO DESPROVIDO. 1. A alteração das conclusões adotadas pela Corte de origem, quanto à comprovação pelo recorrido da posse do imóvel objeto da lide, bem como a turbação demandariam, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, impossibilitando o conhecimento do recurso por ambas as alíneas do permissivo constitucional. 2. Agravo interno a que se nega provimento. (AgInt no AREsp 1142773/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/05/2018, DJe 25/05/2018) (grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DE REINTEGRAÇÃO DE POSSE. POSSE PRETÉRITA E PRESSUPOSTOS DA AÇÃO. COMPROVAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. ART. 105, III, A E C, DA CF/88. DECISÃO MANTIDA. (..) 2. A alteração das conclusões do acórdão recorrido de que foram preenchidos os requisitos necessários à propositura da ação de reintegração de posse, uma vez comprovados o comodato verbal e o esbulho, exige reapreciação do acervo fático-probatório da deman da, o que faz incidir o óbice da Súmula nº 7 do STJ. 3. A Súmula nº 7 desta Corte também se aplica aos recursos interpostos pela alínea c do permissivo constitucional. 4. Agravo regimental não provido. (AgRg no AREsp n. 618.683/DF, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 29/6/2016.) (grifou-se)
+Inafastável, no ponto, o teor da Súmula 7 do STJ.
+2. Ante o exposto, conhece-se do agravo para não conhecer do recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
