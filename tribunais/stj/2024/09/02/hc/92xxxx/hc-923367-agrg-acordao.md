@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à minorante do art. 33, § 4º, da Lei de Drogas, ficou demonstrado que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+2. Assim, uma vez que foi concretamente fundamentada a impossibilidade de incidência do referido redutor, não há nenhum fato novo e relevante que seja capaz de alterar o posicionamento adotado pela decisão ora agravada.
+3. Agravo regimental não provido.
+RELATÓRIO
+MICHEL VINICIUS DE BRITO interpõe agravo regimental contra decisão de minha relatoria em que deneguei a ordem e, por conseguinte, mantive a condenação em 5 anos de reclusão mais multa, no regime semiaberto, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa aduz, em síntese, que o contexto fático delineado pelas instâncias ordinárias justifica o reconhecimento do privilégio do tráfico. Afirma que a droga foi encontrada escondida em uma meia - o que demonstra ser o acusado iniciante -, a balança de precisão foi o único petrecho localizado e "as únicas conversas localizadas no telefone do paciente  ..  se tratam de conversas que apenas remetem ao uso de entorpecentes que o agravante faria junto com seus amigos" (fl. 61).
+Requer, assim, a reconsideração do decisum ou a submissão do feito a julgamento colegiado, para que seja aplicada a minorante do tráfico.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Quanto à minorante do art. 33, § 4º, da Lei de Drogas, ficou demonstrado que as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+2. Assim, uma vez que foi concretamente fundamentada a impossibilidade de incidência do referido redutor, não há nenhum fato novo e relevante que seja capaz de alterar o posicionamento adotado pela decisão ora agravada.
+3. Agravo regimental não provido.
+VOTO
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+O Tribunal de Justiça manteve o afastamento da causa de diminuição do tráfico, conforme abaixo aduzido (fl. 44, destaquei):
+Como bem consignado pela r. sentença condenatória, além da quantidade de droga apreendida e da balança de precisão utilizada para a fracionamento da droga, consta nos autos o laudo pericial (fls. 46/48), que degravou as informações contidas no aparelho celular do acusado, descortinando diversas mensagens relacionadas à compra e venda de drogas, demonstrando que MICHAEL não é neófito na espúria atividade.
+Da leitura do acórdão recorrido, constatei que as instâncias ordinárias, após minuciosa análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e independentes a ensejar a condenação do acusado pelo delito imputado.
+Conforme mencionado na decisão agravada, o Tribunal de origem entendeu pela existência de elementos concretos para a não incidência do art. 33, § 4º, da Lei de Drogas, porquanto demonstrada a habitualidade delitiva ante a apreensão de balança de precisão e as informações contidas no celular do réu - "diversas mensagens relacionadas à compra e venda de drogas" (fl. 44).
+De acordo com a jurisprudência deste Superior Tribunal, "consideram-se como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições, especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando ficar evidenciado, de modo fundamentado, o envolvimento do agente com organização criminosa" (AgRg no HC n. 731.344/SC, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 8/8/2022).
+Observo que de acordo com a jurisprudência deste Superior Tribunal, a dedicação do réu à atividades criminosas "pode ser comprovada pelo Estado-acusador por qualquer elemento de prova idôneo, tais como escutas telefônicas, relatórios de monitoramento de atividades criminosas, documentos que comprovem contatos delitivos duradouros ou qualquer outra prova demonstrativa da dedicação habitual ao crime" (REsp n. 1.977.027/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/8/2022, DJe de 18/8/2022).
+Por fim, conforme registrei na decisão recorrida, para desconstituir a conclusão alcançada pelo Tribunal a quo - como pretende a defesa - seria necessário, nesta oportunidade, realizar aprofundado reexame de provas, o que, no entanto, é inviável na via recursal, a teor da Súmula n. 7 do STJ.
+II. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
