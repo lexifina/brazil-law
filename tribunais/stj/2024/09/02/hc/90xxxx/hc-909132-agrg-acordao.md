@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. CRIME IMPEDITIVO. INTERPRETAÇÃO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. ORDEM DENEGADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022, "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º".
+2. Segundo o dispositivo federal em questão e a interpretação fixada pelo Plenário do Supremo Tribunal Federal (SL n. 1.698/RS) e pela Terceira Seção desta Corte (AgRg no HC n. 890.929/SE), em caso de condenações por dois ou mais crimes, em única sentença ou em processos distintos, é imprescindível o integral cumprimento das penas dos delitos impeditivos para se permitir o indulto das reprimendas relativas aos demais.
+3. Agravo regimental não provido.
+RELATÓRIO
+JEFFERSON JUSTINO XAVIER agrava da decisão de fls. 82-84, denegatória do habeas corpus.
+O insurgente reafirma o pedido de indulto com base no Decreto Presidencial n. 11.302/2022 e argumenta que, embora haja múltiplas condenações, os crimes não foram julgados na mesma sentença, com o reconhecimento do concurso pelo Juiz de conhecimento. Portanto, a exigência de cumprimento da pena aplicada aos delitos impeditivos não se aplicaria ao caso concreto.
+O MPF opinou pelo não provimento do recurso.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. CRIME IMPEDITIVO. INTERPRETAÇÃO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. ORDEM DENEGADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022, "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º".
+2. Segundo o dispositivo federal em questão e a interpretação fixada pelo Plenário do Supremo Tribunal Federal (SL n. 1.698/RS) e pela Terceira Seção desta Corte (AgRg no HC n. 890.929/SE), em caso de condenações por dois ou mais crimes, em única sentença ou em processos distintos, é imprescindível o integral cumprimento das penas dos delitos impeditivos para se permitir o indulto das reprimendas relativas aos demais.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+Nos termos do art. 11, parágrafo único, do Decreto Presidencial n. 11.302/2022, "não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º".
+Segundo a interpretação fixada pelo Plenário do Supremo Tribunal Federal (SL n. 1698/RS) e pela Terceira Seção desta Corte (AgRg no HC n. 890.929/SE, Rel. Ministro Sebastião Reis Júnior), em caso de condenações por dois ou mais crimes, em única sentença ou em processos distintos, é imprescindível o integral cumprimento das penas dos delitos impeditivos para se permitir o indulto das reprimendas relativas aos demais.
+Deveras, são várias as espécies de concurso, formal (perfeito ou imperfeito), material e continuado. Uma das hipóteses legais está relacionada à prática de dois ou mais crimes, idênticos ou são, mediante mais de uma ação ou omissão, o que resulta no cúmulo das penas. O art. 69 do CP não exige a prática de ilícitos da mesma espécie, no mesmo contexto fático, unidade de propósitos ou condições semelhantes de tempo e lugar. Também não exige que o Ministério Público denuncie todos os crimes do réu na mesma peça.
+Por isso, nem sempre haverá uma sentença, com a aplicação de concurso material, como no caso. Na fase da execução penal, no contexto do art. 111 da LEP, o Juiz da Vara de Execuções pode avaliar a situação jurídica do condenado à luz do que dispõe o art. 69 do Código Penal.
+Quando o sentenciado tem várias guias penais, praticou dois ou mais crimes e a determinação do regime prisional será feita à vista das múltiplas condenações, pelo resultado da soma das penas. É possível reconhecer a situação jurídica de concurso de crimes e não há razões para afastar o requisito objetivo do indult o, pois até mesmo a continuidade delitiva é passível de ser identificada durante a unificação das penas, desde qu e estejam preenchidos os requisitos do art. 71 do CP.
+À vista de exposto, nego provimento ao agravo regimental.
