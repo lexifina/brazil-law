@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 DIAS CONTÍNUOS. ART. 798 DO CPP. NECESSIDADE DE COMPROVAÇÃO DE SUSPENSÃO DE PRAZO NO ATO DA INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É sedimentado nesta Corte o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido.
+2. A segunda-feira de carnaval e a quarta-feira de Cinzas são considerados feriados locais para fins de comprovação da tempestividade recursal, a serem demonstrados no ato de interposição do recurso, por meio de documento hábil, sendo impossibilitada a regularização posterior, nos termos do § 6º do art. 1.003 do CPC.
+3. A intimação se deu em 20/02/2023, sendo o recurso especial interposto somente em 09/03/2023, portanto, intempestivamente, uma vez que apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCIANO GAUER contra a decisão do relator que conheceu do agravo para não conhecer do recurso especial em virtude da sua intempestividade.
+A parte agravante alega que foi intimada em 22/02/2023, pois os dias 20/02/2023 e 21/02/2023 foram feriados nacionais.
+Requer a retratação da decisão ou a submissão do recurso ao Colegiado para que lhe seja dado provimento (fls. 767-772).
+Contraminuta às fls. 779-781.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 DIAS CONTÍNUOS. ART. 798 DO CPP. NECESSIDADE DE COMPROVAÇÃO DE SUSPENSÃO DE PRAZO NO ATO DA INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É sedimentado nesta Corte o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido.
+2. A segunda-feira de carnaval e a quarta-feira de Cinzas são considerados feriados locais para fins de comprovação da tempestividade recursal, a serem demonstrados no ato de interposição do recurso, por meio de documento hábil, sendo impossibilitada a regularização posterior, nos termos do § 6º do art. 1.003 do CPC.
+3. A intimação se deu em 20/02/2023, sendo o recurso especial interposto somente em 09/03/2023, portanto, intempestivamente, uma vez que apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não comporta provimento.
+O recurso especial, de fato, não é admissível, por ser manifestamente intempestivo.
+É sedimentado nesta Corte o entendimento de que  a  ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que se pretende seja conhecido (AgRg no AREsp n. 864.072/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2017, DJe de 30/5/2017).
+Entende esta Corte que a segunda-feira de carnaval e a quarta-feira de Cinzas são considerados feriados locais para fins de comprovação da tempestividade recursal, a serem demonstrados no ato de interposição do recurso, por meio de documento hábil.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, julgado pela Corte Especial em 02/10/2019, DJe 18/11/2019, ficou consignado que, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso. Contudo, considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, decidiu-se pela modulação dos seus efeitos, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+2. Considerando que o recurso especial foi interposto após a publicação do referido julgado e que não houve a comprovação da suspensão do expediente, no âmbito do Tribunal a quo, quando de sua interposição, não há como ser afastada a sua intempestividade.
+3. A jurisprudência desta Corte Superior entende que segunda-feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal (AgInt no AREsp n. 2.057.713/RJ, Ministro Marco Buzzi, Quarta Turma, DJe 6/10/2022). Precedentes. Portanto, não havendo a comprovação da ocorrência da suspensão do prazo processual no ato da interposição, é considerado intempestivo o recurso especial.
+4. No presente caso, a parte recorrente foi intimada do acórdão recorrido em 21/3/2023, sendo o recurso especial interposto somente em 10/4/2023, portanto, intempestivamente, uma vez que apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+5. Agravo regimental não provido. (AgRg no AREsp n. 2.379.017/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/9/2023, DJe de 8/9/2023 - grifamos).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DE SUSPENSÃO DO EXPEDIENTE FORENSE, NO ATO DA INTERPOSIÇÃO DA INSURGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. "A segunda-feira de Carnaval, a Quarta-Feira de Cinzas, os dias que precedem a Sexta-Feira da Paixão e o de Corpus Christi não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais, deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso (AgInt nos EDcl no AREsp 1.419.338/SP, Rel. Ministro FRANCISCO FALCÃO, DJe de 3/10/2019)  ..  (AgRg no AREsp n. 2.217.901/PR, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 27/3/2023).
+3. Conforme decidido pela Corte Especial deste Superior Tribunal, "ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp n. 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017).
+4. Na hipótese, a defesa deixou de comprovar, no momento da interposição do recurso especial, por documento hábil (ato normativo ou certidão cartorária), feriado local ou a suspensão do expediente forense.
+5. Agravo regimental não provido. (AgRg no AREsp n. 2.217.850/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/8/2023, DJe de 22/8/2023 - grifamos).
+Ademais, não basta a menção no recurso especial da ocorrência de feriado local, sendo necessária a juntada de documentação idônea no ato da interposição do recurso que se pretende que seja conhecido, impossibilitada a regularização posterior, nos termos do § 6º do art. 1.003 do CPC.
+No caso dos autos, a Defesa não comprovou, no ato de interposição do recurso especial, por meio de documento hábil, o feriado local do dia 20/02/2023 (segunda-feira de carnaval), de modo que impositivo o reconhecimento da intempestividade.
+De fato, a intimação se deu em 20/02/2023, sendo o recurso especial interposto somente em 09/03/2023, portanto, intempestivamente, uma vez que apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
