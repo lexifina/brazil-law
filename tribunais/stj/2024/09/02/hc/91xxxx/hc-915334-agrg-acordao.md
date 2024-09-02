@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O TIPO DO ARTIGO 28 DA LEI N. 11.343/2006. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias, após exame do conjunto fático-probatório dos autos, concluíram pela existência de elementos coerente s e válidos a ensejar a condenação do réu pelo delito de tráfico ilícito de entorpecentes, ressaltando a prova testemunhal produzida e as circunstâncias da apreensão.
+2. No caso, acolher a pretendida desclassificação do acusado demandaria reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WELLINTON GABRIEL ANTONIO BATISTA contra decisão de minha lavra, na qual não conheci do pedido de habeas corpus (fls. 204/211).
+Consta nos autos que o paciente foi condenado às penas de 01 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, em regime aberto, mais pagamento de 194 (cento e noventa e quatro) dias-multa por infração do art. 33, caput, da Lei n. 11.343/2006, com a substituição da pena privativa de liberdade por medida de segurança, consistente em tratamento ambulatorial pelo prazo mínimo de 02 (dois) anos.
+A Acusação interpôs recurso de apelação, que foi provido pelo Tribunal de origem, para
+a) aumentar a pena do acusado para 03 anos, 10 meses e 20 dias de reclusão, mais pagamento de 388 dias-multa; b) fixar o regime inicial fechado; e c) afastar a medida de segurança de tratamento ambulatorial, ficando mantida, no mais, a r. sentença recorrida (fl. 196).
+Nas razões do writ, o impetrante alegou que não há elementos suficientes para a condenação do paciente pelo crime de tráfico de drogas.
+No agravo regimental, a Defesa sustenta a possibilidade de análise do pleito desclassificatório.
+Para tanto, aduz não ser necessário o reexame de provas, mas apenas a valoração jurídica dos fatos já delineados pelas instâncias ordinárias.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao colegiado competente.
+Manifestação do Ministério Público Federal à fl. 225.
+Certidão de decurso de prazo (fl. 229).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O TIPO DO ARTIGO 28 DA LEI N. 11.343/2006. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. AGRAVO NÃO PROVIDO.
+1. As instâncias ordinárias, após exame do conjunto fático-probatório dos autos, concluíram pela existência de elementos coerente s e válidos a ensejar a condenação do réu pelo delito de tráfico ilícito de entorpecentes, ressaltando a prova testemunhal produzida e as circunstâncias da apreensão.
+2. No caso, acolher a pretendida desclassificação do acusado demandaria reapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+3. Agravo regimental não provido.
+VOTO
+O inconformismo não prospera.
+No caso, o Juízo sentenciante condenou o agravante pelo crime de tráfico de drogas nos seguintes termos (fls. 133/134):
+A prova oral confirmou o tráfico.
+As testemunhas policiais, cujos depoimentos foram coerentes e firmes, sem contradições entre si e com o que disseram na fase administrativa, atestaram que, em cumprimento de mandado de busca e apreensão expedido por este juízo em razão de investigações darem conta da ocorrência de tráfico de drogas no salão do réu, se deslocaram até lá onde houve a apreensão da droga indicadas na denúncia, homiziada dentro de um sofá.
+Aduziram que o réu, ao perceber a presença dos policiais, fugiu do local, sendo abordado pela Policia Militar de forma paralela na garupa de uma motocicleta, encontrando consigo mais de R$ 6.300,00 em espécie.
+O réu, por sua vez, negou o tráfico, alegando ser apenas usuário, que o dinheiro encontrado consigo era fruto do seu trabalho como dono da barbearia e que não fugiu ao ver os policiais no seu local de trabalho, tendo apenas coincidentemente necessitado sair para resolver questões familiares.
+No entanto, a negativa do réu é divorciada do contexto aqui apresentado.
+A testemunha AMAURI JOSÉ, que lhe deu carona na motocicleta, não sabia dizer nada a respeito dos fatos, sustentou que levou WELLINGTON de carona até a casa dele, depois de ele ter deixado o próprio veículo em um lava-carros, a fim de que ele fosse pegar um dinheiro.
+Já a testemunha FELIPE SANTOS, que estava no salão, aguardando sua vez para cortar o cabelo, alegou que, ao chegar lá, havia dois rapazes à sua frente na fila, que lhe disseram que WELLINGTON havia saído minutos antes para levar ou buscar o filho e que voltava em seguida.
+A versão do réu em afirmar que não fugiu do local, e que apenas foi à sua casa para que pudesse cuidar do filho a pedido da sua ex-mulher que não estava em casa, é incrível, já que não faz sentido deixar o salão aberto, com clientela esperando, sem ter assistente algum para auxiliá-lo, o que indica de forma indene de dúvidas de que WELLINGTON ou deixou o local às pressas ao ver polícia, ou, tendo saído anteriormente para resolver questões simples, decidiu dar meia volta e voltar para casa para buscar o dinheiro, posteriormente apreendido.
+Além disso, não faz o menor sentido o réu, no meio do expediente, por volta das 15h45min de uma quarta-feira, resolver deixar o salão aberto, com clientela a aguardando, havendo inclusive 111 gramas de maconha no local, sair para pagar contas, andando com a vultosa quantia de R$ 6.376,00.
+Embora, de fato, ninguém tenha visto o réu efetivamente comercializando a droga, ou tenham sido encontrados petrechos ligados ao tráfico, como balança de precisão e embalagens, isso pouco importa para a configuração do crime, já que o tipo do art. 33 da Lei 11.343/2006 se trata de tipo misto alternativo, havendo a modalidade guardar ou trazer consigo como forma de cometimento do delito, quando destinado o entorpecente ao tráfico.
+E aqui restou configurada a hipótese, pois tampouco se faz crer que o réu guardasse a droga para uso no próprio trabalho, e não em casa (onde nada foi encontrado na busca também lá operada e ordenada por este juízo).
+Ademais, o dinheiro encontrado indica ser oriundo do tráfico, seja porque não há nos autos evidências de quantos cabelos o réu cortava de fato, seja pela ida repentina à sua casa justamente para escondê-lo.
+No mais, o laudo pericial confirmou a idoneidade dos entorpecentes.
+Assim, os depoimentos dos policiais envolvidos na prisão são coerentes e não foram confrontados por qualquer outra prova.
+De mais a mais, o policial é testemunha como qualquer outra pessoa e depõe mediante compromisso de dizer a verdade, sujeitando-se à contradita e ao delito de falso testemunho. A jurisprudência fixou que os depoimentos prestados por agentes da lei devem ser recebidos e valorados como quaisquer outros testemunhos.
+O Tribunal de origem, por sua vez, consignou o seguinte (fls. 186/192):
+Relataram os policiais civis José Augusto Fidencio Ollere Júlio César de Lima, de forma uníssona, na fase inquisitiva, que, em cumprimento a mandado de busca, dirigiram-se a um salão de cabelereiros de propriedade do réu, onde foram informados pelas testemunhas Renato, Felipe e Raphael que ele não se encontrava no local. Realizada a busca, lograram encontrar, atrás de uma almofada, uma porção grande de maconha. As referidas testemunhas afirmaram que se encontravam no estabelecimento apenas para cortar os cabelos.
+Informaram, outrossim, que o réu tinha avisado que retornaria em breve.
+Durante a busca, perceberam que o acusado passou pelo salão e fez menção de estacionar o veículo, mas deixou o local ao perceber a presença dos policiais. Concluída a busca no salão, efetuaram, então, diligências na região e avistaram o réu sendo abordado por uma guarnição da Polícia Militar. O acusado ocupava a garupa e portava grande quantia em dinheiro (mais de seis mil reais). Na oportunidade, o acusado alegou que a droga era destinada ao próprio consumo e que o dinheiro era proveniente de seu trabalho. Por fim, informaram que o réu fora preso no ano anterior, também pela prática de tráfico de entorpecentes (fls. 07/08 e 09/10).
+Sob o contraditório o policial civil José Augusto afirmou que havia inúmeras denúncias apontando a prática de tráfico de drogas no salão de cabelereiro de propriedade do acusado Wellington. No dia do ocorrido, encaminhou-se ao salão, munido do respectivo mandado, onde, então, localizou uma porção de maconha. No local, estavam três indivíduos aguardando o retorno do apelante para cortar os cabelos.
+Confirmou, ainda, que o réu foi abordado por policiais militares, os quais constataram que ele transportava considerável quantia em espécie.
+No mais, contou que o réu era conhecido nos meios policiais pela prática do comércio ilícito e, no anterior, já havia sido preso por tal conduta. Já o policial Júlio confirmou o depoimento de seu colega de profissão, acrescentando que a quantidade de droga apreendida no sofá da barbearia poderia ser fracionada em mais de 100 porções (termo de audiência de fls. 219).
+A testemunha Amauri da Silva José afirmou que trabalhava no lava-rápido e, no dia dos fatos, o réu chegou com o carro, pedindo que ele fosse lavado. O acusado lhe pediu, ainda, que ele o levasse à casa dele para buscar dinheiro (termo de audiência de fls. 219).
+A testemunha Felipe Tadeu Barbosa dos Santos relatou que estava no salão, aguardando para cortar o cabelo, quando os policiais chegaram ao estabelecimento e efetuaram buscas, que culminaram no encontro de um pedaço de droga. Disse, ainda, que o acusado não se encontrava no local, mas retornaria logo. Por fim, asseverou que era usuário de maconha, mas nunca tinha comprado drogado apelante (termo de audiência de fls. 219).
+É importante destacar que os depoimentos dos policiais foram harmônicos e firmes no que é essencial, não havendo razão para desprezá-los só porque emanam de policiais. Ademais, não existe nenhuma notícia ou indício de que eles teriam razão para incriminarem falsamente o réu.
+ ..
+No caso, não merece prosperar a narrativa do acusado, no sentido de que a droga apreendida em seu estabelecimento comercial era destinada unicamente ao próprio consumo.
+Ocorre que o réu - que, diga-se, é reincidente específico - não conseguiu justificar a posse de tamanha quantidade de droga em sua barbearia. Aliás, causa estranheza a guarda de entorpecentes para consumo próprio no local de trabalho, onde há grande movimentação de clientes, e não na própria residência.
+Por outra parte, relataram os policiais, em uníssono, nas duas fases da persecutio criminis, que, após o recebimento de diversas denúncias anônimas atribuindo ao réu a prática do tráfico de entorpecentes, dirigiram-se à barbearia dele, munido do competente mandado judicial, e, então, lograram apreender uma porção grande de maconha, confirmando, assim, as denúncias recebidas.
+Assim, deve prevalecer os seguros e coesos relatos dos agentes públicos, mesmo porque não restou evidenciado que eles tinham motivos para prejudicar o acusado.
+E diante das mencionadas denúncias anônimas, da apreensão de considerável quantidade de entorpecente, incompatível com a posse para uso próprio, bem como de expressiva quantia em dinheiro em espécie, não remanesce nenhuma dúvida acerca da destinação mercantil das drogas.
+ ..
+E o fato de o agente ser usuário de drogas não afasta o crime de tráfico, pois é usual a prática do comércio ilícito para o sustento do próprio vício.
+ ..
+Nesse contexto, a condenação era mesmo imperiosa, não havendo se cogitar de desclassificação do crime de tráfico de drogas para aquele previsto no artigo 28 da Lei nº 11.343/06.
+Dos excertos transcritos, observo que as instâncias ordinárias, soberanas na análise das circunstâncias fático-probatórias, concluíram, de modo fundamentado, que a conduta praticada pelo agente se amolda ao delito previsto no art. 33 da Lei n. 11.343/2006, tendo sido destacada a prova testemunhal produzida, e as circunstâncias da apreensão.
+Com efeito, nos termos do § 2.º do art. 28 da Lei n. 11.343/2006,
+ p ara determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente.
+Outrossim, convém registrar que a jurisprudência desta Corte tem afirmado que a subsunção típica prescinde da efetiva prática de atos de mercancia, pois o crime de tráfico de drogas é de ação múltipla ou de conteúdo variado, de forma que se consuma com a prática de qualquer um dos verbos nucleares descritos no tipo penal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO AO ART. 619 DO CPP. NÃO VERIFICADA. PEDIDO ABSOLUTÓRIO OU DESCLASSIFICATÓRIO. REVOLVIMENTO FÁTICO-PROBATÓRIO. EXCLUSÃO DA CAUSA DE AUMENTO DO ART. 40, III, DA LEI DE DROGAS. IMPOSSIBILIDADE. DELITO PRATICADO NO INTERIOR DO ESTABELECIMENTO DE ENSINO. RECURSO IMPROVIDO.
+ ..
+4. Ademais, este Tribunal Superior entende que a subsunção típica prescinde da efetiva prática de atos de mercancia, pois o crime de tráfico de drogas é de ação múltipla ou de conteúdo variado, de forma que se consuma com a prática de qualquer um dos verbos nucleares descritos no tipo penal.
+ ..
+6. Agravo improvido. (AgRg no AREsp n. 1.803.460/ES, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 13/09/2022, DJe de 19/09/2022)
+Registro, ainda, que, segundo a orientação desta Corte Superior de Justiça,
+o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso (AgRg no HC 672.359/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/06/2021, DJe 28/06/2021).
+Nesse contexto, para se concluir de maneira diversa a fim de acolher a pretensão desclassificatória, seria necessário proceder ao revolvimento das provas produzidas nos autos, o que não se mostra cabível na estreita via do habeas corpus.
+Mutatis mutandis:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. PENA-BASE EXASPERADA NOS TERMOS DO ART. 42 DA LEI 11.343/2006. ILEGALIDADE. INOCORRÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. AGRAVANTE QUE SE DEDICAVA A ATIVIDADES CRIMINOSAS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+ ..
+II - O habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 773.880/SP, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, julgado em 13/12/2022, DJe 16/12/2022; grifamos)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PEDIDO DE ABSOLVIÇÃO DO RÉU OU A DESCLASSIFICAÇÃO DE SUA CONDUTA. IMPOSSIBILIDADE. PROVAS SUFICIENTES DA MATERIALIDADE E DA AUTORIA DO CRIME. REEXAME FÁTICO-PROBATÓRIO. REDUÇÃO DA PENA-BASE. FALTA DE INTERRESSE RECURSAL. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. Quanto ao pedido de absolvição ou desclassificação da conduta, verifica-se que, conforme consta do acórdão impugnado, há provas suficientes da materialidade e da autoria do paciente para sustentar sua condenação nas infrações penais ora imputadas.
+3. Além disso, registro, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente. Por esse fundamento, também não cabe a desclassificação da conduta imputada ao réu.
+4. Desse modo, rever o posicionamento adotado pelas instancias ordinárias demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, o que é vedado por esta Corte Superior.
+ ..
+7. Agravo regimental não provido. (AgRg no HC n. 762.463/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2022, DJe 02/12/2022; grifamos)
+Assim, por não terem sido declinados, nas razões recursais, fundamentos jurídicos que infirmem os motivos da decisão ora agravada, deve esse ato ser integralmente mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
