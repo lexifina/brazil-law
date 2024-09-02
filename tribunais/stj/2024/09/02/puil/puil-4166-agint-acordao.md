@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. PUIL. GRATUIDADE DE JUSTIÇA. O INCIDENTE DE UNIFORMIZAÇÃO DIRIGIDO AO STJ SOMENTE É CABÍVEL CONTRA DECISÃO DA TURMA NACIONAL DE UNIFORMIZAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de cobrança objetivando a condenação da União nas diferenças pecuniárias encontradas entre os reajustes aplicados ao autor e o devido (13,23% - treze vírgula vinte e três por cento), inclusive nos reflexos de tal diferença advindos dos adicionais, quais sejam: férias, décimo terceiro, diárias e demais itens integrantes das remunerações mensais do autor ou de qualquer vantagem por ele auferida. Na sentença o pedido foi julgado improcedente. No recurso inominado, a sentença foi mantida.
+II - Na hipótese dos autos, como já levantando no Juízo de admissibilidade proferido na TNU, não há decisão daquela corte sobre o tema, mas tão somente decisão monocrática do seu Presidente, negando seguimento ao incidente. Assim, é incabível o incidente, porquanto dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Dessarte, não há como conhecer do incidente, eis que se insurge contra decisão monocrática. Nesse sentido, in verbis: AgInt na Pet 10.264/SE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/12/2016, DJe 2/2/2017; AgInt no PUIL 72/PR, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 23/8/2017, DJe 9/10/2017.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou Pedido de Uniformização de Interpretação de Lei contra decisão monocrática proferida pelo Presidente da Turma Nacional de Uniformização que inadmitiu incidente lá manejado.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente pedido de uniformização de jurisprudência."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Conforma prevê o art. 99 do Código de Processo Civil, o pedido de gratuidade da justiça pode ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso, sendo então possível seu deferimento neste momento processual.
+Com o devido respeito, não se pode considerar a análise de gratuidade judiciária como matéria exclusivamente processual.
+É de fácil percepção que a gratuidade judiciária é parte integrante do direito ao amplo acesso à justiça, previsto no art. 5º, XXV, da CF.
+Trata-se, portanto, de direito subjetivo material que é exercido por meio do processo. Não é questão meramente processual, mas direito subjetivo da parte de ter o acesso ao Judiciário sem que seja necessário realizar o custeio dos atos.
+ ..
+Consoante se observa no Informativo nº 0564 do STJ, deve ser afastada a pena de deserção quando o recurso interposto atacar o julgado que indeferiu o pedido de justiça gratuita.
+Desse modo, o Ministro Relator Napoleão Nunes Maia Filho, argumenta em seu voto que apesar da orientação jurisprudencial daquele Colendo Tribunal exigir o pagamento de preparo, para interposição de Recurso Especial, mesmo quando se discuta a concessão da justiça gratuita, reputa "não ser esta conclusão de melhor justiça para a solução desta questão". Entendimento que deve ser aplicado ao caso concreto.
+Complementa que seria contraditório exigir o prévio pagamento das custas recursais quando se pretende discutir em sede recursal o indeferimento da Justiça gratuita, "sob pena de incorrer em cerceamento de defesa e inviabilizar o direito de recorrer da parte".
+ ..
+Superada a discussão preliminar apresentada na decisão monocrática que, certamente, será objeto de reconsideração desse Relator, por uma questão de economia processual e celeridade, reitera a agravante os argumentos já expedidos ao longo do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. PUIL. GRATUIDADE DE JUSTIÇA. O INCIDENTE DE UNIFORMIZAÇÃO DIRIGIDO AO STJ SOMENTE É CABÍVEL CONTRA DECISÃO DA TURMA NACIONAL DE UNIFORMIZAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de cobrança objetivando a condenação da União nas diferenças pecuniárias encontradas entre os reajustes aplicados ao autor e o devido (13,23% - treze vírgula vinte e três por cento), inclusive nos reflexos de tal diferença advindos dos adicionais, quais sejam: férias, décimo terceiro, diárias e demais itens integrantes das remunerações mensais do autor ou de qualquer vantagem por ele auferida. Na sentença o pedido foi julgado improcedente. No recurso inominado, a sentença foi mantida.
+II - Na hipótese dos autos, como já levantando no Juízo de admissibilidade proferido na TNU, não há decisão daquela corte sobre o tema, mas tão somente decisão monocrática do seu Presidente, negando seguimento ao incidente. Assim, é incabível o incidente, porquanto dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Dessarte, não há como conhecer do incidente, eis que se insurge contra decisão monocrática. Nesse sentido, in verbis: AgInt na Pet 10.264/SE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/12/2016, DJe 2/2/2017; AgInt no PUIL 72/PR, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 23/8/2017, DJe 9/10/2017.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Lei n. 12.153/2009 prevê a uniformização de interpretação de lei para os Juizados Especiais da Fazenda Pública, no âmbito dos Estados, Distrito Federal e Municípios. Os arts. 18 e 19 do referido diploma legal dispõem sobre o cabimento do instrumento processual, conforme abaixo transcrito:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1o O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2o No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3o Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 19. Quando a orientação acolhida pelas Turmas de Uniformização de que trata o § 1o do art. 18 contrariar súmula do Superior Tribunal de Justiça, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência (grifo não consta do texto original).
+(..)
+De outro giro, a Lei n. 10.259/2001, também previu a utilização do instrumento de uniformização de interpretação de lei federal nos juizados especiais federais direcionado ao Superior Tribunal de Justiça, conforme o dispositivo abaixo:
+Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+§ 1º O pedido fundado em divergência entre Turmas da mesma Região será julgado em reunião conjunta das Turmas em conflito, sob a presidência do Juiz Coordenador.
+§ 2º O pedido fundado em divergência entre decisões de turmas de diferentes regiões ou da proferida em contrariedade a súmula ou jurisprudência dominante do STJ será julgado por Turma de Uniformização, integrada por juízes de Turmas Recursais, sob a presidência do Coordenador da Justiça Federal.
+§ 3º A reunião de juízes domiciliados em cidades diversas será feita pela via eletrônica.
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça-STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência. (grifos não constam do texto original)
+Por sua vez, o Regimento Interno do Superior Tribunal de Justiça, sobre o presente pedido, dispõe:
+Art. 67.
+(..)
+Parágrafo único. O Presidente resolverá, mediante instrução normativa, as dúvidas que se suscitarem na classificação dos feitos e papéis, observando-se as seguintes normas:
+(..)
+VIII-A - a classe Pedido de Uniformização de Interpretação de Lei (PUIL) compreende a medida interposta contra decisão: a) da Turma Nacional de Uniformização no âmbito da Justiça Federal que, em questões de direito material, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça; b) da Turma Recursal dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça; e c) das Turmas de Uniformização dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando a orientação adotada pelas Turmas de Uniformização contrariar súmula do Superior Tribunal de Justiça;
+Da legislação acima transcrita, decorre que o pedido de uniformização de interpretação de lei somente é cognoscível quando a decisão hostilizada versar sobre questão de direito material, nas seguintes hipóteses:
+a) divergência entre turmas recursais dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, de diferentes Estados da Federação, acerca da interpretação de lei federal;
+b) quando a decisão proferida por turma recursal dos Juizados Especiais da Fazenda Pública contrarie súmula do Superior Tribunal de Justiça;
+c) contrariedade à decisão da Turma Nacional de Uniformização no âmbito da Justiça Federal que, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça;
+d) quando a decisão proferida pelas Turmas de Uniformização dos Juizados Especiais da Fazenda Pública contrariar súmula do Superior Tribunal de Justiça.
+Na hipótese dos autos, como já levantando no juízo de admissibilidade proferido na TNU, não há decisão daquela corte sobre o tema, mas tão somente decisão monocrática do seu Presidente, negando seguimento ao incidente.
+Assim, é incabível o incidente, porquanto dispõe o art. 14, § 4º, da Lei n. 10.259/2001 que o incidente de uniformização dirigido ao STJ somente é cabível contra decisão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante no STJ. Dessarte, não há como conhecer do incidente, eis que se insurge contra decisão monocrática. Nesse sentido, in verbis: AgInt na Pet 10.264/SE, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/12/2016, DJe 2/2/2017; AgInt no PUIL 72/PR, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 23/8/2017, DJe 9/10/2017.
+Ante o expo sto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
