@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA. QUALIFICADORA. FEMINICÍDIO. APONTADO O CONTEXTO DE SUPOSTA RELAÇÃO DOMÉSTICA COM A VÍTIMA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante compreende o Superior Trib unal de Justiça, " a  qualificadora do feminicídio é de natureza objetiva, dispensando a análise do animus do agente. Assim, mostra-se descabida a sua exclusão na fase de pronúncia" (AgRg no AREsp n. 2.358.996/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+2. Agravo regimental não provido.
+RELATÓRIO
+JAILSON SOUZA SILVA agrava da decisão de fls. 51-52, em que indeferi liminarmente o habeas corpus a fim de manter sua pronúncia "como incurso nas sanções do artigo 121, § 2º, inciso VI, do Código Penal" (fl. 26).
+Para tanto, assere que as instâncias ordinárias promoveram a inclusão/manutenção, na pronúncia, da qualificadora prevista no artigo 121, §2º, inciso VI, do CP, sem efetivar o devido juízo concreto de admissibilidade da referida qualificadora" (fl. 66).
+Requer, assim, "seja reconsiderada a r. decisão monocrática ou provido o presente Agravo Interno, para dar processamento à presente ação mandamental, com a devida concessão da ordem para declarar a nulidade da decisão de pronúncia, no ponto que manteve a qualificadora" (fl. 68).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA. QUALIFICADORA. FEMINICÍDIO. APONTADO O CONTEXTO DE SUPOSTA RELAÇÃO DOMÉSTICA COM A VÍTIMA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante compreende o Superior Trib unal de Justiça, " a  qualificadora do feminicídio é de natureza objetiva, dispensando a análise do animus do agente. Assim, mostra-se descabida a sua exclusão na fase de pronúncia" (AgRg no AREsp n. 2.358.996/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+2. Agravo regimental não provido.
+VOTO
+Conforme já apontado na decisão vergastada, o agravante alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Recurso em Sentido Estrito n. 202400326188, em que foi mantida sua pronúncia "como incurso nas sanções do artigo 121, § 2º, inciso VI, do Código Penal" (fl. 26).
+Assere a defesa que "emerge dos elementos acidentais e circunstanciais delineados no acórdão que este não indicou a motivação que traduzisse a existência de indícios suficientes da presença da qualificadora feminicídio (contra a mulher por razões da condição de sexo feminino), restringindo-se a indicar e concluir a presença do dispositivo na pronúncia, sem indicar qualquer circunstância concreta que traduza elementos mínimos da admissibilidade da referida qualificadora" (fl. 7).
+A esse respeito, compreende o Superior Tribunal de Justiça que " s omente podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem nenhum amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri" (AgRg no AREsp n. 2.474.728/PI, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 6/6/2024.)
+Na mesma direção, oportunamente destacou a Corte de origem que "há indícios suficientes para que os jurados examinem a qualificadora do artigo 121, §2º, inciso VI do Código Penal, consubstanciada no fato de que o crime teria ocorrido no contexto de relação doméstica familiar contra a mulher, devendo ser mantida no juízo de admissibilidade da acusação porque somente aquelas manifestamente improcedentes ou descabidas é que podem ser excluídas" (fl. 39, salientei).
+É preciso salientar que " a  qualificadora do feminicídio é de natureza objetiva, dispensando a análise do animus do agente. Assim, mostra-se descabida a sua exclusão na fase de pronúncia" (AgRg no AREsp n. 2.358.996/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 20/10/2023.)
+Em conjuntura assemelhada, referendou o Superior Tribunal de Justiça tal posicionamento, ao destacar que " a  exclusão das qualificadoras constantes na denúncia - motivo fútil, impossibilidade de defesa da vítima, e feminicídio - somente pode ocorrer quando manifestamente improcedentes, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida. Precedentes" (AgRg no HC n. 697.217/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/10/2021.)
+À vista do exposto, nego provimento ao recurso.
