@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCOS ANTONIO DA SILVA MIRANDA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1502066-48.2021.8.26.0322).
+Os autos dão conta de que o paciente foi condenado, por infração ao art. 306, caput, c/c o §1º, I, do Código de Trânsito Brasileiro, à pena de 7 meses de detenção, em regime inicial aberto.
+Irresignadas, as partes interpuseram recurso de apelação perante o Tribunal de origem. Eis a ementa do acórdão (e-STJ fl. 287):
+APELAÇÃO CRIMINAL. Condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool (artigo 306, caput, c. c §1º, inciso I, do Código de Trânsito Brasileiro). Sentença condenatória. Insurgência da defesa. Comprovadas a materialidade delitiva e a autoria, mantém-se a condenação. Exame do etilômetro que constatou concentração de álcool por litro de ar alveolar superior ao limite previsto em lei. Depoimentos dos policiais militares que confirmaram o estado de embriaguez do réu. Crime de perigo abstrato. Dosimetria da pena. Pena-base fixada acima do mínimo pelos maus antecedentes. Reincidência compensada com a atenuante da confissão na segunda fase. Ausentes causas de aumento ou de diminuição. Insurgência ministerial. Pretensão pela aplicação do regime inicial semiaberto para início de cumprimento de pena. Acolhimento. Maus antecedentes e reincidência do réu que permitem o recrudescimento do regime. Sentença parcialmente reformada. RECURSO DA DEFESA IMPROVIDO E RECURSO MINISTERIALPROVIDO.
+No presente writ, a defesa afirma que, "o paciente não é reincidente, visto que a pena cumprida se deu em 29/05/2017, ou seja, O LAPSO TEMPORAL DE 05 (CINCO) ANOS TRANSCORREU EM 29/05/2022 NÃO PODENDO O PACIENTE SER CONSIDERADO REINCIDENTE" (e-STJ fl. 5).
+Aduz que, "o simples fato de o coacto ter sido condenado por processos antigos superiores ao lapso temporal de 05 (cinco) anos não enseja o estabelecimento do regime semiaberto" (e-STJ fl. 12).
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a dosimetria da pena no acórdão recorrido, ipsis litteris (e-STJ fl. 295):
+A pena-base foi fixada 1/6 (um sexto) acima do mínimo, por possuir o réu maus antecedentes, conforme certidões de fls. 162/165(condenação definitiva nos autos de nº 0000286-92.2009.8.26.0444,com trânsito em julgado para a defesa em 22/04/2014), resultando em 7 (sete) meses de detenção e pagamento de 11 (onze) dias-multa, no valor mínimo unitário.
+A circunstância agravante da reincidência (processo nº. 0000349-92.2009.8.26.0444 com pena cumprida ou julgada extinta em 29/05/2017) foi compensada com a confissão espontânea do réu, devendo a pena ser mantida conforme anteriormente fixada.
+Pois bem.
+Como bem salientado pela Corte estadual, a condenação proferida nos autos do Processo n. 0000349-92.2009.8.26.0444 teve a punibilidade extinta em 29/5/2017, sendo, portanto, apta à configuração da reincidência, a teor do disposto no art. 64, I, do Código Penal, já que o crime, objeto do presente recurso, foi praticado em 5/10/2021 (e-STJ fl. 289).
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. REINCIDÊNCIA. CONDENAÇÃO ANTERIOR NÃO ALCANÇADA PELO PERÍODO DEPURADOR.
+1. In casu, não há de se modificar a pena definitiva imposta pela Corte de origem diante da reincidência da agravante, uma vez que não transcorreu o período depurador de 5 anos, previsto no art. 64, I, do Código Penal, notadamente pelo fato de a pena da condenação pretérita pelo crime de furto ter sido julgada extinta em 18/12/2017, ao passo que o delito em análise foi praticado em 18/5/2021.
+2. Agravo regimental desprovido .
+(AgRg no AREsp n. 2.438.376/SP, de minha relatoria, Sexta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REINCIDÊNCIA. AGRAVANTE CONFIGURADA. PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE TARDIA. DECRETO CONDENATÓRIO QUE NÃO ULTRAPASSOU O PERÍODO DEPURADOR. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+2. Hipótese na qual, considerando que a pena pecuniária imposta ao paciente somente foi julgada extinta em 25/4/2017, resta configurada a agravante da reincidência, pois não ultrapassado o período depurador, já que os fatos apurados ocorreram em 25/3/2022.
+ ..
+(AgRg no HC n. 824.809/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Por fim, as circunstâncias judiciais desfavoráveis e a reincidência autorizam a manutenção do paciente no regime mais gravoso, em que pese ao quantum total de pena.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. RÉU REINCIDENTE E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO FECHADO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Embora a pena definitiva do apelante seja inferior a 4 anos de reclusão, o regime inicial fechado (mais grave segundo o quantum da sanção aplicada) é o adequado para prevenção e reprovação do delito, tendo em vista a reincidência do agravante e a análise desfavorável das circunstâncias judiciais, consoante as diretrizes do art. 33, § 3º, do CP. Precedentes.
+2. Agravo desprovido. (AgRg no AREsp 1891460/AM, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2021, DJe 27/10/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REINCIDÊNCIA. SÚMULA N. 269 DO SUPERIOR TRIBUNAL. INAPLICABILIDADE. ART. 387, § 2º, DO CPP. DISCUSSÃO. DESNECESSIDADE.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavorávei s. Ademais, na esteira da jurisprudência desta Corte Superior, admite-se a imposição de regime prisional mais severo do que aquele que permite a pena aplicada quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+2. Na hipótese, não se observa a existência de constrangimento ilegal na manutenção do regime fechado para o início do cumprimento da sanção aplicada, pois, embora a pena definitiva não seja superior a 4 (quatro) anos de reclusão, a reincidência e as circunstâncias judiciais desfavoráveis impedem a aplicação do disposto na Súmula n. 269 desta Casa. Precedentes.
+3. Ademais, "embora a reprimenda não tenha ultrapassado 4 anos, as circunstâncias judiciais desfavoráveis e a reincidência justificam a fixação do regime inicial fechado, segundo a jurisprudência desta Corte, mostrando-se inócua, inclusive, para fins de escolha do regime inicial, a discussão acerca da detração do tempo de prisão provisória (art. 387, § 2º, do Código de Processo Penal - CPP)" (AgRg no HC n. 490.175/SP, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 30/5/2019, DJe 11/6/2019). Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC 686.522/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 5/10/2021, DJe 8/10/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
