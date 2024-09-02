@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO MILITAR. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO. OMISSÃO CARACTERIZADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se a existência de vício de omissão na decisão de origem, pois "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+2. Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MILITAR. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
+A parte agravante alega, em síntese, que não há omissão no acórdão recorrido, visto que "o Tribunal local enfrentou a questão alusiva à alegada interrupção da prescrição, tanto no voto que julgou a apelação quanto em sede de embargos de declaração, o fazendo, todavia, em sentido contrário ao pretendido pelo insurgente, pois a suposta causa interruptiva da prescrição não foi comprovada nos autos, não restando elementos para desconstituir a conclusão do órgão julgador sobre a ocorrência da prescrição da pretensão autoral." (fl. e-STJ 398).
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO MILITAR. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO. OMISSÃO CARACTERIZADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se a existência de vício de omissão na decisão de origem, pois "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+2. Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+No recurso especial interposto pela parte contrária, argumenta-se que o acórdão estadual contrariou as disposições dos arts. 11, 489, §1º, IV, art. 1.013, §3º, IV e art. 1.022, II, parágrafo único, II, todos do CPC, pois, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso, em especial no que diz respeito às teses referentes à contagem do lapso prescricional e seus marcos interruptivos e suspensivos.
+Neste sentido, o Tribunal local limitou-se a afirmar que o autor não trouxe elementos aptos a sustentar a tese de interrupção/suspensão do prazo prescricional:
+Vale frisar que o autor não trouxe aos autos qualquer elemento, como causa interruptiva ou suspensiva da prescrição, que possa afastar o reconhecimento da mesma. Embora o autor afirme ter havido suspensão do prazo prescricional, nota-se que, na ação mencionada (0027885-35.2014.8.27.2729) não há qualquer Decisão ou ato que se possa empregar neste sentido, sobretudo porque restou expressamente consignado que a questão alusiva à correção de promoções posteriores deveria ser discutida na via administrativa ou em ação própria.
+O Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+suspensão do prazo prescricional, com fundamento no art. 4º, parágrafo único, do Decreto Federal nº 20.910/32,tendo em vista que diante da decisão proferida nos autos do cumprimento de sentença e antes de buscar a via judicial, o recorrente formalizou requerimento administrativo, o qual foi protocolado aos 22 de dezembro de 2020, sem conclusão até o presente momento(Evento 01 -REQ8 e Evento 25 -PROCADM6 e PROCADM7, dos autos originários), não havendo que se falar em decurso do prazo prescricional quinquenal.
+Observo que deveria ter havido a manifestação expressa na origem sobre a questão suscitada, o que não ocorreu por falha do Tribunal a quo, o qual não dirimiu, como deveria, a controvérsia nos autos. Manifesta a doutrina no sentido de que
+uma corte que visa ao controle da decisão recorrida é uma corte reativa. Vale dizer: a corte desempenha um papel que pressupõe a existência de uma violação ao direito já ocorrida, sendo sua tarefa sancioná-la e, quando possível, neutralizar ou eliminar os seus efeitos mediante cassação ou reforma dessa decisão. O recurso serve para reagir a uma violação ao direito já ocorrida, perpetrada pela decisão judicial que constitui o seu objeto, sendo a atuação da corte pensada tão somente para o passado. (MARINONI, Luiz Guilherme, MITIDIERO, Daniel. Recurso extraordinário e recurso especial: do "jus litigatoris" ao "jus constitutionis"  livro eletrônico . 3. ed. rev. atual. São Paulo: Revista dos Tribunais, 2021).
+Assim, importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Revista dos Tribunais, 2012).
+Desse modo, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
