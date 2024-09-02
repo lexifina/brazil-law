@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fls. 174-176; grifos no original):
+TRIBUTÁRIO. APELAÇÃO DA UNIÃO. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÕES SOCIAIS DE TERCEIROS. SEGURANÇA CONCEDIDA APENAS QUANTO A ESTAS, MAS DE FORMA ULTRA PETITA. ART. 492 DO CPC.
+1 - Recurso de apelação da União (Fazenda Nacional) interposto a tempo e modo, porém dissociado da realidade dos autos. Não conhecido.
+2 - Remessa necessária oficial conhecida e recebida no seu efeito legal.
+3 - Cinge-se a controvérsia à existência de sentença ultra petita.
+4 -A Impetrante,ora Recorrida, Via Ambiental Engenharia e Serviços S.A., em sua petição inicial pediu:
+"A Impetrante requer, ao fim, a concessão da segurança, no sentido de que lhe seja assegurado o direito da impetrante na segurança de não sofrer sanções da Autoridade Impetrada pelo não recolhimento das contribuições previdenciárias e contribuições sociais destinadas a outras entidades sobre aviso prévio indenizado, auxílio-doença/acidente (primeiros 15 dias), bem como que seja reconhecido o direito da impetrante de compensar o indébito, pago indevidamente durante cinco anos contados a partir da interposição do presente mandado de segurança, corrigidos pela taxa do Sistema Especial de Liquidação e de Custódia (SELIC), a contar do indébito, com débitos todo e qualquer tributo administrado e ou cobrado pela Receita Federal do Brasil correntes vincendos durante o exercício de seus objetivos sociais."
+4.1 - O d. Juízo a quo decidiu na r. sentença:
+"Em face de todo o exposto, extingo o processo com resolução de mérito e concedo parcialmente a segurança para reconhecer o direito líquido e certo a não incidência das contribuições sociais de terceiros (SEBRAE - Lei nº 8.029/90, INCRA - Decreto-Lei nº 1.110/70, APEX, ABDI, Sistema "S" (SESC, SENAC, SEST/SENAT - artigo 240, CF/88) e Salário-Educação - artigo 212, §5º, da CRFB/1988) sobre as seguintes verbas: aviso prévio indenizado e seus consectários legais; auxílio-doença nos primeiros 15 dias de afastamento que os antecedem; férias indenizadas e o seu terço, bem como salário-maternidade.Igualmente não incidirão sobre o vale transporte, o auxílio-creche, auxílio alimentação in natura (ex. cesta básica), descontos para planos de saúde e odontológico, bem como reconhecer o direito à compensação na via administrativa dos valores indevidamente recolhidos a partir dos 120 dias que antecederam a impetração, ressalvado o direito do contribuinte pleitear na via ordinária da repetição de indébito os valores anteriores."
+5 - O julgamento ultra petita, nos termos do que ensina a doutrina, é aquele em que o Judiciário concede a tutela pedida, mas extrapola na quantidade indicada pela parte.
+6 - In casu, observa-se que o d. julgador entendeu de não conceder a segurança quanto à Contribuição Previdenciária devida pela própria Impetrante, mas ao conceder a segurança com relação às Contribuições Sociais de Terceiros o fez além do pedido pela Impetrante.
+6.1 - A Impetrante pediu que tais Contribuições Sociais de Terceiros não incidissem apenas sobre aviso prévio indenizado, auxílio-doença/acidente (primeiros 15 dias) e, no entanto, na r. sentença, o d. Magistrado afastou a incidência dessas Contribuições dos 15 (quinze) primeiros dias de auxílio doença ou acidente e sobre o aviso prévio indenizável, pedidos pela autora, mas também sobre férias indenizadas e seu terço, salário-maternidade, vale transporte, auxílio-creche, auxílio alimentação in natura e descontos para planos de saúde e odontológico.
+6-2 -O art. 492 do CPC estabelece ser vedado ao Juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantia superior ou em objeto diverso do que lhe foi demandado, in verbis:
+"É vedado ao juiz proferir decisão de natureza diversa da pedida, bem como condenar a parte em quantidade superior ou em objeto diverso do que lhe foi demandado."
+6.3 - Com relação às chamadas Contribuições Sociais de Terceiros o d. Magistrado julgou ultra petita, pois concedeu mais que o pedido.
+7 - A UNIÃO, no seu recurso de apelação, pede que a contribuição previdenciária não incida apenas aviso prévio indenizado e remuneração paga nos 15 primeiros dias de afastamento do empregado por motivo de doença ou acidente. Ocorre que com relação à Contribuição Previdenciária da própria Impetrante não foi concedida a segurança. Esta foi concedida apenas com relação a contribuições sociais de terceiros. Logo, o recurso de apelação da UNIÃO não merece, sequer, ser conhecido.
+8 - Remessa necessária parcialmente provida para, modificando parcialmente a r. sentença, firmar que as contribuições sociais de terceiros não incidirão apenas sobre os valores relativos a aviso prévio indenizado, auxílio-doença/acidente (primeiros 15 dias, indicados no pedido da petição inicial.
+8.1 - Ainda modificando parte da r. sentença, dentro da remessa necessária oficial, firmou-se que, caso a Impetrante resolva pedir restituição, terá que fazê-lo por meio de requisitório constitucional(art. 100 da CRFB e Tema 1.262 STF), facultada a opção pela compensação na via administrativa, à luz da legislação de regência, segundo a Súmula 461 do STJ.
+9 - Recurso de Apelação da UNIÃO NÃO CONHECIDO. Remessa Necessária Oficial conhecido e PARCIALMENTE PROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 494, II e 1.022, III, do CPC/2015, ao argumento de que "houve fundamentação e concessão da segurança relativa a um dos pedidos no corpo da sentença que não foi repetido na parte dispositiva, traduzindo-se em mero erro material, corrigível a qualquer tempo. O acórdão, em revisão de ofício, retirou expressamente da condenação tal pleito, incorrendo, também, concessa venia, em equívoco".
+Alega, ainda, a existência de dissídio jurisprudencial, sob a tese de que "a sentença tão somente não reproduziu na parte dispositiva o que houvera fundamentado e decidido já em seu corpo, na área apenas titulada fundamentação e isso é, indubitavelmente, erro material. A correção de erro material é a qualquer tempo, mesmo após o trânsito em julgado" (fl. 261).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 287.
+É o relatório. Passo a decidir.
+No que diz respeito aos artigos 494, II e 1.022, III, do CPC/2015, indicados como violados, estes possuem a seguinte redação:
+Art. 494. Publicada a sentença, o juiz só poderá alterá-la:
+ ..
+II - por meio de embargos de declaração.
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+ ..
+III - corrigir erro material.
+No caso dos autos, evidencia-se que os referidos dispositivos não contêm comando normativo capaz de infirmar o juízo formulado no acórdão recorrido, no sentido de que, "apesar de a ora Embargante alegar, agora, que houve apenas um erro material na r. sentença, contra ela não opôs, no momento oportuno, os embargos de declaração necessários para sanar suposto erro, e também contra ela não interpôs recuso de apelação" (fl. 233; grifos nossos). Aplica-se à hipótese a Súmula 284/STF.
+Por outro lado, cumpre ressaltar que o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 494, II E 1.022, III, DO CPC/2015. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
