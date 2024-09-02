@@ -1,0 +1,9 @@
+DECISÃO
+MARCELO DA SILVA SOARES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 5006837-67.2022.8.19.0500, em que foi indeferido o pedido de detração do tempo de prisão por ação penal distinta.
+Assere a defesa que, "em consonância com o que dita esta Corte Superior, fica evidente que o Paciente no curso do processo de execução, teve em seu desfavor a decretação de prisão preventiva em razão de fatos criminosos praticados, em tese, posteriormente, se enquadrando perfeitamente com os entendimentos acima mencionados" (fls. 7-8).
+Todavia, consoante apontado pela Corte de origem, "a detração penal, prevista no artigo 42, do CP, somente ocorre quando o crime pelo qual se cumpre a pena ultimamente for anterior, atributo não identificado. Do contrário, o condenado ficaria com uma espécie de "crédito", ou seja, "liberado" para cometer novo delito" (fl. 10).
+Nos termos do disposto nos arts. 42 do CP e 111 da LEP, a legislação penal permite a detração do tempo de prisão cautelar, cumprida em processo distinto, apenas nas hipóteses em que o agente tenha sido absolvido ou tenha sido declarada extinta a sua punibilidade e desde que a segregação provisória ocorra em data posterior ao delito ao qual o sentenciado cumpre pena.
+Esse, inclusive, é o entendimento reiterado deste Tribunal Superior, segundo o qual ""admite-se a detração em relação a fato diverso daquele que deu azo à prisão processual; contudo, somente em relação a delitos anteriores à segregação provisória, sob risco de se criar uma espécie de crédito contra a Justiça Criminal" (HC 177.321/RS, Rel. Ministra Maria Thereza de Assis Moura, 6ª Turma, DJe 12/3/2012)" (AgRg no RHC n. 161.790/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 10/5/2023.)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
