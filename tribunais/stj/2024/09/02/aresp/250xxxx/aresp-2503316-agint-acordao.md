@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/08/2024 a 02/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATORIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. O conteúdo normativo dos artigos 113, 421 e 422, do CC, não foram objeto de exame pelo Tribunal a quo, mesmo após o julgamento dos embargos de declaração, carecendo do necessário prequestionamento. Incidência das Súmulas 211/STJ e 282/STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por CONFIANCA INCORPORACOES LTDA, em face de decisão monocrática de fls. 388-391, e-STJ, que conheceu do agravo para não conhecer do recurso especial do ora insurgente.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 226, e-STJ):
+APELAÇÃO CÍVEL - PRETENSÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL - INADIMPLÊNCIA DO PROMITENTE COMPRADOR - RESTITUIÇÃO DE PARTE DAS PARCELAS PAGAS - ANÁLISE DO VALOR CONFORME RAZOABILIDADE - JUROS DE MORA - TERMO INICIAL - TRÂNSITO EM JULGADO - HONORÁRIOS CONTRATUAIS - RESSARCIMENTO DESCABIDO - HONORÁRIOS DE ADVOGADO -CRITÉRIOS DE FIXAÇÃO.
+I - Nos casos de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, cabível a retenção pelo vendedor de parte das prestações pagas como forma de indenizá-lo pelos prejuízos suportados que, conforme entendimento pacificado do Eg. Superior Tribunal de Justiça, o percentual é de 10% até 25%.
+II - A teor da jurisprudência do Superior Tribunal de Justiça, consolidada no julgamento de IRDR, o valor a ser restituído deverá acrescido de juros moratórios, a partir da data do trânsito em julgado da decisão.
+III - A contratação de advogado pela parte, mediante remuneração, para a defesa de seus interesses, não induz responsabilidade civil da parte adversa, uma vez que a ré não participou da relação contratual.
+IV - Os honorários advocatícios, conforme o art. 85, §2º do CPC devem ser fixados em percentual de no mínimo dez e no máximo vinte, observado o valor atualizado da causa, quando não há condenação e não é possível mensurar o proveito econômico obtido.
+Os embargos declaratórios opostos foram acolhidos, nos termos da ementa abaixo (fl. 273, e-STJ):
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CÍVEL - PERCENTUAL DE RESTITUIÇÃO DE PARTE DAS PARCELAS PAGAS - ERRO MATERIAL -RETIFICAÇÃO DO ACÓRDÃO - POSSIBILIDADE. Ocorrendo erro material em relação ao percentual de restituição de parte das parcelas pagas pelo comprador, os embargos devem ser acolhidos para retificação e correção do acórdão.
+Nas razões do recurso especial (fls. 288-301, e-STJ), a parte insurgente apontou violação aos artigos 113, 421 e 422, do CC, ao argumento da necessidade de retenção de 20% sobre o valor atualizado do contrato, em observância ao princípio do pacta sunt servanda.
+Contrarrazões às fls. 339-343, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 347-348, e-STJ), dando ensejo na interposição do competente agravo (fls. 356-368, e-STJ), visando destrancar aquela insurgência.
+Contraminuta às fls. 372-374, e-STJ.
+Em decisão monocrática, conheceu-se do agravo para não se conhecer do recurso especial ante a incidência dos óbices das Súmulas 211/STJ e 282/STF.
+Daí o presente agravo interno (fls. 395-404, e-STJ), no qual a parte agravante reitera as razões do apelo extremo, bem como refuta os supramencionados óbices.
+Não houve impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATORIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. O conteúdo normativo dos artigos 113, 421 e 422, do CC, não foram objeto de exame pelo Tribunal a quo, mesmo após o julgamento dos embargos de declaração, carecendo do necessário prequestionamento. Incidência das Súmulas 211/STJ e 282/STF.
+2. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte insurgente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Deve ser mantida a decisão singular no ponto em que aplicou os óbices das Súmulas 211/STJ e 282/STF.
+Consoante asseverado no decisum agravado, cinge-se a controvérsia acerca da alegada vulneração aos artigos 113, 421 e 422, do CC, ao argumento da necessidade de retenção de 20% sobre o valor atualizado do contrato, em observância ao princípio do pacta sunt servanda.
+A parte insurgente sustentou, em síntese, que o acórdão local autorizou a retenção do valor equivalente a 20% sobre o valor pago, enquanto o contrato previa a retenção sobre o valor atualizado do contrato (fls. 288-301, e-STJ).
+Acerca da base de cálculo do percentual a ser devolvido, verifica-se da leitura do acórdão vergastado que a matéria não fora objeto de exame pelo Tribunal a quo , mesmo após o julgamento dos embargos declaratórios (fls. 226-233, e-STJ).
+Ademais, nas razões do especial deixou a recorrente de apontar eventual violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+Na hipótese, portanto, incide o teor das Súmulas 211 do STJ e 282 do STF, ante a ausência de prequestionamento dos supracitados dispositivos legais.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se a correta interpretação da legislação federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE NOME EMPRESARIAL CUMULADA COM INDENIZATÓRIA, MARCA E NOME DE DOMÍNIO. ART. 461, § 4º, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. MULTA. OFENSA AO ART. 461, § 6º, DO CPC/1973. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado em embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 631.332/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/03/2017, DJe 28/03/2017)  grifou-se
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.  ..  QUESTÕES NÃO DISCUTIDAS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AFERIÇÃO DA TEMPESTIVIDADE DOS EMBARGOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O conteúdo normativo de todas as normas apontadas como violadas não foi debatido pelo Tribunal de origem, carecendo, no ponto, do imprescindível requisito do prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Dessa forma, mesmo tendo sido opostos embargos de declaração, estes não tiveram o condão de suprir o devido prequestionamento, razão pela qual deveria a parte, no recurso especial, ter suscitado a violação ao art. 535, II, do Código de Processo Civil, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Inafastável, nesse particular, a Súmula n. 211 desta Corte.
+ ..
+3. Agravo improvido.
+(AgRg nos EDcl no AREsp 740.572/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016)  grifou-se
+Com efeito, esta Corte admite o prequestionamento implícito/ficto dos dispositivos tidos por violados, desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem, o que não ocorreu na hipótese. Nesse sentido: AgInt no AREsp 332.087/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 25/08/2016; AgRg no AREsp 748.582/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 13/05/2016.
+Inafastável, no ponto, o teor das Súmulas 211/STJ e 282/STF, ante a ausência de prequestionamento.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
