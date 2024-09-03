@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por GERALDO CAMBRAIA DUCA contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 1.036 e-STJ):
+APELAÇÃO - AÇÃO ORDINÁRIA - APOSENTADORIA SUPLEMENTAR - CÁLCULO DO SUPERÁVIT TÉCNICO - METODOLOGIA ADOTADA - REGULARIDADE. Constatando-se que os critérios de distribuição e metodologia de cálculo do valor repassado aos assistidos a título de superávit técnico observaram as prescrições regulamentares e legais aplicáveis, não há ilegalidades a serem reconhecidas.
+Opostos embargos de declaração, esses foram acolhidos, sem modificação do resultado do julgamento (fls. 1.057-1.059 e-STJ).
+Em suas razões de recurso especial (fls. 1.062-1.074 e-STJ), a parte recorrente aponta violação ao art. 19 da Lei Complementar n. 109/2001, além de dissídio jurisprudencial, sustentando, em suma, a "ilegalidade do procedimento de incidência da contribuição VALIA sobre a suplementação para o cálculo do percentual devido a título do superávit técnico, devendo incidir tal percentual sobre o valor bruto da suplementação sem qualquer desconto".
+Contrarrazões às fls. 1.121-1.134 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 1.141-1.142 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência dos óbices das Súmulas 5 e 7 do STJ.
+Daí o agravo (fls. 1.145-1.158 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 1.163-1.177 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca da legalidade do pagamento de suplementação de previdência privada na hipótese dos autos.
+O Tribunal de origem, com base na análise dos elementos fáticos delineados na lide, manteve a sentença de improcedência do pedido inicial, sob a seguinte fundamentação (fls. 1.039-1.043 e-STJ):
+Contra a sentença recorrida foram opostos embargos de declaração, cuja decisão foi publicada em 09 de setembro de 2022, vindo a apelação em 30 de setembro de 2022 no prazo legal, desacompanhada de preparo, por estar o Apelante amparado pelos benefícios da justiça gratuita.
+Estão presentes, portanto, os requisitos para conhecimento do recurso, que recebo em ambos os efeitos.
+A insurgência recursal cinge-se aos critérios de distribuição e metodologia de cálculo do superávit técnico adotados pela instituição requerida.
+Ora, a relação estabelecida entre as partes tem caráter contratual, sendo distinta daquela estipulada com a Previdência Social, que é compulsória e decorre de lei.
+A concessão dos benefícios de natureza complementar obedece, portanto, às regras estabelecidas no estatuto e no regulamento da entidade.
+O Apelante pretende a condenação da Apelada ao pagamento do benefício mínimo de R$ 500,00, retroativamente à data em que a referida verba deveria ter sido paga, tendo em vista que jamais gozou de qualquer vantagem pecuniária a esse título, já que seu benefício é superior a este valor. (..).
+A Apelada alega que os critérios de distribuição do superávit, prevista no art. 36, § 9o, Regulamento do Plano de Benefício Definido, foram submetidos ao seu Conselho Deliberativo, bem como à Secretaria da Previdência Complementar, órgão do Ministério da Previdência Social, os quais os aprovaram, inexistindo, pois, qualquer ilegalidade no procedimento.
+De fato, os documentos colacionados aos autos comprovam que a proposta de distribuição do superávit da Apelada foi aprovada pelo Conselho Deliberativo, bem como pela Secretaria da Previdência Complementar, sendo satisfeitas as exigências legais e regulamentares pertinentes, não havendo irregularidade do procedimento.
+É a resposta do perito judicial aos quesitos 9 e 11 apresentados pela parte requerida, doe. 71, f. 6 e 8: (..).
+A referida regra visa a deferir aos necessitados um ganho adicional, para aumentar sua renda, atendendo aos princípios da dignidade da pessoa humana e do patrimônio mínimo existencial, não havendo qualquer ilegalidade a ser declarada.
+Ademais, não estando evidenciado que a Apelada deixou de pagar quaisquer valores devidos ao Apelante, não pode prosperar o pleito condenatório relativo ao pagamento do benefício mínimo de R$ 500,00. (..).
+O Apelante requer, ainda, a modificação da sentença, para que seja declarada a ilegalidade da realização de descontos a título de contribuição sobre a distribuição do superávit.
+Contudo, a metodologia de cálculo do valor repassado aos assistidos a título de superávit técnico encontra respaldo na proposta de distribuição de superávit encaminhada ao Conselho Deliberativo da Instituição requerida, e aprovada pela Secretaria da Previdência Complementar.
+Ademais, não está evidenciado que a instituição Requerida realizou qualquer desconto de contribuição VALIA sobre os valores distribuídos a título de superávit técnico, e havendo provas de que a metodologia de cálculo utilizada foi devidamente submetida ao seu Conselho Deliberativo, em atenção ao art. 25 do Estatuto da VALIA, e aprovada pelo órgão governamental competente, inexiste ilegalidade a ser declarada.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame da legalidade do pagamento da suplementação de aposentadoria de acordo com as regras do plano de previdência - demandaria o reexame das provas dos autos, juízo obstado pela Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. REVALORAÇÃO JURÍDICA. INEXISTÊNCIA DOS ÓBICES PREVISTOS NAS SÚMULAS 5 E 7, DO STJ. PREVIDÊNCIA PRIVADA. PLANO DE CUSTEIO. DESPESA ADMINISTRATIVA. INSTITUIÇÃO DE TAXA. VIABILIDADE. ART. 18, CAPUT, DA LC 109/2001. AUSÊNCIA DE REDUÇÃO DE BENEFÍCIO. REGIME DE CUSTEIO. DIREITO ADQUIRIDO. INEXISTÊNCIA. PRECEDENTES. NÃO RECEBIMENTO DE ABONO APTO A JUSTIFICAR A COBRANÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+(..) 3. Seja sob a égide da Lei nº 6.435/1977 ou das Leis Complementares nºs 108/2001 e 109/2001, sempre foi permitida à entidade fechada de previdência privada alterar os regulamentos dos planos de custeio e de benefícios como forma de manter o equilíbrio atuarial das reservas e cumprir os compromissos assumidos diante das novas realidades econômicas e de mercado que vão surgindo ao longo do tempo. Por isso é que periodicamente há adaptações e revisões dos planos de benefícios a conceder, incidindo as modificações a todos os participantes do fundo de pensão após a devida aprovação pelos órgãos competentes (regulador e fiscalizador), observado, em qualquer caso, o direito acumulado de cada aderente. Daí o caráter estatutário do plano de previdência complementar, próprio do regime de capitalização (REsp 1443304/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/5/2015, DJe 2/6/2015 (..).
+(AgInt no AREsp 1120296/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. BENEFÍCIO MÍNIMO. SUPERÁVIT.
+1. As questões do benefício mínimo e da forma de cálculo da distribuição do superávit foram decididas com base na análise das provas constantes dos autos e na interpretação de cláusulas contratuais, de modo que rever a conclusão do Tribunal de origem sobre tais temas encontra óbice nas Súmulas 5 e 7/STJ.
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 701.350/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2015, DJe 24/11/2015)
+Nesse mesmo sentido: AREsp n. 1.593.163, Ministro João Otávio de Noronha, DJe de 28/11/2019; AREsp n. 2.321.454, Ministro Raul Araújo, DJe de 02/05/202; AREsp n. 2.150.081, Ministro Antonio Carlos Ferreira, DJe de 20/12/2022.
+1.1. Registra-se, por fim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Precedentes: AgInt no REsp 1765794/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020; AgInt no REsp 1886167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020; AgInt no AREsp 1609466/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
