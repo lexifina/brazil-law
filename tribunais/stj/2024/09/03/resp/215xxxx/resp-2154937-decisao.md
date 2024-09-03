@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, "a" da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 259/260):
+PROCESSO CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE RURAL COMPROVADA SEM EFEITO DE CONTAGEM PARA CARÊNCIA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUERIMENTO ADMINISTRATIVO. REAFIRMAÇÃO DA DER.
+I - Aplica-se ao caso o Enunciado da Súmula 490 do E. STJ.
+II - A orientação colegiada é pacífica no sentido de que razoável início de prova material não se confunde com prova plena, ou seja, constitui indício que deve ser complementado pela prova testemunhal quanto à totalidade do interregno que se pretende ver reconhecido. Portanto, os documentos apresentados, complementados por prova testemunhal idônea, comprovam o labor rural antes das datas neles assinaladas.
+III - Ante o conjunto probatório, deve ser reconhecido o labor da autora na condição de rurícola, sem registro em carteira, em parte do período pleiteado, devendo ser procedida à contagem de tempo de serviço cumprido no citado interregno, independentemente do recolhimento das respectivas contribuições previdenciárias, os quais devem ser contados para todos os fins exceto para efeito de carência, nos termos do art. 55, parágrafo 2º, da Lei8.213/91.
+IV - Somado o período de atividade rural e atividade comum (dados do CNIS), a autora não apresenta tempo suficiente para a concessão do benefício de aposentadoria por tempo de contribuição.
+V - À vista da continuidade de vínculos empregatícios, conforme consulta realizada junto ao CNIS, há de se aplicar o disposto no art. 493 do Novo CPC, para fins de verificação do cumprimento dos requisitos necessários à concessão do benefício de aposentadoria por tempo de contribuição, no curso da demanda. Assim, computando-se os períodos contributivos até 15.06.2019 (reafirmação da DER), a parte autora completou tempo suficiente à concessão do benefício de aposentadoria por tempo de contribuição (CF/88, art. 201, § 7º, inc. I, com redação dada pela EC20/98). O cálculo do benefício deve ser feito de acordo com a Lei 9.876/99,com a incidência do fator previdenciário, uma vez que a pontuação totalizada(76.34 pontos) é inferior a 86 pontos (Lei 8.213/91, art. 29-C, inc. II ,incluído pela Lei 13.183/2015).
+VI - Tendo em vista que à época do indeferimento administrativo do benefício, a autora fazia jus ao benefício, o termo inicial do benefício deve ser fixado a partir da data da reafirmação da DER, quando preenchidos os requisitos.
+VII - Apelação do INSS e remessa oficial tida por interposta parcialmente providas.
+Opostos embargos de declaração, foram rejeitados (fl. 313).
+Aponta o recorrente violação aos arts. 85, caput, 927, III e 1.022, II, do CPC, 389, 394, 395 e 396 do CC, sustentando, além de negativa de prestação jurisdicional, que "O acórdão regional, acolhendo a tese da reafirmação da DER, não observou os parâmetros fixados no julgamento do Tema 995 devendo, assim, ser adotada, no tocante aos juros de mora e aos honorários advocatícios, a providência prevista no artigo 1.030, inciso II do Código de Processo Civil, .." (fl. 322).
+Afirma que, "os nobres julgadores, ao julgarem os embargos declaratórios, limitaram-se a apontar que o acórdão embargado abordou todas as questões suscitadas pelo embargante, não apreciando a questão jurídica levantada pela autarquia previdenciária acerca do termo inicial do benefício, da inexigibilidade de juros de mora sobre as parcelas vencidas, os quais somente poderão ser aplicados após 45 dias caso o INSS não efetive a implantação do benefício, e sobre a impossibilidade de condenação em honorários advocatícios sobre o valor da condenação, em razão da ausência de sucumbência" (fl. 323).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 332/334.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro Moura Ribeiro DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar
+provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro Herman Benjamin, DJe 1º/7/2021)
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas nos embargos de declaração suscitou (fls. 272/275):
+OMISSÃO. REAFIRMAÇÃO DA DER. IMPLEMENTAÇÃO DOS REQUISITOS ENTRE ACONCLUSÃO DO PROCESSO ADMINISTRATIVO E O AJUIZAMENTO DA AÇÃO JUDICIAL. TERMO INICIAL DO BENEFÍCIO
+Trata-se de pedido de reafirmação da DER para o momento em que o segurado implementou os requisitos para concessão do benefício, antes do ajuizamento da ação judicial No caso dos autos, foi fixada a data de início do benefício (termo inicial dos efeitos financeiros) na data da implementação dos requisitos.
+Todavia, o v. acórdão omitiu-se quanto ao fato de que somente após a citação o INSS teve ciência, eis que na data da conclusão do processo administrativo, deda pretensão do segurado para reafirmação da DER fato, a parte autora não preenchia os requisitos para concessão da aposentadoria.
+Assim, nos termos do, o INSS somente foi constituído em mora a partir da citação, art. 240 do CPC razão pela qual deve ser fixado nesta data o termo inicial do benefício do segurado:
+(..)
+Tal afirmação também encontra supedâneo na Lei de Benefícios, que prevê expressamente que o benefício é devido a partir da (). Infere-se que data do requerimento do benefício art. 49, I, "b" e II e art. 54não o ato judicial que o INSS da pretensão do segurado fará as vezes do ato para fins de havendo requerimento com única incidência da norma e perfectibilização do direito, fixando nele o termo inicial do benefício.
+Assim, requer o INSS seja afastada a omissão apontada, com a finalidade de fixar o termo inicial do benefício na data da citação, bem como requer manifestação expressa a respeito da aplicação ao caso do art. 240 do CPC c/c artigos 49, I, "b" e II e art. 54 da Lei 8.213/91.
+OMISSÃO. JUROS MORATÓRIOS APÓS 45 DIAS DA DETERMINAÇÃO DOCUMPRIMENTO DA OBRIGAÇÃO DE FAZER.
+O acórdão embargado se mostra omisso também no tocante ao entendimento firmado no Tema 995quanto aos juros moratórios.
+Segundo o entendimento firmado no julgamento dos embargos de declaração opostos pelo INSS contra o acórdão proferido no julgamento do referido tema, os juros de mora só incidem após o INSS intimado para o cumprimento da obrigação, consistente na implantação do benefício reconhecido pela reafirmação da DER, não o faz no prazo de 45 dias, contando-se os juros a partir de então, conforme se verifica do trecho da ementa abaixo:
+(..)
+Assim, com relação aos juros moratórios, o acórdão embargado não está em consonância com a tese fixada no recurso especial repetitivo, de observância obrigatória, nos termos do artigo 927, inciso III, do CPC.
+Com efeito, os juros de mora assumem dupla função no processo: por um lado penalizar o litigante pelo descumprimento da obrigação reconhecida em juízo e, por outro, compensar aparte autora pela contumácia do devedor, como previsto expressamente nos artigos 389 e 395 do Código Civil:
+(..)
+Ademais, o INSS não pode responder pelos juros antes de ter descumprido a obrigação, pois nesse caso não haverá mora, nos termos dos artigos 394 e 396 do Código Civil:
+(..)
+Dessa forma, é de rigor o expresso pronunciamento sobre a impossibilidade de computar juros moratórios sobre as parcelas vencidas, os quais somente poderão ser aplicados após 45 dias caso o INSS não efetive a implantação do benefício, nos termos do precedente acima mencionado.
+OMISSÃO. DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE SUCUMBÊNCIA
+Por fim, o acórdão embargado se mostra omisso no tocante à condenação do INSS no pagamento de honorários advocatícios, não obstante a reafirmação da DER ter ocorrido somente em juízo, considerando que o implemento dos requisitos ocorreu antes do ajuizamento da ação e após a conclusão do processo administrativo, o que poderia ensejar novo requerimento, assim, não houve resistência do INSS.
+(..)
+Com efeito, o Código de Processual Civil adota o princípio da causalidade para determinar que são devidos honorários pela parte vencida ao advogado do vencedor (art. 85, caput, do CPC).
+Assim, tratando-se de reafirmação da DER, afasta-se a relação de causa entre o indeferimento administrativo e o ajuizamento da demanda.
+(..)
+No caso dos autos, o INSS não se insurgiu quanto a possibilidade de reafirmação da DER, nem tampouco houve descumprimento da obrigação reconhecida em juízo, razão pela qual é de rigor o expresso pronunciamento sobre a impossibilidade de condenação do INSS em honorários advocatícios em razão da ausência de sucumbência.
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022, II, do CPC.
+ANTE O EXPOSTO, dou provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
+EMENTA
