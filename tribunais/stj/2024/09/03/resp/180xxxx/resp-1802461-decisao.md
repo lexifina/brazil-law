@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto por MARIA LUIZA DA CONCEIÇÃO contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+PREVIDENCIÁRIO E PROCESSO CIVIL. PENSÃO POR MORTE. REQUERIMENTO ADMINISTRATIVO NEGADO. PRETENSÃO DE REVISÃO DO ATO. AJUIZAMENTO DA AÇÃO APÓS O QUINQUÊNIO LEGAL. PRESCRIÇÃO. APELAÇÃO IMPROVIDA.
+1. Pretende a requerente que lhe seja concedido o benefício de pensão por morte, retroativo à data do requerimento administrativo, em 24.09.2008. O juiz sentenciante extinguiu o processo com resolução do mérito ante o reconhecimento da prescrição, porquanto transcorridos mais de 9 (nove) anos entre o indeferimento na via administrativa e o ajuizamento da ação, nos termos do artigo 103 da Lei nº 8.213/91.
+2. Não se trata aqui de reconhecimento da prescrição do direito à obtenção do benefício em si, o qual sabe-se que é imprescritível.
+3. Não há que se falar em prestação de trato sucessivo, vez que a impugnação se refere a um ato específico (indeferimento do benefício previdenciário), o qual não se renova mês a mês. O indeferimento configura ato de negativa do próprio direito reclamado, tendo início a partir dele o prazo quinquenal para impugnação, a teor do disposto no art. 1º do Decreto nº 20.910/32.
+4. Tendo sido indeferido o benefício em 24.09.2008 e ajuizada a ação somente em 06.03.2018, mais de 9 (nove) anos após, resta configurada a prescrição.
+5. Resta incólume o direito da parte de pleitear a obtenção de qualquer benefício, desde que busque novamente na via administrativa ou perante o judiciário, e demonstre que atende os requisitos legais.
+6. Apelação da autora improvida. mantendo a sentença que extinguiu o feito, com resolução de mérito, nos termos do art. 487, II, do CPC/15. Sem condenação em honorários sucumbenciais, tendo em vista a ausência de condenação na sentença.
+No recurso especial, a parte recorrente sustenta, em síntese, que o acórdão ora recorrido contrariou o entendimento jurisprudencial do STJ pois "no presente caso a prescrição não atinge o fundo de direito, mas somente às parcelas vencidas há mais de 05 (cinco) anos da data do ajuizamento da demanda, consoante a iterativa jurisprudência dos Tribunais, posto que o benefício de pensão por morte pleiteado corresponde a uma relação de trato sucessivo e atende necessidades de caráter alimentar, constituindo um direito indisponível".
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Decido.
+O recurso especial não merece ser conhecido.
+Com efeito, a admissibilidade do recurso especial, tanto pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF. Nesse sentido: AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, julgado em 18/12/2013, DJe de 17/3/2014; AgInt no AREsp n. 1.656.469/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/10/2020, DJe de 26/10/2020; AgInt no AREsp n. 1.664.525/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/10/2020, DJe de 14/12/2020.
+Cumpre destacar, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.738.090/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021). Nesse sentido: REsp n. 775.021/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2009, DJe de 27/8/2009.
+No caso, a par te recorrente deixou de indicar quais os dispositivos de lei federal teriam sido violados ou objeto de interpretação divergente pelos acórdãos confrontados, motivo pelo qual é o caso de incidência do óbice da Súmula 284/STF.
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se .
+ EMENTA
