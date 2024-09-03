@@ -1,0 +1,72 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de JORGE FERNANDO SAIN SOUZA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2218921-52.2024.8.26.0000).
+Consta dos autos ter sido o paciente preso temporariamente, pela suposta prática do crime de homicídio tentado.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada (e- STJ fls. 127/131).
+Neste writ, sustenta a defesa inexistir justificativa idônea para a prisão cautelar, asseverando que militam em favor do paciente condições pessoais favoráveis.
+Aduz que "tudo aconteceu porque o Paciente foi vítima de um furto que aconteceu em sua residência e por essa razão acabou se envolvendo em uma discussão/briga acalorada, não havendo qualquer animus necandi por parte do Paciente,  ..  evidenciado pelo fato de que se  ..  quisesse ceifar a vida da suposta vítima teria esgotado todos os meios hábeis para consumar o delito, portanto, o que de fato aconteceu foi uma briga entre o paciente e os suspeitos de terem furtado sua residência" (e-STJ fl. 5).
+Busca, inclusive liminarmente, seja revogada a prisão temporária do paciente.
+Liminar indeferida (e-STJ fls. 245/246).
+Informações prestadas (e-STJ fls. 252/255 e 256/264).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 268/273).
+É o relatório.
+Decido.
+Insurge-se a defesa contra a prisão temporária imposta ao paciente.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão esteja sempre concretamente fundamentado.
+A prisão temporária é regida pela Lei n. 7.960/1989, que prevê em seu art. 1º as hipóteses em que são cabíveis essa modalidade de prisão, a saber:
+I - quando imprescindível para as investigações do inquérito policial;
+II - quando o indicado não tiver residência fixa ou não fornecer elementos necessários ao esclarecimento de sua identidade;
+III - quando houver fundadas razões, de acordo com qualquer prova admitida na legislação penal, de autoria ou participação do indiciado nos seguintes crimes:  ..
+No caso, são estes os fundamentos invocados para a decretação da prisão temporária (e-STJ fls. 93/94):
+A decretação da prisão temporária depende do cumprimento conjugado de ao menos dois requisitos constantes no art. 1º da Lei nº 7.960/1989:  ..
+A jurisprudência e a doutrina asseveram que "caberá prisão temporária "quando imprescindível para as investigações do inquérito policial" (art. 1º, inc. I). Refere-se a eventuais entraves que impedem se possa esclarecer devidamente o fato criminoso e suas circunstâncias, bem como sua autoria. Verificando-se, assim, a imprescindibilidade da prisão para a investigação"o policial pode ser ela decretada" (Julio Fabbrini M irabete) (TJSC, H C nº 2013.042940-6, Rel. Des. M oacyr de M oraes Lima Filho, j. 20/11/2012).
+Pois, no caso em tela, tais pressupostos encontram-se perfeitamente preenchidos.
+Já nesta fase indiciária, há fortes elementos ligando o(s) representado(s) à autoria do crime de tentativa de homicídio.
+Conforme se depreende dos autos, o investigado Jorge Fernando Sain Souza seria o responsável pelo crime de tentativa de homicídio da vítima Cleber Fonseca da Costa.
+Evidencia-se, ainda, a imprescindibilidade da segregação para o sucesso da persecução penal, garantindo a serenidade e efetividade da atuação policia, já que na representação da polícia judiciária noticia que o averiguado está  intimidando não só os familiares da vítima, mas também testemunha do fato.
+Outrossim, é presumível que a manutenção do representado em liberdade, após ser conduzido à delegacia, poderia frustrar completamente o intento investigativo - é fácil concluir que, uma vez ciente das suspeitas que recaem sobre si, o agente buscaria apagar pistas - e, o que turbaria irremediavelmente as investigações.
+Em suma, é preciso e esclarecer o mais rápido possível as circunstâncias fáticas do gravíssimo crime praticado, justificando o expediente.
+Desse modo, conquanto se trate de medida gravosa ao status libertatis, pela sua brevidade, observadas as disposições legais atinentes à espécie, afirma-se a prisão temporária em situações excepcionais como a presente, pelo que se impõe o deferimento do pedido.
+Ante o exposto, com fundamento no art. 1º, incisos I e III, "a", da Lei 7.960/89, DECRETO A PRISÃO TEMPORIRIA, pelo prazo de 30 (trinta) dias, do investigado Jorge Fernando Sain Souza.(Grifei.)
+O Tribunal de origem denegou a ordem valendo-se dos seguintes fundamentos (e-STJ fls. 129/130):
+O paciente está sendo investigado por suposta prática de crime de homicídio tentado, ocorrido em 07/07/2024, ocasião em que, após discussão, teria agredido a vítima com um capacete de moto e chutes na região da cabeça, causando-lhe sérias fraturas no crânio (fls. 57/58).
+Após representação do Delegado de Polícia (fls. 30/40), instruída com pertinente relatório de investigações (fls. 41/52), e manifestação favorável do Ministério Público (fls. 62/64), a Autoridade Judicial, por meio de decisão datada de 17/07/2024, decretou, motivadamente, com base elementos extraídos do caso concreto, a prisão temporária do paciente, destacando que:
+"Já nesta fase indiciária, há fortes elementos ligando o(s) representado(s) à autoria do crime de tentativa de homicídio.
+Conforme se depreende dos autos, o investigado Jorge Fernando Sain Souza seria o responsável pelo crime de tentativa de homicídio da vítima Cleber Fonseca da Costa.
+Evidencia-se, ainda, a imprescindibilidade da segregação para o sucesso da persecução penal, garantindo a serenidade e efetividade da atuação polícia, já que na representação da polícia judiciária noticia que o averiguado está intimidando não só os familiares da vítima, mas também testemunha do fato.
+Outrossim, é presumível que a manutenção do representado em liberdade, após ser conduzido à delegacia, poderia frustrar completamente o intento investigativo - é fácil concluir que, uma vez ciente das suspeitas que recaem sobre si, o agente buscaria apagar pistas - e, o que turbaria irremediavelmente as investigações.
+Em suma, é preciso e esclarecer o mais rápido as circunstâncias fáticas do gravíssimo crime praticado, justificando o expediente.
+Desse modo, conquanto se trate de medida gravosa ao status libertatis, pela sua brevidade, observadas as disposições legais atinentes à espécie, afirma-se a prisão temporária em situações excepcionais como a presente, pelo que se impõe o deferimento do pedido.
+4. Ante o exposto, com fundamento no art. 1º, incisos I e III, "a", da Lei 7.960/89, DECRETO A PRISÃO TEMPOR RIA, pelo prazo de 30 (trinta) dias, do investigado Jorge Fernando Sain Souza." (sic - fls. 66/71).
+Há idônea fundamentação para a manutenção da prisão temporária.
+Com efeito, há registro na representação da autoridade policial dando conta de que o paciente estaria intimando familiares da vítima, além de testemunhas do fato.
+Frente a este contexto, havendo possibilidade de que o acusado esteja adotando meios para obstruir a investigação, por meio de intimidação de pessoas, há prisão temporária deve ser preservada para a cabal elucidação dos fatos. (Grifei.)
+Nota-se que foram apresentados fundamentos concretos para justificar a decretação da prisão temporária do paciente, por haver fortes indícios de que ele seria o responsável pelo crime de tentativa de homicídio da vítima Cleber Fonseca da Costa, razão por que se mostra necessária a custódia a fim de apurar os fatos.
+A mais disso, o acusado estaria intimidando familiares do ofendido e possível testemunha do fato, o que reforça a imprescindibilidade da manutenção da medida constritiva.
+Logo, foram atendidos os preceitos legais da Lei n. 7.960/1989, que disciplina a prisão temporária, instituto que visa resguardar e garantir o regular início das investigações de crimes graves que demandem atuação urgente.
+Nesse mesmo sentido, guardadas as devidas peculiaridades:
+AGRAVO REGIMENTAL EM EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. ROUBO MAJORADO. HOMICÍDIO QUALIFICADO. FURTO QUALIFICADO. PRISÃO TEMPORÁRIA. INDÍCIOS RAZOÁVEIS DE PARTICIPAÇÃO NOS DELITOS INVESTIGADOS. CONTEMPORANEIDADE VERIFICADA. AGRAVANTES FORAGIDOS. AGRAVO DESPROVIDO.
+1. A prisão temporária é regida pela Lei n. 7.960/1989, que prevê em seu art. 1º as hipóteses em que são cabíveis essa modalidade de prisão.
+2. Consta no decisum que Jefferson seria "líder do grupo mencionado, responsável por organizar e planejar ações delituosas, em especial tráfico de drogas e roubo qualificado"; Leandro o "dirigente regional que atua na região do distrito de Boa União e adjacências, possuidor de extensa ficha criminal (P-0039/16; IP-0071/17, IP-0025/19: IP-0027/19) e braço direito de JEFERSON"; e Tawan estaria no veículo furtado que teria sido utilizado na "tentativa de roubo que culminou na morte da referida vítima".
+3. Nota-se que foram apresentados fundamentos concretos para justificar a decretação da prisão temporária dos ora agravantes, por haver indícios razoáveis de participação em associação criminosa complexa e bem estruturada, especializada na prática de delitos patrimoniais, e também da prática de homicídio na ação delitiva objeto deste writ, sendo necessária a custódia a fim de apurar os fatos, razão pela qual se mostra imprescindível a manutenção da medida constritiva. Logo, foram atendidos os preceitos legais da Lei n. 7.960/1989, que disciplina a prisão temporária, instituto que visa resguardar e garantir o regular início das investigações de crimes graves que demandem atuação urgente.
+ ..
+5. Agravo regimental desprovido. (AgRg nos EDcl no HC n. 801.492/BA, de minha relatoria, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO TEMPORÁRIA. LEI N. 7.960/1989. FUNDAMENTAÇÃO SUFICIENTE. HOMICÍDIO DOLOSO. IMPRESCINDIBILIDADE PARA AS INVESTIGAÇÕES. AGRAVO NÃO PROVIDO.
+1. O art. 1º da Lei 7.960/1989 evidencia que o objetivo primordial da prisão temporária é o de acautelar o inquérito policial, procedimento administrativo voltado a esclarecer o fato criminoso, a reunir meios informativos que possam habilitar o titular da ação penal a formar sua opinio delicti e, em outra abordagem, a servir de lastro à acusação.
+2. O Magistrado singular apontou concretamente a presença dos vetores contidos no art. 1º, I e III, "a", da Lei n. 7.960/1989, indicando motivação suficiente para justificar a necessidade de colocar o agravante cautelarmente privado de sua liberdade, ao ressaltar a imprescindibilidade da medida para as investigações do inquérito policial, visto que, após minudenciar todas as diligências realizadas pela autoridade policial ("imagens captadas por câmeras de monitoramento, oitiva das esposa e irmã da vítima, diligências de campo e análise das planilhas da operadora telefônica"), concluiu que "somente com as informações coletas não foi possível esclarecer os fatos".
+3. Agravo regimental não provido. (AgRg no HC n. 644.604/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/3/2021, DJe de 17/3/2021, grifei.)
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO CONSUMANDO. PRISÃO TEMPORÁRIA. ÉDITO CONSTRITIVO SUFICIENTEMENTE FUNDAMENTADO. PRESENÇA DOS REQUISITOS AUTORIZATIVOS EXPRESSOS NA LEI N.º 7.960/1989. PACIENTE FORAGIDO. INQUÉRITO EM ANDAMENTO. PRECEDENTES DESTA CORTE SUPERIOR. ORDEM DE HABEAS CORPUS DENEGADA.
+1. O decreto de prisão temporária foi satisfatoriamente motivado pelo Juízo processante, pois consignou fatos concretos que revelam a imprescindibilidade da prisão do Paciente, a teor do disposto no art. 1.º, incisos I, II e III, alínea a, da Lei n. 7.960/1989.
+2. No caso, foi decretada a prisão temporária do Paciente, no dia 28/04/2020, nos autos do inquérito policial instaurado para apurar a prática de homicídio consumado, ocorrido em 31/05/2019. Ao que se tem dos autos, a Vítima foi torturada e morta a mando do Paciente, que é traficante, porque teria furtado entorpecentes.
+3. A jurisprudência do Superior Tribunal de Justiça, no sentido de que é possível decretar a prisão temporária quando imprescindível para as investigações do inquérito policial e houver indícios de autoria ou participação do indiciado em crime de homicídio, mormente em se tratando de delito de exacerbada gravidade, como no caso. ..
+5. Ordem de habeas corpus denegada. (HC n. 611.999/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/12/2020, DJe de 18/12/2020, grifei.)
+As demais teses não foram debatidas pelo colegiado estadual; assim, o Superior Tribunal de Justiça não pode delas conhecer, sob pena de configuração do chamado habeas corpus per saltum, a ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016. p. 2.470).
+Diante desse cenário, ante a falta de manifestação do colegiado local, evidente a incompetência desta Casa para o processamento e julgamento deste remédio constitucional, porquanto ausente ato a ser imputado à autoridade apontada como coatora.
+A propósito:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante todo o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
