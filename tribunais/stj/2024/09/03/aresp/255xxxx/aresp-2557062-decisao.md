@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravos em recursos especiais interpostos por FABRICIA MOITINHO FERREIRA contra decisão que inadmitiu seu recurso especial, fundamentados nas alíneas "a" e "c"do permissivo constitucional que, por sua vez, impugnam v. acórdão do eg. Tribunal de Justiça do Estado da Bahia, assim ementado (e-STJ fls. 667-668):
+"APELAÇÃO CÍVEL. PLANO DE SAÚDE COLETIVO. AUMENTO POR FAIXA ETÁRIA. APLICAÇÃO DAS REGRAS DA RN nº 63/2003 da ANS. TEMAS 905 E 1016, AMBOS DO STJ.
+c) Para os contratos (novos) firmados a partir de 1º/1/2004, incidem as regras da RN nº 63/2003 da ANS, que prescreve a observância:
+(i) de 10 (dez) faixas etárias, a última aos 59 anos;
+(ii) do valor fixado para a última faixa etária não poder ser superior a 6 (seis) vezes o previsto para a primeira; e
+(iii) da variação acumulada entre a sétima e décima faixas não pode ser superior à variação cumulada entre a primeira e sétima faixas.
+APELAÇÃO IMPROVIDA PARA MANTER A SENTENÇA COM FUNDAMENTO DIVERSO."
+Os embargos de declaração opostos foram acolhidos, com efeitos modificativos, nos termos da seguinte ementa (e-STJ fls. 805):
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL PLANO DE SAÚDE COLETIVO. CLÁUSULA DE REAJUSTE ANUAL. LIVRE PACTUAÇÃO DOS REAJUSTES ENTRE OS CONTRATANTES DE PLANOS NA MODALIDADE COLETIVA. CONTRADIÇÃO. REFORMA DA SENTENÇA. TRATANDO DE PLANO DE SAÚDE COLETIVO, NÃO HÁ PERCENTUAL PREVIAMENTE FIXADO PELA AGÊNCIA NACIONAL DE SAÚDE - ANS, DEVENDO A OPERADORA APENAS INFORMAR O REAJUSTE ANUAL APLICADO, O QUAL PODERÁ SER LIVREMENTE NEGOCIADO COM A CONTRATANTE. INTELIGÊNCIA DO ART. 8º, DA RESOLUÇÃO NORMATIVA Nº 128/2006 DA DIRETORIA COLEGIADA DA ANS E O § 2º DO ART. 35-E, DALEI Nº 9.656/98. EMBARGOS ACOLHIDOS PARA SANAR ACONTRADIÇÃO PARA DAR PROVIMENTO AO APELO."
+Nas razões do recurso especial, a agravante apontou dissídio jurisprudencial e ofensa aos arts. 489 e 1.022 do CPC. A par da alegação de inadequação da tutela jurisdicional entregue, sustentou que o v. acórdão recorrido acatou inovação recursal, uma vez que não houve sequer perícia no caso dos autos, como fora suscitado em aclaratórios pela parte ex adversa.
+Decisão que inadmitiu o recurso especial às fls. 1.194-1.203 (e-STJ).
+Apresentada contraminuta às fls. 1.238-1.245 (e-STJ).
+É o relatório. Decido.
+Inicialmente, convém esclarecer que, após manter a sentença em acórdão de apelação, sob o fundamentos referentes às limitações relativas a mudança de faixa etária, sobreveio a oposição de aclaratórios, afirmando que o debate dos autos não guardava relação com modificação de faixa etária, mas tão somente reajuste anual. Daí o acolhimento dos aclaratórios, com os seguintes fundamentos (e-STJ fl. 808):
+"Alega o embargante contradição no julgado, por ter a decisão tratado do reajuste por faixa etária, o que se acolhe. A respeito da controvérsia envolvendo a validade de cláusula de reajuste anual, considera-se livre a pactuação dos reajustes entre os contratantes de planos na modalidade coletiva.
+O artigo 35-E, §2º da Lei 9.656/98 estabelece que "nos contratos individuais de produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, independentemente da data de sua celebração, a aplicação de cláusula de reajuste das contraprestações pecuniárias dependerá de prévia aprovação da ANS". Porém, quanto aos contratos coletivos não há nenhuma vinculação aos percentuais fixados pela ANS, pelo contrário, a própria agência reguladora estabelece que os reajustes das contraprestações estabelecidas nestes contratos podem ser livremente pactuados entre a operadora e a contratante.
+Diante deste quadro, devem ser mantidos os reajustes anuais na forma aplicada no curso da contratualidade, pois inexiste qualquer vinculação destes com os índices divulgados pela ANS, não possuindo amparo a tese veiculada na inicial."
+Da leitura do trecho acima, evidencia-se que o v. acórdão recorrido decidiu a lide em sua integralidade, manifestando-se de forma expressa e coerente acerca de todos os argumentos relevantes para fundamentar sua decisão, ainda que tenha concluído em sentido diametralmente oposto ao sustentado pelas ora agravantes.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Assim, é de rigor o afastamento da alegada ofensa aos arts. 489 e 1.022 do CPC.
+Outrossim, não há, nos autos, debate acerca de perícia técnica, não se compreendendo a alegação de inovação recursal, a qual, de fato, não foi sequer objeto de prequestionamento. Desse modo, aplica-se ao ponto a Súmula 211/STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC, majoro os honorários advocatícios fixados em 10% para 12% sobre o valor da causa, observada eventual suspensão decorrente do benefício de gratuidade de justiça.
+Publique-se.
+EMENTA
