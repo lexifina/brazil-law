@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO ESTADO DE SERGIPE S/A contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe assim ementado:
+"APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - NÃO LOCALIZAÇÃO DE BENS PENHORÁVEIS - PRAZO PRESCRICIONAL DE 03 (TRÊS) ANOS - INCIDÊNCIA DA PRESCRIÇÃO INTERCORRENTE - PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO - SENTENÇA MANTIDA - RECURSO DESPROVIDO - DECISÃO UNÂNIME."
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 487, II, e 921, § 4º, do CPC/2015, defendendo a inaplicabilidade da prescrição intercorrente, diante da inexistência de início de sua contagem, porquanto o processo não ficou suspenso pelo prazo de 1 (um) ano, além da ausência de prévia intimação para impulsionar o processo.
+Contrarrazões não apresentadas (e-STJ, fl. 710).
+É o relatório. Decido.
+A Segunda Seção desta Corte, por ocasião do julgamento em 27/6/2018 do REsp 1.604.412/SC, admitido como Tema 1 de Incidente de Assunção de Competência, pacificou a divergência entre suas Turmas integrantes, consolidando as seguintes teses acerca da prescrição intercorrente sob a vigência do CPC/1973, com grifos no original:
+"1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição."
+No caso dos autos, o Tribunal de origem confirmou a sentença de extinção pela ocorrência da prescrição intercorrente da pretensão de execução extrajudicial de dívida líquida constante de contrato de abertura de crédito em conta corrente, porque o processo permaneceu paralisado desde novembro/2015, data apontada como suspensão automática, até novembro/2021, sem a adoção de providências úteis e/ou efetivas para a satisfação do crédito exequendo.
+Entretanto, examinando os atos processuais praticados, não se constata a paralisação do processo por tempo superior ao prazo prescricional aplicável, 5 (cinco) anos previsto pelo art. 206, § 5º, I, do CC, para a cobrança de dívidas líquidas constantes em instrumento público ou particular (v.g. AgInt no AREsp n. 2.069.973/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/12/2022, DJe de 14/12/2022).
+Com efeito, em setembro/2015 foi prolatada sentença de restauração dos autos (e-STJ, fls. 33-34) e, em ato contínuo, foram os autos conclusos para nova decisão em 4/11/2015 (e-STJ, fl. 35), cujo teor não está disponível, diante da página em branco de fl. 36 (e-STJ).
+A seguir, em 12/1/2016, foi juntado mandado para intimação pessoal do exequente para movimentação do processo, sob pena de extinção, no prazo de 48 (quarenta e oito) horas (e-STJ, fls. 37-39).
+Em 18/1/2016 foi juntada petição enviada pelo correio em 4/12/2015, requerendo providências para atualização de avaliação e penhora de bem imóvel que já havia sido nomeado à penhora (e-STJ, fl. 40).
+Em março/2016 foi juntado o mandado de avaliação não cumprido, pela ausência de localização do aludido bem (e-STJ, fl. 45).
+Em 24/3/2016 foi requerido o bloqueio de ativos da parte executada existentes em contas correntes (e-STJ, fls. 46-47), o qual foi infrutífero (e-STJ, fls. 60-61).
+Em agosto/2016, antes da intimação sobre o resultado negativo do supracitado bloqueio, a parte exequente postulou a pesquisa de bens que foi inexitosa (e-STJ, fls. 63-64)
+A partir de então foram deduzidos sucessivos pedidos de bloqueio de ativos e pesquisa de bens, todos infrutíferos, até a prolação da sentença de extinção em fevereiro/2022.
+Além disso, em agosto/2017 houve requerimento e deferimento da substituição de um executados que veio a óbito (e-STJ, fls. 109-110).
+Contudo, houve falha cartorária na expedição do mandado contendo o nome errado do espólio do executado substituto (e-STJ, fls. 127-129).
+Assim, apenas em julho/2018 foi juntado o manado de citação de sucessor do cumprido (e-STJ, fls. 166-169).
+Em agosto/2018 foi oposta exceção de pré-executividade pelo espólio substituto (e-STJ, fls. 174-181), a qual foi rejeitada em decisão de outubro/2018 (e-STJ, fls. 200-202).
+Por fim, anteriormente à sentença de extinção, pela prescrição intercorrente (em fevereiro/2022), nova intimação da parte para movimentação do processo apenas em novembro/2018, após prévia certificação acerca da ausência de oposição de embargos à execução (e-STJ, fls. 203-205).
+Desse modo, ao contrário do apontado pelas instâncias ordinárias, não houve prescrição intercorrente até a data da prolação da sentença que a declarou em fevereiro/2022.
+Isso, pois, não houve paralisação do processo ou dedução de providências inúteis ou infrutíferas, pelo menos, até agosto/2016 - data da ciência do primeiro resultado negativo da pesquisa de ativos, sem considerar o resultado negativo de avaliação e penhora de bem alegadamente nomeado à constrição em março/2016.
+Assim, a prescrição intercorrente teve por termo inicial agosto/2017 (um ano após a ciência do resultado negativo da penhora de bens), mas foi interrompida desde agosto/2017, pelo requerimento de substituição do executado falecido até a sua efetiva substituição em julho/2018, nos termos do art. 265, I, do CPC/2015.
+Outrossim, desde agosto/2018 até outubro/2018 havia exceção de pré-executividade pendente de resolução para o pleno prosseguimento da ação, incidente nos autos que inequivocamente implicou movimentação do processo.
+Portanto, constatada a divergência entre o acórdão recorrido e o entendiemnto qualificado firmado no IAC n. 1, é impositivo o provimento do recurso especial.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de afastar a prescrição intercorrente, determinando o prosseguimento da execução.
+Publique-se.
+EMENTA
