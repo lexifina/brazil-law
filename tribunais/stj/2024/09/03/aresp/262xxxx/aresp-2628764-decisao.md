@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por HAPVIDA ASSISTENCIA MEDICA S.A. e SAO FRANCISCO SISTEMAS DE SAUDE SOCIEDADE EMPRESARIA LIMITADA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 463):
+APELAÇÃO. PLANO DE SAÚDE. INDENIZAÇÃO POR DANOS MORAIS E MATERIAS. Sentença de procedência. Recurso da estipulante Alter. Acolhimento. Mera administradoraque é parte ilegítima. Recurso da operadora São Francisco. Negativa de internação em razão de carência. Abusividade. Urgência demonstrada. Dano moral configurado. Manutenção do quantum indenizatório em R$20.000,00. Observância dos princípios da razoabilidade e proporcionalidade. Recurso da estipulante provido e recurso da operadora desprovido.
+Sem embargos de declaração.
+No recurso especial, as agravantes alegam que o acórdão recorrido contrariou as disposições contidas nos arts. 12 da Lei n. 9.656/98; 412 e 413 do Código Civil; e 461, § 6º, do Código de Processo Civil.
+Sustentam, em síntese, que, "por força de lei federal, a autorização para a realização de internação só pode ser disponibilizada por qualquer Operadora atuante no país, após o cumprimento do prazo carencial de 180 dias, ou seja, no caso em tela, inexiste nexo causal capaz de configurar ato Ilícito, visto que a parte recorrida ainda não havia cumprido o prazo carencial devido" (fl. 443).
+Foram oferecidas contrarrazões ao recurso especial (fls. 476-485).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 486-488), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 500-505).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso em análise, a Corte de origem entendeu abusiva a negativa de cobertura do procedimento cirúrgico, considerando inaplicável o prazo de carência quando configurada a situação de urgência.
+É o que se extrai do seguinte trecho do acórdão recorrido (fl. 469):
+ ..  não se há de falar em período de carência para hipótese de situação de risco, matériafática por sinal nem sequer negada pela parte Requerida - e nessa situação a emergência deveras supera qualquer alegação de cláusula contratual que impedira o atendimento, por estar no prazo de carência.
+Assim não há como justificar a recusa perpetrada, ante a manifestasituação emergencial de internação para tratamento de que necessitara a Autora, nostermos da Perícia.
+Verifica-se que o entendimento adotado pela Corte local está em harmonia com a jurisprudência desta Corte Superior, segundo a qual é abusiva a negativa de cobertura para tratamento de emergência ou urgência do segurado, destacando, corretamente, ser impertinente exigir o cumprimento do período de carência.
+Nesse sentido, cito:
+RECURSO ESPECIAL. PLANO DE SAÚDE. PRAZO DE CARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. APENDICITE AGUDA. CARÊNCIA CONTRATUAL. ABUSIVIDADE DA CLÁUSULA RESTRITIVA. DANO MORAL. OCORRÊNCIA. PRECEDENTES.
+1. A cláusula que estabelece o prazo de carência deve ser afastada em situações de urgência, como o tratamento de doença grave, pois o valor da vida humana se sobrepõe a qualquer outro interesse. Precedentes específicos da Terceira e da Quarta Turma do STJ.
+2. A jurisprudência desta Corte "vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada". (REsp 918.392/RN, Rel. Ministra NANCY ANDRIGHI).
+3. Atendendo aos critérios equitativos estabelecidos pelo método bifásico adotado por esta Egrégia Terceira Turma e em consonância com inúmeros precedentes desta Corte, arbitra-se o quantum indenizatório pelo abalo moral decorrente da recusa de tratamento médico de emergência, no valor de R$ 10.000, 00 (dez mil reais).
+4. RECURSO ESPECIAL PROVIDO.
+(REsp 1243632/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 11/09/2012, DJe 17/09/2012)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. ACÓRDÃO RECORRIDO. CONTRADIÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. INTERNAÇÃO MÉDICA. URGÊNCIA RECONHECIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. PERÍODO DE CARÊNCIA. ATENDIMENTO DE EMERGÊNCIA. RECUSA INJUSTIFICADA. SÚMULA N. 597 DO STJ. DANO MORAL. CARACTERIZAÇÃO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. A contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado, e não entre o julgado e as razões da parte.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2.1. O Tribunal de origem afirmou que, quando da recusa de internação pelo plano de saúde, o autor se encontrava em estado de emergência médica e que, em tal quadro clínico, foi obrigado a procurar, sem auxílio algum da operadora do plano, leito disponível para atendimento na rede pública de saúde. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação" (Súmula n. 597 do STJ).
+4. "A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis" (AgInt no REsp n. 1.838.679/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/3/2020, DJe 25/3/2020). Aplicação da Súmula n. 83 do STJ.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1657633/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Ademais, ressalto, por oportuno, que "não se limita a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado" (AgInt no AgInt no AREsp 1458340/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 28/10/2019, DJe de 30/10/2019).
+Dess arte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 467).
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E DO CONSUMIDOR. PLANO DE SAÚDE. CUMPRIMENTO DE PRAZO DE CARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. NEGATIVA DE COBERTURA DE INTERNAÇÃO. ABUSIVIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
