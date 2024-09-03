@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSE CARLOS DOS SANTOS contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado de Goiás (TJ-GO), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado, com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim sumariado (fls. 1.919):
+" EMENTA: AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO INTERLOCUTÓRIA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE NÃO EXTINGUE O PROCESSO. RECURSO APELATÓRIO. INADEQUAÇÃO DA VIA ELEITA. ERRO GROSSEIRO.
+I - Nos termos do art. 1.021 do CPC, das decisões proferidas pelo Relator caberá agravo interno para o respectivo órgão colegiado, no prazo de 15 (quinze dias),observadas as regras do Regimento Interno do Tribunal quanto ao seu processamento.
+II - Não há que se falar em violação ao art. 93, inciso IX, da Constituição Federal, pois, conforme precedentes do Superior Tribunal de Justiça "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie." (AgInt no REsp n. 1.584.831/CE, Rel. Min. Humberto Martins, Segunda Turma, DJe 21/06/2016).
+III - In casu, ainda que o agravante pugne quanto à extinção do cumprimento de sentença e consequente validade da interposição da apelação, este posicionamento não subsiste diante da realidade fática, tendo em vista que a decisão fustigada, ainda que tenha reconhecido a impossibilidade de cumprimento da obrigação de fazer (retificação da Declaração do Imposto sobre a Renda Retido na Fonte - Dirf) por parte do executado/recorrido determinou a expedição de alvará para transferência do valor de R$34.194,40 (trinta e quatro mil e cento noventa e quatro reais e quarenta centavos) e a posterior intimação do exequente/recorrente para requerer o que entender de direito.
+IV - Assim, por se tratar de decisão interlocutória (art. 203, § 2º, CPC/2015), eis que não houve a extinção da execução/cumprimento de sentença, o recurso cabível é o agravo de instrumento, e não a apelação.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO"
+Nas razões do apelo nobre (fls. 1.930-1.949), JOSE CARLOS DOS SANTOS aponta ofensa aos arts. 203, §§1º e 2º, 932, III, 1.009, caput e 1.015, parágrafo único, do CPC/15, ao argumento, entre outros de que "(..) nada obstante a Excelentíssima Senhora Doutora Juíza de Direito -Erika Barbosa Gomes Cavalcante ter intitulado o ato judicial combatido na origem como "decisão", ao reconhecer a impossibilidade de cumprimento da obrigação de fazer, a douta magistrada atribuiu características próprias de sentença terminativa. Isto porque, uma vez que a obrigação de pagar já fora integralmente satisfeita (pendente, à época da prolação, apenas de resgate do alvará), não restava outra alternativa senão o arquivamento dos autos, visto que inexistente prestação jurisdicional a ser cumprida" (fls. 1.947 - destaques no original).
+Aduz, também, que "(..) de acordo com o parágrafo único do artigo 1.015, do Código de Processo Civil de 2015, caberá Agravo de Instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário. Por sua vez, o artigo 1.009, do mesmo diploma informa que caberá Apelação em caso de "sentença" " (fls. 1.948).
+Intimado, BANCO DO BRASIL S/A apresentou contrarrazões (fls. 1.977-1.984), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 1.991-1.994), motivando o agravo em recurso especial (fls. 2.001-2.009) em testilha.
+É o relatório. Passo a decidir.
+No caso, o eg. TJ-GO não conheceu da apelação do ora Agravante, ao fundamento, entre outros, de que "(..) por se tratar de decisão interlocutória (art. 203, § 2º, CPC/2015), eis que não houve a extinção da execução/cumprimento de sentença, o recurso cabível é o agravo de instrumento, e não a apelação". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão (fls. 1.921-1.926):
+"Do compulso dos autos, verifica-se que o agravo interno tem por fito a reconsideração da decisão monocrática com a finalidade de, em juízo de retratação, ser conhecido o recurso de apelação antes interposto, a fim de ser cassada a decisão da origem que reconheceu a impossibilidade de cumprimento da obrigação de fazer (retificação da Declaração do Imposto sobre a Renda Retido na Fonte - Dirf) por parte do executado/recorrido.
+Entretanto, em análise das razões recursais, verifico que o pleito não merece prosperar, eis que não apresenta nenhuma tese capaz de comprometer os fundamentos da decisão hostilizada, a qual foi prolatada de acordo com a legislação pertinente a espécie e o entendimento jurisprudencial acerca da matéria. Explico.
+(..)
+Em análise aos autos verifica-se que a decisão recorrida mediante apelação restou assim proferida:
+"Por fim, diante da impossibilidade de cumprimento da obrigação de fazer, nos termos do art.537, II, do CPC, não é possível a aplicação da multa prevista no evento n.º 128, tampouco a fixação de nova sanção.
+Ante o exposto, RECONHEÇO a impossibilidade de cumprimento da obrigação de fazer.
+Expeça-se o competente alvará eletrônico para a transferência do valor de R$34.194,40(trinta e quatro mil e cento noventa e quatro reais e quarenta centavos) e eventuais acréscimos, depositado no evento n.º 125, para a conta bancária informada no evento n.º 127de titularidade do exequente.
+Preclusa, intime-se o exequente para requerer o que entender de direito, no prazo de 5(cinco) dias." Destaquei.
+Portanto, ainda que o agravante pugne quanto à extinção do cumprimento de sentença e consequente validade da interposição da apelação, este posicionamento não subsiste diante da realidade fática, tendo em vista que a decisão fustigada, ainda que tenha reconhecido a impossibilidade de cumprimento da obrigação de fazer (retificação da Declaração do Imposto sobre a Renda Retido na Fonte - Dirf) por parte do executado/recorrido determinou a expedição de alvará para transferência do valor de R$34.194,40 (trinta e quatro mil e cento noventa e quatro reais e quarenta centavos) e a posterior intimação do exequente/recorrente para requerer o que entender de direito.
+Sendo assim, não há como se presumir a extinção do cumprimento de sentença haja vista que, restou determinado na decisão proferida pelo juízo a quo quanto a posterior intimação do exequente para manifestação.
+(..)
+Na hipótese em comento, claramente, o julgador decidiu questões incidentais no curso do processo. Assim, por se tratar de decisão interlocutória (art. 203, § 2º, CPC/2015), eis que não houve a extinção da execução/cumprimento de sentença, o recurso cabível é o agravo de instrumento, e não a apelação."
+(g. n.)
+Nesse contexto, deve ser rejeitada a alegada ofensa aos referidos dispositivos legais, na medida em que o entendimento ora transcrito coaduna com a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AFASTAMENTO DA SÚMULA N. 284 DO STF. INEQUÍVOCO DEMONSTRADO. NOVA ANÁLISE. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO. RECURSO CABÍVEL. APELAÇÃO. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. NÃO APLICAÇÃO. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A apelação é o recurso cabível contra a decisão que extingue a execução, hipótese em que, interposto agravo de instrumento, não se aplica o princípio da fungibilidade recursal por se tratar de erro grosseiro. Incidência da Súmula n. 83 do STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp n. 2.389.811/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. MANUTENÇÃO DA DECISÃO. AGRAVO DE INSTRUMENTO OU APELAÇÃO. DECISÃO QUE EXTINGUE O CUMPRIMENTO DE SENTENÇA. HIPÓTESE DE APELAÇÃO. INCABÍVEL O PRINCÍPIO DA FUNGIBILIDADE RECURSAL. SÚMULA 83 DO STJ. ENTENDIMENTO DO TRIBUNAL EM CONSONÂNCIA COM O DESTA CORTE. SÚMULA 182 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de agravo de instrumento interposto contra decisão que extinguiu o feito com resolução de mérito nos autos do cumprimento de sentença.
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, sob a égide do Novo Código de Processo Civil, a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução. Ainda, o agravo de instrumento é o recurso cabível contra as decisões que acolhem parcialmente a impugnação ou lhe negam provimento, por não acarretarem a extinção da fase executiva em andamento, portanto, com natureza jurídica de decisão interlocutória. Precedentes.
+3. A inobservância dessa sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal, cabível apenas na hipótese de dúvida objetiva.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.257.194/GO, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. TÍTULO JUDICIAL. QUANTUM DEBEATUR. INCONTROVÉRSIA. LIQUIDEZ. PARCELAS LÍQUIDA E ILÍQUIDA DO JULGADO. LIQUIDAÇÃO E CUMPRIMENTO DE SENTENÇA. CONCOMITÂNCIA. POSSIBILIDADE. FASE LIQUIDATÓRIA. PERÍCIA JUDICIAL. HONORÁRIOS. RESPONSABILIDADE DO DEVEDOR SUCUMBENTE. SÚM. 83/STJ. RECURSO DESPROVIDO.
+(..)
+3. Conforme entendimento gravado na nota n. 83 da Súmula de Jurisprudência do STJ, não se conhece do recurso especial quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida, entendimento aplicável tanto aos recursos interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+(..)
+4. Recurso especial parcialmente conhecido e, na parte conhecida, desprovido."
+(REsp n. 2.067.458/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 4/6/2024, DJe de 11/6/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.257.915/CE, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
