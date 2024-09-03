@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JORGE DE LIMA e OUTROS em face de decisão de fls. 1.226/1.231, que conheceu do agravo para negar provimento ao recurso especial, julgando prejudicada a análise do pedido de tutela provisória formulado às fls. 1.136/1.138.
+Nas razoes dos presentes embargos, a parte embargante pleiteia "Que seja analisado o recurso sob a matéria principal de conexão entre os agravos de instrumentos citados, por tratarem da mesma matéria, qual seja, o percentual do aluguel temporário, haja vista que o resultado de um efetivamente reflete no outro; por conseguinte, uma vez não havendo o julgamento simultâneo dos agravos de instrumentos citados, a decisão do primeiro, automaticamente reflete no segundo, restando o mesmo prejudicado, nos termos dos artigos 503 e 505 do CPC" (fl. 1.240).
+Devidamente intimada, a parte embargada não apresentou impugnação (vide certidão de fls. 1.236/1.240.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material, não sendo admitida sua oposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, o que significa que os embargos não são aptos a provocar novo julgamento da lide.
+No presente caso, no entanto, o embargante sequer aponta quaisquer dos vícios que autorizam a oposição dos embargos de declaração, limitando-se a requerer o julgamento conjunto do presente recurso especial com outro recurso especial interposto contra o acórdão que julgou agravo de instrumento conexo, que sequer aportou nestes autos.
+Ora, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, e não podem ser conhecidos quando não indicados, nas razões do recurso integrativo, dos vícios previstos no art. 1.022 do CPC/2015. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO E DEMONSTRAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. A ausência de indicação e demonstração, nas razões do recurso integrativo, dos vícios previstos no art. 1.022 do CPC/2015 "enseja juízo negativo de admissibilidade dos embargos declaratórios, uma vez desatendido o disposto no art. 1.023 do CPC, além de comprometer a compreensão da exata controvérsia a ser dirimida com o oferecimento dos aclaratórios, o que atrai a incidência da Súmula n. 284 do STF" (EDcl no AgInt no CC n. 187.144/DF, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 12/12/2023, DJe de 15/12/2023).
+3. Embargos de declaração não conhecidos."
+(EDcl no AgInt no AREsp n. 2.453.872/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024, g.n.)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER UM DOS VÍCIOS DO ART. 1.022 DO CPC/2015. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. ART. 1.023, CAPUT, DO CPC/2015. SÚMULA 284/STF. EMBARGOS NÃO CONHECIDOS.
+1. Os embargos de declaração são cabíveis apenas quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que são inadmissíveis para promover novo julgamento da causa.
+2. "A jurisprudência desta eg. Corte firmou-se no sentido de que a não indicação de um dos vícios previstos no art. 1.022 do CPC/2015, nos termos do exigido no art. 1.023, caput, do CPC/2015, inviabiliza a compreensão da controvérsia a ser sanada nos embargos de declaração, caracterizando deficiência de fundamentação (Súmula 284/STF)" (EDcl no AgInt no AREsp 837.383/SP, R elator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/05/2019, DJe de 24/05/2019).
+3. Embargos de declaração não conhecidos."
+(EDcl no REsp n. 1.497.574/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/3/2024, DJe de 21/3/2024, g.n.)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se.
+EMENTA
