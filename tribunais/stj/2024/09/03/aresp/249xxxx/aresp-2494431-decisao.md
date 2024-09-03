@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por POSTO E GARAGEM PÉROLA LTDA E OUTROS contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado, com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim sumariado (fls. 599):
+"APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. NUMERÁRIO RECOLHIDO POR EMPRESA TRANSPORTADORA E NÃO CREDITADO NA CONTA CORRENTE. SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DAS AUTORAS.
+1 - Afastada a aplicação do CDC ao caso, uma vez que o serviço contratado pelas autoras se destina ao incremento de suas atividades empresariais, se caracterizando como insumo de sua atividade produtiva. Ausência de situação excepcional que justifique a aplicação da teoria do finalismo mitigado;
+2 - Não há nos autos nenhuma prova de que a empresa transportadora efetivamente entregou o dinheiro recolhido ao banco réu. Autora que não se desincumbiram do ônus de realizar a prova do fato constitutivo de seu direito, nos termos do art. 373, I, do CPC;
+3 - Recurso desprovido. Honorários sucumbenciais majorados em favor do patrono do apelado em 2% do valor atualizado da causa, nos termos do art. 85, §11, do CPC."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 623-625).
+Nas razões do apelo nobre (fls. 627-647), POSTO E GARAGEM PEROLA LTDA E OUTRAS alegam, além de divergência jurisprudencial, ofensa ao art. 932, III, do Código Civil, ao argumento, entre outros, de que "(..) a contratação das Recorrentes com a Recorrida contemplava a prestação de serviço para o recolhimento e transporte dos valores oriundos dos seus estabelecimentos comerciais, para entrega na tesouraria do ITAU UNIBANCO S/A, localizada no interior da sede da TRANSEXPERT, onde os valores ficavam acautelados e eram processados. Quanto à contratação do banco ITAU UNIBANCO pelas Recorrentes, contemplava a coleta dos valores diariamente pela transportadora, com o devido preenchimento das GTVs (Guias de Transporte de Valores), e creditamento do montante em favor das Recorrentes na tesouraria do Banco Itaú, localizada dentro da sede da TRANSEXPERT" (fls. 642 - destaques no original).
+Aduzem, também, que "(..) a Transportadora não havia finalizado o envio das informações de processamento do numerário recolhido até o fim da noite do incêndio que acometeu o local, ou seja, que os valores coletados não estavam sob seus cuidados, motivo pelo qual o Banco Recorrido entendeu de que não havia de se falar em ressarcimento de valores por parte dele. Ocorre que, independentemente da responsabilidade pela execução do serviço de contagem por funcionários próprios ou terceirizados, o dinheiro estava no local físico que era a tesouraria do banco Recorrido, o que já basta para atrair o dever de indenizar. O Banco Recorrido em momento algum negou que lá funcionasse a sua tesouraria" (fls. 643 - destaques no original).
+Defendem que "(..) há, na realidade, o concurso de duas responsabilidades: a do comitente ou patrão e a do preposto. A do primeiro é objetiva, porque o comitente é garantidor ou assegurador das consequências danosas dos atos do seu agente; a do segundo é subjetiva, porque, embora desnecessária a culpa do civilmente responsável (comitente), é indispensável em relação ao agente, autor do fato material (preposto, agente, etc.)" (fls. 643-644).
+Asseveram, ainda, que o "(..) acordo operacional existente entre a TRANSEXPERT e o BANCO ITAU UNIBANCO, que permitiu a instalação de uma tesouraria do Banco, dentro da sede da TRANSEXPERT, tem como objetivo otimizar as suas operações, maximizando receitas e lucros, inclusive pela redução de riscos, de sorte que não pode o Banco, na ocorrência de um suposto sinistro, totalmente estranho aos Recorrentes, fugir à sua responsabilidade de arcar com o devido ressarcimento" (fls. 645).
+Intimado, ITAÚ UNIBANCO S/A apresentou contrarrazões (fls. 656-675), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 677-685), motivando o agravo em recurso especial (fls. 697-708) em testilha.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+No caso, o eg. TJ-RJ, com arrimo no acervo fático probatório carreado aos autos, concluiu que "(..) não houve a comprovação de falha na prestação do serviço. Por tal razão, verifica-se que as autoras não fizeram a prova do fato constitutivo do seu direito, não se desincumbindo do ônus que sobre si recaía, nos termos do art. 373, I, do CPC". A título elucidativo, transcreve-se o seguinte trecho do v. acórdão estadual (fls. 603-604):
+"Desta forma, o que se verifica é que não houve a efetiva comprovação de que o numerário transportado pela TRANSPEXPERT tenha sido efetivamente entregue ao banco réu, senão vejamos.
+Mostra-se incontroversa a existência do incêndio que atingiu as dependências da transportadora no dia 07 de junho de 2015, onde se encontrava o dinheiro recolhido das empresas autoras relativos aos dias 05, 06 e 07 do referido mês.
+Também é incontroverso que o réu possuía uma tesouraria dentro do prédio onde funcionava a sede da transportadora.
+Da mesma forma, ambas as partes confirmam que os valores recolhidos não foram debitados na conta corrente das autoras.
+O que se verifica nos autos é que o dinheiro das autoras foi recolhido pela transportadora e levados até a sua sede.
+As autoras afirmam que, após o veículo que fez o recolhimento dos valores chegou a sede, a transportadora os repassou ao banco réu, que deixou de creditar tais valores em suas contas correntes. Tal afirmação se dá com base no fato de que havia uma tesouraria do banco dentro da sede da transportadora. Ocorre que esta é uma presunção das autoras, não havendo nenhuma prova efetiva da entrega dos valores à instituição financeira.
+Neste sentido, não há prova documental de que a entrega ao banco foi realizada.
+Cumpre ressaltar que, contratualmente, o banco tinha o prazo de um dia útil para creditar os valores recebidos, ou seja, a creditação não era automática. Antes de decorrido tal prazo, não se pode verificar se o dinheiro recolhidos ficava ou não dentro da tesouraria do réu.
+A prova oral também não elucida a questão, uma vez que a testemunha ANA CAROLINA CAMPOS PINTO ALVIM, não soube informar como era o trâmite interno entre transportadora e banco. A testemunha também afirma que não há nenhum documento que comprove a efetiva entrega dos valores ao réu.
+A prova oral apenas confirma que os valores foram recolhidos pela transportadora e levados até sua sede, mas não elucida o que aconteceu após o dinheiro recolhido chegar à sede da transportadora.
+No mesmo sentido, nos e-mails juntados ao autos também não há nenhum afirmação do banco réu de que tenha recebido efetivamente tais valores.
+Como bem observado na sentença: "Não há, portanto, nenhuma prova de que ao réu tenham sido entregues os referidos valores, razão pela qual não há como se lhe obrigar a restitui-los. Dos emails juntados aos autos não há nenhuma afirmativa do réu no sentido de tê-los recebido. Da prova oral produzida nos autos tal fato também não restou demonstrado. E da ação anteriormente ajuizada pelos autores contra a transportadora também não há tal confirmação, já que esta foi revel naquele feito, e nada mencionou como matéria de defesa".
+Desta forma, pode-se concluir que não houve a comprovação de falha na prestação do serviço. Por tal razão, verifica-se que as autoras não fizeram a prova do fato constitutivo do seu direito, não se desincumbindo do ônus que sobre si recaía, nos termos do art. 373, I, do CPC.
+A manutenção da sentença, portanto, é medida que se impõe."
+(g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7 do eg. STJ.
+Finalmente, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência da Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. (..) REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A incidência da Súmula n. 7 do STJ quanto à análise da tese recursal pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.965.844/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+(..)
+4. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1761381/PR, Rel. MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
