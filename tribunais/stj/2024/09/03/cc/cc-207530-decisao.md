@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL CÍVEL DE SÃO PAULO-SJ/SP, em face do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DO FORO REGIONAL VII DE ITAQUERA - SÃO PAULO/SP, nos autos de ação previdenciária ajuizada contra o Instituto Nacional do Seguro Social - INSS, na qual se postula a concessão do benefício de auxílio-doença.
+A demanda foi proposta perante a Justiça Estadual, que se declarou incompetente para processar e julgar o feito e determinou a redistribuição dos autos à Justiça Federal de São Paulo, nestes termos (fl. 169):
+Trata-se de ação de pedido de concessão de benefício previdenciário.
+A Justiça Estadual é incompetente para processar e julgar a presente ação, nos termos do artigo 109, inciso I, da Constituição Federal.
+Trata-se, outrossim, de hipótese de incompetência absoluta, que autoriza declinação de ofício.
+Redistribuam-se, pois, os autos a uma das Varas Cíveis da Justiça Federal de São Paulo, com as cautelas e homenagens de praxe.
+Intimem-se.
+Os autos foram remetidos para a Justiça Federal, que suscitou o presente conflito negativo de competência, sob o seguinte entendimento (fls. 167-168):
+ ..  conforme se depreende do laudo pericial - id 321413736), a patologia que gerou a incapacidade da parte autora decorre de acidente ocorrido no período de almoço no horário de trabalho, situação esta que, nos termos do art. 21, IV, d da Lei 8.213/91, é equiparada a acidente do trabalho (LAUDO PERICIAL de 20/03/2024).
+O Autor informa que em novembro de 2022 estava indo almoçar e sofreu um assalto e reagiu e houve confronto físico.
+O laudo pericial afirmou que o autor encontra-se incapacitado a partir de 10/01/2024 por 6 meses contados do laudo pericial.
+Há CAT juntado aos autos (fl. 33-id 294614844).
+Ora, uma vez que o pedido principal formulado pela parte autora é o restabelecimento de benefício, cuja origem é acidentária, resta clara a incompetência da Justiça Federal para processar e julgar o feito.
+Diante do exposto, reconheço a incompetência absoluta deste Juizado Federal Especial, determinando a remessa imediata dos autos à Justiça Estadual, competente para apreciação e julgamento do feito, nos termos do art. 64 § 1º, do Novo Código de Processo Civil.
+Portanto, tratando-se de incompetência absoluta, aplica-se o disposto no § 1º do artigo 64 do Código de Processo Civil.
+Por conseguinte, nos termos do artigo 66 c/c art. 953 do Código de Processo Civil, c/c o artigo 108, inciso I, alínea e da Constituição da República, suscito conflito de competência negativo com o Juízo da Vara Cível Estadual desta Capital SP.
+O Ministério Público Federal opina no sentido de que seja "reconhecida a competência do suscitante, o Juízo Federal" (fl. 178).
+É o relatório.
+Decido.
+Nos termos das Súmulas n. 15 do STJ e n. 501 do STF, compete à Justiça Estadual processar e julgar litígios decorrentes de acidente do trabalho, ainda que promovidos contra a União ou suas autarquias, como é no caso do INSS.
+É certo, ainda, que, conforme a pacífica orientação desta Corte Superior de Justiça, "a competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial" (CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022), e não em razão de um juízo preliminar acerca do mérito da causa.
+Observe-se que, no caso, a parte autora ajuizou demanda objetivando a obtenção e prorrogação de benefício de natureza previdenciária (auxílio-doença), previsto no art. 59 e 60 da Lei n. 8.213/1991, não sendo indicado na petição inicial que o benefício requerido seja decorrente de acidente de trabalho.
+Nesse contexto, como a demanda na origem busca a concessão de benefício por incapacidade, sem qualquer referência à ocorrência de um acidente de trabalho, a competência para processar e julgar o feito é da Justiça Federal, nos termos do art. 109, inciso I, da Constituição Federal.
+A título ilustrativo:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. PEDIDO E CAUSA DE PEDIR NÃO VINCULADA A ACIDENTE DO TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que conhecera do Conflito de Competência, instaurado em Ação ajuizada por segurada, perante a Justiça Federal, contra o Instituto Nacional do Seguro Social - INSS, postulando benefício previdenciário de auxílio-doença ou aposentadoria por invalidez.
+II. Não resta configurada hipótese de aplicação da Súmula 15/STJ ("Compete a justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho"), porquanto ausente a alegação, na petição inicial, de liame entre o benefício requerido pela parte segurada e acidente do trabalho, que não foi, sequer, mencionado, como fundamento do pleito.
+III. Na forma da jurisprudência do STJ, "a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012). Precedentes.
+IV. Agravo interno improvido. (AgInt no CC n. 154.273/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 29/11/2022, DJe de 1/12/2022.)
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9), é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR. (CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022; sem grifos no original.)
+No mesmo sentido manifestou-se o representante do Ministério Público Federal, ao opinar pela competência do Juízo Federal (fl. 176):
+ ..
+Neste caso, inexiste, na inicial, menção à ocorrência de acidente de trabalho, cingindo-se o pedido à concessão de benefício previdenciário por incapacidade, em razão do atual estado de saúde do demandante.
+Desse modo, incide a regra geral do art. 109, I, da Constituição Federal, que fixa a competência da Justiça Federal para julgar "as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+Ante o exposto, c onheço do conflito para declarar competente o JUÍZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL CÍVEL DE SÃO PAULO-SJ/SP, o suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO PREVIDENCIÁRIA. BENEFÍCIO POR INCAPACIDADE. CRITÉRIOS PARA FIXAÇÃO DA COMPETÊNCIA. PEDIDO E CAUSA DE PEDIR NÃO VINCULADOS A ACIDENTE DO TRABALHO. BENEFÍCIO DE NATUREZA PREVIDENCIÁRIA. COMPETÊNCIA DO JUÍZO FEDERAL DA 1ª VARA DO JUIZADO ESPECIAL CÍVEL DE SÃO PAULO-SJ/SP, O SUSCITANTE.
