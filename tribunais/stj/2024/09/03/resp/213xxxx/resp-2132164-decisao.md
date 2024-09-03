@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO VIDA E PREVIDÊNCIA S.A., com fundamento no art. 105, III, "a" e "c" da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ, fl. 308) :
+"AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO - DECORRENTE DO CONTRATO DE EMPREGO - COMPETÊNCIA DA JUSTIÇA TRABALHISTA. RECURSO CONHECIDO E DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 336-345).
+Em suas razões recursais (e-STJ, fls. 348-363), o recorrente aponta violação dos art. 489 e 1.022 do Código de Processo Civil de 2015; e 757 e 801 do Código Civil de 2002, bem como divergência jurisprudencial.
+Sustenta, em síntese, a ausência de prestação jurisdicional e de fundamentação; e que é da competência da justiça comum a análise de matéria securitária, inclusive sobre o seguro de vida em grupo.
+Não foram apresentadas contrarrazões (e-STJ, fls. 402).
+O referido recurso foi admitido na origem (e-STJ, fls. 404-413). Os autos ascenderam a esta Corte Superior.
+É o relatório.
+A jurisprudência do STJ é no sentido de que compete à Justiça comum estadual processar e julgar as ações de cobrança de indenização securitária decorrente de descumprimento contratual de seguro de vida em grupo e acidentes pessoais.
+Ao analisar o tema, a Corte de origem proferiu o seguinte julgado (e-STJ, fls. 313-315):
+"Portanto, a questão versada nos autos encerra em definir o direito do autor à indenização securitária, enquanto beneficiário do seguro de vida em grupo estipulado entre a empresa MARFRIG GLOBAL FOODS S.A. e a requerida Bradesco Seguros S.A..
+Já me posicionei no sentido de que, por ser a empresa empregadora é mera intermediária do contrato de seguro, não havendo falar em competência da Justiça do Trabalho.
+Todavia, após análise da Nota Técnica Conjunta n. 01, elaborada pelo Centro de Inteligência do Tribunal de Justiça do Estado de Mato Grosso do Sul (CIJEMS) em cooperação com o Centro de Inteligênciado Tribunal Regional do Trabalho da 24ª Região (CIPJ/TRT24)e jurisprudência colacionada, revejo meu posicionamento para firmar entendimento de que compete à Justiça Trabalhista processar e julgar as causas que tenham por objeto seguro de vida em grupo aderido em decorrência de contrato de trabalho.
+Isto porque no Superior Tribunal de Justiça fixou-se no IAC n.05, a seguinte tese: "Compete à Justiça comum julgar as demandas relativas a plano de saúde de autogestão empresarial, exceto quando o benefíciofor instituído em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da Justiça do Trabalho, ainda que figure como parte trabalhador aposentado ou dependente do trabalhador." Confira-se:
+(..)
+Assim, considerando que a adesão ao seguro de vida em grupo, no caso dos autos, decorreu da relação empregatícia estabelecida entre o autor e a empresa estipulante, impõe-se a competência da Justiça Trabalhista para processar e julgar a causa.".
+Desse modo, constatada a evidente divergência entre o acórdão recorrido e o entendimento desta Corte, é impositivo o provimento do recurso especial no tópico.
+Corrobora esse entendimento o seguinte julgado:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SEGURO DE VIDA EM GRUPO. AÇÃO PROPOSTA POR ASSOCIAÇÃO DE EX-EMPREGADOS DA ESTIPULANTE. LIDE FUNDADA EM SUPOSTA VIOLAÇÃO DO ART. 801 DO CC/2002 E DAS NORMAS DA SUSEP. ALTERAÇÕES DA APÓLICE COLETIVA SEM PRÉVIA ANUÊNCIA DOS SEGURADOS. AUSÊNCIA DE DISCUSSÃO SOBRE DIREITO TRABALHISTA. NATUREZA PREDOMINANTEMENTE CIVIL DO LITÍGIO. DECISÃO MANTIDA.
+1. Segundo o entendimento desta Seção, em caso envolvendo demanda proposta por ex-empregados de estipulante, objetivando manter benefício coletivo (plano de saúde), seria competente a Justiça do Trabalho "Se a demanda é movida com base em conflitos próprios da relação empregatícia ou do pagamento de verbas dela decorrentes", sendo que, inexistindo discussão sobre o contrato de trabalho ou sobre direitos trabalhistas, a demanda deve ser submetida à Justiça comum (CC 157.664/SP, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 25/5/2018).
+2. Ao contrário do que aduz a agravante, no caso, a demanda não objetiva discutir o conteúdo meritório de cláusula de Acordo Coletivo de Trabalho da categoria cujos aposentados são representados pela associação autora. Visa discutir apenas o procedimento de alteração da apólice coletiva, o qual, no entender da parte autora, foi ilegal, por não ter havido prévia consulta aos segurados, segundo obrigaria o art. 801, § 2º, do CC/2002 e os arts.
+4º, 5º, 6º, 7º, 8º e 9º da Circular SUSEP n. 317/2016.
+3. Nesses termos, seguindo a orientação do CC n. 157.664/SP, a demanda compete à Justiça comum.
+4. Ainda que assim não fosse, haveria na inicial, no máximo, uma cumulação indevida de pedidos, pois caberia à Justiça do Trabalho analisar o eventual pleito referente à manutenção do benefício com base em acordo coletivo de trabalho. Por outro lado, o pedido fundado no suposto descumprimento do art. 801 do CC/2002 seria julgado pelo Juízo cível, por não envolver qualquer exame da relação laboral que existiu entre os aposentados e as estipulantes.
+5. No CC n. 154.828/MG, em que se discutiu a competência para processo envolvendo previdência privada, no qual se cumularam indevidamente pedidos de competência da Justiça Comum e da Justiça especializada, a Segunda Seção deliberou que o Juízo que primeiro recebeu a lide julgaria o pedido nos limites de sua competência, com a posterior remessa dos autos, se possível, ao Juízo competente para conhecer do pedido restante (Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 10/6/2020, DJe 16/6/2020).
+6. Com base nesse entendimento, mesmo que a inicial contivesse pedido fundado em acordo coletivo de trabalho (o que, destaca-se, não contém, o desfecho deste incidente também seria o reconhecimento da competência da Justiça comum para apreciar a lide, nos limites de sua competência, pois a demanda foi inicialmente ajuizada perante o Juízo cível.
+7. Agravo interno a que se nega provimento.
+(AgInt no CC n. 174.029/MG, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 30/3/2021, DJe de 16/4/2021.)
+Ante o exposto, dou provimento ao recurso especial a fim de declarar a competência da Justiça Comum Estadual para análise da presente demanda.
+Publique-se.
+EMENTA
