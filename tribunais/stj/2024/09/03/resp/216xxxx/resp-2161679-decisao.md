@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela CÂMARA DE DIRIGENTES LOJISTAS DE PORTO ALEGRE - CDL POA com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado (fl. 264):
+APELAÇÃO CÍVEL. REJULGAMENTO EM FACE DE DECISÃO DO STJ. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA E CONDENATÓRIA. REGISTRO EM CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA REALIZADA POR E-MAIL. DESCABIMENTO.
+INSCRIÇÃO VÁLIDA PREEXISTENTE. DANO MORAL NÃO CONFIGURADO.
+1) Caso dos autos em que o colendo STJ determinou o regresso dos autos à esta Corte para que seja reexaminada a matéria que envolve notificação prévia de consumidor para a disponibilização de seu nome em órgãos de proteção ao crédito, sob o argumento de que há entendimento na Corte Superior no sentido de ser inválida a notificação encaminhada por e-mail ou SMS.
+2) Sendo assim, é de ser considerada que a notificação que foi realizada exclusivamente por e-mail não se afigura suficiente para comprovar a devida comunicação prévia relativa à inclusão no cadastro de inadimplentes prevista no art. 43, § 2 Q , do CDC.
+3) Segundo orientação jurisprudencial consolidada, a inscrição indevida é causa de dano moral in re ipsa, ou seja, independe de comprovação do prejuízo, uma vez presumível a lesão a direito de personalidade. O prejuízo somente se presume afastado quando preexistente legítima inscrição, consoante o verbete n Q 385 da súmula de jurisprudência do Superior Tribunal de Justiça.
+4) Na espécie, embora a notificação tenha ocorrido por e-mail, a qual está sendo considerada irregular, inviável a condenação da ré ao pagamento de indenização por danos morais, tendo em vista que existiam inscrições preexistentes válidas em nome da autora quando da disponibilização das inscrições vergastadas neste processo.
+DERAM PARCIAL PROVIMENTO À APELAÇÃO.
+Em suas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação do art. 43, § 2º do Código de Defesa do Consumidor, sustentando, em síntese, que a notificação prévia acerca da negativação não se torna inválida pelo fato de ter sido realizada via e-mail.
+É o relatório. Decido.
+O Tribunal de origem, analisando as circunstâncias do caso, concluiu pela invalidade do notificação da inscrição no cadastro de inadimplentes, enviada por e-mail, como se infere do trecho abaixo transcrito (e-STJ, fl. 261):
+"No caso em particular, em atendimento ao REsp de n s 2110062/RS, que determinou novo julgamento do presente recurso de Apelação, com base na jurisprudência da Corte Superior, é de ser considerada que a notificação que foi realizada exclusivamente por e-mail não se afigura suficiente para comprovar a devida comunicação prévia relativa à inclusão no cadastro de inadimplentes prevista no art. 43, § 2 S , do CDC".
+Sobre o tema, a jurisprudência desta Corte vem se firmando no sentido de que, "a partir de uma interpretação teleológica do § 2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail ou mensagem de texto de celular (SMS)." (REsp n. 2.056.285/RS, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 27.4.2023.)
+Confiram-se ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. NOTIFICAÇÃO PRÉVIA VIA E-MAIL. INADEQUAÇÃO DA FORMA. PRECEDENTES.
+IMPRESCINDIBILIDADE DE RETORNO DOS AUTOS PARA NOVO JULGAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. "A partir de uma interpretação teleológica do §2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail". (REsp n. 2.069.520/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/6/2023, DJe de 16/6/2023.) 2. Necessidade de apreciação pelo Tribunal de origem da matéria sob o enfoque das orientações desta Corte, a fim de que proceda com novo julgamento da apelação, à luz da orientação jurisprudencial firmada por ocasião do julgamento do REsp 2.069.520/RS, de relatoria da Ministra Nancy Andrighi.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.096.232/RS, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 14.12.2023.)
+RECURSO ESPECIAL. CONSUMIDOR. CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. NOTIFICAÇÃO POR E-MAIL. IMPOSSIBILIDADE. NECESSIDADE DE CORRESPONDÊNCIA AO ENDEREÇO DO CONSUMIDOR. DANO MORAL. CONFIGURAÇÃO.
+ARBITRAMENTO. MÉTODO BIFÁSICO.
+(..) 6. A partir de uma interpretação teleológica do §2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail.
+7. Na hipótese dos autos, merece reforma o acórdão recorrido, com o cancelamento da inscrição mencionada na inicial, pois, à luz das disposições do CDC, não se admite a notificação do consumidor, exclusivamente, através de e-mail.
+(..) 11. Recurso especial conhecido e provido para julgar procedentes os pedidos formulados na presente ação, determinando o cancelamento da inscrição mencionada na exordial e condenando a ré ao pagamento de compensação por danos morais no valor de R$ 10.000,00 (dez mil reais), com juros de mora desde o evento danoso e correção monetária a partir da data do arbitramento.
+(REsp n. 2.069.520/RS, relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 16.6.2023)  g.n
+Dessa forma, evidente a incidência da Súmula 83/STJ à hipótese.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
