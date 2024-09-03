@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LATICINIOS BELA VISTA LTDA contra decisão que inadmitiu seu recurso especial, fundamentado nas alínea "a" e "c" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"RESPONSABILIDADE CIVIL ALIMENTO CONTAMINADO INCONTROVERSA A RESPONSABILIDADE DA RÉ QUE NÃO IMPUGNOU O QUE FOI DECIDIDO EM SENTENÇA IRRELEVÂNCIA DA EFETIVA
+INGESTÃO DO PRODUTO PELO CONSUMIDOR PARA A CARACTERIZAÇÃO DOS DANOS MORAIS, CONFORME ENTENDIMENTO DO STJ DANO MORAL CONFIGURADO INDENIZAÇÃO DEVIDA. RECURSO PARCIALMENTE PROVIDO." (fl. 145)
+Nas razões do recurso especial, a recorrente aponta ofensa aos artigos 6º, VIII e 12 do CDC, além de divergência jurisprudencial, sustentando, em síntese, que é exigível a comprovação de ingestão do corpo estanho presente no alimento para a configuração do dano moral.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Razão não assiste à parte recorrente.
+Verifica-se que o Tribunal de origem reformou parcialmente a sentença de primeira instância, condenando a recorrente ao pagamento de indenização por danos morais por entender que, comprovada a existência de corpo estranho no interior do produto adquirido pela parte autora, ora recorrida, é prescindível a ingestão do alimento, para a configuração do dano moral. É o que se observa do trecho do v. acórdão recorrido, in verbis:
+"Restou incontroverso nos autos a presença de corpo estranho no produto de fabricação da apelada, bem como a sua responsabilidade, sendo devida a indenização por dano material, uma vez que não recorreu do que foi decidido em sentença.
+Assim, cinge-se a controvérsia unicamente sobre a existência do dano moral.
+E o simples fato da autora ter se deparado com o produto nas condições demonstradas pelas fotos de fls. 24/26,considerando-se ainda a responsabilidade da apelada pela sua fabricação, estão presentesos elementos necessários para o reconhecimento do dano moral.
+De fato, trata-se de produto consumível, que poderia levar a problemas de saúde graves da autora e de sua família. Resta evidente que todo fabricante de produtos alimentícios deve agir da forma mais diligente possível para que erros como os daqui não sejam cometidos, dada a possibilidade de riscos para a saúde de quem os consome.
+E a autora aduz na inicial que o creme de leite estava sendo utilizado para a receita de um doce para sua família.
+Nesse esteio, a Segunda Seção do Superior Tribunal de Justiça entendeu que para a caracterização do dano moral basta a demonstração da contaminação do produto, sendo irrelevante a sua efetiva ingestão para que seja configurada a violação a direito da personalidade." (fls. 146-147)
+Assim, tal entendimento está em consonância com a jurisprudência desta Corte Especial, que firmou-se no sentido de que "é irrelevante, para fins de caracterização do dano moral, a efetiva ingestão do corpo estranho pelo consumidor, haja vista que, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado" (REsp 1.899.304/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, j. em 25/8/2021, DJe de 04/10/2021 - g.n.).
+Ademais, destaca-se que "essa distinção entre as hipóteses de ingestão ou não do alimento insalubre pelo consumidor, bem como da deglutição do próprio corpo estranho, para além da hipótese de efetivo comprometimento de sua saúde, é de inegável relevância no momento da quantificação da indenização, não surtindo efeitos, todavia, no que tange à caracterização, a priori, do dano moral" (REsp 1.899.304/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, j. em 25/8/2021, DJe de 04/10/2021 - g.n.). Também nesse sentido:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO MORAL E MATERIAL - AQUISIÇÃO DE ALIMENTO COM CORPO ESTRANHO - NÃO INGESTÃO - FATO INDENIZÁVEL.
+1. A Segunda Seção desta Corte, quando do julgamento do REsp 1.899.304/SP, Rel. Ministra Nancy Andrighi, ocorrido em 25/8/2021, DJe 4/10/2021, se posicionou no sentido de que a constatação, em concreto, da existência de corpo estranho totalmente distinto do produto adquirido cuja ingestão, manuseio e utilização seja comprovadamente capaz de causar risco e lesão à saúde ou incolumidade física do consumidor, por violar o dever de qualidade e segurança alimentar, enseja indenização por danos morais, ainda que não haja a ingestão do referido produto.
+2. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.063.710/RO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. A Segunda Seção desta Corte firmou entendimento "no sentido de ser irrelevante, para fins de caracterização do dano moral, a efetiva ingestão, pelo consumidor, do produto considerado impróprio para o consumo, em virtude da presença de corpo estranho no alimento, pois, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado" (REsp 1899304/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 25/08/2021, DJe 04/10/2021.).
+2. Agravo interno desprovido."
+(AgInt no AREsp n. 2.273.511/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RESPONSABILIDADE CIVIL. AQUISIÇÃO DE PRODUTO ALIMENTÍCIO CONTENDO LARVAS E CARUNCHOS NO INTERIOR DA EMBALAGEM. DANO MORAL CONFIGURADO. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Em face das razões apresentadas no agravo interno, reconsidera-se a decisão agravada, na medida em que a pretensão posta no apelo nobre não esbarra no óbice da Súmula 7/STJ.
+2. A Segunda Seção desta Corte Superior firmou entendimento no sentido de ser irrelevante, para fins de caracterização do dano moral, a efetiva ingestão, pelo consumidor, do produto considerado impróprio para o consumo, em virtude da presença de corpo estranho no alimento, pois, invariavelmente, estará presente a potencialidade lesiva decorrente da aquisição do produto contaminado. Precedente: REsp 1.899.304/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 25/08/2021, DJe de 04/10/2021.
+3. No caso, revalorando o quadro fático-probatório descrito no v. acórdão estadual e, tendo em vista a função uniformizadora desta eg. Corte, deve ser reconhecida a ocorrência de danos morais, ante a aquisição de pacote de feijão contendo larvas e carunchos. A respectiva indenização fica arbitrada em R$ 5.000,00 (cinco mil reais) para cada um dos seis autores, valor que prestigia os princípios da razoabilidade e da proporcionalidade e coaduna com o precedente acima mencionado.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, dar provimento ao recurso especial."
+(AgInt no REsp n. 2.042.739/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023, g.n.)
+Dessa forma, incide a súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
