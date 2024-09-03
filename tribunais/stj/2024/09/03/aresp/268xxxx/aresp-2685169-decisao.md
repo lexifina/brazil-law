@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELAINE APARECIDA BAPTISTA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 50, DO CC. EFETIVA COMPROVAÇÃO DE CONFUSÃO PATRIMONIAL E DESVIO DE FINALIDADE. EVIDENTE TENTATIVA DE BLINDAGEM PATRIMONIAL COM ATUAÇÃO DOLOSA DOS ENTES DA MESMA FAMÍLIA E ATUAÇÃO DA EMPRESA COMO FORMA DE FRUSTRAR A SATISFAÇÃO DE DÍVIDAS. PEDIDO DE FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. AUSÊNCIA DE PREVISÃO LEGAL. DECISÃO DE CARÁTER INTERLOCUTÓRIO. DICÇÃO DO ART. 136, DO CPC. PRECEDENTES. DECISÃO MANTIDA. PRECEDENTES. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 50 do CC, no que concerne ao afastamento da desconsideração da personalidade jurídica, tendo em vista que não estão presentes os requisitos legais, eis que o argumento de existência de "conluio familiar" utilizado pelo Tribunal a quo não se revela como uma das hipóteses de incidência do instituto da desconsideração, trazendo a seguinte argumentação:
+Segundo o Tribunal de Justiça do Estado de São Paulo, considerando que o Sr. Antonio Eduardo (devedor na ação principal) é esposo da recorrente ELAINE e cunhado do recorrente EVERALDO, existe um CONLUIO FAMILIAR para blindagem patrimonial, sendo certo que este CONLUIO é suficiente para gerar a aplicação do artigo 50 do Código Civil.
+Todavia, nitidamente o artigo 50 do Código Civil foi violado e desvirtuado no caso em tela, uma vez que nem de longe a existência de "conluio familiar" se revela como uma das hipóteses de sua aplicação.
+ ..
+O dito "conluio familiar" não se encontra no rol de hipóteses previstas no artigo 50 do Código Civil para se enquadrar pessoas físicas no polo passivo de execuções (fls. 448-449)
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
