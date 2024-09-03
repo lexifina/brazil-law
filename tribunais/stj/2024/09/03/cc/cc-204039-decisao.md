@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por PAQUETÁ CALÇADOS LTDA em face do d. Juízo da Vara Regional Empresarial da Comarca de Novo Hamburgo/RS e do d. Juízo da Vara do Trabalho de Estância Velha/RS.
+Diz a inicial que a suscitante está submetida a processo de recuperação judicial em trâmite perante o d. Juízo Empresarial e que o d. Juízo do Trabalho promoveu "o prosseguimento a execução trabalhista, com a intimação da Suscitante para pagamento do débito, sob pena de penhora, ante o equivocado argumento de que a Recuperação Judicial da Suscitante se encontra encerrada" (na fl. 5).
+Conforme noticiado pelo d. Juízo do Trabalho o processo de recuperação judicial da empresa executada foi encerrado, por meio de sentença, proferida 11/11/2023. A informação foi validada por pesquisa no sítio eletrônico do Administrador Judicial (https://brizolaejapur- docs.nyc3.digitaloceanspaces.com/client-doc-af76734b-9014- 4cc7-a4544a54f9c0dd5).
+Diante dessa situação, assim como da ausência de comprovação de fato impeditivo do trânsito em julgado da sentença de encerramento da recuperação judicial pela interessada suscitante, o conflito de competência não foi conhecido.
+A recuperanda, de sua vez, opôs embargos de declaração afirmando que que a sentença de encerramento do procedimento recuperacional foi impugnada pelo manejo de apelações, anexando decisão na qual o d. Juízo da Recuperação Judicial afirma que recebe "as contrarrazões recursais da devedora às apelações tempestivamente apresentadas (evento 19516, CONTRAZAP1)".
+Todavia, não juntou aos autos decisão judicial que tenha recebido as apelações com efeito suspensivo.
+Desse modo, sem prejuízo de nova determinação de melhor instrução do presente incidente, foi determinado à suscitante que trouxesse, no prazo de 10 (dez) dias úteis documentos modernos e hábeis a comprovar a caracterização do alegado conflito de competência, no caso, que a sentença de encerramento foi impugnada com recurso dotado de efeito suspensivo.
+No entanto, a suscitante juntou aos autos apenas cópia das iniciais das aludidas apelações, sem o protocolo do Tribunal de Justiça, olvidando, também de juntar mera Certidão de Objeto e Pé, demonstrando, cabalmente, que as indigitadas apelações foram recebidas no efeito suspensivo.
+Logo, não há impedimento ao curso normal da execução perante a Justiça do Trabalho que, todavia, deverá observar as mesmas condições impostas pelo plano de recuperação judicial aos créditos de mesma natureza do crédito executado (deságio, parcelamento).
+Ante o exposto, não conheço do conflito de competência.
+Retifiquem-se a autuação para que o d. Juízo da Vara Regional Empresarial da Comarca de Novo Hamburgo/RS conste como Juízo suscitado.
+Publique-se.
+EMENTA
