@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ assim ementado (e-STJ fl. 144):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. DECISÃO DE HOMOLOGAÇÃO DE AVALIAÇÃO COM DETEMRINAÇÃO DE PRACEAMENTO DE BENS. INCONFORMISMO DO EXECUTADO. ALEGAÇÃO DE AVALIAÇÃO PROMOVIDA DE FORMA UNILATERAL E SEM ATUALIZAÇÃO. MANUTENÇÃO DE DECISÃO AGRAVADA. AÇÃO EXECUTIVA DE CONTRATO DE MÚTUO. DETERMINAÇÃO JUDICIAL DE INDICAÇÃO DE LELOEIRO PELO AGRAVADO.AUSÊNCIA DE IMPUGNAÇÃO DO AGRAVANTE NESSE PONTO. INOCORRÊNCIA DAS HIPÓTESES DO ART. 873 DO CPC. COMO SE VÊ, AS HIPÓTESES ELENCADAS NO ARTIGO 873 DO CÓDIGO DE PROCESSO CIVIL SÃO TAXATIVAS, NÃO HAVENDO COMO ADMITIR A REALIZAÇÃO DE NOVA AVALIAÇÃO FUNDANDO-SE NA SIMPLES ALEGAÇÃO, SEM NENHUM RESPALDO TÉCNICO, DE QUE O LAUDO FOI PROMOVIDO DE FORMA UNILATERAL, ESPECIALMENTE QUANDO AUSENTE QUALQUER IMPUGNAÇÃO AO MENCIONADO TRABALHO DA AVALIAÇÃO PROMOVIDA PELA PERÍCIA CONTRATADA PELO AGRAVADO. ADEMAIS, MUITO EMBORA O AGRAVANTE AFIRME QUE OS VALORES ENCONTRADOS ESTÃO DESATUALIZADOS, CERTO É QUE NÃO ACOSTOU QUAISQUER OUTROS VALORES OU LAUDOS, QUE PUDESSEM AFASTAR AS CONCLUSÕES DA PERÍCIA, ÔNUS QUE LHE COMPETIA. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 172/177).
+Nas razões do recurso (e-STJ fls. 179/196), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta dissídio jurisprudencial e ofensa aos arts. 139, I, 141, 145, 369, 370, 464, 465, 466, 473, 474, 477, 479, 480, 771, 789, 873, II, 805, 891 e 1022, I e II, do CPC/2015.
+Afirma que, como a avaliação do imóvel foi produzida de forma unilateral pela parte contrária nove anos atrás, antes do leilão judicial, é necessária a realização de prova pericial para apuração do valor atualizado do bem.
+Argumenta que, em primeiro grau, houve o deferimento de prova pericial de engenharia para avaliação dos bens constritos.
+Sustenta que o valor do imóvel deve ser corretamente apurado, para que não haja alienação a preço vil e para que seja observado o princípio da execução menos gravosa ao executado.
+Alega que, apesar da oposição dos embargos de declaração, o Tribunal de origem "não enfrentou objetiva e expressamente a matéria que lhe foi submetida à análise" (e-STJ fl. 187).
+Foram apresentadas contrarrazões (e-STJ fls. 244/277).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 279/280), os autos vieram a esta Corte.
+É o relatório
+Decido.
+O recurso especial é recurso de fundamentação vinculada, adstrito às hipóteses constitucionalmente previstas, e "exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF" (AgInt no REsp 1.846.621/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 11/12/2020). Confira-se, ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE COBRANÇA EXCESSIVA DE JUROS DE MORA. QUESTÃO DECIDIDA EM PROCESSO ANTERIOR. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NÃO-ALEGAÇÃO DE VIOLAÇÃO DO ARTIGO 1022 DO CPC. AUSÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. INTERPRETAÇÃO DE TÍTULO EXECUTIVO JUDICIAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Nos termos da jurisprudência do STJ, "no recurso especial, não basta a simples menção dos artigos que se reputam violados, as alegações devem ser fundamentadas, havendo uma concatenação lógica, demonstrando de plano como o aresto hostilizado teria malferido os dispositivos indicados" (AgRg no REsp 262.120/SP, Rel. Min. Francisco Falcão, Primeira Turma, DJ 03/10/2005), o que não se deu na hipótese dos autos com relação à apontada vulneração ao art. 518 do CPC e ao art. 884 do Código Civil. Incidência da Súmula 284/STF.
+6. A jurisprudência desta Casa possui entendimento firmado no sentido de que, "em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/03/2012, DJe 22/03/2012). Precedentes.
+7. Agravo interno não provido.
+(AgInt no AREsp 1575611/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2021, DJe 20/04/2021.)
+A parte limitou-se a indicar diversos dispositivos legais, sem demonstrar especificamente de que forma o acórdão recorrido teria violado cada um deles.
+Em relação ao art. 1.022 do CPC/2015, cabia à parte apontar quais teses, relevantes para o julgamento da lide, a Corte estadual teria deixado de examinar, não sendo suficiente deduzir ofensa a tal dispositivo processual em razão da rejeição dos aclaratórios.
+Em tais condições, não há como conhecer do recurso especial, em virtude da incidência da Súmula n. 284 do STF.
+Acrescente-se que os dispositivos indicados não têm conteúdo normativo apto a impugnar o fundamento da Corte estadual de que, "muito embora o agravante afirme que os valores encontrados estão desatualizados, certo é que não acostou quaisquer outros valores ou laudos, que pudessem afastar as conclusões da perícia, ônus que lhe competia" (e-STJ fl. 147). Dessa forma, incide também a Súmula n. 283 do STF.
+Por fim, para alterar a conclusão do Tribunal de origem que não está presente nenhuma das hipóteses elencadas no art. 873 do CPC/2015, a autorizar nova perícia, seria necessária a análise de matéria fática, vedada em recurso especial por incidência da Súmula n. 7 do STJ.
+Os mesmos óbices imp edem o exame do especial fundado na alínea "c" do permissivo constitucional.
+Em face do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
