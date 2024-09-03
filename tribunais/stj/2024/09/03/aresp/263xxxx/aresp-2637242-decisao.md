@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TANIA CARLOS DE MELO contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, contra v. acórdão assim ementado (fls. 201):
+"Embargos à execução. Locação residencial. Alegação do direito a compensação do valor cobrado com as reformas realizadas no imóvel durante a vigência da locação. Descabimento. Cláusula contratual que exclui, expressamente, o direito de retenção ou indenização em relação às benfeitorias realizadas no imóvel.
+Artigo 35 da Lei 8.245/91 e Súmula 335 do Superior Tribunal de Justiça. Ausência de tratativa verbal apta a desconstituir o que foi acordado contratualmente. Aparelho de ar condicionado que não é benfeitoria, mas pertença, devendo ser restituído à embargante.
+Recurso parcialmente provido."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 238-241).
+Nas razões do apelo nobre (fls. 212-218), TANIA CARLOS DE MELO aponta, além de divergência jurisprudencial, violação aos arts. 96, §1º, 884 e 1.219 do Código Civil e ao art. 35 da Lei n. 8.245/91, ao argumento, entre outros, de que "(..) os móveis que a recorrente adquiriu para serem instalados na cozinha, bem com a decoração de madeira, são benfeitorias VOLUPTUÁRIAS, portanto, não merecem o mesmo tratamento dado as benfeitorias uteis ou necessárias, tal como julgou o E. Tribunal de Justiça do Estado de São Paulo" (fls. 216).
+Alega, também, que "(..) IMPEDIR DE RETIRAR OS MÓVEIS DA COZINHA E DECORAÇÃO QUE FORAM INTRODUZIDOS PELA RECORRENTE, PAGO POR ELA, A FIM DE TORNAR O IMÓVEL, UTILIZADO COMO CONSULTÓRIO, MAIS AGRADÁVEL, É O MESMO DE AUTORIZAR A APROPRIAÇÃO INDÉBITA" (fls. 217 - destaques no original).
+Intimadas, LEDA MARIA SIVIERO ELIAS E OUTRAS apresentaram contrarrazões (fls. 277-285), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 286-289), motivando o agravo em recurso especial (fls. 292-296) em testilha.
+Não foi oferecida contraminuta (vide certidão à fl. 297).
+É o relatório. Decido.
+No caso dos autos, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu que existe cláusula no contrato de locação que "(..) exclui qualquer responsabilidade do locador em indenizar as supostas benfeitorias realizadas no imóvel, sendo desprovida de base fática a alegada compensação com o valor cobrado a título de encargos locatícios". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"Sustenta a apelante que ocorreram tratativas verbais, nas quais ficou acordado que haveria abatimento dos valores despendidos com as reformas realizadas.
+Contudo, assiste parcial razão à locatária.
+No que pertine aos móveis planejados e o madeiramento colocado na parte externa, trata-se nitidamente de benfeitoria e não há que se falar em abatimento ou ressarcimento.
+Isto porque a cláusula 5º do contrato firmado prevê expressamente a impossibilidade de retenção/indenização por qualquer tipo de benfeitoria realizada no imóvel.
+Vale frisar que referida cláusula está em perfeita consonância com o artigo 35 da Lei 8.245/91, que está assim redigido: "Salvo expressa disposição contratual em contrário, as benfeitorias necessárias introduzidas pelo locatário, ainda que não autorizada pelo locador, bem como as úteis, desde que autorizadas, serão indenizáveis e permitem o exercício do direito de retenção". (grifei)
+E também com a Súmula 335 do Superior Tribunal de Justiça, que já reconheceu ser válida a cláusula de renúncia à indenização das benfeitorias e ao direito de retenção nos contratos de locação.
+Assim sendo, fácil constatar que a cláusula contratual exclui qualquer responsabilidade do locador em indenizaras supostas benfeitorias realizadas no imóvel, sendo desprovida de base fática a alegada compensação com o valor cobrado a título de encargos locatícios.
+Nem mesmo a testemunha ouvida comprovou eventual permissão para abatimento, sendo certo que se tratando de contrato escrito, qualquer alteração deveria ter sido procedida da mesma forma.
+Contudo, em relação ao ar condicionado instalado no imóvel, razão assiste à embargante, uma vez que se trata de pertença e não benfeitoria.
+Assim já julgou a 27ª Câmara de Direito Privado desta Corte, em 02.08.2016, nos autos do agravo de instrumento nº 2129338-37.2016.8.26.0000, relatado pela eminente Des. Ana Catarina Strauch, cujo trecho da fundamentação transcrevo abaixo:
+"O Condomínio agravante alega que tais bens foram incorporados ao espaço comercial e que o contrato prevê expressamente que as benfeitorias passam a integrar o imóvel locado, in verbis:
+"CLÀUSULA DÉCIMA SEGUNDA DAS BENFEITORIAS - Finda a locação, seja por acordo, seja pelo término do prazo contratual, seja, afinal, face à rescisão deste, a devolução do SALÃO DE USO COMERCIAL se fará em estrita observância das NORMAS GERAIS, sendo certo que as benfeitorias, instalações, decorações e alterações que não puderem ser removidas sem dano ao imóvel a este acederão, sem que assista à LOCATÁRIA direito a indenização ou retenção a qualquer título.
+Parágrafo Único As benfeitorias que acederem ao imóvel, tais como, exemplificativamente, revestimentos, pinturas, fachadas de lojas, instalações elétricas, de ar condicionado, "fan-coil", sistema de exaustão, de proteção antiincêndio, hidráulicas, quadro elétrico e luminárias embutidas, mesmo que pagas pela LOCATÁRIA, passarão a integrar o imóvel locado, não podendo ser retiradas pela LOCATÁRIA, que, sobre tais benfeitorias, não terá direito a reembolso do respectivo custo, indenização a qualquer título, ou arguição de retenção."(fl. 60)
+No entanto, não assiste razão ao recorrente.
+Isto porque, depreende-se, da simples leitura da referida cláusula contratual, que apenas as instalações de ar condicionado aderem ao bem e não podem ser retiradas.
+Ou seja, split e condensador não integram as instalações e, por isso, podem ser removidos sem dano ao imóvel, justamente em virtude de tais aparelhos configurarem pertenças, como assinalado pelo Juízo a quo: "O ar condicionado não se confunde com as respectivas instalações e, por possuir a natureza jurídica de pertença (artigo 93, Código Civil), poderá ser retirado pela parte autora (máquina e condensadora)".
+Com relação às luminárias (7 paflon de hqi e respectivas lâmpadas), o Juízo de origem teve a cautela de determinar ao Oficial de Justiça a verificação in loco acerca da possibilidade de remoção: "No que tange às luminárias (3 pendentes e 7 paflon), deverá o Sr. Oficial de Justiça responsável constatar se são embutidas ou não. Em caso negativo, autorizo a retirada, tendo em vista o disposto no contrato entabulado entre as partes".
+Portanto, diante das peculiaridades do caso em tela, aliadas ao conjunto probatório acostado aos autos, é de rigor a manutenção integral da decisão agravada, inclusive no tocante à multa fixada em caso de descumprimento, ficando ratificados in totum os seus fundamentos.
+Pelo exposto, NEGO PROVIMENTO AO RECURSO" (grifei).
+Deste modo não sendo benfeitoria, o aparelho de ar condicionado (split e condensadora), deve ser restituído à embargante, mesmo porque, a retirada apenas dos aparelhos não acarretará nenhum dano ao imóvel.
+Pelo exposto, acolho parcialmente o recurso da embargante para determinar a restituição do aparelho de ar condicionado, uma vez que não há recibo nos autos indicando o valor pago pela embargante para sua aquisição." (fls. 203-204 - g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e revolvimento de matéria fático-pro batória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7. ambas do eg. STJ.
+Finalmente, pela divergência pretoriana, o recurso também não merece acolhida, na medida em que a incidência das Súmulas n. 5 e n. 7, ambas do eg. STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INEXISTÊNCIA DOS ABALOS PSÍQUICOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. SUCUMBÊNCIA MÍNIMA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+6. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018), essa é a situação evidenciada no caso.
+7. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp 1882165/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2021, DJe 03/03/2021 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA. PRETENSÃO DEPENDENTE DE REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DAS SÚMULAS 5 E 7, AMBAS DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. A incidência das Súmulas 5 e 7 do STJ também é óbice para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.489.813/SC, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024. - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" o RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
