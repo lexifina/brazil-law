@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por OSMAR ROSA DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+Agravo de instrumento. Cumprimento de sentença.
+I. Execução contra a Fazenda Pública. Destaque dos honorários advocatícios contratuais. Impossibilidade. Decisão mantida. A aplicação da Súmula Vinculante n. 47 do Supremo Tribunal Federal restringe-se aos honorários sucumbenciais, não sendo possível o destacamento dos honorários advocatícios contratuais para fins de recebimento mediante RPV ou precatório, uma vez que esta forma de pagamento é exclusiva para dívidas da Fazenda Pública, não abarcando verbas oriundas de ajustes particulares, tais como os honorários contratuais.
+Agravo de instrumento conhecido e desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 22 e 23 da Lei 8.906/94, no que concerne à possibilidade de destacamento dos honorários advocatícios contratuais no precatório expedido, tendo em vista seu pedido o portuno no cumprimento de sentença, trazendo a seguinte argumentação:
+De modo diverso, o requerimento deduzido nos autos do processo se enquadra no segundo cenário descrito, pois pretende-se somente que a pactuação estabelecida entre a parte e seu patrono, destinando parte dos valores recebidos a título de condenação nos autos da ação em favor do patrono, seja registrada no instrumento de pagamento. Trata-se, portanto, de mera anotação no instrumento de pagamento expedido para que, por ocasião do efetivo pagamento, parte do valor seja direcionado à parte e a outra parte seja paga ao próprio advogado.
+Com efeito, a pretensão encontra fundamento legal no Estatuto da Ordem dos Advogados do Brasil, que expressamente autoriza o pagamento de percentuais do precatório, quando assim estabelecido com a parte representada, em favor do patrono da causa, senão vejamos:
+ ..
+No caso dos autos, o contrato de honorários celebrado entre o recorrente e seu patrono foi efetivamente juntado aos autos em momento anterior à expedição do precatório, como bem consignou o julgador a quo no voto que compõe o acórdão ora impugnado. Transcreve-se:
+ ..
+Como já restou consignado na presente petição e também no recurso interposto perante o Tribunal de origem, a pretensão aqui é justamente o destaque dos honorários advocatícios contratuais no precatório expedido, sem que se busque a expedição de documento autônomo, tendo o pedido sido deduzido de forma oportuna, no início do cumprimento de sentença, razão pela qual não se sustenta o indeferimento do pleito (fls. 90-93).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência". (AgRg no AREsp 1.532.282/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.302.307/TO, relatora Ministra Eliana Calmon, Primeira Seção, DJe de 13/5/2013; REsp 1.110.552/CE, relator Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15/2/2012; AgInt no REsp 1.830.547/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no AREsp 1.488.516/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/7/2020; AgInt no AgInt no AREsp 1.484.304/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp 1.519.322/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 30/10/2019; AgInt no AREsp 1.358.090/SE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
