@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 505/510).
+O acórdão do TJMT traz a seguinte ementa (e-STJ fl. 427):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - GIGANTOMASTIA - CIRURGIA PLÁSTICA REPARADORA - EXPRESSA INDICAÇÃO MÉDICA - COBERTURA DEVIDA - NEGATIVA - ATO ILÍCITO CONFIGURADO - DANOS MORAIS EVIDENCIADOS - SENTENÇA REFORMADA PARCIALMENTE - 1º APELO CONHECIDO E DESPROVIDO - 2º APELO CONHECIDO E PROVIDO.
+Evidenciado pelos relatórios médicos que a hipertrofia mamária apresenta repercussão sobre a saúde da paciente, como dores lombares e problemas vertebrais, além da afirmação da parte de que sofre restrição de suas atividades físicas e constrangimento social, resta caracterizado que a cirurgia de redução das mamas não apresenta caráter estético, sendo essencial para o restabelecimento da saúde da segurada.
+E dever do plano de saúde fornecer o procedimento médico prescrito por
+médico cooperado e que acompanha o caso da paciente, pois cabe àquele definir qual é o melhor tratamento para o segurado (TJMT. AI 65686/2015).
+Incorre em ato ilícito a indevida recusa de cobertura do procedimento
+cirúrgico para reparação de hipertrofia mamária por não possuir caráter meramente estético, sendo medida de melhor justiça a condenação no dever de realizar o procedimento médico necessário.
+Há nexo de causalidade entre a conduta de recusar a cobertura e o resultado suportado pelo segurado, quanto a todos os transtornos, angústia e abalo psicológico de monta imensurável, mormente por se tratar da própria saúde.
+O arbitramento do valor da indenização decorrente de dano moral deve ser
+feito de acordo com os aspectos do caso, sempre com bom senso, moderação e razoabilidade, atentando-se à proporcionalidade com relação ao grau de culpa, extensão e repercussão dos danos e à capacidade econômica das partes.
+Os embargos de declaração foram rejeitados (e-STJ fls. 442/456).
+No especial (e-STJ fls. 475/485), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação:
+(i) dos arts. 489 e 1.022, II, do CPC/2015, defendendo haver negativa de prestação jurisdicional, pois a Corte local teria ignorado "a exclusão de cobertura para procedimento estético (artigo 10, II e 10-A da lei 9.656/98), bem como, procedimento que não o rol de procedimentos e eventos da ANS (artigo 10 § da lei 9.656/98 e artigo 4 , III, Lei n. 9.961/2000)" (e-STJ fl. 483), e
+(ii) dos arts. 10, II, § 4º, e 10-A da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000, afirmando ser legítima a limitação da cobertura do procedimento cirúrgico descrito na inicial, pois o mencionado custeio não seria previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, que teria natureza taxativa, além de que seria de natureza estética.
+Foram ofertadas contrarrazões (e-STJ fls. 498/504).
+No agravo (e-STJ fls. 513/517), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 524/528).
+É o relatório.
+Decido.
+O presente recurso versa sobre cobertura de procedimento não previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS.
+A parte recorrida postulou o custeio da cirurgia plástica reparadora da gigantomastia, o que foi deferido pelo TJMT (e-STJ fls. 412/419).
+Ocorre que, em assentada recente, a Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Sem embargo, o Órgão Colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente pela ANS a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+No caso concreto, todavia, o julgamento das instâncias ordinárias não avançou para aferir o preenchimento desses requisitos, tampouco para examinar se a cláusula contratual era expressa e adequadamente redigida no sentido de restringir a cobertura, limitando-se a reputar abusiva a limitação por entender que a escolha do tratamento do paciente é prerrogativa do profissional médico, concluindo pelo caráter meramente exemplificativo do rol de procedimentos da autarquia reguladora.
+Nesse contexto, haja vista a impossibilidade do reexame das cláusulas contratuais e demais elementos fático-probatórios (Súmulas n. 5 e 7 do STJ), devem os autos retornar à instância de origem para que a Corte local examine se estão presentes os critérios definidos pela Segunda Seção - ou, se for o caso, na forma prevista e autorizada pelo art. 938, § 3º, do CPC/2015, converta o julgamento em diligência para que as partes façam provas, no próprio Tribunal ou em primeira instância, de fatos que demonstrem ou afastem o preenchimento daqueles requisitos.
+Observo que, em hipótese assemelhada, a Quarta Turma desta Corte Superior outrossim reconheceu a necessidade de devolução dos autos à origem, uma vez que, " c omo não houve instrução processual, a tornar, no caso concreto, temerária a imediata solução do litigio para julgamento de total improcedência do pedido exordial, aplicando-se o direito à espécie (art. 1.034 do CPC/2015 e Súmula 456/STF), é de rigor a anulação do acórdão recorrido e da sentença para que, mediante requerimento de nota técnica ao NAT-JUS (Núcleo de Apoio Técnico do Tribunal de origem), se possa aferir os fatos constitutivos de direito da parte autora - à luz dos preceitos de Saúde Baseada em Evidências, tomando-se em conta o rol da ANS" (AgInt no AREsp n. 1.430.905/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/3/2020, DJe 2/4/2020).
+Determinada a devolução dos autos à origem, ficam prejudicados os demais pedidos.
+Ante o exposto, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos à origem para que, em novo exame da apelação, julgando o recurso como entender de direito, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela segurada, delineados pela Segunda Seção do STJ.
+Publique-se. Intimem-se.
+EMENTA
