@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/08/2024 a 03/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ OU À COMPETÊNCIA DESTA CORTE. AUSÊNCIA. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, a usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação como sucedâneo recursal a fim de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo.
+3. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por CNC SOLUTIONS TECNOLOGIA DA INFORMAÇÃO EIRELI contra decisão unipessoal que indeferiu a petição inicial, julgando a reclamação extinta sem resolução do mérito.
+Agravo em reclamação interposto em: 30/7/2024.
+Concluso ao gabinete em: 15/7/2024.
+Reclamação: alega, em síntese, que a decisão proferida pela Câmara de Presidentes do TJSP viola o que fora decidido em sede de recurso especial repetitivo (Tema 1076/STJ). Refere que é cabível a reclamação para "promover o enfrentamento de situação de grave erro na aplicação de precedente tirado em repetitivo, justamente para preservar a competência e autoridade dessa C. Corte e cassar decisão que aplica o precedente de forma equivocada" (e-STJ fl. 8). Requer sejam julgados procedentes os pedidos da reclamação a fim de anular a "decisão proferida no processo nº 1017971-73.2020.8.26.0068 e determinar o seguimento do Recurso Especial para julgamento" (e-STJ fl. 16).
+Decisão unipessoal: indeferiu liminarmente a petição inicial, julgando a reclamação extinta sem resolução do mérito.
+Agravo interno: reitera os fundamentos anteriormente apresentados e pugna pela reforma da decisão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ OU À COMPETÊNCIA DESTA CORTE. AUSÊNCIA. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, a usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação como sucedâneo recursal a fim de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo.
+3. Agravo interno não provido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+1. Da Reclamação Constitucional
+Reitera-se que, nos termos dos art. 105, inciso I, alínea "f", da Constituição Federal, e 988 do CPC, compete ao STJ processar e julgar originariamente a reclamação para a preservação de sua competência ou para a garantia da autoridade de seus julgados apenas quando objetivamente violados.
+Quanto ao cabimento para preservar a sua competência, relembra-se que o art. 1.030 do CPC determina que cabe o Agravo em Recurso Especial (AREsp), estatuído no art. 1.042, contra decisão do presidente ou do vice-presidente do Tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos. Nesta última hipótese, estar-se-á diante de negativa de seguimento e o recurso cabível será o de Agravo Interno (AgInt) prescrito no art. 1.021, do CPC.
+No ponto, a competência para fazer o primeiro juízo de admissibilidade do recurso excepcional é, de fato, do Tribunal de origem. Sendo a denegatória fundamentada na aplicação de repetitivos, cabe Agravo Interno, o qual também é de competência do Tribunal de origem.
+No particular, diferentemente do que sustenta a parte reclamante, não há usurpação de competência deste STJ, notadamente porque a Câmara Especial de Presidentes do TJSP examinou o Agravo Interno interposto pelo ora reclamante após a decisão monocrática que negou seguimento ao seu recurso especial, nos exatos termos do Código de Processo Civil (art. 1.030 cumulado com art. 1.021).
+Ademais, ao examinar os autos, verifica-se que a petição inicial apenas retrata a inconformidade da parte reclamante quanto ao conteúdo da decisão prolatada, asseverando suposta desconformidade com entendimento consolidado em sede de repetitivo.
+Todavia, de acordo com a orientação exarada pela Corte Especial do STJ, por ocasião do julgamento da Reclamação n. 36.476/SP, não se admite o cabimento de reclamação destinada a vindicar o exame, por esta Corte de Justiça, sobre a aplicação supostamente indevida de precedente oriundo de recurso especial repetitivo pelo Tribunal de origem. Por oportuno, cita-se: Rcl 36.476/SP, Corte Especial, julgado em 5/2/2020, DJe 6/3/2020; AgInt na Rcl 42.586/SP, Segunda Seção, DJe 17/3/2022; AgInt na Rcl 42.013/PR, Primeira Seção, DJe 3/12/2021 e Rcl 36.476/SP, Corte Especial, DJe 6/3/2020).
+Consoante o exposto, registra-se o não cabimento da reclamação, a qual, frisa-se, não pode ser utilizada como sucedâneo recursal (AgInt na Rcl 41.077/SP, Segunda Seção, DJe 2/12/2021 e AgInt na Rcl 41.796/RJ, Segunda Seção, DJe 7/12/2021).
+Outrossim, colaciona-se a ementa de didático julgado desta Corte Superior, o qual esclarece que, "em que pese a Lei n. 13.256/2016 tenha acrescentado um pressuposto de admissibilidade - consistente no esgotamento das instâncias ordinárias -, excluiu o cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário. É que a finalidade do regime dos repetitivos consiste na uniformização da interpretação da lei federal. E, uma vez uniformizado o direito, é dos juízes e tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto".
+Confira-se:
+PROCESSUAL CIVIL. RECLAMAÇÃO. EXECUÇÃO FISCAL. PENHORA DE BEM DE FAMÍLIA. CONTRARIEDADE À TESE FIRMADA EM RECURSO REPETITIVO. TEMA N. 444. NÃO CABIMENTO. LEI N. 13.256/2016.
+I - Na origem, trata-se de embargos opostos à execução fiscal de CDA de crédito não tributário proposta pelo Inmetro, objetivando o reconhecimento da prescrição intercorrente. Na sentença, julgou-se parcialmente procedente o pedido para reconhecer como bem de família a área superior do imóvel penhorado na execução, reduzindo a penhora somente à área térrea que é destinada a comércio. No Tribunal a quo, a sentença foi mantida. Nesta Corte, não se conheceu da reclamação.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Lei n. 13.256/2016, houve a supressão do cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos.
+III - A parte reclamante afirma que a decisão impugnada teria desrespeitado o quanto fixado em tese repetitiva do Superior Tribunal de Justiça.
+IV - Contudo, tal situação não se enquadra nas hipóteses de cabimento da reclamação. A reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação dada pela Lei n. 13.256/2016), constitui demanda destinada à preservação de competência (inciso I), a garantir a autoridade das decisões do Superior Tribunal de Justiça (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+V- Esse instrumento jurídico destina-se a tornar efetivas as decisões proferidas no próprio caso concreto em que o reclamante tenha figurado como parte. Não se presta à preservação da jurisprudência deste Superior Tribunal de Justiça ou, ainda, a ser aplicado como um sucedâneo recursal. A propósito: (AgInt no AgInt na Rcl 36.795/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe 9/3/2021, AgInt no AREsp 1686490/MS, relator Ministro Moura Ribeiro, Terceira Turma, DJe 6/4/2021, AgInt na Rcl 31.875/MG, relator Ministro Francisco Falcão, Primeira Seção, DJe 19/12/2016 e AgrInt na Rcl 32.343/MG, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe 8/11/2016.) VI - A Corte Especial do Superior Tribunal de Justiça, no julgamento da Rcl 36.476/SP (DJe 6/3/2020, relatora Ministra Nancy Andrighi), firmou a tese acerca do tema.
+VII - Em que pese a Lei n. 13.256/2016 tenha acrescentado um pressuposto de admissibilidade - consistente no esgotamento das instâncias ordinárias -, excluiu o cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário. É que a finalidade do regime dos repetitivos consiste na uniformização da interpretação da lei federal. E, uma vez uniformizado o direito, é dos juízes e tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+VIII - Eventual aplicação errônea de teses repetitivas em casos concretos pelas instâncias ordinárias somente poderá ser corrigida pelo próprio sistema recursal, com observância dos arts. 1.030, § 2º, e 1.042 do CPC/2015, ou pela via da ação rescisória, na hipótese do art. 966, V, §§ 5º e 6º, do CPC/2015. Portanto, a hipótese do presente feito não se adequa ao cabimento de reclamação.
+IX - A aplicação do princípio da fungibilidade dependeria do preenchimento de dos seguintes requisitos: i) dúvida objetiva quanto ao recurso a ser interposto; ii) inexistência de erro grosseiro; e iii) que tenha sido tempestiva a medida. E, no caso, não existe dúvida objetiva quanto à impossibilidade de propositura de reclamação no caso concreto, configurando-se erro grosseiro.
+X - Agravo interno improvido.
+(AgInt na Rcl n. 40.972/RS, Primeira Seção, julgado em 15/6/2021, DJe de 18/6/2021)
+No mesmo sentido, veja-se também:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECLAMAÇÃO FUNDAMENTADA EM VIOLAÇÃO DE TESE FIXADA EM RECURSO REPETITIVO. NÃO CABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Reclamação fundamentada em violação de tese fixada em recurso repetitivo.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Não cabe reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.376.082/GO, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO DEMONSTRAÇÃO. RECLAMAÇÃO. TURMA RECURSAL. NÃO CABIMENTO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, não cabe reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos. Incidência da Súmula nº 568/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.018.298/BA, Terceira Turma, julgado em 24/10/2022, DJe de 28/10/202 2.)
+A decisão monocrática, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno na reclamação.
+Previno o agravante que a oposição de novo recurso, se declarado manifestamente protelatório, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC.
