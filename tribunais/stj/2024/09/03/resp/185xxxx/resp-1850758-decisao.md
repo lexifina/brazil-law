@@ -1,0 +1,38 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, contra acórdão assim ementado:
+ADMINISTRATIVO. EXECUÇÃO FISCAL. MULTA APLICADA PELO IBAMA. PRESCRIÇÃO QUINQUENAL CONFIGURADA. DECRETO 20.910/1932. INÉRCIA DO PODER JUDICIÁRIO E TAMBÉM DO EXEQUENTE.
+1. O Superior Tribunal de Justiça, em julgado submetido à sistemática dos recursos repetitivos, firmou entendimento no sentido de que a cobrança de multa administrativa, por se inserir no regime jurídico de direito público, e porque não ostenta natureza tributária, não se submete ao prazo prescricional previsto no CTN, mas sim às regras do Decreto n. 20.910/1932.
+2. Na hipótese, o Judiciário não expediu citação válida em tempo hábil, tendo em vista que o juiz proferiu despacho determinando a citação em 22.10.2002 e os autos permaneceram na secretaria sem nenhuma movimentação até 03.04.2014, quando foi feita a conclusão e proferido novo despacho determinando a intimação do exequente para informar a situação atual dos autos em termos de dívida, requerendo o que entendesse oportuno.
+3. No entanto, durante esse longo período (quase doze anos), o exequente não empreendeu medidas no sentido de dar prosseguimento ao feito, sendo próprio imputar-lhe contumácia na tomada de providência executiva, havendo que se falar também em inércia do IBAMA, a quem caberia acompanhar o processo.
+5. Ademais, na oportunidade em que o exequente foi intimado para adotar providências e impulsionar o processo, além de não fazê-lo, ainda requereu a extinção do feito pela prescrição, não restando assim configurada a culpa exclusiva dos mecanismos da Justiça a justificar a aplicação da Súmula nº 106 do Superior Tribunal de Justiça.
+6. Apelação improvida."
+Os embargos de declaração foram rejeitados nos seguintes termos:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. IBAMA. PRESCRIÇÃO INTERCORRENTE. CULPA EXCLUSIVA DO JUDICIÁRIO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Trata-se de embargos de declaração interpostos pelo IBAMA, alegando que o acórdão foi omisso quanto à análise da ocorrência de prescrição intercorrente.
+2. Os embargos de declaração são cabíveis quando o julgado apresentar omissão, contradição, obscuridade ou para corrigir erro material, nos termos do art. 1.022, I a III, do Código de Processo Civil.
+3. O acórdão ora embargado não incorreu em omissão ou contradição no tocante à análise da prescrição intercorrente, posicionando-se nos seguintes termos sobre a questão:
+"Na hipótese o Judiciário não expediu citação válida em tempo hábil, tendo em vista que o juiz proferiu despacho determinando a citação em 22.10.2002 e os autos permaneceram na secretaria sem nenhuma movimentação até 03.04.2014, quando foi feita a conclusão e proferido novo despacho determinando a intimação do exequente para informar a situação atual dos autos em termos de dívida, requerendo o que entendesse oportuno.
+No entanto, durante esse longo período (quase doze anos), o exequente não empreendeu medidas no sentido de dar prosseguimento ao feito, sendo próprio imputar-lhe contumácia na tomada de providência executiva, havendo que se falar também em inércia do IBAMA, a quem caberia acompanhar o processo.
+Ademais, na oportunidade em que o exequente foi intimado para adotar providências e impulsionar o processo, além de não fazê-lo, ainda requereu a extinção do feito pela prescrição, não restando assim configurada a culpa exclusiva dos mecanismos da Justiça a justificar a aplicação da Súmula nº 106 do Superior Tribunal de Justiça."
+4.O inconformismo da recorrente não se amolda aos contornos dos embargos de declaração, porque o acórdão ora combatido não padece de omissão, contradição ou obscuridade, não se prestando para rediscutir aspectos fáticos-jurídicos anteriormente debatidos.
+5.Embargos de declaração improvidos.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 40 da Lei 6.830/1980, assim como à Súmula 106/STJ.
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+De início, impende registrar que, nos termos da Súmula 518/STJ, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Quanto à prescrição, a Corte de origem concluiu pela ocorrência da prescrição intercorrente, nos seguintes termos:
+Na hipótese, há veracidade na alegação do apelante quanto ao fato de que o Judiciário não expediu citação válida em tempo hábil, tendo em vista que o juiz proferiu despacho determinando a citação em 22.10.2002, os autos permaneceram na secretaria sem nenhuma movimentação até 03.04.2014, quando foi feita a conclusão e proferido novo despacho determinando a intimação do exequente para informar a situação atual dos autos em termos de dívida, requerendo o que entendesse oportuno.
+No entanto, durante esse longo período (quase doze anos), o exequente não empreendeu medidas no sentido de dar prosseguimento ao feito, sendo próprio imputar-lhe contumácia na tomada de providência executiva, havendo que se falar também em inércia do IBAMA, a quem caberia acompanhar o processo. Ademais, na oportunidade em que o exequente foi intimado para adotar providências e impulsionar o processo, além de não fazê-lo, ainda requereu a extinção do feito pela prescrição, não restando assim configurada a culpa exclusiva dos mecanismos da Justiça a justificar a aplicação da Súmula nº 106 do Superior Tribunal de Justiça".
+Da leitura do apelo especial, é possível verificar que a autarquia sustenta a tese de culpa exclusiva do Poder Judiciário pela inércia em promover a citação, todavia, não impugna o fundamento acima em destaque, razão pela qual incide o óbice da Súmula 283/STF ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Além do mais, conforme destacado pelo Parquet Federal, "estabelecida nos autos a impossibilidade de se imputar exclusivamente ao Judiciário a demora na realização da citação, a revisão de tal posicionamento, em sede de recurso especial, é providência incabível, pois esbarra no óbice da Súmula n. 7/STJ".
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. PARALISAÇÃO DO PROCESSO POR CULPA DO PODER JUDICIÁRIO. SÚMULA 106/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O conflito caracterizador da lide deve estabilizar-se após o decurso de determinado tempo sem promoção da parte interessada pela via da prescrição, impondo segurança jurídica aos litigantes, uma vez que a prescrição indefinida afronta os princípios informadores do sistema tributário.
+2. A perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário. Inteligência da Súmula 106/STJ.
+3. In casu, a Corte de origem fundamentou sua decisão no sentido de que a demora no processamento do feito se deu por culpa da inércia do credor.
+4. A verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do Recurso Especial, ante o disposto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no REsp n. 2.094.828/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
