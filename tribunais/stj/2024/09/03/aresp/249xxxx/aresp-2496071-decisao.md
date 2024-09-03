@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO EVERSON RAMOS DE ARAÚJO contra decisão de inadmissibilidade do recurso especial, fundamentada na deserção recursal, tendo em vista que "foi o recorrente intimado a regularizar o preparo, nos termos nos termos do art. 99, § 7º, do CPC, sob pena de deserção. Inerte o recorrente a fls. 282, forçoso reconhecer a deserção, nos termos do art. 99, § 7º, do CPC." (fl. 283).
+Em suas razões de agravo, a parte "Requer a dispensa do recolhimento do devido preparo, bem como da juntada de guia de preparo de porte e remessa e retorno dos autos, tendo em vista que a Agravante é pessoa pobre na acepção jurídica do termo e beneficiária da Justiça Gratuita em primeiro grau (art. 1.017, § 1º, do NCPC)." (e-STJ, fl. 287) e reitera o mérito recursal.
+É o relatório. Decido.
+Nos termos da jurisprudência desta Corte, sob a vigência do Código de Processo Civil de 2015, o recurso é deserto quando a parte, mesmo após prévia intimação para regularização do preparo, não comprovar o deferimento da gratuidade de justiça, não recolher em dobro ou não complementar o valor devido, conforme o caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO DO RECURSO ESPECIAL. IRREGULARIDADE. INTIMAÇÃO PARA COMPLEMENTAÇÃO. ART. 1.007, §2º, DO CPC/2015. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Não havendo a comprovação do recolhimento suficiente do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o suprimento, no prazo de 5 (cinco) dias, sob pena de deserção, à luz do art. 1.007, caput e § 2º, do CPC de 2015.
+2. No caso em análise, correta a deserção aplicada na origem, pois a parte recorrente descumpriu a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso especial e, quando intimada para efetuar a complementação de custas, não comprovou na forma e no prazo estabelecido.
+3. Agravo interno desprovido.(AgInt no AREsp n. 2.408.724/PR, relator Ministro Raul Araújo, Quarta Turma, DJe 15.12.2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. PREPARO. IRREGULARIDADE. DESPACHO DE INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. TRANSCURSO IN ALBIS DO PRAZO PARA O CUMPRIMENTO DA DILIGÊNCIA. DESERÇÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. No caso dos autos, a decisão da Presidência desta Corte declarou a deserção do recurso especial, pois a parte, devidamente intimada para regularizar o preparo, deixou de cumprir a determinação, de modo que, escoado o prazo legal, sem cumprimento do ônus processual, impõe-se a deserção do recurso, conforme disposto na Súmula 187 do STJ.
+2. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.524.304/MT, relator Ministro Raul Araújo, Quarta Turma, DJe 2.5.2023, g.n).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. PREPARO INCOMPLETO. INTIMAÇÃO. ART. 1.007, § 2º, DO CPC. JUNTADA DE COMPROVANTE ILEGÍVEL. DESERÇÃO. DECISÃO MANTIDA.
+1. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, §2º, do CPC, a parte não comprovar ser beneficiária da gratuidade da justiça, ter pago o preparo no momento da interposição ou o recolhimento determinado no prazo assinalado pelo Juízo.
+2. Apesar de intimada, na forma do §2º do art. 1.007 do CPC, para completar o preparo, a parte anexou comprovante ilegível, o que obsta o conhecimento do recurso, tendo em vista a impossibilidade de uma segunda intimação para correção do novo defeito.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.030.990/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 26.5.2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL. DIFERIMENTO DE CUSTAS NA INSTÂNCIA DE ORIGEM. NÃO EXTENSÃO ÀS TAXAS JUDICIÁRIAS FEDERAIS. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO CARACTERIZADA.
+1. Ação de responsabilidade civil.
+2. Segundo entendimento desta Corte Superior, o diferimento do pagamento das custas processuais autorizado por legislação estadual não abrange as taxas judiciárias devidas em favor de órgão do Poder Judiciário da União, sob pena de violação à regra constitucional que veda a isenção heterônoma. Precedentes.
+3. A ausência de comprovação de recolhimento do preparo, mesmo após a intimação, implica sua deserção. Incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido.(AgInt no AREsp n. 2.372.865/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15.12.2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. NÃO OBSERVÂNCIA DO PRAZO ASSINALADO. APLICAÇÃO DA PENA DE DESERÇÃO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO SANEAMENTO NO PRAZO LEGAL. AGRAVO NÃO PROVIDO.
+1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro.
+3. A apresentação de comprovante de pagamento após a decurso do prazo do art. 1.007, § 4º, do CPC/2015, leva à deserção do recurso. Incidência da Súmula 187 do STJ. Precedentes.
+4. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro no prazo assinalado, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+5. O entendimento do STJ é no sentido de que a ausência da procuração e/ou da cadeia completa dos substabelecimentos impossibilita o conhecimento do recurso, nos termos da Súmula 115 do STJ.
+6. A parte recorrente, embora devidamente intimada para a regularização da representação processual, não procedeu à juntada tempestiva da procuração e/ou da cadeia completa dos substabelecimentos conferindo poderes ao subscritor do recurso especial.
+7. Agravo interno não provido. (AgInt no REsp n. 1.949.693/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, Dje de 27.4.2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREPARO. COMPROVAÇÃO. AUSÊNCIA. INTIMAÇÃO. ART. 1.007, §4º, DO CPC/2015. JUNTADA DE COMPROVANTE ILEGÍVEL. DESERÇÃO. DECISÃO MANTIDA.
+1. "A jurisprudência desta Corte é no sentido de que se configura deserção se, após a intimação, nos termos do § 4º do art. 1.007 do Código de Processo Civil de 2015, a parte recorrente não comprovar o pagamento ou não o efetuar em dobro" (AgInt nos EAREsp 719.811/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017).
+2. No caso, apesar de os agravantes terem sido intimados para juntar a comprovação do preparo (guia faltante) e efetuar o recolhimento em dobro (art. 1.007, § 4º, do CPC/2015), anexaram comprovante ilegível, o que obsta o conhecimento do recurso, tendo em vista a impossibilidade de uma segunda intimação para correção do novo defeito.
+3. Agravo interno a que se nega provimento. (AgInt nos EREsp n. 1.710.524/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, DJe de 24.5.2021.)
+No caso dos autos, como visto, a Corte de origem constatou a ausência do preparo do recurso especial. E, mesmo após a intimação do recorrente para suprir a falha, não houve a tempestiva comprovação de cumprimento da determinação (e-STJ, fls. 280/282).
+Nesse contexto, impõe-se o reconhecimento da deserção do recurso especial (Súmula 187 do STJ).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+EMENTA
