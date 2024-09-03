@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GABRIEL IBIAPINO DOS SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem originária e manteve a prisão preventiva do paciente pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/06.
+Nesta Corte, o impetrante alega, em suma, ausência de fundamentos concretos para a custódia preventiva. Destaca que "o Paciente é um jovem de 19 (dezenove) anos de idade, com residência fixa, sem antecedentes, atividade lícita", e assume a condição de dependente químico de "maconha, sendo que por diversas vezes buscou tratamento médico para tratar do problema." Aponta, ainda, a inocência do paciente, que estaria no local da apreensão apenas para "fumar um cigarro de maconha".
+Requer a concessão da ordem para que o paciente seja colocado em liberdade.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A prisão preventiva foi assim decretada:
+Conforme consta do artigo 312, c.c 313 do CP, presentes os pressupostos da prisão cautelar, pois há prova da existência do crime e indícios suficientes de sua autoria, pois os custodiados foram encontrados transportando e tendo em depósito em sua residência aproximadamente 900g de maconha, mais de 1kg de cocaína e 80g gramas de "crack",de acordo com a laudo preliminar de fls. 27-31.
+ ..
+No caso em tela, verificam-se presentes o fumus comissi delicti, decorrente da apreensão de quantidade exacerbada de droga enquanto um dos investigados fazia o transporte.
+Também o periculum libertatis, pois o crime em questão é concretamente grave, já que os custodiados possuíam variedade de entorpecentes, entre eles "crack", substância com alto poderviciante. Além disso Gabriela é investigado por fatos similares ao analisado e João possui passagens anteriores envolvendo drogas tanto na justiça da infância quanto na justiça comum.
+Como se verifica, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública nos termos do art. 312 do CPP, dada a gravidade dos fatos apurados e a reiterada conduta delitiva do agente. Segundo consta, o paciente foi supreendido na posse de 900g de maconha, mais de 1kg de cocaína e 80g gramas de "crack" e já responde a outro processo também pelo delito de tráfico de drogas.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais , "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+Anote-se, ainda, que o fato de o réu possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Por fim, é inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do paciente indica que a ordem pública não estaria acautelada com a sua soltura. Sobre o tema: RHC 91.896/BA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018; HC 426.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 5/4/2018, DJe 16/4/2018; e HC 400.411/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 7/12/2017, DJe 15/12/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
