@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO VALE DO TAQUARI DE EDUCAÇÃO E DESENVOLVIMENTO SOCIAL - FUVATES contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado, com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim sumariado (fls. 495):
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. ENSINO PARTICULAR. AÇÃO DECLARATÓRIA DE ILEGALIDADE DE COBRANÇA COMPLEMENTAR. DIFERENÇA DE VALORES DAS MESTRALIDADES QUE ULTRAPASSAM O TETO DO FIES. COBRANÇA DIRETA DO ALUNO. IMPOSSIBILIDADE NO CASO CONCRETO.
+CONFORME ORIENTAÇÕES DO FNDE, ÓRGÃO OPERADOR DO FIES, É VEDADO ÀS INSTITUIÇÕES DE ENSINO COBRAREM VALORES SUPERIORES AO TETO DO FINANCIAMENTO ESTUDANTIL EM CASO DE CONTRATOS RELATIVOS A PROCESSO SELETIVO OCORRIDO ATÉ 2016. PORTARIA NORMATIVA 04/2017 DO MEC, QUE DETERMINA O CUSTEIO DE EVENTUAL DIFERENÇA PELO ALUNO, APENAS APLICÁVEL AOS CONTRATOS ENTABULADOS A PARTIR DO PRIMEIRO SEMESTRE DE 2017.
+APELO PROVIDO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 570-580).
+Nas razões do apelo nobre (fls. 587-624), FUNDAÇÃO VALE DO TAQUARI DE EDUCAÇÃO E DESENVOLVIMENTO SOCIAL - FUVATES aponta, ofensa aos arts. 1º, 2º e 4º da Lei n. 9.870/99 e ao art. 53 da Lei n. 9.394/96, ao argumento, entre outros, de que "(..) não existe autorização legal para taxar a semestralidade contratada nem restrição legal, normativa ou contratual da sua exigibilidade contra os alunos, parte não financiada pelo FIES" (fls. 615).
+Aduz, também, que "(..) o FNDE não pode usar a limitação de financiamento como taxação de preço, como o está fazendo ao argumentar e propagandear que está financiando integralmente o aluno e que as instituições de ensino superior estão proibidas de cobrar a parte da semestralidade não aditada. A argumentação do FNDE de que a Univates não pode cobrar dos alunos a parte não aditada, por força do teto fixado, taxando, por via transversa, a semestralidade, interfere inconstitucionalmente na iniciativa privada, ferindo a garantia da reserva legal, também ofendendo a autonomia universitária (LDB) e a lei que regula a fixação e os reajustes das semestralidades (Lei 9.870/1999)" (fls. 617).
+Assevera que "(..) ao aderir ao FIES em 2012, sem limite de financiamento para sua adesão, a recorrente não estava dando carta branca para o Governo fixar a qualquer tempo limite de ad itamento que atingisse a exigibilidade da semestralidade devidamente fixada e reajustada nos termos da lei. Para demonstrarmos o absurdo do entendimento do FNDE, propomos um exercício na raia do absurdo. Pelo entendimento do FNDE, se o CG-FIES viesse a anunciar o fim do recurso e a fixar o limite zero, a recorrente nada poderia cobrar dos alunos, arcando com os prejuízos fundiários" (fls. 620).
+Intimada, GABRIELA ALÉRICO CASARIL apresentou contrarrazões (fls. 631-642), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 645-650), motivando o agravo em recurso especial (fls. 659-729) em testilha.
+Também foi oferecida contraminuta (fls. 805-814), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+No caso, o eg. TJ-RS, com arrimo no acervo fático-probatório carreado aos autos, reformando sentença, assentou que é "(..) inarredável a compreensão de que a cobrança dos valores que excederam ao teto do FIES, no caso específico da autora, que realizou a primeira contratação do financiamento em 2015, são indevidos.". A título elucidativo, transcreve-se o seguinte trecho do v. acórdão estadual (fls. 483-493):
+"Na hipótese dos autos a autora/apelante, à época do ajuizamento da ação a apelante era estudante do 8º semestre do Curso de Medicina da ré Universidade do Vale do Taquari -UNIVATES, contando com financiamento de 100% pelo FIES. Relatou que, a partir de 2019 a ré passou a condicionar sua matrícula e de outros colegas, ao pagamento, diretamente pelo aluno, da diferença entre o valor do curso e o teto do FIES.
+Ocorre que, quando do ingresso no curso e contratação do FIES (2015), a legislação e regulamentos que disciplinavam a matéria vedavam a cobrança, do aluno que possuísse financiamento de 100%, de qualquer valor ou taxa adicional, ainda que o valor da semestralidade ultrapassasse o teto estabelecido pelo FIES.
+(..)
+O ofício é claro ao esclarecer, no item 6, que nos contratos formalizados de 2010 a2016 (considerando-se, para tal fim, a primeira contratação, subsequente ao processo seletivo de ingresso na universidade) é vedada qualquer cobrança adicional dos estudantes com 100% de financiamento.
+Em tal contexto, assiste razão à autora/apelante quando argumenta que, se não fosse esse o entendimento, não haveria porque, em todas as resoluções que se seguiram à alteração procedida em dezembro de 2016, haver disciplina diversa para os contratos firmados antes e depois de 2017.
+Com efeito, se compreendido que cada aditamento importaria na submissão dos alunos à nova lei/regulamentação, não mais seria necessária a diferenciação entre contratos antigos e novos, pois todos seriam posteriores a 2017.
+Não foi outra a informação repassada pela ouvidoria do Governo Federal após reclamação realizada pela autora em razão da referida cobrança e anexada à inicial (Evento 3,PROCJUDIC2, fls. 22-25):
+(..)
+Diante de tais provas, entendo inarredável a compreensão de que a cobrança dos valores que excederam ao teto do FIES, no caso específico da autora, que realizou a primeira contratação do financiamento em 2015, são indevidos.
+(..)
+Ante o exposto, dou provimento ao apelo para, julgando procedentes os pedidos formulados pela parte autora, declarar a ilegalidade da cobrança de valores complementares ao teto do FIES pela instituição de ensino ré." (g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reinterpretação de cláusulas contratuais e revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos das Súmulas n. 5 e n. 7, ambas do eg. STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b" do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
