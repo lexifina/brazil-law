@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Demetrio de Sousa Lacerda, no qual se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul, que negou provimento ao Agravo em Execução Penal n. 1601526-57.2022.8.12.0000 (fls. 41/49).
+Consta que o Tribunal estadual manteve o indeferimento do pedido de retificação do cálculo de pena, em que a defesa pretendia a desconsideração da hediondez do crime de tráfico de drogas.
+Alega-se, em breve síntese, que, após as modificações promovidas pela Lei n. 13.964/2019, o crime de tráfico de drogas não está mais elencado na legislação como hediondo ou equiparado.
+Afirma-se que, diante do princípio da legalidade e da taxatividade da norma penal, previstos no art. 5º, inciso XXXIX da CF/88, em virtude da omissão legislativa na indicação de quais seriam os crimes equiparados aos hediondos, não há como aplicar de forma extensiva e prejudicial ao apenado o percentual de 40 % previsto no inciso V do art. 112 da Lei de Execução Penal (n. 7.210/1984) - fl. 6.
+Assevera-se que não havendo como sustentar a equiparação a hediondo do crime de tráfico de drogas para fins de progressão de regime de cumprimento depena, ao Peticionário deve ser aplicada a norma mais benéfica, qual seja, o art. 112, inciso I, da Lei n. 7.210/1984 (percentual de 16%) - fl. 6.
+Requer-se a concessão da ordem para afastar a hediondez do delito de tráfico de drogas, bem como para permitir que o paciente seja beneficiado com a progressão de regime com a fração destinada ao crime comum.
+O pedido liminar foi deferido (fls. 58/60).
+As informações foram prestadas (fls. 68/72 e 73/82).
+O  Ministério  Público  Federal  manifestou-se nos termos da seguinte ementa (fl. 86):
+Habeas corpus substitutivo. Execução Penal. Tráfico de drogas (sem o reconhecimento da causa de diminuição de pena alusiva ao tráfico privilegiado). Revogação do § 2º do art. 2º da Lei 8.072/1990, pela Lei13.964/2019 (Pacote Anticrime) que não afasta a natureza do crime de "tráfico de drogas" como "crime equiparado a hediondo". Progressão de regime que se dá com fundamento no art. 112, inciso V, da LEP, com o cumprimento de 40% da pena para apenados primários ou reincidentes genéricos. STJ. Precedentes. Inexistência de flagrante ilegalidade. Parecer pela denegação do habeas corpus.
+É o relatório.
+De plano, destaco que o presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+De toda maneira, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Isso porque a tese deduzida na impetração não encontra guarida na orientação jurisprudencial recentemente sedimentada nas Turmas criminais que integram a Terceira Seção desta Corte, de que a Lei n. 13.964/2019 não retirou o caráter hediondo do tráfico perpetrado fora da hipótese prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Em outras palavras, a equiparação do crime de tráfico de drogas a crimes hediondos, assim como a tortura e o terrorismo, decorrem diretamente da Constituição Federal, não sendo adequado afirmar que o "Pacote Anticrime" afastou as consequências deletérias da Lei n. 8.072/1990 destes delitos (AgRg no HC n. 737.532/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 19/5/2022).
+Com efeito, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Em igual direção, citados no parecer, o AgRg no HC n. 733.326/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022; o AgRg no HC n. 729.256/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 2/5/2022; e o AgRg no HC n. 729.176/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/5/2022.
+Ante o exposto e em consonância com os precedentes e o parecer ministerial, denego a ordem. Cassada a decisão liminar.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. EXECUÇÃO PENAL. NATUREZA DO DELITO DE TRÁFICO DE DROGAS. LEI N. 13.964/2019. EQUIPARAÇÃO A DELITOS HEDIONDOS. MAIOR GRAVIDADE APONTADA PELA PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA DE 1988. PRECEDENTES DA QUINTA E DA SEXTA TURMAS DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada. Liminar cassada.
