@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se pedido de tutela antecipada antecedente formulado por ELIUD JOSÉ BORGES JUNIOR, objetivando a concessão de efeito suspensivo a agravo em recurso especial por ele interposto.
+Sustenta o requerente a existência do fumus boni iuris, argumentando a inobservância do rito especial de prestação de contas, bem como do periculum in mora, sob alegação de que "o Recorrido irá dever mais ao Peticionário do que o valor por aquele requerido na Ação de Prestação de Contas" (e-STJ fl. 18).
+O pedido de tutela provisória de urgência foi indeferido pela Presidência do STJ (e-STJ fls. 1033/1034).
+É O RELATÓRIO. DECIDO.
+Inicialmente, registra-se que, embora os autos tenham sido classificados como "Tutela Antecipada Antecedente (TutAntAnt)", a tutela pretendida não tem natureza antecipada, pois não objetiva a antecipação do provimento jurisdicional pleiteado.
+Em vez disso, o requerente tem como objetivo a concessão liminar de efeito suspensivo a agravo em recurso especial, na forma regulada pelos arts. 995, parágrafo único, e 1.029, § 5º, I, do CPC, o que se enquadra em tutela de urgência de natureza cautelar, classificada no art. 67, LII, do RISTJ, como "Tutela Cautelar Antecedente (TutCautAnt)".
+A concessão de efeito suspensivo a agravo em recurso especial depende da comprovação do risco de dano grave, de difícil ou impossível reparação (periculum in mora) decorrente da decisão recorrida e a caracterização da probabilidade de provimento do recurso (fumus boni juris), nos termos dos arts. 995, parágrafo único, e 1.029, § 5º, I, do CPC.
+Nesse sentido: AgRg na MC 18.414/RJ, Terceira Turma, julgado em 27/09/2011, DJe 05/10/2011; AgInt no TP 363/PE, Quarta Turma, julgado em 04/05/2017, DJe 10/05/2017; MC 15.726/SP, Primeira Turma, julgado em 20/04/2010, DJe 12/05/2010.
+Com efeito, a concessão da tutela provisória deve possuir caráter excepcional, ocorrendo sempre que necessário para impedir o perecimento do direito e a consequente inutilidade do provimento jurisdicional.
+Na hipótese sob julgamento, no entanto, o requerente não logrou êxito em comprovar os requisitos indispensáveis ao deferimento da tutela de urgência.
+É que, no que diz respeito ao requisito do periculum in mora, esta Corte Superior perfilha o entendimento de que "o risco de dano apto a lastrear a presente medida, analisado objetivamente, deve se revelar real e concreto, não sendo suficiente, para tal, a mera conjectura de riscos" (AgInt no TP 363/PE, Quarta Turma, julgado em 04/05/2017, DJe 10/05/2017). A propósito: AgRg na MC 24.065/PR, Quarta Turma, julgado em 18/08/2015, DJe 26/08/2015; AgRg na MC 25.391/MS, Quarta Turma, julgado em 18/02/2016, DJe 25/02/2016; AgInt no TP 956/MS, Quarta Turma, julgado em 12/12/2017, DJe 01/02/2018; REsp 821.720/DF, Segunda Turma, julgado em 23/10/2007, DJ 30/11/2007, p. 423.
+Na espécie, o requerente limitou-se a afirmar, genericamente, que o "o periculum in mora se dá pelo fato de que o Recorrido irá dever mais ao Peticionário do que o valor por aquele requerido na Ação de Prestação de Contas" (e-STJ fl. 18), sem, contudo, demonstrar a urgência da medida pleiteada.
+Assim, no que alude à urgência da medida, o requerente não demonstrou sua presença, uma vez que a afirmação genérica de que o acórdão recorrido pode, eventualmente, causar-lhe grave dano não traduz a alegada premência.
+Desse modo, afastada a possibilidade de concessão da tutela cautelar antecedente sob a ótica do periculum in mora, é despiciendo o exame da questão controvertida sob a perspectiva do fumus boni iuris.
+Forte nessas razões, INDEFIRO o pedido de atribuição de efeito suspensivo.
+Determino, ainda, o encaminhamento dos autos à Coordenadoria da Terceira Turma, para que se proceda à retificação da classe processual, reautuando-se os autos como "Tutela Cautelar Antecedente (TutCautAnt)", na forma do art. 67, LII, do RISTJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
