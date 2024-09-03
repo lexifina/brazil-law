@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ECON CONSTRUTORA E INCORPORADORA LTDA E OUTRA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo de instrumento. Compra e venda de bem imóvel. Rescisão contratual c.
+c devolução de valores. Fase de cumprimento de sentença. Insurgência contra decisão que deferiu pedido de desconsideração da personalidade jurídica, visando alcance do patrimônio das empresas Econ Construtora e Incorporadora Ltda. e Econ Participações Ltda.
+Insurgência da primeira executada, sob alegação de ausência de sucessão empresarial, formação de grupo econômico ou dilapidação patrimonial.
+Relação de consumo. Aplicação da teoria menor da desconsideração da personalidade jurídica. Inteligência do artigo 28, §5º, CDC. Atos abusivos e fraudulentos comprovados.
+Formação de grupo econômico.
+Precedentes. Decisão mantida.
+Pedido de condenação do agravante às penas por litigância de má-fé formulado em contrarrazões. Má-fé não configurada. Mera defesa de direito que entende legítimo. Presunção inadmissível.
+Incabível fixação de honorários. Decisão proferida em incidente de desconsideração da personalidade jurídica.
+Manifesta impossibilidade de fixação de honorários.
+Agravo não provido." (fl. 165)
+As recorrentes apontam ofensa aos arts. 7, 25, § 1º, 28, § 5º, do CDC, 50, 265, 1.142 e 1.146 do Código Civil. Sustentam, em síntese, ser indevida a sua inclusão no polo passivo da execução, porque não integraram a cadeia de consumo, não houve sucessão empresarial na forma do art. 1.142 do Código Civil e "o único negócio formalizado entre as Partes foi a transação de uma parcela do terreno onde localizado o empreendimento, razão pela qual não se pode falar em qualquer tipo de transferência (muito menos integral) do empreendimento ou assunção de responsabilidade por débitos pretéritos da Cooperativa a autorizar a alegada formação de grupo econômico" (fl. 178).
+Destacam, ainda: "as Recorrentes e a Cooperativa têm naturezas e finalidades absolutamente distintas, e não possuem sede e nem sócios em comum, tampouco há contrato de transmissão de direitos entre as mesmas que justifique o reconhecimento de sucessão de direitos e obrigações entre estas, o que rechaça a afirmação equivocada do Recorrido de que houve sucessão entre as empresas e que levou à interpretação do D. Juízo a quo de que há formação de grupo econômico. Tantoé verdade que jamais houve qualquer modificação social entre estas empresas (o que por si já afastaria a alegação de sucessão empresarial)" (fl. 178).
+Contrarrazões às fls. 188/198.
+É o relatório.
+O eg. TJSP, ao permitir a desconsideração da personalidade jurídica sem discutir a existência de abuso da personalidade jurídica, na espécie, está em conformidade com o entendimento do STJ, ante a existência de relação consumerista. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONSUMIDOR. RECUPERAÇÃO. RELAÇÃO CONSUMARISTA. TEORIA MENOR. ART. 28, § 5º, DO CDC. SOCIEDADE ANÔNIMA. CABIMENTO. REQUISITOS DA DESCONSIDERAÇÃO. SÚMULA N. 7/STJ. SOERGUIMENTO. CONSTRIÇÃO CONTRA TERCEIROS DIVERSOS DA RECUPERANDA. VIABILIDADE.
+1. O entendimento de origem se alinha com a jurisprudência do STJ no sentido de que o art. 28, § 5º, do CDC permite a aplicação da teoria menor da desconsideração da personalidade jurídica, que consiste na prescindibilidade de fazer prova de fraude ou abuso de direito ou ainda a existência de confusão patrimonial, bastando que o consumidor demonstre (I) o estado de insolvência do fornecedor ou (II) o fato de que a personalidade jurídica represente um obstáculo ao ressarcimento de prejuízos causados.
+2. Por seu turno, o tipo societário das sociedades anônimas não é obstáculo para a desconsideração na forma do art. 28, §5º, do CDC, conforme destacado em outros julgados no STJ que ostentam idêntica parte que ora recorre nos presentes autos: REsp n. 2.055.518/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/9/2023; REsp n. 2.034.442/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/9/2023; e AgInt no AgInt no AREsp n. 1.811.324/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/8/2022.
+3. Concluindo a origem que seria o caso de reconhecer a desconsideração da personalidade jurídica e a consequente responsabilização dos recorrentes, a reversão do julgado demandaria reexame do acervo fático-probatório dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+4. O deferimento da recuperação judicial não inviabiliza atos constritivos contra terceiros não abrangidos no soerguimento, conforme precedentes desta corte, o que demonstra que o entendimento de origem novamente se alinha à jurisprudência do STJ.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.978.715/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+Se, pois, as empresas originariamente executadas formam grupo econômico com as ora recorrentes e não possuem patrimônio para adimplir o crédito exequendo, pode o magistrado, com fundamento no art. 28, § 5º, do CDC, proceder à desconsideração da personalidade jurídica, com a responsabilização das demais pessoas que integram o grupo empresarial.
+Assim, ante a conformidade do acórdão recorrido com a jurisprudência desta Corte, incide o óbice da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Por fim, anota-se que, em razão do óbice da Súmula n. 7/STJ, esta Corte não pode reexaminar as provas a fim de investigar novamente a natureza do vínculo entre as construtoras originariamente executadas e as ora recorrentes. É inviável, portanto, reformar o acórdão de 2º grau, na partem em que atesta a existência de grupo econômico entre as pessoas jurídicas.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
