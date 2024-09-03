@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+RELATÓRIO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+EMENTA  EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL  ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO  INSURGÊNCIA QUANTO À APLICAÇÃO DA CAUSA DE AUMENTO ESPECIAL - AUSÊNCIA DE REFORMA TIO IN PEJUS  EMBARGOS REJEITADOS.
+Imputa-se ao paciente a prática do crime de lavagem de capitais.
+A defesa alega, em síntese, a ocorrência de "reformatio in pejus".
+Ao final, requer a concessão da ordem para obter a redução da pena que lhe foi aplicada.
+A parte impetrante interpõe de agravo regimental contra decisão que não conheceu do "habeas corpus". Requer a reconsideração da decisão agravada ou o provimento de seu recurso.
+O Ministério Público Federal apresentou contrarrazões, requerendo o não conhecimento ou o desprovimento do agravo.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+2. A revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios.
+3. É pacífica a jurisprudência desta corte no sentido de que "A reformatio in pejus leva em consideração o total da pena aplicada, não se vinculando o novo juízo à pena-base adotada anteriormente, ficando este impedido apenas de agravar a situação do réu." (AgRg no REsp 1267357 / TO, RELATOR Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DATA DO JULGAMENTO 04/06/2013, DATA DA PUBLICAÇÃO/FONTE DJe 21/06/2013)
+4. Não há de se falar em ilicitude flagrante na mera substituição do comando legal que arrima o aumento da pena pela continuidade delitiva, notadamente quando respeitado o "quantum" inicialmente imposto e quando postos de maneira clara pela acusação os fatos dos quais se defendeu o acusado.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo.
+Não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Efetivamente, é cediça a jurisprudência deste Superior Tribunal de Justiça no sentido de que "(..) A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade. (..)" (HC 595958 / SP, RELATOR Ministro RIBEIRO DANTAS, QUINTA TURMA, DATA DO JULGAMENTO 18/08/2020, DATA DA PUBLICAÇÃO/FONTE DJe 24/08/2020)
+Ou seja, a revisão da dosimetria em sede de "habeas corpus" "é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+Especificamente quanto ao tema tratado nos autos, é pacífica a jurisprudência desta corte no sentido de que "A reformatio in pejus leva em consideração o total da pena aplicada, não se vinculando o novo juízo à pena-base adotada anteriormente, ficando este impedido apenas de agravar a situação do réu." (AgRg no REsp 1267357 / TO, RELATOR Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DATA DO JULGAMENTO 04/06/2013, DATA DA PUBLICAÇÃO/FONTE DJe 21/06/2013)
+Destarte, não há de se falar em ilicitude flagrante na mera substituição do comando legal que arrima o aumento da pena pela continuidade delitiva, notadamente quando respeitado o "quantum" inicialmente imposto e quando postos de maneira clara pela acusação os fatos dos quais se defendeu o acusado.
+Cuida-se, em verdade, de "Hipótese de aplicação do princípio da emendatio libelli, "segundo o qual, à luz do princípio da mihi factum, dabo tibi jus, o juiz, e também o tribunal, poderá dar ao fato definição jurídica diversa da que constar da queixa ou denúncia, ainda que, em consequência, tenha de aplicar pena mais grave (artigo 383 do Código de Processo Penal)". (HC 21.239/SP, Rel. Ministro FERNANDO GONÇALVES, Rel. p/ Acórdão Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 12/12/2002, DJ 04/08/2003, p. 432.) (REsp 1626399 / RO, RELATOR Ministro NEFI CORDEIRO, SEXTA TURMA, DATA DO JULGAMENTO 03/08/2017, DATA DA PUBLICAÇÃO/FONTE DJe 14/08/2017)
+A jurisprudência desta corte vem se manifestando no mesmo sentido em hipóteses similares, "verbis":
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LAVAGEM DE DINHEIRO. TESES DEFENSIVAS NÃO DEBATIDAS PERANTE O TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ANÁLISE DIRETAMENTE POR ESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. OCORRÊNCIA DE BIS IN IDEM. REPRIMENDA INICIAL REDUZIDA. AFASTAMENTO DA CAUSA DE AUMENTO DO ART. 1º, § 4º, DA LEI N. 9.613/1998. SUPRESSÃO DE INSTÂNCIA. REFORMATIO IN PEJUS. NÃO VERIFICADO. RECURSO PARCIALMENTE PROVIDO. (..) 4. Por fim, no tocante à alegação de reformatio in pejus, destaco que, "ainda que em recurso exclusivo da defesa e desde que não seja agravada a situação do acusado, não configura reformatio in pejus a adoção de fundamentação própria pelo Tribunal a quo para manter a pena ou o regime prisional fixados na sentença" (AgRg no HC n. 706.077/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023, grifei). 5. Agravo regimental parcialmente provido.
+(AgRg no HC: 817973 RN, Relator: Ministro ANTONIO SALDANHA PALHEIRO, Data de Julgamento: 04/12/2023, SEXTA TURMA, Data de Publicação: DJe 07/12/2023)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
