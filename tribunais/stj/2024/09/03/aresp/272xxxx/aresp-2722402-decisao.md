@@ -1,0 +1,26 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BRADESCO SAUDE S/A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo em Recurso Especial interposto em: 03/07/2024.
+Concluso ao gabinete em: 26/08/2024.
+Ação: revisional de contrato c/c indenização e compensação por danos materiais e morais, ajuizada por ISABELLA MARQUES RIGHI LAMEIRAO CINTRA, em face da agravante, na qual visa à declaração de nulidade das cláusulas contratuais referentes a reajustes, a devolução dos valores pagos a maior e o pagamento de compensação por danos morais.
+Sentença: julgou parcialmente procedentes os pedidos, para:
+i) limitar o reajuste ao índice de sinistralidade (28,9%), passando a mensalidade do plano a R$ 1.140,87 (mil e cento e quarenta reais e oitenta e sete centavos) a partir de fevereiro de 2023, o que deve ser observado pela agravante/ré a partir da publicação desta sentença; e
+ii) condenar a agravante/ré a restituir em dobro à agravada/autora o valor pago em excesso, com correção monetária desde o desembolso e juros de mora da citação.
+Acórdão recorrido: deu parcial provimento às apelações interpostas pelas partes, nos termos da seguinte ementa:
+Ação revisional de reajuste c/c indenização por danos materiais e morais. Plano de saúde coletivo. Ilegitimidade passiva corretamente afastada. Pretendida declaração de nulidade do reajuste anual de mensalidade imposto ao plano da Autora. Inexistência de nulidade de reajuste da mensalidade com base na sinistralidade. Planos coletivos que tem sistemática própria de remuneração, desvinculada dos índices da ANS. Reajuste aplicado, todavia, que carece de demonstração do efetivo desequilíbrio econômico-financeiro do contrato, que deve ocorrer de forma clara e minuciosa. Ônus do qual a Ré não se desincumbiu. Abusividade do percentual aplicado que importa em onerosidade excessiva. Nulidade do reajuste corretamente reconhecida, mas determinada a realização de perícia, para apuração do índice substituto, afastada a incidência dos índices dos planos individuais, segundo jurisprudência do STJ. Observação de ser possível à Ré o reajuste por sinistralidade e VCMH em relação aos aumentos futuros, desde que demonstrado de forma clara o desequilíbrio econômico-financeiro do contrato. Dano moral, contudo, não caracterizado e corretamente afastado. Litigância de má-fé não verificada. Sentença de parcial procedência reformada em parte. Sucumbência reconhecida como recíproca. Recursos providos em parte. (e-STJ, fl. 358)
+Embargos de declaração de fls. 476/478 (e-STJ): opostos pela agravante, foram rejeitados.
+Embargos de declaração de fls. 513/518 (e-STJ): opostos pela agravada, foram rejeitados.
+Recurso especial: alega a violação do art. 42, parágrafo único, do CDC. Sustenta, em sede preliminar, a suspensão dos autos, em razão da existência de tema afetado (Tema 929 - "Discussão quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC") e, no mérito, a inaplicabilidade da condenação da restituição em dobro dos valores pagos, em razão da ausência de demonstração de má-fé na hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. art. 42, parágrafo único, do CDC, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Em relação ao pedido de suspensão dos autos, em razão da existência de tema afetado (Tema 929) referente à aplicação do referido dispositivo legal, urge salientar que "a ausência de prequestionamento inviabiliza o exame do recurso especial, independentemente de a matéria de fundo ter sido ou não afetada" (AgInt nos EDcl no REsp n. 1.891.066/RS, 3ª Turma, DJe de 6/10/2021).
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ, fl. 367) para 18%, a ser arcado exclusivamente pela parte agravante, devendo essa pagar 50% do montante citado, em razão da sucumbência recíproca reconhecida pelo Tribunal de origem, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato c/c indenização e compensação por danos materiais e morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Agravo conhecido. Recurso especial não conhecido, com majoração de honorários.
