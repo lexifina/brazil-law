@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de ITAU UNIBANCO S.A contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Amazonas, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE ALUGUÉIS. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA.LEI DE LOCAÇÕES. ARTS. 2 E 10. INVENTARIANTE. LEGITIMIDADE ATIVA PARA COBRANÇA DO VALOR INTEGRAL. APELADO NÃO SE DESINCUMBIU DO ÔNUS DA PROVA. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1.Sendo possível extrair o inconformismo da apelante inexiste violação à dialeticidade recursal;
+2. Não se sustenta a alegação de ilegitimidade ativa da apelada para recebimento da integralidade dos valores eis que pleiteia as verbas na qualidade de inventariante do de cujus, conforme nomeação no processo nº 0701881-63.2012.8.04.0001;
+3. Quanto à alegação de excesso de cobrança, verifico que o apelante não trouxe comprovante de pagamento dos meses de fevereiro e novembro de 2018, uma vez que se restringiu a juntar planilha de cálculo. Art. 373, II, CPC;
+4. Sentença mantida;
+5. Recurso conhecido e desprovido." (e-STJ fls. 170)
+Embargos de declaração rejeitados (e-STJ fls. 226/229)
+Nas razões do recurso especial, o agravante alega violação dos arts. 489, parágrafo 1 9 , IV e 1.022, II, parágrafo único, II, do CPC/15, aos arts. 1.991, 2.022 e 2.023, do CC/02 e art.
+18 do CPC/15, e arts. 884 e 885, do CC/02, sustentando, em síntese, que: 1) o acórdão foi omisso quanto ao fato de que, à época do ingresso da ação de cobrança, a Recorrida não poderia mais pleitear direito em nome do espólio, eis que encerradas as responsabilidades de inventariante, e quanto ao fato de que os pagamentos dos aluguéis referentes aos meses de fevereiro e novembro de 1998 foram comprovados com os extratos da conta da de cujus apresentados pela própria Recorrida (f Is. 27); 2) deve ser reconhecida a ilegitimidade ativa da Recorrida, diante da extinção da função de inventariante à época da interposição da ação de cobrança e 3) há excesso da cobrança de prestações locatícias pagas, relativas aos meses de fevereiro e novembro de 2018, impedindo o enriquecimento ilícito.
+Contrarrazões ao recurso especial (e-STJ fl. 251/262)
+É o relatório. Decido.
+Da análise dos autos, verifica-se que o colendo Tribunal de origem não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia, a respeito da extinção da função de inventariante à época da interposição da ação de cobrança e da comprovação dos pagamentos dos aluguéis referentes aos meses de fevereiro e novembro de 1998 pelos doc. de fl. 27 (e-STJ)
+Sobre os temas, limitou-se a afirmar:
+"Pois bem. Comparando o acórdão embargado e o recurso interposto, constato a inexistência de omissão porquanto a questão foi, expressamente, apreciada no julgado (fls. 174/175), momento em que consignou a possibilidade de realizar a sobrepartilha, bem como concluiu pela inexistência da comprovante de pagamento dos meses de fevereiro e novembro, motivo pelo qual o argumento não merece prosperar." (e-STJ fls. 228)
+Contudo, a questão relativa à ilegitimidade ativa da recorrida diante da alega extinção da inventariança não se confunde com a possiblidade de realização de sobrepartilha.
+De igual modo, não foi apontado porque o extrato ede fls. 27 dos autos não comprovaria o pagamento relativo aos meses de meses de fevereiro e novembro.
+Com efeito, a eg. Corte de origem quedou-se inerte no exame de questão relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da impossibilidade de incursão no acervo fático-probatório dos autos e de interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+Ademais, o conhecimento do recurso especial exige a manifestação da instância ordinária acerca da questão de direito suscitada. Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 1.022 do Código de Processo Civil, a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente.
+Confiram-se, por oportuno, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Conforme a jurisprudência desta Corte, a matéria contida no art. 6º da LINDB possui cunho eminentemente constitucional, pois consiste em mera reprodução do art. 5º, XXXVI, da CF/88, o que inviabiliza o conhecimento do apelo nobre nesse ponto, sob pena de usurpação de competência do Supremo Tribunal Federal. Precedentes.
+2. A ausência de enfrentamento dos arts. 421, 422, 473, ambos do CC; 373, I, do NCPC, pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, não havendo falar em prequestionamento ficto dada a não interposição do reclamo pela violação ao art. 1.022, do NCPC. Incidência da Súmula 211 do STJ. Precedentes. 2.1. Ademais, o Tribunal de origem, com amparo em cláusulas contratuais, assentou ser abusiva a rescisão unilateral do contrato de plano de saúde. Assim, é inviável derruir essas conclusões em sede de recurso especial, ante a incidência da Súmula 5 do STJ. 2.2. O recurso especial não constitui via adequada para a análise de eventual ofensa a Resoluções, Portarias ou Instruções Normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, a, da Constituição Federal.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1555054/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. CARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TESE DO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem concluiu que a parte não comprovou os danos morais e assim qualificou os fatos como mero aborrecimento. Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1621397/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios e determinando-se, por conseguinte, que outro seja proferido e, assim, sanada a omissão aqui verificada.
+Ficam prejudicadas as demais alegações recursais.
+Publique-se.
+EMENTA
