@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  agravo  do ESTADO DA PARAÍBA, em que objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJPB assim  ementado:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO FISCAL. ABANDONO DA CAUSA. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. PRÉVIA INTIMAÇÃO DA FAZENDA PÚBLICA PARA EFETUAR O RECOLHIMENTO DAS DILIGÊNCIAS DOS OFICIAIS DE JUSTIÇA. INÉRCIA DA FAZENDA PÚBLICA. INEXISTÊNCIA DE VÍCIO. LEGISLAÇÃO ESTADUAL QUE INSTITUIU O FUNDO ESPECIAL DE CUSTEIO DAS DESPESAS COM DILIGÊNCIAS DOS OFICIAIS DE JUSTIÇA. LEI Nº 11.838/2021. SÚMULA Nº 190 DO STJ. PRINCÍPIO DA LEGALIDADE. RESP 1.144.687/RJ JULGADO EM SEDE DE RECURSO REPETITIVO. TEMA 396. CAUSA DE SUSPENSÃO DA EXECUÇÃO. ATO CITATÓRIO QUE CONSTITUI CAUSA NECESSÁRIA À SUSPENSÃO PREVISTA NO CAPUT DO ART. 40, DA LEF. INEXISTÊNCIA DO ATO POR CULPA EXCLUSIVA DA FAZENDA/EXEQUENTE. NÃO RECOLHIMENTO DAS CUSTAS DEDILIGÊNCIAS DE OFICIAIS DE JUSTIÇA. MANUTENÇÃO DASENTENÇA DE EXTINÇÃO DO PROCESSO SEM APRECIAÇÃO DO MÉRITO. DESPROVIMENTO DO APELO.
+No  especial,  a  parte  alega  violação  do  art. 485, III e §1º, do CPC e do art. 40 da Lei n. 6.830/1980.
+Aduz, em síntese, que houve erro de processamento, uma vez que não foi observado o rito de intimação antes da declaração de abandono, com a ausência de intimação pelo prazo de cinco dias para que promovesse o andamento do feito sob pena de extinção por abandono.
+No mais, alega que seria hipótese de aplicação do rito do art. 40 da LEF para se determinar a suspensão da execução pelo prazo de um ano e não a sua extinção pelo abandono.
+O recurso especial foi inadmitido por aplicação do óbice da Súmula 83 do STJ, fundamento atacado no agravo.
+Passo a decidir.
+O apelo nobre se origina de execução fiscal extinta sem julgamento do mérito por abandono do exequente, decorrente da ausência de promoção dos atos processuais que lhe competiam para a citação do executado, mesmo depois de sua intimação para fazê-lo.
+O Tribunal paraibano negou provimento à apelação e consignou que a Fazenda Pública registou ciência do prazo de 05 dias para que recolhesse as diligências do Oficial de Justiça, sob pena de extinção do feito, no dia 04/08/2021, decorrendo o prazo sem que tenha sido cumprida a providência de sua responsabilidade.
+Afirmou, ainda, que, "quanto à causa de suspensão prevista no caput do art. 40 da LEF, tem como condição que tenha sido realizado o ato citatório e dele seja certificado que o Executado não foi localizado no domicílio indicado ou que não há bens suficientes à satisfação do valor exequendo, por essa razão, não se aplica ao presente caso, em razão de não ter, sequer, sido tentada a citação do Executado, em razão do não recolhimento das custas de diligências de oficiais de justiça pela exequente/apelante".
+Pois bem.
+O recurso especial não deve ser conhecido por aplicação dos óbices das Súmulas 283 e 284 do STF.
+Como relatado, a Corte a quo consignou que a Fazenda Pública registou ciência do prazo de 05 dias para que recolhesse as diligências do Oficial de Justiça, sob pena de extinção do feito, no dia 04/08/2021, decorrendo o prazo sem que tenha sido cumprida a providência de sua responsabilidade.
+O recorrente, por sua vez, parte de premissa fática diversa, não relacionada com os autos, afirmando a ausência de intimação pelo prazo de cinco dias para que promovesse o andamento do feito sob pena de extinção por abandono.
+Vê-se, portanto, que as premissas fáticas utilizadas no recurso especial não guardam relação com o que foi decidido no acórdão recorrido, motivo que a deficiência de fundamentação atrai a incidência do óbice da Súmula 284 do STF.
+Quanto ao mais, no que concerne à suposta violação do art. 40 da LEF, tenho que o fundamento do acórdão recorrido quanto à inaplicabilidade do rito de suspensão da execução não foi impugnado nas razões do recurso especial.
+Com efeito, afirmou-se no acórdão que a condição específica para a incidência da suspensão do art. 40 da LEF não teria sido cumprida, qual seja, a ciência do exequente acerca de tentativa frustrada de citação ou ou de penhora de bens.
+Esse fundamento da ausência de preenchimento dos requisitos da norma não foi objeto de impugnação no recurso especial, atraindo o óbice da Súmula 283 do STF.
+  Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  CONHEÇO  do  agravo  para  NÃO  CONHECER  do  recurso  especial.
+Publique-se. Intimem-se.
+EMENTA
