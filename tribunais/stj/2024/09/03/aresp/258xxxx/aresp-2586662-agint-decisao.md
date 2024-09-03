@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo interno interposto por CONSTRUTORA TENDA S.A. em face de decisão monocrática da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial ante a aplicação da Súmula 182/STJ (e-STJ, fls. 1702-1703).
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado (fl. 1499, e-STJ):
+APELAÇÃO CÍVEL. CONSUMIDOR. PRELIMINAR. OFENSA AO PRINCÍPIO DADIALETICIDADE. NÃO ACOLHIMENTO. MÉRITO. DEFEITO NA CONSTRUÇÃO DE IMÓVEISDE CONJUNTO HABITACIONAL. FEITO INSTRUÍDO COM PROVA TÉCNICA. VÍCIOSCONFIRMADOS. CONDENAÇÃO MANTIDA. HONORÁRIOS SUCUMBENCIAISCORRETAMENTE ARBITRADOS. SENTENÇA MANTIDA.1 - Defende a parte Apelada que o recurso não seja conhecido, em razão de suposta ofensa aoprincípio da dialeticidade. Do exame das razões trazidas no Apelo, constata-se que, apesar de aparte Apelante reiterar os argumentos postos na contestação, impugna de forma específica os fundamentos da sentença, o que impede o acolhimento da preliminar.2 - A sentença encontra-se amparada em laudo técnico (ID 25057566), elaborado por perita judicial, e que aponta as falhas e anomalias de natureza endógena na construção do imóvel da parte Apelada.3 - Invertido o ônus da prova, caberia à parte Acionada, ora Apelante, provar que os defeitos apontados inexistem ou que a culpa é exclusiva da parte Apelada ou de terceiros, contudo desse encargo não se desincumbiu. 4 - No que se refere aos honorários sucumbenciais, melhor sorte não socorre a parte Apelante.
+Os honorários foram arbitrados em conformidade com o quanto disciplina o artigo 85, § 2º do CPC, na medida em que evidente o grau de zelo profissional do patrono da parte Autora em relação aos prazos e diversas manifestações processuais, tudo com a finalidade de bem proteger o direito de seu constituinte. Destaque-se, ainda, a importância da causa, na medida em que se trata de ação em que se busca a reparação de vícios que podem afetar a segurança dos moradores de toda uma comunidade que vive no local. Logo, irretocável a sentença também relação a esse ponto.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 1558-1559).
+Nas razões do especial (e-STJ, fls. 1568-1576), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 373, I, do CPC/15, alegando que o juízo de piso lhe impôs a produção prova diabólica, razão pela qual requer que os autos retornem ao juízo de origem para a correta distribuição do ônus da prova;
+b) arts. 186, 187, 389, 393, 402, 476, 927, do Código Civil e arts. 8º, 11, 373, 489, § 1º, IV do Código de Processo Civil, além da Constituição Federal, pelo seu artigo 5º, incisos LIV, LV da CF, de forma genérica, sem indicar de que forma o acórdão recorrido os teria ofendido.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 1614-1615, e-STJ), o que ensejou o manejo do agravo (fls. 1617-1623, e-STJ), que não foi conhecido ante a aplicação da Súmula 182/STJ pela Presidência desta Corte Superior (e-STJ, fls. 1702-1703).
+Inconformada, no presente agravo interno (e-STJ, fls. 1707-1714 ), a ora agravante combate o óbice supracitado e afirma ter impugnado de forma específica os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal estadual.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+Decido.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida e passo, de plano, ao reexame do reclamo.
+A irresignação não merece prosperar.
+1. No tocante à alegada violação ao art. arts. 186, 187, 389, 393, 402, 476, 927, do Código Civil e arts. 8º, 11, 373, 489, § 1º, IV do Código de Processo Civil, além da Constituição Federal, pelo seu artigo 5º, incisos LIV, LV da CF, observa-se que a parte agravante alega genericamente violação ao dispositivo citado sem demonstrar, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284 do STF.
+Com efeito, a alegação de ofensa à lei federal pressupõe a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, de maneira a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse sentido, a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incide, no ponto, o disposto na súmula 284/STF, que se aplica por analogia.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. LEGITIMIDADE PASSIVA. VALIDADE DO NEGÓCIO JURÍDICO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma.
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. A alteração do desfecho conferido ao processo, quanto à legitimidade da recorrente, à não concretização do negócio jurídico e ao pagamento indevido da comissão de corretagem, demandaria a interpretação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1532334/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. CÁLCULOS ARITMÉTICOS. PERÍCIA ATUARIAL. DESNECESSIDADE. DISPOSITIVOS VIOLADOS. ALEGAÇÃO GENÉRICA. SÚMULAS 283 E 284 DO STJ. REEXAME DAS PROVAS DOS AUTOS. SÚMULA 7/STJ.
+1. A alegação genérica de violação de lei federal, sem que o recorrente explicite em que consistiu a negativa da vigência da lei, enseja a negativa de seguimento do recurso especial (Súmulas 283 e 284 do STF).
+2. No âmbito do recurso especial, é vedado o reexame das provas dos autos e das cláusulas do contrato de previdência. Incidência das Súmulas 5 e 7 do STJ. 3. "Na hipótese em que se discute a necessidade da produção da prova pericial atuarial para aferir os valores devidos em virtude de decisão transitada em julgado, não se aplica o entendimento firmado pela Segunda Seção do STJ no julgamento do REsp 1.345.326/RS, que se refere à necessidade de perícia atuarial em processo de conhecimento" (AgRg no ARESP 278.837/RS, Quarta Turma, Rel. Ministro Luis Felipe Salomão, DJ 29.6.2015).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 945.930/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/10/2018, DJe 24/10/2018)
+2. No tocante à apontada ofensa ao art. 373 do CPC/15, a pretensão recursal também não prospera.
+O Tribunal de origem assentou o seguinte sobre o ônus da prova (e-STJ, fl. 1518):
+Invertido o ônus da prova, caberia à parte Acionada, ora Apelante, provar que os defeitos apontados inexistem ou que a culpa é exclusiva da parte Apelada ou de terceiros, contudo desse encargo não se desincumbiu. Logo, irretocável a sentença.
+Com efeito, não há que se rediscutir a distribuição do ônus da prova em sede de recurso especial. Isso porque "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017).
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ACIDENTE FERROVIÁRIO. MORTE. ART. 1.022 DO NCPC. INOCORRÊNCIA DE FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. INAPLICABILIDADE. ART. 343 DO NCPC. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ QUANTO A INVERSÃO DO ÔNUS PROBATÓRIO E A ALEGADA CULPA EXCLUSIVA DA VÍTIMA, QUE NÃO FOI RECONHECIDA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO PARCIALMENTE NÃO PROVIDO.
+(..)
+3. Nos termos do art. 373, I e II, do NCPC, incumbe ao autor o ônus da prova quanto ao fato constitutivo do direito alegado, ao passo que cabe ao réu o ônus de demonstrar a ocorrência de algum fato impeditivo, modificativo ou extintivo do direito do autor.
+4. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório, pois essa providência demandaria o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+(..)
+8. Agravo interno parcialmente provido.
+(AgInt no AREsp 1644649/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+3. Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 1702-1714, e-STJ, tornando-a sem efeitos. Em seguida, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
