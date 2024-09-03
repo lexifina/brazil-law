@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JANAINA COMERCIO DE COMBUSTIVEIS LTDA. e outro contra decisão que inadmitiu seu recurso especial, fundamentado na alínea "a" e "c" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Estado de Tocantins, assim ementado (e-STJ fls. 94):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INCOMPETÊNCIA TERRITORIAL. AUSÊNCIA DOS REQUISITOS LEGAIS E PRESCRIÇÃO DO TÍTULO EXECUTÓRIO. ALEGAÇÕES REJEITADAS. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+I. ACERCA DA INCOMPETÊNCIA DO JUÍZO, VISLUMBRA-SE QUE O MAGISTRADO DECIDIU COM ACERTO QUANDO FUNDAMENTOU QUE A ELEIÇÃO DO FORO NÃO É CAPAZ,POR SI SÓ, DE MODIFICAR AS DISPOSIÇÕES DO ARTIGO 94, CAPUT, DO CÓDIGO DE PROCESSO CIVIL DE1973 (ATUAL ART. 46 DO CPC/15), QUE PERMITE A MODIFICAÇÃO DO FORO PARA CONFERIR MENOR ONEROSIDADE PARA O EXECUTADO;
+II - EM RELAÇÃO À NULIDADE DO TÍTULO EXECUTÓRIO POR AUSÊNCIA DOS PRESSUPOSTOS VÁLIDOS (CERTEZA, LIQUIDEZ E EXIGIBILIDADE), TAMBÉM, NÃO MERECE ACOLHIMENTO, POIS AS ALEGAÇÕES DO AGRAVANTE NÃO SE MOSTRAM AFERÍVEIS DE PLANO NÃO PODENDO, PORTANTO, SEREM APRECIADAS POR MEIO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE, CONSOANTE ENTENDEU O MAGISTRADO;
+III - SOBRE A PRESCRIÇÃO, COM EFEITO, PODE SER APRESENTADA POR MEIO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONTUDO, DEVE SER AFASTADA, POISO ARTIGO 33, DA LEI 7.357/85, DISPÕE QUE O CHEQUE DEVE SER APRESENTADO PARA PAGAMENTO A CONTAR DO DIA DA EMISSÃO EM ATÉ 60 DIAS, E O ARTIGO 59, DO MESMO DIPLOMA LEGAL, ESTABELECE QUE O PRAZO PRESCRICIONAL É DE 06 (SEIS) MESES, OU SEJA, NO CASO EM COMENTO, OCORREU DENTRO DO LAPSO TEMPORAL PREVISTO EM LEI;
+IV- RECURSO CONHECIDO E NÃO PROVIDO ,MANTENDO INCÓLUME A DECISÃO AGRAVADA QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE E DETERMINOU O PROSSEGUIMENTO DA EXECUÇÃO."
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 143-144).
+Nas razões do recurso especial, a parte agravante apontou dissídio jurisprudencial e ofensa aos arts. 46, 53, 100, 184, 726, 781, 783, 786, 803 e 927 do CPC; artigo 17 da Lei 5.474/68; e 5º, XXXV e LV, da Constituição Federal. Sustentou o cabimento de exceção de pré-executividade em que se impugna a liquidez, certeza e exigibilidade do título exequendo. Argumentou ter sido pactuado o local de pagamento de duplicata em município distinto, de forma que o foro em que proposta a execução seria incompetente. Apontou a existência de cláusula contratual que exige a prévia constituição em mora e a ilicitude de encargos contratuais.
+Decisão que inadmitiu o recurso especial às fls. 205-208 (e-STJ).
+Apresentada contraminuta às fls. 257-273 (e-STJ).
+É o relatório. Decido.
+De início, convém ressaltar que o v. acórdão recorrido harmonizou-se ao entendimento desta Corte Superior no que se refere ao cabimento da exceção de pré-executividade. Isso porque, nos termos da jurisprudência pacífica, é imprescindível a existência de prova pré-constituída, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCESSO DE EXECUÇÃO. DILAÇÃO PROBATÓRIA. DESNECESSIDADE. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. É firme a jurisprudência desta Corte quanto à possibilidade de o executado valer-se da exceção de pré-executividade para suscitar a existência de excesso de execução, desde que haja prova pré-constituída. Precedentes.
+3. Na hipótese, a reforma do julgado demandaria a análise de fatos e provas, procedimento inviável em recurso especial em virtude da incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.358.641/SP, relator Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/4/2024, DJe de 25/4/2024, g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência desta Corte, "mesmo a matéria cognoscível de ofício precisa estar comprovada de plano para que seja possível a sua análise em sede de exceção de pré-executividade" (AgInt no REsp n. 1.960.444/SP, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/8/2022, DJe de 31/8/2022).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem entendeu que a discussão exigia o exame de provas, não sendo possível concluir pela quitação alegada apenas com base na análise dos comprovantes de pagamento juntados. Alterar esse entendimento demandaria o reexame de elementos fáticos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.155.170/MS, relator Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/11/2022, DJe de 21/11/2022, g.n.)
+No caso dos autos, o eg. Tribunal de origem entendeu que as alegações de iliquidez do título não eram aferíveis de plano, razão pela qual incabível a exceção oposta. Aplica-se portanto a Súmula 83/STJ.
+No que respeita às demais matérias, é inequívoca que as próprias razões invocadas pelas agravantes, sempre calcadas em cláusulas contratuais e fatos materiais, evidenciam o manifesto intuito de interpretação de cláusulas contratuais e reexame fático-probatório. Todavia, essa atividade escapa aos estreitos limites do recurso especial (Súmulas 5 e 7 do STJ).
+Por fim, não se realizou cotejo analítico entre os acórdãos indicados no corpo do recurso especial, deixando de atender os requisitos para conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
