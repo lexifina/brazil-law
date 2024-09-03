@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se  de  agravo  interposto  contra  decisão  que  não  admitiu  recurso  especial  apresentado  por  CONSTROEN CONSTRUÇÕES E ENGENHARIA LIMITADA,  com  fundamento  no  art.  105,  III,  a,  da  Constituição  Federal,  desafiando  acórdão  assim  ementado  (e-STJ,  fl.  342):
+"Agravo de Instrumento Ação de rescisão contratual, em fase de liquidação de sentença Inconformismo em relação ao não acolhimento da impugnação Pretensão de modificaçãodo laudo pericial para que sejam excluídos do cálculo sobre o valor a ser devolvido (80% das parcelas pagas) os encargos moratórios e para que seja modificada a decisão no tocante à não autorização de compensação com crédito de outro processo Utilização do valor cheio que deve ser mantido Encargos moratórios que, acrescidos ao valor original, quitam a parcela na data do pagamento Cálculo leva em consideração a quitação da parcela comalteração tanto do valor quanto da data do título original Compensação não é possível porquanto o credor não apresentou os cálculos - Apresentação dos cálculos determinada na decisão judicial que se refere aos cálculos homologados e não aqueles trazidos pelo credor, cuja discussão neste processo não pode ocorrer Princípio do juiz natural, não havendo jurisdição neste incidente para homologação do cálculo de outro processo Decisão mantida Recurso improvido."
+A  parte  recorrente  alegou,  nas  razões  do  recurso  especial  (e-STJ,  fls.  347-373),  a  violação  do  art.  380 do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentou,  em  síntese,  que o art. 380 do CC/2002 dispõe que a compensação não pode ser feita "depois de penhorado o crédito", mas que no presente caso o direito à compensação já existia (autorizado na sentença exequenda), e veio antes da penhora no rosto dos autos, aduzindo que deve ser admitida primeiro a compensação e depois a penhora sobre eventual saldo remanescente.
+Foram  apresentadas  contrarrazões  (e-STJ,  fls.  424-433).
+O  Tribunal  de  origem  não  admitiu  o  processamento  do  recurso  especial  ante  a  ausência de demonstração de violação do dispositivo apontado; e a falta de comprovação do dissídio jurisprudencial alegado  (e-STJ,  fls.  434-436).
+É  o  relatório.  Decido.
+A controvérsia relativa à prescrição foi julgada pelo acórdão recorrido nos seguintes termos (e-STJ, fls. 344):
+Quanto à compensação o juízo não o autorizou porquanto não foram trazidos os cálculos homologados pelo juízo para serem compensados.
+Tal fundamentação está correta.
+A determinação de apresentação de cálculospara apresentação não se trata de cálculos unilaterais feitos pelocredor naqueles autos, mas sim dos cálculos homologados.
+Veja que não cabe neste processo a discussão acerca da correção do cálculo apresentado.
+Veja que se, por exemplo, o agravadoimpugnar o cálculo do agravante, a questão do valor seria resolvidanão no processo de origem, mas neste, o que não se admite.
+Isso feriria o princípio do juiz natural, nãosendo o juiz deste processo competente para apreciar a matéria do processo distribuído à outro magistrado.
+No mais, ante a penhora no rosto dos autos, a eventual compensação somente se daria sobre o saldo remanescente, se houver, o que impediria o andamento deste incidente de liquidação de sentença. (Sem grifo no original).
+A  despeito  de  toda  a  argumentação ,  a parte  recorrente  não  demonstrou  de  que  forma  o  Tribunal  de  origem  teria  violado  os  dispositivos  apontados.
+Dessa  forma,  há  de  se  concluir  que  as  razões  recursais  são  dissociadas  do  conteúdo  do  acórdão  recorrido  e  não  têm  o  poder  de  infirmá-lo,  porquanto  os  fundamentos  autônomos  e  suficientes  à  manutenção  do  aresto,  no  ponto,  mantiveram-se  inatacados  e  incólumes  nas  razões  do  recurso  especial,  convocando,  na  hipótese,  a  incidência  das  Súmulas  n.  283  e  284  do  STF.
+Além disso, a discussão quanto à causa interruptiva da prescrição foi dirimida no acórdão recorrido mediante a análise do acervo fático-probatório dos autos, cujo reexame, na via estreita do recurso especial, esbarra no óbice da Súmula 7/STJ.
+A propósito, guardadas as devidas particularidades:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. LAVRA MINERAL IRREGULAR. APURAÇÃO NA ESFERA ADMINISTRATIVA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. MALVERSAÇÃO DOS ARTS. 5º, LV, e 37, § 5º, DA CF. COMPETÊNCIA DO STF. PRESCRIÇÃO. PRAZO DO ART. 1º-A, DA LEI 9.873/1999. ACÓRDÃO QUE ENTENDEU REGULAR O PROCEDIMENTO E A CAUSA INTERRUPTIVA DA PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Inexiste violação dos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+4. A revisão da conclusão a que chegou o Tribunal de origem acerca da regularidade do procedimento administrativo e da penalidade aplicada, bem como da ocorrência da causa interruptiva da prescrição, demanda o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.065.450/RN, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+Por fim, para a caracterização do dissídio jurisprudencial, deve o recorrente mencionar as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, bem como indicar a lei federal a que foi atribuída interpretação divergente, sob pena de não serem atendidos os requisitos previstos no art. 1.029, § 1º, do CPC/2015 e art. 255, § 2º, do RISTJ, o que não ocorreu no presente caso.
+Nessa linha de intelecção, destaca-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DO RÉU.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter indicado os artigos de lei supostamente violados, não sendo caso de aplicação da Súmula 284/STF. Agravo (art. 1.042 do CPC) conhecido em juízo de retratação.
+2. É vedada a manipulação do processo pelas partes por meio da ocultação de nulidade, calculando o melhor momento para a arguição do vício (nulidade de algibeira ou de bolso). Incidência da Súmula 83/STJ.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+Precedentes.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos confrontados de forma a demonstrar a similitude fática entre os julgados, a fim de que se possa extrair a conclusão de que sobre a mesma situação fática teria sido aplicado diversamente o direito.
+5. Agravo interno provido para reconsiderar a decisão de fls. 742-743, e-STJ, tornando-a sem efeito. Agravo (art. 1.042 do CPC/2015) conhecido para, de plano, conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgInt no AREsp n. 2.449.720/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Ante  o  exposto,  com  arrimo  no  art.  253,  parágrafo  único,  II,  "a",  do  RI STJ,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Publiq  ue-se.
+EMENTA
