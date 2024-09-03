@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por LICIA FROEDER WOLFF contra decisão que inadmitiu o recurso especial por inexistência de negativa de prestação jurisdicional e aplicação da Súmula n. 7/STJ (e-STJ fls. 1.206/1.212).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.047):
+APELAÇÃO CIVEL - AÇAO OBRIGAÇAO DE FAZER C/C REPARAÇAO DE DANO - CERCEAMENTO DE DEFEAS NÃO CONFIGURADO - PROGAMA DE FIDELIDADE - ONEROSIDADE DAS MILHAS - CLAUSULA DE INALIENABILIDADE - IRREGULARIDADE - LMITAÇAO DE EMISSAO DE PASSAGENS - POSSIBILIADDE - DANO MORAL NÃO EVIDENCIADO Não há falar em cerceamento de defesa no caso em debate, uma vez que as provas constantes no caderno processual foram suficientes para a entrega da prestação jurisdicional. Inviável permitir cláusula de inalienabilidade de pontos ou milhas em contrato oneroso. A limitação anual de emissão de passagens para pessoas diversas não se revelou abusiva ou contrária à legislação civil e consumerista, uma vez que não implicou em onerosidade excessiva ou desvantagem exagerada. Pondera-se que a limitação de emissão de passagens deve se ater aos pontos, adquiridos ou transferidos, após março de 2019, data das novas regras do plano de fidelidade. A situação vivenciada pela parte autora não é apta a respaldar a pretensão indenizatória, pois não foi comprovado que ocorreu abalo moral.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.073/1.076 e 1.095/1.098).
+Nas razões do recurso especial (e-STJ fls. 1.101/1.132), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) arts. 341, 369 e 464, § 1º, do CPC/2015, ante "o cerceamento de defesa operado em virtude do indeferimento da produção de prova pericial e a desconsideração dos fatos incontroversos" (e-STJ fl. 1.109),
+(b) arts. 1º, IV, e 170 da CF, pois, "ao analisar os fundamentos e a documentação apresentada, o v. acórdão incorreu em manifesta ofensa a livre iniciativa, fundamento básico da República Federativa do Brasil e da Atividade Econômica" (e-STJ fl. 1.116),
+(c) art. 5º, caput, XXII, da CF, por violação ao direito de propriedade,
+(d) art. 1.911 do CC/2002, porque, considerando-se a aquisição de milhas como negócio jurídico oneroso, a imposição de restrições à sua livre utilização seria vedada. Afirmou que, dessa forma, a cláusula que limita a emissão de passagens a terceiros com utilização de milhas seria inválida,
+(e) arts. 424 do CC/2002 e 51, IV, do CDC, haja vista que a recorrida, "ao mesmo tempo em que procura limitar a forma de utilização dos pontos pelos participantes do programa, aufere lucros com a expiração de pontos não resgatados pelos consumidores, o que culmina claro desequilíbrio contratual, e viola os preceitos da boa-fé e equidade" (e-STJ fl. 1.126).
+Contrarrazões às fls. 1.215/1.233 (e-STJ).
+No agravo (e-STJ fls. 1.500/1.512), declara a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 1.516).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Inicialmente, destaco não ser viável apreciar, em recurso especial, a tese de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa aos arts. 1º, IV, 5º, caput, XXII, e 170 da CF.
+Quanto à apontada violação dos arts. 341, 369 e 464, § 1º, do CPC/2015, aplicável a Súmula n. 284/STF, por deficiência na fundamentação recursal.
+Com efeito, o Tribunal de origem concluiu que "foi provada a onerosidade, sendo desnecessária a prova técnica" (e-STJ fl. 1.049).
+Logo, as razões recursais, no ponto, estão dissociadas do acórdão recorrido.
+No que diz respeito à emissão de passagens a terceiros, o Colegiado estadual consignou que (e-STJ fls. 1.050/1.052):
+ ..  destaco que a própria empresa permite a emissão de passagens pelo participante em favor de terceiros, sendo que a limitação passou a ocorrer em março de 2019. Repito, o atual regramento ainda permite a emissão de passagens em CPFs distintos.
+ ..
+Quanto a ilegalidade da cláusula que limita o número de emissão passagens para terceiros, anualmente, regra 13.3.1 do Regulamento, pondero que as cláusula 14.2 e 14.4 apresentam as situações de modificação do Regulamente. Tais disposições não se revelaram abusivas e confrontantes com a legislação civil e consumerista. Isso porque não implicam em onerosidade excessiva ou desvantagem exagerada, pois poderá a parte emitir, por ano, bilhetes para 25 pessoas distintas e, ainda, os pontos podem ser resgatados e, ou, trocados por inúmeros produtos que são oferecidos. Aqui, chamo a atenção para o histórico da parte autora, que, num período de três anos emitiu passagens para 457 pessoas diversas. Verifico possível existência de comercialização por parte da autora.
+A meu sentir, os efeitos da regra 13.3.1 devem ser mitigados, isto é, tenho que a limitação de emissão de passagens deve se ater aos pontos, adquiridos ou transferidos, após março de 2019, data das novas regras do plano de fidelidade, uma vez que existia uma legítima expectativa.
+Aplica-se ao caso o princípio tempus regit actum, de modo que se impõe o regulamento vigente à época em que ocorreu a aquisição. Assim, a limitação imposta no novo regulamento, notadamente na cláusula 13.3.1 deve ser aplicada tão somente aquelas milhas adquiridas e, ou, transferidas, após de 01/03/2019.
+Outrossim, registro que limitar a emissão de bilhetes em favor de terceiros não culmina na vedação ou proibição de emissão de passagens aéreas, sendo que a limitação de 25 pessoas diversas é anual. Também, chamo a atenção para a periodicidade em que a parte pode utilizar tais milhas, pois conforme regramento os pontos da parte autora teria uma validade de dez anos.
+Tal conclusão decorreu do exame do conjunto fático-probatório dos autos, inclusive da interpretação das cláusulas do contrato, de forma que decidir de outro modo, acolhendo as alegações recursais, demandaria revisão de fatos e provas, o que é inviável no âmbito do especial, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+Por fim, quanto ao dissídio jurisprudencial, é firme o entendimento desta Corte de que o conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige indicação do dispositivo de lei objeto de interpretação divergente, bem como demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas.
+No caso, tais requisitos não foram atendidos. Incidente a Súmula n. 284/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
