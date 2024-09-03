@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/08/2024 a 03/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto, Daniela Teixeira e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO ANALITICAMENTE. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA PARA DISCUTIR A APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. NÃO SE ADMITE COMO PARADIGMA ACÓRDÃO PROFERIDO EM HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os embargos de divergência objetivam estancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do T ribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Não se prestam, portanto, a corrigir suposto erro de julgamento do recurso especial.
+2. Nos termos do art. 266, I e II, do RISTJ, não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como pretende o embargante ao defender que o julgamento do recurso especial não demandaria o revolvimento de provas, ao contrário da conclusão a que chegou o acórdão embargado.
+3. Nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados; devem-se expor as circunstâncias que identificam os casos confrontados, impondo-se a demonstração da similitude fática entre o acórdão embargado e os paradigmas com tratamento jurídico diverso, o que, contudo, não configura a hipótese dos autos.
+4. A Terceira Seção/STJ já pacificou o entendimento de que não é cabível a indicação de julgado proferido em habeas corpus como paradigma para comprovar o dissídio jurisprudencial em embargos de divergência.
+5 . Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por WALTER CINTRA contra decisão na qual indeferi os embargos de divergência com base nos seguintes fundamentos: a) ausência de demonstração analítica da alegada divergência pretoriana nos moldes do art. 266, § 4º, do RISTJ; b) não cabimento de embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial; e c) impossibilidade de indicação de julgado em habeas corpus como paradigma para comprovar o dissídio jurisprudencial.
+No presente agravo regimental, o agravante alega que "transcreveu trechos específicos dos acórdãos confrontados, demonstrando minuciosamente como cada turma interpretou e aplicou a mesma questão de direito de forma distinta, em contextos fáticos semelhantes. Essa abordagem cumpre com as exigências do art. 266, § 4º, do RISTJ, que requer uma comparação detalhada e circunstanciada entre os julgados" (e-STJ fl. 1.357).
+Aduz que "a exclusão de acórdãos de habeas corpus na análise de divergências jurisprudenciais acarreta tratamento desigual de casos semelhantes. Assim, impedir a sua consideração resulta claramente em aplicação incoerente do direito, perpetuando divergências interpretativas que poderiam ser resolvidas com uma análise mais abrangente e inclusiva dos precedentes, violando a ampla defesa e o contraditório" (e-STJ fl. 1.358).
+Assim, requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO ANALITICAMENTE. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA PARA DISCUTIR A APLICAÇÃO DE REGRA TÉCNICA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. NÃO SE ADMITE COMO PARADIGMA ACÓRDÃO PROFERIDO EM HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os embargos de divergência objetivam estancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do T ribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Não se prestam, portanto, a corrigir suposto erro de julgamento do recurso especial.
+2. Nos termos do art. 266, I e II, do RISTJ, não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como pretende o embargante ao defender que o julgamento do recurso especial não demandaria o revolvimento de provas, ao contrário da conclusão a que chegou o acórdão embargado.
+3. Nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados; devem-se expor as circunstâncias que identificam os casos confrontados, impondo-se a demonstração da similitude fática entre o acórdão embargado e os paradigmas com tratamento jurídico diverso, o que, contudo, não configura a hipótese dos autos.
+4. A Terceira Seção/STJ já pacificou o entendimento de que não é cabível a indicação de julgado proferido em habeas corpus como paradigma para comprovar o dissídio jurisprudencial em embargos de divergência.
+5 . Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que essa deve ser integralmente mantida.
+Pois bem. Os embargos de divergência objetivam estancar a adoção de teses diversas para casos semelhantes, uma vez que sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação.
+Dessa forma, cabe à parte embargante a comprovação do dissídio pretoriano nos moldes do art. 266, § 4º, do RISTJ, que assim dispõe:
+Art. 266 - § 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Destarte, nos embargos de divergência, para apreciação e comprovação do dissídio pretoriano, não basta a transcrição de ementas e excertos dos julgados, devem-se expor as circunstâncias que identificam os casos confrontados, impondo-se a demonstração da similitude fática entre o acórdão embargado e o paradigma com tratamento jurídico diverso.
+No caso, contudo, constata-se a desatenção ao devido cotejo analítico hábil a demonstrar a divergência jurisprudencial suscitada. De fato, o embargante não demonstrou analiticamente a sugerida divergência pretoriana nos moldes do art. 266, § 4º, do RISTJ, uma vez que não transcreveu e comparou os trechos dos relatórios e dos votos que comprovassem a similitude fático-probatória entre os julgados.
+Ademais, nos termos do art. 266, I e II, do RISTJ, não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como pretende o embargante ao apresentar a controvérsia relativa à necessidade ou não de revolvimento de provas para o julgamento do recurso especial, o que levaria ou não à aplicação do óbice da Súmula n. 7 do STJ.
+Corroborando esse entendimento, os seguintes julgados desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE DO RECURSO ESPECIAL (SÚMULA 7 DO STJ). IMPOSSIBILIDADE DE EXAME EM EMBARGOS DE DIVERGÊNCIA. HONORÁRIOS RECURSAIS. DOLO OU MÁ-FÉ DO RECORRENTE. DESNECESSIDADE. AGRAVO INTERNO DESPROVIDO.
+1. No âmbito dos embargos de divergência, mostra-se inviável a discussão sobre o acerto ou desacerto da aplicação de regra técnica de conhecimento utilizada pelo acórdão embargado. Precedentes.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 1.410.043/MG, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 27/9/2022, DJe de 6/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. SÚMULA 7 DO STJ.
+1. Os embargos de divergência não são cabíveis para análise de regras técnicas de admissibilidade do recurso especial, como sói ser a alegada violação à Súmula 7 do STJ, haja vista que o escopo deste recurso é a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo, ainda que se trate de matéria de ordem pública.
+ ..
+3. Correta aplicação da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.834.144/DF, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 26/4/2022, DJe de 3/5/2022.)
+Ademais, a Terceira Seção/STJ já pacificou o entendimento de que, "mesmo sob a vigência do novo Código de Processo Civil, os arts. 1.043, § 1º, do CPC, e 266, § 1º, do RISTJ delimitaram o confronto de teses jurídicas objeto dos embargos de divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais" (AgRg nos EAREsp n. 2.006.876/RS, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Terceira Seção, julgado em 26/4/2023, DJe de 9/6/2023).
+Assim, não é cabível a indicação de julgado em habeas corpus como paradigma para comprovar o dissídio jurisprudencial em embargos de divergência.
+Registre-se que, na verdade, da leitura das razões dos embargos de divergência e do presente agravo regimental, constata-se que a intenção do embargante é corrigir suposto erro de julgamento do recurso especial, finalidade a que não se prestam os embargos de divergência.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
