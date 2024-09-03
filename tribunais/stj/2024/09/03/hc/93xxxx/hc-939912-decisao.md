@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ HENRIQUE SILVA DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o Juízo da execução indeferiu pedido de retificação de cálculo de pena, mesmo não tendo considerado crime hediondo, o delito de associação para o tráfico exigiu o cumprimento do lapso de 2/3 para fins de livramento condicional.
+A defesa interpôs agravo em execução perante o Tribunal de origem, que lhe negou provimento.
+Neste writ, sustenta a impetrante, em síntese, que o crime previsto no art. 35 da Lei de Drogas não é hediondo, devendo ser considerada a fração de 1/2 para fins de progressão e não 2/3.
+Requer a concessão da ordem, para que seja determinado a retificação do cálculo, com a observância da fração de 1/2 para fins de livramento condicional, com base no artigo 83, inciso II, do CP.
+É o relatório.
+Decido.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/6/2020, DJe de 25/8/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/3/2020, DJe de 2/4/2020; AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/2/2020 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O entendimento do Superior Tribunal de Justiça é firme de que, embora o delito de associação ao tráfico de drogas não integre o rol dos delitos hediondos ou a ele equiparados, persiste a necessidade de cumprimento de 2/3 da pena para a obtenção do livramento condicional, a teor do disposto no parágrafo único do art. 44 da Lei n. 11.343/2006, por se tratar de regra determinada pela lei especial, que se sobrepõe a regra geral (art. 83 do CP).
+A propósito, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. LIVRAMENTO CONDICIONAL. FRAÇÃO DE 2/3 PARA A CONCESSÃO. PROGRESSÃO DE REGIME. INOVAÇÃO RECURSAL. INVIABILIDADE DE ANÁLISE DA PRETENSÃO.
+1. O Tribunal de origem, de forma fundamentada, aplicou a fração de 2/3 para a concessão do livramento condicional na hipótese de crime de associação para o tráfico, decidindo em consonância com entendimento desta Corte.
+2. A tese relativa à fração a ser considerada para fim de progressão de regime encerra inovação recursal, pois suscitada apenas na via regimental, o que impede seja analisada.
+3. Agravo regimental improvido."
+(AgRg no HC n. 689.655/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. LIVRAMENTO CONDICIONAL. ART. 44 DA LEI N. 11.343/2006. PRINCÍPIO DA ESPECIALIDADE. PRAZO PARA PROGRESSÃO DE REGIME. TEMA NÃO SUBMETIDO OU ANALISADO NO ACÓRDÃO ATACADO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Não há falar em nulidade pelo julgamento por decisão monocrática do Relator uma vez que "o Regimento Interno deste Superior Tribunal de Justiça autoriza o relator a decidir o recurso quando o pedido for manifestamente prejudicado ou improcedente, como ocorre no caso concreto, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade" (AgRg no HC 535845/SP, QUINTA TURMA, relator Ministro JORGE MUSSI, DJe 23/10/2019).
+2. A jurisprudência do Superior Tribunal de Justiça - STJ é pacífica no sentido de que deve ser aplicado o princípio da especialidade, com adoção da expressa previsão legal contida no parágrafo único do artigo 44 da Lei n. 11.343/06, que exige o cumprimento de 2/3 da pena para o deferimento do benefício do livramento condicional para o crime de associação para o tráfico de drogas.
+3. As alegações do agravo regimental no sentido de que a impetração busca o reconhecimento do prazo de cumprimento de 1/6 da pena para fins de progressão de regime prisional não foi objeto do acórdão atacado, que limitou-se a dar provimento ao recurso ministerial em relação ao prazo para concessão do livramento condicional. Dessa forma, inexistindo pronunciamento da Corte Estadual em relação ao prazo para progressão de regime, fica esta Corte Superior impedida de manifestar-se sobre o tema sob pena de incorrer em indevida supressão de instância. Ademais, sequer comprovado que o paciente está submetido ao alegado constrangimento.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 685.282/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022.)
+"AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. CONDENAÇÃO PELOS CRIMES DE TRÁFICO E DE ASSOCIAÇÃO PARA O TRÁFICO. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. CUMPRIMENTO DE 2/3 (DOIS TERÇOS). ART. 44, PARÁGRAFO ÚNICO, DA LEI N. 11.343/2006. PRINCÍPIO DA ESPECIALIDADE. PRECEDENTES.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. O acórdão do Tribunal de origem está de acordo com a jurisprudência desta Corte, que é assente no sentido de que, independentemente de o crime de associação para o tráfico não se enquadrar no rol de delitos hediondos, certo é que a Lei n.º 11.343/06, em seu art. 44, parágrafo único, previu expressamente a necessidade do cumprimento de 2/3 (dois terços) da pena, devendo essa previsão legal prevalecer em relação ao art. 83 do Código Penal, em atenção ao princípio da especialidade (HC n. 307.174/SP, Ministro Jorge Mussi, Quinta Turma, DJe 18/4/2016).
+3. Agravo regimental improvido."
+(AgRg no RHC 117.816/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 12/05/2020, DJe 19/05/2020)
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO. ART. 35 DA LEI N. 11.343/06. NÃO HEDIONDO. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. 2/3 (DOIS TERÇOS). PRINCÍPIO DA ESPECIALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, o que implica o seu não-conhecimento, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A jurisprudência desta eg. Corte Superior entende que o crime de associação para o tráfico não é hediondo ou equiparado, por não constar do rol dos arts. 1º e 2º da Lei n. 8.072/90.
+III - Pelo princípio da especialidade, para o livramento condicional no crime de associação para o tráfico, o requisito objetivo é de 2/3 (dois terços) do cumprimento da pena (art. 44, parágrafo único, da Lei n. 11.343/06). Precedentes.
+Habeas corpus não conhecido."
+(HC 526.196/RS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
