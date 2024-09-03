@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de SARA NEVES MONTEIRO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Revisão Criminal n. 2109437-05.2024.8.26.0000.
+Consta dos autos que a paciente foi condenada à pena de 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime fechado, e ao pagamento de 21 (vinte e um) dias-multa, no mínimo legal, pela prática do crime previsto no art. art. 157, § 2º, II e § 2º-A, I, do Código Penal.
+O Tribunal deferiu pedido revisional para afastar aumento na terceira fase da dosimetria, reduzindo a pena da acusada para 06 (seis) anos e 08 (oito) meses de reclusão, mais pagamento de 17 (dezessete) dias-multa.
+O impetrante sustenta a ocorrência de constrangimento ilegal, porquanto a fixação do regime inicial para o cumprimento da pena imposta a paciente deve ser feita com base nas normas gerais estabelecidas no Código Penal (fl. 05).
+Aduz que a paciente possui condições pessoais favoráveis, primariedade e bons antecedentes.
+Alega violação à Súmula 440 deste Egrégio Tribunal, uma vez que o Tribunal a quo fundamentou a fixação de regime mais gravoso com base na gravidade em abstrato do delito de roubo (fl. 08).
+Requer, liminarmente e no mérito, a concessão da ordem para fixar o regime inicial semiaberto para início de cumprimento da reprimenda da paciente.
+Liminar indeferida (fls. 78-79).
+Informações prestadas às fls. 84-113.
+O Ministério Público Federal manifestou-se às fls. 117-118, opinando pela concessão da ordem.
+É o relatório.
+DECIDO.
+O juiz sentenciante acerca da dosimetria assim consignou (fls. 31-32):
+Passo a dosar a pena.
+Atento aos elementos norteadores do artigo 59 do Código Penal, na primeira fase da dosimetria, para ambos os réus, não havendo circunstâncias judiciais desfavoráveis, fixo a pena-base em 04 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Na segunda fase da dosimetria, para a ré Sara, anoto que a atenuante da confissão judicial não pode trazer a pena-base aquém do mínimo legal. Não há agravantes. Ela é primária(fls. 63). Para o réu Luís Fernando, anoto que a agravante da reincidência (fls. 56/58) fica compensada com a atenuante da confissão judicial.
+Na terceira fase da dosimetria, para ambos os réus, reconhecida uma causa de aumento de pena (concurso de pessoas), promovo o aumento desta em 1/3 (um terço), resultando em 05 (cinco) ano e 04 (quatro) meses de reclusão e 13 (treze) dias-multa.
+Ainda na terceira fase, para ambos os réus, reconhecida a causa de aumento de pena pelo emprego da arma de fogo, promovo o aumento desta em 2/3 (dois terços), resultando, em definitivo, em 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e 21 (vinte e um) dias-multa.
+No que diz respeito ao regime de cumprimento da pena da paciente, a Corte de origem, em sede de revisão criminal, manteve o modo fechado consignando (fl. 68):
+Por fim, quanto ao regime prisional imponível à espécie, insta conservar-se a adoção da modalidade inicial fechada, pois, em face do quantum da reprimenda prisional aplicada, bem como da gravidade da conduta (crime grave, praticado em concurso de agentes e com emprego de arma de fogo) e das circunstâncias e consequências do crime, tem-se que a opção pelo módulo carcerário mais rigoroso atende ao disposto no artigo 33, §§ 2º e 3º, do Código Penal.
+Do excerto transcrito, constata-se a inexistência de fundamentação idônea para a fixação de regime inicial mais gravoso (fechado), levando-se em conta que a paciente é primária, as circunstâncias judiciais foram todas consideradas favoráveis e a pena-base foi estabelecida no mínimo legal, restando configurada ofensa às Súmulas n. 440 do STJ e n. 718 e 719/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE NO MÍNIMO LEGAL. PENA INFERIOR A 8 ANOS DE RECLUSÃO. REGIME FECHADO. FUNDAMENTAÇÃO INIDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+2. A sentença, no que foi chancelada pelo acórdão impugnado, ao condenar os agravados pelo crime de roubo circunstanciado pelo concurso de agentes, ao cumprimento de 5 anos e 4 meses de reclusão, fixou a pena-base no mínimo legal, bem como o regime fechado.
+3. Em que pesem os argumentos externados pelo acórdão impugnado, os quais não denotam especial gravidade da conduta imputada aos pacientes, verifica-se que os acusados são primários e a pena-base foi fixada no mínimo legal - portanto, com as circunstâncias judiciais consideradas favoráveis - e a reprimenda definitiva foi superior a quatro anos e inferior a oito.
+4. Conforme pacífica jurisprudência desta Corte, quando favoráveis as circunstâncias judiciais, somente é possível a fixação de regime mais gravoso quando demonstrada a existência de comportamento que denote gravidade excepcional, a qual deve ser devidamente indicada pelo julgador com base nos fatos extraídos do caso concreto. Não se admite, portanto, a declinação de circunstâncias que, ao fim e ao cabo, são inerentes ao tipo penal, como ocorreu no caso.
+5. Agravo regimental não provido. (AgRg no HC n. 809.793/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023 )
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO. AFASTADA A APLICAÇÃO CUMULATIVA DAS MAJORANTES. PEDIDO DE DESLOCAMENTO DA CAUSA DE AUMENTO DO CONCURSO DE AGENTES REMANESCENTE PARA A PRIMEIRA FASE. DISCRICIONARIEDADE DO JULGADOR. REGIME DE ACORDO COM A PENA. AGRAVO NÃO PROVIDO.
+1. No presente caso, a Corte de origem não afastou a causa de aumento do art. 157, §2º, inciso II, do CP, apenas decidiu suficiente, no caso concreto, com base no art. 68 do CP, o aumento na terceira fase da dosimetria no patamar de 2/3, ou seja, o Tribunal de Justiça reconheceu a afronta à Súmula n. 443 do STJ, porquanto o sentenciante não teria justificado o cúmulo de aumento na terceira fase. Dessa forma, não se pode falar no deslocamento do concurso de agentes para a exasperação da pena-base, uma vez que considerada na terceira fase.
+2. O deslocamento de causas de aumento do crime de roubo para a primeira fase da dosimetria se encontra inserida no juízo de discricionariedade do julgador. Destarte, considerando que não há obrigatoriedade de aplicação de majorante sobejante para exasperar pena-base, não cabe a esta Corte alterar a conclusão exarada pelo Tribunal de origem (AgRg nos EDcl no REsp n. 2.051.458/MG, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+3. Em relação ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+4. No caso, estabelecida a pena definitiva em 7 anos, 9 meses e 10 dias de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o acusado e sem antecedentes, não havendo qualquer outro elemento concreto a justificar o regime mais gravoso, o regime semiaberto é o adequado à prevenção e reparação do delito.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.611.178/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024; grifamos)
+Assim,  levando-se  em  consideração o  quantum  final  da  pena  aplicada,  além  da  favorabilidade  das  circunstâncias  judiciais,  mostra-se  viável  a  fixação  do  regime  semiaberto,  nos  termos  do  art.  33,  §  2º,  c/c  §  3º,  do  Código  Penal.
+Ante o exposto, concedo a ordem para fixar o  regime  semiaberto para desconto da reprimenda imposta pela condenação  do delito  previsto  no  art.  157,  §  2º,  II,  e § 2-A, I, do Código Penal.
+Publique-se. Intimem-se.
+EMENTA
