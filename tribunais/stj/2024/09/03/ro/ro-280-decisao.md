@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, RECURSO ORDINÁRIO interposto por HUGO FERREIRA DE SOUZA, AMIM PENASAN HALY, OCIREMA SABOYA DA SILVA, FRANCISCO PAULINO DA SILVA FILHO, ELIZEU ALVES SILVA, FRANCISCO BARROSO DE ARAUJO, SEBASTIAO IVO DE LIMA, MARIA DO LIVRAMENTO COSTA, RAIMUNDO PEREIRA DE SOUZA, OSVALDO RODRIGUES DE SOUZA, JOSE DIMAS DOURADO, contra sentença que considerou prescrita a pretensão indenizatória endereçada à União e aos Estados Unidos da América.
+Na origem, alegam ter sido vítimas de políticas públicas ensejadoras de regime de escravidão, no âmbito do esforço de guerra aliado, no caso conhecido como dos "soldados da borracha". Pleiteiam indenização equivalente a dois salários mínimos, devidos entre 1942 e 2012, estimada por eles em pouco mais de R$ 1 milhão.
+No recurso ordinário, defendem a imprescritibilidade do direito vindicado, por tratar de direito de personalidade irrenunciável. Apontam para a jurisprudência desta Corte firmada nos casos de perseguição política durante o regime militar.
+Sem contrarrazões.
+O Ministério Público Federal pugna pelo desprovimento.
+De fato, esta Corte admite estarem excepcionados da regra geral de prescrição os atos estatais vinculados a perseguição política cometidos durante o governo militar.
+A excepcionalidade, porém, devem ser interpretada de forma restritiva. Nesse passo, sua extensão para atos normativos de caráter geral e omissão estatal, em contextos diversos da perseguição ditatorial a dissidentes políticos, não pode ser aplicada. Admiti-lo corresponderia a uma reforma radical do direito vigente, transformando qualquer imputação de omissão estatal envolvendo violação a direitos fundamentais cometidos por particulares impassível de prescrição.
+O Estado brasileiro já reconheceu a situação de vulnerabilidade dos "soldados da borracha", nos termos do art. 54 do ADCT, concedendo benefício assistencial específico. Mas isso não corresponde a um reconhecimento de ter cometido, diretamente, os atos tidos como violadores de seus direitos. A equiparação com a perseguição política cometida pelo próprio Estado ou a seu mando não é viável.
+Os atos imputados são equivalentes a prática de escravidão moderna, pela imposição aos seringueiros do sistema de aviamento. Ocorre que não há no ordenamento qualquer base normativa que sugira o tratamento especial dessa classe de violação de direitos humanos, ao contrário do que ocorre com a tortura, especialmente a de motivação política, ou mesmo o racismo (arts. 5º, XLII, XLIII e XLIV, da CF/1988). Nem mesmo a Lei de Crimes Hediondos atribui especial atenção à redução de trabalhador à condição análoga à de escravo.
+É de todo razoável questionar que assim seja. Entretanto, a separação de poderes impede que o Judiciário intervenha de forma tão relevante no ordenamento para criar um direito específico, indenizatório, que duas assembleias constituintes democráticas, de 1946 e 1988, resolveram  porque cientes dos fatos  não positivar.
+Desse modo, correta a sentença, devendo ser mantida, com fundamento no art. 332, § 1º, do CPC/2015.
+Isso posto, nego provimento ao recurso ordinário.
+Intimem-se .
+EMENTA
