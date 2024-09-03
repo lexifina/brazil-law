@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por CLUBE DOS OFICIAIS DA POLICIA MILITAR EST MATO GROSSO, contra decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"PROCESSUAL CIVIL - AGRAVO INTERNO - AÇÃO DE COBRANÇA DE URV - PRESCRIÇÃO QUINQUENAL - OCORRÊNCIA - INÍCIO DO PRAZO - DATA DA LEI DE REESTRUTURAÇÃO DA CARREIRA E DO REGIME REMUNERATÓRIO DO SERVIDOR PÚBLICO - PRECEDENTES DO STJ - INEXISTÊNCIA DE ELEMENTOS NOVOS - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+O prazo prescricional, para reclamar as perdas salariais, resultantes da conversão da moeda, de Cruzeiros Reais para Unidade Real de Valor - URV -, começa a fluir a partir da entrada em vigor da lei que reestrutura a carreira do servidor público, com a instituição de novo regime jurídico remuneratório." (e-STJ, fl. 746).
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 775/780).
+Nas razões do recurso especial, a agravante alega violação aos arts. 489, §1º, incisos IV e V e 1.022, inciso II, parágrafo único, inciso II do Código de Processo Civil de 2015, sustentando, em síntese, que houve omissão com relação a ausência de reestruturação da carreira com as Leis Complementares Estaduais n. 71/00 e 273/07, de modo que o marco do prazo prescricional deve ser a edição da Lei Complementar n. 541/14.
+Contrarrazões às fls. 813/821.
+Juízo negativo de admissibilidade às fls. 822/829.
+Interposto agravo em recurso especial às fls. 834/845.
+É o relatório. Passo a decidir.
+Afasta-se a alegada violação ao artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, em especial acera do termo inicial da prescrição, apenas não adotando as razões da recorrente, o que não configura violação do dispositivo invocado, in verbis:
+"In casu, a parte Embargante alega a existência de omissão no recorrido, porque não foi decisum apreciada a tese quanto a necessidade de realização de perícia contábil, bem como a não ocorrência da reestruturação das carreiras pelas Leis Complementares 71 e 273.
+Entrementes, em que pese aos argumentos declinados, denota-se o inconformismo da Embargante, quanto à decisão que não lhe foi favorável, de modo que não há nenhum vício a ser sanado por meio dos presentes embargos de declaração.
+No acórdão objurgado, foi reconhecida a prescrição da pretensão da cobrança de eventuais diferenças salariais devidas a título de conversão da moeda para URV.
+No acordão objurgado, assim constou:
+Denota-se dos recentes julgados que o início do prazo quinquenal da pretensão da cobrança das eventuais perdas salariais, relativas à conversão da moeda para URV, é a data da edição da lei que promoveu a reestruturação da carreira dos servidores da respectiva categoria.
+Confira:
+ ..  Dessa forma, em consonância com o entendimento recente do STJ, há que ser reconhecida a prescrição, no presente caso, visto que a ação foi proposta em 08/09/2015, ou seja, após o decurso do prazo de 05 (cinco) anos da edição das Leis Complementares n. 71 e n. 273, editadas em 2000 e 2007, respectivamente, que reestruturaram a carreira oficiais da polícia militar e bombeiros.
+Veja-se que tal decisão se deu em conformidade com o entendimento do STJ, o que pode ser observado, por meio dos arestos que foram colacionados.
+Ademais, em que pese as alegações trazidas aos autos pela parte Embargante, no sentido de que não há provas acerca da efetiva recomposição salarial, a lei que promoveu a reestruturação se trata de marco inicial, para a contagem do prazo prescricional, conforme consignado no trecho do voto, que ora transcrevo:
+Ressalte-se, ainda, que não cabe, aqui, discussão acerca da efetiva recomposição salarial, por meio da lei que promoveu a reestruturação carreira, já que conforme entendimento das Cortes Superiores, alusiva lei, trata-se somente de um marco inicial, para a contagem do prazo prescricional. (e-STJ, fls. 778/779)
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que: "Não resta configurada nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado. Não é ele obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa de suas teses, devendo, apenas, enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no REsp n. 2.103.088/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial. e negar-lhe provimento nessa extensão.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
