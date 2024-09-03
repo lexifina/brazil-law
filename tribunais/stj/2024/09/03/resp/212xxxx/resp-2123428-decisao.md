@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANGELA MARIA MURNO MARINO com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 382):
+"Plano fora de da Saúde. Busca de atendimento rede credenciada por da uso rede iniciativa da cliente. Validade limita cláusula contratual que de hospitais fora da credenciada.
+improcedente.
+Pretensão de reembolso Recurso desprovido"
+Opostos embargos de declaração, foram rejeitados às fls. 398/402.
+Nas razões do recurso especial, o recorrente alega ofensa aos arts. 373, I e II, 489 e 1.022 do CPC/15; 20, §1º e 14 do CDC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, além da negativa de prestação jurisdicional, que houve ofensa à distribuição do ônus da prova, ante o julgamento antecipado da lide.
+É o relatório. Decido.
+De início, não se vislumbra a alegada violação aos artigos 489 e 1.022 do CPC de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer deficiência de fundamentação, omissão, obscuridade ou contradição no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+No tocante ao pleito de reembolso, a Corte de origem, com base no lastro probatório colacionado aos autos, compreendeu que a recorrente não faz jus ao mesmo, uma vez que optou, deliberadamente pelo atendimento em hospital particular fora da rede credenciada. É o que se extrai do trecho do acórdão a seguir (fls. 383/384):
+A apelante-autora aduz que a negativa da ré em dar cobertura ou reembolso implicaria em ato ilícito pelo que a sua pretensão inaugural deveria ser atendida.
+Todavia, como bem analisado pelo MM. Juiz "a quo", o direito ao reembolso nos limites da tabela contratual só ocorreria em caso de não haver rede referenciada no local, o que não é o caso estampado aos autos.
+Ainda que tivesse havido uma negativa da cobertura pela via administrativa, poderia a autora ter se valido da via judicial, já largamente explorado pelos milhares de clientes de planos de saúde e cogêneres.
+Note-se que a apelante não agiu desta forma e buscou atendimento particular num dos hospitais mais caros da América Latina pretendendo que a ré deu total cobertura o que não se admite, frise-se, não credenciado.
+A conduta contratual da apelante desbordou da boa-fé objetiva pelo que deve suportar com o ônus das suas decisões.
+Não pode a apelante buscar a obtenção de proveitos que não faria jus caso a apelada tivesse cumprido o contrato com esmero, partindo de um aparente erro da recorrida.
+O direito busca atribuir a cada um o que é seu sem lesar ninguém. Neste compasso, em momento algum a apelante teria direito ao atendimento pelo Hospital Albert Einstein ou reembolso das despesas realizadas1 naquele nosocômio.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir a negativa de cobertura pelo plano de saúde em hospital da rede credenciada demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
