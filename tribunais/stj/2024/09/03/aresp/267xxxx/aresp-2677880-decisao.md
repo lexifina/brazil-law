@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de MODE IT TECHNOLOGY LTDA., em que objetiva a admissão de recurso especial interposto contra acórdão do TJSP assim ementado:
+AGRAVO DE INSTRUMENTO - Execução fiscal - ISS dos exercícios de 2013 a 2016 - Exceção de pré-executividade rejeitada. 1) Pretendida limitação dos juros e correção monetária incidentes sobre os débitos tributários municipais à Taxa Selic - Possibilidade a partir da publicação da EC nº 113/2021 (09/12/2021). 2) Pedido de suspensão do feito, em razão do Tema nº 1.217 do STF (RE nº 1.346.152), que trata sobre a "possibilidade de os municípios fixarem índices de correção monetária e taxas de juros de mora para seus créditos tributários em percentual superior ao estabelecido pela União para os mesmos fins" - Não cabimento - Ausência de determinação de suspensão nacional - Precedente do STF. 3) Honorários advocatícios - Decisão ilíquida - Fixação do percentual dos honorários advocatícios em sede de liquidação - Inteligência do inciso II do § 4o do art. 85 do CPC - Exceção de pré-executividade parcialmente acolhida
+apenas para aplicar a Taxa Selic a partir de 09/12/2021 - Decisão reformada - Recurso parcialmente provido.
+O recorrente alega violação dos arts. 85, §5, 489 e 1.022 do CPC/2015 e do art. 13 da Lei n. 9.065/1995.
+Sustenta, em síntese, que há omissão e obscuridade no acórdão do TJSP ao deixar de reconhecer que os artigos da legislação municipal violariam dispositivos da Constituição da República.
+Alega, também, que a aplicação da SELIC como índice de juros e correção aos débitos de natureza tributária do município teria aplicação desde o art. 13 da Lei n. 9.065/1995, equivocando-se o Tribunal bandeirante ao considerar o termo inicial de sua aplicação a edição da emenda constitucional n. 113/2021.
+Por fim, defende a violação do art. 85, §5º, do CPC/2015 ao argumento de ser necessário o arbitramento imediato dos honorários de sucumbência, não podendo aguardar a liquidação da sentença.
+O recurso especial foi inadmitido por ausência de vício de integração e por aplicação do óbice da Súmula 7 do STJ, fundamentos atacados no agravo.
+Passo a decidir.
+O apelo nobre se origina de agravo de instrumento interposto contra decisão em execução fiscal que acolheu exceção de pré-executividada.
+O Tribunal bandeirante deu parcial provimento ao agravo de instrumento para determinar a aplicação da SELIC como índice de juros e correção aplicado ao crédito tributário desde a publicação da emenda constitucional 113/2021, fixando honorários em favor da executada a serem calculados no momento da liquidação.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese defendida pelo recorrente.
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação às quais o recorrente alega omissão.
+Com efeito, a Corte estadual reconheceu, com fundamento em precedentes do STF e na disciplina constitucional da matéria, que a SELIC só poderia ser aplicável como índice de juros e correção monetária aos créditos tributários do município a partir da edição da EC n. 113/2021.
+Sem adentrar no mérito desses fundamentos trazidos no acórdão do TJSP, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+Dito isso, como afirmado acima, a conclusão adotada no acórdão recorrido acerca do termo inicial para a aplicação da SELIC como índice de juros e correção de créditos tributários da edilidade tem fundamento eminentemente constitucional, não podendo ser objeto de apreciação no âmbito do recurso especial sob pena de usurpação de competência da Corte Suprema.
+Por fim, no que concerne à alegada violação do art. 85, §5º, do CPC/2015, ressente-se o recurso especial do devido prequestionamento, já que sobre essa norma e a tese a ela vinculada não houve emissão de juízo pelo acórdão recorrido, fazendo incidir o óbice constante na Súmula 282 do STF: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II, "a" e  "b",  do  RISTJ,  CONHEÇO  do  agravo  para  CONHECER  PARCIALMENTE  do recurso especial  e,  nessa  parte,  NEGAR-LHE  PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
