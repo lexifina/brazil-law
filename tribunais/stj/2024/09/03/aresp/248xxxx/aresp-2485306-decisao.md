@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a ausência de negativa de prestação jurisdicional (e-STJ fls. 2.915/2.923).
+O acórdão do TJMT traz a seguinte ementa (e-STJ fl. 2.655):
+RECURSO DE AGRAVO DE INSTRUMENTO - TUTELA DE URGÊNCIA EM CARÁTER ANTECEDENTE - PEDIDO LIMINAR INDEFERIDO - REQUISITOS INDEMONSTRADOS - BEM ARREMATADO EM LEILÃO JUDICIAL - DIREITO LEGÍTIMO DE O PROPRIETÁRIO SER IMITIDO NA POSSE - PRÉVIO REGISTRO DA PENHORA NA MATRÍCULA DO IMÓVEL - DIREITO DE PREFERÊNCIA DA PARTE AUTORA NÃO VERIFICADO - INACPLICABILIDADE DO ESTATUTO DA TERRA - IMÓVEL EM ÁREA URBANA - DECISÃO MANTIDA - RECURSO NÃO PROVIDO
+I - Verifica-se a existência de três requisitos para a concessão da tutela urgência, quais sejam: a) a probabilidade do direito invocado; b) o perigo de dano ou risco ao resultado útil do processo; e c) a reversibilidade do provimento jurisdicional.
+II - Não havia na matricula do imóvel, qualquer informação ou registro acerca do contrato de arrendamento, que pudesse gerar efeitos em face de terceiros, não havendo que se falar, nesse caso, de direito de preferência quanto ao bem litigioso.
+III - O imóvel em questão, que possui área de apenas 1,20 ha (um hectare e vinte ares), não é destinado à agricultura ou plantio, mas, sim, à armazenagem de grãos e, inclusive, se encontra localizado em área urbana, razão pela qual, incabível a aplicação do Estatuto da Terra.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.802/2.811).
+No recurso especial (e-STJ fls. 2.825/2.843), fundamentado no art. 105, III, alínea "a", da CF, a recorrente indicou ofensa aos arts. 489, § 1º, e 1.022, I e II, do CPC/2015, aduzindo haver negativa de prestação jurisdicional (omissão e contradição), pois a Corte local teria excluído indevidamente seu direito de preferência na aquisição do imóvel litigioso, na condição de sucessora da arrendatária.
+Acrescentou que:
+(a) "a realização de leilão do imóvel sem a devida intimação da arrendatária viola expressamente o direito de adjudicação do bem garantido no código instrumental, bem como ao direito de preferência assegurado pelo art. 92, § 3º, do Estatuto da Terra. Em outras palavras, o procedimento de praceamento do imóvel está eivado de vício insanável, eis que violou próprio microssistema estabelecido no código processual, fato que ocasiona nulidade da arrematação com base no art. 903, § 1º, inciso I, do CPC" (e-STJ 2.831),
+(b) "é importante destacar que há uma clara violação ao direito de preferência na aquisição garantido pelo Estatuto da Terra ao arrendatário de um imóvel rural, bem como em relação ao direito de preferência na adjudicação nos termos do artigo 876, § 5º do CPC" (e-STJ fl. 2.831), e
+(c) "é possível observar a existência de falha na interpretação e aplicação da definição de imóvel rural estampada no art. 4º, inciso I, do Estatuto da Terra, além do disposto no art. 11 do Decreto nº 59.566/66, que disciplina a possibilidade de realização de contrato de arrendamento de forma verbal. Aliás, convém salientar que esses preceitos legais foram invocados pela recorrente quando de suas manifestações, fato que não foi levado em consideração pele egrégio TJMT" (e-STJ fl. 2.833).
+Nesse contexto, sustentou que "o objetivo deste recurso não se limita ao reexame dos fatos e provas apresentados. Ao contrário, o objetivo é o reconhecimento da nulidade do acórdão e realização de um novo julgamento do recurso de agravo de instrumento, com o propósito de aplicar corretamente as disposições contidas na legislação federal infraconstitucional, em razão de manifesta nulidade nos termos do art. 489 do CPC" (e-STJ fl. 2.837).
+No agravo (e-STJ fls. 2.924/2.937), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não assiste razão à recorrente quanto à tese de negativa de prestação jurisdicional, uma vez que o Tribunal a quo deixou claros os motivos pelos quais, em cognição sumária, indeferiu a tutela antecipada postulada pela recorrente, a fim de impedir a imissão possessória da contraparte no imóvel litigioso e, por conseguinte, manter a empresa recorrente na posse até o deslinde da controvérsia, não incorrendo, desse modo, em omissão, contradição ou obscuridade.
+A Corte local concluiu que a ausência de registro do contrato de arrendamento na matrícula do bem afastaria o direito de preferência da arrendatária primitiva (AVP Armazens Ltda.), o que se estenderia à recorrente, na condição de sucessora da empresa referida. Ademais, segundo a Corte de apelação inexistiria nulidade na expropriação do imóvel, considerando que a penhora era anterior ao contrato de arrendamento, que supostamente asseguraria o direito de preferência reivindicado pela parte recorrente. No mais, o TJMT entendeu que o art. 92, § 3º, do Estatuto de Terra seria inaplicável, considerando a dimensão do imóvel rural de apenas um hectare e vinte ares e pelo fato dele ser destinado ao armazenamento de grãos, e não à agricultura ou plantio.
+Confira-se (e-STJ fls. 2.650/2.651):
+O recurso em exame demanda a análise da decisão que indeferiu o pedido de tutela de urgência, com que a parte autora, ora agravante, pretendia suspender a imissão de posse do imóvel de matrícula n.º 0525 do CRI de Sorriso/MT, expedida nos autos n.º 0002265-18.2013.8.11.0040, e, assim, ser mantida na posse do referido bem até o deslinde da controvérsia.
+ ..
+Então, neste agravo, cumpre apenas verificar o preenchimento ou não dos requisitos para concessão da tutela provisória de urgência antecipada, previstos no artigo 300 do novo CPC, in verbis:
+ ..
+Da análise do artigo acima transcrito verifica-se a existência de três requisitos para a concessão da tutela urgência, quais sejam: a) a probabilidade do direito invocado; b) o perigo de dano ou risco ao resultado útil do processo; e c) a reversibilidade do provimento jurisdicional.
+Acerca dos requisitos autorizadores da tutela de urgência antecipada, orienta a jurisprudência pátria:
+ ..
+No que importa para o deslinde do recurso, tem-se que os requisitos da tutela jurisdicional não foram suficientemente demonstrados, eis que ausente a probabilidade do direito a corroborar a pretensão da parte autora, ora agravante, notadamente no que concerne à suspensão da imissão da Agravada "COOAMI", na posse do imóvel, objeto do litígio.
+Consoante depreende-se da extensa prova documental encartada nos autos, o imóvel objeto do litígio (matrícula nº 0525 do CRI de Sorriso-MT) foi arrematado em leilão judicial realizado em 18 de novembro de 2021, pelo valor pago à vista de R$ 3.925.000,00 (três milhões novecentos e vinte e cinco mil reais), sendo determinado, nos autos de nº 002265-18.2013.811.0040, a expedição do mandado de imissão na posse (id nº 9659873) ora combatido.
+Por sua vez, a agravante alega que assumiu, por cessão, todos os direitos e obrigações da então arrendatária do imóvel (AVP Armazéns Ltda), a qual havia celebrado contrato de arrendamento do imóvel litigioso com a COOPERSORRISO - Cooperativa Agrícola Mista Sorriso LTDA, devedora dos agravados.
+Ocorre que, inobstante os argumentos da autora, ora agravante, não se verifica qualquer desacerto da decisão de origem, no instante em que, não havia na matricula do imóvel, qualquer informação ou registro acerca do contrato de arrendamento, que pudesse gerar efeitos em face de terceiros, não havendo que se falar, nesse caso, de direito de preferência quanto ao bem litigioso.
+Ademais, além de não se verificar qualquer irregularidade no que concerne à expropriação do imóvel - o qual inclusive já consta o registro de propriedade na matrícula, em nome da "COOAMI" (id nº 152720185) - nota-se, que a penhora sobre o referido bem já constava na matrícula do imóvel desde a data de 17.06.2016, muito antes, portanto, do próprio contrato de arrendamento do qual a agravante diz ser sucessora, datado de 23.01.2021 (id nº102272237).
+A propósito:
+ ..
+Assim, diante do quadro exposto, não há que se falar em direito de preferência sobre o referido imóvel, o qual, deve servir, agora, ao seu legítimo proprietário.
+Por fim, cabe ainda registrar, que quanto ao alegado direito de preferência para a aquisição do imóvel, a autora/agravante ampara sua pretensão com base no artigo 92, §3º da Lei nº 4.054/64 (Estatuto da Terra), a qual dispõe o seguinte:
+Art. 92. A posse ou uso temporário da terra serão exercidos em virtude de contrato expresso ou tácito, estabelecido entre o proprietário e os que nela exercem atividade agrícola ou pecuária, sob forma de arrendamento rural, de parceria agrícola, pecuária, agro-industrial e extrativa, nos termos desta Lei.
+ ..
+§ 3º No caso de alienação do imóvel arrendado, o arrendatário terá preferência para adquiri-lo em igualdade de condições, devendo o proprietário dar-lhe conhecimento da venda, a fim de que possa exercitar o direito de perempção dentro de trinta dias, a contar da notificação judicial ou comprovadamente efetuada, mediante recibo.
+Ocorre que, à toda evidência, o imóvel em questão, que possui área de apenas 1,20 ha (um hectare e vinte ares), não é destinado à agricultura ou plantio, mas, sim, à armazenagem de grãos e, inclusive, se encontra localizado em área urbana, razão pela qual, incabível a aplicação do Estatuto da Terra ao presente caso, especialmente no que diz respeito ao contrato firmado entre a agravante e o devedor dos agravados.
+Assim, na hipótese dos autos, não se verifica qualquer argumento capaz de subjugar os fundamentos da decisão hostilizada, que deve ser mantida integralmente.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+É como voto.
+E ainda, a contradição que dá ensejo aos aclaratórios é a interna, quando, no contexto do próprio aresto embargado, existem afirmações inconciliáveis, situação não verificada nos presentes autos. A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+ ..
+2. A contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AgInt no AREsp n. 927.559/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/4/2017, DJe 28/4/2017.)
+Ressalte-se que o fato de o julgamento ser contrário aos interesses da recorrente não configura nenhum dos vícios do art. 458 do CPC/1973 (atual art. 489, § 1º, do CPC/2015), tampouco é o caso de cabimento dos aclaratórios.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
