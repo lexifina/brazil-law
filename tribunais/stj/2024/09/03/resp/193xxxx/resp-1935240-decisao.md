@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJDFT assim ementado (e-STJ fls. 303/304):
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO CIVIL. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL DISPENSÁVEL. CONJUNTO PROBATÓRIO SUFICIENTE. PRELIMINAR REJEITADA. CLUBE RECREATIVO. ASSOCIAÇÃO CIVIL SEM FINS LUCRATIVOS. INAPLICABILIDADE DO CDC. AGRESSÃO FÍSICA COMETIDA POR SEGURANÇA. EXCESSO NO EXERCÍCIO DA FUNÇÃO. DEPOIMENTO DE TESTEMUNHAS E INFORMANTES. VALIDADE. ÔNUS DA PROVA DO RÉU NÃO ATENDIDO. NEXO CAUSAL CONFIGURADO. RESPONSABILIDADE SUBJETIVA DA ASSOCIAÇÃO PELO ATO ILÍCITO COMETIDO POR EMPREGADO. IMPRUDÊNCIA VERIFICADA. DEVER DE INDENIZAR A VÍTIMA. SENTENÇA PARCIALMENTE REFORMADA.
+1. Quando reputada desnecessária para a resolução do litígio, não há falar em cerceamento de defesa por não ter sido devidamente produzida a prova testemunhal postulada. O juiz é o destinatário final da prova, cabendo a ele definir aquelas que são necessárias para solução do litígio, dispensando diligências inúteis à instrução do processo, consoante disposto no art. 370, parágrafo único, do CPC/15.
+2. A associação civil sem fins lucrativos, ao disponibilizar clube recreativo para público restrito, composto pelos associados e convidados deles, não atua como fornecedora nem presta "serviço" compatível com a definição do. 3º, § 2º, do CDC.
+3. Cabe ao juiz atribuir, às provas produzidas pelos informantes do Juízo, o valor que possam merecer (art. 447, § 5º, do CPC/15). O depoimento do informante detém valor probatório, quando compatível com os demais elementos apresentados no processo.
+4. Demonstrados os fatos constitutivos, caberia à Ré comprovar fato impeditivo, modificativo ou extintivo do direito do Autor (art. 373, II, do CPC/15), sobretudo por ser ela, na qualidade de proprietária e mantenedora do clube, a detentora da melhor condição de demonstrar a inveracidade das alegações autorais.
+5. O não cumprimento do ônus da prova que incumbia à Ré enseja a conclusão de que a agressão física reportada na inicial foi verdadeira, o que demonstra o nexo causal entre a imprudência do segurança no desempenho da função e a lesão sofrida pelo Autor.
+6. O art. 932 do Código Civil dispõe que o empregador é responsável pela reparação civil decorrente de conduta praticada pelos seus empregados, serviçais ou prepostos, no exercício do trabalho que lhes competir.
+7. Para fins de responsabilidade subjetiva, ainda que se possa vislumbrar a ocorrência do dolo, a comprovação da culpa é suficiente para ensejar o dever de reparação.
+8. Apelação conhecida e parcialmente provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 340/346).
+Nas razões do recurso (e-STJ fls. 350/371), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente aponta ofensa aos arts. 489, II, e 1.022 do CPC/2015 ante a omissão "quanto à análise integral da prova testemunhal produzida nos autos que certamente levaria à improcedência dos pedidos iniciais" (e-STJ fl. 357). Sustenta que é possível extrair do depoimento da testemunha compromissada que o recorrido não sofreu as lesões alegadas.
+Indica contrariedade ao art. 942, § 2º, do CPC/2015, porque a segunda vogal não estava presente quando o primeiro vogal apresentou voto divergente. Afirma que há nulidade no julgame nto, devendo ser designada nova sessão para o julgamento com a presença do quórum completo da turma julgadora.
+Suscita violação do art. 373 do CPC/2105 defendendo que cumpriu com seu encargo probatório de demonstrar que seus prepostos não agrediram o recorrido.
+Afirma que deve prevalecer o depoimento da testemunha compromissada quando esta confronta com o depoimento dos informantes. Argumenta que o recorrido não se desincumbiu de seu encargo probatório de provar os fatos narrados na inicial.
+Foram apresentadas contrarrazões (e-STJ fls. 380/383).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 386/388), os autos vieram a esta Corte.
+É o relatório
+Decido.
+No julgamento dos embargos de declaração a Corte distrital afastou a alegação de nulidade do julgamento mediante os seguintes fundamentos (e-STJ fls. 342/345):
+Sobre a preliminar de nulidade, a Ré/Embargante sustenta que a não participação da Desembargadora Nídia Corrêa Lima, 1" Vogal, na sessão de prosseguimento do julgamento constitui vício insanável.
+Ocorre que tal questão de ordem foi devidamente enfrentada pelo colegiado durante a sessão, após a expressa manifestação do eminente Desembargador Mário-Zam Belmiro.
+Após detido debate dos pares, a eg. 8ª Turma Cível ressaltou que a eminente 1" Vogal já havia acompanhado o Relator quando do início do julgamento. Acrescentou que, em razão dos afastamentos e futura aposentadoria dela, a Desembargadora não mais passaria a compor o quórum desse colegiado, razão pela qual não seria possível condicionar a proclamação do resultado da lide à presença da eminente 1ª Vogal, que, repito, já havia proclamado voto.
+Para melhor esclarecimento das considerações adotadas por esta Turma Cível, transcrevo trecho do debate realizado durante a sessão de julgamento e registrado no acórdão, por meio das Notas Taquigráficas (ID 21380709):
+ ..
+Portanto, na esteira do entendimento já externado por esta eg. Turma Cível ao apreciar a questão de ordem suscitada pelo em. Desembargador Mário-Zam Belmiro, inexiste nulidade no julgamento, uma vez que a eminente Desembargadora Nídia já havia acompanhado o voto inicialmente ofertado pelo Relator, que mantinha a indenização por danos morais, em desfavor da Ré/Embargante, no patamar de R$ 20.000,00 (vinte mil reais).
+Destaco que a posição adotada pelo colegiado durante a ausência da eminente Desembargadora foi apenas a de reduzir o importe indenizatório para R$ 6.000,00 (seis mil reais), o que favorece a Embargante.
+Registro que, no direito processual brasileiro, não existe nulidade sem prejuízo (princípio do pas de nullité sans grief). Nesse contexto, uma vez que a ampliação do quórum apenas beneficiou a Ré/Embargante, sem razão ao pleitear a nulidade daquela sessão de julgamento.
+No especial, a parte limitou-se a reiterar os mesmos argumentos apresentados na origem, defendendo existir nulidade do julgamento em razão da ausência da segunda vogal. Contudo, não impugnou o fundamento do acórdão recorrido de que não existe nulidade sem prejuízo e de que a ampliação do quórum beneficiou a recorrente, pois reduziu o valor da indenização.
+Dessa forma, incide no ponto a Súmula n. 283 do STF, a impedir o seguimento do especial.
+Ausente ofensa aos arts. 489 e 1.022 do CPC/2015.
+O Tribunal a quo apresentou, de forma clara e suficiente, os fundamentos pelos quais concluiu que foi demonstrado o nexo causal entre o dano sofrido pelo autor e a ação dos prepostos da ré. Inclusive, foi explicitado o entendimento de não existir hierarquia entre as provas, devendo o juiz atribuir aos depoimentos prestados o valor que entende merecer, observada a compatibilidade com os outros elementos de prova.
+Confira-se o seguinte excerto do acórdão recorrido (e-STJ fl. 309):
+ ..  inexiste uma hierarquia entre as provas testemunhais tal qual afirmado pelo Apelante. O juiz, enquanto destinatário da prova, deve apreciar todas as provas constantes nos autos, independente do sujeito que as tiver produzido, bem como justificar as razões que ensejaram o convencimento (art. 371 do CPC/15).
+De fato, a prova produzida pelo informante deve ser valorada conforme a sua compatibilidade com os demais elementos apresentados no processo, mas também não pode ser inviabilizada de pronto, simplesmente em razão de outras testemunhas, submetidas a compromisso, terem prestado depoimento ao Juízo.
+ ..
+Portanto, cinge-se a controvérsia à existência de nexo causal entre a ação do preposto e o dano experimentado pela parte autora, além da verificação do dolo ou culpa do suposto causador da lesão.
+Como não foram juntadas aos autos provas contundentes, como gravações de câmeras de segurança, a comprovação dos fatos alegados por ambas as partes perpassa, sobremaneira, pelo exame da prova testemunhal produzida na origem.
+Observo que os três amigos do Autor, ouvidos como informantes, confirmaram que o empregado da Ré desferiu chutes no Requerente, ocasionando a lesão descrita na inicial.
+ ..
+Passo à análise da prova testemunhal produzida pela defesa.
+ ..
+Assim, constato que, das três testemunhas apresentadas pela defesa, duas delas afirmaram estar longe da área do estacionamento, em que supostamente teria ocorrido a lesão, o que não contribui para o deslinde da controvérsia.
+Somente o porteiro André Martins Abdon declarou ter acompanhado toda a atuação dos seguranças, desde a condução do Autor para fora da área das piscinas até o momento em que o Requerente efetivamente saiu do clube. Porém, afirma apenas que não se recorda de vê-lo lesionado, afirmação pouco categórica.
+Portanto, após a detida análise das provas documentais e testemunhais, verifico que, embora os informantes sejam amigos do Autor e não tenham prestado o devido compromisso ao testemunhar em Juízo, foram eles a maior parte das pessoas que acompanharam o deslinde da atuação dos seguranças ao conduzirem o Requerente para o estacionamento.
+Assim, de acordo com a dinâmica do ônus da prova, estabelecida no CPC/15, as provas juntadas pela parte autora são suficientes para demonstrar os fatos constitutivos do direito.
+Isso porque foi documentalmente comprovada a lesão grave no joelho direito do Autor, ocorrida justamente no dia em que frequentou o clube ASCADE, e os fatos alegados foram confirmados por três pessoas que estavam presentes no clube, ainda que sejam amigos do Requerente.
+O próprio local em que a controvérsia se instaurou causa estranheza: o estacionamento do clube, espaço obviamente menos movimentado do que as demais áreas e, provavelmente, mais afastado da vigilância das câmeras (caso haja), das vistas dos funcionários e dos demais frequentadores do espaço.
+Demonstrados os fatos constitutivos, caberia à Ré comprovar fato modificativo, impeditivo ou extintivo do direito do Autor (art. 373, II, do CPC/15).
+No entanto, embora a Ré seja a proprietária e mantenedora do clube e, por isso, tenha fácil acesso a possíveis imagens de circuitos internos, bem como aos funcionários e sócios que estavam presentes no clube naquele dia, a Requerida logrou apresentar uma única prova nos autos em sentido contrário às alegações autorais. Ainda assim, nessa prova (testemunhal), o porteiro da ASCADE apenas salienta não ter presenciado agressões vindas dos seguranças nem se recordar de ver o Autor lesionado.
+Sob esse prisma, concluo que a Ré/Apelante não cumpriu o ônus da prova que lhe incumbia e, portanto, deve ser reconhecia a existência de nexo causal entre a conduta do segurança, que se excedeu na expulsão do Autor do clube e o agrediu fisicamente, e o resultado danoso experimentado pela vítima: trauma grave no joelho direito.
+O simples fato de a parte entender que, da análise do conjunto probatório dos autos, a conclusão deveria ser pela improcedência do pedido indenizatório, não configura a alegada negativa de prestação jurisd icional.
+No mais, para alterar a conclusão da origem a respeito demonstração dos elementos ensejadores da responsabilidade civil, seria necessária nova análise da prova dos autos, o que é vedado em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Em face do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
