@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se recurso especial interposto por ANAMÉLIA REIS DA COSTA BARROS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MG.
+Recurso especial interposto em: 7/3/2024.
+Concluso ao gabinete em: 12/7/2024.
+Ação: rescisória, ajuizada pela recorrente em face de DANIEL SEBASTIÃO BARROS.
+Acórdão: manteve a decisão monocrática que indeferiu o pedido de concessão dos benefícios da gratuidade de justiça e negou provimento ao agravo interno interposto pela recorrente, nos termos da seguinte ementa:
+AGRAVO INTERNO - DECISÃO MONOCRÁTICA - GRATUIDADE DE JUSTIÇA INDEFERIDA -PESSOA FÍSICA -HIPOSSUFICIÊNCIA FINANCEIRA NÃO COMPROVADA - DECISÃO MANTIDA -RECURSO NÃO PROVIDO -AGRAVO INTERNO MANIFESTAMENTE IMPROCEDENTE -APLICAÇÃO DE MULTA.
+-A Constituição Federal (art. 5º, LXXIV) incluiu entre os direitos e garantias fundamentais o de assistência jurídica na forma integral e gratuita pelo Estado aos que comprovarem insuficiência de recursos.
+-Em que pese o § 3º do art. 99 do CPC preceituar que se presume verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural, entendo que, para a concessão do benefício da gratuidade judiciária, o postulante precisa comprovar, além do preenchimento dos pressupostos do art. 98 do CPC, que não dispõe de recursos financeiros suficientes para suportar os ônus processuais sem o prejuízo próprio e de sua família.
+-A simples declaração de que não tem condições de arcar com as custas do processo e os honorários advocatícios, sem o prejuízo próprio ou de sua família, é insuficiente para comprovar a real capacidade financeira da parte.
+-Deixando a parte de comprovar sua incapacidade financeira, deve ser indeferido o pedido de justiça gratuita.
+-A interposição de recurso de agravo interno julgado manifestamente improcedente em votação unânime autoriza a imposição de multa, com fundamento no § 4º do art. 1.021 do CPC.
+Recurso especial: aponta violação aos arts. 98, 99 e 1.021, § 4º, do CPC, além de dissídio jurisprudencial.
+Sustenta, em síntese, que "a parte gozará dos benefícios, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio"; que "presume-se pobre, até prova em contrário, quem afirmar essa condição de miserabilidade"; e que "comprovou, devidamente, seu estado de miserabilidade nos autos de origem" (e-STJ fl. 945).
+Afirma, ainda, que incumbe "à parte contrária, que porventura impugnar a concessão da assistência judiciária, provar a suficiência de recursos do beneficiário, para vê-la indeferida" (e-STJ fl. 945).
+Pleiteia, por fim, a exclusão da multa aplicada à recorrente, argumentando da ausência de fundamentação que justifique a aplicação da referida multa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Jurisprudência do STJ e da Súmula 7/STJ
+A jurisprudência do STJ é pacífica no sentido de que a presunção do estado de necessidade tem natureza relativa. Assim sendo, o magistrado está autorizado a indeferir o pedido de concessão do benefício da justiça gratuita se não encontrar elementos que comprovem a hipossuficiência da parte requerente. Nesse sentido: AgInt no AREsp 1.583.701/SP, 3ª Turma, DJe de 13/03/2020; AgInt no AREsp 579.531/RJ, 4ª Turma, DJe de 27/09/2018; e AgInt no AgInt no REsp 1.621.028/RO, 4ª Turma, DJe de 18/10/2017.
+No particular, a Corte de origem, ao julgar o recurso interposto pela recorrente, concluiu o seguinte:
+"Impende destacar que na decisão ora atacada restou claro que em despacho de ordem 62, foi determinada a intimação da então autora para que apresentasse documentos atualizados comprovando sua hipossuficiência, porém, apresentou apenas a carteira de trabalho, em que a última anotação se deu em 2016, alegada dispensa de apresentação de IRPF e certidão de nascimento de seu filho.
+Ressaltou-se que não existe comprovação de rendimentos e gastos atualizados, como determinado por esta Relatora, portanto, a simples interposição do presente recurso não possui o condão de alterar a decisão de indeferimento do benefício. Deve ser observado também que o agravado juntou cópia de petição anexada aos autos 5003504-56.2022.8.13.0183, na qual a ora agravante afirma que recebe, de título de aluguel de um imóvel, a importância de R$ 4.000,00 (quatro mil reais) mensais, o que evidencia a desnecessidade de concessão do benefício.
+Assim, a obviedade na impossibilidade de alterar entendimento sobre documentos que já foram devidamente analisados por esta Relatora, não deixa dúvidas acerca da manifesta improcedência da presente irresignação recursal." (e-STJ fls. 937/938)
+Da leitura dos trechos acima, verifica-se que o acórdão recorrido está de acordo, portanto, com a jurisprudência do STJ acima mencionada, no sentido de que o magistrado pode indeferir o pedido de concessão do benefício da justiça gratuita se não encontrar elementos que comprovem a hipossuficiência da parte requerente.
+Ademais, alterar o decidido no acórdão impugnado, no sentido de analisar se foram ou não preenchidos, na hipótese, os requisitos necessários à concessão da gratuidade de justiça, bem como quanto à ausência de comprovação adequada da condição de hipossuficiência da recorrente, exigem o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Quanto à aplicação da multa prevista no art. 1.021, § 4º, do CPC, tem-se que a 2ª Seção deste STJ definiu que a sua aplicação "pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt nos EREsp 1.120.356/RS, 2ª Seção, DJe de 29/8/2016). No mesmo sentido: AgInt no AREsp 2.205.858/RJ, Terceira Turma, DJe de 3/11/2023; EDcl no AgInt no REsp 1.592.727/SP, Quarta Turma, DJe de 19/6/2023.
+Na hipótese sob análise, entretanto, o TJ/MG impôs a aplicação da penalidade ante o mero desprovimento do recurso manejado, de sorte que a parte agravante, ora recorrente, em verdade, apenas exerceu seu direito constitucional de ampla defesa ao impugnar decisão monocrática através da interposição de regular agravo interno.
+Logo, quanto ao ponto, o acórdão recorrido merece reforma, nos termos da Súmula 568/STJ, porque em dissonância com a jurisprudência do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III, IV, "a", e V, "a", do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO para afastar a aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. JUSTIÇA GRATUITA. DECLARAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO. MULTA AFASTADA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação rescisória.
+2. A jurisprudência do STJ é pacífica no sentido de que a presunção do estado de necessidade tem natureza relativa. Assim sendo, o magistrado está autorizado a indeferir o pedido do benefício da justiça gratuita se não encontrar elementos que comprovem a hipossuficiência da parte requerente. Precedentes.
+3. Alterar o decidido no acórdão impugnado, no sentido de analisar se foram ou não preenchidos, na hipótese, os requisitos necessários à concessão da gratuidade de justiça, bem como quanto à ausência de comprovação adequada da condição de hipossuficiência da parte recorrente, exigem o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+4. A aplicação da multa prevista no art. 1.021, § 4º, do CPC, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória. Precedentes.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
