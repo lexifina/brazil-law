@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOAQUIM XAVIER DE ANDRADE fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 257):
+"Apelação. Ação Revisional e Nulidade das Cláusulas Contratuais. Financiamento de Veículos. Insurgência do autor quanto às tarifas mencionadas.
+TARIFAS DE REGISTRO DE CONTRATO, DE AVALIAÇÃO DO BEM E DE CADASTRO - Insurgência contra a cobrança das respectivas tarifas.INADMISSIBILIDADE: É legal a cobrança da tarifa de registro e de avaliação do bem, considerando o entendimento do Superior Tribunal de Justiça, tendo em vista que não restou abusivo o valor cobrado, existindo comprovação de que os serviços foram prestados. Em relação à tarifa de cadastro, também não houve comprovação de abusividade. De acordo com a Súmula 566 do STJ, a tarifa é admitida desde que cobrada uma única vez no início do contrato e o valor não seja abusivo, o que ocorreu no caso em questão.
+SEGURO E CAPITALIZAÇÃO PARCELA PREMIÁVEL: Existência de boa-fé objetiva no desenvolvimento da relação contratual entre as partes. Autor/consumidor que anuiu de forma expressa e consciente, sem qualquer vício de consentimento, o que conduziu à legítima expectativa de regularidade da cobrança por parte da instituição financeira.
+DEVOLUÇÃO DE FORMA SIMPLES: Prejudicado, ante a legalidade da cobrança de todas as mencionadas tarifas.
+Sentença mantida. Recurso desprovido."
+Nas razões do recurso especial, a recorrente alega dissídio jurisprudencial e violação do art. 51 do CDC. Argumenta que a necessidade de restituição do valor cobrado a título de seguro, porquanto incluído em contrato de financiamento por adesão, sem observância dos requisitos essenciais, bem como sem esclarecimento do consumidor acerca dos correspondentes serviços que lhe seriam prestados. Afirma ainda que não foi dado ao consumidor a liberdade de escolher a seguradora com quem contrataria.
+Contrarrazões apresentadas às fls. 324-331 (e-STJ).
+É o relatório. Decido.
+De início, extrai-se do v. acórdão recorrido os seguintes fundamentos adotados como razão de decidir (e-STJ fls. 259-260):
+"Em relação ao Seguro, o Colendo STJ considerou que a venda é casada se o consumidor não tem a liberdade de escolher a seguradora de sua preferência (REsp nº. 1.639.259 SP e 1.639.320 SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 17.12.2018).
+No caso, vê-se que o contratante teve a liberdade para optar pela contratação do seguro prestamista, e lhe foi assegurado o direito de escolher a seguradora com a qual pretendia contratar, não configurando venda casada. (fls. 118).
+O Contrato foi livremente assinado pelo autor onde consta a seguinte informação: "Declaro ter tido conhecimento prévio da íntegra das Condições Gerais do presente Seguro e tenho conhecimento que também poderei consulta-la a qualquer momento através do site".
+Diante da legalidade de todas as tarifas discutidas, descabida a pretensão de devolução de valores de forma simples."
+Vê-se, portanto, que o eg. Tribunal de Justiça foi expresso em reconhecer ter sido ofertado ao consumidor a liberdade de escolher a seguradora que pretendia contratar. Nesse cenário, modificar a conclusão do v. acórdão recorrido demanda desta Corte Superior o reexame de fatos e provas, bem como a interpretação de cláusulas contratuais, atividade que escapa, em regra, aos limites estreitos do recurso especial. Incide o óbice das Súmulas 5 e 7 do STJ a inviabilizar o conhecimento do recurso especial.
+Com esses fundamentos, não conheço do recurso especial. Nos termos do art. 85, § 11º do CPC, majoro os honorários advocatícios fixados em 15% para 16% sobre o valor atualizado da causa, devendo ser observada eventual gratuidade de justiça concedida.
+Publique-se.
+EMENTA
