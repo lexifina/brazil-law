@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PROJETO IMOBILIÁRIO RLC 07 LTDA e PROJETO IMOBILIÁRIO RESIDENCIAL LINEA SPE 96 LTDA em face de decisão que deu provimento ao seu recurso especial, a fim de que julgue a demanda de acordo com a jurisprudência do STJ.
+Nas razões dos embargos, a parte embargante defende que existe omissão no julgado, uma vez que "A omissão é constatada na decisão, quando da devolução dos autos para o esgotamento das vias ordinárias, porquanto não se menciona a necessária análise diferenciada das Construtoras e Incorporadoras, as quais devem ser objeto de escrutínio cauteloso por parte dos Tribunais, dado que sua atividade econômica está diretamente relacionada à compra e venda de imóveis. No teor da decisão em análise, resta consignado que as demais alegações recursais estariam prejudicadas. Entretanto, a análise da questão que se busca apreciação nos presentes aclaratórios apenas demonstra a importância de conferir maior abrangência ao assunto, buscando evitar e interposição de eventuais futuros recursos sobre a mesma temática."
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+É de bom alvitre ressaltar que o art. 1.023, da novel codificação processual, exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, torna inviável o acolhimento da pretensão recursal.
+Sem razão à embargante.
+A decisão embargada assim decidiu a controvérsia:
+"A irresignação comporta provimento.
+Com efeito, cinge-se a controvérsia acerca da necessidade de esgotamento das diligências para efetivar a medida de indisponibilidade pelo CNIB.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+(..)
+Ocorre que a jurisprudência desta Corte se firmou no sentido da possibilidade de utilização do Central Nacional de Indisponibilidade de Bens (CNIB) de forma subsidiária após o esgotamento das medidas ordinárias e sempre sob o crivo do contraditório.
+A propósito:
+(..)
+Sendo assim, não estando a decisão de acordo com a jurisprudência desta Corte, em relação à necessidade de exaurimento dos meios executivos típicos, para determinar o retorno dos autos ao Tribunal de origem, para que julgue a demanda à luz da jurisprudência do STJ.
+Prejudicadas as demais alegações recursais.
+Ante o exposto, dou provimento ao recurso especial, a fim de que julgue a demanda de acordo com a jurisprudência do STJ.
+Publique-se." (grifou-se)
+Do trecho acima transcrito, verifica-se que o decisum entendeu por prejudicadas as demais alegações apresentadas, pois, uma vez não cumpridos os requisitos para utilização do CNIB, não há que se mencionar eventual desproporcionalidade na medida, que deve ser analisada na origem, após juízo de conformidade com a jurisprudência do STJ.
+Desse modo, revela-se nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso através da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios. A propósito, nesse sentido, confiram-se os seguintes precedentes:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA DE ALUGUÉIS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS
+RÉUS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 535, incisos I e II, do CPC/73 ou 1.022 do Código de Processo Civil de 2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+(..)
+4. Embargos de declaração rejeitados."
+(EDcl no AgInt no AREsp 1083820/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/12/2018, DJe 17/12/2018)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+(..)
+3. Embargos de declaração rejeitados, com fixação de multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do § 2º do art. 1.026 do CPC/2015."
+(EDcl nos EDcl no AgInt no REsp 1320651/PB, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/08/2018, DJe 10/09/2018)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
+EMENTA
