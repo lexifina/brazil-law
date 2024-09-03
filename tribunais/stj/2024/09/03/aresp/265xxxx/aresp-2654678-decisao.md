@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LUCAS MORETTO PIMENTA, AVEL ALFENAS VEÍCULOS LTDA, JOSE PIMENTA FREIRE, MARCELO GONÇALVES PIMENTA e GERALDO LUIZ VILELA, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/12/2023.
+Concluso ao gabinete em: 09/07/2024.
+Ação: de cobrança cumulada com rescisão contratual, ajuizada pelo agravado, em face dos agravantes, na qual se insurgem os agravantes contra o acórdão que reformou a decisão proferida pelo juízo de origem para deferir o pedido de substituição do depósito em dinheiro por seguro garantia.
+Decisão interlocutória: indeferiu o pedido para substituição do depósito em dinheiro de valores já levantados pelo banco, por seguro garantia.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo agravado, nos termos da seguinte ementa:
+Agravo de instrumento- Ação de cobrança c/c rescisão contratual - Insurgência em face de decisão que indeferiu o pedido para substituição do depósito em dinheiro de valores já levantados pelo banco, por seguro garantia - Cabimento do agravo de instrumento - Interpretação do art. 1.015, do CPC - Mitigação do rol possível, no caso concreto - Seguro garantia - Possibilidade - Observância do art. 835, § 2º do CPC Precedentes Opção eficiente para a satisfação do débito e para assegurar o resultado útil da execução, sem onerar excessivamente a parte - Hipótese de reforma da decisão agravada, observando-se que a garantia deve corresponder ao valor atualizado do débito, acrescido de 30% - Recurso provido, com observação. (e-STJ Fl. 186)
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 489, II, e § 1º, III, 502 a 508, 835, § 2º, e 1.022, II, do CPC. Além de negativa de prestação jurisdicional, sustentam que a manutenção do acórdão recorrido caracterizará ofensa à coisa julgada. Afirmam ser inaplicável, ao processo de conhecimento, as disposições relativas à substituição da penhora por seguro-garantia.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões e contradições do Tribunal de origem residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, quedou-se silente no que concerne às teses trazidas pela parte agravante, quais sejam: i) ofensa à coisa julgada (afronta aos arts. 502 a 508 do CPC); ii) inaplicabilidade, ao processo de conhecimento, das disposições relativas à substituição da penhora por seguro-garantia, e iii) possível nulidade do julgamento, em razão da irregularidade da representação processual de um dos agravados e sobre afronta aos arts. 76 e 314 do CPC.
+Da análise do processo, constata-se que o Tribunal, ao julgar os embargos de declaração, se limitou a afirmar que "no caso em exame, omissão, contrariedade ou obscuridade inexistem no julgado embargado, relevando notar, que, mesmo nos embargos de declaração com o fim de prequestionamento, devem ser observados os limites traçados pelo art. 1.022 do Código de Processo Civil." (e-STJ Fl. 237)
+Assim, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca dos pontos anteriormente elencados, bem como dos demais temas constantes nos embargos de declaração de e-STJ Fls. 216/232.
+No mesmo sentido: AgInt no AgInt no REsp 1.911.324/MT, Quarta Turma, DJe de 23/09/2021, REsp 1.872.264/RJ, Terceira Turma, DJe de 05/4/2022.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, a fim de anular o acórdão recorrido e determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre as teses acima assinaladas e deduzidas nos embargos de declaração de e-STJ Fls. 216/232.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO OPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação de cobrança cumulada com rescisão contratual.
+2. Caracteriza-se a ofensa ao art. 1022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a oposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, provido.
