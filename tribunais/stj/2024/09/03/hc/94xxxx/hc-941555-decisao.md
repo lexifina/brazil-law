@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Mayckon Gomes Correa - condenado pela prática do delito tipificado no art. 16 da Lei n. 10.826/2003 à pena de 4 anos, 5 meses e 3 dias de reclusão, em regime fechado, e pagamento de 30 dias-multa - contra ato coator do Tribunal de Justiça do Espírito Santo (Apelação n. 0002870-06.2022.8.08.0048), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de que o acórdão fundamentou a condenação em depoimentos dos policiais que possuem extremas divergências, pois chegam a se contradizerem, invocando, assim, a aplicação do princípio in dúbio pro reo, tal como fez o Juiz de primeiro grau; subsidiariamente, defende a fixação do regime inicial semiaberto, uma vez que o fechado foi estabelecido com fundamento apenas na reincidência do réu, sem qualquer outra motivação concreta que justifique o regime mais gravoso.
+Ocorre que, além da incompetência do Superior Tribunal de Justiça para o exame do writ, pois substitutivo de revisão criminal, já que a condenação transitou em julgado - informação extraída do sítio eletrônico do Tribunal de Justiça do Espírito Santo -, o mandamus não é a via adequada para modificar a conclusão do Tribunal a quo, a respeito da apreciação da prova produzida, sendo inviável a utilização da via eleita como uma segunda apelação, devendo ser preservada a convicção da instância ordinária, mais próxima dos fatos e da ação penal.
+Para tanto, existe a via da revisão criminal, fundamentada no art. 621, I, do CPP, que admite a revisão dos processos findos quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos.
+Ademais, não há ilegalidade a ser corrigida, no que se refere à fixação do regime inicial fechado, na medida em que se trata de réu reincidente e com maus antecedentes.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. PRETENSÃO DE ABSOLVIÇÃO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. FALTA DE CABIMENTO. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO E DO REGIME DE CUMPRIMENTO DA PENA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
