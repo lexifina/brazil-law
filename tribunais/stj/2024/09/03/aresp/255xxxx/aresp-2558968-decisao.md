@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial, interposto por G3 SECURITIZADORA DE ATIVOS S/A, contra decisão exarada pelo eg. Tribunal de Justiça do Estado de São Paulo que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional em face de v. acórdão assim ementado:
+AGRAVO DE INSTRUMENTO embargos de terceiro embargante, ora agravante, que é terceira na ação de execução e credora fiduciante dos executados bem penhorado na execução que foi dado em garantia ao exequente e, ao mesmo tempo, foi dado em alienação fiduciária à embargante ausência de boa-fé dos devedores já pontuado em agravo de instrumento anterior alegação da agravante de que não pode prevalecer a penhora sobre o bem em razão da alienação fiduciária contudo, a agravante detém apenas a propriedade resolúvel e não plena, apenas a expectativa de consolidação da propriedade plena, razão pela qual a penhora dos direitos de crédito incidentes sobre o bem imóvel deve prevalecer em favor do exequente, já que tais direitos de crédito ainda integram o patrimônio dos devedores ausência dos pressupostos dos arts. 300 e 678 do CPC para a concessão da tutela de urgência no sentido de deferir o efeito suspensivo e a suspensão das medidas constritivas sobre o bem precedente da Câmara recurso não provido.
+Nas razões do apelo nobre, a parte agravante aponta ofensa aos arts. 678, 919, §1º, do CPC/15, bem como divergência jurisprudencial, ao argumento, entre outros, de que " (..) a Recorrente possui a propriedade fiduciária do bem penhorado, sendo suficiente para que se determine a suspensão dos atos de constrição deferidas sobre o imóvel, até que a questão seja julgada de forma definitiva em sede de Embargos, nos termos do Art. 678, do CPC" (fl. 88).
+Afirma que a penhora não recaiu sobre os direitos da parte executada, e sim sobre a totalidade do bem, e que "não há dúvidas acerca da propriedade fiduciária desta recorrente, constando o registro da alienação na própria matrícula do imóvel, em momento anterior a penhora" (fl. 89).
+É o relatório. Passo a decidir.
+Cinge-se a pretensão recursal à verificação dos requisitos para a concessão de suspensão dos atos de constrição referente ao imóvel de matrícula 3342 registrado junto ao Cartório de Registro de Imóveis de Tambaú/SP.
+No caso dos autos, o acórdão recorrido expressamente afastou a existência dos requisitos para a concessão da suspensão pleiteada, consoante se divisa da transcrição abaixo, verbis:
+A ação de origem versa sobre embargos de terceiros opostos por decorrência de ação de execução na qual foram penhorados os direitos de crédito dos executados sobre bem imóvel que está sob alienação fiduciária em favor da ora agravante.
+Este relator já teve oportunidade de analisar um recurso de agravo de instrumento anterior no qual os executados se insurgiram contra a penhora dos direitos de crédito relativos ao bem imóvel.
+Confira-se:
+(..)
+Como visto no acórdão integralmente copiado, a os executados não agiram com boa-fé.
+Ofertaram o mesmo bem de matrícula nº 3342 do RI de Tambaú/SP em garantia de pagamento da dívida ao exequente Banco Itaú, dívida esta que já era objeto da ação de execução e sobre a qual houve acordo de pagamento homologado judicialmente com a oferta desse bem em garantia.
+Sabedores dessa situação, os executados aceitaram dar esse mesmo bem em alienação fiduciária à ora embargante G3, que alega nada saber a respeito.
+Contudo, embora não houvesse, de fato, penhora àquele momento, os executados já haviam sido citados na ação de execução e, portanto, não é crível a alegação da G3 de que "nada sabia" acerca das dificuldades financeiras pelas quais passavam os devedores.
+A penhora dos direitos de crédito sobre o imóvel de matrícula nº 3342 foi efetivada com a observância de todas as garantias, inclusive com a intimação da credora fiduciária para o exercício de seu direito, como efetivamente está ocorrendo com o ajuizamento dos embargos de terceiro.
+Nos termos do art. 678 do CPC a decisão que reconhecer suficientemente provado o domínio ou a posse determinará a suspensão das medidas constritivas sobre os bens litigiosos objeto dos embargos, bem como a manutenção ou a reintegração provisória da posse, se o embargante a houver requerido.
+Ocorre que não há qualquer motivo que autorize a suspensão das medidas constritivas pretendida.
+Isso porque embora seja certo que a agravante detém a propriedade fiduciária, tal propriedade apenas se consolidará caso os devedores deixem de pagar o montante devido e garantido, momento no qual estaria apta a realizar, então, o procedimento administrativo de consolidação.
+A agravante não é titular da propriedade plena.
+Conclui-se, portanto, que a agravante tem a expectativa de consolidar o direito pleno de propriedade, razão pela qual a penhora dos direitos do crédito é lícita e deve prevalecer em favor do exequente, pois tais direitos ainda permanecem na esfera patrimonial dos executados.
+Ausentes, portanto, os pressupostos do art. 300 do CPC e, assim, inviável a concessão da tutela de urgência para a suspensão dos embargos e das medidas de constrição sobre o bem.
+(..)
+A alegação da agravante de que a penhora não recaiu sobre os direitos de crédito não se sustenta, pois tal ponto já foi esclarecido na própria ação de execução a fls. 400.
+Também não é o caso de forçar a substituição da penhora pois já houve essa tentativa na ação de execução e o exequente recusou, como lhe permite a lei, recusa essa que foi acolhida pelo i. magistrado.
+Tais questões extrapolam o objeto deste recurso e, se o caso, devem ser debatidas na origem, nos embargos de terceiro, embora já tenham sido decididas na ação de execução como dito.
+Portanto, na espécie, a instância julgadora a quo concluiu pelo inexistência de comprovação dos requisitos para a concessão de efeito suspensivo. Dessa forma, a pretensão recursal, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, em razão da incidência da Súmula n. 7/STJ.
+A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA QUE ADMITE O PROCEDIMENTO. EXPEDIDA ORDEM DE DESOCUPAÇÃO DO IMÓVEL. MANDADO DE IMISSÃO NA POSSE. AFIRMAÇÃO DA LEGITIMIDADE DAS PARTES. AFIRMAÇÃO DA PARTICIPAÇÃO DAS PARTES NA FASE DE CONHECIMENTO. AFIRMAÇÃO DE INEXISTÊNCIA DE FATO OBSTATIVO DO PROSSEGUIMENTO DA EXECUÇÃO PROVISÓRIA. SUCESSÃO PROCESSUAL NÃO EXAMINADA PELO JUÍZO DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. EMBARGOS DE TERCEIROS SEM EFEITO SUSPENSIVO NO MOMENTO. AFIRMAÇÃO. DESNECESSIDADE DE TRÂNSITO EM JULGADO. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ e 282/STF).
+3. O exame da pretensão recursal exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, reinterpretação de cláusula contratual, situação que faz incidir os enunciados de Súmula 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.783.500/PR, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 29/6/2021, DJe de 2/8/2021 - sem grifo no original).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EMBARGOS DE TERCEIROS - APELAÇÃO RECEBIDA APENAS NO EFEITO DEVOLUTIVO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DO EMBARGANTE.
+1. É vedado, em sede de recurso especial, o exame da presença dos pressupostos para a atribuição de efeito suspensivo à apelação nos embargos de terceiros, porquanto tal providência demandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da Súmula nº 7 do STJ. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 869.777/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 13/6/2017, DJe de 22/6/2017).
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial,
+Publique-se.
+EMENTA
