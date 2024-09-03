@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ , impetrado em benefício de CESAR AUGUSTO DA SILVA - condenado, ao lado de outros, pela prática do crime do art. 157, § 2º, II, e § 2º-A, I, do Código Penal, por oito vezes, observado o concurso formal de crimes, ao cumprimento de 17 anos, 9 meses e 9 dias de reclusão, em regime inicial fechado, e ao pagamento de 42 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 1509879-06.2021.8.26.0071), não comporta processamento.
+Com efeito, busca a impetração o reconhecimento da nulidade - em vista da inobservância do regramento contido no art. 226 do CPP e da inadequada utilização da interceptação telefônica - e fragilidade da prova para a comprovação da autoria do ora paciente; ou a revisão da reprimenda aplicada, com o afastamento do concurso formal impróprio.
+Ocorre que, em consulta à página eletrônica do Tribunal a quo, verifiquei que o habeas corpus foi impetrado concomitantemente à interposição de recurso especial, a evidenciar ofensa ao princípio da unirrecorribilidade e utilização abusiva da via eleita, o que torna inadmissível o conhecimento dos pedidos.
+Ademais, não se percebe a ocorrên cia de constrangimento ilegal manifesto, considerando-se a inviabilidade de aprofundado reexame de provas - muitas das quais nem sequer constam destes autos - para rever as conclusões da Corte estadual quanto à regularidade e suficiência do material que amparou a condenação; e a inexistência de interesse de agir no que se refere à aplicação do concurso formal de crimes, visto que a modalidade aplicada foi justamente a pretendida, qual seja, o concurso formal próprio (cf. fl. 57 - pena de um dos crimes de roubo aumentada de metade).
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE ROUBO MAJORADO (POR OITO VEZES). NULIDADE E FRAGILIDADE DA PROVA OU REVISÃO DA DOSIMETRIA DA PENA. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL EM FACE DO MESMO ACÓRDÃO DA CORTE A QUO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
