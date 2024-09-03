@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação dos arts. 489, § 1º, III, 496, 1.022, II, e 1.025 do CPC/2015 e da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 883/885).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 766):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA. SENTENÇA CONDENATÓRIA DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO E EXCLUSÃO DE CADASTRO DE INADIMPLENTES. AUSÊNCIA DE CONDENAÇÃO INDENIZATÓRIA. IRRESIGNAÇÃO DOS RÉUS/APELANTES TÃO SOMENTE EM RELAÇÃO AO MONTANTE DA VERBA ADVOCATÍCIA ARBITRADA. PRETENDIDA A FIXAÇÃO POR EQUIDADE. POSSIBILIDADE. DEMANDA CUJO O PROVEITO ECONÔMICO É INESTIMÁVEL. FIXAÇÃO POR EQUIDADE QUE SE IMPÕE. INTELIGÊNCIA DO ART. 85, § 8º, DO CÓDIGO DE PROCESSO CIVIL DE 2015 E DO TEMA 1076 DO STJ. SENTENÇA REFORMADA NO PONTO. RECURSOS CONHECIDOS E PROVIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 802/804).
+Nas razões do recurso especial (e-STJ fls. 816/847), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, III, 496, 1.022, II, e 1.025 do CPC/2015, aduzindo omissão do acórdão recorrido acerca (a) das disposições contidas nos arts. 10, 292, II, 293, 926 e 927 do CPC/2015, (b) da tese firmada no Tema Repetitivo n. 1.076 e (c) da alegação de supressão de instância e preclusão diante da inexistência de preliminar de impugnação ao valor da causa, e
+(ii) art. 85, § 2º, do CPC/2015, defendendo, em suma, que, "atribuído à causa o valor a ser declarado inexigível, como determina a legislação, os honorários devem ser aplicados nos termos do art. 85, § 2º do CPC" (e-STJ fl. 842). Acrescenta que "o CPC e o Tema 1.076 são claros ao estabelecer a ordem de preferência na fixaçãodos honorários de sucumbência" (e-STJ fl. 845).
+No agravo (e-STJ fls. 893/90), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminutas apresentadas às fls. 915/922 e 924/932 (e-STJ).
+É o relatório.
+Decido.
+Trata-se, na origem, de "Ação declaratória com pedido de tutela de urgência", ajuizada por RUDINEI SOARES FALCÃO contra BANCO SANTANDER S.A., RECOVERY DO BRASIL e FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS - NPL I.
+Em primeira instância, o feito foi julgado procedente perante BANCO SANTANDER S.A. e FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS - NPL I, para (i) "DECLARAR a inexigibilidade dos empréstimos relatados à baila (ev.1, outros 5) e que os requeridos vinham cobrando em face do autor" e (ii) "DETEMINAR que os réus excluam o nome do pugnante de eventuais cadastros de inadimplentes, e afinal, negativados por eles" (e-STJ fl. 492).
+Na oportunidade, BANCO SANTANDER S.A. e FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS - NPL I foram condenados a arcar com honorários sucumbenciais fixados em "10% do valor atualizado da causa" (e-STJ fl. 492).
+Interpostas apelações pelas partes vencidas  em que sustentaram a abusividade do quantum arbitrado a título de honorários sucumbenciais  , os recursos foram providos, "para reduzir os honorários advocatícios para o montante de R$ 6.500,00 (seis mil equinhentos reais)" (e-STJ fl. 768), havendo o Tribunal de origem entendido no seguinte sentido (e-STJ fl. 768):
+É cediço que a atual legislação processual expressa preferência a que sejam observados os montantes da condenação, do proveito econômico ou da causa.
+Acontece que, no caso dos autos, esses critérios não têm como ser aplicados.
+Isso porque, além de o decreto condenatório não ter envolvido quantia monetária, o valor da causa não reflete o proveito econômico perseguido pelo Autor/Apelado, que, por sua vez, mostra-se inestimável.
+Está-se, portanto, diante de proveito econômico e, consequentemente, de valor da causa inestimáveis, justamente as hipóteses autorizadoras da aplicação do § 8º do art. 85 do Digesto Processual Civil.  ..
+ ..
+Nessa intelecção, no caso concreto, concluo que os honorários advocatícios devem ser fixados segundo o critério equitativo.
+ ..
+Assim, nos termos da presente fundamentação, reduzo a verba advocatícia fixada para o importe de R$ 6.500,00 (seis mil e quinhentos reais), nos termos do art. 85, §§ 8º e 8º-A e 87, § 2º, todos do CPC.
+Contudo, "o entendimento da Segunda Seção desta eg. Corte é de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro Raul Araújo, Segunda Seção, DJe de 29/3/2019)" (AgInt no AREsp n. 1.321.921/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/11/2022, DJe de 2/12/2022 - grifei).
+Ainda quanto ao alcance da norma inserta no § 8º do art. 85 do CPC/2015, a Corte Especial deste Tribunal Superior, no julgamento do REsp n. 1.850.512/SP (relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022), submetido ao rito dos recursos repetitivos (Tema n. 1.076/STJ), firmou as seguintes teses (grifei):
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso dos autos, em que foi atribuído à causa o valor de R$ 1.092.218,32 (um milhão e noventa e dois mil e duzentos e dezoito reais e trinta e dois centavos)  correspondente ao débito declarado inexigível  , estão ausentes os requisitos para o arbitramento de honorários por equidade, em atenção à segunda tese.
+Nessa hipótese, em que a declaração de inexistência de dívida contém evidente proveito econômico, o qual, por sua vez, equivale ao valor atribuído à causa, os honorários advocatícios devem ser fixados sobre essa base de cálculo, afastada a incidência do art. 85, § 8º, do CPC/2015 (AgInt no REsp n. 2.053.152/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+Ademais, a teor da primeira tese, tampouco justifica a fixação dos honorários por apreciação equitativa o fato de o valor da causa ser elevado, sendo obrigatória, nesse caso, a observância dos percentuais previstos no § 2º do art. 85 do CPC/2015, conforme efetivado em primeira instância.
+Assim, procede a insurgência recursal.
+Ante o exposto, DOU PROVIMENTO ao recurso, para restabelecer a sentença de fls. 488/492 (e-STJ).
+Publique-se e intimem-se.
+EMENTA
