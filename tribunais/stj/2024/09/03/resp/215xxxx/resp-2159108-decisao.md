@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado por Agência Nacional de Telecomunicaçoes com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 30):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA ONLINE. SISBAJUD. TEIMOSINHA.
+1. Em que pese haja previsão da modalidade de reiteração automática de ordens de bloqueio, a medida, ainda que por prazo determinado, se por um lado facilita a atividade judicial em atenção ao interesse do credor, por outro é capaz de inviabilizar o exercício da atividade econômica do devedor ao privá-lo de todos os recursos financeiros que ingressam em sua conta-corrente.
+2. A reiteração automática, na verdade, significa a penhora de 100% do faturamento do devedor, o que se afigura desarrazoado.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 47/49.
+A parte recorrente aponta violação aos arts. 1022, II e II, do CPC, 835, I, 854, §3º,I, §5º, 789, 797 do CPC e 7º, II, 9º, 10 e 11 , I, da LEF. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca dos dispositivos de lei tidos como violados; (II) a impenhorabilidade não foi suscitada pela parte contrária, tendo o magistrado decidido de ofício, o que afronta o princípio na qual a execução deve ser promovida com base no interesse do credor e (III) é cabível a utilização do sisbajud com a ferramenta "teimosinha", tendo em vista que o ônus da prova da impenhorabilidade é do executado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II e III, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Adiante, a irresignação merece prosperar.
+Com efeito, o entendimento deste Superior Tribunal de Justiça é no sentido de que "A modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções, e não é revestida, por si só, de qualquer ilegalidade, porque busca dar concretude aos arts. 797, caput, e 835, I, do CPC, os quais estabelecem, respectivamente, que a execução se desenvolve em benefício do exequente, e que a penhora em dinheiro é prioritária na busca pela satisfação do crédito". Além disso, "A medida deve ser avaliada em cada caso concreto, porque pode haver meios menos gravosos ao devedor de satisfação do crédito (art. 805 do CPC), mas não se pode concluir que a ferramenta é, à primeira vista, ilegal" (REsp n. 2.034.208/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023.).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. SISBAJUD. PENHORA ON-LINE. REITERAÇÃO AUTOMÁTICA. MODALIDADE "TEIMOSINHA". LEGALIDADE.
+1. Ambas as Turmas da Primeira Seção do STJ adotam a compreensão no sentido da legalidade da modalidade de reiteração programada de bloqueio via Sisbajud, denominada "teimosinha", devendo ser avaliada sua utilização em cada caso concreto, à luz do art. 805 do CPC/2015 (princípio da menor onerosidade). Precedentes.
+2. Na hipótese dos autos, não houve fundamento em concreto para concluir pela impossibilidade da medida, uma vez que a Corte de origem apenas consignou que essa constrição poderia, em tese, trazer prejuízo à atividade empresarial.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.134.527/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA ONLINE. USO DA FERRAMENTA DENOMINADA "TEIMOSINHA". POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
+1. Deve ser reformado o acórdão que indefere o uso da ferramenta denominada "teimosinha" para pesquisa e bloqueio de bens do devedor, porquanto seu uso confere maior celeridade na busca de ativos financeiros e efetividade na demanda executória.
+2. Recurso especial provido.
+(REsp n. 2.121.333/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+Assim, o Tribunal de origem decidiu a controvérsia com base no seguinte fundamento: "em que pese haja previsão da modalidade de reiteração automática de ordens de bloqueio, a medida, ainda que por prazo determinado, se por um lado facilita a atividade judicial em atenção ao interesse do credor, por outro lado é capaz de inviabilizar o exercício da atividade econômica do devedor ao privá-lo de todos os recursos financeiros que ingre ssam em sua conta-corrente. A reiteração automática, na verdade, significa a penhora de 100% do faturamento do devedor, o que não pode ser aceito" (fl. 29).
+Por estar em dissonância com entendimento desta Corte Superior, merece reparos o acórdão recorrido para que o Tribunal de origem proceda com nova análise do agravo de instrumento a fim de seja decidido com base nos elementos concretos apresentados pelos litigantes.
+ANTE O EXPOSTO, dou provimento ao recurso especial com base na fundamentação supra.
+Publique-se.
+EMENTA
