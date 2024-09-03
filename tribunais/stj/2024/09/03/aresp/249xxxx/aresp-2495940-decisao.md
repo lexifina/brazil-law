@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por CHELNARE CONFECÇÕES LTDA - EMPRESA DE PEQUENO PORTE em face de decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do art. 105, III, da Constituição, interposto contra acórdão proferido pelo eg. Tribunal de Justiça de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO. AUSÊNCIA DE CONTEÚDO DECISÓRIO DE PARTE DA MATÉRIA AGRAVADA. NÃO CABIMENTO. COMPENSAÇÃO. POSSIBILIDADE EM TESE. LITIGÂNCIA DE MÁ-FÉ. NÃO CONSTATAÇÃO.
+Se parte da decisão não tem cunho decisório, o recurso não pode ser conhecido quanto a esta matéria.
+A compensação, nos termos do art. 368 do Código Civil, é um modo de extinção de obrigação, até onde se equivalerem, entre pessoas que são, ao mesmo tempo, devedora e credora uma da outra.
+Não tendo sido violado qualquer dos incisos do artigo 80, do CPC/2015, não pode haver condenação da parte ao pagamento de multa por litigância de má-fé.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 80, 81, 489, § 1º, 1.022, do Código de Processo Civil de 2015. Alega isto: (I) negativa de prestação jurisdicional e falta de fundamentação, pois "o DD. Desembargador Relator deixou de analisar os argumentos apresentados pela Recorrente, relativos à intempestividade da impugnação e, ainda, aos limites da impugnação prevista no artigo 525, § 11 do CPC. A análise e o debate de tais argumentos, constantes do Agravo de Instrumento, se fazem de extrema necessidade, pois, caso seja reconhecida a intempestividade da impugnação dos cálculos de liquidação, não há de se falar sequer em remessa à Contadoria Judicial, pois a discussão acerca de valores da condenação já estaria superada pela preclusão" (fl. 1.231); (II) não foi enfrentado o argumento sobre a inexistência de determinação de compensação na decisão condenatória que gerou a liquidação e o posterior cumprimento de sentença; (III) omissão no tocante à aplicação das penalidades do art. 523, § 1º, do CPC, considerando o intempestivo pagamento da condenação relativa aos honorários advocatícios de sucumbência; (IV) contradição no acórdão objurgado, "uma vez que, muito embora o DD. Desembargador Relator tenha consignado que não se configurou a lide temerária, reconhecendo ser "inviável a aplicação da respectiva multa" condenou a Recorrente por litigância de má-fé. Além disso, ao apreciar os Embargos de Declaração apresentados pela Recorrente, o DD. Desembargador Relator consignou que "quanto à alegação de contradição em razão da não aplicação da litigância de má-fé, este é o entendimento da Turma Julgadora, não havendo qualquer contradição na decisão agravada" " (fl. 1.233); (V) "a Recorrente não praticou qualquer das condutas elencadas no artigo 80 do CPC para ser condenada no pagamento da multa por litigância de má-fé prevista no artigo 81 do CPC" (fl. 1.235).
+É o relatório. Passo a decidir.
+O apelo merece prosperar no tocante à ofensa aos arts. 489 e 1.022 do CPC/2015.
+Compulsando os autos, infere-se que nos embargos de declaração (fls. 1.200-1.207) fo i requerida a análise de pontos como se infere da leitura do seguinte excerto das razões recursais:
+"Resta evidente, portanto, que aberto o prazo para manifestação conforme previsão do artigo 525, § 11 do CPC não caberia mais ao Banco Agravado rediscutir o valor da execução.
+E a remessa dos autos à Contadoria Judicial significa que a MMª Juíza de 1º Grau entendeu ser válida tal discussão, até mesmo porque determinou a "devida apuração dos valores remanescentes e eventualmente compensados".
+Obviamente, se não há prazo para impugnar o valor da execução, não se faz necessária a remessa dos autos à Contadoria Judicial, pois o valor indicado pela Agravante, que, aliás, é o mesmo apurado pela Expert, não é passível de contestação.
+Entretanto, observa-se que esta D. Câmara Cível DEIXOU DE ANALISAR os argumentos apresentados pela Agravante, relativos à INTEMPESTIVIDADE DA IMPUGNAÇÃO e, ainda, aos LIMITES DA IMPUGNAÇÃO PREVISTA NO ARTIGO 525, § 11 DO CPC.
+(..)
+A atenta análise das razões do Agravo de Instrumento deixa evidente que a Agravante argumentou sobre a INEXISTÊNCIA DE DETERMINAÇÃO DE COMPENSAÇÃO na decisão condenatória que gerou a liquidação e o posterior cumprimento de Sentença.
+Neste sentido, a Agravante esclareceu que A DECISÃO PROFERIDA NOS AUTOS DETERMINOU A RESTITUIÇÃO DOS VALORES COBRADOS INDEVIDAMENTE, não constando da Sentença ou do Acórdão da Apelação qualquer determinação concernente à compensação de valores com eventuais débitos da Agravante para com o Banco Agravado.
+Isso porque A SENTENÇA PROFERIDA NOS AUTOS NÃO DETERMINOU QUALQUER COMPENSAÇÃO, mas, TÃO SOMENTE, a RESTITUIÇÃO DOS VALORES PAGOS A MAIOR pela Agravante.
+Ocorre que TAL ARGUMENTO NÃO FOI ENFRENTADO POR ESTA D. CÂMARA CÍVEL por ocasião do julgamento do Agravo de Instrumento.
+(..)
+Vejam que, mesmo tendo o Banco Agravado reconhecido serem devidos os honorários advocatícios, no valor de R$ 14.876,20, a MMª Juíza de 1º Grau indeferiu o pedido de multa de 10% e de honorários advocatícios de 10%, previstos no artigo 523, § 1º do CPC.
+A atenta análise dos autos demonstra que o pagamento de tais honorários se deu após o prazo de 15 dias previstos no artigo 523 do CPC, razão pela qual devem incidir das penalidades do § 1º do referido artigo.
+Ocorre que este Juízo não analisou tal pedido, devendo essa OMISSÃO ser sanada através do ACOLHIMENTO destes EMBARGOS DE DECLARAÇÃO.
+(..)
+Resta evidente, portanto, a CONTRADIÇÃO constante do Acórdão, uma vez que, muito embora o DD. Relator tenha consignado que não se configurou a lide temerária, reconhecendo ser "inviável a aplicação da respectiva multa" condenou a Agravante por litigância de má-fé.
+Assim, tal CONTRADIÇÃO deverá ser sanada por meio do ACOLHIMENTO destes EMBARGOS DE DECLARAÇÃO, até mesmo por que a Agravante não deu causa a qualquer motivo para a sua condenação por litigância de má-fé."
+De fato, com a devida vênia, a eg. Corte Estadual rejeitou os aclaratórios sem examinar as referidas teses, que podem vir a influenciar no desate da presente lide.
+Por sua vez, a iterativa jurisprudência desta eg. Corte é no sentido de que fica caracterizada a violação ao art. 1.022 do CPC/2015, quando o eg. Tribunal a quo deixa de examinar temas essenciais ao debate da controvérsia, apesar de devidamente provocado em sede de embargos de declaração. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. SEGURO DE VIDA EM GRUPO. LIMITAÇÃO DE COBERTURA. INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD) E INVALIDEZ LABORATIVA PERMANENTE TOTAL POR DOENÇA (ILPD). INTERPRETAÇÃO RESTRITIVA. APOSENTADORIA. ÓRGÃO PREVIDENCIÁRIO. PERÍCIA. NECESSIDADE.
+(..)
+4. O acórdão recorrido não se manifestou sobre questões essenciais para o julgamento da causa, pressuposto indispensável para o exame do recurso especial, motivo pelo qual reconhece-se a ofensa ao art. 535 do Código de Processo Civil.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 952.515/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017 - grifou-se)
+"AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA RÉ.
+1. Violação ao art. 535 do Código de Processo Civil configurada. Acórdão estadual que não enfrentou todos os aspectos essenciais à resolução da controvérsia. Existência de ponto omisso relativamente à conduta da agravada, cuja elucidação mostra-se relevante para o deslinde da controvérsia, a qual gira em torno da existência de responsabilidade da empresa de transporte com relação aos eventos danosos suportados pela agravada
+2. Agravo regimental desprovido."
+(AgRg no AREsp 197.146/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/02/2016, DJe 23/02/2016 - grifou-se)
+Nesse senda, deve ser reconhecida a violação ao art. 1.022 do CPC/2015, para anular o v. acórdão que julgou os aclaratórios, e determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando as omissões e contradições ora reconhecidas.
+Resta prejudicada a análise das demais teses em razão do provimento do recurso especial.
+Ante o exposto, dou parcial provimento ao recurso especial a fim apenas de reconhecer a violação ao art. 1.022 do CPC/2015, anulando-se o v. acórdão de fls. 1.216-1.222 e determinando-se o retorno dos autos ao eg. Tribunal de origem para promover novo julgamento dos embargos de declaração, como entender de direito.
+Publique-se.
+EMENTA
