@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE CARLOS BRUNO em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO - EXPURGOS INFLACIONÁRIOS - AÇÃO CIVIL PÚBLICA - LIQUIDAÇÃO DE SENTENÇA - Homonímia - Banco prova que o titular da conta-poupança descrita na inicial é outra pessoa de mesmo nome do autor - Apelante que não trouxe provas de que fosse titular de conta-poupança à época dos fatos - Inocorrência de preclusão - Matéria de ordem pública - Levantamento que não obsta o reconhecimento da ilegitimidade ativa -Impossibilidade de se acolher o inconformismo.
+Recurso desprovido" (e-STJ fls. 351)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 366/368)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 5º, LV da Constituição Federal, artigos 85, §§ 8º 10º, art. 309 do Código Civil c/c art. 06º do CDC e 373, II do CPC/15, sustentando, em síntese que: 1) foi o próprio Banco Recorrido que forneceu o extrato da conta executada, o qual deu origem a distribuição da presente demanda razão pela qual arcar com a condenação de 10% de honorários ao valor da causa; 2) não há que se falar em homonímia, pois o recorrido não apresentou nenhum documento hábil a comprovar tal situação e 3) é evidente a titularidade do Recorrente em relação à conta poupança executada.
+É o relatório. Decido.
+De início, cumpre destacar que não se admite apreciação, nesta instância excepcional, de matéria constitucional, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+No que se refere à tese de que o Banco Recorrido deve arcar com a condenação ao pagamento dos honorários, verifica-se a ausência de interesse recursal, uma vez que a sentença já imputou o pagamento de tal verba ao banco recorrido e que não houve reforma da sentença em sede apelação.
+Já quanto à alegada ausência de homonímia e à titularidade do Recorrente em relação à conta poupança executada, a Corte de origem assim decidiu:
+"Nos autos constata-se a existência de J.C.B., contudo, está claro que não se tratam estes das mesmas pessoas.
+Fundamental é que, analisados os documentos de fls. 216 percebe-se que titular de conta-poupança no Banco Nossa Caixa na época dos fatos narrados na vestibular é J.C.B., CPF nº 222.XXX.XXX.-87, e o titular dessa execução tem o CPF Nº 080.XXX.XXX.25, portanto, não se trata da mesma pessoa.
+Não há o que se falar em preclusão relativa a matéria da homonímia.
+Em nenhum momento tal questão foi anteriormente levantada e analisada nos autos, e como envolve ordem pública, não se dá aqui a levantada preclusão.
+Ainda que após a apresentação de defesa, veio o apelado levantar questão referente à legitimidade ativa do recorrente, ilegitimidade esta fundada no fato de que há homonímia entre o autor e o verdadeiro correntista titular das contas-poupança nos autos tratadas.
+Ora, tal pode ser admitido e gera a consequência ocorrida nos autos, porquanto esse tipo de arguição pode ser feita a qualquer momento nos autos.
+O fato de ter sido autorizado o levantamento não faz modificar-se o estado da parte, que continua sendo parte ilegítima, pois não se trata do correntista titular do valor indicado na inicial, o que, poderia ter sido reconhecido pelo próprio apelante, o qual não pode querer permanecer com valor que não lhe pertence, que nunca lhe disse respeito.
+Nestes termos ficam rejeitadas as preclusões aduzidas.
+Diante destas evidências, nada mais é necessário discutir-se, porquanto reconhecida a ilegitimidade ativa do apelante, este não tem direito a realizar qualquer questionamento sobre as contas-poupança sobre as quais nunca teve a titularidade.
+Razão assiste ao banco, pois como a parte exequente não demonstra ser titular de conta alguma na Nossa Caixa, e, portanto, na ausência de tal prova não há como defender que sua iniciativa de requerer a apresentação de extrato, mesmo sem qualquer certeza quanto a ser titular de conta que fizesse surgir seu interesse na execução, teria algum sentido, e sendo assim, não poderá levantar valores que não lhe pertence." (e-STJ fls, 352)
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. EXIBIÇÃO DOS EXTRATOS BANCÁRIOS. INVERSÃO DO ÔNUS DA PROVA EM FAVOR DO CORRENTISTA. POSSIBILIDADE. DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA EXISTÊNCIA DA CONTRATAÇÃO. REEXAME DE PROVAS. DESNECESSIDADE NO PRESENTE CASO. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção desta Corte, quando do julgamento do REsp 1.133.872/PB, submetido ao rito dos recursos repetitivos, pacificou o entendimento de que é cabível a inversão do ônus da prova em favor do consumidor para o fim de determinar às instituições financeiras a exibição de extratos bancários. Entendeu, no entanto, que incumbe ao correntista a demonstração da plausibilidade da relação jurídica alegada, com indícios mínimos capazes de comprovar a existência da contratação.
+2. É cabível a inversão do ônus da prova, uma vez que estão presentes, in casu, indícios mínimos capazes de comprovar a existência e a titularidade das contas-poupança, havendo dúvida tão somente quanto à existência de saldo nos períodos referentes ao Plano Verão (janeiro de 1989), Plano Collor I (abril de 1990) e Plano Collor II (fevereiro/91).
+3. A análise da controvérsia, no presente caso, prescinde de novo exame de provas e de fatos, razão pela qual não incide o óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 160.899/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/9/2015, DJe de 13/10/2015.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APRESENTAÇÃO DOS EXTRATOS DE CADERNETA DE POUPANÇA. NÃO DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA EXISTÊNCIA DA CONTA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Compete à instituição financeira exibir os extratos bancários necessários à comprovação das alegações do correntista referentes a expurgos inflacionários em caderneta poupança, desde que se demonstre, com indícios mínimos, a existência da contratação no período equivalente à data dos extratos requeridos (REsp 1.133.872/PB, SEGUNDA SEÇÃO, Rel. Min. MASSAMI UYEDA, DJe de 28/3/2012).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem entendeu que o autor não se desincumbiu do ônus de demonstrar, ao menos, indícios da existência de titularidade da conta. Alterar tal conclusão demandaria o exame da prova dos autos, inviável em recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.372.388/MA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/11/2013, DJe de 18/11/2013.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar a verba honorária, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, em razão da ausência de fixação de honorários em favor do recorrido na origem.
+Publique-se.
+EMENTA
