@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS DOMINGOS PILLA CREPALDI, desafiando decisão que inadmitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 456):
+APELAÇÃO CÍVEL. Ação declaratória de inexistência de débito c.c. indenização por danos morais. Sentença de procedência. Insurgência das partes.
+PRELIMINAR arguida pelo Réu. Falta de interesse em razão da ausência de pretensão resistida. Afastamento, sob pena de violação ao princípio da inafastabilidade da jurisdição.
+MÉRITO. Autor que alega não ter contratado empréstimo bancário. Recebimento dos valores incontroverso nos autos. Devolução da quantia através de pagamento de boleto. Beneficiário do crédito que não era aquele constante no boleto.
+Incúria do Autor. Excludente de responsabilidade. Inteligência do artigo 14, § 3º, inciso II, do CDC. Culpa exclusiva de terceiro e da vítima. Precedentes. Sentença reformada.
+Inversão do ônus sucumbencial. Recurso do autor improvido. Recurso do Réu provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o agravante aponta violação dos arts. 927, IV, do CPC/15, 940, do Código Civil, 6º, VIII, 14, § 1º, I a III, 42, parágrafo único, do CDC, bem como à Súmula 479 do STJ, bem como divergência jurisprudencial, afirmando isto: (I) "(..) nesse caso, a responsabilidade é do banco Recorrido, uma vez que este deu causa a fraude perpetrada por terceiros, em razão da contratação fraudulenta de empréstimo consignado e da evidente insegurança dos serviços, sendo sua a culpa exclusiva, por não ter prestado ao Recorrente serviço seguro e eficaz" (e-STJ, fl. 484); (II) houve fortuito interno que permitiu a prática da fraude ao autorizar a contratação de empréstimo consignado a terceiro; (III) necessária restituição dos valores pagos indevidamente.
+É o relatório. Passo a decidir.
+Inicialmente, quanto à alegação de ofensa à Súmula 479 do STJ, tem-se que indicação de ofensa à súmula não enseja a abertura do recurso especial, por não se enquadrar no conceito de lei previsto no art. 105, inciso III, alínea "a", da Constituição Federal. Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO À SÚMULA. INVIABILIDADE.RECURSO IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de ser incabível a interposição de recurso especial com fundamento em violação de súmula, por não se enquadrar no conceito de lei federal, consoante o que dispõe o art. 105, III, da CF. 2. Agravo regimental improvido."
+(AgRg no AREsp 563.659/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/12/2014, DJe 11/12/2014)
+No que tange aos arts. 927, IV, do CPC/15, 940, do Código Civil, 42, parágrafo único, do CDC, tem-se, no ponto, inviável o debate. Isso, porque não se vislumbra o efetivo prequestionamento do teor dos dispositivos legais citados, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+No tocante à inversão do ônus da prova, o acórdão recorrido está em consonância com a jurisprudência do STJ, a qual considera que a simples aplicação do Código de Defesa do Consumidor não impõe a inversão do ônus da prova, uma vez que não é automática, cabendo ao magistrado a análise das alegações de verossimilhança de seus argumentos e de hipossuficiência (prova mínima), conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em sede especial. A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. VEÍCULO ZERO KILÔMETRO. RELAÇÃO DE CONSUMO. VÍCIO OCULTO. REPARO. ART. 18, § 1º, DO CDC. PRAZO. NÃO ATENDIMENTO. ÔNUS PROBATÓRIO. INVERSÃO. POSSIBILIDADE. VULNERABILIDADE. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DANO MATERIAL. REPARAÇÃO. POSSIBILIDADE.
+(..)
+2. No caso dos autos, verificada a relação de consumo estabelecida entre as partes, bem como a vulnerabilidade do recorrido, é possível a inversão do ônus da prova.
+3. No caso, o acolhimento da tese recursal de que não houve comprovação de nenhum ato ilícito ou prova dos vícios no veículo exigiria o reexame das circunstâncias fáticas, procedimento vedado em recurso especial devido ao óbice da Súmula nº 7/STJ.
+4. Na hipótese, o acórdão recorrido está em consonância com o entendimento desta Corte Superior no sentido de que, caso o vício de qualidade do produto não seja sanado no prazo de 30 (trinta dias), conforme previsto no § 1º do art. 18 do CDC, cabe ao consumidor, independentemente de justificativa, optar pela substituição do bem, pela restituição do preço ou pelo abatimento proporcional.
+5. Agravo interno não provido."
+(AgInt no AREsp 1726044/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/5/2021, DJe de 18/5/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA QUE NÃO É AUTOMÁTICA. REGULARIDADE DA COBRANÇA PELO VALOR INTEGRAL DA MENSALIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. É descabida a preliminar de inépcia da inicial, por ausência de documentos essenciais à propositura da ação, se os documentos juntados pela autora são suficientes para instruir a ação e conferir à parte adversa a oportunidade de ampla defesa.
+3. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+4. A reforma do acórdão recorrido, quanto à regularidade da cobrança pelo valor integral da mensalidade, diante da perda do direito da estudante à bolsa de estudos anteriormente concedida, demandaria a interpretação de cláusula contratual e o revolvimento do suporte fático-probatório dos autos, providências inviáveis no recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 1749651/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/4/2021, DJe de 21/5/2021)
+Avançando, melhor sorte não socorre ao ora agravante.
+No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, reformando sentença, concluiu que "(..) diante da premissa de que a responsabilidade do banco Réu foi elidida pela culpa exclusiva do consumidor, não há que se falar em falha na prestação de serviços, declaração de inexigibilidade de débito, tampouco em indenização por danos morais". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (e-STJ, fls. 458-459):
+Depreende-se dos documentos juntados aos autos, que o Autor recebeu em sua conta bancária, o valor de R$ 1.097,35, em 25/01/2021 (fls. 20), não sendo tal recebimento impugnado pelo Autor.
+A questão versa sobre a devolução do valor recebido e a continuidade dos descontos em seu benefício previdenciário.
+Em que pese o teor do laudo pericial de fls. 326/362, verifica-se que o Autor agiu com negligência ao procurar auxílio fora dos canais de atendimento do Banco Réu.
+Nesse sentido, verifico que o Autor entrou em contato com o whatsapp nº 11 91145-3718, não sendo esse o número de contato divulgado no site oficial do Requerido.
+Outrossim, o comprovante de pagamento juntado à fls. 34 aponta que o beneficiário do crédito não era aquele constante do boleto.
+Ora, caberia ao Autor, antes de concluir o pagamento, conferir as informações das operações bancárias. Tanto assim o é que o procedimento de pagamento é precedido de confirmação dos dados, justamente para que o usuário possa conferi-los antes da conclusão da operação.
+Nesta hipótese, tem-se entendido que a responsabilidade deve ser atribuída ao terceiro fraudador e à vítima, tendo em vista a ausência de participação da instituição financeira.
+E, sendo assim, não há como se laborar com a responsabilidade objetiva a que alude o artigo 14, do CDC, tampouco com a Súmula nº 479, do STJ, tratando-se, pois, de fortuito externo.
+Logo, aplica-se a excludente de responsabilidade inserta no artigo 14, § 3º, inciso II, do Código de Defesa do Consumidor.
+(..)
+Assim, diante da premissa de que a responsabilidade do banco Réu foi elidida pela culpa exclusiva do consumidor, não há que se falar em falha na prestação de serviços, declaração de inexigibilidade de débito, tampouco em indenização por danos morais.
+Nesse contexto, a pretensão de alterar do entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, consoante preconiza a Súmula n. 7/STJ.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. DECISÃO AGRAVADA RECONSIDERADA. REEXAME DO FEITO. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SEQUESTRO-RELÂMPAGO. EMPRÉSTIMO PESSOAL. FALHA NA PRESTAÇÃO DO SERVIÇO BANCÁRIO. INEXISTÊNCIA. NÃO COMPROVAÇÃO DO NEXO CAUSAL. MODIFICAÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. In casu, o TJ/SP expressamente assentou a excludente de responsabilidade do prestador de serviços com fulcro no acervo fático-probatório dos autos, notadamente tendo em vista que o banco atendeu a solicitação da correntista, cumprindo a instituição bancária com o seu dever e apontando a ausência de negligência indenizável. Assim, elidir as conclusões do aresto impugnado e acolher a tese de responsabilização deduzida no presente recurso demandaria o revolvimento do conjunto fático-probatório dos autos.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo
+exame, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.692.930/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 14/9/2020, DJe de 1/10/2020 - g. n.)
+Com estas considerações, concluiu-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
