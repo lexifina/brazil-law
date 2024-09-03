@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por FUGAST - FUNDAÇÃO RIOGRANDENSE UNIVERSITÁRIA DE GASTROENTEROLOGIA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 78):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. SOBRESTAMENTO DO FEITO EM RAZÃO DO TEMA 769 DO STJ. NÃO CABIMENTO.
+O TEMA 769 DO STJ, CONSIDERANDO O QUE RESTOU DETERMINADO NO PROAFR NO RESP 1.666.542/SP, DA EG. PRIMEIRA SEÇÃO DO STJ, DIZ RESPEITO APENAS À PENHORA EM EXECUÇÃO FISCAL REGIDA PELA LEI 6.830/1980. NO CASO, TRATA-SE DE PENHORA EM EXECUÇÃO, BASEADA EM TÍTULO EXTRAJUDICIAL, RELATIVO A VENDA DE EQUIPAMENTOS, SENDO, DESSE MODO, A MATÉRIA AQUI TRATADA DIVERSA DAQUELA DISCUTIDA NO TEMA 769 DO STJ, VISTO QUE RELATIVA À PENHORA EM EXECUÇÃO POR QUANTIA CERTA, REGIDA PELO CPC. ASSIM, A HIPÓTESE DOS AUTOS NÃO SE ENQUADRA NAS HIPÓTESES ABARCADAS PELO TEMA 769.
+PRECEDENTE.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo negou vigência ao art. 1.036, caput, §§1º e 5º do CPC/15. Para tanto, sustenta, em síntese, que "somente quanto ao item "ii" da controvérsia delimitada no Tema 769 dos Repetitivos do STJ há especificação e restrição de abrangência do tema ao campo das execuções fiscais" (fl. 88).
+Apresentadas contrarrazões ao recurso especial a fls. 98/108.
+É o relatório. Passo a decidir.
+No tocante ao pleito de suspensão do feito ante a aplicabilidade do Tema 769, do STJ, a Corte de origem compreendeu que a presente demanda não está abrangida pelo referido Repetitivo, pois esse se restringe às hipóteses relacionadas à execução fiscal. É o que o extrai do trecho do acórdão a seguir (fl. 76):
+O Tema 769 do STJ, considerando o que restou determinado no ProAfR no RESp 1.666.542/SP, da Eg. Primeira Seção do STJ, diz respeito apenas à penhora em execução fiscal regida pela Lei 6.830/1980:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DO ART. 1.036, § 5º, DO CPC/2015. EXECUÇÃO FISCAL. PENHORA DO FATURAMENTO. 1.
+Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036 do CPC/2015: "Definição a respeito: i) da necessidade de esgotamento das diligências como pré-requisito para a penhora do faturamento; ii) da equiparação da penhora de faturamento à constrição preferencial sobre dinheiro, constituindo ou não medida excepcional no âmbito dos processos regidos pela Lei 6.830/1980; e iii) da caracterização da penhora do faturamento como medida que implica violação do princípio da menor onerosidade". 2. Recurso Especial afetado ao rito dos arts. 1.036 e seguintes do CPC/2015. (STJ - ProAfR no REsp: 1666542 SP 2017/0092282-0, Relator: Ministro HERMAN BENJAMIN, Data de Julgamento: 10/12/2019, S1 - PRIMEIRA SEÇÃO, Data de Publicação: DJe 05/02/2020) (grifei).
+No caso, trata-se de execução de natureza civil, baseada em título extrajudicial, relativo a venda de aparelhos videoendoscópios, sendo, desse modo, a matéria aqui tratada diversa daquela discutida no Tema 769 do STJ, visto que relativa à penhora em execução por quantia certa, regida pelo CPC.
+Assim, a hipótese dos autos não se enquadra nas hipóteses abarcadas pelo Tema 769.
+De fato, conforme constou do acórdão agravado, não há que se falar em aplicação do Tema 769 do STJ ao caso em análise, eis que esta Corte já assentou que o paradigma apresentado, decorrente da afetação dos Recursos Especiais n..
+1.666.542-SP, 1.835.865-SP e 1.835.864-SP, refere-se apenas aos processos regidos pela Lei n. 6.830/80, que não é a hipótese tratada dos autos, que se apresenta como matéria de Direito Privado.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. PEDIDO DE SOBRESTAMENTO PROCESSUAL. DETERMINAÇÃO DA PRIMEIRA SEÇÃO DO STJ DE SUSPENSÃO DOS FEITOS ATRELADOS AO TEMA REPETITIVO Nº 769. CONTROVÉRSIA ATINENTE ÀS EXECUÇÕES FISCAIS. AUSÊNCIA DE SIMILARIDADE FÁTICA OU JURÍDICA COM O CASO EM QUESTÃO. RELAÇÃO JURÍDICA EMINENTEMENTE DE DIREITO PRIVADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Agravo interno objetivando o sobrestamento do feito, ante a determinação da Primeira Seção do STJ de afetação dos Recursos Especiais nºs 1.666.542-SP, 1.835.865-SP e 1.835.864-SP (Tema Repetitivo nº 769), com suspensão dos feitos atrelados.
+Impossibilidade.
+3. Hipótese em que o paradigma apresentado refere-se apenas aos processos regidos pela Lei n. 6.830/1980, que versa sobre o rito das execuções fiscais.
+4. Ademais, a afetação do tema repetitivo foi deliberada pela Primeira Seção do STJ, competente para apreciar as matérias relativas a direito público (art. 9º do RISTJ), a afastar a abrangência dessa decisão às execuções/cumprimentos de sentença de natureza eminentemente de direito privado. Precedentes.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido. (STJ; AgInt-EDcl-REsp 1.839.315; Proc. 2019/0043335-1; DF; Terceira Turma; Rel. Min. Moura Ribeiro; DJE 18/03/2022).
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos, ante a incidência da Súmula 83/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
