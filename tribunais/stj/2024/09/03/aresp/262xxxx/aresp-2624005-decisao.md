@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ, da inexistência de violação aos arts. 489, §1º, IV e VI e 1.022, II, do CPC/2015 e da falta de cotejo analítico (e-STJ fls. 566/569).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 378):
+AGRAVO INTERNO. CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO. VÁLIDO. DECISÃO MONOCRÃTICA QUE NÃO RECONHECEU VÍCIO DE CONSENTIMENTO E DE INFORMAÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+1. Não há que se falar em vício de consentimento e de informação quando o contrato esclarece a contento a real natureza do pacto.
+2. Agravo Interno conhecido e desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 428/445).
+Nas razões do recurso especial (e-STJ fls. 446/486), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, §1º, IV e VI e 1.022, II, do CPC/2015, sob o argumento de que o acórdão recorrido:
+a) "incorreu em omissões quanto à matéria posta a apreciação, posto que a decisão vergastada não se manifesta sobre provas acostadas nos autos e, mesmo tendo (..) opostos embargos de declaração, demonstrando o direito que milita em seu favor, face o contrato violar o art. 52 do cdc, estar em branco e o julgamento do RESP E AÇÃO CIVIL PÚBLICA, os vícios não foram sanados" (e-STJ fl. 456),
+b) não enfrentou a questão a respeito dos "princípios das relações de consumo basilares" (e-STJ fl. 457),
+c) não observou o "decidido em sede de julgamento do Resp n. 1.722.322 - MA, proveniente do julgamento da Ação Civil Pública do TJMA n.106890-28.2015.4.01.3700" (e-STJ fl. 457), segundo afirma, o julgado referido "entendeu pela prática abusiva das instituições financeiras ao onerar excessivamente os consumidores" (e-STJ fl. 458),
+(ii) arts. 1º, 6º, III e IV, 39, IV e V, 47, 51, IV, e 52 do CDC, 170 e 422 do CC/2002, tendo em vista: (a) a existência de ofensa ao direito básico à informação do consumidor (e-STJ fl. 463); (b) que "o pagamento mínimo constitui cláusula abusiva contra o consumidor" (e-STJ fl. 463); (c) o "claro e evidente desequilíbrio contratual, haja vista a onerosidade excessiva imposta pelo banco" (e-STJ fl. 463); e (d) "que o consumidor não possui a clareza exata de quanto irá pagar e até quando irá pagar" (e-STJ fl. 463),
+(iii) art. 985 do CPC, aduzindo "total contrariedade promovida pelo Acórdão ao afincar-se na contramão do entendimento fixado por meio de IRDR (fixado pelo E. Tribunal de Justiça)" (e-STJ fl. 460), e
+(iv) arts. 93, II, do CDC e 16 da Lei n. 7.347/1985, ante "a contrariedade do R. Acordão, face o julgamento da Ação Civil Pública nº. 0010064-91.2015.8.10.0001" (e-STJ fl. 461) e considerando que "a decisão prolatada em sede de Ação Coletiva possui efeito erga omnes de competência nacional" (e-STJ fl. 462).
+Contrarrazões apresentadas (e-STJ fls. 559/564).
+No agravo (e-STJ fls. 570/617), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 620/623 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem decidiu a controvérsia nos seguintes moldes (e-STJ fls. 380/381):
+Como bem consignado na decisão ora agravada, a parte recorrente, servidora pública da Prefeitura de São Luís, em 20/10/2009 assinou o "Termo de Adesão/Autorização para Desconto em Folha - Empréstimo Consignado e Cartão de Crédito". Tal documento demonstra que a parte agravante solicitou a transferência da quantia de R$ 700,00 para conta de sua titularidade, com informação de juros de 3,50 % ao mês equivalente a 51,98% ao ano (Id. 3458399).
+Lendo o instrumento celebrado, extrai-se a seguinte informação, em destaque:
+ ,.. 1.2 O MUTUÁRIO declara que o valor da prestação a ser averbado, constante no item III, bem como o valor porventura devido em razão da utilização do Cartão BMG Master/BMG Card (item III. 1), está de conformidade com o pactuado, compreendendo os encargos ali previstos e que não lhe fora exigido qualquer outro encargo e/ou aquisição de outro(s) produto(s).
+ ..  1.2.1 O crédito decorrente do saque, cujo valor encontra-se indicado no item III.1 do preâmbulo deste, via cartão BMG Card, deverá ser feito na conta do MUTUÁRIO informada no item IV ou através de ordem de pagamento para o banco indicado no mesmo item IV, sendo que, no tocante ao BMG Master, desde que haja autorização expressa na legislação expedida pelo INSS. ..
+2- Com o presente, o MUTUÁRIO autoriza:
+2.1. Para as operações celebradas com aposentados e pensionistas do INSS - ao INSS, em caráter irrevogável, irretratável e irrenunciável, a promover os descontos dos seus benefícios previdenciários, o valor mensal e quantidade de prestações especificadas no item III retro, conforme disponibilidade de margem consignável e de acordo com a previsão legal contida no artigo 6º da Lei nº 10.820/03 e inciso VI do artigo 154 do Decreto nº 3.048/99, bem como, dos valores referentes à utilização do Cartão BMG Master (item III.1), principal e acessório de todos os valores devidos, cujos descontos deverão permanecer até a integral liquidação do saldo devedor de sua responsabilidade.
+Nesse contexto, não há que se falar em vício de consentimento e de informação.
+Esse entendimento se coaduna com a TESE 4 fixada por este Tribunal de Justiça no julgamento do IRDR n. 53.983/2016:
+"Não estando vedada pelo ordenamento jurídico, é lícita a contratação de quaisquer modalidades de mútuo financeiro, de modo que, havendo vício na contratação, sua anulação deve ser discutida à luz das hipóteses legais que versam sobre os defeitos do negócio jurídico (CC, arts. 138, 145, 151, 156, 157 e 158) e dos deveres legais de probidade, boa-fé (CC, art. 422) e de informação adequada e clara sobre os diferentes produtos, especificando corretamente as características do contrato (art. 4º IV e art. 6º , III, do CDC), observando-se, todavia, a possibilidade de convalidação do negócio anulável, segundo os princípios da conservação dos negócios jurídicos (CC, art. 170)".
+Desse modo, compreendo que os argumentos apresentados pela parte recorrente são insuficientes para desconstituir os fundamentos que embasam a decisão atacada, devendo, portanto, ser mantida.
+Do excerto acima, verifica-se inexistir afronta aos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido pronunciou-se, de forma clara e suficiente, acerca das questões relevantes para o deslinde da controvérsia, ainda que adotando solução jurídica diversa da pretendida pela parte recorrente.
+A análise da alegada violação dos arts. 1º, 4º, IV, 6º, III e IV, 39, IV e V, 47, 51, IV, e 52 do CDC, 170 e 422 do CC/2002 e 985 do CPC/2015 esbarra nos óbices das Súmulas n. 5 e 7 do STJ, na medida em que, nos referidos pontos, o acolhimento da pretensão recursal demanda o afastamento de conclusões erigidas pelo Tribunal de origem sobre o acervo fático-probatório dos autos.
+Além disso, "consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Finalmente, a apontada ofensa aos arts. 93, II, do CDC e 16 da Lei n. 7.347/1985 não foi objeto de enfrentamento por parte do acórdão recorrido, e, apesar de opostos embargos de declaração, referida questão não foi expressamente indicada nas razões do recurso integrativo, de sorte que o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Incide a Súmula n. 211/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
