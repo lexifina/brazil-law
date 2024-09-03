@@ -1,0 +1,9 @@
+DECISÃO
+Por meio da Petição n. 00613830/2024 (fl. 744), a União informa que celebrou acordo judicial, requerendo, assim, a baixa dos autos.
+O Município de Barro Duro/PI, através da Petição n. 00615209/2024 (fl. 745) ratificou o acordo celebrado e requereu a sua homologação.
+É o breve relatório. Decido.
+Em razão do anúncio do acordo celebrado entre as partes, os autos devem ser encaminhados ao Juízo de origem, a fim de que seja homologado o acordo em questão.
+Nesse sentido, confiram-se: Acordo no AREsp n. 1.939.331/AL, Rel. Min. Benedito Gonçalves, DJe 31/3/2022; Acordo no ARESp n. 1.849.404/SP, Rel. Min. Humberto Martins (Presidente do STJ), DJe de 30/4/2021; Acordo no ARESp n. 1.852.242/PE, Rel. Min. Humberto Martins (Presidente do STJ), DJe de 20/4/2021; Acordo no AREsp n. 1.861.043/MG, Rel. Min. Humberto Martins (Presidente do STJ), DJe de 20/4/2021; Acordo no AResp n. 1.726.922/DF, Rel. Min. João Otávio de Noronha (Presidente do STJ), DJe de 6/8/2020; Acordo no AResp n. 1.726.922/DF, Rel. Min. João Otávio de Noronha (Presidente do STJ), DJe 6/8/2020; ARE no RE nos EDcl no AgInt no REsp n. 1.841.136/Am, Rel. Min. Jorge Mussi (Vice-Presidente do STJ), DJe de 15/10/2020; ARESp n. 1.773.733/AM, Rel. Min. Nancy Andrighi, DJe 28/4/2021; EDcl no RESp n. 1.890.899/SP, Rel. Min. Raul Araújo, DJe de 5/4/2021; AREsp n. 1.325.169/MS, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 5/04/2021; Acordo no REsp n. 1.836.777 /PR, Rel. Rel. Min. Nancy Andrighi, DJe 19/2/2021; Acordo no REsp n. 1.730.161/SP, Rel. Min. Marco Buzzi, DJe de 28/8/2019; e Acordo no AgInt no RESp n. 1.821.285/SP, Rel. Min. Luis Felipe Salomão, DJe de 24/11/2020.
+Ante o exposto, determino a baixa dos autos ao Juízo de primeiro grau, para que aprecie o pedido de homologação do acordo celebrado entre as parte, com análise da distribuição dos ônus sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
