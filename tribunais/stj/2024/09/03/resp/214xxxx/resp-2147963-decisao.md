@@ -1,0 +1,62 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por LOTARIO STAUB contra acórdão prolatado, por unanimidade, pela 12ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Agravo de Instrumento, assim ementado (fl. 78e):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. DESVIO DE FINALIDADE. VERIFICADO.
+1. O art. 50 do CC consagra a chamada Teoria Maior da Desconsideração da Personalidade Jurídica, tanto em sua vertente subjetiva (desvio de finalidade) quanto objetiva (confusão patrimonial).
+2. Demonstrada a presença de desvio de finalidade na atuação em razão da ausência de comprovação do regular emprego das verbas públicas.
+3. Agravo de instrumento improvido.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos arts. 49-A e 50 do Código Civil, alegando-se, em síntese, a indevida aplicação da teoria da desconsideração da personalidade jurídica, afirmando inexistirem provas do dano ao erário e abuso ou benefício direto ou indireto do recorrente, sendo que "(..) em nenhum momento, realizou-se, pelo TCU, análise do elemento objetivo previsto para a caracterização de fraude, qual seja, o dolo" (fl. 103e ).
+Por fim, requer a concessão de efeito suspensivo.
+Com contrarrazões (fls. 157/163e), o recurso foi inadmitido (fls. 166/169e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 434 e).
+Feito breve relato, decido.
+Nos termos do art. 932, III, do estatuto processual, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a presença do desvio de finalidade e do abuso da personalidade jurídica, nos seguintes termos (fls. 75e):
+Como salientado pelo juízo de origem, restou comprovado o desvio de finalidade na utilização da pessoa jurídica, considerando a emissão de notas fiscais fraudulentas, fato admitido pelo agravante em depoimento (utilizado nos autos como prova emprestada), bem como a aquisição de passagens aéreas e de realização de despesas de viagens irregularmente, havendo divergências entre rotas indicadas e os documentos apresentados.
+A alegação do agravante, no sentido de que essas irregularidades não foram acolhidas pelo TCU, não se sustenta. (..)
+(..) o TCU foi bastante enfático ao concluir pela irregularidades das contras apresentadas, afirmando que, no presente caso, não foi possível verificar o nexo entre os recursos disponibilizados e as despesas alegadas, tendo em vista o modo como foi executado o contrato de repasse, com a transferência integral pela Arcafar Sul de todos os serviços à COOESC - administrada pelo agravante Lotario Staub.
+(..) Para além da maneira como o contrato foi executado, a decisão do TCU aponta, no item 9do Voto - já transcrito na decisão agravada - a existência de diversas notas fiscais emitidas com inúmeras irregularidades. (..)
+Logo, as irregulares devidamente constatadas não ocorreram tão somente porque houve transferência integral da responsabilidade pela execução do contrato, mas porque a documentação apresentada estava eivada de vícios (recibos sem assinatura, valores indicados nas notas fiscais incompatíveis com valores alegados pelos postos de abastecimento, entre outros), indicando, em consequência, a aplicação irregular dos recursos repassados.
+Diante desses elementos, conclui-se que as verbas públicas foram utilizadas pela COOESC sem a observância das formalidades necessárias à comprovação dos gastos, bem como da efetiva destinação dos valores em comento. Tem-se, portanto, que há incontestáveis evidências da efetiva ocorrência de desvio de finalidade (hipóteses em que a cooperativa se afasta do seu objeto social).
+Assim sendo, tendo o agravante atuado em nome da cooperativa e não restando demonstrada a regularidade da utilização da totalidade dos recursos públicos repassados àquela entidade, verifica-se que restam preenchidos os requisitos necessários à caracterização do abuso da personalidade jurídica, em função do desvio de finalidade, capaz de ensejar o deferimento do pedido de desconsideração da personalidade jurídica nos termos do disposto no já citado artigo 50 do Código Civil.
+No sentido de reconhecer a caracterização do abuso da personalidade jurídica em razão da ausência de comprovação do regular emprego das verbas públicas objeto de repasse, o seguinte precedente desta Corte: (..)
+Por fim, anoto que o desvio de finalidade está inerentemente associado à alguma ilicitude, em outras palavras, o fato de o administrador violar determinada regra - seja interna corporis ou decorrente do ordenamento jurídico pátrio -, acarretando ainda que indiretamente benefício próprio, enseja a desconsideração.
+Desse modo, evidente a ocorrência de desvio de finalidade apto a ocasionar a desconsideração da personalidade jurídica. Nesse sentido é a jurisprudência desta Corte Regional: (..) (destaques meus).
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, reconhecendo a ausência de dolo, de provas do dano ao erário e de abuso ou benefício direto ou indireto do Recorrente, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE DA PESSOA JURÍDICA. JURISPRUDÊNCIA. CONFORMIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+(..)
+2. O Tribunal a quo, soberano na apreciação das provas carreadas aos autos concluiu que restou configurada a confusão patrimonial e o desvio de finalidade no incidente de desconsideração da personalidade jurídica. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.041.619/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. ALEGADA OFENSA AO ART. 1.022, II, DO CPC/2015. INEXISTÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7/STJ.
+AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. O entendimento firmado pelo Tribunal a quo, no sentido da configuração do abuso da personalidade jurídica, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+(..)
+(AgInt no AREsp n. 1.099.108/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe de 4/10/2017).
+Outrossim, o recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+Sobre o tema, os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. SÓCIO. REDIRECIONAMENTO. EXISTÊNCIA DE CERTIDÃO DO OFICIAL DE JUSTIÇA ATESTANDO QUE A EMPRESA NÃO FUNCIONA NO LOCAL INDICADO. SUMULA 453/STJ. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. "Para se chegar à conclusão diversa da firmada pelas instâncias ordinárias no tocante ao redirecionamento da execução fiscal em razão do descumprimento ao art. 135, III do CTN pelo sócio-gerente seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial" (AgRg no Ag 1.341.069/PR, Primeira Turma, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15/9/11).
+2. "Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual deu solução à causa a Corte de origem" (AgRg no AREsp 346.367/SP, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe 11/9/13) 3. Agravo regimental não provido.
+(AgRg no AREsp 424.727/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 17/12/2013, DJe 06/02/2014 - destaque meu).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. FISCALIZAÇÃO MUNICIPAL DE TRÂNSITO. LEI 9.503/1997. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. A Corte de origem assentou sua decisão baseada na análise do conjunto fático-probatório dos autos, razão pela qual o acolhimento da pretensão recursal demanda novo exame das provas constantes dos autos, incidindo a Súmula 7/STJ.
+2. O alegado dissídio jurisprudencial restou prejudicado ante o óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.247.182/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/09/2013, DJe 30/09/2013 - destaque meu).
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. CONCESSÃO DE EFEITO SUSPENSIVO. INADEQUAÇÃO DA VIA ELEITA. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. ATO ÍMPROBO. ELEMENTO SUBJETIVO DOLO GENÉRICO. CARACTERIZADO. PRECEDENTES. SÚMULA 83/STJ. DOSIMETRIA DA PENA. ART. 12 DA LEI N. 8.429/92. RAZOABILIDADE E PROPORCIONALIDADE. ANÁLISE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+(..)
+7. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa.
+Agravo regimental improvido.
+(AgRg no AREsp 597.359/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/04/2015, DJe 22/04/2015 - destaque meu).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. LABOR RURÍCOLA. RECONHECIMENTO. PROVA. REEXAME. SÚMULA 7/STJ. INCIDÊNCIA. DISSÍDIO NÃO CONFIGURADO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO AFASTADOS.
+1. Tendo o Tribunal de origem fixado compreensão no sentido de que o segurado não logrou comprovar o labor campesino nos lapsos temporais indicados, a reforma desse entendimento não pode ser lavada à cabo em sede de recurso especial, ante o óbice representado pela Súmula 7 do STJ.
+2. A caracterização do dissídio jurisprudencial demanda a realização do confronto analítico entre as conclusões do aresto impugnado e as teses acolhidas pelos julgados indicados como dissonantes, não se mostrando suficiente para tal a simples transcrição dos julgados tidos como divergentes. Precedentes.
+3. Além disso, impedido o trânsito do recurso especial em decorrência da orientação fixada pela Súmula 7/STJ, fica prejudicada a análise do dissídio jurisprudencial, ante a ausência de similitude fática entre o julgado recorrido e os acórdãos indicados como divergentes. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 611.941/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 14/04/2015, DJe 24/04/2015 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
