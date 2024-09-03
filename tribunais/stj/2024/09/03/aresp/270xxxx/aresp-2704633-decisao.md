@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o apelo nobre manejado por ANTÔNOI AIRTON LEMOS CIRINO contra acórdão assim ementado:
+ADMINISTRATIVO. MILITAR. RESERVA REMUNERADA. LICENÇA ESPECIAL NÃO GOZADA.
+CONVERSÃO EM PECÚNIA. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA. RENÚNCIA INEXISTENTE. TEMA 1.109/STJ.
+1. Tratando-se de conversão de licença especial de militar em pecúnia, o prazo prescricional deve ser contado a partir da transferência do militar para a reserva, tal como já decidiu o STJ em relação aos servidores civis ao julgar o Tema 516 pelo rito dos recursos repetitivos.
+2. A jurisprudência desta Corte vinha entendendo que a Portaria Normativa n.º 31/GM-MD, de 24/05/2018, que reconheceu o direito dos militares das Forças Armadas de converterem em pecúnia (indenização) licença especial não usufruída e nem computada para  ns de inatividade, implicou renúncia à prescrição do fundo de direito, a ensejar o reinício da contagem do prazo prescricional em sua integralidade (art. 191 c/c art. 202, VI, do Código Civil), a partir da data de edição do referido ato normativo, nos casos em que já decorrido o lapso quinquenal.
+3. Todavia, recentemente o Superior Tribunal de Justiça concluiu o julgamento do Tema 1.109, pelo rito dos recursos repetitivos, fixando a seguinte tese: "Não ocorre renúncia tácita à prescrição (art. 191 do Código Civil), a ensejar o pagamento retroativo de parcelas anteriores à mudança de orientação jurídica, quando a Administração Pública, inexistindo lei que, no caso concreto, autorize a mencionada retroação, reconhece administrativamente o direito pleiteado pelo interessado".
+4. Tratando-se de precedente vinculante, cabe sua aplicação imediata, independentemente de trânsito em julgado, o que impõe a modificação do entendimento até então adotado.
+5. Dessa forma, não há que se falar em renúncia à prescrição com a edição da Portaria Normativa n.º 31/GM-MD, de 24/05/2018. Caso em que, decorridos mais de 5 (cinco) anos desde a transferência do militar para a reserva, deve ser reconhecida a prescrição do próprio fundo de direito.
+Nas suas razões, a parte recorrente aponta violação dos arts. 50, 106, II, 108, III, 109, da Lei n. 6.880/0980, do art. 489, § 1º, inciso I, do CPC/2015, e do art. 93, IX, da Constituição Federal. Isso porque, "se este Superior Tribunal de Justiça pretende, em função do Tema 1109, mudar a sua orientação jurisprudencial e deixar de adotar o até então predominante entendimento de que os militares que, na data da publicação da Portaria Normativa nº 31/GM-MD, já tinham sido transferidos para a inatividade, desligados da Corporação Militar ou falecidos há mais de 05 anos, têm direito à conversão em pecúnia de licença especial não usufruída, nem computada para fins de inatividade, deverá fundamentar o amoldamento do precedente ao caso concreto" (e-STJ fl. 177).
+Contrarrazões apresentadas.
+A Vice-Presidência do Tribunal de origem negou seguimento ao especial quanto aos Temas 516 e 1.109 do STJ e não admitiu no remanescente.
+Passo a decidir.
+A irresignação não merece prosperar.
+O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuiç ão da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Quanto à ofensa do art. 489 do CPC, incide a Súmula 284 do STF, pois não demonstrou de que forma o aresto combatido feriu o aludido dispositivo legal e sua relevância para a solução da controvérsia a ser julgada, como ocorreu na espécie.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
