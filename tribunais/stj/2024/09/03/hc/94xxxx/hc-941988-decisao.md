@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Caio Samuel Bispo dos Santos - condenado por roubo circunstanciado a 8 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e a 21 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 197/207), não comporta processamento.
+Com efeito, busca a impetração o redimensionamento da pena imposta ao paciente - na condenação proferida na Ação Penal n. 1512414-14.2024.8.26.0228 (fls. 142/146 - da 3ª Vara Central Criminal da comarca de São Paulo) -, com o afastamento de aplicação cumulativa das causas de aumento de pena do concurso de pessoas e do emprego de arma de fogo, sustentando que o TJ-SP manteve o duplo aumento, sob a argumentação genérica de que tal estaria justificado, em razão de o roubo ter sido cometido após a edição da Lei n. 13.654/18, em vigor desde 24/4/2018 (fl. 7).
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação da Corte estadual quanto à pretensão mandamental, a gravidade concreta do delito - afasto a faculdade do artigo 68, parágrafo único, do Código Penal, em razão da gravidade concreta dos fatos. Com efeito, consoante o conjunto probatório acostado aos autos, o crime aqui apurado é concretamente mais grave do que o habitual, notadamente pela ação ter sido cometida em via pública e com uso de arma de fogo, o que coloca não só a vítima em risco, mas também toda a coletividade que vaga pela localidade (fl. 145) -, está de acordo com o entendimento desta Corte Superior.
+Nesse sentido: AgRg no HC n. 906.014/SE, Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2024, DJe 16/8/2024.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO NO PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
