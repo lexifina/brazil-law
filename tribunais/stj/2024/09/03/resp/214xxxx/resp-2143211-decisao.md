@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por PEDRO BATISTA PAES, com fundamento no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Cumprimento de sentença. Ação de alienação judicial de bens. Alegação de que os valores se encontravam em conta poupança. Penhora de 30% dos valores existente na conta, oriundos de direitos trabalhistas. Normas sobre impenhorabilidade que não são absolutas e devem ser apreciadas levando em conta as peculiaridades do caso. Magistrado de origem que levou em consideração que o valor penhorado era apenas 30% do saldo total ali depositado e bem analisou os elementos e peculiaridades do caso, concluindo, acertadamente, pelo indeferimento do desbloqueio. Decisão acertada. Recurso não provido."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 8º, 489, § 1º, IV, V e VI, 833, IV e X, e 1.022, I e II, do CPC/2015, defendendo, além de negativa de prestação jurisdicional, a impenhorabilidade de verbas trabalhistas inferiores a 50 (cinquenta) salários-mínimos mantidas em caderneta de poupança.
+Aduz que a natureza de poupança não é descaracterizada pela movimentação apontada no acórdão recorrido.
+Contrarrazões não apresentadas (e-STJ, fl. 741).
+É o relatório. Decido.
+De início, é indevido conjecturar acerca de deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição na decisão apenas por ter sido proferida em desconformidade com os interesses da parte. No mesmo sentido: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Quanto à questão da impenhorabilidade de valores de natureza trabalhista e inferiores a 50 (cinquenta) salários-mínimos mantidos em caderneta de poupança, do recurso especial não se pode conhecer.
+Isso porque não houve impugnação a fundamento do acórdão recorrido suficiente para manter incólume o resultado do julgamento, óbice da Súmula 283/STF, consistente na configuração da exceção para o pagamento de prestações alimentícias, prevista no § 2º do art. 833 do CPC/2015 (e-STJ, fl. 97).
+Diante do exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
