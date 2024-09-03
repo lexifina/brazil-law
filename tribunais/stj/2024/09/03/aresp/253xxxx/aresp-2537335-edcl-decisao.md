@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANDREA GARCIA RODRIGUES E HENRIQUE MARTINS PAPINI. contra decisão desta relatoria (e-STJ, fls. 1.782-1.785), que acolheu os embargos de declaração da parte embargante, devido a ausência de apreciação do seu agravo em recurso especial. Entretanto o recurso não foi conhecido em razão de a parte embargante não ter impugnado a decisão de admissibilidade com o agravo interno, no tocante ao óbice referente à consonância do acórdão recorrido com o Tema 970/STJ, julgado por meio de recurso repetitivo.
+Nas razões dos aclaratórios (e-STJ, fls. 1.788-1.791), aponta a existência de erro material e omissão, uma vez que houve a impugnação referente a aplicação da multa aplicada pelo Tribunal de origem, em razão da oposição de embargos de declaração naquela instância. Aduz que os aclaratórios não tiverem o intuito protelatório e, portanto, deve ser afastada a multa prevista no art. 1.026 do CPC/2015.
+Foi apresentada impugnação (e-STJ, fls. 1.503-1.510).
+É o relatório.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão no julgado, bem como erro material (art. 1.022 do CPC/2015). No caso, razão assiste razão aos ora embargantes em relação à existência de erro material, pois, na decisão que não conheceu do agravo em recurso especial, não há menção à aplicação de multa do art. 1.026, § 2º, do CPC/2015.
+De fato, no tocante à suposta violação ao art. 1.026, § 2º, do CPC/2015, a irresignação merece prosperar. Tem-se que os embargos opostos pela parte às fls. 1.346-1.349 tiveram como objetivo sanar eventual omissão e obter o prequestionamento da matéria objeto de eventual recurso especial. Contudo, a Corte de origem os reconheceu como manifestamente protelatórios, aplicando a multa prevista no art. 1.026, § 2º, do CPC/2015.
+Assim, nos termos do entendimento do Superior Tribunal de Justiça, não há que se falar em caráter protelatório dos embargos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EMBARGOS MONITÓRIOS. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. NULIDADE DE INTIMAÇÃO. NOVA PUBLICAÇÃO. INÍCIO DO PRAZO. SÚMULA 83/STJ. EMBARGOS PROTELATÓRIOS. FINALIDADE DE PREQUESTIONAMENTO. MULTA INDEVIDA. RECURSO PARCIALMENTE PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. "O v. acórdão recorrido está em descompasso com a jurisprudência do Superior Tribunal de Justiça, que entende que a nova publicação da decisão, ainda que desnecessária ou realizada por equívoco, tem o condão de reabrir a contagem do prazo recursal" (AgRg no REsp 1.191.217/PR, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/11/2016, DJe de 29/11/2016).
+3. Os embargos de declaração foram opostos com o intuito de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios, devendo a multa aplicada pelo Tribunal local ser afastada em conformidade com a Súmula 98/STJ.
+4. Agravo interno parcialmente provido, exclusivamente a fim de afastar a multa aplicada nos termos do art. 1.026, § 2º, do CPC/2015.
+(AgInt no AREsp n. 1.534.072/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+Ante o exposto, acolho os embargos de declaração para corrigir omissão e afastar a multa aplicada nos termos do art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
