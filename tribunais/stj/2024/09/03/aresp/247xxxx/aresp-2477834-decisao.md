@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por ESTADO DE RORAIMA com fundamento na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de Roraima, assim ementado:
+"APELAÇÃO. AÇÃO DE COBRANÇA DE ALUGUEIS E DEMAIS ENCARGOS. DETERIORAÇÃO. ENTREGUE SEM OS DEVIDOS REPAROS. COMPROVAÇÃO DO ALEGADO. SENTENÇA REFORMADA. RECURSO PROVIDO." (e-STJ, fl. 22)
+Em suas razões recursais, a recorrente aponta ofensa aos arts. 373, I, do CPC/15 e 73, da Lei 8.666/93, sustentando, em síntese, que a parte autora não comprovou fato constitutivo do seu direito quanto ao real estado do imóvel no início do contrato e "não há como se ter certeza do regular cumprimento do serviço uma vez não foram juntadas pela parte autora notas fiscal com atesto do regular recebimento do serviço." (e-STJ, fl. 34)
+É o relatório. Decido.
+A irresignação não prospera.
+De início, no que tange à alegação violação do art.73, da Lei 8.666/93, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento do teor do dispositivo legal citado, o que inviabiliza a apreciação da tese recursal apresentada, sob pena de supressão de instâncias. Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja, o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C. STF). Por oportuno, leiam-se estes julgados:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático- probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+Avançando, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos entendeu que restou comprovado o fato constitutivo do direito da parte autora, conforme se insere do seguinte trecho a seguir transcrito: (e-STJ fl. 20)
+"Como se sabe, o ônus da prova compete ao autor quanto a fato constitutivo de seu direito e ao réu, quanto à existência de fato impeditivo, modificativo, ou extintivo do direito do autor, nos termos do art. 373, do CPC.
+Nesse contexto, apesar de não ter sido juntado o termo de vistoria inicial citado no contrato, o relatório da situação do imóvel de entrega das chaves com a vistoria final (EP 1.5), o orçamento (EP 1.7), assim, o conjunto fático-probatório dos autos demonstra que existem aluguéis inadimplidos e o imóvel estava em ótimas condições de uso quando iniciada locação, mas que não foi entregue no mesmo estado."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulado, demandaria nova análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATO ILÍCITO PRATICADO PELO ESTADO. INDENIZAÇÃO EM DANOS MORAIS E MATERIAIS. CONDENAÇÃO. SÚMULA 7/STJ. DANOS MORAIS. CORREÇÃO DO MONTANTE FIXADO SOMENTE QUANDO IRRISÓRIO OU EXORBITANTE. AUSÊNCIA DE COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DA PRETENSÃO INDENIZATÓRIA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. PROVIMENTO NEGADO.
+1. O pleito de correção do montante estabelecido a título de danos morais somente pode ser atendido pelo Superior Tribunal de Justiça quando tratar-se de quantia irrisória ou exorbitante.
+2. O Tribunal de origem, ao fixar o quantum objeto de irresignação do agravante, o fez em observância às peculiaridades do caso concreto, de maneira arrazoada e fundamentada. Desta feita, alterar tal entendimento implicaria o revolvimento ao acervo fático-probatório, conduta vedada a esta corte em recurso especial.
+3. Ainda que o recurso especial não careça de prequestionamento quanto à suscitada violação ao art. 373, I, do Código de Processo Civil (CPC), a corte de origem alegou que as agravadas se desincumbiram do ônus probatório quanto aos fatos constitutivos do direito perseguido. Incidência da súmula 7 do Superior Tribunal de Justiça (STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.141.972/PI, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DIREITO PROBATÓRIO. CÓDIGO CONSUMERISTA. CONTRATO DE PÓS GRADUAÇÃO E MBA. INVERSÃO DO ÔNUS DA PROVA. NÃO É AUTOMÁTICA. NÃO REQUERIDO. APLICAÇÃO DA REGRA GERAL. ART. 373, I E II, DO CPC. NÃO PROVIDO.
+1. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Precedentes.
+2. Não havendo inversão do ônus da prova, aplica-se a regra geral estática disposta no art. 373, I e II, do Código de Processo Civil, o qual dispõe caber ao autor provar o fato constitutivo do direito e ao réu provar o fato impeditivo, modificativo ou extintivo do direito do autor.
+3. Concluir em sentido diverso do Tribunal de origem, modificando as premissas fáticas que levam ao entendimento de que houve comprovação efetiva da constituição do direito da parte autora-agravada, e ausência de eventual causa extintiva por parte da agravante - como o pagamento -, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.219.849/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
