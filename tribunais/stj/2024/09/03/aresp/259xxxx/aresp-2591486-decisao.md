@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por TACLA INVESTIMENTOS DE BENS LTDA E OUTRAS em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E DE NULIDADE DE CLÁUSULA CONTRATUAL C/C TUTELA DE URGÊNCIA DE SUSTAÇÃO DE PROTESTO E OUTRAS MEDIDAS DE RESTRIÇÃO AO CRÉDITO. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS DA AÇÃO. IRRESIGNAÇÃO DA PARTE RÉ. 1. AUSÊNCIA DE DIALETICIDADE RECURSAL. TESE DE QUE AS ALEGAÇÕES RECURSAIS SE RESUMEM EM CÓPIA LITERAL DA CONTESTAÇÃO. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. PRELIMINAR REJEITADA.
+2. AUSÊNCIA DE PEDIDO EXPLÍCITO ACERCA DO AFASTAMENTO DAS PENAS DA CONFISSÃO FICTA. PEDIDO FINAL QUE ALBERGA OS DEMAIS PEDIDOS RECURSAIS. ITEM INDIVIDUALIZAÇÃO NAS RAZÕES RECURSAIS. PRELIMINAR REJEITADA. 3.
+ADMINISTRADORA DO SHOPPING CENTER QUE NÃO POSSUI LEGITIMIDADE PROCESSUAL PARA FIGURAR NO POLO PASSIVO DE AÇÃO QUE TENHA O CONTRATO DE LOCAÇÃO COMO OBJETO.
+MERA MANDATÁRIA DAS DEMAIS LOCADORAS DO IMÓVEL (MANDANTES). PRECEDENTES. PRELIMINAR ACOLHIDA.
+EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO, COM RELAÇÃO À ADMINISTRADORA. 4. TESE DE AFASTAMENTO DA CONFISSÃO FICTA. DEPOIMENTO PESSOAL. PREPOSTO DE PESSOA JURÍDICA. AUSÊNCIA DE PODERES ESPECIAIS E, AINDA, DESCONHECIMENTO DOS FATOS DA DEMANDA. MANUTENÇÃO DA CONFISSÃO FICTA. AUSÊNCIA DE PREJUÍZO A PARTE APELANTE, UMA VEZ QUE O PREPOSTO EM NADA CONTRIBUIU PARA O DESLINDE DA CAUSA. 5. MULTA DE RESCISÃO CONTRATUAL. INEXIGIBILIDADE. VIOLAÇÃO AOS DEVERES DO LOCADOR QUE NÃO COOPEROU PARA O BOM ANDAMENTO DA ATIVIDADE ECONÔMICA DESENVOLVIDA PELA PARTE APELADA.
+6. RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fl. 832)
+As recorrentes apontam ofensa aos arts. 22, I, 54 da Lei n. 8.245/91 e 476 do Código Civil. Sustentam, em síntese, que, não havendo provas de descumprimento contratual por parte da administradora do shopping, devem os locadores responder pelas consequências da resolução antecipada do contrato, em especial pela multa compensatória.
+Contrarrazões às fls. 877/886.
+É o relatório.
+O eg. TJPR acolheu a alegação dos autores de que a rescisão do contrato se deu por culpa da administradora do shopping center, pois deixou de cumprir cláusulas do ajuste relativas ao tenant mix, veja-se:
+"Em análise dos autos, constata-se que as partes celebraram o "Instrumento Particular de Contrato de Locação Atípico de Loja(s) de Uso Comercial Integrante(s) do "Catuí Palladium Shopping Center - Foz do Iguaçu" e Outras Avenças", em 26.10.2015 (mov. 1.9).
+O prazo contratado de vigência foi de 69 (sessenta e nove meses), iniciando-se em 10.06.2016, na data de inauguração do Shopping.
+Tem-se que em 08.08.2019 a parte apelada procedeu à entrega das chaves, desocupando o espaço locado.
+Ademais, ao mov. 1.12 foi juntada a notificação da parte apelada endereçada à parte apelante.
+De acordo com a prova dos autos, extrai-se a culpa da parte apelante pela rescisão contratual.
+A parte apelada solicitou a oitiva da testemunha, a Sra. Alana Louise da Silva Terra (mov.
+365.1/365.4 e mov. 413.1/413.4).
+A referida testemunha foi ouvida ao mov. 432.3. Na oportunidade, respondeu às indagações da advogada da parte apelada, afirmando que também teve uma loja no shopping e que havia promessas de que no local haveria um corredor da moda. Com relação à sua loja, informa que foi prometido bastante público, restaurantes e lojas que demoraram a ser concluídos e algumas nem vieram a aparecer. Aduz que o movimento era de poucas pessoas, principalmente, durante a semana (5"07"" - 4" 06""). Informou que no piso superior, onde se encontrava a loja dos apelados, existiam espaços vazios e que muitas lojas fecharam no shopping (3"13"" - 2"45""). Comunicou que a loja "Bambina" fechou por pouco movimento (2"25"" - 2"05""). Ao final, contou que havia promessas de instalação de lojas e que o Sr. Francisco (representante do shopping) que fazia as reuniões com os lojistas e divulgava as possíveis lojas e espaços, como "outback" e "bar do alemão", que não foram instalados (1"58"" - 0"50"").
+A procuradora da parte apelante indagou a testemunha com relação à existência de eventual cláusula contratual de que haveria o "corredor fashion". Em resposta, a testemunha disse que não recordava (0"22"" - 0"10"").
+Ao mov. 432.4, o Sr. Marcelo Mieres Candor foi ouvido como informante, uma vez que possui vínculo de emprego com a parte apelante. Na ocasião, o Sr. Marcelo Mieres Candor informou que já houve desistências de lojistas, como em qualquer shopping (4"30"" - 4"26""). Ademais, contou que a ocupação atual do shopping está em 84% ABL (4"13"" - 4"04""). No período em que os apelados estavam no shopping, apontou que a ocupação estaria em 78% ABL (3"51"" - 3"45""). Não soube informar o número exato de lojas, visto que se refere a ABL (Área Bruta Locável). Destacou que sempre existiram lojas âncoras, como Renner, Riachuelo, Magic Games, C&A, Havan. Com relação ao outback e bar do alemão, informou que não existem no local (2"57"" - 2"16""). Esclareceu que a loja âncora atual do setor em que estava a loja dos apelados é a Tokutokuya, que estava em obras. Informou que na época, a loja semi-âncora era a loja Toni Toys, não estando instalada loja âncora, no único espaço que havia para esse fim. Ao final, contou que se fecharam algumas lojas do setor, mas em compensação abriram outras lojas (1"40"" - 0"07"").
+Observa-se que a parte apelante se comprometeu a formar no empreendimento um "corredor de moda de alto estilo", com a instalação de outras lojas relacionadas com o segmento de negócios dos apelados. Ademais, foi prometida a instalação de loja âncora próxima à loja dos apelados.
+Entretanto, tais fatos não ocorreram.
+Desse modo, a parte apelante não ofereceu todo o necessário ao bom tenant mix andamento das atividades desenvolvidas no shopping.
+Outrossim, além da notificação de mov. 1.12, extrai-se dos depoimentos que as insatisfações e demais promessas eram feitas de maneira, informal, em reuniões com o referido Sr.
+Francisco.
+Portanto, em que pese o insucesso do empreendimento ser atrelado ao risco do negócio, no caso, constata-se violação aos deveres do locador, visto que a parte apelante não cooperou para o bom andamento das atividades econômicas desenvolvidas pela parte apelada.
+Sendo assim, impõe-se a manutenção da sentença, neste ponto." (fls. 841/842)
+Fica nítido, portanto, que eventual reforma do acórdão recorrido demandaria novo exame das provas dos autos, em especial da prova oral, bem como das cláusulas do contrato de locação em shopping center, a fim de apurar se a administradora do empreendimento realmente teria contribuído para o insucesso dos negócios explorados pelos autores.
+Incide, portanto, o óbice das Súmulas n. 5 e 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida para 15% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
