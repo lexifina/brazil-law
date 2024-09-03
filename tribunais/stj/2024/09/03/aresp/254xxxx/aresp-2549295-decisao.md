@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo de FLAVIO LUIZ PORTES contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0024.18.100749-3/001.
+Consta dos autos que o agravante foi condenado às penas de 05 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa, à razão unitária mínima, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/06, tendo sido absolvido dos demais delitos (fl. 729).
+Recursos de apelação interpostos pela defesa e acusação, sendo o primeiro desprovido e o segundo provido para aumentar a pena-base de Flávio Luiz Portes, em razão da quantidade das drogas apreendidas, totalizando 6 anos de reclusão e 600 dias-multa (fl. 1060).
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 1108).
+Em sede de recurso especial (fls. 1115/1124), a defesa apontou violação aos artigos 33, caput, e 42, ambos da Lei de Drogas, porque, embora a quantidade de drogas seja expressiva, a natureza da mesma é de menor potencial ofensivo. Arguiu que a quantidade também foi utilizada para afastar o privilégio do tráfico, o que é vedado - bis in idem.
+Requer seja mantida a pena-base do recorrente no patamar mínimo.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 1128/1131).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 1134/1136).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 1142/1148).
+Contraminuta do Ministério Público (fls. 1155/1157).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo desprovimento do recurso especial (fls. 1173/1178).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a pena-base do recorrente, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS alterou aquela adotada pelo sentenciante nos seguintes termos do voto do relator:
+"A pena-base foi fixada em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa porque ausentes circunstâncias judiciais desfavoráveis.
+Busca o Ministério Público o recrudescimento da pena-base, em razão da natureza e quantidade das drogas apreendidas, o que comporta acolhimento.
+Em se tratando de substância com menor potencial lesivo -maconha -, mas em quantidade exorbitante -49,145kg (quarenta e nove quilos e cento e quarenta e cinco centigramas) -a quantidade deve ser considerada para os fins do art. 42 da Lei 11.343/06, justificando o aumento da pena-base.
+(..)
+Assim, reputando como negativa uma circunstância judicial, eleva-se a pena-base para 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+(..)
+Por fim, a defesa busca o reconhecimento da minorante do §4º do art. 33 da Lei 11.343/06, o que não comporta provimento. Para o reconhecimento do privilégio, o agente deve ser primário, sem antecedentes e não pode se dedicar a atividades criminosas ou integrar organização criminosa. Embora o acusado seja primário, possuidor de bons antecedentes e não existam elementos indicativos de que integrasse organização criminosa, a dedicação a atividades criminosas foi demonstrada pela confissão de que guardava há algum tempo (pouco dias depois de entrar no imóvel -confissão) elevada quantidade de drogas para outra pessoa, o que obsta o reconhecimento do tráfico privilegiado. (fl. 1056).
+Extrai-se dos trechos acima que a pena-base do recorrente foi aumentada em razão da quantidade vultosa de droga encontrada em seu poder - 49,145kg de maconha. Veja que este fundamento não foi o mesmo utilizado para afastar o reconhecimento do tráfico privilegiado, este se deu pelo fato dele ter confessado que havia algum tempo guardado elevada quantidade de entorpecentes para outra pessoa, não sendo aquela ocasião a primeira em que procedeu nesse intento criminoso.
+Tal entendimento encontra amparo na jurisprudência desta Corte, pois elevadas quantidades de drogas justificam o aumento da pena-base, ainda que de menor potencial ofensivo, nos termos do art. 42 da Lei de Drogas. No mesmo sentido, citam-se precedentes (grifos nosso s):
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO. SÚMULA 7/STJ. EXASPERAÇÃO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir: (i) que, para decidir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ; (ii) que a elevada quantidade do entorpecente apreendido (102kg de maconha) justifica a fixação da pena-base 1 ano acima do mínimo legalmente previsto.
+3. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.276.727/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/5/2023, DJe de 29/5/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. VULTOSA QUANTIDADE DE DROGAS. CRITÉRIO IDÔNEO PARA A EXASPERAÇÃO. REGIME FECHADO. LEGALIDADE.
+1. A tese de que não há prova da estabilidade e permanência, de caráter duradouro, para a prática do delito de tráfico de drogas, para o fim de se prolatar uma condenação pelo delito tipificado no artigo 35 da Lei Federal n. 11.343/2006, por haver um enlace matrimonial das pessoas acusadas, não foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula n. 282 do STF.
+2. A análise das circunstâncias fáticas comprovadas no caso concreto conduziu a instância ordinária ao entendimento de que o elemento subjetivo específico do art. 35 da Lei n. 11.343/2006, isto é, o dolo de associar-se de maneira estável para a prática do tráfico de drogas se faz presente. Assim, rever a condenação da recorrente como incursa nas penas do crime de associação para o tráfico, como proposta pela defesa, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ.
+3. A natureza e a quantidade de entorpecentes constituem fatores que, de acordo com o art. 42 da Lei n. 11.343/2006, são preponderantes para a fixação das penas no tráfico ilícito de entorpecentes.
+4. A associação para o tráfico de drogas em vultosa quantidade justifica o incremento da pena-base desse delito. No caso concreto, o Tribunal de origem expressamente fundamentou a majoração da pena-base do crime de associação para o tráfico, considerando a quantidade das drogas disseminadas (56kg de maconha), nos termos do art. 42 da Lei n. 11.343/2006 e art. 59 do CP, não se mostrando desproporcional ou desarrazoada, porquanto fundamentada a exasperação em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+5. No que tange ao regime de cumprimento de pena, não obstante a reprimenda final seja inferior a 8 anos (4 anos e 2 meses de reclusão), é inviável a imposição do regime semiaberto, diante da existência de elementos concretos a figurar em demérito da acusada, no caso, o volume de drogas negociadas (56 kg de maconha), estando justificada a imposição de regime prisional mais gravoso.
+6. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 1.166.871/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/4/2018, DJe de 25/4/2018.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
