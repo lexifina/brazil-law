@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência, de fls. 5/7, instaurado pelo Juízo de Direito da 2ª Vara Criminal da Comarca de Resende/RJ, o suscitante, em face do Juízo de Direito da 2ª Vara de Execuções Penais da Comarca de Ilha de São Luís/MA, instaurado no âmbito da execução penal do interessado MAURO PEREIRA DE OLIVEIRA.
+Consoante Carta de Guia de Execução da Justiça Militar da União, o interessado:
+"foi CONDENADO, conforme Acórdão do E. STM, nos autos da Apelação nº 7000120-96.2021.7.00.0000,que reformulou a sentença proferida na Ação Penal Militar nº 8-11.2018.7.08.0008, e redimensionou a sanção para pena final unificada de 3 (três) anos e 11 (onze) meses e 22 (vinte e dois) dias de detenção, a ser cumprida em regime prisional inicial aberto, com fulcro no art. 33, § 2º, alínea "c", do Código Penal comum c/c o art. 110 da Lei nº 7.210/84, pelo crime tipificado no artigo 235 c/c 237, II, do Código Penal Militar, por três vezes. A pena acima mencionada se tornou exequível com o trânsito em julgado do Acórdão, em 05/04/2022, com lançamento do nome do condenado no Rol de culpados. A referida pena privativa de liberdade iniciou-se, formalmente, conforme determinação proferida neste Juízo, com a expedição de Carta de Guia, independentemente de prévio mandado de prisão e do cumprimento deste, determinando, ainda, a intimação do condenado, que compareceu nesta Auditoria da 8ª CJM, por meio virtual, comprometendo-se a, quando for intimado pelo Juiz da Execução estadual, comparecer àquele Juízo para início da execução, ficou, ainda, decidido pela DECLINAÇÃO DE COMPETÊNCIA em favor do Juízo estadual de execução penal do domicílio do sentenciado (Comarca de São Luís/MA), na forma do art. 62 do CPM c/c o art. 2º da LEP e o enunciado da súmula 192/STJ, considerando que esse é civil, carecendo, portanto, esta justiça especializada de competência para execução penal em seu desfavor, nos autos do Processo de Execução Penal Militar nº 9000009-95.2022.7.08.0008." (fl. 189)
+Dado início da execução penal pelo Juízo de Direito da 2ª Vara de Execuções Penais da Comarca de Ilha de São Luís/MA, foi acolhido pedido do interessado para transferência da execução penal para a Comarca de Resende/RJ, localidade onde o interessado está domiciliado (fls. 253/254).
+O suscitante, destacando precedentes desta Corte, entende que a execução penal compete ao juízo suscitado, sendo cabível a expedição de carta precatória (fls. 5/7).
+Nesta Corte, os autos deste incidente foram encaminhados para manifestação do Parquet Federal, o qual emitiu parecer "pela procedência do conflito, com o reconhecimento e declaração de competência do juízo suscitado - o Juízo de Direito da 2ª Vara de Execuções Penais da Ilha de São Luís/MA" (fl. 264).
+É o relatório.
+Decido.
+O presente conflito negativo de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, "d", da Constituição Federal - CF.
+O núcleo da controvérsia consiste em verificar o juízo competente para execução de pena de apenado que se mudou de domicílio.
+Consoante precedentes desta Corte, a mudança de domicílio não altera a competência do juízo da execução:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. FIXAÇÃO DA COMPETÊNCIA. JUÍZO DA CONDENAÇÃO. ALTERAÇÃO DE DOMICÍLIO. DESNECESSIDADE DE TRANSFERÊNCIA DA EXECUÇÃO PENAL. DELEGAÇÃO DE MEROS ATOS DE FISCALIZAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há muito se firmou jurisprudência nesta Corte Superior no sentido de que, nas penas restritivas de direito, bem como nas penas privativas de liberdade, a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado, quando for o caso, somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência.
+2. A competência permanece com o Juízo responsável pela condenação (Santa Catarina), sendo somente deprecada ao Juízo do domicílio da sentenciada (Rio Grande do Sul) a fiscalização do cumprimento da pena.
+3. Agravo regimental desprovido.
+(AgRg no CC n. 198.927/RS, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 25/10/2023, DJe de 31/10/2023.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃO E ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido.
+(AgRg no CC n. 198.819/DF, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 17/10/2023, DJe de 25/10/2023.)
+Ante o exposto, com fulcro no art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, conheço do conflito para declarar competente o Juízo da 2ª Vara de Execuções Penais da Comarca de Ilha de São Luís/MA.
+Publique-se.
+Intimem-se.
+EMENTA
