@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 972-978) interposto por LUIZ ANTONIO DE PADUA MOREIRA TURQUETO contra decisão (fls. 963-966) exarada pela il. Presidência da Seção de Direto Privado do eg. Tribunal de Justiça de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre (fls. 827-897) foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, contra v. acórdão assim ementado (fls. 697):
+"APELAÇÃO - Ação de Reparação de Danos - Pleito fundado em erro médico ocorrido em cirurgia para retirada de lipoma - Ação ajuizada contra médico cirurgião e hospital - Sentença de parcial procedência - Inconformismo das partes Hospital réu que se insurge contra a condenação, alegando a ausência de falha nos serviços prestados à autora e, subsidiariamente, postulando a redução do valor da indenização por danos morais - Recurso da autora pugnando pela majoração da verba indenizatória por danos morais e acolhimento do pleito indenizatório por danos estéticos e danos materiais - Incontroversa falha na prestação dos serviços médicos e hospitalares - Erro médico ocorrido por ocasião de cirurgia para retirada de lipoma, consistente em lesão do nervo radial e consequente perda parcial dos movimentos do membro superior direito da autora - Danos materiais decorrentes da perda funcional total de 30%, ensejando indenização por lucros cessantes - Danos morais devidos e fixados em patamar razoável - Danos estéticos evidenciados e fixados no valor de R$ 50.000,00 (cinquenta mil reais) - Recurso do réu desprovido e parcialmente provido o recurso interposto pela autora."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 723-726).
+Nas razões do apelo nobre (fls. 827-897), LUIZ ANTONIO DE PADUA MOREIRA TURQUETO indica, além de divergência pretoriana, violação aos arts. 402 e 944 do Código Civil, ao argumento, entre outros, de que é indevida a condenação ao pagamento de indenização por materiais porque "(..) a Recorrida não trouxe à baila nenhum tipo de comprovação documental, consoante consta no trecho supradestacado do Acórdão vergastado" (fls. 834-835).
+Alega, no tocante a indenização por danos morais, que "(..) o valor de R$ 50.000,00 é exorbitante, situação que autoriza a diminuição da quantia fixada, de tal sorte que não há que se falar de incidência da Súmula n 7/STJ"(..)" (fls. 836 - destaques no original). Afirma, ainda, que "(..) consoante fartamente comprovado, o valor fixado não seria exorbitante se ficasse no patamar de R$ 15.000,00 (quinze mil reais)" (fls. 838 - destaques no original).
+Quando ao dano estético, assevera, que "(..) o dano não pode vir do mesmo fato (1), sem olvidar que não há no trecho supra a separação dois fundamentos diversos, pois a "modificação de sua estrutura corporal" é somente uma forma diferente de discorrer sobre o direito "à imagem da Recorrida", ou seja, o significado dos termos é o mesmo (2)" (fls. 839 - destaques no original).
+Intimada, MARIA DO CARMO FIGUEIREDO DE BRITO LIMA apresentou contrarrazões (fls. 930-947), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 963-966), motivando o agravo em recurso especial (fls. 972-978) em testilha.
+Também foi oferecida contraminuta (fls. 990-996), pelo desprovimento do agravo.
+É o relatório. Decido.
+No caso, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu que restou comprovado o "(..) ato ilícito imputado pela autora  ora agravada  aos réus, uma vez evidenciado o fornecimento de tratamento inadequado àquela, o que implica na obrigação de indenizar os danos por ela sofridos"; fixando indenizações a título de danos morais - R$ 50.000,00 (cinquenta mil reais); a título de danos estéticos em R$ 50.000,00 (cinquenta mil reais); e por danos materiais, no valor de um salário-mínimo, ante a perda permanente de 30% da capacidade laboral. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 699-704):
+"Inicialmente, oportuno ressaltar que, no caso "sub judice", a autora pleiteia indenização por danos materiais e morais em face de médico e hospital, sob o fundamento de erro médico ocorrido por ocasião de cirurgia para retirada de lipoma, consistente em lesão do nervo radial, o que teria provocado a perda parcial dos movimentos do membro superior direito.
+(..)
+Presentemente, pelos elementos coligidos nos autos, o nexo causal restou cabalmente demonstrado, evidenciando que o médico réu agiu com culpa "stricto sensu", pois, segundo se infere dos autos, houve mau planejamento do ato cirúrgico por parte do médico assistente e adoção de técnica inapropriada para o caso da autora, circunstância preponderante para o erro médico consistente em lesão ao nervo radial direito e na consequente paralisia parcial de seu membro superior direito (cfr. fls. 537/539).
+Restou comprovado, portanto, o ato ilícito imputado pela autora aos réus, uma vez evidenciado o fornecimento de tratamento inadequado àquela, o que implica na obrigação de indenizar os danos por ela sofridos.
+(..)
+E, configurada a culpa do médico cirurgião que atendeu a autora, impõe-se a responsabilização solidária do hospital réu pelo ato de seu preposto.
+Com relação ao pleito de indenização por danos materiais, consistente em lucros cessantes, razão assiste à autora.
+Conforme devidamente comprovado nos autos, a autora ficou parcial e permanentemente incapacitada para o exercício de atividade laboral, havendo perda funcional total de 30% (trinta por cento), logo, faz jus ao recebimento dos valores que deixou de auferir em razão do erro médico de que foi vítima, conforme dispõe o artigo 402 do Código Civil.
+Quanto ao valor de sobredita indenização, à míngua de comprovação documental dos valores que a autora auferia com a atividade de "diarista", aplica-se o percentual de perda funcional total ao valor do salário mínimo vigente à época, corrigido monetariamente pela tabela do TJSP e acrescido de juros de mora de 1% (um por cento) ao mês, desde a data do evento danoso, observando que tal indenização é devida até a data em que a autora completou 65 (sessenta e cinco) anos de idade.
+No concernente aos danos estéticos, ressalte-se, sobre esse aspecto, ser plenamente admissível a cumulação do dano estético com dano moral, ainda que advindos do mesmo fato, desde que possam ser reconhecidos autonomamente.
+No caso, o dano estético é manifesto, independentemente de uma menção expressa, porque a autora sofreu paralisia permanente de sua mão direita, o que repercutirá de forma indelével em sua vida pessoal.
+Na hipótese dos autos, mesmo que derivados de um mesmo fato, a paralisia da mão direita da autora, ensejou não só o dano moral, como também o estético. O primeiro, correspondente à violação do direito à dignidade e à imagem da vítima, assim como ao sofrimento, à aflição e à angústia a que foi submetida, e o segundo, decorrente da modificação de sua estrutura corporal, enfim, da deformidade a ela causada.
+Assim, respeitado o entendimento esposado pelo MM. Juízo "a quo", arbitra-se o dano estético também no valor de R$ 50.000,00 (cinquenta mil reais), corrigido monetariamente desde a data do presente arbitramento e acrescido de juros de mora desde a data do evento danoso.
+No que diz respeito ao valor da compensação por dano moral, a sua fixação deve ser informada por critérios de proporcionalidade e razoabilidade, observando-se as condições econômicas das partes envolvidas, a natureza e extensão do dano, o caráter punitivo da medida, o grau de reprovabilidade da conduta e o não enriquecimento ilícito da parte ofendida.
+Neste contexto, levando-se em conta, ainda, que os objetivos primordiais da verba em testilha são desestimular a conduta ilícita do ofensor e trazer algum lenitivo ao ofendido, revela-se adequada a quantia de R$ 50.000,00 (cinquenta mil reais) fixada na r. sentença, cumprindo acrescentar que, como já judiciosamente decidiu o Egrégio Superior Tribunal de Justiça, citada verba "não pode contrariar o bom senso, mostrando-se manifestamente exagerado ou irrisório".
+(..)" (g. n.)
+Nesse cenário, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Avançando, o recurso tampouco merece acolhida no tocante à pretensão de reduzir do valor da aludida indenização a título de danos morais.
+Como sabido, a remansosa jurisprudência desta eg. Corte, a pretensão de revisar o valor da indenização a título de danos morais, via de regra, encontra óbice na Súmula n. 7/STJ; no entanto, afasta-se o referido óbice em hipóteses excepcionais, quando for verificada a natureza exorbitante ou irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. O valor fixado a título de indenização por danos extrapatrimonias só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+5. O STJ firmou entendimento de ser incabível a análise do valor de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.991.707/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, QUARTA TURMA, JULGADO EM 23/5/2 Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - g. n.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. USO INDEVIDO DE IMAGEM. PROPAGANDA. OBTENÇÃO DE LUCRO. NÃO CARACTERIZAÇÃO DE BRINDE. REEXAME DE PROVAS. DANO MORAL. VALOR DA INDENIZAÇÃO. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso. Incidência da Súmula 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 1.855.642/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022 g. n.)
+No caso, tem-se que o quantum fixado a título de indenização por danos morais - R$ 50.000,00 (cinquenta mil reais) - não se mostra exorbitante e atende aos princípios da razoabilidade e da proporcionalidade. Assim sendo, inexistindo a referida excepcionalidade, o apelo nobre encontra óbice na Súmula n. 7/STJ.
+Impende salientar, ainda, que a iterativa jurisprudência desta eg. Corte firmou-se no sentido da possibilidade de cumulação de indenização por danos morais e por danos estéticos. Sobre o tema, destaca-se a Súmula n. 387 desta eg. Corte, que assim dispõe: "É lícita a cumulação das indenizações de dano estético e dano moral."
+Nessa linha de intelecção, destacam-se também os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. PRESCRIÇÃO. LITISPENDÊNCIA. RESPONSABILIDADE CIVL. REEXAME DE PROVAS. SÚMULA 7 DO STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. CUMULAÇÃO DE DANOS MORAIS E ESTÉTICOS. POSSIBILIDADE. SÚMULA 387 DO STJ.
+(..).
+3. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+4. Consoante entendimento sedimentado no verbete 387 do STJ, "é lícita a cumulação das indenizações de dano estético e dano moral."
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.065.899/TO, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023 - g. n.)
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. ACIDENTE DE TRÂNSITO. CONTRATO DE TRANSPORTE. RESPONSABILIDADE DO TRANSPORTADOR. DANO MORAL E DANO ESTÉTICO. CUMULAÇÃO. POSSIBILIDADE. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. PERDA DA CAPACIDADE LABORATIVA. PENSÃO. CABIMENTO. VALOR DAS INDENIZAÇÕES. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+4. É lícita a cumulação das indenizações por dano estético e dano moral, ainda que derivados de um mesmo fato, desde que passíveis de identificação em separado. Precedentes.
+5. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+6. No caso concreto, o Tribunal de origem conclui ter havido dano moral e estético indenizáveis, bem como perda da capacidade laborativa a ensejar o arbitramento de pensão à vítima do acidente. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+7. Somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a importância fixada a título de indenização por danos morais e estéticos, é possível o afastamento da Súmula n. 7/STJ, a ensejar a revisão da quantia arbitrada, o que não se observa.
+8. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.863.811/DF, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.257.915/CE, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023 - g. n.)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. CONTRATO DE ALUGUEL DE COFRE. ROUBO. CLÁUSULA LIMITATIVA DE USO. VALIDADE. PRECEDENTES DO STJ.
+(..)
+2. O óbice da Súmula n. 83 do STJ é aplicável aos recursos especiais tanto fundados na alínea a quanto na alínea c do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 1.746.238/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024 - g. n.)
+Finalmente, registre-se que a incidência da mencionada Súmula n. 7/STJ também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+3. "Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no REsp 1812345/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019).
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos."
+(AgInt no AREsp 1817343/SP, Rel. MINISTRO ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. (..). NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+(..)
+4. É inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 1.969.720/RS, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022 - g.n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
