@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por CLELIA DE ALMEIDA RUIZ em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. AÇÃO REIVINDICATÓRIA C.C. REPARAÇÃO DE DANOS.
+Pretensão da autora de alcançar a nulidade de escritura de venda e compra de imóvel e a retomada do bem para inclusão em partilha, ou a conversão em perdas e danos, ante indicada fraude perpetrada pela viúva meeira. Sentença de parcial procedência. Inconformismo da ré. Descabimento. Nulidade da escritura assinada pela viúva na qualidade de representante de seu cônjuge, ante o falecimento deste em data anterior. Prescrição e decadência inaplicáveis à hipótese. Inteligência do art. 169, do Código Civil. Sentença mantida. Recurso não provido." (e-STJ fls. 1651)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 1688/1691)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 166 e 169 do Código Civil, arts. 1.267 e 1.268 do CC, Artigo 5º, da CF, bem como dissídio jurisprudencial, sustentando, em síntese que, a pretensão da recorrente encontra-se fulminada pela decadência ou, alternativamente, pela prescrição, uma vez que decorrido o prazo de quatro anos para se pleitear a anulação do negócio jurídico, seja contado da homologação do testamento, seja do reconhecimento da paternidade da recorrida.
+É o relatório. Decido.
+De início, cumpre destacar que não se admite apreciação, nesta instância excepcional, de matéria constitucional, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+No que se refere à ofensa aos arts. 166 e 169, 1.267 e 1.268 do CC, a recorrente não desenvolveu argumentação que evidenciasse a ofensa, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal. Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISPOSITIVO LEGAL DISSOCIADO DA TESE RECURSAL. SÚMULA 284 DO STF. RAZÕES RECURSAIS NÃO IMPUGNAM OS FUNDAMENTOS NA DECISÃO AGRAVADA. FUNGIBILIDADE. IMPOSSIBILIDADE.
+1. A tese recursal desenvolvida no recurso especial está dissociada do dispositivo legal apontado como violado, razão pela qual a fundamentação do recurso é deficiente nesse aspecto, incidindo, na espécie, a Súmula 284/STF.
+2. As razões desenvolvidas no presente recurso não impugnam os fundamentos da decisão monocrática agravada, o que representa ofensa ao princípio da dialeticidade.
+3. A interposição, como na hipótese dos autos, de agravo em recurso especial no lugar do agravo interno, configura hipótese de erro grosseiro, a inviabilizar a aplicação do princípio da fungibilidade recursal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.055.455/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. ALEGADA VIOLAÇÃO A DECRETO. IMPOSSIBILIDADE DE EXAME. DANO MORAL. NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. VIOLAÇÃO AO ART. 304 DO CC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Não cabe, no âmbito do recurso especial, a análise de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não se enquadrarem no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal.
+3. No caso, alterar a convicção a que chegou a Corte de origem (no que diz respeito à inexistência de violação a direitos da personalidade da autora a ensejar a indenização por dano moral) exigiria o reexame do conjunto fático-probatório dos autos, o que é vedado, no âmbito do recurso especial, devido ao óbice da Súmulas 7 do Superior Tribunal de Justiça.
+4. Consoante a jurisprudência do Superior Tribunal de Justiça, a mera indicação de ofensa a dispositivo de lei federal, sem demonstração efetiva de sua violação pelo acórdão impugnado, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284/STF.
+5. Conforme entendimento desta Corte Superior, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgInt nos EDcl nos EDcl no AgInt nos EDcl nos EAREsp 884.708/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 18/05/2021, DJe 20/05/2021).
+6. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+7. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.106.824/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022.)
+De fato, o art. 169 do Código Civil foi adotado como razão de decidir pela Corte de origem para anular o negócio jurídico em questão, nos seguintes termos:
+"Extrai-se dos autos ter sido a autora reconhecida como filha legítima de Paulo Ruiz, cônjuge da ré, anos após o falecimento deste. Alcançou a anulação da partilha dos bens do de cujus, ante indicada sonegação de bens do espólio. Tomou conhecimento da alienação do imóvel objeto da presente demanda e, ante argumento de fraude, pugnou por sua anulação, por ter a viúva meeira, ora apelante, firmado, por si e na qualidade de representante do falecido, a escritura de compra e venda do bem, sem que o montante respectivamente auferido integrasse a partilha.
+(..)
+De fato, a análise dos autos e dos fatos permite alcançar a nulidade da outorga da escritura pública de compra e venda do imóvel descrito na inicial, pois subscrita pela apelante na qualidade de representante de seu cônjuge já falecido, o que não se admite, ante a cessação dos efeitos do mandato a ela outorgado quando da morte daquele, nos exatos termos do art. 682, II, do Código Civil.
+(..)
+E, frente à patente nulidade do ato, não vinga o argumento de prescrição do direito de indenização ou decadência do direito à anulação, pois, na exegese do art. 169, do Código Civil, o negócio jurídico nulo não é suscetível de confirmação, nem convalesce pelo decurso do tempo." (e-STJ fls. 1653/1654)
+Contudo, em suas razões recursais, a recorrente limitou-se a alegar a impossibilidade de anulação do negócio jurídico (seja por reconhecimento de decadência ou prescrição), sem desenvolver qualquer argumentação no que diz respeito à conclusão de que se trata de ato nulo, sendo impossível sua confirmação ou convalidação pelo decurso do tempo.
+Tal circunstância atrai também a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordin ário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, relator Ministro Raul Araújo, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro em 1% sobre o valor da condenação os honorários advocatícios devidos pela parte recorrente aos patronos recorridos.
+Publique-se.
+EMENTA
