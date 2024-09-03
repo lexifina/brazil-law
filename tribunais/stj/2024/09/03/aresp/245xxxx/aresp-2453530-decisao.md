@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 735 do STF e da inexistência de violação dos arts. 489, § 1º, e 1.022 do CPC/2015 (e-STJ fls. 867/869).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 807):
+RESPONSABILIDADE CIVIL - AÇÃO DE OBRIGAÇÃO DE FAZER - RECURSO DE AGRAVO INTERPOSTO CONTRA A DECISÃO QUE CONCEDEU O PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA - PRETENSÃO DE REVOGAÇÃO DA MEDIDA - POSSIBILIDADE - AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA TUTELA PROVISÓRIA - DECISÃO REFORMADA
+AGRAVO PROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 823/826).
+Nas razões do recurso especial (e-STJ fls. 828/845), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, VI, e 1.022, II, e parágrafo único, II, do CPC/2015, aduzindo omissão do acórdão recorrido acerca da "efetiva análise do laudo pericial acostado às fls. 766/804 do feito recursal principal, que deu conta de falhas quanto ao exercício do dever de fiscalização da empresa recorrida em relação às áreas de interesse ambiental dos imóveis por ela explorados" (e-STJ fls. 832/833), e
+(ii) art. 300 do CPC/2015, sustentando que "o quadro fático-probatório incontroverso da demanda comprova de forma robusta a plausibilidade do direito invocado pela recorrente" (e-STJ fl. 841).
+No agravo (e-STJ fls. 872/882), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 887/901 (e-STJ).
+É o relatório.
+Decido.
+Não há falar em vício de fundamentação ou negativa de prestação jurisdicional quando os fundamentos adotados pelo Tribunal de origem bastam para justificar a conclusão do acórdão, não estando o julgador obrigado a rebater todos os argumentos suscitados pela parte.
+No caso concreto, houve o devido enfrentamento da questão relativa ao cabimento ou não da medida liminar deferida em favor da parte ora agravada, concluindo o Tribunal de origem pela revogação da decisão que concedeu a tutela provisória de urgência, uma vez não preenchidos os requisitos autorizadores para a sua concessão. Consignou que (e-STJ fls. 810/811, destaquei):
+Conquanto a requerente tenha apontado a existência de indícios de que a requerida vem negligenciando aos cuidados de prevenção e estancamento de incêndios de suas propriedades, sobreleva o fato de que, tendo sido instaurado o contraditório, a requerida, ora agravante, tornou relevantemente controversos os fatos e os fundamentos em que assentada a pretensão de concessão da tutela provisória de urgência, na medida em que negou ser a responsável pelos incêndios ocorridos, além de demonstrar a adoção de medidas para mitigar e/ou conter o fogo, com a finalidade de minimizar os prejuízos causados nos canaviais e nos entornos das áreas exploradas.
+Ora, evidente a complexidade da controvérsia instaurada nos autos, o que demandará acurada análise da prova documental produzida por ambas as partes e da prova pericial já determinada em primeiro grau, razão pela qual reputo prematura a concessão da tutela provisória de urgência deferida pelo juízo a quo.
+Importante destacar, por oportuno, que o laudo pericial recentemente elaborado em primeiro grau, a despeito de as partes ainda sobre ele não terem se manifestado, foi conclusivo no sentido de que "..os dois incêndios ocorreram devido a irresponsabilidade de terceiros, caçadores e pescadores amadores, que invadiram as áreas e acabaram por causar todo o dano a flora, a fauna local e na lavoura da cana-de-açúcar de ambas as Usinas" (fl. 1261 dos autos principais).
+Nesse contexto, sem que haja definição a respeito da responsabilidade da ré pelos fatos narrados na petição inicial, não há como lhe impor a obrigação de fazer descrita na decisão que concedeu a tutela provisória de urgência, sendo necessário aguardar-se o encerramento da fase instrutória para escorreita definição do direito alegado.
+Em suma, considerando que a questão é demasiadamente complexa e demandará acurada análise à luz do contraditório e, por certo, mediante ampla dilação probatória, reputo temerária e injustificada a manutenção da decisão que concedeu a tutela de urgência.
+O julgador não está obrigado a se pronunciar sobre todos os argumentos invocados pelas partes, bastando que os fundamentos utilizados sejam suficientes para embasar a decisão, como no caso dos autos.
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu fundamentadamente a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489, § 1º, e 1.022 do CPC/2015.
+Acerca da alegada ofensa ao art. 300 do CPC/2015, inviável que se desconstitua a conclusão da Corte estadual  quanto à ausência dos requisitos autorizadores para a concessão da tutela provisória de urgência e acerca da necessidade de se aguardar o encerramento da fase instrutória para a escorreita definição do direito alegado  sem que se proceda à reanálise de elementos de fato e de prova, providência inviável em sede especial, a teor da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
