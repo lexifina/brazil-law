@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ASSOCIAÇÃO DOS MORADORES DO LOTEAMENTO NOVO CAMPECHE - AMONC contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional em face de v. acórdão assim ementado (fls. 341):
+"URBANÍSTICO. AÇÃO CIVIL PÚBLICA. TUTELA ANTECIPADA DE URGÊNCIA CONCEDIDA PARA SUSPENDER A EDIFICAÇÃO DE CONDOMÍNIO MULTIFAMILIAR EM VIRTUDE DE O LOTEAMENTO ORIGINALMENTE APROVADO E AVERBADO NO REGISTRO IMOBILIÁRIO REFERIR-SE A UNIDADES UNIFAMILIARES. REFORMA QUE SE IMPÕE. RESTRIÇÃO CONVENCIONAL POSTA PELO LOTEADOR QUE APARENTEMENTE DECAIU, DE PLENO DIREITO, ANTE A SUPERVENIENTE LEI INSTITUDORA DO NOVO PLANO DIRETOR, QUE ADMITE EMPREENDIMENTOS MULTIFAMILIARES NA ZONA URBANÍSTICA EM QUESTÃO. PRECEDENTES DO STJ. ADEMAIS, INICIATIVA QUE CONTA COM LICENÇA E ALVARÁ DE CONSTRUÇÃO, A DENOTAR A REGULARIDADE. PRESUNÇÃO DE LEGALIDADE, LEGITIMIDADE E VERACIDADE DO ATO ADMINISTRATIVO. FUMUS BONI JURIS QUE NÃO CONCORRE PARA A TUTELA PROVISÓRIA. ART. 300, CAPUT, DO CPC/15. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. AGRAVO INTERNO INTERPOSTO CONTRA ALIMINAR RECURSAL NÃO CONHECIDO POR PREJUDICADO ANTE A PERDA DO OBJETO.
+4. Na jurisprudência deste Tribunal Superior, não há fundamento para a pretensão da recorrente de fazer prevalecer uma restrição convencional originária, imposta unilateralmente pelo loteador, frente à legislação municipal que, de forma fundamentada, abranda essas restrições. 5. Não há como opor uma restrição urbanística convencional, com fundamento na Lei 6.766/79, à legislação municipal que dispõe sobre o uso permitido dos imóveis de determinada região.  .. " (STJ, REsp. n.º 1.774.818/SP, relª. Minª. Nancy Andrighi, Terceira Turma, j. 19.05.20)."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 396-405).
+Nas razões do apelo nobre (fls. 415-430), ASSOCIAÇÃO DOS MORADORES DO LOTEAMENTO NOVO CAMPECHE - AMONC alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC/15, afirmando que o eg. TJ-SC não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, apontam violação aos arts. 26 VII, 28 e 45 da Lei 6.766/79 e ao art. 1.299 do Código Civil, ao argumento, entre outros, de que o "(..) bom senso juri"dico recomenda que o ato juri"dico de aprovac a o do loteamento pelo Munici"pio e sua averbac a o no competente Registro de Imo"veis (Ev. 1 -MATRIMÓVEL13, MATRIMÓVEL14 e MATRIMÓVEL15, dos autos originários), somente pode ser alterado ou cancelado por ato juri"dico de mesma natureza, mediante "aprovação pela Prefeitura Municipal" a qual deveráser "depositada no Registro de Imo"veis" (Lei 6.766/79, art. 281)" (fls. 422 - destaques no original).
+Aduz, também, que "(..) ao deixar de deixar de seguir precedente invocado (o RESP 302.906/SP, que estabeleceu a validade da restrição convencional maior que a legal como interpretação adequada ao art. 26, inciso VII, da Lei 6.776/1979) o acórdão recorrido violou referido dispositivo de lei federal, e ainda deixou de demonstrar a existência de distinção no caso em julgamento que justificasse a sua inaplicabilidade ao caso concreto" (fls. 423).
+Intimado, OMMAR INCORPORAÇÕES LTDA apresentou contrarrazões (fls. 437-454), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 460-463), motivando o agravo em recurso especial (fls. 509-518) em testilha.
+Também foi oferecida contraminuta (fls. 523-537), pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+O apelo não merece prosperar.
+Inicialmente, rejeita-se a alegada violação aos arts. 489 e 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado de Santa Catarina (TJ-SC) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 11, 489 E 1.022 DO CPC/2015. RENDIMENTOS LÍQUIDOS. PENHORA. PERCENTUAL. MAJORAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 11, 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4 . Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 2.435.819/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS DE TERCEIRO C/C PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 1.367.343/PR, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - g. n.)
+Avançando, melhor sorte não socorre ao recurso quanto à suscitada ofensa aos demais dispositivos legais.
+No caso dos aut os, o eg. TJ-SC, com arrimo no acervo fático-probatório carreado aos autos, reformando decisão interlocutória, concluiu pela ausência dos requisitos necessários à concessão da tutela de urgência em favor do ora Agravante. É o que se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 345-351):
+"Sobre as tutelas de urgência, o art. 300, caput, do CPC/15 dispõe: "A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo".
+A respeito do fumus boni juris, Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero lecionam:
+(..)
+No caso concreto, a probabilidade do direito alegado não concorre para a tutela cautelar de urgência.
+Isso porque a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a lei urbanística superveniente mais permissiva prevalece, de pleno direito, sobre as restrições convencionais impostas pelo loteador:
+(..)
+No caso concreto, o loteamento original foi aprovado segundo os ditames da Lei Municipal n.º 1.215/74, instituidora do Plano Diretor, que previa o local em questão como "Área Residencial Exclusiva - ARE", predominantemente destinada à residências unifamiliares(evento 1, docs.
+MATRIMÓVEL13, MATRIMÓVEL14 e MATRIMÓVEL15).
+Todavia, em 2014 sobreveio a Lei Complementar Municipal n.º 482, que instituiu o novo Plano Diretor, com a reconfiguração da região para "Área Turística Residencial - ATR", admitidas residências multifamiliares.
+Assim é que a restrição convencional posta pelo loteador originalmente, no sentido de que o Loteamento Novo Campeche cingia-se à edificações unifamiliares, à primeira vista caducou de pleno de direito com o advento do novo Plano Diretor, cujo zoneamento passou a admitir edificações multifamiliares.
+E isso independentemente da desconstituição do registro público de loteamento no assento imobiliário do imóvel.
+Logo, aparentemente à construtora é lícito edificar, na sua propriedade, o condomínio constituído de unidades multifamiliares.
+Saliente-se que em favor da lei instituidora do novo Plano Diretor militam as presunções de legalidade, de veracidade e de legitimidade.
+Isto significar dizer que compete à parte autora alegar e provar a ilegalidade/ilegitimidade da permissividade legal com relação ao zoneamento urbanístico ora focalizado, com a demonstração dos danos e prejuízos concretos e efetivos daí advindos.
+Porém, ao menos por ora, initio litis, não se tem provas mínimas disto na espécie.
+Ademais, a legalidade da obra civil é corroborada pelo fato de que, sob o novo regime jurídico, ela renovou o pedido de licença de edificação para o empreendimento de unidades multifamiliares e logrou obter o alvará de construção da Administração Pública municipal (evento 24, docs. ANEXO3, ANEXO4 e ANEXO5).
+Com efeito, ao menos por ora há de prevalecer a presunção de legalidade, de legitimidade e de veracidade das licenças e alvarás administrativos já concedidos à demandada, ora recorrente.
+Aliás, saliente-se que a manifestação administrativa do Município de Florianópolis  no sentido de que "este Núcleo de Atuação Jurídica Urbanística e Ambiental - NAJ-UA opina no sentido deque toda e qualquer aprovação de projeto de licenciamento de obra que abranja as áreas ora em debate deva observar as regras e restrições urbanístico-ambientais previstas no atual Plano Diretor(Lei Complementar n.º 482) frente a eventuais restrições convencionais estabelecidas por loteador"  está concorde com a supracitada orientação do STJ (evento 24, doc. ANEXO10).
+Portanto, nesse panorama em que a princípio a restrição convencional decaiu de pleno direito; em que à primeira vista a zona urbanística comporta condomínio de unidades multifamiliares; e em que ao que tudo indica o empreendimento conta com as licenças competentes, ao menos por ora não se cogita de ilicitude a amparar a medida liminar.
+Por fim, conforme observado no parecer ministerial, salienta-se que, tornado litigioso o empreendimento imobiliário, a requerida, ora agravante, é sabedora dos riscos jurídicos e materiais de levar a termo a edificação, a saber, da possibilidade de demolição da obra na hipótese de acolhimento do pedido na ação principal.
+Por tais razões, cumpre dar provimento ao agravo de instrumento, para o fim de cassar a decisão liminar.
+Consequentemente, o agravo interno interposto contra a liminar recursal resta prejudicado ante a perda de objeto.
+4. Ante o exposto, voto por conhecer do agravo de instrumento e dar-lhe provimento para o fim de cassar a decisão liminar, e por não conhecer do agravo interno."
+(g. n.)
+Com efeito, a jurisprudência do eg. STJ, em consonância com o entendimento firmado pelo col. STF na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela. Em tais hipóteses, admitindo-se, tão-somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam a tutela de urgência, os quais, no caso, sequer foram apontados como violados. Nessa linha de intelecção, confiram-se os recentes precedentes:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. TUTELA DE URGÊNCIA. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO. ART. 919, §1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 735 STF POR ANALOGIA. NÃO ESGOTAMENTO DAS VIAS ORDINÁRIAS. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento dessa Corte é de que as decisões que concedem ou indeferem liminares, bem como efeito suspensivo a embargos do devedor (cf. STJ, Segunda Turma, RESp n. 1.676.515/DF, Rel. Ministro Herman Benjamin, DJe de 3.8.2021), ainda são passíveis de alteração no curso do processo principal, não podendo, por isso, ser consideradas de única ou última instância a ensejar a interposição dos recursos constitucionais. Precedentes.
+2. Aplicação, por analogia, do óbice da Súmula 735 do STF, no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+3. Tribunal de origem reputou que não houve o preenchimento dos requisitos para tutela de urgência. Ausência da probabilidade do direito invocado.
+4. Rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame de provas, o que é vedado em razão da incidência da Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.130.128/GO, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023 - g. n.)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DE TUTELA DE URGÊNCIA. INCIDÊNCIA DA SÚMULA N. 735 DO STF. PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 300 DO CPC. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação de tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.075.131/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 4/3/2024, DJe de 6/3/2024 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b" do RJ-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
