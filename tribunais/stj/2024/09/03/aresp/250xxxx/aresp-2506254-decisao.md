@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TROPICAL PRAIA HOTEL LTDA contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de Sergipe (TJ-SE) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional contra v. acórdão assim ementado (fls. 346-347):
+"Apelação Cível - Preliminar de não conhecimento do recurso adesivo, deduzida em sede de contrarrazões - Recurso adesivo que visa à majoração da quantia indenizatória fixada na sentença - Interesse recursal caracterizado - Questão prefacial rejeitada -Mérito - Responsabilidade civil - Direito do consumidor - Falha na prestação de serviço -cancelamento de reserva em hotel - Abalo anímico configurado - Dano Moral -Caracterização - Quantum fixado devidamente- Manutenção da Sentença.
+I - Ao contrário da tese exposta pelo estabelecimento hoteleiro, que busca o não conhecimento do recurso adesivo interposto, é bom registrar que o arbitramento judicial de quantum indenizatório inferior ao pretendido caracteriza frustração da expectativa do autor, sobressaindo o seu interesse na majoração da quantia fixada na sentença, uma vez que está caracterizada a sucumbência material viabilizadora da irresignação recursal, razão pela qual rejeito a prefacial suscitada;
+II - As provas constantes dos autos demonstram, inequivocamente, a falha na prestação do serviço, na medida em que restou patente o cancelamento da reserva do hotel nesta Capital, onde os autores tencionavam comemorar seu primeiro aniversário de casamento, havendo a necessidade de desembolsarem mais dinheiro para o pernoite em um outro hotel, de categoria inferior e ainda mais caro;
+III - Quanto ao dano moral, verifica-se que sua ocorrência é inquestionável, haja vista a intensidade do impacto e o sentimento de desconforto do consumidor diante da aflição e da situação vexatória de chegar ao hotel e verificar que houve o cancelamento unilateral da reserva de sua hospedagem;
+IV - A indenização por lesão extrapatrimonial deve ser fixada em observância ao binômio razoabilidade/proporcionalidade e à extensão do dano (art. 944, caput, do CC), razão pela qual o montante de R$ 3.000,00 (três mil reais) em favor de cada autor se mostra adequado às circunstâncias do caso;
+V - Recursos conhecidos e desprovidos."
+Em suas razões recursais (fls. 370-381), TROPICAL PRAIA HOTEL LTDA aponta ofensa aos arts. 86 e 489, IV, do CPC/15 e ao art. 14 do Código de Defesa do Consumidor (CDC), ao argumento, entre outros, de que "(..) no recurso de apelação ficou demonstrado que a impossibilidade dos apelantes em usufruir dos serviços, até então contratados, se deram exclusivamente por culpa dos mesmos, ante aos problemas com o cartão de crédito apresentado por eles no momento do pagamento. Foram juntados documentos comprobatórios conforme avista-se as f. 112 e 113. Ocorre que no acórdão em nenhum momento, há qualquer fundamento ou menção sobre o argumento sustentado pelo recorrente, sendo o mesmo determinante para a exclusão da responsabilidade do Hotel, com amparo no art. 14, §3º inciso II do Código de Defesa do Consumidor" (fls. 377).
+Aduz, também, que os "(..) julgadores entenderam por manter incólume a sentença de origem, ou seja, não foi dado provimento tanto ao recurso dos recorridos bem como do recorrente, mas, na contramão da decisão o Tribunal entendeu por majorar os honorários advocatícios já fixados, sendo majorado de 15% (quinze por cento) para 20% (vinte por cento)" (fls. 379).
+Intimados, WILLIAM BARRETO SANTOS E THUANY DOS SANTOS apresentaram contrarrazões (fls. 385-401), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 430-434), motivando o agravo em recurso especial (fls. 439-448) em testilha.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, deve ser rejeitada a alegada ofensa ao art. 489 do CPC/15, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA POR EMBARGOS PROTELATÓRIOS. MANUTENÇÃO. VIOLAÇÃO AO ART. 489, § 1º, IV DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. (..). AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 489, § 1º, IV, quando o tribunal de origem aprecia, de modo claro, objetivo e fundamentado as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.101.431/PR, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO E PARTILHA. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. PEDIDO DE RECONSIDERAÇÃO. NÃO INTERRUPÇÃO DO PRAZO. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa ao art. 489 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.511.050/DF, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 14/11/2022, DJe de 24/11/2022 - g. n.)
+Avançando, o apelo tampouco merece acolhida quanto à violação ao art. 14 do CDC.
+No caso, o eg. TJ-SE, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela condenação solidária da ora Agravante ao pagamento de indenização a título de danos morais sofridos pelos ora Agravados, arbitrada em R$ 3.000,00 (três mil reais) para cada um dos dois autores. É o que se infere de leitura do seguinte trecho do v. acórdão estadual:
+"De início, destaca-se que a relação jurídica havida entre as partes é tipicamente de consumo, aplicando-se, por conseguinte, para a resolução do conflito, o Código de Defesa do Consumidor, que, entre outros escopos, destina-se a promover o equilíbrio contratual e evitar que o consumidor sofra algum prejuízo, porquanto parte hipossuficiente, via de regra, em relações desta espécie.
+Nessa toada, aplica-se à espécie em questão o disposto no art. 14, caput , do Diploma Consumerista, in verbis:
+(..)
+À luz de tais considerações, compulsando os autos verifica-se ser incontroversa a contratação do serviço de hospedagem junto à empresa Tropical Mar Hotel, nesta cidade.
+A Demandada se limita a atribuir a responsabilidade pela não concretização do negócio jurídico aos autores, sem, contudo, comprovar suas alegações, ônus que lhe competia consoante a regra contida no art. 6º, VIII, Código de Defesa do Consumidor.
+Ressalte-se que a empresa apelante e os responsáveis pela publicidade, a exemplo do Booking.com Brasil Serviços de Reserva de sites Hotéis Ltda formam uma parceria para viabilizar a prestação de serviço de hospedagem ao consumidor. Destarte, não há como eximir a culpa da Requerida, que deve responder pelos danos causados aos autores.
+Sendo assim, constatando-se que o serviço não foi prestado, informação essa, ressalte-se, não contestada pela empresa Tropical Mar Hotel e, verificando-se a sua responsabilidade pela higidez da referida prestação - uma vez que não demonstrou a culpa exclusiva do consumidor ou de terceiro - resta perquirir acerca do abalo anímico suportado pelos Autores/Apelantes.
+Deveras, os danos morais consubstanciam-se na angústia e nos transtornos sofridos pelos demandantes que, não obstante tenham contratado o serviço ora tratado, no intuito de comemorar o primeiro aniversário de casamento, aproveitando ao máximo sua estadia na cidade de Aracaju, tiveram suas expectativas frustradas graças à falta de organização do hotel, que não assegurou a disponibilização de um quarto em seu estabelecimento, em atendimento à reserva realizada antecipadamente.
+A situação vivenciada pelas partes ultrapassa qualquer aborrecimento do cotidiano, uma vez que tiveram suas expectativas completamente frustradas em decorrência da falha na prestação do serviço.
+Quanto ao dano moral, verifica-se que sua ocorrência é inquestionável, haja vista a intensidade do impacto e o sentimento de desconforto do consumidor diante da aflição e situação vexatória de chegar ao hotel em Aracaju e verificar que houve o cancelamento da reserva de sua hospedagem, necessitando, após horas de incertezas, proceder novo pagamento para conferir sua estada em outro hotel, este de categoria inferior e pagando um valor ainda mais caro. Pontue-se, ainda, que a apresentação do que comprova referida reserva não foi voucher suficiente para os autores serem devida e merecidamente acomodados no Tropical Mar Hotel.
+Nesse toar, bem assinalou o juízo sentenciante:
+"(..) É incontroversa a realização da reserva de um quarto para o período de 31/10 a 02/11/2020, conforme narrado na inicial. Note-se que a requerida Booking não nega a realização da reserva, mas imputa aos requerentes a culpa pelo cancelamento da reserva ao inserirem não inseriram um cartão de crédito válido para cobrança.
+Vale destacar que o e-mail anexado às fls. 38/43 do feito materializado ("confirmação de reserva") comprova que a reserva do hotel foi confirmada e emitida pela requerida Booking.
+Embora no e-mail conste que os autores estavam com sua reserva confirmada junto ao hotel, estes foram impedidos de efetivar a hospedagem no Tropical Mar Hotel, sob a informação de que a reserva tinha sido cancelada por divergência nos dados do cartão de crédito informado no momento da reserva. Assim, evidente que em razão da falha na prestação do serviço pelos demandados, os consumidores se viram obrigados a procurar com urgência outro local para se hospedarem em Aracaju/SE.
+Ademais, apesar de o hotel requerido afirmar que o cancelamento das reservas se deu em razão da falta de resposta dos autores, não há nos autos prova válida de que os demandados tenham tentado entrar em contato com o Sr. William ou a Sra Thuany para resolver eventuais problemas na reserva.
+(..)
+Em razão da falha na prestação do serviço pelos requeridos, os autores ficaram sem hospedagem durante a viagem, tendo que percorrer pela cidade em busca de vagas em outro hotel em período de alta ocupação. Desse modo, conforme se depreende dos documentos anexados aos autos, os autores tiveram que despender seu tempo útil para solucionar o problema, permanecendo por algum tempo à procura de quarto para se hospedarem."
+(..)
+Com efeito, a reparação de danos morais exerce função diversa daquela dos danos materiais. Enquanto estes se voltam para a recomposição do patrimônio ofendido, através da aplicação da fórmula "danos emergentes e lucros cessantes" (C. Civ., art. 1059), aqueles procuram oferecer compensação ao lesado, para atenuação do sofrimento havido. De outra parte, quanto ao lesante, objetiva a reparação impingir-lhe sanção, a fim de que não volte a praticar atos lesivos à personalidade de outrem.
+Nesses termos, tomando-se em consideração as condições pessoais dos ofendidos e dos ofensores, bem como a gravidade dos efeitos da sua conduta, entendo dever ser mantida a reparação no importe de R$ 3.000,00 (três mil reais) para cada autor, por entendê-la como justa e necessária ao caso dos autos, pois, ao mesmo tempo em que não se me apresenta vultoso o valor apurado, de tal forma que onere excessivamente as rés, também não constitui valor irrisório, a frustrar a penalidade que se pretende impor a mesma.
+(..)
+Atente-se, ainda, para o fato de que a fixação do dano moral não pode configurar como ganho para o autor, mas apenas simples ressarcimento pelo ato ilícito das rés, embora deva servir a estas últimas como pena pela conduta reprovável praticada, no sentido de impedi-las a agir da mesma forma em outras situações.
+Por todo o exposto, conheço os recursos interpostos, mas, para negar-lhes provimento , mantendo a sentença guerreada em todos os seus termos."
+(fls. 349-351 - g. n.)
+Nesse contexto, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Melhor sorte não socorre ao recurso no tocante à ofensa ao art. 86 do CPC/15.
+Com efeito, quanto aos honorários advocatícios devidos pela ora Agravante, assim manifestou-se o eg. TJ-SE (fls. 351):
+"Com relação ao hotel requerido, e à luz do disposto no art. 85, §11 do CPC, majoro os honorários fixados para 20% (vinte por cento) sobreo montante da condenação."
+No caso, não se infere violação ao referido art. 86 do CPC/15, na medida em que a majoração dos honorários advocatícios está devidamente arrimada no art. 85, §11, do mesmo Codex.
+Ademais, registre-se que a iterativa jurisprudência desta eg. Corte é no sentido de que a pretensão de discutir a distribuição dos ônus sucumbenciais esbarra na referida Súmula n. 7/STJ. Nessa linha de intelecção, confirmam-se os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. INEXISTENTE. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. SÚMULA N. 83/STJ. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚMULA N. 7/STJ. ART. 85, § 11, DO CPC/2015. INAPLICABILIDADE. PRECEDENTE. DECISÃO MANTIDA.
+(..)
+3. Revisar a conclusão do Tribunal de origem acerca da distribuição dos ônus da sucumbenciais, feita com base no princípio da causalidade, encontra óbice na Súmula n. 7/STJ. Precedentes.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.189.349/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022 - g. n.)
+"AGRAVO INTERNO. RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. PLANO DE SAÚDE. CONTRATO COLETIVO. REAJUSTE. ABUSIVIDADE. NÃO CONFIGURAÇÃO. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+(..)
+3. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 1.915.821/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
