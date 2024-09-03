@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SPARTACUS S/A EMPREENDIMENTOS E PARTICIPAÇÕES com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ Fl. 996):
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. JULGAMENTO EXTRA PETITA. PURGA DA MORA.
+1. Decisão do STJ que determinou o rejulgamento dos embargos de declaração para analisar a alegação "de que a sentença recorrida incorreu em nulidade ao "julgar uma causa pela outra", isto é, ao decidir, na ação de consignação em pagamento, sobre objeto (purga da mora) referente a ação distinta, de despejo".
+2. Com relação à alegada omissão do acórdão, verifica-se que a sentença proferida nesta ação de consignação em pagamento de parcelas vincendas de aluguéis analisou o pedido consignatório sem decidir sobre qualquer objeto estranho à lide. A desconstituição do contrato de locação, pelo despejo, por ausência de purga da mora, foi utilizada pelo juízo a quo apenas como fundamento da improcedência do pedido consignatório de alugueres vincendos, formulado nesta ação, não tendo havido, portanto, julgamento extra petita.
+3. Embargos de declaração providos, para suprir a omissão, sem modificação do resultado."
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente que o julgamento realizado pelo Tribunal a quo está embasado na falsa premissa de que o objetivo da ação de consignação seria a purga da mora no âmbito da ação de despejo, incorrendo em defeituosa prestação jurisdicional, causando-lhe prejuízo na apuração dos valores a serem consignados, violando por conseguinte os arts. 141, 355, I, 489, II, §1º, IV e V, 492, do CPC/2015.
+As contrarrazões ao recurso especial foram apresentadas a fls. 1.025/1.028.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação de consignação de valores de aluguéis, cujo pedido foi julgado improcedente.
+O alegado defeito na fundamentação foi sanado quando do provimento do primeiro recurso especial interposto, oportunidade em que os autos retornaram ao Tribunal a quo para rejulgamento dos embargos de declaração, em que se reconheceu que a desconstituição do contrato de locação, pelo despejo, por ausência de purga da mora na conexa ação de despejo nº 0004591-70.1999.4.02.5101, foi utilizada pelo juízo de primeiro grau apenas como fundamento da improcedência do pedido consignatório de parcelas vincendas formulado na presente ação.
+O Tribunal a quo tornou claro que a sentença da ação consignatória não julgou a ação de despejo, apenas reportou-se ao que nela se verificou, isto é, à desconstituição do contrato de locação, pelo despejo, por ausência de purga da mora (proc. nº 0004591-70.1999.4.02.5101), utilizada como fundamento para o julgamento de improcedência do pedido de consignação de aluguéis vincendos referentes ao contrato locatício rescindido.
+O Tribunal a quo manteve o entendimento segundo o qual, a procedência da presente ação consignatória com eficácia liberatória, no caso, com fundamento no art. 67, V, a, da Lei de Locações c.c. o disposto no art. 335, I, do Código Civil, dependeria, necessariamente, da comprovação da recusa injusta do credor, o INSS, em receber o pagamento dos aluguéis com os consectários, vez que a consignação, por intermédio de depósito judicial, somente extingue a obrigação se restar em consonância com o que foi avençado entre as partes no contrato de locação regido pela Lei 8.245/1991. Assim, a recusa do INSS não se mostrou injusta, fundamento para a improcedência do pedido da ação de consignação em pagamento.
+Destarte, a pretensão recursal esbarra na Súmula 7/STJ, pois a alteração das premissas fixadas pelo Tribunal a quo exigiria a incursão no acervo probatório, técnica imprópria ao recurso especial.
+No mesmo sentido:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONSIGNAÇÃO EM PAGAMENTO EXTRAJUDICIAL. AUSÊNCIA DE NOTIFICAÇÃO VIA AVISO DE RECEBIMENTO (AR). DEPÓSITO INSUFICIENTE. NÃO LIBERAÇÃO DA OBRIGAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DE OMISSÃO. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Nos termos da jurisprudência deste Superior Tribunal de Justiça, não se exige do julgador a análise de todos os argumentos das partes para fins de convencimento e julgamento. (STJ, AgInt no AREsp n. 1734857/RJ, rel. Ministro Gurgel de Faria, Primeira Turma, j. em 22.11.2021).
+2. No que diz respeito ao procedimento extrajudicial de consignação de pagamento, cuida-se de ferramenta que o legislador colocou à disposição do devedor a fim de que este possa optar por via mais célere e menos onerosa do que a judicial para a consignação de dívida, sendo imprescindível que a notificação do credor observe rigorosamente os termos do art. 539, § § 1º e 2º do CPC.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Ausente o indispensável prequestionamento das questões federais suscitadas pela recorrente, de rigor a incidência, na espécie, da Súmula 282/STF.
+5. Autor deixou de comprovar os fatos constitutivos do seu direito, consoante o determina o art. 373, I, do CPC.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.292.926/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/03/2024, DJe de 14/03/2024)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, não conheço do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais R$200,00.
+Publique-se.
+EMENTA
