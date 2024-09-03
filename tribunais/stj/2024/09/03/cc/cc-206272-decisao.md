@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA, EMPRESARIAL E DE REGISTROS PÚBLICOS DE RIBEIRÃO DAS NEVES - MG, figurando como suscitado o JUÍZO FEDERAL DA 7ª VARA CÍVEL DE BELO HORIZONTE - SJ/MG, nos autos do processo n. 5011929-59.2021.8.13.0231.
+Consta que OESA COMÉRCIO E REPRESENTAÇÕES S/A ajuizou perante a Justiça Federal ação declaratória, na qual pleiteia a declaração do seu direito ao crédito presumido, base de cálculo e alíquotas de ICMS para a farinha de trigo importada de países signatários do GATT, tanto no desembaraço aduaneiro, quanto das saídas de operações internas e interestaduais.
+O JUÍZO FEDERAL DA JUÍZO FEDERAL DA 7ª VARA CÍVEL DE BELO HORIZONTE - SJ/MG proferiu decisão, declinando da competência (fls. 341-343), ao fundamento de que:
+A discussão acerca de questões afetas ao ICMS envolve a empresa contribuinte e Estado de Minas Gerais, arguindo-se a violação a tratado internacional em decorrência da concessão de crédito presumido à farinha de trigo produzida no Estado, e, por conseguinte, criando-se situação mais gravosa ao mesmo produto, importado da Argentina.
+Contudo, a discussão envolve normas relacionadas ao ICMS de Minas Gerais, sem se discutir as disposições do próprio tratado, salientando-se que a invocação de normas previstas em tratados internacionais, por si só, não desloca a competência para a Justiça Federal. Ademais, não questiona a parte autora qualquer ato administrativo praticado pela União Federal, referente ao desembaraço aduaneiro, tudo a afastar a competência deste Juízo.
+Nesse sentido, colaciono julgado proferido no âmbito do TRF 3 a Região, em processo no qual a parte autora figurava como agravante:
+ ..
+Desta forma, DECLINO DA COMPETÊNCIA PARA PROCESSAMENTO E JULGAMENTO DO PRESENTE FEITO, determinando a remessa dos autos à livre distribuição para uma das Varas da Justiça Comum Estadual da Comarca de Ribeirão das Neves (domicílio da parte autora  ID 812171562, p. 25), em razão da incompetência absoluta deste juízo.
+Por sua vez, o JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA, EMPRESARIAL E DE REGISTROS PÚBLICOS DE RIBEIRÃO DAS NEVES - MG suscitou o conflito negativo de competência (fls. 865-867), consignando que:
+A competência para a análise da demanda é da Justiça Federal em razão de ser a causa fundada em tratado ou contrato da União com Estado estrangeiro ou organismo internacional, nos termos do artigo 109, inciso III, da CRFB.
+Há decisão do colendo Superior Tribunal Federal que decidiu pela competência da Justiça Federal:
+ ..  (RE 781136 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, julgado em 27-10-2015, PROCESSO ELETRÔNICO DJe-250 DIVULG 11-12-2015 PUBLIC 14-12-2015)
+Instado a se manifestar, o Ministério Público Federal opinou pela competência da Justiça comum estadual, consoante parecer (fls. 881-887) assim ementado:
+CONFLITO DE COMPETÊNCIA. TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. IMPORTAÇÃO DE MERCADORIAS. PAÍSES SIGNATÁRIOS DO GATT. PRETENSÃO DE EQUIPARAÇÃO DE TRATAMENTO TRIBUTÁRIO CONCEDIDO AO SIMILAR NACIONAL. PRETENSÃO DE DIREITO AO CRÉDITO PRESUMIDO DO ICMS. ATUAÇÃO DA FAZENDA ESTADUAL. INTERPRETAÇÃO DO ARCABOUÇO ESTADUAL SOBRE A MATÉRIA. INTERESSE DA UNIÃO AFASTADO. SÚMULAS 150 E 254/STJ. PARECER PELA DECLARAÇÃO DA COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+É o relatório.
+Decido.
+Ação ajuizada pela empresa autora contra o ESTADO DE MINAS GERIAIS diz respeito a suposto direito de obter o mesmo tratamento tributário dispensado pelo Estado ao produto similar nacional nas importações de mercadorias (macarrão) de países signatários do GATT, notadamente o direto ao crédito presumido, base de cálculo e alíquotas previstos no Regulamento do ICMS.
+É evidente que a questão deduzida envolve apenas a interpretação e aplicação do regulamento estadual acerca da incidência do ICMS sobre produtos importados, e não de regras específicas do acordo geral de tarifas GATT. Nesse contexto, é manifesta a ilegitimidade passiva da União, que, a propósito, em causas idênticas, envolvendo as mesmas partes, já manifestou seu desinteresse na causa (CC n. 203.900, Ministro Teodoro Silva Santos, DJe de 05/06/2024).
+Incide sobre a espécie as Súmulas n. 150 e 254 do STJ, respectivamente:
+Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas.
+A decisão do Juízo Federal que exclui da relação processual ente federal não pode ser reexaminada no Juízo Estadual.
+No mesmo diapasão, é o parecer ministerial (fl. 601):
+6. Não assiste razão ao Juízo suscitante.
+7. A ação foi proposta apenas contra o Estado de Minas Gerais, restando evidente que a autora se insurge não contra as regras do acordo geral de tarifas GATT, mas apenas quanto à regulamentação dada pelo Estado de Minas Gerais à incidência do ICMS sobre produtos importados, sendo, portanto, nítida a ilegitimidade passiva da União e a ausência de interesse jurídico federal no feito.
+8. Além disso, embora ajuizado inicialmente na Justiça Federal e afirme que é este o Juízo competente para julgar a causa, vê-se que a ação é exclusivamente contra o Estado de Minas Gerais e não contra a União, que não integra a lide.
+9. O art. 109,1, da Constituição Federal estabelece que: compete aos juizes federais processar e julgar as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidente do trabalho O o e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho. No presente caso, o Juízo Federal fundamenta 2 fÜ que não há interesse jurídico federal no feito.
+10. O STJ possui o entendimento sumulado de que "compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas" (Súmula n. 150-STJ).
+11. Logo, uma vez que o Juízo Federal da 7o Vara Cível de Belo Horizonte - MG afirma que não há interesse da União na demanda, é este o entendimento que deve prevalecer. Entendo, pois, que o Juízo de Direito da Vara da Fazenda Pública, Empresarial e de Registros Públicos de Ribeirão das Neves - MG é o competente para processar e julgar a ação.
+12. Além disso, é este o entendimento do STJ em casos semelhantes, um deles envolvendo inclusive a mesma sociedade empresária destes autos. Confira-se:
+ ..  (CC n. 203.900, Ministro Teodoro Silva Santos, DJe de 05/06/2024.)
+ ..  (CC n. 198.062, Ministro Mauro Campbell Marques, DJe de 02/08/2023.)
+13. Ante o exposto, o MPF manifesta-se no sentido de que seja declarado competente para processar e julgar a lide o JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA EMPRESARIAL E DE REGISTROS PÚBLICOS DE RIBEIRÃO DAS NEVES - MG (o suscitante).
+Ante o exposto, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA, EMPRESARIAL E DE REGISTROS PÚBLICOS DE RIBEIRÃO DAS NEVES - MG, o suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. IMPORTAÇÃO DE MACARRÃO. ICMS. PRETENSÃO DE TRATAMENTO TRIBUTÁRIO SIMILAR AO NACIONAL. APLICAÇÃO DO GATT. MANIFESTAÇÃO EXPRESSA DA UNIÃO SOBRE AUSÊNCIA DE INTERESSE NA CAUSA. ILEGITIMIDADE PASSIVA DA UNIÃO CONFIRMADA PELA JUSTIÇA FEDERAL. INCIDÊNCIA DAS SÚMULAS N. 150 E 254 DO STJ. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DA FAZENDA PÚBLICA, EMPRESARIAL E DE REGISTROS PÚBLICOS DE RIBEIRÃO DAS NEVES - MG, O SUSCITANTE.
