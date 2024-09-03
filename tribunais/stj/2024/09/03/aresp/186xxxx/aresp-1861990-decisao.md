@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RUDINEI GRANDO e outro contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ fl. 480):
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SEGURO RESIDENCIAL. NEGATIVA ALTERAÇÃO FUNDADA EM OMISSÃO CONTRATUAL. DA TITULARIDADE SEGURADORA. DO IMÓVEL SENTENÇA NÃO DE COMUNICADA À PARCIAL PROCEDÊNCIA.
+INSURGÊNCIA DA SEGURADORA RÉ.
+OBRIGAÇÃO CONTRATUAL DO SEGURADO DE COMUNICAR A VENDA DO IMÓVEL, CUJA OMISSÃO CONFIGURARIA PERDA DO DIREITO À INDENIZAÇÃO. INSUBSISTÊNCIA. AGRAVAMENTO DO RISCO E MÁ-FÉ DO SEGURADO NÃO COMPROVADOS. PERSISTÊNCIA DO DEVER DE INDENIZAR.
+RECURSO DOS AUTORES.
+DANO MORAL. INADIMPLEMENTO CONTRATUAL. NEGATIVA INJUSTIFICADA DA SEGURADORA QUE ULTRAPASSOU O MERO DISSABOR. INACOLHIMENTO. SITUAÇÃO EXCEPCIONAL NÃO COMPROVADA. Não configurado cenário típico de dano moral in re ipsa, impõe-se a comprovação do respectivo abalo. A negativa do pedido administrativo, pela seguradora, por si só, não gera ofensa à intimidade/honra, nem dor ou humilhação, que resultem em dano imaterial.
+HONORÁRIOS RECURSAIS. INVIABILIDADE. SENTENÇA PROLATADA NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. ENUNCIADO ADMINISTRATIVO N. 7 DO STJ. RECURSOS CONHECIDOS E DESPROVIDOS."
+Os embargos de declaração opostos foram acolhidos, com efeitos modificativos, nos termos da seguinte ementa (e-STJ fls. 518):
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SEGURO RESIDENCIAL. NEGATIVA FUNDADA EM OMISSÃO CONTRATUAL. ALTERAÇÃO DA TITULARIDADE DO IMÓVEL NÃO COMUNICADA À SEGURADORA. SENTENÇA DE PARCIAL PROCEDÊNCIA. ACÓRDÃO QUE NEGA PROVIMENTO AOS RECURSOS DE APELAÇÃO DAS PARTES.
+INSURGÊNCIA DA SEGURADORA RÉ.
+SUSCITADA PÚBLICA QUE PRESCRIÇÃO. MATÉRIA DE ORDEM PODE SER ALEGADA EM QUALQUER TEMPO E GRAU DE JURISDIÇÃO (ART. 193/CC). VICIO CONSTATADO. RELAÇÃO SECURITÁRIA. INCIDÊNCIA DO ART. 206, § 1º, INCISO li, DO "CÓDIGO CIVIL. AÇÃO AJUIZADA APÓS UM ANO DA NEGATIVA ADMINISTRATIVA. PRESCRIÇÃO EVIDENCIADA. EFEITOS EXTINÇÃO INFRINGENTES. SENTENÇA REFORMADA. DO PROCESSO, COM RESOLUÇÃO DO MÉRITO, COM FULCRO NO ART. 487, II, DO CPC.
+INVERSÃO DOS ÔNUS SUCUMBENCIAIS.
+HONORÁRIOS RECURSAIS. DESCABIMENTO. SENTENÇA PUBLICADA NA VIGÊNCIA DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 7 DO STJ. EMBARGOS ACOLHIDOS, COM EFEITOS EMBARGOS INFRINGENTES."
+Nas razões do recurso especial, a parte agravante apontou dissídio jurisprudencial e ofensa aos arts. 206 do Código Civil; 2º, 3º, 6º e 27 da Lei 8.078/90; 191, 223, 336, 337, 341, 342, 489, 1.000 e 1.022 do Código de Processo Civil. A par da alegação da inadequação da tutela jurisdicional entregue, insurgiu-se contra o reconhecimento da prescrição, uma vez que entende ser inovação de questão já preclusa.
+Decisão que inadmitiu o recurso especial às fls. 695-700 (e-STJ).
+Apresentada contraminuta às fls. 742-760 (e-STJ).
+É o relatório. Decido.
+Inicialmente, convém ressaltar que o v. acórdão recorrido decidiu a lide em sua integralidade, manifestando-se de forma expressa e coerente acerca de todos os argumentos relevantes para fundamentar sua decisão, ainda que tenha concluído em sentido diametralmente oposto ao sustentado pelas ora agravantes.
+Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relat or o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005.
+Assim, é de rigor o afastamento da alegada ofensa aos arts. 489 e 1.022 do CPC.
+No que se refere ao reconhecimento da prescrição ânua, no caso concreto, extrai-se do v. acórdão dos aclaratórios ora recorrido a seguinte fundamentação (e-STJ fls. 522):
+"Assiste razão à embargante no que diz com a necessidade de análise da prescrição da pretensão autoral.
+É verdade que as teses acerca da prescrição quinquenal e trienal foram levantadas pelos autores ainda na exordial (p. 68), sem que houvesse qualquer manifestação da seguradora na contestação.
+Também se verifica que, na sentença, embora se tenha reconhecido a relação de consumo, invertendo-se o ônus da prova (p. 150), nada foi dito a respeito do prazo prescricional aplicável.
+De igual forma, a ré, em seu recurso de apelação, nada falou acerca da prescrição.
+Ocorre que, em se tratando de matéria de ordem pública, como é o caso da prescrição, pode ser conhecida a qualquer tempo e grau de jurisdição, inclusive de oficio.
+Outrossim, esta Câmara possui entendimento de que as questões de ordem pública não precluem, podendo ser revisitadas, mesmo se já tiverem sido objeto de anterior manifestação jurisdicional. ."
+Ao assim decidir, verifica-se que o v. acórdão recorrido harmoniza-se com o entendimento desta Corte Superior no sentido de que a prescrição é matéria de ordem pública que pode ser arguida a qualquer tempo, inclusive em embargos de declaração. Desse modo, não se trata de inovação recursal, tampouco de matéria preclusa, porquanto evidenciado pela eg. Corte de origem não ter sido ela enfrentada em nenhum momento, até a apreciação dos aclaratórios.
+A propósito, confira-se:
+DIREITO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. RECONSIDERAÇÃO. AÇÃO PAULIANA. FRAUDE CONTRA CREDORES. DECADÊNCIA. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE EXAME PELA CORTE LOCAL ATÉ DE OFÍCIO. PRAZO. ART. 178, § 9º, V, "B", DO CC/1916. FRAUDE NA ALIENAÇÃO DE BEM IMÓVEL. TERMO INICIAL. TRANSCRIÇÃO NO REGISTRO IMOBILIÁRIO. DISSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. As matérias de ordem pública, tais como prescrição e decadência, podem ser apreciadas de ofício e a qualquer tempo nas instâncias ordinárias. Precedentes.
+2. A jurisprudência do STJ é firme no sentido de que pretensão de anular negócio jurídico fundada em erro, dolo, simulação, fraude ou coação, nos termos do art. 178, § 9º, V, b, do CC/1916, vigente à época em que firmados os ajustes, prescreve em quatro anos, contados da data da celebração (AgRg no AREsp 519.852/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/5/2017, DJe de 1º/6/2017).
+3. O entendimento jurisprudencial do STJ é assente no sentido de que "o termo inicial do prazo decadencial de 4 (quatro) anos para a propositura de ação pauliana cujo fim é a anulação de contrato de compromisso de compra e venda é a data do registro dessa avença no cartório imobiliário, oportunidade em que esse ato passa a ter efeito erga omnes e, por conseguinte, validade contra terceiros" (REsp 710.810/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 19/2/2008, DJe de 10/3/2008).
+4. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para dar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.349.968/MG, relator Min. RAUL ARAÚJO, QUARTA TURMA, julgado em 1/7/2024, DJe de 2/8/2024, g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR E PLANO VERÃO. PRESCRIÇÃO. TERMO INICIAL. TRIBUNAL ESTADUAL QUE CONTRARIOU A JURISPRUDÊNCIA DO STJ. TEMA N.º 919. DATA DO EFETIVO PAGAMENTO. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA APRECIAÇÃO DA PRESCRIÇÃO COM BASE NO TERMO INICIAL CORRETO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção, sob o rito do art. 543-C do CPC/73, firmou a orientação no sentido de que o termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento.
+2. Em suas razões recursais, o recorrente defendeu que não se poderia conhecer de matéria relativa ao prazo prescricional, pois foi trazida apenas em embargos de declaração, configurando inovação recursal.
+3. A jurisprudência do STJ é no sentido de que (..) a prescrição é matéria de ordem pública e, portanto, pode ser suscitada a qualquer tempo nas instâncias ordinárias, ainda que alegada em embargos de declaração, não estando sujeita a preclusão (AgInt nos EDcl no REsp 1.965.396/RS, Relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5 . Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.313.414/GO, relator Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 13/11/2023, DJe de 16/11/2023, g.n.)
+Aplica-se, portanto, à hipótese dos autos a Súmula 83/STJ, a inviabilizar o conhecimento do recurso especial.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
