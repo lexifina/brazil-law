@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de emb argos de declaração opostos por ROSEMARI SIMIAO RICCIO contra decisão de minha lavra, proferida às e-STJ fls. 1.504/1.507, em que conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento em virtude da não verificação de negativa de prestação jurisdicional e da incidência da Súmula 7 do STJ.
+Aduz a parte embargante que " ..  a decisão omitiu a análise fundamento recursal subsidiário e autônomo de violação ao art. 927, V do CPC (e-STJ fl. 1.369) que não propõe inverter o decisum em relação à coisa julgada, mas adota a mesma conclusão, visando à correção dos seus efeitos jurídicos à semelhança do padrão decisório vinculante formado no EAREsp 600.811/SP (DJE 07/02/2020), isto porque apesar de reconhecer o conflito entre coisas julgadas, o acordão recorrido fez prevalecer a primeira coisa julgada (mandado de segurança) em vez da que transitou por último (ação coletiva), em confronto com o entendimento desta Corte, alegação que pode ser conhecida mesmo em sede de embargos de declaração, conforme a jurisprudência desta Corte (vide EDcl no AgRg no REsp 1.539.960/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/8/2016, DJe de 25/8/2016.)." (e-STJ fl. 1.512).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, não ocorreu nenhum dos vícios supracitados.
+A decisão embargada foi clara ao entender que, no ponto supostamente omisso, quanto à determinação de prosseguimento da execução somente em relação aos valores/períodos delimitados pelo aresto hostilizado, a irresignação recursal esbarra no óbice da Súmula 7 do STJ.
+Ademais,  esta  Corte  tem  o  entendimento  de  que  o  comando  normativo  do art.  927 do  CPC/2015 é demasiadamente genérico, não se prestando à sustent ação da tese desenvolvida no apelo obstado. A propósito: REsp  1.922.279/SP,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  27/09/2022,  DJe  de  30/09/2022; AgInt no REsp 1.196.725/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/4/2017, DJe de 2/5/2017.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
