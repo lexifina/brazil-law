@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALCIDES SCATOLIN e OUTROS, com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - PLANO VERÃO - CUMPRIMENTO DE SENTENÇA - SALDO REMANESCENTE - Apuração do débito com aplicação do tema 677 do STJ - Não cabimento - Matéria que ainda não transitou materialmente em julgado - Impossibilidade de pleitear-se a aplicação de comandos eventualmente contidos em acórdão enquanto não esgotadas as instâncias ordinárias. Agravo desprovido."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 489, § 1º, VI, 927, III, 1.030, V, c, 1.039, 1.040, II, 1.041 e 1.022, parágrafo único, I e II, do CPC/2015, defendendo, além de negativa de prestação jurisdicional, a aplicabilidade imediata da tese firmada em recurso repetitivo em caso envolvendo a responsabilidade da parte executada pela atualização do débito até a efetiva disponibilização do pagamento, objeto da tese revisada para o Tema 677 dos Recursos Repetitivos.
+Contrarrazões apresentadas às fls. 158-162 (e-STJ).
+É o relatório. Decido.
+O recurso deve ser provido.
+De início, realmente houve omissão do Tribunal de origem acerca da aplicabilidade da tese firmada para o Tema 677 dos Recursos Repetitivos, após sua revisão em 19/10/2022. baseada na publicação do acórdão correspondente e na jurisprudência desta Corte sobre a aplicação imediata da tese vinculante.
+Entretanto, tratando-se de embargos de declaração opostos sob a vigência do art. 1.025 do CPC/2015 e de questão de direito, deixa-se de cassar a decisão, declarando-se suprido o prequestionamento, notadamente porque o mérito será resolvido em benefício da parte recorrente.
+A discussão envolve a aplicação imediata da seguinte tese fixada para o Tema 677 dos Recursos Repetitivos, após revisão em 19/10/2022:
+"Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial"
+(REsp 1.820.963/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 19/10/2022, DJe de 16/12/2022).
+Os embargos de declaração opostos ao acórdão paradigma foram rejeitados, ocasião na qual houve a reafirmação de que "o acórdão embargado é hialino acerca da necessidade e pertinência de alterar a redação do Tema 677/STJ, tendo sido afastada a necessidade de modulação dos efeitos da decisão, o que não revela qualquer falta de racionalidade interna ou contradição" (cf. EDcl no REsp n. 1.820.963/SP, relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 3/4/2024, DJe de 18/4/2024).
+Além disso, embora pendente recurso extraordinário contra o acórdão, conforme pacífico entendimento desta Corte Superior, "é desnecessário o trânsito em julgado do acórdão proferido em recurso especial representativo da controvérsia para que se possa aplicá-lo como precedente em situações semelhantes" (AgRg nos EREsp n. 1.323.199/PR, relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe de 7/3/2014.)
+No mesmo sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. MATÉRIAS NÃO IMPUGNADAS. PRECLUSÃO. PRÉVIA LIQUIDAÇÃO DE SENTENÇA COLETIVA. AUSÊNCIA DE DIALETICIDADE. NÃO CONHECIMENTO. RECURSO REPETITIVO. APLICAÇÃO IMEDIATA DO ENTENDIMENTO. DECISÃO MANTIDA.
+1. É inviável o conhecimento da matéria suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a preclusão consumativa.
+2. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - (..) acarreta a preclusão da matéria não impugnada (..)" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+3. Ausente impugnação específica de fundamento da decisão agravada, em ofensa ao princípio da dialeticidade, impõe-se o não conhecimento do agravo no ponto (art. 932, III, do CPC/2015).
+4. "É desnecessário o trânsito em julgado do acórdão proferido em recurso especial representativo da controvérsia para que se possa aplicá-lo como precedente em situações semelhantes" (AgRg nos EREsp 1323199/PR, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 26/2/2014, DJe 7/3/2014).
+5. Agravo interno parcialmente conhecido e não provido."
+(AgInt no REsp n. 2.030.958/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/5/2023, DJe de 29/5/2023.)
+No caso dos autos, o Tribunal de origem negou provimento ao agravo de instrumento interposto pela parte ora recorrente, afastando a aplicação da tese firmada para o Tema 677 dos Recursos Repetitivos, após a revisão em 19/10/2022, sob o fundamento de impossibilidade de aplicação da tese revisada sem o trânsito em julgado.
+Desse modo, constatada a divergência entre o acórdão recorrido e o entendimento qualificado desta Corte Superior, é impositivo o provimento do recurso especial.
+Diante do exposto, dou provimento ao recurso especial, determinando ao Juízo de primeiro grau, no qual é processada a execução, a aplicação imediata da tese firmada para o Tema 677 dos Recursos repetitivos, após sua revisão em 19/10/2022, a fim de aferir a existência de saldo devedor, sob responsabilidade da parte executada, para a satisfação integral do crédito exequendo.
+Publique-se.
+EMENTA
