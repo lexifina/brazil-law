@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE PINTO RODRIGUES contra a decisão do eg. TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu recurso especial aviado à vista de acórdão proferido na Apelação Criminal n. 0713176-30.2023.8.07.0001, assim ementado (fls. 243-244):
+APELAÇÃO CRIMINAL. PROCESSO PENAL. FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICÁVEL. REPROVABILIDADE DA CONDUTA. DESCLASSIFICAÇÃO PARA FORMA TENTADA. IMPOSSIBILIDADE. FURTO CONSUMADO. REDUÇÃO DA PENA BASE. IMPOSSIBILIDADE. MAUS ANTECEDENTES. CRIME COMETIDO DURANTE A EXECUÇÃO DE PENA POR DELITO ANTERIOR. FUNDAMENTO APTO A TORNAR NEGATIVA A CONDUTA SOCIAL DO RÉU. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INVIABILIDADE. RÉU REINCIDENTE. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Diante da inequívoca comprovação da autoria e da materialidade do crime de furto, impõe-se a manutenção da condenação.
+2. Se a conduta do réu merece alto grau de reprovabilidade, uma vez que ficou comprovado nos autos que ele é multireincidente em crimes contra o patrimônio, fica afastada a possibilidade de aplicação do princípio da insignificância.
+3. O ordenamento jurídico brasileiro adotou a teoria da apprehensio ou amotio, segundo a qual os delitos de roubo ou de furto se consumam quando a coisa subtraída passa para o poder do agente, mesmo que durante um curto espaço de tempo, não se exigindo a posse mansa e pacífica, tampouco que o bem saia da esfera de vigilância da vítima. 3.1 Ocorrendo a reversão da posse do bem subtraído, o crime de furto se consumou, não havendo que se falar em desclassificação para tentativa.
+4. uma vez reconhecido os maus antecedentes do apelante bem como negativa sua conduta social, a pena-base deve ser majorada. 4.1. A conduta social diz respeito ao papel do indivíduo em seu grupo social, sendo certo que aquele que pratica novo crime quando no cumprimento de pena por delito anterior ofende a comunidade em que vive, revelando valores incompatíveis com o propósito ressocializante.
+5. Em face da reincidência, inviável a substituição da pena privativa de liberdade por restritivas de direitos, ou a suspensão condicional da pena.
+6. Recurso conhecido e não provido.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante como incurso no art. 155, caput, do Código Penal, impondo-lhe as penas de 1 (um) ano, 7 (sete) meses e 06 (seis) dias de reclusão, em regime inicial aberto, e 14 (catorze) dias-multa (fls. 183-197).
+A Corte de origem negou provimento ao apelo defensivo (fls. 242-270).
+Nas razões do Recurso Especial, a Defesa alega violação do art. 386, inciso III, do Código de Processo Penal, uma vez que tendo por objeto res furtiva avaliada em R$64,99 (sessenta e quatro reais e noventa e nove centavos), posteriormente restituída à vítima, a conduta não representa lesão significativa ao bem jurídico tutelado pela norma penal, motivo pelo qual deve ser o acusado absolvido pela aplicação do princípio da insignificância.
+Contrarrazões às fls. 287-289.
+O recurso especial não foi admitido à vista da incidência da Súmula n. 7 do STJ (fl. 292-293), óbice contra o qual a Defesa se insurge neste agravo (fls. 298-305).
+A Procuradoria-Geral da República manifestou-se pelo não provimento do agravo (fls. 324-331).
+É o relatório. Decido.
+O agravo impugna adequadamente os fundamentos da decisão de inadmissão, motivo pelo qual passo à análise do recurso especial.
+A Corte distrital rechaçou a aplicação do princípio da insignificância aos seguintes fundamentos (fl. 247 - grifamos):
+Em relação à aplicação do princípio da insignificância, na análise detida dos autos, verifica-se que o ato praticado não preenche os requisitos definidos pelo Supremo Tribunal Federal para a aplicação de tal princípio. A doutrina e a jurisprudência apresentam requisitos para a aplicação do princípio da insignificância, porque sua incidência indiscriminada pode, ao revés, estimular a reiteração criminosa.
+ ..
+Nesse sentido, a aplicação do princípio da insignificância não se limita à aferição da importância pecuniária do bem subtraído ou à restituição da res furtiva sob pena desses delitos não serem devidamente repreendidos, o que resultaria no incentivo de condutas que atentariam contra a ordem social, colocando em risco a segurança da coletividade, o empresariado e a força produtiva.
+No caso dos autos, se a conduta do réu merece alto grau de reprovabilidade, uma vez que ficou comprovado nos autos que ele é multireincidente em crimes contra o patrimônio, fica afastada a possibilidade de aplicação do referido princípio.
+Noutro giro, o fato de o bem ter sido restituído à vítima, de igual sorte, não ampara a pretensão da Defesa, porque a restituição, por si só, não é motivo suficiente para a aplicação do princípio da insignificância.
+Dos excertos trazidos à colação constata-se que o Tribunal a quo decidiu a questão relativa à aplicação do princípio da insignificância com amparo na tese de que o acusado é multirreincidente, o que confere à conduta maior grau de reprovabilidade.
+Nas razões do recurso especial, contudo, a Defesa se limitou a pretender o reconhecimento da atipicidade material com arrimo no alegado baixo valor da res furtiva e no fato de ter sido restituída à vítima.
+Destarte, tendo as razões recursais deixado de impugnar fundamento central do acórdão, encontrando-se dele dissociadas, incide o óbice da Súmula n. 284 do Supremo Tribunal Federal, ante a ausência de delimitação efetiva da controvérsia.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 155, CAPUT, DO CÓDIGO PE NAL - CP (FURTO). PRINCÍPIO DA INSIGNIFICÂNCIA. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO DESPROVIDO.
+1. A defesa, nas razões do recurso especial, não enfrentou diretamente aspecto apresentado pelo Tribunal de Justiça para rechaçar a aplicação do princípio da insignificância, situação que atrai o óbice da Súmula n. 284 do STF.
+1.1. No caso, a defesa limitou-se a asseverar cabimento do princípio da insignificância para reincidentes, sem qualquer impugnação ao acórdão do Tribunal de origem no tocante ao caso concreto, reincidência específica em delitos patrimoniais, condenações pela prática dos crimes de furto qualificado, estelionato e adulteração de sinal identificador de veículo automotor.
+2. Agravo regimental desprovido. (AgRg no AREsp 2130959/MG, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/04/2023, DJe de 28/04/2023)
+No mesmo diapasão: AgRg no AREsp 2144063/MG, Rel. Desembargador Convocado Jesuíno Rissato, Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023; AgRg no AREsp 2027514/ES, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/8/2023, DJe de 14/8/2023 e AgRg no AREsp 1438895/SP, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 6/6/2023, DJe de 14/6/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
