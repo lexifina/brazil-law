@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por BRUNO DE ALCANTARA RIBEIRO AMORIM DE OLIVEIRA em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DE COBRANÇA. Sentença de procedência. Insurgência do réu. Descabimento. Citação considerada válida, nos termos da declaração realizada pelo próprio apelante em outro feito que tramita no Juizado Especial Cível. Correspondência, ainda, entregue em condomínio, sem qualquer recusa. Arguição de ilegitimidade passiva que não prevalece. Apelante que constava como proprietário do veículo envolvido no acidente em discussão na data dos fatos. Sentença mantida. Verba honorária majorada (art. 85, § 11º, do CPC). RECURSO DESPROVIDO." (fl. 156)
+O recorrente aponta ofensa aos arts. 238, 239, 280, 373, inciso I, do CPC/15, 1.226 e 1.267 do Código Civil. Postula a declaração da nulidade da citação, pois realizada em endereço incorreto. Diz que não possui legitimidade passiva, porque, ao tempo do acidente, não era mais proprietário do veículo. Aduz que, mesmo diante da revelia, o juiz é obrigado a examinar se há provas do fato constitutivo do direito do autor - obrigação não cumprida, no caso.
+Contrarrazões às fls. 222/226.
+É o relatório.
+Não se conhece da alegação de ofensa ao art. 373, inciso I, do CPC/15, porque o eg. TJSP não debateu a tese a respeito da ausência de prova de fato constitutivo do direito do autor. Incidem os Enunciados n. 282 e 356 da Jurisprudência do STF.
+O eg. TJSP rejeitou o pedido de declaração de nulidade da citação, tendo em vista que (i) o réu não comprovou a alegação de que seu endereço estava errado, ao tempo da realização da citação, (ii) o réu fora citado em outro feito, também em trâmite no eg. TJSP, no mesmo endereço indicado na inicial da presente demanda e (iii) é válida a citação enviada a condomínio edilício, se não houve recusa em seu recebimento.
+Fica nítido, portanto, que a reforma do acórdão de 2º grau encontra óbice na Súmula n. 7/STJ. Afinal, sem o reexame das provas dos autos, não é possível apurar se, ao tempo da realização da citação, o réu morava ou não no endereço apontado na petição inicial.
+Sobre a tese de ilegitimidade passiva, o Tribunal de origem consignou:
+"(..) o veículo ainda constava no nome do réu-apelante quando da data do acidente, tendo somente sido comunicada a venda somente em 27/02/2023 e registrada somente em 11/04/2023 (fls. 129/130) (..) (fl. 158)"
+O acórdão deve ser mantido, nessa parte. Na visão do STJ, "é solidária a responsabilidade do proprietário do veículo quanto aos danos advindos de acidente provocado por terceiro a quem entregou a condução do seu veículo, ainda que o automóvel tenha sido disponibilizado ao causador do ilícito mediante contrato de locação" (AgInt nos EDcl no AREsp n. 2.385.834/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/11/2023, DJe de 17/11/2023.).
+Assim, ante a conformidade do acórdão recorrido com a jurisprudência desta Corte, incide o óbice da Súmula n. 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.").
+Ademais, em razão da Súmula n. 7/STJ, esta Corte não pode investigar novamente se, ao tempo do acidente, o réu era ou não o proprietário do veículo.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado da recorrida de para 13% sobre o valor da condenação.
+Publique-se.
+EMENTA
