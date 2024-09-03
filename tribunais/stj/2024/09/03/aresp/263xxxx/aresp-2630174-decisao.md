@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CANDIDA ANA BRAZ, contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 27/02/2024.
+Concluso ao gabinete em: 28/06/2024.
+Ação: de despejo e cobrança, em fase de cumprimento de sentença, movida pela agravante contra FERNANDO BUENO.
+Decisão interlocutória: indeferiu pedido de penhora de ativos financeiros em nome da esposa do executado.
+Acórdão: negou provimento ao agravo de instrumento da parte agravante, nos termos da ementa:
+"Agravo de Instrumento Cumprimento de sentença - Pesquisa e bloqueio de valores em contas bancárias em nome da esposa do devedor, uma vez casados sob regime de comunhão parcial de bens Inviabilidade, no caso dos autos Hipótese em que a cônjuge do devedor não participou do processo de conhecimento Ausência de indícios de que a dívida tenha sido contraída em proveito da unidade familiar - Ademais, não esgotamento de todas as tentativas de buscas de bens penhoráveis em nome executado Constrição patrimonial de bens de terceiro que ofenderia os princípios do contraditório e da ampla defesa Precedentes do C. STJ Decisão mantida Improvido o agravo". (e-STJ fl. 18)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 790, 797, 805, do CPC, 1.660, I, 1.662, 1.663, § 1º, 1.664, do CC. Sustenta que, uma vez casados sob o regime da comunhão parcial de bens, todos os bens adquiridos na constância do casamento por título oneroso, ainda que só em nome de um dos cônjuges fazem parte dessa comunhão. Aduz que, da mesma forma, o artigo 1644 da mesma lei, nos traz que todas as dívidas contraídas para as necessidades à economia doméstica, obrigam solidariamente entre os cônjuges. Verbera que o contrato não foi firmado no nome dos dois por má-fé do executado, aduzindo que a dívida objeto de cobrança por meio desta presente demanda foi constituída na constância do casamento, para benefício de ambos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência do STJ é no sentido de que revela-se medida extremamente gravosa impor a terceiro, que nem sequer participou do processo de conhecimento, o ônus de, ao ser surpreendido pela constrição de ativos financeiros bloqueados em sua conta corrente pessoal, atravessar verdadeira saga processual por meio de embargos de terceiro na busca de realizar prova negativa de que o cônjuge devedor não utiliza sua conta corrente para realizar movimentações financeiras ou ocultar patrimônio, como é a hipótese dos autos.
+Ademais, conforme já consignado no acórdão recorrido, o regime de bens adotado pelo casal não torna o cônjuge solidariamente responsável de forma automática por todas as obrigações contraídas pelo parceiro (por força das inúmeras exceções legais contidas nos arts. 1.659 a 1.666 do Código Civil) nem autoriza que seja desconsiderado o cumprimento das garantias processuais que ornamentam o devido processo legal, tais como o contraditório e a ampla defesa.
+Nesse sentido: AgInt no AREsp n. 2.280.860/MG, Terceira Turma, DJe de 7/3/2024; AgInt no REsp n. 2.104.589/SP, Quarta Turma, DJe de 2/5/2024 e REsp n. 1.869.720/DF, Terceira Turma, DJe de 14/5/2021.
+Desse modo, encontrando-se o entendimento da Corte de origem em consonância com a jurisprudência deste Tribunal, não há que falar na alteração do julgado. Incidência da Súmula 568/STJ.
+- Do reexame de fatos e provas
+Além de que alterar o decidido no acórdão impugnado, no que se refere a não haver indícios de que a dívida referente aos alugueis tenha sido contraída em benefício da unidade familiar (e-STJ fl. 19), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. CUMPRIMENTO DE SENTENÇA. PENHORA. TERCEIRO. CÔNJUGE. INADMISSIBILIDADE. CASAMENTO. REGIME DA COMUNHÃO PARCIAL DE BENS. SOLIDARIEDADE. EXCEÇÃO. DEVIDO PROCESSO LEGAL. CONTRADITÓRIO. AMPLA DEFESA. OBSERVÂNCIA. NECESSIDADE. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de despejo, em fase de cumprimento de sentença.
+2. A jurisprudência do STJ é no sentido de que revela-se medida extremamente gravosa impor a terceiro, que nem sequer participou do processo de conhecimento, o ônus de, ao ser surpreendido pela constrição de ativos financeiros bloqueados em sua conta corrente pessoal, atravessar verdadeira saga processual por meio de embargos de terceiro na busca de realizar prova negativa de que o cônjuge devedor não utiliza sua conta corrente para realizar movimentações financeiras ou ocultar patrimônio. Precedentes do STJ.
+3. Modificar a conclusão do Tribunal de origem no sentido de que não há indícios de que a dívida referente aos alugueis tenha sido contraída em benefício da unidade familiar (e-STJ fl. 19) implica reexame de fatos e provas.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, neste extensão, não provido.
