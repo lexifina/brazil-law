@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por JOAO BATISTA PINTO DE MAGALHAES em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPRA E VENDA. Ação de restituição de quantia cumulada com indenização por dano moral. Sentença de parcial procedência. Apelos do autor e da corré. Compra e venda de smartphones, os quais não foram entregues. Dano moral caracterizado. Comprovada a efetiva perda do tempo útil do autor em ligações para a empresa ré, sem solução para o imbróglio criado por ela. Perda de tempo substancial que, no caso concreto, se revela como violação injustificada a direitos de personalidade do autor, suficientes a causar mais que mero aborrecimento. Quantum indenizatório arbitrado em R$ 5.000,00, valor que condiz com a extensão do dano (art. 944 do Código Civil) e com os critérios de razoabilidade e proporcionalidade. Produtos comprados diretamente no site da primeira ré.
+Corré Stone que atuou apenas como meio de pagamento e que não integra a cadeia de fornecimento dos produtos pela mera emissão de boleto bancário. Precedente. Ausência de responsabilidade da corré, afastando sua condenação. Sentença reformada. Apelos providos." (e-STJ fls. 304 )
+Os embargos de declaração foram rejeitados. (e-STJ fls. 314/317)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 7º, 14 e 18 e no §1º do artigo 25, todos do Código de Defesa do Consumidor, bem como dissídio jurisprudencial; sustentando, em síntese que a recorrida STONE PAGAMENTOS S/A fez parte da relação de consumo em pauta, e por isso presente sua responsabilidade solidária pelos danos experimentados pelo autor.
+É o relatório. Decido.
+No que se refere à tese de que a recorrida STONE PAGAMENTOS S/A fez parte da cadeia de consumo e, portanto, possui responsabilidade solidária pelos danos experimentados pelo autor, a Corte de origem assim decidiu:
+""Por outro lado, razão assiste à corré Stone, pois, no caso vertente, não há que falar em sua responsabilização pelos danos sofridos pelo autor, os quais foram causados apenas pela primeira ré.
+Não se cogita de responsabilidade solidária pelos danos causados, porque a ré Stone não integrou a cadeia de consumo. O produto foi adquirido diretamente no site da primeira ré, vendedora dos smartphones.
+Conforme as provas juntadas, a ré funcionou apenas como meio de pagamento (fls. 27) e não pode ser responsabilizada por atos ou omissões da vendedora pelo mero fato de ter emitido boleto.
+(..)
+Assim, impõe-se o reconhecimento da ausência de responsabilidade da ré, sobretudo à míngua de falha na prestação dos seus serviços, afastando-se, por corolário, sua condenação." (e-STJ fls. 306/307)
+A modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. ATRASO NA ENTREGA DE VEÍCULO. SOLIDARIEDADE (SÚMULA 83/STJ). MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 7/STJ). AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356 DO STF). DIVERGÊNCIA JURISPRUDENCIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO (SÚMULA 284/STF). RECURSO NÃO PROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicam-se, por analogia, as Súmulas 282 e 356 do STF.
+2. Esta Corte Superior entende ser objetiva a responsabilidade do fornecedor no caso de defeito na prestação do serviço, desde que demonstrado o nexo causal entre o defeito do serviço e o acidente de consumo ou o fato do serviço, ressalvadas as hipóteses de culpa exclusiva do consumidor ou de causas excludentes de responsabilidade genérica, como força maior ou caso fortuito externo.
+3. É solidária a responsabilidade objetiva entre os fornecedores participantes e favorecidos na mesma cadeia de fornecimento de produtos ou serviços. Incidência da Súmula 83/STJ.
+4. Na espécie, o Tribunal de origem, examinando as circunstâncias da causa, concluiu pela responsabilidade de ambas as fornecedoras pela má prestação do serviço. Nesses termos, a modificação desse entendimento, a fim de reconhecer culpa exclusiva da corré, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial (Súmula 7/STJ).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.598.606/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/11/2020, DJe de 17/12/2020.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 10% para 11% sobre o valor da causa, ressalvada eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
