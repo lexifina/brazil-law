@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por JUNDIAÍ SHOPPING CENTER LTDA. contra decisão que negou seguimento ao recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 984):
+Cumprimento de sentença. Ação de despejo por falta de pagamento. (I) Pedido para o Juiz exigir resposta a ofícios já expedidos e expeça outros. Recusa que se justificava pelos motivos indicados no acórdão. (II) Intimação de empresas acerca de penhora de cotas sociais. Ato válido, o que torna descabida a renovação da medida. Recurso parcialmente provido.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 991-1007), a parte recorrente sustentou violação aos artigos 4º, 6º, 139, 438 e 797, todos do Código de Processo Civil, defendendo a necessidade de expedição de ofícios para obtenção de endereços e para informação sobre averbação de penhora, de fixação de prazo para resposta de ofícios anteriormente enviados e de reconhecimento de validade de intimação de empresas acerca de penhora de cotas.
+Apontou, ainda, divergência jurisprudencial.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 762-764, e-STJ), o que ensejou o manejo do presente agravo (fls. 767-783, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. No caso, o Tribunal de origem consignou o seguinte (e-STJ, fl. 985-987):
+Esta Corte tem entendimento firmado no sentido de que o juízo não pode ser compelido a adotar providência da qual a própria parte pode se incumbir. Assim, a intervenção judicial há de ficar reservada aos casos em que o próprio litigante não pode colher a informação da qual necessita, como ocorre com os bancos cadastrais não acessíveis ao público, cujos dados só podem ser fornecidos mediante requisição. A intervenção judicial, aliás, em tais casos está expressamente autorizada na lei seja porque "ninguém se exime do dever de colaborar com o Poder Judiciário para o descobrimento da verdade" (artigo 378 do CPC), seja porque "Incumbe ao terceiro", dentre outras medidas, "informar ao juiz os fatos e as circunstâncias, de que tenha conhecimento" (artigo 380 inciso I). Ora, como se vê nos autos de origem, já foram expedidos ofícios para que a Caixa Econômica Federal informasse sobre eventual endereço da empresa MC1 Comércio de Calçados Ltda. Epp e para que a empresa de telefonia Oi informasse sobre eventuais endereços das empresas MR1 Comércio De Roupas Ltda., MCIC Comércio de Calçados Ltda. e MC1 Comércio de Calçados Ltda Epp (fls. 747 e 749 dos autos de origem). Logo, cabe à parte diligenciar para obter as informações requeridas a partir dos ofícios expedidos, cabendo salientar que quanto à empresa de telefonia Oi não consta nos autos nem mesmo confirmação de recebimento do ofício (fls. 764 dos autos de origem). No mesmo sentido é a averbação da penhora de cotas na ficha cadastral da empresa Modi do Brasil Prestação de Serviços de Apoio e Assessoria Empresarial e Administrativo Eireli junto à JUCESP, já que a expedição do termo de penhora já foi finalizada pela serventia, cabendo à parte diligenciar seu registro (fls. 624 dos autos de origem). O mesmo entendimento é ainda aplicável ao ofício expedido ao Detran para obtenção de prontuário de veículo bloqueado via Renajud (fls. 753 dos autos de origem). Assim, no caso concreto o concurso judicial necessário já fui cumprido.
+Constata-se da leitura do acórdão recorrido que o Tribunal de origem não decidiu acerca dos artigos apontados como violados, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Saliente-se, ainda, que a agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de provocar o pronunciamento do Colegiado sobre a matéria tratada nos dispositivos mencionados. Incidem, portanto, os óbices dispostos nas Súmulas 282 e 356 do STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+(..)
+3. Quanto à alegação de que os honorários advocatícios devem ser fixados por equidade (art. 85, § 8º, do CPC/15), observa-se que tal tese não foi analisada pelo Tribunal local, carecendo de prequestionamento. Ademais, deixou a insurgente de apontar, na petição do recurso especial, eventual violação do artigo 1022 do CPC/15, no ponto, razão pela qual incide, na espécie, as Súmulas 282 e 356 do STF; e 211 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1890401/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. VIOLAÇÃO DO ART. 6º DA LINDB. INSTITUTO DE NATUREZA CONSTITUCIONAL. 2. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO DEMONSTRANDO FUNDAMENTAÇÃO DEFICIENTE. ARGUMENTO NÃO ATACADO. SÚMULA 182 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. APLICAÇÃO DO TETO REGULAMENTAR. NECESSIDADE DE APORTE. CORREÇÃO MONETÁRIA. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULAS 282 E 356 DO STF. 4. FÓRMULA PARA O CÁLCULO DE BENEFÍCIO. CONTROVÉRSIA SOBRE DISPOSIÇÕES DO REGULAMENTO. INTERPRETAÇÃO CONFERIDA PELA CORTE DE ORIGEM. APLICAÇÃO DO ART. 31 DO REGULAMENTO DE BENEFÍCIOS DA PETROS. SÚMULAS 5 E 7 DO STJ. 5. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. As matérias ou as teses relacionadas aos artigos apontados não foram enfrentadas pelo acórdão recorrido, o que obsta o conhecimento do recurso especial. Nesse ponto, incidem as Súmulas n. 282 e 356 do STF.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1250115/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018)
+2. Nesse sentido, também inviável o conhecimento do recurso com fundamento na divergência jurisprudencial, pois mesmo nas hipóteses de recurso especial interposto com fulcro na alínea c do inciso III do art. 105 da Constituição Federal, é imprescindível o prequestionamento da matéria para viabilizar o acesso à instância extraordinária.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE CONTRATO DE LOCAÇÃO. EXECUÇÃO PROVISÓRIA DO JULGADO. 1. ART. 73 DA LEI N. 8.245/1991, FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1.1. DEFICIÊNCIA NAS RAZÕES RECURSAIS. SÚMULA 284/STF. 2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 3. ARBITRAMENTO DE HONORÁRIOS. NÃO CABIMENTO. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento. 1.1. Ademais, a falta de pertinência entre o dispositivo legal apontado como violado e as razões recursais atrai a incidência, por analogia, da Súmula n. 284 do Supremo Tribunal Federal.
+2. Outrossim, a ausência de prequestionamento inviabiliza o recurso especial também pela alínea c do permissivo constitucional, estando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. A jurisprudência desta Corte está sedimentada no sentido de não ser cabível, na execução provisória, o arbitramento de honorários advocatícios em favor do exequente.
+4. Agravo interno desprovido.
+(AgInt no REsp 1612607/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/04/2019, DJe 06/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. NOVO CPC. PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DISSÍDIO JURISPRUDENCIAL. NECESSIDADE DE PREQUESTIONAMENTO. ALEGAÇÃO DE VIOLAÇÃO A SÚMULA. INCIDÊNCIA DA SÚMULA 518/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta eg. Corte é no sentido de que, à luz do Novo Código de Processo Civil, admite-se o prequestionamento ficto, contudo, é necessário que a parte aponte o vício no acórdão estadual, para que se proceda ao debate acerca das matérias federais indicadas no recurso especial - exegese dos arts. 1.022 e 1.025 do CPC/2015. Precedentes. No caso dos autos, constata-se a ausência de prequestionamento, ante a não indicação de violação ao art 1.022 do CPC/2015, para fins de prequestionamento ficto.
+2. Para que se conheça do apelo nobre pela alínea c do permissivo constitucional, também se faz necessário o prequestionamento dos temas vinculados aos artigos objeto da arguição de divergência jurisprudencial. Precedente.
+3. Enunciados sumulares não se enquadram no conceito de lei federal disposto no art. 105, III, da Carta Magna. Incidência da Súmula 518/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1308881/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por fim, não havendo fix ação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
