@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se recurso especial interposto por CRISTIAN RIBEIRO DA ROSA contra acórdão da Quinta Turma desta Corte assim ementado:
+AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL PENAL. DECISÃO DA PRESIDÊNCIA DO STJ DETERMINANDO O RECOLHIMENTO EM DOBRO DO PREPARO NO PRAZO DE 5 (CINCO) DIAS CORRIDOS. PEDIDO POSTERIOR DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INEXISTÊNCIA DE EFEITO RETROATIVO. IMPOSSIBILIDADE DE AFASTAMENTO DA IRREGULARIDADE FORMAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, a concessão da gratuidade judiciária não possui efeitos retroativos, razão pela qual o superveniente pedido de sua concessão não afasta a necessidade de recolhimento do preparo em relação ao recurso interposto anteriormente.
+Precedentes: AgInt nos EDcl nos EAREsp n. 1.493.998/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 27/09/2022, DJe 06/10/2022; AgRg no RMS n. 69.726/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/3/2023, DJe de 15/3/2023; AgInt no AREsp n. 2.350.839/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/10/2023, DJe de 17/10/2023; AgInt nos EDcl nos EREsp n. 1.763.687/RS, relator Ministro Marco Buzzi, Segunda Seção, julgado em 29/8/2023, DJe de 31/8/2023; AgRg nos EDcl nos EAREsp n. 1.781.223/PR, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 8/9/2021, DJe de 13/9/2021; AgInt nos EAREsp n. 909.157/BA, relatora Ministra Laurita Vaz, Corte Especial, julgado em 12/5/2020, DJe de 26/5/2020; AgRg nos EREsp n. 1.502.212/SC, relator Ministro Raul Araújo, Corte Especial, julgado em 11/6/2019, DJe de 14/6/2019.
+2. Situação em que, após ter sido intimado para realizar o recolhimento em dobro do preparo, no prazo de 5 (cinco) dias, conforme determina o art. 1.007, § 4.º, do Código de Processo Civil, ao invés de recolher o preparo, o Recorrente limitou-se a pleitear a concessão da gratuidade judiciária no bojo do presente agravo regimental, sendo que não havia formulado tal pleito nem mesmo nas razões do recurso ordinário em mandado de segurança.
+3. É deserto o recurso se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no RMS n. 72.268/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+No presente recurso, interposto com amparo no art. 105, III, alínea "a", da Constituição Federal, a defesa do recorrente aponta violação aos arts. 98 e 99, § 2º, do Código de Processo Civil.
+Alega que o acórdão recorrido não poderia ter indeferido seu pedido de concessão de justiça gratuita "Uma vez que a parte recorrente demonstrou sua hipossuficiência, e ausência de condições para quitação das custas sem atrapalhar o custeio de sua subsistência" (e-STJ fl. 644).
+Afirma que "A declaração de hipossuficiente do reclamante resta disposta perante a página 22/889 do processo originário, bem como o pedido de concessão de assistência judiciária gratuita" (e-STJ fl. 644).
+Por fim, "pugna pelo recebimento do Recurso Especial, requerendo por fim, a remessa dos autos ao Egrégio Superior Tribunal de Justiça" (e-STJ fl. 645).
+É o relatório. Passo a decidir.
+O recurso é manifestamente incabível, uma vez que o recurso especial somente é cabível, conforme o art. 105, III, da Constituição Federal, contra as causas decididas pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal e Territórios em única ou última instância, e deve ser apresentado à Presidência do Tribunal de origem (art. 1.030, caput, do CPC).
+Ante o exposto, não conheço do recurso.
+Esgotado o prazo para interposição dos recursos cabíveis contra o acórdão da Quinta Turma do STJ, certifique-se o trânsito em julgado e encaminhem-se os autos ao arquivo.
+Intimem-se.
+EMENTA
