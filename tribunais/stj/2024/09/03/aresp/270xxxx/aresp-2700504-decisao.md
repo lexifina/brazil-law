@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo contra decisão do Tribunal de Justiça do Estado de Rondônia que não admitiu recurso especial interposto por SERGIO ANTONIO MACHADO DOS SANTOS, com fundamento na alínea a do permissivo constitucional (Apelação Criminal n. 7005505-16.2023.8.22.0), contra acórdão assim ementado (e-STJ fl.213):
+APELAÇÃO CRIMINAL. DIRIGIR VEÍCULO AUTOMOTOR COM CAPACIDADE PSICOMOTORA ALTERADA. REGIME INICIAL MENOS SEVERO. REINCIDÊNCIA ESPECÍFICA. RECURSO NÃO PROVIDO. Não cabe alteração do regime inicial de cumprimento de pena para o aberto, quando apesar de a pena fixada ser inferior a 4 anos anos, o réu é reincidente específico, pois primariedade é condição para o referido regime, nos termos do art. 33, §2º, "c", do CP.
+No recurso especial, postulou a defesa, em síntese, a fixação do regime aberto.
+O Ministério Público Federal opinou pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+A irresignação defensiva não prospera.
+Com efeito, conforme assentado pelo Tribunal de origem, a reincidência do recorrente autoriza a manutenção do regime mais gravoso, conforme jurisprudência consolidada desta Corte, in verbis:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO QUALIFICADO TENTADO. DOSIMETRIA. PLEITO DE REDUÇÃO NA FRAÇÃO MÁXIMA PELA TENTATIVA. IMPOSSIBILIDADE. REVOLVIMENTO DO CONJUNTO PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. REGIME SEMIABERTO. DESCABIMENTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS (MAUS ANTECEDENTES). E REINCIDÊNCIA. REGIME FECHADO. ADEQUADO. SÚMULA 269/STJ. INAPLICABILIDADE. WRIT NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena caso se trate de flagrante ilegalidade e não seja necessária uma análise aprofundada do conjunto probatório. Vale dizer, " ..  o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJU de 11/4/2005).
+III - Considerada a estreita proximidade de consumação do delito, a escolha do patamar de diminuição está em consonância com a jurisprudência desta Corte que "adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado: quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição" (HC n.298.249/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/4/2018).
+IV - Alterar a fração correspondente à tentativa demandaria o reexame do iter criminis percorrido pelo agente, procedimento vedado na via do habeas corpus. Nesse sentido: HC n. 426.444/RS, Quinta Turma, de minha relatoria, DJe de 7/3/2018.
+V - Sendo a paciente reincidente e portadora de circunstâncias judiciais desfavoráveis (maus antecedentes), o regime fechado mostra-se o mais adequado, ainda que a pena tenha sido fixada em patamar inferior a 4 (quatro) anos de reclusão, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+VI - A incidência da Súmula n. 269/STJ pressupõe que todas as circunstâncias judiciais sejam favoráveis, o que não ocorre na espécie.
+Habeas corpus não conhecido. (HC 571.800/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020, grifei.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial, nos termos supratranscritos.
+Publique-se. Intimem-se.
+EMENTA
