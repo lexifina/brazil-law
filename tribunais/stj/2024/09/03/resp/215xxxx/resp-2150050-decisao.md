@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED - SÃO JOSÉ DO RIO PRETO -COOPERATIVA DE TRABALHO MÉDICO, fundamentado na alínea "a" do permissivo constitucional, apresentado em face de acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 246):
+"APELAÇÃO CÍVEL. Plano de saúde. Ação de obrigação de fazer. Autor portador de esclerose múltipla. Pugna pela cobertura de medicamento - Mavenclad.
+Medicamento corresponde ao próprio tratamento da doença, de cobertura prevista no contrato. Rol da ANS que prevê somente a cobertura mínima obrigatória. Interpretação da Súmula 102 desta Corte. Ademais, o medicamento está registrado e aprovado pela ANVISA. R. sentença mantida.
+Recurso improvido."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 291-297).
+Em suas razões recursais, a parte recorrente apontou violação dos arts. 10, VI, e § 13, 12, I, "b", da Lei 9.656/98; 51, IV, parágrafo 1º, II e III do Código de Defesa do Consumidor; 421 e 422 do Código Civil de 2002.
+Sustentou, em síntese, que não pode ser obrigada a custear a medicação, uma vez que "não há qualquer dúvida quanto a ser o medicamento objeto da lide de uso domiciliar".
+Devidamente intimada, a parte contrária não apresentou contrarrazões, conforme certidão de fl. 300.
+O recurso especial foi admitido na origem e os autos subiram a esta Corte de Justiça.
+É o relatório.
+Decido.
+Cinge-se a controvérsia em verificar se o medicamento Mavenclad, prescrito para tratamento de esclerose múltipla, deve ser custeado pelo plano de saúde.
+No caso, a Corte de origem entendeu que seria possível a cobertura do tratamento mesmo fora do rol da ANS, uma vez que tal rol é exemplificativo, e o medicamento está registrado e aprovado na ANVISA, como se depreende do seguinte excerto do acórdão (e-STJ, fls. 248-249):
+"Sob o enfoque da legislação consumerista a ausência de cobertura do tratamento aqui pleiteado se revela abusiva, desviando-se diametralmente da finalidade dos serviços contratados e da obrigação assumida pela ré, qual seja, a de atuar na área da saúde e de garantir o direito fundamental à saúde.
+Ademais, insta salientar, que a jurisprudência da Câmara e do Tribunal é no sentido de que, uma vez prescrito por médico de confiança, como tal ocorre aqui, nem a ANS, nem a operadora, ainda que seus médicos dissintam da eficácia, podem sobrestar a tentativa de cura pela modalidade indicada na prescrição.
+Assim, entende-se que é devida a cobertura do medicamento para tratamento da moléstia que acomete o autor, nos termos da Súmula 102 deste Tribunal, de seguinte teor:
+Súmula nº 102: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento de natureza experimental ou por não estar previsto no rol de procedimento da ANS." Além disso, a questão da ausência de cobertura da medicação no rol da ANS foi superada, eis que sancionada lei que obriga os planos de saúde a arcarem com tratamentos que não estejam na lista de referência básica da ANS, colocando fim ao chamado rol taxativo.
+Assim, ficou restabelecido o rol exemplificativo da ANS ao ser determinado que a lista de procedimentos da agência serve apenas como referência para as operadoras de plano de saúde.
+Por fim, é de se consignar que o medicamento Mavenclad está registrado e aprovado na ANVISA." (Sem grifo no original).
+Sobre o tema, a eg. Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigado a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe 3/8/2022).
+Com efeito, o eg. Órgão Colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente, mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+"(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS."
+Nesse contexto, haja vista a inviabilidade do reexame das cláusulas contratuais e dos demais elementos fático-probatórios (Súmulas 5 e 7 do STJ), devem os autos retornar à instância de origem para que a Corte local examine se estão presentes os critérios definidos pela Segunda Seção - ou, se for o caso, na forma prevista e autorizada pelo art. 938, § 3º, do CPC/2015, converter o julgamento em diligência, para que as partes apresentem provas, no próprio Tribunal ou em primeira instância, de fatos que demonstrem ou afastem o preenchimento daqueles requisitos.
+Registre, por fim, que sobrevieram as Leis n. 14.307/2022 e 14.454/2022, alterando o art. 10 da Lei 9.656/1998, nos seguintes termos:
+"Art. 10 (..)
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais. (NR)  ..  § 6º As coberturas a que se referem as alíneas c do inciso I e g do inciso II do caput do art. 12 desta Lei são obrigatórias, em conformidade com a prescrição médica, desde que os medicamentos utilizados estejam registrados no órgão federal responsável pela vigilância sanitária, com uso terapêutico aprovado para essas finalidades, observado o disposto no § 7º deste artigo."
+Assim, havendo discussão nos autos acerca de tratamento de caráter continuado, caberá ao Juízo de origem observar os critérios estipulados na mencionada norma.
+Ante o exposto, dou parcial provimento ao recurso especial, para, cassando o acórdão recorrido, determinar o retorno dos autos à instância originária, a fim de que, em novo exame, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada - tal como delineados pela Segunda Seção do Superior Tribunal de Justiça -, julgando o pedido inicial como entender de direito.
+Publique-se.
+EMENTA
