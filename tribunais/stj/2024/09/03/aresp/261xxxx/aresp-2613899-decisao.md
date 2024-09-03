@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por MARIVALDY UZEDA LIMA, com fundamento na alínea "a", do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado:
+Apelação cível. Ação de revisão de contrato de financiamento imobiliário. Demanda julgada parcialmente procedente, nos seguintes termos: "julgo procedente em parte os pedidos da inicial, para excluir a cobrança de juros remuneratórios sobre as parcelas em atraso, permitindo apenas a incidência de juros de mora de 1% ao mês e multa de 2%. Considerando a sucumbência parcial, a fixação de honorários e custas deve levar em consideração os pedidos que não foram acolhidos, razão pela qual deve a parte autora pagar honorários advocatícios para o réu no valor correspondente a R$ 5.000,00, que fica suspenso por conta do que dispõe o art 98, 3º do CPC, enquanto que o réu fica obriga a pagar honorários no valor de R$ 1.000,00 e no pagamento de custas processuais no percentual de 20% do valor das custas judiciais devidas". Mérito.
+Contrato bancário de financiamento imobiliário com constituição de alienação fiduciária (SFH). Ausente a incidência da comissão de permanência. Inexistência de abusividade na cumulação de juros remuneratórios (taxa efetiva de 8% ao ano) e moratórios (1% ao mês). Encargos com finalidades distintas. Consoante o verbete da Súmula 296 do STJ: "Os juros remuneratórios, não cumuláveis com a comissão de permanência, são devidos no período de inadimplência à taxa média de mercado estipulada pelo Banco Central do Brasil, limitada ao percentual contratado". Por conseguinte, em contratos bancários, afigura-se possível a cobrança cumulada de juros remuneratórios e moratórios, após o inadimplemento, desde que pactuados, como na espécie. Precedentes. Sentença reformada para manter, em caso de mora contratual, a cobrança de juros remuneratórios sobre as parcelas em atraso, consoante contrato. Redimensionamento do ônus sucumbencial. Apelação cível provida. (fl .1472)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação aos artigos 1º, III, 5º, II, XXXVI e XXXII, da CF/88;4º, III, 6º e 51, IV do CDC, sustentando, em síntese, que a Corte estadual "ignorou as provas e argumentos juntados aos autos e decidiu contrariamente ao ordenamento jurídico pátrio."
+É o relatório.
+Decido.
+Não colhe o recurso.
+Inicialmente, o recurso especial não se presta ao exame de suposta violação a dispositivos constitucionais, por se tratar de matéria reservada à análise do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Quanto à alegada violação dos arts. 6º e 51, IV do CDC, a parte agravante não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado 284 da Súmula do Supremo Tribunal Federal. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CANCELAMENTO. INDENIZAÇÃO. ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. ATO ILÍCIO. REVISÃO. SÚMULA Nº 7/STJ.
+ ..
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional, é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF.
+ ..
+5. Agravo interno não provido. (AgInt no AREsp 1713316/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/2/2021, DJe de 12/2/2021)
+RECURSO ESPECIAL DA FAZENDA NACIONAL: PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO AO ART. 535, DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF.  ..  RECURSO ESPECIAL DO PARTICULAR: ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+1. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. Recurso especial do PARTICULAR não conhecido.
+(REsp 1.218.260/RS, SEGUNDA TURMA, Rel. Ministro MAURO CAMPBELL MARQUES, julgado em 16/4/2013, DJe 23/4/2013)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
