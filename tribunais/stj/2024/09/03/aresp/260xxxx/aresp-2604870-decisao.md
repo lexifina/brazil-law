@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por MASSA FALIDA DE AF ADMINISTRADORA DE CONSÓRCIO LTDA. EM LIQUIDAÇÃO contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. CONTRATO DE CONSÓRCIO. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. IMPOSSIBILIDADE. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO. DECISÃO REFORMADA. RECURSO PROVIDO.
+- Na esteira do precedente qualificado do STJ (REsp 1604412/SC), o termo inicial da prescrição intercorrente, mesmo na vigência do CPC de 1973, conta-se de forma automática, logo após o transcurso do período de carência de um ano de sobrestamento do feito.
+- O contraditório prévio é indispensável apenas ao reconhecimento da prescrição, mas não a sua configuração.
+- De acordo com o art. 177 do Cód. Civil de 1916, vigente quando da propositura da ação, a pretensão de cobrança de dívida relativa a contrato de consórcio prescrevia em 20 anos. Já no ordenamento atual, o prazo prescricional é quinquenal, conforme art. 206, § 5º, I.
+- Verificada a paralisação do feito por período superior aos 5 anos previstos pelo art. 206, §5º, I, do Cód. Civil de 2002, imperioso o reconhecimento da prescrição intercorrente."
+Em suas razões de recurso especial, a parte agravante alegou violação do art. 2.028 do CC/2002, defendendo erro na aplicação da regra de transição sobre o prazo prescricional aplicável, pois, por ocasião do início da vigência do Código Civil de 2002, já havia transcorrido mais da metade do prazo prescricional decenal previsto para as ações reais pelo art. 177 do CC/1916. Assevera que o aludido prazo não transcorreu integralmente durante o curso da execução, paralisada de 2010 até 2018, quando requerido o desarquivamento e requerida diligência para satisfação do crédito. Aduz que a cobrança teve por objeto dívida de consórcio garantido por alienação fiduciária, a qual conferiria natureza real à ação proposta.
+Contrarrazões apresentadas às fls. 823-830 (e-STJ).
+É o relatório. Decido.
+No caso dos autos, cuida-se de ação de cobrança de dívida de consórcio, em fase cumprimento de sentença, típica ação pessoal, em vez de real, reipersecutória.
+Cumpre destacar que, segundo os fatos definitivamente delineados no acórdão recorrido, houve o reconhecimento apenas da propositura de ação de cobrança, mas não da existência de alienação fiduciária em garantia, nem que a ação originalmente proposta tivesse por objeto o próprio bem supostamente garantido fiduciariamente.
+Por essa razão, foi declarada a prescrição intercorrente, pelo transcurso do prazo prescricional de 5 (cinco) anos previsto pelo art. 206, § 5º, I, do CC/2002, sob o fundamento de que, por ocasião do início da vigência do Código Civil de 2002, não havia transcorrido mais da metade do prazo prescricional de 20 (vinte) anos previsto pelo art. 177 do CC/1916, vigente à época da propositura da ação (em 1996).
+Desse modo, constata-se a inviabilidade de conhecimento do recurso especial, por deficiência das razões recursais, óbice da Súmula 284/STF, pois a argumentação parcialmente dissociada do acórdão recorrido não combateu a motivação suficiente para manter incólume o resultado do julgamento, atraindo o óbice da Súmula 283/STF.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
