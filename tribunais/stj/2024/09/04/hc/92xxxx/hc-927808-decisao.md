@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Marcelo Henrique de Oliveira Silva contra o ato coator proferido pela Oitava Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do HC n. 2184079-46.2024.8.26.0000, não conheceu da impetração, mantendo o indeferimento da progressão de regime (Execução n. 0001768-95.2024.8.26.0041, DEECRIM 1ª RAJ - São Paulo/SP).
+A defesa alega, em síntese, que há constrangimento ilegal, pois o paciente preenche o requisito subjetivo para concessão do benefício executório, não havendo fundamentação idônea para a determinação de realização do exame criminológico.
+Sustenta que a ausência de atos de indisciplina demonstra, sem sombra de dúvidas, a presença do mérito para a obtenção do benefício pleiteado.
+Pede a progressão do paciente ao regime semiaberto ou, no mínimo, que o pedido do benefício de progressão de regime seja analisado desconsiderando os argumentos lançados na primeira decisão.
+Subsidiariamente, caso o laudo aporte aos autos antes do julgamento do presente writ, pleiteia que seja considera do ilegal o exame criminológico em razão da ausência de fundamentação idônea para sua realização (fls. 3/8).
+Liminar indeferida pela Vice-Presidência deste Tribunal Superior às fls. 133/134.
+Informações prestadas pela origem às fls. 144/154.
+O Ministério Público Federal pugna pelo não conhecimento da impetração ou, caso conhecido, pela denegação da ordem, conforme os termos da seguinte ementa do parecer (fl. 161):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE ENTORPECENTES. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO PREENCHIDO. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO FUNDAMENTADA. HISTÓRICO PRISIONAL CONTURBADO. ALEGAÇÃO DE EXCESSO DE PRAZO. TRÂMITE, POR ORA, DENTRO DOS LIMITES DE RAZOABILIDADE. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+A impetração pretende afastar a exigência de exame criminológico e a concessão da progressão de regime.
+Após análise dos autos, entendo assistir razão à impetração.
+O Tribunal local, a despeito de não ter conhecido do writ, expressou o seguinte (fl. 129):
+Por outro lado, como se verifica de fls. 98/103, a decisão hostilizada não padece de nenhuma ilegalidade e está devidamente fundamentada tendo sua prolatora especificado, de forma clara e precisa, as razões de seu convencimento para determinar a submissão do paciente ao exame criminológico, consignando, inclusive, que "o sentenciado, reincidente, possui condenação pela prática de crime de fruto qualificado, o que demonstra personalidade voltada à prática delitiva. Com efeito, é absolutamente razoável, e por que não dizer recomendável, que, em casos tais, em razão da gravidade em concreto da conduta perpetrada e à vista dos demais elementos constantes dos autos, o magistrado tenha cautela e socorra-se de técnicos para auxiliá-lo na formação do seu convencimento sobre a conveniência da concessão do benefício pretendido. Convém destacar ainda que, no regime intermediário, o sentenciado terá direito a saídas temporárias, retornando, ainda que por curtos intervalos de tempo, ao convívio social, o que torna ainda mais imprescindível a necessidade de um prognóstico minimamente favorável. E assim é que se decide tendo em vista a dicção da Súmula 439 do STJ.".
+Dessa forma, de se concluir que o MM. Juízo impetrado determinou, de maneira suficientemente fundamentada, a submissão do paciente a exame criminológico, a fim de que sejam trazidos aos autos elementos suficientes para demonstrar que sua periculosidade sofreu o abrandamento necessário para que possa vivenciar regime menos gravoso.
+Por outro lado, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o julgador, antes de apreciar o pedido de progressão de regime, pode determinar a submissão do apenado a exame criminológico, desde que o faça de forma fundamentada, nos termos da Súmula 439/STJ (HC n. 505.302/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2019; e AgRg no HC n. 667.305/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/10/2021).
+Como se sabe, a gravidade abstrata dos crimes que originaram a execução penal, a longa pena a cumprir pelo condenado, bem como as faltas graves antigas não constituem fundamento idôneo a sustentar indeferimento de progressão. Conforme iterativa jurisprudência deste Sodalício, as faltas cometidas em tempo longínquo não podem ser invocadas eternamente para o indeferimento do benefício (AgRg no HC n. 791.163/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/9/2023).
+Também se admite o uso do histórico carcerário conturbado, com o registro de faltas disciplinares, como fundamento apto a justificar o indeferimento do pleito (AgRg no HC n. 822.067/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 30/11/2023).
+No mesmo sentido, confira-se: AgRg no HC n. 809.500/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/6/2023.
+No caso, a instância local utilizou fundamentação inidônea, considerando a reincidência e a gravidade em abstrato do delito praticado.
+Ante o exposto, concedo a ordem para afastar a exigência de exame criminológico, determinando o prosseguimento da análise do benefício pela instância local.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. GRAVIDADE DOS DELITOS PRATICADOS, LONGA PENA A CUMPRIR E FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. HISTÓRICO PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+Ordem concedida nos termos do dispositivo.
