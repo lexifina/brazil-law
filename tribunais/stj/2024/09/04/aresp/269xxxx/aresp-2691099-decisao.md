@@ -1,0 +1,27 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que deu parcial provimento ao apelo defensivo para reduzir a pena do recorrente para 5 anos, 11 meses e 4 dias de reclusão, pelo cometimento do crime do art. 121, caput, c/c art. 14, inciso II, ambos do Código Penal.
+A defesa aponta a violação dos arts. 158 e 386, VII, do CPP, alegando, em síntese, que a materialidade delitiva não ficou comprovada, tendo em conta a não realização de exame pericial.
+Contrarrazões às e-STJ fls. 998/1000.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 1.038/1.040.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 5 anos, 11 meses e 4 dias de reclusão, pelo cometimento do crime do art. 121, caput, c/c art. 14, inciso II, ambos do Código Penal.
+A defesa alega a nulidade da condenação em razão da não comprovação da materialidade delitiva, tendo em conta a não realização de exame pericial. Sobre o tema, o TJMG assim se pronunciou:
+Da análise dos autos, verifica-se que, de fato, não foi realizado o exame de corpo de delito na vítima o que, a princípio, ensejaria nulidade no feito.
+No entanto, nos termos da jurisprudência do STJ, a falta do exame de corpo de delito direto não é suficiente para invalidar a condenação, sobretudo quando é possível a verificação da materialidade por outros meios probatórios idôneos:
+ ..
+No caso, a materialidade do delito restou comprovada pelo boletim de ocorrência (doc. ordem 3, f. 6/8), pelo termo de declarações (doc. ordem 3, f. 43/44), pelo relatório da Polícia Civil (doc. ordem 3, f. 110), além dos depoimentos prestados em juízo.
+Não havendo dúvidas quanto à materialidade do crime, a preliminar de nulidade deve ser rejeitada. (e-STJ fls. 967/972)
+O entendimento do TJMG está em harmonia com a jurisprudência desta Corte no sentido de que a prova da materialidade delitiva, no crime de homicídio, pode ser realizada por outros meios que não o laudo pericial, afinal, nos termos do art. 182 do CPP (ut, AgRg no HC n. 779.811/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 13/8/2024, DJe de 16/8/2024).
+Ainda nessa mesma linha:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. EXTRAÇÃO DE DADOS TELEMÁTICOS APÓS AUTORIZAÇÃO JUDICIAL. ALEGADA NECESSIDADE DE PERÍCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Constituição Federal, quando a demonstração do dissídio interpretativo se restringe à mera transcrição de ementas dos acórdãos tidos por paradigmas. É absolutamente indispensável o efetivo cotejo analítico entre os arestos impugnado e paradigma, declinados ao exame da identidade ou similitude fática entre estes, nos moldes legais e regimentais, mister não desincumbido pelo postulante no caso em apreço.
+2. As instâncias ordinárias adotaram entendimento consentâneo com a orientação desta Corte Superior de Justiça, segundo a qual "mostra-se mais adequada a posição que sustenta que as irregularidades constantes da cadeia de custódia devem ser sopesadas pelo magistrado com todos os elementos produzidos na instrução, a fim de aferir se a prova é confiável." (AgRg no RHC n. 158.831/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+3. "De acordo com a compreensão deste Superior Tribunal, a falta do exame de corpo de delito direto não é suficiente para invalidar a condenação, sobretudo quando é possível a verificação da materialidade por outros meios probatórios idôneos, como no caso, no qual a Corte estadual destacou a existência de outras provas acerca da ocorrência dos crimes"(AgRg no HC n. 763.428/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+4. Não houve demonstração pela defesa de qualquer circunstância capaz de sugerir a adulteração da prova, nem mesmo uma interferência indevida em seu caminho capaz de invalidá-la, o que atrai o princípio pas de nullité sans grief.
+5. Quanto aos arts. 10, § 2º, e 12, ambos da Lei n. 12.965/2014 e 1º da Lei n. 12.030/2009, não há como afastar o óbice da Súmula 284/STF, porque, no caso em questão, a alegação de ofensa foi apresentada de maneira genérica, sem a demonstração efetiva de como o acórdão teria violado os referidos dispositivos. Incidência da Súmula 284/STF.
+6. Agravo regimental desprovido. (AgRg no AREsp n. 2.438.225/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/3/2024).
+Ademais, cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado. Óbice do enunciado n.º 7 da Súmula deste STJ (ut, AgInt no AREsp n. 1.265.017/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/5/2018).
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
