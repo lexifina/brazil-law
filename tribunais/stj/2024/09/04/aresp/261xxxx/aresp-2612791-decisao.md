@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado por Dirceu Benedito Moreira, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 305):
+ACIDENTE DO TRABALHO - PEDREIRO LESÃO NA COLUNA E NO MEMBRO INFERIOR ESQUERDO - LAUDO PERICIAL CONCLUSIVO INCAPACIDADE PARCIAL E PERMANENTE COMPROVADA NEXO CAUSAL DEMONSTRADO - AUXÍLIO-ACIDENTE - BENEFÍCIO DEVIDO.
+CORREÇÃO MONETÁRIA ÍNDICES ECONÔMICOSPERTINENTES - OBSERVÂNCIA À REPERCUSSÃOGERAL N. 810 E 905 JUROS DE MORA ART. 1º-FDA LEI 9.494/97, COM REDAÇÃO DADA PELA LEI11.960/2009 EC 113/21 INCIDÊNCIA.
+HONORÁRIOS ADVOCATÍCIOS FIXAÇÃO NA FASEDE LIQUIDAÇÃO ART. 85, §2º, II DO CPC - APLICAÇÃO DA SÚMULA 111 DO STJ.
+Aponta o recorrente, nas razões do apelo especial, violação ao arts. 42, caput da Lei 8.213/91, na medida em que o Tribunal de origem, entendeu "sob o argumento de que não é possível analisar as circunstâncias pessoais e sociais para fins de concessão de benefício de aposentadoria por invalidez, apesar de constatada a redução da capacidade laboral" (fl.317) .
+Alega que, "a impossibilidade não é somente a par do critério médico, mas também social. O intérprete deve proceder à aferição das circunstâncias específicas, somando-se as médicas e as de caráter socioeconômico, para verificar se a pessoa vai conseguir trabalhar e prover o próprio sustento concretamente" (fl. 322).
+Defende que, "Embora o AVC possa não ser usado para conferir a concessão do benefício de aposentadoria de natureza acidentária, é fato que as limitações sociais derivadas do acidente podem ser consideradas" (fl. 326)
+Devidamente intimada, a parte recorrida não apresentou contrarrazões ao recurso especial, conforme certidão de fl. 332.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Inicialmente, é importante ressaltar que o juiz não está adstrito às conclusões da perícia técnica, podendo se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa, fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto.
+É bem verdade também, que esta Corte possui o firme entendimento no sentido de que, embora o laudo pericial não ateste a incapacidade total e permanente do segurado para a atividade laboral, outros aspectos socioeconômicos, profissionais e culturais do segurado podem levar o Tribunal a reconhecer o direito ao benefício de aposentadoria por invalidez.
+Entretanto, n a espécie, o Tribunal de origem, considerando a ausência de incapacidade total e definitiva para atividade laboral, requisito necessário à concessão da aposentadoria por invalidez, deferiu apenas o benefício acidentário, baseou-se no conjunto fático-probatório existente nos autos, como se denota do seguinte trecho, extraído do acórdão recorrido (fls.307/308):
+O perito apurou, ainda, que o obreiro foi vítima de acidente vascular cerebral em 02/2022, que causa redução de força do dimídio esquerdo, que resulta em incapacidade total e permanente e descartou o nexo causal com o labor.
+As partes tiveram ciência do laudo e o não sobreveio parecer técnico divergente.
+Seguindo a conclusão pericial, a MM. Juíza a quo concedeu o auxílio-acidente e esta decisão merece ser mantida.
+Como se percebe, a perícia foi segura e convincente ao demonstrar que o autor se ressente de sequelas determinantes de danos à saúde, com repercussão em sua capacidade laborativa de forma parcial e permanente, confirmando que estas foram causadas pelo acidente narrado.
+O nexo causal, além de reconhecido em perícia, restou comprovado pela emissão da CAT e pela concessão do auxílio-doença acidentário.
+Portanto, o obreiro faz jus ao benefício acidentário, pois foi constatada a lesão, caracterizado o nexo causal com o trabalho e a efetiva incapacidade profissional, parcial e permanente. Presentes estes requisitos, é de rigor o deferimento do auxílio-acidente.
+Registro, todavia, ser incabível na espécie a concessão de aposentadoria por invalidez, pois como observado pela MM. Juíza a quo, a hemiparesia esquerda não guarda nexo com o acidente de trabalho.
+De outro lado, é descabida a consideração de aspectos sociais para a concessão do amparo acidentário, tais como idade, grau de instrução, classe social, entre outros. Efetivamente, aspectos socioeconômicos, profissionais e culturais do segurado remetem à seara assistencial e, como é sabido, assistência e previdência compõe a seguridade social, mas os respectivos benefícios idealizados pelo legislador possuem características próprias e exigem, para a sua fruição, o preenchimento de requisitos distintos.
+Nesse contexto, a desconstituição das premissas adotadas pelo Tribunal de origem, como requer o recorrente nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+Nesse sentido, anote-se o seguinte precedente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA. VIOLAÇÃO A ENUNCIADO SUMULAR. NÃO CABIMENTO. JULGAMENTO EXTRA OU ULTRA PETITA. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA INCAPACIDADE LABORATIVA, SEJA PERMANENTE OU TEMPORÁRIA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. MERO INCONFORMISMO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O agravo interno não trouxe argumentos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. Não procede o argumento de que o recurso especial seria cabível em relação à alegada ofensa à Súmula 47 da TNU, por não se enquadrar o aludido enunciado no conceito de tratado ou lei federal de que trata a CF/1988.
+3. Segundo consta no acórdão, a autarquia federal sustentou que a segurada não preenchera os requisitos para a concessão dos benefícios por incapacidade, acrescentando que, em caso de concessão do pedido, o benefício mais adequado seria o auxílio-doença, e não a aposentadoria por invalidez.
+4. Assim, estabelecida a extensão do pleito, a Corte de origem concluiu, amparada na profundidade do efeito devolutivo do recurso de apelação, não terem sido preenchidos os requisitos para a concessão de quaisquer dos benefícios previdenciários, uma vez não comprovada a incapacidade laborativa, seja total ou permanente.
+5. Portanto, o órgão julgador não violou os limites da pretensão recursal, notadamente porque a análise do pedido decorre da interpretação lógico-sistemática da petição como um todo, não se limitando aos requerimentos constantes de um capítulo específico.
+6. A modificação das conclusões do acórdão recorrido, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de
+prova não enseja recurso especial.
+7. Agravo interno do particular a que se nega provimento.
+(AgInt no AREsp 1926710/MS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), DJe de 30/3/2022)
+ANTE O EXPOSTO, nego provimento ao presente agravo.
+Publique-se.
+EMENTA
