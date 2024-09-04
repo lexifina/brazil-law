@@ -1,0 +1,7 @@
+DESPACHO
+Examina-se recurso especial interposto por BANCO DO BRASIL SA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, no qual se discute, entre outras matérias, o critério de reajuste das cédulas de crédito rural, no mês de março de 1990, nos quais prevista a indexação aos índices da caderneta de poupança.
+A questão de direito foi afetada pelo Supremo Tribunal Federal para julgamento sob o rito da repercussão geral (Tema 1.290), com a determinação de suspensão do processamento de todas as demandas pendentes que tratem da questão em tramitação no território nacional, inclusive as liquidações e cumprimentos provisórios de sentença lastreados nos acórdãos proferidos pelo Superior Tribunal de Justiça nos autos do Recurso Extraordinário nº 1.445.162/DF, o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental nº 24, de 28/9/2016.
+Salienta-se, por oportuno, que, após o pronunciamento daquela Corte, o recurso especial deverá ser analisado na forma prevista nos arts. 1.040 e 1.041 do CPC.
+Forte nessas razões, DETERMINO a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC.
+Publique-se. Intime-se.
+ EMENTA
