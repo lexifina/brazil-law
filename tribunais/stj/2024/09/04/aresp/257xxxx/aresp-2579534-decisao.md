@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por OSCAR DA SILVA PIMENTEL contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 211):
+Monitória. Cheque prescrito. Legitimidade do endossante. A perda da natureza cambiária do título não impede a aplicação da boa-fé objetiva, regente dos negócios jurídicos. Precedentes do STJ. Termo inicial dos juros. Data da primeira apresentação do título prescrito, na forma do art. 52, inciso I, da Lei Federal 7357. Entendimento consolidado da Corte de Uniformização. Apelação desprovida.
+Opostos embargos de declaração, foram acolhidos, mas sem efeitos infringentes (fls. 242/247).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 3º, 11, 489, § 1º, 1.022, II, todos do Código de Processo Civil/2015, sustentando a omissão do Tribunal de origem sobre ilegitimidade ativa e ilegitimidade passiva, que são de ordem pública.
+Aduz a negativa de vigência do art. 485, VI, do CPC/2015, uma vez que o endossante não é parte passiva em ação monitória para o fim de recebimento de cheque prescrito.
+Defende que, nos termos dos arts. 494, I, do CPC/2015, dos arts. 1º e 2º, ambos da Lei 6.899/81, e do art. 405 do Código Civil, os juros devem ser contados a partir da citação e a atualização monetária a contar do ajuizamento da ação.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da ausência de negativa da prestação jurisdicional e do óbice da Súmula 7 do STJ.
+Neste agravo, a parte agravante impugna os fundamentos da decisão agravada.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+No que se refere à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, não há falar em omissão no acórdão, mas apenas julgamento contrário aos interesses da parte recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Isso, porque, ao solucionar a controvérsia, o Tribunal de origem consignou, no acórdão do julgamento dos embargos de declaração, que: (i) a sentença foi proferida na vigência do CPC-73, cujo art. 475-C previa um rol taxativo de impugnação ao cumprimento de sentença; (ii) correta a sentença ao indeferir a prova pretendida pelo recorrente, na medida em que os fatos que ele pretendia provar eram inerentes à causalidade do título prescrito; e (iii) deveriam ter sido suscitadas na fase de embargos à monitória e não no cumprimento de sentença, sobre a qual se operou a coisa julgada. Confira-se:
+De fato, a ilegitimidade e a incidência dos juros e da correção monetária poderiam ser objeto da impugnação ao cumprimento. Porém, as matérias inerentes à causalidade do título de crédito desprovido de força executiva deveriam ter sido impugnadas por meio dos embargos monitórios, cuja revelia é reconhecida pelo próprio recorrente em seu recurso.
+Ressalta-se que a sentença foi proferida na vigência do CPC-73, cujo art. 475-C previa um rol taxativo de impugnação ao cumprimento de sentença, nos seguintes termos:
+ ..
+Portanto, correta a sentença ao indeferir a prova pretendida pelo apelante-devedor, na medida em que os fatos que ele pretendia provar eram inerentes à causalidade do título prescrito. Logo, deveriam ter sido suscitadas na fase de embargos à monitória, e não ao cumprimento de sentença, sobre a qual se operou a coisa julgada  ..  (fls. 246/247).
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016.
+Sobre a legitimidade da parte recorrente, o Tribunal de origem destacou que era correto o indeferimento da prova pretendida pelo recorrente, na medida em que os fatos que ele pretendia provar eram inerentes à causalidade do título prescrito; e deveriam ter sido suscitadas na fase de embargos à monitória e não no cumprimento de sentença, sobre a qual se operou a coisa julgada.
+Com isso, os fundamentos adotados pelo Tribunal de origem estão em consonância com o entendimento firmado nesta Corte no sentido de que o autor da ação monitória não precisa, na exordial, mencionar ou comprovar a relação causal que deu origem à emissão do cheque prescrito, todavia nada impede que o requerido, em embargos à monitória, discuta a causa debendi, cabendo-lhe a iniciativa do contraditório e o ônus da prova - mediante apresentação de fatos impeditivos, modificativos ou extintivos do direito do autor.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. O autor da ação monitória não precisa, na exordial, mencionar ou comprovar a relação causal que deu origem à emissão do cheque prescrito, todavia nada impede o requerido, em embargos à monitória, discuta a causa debendi, cabendo-lhe a iniciativa do contraditório e o ônus da prova - mediante apresentação de fatos impeditivos, modificativos ou extintivos do direito do autor. Incidência da Súmula 83 do STJ.
+2. Rever a conclusão do Tribunal de origem quanto à inversão do ônus da prova e ao termo inicial da prescrição exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.357.073/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. O autor da ação monitória não precisa, na exordial, mencionar ou comprovar a relação causal que deu origem à emissão do cheque prescrito, todavia nada impede o requerido, em embargos à monitória, discuta a causa debendi, cabendo-lhe a iniciativa do contraditório e o ônus da prova - mediante apresentação de fatos impeditivos, modificativos ou extintivos do direito do autor. Incidência da Súmula 83 do STJ.
+2. Rever a conclusão do Tribunal de origem quanto à inversão do ônus da prova e ao termo inicial da prescrição exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.357.073/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Quanto ao mais, rever as conclusões do Tribunal de origem quanto a não oposição dos embargos à monitória e a existência de coisa julgada sobre o tema, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado nesta fase de recurso.
+Dessa forma, incidem sobre o tema, os óbices das Súmulas 7 e 568 do STJ.
+No que se refere ao termo inicial dos juros, o Tribunal de origem consignou que, na cobrança de créditos representados em cheques, ainda que desprovidos de exequibilidade, os juros de mora devem ter como termo inicial a data da primeira apresentação dos títulos para pagamento (fls. 216/217).
+Novamente, o acórdão recorrido encontra-se me consonância com o entendimento firmado no julgamento do recurso representativo da controvérsia, REsp 1556834, no sentido de que, em qualquer ação utilizada pelo portador para cobrança de cheque, a correção monetária incide a partir da data de emissão estampada na cártula, e os juros de mora a contar da primeira apresentação à instituição financeira sacada ou câmara de compensação. A saber:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. CHEQUE. INEXISTÊNCIA DE QUITAÇÃO REGULAR DO DÉBITO REPRESENTADO PELA CÁRTULA. TESE DE QUE OS JUROS DE MORA DEVEM FLUIR A CONTAR DA CITAÇÃO, POR SE TRATAR DE AÇÃO MONITÓRIA. DESCABIMENTO. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. TEMAS DE DIREITO MATERIAL, DISCIPLINADOS PELO ART. 52, INCISOS, DA LEI N. 7.357/1985.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015 (art.
+543-C do CPC/1973), é a seguinte: "Em qualquer ação utilizada pelo portador para cobrança de cheque, a correção monetária incide a partir da data de emissão estampada na cártula, e os juros de mora a contar da primeira apresentação à instituição financeira sacada ou câmara de compensação".
+2. No caso concreto, recurso especial não provido.
+(REsp n. 1.556.834/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/6/2016, DJe de 10/8/2016.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
