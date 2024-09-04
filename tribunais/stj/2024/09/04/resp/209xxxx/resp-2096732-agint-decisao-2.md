@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por AUGUSTO CESAR DE OLIVEIRA LIMA CARAPEBA,e outros (AUGUSTO e outros) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL DE AUGUSTO E OUTROS. PRODUÇÃO ANTECIPADA DE PROVA. EXIBIÇÃO DE DOCUMENTOS. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, 1.022, II E III, DO CPC. INOCORRÊNCIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. NULIDADE DO ACÓRDÃO. PREMISSAS FÁTICAS INEXISTENTES. INTERESSE DE AGIR. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSENSO JURISPRUDENCIAL APOIADO EM FATOS. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 735).
+Nas razões do presente inconformismo, requereram o provimento do agravo interno para:
+1. Seja reformado o v. Acórdão, mantendo-se a sentença de primeiro grau que julgou sem resolução do mérito a presente demanda, pela carência da ação, uma vez que os Recorridos buscam a pescaria probatória, o que é vedado pelo ordenamento jurídico atual;
+2. Seja declarada a ilegitimidade dos Recorrentes GUILHERME, AMANDA, BRUNNO e ANA CARDOSO, por não terem exercido cargo de direção/administração entre 2010 a 2017, além do falecimento de Ana Cardoso;
+3. Caso não seja o entendimento de reforma, que seja dado provimento ao Recurso para anular o v. acórdão do E. TJSP, uma vez que extrapolou os limites do pedido (julgamento extra petita), devendo ser realizado novo julgamento dentro dos limites do pedido.
+4. Sejam os Recorridos intimados para apresentar contrarrazões, caso queiram;
+5. Sejam os Recorridos condenados ao pagamento de todos com consectários legais, notadamente honorários advocatícios (e-STJ, fl. 762).
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+Da reconsideração da decisão agravada
+Diante dos fundamentos indicados no agravo interno, RECONSIDERO a decisão agravada para novo exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, AUGUSTO e outros sustentaram além de dissídio jurisprudencial a violação dos arts. 318, 369, 381, 382, 1.022, do CPC, ao alegar (1) negativa da prestação jurisdicional, diante das omissões e contradições quanto à: a) ilegitimidade passiva de Ana Cardoso Maia de Oliveira Lima; b) inexistência de documentos comuns; c) inexistência de duplo domicílio de Augusto César de O. Lima; d) inexistência de contribuições pecuniárias de associados; e) ausência de indicação de fato probando relacionado aos objetos da demanda; f) cerceamento de defesa por indeterminação do objeto, sendo o acórdão recorrido ilíquido e condicional; e g) cerceamento de defesa por violação ao contraditório e à dilação probatória, não se aplicando a teoria da causa madura quando não aperfeiçoado o contraditório, com todos os meios e recursos a ele inerentes; e (2) nulidade do acórdão por se assentar em premissas fáticas inexistentes: contribuição pecuniária e documentos comuns (e-STJ, fls. 442/470).
+(1) Da Negativa de prestação jurisdicional
+Consta dos autos que o recurso de apelação interposto por ANDREA CLAUDIA PEREIRA COSTA e outros (ANDREA e outros) foi provido em acórdão da relatoria do Des. JOÃO BAPTISTA GALHARDO JÚNIOR, assim ementado:
+APELAÇÃO. Ação de produção antecipada de provas. Extinção do processo, na origem, sem resolução de mérito, com fundamento no artigo 485, VI, do Código de Processo Civil. Insurgência da parte autora. Interesse processual dos autores, na qualidade de associados, na exibição de documentos referentes à associação, inclusive aqueles, em princípio, sigilosos, haja vista o direito de conhecerem o destino dado ao patrimônio gerido, composto pelas contribuições de seus associados. Prescrição decenal, nos termos do artigo 205 do Código Civil, não operada. Legitimidade passiva da Associação e administradores. Terminativa afastada, com declaração de procedência da pretensão. Recurso provido (e-STJ, fl. 433)
+Contra esse acórdão AUGUSTO e outros opuseram embargos de declaração, sustentando omissões relativas: a) (i) à ausência de prova de duplo domicílio de Augusto César, (ii) à ilegitimidade passiva da correquerida Ana Cardoso Maia de Oliveira Lima; (iii) à ausência de preenchimento dos requisitos legais dos arts. 382 e 397, II, do CPC., (iv) à ausência de motivação no tocante à definição do prazo prescricional decenal e (v) ao pedido indeterminado de exibição de documentos; além de contradição (vi) no que se refere à ausência de contribuição pelos associados (e-STJ, fls. 539/548). Os declaratórios, porém, foram rejeitados (e-STJ, fls. 555/560).
+Admitindo que as circunstâncias destacadas nos embargos de declaração, ao menos sob a linha argumentativa adotada pelo embargante pode, em tese, interferir no resultado do julgamento, cumpria ao órgão julgador, esclarecer se elas seriam ou não suficientes para tanto, o que não ocorreu.
+Assim, recusando-se o TJSP a se manifestar sobre as questões federais terminou por negar prestação jurisdicional aos Recorrentes.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos ao TJSP para que sane o vício de omissão e contradição relativas às questões levantadas.
+Fica prejudicada a analise das demais matérias.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada, CONHECER do agravo e DAR PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJSP para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUGUSTO E OUTROS. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS . EXIBIÇÃO DE DOCUMENTOS. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. OMISSÕES E CONTRADIÇÃO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
