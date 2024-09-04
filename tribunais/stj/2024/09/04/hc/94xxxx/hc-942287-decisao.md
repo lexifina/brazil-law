@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLÁUDIO SÉRGIO LEONI contra acórdão da Segunda Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC n. 2144849-94.2024.8.26.0000).
+Extrai-se dos autos que o paciente foi preso preventivamente, no bojo da denominada Operação "Game Over", acusado da suposta prática dos delitos tipificados nos arts. 2º, caput, e § 4º, inciso V da Lei n. 12.850/13, e das contravenções penais dispostas nos arts. 50 e 58 da respectiva lei.
+Buscando a revogação da custódia, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 24/58):
+Habeas corpus" em que se busca a desconstituição da prisão preventiva.
+1. Indícios de que o paciente cometeu crime de organização criminosa, bem como as contravenções penais de exploração de jogos de azar e exploração de jogo do bicho.
+2. Gravidade em concreto das infrações penais que justifica a prisão preventiva.
+3. A garantia da ordem pública, enquanto requisito autorizador da prisão preventiva, pode derivar da necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa (STF, HC nº 108.049, relator Ministro Teori Zavascki, julgado em 19/03/2013, DJ04/04/2013; HC nº 95.024-8, relatora Ministra Cármen Lúcia, julgado em 14/10/2008, DJ 20/02/2009; STJ, AgRg no HC nº 811.784/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023; AgRg no RHC nº 169.689/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023; AgRg no HC nº 824.006/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em14/8/2023, DJe de 16/8/2023; HC nº 544.736/PR, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em18/2/2020, DJe de 28/2/2020HC nº 124.595/RS, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 16/12/2010, DJe de 7/2/2011). 4. Decisão judicial fundamentada. Não se divisa, diferentemente do sustentado na impetração, excesso de linguagem na decisão judicial que decretou a prisão preventiva. Não se nota um pré-julgamento, no sentido de que os termos utilizados, notadamente se considerada a decisão no seu conjunto e referente a um determinado estágio da persecução penal, denotem uma prévia convicção sobre a consistência das imputações. 5. Não se entrevê falta de contemporaneidade enquanto requisito para a decretação da prisão preventiva. 6. Não configuração de um quadro de constrangimento ilegal. Ordem denegada.
+O presente writ foi impetrado perante o Supremo Tribunal Federal impugnando as razões do acórdão da Corte Estadual.
+O Exmo. Min. Luís Roberto Barroso destacou que "o caso não se amolda às hipóteses de cabimento de habeas corpus perante o Supremo Tribunal Federal, previstas no art. 102,1, d e i, da Constituição", e determinou a remessa do feito a este Tribunal (e-STJ fls. 69/71).
+A defesa alega, na presente impetração, que a custódia carece de fundamentos idôneos, bem como que é desproporcional à possível pena a ser fixada em caso de eventual condenação.
+Alega que não se justifica a imputação de organização criminosa para cometimento de contravenções penais.
+Aduz que a existência de um site pertencente a terceiro hospedado fora do país não permite estender à imputação um caráter transnacional. Tal sítio eletrônico, inclusive, se limitaria à oferta de aposta esportiva lícita, não tendo relação com as condutas imputadas ao paciente. Desse modo, seria inaplicável a lei de organização criminosa.
+Assim, "demonstra-se nitidamente que o "vídeo bingo" e "jogos do bicho" que supostamente o Paciente é acusado, girava somente nos bares aos arredores da comarca de Fernandópolis/SP. Nenhuma dessas atividades foram estendidas nem mesmo para fora do estado de São Paulo quanto mais para fora do Brasil!" (e-STJ fl. 11).
+Ressalta suas circunstâncias pessoais favoráveis. Afirma que não há fatos novos que justifiquem a prisão
+Defende que seria suficiente a aplicação de medidas cautelares alternativas.
+Requer a expedição de alvará de soltura, ainda que cumulado com outras medidas diversas da prisão.
+É o relatório. Decido.
+O writ não comporta conhecimento, uma vez que as teses ora apresentadas já foram objeto de apreciação por esta Corte.
+De fato, tramitou neste Tribunal o HC nº 925316/SP, de idêntico teor ao habeas corpus ora em análise.
+Ora, " a  mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus" (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+EMENTA
