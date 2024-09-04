@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Salvador contra decisão da Segunda Vice- Presidência do Tribunal de Justiça do Estado da Bahia que não admitiu o recurso especial com base nos seguintes fundamentos: (I) ausência de ofensa aos arts. 489 e 1.022 do CPC; e (II) incidência da Súmula 284/STF.
+A parte agravante sustenta, em resumo, que "acerca da tese suscitada a violação ao art. 489, §1º, do CPC, o Município demonstrou que a decisão Recorrida não enfrentou todos os argumentos aduzidos em sede recursal, e que tal omissão, por si só, enseja nulidade do julgado. Nesta senda, cumpre mencionar que o acórdão ora recorrido manteve a sentença proferida, e não se manifestou sobre a prescrição parcelar invocada pela edilidade. ..  Ademais, o Município alegou violação ao art. 1º do Decreto Lei 20.910/1932 sob a fundamentação de que houve prescrição parcial, a partir do ajuizamento da presente ação, devendo ser consideradas prescritas todas as parcelas anteriores a 03/10/1995, uma vez que a ação foi ajuizada em 03/10/2000. Nada obstante, o acórdão informou que a parte Apelante/Município do Salvador teria pleiteado a prescrição a partir do ato de demissão. O que não ocorreu; portanto, equivocado o acórdão. Portanto, esse simples argumentou não foi apreciado pelo Tribunal a quo, o que enseja vulneração aos art. 489, §1º, IV, do CPC e ao art. 1.022, II, e parágrafo único, II, do CPC." (fls. 224/225).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência da Súmula 284/STF.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
