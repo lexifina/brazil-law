@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AGL TRANSPORTES INTERNACIONAIS LTDA. contra decisão monocrática de minha relatoria que conheceu do agravo para dar provimento ao recurso especial da American Airlines (fls. 458-462).
+O embargante alega que o recurso especial reconhecendo a aplicação dos termos da Convenção de Montreal ao caso em exame, teria como consequência a procedência em parte da demanda, apenas para limitar a responsabilidade da American Airlines e da indenização por ela devida, contudo a condenação persistiria.
+Requer a reforma da decisão embargada, modificando o provimento do recurso especial, para dar parcial provimento, apenas limitando-o aos termos previstos na Convenção de Montreal.
+Sustenta que o recurso especial teria sido provido em parte, requer a redistribuição dos honorários sucumbenciais.
+A embargada apresentou impugnação às fls. 476-482.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, os embargos de declaração merecem ser acolhidos em parte.
+O Juízo de primeiro grau julgou improcedente a ação movida por AGL Transportes Internacionais Ltda., por reconhecer ter sido realizado o pagamento da indenização na forma prevista na Convenção de Montreal, particularmente considerando que o expedidor da mercadoria não preencheu a documentação exigida, qual seja, a declaração especial de valor.
+O Tribunal Estadual reformou a sentença concluindo tratar-se de direito de regresso de seguradora, sendo inaplicável a Convenção de Montreal para o caso, em razão do disposto no art. 37: "Nenhuma das disposições da presente Convenção afeta a existência ou não do direito de regresso da pessoa responsável pelo dano, contra qualquer outra pessoa".
+Nas razões do recurso especial, a tese veiculada consistiu na prevalência da Convenção de Montreal, de sua limitação mesmo diante do art. 37, sobre o Código do Consumidor e leis gerais comuns, no que tange aos serviços de transporte aéreo internacional.
+A decisão embargada, seguindo a orientação jurisprudencial desta Corte, acolheu a tese de prevalência da Convenção de Montreal quanto à limitação do valor de responsabilidade do transportador, contudo não foi explícita no que tange ao direito de regresso.
+Com efeito, a seguradora embargante, sub-roga-se nos mesmos direitos que que competiam ao segurado contra a embargada.
+Sendo assim, a decisão embargada aplicou ao presente caso a Convenção de Montreal, cujo art. 22, ítem 3, dispõe: "no transporte de carga, a responsabilidade do transportador em caso de destruição, perda, avaria ou atraso se limita a uma quantia de 17 Direitos Especiais de Saque por quilograma, a menos que o expedidor haja feito ao transportador, ao entregar-lhe o volume, uma Declaração Especial de Valor de sua entrega no lugar de destino, e tenha pago uma quantia suplementar, se for cabível. Neste caso, o transportador estará obrigado a pagar uma quantia que não excederá o valor declarado, a menos que prove que este valor é superior ao valor real da entrega no lugar de destino".
+Dessa forma, havendo extravio de carga em transporte aéreo internacional, a indenização será limitada a 17 direitos especiais de saque, exceto se tiver sido feita a declaração especial de valor ou tenha ocorrido qualquer uma das demais hipóteses previstas em lei para que seja afastado o limite de responsabilidade da convenção de Montreal.
+Como não se transfere à seguradora mais direitos do que o segurado detinha quando foi indenizado, já decidiu a Terceira Turma desta Corte que, " com a incidência da indenização tarifada prevista na Convenção de Montreal, nem a seguradora nem a consumidora possuem direito de reparação em valores superiores ao previsto na referida norma" (RESp n. 1.707.876/SP, Terceira Turma, DJ e de 18.12.2017).
+De fato, consta da sentença, fl. 170, que a seguradora foi ressarcida pelo extravio, de acordo com a tabela tarifária adotada pela Convenção de Montreal no art. 22.
+Portanto, compete à seguradora observar o montante a que faz jus o segurado antes de efetuar o pagamento da indenização. Se pagou valor superior ao cabível, agiu por mera liberalidade, não possuindo direito de regresso contra a transportadora no que excedeu.
+Na hipótese dos autos, ficou expressamente delimitado que a seguradora constou como consignante da carga, optando por não realizar a declaração especial de valor, o que a sujeita à limitação prevista no art. 22, item 3, da Convenção de Montreal.
+Não há falar em redistribuição da sucumbência.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para sanar a omissão quanto ao direito de regresso , contudo sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SEGURADORA SUB-ROGADA. AÇÃO DE REGRESSO. APLICAÇÃO DA CONVENÇÃO DE MONTREAL. LIMITE DELIMITADO. INEXISTÊNCIA DE DECLARAÇÃO ESPECIAL DE VALOR. REJEITADOS OS EMBARGOS DE DECLARAÇÃO.
