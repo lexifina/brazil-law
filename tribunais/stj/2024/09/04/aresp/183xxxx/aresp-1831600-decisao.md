@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pela Unimed Goiânia Cooperativa de Trabalho Médico contra decisão que não admitiu seu recurso especial, o qual fora interposto contra acórdão proferido pela 3ª Câmara Cível do Tribunal de Justiça de Goiás, assim ementado (e-STJ, fls. 479-489):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C RESTITUIÇÃO DE VALORES_ E DANOS MORAIS. PRELIMINAR. DECISÃO DESFUNDAMENTADA. MERITO. THERASUIT. TRATAMENTO REGISTRADO NA ANVISA. LIMITAÇÃO DO NÚMERO DE SESSÕES. SISTEMA DE COPARTICIPAÇÃO, DANOS MORAIS. PREQUESTIONAMENTO. ÔNUS DA SUCUMBÊNCIA.
+1. Não há nulidade da sentença, por falta de fundamentação, quando o juiz examina as provas e documentos existentes nos autos e, com base neles, de forma concisa, profere o seu julgamento, nos moldes de sua convicção.
+2. Não cuidando de tratamento experimental, deve a operadora do plano de saúde arcar com a terapia Therasuit, porquanto possui registro válido sob o nº 8043116001. Dessa forma, não deve prevalecer a tese de terapia experimental, uma vez que os métodos foram submetidos à avaliação quanto à sua qualidade, eficácia terapêutica e segurança para serem registrados.
+3. A Unimed, ao negar o tratamento prescrito, não age de forma ofensiva ou prejudicial à esfera moral do paciente. Dessa forma, incabível a sua condenação no pagamento de supostos danos morais.
+4. No tocante ao prequestionamento buscado pela parte requerida em seu apelo, cumpre ressaltar que, dentre as funções do Judiciário, não se encontra cumulada a de órgão consultivo. O julgador deve resolver as questões debatidas, mas não está obrigado a apreciar cada uma das alegações apresentadas pelas partes. Ademais, considerando que o art. 1.025 do CPC consagrou a tese do prequestionamento ficto, eventual omissão no julgado não impedirá, em princípio, a submissão nas vias especial e extraordinária de toda a matéria suscitada na demanda.
+5. Provido parcialmente o recurso, impõe-se a distribuição dos ônus da sucumbência.
+APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+Alega a agravante que o acórdão recorrido teria violado os artigos 10, § 4º e 12, VI da Lei nº 9.656/98, art. 4º, III da Lei nº 9.961/00, apontando, ainda, divergência jurisprudencial acerca da taxatividade do rol da Agência Nacional de Saúde.
+Sustenta que não há falar em incidência da Súmula 7 do STJ, pois não se pretende a reanálise de matéria fática, senão a análise pontual da legislação federal que regula a atividade das operadoras de plano de saúde.
+Afirma que métodos de terapias não possuem cobertura pela operadora de plano de saúde.
+Reitera o entendimento de que é lícito à operadora de plano de saúde limitar a cobertura assistencial, em função do contrato e nos termos da legislação, pois o preço pago pelo beneficiário tem relação direta com os riscos cobertos.
+Sem contraminuta, conforme certidão (e-STJ, fl. 812).
+Assim posta a questão, passo a decidir.
+Trata-se, neste caso, de ação ajuizada por L. G. M. N., representado por seu genitor, Tiago Roberto de Melo Nunes, contra a Unimed Goiânia Cooperativa de Tra balho Médico, objetivando seja a parte ré compelida a fornecer tratamento fisioterápico pelo método Therasuit, para o seu devido tratamento, por ser portador de paralisia cerebral tipo diplegia espástica nível funcional III.
+A sentença julgou procedentes os pedidos formulados, tornando definitiva a tutela de urgência concedida (e-STJ, fls. 452-462).
+Interposta apelação, o TJGO deu parcial provimento ao recurso, apenas para excluir a condenação por danos morais (e-STJ - fls. 618-628).
+Irresignada, a Unimed Goiânia interpôs recurso especial, inadmitido pelo Tribunal de origem com base na Súmula 7 do STJ, o que ensejou a interposição do presente agravo.
+Da análise dos autos, verifico que merece prosperar o recurso interposto, uma vez que, ao acatar a pretensão da parte autora, ora recorrida, afastou-se o Tribunal de origem da jurisprudência mais recente do STJ no sentido de que os planos de saúde não estão obrigados a custear as terapias conhecidas como TheraSuit e PediaSuit, haja vista que se trata de procedimentos experimentais ainda não reconhecidos pelo Conselho Federal de Medicina. A propósito, confiram-se os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO PELO MÉTODO THERASUIT. DEVER DE COBERTURA AFASTADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira e a Quarta Turma do Superior Tribunal de Justiça entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.079.609/PA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO. METÓDO PEDIASUIT. CUSTEIO. OBRIGATORIEDADE. INEXISTÊNCIA. OUTRAS TERAPIAS. ROL DA ANS. TAXATIVIDADE. MITIGAÇÃO. HIPÓTESES. MATÉRIA DE PROVA. RETORNO DOS AUTOS.
+1. A Terceira e a Quarta Turma do Superior Tribunal de Justiça entendem que o plano de saúde não está obrigado a custear as terapias conhecidas como TheraSuit e PediaSuit, seja por serem considerados experimentais, seja por demandarem órteses não ligadas a ato cirúrgico (artigo 10, I e VII, da Lei nº 9.656/1998).
+Precedentes.
+2. No julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP, a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios. Precedentes.
+3. Constatada a ausência de elementos incontroversos nos autos que demonstrem, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, impõe-se o retorno do feito ao tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.128.830/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANOS E SEGUROS DE SAÚDE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE ELABORADO PELA ANS. FISIOTERAPIA PELO MÉTODO PEDIASUIT. AUSÊNCIA DE PREVISÃO NA RELAÇÃO EDITADA PELA AUTARQUIA. MÉTODO DE CARÁTER MERAMENTE EXPERIMENTAL. EXPRESSA EXCLUSÃO LEGAL.
+1. "O Conselho Federal de Medicin a, em seu PARECER CFM Nº 14/2018, publicado em maio de 2018 concluiu que as terapias propostas (TheraSuit e PediaSuit) ainda carecem de evidência científica que lhes deem respaldo e devem ser entendidas apenas como intervenções experimentais. Com efeito, o art. 10º, incisos I, V, IX, da Lei n. 9.656/1998, expressamente exclui da relação contratual a cobertura de tratamento clínico ou cirúrgico experimental, fornecimento de medicamentos importados não nacionalizados e tratamentos não reconhecidos pelas autoridades competentes" (AgInt no AREsp n. 1.960.488/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.887.055/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial e julgar improcedentes os pedidos contidos na inicial, invertendo os ônus da sucumbência, os quais ficam suspensos em caso de deferimento da justiça gratuita.
+Intimem-se.
+EMENTA
