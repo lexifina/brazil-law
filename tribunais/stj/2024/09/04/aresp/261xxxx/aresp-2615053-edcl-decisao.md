@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EVANILDO PINTO ALMEIDA (EVANILDO) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSO CIVIL. AGRAVO E RECURSO ESPECIAL. APELAÇÃO. SERASA LIMPA NOME. DÍVIDA PRESCRITA. IMPOSSIBILIDADE. COBRANÇA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E PROVIDO EM PARTE. (e-STJ, fl. 431).
+Nas razões do presente inconformismo, alega que existe omissão, pois a decisão foi omissa quanto à fixação dos honorários advocatícios, que devem ser arbitrados em valor que remunere devidamente o advogado.
+Não foi apresentada impugnação (e-STJ, fl. 249).
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, EVANILDO alega a existência de omissão.
+Com razão.
+Com efeito, apesar de dado provimento ao recurso de EVANILDO, não foi fixada a verba de sucumbência.
+A Segunda Seção, no julgamento do REsp 1.746.072/PR, definiu que a expressiva redação legal impõe concluir que (a) o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% a 20%, subsequentemente calculados sobre o valor (a.1) da condenação; (a.2) do proveito econômico obtido; ou (a.3) do valor atualizado da causa; e (b) o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação, (b.1) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b.2) o valor da causa for muito baixo.
+O referido precedente foi assim ementado:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, Segunda Seção, DJe 29/3/2019)
+No caso, não houve condenação e nem valor econômico sobre os quais poderia ser fixada a verba honorária. E o valor da causa foi corrigido em sentença para R$ 5.840,00 (e-STJ, fl. 161).
+Assim, a verba honorária deve ser fixada sobre o valor atualizado da causa.
+Nessas condições, ACOLHO os embargos de declaração para fixar a verba honorária em 20% sobre o valor atualizado da causa.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. APELAÇÃO. HONORÁRIOS. ERRO MATERIAL, OMISSÃO E CONTRADIÇÃO. EXISTÊNCIA. E MBARGOS DE DECLARAÇÃO ACOLHI DOS.
