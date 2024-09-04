@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 17ª VARA ESPECIALIZADA CRIMINAL DE SALVADOR - SJ/BA, o suscitante, e o JUÍZO FEDERAL DA VARA CÍVEL E CRIMINAL DE PASSOS - SJ/MG, o suscitado, nos autos de persecução penal que apura a prática, em tese, do crime tipificado no art. 171, § 3º, do Código Penal - CP (estelionato previdenciário).
+O Juízo da Vara Federal Cível e Criminal da Subseção Judiciária de Passos/MG acolheu preliminar suscitada pela defesa na resposta à acusação e determinou a remessa dos autos à Seção Judiciária da Bahia (fls. 21/24).
+O Juízo da 17ª Vara Federal Criminal da Seção Judiciária da Bahia, por sua vez, suscitou conflito negativo de competência perante o Tribunal Regional Federal da 1ª Região (fls. 34/37).
+O Tribunal Regional Federal da 1ª Região conheceu do conflito para julgar competente o Juízo Federal da Vara Única da Subseção Judiciária de Passos/BA (fls. 56/59). Em seguida, acolheu embargos de declaração para tornar sem efeito a decisão embargada e declinar da competência em favor do Superior Tribunal de Justiça - STJ (fls. 78/80).
+No STJ, os autos foram encaminhados ao Ministério Público Federal o qual emitiu parecer pelo conhecimento do conflito para declarar competente o Juízo Federal da Vara Cível e Criminal de Passos/MG, o suscitado (fls. 98/99).
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal - CF, tendo em vista, ainda, a criação, pela Lei n. 14.226/2021, do Tribunal Regional Federal da 6ª Região, com jurisdição no Estado de Minas Gerais, instalado em em 19 de agosto de 2022.
+A controvérsia cinge-se em definir a competência para processo e julgamento de ação penal relativa a prática do crime de estelionato previdenciário.
+Narra a denúncia ajuizada perante o Juízo Federal da Subseção Judiciária de Passos/MG:
+"Entre abril de 2008 e outubro de 2011, no Município de Passos/MG, LORAINE MIRNA LOYOLLA DOS SANTOS, ciente da ilicitude e reprovabilidade de sua conduta, obteve para si vantagem ilícita, em prejuízo do Instituto Nacional do Seguro Social - INSS, mediante meio fraudulento, consistente no saque das parcelas da aposentadoria de titularidade de sua mãe, após o óbito desta.
+A denunciada era a responsável pelos cuidados de sua mãe, NILVA TEODORO DOS SANTOS, que era beneficiária da Previdência Social (aposentadoria por invalidez nº 32/515.845.545-3), também a auxiliando nos saques do benefício.
+Após a morte da genitora, no dia 13/03/2008 (f.120), LORAINE MIRNA LOYOLLA DOS SANTOS continuou a realizar sucessivos saques do benefício previdenciário da conta da falecida, mantendo em erro a previdência social e beneficiando-se economicamente da situação, até o bloqueio dos pagamentos.
+Os saques espúrios foram realizados até a data de 31/10/2011, configurando-se, assim, a realização de 44 (quarenta e quatro) saques indevidos, em continuidade delitiva (fls. 29/30).
+Com isso, verificou-se um prejuízo à previdência social, e, por conseguinte, aos seus contribuintes, no valor não atualizado de R$39.727,82 (trinta e nove mil, setecentos e vinte e sete reais e oitenta e dois centavos) (fl.26 e 29/30).
+Em depoimento à Polícia Federal, LORAINE MIRNA LOYOLLA DOS SANTOS apresentou os cartões de sua mãe que estavam em seu poder e confessou que foi a responsável por realizar diversos saques da aposentadoria da genitora, após o seu falecimento (fl. 116).
+A materialidade e autoria delitivas estão efetivamente comprovadas por todos os documentos coligidos aos autos, sobretudo o processo administrativo de fls. 05/44, a informação de fls. 48/49 e o termo de declaração de denunciada, no qual consta a confissão dos fatos (fl.116/117).
+Ante o exposto, o Ministério Público Federal denuncia LORAINE MIRNA LOYOLLA DOS SANTOS como incursa nas penas do art. 171, §3º, do Código Penal, por 44 (quarenta e quatro) vezes, em continuidade delitiva, requerendo que, recebida e autuada a presente, seja citada para apresentar resposta à acusação, processada e, ao final, condenada.
+O Juízo da Vara Federal Cível e Criminal da SSJ de Passos/MG entendeu que o critério definidor da competência seria o domicílio da ré, por ser incerto o local da consumação da infração, como se verifica:
+"II - Trata-se de ação penal ajuizada em desfavor de LORAINE MIRNA LOYOLA DOS SANTOS imputando-lhe a prática de estelionato, em razão de ter ela, supostamente, efetuado diversos saques fraudulentos alusivos a benefício previdenciário percebido por sua mãe, após a morte de sua genitora, ocorrida em 13/03/2008.
+Assim dispõe o Código Penal, artigo 171, §3º:
+"Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento: Pena - reclusão, de um a cinco anos, e multa".
+Conforme se verifica, a consumação do crime de estelionato somente ocorre com a efetiva vantagem econômica auferida pelo autor do fato.
+ ..
+No caso dos autos, a consumação somente ocorreu com a efetivação dos saques em tese fraudulentos, visto que, quando do depósito em conta bancária, os valores ainda estavam na esfera de vigilância da entidade financeira e passíveis de serem restituídos ao INSS.
+Por tal razão, para a definição da competência seria imprescindível saber onde efetivamente ocorreram os saques. Sabe-se que os saques foram realizados por meio dos denominados "Banco 24 horas" (f. 54-74).
+Embora haja nos autos a informação de que logo após o óbito de sua mãe a acusada teria voltado a residir em Salvador/BA, onde aparentemente teriam ocorrido os saques em tese fraudulentos (f. 48), não é mais possível saber com certeza o local onde efetivamente ocorreram, pois, passados mais de cinco anos, as informações não constam mais do banco de dados da empresa TECBAN, responsável pelos serviços do Banco 24 horas (f. 99), de modo a tornar incerto o local da consumação do delito.
+Destarte, a competência se dá em razão do domicílio do réu, nos termos do Código de Processo Penal, artigo 69, inciso II.
+ .. Daí a incidência do Código de Processo Penal, artigo 72.
+III - NESTAS CONDIÇÕES, acolhendo a preliminar apresentada na resposta à acusação, declino da competência e determino a remessa dos autos à Seção Judiciária da Bahia, com as nossas homenagens." (fls. 21/23).
+O Juízo da 17ª Vara Federal Criminal da Seção Judiciária da Bahia concluiu pela competência do Juízo Federal de Passos/MG, pois os valores do benefício foram disponibilizados na agência da Caixa Econômica Federal situada no Município de Passos/MG, nos seguintes termos:
+"Infere-se da leitura dos autos que a conduta delituosa imputada à acusada consiste na realização de saques indevidos de valores referentes a benefício previdenciário de titular já falecido.
+Observa-se, ainda, da documentação juntada às fls. 07/08, Id. 277121893, o pagamento do benefício era feito por meio de depósito na Agência CEF n. 022113, conta corrente n. 0000058342, localizada em Passos/MG.
+Em casos da espécie, em que, após o falecimento da titular do benefício previdenciário, foram constatados os saques indevidos de parcelas depositadas mensalmente na conta cadastrada, por meio de cartão magnético, é pacífico o entendimento jurisprudencial no sentido de que compete ao juízo do local em que os valores do benefício foram disponibilizados, in casu, na Agência da CEF, em Passos/MG.
+ ..
+Desse modo, o Juízo competente será o da Subseção Judiciária de Passos/MG, local de recebimento do benefício previdenciário, pois lá houve a consumação do delito.
+À vista do exposto, reconhecendo estar presente a hipótese do art. 114, inciso I, do CPP, por também considerar-me incompetente para conhecer do fato criminoso apurado nos presentes autos, e, estando envolvidos Juízes vinculados ao mesmo tribunal, na forma do art. 108, I, "e" da Carta Magna, represento ao Colendo Tribunal Regional Federal da 1ª Região, competente para processar e julgar o presente Conflito Negativo de Competência." (fls. 35/37).
+Ultrapassadas as considerações preliminares sobre a conjuntura do caso, convém registrar, para fins de fixação da competência, que prevalece no Superior Tribunal de Justiça a orientação de que o crime de estelionato previdenciário consuma-se com o recebimento da vantagem indevida. Nessa senda, cito o julgado a seguir:
+CONFLITO NEGATIVO DE COMPETÊNCIA. ESTELIONATO PREVIDENCIÁRIO. CONSUMAÇÃO. EFETIVA OBTENÇÃO DA VANTAGEM INDEVIDA (APOSENTADORIA). TRANSFERÊNCIA POSTERIOR DO LOCAL DE RECEBIMENTO DO BENEFÍCIO. IRRELEVÂNCIA PARA FINS DE COMPETÊNCIA. ART. 70 DO CPP.
+1. O crime de estelionato previdenciário se consuma com o efetivo recebimento da vantagem indevida, no caso, com o início do pagamento da aposentadoria, que se deu na cidade do Rio de Janeiro/RJ.
+2. Assim, embora o local de recebimento do benefício previdenciário tenha sido posteriormente transferido para a cidade de Brasília/DF, a competência já havia sido fixada pelo lugar em que se consumou a infração, a teor do que dispõe o art. 70 do CPP.
+3. Conflito conhecido para reconhecer a competência do Juízo Federal da 1ª Vara Criminal da Seção Judiciária do Rio de Janeiro/RJ, o suscitado.
+(CC n. 125.023/DF, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, julgado em 13/3/2013, DJe de 19/3/2013).
+Portanto, na espécie, preponderaria, em princípio, a competência do local do efetivo recebimento da vantagem indevida.
+Todavia, até o momento, os juízos envolvidos no conflito divergem sobre o local de consumação do delito.
+Tendo em conta os elementos de convicção até então angariados, indicativos da hipótese de pagamento indevido de benefício previdenciário como desdobramento de estelionato consumado com o recebimento de vantagem em mais de uma cidade, a competência deve ser fixada pela prevenção, na esteira de precedente desta Corte Superior:
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. ESTELIONATO CONTRA A PREVIDÊNCIA SOCIAL. CONSUMAÇÃO NO MOMENTO DE OBTENÇÃO DA VANTAGEM ILÍCITA. INFRAÇÕES CONSUMADAS EM DIVERSAS JURISDIÇÕES. FIXAÇÃO DA COMPETÊNCIA POR PREVENÇÃO.
+1. A competência para os crimes de estelionato, decorrente da obtenção indevida de benefício previdenciário, fixa-se pelo local em que se obteve a vantagem patrimonial.
+2. Na hipótese, os pagamentos indevidos de benefícios previdenciários foram realizados tanto no Rio de Janeiro/RJ quanto em Curitiba/PR, sendo a competência fixada pela prevenção, nos termos no art. 83 do CPP, isto é, competente é o Juízo que primeiro tomou conhecimento dos fatos.
+3. Conflito de competência conhecido para declarar competente o Juízo Federal da 7ª Vara Criminal da Seção Judiciária do Estado do Rio de Janeiro/RJ, ora suscitado.
+(CC n. 124.717/PR, relatora Ministra ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), TERCEIRA SEÇÃO, julgado em 28/11/2012, DJe de 12/12/2012).
+Ante o exposto, nos estritos limites fáticos até então delineados no incidente, com fulcro no art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, conheço do conflito para declarar competente o Juízo da Vara Federal Cível e Criminal da Subseção Judiciária de Passos/MG, o suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
