@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+INDEFERIMENTO NA ORIGEM. REFORMA DA DECISÃO NESTE GRAU DE JURISDIÇÃO.
+Ante a documentação acostada, reputo suficientemente comprovada a hipossuficiência econômica alegada pela parte agravante, pelo que há de ser deferida a gratuidade postulada.
+Os embargos de declaração opostos foram rejeitados (fls. 224 - 227, e-STJ).
+Nas razões de recurso especial, alega a parte agravante, em suma, violação aos artigos 5º, XXXV e 93, IX, da Constituição Federal; 1º da Lei 1.060/50; e 11, 98, 489 e 1.022 do Código de Processo Civil de 2015.
+Sustenta que a parte agravada não comprovou o preenchimento dos requisitos necessários para fins de concessão dos benefícios da Justiça gratuita, destacando que ela possui renda e bens suficientes para arcar com as despesas processuais.
+Requer sejam afastados os benefícios da Justiça gratuita concedidos na origem à parte agravada.
+Conclui destacando a nulidade do acórdão por omissão, ao argumento de que: "Por fim, cumpre acrescer ao rol de dispositivos violados pelo r. acórdão o art. 1.022, incisos I a III, do CPC, segundo o qual são sabíveis embargos de declaração quando há contradição, omissão, obscuridade e/ou erro material na decisão embargada. No caso do r. acórdão, esses vícios eram manifestos e, com efeito, a ora recorrente opôs no Evento nº 29 Embargos de Declaração para apontamento dos mesmos, pelo que remete-se para o disposto no item II, acima, como se aqui, novamente, expressamente transcritos estivessem" (e-STJ, fl. 249).
+Apresentadas contrarrazões (e-STJ fls. 259 - 265), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 268 - 273, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+Inicialmente cumpre destacar a impropriedade da via eleita para fins de análise da tese de violação de dispositivos da Constituição Federal, providência que não poderia ser adotada nesta oportunidade, sob pena de invasão da competência atribuída ao STF.
+Quanto à tese de omissão, verifica-se que a parte agravante não particularizou nenhuma tese ou matéria sobre as quais a Corte de origem deveria se pronunciar, limitando-se a alegar, de forma genérica, a ocorrência de vícios sanáveis pela via dos embargos de declaração. Nesse contexto, é nítida a deficiência de fundamentação do recurso no ponto a atrair a aplicação da Súmula 284/STF.
+Por outro lado, a após a análise de fatos e provas levados aos autos, a Corte de origem concluiu que parte agravada comprovou o preenchimento dos requisitos necessários para fins de concessão dos benefícios da Justiça gratuita, conforme se depreende do trecho do acórdão abaixo reproduzido (e-STJ, fls. 186 - 187):
+Inicialmente, registro que, efetivamente, tal como consignado na decisão recorrida, o exame da declaração de Rosanna entregue ao fisco em 2020 relativa ao ano-calendário 2019, não daria à requerente o direito ao beneplácito.
+Entretanto, a despejante não logrou infirmar as alegações da ré no sentido de que não vem auferindo corretamente seu salário junto à Universidade na qual ministra aulas, tampouco conseguiu se recuperar da crise financeira experimentada durante a pandemia que, inclusive, está ensejando o despejo do restaurante de onde tentaria compensaria a crise nas outros funções laborativas.
+Por outro lado, com relação ao réu Marco Antonio, ao que tudo indica, está em situação ainda pior porque, aparentemente, do que se deduz de sua declaração de renda sobrevive unicamente do restaurante objeto do despejo.
+Não bastasse, ainda que a gratuidade deva ser analisada caso a caso e o deferimento em determinado processo não vincule outro em que não produzida semelhante prova, o fato é que a situação financeira de Rosanna já foi analisada na ação de consignação em pagamento conforme Agravo de Instrumento n. 51013749520228217000 , e, aqui, não foram vislumbradas alterações financeiras significativas, notadamente porque instado a se manifestar, o agravado limitou-se a tergiversar e juntar declaração desatualizada.
+Ao ensejo, colaciono a fundamentação do AI n. 51013749520228217000:
+Eminentes Colegas, Cuida-se de agravo de instrumento interposto em face de decisão que indeferiu os benefícios da AJG à autora.
+Inicialmente, no tocante às alegações trazidas pela recorrida aos eventos 11 e 13 que dizem respeito a celeuma sobre a constituição e representantes de tal empresa, deixo de conhecê-las, porquanto absolutamente distantes da matéria devolvida a este grau de juridição, a saber, a necessidade da agravante em litigar sob o pálio da AJG.
+Respeitosamente ao entendimento do Magistrado a quo, o quanto define não há como subsistir, na medida em que, examinando os autos deste agravo de instrumento, em especial as declarações de imposto de renda, verifico que a autora não possui rendimentos ou propriedades incompatíveis com a benesse, até mesmo o imposto a que foi condenada a pagar depois de declaração de recebimento de alvará judicial sequer foi pago pela demandante, não sendo prova, portanto, de que possui rendimentos superiores a cinco salários mínimos mensais. Outrossim, como professora, recebia valor inferior a tal quantia e hoje não possui bens em seu nome, motivo pelo qual reputo suficientemente comprovada sua hipossuficiência econômica, na forma do artigo 98 do CPC/2015.
+Ademais, sobre a alegação da recorrida, de que a autora possui estabelecimento comercial de sucesso, necessário atentar para duas circunstâncias, a uma que não é a única sócia do local e a duas que há séria litigiosidade sobre o imóvel em que exercida a atividade, tanto que inclusive foi ajuizada ação de despejo. Assim, a bem da verdade, não há prova de que aufira rendimentos incompatíveis com a concessão da benesse.
+Outrossim, demonstra o recorrente estar, ao menos neste momento, altamente endividada com a receita federal, de sorte que resta comprovada que não possui condições para arcar, agora, com as custas processuais.
+Ante o exposto, voto por dar provimento para o fim de deferir os benefícios da AJG à autora.
+Portanto, não demonstrada alteração nas circunstâncias comprovadas em julho do ano de 2022, reputo necessária a alteração do entendimento da origem.
+Assim, a revisão da conclusão adotada na origem, para que se acolha a pretensão de afastamento dos benefícios da J ustiça gratuita em estudo, traduz medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas levados aos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVAS. INDEFERIMENTO. DECISÃO MOTIVADA. DESNECESSIDADE. FACULDADE DO MAGISTRADO. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. JUSTIÇA GRATUITA. DEMONSTRAÇÃO DA IMPOSSIBILIDADE FINANCEIRA. REVISÃO. INVIABILIDADE. SÚMULA N. 7 DO STJ. CULPA EXCLUSIVA E CULPA CONCORRENTE. CAUSA DE REDUÇÃO DO QUANTUM INDENIZATÓRIO. INEXISTÊNCIA. REEXAME. NÃO CABIMENTO. NOVA APREÇIAÇÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado, destinatário final da prova, pode, de maneira fundamentada, indeferir a produção de provas e diligências protelatórias, desnecessárias ou impertinentes.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Rever a convicção da corte de origem de prescindibilidade da produção de provas requerida demanda reexame fático-probatório, o que é vedado em recurso especial, em razão da incidência da Súmula n. 7 do STJ.
+4. É inviável revisar o entendimento do tribunal a quo acerca da justiça gratuita, tendo em vista a necessidade de reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+5. Desconstituir o entendimento da corte de origem de que não foi demonstrada a culpa exclusiva da vítima ou a culpa concorrente demandaria revolvimento de matéria fática, o que é inviável em recurso especial (Súmula n. 7 do STJ).
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.903.083/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+Em face do exposto, nego provimento ao agravo.
+Descabida a majoração de honorários advocatícios, porque a decisão alvo do recurso especial tem natureza interlocutória, não comportando o estabelecimento de verbas sucumbenciais.
+Intimem-se.
+EMENTA
