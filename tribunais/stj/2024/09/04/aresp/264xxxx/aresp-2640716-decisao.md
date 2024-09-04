@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda do Estado de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 353):
+CUMPRIMENTO DE SENTENÇA EXIGÊNCIA DE DIFERENÇAS DE CORREÇÃO MONETÁRIA DECORRENTE DA APLICAÇÃO DO TEMA 810 POSSIBILIDADE CREDORAS QUE EM INCIDENTE ANTERIOR RESSALVARAM EXPRESSAMENTE A EXECUÇÃO DE VALORES EVENTUALMENTE GERADOS PELA DEFINIÇÃO DO TEMA ALUDIDO FATO QUE AFASTA HIPÓTESE DE RENÚNCIA OU PRECLUSÃO CONSUMATIVA IMPUGNAÇÃO ACOLHIDA RECURSO DAS EXEQUENTES PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 369/371, 382/384 e 400/401).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 502, 503, 507 e 508 do CPC. Sustenta, em síntese, que "a decisão recorrida, ao haver mantido o acórdão que deu provimento ao agravo dos exequentes, violou os dispositivos processuais que tratam da preclusão consumativa e da coisa julgada formal. Isso, porque acolheu a pretensão dos credores de apresentação de novos cálculos, não obstante tenha havido a homologação judicial dos valores inicialmente apresentados, quando da instauração do cumprimento de sentença. (..) tendo em vista a ocorrência do trânsito em julgado do título executivo judicial que determinou a aplicação da lei nº 11.960/2009 como critério para a atualização monetária do crédito titularizado pelo exequente, a modificação desse índice somente poderia ocorrer por meio de ação rescisória, consoante o que decidido pelo STF no Tema nº 733." (fls. 422/423)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, colhe-se do acórdão o seguinte trecho, verbis (fl. 354):
+O inconformismo merece integral acolhida, em linha com o decido por esta Câmara em caso similar na Apelação Cível nº 1064676-77.2020.8.26.0053, relator o Desembargador Ferreira Rodrigues.
+Ao apresentarem o incidente de cumprimento de sentença nº 0001266-33.2018.8.26.0053, as exequentes, "com o objetivo de evitar a infindável discussão acerca da aplicação ou não da Lei Federal nº 11.960/09, além de observar a duração razoável do processo, a efetividade da justiça e o princípio da cooperação", elaboraram o demonstrativo do débito com base no referido diploma (adotando o entendimento da Fazenda do Estado), sem prejuízo da realização de novos cálculos após a definição do Tema 810 do Supremo Tribunal Federal (fls. 153/156).
+Assim sendo, ao contrário de renúncia, houve ressalva expressa de eventuais diferenças após a definição do mencionado tema, o que afasta também a hipótese de preclusão consumativa.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
