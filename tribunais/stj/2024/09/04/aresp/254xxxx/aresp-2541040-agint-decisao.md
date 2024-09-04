@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interno interposto por ANTONIA DELFINA NATH contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. REVISÃO DAS PREMISSAS DA CAUSA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, a agravante narra ter iniciado a execução de seus honorários advocatícios fixados sobre o valor da condenação em face do Município de São Paulo determinada em autos de ação ordinária. Argui que no âmbito do cumprimento de sentença buscou satisfação de seu crédito, mas a presença de 2 coexequentes causou confusão do juízo a quo. Isso porque o magistrado singular decidiu que os honorários são devidos apenas para esses dois coexequentes. Pontua haver flagrante violação do art. 23 do EOAB, pois a execução da verba de sucumbência não deve e nem pode ficar atrelada a um evento futuro e incerto. Defende a inaplicabilidade da Súm. n. 7/STJ no caso dos autos e que, em hipótese correlata ao destes autos - AREsp n. 2090572/SP, houve reconhecimento de omissões no acórdão a quo.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório. Passo a decidir.
+A pretensão merece acolhida.
+No recurso especial, houve a indicação de violação dos arts. 489 e 1.022 do CPC/2015. Como bem lançado pelo agravo interno, o exame dessas questões não se relaciona ao óbice da Súm. n. 7/STJ.
+De fato, em hipótese semelhante a destes autos, no AREsp n. 2090572, já me pronunciei por omissões no acórdão a quo sobre a autonomia dos honorários advocatícios sucumbenciais.
+A controvérsia apresentada nestes autos é a mesma presente no AREsp n. 2090572. Ambos os casos são provenientes do Agravo de Instrumento n. 2296136-46.2020.8.26.0000. Ademais, em regra, o exame de omissão no acórdão a quo não é matéria que se refere à incidência da Súm. n. 7/STJ. Por isso, as mesmas razões de decidir no AREsp n. 2090572 devem ser aplicadas nestes autos. São essas razões:
+No caso, a parte recorrente aponta violação ao arts. 489 e 1.022 do CPC/2015. Argui que o Tribunal de origem não se manifestou sobre a autonomia legal do direito de honorários pertencentes ao advogado. A esse respeito, observa-se que o acórdão a quo declarou a possibilidade de execução de parte do valor devido a título de honorários, tendo em vista que apenas parte das exequentes iniciaram o cumprimento de sentença. O TJSP condicionou a execução da parcela remanescente ao eventual cumprimento de sentença dos demais exequentes. Confira-se:
+Assim, como bem observou o MM. Juiz da causa, "tendo em vista que a procuradora responde pelos dois exequentes em questão, são devidos seus honorários, de maneira incontroversa, pelo labor realizado em prol desses dois. Contudo, os honorários advocatícios pertinentes aos demais 35 coexequentes devem ser requeridos em momento oportuno, no incide de cumprimento de sentença dos remanescentes, quando deverá a advogada em questão entrar em acordo junto aos outros patronos" (fls. 798).
+Com efeito, apesar dos embargos de declaração, nota-se que o Tribunal de origem não se manifestou acerca da autonomia dos honorários advocatícios em relação à verba principal e nem sobre o direito do advogado executar seus honorários nos termos do art. 23 do EOAB.
+Houve, portanto, violação do art. 1.022 do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem com a determinação de novo julgamento dos embargos de declaração para que seja sanada as omissões. Sobre o tema, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC. CARACTERIZAÇÃO. GRATIFICAÇÃO DE DESEMPENHO TÉCNICO ADMINISTRATIVO - GDATA. LIMITAÇÃO TEMPORAL. LEI 11.357/2006. ENTRADA EM VIGOR APÓS O JULGAMENTO DA APELAÇÃO E DOS EMBARGOS INFRINGENTES NA ORIGEM. TEMA SUSCITADO EM SEDE DE EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. Sabe-se que os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou, ainda, de corrigir evidente erro material. Serve, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC, art. 535).
+2. No caso dos autos, muito embora provocada a Corte de origem por meio de embargos declaratórios, não houve manifestação acerca da limitação temporal para concessão da Gratificação de Desempenho Técnico Administrativo - GDATA decorrente da edição da Lei 11.357/2006, que promoveu a reestruturação dos cargos no âmbito do Poder Executivo, instituindo o Plano Geral de Cargos de Poder Executivo - PGPE, e criando a Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte - GDPGTAS, o que, no entender do recorrente, impediria a percepção de GDATA pelos integrantes do PGPE.
+3. Insta destacar que os embargos infringentes de iniciativa da União interpostos contra acórdão que, por votação não unânime, deu provimento à apelação cível foram protocolizados em 21/9/2006, ou seja, em data anterior à publicação da Lei 11.357, de 19/10/2006. Assim, somente nos embargos de declaração opostos contra acórdão que apreciou os embargos infringentes, caberia a União levantar o tema referente à delimitação da GDATA, diante da entrada em vigor da novel legislação. Não há, portanto, falar em preclusão da matéria.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 241.138/PB, Rel. Ministro MAURO CAMPBELL
+MARQUES, SEGUNDA TURMA, julgado em 04/12/2012, DJe 10/12/2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. TERRENO DE MARINHA. DISCUSSÃO SOBRE A RESPONSABILIDADE SOBRE O RECOLHIMENTO DA TAXA ANUAL DE OCUPAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ARTIGO 535 DO CPC. VÍCIO EXISTENTE. ACÓRDÃO ANULADO. RETORNO DOS AUTOS À ORIGEM.
+1. Os presentes embargos declaratórios merecem acolhimento, porquanto este colegiado incidiu em erro material ao concluir pela ausência de afronta ao art. 535, II, do CPC e reconhecer que o Tribunal de origem se manifestou de maneira clara e fundamentada sobre todas as questões postas a julgamento.
+2. No caso em análise, em que se discute a responsabilidade pelo pagamento de Taxa de Ocupação relativa a período posterior à transferência de terreno de marinha, verifica-se que o executado desde do início defendia sua ilegitimidade passiva sobre vários argumentos, dentre eles o de que, tanto na execução fiscal quanto no processo administrativo para cobrança da taxa de ocupação, foi informado a qualificação do atual ocupante, bem como que o Processo Administrativo de cobrança de foros em atraso reconheceu que os valores posteriores a 1997 eram de responsabilidade de Mario Cesar Couto Guimarães.
+3. Contudo, a Corte a quo, mesmo após ser instada mediante aclaratórios sobre as questões, deixou de se pronunciar sobre a matéria relevante à solução da controvérsia, do que resulta na necessária anulação do acórdão que julgou os embargos de declaração, a fim de que haja manifestação sobre os pontos levantados pela executada.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial, ante o reconhecimento da violação ao art. 535, II, do CPC, com o consequente retorno dos autos ao Tribunal de origem.
+(EDcl no REsp 1.201.256/RJ, 1ª Turma, Rel. Min. Benedito Gonçalves, DJe 02.03.2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO
+RECURSO ESPECIAL. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL.
+VIOLAÇÃO RECONHECIDA.
+1 - Caracterizada está a violação do artigo 535 do Código de Processo Civil
+quando o Tribunal de origem não aprecia matéria relevante ao deslinde da
+controvérsia oportunamente suscitada.
+2 - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.173.019/RS, 5ª Turma, Rel. Min. Marco Aurélio Bellizze,
+DJe 28.02.2012)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO. APELAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VIOLAÇÃO DO ART. 535 DO CPC. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Da análise do acórdão recorrido é possível constatar que a questão da ocorrência de prescrição, suscitada nas contrarrazões ao recurso de apelação e reiterada por ocasião dos embargos de declaração, não foi, efetivamente, discutida pelo Tribunal de origem.
+2. Quanto à relevância do tema, impende apontar que a omissão, indubitavelmente, acarretou ao recorrente nítido prejuízo, pois, ausente o prequestionamento, impossível a revisão da questão diretamente em recurso especial, sendo que esta Corte já firmou o entendimento de que mesmo as chamadas questões de ordem pública devem estar prequestionadas, a fim de viabilizar sua análise nesta Instância Especial.
+3. A existência de omissão relevante à solução da controvérsia, não sanada
+pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+4. Recurso especial provido, para, em consequência do reconhecimento da
+violação do artigo 535 do CPC, determinar o retorno dos autos ao Tribunal de origem a fim de que seja proferido novo julgamento.
+(REsp 1.171.712/RS, 3ª Turma, Rel. Min. Nancy Andrighi, DJe 02.02.2012)
+Logo, o recurso especial deve ser provido para anular o acórdão proferido em sede de embargos de declaração por omissão, e fazer os autos retornarem à origem para novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Ante o exposto, em juízo de reconsideração, conheço do presente agravo interno para dar provimento ao recurso especial nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. OMISSÕES QUANTO À AUTONOMIA DOS HONORÁRIOS EM RELAÇÃO AO CRÉDITO PRINCIPAL. DIREITO DO ADVOGADO À EXECUTAR SEUS HONORÁRIOS. OMISSÕES CARACTERIZADAS. AGRAVO INTERNO CONHECIDO, PARA EM JUÍZO DE RECONSIDERAÇÃO, DAR PROVIMENTO AO RECURSO ESPECIAL.
