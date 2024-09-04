@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em benefício de Junior Fagundes dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 5015369-80.2022.8.24.0018).
+Infere-se dos autos que o Juízo da 1ª Vara Criminal da comarca de Chapecó/SC, na Ação Penal n. 5015369-80.2022.8.24.0018/SC, condenou o ora paciente às penas de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, pela prática do delito de tráfico de drogas (fls. 43/45) Foi apreendido o total de 10 g de cocaína; 86 g de maconha; 1 balança de precisão; 1 rádio comunicador; diversas embalagens para acondicionamento de drogas e a quantia de R$ 813,00 (oitocentos e treze reais) em notas fracionadas.
+Interposta apelação criminal, o Tribunal a quo, em 7/6/2023, rejeitou as preliminares de nulidade das provas e, no mérito, negou provimento ao recurso do paciente (fls. 438/445).
+Daí o presente writ substitutivo de recurso especial, em que se sustenta a existência de constrangimento ilegal decorrente da nulidade das provas para a condenação, obtidas pela invasão de domicílio.
+Aduz-se que nem sequer havia investigação de tráfico de drogas na residência, argumento comumente utilizado por policiais para adentrarem em residências a procura de ilícitos penais (fl. 10).
+Defende-se que a prova é nula, tanto pela busca pessoal sem a existência de fundadas razões, baseadas em dados concretos, seja pela busca pessoal ou violação do domicílio do acusado (fl. 19).
+Alega-se que não houve gravação, tampouco assinatura de testemunhas que comprovasse a autorização para o ingresso dos policiais no imóvel.
+Argumenta-se que a denúncia anônima recebida pelos policiais, por si só, não é justificativa idônea para violação de domicílio.
+Invoca-se a teoria dos frutos da árvore envenenada (fl. 41).
+Requer-se seja reconhecida a nulidade das provas obtidas em razão da busca domiciliar sem autorização judicial, com a consequente absolvição do paciente.
+Os autos vieram a mim conclusos por prevenção do RHC n. 170.902/SC.
+Não há pedido liminar.
+As informações foram prestadas às fls. 458/476.
+O Ministério Público Federal, às fls. 480/485, opinou pela denegação da ordem.
+É o relatório.
+O presente writ é substitutivo de recurso próprio, e é certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Não obstante, verifico que, no caso em tela, eventual concessão da ordem influenciará diretamente no status libertatis do paciente, de maneira que passo à análise do mérito.
+Adoto o entendimento manifestado pela Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, in verbis (fls. 482/484 - grifo nosso):
+ ..
+O Tribunal de Justiça de Santa Catarina afastou a apontada ilicitude das provas obtidas em desfavor do paciente, em razão dos seguintes fundamentos (fls. 32):
+Verifica-se dos fundamentos invocados pelo togado prolator que pouco há o que ser complementado na conclusão alcançada a respeito de matéria, visto que a prova colhida demonstrou de forma inequívoca as fundadas suspeitas de que no interior do domicílio estaria ocorrendo o crime permanente de tráfico de drogas.
+Não se desconhece que, recentemente, o Superior Tribunal de Justiça vem proferindo julgados paradigmáticos a respeito da questão, exigindo um standart probatório mínimo a autorizar a ingresso policial, como forma de impor limites legais e constitucionais à atividade repressiva estatal.
+Contudo, na hipótese, as premissas levantadas pela Corte da Cidadania foram devidamente observadas, vez que o cenário prévio à incursão restou ilustrado pelos seguintes elementos:
+a) informação repassada por um usuário/transeunte local;
+b) deslocamento a pé até as proximidades da residência e avistamento do réu em via pública denotando vigília e monitoramento da movimentação;
+c) aproximação da guarnição e avistamento do réu dispensando invólucro contendo drogas e evasão para o interior do terreno;
+d) avistamento de drogas e petrechos pela porta entreaberta sobre um hack.
+No ponto, faz-se um parênteses para que se saliente que as palavras dos agentes públicos, sobretudo no âmbito da atuação policial, quando coerentes e harmônicas, não podem ser desconsideradas ou desacreditadas meramente pela sua condição funcional, porquanto estão revestidas de evidente eficácia probatória, gozando de presunção juris tantum, podendo ser desconstituídas apenas por robusta prova em sentido contrário. Ostentam, ademais, boa-fé presumida, de modo que podem e devem ser consideradas pelo magistrado para fundamentar o seu convencimento.
+Não houve, por parte da defesa, a produção de nenhum indício que levasse a descredibilizar os testemunhos policiais, conforme, inclusive, bem salientado pelo togado prolator. Aliás, ambos os militares ouvidos relataram que não possuíam informações prévias acerca do réu e tampouco sobre o imóvel incursionado, situação esta que confere ainda mais solidez às suas declarações, pois certo que somente atuaram após aferir estes relevantes elementos indiciários com o transeunte, os quais foram confirmados na medida em que houve o avistamento do réu no local indicado, bem como a dispensa de drogas e tentativa de fuga após perceber a aproximação da guarnição.
+ ..
+No caso em apreço, constata-se que o ingresso no domicílio se deu em razão situação de flagrância anterior, pois o paciente foi visto pelos policiais dispensando um invólucro contendo drogas, em via pública. Ato seguinte, o paciente fugiu em direção em sua residência, e, pela porta entreaberta, os policiais viram uma balança de precisão e mais entorpecentes. A situação de flagrância prévia, consistente na dispensa do invólucro contendo drogas em via pública representa fundadas razões para a entrada na residência do paciente.
+O ingresso no domicílio, na hipótese em apreço, não se deu de forma açodada ou com lastro em denúncia anônima, mas, diante de um contexto fático prévio e concreto apto a indicar a prática de crime permanente no local, evidenciado a partir das circunstâncias verificadas ainda do lado de fora do domicílio, com destaque ao fato de que policiais efetivaram um monitoramento prévio no local, sendo a diligência desencadeada a partir da constatação de indícios concretos de comércio de drogas no local da busca.
+ ..
+Realmente, da moldura fática delineada nos trechos acima transcritos, verifica-se que havia fundadas razões para o ingresso forçado no imóvel independentemente de prévia ordem judicial ou autorização do morador (art. 240, § 1º, do CPP), pois restou demonstrada a existência de um contexto fático prévio e concreto apto a indicar a prática de crime permanente no local.
+Nesse sentido, cito os seguintes julgados desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO MINISTERIAL. RECURSO TEMPESTIVO. TRÁFICO DE DROGAS. BUSCA DOMICILIAR DESPROVIDA DE MANDADO JUDICIAL. FUNDADA SUSPEITA. LEGALIDADE DAS PROVAS. BUSCA E APREENSÃO DOMICILIAR VÁLIDA. AGRAVO REGIMENTAL PROVIDO.
+1. "O termo inicial da contagem do prazo para impugnar decisão judicial é, para o Ministério Público, a data da entrega dos autos na repartição administrativa do órgão, sendo irrelevante que a intimação pessoal tenha se dado em audiência, em cartório ou por mandado" (EDcl no AgRg no AREsp n. 383.959/RN, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/8/2019, DJe de 13/8/2019.). No caso, é tempestivo o agravo regimental interposto pelo Ministério Público Federal, pois, apesar de publicada a decisão em 22/5/2023, a sua intimação pessoal se deu somente em 1º/6/2023.
+2. Conforme a jurisprudência desta Corte Superior, " a s circunstâncias que antecederem a violação do domicílio devem evidenciar, de modo satisfatório e objetivo, as fundadas razões que justifiquem tal diligência e a eventual prisão em flagrante do suspeito, as quais, portanto, não podem derivar de simples desconfiança policial, apoiada, v. g., em mera atitude "suspeita", ou na fuga do indivíduo em direção a sua casa diante de uma ronda ostensiva, comportamento que pode ser atribuído a vários motivos, não, necessariamente, o de estar o abordado portando ou comercializando substância entorpecente" (HC n. 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe 15/3/2021).
+3. No caso dos autos, o ingresso policial no domicílio, sem mandado judicial, foi motivado, inicialmente, por denúncias anônimas de que as envolvidas realizavam o comércio ilícito de drogas em casa e que se utilizavam dos filhos menores para a entrega dos entorpecentes.
+Nesse contexto, os policiais se dirigiram até a residência e, enquanto um policial conversava do lado de fora com a corré, o outro agente visualizou as drogas dentro da residência, em cima do armário, circunstância que evidencia a justa causa para o ingresso no domicílio sem mandado judicial.
+4. Agravo regimental provido para denegar o habeas corpus.
+(AgRg no HC n. 812.311/MG, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 1º/3/2024 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO NÃO CONFIGURADA. FUNDADAS RAZÕES. DOSIMETRIA. PRIVILÉGIO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS DEMONSTRADA. REVOLVIMENTO PROBATÓRIO VEDADO. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - No presente caso, as instâncias ordinárias assentaram que os policiais, após denúncia de ocorrência de disparo de arma de fogo, se dirigiram ao local, onde constataram movimentação suspeita, bem como sentiram forte odor de maconha, visualizando diversos cigarros carbonizados no cinzeiro, torrões da substância e balanças de precisão em cima de uma mesa, circunstâncias aptas a configurar as fundadas razões para o ingresso em domicílio. Precedentes.
+IV - O Tribunal de origem - soberano na análise da matéria fática - concluiu, a partir de elementos concretamente extraídos dos autos, mormente em razão das conversas pretéritas com usuários extraídas do celular do agravante, que ele é entrelaçado com atividades criminosas voltadas ao tráfico de entorpecentes, não se tratando de mero traficante eventual.
+V - O rito do habeas corpus não admite o revolvimento de matéria fático-probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local.
+Agravo regimental desprovido.
+(AgRg no HC n. 915.688/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/8/2024 - grifo nosso ).
+Ademais, ante os elementos fáticos extraídos dos autos, para acolher a tese da defesa de nulidade por violação domiciliar, desconstituindo os fundamentos adotados pelas instâncias ordinárias, seria necessário o reexame de todo o conjunto probatório, providência vedada em habeas corpus, procedimento de cognição sumária e rito célere (AgRg no HC n. 894.259/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/7/2024).
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a reforma do acórdão impugnado.
+Ante o exposto, com base nos precedentes desta Corte Superior de Justiça, denego o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS (10 G DE COCAÍNA E 86 G DE MACONHA). NULIDADE DAS PROVAS. VIOLAÇÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. EXISTÊNCIA DE JUSTA CAUSA. PARECER ACOLHIDO.
+Ordem denegada.
