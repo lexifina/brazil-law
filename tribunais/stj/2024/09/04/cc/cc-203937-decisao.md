@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo da Vara do Trabalho de Paranaíba/MS em face do Juízo de Direito da 2ª Vara Cível de Paranaíba/MS relativamente à ação de cobrança movida por Edimar Rodrigues da Silva em desfavor de Mapfre Seguros Gerais S.A.
+Na inicial, o autor narra que foi admitido pela empresa UNIPETRO MS DISTRIBUIDORA DE PETRÓLEO LTDA para exercer a função de assessor de vendas, o que compreendia esforços excessivos e movimentos reiterativos, em posições não ergonômicas, sendo que, com isso, foi acometido de um acidente que ocasionou uma fratura de maléolo lateral no tornozelo esquerdo, causando dificuldades ao autor, conforme laudos médicos ora acostados aos autos e, desse modo, é "perfeitamente cabível a cobrança da integralidade da indenização prevista para a cláusula INVALIDEZ PERMANENTE POR ACIDENTE, já que o fato gerador da lesão que deixou o autor definitivamente inválido para o serviço ocorreu durante o período de vigência do seguro" (fls. 3/15), bem como pelo fato de estar incapaz para a atividade que exercia quando da contratação do seguro, isto, porque a invalidez deve ser verificada individualmente, com relação à atividade desenvolvida pelo segurado e as suas condições pessoais.
+O Juízo de Direito da 2ª Vara Cível de Paranaíba/MS, a quem, originalmente distribuída a demanda, declinou da competência para a Justiça do Trabalho por entender que o pedido decorre da relação de trabalho (fls. 97/99).
+O Magistrado Trabalhista suscitou o presente conflito ao fundamento de que o pleito possui natureza civil (relação jurídica entre segurado e seguradora), sem indicação do empregador, devendo a causa ser resolvida pela Justiça comum (fls. 141/144).
+Instado a se manifestar, opinou o Ministério Público Federal pela competência da Justiça estadual para o processamento e julgamento da controvérsia (fls. 157/159).
+Assim resumidos os fatos, necessário consignar que a competência se fixa em razão da causa de pedir e do pedido formulado na inicial, que, na hipótese em comento, refere-se a matéria de natureza eminentemente civil.
+Com efeito, em ação em que situada exclusivamente a seguradora no polo passivo, pretende o autor auferir indenização securitária prevista no seguro de vida em grupo contratado pelo empregador em decorrência de acidente causado pela natureza do trabalho, não se confundindo com plano de saúde de autogestão.
+A jurisprudência da Segunda Seção do STJ em casos similares adota esta mesma linha decisória:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AGRAVO REGIMENTAL. JUSTIÇA DO TRABALHO E ESTADUAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA E DE REPARAÇÃO DE DANOS MORAIS. SEGURO DE VIDA EM GRUPO E/OU ACIDENTES PESSOAIS.
+1. Compete à Justiça Comum Estadual o julgamento da ação, proposta pelo segurado em face da seguradora e da empregadora, por meio da qual pretende o recebimento de indenização securitária, fundada em seguro de vida em grupo e em seguro de acidentes pessoais, haja vista sua invalidez ocorrida durante a vigência de seu contrato de trabalho, bem como indenização por danos morais decorrentes da inadimplência da seguradora.
+2. Agravo não provido.
+(AgRg no CC 129.791/MT, Rel. Ministra NANCY ANDRIGHI, unânime, DJe de 1º.4.2014)
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUÍZO ESTADUAL. SEGURO DE VIDA E ACIDENTES EM GRUPO. AÇÃO DE COBRANÇA CUMULADA COM REPARAÇÃO DE DANOS MORAIS. ART. 114, VI, DA CF/88. EMENDA CONSTITUCIONAL 45/2004. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. In casu, há cobrança de indenização securitária cumulada com reparação por danos morais decorrentes do inadimplemento do contrato de seguro, situação na qual a relação de trabalho constitui elemento circunstancial, sendo competente, conseqüentemente, a Justiça Comum.
+2. "Compete à Justiça comum estadual processar e julgar as ações de cobrança de indenização securitária cumulada com reparação moral decorrente de descumprimento contratual de seguro de vida em grupo e acidentes pessoais." (CC 81285 / SP, Rel. Ministro HUMBERTO GOMES DE BARROS, DJ 20.08.2007 p. 234).
+3. Conflito conhecido para declarar competente o Juízo de Direito da 5ª Vara Cível de Canoas/RS, suscitado.
+(CC 96.895/RS, Rel. Ministro CARLOS FERNANDO MATHIAS  Juiz Federal convocado do TRF 1ª Região , unânime, DJe de 20.3.2009)
+CONFLITO NEGATIVO DE COMPETÊNCIA - JUSTIÇAS DO TRABALHO E ESTADUAL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA CUMULADA COM REPARAÇÃO DE DANOS MORAIS DECORRENTES DO INADIMPLEMENTO DE SEGURO DE VIDA E ACIDENTES PESSOAIS - ART. 114, VI, DA CF - EMENDA CONSTITUCIONAL 45/2004 - COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+- Compete à Justiça comum estadual processar e julgar as ações de cobrança de indenização securitária cumulada com reparação moral decorrente de descumprimento contratual de seguro de vida em grupo e acidentes pessoais.
+(CC 81.285/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, unânime, DJU de 20.8.2007)
+Diferente seria a solução se a ação fosse proposta diretamente contra a empregadora.
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de Paranaíba/MS.
+Comunique-se. Intimem-se.
+EMENTA
