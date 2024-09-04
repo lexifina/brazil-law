@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 5015309-48.2023.4.03.0000, assim ementado (fls. 120-125):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SERVIDÃO DE PASSAGEM. LEVANTAMENTO GEORREFERENCIAL. EXIGÊNCIA DO CARTÓRIO DE REGISTRO IMOBILIÁRIO. OBRIGAÇÃO DA PARTE QUE TEM INTERESSE DO REGISTRO NA MATRÍCULA DO IMÓVEL AGRAVO DESPROVIDO.
+1. Segundo o art. 1.378 do Código Civil, "a servidão proporciona utilidade para o prédio dominante, e grava o prédio serviente, que pertence a diverso dono, e constitui-se mediante declaração expressa dos proprietários, ou por testamento, e subseqüente registro no Cartório de Registro de Imóveis".
+2. Além disso, o artigo 108 do mesmo diploma legal prevê que, "não dispondo a lei em contrário, a escritura pública é essencial à validade dos negócios jurídicos que visem à constituição, transferência, modificação ou renúncia de direitos reais sobre imóveis de valor superior a trinta vezes o maior salário mínimo vigente no País".
+3. Independentemente da forma de aquisição da servidão de passagem, ela deve ser registrada junto ao Registro de Imóveis competente para que produza todos os seus efeitos. De fato, a servidão é constituída por ocasião do registro na matrícula do imóvel, nos termos do art. 1.227 do Código Civil.
+4. No caso em apreço, expedido o mandado de averbação, o CRI fez algumas exigências para o registro da servidão na matrícula do imóvel, pois o documento apresentado pela agravante não era suficiente para localizar com exatidão as medidas, características e confrontações do imóvel objeto do ônus e da servidão administrativa.
+5. A obrigação em registrar a averbação da servidão ou apresentar toda a documentação exigida pelo CRI é daquele que tem interesse no registro, ou seja, da agravante. Outro entendimento levaria à interpretação descabida de que a parte agravada, além de ter restringido seu direito de propriedade - mediante indenização, claro -, ainda tenha de arcar com novas despesas para realizar o georreferenciamento do seu imóvel.
+6. O CRI encontra-se impedido de proceder ao registro de título que esteja em desacordo com os requisitos formais exigidos por lei, de modo que a discordância da agravante em relação às exigências mencionadas deve ser dirimida por meio de procedimento próprio, previsto na Lei de Registros Públicos (art. 198 da Lei nº 6.015/1973).
+7. Agravo de instrumento desprovido.
+Os embargos de declaração opostos foram inadmitidos (fls. 191-195).
+Irresignado, o agravante interpôs recurso especial com fundamento no art. 105, inciso III 1 , alínea a da Constituição Federal, aduzindo violação do art. 167, inciso I, 6 da Lei de Registros Públicos, art. 299 do Decreto-Lei n. 3.365/41 e aos arts. 123, inciso I e 166, inciso II do Código Civil, no qual sustenta que não possui a obrigação de levar a efeito o registro da servidão administrativa proveniente de decisão judicial. Ademais, assevera a impossibilidade de cumprimento da obrigação, visto que demanda documento que não está em sua posse (fls. 205-214).
+O recurso foi inadmitido na origem (fls. 238-242), o que ensejou a interposição do presente agravo (fls. 244-250).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, quais sejam, ausência de obrigação de proceder ao registro da servidão em cartório e impossibilidade de cumprimento dessa obrigação, de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+Com efeito, em seu tópico de título "II. III. DA AUSÊNCIA DE NECESSIDADE DE REVOLVIMENTO ACERVO FÁTICO-PROBATÓRIO -MERA REVALORAÇÃO JURÍDICA DE FATOS INCONTROVERSOS" (fls. 248-249), o agravante ressalta suas teses recursais, aduz que tais pontos estão devidamente limitados no julgado recorrido e que almeja tão somente a revaloração das provas. Portanto, não delimitou os fatos que seriam incontroversos nem cotejou-os com a tese trazida no apelo nobre.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
