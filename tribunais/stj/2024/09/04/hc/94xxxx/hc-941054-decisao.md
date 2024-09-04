@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de KELLY DE LIMA ALVES OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento da Apelação Criminal n. 1.0040.15.009960-0/002.
+Extrai-se dos autos que a paciente foi condenada às penas de 21 (vinte e um) anos de reclusão, no regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, I, III e IV, do Código Penal (e-STJ, fls. 45/54).
+Irresignada, a defesa apelou, tendo sido o recurso desprovido (e-STJ, fls. 9/32).
+Em consulta ao sistema Justiça, verifico que o AREsp n. 2.144.022/MG interposto pela ora paciente, nesta instância, foi desprovido, e a subsequente Revisão Criminal n. 6.167 não foi conhecida.
+No presente mandamus (e-STJ, fls. 3/8), o impetrante sustenta a existência de constrangimento ilegal decorrente da ausência de extensão, à paciente, das penas fixadas pelo Tribunal a quo ao corréu, a despeito de ambos figurarem em situação fático-processual idêntica.
+Ao final, requer a concessão da ordem para que seja redimensionada a pena da ora paciente para 15 (quinze) anos de reclusão no regime inicial fechado, nos moldes do acórdão proferido pelo Tribunal a quo em benefício do corréu.
+É o relatório. Decido.
+Inicialmente, quanto ao alegado constrangimento ilegal decorrente da ausência de extensão à paciente dos benefícios concedidos ao corréu, deve-se ressaltar a incompetência desta Corte para analisar o tema, porquanto a referida decisão não fora proferida por este Tribunal. Com efeito, " n os termos do art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai a competência legal para decidir sobre o seu deferimento ou não" (AgRg no HC 511.679/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2019, DJe 2/8/2019). No mesmo sentido: AgRg no HC 707.767/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma , julgado em 15/02/2022, DJe 18/02/2022).
+Ademais, ainda que se considere a possibilidade de esta Corte analisar eventual constrangimento ilegal suficiente à concessão de ordem de ofício, como substitutivo de recurso próprio, verifico que a dosimetria das penas da paciente já fora analisada, nesta instância, nos autos do AREsp n. 2144022, hipótese em que foi mantida incólume a reprimenda fixada na origem.
+Além disso, constato que idêntica insurgência a deste mandamus  extensão, à paciente, das penas fixadas ao corréu  foi submetida a este Tribunal nos autos da Revisão Criminal n. 6167 . Em consequência, trata-se de mera reiteração de tese já apreciada por esta Corte, revelando-se incabível o habeas corpus para reexame do tema.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO EM AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte.
+2. No caso em exame, não obstante as causas de pedir expostas no recurso especial sejam mais amplas daquela formulada neste writ, o pedido final de absolvição foram feitos em ambos processos, não tendo a defesa trazido qualquer fato novo a ensejar o reexame por esta Corte do pleito deduzido no AREsp 608.198/SP.
+3. Hipótese em que a defesa pretende, ao impetrar este writ após a interposição do agravo em recurso especial, a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo regimental não provido (AgRg no HC n.º 476.445/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 19/2/2019).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intime-se.
+EMENTA
