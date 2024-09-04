@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Daniel Felipe Almeida Zocchi contra o ato coator proferido pela Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do Agravo em Execução n. 0008781-93.2024.8.26.0996, deu provimento à insurgência ministerial, revogando o regime semiaberto e determinando a realização de exame criminológico (Execução n. 0001152-57.2023.8.26.0041, DEECRIM 5ª RAJ - Presidente Prudente/SP).
+A defesa alega, em síntese, que a Lei n. 14.843/2024 é lei posterior mais gravosa, não podendo incidir no caso concreto.
+Sustenta que a exigência de exame criminológico para todo sentenciado é inconstitucional por violar o princípio da individualização da pena.
+Destaca o teor das Súmulas Vinculantes 26/STF e 439/STJ.
+Afirma que a gravidade em abstrato do crime e a longa pena a cumprir não são argumentos idôneos para fundamentar a exigência do exame criminológico.
+Pede a concessão do regime semiaberto (fls. 3/18).
+Liminar indeferida às fls. 346/348.
+Informações prestadas pela origem às fls. 355/372.
+O Ministério Público Federal pugna pelo não conhecimento da impetração ou, caso conhecido, pela denegação da ordem (fls. 374/376).
+É o relatório.
+A impetração pretende a concessão da progressão de regime, afastando a exigência de exame criminológico.
+Após análise dos autos, entendo assistir razão à impetração.
+O Tribunal local proveu a impetração aos seguintes fundamentos (fls. 329/330):
+2. Pesem, não obstante, os doutos fundamentos que vêm expostos na decisão monocrática, a que se somaram cuidadosas alegações contidas nas contrarrazões recursais, não merece subsistir a r. sentença agravada.
+O término de vivência carcerária está previsto para o ainda longínquo mês de junho de 2027 (fls. 12),sendo temerário permitir que, sem a coleta de alvitres qualificados, autor de tráfico ilícito de entorpecentes(fls. 12/3)permaneça quase três anos nos regimes mais suaves de cumprimento de pena. O semiaberto é, desgraçadamente, propício a evasões, o que implica em analisar com muito rigor os pressupostos para a progressão. A experiência no trato das questões penitenciárias indica ser incontroverso que o estágio intermediário, na atualidade e segundo a política pública desenvolvida pelo órgão competente do Poder Executivo, praticamente não é dotado de vigilância, assemelhando-se, em tudo e por tudo, ao modelo teórico de regime ABERTO.
+3. Atento a tal realidade, o legislador, que em 2003 suprimira a obrigatoriedade do exame criminológico para a progressão de regime, recentemente voltou a exigi-lo.
+A Lei nº 14.843 de 11 de abril de 2024,conferindo nova redação ao § 1º do artigo 112 da Lei de Execução Penal, passou a estabelecer que, "em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão"(destacamos).
+De valia realçar que a norma não padece de inconstitucionalidade - trata-se de legítima escolha dos representantes do povo, que, diante de comportamentos antissociais e por vezes bárbaros praticados por penitentes durante cumprimento de pena, nas ocasiões em que são, ainda que momentaneamente, reinseridos no contexto comunitário, deliberaram por recrudescer, no âmbito da execução de pena, a aferição a propósito do merecimento e da aptidão do reeducando para gozar das benesses disponíveis. Prestigia-se, com isso, o princípio da individualização da pena, tal como se fez durante os quase vinte anos de vigência da redação original do artigo 112 da Lei nº 7.210/84 - dispositivo, aliás, jamais reputado de inconstitucional por nossa E. Suprema Corte.
+A Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14/843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+Ademais, esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir ou ainda a reincidência, são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem, pois não foram indicados elementos concretos da execução para impor a realização de exame criminológico.
+Ante o exposto, concedo a ordem, confirmando a liminar, a fim de cassar o acórdão, restabelecendo, por consequência, a decisão do Juízo da execução no Processo n. 0001152-57.2023.8.26.0041.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS CRIMES PELOS QUAIS O APENADO CUMPRE PENA E LONGA PENA A ADIMPLIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo. Liminar confirmada.
