@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo interposto por BANCO TOYOTA DO BRASIL S.A., contra decisão interlocutória que negou seguimento ao seu recurso especial, fundamentado nas alíneas "a" e "c " do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/12/2023.
+Concluso ao gabinete em: 01/07/2024.
+Ação: de busca e apreensão, ajuizada pelo agravante, em desfavor de VALDIR BRITO SANTOS, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor, com garantia de alienação fiduciária.
+Decisão interlocutória: deferiu o pedido liminar de busca e apreensão do veículo.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo agravado, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. DECRETO-LEI 911/69. VEÍCULO ALIENADO FIDUCIARIAMENTE. PRESSUPOSTOS DE ADMISSIBILIDADE. NOTIFICAÇÃO EXTRAJUDICIAL. AR NEGATIVO COM INFORMAÇÃO "ENDEREÇO INSUFICIENTE". AUSÊNCIA DE RECEBIMENTO NO ENDEREÇO. PROTESTO POR EDITAL. NÃO ESGOTAMENTO DOS MEIOS DE LOCALIZAÇÃO DO DEVEDOR. AUSÊNCIA DE CONSTITUIÇÃO EM MORA. FALTA DE REQUISITOS AUTORIZADORES DA CONCESSÃO DA BUSCA E APREENSÃO. PRECEDENTES DO STJ E DESTE TRIBUNAL. DECISÃO CASSADA. RECURSO PROVIDO (e-STJ fl. 102).
+Embargos de declração: opostos pelo agravado, foram acolhidos para julgar extinta a ação de busca e apreensão, sem resolução de mérito.
+Recurso especial: aponta a violação dos arts. 2º, § 2º, e 3º do DL 911/69; 113 e 422 do CC; 319 e 320 do CPC, bem como dissídio jurisprudencial. Sustenta que o agravado foi regularmente constituído em mora, uma vez que é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual. Aduz que a falha na comunicação das partes, a impedir o aperfeiçoamento do ato, deve ser imputada exclusivamente ao agravado, cuja conduta não se mostra imbuída de boa-fé.
+Petição n. 00761172/2024 (e-STJ fls. 298-305): requer tutela provisória de urgência para atribuição de efeito suspensivo ao seu recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo agravante em seu recurso especial quanto aos arts. 113 e 422 do CC; 319 e 320 do CPC, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Do Tema 1132/STJ
+A Segunda Seção deste STJ fixou recentemente a seguinte tese ao julgar o Tema 1132 (DJe 20/10/2023):
+Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+Na hipótese dos autos, o TJ/BA entendeu pela ausência de constituição em mora do agravado, tendo em vista que "Não obstante encaminhada a notificação extrajudicial com aviso de recebimento para o endereço informado no momento do contrato, restou frustrado o seu cumprimento em decorrência da informação de "endereço insuficiente"" (e-STJ fl. 107).
+Desse modo, tem-se que o Tribunal de origem dissentiu da recente jurisprudência deste STJ no sentido de que o prévio encaminhamento da notificação extrajudicial ao endereço informado no contrato é suficiente para a comprovação da mora, tornando-se desnecessário ao ajuizamento da ação de busca e apreensão que o credor fiduciário demonstre o efetivo recebimento da correspondência pela pessoa do devedor ou por terceiro no endereço indicado.
+Salienta-se, ainda, como mesmo destacado no voto vencedor dos recursos julgados sob o rito dos recursos repetitivos - REsp 1.951.662/RS e REsp 1.951.888/RS - que essa conclusão abarca como consectário lógico situações em que a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor demonstrar tão somente o comprovante do envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato.
+Logo, à luz do disposto na Súmula 568/STJ, o presente recurso especial comporta acolhimento.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, e V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nesta extensão, DOU-LHE PROVIMENTO, para reconhecer a constituição em mora do agravado e determinar o regular prosseguimento da ação de busca e apreensão ajuizada pelo agravante.
+Fica prejudicado o pedido de tutela provisória de urgência requerido às fls. 298-305 (e-STJ) pelo agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. TEMA 1132/STJ. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Ação de busca e apreensão, em virtude de inadimplemento de contrato de financiamento para aquisição de veículo automotor, com garantia de alienação fiduciária.
+2. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Aplicação do Tema 1132/STJ.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, provido.
