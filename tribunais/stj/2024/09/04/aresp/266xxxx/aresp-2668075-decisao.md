@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de dois agravos interpostos por CANDICE LAUTH e SCHORK IMÓVEIS LTDA, contra decisão que inadmitiu recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise do recurso de CANDICE LAUTH, verifica-se que a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Porém, apesar de sua manifestação, o preparo ainda restou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas. Porém, a parte deixou o prazo transcorrer in albis.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Quanto à irresignação de SCHORK IMÓVEIS LTDA, verifica-se que a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas, em razão do pedido de gratuidade de justiça.
+O tribunal de origem determinou, então, a intimação da parte para comprovar o preenchimento dos requisitos para concessão do beneficio ou recolher as custas nos termos do art. 99, §§ 2 e 7 do CPC, porém de maneira equivocada.
+Registre-se que conforme art. 99, § 2º do CPC, a parte deve ser intimada para comprovar a hipossuficiência, e só após, indeferida a gratuidade, se for o caso, deve ser dada a oportunidade de regularização do preparo em observância ao disposto no art. 99, § 7º e art. 101, § 2º, do CPC, ou seja, recolhimento das custas de forma simples.
+Todavia, quando a parte opta pelo recolhimento das custas, há a renúncia ao pedido de gratuidade. Assim, nesse contexto, em que as custas não foram recolhidas no ato da interposição do recurso especial, bem como a renúncia ao pedido da benesse, imperiosa a observância do art. 1.007, § 4º do CPC, com o recolhimento em dobro.
+Assim, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Destarte, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
+EMENTA
