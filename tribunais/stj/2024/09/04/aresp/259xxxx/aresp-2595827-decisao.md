@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela FAZENDA NACIONAL, contra inadmissão, na origem, de recurso especial fundamentado na alíneas "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do TRIBUNAL REGIONAL FEDERAL DA PRIMEIRA REGIÃO, assim sumariado (fl. 298):
+TRIBUTÁRIO. PIS. COFINS. OPERAÇÕES COM MERCADORIAS DESTINADAS À ZONA FRANCA DE MANAUS. EQUIPARAÇÃO À EXPORTAÇÃO, PARA OS EFEITOS FISCAIS. PRESTAÇÃO DE SERVIÇOS.
+1. Orientação jurisprudencial assente nesta Corte Regional no sentido de que as operações com mercadorias destinadas à Zona Franca de Manaus são equiparadas a exportação para os efeitos fiscais, não comportando incidência da contribuição ao PIS e COFINS sobre as receitas advindas da venda de mercadorias de origem nacional, independentemente de sua destinação a pessoas físicas ou jurídicas estabelecidas dentro dos limites geográficos da Zona Franca de Manaus, e a de que o benefício fiscal se estende em relação aos valores resultantes da prestação de serviços na localidade.
+2. Recurso de apelação e remessa necessária não providos.
+Encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.239), os Recursos Especiais 2.093.050/AM e 2.093.052/AM, de relatoria do Min. Gurgel de Faria, a questão debatida nos autos, qual seja, "Definir se o PIS e a COFINS incidem sobre as receitas decorrentes de vendas de mercadorias de origem nacional, realizadas a pessoas físicas situadas dentro da área abrangida pela Zona Franca de Manaus".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
