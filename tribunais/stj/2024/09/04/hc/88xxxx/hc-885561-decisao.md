@@ -1,0 +1,18 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Valter Berto de Campos - condenado por furto qualificado tentado a 1 ano e 9 meses de reclusão, em regime inicial fechado, e a 17 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 188/207), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição do paciente, com o reconhecimento do crime impossível ou do estado de necessidade e, subsidiariamente, o abrandamento do regime inicial e o redimensionamento da pena - na condenação proferida na Ação Penal n. 1500577-45.2023.8.26.0535 (fls. 118/125, da 1ª Vara Criminal da comarca de Guarulhos/SP) -, com
+a) a alteração da fração de exasperação da pena, na primeira fase, pela negativação dos antecedentes, ao argumento de que, havendo uma única circunstância judicial desfavorável, o patamar de aumento não deve ultrapassar a fração de 1/8 (um oitavo) sobre o mínimo legal (fl. 11);
+b) a compensação da atenuante da confissão com a agravante de reincidência, na segunda fase, infirmando que ambas são circunstâncias de natureza subjetiva, e, portanto, equivalentes / preponderantes em face do disposto no art. 67 do CP (fls. 11/12);
+c) a aplicação da atenuante de circunstância relevante (art. 66, CP), em razão de o Réu possuir baixo grau de instrução ou escolaridade (art. 14, I, da Lei n. 9.605/1998), tendo apenas o ensino médio incompleto (fl. 13); e
+d) reconhecimento da tentativa delitiva, na terceira fase, assentado que o Acusado deu início à execução do delito, mas o intento criminoso se interrompeu devido à intervenção de funcionários do estabelecimento vítima, e, posteriormente, policial, tendo ele sido prontamente surpreendido e detido no próprio local dos fatos (fl. 14).
+Sem pedido liminar. Prestadas informações (fls. 305/306), o Ministério Público Federal opinou pela denegação da ordem (fl. 161).
+É o relatório.
+De início, observo ser inviável a impetração destinada a revisar a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, não foi demonstrado o alegado constrangimento ilegal na dosimetria, inicialmente porque as pretensões de reconhecimento do crime impossível, estado de necessidade, atenuante de circunstância relevante (art. 66 do CP) e tentativa delitiva não podem ser conhecidas, pois demandariam reexa me probatório, inviável na via eleita.
+Nesse sentido: AgRg no HC n. 842.280/SP, Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no AREsp n. 2.464.510/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/4/2024, DJe de 10/4/2024; e AgRg no HC n. 861.994/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Por fim, as frações de 1/2 pe la negativação do vetor antecedentes, pela existência de três condenações (fls. 122/123), e de 1/6 pela preponderância da agravante de reincidência na compensação com a atenuante de confissão, em razão da multirreincidência (fl. 200), foram corretamente aplicadas.
+Em razão disso, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. RECONHECIMENTO DE CRIME IMPOSSÍVEL, ESTADO DE NECESSIDADE, ATENUANTE DE CIRCUNSTÂNCIA RELEVANTE (ART. 66 DO CP) E TENTATIVA DELITIVA. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. FRAÇÕES APLICADAS. 1/2 PELA NEGATIVAÇÃO DO VETOR ANTECEDENTES. EXISTÊNCIA DE TRÊS CONDENAÇÕES. 1/6 PELA PREPONDERÂNCIA DA AGRAVANTE DE REINCIDÊNCIA NA COMPENSAÇÃO COM A ATENUANTE DE CONFISSÃO. MULTIRREINCIDÊNCIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
