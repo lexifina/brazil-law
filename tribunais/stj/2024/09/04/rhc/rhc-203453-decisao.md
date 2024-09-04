@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar, interposto por FELIPE ALVES DE FARIA E CASTRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC n. 0724667-03.2024.8.07.0000).
+O paciente foi condenado pela prática dos crime previsto no art. 33, caput, da Lei nº 11.343/2006, a pena de 5 anos de reclusão e pagamento de 500 dias-multa, a ser cumprida no regime inicial se miaberto.
+O habeas corpus apresentado pela defesa foi denegado por meio de acórdão assim ementado (e-STJ fl. 638):
+"HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA MANTIDA. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃOCAUTELAR.1. Mantém-se a prisão preventiva do paciente, por ocasião da sentença condenatória, quando o paciente respondeu preso ao processo e constada a manutenção dos pressupostos e fundamentos da segregação cautelar do condenado à pena privativa de liberdade superior a 4anos de reclusão, em regime semiaberto.2. Não é incompatível a prisão cautelar com a fixação do regime semiaberto, desde que observada a segregação no estabelecimento adequado.3. Ordem denegada."
+No bojo do Recurso Ordinário (e-STJ fls. 686-694), o recorrente alega, em síntese, que a condenação a pena privativa de liberdade no regime inicial semiaberto pressupõe o deferimento da liberdade após a interposição do recurso, eis que a prisão cautelar não pode ser mais gravosa do que a pena aplicada.
+Assevera que a liberdade é a regra no sistema acusatório brasileiro, e que a prisão é desproporcional ao injusto cometido e que ausentes os requisitos legais da prisão preventiva, mormente o periculum libertatis.
+Requer, ao final, o provimento do recurso com a consequente concessão da ordem, para revogar a prisão preventiva do paciente.
+É a síntese do necessário.
+Decido.
+Incabível, no caso em tela, a soltura do paciente eis que presentes os pressupostos autorizadores da segregação cautelar, na forma do que dispõe o art. 312 do CPP. Em casos que tais, a jurisprudência deste Corte Superior aponta que a manutenção da prisão cautelar é compatível com a fixação do regime semiaberto para cumprimento da pena privativa de liberdade. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO OBJETIVA E EFICAZ AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RESP. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. O insurgente deixou de refutar, de forma direta, objetiva e eficaz, o fundamento: Súmula n. 83 do STJ, pois apresentou impugnação genérica e lastreada em dispositivos da Constituição Federal.
+3. A questão relativa à compensação não integral da confissão espontânea nos casos de multirreincidência foi estabelecida por esta Corte Superior, em julgado submetido ao rito dos recursos repetitivos e que culminou na Tese n. 585.
+4. Além disso, a multirreincidência não é um instituto de direito penal, mas apenas um termo que define a hipótese em que o acusado ostenta mais de uma condenação caracterizadora de reincidência.
+5. A matéria relativa à alegada incompatibilidade da fixação do regime inicial semiaberto com a manutenção da prisão preventiva já foi examinada por esta Corte Superior no HC n. 812.856/MG, no qual ficou decidido que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena  .. " (AgRg no HC n. 779.532/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022)" (AgRg no HC n. 798.705/RJ, Rel. Ministro Antonio Saldanha Palheiro, DJe 23/3/2023).
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.553.521/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/6/2024, DJe de 13/6/2024.) (grifei)
+O presente caso trata de crime envolvendo drogas derivadas da maconha e outras como skunk, haxixe e até mesmo a droga k9, de alto poder destrutivo.
+Sobre a disciplina das medidas cautelares, importa registrar que " A  imposição de qualquer restrição cautelar, nos termos do art. 282, I e II, do Código de Processo Penal, demanda a demonstração da presença do fumus comissi delicti e do periculum libertatis, devendo ser aplicada observando-se a necessidade e a adequação da medida" (AgRg no HC 753.765/RJ, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Na hipótese, quando da ponderação da razoabilidade e proporcionalidade, que deve ser feita quando da análise da necessidade de manutenção de medida de segregação cautelar, verifico ser necessária a prisão preventiva.
+Em que pese o impetrante afirmar que a regra é a liberdade e que na espécie reina a ausência de risco à ordem pública ou à efetividade da lei penal, o modus operandi dessa espécie delitiva evidencia a gravidade concreta e lastrear a prisão cautelar.
+Consigne-se, por fim, que não há incompatibilidade entre o regime inicial semiaberto e manutenção da prisão cautelar, havendo apenas a necessidade da compatibilização da custódia preventiva com as regras próprias do regime intermediário. Na hipótese, como visto, o paciente foi condenado a cumprir pena no regime inicial semiaberto e há no v. acórdão guerreado a determinação de que haja a adequação do cumprimento, o que torna a segregação proporcional ao resultado da ação penal acautelada.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
