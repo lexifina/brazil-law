@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 782):
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Pedido de penhora do salário da executada. Análise em contraste do CPC/1973 em face do CPC/2015. Art. 649 do CPC/73 que qualificava os salários como "absolutamente impenhoráveis". Supressão do vocábulo "absolutamente" no novo texto legal (art. 833, inciso IV, do CPC), o qual abriu espaço interpretativo na direção da penhorabilidade de verba alimentar para excussão de crédito não alimentar, embora não excedente a cinquenta (50) salários mínimos. Técnica da mitigação-relativização-flexibilização. Admissibilidade excepcional, a qual depende das circunstâncias fáticas do caso concreto. Cautela. Busca de atender ao interesse do credor (art. 797) em conciliação com o meio menos gravoso (art. 805). Mínimo existencial. Rol explicativo de precedentes do C. STJ. Tabelas e grupos de julgados. Primeiro grupo que crava que é inadmissível a excussão por não estar demonstrada situação excepcional que a justificasse. Segundo grupo de julgados que mantém a impenhorabilidade de salários inferiores a seis salários mínimos no tom da preservação do mínimo existencial e no vértice do princípio fundamental dignidade da pessoa humana (art. 1º, inciso III, da CF), em paralelo à segurança alimentar do devedor. Terceiro grupo que autoriza a constrição da renda salarial a partir de cinco-seis salários mínimos, nos percentuais entre 5% e 30%, com a aplicabilidade da mitigação relativização-flexibilização. Mecânica do cálculo. Zona cinzenta que deve ser equacionada caso a caso. Situação concreta: executada que aufere renda inferior a três salários mínimos. Impenhorabilidade categórica. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 802/805).
+Nas razões do especial, aponta a recorrente negativa de vigência ao artigo 139, IV, do Código de Processo Civil, além do dissídio jurisprudencial.
+Argumenta que, reconhecida a impenhorabilidade de valor referente a salário, seria impositivo o uso de meios atípicos de execução, a fim de compatibilizar o princípio da menor onerosidade do devedor com o da satisfação do crédito executado.
+Contra-arrazoado (fls. 821/828), o recurso especial foi admitido na origem (fls. 829/831).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que a controvérsia devolvida à Corte Local limitou-se à análise do acerto da decisão que indeferiu a penhora do valor dos proventos da executada, por considerar que a constrição repercutiria no patrimônio da devedora e de sua família.
+A propósito, extraio do acórdão recorrido, no que é suficiente para delimitar a extensão da controvérsia devolvida e o provimento adotado (fls. 783/791):
+Insurge-se a exequente, ora, agravante, contra a r. decisão (fls. 698) que indeferiu o pedido de penhora parcial do salário da executada.
+Pontua a admissibilidade da constrição em percentual que não comprometa a subsistência da agravada, em face da inexistência de outros bens penhorados.
+ ..
+Na particularidade dos autos, a executada auferiu renda líquida anual de R$ 30.324,91 (renda bruta deduzida de contribuição previdenciária R$ 3.141,03, e imposto de renda R$ 567,88), segundo sua última declaração de imposto de renda (fls. 704 dos autos principais), o que equivale ao valor mensal de R$ 2.552,07, quantia inferior a três salários mínimos, a evidenciar sua indispensabilidade para a subsistência da agravada.
+A hipótese, portanto, não autoriza que aludida mitigação-flexibilização-relativização.
+Por esses fundamentos, meu voto nega provimento ao recurso.
+Como se vê, a Controvérsia devolvida à Corte Local não se estendeu à pertinência quanto a eventual uso de meio atípico de execução, limitando-se à análise sobre a interpretação estrita ou não da regra prevista no artigo 833, IV, do CPC/15.
+Assim, como a controvérsia relativa ao artigo 139, IV, do CPC/15, não foi objeto de análise no acórdão recorrido, já que inexistente sequer devolução a respeito, conforme extraio das razões do agravo (fls. 1/8), não há como conhecer do recurso especial a respeito, por falta de prequestionamento (Súmulas 282 e 356/STF).
+Em face do exposto, não conheço do recurso especial.
+Deixo de arbitrar honorários recursais, pois inexistente condenação a respeito na origem; vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
