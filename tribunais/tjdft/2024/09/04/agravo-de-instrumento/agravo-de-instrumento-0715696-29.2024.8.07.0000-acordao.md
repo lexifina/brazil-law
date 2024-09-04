@@ -1,0 +1,85 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0715696-29.2024.8.07.0000AGRAVANTE(S)CONDOMINIO VILA PARKAGRAVADO(S)SILVANETE SILVA SANTOSRelatorDesembargador CARLOS ALBERTO MARTINS FILHO
+ Acórdão Nº1918042
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. OBRIGAÇÃO PROPTER REM. COMPETÊNCIA. LOCAL DE CUMPRIMENTO DA OBRIGAÇÃO. ART. 53, III, D, DO CPC. RECURSO CONHECIDO E DESPROVIDO.
+
+1. Agravo de instrumento interposto contra decisão que declinou da competência para processamento e julgamento de ação de cobrança de taxas condominiais para comarca onde se localiza o imóvel.
+
+2. Conforme previsto ao artigo 53, III, d, do Código de Processo Civil, o foro do local de cumprimento da obrigação é competente para o processamento da ação de cobrança de taxas condominiais.
+
+3. Recurso conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARLOS ALBERTO MARTINS FILHO - Relator, TEÓFILO CAETANO - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 12 de Setembro de 2024
+
+Desembargador CARLOS ALBERTO MARTINS FILHORelator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto pelo CONDOMÍNIO VILA PARK contra a decisão proferida pelo Juízo da 4ª Vara Cível de Brasília, que, nos autos da ação de cobrança n. 0728096-09.2023.8.07.0001, proposta em desfavor do SILVANETE SILVA SANTOS, declinou da competência para processar e julgar o presente feito em favor da comarca da Cidade Ocidental/GO, nos seguintes termos:
+
+Passo a sanear o feito, nos termos do art. 357 do Código de Processo Civil. Aprecio a preliminar de incompetência relativa suscitada pelo requerido, na forma prevista pelo art. 337, II, do Código de Processo Civil. A requerida alega que este Juízo é incompetente para apreciar a causa, porquanto a competência é do foro do lugar onde a obrigação deve ser satisfeita, qual seja, da comarca da Cidade Ocidental/GO. Assiste razão à requerido, pois a regra disciplinada no art. 53, III, ‘d’, do Código de Processo Civil dispõe que o foro competente para processar e julgar as ações é o do lugar onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento. No caso dos autos, o presente feito visa o cumprimento da obrigação de pagar taxas condominiais de imóvel localizado na Cidade Ocidental/GO. Em consequência, é forçoso reconhecer a incompetência deste juízo, uma vez que a ação deveria ter sido proposta no foro de domicílio do réu, acordo com as regras gerais do Código de Processo Civil. Neste sentido, trago à colação o presente aresto: (…) Outrossim, é evidente a natureza de obrigação propter rem, diante da pretensão de condenação do requerido ao pagamento de quantia certa, ao argumento de inadimplemento no cumprimento das obrigações de taxas condominiais. Ora, a questão em análise no processo não se trata de alguma controvérsia oriunda ou criada por regra da Convenção de Condomínio, mas sim a exigência do pagamento das taxas ordinárias de condomínio. É sempre bom lembrar que as fontes do direito obrigacional são a lei, a vontade e o ato ilícito. A obrigação condominial encontra seu suporte fático normativo nas regras do artigo 1.336, I, do Código Civil e do artigo 12 da Lei 4.591/64. Resta claro, portanto, que a presente pretensão não visa questionar ou discutir alguma obrigação ou previsão descrita na Convenção de Condomínio, mas sim exigir o cumprimento forçado de uma obrigação criada por lei. Ante o exposto, ACOLHO a preliminar agitada e DECLARO a incompetência deste juízo para processar e julgar o presente feito. Encaminhem-se os autos a uma das varas cíveis da Comarca da Cidade Ocidental/GO. Intimem-se as partes e CUMPRA-SE. (Omitiu-se) (Grifou-se)
+
+No agravo de instrumento (ID 58151916), a parte autora, ora agravante, pleiteia a concessão "do efeito suspensivo ao recurso para evitar a remessa dos autos para a comarca da Cidade Ocidental-GO” (p. 5).
+
+Argumenta, em suma, que que a regra geral do artigo 46, caput, do CPC prevê que o foro competente para processar e julgar as ações fundadas em direito pessoal ou em direito real sobre bens móveis é o de domicílio do réu. Em que pese a cobrança de despesas condominiais encaixar-se na previsão do artigo 53, inciso III, d, do CPC, mais específica, a competência territorial é relativa e pode ser modulada para atender aos melhores interesses das partes litigantes.
+
+Afirma que a requerida não reside no foro para o qual requereu a remessa dos autos, tanto que informou ao oficial de justiça residir na quadra 6, conjunto F, casa 5, Varjão-DF, endereço localizado, inclusive, em Região Administrativa que fomenta a distribuição aleatória para uma das varas cíveis de Brasília-DF.
+
+Decisão de ID 58322915 indeferiu o pedido liminar recursal ao fundamento de que a ação em vista, de cobrança de taxas condominiais, busca obrigação de natureza “propter rem”, cuja competência de processamento é do local onde deva ser satisfeita tal obrigação.
+
+Contrarrazões ao ID 60262347, pelo não provimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador CARLOS ALBERTO MARTINS FILHO - Relator
+DO MÉRITO RECURSAL
+
+Trata-se de agravo de instrumento contra decisão proferida pelo Juízo da 4ª Vara Cível de Brasília, que, nos autos da ação de cobrança proposta em desfavor da ora agravada, declinou da competência para processar e julgar o presente feito em favor da comarca da Cidade Ocidental/GO.
+
+A agravante defende o provimento recursal para que seja tornada sem efeito a decisão que declinou da competência e que seja determinado o processamento do feito no âmbito do Juízo prolator da decisão combatida.
+
+Argumenta, em suma, que que a regra geral do artigo 46, caput, do CPC prevê que o foro competente para processar e julgar as ações fundadas em direito pessoal ou em direito real sobre bens móveis é o de domicílio do réu. Em que pese a cobrança de despesas condominiais encaixar-se na previsão do artigo 53, inciso III, d, do CPC, mais específica, a competência territorial é relativa e pode ser modulada para atender aos melhores interesses das partes litigantes.
+
+Afirma que a requerida não reside no foro para o qual requereu a remessa dos autos, tanto que informou ao oficial de justiça residir na quadra 6, conjunto F, casa 5, Varjão-DF, endereço localizado, inclusive, em Região Administrativa que fomenta a distribuição aleatória para uma das varas cíveis de Brasília-DF.
+
+Com efeito, superada a questão do cabimento recursal conforme razões expostas na decisão de ID 58322915, a questão posta em julgamento diz respeito à competência para processamento e julgamento da ação de cobrança de taxas condominiais no âmbito da 4ª Vara Cível de Brasília.
+
+Nesse passo, os fundamentos lançados quando da decisão de improcedência do pedido liminar recursal não sofreram, no curso do trâmite recursal, qualquer alteração capaz de modificar o entendimento sobre a questão. Reproduzo, por oportuno, os fundamentos lançados à mencionada decisão (ID 58322915):
+
+É o relato do necessário. DECIDO. Preparo recolhido regularmente (IDs 58151917 e 58151919). Recurso tempestivo. Preliminarmente, saliento a admissibilidade do presente recurso, eis que, a despeito de não estar a questão expressamente elencada no artigo 1.015 do Código de Processo Civil, afigura-se caso de mitigação conforme consignado pelo Superior Tribunal de Justiça (STJ), quando do julgamento do REsp 1.730.436 (Tema 988), tendo firmado entendimento de que a decisão que define a competência, seja ela relativa ou absoluta, é similar a decisão interlocutória que versa acerca da alegação de convenção de arbitragem, a qual está prevista no artigo 1.015, inciso III, do CPC. No caso vertente, a decisão objeto deste agravo de instrumento declinou da competência para a Comarca da Cidade Ocidental-GO, não sendo razoável remeter a discussão apenas para eventual recurso de apelação. Assim, presentes os pressupostos de admissibilidade, conheço do recurso. Conforme preceitua o art. 1.019, I, do CPC, para a concessão da antecipação da tutela recursal ou da atribuição de efeito suspensivo ao recurso, é necessária a presença cumulativa dos requisitos do art. 300 do CPC, a dizer a probabilidade do direito, o risco de dano irreparável ou ao resultado útil do processo. Em uma análise preliminar, entendo que não assiste razão ao condomínio agravante, pois em que pese o consumidor residir em Brasília, a competência, no caso em exame, no entanto, é do Juízo de Direito da Comarca da Cidade Ocidental, local onde a obrigação deve ser satisfeita, ou seja, onde situa-se o condomínio, dada a natureza propter rem da obrigação. Na origem, trata-se de ação de cobrança de taxas condominiais, que por sua vez, possuem natureza jurídica de obrigação propter rem, ou seja, em razão (propter) da coisa (rem), formado em razão do vínculo do direito real de propriedade e que independe da pessoa do proprietário ou possuidor. E, nos termos do artigo 1315, do Código Civil “O condômino é obrigado, na proporção de sua parte, a concorrer para as despesas de conservação ou divisão da coisa, e a suportar os ônus a que estiver sujeita”. Assim, no caso em testilha, imperiosa a aplicação do artigo 53, inciso III, “d” do Código Processual Civil, que fixa: Art. 53. É competente o foro: [...] III - do lugar: [...] d) onde a obrigação deve ser satisfeita, para a ação em que se lhe exigir o cumprimento; Portanto, prevalece, para efeitos de fixação da competência, a regra do artigo supracitado, que fixa a competência do foro do local do cumprimento da obrigação, em contraposição ao disposto no artigo 781, inciso I, do mesmo diploma processual (foro do domicílio do executado). Ademais, mormente por se tratar de incompetência relativa, que, por sua vez, somente pode ser arguida pelo réu, na contestação, sob pena de preclusão e prorrogação da competência do juízo, não podendo o magistrado reconhece-la de ofício, de acordo com a Súmula 33 do STJ. Assim, conforme bem pontuou o juízo a quo, o motivo para o declínio foi a informação trazida em contestação pela parte demandada (momento processual adequado) de existência de litispendência, em razão do processo n. “5811130-30.2023.8.09.0164, que corre perante a Única Vara do Juizado Especial Cível e Criminal da Comarca da Cidade Ocidental do Estado de Goiás”, porquanto os autos originários e o primevo que tramita na Cidade Ocidental possuem as mesmas partes, as mesmas causas e os mesmos pedidos são ajuizadas, fazendo com que existam dois processos simultâneos sobre um mesmo tema. Anote-se que a matéria será analisada com a profundidade necessária quando do julgamento pelo e. Colegiado. Diante do exposto, INDEFIRO o pedido liminar.
+
+Com efeito, no caso dos autos, o declínio de competência para a comarca de cumprimento da obrigação se mostra devido.
+
+Trata-se de cobrança de taxas condominiais, obrigações de natureza jurídica adstrita ao exercício da posse do imóvel. Assim, em que pese o alegado sujeito passivo também possua residência em outo local, o fundamento da ação é o exercício da titularidade/posse do imóvel localizado em outra comarca, onde deve ser cumprida a obrigação.
+
+Por se tratar de obrigação adstrita àquela coisa localizada no âmbito de outra jurisdição, o processamento naquela comarca é primordial. É a referida localização é o que fundamenta a demanda jurisdicional de cobrança e eventual voluntariedade pela promoção da ação em outra comarca não pode ser justificada de antemão.
+
+Nesse sentido:
+
+PROCESSUAL CIVIL. COMPETÊNCIA RELATIVA. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. CRITÉRIO TERRITORIAL. SÚMULA 33, STJ. INAPLICABILIDADE. CLÁUSULA DE ELEIÇÃO DE FORO. VIOLAÇÃO AO SISTEMA DE ORGANIZAÇÃO JUDICIÁRIA. CASO RECORRENTE DE PARTES COM DOMICILIO NA CIDADE DE ALEXÂNIA. AUSENCIA DE QUALQUER FATO A JUSTIFICAR A PROPOSITURA DA AÇÃO EM BRASÍLIA. ABUSIVIDADE. RECURSO IMPROVIDO. 1. Agravo de instrumento contra a decisão, proferida em ação de cobrança, que declarou a incompetência do Juízo da 11ª Vara Cível da Circunscrição Judiciária de Brasília/DF para processar e julgar o feito. 1.1. Nesta sede, a parte pede o provimento do recurso para reformar a decisão agravada, fixando-se a competência do foro de Brasília/DF para processar e julgar o feito originário. Aduz que o foro escolhido é competente em razão de expressa previsão no artigo 62º do Estatuto Condominial, que elege o foro de Brasília para dirimir as ações que envolvam o condomínio e seus associados. Assevera que, em se tratando de competência territorial de natureza relativa, definida conforme o interesse dos litigantes, podem as partes derrogá-la mediante estipulação de cláusula de eleição de foro, nos termos do art. 63 do CPC/15. 2. O artigo 53, inciso III, alínea d, do Código de Processo Civil determina que o foro competente é o local onde a obrigação deve ser cumprida, para a ação que exige o seu cumprimento. 2.1. Conforme estatuto, a sede da agravante é Alexânia/GO e a agravada reside no condomínio credor, de modo que o domicílio da agravada também é em Alexânia/GO. 2.2. A escolha do foro da Justiça do Distrito Federal e dos Territórios no presente caso não está relacionada ao local onde a obrigação deve ser cumprida e não guarda qualquer conexão com os fatos que fundamentam a demanda. 3. O contexto da súmula 33 do STJ que dispõe que "a incompetência relativa não pode ser declarada de ofício, contudo, prevê total pertinência com a lei processual civil, de modo que a escolha não pode ser aleatória, sem qualquer vínculo com a lide. 3.1. Não é razoável, portanto, reconhecer a competência da Justiça do Distrito Federal e dos Territórios para processar e julgar demandas que não têm relação com o Distrito Federal, especialmente quando há uma disposição legal que estabelece a competência no local de cumprimento da obrigação. 3.2. Fica evidente o abuso da cláusula de eleição de foro registrada na convenção do condomínio e caracteriza um manifesto abuso do direito de ação, uma vez que nada no caso está relacionado com este tribunal. 3.3. Precedente: "(...) A competência para julgamento e processamento de ação de cobrança de taxas condominiais é do foro do local do cumprimento da obrigação nos termos do art. 53, inc. III, alínea d, do Código de Processo Civil. 2. O princípio do juiz natural impõe que as causas sejam processadas e julgadas pelo órgão jurisdicional previamente determinado a partir de critérios objetivos de atribuição de competência. É necessário que haja ao menos um elemento fático que justifique a opção do autor por determinado foro, dentre aqueles estipulados pelo ordenamento jurídico. A escolha aleatória ultrapassa a esfera de disponibilidade das partes e viola o princípio do juiz natural. (...)". (07295895520228070001, Relator: Hector Valverde Santanna, 2ª Turma Cível, DJE: 13/3/2024). 4. Agravo improvido. (Acórdão 1860576, 07006015620248070000, Relator(a): JOÃO EGMONT,  2ª Turma Cível, data de julgamento: 8/5/2024, publicado no DJE: 23/5/2024. Pág.:  Sem Página Cadastrada.)
+
+APELAÇÃO. DIREITO CIVIL E PROCESSUAL CIVIL. COBRANÇA. CONDOMÍNIO. COMPETÊNCIA. OBRIGAÇÃO. CUMPRIMENTO. LOCAL. 1. A competência para julgamento e processamento de ação de cobrança de taxas condominiais é do foro do local do cumprimento da obrigação nos termos do art. 53, inc. III, alínea d, do Código de Processo Civil. 2. O princípio do juiz natural impõe que as causas sejam processadas e julgadas pelo órgão jurisdicional previamente determinado a partir de critérios objetivos de atribuição de competência. É necessário que haja ao menos um elemento fático que justifique a opção do autor por determinado foro, dentre aqueles estipulados pelo ordenamento jurídico. A escolha aleatória ultrapassa a esfera de disponibilidade das partes e viola o princípio do juiz natural. 3. A remessa dos autos para o Juízo competente é medida que impõe-se diante da constatação de abusividade na cláusula de eleição de foro que não observa os critérios objetivos de atribuição de competência e evidencia escolha abusiva. 4. Incompetência da Justiça do Distrito Federal e dos Territórios reconhecida de ofício. Apelação julgada prejudicada. (Acórdão 1824685, 07295895520228070001, Relator(a): HECTOR VALVERDE SANTANNA,  2ª Turma Cível, data de julgamento: 28/2/2024, publicado no DJE: 13/3/2024. Pág.:  Sem Página Cadastrada.)
+
+Portanto, eventual derrogação da competência territorial relativa não pode desconsiderar a natural vinculação entre a posse do imóvel e a obrigação em cobrança.
+
+Ante o exposto, conheço e NEGO PROVIMENTO ao agravo de instrumento.
+
+É como voto.
+
+O Senhor Desembargador TEÓFILO CAETANO - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME.
