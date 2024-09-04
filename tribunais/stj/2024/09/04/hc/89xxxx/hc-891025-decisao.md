@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GILMAR RODRIGUES DE SOUZA apontando como autoridade o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (Recurso em Sentido Estrito n. 0501447-32.2018.8.05.0256).
+Depreende-se dos autos que o paciente foi pronunciado pela suposta prática do delito previsto no art. 121, § 2º, I e IV, do Código Penal (e-STJ fls. 127/132).
+Interposto recurso em sentido estrito, o Tribunal de origem conheceu em parte da irresignação e, nessa extensão, negou-lhe provimento, conforme acórdão ementado às e-STJ fls. 167/171.
+Daí o presente writ, em que a defesa sustenta que "a decisão do Tribunal fundamentou-se unicamente em declarações prestadas em esfera policial e confissão ilicitamente obtida em inquérito mediante violência e retratada em juízo" (e-STJ fl. 9).
+Acrescenta que, na hipótese, há iminente violação ao art. 155 do Código de Processo Penal, ante a ausência de prova de autoria. Aduz que "não há como sustentar uma decisão de pronúncia apenas por elementos por ouvir dizer, que sequer conseguiram apontar de onde, de quem e como ouviram, ou seja, em meros boatos e suposições e, ainda, sequer foram reproduzidas em juízo" (e-STJ fl. 22).
+Ainda, postula, subsidiariamente, o decote das qualificadoras do motivo torpe e do recurso que dificultou ou tornou impossível a defesa do ofendido.
+Diante dessas considerações, requer, inclusive liminarmente, a impronúncia do paciente, sua absolvição sumária ou, subsidiariamente, o decote das qualificadoras imputadas (e-STJ fl. 30).
+Informações prestadas.
+O Ministério Público Federal manifestou-se, em parecer, pelo não conhecimento do writ ou pela denegação da ordem.
+É, em síntese, o relatório.
+Decido.
+A impetração objetiva a despronúncia do paciente ante a ausência de indícios mínimos de autoria.
+No procedimento de competência do Tribunal do Júri, a pronúncia encerra o juízo de admissibilidade da inicial acusatória, dispondo o art. 413 do Código de Processo Penal que o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação.
+Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, a pronúncia é o "reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria" (AgInt no AREsp n. 784.102/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 24/5/2016, DJe de 6/6/2016).
+Não se desconhece, por outro lado, que a jurisprudência desta Corte Superior reconhece que, nessa fase do procedimento escalonado do júri, vigora o brocardo in dubio pro societate. Todavia, "a incidência do postulado não afasta a necessidade de indícios mínimos de autoria para que haja a pronúncia" (AgInt no REsp n. 1.595.643/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/6/2016, DJe de 30/6/2016).
+Desse modo, feitas essas ponderações iniciais, transcrevo o seguinte excerto da decisão de pronúncia (e-STJ fls.129/130):
+A análise, por ocasião da sentença de pronúncia, deve se limitar aos aspectos externos da conduta delitiva, sob pena do julgador singular se imiscuir em matéria de competência do Conselho de Sentença, órgão colegiado constitucionalmente competente para o julgamento.
+Na hipótese em exame, a materialidade delitiva está suficientemente comprovada pelo laudo supramencionado.
+Os indícios de autoria, por sua vez, restaram comprovados pelos depoimentos das testemunhas, senão vejamos: A testemunha PEDRO HENRIQUE TEIXEIRA DA CRUZ, vulgo "PITOCO", disse em seu depoimento prestado perante a Autoridade Policial que trabalhava no tráfico de drogas juntamente com a vítima GEOVANI e que ambos vendiam drogas para o traficante TANIEL.
+Que sabe informar que GILMAR, vulgo "GILMARZINHO", foi o autor da morte de GEOVANI, informando que na data dos fatos era véspera de natal e estava consumindo bebida alcoólica com a vítima na calçada de sua casa, tendo saído para jogar bola, sendo que instantes depois soube através de um telefonema que GEOVANI havia sido baleado. Que voltou ao local onde estava com a vítima, encontrando esta baleada e gritando em alto e bom tom que o autor dos disparos havia sido a pessoa de "GILMARZINHO". Que o denunciado GILMAR acompanhado da pessoa de EDUARDO MORAES SANTANA vendiam drogas para o traficante TANIEL. Interrogado em juízo, GILMAR RODRIGUES DE SOUZA negou a autoria delitiva, informando não conhecer as pessoas do grupo criminoso do qual é acusado de fazer parte. Que não sabe porque foi apontado como autor do crime em tela. Que não conhece a vítima GEOVANI. Que não tem contato com LUAN FERGON, só sabe que este também está custodiado no CPTF. Que conheceu EDUARDO somente quando já estava preso. Que já traficou drogas nesta Comarca de Teixeira de Freitas/BA, no Bairro Bela Vista.
+Nesse sentido, diante do que restou apurado pelos depoimentos das testemunhas, verifico a presença de indícios suficientes de autoria, o que enseja a viabilidade de acolhimento da denúncia para fim de ser o réu submetido a julgamento pelo Tribunal do Júri, na forma do art. 5º,inciso XXXVIII, alínea "d".
+O Tribunal de origem, ao apreciar recurso da defesa, manteve a decisão de pronúncia. Confira-se (e-STJ fls. 177/178 ):
+Há indícios de suficientes de autoria delitiva, uma vez que, segundo a testemunha Pedro Henrique Teixeira da Cruz, foi a própria vítima quem declarou, antes de sua morte, que quem lhe deflagrou os disparos de arma de fogo foi a pessoa do Recorrente.
+Às fls. 21/23 do ID 46425206, consta o depoimento da Testemunha PEDROHENRIQUE TEIXEIRA DA CRUZ, prestado em Delegacia, no qual é imputada a autoria delitiva ao Recorrente:
+ ..
+Verifica-se que, embora a Testemunha PEDRO HENRIQUE TEIXEIRA DA CRUZ não tenha prestado depoimento em assentada judicial, o Promotor de Justiça declarou, em juízo, que ele se encontrava presente no momento em que a referida testemunha prestou depoimento em delegacia, tendo relatado que:
+A leitura dos atos decisórios acima transcritos evidencia que, para a pronúncia, foi indicado apenas o depoimento na fase policial da testemunha Pedro Henrique Teixeira da Cruz, afirmando que a vítima, antes de falecer, teria apontado o ora paciente como autor dos disparos .
+Dessa forma, tenho para mim que os indícios colhidos nas fases pré-processual e judicial são frágeis a ponto de não autorizar que o acusado seja submetido a julgamento perante o Tribunal do Júri.
+Impende consignar que a conclusão ora alcançada prescinde do revolvimento do acervo fático-probatório. O que se examina é tão somente a fundamentação declinada na decisão de pronúncia e no acórdão que se sucedeu.
+Assim, é possível verificar dos excertos acima transcritos que as instâncias ordinárias não indicaram provas produzidas em juízo, o que evidencia a hipótese de impronúncia prevista no art. 414 do CPP.
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. RECURSO PROVIDO.
+1. É a pronúncia reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria, não representando juízo de procedência da culpa.
+2. Caso em que a Corte de origem, ao julgar recurso em sentido estrito interposto pelos corréus, concluiu pela inexistência de indícios mínimos de autoria, notadamente porque a única prova em que se baseou a pronúncia foi a confissão extrajudicial de um dos acusados - não confirmada em juízo -, além de estar dissociada de qualquer outro elemento de prova colhido na instrução processual, sendo de rigor, portanto, a aplicação do mesmo entendimento quanto ao ora recorrente.
+3. Recurso em habeas corpus provido para impronunciar o recorrente GILBERTO PALHARES DE QUEIROZ.
+(RHC 84.784/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/2/2019, DJe 8/3/2019.)
+Ante o exposto, concedo a ordem para despronunciar o paciente GILMAR RODRIGUES DE SOUZA, nos termos do art. 414, parágrafo único, do CPP.
+Publique-se. Intimem-se.
+EMENTA
