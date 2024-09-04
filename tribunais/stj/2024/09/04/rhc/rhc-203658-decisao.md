@@ -1,0 +1,19 @@
+DECISÃO
+MARCELO DE FREITAS VIEIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no habeas corpus n. 0053854-48.2024.8.16.0000.
+Nas razões deste recurso, a defesa pugna pela absolvição do paciente da prática do delito de associação para o tráfico de drogas.
+Na origem, a defesa impetrou habeas corpus substitutivo de revisão criminal sob o argumento de que não havia elementos objetivos e racionais que justificassem o ingresso forçado na moradia da paciente, razão pela qual seriam ilícitas as provas obtidas por meio da medida invasiva, bem como todas as que delas decorreram (por força da teoria dos frutos da árvore envenenada), o que, por sua vez, imporia a absolvição da paciente.
+Com o trânsito em julgado da condenação, aquele writ tinha caráter substitutivo de revisão criminal. A decisão foi de não conhecimento. Estes os termos:
+Como bem pontuado pela Procuradoria Geral de Justiça, o feito não comporta conhecimento por dois motivos.
+Primeiro pelo fato da condenação do Paciente pelo delito de associação para o tráfico, proferida nos autos 18119-38.2017.8.16.0019, já ter transitado em julgado, sendo a revisão criminal a via adequada para seu excepcional reexame, desde que, por óbvio, prevista uma das hipóteses do artigo 621 do Código de Processo.
+Qualquer alegação sobre a lisura da análise das provas e o reflexo das teses absolutórias deve ser realizada em ação própria, não se admitindo o habeas corpus como sucedâneo de revisão criminal. Nesse sentido:
+ ..
+E segundo pelo fato desta 3º Câmara Criminal já ter avalizado a lisura da sentença em sede apelativa (0018119-38.2017.8.16.0019 - Ref. mov. 36.1), não podendo funcionar como instância revisora de seu próprio posicionamento, sob pena de subversão da sistemática recursal, nos termos do artigo 624 e 625 c/c artigo 650, §1º, todos do Código de Processo Penal.
+Portanto, voto pelo não conhecimento do habeas corpus impetrado (fls. 133-134, grifei).
+Correto o posicionamento do Tribunal a quo, porquanto esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Apesar da ampliação do uso do remédio heroico, e sem esquecer a sua importância na defesa da liberdade de locomoção, a crescente quantidade de impetrações que, antes, deveriam ser examinadas em instâncias diversas, está prejudicando as funções constitucionais desta Corte. É notável o excessivo volume de habeas corpus, que ultrapassaram 905 mil, em detrimento da eficácia do recurso especial, o que prejudica a delimitação de teses para trazer uniformidade e previsibilidade ao sistema jurídico.
+No caso em apreço, a defesa quis se utilizar de habeas corpus para tratar de matéria própria de revisão criminal, em estratégia que, à semelhança do que ocorre nas Cortes Superiores, acaba incrementando o volume dos habeas corpus, sem que isso possa contribuir à maior eficiência do sistema de justiça.
+Assim, não havendo solicitado ao Tribunal de Justiça a revisão de condenação, e sem existir acórdão sobre essa questão, é incabível eventual constatação de manifesta ilegalidade em seu conteúdo.
+Ademais, não está em curso processo que o Superior Tribunal de Justiça possa conhecer (art. 105 da CF), com a possibilidade de, durante o seu julgamento, deparar-se com irregularidade e conceder ordem de ofício (art. 654, §2º, do CPP).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
