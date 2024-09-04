@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por PERPLAN SANTA TEREZA SUL EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. em face de acórdão assim ementado (fl. 342):
+COMPRA E VENDA TUTELA PROVISÓRIA DE URGÊNCIA Falta de interesse de agir da autora da ação Inocorrência Contrato de compra e venda com pacto de alienação fiduciária Possibilidade do manejo de ação judicial com vistas à rescisão de contrato, mesmo ante a existência de cláusula de alienação fiduciária Precedentes da 10ª Câmara de Direito Privado Alegação da autora de ter havido simulação da alienação fiduciária, com o único propósito de impedir o recebimento, pela compradora, de parte do que já foi pago pelo imóvel Alegação que deve ser objeto de exame em regime de cognição exauriente, após a adequada instrução processual Tutela de urgência bem deferida, já que a consolidação da propriedade do imóvel em nome da vendedora representaria inequívoco óbice ao direito da autora, caso acolhida sua pretensão Multa cominatória estipulada em face de obrigação de não fazer Inexistência de demonstração de dificuldade ou impedimento ao cumprimento da ordem judicial Valor da multa adequado, respeitados os princípios da proporcionalidade e da razoabilidade Decisão mantida. Agravo não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 300, caput, 489, § 1º, VI, e 1.022, I e II parágrafo único, II, do Código de Processo Civil/2015 e dos arts. 22, § 1º, 23, parágrafo único, 26, 27, 29 e 38, da Lei nº 9.514/97, sustentando que, nos contratos de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deve ocorrer nos termos dos arts. 26 e 27 da Lei n. 9.514/1997, afastando-se a regra genérica e anterior prevista no art. 53 do Código de Defesa do Consumidor.
+Contrarrazões apresentadas.
+O recurso está prejudicado.
+Consta, no sítio eletrônico do Tribunal de origem a sentença de extinção da ação com revogação da tutela antecipada. Confira-se:
+Ante o exposto, JULGO EXTINTO o processo, sem apreciação do mérito, nos moldes do artigo 485, VI, do CPC e revogo a tutela antecipada. Em virtude da sucumbência, condeno a autora ao pagamento das custas e honorários advocatícios sucumbenciais do patrono da parte adversa, os quais fixo em 10% sobre o valor da causa, nos moldes do artigo 85, § 2º do CPC.
+Assim, forçoso reconhecer a falta de interesse no julgamento do presente recurso que pretendia discutir a necessidade de extinção da ação por falta de pressuposto processual.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. INDISPONIBILIDADE DO SISTEMA ELETRÔNICO. TUTELA DE URGÊNCIA. SUPERVENIÊNCIA DE SENTENÇA NO PROCESSO ORIGINÁRIO. AGRAVO NÃO PROVIDO.
+1. A prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Cópia de calendário da Corte local não serve para tal finalidade. Precedentes.
+2. Nos termos do art. 224, § 1º, do CPC, apenas "Os dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte, se coincidirem com dia em que o expediente forense for encerrado antes ou iniciado depois da hora normal ou houver indisponibilidade da comunicação eletrônica".
+3. A jurisprudência desta Corte Superior firmou entendimento no sentido de que, em regra, fica prejudicado, pela perda de objeto, o recurso especial interposto contra acórdão que examinou agravo de instrumento de decisão que defere ou indefere liminar ou antecipação de tutela, quando se verifica a prolação da sentença de mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.885.685/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/9/2021, DJe de 27/9/2021.)
+Em face do exposto, nos termos do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o recurso especial.
+Intimem-se.
+EMENTA
