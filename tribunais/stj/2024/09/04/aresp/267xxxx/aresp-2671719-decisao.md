@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por INSTITUTO EDUCACIONAL DO ESTADO DE SÃO PAULO - IESP e SOCIEDADE ADMINISTRADORA E GESTÃO PATRIMONIAL com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Trigésima Quinta Câmara de Direito Privado do Tribunal de Justiça de São Paulo (e-STJ, fl. 448):
+Apelação cível. Embargos à execução. Sentença de parcial procedência. Irresignação dos executados-embargantes. Descabimento. Escorreito desfecho dado ao caso pelo d. Magistrado "a quo", nos termos dofundamento deste v. acórdão. Sentença mantida. Majoração da verba honorária (art. 85, §11, do CPC). Recurso não provido.
+Nas razões do recurso especial (e-STJ, fls. 457-463), as recorrentes apontaram violação ao art. 784, III, do CPC/2015; e aos arts. 206, §3º, e 476 do Código Civil.
+Alegaram a nulidade do título executivo decorrente da ausência da assinatura de duas testemunhas.
+Argumentaram que "embora realmente a assinatura dela segunda testemunha pudesse ser posterior, não ocorreu no caso dos autos, razão pela qual padece de nulidade o título executivo pela ausência de tal requisito de validade" (e-STJ, fl. 461).
+Sustentaram a prescrição do direito da parte recorrida, uma vez que foram citadas após transcorrido o prazo prescricional de 3 (três) anos.
+Aduziram que "não poderiam os recorrentes terem ingressado com a ação de execução sem antes cumprir com a obrigação de indenizá-los pelas benfeitorias realizadas no imóvel, sob pena de violação ao instituto da exceção de contrato não cumprido (art. 476 do Código Civil)" (e-STJ, fl. 463).
+Contrarrazões às fls. 468-475 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 476-478), o que ensejou a interposição do presente agravo (e-STJ, fls. 481-488).
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+De início, quanto à alegada nulidade do título executivo, o Tribunal de origem rechaçou tal tese sob o fundamento de que a ausência da assinatura de duas testemunhas não retira a força executiva do contrato e que a execução estaria disciplinada pelo art. 784, VIII, por se tratar de crédito locatício.
+Veja-se (e-STJ, fl. 450):
+No que tange à arguição de nulidade do título tem-se que não prospera, uma vez que a ausência da assinatura de duas testemunhas não retira a força executiva do contrato, até mesmo por se tratar de execução de crédito locatício, que tem previsão especial no art. 784, inciso VIII, e não no inciso III, do mesmo artigo. E, ainda, tal como bem asseverado pelo d. Magistrado "a quo":
+Ocorre que, nas razões do recurso especial aviado, o fundamento sobre a aplicação do inciso VIII do art. 784 do CPC/2015 não foi rebatido efetivamente.
+Com efeito, não se conhece do recurso especial quando a decisão recorrida se assenta em mais de um fundamento autônomo e o reclamo não abrange todos eles, como na hipótese dos autos. Portanto, incide, por analogia, o óbice da Súmula n. 283/STF.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE BENEFÍCIO. INDENIZAÇÃO DE HORAS TRABALHADAS. SUPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA REPETITIVA. JUÍZO DE CONFORMIDADE. DISTINGUISHING REALIZADO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283/STF. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 211/STJ. LINDB. ÍNDOLE CONSTITUCIONAL.
+1. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+2. Na espécie a recorrente não impugnou o fundamento do acórdão recorrido que fez a distinção entre o presente caso concreto e aquele decidido no recurso especial repetitivo 1.312.736/RS, destacando que a verba em questão, denominada Indenização de Horas Trabalhadas (IHT), sempre integrou a remuneração do beneficiário, não se tratando, portanto, de uma parcela salarial reconhecida pela Justiça do Trabalho.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de aclaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+No que tange à pretextada prescrição do direito da parte agravada, deve incidir também o enunciado da Súmula n. 283/STF. Isso porque a parte agravante deixou de impugnar um fundamento essencial, qual seja, a interrupção da prescrição pela citação, com com retroação nos termos do art. 240, §§1º e 2º do CPC (e-STJ, fl. 452):
+No que tange à prescrição para ajuizamento da ação, a arguição também não merece prosperar, pois verifica-se que a ação foi ajuizada em 29/10/2015 e a citação ocorrida em 2018, cuja demora não se pode imputar à parte exequente, de modo que ocorreu a interrupção da prescrição pela citação, com retroação nos termos do art. 240, §§1º e 2º do CPC.
+Por fim, em relação ao art. 476 do Código Civil (exceção do contrato não cumprido), nota-se que a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Com efeito, é firme o entendimento neste Superior Tribunal quanto à incidência das Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem, tampouco foram opostos os embargos declaratórios com intuito de provocar o debate na instância ordinária, como se observa no caso sob julgamento.
+Ilustrativamente (sem grifo no original):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. INDENIZAÇÃO POR DANO MORAL E MATERIAL. DECISÃO CITRA PETITA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.os 282 E 356 DO STF. RESPONSABILIDADE OBJETIVA DO BANCO. NÃO OCORRÊNCIA. ÔNUS DA PROVA QUE CABE A AUTORA. DANO MORAL. NÃO COMPROVADO. REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre os preceitos legais alegadamente violados, o que não ocorreu na hipótese examinada, sendo de rigor a aplicação, por analogia, das Súmulas n.os 282 e 356 do STF.
+2. O exame da conduta ilícita do Banco depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.588.517/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 200,00 (duzentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. APELAÇÃO CÍVEL. 1. NULIDADE DO TÍTULO EXTRAJUDICIAL E PRESCRIÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO. SÚMULA N. 283/STF. 2. ART. 476 DO CÓDIGO CIVIL. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
