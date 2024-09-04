@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 5º, 6º, 9º e 10 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 431):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CÉDULA DE CRÉDITO INDUSTRIAL - LAUDO PERICIAL QUE CONSTATOU A EXISTÊNCIA DE CRÉDITO EM FAVOR DA APELADA - ADOÇÃO DOS ÍNDICES DE JUROS E CORREÇÃO PREVISTOS NO CONTRATO - LAUDO ELABORADO PELO SETOR DE PERÍCIAS DESTE TRIBUNAL - ART. 3º, § 2º, DA RESOLUÇÃO Nº 35/2006 QUE EXCLUI A FIXAÇÃO DE HONORÁRIOS PERICIAIS - MANUTENÇÃO DA CONDENAÇÃO EM CUSTAS E HONORÁRIOS - PRINCÍPIO DA CAUSALIDADE - SENTENÇA REFORMADA PARCIALMENTE - RECURSO PARCIALMENTE PROVIDO - DECISÃO UNÂNIME
+Sustenta a parte agravante que existiram equívocos a respeito da metodologia empregada para a apuração dos valores na elaboração do laudo pericial.
+Afirma que as despesas processuais não devem ser imputadas ao banco.
+Alega que é vedada a decisão surpresa, razão pela qual a sentença deve ser anulada.
+Assim posta a questão, passo a decidir.
+Inicialmente, incide o enunciado n. 282 da Súmula do STF quanto à questão referente à decisão surpresa, pois é estranha ao julgado recorrido, a ela faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Verifico, por outro lado, que o Tribunal de origem entendeu que não houve equívoco no tocante à metodologia empregada para a apuração dos valores, assim como manteve a imputação dos ônus de sucumbência em desfavor do banco, conforme se extrai dos seguintes trechos (fls. 432/433):
+(..)
+Trata-se de uma Ação de Cobrança na qual o banco alega ser credor de quantia proveniente de uma cédula de crédito industrial, na qual fora solicitada renegociação da dívida, estando o requerido inadimplente junto à instituição financeira.
+No que diz respeito à alegação de que não foram considerados os encargos pactuados no título de crédito, para a apuração do saldo devedor, vislumbra-se nos demonstrativos que fora adotada a taxa de juros de 4% ao ano, correção pelo TJLP e juros moratórios de 1% ao mês, observando assim a taxa pactuada na cédula de crédito às fls. 13, no tópico "ENCARGOS FINANCEIROS".
+Quanto à evolução do saldo devedor para cálculo dos valores das parcelas de reembolso, o apêndice IV, de fls. 299/301, traz de forma clara a planilha de evolução do saldo devedor, também não assistindo razão ao apelante neste ponto. No que toca ao questionamento do valor encontrado para a primeira parcela, de R$ 1.777,81, cabe transcrever os esclarecimentos do perito judicial de fls. 352: "Quanto ao item 2 c, no demonstrativo de cálculo, APÊNDICE IV - Planilha de Evolução do Saldo Devedor, demonstra que o valor da parcela recalculada, corresponde a R$ 1.771,81, o valor da amortização de R$ 1.558,43, e a correção do saldo devedor, que aplicando o índice de correção, importa R$ 702,88. Veja que na primeira parcela, saldo devedor inicial de R$ 66.309,66, menos a amortização de R$ 1.558,43 mais a correção do saldo de R$ 702,88, importa no saldo devedor de R$ 65.454,11."
+Na verdade, o apelante, em suas razões recursais, transcreve os mesmos questionamentos feitos ao perito judicial e já esclarecidos nos autos.
+Não há que se falar em saldo credor para o Banco do Nordeste e sim em favor da parte apelada pois o Apêndice III do Laudo Pericial, demonstra cabalmente o total devido, o montante pago pelo apelado e a diferença que lhe cabe (fls. 296/298), totalizando assim, em favor de Maria Helena Cardoso Barbosa, o valor de R$ 27.769,79.
+Passando à análise da condenação do banco ao pagamento dos honorários da perícia técnica, verifica-se que o laudo pericial de fls. 290/291 fora subscrito por José Adelmo de Góis, Analista Judiciário - Contabilidade, servidor dos quadros deste Tribunal de Justiça, elaborado, portanto pela Divisão de Perícias Contábeis. Assim, nos termos do art. 3º, § 2º da Resolução nº 35/2006, alterada pela Resolução nº 17/2018, ficam excluídos da incidência de fixação de honorários as perícias dos processos para as quais o Tribunal de Justiça tenha atendido a solicitação através de quadro próprio.
+Art. 3º Os honorários fixados pelos Juízes seguirão a Tabela constante do Anexo Único. (Alterado pela Resolução nº 17/2018)
+(..)
+§ 2º Ficam excluídos da incidência da fixação de honorários as perícias dos processos para as quais o Tribunal de Justiça tenha atendido a solicitação através de quadro próprio. (Alterado pela Resolução nº 17/2018)
+Logo, deve ser reformada a sentença neste aspecto a fim de afastar a condenação ao pagamento dos honorários periciais.
+Quanto à indevida condenação em custas e honorários, considerando que não houve reforma da sentença e verificando que na verdade a requerida não deu causa ao ajuizamento da demanda, posto que é na verdade credora de valores junto ao banco apelante, também deve ser mantida a sentença neste aspecto.
+Forte em tais lineamentos, conheço do recurso para lhe DAR PARCIAL PROVIMENTO tão somente para afastar a condenação do apelante ao pagamento dos honorários periciais. Nos termos do art. 85, §11 do CPC, majoro os honorários para 12%.
+(..) (destaques nossos)
+Com efeito, anoto que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
