@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com seguinte ementa:
+APELAÇÃO PRODUÇÃO ANTECIPADA DE PROVAS - COISA JULGADA - OCORRÊNCIA. Elementos da ação - Partes, pedido e causa de pedir. Identidade - Trânsito em julgado da ação anterior - Incidência do artigo 485, inciso V, do CPC - Ocorrência: - Sendo o pedido decorrente da mesma causa de pedir, em ações envolvendo as mesmas partes, tendo uma transitado em julgado, configura-se coisa julgada, nos termos do artigo 337, inciso VII, §§ 2º e 4º, do Código de Processo Civil. Extinção da demanda, sem resolução do mérito, que se impõe.
+RECURSO NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022, 489, 337, §§ 1º, 2º e 4º, e 485, V, do Código de Processo Civil, 43, § 1º, e 73 do Código de Defesa do Consumidor sob os argumentos de que o acórdão local é omisso; que não há coisa julgada, já que se discute inscrições distintas em cadastros de maus pagadores; e que os dados devem ser fidedignos.
+Assim delimitada a controvérsia, passo a decidi.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Colhe-se do acórdão local, quanto ao mais, que o recorrente "ajuizou ação de produção antecipada de provas contra BANCO BRADESCO CARTÕES S/A, narrando que, ao tentar realizar compras no comércio local, tomou conhecimento da existência de apontamento da lavra do réu em seu nome, atinente ao contrato n. 4271.6708.9066.6047, no valor de R$ 1.276,57, vencido em 16.02.2018" (e-STJ, fl. 411).
+Concluiu-se, não obstante, que "o autor propôs anteriormente ação de produção antecipada de provas contra Banco Bradesco S/A, distribuída em 21.04.2021 e autuada sob o n. 1007978-66.2021.8.26.0554, que tramitou perante a 3ª Vara Cível da Comarca de Santo André, por meio da qual pretendeu a exibição dos documentos atinentes ao contrato levado a registro perante os órgãos de proteção ao crédito, no valor de R$ 1.276,57, vencido em 16.02.2018" (e-STJ, fl. 413).
+A alegação, portanto, de que não teria havido coisa julgada é incompreensível, a atrair as disposições dos verbetes n. 284 da Súmula do Supremo Tribunal Federal e 7 desta Casa.
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo. Prejudicadas as demais questões.
+Intimem-se.
+EMENTA
