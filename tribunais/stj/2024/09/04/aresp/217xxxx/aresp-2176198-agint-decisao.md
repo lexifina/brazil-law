@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por PRONTO CONSTRUTORA E INCORPORADORA LTDA. (PRONTO) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado, em virtude da falta de comprovação da similitude fática do dissídio jurisprudencial invocado.
+Nas razões do presente inconformismo, PRONTO defendeu que o dissídio interpretativo restou devidamente comprovado, sendo paradigma o voto proferido no REsp n. 1.723.519/SP, de relatoria da Ministra Isabael Galotti, que deu provimento ao recurso especial a fim de major de 15% (quinze por cento) para 25% (vinte e cinco por cento) o percentual de retenção em razão de desfazimento de contrato de compra e venda de imóvel por interesse do adquirente.
+Não foi apresentada contraminuta (e-STJ, fls. 295).
+É o relatório.
+Da reconsideração do decisum agravado
+Em virtude das razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 279/281 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 261/268.
+Do agravo em recurso respecial
+O recurso merece ser conhecido e provido.
+Trata-se de agravo em recurso especial interposto por PRONTO CONSTRUTORA E INCORPORADORA LTDA. (PRONTO) contra decisão que não admitiu seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+(1) Do dissídio jurisprudencial
+Cuida-se, na origem, de ação de devolução de quantias pagas em virtude de rescisão contratual movido por FRANCISCA em face de PRONTO CONSTRUTORA E INCORPORADORA LTDA-ME.
+O pedido foi julgado parcialmente procedente, a fim de determinar que PRONTO restituísse 15% dos valores pagos, sendo a descisão mantida em apelação, nos termos do acórdão a seguir ementado:
+APELAÇÃO CÍVEL. JULGAMENTO . PROMESSA DE COMPRA E VENDA DEEXTRA PETITAIMÓVEL RURAL. DESISTÊNCIA DESMOTIVADA DA COMPRADORA. DISTRATO. CLÁUSULAPENAL. ART. 413 DO CC.
+I - A r. sentença reduziu a cláusula penal e condenou a Construtora-ré à restituição de parte dos valores pagos pela autora referentes à promessa de compra e venda de imóvel rural, portanto o provimento judicial não extrapolou o pedido. Rejeitada a preliminar de julgamento .
+extra petita.
+II - O distrato extrajudicial pode ser revisado sob o argumento de nulidade de cláusulas apontadas como abusivas no contrato originário.
+III - Operada a resolução contratual por desistência desmotivada da compradora, ante a irrevogabilidadedo negócio jurídico, deve a autora suportar os encargos decorrentes da aplicação da cláusula penal.
+IV - Nos termos do art. 413 do CC, é lícito ao Juiz reduzir o valor da cláusula penal, equitativamente, se aobrigação principal tiver sido cumprida em parte ou se o montante da penalidade for manifestamente excessivo, observadas a natureza e a finalidade do negócio. Mantida a r. sentença quanto à retenção de 15% sobre o montante pago pela autora.
+V - O fato de a autora ter dado causa ao desfazimento do negócio jurídico não autoriza a restituição dos valores pagos de forma parcelada pela Construtora-ré, Súmula 543 do e. STJ.
+VI - Apelação desprovida. (e-STJ, fl. 188).
+Nas razões do do apelo especial, PRONTO afirmou que o acórdão recorrido, ao fixar o percentual de retenção em 15% dos valores pagos em virtude do desfazimento contratual motivado pelo comprador, deu interpretação divergente ao do entendimento desta Corte quanto ao artigo 413 do Código Civil e dissentiu da orientação firmada em sede de recurso repetitivo.
+Razão assiste à insurgência.
+Com relação ao tema, a eg. Segunda Seção desta Corte, no julgamento do REsp n. 1.723.519/SP, rel. Min. MARIA ISABEL GALLOTTI, DJe 2/10/2019, ficou estabelecido que, nos casos de rescisão de contrato de compra e venda por culpa do adquirente, ausente qualquer peculiaridade na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei nº 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4/10/2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato.
+Eis a ementa do referido julgado:
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018. INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido.
+(REsp n. 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019, DJe de 2/10/2019.)
+Na espécie, observa-se que a Corte distrital, ao manter a sentença que fixou em 15% (quinze por cento) o percentual a ser restituído ao comprador em virtude do desfazimento imotivado do contrato de compra e venda, dissentiu da orientação firmada no julgamento do recurso especial repetitivo, acma mencionado, merecendo, portanto, sua reforma.
+Nessas condições, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de fixar em 25% (vinte e cinco por cento) o percentual de retenção ante o desfazimento imotivado do contrato de compra e venda firmado entre as partes, mantida a sucumbência fixada na origem.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+EMENTA
+CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE RESCISÃO CONTRATUAL POR INTERESSE DO ADQUIRENTE. PERCENTUAL DE RETENÇÃO FIXADO EM 15%. DISSÍDIO JURISPRUDENCIAL COMPROVADO. DECISÃO REFORMADA, PARA FIXAR O ÍNDICE EM 25%. PRECEDENTE FIRMADO EM RECURSO REPETITIVO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
