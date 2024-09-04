@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MAQUILES FERNANDES MOTA, tendo como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, em virtude do julgamento do HC n. 9001462-80.2024.8.23.0000.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da Vara de Entorpecentes e Organizações Criminosas da Comarca de Boa Vista, no âmbito da ação penal n. 0841996-93.2023.8.23.0010, à pena de 8 (oito) anos e 4 (quatro) meses de reclusão, além do pagamento de 835 (oitocentos e trinta e cinco) dias-multa, no regime inicial fechado, pela prática do crime previsto no artigo 33 da Lei 11.343/2006 (fls. 27-48).
+A defesa impetrou o HC n. 9001462-80.2024.8.23.0000 perante o Tribunal de Justiça, que não conheceu do habeas corpus (fls. 15-21).
+Na presente impetração, busca-se a concessão da ordem para anular o acórdão (fls. 08-14) por negativa de prestação jurisdicional.
+É o relatório. DECIDO.
+A controvérsia cinge-se em torno da possível coação ilegal decorrente da negativa de prestação jurisdicional, consubstanciada pelo não conhecimento do habeas corpus impetrado originariamente perante o Tribunal de Justiça.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023: "Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício."AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023: "Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado."Tendo em vista a possibilidade de concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal, destaco que o habeas corpus originalmente impetrado na origem não foi conhecido em razão de sua impetração concomitante com o recurso de apelação.
+Eis os fundamentos do acórdão (fls. 15-21):
+ ..
+Como esclarecido no Relatório, o Paciente foi processado e condenado pela Vara Criminal de Pacaraima a uma pena definitiva de 8 (oito) anos e 4 (quatro) meses de reclusão e ao pagamento de 835 (oitocentos e trinta e cinco) dias-multa, pela prática do crime tipificado no art.33, caput, da Lei nº 11.343/2006.
+No caso em análise, verifica-se que existe uma apelação (autos nº 0841996-93.2023.8.23.0010), com o mesmo pedido objeto deste writ, pendente de julgamento, estando tal recurso, hodiernamente, com Vista à douta Procuradora de Justiça para exarar Parecer.
+Logo, por ser a apelação o recurso de maior amplitude, torna-se descabida a apreciação da matéria na via estreita do writ, sob pena de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..
+Desse modo, em consonância com o parecer do Ministério Público, não conheço do habeas corpus.
+ ..
+Nos termos da jurisprudência consolidada nesta Corte Superior, "inviável o conhecimento de habeas corpus impetrado concomitantemente com o recurso próprio, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais" (AgRg no HC n. 806.646/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/6/2023, DJe de 22/6/2023).
+Corroborando tal posicionamento: AgRg no HC n. 856.189/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/10/2023, DJe de 20/10/2023, AgRg no HC n. 549.368/SC, Quinta Turma, Relator Ministro Joel Ilan Paciornik, DJe de 19/12/2019 e AgRg no RHC n. 175.281/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Com efeito, não há no acórdã o coação ilegal ou teratologia que desafie a concessão da ordem nos termos do § 4º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
