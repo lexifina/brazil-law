@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ANDRE DONIZETE CORREA com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim ementado (e-STJ, fls. 281 - 287):
+"RECEPTAÇÃO DOLOSA Autoria e materialidade delitivas comprovadas - Absolvição ou desclassificação para a forma culposa Impossibilidade Pena e regime prisional bem fixados Substituição da corporal por pena alternativa ou concessão de "sursis" - Descabimento - Recurso improvido."
+Os embargos de declaração foram rejeitados (e-STJ, fls. 300-303).
+Nas razões do recurso especial, a parte recorrente sustenta violação dos arts. 155, 157, 245 do CPP e dos arts. 44, 59, 180 do CP, argumentando que as provas que embasaram a condenação foram obtidas de forma ilegal, em violação ao direito constitucional de inviolabilidade domiciliar. A defesa também aponta que houve erro na dosimetria da pena, uma vez que o réu é primário e o crime não envolveu violência ou grave ameaça, o que justificaria a substituição da pena privativa de liberdade por restritiva de direitos. Por fim, alega-se a inexistência de dolo específico na conduta do réu, o que descaracterizaria o crime de receptação.
+Com contrarrazões (e-STJ, fls. 385-392), o recurso especial foi inadmitido na origem (e-STJ, fls. 402-404), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 557-559).
+É o relatório.
+Decido.
+O recurso não deve ser conhecido.
+A decisão que inadmitiu o recurso especial na origem pautou-se na incidência da Súmula 7 do STJ e das Súmulas 282 e 356, ambas do STF, fundamentos que não foram adequadamente infirmados nas razões do agravo em recurso especial.
+S obre a aplicação da Súmula 7/STJ, a parte agravante reprisou os argumentos do recurso especial, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo.
+Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não foi feito.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182/STJ. PENAL E PROCESSUAL PENAL. FURTO SIMPLES NA MODALIDADE TENTADA. MINUTA DE AGRAVO QUE NÃO INFIRMA DE FORMA ESPECIFICA E CONCRETA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. IMPUGNAÇÃO GENÉRICA. SÚMULA N. 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO INADMITIDO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido".
+(AgRg no AREsp 1789363/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021)
+Quanto às Súmulas 282 e 356, ambas do STF, o agravante limitou-se a afirmar, de forma genérica. No ponto, o recurso é igualmente insuscetível de conhecimento, porque, conforme a orientação desta Corte Superior, não basta afirmar, de forma genérica, que a peça recursal protocolizada atende aos pressupostos de admissibilidade.
+Ao revés, o princípio da dialeticidade requer a efetiva demonstração de que a decisão recorrida merece reparos, por meio da exposição de argumentos lógicos e que evidenciem, de modo claro e objetivo, que houve equívoco nas razões de decidir adotadas (AgRg no AREsp n. 2.309.916/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 3/7/2023).
+Por conseguinte, a Súmula 182/STJ impede que se passe ao mérito do agravo em recurso especial, o qual não supera o juízo de admissibilidade.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
