@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se os autos de habeas corpus, compedido liminar, impetrado em favor de ANTONIO CASTRO SANTANA, contra adecisão liminar proferida pela Desembargadora Relatora na revisão criminal nº 0633460-81.2023.8.06.0000, em trâmite no Tribunal de Justiça do Estado do Ceará e que não conheceu da ação, sob o fundamento de que as situações nela arguidas pelo autor não se enquadram nas hipóteses do artigo 621 do Código de Processo Penal.
+Em breve resumo, vê-se dos autos que ANTONIO CASTRO SANTANA, ora paciente, foi denunciado pela prática do crime de homicídio qualificado nos autos da ação penal nº 0001637-60.2000.8.06.0125.
+Submetido a julgamento pelo Conselho de Sentença do Tribunal do Júri, ele foi absolvido com base no quesito genérico.
+Contra essa decisão, o Ministério Público Estadual interpôs recurso de apelação sustentando que a decisão absolutória fora manifestamente contrária à prova dos autos, razão pela qual pleitou a anulação do julgamento e a realização de novo júri. A Corte Estadual, por sua vez, deu provimento ao recurso, havendo o respectivo acórdão transitado em julgado após a interposição derecurso especial pelo réu mas que sequer ultrapassou o juízo de admissibilidade noTribunal Estadual.
+Diante disso, ANTONIO CASTRO SANTANA ajuizou uma revisão criminal perante o TJCE, a fim de desconstituir aquela decisão e obstar a realização de um novo júri. A Corte Estadual, entretanto, como visto, por meio de decisão monocrática da Desembargadora relatora, não conheceu darevisão criminal.
+Contra essa decisão foi impetrado o writ ora analisado, no qual se sustenta, em síntese, a ilegalidade do acórdão proferido peloTJCE nos autos do processo-crime nº 0001637-60.2000.8.06.0125 e que deu provimentoao recurso de apelação do Ministério Público para anular a decisão absolutória proferida pelo Conselho de Sentença, sob a alegação de ser ela manifestamente contrária à provados autos. Argumenta o impetrante, nessa linha, que a decisão viola o princípioconstitucional da soberania dos veredictos.
+Autuado o feito nesse STJ, indeferi o pedido liminar e solicitei informações à autoridade apontada como coatora e ao Juízo de primeiro grau, as quais foram devidamente prestadas, esclarecendo que a nova Sessão do Tribunal do Júri está designada para o dia 30/8/2024, às 8 hrs.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+É que, consoante relatado, a impetração volta-se contra decisão monocrática proferida pela Desembargadora Relatora que não conheceu da revisão criminal ajuizada perante a Corte Estadual, decisão essa que, como se sabe, teria que ser impugnada por meio da interposição do agravo regimental, a fim de que a matéria fosse analisada pelo órgão colegiado competente da Corte a quo.
+Desse modo, incide no caso concreto o enunciado da súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, emhabeas corpus requerido a tribunal superior, indefere aliminar."
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
