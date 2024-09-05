@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LUCAS SABATIN DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusão no regime fechado e ao pagamento de 680 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 c/c art. 61, I, do Código Penal.
+O Tribunal de origem negou provimento ao recurso de apelação interposto pela defesa, mantendo integralmente a sentença.
+Na presente via, a impetrante pretende a desclassificação para o delito previsto no art. 28 da Lei de Drogas, tendo em vista ter sido encontrado com o paciente pequena quantidade de drogas - 53,4 gramas de maconha (fl. 6).
+Afirma que a sentença se deu com base em meras suposições e no histórico de condenações passadas do condenado, mas que, no conjunto probatório do presente caso, não é possível comprovar que o paciente se dedique ao tráfico de drogas. Aponta que, caso não se entenda pela desclassificação do delito, é necessário realizar nova dosimetria da pena por entender que não é possível utilizar como fundamento uma mesma condenação para agravar a situação do condenado quanto à reincidência e aos maus antecedentes.
+Nesse ponto, destaca, ainda, que "mantida a agravante de reincidência e os maus antecedentes, o que não se espera, imperioso que os maus antecedentes seja ao menos reduzido para fração de 1/8, ou seja, devendo ser aplicada a fração mínima, e não 1/6 como foi fixado no caso em apreço" (fl. 10).
+Requer, liminarmente e no mérito, a desclassificação da conduta do paciente para o delito previsto no artigo 28 da Lei nº 11.343/06; alternativamente, caso mantida a condenação pelo art. 33 da Lei de Drogas, que seja afastada a ilegalidade apontada na dosimetria da pena do paciente; ou "na hipótese de ser mantida a reincidência e ainda os maus antecedentes, que seja diminuída a fração de 1/6 para 1/8 na primeira fase da dosimetria da pena" (fl. 11).
+O pedido liminar foi indeferido pela Presidência (e-STJ fls. 56-57).
+Informações prestadas pela origem (e-STJ fls. 63-142).
+Parecer do Ministério Público Federal pela concessão da ordem, assim ementado (e-STJ fl. 146):
+HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE USO. POSSIBILIDADE. APREENSÃO DE PEQUENA QUANTIDADE DE MACONHA, DISSOCIADA DE QUALQUER OUTRO ELEMENTO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. NÃO CONHECIMENTO DO WRIT, E A CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Nesse sentido:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024). Grifos acrescidos.
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024). Grifos acrescidos.
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023). Grifos acrescidos.
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Do exame dos elementos que instruem os autos, nota-se flagrante ilegalidade na decisão do Tribunal a quo a autorizar a concessão da ordem de ofício para desclassificar a conduta imputada ao paciente para o delito tipificado no artigo 28 da Lei 11.343/2006.
+No mesmo sentido é o parecer favorável do Ministério Público Federal, o qual acolho como razões de decidir (e-STJ fls. 146-149):
+O cerne da controvérsia está em saber se a conduta protagonizada pelo paciente configura crime de tráfico de drogas ou de porte para consumo próprio.
+Na hipótese, os fatos envolvem a apreensão de apenas 53,4 gramas de "maconha". É cediço que a doutrina classifica o crime tipificado no artigo 33 da Lei nº 11.343/06 (tráfico ilícito de drogas) como de ação múltipla ou de conteúdo variado, isto é, mesmo que o agente pratique um ou vários núcleos do tipo, ele responderá por delito único, devendo a quantidade de verbos praticados ser levada em conta pelo juiz na dosimetria da pena.
+Destaca-se, ainda, que tal infração penal é considerada crime de perigo abstrato contra a saúde pública, sendo bastante a prática de um dos comportamentos típicos, o que dispensa a comprovação da efetiva prova do risco.
+Contudo, dada a semelhança dos comportamentos típicos que configuram o crime de tráfico com aqueles pertinentes à posse de droga para consumo pessoal, é necessário sopesar alguns critérios para que se possa fazer a distinção entre o usuário e o traficante, quais sejam: a natureza e quantidade da substância apreendida, o local e condições da ação, as circunstâncias sociais e pessoais que envolvem a ação e a prisão, além da conduta e antecedentes do agente, nos moldes do que dispõe o artigo 28, § 2º da Lei nº 11.343/06.
+Segundo Renato Brasileiro de Lima :
+(..)
+No caso em tela, além de ter sido apreendida ínfima quantidade de droga, não há nos autos outras provas corroborando a conduta de tráfico pelo paciente.
+Desse modo, inexiste, nos autos, elementos aptos a sustentar a tipificação do art. 33, caput, da Lei 11.343/2006, pois ninguém pode ser condenado por presunção dissociada de dados concretos.
+Logo, considerando as peculiaridades do caso em tela, verifica-se o constrangimento ilegal, sendo de rigor a reforma do acórdão recorrido.
+Vale conferir posicionamento desta Corte:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PROVAS DE AUTORIA INSUFICIENTES. DESCLASSIFICAÇÃO. ART. 28 DA LEI N. 11.343/2006.
+1. Admite-se, em recurso especial, a desclassificação do delito quando, para tanto, bastar a revaloração dos fatos e provas delineados no acórdão, como no caso em exame.
+2. A apreensão de 10g (dez gramas) de cocaína e 25g (vinte e cinco gramas) de maconha indica, neste caso, a configuração do tipo descrito no art. 28 da Lei n. 11.343/2006, pois, além desses elementos, nada mais foi produzido que sinalize a possível prática do crime de tráfico de entorpecentes.
+3. Além disso, não foram localizados petrechos comuns a essa prática (balança de precisão, calculadora, material para embalar a droga, etc.), e o indivíduo apontado pelos agentes policiais como usuário que teria comprado o entorpecente do réu, não foi ouvido em juízo.
+4. A condenação pressupõe prova robusta, que indique, sem espaço para dúvida, a existência do crime e a prova de autoria, situação não ocorrente na espécie, em que o Juízo condenatório apoiou-se em uma presunção.
+5. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.417.215/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/4/2024, DJe de 10/4/2024) - Grifos acrescidos.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, conforme parecer favorável do MPF, para desclassificar a conduta imputada ao paciente para aquela prevista no artigo 28 da Lei 11.343/2006.
+Comunique-se, com urgência, ao Tribunal de origem e ao Juízo singular.
+Publique-se. Intimem-se.
+EMENTA
