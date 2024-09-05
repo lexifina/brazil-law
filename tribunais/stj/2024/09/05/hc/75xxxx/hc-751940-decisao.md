@@ -1,0 +1,29 @@
+DECISÃO
+Tratam os autos de habeas corpus impetrado em favor de RAFAEL DAROCHA COELHO contra acórdão proferido pela 1ª Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, que restou assim ementado (e-STJ, fl. 19):
+APELAÇÃO-CRIME. JÚRI. HOMICÍDIO QUALIFICADO. AUSÊNCIADE NULIDADES. VEREDICTO QUE NÃO SE AFIGURAMANIFESTAMENTE CONTRÁRIO À PROVA DOS AUTOS,ENCONTRANDO RESPALDO EM TESTIGOS COLHIDOS AO LONGODA INSTRUÇÃO CRIMINAL. SOBERANIA DA DECISÃO POPULAR.ÍNTIMA CONVICÇÃO DOS JURADOS. ERRO OU INJUSTIÇANO TOCANTE À APLICAÇÃO DA PENA.INOCORRÊNCIA. DECISÃO MANTIDA. PUNIÇÃO FIXADAEM CONSONÂNCIA COM OS PRINCÍPIOSDA PROPORCIONALIDADE, RAZOABILIDADE, NECESSIDADE,SUFICIÊNCIA À REPROVAÇÃO EPREVENÇÃO DO CRIME. APELOS DESPROVIDOS.
+Sustenta a impetrante que merece ser declarada a nulidade do julgamento em relação ao paciente, diante de contradição nas respostas dos jurados aos quesitos apresentados, uma vez que o delito de corrupção de menores (conexo ao crime de homicídio) foi atribuído na denúncia a todos os denunciados e somente o corréu DAVID LOPESMONTEIRO e o paciente RAFAEL DA ROCHA COELHO restaram condenados por ambosos delitos, incorrendo os jurados, portanto, em divergência. Requer seja anulado ojulgamento, com nova submissão do paciente ao Tribunal do Júri (fls. 03-18).
+O pedido liminar foi indeferido (e-STJ, fls. 3092-3094).
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, na condição de interessado, manifestou-se pelo não conhecimento da impetração (fls. 3138-3140).
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+Ao apreciar os apelos interpostos pelas defesas e pela acusação, o Tribunal a quo afastou a nulidade aventada no presente writ, por entender que (fls. 27):
+"No que diz respeito à alegação de nulidade - arguidas pelas defesas de Geane William - por contradição nas respostas dos quesitos e ausência de quesitoessencial, a referida tese não merece acolhimento. O artigo 571, inciso VIII, do Código de Processo Penal, dispõe que asnulidades do julgamento em plenário devem ser suscitadas logo depoisde ocorrerem. No caso de nulidade referente à formulação de quesitos, omomento para serem alegadas é logo após a leitura dos quesitos pelo juiz-presidente do Tribunal do Júri.
+Não consta na ata de sessão de julgamento qualquer inconformidade emrelação aos quesitos apresentados. Então, a questão está preclusa."
+Referido entendimento não comporta reparos.
+A jurisprudência dessa Corte Superior de Justiça é no sentido de que a alegação de nulidade por vício na quesitação deve ser feita após a leitura dos quesitos e a explicação dos critérios pelo Juiz-presidente, sob pena de preclusão, nos termos do art. 571 do Código de Processo Penal.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
