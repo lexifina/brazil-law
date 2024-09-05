@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de Michael Roberto da Silva Oliveira e Joao Victor Santos Amaral - condenados como incursos nos crimes de roubo majorado e receptação simples -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1512075-55.2024.8.26.0228), comporta pronto acolhimento.
+Com efeito, busca a impetração o afastamento da aplicação simultânea das causas especiais de aumento do emprego de arma e concurso de agentes, ao argumento de que tanto a r. sentença quanto o v. acórdão não apontaram qualquer elemento do caso concreto para justificar a aplicação cumulativa de ambas as causas de aumento (fl. 7).
+De fato, da análise dos autos, observo que o Juízo de Direito da 6ª Vara Criminal da comarca da Capital/SP justificou o aumento considerando apenas a existência das majorantes, ao consignar que, considerando-se a gravidade concreta dos fatos, precisamente apurados neste processo - roubo praticado por dois agentes, com arma de fogo - não havendo de se considerar na aplicação de apenas uma causa de aumento. Afastando-se o disposto do artigo 68 parágrafo único do Código Penal (fl. 85) e o Tribunal considerou que o crime envolveu bem de inegável utilidade para as pessoas, nos dias que correm, sendo que sua privação causa enorme transtorno para as vítimas. Além disso, Michael é reincidente. Dados que incrementam a censurabilidade do comportamento, de sorte que não se aplica o aumento único (fl. 100). Tais elementos são inerentes ao próprio tipo penal e a condição do agente foi devidamente valorada na dosimetria.
+Redimensionando-se a reprimenda imposta, temos:
+Mantida a fixação da pena em 4 anos de reclusão e 10 dias-multa, conforme realizado pelas instâncias a ordinárias em relação a ambos os acusados, na terceira etapa, incide a majorante do emprego de arma em 2/3, resultando a reprimenda em 6 anos e 8 meses de reclusão, e 16 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+Tal pena, somada à da receptação simples (1 ano de reclusão) resulta em 7 anos e 8 meses de reclusão.
+Sendo Joao Victor primário e fixada a pena-base no mínimo legal, cabível o regime inicial semiaberto de cumprimento da pena. E sendo Michael reincidente, adequada a manutenção do regime inicial fechado.
+Em face do exposto, concedo liminarmente a ordem impetrada para afastar a aplicação cumulativa das majorantes do emprego de arma e concurso de agentes, resultando a reprimenda dos réus em 6 anos e 8 meses de reclusão, e 16 dias-multa, fixado o regime inicial semiaberto para o paciente Joao Victor Santos Amaral e mantido o regime inicial fechado para o paciente Michael Roberto da Silva Oliveira.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO E RECEPTAÇÃO SIMPLES. DOSIMETRIA DA PENA. CONSIDERAÇÃO DE DUAS MAJORANTES DA PARTE ESPECIAL SEM A DEVIDA FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
