@@ -1,0 +1,16 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Tiffany dos Santos Brito - condenada por roubo circunstanciado, extorsão qualificada e extorsão mediante sequestro a 19 anos e 4 meses e de reclusão, e a 23 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 184/305), não comporta processamento.
+Com efeito, busca a impetração a absolvição da paciente ou, subsidiariamente, o redimensionamento da pena imposta e abrandamento do regime inicial - na condenação proferida na Ação Penal n. 1514813-02.2023.8.26.0050 (fls. 306/353 - da 19ª Vara Central Criminal da comarca de São Paulo) -, aos argumentos de:
+a) inexistência de prova suficiente para a condenação - assentando a nulidade absoluta do acórdão, eis que proferido de forma contrária ás provas dos autos e proferida sem a devida fundamentação e motivação (fl. 5);
+b) configuração de continuidade delitiva - defendendo que seja reconhecido o crime único, afastados os delitos previstos nos artigos 158, parágrafo 3º e 159, parágrafo 1o, ambos do Código Penal, eis que não há prova nos autos de seu cometimento pela paciente (fl. 13); e
+c) possibilidade de abrandamento do regime inicial para o semiaberto - infirmando que a paciente é primária e tem apenas 19 anos de idade. Nunca é demais lembrar que a gravidade delituosa já é considerada na cominação da reprimenda (fl. 21).
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fundamentação da Corte estadual quanto às pretensões mandamentais está de acordo com o entendimento desta Corte Superior. Confira-se:
+a) a desconstituição das premissas fáticas assentadas pelas instâncias ordinárias, de existência de prova suficiente para a condenação, demandaria o reexame de todo o conjunto fático-probatório, o que é incabível na via do habeas corpus;
+b) tendo as instâncias ordinárias concluído que a paciente teria praticado condutas diversas, agindo com desígnios autônomos, o reconhecimento de crime único de roubo em detrimento do concurso material com os delitos de extorsão qualificada e extorsão mediante sequestro demandaria revolvimento probatório não admitido na estreita via eleita; e
+c) mantida a pena de 19 anos e 4 meses e de reclusão, não há ilegalidade na fixação do regime inicial fechado (art. 33, § 2º, do CP).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS IMPETRADO NO PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. ROUBO CIRCUNSTANCIADO, EXTORSÃO QUALIFICADA E EXTORSÃO MEDIANTE SEQUESTRO. PRETENSÕES DE ABSOLVIÇÃO E DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. NECESSIDADE DE REEXAME FÁTICO -PROBATÓRIO. INVIABILIDADE. REGIME FECHADO. PENA SUPERIOR A 8 ANOS. EXPRESSA PREVISÃO LEGAL. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
