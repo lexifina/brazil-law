@@ -1,0 +1,22 @@
+DECISÃO
+MESSIAS SILVA RIBEIRO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0622069-08.2018.8.06.0000.
+Nas razões deste recurso, a defesa postula a nulidade da ação penal, ao argumentar o afastamento do réu da audiência de instrução e julgamento sem consentimento do defensor constituído; a não apreciação do pedido da defesa para realização de diligências; a inexistência de fundamentação inidônea para a dosimetria da pena e, por fim, a ausência de motivação da decisão que recebeu a denúncia.
+Decido.
+O Tribunal de origem não conheceu do habeas corpus impetrado pela defesa ao salientar o que ora transcrevo (fl. 234):
+ ..  O objetivo da presente impetração, como antedito, é o reconhecimento da ocorrência de inúmeras nulidades, segundo a ótica do causídico subscritor da inicial, ocorrentes na ação penal respondida pelo ora paciente, sendo, de bom alvitre, que se deixe tal apreciação, essas e outras questões porventura aventadas, ao momento do julgamento da Apelação Crime, sede apropriada para melhor análise dos temas aqui suscitados.
+Nesse contexto, forçoso reconhecer que o presente writ está sendo impropriamente manejado como sucedâneo recursal, circunstância, na linha da melhor jurisprudência, conducente da linha obstativa do seu conhecimento  .. .
+Opostos embargos de declaração, eles foram rejeitados pelo Colegiado (fls. 670-675).
+Assim, a partir da leitura do acórdão impugnado, constata-se que o tema relativo ao pleito de nulidade não foi objeto de análise pelo Tribunal estadual, circunstância que impede a sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+Ilustrativamente:
+ ..  2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta  ..  8. Habeas corpus não conhecido  ..  (HC n. 347.010/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 12/4/2016).
+Ademais, o Ministério Público Federal também se manifestou em sentido análogo (fls. 686-691):
+ ..  cumpre observar que as questões trazidas ao conhecimento do Superior Tribunal de Justiça -nulidades processuais, - não foram apreciadas e decididas pela Corte de origem  ..  descabe à Corte Superior conhecer e julgar este Recurso Ordinário, sob pena de indevida e vedada supressão de instância. Assim, torna-se inviável qualquer pronunciamento a respeito das matérias em referência  .. .
+A despeito disso, este Tribunal Superior é firme em salientar que, sendo o habeas corpus ação constitucional de natureza mandamental cujo escopo é, primordialmente, afastar eventual ameaça ao direito de ir e vir, revela-se inviável o seu uso para tutelar direito que não seja o de locomoção.
+A propósito:
+ ..  Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir.
+No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. Desse modo, é cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes  ..  (RCD no HC n. 916.378/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/8/2024).
+Nessa perspectiva, ressalto entendimento do Ministério Público nos autos (fls. 691):
+ ..  Como se não bastasse, constou do acórdão recorrido que "o paciente, atualmente, cumpre pena em regime aberto, teve expedido alvará de soltura em seu favor em 25/08/2020 (mov. 25), portanto não se encontra preso em razão da decisão objurgada." (e-STJ Fl. 626), de modo que não há falar em violação a direito de locomoção  .. .
+À vista do exposto, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
