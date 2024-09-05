@@ -1,0 +1,94 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CARGO EM COMISSÃO. FÉRIAS NÃO USUFRUÍDAS POR INTERESSE DA ADMINISTRAÇÃO PÚBLICA. PRESCRIÇÃO. DIREITO À INDENIZAÇÃO. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA AFRONTA AO ART. 37 DA CONSTITUIÇÃO DA REPÚBLICA. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS NS. 282 E 356. DESCABIMENTO DO RECURSO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. SÚMULA N. 284. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas als. a e c do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Terceira Turma Recursal Mista das Turmas Recursais do Estado de Mato Grosso do Sul:
+
+    “RECURSO INOMINADO - AÇÃO DE COBRANÇA - SERVIÇO PÚBLICO - CONTRATAÇÃO TEMPORÁRIA - SUCESSIVAS PRORROGAÇÕES - NULIDADE - PRECEDENTES - CONDENAÇÃO AO PAGAMENTO DE FÉRIAS PROPORCIONAIS DEVIDA - PRECEDENTES DO STF - SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS - RECURSO DESPROVIDO” (fl. 1,
+e-doc. 14).
+
+    2. No recurso extraordinário, o agravante alega terem sido contrariados o inc. XXIX do art. 7º e o art. 37 da Constituição da República.
+
+    Afirma que “a decisão da Turma Recursal contraria frontalmente o princípio da legalidade ao desconsiderar a base de cálculo correta para o pagamento das férias, que deve ser fixada conforme a legislação municipal vigente” (fl. 6, vol. 16).
+
+    Assevera que “a Lei Municipal 1.218/2020 do Município de Anastácio estabelece de forma clara e inequívoca o subsídio dos Secretários Municipais, fixando-o em R$ 7.500,00. Este valor deve ser utilizado como base de cálculo para quaisquer verbas devidas, inclusive férias. Antes da vigência dessa lei o subsídio era fixado em R$ 5.124,00. Portanto, qualquer cálculo que ignore esses valores determinados pela legislação municipal fere o princípio da legalidade, que é um dos pilares da administração pública brasileira” (fl. 7, e-doc. 16).
+
+    Sustenta que o inc. XXIX do art. 7º da Constituição da República “prevê a prescrição quinquenal para créditos resultantes das relações de trabalho” e que “a decisão recorrida ao desconsiderar este dispositivo constitucional, afronta diretamente o texto constitucional e deve ser reformada para assegurar o respeito aos prazos prescricionais” (fl. 8, e-doc. 16).
+
+    Pede “seja o presente Recurso conhecido e provido em seus amplos efeitos” (fl. 9, e-doc. 16).
+
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 279 do Supremo Tribunal Federal e pela ausência de ofensa constitucional direta (e-doc. 20).
+
+    4. No agravo contra a inadmissão do recurso extraordinário, o agravante reitera as razões do recurso extraordinário e afirma que, “diferente do que alega a decisão objurgada, para realização da análise do Recurso Extraordinário interposto não é necessário o reexame das provas dos autos, bem como da legislação local” (fl. 3, e-doc. 23).
+
+    Pede “seja dado total provimento ao presente Agravo para revisão da decisão que inadmitiu o Recurso Extraordinário” (fl. 6, e-doc. 23).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    6. Cuida-se, na origem, de ação de cobrança proposta pela agravada contra o agravante, com o intuito de receber indenização pelos períodos de férias não gozados quando no exercício de função comissionada.
+
+    7. A Turma Recursal manteve sentença parcialmente favorável ao pleito pelos seguintes fundamentos:
+
+    “Analisando os autos, verifico que apesar de todo o imbróglio fático narrado pela autora, tendo em vista as divergências entre os pedidos constantes na petição inicial e requerimento administrativo no que tange às datas, períodos de aquisição e quantidade de dias de férias adquiridas e não gozadas, o que se extrai do processo e documentação anexa é que os pedidos merecem acolhimento em parte.
+
+    Inicialmente, cabe analisar a prejudicial de mérito referente à prescrição quinquenal, pois se trata de matéria de ordem pública.
+
+    Sobre o tema, o Superior Tribunal de Justiça já assentou o entendimento de que o termo inicial da contagem do prazo prescricional quinquenal do direito de pleitear a indenização referente a féria não gozadas é deflagrado com a impossibilidade de não mais usufruí-las, seja por desligamento do servidor por exoneração ou aposentadoria, senão vejamos: (...).
+
+    Conforme documento de f. 25 e 31, a autora exerceu o cargo em comissão de Secretária Municipal de Saúde no período de 02/01/2017 a 30/09/2022, no município do qual já era concursada como psicóloga desde 02/08/2010. Contudo, nos anos de 2017, 2018, 2019, 2020, 2021 e 2022, a autora não gozou integralmente de todos os períodos de férias adquiridos nem recebeu indenização de férias (f. 26/31).
+
+    Considerando que a autora exerceu o cargo até 30/09/2022, a partir de 01/10/2022 iniciou-se o prazo prescricional para pleitear o direito de conversão em pecúnia das férias não gozadas. Como a presente ação foi ajuizada em 03/01/2023, não se consumou o prazo prescricional.
+
+    Passo à análise do mérito propriamente dito.
+
+    A controvérsia dos autos reside em saber se a autora, no período em que ocupou o cargo de Secretária Municipal de Saúde, tinha direito às férias requeridas e ao respectivo terço de férias e não usufruiu do direito em razão da necessidade de continuidade do serviço público.
+
+    In casu, as provas produzidas na demanda, demonstraram que a autora realmente não usufruiu integralmente das férias durante os períodos de 2017 a 2022, em razão do interesse da Administração Pública, até mesmo porque o município requerido nada disse a respeito dos motivos que ensejaram o não gozo da totalidade dos dias de férias que seriam devidos à autora, caracterizando, portanto, confissão ficta de que o não gozo ocorreu pela necessidade de continuidade do serviço público ((art. 314 do CPC).
+
+    Ademais, a autora pleiteou o pagamento das férias indenizadas perante a gestão municipal, por duas vezes, mas o pleito foi indeferido (f. 19 e 32). (...)
+
+    Todavia, conforme narrado pela própria autora, a mesma gozou parcialmente alguns períodos de férias, no total de 96 dias, nos termos abaixo descritos: (...).
+
+    Deste modo, não restam dúvidas de que a autora, como Secretária Municipal de Saúde (agente político) deixou de gozar de 74 dias de férias. (...)
+
+    Por esses motivos, a autora tem direito a receber em pecúnia as féria não usufruídas por interesse da Administração Pública, ainda que o requerimento tenha sido formulado após a sua exoneração do cargo (f. 19 e 32)” (fls. 1-6, e-doc. 7).
+
+    Rever o entendimento adotado pelas instâncias precedentes, quanto à ocorrência de prescrição e ao reconhecimento do direito às férias indenizadas, demandaria o reexame do conjunto fático-probatório constante dos autos. Incide na espécie a Súmula n. 279 deste Supremo Tribunal. Assim, por exemplo:
+
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. FÉRIAS NÃO GOZADAS. INDENIZAÇÃO. VERIFICAÇÃO DOS REQUISITOS. REVISÃO DE PREMISSAS FÁTICAS. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. SÚMULA Nº 279. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. AGRAVO NÃO PROVIDO. 1. Inocorrente violação do art. 93, IX, da Lei Maior. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir veiculadas pela parte, capazes de, em tese, influenciar o resultado da demanda, fica dispensado o exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 5. Agravo interno conhecido e não provido” (ARE n. 1.429.527-AgR, Relatora a Ministra Rosa Weber, Plenário, DJe 4.9.2023).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. FÉRIAS NÃO GOZADAS. INDENIZAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 844.039-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 24/08/2015; ARE 1.271.280-AgR, Tribunal Pleno, DJe de 25/09/2020; e ARE 1.238.534-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/09/2020. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.349.440-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 15.12.2021).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 23.8.2016. POLICIAL MILITAR ESTADUAL. FÉRIAS NÃO GOZADAS. INDENIZAÇÃO. PRECEDENTES. PRESCRIÇÃO. QUESTÃO INFRACONSTITUCIONAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. IMPOSIÇÃO DE MULTA. AGRAVO REGIMENTAL DESPROVIDO . 1. O Supremo Tribunal Federal já assentou que ‘o servidor público tem direito ao recebimento de indenização pelas férias não gozadas por vontade da Administração, tendo em vista a vedação ao enriquecimento sem causa.’ (ARE 725.102-AgR, Rel. Min. Dias Toffoli). Precedentes. 2. A temática referente à ocorrência, ou não, de prescrição tem natureza infraconstitucional. 2. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, §4º, do CPC” (ARE n. 975.617-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 4.5.2017).
+
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SERVIDOR TEMPORÁRIO. CONTRATO PRORROGADO SUCESSIVAMENTE. DIREITO À FÉRIAS E AO ADICIONAL DE FÉRIAS. REELABORAÇÃO DA MOLDURA FÁTICA DO ACÓRDÃO DE ORIGEM. ALEGADA AFRONTA AO ART. 37, CAPUT, II E X, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 08.5.2013. A matéria constitucional versada no recurso extraordinário, relativamente à violação do art. 37, caput, II e X, da Constituição Federal, não foi analisada pelas instâncias ordinárias, tampouco opostos embargos de declaração para satisfazer o requisito do prequestionamento, o que atrai a aplicação das Súmulas 282 e 356/STF. Precedentes. O acórdão regional consignou que a ora agravada faz jus ao pagamento das férias não gozadas e respectivos terços constitucionais de férias, no período não atingido pela prescrição quinquenal. Divergir desse entendimento exigiria a reelaboração da moldura fática delineada no acórdão de origem. Assim, eventual afronta ao texto constitucional, caso ocorresse, seria indireta, o que não atende à exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Agravo regimental conhecido e não provido” (ARE n. 824.857-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 31.10.2014).
+
+    8. Quanto à alegação de que o acórdão recorrido teria contrariado o art. 37 da Constituição da República por “desconsiderar a base de cálculo correta para o pagamento das férias, que deve ser fixada conforme a legislação municipal vigente” (fl. 6, vol. 16), observa-se que essa alegação não foi objeto de debate e decisão prévios nas instâncias de origem, tampouco foram opostos embargos de declaração a fim de comprovar ter ocorrido, no momento processual próprio, o prequestionamento. Incidem, na espécie vertente, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA AO FUNRURAL. ENQUADRAMENTO DO RECORRENTE COMO CONTRIBUINTE EMPREGADOR RURAL PESSOA FÍSICA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). CONTROVÉRSIA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento do art. 150, I, da Constituição Federal. Incidência da Súmula 282/STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir a omissão, é inviável o recurso, nos termos da Súmula 356/STF. II – O STF, ao julgar o ARE 748.371-RG/MT (Tema 660), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por configurar situação de ofensa indireta à Constituição Federal. III – Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. IV – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. V– Agravo regimental a que se nega provimento” (RE n. 1.271.716-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 9.2.2021).
+
+    9. O recurso extraordinário também se mostra inviável pelo fundamento da al. c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição da República. Incide na espécie a Súmula n. 284 do Supremo Tribunal Federal. Confiram-se os seguintes julgados:
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA CONSTITUIÇÃO. INAPLICÁVEL DO O RECURSO PELA ALÍNEA CDO INC. III, DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA (SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n. 792.884-AgR, de minha relatoria, Primeira Turma, DJe 13.4.2011).
+
+    “Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Direito Processual Civil. Recurso extraordinário fundado na alínea c do inciso III do art. 102 da Constituição Federal. Acórdão recorrido que julga válida lei ou ato de governo local contestados em face da Carta Magna. Não ocorrência. Precedentes. 1. O acórdão recorrido não julgou válida lei ou ato de governo local contestados em face da Constituição, razão pela qual fica inviabilizado o processamento do recurso extremo pela alínea c do inciso III do art. 102 da Constituição Federal. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.215.344-ED-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 4.12.2019).
+
+    “DIREITO PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DESCABIMENTO. INOVAÇÃO DE FUNDAMENTO EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. 1. O Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal, o que inviabiliza o recurso extraordinário pela alínea c do inciso III do art. 102 da Constituição. 2. A tese levantada pela agravante não fez parte das razões do recurso extraordinário, sendo suscitada somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual. Precedentes. 3. Agravo regimental a que se nega provimento” (RE n. 886.551-AgR, Relator o Ministro Luís Roberto Barroso, Primeira Turma, DJe 28.9.2015).
+
+    Nada há a prover sobre as alegações do agravante.
+
+    10. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 5 de setembro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
