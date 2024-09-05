@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Ilton Sacchetti, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. AFASTAMENTO DAS PRELIMINARES ARGUIDAS. POLICIAL RODOVIÁRIO FEDERAL. DESVIO DE MERCADORIAS APREENDIDAS EM OPERAÇÕES DE COMBATE AO CONTRABANDO/DESCAMINHO. CONDUTAS TIPIFICADAS NOS ARTS. 9º, XI, EI1, IE11, DA LEI Nº 8.429/92. CUMULAÇÃO DAS SANÇÕES PREVISTAS NOS INCISOS I E III DO ART. 12 DA LEI Nº 8.429/92. POSSIBILIDADE. Provimento da apelação do Ministério Público Federal e improvimento da apelação do réu
+Os embargos de declaração não foram conhecidos (e-STJ fls. 500-503).
+Defende, em síntese: i) vício de fundamentação acerca de diversos aspectos fáticos ligados à condenação (art. 535 do CPC/73); ii) desproporcionalidade da pena de demissão (art. 12, III, da Lei de Improbidade Administrativa); iii) ausência de fundamentação sobre a pena de perda do cargo (art. 93, IX, da CF/88); iv) inviabilidade da condenação embasada em carta apócrifa; v) impossibilidade de perda do cargo, e não da função pública (art. 37, § 4º, da CF/88); vi) descabimento da dupla punição por um mesmo fato (arts. 9º e 11 da LIA); e vii) impossibilidade de uso de prova emprestada.
+Apresentadas contrarrazões (e-STJ fls. 541-553 e 555-580), o recurso especial foi admitido por decisão desta Corte (e-STJ fls. 628).
+Parecer pelo não conhecimento do agravo (e-STJ fls. 624-626).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, c/c a Meta 2/CNJ/2021 - "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016 e 95% dos distribuídos em 2017", Meta 4/CNJ/2021 - "Identificar e julgar até 31/12/2021: 99% das ações de improbidade administrativa e das ações penais relacionadas a crime contra a Administração Pública distribuídas até 31/12/2018 e 90% das ações distribuídas em 2019" e Meta 6/CNJ/2021 - "Identificar e julgar até 31/12/2021: 99% dos recursos oriundos de ações coletivas distribuídos a partir de 1/1/2015").
+É o relatório.
+Na origem, trata-se de condenação por improbidade de policial rodoviária federal, por apropriar-se de mercadorias apreendidas em operações de combate ao descaminho e ao contrabando.
+Diante de apelação de ambos os polos, apenas a do órgão acusador foi acolhida, por maioria, para majorar a pena de multa. Tal julgado não foi objeto de embargos infringentes (art. 530 do CPC/73), o que inviabiliza o acesso à esta Corte. Isso porque não há que se falar em exaurimento parcial da instância, nem se admite o fracionamento do acórdão recorrido, para cabimento do especial. Incide, no caso, a Súmula 207/STJ (É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem). Nesse sentido:
+PROCESSUAL CIVIL ARBITRAMENTO - HONORÁRIOS - PERCENTUAL - JULGAMENTO MAIORIA - MODIFICAÇÃO DA SENTENÇA - EMBARGOS INFRINGENTES - AUSÊNCIA - SÚMULA 207/STJ.
+1. O Tribunal a quo, por maioria, deu provimento à apelação da agravada, modificando a sentença de mérito. Contra o referido julgado, caberia a interposição de embargos infringentes, nos termos do art. 530 do Código de Processo Civil, o que, no presente caso, não ocorreu.
+2. Não esgotadas as vias ordinárias, houve supressão de instância, razão pela qual incide a Súmula 207 do STJ.
+3. O recurso especial interposto tanto da parte não modificada pelo julgamento da apelação quanto da parte em que caberiam embargos de infringência não merece ser conhecido; destarte não há exaurimento parcial de instância, o acórdão é uno. O prazo para interposição do recurso especial quanto à parte unânime ou não modificada fica sobrestado até o julgamento dos embargos infringentes.
+4. Agravo regimental improvido.
+(AgRg no REsp 1.176.861/BA, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/4/2010, DJe 29/4/2010).
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ART. 530 DO CPC/1973. DISSENSO NA INTERPRETAÇÃO. INEXISTÊNCIA.
+ ..
+2. Hipótese em que o acórdão embargado não diverge da orientação adotada nos arestos paradigmas, no sentido de que a ausência de interposição de embargos infringentes contra acórdão que, por maioria de votos, julga procedente ação rescisória para reduzir o valor dos honorários advocatícios sucumbenciais, enseja a inadmissibilidade do recurso especial (Súmula 207/STJ), encontrando-se, pois, em harmonia com a jurisprudência das turmas que compõem a Primeira Seção.
+ ..
+(AgInt nos EAREsp 421.435/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 18/6/2019, DJe 25/6/2019).
+Em caso peculiarmente similar, manifestou esta Corte o seguinte entendimento (grifei):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS INFRINGENTES. VOTO VENCIDO QUE REFORMOU A SANÇÃO IMPOSTA. MODIFICAÇÃO DE PARTE DA SENTENÇA DE MÉRITO. CABIMENTO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. ADMISSIBILIDADE DO RECURSO. RETORNO DOS AUTOS MANIFESTAÇÃO DA MATÉRIA DISSIDENTE. (AÇÃO CIVIL PÚBLICA. ART. 11, V, DA LEI Nº 8.429/92).
+1. A reforma quantitativa da resolução de mérito, ainda que parcial, e por maioria, enseja o cabimento de embargos infringentes.
+2. É que os embargos infringentes são cabíveis quando a reforma da sentença de mérito alcança, apenas, o pedido mediato (bem da vida), já que integra o objeto do processo. Precedentes: REsp 983.010/MG, Quarta Turma, DJ 17.12.2007; REsp 715.934/RS, Quarta Turma, DJ 05.02.2007; REsp 808.439/RJ, DJe 06.03.2008; REsp 672.057/RS, DJe 26.06.2008; REsp 710940/RS, Rel. Min. Francisco Falcão, DJU 04.05.2006.
+3. In casu, o Tribunal local por seu Relator, em sede de ação civil pública, deu parcial provimento ao recurso de apelação do Ministério Público Estadual para majorar a multa civil imposta, a fim de ter esta como base a média anual do ano em curso, voto acompanhado pelo vogal, restando divergente quanto ao mérito, porquanto o voto vencido sustentou a ausência de dolo e divergiu quanto à penalidade aplicada no sentido de que não se poderia fixar a pena de multa com valores da atualidade.
+4. Deveras, muito embora não tenha havido alteração quanto à espécie de provimento visado, já que o acórdão manteve a condenação, ocorreu mutação quantitativa do decisum, restando presentes todos os requisitos para a devida interposição de embargos infringentes: a uma: porque o acórdão reformou a sentença, em grau de apelação, fixando pena diversa da estipulada na sentença; a duas: porque presente o interesse da parte recorrente de ver prevalecer o voto vencido, qual seja que a fixação da pena de multa não poderia ser fixada com base em valores da atualidade.
+ ..
+(REsp 1082437/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 18/05/2010, DJe 14/06/2010).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
