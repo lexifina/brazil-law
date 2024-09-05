@@ -1,0 +1,91 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. ILEGITIMIDADE PASSIVA DA AUTORIDADE APONTADA COMO COATORA. REQUISITOS DE ADMISSIBILIDADE DO MANDADO DE SEGURANÇA: MATÉRIA INFRACONSTITUCIONAL. TEMA 318 DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Segunda Turma do Tribunal Regional Federal da Quarta Região:
+
+    “MANDADO DE SEGURANÇA. ADICIONAL AO FRETE PARA A RENOVAÇÃO DA MARINHA MERCANTE – AFRMM. AUTORIDADE COATORA. AUTORIDADE ADUANEIRA QUE PROCEDE AO DESEMBARAÇO ADUANEIRO. ILEGITIMIDADE PASSIVA DO DELEGADO DA RECEITA FEDERAL DO DOMICÍLIO TRIBUTÁRIO DO SUJEITO PASSIVO” (fl. 4, e-doc. 808).
+
+    Embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento (e-doc. 106).
+
+    2. A recorrente alega ter o Tribunal de origem contrariado o art. 149 e as als. b e c do inc. III do art. 150 da Constituição da República.
+
+    Narra tratar-se de “mandado de segurança impetrado em face do Delegado da Receita Federal do Brasil em Joinville, que visa: 1) a concessão da segurança para que seja promovida a cobrança do Adicional ao Frete para Renovação da Marinha Mercante – AFRMM no ano de 2023 com o desconto de 50% para as alíquotas previsto no Decreto nº 11.321/2022, em respeito ao princípio da anterioridade do exercício do art. 150, III, ‘b’ e ‘c’ da Constituição Federal – CRFB/88; e 2) por conseguinte, o reconhecimento do direito à compensação/restituição de valores indevidamente pagos a tal título” (fl. 5, e-doc. 117).
+
+    Assevera que estaria sujeita, em suas atividades empresariais, ao pagamento do Adicional ao Frete para Renovação da Marinha Mercante, incidente sobre a prestação de frete marítimo, que, “por se tratar de uma CIDE, esta não poderá desrespeitar o disposto na Constituição Federal, fato esse não observado pelo Decreto nº 11.374/2023, violando os ditames e princípios da Constituição da República Federativa do Brasil de 1988” (fl. 6, e-doc. 117).
+
+    Busca “a determinação da inconstitucionalidade do Decreto nº 11.374/2023 visando garantir o direito líquido e certo da Recorrente de apenas se submeter às alíquotas majoradas do AFRMM a partir de 01/01/2024, sob pena de violação a preceitos determinados na Constituição Federal” (fl. 7, e-doc. 117).
+
+    Argumenta que “no dia 30/12/2022 foi publicado o Decreto nº 11.321/2022, que concedeu desconto de 50% (cinquenta por cento) para as alíquotas do AFRMM (conforme faculta o art. 6º, § 4º da Lei nº 10.893/2004), reduzindo a carga tributária da Recorrente a partir de 01/01/2023, quando passou a produzir efeitos”, e que “no dia 02/01/2023 foi publicado um novo Decreto pelo Governo Federal, revogando o Decreto acima reproduzido e, consequentemente, revogando a redução da carga tributária da Recorrente, restabelecendo integralmente as alíquotas previstas na Lei nº 10.893/2004” (fl. 8, e-doc. 117).
+
+    Assinala que, “como nos casos de revogação de isenção, a revogação dos descontos nas alíquotas do AFRMM também configura aumento indireto de tributo. Na prática, a Recorrente paga AFRMM sobre os fretes remunerados pelas navegações de longo curso. Significa dizer que estavam sujeitas à alíquota de 8% no dia 31/12/2022. Já no dia 01/01/2023, essa alíquota foi reduzida para 4%. Porém, logo no dia 02/01/2023, foi retomada a alíquota de 8%, impondo aumento da carga tributária” (fl. 9, e-doc. 117).
+
+    Realça que “originalmente o objeto desta ação mandamental diz respeito, não apenas, à declaração da inexistência de relação jurídica válida que sujeite a Recorrente ao recolhimento do AFRMM durante o ano de 2023 tendo a alíquota prevista no Decreto nº 11.374/2023, mas também, ao reconhecimento do direito à compensação/restituição de valores indevidamente pagos a tais títulos” (fl. 11, e-doc. 117).
+
+    Ressalta que, “no que tange ao pedido de compensação/restituição dos valores recolhidos indevidamente nas importações pretéritas promovidas pela Recorrente, em que pese o nobre entendimento exarado no acórdão recorrido, afigura-se devida a indicação no polo passivo do presente writ, do Delegado da Receita Federal do Brasil em Joinville, porquanto será essa a autoridade competente para promover a compensação dos valores, visto possuir jurisdição sobre o domicílio tributário da Recorrente” (fl. 11, e-doc. 117).
+
+    Pede seja “seja recebido e dado seguimento ao presente Recurso Extraordinário, sendo conhecido e provido, reformando o V. Acórdão vergastado, para que:
+
+    a) Seja declarada a suspensão do presente feito na fase em que se encontra, até que seja proferida decisão pelo Supremo Tribunal Federal, para posterior aplicação do disposto no art. 102, § 2º da Constituição Federal;
+
+    b) Seja conhecido e provido o presente recurso, julgando pelo seu total provimento com o propósito de reformar acórdão proferido pelo E. TRF4 a fim de que seja concedida a segurança, determinado que as autoridades impetradas promovam a cobrança do Adicional ao Frete para Renovação da Marinha Mercante no ano de 2023 com o desconto de 50% para as alíquotas previsto no Decreto nº 11.321/2022, em respeito ao princípio da anterioridade do exercício previsto no art. 150, III, ‘b’ e ‘c’ da CRFB/1988, com a declaração incidental da sua inconstitucionalidade;
+
+    c) Reconheça-se o direito da Recorrente à restituição de valores decorrentes do direito declarado, a contar da data do pagamento indevido, conforme súmula 162 do STJ, relativo aos valores pagos a maior nas operações realizadas durante o ano de 2023, por repetição de indébito dos valores; e
+
+    d) Seja a Autoridade Impetrada/União condenada ao ressarcimento das despesas processuais adiantadas pela ora Recorrente” (fls. 18-19, e-doc. 117).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    3. Razão jurídica não assiste à recorrente.
+
+    4. No voto condutor do acórdão recorrido, o Desembargador relator assentou:
+
+    “A impetrante pretende seja reconhecido o direito ao recolhimento do Adicional ao Frete para Renovação da Marinha Mercante no ano de 2023 com o desconto de 50% para as alíquotas previsto no Decreto nº 11.321/2022, em respeito ao princípio da anterioridade do exercício previsto no art. 150, III, ‘b’ e ‘c’ da CRFB/1988, bem como o direito à compensação dos valores indevidamente pagos.
+
+    Ora, nos termos do art. 128, I e II, da IN RFB nº 2.055, de 2021, é atribuição da autoridade aduaneira responsável pelo desembaraço aduaneiro o reconhecimento do direito creditório relativo à operação de comércio exterior, cabendo à DRF que tenha atribuição sobre o domicílio tributário do contribuinte a decisão sobre o pedido de compensação.
+
+    Nesse sentido, é a jurisprudência deste Tribunal:
+
+    ‘TRIBUTÁRIO. ADUANEIRO. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE – AFRMM. BASE DE CÁLCULO. LEI Nº 10.983/2004. FRETE. VALOR DA OPERAÇÃO. INCLUSÃO DESPESAS PORTUÁRIAS COM A MANIPULAÇÃO DA CARGA. CONSTITUCIONALIDADE. DENEGADA A SEGURANÇA. PARCIAL PROVIMENTO. 1. O Delegado da Receita Federal do local onde efetuado o despacho aduaneiro é parte legítima quanto ao pedido de reconhecimento do direito creditório relativo a tributo incidente sobre operação de comércio exterior, nos termos da IN RFB nº 1.717/2017. Considerando que o Delegado da Receita Federal do Brasil em Florianópolis/SC avocou a competência da Inspetoria da Receita Federal do Brasil no Porto de Imbituba/SC detém legitimidade com relação aos pedidos formulados na inicial. 2. A base de cálculo do AFRMM é o frete, assim considerado a remuneração com o transporte aquaviário da carga porto a porto, incluídas as despesas portuárias com a manipulação de carga (art. 5º da Lei 10.983/2004). 3. Tratando-se de uma CIDE, a Constituição Federal autoriza a incidência das contribuições interventivas sobre o ‘valor da operação’ (art. 149, §2º, III, ‘a’), nele incluído a totalidade do valor cobrado pelo serviço de frete, o que inclui a manipulação portuária de cargas. 4. Não há qualquer mácula que impeça a cobrança do Adicional de Frete para a Renovação da Marinha Mercante, inclusive sobre as despesas de manipulação portuária de cargas, nos termos instituídos pela Lei 10.983/2004. Precedentes desta Corte. 5. Recurso de apelação parcialmente provido, apenas quanto à preliminar de ilegitimidade, mantida a sentença que denegou a segurança pleiteada na inicial’ (TRF4, AC 5000960- 98.2020.4.04.7216, PRIMEIRA TURMA, Relatora LUCIANE AMARAL CORRÊA MÜNCH, juntado aos autos em 25/11/2022)
+
+    ‘TRIBUTÁRIO E ADUANEIRO. MANDADO DE SEGURANÇA. TAXA DE UTILIZAÇÃO DO SISCOMEX. PORTARIA MF Nº 257, DE 2011. AUTORIDADE COATORA. REAJUSTE DE VALORES. EXCESSO. IN 1.300/12. IN 1.717/17. TEMA 1085 DO STF 1. Legitimidade passiva da autoridade impetrada – Inspetor Chefe da RFB ou Chefe da Alfândega – porquanto a este incumbe o reconhecimento do direito creditório, condição prévia ao pedido de compensação ou restituição do indébito, a ser exercido junto à DRF ou à Delegacia Especial da RFB que tenha jurisdição sobre o domicílio tributário do sujeito passivo. 2. A autoridade sob cuja jurisdição for efetuado o despacho aduaneiro da mercadoria é competente para responder pelo pleito referente à alegação de ilegalidade e inconstitucionalidade da majoração da taxa SISCOMEX promovida pela Portaria MF nº 257/11. 3. É excessivo o reajuste aplicado aos valores da taxa de utilização do SISCOMEX pela Portaria MF nº 257/2011, devendo ficar restrito à variação de preços medida pelo INPC entre janeiro de 1999 e abril de 2011 (131,60%). Tema 1085 do STF’ (TRF4 5045960-90.2020.4.04.7000, SEGUNDA TURMA, Relator ALEXANDRE ROSSATO DA SILVA ÁVILA, juntado aos autos em 13/08/2021)
+
+    ‘TRIBUTÁRIO. ADUANEIRO. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. IN RFB Nº 1.717/2017. TAXA DE UTILIZAÇÃO DO SISCOMEX. PORTARIA MF Nº 257, DE 2011. REAJUSTE DE VALORES. EXCESSO. COMPENSAÇÃO. 1. O Inspetor da Alfândega da Receita Federal do local onde efetuado o despacho aduaneiro é parte legítima quanto ao pedido de inexigibilidade da relação jurídico-tributária e de reconhecimento do direito creditório relativo a tributo incidente sobre operação de comércio exterior. Reconhecida a legitimidade passiva do Delegado da Alfândega da Receita Federal de Itajaí com relação a ambos os pedidos formulados na inicial. 2. A Taxa de Utilização do Sistema Integrado de Comercio Exterior – SISCOMEX foi criada pela Lei nº 9.716/98 e tem como fato gerador a utilização deste sistema. 3. É excessivo o reajuste aplicado aos valores da Taxa de Utilização do SISCOMEX pela Portaria MF nº 257, de 2011, cabendo a glosa de tal excesso. Entendimento expressamente chancelado pelo STF no julgamento do RE 1.258.934/SC (Tema 1.085 da Repercussão Geral). 4. Reconhecida a ocorrência de indébito tributário, faz jus a parte autora à compensação dos tributos recolhidos a maior, condicionada ao trânsito em julgado da presente decisão judicial (art. 170-A do CTN), nos termos do art. 7º da Lei n.º 9.430/1996. A compensação de indébitos tributários em geral deverá ocorrer(a) por iniciativa do contribuinte, (b) entre quaisquer tributos administrados pela Secretaria da Receita Federal, (c) mediante entrega de declaração contendo as informações sobre os créditos e débitos utilizados, cujo efeito é o de extinguir o crédito tributário, sob condição resolutória de sua ulterior homologação. 5. No que toca à compensação das contribuições previdenciárias, contribuições instituídas a título de substituição de contribuição previdenciária e contribuições sociais devidas a terceiros, devem ser observadas as restrições do art. 26-A da Lei n.º 11.457/2007, incluído pela Lei n.º 13.670/2018, conforme regulamentação da Secretaria da Receita Federal do Brasil (§ 2º). 6. Recurso de apelação e remessa necessária parcialmente providos’ (TRF4 5006223-38.2020.4.04.7208, PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em 19/05/2021)
+
+    ‘AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. TAXA DE UTILIZAÇÃO DO SISCOMEX. COMPENSAÇÃO. AUTORIDADE COATORA. LEGITIMIDADE PASSIVA. 1. A autoridade competente para o reconhecimento do direito creditório relativo a tributo incidente sobre operação de comércio exterior é a autoridade fiscal sob cuja jurisdição for efetuado o despacho aduaneiro da mercadoria (art. 70, caput e § 1º), e a autoridade competente para decidir sobre a compensação nessa hipótese é o titular da DRF, da Derat, da Demac/RJ ou da Deinf que, à data do despacho decisório, tenha jurisdição sobre o domicílio tributário do sujeito passivo (art. 75, caput e § 1º). 2. Compete à autoridade aduaneira (Inspetor-Chefe da Receita Federal) reconhecer o direito creditório para fins de ulterior compensação’ (TRF4, AG 5049156-19.2020.4.04.0000, PRIMEIRA TURMA, Relator FRANCISCO DONIZETE GOMES, juntado aos autos em 23/12/2020)
+
+    Nessa senda, tendo o presente mandamus sido impetrado exclusivamente contra o Delegado da Receita Federal do Brasil em Joinville/SC (autoridade fiscal do domicílio tributário da impetrante) e considerando que o reconhecimento do direito à compensação de valores pagos a título de AFRMM pressupõe anterior reconhecimento do direito creditório, tenho que agiu acertadamente o juiz da causa ao denegar o writ, reconhecendo a ilegitimidade passiva da autoridade apontada como coatora.
+
+    Ante o exposto, voto por negar provimento à apelação” (fls. 2-3, e-doc. 80).
+
+    5. Na espécie vertente, o Tribunal de origem concluiu pela ilegitimidade passiva da autoridade apontada pela recorrente como coatora e, negando provimento à apelação, manteve a sentença pela qual denegada a segurança. No acórdão recorrido, não se analisou o mérito da controvérsia.
+
+    A questão posta neste processo restringe-se aos requisitos de admissibilidade do mandado de segurança.
+
+    O debate trazido na espécie não tem identidade com o tema objeto da Ação Declaratória de Constitucionalidade n. 84, Redator para o acórdão o Ministro Alexandre de Moraes, na qual o Supremo Tribunal Federal concluiu que “o Decreto 11.374/2023 não instituiu, restabeleceu ou majorou tributo, de modo a atrair o princípio da anterioridade nonagesimal”.
+
+    Descabe, portanto, cogitar-se da suspensão do feito por não ter sido finalizado o julgamento da Ação Declaratória de Constitucionalidade n. 84, como pretende a recorrente.
+
+    6. Este Supremo Tribunal Federal, ao julgar o Agravo de Instrumento n. 800.074-RG/SP, Tema 318 da repercussão geral, Relator o Ministro Gilmar Mendes (DJe 6.12.2010), rejeitou a repercussão geral da controvérsia referente ao preenchimento dos requisitos de admissibilidade do mandado de segurança, por ser a matéria infraconstitucional.
+
+    7. Rever o entendimento do Tribunal de origem sobre a ilegitimidade passiva da autoridade apontada como coatora pela recorrente demandaria o reexame da matéria fático-probatória e da legislação infraconstitucional aplicável à espécie (Lei n. 12.016/2009 e Instrução Normativa n. 2.055/2021 da Receita Federal do Brasil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal.
+
+    Em processos semelhantes ao presente, as duas Turmas deste Supremo Tribunal Federal decidiram, por exemplo:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. TEMAS 339 e 660 DA REPERCUSSÃO GERAL. 1. Eventual divergência em relação ao entendimento adotado pelo Tribunal de origem, no que diz respeito à ilegitimidade passiva da autoridade indicada como coatora no mandado de segurança, demandaria o reexame da legislação infraconstitucional específica, o que inviabiliza o processamento do apelo extremo, por ser reflexa a alegada afronta à Carta Federal, e por óbice da Súmula 279 do STF. 2. Esta Corte, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 3. No julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República, como no caso dos autos. 4. Agravo regimental a que se nega provimento. Inaplicável a norma do artigo 85, §11, do CPC, em face da Súmula 512 do STF” (ARE n. 1.299.205-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 4.10.2021).
+
+“Mandado de segurança. Adicional ao frete para renovação da marinha mercante. O acórdão recorrido acolheu a preliminar de ilegitimidade passiva da autoridade apontada como coatora, decisão essa que não é atacável com as alegadas ofensas à Constituição feitas no recurso extraordinário e que dizem respeito ao mérito da causa que não chegou a ser enfrentado. Recurso extraordinário não conhecido” (RE n. 196.416, Relator o Ministro Moreira Alves, Primeira Turma, DJe 18.4.1997)
+
+    Nada há a prover quanto às alegações da recorrente.
+
+    8. Pelo exposto, nego provimento ao recurso extraordinário (al. a do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 5 de setembro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
