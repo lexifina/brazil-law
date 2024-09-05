@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2214, de 2 de setembro de 2024
+Altera a Instrução Normativa RFB nº 2.055, de 6 de dezembro de 2021, que dispõe sobre restituição, compensação, ressarcimento e reembolso no âmbito da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos arts. 6º a 12 e no art. 15 da Lei nº 14.789, de 29 de dezembro de 2023, resolve:
