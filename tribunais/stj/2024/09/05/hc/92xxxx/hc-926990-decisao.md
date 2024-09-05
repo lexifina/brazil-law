@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcelo Henrique de Oliveira Silva - condenado à pena de 2 anos e 8 meses e 20 dias de reclusão, em regime fechado, e pagamento de 12 dias-multa, pela prática do delito tipificado no art. 155, § 4º, IV, do Código Penal - não comporta acolhimento.
+Busca a impetração seja afastada a qualificadora do concurso de agentes, na medida em que não existem provas de que o corréu tenha participado do delito, tanto que ele foi absolvido; seja alterado o regime de cumprimento da pena para o aberto ou, ao menos, semiaberto, considerando que a pena é inferior a 4 anos, conforme dispõe o art. 33, § 2º, do Código Penal, e a Súmula 269 do Superior Tribunal de Justiça (fl. 7), e, ainda, o que dispõe o art. 387, § 2º, do Código de Processo Penal.
+Ocorre que, além de ser inviável a impetração do writ como forma de revisar a condenação transitada em julgado, não se evidencia ilegalidade flagrante a ser sanada.
+Com efeito, a revisão da incidência da qualificadora do concurso de agentes exigiria o revolvimento do conjunto fático-probatório, providência inviável na via eleita, mormente considerando que o acórdão hostilizado afirmou que a qualificadora prevista no art. 155, § 4º, inciso IV, do Código Penal foi bem evidenciada. O concurso de agentes ficou evidente, já que o réu agiu em conjunto com terceiro na prática do crime, de acordo comas imagens da câmera de segurança e depoimentos dos policiais (fl. 17).
+De outro lado, nos termos da Súmula 269/STJ, é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 anos, se favoráveis as circunstâncias judiciais. O paciente, pelo contrário, teve a pena-base exasperada em razão dos maus antecedentes, além de ser reincidente. Sendo assim, a fixação do regime inicial fechado se mostra escorreita (fl. 42).
+Assim, verificando-se que o regime de cumprimento da pena não obede ceu apenas ao quantum da reprimenda, não há falar em incidência do § 2º do art. 387 do Código de Processo Penal.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. FURTO QUALIFICADO. EXCLUSÃO DA QUALIFICADORA. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. REGIME FECHADO. LEGALIDADE. RÉU REINCIDENTE E COM MAUS ANTECEDENTES. ART. 387, § 2º, DO CPP. NÃO INCIDÊNCIA.
+Ordem denegada.
