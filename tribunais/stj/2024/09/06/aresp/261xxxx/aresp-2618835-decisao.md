@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado pela Comissão Nacional de Energia Nuclear contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 57):
+ADMINISTRATIVO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO EM SEDE DE CUMPRIMENTO DE SENTENÇA. GTEMPCT - GRATIFICAÇÃO TEMPORÁRIA DE ATIVIDADE DE CIÊNCIA E TECNOLOGIA. BASE DE CÁLCULO. EXCLUSÃO. QUANTIDADE DE HORAS REMUNERADAS. 24H. TÍTULO EXECUTIVO JUDICIAL QUE DETERMINA O PAGAMENTO DAS HORAS EXTRAS EXCEDENTES. LIMITAÇÃO DAS HORAS DEVIDAS EM SEDE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. OFENSA À COISA JULGADA.
+- A GTEMPCT, apesar de inicialmente criada em caráter temporário, passou a incorporar o vencimento básico dos servidores que beneficiava, sendo extinta a partir de tal incorporação, não havendo que se falar em sua inclusão na base de cálculo das horas-extras.
+- Não tendo o servidor recebido pela hora normal trabalhada, considerando que ele deveria ter trabalhado apenas 24h semanais, mas trabalhou 40h, a diferença (16h semanais) deve ser paga, portanto, integralmente como hora extraordinária devida e não paga.
+- A execução se desenvolve diante da existência de um ato judicial protegido pelo manto da coisa julgada, instituto da maior relevância e que deriva do princípio da segurança jurídica, constituindo-se tal premissa elemento fundamental para abordagem e análise do caso concreto.
+- Se o título executivo em nenhum momento faz referência a limitação da quantidade de horas extras devidas, não cabe limitar o alcance do título em sede de execução, sob pena de ofensa à coisa julgada.
+- Agravo de instrumento parcialmente provido.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 74 da Lei n. 8.112/90, 1º, 2º e 3º, do Decreto n. 978/03, 502, 503, 505, 506, 507 e 508 do CPC e 876 e 884 do CC/02. Sustenta, em resumo, que "o ente público foi condenado a efetuar o pagamento das horas extraordinárias sem que fosse considerado o limitador previsto no artigo supra mencionado. Sendo assim, a se manter a condenação ao pagamento de horas extras sem qualquer limitação, incorre-se em violação ao dispositivo legal supra mencionado. É que o v. acórdão, ao manter a r. sentença, reconheceu o direito dos autores a uma jornada semanal de trabalho de 24 horas, condenando a parte ré no pagamento a título de horas extraordinárias as que excederam aquele montante; sem, no entanto, enfrentar a questão do limite previsto no artigo 74, acima transcrito, aplicando-o.  ..  Ocorre que não foi observado que as horas extras trabalhadas já haviam sido pagas em seu valor normal ao tempo da prestação de serviço, em razão de o autor ter sido remunerada regularmente por 40 (quarenta) horas trabalhadas, sendo devidos apenas os valores correspondentes ao acréscimo referente a cada hora extra trabalhada." (fls. 68/73 ).
+Contrarrazões às fls. 78/80.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+Inicialmente, a matéria pertinente aos arts. 1º, 2º e 3º, do Decreto n. 948/93 e 876 e 884 do CC/02 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Com efeito, a instância ordinária reconheceu o direito do servidor à redução da jornada de trabalho, com pagamento de horas extras comprovadamente trabalhadas, bem como não mereceu reparo a sentença quanto à necessidade de compensação dos valores já pagos, ao assim constatar (fls. 53/54):
+Quanto à necessidade de compensação dos valores já pagos, não merece reparo a sentença.
+Na verdade, o agravante sustenta que a hora trabalhada já foi paga ao tempo da prestação de serviço, em razão do recorrido ter sido remunerado regularmente por 40 (quarenta) horas.
+Ocorre que, como pontuado pelo MM. Juízo a quo, a sentença transitada em julgado reconheceu o direito do servidor a ser submetido a jornada de trabalho de 24h semanais, sem redução de salário. Assim, o salário recebido pelo exequente durante todo o período exequendo remunera apenas as 24h semanais que deveria trabalhar.
+No cálculo das 16h extras semanais, é devido ao exequente o pagamento das 16h horas de trabalho, acrescidas do adicional de 50%.
+Isso ocorre porque o servidor não recebeu pela hora normal trabalhada, tendo em vista que ele deveria ter trabalhado apenas 24h semanais, e trabalhou 40h. A diferença (16h semanais) deve ser paga, portanto, integralmente como hora extraordinária devida e não paga.
+Vejamos a jurisprudência deste Egrégio Tribunal Regional Federal da 2ª Região:
+ ..
+Por fim, em relação à pretendida limitação das horas-extras devidas, não podemos olvidar que a execução se desenvolve diante da existência de um ato judicial protegido pelo manto da coisa julgada, instituto da maior relevância e que deriva do princípio da segurança jurídica, constituindo-se tal premissa elemento fundamental para abordagem e análise do caso concreto.
+Como consta da sentença que veio a ser confirmada por este Egrégio Tribunal ( processo 0110430- 59.2014.4.02.5101/RJ, evento 27, SENT125), foi julgado procedente o pedido para condenar a parte requerida a reduzir a jornada de trabalho do autor para 24 (vinte e quatro) horas semanais, remunerando a título de horas extras o trabalho excedente.
+Frisa-se que a sentença em nenhum momento faz referência a limitação da quantidade de horas extras devidas, não cabendo limitar o alcance do título em sede de execução, sob pena de ofensa à coisa julgada.
+Assim, há imperiosa necessidade de se primar pelo respeito e preservação da estabilidade da relação jurídica da qual não cabe mais recurso, prestigiando-se a interpretação do texto legal levada a efeito pelo órgão julgador na oportunidade do julgamento da causa em que constituído o título executivo judicial.
+Caberia à parte, se fosse de seu interesse, antes do trânsito em julgado do título judicial, rebelar-se quanto ao referido tópico da decisão, o que não ocorreu, estando a matéria, assim, amparada pelo manto da coisa julgada, na forma do art. 502 do CPC.
+No mesmo sentido já decidiu este Egrégio Tribunal Regional Federal:
+ ..
+Diante desse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
