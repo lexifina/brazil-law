@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2216, de 5 de setembro de 2024
+Substitui o Anexo Único da Instrução Normativa RFB nº 2.198, de 17 de junho de 2024, que dispõe sobre a apresentação da Declaração de Incentivos, Renúncias, Benefícios e Imunidades de Natureza Tributária - Dirbi.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 18 da Medida Provisória nº 2.189-49, de 23 de agosto de 2001, e no art. 2º da Medida Provisória nº 1.227, de 4 de junho de 2024, resolve:
