@@ -1,0 +1,30 @@
+DECISÃO
+THIAGO ATHAYDE BRAGA COSTA interpõe agravo regimental contra decisão proferida pela Presidência desta Corte Superior (fls. 970-971), que não conheceu do agravo em recurso especial por incidência da Súmula n. 182 do STJ.
+Afirma a defesa, no regimental, que, "em que pese a apontada não impugnação ao fundamento de "ausência de prequestionamento", a decisão da i. Presidente desta Corte não se deu conta de que esta alegação fora direcionada tão somente ao então "2º Recorrente", que seria o Sr. Nilton, aqui não representado"(fl. 978).
+Nas razões do recurso especial, a defesa postula a desclassificação da conduta para o delito do art. 28 da Lei de Drogas.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo regimental.
+Decido.
+Tendo em vista as razões defensivas, reconsidero a decisão de fls. 970-971 e passo a analisar o agravo em recurso especial, o qual é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O Tribunal de origem manteve a condenação do agravante pelo crime de tráfico de drogas, com base nos seguintes fundamentos (fls. 837-841, grifei):
+Depreende-se dos autos que numa operação policial, realizada pela Polícia Rodoviária Federal, no município de Oliveira, o veículo Ford/Ranger, placas PUC-5803, conduzido por Nilton, tendo Thiago por passageiro, foi parado aleatoriamente na barreira e, em virtude do comportamento suspeito, derivado do nervosismo dos dois agentes, o veículo foi submetido a buscas, tendo sido localizados atrás do painel da caminhonete, em um compartimento oculto, dois pacotes fechados, pesando 413,75g de substância conhecida como metilona, de uso proscrito no Brasil, tratando-se de base para a produção de ecstasy.
+Segundo o policial condutor do flagrante, Marcos Fernando de Morais, interpelados os ocupantes do veículo, Thiago declarou que a droga foi comprada por ele pelo valor de R$ 3.000,00 em Campinas/SP, e que se destinava a seu uso pessoal.
+ ..
+Com respeito aos entendimentos em contrário, a dinâmica dos fatos, envolvendo deslocamento entre Estados da federação, porte de elevada quantia em dinheiro, compra de quase meio quilo de droga e acondicionamento em compartimento falso da caminhonete; evidencia por si só o tráfico de drogas, consistente no transporte de substância de uso proscrito.
+Desnecessário perfilhar as declarações dos policiais rodoviários federais, até mesmo porque, são absolutamente objetivas e não foram negadas pelos agentes.
+ ..
+Inúmeras incongruências existem no relato dos fatos pelos próprios agentes, sendo a versão dos dois, incapaz de afastar suas responsabilidades penais por tráfico de drogas.
+Thiago quer fazer crer que se trata de mero usuário. Apesar disso, adquire 413,75g de MDMA por R$ 3.000,00 e nem cito aqui o absurdo ilógico e irracional de pedir ao traficénte 50g e ganhar meio quilo pelo mesmo preço.
+Ainda que houvesse comprado efetivamente 50g de MDMA, a quantia seria incompatível com seu uso próprio, mas 415,75g dispensam argumentos de que se destinariam todos ao uso exclusivo do agente.
+Não bastasse a questão da quantidade de entorpecente apreendido, Thiago declarou possuir renda de R$ 1.500,00 ou R$ 2.000,00. Apesar disso, apenas a droga comprada por ele para seu uso em festas rave importava no dobro de sua renda, sem computarmos aqui seus gastos diários e de manutenção de um nítido e elevado padrão de vida.
+Apesar de citar a renda de sua namorada, segundo suas declarações mais bem remunerada do que a maior parte dos trabalhadores brasileiros, auferindo renda de até R$ 20.000,00 para uma personal treinner, o fato é que não comprovou que era mantido por ela, inclusive quanto à compra de droga, pois o valor de R$ 3.000,00 sobeja em muito sua renda de R$ 1.500,00.
+Thiago disse também que vende açaí numa academia. Inquirido o dono da academia, a testemunha confirmou o trabalho, mas salientou que o negócio era novo, pois o antigo proprietário havia se mudado para Santa Catarina e Thiago estava começando no ramo e que o antigo proprietário, quando tirava um bom lucro, o fazia em torno de R$ 2.000,00.
+As movimentações financeiras realizadas por Thiago são absolutamente incompatíveis com a renda lícita por ele declarada.
+De forma que, analisando as variáveis do art. 28, §2º, da Lei 11.34312006, nada há nos autos que possa sustentar a tese desclassificatória, por maior esforço que se faça em favor da defesa.
+Um usuário de drogas não se desloca centenas de quilômetros para adquirir entorpecente para uso próprio, muitos menos, aloca a droga em compartimento falso de carro, bem como não adquire exorbitante quantidade de uma única vez para uso em festas rave, sendo bastante improvável que alguém reúna condições físicas de consumir toda a droga e participar de tantas festas, conhecidas por durarem toda a madrugada e até mesmo dias contínuos e, ainda sim, desempenhar atividade laboral lícita, duas por sinal.
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias de origem, depois de toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões, mostra-se inviável desclassificação da conduta para o art. 28 da Lei n. 11.343/2006, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Por fim, esclareço que, para entender-se pela desclassificação, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível em recurso especial, a teor da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
