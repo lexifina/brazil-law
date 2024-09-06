@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado por Alagoas Previdência contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 198):
+APELAÇÃO CÍVEL. AÇÃO DE RESTABELECIMENTO DE PENSÃO POR MORTE. PERDA DA QUALIDADE DE BENEFICIÁRIO. INOCORRÊNCIA. SUCESSÃO DE LEIS NO TEMPO. LEI ESTADUAL N. 4.571/84 VIGENTE À ÉPOCA DA CONCESSÃO DO BENEFÍCIO. SÚMULA 340, DO STJ. LEI ESTADUAL N. 7.751/2015 VIGENTE À ÉPOCA DO ATINGIMENTO DA MAIORIDADE CIVIL. BENEFÍCIO PREVIDENCIÁRIO MANTIDO. RESTABELECIMENTO DO PENSIONAMENTO. RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 5.º da Lei 9.717/98 e 16 da Lei 8.213/91 e à Sumula 340 do STJ. Sustenta, em resumo, que "de fato, embora o tribunal fundamente sua decisão na Lei Estadual nº 7.114/2009 (em vigor quando a recorrida completou 18 anos) e na Lei Estadual 7.751/2015 atualmente em vigor, o evento morte ocorreu na vigência da Lei estadual nº 6.288/2002 (apesar de haver erro material na ementa antes transcrita, que menciona Lei Estadual 4.571) e é esse último o dispositivo legal que regula a concessão e o cancelamento do benefício em questão.  ..  vê-se dos autos que a parte recorrida completou 18 (dezoito) anos de idade em 24/03/2014 - f. 23. Desse modo, não havia como o benefício previdenciário pretendido ser restabelecido, haja vista que a demandante, ao completar a idade limite (dezoito anos), deixou de fazer parte do rol taxativo de dependentes previdenciários, não mais fazendo jus, portanto, à pensão pretendida." (fls. 212/213).
+Contrarrazões às fls. 220/235.
+Parecer ministerial às fls. 394/397 .
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+De início, no que se refere à alegada infringência à Súmula 340 do STJ, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF. Nesse sentido, sobressaem os seguintes precedentes: AgInt no REsp 1.889.960/MG, Rel. Herman Benjamin, Segunda Turma, DJe 1º/3/2021; AgInt no REsp 1.869.620/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 31/8/2020.
+A matéria pertinente aos arts. 5.º da Lei 9.717/98 e 16 da Lei 8.213/91 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, com efeito, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 201/204):
+ ..
+12. In casu, depreende-se dos autos que a recorrente vinha recebendo pensão por morte em decorrência do falecimento de sua mãe, ocorrido em 09 de junho de 2003 (fl. 23), sendo o benefício concedido na vigência da lei estadual n. 6.288/2002, a qual estabelecia que:
+ ..
+13. No caso em exame, não se discute o ato concessivo da pensão, que deve ter como referência a legislação da época do óbito, nos termos do princípio do tempus regit actum (súmula n. 340 do STJ 1 ). Questiona-se, em verdade, qual a norma que regulamenta a perda da condição de dependente.
+14. Quanto a este ponto, precedentes destes Tribunal de Justiça sedimentam o entendimento deste Órgão Julgador no sentido de que se deve observar o direito a partir da aplicação da legislação vigente à época do atingimento da idade limite à condição de segurado e/ou dependente. Leia-se:
+ ..
+15. Nesse passo, deve ser efetuada a análise em conformidade com a sucessão legislativa incidente na hipótese concreta, uma vez que, quando a agravada completou 18 (dezoito) anos, vigorava a lei estadual n. 7.114, de 5 de novembro de 2009, que estendia a condição de pensionista até 21 (vinte e um) anos. É de se notar, inclusive, que a própria autarquia reconhece o pagamento de pensão à agravada até este marco, sem óbice.
+16. Em mesma linha de pensar, antes da idade suso mencionada, entrou em vigor a lei estadual n. 7.751/2015, dispondo que somente perderá a condição de dependente ao completar 21 (vinte e um anos) aquele que não comprovar que continua cursando, em primeira graduação, estabelecimento de ensino superior oficial ou reconhecido, bem como se mantenha solteiro e sem renda; o que não se revelou ser o caso dos autos, no qual a requerente originária juntou comprovante de que é estudante universitária, sem indicativos de independência econômica de nenhuma ordem.
+17. Desse modo, nos termos da norma aplicável, equivocada a decisão recorrida, uma vez que a apelante tem direito ao recebimento da pensão por morte até os 24 (vinte e quatro) anos, com fulcro na norma que passo a transcrever:
+ ..
+Diante desse contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
