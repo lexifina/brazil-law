@@ -1,0 +1,106 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Conselho da Magistratura
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0708782-85.2020.8.07.0000EMBARGANTE(S)MARCONI MEDEIROS MARQUES DE OLIVEIRAEMBARGADO(S)DISTRITO FEDERAL e INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO DISTRITO FEDERAL - IPREVRelatorDesembargador WALDIR LEÔNCIO JÚNIOR
+ Acórdão Nº1914726
+
+EMENTA
+
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO CONFIGURAÇÃO. ACLARATÓRIOS NÃO PROVIDOS.
+
+I – A inexistência de omissão no v. acórdão embargado enseja a rejeição dos aclaratórios.
+
+II – Embargos de declaração não providos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) Conselho da Magistratura do Tribunal de Justiça do Distrito Federal e dos Territórios, WALDIR LEÔNCIO JÚNIOR - Relator, ROBERVAL CASEMIRO BELINATI - 1º Vogal, ANGELO PASSARELI - 2º Vogal e MARIO-ZAM BELMIRO - 3º Vogal, sob a Presidência do Senhor Desembargador WALDIR LEÔNCIO JÚNIOR, em proferir a seguinte decisão: Negar provimento. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 06 de Setembro de 2024
+
+Desembargador WALDIR LEÔNCIO JÚNIORPresidente e Relator
+
+RELATÓRIO
+
+MARCONI MEDEIROS MARQUES DE OLIVEIRA opõe Embargos de Declaração contra o v. acórdão proferido por este Conselho da Magistratura que restou assim ementado:
+
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. DECISÃO DESTE TRIBUNAL EM SINTONIA COM PARADIGMA DO STF (TEMA 1.142). ARTIGO 1.030, INCISO I, ALÍNEA “A”, CPC. SEGUIMENTO NEGADO. RECURSO NÃO PROVIDO.
+
+I – O acórdão recorrido coincide com a orientação firmada pelo Supremo Tribunal Federal no RE 1.309.081/MA, paradigma do Tema 1.142, da lista de repercussão geral;
+
+II – Agravo interno não provido.
+
+Aponta a ocorrência de omissão no decisum impugnado, consubstanciada no fato de inexistir coincidência entre a tese fixada pela Corte Suprema no julgamento do RE 1.309.081/MA e a matéria agitada nesta demanda.
+
+Reedita o argumento de que o paradigma versa a respeito da impossibilidade de expedição de requisições de pequeno valor fracionadas dos honorários, ao passo que os autos debatem sobre o direito de fixação em si dos honorários da fase de conhecimento.
+
+Ao final, pugna pelo acolhimento do presente recurso a fim de que seja sanada a omissão indicada, dando-se provimento ao agravo interno.
+
+Contrarrazões ID 62714077.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador WALDIR LEÔNCIO JÚNIOR - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+A finalidade dos embargos de declaração é possibilitar a correção, a integração e a complementação das decisões judiciais que eventualmente se mostrem obscuras, contraditórias ou omissas, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+
+No caso dos autos, ao contrário do que afirma a parte embargante, a decisão do Conselho da Magistratura não padece de qualquer dos aludidos vícios. Senão vejamos.
+
+De início, registre-se que a decisão impugnada por meio de agravo interno fundou-se na negativa de seguimento do extraordinário, tendo em vista a coincidência entre o acórdão recorrido e a orientação firmada pelo Supremo Tribunal Federal no RE 1.309.081/MA (Tema 1.142).
+
+Em seguida, o acórdão combatido, ora desafiado por embargos declaratórios, confirmou a decisão de negativa de seguimento, com base na correta aplicação do mencionado precedente (ID 61030110).
+
+Na oportunidade, o órgão julgador consignou que:
+
+No mesmo sentido, o decisum recorrido deste Tribunal de Justiça assentou que (ID 26197236):
+
+(...) Assim, o fracionamento do crédito definido em ação coletiva, para o cumprimento individual da sentença, proferida em desfavor do Distrito Federal e do IPREV/DF, subverteria o regime jurídico do pagamento por precatório, em afronta ao referido dispositivo constitucional.
+
+Não obstante a possibilidade, em regra, de o credor executar os honorários sucumbenciais na demanda de origem ou em processo autônomo, o presente caso, em observância ao determinado no título judicial, nos moldes pleiteados pelo credor, desatende o critério percentual previsto no CPC 85, § 3ª.
+
+A propósito, precedente desta Turma:
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. FAZENDA DISTRITAL. RESPONSABILIDADE SUBSIDIÁRIA. HONORÁRIOS DE SUCUMBÊNCIA. CUSTAS PROCESSUAIS. FRACIONAMENTO DO PRECATÓRIO. RPV.
+
+ 1. Havendo coisa julgada quanto à responsabilidade subsidiária do Distrito Federal em relação aos débitos cobrados do IPREV, não cabe a sua rediscussão em execução de sentença.
+
+2. Os honorários de sucumbência fixados contra a Fazenda Pública na fase de conhecimento de ação coletiva devem ser liquidados em cumprimento de sentença próprio, evitando-se eventual bis in idem em sua execução através do cumprimento individual de sentença e possível descumprimento dos percentuais previstos no art. 85, § 3 do CPC/2015.
+
+3. Conforme decidido pelo STF no RE 592.619, em repercussão geral, não é permitido o fracionamento do precatório da execução principal contra a Fazenda Pública para pagamento de custas processuais por meio de RPV.
+
+4. Deu-se parcial provimento ao agravo de instrumento. (Ac. 1258956, Des. Sérgio Rocha, julgado em 2020)
+
+Inexiste, assim, violação à SV STF 47 que contempla o fracionamento de execução em desfavor da Fazenda Pública para o pagamento dos honorários advocatícios quando se tratam de crédito individual, diferente do caso em debate, que versa sobre honorários que compõem um crédito único, definido em caráter global, ante o caráter coletivo da ação condenatória.
+
+Ademais, a necessidade de liquidação do julgado no Juízo da ação coletiva, torna ilíquido o título, para fins de cumprimento individual de sentença, na parte que versa acerca dos honorários sucumbenciais definidos na fase de conhecimento.
+
+Depreende-se, assim, que o acórdão impugnado, amparado na orientação sedimentada no Tema 1.142 pelo Colendo STF, reconheceu e afastou o risco de fracionamento da execução de honorários advocatícios sucumbenciais, fixados em ação coletiva contra a Fazenda Pública, em benefício da parte agravante.
+
+Acertada, portanto, a decisão agravada ao negar seguimento ao apelo extremo, tendo em vista o enquadramento da questão debatida no nobre recurso àquela descrita no representativo da controvérsia (artigo 1.030, inciso I, alínea “a”, do Código de Processo Civil).
+
+Ademais, rever a conclusão firmada pela turma julgadora, nos moldes propostos pelo agravante, exigiria o reexame de matéria fática e do próprio mérito da decisão impugnada, o que não é permitido na via do agravo interno, não funcionando esta Presidência como instância revisora do órgão colegiado.
+
+Da leitura dos trechos destacados, constata-se que o embargante se limita a reiterar os argumentos já devidamente enfrentados por este Conselho da Magistratura, revelando-se nítida sua pretensão em provocar a rediscussão da causa nestes embargos de declaração, os quais não se caracterizam como meio processual adequado para reforma do decisum, salvo em situações excepcionais, em que se permite a atribuição de efeitos infringentes, o que, todavia, não se vislumbra na hipótese vertente.
+
+Não há, portanto, omissão a ser sanada, tampouco qualquer outro vício que dê respaldo à pretensão recursal, de modo que todos os pontos necessários ao deslinde da controvérsia foram apreciados.
+
+No mais, “são manifestamente incabíveis os embargos, quando exprimem apenas o inconformismo da parte embargante com o resultado do julgamento, ao buscar rediscutir matéria julgada, sem demonstrar a presença de quaisquer dos vícios previstos na legislação processual” (MS 35506 ED, Relator CRISTIANO ZANIN, DJe 17/10/2023).
+
+Por fim, cumpre advertir que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá configurar o caráter manifestamente protelatório, ensejando a aplicação da multa prevista no § 2º do artigo 1.026 do CPC.
+
+Diante do exposto, NEGO PROVIMENTO aos embargos de declaração.
+
+É O VOTO.
+
+O Senhor Desembargador ROBERVAL CASEMIRO BELINATI - 1º Vogal Com o relatorO Senhor Desembargador ANGELO PASSARELI - 2º Vogal Com o relatorO Senhor Desembargador MARIO-ZAM BELMIRO - 3º Vogal Com o relator
+
+DECISÃO
+
+Negar provimento. Unânime
