@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RYAN RIBEIRO COSTA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA - TJBA no julgamento do HC n. 8000129-14.2024.8.05.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 21/12/2023, por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. DECISÃO FUNDAMENTADA. PRESENÇA DOS REQUISITOS AUTORIZADORES DA SEGREGAÇÃO CAUTELAR. GRAVIDADE CONCRETA DO CRIME EVIDENCIADA. PACIENTE ACUSADO DE INTEGRAR FACÇÃO CRIMINOSA. INAPLICABILIDADE DE MEDIDAS DIVERSAS DO CÁRCERE. ORDEM DENEGADA.
+I. Mandamus impetrado com a finalidade de revogar a prisão preventiva decretada contra o paciente, mediante a alegação de constrangimento ilegal diante da suposta demora na comunicação da custódia, além da falta de fundamento idôneo e dos requisitos autorizadores do decreto prisional.
+II. Matéria relativa à irregularidade da prisão em flagrante encontra-se superada quando esta é convertida em prisão preventiva (novo título), conforme entendimento pacífico do Superior Tribunal de Justiça. Com isso, pequena demora na comunicação da constrição (cerca de quatro horas após o prazo de 24 horas previsto no art. 306, §1º do CPP), não é suficiente, por si só, para ensejar a nulidade da prisão preventiva, quando evidenciada a observância das garantias processuais e constitucionais.
+III. Diante de fundados e razoáveis indícios da prática dos crimes previstos nos artigos 33 e 35 da Lei nº 11.343/2006, o paciente foi preso em flagrante acusado de armazenar e comercializar drogas em sua própria residência. Isso porque, durante o cumprimento de mandado de busca e apreensão, o acusado estava na posse de maconha, cocaína, papeis para embalar droga, cigarro de maconha e um celular Samsung A03, com diversas conversas sobre a venda e a entrega de substâncias entorpecentes.
+Diante disso, a prisão foi convertida em preventiva, mediante decisão fundamentada, com esteio na presença dos requisitos e dos fundamentos dispostos no art. 312 do CPP, revestida de elementos mínimos que lhe conferem validade, mormente porque há indícios de que o paciente é integrante de uma facção criminosa intitulada PCC 1533, a qual é liderada por um presidiário que mesmo custodiado no Presídio de Brumado, controla a organização criminosa através de telefone celular, circunstâncias que demonstram a presença dos requisitos autorizadores da segregação cautelar, bem como a gravidade dos crimes ali praticados.
+IV. Por fim, quanto às alegadas condições pessoais favoráveis do paciente, tais como a primariedade, residência fixa e ocupação lícita, ainda que fossem demonstradas, não possuem o condão de afastar a necessidade da custódia cautelar, quando presentes os seus requisitos, como ocorre no caso.
+HABEAS CORPUS CONHECIDO. ORDEM DENEGADA."
+No recurso, a defesa sustenta a configuração de flagrante constrangimento ilegal sob o argumento de operação de excesso de prazo da custódia cautelar, enfatizando que a prisão persiste há mais de 75 dias e que não foi designada audiência de instrução.
+Aduz a ausência dos requisitos autorizadores da prisão preventiva dispostos no art. 312 do Código de Processo Penal - CPP e realça que o recorrente apresenta condições pessoais favoráveis, sobretudo primariedade, além de exercer atividade laboral lícita e ter endereço fixo.
+Pondera a suficiência das medidas alternativas previstas no art. 319 do CPP.
+Requer o conhecimento e o provimento do recurso para, em liminar e no mérito, tornar sem efeito o acórdão recorrido e determinar a expedição de alvará de soltura em favor do custodiado.
+A liminar foi indeferida às fls. 510/512. Informações prestadas às fls. 518/774, 777/783, 784/790 e 800/812. O Ministério Público Federal - MPF opinou pelo desprovimento do recurso às fls. 793/796 .
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso porque, conforme as informações encaminhadas pelo Juízo de origem (fls. 802/809), verifica-se que, em 17/6/2024, nos autos da Ação Penal n. 8000019-11.2024.8.05.0066, sobreveio sentença condenando o recorrente às penas de 1 ano e 8 meses de reclusão, em regime aberto, e ao pagamento de 167 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido substituída a sanção privativa de liberdade por duas restritivas de direitos e concedido o direito de recorrer em liberdade.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
