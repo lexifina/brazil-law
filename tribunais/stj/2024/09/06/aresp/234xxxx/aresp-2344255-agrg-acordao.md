@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Daniela Teixeira.
+EMENTA
+RELATÓRIO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto, em parte, o relatório de fl. 1.150 (e-STJ):
+"Trata-se de Agravo manejado em face de decisão que não admitiu o Recurso Especial interposto, por sua vez, contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, que negou provimento aos apelos defensivos.
+Consta nos autos que o agravante foi condenado pela prática do crime de armazenamento, para fins de come"rcio, de 20 kg de carne de caranguejo, no peri"odo de defeso, sem a necessa"ria declarac a o de estoque protocolada perante o IBAMA.
+O presente Recurso Especial lastreia-se no art. 105, III, "a" e "c", da CRFB/88, afirmando que a decisão do Tribunal a quo contrariou os artigos 156 e 386, VII, do Código Processual Penal, bem como que há dissídio jurisprudencial sobre a matéria. Para tanto, afirma que não ficou comprovada a materialidade delitiva. Ao final, requer a absolvição do agravante.
+A decisão hostilizada, todavia, negou-lhe seguimento, afirmando que o recurso encontra óbice nos enunciados das Súmulas 7/STJ e 279/STF."
+A decisão agravada conheceu do agravo para negar provimento ao recurso especial.
+O agravante requer a reconsideração da decisão ou o provimento de seu recurso pelo colegiado.
+Sem contrarrazões.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME AMBIENTAL. ART. 34, PARÁGRAFO ÚNICO, III, E ART. 68 DA LEI 9.605/98 PESCA. COMERCIALIZAÇÃO DE CARANGUEJO-UÇÁ. MATERIALIDADE E AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA n. 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO NÃO PROVIDO.
+1. Não há elementos suficie ntes para reconsiderar a decisão proferida.
+2. Não cabe ao Superior Tribunal de Justiça reformar ou anular decisão das instâncias ordinárias que foi proferida sob a égide do princípio do devido processo legal.
+3. No caso concreto, o Tribunal local analisou os elementos de informação e provas para manter a condenação do agravante, não cabendo, nessa via recursal, a incursão pormenorizada nas provas, sob pena de violação do enunciado nº 7 do STJ. Precedentes.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental é tempestivo e indicou os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+No entanto, não verifico elementos suficientes para reconsiderar a decisão proferida, cuja conclusão mantenho pelos seus próprios fundamentos (e-STJ fls. 1154-1160)
+Conforme consignei na decisão ora agravada, o Tribunal de origem negou provimento ao recurso de apelação interposto pela defesa, refutando as teses absolutórias nos seguintes termos (e-STJ fls. 739-747):
+"No presente recurso, o apelante Coco Bambu alega que não praticou a conduta típica contida no artigo 34, Parágrafo Único, III, da Lei Nº. 9.605/98, sustentando que a carne de caranguejo tinha origem lícita, pois, teria sido capturada antes do período de defeso, bem como, por não ter comercializado o produto, apenas armazenado em seu estabelecimento, se trataria de conduta atípica.
+Pois bem.
+Adianto que não assiste razão à defesa.
+No que concerne a suposta atipicidade da conduta, é necessário que sejam analisadas as provas documentais juntadas aos autos, junto à Instrução Normativa Interministerial nº 9, de 30 de dezembro de 2014.
+No caso vertente, o réu é acusado de manter, em estoque, 20 (vinte) kg da espécie caranguejo-uçá (Ucides Cordatus) para fins comerciais, em período proibido, sem possuir declaração de estoque no ato da fiscalização.
+Primeiramente, consoante o Auto de Infração nº 169-B da Secretaria de Estado do Meio Ambiente e Recursos Naturais (SEMA), lavrado dia 11/03/2016, descreveu-se a infração e os dispositivos legais infringidos: "- Deixar de apresentar declaração de estoque de 20Kg de carne de caranguejo beneficiado; - Art. 70 c/c 72 da Lei 9.605/98; - Art. 3º inciso II e IV c/c Art. 35, inciso VI do Decreto Federal; Obs: o produto encontrado sem declaração foi apreendido.". (ID 13677846, fl. 7).
+Em que pese as alegações genéricas do representante legal, verifica-se que, de fato, o réu procedeu a conduta delituosa prejudicando a fauna local, posto que contava com pescados do período defeso, sem apresentação, no ato da fiscalização, da Declaração de Estoque.
+Devo relembrar que, de acordo com a Instrução Normativa Interministerial nº 9, de 30 de dezembro de 2014, o produto foi encontrado dentro do período de defeso, conforme seguinte trecho: "Art. 1º  ..  II - No ano de 2016:  ..  3º Período: 1. 09 a 14 de março, e 2. 24 a 29 de março.".
+Ressalto que a doutrina sustenta que "Os incs. I, II e III também encerram norma penal em branco"1, logo, necessitam de complementação, que é feita pela Instrução Normativa Interministerial nº 9/2014, possibilitando que haja o transporte e a comercialização da espécie de caranguejo mencionada dentro do período de defeso, desde que com a devida Guia de Autorização de Transporte e Comércio, emitida pelo IBAMA:
+(..)
+Pois bem. As provas juntadas nos autos apontam que o recorrente Rodrigo Gomes Valois declarou seu estoque de 400 kg antes do período de defeso, de acordo com o documento de ID 13677846, fl. 50, porém, não seguiu a legislação no momento em que realizou o comércio para o recorrente Coco Bambu.
+Logo, tratando acerca da licitude ou não do produto apreendido, a alegação da defesa não merece prosperar, já que, por mais que tenha sido apresentada uma nota fiscal declarando que foi vendido 20 kg de carne de caranguejo para o estabelecimento Coco Bambu, não foi atendida a norma constante da Instrução Normativa nº 9 de 2014, pois, não foi apresentada a guia de transporte e comércio, bem como, o restaurante não apresentou a declaração de estoque.
+A Lei nº 9.605/98 aduz que configura infração ambiental pescar em período no qual a pesca seja proibida ou em lugares interditados por órgão competente - (artigo 34, caput). O mesmo artigo pune quem transporta, comercializa, beneficia ou industrializa espécimes provenientes da coleta, apanha e pesca proibidas, conforme o artigo 34, parágrafo único, inciso III.
+A tipicidade restou plenamente demonstrada, pois, conforme citação do tipo penal, não se trata de uma interpretação extensiva in mallam partem apontar que a conduta praticada pelos recorrentes se amolda ao tipo penal, no caso, a comercialização de caranguejo em período de defeso, sem a devida Guia de Transporte e Comércio.
+Assim, não há como afirmar que o produto apreendido tinha origem lícita, já que não há comprovação de que a quantidade apreendida veio do estoque declarado pelo Apelante Rodrigo. Ademais, o recorrente Coco Bambu também não apresenta nenhuma prova de que o caranguejo teria origem lícita, tampouco a declaração de estoque do produto apreendido, o que configura a ilicitude do caranguejo apreendido.
+Da mesma maneira entendeu o magistrado a quo ao tratar sobre essa questão (ID 13677995):
+(..)
+O STJ possui entendimento neste sentido, apontando a necessidade da apresentação da declaração de estoque firmada junto ao IBAMA, sob pena de incidir no referido tipo penal:
+(..)
+Por essa razão, a simples comercialização da espécie caranguejo-uçá (Ucides Cordatus) no período de defeso, sem a comprovação da licitude do produto, é suficiente para a caracterização da conduta lesiva ao meio ambiente.
+Sobre a alegação do apelante Coco Bambu de que não incidiu no tempo penal pois não chegou a comercializar, apenas armazenando em seu estabelecimento o produto apreendido, não há como prosperar. Inclusive, entendo que tal argumento se mostra totalmente despiciendo, visto que, o apelante é um restaurante reconhecido pelo comércio de mariscos, logo, a finalidade do estoque apreendido naturalmente seria para comércio, que não se encerrou apenas por conta da realização da fiscalização. Desta maneira, a qualquer momento aquela carne poderia ter sido utilizada para revenda. Desse modo, a conduta praticada pelo apelante se amolda perfeitamente ao crime do artigo 34, parágrafo único, III, da Lei nº 9.605/98.
+Tratando sobre um dos elementos da teoria finalista, especialmente quanto à culpabilidade do agente, ressalto que de acordo com o artigo 21, caput, do Código Penal, o desconhecimento da lei é inescusável. Dessa maneira, ao não cumprir os requisitos para a comercialização em período de defeso, o apelante Rodrigo tinha plena consciência da ilicitude de sua ação, da mesma forma que o recorrente Coco Bambu por ter comprado a mercadoria sem a devida documentação regularizada, e não ter declarado seu estoque, por conseguinte reforça que ambos agiram de forma dolosa. Nesse sentido, não há como considerar que empresas atuantes no ramo da venda de mariscos desobrigarem-se do conhecimento da legislação que trata sobre o assunto. Assim, não restam dúvidas de que ambos apelantes agiram de forma dolosa, logo, improcedente a desclassificação para o delito na modalidade culposa.
+Acerca da alegação da falta da determinação da espécie apreendida, o próprio recorrente Rodrigo Gomes Valois alegou na fase inquisitorial (Inquérito Policial nº44/2017, ID 13677846, fls. 121/122), e confirmou em juízo, que sua microempresa vende a espécie caranguejo-uçá, além de estar consubstanciado no Auto de Infração nº 0169/B, lavrado pela SEMA. Ademais, nem seria necessária uma menção à espécie do caranguejo apreendido, tendo em vista que o caranguejo-uçá é a única utilizada para produção de alimentos no Brasil, como bem ressaltou a Procuradoria de Justiça, em seu parecer. Nesse sentido a materialidade delitiva restou perfeitamente demonstrada, razão pela qual entendo não haver controvérsia.
+DA SUPOSTA ORIGEM LÍCITA DO CARANGUEJO (CAPTURADO ANTES DO PERÍODO DE DEFESO)
+O recorrente Coco Bambu alega que o caranguejo adquirido possui origem lícita, pois, devidamente declarado pelo fornecedor, antes do período de defeso.
+Em que pese o fornecedor ter declarado o estoque antes do período de defeso, a única prova apresentada pelo recorrente para comprovar a suposta licitude do produto é uma nota fiscal emitida no dia 10/03/2016.
+No caso, entendo que não há como provar de maneira incontroversa que realmente o caranguejo apreendido teria como origem o estoque declarado anteriormente ao período de andada.
+O legislador ao elaborar a Instrução Normativa nº 09 de 2014, especificou no art. 3º a necessidade da emissão da Guia de Transporte e Comércio justamente para que se tenha com precisão a origem daquele produto, o que não é possível por meio de uma nota fiscal.
+Entendo que, por mais que a nota fiscal tenha especificado a quantidade de20 kg, que foi o estoque apreendido, documentos particulares, tais como notas fiscais, por não se revestirem da idoneidade própria dos documentos dotados de fé pública, no caso a declaração exigida pela Instrução Normativa, essa nota fiscal só teria relevância se acompanhada de documentos públicos idôneos, mas não isoladamente.
+Nesse sentido, a emissão da Guia de Transporte e Comércio e da declaração de estoque emitidas pelo IBAMA são essenciais para que seja feito um controle severo e preciso da origem da mercadoria. Relativizar a comprovação de compra originada de um suposto estoque lícito apenas por uma nota fiscal seria banalizar a legislação que protege o meio ambiente, além de todo aparato administrativo de proteção e fiscalização.
+A única comprovação que a referida nota fiscal revela é que efetivamente houve a comercialização do produto em período de defeso, sem a documentação necessária, oque, diante da narrativa do tópico anterior configura o delito do artigo, 34, parágrafo único, III, da Lei nº 9.605/98, já que não há como dizer que o produto vendido veio do estoque declarado antes do período de defeso, portanto, torna-se ilícito no momento de sua comercialização.
+DA OCORRÊNCIADA CONDUTA TÍPICA DO ARTIGO 68 DA LEI Nº 9.605/98 (Do descumprimento de dever legal oriundo de obrigação de relevante interesse ambiental)
+O recorrente Rodrigo Gomes Valois sustenta que não incorreu no tipo penal do artigo 68 da Lei nº 6.905/98, pois, por ser um particular, sem contrato com o poder público, não poderia figurar como sujeito ativo do referido delito.
+Não assiste razão à defesa.
+Inicialmente, importante colacionar a literalidade da norma: "Deixar, aquele que tiver o dever legal ou contratual de fazê-lo, de cumprir obrigação de relevante interesse ambiental" (art. 68 da Lei n. 9.605/98).
+(..)
+Os artigos 4º e 5º da Lei Federal nº 11.959/2009 preveem que a atividade pesqueira só pode ser realizada mediante autorização do órgão competente, e especifica que o transporte e a comercialização estão incluídos dentro do processo compreendido como atividade pesqueira, de acordo com o seguinte trecho da Lei:
+(..)
+Dessa forma, a norma citada é complementada pelo art. 68 da Lei n.9.605/98, que também é norma penal em branco, no presente caso, a Instrução Normativa nº 9de 2014, que delimita a obrigação de relevante interesse ambiental, impondo que seja emitida da Guia de Transporte e Comércio e a declaração de estoque no período de defeso.
+Assim, não há como alegar atipicidade da conduta, ou sequer a existência de uma interpretação in malam partem, uma vez que a conduta está nitidamente descrita no art.3º da referida Instrução Normativa, logo, também não há como alegar violação ao princípio da legalidade.
+Diante das provas contidas nos autos, ambos recorrentes deixaram de cumprir obrigação de relevante interesse ambiental, pois, o recorrente Rodrigo Gomes Valois não emitiu a Guia de Transporte e Comércio no momento da venda, e o recorrente Coco Bambu comprou a carne de caranguejo beneficiado sem declarar estoque.
+Não se trata, portanto, de descumprimento de mero regulamento administrativo, mas sim de Lei Federal, razão pela qual o ato de não emitir a autorização para comercialização de caranguejo em período de defeso incorre no delito descrito no art. 68 da Lei nº 9.605/98. Dessa forma, existindo fundamento legal para a referida imposição, a alegação do recorrente Coco Bambu não merece prosperar.
+(..)
+Dessa forma, neste ponto a sentença não merece reformas, portanto, se faz necessária a manutenção da condenação dos recorrentes pela norma insculpida no artigo 68 da Lei nº 9.605/98."
+Não cabe ao Superior Tribunal de Justiça reformar ou anular decisão das instâncias ordinárias que foi proferida sob a égide do princípio do devido processo legal.
+No caso concreto, o Tribunal local analisou os elementos de informação e provas para manter a condenação do agravante, não cabendo, nessa via recursal, a incursão pormenorizada nas provas, sob pena de violação do enunciado nº 7 do STJ.
+Vale dizer, "para afastar a aplicação da Súmula 7 do STJ, não é bastante a mera afirmação de sua não incidência, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.713.116/PI, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+Nesse sentido, a jurisprudência desta Corte de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1) CRIME AMBIENTAL. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. 2) REALIZAÇÃO DE AUDIÊNCIA SEM A PRESENÇA DA DEFENSORIA PÚBLICA. 2.1) NOMEAÇÃO DE ADVOGADO DATIVO. AUSÊNCIA DE NULIDADE. 3) AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de absolver o agravante, demanda, necessariamente, o reexame de provas dos autos, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.879.045/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA DA INICIAL. MATÉRIA TRANSITADA EM JULGADO. PRESCRIÇÃO DAS PENAS RESTRITIVAS DE DIREITOS. NÃO OCORRÊNCIA. ABSOLVIÇÃO E READEQUAÇÃO DA PENA PECUNIÁRIA. SÚMULA 7/STJ. OFENSA AO ART. 619 DO CPP. INOVAÇÃO RECURSAL. AGRAVO NÃO PROVIDO.
+(..)
+3. No tocante ao pedido de absolvição, o Tribunal a quo, soberano na análise do material fático-probatório dos autos, concluiu que restou devidamente comprovado nos autos a prática do crime ambiental, sendo inviável a absolvição da acusada. Nesse contexto, o reexame da tese absolutória, demandaria necessariamente a incursão nos elementos fáticos e probatórios dos autos, providência inviável nesta instância especial, a teor do que dispõe a Súmula 7/STJ.
+(..)
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.437.950/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/5/2019, DJe de 21/5/2019.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
