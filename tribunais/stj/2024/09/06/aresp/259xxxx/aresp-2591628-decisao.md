@@ -1,0 +1,25 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED DE BOTUCATU COOPERATIVA DE TRABALHO MEDICO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/01/2024.
+Concluso ao gabinete em: 02/09/2024.
+Ação: de obrigação de fazer, ajuizada por N C DA S, em face da agravante, na qual requer o custeio do tratamento médico denominado Transplante de Células Tronco Hematopoiéticas (TCTH) necessário ao tratamento de seu diagnóstico (anemia falciforme).
+Sentença: julgou parcialmente procedente o pedido para condenar a agravante à cobrir a integridade do tratamento, no período anterior e posterior à cirurgia da autora, consoante os termos prescritos pelo relatório médico, em sua rede credenciada, ou no caso de prestador fora de rede credenciada, em valores que seriam gastos com o tratamento em serviço médico de igual excelência de sua rede credenciada ou pelo valor do reembolso, o que for maior, tanto para as despesas hospitalares (hotelaria, exames, medicamentos, entre outros) quanto para os honorários da equipe médica.
+Acórdão: deram provimento à apelação interposta pela agravada, para determinar o reembolso integral das despesas, nos termos da seguinte ementa:
+APELAÇÕES. PLANO DE SAÚDE. Ação cominatória c.c Pedido de Tutela de Urgência. Autora menor diagnosticada com anemia falciforme, sendo indicado tratamento médico denominado Transplante de Células Tronco Hematopoiéticas (TCTH) Alogênico. Sentença de parcial procedência. Inconformismo da parte Autora. Pedido de concessão de gratuidade de justiça. Deferimento. Alegação de que o custeio deve ser integral quando a utilização de prestador fora da rede credenciada não ocorrer por escolha do paciente. Inconformismo procedente. Presentes as condições para deferimento do benefício almejado. Tratamento que: (I) em regra,(estabelecimento e equipe médica) deve se dar na rede credenciada; (II) havendo rede e/ou profissional comprovadamente apto e habilitado na listagem credenciada, e o beneficiário opte por cuidados particulares, o reembolso deve se dar nos limites do contrato, observada eventual cláusula de coparticipação; e (III) na hipótese de indisponibilidade de quaisquer deles na rede referenciada, o reembolso deve ser realizado integralmente ao paciente pela Operadora. Condição de Urgência Configurada. Precedentes deste Tribunal. Recurso da autora provido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 371 do CPC. Sustenta que não houve manifestação pelo acórdão recorrido quanto à prova de existência de rede credenciada apta a realizar o procedimento médico, fato que restou comprovado pela agravante e consignado em sentença.
+Parecer do MPF: da lavra do I. Subprocurador-Geral Sady d"Assumpção Torres Filho, opina pelo desprovimento do presente recurso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 371 do CPC
+O TJ/SP, ao exercer as faculdades que lhe confere o art. 371 do CPC/15, analisou o conjunto probatório disponível de forma fundamentada, ainda que tenha adotado um posicionamento distinto daquele almejado pela parte agravante.
+Dessa forma, em sua decisão, o Tribunal de origem seguiu o entendimento do STJ, segundo o qual o magistrado tem liberdade para examinar as provas dos autos e formar sua convicção com base nelas, desde que justifique adequadamente os elementos que embasam seu convencimento, conforme princípio da persuasão racional. Precedentes: AgInt no AREsp 987.406/RJ, 3ª Turma, DJe 14/09/2017; AgInt no AREsp 717.668/GO, 4ª Turma, DJe 26/02/2018; AgInt no AREsp 2.034.835/PR, 3ª Turma, DJe de 6/4/2022; e AgInt no AREsp 2.394.433/SP, 3ª Turma, DJe de 19/6/2024.
+Dessa forma, não se configura violação ao dispositivo legal mencionado, sendo aplicável, portanto, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fls. 790) para 17% (dezessete por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 371 DO CPC. INOCORRÊNCIA.
+1. Ação de obrigação de fazer.
+2. No sistema da persuasão racional, adotado pelo art. 371 do CPC, o julgador é livre para examinar as provas dos autos, formando com base nelas a sua convicção, desde que indique de forma fundamentada os elementos de seu convencimento.
+3. Agravo conhecido. Recurso especial conhecido e não provido.
