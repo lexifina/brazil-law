@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ATAIDE DA SILVA SANTANA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO interposto diante de decisão que indeferiu remição de pena por estudo atrelado ao resultado de exame de certificação do ensino médio (ENEM). Recomendação nº. 44/2013 do Conselho Nacional de Justiça sugerindo o abatimento de sanção em prol de reeducando autodidata que não vincula a atividade jurisdicional. Ausência de participação efetiva em cursos presenciais ou à distância não recomendando o desconto de reprimenda, mesmo porque inexistente prova sobre o grau de instrução do recorrente antes de inserido no sistema prisional.
+Agravante que não utilizou a nota do ENEM para concluir o ensino médio ou para participar de qualquer processo seletivo tendente a galgar vaga em instituição de ensino superior. Benefício adequadamente indeferido. Agravo improvido." (e-STJ, fl. 17).
+Neste writ, a impetrante alega constrangimento ilegal sofrido pelo paciente em decorrência do indeferimento do pedido de remição de pena pela aprovação total no ENEM/2018.
+Assevera que foram violados o art. 126, §§ 1º e 5º, I, da LEP, a Recomendação CNJ n. 44/2013 e a Resolução CNJ n. 391/2021.
+Sustenta que "conforme entendimento pacífico deste C. Tribunal, ainda que o recorrido já possuísse nível médio ou superior antes do cumprimento da reprimenda, esse fato também não impede de remir o quantum de pena por sua aprovação no ENEM (Exame Nacional do Ensino Médio), pois, conforme o art. 126 da LEP e Recomendação n. 391/21, do CNJ, tal certificação configura aproveitamento dos estudos realizados durante a execução da pena." (e-STJ, fl. 7).
+Requer, inclusive liminarmente, a concessão de 100 dias de remição, pela aprovação total no ENEM/2018.
+A liminar foi indeferida (e-STJ, fl. 38).
+Prestadas as informações (e-STJ, fls. 44-57 e 60-63), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 65-67).
+É o relatório.
+Decido.
+Em consulta à base de dados processuais do Superior Tribunal de Justiça, observo que este recurso constitui mera reiteração do HC n. 908.626/SP, julgado por este Relator em 5/6/2024, ocasião em que foi concedida a ordem, para remir 100 (cem) dias da pena do paciente, relativos à aprovação total no ENEM/2018.
+Como cediço, a identidade de partes, objeto e causa de pedir, com ambos os feitos impugnando o mesmo acórdão, constituem óbices ao conhecimento da impetração em face da litispendência.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 33, CAPUT, E ART. 35, AMBOS DA LEI N. 11.343/2006. TRANCAMENTO DA AÇÃO PENAL. JUSTA CAUSA PARA A DEFLAGRAÇÃO DA AÇÃO PENAL. DECISÃO QUE DECRETOU A MEDIDA CAUTELAR DE BUSCA E APREENSÃO. MANDADO DE BUSCA E APREENSÃO. INGRESSO EM DOMICÍLIO. NULIDADES. INOCORRÊNCIA. FUNDADA SUSPEITA DA PRÁTICA DA MERCANCIA ILÍCITA NO INTERIOR DO IMÓVEL CARACTERIZADA. MATÉRIAS EXAUSTIVAMENTE EXAMINADAS NO HC 816.554/MG. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Não podem ser processados nesta Corte, concomitantemente, habeas corpus (ou o recurso que lhe faça as vezes) nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa petendi". (AgRg no HC n. 773.624/PI, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+2. No caso, o presente recurso ordinário possui as mesmas partes, mesmo pedido e mesma causa de pedir do HC-816.554/MG, já decidido por este Relator (DJe de 20/4/2023), decisão confirmada pela 5ª Turma deste STJ (sessão de 9/5/2023).
+3. Agravo regimental a que se nega provimento." (AgRg no RHC n. 179.820/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 750.512/SP. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n. 750.512/SP, foi formulada idêntica pretensão em favor do ora Recorrente. O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria. Assim, é incognoscível a insurgência defensiva.
+2. Não é possível a concessão da ordem de habeas corpus de ofício na hipótese de reiteração de pedido, porquanto a viabilidade de se proceder de tal maneira deve ser verificada quando do julgamento do writ conexo.
+3. Agravo regimental desprovido." (AgRg nos EDcl no RHC n. 172.358/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL. DOSIMETRIA DA PENA. TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI N. 11.343/2006). LITISPENDÊNCIA. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. REITERAÇÃO. AGRAVO DESPROVIDO.
+1. Ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+2. Não podem ser processados, concomitantemente, dois habeas corpus entre os quais há litispendência - igualdade de partes, de objeto e de causa de pedir.
+3. A mera insatisfação da parte, sem a demonstração de fato novo ou vício que possa macular a fundamentação adotada pelo julgador, não é suficiente para modificar o resultado do julgado.
+4. Agravo regimental desprovido." (AgRg no HC n. 736.505/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 6/9/2022, DJe de 12/9/2022).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. MERA REITERAÇÃO DE PEDIDO FORMULADO. WRIT JÁ JULGADO. IMPOSSIBILIDADE. LITISPENDÊNCIA RECONHECIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não podem ser processados nesta Corte, concomitantemente, dois habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir." (EDcl no HC 600.600/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020).
+2. No caso em exame, o mandamus constitui mera reiteração do pedido formulado no HC 654.298/BA - que não foi conhecido - porquanto os dois writs apresentam identidade de partes, objeto e causa de pedir, impossibilitando a apreciação deste habeas corpus.
+3. Agravo regimental desprovido." (AgRg no HC n. 671.001/BA, deste relator, Quinta Turma, julgado em 3/8/2021, DJe de 9/8/2021).
+Ante o exposto, indefiro liminarmente este habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
