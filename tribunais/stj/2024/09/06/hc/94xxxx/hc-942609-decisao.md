@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAFAEL SAMPAIO SOARES, contra suposto ato coator do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Consta dos autos que o paciente foi sentenciado por roubo majorado e associação criminosa, às penas de 9 (nove) anos e 8 (oito) meses de reclusão, em regime inicial fechado.
+A defesa afirma que protocolou o recurso de apelação n. 0013119-55.2019.8.14.0015 em 4/6/2024 (fl. 165), mas ainda não foi julgado.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado no alegado excesso de prazo para a apreciação do recurso de apelação.
+Assere que o processo seria absolutamente nulo, matéria de ordem pública que poderia ser conhecida em qualquer momento e grau processual.
+Explica que "Deve ser reconhecida a nulidade das provas obtidas durante a investigação, em especial deve ser anulada a busca e apreensão realizada em seu domicílio e todos os demais atos subsequentes, pois determinada pelo Juiz da 2ª Vara Criminal da Comarca de Castanhal, o qual se declarou incompetente para processamento e julgamento do processo, tendo em vista que o crime teria ocorrido no Município de Inhangapi, sendo tal medida determinada por juiz incompetente todas as provas obtidas na referida diligência policial e, depoimentos e diligencias posteriores, inclusive o reconhecimento de objetos apreendidos de forma invalida, bem como deve ser anulado o processo como um todo já que a denúncia utiliza essas provas em sua denúncia, bem como durante a instrução fora mencionado tal fato e a sentença também utilizou tais investigações e resultado da busca e apreensão como meio para condenar o paciente" (fl. 6).
+Requer, inclusive liminarmente, "a concessão da ordem de HABEAS CORPUS, para declarar a NULIDADE ABSOLUTA DO PROCESSO, ou determinar o imediato julgamento do presente recurso de apelação como medida de Justiça, pelo excesso injustificado" (fl. 13).
+É o relatório. DECIDO.
+Conforme relatado, a defesa requer que seja declarada a nulidade do processo ou que o recurso de apelação seja imediatamente julgado.
+Contudo, colhe-se dos autos que a matéria não foi invocada pela defesa no próprio TJ, tendo esta se insurgido neste STJ em indevida supressão de instância.
+Portanto, não se encontra qualquer irresignação da defesa junto àquele colegiado, de forma que nem se poderia falar em eventual indevida negativa de prestação jurisdicional.
+Assim, ao fim, não existe um acórdão sobre a matéria posta nestes autos.
+Nesse contexto, ausente manifestação do Tribunal a quo, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise por falta de competência (art. 105, I e I I, da CF; e art. 13, I e II, do RISTJ).
+Vejamos:
+"As teses relativas a policiais civis terem interrogado o paciente sem advogado e a suposta ofensa ao direito ao silêncio não foram examinadas pela Corte de o rigem, conforme se verifica do inteiro teor do acórdão impetrado, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância. Registre-se que "os termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022)" (AgRg no HC n. 821.390/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 17/8/2023).
+Corroborando: AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 21/12/2022; AgRg no HC n. 834.361/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; e AgRg no HC n. 805.062/MG, Quinta Turma, de minha relatoria, DJe de 2/6/2023; e AgRg no HC n. 822.227/MG, Quinta Turma, de minha relatoria, DJe de 26/6/2023.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intime-se.
+ EMENTA
