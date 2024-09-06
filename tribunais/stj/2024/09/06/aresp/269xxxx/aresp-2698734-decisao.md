@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de antecipação de tutela, ajuizada por LIAMARA GARCIA ALVES DOS SANTOS, em face da agravante, em razão de negativa indevida de cobertura de medicamentos antineoplásicos para tratamento de câncer de mama.
+Acórdão recorrido: negou provimento a agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+Agravo de instrumento. Plano de saúde. Obrigação de fazer. Tutela antecipada. Negativa de cobertura de medicamentos pelo plano de saúde. Inadmissibilidade. Fornecimento de "Letrozol" e "Ribociclibe". Necessidade. Fármacos indicados formalmente para tratamento de carcinoma mamário invasivo, não se tratando de uso "off label". Operadoras de plano de saúde possuem o dever de cobertura de fármacos antineoplásicos orais, utilizados em tratamento contra o câncer. Entendimento do STJ. Presença dos requisitos do art. 300, "caput", do CPC. Precedentes. Constrição de valores como medida coercitiva. Possibilidade. Inteligência do art. 297 do CPC. Fornecimento de caução. Dispensabilidade. Precedentes. Recurso desprovido. (e-STJ, fl. 64)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da incidência da Súmula 735/STF e da não demonstração de violação dos arts. 520, IV, 525 e 537, todos do CPC.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz a não incidência da Súmula 735/STF, bem como assevera que "(..) ao se analisar o recurso especial, depreende-se que um dos fundamentos apontados para a reforma da decisão fora, justamente, a afronta à legislação federal (arts. 10 e 12, ambos da lei nº 9.656/98), ou seja, a necessidade de cumprimento do prazo de carência de 180 dias." (e-STJ, fl. 145).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: não demonstração de violação dos arts. 520, IV, 525 e 537, todos do CPC.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
