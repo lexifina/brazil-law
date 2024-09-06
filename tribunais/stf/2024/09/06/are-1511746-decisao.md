@@ -1,0 +1,61 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA INTERPOSTO NA VIGÊNCIA DA LEI N.º 13.015/2014. DESPACHO DE ADMISSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. O ordenamento jurídico vigente confere expressamente ao tribunal prolator da decisão recorrida a incumbência de decidir, em caráter prévio, sobre a admissibilidade do recurso de revista, competindo não só proceder ao exame dos pressupostos genéricos do recurso, como também dos específicos, sendo suficiente, para tanto, que aponte os fundamentos que o levaram a admitir ou a denegar seguimento ao apelo (art. 896, § 1º, da CLT), não prejudicando nova análise da admissibilidade recursal pelo TST. Assim, há que se falar em violação aos artigos 1.022, I e II, parágrafo único, II, e 489, §1º, do CPC/2015, porquanto assegurados o acesso ao Judiciário, o devido processo legal, o contraditório e a ampla defesa, com os meios e recursos a ela inerentes, a disparidade entre o resultado do julgamento e a expectativa da parte, por si só, não caracteriza negativa de prestação jurisdicional. Agravo de instrumento a que se nega provido.
+
+    INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. O procedimento de suspensão de julgamento decorrente da instauração de incidente de uniformização de jurisprudência se restringe somente aos recursos de revista, não sendo cabível referido procedimento em sede de agravo de instrumento. Ademais, o sobrestamento do julgamento no TST com a consequente determinação de retorno dos autos somente ocorre quando o incidente é suscitado por Ministro Relator no Tribunal Superior do Trabalho. Agravo de instrumento a que se nega provido.
+
+    NEGATIVA DE PRESTAÇÃO JURISDICIONAL DO ACÓRDÃO REGIONAL. Não se cogita negativa de prestação jurisdicional, uma vez que o Tribunal Regional proferiu decisão íntegra quanto à natureza jurídica da empresa, notadamente sobre a aplicabilidade ou não da liminar concedida na ADI 1552-4, bem como quanto à alteração contratual por ato da empregadora. No que se refere à natureza jurídica de horas extras, tendo o acórdão regional, após análise detida dos elementos fáticos, legais e normativos, concluído que a reclamante não faz jus à jornada pleiteada, não faz sentido a análise da natureza jurídica de um direito inexistente, uma vez que restou demonstrado pormenorizadamente que a pretensão da jornada diária de 6 horas carece de amparo legal desde o início. Também não há que se falar em omissão em relação às provas dos autos, uma vez que o Tribunal Regional levou em consideração os elementos fáticos e probatórios delineados nos autos, os quais demonstraram que a reclamante foi contratada em março de 2006, após aprovação em concurso público, cujo edital já previa a incidência da carga de 8 horas de trabalho por dia. Agravo de instrumento a que se nega provimento.
+
+    ADVOGADOS DA CODEVASF. JORNADA DE TRABALHO. CONTRATAÇÃO COM AMPARO EM LEGISLAÇÃO DIVERSA. VIOLAÇÃO AO PINCÍPIO DA ISONOMIA. NÃO CONFIGURAÇÃO. Cinge-se a controvérsia em se definir se a autora faz jus à mesma carga horária usufruída por outros empregados que, admitidos antes da edição da Lei 9.527/1997 e exercendo o mesmo cargo (assistentes jurídicos), cumprem jornada de 6 horas diárias e 30 horas semanais. Ao reformar a sentença, o Tribunal Regional adotou o princípio da legalidade, fundamentando que é inaplicável a jornada de 4 horas (prevista no estatuto da OAB) aos empregados admitidos a partir da edição da Lei 9.527/1997. Concluiu que “Daí, sobreveio o reconhecimento por parte da empresa de que os advogados até então admitidos têm direito à jornada de 4 horas diárias, uma vez já agregada a cláusula aos contratos laborais. Em relação aos vínculos celebrados posteriormente, tais assessores jurídicos, por estarem sujeitos à Consolidação das Leis do Trabalho, com carga horária de 40 horas semanais, não gozam da prerrogativa suscitada”. Extrai-se do acórdão regional que a Reclamante, aprovada em concurso público, foi contratada em março de 2006 sob a égide da Lei 9.527/1997, e o edital do seu concurso já previa a incidência da carga de 8 horas de trabalho por dia. Nesse contexto, deve-se analisar a possibilidade de aplicação do princípio da isonomia quando há lei específica disciplinando a matéria relativa à jornada dos empregados advogados na esfera estatal, bem como a circunstância de a contratação destes empregados ter ocorrido sob regulamento empresarial distinto. Muito embora a reclamada seja empresa pública prestadora de serviço público, o STF firmou entendimento de que as referidas empresas, que não exercem atividade econômica em sentido estrito, sujeitam-se ao regime jurídico das empresas publicas, inclusive quanto às obrigações trabalhistas e tributárias. Observa-se que a reclamada está sujeita ao princípio da legalidade, expressamente prevista no art. 37, caput, da CF, segundo o qual “a administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência”. Assim, sob a ótica da Administração Pública, somente é permitido fazer o que a lei autoriza, de forma prévia e expressa, sendo vedado atuar ou editar normas infralegais contra texto expresso de lei, enquanto na administração particular é lícito fazer tudo que a lei não proíbe, nos termos do art. 5º, II, da CF. Portanto, a fixação da jornada de trabalho dos empregados da reclamada está vinculada ao princípio da legalidade estrita, dele não podendo se afastar ou desviar, sob pena de praticar ato inválido. Embora a legislação trabalhista seja orientada pelo princípio da norma mais favorável ao trabalhador, ao realizar a ponderação dos interesses envolvidos na disputa, deve-se privilegiar os princípios fundamentais do conjunto social em detrimento da individualidade no caso concreto. Na hipótese, o art. 4º da Lei 9.527/1997 afastou expressamente a aplicação do artigo 20 do Estatuto da OAB aos advogados de empresas públicas, implicando na adoção da jornada de 40 horas semanais. Desse modo, verifica-se que a instituição de jornadas distintas aos assessores jurídicos da Reclamada encontra amparo legal, visando assegurar o direito adquirido (jornada de 4 horas diárias e 20 horas semanais) aos advogados aprovados e contratados no concurso público de 1997, e o respeito ao princípio da segurança jurídica. O ato normativo editado pela reclamada estipulando, por determinado período, a jornada de 4 horas diárias e 20 semanais para seus advogados contratados após a vigência da Lei 9.527/1997 é inválido. Assim, não há que se falar em alteração lesiva do contrato de trabalho, pois não se observaram os parâmetros delineados pela referida lei. Diante dessa conjuntura, a jurisprudência desta corte tem firmado o entendimento de que a diferenciação da jornada de trabalho dos advogados aprovados e contratados nos concursos de 2003 e 2008, com jornada de 8 horas, não ofende o princípio da isonomia, uma vez que as admissões decorreram da estrita observância das normas legais e regulamentares vigentes à época. Ademais, a jurisprudência desta corte também entende que a contratação realizada por meio de concurso público deve-se reger pelas regras constantes do edital do processo seletivo, de modo que o contratado se submete à jornada nele prevista. Precedentes. Agravo de instrumento a que se nega provimento.
+
+    HONORÁRIOS ADVOCATÍCIOS. REQUISITO DO ART. 896, § 1º-A, I, DA CLT NÃO ATENDIDO. AUSÊNCIA DE TRANSCRIÇÃO. Verifica-se que, no recurso de revista, a parte recorrente não indicou o trecho da decisão regional que consubstancia o prequestionamento da controvérsia objeto do apelo, nos termos do art. 896, § 1º-A, I, da CLT (incluído pela Lei n.º 13.015/2014). Agravo de instrumento a que se nega provimento.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 7º, VI, VII e 93, IX, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 93, IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver como base exclusivamente a sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 25/09/2018).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se que, para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise de cláusulas de contrato de trabalho ou de negociação coletiva trabalhista, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+
+    I – Para se chegar à conclusão diversa da adotada pelo Juízo a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas integrantes de acordo coletivo de trabalho e de homologação em ação de cumprimento, o que atrai a incidência das Súmulas 279 e 454/STF. A ofensa à Constituição, portanto, se ocorrente, seria indireta. Precedentes.
+
+    II – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 1.029.393-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 30/08/2017)
+
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Complementação de aposentadoria. Revisão. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes.
+
+    1. Embargos de declaração recebidos como agravo regimental.
+
+    2. A discussão acerca da manutenção da proporcionalidade entre os pisos salariais do quadro de empregados da FEPASA não prescinde da análise da legislação infraconstitucional ou do reexame das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 280, 636 e 454/STF.
+
+    3. Agravo regimental não provido.” (ARE 890.071-ED, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21/10/2015)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(ARE 638.703-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 03/02/2012)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 6 de setembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
