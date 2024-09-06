@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de WESLEM DAS NEVES SANTIAGO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE no julgamento da Apelação Criminal n. 0000700-57.2023.8.01.0004.
+Extrai-se dos autos que o paciente foi condenado pela prática do crime de roubo circunstanciado, às penas de 7 anos, 5 meses e 18 dias de reclusão, em regime inicial fechado, e 212 dias-multa. A sentença condenatória não foi juntada aos presentes autos.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"DIREITO PENAL. DIREITO PROCESSUAL PENAL. ROUBO MAJORADO. PENA-BASE. NEGATIVAÇÃO DEVIDA. FUNDAMENTAÇÃO IDÔNEA. AFASTAMENTO DAS CAUSAS DE AUMENTO. IMPOSSIBILIDADE. FIXAÇÃO BASEADA NO CASO CONCRETO. DETRAÇÃO. INVIABILIDADE. COMPETÊNCIA DO JUÍZO EXECUTÓRIO. INDENIZAÇÃO. EFEITO AUTOMÁTICO DA CONDENAÇÃO. MANUTENÇÃO DO QUANTUM INDENIZATÓRIO. RECURSO CONHECIDO E DESPROVIDO.
+1. A culpabilidade, na verdade, nada mais é que o maior ou menorgrau de reprovabilidade da conduta do agente e que não se afigurainerente ao próprio tipo penal. Valoração negativa escorreita;
+2. Segundo o art. 68, parágrafo único do Código Penal, no concursode causas de aumento ou de diminuição previstas na parte especial,pode o juiz limitar-se a um só aumento ou a uma só diminuição,prevalecendo, todavia, a causa que mais aumente ou diminua.
+3. Salienta-se que o Poder Legislativo, com a alteração trazida pelaLei nº 13.654/18, que introduziu o § 2º-A ao artigo 157 do CódigoPenal, fixando a fração de aumento de 2/3 (dois terços) peloemprego de arma de fogo, buscou, exatamente, reprimir de modomais severo o delito praticado mediante o uso do referido artefato,em razão das inúmeras ocorrências dessa natureza constatadas emnosso país, que tanto amedronta o cidadão, sendo uma resposta à criminalidade violenta existente em nossa sociedade.
+4. Não se olvida do entendimento desta Corte, que autoriza a fixação de regime inicial mais gravoso quando lastreado emcircunstâncias concretas que demonstrem a gravidade do delito e a periculosidade do sentenciado, como bem asseverado pelaMagistradoa quono curso do édito condenatório ao valorarnegativamente a culpabilidade. Detração é tema inerente à execução penal;
+5. Nenhuma censura merece o decisório ora recorrido, que deve sermantido pelos seus próprios e jurídicos fundamentos.
+6. Recurso conhecido e improvido" (fl. 19).
+No presente writ, a defesa sustenta que a pena-base foi indevidamente majorada no vetor culpabilidade. Argumenta que não foi exposto nenhum fundamento apto a justificar a elevação da pena na primeira fase.
+Argumenta que as instâncias ordinárias não justificaram a cumulação de causas de aumento na terceira fase da dosimetria, devendo ser aplicada apenas uma delas, nos termos do art. 68, do Código Penal.
+Aponta que o regime inicial fechado foi fixado em contrariedade com a Súmula 719, do Supremo Tribunal Fed eral.
+Requer, em liminar e no mérito, a redução da pena imposta e a fixação de regime mais brando.
+É o relatório.
+Decido.
+O writ, conquanto impetrado por profissional legalmente habilitado, está deficientemente instruído. Não foi juntada aos autos a cópia integral da sentença condenatória, documento essencial à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido, confiram-se os seguintes precedentes, entre outros (grifos nossos):
+RECURSO EM HABEAS CORPUS. FEMINICÍDIO TENTADO. CUSTÓDIA PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INSTRUÇÃO DEFICIENTE QUE OBSTA O EXAME DA TESE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. NÃO CONFIGURAÇÃO. RECOMENDAÇÃO N. 62/2020 DO CNJ. SUBSTITUIÇÃO DA CAUTELA EXTREMA POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. A defesa não instruiu o presente recurso com cópia das decisões que trataram da prisão preventiva do réu (conversão do flagrante em custódia provisória, indeferimento de concessão da liberdade provisória e pronúncia), circunstância que inviabiliza o exame da suscitada ausência de motivação idônea para impor a cautela extrema.
+2. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+3. Não se constata desídia estatal na condução do feito, uma vez que a realização da sessão de julgamento pelo Tribunal do Júri está prevista para data próxima, a denotar o prognóstico de conclusão do procedimento bifásico dos crimes dolosos contra a vida cerca de 1 ano e 9 meses após a prisão em flagrante do réu.
+4. Ante a crise mundial da Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades, inclusive do Poder Judiciário. Nesse sentido, salienta a Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça a importância da "adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo".
+5. Todavia, o aresto combatido foi claro ao afirmar, além do fato de o delito haver sido praticado mediante violência contra a vítima, a ausência de comprovação de que o acusado integra o grupo de risco da Covid-19, bem como da impossibilidade de receber tratamento médico adequado no estabelecimento prisional em caso de eventual contágio.
+Para alterar essa conclusão seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+6. Recurso conhecido em parte e não provido.
+(RHC 132.620/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DO WRIT. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA DECISÃO DE DECRETOU A PRISÃO TEMPORÁRIA E DA DECISÃO QUE A CONVERTEU EM PREVENTIVA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - A decisão monocrática que nega provimento a recurso ordinário não viola o princípio da colegialidade, eis que conforme previsão no Regimento Interno desta Corte, é permitido ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Precedentes.
+II - O agravante não juntou aos autos cópia da r. decisão que decretou a sua prisão temporária, e a decisão que a converteu em preventiva no momento da interposição do recurso, tampouco no presente agravo regimental, alegando, ainda, a sua desnecessidade, impedindo, em virtude da instrução deficiente, a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de não conhecimento do mandamus ou de seu recurso ordinário. Precedentes.
+III - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido.
+(AgRg no RHC 130.798/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/09/2020.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
