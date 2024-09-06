@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDMUNDO PEREIRA LIMA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1504079-98.2023.8.26.0047).
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, e no art. 35, caput, ambos da Lei n. 11.343/2006, à pena de 8 anos e 6 meses de reclusão em regime fechado. Irresignada, a defesa interpôs recurso de apelação, ao qual se negou provimento.
+No presente mandamus, a defesa pugna, em síntese, pela nulidade das provas, em virtude da ilicitude da busca domiciliar, com a consequente absolvição do paciente. Destaca, no mais, que a tese não foi analisada pelo Tribunal de origem em consonância com a jurisprudência.
+É o relatório. Decido.
+De plano, verifico que a matéria relativa à ilicitude da busca domiciliar já foi analisada pelo Superior Tribunal de Justiça no julgamento do Habeas Corpus n. 864.449/SP, impetrado pelos mesmos causídicos, em benefício do mesmo paciente, apontando como ato coator acórdão proferido em prévio writ. No referido habeas corpus, julgado em 25/10/2023, ficou consignado que "a busca domiciliar foi precedida de fundada suspeita de que o paciente, após ser abordado vendendo entorpecentes, confessou informalmente que estaria na posse de mais drogas em sua residência".
+Destacou-se, no mais, que:
+Por outro lado, o acórdão impugnado afirmou que, quanto a alegação de invasão de domicílio de terceiro, destaco que o Paciente reside na parte dos fundos da residência de seu irmão, Breno, que autorizou a entrada e acompanhou a diligência, bem como, diante das fotografias apresentadas (fls. 25/28), nota-se que o ingresso se dá pela casa principal, o que afasta qualquer irregularidade na abordagem realizada.
+Por fim, existindo fundadas razões para a realização da busca domiciliar, fica sem sentido a discussão acerca do consentimento, ou não, do irmão do paciente para a entrada em seu domicílio, pois a atuação policial encontrava-se legitimada anteriormente, podendo a busca domiciliar ter sido realizada sem qualquer consentimento do morador.
+Nesse contexto, apesar de o presente habeas corpus não revelar mera reiteração, uma vez que impugna acórdão distinto, qual seja, o proferido na apelação criminal, tem-se que a matéria já foi efetivamente examinada pelo Superior Tribunal de Justiça, concluindo-se pela ausência de nulidade, conforme acima transcrito. Dessa forma, não é possível examinar novamente o tema.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MERA REITERAÇÃO. HC 530.284/SP. ACÓRDÃOS DISTINTOS. MESMO PEDIDO E CAUSA DE PEDIR. 2. ACÓRDÃO IMPUGNADO. REVISÃO CRIMINAL. TEMAS NÃO ENFRENTADOS. 3. DOSIMETRIA. ELEVAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO CONCRETA. 11KG DE MACONHA. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Embora o presente mandamus se insurja contra acórdão distinto, tem-se que possui o mesmo pedido e causa de pedir do Habeas Corpus n. 530.284/SP, da minha relatoria, julgado em 27/4/2020, ocasião em que não verifiquei ilegalidade a justificar a concessão do habeas corpus de ofício.
+- É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+2. Ademais, sendo o acórdão impugnado o proferido em revisão criminal, constata-se que nenhum dos temas trazidos pelo impetrante foram enfrentados no referido acórdão, que se limitou a afirmar inexistir "argumento ou fato novo capaz de alterar a decisão anteriormente proferida" (e-STJ fls. 30/31).
+3. Quanto à pena-base, tem-se que a elevação em 1/4 se revela proporcional, haja vista a grande quantidade de droga apreendida - mais de 11kg de maconha -, elemento que claramente denota a gravidade concreta da conduta, a exigir uma resposta mais enfática do julgador na fixação da pena.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 796.091/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+Destaco, por fim, que, já tendo o Superior Tribunal de Justiça se manifestado no sentido da legalidade da busca domiciliar, não há se falar em ofensa ao dever de fundamentação por parte da Corte local.
+Pelo exposto, indefiro liminarmente o mandamus.
+Publique-se.
+EMENTA
