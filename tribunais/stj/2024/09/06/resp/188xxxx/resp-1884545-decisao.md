@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por MOZARLEM GOMES DO NASCIMENTO, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"DIREITO PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. POSSE DEMONSTRADA. PROTEÇÃO POR MEIO DE EMBARGOS DE TERCEIRO. HONORÁRIOS DE SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SENTENÇA MANTIDA.
+I. A posse, desde que juridicamente idônea, é passível de proteção por meio de embargos de terceiro, segundo a inteligência do artigo 674 do Código de Processo Civil.
+II. De acordo com o princípio da sucumbência, encartado no artigo 85, caput, do Código de Processo Civil, a responsabilidade pelo pagamento dos honorários advocatícios está calcada no fato objetivo da derrota processual.
+III. Recurso conhecido e desprovido." (e-STJ fl. 237).
+Em suas razões, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 86, 678 e seguintes do Código de Processo Civil de 2015, sustentando, em síntese, i) a impossibilidade de a parte recorrida atuar como terceiro, haja vista que, além de não deter a posse, não comprovou a regular aquisição do imóvel, e ii) que os honorários advocatícios sucumbenciais fixados no percentual de 20% (vinte por cento) sobre o valor da causa é excessivo, devendo ser reduzidos equitativamente, nos termos do parágrafo 8º do art. 85 do CPC/2015.
+Após as contrarrazões (e-STJ fls. 290/311), o recurso foi admitido na origem (e-STJ, fls. 313/314).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Inicialmente, cumpre registrar que "segundo a jurisprudência do STJ, o uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF" (AgInt no REsp n. 1.882.521/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2020, DJe de 16/11/2020).
+Com efeito, a jurisprudência desta Corte exige a especificação dos artigos apontados como violados, a fim de proporcionar a integral compreensão da controvérsia, não admitindo alegações genéricas de ofensa à lei ou de violação de determinado artigo acompanhado da vaga construção "e seguintes".
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. UTILIZAÇÃO DA FÓRMULA "E SEGUINTES". SÚMULA N. 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, o uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF.
+2. Agravo interno improvido."
+(AgInt no AREsp 2.165.759/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/10/2022, DJe de 20/10/2022 - grifou-se)
+A par disso, o Tribunal de origem reconheceu a regularidade da aquisição do imóvel pela parte recorrida, assim como a sua posse, nos seguintes termos:
+"(..)
+Portanto, avulta evidenciada que a posse exercida pela embargante emerge de justo título, posto que teria lastro em contrato de cessão de direitos, donde se infere que a ela deve ser assegurada, nesta sede, a proteção reclamada, de modo a afastar a medida judicial de reintegração de posse, pleiteada em processo do qual não teria participado.
+Noutro vértice, oportuno registrar que, muito embora não se cogite, na hipótese vertente, do reconhecimento da propriedade, posto que não se confere tal efeito translativo ao aludido contrato, cujo objeto seria imóvel em situação irregular, não se deve olvidar, lado outro, que o compromisso formalmente firmado é documento hábil a demonstrar, para o fim de atrair a tutela possessória, a legítima titularidade da posse do bem pela embargante, relação jurídica que, por si só, se afigura suficiente à proteção assegurada pelo artigo 674 do CPC, à luz do que preconiza o §1º do mesmo dispositivo." (e-STJ, fls. 240/241)
+Nesse contexto, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ademais, a fundamentação recursal se revela manifestamente deficiente também porque é incapaz de evidenciar o malferimento da legislação federal invocada a partir das premissas de fato assentadas pelo acórdão recorrido.
+Da mesma forma, o art. 86 do CPC/2015, indicado como malferido, não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que, igualmente configura a deficiência de fundamentação do recurso especial, atraindo o óbice da Súmula nº 283 e, mais uma vez, o da Súmula nº 284/STF.
+A par disso, em relação aos honorários advocatícios, o acórdão recorrido não destoa da jurisprudência do Superior Tribunal de Justiça, que entende ser cabível a fixação dos honorários advocatícios com base no valor da condenação, do proveito econômico ou da causa, segundo a ordem de gradação do art. 85, § 2º, do CPC.
+De fato, "a jurisprudência desta Corte se firmou no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo artigo 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa" (REsp 1.746.072/PR, Segunda Seção, DJe de 29/03/2019).
+Além disso, no julgamento do Tema Repetitivo nº 1076, o STJ definiu que "a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. (..) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", o que não se ver ifica na hipótese (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022).
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor da causa, não cabendo a majoração prevista no art. 85, § 11, do Código de Processo Civil por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
