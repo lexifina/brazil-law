@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Braga - Juízo Local Criminal de Braga - Juiz 3) solicita que se proceda à notificação de João Paulo Smolka Pinto para tomar conhecimento da Ação Judicial relativa ao Processo n. 77/19.5.JABRG e, se quiser, oferecer contestação no prazo de 20 dias.
+No processamento da Carta Rogatória, a observância da garantia do devido processo legal é imperativa (art. 36, caput, do CPC). A impugnação restringir-se-á à discussão quanto ao atendimento dos seus requisitos (ausência de ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública, autenticidade dos documentos e inteligência da decisão), e é vedada a revisão do mérito do pronunciamento judicial estrangeiro (art. 36, § 2º, do CPC).
+Assim, no âmbito do procedimento preliminar à concessão da ordem, intime-se a parte interessada, no endereço indicado à fl. 3, para que, caso queira e com advogado constituído (art. 103 do CPC), impugne, no prazo de 15 dias, o pedido de concessão de exequatur (art. 216-Q do RISTJ).
+Na circunstância de não se encontrar a parte interessada em virtude de alteração do endereço ou por ser o seu paradeiro desconhecido, abra-se vista ao Ministério Público Federal para que, se possível, forneça outro endereço para localização. Inexistindo outro endereço, devolva-se a comissão à Justiça rogante via autoridade central.
+Não se encontrando a parte interessada, abra-se vista ao MPF para que se manifeste, em 15 dias, sobre a concessão do exequatur (art. 216-S do RISTJ).
+Na hipótese de revelia ou de apuração da incapacidade da parte interessada (art. 216-R do RISTJ), notifique-se a Defensoria Pública da União a fim de que indique representante para atuar como curador especial e, nesse contexto, manifestar-se.
+Apresentada a resposta, encaminhem-se os autos ao Ministério Público Federal para que, em 15 dias, se pronuncie sobre a concessão do exequatur (art. 216-S do RISTJ).
+Publique-se.
+EMENTA
