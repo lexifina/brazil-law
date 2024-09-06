@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GELSON DONIZETTE BASTOS DE FREITAS, apontando-se como autoridade coatora o Tribunal de Justiça de Goiás (Apelação Criminal n. 108123-27.2014.8.09.0115).
+Narram os autos que o paciente foi condenado a 6 anos e 6 meses de reclusão, em regime inicial fechado, e 950 dias-multa, pela prática do crime de associação para o tráfico.
+Neste mandamus, a impetrante alega, em síntese, que o Desembargador, ao analisar as circunstâncias do crime nos termos do art. 59 do CP, aplicou a pena-base no patamar de 6 anos e 6 meses de reclusão, ou seja, 3 anos e 6 meses além do mínimo legal, de forma totalmente exorbitante, ferindo os princípios da proporcionalidade e individualização da pena (fl. 5).
+Sustenta que afirmações genéricas, sem a menção de elementos concretos extraídos dos autos, não constituem fundamentação idônea para negativar as circunstâncias judiciais do art. 59 do Código Penal e exasperar a pena-base (fl. 5).
+Requer, inclusive liminarmente, a concessão da ordem a fim de que a pena-base seja aplicada de forma proporcional e justa, respeitando o princípio da razoabilidade e individualização da pena, sendo aplicado a pena-base próximo ao mínimo legal (fl. 11).
+Indeferida a liminar, prestadas as informações de praxe, foi noticiado que o trânsito em julgado ocorreu em 6/10/2016 (fl. 343).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Onofre de Farias Martins, pelo não conhecimento e, no mérito, pela denegação da ordem (fls. 354/358).
+É o relatório.
+Este habeas corpus foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Sobre o tema, há precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal, como por exemplo, AgRg no HC n. 561.185/SP, da minha relatoria, Sexta Turma, DJe 16/3/2020; AgRg no HC n. 459.677/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/3/2020; HC n. 193.451, Relator p/ o acórdão Ministro Alexandre de Moraes, Primeira Turma, DJe 14/4/2021; e RHC n. 186.497 AgR, Ministra Rosa Weber, Primeira Turma, DJe 7/12/2020.
+Ora, o habeas corpus não deve ser utilizado de forma desvirtuada, como meio de contornar as especificidades de tramitação do complexo sistema recursal existente no processo penal brasileiro.
+Afora isso, não observo a existência de constrangimento ilegal apto à concessão da ordem de ofício, e a alteração do que ficou estabelecido pelas instâncias ordinárias está a exigir amplo reexame de provas.
+Com razão o nobre parecerista, quando destacou em seu parecer o seguinte (fls. 1.988/1.994): de toda sorte, ainda que fosse hipótese de conhecimento, não se extrai do acórdão nenhuma ilegalidade, tendo em vista que a pena-base foi majorada porque reconhecidas circunstâncias judiciais desfavoráveis, a saber, culpabilidade, motivos, circunstâncias, consequências do crime e antecedentes, todas elas constatadas a partir de elementos concretos da prática criminosa, acentuadas em relação à normalidade do tipo penal em comento.
+Além disso, consoante a jurisprudência do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório (AgRg no HC n. 577.396/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/4/2021).
+Ante o exposto, à vista do parecer, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. USO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DESCABIMENTO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. DOSIMETRIA. REEXAME FÁTICO-PROBATÓRIO. PARECER ACOLHIDO.
+Habeas corpus não conhecido.
