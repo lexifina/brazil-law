@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Daniel Rodrigo da Silva contra o ato coator proferido pela Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do Agravo em Execução n. 0002028-13.2024.8.26.0482, negou provimento à insurgência defensiva, mantendo o indeferimento de livramento condicional e de progressão para o regime semiaberto ao paciente (PEC n. 7002487-74.2013.8.26.0224).
+A defesa alega, em em síntese, ausência de fundamentação válida no indeferimento do benefício.
+Afirma que o paciente possui os requisitos, como o bom comportamento carcerário, conforme se vê à fls. 24. Assim, é justo que o juízo entenda tal fato como suficiente para demonstrar o requisito subjetivo. Como senão bastasse, milita ainda, em seu favor, a conclusão favorável do exame criminológico a concessão da progressão de regime fls. 51/58. (fl. 5).
+Requer a concessão do regime semiaberto (fls. 3/7).
+Liminar indeferida às fls. 107/108.
+Informações prestadas pela origem às fls. 115/118 e 119/128.
+O Ministério Público Federal pugna pelo não conhecimento da impetração ou, caso conhecido, pela denegação da ordem, conforme os termos da seguinte ementa do parecer (fl. 133):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. LIVRAMENTO CONDICIONAL E PROGRESSÃO DE REGIME. PENA SUPERIOR A DEZESSEIS ANOS DE PRISÃO, EM REGIME FECHADO, PELA PRÁTICA DE TRÁFICO DE DROGAS, FURTO QUALIFICADO E ROUBO DUPLAMENTE MAJORADO. HISTÓRICO PRISIONAL CONTURBADO. REGISTRO DE TRÊS FALTAS GRAVES DURANTE O CUMPRIMENTO DA PENA. PRÁTICA DE NOVOS DELITOS DURANTE O CUMPRIMENTO DA PENA EM REGIME ABERTO CONCEDIDO ANTERIORMENTE. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRECEDENTES DO STJ. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+- Parecer pelo não conhecimento do writ e, se conhecido, pela denegação.
+É o relatório.
+A impetração pretende a concessão do livramento condicional ou da progressão de regime, tendo em vista o preenchimento dos requisitos objetivo e subjetivo.
+Após análise dos autos, entendo não assistir razão à impetração.
+O histórico carcerário conturbado, com o registro de faltas disciplinares, constitui fundamento apto a justificar o indeferimento do pleito (AgRg no HC n. 822.067/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 30/11/2023).
+O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+Nesse sentido, o Superior Tribunal de Justiça fixou, sob o rito dos recursos especiais repetitivos, a seguinte tese (Tema 1161):
+A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+Assim, considerando a prática de faltas graves durante o cumprimento da pena, não demonstrado o constrangimento ilegal.
+Em relação à progressão de regime, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o julgador, antes de apreciar o pedido de progressão de regime, pode determinar a submissão do apenado a exame criminológico, desde que o faça de forma fundamentada, nos termos da Súmula 439/STJ (HC n. 505.302/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2019; e AgRg no HC n. 667.305/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/10/2021).
+No entanto, a gravidade abstrata dos crimes que originaram a execução penal, a longa pena a cumprir pelo condenado, bem como as faltas graves antigas não constituem fundamento idôneo a sustentar indeferimento de progressão. Conforme iterativa jurisprudência deste Sodalício, as faltas cometidas em tempo longínquo não podem ser invocadas eternamente para o indeferimento do benefício (AgRg no HC n. 791.163/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 25/9/2023).
+Por outro lado, admite-se o uso do histórico carcerário conturbado, com o registro de faltas disciplinares, como fundamento apto a justificar o indeferimento do pleito (AgRg no HC n. 822.067/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 30/11/2023).
+No mesmo sentido, confira-se: AgRg no HC n. 809.500/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/6/2023.
+No caso, a instância local utilizou fundamentação idônea, considerando o histórico prisional do apenado para indeferir a progressão de regime.
+Além disso, as instâncias ordinárias entenderam pela ausência do requisito subjetivo para o deferimento da progressão de regime com base na indicação de fundamento idôneo, qual seja, a conclusão do parecer social do exame criminológico, não havendo, assim, qualquer ilegalidade a ser sanada por esta Corte.
+Nesse contexto, para se infirmar as conclusões a que chegaram as instâncias ordinárias, no sentido da ausência de mérito, demandar-se-ia ampla incursão em fatos e em provas, o que não é admissível nos autos de habeas corpus, de cognição sumária.
+A propósito: HC n. 701.126/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 15/2/2022; AgRg no HC n. 675.099/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2022; e AgRg no HC n. 695.493/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/10/2021.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DE REQUISITO SUBJETIVO. DECISÃO CALCADA EM FATOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA. TEMA 1.161. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES. PROGRESSÃO DE REGIME. GRAVIDADE DOS DELITOS PRATICADOS, LONGA PENA A CUMPRIR E FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. HISTÓRICO PRISIONAL. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. FUNDAMENTAÇÃO CONCRETA. EXAME CRIMINOLÓGICO. INVIABILIDADE DE REEXAME APROFUNDADO DA FUNDAMENTAÇÃO ADOTADA NA ORIGEM.
+Ordem denegada.
