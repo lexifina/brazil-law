@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL à decisão que não admitiu seu Recurso Especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. EMPREGADO DOMÉSTICO. ANOTAÇÃO CTPS. BENEFÍCIO DEVIDO. JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCAT/C/OS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 1º do Decreto 20.910/32; art. 103 da Lei n. 8.213/91; e art. 240, § 1º, do CPC, no que concerne à necessidade de reconhecimento da prescrição quinquenal das parcelas anteriores ao ajuizamento da ação, trazendo a seguinte argumentação:
+O v. acórdão recorrido, em que pese tenha expressamente consignado "Ajuizada a presente ação em 17/07/2017, decorrido mais de cinco anos da data do indeferimento administrativo, em 28/10/2009 (ID 125869491, p.15 ), inocorrente, in casu, a prescrição quinquenal" não decretou de oficio a prescrição quinquenal das prestações vencidas.
+Com efeito, a prescrição, como é cediço, nas ações de benefício previdenciário, incide sobre as parcelas anteriores ao qüinqüênio que antecede a propositura da ação (art. 103 da Lei n. 8.213/91).
+Estabelece o art. 103, parágrafo único, da Lei n.º 8.213/91 que:
+Sem prejuízo do direito ao benefício, prescreve em 5 (cinco) anos o direito às prestações não pagas nem reclamadas na época própria, resguardados os direitos dos menores dependentes, dos incapazes ou dos ausentes.
+Assim, só serão devidas às prestações correspondentes ao quinquênio que anteceder o ajuizamento da ação, já que a prescrição é um instituto processual e previsto expressamente no CPC, art. 240, §1º, senão vejamos:
+§ 1º A interrupção da prescrição, operada pelo despacho que ordena a citação, ainda que proferido por juízo incompetente, retroagirá à data de propositura da ação Ora, a prescrição pode ser alegada a qualquer tempo e em qualquer grau de jurisdição pelas partes e reconhecida de ofício pelo julgador, eis que as verbas a serem pagas pelo ente público são bens indisponíveis, de sorte que não há falar em preclusão ou coisa julgada, uma vez que é matéria de ordem pública, sobretudo em face dos princípios da legalidade e da moralidade administrativa.
+Não se pode perder de vista o teor da Súmula n. 85, do Colendo Superior Tribunal de Justiça que assim determina:
+" Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como 85 devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação.
+Assim, o v. acórdão merece reforma para se decretar a prescrição das parcelas anteri ores ao quinquênio legal (fls. 538).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
