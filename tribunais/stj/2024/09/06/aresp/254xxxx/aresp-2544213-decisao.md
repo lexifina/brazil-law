@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por BRADESCO SAÚDE S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, inciso III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"REEXAME DE ACÓRDÃO - APELAÇÃO CÍVEL - PLANO DE SAÚDE - AÇÃO COMINATÓRIA - INSURGÊNCIA DOS AUTORES QUANTO AO AUMENTO POR FAIXA ETÁRIA, POR SINISTRALIDADE E VCMH - SENTENÇA PARCIALMENTE PROCEDENTE, QUE DECLAROU A NULIDADE DOS REAJUSTES, SUBSTITUINDO PELOS ÍNDICES DA ANS - ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO DO PLANO DE SAÚDE - APLICAÇÃO DO TEMA 1016 E 952 DO STJ - CONTRATO COLETIVO - AUMENTO POR FAIXA ETÁRIA - NÃO HÁ ILEGALIDADE OU ABUSIVIDADE, POR SI SÓ, NA EXISTÊNCIA DE CLÁUSULAS COM PREVISÃO DE AUMENTO DO PRÊMIO POR MUDANÇA DE FAIXA ETÁRIA, DESDE QUE OBSERVADOS OS LIMITES IMPOSTOS ESTABELECIDOS NA TESE FIRMADA NO REPETITIVO E NAS NORMAS DE ORDEM PÚBLICA - CONTRATO QUE NÃO PREVÊ AUMENTO POR FAIXA ETÁRIA APÓS 60 ANOS DE IDADE - CLÁUSULA CONTRATUAL QUE PREVÊ AUMENTOP ATÉ OS 59 ANOS DE IDADE - REAJUSTE DE 80,65% AOS 66 ANOS DE IDADE SEM BASE CONTRATUAL - NULIDADE MANTIDA- REAJUSTES POR SINISTRALIDADE E FINANCEIRO (VCMH) QUE, POR SI SÓ, NÃO SÃO ABUSIVOS - POR CONTA DISSO NÃO SE DEVE DECLARAR NULAS AS CLÁUSULAS QUE TRATAM DOS REAJUSTES - APESAR DISSO, OS REAJUSTES DEVEM SER CANCELADOS - AUSÊNCIA NO CASO CONCRETO DE DEMONSTRAÇÃO DE COMO OS REAJUSTES FORAM CALCULADOS - PLANO DE SAÚDE INTIMADO A APRESENTAR DOCUMENTOS QUE DEMONSTRAM O CÁLCULO APLICADO DE FORMA CLARA E INDICASSE COMO FORAM APURADOS OS ÍNDICES DE REAJUSTE APLICADOS - PLANO DE SAÚDE QUEDOU-SE INERTE - VULNERAÇÃO AO DIREITO DE INFORMAÇÃO PREVISTO NO CÓDIGO DE DEFESA DO CONSUMIDOR - PRÊMIOS QUE DEVER SER RECALCULADOS, UTILIZANDO-SE OS ÍNDICES DA ANS - MANUTENÇÃO DO ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO" (fls. 519/520 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 593 e-STJ).
+No especial, o recorrente aponta violação dos artigos 6º, III, do CDC; 478 e 479 do CC e 371, 373, 375, 464, 489, II, 926 e 927, III, do CPC. Defende que deve ser reconhecida a legalidade dos reajustes por faixa etária, sinistralidade e variação dos custos médicos-hospitalares (VCMH) aplicados à apólice do recorrido.
+Contrarrazões às fls. 601/616 e-STJ.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Quanto à apontada violação do art. 489 do Código de Processo Civil, não se vislumbra a ausência de fundamentação.
+No caso dos autos, o tribunal local consignou:
+"(..)
+No caso dos autos, o autor se insurge contra o aumento por faixa etária aos 66 anos de idade. O contrato juntado a fls.158/214 na contestação foi celebrado em 01/08/2011 e cláusula 14 prevê aumento de faixa etária até os 59 anos de idade. Portanto, restou claro que o aumento aplicado não tem previsão contratual.
+Ressalto que o plano de saúde foi intimado a comprovar a existência de cláusula contratual que permitisse a aplicação do aumento de 80,65% à mensalidade do autor. O documento juntado a fls. 240, emitido pelo sindicado dos Corretores de Seguros, menciona acordo entre o estipulante e a Bradesco Seguros, que realmente prevê aumento por faixa etária aos 66 anos. Contudo, o documento foi emitido em 15/01/1998, antes da contratação da apólice juntada pelo plano de saúde, o que por si só afasta a aplicação do aumento nessa faixa etária. Além do mais, a aplicação desse percentual nessa faixa etária contraria o disposto no Recurso Especial Repetitivo n. 1.568.244-RJ, de modo que deve ser declarado nulo.
+Portanto, restou demonstrada a ausência de cláusula contratual que permita a aplicação do aumento por faixa etária após os 66 anos de idade.
+Analiso a alegada abusividade quanto aos índices de sinistralidade e VCMH.
+(..)
+Independente de se estar tratando de reajustes por sinistralidade ou de reajuste financeiro o fato é que a ré não trouxe demonstração de como se apurou os valores aplicados para elevação da mensalidade.
+Se por um lado nos contratos coletivos são possíveis os reajustes por sinistralidade e financeiro, diante do aumento da utilização ou pelo aumento inesperado dos custos médicos, tudo a fim de reequilibrar a relação contratual, por outro a seguradora deve comprovar efetivamente a necessidade de tais reajustes, sob pena de afronta ao Código de Defesa do Consumidor que é aplicado à espécie.
+Apesar da possibilidade de aplicação dos reajustes por sinistralidade e financeiros sem que isso, por si só, seja considerado abusivo, é de suma importância que não se verifique a violação às normas do CDC, sobretudo o dever de informação.
+No caso concreto, a ré não apresentou cálculo atuarial, nem documento a justificar os aumentos aplicados. Nesse sentido, a contestação veio completamente despida de documentos e não há clareza sobre o cálculo atuarial, que culminou nos índices aplicados.
+Neste sentido, os índices por ela aplicados não podem persistir porquanto não trouxe a apelante prova de que os reajustes tenham se dado de forma lícita, com base em apuração idônea acerca da sinistralidade do grupo específico nem da variação dos custos médico-hospitalares que alega existir, tampouco que o consumidor foi corretamente informado sobre os números apresentados.
+(..)
+Não há comprovação de como foram conseguidos os números que compuseram os cálculos, sem prova documental dos valores envolvidos.
+O plano de saúde não trouxe as provas de que os índices aplicados respeitaram tal fórmula, já que não há comprovação de nenhum dos componentes da fórmula.
+Aliás, a decisão a fls. 233/235 inverteu o ônus da prova e determinou que o plano de saúde juntasse documentos pertinentes aos aumentos por sinistralidade e faixa etária, a fim de demonstrar os índices aplicados. No entanto, o plano de saúde permaneceu silente, nesse ponto" (fls. 523/52 7 e-STJ).
+Assim, verifica-se que a corte de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DANOS MORAIS. INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. OFENSA. INEXISTÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CARÊNCIA DA AÇÃO. PRECLUSÃO CONSUMATIVA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. ATO ILÍCITO. CONDUTA CRIMINOSA. IMPUTAÇÃO. OFENSA À HONRA. DANO MORAL CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ESTATUTO DA OAB. IMUNIDADE PROFISSIONAL RELATIVA. LEGALIDADE E RAZOABILIDADE. DIREITOS DA PERSONALIDADE. VIOLAÇÃO. NÃO ABRANGÊNCIA.
+(..)
+4. Não viola os arts. 489, § 1º, II, e 1.022, I e II, do Código de Processo Civil nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+(..)
+8. Agravo interno não provido." (AgInt no REsp 1.879.141/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/4/2021, DJe 16/4/2021).
+Ademais, a alteração das conclusões do acórdão recorrido demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE" SÁUDE. REAJUSTE POR SINISTRALIDADE. ABUSIVIDADE. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 e 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem afirmou que a recorrente deixou de comprovar a necessidade do aumento da mensalidade estabelecido, mantendo a sentença que reconheceu a abusividade. Alterar tal entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.694.597/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO COLETIVO DE SAÚDE. REAJUSTE POR SINISTRALIDADE. DEMONSTRAÇÃO DO AUMENTO DE INSUMOS E SERVIÇOS QUE JUSTIFICASSE O AUMENTO DAS MENSALIDADES. REVISÃO VEDADA NA VIA ESPECIAL. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde por sinistralidade, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7, ambas do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido" (AgInt no AREsp 1.804.179/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 7% (sete por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 10% (dez por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
