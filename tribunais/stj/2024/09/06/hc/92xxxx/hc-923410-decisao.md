@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JONAS SIMÕES ANTONIO contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado por roubos majorados à pena de 9 anos e 10 meses de reclusão, além de multa, em regime inicial fechado.
+Neste mandamus, a defesa sustenta que a pena deve ser redimensionada, devendo prevalecer o concurso formal ou o crime continuado durante a dosimetria da sanção.
+Indeferido o pedido de liminar, a Subprocuradoria-Geral da República manifestou-se pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+No caso, a defesa alega que deve prevalecer a continuidade delitiva ou o concurso formal.
+Com efeito, Não se desconhece o entendiamento do STJ no sentidode que diante de múltiplos crimes de roubo, no mesmo contexto, quandoconfigurada a ocorrência de concurso formal e crime continuado, deve aplicarsomente um aumento de pena, qual seja, o relativo à continuidade delitiva(AgRg no HC n. 892.400/SP, relator Ministro Rogerio Schietti Cruz, SextaTurma, julgado em 1/7/2024, D
+Je de 3/7/2024.).
+"Diante disso, e considerando a quantidade de crimes praticados (quatro roubos majorados), há que ser fixada a fração de  (um quarto), em consonância com a Súmula nº 659, do Egrégio Superior Tribunal de Justiça, que estabelece que: "A fração de aumento em razão da prática de crime continuado deve ser fixada de acordo com o número de delitos cometidos, aplicando-se 1/6pela prática de duas infrações, 1/5 para três, 1/4 para quatro, 1/3 para cinco, 1/2 para seis e 2/3 para sete ou mais infrações".
+Outrossim, tem-se que a fração acima indicada deve incidir sobre a pena mais grave, em estrita observância à exegese contida no artigo 71, do Código Penal, sendo certo que, na espécie, a maior reprimenda consiste em 09 (nove) anos e 04 (quatro) meses de reclusão, mais o pagamento de 22 (vinte e dois) dias-multa, no mínimo valor legal, oriunda da condenação proferida nos autos do processo nº 0004208-55.2016.8.26.0361.
+Diante disso, chega-se a uma pena final correspondente a 11 (onze) anos e 08 (oito) meses de reclusão."
+Como o reconhecido no parecer ministerial, " N ão se trata, portanto, de cumulação de concurso formal e crime continuado, ao contrário do que sustentou a parte impetrante. Mas, apenas, a aplicação do art. 71 do CP sob a sanção mais severa, imposta por condenação por crime contra o patrimônio."
+Por todo o exposto, ausente flagrante ilegalidade apta a gerar constrangimento ilegal e concessão da ordem de ofício, a situação em análise implica o não conhecimento da impetração, uma vez que não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso ordinário.
+EMENTA
