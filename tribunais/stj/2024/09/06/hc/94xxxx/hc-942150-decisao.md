@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ERINALDO DOS SANTOS contra decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos da Revisão Criminal n. 0041760-26.2023.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 15 anos de reclusão, em regime inicial fechado, bem como ao pagamento de 1.810 dias multa, pela prática dos delitos tipificados nos arts. 33, caput, e 35, caput, da Lei n. 11.343/06, e art. 16, parágrafo único, IV, da Lei n. 10.826/03, na forma do art. 69, do Código Penal.
+O Tribunal de origem negou provimento à apelação interposta pelo paciente, em acórdão assim ementado (fl. 70):
+"APELAÇÃO - TRÁFICO ILÍCITO DE ENTORPECENTES - ARTIGO 33, "CAPUT", DA LEI Nº11.343/06 - ASSOCIAÇÃO PARA TRÁFICO ILÍCITODE ENTORPECENTES - ARTIGO 35, "CAPUT", DA LEI Nº 11.343/06 - PRISÃO EM FLAGRANTE - CONFIGURAÇÕES - OCORRÊNCIA - ABSOLVIÇÕES -IMPOSSIBILIDADE - PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO - ARTIGO 16, PARÁGRAFO ÚNICO, INCISO IV, DA LEI Nº 10.826/03 - DELITO DE MERA CONDUTA - PERIGO ABSTRATO - CONFIGURAÇÃO - OCORRÊNCIA - ABSOLVIÇÃO - IMPOSSIBILIDADE - APENAMENTOS -CONDENAÇÕES BEM DIMENSIONADAS - PROPORCIONALIDADE E RAZOABILIDADE - MITIGAÇÕES - IMPOSSIBILIDADE - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA - RECURSO DEFENSIVO IMPROVIDO."
+Transitada em julgado a condenação, o pedido de revisão criminal formulado pela defesa foi indeferido liminarmente em decisão monocrática de fls. 18/28.
+No presente writ, a impetrante sustenta que não foi demonstrada a estabilidade e permanência necessárias para caracterizar a associação para o tráfico, alegando que não há provas de um vínculo associativo estável entre o paciente e outros envolvidos, o que inviabiliza a condenação, devendo conduzir à sua absolvição pelo referido delito.
+Do mesmo modo, argumenta que as armas de fogo encontradas não pertenciam ao paciente e que a condenação foi baseada em meras presunções, sem provas concretas de que ele as possuía ou tinha sob sua guarda, especialmente considerando que elas foram encontradas em um local distinto daquele onde ocorreu a prisão, motivo pelo qual pleiteia a absolvição também por esse crime.
+Sustenta, outrossim, que o paciente colaborou significativamente com a polícia ao indicar o local onde se encontravam as drogas e as armas, o que deveria ser considerado para a aplicação da causa de diminuição de pena prevista no art. 41 da Lei n. 11.343/06.
+Aduz, ainda, que na época dos fatos, o paciente era primário e de bons antecedentes, sem ligação comprovada com organizações criminosas, pugnando, assim, pela aplicação da minorante do tráfico privilegiado.
+Ademais, insurge-se contra o aumento da pena-base, afirmando que o paciente era apenas uma "mula" no tráfico, transportando drogas por necessidade financeira, o que deveria conduzir à fixação da pena basilar no mínimo legal, a despeito da quantidade de drogas e petrech os apreendidos.
+Por fim, aponta constrangimento ilegal na ausência de reconhecimento da atenuante da confissão espontânea, prevista no art. 65, III, alínea d, do Código Penal, pois o paciente admitiu o transporte das drogas e colaborou com as autoridades, o que deveria ter sido considerado para a redução da pena.
+Requer, em liminar e no mérito, a concessão da ordem nos termos acima propostos.
+É o relatório.
+Decido.
+O pedido não merece conhecimento, uma vez que o presente mandamus ataca decisão monocrática de Desembargador, que indeferiu liminarmente pedido de revisão criminal formulado perante a Corte de origem. Não tendo a impetrante interposto o recurso cabível contra aquele julgado, inexiste manifestação do Colegiado estadual sobre a questão aqui deduzida.
+Dessa forma, inviável o enfrentamento do tema por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+1. Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas "a" e "c", da Constituição da República.
+2. No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes.
+3. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF.
+4. No caso, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que não há se falar, outrossim, em descumprimento à Resolução CNJ n. 474/2022, uma vez que exigível a prévia intimação apenas em caso de transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, não se aplicando como no caso, de cassação de benefício e retomada do cumprimento da pena privativa de liberdade.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 853.247/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA. AGRAVO INTERNO PENDENTE DE JULGAMENTO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO LIMINAR DO WRIT. INOVAÇÃO RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não é cabível a impetração de habeas corpus contra decisão monocrática da qual está pendente o julgamento de agravo interno interposto.
+2. Configura inadmissível inovação recursal a apresentação de tese jurídica somente por ocasião do agravo regimental.
+3. É acertada a decisão da Presidência do STJ, que indeferiu liminarmente o habeas corpus, uma vez que a defesa se insurge contra decisão monocrática proferida por juiz federal convocado para atuar em segundo grau. Embora a parte haja interposto agravo interno contra o decisum, o recurso está pendente de análise pelo órgão colegiado. Não houve, portanto, o exaurimento das instâncias ordinárias, a autorizar a impetração de ordem perante esta Corte Superior. Ademais, não é cabível examinar eventual excesso de prazo para o julgamento do agravo interno, por se tratar de tema trazido apenas por ocasião deste regimental.
+4. Agravo regimental não provido.
+(AgRg no HC n. 757.253/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
