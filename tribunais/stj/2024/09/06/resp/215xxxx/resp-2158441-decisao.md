@@ -1,0 +1,45 @@
+DECISÃO
+Examina-se recurso especial interposto por GENIVAL CAETANO DE NOVAES, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/BA.
+Recurso especial interposto em: 17/10/2023.
+Concluso ao Gabinete em: 05/08/2024.
+Ação: revisional de contrato cumulada com obrigação de entrega de bens, reparação de danos materiais e compensação de danos morais, ajuizada pelo recorrente, em desfavor de TRIAMA NORTE TRATORES IMPLEMENTOS AGRÍCOLAS E MÁQUINAS LTDA e OUTROS.
+Sentença (e-STJ fls. 2.148-2.160): julgou procedente a impugnação ao deferimento da assistência judiciária gratuita, a fim de revogar o benefício concedido ao autor, determinando que o mesmo promova o pagamento das custas processuais; julgou extinto o processo com relação à AGCO DO BRASIL MAQUINAS E EQUIPAMENTOS AGRICOLAS LTDA, ante o reconhecimento de sua ilegitimidade passiva; julgou improcedentes os pedidos com relação ao BANCO DE LAGE LANDEN BRASIL S/A; e reconheceu subsistir o processo apenas com relação à TRIAMA NORTE TRATORES IMPLEMENTOS AGRÍCOLAS E MÁQUINAS LTDA, condicionado ao adimplemento das respectivas custas pelo autor.
+O agravante, por sua vez, apresentou recurso de apelação, sem ter promovido o pagamento de preparo.
+Decisão monocrática (e-STJ fls. 3.682-3.684): indeferiu o pleito de concessão dos benefícios da assistência judiciária gratuita, oportunizando ao agravante efetuar o preparo do recurso no prazo de 5 (cinco) dias, sob pena de denegação de seguimento.
+Embargos de declaração: opostos pelo agravante (e-STJ fls. 3.686-3.693), foram rejeitados (e-STJ fls. 3.718-3.723).
+Acórdão: negou provimento ao agravo interno interposto pelo agravante, mantendo a decisão unipessoal do relator, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PRESENÇA DOS PRESSUPOSTOS DE ADMISSIBILIDADE. DECISÃO MONOCRÁTICA DENEGATÓRIA DE ASSISTÊNCIA JUDICIÁRIA GRATUITA EM RECURSO DE APELAÇÃO. HIPOSSUFICIENCIA NAO COMPROVADA. OPORTUNIZAÇÃO IGNORADA DE EFETIVAÇÃO DO DEVIDO PREPARO DO RECURSO NO PRAZO DE 5 (CINCO) DIAS, SOB PENA DE DENEGAÇÃO DE SEGUIMENTO. DECISÃO PROFERIDA EM CONSONÂNCIA COM ELEMENTOS CARREADOS PARA OS AUTOS E LEGISLAÇÃO EM VIGOR. IRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO (e-STJ fl. 3.761).
+Decisão monocrática: não conheceu dos embargos de declaração opostos pelo agravante, ante a sua manifesta intempestividade (e-STJ fls. 3.822-3.827).
+Acórdão: rejeitou os embargos de declaração opostos pelo agravante, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE RECONHECEU A INTEMPESTIVIDADE DOS ACLARATÓRIOS OPOSTOS NOS AUTOS DA APELAÇÃO. ALEGAÇÃO DE OMISSÃO, CONTRADIÇÃO E ERRO MATERIAL. INEXISTÊNCIA DOS VÍCIOS APONTADOS. MATÉRIA DEVIDAMENTE ENFRENTADA. PRETENSÃO DE MERO REEXAME PELA VIA DE EMBARGOS. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+I - É inviável o acolhimento de embargos declaratórios quando não existente obscuridade, omissão, contradição ou erro material na decisão embargada.
+II - Na espécie, o pronunciamento monocrático impugnado, o qual deixou de conhecer os Embargos de Declaração de n. 0000716-83.2011.8.05.0274.1.EDCiv, por intempestividade, analisou os fundamentos devolvidos à cognição desta Corte de Justiça, inclusive, apontando as razões pelas quais a decisão foi devidamente fundamentada, inclusive nos termos do art. 489, § 1º, do CPC.
+III - Nos moldes do art. 1.025 do CPC, consideram-se incluídos no acórdão os elementos suscitados pelo Embargante para fins de prequestionamento, ainda que os Embargos de Declaração sejam inadmitidos ou rejeitados.
+EMBARGOS NÃO ACOLHIDOS (e-STJ fls. 3.867-3.868).
+Recurso especial: aponta a violação dos arts. 3º, 219, 224, 489 e 1.022 do CPC. Alega a ocorrência de negativa de prestação jurisdicional. Defende a tempestividade de seus embargos de declaração. Aduz que o prazo relativo ao processo em questão não tinha iniciado no período da pandemia, porquanto suspenso, vedado inclusive o acesso aos autos, razão pela qual não poderia ter sido encerrado no dia subsequente ao retorno dos prazos processuais físicos, ocorrido em agosto/2021, uma vez que, quando foram retomados os prazos processuais dos processos físicos, os autos já estavam em procedimento de migração para processo eletrônico. Sustenta, desta forma, que o prazo para a prática de qualquer ato iniciou-se apenas quando da disponibilização da conversão do processo físico em eletrônico, conforme as normas estipuladas pelo próprio TJ/BA.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 281/STF
+Do exame dos autos, verifica-se que, contra a decisão monocrática exarada pelo Relator no Tribunal de origem (e-STJ fls. 3.822-3.827) - e que reconheceu a intempestividade de seus embargos de declaração -, o agravante opôs novos embargos declaratórios, que foram julgados pelo Colegiado (e-STJ fls. 3.866-3.896), sendo que contra tal acórdão foi interposto o presente recurso especial.
+Entretanto, não é essa a via adequada para se ver apreciada a matéria pelo Colegiado, tendo em vista que, para tal desiderato, deveria o agravante ter manejado o recurso inserto no artigo 1.021, § 2º, do CPC.
+Com efeito, segundo a jurisprudência desta Corte, a existência de decisão colegiada proferida em sede de embargos de declaração não tem o condão de afastar a necessidade de interposição do agravo interno, porquanto este é o recurso apto a levar ao órgão colegiado a apreciação da questão debatida nos autos. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. APLICAÇÃO DA SÚMULA 281/STF. NECESSIDADE DE INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.021 DO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Não se pode conhecer do recurso especial interposto contra decisão monocrática, tendo em vista que não houve o necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula 281 do STF. Precedentes.
+2. Esta Corte Superior entende que "não se conhece do recurso especial aviado de decisão monocrática, sem a interposição de agravo interno, mesmo com a apreciação de dois embargos declaratórios pelo colegiado" (AgInt no AREsp n. 1.625.858/SP, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 11/5/2020, DJe de 14/5/2020).
+3. Agravo interno desprovido (AgInt no AREsp n. 1.980.427/PA, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO HABITACIONAL. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281/STF.
+1. Ação de cobrança de indenização relativa a seguro habitacional.
+2. Não se pode conhecer do recurso especial interposto contra decisão monocrática, tendo em vista que não houve o necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula n. 281/STF. Precedentes.
+3. A existência de decisão colegiada em sede de embargos de declaração não tem o condão de afastar a necessidade de interposição do agravo interno, porquanto este é o recurso apto a levar ao órgão coletivo a apreciação da questão debatida nos autos nos termos do artigo 1.021, §2º, do CPC/15.
+4. Agravo interno não provido (AgInt no AREsp n. 2.188.284/PE, Terceira Turma, julgado em 13/2/2023, DJe de 15/2/2023).
+No mesmo sentido: AgInt no AREsp 1.418.179/PA, Terceira Turma, DJe de 29/5/2019; e AgInt no AREsp 1.267.031/CE, Quarta Turma, DJe de 26/6/2018.
+Assim, em razão da ausência de esgotamento das instâncias ordinárias, o recurso especial não comporta conhecimento, incidindo à hipótese, por analogia, a Súmula 281/STF.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE COMPRATO CUMULADA COM OBRIGAÇÃO DE ENTREGA DE BENS, REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Ação revisional de contrato cumulada com obrigação de entrega de bens, reparação de danos materiais e compensação de danos morais.
+2. Não se pode conhecer do recurso especial interposto contra decisão monocrática, tendo em vista que não houve o necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula n. 281/STF. Precedentes.
+3. A existência de decisão colegiada em sede de embargos de declaração não tem o condão de afastar a necessidade de interposição do agravo interno, porquanto este é o recurso apto a levar ao órgão coletivo a apreciação da questão debatida nos autos, nos termos do artigo 1.021, § 2º, do CPC.
+4. Recurso especial não conhecido.
