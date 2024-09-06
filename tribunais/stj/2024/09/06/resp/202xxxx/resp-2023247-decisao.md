@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, recurso especial, interposto pela ASSOCIAÇÃO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DE SANTA MARIA - ASSUFSM, contra acórdão Tribunal Regional Federal da 4ª Região, assim ementado:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO.
+Cabe acolher os embargos de declaração para corrigir o vício de omissão verificado no julgado embargado.
+CONTRIBUIÇÃO PREVIDENCIÁRIA DOS TRABALHADORES. TERÇOCONSTITUCIONAL DE FÉRIAS. ILEGITIMIDADE ATIVA DOEMPREGADOR.
+Não tem o empregador legitimidade ativa para buscar o reconhecimento da inexigibilidade da contribuição previdenciária devida pelos seus empregados, o que pode ser reconhecido de ofício pelo julgador em qualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado (Código de Processo Civil, art. 485, inciso VI e §3º). (fl. 495)
+O acórdão em questão foi objeto de embargos de declaração (fls. 503/506), recurso ao qual foi negado provimento (fls. 514/518).
+Nas razões do recurso especial, interposto com base no art. 105, III, a da Constituição Federal, a parte ora recorrente aponta violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, 121, II, e 128, do CTN, 30 da Lei 8.212/91 e 506 do CPC/2015, sustentando, em síntese, que: (a) o acórdão recorrido foi omisso em seu pronunciamento; e, (b) "a legitimidade do sindicato decorre do fato de ser o legalmente obrigado, na qualidade de responsável tributário, a reter dos vencimentos de seus funcionários o percentual correspondente à contribuição previdenciária por estes devida." (fl. 537)
+Contrarrazões apresentadas (fls. 547/550) , o recurso especial foi admitido pelo Tribunal de origem (fls. 584/585).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Não vislumbro, no caso, ofensa aos arts. 489 e 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada/TRF 3ª Região), Segunda Turma, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro Mauro Campbell MARQUES, Segunda Turma, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 22/04/2016.
+Acerca da legitimidade ativa da empresa para pleitear a inexigibilidade da contribuição previdenciária parte do empregado (art. 20, da Lei n.8.212/91), sobre verba que não possui natureza salarial, não tem razão a parte ora recorrente.
+O acórdão recorrido está em consonância com o entendimento consolidado nesta Corte no sentido de que a empresa, ao reter a contribuição social devida por seus empregados, age como mero agente arrecadador, assim não pode ser confundida com a figura do responsável tributário. Logo, não integra a relação jurídico -tributária. Cabe assinalar, que o valor recolhido a título do tributo não compõe o patrimônio do retentor, assim não lhe assiste o direito à compensação ou restituição do indébito.
+A propósito, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JURISPRUDÊNCIA DOMINANTE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. SÚMULA 568/STJ. CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO. EMPRESA. ILEGITIMIDADE ATIVA. ART. 30 DA LEI 8.212/91. MERO AGENTE ARRECADADOR. COMPLEMENTAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO. CONHECIMENTO DO RECURSO ESPECIAL PELA ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+(..).
+4. A empresa, quanto à parte da contribuição social devida por seus empregados, atua como agente arrecadador, não possuindo legitimidade ativa para discutir o direito à compensação ou à restituição do indébito. Precedentes: AgInt no REsp 1.895.544/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/5/2021, DJe 1º/7/2021; AgInt nos EREsp 1.895.544/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 15/2/2022, DJe 17/2/2022; AgInt no REsp 1.834.855/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/6/2021, DJe 29/6/2021; AgInt no AgInt no REsp 1.673.655/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 25/4/2019, DJe 2/5/2019; e REsp 790.739/BA, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 10/10/2006, DJ 13/11/2006.
+(..).
+7. Agravo interno conhecido em parte e, na parte conhecida, não provido. (AgInt no REsp 1.563.612/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe 02/06/2022 - grifo nosso)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMRECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SITUAÇÕES FÁTICO/JURÍDICAS DIVERSAS. AUSÊNCIA DE SIMILITUDE ENTRE OS JULGADOS CONFRONTADOS. ACÓRDÃO EMBARGADO EM SINTONIA COM A ORIENTAÇÃO DA CORTE. SÚMULA N. 168/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+(..).
+IV - O acórdão embargado seguiu orientação da jurisprudência desta Corte, segundo a qual, a empresa, quanto à parte da contribuição social devida por seus empregados, atua como agente arrecadador, não tendo legitimidade ativa para discutir o direito à compensação ou restituição do indébito.
+V - Nos termos da Súmula n. 168/STJ, "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+(..).
+VII - Agravo Interno improvido. (AgInt no EREsp 1.895.544/SC, relatora Ministra Regina Helena Costa, Primeira Seção, DJe 17/02/2022 - grifo nosso)
+PROCESSUAL CIVIL E TRIBUTÁRIO. DECISÃO MONOCRÁTICA. CABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA DO EMPREGADO. EMPRESA. ILEGITIMIDADE ATIVA.
+1. Nos termos da Súmula 568 desta Corte e do art. 255, § 4º, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver entendimento dominante sobre o tema.
+2. Inexiste violação do art. 1.022 do CPC/2015, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. O Superior Tribunal de Justiça já decidiu que "a empresa, quanto à parte da contribuição social devida por seus empregados, atua como agente arrecadador, não tendo legitimidade ativa para discutir o direito à compensação ou restituição do indébito" (AgInt no AgInt no REsp 1.673.655/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 25/04/2019, DJe 02/05/2019).
+4. Agravo interno desprovido. (AgInt no REsp 1.834.855/SC, relator Ministro Gurgel de Faria, Primeira Turma, DJe 29/06/2021 - grifo nosso)
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, conheço do recurso especial e nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intime-se.
+EMENTA
