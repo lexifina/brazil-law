@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto por DELTA PUBLICIDADE S.A. e TELEVISÃO LIBERAL S.A. contra a decisão que conheceu do conflito de competência e declarou a competência do Juízo arbitral, suspendendo o prosseguimento das ações no Juízo da 9ª Vara Cível e Empresarial de Belém (PA).
+As agravantes sustentam que a decisão agravada foi baseada em premissas equivocadas, pois se antecipou ao próprio Juízo arbitral ao reconhecer sua competência, desconsiderando que a exclusão de sócios, objeto da ação em tramitação na 9ª Vara Cível de Belém, está expressamente prevista em acordo judicial homologado, o qual definiu a Comarca de Belém como o foro competente para dirimir qualquer controvérsia.
+Insistem na inexistência de decisões conflitantes, na medida em que não foi a jurisdição arbitral sequer foi instaurada, pois o Juízo arbitral (Centro Brasileiro de Mediação e Arbitragem) ainda não proferiu decisão sobre sua competência, o que impossibilita a configuração de conflito positivo de competência.
+Ao final, requerem a reconsideração da decisão agravada, inaudita altera parte, para que se revogue a decisão anterior e não se conheça do conflito de competência, indeferindo-o liminarmente nos termos do art. 485, I, IV e VI, do CPC, c/c o art. 34, XXII, do RISTJ.
+Subsidiariamente, no caso de não reconsideração, requerem a atribuição imediata de efeito suspensivo ao presente agravo interno a fim de que a ação de exclusão de sócios tenha seu regular prosseguimento no Juízo da 9ª Vara Cível e Empresarial de Belém.
+Por fim, requerem o conhecimento e o provimento deste agravo a fim de que seja fixada a competência do Juízo da 9ª Vara Cível e Empresarial de Belém para julgar a ação de exclusão de sócios.
+É o relatório. Decido.
+O agravo interno merece ser provido.
+O conflito de competência, conforme estabelecido no art. 66, I, do Código de Processo Civil, exige a existência de decisões conflitantes entre dois ou mais juízos que se declarem competentes ou incompetentes para julgar a mesma causa.
+No caso concreto, analisando novamente os elementos postos, verifico que, de fato, não houve decisão do Juízo arbitral, o que inviabiliza o reconhecimento de conflito positivo de competência, não havendo, pois, a premissa básica do conflito, que é a existência de decisões conflitantes.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. INEXISTÊNCIA DE PRESSUPOSTO PARA A INSTAURAÇÃO DO INCIDENTE. AUSÊNCIA DE JUÍZOS CONFLITANTES. AGRAVO DESPROVIDO.
+1. Somente haverá conflito de competência quando houver manifestação de dois órgãos jurisdicionais que se considerem competentes ou incompetentes para julgamento da mesma causa, o que não ocorreu na hipótese dos autos, em que não há manifestações conflituosas dos magistrados nesse sentido.
+2. Não é possível afirmar, de forma inconteste, na fase processual em que se encontram, que as ações penais tratem dos mesmos fatos, sendo prematuro afirmar que há litispendência no caso.
+3. Agravo regimental desprovido. (AgRg no CC n. 188.912/RJ, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/8/2022, DJe de 18/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. BUSCA E APREENSÃO. DECISÕES CONFLITANTES. INEXISTÊNCIA. COOPERAÇÃO JUDICIAL. CONFLITO NÃO CONHECIDO.
+1. A caracterização do conflito de competência pressupõe, como requisito, que a parte suscitante demonstre a existência concreta e atual de dissídio entre diferentes juízos.
+2. Nos termos de artigo 6º, § 7º-A, da Lei nº 11.101/2005 compete ao Juízo da recuperação judicial determinar a suspensão dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial durante o stay period, providência que será implementada mediante a cooperação judicial.
+3. Na hipótese dos autos, verifica-se que os Juízos apontados como conflitantes têm se pautado pela cooperação judicial, tendo o Juízo da ação de busca e apreensão observado as decisões proferidas pelo Juízo da recuperação, não tendo extrapolado em nenhum momento os limites de sua competência.
+4. O conflito de competência não pode ser utilizado como sucedâneo recursal.
+5. Agravo interno não provido. (AgInt nos EDcl no CC n. 190.781/MS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 6/12/2022, DJe de 9/12/2022.)
+Por outro lado , o que se verifica no caso em análise é que, ao suscitar o conflito, pretendem os autores, em verdade, a utilização desta estreita via como sucedâneo recursal, o que é inadmissível.
+Esta Corte firmou posicionamento no sentido de que o conflito de competência não se presta como meio para atacar decisões de instâncias inferiores, sendo inadequado seu uso como sucedâneo recursal.
+A propósito:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. ACORDO INDENIZATÓRIO. HOMOLOGAÇÃO E EXECUÇÃO. JUÍZO QUE ADMITE O INGRESSO DE NOVO GRUPO DE ATINGIDOS. CONFLITO NÃO DEMONSTRADO.
+1. Cuida-se de conflito positivo de competência suscitado contra o Juízo de Direito da 2ª Vara Cível de Mariana - MG e o Juízo Federal da 12ª Vara Cível e Agrária de Belo Horizonte - SJ/MG.
+2. A decisão agravada concluiu que não foi juntada nenhuma decisão do Juízo da 2ª Vara Cível de Mariana - MG em que se afirmasse a sua competência exclusiva para julgar as demandas destinadas à reparação dos danos sofridos pelos atingidos do desastre daquela localidade.
+3. Para a configuração de conflito, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o mesmo feito ou que incida a prática de atos processuais na mesma causa por mais de um juiz, o que não ocorreu na espécie.
+4. A irresignação das suscitantes, na verdade, apresenta-se contra decisão do Juízo Federal da 12ª Vara Cível e Agrária de Belo Horizonte - SJ/MG que reconheceu a sua competência para dirimir questões envolvendo o pagamento de indenização aos atingidos de Mariana e autorizou a aderência de nova Comissão ao sistema indenizatório simplificado.
+5. "A irresignação da parte frente a uma decisão, ainda que proferida por juiz incompetente, deve ser discutida por meio dos recursos próprios" ( CC n. 82.861/SC, relator Ministro Massami Uyeda, Segunda Seção, julgado em 24/11/2010, DJe de 6/12/2010).
+Agravo interno improvido. (AgInt no CC n. 182.906/MG, relator Ministro Humberto Martins, Primeira Seção, julgado em 8/3/2023, DJe de 13/3/2023.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. SISTEMA FINANCEIRO DE HABITAÇÃO. AÇÃO ORDINÁRIA DE INDENIZAÇÃO SECURITÁRIA. INEXISTÊNCIA DE INTERESSE JURÍDICO DA CAIXA ECONÔMICA FEDERAL. RECONHECIMENTO PELA JUSTIÇA FEDERAL. REPETITIVO. RESP N. 1.091.393/SC. SÚMULAS N. 150, 224 E 254 DO STJ. ANÁLISE DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, de suas autarquias ou empresas públicas. Súmulas n. 150, 224 e 254 do STJ.
+2. A CEF somente ingressará na lide quando provar documentalmente seu interesse jurídico mediante demonstração não apenas da existência de apólice pública mas também do comprometimento do Fundo de Compensação de Variações Salariais - FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice de Seguro Habitacional - FESA (EDcl nos EDcl no REsp n. 1.091.393/SC).
+3. O conflito positivo de competência não é via adequada para se aferir a inteireza e legitimidade de deliberações dos juízos suscitados nem para se pronunciar o acerto ou desacerto de decisões proferidas em demandas que deram origem a sua instauração.
+4. Agravo regimental desprovido. (AgRg no CC n. 131.891/SP, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 10/9/2014, DJe de 12/9/2014, destaquei.)
+Assim, verifica-se que o uso do conflito de competência pelas agravantes visa, indevidamente, à revisão de decisões proferidas pelo Juízo da 9ª Vara Cível e Empresarial de Belém, o que é incabível, conforme a jurisprudência do Superior Tribunal de Justiça.
+Ante o exposto, dou provimento ao agravo interno para revogar a decisão anterior e reconhecer a inexistência de conflito de competência no caso em análise.
+Publique-se. Intimem-se.
+EMENTA
