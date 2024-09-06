@@ -1,0 +1,49 @@
+DECISÃO
+MAURICIO FERREIRA CALDAS agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação n. 0702350-83.2021.8.07.0010).
+Consta nos autos que o réu foi condenando pela prática do crime previsto no art. 99 da Lei n. 10.741/2003, por duas vezes.
+Em suas razões, a defesa apontou violação do art. 386, VII, do Código de Processo Penal e alegou insuficiência de provas para a condenação.
+O reclamo foi inadmitido na origem, o que ensejou o agravo de fls. 404-412, no qual a parte impugna a incidência da Súmula n. 7 do STJ.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 435-438).
+Decido.
+Acerca da presença de elementos suficientes para a condenação, o Tribunal a quo assim se pronunciou (fls. 356-360, grifei):
+Trata-se de apelação interposta por MAURÍCIO FERREIRA CALDAS em face da sentença proferida pelo Juízo da 2ª Vara Criminal da Circunscrição Judiciária de Santa Maria/DF (ID 53979453), que condenou o apelante pela prática do crime previsto no artigo 99, caput, da Lei n.º 10.741/2003, por duas vezes, (maus tratos contra pessoa idosa), à pena definitiva de 4 (quatro) meses de detenção, a ser cumprida em regime inicial aberto, e ao pagamento de 20 (vinte) dias-multa, no valor unitário mínimo. A pena privativa de liberdade foi substituída por uma pena restritiva de direitos, a ser definida pelo Juízo das Execuções Penais.
+Consta da denúncia que:
+"(..) No período compreendido entre 18 de março de 2020 e 18 de dezembro de 2020, nesta Região Administrativa de Santa Maria, MAURÍCIO FERREIRA CALDAS, com vontade livre e consciente, expôs a perigo a integridade e a saúde física e psíquica de seus pais idosos, Martinho Ferreira Caldas e Maria Pereira Caldas, submetendo-os a condições desumanas e degradantes, bem como privando-os de alimentos e cuidados indispensáveis.
+Nas mesmas circunstâncias de tempo e lugar, MAURÍCIO FERREIRA CALDAS, com vontade livre e consciente, apropriou-se de rendimentos (benefício previdenciário) de seu pai idoso, Martinho Ferreira Caldas, dando-lhes aplicação diversa da de sua finalidade.
+Consta dos autos que o acusado é filho das vítimas Martinho, idoso de 81 (oitenta e um) anos na ocasião dos fatos, com diversos problemas de saúde, e Maria, idosa de 85 (oitenta e cinco) anos na ocasião dos fatos, acometida de Alzheimer e acamada, ambos dependentes de cuidados.
+Apurou-se que o acusado reside com as vítimas em um barraco, não trabalha e utiliza o dinheiro da aposentadoria das vítimas em bares da região. Além disso, o acusado deixa faltar alimentação para as vítimas, grita com elas e a residência em que todos vivem têm condições precárias, com sujeira e odor de urina.
+Em visita ao local, foi constatado que os idosos estavam sozinhos, a casa estava suja, com mal cheiro e a geladeira vazia e com bolor. A vítima Martinho informou que o acusado recolhe o dinheiro da aposentadoria e não repassa a quantia necessária para comprar o que necessitam. A situação encontrada no local evidencia que o acusado expõe a perigo a integridade e a saúde física e psíquica das vítimas. (..)."" (ID 46846484).
+ ..
+Da materialidade
+A materialidade delitiva está comprovada. Registro: "ocorrência policial (ID 87882304 - fls. 03/06), pelo relatório da Unidade Básica de Saúde n.º 05 de Santa Maria (ID 125058927), pela certidão do oficial de justiça e fotografias que a instruem (ID"s 126739840 e 126741346)" (ID 53979453) e prova oral colhida em regular instrução.
+Da autoria
+Nenhuma dúvida quanto à autoria/responsabilidade do apelante pelo delito previsto no artigo 99, caput, da Lei n.º 10.741/2003, por duas vezes (maus tratos contra pessoa idosa), não merecendo guarida o pedido para a absolvição.
+Nesse sentido, as harmônicas declarações das testemunhas em juízo:
+"(..) o agente de polícia civil André Santa Luzia Freire informou, sob o crivo do contraditório, que foi acionado para comparecer à casa das vítimas e, lá chegando, verificou que os idosos viviam em situações precárias de higiene.
+Esclareceu que, de pronto, notou um mal cheiro de urina forte e que havia bolor na geladeira, bem como que não havia alimento próprio para o consumo no local. Relatou, também, que as vítimas apresentavam higiene pessoal precária. Por fim, consignou ter tentado estabelecer contato com o réu, mas não obteve êxito (ID 134008924).
+A versão alhures retratada encontrou ressonância nos relatos das testemunhas Francisco de Medeiros Lima, que informou ter comparecido à residência das vítimas e verificado que os idosos viviam em situação precária e que o local apresentava mal cheiro, muita sujeira e bolor.
+Outrossim, registrou ter comparecido algumas vezes à residência das vítimas e, na maioria delas, os idosos se encontravam sozinhos e em situação de abandono material (ID 134008922).
+De igual forma, a testemunha Suze Ferreira Uma informou que morava no mesmo lote das vítimas à época dos fatos e que a residência dos idosos tinha mal cheiro. Relatou que o acusado raramente estava na residência das vítimas e era visto constantemente em um bar localizado na mesma rua. Esclareceu que as vítimas não tinham condição de prover os próprios cuidados e, portanto, dependiam do auxílio do réu. Por fim, consignou ter presenciado gritos do acusado mandando o pai calar a boca (ID 134008918)." (depoimentos transcritos da sentença - ID 53979453) (grifo nosso).
+No mesmo sentido, a certidão do senhor oficial de justiça e as fotografias que a instruem (ID: 46846503 a ID: 46846508), registradas a precária situação de higiene das vítimas e da residência, além da falta de alimentação própria para o consumo:
+" ..  CONSTATEI que a casa estava imunda, com alimentos vencidos, uma caixa de uísque Buchanan"s no sofá e uma garrafinha de bebida birinight ICE acima da parede divisória da cozinha. Havia também uma cadeira de rodas encostada num quarto, cheio de restos de madeira e objetos quebrados.
+A cozinha estava imunda com louça entulhada e restos de comida.
+Indagado sobre a presença de alguém que cuidasse dele, respondeu-me que no momento só estava ele a mulher no quarto, apontando para eu verificar. Entrando no aposento a frente, presenciei uma idosa acamada, de fralda, com as pernas encolhidas. Ela não expressava qualquer reação ao ser chamada. Perguntei ao idoso onde era o banheiro e notei que o chuveiro não possuía água quente nem havia uma cadeira de banho para fazer a higiene corporal. A cena observada era calamitosa. Estava evidente que não morava mais ninguém na residência, pois os idosos ficavam num quarto e o outro cômodo estava abarrotado de quinquilharia." (ID 54087556).
+Constam dos autos, ainda, o relatório da Unidade Básica de Saúde nº 5 de Santa Maria consignando que os idosos viviam em "péssimas condições higiênicas, ausência de alimentos (..) sujos e residência suja e com forte odor de urina" (ID 46846501).
+O réu prestou depoimento apenas em sede de inquérito. Não compareceu em juízo, sendo decretada sua revelia.
+ ..
+Da análise das provas não sobejam dúvidas quanto a que o acusado residia com os pais idosos e era o responsável por cuidar deles, ou seja, tinha a obrigação legal de promover-lhes o bem-estar. Certo, outrossim, que as vítimas se encontravam em situação de abandono material, privadas de alimentos, higiene, limpeza e demais cuidados indispensáveis à subsistência, em situação desumana e degradante, na qual expostas sua saúde e integridade física à perigo.
+Nesse contexto, consideradas as declarações das testemunhas e os documentos constantes dos autos, não sobejam dúvidas quanto à consecução do crime previsto no artigo 99, caput, da Lei n.º 10.741/2003, por duas vezes.
+Constato que a Corte de origem, após minuciosa análise do acervo carreado aos autos, notadamente pelas provas documentais e orais colhidas em juízo, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do réu pelo crime previsto no art. 99 do Estatuto do Idoso.
+O acórdão deixou claro que "da análise das provas não sobejam dúvidas quanto a que o acusado residia com os pais idosos e era o responsável por cuidar deles" (fl. 367) e que "as vítimas se encontravam em situação de abandono material, privadas de alimentos, higiene, limpeza e demais cuidados indispensáveis à subsistência, em situação desumana e degradante, na qual expostas sua saúde e integridade física à perigo" (fl. 367).
+Para se entender pela absolvição, seria necessária a incursão no conjunto fático-probatório, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+ ..
+3. No mais, depreende-se dos autos que as instâncias ordinárias demonstraram a coesão e harmonia das provas para atestar a adequação da conduta praticada pelo réu ao crime capitulado no art. 102, da Lei 10.741/2003.
+4. Nesse sentido, concluíram que " d os elementos coligidos nos autos, é possível afirmar com segurança que, do período de fevereiro de 2009 a março de 2015, o acusado se aproveitou da confiança depositada pela vítima em sua pessoa, para se apropriar de expressivos valores oriundos de contas bancárias da idosa (com 88 anos no início da conduta e 94 anos no final dos crimes), a fim de satisfazer suas necessidades e interesses pessoais" (e-STJ, fl. 2.210).
+5. Desse modo, o afastamento dessas conclusões, para acolher a tese absolutória, demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+ ..
+9. Agravo regimental não provido.
+(AgRg no AREsp n. 2.301.387/DF, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 12/5/2023, destaquei)
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
