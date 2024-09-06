@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PABLO HENRIQUE SILVA PROCOPIO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. A prisão preventiva foi decretada visando garantir a ordem pública em razão da gravidade da conduta imputada ao paciente e pela quantidade de droga apreendida - "9 microtubos contendo a droga popularmente conhecida como K9, 165 pinos contendo cocaína, 85 pedras de crack e 119 unidades de maconha" - fl. 65.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente em razão da gravidade da conduta bem como pelo fundado receio de reiteração delitiva pois o pacinete é reincidente específico denegando a ordem em acórdão de fls. 73-79.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Aduz que não há indícios de autoria e materialidade.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de liminar indeferido às fls. 82-83.
+Informações prestadas às fls. 89-101 e 102-122.
+O Ministério Público Federal, às fls. 124-128, manifestou-se em parecer que restou assim ementado:
+"Habeas corpus substitutivo de recurso próprio. Não cabimento do writ. Jurisprudência atual do STF e do STJ (turmas vinculadas à 3ª Seção). Crime de tráfico ilícito de drogas. Prisão preventiva. Pleito de sua revogação, calcado nas teses de falta de motivação idônea e suficiência das medidas cautelares diversas da prisão (art. 319 do CPP). Descabimento. Segregação devidamente motivada. Garantia da ordem pública. Risco de reiteração delitiva. Parecer pelo não conhecimento do habeas corpus" -fl.124.
+É o relatório. DECIDO.
+Primeiramente, quanto a alegação acerca da ausência de autoria e materialidade delitivas, o Tribunal de origem salientou que: "revelam indícios claros de autoria por parte do paciente"- fl. 78. Ir contrário a este entendimento demandaria revolvimento fático-probatório inviável na via estreita do habeas corpus.
+A propósito:
+"a tese de ausência de prova de materialidade e de autoria delitiva depende de revolvimento fático/probatório dos autos, não condizente com a via eleita. Em verdade o pedido defensivo tenta transmudar o habeas corpus em verdadeira revisão criminal e esta Corte Superior em terceira instância revisora, o que vedado."(AgRg no HC n. 916.957/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao paciente encontra-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que o paciente é reincidente específico.
+Conforme pacífica jurisprudência desta Corte:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)."(AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+Outrossim, conforme a jurisprudência desta Corte, a reincidência justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no HC n. 914.154/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024); (AgRg no AREsp n. 2.451.465/PR, Minha Relatoria, Quinta Turma, DJe de 13/8/2024); (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024.); (AgRg no RHC n. 192.068/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 26/6/2024)  .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
