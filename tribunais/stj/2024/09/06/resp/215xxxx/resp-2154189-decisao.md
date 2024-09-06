@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado por Sonia Maria Valente Rangel e Telmo Ricardo Abrahao Schorr com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 160):
+AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO PELA VIA DO PRECATÓRIO. DESCABIMENTO.
+1. A teor do entendimento adotado pelo Superior Tribunal de Justiça por ocasião do julgamento do Recurso Especial Repetitivo nº 1.252.412 (Tema nº 506), não ocorre a preclusão processual quanto ao pedido de fixação de verba honorária para a fase de execução.
+2. De qualquer sorte, a Fazenda Pública, por disposição legal expressa, não pode voluntariamente pagar suas dívidas oriundas de condenação judicial. Conforme o artigo 100 da Constituição Federal, isso será realizado por meio de precatório.
+3. A respeito do assunto, é pacífico o entendimento da jurisprudência desta Corte no sentido de que no cumprimento individual de sentença coletiva é devida a fixação de honorários advocatícios, independentemente de impugnação e mesmo que o pagamento seja pela via do precatório. Issso decorre da aplicação da aplicação da Súmula nº 345 e da decisão no REsp nº 1.648.238/RS, sob o rito dos recursos repetitivos (Tema 973).
+4. O caso em exame, contudo, não trata de cumprimento individual de sentença proferida em ação coletiva. 5. Hipótese em que o feito diz respeito a cumprimento de sentença proferida em ação individual, cujo valor do crédito enquadra-se na previsão constitucional de pagamento pela via do precatório, a afastar a possibilidade de fixação de honorários advocatícios.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 231/237).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 85, § 7º, 489, § 1º, IV e 1.022, II, do CPC. Sustenta, além da negativa de prestação jurisdicional, que: "Em razão do §7º do Art. 85 do CPC/15, no Cumprimento de Sentença contra a Fazenda Pública, que enseje expedição de Precatório, desde que não tenha sido impugnada, não serão devidos honorários. Como corolário lógico, AINDA QUE ENSEJE EXPEDIÇÃO DE PRECATÓRIO, se impugnada for a execução, serão devidos honorários advocatícios, diferentemente do que veio fundamentado no acórdão recorrido" (fl. 277).
+Alega que: "não houve qualquer ressalva, pelo legislador processual, de que, para a aplicação da verba, necessário antes a verificação da sucumbência no incidente ofertado, a autorizar, então, o arbitramento dos honorários em razão do oferecimento de impugnação. Tampouco houve qualquer menção de que eventual arbitramento da verba honorária em razão da sucumbência constatada no incidente poderia afastar a verba em decorrência do próprio oferecimento da impugnação - prevista no Art. 85, §7º, do CPC, o que demonstra a violação ao dispositivo em comento" (fl. 283).
+Foram ofertadas contrarrazões às fls. 310/321.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelos arts. 489 e 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração e do recurso especial, alega a omissão do julgado no que toca ao art. 85, § 7º, do CPC, o qual determina que será cabível a fixação de honorários sucumbenciais em desfavor da Fazenda Pública, quando houver impugnação ao cumprimento de sentença.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora recorrente, em franca violação aos arts. 489 e 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, dou provimento ao recurso espe cial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
