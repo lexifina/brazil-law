@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALDEJONE DO CARMO VIANA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da apelação criminal n. 1506600-12.2021.8.26.0071.
+Consta dos autos que o paciente foi inicialmente absolvido pelo Juízo da 3ª Vara Criminal da Comarca de Bauru da imputação de cometimento do delito previsto no artigo 33, caput, c/c artigo 40, III, ambos da Lei 11. 343/2006, nos termos da sentença de fls. 145-160.
+A defesa e a acusação interpuseram recurso de apelação criminal ao Tribunal de Justiça, que negou provimento ao apelo defensivo e deu parcial provimento ao apelo ministerial, para condenar o paciente à pena de 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e ao pagamento de 680 (seiscentos e oitenta) dias-multa, por infração ao artigo 33, caput, c/c artigo 40, III, ambos da Lei 11.343/2006, nos termos do acórdão de fls. 164-185.
+Operado o trânsito em julgado, sobreveio o presente habeas corpus, em substituição à revisão criminal, em que o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na ausência de fundamentação idônea a ensejar a condenação do paciente, em razão da atipicidade da sua conduta.
+Argumenta que não houve o início dos atos executórios, não tendo o iter criminis ultrapassado a fase preparatória, considerando que a entrega da droga não se concretizou.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja o paciente absolvido, com fulcro no artigo 386, III, do CPP.
+O pedido de liminar foi indeferido pela Presidência às fls. 202-203.
+Informações prestadas às fls. 220-221 e 224-265.
+O Ministério Público Federal, às fls. 267-270, opinou pela denegação da ordem.
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível ilegalidade flagrante no acórdão impugnado, consistente na ausência de fundamentação idônea a ensejar a condenação do paciente, em razão da atipicidade da sua conduta.
+O presente writ foi impetrado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO já transitado em julgado. Diante dessa situação, não deve ser conhecido, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Consoante o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO SUBSTITUTIVO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. TEMA NÃO ANALISADO NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+Agravo regimental improvido." (AgRg no HC 561.185/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 16/03/2020)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. DOSIMETRIA DE PENA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. CONDENAÇÃO PELO ART. 35 DA LEI DE DROGAS. SENTENÇA TRANSITADA EM JULGADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE NA APLICAÇÃO DA REPRIMENDA. HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS.AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Tratando-se de impetração que se destina a atacar acórdão proferido em sede de apelação criminal, já transitado em julgado, contra o qual seria cabível a interposição de revisão criminal, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+ ..
+6. Agravo regimental improvido." (AgRg no HC 486.185/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 07/05/2019)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+Para uma melhor análise da controvérsia, transcrevo as razões de decidir da decisão colegiada (fls. 167-175):
+ ..
+Consta da denúncia que, no dia 06 de novembro de 2020, às 10h05min, no CPP II "Dr. Eduardo de Oliveira Vianna", localizado na Rodovia Marechal Rondon, km 350, Núcleo Gasparine, na cidade e comarca de Bauru, ELIZANGELA PINHEIROVIANA, remeteu para seu irmão ALDEJONE DO CARMO VIANA, 28 (vinte e oito) fragmentos de MDMB-4EN-PINACA, com peso líquido total de 5,76g (cinco gramas e setenta e seis centigramas), droga que determina dependência física e psíquica, sem autorização e em desacordo com determinação legal e regulamentar. Consta ainda que, nas referidas circunstâncias de tempo e local, ALDEJONE DO CARMOVIANA, concorreu com o crime de tráfico descrito acima.
+A materialidade delitiva ficou evidenciada pelos boletins de ocorrência (fls. 07/09), pelo auto de exibição e apreensão (fl. 10), pelo laudo de exame químico-toxicológico (fls.12/15) o qual apontou o caráter entorpecente das substâncias apreendidas, pelo laudo grafotécnico (fls. 76/81), bem como pela prova ora oral colhida sob o crivo do contraditório e da ampla defesa.
+A autoria, por sua vez, é inconteste e recai seguramente sobre a ré e o corréu.
+ ..
+Por seu turno, os agentes penitenciários Júlio Morato Pinto de Almeida Neto e Silvio Pimentel, ouvidos em juízo, declararam que a droga foi enviada por meio de um Sedex, o pacote foi recebido na unidade e submetido ao scanner. Afirmou que, quando há algo suspeito, a encomenda é remetida ao setor de inclusão, o preso é chamado e o pacote só entra na unidade se houver o xerox da carteirinha ou RG do remetente, que deve ser a pessoa cadastrada no rol de visitas do preso. Asseveraram que a revista é feita na frente do preso e, no pacote remetido ao réu, havia droga.
+ ..
+No que tange ao acusado Aldejone, deve ser destacado que, quando ouvido admitiu ter fornecido os dados de sua irmã Elizângela para outro sentenciado a fim de que este último recebesse alimentos e produtos de higiene, portanto, não é crível que não soubesse que a correspondência chegaria até a unidade prisional.
+Com efeito, assiste razão ao Ministério Público do Estado de São Paulo ao pedir a condenação do réu Aldejone pelo delito de tráfico de drogas, visto que ele concorreu para o delito, pois era o destinatário da droga enviada pela ré Elizângela para ser difundida no interior da unidade prisional.
+Como ressaltado pela douta Procuradoria Geral de Justiça: "Logo, dadas as provas dos autos, o que incluiu a versão de Al-dejone, somadas às particularidades da ação delitiva, notadamente o envio de drogas por Elizângela a seu irmão Aldejone, é certo que o acusado tinha plena consciência de que iria receber substância entorpecente, tendo, assim, concorrido para a infração penal. 24. Neste ponto, é o caso de ser dado provimento ao recurso ministerial para condenar Aldejone nos termos da denúncia" (fl. 458).
+Impunha-se, portanto, a condenação dos réus, não havendo cogitar-se de absolvição por insuficiência probatória, conforme pleiteou a defesa da ré Elizângela, já que suas atitudes se coadunam, perfeitamente, com a figura delitiva prevista no artigo 33, da Lei nº 11.343/2006, que assim dispõe:
+ ..
+Assinalo que é remansosa a jurisprudência do STJ no sentido de que a simples solicitação, ausente a entrega efetiva da droga ao destinatário em estabelecimento prisional, caracteriza, no máximo, ato preparatório. Assim, sendo impunível, não há se falar em tipicidade da conduta. Portanto a absolvição do paciente é medida de rigor.
+A propósito:
+" ..
+2. No caso, o paciente "solicitou" que a droga fosse entregue ao estabelecimento prisional em que se encontrava custodiado, oportunidade em que as substâncias não chegaram ao seu poder, diante da interceptação das drogas, na revista pessoal.
+3. A interceptação da droga, pelos agentes penitenciários, antes de ser entregue ao destinatário recolhido em estabelecimento prisional, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada.
+ .. " (AgRg no HC n. 849.785/MS, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 21/3/2024).
+" ..
+3. No caso, a única ação imputada ao ora agravado foi ter solicitado à sua companheira (corré na ação principal) a entrega de 38,54g de maconha durante visita ao estabelecimento prisional que se encontrava recolhido. Ademais, não há nos autos notícia de que o réu a tivesse ameaçado.
+4. É assente a jurisprudência desta Corte Superior no sentido de que Ainda que se admita que o agente, supostamente, houvesse solicitado a sua companheira a entrega do entorpecente no interior do presídio em que estava detido, tal conduta somente se configuraria em ato preparatório, sem efetivo início do iter criminis e, portanto, impunível diante da atipicidade formal da conduta, consoante posicionamento consolidado na jurisprudência desta Corte Superior (AgRg no HC n. 830.262/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/10/2023, DJe de 3/11/2023).
+ .. " (AgRg no AREsp n. 2.436.576/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/12/2023).
+" ..
+3. O agravado não praticou qualquer conduta que possa configurar o início do iter criminis do delito descrito no art. 33 da Lei 11.343/2006, porquanto limitou-se, supostamente, a solicitar à sua companheira (corré) a entrega da droga no interior do presídio em que se encontrava recolhido.
+4. Esta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível. Logo, é de rigor a absolvição do ora agravado, em razão da atipicidade de sua conduta, notadamente porque não comprovada a propriedade da droga.  .. " (AgRg no REsp n. 1.999.604/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Nessa linha: AgRg no HC n. 834.537/GO, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 29/11/2023; AgRg no HC n. 830.262/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/11/2023; AgRg no HC n. 856.046/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/10/2023.
+Na espécie, observo que a situação fático-jurídica do paciente se ajusta aos precedentes acima mencionados. De acordo com a Corte originária, o paciente solicitou que a sua irmã entregasse a ele, via Sedex, drogas ilícitas no interior de estabelecimento prisional. Contudo, o paciente não chegou a adquirir o entorpecente, uma vez que esse foi retido por ocasião da interceptação da correspondência.
+Portanto, a absolvição é medida de rigor, devendo ser restabelecida a sentença de primeira instância.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, a fim de absolver o paciente, nos termos do artigo 386, III, do Código de Processo Penal.
+Comunique-se à autoridade coatora e ao juízo de primeiro grau.
+Publique-se. Intimem-se.
+EMENTA
