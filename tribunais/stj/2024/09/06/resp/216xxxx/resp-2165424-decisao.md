@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILSON SOUSA DA SILVA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão oriundo do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+Depreende-se dos autos que o recorrente foi absolvido, em primeiro grau, da acusação de ter praticado o delito descrito no art. 155 do Código Penal.
+O Tribunal de origem deu provimento ao recurso de apelação do Ministério Público para condenar o recorrente à pena de 4 meses de reclusão, no regime aberto. O acórdão está assim ementado (e-STJ fls. 234/235):
+PENAL E PROCESSO PENAL - APELAÇÃO CRIMINAL - FURTO SIMPLES CONSUMADO - APELO MINISTERIAL - REFORMA DA SENTENÇA QUE ABSOLVEU O APELADO PELO RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA - VIABILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - RÉU CONTUMAZ NA PRÁTICA DE DELITOS - A CONDENAÇÃO É MEDIDA QUE SE IMPÕE - RECURSO CONHECIDO E PROVIDO.
+1 - Discute-se a possibilidade ou não da aplicação do princípio da insignificância ou bagatela, reconhecido pelo magistrado da instância singela. A despeito das ponderações do douto juiz a quo, tem-se que a decisão merece reforma.
+2 - Na esteira do entendimento do Pretório Excelso, para a incidência do princípio da insignificância, é necessário o preenchimento de quatro requisitos cumulativos, a saber: a mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+3 - Na espécie, tem-se que a conduta praticada pelo Apelado não pode ser considerada irrelevante para o direito penal. A ação revela lesividade suficiente para justificar sua condenação, uma vez que provada a materialidade e a autoria, havendo que se reconhecer a ofensividade do comportamento.
+4 - Apesar do valor do bem, tal circunstância não autoriza, de per se, a aplicação do princípio da insignificância, na medida em que não se pode confundir o pequeno valor do objeto material do delito com a irrelevância da conduta do agente.
+5 - Nestes termos, tem-se que a conduta delitiva perpetrada pelo apelado não pode ser concebida como um indiferente penal, sob pena de transformar a falta de repressão de tais atos em um ostensivo incentivo ao cometimento de pequenos delitos que, agrupados, provocariam verdadeira desordem social.
+6 - Vale dizer que o acusado é contumaz na prática de delitos patrimoniais, conforme certidão de antecedentes acostada no evento 04 dos autos originários, ou seja, a prática de atos contrários à lei se tornou hábito na vida do apelado, o que, por si só, é motivo apto a descartar a possibilidade de não receber punição fundamentada no princípio da insignificância, simplesmente porque as condições pessoais que ele apresenta não recomendam a conferência de tal benefício. Precedentes.
+7 - Motivo pelo qual, a condenação pelo delito imputado no art. 155, caput, do Código Penal é medida que se impõe.
+8 - Recurso conhecido e provido.
+Os embargos de declaração que se seguiram foram rejeitados (e-STJ fls. 289/290).
+Daí o presente recurso especial, no qual se alega que a violação ao art. 619 do Código de Processo Penal; art. 155, caput, do Código Penal, e ao art. 386, III, do Código de Processo Penal.
+Alega, preliminarmente, omissão da Corte de origem ao não enfrentar a tese referente ao valor do bem furtado.
+No mérito, pugna pelo restabelecimento da sentença absolutória em razão da insignificância da conduta.
+O MPF, às e-STJ fls. 340/346, manifestou-se pelo não conhecimento do recurso.
+É, em síntese, o relatório. Decido.
+Assiste razão à defesa.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presente recurso especial encontra amparo na jurisprudência firmada nesta Corte.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada. Preenchidos todos esses requisitos, a aplicação desse princípio possui o condão de afastar a própria tipicidade penal, especificamente na sua vertente material.
+No presente caso, tem-se que a subtração foi avaliada em R$ 5,00 (e-STJ fl. 5), não demonstrando expressiva lesão ao bem jurídico tutelado.
+Há ainda que considerar a primariedade do agente e o fato de que o delito teria sido praticado sem violência ou grave ameaça, o que também corrobora o entendimento de que a lesão jurídica provocada pode ser considerada como de mínima ofensividade, bem como a reprovabilidade da conduta não seria de gravidade acentuada.
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. INEXPRESSIVA LESÃO AO BEM JURÍDICO TUTELADO. RESTITUIÇÃO DO OBJETO AO OFENDIDO. OBJETO BÁSICO PARA A SUBSISTÊNCIA - UMA PEÇA DE CARNE. RÉU PRIMÁRIO. ATIPICIDADE MATERIAL DA CONDUTA. RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. AGRAVO PROVIDO.
+1. O presente caso trata-se de subtração praticada por réu primário de objeto alimentício, para a subsistência, que se trata de uma peça de contrafilé avaliada, de acordo com o Auto de Entrega, em R$114, 30 (cento e quatorze reais e trinta centavos), que equivale a 12,2% do salário mínimo vigente à época dos fatos, restituída à vítima após a captura do réu, o que autoriza, excepcionalmente, a incidência do princípio da insignificância.
+2. Esta Corte Superior tem entendido pela aplicação do princípio da insignificância nos casos de furto simples praticado por réu primário de objeto avaliado até 15% do valor do salário mínimo vigente à época do fato, ainda mais quando se trata de objeto básico para a subsistência, como por exemplo, uma peça de carne, e que é restituído à vítima logo após a conduta criminosa.
+3. Agravo regimental provido, a fim de também prover o recurso especial, para restabelecer a sentença, e absolver o agravante, por atipicidade material da conduta imputada, a teor do art. 386, III, do CPP.
+(AgRg no AREsp n. 1.786.570/RJ, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/3/2021, DJe 12/3/2021.)
+HABEAS CORPUS SUBSTITUTIVO. FALTA DE CABIMENTO. TENTATIVA DE FURTO SIMPLES. BENS DE PEQUENO VALOR RESTITUÍDOS À VÍTIMA. REGISTRO DE ANTECEDENTE CRIMINAL. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+ ..  3. A intervenção do Direito Penal há de ficar reservada para os casos realmente necessários. Para o reconhecimento da insignificância da ação, não se pode levar em conta apenas a expressão econômica da lesão. Todas as peculiaridades do caso concreto devem ser consideradas, por exemplo, o grau de reprovabilidade do comportamento do agente, o valor do objeto, a restituição do bem, a repercussão econômica para a vítima, a premeditação, a ausência de violência, o tempo do agente na prisão pela conduta etc.
+4. Nem a reincidência nem a reiteração criminosa, tampouco a habitualidade delitiva, são suficientes, por si sós e isoladamente, para afastar a aplicação do denominado princípio da insignificância.
+5. Na espécie, as oito barras de chocolate foram integralmente restituídas ao supermercado vítima da tentativa de furto, e, não obstante a certidão de antecedentes criminais indicar uma condenação transitada em julgado em crime de mesma natureza, a conduta do paciente não traduz lesividade efetiva e concreta ao bem jurídico tutelado.
+6. Habeas corpus não conhecido. Ordem expedida de ofício, extinguindo-se a ação penal.
+(HC n. 299.185/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 9/9/2014, DJe 25/9/2014.)
+À vista do exposto, dou provimento ao recurso especial para restabelecer a sentença absolutória.
+Publique-se. Intimem-se.
+EMENTA
