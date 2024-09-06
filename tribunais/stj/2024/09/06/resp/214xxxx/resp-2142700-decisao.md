@@ -1,0 +1,17 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, "a", da CF, interpõe recurso especial contra acórdão proferido pelo Tribunal de Justiça local.
+Nas razões de pedir, o recorrente contesta o reconhecimento da prescrição disciplinar quanto a falta grave ocorrida em 10/1/2017. Aponta a violação ao art. 109, VI, do CP, e do artigo 50 da Lei 7.210/1984, além de divergência jurisprudencial, pois, uma vez reconhecida a falta disciplinar por decisão judicial homologatória em 12/03/2018, não há mais que se falar perda do poder-dever de apurar a infração.
+O MPF opinou pelo desprovimento do recurso.
+Decido.
+Confirmo a admissibilidade do reclamo, pois estão preenchidos os requisitos legais.
+Segundo a Súmula n. 568 do STJ, o relator poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+O Tribunal de Justiça assim decidiu a controvérsia (fl. 121):
+Diante da omissão legislativa no Direito de Execução Penal quanto ao prazo prescricional para homologação judicial de faltas disciplinares, a jurisprudência da Suprema Corte brasileira, acompanhada pelos Tribunais Superiores, firmou entendimento de que se deve utilizar, por analogia, o menor prazo prescricional previsto no artigo 109 do Código Penal, de três anos, lapso temporal transcorrido entre a homologação judicial da falta disciplinar (12.03.2018) e a presente data, operando-se, pois, a prescrição intercorrente ou superveniente da pretensão punitiva.
+A jurisprudência desta Corte reconhece que "a prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109 do Código Penal, qual seja, 3 anos, nos termos do disposto na Lei n. 12.234/2010" (RHC n. 51.678/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/6/2016).
+No caso, a falta ocorreu em 10/1/2017. Houve apuração em PAD e a devida homologação, no dia 12/3/2018, antes da prescrição disciplinar.
+Como regra, o reconhecimento de falta grave se desenvolve como procedimento misto, de caráter administrativo, perante a autoridade prisional, e judicializado, diante do juízo da execução. Ele não se confunde com o processo a ser desenvolvido para apurar crime doloso, pois as sanções disciplinares (como a regressão de regime), diferem das penas estabelecidas na lei penal.
+Normalmente, cabe à Administração, representada pelo Diretor da Unidade Penal, instaurar o PAD para apurar a falta grave e identificar a autoria. Ao Poder Judiciário, incumbe a homologação do resultado da Comissão Disciplinar e, nesta etapa, efetua-se o controle de legalidade do ato administrativo, com imposição das consequências jurídicas da infração, como a regressão de regime, a perda dos dias remidos e a interrupção da data-base para progressão.
+Devido a essa peculiar natureza (mista), "não se aplica ao prazo prescricional da falta grave - infração de natureza eminentemente administrativa - o instituto da prescrição intercorrente. Precedente: AgRg no AREsp n. 2.089.865/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/6/2022, DJe de 30/6/2022" (AgRg no HC n. 824.280/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/6/2023, DJe de 14/6/2023).
+À vista do exposto, conheço e dou provimento ao recurso especial, para afastar o reconhecimento da prescrição da falta grave e determinar que o Tribunal de origem prossiga com o julgamento do Agravo em Execução n. 0000596-48.2024.8.26.0032.
+Publique-se e intimem-se.
+EMENTA
