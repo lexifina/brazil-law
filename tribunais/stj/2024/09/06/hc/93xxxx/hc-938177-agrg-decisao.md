@@ -1,0 +1,31 @@
+DECISÃO
+RONALDO PIAZZA DE OLIVEIRA agrava da decisão de fls. 101-105, em que a Presidência desta Corte indeferiu liminarmente este habeas corpus.
+Consoante assere a defesa, o paciente preenche os requisitos legais para a aquisição do benefício da progressão de regime, pois ostenta bom comportamento. Requer a reconsideração do referido decisum, a fim de que seja conhecido o writ e concedida a ordem.
+Decido.
+Com razão a defesa.
+A decisão merece reconsideração pelas razões a seguir expostas.
+O Juízo das execuções assim deferiu o benefício:
+Trata-se de pedido de progressão ao regime aberto, manifestando-se desfavoravelmente o Ministério Público.
+Em que pese o parecer contrário do Ilustre Representante do Ministério Público, verifica-se dos autos que o sentenciado mantém boa conduta carcerária, cumpriu mais de 1/6 do total de sua reprimenda (conforme cálculo de pág. 70), encontra-se usufruindo das saídas temporárias e retornando normalmente ao presídio, não registra falta disciplinar graves durante todo o período de cumprimento da pena e obteve resultado favorável no exame criminológico realizado, preenchendo assim os requisitos legais exigidos pela Lei 7.210/84, para a obtenção do benefício.
+E, em que pesem os aspectos negativos ressaltados no laudo psicológico e apontados pelo Dr. Promotor de Justiça, anote-se não serem de monta a ensejarem o indeferimento da postulação, até porque nem mesmo o profissional subscritor do parecer técnico assim o sugeriu e, ademais, há vários apontamentos positivos que devem ser considerados e superam sobremaneira os negativos, destacando-se a ausência de infração disciplinar grave ao longo de todo período de encarceramento e o gozo de mais de dez saídas temporárias sem registro de qualquer intercorrência ou irregularidade (fl. 81, grifei).
+A Corte de origem deu provimento ao agravo em execução ministerial, para cassar a benesse, nos seguintes termos:
+Portanto, embora o parecer conjunto tenha sido favorável ao avanço de retiro, repito, a perícia realizada apontou circunstâncias desfavoráveis.
+Não é demais lembrar que o juiz não está adstrito a laudo técnico, podendo rejeitá-lo em parte ou no todo (artigo 182 do Código de Processo Penal).
+ ..
+Não se olvide que a progressão de regime, em realidade, não constitui um direito absoluto do sentenciado, condicionando-se à segurança da sociedade, não bastando apenas o preenchimento do requisito objetivo, mas, antes, a satisfação da condição subjetiva, na medida em que o deferimento de qualquer benesse ao reeducando subordina-se à análise aprofundada de suas condições pessoais, pois o meio social não pode e nem deve servir de "laboratório", onde se vá testar a aparente "recuperação" de perigosos delinquentes (TJSP, Agravo em Execução nº 243.772-3/6, Rel. Des. Jarbas Mazzoni).
+Importante consignar que não se trata de considerar o fato já julgado na aferição da periculosidade do sentenciado, mas sim dizer que o sentenciado que desconta pena por delito grave, hediondo - como é o caso do agravado, deve ser mais bem avaliado, de forma a se verificar se está apto a retornar ao convívio social.
+ ..
+Portanto, verifica-se, in casu, prematura a concessão do benefício pleiteado, devendo o sentenciado permanecer mais tempo no regime em que se encontra, com comportamento satisfatório e apto a indicar que não incorrerá em nova delinquência (fls. 18-20, destaquei).
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada (HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+Portanto, ao contrário do que foi lançado na decisão ora agravada, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal, dado o preenchimento dos requisitos legais, sem olvidar o exame criminológico favorável, que atesta o bom comportamento do paciente. Ressalto, ainda, que a última falta grave cometida foi reabilitada em 5/5/2019 (fl. 40, grifei) - há mais de 5 anos.
+À vista do exposto, reconsidero a decisão de fls. 101-105 e, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, in limine, para restabelecer a decisão do Juízo das execuções, que deferiu a progressão de regime ao apenado.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias.
+Publique-se e intimem-se.
+EMENTA
