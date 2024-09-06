@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, agravo em recurso especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, em face de decisão do Tribunal Regional Federal da 4ª Região que inadmitiu recurso especial interposto contra acórdão assim ementado:
+MANDADO DE SEGURANÇA. INDENIZAÇÃO SUBSTITUTIVA DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. LEGITIMIDADE PASSIVA. JUROS MORATÓRIOS E MULTA. MEDIDA PROVISÓRIA Nº 1.523, DE1996.
+1. Em se tratando de demanda na qual se discute os critérios de cálculo do valor da indenização substitutiva das contribuições previdenciárias (inclusão de juros e multa) e em que se pretende a emissão de nova GPS, é de ser reconhecida a legitimidade passivado INSS.
+2. É indevida a exigência de juros moratórios e multa sobre o valor de indenização substitutiva de contribuições previdenciárias, relativamente a período de tempo de serviço anterior à Medida Provisória nº 1.523, de 1996, conforme a jurisprudência dominante do Superior Tribunal de Justiça (STJ).(fls. 101)
+O acórdão em questão foi objeto de embargos de declaração (fls. 119/123), ao qual foi negado provimento (fls. 131/134)
+Nas razões do recurso especial, interposto com base no art. 105, III, a da Constituição Federal, a parte ora recorrente aponta violação aos arts. 1.022 do CPC/2015, 79, 82, § 2º e 146, da Lei 3.807/60 (LOPS) c/c o 81 do Decreto 83.081/79 e 45, § 4º, da Lei 8.212/91, sustentando, em síntese, que: (a) o acórdão recorrido foi omisso em seu pronunciamento; e, (b) o acórdão recorrido "deixou de considerar que a Lei nº 3.807/60 (Lei Orgânica da Previdência Social) já previa a incidência de multa e de juros moratórios no recolhimento "de quaisquer outras quantias devidas à previdência social" ". (fl. 150).
+Sem contrarrazões , o recurso especial não foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Não vislumbro, no caso, ofensa aos arts. 1.022, II do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, tendo o Tribunal de origem apreciado fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra Diva Malerbi (Desembargadora Federal Convocada/TRF 3ª Região), Segunda Turma, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro Mauro Campbell MARQUES, Segunda Turma, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 22/04/2016.
+A jurisprudência deste Tribunal Superior firmou-se no sentido de que somente a partir da edição da MP 1.523, de 11/10/96, que acrescentou o § 4º ao art. 45 da Lei 8.212/91, é que se tornou exigível a incidência de juros moratórios e multa nas Contribuições pagas em atraso, motivo pelo qual não há reparos a se fazer no acórdão recorrido. No caso, verifico que o acórdão recorrido está sintonia com a orientação desta Corte Superior.
+Nesse sentido:
+PREVIDENCIÁRIO. CONTRIBUIÇÕES EM ATRASO. RECOLHIMENTO. ART. 45, § 4º, DA LEI N. 8.212/1991. BASE DE CÁLCULO DA INDENIZAÇÃO. PERÍODO ANTERIOR À EDIÇÃO DA MEDIDA PROVISÓRIA 1.523/1996. JUROS E MULTA INCABÍVEIS. AUSÊNCIA DE FATO NOVO CAPAZ DE ALTERAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior firmou entendimento no sentido de que somente a partir da edição da MP 1.523, de 11/10/96, que acrescentou o § 4º ao art. 45 da Lei 8.212/91, é que se tornou exigível a incidência de juros moratórios e multa nas contribuições pagas em atraso.
+2. O agravo regimental não apresentou fato novo capaz de alterar os fundamentos da decisão agravada que negou seguimento ao recurso especial.
+3. Agravo Regimental a que se nega provimento. (AgRg no REsp 756.751/PR, relatora Ministra Alderita Ramos De Oliveira -Desembargadora Convocada do TJ/PE -, Sexta Turma, DJe 07/05/2013) - grifo nosso
+RECURSO ESPECIAL. PROCESSUAL CIVIL. LEGITIMIDADE DA FAZENDA NACIONAL PARA FIGURAR NO PÓLO PASSIVO DA DEMANDA. LEI 11.457/2007. TRANSFERÊNCIA DA RESPONSABILIDADE PELAS CONTRIBUIÇÕES PREVIDENCIÁRIAS DO INSS PARA A SECRETARIA DA RECEITA FEDERAL DO BRASIL. APOSENTADORIA. RECOLHIMENTO EXTEMPORÂNEO DAS CONTRIBUIÇÕES. INCIDÊNCIA DE JUROS MORATÓRIOS E MULTA SOMENTE A PARTIR DA EDIÇÃO DA MP 1.523/96. RECURSO ESPECIAL DESPROVIDO.
+1. Trata-se, na origem, de ação ordinária que objetiva o reconhecimento da inexigibilidade de multa e juros de mora no cálculo de indenização necessária à expedição de certidão de tempo de serviço para contagem recíproca. Tal indenização relaciona-se com o recolhimento de contribuições previdenciárias devidas pelo recorrido, ora agravado.
+2. (..).
+3. (..).
+4. Esta Corte firmou entendimento de que a obrigatoriedade imposta pelo § 4o. do art. 45 da Lei 8.212/91 quanto à incidência de juros moratórios e multa no cálculo da indenização das contribuições previdenciárias somente opera a partir da edição da MP 1.523/96 que, conferindo nova redação à Lei de Organização da Seguridade Social acrescentou tal parágrafo ao referido art. 45.
+5. Recurso Especial da Fazenda Nacional desprovido. (REsp 1325977/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 24/09/2012) - grifo nosso.
+PREVIDENCIÁRIO. CONTRIBUIÇÕES EM ATRASO. ART. 45, § 4º, DA LEI N. 8.212/1991. BASE DE CÁLCULO DA INDENIZAÇÃO. PERÍODO ANTERIOR À EDIÇÃO DA MEDIDA PROVISÓRIA N. 1.523/1996. JUROS E MULTA INCABÍVEIS.
+1. A jurisprudência desta Corte firmou-se no sentido de que somente a partir da edição da MP 1.523, de 11/10/96, que acrescentou o § 4º ao art. 45 da Lei 8.212/91, é que se tornou exigível a incidência de juros moratórios e multa nas contribuições pagas em atraso.
+2. Agravo regimental desprovido. (AgRg no Ag 1049950 / SP, relator Ministro Vasco Della Giustina - Desembargador Convocado do TJ/RS -, Sexta Tuma, DJe 01/07/2011) - grifo nosso.
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, agravo conhecido para negar provimento ao recurso especial.
+Intime-se.
+EMENTA
