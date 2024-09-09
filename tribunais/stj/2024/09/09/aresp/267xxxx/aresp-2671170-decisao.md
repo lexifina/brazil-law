@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por RODRIGO AMORIM SANTOS JACINTO à decisão que não admitiu seu Recurso Especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA Nº 14.440/2000. PROFESSORES DA REDE ESTADUAL DE ENSINO BÁSICO. I - O AGRAVADO É PARTE ILEGÍTIMA PARA FIGURAR NO POLO PASSIVO DA AÇÃO, TENDO EM VISTA QUE AJUIZOU O CUMPRIMENTO DE SENTENÇA NA CONDIÇÃO DE SUCESSOR HEREDITÁRIO DE PESSOA BENEFICIÁRIA DO TÍTULO EXEQUENDO, FAZENDO-O EM NOME PRÓPRIO, E NÃO CONSTA NOS AUTOS PROVA DE TER HAVIDO A ABERTURA DE AÇÃO DE INVENTÁRIO EM JUÍZO, RAZÃO PELA QUAL O FEITO DEVE SER EXTINTO SEM RESOLUÇÃO DO MÉRITO, NA FORMA DO ARTIGO 485, VI, DO CÓDIGO DE PROCESSO CIVIL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz afronta aos arts. 18, caput, do CPC; e 112 da Lei n. 8.213/91, no que concerne ao reconhecimento da legitimidade ativa do recorrente para pleitear judicialmente os reajustes de sua falecida genitora, sem a necessidade de inventário, porquanto o recorrente já é parte legítima (herdeiro habilitado) que recebe 100% do benefício, conforme portaria de concessão juntada aos autos, comprovando sua relação jurídica com a Administração Pública, trazendo a seguinte argumentação:
+No entanto, não custa reforçar que a ação foi proposta por um herdeiro habilitado à pensão por morte, tendo legitimidade para pleitear judicialmente os reajustes de que trata a presente demanda no que diz respeito a sua falecida genitora.
+O autor RODRIGO AMORIM SANTOS JACINTO é pensionista em virtude do óbito da sra. RAIMUNDA AMORIM SANTOS JACINTO, recebendo 100% do benefício, conforme portaria da concessão que foi juntada aos autos, o que comprova a sua relação jurídica com a Administração Pública.
+Esta circunstância comprova a sua legitimidade extraordinária (em respeito a parte final do disposto no art. 18, caput d CPC) tendo em vista que o ordenamento jurídico permite que o ora recorrente pleiteie o direito vindicado.  ..
+ ..
+Ora, o autor é pensionista recebendo a totalidade do benefício pela ex-servidora quando de seu óbito, ou seja, já é habilitado; desconsidera- se a existência ou não de inventário ou arrolamento para que haja o pagamento dos valores não recebidos em vida pela sua genitora; logo, cristalinamente há de se concluir que há legitimidade ativa do autor!
+Assim, o crédito que se está executando diz respeito ao período em que o recorrente já havia se tornado pensionista, ou seja, a execução não recai sobre o crédito anterior à pensão (fl. 142).
+Portanto, em razão de todo o exposto, pugna-se pela cassação da decisão que ora se combate, e pela sua reforma para que seja reconhecida a desnecessidade de inventário porque o agravado já é parte legítima para promover a execução nos moldes da legislação infraconstitucional supra (fl. 143).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. ;Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
