@@ -1,0 +1,92 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000420-82.2020.8.08.0045
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LUIZ CARLOS BASTIANELLO
+RECORRIDO: COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA COELBA
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado no autos nº 5000420-82.2020.8.08.0045
+Recorrente: LUIZ CARLOS BASTIANELLO
+Recorrida: COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER, C/C REPARAÇÃO CIVIL, E TUTELA DE URGÊNCIA. DIREITO DO CONSUMIDOR. (1). DA LIDE.
+ALEGA O AUTOR QUE: A) FOI REALIZADA UMA INSPEÇÃO EM SUA UNIDADE CONSUMIDORA EM 01/08/2017, QUANDO FOI VERIFICADA A EXISTÊNCIA DE VIOLAÇÃO AO EQUIPAMENTO, CALCULADOS VALORES NÃO FATURADOS DE ENERGIA ELÉTRICA, IMPORTANDO NA QUANTIA DE R$ 5.710,76; B) NÃO PRESENCIOU A OPERAÇÃO E DISCORDA DA ATUAÇÃO DA RÉ, POIS NÃO RECEBEU NOTIFICAÇÃO E TEVE SEU NOME INSCRITO NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO INDEVIDAMENTE; C) EM QUE PESE A INFORMAÇÃO DE QUE A INSPEÇÃO FOI REALIZADA NA PRESENÇA DE UM FUNCIONÁRIO DO AUTOR, SEQUER HOUVE ASSINATURA DO MESMO OU PROVA DO ACOMPANHAMENTO. REQUER, AO FINAL, A DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO, O CANCELAMENTO DA INSCRIÇÃO DE RESTRIÇÃO AO CRÉDITO E, REPARAÇÃO POR DANOS MORAIS.
+(2). ANTÍTESE.
+EM SUA DEFESA, ALEGA A RÉ: A) PRELIMINAR DE INCOMPETÊNCIA DO JUIZADO ESPECIAL PELA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL; B) PRELIMINAR DE AUSÊNCIA DE PAGAMENTO DAS CUSTAS PROCESSUAIS, POIS AUSENTE NESTES AUTOS O DEFERIMENTO DE ASSISTÊNCIA GRATUITA; C) A INSTALAÇÃO FOI INSPECIONADA EM 01/08/2017, SENDO VERIFICADA A EXISTÊNCIA DE IRREGULARIDADE, CARACTERIZADA POR UM MEDIDOR VIOLADO, QUE ALTEROU O FUNCIONAMENTO DOS EQUIPAMENTOS, FAZENDO-O DEIXAR DE REGISTRAR O CONSUMO REAL DA UNIDADE, CONFORME REGISTRADO NO TERMO DE OCORRÊNCIA DE IRREGULARIDADE (TOI); B) EFETUOU A TROCA DO EQUIPAMENTO, PARA NORMALIZAÇÃO DA MEDIÇÃO DO CONSUMO DA UNIDADE; C) A INSPEÇÃO FOI REALIZADA NA PRESENÇA DO RESPONSÁVEL, SR. DANIEL ALVES GUIMARÃES, QUE SE RECUSOU A ASSINAR A DOCUMENTAÇÃO; D) AS CONSTATAÇÕES DE IRREGULARIDADES FORAM REGISTRADAS E GEROU A COBRANÇA NO IMPORTE DE R$ 5.286,68, COM VENCIMENTO EM 16/01/2018, VINCULADA A CONTA/CONTRATO 7037060601. E) NÃO HÁ DANO A SER INDENIZADO.
+(3). SENTENÇA DE IMPROCEDÊNCIA. (4). RECURSO DA PARTE AUTORA.
+EM SÍNTESE, PUGNA PELA REFORMA DA R. SENTENÇA DE PRIMEIRO GRAU, JULGANDO-SE PROCEDENTE OS PEDIDOS INICIAIS.
+(5). CONTRARRAZÕES DA PARTE RÉ.
+RENOVA PRELIMINAR DE INCOMPETÊNCIA DO JEC. NO MÉRITO, POSTULA PELA MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO. CASO ENTENDA-SE PELA REFORMA DA SENTENÇA, QUE SE ANALISE A PREJUDICIAL DE MÉRITO ARGUIDA, BEM COMO AS DEMAIS PRELIMINARES DE MÉRITO, E, SE ULTRAPASSADAS, QUE SEJA JULGADA IMPROCEDENTE A AÇÃO NOS VENTILADOS NAS CONTRARRAZÕES, LEVANDO-SE EM CONSIDERAÇÃO AS ALEGAÇÕES SUBSIDIÁRIAS LEVANTADAS.
+(6). DA QUESTÃO PROCESSUAL.
+EM QUE PESE A ALEGAÇÃO DE INCOMPETÊNCIA DO JUIZADO ESPECIAL CÍVEL, REJEITO-A, POIS NÃO HÁ QUE SE FALAR EM NECESSIDADE DE PROVA PERICIAL, UMA VEZ QUE NOS AUTOS RESTOU PRESENTE TODA A DOCUMENTAÇÃO NECESSÁRIA PARA O DESLINDE DA PRESENTE DEMANDA, BEM COMO JULGAMENTO DO FEITO.
+REJEITADA A PRELIMINAR
+.
+(7). DO MÉRITO.
+TRATA-SE DE LIDE QUE ENVOLVE FORNECIMENTO DE ENERGIA ELÉTRICA, COM POSTERIOR DISCUSSÃO ACERCA DOS DÉBITOS COBRADOS A PARTIR DA SUPOSTA MEDIDA UNILATERAL ADOTADA PELA COMPANHIA RÉ EM QUE LAVROU-SE O TERMO DE IRREGULARIDADE DETECTADO NO MEDIDOR DE ENERGIA, O QUE GEROU O DÉBITO EM DISCUSSÃO NOS AUTOS, CONFORME DOCUMENTOS ACOSTADOS. POIS BEM. DA DETIDA ANÁLISE DO CADERNO PROCESSUAL, VERIFICO QUE CONSTA NOS PRESENTES AUTOS O
+TERMO DE OCORRÊNCIA E INSPEÇÃO - TOI N° 69605/2017
+(ID.: 8899993) COM A CONSIGNAÇÃO DE INFORMAÇÃO DE QUE O SR. DANIEL ALVES GUIMARÃES (TRATA-SE DE FUNCIONÁRIO O DO AUTOR) ACOMPANHOU A SUPRADITA INSPEÇÃO, AINDA QUE NÃO CONSTE A ASSINATURA DESTE. A PROPÓSITO, TAL FATO SE COADUNA À CONFISSÃO DO PRÓPRIO REQUERENTE DE QUE
+“
+Em que pese a informação de que a inspeção foi realizada na presença de um funcionário do requerente
+, sequer houve assinatura do mesmo ou prova do acompanhamento, até mesmo pois, os funcionários que realizaram a substituição o fizeram no mesmo dia da inspeção, mesmo sem qualquer ocorrência/informação de irregularidade anterior.”
+(GRIFOS NOSSOS), CONFORME INFERE-SE DA NARRATIVA DESCRITA NO EXÓRDIO EM ID.: 8899987 - Pág. 2. DESTARTE,
+RESTOU DEVIDAMENTE COMPROVADO QUE O CONSUMIDOR ESTAVA CIENTE DO TEOR DO TERMO DE OCORRÊNCIA E INSPEÇÃO N.° 69605/2017, PORQUANTO SEU FUNCIONÁRIO PARTICIPOU DA INSPEÇÃO REALIZADA EM 01/08/2017 E ACOMPANHOU O PREENCHIMENTO DO TOI.
+
+ASSIM DITO, COADUNO COM O ALEGADO PELA REQUERIDA, NOS SEGUINTES TERMOS:
+“Na ocasião o Sr Daniel recusou-se a assinar o termo, porém cabe destacar que o próprio Acionante confirma que a inspeção foi realizada na presença de um funcionário, mas enfatiza que não houve assinatura do mesmo ou prova do acompanhamento. Deste fato depreende-se as seguintes indagações: O fato de reconhecer, em sede de petição inicial, que um funcionário acompanhou a inspeção não seria prova tácita que validaria o termo? E ainda, se a inspeção não tivesse ocorrido seguindo os protocolos e orientações técnicas como seria possível obter informações sobre o nome do funcionário, quantidade de bombas existentes inclusive com descrição correta, tipo de plantio, e outros?”
+NO PRESENTE CASO, NÃO RESTOU CONFIGURADA A FALHA NA PRESTAÇÃO DE SERVIÇO, POSTO QUE NÃO RESTOU COMPROVADO QUALQUER VIOLAÇÃO AO CONTRADITÓRIO.
+SENDO ASSIM, RESTA CLARO QUE A VISTORIA DEU-SE BILATERALMENTE, FATO ESTE QUE SEGUE EM CONSONÂNCIA COM A EXEGESE DO ART. 129, DA RESOLUÇÃO 414/2010 DA ANEEL. NESSE VIÉS, OPORTUNO COLACIONAR TRECHO DA DECISÃO PROFERIDA PELO MAGISTRADO DE PISO, COLIGIDO EM ID.: 7469656 - Pág. 3:
+“[...] diante das circunstâncias presentes no caso, entendo ser devida a cobrança feita pela ré, eis que demonstrou que realizou todos os procedimentos necessários, conforme determinação contida na resolução normativa 414/2010 da ANEEL, comprovando que houve adulteração no medidor de energia elétrica do autor, que culminou na redução do valor devido.
+No ID 6029007, consta histórico das faturas mensais do período, constando fatura vencida em 10/08/2017, relativa a leitura realizada em 14/06/2017, no valor de R$ 13.759,17, com informação de se tratar de fatura decorrente de fraude, paga pelo consumidor. Esse fato demonstra ciência da irregularidade no medidor, como também a aquiescência de erro no faturamento, daí decorrente.
+”
+(GRIFOS NOSSOS). SUPRESSÃO DE EXIGÊNCIA REGULAMENTAR. DEMONSTRATIVO DE CÁLCULO DE CONSUMO IRREGULAR DEVIDAMENTE FORNECIDO AO CONSUMIDOR. COM ISSO, MOSTRA-SE REGULAR A AUTUAÇÃO E A APURAÇÃO DO VALOR A SER RECUPERADO, ANTE A DIFERENÇA DE CONSUMO NO PERÍODO APURADO. AINDA, POR CONSIDERAR REGULAR O TOI E A COBRANÇA, É IMPERIOSA A IMPROCEDÊNCIA COM RELAÇÃO AO PEDIDO DE DANOS MORAIS, POR AUSÊNCIA DE NEXO DE CAUSALIDADE.
+INSPEÇÃO REALIZADA DENTRO DOS PARÂMETROS LEGAIS.
+
+(8).
+RECURSO DA PARTE AUTORA CONHECIDO E IMPROVIDO
+. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95.
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LJE),
+CONDENO O RECORRENTE EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO EM 20% SOBRE O VALOR DA CAUSA.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
