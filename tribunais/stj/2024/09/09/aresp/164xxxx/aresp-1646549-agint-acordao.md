@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SEGURO  HABITACIONAL.  VÍCIOS  DE  CONSTRUÇÃO.  ART.  1.022  DO  CPC.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  PROVAS.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  MULTA.  RECURSO  PROCRASTINATÓRIO.  NÃO  INCIDÊNCIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+4.  A  multa  do  art.  1.026,  §  2º,  do  Código  de  Processo  Civil  deve  ser  afastada  na  hipótese,  pois  a  parte  recorrente  não  pretendeu  procrastinar  ou  distorcer  fatos,  objetivando  os  embargos  declaratórios  opostos  ao  acórdão  recorrido  prequestionar  teses  para  a  interposição  do  recurso  especial.  Incide  na  hipótese  a  Súmula  nº  98/STJ.
+5.  Agravo  interno  parcialmente  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ELIAS  MILANEZ  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  em  virtude  da  impossibilidade  de  análise  de  matéria  constitucional  nesta  Corte;  da  ausência  de  vício  na  prestação  jurisdicional;  da  orientação  jurisprudencial  do  Superior  Tribunal  de  Justiça  acerca  da  multa  em  embargos  declaratórios ,  e  da  incidência  da  Súmula  nº  7/STJ  tanto  no  conhecimento  do  recurso  pela  alínea  "a"  quanto  pela  alínea  "c"  (e-STJ  fls.  1.225/1.227).
+Nas  presentes  razões  (e-STJ  fls.  1.229/1.242),  o  agravante  alega  a  necessidade  de  suspensão  do  feito  em  razão  do  julgamento  do  Tema  nº  1.039/STJ.
+Reforça  que  o  tribunal  de  origem  não  emitiu  juízo  de  valor  em  relação  aos  arts.  2º,  3º,  4º,  I  ,  e  6º,  VIII,  da  Lei  nº  8.078/1990;  373,  §  1º,  do  Código  de  Processo  Civil  e  5º,  II,  XXXV  e  LIV,  da  Constituição  Federal,  violando  os  arts.  489  e  1.022  do  Código  de  Processo  Civil.
+Sustenta  que  a  Súmula  nº  98/STJ  deve  ser  aplicada  no  tocante  à  oposição  dos  embargos  declaratórios  na  origem  e  que  não  incide  a  Súmula  nº  7/STJ  ao  caso  em  apreço,  tendo  havido  a  demonstração  do  dissídio  jurisprudencial  nas  razões  do  recurso  especial.
+Foi  apresentada  impugnação  às  e-STJ  fls.  1.246/1.251.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  SEGURO  HABITACIONAL.  VÍCIOS  DE  CONSTRUÇÃO.  ART.  1.022  DO  CPC.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  AUSÊNCIA  DE  PROVAS.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  MULTA.  RECURSO  PROCRASTINATÓRIO.  NÃO  INCIDÊNCIA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  A  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+4.  A  multa  do  art.  1.026,  §  2º,  do  Código  de  Processo  Civil  deve  ser  afastada  na  hipótese,  pois  a  parte  recorrente  não  pretendeu  procrastinar  ou  distorcer  fatos,  objetivando  os  embargos  declaratórios  opostos  ao  acórdão  recorrido  prequestionar  teses  para  a  interposição  do  recurso  especial.  Incide  na  hipótese  a  Súmula  nº  98/STJ.
+5.  Agravo  interno  parcialmente  provido.
+VOTO
+A  irresignação  merece  prosperar  em  parte.
+Inicialmente,  registra-se  que,  em  razão  da  discussão  do  presente  recurso  se  ater  a  questões  processuais,  não  há  falar  em  suspensão  do  feito.
+Ademais,  quanto  aos  arts.  5º,  XXXV  e  LV,  e  93,  IX,  da  Constituição  Federal,  observa-se  que  compete  ao  Superior  Tribunal  de  Justiça,  em  recurso  especial,  a  análise  da  interpretação  da  legislação  federal,  motivo  pelo  qual  se  revela  inviável  invocar,  nesta  seara,  a  violação  de  dispositivos  constitucionais,  pois,  como  consabido,  a  matéria  é  afeta  à  competência  do  Supremo  Tribunal  Federal.
+No  tocante  às  omissões  apontadas  no  acórdão  estadual,  o  tribunal  de  origem,  ao  decidir  os  embargos  de  declaração,  concluiu  que:
+"(..)  verifica-se,  no  caso,  que  não  há  nenhum  fundamento  na  alegação  acerca  da  necessidade  de  rediscussão  no  tocante  à  eventual  comprovação  do  contrato,  visto  que  a  matéria  restou  generosamente  examinada  no  decisum  objurgado  (..)
+Desta  feita,  no  mais,  constato  que  o  autor  ora  embargante  pretende,  na  verdade,  através  dos  presentes  aclaratórios,  tão  só  provocar  o  reexame  e  prequestionar  a  matéria  exaustivamente  debatida  no  acórdão  profligado.
+Contudo,  como  sabido,  os  embargos  de  declaração  não  são  a  via  apropriada  para  o  reexame  de  matéria  de  mérito  já  decidida,  da  mesma  forma  que  não  se  prestam  para  a  manifestação  expressa  sobre  aplicação  ou  violação  de  dispositivos  legais  ou  constitucionais  com  a  finalidade  única  de  prequestionamento.
+Aliás,  o  entendimento  superlativo  do  Superior  Tribunal  de  Justiça  e  também  desta  Corte  é  que  são  incabíveis  embargos  declaratórios  com  o  único  propósito  de  rediscutir  matéria  já  assentada  no  acórdão  atacado,  com  finalidade  de  prequestioná-la.
+(..)
+No  caso,  não  estando  configurada  nenhuma  das  hipóteses  do  artigo1.022,  do  Código  de  Processo  Civil  de  20152,  incabíveis  os  presentes  embargos  de  declaração"  (e-STJ  fls.  922/924).
+Nesse  contexto,  no  que  diz  respeito  à  alegada  negativa  de  prestação  jurisdicional  -  violação  do  art.  1.022  do  CPC  -,  agiu  corretamente  o  tribunal  de  origem  ao  rejeitar  os  embargos  declaratórios  por  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  embargado,  ficando  patente,  em  verdade,  o  intuito  infringente  da  irresignação,  que  objetivava  a  reforma  do  julgado  por  via  inadequada.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  DEVOLUÇÃO  DE  PARCELAS  PREVIDENCIÁRIAS.  PREVIDÊNCIA  PRIVADA.  ENCERRAMENTO  DO  PLANO.  EMBARGOS  DE  DECLARAÇÃO.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  VIOLAÇÃO  DO  ART.  489  DO  CPC/2015.  INOCORRÊNCIA.  REEXAME  DE  FATOS.  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INADMISSIBILIDADE.  SÚMULAS  5  E  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.  SÚMULA  7/STJ.  DECISÃO  MANTIDA.
+1.  Ação  de  devolução  de  parcelas  previdenciárias.
+2.  Ausentes  os  vícios  do  art.  1.022  do  CPC/15,  rejeitam-se  os  embargos  de  declaração.
+3.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  inexiste  a  violação  do  art.  489  do  CPC/15.
+4.  O  reexame  de  fatos  e  a  interpretação  de  cláusulas  contratuais  em  recurso  especial  são  inadmissíveis.
+5.  O  dissídio  jurisprudencial  deve  ser  comprovado  mediante  o  cotejo  analítico  entre  acórdãos  que  versem  sobre  situações  fáticas  idênticas.
+6.  A  incidência  das  Súmulas  5  e  7/STJ  prejudicam  a  análise  do  dissídio  jurisprudencial  pretendido.  Precedentes  desta  Corte.
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.183.495/RJ,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  28/11/2022,  DJe  de  30/11/2022  -  grifou-se).
+Registra-se  que,  mesmo  à  luz  do  art.  489  do  CPC,  o  órgão  julgador  não  estaria  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  a  respeito  daqueles  capazes  de,  em  tese,  de  algum  modo,  infirmar  a  conclusão  adotada  pelo  órgão  julgador  (inciso  IV).  A  motivação  contrária  ao  interesse  da  parte,  ou  mesmo  omissa  em  relação  a  pontos  considerados  irrelevantes  pelo  julgador,  não  autoriza  o  acolhimento  dos  embargos  declaratórios.
+Em  relação  ao  mérito  recursal,  o  tribunal  estadual  assim  fundamentou  seu  julgado:
+"(..)
+De  fato,  o  apelante  não  logrou  êxito  em  comprovar  que  foi  mutuário  do  Sistema  Financeiro  de  Habitação  com  cobertura  securitária,  ônus  que  lhe  incumbia,  conforme  dispõe  o  artigo  373,  inciso  I  do  CPC.
+Nota-se  que  a  juntada  da  escritura  pública,  acompanhada  da  prova  pericial  dos  vícios  do  imóvel  não  são  suficientes  para  que  o  autor  seja  indenizado,  pois  o  ponto  central  da  demanda  reside  no  direito  do  autor  à  cobertura  securitária  de  imóvel  financiado  pelo  SFH.
+Ademais,  a  própria  Caixa  Econômica  Federal  deixou  de  manifestar  interesse  no  feito  em  razão  da  insuficiência  de  documentos  para  comprovar  se  a  existência  de  seguro  habitacional  vinculado  ao  imóvel.(..)Assim,  vê-se  que  se  a  pretensão  do  apelante  não  pode  ser  atendida,  pois  cabia  a  ele  fazer  prova  de  que  o  bem  imóvel  foi  financiado  com  recursos  oriundos  do  Sistema  Financeiro  de  Habitação  (SFH)  e  que  em  razão  disso  firmou  contrato  de  seguro  habitacional,  porém  a  escritura  pública  juntada  aos  autos  não  contém  essas  informações,  limitando-se  apenas  a  informar  a  compra  e  venda  realizada  com  o  Sr.
+Manoel  Messias  Ribeiro  dos  Santos.
+Assim,  diante  da  não  comprovação  do  fato  constitutivo  de  seu  direito,  nos  termos  do  art.  373,  I,  do  CPC,  tenho  que  a  sentença  recorrida  deve  ser  mantida"  ( e-STJ  fls.  875-876).
+Assim,  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  demandaria  o  reexame  dos  fatos  e  das  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+Anota-se,  ainda,  que  a  aplicação  da  Súmula  nº  7/STJ  em  relação  ao  recurso  especial  interposto  pela  alínea  "a"  do  permissivo  constitucional  prejudica  a  análise  da  mesma  matéria  indicada  no  dissídio  jurisprudencial.
+Por  fim,  com  razão  o  recorrente  quanto  à  multa  do  art.  1.026,  §  2º,  do  Código  de  Processo  Civil.
+De  fato,  tal penalidade  deve  ser  afastada  na  hipótese,  pois  a  parte  recorrente  não  pretendeu  procrastinar  ou  distorcer  fatos,  objetivando  os  embargos  declaratórios  opostos  ao  acórdão  recorrido  prequestionar  teses  para  a  interposição  do  recurso  especial,  motivo  pelo  qual  deve  ser  afastada  a  multa  processual  em  questão.
+Incide  na  hipótese  a  Súmula  nº  98/STJ,  segundo  a  qual  os  "(..)  embargos  de  declaração  manifestados  com  notório  propósito  de  prequestionamento  não  tem  caráter  protelatório".
+Ante  o  exposto,  dou  parcial  provimento  ao  agravo  interno  tão  somente  para  excluir  a  multa  aplicada  na  origem.
+É  o  voto.
