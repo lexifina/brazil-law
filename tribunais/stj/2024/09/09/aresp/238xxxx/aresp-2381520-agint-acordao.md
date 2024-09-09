@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. VIA INADEQUADA. AUSÊNCIA. CONVOLAÇÃO EM RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE.
+1. Mostra-se inadequada a revisão, na via do recurso nobre, de controvérsia decidida à luz de fundamento de natureza constitucional.
+2. Nos termos da jurisprudência desta Corte, o art. 1.032 do CPC/2015 prevê a aplicação do princípio da fungibilidade ao recurso especial que versar questão constitucional, hipótese em que há um equívoco quanto à escolha do recurso cabível, o que não é o caso dos autos. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DEPARTAMENTO DE EDIFICAÇÕES E ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS - DER-MG para desafiar decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, considerando que o Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional.
+Sustenta a parte agravante, às e-STJ fls. 510/515, que, ao contrário do consignado, o acórdão recorrido está fundamentado em legislação federal.
+Subsidiariamente, requer a aplicação do disposto no art. 1.032 do CPC/2015, mediante concessão de prazo para adequação do recurso.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Sem impugnação.
+O ministério Público Federal opinou pelo desprovimento do agravo interno (e-STJ fls. 537/540).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. VIA INADEQUADA. AUSÊNCIA. CONVOLAÇÃO EM RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE.
+1. Mostra-se inadequada a revisão, na via do recurso nobre, de controvérsia decidida à luz de fundamento de natureza constitucional.
+2. Nos termos da jurisprudência desta Corte, o art. 1.032 do CPC/2015 prevê a aplicação do princípio da fungibilidade ao recurso especial que versar questão constitucional, hipótese em que há um equívoco quanto à escolha do recurso cabível, o que não é o caso dos autos. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+No caso, conforme consignado na decisão agravada, o acórdão recorrido solveu a controvérsia a respeito da prescrição fulcrado em fundamento eminentemente constitucional, in verbis (e-STJ fls. 435/436):
+Cinge-se a controvérsia recursal em verificar o acertamento da decisão agravada que rejeitou a preliminar de prescrição arguida pelos réus.
+Pois bem. O dano ambiental é de natureza transindividual, na medida em que viola o direito fundamental da coletividade de viver em um meio ambiente ecologicamente estável, saudável e equilibrado.
+Dada a indisponibilidade deste direito coletivo, doutrina e jurisprudência são firmes no sentido de que as disposições legais atinentes à prescrição não lhe são aplicáveis.
+E nem poderia ser diferente. Não de pode admitir a prescrição da pretensão do direito de se reparar o dano ambiental, sob pena de comprometer todas as gerações futuras com a hipótese de não reparação em virtude do decurso do tempo. Ora, a proteção ao meio ambiente é obrigação que se renova a cada dia e enquanto não reparado o dano o ato ilícito se perpetua, não havendo que se falar sequer em termo inicial de prazo prescricional.
+Nesse sentido, o Supremo Tribunal Federal, quando do julgamento do RE 654833 (TEMA 999), em sede de repercussão geral, reafirmou sua jurisprudência acerca da imprescritibilidade da pretensão reparatória de dano ao meio ambiente: "(..)".
+Fixadas estas premissas e voltando-me ao caso dos autos, a ação civil pública ajuizada pelo Ministério Público foi manejada com vistas à reparação do dano ambiental causado pelos réus, pois, segundo se apurou no Inquérito Civil, em Dezembro de 2011 houve o desmoronamento de um talude situado nas proximidades do KM 24,5 da MG 010, bairro Angicos, em Vespasiano, que provocou o rompimento da tubulação de coleta de esgoto da Companhia de Saneamento de Minas Gerais - COPASA, implantada sob o aterro e assim, o esgoto passou a ser lançado diretamente no solo e, após ter sido desviado foi lançado no curso d"água que banha a área, sendo que os réus foram omissos na solução do problema, que perdurou por quase dois anos, com o lançamento in natura de esgoto no recurso hídrico.
+Assim, ao contrário do alegado pelo agravante, o presente caso se enquadra na tese firmada pelo Supremo Tribunal Federal, motivo pelo qual a decisão agravada deve ser mantida, tendo em vista que o Ministério Público postulou a reparação do dano ao meio ambiente causado pelos réus através da indenização, em consonância à Política Nacional do Meio Ambiente, nos termos da Lei nº 6.938/81.
+Ocorre que o recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Destaque-se que, apesar de o art. 1.032 do Código de Processo Civil de 2015 prever a aplicação do princípio da fungibilidade ao recurso especial que versar sobre questão constitucional, tal aplicação está condicionada à hipótese em que há um equívoco quanto à escolha do recurso cabível, o que não ocorre no caso dos autos, de modo que não há falar em aplicação do princípio antes referido.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO POPULAR. ALEGADA VIOLAÇÃO AOS ARTS. 1º E 21 DA LEI 4.717/65. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. ART. 1.032 DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO IMPROVIDO. I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Agravo de Instrumento interposto contra decisão que, em sede de ação popular, rejeitou arguição de prescrição ou de decadência, formulada pelo ora agravante. O Tribunal de origem negou provimento ao recurso, ressaltando que "a doutrina e a jurisprudência majoritárias entendem que, em tese, o dano ambiental não se sujeita a prescrição ou decadência. Isto por não se poder punir toda a sociedade, titular do direito material ao ambiente ecologicamente equilibrado (artigo 225 da CF), por uma suposta inércia temporal dos legitimados para defender, em juízo, tais interesses difusos".
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre os arts. 1º e 21 da Lei 4.717/65, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. No caso, embora a alegação do Recurso Especial seja de contrariedade a dispositivos infraconstitucionais, o Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional. Nesse contexto, inviável a análise da questão, em sede de Recurso Especial, sob pena de usurpação da competência do STF.
+V. Nos termos da jurisprudência desta Corte, "o art. 1.032 do Código de Processo Civil de 2015 prevê a aplicação do princípio da fungibilidade ao recurso especial que versar questão constitucional, hipótese em que há um equívoco quanto à escolha do recurso cabível" (STJ, AgRg no REsp 1.665.154/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe de 30/08/2017). No mesmo sentido: STJ, AgInt no AREsp 1.008.763/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 27/10/2017. Inocorrência, no caso - no qual o acórdão recorrido tem fundamento constitucional e o Recurso Especial versa sobre matéria infraconstitucional -, da hipótese prevista no art. 1.032 do CPC/2015.
+VI. Agravo interno improvido.
+(AgInt no AREsp n. 1.432.966/SP, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 15/8/2019, DJe de 23/8/2019) (Grifos acrescidos).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CERTAME SELETIVO PARA CATEGORIA DE PRATICANTE DE PRÁTICO/2012. DESCLASSIFICAÇÃO DO CANDIDATO POR NÃO ATENDIMENTO AO ITEM 13.7 DO EDITAL. NÃO APRESENTAÇÃO DA CARTEIRA DE HABILITAÇÃO EXPEDIDA NO PRAZO FIXADO NO CERTAME. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 211/STJ E 282/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 1.032 DO CPC/2015. CASO CONCRETO. INAPLICABILIDADE.
+ ..
+5. "O recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea a do inc. III do art. 105 da Constituição Federal" (AgInt nos EDcl no REsp 1.697.291/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 14/5/2019).
+6. O recurso especial não se presta ao exame de suposta ofensa a dispositivo constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição.
+7. "A regra do art. 1.032 do CPC/2015, pertinente ao princípio da fungibilidade, incide apenas quando erroneamente interposto o recurso especial contra questão de natureza exclusivamente constitucional, o que não é o caso dos autos" (AgInt no AREsp 1.605.118/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 25/9/2020).
+8. Agravo interno não provido.
+(AgInt no REsp 1.711.069/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 02/03/2021). (Grifos acrescidos).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
