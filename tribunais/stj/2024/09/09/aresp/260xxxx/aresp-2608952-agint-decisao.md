@@ -1,0 +1,64 @@
+DECISÃO
+Cuida-se de agravo interno interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA - PALHOCA II - SPE LTDA. e RNI NEGÓCIOS IMOBILIÁRIOS S.A. contra decisão que não conheceu do agravo em recurso especial pelo óbice da Súmula n. 182/STJ.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fls. 654-655):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA, MINHA VIDA. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO DA INCORPORADORA RÉ E RECURSO ADESIVO DA PARTE AUTORA.
+PLEITO DE MANUTENÇÃO DO CONTRATO E RCONHECIMENTO DA NÃO CARACTERIZAÇÃO DO INSTRUMENTO COMO DE ADESÃO. AUSÊNCIA DE INTERESSE RECURSAL DA RÉ.
+RECURSO NÃO CONHECIDO, NO PONTO.
+COMISSÃO DE CORRETAGEM. AUSÊNCIA DE CLÁUSULA CONTRATUAL EXPRESSA. COBRANÇA INDEVIDA. TEMA 960 DO STJ. RESTITUIÇÃO NA FORMA SIMPLES, ANTE A MODULAÇÃO DOS EFEITOS DA TESE FIRMADA PELA CORTE SUPERIOR (EARESP N.676.608/RS).
+DANOS MATERIAIS. ALUGUEIS. ATRASO DA ENTREGA DAS OBRAS DA UNIDADE HABITACIONAL. AUTORES QUE COMPROVARAM DESPESAS COM ALUGUEIS NESTE ÍNTERIM. ADEMAIS, PREJUÍZO MATERIAL PRESUMIDO. TEMA 996 DO STJ. VALOR PAGO A MAIOR PELOS AUTORES A TÍTULO DE EMOLUMENTOS. RESTITUIÇÃO, NA FORMA SIMPLES, DEVIDA. SENTENÇA REFORMADA, NO TEMA.
+DANOS MORAIS. LONGO PERÍODO DE ATRASO DAS OBRAS. IMÓVEL DESTINADO À MORADIA. PARTE AUTORA HIPOSSUFICIENTE. SITUAÇÃO QUE ULTRAPASSA O MERO ABORRECIMENTO. DANO MORAL CARACTERIZADO. VERBA INDENIZATÓRIA MAJORADA, EM CONFORMIDADE COM O PARÂMETRO ADOTADO POR ESTE ÓRGÃO JULGADOR EM CASOS ANÁLOGOS. HONORÁRIOS RECURSAIS DEVIDOS PELA PARTE RÉ FIXADOS. RECURSO DA PARTE AUTORA CONHECIDO E PARCIALMENTE PROVIDO. RECURSO DA PARTE RÉ PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados pelo Tribunal de origem (fl. 716).
+No recurso especial, a parte recorrente aduz, no mérito, que o acórdão recorrido violou os arts. 373, I, do CPC, alegando que a parte agravada não teria comprovado o efetivo pagamento de valores a título de aluguel, pois não teria juntado o contrato de locação, e que os recibos apresentados não seriam suficientes a comprovar os pagamentos.
+Suscita divergência jurisprudencial defendendo a tese de que o STJ já possui entendimento pacífico no sentido de que o mero inadimplemento contratual, por si só, não está apto a gerar dano moral e, ainda que assim fosse, os valores deveriam ser arbitrados em montante inferior, sendo necessária sua redução.
+Foram oferecidas contrarrazões ao recurso especial (fls. 790-799).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 802-805), o que ensejou a interposição de agravo em recurso especial.
+Foi apresentada contraminuta ao agravo (fls. 836-841).
+Em decisão monocrática da Presidência do STJ, o agravo em recurso especial não foi conhecido em razão do óbice da Súmula n. 182/STJ (fls. 927-928), o que ensejou o manejo do presente agravo interno (fls. 932-942).
+Foram oferecidas contrarrazões ao agravo interno (fls. 946-953).
+É, no essencial, o relatório.
+O agravo em recurso especial não foi conhecido por decisão da Presidência do STJ ante a incidência da Súmula n. 182/STJ.
+Entretanto, da análise das razões consignadas no agravo interno, verifico que o agravante reveste-se de razão ao aduzir ter impugnado especificamente todas as razões que, na origem, inadmitiram seu recurso especial, motivo pelo qual dou provimento ao agravo interno e reconsidero a decisão de fls. 927-928.
+Considerando preenchidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do apelo nobre.
+De início, não merece conhecimento o recurso especial quanto à suscitada violação do art. 373, I, do CPC, em especial quanto à tese de que o agravado não teria se desincumbido de seu ônus de comprovar o efetivo pagamento de valores a título de aluguel .
+Ocorre que o Tribunal de origem, com base no acervo fático-probatório, reconheceu que, em razão do atraso indevido na entrega do imóvel, surgiu a necessidade de os recorridos celebrar contrato de aluguel até o recebimento definitivo do imóvel adquirido, tendo sido comprovados os pagamentos.
+Por oportuno, cito trechos da decisão recorrida (fls. 658-659):
+ ..
+Segundo o contrato firmado entre as partes, estipulou-se a data de liberação do financiamento bancário como o prazo inicial de doze meses para a entrega da unidade habitacional(evento 1, DOC7), a saber:
+ ..
+Ainda, os contratantes pactuaram a tolerância de 120 (cento e vinte) dias úteis para a conclusão das obras, ressalvado, também, as hipóteses de força maior e caso fortuito (cláusula 6).
+Nesse diapasão, em 13/2/2012, a parte ré comunicou aos autores a formalização de financiamento junto à Caixa Econômica Federal - CEF na data de 20/10/2011, para fins de destinação dos recursos à edificação da unidade autônoma deles. Na carta, mencionou-se que "a conclusão das obras da etapa construtiva onde se localiza a casa pelo (a) senhor (a) adquirida tem previsão para o dia 20 de Outubro de 2012" (evento 1, DOC6).
+Todavia, o recebimento das chaves e a imissão da posse da parte autora no bem imóvel somente ocorreu em 17/1/2014 (evento 1, DOC19).
+Ao passo que os demandante necessitaram locar outro imóvel para residirem neste ínterim, consoante demonstra os recibos datados de 10/9/2011 a 10/1/2014 (evento 1, DOC18).
+Portanto, ressoa evidente que, superado o prazo contratual, as obras da unidade habitacional não haviam sido finalizadas, o que enseja a restituição dos valores pagos a título de aluguel aos demandantes, conforme reconhecido pelo juízo de origem.
+A despeito das despesas com aluguel estar devidamente comprovada, saliento que a Corte Superior firmou o entendimento (Tema 996), que o atraso na entrega do imóvel vinculado ao programa "minha casa, minha vida", acarreta na presunção de prejuízo ao comprador, razão de que faz jus à indenização por danos materiais na forma de alugueis. A propósito:
+ ..
+Ressalte-se que a desconstituição das premissas a que chegou o Tribunal de origem, em especial acerca do efetivo pagamento ou não de valores a título de aluguel, demandaria nova incursão no conjunto fático-probatório, o que é vedado pela Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGOS 489 E 1022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. OMISSÃO NÃO OCORRENTE. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. LEGALIDADE DA CLÁUSULA DE TOLERÂNCIA DE 180 DIAS. CASO FORTUITO. SÚMULA 7/STJ. ARTIGO 85, § 11º, DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS DE RECURSO. EFETIVO TRABALHO DO ADVOGADO DA PARTE RECORRIDA. DESNECESSIDADE. ARTIGO 1021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. CARÁTER PROTELATÓRIO NÃO EVIDENCIADO. INVIABILIDADE. NÃO PROVIDO.
+1. Não há falar-se em omissão ou falta de justificativa adequada nos casos em que o Tribunal de origem resolve a controvérsia na extensão da matéria devolvida.
+2. "No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp n. 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019). Incidência da Súmula 83/STJ.
+3.Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. A majoração de honorários recursais independe do efetivo trabalho adicional do advogado da parte recorrida, nada impedindo que o resultado do acréscimo alcance o teto legal previsto no § 2º do artigo 85 do Código de Processo Civil, em observância ao § 11 do mesmo dispositivo.
+5. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.101.073/TO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/4/2024, DJe de 13/5/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DE OBRA. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE REANÁLISE FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Em síntese, cuida-se de ação de indenização por danos morais e materiais, em decorrência de atraso de obra.
+2. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso do recurso à instância especial, porquanto não preenchido o requisito do prequestionamento.
+3. Insuscetível de revisão, nesta via recursal, o entendimento do Tribunal de origem, que, com base nos elementos de convicção do autos, entendeu pela ocorrência de dano moral e pela razoabilidade dos alugueis, porquanto demanda a reapreciação de matéria fática, o que é obstado pela Súmula n. 7/STJ.
+4. Avaliar em que monta os litigantes sagraram-se vencedores ou vencidos na demanda, com o propósito de reformular a distribuição dos ônus de sucumbência, é providência que não pode ser adotada no âmbito de recurso especial, por demandar o reexame de matéria fática. Incidência da Súmula n. 7/STJ.
+5. Fica prejudicado o exame da divergência jurisprudencial quando as teses já foram afastadas na análise do recurso especial pela alínea "a" em razão da incidência do óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.099.311/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.)
+Por fim, o apelo nobre também não merece ser conhecido quanto à alegação de não ocorrência de dano moral indenizável ou acerca do pedido de revisão do quantum indenizatório, ante a deficiência nas razões recursais, uma vez que o recorrente não se desincumbiu do ônus de demonstrar qual artigo de lei federal seria objeto de ofensa ou do dissídio interpretativo.
+A jurisprudência amplamente pacificada no âmbito desta Corte está consolidada no sentido de que, ante a deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+3. Com efeito, a via estreita do Recurso Especial exige demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF. Nesse sentido: AgInt no AREsp 1.650.251/RS, Rel. Ministro Mauro Campbell Marques, Segunda Tuma, DJe 9.9.2020.
+4. O Recurso Especial interposto pela alínea "c" do permissivo constitucional deve indicar o dispositivo de lei federal a que foi dada interpretação divergente pelos acórdãos recorrido e paradigma, sob pena de deficiência em sua fundamentação. Incide na espécie também a Súmula 284 do STF. (AgInt no AREsp n. 1.963.297/MS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2022.)
+2. A falta de particularização do dispositivo de lei federal que tenha sido violado consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF. (AgInt no AREsp n. 2.008.000/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 29/4/2022.)
+2. Não há como afastar a incidência analógica do óbice da Súmula 284/STF, uma vez que, nas razões do recurso especial, o recorrente não indicou de modo explícito e particularizado quais seriam os dispositivos de lei violados que amparariam as teses de responsabilidade solidária da 2ª ré e de ocorrência do dano moral. (AgInt no AREsp n. 1.956.043/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/3/2022.)
+Ante o exposto, reconsidero a decisão de fls. 927-928, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o proveito econômico obtido.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. ALUGUÉIS. COMPROVAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DANO MORAL E QUANTUM INDENIZATÓRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
