@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. REJEIÇÃO DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. RECURSO EM SENTIDO ESTRITO. RECEBIMENTO DA INICIAL ACUSATÓRIA. ANIMUS NECANDI. LASTRO PROBATÓRIO SUFICIENTE. ANÁLISE. REVOLVIMENTO DE CONJUNTO PROBATÓRIO DOS AUTO S. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica hipótese de cabimento do habeas corpus, inexistindo evidência de risco iminente ao direito de locomoção do paciente.
+2. A ausência de justa causa para a ação penal não se afigura manifesta na hipótese, não se justificando o seu reconhecimento da forma como procedeu a Juíza da 1ª Vara Privativa do Tribunal do Júri da Região Metropolitana de Curitiba-PR, que rejeitou a acusatória com fundamento no art. 395, inciso III, do Código de Processo Penal, sob a compreensão de que não restou configurado o dolo de matar (animus necandi).
+2. Não à toa, o Tribunal de origem entendeu por dar provimento ao recurso em sentido estrito interposto pelo Ministério Público para determinar o regular processamento do feito, sob o entendimento de que "a confissão do acusado e a arma supostamente por ele utilizada (foice) fornecem lastro probatório mínimo a sustentar a acusação atribuída na denúncia, a impedir sua prematura rejeição".
+3. É descabido julgar o caso nesta etapa embrionária do feito, sendo certo que esclarecimentos acerca da dinâmica dos fatos devem ser buscados na apropriada etapa processual da instrução criminal.
+4. Inviabilidade de se afastar, no âmbito do STJ, a conclusão da Corte estadual que entendeu pela existência de dolo na conduta narrada na peça acusatória, por demandar aprofundado revolvimento do conjunto probatório dos autos.
+5. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CLAUDINEI ALVES DA SILVA, representado pela DEFENSORIA PÚBLICA DO PARANÁ contra decisão que não conheceu do habeas corpus.
+Em seu arrazoado, a parte agravante insiste em afirmar que não há provas que indiquem a existência de animus necandi. Entende como imperioso o restabelecimento da decisão que rejeitou a denúncia.
+Pugna pela reconsideração da decisão agravada monocraticamente ou mediante deliberação colegiada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. REJEIÇÃO DA DENÚNCIA. AUSÊNCIA DE JUSTA CAUSA. RECURSO EM SENTIDO ESTRITO. RECEBIMENTO DA INICIAL ACUSATÓRIA. ANIMUS NECANDI. LASTRO PROBATÓRIO SUFICIENTE. ANÁLISE. REVOLVIMENTO DE CONJUNTO PROBATÓRIO DOS AUTO S. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica hipótese de cabimento do habeas corpus, inexistindo evidência de risco iminente ao direito de locomoção do paciente.
+2. A ausência de justa causa para a ação penal não se afigura manifesta na hipótese, não se justificando o seu reconhecimento da forma como procedeu a Juíza da 1ª Vara Privativa do Tribunal do Júri da Região Metropolitana de Curitiba-PR, que rejeitou a acusatória com fundamento no art. 395, inciso III, do Código de Processo Penal, sob a compreensão de que não restou configurado o dolo de matar (animus necandi).
+2. Não à toa, o Tribunal de origem entendeu por dar provimento ao recurso em sentido estrito interposto pelo Ministério Público para determinar o regular processamento do feito, sob o entendimento de que "a confissão do acusado e a arma supostamente por ele utilizada (foice) fornecem lastro probatório mínimo a sustentar a acusação atribuída na denúncia, a impedir sua prematura rejeição".
+3. É descabido julgar o caso nesta etapa embrionária do feito, sendo certo que esclarecimentos acerca da dinâmica dos fatos devem ser buscados na apropriada etapa processual da instrução criminal.
+4. Inviabilidade de se afastar, no âmbito do STJ, a conclusão da Corte estadual que entendeu pela existência de dolo na conduta narrada na peça acusatória, por demandar aprofundado revolvimento do conjunto probatório dos autos.
+5. Agravo regimental desprovido.
+VOTO
+O agravo não comporta provimento.
+De antemão, conforme registrado na decisão agravada, não se verificou hipótese de cabimento do habeas corpus, inexistindo evidência de risco iminente ao direito de locomoção do paciente.
+Não fosse isto o bastante, a ausência de justa causa para a ação penal não se afigura manifesta na hipótese, não se justificando o seu reconhecimento da forma como procedeu a Juíza da 1ª Vara Privativa do Tribunal do Júri da Região Metropolitana de Curitiba-PR, que rejeitou a acusatória com fundamento no art. 395, inciso III, do Código de Processo Penal, sob a compreensão de que não restou configurado o dolo de matar (animus necandi).
+Não à toa o Tribunal de origem entendeu por dar provimento ao recurso em sentido estrito interposto pelo Ministério Público para determinar o regular processamento do feito, sob o entendimento de que "a confissão do acusado e a arma supostamente por ele utilizada (foice) fornecem lastro probatório mínimo a sustentar a acusação atribuída na denúncia, a impedir sua prematura rejeição" (e-STJ, fl. 17).
+Conforme registrado pelo Ministério Público estadual, "a vítima declarou que o réu somente se evadiu após ela tê-lo desarmado", revelando-se "precipitada a ilação da eminente Juíza a quo de que a fuga indicou ausência de intenção de matar, especialmente porquanto ele a golpeou na vital região da cabeça com uma foice, produzindo ferimento corto-contuso que ocasionou sangramento em grande quantidade e demandou internação hospitalar" (e-STJ, fl. 43).
+Dentro desse cenário, adiro à manifestação ministerial de que é descabido "julgar o caso nesta etapa embrionária do feito", sendo "certo que esclarecimentos acerca da dinâmica dos fatos devem ser buscados na apropriada etapa processual da instrução criminal" (e-STJ, fl. 43).
+Por fim, cabe registrar a inviabilidade de se afastar, no âmbito do STJ, a conclusão da Corte estadual que entendeu pela existência de dolo na conduta narrada na peça acusatória, por demandar aprofundado revolvimento do conjunto probatório dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. EXTORSÃO NO CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. JULGAMENTO MONOCRÁTICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. RECEBIMENTO DA DENÚNCIA. DECISÃO GENÉRICA. AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. INOCORRÊNCIA. PRESENÇA DE RESPALDO FÁTICO E LEGAL. REJEIÇÃO DA AÇÃO PENAL. SÚMULA N. 7/STJ. AGRAVO DESPROVIDO.
+1. A prolação de decisão monocrática conhecendo do agravo e dando provimento ao recurso especial é permitida no art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade.
+2. Para o recebimento da denúncia, diferentemente da condenação, se exige lastro probatório mínimo para a persecução criminal, sendo certo que a maior ou menor credibilidade dos elementos indiciários apresentados deve ser discutida no âmbito da ação penal e, finalmente, na sentença de mérito.
+3. O Tribunal de origem, após detida análise dos elementos colhidos no curso da investigação criminal, entendeu que o acervo probatório coligido aos fólios processuais é apto para fundamentar o recebimento da denúncia, nos termos da exordial acusatória. Assim, a Corte local, soberana quanto ao cotejo das provas e dos fatos que instruem o processo, concluiu pela viabilidade da marcha processual, com base em elementos concretos constantes nos autos.
+4. Rever este entendimento para se concluir pela rejeição da denúncia, a fim de prevalecer a tese de ausência de justa causa para a propositura da ação penal, pois não haveria, nos autos, indicação mínima do local do crime de extorsão, nem descrição do modus operandi, muito menos identificação das vítimas, implicaria, necessariamente, amplo reexame do acervo fático-probatório e nova incursão sobre os indícios acostados à peça acusatória nessa fase inicial, providência inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.101.182/RJ, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024; grifou-se.)
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
