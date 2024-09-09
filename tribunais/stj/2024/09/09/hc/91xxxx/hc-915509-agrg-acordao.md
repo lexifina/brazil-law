@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ARTIGO 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS (COCAÍNA E MACONHA), ALÉM DE BALANÇA DE PRECISÃO ALIADAS ÀS CIRCUNSTÂNCIAS FÁTICAS DO CRIME. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE DEMONSTRADA. R EVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO WRIT. AGRAVO REGIMENAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - In casu, o Tribunal a quo - dentro do seu livre convencimento motivado- apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente.
+III - O Tribunal de origem destacou que " ..  as circunstâncias da prisão do réu, com a apreensão de drogas em grande quantidade e ainda balança de precisão e ainda considerando a passagem criminal do réu pela prática de roubo, evidenciando sua dedicação à atividades criminosas." (e-STJ fl. 413, grifei).
+IV - Para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de RENAN DE FREITAS SILVA DOMINGOS, contra decisão monocrática por mim proferida (fls. 419-423), que denegou a ordem de habeas corpus.
+Nas razões recursais, o agravante renova os pedidos contidos na inicial e pugna pela reconsideração da decisão ou para que o Colegiado da Quinta Turma conceda habeas corpus ao paciente a fim de que seja aplicado o redutor do parágrafo 4º, do artigo 33 da Lei de Drogas.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DO § 4º DO ARTIGO 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS (COCAÍNA E MACONHA), ALÉM DE BALANÇA DE PRECISÃO ALIADAS ÀS CIRCUNSTÂNCIAS FÁTICAS DO CRIME. DEDICAÇÃO À ATIVIDADE CRIMINOSA DEVIDAMENTE DEMONSTRADA. R EVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO WRIT. AGRAVO REGIMENAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - In casu, o Tribunal a quo - dentro do seu livre convencimento motivado- apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente.
+III - O Tribunal de origem destacou que " ..  as circunstâncias da prisão do réu, com a apreensão de drogas em grande quantidade e ainda balança de precisão e ainda considerando a passagem criminal do réu pela prática de roubo, evidenciando sua dedicação à atividades criminosas." (e-STJ fl. 413, grifei).
+IV - Para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Em relação aos pedidos, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática proferida às fls. 419-423.
+Conforme abordado na decisão agravada, o Tribunal a quo - dentro do seu livre convencimento motivado- apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor da paciente.
+O Tribunal destacou, ainda, que " ..  as circunstâncias da prisão do réu, com a apreensão de drogas em grande quantidade e ainda balança de precisão e ainda considerando a passagem criminal do réu pela prática de roubo, evidenciando sua dedicação à atividades criminosas" (e-STJ fl. 413, grifei).
+Ademais, para entender de modo diverso, afastando-se a conclusão de que a paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência desta Corte Superior.
+Ante o exposto, nego provimento ao agravo regimental
+É como voto.
