@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Não foi possível substituir a variável
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão em que concedi a ordem de habeas corpus, a fim de reconhecer a atipicidade material da conduta e absolver a ré do crime a que se referem os presentes autos.
+Depreende-se dos autos que a ora agravada foi condenada à pena de 4 meses de reclusão, em regime inicial aberto, substituída por restritiva de direitos, pela prática do delito previsto no art. 171, caput, do Código Penal.
+A defesa apresentou recurso de apelação perante a Corte de origem, a qual lhe negou provimento.
+Nesta Corte Superior, foi concedida a ordem de habeas corpus para reconhecer o princípio da insignificância, tendo em vista a atipicidade material da conduta.
+No presente regimental, alega o Ministério Público Federal que "não se justifica a aplicação do princípio da insignificância diante dos vários instrumentos legais com função de despenalização, vale dizer, destinados a evitar a imposição das sanções criminais, considerando o menor potencial ofensivo de determinadas condutas típicas, revelado no quantitativo das penas restritivas de liberdade abstratamente cominadas" (e-STJ fl. 274).
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado .
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada.
+2. Na hipótese, e excepcionalmente, são inequívocos a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade, a mínima ofensividade da conduta e, ainda, a inexpressiva lesão jurídica ocasionada, tendo em vista que se trata de obtenção, por meio de vantagem indevida, da quantia de R$ 80,00 (oitenta reais), que não ultrapassa 10% do salário mínimo vigente à época dos fatos (2021), não podendo ser desprezado, ainda, o fato de o delito ter sido praticado sem violência ou grave ameaça.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+A tese apresentada ao Superior Tribunal de Justiça associa-se estreitamente ao princípio da intervenção mínima, segundo o qual o Direito Penal somente deve ser aplicado quando estritamente necessário no combate a comportamentos indesejados, mantendo-se subsidiário e fragmentário.
+Nesse contexto, trouxe-nos a doutrina o princípio da insignificância, propondo que se excluam do âmbito de incidência do Direito Penal situações em que a ofensa concretamente perpetrada seja de pouca importância, noutras palavras, seja incapaz de atingir materialmente e de modo intolerável o bem jurídico protegido.
+A propósito do tema, Carlos Vico Ma as anuncia que "o princípio da insignificância surge como instrumento de interpretação restritiva do tipo penal que, de acordo com a dogmática moderna, não deve ser considerado apenas em seu aspecto formal, de subsunção do fato à norma, mas, primordialmente, em seu conteúdo material, de cunho valorativo, no sentido da sua efetiva lesividade ao bem jurídico tutelado pela norma penal, o que consagra o postulado da fragmentariedade do direito penal". Esclarece, outrossim, que o princípio em análise baseia-se "na concepção material do tipo penal, por meio da qual é possível alcançar, pela via judicial e sem macular a segurança jurídica do pensamento sistemático, a proposição político-criminal da necessidade de descriminalização de condutas que, embora formalmente típicas, não atingem de forma socialmente relevante os bens jurídicos protegidos pelo Direito Penal" (O Princípio da Insignificância como Excludente da Tipicidade no Direito Penal. 1. ed. São Paulo: Saraiva, pp. 56/81).
+Entretanto, a aplicação do mencionado postulado não é irrestrita, sendo imperiosa, na análise do relevo material da conduta, a presença de certos vetores, tais como: (a) a mínima ofensividade da conduta do agente, (b) a ausência de periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada.
+A Corte distrital entendeu que (e-STJ fl. 246):
+In casu, em que pese o valor ínfimo resultante do estelionato, restou demonstrado que a ré, ao realizar um cadastro falso no aplicativo em nome de uma pessoa que sequer soube informar quem era, com o nítido propósito de consumir as refeições sem efetuar o devido pagamento, abusou, nitidamente, da boa-fé, não apenas do próprio aplicativo  usualmente utilizado por diversas pessoas no ramo alimentício, quanto do próprio estabelecimento e do entregador. Ora, o seu comportamento - de cancelar ardilosamente o pedido para receber de volta o valor pago - altamente reprovável, se mostra plenamente capaz de gerar um sentimento de insegurança para os estabelecimentos que, mesmo fornecendo os produtos conforme solicitado, deixam de receber a contraprestação pecuniária, e também para os entregadores, que, na maioria das vezes, fazem deste ofício o seu meio de vida.
+Acresce-se, ainda, que, antes de ser prolatada a sentença condenatória, o Ministério Público ofereceu acordo de não persecução penal (ID 56195618) e aceitou a proposta oferecida pela ré em pagar a quantia em doze parcelas (ID 56195626), não tendo a ré, contudo, comparecido à audiência para homologar a transação. Além disso, oferecida a denúncia, o Ministério Público requereu a designação de audiência para proposta de suspensão condicional do processo (ID 56195634). Entretanto, mais uma vez, intimada, a ré não compareceu à solenidade, o que, demonstra, ainda que tacitamente, seu desinteresse na aplicação de medidas despenalizadoras.
+Outrossim, como bem destacado pelo Parquet, "o i. Magistrado a quo, muito embora reconhecendo o descabimento da bagatela ao caso presente, fez incidir corretamente o privilégio disposto no §1º do artigo 171 do Código Penal, vez que se trata de agente tecnicamente primária e o prejuízo ter sido inferior a um salário mínimo" (ID 56666972).
+As circunstâncias casuísticas, portanto, não demonstram o reduzido grau de reprovabilidade do comportamento da ré, requisito exigido pela excelsa Suprema Corte para aplicação do princípio da insignificância, restando escorreita a r. sentença neste ponto.
+No caso específico dos autos, parecem-me inequívocos a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade, a mínima ofensividade da conduta e, ainda, a inexpressiva lesão jurídica ocasionada, tendo em vista que se trata de obtenção, por meio de vantagem indevida, da quantia de R$ 80,00 (oitenta reais), que não ultrapassa 10% do salário mínimo vigente à época dos fatos -R$ 1.100,00 (mil e cem reais), em outubro de 2021 -, não podendo ser desprezado, ainda, o fato de o delito ter sido praticado sem violência ou grave ameaça.
+Logo, tem-se, no meu entender, induvidoso irrelevante penal.
+Confiram-se, ainda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO TENTADO. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO E DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS DESCONSIDERADOS. ESTELIONATO CONSUMADO. PRINCÍPIO DA INSIGNIFICÂNCIA. PREJUÍZO AVALIADO EM 12% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA. INEXPRESSIVIDADE DA LESÃO JURÍDICA RECONHECIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Configurada se encontra a prescrição da pretensão punitiva do crime de estelionato tentado, não incidindo no caso a fração de aumento decorrente da continuidade delitiva.
+2. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores:
+a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+3. A prática de estelionato, com dano no valor de R$ 62,00, representando aproximadamente 12% do valor do salário mínimo, deve ser tida como de inexpressiva lesão ao bem jurídico tutelado.
+4. Agravo regimental improvido.
+(AgRg no HC 448.687/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/4/2019, DJe 10/4/2019.)
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTELIONATO. FRAUDE POR NOTA FALSA DE R$ 50,00 REAIS. VALOR QUE EQUIVALE A APROXIMADAMENTE 8% DO SALÁRIO MÍNIMO. REITERAÇÃO DELITIVA DO RÉU. IRRELEVÂNCIA. INEXPRESSIVA LESÃO JURÍDICA. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA. HABEAS CORPUS CONCEDIDO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+2. Não obstante a reiteração delitiva do réu, a prática de estelionato com dano no valor de R$ 50,00, representando aproximadamente 8% do valor do salário mínimo, deve ser tida como de inexpressiva lesão ao bem jurídico tutelado.
+3. Habeas corpus concedido para absolver o paciente do delito de estelionato, referente à Ação Penal n. 079.12.034.550-3 (fl. 282), diante da atipicidade material da conduta.
+(HC 423.624/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/9/2018, DJe 2/10/2018.)
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
