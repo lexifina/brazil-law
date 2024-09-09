@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. ALEGAGA ILICITUDE DO CONJUNTO PROBATÓRIO. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. PREMATURIDADE. RECURSO NÃO PROVIDO.
+1. O trancamento da ação penal com base no reconhecimento da nulidade pela busca pessoal e domiciliar por esta Corte subtrai da ação penal, em última análise, a materialidade do crime, por reconhecer que as provas foram colhidas em desrespeito à Constituição. Portanto, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias.
+2. Cabe registrar, ainda, o risco do trancamento em fase prematura da ação penal produzir cerceamento de acusação, pois pode o Ministério Público, no âmbito da instrução processual, querer evidenciar que a prova foi colhida de forma legal e em cumprimento ao mandamento constitucional da inviolabilidade de domicílio, à luz do que exige a jurisprudência deste Tribunal, providência que restaria obstada se adotado indiscriminadamente esse proceder.
+3. Portanto, inviável, na hipótese, o exame da alegada nulidade pela busca pessoal com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+4 . Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ARMANDO JOSE GUIMARAES LOPES de decisão na qual neguei provimento ao recurso em habeas corpus (e-STJ, fls. 128-131).
+Alega o agravante, em suma, que, "no caso em testilha, está demonstrada a atipicidade do fato e ilegalidade da prova, sendo a droga encontrada abandonada em via pública (RUA) sem qualquer pessoa por perto, tendo os policiais acionado o alarme do carro do agravante e imputado a autoria delitiva por ter comparecido ao local para verificar por qual motivo o alarme do seu carro estava acionado." (e-STJ, fl. 140)
+Sustenta que "a droga não foi encontrada com o recorrente nem se tem qualquer informação confiável demonstrando que o agravante teria praticado ato de traficância. Não se pode esquecer que o entorpecente estava abandonado em via pública e foi localizado após suposta denúncia anônima." (e-STJ, fl. 141)
+Requer a reconsideração do decisum ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. ALEGAGA ILICITUDE DO CONJUNTO PROBATÓRIO. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. PREMATURIDADE. RECURSO NÃO PROVIDO.
+1. O trancamento da ação penal com base no reconhecimento da nulidade pela busca pessoal e domiciliar por esta Corte subtrai da ação penal, em última análise, a materialidade do crime, por reconhecer que as provas foram colhidas em desrespeito à Constituição. Portanto, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias.
+2. Cabe registrar, ainda, o risco do trancamento em fase prematura da ação penal produzir cerceamento de acusação, pois pode o Ministério Público, no âmbito da instrução processual, querer evidenciar que a prova foi colhida de forma legal e em cumprimento ao mandamento constitucional da inviolabilidade de domicílio, à luz do que exige a jurisprudência deste Tribunal, providência que restaria obstada se adotado indiscriminadamente esse proceder.
+3. Portanto, inviável, na hipótese, o exame da alegada nulidade pela busca pessoal com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste.
+4 . Agravo regimental não provido.
+VOTO
+A  decisão  agravada  merece  ser  mantida  por  seus  próprios  e  jurídicos  fundamentos,  a  seguir  integralmente  reproduzidos:
+" ..
+Inicialmente, consigna-se ser firme o entendimento desta Corte Superior de que o trancamento de ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. Cito precedentes:
+ ..
+Nesse contexto, é de se constatar que o trancamento da ação penal com base no reconhecimento da nulidade pela busca pessoal por esta Corte subtrai da ação penal, em última análise, a materialidade do crime, por reconhecer que as provas foram colhidas em desrespeito à Constituição.
+Nesse particular, deve-se reservar tal providência apenas aos casos de inequívoca e irrefutável demonstração, sob pena de usurpação da competência própria das instâncias ordinárias, soberanas que são na análise da prova processual, cujo teor, inclusive, não se revisa pelo Superior Tribunal de Justiça ou pelo Supremo Tribunal Federal.
+Registro, ainda, por dever de cautela, o risco de o trancamento em fase prematura da ação penal produzir cerceamento de acusação, pois pode o Ministério Público, no âmbito da instrução processual, querer evidenciar que a prova foi colhida de forma legal, à luz do que exige a jurisprudência desse Tribunal, providência que restaria obstada se adotado indiscriminadamente esse proceder.
+Concluo, pois, pela impossibilidade de exame, no caso, da alegada nulidade pela busca pessoal com vistas ao trancamento da ação penal, pois controversa a alegação ora formulada, sendo estritamente necessário que as instâncias ordinárias, à luz do contraditório, delineiem o quadro fático sobre o qual se aponta a nulidade, tanto em sentença quanto em acórdão de apelação, a fim de que esta Corte, no momento oportuno, sobre ele se manifeste." (e-STJ, fls. 128-131)
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
