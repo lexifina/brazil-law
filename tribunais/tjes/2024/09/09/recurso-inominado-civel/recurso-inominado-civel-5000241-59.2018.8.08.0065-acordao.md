@@ -1,0 +1,86 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000241-59.2018.8.08.0065
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO DO BRASIL SA
+RECORRIDO: ITALO SARTORIO ALTOE
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos nº 5000241-59.2018.8.08.0065
+
+Recorrente: BANCO DO BRASIL S/A
+
+Recorrido: ITALO SARTÓRIO ALTOÉ
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTO
+
+RELATOR: DR. FELIPE LEITÃO GOMES
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. DIREITO DO CONSUMIDOR. (1). DA LIDE.
+TRATAM-SE OS AUTOS DE AÇÃO DE REPETIÇÃO DE INDÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS, AJUIZADA POR ÍTALO SARTÓRIO ALTOÉ EM DESFAVOR DE BANCO DO BRASIL S/A, AFIRMANDO A PARTE AUTORA, EM APERTADA SÍNTESE: QUE NO ANO DE 1992 ADQUIRIU UM PLANO DE PREVIDÊNCIA PRIVADA COM A PARTE REQUERIDA; QUE TEMPOS DEPOIS SOLICITOU O CANCELAMENTO DO PLANO, FICANDO SUA CONTA SEM SALDO POR MAIS DE 10 (DEZ) ANOS; QUE VOLTOU A MOVIMENTAR A CONTA NO ANO DE 2017; QUE O BANCO REQUERIDO DEBITOU EM SUA CONTA O VALOR DE R$ 4.823,42; QUE, APÓS REGISTRAR UMA RECLAMAÇÃO, TEVE RESTITUÍDO SOMENTE O MONTANTE DE R$ 2.578,80. EM RAZÃO DOS FATOS NARRADOS, PLEITEOU A RESTITUIÇÃO DO VALOR DE R$ 2.244,62 INDEVIDAMENTE DESCONTADO, ALÉM DE REPARAÇÃO POR DANO MORAL.
+(2). ANTÍTESE.
+O RÉU, EM SUA CONTESTAÇÃO, SUSCITOU PRELIMINAR DE INÉPCIA DA INICIAL E, NO MÉRITO, PUGNOU PELA IMPROCEDÊNCIA DOS PEDIDOS.
+(3). DISPOSITIVO DA SENTENÇA.
+“Face ao exposto,
+JULGO PROCEDENTE o pedido inicial e
+: 1) condeno a empresa ré a restituir à autora o valor de R$ 2.244,62 (dois mil, duzentos e quarenta e quatro reais e sessenta e dois centavos), com incidência de juros, a partir da citação, e correção monetária, a partir da data do desconto indevido. 2) condeno a parte ré a pagar à parte autora o valor de R$ 5.000,00 (cinco mil reais), pelos danos morais sofridos, corrigido na forma prevista na Súmula 362 do Egrégio S.T.J. (“a correção monetária do valor da indenização do dano moral incide desde a datado arbitramento”), pela tabela prática do E. Tribunal de Justiça, acrescido ainda de juros moratórios nos termos do art. 406 do Código de Processo Civil, a partir do evento danoso, nos termos da Súmula 54 do C. STJ. Por consequência, julgo extinto o feito, com resolução do mérito, na forma do artigo 487, inciso I, do Código de Processo Civil. Deixo de condenar ao pagamento de custas processuais e honorários advocatícios, nos termos do artigo 55 da Lei 9.099/95”.
+(4). RECURSO DA PARTE RÉ.
+SUSTENTA CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO INTERPOSTO. NO MÉRITO, PUGNA, EM SÍNTESE, PELA REFORMA DO ATO SENTENCIAL OBJURGADO.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+ROGA PELA MANUTENÇÃO DA R. SENTENÇA.
+(6). DA QUESTÃO PROCESSUAL.
+AUSÊNCIA DE DANO IRREPARÁVEL QUE JUSTIFIQUE A CONCESSÃO DO EFEITO SUSPENSIVO PLEITEADO. GRAVE RISCO AO RECORRENTE NÃO DEMONSTRADO. EFEITOS DA SENTENÇA DE PISO QUE NÃO TÊM O CONDÃO DE TRAZER GRAVES PREJUÍZOS AO PATRIMÔNIO DO RÉU.
+EFEITO SUSPENSIVO PLEITEADO NÃO ATRIBUÍDO
+. RECEBO O RECURSO SOMENTE EM SEU EFEITO DEVOLUTIVO, CONSOANTE O DISPOSTO NO ART. 43 DA LEI 9099/95.
+(7). DO MÉRITO.
+O CERNE DA PRESENTE LIDE, CINGE-SE EM APURAR SE A CONDUTA DO RECORRIDO EM REALIZAR DESCONTOS NA CONTA BANCÁRIA DO RECORRIDO, A TÍTULO DE SERVIÇO PREVIDÊNCIA PRIVADA, SERVIÇO ESTE CANCELADO, ENSEJA A INDENIZAÇÃO A TÍTULO DE DANOS MORAIS E MATERIAIS. A SENTENÇA JULGOU PROCEDENTES OS PEDIDOS DA EXORDIAL, RECONHECENDO COMO INDEVIDA A COBRANÇA REALIZADA PELA INSTITUIÇÃO FINANCEIRA, DETERMINANDO A RESTITUIÇÃO DOS VALORES PAGOS PELO CONSUMIDOR E O PAGAMENTO À INDENIZAÇÃO POR DANOS MORAIS. POIS BEM. EM DETIDA ANÁLISE DOS AUTOS VERIFICO QUE RAZÃO NÃO ASSISTE AO RECORRENTE, POIS, AO MEU ALVITRE,
+OCORRERAM COBRANÇAS INDEVIDAS POR SUPOSTO DÉBITO INADIMPLIDO, DECORRENTE DE CONTRATO CANCELADO, E FULMINADO PELA PRESCRIÇÃO.
+
+NO QUE TRATA À AUSÊNCIA DE RESPONSABILIDADE DOS DANOS SOFRIDOS ALEGADA PELO RECORRENTE, ENTENDO QUE RESTOU COMPROVADO NOS AUTOS O DEVIDO PREJUÍZO CAUSADO PELO MESMO, MEDIANTE DOCUMENTOS COMPROBATÓRIOS SUFICIENTES QUE FORAM ACOSTADOS AOS AUTOS. DE FATO, A MERA REALIZAÇÃO DE COBRANÇA INDEVIDA, POR SI SÓ, CONSOANTE ENTENDIMENTO ESPOSADO PELO C. SUPERIOR TRIBUNAL DE JUSTIÇA, NÃO ENSEJA A REPARAÇÃO POR DANO MORAL. CONTUDO, DIANTE DA INDEVIDA COBRANÇA E DOS DÉBITOS EFETIVADOS NA CONTA DA AUTORA, PRECEDIDOS DA INÉRCIA DO REQUERIDO QUANTO À RESOLUÇÃO NA ESFERA ADMINISTRATIVA, EXIGINDO ATÉ MESMO A JUDICIALIZAÇÃO, ENTENDO QUE O PRESENTE CASO ULTRAPASSOU O MERO ABORRECIMENTO E QUE, PORTANTO, A SENTENÇA DO JUÍZO
+A QUO
+FOI PROFERIDA COM O REGULAR ACERTO, RESPEITANDO OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. NO QUE SE REFERE AO
+QUANTUM INDENIZATÓRIO,
+MERECENDO SER MANTIDA POR ESTA TURMA RECURSAL. CONFIGURADOS OS DANOS MORAIS E MATERIAIS SOFRIDOS PELA PARTE AUTORA.
+(8).
+RECURSO CONHECIDO E NÃO PROVIDO
+. SENTENÇA PROCEDENTE MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. CONDENO A PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS DE ADVOGADO, ESTES FIXADOS EM 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
