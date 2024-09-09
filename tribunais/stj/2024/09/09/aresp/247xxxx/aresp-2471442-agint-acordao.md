@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial impõe o não conhecimento do agravo. Obse rvância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto por MARCUS VINICIUS VANNUCCHI, contra a decisão de fls. 211/212, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Inconformada, sustenta a parte agravante, em resumo, que "nunca teve a pretensão de que este Superior Tribunal reexaminasse as provas dos autos. E isso ficou bastante claro no agravo em recurso especial, estando clara também a específica impugnação ao óbice imposto pela Súmula 7 deste e. STJ. O Agravo em Recurso Especial interposto pelo Agravante não é um recurso meramente genérico. Ao contrário, trata-se de um recurso que impugnou especificamente todos os argumentos elencados na decisão monocrática que inadmitiu o seu recurso especial essa, sim, uma decisão genérica de modo que toda a matéria foi combatida e posta para a análise por este Superior Tribunal" (fl. 222).
+Requer, assim, "inicialmente, a reconsideração da r. decisão agravada, para que o agravo em recurso especial seja recebido e, em seu mérito, provido, com a finalidade última de que o Recurso Especial seja, também, conhecido e provido. Caso não seja este o entendimento de V.Exa., requer que o agravo interno seja distribuído para o julgamento pela turma competente" (fl. 224).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A ausência de impugnação específica aos fundamentos da decisão de inadmissão do recurso especial impõe o não conhecimento do agravo. Obse rvância dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+A decisão ora agravada não conheceu do agravo em recurso especial, ao fundamento de que, "no caso dos autos, o recurso especial não foi admitido ao fundamento de que os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido, que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas e, também, pela incidência da Súmula 7 do STJ. Ocorre que a parte agravante não impugnou, especificamente, a aplicação do óbice sumular pela Corte de origem, o que acarreta o não conhecimento do agravo" (fl. 211).
+Alega a parte agravante haver impugnado o fundamento da decisão de inadmissão do recurso especial e, para tanto, transcreve o seguinte excerto (fls. 221/222):
+Pela leitura do breve da decisão não se chega à conclusão das razões do Recurso ter seu seguimento negado.
+A mera afirmação de que "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça." Não pode e não deve ser considerada como fundamentação da decisão.
+E transcreve, ainda (fl. 222):
+Não se está, ressalte-se desde logo, QUE NÃO SE ESTÁ AQUI PRETENDENDO A ANÁLISE DE PROVAS, esta obstaculizada pela súmula 7 do C. STJ, mas, apenas e simplesmente, da peça inicial, da decisão agravada em primeiro grau e dos Acórdãos genéricos proferidos, portanto decisões, que não enfrentaram o que foi arguido e tampouco as disposições introduzidas na LIA através da Lei 14.230/21, que estava em pleno vigor quando do julgamento dos Embargos de Declaração, não obstante tenha sido tal matéria longamente sustentada nas razões de tal recurso, que restaram feridas de morte pelo r. decisório.
+A decisão, contudo, não merece reforma, pois em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolva uma argumentação que demonstre a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica e aí deve comprovar tal circunstância, não apenas alega-la, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
