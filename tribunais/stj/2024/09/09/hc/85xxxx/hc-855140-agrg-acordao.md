@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. ESTABILIDADE E PERMANÊNCIA. REQUISITOS PRESENTES. PEDIDO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. DOSIMETRIA. PENA-BASE DO DELITO DE TRÁFICO DEVIDAMENTE MAJORADA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+2. A existência do vínculo associativo estável e permanente entre os réus e entre eles e o crime organizado foi evidenciada de maneira adequada pelas instâncias ordinárias, de sorte que não há como absolvê-los do delito de associação para o tráfico de drogas.
+3. As circunstâncias do delito permitem a fixação da pena-base do delito de tráfico acima do mínimo legal.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por LEONIR DA CONCEIÇÃO contra decisão, de minha relatoria, em que concedi parcialmente a ordem.
+Depreende-se dos autos que o ora agravante foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, como incurso no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 (e-STJ fl. 44).
+O Tribunal de origem negou provimento ao recurso da defesa e proveu o recurso ministerial, para condená-lo também pelo delito previsto no art. 35 da Lei n. 11.343/2006 e exasperar a pena do delito de tráfico de drogas (e-STJ fls. 46/60).
+No writ, a defesa pretendeu a absolvição quanto ao delito de associação ao tráfico. Subsidiariamente, pleiteou a redução da reprimenda.
+Na decisão monocrática de e-STJ fls. 137/145, deneguei a ordem.
+Nesta oportunidade, a defesa afirma não estarem presentes os requisitos da estabilidade e permanência, necessários para a configuração do delito de associação para o tráfico.
+Quanto à dosimetria, aduz ter havido desproporcionalidade na fixação da pena-base.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. ESTABILIDADE E PERMANÊNCIA. REQUISITOS PRESENTES. PEDIDO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. DOSIMETRIA. PENA-BASE DO DELITO DE TRÁFICO DEVIDAMENTE MAJORADA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+2. A existência do vínculo associativo estável e permanente entre os réus e entre eles e o crime organizado foi evidenciada de maneira adequada pelas instâncias ordinárias, de sorte que não há como absolvê-los do delito de associação para o tráfico de drogas.
+3. As circunstâncias do delito permitem a fixação da pena-base do delito de tráfico acima do mínimo legal.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não obstante os argumentos defensivos, tenho que o recurso de agravo regimental não merece prosperar.
+Isso, porque a matéria referente à suficiência ou insuficiência do acervo probatório a caracterizar a configuração do delito de associação para o tráfico de drogas, na espécie, foi devidamente analisada pela Corte local com base nas peculiaridades do caso concreto.
+Ao apreciar o delito em questão, o Tribunal de origem assim consignou (e-STJ fls. 49/55, grifei):
+Consoante descreve a denúncia, desde data incerta, mas até o dia 09 de maio de 2017, LEONIR DA CONCEIÇÃO e CAIO CÉSAR VERNOCHI DA CONCEIÇÃO associaram-se para praticar o crime de tráfico de drogas.
+Narra a inicial, ainda, que no dia 09 de maio de 2017, por volta das 20h40min, na Rodovia Raposo Tavares, Km 48, na cidade de Assis, LEONIR DA CONCEIÇÃO e CAIO CÉSAR VERNOCHI DA CONCEIÇÃO transportavam, para posterior entrega ao consumo de terceiros, sem autorização legal, 30 (trinta) porções de pasta base de cocaína, prensadas em forma de tijolo, com peso aproximado de 33,280 kg (trinta e três quilos e duzentos e oitenta gramas).
+Segundo apurado, LEONIR foi contratado por pessoas não identificadas para transportar os sobreditos entorpecentes da cidade de Corumbá (MS) para a cidade de São Paulo (SP), local em que deixaria o veículo em que as drogas estavam escondidas estacionado no Supermercado Extra, situado na Rua Ricardo Jafet, para que o proprietário dos entorpecentes os recebesse, sendo certo que a droga seria transportada até o destino final na caminhonete de propriedade de CAIO CÉSAR.
+CAIO, já com o veículo carregado de entorpecentes, saiu da cidade de Corumbá (MS) e se encontrou com LEONIR, na cidade de Presidente Prudente (SP), para que seguissem viagem juntos.
+A caminhonete, então conduzida por LEONIR foi abordada por policiais militares em fiscalização de rotina e, uma vez vistoriada, foram encontrados 27 (vinte e sete) tijolos de pasta base de cocaína escondidos no interior do estepe e 03 (três) tijolos da mesma substância escondidos no encosto do banco traseiro.
+Informalmente indagado, CAIO CÉSAR confessou que ganharia a quantia de R$ 10.000,00 (dez mil reais), enquanto LEONIR afirmou que ganharia a quantia de R$ 60.000,00 (sessenta mil reais) pelo serviço realizado.
+Em virtude destes fatos, LEONIR e CAIO CÉSAR foram denunciados como incursos nos artigos 33, caput, e artigo 35, c.c. artigo 40, inciso V, todos da Lei 11.343/06.
+ ..
+Cediço que, para a configuração do delito de associação ao tráfico (art. 35 da Lei de Drogas), não basta a reunião de agentes para a prática de uma só ação delituosa, vez que esta circunstância é apta para caracterizar apenas o concurso eventual de pessoas.
+O delito disposto no artigo 35 da Lei 11.343/06 exige prova robusta de comparsaria marcada pelos atributos de permanência e estabilidade, devidamente presente nos caso sub judice.
+Isto porque, apesar de a quantidade de entorpecentes apreendidos não ser suficiente, por si só, para afirmar o vínculo associativo, em detrimento de mera reunião ocasional de agentes, os diálogos encontrados no telefone celular de LEONIR, travado com seu sobrinho, CAIO CÉSAR, são categóricos e suficientes para comprovar a permanência e estabilidade da ação delitiva.
+Primeiramente é imperativo salientar que, durante o as conversas, CAIO e LEONIR tratam dos entorpecentes como se fossem "camisas".
+Isso se percebe, dentre outros diálogos, na conversa de fls. 306, no qual LEONIR conta para caio que a Polícia Rodoviária Federal "pegou" um caminhão que saiu de Corumbá com "50 camisas", explicitando preocupação com o fato de se tratar de denúncia, porque a droga estaria bem escondida.
+De mais a mais, inúmeras são as passagens em que CAIO e LEONIR discutem valores de entorpecentes (e.g. fls. 294, 298) ou, ainda, a necessidade de maior estruturação para fazer a venda dos entorpecentes na favela (fls. 295).
+Abordam, também, a necessidade de "entrar na máfia" referente à importação de entorpecentes por via marítima, desembarcando no Porto de Santos, quando comentam notícia de apreensão de 700 quilos de cocaína (fls. 298).
+Da mesma forma, discutem horários e rotina de postos de polícia rodoviária, a fim de evitar fiscalização.
+As conversas travadas entre LEONIR e CAIO, como se evidencia, ocorreram entre as datas de 25 de abril de 2017 e 09 de maio de 2017 (fls. 294/327), sendo que a prisão dos acusados ocorreu no próprio dia 09 de maio de 2017.
+Também estão registrados os diálogos com "Canastro AB", fornecedor dos entorpecentes, travados no mesmo período (fls. 328/349), e com "Rosana SP", a destinatária da droga, a quem os acusados a repassariam em São Paulo.
+Desta forma, além da enorme quantidade de entorpecente apreendida, as demais provas carreadas ao processo comprovam, sem sombra de dúvidas, a existência de organização estruturada entre os apelantes.
+Há elementos que comprovam a estabilidade e permanência. As diversas tratativas para a aquisição e venda dos entorpecentes, discussão sobre planilhas de gastos, interesse em realizar as negociações dentro de favelas e, ainda, a ambição de integrar grupo que movimenta grandes quantidades de entorpecentes no Porto de Santos, não deixam dúvidas sobre os fatos.
+Diante disto, evidenciada a associação dos acusados para a prática do tráfico de entorpecentes, mormente comprovados os vínculos de estabilidade e permanência, a condenação pelo delito tipificado no artigo 35, caput, da Lei nº 11.343/06 é imperativa.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, para a subsunção do comportamento do acusado ao tipo previsto no art. 35 da Lei n. 11.343/2006, é imperiosa a demonstração concreta da estabilidade e da permanência da associação criminosa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA DE PROVAS. ESTABILIDADE E PERMANÊNCIA RECONHECIDAS PELA CORTE A QUO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. NECESSIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ILEGALIDADE NÃO CARACTERIZADA. AGRAVO DESPROVIDO.
+1. Para a caracterização do crime de associação para o tráfico é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do artigo 35 da Lei 11.343/2006. Doutrina. Precedentes.
+2. Concluindo as instâncias de origem, com arrimo no conjunto probatório produzido nos autos, que o agravante, embora tenha evadido do local dos fatos, era um dos agentes que participava da ação ilícita flagrada e estava associado de maneira permanente e estável para o comércio de drogas aos outros agentes, estão caracterizados os delitos de tráfico e associação para o tráfico de drogas, afastando-se a ilegalidade suscitada na insurgência.
+3. Para se entender de modo diverso e desconstituir o édito repressivo, como pretendido no recurso, seria necessário o exame aprofundado do conjunto probatório produzido nos autos, providência que é inadmissível na via especial, ante o óbice da Súmula n. 7/STJ. Agravo desprovido.
+(AgRg no AREsp 1676091/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/8/2020, DJe 31/8/2020.)
+A Corte estadual destacou que, "além da enorme quantidade de entorpecente apreendida, as demais provas carreadas ao processo comprovam, sem sombra de dúvidas, a existência de organização estruturada entre os apelantes", além de mencionar que "há elementos que comprovam a estabilidade e permanência. As diversas tratativas para a aquisição e venda dos entorpecentes, discussão sobre planilhas de gastos, interesse em realizar as negociações dentro de favelas e, ainda, a ambição de integrar grupo que movimenta grandes quantidades de entorpecentes no Porto de Santos, não deixam dúvidas sobre os fatos" (e-STJ fl. 55, grifei).
+Dessa forma, adotar entendimento diverso do firmado pela Corte local, no sentido de absolver o ora agravante pelo delito de tráfico de drogas, demandaria revolvimento de provas, o que é inviável em habeas corpus:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. DECISÃO MONOCRÁTICA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. RECURSO EM LIBERDADE ATÉ O TRÂNSITO EM JULGADO. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO PER RELATIONEM. NULIDADE. INEXISTÊNCIA. ABSOLVIÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE DE EXAME NA VIA ELEITA. PENA-BASE DO CRIME DE TRÁFICO. PROPORCIONALMENTE FIXADA. INCIDÊNCIA DA MINORANTE DO TRÁFICO DE DROGAS. REINCIDÊNCIA E DEDICAÇÃO À ATIVIDADE CRIMINOSA. CONDENAÇÃO CONCOMITANTE POR ASSOCIAÇÃO PARA O TRÁFICO QUE IMPEDE O BENEFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Dessa forma, a pretensão de absolvição pelo delito de associação para o tráfico, sob a alegação de falta de comprovação da estabilidade e permanência entre os acusados, demandaria, necessariamente, o revolvimento do conteúdo fático-probatório dos autos, providência inviável em sede de habeas corpus.
+ ..
+9. Agravo regimental desprovido. (AgRg no HC n. 655.527/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. AUTORIA E MATERIALIDADE COMPROVADAS. ABSOLVIÇÃO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO.
+1. O writ foi indeferido liminarmente na compreensão de que a condenação do recorrente nas sanções dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006 foi baseada em provas documental e testemunhal produzidas nas fases policial e judicial, estando comprovadas a materialidade e a autoria.
+2. A pretensão de absolvição dos crimes imputados ao recorrente, em razão do julgamento adverso da apelação, foi examinada nesta Corte Superior nos autos do AResp 1.301.939/MG, sendo mantida a condenação pela incidência da Súmula 7/STJ.
+3. O presente habeas corpus ataca acórdão proferido em revisão criminal. Em relação ao crime de tráfico de drogas, o Tribunal estadual entendeu que "A ligação entre cada um dos envolvidos foi abordada por meio de transcrição de conversas telefônicas; drogas foram apreendidas com os corréus, de forma a evidenciar que a associação havida entre eles realmente voltava-se ao exercício do tráfico de drogas e era bastante lucrativa".
+4. A caracterização do crime de tráfico de drogas prescinde de apreensão de droga em poder de cada um dos acusados, podendo ser comprovada pela existência de estupefacientes com apenas parte deles (REsp 1800660/MG, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2020).
+5. Segundo o acórdão proferido pela Corte de origem, após três meses de interceptações telefônicas, chegou-se à conclusão de que havia o liame subjetivo e estabilidade entre os integrantes do bando.
+6. A jurisprudência desta Corte é no sentido de que é "indispensável para a configuração do crime de associação para o tráfico a demonstração concreta da estabilidade e da permanência da associação criminosa" (AgRg no HC 454.775/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/02/2020, DJe 21/02/2020).
+7. Havendo comprovação da autoria e da materialidade dos delitos imputados ao recorrente, o afastamento da condenação exigiria revolvimento fático-probatório, o que não se admite na via do habeas corpus.
+8. Agravo regimental improvido. (AgRg no HC n. 711.926/MG, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Com relação à pena-base, pugna a defesa pelo redimensionamento, por evidente aumento excessivo.
+Sem razão.
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao julgador apresentar elementos concretos de convicção presentes no bojo do processo, sendo inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade, sem indicação de dados concretos, objetivos e subjetivos, que justifiquem o afastamento da pena do mínimo legal estabelecido ao tipo penal.
+Nesse contexto, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do CP, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Conforme consignado na decisão guerreada, o aumento na pena-base foi concretamente fundamentado por considerar que, " em que pese serem primários e ostentarem bons antecedentes, os réus foram surpreendidos praticando o tráfico interestadual, transportando mais de 33kg (trinta e três quilogramas) de pasta base de cocaína" (e-STJ fl. 58), o que denota a maior reprovabilidade do comportamento do acusado e autoriza a fixação da pena-base acima do mínimo legal.
+Assim, não há que se falar em desproporcionalidade, devendo-se frisar, no particular, que "é possível até mesmo que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (AgRg no REsp 143.071/AM, Rel. Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 6/5/2015)" (AgRg no HC n. 748.401/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+À guisa do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
