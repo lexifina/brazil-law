@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES AO SUBSCRITOR DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR MANTIDA. AGRAVO DESPROVIDO.
+1. Interposto recurso por advogado sem procuração nos autos, dele não se pode conhecer, consoante o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+2. A jurisprudência desta Corte Superior está sedimentada no sentido de que "o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Precedentes" (AgInt no AREsp n. 2.385.282/SP, Relator o Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+3. Ademais, "a personalidade jurídica da sociedade de advogados não se confunde com a dos sócios que a integram, revelando-se, portanto, necessária a representação em juízo por meio de advogado devidamente constituído" (AgInt no AREsp n. 2.459.097/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+4. Destaque-se que "o fato de existir o instrumento de mandato e a cadeia de substabelecimentos completa nos autos principais não desobriga a juntada da documentação nos autos eletrônicos do recurso especial" (AgInt no REsp n. 2.065.605/SP, Relator o Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024).
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RODRIGUES E BENEDETTO ADVOGADOS ASSOCIADOS e LUCON ADVOGADOS contra decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial, por ausência da cadeia completa de procurações - Súmula 115/STJ (fls. 165-166, e-STJ).
+Os agravantes alegam que "demonstram a sucessão da cadeia processual a partir das capturas de tela dos respectivos autos eletrônicos, bem como das peças processuais, as quais evidenciam a cadeia processual" (e-STJ, fl. 172).
+Requerem o provimento do agravo para o conhecimento do recurso especial.
+Sem impugnação (e-STJ, fl. 186).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU CADEIA COMPLETA DE SUBSTABELECIMENTO CONFERINDO PODERES AO SUBSCRITOR DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAÇÃO. FALHA NÃO SUPRIDA OPORTUNAMENTE. SÚMULA 115/STJ. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR MANTIDA. AGRAVO DESPROVIDO.
+1. Interposto recurso por advogado sem procuração nos autos, dele não se pode conhecer, consoante o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC/2015, na hipótese em que a parte recorrente, instada a regularizar a representação processual, não a promove no prazo que para tanto lhe foi assinado. Incidência do enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+2. A jurisprudência desta Corte Superior está sedimentada no sentido de que "o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Precedentes" (AgInt no AREsp n. 2.385.282/SP, Relator o Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+3. Ademais, "a personalidade jurídica da sociedade de advogados não se confunde com a dos sócios que a integram, revelando-se, portanto, necessária a representação em juízo por meio de advogado devidamente constituído" (AgInt no AREsp n. 2.459.097/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+4. Destaque-se que "o fato de existir o instrumento de mandato e a cadeia de substabelecimentos completa nos autos principais não desobriga a juntada da documentação nos autos eletrônicos do recurso especial" (AgInt no REsp n. 2.065.605/SP, Relator o Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024).
+5. Agravo interno desprovido.
+VOTO
+Conforme destacado na decisão agravada, a Presidência desta Corte, à fl. 145 (e-STJ), em razão da ausência de procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, determinou a intimação da parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+A parte apresentou às fls. 151 e 152 (e-STJ) uma procuração e um substabelecimento, documentos insuficientes para a completar a cadeia de representação processual.
+Isso porque o recurso especial e o agravo em recurso especial foram assinados pelo advogado Dr. PAULO HENRIQUE DOS SANTOS LUCON - OAB/SP n. 103.560.
+Contudo, a procuração de fl. 151, que fora outorgada após a interposição dos recursos, e por pessoa não identificada no acórdão objeto do recurso especial, confere poderes a advogado que não representa os recorrentes nos presentes autos.
+O instrumento, portanto, é insuficiente para a regularização da representação processual.
+Já o substabelecimento de fl. 152, além de não vir acompanhado da procuração que lhe dê suporte, transfere poderes "à sociedade de advogados LUCON ADVOGADOS, devidamente registrado na OAB/SP sob nº 8437".
+Da mesma forma, o documento também não sana a falha na representação processual por dois motivos. O primeiro refere-se ao fato que "o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Precedentes" (AgInt no AREsp n. 2.385.282/SP, Relator o Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+Ademais, "a personalidade jurídica da sociedade de advogados não se confunde com a dos sócios que a integram, revelando-se, portanto, necessária a representação em juízo por meio de advogado devidamente constituído" (AgInt no AREsp n. 2.459.097/SP, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO OU DE CADEIA COMPLETA DE SUBSTABELECIMENTO DE PODERES AO SUBSCRITOR DO RECURSO ESPECIAL. SUBSTABELECIMENTO POSTERIOR A INTERPOSIÇÃO DO APELO. SOCIEDADE DE ADVOGADOS. PERSONALIDADE JURÍDICA DIVERSA DOS SÓCIOS. SÚMULA N. 115 DO STJ. AGRAVO DESPROVIDO.
+1. Na hipótese de recurso interpo sto por advogado sem procuração nos autos, se a parte recorrente, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do CPC de 2015.
+2. O instrumento de procuração e/ou substabelecimento juntado com data posterior à do protocolo do recurso não supre o vício relacionado à ausência de poderes.
+3. A personalidade jurídica da sociedade de advogados não se confunde com a dos sócios que a integram, revelando-se, portanto, necessária a representação em juízo por meio de advogado devidamente constituído.
+4. "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" (Súmula n. 115 do STJ).
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.444.891/SP, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Nesse contexto, incide o disposto nos arts. 76, § 2º e seu inciso I, e 932, parágrafo único, do CPC/2015, segundo os quais não se conhece do recurso quando a parte descumpre a determinação para regularização da representação processual, em consonância com o enunciado n. 115 da Súmula do Superior Tribunal de Justiça.
+Não se ignora a alegação dos recorrentes no sentido de que "a procuração juntada confere poderes para o advogado Arlei Rodrigues atuar perante a ação de cobrança n. 1026882- 07.2017.8.26.0577. Esta ação deu origem ao cumprimento de sentença n. 0006705- 34.2020.8.26.0577, movido pela Urbanizadora Serviobrás, sob patrocínio do advogado Arlei Rodrigues, e no qual foi realizado o substabelecimento aos advogados da sociedade Lucon Advogados, aqui representada pelo seu sócio, o advogado Paulo Henrique dos Santos Lucon" (e-STJ, fl. 150).
+No entanto, "o fato de existir o instrumento de mandato e a cadeia de substabelecimentos completa nos autos principais não desobriga a juntada da documentação nos autos eletrônicos do recurso especial" (AgInt no REsp n. 2.065.605/SP, Relator o Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
