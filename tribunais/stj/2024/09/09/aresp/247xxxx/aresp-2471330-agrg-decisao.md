@@ -1,0 +1,21 @@
+DECISÃO
+Aproveito o bem lançado relatório confeccionado por ocasião do oferecimento das contrarrazões ao recurso especial (e-STJ fl. 1.430):
+WERICLIS BATISTA FERNANDES, nos autos anteriormente mencionados, inconformado com o v. Acórdão inserto no evento n o 120, interpôs RECURSO ESPECIAL, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República. O v. Acórdão está assim ementado:
+APELAÇÃO CRIMINAL. ROUBOS MAJORADOS E LATROCÍNIO TENTADO. PRESCRIÇÃO DOS ROUBOS RECONHECIDA. TENTATIVA DE LATROCÍNIO NÃO PRESCRITA. ABSOLVIÇÃO. NÃO COMPROVAÇÃO. DESCLASSIFICAÇÃO PARA ROUBO SEGUIDO DE LESÃO CORPORAL. INTENÇÃO DE MATAR CARACTERIZADA. TENTATIVA. FRAÇÃO APLICADA SEGUNDO O ITER CRIMINIS PERCORRIDO. 1. Uma vez verificada a prescrição das penas individuais dos crimes de roubo majorado objetos da lide, haja vista a redução do prazo prescricional pela metade, em virtude da menoridade do agente na época dos fatos, ela deve ser declarada, acarretando a extinção da punibilidade do réu quanto a tais crimes. 2. Demonstradas a autoria e materialidade do delito remanescente, de latrocínio tentado, através de provas jurisdicionalizadas, não há espaço para o pleito absolutório ou desclassificatório. 3. Segundo precedentes do STF, "para configurar a tentativa de latrocínio é irrelevante que a lesão corporal causada à vítima tenha sido de natureza leve, bastando comprovar que o réu agiu com dolo de matar para subtrair", como no presente caso, em que foram efetuados quatro disparos contra a vítima pelas costas, enquanto ela corria, e outros dois quando ela se virou de frente, tendo um deles lhe atingido uma das pernas. 4. Tendo o réu e seus comparsas percorrido quase a totalidade do iter criminis, resta manter a redução da sanção pela tentativa em sua menor fração (1/3). APELO CONHECIDO E PARCIALMENTE PROVIDO.
+Em sua peça recursal (cf. movimentação n o 125), o Recorrente alega, em síntese, ofensa ao artigo 226 do Código de Processo Penal.
+Nas razões do presente agravo regimental, alega a defesa que "o ora recorrente juntou jurisprudência específica que demonstra que o entendimento deste c. Superior Tribunal de Justiça é no sentido do que propugnado no Recurso Especial. Observa-se que foi juntado aresto desta Corte Superior em sentido contrário daquele indicado pela Justiça local e no sentido do que defendido no apelo especial" (e-STJ fl. 1.474).
+Postula, ao final, "seja o presente Agravo Regimental submetido ao Colegiado e, via de consequência, dado provimento ao presente recurso para reformar a decisão monocrática e, com isso, conhecer e, ao final, prover o recurso especial" (e-STJ fl. 1.474).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do agravo. Passo à análise do recurso especial.
+E, ao fazê-lo, verifico que ele não ultrapassa a barreira da admissibilidade.
+Isso, porque a tese deduzida no recurso especial não foi debatida de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento, tendo o acórdão recorrido se limitado tão somente a transcrever depoimentos, não emitindo nenhum juízo de valor sobre o art. 226 do CPP.
+Dessarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/3/2017, DJe 17/3/2017.)
+Ante o exposto, reconsidero a decisão agravada, conheço do agravo para não conhecer do recurso especial .
+Publique-se. Intimem-se.
+EMENTA
