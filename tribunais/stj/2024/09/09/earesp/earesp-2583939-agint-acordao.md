@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DE HONORÁRIOS SUCUMBENCIAIS E MULTA CONFORME PREVISÃO CONTIDA NO ARTIGO 523, § 1º DO CPC. SÚMULAS N. 211/STJ E 284/STF.
+1. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula n. 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Agravo improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por INCORPORADORA BORGES LANDEIRO S.A. EM RECUPERACAO JUDICIAL contra decisão da presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão da Súmula n. 284/STF e da ausência de prequestionamento (fls. 241-244).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 68):
+AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DE HONORÁRIOS SUCUMBENCIAIS E MULTA CONFORME PREVISÃO CONTIDA NO ARTIGO 523, § 1º DO CPC. CRÉDITO EXTRACONCURSAL. EMPRESA DEVEDORA SOB RECUPERAÇÃO JUDICIAL.
+1. Tratando-se de crédito extraconcursal o objeto da execução da sentença, a empresa recuperanda não está impedida, pelo texto da Lei 11.101/05, de satisfazer voluntariamente o seu pagamento perseguido em execuções individuais, oportunidade em que as consequências jurídicas previstas no artigo 523, § 1º, do CPC, devem incidir se não houver pagamento voluntário no prazo de 15 dias, após a intimação para o adimplemento do débito.
+2. A inclusão da empresa em processo recuperacional, ainda que haja a determinação legal de que as constrições em seu patrimônio sejam de competência do juízo universal da recuperação, não impede que continue a contrair obrigações ou mesmo de adimpli-las, conferindo-se a esses créditos a natureza extraconcursal.
+3. Por conseguinte, existindo a possibilidade do pagamento voluntário em razão da extraconcursalidade dos créditos, tem-se como viável a aplicação da incidência de multa e honorários de advogado, nos termos do artigo 523, § 1º, do CPC, em sede de fase de cumprimento de sentença.
+4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO. DECISÃO AGRAVADA MANTIDA.
+Rejeitados os embargos de declaração opostos (fl. 99).
+Alega a agravante que não incide a Súmula n. 284/STF, pois "a Agravante se insurgiu em face da violação ao artigo 523, § 1º, do Código de Processo Civil, assim como da violação Art. 47 da Lei 11.101/05" (fl. 258).
+Aduz, ainda, que as questões trazidas no recurso especial foram prequestionadas, ainda que implicitamente.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 270-282).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO. CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DE HONORÁRIOS SUCUMBENCIAIS E MULTA CONFORME PREVISÃO CONTIDA NO ARTIGO 523, § 1º DO CPC. SÚMULAS N. 211/STJ E 284/STF.
+1. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula n. 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Agravo improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Apesar do esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Consoante aludido na decisão agravada, o Tribunal de origem não emitiu tese a respeito da violação do art. 47 da Lei n. 11.101/05.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ. (AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos. (AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Acrescente-se que se o recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação do art. 1.022 do CPC quando da interposição do recurso especial com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido:
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a tese suscitada.
+IV - Cabe ao Recorrente alegar nas razões de recurso especial afronta ao art. 1.022, do Código de Processo Civil, de forma fundamentada, caso entenda persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso. (AgInt no REsp n. 2.002.305/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 30/11/2022.)
+1. O Tribunal a quo não emitiu juízo de valor sobre a tese referente à inversão dos ônus sucumbenciais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados na instância de origem, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ. Caberia à parte, em seu Apelo Nobre, alegar violação do art. 1.022 do CPC/2015, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito. (AgInt no AREsp n. 2.104.649/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Ademais, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do dispositivo apontado como violado para sustentar a tese recursal.
+Da leitura dos arts. 523, §1º, do CPC e 47 da Lei n. 11.101/05 não decorre a impossibilidade de aplicação da multa para o caso de não cumprimento voluntário da condenação.
+No mesmo sentido:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. (AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
