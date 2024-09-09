@@ -1,0 +1,28 @@
+DECISÃO
+ALCINEI DA CRUZ DE CASTRO e JEFFERSON DOS SANTOS CANAZARO alegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no Habeas Corpus n. 0042801-86.2024.8.19.0000.
+A defesa pretende, em liminar e no mérito, a substituição da prisão preventiva por cautelares diversas da prisão.
+Deferida a liminar, o Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+Depreende-se dos autos que, em 27/5/2024, o paciente foi preso em flagrante pela suposta prática do crime de tentativa de furto qualificado.
+A prisão preventiva foi decretada com base na seguinte fundamentação:
+Em relação à prisão, deve-se notar que se trata de medida de cautela processual, cabível,excepcionalmente, quando presentes e demonstrados, ainda que sucintamente, ospressupostos e requisitos insertos no artigo 312 do Código de Processo Penal.
+Para a custódia cautelar deve ser demonstrada a coexistência de e fumuscomissi delicti que justifiquem o cárcere antes do trânsito em julgado de decisãopericulum libertatiscondenatória.
+No presente caso, atesta-se a presença do pela prisão em flagrante osfumus comissi delicticustodiados na posse de fios, bem como, declarações prestadas em sede policial.
+O , definido como o risco provocado pela manutenção dos acusados empericulum libertatisliberdade, está igualmente presente: trata-se de crime grave, em que os custodiadossubtraíram o patrimônio da vítima. Consta do auto de prisão em flagrante que policiais militaresforam acionados para comparecer a local em que estaria ocorrendo furto de fios. Os agentesforam até o endereço e viram três homens furtando fios, sendo certo que o custodiado Alcineiestava em cima da marquise de um mercado, em posse de um alicate, cortando fios. Aoperceber a presença dos agentes, o custodiado Jeferson tentou fugir, mas foi abordado.
+Ambos foram presos em flagrante.
+A gravidade da conduta é acentuada, já que crimes semelhantes vêm assolando a cidade,sendo certo que coloca em risco o fornecimento de energia elétrica a serviços essenciais comohospitais, escolas e outros. Além disso, compromete a rotina de diversos moradores dalocalidade.
+Assim, evidente a necessidade da conversão da prisão em flagrante em prisão preventiva doscustodiados como medida de garantia da ordem pública, sobretudo porque crimes como essecomprometem a segurança de moradores da cidade de São Gonçalo, impondo-se atuação doPoder Judiciário, ainda que de natureza cautelar, com vistas ao restabelecimento da paz socialconcretamente violada pela conduta dos custodiados.
+Em relação ao Princípio da Homogeneidade, tal incidência depende de análise concreta dapena, o que se revela absolutamente prematuro nessa fase, quando sequer denúnciaoferecida existe. Nesse sentido, compete ao juiz natural analisar a pena a ser aplicada emconsonância com a acusação que será formulada, de forma que possa avaliar, com a dilaçãoprobatória, as circunstâncias do crime para mensurar a reprimenda.
+Destaque-se que o custodiado Alcinei já ostenta anotação, conforme consta de sua folha deantecedentes, uma vez que responde a ação penal por furto, mas volta a ser preso em flagrante pela prática de novo crime. Nesse sentido, torna-se necessária a custódia cautelarpara evitar a reiteração delitiva.
+A primariedade dos custodiados, por si só, não confere o direito à liberdade. Além disso, nãorestaram comprovados residência fixa e atividade laborativa lícita.
+No presente caso, a determinação de medida cautelar diversa da prisão, conforme art. 319 nãoseria adequada ou suficiente para a garantia da ordem pública e a aplicação da lei penal pelasrazões acima expostas.
+Por esses fundamentos, INDEFIRO A LIBERDADE PROVISÓRIA E CONVERTO A PRISÃOEM FLAGRANTE EM PRISÃO PREVENTIVA, como forma de garantia da ordem pública,nos termos do artigo 312 do CPP.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réuApoiado nessa premissa, constato que não se mostram suficientesas razões invocadas nas instâncias ordinárias para embasar a ordem de prisão do ora paciente.
+Infere-se dos autos que os pacientes são primários e portadores de bons antecedentes e que o delito a eles imputado não envolve violência ou grave ameaça - trata-se de tentativa de furto de fios.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao acusado - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sancionamento penal -, notadamente em virtude da diversidade de entorpecentes, considero ser suficientee adequada, por ora, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+À vista do exposto, confirmo a liminar para substituir a prisão preventiva dos pacientes pelas seguintes medidas cautelares, sem prejuízo de imposição de outras providências que o prudente arbítrio do Juiz natural da causa entender cabíveis e adequadas:
+a) comparecimento periódico em juízo, sempre que for intimada para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço e justificar suas atividades (art. 319, I, do CPP);
+b) proibição de ausentar-se da comarca sem autorização judicial (art. 319, IV, do CPP).
+Publique-se e intimem-se.
+EMENTA
