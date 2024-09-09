@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃOs OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 857/872) interposto contra decisão desta relatoria, que negou provimento ao agravo (e-STJ fls. 850/853).
+Em suas razões, a parte alega que (e-STJ fls. 860/871):
+ ..  ao contrário do que se concluiu, o acórdão de e-STJ fls. 139/150 carece, sim, de adequada fundamentação, pois o Tribunal a quo não sanou a crucial omissão apontada nos embargos declaratórios de e-STJ fls. 152/161,em que os Agravantes demonstraram que o v. aresto recorrido não observou as regras previstas nos artigos 188 e 277 do CPC, que preservam a validade do ato processual que, mesmo quando não praticado na exata forma prevista na lei adjetiva, atinge concretamente a sua finalidade.
+ ..  o ato processual atingiu precisamente a finalidade esperada, não causando prejuízo algum aos Agravados, cuja demora em saldar o débito foi fruto de opção consciente, e não de algum tipo de desconhecimento de sua obrigação de pagar aquele preciso montante.
+ ..  e. Corte Estadual sanasse a omissão e apreciasse a questão à luz da perspectiva de que o art. 10 do CPC não impõe ao julgador que informe previamente às partes quais seriam os dispositivos legais passíveis de aplicação à causa,  ..
+aqui não há qualquer tentativa de alterar o cenário "fático"- que, em verdade, é estritamente processual - que foi delineado pelo v. aresto de e-STJ fls. 140/151, havendo, inclusive, reconhecimento pelos Agravantes de que a decisão que intimou os Agravados para pagamento do débito não fez expressa menção à incidência das penalidades previstas no art. 523, § 1º, do CPC, na hipótese de eventual não pagamento do débito então cobrado, o que afasta o invocado óbice da Súmula 7/STJ.
+ ..  o Tema 536/STJ foi inequivocamente respeitado, o que afasta de plano a sua aplicação ao caso dos autos para obstar a passagem do recurso especial de e-STJ fls. 238/259.
+60. Insista-se, na hipótese em tela, a discussão reside unicamente em saber se as penalidades previstas no artigo 523, § 1º, do CPC podem ou não incidir contra os devedores Agravados, considerando que, mesmo realizada a sua intimação na forma do Tema 536/STJ e atingida a finalidade do ato, o decisum que a determinou não fez expressa ressalva de que o não pagamento voluntário do débito ensejaria a incidência das penalidades já previstas em lei.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 879/899), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 e por litigância de má-fé
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃOs OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 850/853):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de omissão, incidência da Súmula n. 83 do STJ e aplicação do art. 1.030, I, "b", do CPC/2015 (e-STJ fls. 604/610).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 139/140):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. IMPOSIÇÃO DA MULTA E DOS HONORÁRIOS PREVISTOS NO ART. 523, § 3º DO CPC. PROCEDIMENTO INICIADO SOB A ÉGIDE DO CPC/73. AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE QUE SE AFASTA. A FUNDAMENTAÇÃO SUCINTA NÃO SE CONFUNDE COM AUSÊNCIA DE FUNDAMENTAÇÃO. PREVALÊNCIA DO PRINCÍPIO TEMPUS REGIT ACTUM . APLICAÇÃO DO DISPOSTO NOS ARTIGOS 14 E 1.046 DO CPC. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. AUSÊNCIA DE INTIMAÇÃO DOS EXECUTADOS NA FORMA DOS ARTIGOS 520, § 2º CONJUGADO COM O ART. 523, § 1º, DO CPC/2015. IMPERIOSA NECESSIDADE DA OBSERVÂNCIA DO PROCEDIMENTO COM ATENDIMENTO ESPECÍFICO DO DISPOSTO NO ART. 524 DO CPC.
+1. Inexistência de nulidade consistente na ausência de fundamentação. Conforme entendimento firmado pelo Supremo Tribunal Federal, em repercussão geral, aquele preceito constitucional não implica no exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+2. O princípio tempus regit actum deve prevalecer, no sentido de que os atos processuais se regulam pela lei do tempo em que foram praticados, conforme preceituam os artigos 14 e 1.046, todos do CPC.
+3. Aplica-se ao direito brasileiro a teoria do isolamento dos atos processuais, segundo a qual, sobrevindo lei processual nova, os atos ainda pendentes dos processos em curso sujeitar-se-ão aos seus comandos, respeitada, porém, a eficácia daqueles já praticados de acordo com a legislação revogada.
+4. A norma prevista no art. 523, § 1º do CPC/2015, tem natureza processual destinada a estimular o cumprimento de uma ordem judicial.
+5. Ausência de intimação na forma do art. 520, § 2º conjugado com o art. 523, § 1º e o art. 524, do Código de Processo Civil. Não é cabível que se proceda a alteração do rito referente à execução provisória, adotando-se os preceitos da nova legislação processual, permitindo, inclusive, que se atinja o patrimônio dos executados, sem que observe com acuidade o procedimento previsto que, em última análise, constitui uma garantia, em favor do cidadão jurisdicionado.
+Conhecimento e provimento do recurso.
+Os embargos de declaração foram acolhidos (e-STJ fl. 182):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E DE ERRO MATERIAL. ALEGAÇÃO DE FALTA DE INTIMAÇÃO DOS EMBARGADOS PARA CUMPRIR VOLUNTARIAMENTE A CONDENAÇÃO. APLICAÇÃO DE MULTA E DE HONORÁRIOS. NECESSIDADE DE INTIMAÇÃO ESPECÍFICA. Acórdão que examinou detalhadamente a questão de mérito do recurso, inclusive no que concerne à ciência da aplicação do novo Código de Processo Civil quanto ao regime da execução provisória. Incidência de multa e de honorários após a intimação específica de ciência dos encargos da mora e do cumprimento voluntário. Correção de erro material. Conhecimento e parcial provimento do recurso.
+Os aclaratórios da parte agravada foram rejeitados (e-STJ fls. 232/236).
+Nas razões do recurso especial (e-STJ fls. 238/259), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porque (e-STJ fls. 247/248):
+ ..  o Tribunal a quo não havia observado as regras dos artigos 188 e 277 do CPC, que preservam a validade do ato processual que, mesmo quando não praticado na exata forma prevista na lei adjetiva, atinge concretamente a sua finalidade.
+27. Esse é o caso, justamente, da intimação dos Recorridos para pagar o débito executado sob a égide do CPC/15.
+ ..  houve ainda uma outra não menos decisiva, agora a respeito do alcance do principio da não-surpresa, inserto no art. 10 do CPC.
+ ..  os Recorrentes trataram de demonstrar que a interpretação conferida na origem contraria por completo a jurisprudência desse c. STJ, segundo a qual não há decisão -surpresa quando o órgão jurisdicional apenas faz incidir na hipótese a lei aplicável, cujo conhecimento pelo jurisdicionado corresponde a uma presunção absoluta.
+(ii) arts. 188 e 277 do CPC/2015, pelo princípio da instrumentalidade das formas (e-STJ fl. 263):
+ ..  como relata o próprio acórdão recorrido, embora não se tenha realizado a intimação nos termos literais do art. 523 do CPC, o fato é que (i) ela ocorreu já sob a vigência do CPC/15; (il) deu conhecimento aos Recorridos sobre o débito a ser pago, assim lhes oportunizando o pagamento voluntário; (iii) e eles próprios trataram de exercer o seu direito de questioná-los, porém permanecendo inertes quanto ao pagamento, por quase 6 meses.
+(iii) art. 10 do CPC/2015, pois (e-STJ fl. 255):
+ ..  os Recorridos não precisavam ser previamente "avisados" de que o CPC/15 seria aplicado ao processo em pleno ano de 2017, porque não se trata aqui de uma "opção" do órgão julgador no sentido de "mudar as regras do jogo", a ser previamente "avisada" aos interessados: trata-se de aplicação direta e imediata da lei, que é de conhecimento geral, e mais ainda das partes litigantes.
+(iv) art. 523, § 1º, do CPC/2015, tendo em vista que (e-STJ fl. 258):
+ ..  se o referido dispositivo impõe, justamente, a aplicação de multa e honorários em desfavor do executado em caso de não pagamento do débito no prazo legal - mesmo a título provisório, por incidência do também referido art. 520, § 2º do CPC -, então viola essa regra a decisão judicial que, a despeito do não pagamento do débito, exime o devedor de tais penalidades, precisamente como ocorreu neste caso.
+No agravo (e-STJ fls. 637/652), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 760/790.
+É o relatório.
+Decido.
+No que diz respeito à parte relativa à aplicação da sistemática dos recursos repetitivos (tema n. 536 do STJ), qual seja, a necessidade de intimação pessoal do devedor, o recurso não comporta conhecimento, pois, de acordo com o disposto no art. 1.030, § 2º, do NCPC, contra o capítulo da decisão que nega seguimento a recurso especial com base nos incisos I e III do mesmo dispositivo, é cabível agravo interno, o qual foi conhecido e não provido (e-STJ fls. 829/834).
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à necessidade de intimação para pagamento do débito sob pena de aplicação de multa e honorários, o Tribunal de origem assim se manifestou (e-STJ fl. 149/150):
+ ..  analisando-se os autos da execução provisória, notadamente as petições de fls. 724/725 e 731/734 do processo nº 0308509-14.2015.8.19.0001, não se verifica que, em momento algum, os agravados tenham sido intimados expressamente para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, sob pena do acréscimo de multa de dez por cento e, também, de honorários de advogado de dez por cento, conforme preceituam o artigo 520, § 2º conjugado com o art. 523, § 1º, todos do Código de Processo Civil, uma vez que a execução passou a tramitar na forma do novo Código de Processo Civil.
+Na hipótese, não é cabível que se proceda a alteração do rito referente à execução provisória, adotando-se os preceitos da nova legislação processual, permitindo, inclusive, que se atinja o patrimônio dos executados, sem que observe, com acuidade, o procedimento previsto que, em última análise, constitui uma garantia, em favor do cidadão jurisdicionado, visando "impedir que a desigualdade impere no processo, tornando-o justo na exata medida em que assegure às partes participação paritária e proporcione o resultado esperado pela sociedade" (Lucon, "Garantia do tratamento paritário das partes", n. 4, pp. 101-102).
+Dessa forma, forçoso que os recorrentes sejam devidamente intimados para pagamento do débito remanescente, conforme preceitua o procedimento previsto no CPC em vigor, inclusive com a observância da forma contida no art. 524, antes que se lhes impusesse a multa e os honorários previstos naquela referida legislação.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Consta nos autos que o Tribunal de origem entendeu que a intimação não ocorreu em conformidade com a legislação processual.
+Modificar o entendimento do acórdão impugnado, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, especificamente sobre a necessidade de intimação para pagamento do débito sob pena de aplicação de multa e honorários. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+Eventual conclusão desta Corte Superior em sentido contrário ao das instâncias ordinárias - de que a intimação não ocorreu em conformidade com a legislação processual - exigiria incursão no campo fático-probatório, providência vedada na via especial, nos termos da Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015 e por litigância de má-fé, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo .
+É como voto.
