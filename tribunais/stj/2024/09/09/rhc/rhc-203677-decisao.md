@@ -1,0 +1,24 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fl. 339):
+Trata-se de Recurso Ordinário em Habeas Corpus interposto por ERIVAN OLIVEIRA BORGES contra decisão proferida pela 1ª Câmara Criminal do Egrégio Tribunal de Justiça do Espírito Santo que, nos autos do Habeas Corpus nº 5006151- 92.2023.8.08.0000, denegou a ordem, mantendo o prosseguimento da ação penal.
+No presente recurso, a defesa sustenta, em síntese, às fls. 325/326, que a decisão proferida pela Corte local desrespeitou o entendimento do Supremo Tribunal Federal no HC 208.217/RJ, razão pela qual requer o provimento do recurso para "determinar-se a intimação das supostas vítimas do crime de estelionato imputados a este recorrente, para que manifestem interesse no sentido de representar ou não, especificamente, em relação a ele, no prazo decadencial de 30 dias"
+O Parquet Federal manifestou-se pelo provimento do recurso (e-STJ fls. 339/341).
+É o relatório.
+Decido.
+Sem razão a defesa.
+O Tribunal de origem, ao analisar a impetração defensiva, assim consignou (e-STJ fl. 316):
+Portanto, nesse contexto, após a determinação do Superior Tribunal de Justiça passo ao reconhecimento da necessidade de intimação das supostas vítimas do crime de estelionato, para que ofereçam representação em face do paciente, na forma prevista do caráter retroativo do § 5º do artigo 171 do Código Penal, incluído pela lei nº 13.964/2019.
+Como visto, o que deve ser analisado, em síntese, é a aplicação retroativa da Lei n. 13.964/2019, o que, a seu ver, ensejaria a extinção da punibilidade do paciente, ou a intimação dos ofendidos para oferecerem a representação, sob pena de decadência.
+Reconheço, assim, a necessidade da irretroatividade prevista no § 5º do artigo 171, conforme entendimento também existente no Superior Tribunal de Justiça, o qual assentou que: "Conforme o entendimento pacífico desta Corte Superior, "embora a norma do § 5º do artigo 171 do Código Penal, introduzida pela Lei nº 13.964/19, tenha eficácia retroativa, ela não abarca ações penais já instauradas. Isso porque, oferecida a denúncia, não há mais que se cogitar em condição de procedibilidade" (AgRg no HC n. 747.157/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 06/09/2022, DJe 15/09/2022).
+Nesse sentido, destaco que seriam necess árias nada mais, nada menos que 80 (oitenta) intimações pessoais para que a ação penal continuasse seu trâmite.
+Com efeito, " a  Terceira Seção deste Superior Tribunal, no julgamento do HC n. 610.201/SP (DJe 8/4/2021), pacificou o entendimento de que a norma que instituiu a condição de procedibilidade, no delito previsto no art. 171 do Código Penal, não retroage para atingir os casos em que já houve o oferecimento da denúncia" (AgRg no REsp n. 2.074.116/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. NULIDADE DA CITAÇÃO EDITALÍCIA. INEXISTÊNCIA. DECADÊNCIA DO DIREITO DE REPRESENTAÇÃO. NÃO OCORRÊNCIA. PRESCINDIBILIDADE DE MAIORES FORMALIDADES. RETROATIVIDADE DA LEI N. 13.964/2019 ATÉ O MOMENTO DO OFERECIMENTO DA DENÚNCIA. DESPROVIMENTO.
+1. Não há falar-se em nulidade em decorrência da citação editalícia, uma vez que esta ocorreu em virtude de o paciente não ter cumprido com o compromisso de manter atualizado o seu endereço para fins de acompanhamento processual, no qual foi beneficiado com a liberdade provisória e informou endereço onde poderia ser encontrado, sendo aferida do aresto vergastado a adoção de diversas diligências com escopo de sua citação pessoal.
+2. Quanto à suposta decadência arguida, melhor sorte não assiste ao agravante, seja em virtude do entendimento de que a aplicação retroativa da alteração operada pelo Pacote Anticrime, por meio da qual a ação penal pelo delito de estelionato passou a ser condicionada à representação, somente é possível até o oferecimento da denúncia, ocorrida no presente caso em 7/12/2009, seja em decorrência do entendimento de que a referida representação prescinde de maiores formalidades, extraindo-se do aresto impugnado que "as vítimas demonstraram suas intenções em ver o recorrente processado pelo crime de estelionato, tanto assim que procuraram a autoridade policial para comunicar o fato e prestaram suas declarações, deixando clara e inequívoca suas intenções". Precedentes.
+3. Prejudicada a pretensão subsidiária de aplicação do art. 91 da Lei n. 9.099/1995, isso porque a condenação transitou em julgado em 3/11/2023, não havendo falar-se, pelos fundamentos supracitados, em decadência do direito de representação.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 869.085/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
