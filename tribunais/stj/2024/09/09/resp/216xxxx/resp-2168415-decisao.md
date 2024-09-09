@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial manejado por Paulo Roberto Cabral com fundamento no art. 105, III, a e c, da CF, contra ac órdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 992):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. RECURSO ADESIVO. APOSENTADORIA ESPECIAL. EFEITOS FINANCEIROS DA CONDENAÇÃO. HONORÁRIOS ADVOCATÍCIOS. RECURSO ADESIVO DO AUTOR DESPROVIDO. APELAÇÃO DO INSS DESPROVIDA.
+1. No caso dos autos, o PPP informa que o retorno do autor à atividade laborativa se deu em condição de exposição a fatores de risco, motivo pelo qual o tempo em gozo de auxílio por incapacidade temporária somente se caracterizou como período intercalado entre interstícios de atividade especial com o retorno ao trabalho, sendo certo que na DER o INSS não poderia considerar a especialidade do período de afastamento, circunstância que determina a fixação dos efeitos financeiros na data do retorno à atividade laborativa.
+2. Quanto aos honorários advocatícios, tendo o autor sucumbido em parte mínima do pedido, o INSS responde por inteiro pelas despesas e honorários, nos termos do parágrafo único, do artigo 86 do Código de Processo Civil. No entanto, tratando-se de sentença ilíquida proferida em demanda da qual a Fazenda Pública faça parte, serão fixados na fase de liquidação, observando-se os critérios estabelecidos no artigo 85, §§ 2º e 3º, do CPC.
+3. Recurso adesivo do autor desprovido. Apelação do INSS desprovida.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 49, b, II, e 57, § 2º, da Lei 8.213/91, e 85, § 11, do CPC. Sustenta que a data de início do benefício (DIB) deve ser fixada na data da entrega do requerimento (DER), pois, embora comprovado posteriormente, já haveria direito adquirido ao benefício nesta data.
+No mais, requer majoração de honorários para o limite máximo (20% sobre o valor da condenação).
+Sem contrarrazões (fls. 1.014/1.015)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece êxito, mas parcial.
+O acórdão recorrido está em desarmonia com a jurisprudência deste Superior Tribunal, que firmou o entendimento de que "A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria." (Pet 9.582/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 16/09/2015).
+Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REVISÃO DE BENEFÍCIO. TEMPO ESPECIAL RECONHECIDO. EFEITOS FINANCEIROS: DATA DO REQUERIMENTO DO BENEFÍCIO ORIGINÁRIO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. RAZÕES DESCONEXAS À DECISÃO AGRAVADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual o termo inicial dos efeitos financeiros decorrentes de revisão de benefício previdenciário deve retroagir à data da concessão do benefício originário, porquanto o deferimento revisional representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior da especialidade da atividade.
+III - Revela-se deficiente a fundamentação quando a parte apresenta razões recursais dissociadas dos fundamentos utilizados na decisão agravada. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação.
+V - Agravo Interno improvido.
+(AgInt no AgInt no REsp n. 1.761.394/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/5/2021.)
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. TERMO INICIAL DA CONCESSÃO DO BENEFÍCIO. JUNTADA DA DOCUMENTAÇÃO COMPROBATÓRIA DO DIREITO NO CURSO DA AÇÃO. AFASTAMENTO DA SÚMULA 7/STJ. FIXAÇÃO NA DATA DA ENTRADA DO REQUERIMENTO ADMINISTRATIVO.
+1. Hipótese em que o Tribunal regional consignou: "o documento que deu subsídios para o reconhecimento da especialidade requerida foi juntado apenas na via judicial às fls. 203/236, não tendo sido oportunizado ao INSS, na via administrativa, a sua análise, assim, a data de inicio do benefício será a da citação, qual seja, 02/09/2014."
+(fl. 625, e-STJ).
+2. Afasta-se a aplicação da Súmula 7/STJ, pois a questão é eminentemente de direito: definir se o termo inicial do benefício é a data do requerimento ou a da citação quando os documentos comprobatórios do direito são juntados no curso da ação judicial.
+3. A Primeira Seção do STJ, no julgamento da Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria".
+4. Agravo Interno provido.
+(AgInt no REsp n. 1.736.353/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/10/2019.)
+No mais, segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do Código de Processo Civil, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade." (REsp 1.155.125/MG, Relator Ministro Castro Meira, DJe de 6/4/2010).
+Ademais, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando forem verificados excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem, embora tenha feito referência aos §§ 2º e 3º do art. 85 do CPC, postergou a fixação dos honorários para a fase de liquidação.
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração/redução dos honorários advocatícios pleiteada pela parte ora agravante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/3/2013)
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, dou-lhe provimento, para fixar os efeitos financeiros do benefício previdenciário na data da entrada do requerimento - DER (22/3/2018).
+Publique-se.
+EMENTA
