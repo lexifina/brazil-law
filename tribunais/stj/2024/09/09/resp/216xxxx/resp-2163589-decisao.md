@@ -1,0 +1,35 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. AGENTE NOCIVO. RUÍDO. AGENTES QUÍMICOS. AGENTES BIOLÓGICOS. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TUTELA ESPECÍFICA.
+- A exposição habitual e permanente a níveis de ruído acima dos limites de tolerância estabelecidos na legislação pertinente, sempre caracteriza a atividade como especial, independentemente da utilização de EPIs ou de menção, em laudo pericial, à neutralização de seus efeitos nocivos, nos termos fixados pelo STF no julgamento do ARE 664.335 (Tema 555).
+- A exposição a agentes químicos enseja o reconhecimento do tempo de serviço como especial, sendo desnecessária a análise quantitativa de concentração ou intensidade desses agentes químicos no ambiente de trabalho, dado que são caracterizados pela avaliação qualitativa.
+- A exposição a agentes biológicos não precisa ocorrer durante toda a jornada de trabalho para caracterização da especialidade do labor, uma vez que basta o contato de forma eventual para que haja risco de contaminação. Ainda que ocorra a utilização de EPIs, eles não são capazes de elidir o risco proveniente do exercício da atividade com exposição a agentes de natureza infecto- contagiosa.
+- Apresentada a prova necessária a demonstrar o exercício de atividade sujeita a condições especiais, conforme a legislação vigente na data da prestação do trabalho, o respectivo tempo de serviço especial deve ser reconhecido.
+- Preenchidos os requisitos de tempo de contribuição e carência até a promulgação da Emenda Constitucional 103/2019, é devida à parte autora a concessão de aposentadoria por tempo de contribuição.
+- Determina-se o cumprimento imediato do acórdão, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC/15, sem a necessidade de um processo executivo autônomo (sine intervallo) (fl.693).
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, o recorrente aponta negativa de vigência ao art. 1.022, II, do CPC/2015, ao fundamento de que:
+ ..  os nobres julgadores, ao julgarem os embargos declaratórios, limitaram-se a apontar que o acórdão embargado abordou todas as questões suscitadas pelo embargante, não apreciando a questão jurídica levantada pela autarquia previdenciária acerca da impossibilidade de reconhecimento do cômputo do tempo de serviço especial para segurado contribuinte individual não cooperado após 29/04/95.
+Alega, ainda, violação aos arts. 22, II, da Lei 8.212/91, 11, V, h, 14, I, parágrafo único, 57, §§ 3º, 4º, 5º, 6º e 7º, e 58, caput, §§ 1º e 2º, da Lei 8.213/91, pois:
+"se o contribuinte individual trabalha por conta própria, exerce suas atividades por sua conta e risco, não pode valer-se disso para beneficiar-se de uma situação a que dá causa ou que pode evitar, por exemplo, com a eliminação da nocividade com a utilização de EPI eficaz. Não há qualquer relação de subordinação, não há sujeição a uma jornada de trabalho fixada pelo empregador, não preenchendo, portanto, os requisitos da habitualidade e permanência de submissão a agentes nocivos, assim, não há como se adotar critérios diferenciados para a concessão de benefício para essa categoria" (fl. 745).
+Requer, ao final, o provimento do recurso.
+O recurso especial foi admitido pelo Tribunal de origem.
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação ao art. 1.022, I e II do CPC/2015, o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+No que diz respeito ao mérito, o acórdão recorrido está em consonância com a jurisprudência do STJ, firmada no sentido de que é possível o reconhecimento do tempo de serviço especial do segurado contribuinte individual não cooperado, desde que cumprida a carência e comprovado que o trabalho foi realizado com exposição a agentes nocivos prejudiciais à saúde e/ou integridade física, nos termos da legislação vigente à época da prestação do serviço.
+Veja-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL DO SEGURADO CONTRIBUINTE INDIVIDUAL. CABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência do Superior Tribunal de Justiça tem admitido o reconhecimento da especialidade de atividade exercida pelo segurado contribuinte individual, bem como da concessão de aposentadoria especial.
+3. Agravo interno não provido (AgInt no AREsp 1.697.600/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 26/4/2021, DJe de 29/4/2021, grifo nosso).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL. SEGURADO CONTRIBUINTE INDIVIDUAL. POSSIBILIDADE.
+1. O artigo 57 da Lei 8.213/1991 não traça qualquer diferenciação entre as diversas categorias de segurados, permitindo o reconhecimento da especialidade da atividade laboral exercida pelo segurado contribuinte individual.
+2. O artigo 64 do Decreto 3.048/1999 ao limitar a concessão do benefício aposentadoria especial e, por conseguinte, o reconhecimento do tempo de serviço especial, ao segurado empregado, trabalhador avulso e contribuinte individual cooperado, extrapola os limites da Lei de Benefícios que se propôs a regulamentar, razão pela qual deve ser reconhecida sua ilegalidade.
+3. Destarte, é possível o reconhecimento de tempo de serviço especial ao segurado contribuinte individual não cooperado, desde que comprovado, nos termos da lei vigente no momento da prestação do serviço, que a atividade foi exercida sob condições especiais que prejudiquem a sua saúde ou sua integridade física.
+4. Recurso Especial não provido (REsp 1.793.029/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/2/2019, DJe de 30/5/2019, grifo nosso).
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da configuração da atividade especial, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, conheço, em parte, do recurso especial e, nesta extensão, nego-lhe provimento.
+Intimem-se.
+EMENTA
