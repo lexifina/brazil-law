@@ -1,0 +1,108 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005854-92.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+RECORRIDO: IVANIL DE FATIMA MAGNAGO DE BARROS
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5005854-92.2023.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+RECORRIDO: IVANIL DE FÁTIMA MAGNAGO DE BARROS
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Conheço do recurso, eis que se encontram preenchidos os requisitos de admissibilidade, recebendo-o, apenas, em seu efeito devolutivo, eis que ausentes quaisquer das hipóteses que justifiquem a concessão do efeito suspensivo previsto no art. 43 da lei nº 9.099/95.
+
+EMENTA.
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. CÓDIGO DE DEFESA DO CONSUMIDOR. CESSÃO DE CRÉDITO. CADEIA DE FORNECEDOR. LEGITIMIDADE PARA A CAUSA. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MORAL CONFIGURADO. SENTENÇA MANTIDA.
+(1). TESE AUTORAL
+. A PARTE AUTORA ALEGOU, EM SÍNTESE, QUE A REQUERIDA AYMORÉ AJUIZOU AÇÃO DE BUSCA E APREENSÃO PERANTE A 2ª VARA CÍVEL DESTA COMARCA, EM RAZÃO DE UM DÍVIDA QUE A AUTORA POSSUÍA. NESSE SENTIDO, AO DEFERIR O PEDIDO DE BUSCA E APREENSÃO O JUÍZ DA 2ª VARA CÍVEL PROIBIU A TRANSFERÊNCIA DO VEÍCULO PARA OUTRO ESTADO. AFIRMOU, AINDA, QUE NO MESMO DIA EM QUE TEVE SEU VEÍCULO APREENDIDO REALIZOU O PAGAMENTO DA DÍVIDA. NO ENTANTO OS RÉUS REALIZARAM A TRANSFERÊNCIA DO BEM PARA O ESTADO DE SÃO PAULO, O QUE LHE GEROU TRANSTORNOS E GASTOS COM ALUGUEL DE UM CARRO PARA USO DE SUA PADARIA.
+(2) ANTÍTESE
+. EM SEDE DE CONTESTAÇÃO, A REQUERIDA ADUZIU PRELIMINAR DE ILEGITIMIDADE PASSIVA, CARÊNCIA DA AÇÃO E AUSÊNCIA DE REQUERIMENTO EXTRAJUDICIAL. NO MÉRITO, AFIRMOU QUE QUE INEXISTE DANO MORAL OU MATERIAL INDENIZÁVEL.
+(3) DISPOSITIVO DA SENTENÇA
+.
+“(...) Ante o exposto,
+JULGO PARCIALMENTE PROCEDENTE
+o pedido inicial, resolvendo o processo com resolução do mérito, nos termos do art. 487, I, do Código de Processo Civil, para: a)
+CONDENAR
+as partes rés,
+
+solidariamente,
+
+ao pagamento do valor de R$ 14.400,00 (quartorze mil e quatrocentos reais), valor este a ser corrigido a partir do efetivo prejuízo e com juros moratórios a partir da citação. b)
+CONDENAR
+a parte ré,
+
+a reparar os danos morais sofridos pela parte autora no importe de R$ 2.000,00 (dois mil reais), valor este a ser corrigido a partir do arbitramento (Súmula 362/STJ) e com juros moratórios a partir da citação. (...)”.
+
+(4) RECURSO INOMINADO INTERPOSTO PELO RÉU.
+EM SUMA, O RECORRENTE RENOVOU OS FUNDAMENTOS DE DEFESA, AFIRMANDO SER PARTE ILEGÍTIMA. NO MÉRITO, SUSTENTOU-SE QUE NÃO HOUVE ATO ILÍCITO E, POR ISSO, NÃO MERECE PROSPERAR OS ARGUMENTOS DA INICIAL.
+(5) CONTRARRAZÕES
+. PLEITEOU-SE, EM SUMA, PELA MANUTENÇÃO DA SENTENÇA PROFERIDA.
+(6) MÉRITO RECURSAL.
+QUANTO À PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM RENOVADA EM SEDE DE RECURSO INOMINADO, ENTENDO QUE ESTA NÃO MERECE PROSPERAR, POIS, CONFORME SE DEPREENDE DA TEORIA DA ASSERÇÃO, AS QUESTÕES RELACIONADAS ÀS CONDIÇÕES DA AÇÃO, COMO A LEGITIMIDADE PASSIVA
+AD CAUSAM
+, SÃO AFERIDAS À LUZ DO QUE A PARTE AUTORA AFIRMA NA PETIÇÃO INICIAL, E ADSTRITAS AO EXAME DA POSSIBILIDADE, EM TESE, DA EXISTÊNCIA DO VÍNCULO JURÍDICO-OBRIGACIONAL ENTRE AS PARTES, E NÃO DO DIREITO PROVADO, DE FORMA QUE, NA ESPÉCIE, ENTENDO QUE A NARRATIVA AUTORAL VINCULA A PARTE RECORRENTE, DE FORMA SUFICIENTE, A FIM DE INSERI-LA NO POLO PASSIVO. ALÉM DO MAIS, A AVENÇA FOI FIRMADA COM O PRÓPRIO RECORRENTE, O QUAL ADUZ QUE “(...) dívida em questão foi cedida à cessionária ITAPEVA XI MULTICARTEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO PADRONIZADOS, devendo a tratativa ser realizada com o referido, novo credor e responsável pela administração do contrato.”. NO ENTANTO, DEVE-SE MENCIONAR QUE AS TRANSFERÊNCIAS CONTRATUAIS QUE TENHAM OCORRIDO ENTRE A REQUERIDAS REFEREM-SE TÃO SOMENTE ÀS REFERIDAS EMPRESAS E, EM CONSEQUÊNCIA, NÃO DEVEM ATINGIR A ESFERA JURÍDICA DOS CONSUMIDORES. SENDO ASSIM, NÃO É POSSÍVEL QUE O CONTRATO DE CESSÃO FIRMADO ENTRE AS RÉ AFETE DIREITOS DAQUELES QUE NÃO FAZEM PARTE DA AVENÇA. PORTANTO, A TESE NÃO MERECE PROSPERAR. NESSE SENTIDO:
+EMENTA: EMENTA: APELAÇÃO - PRELIMINAR - AUSENCIA DE DIALETICIDADE - REJEITADA - REVISIONAL CONTRATO FINANCIAMENTO VEICULO - CESSÃO DE CREDITO - ILEGITIMIDADE PASSIVA - AFASTADA - JUROS REMUNERATÓRIOS - TAXA MEDIA - CAPITALIZAÇÃO - POSSIBILIDADE -TARIFA DE CADASTRO- LEGALIDADE - TARIFA DE REGISTRO DE CONTRATO - ABUSIVIDADE. Evidencia-se atendido o princípio da dialeticidade recursal quando, no recurso, a parte recorrente apresenta razões das quais se extrai, além de seu inconformismo, os fundamentos jurídicos que entende como melhor aplicáveis à espécie.
+Sendo comprovada a cessão de crédito, impõe-se demonstrar a comunicação do devedor prevista no art. 290 do CC. Inexistindo tal comprovação, o credor originário é parte legítima para figurar no polo passivo da ação revisional
+. (...) (TJMG - Apelação Cível 1.0000.24.030111-9/001, Relator(a): Des.(a) Marcos Henrique Caldeira Brant , 16ª Câmara Cível Especializada, julgamento em 10/07/2024, publicação da súmula em 12/07/2024)
+GRIFO NOSSO
+.
+QUANTO AO MÉRITO DA DEMANDA, DESTACO QUE SE APLICAM AO CASO AS DISPOSIÇÕES ESTABELECIDAS PELO CÓDIGO DE DEFESA DO CONSUMIDOR, PORQUANTO AS PARTES SE ENQUADRAM PERFEITAMENTE NOS CONCEITOS EXARADOS PELOS ARTS. 2º E 3º DO REFERIDO DIPLOMA. COROLÁRIO LÓGICO DA APLICAÇÃO DO CDC É A RESPONSABILIDADE POSSUIR NATUREZA OBJETIVA, NA FORMA DO ART. 14, II, §1º, DO CDC, ASSIM COMO OCORRER A INVERSÃO DO ÔNUS DA PROVA. POIS BEM. ENTENDO QUE A NARRATIVA RECURSAL NÃO MERECE PROSPERAR. ISSO PORQUE, APÓS ANÁLISE DOS AUTOS, ENTENDO QUE FICOU COMPROVADA A NECESSIDADE DE ALUGUEL DE VEÍCULO PELA PARTE AUTORA, EM RAZÃO DO CARRO NÃO TER SIDO RESTITUÍDO, CONFORME NOTAS FISCAIS (
+IDS. 26394199, 26394195, 37547899 E 37547898
+), NO VALOR TOTAL DE DE R$ 14.400,00 (QUATORZE MIL, QUATROCENTOS REAIS). NESSE SENTIDO, ENTENDO QUE HÁ RESPONSABILIDADE DA RECORRENTE ARCAR COM ESSES VALORES, TENDO EM VISTA QUE HOUVE A TRANSFERÊNCIA DO VEÍCULO PARA OUTRO ESTADO, ANTES DO PRAZO DE 05 (CINCO) DIAS PREVISTO NO DECRETO- LEI N° 911, DE 1969, COM EVIDENTE DESCUMPRIMENTO DE DECISÃO JUDICIAL. VEJAMOS:
+Art. 3
+o
+O proprietário fiduciário ou credor poderá, desde que comprovada a mora, na forma estabelecida pelo § 2
+o
+do art. 2
+o
+, ou o inadimplemento, requerer contra o devedor ou terceiro a busca e apreensão do bem alienado fiduciariamente, a qual será concedida liminarmente, podendo ser apreciada em plantão judiciário. § 1
+o
+Cinco dias após executada a liminar mencionada no
+caput
+, consolidar-se-ão a propriedade e a posse plena e exclusiva do bem no patrimônio do credor fiduciário, cabendo às repartições competentes, quando for o caso, expedir novo certificado de registro de propriedade em nome do credor, ou de terceiro por ele indicado, livre do ônus da propriedade fiduciária. § 2
+o
+No prazo do § 1
+o
+, o devedor fiduciante poderá pagar a integralidade da dívida pendente, segundo os valores apresentados pelo credor fiduciário na inicial, hipótese na qual o bem lhe será restituído livre do ônus
+. NO QUE TANGE AOS DANOS MORAIS, HAVENDO A COMPROVAÇÃO DA ILICITUDE DA CONDUTA PRATICADA PELO RECORRENTE, MOSTRA-SE DEVIDO, BASTANDO A DEMONSTRAÇÃO DO FATO OFENSIVO PARA CONFIGURÁ-LO. NOTADAMENTE, NÃO HÁ SE FALAR EM MERO DISSABOR, VISLUMBRANDO-SE, PORTANTO, AFRONTA À PERSONALIDADE, PRESCINDINDO DE COMPROVAÇÃO DE PREJUÍZO, JÁ QUE DECORRENTE DO PRÓPRIO ATO ILÍCITO. OS FATOS DEMONSTRAM A INSENSIBILIDADE E O DESRESPEITO DA RECORRIDA COM O CONSUMIDOR, GERANDO SENTIMENTOS DE CONSTRANGIMENTO, IMPOTÊNCIA E ANGÚSTIA. DECERTO, EMBORA NÃO SEJA POSSÍVEL AO JUIZ ADENTRAR NO ÍNTIMO DO OFENDIDO A FIM DE INVESTIGAR AS REPERCUSSÕES PSÍQUICAS QUE O FATO ILÍCITO POSSA LHE TER CAUSADO, É POSSÍVEL DEDUZIR DAS CIRCUNSTÂNCIAS EXTERNAS A OCORRÊNCIA DO DANO IMATERIAL, E ISTO COM VISTAS ÀS REGRAS DE EXPERIÊNCIA COMUM. NESTA TOADA, SABE-SE QUE NA FIXAÇÃO DO VALOR INDENIZATÓRIO, DEVE O JUIZ LEVAR EM CONSIDERAÇÃO DIVERSOS ASPECTOS, TAIS COMO A CONDIÇÃO SOCIAL DO OFENDIDO, A CAPACIDADE ECONÔMICA DO OFENSOR, A EXTENSÃO, A GRAVIDADE, A REPERCUSSÃO DA OFENSA E, BEM ASSIM, O CARÁTER RESSARCITÓRIO E PREVENTIVO PEDAGÓGICO DO DANO MORAL. DE ACORDO COM O
+ENUNCIADO Nº 32
+DAS TURMAS RECURSAIS, A REVISÃO DOS VALORES DO DANO MORAL EM SEDE DE RECURSO INOMINADO ESTARÁ AUTORIZADA QUANDO CONSTATADO QUE O MONTANTE FIXADO EM SENTENÇA É EXORBITANTE OU IRRISÓRIO. ASSIM SENDO, ENTENDO QUE O VALOR DA INDENIZAÇÃO DEVE SER MANTIDO, A TÍTULO DE INDENIZAÇÃO POR DANO MORAL, TENDO EM VISTA MOSTRAR-SE COMPATÍVEL COM AS CIRCUNSTÂNCIAS DO CASO, ATENDENDO AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. DIANTE DESSAS CONSIDERAÇÕES, ENTENDO QUE A SENTENÇA DE PISO DEVE SER MANTIDA.
+(7) RECURSO DA RECORRENTE IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. (8)
+ANTE O IMPROVIMENTO DO RECURSO INTERPOSTO, CUSTAS E HONORÁRIOS ADVOCATÍCIOS NO PERCENTUAL DE 20% SOBRE O VALOR DA CONDENAÇÃO EM DESFAVOR DO RECORRENTE, NA FORMA PRESCRITA PELO ART. 55 DA LEI 9.099/95.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr. FELIPE LEITÃO GOMES – Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
