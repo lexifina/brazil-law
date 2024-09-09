@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Mauro Campbell Marques.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+Não foi possível substituir a variável
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO CÍVEL AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. DIREITO TRIBUTÁRIO. ART. 164, I, CTN. ISS. MUNICÍPIO DE PIRAÍ. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PRESTADORA DO SERVIÇO. DESCABIMENTO. RECUSA AO DEPÓSITO TEMPESTIVAMENTE MANIFESTADA PELO RÉU, TENDO EM VISTA A DATA DE RECEBIMENTO DA NOTIFICAÇÃO DA INSTITUIÇÃO BANCÁRIA. RESOLUÇÃO 2814 DO CMN. SUBSTITUIÇÃO TRIBUTÁRIA PREVISTA NA LEI COMPLEMENTAR MUNICIPAL  03/99. RESPONSABILIDADE SOLIDÁRIA. INEXISTÊNCIA. RESPONSABILIDADE TRIBUTÁRIA POR SUBSTITUIÇÃO QUE É DA TOMADORA DO SERVIÇO, NO CASO, A AMBEV. ADEMAIS, O DEPÓSITO REALIZADO SE REVELOU INSUFICIENTE, NÃO SENDO POSSÍVEL A EXTINÇÃO DO CRÉDITO TRIBUTÁRIO PRETENDIDA PELA APELANTE. ISTO PORQUE, EM SE TRATANDO DE TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO NÃO DECLARADO, NÃO É POSSÍVEL A ADMISSÃO DA DENÚNCIA ESPONTÂNEA. SÚMULA 360 DO EG. STJ. OUTROSSIM, TAMBÉM NÃO HOUVE CONFISSÃO ESPONTÂNEA PRÉVIA AO INÍCIO DAS MEDIDAS FISCALIZATÓRIAS. DEMAIS DISSO, O VALOR DEPOSITADO, PARA POSSIBILITAR A EXTINÇÃO DO CRÉDITO, DEVERIA ESTAR ACRESCIDO DAS MULTAS FISCAL E MORATÓRIA. DEPÓSITO INSUFICIENTE. MANUTENÇÃO DA SENTENÇA DE IMPROCEDÊNCIA. RECURSO DESPROVIDO.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida. Confiram-se:
+ ..
+Como se infere do excerto acima, o E. Tribunal a quo equiparou, para fins de aplicação do art. 138 do CTN, dois contribuintes em situações absolutamente distintas: (i)o contribuinte que identifica o débito e, espontaneamente (i.e. sem atuação fiscal), o confessa e promove a sua extinção (como a Agravante); e o (b) contribuinte que conhece a sua condição de devedor e, intencionalmente, posterga o pagamento do tributo.
+Tal equiparação pode ser extraída de premissas contidas nos acórdãos, sem necessidade de análise de quaisquer provas, sobretudo da afirmação de que seria "incoerente a não aplicação do instituto àquele contribuinte que declara regularmente e paga a destempo, mas que isenta da penalidade aquele que sequer o declarou".
+Ora, como se verá adiante, essa interpretação viola o art. 138 do CTN; desconsidera o intuito da norma (que é o incentivo à autorregularização, direcionado ao contribuinte que, em um primeiro momento, desconhece a sua condição de devedor - e, se desconhece, por óbvio, não o declara previamente); e está em descompasso com a jurisprudência desse C. STJ.
+Inaplicável, portanto, a Súmula nº 7/STJ ao presente caso, inexistindo quaisquer óbices à admissão do Recurso Especial da Agravante.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. DIREITO TRIBUTÁRIO. ART. 164, I, CTN. ISS. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Na origem, trata-se de ação de consignação em pagamento objetivando impedir e/ou suspender a exigibilidade dos supostos créditos tributários correspondentes às parcelas das multas de mora e punitiva a serem lançadas da autora e/ou da Londrina Bebidas, sobre os mesmos valores, o levantamento do valor depositado pelo demandado com declaração da regularidade da consignação. Na sentença, julgou-se o pedido improcedente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 1.374.656,99 (um milhão, trezentos e setenta e quatro mil, seiscentos e cinquenta e seis reais e noventa e nove centavos).
+II - No STJ, cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - Ainda que superado o óbice, a Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+ ..
+Dessa forma, independentemente se houve ou não a instauração de procedimento fiscal, não se pode isentar a Apelante do pagamento da penalidade, não havendo declaração ou confissão da dívida referente ao imposto de lançamento por homologação em exação.
+Ademais, forçoso concluir que o depósito é posterior ao início do processo fiscalizatório iniciado pelo ente.
+Isto porque o art. 138 CTN exige a deflagração de procedimento ou medida de fiscalização, relacionados com a infração, alegando a própria Autora na inicial que procedeu ao depósito após tomar conhecimento do início do processo fiscalizatório contra a AMBEV-ressalte-se que os débitos são relacionados ao mesmo contrato de prestação de serviços.
+Assim, seja porque a parte autora não ostenta a condição de responsável tributária, seja pela insuficiência do depósito, não merece reforma a sentença que julgou improcedente o pedido.
+Ressalte-se, ainda sobre o pagamento, que houve levantamento da quantia pelo Município de Piraí (index 002510), liberando a Autora nos limites do depósito, não sendo possível, contudo, a extinção do crédito tributário nos moldes requeridos face ao não recolhimento integral do imposto e à ilegitimidade.
+ ..
+Ressalte-se que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+A Corte de origem analisou a controvérsia principal dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo e nunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
