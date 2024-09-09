@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RECONHECIMENTO E DISSOLUÇÃO PARCIAL DE SOCIEDADE EMPRESÁRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO. ARTIGOS 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. APLICAÇÃO POR ANALOGIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação Declaratória de reconhecimento e dissolução parcial de sociedade empresária.
+2. Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182 desta Corte Superior. Precedentes.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interposto por AMIRES MASSAYUKI KAKIUCHI E OUTROS contra decisão, proferida pela Ministra Presidente, que não conheceu do agravo em recurso especial que interpuseram.
+Ação: Declaratória de reconhecimento e dissolução parcial de sociedade empresária ajuizada por Sandra Satie Kakiuchi e Outros em face do Espólio de Irineu Mineo Kakiuchi.
+Decisão interlocutória: indeferiu o pedido de tutela antecipada.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa (fl. 485):
+TUTELA DE URGÊNCIA Ação de reconhecimento e dissolução parcial de sociedade de fato Decisão que indeferiu o pedido para a imediata suspensão do alvará de administração provisória concedido em favor da viúva e inventariante, bem como para a suspensão da ação de inventário que tramita perante o Juízo da Família e Sucessões e o bloqueio dos bens adquiridos pela empresa durante a sociedade Manutenção da r. decisão - Requisitos do art. 300, do CPC, não preenchidos - Recurso improvido.
+Decisão monocrática: a Presidente do STJ não conheceu do agravo em recurso especial, em razão da aplicação da Súmula 284/STF.
+Agravo interno: nas razões recursais, a parte agravante sustenta que "ao contrário do aposto na r. decisão objeto do presente Recurso, os Agravantes demonstraram a violação legal havida, razão pela qual a decisão merece reforma, com o fim de remeter o Recurso Especial ao Tribunal competente para seu julgamento" (fl. 565).
+Afirma, ainda, que "este Tribunal ao não admitir o Recurso Especial não está possibilitando aos Agravantes exercitar a ampla defesa e o contraditório de todas as formas e meios inerentes (artigo 5º, inciso LV, da CF), o que lhe é assegurado, visto que o artigo 105, inciso III, alínea "a" da Constituição Federal regula a competência ao Superior Tribunal Justiça para julgar o Recurso Especial" (fl. 566).
+Requer, assim, o provimento do agravo, para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RECONHECIMENTO E DISSOLUÇÃO PARCIAL DE SOCIEDADE EMPRESÁRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO. ARTIGOS 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. APLICAÇÃO POR ANALOGIA. MULTA. ARTIGO 1.021, § 4º, DO CPC. CABIMENTO.
+1. Ação Declaratória de reconhecimento e dissolução parcial de sociedade empresária.
+2. Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182 desta Corte Superior. Precedentes.
+3. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa, nos termos do artigo 1.021, § 4º, do CPC.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Da leitura do agravo interno, constata-se, efetivamente, que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a aplicação do verbete sumular n. 284 do Supremo Tribunal Federal não foi combatida nas razões deste recurso de forma consistente, incidindo, portanto, a Súmula n. 182 desta Corte.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do CPC, segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+Nesse sentido, os seguintes julgados do Superior Tribunal de Justiça: EDcl no AgInt nos EDv nos EREsp n. 1.632.679/PR, Corte Especial, DJe de 20/12/2023; AgInt nos EAREsp n. 1.654.556/SP, Corte Especial, DJe de 9/10/2023; AgInt nos EAREsp n. 741.851/SP, Segunda Seção, DJe de 1º/6/2023; AgInt nos EDcl na ExSusp n. 234/DF, Segunda Seção, DJe de 31/3/2023; AgInt no REsp n. 1.777.158/SP, Terceira Turma, DJe de 28/2/2024; AgInt no AREsp n. 2.152.939/RS, Terceira Turma, DJe de 18/8/2023; AgInt no REsp n. 2.038.648/SP, Quarta Turma, DJe de 28/2/2024; e AgInt no AREsp n. 2.234.191/DF, Quarta Turma, DJe de 16/10/2023.
+A propósito, ratificou o referido entendimento o precedente desta Corte Especial, firmado por ocasião do julgamento dos EAREsp n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão (DJe de 30/11/2018).
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga esta Corte Superior a conhecer de todos os fundamentos do recurso especial.
+Assim sendo, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial e, ainda, sendo unânime o julgamento, aplica-se multa de 5% (cinco por cento) sobre o valor atualizado da causa, com fulcro no artigo 1.021, § 4º, CPC.
