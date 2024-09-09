@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. DEMONSTRAÇÃO. SÚMULA N. 83 DO STJ. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando a relação de consumo ficar caracterizada e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto.
+2. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+3. É viável a limitação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a corte de origem tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5, 7 e 83 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+CREFISA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS interpõe agravo interno contra a decisão de fls. 699-707, que negou provimento ao agravo em recurso especial com fundamento nas Súmulas n. 5, 7 e 83 do STJ com relação à violação do art. 421 do CC, referente aos juros remuneratórios; nas Súmulas n. 282 do STF e 211 do STJ quanto à violação dos arts. 355, I e II, e 356, I e II, do CPC; e na Súmula n. 284 do STF no que diz respeito à alegada violação do art. 927 do CPC.
+Sustenta que, o agravo em recurso especial, defendeu a não incidência das Súmulas n. 5, 7 e 83 do STJ e indicou o REsp n. 1.821.182/RS.
+Requer a reforma do decisum agravado para conhecimento e provimento do recurso especial.
+Não foram apresentadas contrarrazões, conforme a certidão de fl. 723.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. DEMONSTRAÇÃO. SÚMULA N. 83 DO STJ. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando a relação de consumo ficar caracterizada e a abusividade for devidamente demonstrada diante das peculiaridades do caso concreto.
+2. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+3. É viável a limitação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a corte de origem tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5, 7 e 83 do STJ.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Inicialmente, esclareça-se que, com relação à prova pericial contábil, à violação do art. 927 do CPC e ao efeito suspensivo, ocorreu a preclusão, porquanto não houve impugnação, neste agravo interno, desses capítulos autônomos.
+Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO. DESNECESSIDADE DE IMPUGNAÇÃO DE TODOS OS CAPÍTULOS AUTÔNOMOS E/OU INDEPENDENTES DA DECISÃO MONOCRÁTICA AGRAVADA. INAPLICABILIDADE DA SÚMULA 182/STJ.
+ ..
+9. Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ.
+ ..  (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021.)
+No tocante aos juros remuneratórios, não há como afastar as Súmulas n. 5, 7 e 83 do STJ no presente caso, na medida em que o Tribunal de origem não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, tendo consignado que a instituição financeira não se desincumbira do ônus de demonstrar outros fatores que justificariam a taxa de juros contratada, tais como o custo de captação dos recursos, o risco do negócio, o spread da operação e a análise de risco de crédito do contratante. Observe-se (fl. 427, destaquei):
+No caso, trata-se de um contrato de crédito pessoal, celebrado em 20/05/2015, cujo valor financiado foi de R$264,73, a ser pago em 12 parcelas mensais de R$71,79, em que a taxa de juros remuneratórios pactuada é de 22,00% ao mês e 987,22% ao ano, enquanto a taxa média divulgada pelo BACEN, para as operações de crédito pessoal não consignado (cod. 25464 e 20742) no período (maio de 2015) era de 6,46% ao mês e 112,01% ao ano.
+Como é possível constatar, a taxa de juros pactuada supera expressivamente à referida taxa média de mercado, em mais de 50%, gerando uma desvantagem excessiva ao consumidor.
+Ademais, analisando as particularidades de cada caso, constata-se que o contrato possui previsão de pagamento mediante desconto em conta corrente, o que reduz o risco de inadimplemento, situação que também não justifica a cobrança de juros remuneratórios em percentual tão elevado.
+Cumpre destacar que, embora a instituição financeira justifique a cobrança de juros mais elevadas em razão do risco da operação, diante da situação da economia na época da contratação, ou o custo da captação dos recursos, comparado ao de outras operações disponíveis no mercado, no presente caso, tais situações não autorizam a aplicação de juros em patamar tão superior à média de mercado divu lgada pelo Banco Central, haja vista que os alegados riscos da operação de crédito, que sequer foram demonstrados na espécie, devem ser suportado pela própria instituição financeira e não pelo consumidor.
+Assim, mantida a sentença no ponto.
+Dessa forma, o acórdão recorrido está em sintonia com a orientação jurisprudencial do STJ - visto que o Tribunal estadual buscou utilizar outros parâmetros para concluir pela existência de vantagem exagerada na pactuação dos juros remuneratórios -, o que atrai a aplicação da Súmula n. 83 do STJ.
+Ademais, para decidir em sentido contrário e reconhecer a presença dos diversos fatores acima apontados acerca das peculiaridades do caso concreto quanto aos juros pactuados, seria necessário reexaminar o instrumento contratual e o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmulas n. 5 e 7 do STJ). Nesse sentido: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+Portanto, verifica-se que a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
