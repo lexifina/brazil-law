@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por PINGON INDÚSTRIA COMÉRCIO E LOCAÇÃO DE EQUIPAMENTOS LTDA à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+ ..  a r. decisão foi omissa ao sustentar que as matérias não foram prequestionadas, "uma vez que a questão postulada não foi examinada pela Corte de origem".
+Isto porque, os fundamentos ora debatidos foram apresentados no E. Tribunal a quo em sede de embargos à execução fiscal e apelação. Assim, a r. decisão, com o devido acatamento, foi omissa quanto ao entendimento jurisprudencial desta Suprema Corte no sentido de que o magistrado não está adstrito à análise minuciosa e exaustiva de todos os fundamentos invocados pelas partes.
+Ressalta-se, diante disso, que o E. Tribunal a quo tem prerrogativa de se alicerçar nos fundamentos que entender cabíveis para constituir seu livre convencimento.
+A r. decisão ainda sustentou que a apreciação do recurso tinha como óbice as Súmulas 284 do STF "em razão da ausência de comando normativo do dispositivo apontado como violado para sustentar a tese recursal" e incide a Súmula nº 7, uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório.
+Acontece que, com o devido acatamento, não houve óbice a Súmula 284 do STF, uma vez que, conforme demonstrado no pleito recursal, houve violação ao art. 2º, §3º da Lei nº 6.830/80, o qual qualifica a inscrição em dívida ativa como "ato de controle administrativo da legalidade", pois as Certidões de Dívida Ativa ("CDA") que ensejaram a execução não apresentam com clareza os créditos cobrados, comprometendo a defesa da ora Embargante, que não tem o correto entendimento dos créditos cobrados.
+Esclarece-se, ainda, que apesar da r. decisão ter alegado óbice da Súmula 284/STF em relação ao art. 173 do Código Tributário Nacional ("CTN"), foi omissa quanto aos argumentos apresentados pela Embargante no sentido de que houve a ocorrência de decadência e prescrição, uma vez que não houve interrupção do prazo prescricional, pois os documentos acostados não informam a ocorrência de qualquer débito parcelado e muito menos a CDA que teria sido objeto de eventual parcelamento.
+Destaca-se, data venia, que as violações infraconstitucionais suscitadas não implicam o reexame de provas, uma vez que se tornou incontroversa a violação literal do dispositivo de lei, bem como a necessidade de combater interpretação diversa desta C. Corte.
+(fls. 163-164).
+Requer, assim, o conhecimento e acolhimento dos Embargos D eclaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
