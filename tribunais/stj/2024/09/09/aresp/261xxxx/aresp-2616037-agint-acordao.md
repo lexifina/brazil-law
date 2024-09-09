@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO CUMULADA COM INDENIZAÇÃO. LEGITIMIDADE ATIVA AD CAUSAM. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Presente a completa dialeticidade recursal, o agravo em recurso especial deve ser conhecido. Decisão proferida pela Presidência que merece ser reconsiderada.
+2. Quanto à legitimidade ativa ad causam, objeto do recurso especial, tendo o Tribunal a quo afirmado que o autor da ação de ressarcimento é o titular do direito pleiteado, a alteração do acórdão recorrido implica incursão nas provas, técnica imprópria ao recurso especial. Observância da Súmula 7/STJ.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROBERTO DE SOUZA PORTO contra decisão proferida pela Ministra Presidente do Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial em razão da incompleta dialeticidade recursal.
+Nas razões do agravo interno, sustenta o agravante a reconsideração da decisão, alegando para tanto que impugnou especificamente os fundamentos adotados na decisão denegatória do recurso especial.
+O prazo para impugnação do presente recurso decorreu in albis.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO CUMULADA COM INDENIZAÇÃO. LEGITIMIDADE ATIVA AD CAUSAM. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Presente a completa dialeticidade recursal, o agravo em recurso especial deve ser conhecido. Decisão proferida pela Presidência que merece ser reconsiderada.
+2. Quanto à legitimidade ativa ad causam, objeto do recurso especial, tendo o Tribunal a quo afirmado que o autor da ação de ressarcimento é o titular do direito pleiteado, a alteração do acórdão recorrido implica incursão nas provas, técnica imprópria ao recurso especial. Observância da Súmula 7/STJ.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+A decisão agravada, que entendeu pela incompleta dialeticidade recursal, merece ser reconsiderada, pois, da releitura dos autos, depreende-se que a parte agravante cumpriu com o dever de impugnar especificamente os fundamentos adotados na decisão denegatória do recurso especial.
+Adentra-se o mérito.
+O recurso especial desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e- STJ, fl. 225):
+"APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE RESSARCIMENTO DE DANOS MATERIAIS C/C INDENIZAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE ESTABELECIMENTO COMERCIAL. PASSIVO EXISTENTE. PEDIDO DE RESSARCIMENTO FUNDADO EM CLÁUSULA CONTRATUAL. PROCEDÊNCIA. PLEITO DE PAGAMENTO DE MULTA E INDENIZAÇÃO POR DANOS MORAIS IMPROCEDENTES. RÉU REVEL QUE INTERPÕE APELAÇÃO. ALEGAÇÃO DE ILEGITIMIDADE DA PARTE AUTORA. PESSOA DIVERSA QUE FIGURA NO QUADRO SOCIETÁRIO. IRRELEVÂNCIA. PEDIDO COM BASE EM CLÁUSULA CONTRATUAL QUE PODE SER FORMULADO POR QUEM FIGUROU NO CONTRATO. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. ENUNCIADO ADMINISTRATIVO Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA E ART. 85, § 11, DO CÓDIGO DE PROCESSOCIVIL. RECURSO DESPROVIDO.
+a) É legítima para formular pedido de ressarcimento decorrente de prejuízos advindos da compra de estabelecimento comercial, formulado com base em cláusula contratual, a parte que figurou no instrumento como compradora. É irrelevante, no caso, a existência de posterior alteração do quadro societário.
+b) Diante do desprovimento do recurso impõe-se o arbitramento de honorários recursais, consoante o disposto no Enunciado Administrativo nº 7 do Superior Tribunal de Justiça e art. 85, § 11,do Código de Processo Civil."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, que, no presente caso, um terceiro adquirente assumiu todo o ativo e passivo da empresa negociada, dando solução à cláusula contratual que deu causa ao presente processo.
+Acrescenta que a demanda não trata de créditos, e sim de débitos, dívidas. O crédito decorrente da venda é do vendedor, não do comprador. No caso, os créditos do negócio realizado devem ser atribuídos a quem figurou no contrato como vendedor, independentemente de quem passa a figurar no quadro societário da empresa. Assim, não se revela possível o ajuizamento da ação pela parte recorrida, buscando a revisão do contrato com pedido de ressarcimento e indenização, uma vez não demonstrado que as supostas dividas tenham sido por ela adimplidas.
+Reforça que decorre no caso que os supostos pagamentos e/ou prejuízos não foram suportados pela recorrida, mas por terceiros (pessoa jurídica), de forma que os documentos em nome de terceiros não atrelam a legitimidade ativa ad causam à parte recorrida.
+As contrarrazões ao recurso especial foram apresentadas às fls. 312/319.
+Com efeito, a questão recursal consiste na alegação de que a parte recorrida é ilegítima para figurar no polo ativo da demanda. Para tanto, busca-se o reconhecimento de que a recorrida firmou o contrato de compra e venda do estabelecimento comercial, mas quem o adquiriu foi Valério Augusto Magalhães Serpeloni, conforme consta da 5ª Alteração do Contrato Social.
+Consta do acórdão recorrido que, em 30/1/2020, Roberto de Souza Porto e Silvia Magalhães firmaram contrato particular de Compra e Venda do estabelecimento comercial denominado Açougue Bela Carne do Paraíso, estabelecido à Rua Emilio de Menezes, nº 230, na cidade de Bela Vista do Paraíso, Estado do Paraná, no valor de R$140.000,00 (cento e quarenta mil reais).
+A compradora, Silvia Magalhães, ajuizou a presente ação, sob o argumento de que o valor pago pelo estabelecimento, bem como o passivo existente antes da transação da empresa, ultrapassaram o valor da compra deste fundo de comércio, em aproximadamente R$46.349,04 (quarenta e seis mil, trezentos e quarenta e nove reais e quatro centavos). Pediu, ao fim, ressarcimento dos danos materiais no valor antes indicado, pagamento de multa contratual e indenização por danos morais.
+O pedido de ressarcimento formulado na petição inicial tem como fundamento o parágrafo único da cláusula 3ª do contrato.
+O Tribunal a quo delimitou à fl. 231 que o fato de constar nome de terceiro como sócio da empresa, em alteração do quadro societário posterior à data do contrato de compra e venda, em nada altera o fato de que a aquisição se deu pela recorrida, com base em contrato firmado com o recorrente e que prevê o direito de regresso que embasa o ressarcimento.
+Reforçou o Tribunal a quo que o negócio de compra e venda de estabelecimento comercial se concretizou em 30/1/2020, ou seja, antes da alteração contratual, em 19/2/2020. O direito de crédito deco rrente da venda do estabelecimento é atribuído a quem figura no contrato como comprador, e não a quem passou a integrar, posteriormente, o quadro societário da empresa negociada.
+Concluiu o Tribunal a quo: uma vez que o negócio de compra e venda de estabelecimento comercial se concretizou em 30/1/2020, ou seja, antes da alteração contratual, em 19/2/2020, o direito de crédito decorrente da venda do estabelecimento é atribuído a quem figura no contrato como comprador, e não a quem passou a integrar, posteriormente, o quadro societário da empresa negociada. Isso, porque a legitimidade é conferida ao titular do direito.
+Deveras, no processo civil, em regra, a parte legítima para a propositura da ação é o titular do direito material, objeto da lide.
+Conclui-se que, no presente caso, alterar as conclusões do Tribunal de origem quanto à legitimidade ativa exigiria nova incursão nas provas dos autos, o que encontra óbice na Súmula 7 do STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Não se constata a alegada violação aos artigos 489 e 1.022 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. Nos termos da jurisprudência desta Corte, em regra, o promitente vendedor não pode ser responsabilizado pelos débitos condominiais posteriores à alienação, contemporâneos à posse do promissário comprador, pois, ao alienar o imóvel, tem a intenção de desvincular-se do direito real sobre o bem. Entretanto, quando o promitente vendedor obtém a retomada do bem anteriormente alienado, em virtude da reaquisição, sua condição de proprietário e/ou titular de direito real sobre a coisa não se rompe, razão porque o adquirente de imóvel em condomínio responde pelas cotas condominiais em atraso, ainda que anteriores à aquisição, ressalvado o seu direito de regresso contra o antigo proprietário/possuidor.
+Incidência da Súmula 83 do STJ.
+3. Alterar as conclusões do Tribunal de origem quanto à legitimidade ativa e prescrição da pretensão de cobrança exigiria nova incursão nas provas dos autos, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1.880.565/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/02/2022, DJe de 21/02/2022)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VULNERADOS. SÚMULAS 282/STF E 211/STJ. NÃO PREENCHIMENTO DOS REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO. 3. LEGITIMIDADE ATIVA. DIREITO INDIVIDUAL HOMOGÊNEO. CONCLUSÃO DO ACÓRDÃO RECORRIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 7 E 83/STJ. 4. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. JULGADOS DO MESMO TRIBUNAL. SÚMULA N. 13/STJ. 5. AGRAVO IMPROVIDO.
+ ..
+3.1. Na hipótese, reverter a conclusão do Colegiado originário firmado com base na aplicação do Código de Defesa do Consumidor (acerca da legitimidade do autor, com amparo na violação de um direito individual homogêneo) demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.895.342/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe de 14/10/2021)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, § 11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+É como voto.
