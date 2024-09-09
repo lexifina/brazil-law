@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Mauro Campbell Marques.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE DISTINÇÃO NO RECURSO ESPECIAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC). ATO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. VIA RECURSAL INADEQUADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "O ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral reconhecida, não possui conteúdo decisório, razão por que é irrecorrível" (AgInt nos EDcl no AgInt no REsp 1.849.739/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023). Precedentes.
+2. Agravo interno não conhecido.
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto por BOSQUE DAS LARANJEIRAS EMPREENDIMENTO IMOBILIÁRIO - SPE LTDA e OUTROS contra a decisão monocrática que indeferiu o pedido de distinção apresentado pela agravante.
+A parte agravante alega, em síntese, que:
+ ..  não configura o caso vertente um daqueles em que possa ter a regra geral flexibilizada em benefício de Fazenda Pública, simplesmente porque o proveito econômico é referencial fidedigno para remuneração da verba sucumbencial (fl. 288).
+Aduz que:
+ ..  o caso não se amolda, em absoluto, ao que será julgado pelo Tema 1.255, já que o proveito econômico obtido pela demanda não é exorbitante, mas sim absolutamente apropriado à matéria debatida, ao trabalho desenvolvido e à resposta necessária do Poder Judiciário aos reclamos de particular (fl. 288).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE DISTINÇÃO NO RECURSO ESPECIAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JUÍZO DE CONFORMAÇÃO (ARTS. 1.039 E 1.040 DO CPC). ATO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. VIA RECURSAL INADEQUADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "O ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral reconhecida, não possui conteúdo decisório, razão por que é irrecorrível" (AgInt nos EDcl no AgInt no REsp 1.849.739/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023). Precedentes.
+2. Agravo interno não conhecido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Na jurisprudência desta Corte:
+ ..  o ato de sobrestamento e remessa dos autos à origem, para a devida observação do rito de demandas repetitivas ou entendimento a ser definido pelo STF com repercussão geral reconhecida, não possui conteúdo decisório, razão por que é irrecorrível (AgInt nos EDcl no AgInt no REsp 1.849.739/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6/12/2023).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. REPERCUSSÃO GERAL DA MATÉRIA DE FUNDO RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL (TEMA N. 1.255). DECISÃO IRRECORRÍVEL. AGRAVO INTERNO NÃO CONHECIDO.
+1. É assente nesta Casa que o ato judicial que determina o sobrestamento do feito "com determinação de retorno dos autos ao tribunal de origem, a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do CPC/15), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorreu.
+Precedentes" (AgInt no REsp 1.936.190/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 27/9/2021, DJe de 8/10/2021).
+2. Caso a matéria veiculada no apelo nobre tenha a repercussão geral reconhecida pelo Supremo Tribunal Federal, a devolução dos autos à origem pode ser feita ainda que não tenha havido simultânea interposição de recurso extraordinário e "independe de determinação de sobrestamento pelo relator do processo no STF" (AgInt nos EDcl no AgInt no AREsp 906.819/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/9/2019, DJe de 16/9/2019).
+3. Agravo interno não conhecido (AgInt no REsp 2.082.717/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 20/6/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA, PELO STF. RE 1.412.069/PR (TEMA1.255). DESPACHO QUE DETERMINA A BAIXA DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DA MATÉRIA, PELO STF. IRRECORRIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. A questão discutida no presente Recurso Especial insere-se na controvérsia estabelecida no RE 1.412.069/PR (Rel. Ministro ANDRÉ MENDONÇA), Tema 1.255, em que se discute a "possibilidade da fixação dos honorários por apreciação equitativa (art. 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes". Nesse contexto, o despacho ora agravado determinou a devolução dos autos ao Tribunal de origem, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Extraordinário com repercussão geral reconhecida, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+II. Na forma da jurisprudência desta Corte, "não é cabível a interposição de agravo interno contra decisão que determina o sobrestamento de recurso especial, até que seja proferida decisão pelo Supremo Tribunal Federal nos autos de recurso extraordinário com repercussão geral, com a determinação de retorno dos autos à origem para que sejam analisados nos moldes dos arts. 1.040 e 1.041 do Código de Processo Civil de 2015" (STJ, AgInt no AREsp 1.254.323/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/09/2018), salvo se demonstrado, efetivamente, erro ou equívoco, nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, o que, entretanto, não é ocaso dos autos. No mesmo sentido: STJ, AgInt nos EDcl nos EREsp1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de20/09/2017; AgInt no REsp 1.213.520/PR, Rel. Ministro OG FERNANDES,SEGUNDA TURMA, DJe de 11/10/2018; AgInt no REsp 1.704.831/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 08/08/2018; AgInt nos EDcl no REsp 1.566.408/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRATURMA, DJe de 30/08/2018; AgInt no REsp 1.140.843/PR, Rel. Ministra REGINAHELENA COSTA, PRIMEIRA TURMA, DJe de 30/10/2018.
+III. Agravo interno não conhecido (AgInt no AgInt no REsp 2.065.647/TO, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 20/12/2023).
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SOBRESTAMENTO DO RECURSO. TEMA 1.096/STJ. AUSÊNCIA DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVILDE 2015. DESCABIMENTO.
+ ..
+II - Como regra, é irrecorrível a determinação de sobrestamento de recursos, a fim de aguardar-se a revisão das súmulas e teses jurídicas sob o rito dos repetitivos ou da repercussão geral, porquanto não ostenta caráter decisório. Precedentes.
+III - A Agravante não apresenta, no agravo, argumentos suficientes para
+desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, §4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno não conhecido (AgInt no REsp 2.081.265/DF, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 17/11/2023).
+Isso posto, não conheço do agravo interno.
