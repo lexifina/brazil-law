@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU para desafiar decisão proferida às e-STJ fls. 1.218/1.224, em que conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, ante a inexistência de nulidade por negativa de prestação jurisdicional e em face da incidência das Súmulas 284 do STF e 7 do STJ.
+Embargos de declaração rejeitados (e-STJ fls. 1.242/1.246).
+Sustenta a parte agravante que os referidos enunciados não se aplicam à espécie, argumentando que (e-STJ fls. 1.252/1.255):
+a) "a análise da violação ao artigo 87, II, da Lei de Licitações, não demanda qualquer reexame do acervo fático-probatório, mas sim da análise de trechos do v. acórdão em análise, questão esta exclusivamente de direito";
+b) "o v. acórdão recorrido descumpriu a norma do artigo 408, do Código Civil, ao afastar a incidência da cláusula penal expressamente prevista no contrato administrativo celebrado entre as partes, razão pela qual igualmente resta afastada a incidência do óbices da Súmula no 7 do Superior Tribunal de Justiça sobre este ponto";
+c) "de acordo com os termos do próprio acórdão recorrido, a ação teria sido parcialmente procedente, razão pela qual é nítido o equívoco cometido ao final quando a Agravante foi considerada a única sucumbente e a ela foi imposta a integralidade dos ônus sucumbenciais decorrentes da lide principal, em total desacordo com a norma estabelecida pelo artigo 86, caput, do Código de Processo Civil" e
+d) "a exclusão da multa ocorreu não por ilegalidade na sua imposição, mas apenas pela discordância do Douto Juízo de origem quanto ao seu valor, razão pela qual não seria minimamente razoável concluir que a Agravante foi integralmente sucumbente na ação principal, pois isto fatalmente implicaria na penalização desta pelo inadimplemento contratual cometido pela Agravada. Destarte, resta igualmente nítida a não incidência do óbice da Súmula no 7 desta Colenda Corte no tocante à análise da ofensa ao artigo 86, caput, do Código de Processo Civil na qual incorreu o v. acórdão recorrido."
+Impugnação apresentada às e-STJ fls. 1.259/1.266, com pedido de aplicação de multa à agravante, nos termos dos arts. 79, 80, VII, e 81 do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+VOTO
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1 .424.404/SP (Rel. Ministra Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, no decisum ora recorrido, o recurso especial foi parcialmente conhecido e, nessa parte, desprovido, havendo os seguintes capítulos autônomos: a) ausência de ofensa aos arts. 489, § 1º, IV e 1.022 do CPC/2015; b) incidência das Súmulas 284 do STF e 7 do STJ (ofensa aos arts. 87, II, da Lei n. 8.666/1993 e 408 do Código Civil) e c) incidência da Súmula 7 do STJ (violação do art. 86 do CPC/2015).
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar todos os fundamentos erigidos no capítulo "b" acima citado, notadamente as razões para a aplicação do verbete da Súmula 284 do STF.
+De fato, a decisão agravada fez empregar aquele enunciado sumular pelas seguintes razões (e-STJ fl. 1.221):
+Dito isso, não prospera a alegada violação dos artigos 87, II, da Lei n. 8.666/1993 e 408 do Código Civil, relacionada à tese de que houve indevida incursão no mérito do ato administrativo pelo Poder Judiciário, uma vez que deficiente sua fundamentação.
+É que o comando normativo dos referidos artigos não servem para respaldar a tese do recorrente e infirmar o fundamento do acórdão atacado, o que atrai a incidência da Súmula 284 do STF.
+Na decisão integrativa, anotou-se o seguinte sobre o ponto (e-STJ fls. 1.244/1.245):
+Quanto à vulneração ao art. 87, II, da Lei n. 8.666/1993, a tese recursal, aqui replicada, é a de que o afastamento da penalidade caracteriza "indevida incursão no ato pelo Poder Judiciário e a consequente ofensa à referida norma legal" (e- STJ fl. 1.229).
+Eis o teor do dispositivo:
+Art. 87. Pela inexecução total ou parcial do contrato a Administração poderá, garantida a prévia defesa, aplicar ao contratado as seguintes sanções.
+II - multa, na forma prevista no instrumento convocatório ou no contrato Como se observa, o comando do referido artigo não serve para respaldar a tese do recorrente acerca da impossibilidade de revisão da multa pelo Poder Judiciário, por indevida incursão no mérito do ato administrativo, o que atrai a incidência da Súmula 284 do STF.
+No presente recurso, todavia, a parte agravante limitou-se a asseverar o seguinte: (e-STJ fls. 1.252/1.253):
+Em que pese o devido respeito ao entendimento veiculado na fundamentação da r. decisão em análise, verifica-se que o n. Relator não caminhou com o costumeiro acerto no tocante ao despacho ora em análise, haja vista não ser o caso de aplicação da Súmula 284 do STF, uma vez que o apelo especial foi claro ao demonstrar a violação aos artigos 406, do Código Civil e 87, II, da Lei 8666/93 e a necessidade de análise pelo STJ das razões apresentadas para o correto prosseguimento do feito, sendo que não há que se falar em fundamentação deficiente do recurso.
+Afinal, o fato do juízo a quo ter anulado uma penalidade aplicada pela Agravante após regular processo administrativo foi algo muito bem pontuado e que afronta os dispositivos legais retro, sendo a reforma da decisão em análise de rigor por indevida invasão do mérito administrativo.
+(..).
+Diante deste trecho em destaque, a própria fundamentação decisória adotada deixa nítida a ofensa à norma legal ora suscitada, visto que se depreende dos termos do próprio v. acórdão recorrido que, apesar de regular, portanto, sem qualquer ilegalidade ou vício no processo administrativo que culminou na rescisão do contrato, excluiu-se integralmente a multa aqui aplicada, numa clara afronta as atribuições da Administração Pública previstas pelo legislador no artigo em comento. (grifos originais).
+Ocorre que o princípio da dialeticidade impõe à parte recorrente o ônus de explicitar, de forma específica, concreta e pormenorizada, os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente a mera alegação de que houve ataque específico, sem a sua efetiva demonstração, como no caso presente.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em recurso especial diante da falta de impugnação ao fundamento da decisão agravada.
+2. Tal como consignado na decisão agravada, o Tribunal a quo fundamentou a inadmissibilidade do recurso especial interposto considerando: a) ausência de afronta ao art. 1.022 do CPC/2015; b) razões recursais dissociadas do pedido - Súmula 284/STF, e c) incidência da Súmula 7/STJ.
+3. Das razões do agravo em recurso especial, verifica-se que as partes agravantes não impugnaram, especificamente, o fundamento referente à incidência da Súmula 284 do STF.
+4. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+5. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, ainda que autônomos, impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ, aplicável por analogia.
+6. Ressalte-se, por fim, que a impugnação efetiva de todos os fundamentos da decisão que inadmitiu o recurso especial deve ser feita integralmente na petição do agravo em recurso especial, pois, convém frisar, não é admitida impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.125.541/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ, QUE INADMITIU RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ.
+1. A decisão monocrática da Presidência do STJ assentou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial" (fl. 376, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou a compreensão de que não se conhece de Agravo contra decisão monocrática o qual não ataque especificamente os fundamentos dessa decisão, de forma a demonstrar que o entendimento nela esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário ao das afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."), que está em consonância com a redação do § 1º do art. 1.021 do atual do CPC.
+5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião da interposição de Agravo Interno, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, em virtude da ocorrência de preclusão consumativa.
+6. Agravo Interno não conhecido. (AgInt no AREsp n. 1.874.820/GO, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/10/2021, DJe de 4/11/2021.)
+Quanto ao pedido cominatório formulado pela parte agravada, não considero manifestamente inadmissível ou improcedente o presente recurso, a ensejar a aplicação de sanção prevista art. 1.021, § 4º, do CPC/2015.
+Também não considero que a interposição do presente recurso possa ser enquadrada nos arts. 80 e 81 do CPC/2015, que tratam da litigância de má-fé.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+E como voto.
