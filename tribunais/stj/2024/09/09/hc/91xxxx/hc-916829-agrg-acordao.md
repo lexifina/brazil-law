@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INAPLICABILIDADE DA SUSPENSÃO CONDICIONAL DO PROCESSO NO ÂMBITO DA JUSTIÇA MILITAR. PREVISÃO EXPRESSA DO ART. 90-A DA LEI N. 9.099/1995. PRECEDENTES DE AMBAS AS TURMAS CRIMINAIS DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA DE DISTINÇÃO LEGAL ENTRE A JUSTIÇA MILITAR DA UNIÃO E A DOS ESTADOS. AUSÊNCIA DE VIOLAÇÃO DO POSTULADO DA ISONOMIA.
+1. No âmbito da Justiça Militar, não se aplicam as disposições da Lei n. 9.099/1995 - inclusive a suspensão condicional do processo - para os delitos cometidos após a vigência da Lei n. 9.839/1999, conforme expressa dicção legal e precedentes de ambas as Turmas Criminais do Superior Tribunal de Justiça.
+2. A legislação não faz nenhuma distinção entre a Justiça Militar da União ou a dos Estados, sendo a vedação aplicável, portanto, a todos os ramos da Justiça castrense.
+3. O tratamento diferenciado no âmbito do Direito Penal Militar não vulnera o postulado da isonomia, tendo por arrimo a hierarquia e a disciplina próprias , conforme entendimento do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra a decisão monocrática (fls. 583/587) que denegou a ordem de habeas corpus.
+Por economia processual, adoto o relatório de fls. 583/584.
+Insiste a agravante na aplicabilidade da Lei 9.099/1995 às causas perante a Justiça Militar estadual.
+Aponta, em síntese, a vulneração ao postulado da isonomia, a restrição da limitação à Justiça Militar da União, bem como a existência de projeto de lei em tramitação que busca estender expressamente os institutos despenalizadores aos crimes da Justiça Militar.
+Requer a reconsideração da decisão monocrática ou sua submissão ao julgamento colegiado.
+Transcorrido in albis o prazo para a contrariedade ao recurso (fl. 604).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INAPLICABILIDADE DA SUSPENSÃO CONDICIONAL DO PROCESSO NO ÂMBITO DA JUSTIÇA MILITAR. PREVISÃO EXPRESSA DO ART. 90-A DA LEI N. 9.099/1995. PRECEDENTES DE AMBAS AS TURMAS CRIMINAIS DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA DE DISTINÇÃO LEGAL ENTRE A JUSTIÇA MILITAR DA UNIÃO E A DOS ESTADOS. AUSÊNCIA DE VIOLAÇÃO DO POSTULADO DA ISONOMIA.
+1. No âmbito da Justiça Militar, não se aplicam as disposições da Lei n. 9.099/1995 - inclusive a suspensão condicional do processo - para os delitos cometidos após a vigência da Lei n. 9.839/1999, conforme expressa dicção legal e precedentes de ambas as Turmas Criminais do Superior Tribunal de Justiça.
+2. A legislação não faz nenhuma distinção entre a Justiça Militar da União ou a dos Estados, sendo a vedação aplicável, portanto, a todos os ramos da Justiça castrense.
+3. O tratamento diferenciado no âmbito do Direito Penal Militar não vulnera o postulado da isonomia, tendo por arrimo a hierarquia e a disciplina próprias , conforme entendimento do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+VOTO
+Em que pese o esforço argumentativo da recorrente, é o caso de manutenção da decisão agravada, por seus próprios fundamentos:
+Verifica-se, de início, que a decisão combatida pela impetração que ora se examina foi proferida com fundamentação suficiente e da qual não é viável extrair a conclusão de que cause constrangimento ilegal flagrante.
+A pretensão é declaradamente contrária à literalidade do texto legal, a saber, o art. 90-A da Lei 9.099/1995
+Art. 90-A. As disposições desta Lei não se aplicam no âmbito da Justiça Militar. (Artigo incluído pela Lei nº 9.839, de 27.9.1999)
+Na matéria, as duas turmas deste Superior Tribunal já se manifestaram, em uníssono:
+PENAL. JUSTIÇA MILITAR. SUSPENSÃO CONDICIONAL DO PROCESSO. LEI Nº 9.839/99, ART. 90 "A". FATO POSTERIOR. INAPLICABILIDADE.
+- Aos crimes militares praticados após a vigência da Lei nº 9.839/99 não se aplica o benefício de suspensão condicional do processo, previsto na Lei nº 9.099/95.
+- Precedentes da Suprema Corte.
+- Habeas-corpus denegado.
+(HC n. 15.540/RS, relator Ministro Vicente Leal, Sexta Turma, julgado em 27/11/2001, DJ de 18/2/2002, p. 503).
+PENAL. HABEAS CORPUS. CRIME MILITAR. SINDICÂNCIA. EXISTÊNCIA DE JUSTA CAUSA. AUSÊNCIA DE PROPOSTA DE SURSIS PROCESSUAL. DECISÃO QUE CONTOU COM O ASSENTIMENTO DO MAGISTRADO DE 1º GRAU. REGULARIDADE. NÃO-APLICAÇÃO DAS REGRAS DESPENALIZADORAS DA LEI 9.099/95 AOS CRIMES MILITARES PRATICADOS EM DATA POSTERIOR À EDIÇÃO DA LEI 9.839/99. ORDEM DENEGADA.
+1. O oferecimento de denúncia perante a Justiça Militar independe do nome, da regularidade formal ou da existência de procedimento inquisitorial, bastando evidencie-se justa causa para a instauração da ação penal e sejam respeitadas as regras constantes do art. 77 do Código de Processo Penal Militar, bem como não incidam quaisquer das hipóteses de rejeição previstas no art. 78 do mesmo estatuto processual.
+2. Quando o Ministério Público não propõe o benefício da suspensão condicional do processo e o juízo de 1º grau é concorde com o ânimo ministerial, inexiste ilegalidade a ser afastada.
+3. A Lei 9.839/99, de 27 de setembro de 1999, acrescentou o art. 90-A à Lei 9.099/95, sendo expressa ao afastar a aplicação dos institutos despenalizadores desta no âmbito da Justiça Castrense, cujos efeitos ficam reservados para os delitos praticados em data posterior à edição da nova lei, tendo em vista o seu conteúdo material desfavorável aos acusados.
+4. Ordem denegada.
+(HC n. 41.682/MG, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 2/6/2005, DJ de 22/8/2005, p. 318).
+Na mesma linha o Supremo Tribunal Federal:
+EMBARGOS DE DECLARAÇÃO - OMISSÃO. Verificada omissão quanto a causa de pedir versada em habeas corpus, cumpre prover os embargos declaratórios. JUSTIÇA MILITAR - CONSELHO PERMANENTE DE JUSTIÇA - ATRIBUIÇÃO. Revelada prática de crime militar por acusado militar, cabe ao Conselho Permanente de Justiça o julgamento - artigo 27, inciso II, da Lei nº 8.457/1992, com redação anterior à Lei nº 13.774/2018. JUSTIÇA MILITAR - LEI DOS JUIZADOS ESPECIAIS CRIMINAIS - INADEQUAÇÃO. As medidas despenalizadoras versadas na Lei dos Juizados Especiais Criminais não se aplicam à Justiça Militar - artigo 90-A da Lei 9.099/1995.
+(HC 135677 ED, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 31-05-2021, PROCESSO ELETRÔNICO DJe-107 DIVULG 04-06-2021 PUBLIC 07-06-2021)
+Ementa: Penal Militar. Habeas corpus. Deserção - CPM, art. 187. Crime militar próprio. Suspensão condicional do processo - art. 90-A, da Lei n. 9.099/95 - Lei dos Juizados Especiais Cíveis e Criminais. Inaplicabilidade, no âmbito da Justiça Militar. Constitucionalidade, face ao art. 98, inciso I, § 1º, da Carta da República. Obiter dictum: inconstitucionalidade da norma em relação a civil processado por crime militar. O art. 90-A, da n. 9.099/95 - Lei dos Juizados Especiais Cíveis e Criminais -, com a redação dada pela Lei n. 9.839/99, não afronta o art. 98, inciso I, § 1º, da Carta da República no que veda a suspensão condicional do processo ao militar processado por crime militar. In casu, o pedido e a causa de pedir referem-se apenas a militar responsabilizado por crime de deserção, definido como delito militar próprio, não alcançando civil processado por crime militar. Obiter dictum: inconstitucionalidade da norma que veda a aplicação da Lei n. 9.099 ao civil processado por crime militar. Ordem denegada.
+(HC 99743, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: LUIZ FUX, Tribunal Pleno, julgado em 06-10-2011, ACÓRDÃO ELETRÔNICO DJe-164 DIVULG 20-08-2012 PUBLIC 21-08-2012)
+EMENTA: HABEAS CORPUS. PROCESSO PENAL MILITAR. CRIME DE DESERÇÃO. ART. 187 DO CÓDIGO PENAL MILITAR. INAPLICABILIDADE DA LEI 9.099/1995 (SUSPENSÃO CONDICIONAL DO PROCESSO) APÓS A EDIÇÃO DA LEI 9.839/1999. PRECEDENTES. LEI 10.259/2001 - JUIZADOS ESPECIAIS FEDERAIS. REVOGAÇÃO DO ARTIGO 90-A DA LEI 9099/1995. IMPROCEDÊNCIA. PRECEDENTE. ORDEM DENEGADA. 1. O instituto da suspensão condicional do processo é inaplicável no âmbito da Justiça Militar após a edição da Lei nº 9.839/1999. Esse diploma legal introduziu o art. 90-A na Lei nº 9.099/1995. Precedentes. 2. A edição da Lei nº 10.259/2001, que regulamentou a criação dos Juizados Especiais Federais, não revogou o artigo 90-A da Lei nº 9.099/95. Precedente. 3. Habeas corpus denegado.
+(HC 90015, Relator(a): JOAQUIM BARBOSA, Segunda Turma, julgado em 01-04-2008, DJe-117 DIVULG 26-06-2008 PUBLIC 27-06-2008 EMENT VOL-02325-03 PP-00447)
+Quanto ao julgado do e. STF trazido na impetração, evidente o distinguishing, na medida em que trata da aplicação do Acordo de Não Persecução Penal, instituto que não consta da Lei 9.099/1995, objeto da proibição que fundamenta os precedentes mencionados.
+Por outro lado, o próprio Supremo Tribunal já alinhavou que as limitações traçadas no Direito Penal Militar têm arrimo em distinções constitucionalmente aceitas, pelo que a argumentação baseada na incidência do postulado da isonomia também não vinga:
+Ementa: Direito Penal Militar. Vedação do sursis. Crime de deserção. Compatibilidade com a Constituição Federal. 1. A jurisprudência do Supremo Tribunal Federal inclina-se pela constitucionalidade do tratamento processual penal mais gravoso aos crimes submetidos à justiça militar, em virtude da hierarquia e da disciplina próprias das Forças Armadas. Nesse sentido, há o precedente que cuida da suspensão condicional do processo relativo a militar responsabilizado por crime de deserção (HC n º 99.743, Pleno, Rel. Min. Luiz Fux). 2. Com efeito, no próprio texto constitucional, há discrímen no regime de disciplina das instituições militares. Desse modo, como princípio de hermenêutica, somente se deveria declarar um preceito normativo conflitante com a Lei Maior se o conflito fosse evidente. Ou seja, deve-se preservar o afastamento da suspensão condicional da pena por ser opção política normativa. 3. Em consequência, entende-se como recepcionadas pela Constituição as normas previstas na alínea "a" do inciso II do artigo 88 do Código Penal Militar e na alínea "a" do inciso II do artigo 617 do Código de Processo Penal Militar. 4. Denegação da ordem de habeas corpus.
+(HC 119567, Relator(a): DIAS TOFFOLI, Relator(a) p/ Acórdão: ROBERTO BARROSO, Tribunal Pleno, julgado em 22-05-2014, PROCESSO ELETRÔNICO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014).
+A distinção que a agravante busca alinhavar não foi traçada na legislação federal questionada, tampouco encontra amparo na jurisprudência desta Corte a respeito da matéria, a qual, como sinalizou no próprio recurso, é longeva - pelo que não se cogita da mencionada proibição de retrocesso.
+Ante o exposto, nego provimento ao  agravo regimental,  com  a  manutenção  da  decisão  monocrática  por  seus  próprios  fundamentos .
+É o voto.
