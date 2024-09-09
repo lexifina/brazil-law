@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não con hecido.
+RELATÓRIO
+Trago à análise da Turma agravo regimental de Gilberto Andrade dos Santos interposto contra a decisão que indeferiu liminarmente o habeas corpus, conforme a seguinte ementa (fl. 96):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FRAGILIDADE DE PROVAS. CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE DE EXAME NA VIA ELEITA . PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. PRESERVAÇÃO DA ORDEM PÚBLICA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+Nesta via, o agravante alega que A decisão ao indeferir liminar o presente habeas corpus não considerou a preliminar suscitada sobre o ACÓRDÃO RECORRIDO CARECER DE FUNDAMENTAÇÃO VIOLANDO DISPOSITIVO DE LEI FEDERAL PASSÍVEL DE EXAME, na medida em que, SEQUER EXAMINOU AS RAZÕES SOBRE A POSSIBILIDADE DE APLICAÇÃO DE OUTRAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO (fl. 107).
+Ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Requer, ao final, o provimento do recurso para a revogação da prisão preventiva.
+Não abri prazo para apres entação de contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não con hecido.
+VOTO
+No caso, o a gravante não se desincumbiu do ônus de demonstrar o desacerto da decis ão agravada, mediante impugnação clara e específica dos fundamentos do decisum c omb atido, que foram assim expostos (fls. 97/99 - grifo nosso):
+ ..
+Inicialmente, cabe ressaltar que, na via do habeas corpus, não há como se discutir a negativa de autoria e a ausência de provas, pois demandariam o exame aprofundado do conjunto fático-probatório que compõe o processo principal. O envolvimento ou não do agente no delito que lhe é imputado é matéria cuja análise é reservada à ação penal, bastando, para justificar a prisão cautelar, haver indícios de autoria.
+Para a decretação de custódia cautelar, a lei processual penal exige a reunião dos seguintes requisitos: fumus comissi delicti e o periculum in libertatis (art. 312 do CPP).
+No tocante aos motivos da prisão preventiva, o Juízo a decretou com base nos seguintes fundamentos (fl. 28 - grifo nosso):
+ ..
+Com efeito, o crime noticiado possui contornos que extrapolam a ordinário do tipo penal de homicídio, revestindo-se de gravidade - concreta - incomum à espécie. Isso porque foi objeto de planejamento prévio e cometido aparentemente sem motivo algum, mediante inúmeros disparos de arma de fogo, tudo a demonstrar que a liberdade do representado oferece grande risco à ordem pública.
+Ressalto que delito dessa gravidade e com esses contornos - mediante arma de fogo, aparentemente sem motivação, nas proximidades da residência da vítima em cidade interiorana - são incomuns à comunidade e trazem notório abalo à paz pública.
+Ademais, o representado, em que pese intimado para comparecer à Delegacia de Polícia, ainda não o fez, não se tendo notícias de seu paradeiro (possivelmente foragido), acarretando severas dúvidas a respeito de sua contribuição para a instrução criminal, impondo risco à aplicação da lei penal, em indisfarçável descrédito as instituições encarregadas da prestação judicial repressiva.
+ ..
+O Tribunal de origem, por sua vez, considerou adequada a manutenção da prisão preventiva em decorrência da gravidade concreta do delito (fls. 22/23 - grifo nosso):
+ ..
+O paciente foi preso preventivamente em 23 de fevereiro de 2024 pela suposta prática do delito de homicídio, no bojo do processo nº 5000883-32.2024.8.21.0074. A decisão que decretou a segregação cautelar baseou-se na garantia da ordem pública, diante da gravidade concreta do delito e para a aplicação da lei penal (evento 13, DESPADEC1).
+No caso, de acordo com o registro de ocorrência, vizinhos teriam ouvido disparos de arma de fogo por volta das 00:50. Pela manhã o corpo da vítima foi encontrado por estes vizinhos que estavam se dirigindo ao trabalho. De acordo com o relatório de investigação, o automóvel, que pertence a esposa do paciente teria sido visto por câmeras de segurança passando pelo local e, logo na sequência, em tese, teria sido possível ouvir - através do monitoramento - barulho similar ao estampido de arma de fogo (evento 1, OUT2).
+ ..
+No entanto, em sede de cognição sumaríssima, observa-se que há outros elementos os quais indicam que, em tese, o veículo teria sido utilizado na empreitada delituosa praticada, supostamente, pelo paciente. As câmeras de segurança e o relatório investigativo indicam que o veículo tripulado pelo paciente estaria nas proximidades do local em que a vítima foi atingida pelos disparos de arma de fogo (evento 1, OUT68). Além disso, há informações que os populares visualizaram o veículo no local, sendo que constataram que o mesmo possui amassados na lataria, o qual restou constatado pelo relatório produzido pela autoridade policial.
+Outrossim, cumpre revelar que o fato de não ter sido encontrado chumbo no interior do veículo utilizado supostamente pelo paciente não o elide da prática delituosa, já que os disparos de arma de fogo podem ter sido feitos enquanto o paciente encontrava-se fora e/ou distante do veículo. No entanto, no limite da cognição sumária permitida pelo habeas corpus, melhor análise probatória deve ser realizada no curso da instrução processual, não cabendo, neste momento, aprofundado revolver da prova.
+Assim sendo, tais circunstâncias indicam, ao menos em análise liminar, justificada a manutenção da prisão para garantia da ordem e aplicação da lei penal, diante da gravidade concreta da conduta.
+ ..
+Por conseguinte, a custódia está corretamente motivada no modus operandi e na gravidade concreta do crime (AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022), que ocorreu mediante disparos de arma de fogo contra a vítima, de maneira previamente planejada, por motivação ainda a ser esclarecida.
+Inclusive, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018 - grifo nosso).
+Afora isso, é entendimento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Por fim, quanto ao estado de saúde do paciente, o acórdão impugnado decidiu em conformidade com a jurisprudência desta Corte Superior: desse modo, não bastam meras alegações de que o réu se encontra acometido de enfermidade, mas se requer a demonstração inequívoca da debilidade extrema, bem como da impossibilidade de tratamento no estabelecimento prisional. Precedentes. - No presente caso, não restou comprovado que o agravante não possa receber no estabelecimento prisional em que se encontra, os cuidados necessários para sua saúde (AgRg no RHC n. 194.892/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/4/2024).
+As razões do agravo regimental são ina ptas para desconstituir a motivação da decisão agravada - q ue se embasou também no modus operandi e na gravidade concreta do delito, que ocorreu mediante disparos de arma de fogo contra a vítima, de maneira previamente planejada, por motivação ainda a ser esclarecida (fl. 98). Assim, à falt a de contrariedade eficiente, m a ntêm-se hígidos os motivos expen didos pela decisão recorrida.
+É inviável , portanto, o agravo regimental ou interno que deixa de atacar os fundamentos da decis ão agravada, de acordo com os arts. 9 32, III e 1.021, § 1º, do Código de Processo C ivil - C PC de 2 015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Ante o exposto, não conheço do agravo regimental.
