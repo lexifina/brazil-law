@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos pelo Sindicato dos Servidores do Departamento de Polícia Federal no Estado do Rio de Janeiro e Espólio de José da Costa Negraes contra acórdão que negou provimento ao agravo interno no agravo em recurso especial, nos seguintes termos (fls. 477/478):
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO COLETIVA. CUMPRIMENTO DE SENTENÇA. COISA JULGADA. FALECIMENTO ANTERIOR À PROPOSITURA DA EXECUÇÃO INDIVIDUAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. INDICAÇÃO DE VIOLAÇÃO AO ART 1.022 DO CPC/2015. AUSÊNCIA.
+1. A parte recorrente não amparou o inconformismo na violação a qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF, que preceitua: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 1º/3/2021.
+2. No mais, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos apontados como violados, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ, que dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo." Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020.
+3. Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 2/12/2020.
+4. Agravo interno não provido.
+A parte embargante sustenta a inadmissibilidade dos óbices das Súmulas 284/STF e 211/STJ, sob o argumento de que " c om relação à alegação de ausência de prequestionamento, esta parte reitera que, a matéria foi abordada explicitamente na sentença de origem e no Acórdão da Apelação e nos Embargos de Declaração. Há, bem verdade, contradição com a decisão de admissão proferida no tribunal de origem, pois o Desembargador Aluisio Gonçalves de Castro Mendes, Vice-Presidente do TRF2, reconheceu a existência de prequestionamento" (fl. 488), bem como de que " a  violação a lei federal está expressamente fundamentada no Recurso interposto, inclusive com a menção do entendimento deste Egrégio Superior Tribunal de Justiça" (fl. 489).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 498).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto recorrido que o recurso especial não foi conhecido ante a ausência de indicação do dispositivo de lei federal violado e de prequestionamento, atraindo a incidência das Súmulas 284 /STF e 211/STJ.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com o decisum tomado, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no decisório colegiado embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um porcento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp n. 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe de 28/8/2018. )
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
