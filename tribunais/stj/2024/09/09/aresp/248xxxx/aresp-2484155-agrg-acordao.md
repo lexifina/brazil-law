@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE CINCO DIAS CONTÍNUOS. DEFENSORIA PÚBLICA. DEZ DIAS CONTÍNUOS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de cinco dias contínuos, conforme art. 39 da Lei n. 8.038/90, art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e art. 798 do Código de Processo Penal - CPP. No caso da Defensoria Pública, o prazo é de dez dias contínuos (art. 128, I, da Lei Complementar n. 80/1994).
+2. Na presente hipótese, a decisão agravada foi publicada em 21/6/24. A Defensoria Pública do Estado do Paraná foi intimada eletronicamente em 1º/7/24. Dessa forma, o prazo de dez dias contínuos para interposição do agravo regimental teve início em 2/7/24 e findou no dia 11/7/24. O presente recurso, no entanto, foi protocolizado somente em 31/7/24, quando já ultrapassado o decêndio legal, portanto, intempestivamente.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEAN CARLOS DE PAULA contra a decisão de fls. 2054/2061, de minha relatoria, que conheceu do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negou-lhe provimento.
+Em suas razões recursais (fls. 2069/2076), a defesa reitera as alegações do recurso especial, sustentando a violação ao art. 593, III, "d", do Código de Processo Penal - CPP.
+Alega que "não há que se falar em decisão manifestamente contrária à prova dos autos, mas apenas na escolha dos jurados em acolher a tese defensiva de que o recorrente não tinha conhecimento da intenção homicida do corréu Felipe - autor dos disparos, contra a vítima William e, portanto, não aderiu subjetivamente a sua conduta" (fl. 2071).
+Assevera que "a decisão dos jurados no presente caso não é isolada dos autos e, portanto, não configura hipótese excepcional de anulação da decisão soberana do Conselho de Sentença, devendo ser respeitado o princípio da convicção íntima dos jurados, que diante de diversas questões incertas e dúvidas presentes nos autos, concluíram pela absolvição do recorrente " (fl. 2075).
+Requer seja conhecido e provido o presente agravo regimental para dar provimento ao recurso especial, restabelecendo a decisão do conselho de sentença para absolver o recorrente.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE CINCO DIAS CONTÍNUOS. DEFENSORIA PÚBLICA. DEZ DIAS CONTÍNUOS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental que não observa o prazo de interposição de cinco dias contínuos, conforme art. 39 da Lei n. 8.038/90, art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e art. 798 do Código de Processo Penal - CPP. No caso da Defensoria Pública, o prazo é de dez dias contínuos (art. 128, I, da Lei Complementar n. 80/1994).
+2. Na presente hipótese, a decisão agravada foi publicada em 21/6/24. A Defensoria Pública do Estado do Paraná foi intimada eletronicamente em 1º/7/24. Dessa forma, o prazo de dez dias contínuos para interposição do agravo regimental teve início em 2/7/24 e findou no dia 11/7/24. O presente recurso, no entanto, foi protocolizado somente em 31/7/24, quando já ultrapassado o decêndio legal, portanto, intempestivamente.
+3. Agravo regimental não conhecido.
+VOTO
+Nos termos do art. 39 da Lei n. 8.038/90, do art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ e do art. 798 do Código de Processo Penal - CPP, é de cinco dias contínuos o prazo para a interposição de agravo regimental. Na hipótese de a parte ser assistida pela Defensoria Pública, o prazo é de dez dias contínuos (art. 128, I, da Lei Complementar n. 80/1994).
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AGRAVO INTERPOSTO APÓS O PRAZO PREVISTO NO ART. 39 DA LEI N. 8.038/1990 E NO ART. 258, CAPUT, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE. AGRAVO REGIMENTAL DO QUAL NÃO SE CONHECE.
+1. Nos termos dos arts. 258, caput, do Regimento Interno do Superior Tribunal de Justiça, 39 da Lei n. 8.038/1990 e 798, caput e § 3º, do Código de Processo Penal, é intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos (10 dias no caso da Defensoria Pública).
+2. De acordo com o entendimento do Superior Tribunal de Justiça, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/2/2017, DJe de 22/2/2017).
+3. No caso dos autos, a Defensoria foi cientificada da decisão agravada no dia 16/10/2023 (e-STJ fl. 504). O trânsito em julgado da decisão ocorreu em 27/10/2023 (e-STJ fl. 507). Ocorre que o agravo regimental foi interposto somente no dia 30/10/2023 (e-STJ fl. 2 do expediente avulso), quando já havia escoado o prazo legal de 10 dias para a sua interposição.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.392.831/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRAZO PARA INTERPOSIÇÃO DO AGRAVOREGIMENTAL. ART. 258 DO RISTJ E ART. 39 DA LEI N. 8.038/1990. DEFENSORIA PÚBLICA. PRAZO EM DOBRO. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. O agravo regimental deve ser interposto no prazo de 5 (cinco) dias, conforme estabelecido no art. 258 do RISTJ. A entrada em vigor do novo Código de Processo Civil não alterou o prazo para a interposição de agravo contra decisão monocrática de relator em matéria penal, estando vigente o art. 39 da Lei n. 8.038/1990.
+2. Nos termos do art. 128, inciso I, da Lei Complementar n. 80/1994, os prazos da Defensoria Pública devem ser contados em dobro.
+3. Na hipótese, a intimação eletrônica da Defensoria Pública ocorreu em 30/6/2023, sexta-feira (e-STJ, fl. 206). Iniciando-se a contagem em dobro em 3/7/2023, o prazo final para a interposição do recurso ocorreu em 12/7/2023, quarta-feira. Contudo, a irresignação foi apresentada apenas em 9/8/2023 (e-STJ, fl. 208), quando já transcorrido o prazo legal.
+4. Agravo regimental não conhecido.
+(AgRg no HC n. 806.529/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+Na hipótese, a decisão agravada foi publicada em 21/6/24 (fl. 2062). A Defensoria Pública do Estado do Paraná foi intimada eletronicamente em 1º/7/24 (fl. 2068). Dessa forma, o prazo de dez dias contínuos para interposição do agravo regimental teve início em 2/7/24 (terça-feira) e findou no dia 11/ 7/24 (quinta-feira). O presente recurso, no entanto, foi protocolizado somente em 31/7/ 24 (fl. 2076), quando já ultrapassado o decêndio legal, portanto, intempestivamente.
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
