@@ -1,0 +1,88 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5004233-69.2024.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO ITAUCARD S.A.
+RECORRIDO: EMERSON SILVA CASTIGLIONI
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+Recurso Inominado nos autos nº 5004233-69.2024.8.08.0048
+
+Recorrente: BANCO ITAUCARD S/A
+
+Recorrido: EMERSON SILVA CASTIGLIONI
+
+Relator: DR. FELIPE LEITÃO GOMES
+
+VOTOS
+
+RELATOR: DR. FELIPE LEITÃO GOMES
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. AÇÃO DE CONHECIMENTO. DIREITO DO CONSUMIDOR. (1). DA LIDE.
+TRATA-SE DE AÇÃO AJUIZADA POR EMERSON SILVA CASTIGLIONI EM FACE DE BANCO ITAUCARD S/A ATRAVÉS DA QUAL ALEGA QUE CELEBROU CONTRATO DE LOCAÇÃO DE VEÍCULO E REALIZOU O PAGAMENTO COM CARTÃO DE CRÉDITO ADMINISTRADO PELA RÉ, ADUZ AINDA O REQUERENTE QUE HOUVE A COBRANÇA DE R$ 691,49 A TÍTULO DE CAUÇÃO, E QUE A REQUERIDA TERIA SE EXIMIDO DE RESTITUIR A QUANTIA MESMO APÓS A DEVOLUÇÃO DO AUTOMÓVEL, RAZÃO PELA QUAL SE POSTULA REPETIÇÃO EM DOBRO DO VALOR PAGO E REPARAÇÃO MORAL.
+(2). ANTÍTESE.
+NO MÉRITO, INFERE-SE DA CONTESTAÇÃO APRESENTADA PELO REQUERIDO A TESE DE AUSÊNCIA DE NEXO CAUSAL ENTRE A CONDUTA DO BANCO RÉU E O DANO ALEGADO PELO AUTOR, VEZ QUE SE ESTARIA DIANTE DE DUAS RELAÇÕES DE CONSUMO DISTINTAS, QUAIS SEJAM, AUTOR E RÉU, AUTOR E LOCADORA ALHEIA AOS AUTOS E, PORTANTO, HAVERIA AUSÊNCIA DE RESPONSABILIDADE PELO DANO AMARGADO, RAZÃO PELA QUAL DEVERIA SE AFASTAR O PLEITO AUTORAL, JULGANDO-SE IMPROCEDENTE A DEMANDA.
+(3). DISPOSITIVO DA SENTENÇA.
+“Ante o exposto, julga-se
+PARCIALMENTE PROCEDENTE
+a pretensão, resolvendo-se o processo, com julgamento de mérito na forma do art. 487, I do CPC, para o fim de: A)
+CONDENAR
+a ré a restituir a importância de
+R$ 1.282,98
+(mil, duzentos e oitenta e dois reais e noventa e oito centavos) –
+valor já em dobro
+, acrescida de juros de mora a partir da citação e correção monetária a partir do efetivo prejuízo. B)
+CONDENAR
+a ré a indenizar pelos danos morais sofridos, no valor de
+R$ 1.000,00
+(mil reais), valor acrescido de juros de mora a partir da citação (responsabilidade contratual) e correção monetária a partir do arbitramento da ação (súmula 362 STJ)”.
+(4). RECURSO DA PARTE RÉ.
+SUSCITA PRELIMINAR DE ILEGITIMIDADE PASSIVA. NO MÉRITO, EM SÍNTESE, PUGNA PELA REFORMA DA R. SENTENÇA PARA JULGAR TOTALMENTE IMPROCEDENTE A PRETENSÃO AUTORAL. SUBSIDIARIAMENTE, REQUER SEJA AFASTADA A CONDENAÇÃO DOS DANOS MATERIAIS EM DOBRO.
+(5). CONTRARRAZÕES DA PARTE AUTORA.
+ALMEJA, EM SUMA, A MANUTENÇÃO DO ATO SENTENCIAL OBJURGADO.
+(6). DO LITISCONSÓRCIO PASSIVO NECESSÁRIO.
+EM ANÁLISE DETIDA AOS AUTOS, VERIFICO QUE O REQUERENTE PUGNA PELA RESTITUIÇÃO DA QUANTIA DE R$ 691,49 (SEISCENTOS E NOVENTA E UM REAIS E QUARENTA E NOVE CENTAVOS) RETIDA COMO CAUÇÃO PELA EMPRESA LOCADORA DE VEÍCULO V1, SOB A ALEGAÇÃO DE QUE O VALOR FORA NÃO FORA ESTORNADO PELA OPERADORA DE CARTÃO DE CRÉDITO, MESMO TENDO DILIGENCIADO ADMINISTRATIVAMENTE JUNTO A BANCO DEMANDADO. OCORRE QUE MUITO EMBORA A PARTE REQUERENTE TENHA ANEXADO NO ID. 8409798 UM E-MAIL COM A INFORMAÇÃO DA EMPRESA V1 DE QUE A CAUÇÃO É ESTORNADA IMEDIATAMENTE APÓS O ENCERRAMENTO DA LOCAÇÃO, INEXISTEM NOS AUTOS A COMPROVAÇÃO DE QUE A EMPRESA LOCADORA DO VEÍCULO TENHA CIENTIFICADO A ADMINISTRADORA DO CARTÃO ACERCA DO ESTORNO, A FIM DE QUE O VALOR COBRADO SEJA DEVOLVIDO AO REQUERENTE. COM EFEITO, RESTA IMPOSSÍVEL A ESTE RELATOR DETERMINAR QUE A PARTE REQUERIDA EFETUE O ESTORNO DO VALOR SEM QUE A EMPRESA QUE EFETUOU A COBRANÇA PARTICIPE DA RELAÇÃO PROCESSUAL E CONFIRME QUE EFETIVOU O ESTORNO DA COMPRA, JÁ QUE INEXISTEM NOS AUTOS PROVAS NESTE SENTIDO, MORMENTE QUANTO À CIENTIFICAÇÃO DA ADMINISTRADORA DO CARTÃO. ASSIM, MOSTRA-SE IMPRESCINDÍVEL A PARTICIPAÇÃO DA EMPRESA V1 NO POLO PASSIVO DA PRESENTE DEMANDA. VERIFICA-SE DOS AUTOS QUE SE TRATA DE PROCESSO EM QUE HÁ LITISCONSÓRCIO PASSIVO NECESSÁRIO. ASSIM, POR NÃO ESTAR PRESENTE NO POLO PASSIVO DA PRESENTE DEMANDA A EMPRESA V1, ENTENDO PELA EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO.
+(7).
+RECURSO CONHECIDO E PROVIDO
+. PROCESSO EXTINTO SEM JULGAMENTO DO MÉRITO, NA FORMA DO ART. 485, IV DO CPC.
+
+SEM CUSTAS E HONORÁRIOS, POR FORÇA DE LEI.
+
+SALÉZIA TEIXEIRA DOS SANTOS
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
