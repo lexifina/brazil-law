@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. ESCRITURA PÚBLICA. RESCISÃO. INADIMPLÊNCIA. VENDEDOR. CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ARTS. 26 E 27 DA LEI Nº 9.514/1997. INAPLICABILIDADE. MORA DA CONSTRUTORA. SÚMULAS NºS 5 E 7/STJ.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que a existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+2. Alterar as conclusões do acórdão, para afastar o entendimento de que houve mora da empresa agravante, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial.
+3 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SWISS PARK BRASÍLIA INCORPORADORA LTDA. contra a decisão que conheceu do agravo para não conhecer do recurso especial em razão da aplicação da Súmula nº 83/STJ.
+Nas suas razões, a agravante postula a reforma da decisão atacada argumentando que não houve mora da empresa, mas, sim, adimplemento substancial da obrigação, motivo pelo qual a rescisão do contrato deve observar os arts. 26 e 27 Lei nº 9.514/1997.
+Afirma, ainda, que não se trata de promessa de compra e venda, tendo as partes firmado escritura pública definitiva com alienação fiduciária de compra do lote.
+Impugnação apresentada (e-STJ fls. 1.689/1.696).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. ESCRITURA PÚBLICA. RESCISÃO. INADIMPLÊNCIA. VENDEDOR. CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ARTS. 26 E 27 DA LEI Nº 9.514/1997. INAPLICABILIDADE. MORA DA CONSTRUTORA. SÚMULAS NºS 5 E 7/STJ.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que a existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+2. Alterar as conclusões do acórdão, para afastar o entendimento de que houve mora da empresa agravante, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial.
+3 . Agravo interno não provido.
+VOTO
+A irresignação não merece prosperar.
+Na hipótese, o tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..) tenho por suficientemente comprovado o descumprimento da obrigação acessória de conclusão das obras de infraestrutura adjacentes ao imóvel adquirido pelo autor, o que constitui motivo suficiente para o decreto de rescisão contratual, como também já decidiu esta Corte de Justiça,(..).
+(..)
+Destarte, assegura-se ao autor a devolução integral dos valores pagos- sem a retenção de qualquer percentual pela ré -, com correção monetária desde o efetivo desembolso e juros de mora a contar da citação, por se tratar de obrigação contratual" (e-STJ fls. 1.523 e 1.532).
+Nas razões do recurso especial, a agravante defendeu não ser possível a rescisão do negócio celebrado por se tratar de contrato de compra e venda com alienação fiduciária, devidamente registrado por meio de escritura pública.
+Entretanto, esta Corte Superior firmou entendimento no sentido de que a existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário, como no caso dos autos.
+Inafastável, portanto, a aplicação da Súmula nº 568/STJ.
+A propósito :
+"RECURSO ESPECIAL. DIREITO CIVI L. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. REGISTRO. ESCRITURA PÚBLICA. INADIMPLÊNCIA. VENDEDOR. CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ESTADO ANTERIOR. RETORNO. PARCELAS PAGAS. DEVOLUÇÃO TOTAL. ARTS. 26 E 27 DA LEI Nº 9.514/1997. INAPLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O registro em cartório de escritura pública de compra e venda com pacto adjeto de alienação fiduciária não obsta o direito à resolução por inadimplemento fundado no artigo 475 do Código Civil.
+3. A existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts. 26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+4. As razões que levam ao não provimento do recurso especial pela alínea "a" também afetam a análise pela alínea "c" do permissivo constitucional. Precedentes.
+5. Recurso especial conhecido e não provido" (REsp 1.848.385/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/5/2021, DJe 20/5/2021).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE TERRENO. ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. DESFAZIMENTO CONTRATUAL. INDICAÇÃO GENÉRICA DE OFENSA AOS ARTS. 1.022 DO NCPC E 1.245 DO CC/02. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. EXISTÊNCIA DE FUNDAMENTO INATACADO SUFICIENTE PARA MANTER A DECISÃO. SÚMULA Nº 283 DO STF. VIOLAÇÃO DOS ARTS. 26 E 27 DA LEI Nº 9.514/97. INOCORRÊNCIA. MORA DA RÉ CONFIGURADA. INCIDÊNCIA DO CDC. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o recorrente apenas menciona genericamente, nas suas razões recursais, o dispositivo supostamente tido por violado, sem ter particularizado os pontos em que, de fato, teria havido afrontas praticadas pela decisão hostilizada, incide, por analogia, a Súmula nº 284 do STF.
+3. A subsistência de fundamento inatacado, apto a manter as conclusões do acórdão impugnado, impõe o reconhecimento da incidência da Súmula nº 283 STF, por analogia.
+4. A Lei nº 9.514/97 estabelece procedimento específico para a consolidação da propriedade em nome do credor fiduciário e posterior alienação do imóvel em leilão público, nas situações de inadimplemento ou desistência imotivada do devedor fiduciante (arts. 26 e 27). No caso vertente, o suposto inadimplemento é atribuído à incorporadora ré, por não ter cumprido sua obrigação assumida na escritura pública, razão pela qual é admitida a eventual rescisão do contrato celebrado entre as partes, com fundamento nas normas do Código de Defesa do Consumidor.
+5. O entendimento firmando no Tribunal distrital encontra-se em perfeita consonância com a jurisprudência desta Corte, segundo a qual aplicam-se as disposições da Lei 9.514/97 quando o devedor-fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos (AgInt no AREsp 1.432.046/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 17/9/2019, DJe 24/9/2019).
+6. Estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+7. Agravo interno não provido" (AgInt no AREsp 1.757.802/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/4/2021, DJe 22/4/2021 - grifou-se).
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RESCISÃO CONTRATUAL. INADIMPLEMENTO DA VENDEDORA. COMPETÊNCIA. INAPLICABILIDADE DO CDC. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. APLICAÇÃO DA SÚMULA N. 7 DO STJ. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MORA DA CONSTRUTORA. APLICAÇÃO DA LEI N. 9.514/1997 AFASTADA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA. DECISÃO MANTIDA.
+(..)
+4. No caso, para alterar a conclusão do Tribunal de origem, acolhendo a pretensão de descaracterizar a relação de consumo entre as partes e, por consequência, afastar as disposições do CDC, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+5. "Aplicam-se as disposições da Lei 9.514/97 quando o devedor-fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos" (AgInt no AREsp n. 1.432.046/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019). Incidência da Súmula n. 83/STJ.
+(..)
+7. Agravo interno a que se nega provimento" (AgInt no REsp 1.742.895/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/3/2020, DJe 26/3/2020).
+Ademais, alterar as conclusões do acórdão, para afastar o entendimento de que houve mora da empresa agravante, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial.
+Nesse sentido:
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA N. 284/STF. COMPROMISSO DE COMPRA E VENDA IMOBILIÁRIO. RESCISÃO CONTRATUAL. INADIMPLEMENTO DAS VENDEDORAS. SÚMULAS N. 5 E 7 DO STJ. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MORA DOS ADQUIRENTES. INEXISTÊNCIA. APLICAÇÃO DA LEI N. 9.514/1997. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Conforme o entendimento do Superior Tribunal de Justiça, "é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF" (AgInt no REsp n. 1.772.010/CE, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/9/2019, DJe 21/10/2019), essa é a situação dos autos.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2.1. No caso, a rescisão do contrato, segundo as instâncias ordinárias, decorreu de culpa exclusiva do promitente vendedor, presente o atraso na entrega da obra.
+2.2. Para descaracterizar o atraso na entrega da obra, imputando culpa aos adquirentes pela rescisão contratual e, por conseguinte, possibilitar a aplicação da Lei n. 9.514/1997, em detrimento do CDC, seria preciso reexaminar fatos e provas, inadmissível no âmbito do recurso especial.
+3. Conforme o entendimento desta Corte Superior, aplicam-se as disposições da Lei 9.514/1997 quando o "devedor-fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos" (AgInt no AREsp n. 1.432.046/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019), o que foi observado pela Corte local.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+5. Agravo interno a que se nega provimento".
+(AgInt no AREsp n. 2.536.904/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. COMPROMISSO DE COMPRA E VENDA. INADIMPLEMENTO. CARACTERIZAÇÃO. REEXAME. SÚMULA 5 E 7 DO STJ. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+(..)
+3. Derruir a conclusão a que chegou o Tribunal local, que, com base na análise do arcabouço fático-probatório e no exame das disposições contratuais, concluiu estar caracterizado o inadimplemento da ora agravante, demandaria revolvimento de fatos e provas, bem como a interpretação do instrumento contratual, o que encontra óbice nas súmulas 5 e 7 do STJ.
+(..)
+8. Agravo interno não provido" (AgInt no REsp 1.793.602/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/11/2020, DJe 23/11/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE IMÓVEL. DISPOSITIVO TIDO POR VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. INCIDÊNCIA DO CDC. RELAÇÃO DE CONSUMO. SÚMULAS N. 5 E 7/STJ. EXCLUDENTE DE RESPONSABILIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de dispositivo tido por violado no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Na hipótese dos autos, o acórdão reconheceu, com base em fatos, provas e termos contratuais, a existência de relação de consumo entre os litigantes. No ponto, os agravados seriam destinatários finais do imóvel objeto da avença, o qual sofreu atraso na conclusão das obras. Dessa forma, a aplicação das Súmulas n. 5 e 7/STJ obsta o conhecimento do recurso especial na parte em que busca afastar a aplicabilidade do Código de Defesa do Consumidor.
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Para o acolhimento do recurso quanto à alegação de culpa/responsabilidade pelo inadimplemento contratual, seria imprescindível derruir as conclusões contidas no decisum atacado, o que, forçosamente, demandaria a rediscussão de matéria fática, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior.
+5. Agravo interno improvido" (AgInt no REsp 1.887.951/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/2/2021, DJe 12/2/2021).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
