@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ADVOGADO.  PROCURAÇÃO  OU  SUBSTABELECIMENTO.  AUSÊNCIA.  INTIMAÇÃO.  FALTA  DE  REGULARIZAÇÃO.  SÚMULA  Nº  115/STJ.  JUNTADA  EXTEMPORÂNEA.  PRECLUSÃO.
+1.  Na  hipótese,  a  agravante  não  atendeu,  no  prazo  legal,  ao  despacho  que  determinou  a  apresentação  da  procuração  ,  nos  termos  dos  artigos  76  e  932,  parágrafo  único,  do  Código  de  Processo  Civil.
+2.  O  Superior  Tribunal  de  Justiça  considera  inexistente  o  recurso  no  qual  o  advogado  subscritor  não  possui  procuração  ou  substabelecimento  nos  autos  (Súmula  nº  115/STJ).
+3.  No  caso  concreto,  aplica-se  o  teor  do  artigo  76,  §  2º,  I,  do  CPC,  que  determina  que  o  descumprimento  pela  recorrente  da  intimação  para  sanar  vício  na  representação  processual  acarretará  o  não  conhecimento  do  recurso.
+4.  A  juntada  extemporânea  do  instrumento  de  mandato  não  é  suficiente  para  a  correção  do  vício  na  representação  processual,  em  virtude  da  ocorrência  da  preclusão.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ERICA  LEMOS  RODRIGUES  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  (  e-STJ  fls.  217/218)  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  irregularidade  na  representação  processual  deste  recurso  e  do  apelo  nobre.
+Em  suas  razões,  a  agravante  postula  a  reforma  da  decisão  atacada,  argumentando,  em  síntese,  que  está  regularmente  representada ,  pois  procedeu  a  juntada  da  procuração  nos  autos  à  e-STJ  fl.  11.
+Apresentada  impugnação  às  e-STJ  fls.  239/249.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ADVOGADO.  PROCURAÇÃO  OU  SUBSTABELECIMENTO.  AUSÊNCIA.  INTIMAÇÃO.  FALTA  DE  REGULARIZAÇÃO.  SÚMULA  Nº  115/STJ.  JUNTADA  EXTEMPORÂNEA.  PRECLUSÃO.
+1.  Na  hipótese,  a  agravante  não  atendeu,  no  prazo  legal,  ao  despacho  que  determinou  a  apresentação  da  procuração  ,  nos  termos  dos  artigos  76  e  932,  parágrafo  único,  do  Código  de  Processo  Civil.
+2.  O  Superior  Tribunal  de  Justiça  considera  inexistente  o  recurso  no  qual  o  advogado  subscritor  não  possui  procuração  ou  substabelecimento  nos  autos  (Súmula  nº  115/STJ).
+3.  No  caso  concreto,  aplica-se  o  teor  do  artigo  76,  §  2º,  I,  do  CPC,  que  determina  que  o  descumprimento  pela  recorrente  da  intimação  para  sanar  vício  na  representação  processual  acarretará  o  não  conhecimento  do  recurso.
+4.  A  juntada  extemporânea  do  instrumento  de  mandato  não  é  suficiente  para  a  correção  do  vício  na  representação  processual,  em  virtude  da  ocorrência  da  preclusão.
+5.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De  fato,  na  presente  hipótese,  há  deficiência  na  representação  processual  da  advogada  signatária  do  agravo  e  do  recurso  especial,  Dra.  Solange  Lemos  Rodrigues.
+Diante  da  falha  na  representação  processual,  a  agravante  foi  intimada  para,  no  prazo  de  5  (cinco)  dias,  sanar  a  irregularidade  (e-STJ  fl.  211).
+Entretanto,  mesmo  tendo  sido  regularmente  intimada  para  efetuar  o  saneamento,  quedou-se  inerte,  somente  vindo  a  se  manifestar  após  o  não  conhecimento  do  recurso.
+Assim,  ante  o  descumprimento  da  determinação  prevista  nos  artigos  76  e  932,  parágrafo  único,  do  Código  de  Processo  Civil,  incide  a  Súmula  nº  115/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL  (CPC/2015).  PROCURAÇÃO.  AUSÊNCIA.  SÚMULA  Nº  115/STJ.  JUNTADA  EXTEMPORÂNEA.  IMPOSSIBILIDADE.  AUSÊNCIA  DE  FUNDAMENTOS  QUE  JUSTIFIQUEM  A  ALTERAÇÃO  DA  DECISÃO  RECORRIDA.  AGRAVO  INTERNO  DESPROVIDO"  (AgInt  no  AREsp  1.415.457/SP,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  Terceira  Turma,  julgado  em  2/9/2019,  DJe  5/9/2019).
+"PROCESSUAL  CIV  IL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  EMBARGOS  DE  DECLARAÇÃO  ACOLHIDOS.  MÉRITO  DO  AGRAVO  INTERNO.  AUSÊNCIA  DE  PROCURAÇÃO.  INTIMAÇÃO  PARA  REGULARIZAÇÃO.  DESCUMPRIMENTO.  ACÓRDÃO  RECORRIDO  PUBLICADO  NA  VIGÊNCIA  DO  CPC/2015.  DECISÃO  AGRAVADA  MANTIDA.
+1.  Os  embargos  de  declaração  são  cabíveis  quando  houver  na  decisão  obscuridade,  contradição,  omissão  ou  erro  material,  consoante  dispõe  o  art.  1.022  do  CPC/2015.
+2.  No  caso,  houve  omissão,  sanada  nesta  oportunidade,  prosseguindo-se  na  análise  do  mérito  do  agravo  interno.
+3.  Conforme  prevê  o  art.  76,  §  2º,  I,  do  CPC/2015,  não  se  conhece  do  recurso  quando  a  parte  recorrente,  apesar  de  intimada,  deixa  de  sanar  vício  na  representação  processual  no  prazo  estabelecido.
+4.  Embargos  de  declaração  acolhidos  para  sanar  o  vício  apontado,  negando-se  provimento  ao  agravo  interno"  (EDcl  no  AgInt  no  AREsp  1.813.296/RS,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  9/8/2021,  DJe  13/8/2021).
+Convém  ressaltar  que  é  insuficiente  para  a  correção  do  vício  o  documento  de  e-STJ  fl.  11,  porquanto  se  encontra  ilegível,  e  não  é  possível  o  conhecimento  da  procuração  juntada  à  e-STJ  fl.  221  em  virtude  da  ocorrência  da  preclusão.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DUPLICIDADE  DE  RECURSOS  PELA  MESMA  PARTE  CONTRA  A  MESMA  DECISÃO.  NÃO  CONHECIMENTO  DO  SEGUNDO  RECURSO.  PRINCÍPIO  DA  UNIRRECORRIBILIDADE.  AUSÊNCIA  DE  PROCURAÇÃO  DO  SUBSCRITOR  DO  AGRAVO  E  DO  RECURSO  ESPECIAL.  INTIMAÇÃO  PARA  REGULARIZAÇÃO.  INCIDÊNCIA  DO  ENUNCIADO  DA  SÚMULA  115/STJ.  APRESENTAÇÃO  DE  NOVO  INSTRUMENTO  DE  MANDATO.  PRECLUSÃO.  ART.  1.017,  §  5º,  DO  CPC/2015.  INAPLICÁVEL.  PRIMEIRO  AGRAVO  INTERNO  DESPROVIDO  E  NÃO  CONHECIDO  O  SEGUNDO.
+1.  O  princípio  da  unirrecorribilidade  e  da  ocorrência  da  preclusão  consumativa  impedem  a  interposição  de  mais  de  um  recurso  contra  a  mesma  decisão  judicial.
+2.  Consoante  o  art.  76,  §  2º,  I,  c/c  o  art.  932,  parágrafo  único,  do  CPC/2015,  não  se  conhece  do  recurso  interposto  por  advogado  sem  procuração  dos  autos.  Hipótese  em  que  a  parte  recorrente,  instada  a  regularizar  a  representação  processual,  não  o  faz  no  prazo  estabelecido.  Incidência  do  enunciado  n.  115  da  Súmula  do  Superior  Tribunal  de  Justiça.
+3.  Não  se  conhece  do  documento  apresentado  à  fls.  147  (e-STJ)  porque  "a  juntada  extemporânea  do  instrumento  de  representação  não  é  bastante  para  corrigir  a  deficiência  processual,  visto  que  ocorrida  preclusão  temporal"  (AgInt  no  REsp  n.  2.089.326/PR,  Relator  o  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  29/4/2024,  DJe  de  2/5/2024).
+4.  A  disposição  do  art.  228,  §  2º,  do  CPC/2015,  ao  estabelecer  que  nos  autos  eletrônicos  a  juntada  de  petições  ou  de  manifestações  em  geral  ocorrerá  de  forma  automática,  independentemente  de  ato  de  serventuário  da  justiça,  visa  a  agilizar  e  a  tornar  mais  eficiente  o  trâmite  processual,  evitando  atrasos  decorrentes  de  intervenções  manuais.  Contudo,  essa  automação  não  dispensa  a  representação  por  procuração  do  advogado,  de  forma  que  a  tecnologia  facilita  o  procedimento,  mas  a  conformidade  jurídica  e  a  devida  representação  permanecem  indispensáveis.
+5.  Esta  Corte  Superior  entende  que  "a  dispensa  da  juntada  de  procuração  em  processos  eletrônicos,  prevista  no  art.  1.017,  §  5º,  do  CPC/2015,  não  se  estende  ao  recurso  especial  ou  ao  agravo,  visto  que  o  referido  dispositivo  é  direcionado  apenas  à  classe  agravo  de  instrumento"  (AgInt  no  AREsp  n.  2.404.741/SP,  Relator  o  Ministro  Humberto  Martins,  Terceira  Turma,  julgado  em  13/5/2024,  DJe  de  15/5/2024).
+6.  Negado  provimento  ao  agravo  interno  de  fls.  445-456  (e-STJ)  e  não  conhecido  o  de  fls.  458-469  (e-STJ)"  (AgInt  no  AREsp  2.518.035/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  24/6/2024,  DJe  de  28/6/2024  -  grifou-se)
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DECISÃO  DA  PRESIDÊNCIA  DO  STJ.  RECURSO  INTERPOSTO  SEM  PROCURAÇÃO  CONFERINDO  PODERES  A  QUEM  SUBSCREVEU  O  RECURSO  ESPECIAL.  SÚMULA  Nº  115  DO  STJ.  INCIDÊNCIA.  JUNTADA  EXTEMPORÂNEA.  IMPOSSIBILIDADE.  PRECLUSÃO  TEMPORAL.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Nos  termos  do  entendimento  do  STJ,  verificando-se  inexistentes  instrumento  de  mandato  e  respectiva  cadeia  de  substabelecimento  outorgando  poderes  ao  subscritor  de  recurso  para  a  instância  superior,  nos  termos  dos  arts.  76  e  932,  parágrafo  único,  do  CPC,  a  parte  deverá  ser  intimada  para  regularizar  a  representação  processual,  sob  pena  de  não  conhecimento  do  apelo,  nos  termos  da  Súmula  nº  115/STJ.
+2.  A  juntada  extemporânea  do  instrumento  de  representação  não  é  bastante  para  corrigir  a  deficiência  processual,  visto  que  ocorrida  preclusão  temporal.
+3.  Agravo  interno  não  provido"  (AgInt  no  REsp  2.089.326/PR,  Rel.  Ministro  MOURA  RIBEIRO ,  Terceira  Turma,  julgado  em  29/4/2024,  DJe  de  2/5/2024)
+Nesse  contexto,  aplica-se  o  teor  do  artigo  76,  §  2º,  I,  do  Código  de  Processo  Civil,  o  qual  determina  que  o  descumprimento  pela  recorrente  da  intimação  para  sanar  vício  na  representação  processual  acarretará  o  não  conhecimento  do  recurso,  motivo  pelo  qual  deve  ser  mantida  a  decisão  agravada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
