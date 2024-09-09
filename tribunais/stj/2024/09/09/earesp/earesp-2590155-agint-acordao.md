@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1.A ausência de enfrentamento, pelo Tribunal de origem, do conteúdo normativo dos dispositivos apontados como violados, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. Segundo a jurisprudência desta Corte Superior, o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, somente será admitido quando no recurso especial se indicar a violação ao art. 1.022 do CPC/2015 e for reconhecida a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de instância facultada pelo dispositivo de lei.
+2. O mero não conhecimento ou improcedência do agravo interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, a qual não é cabível no caso, já que não se verificou conduta abusiva ou protelatória imputável à agravante.
+3. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não se configurou na espécie.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por CONSTRUTORA CANADÁ LTDA., contra decisão monocrática da Presidência desta Corte, acostada às fls. 526/528, e-STJ, que conheceu do agravo para não conhecer do recurso especial.
+O apelo nobre objetivou reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 1075/1077, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. TAXAS CONDOMINIAIS. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA NÃO SUJEITA À PRECLUSÃO. PRAZO QUINQUENAL. ÔNUS DA PROVA. FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR NÃO DEMONSTRADO. PROVAS DOCUMENTAIS SUFICIENTES PARA AMPARAR AS ALEGAÇÕES DA PARTE AUTORA. SENTENÇA PARCIALMENTE MODIFICADA.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 366/376, e-STJ).
+Nas razões do recurso especial (fls. 388/404 e-STJ), a agravante sustentou, em síntese, violação dos arts. 24 da Lei n. 4.591/64 e 1.350 do CC, pois a origem dos débitos cobrados pela parte adversa não teria sido comprovada, uma vez que não instruiu o feito com as indispensáveis atas das assembleias e com a convenção do condomínio.
+Contrarrazões às fls. 476/482 e-STJ.
+O apelo nobre foi inadmitido na origem (fls. 1487/489, e-STJ), dando ensejo à interposição do agravo previsto no artigo 1.042 do CPC/15 (fls. 493/508, e-STJ).
+Contraminuta às fls. 513/521, e-STJ.
+Em decisão monocrática (fls. 526/528, e-STJ), foi conhecido o agravo para não conhecer do recurso especial, ante a incidência da Súmula 211/STJ (ausência de prequestionamento).
+Daí o presente agravo interno (fls. 532/547, e-STJ), no qual a insurgente pugna pelo conhecimento do reclamo, refutando o fundamento aplicado, pois opôs embargos declaratórios na origem objetivando o prequestionamento da matéria.
+Impugnação às fls. 551/564, e-STJ, com pedido de aplicação da multa prevista no art.1021, § 4º do CPC e de multa por litigância de má-fé.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1.A ausência de enfrentamento, pelo Tribunal de origem, do conteúdo normativo dos dispositivos apontados como violados, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. Segundo a jurisprudência desta Corte Superior, o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, somente será admitido quando no recurso especial se indicar a violação ao art. 1.022 do CPC/2015 e for reconhecida a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de instância facultada pelo dispositivo de lei.
+2. O mero não conhecimento ou improcedência do agravo interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, a qual não é cabível no caso, já que não se verificou conduta abusiva ou protelatória imputável à agravante.
+3. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não se configurou na espécie.
+4. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada.
+1. Consoante assentado na decisão singular recorrida, o acórdão não se manifestou sobre o conteúdo normativo dos dispositivos legais indicados como violados no recurso especial.
+A alegada necessidade de juntada das atas de assembleias para demonstrar a origem das despesas condominiais objeto da ação de cobrança foi enfrentada pelo Tribunal apenas sob a ótica da "comprovação ou não dos fatos narrados na exordial, ou seja, do próprio fato constitutivo do direito do autor, e, em um segundo, pela demonstração dos fatos impeditivos, extintivos e modificativos alegados pela ré", tendo concluído que:
+(..) a parte autora, CONDOMÍNIO COMFORT HOUSE, ciente do ônus probatório que lhe foi destinado por força do artigo 373, inciso I, do Código de Processo Civil, colacionou ao feito provas robustas para confirmar a natureza do débito vindicado, enquanto que a parte ré, ora apelante, CONSTRUTORA CANADÁ, deixou de comprovar o pagamento das taxas condominiais questionadas.
+(..)
+A planilha de débitos discriminando detalhadamente os valores cobrados faz prova da dívida e, por conseguinte, ésuficiente para instruir o pedido formulado na inicial, cabendo à parte adversa desconstituí-la, nos termos do artigo 373, inciso II,do Código de Processo Civil. Nesse contexto, apenas a prova de quitação dos débitos condominiais livraria a empresademandada da condenação firmada em primeiro grau de jurisdição.
+Desta feita, vejo que o demandante/apelado logrou êxito em pormenorizar o débito oriundo da relação obrigacionalentre os litigantes, carreou, ademais, provas documentais contundentes do direito alegado.
+Embora a agravante tenha oposto embargos declaratórios, foram eles rejeitados, sem que a Corte local se manifestasse sobre o tema. Persistindo a omissão, como no presente caso, e sendo relevante, no seu entender, para a solução da controvérsia, deveria a insurgente ter apontado, nas razões do recurso especial, afronta ao art. 1.022 do CPC/2015, sob pena de perseverar o óbice da ausência de prequestionamento, providência a que se furtou.
+A respeito: "Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC."(AgInt no AREsp n. 2.332.076/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+Assim, a tese versada no apelo nobre não foi devidamente prequestionada, sendo inafastável a aplicação do óbice da Súmula n. 211 do STJ.
+2. Em relação ao pleito de aplicação da multa recursal, formulado em impugnação ao agravo interno, a Segunda Seção desta Corte Superior firmou o entendimento de que a sanção prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016).
+No mesmo sentido, precedentes desta Corte: EDcl no AgInt no AREsp 647.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/10/2017; EDcl no AgInt nos EDcl no REsp 1327956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 24/10/2017.
+No caso em tela, embora o agravo interno não tenha logrado êxito, não se verificou o intuito meramente protelatório, senão a utilização de recurso cabível à impugnação da deliberação que foi desfavorável à agravante, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC/15.
+Igualmente incabível o pedido de aplicação da pena por litigância de má-fé, a qual se configura quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios (AgInt no REsp n. 2.077.630/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024), o que não ocorreu na espécie.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
