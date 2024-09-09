@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. RECURSO INTERPOSTO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL QUE SE INSURGE CONTRA NOVA DECISÃO PROFERIDA PELO JUÍZO DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. DESCUMPRIMENTO DE DECISÃO PROFERIDA POR ESTA CORTE. VIA INADEQUADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O presente recurso não deve ser conhecido, pois foi interposto por advogado sem procuração nos autos e não impugnou os fundamentos da decisão agravada, mas sim a nova decisão proferida pelo Juízo de primeiro grau, a qual, sequer foi objeto de recurso perante o Tribunal de origem.
+2. Ainda que se considere que o presente recurso se insurja contra o descumprimento da decisão proferida por esta Corte, melhor sorte não socorre o paciente, isso, porque, nos termos da orientação deste Tribunal, "não se conhece de writ que trata de descumprimento de decisão judicial, pois a alegação deve ser dirimida mediante Reclamação" (HC 306.138/PR, relator o Ministro Jorge Mussi, Quinta Turma, julgado em 20/10/2016, DJe de 26/10/2016).
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida -se de agravo regimental interposto por EDSON APARECIDO CANTAGESSI contra a decisão, por mim proferida, que concedeu parcialmente a ordem "para determinar ao Juízo da execução que reaprecie o pedido de concessão de livramento condicional desconsiderando a necessidade de o apenado passar pelo regime semiaberto antes de ser agraciado com o livramento condicional e fatos antigos, observando, contudo, os requisitos exigidos pelo art. 83 do Código Penal" (e-STJ fl. 159).
+No presente recurso, o agravante alega que após a decisão agravada, o Juízo de primeiro grau proferiu nova decisão, "no entanto, descumpriu a ordem parcialmente concedida" (e-STJ fl. 167), pois "considerou a falta antiga e não se absteve em analisar o pedido de livramento condicional com base nos requisitos exigidos no artigo 83 do CP tal como determinado" (e-STJ fl. 169).
+Sustenta que "a r. decisão que concedeu parcialmente a ordem com a respeitosa vênia não se mostrou adequada em face da nova decisão ora proferida que não considerou a decisão de Vossa Excelência" (e-STJ fl. 172).
+Por isso, requer a reconsideração da decisão agravada ou o provimento do agravo regimental pelo colegiado a fim de que seja concedido o livramento condicional.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso ou, caso conhecido, pelo seu desprovimento (e-STJ fls. 178/182).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. RECURSO INTERPOSTO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL QUE SE INSURGE CONTRA NOVA DECISÃO PROFERIDA PELO JUÍZO DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. DESCUMPRIMENTO DE DECISÃO PROFERIDA POR ESTA CORTE. VIA INADEQUADA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O presente recurso não deve ser conhecido, pois foi interposto por advogado sem procuração nos autos e não impugnou os fundamentos da decisão agravada, mas sim a nova decisão proferida pelo Juízo de primeiro grau, a qual, sequer foi objeto de recurso perante o Tribunal de origem.
+2. Ainda que se considere que o presente recurso se insurja contra o descumprimento da decisão proferida por esta Corte, melhor sorte não socorre o paciente, isso, porque, nos termos da orientação deste Tribunal, "não se conhece de writ que trata de descumprimento de decisão judicial, pois a alegação deve ser dirimida mediante Reclamação" (HC 306.138/PR, relator o Ministro Jorge Mussi, Quinta Turma, julgado em 20/10/2016, DJe de 26/10/2016).
+3. Agravo regimental não conhecido.
+VOTO
+O presente recurso não deve ser conhecido, pois, como ressaltado pelo Ministério Público Federal em suas contrarrazões (e-STJ fls. 178/182), foi interposto por advogado sem procuração nos autos e não impugnou os fundamentos da decisão agravada, mas sim a nova decisão proferida pelo Juízo de primeiro grau, a qual, sequer foi objeto de recurso perante o Tribunal de origem. Dessa forma, qualquer manifestação dessa Corte quanto essa nova decisão consistiria em indevida supressão de instância.
+Por fim, cumpre-me ressaltar que, ainda que se considere que o presente recurso se insurja contra o descumprimento da decisão proferida por esta Corte, melhor sorte não socorre o paciente, isso, porque, nos termos da orientação deste Tribunal, "não se conhece de writ que trata de descumprimento de decisão judicial, pois a alegação deve ser dirimida mediante Reclamação" (HC 306.138/PR, relator o Ministro Jorge Mussi, Quinta Turma, julgado em 20/10/2016, DJe de 26/10/2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCUMPRIMENTO DE DECISÃO DO STJ. VIA INADEQUADA. REITERAÇÃO. PEDIDO DE RECONHECIMENTO DE PRESCRIÇÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. "A reclamação é o meio cabível para se buscar a preservação da competência das Cortes Julgadoras, bem como a autoridade de suas decisões, caso haja descumprimento de determinação judicial, ou cumprimento em desacordo com os limites do julgado." (HC n. 14.727/RJ, relator Ministro Gilson Dipp, Quinta Turma, julgado em 7/6/2001, DJ de 27/8/2001, p. 358).
+2. Inviável a apreciação de questão já examinada por esta Corte Superior em procedimento anterior diante da evidente reiteração de pedido.
+3. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o anterior exame da pretensão defensiva pelas instâncias ordinárias constitui requisito indispensável para sua análise nesta instância, mesmo quando suscitada questão de ordem pública.
+4. Agravo regimental desprovido.
+(AgRg no HC 815.503/SP, relator o Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/08/2023, DJe de 16/08/2023, grifos acrescidos).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. NOVA DECRETAÇÃO DA PRISÃO PREVENTIVA APÓS A CONCESSÃO DA ORDEM PELA SEXTA TURMA DO STJ. PRERROGATIVA INSCULPIDA NO DISPOSITIVO DO ACÓRDÃO ORA INVOCADO PELA DEFESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Sexta Turma do STJ concedeu parcialmente a ordem, para tornar sem efeito o decreto de prisão, ressaltando, todavia, que a concessão da ordem se dava "sem prejuízo da possibilidade de nova decretação da prisão preventiva, se concretamente demonstrada sua necessidade cautelar, ou de imposição de medida alternativa, nos termos do art. 319 do CPP".
+2. O Juízo de Direito decretou novamente a preventiva, utilizando-se da prerrogativa insculpida no dispositivo do acórdão ora invocado pela defesa.
+3. Se a defesa entende que a nova decisão desafia a autoridade da decisão proferida nestes autos, tem a faculdade de ajuizar reclamação, nos termos do Regimento Interno do Superior Tribunal de Justiça.
+4. Agravo regimental não provido (AgRg no HC 507.051/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/02/2020, DJe 13/02/2020, grifei).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
