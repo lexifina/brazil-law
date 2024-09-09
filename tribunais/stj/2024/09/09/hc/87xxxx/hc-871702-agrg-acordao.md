@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. ABSOLVIÇÃO. WRIT SUBSTITUTIVO DE RECURSO. FLAGRANTE ILEGALIDADE. POSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. OITIVA DO PARQUET FEDERAL. PRESCINDIBILIDADE. REQUISIÇÃO DE INFORMAÇÕES À AUTORIDADE COATORA. FACULDADE DO RELATOR. DECISÃO MANTIDA.
+1. No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada.
+2. Inicialmente, registro que é pacífica a jurisprudência desta Corte de Justiça quanto à possibilidade de concessão de habeas corpus de ofício quando substitutivo de recurso, no caso de ser constatada ilegalidade flagrante, como é o caso.
+3. Noutro giro, não se faz imprescindível a oitiva do Ministério Público Federal, já que as próprias disposições do Regimento Interno do Superior Tribunal de Justiça, previstas nos arts. 64, III, e 202, permitem o relator decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, quando a decisão for fundamentada em súmula ou com a jurisprudência consolidada dos Tribunais Superiores.
+4. No mais, também é mera faculdade do relator a requisição de informações da autoridade coatora, conforme disposto no art. 662 do Código de Processo Penal, visto que servem para esclarecimento e melhor instrução dos autos. Entendendo o relator a desnecessidade para julgar o caso concreto, não haverá qualquer nulidade no procedimento, aliás, em verdade, gerará um julgamento mais célere, em respeito ao princípio da celeridade, tão caro às partes.
+5. Assim, na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+6. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decisão de minha lavra que concedeu liminarmente a ordem de habeas corpus.
+Consta do processo que o ora agravado foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 1 ano, 6 meses e 20 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 15 dias-multa, pela prática do delito previsto no art. 155 do Código Penal (fls. 151/163).
+A defesa interpôs recurso de apelação, tendo o Tribunal de origem negado provimento ao apelo defensivo (fls. 246/266).
+Neste writ, pede a aplicação do princípio da insignificância, tendo em vista que o bem furtado foi uma peça de carne no valor de R$ 75,95 (fl. 8).
+Requer, assim, a concessão liminar da ordem para absolver o paciente, em razão da atipicidade material da conduta, nos termos do art. 386, III, do CPP, pela incidência do princípio da insignificância (fl. 20).
+Concedi liminarmente a ordem para absolver o paciente (fls. 272/274).
+Neste recurso, alega o Parquet Federal, preliminarmente, a ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o presente writ, pois substitutivo de recurso especial. Aduz que não cabe a concessão da ordem de ofício, diante da ausência de competência. Também aponta que houve violação do contraditório, da ampla defesa e do devido processo legal, pois não foram solicitadas informações à autoridade coatora. Por fim, sustenta a existência de nulidade, diante da não abertura de vista ao Ministério Público Federal para manifestação antes do julgamento.
+Pleiteia, desse modo, seja reconsiderada a decisão monocrática para não conhecer do habeas corpus ou, subsidiariamente, para abrir vista ao Ministério Público Federal. Por fim, caso não reconsiderado, que seja o agravo regimental submetido ao julgamento da Turma para que seja dado provimento ao recurso e reformada a decisão agravada (fls. 280/287).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. ABSOLVIÇÃO. WRIT SUBSTITUTIVO DE RECURSO. FLAGRANTE ILEGALIDADE. POSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. OITIVA DO PARQUET FEDERAL. PRESCINDIBILIDADE. REQUISIÇÃO DE INFORMAÇÕES À AUTORIDADE COATORA. FACULDADE DO RELATOR. DECISÃO MANTIDA.
+1. No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada.
+2. Inicialmente, registro que é pacífica a jurisprudência desta Corte de Justiça quanto à possibilidade de concessão de habeas corpus de ofício quando substitutivo de recurso, no caso de ser constatada ilegalidade flagrante, como é o caso.
+3. Noutro giro, não se faz imprescindível a oitiva do Ministério Público Federal, já que as próprias disposições do Regimento Interno do Superior Tribunal de Justiça, previstas nos arts. 64, III, e 202, permitem o relator decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, quando a decisão for fundamentada em súmula ou com a jurisprudência consolidada dos Tribunais Superiores.
+4. No mais, também é mera faculdade do relator a requisição de informações da autoridade coatora, conforme disposto no art. 662 do Código de Processo Penal, visto que servem para esclarecimento e melhor instrução dos autos. Entendendo o relator a desnecessidade para julgar o caso concreto, não haverá qualquer nulidade no procedimento, aliás, em verdade, gerará um julgamento mais célere, em respeito ao princípio da celeridade, tão caro às partes.
+5. Assim, na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+6. Agravo regimental desprovido.
+VOTO
+A irresignação defensiva não prospera.
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada.
+Inicialmente, registro que é pacífica a jurisprudência desta Corte de Justiça quanto à possibilidade de concessão de habeas corpus de ofício quando substitutivo de recurso, no caso de ser constatada ilegalidade flagrante, como é o caso:
+ ..
+1. Consoante orientação do Superior Tribunal de Justiça " o  habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 899.996/SC, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 29/5/2024).
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 869.957/BA, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024)
+Noutro giro, não se faz imprescindível a oitiva do Ministério Público Federal, já que as próprias disposições do Regimento Interno do Superior Tribunal de Justiça, previstas nos arts. 64, III, e 202, permitem o relator decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, quando a decisão for fundamentada em súmula ou com a jurisprudência consolidada dos Tribunais Superiores.
+A propósito:
+ ..
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, "Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica" (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+ ..
+8. Agravo regimental do MPF não provido.
+(AgRg no HC n. 802.339/SP, ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023)
+No mais, também é mera faculdade do relator a requisição de informações da autoridade coatora, conforme disposto no art. 662 do Código de Processo Penal, visto que servem para esclarecimento e melhor instrução dos autos. Entendendo o relator a desnecessidade para julgar o caso concreto, não haverá qualquer nulidade no procedimento, aliás, em verdade, gerará um julgamento mais célere, em respeito ao princípio da celeridade, tão caro às partes.
+A propósito, trago à baila recente precedente julgado pela Sexta Turma do STJ, o qual afastou exatamente todas as questões preliminares trazidas pelo Ministério Público Federal no presente agravo regimental, vejamos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. HC SUBSTITUTIVO DE RECURSO PRÓPRIO. MANIFESTA ILEGALIDADE. CONHECIMENTO DE OFÍCIO. CONCESSÃO DO WRIT LIMINARMENTE. ART. 34, VIII E XX, DO RISTJ. ACÓRDÃO IMPUGNADO MANIFESTAMENTE CONTRÁRIO À JURISPRUDÊNCIA DO STJ. POSSIBILIDADE. VISTA AO MINISTÉRIO PÚBLICO E INFORMAÇÕES DA AUTORIDADE COATORA. PRESCINDIBILIDADE. OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. DESNECESSIDADE.
+1. Conforme a jurisprudência desta Corte, "na hipótese do manejo do habeas corpus como substitutivo de recurso próprio, não há empecilho ao conhecimento do writ ou, ainda, à apreciação da questão de ofício, no caso de reconhecimento de flagrante ilegalidade, abuso de poder ou teratologia, como na espécie, que prescinde o exame de provas ou de dilação fático-probatória." (AgRg no HC n. 665.313/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/8/2021, DJe de 18/8/2021).
+2. Nos termos do arts. 34, VIII e XX, do RISTJ, é atribuição do relator decidir liminarmente a pretensão contrária a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante acerca do tema.
+3. As normas que prevêem a abertura de vista ao Parquet não obstam que o relator, em observância ao princípio da celeridade processual, julgue liminarmente a pretensão posta no writ quando o acórdão impugnado for manifestamente contrário à jurisprudência dominante do Superior Tribunal de Justiça, bem como o pedido de informações é mera faculdade do relator do habeas corpus, conforme o disposto no art. 662 do CPP.
+4. Não há ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental, após a devida intimação do Parquet.
+5. O habeas corpus foi deferido liminarmente em razão de ter sido constatada, de plano, manifesta ilegalidade no decreto prisional, tendo em vista a ausência de fundamentação concreta idônea para demonstrar o risco causado pelo estado de liberdade do acusado, apreciando-se a observância dos arts. 312 e 315 do CPP, sem a necessidade de incursão do material fático-probatório colhido nos autos.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 826.815/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024 )
+Por fim, quanto ao mérito propriamente dito, que gerou a concessão liminarmente da ordem de habeas corpus, o Parquet Federal não teceu qualquer consideração, não se insurgindo quanto à decisão.
+De toda forma, apenas para melhor esclarecimento, reitero as razões por mim lançadas na decisão, as quais passam a fazer também parte integrante deste voto (fls. 273/274):
+O acórdão impugnado negou a aplicação do princípio da insignificância, tendo em vista que, no caso dos autos, tem-se que o grau de reprovabilidade da conduta do réu não é reduzido e sua periculosidade social não é irrelevante, porquanto é reincidente e tem demostrado verdadeira habitualidade delitiva, em flagrante desrespeito ao convívio em sociedade e às normas vigentes (fl. 249).
+De feito, a posição majoritária desta Corte Superior é a de que a reincidência, por si só, não afasta a aplicação do princípio da insignificância, devendo esse elemento ser sopesado junto com as demais circunstâncias fáticas, admitindo-se a incidência do aludido princípio ao reincidente em situações excepcionais.
+ ..
+Ocorre que, no presente caso, o réu chegou a furtar 1 peça de picanha, avaliada em R$ 75,95 (setenta e cinco reais e noventa e cinco centavos), bem esse devidamente restituído à vítima, circunstâncias tais que autorizam a incidência do princípio da insignificância, a despeito da reincidência.
+Ante o exposto, concedo liminarmente a ordem para absolver o paciente nos autos da Ação Penal n. 0704064-38.2022.8.07.0012, nos termos do art. 386, III, do Código de Processo Penal.
+Assim, na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exp osto, nego provimento ao agravo regimental.
