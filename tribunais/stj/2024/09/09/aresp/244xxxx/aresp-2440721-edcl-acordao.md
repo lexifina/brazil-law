@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição, vícios inexistentes no acórdão embargado.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face de acórdão com a seguinte ementa:
+AGRAVO INTERNO. CONTRATO DE LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. ALEGADA INÉPTA DA PETIÇÃO INICIAL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA (SÚMULA 182/STJ). NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+4. As razões do agravo interno, ademais, não fazem impugnação específica aos fundamentos da decisão agravada, o que atrai a incidência do verbete nº 182 da Súmula do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante alega omissão em relação à (in)existência de denúncia vazia e quanto aos danos decorrentes da perda da chance de participar de processos licitatórios.
+Sem impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição, vícios inexistentes no acórdão embargado.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+3. Embargos de declaração rejeitados.
+VOTO
+Não se verifica a ocorrência de omissão, contradição, nem obscuridade,
+Em verdade, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado.
+As matérias cujo exame a parte embargante reputa omisso não foram conhecidas em razão da deficiência das razões do recurso especial, uma vez que não houve indicação de quais dispositivos infraconstitucionais teriam sido violados pelo acórdão local nas razões do especial.
+Como indicado pelo acórdão embargado, a ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+Embora a solução prestigiada não corresponda à desejada pela parte embargante, essa circunstância não eiva o acórdão de nulidade.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+No presente recurso, busca-se, expressamente, a alteração do julgado por via sabidamente inadequada, na medida em que os embargos de declaração são recurso de fundamentação vinculada, adstrito à correção dos vícios acima elencados ou, ainda, de erro material.
+Nesse sentido, confira-se o seguinte julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. A contradição que autoriza o manejo dos embargos de declaração é a interna, ou seja, aquela verificada sempre que existirem no decisum embargado proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra.
+3. No caso concreto, não se constatam o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1251891/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
