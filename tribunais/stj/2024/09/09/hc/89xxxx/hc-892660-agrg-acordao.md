@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (84,83 G DE CRACK). DOSIMETRIA. TERCEIRA FASE. PRIVILÉGIO (ART. 33, § 4º, DA LEI N. 11.343/2006). MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando verificada a utilização indevida da via eleita para revisar condenação transitada em julgado, o que afasta a competência desta Corte Superior para análise do pleito.
+2. Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar concessão da ordem de ofício, pois a pretensão recursal - aplicação da causa de diminuição da pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) - nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental (Petição n. 146.725/2024 ), tempestivo, interposto por Maique Gregory Alves Vieira contra a decisão da lavra deste Relator (fls. 254/255) em que indeferi liminarmente a inicial, a seguir ementada (fl. 255):
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS (84,83 G DE CRACK). DOSIMETRIA. TERCEIRA FASE. PRIVILÉGIO (ART. 33, § 4º, DA LEI N. 11.343/2006). MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
+Ratifica o agravante, em síntese, os argumentos da impetração - constrangimento ilegal na dosimetria da pena imposta, na terceira fase, por negativa de aplicação da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) e na fixação do regime inicial fechado - e postula, então, o deferimento do PEDIDO LIMINAR, mediante a retratação da respeitável decisão ora guerreada, com a posterior manutenção da decisão liminar, via de consequência, o provimento desse Agravo Regimental (fl. 267).
+Indeferido o pedido liminar no agravo regimental (fls. 271/272), o Ministério Público Federal opinou pela manutenção da inadmissibilidade da impetração com o consequente desprovimento do Agravo Regimental (fls. 280/281):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MANUTENÇÃO DA DECISÃO LIMINAR. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. ARTIGO 33, §4º, DA LEI 11.343/06. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM: SUPRESSÃO DE INSTÂNCIA. PARECER PELO DESPROVIMENTO.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (84,83 G DE CRACK). DOSIMETRIA. TERCEIRA FASE. PRIVILÉGIO (ART. 33, § 4º, DA LEI N. 11.343/2006). MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando verificada a utilização indevida da via eleita para revisar condenação transitada em julgado, o que afasta a competência desta Corte Superior para análise do pleito.
+2. Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar concessão da ordem de ofício, pois a pretensão recursal - aplicação da causa de diminuição da pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) - nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+3. Agravo regimental improvido.
+VOTO
+A decisão repreendida - que indeferiu liminarmente a impetração, mantendo a condenação do agravante por tráfico de drogas (84,83 g de crack - fl. 14) a 5 anos e 10 meses de reclusão, em regime inicial fechado, e a 583 dias-multa, proferida na Ação Penal n. 0034355-03.2021.8.13.0183 (fls. 22/28, da 3ª Vara Criminal e da Infância e da Juventude da comarca de Conselheiro Lafaiete/MG) - não comporta reparos.
+Primeiro, por se tratar da utilização indevida da via eleita para revisar a condenação transitada em julgado em 22/11/2023 (conforme informações do endereço eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a subsidiar concessão da ordem de ofício, pois a pretensão recursal - aplicação da causa de diminuição da pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) - nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado - o qual fez simples menção de inexistência de causa de diminuição da pena: na terceira fase, à mingua de causas de aumento e de diminuição de penas, a reprimenda se concretiza em 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa (fl. 19) -, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, nego provimento ao agravo regimental.
