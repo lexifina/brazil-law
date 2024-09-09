@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME INICIAL. CIRCUNST ANCIAS JUDICIAIS DESFAVORÁVEIS. REGIME MAIS GRAVOSO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente a impetração substitutiva de recurso próprio e deixou de conceder a ordem de ofício, uma vez que ausente qualquer ilegalidade na fixação do regime inicial fechado considerando a existência de circunstancias judiciais desfavoráveis. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto por FABRICIO ADRIAN LIMA MUNIS em face de decisão de fls. 1.661/1.664 que indeferiu liminarmente a impetração substitutiva de recurso próprio e deixou de conceder a ordem de ofício, uma vez que ausente qualquer ilegalidade na na fixação do regime inicial fechado mediante os seguintes termos:
+"Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de FABRICIO ADRIAN LIMA MUNIS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ no julgamento do HC n. 010408-92.2023.8.16.0173.
+Extrai-se dos autos que o paciente foi condenado em primeira instância pela prática do crime de tráfico de drogas, às penas de 5 anos, 2 meses e 15 dias de reclusão, em regime inicial fechado, e 15 dias-multa.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão que restou assim ementado:
+"DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. APELAÇÃO CRIMINAL. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. 1. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO ACOLHIMENTO. COMPROVAÇÃO DE DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. DADOS CONSTANTES EM APARELHO CELULAR. CONVERSAS MANTIDAS VIA APLICATIVO WHATSAPP. TRANSAÇÕES DE CRACK E COCAÍNA. CONDIÇÃO DE FORNECEDOR PARA TRAFICANTES MENORES. 2. ABRANDAMENTO DO REGIME PRISIONAL. IMPOSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL NEGATIVA (QUANTIDADE ENATUREZA DA DROGA) PERMITE A FIXAÇÃO DE REGIME INICIALFECHADO. 3. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADEPOR RESTRITIVAS DE DIREITOS. INVIABILIDADE. PENA SUPERIOR A 04 (QUATRO) ANOS E CIRCUNSTÂNCIA JUDICIALDESFAVORÁVEL. 4. RECURSO CONHECIDO E NÃO PROVIDO" (fl. 331).
+No presente writ, a defesa sustenta, em síntese, que o paciente preenche todos os requisitos necessários à fixação do regime inicial semiaberto e, consequentemente, à prisão domiciliar.
+Requer, em liminar e no mérito, a fixação do regime inicial semiaberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Esta Corte Superior firmou jurisprudência no sentido de que, atendidos os requisitos constantes do art. 33, § 2º c/c o art. 59 do Código Penal - primariedade, condenação por um não período superior a 8 anos e circunstâncias judiciais totalmente favoráveis com a fixação da pena-base no mínimo legal -, deve o sentenciado iniciar o cumprimento da pena privativa de liberdade no regime prisional semiaberto. Tal entendimento encontra-se, inclusive, sumulado, conforme se depreende das Súmulas n. 718 e 719, do Supremo Tribunal Federal, e n. 440, do Superior Tribunal de Justiça.
+Compulsando os autos, verifica-se que as instâncias ordinárias reconheceram a existência de circunstâncias judiciais desfavoráveis que justificaram, inclusive, a fixação da pena-base acima do mínimo legal.
+Desse modo, as instâncias ordinárias não divergiram da jurisprudência dominante nesta Corte Superior no sentido de que, ainda que se trate de paciente primário condenado à pena não superior a 8 anos, é correta a fixação do regime inicial semiaberto quando as circunstâncias judiciais não forem totalmente favoráveis.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA INFERIOR A 8 ANOS. REGIME FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em relação ao regime inicial de cumprimento de pena, conforme o disposto no art. 33, § 3º, do Código Penal, a sua fixação pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no art. 59 do mesmo diploma legal.
+2. Considerando a existência de circunstância judicial desfavorável utilizada para exasperar a pena-base - apreensão de 300,065 kg (trezentos quilogramas e sessenta e cinco gramas) de maconha -, o regime mais gravoso sequente, qual seja, o fechado, mostra-se adequado ao caso, nos termos do art. 33, § 3º, do Código Penal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 855.441/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE APLICAÇÃO DO GRAU MÁXIMO DE DIMINUIÇÃO DE PENA PREVISTO PARA O TRÁFICO PRIVILEGIADO. ELEMENTO CONCRETO A JUSTIFICAR A MODULAÇÃO. APLICAÇÃO DO REGIME INICIAL SEMIABERTO FUNDAMENTADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NÃO RECOMENDÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, para a fixação do percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, o magistrado deve levar em consideração as circunstâncias do caso, bem como as demais circunstâncias judiciais do art. 59 do Código Penal, ante a ausência de indicação das balizas pelo legislador para a definição do quantum de diminuição.
+III - In casu, o acórdão impugnado estabeleceu a fração de 1/3 (um terço) para causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas, aduzindo que a fração esta justificada, em razão das circunstâncias da contratação para o transporte. Na espécie, o paciente foi contrato para sair de seu Estado - Maranhão - e ir até a cidade de Campo Grande, em Mato Grosso do Sul, para levar a carga de 22 tabletes de maconha, os quais seriam transportados novamente para o seu Estado por meio de transporte rodoviário comum de passageiros - ônibus de carreira. De mais a mais, anoto inexistir bis in idem, porquanto a quantidade de droga apreendida utilizada na primeira fase não foi usada na terceira fase. Portanto, está devidamente justificada a fração adota pela Corte originária.
+IV - Regime inicial. No caso, há circunstância judicial desfavorável. Tal situação, a despeito do quantum de pena aplicado, conduz à aplicação do modo inicial semiaberto, nos termo do art. 33, §§ 2º, "c", 3º, e art. 59, ambos do Código Penal.
+V - Substituição da pena privativa de liberdade por restritiva de direitos. Esta Corte Superior de Justiça tem decidido que a quantidade da droga apreendida pode, associadas aos demais elementos constantes do processo, interferir na possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos.
+Na hipótese em análise, a natureza e a quantidade da droga apreendida - 19,268 Kg de maconha - não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante o disposto no art. 44, inciso III, do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 857.367/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se."
+No presente agravo, a defesa insiste na alegação de que na "decisão ora agravada, o douto Presidente do Superior Tribunal de Justiça entendeu que não pode decidir antes da instancia inferior prolatar uma decisão definitiva, deixando de verificar que toda prisão deve ser revista pelos Tribunais Superiores. Menciona a argumentação abstrata" (fl. 1.673).
+Afirma que "Houve violação direta de normas constitucionais e preceitos constitucionais, os quais, por si só, demonstram a repercussão geral da matéria, vez que transcendem os interesses subjetivos do Agravante, pois demonstram o sacrifício do devido processo legal e a violação de direito individuais e coletivos, comprometendo a segurança jurídica e o próprio Estado de Direito. 13. No Recurso de Habeas Corpus o Agravante requereu que fosse sanada a prisão ilegal, pois ao despachar a liminar o digno julgador não apreciou os pedidos relacionados à manutenção da prisão ilegal" (fl. 1.693) .
+Requer o provimento do recurso e a concessão da ordem de habeas corpus nos termos da inicial.
+O Ministério Público Federal - MPF manifestou-se pelo desprovimento do agravo regimental, conforme parecer de fls. 1.883/1.884.
+É o breve relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME INICIAL. CIRCUNST ANCIAS JUDICIAIS DESFAVORÁVEIS. REGIME MAIS GRAVOSO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente a impetração substitutiva de recurso próprio e deixou de conceder a ordem de ofício, uma vez que ausente qualquer ilegalidade na fixação do regime inicial fechado considerando a existência de circunstancias judiciais desfavoráveis. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo não comporta conhecimento.
+Os fundamentos apresentados na decisão agravada no sentido de que o reconhecimento de circunstancias judiciais desfavoráveis justificam a fixação de regime inicial mais gravoso, não foram infirmados nas razões do presente recurso, de modo a atrair a incidência da súmula 182 desta Corte, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DE NATUREZA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. REEXAME DE PROVAS. IMPOSSIBILIDADE. MATÉRIA NÃO TRATADA NO DECISUM IMPUGNADO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese vertente, conforme registrado pela Corte de origem, a falta grave foi reconhecida mediante a instauração de processo administrativo disciplinar no qual foram assegurados o contraditório e a ampla defesa ao reeducando.
+2. Em sede de habeas corpus, inviável afastar os fundamentos fáticos apontados pelas instâncias ordinárias para o reconhecimento da gravidade da infração e/ou sua absolvição, pois demandaria o reexame de matéria fático-probatória.
+3. Além do mais, no que tange à alegação de que uma testemunha presencial do fato apurado no PAD, apesar de tempestivamente arrolada e qualificada, não foi ouvida, ressalte-se que tal matéria não foi tratada no decisum impugnado, o que atrai a aplicação da Súmula 182 desta Superior Corte de Justiça: É inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+4. Agravo regimental não provido.
+(AgRg no HC 370.647/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/2/2018, DJe 27/2/2018.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SE CONHECER DA IMPETRAÇÃO. FUNDAMENTO NÃO IMPUGNADO. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE REALIZADO DE ACORDO COM O ART. 42 DA LEI N. 11.343/2006.
+1. O fundamento utilizado para não se conhecer do habeas corpus, a supressão de instância, não foi impugnado nas razões do agravo regimental, atraindo a aplicação da Súmula n. 182 desta Corte.
+2. Ademais, vale consignar que não se faz evidente a ilegalidade no estabelecimento da pena-base, uma vez que sua exasperação decorreu da avaliação da grande quantidade de droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006.3. Agravo regimental desprovido.
+(AgRg no HC 644.335/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/4/2021, DJe 28/4/2021)..
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
