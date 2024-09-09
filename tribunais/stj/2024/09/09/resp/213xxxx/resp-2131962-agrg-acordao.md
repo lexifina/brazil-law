@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra decisão de minha relatoria em que neguei provimento ao recurso especial (e-STJ, fls. 724-727).
+Em suas razões recursais, o agravante sustenta que a modulação da fração do tráfico privilegiado deve ser em 1/6 diante da reconhecida condição de mula do tráfico do agravado. Elucida que não se trata de considerar a natureza e a quantidade de drogas em duas fases da dosimetria, mas que, enquanto mula, o agente realiza etapa fundamental no transporte das drogas, sem o qual a narcotraficância é frustada.
+Argumenta que, não obstante inexista previsão legal de aplicação da fração mínima às mulas do tráfico, há jurisprudência pacificada em ambas as Turmas da Terceira Seção nesse sentido.
+Por fim, aduz que não é possível a aplicação da Súmula 7/STJ para negar provimento ao recurso, uma vez que ultrapassada a etapa de admissibilidade.
+Portanto, requer a reconsideração da decisão agravada ou a submissão do agravo ao crivo do Colegiado.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. REDUTOR DO §4º, ART. 33, DA LEI N. 11.343/2006 APLICADO EM 2/3. FUNDAMENTAÇÃO IDÔNEA. PLEITO MINISTERIAL DE ALTERAÇÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal a quo entendeu pela aplicação do redutor do tráfico privilegiado em 2/3, uma vez que a natureza e a quantidade de drogas já haviam sido valoradas na primeira fase de dosimetria, o que está em consonância com a jurisprudência pacífica desta Corte Superior.
+2. Inexiste ilegalidade na fixação de patamar máximo pelo Tribunal de origem, pois o Magistrado ordinário, dentro de sua discricionariedade motivada, pode concluir que a conduta do agente merece menor reprovabilidade e, assim, conceder-lhe tratamento mais benéfico, como ocorreu no caso . No mais, reformar a conclusão obtida pelo Tribunal Estadual demandaria incursão no acervo fático-probatório dos autos, inviável nesta via especial por óbice da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+VOTO
+Não obstante os argumentos expendidos pelo agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada, razão pela qual a mantenho por seus próprios fundamentos.
+O legislador, ao editar a Lei n. 11.343/2006, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, aquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o traficante habitual.
+Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Nessa linha, a jurisprudência desta Corte Superior firmou-se no sentido de que, isoladamente consideradas, a natureza e a quantidade do entorpecente apreendido, por si sós, não são suficientes para embasar conclusão acerca da presença das referidas condições obstativas e, assim, afastar o reconhecimento da minorante do tráfico privilegiado (AgRg no REsp n. 1.687.969/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/3/2018).
+Sobre o tema, extrai-se do acórdão de embargos de declaração:
+"Não há incoerência interna no julgado.
+Ao decidir pelo reconhecimento do tráfico privilegiado na fração máxima de 2/3 (dois terços) a favor do ora embargado, este Colegiado assim ponderou:
+"Suplica a Defesa pela aplicação do benefício previsto no § 4º do art. 33 da Lei n.º 11.343/2006 em sua fração máxima de 2/3 (dois terços), com a consequente redução da pena, sustentando que inexistem provas da dedicação do réu às atividades criminosas ou sua ligação com organização criminosa.
+Com razão.
+A incidência da minorante prevista no § 4º do art. 33 da Lei n.º 11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+Na sentença condenatória, o magistrado singular afastou referida causa de diminuição de pena, figura penal conhecida como tráfico privilegiado, considerando a "quantidade expressiva de droga transportada, cerca de 29 quilos de maconha, evidencia que ele se dedicava nas atividades criminosas do tráfico de drogas, fomentando o comércio ilícito por meio do transporte e distribuição", a despeito de se tratar de réu primário e não reincidente (mov. 137.1).
+Ocorre que, de acordo com a orientação fixada pela Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n.º 1.887.511/SP, a quantidade e a natureza das drogas apreendidas não são circunstâncias que permitem aferir, por si só, o grau de envolvimento do acusado com a criminalidade organizada ou de sua dedicação às atividades delituosas.(..)
+Ademais, no RE n.º 666.334/AM, julgado pelo Supremo Tribunal Federal em regime de repercussão geral, consolidou-se a Tese n.º 712, no sentido de que os vetores "natureza e quantidade de entorpecentes" não podem ser utilizados em duas fases da dosimetria da pena, o que se observa in casu e configura indevido bis in idem.
+(..)
+Em razão da quantidade de substância entorpecente ter sido considerada na primeira etapa do cálculo da pena, não há possibilidade sequer de modular a fração de 2/3 (dois terços). A esse respeito, o seguinte julgado do Superior Tribunal de Justiça: "a quantidade de entorpecente deve ser levada em consideração na primeira fase da dosimetria penal e não pode ser o único fundamento utilizado para negar a causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, podendo, no entanto, legitimar a modulação da fração, desde que já não tenha sido considerada na primeira etapa do cálculo da pena" (HC n.º 709.541/SC, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 19/04/2022, DJe 25/04/2022).
+Desse modo, diante da consolidação jurisprudencial, a causa de diminuição deve incidir no grau máximo na espécie, pois não há outras circunstâncias aptas a justificar a fixação de outra fração.
+A condição de "mula" ou o fato de ter efetuado o transporte de entorpecentes (ainda que entre Estados da Federação), isoladamente, não impede a incidência da minorante do art. 33, § 4º, da Lei n.º 11.343/2006, haja vista ser insuficiente para comprovar a dedicação do apelante em atividades criminosas.
+(..)
+Assim, verificado o atendimento dos requisitos do art. 33, § 4º, da Lei n.º 11.343/2006, reduzo a pena em 2/3 (dois terços) (..)".
+Como se nota, a motivação desta Corte amparou-se no fato de que considerar a expressiva quantidade de drogas transportada para aumentar a pena-base e utilizá-la, como único fundamento, para negar a minorante do tráfico privilegiado configura bis in idem, sendo, portando, a redutora aplicável ao réu primário sem outras circunstâncias negativas. A mera condição de transportador, por si só, não impede a incidência da benesse legal." (e-STJ, fls. 642-643; destaquei.)
+Conforme se observa, o Tribunal a quo entendeu pela aplicação do redutor do tráfico privilegiado em 2/3, uma vez que a natureza e a quantidade de drogas já haviam sido valoradas na primeira fase de dosimetria, o que está em consonância com a jurisprudência pacífica desta Corte Superior.
+Inexiste ilegalidade na fixação de patamar máximo pelo Tribunal de origem, pois o Magistrado ordinário, dentro de sua discricionariedade motivada, pode concluir que a conduta do agente merece menor reprovabilidade e, assim, conceder-lhe tratamento mais benéfico, como ocorreu in casu.
+No mais, reformar a conclusão obtida pelo Tribunal Estadual demandaria incursão no acervo fático-probatório dos autos, inviável nesta via especial por óbice da Súmula 7/STJ.
+Corroboram:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º DA LEI 11.343/2006. MULA. QUANTIDADE DA DROGA UTILIZADA NA PRIMEIRA E TERCEIRA FASES DA DOSIMETRIA PARA MODULAR A FRAÇÃO REDUTORA. BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A condição de mula, isoladamente considerada, sem a colação de fundamentos concretos que indiquem a vinculação dos agravados com a organização criminosa, não é condição obrigatória para a imposição da fração de redução de pena em patamar diverso do máximo permitido, (ut, AgRg nos EDcl no REsp n. 2.004.090/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+2. No caso concreto, a quantidade da droga apreendida foi utilizada na primeira fase, não podendo ser utilizada novamente na terceira fase para modular a fração redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, sob pena de bis in idem.
+3. Agravo não provido."
+(AgRg no REsp 2131957 / PR, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/06/2024, DJe 17/06/2024.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. MINORANTE DO TRÁFICO PRIVILEGIADO FIXADA NO PATAMAR MÁXIMO FUNDAMENTADAMENTE. PLEITO DE APLICAÇÃO DA FRAÇÃO MÍNIMA ANTE A CONDIÇÃO DE MULA. ILEGALIDADE NÃO EVIDENCIADA. AUSÊNCIA DE PREVISÃO LEGAL. APLICAÇÃO DO PRINCÍPIO DA PROPORCIONALIDADE MOTIVADA. REVISÃO. SÚMULA 7/STJ.
+1. Nos termos da orientação jurisprudencial desta Corte, "a revisão da dosimetria da pena somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios" (HC 304.083/PR, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+2. Ainda que a qualidade de "mula", associada a outros elementos, possa evidenciar que o agente se dedica a atividades criminosas ou integra organização criminosa, a ensejar tanto a afastamento da minorante, como justificar a fixação de fração aquém da máxima legal de 2/3, inexiste ilegalidade a ser sanada na via do especial, na fixação da fração máxima pelas instâncias ordinárias, tendo em vista não apenas a ausência de previsão legal para se considerar tal fator como critério obrigatório para justificar menor redução, bem assim à luz do princípio da discricionariedade motivada.
+3. Ademais, a pretendida revisão do julgado, com vistas à alteração da fração redutora, fixada fundamentadamente pelas instâncias ordinárias, não se coaduna com a via especial, a teor da Súmula 7/STJ.
+4. Agravo regimental improvido."
+(AgRg no AREsp 1882395/PR, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/03/2022, DJe 21/03/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
