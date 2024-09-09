@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO. EXECUÇÃO PENAL. REMIÇÃO PELO TRABALHO. ATIVIDADE ATESTADA PELO ESTABELECIMENTO PRISIONAL. CONSTATAÇÃO DO CARÁTER RESSOCIALIZADOR PELO JUÍZO DAS EXECUÇÕES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. As razões trazidas no regimental não são suficientes para infirmar a decisão gravada, devendo ser mantida por seus próprios fundamentos.
+2. A autoridade administrativa da unidade prisional, a quem compete a supervisão sobre a regularidade do trabalho, emitiu o AET, cabendo, assim, a remição da pena, visto que devidamente comprovado o trabalho exercido pelo réu.
+3. Esta Corte, em recentes julgados, vem flexibilizando as regras previstas do art. 126 da LEP a fim de se reconhecer a remição pela leitura, pelo estudo por conta própria e por tarefas de artesanato, não sendo, portanto, razoável que se afaste a remição da pena por atividade laboral devidamente reconhecida pelo estabelecimento prisional - representante de galeria -, sob pena de se inviabilizar o benefício para apenados que estejam encarcerados em unidades sem outras atividades laborais (REsp n. 1.804.266/RS, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 25/6/2019) - (AgRg no HC n. 870.002/RS, Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe 28/2/2024).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto Ministério Público do Rio Grande do Sul contra a decisão por mim proferida em que concedi liminarmente a ordem de habeas corpus, nos termos da seguinte ementa (fl. 377):
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO TRABALHO. PLANTÃO DE GALERIA. ATIVIDADE ATESTADA PELO ESTABELECIMENTO PRISIONAL. POSSIBILIDADE. CONSTATAÇÃO DO CARÁTER RESSOCIALIZADOR. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
+Aqui, o agravante afirma que a decisão do Tribunal de Justiça do Estado do Rio Grande do Sul foi proferida com base na apreciação das peculiaridades do caso, o que levou à conclusão no sentido de que a benesse - remição - foi concedida sem a observância dos requisitos previstos na Lei n. 7.210/1984, porquanto, inexistindo comprovação de efetiva fiscalização do trabalho alegadamente realizado, do cumprimento da jornada exigida ou mesmo de atestado emitido pela casa prisional reconhecendo diretamente esse labor (fl. 388).
+Requer, assim, o provimento do agravo para que seja denegada a ordem, restabelecendo-se a decisão proferida pelo Tribunal local que entendeu pela cassação da decisão do juízo de piso deferitória a remição pelos dias trabalhados como representante de galeria, nos termos da fundamentação (fl. 390).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO. EXECUÇÃO PENAL. REMIÇÃO PELO TRABALHO. ATIVIDADE ATESTADA PELO ESTABELECIMENTO PRISIONAL. CONSTATAÇÃO DO CARÁTER RESSOCIALIZADOR PELO JUÍZO DAS EXECUÇÕES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. As razões trazidas no regimental não são suficientes para infirmar a decisão gravada, devendo ser mantida por seus próprios fundamentos.
+2. A autoridade administrativa da unidade prisional, a quem compete a supervisão sobre a regularidade do trabalho, emitiu o AET, cabendo, assim, a remição da pena, visto que devidamente comprovado o trabalho exercido pelo réu.
+3. Esta Corte, em recentes julgados, vem flexibilizando as regras previstas do art. 126 da LEP a fim de se reconhecer a remição pela leitura, pelo estudo por conta própria e por tarefas de artesanato, não sendo, portanto, razoável que se afaste a remição da pena por atividade laboral devidamente reconhecida pelo estabelecimento prisional - representante de galeria -, sob pena de se inviabilizar o benefício para apenados que estejam encarcerados em unidades sem outras atividades laborais (REsp n. 1.804.266/RS, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 25/6/2019) - (AgRg no HC n. 870.002/RS, Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe 28/2/2024).
+4. Agravo regimental improvido.
+VOTO
+As razões trazidas no regimental não são suficientes para infirmar a decisão agravada, devendo ser mantida por seus próprios fundamentos, os quais ora transcrevo (fl. 378):
+ ..
+O Juízo da execução deferiu a remição sustentando que, considerando que o atestado de trabalho é fornecido pelo estabelecimento prisional, subentende-se que a função de auxiliar de plantão de galeria é desempenhada sob a supervisão dos Agentes Penitenciários, inexistindo óbice à concessão da remição (fl. 280).
+O Tribunal a quo afastou a remição afirmando ser inviável a concessão da remição, somente com base no atestado de efetivo trabalho acostado aos autos (fl. 10).
+Ocorre que esta Corte já decidiu que, tendo a autoridade administrativa da unidade prisional, a quem compete a supervisão sobre a regularidade do trabalho, emitido o Atestado de Efetivo Trabalho (AET), a não concessão do benefício, conforme exaustivamente demonstrado, violaria não só o princípio da legalidade como também o da segurança jurídica e da proteção da confiança (HC n. 460.630/RS, de minha relatoria, Sexta Turma, julgado em 11/4/2019, DJe 26/4/2019).
+Ainda nesse sentido: AgRg no HC n. 870.002/RS, Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe 28/2/2024; e HC n. 692.379/RS, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 28/9/2021, DJe 5/10/2021.
+Ante o exposto, concedo liminarmente a ordem para cassar o acórdão impugnado e, consequentemente, restabelecer a decisão do Juízo da Vara Adjunta de Execuções Criminais da comarca de Bagé/RS (fls. 280/281) que concedeu ao paciente remição da pena pelo trabalho na função de auxiliar de plantão de galeria.
+ ..
+Pois bem, no caso, a autoridade administrativa da unidade prisional, a quem compete a supervisão sobre a regularidade do trabalho, emitiu o AET (fl. 260), cabendo, assim, a remição da pena, visto que devidamente comprovado o trabalho exercido pelo réu.
+Com efeito, esta Corte, em recentes julgados, vem flexibilizando as regras previstas do art. 126 da LEP a fim de se reconhecer a remição pela leitura, pelo estudo por conta própria e por tarefas de artesanato, não sendo, portanto, razoável que se afaste a remição da pena por atividade laboral devidamente reconhecida pelo estabelecimento prisional - representante de galeria -, sob pena de se inviabilizar o benefício para apenados que estejam encarcerados em unidades sem outras atividades laborais (REsp n. 1.804.266/RS, relator o Ministro Nefi Cordeiro, Sexta Turma, DJe de 25/6/2019) - (AgRg no HC n. 870.002/RS, Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/2/2024, DJe 28/2/2024).
+Ante o exposto, nego provimento ao agravo regimental.
