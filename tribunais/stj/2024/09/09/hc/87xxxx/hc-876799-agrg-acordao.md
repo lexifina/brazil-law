@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. DOSIMETRIA. PENA-BASE. NEGATIVAÇÃO DA CULPABILIDADE, DA CONDUTA SOCIAL E DAS CONSEQUÊNCIAS DO CRIME. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+1. Não infirmados especificamente todos fundamentos da decisão recorrida, não pode ser nem conhecida a simples pretensão de reforma (Súmula 182 desta Corte). Precedente.
+2. No caso, quanto ao pleito principal de redução da pena, verifico que o recorrente não infirmou a fundamentação lançada na decisão monocrática, tanto no que se refere à discricionariedade do julgador na aplicação da reprimenda, quanto ao fato de estar devidamente fundamentada a exasperação realizada, a qual, portanto, mantenho na íntegra no presente voto.
+3. Na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão monocrática por seus próprios termos.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Uanderson Freitas de Jesus contra a decisão de minha lavra que não conheceu do habeas corpus.
+Consta do processo que o ora agravante foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 25 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, VI c/c o § 2ºA, I, do Código Penal (fls. 52/54).
+A defesa interpôs recurso de apelação, tendo o Tribunal de origem dado parcial provimento ao apelo para reduzir a pena-base aplicada e reconhecer a menoridade relativa do apelante, fixando-se a reprimenda final em 19 (dezenove) anos, 2 (dois) meses e 12 (doze) dias de reclusão, mantendo-se o regime prisional fechado e os demais termos da sentença recorrida (fls. 123/139).
+Neste writ, requer a defesa a concessão da ordem para reduzir a pena-base do paciente, dada a alegada desproporcionalidade do aumento promovido na origem.
+Foram prestadas informações (fls. 168/173).
+O Ministério Público opinou pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem (fls. 177/182).
+Proferi decisão não conhecendo do writ (fls. 185/188).
+Neste recurso, a defesa alega, inicialmente, que, em se tratando o presente caso de afronta aos arts. 59 e 68, ambos do Código Penal, é cabível a impetração de habeas corpus por representar afronta direta ao direito de locomoção.
+Pleiteia, desse modo, seja reconsiderada a decisão monocrática ou seja o agravo regimental levado a julgamento da Turma para que seja dado provimento ao recurso (fls. 193/210).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. DOSIMETRIA. PENA-BASE. NEGATIVAÇÃO DA CULPABILIDADE, DA CONDUTA SOCIAL E DAS CONSEQUÊNCIAS DO CRIME. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+1. Não infirmados especificamente todos fundamentos da decisão recorrida, não pode ser nem conhecida a simples pretensão de reforma (Súmula 182 desta Corte). Precedente.
+2. No caso, quanto ao pleito principal de redução da pena, verifico que o recorrente não infirmou a fundamentação lançada na decisão monocrática, tanto no que se refere à discricionariedade do julgador na aplicação da reprimenda, quanto ao fato de estar devidamente fundamentada a exasperação realizada, a qual, portanto, mantenho na íntegra no presente voto.
+3. Na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão monocrática por seus próprios termos.
+4. Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica de todos os fundamentos do decisum combatido.
+Quanto ao pleito principal, de redução da pena, verifico que o recorrente não infirmou a fundamentação lançada na decisão monocrática, tanto no que se refere à discricionariedade do julgador na aplicação da reprimenda , quanto ao fato de estar devidamente fundamentada a exasperação realizada, a qual, portanto, mantenho na íntegra no presente voto, vejamos (fls. 186/188):
+Nossos julgados afirmam que a dosimetria da pena é submetida à discricionariedade judicial, cabendo ao Superior Tribunal de Justiça apenas o controle da legalidade. Como já expôs o Ministro Rogerio Schietti Cruz, prevalece o entendimento de que não há a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade. Com efeito, a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa das vetoriais previstas no art. 59 do CP.
+Essa compreensão foi reafirmada pela Sexta Turma, no AgRg no HC n. 773.645/MS, DJe 3/5/2023.
+Na espécie, não há falar em falta de motivação para o aumento da pena-base acima do mínimo legal, mostrando-se proporcional à reprovabilidade e à intensidade das circunstâncias judiciais tidas como desfavoráveis, que, ao que tudo indica, extrapolam as elementares do crime em questão.
+É na mesma linha a opinião do Subprocurador-Geral da República Alexandre Camanho de Assis, cujo parecer, deste teor, também adoto como razão de decidir (fls. 178/181):
+ ..
+A impetração não deve ser conhecida, pois as decisões colegiadas dos Tribunais de Justiça, proferidas em última ou única instância, devem ser impugnadas por meio dos recursos excepcionais, para o Superior Tribunal de Justiça ou para o Supremo Tribunal Federal.
+Se transitadas em julgado, devem ser, eventualmente, modificadas mediante revisão criminal, para a qual o Superior Tribunal de Justiça não tem competência, salvo em relação aos seus próprios julgados. Ressalva-se, evidentemente, a possibilidade de concessão de habeas corpus de ofício, quando há flagrante ilegalidade, circunstância inocorrente na espécie.
+O acusado viu-se condenar à pena de 19 anos, 2 meses e 12 dias de reclusão, em regime fechado, pela prática do crime do artigo 121-§2º- VI e §2º-A -I do Código Penal.
+Ao revisar a pena-base dos crimes de homicídio, o Tribunal de origem manteve a avaliação negativa da culpabilidade, da conduta social e das consequências do crime, reduzindo apenas o aumento promovido em 1º grau.
+Imperioso reforçar que a análise das circunstâncias elencadas no artigo 59 do Código Penal constitui atividade discricionária do juiz vinculada aos critérios legais estabelecidos, de modo que só é cabível a intervenção das instâncias superiores nos casos de flagrante ilegalidade, o que não se vislumbra na espécie.
+Ou seja, a atuação desta Corte em casos que tais limita-se à correção de decisões que se amparem em fundamentação inidônea ou sejam manifestamente desproporcionais, o que não é o caso dos autos.
+No caso, ao revisar a dosimetria, o Tribunal de origem reduziu a pena-base imposta, secundando, contudo, integralmente os fundamentos para a negativação de 3 circunstâncias judiciais.
+Na espécie, valorou-se negativamente a culpabilidade, dada a maior reprovabilidade da conduta, visto que o réu disparou tiros à queima-roupa no peito e na nuca da vítima, após discussão banal com sua companheira; a conduta social, visto que os depoimentos das testemunhas registraram o comportamento predatório do réu contra a ofendida, visto que a cerceava e a constrangia publicamente e exibia-se com armas de fogo, com o intuito de intimidar outras pessoas; e as consequências do crime, visto que duas crianças ficaram órfãs, em razão do agir criminoso do genitor.
+Como se vê, a fundamentação mostra-se adequada para a exasperação da pena-base, vez que transcende os elementos inerentes ao tipo incriminador, anunciando o maior grau de reprovabilidade da conduta perpetrada  STJ, HC 206085/ES, relator o ministro Antônio Saldanha Palheiro, Sexta Turma, DJe de 15.12.2016 .
+Por outro lado, a dosimetria deve ser feita segundo prudente arbítrio do juízo, e o quantum estabelecido, no caso, atende aos critérios de proporcionalidade.
+Certo, o Código Penal não traz critério matemático expresso à dosagem da pena-base; mas, pela discricionariedade juridicamente vinculada, ocorre inobservância do preceito secundário do tipo penal quando são tidas por negativas circunstâncias judiciais e, mesmo assim, a pena-base aproxima-se do mínimo legal.
+Aliás, a jurisprudência desta Corte é justamente no sentido da inaplicabilidade de critérios puramente matemáticos, sendo, inclusive, possível a fixação de pena próxima ao máximo legal em decorrência de uma circunstância judicial negativa, desde que devidamente fundamentada:  .. Quanto à fração utilizada para cada circunstância judicial desfavorável, tampouco assiste razão ao recorrente. O Tribunal de origem fixou a pena-base em 24 anos de reclusão, o que se traduz em patamar próximo a 1/8 para cada circunstância judicial avaliada negativamente, calculados do intervalo entre a pena mínima e a máxima cominadas para o delito.
+Ressalte-se que a jurisprudência permite o aumento da pena base na proporção de 1/6 sobre a pena-mínima ou de 1/8 sobre o intervalo entre as penas mínima e máxima à luz de cada circunstância, não devendo o julgador, contudo, ater-se a critérios puramente matemáticos. Nesse sentido:
+ .. Assim, ausentes ilegalidades quanto à fixação da pena-base.
+Assim, tem incidência o enunciado da Súmula 182/STJ.
+Dessa forma, na ausência de argumento apto a afastar as razões consideradas no julgado agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, não conheço do agravo regimental.
