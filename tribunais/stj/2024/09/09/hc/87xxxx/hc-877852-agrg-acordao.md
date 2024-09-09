@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA A CONCESSÃO LIMINAR DA ORDEM. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+2. Não obstante as relevantes considerações feitas pelas instâncias ordinárias e pelo Ministério Público Federal em seu agravo regimental, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+3. In casu, em que pese a reincidência da paciente, mostra-se desproporcional a medida extrema adotada na origem e confirmada, depois, pelo Tribunal local, sendo suficiente a aplicação de cautelas alternativas, pois o crime imputado não foi cometido com violência ou grave ameaça à pessoa e o caso diz respeito ao suposto tráfico de quantidade não exacerbada de drogas (120 g de maconha).
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão por mim proferida, na qual concedi liminarmente a ordem de habeas corpus para substituir a prisão preventiva de Larissa de Oliveira Ursini pelas medidas cautelares previstas no art. 319, I, II, III, IV e V, do Código de Processo Penal. Esta, a ementa do decisum (fl. 200):
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE 120 G DE MACONHA. PACIENTE REINCIDENTE. EXCEPCIONALIDADE. MEDIDAS CAUTELARES DO ART. 319 DO CPP. ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida liminarmente nos termos do dispositivo.
+Nesta via, o Ministério Público Federal interpõe o presente recurso, sustentando que a decisão que decretou a prisão preventiva está fundamentada em elementos concretos, não existindo constrangimento ilegal capaz de justificar a substituição da prisão por medidas cautelares alternativas.
+Alega que, não obstante se tratar crime praticado sem violência ou grave ameaça contra a pessoa, a quantidade de droga apreendida não é inexpressiva e a paciente, ora agravada, é reincidente específica no tráfico ilícito de drogas (fls. 210).
+Afirma que a agravada estava em cumprimento de pena no momento da prisão em flagrante.
+Requer a retratação da decisão hostilizada e, caso não seja possível, seja o presente regimental provido para que possa ser denegada a ordem do writ e restabelecida a prisão preventiva da agravada.
+Não abri prazo para a agravada se manifestar em contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. INSURGÊNCIA CONTRA A CONCESSÃO LIMINAR DA ORDEM. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+2. Não obstante as relevantes considerações feitas pelas instâncias ordinárias e pelo Ministério Público Federal em seu agravo regimental, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto.
+3. In casu, em que pese a reincidência da paciente, mostra-se desproporcional a medida extrema adotada na origem e confirmada, depois, pelo Tribunal local, sendo suficiente a aplicação de cautelas alternativas, pois o crime imputado não foi cometido com violência ou grave ameaça à pessoa e o caso diz respeito ao suposto tráfico de quantidade não exacerbada de drogas (120 g de maconha).
+4. Agravo regimental improvido.
+VOTO
+A irresignação não merece prosperar.
+Não obstante as relevantes considerações feitas pelas instâncias ordinárias e pelo Ministério Público Federal, no regimental, conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a custódia preventiva deve estar vinculada a fatores reais de cautelaridade, o que, neste caso, não ocorreu. Não ficou demonstrado o periculum libertati s a ponto de justificar a medida extrema da prisão, embora tenha sido destacada a reincidência específica da agravada e a quantidade de droga apreendida (120 g de maconha).
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto; o que, no caso, não ocorreu.
+Com efeito, em que pese a reincidência da paciente, mostra-se desproporcional a medida extrema adotada na origem e confirmada, depois, pelo Tribunal local, sendo suficiente a aplicação de cautelas alternativas, pois o crime imputado não foi cometido com violência ou grave ameaça à pessoa e o caso diz respeito ao suposto tráfico de quantidade não exacerbada de drogas (120 g de maconha).
+Ademais , mostra-se desarrazoado mobilizar uma vaga no sistema carcerário - que se encontra em estado de coisas inconstitucional (ADPF n. 347) -, para acautelar traficante de quantidade não exacerbada de droga e que, aparentemente, não ocupa posição de destaque no tráfico.
+Nessa linha, por exemplo, HC n. 497.636/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2019; HC n. 552.563/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2020; e HC n. 549.564/PR, de minha relatoria, Sexta Turma, DJe 10/6/2020.
+À vista do exposto, nego provimento ao agravo regimental.
