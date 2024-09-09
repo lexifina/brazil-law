@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTS. 489 e 1.022 DO CPC. INEXISTÊNCIA. ACÓRDÃO QUE APRECIOU E FUNDAMENTOU A QUESTÃO ESSENCIAL AO DESLINDE DO PROCESSO. ALEGAÇÃO DE EXTINÇÃO DA EXECUÇÃO EM RAZÃO DE POSTERIOR SENTENÇA ARBITRAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação dos arts. 489 e 1.022 CPC quando o tribunal a quo examina as questões essenciais ao deslinde da demanda e decide, de modo objetivo, claro e motivado, sem incorrer em nenhum dos vícios previstos na referida norma processual e em negativa de prestação jurisdicional.
+2. No caso concreto, a parte recorrente alega que a ação de execução deve ser extinta em razão de posterior sentença arbitral, situação que, contudo, implica reexame fático-probatório dos autos, o que não se admite em sede de recurso especial. Aplicação da Súmula n. 284 do STF.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de recurso de agravo interno interposto por TRANSNEGRELLI TRANSPORTADORA LTDA. e OUTROS em face da decisão de fls. 289-291, que não conheceu do agravo em recurso especial, por falta de impugnação específica de todos os fundamentos da decisão recorrida, em especial a incidência do óbice da Súmula n. 7 do STJ.
+Alegam os agravantes que, nas razões do recurso especial, suscitaram violação dos arts. 489, § 1º, IV e VI, e 1.022, II e parágrafo único, II, do Código de Processo Civil, pois o Tribunal de origem se limitou a fazer referência ao acórdão embargado para justificar a rejeição dos embargos de declaração, sem que fossem cotejadas as situações postas a seu juízo.
+Sustentam que a presente execução deveria ser extinta, porquanto já se reconheceu que o valor executado não é devido pelos ora agravantes, incorrendo o acórdão recorrido em violação dos artigos 783 e 803, I, do CPC.
+Aduzem que a questão é unicamente de direito, não incidindo o disposto na Súmula n. 7 do STJ.
+Requerem, assim, seja conhecido e provido o agravo interno para que seja conhecido o agravo e provido o recurso especial.
+Intimada, a parte contrária não ofereceu impugnação (fl. 304).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTS. 489 e 1.022 DO CPC. INEXISTÊNCIA. ACÓRDÃO QUE APRECIOU E FUNDAMENTOU A QUESTÃO ESSENCIAL AO DESLINDE DO PROCESSO. ALEGAÇÃO DE EXTINÇÃO DA EXECUÇÃO EM RAZÃO DE POSTERIOR SENTENÇA ARBITRAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste violação dos arts. 489 e 1.022 CPC quando o tribunal a quo examina as questões essenciais ao deslinde da demanda e decide, de modo objetivo, claro e motivado, sem incorrer em nenhum dos vícios previstos na referida norma processual e em negativa de prestação jurisdicional.
+2. No caso concreto, a parte recorrente alega que a ação de execução deve ser extinta em razão de posterior sentença arbitral, situação que, contudo, implica reexame fático-probatório dos autos, o que não se admite em sede de recurso especial. Aplicação da Súmula n. 284 do STF.
+3. Agravo interno desprovido.
+VOTO
+A decisão recorrida deverá ser mantida.
+Trata-se de recurso especial interposto com base no art. 105, III, a, da Constituição Federal em face de acórdão proferido pelo TJSP assim ementado:
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE ALEGAÇÃO DE PERDA DE LIQUIDEZ DO TÍTULO EXECUTIVO EM RAZÃO DO DECIDIDO EM PROCEDIMENTO ARBITRAL PARCIAL, DEPENDENTE DE APURAÇÃO EM LIQUIDAÇÃO FATO, PORÉM, QUE NÃO RETIRA A LIQUIDEZ,SENÃO QUE IMPÕE ADEQUAÇÃO OPORTUNA DA EXECUÇÃO EM RAZÃO DE FATO SUPERVENIENTE RECURSO IMPROVIDO.
+Opostos embargos declaratórios, foram rejeitados.
+Em suas razões recursais, os agravantes apontam violação dos 489, § 1º, IV e VI, e 1.022, II e parágrafo único, II, do Código de Processo Civil, e dos arts. 783 e 803, I, do mesmo diploma legal.
+Quanto ao art. 1.022 do CPC, já se decidiu que não há violação quando o tribunal de origem examina as questões essenciais ao deslinde da demanda e decide, de modo objetivo, claro e motivado, sem incorrer em nenhum dos vícios previstos na referida norma processual e em negativa de prestação jurisdicional (AREsp 2503732-SP, de minha relatoria).
+No presente caso, o Tribunal de origem decidiu de forma fundamentada a questão essencial ao deslinde da causa, qual seja, a possibilidade de extinção da ação de execução em face da existência de posterior sentença arbitral, que teve por objeto a repactuação do preço pago pela aquisição das quotas sociais do Grupo Garicanga, consoante se depreende de fls. 27-28:
+Substancialmente, não diferem os embargos do devedor à execução, pelas questões que suscitaram, daquelas objeto do procedimento arbitral, por terem como causa de pedir o alegado descumprimento bilateral de contrato de cessão de quotas sociais, passando pela inexigibilidade do título e, na sequência, já em caráter subsidiário, suposto excesso de execução.
+Assim, a sentença arbitral parcial proferida e mantida após rejeição dos pedidos de esclarecimentos, a ter continuidade para apuração do quanto determinado em seu dispositivo(fls. 993, 1000,1063), por certo haverá de ser considerada como fato superveniente, no que interfere na relação jurídica e contém liame com a causa de pedir, como decorre do art. 493 do CPC (REsp nº 1727063/SP, Rel. Min. Mauro Campbell Marques, Dje 02.12.2019), mas, evidentemente não autoriza extinguir a execução toda, senão adequar-lhe o valor a possível crédito em favor dos executados.
+É antigo o entendimento de que determinação de revisão do contrato não lhe retira a liquidez, apenas impõe adequação da execução às modificações que decorrem da ação revisional (AgRg nos EDcl no REsp 1.210.535/RS, Rel. Min. Ricardo Villas Bôas Cueva, DJe 11.09.14; AgRg no AREsp 337.482/RS, Rel. Min. Paulo de Tarso Sanseverino, DJe 04.09.14; EDcl no AgRg no Ag 1.006.795/RS, Rel. Min. Raul Araújo, DJe 28.06.13;AgRg no AREsp 252.423/MS, Rel. Min. Sidnei Beneti, DJe 29.04.13; EDcl no AREsp 235.393/SE, Rel. Min. Maria Isabel Gallotti, DJe 21.11.12; AgRg no Ag 1.414.469/RS,Rel. Min. Luis Felipe Salomão, DJe 28.08.12; AgRg no REsp 1.235.160/RS, Rel. Min. Herman Benjamin, DJe 12.04.12; AgRg no AgRg no REsp 1.050.178/SC, Rel. Min. Massami Uyeda, DJe 03.12.12; REsp 668.544/PR, Rel. Min. Carlos Alberto Menezes Direito, DJ 30.06.06; AgRg no Ag 680.368/RS, Rel. Min. Fernando Gonçalves, DJ 05.09.05;REsp 593.220/RS, Rel. Min. Nancy Andrighi, DJ 21.02.05;REsp 967.783/PR, Rel. Min. Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 29.04.08; REsp 824.255/MG, Rel. Min. Jorge Scartezzini, DJ 30.10.06;REsp 569.937/RS, Rel. Min. Cesar Asfor Rocha, DJ 25.09.06).
+Pelo exposto, nego provimento ao recurso.
+Portanto, não há que se falar em negativa de vigência dos arts. 489 e 1.022 do CPC.
+No que diz respeito aos arts. 783 e 803, I, do CPC, não há como se apreciar à alegada violação sem se adentrar ao reexame do co njunto fático-probatório dos autos, a fim de se verificar, notadamente, o conteúdo da sentença arbitral e a sua confrontação com o título executivo objeto da cobrança da ação executiva, situação que encontra óbice na Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao recuso de agravo interno.
+É o voto.
