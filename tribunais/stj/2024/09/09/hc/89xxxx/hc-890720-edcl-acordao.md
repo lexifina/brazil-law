@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PEDIDO DE EFEITOS INFRINGENTES EM MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Conforme mencionado no próprio acórdão que deixou de acolher o recurso de agravo regimental, este STJ já analisou de forma devidamente fundamentada os pontos apresentados e, tanto o agravo regimental anterior quanto os presentes embargos, buscaram somente o reexame das matérias anteriormente julgadas.
+III - Na espécie, à conta de vícios no acórdão, pretende o embargante a rediscussão de matéria já apreciada pelo colegiado, o que não se mostra possível. Precedentes.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, em face do acórdão proferido por esta Quinta Turma que negou provimento ao agravo regimental para manter a decisão anterior.
+Nos presentes aclaratórios, o embargante alega que houve omissão no acórdão embargado.
+Sustenta que "não foi abordado o principal ponto trazido no agravo regimental, ainda que para refutá-lo (..) Com efeito, no resumo a respeito do alegado nas razões do agravo regimental, constou que "Nas razões do presente recurso, o agravante aclama que o referido decreto está sendo questionado na ADI (ação direta de inconstitucionalidade) n. 7.330 e na n. 7.390, ambas ajuizadas pelo Procurador-Geral da República no Supremo Tribunal Federal (STF)". Ainda: "O agravante, assim, busca, perante esta Corte Superior, um igual controle de constitucionalidade, ainda que incidenter tantum". Assim, o principal argumento dizia respeito à inconstitucionalidade do artigo 5º do Decreto nº 11.302/2022, que se requereu fosse apreciada de forma incidental, tarefa atribuída a cada juiz ou tribunal, salvo em sede de controle concentrado, ainda que para refutar a tese, para o que não há sequer necessidade de se observar a reserva de plenário" (fl. 170).
+Requer, ao final, o acolhimento do incidente, a fim de que sejam sanados os supostos vícios apontados, com efeitos infringentes, para que seja provido o agravo regimental e afastada a ordem antes concedida.
+Submeto à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PEDIDO DE EFEITOS INFRINGENTES EM MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Conforme mencionado no próprio acórdão que deixou de acolher o recurso de agravo regimental, este STJ já analisou de forma devidamente fundamentada os pontos apresentados e, tanto o agravo regimental anterior quanto os presentes embargos, buscaram somente o reexame das matérias anteriormente julgadas.
+III - Na espécie, à conta de vícios no acórdão, pretende o embargante a rediscussão de matéria já apreciada pelo colegiado, o que não se mostra possível. Precedentes.
+Embargos de declaração rejeitados.
+VOTO
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, o embargante alega que houve omissão no acórdão embargado.
+Conforme mencionado no próprio acórdão que deixou de acolher o recurso de agravo regimental, este STJ já analisou de forma devidamente fundamentada os pontos apresentados e, tanto o agravo regimental anterior quanto os presentes embargos, buscaram somente o reexame das matérias anteriormente julgadas.
+No acordão ora embargado foi ressaltada a impossibilidade de acatamento do pedido aqui reprisado, em especial, pelos motivos que podem ser encontrados de forma resumida na própria ementa de julgamento (fl. 149):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECURSO DO MINISTÉRIO PÚBLICO. PEDIDO INICIAL DE INDULTO DA DEFESA. DECRETO PRESIDENCIAL N. 11.302/2022. INTERPRETAÇÃO DO ART. 5º E DO ART. 11 DA NORMA. CONCESSÃO DA ORDEM NESTE STJ COM BASE NO ENTENDIMENTO ANTERIOR DA TERCEIRA SEÇÃO. JULGAMENTO SUPERVENIENTE DO TEMA PELO STF. REVISÃO DA TESE NO HC N. 890.929/SE POR ESTE STJ. DESNECESSIDADE DE READEQUAÇÃO NO CASO CONCRETO. RECURSO CONHECIDO E DESPROVIDO.
+I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do AgRg no HC n. 856.053/SC, de relatoria do Min. Sebastião Reis Júnior, em sessão datada de 8/11/2023, consolidou o entendimento de que o crime dito impeditivo, nos termos do Decreto Presidencial n. 11.302/2022, se aplicaria apenas na hipótese de concurso de crimes em mesmo contexto processual (material ou formal).
+II - Com a apreciação superveniente do tema, o Supremo Tribunal Federal, por meio de seu Tribunal Pleno, em sessão de julgamento de 21/2/2024, referendou a medida cautelar deferida pelo Min. Luís Roberto Barroso, firmando orientação de que o crime impeditivo do indulto, previsto no Decreto Presidencial n. 11.302/2022, deve ser assim considerado tanto no concurso de crimes quanto em razão da unificação de penas na execução penal.
+III - Por este motivo, a Terceira Seção deste Tribunal Superior reformulou a sua tese sobre o tema, assentando o mesmo posicionamento do STF, quando do julgamento do 890.929/SE, razão pela qual, ainda que modificado o entendimento anterior, o presente recurso merece ser desprovido, já que o agravado não ostenta crime impeditivo.
+Agravo regimental do Ministério Público conhecido e desprovido."
+Na espécie, à conta de vício no acórdão, espera o embargante a rediscussão de matéria já apreciada pelo órgão colegiado, pois, na verdade, o que busca é o reexame de mérito - situação que não se coaduna com a estreita via dos embargos de declaração.
+Nesse sentido: ED cl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Assim, verifica- se que o julgado recorrido não padece de qualquer vício.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
