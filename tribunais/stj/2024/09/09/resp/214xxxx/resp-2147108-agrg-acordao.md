@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MODULAÇÃO DA DATA DO TRÂNSITO EM JULGADO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF.
+1. Inviável o conhecimento de questão não analisada pelo Tribunal de origem, tendo em vista a necessidade de prequestionamento, ainda mais quando ausente a oposição de embargos declaratórios para provocar a manifestação do órgão julgador. Incidência das Súmulas 282 e 356/STF.
+2. Apesar de a prescrição poder ser reconhecida a qualquer tempo, nos termos do art. 61 do CPP, inexistentes, no acórdão recorrido ou na decisão de primeira instância, dados suficientes sobre os marcos interruptivos, inviável o exame da questão nesta Corte , o que não impede eventual reconhecimento no Juízo da execução.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Luis Carlos Vieira contra a decisão de minha relatoria em que o recurso especial foi parcialmente conhecido e, nessa extensão, desprovido , assim ementada (fl. 783):
+VIOLAÇÃO DO ART. 63 DO CP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. PRÁTICA DE NOVO DELITO. INTERRUPÇÃO DA PRESCRIÇÃO. ART. 117, VI, DO CP. PRECEDENTES. MODULAÇÃO DA DATA DO TRÂNSITO EM JULGADO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF.
+Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+Na presente insurgência, a defesa sustenta que, por ser a prescrição matéria de ordem pública, é possível o exame da questão relacionada à modulação da data do trânsito em julgado da sentença como marco para o cálculo da prescrição da pretensão executória, ainda que ausente o prequestionamento.
+Argumenta que, de acordo com o entendimento consolidado junto ao Supremo Tribunal Federal, quando do julgamento do ARE 848.107/RG - Tema 788 -, o que se dera em 30 de junho de 2023, embora se tenha fixado a tese de que "o marco inicial para a contagem do prazo da prescrição da pretensão executória é o trânsito em julgado para ambas as partes", mencionado entendimento sofreu modulações, dentre as quais, a de que sua aplicação não alcançaria as hipóteses em que o trânsito em julgado para o Ministério Público tenha se dado antes de 12 de novembro de 2020 (data da publicação do acórdão em que o Supremo Tribunal Federal entendeu que a pena só pode ser executada após o trânsito em julgado para ambas as partes). No caso dos autos, o trânsito em julgado para o Ministério Público se deu em outubro de 2016, ou seja, antes de novembro de 2020, enquadrando-se, pois, na hipótese de modulação acima mencionada. Assim sendo, o lapso da prescrição da pretensão executória teria se verificado em outubro de 2020. Antes, pois, das invocadas novas práticas delitivas por parte do recorrente, e que teriam se dado em 30 de dezembro de 2020 e 20 de março de 2021 (fl. 795).
+Ao final da peça recursal, requer a reconsideração da decisão impugnada, ou a remessa do agravo para julgamento colegiado, a fim de que o recurso especial seja conhecido e provido.
+Foi dispensada a manifestação do agravado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MODULAÇÃO DA DATA DO TRÂNSITO EM JULGADO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF.
+1. Inviável o conhecimento de questão não analisada pelo Tribunal de origem, tendo em vista a necessidade de prequestionamento, ainda mais quando ausente a oposição de embargos declaratórios para provocar a manifestação do órgão julgador. Incidência das Súmulas 282 e 356/STF.
+2. Apesar de a prescrição poder ser reconhecida a qualquer tempo, nos termos do art. 61 do CPP, inexistentes, no acórdão recorrido ou na decisão de primeira instância, dados suficientes sobre os marcos interruptivos, inviável o exame da questão nesta Corte , o que não impede eventual reconhecimento no Juízo da execução.
+3. Agravo regimental desprovido.
+VOTO
+Os argumentos recursais não são suficientes para infirmar a conclusão do juízo monocrático.
+Conforme consignado na decisão impugnada, a tese relativa à modulação da data do trânsito em julgado da sentença como marco para o cálculo da prescrição da pretensão executória, nos termos da decisão do Supremo Tribunal Federal, no ARE n. 848.107/DF (Tema 788/STF), em sede de repercussão geral, não foi examinada pela Corte de origem nem sequer foram opostos embargos de declaração suscitando a manifestação a respeito da questão.
+Ausente o prequestionamento da tese, inviável o exame do recurso especial nesse ponto, consoante as Súmulas 282 e 356/STF.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. NULIDADES. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. NECESSIDADE DE ALEGAÇÃO EM MOMENTO OPORTUNO E DE DEMONSTRAÇÃO DE PREJUÍZO. INTIMAÇÃO PARA A SESSÃO DE JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. NECESSIDADE. SÚMULAS 282 E 356/STF. NÃO INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA 284/STF. OITIVA DAS TESTEMUNHAS. DEGRAVAÇÃO. DESNECESSIDADE. DISPONIBILIZAÇÃO INTEGRAL ÀS PARTES. ART. 405 DO CPP. OBSERVÂNCIA. RECONHECIMENTO DO PRIVILÉGIO E AFASTAMENTO DA QUALIFICADORA DE MOTIVO FÚTIL. JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. NÃO OCORRÊNCIA. SÚMULA 7/STJ. PENA-BASE. DADOS CONCRETOS. AUMENTO. POSSIBILIDADE. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO IMPROVIDO.
+1. A lei processual penal brasileira adota o princípio pas de nullité sans grief, segundo o qual somente se declara a nulidade se, apontada oportunamente, houver demonstração ou comprovação de efetivo prejuízo à parte.
+2. A tese de nulidade da sessão de julgamento do apelo defensivo, diante da ausência de intimação prévia do advogado constituído, não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração, visando o prequestionamento, indispensável ainda que a matéria seja de ordem pública.
+ ..
+15. Agravo regimental improvido.
+(AgRg no AREsp n. 1.361.583/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/5/2019 - grifo nosso).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO. ESTELIONATO. PENA-BASE. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. No tocante a tese da manifesta violação ao princípio do no bis in idem, na pena-base, não houve manifestação no julgamento do agravo regimental, conforme apontado pela parte embargante, o que se passa a fazer.
+3. A referida questão - ocorrência de bis in idem, ao se valorar negativamente as consequências do delito, com fundamento no mesmo fato que baseou ação penal autônoma contra o réu - não fora objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso a Súmula 282/STF.
+4. Salienta-se que a referida tese foi arguida somente em embargos declaração na origem, deixando o Tribunal local de emitir juízo de valor a seu respeito por se tratar de inovação recursal.
+5. 5. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgRg no REsp n. 2.004.417/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/8/2022 - grifo nosso).
+Além disso, ressalto que, apesar de a prescrição poder ser examinada a qualquer tempo (art. 61 do Código de Processo Penal), não se verificam, no acórdão recorrido ou na decisão de primeira instância, dados suficientes para o reconhecimento requerido pelo agravante, como a data do trânsito em julgado da condenação para o Ministério Público. Veja-se que, enquanto a defesa afirma que teria ocorrido em outubro de 2016, a certidão à fl. 392 indica que ocorreu em 23/10/2017. Constatada tal divergência, inviável o exame da questão nesta Corte, o que não impede eventual reconhecimento da prescrição no Juízo da execução.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ESPECIAL. ANÁLISE DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AUSÊNCIA DE DADOS SUFICIENTES PARA CONSTATAÇÃO DOS MARCOS INTERRUPTIVOS. PLEITO QUE DEVE SER FORMULADO NA PRIMEIRA INSTÂNCIA.
+I - Muito embora a apreciação acerca da extinção da punibilidade seja possível por esta Corte Superior, a teor do art. 61 do CPP, por versar sobre matéria de ordem pública, é inviável a análise de alegação de prescrição da pretensão punitiva, porqu anto, pelos dados apresentados na petição de fls. 42-49 do expediente avulso e contidos nos autos, não é possível inferir, com a certeza necessária e mediante constatação dos marcos interruptivos e respectivas datas, a extinção da punibilidade, devendo o pleito ser formulado perante a instância ordinária.
+II - Sob a sistemática de recursos repetitivos, a Terceira Seção desta Corte Superior firmou o entendimento sintetizado pelo Tema n. 1100: "O acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (REsp n. 1.920.091/RJ, Terceira Seção, Rel. Min. João Otávio de Noronha, DJe de 22/8/2022).
+Agravo regimental desprovido.
+(AgRg na PET no REsp n. 1.919.843/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 27/6/2023 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
