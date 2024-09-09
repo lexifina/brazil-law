@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu o pedido liminar em habeas corpus apresentado na origem.
+Imputa-se ao paciente a prática do crime de integrar organização criminosa (art. 2º, caput, da Lei nº 12.850/13), pois, em um grupo estruturado e com hierarquia estabelecida, para a prática de lavagem de dinheiro e corrupção envolvendo a facção criminosa "comando vermelho", um grupo de empresários de eventos e agentes públicos, o paciente tinha como função administrar diversos empreendimentos utilizados para a realização de condutas de lavagem de dinheiro (e-STJ fls. 78-79).
+Preso preventivamente, o paciente foi submetido a um transplante de córnea.
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois lhe foi negada, liminarmente, a substituição da prisão preventiva por prisão domiciliar tendo em vista a impossibilidade da penitenciária conferir as condições de higiene necessárias para os procedimentos pós-operatórios.
+Ao final, requer a concessão da ordem para que a prisão preventiva seja substituída por prisão domiciliar.
+O Desembargador relator, após ter concedido a medida liminar, destacou que recebeu informações do Magistrado de primeira instância de que a penitenciária tinha condições para realizar os cuidados pós-operatórios ao paciente. Assim afirmou:
+ .. . Ocorre que, após informações da autoridade tida por coatora que estão no ID235861153 e seguintes, ficou claro que os impetrantes omitiram informações recentes de que a Penitenciária Central do Estado tem condições de proporcionar ao paciente todos os cuidados pós-cirúrgicos.
+A propósito, extrai-se do Ofício n. 44/2024/ SESP/DIR/PCE do dia 26 deste mês, as seguintes informações:
+ ..  Pelo presente, a Direção desta Unidade Penal, a fim de informar a atual condição de saúde do apenado o qual neste momento já passou pelo procedimento Cirúrgico de transplante e já se encontra na Unidade Penal.
+Informamos que por questões de saúde e conforme entendimento desta Direção quanto a salubridade e necessidade de reabilitação o apenado em questão está sendo alocado temporariamente no RAIO 8 cela Individual, sendo que este Raio possui um sanitário e pia individual e água corrente 24 horas, ventilação e solário individual.
+Considerando em resposta ao Ofício nº 1003813-40.2022.8.11.0042, com manifestação do setor de Saúde/PCE (anexo), informamos que esta unidade possui condições para realizar os cuidados ao PPL WILIAN APARECIDO DA COSTA .. Destacamos.
+Por sua vez, a autoridade tida por coatora, na peça informativa acima referida afirmou que "o estabelecimento penitenciário comunicou que o réu foi submetido ao transplante de córnea e "alocado temporariamente em cela individual para assegurar a reabilitação em melhores condições de salubridade, tendo retorno para avaliação médica externa no dia 27/08/2024, quando maiores informações sobre o quadro de saúde poderão ser prestadas (Id. 166866566 e 166866571)".
+Em razão das novas ocorrências, este Juízo solicitou à PCE informações acerca da possibilidade de ofertar os cuidados pós-cirúrgicos ao custodiado após a avaliação médica agendada para 27/08/2024 (Id. 166909925)  ..  (e-STJ fls. 21-22 - grifos acrescidos ).
+É o relatório.
+Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022).
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024, de forma suficiente a superar o óbice do referido enunciado sumular.
+Não se constata, então, vício na negativa do pleito liminar em sede monocrática, sendo certo que o revolvimento das questões sustentadas no habeas corpus acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
