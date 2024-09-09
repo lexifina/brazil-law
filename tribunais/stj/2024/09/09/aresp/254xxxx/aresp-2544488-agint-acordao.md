@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/09/2024 a 09/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. IMPROCEDÊNCIA. CUMPRIMENTO DE SENTENÇA. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI N. 911/1969. AUSÊNCIA DE PREVISÃO NO TÍTULO JUDICIAL. INCLUSÃO NOS CÁLCULOS DA EXECUÇÃO. IMPOSSIBILIDADE. FIDELIDADE AO TÍTULO. VIOLAÇÃO À COISA JULGADA. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A sentença que decretar a improcedência da ação de busca e apreensão condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado, caso o bem apreendido já tenha sido alienado (art. 3º, § 6º, do Decreto-Lei n. 911/1969).
+2. A liquidação de sentença e o cumprimento de sentença, entretanto, estão limitados ao exato comando estabelecido no título executivo, sob pena de violação dos princípios da fidelidade ao título e da coisa julgada. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AILTON HILARIO contra a decisão de fls. 171-172, que não conheceu de agravo em recurso especial com fundamento na incidência da Súmula n. 284 do STF.
+O agravante afirma não ser aplicável à espécie o óbice da Súmula n. 284 do STJ, uma vez que expressamente indicado, nas razões do recurso especial, o dispositivo legal que embasa a pretensão recursal, permitindo a exata compreensão da controvérsia.
+No mérito, reitera as razões do recurso especial. Alega violação do art. 3º, § 6º, do Decreto-Lei n. 911/1969, porque atendidos os pressupostos para aplicação da multa devida em razão da indevida alienação, pela instituição financeira, do bem objeto de ação de busca e apreensão que foi julgada improcedente.
+Requer seja reconsiderada a decisão agravada ou seja o agravo submetido ao colegiado.
+Contrarrazões pelo não conhecimento ou pelo desprovimento do recurso (fls. 187-190).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. IMPROCEDÊNCIA. CUMPRIMENTO DE SENTENÇA. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI N. 911/1969. AUSÊNCIA DE PREVISÃO NO TÍTULO JUDICIAL. INCLUSÃO NOS CÁLCULOS DA EXECUÇÃO. IMPOSSIBILIDADE. FIDELIDADE AO TÍTULO. VIOLAÇÃO À COISA JULGADA. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A sentença que decretar a improcedência da ação de busca e apreensão condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado, caso o bem apreendido já tenha sido alienado (art. 3º, § 6º, do Decreto-Lei n. 911/1969).
+2. A liquidação de sentença e o cumprimento de sentença, entretanto, estão limitados ao exato comando estabelecido no título executivo, sob pena de violação dos princípios da fidelidade ao título e da coisa julgada. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Razão assiste à parte agravante.
+As razões do agravo em recurso especial denotam efetiva indicação do dispositivo legal que embasa a pretensão recursal.
+Assim, na forma do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 171-172 e passo a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação não reúne condições de prosperar.
+Trata-se, na origem, de cumprimento de sentença que julgou improcedente ação de busca e apreensão.
+Decisão proferida em primeira instância permitiu a inclusão, nos cálculos da execução, do valor correspondente ao bem, com base na Tabela Fipe, acrescido de 50% do valor financiado, a título de multa (fls. 67-68).
+Interposto agravo de instrumento, o Tribunal de origem deu provimento ao recurso em acórdão assim ementado (fls. 355-356):
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+1. EM FACE DA IMPROCEDÊNCIA DA AÇÃO ORIGINÁRIA DE BUSCA E APREENSÃO É DIREITO DO CONSUMIDOR EM VER-SE RESTITUÍDO NO BEM OU, NA SUA IMPOSSIBILIDADE, NO VALOR DE REFERÊNCIA. ANTE A IMPOSSIBILIDADE DA RESTITUIÇÃO DO VEÍCULO, É DEVER DA INSTITUIÇÃO FINANCEIRA A DEVOLUÇÃO DO EQUIVALENTE AO VALOR DE MERCADO DO BEM CALCULADO PELO VALOR DA TABELA FIPE NA DATA DA ALIENAÇÃO EXTRAJUDICIAL DO MESMO, CORRIGIDOS DESDE ENTÃO.
+2. A MULTA DE 50% PREVISTA NO § 6º DO ART. 3º DO DL 911/69 DEVE SER FIXADA NO MOMENTO DA PROLAÇÃO DA SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO. PEDIDO DE CUMPRIMENTO DE SENTENÇA LIMITADO À DECISÃO TRANSITADA EM JULGADO, SENDO QUE, NO CASO CONCRETO, NÃO É CABÍVEL A APLICAÇÃO DA MULTA. PRECEDENTES.
+AGRAVO DE INSTRUMENTO PROVIDO.
+Sobreveio recurso especial em que se discute a aplicabilidade da multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969.
+De acordo com o procedimento previsto no Decreto-lei n. 911/1969, após a execução da liminar de busca e apreensão do bem o devedor tem o prazo de 5 dias para pagar a integralidade da dívida pendente, oportunidade em que o bem lhe será restituído sem o respectivo ônus (art. 3º, § 2º). Caso, todavia, não efetue o pagamento no prazo legal, haverá a consolidação da propriedade e da posse plena e exclusiva do bem móvel objeto da alienação fiduciária no patrimônio do credor (art. 3º, § 1º). Após a consolidação, o credor estará investido em todos os poderes inerentes à propriedade, podendo, inclusive, vender o bem. Se, contudo, efetivar a venda e a sentença vier a julgar improcedente o pedido, deverá ressarcir os prejuízos que o devedor fiduciante sofrer em razão da perda do bem (art. 3º, § 7º).
+O art. 3º, § 6º, do Decreto-lei n. 911/69, estabelece ainda que a sentença que decretar a improcedência da ação de busca e apreensão e que condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado, caso o bem apreendido já tenha sido alienado (AgInt no AREsp n. 981.558/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/10/2018, DJe de 29/10/2018).
+Entretanto, conforme a jurisprudência desta Corte Superior, a liquidação de sentença e o cumprimento de sentença estão limitados ao exato comando estabelecido no título executivo, sob pena de violação dos princípios da fidelidade ao título e da coisa julgada (AgInt nos EDcl no AREsp n. 1.122.847/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2023, DJe de 27/10/2023.)
+No caso em análise, consoante emerge dos autos, a devolução do veículo objeto da ação de busca e apreensão julgada improcedente mostrou-se inviável em razão da sua alienação, sendo a instituição financeira responsabilizada pela recomposição dos danos experimentados pelo devedor.
+O Tribunal de origem, entretanto, entendeu que não é cabível a incidência da multa de 50% sobre o valor financiado, posto que não fora fixada no título judicial em cumprimento. Confira-se trecho do acórdão proferido no julgamento do agravo de instrumento (fls. 71-73):
+2. O cumprimento de sentença deve ser limitado à decisão transitada em julgado, sendo que, no caso, descabe a aplicação da multa.
+Da análise dos autos observo que a questão acerca da penalidade prevista no art. 3º, §6º do DL 911/69 não foi objeto do recurso de apelação que reformou a sentença e julgou improcedente a ação de busca e apreensão.
+Entendo que somente é cabível a incidência da multa de 50% sobre o valor financiado quando fixada no momento da prolação da sentença de improcedência da demanda, o que não se verifica no presente caso.
+Portanto, não é cabível a incidência da multa de 50% sobre o valor financiado, posto que não fora fixada no momento da prolação da sentença, sendo que a sua aplicação no pedido de cumprimento de sentença contraria a decisão transitada em julgado.
+No julgamento dos embargos de declaração, o Tribunal a quo reforçou a impossibilidade de inclusão da multa nos cálculos de liquidação porque não faz parte do título executivo judicial e não fora postulada no pedido inicial de cumprimento de sentença (fl. 96):
+Frisa-se, mais uma vez, que se trata de um pedido de cumprimento de sentença, ou seja, trata-se de um procedimento de natureza executiva fundado em título executivo judicial.
+Ademais, consoante igualmente esclarecido no acordão embargado, o pedido de aplicação da multa prevista no art. 3º, §6º do DL 911/69, além de não ter sido objeto do recurso de apelação, não fazendo parte, portanto, do título executivo judicial, sequer foi postulado pelo ora embargante, quando peticionou pelo início da fase de cumprimento de sentença.
+Frisa-se, no pedido de cumprimento de sentença, o consumidor limitou-se em pleitear pela cobrança da verba honorária sucumbencial de ambas as demandas, bem como a restituição do bem apreendido, ou, em caso de impossibilidade, pelo depósito do valor correspondente ao bem segundo a Tabela FIPE no dia da apreensão, sob pena de aplicação de astreintes, bem como na conversão da ação em perdas e danos, em resumo (fls. 223-228, dos autos físicos).
+Reprisa-se, a aplicação da multa prevista no art. 3º, §6º do DL 911/69 não faz parte do título executivo judicial, e não fora postulada no pedido de cumprimento de sentença.
+Logo, em que pese as alegações do embargante, entendo que não é cabível a incidência da multa de 50% sobre o valor financiado, posto que não fora fixada no momento da prolação da sentença, sendo que a sua aplicação no pedido de cumprimento de sentença contraria a decisão transitada em julgado.
+Observa-se que o entendimento adotado pelo acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido da possibilidade de imposição da multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969, mas desde que tenha constado na sentença que decretou a improcedência da busca e preensão, o que, como visto, não ocorreu no caso dos autos, atraindo, no ponto, a aplicação da Súmula n. 83 do STJ.
+Nesse sentido: AgInt no REsp n. 1.826.748/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022; AgInt no AREsp n. 1.819.338/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.
+Assim, como a sentença em cumprimento foi omissa a respeito da aplicação da multa, é inviável a sua inclusão nos cálculos da execução, ressalvada a possibilidade de ajuizamento de ação autônoma para eventual definição e cobrança.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
