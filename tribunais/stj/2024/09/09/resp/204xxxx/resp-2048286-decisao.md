@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, recurso especial interposto por ANTÔNIO SILVESTRE DE AQUINO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+Acidente do trabalho - Operador de máquina - Doença Ocupacional (LER/DORT) - Membro superior direito e coluna lombar -- Perícia renovada em Segundo Grau Laudo atestando quadro incapacitante, parcial e permanente, apenas para ombro direito, cujo nexo concausal foi estabelecido pelo perito judicial - Auxílio-acidente, na forma da lei vigente à data do infortúnio, devido a partir da juntada do laudo nos autos de segundo grau - Valores em atraso que devem ser atualizados pelos índices de correção pertinentes, respeitados os precedentes a respeito dos temas firmados pelos Colendos Tribunais Superiores (Tema 810/STF e Tema 905/STJ) - Juros de mora devidos a partir do termo inicial do benefício e apurados, mês a mês, de forma decrescente - Aplicação do art. 5º da Lei nº 11.960/09, porém apenas no que concerne aos juros Honorários de advogado que, in casu, deverão ser fixados na fase de liquidação - Sentença reformada - Recurso do autor provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões recursais, o recorrente alega, inicialmente, violação ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional, bem assim aos arts. art. 23 e 86 da Lei 8.213/91 sustentando, em síntese, que "a data da juntada do laudo pericial não pode ser utilizada para fixação da DIB do auxílio acidente, e de que na ausência de prévio requerimento administrativo ou de prévio recebimento de auxílio doença, a DIB do auxílio acidente deve ser fixada na data da citação do INSS".
+Aduz, ainda, ofensa ao art. 240 do CPC/2015, ao fundamento de que "o INSS tomou conhecimento da ação logo no seu início, inexistindo razão para que o termo inicial dos juros seja fixado em momento posterior. Ademais, o artigo e expresso ao dispor que a citação válida constitui o devedor em mora".
+O recurso especial foi admitido na origem.
+É o relatório.
+Passo a decidir.
+A jurisprudência desta Corte é firme ao definir que "o termo inicial para a concessão de benefício previdenciário é a data do requerimento administrativo e, na sua ausência, a partir da citação. Entende-se, ainda, que o laudo pericial não serve como parâmetro para fixar termo inicial de aquisição de direitos, mas apenas norteia o livre convencimento do juiz quanto aos fatos alegados pelas partes" (STJ, AREsp n. 1.345.234/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/12/2018).
+No caso, o tribunal de origem, ao decidir pela concessão do beneficio requerido somente a partir da data da juntada do laudo pericial em juízo dissentiu do entendimento consolidado nesta Corte de Justiça no sentido de que, inexistindo requerimento administrativo, o marco inicial para concessão do benefício previdenciário será fixado na data da citação.
+Ademais, nos termos da Súmula 204 desta Corte, "os juros de mora nas ações relativas a benefícios previdenciários incidem a partir da citação válida".
+Nesse sentido:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE BENEFÍCIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. JUROS DE MORA. SÚMULA 204/STJ. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA SÚMULA 111/STJ. ACÓRDÃO RECORRIDO ALINHADO COM A ORIENTAÇÃO DO STJ.
+1. Cuida-se, na origem, de Ação com vistas à concessão de benefício previdenciário de aposentadoria por tempo de serviço/contribuição.
+2. Em se tratando de débitos relativos a benefícios previdenciários, os juros de mora incidem a partir da citação válida (Súmula 204 do STJ).
+3. O entendimento da Corte Regional está alinhado à jurisprudência do STJ sobre o tema, segundo a qual a verba honorária deve ser fixada sobre as parcelas vencidas até a prolação da decisão concessiva do benefício, em consonância com o disposto na Súmula 111/STJ, que não foi revogada pelas disposições do CPC/2015.
+4. Agravo Interno não provido" (AgInt no AREsp n. 2.474.494/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/6/2024).
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer como marco inicial para a concessão do benefício ora requerido, e para contagem dos juros de mora, a data da citação válida.
+Intimem-se.
+ EMENTA
