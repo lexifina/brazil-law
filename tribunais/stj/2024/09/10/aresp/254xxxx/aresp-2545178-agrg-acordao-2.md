@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto por RALF ARAUJO MATIAS em face da decisão de fls. 843/853, de minha lavra, que conheceu do agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS - MPMG para conhecer do seu recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, deu-lhe provimento para afastar a aplicação da causa de diminuição capitulada no art. 33, § 4º, da Lei n. 11.343/06 e, por consequência, readequar a pena definitiva do réu para 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa.
+A decisão agravada, considerando a conjuntura fática analisada pelo voto vencido do acórdão proferido pelo Tribunal de origem, consignou que a dedicação do réu à atividade criminosa restou comprovada pela apreensão de petrechos comumente utilizados para a traficância, de modo que afastou a configuração do tráfico privilegiado na espécie.
+No presente agravo regimental (fls. 867/870), após breve síntese processual, a defesa sustentou que o MPMG interpôs recurso especial em face de acórdão não unânime proferido pelo Tribunal de origem, sem opor previamente embargos infringentes em face do decisum, isto é, não houve esgotamento da instância a quo.
+Requereu, assim, o provimento do agravo regimental para que o recurso especial interposto pelo Parquet não seja sequer conhecido e, por consequência, sejam restabelecidos os termos do acórdão proferido pelo Tribunal de origem.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI N. 11.343/06. AFASTADO O RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO CAPITULADA NO ART. 33, § 4º, DA LEI N. 11.343/06 EM RECURSO INTERPOSTO PELO PARQUET. IMPOSSIBILIDADE DE OPOSIÇÃO DE EMBARGOS INFRINGENTES PELA ACUSAÇÃO. ACÓRDÃO DO TRIBUNAL DE ORIGEM FAVORÁVEL AO RÉU. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. Nos termos do art. 609, parágrafo único, do Código de Processo Penal - CPP, "Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência".
+1.1. Destarte, não há de se falar em equívoco do Parquet na interposição do recurso especial, eis que esgotada a instância ordinária pela acusação para fins de aumento de pena, de modo que o óbice da Súmula n. 207 do Superior Tribunal de Justiça - STJ é inaplicável à espécie.
+2. Agravo regimental conhecido e desprovido.
+VOTO
+Na hipótese, o presente agravo regimental deve ser conhecido, uma vez que impugnados os fundamentos da decisão agravada, bem como observado os limites do recurso especial.
+Contudo, em que pesem os argumentos veiculados, o decisum objurgado deve ser mantido. Acerca do cabimento dos embargos infringentes, eis as disposições do art. 609, parágrafo único, do Código de Processo Penal - CPP, in verbis (grifo nosso):
+"Art. 609. Os recursos, apelações e embargos serão julgados pelos Tribunais de Justiça, câmaras ou turmas criminais, de acordo com a competência estabelecida nas leis de organização judiciária.
+Parágrafo único. Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. 613. Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência."
+Neste ponto, infere-se ser cabível a oposição de embargos infringentes tão somente para desafiar acórdão não unânime proferido em segunda instância, desde que o teor do decisum seja desfavorável ao réu.
+Assim, vislumbra-se que os embargos infringentes podem ser opostos apenas no interesse do réu, razão pela qual a acusação não possui essa via recursal para fins de aumento de pena, consoante a pacífica jurisprudência deste Sodalício (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO DECIDIDO POR MAIORIA. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. EMBARGOS INFRINGENTES. IMPOSSIBILIDADE. CABIMENTO DO RECURSO ESPECIAL PELO MINISTÉRIO PÚBLICO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Conforme o disposto no artigo 609, parágrafo único, do CPP, cabem embargos infringentes contra decisão desfavorável ao réu, não tratando-se de recurso a ser aviado pelo Ministério Público.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.404.838/MS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 12/5/2015, DJe de 21/5/2015.)
+PENAL E PROCESSUAL. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. EMBARGOS INFRINGENTES. LEI DOS CRIMES HEDIONDOS. REGIME PRISIONAL. LEI 9.455/97.
+1. Como os embargos infringentes e de nulidade (CPP, art. 609, parágrafo único) só podem ser opostos em favor do réu, não cabe a sua exigência, para fins de esgotamento da instância ordinária, quando o inconformismo parte do Ministério Público, buscando agravar a situação do acusado.
+2. Os condenados pela prática de crimes hediondos e os a estes assemelhados (tortura, tráfico de entorpecentes e terrorismo), deverão cumprir integralmente a pena em regime fechado.
+3. A Lei de Tortura não derrogou a Lei 8.072/90, Art. 2º, § 1º.
+4. Ressalva da posição vencida do Relator.
+5. Recurso Especial provido.
+(REsp n. 248.442/RS, relator Ministro Edson Vidigal, Quinta Turma, julgado em 3/10/2000, DJ de 6/11/2000, p. 217.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA. JULGAMENTO NÃO UNÂNIME DA APELAÇÃO. AUSÊNCIA DE INTERPOSIÇÃO DE EMBARGOS INFRINGENTES NA ORIGEM. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA N. 207 DO STJ. INCIDÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Nos termos do art. 609, parágrafo único, do Código de Processo Penal, são cabíveis embargos infringentes e de nulidade quando a decisão desfavorável ao réu não for unânime. Somente após o julgamento desses embargos é que se pode falar em encerramento da jurisdição da instância ordinária, preenchendo-se assim, a condição exigida pelo art. 105, inciso III, da Constituição Federal, que afirma ser cabível o recurso especial em face de causas decididas em única ou última instância.
+II - Com efeito, não tendo sido encerrada a prestação jurisdicional pelo eg. Tribunal de origem, não há como prosseguir a análise dos pedidos aqui formulados. Nesse sentido é o teor do enunciado sumular n. 207 deste col. Superior Tribunal de Justiça.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.179.659/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 18/8/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. ACÓRDÃO RECORRIDO NÃO UNÂNIME. AUSÊNCIA DE EMBARGOS INFRINGENTES. SÚMULA N. 207 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. ILEGALIDADE FLAGRANTE. AGRAVANTE DA REINCIDÊNCIA E ATENUANTE DA CONFISSÃO. COMPENSAÇÃO. POSSIBILIDADE. HABEAS CORPUS CONCEDIDO DE OFÍCIO. EXECUÇÃO IMEDIATA DA PENA.
+1. A jurisprudência desta Corte Superior exige o esgotamento da instância, via oposição de embargos infringentes, quando o resultado do julgamento, não unânime, na origem, tenha sido desfavorável ao réu, ainda que oriundo de apelo da acusação. Incidência da Súmula n. 207 do STJ.
+2. Considerando que a matéria não unânime - compensação entre reincidência e confissão - é objeto do recurso especial e constatado que o acórdão foi prejudicial à defesa nesse ponto, entendo que não foi exaurida a instância e, dessa forma, o agravo regimental não comporta provimento.
+3. Constatada a ilegalidade suscitada no parecer ministerial, uma vez que observo que as instâncias antecedentes não mencionaram nenhuma peculiaridade - como a multirreincidência do acusado ou sua reincidência específica - que obstasse a compensação postulada. 4.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+5. Agravo regimental não provido. Ordem concedida, de ofício, a fim de compensar a atenuante da confissão com a agravante da reincidência e, por conseguinte, readequar a pena imposta ao agravante, de modo a tor ná-la definitiva em 1 ano, 4 meses e 15 dias de reclusão. Determinado envio de cópia ao Juízo da condenação para execução imediata da pena.
+(AgRg no AREsp n. 994.536/SE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/8/2017, DJe de 11/9/2017.)
+Destarte, não há de se falar em equívoco do Parquet na interposição do recurso especial, eis que esgotada a instância ordinária pela acusação, de modo que o óbice da Súmula n. 207 do STJ é inaplicável à espécie.
+Diante do exposto, voto conhecimento e desprovimento do agravo regimental.
