@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+Penal. Processual. Habeas Corpus. Latrocínio. Nulidade do processo a partir da decisão que indeferiu o pedido de realização de exame de sanidade mental no paciente. Inviabilidade. Decisão motivada.
+Inexistência de comprovação acerca de dúvidas acerca da higidez mental do insurgente. Não indicação de elementos a comprovar a existência da referida condição antes ou contemporânea a prática criminosa se lhe imputada. Denegação da ordem. Imperatividade.
+I. Ao constato de que inexistente dúvida ou comprovação acerca da integridade mental do acusado, antes ou contemporânea a prática criminosa se lhe imputada, descabida a necessidade de realização do incidente de insanidade requerido pela defesa, sobretudo, quando à época dos fatos o paciente exercia suas atividades de policial em estado de plena sanidade e somente acostado laudo apontado suposto transtorno de personalidade mais de 01 ano e meio depois da prática.
+II. Ordem denegada. Unanimidade.
+O recorrente foi condenado em primeira instância pela prática do crime de roubo qualificado pela morte (art. 157, §3º do CP) por ter se aproximado da vítima com seu veículo, oferecido falsos serviços de transporte e após a vítima entrar no carro, parou em determinado local e realizou o assalto, que culminou na morte da vítima, que ainda ficou desaparecida por cinco dia, "sendo seu cadáver encontrado já em fase de putrefação na manhã do dia 19/09/2023" (e-STJ fl. 84).
+A defesa alega, em síntese, que o paciente está sofrendo constrangimento ilegal, pois o Magistrado de primeira instância indeferiu o pedido de realização de incidente de insanidade mental formulado após o final da instrução.
+Ao final, requer o provimento do recurso para que o processo seja anulado desde o pedido de incidente de insanidade mental e para que seja determinada a instauração do mencionado incidente.
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+ .. . Nesse contexto, cumpre ressaltar, que segundo inteligência do art. 149 do CPP, o deferimento da realização de exame de insanidade depende da existência de dúvida sobre a integridade mental do acusado, ou seja, indícios plausíveis deque o agente, no tempo dos fatos, era incapaz de entender o caráter ilícito de sua conduta (STJ, HC 68708/RS).
+Assim, em que pese acostado pela defesa, laudo médico nos autos atestando suposto transtorno de personalidade antissocial do paciente, tal documento é datado de 02/05/2024, e segundo registro do magistrado de base, não existem dúvidas acerca da higidez mental do paciente, haja vista, não indicarem os autos quaisquer elementos a comprovar a existência da referida condição antes ou mesmo contemporânea a prática imputada ao paciente, razão pela qual, entendeu descabida a necessidade de realização do aludido incidente proposto tão apenas em sede de alegações finais.
+Merece destaque, ainda, o registro pelo juízo de base, que em contato com o paciente, este não demonstrou qualquer alteração comportamental que sugerisse desequilíbrio psíquico quando da sua audiência de custódia, além do fato encontrar-se, antes dos fatos, exercendo suas atividades de policial em estado de plena sanidade  ..  (e-STJ fl. 128).
+Como se pode observar, o Tribunal de origem  instância adequada ao exame do acervo fático-probatório dos autos  concluiu que os elementos de prova apresentados pela Defesa não são capazes de indicar que algum tipo de dúvida sobre que, ao tempo dos fatos, poderia ser inimputável.
+Assim, nos termos do art. 149 do CPP, a instauração de incidente de insanidade mental somente será realizado quando houver "dúvida sobre a integridade mental do acusado", o que não há nos autos, razão pela qual o indeferimento do pedido por parte do Magistrado de primeira instância não impôs constrangimento ilegal ao recorrente.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
