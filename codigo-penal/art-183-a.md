@@ -1,0 +1,1 @@
+Art. 183-A. Nos crimes de que trata este Título, quando cometidos contra as instituições financeiras e os prestadores de serviço de segurança privada, de que trata o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, as penas serão aumentadas de 1/3 (um terço) até o dobro.
