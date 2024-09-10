@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por QUADCITY ZACARIAS DE GOES EMPREENDIMENTOS E PARTICIPACOES LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+AGRAVO INTERNO. APELAÇÃO. ART. 1.021, § 3 DO NCPC. REITERAÇÃO. RECURSO DESPROVIDO. - A VEDAÇÃO INSCULPIDA NO ART. 1.021, §3º DO CPC/15 CONTRAPÕE-SE AO DEVER PROCESSUAL ESTABELECIDO NO §1º DO MESMO DISPOSITIVO. - SE A PARTE AGRAVANTE APENAS REITERA OS ARGUMENTOS OFERTADOS NA PEÇA ANTERIOR, SEM ATACAR COM OBJETIVIDADE E CLAREZA OS PONTOS TRAZIDOS NA DECISÃO QUE ORA SE OBJURGA, COM FUNDAMENTOS NOVOS E CAPAZES DE INFIRMAR A CONCLUSÃO ALI MANIFESTADA, DECERTO NÃO NÁ QUE SE FALAR EM DEVER DO JULGADOR DE TRAZER NOVÉIS RAZÕES PARA REBATER ALEGAÇÕES GENÉRICAS OU REPETIDAS, QUE JÁ FORAM AMPLAMENTE DISCUTIDAS.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 23 da Lei n. 12.016/20 09, no que concerne à inexistência de decadência do direito de impetração do mandado de segurança, tendo em vista o seu caráter preventivo, já que o ato coator ainda não ocorreu, trazendo a seguinte argumentação:
+Ocorre, porém, "data maxima vênia", que o entendimento do v. acórdão recorrido merece ser reformado, visto que o mandado de segurança NÃO TEM COMO ATO COATOR a notificação emitida pela RFB e juntada no ID 265273268 da inicial(a qual foi apresentada para reforçar a presença do periculum in mora), mas sim o risco de um futuro e hipotético auto de infração com multa de (no mínimo) 75%.
+Ou seja, trata-se de mandado de segurança preventivo contra o risco provável de autuação, sendo a existência de fiscalização em curso apenas e tão somente a prova de que o risco existe e a autuação pode ocorrer a qualquer momento, e não o ato coator contra o qual é impetrado o "writ".
+ ..
+Ora, se o prazo decadencial começa a ser contado a partir da "ciência, pelo interessado, do ato impugnado" e, no caso concreto, este ainda não ocorreu, não há dúvida de que o v. acórdão recorrido viola frontalmente o art. 23 da Lei nº 12.016/2009.
+De se ressaltar que a posição dos nossos Tribunais é pacífica no sentido de que não há decadência na impetração de mandado de segurança contra relação jurídica de trato sucessivo, como é no caso presente. Veja-se:  ..
+Daí porque, como a autuação pode ocorrer a qualquer momento e o mandado de segurança é preventivo, não há como cogitar no caso a hipótese de decadência para a impetração do writ, o que foi, com a devida vênia, desconsiderado pelo v. acórdão recorrido, que deve ser anulado para que seja proferido novo acórdão analisando o mérito (fls. 633-634).
+Quanto à segunda controvérsia, interpõe o recurso pela alínea "c" do permissivo constitucional.
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Trata-se de agravo interno interposto por QUADCITY ZACARIAS DE GOES EMPREENDIMENTOS E PARTICIPAÇÕESLTDA, contra a decisão monocrática prolatada nos seguintes termos:
+" ..
+No caso em tela, o suposto ato coator encontra-se materializado na notificação expedida pela Secretaria da Receita Federal à apelante, a qual, segundo afirma, foi recebida em fevereiro/2021, cujo teor indica a necessidade de ajustar suas obrigações acessórias (ECF e DCTF), além de efetuar o recolhimento de eventuais débitos decorrentes, com os devidos acréscimos legais (Doc. Num. 265273268).
+Ressalte-se que não se evidencia o caráter meramente preventivo do mandamus impetrado, na medida que a impetrante se insurge sistematicamente contra a cobrança estampada na notificação recebida, sustentando que as receitas financeiras dos valores usados nos empreendimentos devem ser igualmente tributadas no RET, conforme estabelece o art. 4º, § 1º, da Lei 10.931/2004.
+Desta forma, impetrado o presente mandamus em 24/01/2022, resta comprovada a inobservância do prazo decadencial de 120 (cento e vinte) dias.
+ .. " (fls. 566-568).
+Mantenho a decisão agravada pelos seus próprios fundamentos (fl. 569).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2.6.2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8.10.2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2.4.2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.12.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
