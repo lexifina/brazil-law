@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Nair Moreira da Silva contra decisão de fls. 880-884 que indeferiu os embargos de divergência, por ausência de similitude fática entre os acórdãos confrontados (recorrido e paradigma).
+A embargante alega "omissão na ausência de apreciação de particularidade hábil a mitigar o entendimento segundado na decisão embargada", visto que, no caso, não é objeto de divergência a habilitação tardia de dependente menor, incapaz ou ausente e sim a não implementação imediata dos benefícios de pensões por morte dos pais em favor da filha maior inválida. Requer, assim, o acolhimento dos embargos de declaração, "a fim de afastar a Súmula nº 168/STJ, pois a questão material que pretende uniformizar possui particularidade hábil a mitigar a similitude fática".
+Sem contrarrazões (cf. certidão de fl. 907).
+É o relatório. Passo a decidir.
+Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do artigo 1.022 do CPC de 2015, bem como para sanar a ocorrência de erro material.
+No caso, vistoria-se dos autos que a mãe da autora faleceu em 15/09/1995, momento em que seu pai passou a perceber a pensão por morte, o qual veio a óbito em 18/07/2010.
+Diante da comprovada invalidez, o Tribunal de origem deu parcial provimento à apelação, entendendo que a parte autora deveria receber a pensão deixada pelo seu pai, a partir do seu óbito, ou seja, desde 18/07/2010 (fls. 438-439).
+O acórdão embargado, à unanimidade, negou provimento ao agravo interno, assim ementando a questão:
+Na forma da jurisprudência do STJ, a habilitação tardia de dependente menor, incapaz ou ausente somente produzirá efeito financeiro se a pensão não tiver sido paga a outro beneficiário, pois a obrigação do INSS, no sistema contributivo, é de pagar um único benefício - para o qual houve contribuição do segurado -, a ser partilhado pelo conjunto dos beneficiários da pensão por morte. Na prática, tendo sido paga a pensão por morte a algum (ou alguns) dos beneficiários, o pagamento não será repetido ao beneficiário retardatário, posteriormente habilitado, sob pena de condenar o INSS ao pagamento de duas pensões.
+Por sua vez, o acórdão paradigma trazido pela embargante, de minha relatoria, julgou a demanda ao fundamento de que "é devida a pensão por morte, comprovada a dependência econômica, ao filho inválido ou que tenha deficiência intelectual ou mental que o torne absoluta ou relativamente incapaz, assim declarado judicialmente, sendo irrelevante o fato de a invalidez ter sido após a maioridade do postulante". (AgInt no REsp n. 1.954.926/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022.)
+Sob esse enfoque, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada ao assentar que a inexistência de demonstração da similitude fática impede o conhecimento do recurso de embargos de divergência.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. AUSÊNCIA.
