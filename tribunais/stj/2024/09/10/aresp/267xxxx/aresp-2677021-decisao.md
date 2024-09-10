@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo interposto por L1X COMPRA E VENDA DE IMÓVEIS LTDA. contra decisão que inadmitiu recurso especial (e-STJ, fl. 895) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fls. 641-643):
+APELAÇÃO CÍVEL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. COMPROVAÇÃO. SENTENÇA QUE SE MANTÉM. HONORÁRIOS RECURSAIS. CABIMENTO.
+1. Primeiramente, afasta-se a alegada nulidade da sentença por suposta incompetência do juízo para conhecer da questão objeto dos embargos de terceiro.
+2. A fim de preservar o direito creditório e a viabilidade do plano de recuperação judicial, o Superior Tribunal de Justiça firmou entendimento segundo o qual o controle dos atos de constrição patrimonial ou de alienação deve ser submetido ao Juízo Universal. Precedentes.
+3. In casu, a penhora foi determinada por força de decisões datadas de julho de 2016 e maio de 2017, muito antes da falência decretada em outubro de 2018. Ademais, a questão deverá ser ventilada nos autos da execução, e não nessa ação, considerando que o objeto dos embargos não tem o condão de repercutir negativamente na esfera patrimonial da empresa executada. Não se discute penhora incidente sobre o patrimônio da executada, mas sim a fraude à execução reconhecida.
+4. Afasta-se, ainda, o alegado cerceamento de defesa em razão do julgamento antecipado (CPC, art. 355, I) proferido. Veja-se que apesar de alegar a necessidade da produção de provas, apresenta argumentação genérica, deixando não só de especificar qual prova entende necessária, mas também para qual finalidade.
+5. E isso, porque incontroverso nos autos os negócios realizados, nas datas e valores considerados por este Relator, quando do julgamento do agravo de instrumento 0028709-50.2017.8.19.0000, ocasião em que se manteve decisão objeto do referido recurso, reconhecendo a "má-fé dos adquirentes" e a fraude à execução.
+6. Ademais, é cediço que em nosso sistema processual civil vigora o livre convencimento motivado, onde o juiz tem liberdade para valorar as provas produzidas, devendo expor, racionalmente, quais os motivos que o fizeram chegar àquela conclusão, na forma do disposto nos artigos 370 e 371 do Código de Processo Civil. Evidencia-se, portanto, que cabe ao juiz decidir pela necessidade ou não da produção daquelas provas que entenda relevantes para a formação de seu convencimento, dispensando as demais.
+7. Sendo assim, não se há de falar em cerceamento de defesa, tampouco em violação aos princípios do contraditório e do devido processo legal.
+8. Aação de embargos de terceiro tem por finalidade livrar da constrição judicial injusta os bens apreendidos em um processo no qual o seu proprietário ou possuidor não é parte. Essa é a exegese da redação do artigo 1.046 do Código de Processo Civil/1973, correspondente ao artigo 674 do atual Codex.
+9. A fraude à execução restou reconhecida por este Relator nos autos do agravo de instrumento citado alhures, após a análise dos sucessivos negócios realizados em curto espaço de tempo, a vultosa quantia e a discrepância de valores de um negócio para o outro e incompatíveis com a realidade dos contratantes, diante do ínfimo capital social das empresas.
+10. Os fatos apresentados evidenciam a fraude à execução e a má-fé dos alienantes e da empresa ora embargante, ressaltando que os registros dos negócios foram realizados na mesma data e após requerida a penhora do imóvel nos autos da execução. Precedentes.
+11. Por fim, o artigo 85, §11 do atual Código de Processo Civil dispõe que o Tribunal, ao julgar o recurso interposto, majorará os honorários fixados anteriormente.
+12. Assim, ante ao não provimento do recurso, cabível a fixação de honorários recursais.13. Recurso não provido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fls. 835-837):
+EMBARGOSDE DECLARAÇÃO.
+1. O acórdão embargado, ao reconhecer a competência do Juízo a quo, dispôs que a penhora foi realizada muito antes de decretada a falência da empresa devedora e que não se discute a penhora ou sua não incidência sobre o patrimônio da executada, mas sim a fraude à execução reconhecida, ressaltando-se "que o objeto dos embargos não tem o condão de repercutir negativamente na esfera patrimonial da empresa executada". Afastou o julgado, ainda, o alegado cerceamento de defesa.
+2. No que concerne à determinação da Corte Superior de Justiça, impende esclarecer que o agravo de instrumento n.º 0028709-50.2017.8.19.0000, interposto por STIEBLER ARQUITETURA E INCORPORAÇÕES LTDA. e GILBERTO STIEBLER FILHO teve como objeto as decisões proferidas nos autos principais (n.º 0005910-59.2012.8.19.0203), que, respectivamente, manteve a penhora do bem imóvel situado na Estrada Carvalho Ramos,s/n.º, Inhoaíba, Freguesia de Campo Grande, e negou provimento aos embargos de declaração interpostos.
+Na oportunidade este Relator afastou a intervenção de terceiro requerida e manteve a decisão agravada, argumentando, consoante fundamentação apresentada, a existência de má-fé dos adquirentes e a configuração da fraude à execução. Não obstante, como apontado, a fraude tratou-se de fundamentação para a manutenção da decisão objeto daquele recurso, e citado no acórdão embargado tão somente à guisa de ilustração.
+3. O acórdão objeto dos aclaratórios ressaltou os "sucessivos negócios realizados em curto espaço de tempo, a vultosa quantia e a discrepância lores de um negócio para o outro e incompatíveis com a realidade dos contratantes, diante do ínfimo capital social das empresas".
+Destacou que os fatos apresentados evidenciam a fraude à execução e a má-fé dos alienantes e da empresa embargante, salientando que os registros dos negócios foram realizados na mesma data e após requerida a penhora do imóvel nos autos da execução.
+Em seguida, concluiu que as "razões apresentadas pela recorrente não se mostram hábeis a afastar os argumentos acima apontados".
+4. Note-se, assim, que o julgado não se baseou em eventual preclusão ou coisa julgada em relação ao julgamento proferido em agravo de instrumento, ou mesmo na fraude à execução reconhecida naquele recurso. Apenas e tão somente citou aquele julgamento, mas se baseou na ordem cronológica das alienações realizadas e referidas naquele agravo, com fundamento na Certidão de Registro de Imóveis do bem objeto da constrição determinada e impugnada pela ora embargante.
+5. E a sentença de primeiro grau, que julgou improcedentes os pedidos formulados nos embargos de terceiro movidos pela ora embargante, assim como o acórdão embargado, fundamentaram na fraude à execução comprovada nesses autos, e não em sede de agravo de instrumento interposto por terceiro. Aliás, o decisum de primeiro grau dispôs que "a questão decidida nos autos do agravo de instrumento n.º 0028709-50.2017.8.19.0000 se restringiu às partes na demanda principal, notadamente, 1º e 2º embargados, na qualidade de exequentes, e 3º embargado, na qualidade de executado".
+6. Outrossim, nada obsta que seja reconhecida a fraude à execução em sede de agravo de instrumento, caso presentes os requisitos legais, quais sejam, que o ato de alienação ou oneração de bens seja apto a reduzir o alienante à insolvência e que tenha sido praticado na pendência de um processo contra o devedor, sendo irrelevante ser de natureza cognitiva, cautelar ou executiva. É preciso, a prova da má-fé do adquirente naqueles casos em que não há presunção.
+7. Recurso não provido.
+Nas razões do recurso especial, a recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 355, 369, 370, 373, 792 e 844 do CPC/2015.
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência por constatar a deserção recursal, diante da ausência de cumprimento da intimação que determinou a complementação do preparo (e-STJ, fl. 895).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 902-905).
+Nas razões recursais, a agravante sustenta que não recolheu a diferença, pois a GRU não se trata de "guia adaptável, mas que apresenta valor fixo e pré fixado do valor a ser recolhido a título de custas para o preparo do recurso" (e-STJ, fl. 904).
+Afirma ter preenchido todos os dados no site do STJ.
+Destaca "não ser o caso de complementação de recolhimento, isso porque a alteração e atualização dos valores se depois após o recolhimento ou geração da GRU" (e-STJ, fl. 904).
+Sustenta que a Corte local não é competente para apreciar a regularidade no recolhimento da GRU, a qual deve ser examinada por este Tribunal Superior.
+Assim sendo, requer o provimento do presente recurso.
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso em análise, verifica-se que o Tribunal de origem consignou haver irregularidade no recolhimento do preparo recursal, determinando a intimação da parte recorrente para que, em 5 (cinco) dias, efetue o recolhimento das custas processuais.
+Todavia, apesar de intimada para saneamento do vício, a ora agravante não se desincumbiu de tal ônus.
+Assim, não merece reparos a decisão singular ora agravada, tendo em vista que está em consonância à orientação jurisprudencial do STJ, segundo a qual deve ser reconhecida a deserção do recurso especial e, consequentemente, ser aplicado o enunciado sumular n. 187 deste Tribunal Superior, quando a parte recorrente, mesmo após intimada para regularizar o vício, não o faz no prazo assinalado.
+Sobre o tema, vejam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIOS DA JUSTIÇA GRATUITA. INDEFERIMENTO NA ORIGEM. OPORTUNIDADE PARA COMPLEMENTAÇÃO. NÃO CUMPRIMENTO. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ.
+ ..
+2. In casu, a parte recorrente, mesmo após intimada a regularizar o preparo, não o fez devidamente, caracterizando, assim, a deserção do recurso especial. Incidência da Súmula n. 187/STJ.
+ ..
+Agravo interno improvido.
+(AgInt no AREsp n. 2.235.728/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DESERÇÃO. INCIDÊNCIA DA SÚMULA N. 187/STJ. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. NÃO CONHECIMENTO DO RECURSO A IMPEDIR A ANÁLISE DE FATO SUPERVENIENTE ATINENTE À NOVA LEI DE IMPROBIDADE.
+ ..
+II - A jurisprudência desta Corte Superior determina que, havendo insuficiência no recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizar o recolhimento, sob pena de deserção, conforme dicção do enunciado da Súmula n. 187/STJ.
+III - A parte, embora regularmente intimada para sanar referido vício, não o regularizou.
+ ..
+IX - Agravo interno improvido.
+(AgInt no AREsp n. 2.027.433/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Fiquem as partes cientificadas d e que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PREPARO. INSUFICIÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. NÃO ATENDIMENTO . DESERÇÃO. SÚMULA 187/STJ. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
