@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o JUÍZO DA VARA DO TRABALHO DE PARANAVAÍ - PR e o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE PARANAVAÍ - PR.
+Inicialmente, o JUÍZO DE DIREITO DA 1A VARA CÍVEL DE PARANAVAÍ - PR declinou de sua competência argumentando que (fls. 97-98):
+1. Trata-se de ação declaratória de inexistência de débito c.c indenização por danos morais e materiais ajuizada por SUELI BORGES FRACAROLI, em face de COBAP - CONFEDERAÇÃO BRASILEIRA DE APOSENTADOS E PENSIONISTA, na qual autora alega, em síntese, que a requerida indevidamente debita valores de seu benefício previdenciário a título de contribuição, nunca tendo se associado, ou autorizado descontos.
+ ..
+No presente caso, se discute cobrança de contribuição sindical, sendo evidente a aplicação do artigo 114, inciso III, da CF. Neste sentido:
+ ..
+Desse modo, tratando-se de competência absoluta em razão da matéria e, sendo o débito descrito na inicial referente a contribuição sindical, não é possível a discussão de tais descontos junto a este juízo.
+3. DIANTE DO EXPOSTO, DECLARO A INCOMPETÊNCIA DESTE JUÍZO para processar e julgar a presente ação, determinando a remessa dos autos à Justiça do Trabalho desta comarca.
+Recebidos os autos, o JUÍZO DA VARA DO TRABALHO DE PARANAVAÍ - PR suscitou o presente conflito defendendo que (fls. 114-115):
+Apesar de o Juízo Cível ter declinado da competência em favor desta Especializada, verifica-se que a Justiça do Trabalho não possui competência material para processar e julgar a presente ação. No caso em questão, ao contrário do que constou da decisão do Juízo Cível, não se trata de descontos a título de contribuição sindical, mormente porque a parte reclamada não possui registro sindical junto ao Ministério do Trabalho e Emprego, nos termos exigidos no art. 512 da CLT e no art. 8o, inciso I, da CF. Logo, evidente que a reclamada não se enquadra como entidade sindical com legitimidade para representação de determinada categoria, mas sim de mera associação de natureza civil. Dessa forma, a relação havida entre as partes decorrente do desconto do benefício previdenciário da parte autora não se caracteriza como controvérsia entre sindicato e trabalhador, não se inserindo na competência material desta Especializada prevista no art. 114, III, da CF/88. A respeito, destaca-se decisão recente do e. STJ em caso idêntico de cobrança de taxa associativa, reconhecendo a competência da Justiça Comum na decisão de conflito negativo suscitado pelo Juízo da Vara do Trabalho de Nova Esperança/PR nos autos 0000358-04.2021.5.09.0567:
+ ..
+Desta forma, evidenciada a incompetência material da Justiça do Trabalho, e, diante da declaração negativa de competência emitida pelo Juízo da 1 a Vara Cível de Paranavaí, decide-se, com fundamento no artigo 105, I, "d" da CRFB/88, e no artigo 66, II e parágrafo único do CPC, suscitar conflito negativo de competência.
+ ..
+Diante do exposto, na ação ajuizada por SUELI BORGES FRACAROLI, contra CONFEDERAÇÃO BRASILEIRA DE APOSENTADOS, PENSIONISTAS E IDOSOS, decide-se, com fundamento no artigo 105, I, "d" da CRFB/88 e no artigo 66, II, e, parágrafo único do CPC, SUSCITAR CONFLITO NEGATIVO DE COMPETÊNCIA, determinando-se a remessa dos autos ao E. Superior Tribunal de Justiça.
+É, no essencial, o relatório.
+Conheço do conflito, porquanto envolve juízos vinculados a Tribunais diversos, nos moldes do art. 105, I, "d", da Constituição Federal.
+A leitura dos autos revela que foi ajuizada ação em desfavor da COBAP - CONFEDERAÇÃO BRASILEIRA DE APOSENTADOS E PENSIONISTAS, na qual a parte autora alega não possuir nenhuma relação jurídica com a ré, razão pela qual pleiteia o reconhecimento da ilegalidade dos descontos das contribuições realizados sobre seu benefício previdenciário e a consequente condenação da demandada à obrigação de restituir em dobro os valores cobrados e à reparação por danos materiais e morais.
+É certo que compete à Justiça do Trabalho processar e julgar as ações que versem sobre representação sindical, ajuizadas entre sindicatos, entre sindicatos e trabalhadores, e entre sindicatos e empregadores (art. 114, III, da CF).
+Na hipótese em análise, entretanto, tem-se que fato gerador do direito perseguido é um ato civil - descontos indevidos realizados pela ré - não havendo nenhuma discussão acerca de matéria laboral ou sindical, o que evidencia a competência da Justiça Comum para o processamento e julgamento da demanda.
+Nesse mesmo sentido, em casos semelhantes, confiram-se: CC n. 204.539, Ministra Maria Isabel Gallotti, DJe de 04/09/2024; CC n. 169.488, Ministro Moura Ribeiro, DJe de 11/03/2020.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1A VARA CÍVEL DE PARANAVAÍ - PR.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REVISÃO E RESTITUIÇÃO DE QUANTIA PAGA, C/C REPETIÇÃO DE INDÉBITO E REPARAÇÃO DE DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE DESCONTOS INDEVIDOS DE VALORES SOBRE BENEFÍCIO PREVIDENCIÁRIO. "CONTRIBUIÇÃO SINDICATO/COBAP". NATUREZA EMINENTEMENTE CIVIL. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR A COMPETÊNCIA DA JUSTIÇA COMUM.
