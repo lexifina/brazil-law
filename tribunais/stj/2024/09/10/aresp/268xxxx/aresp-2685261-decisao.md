@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por REDE CRED AUTO SERVICOS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA - EX-FUNCIONÁRIO QUE ABRIU EMPRESA PRATICANDO CONCORRÊNCIA DESLEAL - SENTENÇA DE IMPROCEDÊNCIA - HIPÓTESE DOS AUTOS EM QUE AS PROVAS NÃO AMPARAM OS FATOS AFIRMADOS NA INICIAL - SENTENÇA DE ACERTO CONFIRMADA NA FORMA DO ART. 252 DO REGIMENTO INTERNO DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA - EXEGESE DO ART. 195, INC. XI. DA LEI DE PROPRIEDADE INDUSTRIAL - SENTENÇA MANTIDA - RECURSO DESPROVIDO. DISPOSITIVO: NEGARAM PROVIMENTO AO RECURSO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 195 da Lei n. 9.279/1996, no que concerne ao reconhecimento da prática de concorrência desleal por parte da recorrida e o consequente dever de indenizar, trazendo a seguinte argumentação:
+3.3. Ao se debruçar sobre o inciso I do referido artigo, que versa sobre a utilização indevida de informações confidenciais obtidas de concorrente, constata-se que os Recorridos efetivamente se utilizaram desse expediente, situação claramente comprovada nos autos. A decisão proferida, ao negar a caracterização da concorrência desleal, desconsiderou essa situação, contrariando diretamente o dispositivo legal em questão.
+3.4 De igual modo, o inciso II, que trata do uso de elementos distintivos, como marcas, de modo a causar confusão, também encontra respaldo nos fatos apresentados nos autos. A reprodução indevida de elementos distintivos da Recorrente pelos Recorridos é um fato incontestável, e a decisão que negou a concorrência desleal desconsiderou a clara intenção de causar confusão no mercado.
+3.5. A não aplicação estende-se ao inciso III, que aborda o emprego de meios fraudulentos para desviar clientela ou conquistar mercado. A conduta dos Recorridos, conforme documentado nos autos, configura claramente um meio fraudulento para desviar a clientela da Recorrente, prática essa que não foi devidamente considerada pelo Acórdão.
+3.6. Ressalte-se que, do ponto de vista legal, o segredo empresarial está amparado no inciso XI e XII, que considera crime de concorrência desleal divulgar, explorar ou utilizar, sem autorização, conhecimentos, informações ou dados confidenciais utilizados por indústria, comércio ou prestação de serviço, que não sejam de conhecimento público, aos quais se teve acesso mediante relação empregatícia ou contratual ou que foram obtidos de formas ilícitas.
+ ..
+3.10. Por mais que o V. Acórdão tenha se apegado a interpretação limitada das informações confidenciais, associando somente ao segredo industrial, a base de dados de uma empresa pode ser considerada confidencial pelo direito empresarial já que as informações e os dados pertencentes a uma empresa podem ser de natureza sensível e estratégica, contendo segredos comerciais, informações confidenciais de clientes, estratégias de negócios e outros dados valiosos (fls. 550-551)
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Consigna-se, apenas, que, corretamente, a r. sentença solucionou as questões relativas à concorrência desleal, direito de marca, captação de clientes, violação da Lei nº 9.279/96 e do sigilo de informações, amplamente fundamentadas, in verbis (fl. 457-462):
+Assim, verifica-se que a concorrência desleal exige, em suma, uma prática ilícita, que viola a boa-fé e traz danos aos concorrentes que agiram de forma devida.
+Vale ressaltar que a simples intenção de cooptar clientes não é considerada ilícita, mas, sim os meios utilizados.
+ ..
+No caso dos autos, após percuciente análise de todos os fatos e documentos trazidos, mu ito embora as condutas dos réus Douglês (fls. 36), Jonathan (fls. 96/97) e Sidney (fls. 99) tenham trazido certa desconfiança, entendo que não houve má-fé e concorrência desleal.
+ ..
+De fato, a proibição prevista em lei visa impedir a divulgação/utilização de informações que tenham relação com o segredo industrial. Fica mais fácil vislumbrar a situação tendo como exemplo aquele caso em que uma empresa possui uma "fórmula secreta" para o desenvolvimento de um produto ou prestação de um serviço, sendo este o grande diferencial de seu negócio. Essa informação não pode ser vazada de forma indevida por antigos funcionários, pois se caracterizam como informação confidencial.
+No caso dos autos, contudo, em que pese o esforço da autora em classificar as atitudes utilizadas com pelo réus como captação de clientes, perda de clientes e negócios, atos que confundem a clientela, e perseguindo os seus clientes com falsas alegações a respeito do seu serviço, observa-se que na realidade não tem nada de confidencial nelas. A "lista de clientes" e o "plano de ação" não guardam qualquer semelhança com "segredo industrial".
+São, sim, informações privadas da autora que não podem ser divulgadas por qualquer um. No entanto, os réus Sidney e Jonathan, pelas funções que ocupavam, tinham pleno acesso a essas informações e clientes.
+ ..
+O que houve, na realidade, foi a desistência dos réus de trabalharem para a autora e migração para abrirem seu próprio negócio.
+Por óbvio que eles iriam atuar no mesmo ramo e convidar as empresas e clientes já conhecidos.
+Isso, por si só, não é indevido, pois ele não está se utilizando de segredos, vantagem ou metodologia especial obtida com a autora. Apenas está exercendo a livre iniciativa/concorrência prevista na Constituição Federal (fls. 536-539).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
