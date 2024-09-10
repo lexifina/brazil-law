@@ -1,0 +1,13 @@
+DECISÃO
+Na origem, trata-se de ação declaratória de nulidade de ato administrativo, objetivando o restabelecimento de benefício de aposentadoria por invalidez de servidora pública. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 160.000,00 (cento e sessenta mil reais).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL/REEXAME NECESSÁRIO - AÇÃO DECLARATÓRIA - ATO ADMINISTRATIVO DE CONCESSÃO DE APOSENTADORIA - MÁ-FÉ DA SERVIDORA PÚBLICA AUTORA - NÃO COMPROVAÇÃO - PRETENSÃO DE REVISÃO/CASSAÇÃO DO ATO - DECADÊNCIA CONFIGURADA.
+Considerando os expressos preceitos do art. 54, da Lei nº 9.784/99 e do art. 65, da Lei Estadual nº 14.184/02, o dever/direito da administração pública de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé. Sendo inconteste o transcurso do prazo legal suscitado e não sendo comprovada a má-fé da servidora pública autora na acumulação de cargos públicos, tem-se por configurada a decadência da pretensão da administração pública municipal de cassar o ato de concessão da aposentadoria àquela e, por consequência, de exigir-lhe o ressarcimento da quantia concernente aos valores que lhe foram pagos a tal título.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+Verifica-se que a argumentação do recurso especial está pautada na alegação de violação ao art. 37, XVI, XVII e § 10, da Constituição Federal. Contudo, impossível o conhecimento da alegação de violação de dispositivos constitucionais em sede de recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Caso exista nos autos prévia fixa ção de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
