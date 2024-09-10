@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO DO BRASIL S/A. (BANCO DO BRASIL), contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO CPC. OMISSÃO NÃO CARACTERIZADA. 2. CUMPRIMENTO DE SENTENÇA (ART. 523, DO CPC). PEDIDO DE LIQUIDAÇÃO POR ARBITRAMENTO (ART. 509, I, DO CPC). AFASTAMENTO PELO TRIBUNAL ESTADUAL. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. 3. DEPÓSITO DO VALOR INCONTROVERSO SOB O FUNDAMENTO DE QUE O PERITO APENAS PRESTARÁ ESCLARECIMENTOS. DETERMINAÇÃO POSTERIOR DE REFAZIMENTO DOS CÁLCULOS. DISPENSA DO DEPÓSITO. NECESSIDADE. POSSIBILIDADE DE ALTERAÇÃO DO VALOR DEVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, PARCIALMENTE PROVIDO. (e-STJ, fls. 465/471).
+Nas razões do presente inconformismo, defendeu que (1) não obstante tenha constado na decisão a dispensa do depósito, o fato é que este foi efetuado em 22.04.2022, de modo que deve ser autorizado seu levantamento; (2) possui liquidez notória e suficiente para fazer novo depósito quando for necessário.
+Foi apresentada impugnação (e-STJ, fls. 491/494).
+É o relatório.
+Como emana dos autos, BANCO DO BRASIL interpôs o presente recurso para rechaçar o procedimento para apuração do débito, por entender que o correto seria a liquidação por arbitramento (art. 509, I, do CPC) e não o cumprimento de sentença (art. 523 do CPC).
+Além disso, a instituição financeira impugnou a determinação de depósito da exorbitante quantia de R$ 6.909.672,97, por entender que o título executivo judicial não goza de liquidez, até porque o levantamento dos valores depende de caução idônea e suficiente.
+Este Relator, por meio da decisão monocrática de e-STJ, fls. 465/471, conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, dar-lhe parcial provimento para dispensar o depósito pelo banco.
+Entretanto, o BANCO DO BRASIL opôs os presentes embargos de declaração para informar que, na realidade, o depósito já foi efetuado perante as instâncias ordinárias, sendo de rigor o deferimento do seu levantamento.
+De fato, o recurso especial julgado pela decisão monocrática de minha Relatoria foi protocolado em 05.04.2022 (e-STJ, fls. 319), ao passo que o depósito foi feito posteriormente em 22.04.2022.
+Tendo em vista que o recurso especial foi parcialmente provido para dispensar o depósito, por óbvio que não faz sentido manter o dinheiro imobilizado somente porque a instituição financeira cumpriu a determinação do Tribunal estadual, reformada posteriormente por esta Corte Superior.
+Importante consignar que, com a realização de nova perícia, o valor eventualmente devido poderá sofrer alteração (para mais ou para menos), caindo por terra a alegação de existência de valor incontroverso.
+Ademais, não há como ignorar que o BANCO DO BRASIL é uma sociedade anônima aberta, de economia mista, com grande liquidez para fazer frente a eventual débito que possa ser apurado em momento posterior.
+Nessas condições, ACOLHO os embargos de declaração para autorizar o levantamento do depósito judicial, cuja realização foi dispensada pela decisão monocrática de e-STJ, fls. 465/471.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR INCONTROVERSO. DISPENSA DO DEPÓSITO. INFORMAÇÃO DE QUE O VALOR JÁ FOI DEPOSITADO NAS INSTÂNCIAS ORDINÁRIAS. LEVANTAMENTO DA QUANTIA. ADMISSIBILIDADE. EMBARGOS ACOLHIDOS.
