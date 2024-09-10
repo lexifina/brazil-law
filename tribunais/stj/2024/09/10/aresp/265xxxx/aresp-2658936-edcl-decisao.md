@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por AGROPECUÁRIA IMIGRANTE LTDA con tra decisão mediante a qual, nos termos dos arts. 932, III, do Código de Processo Civil de 2015 e 253, I, do RISTJ, não conheci do Agravo em Recurso Especial, fundamentada na incidência da Súmula n. 182 desta Corte, porquanto não impugnado especificamente alguns dos fundamentos da decisão agravada (fls. 734/739e).
+Sustenta, em síntese, que a decisão padece de erro material, porquanto necessário o pronunciamento acerca das razões expostas no Agravo em Recurso Especial que demonstrariam a impugnação específica da Súmula n. 280/STF e do fundamento de que o acórdão recorrido teria solucionado a lide com base em fundamentação constitucional, uma vez que no Recurso Especial não teria sido citado norma local, bem como que o teor da referida súmula não encontra aplicabilidade para vedar a reforma de acórdão fundamentado em legislação local, mas sim para impedir recursos fundamentados em legislação local e, ainda, que não haveria fundamentos constitucionais a serem apreciados por esta Corte (fls. 742/745e).
+Transcorreu in albis o prazo do MUNICÍPIO DE CUIABÁ para impugnação (certidão de fl. 751e).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Sustenta a Embargante que há erro material a ser corrigido, nos termos do art. 1.022, III, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Contudo, tal irresignação não merece acolhida, porquanto, conforme consignado na decisão embargada, nas razões do agravo em recurso especial o combate aos óbices de incidência da Súmula n. 280/STF e do fundamento de que o acórdão recorrido teria solucionado a lide com base em fundamentação constitucional, não foram apresentados de forma específica, porquanto não demonstrado que a controvérsia não foi solucionada, pelo acórdão recorrido, a partir da interpretação de lei local, bem como qual seria o fundamento infraconstitucional utilizado pelo Tribunal a quo.
+Com efeito, depreende-se da leitura da decisão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
+EMENTA
