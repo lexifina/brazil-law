@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIO GIACOMELLI contra decisão, acostada às fls. 160-161, da lavra deste signatário que indeferiu liminarmente a presente reclamação.
+Inconformado, o ora embargante sustenta, em resumo, que a decisão atacada padece de omissão. Alega que "(..) A tese lançada pelo ora Embargante e não analisada pelo julgador diz respeito à premissa fática em que se baseou a reclamação: não se trata, como disse a r. decisão embargada, de reclamação ajuizada contra decisão que, segundo alega a insurgente está em dissonância com o decidido pelo STJ no REsp n. 1.197.929/PR e REsp n. 1.199.782/PR, julgados sob o rito dos repetitivos.". (fl. 166). Pugnam pelo acolhimento dos aclaratórios (fls. 165-172).
+Sem impugnação (fl. 173).
+É o relatório.
+Decisão.
+Os presentes embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretendem os embargantes.
+Nesse sentido, precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+É que, a pretexto de omissão, na verdade, pretendem a modificação da decisão, cuja via processual é inadequada porquanto o referido julgado consignou, expressamente, que: "Com efeito, no caso concreto, não restou caracterizada inobservância a precedente repetitivo que justificasse a propositura da reclamação prevista no artigo 988, § 5º, inciso II, do Código de Processo Civil de 2015. Nesse sentido, confira-se: AgInt na Rcl 35870 / RJ, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 23/10/2018."
+Na hipótese, ao contrário do que sustenta a embargante, a decisão reclamada assentou que "(..) O E. Superior Tribunal de Justiça julgou a questão acima mencionada no regime de recursos repetitivos, de modo a impossibilitar a admissão do recurso neste âmbito." Acrescentou, ademais, que "(..) Pelo exposto, NEGO SEGUIMENTO ao recurso especial, com base no art. 1.030, I, "b", do CPC, em razão dos Recursos Especiais repetitivos nos 1197929/PR e 1199782/PR." (fls. 92/94) (grifos nossos)
+Nesse contexto, a teor da orientação jurisprudencial desta Corte, "(..) se o recurso especial teve seu seguimento negado na origem exclusivamente com base no art. 1.030, I, b, do CPC, o único recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento. A interposição do agravo previsto no art. 1.042 do CPC, nesses casos, caracteriza-se como erro grosseiro." (ut. AgRg na Rcl 46356 / SP, Dje de 09/11/2023), dentre inúmeros julgados da Casa.
+2. Do exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
