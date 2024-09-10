@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de IGOR GABRIEL GUIMARÃES DE SOUZA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1519851-14.2021.8.26.0228).
+Na primeira instância, o paciente foi condenado à pena de 5 anos e 6 meses de reclusão em regime inicial semiaberto, e ao pagamento de 13 dias-multa, pela prática do crime previsto no art. 157, § 2º, II e V, do Código Penal.
+O Tribunal de origem negou provimento ao apelo defensivo e acolheu parcialmente as razões ministeriais para estabelecer o regime inicial fechado.
+A impetrante requer: a) afastamento da causa de aumento referente à restrição da liberdade das vítimas; e b) fixação do regime semiaberto.
+A liminar foi indeferida.
+Prestadas as informações, o  Ministério  Público  Federal  ofertou parecer  pelo não conhecimento do writ ou pela denegação da ordem.
+É  o  relatório.  Decido.
+A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+Veja-se:
+"O  habeas  corpus  não  pode  ser  utilizado  como  substitutivo  de  recurso  próprio,  a  fim  de  que  não  se  desvirtue  a  finalidade  dessa  garantia  constitucional,  com  a  exceção  de  quando  a  ilegalidade  apontada  é  flagrante,  hipótese  em  que  se  concede  a  ordem  de  ofício"
+(AgRg  no  HC  n.  895.777/PR,  Relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  2/4/2024,  DJe  de  8/4/2024).
+"De  acordo  com  a  jurisprudência  do  STJ,  não  é  cabível  o  uso  de  habeas  corpus  como  sucedâneo  de  revisão  criminal,  notadamente  quando  não  há  indicação  de  incidência  de  alguma  das  hipóteses  previstas  no  art.  621  do  CPP.  Precedentes"
+(AgRg  no  HC  n.  864.465/SC,  Relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  18/3/2024,  DJe  de  20/3/2024).
+A  jurisprudência  do  Supremo  Tribunal  Federal  é  no  mesmo  sentido:
+"Do  ponto  de  vista  processual,  o  caso  é  de  habeas  corpus  substitutivo  de  agravo  regimental  (cabível  na  origem).  Nessas  condições,  tendo  em  vista  a  jurisprudência  da  Primeira  Turma  desta  Corte,  entendo  que  o  processo  deve  ser  extinto  sem  resolução  de  mérito,  por  inadequação  da  via  eleita  (HC  115.659,  Rel.  Min.  Luiz  Fux)  (..)  A  orientação  jurisprudencial  deste  Tribunal  é  no  sentido  de  que  o  "habeas  corpus  não  se  revela  instrumento  idôneo  para  impugnar  decreto  condenatório  transitado  em  julgado"  (HC  118.292-AgR,  Rel.  Min.  Luiz  Fux).  4.  O  caso  atrai  o  entendimento  desta  Corte  no  sentido  de  que  não  cabe  habeas  corpus  para  reexaminar  os  pressupostos  de  admissibilidade  de  recurso  interposto  perante  outros  Tribunais  (HC  146.113-AgR,  Rel.  Min.  Luiz  Fux;  e  HC  110.420,  Rel.  Min.  Luiz  Fux).  (..)
+(HC  225896  AgR,  Relator  Ministro  Luís  Roberto  Barroso,  Primeira  Turma,  julgado  em  15/5/2023,  DJe  de  17/5/2023).
+O  entendimento  é  de  elevada  importância,  devendo  ser  utilizado  para  preservar  a  real  utilidade  e  eficácia  da  ação  constitucional,  qual  seja,  a  proteção  da  liberdade  da  pessoa,  quando  ameaçada  por  ato  ilegal  ou  abuso  de  poder,  garantindo  a  necessária  celeridade  no  seu  julgamento.
+A  concessão  de  ofício  da  ordem,  nos  termos  dos  arts.  647-A  e  654,  §  2º,  do  Código  de  Processo  Penal,  depende  da  existência  de  flagrante  ilegalidade,  situação  que  não  se  verifica  de  plano  na  hipótese  dos  autos,  conforme  extrai-se  do  voto  condutor  do  acórdão  da  segunda  instância,  na  parte  impugnada (e-STJ fl. 39):
+Na derradeira fase, as penas foram corretamente exasperadas em 3/8, diante da incidência das duas majorantes acertadamente recepcionadas, atinentes ao concurso de três agentes, e a restrição da liberdade das duas vítimas por cerca de uma hora, tornando-se definitivas, à míngua de outras causas de aumento, ou de diminuição.
+De outra banda, razão assiste ao Parquet quanto a dever ser fixado o regime prisional inicial fechado para o desconto das sanções aflitivas, único adequado aos corréus, que praticaram delito grave, agindo previamente conluiados, abordando as vítimas em plena luz do dia, quando elas exerciam trabalho lícito, para subtrair a carga que transportavam, ainda as mantendo privadas de sua liberdade, por cerca de uma hora, mediante emprego de graves e constantes ameaças, a denotar a periculosidade, o dolo e a ousadia acentuados dos réus, tudo a ensejar necessidade de efetiva e exemplar repressão penal, em consonância com o disposto nos artigos 33, §3º, e 59, ambos do Código Penal.
+Não se mostra possível, na via do habeas corpus, marcada pela impossibilidade de dilação probatória, afastar a causa de aumento com base nas circunstâncias fáticas do caso, especialmente quando as instâncias ordinárias confirmam a restrição da liberdade das vítimas por tempo suficiente.
+No ponto:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ARTIGO 157, § 2º, V, DO CP. ROUBO. CAUSA DE AUMENTO. RESTRIÇÃO DA LIBERDADE DA VÍTIMA. TEMPO JURIDICAMENTE RELEVANTE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. De acordo com o entendimento pacificado neste Superior Tribunal de Justiça, para a incidência da causa especial de aumento prevista no inciso V do § 2º do art. 157 do Código Penal, a "vítima deve ter a liberdade cerceada por tempo juridicamente relevante" (HC 404.792/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/9/2017).
+2. No caso, o Tribunal de origem, soberano na análise dos elementos fáticos e probatórios dos autos, concluiu que restou comprovado que as vítimas do roubo sofreram restrição à liberdade por tempo suficiente para configurar a causa de aumento em questão.
+3. Desse modo, para se acolher a pretensão defensiva, a fim de afastar a mencionada causa de aumento de pena, seria necessário o reexame de fatos e provas, o que não é possível nesta instância especial, tendo em vista a incidência do óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.587.233/TO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024.)
+Quanto ao regime prisional, conforme asseverei no julgamento do HC n. 782.933/SP, impetrado em favor dos corréus, o Tribunal de origem fixou o regime fechado em razão da gravidade concreta do crime, o que exige maior reprovabilidade da conduta.
+Assim, embora a pena aplicada se situe, na hipótese, em patamar superior a 4 anos e inferior a 8 anos de reclusão e as circunstâncias judiciais sejam favoráveis, é cabível a imposição de regime mais gravoso, ante a gravidade concreta do delito, mostrando-se viável a fixação do modo fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal.
+A propósito:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBOS. ABSOLVIÇÃO. SÚMULA 7/STJ. REGIME MAIS GRAVOSO. POSSIBILIDADE. SÚMULAS 440/STJ, 718/STF e 719/STF. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. É necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime. Súmulas 440/STJ, 718/STF e 719/STF.
+3. No caso dos autos, verifica-se que o regime mais gravoso foi fixado com base no fato dos roubos terem sido praticados em concurso de ao menos quatro agentes e mediante restrição da liberdade das vítimas, o que configura motivação concreta a justificar regime fechado, mesmo sendo o acusado primário e a pena-base ter sido fixada no mínimo legal.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 2.179.720/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
