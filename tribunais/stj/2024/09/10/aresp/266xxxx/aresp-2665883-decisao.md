@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ROBERTO NABHAN, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de execução de título extrajudicial movida pelo agravante contra B2B CAPITAL PARTNERS SA, FERNANDO OROZCO BITENCOURT DE OLIVEIRA, ELIAS SALLUM JUNIOR.
+Acórdão: deu parcial provimento ao agravo de instrumento da parte agravada, nos termos da seguinte ementa:
+"Agravo de Instrumento alvejando Decisão monocrática que, nos autos da Ação de Execução de Título Extrajudicial, deferiu a penhora on-linen a conta dos executados, sem apreciar o pleito de desconsideração da personalidade jurídica em relação aos sócios da empresa devedora, como requerido na petição inicial da Execução, consoante artigo 134, parágrafo 2ºdo Código de Processo Civil.
+Acórdão proferido no Agravo de Instrumento nº0071869-91.2018.8.19.0000queapenas reconheceu a desnecessidade da instauração do incidente de desconsideração da personalidade jurídica, conforme artigo 134, parágrafo 2ºda Lei Processual, determinando que a matéria seja apreciada pelo Juízo a quo, sob pena de supressão de instância. Sentença proferida nos Embargos de Devedor, sem apreciação da desconsideração da personalidade jurídica suscitada na peça de defesa, cuja matéria, segundo a Douta sentenciante, seria examinada na Execução, estando pendente juízo de admissibilidade de Recurso Especial em relação ao Acórdão proferido nos Embargos à Execução opostos pelos executados/agravantes.
+Matéria sobre a desconsideração da personalidade jurídica ainda não submetida a esta Câmara Cível. Determinação de apreciação pelo órgão a quo, para que a Execução se desenvolva regularmente.
+Descabe a liberação das constrições judiciais sobre o patrimônio dos segundo e terceiro executados/embargantes, enquanto não for apreciada a desconsideração da personalidade jurídica, porque não há ato imputável ao exequente pela demora na apreciação da referida matéria, a justificar o levantamento da constrição sobre o patrimônio dos sócios. Provimento parcial do Agravo de Instrumento". (e-STJ fls. 221/222)
+Decisão de admissibilidade do TJ/RJ: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. ausência de violação do art. 489 do CPC;
+ii. ausência de violação do art. 1.022 do CPC e
+iii. reexame de contexto fático-probatório (Súmula 7 do STJ).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante reitera violação dos dispositivos de lei federal, fundamentação acerca do mérito propriamente dito. Alega genericamente não incidir a Súmula 7/STJ. Aduz para tanto que A primeira premissa formada no acórdão está equivocada. Alega que o acórdão acabou por decidir contrariamente aos próprios elementos que constam dos autos, pois o ato impugnado por meio do Agravo de Instrumento apenas serviu para dar cumprimento ao que já havia sido anteriormente determinado na decisão preclusa de fls. 494. Em seguida, anexa documentos a embasar sua pretensão. Repisa o dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. reexame de contexto fático-probatório (Súmula 7 do STJ).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023. Na hipótese, além de anexar documentos na tentativa de embasar sua pretensão, a parte alega que o acórdão decidiu contrariamente aos próprios elementos que constam nos autos em razão da adoção de premissa equivocada. Dessa forma, emerge-se, a partir desses argumentos, a necessidade de reexame de fatos e provas.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
