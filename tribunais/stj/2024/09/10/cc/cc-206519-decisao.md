@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, apresentado por SIMONE PEREIRA DA SILVA BAPTISTA e OUTROS, sendo suscitados o Juízo da 46ª Vara do Trabalho do Rio de Janeiro, a Terceira Turma do Tribunal Regional do Trabalho da Primeira Região e o Juízo da 1ª Vara de Família da Comarca de Nilópolis - RJ.
+Alegam os suscitantes que, com o falecimento do exequente, os créditos trabalhistas devem ser incluídos no inventário, pois transmitem-se automaticamente aos herdeiros, ainda que não sejam dependentes nos termos do artigo 1º da Lei n.º 6.858/1980.
+Narram que, "embora os autores tenham solicitado a habilitação incidental nos autos do processo de execução trabalhista, a magistrada não acatou o pedido dos requerentes e indeferiu a habilitação dos herdeiros necessários do de cujus".
+A Vice-Presidência deste STJ deferiu parcialmente o pedido liminar, a fim de "determin ar  a suspensão dos atos executórios promovidos pelo JUÍZO DA 46ª VARA DO TRABALHO DO ESTADO DO RIO DE JANEIRO, e TERCEIRA TURMA DO TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO nos autos do processo nº 0055200-26.2005.5.01.0046, ficando obstada qualquer liberação de valores ali depositados. Design ou , por conseguinte, o JUÍZO DE DIREITO DA 1ª VARA DE FAMÍLIA DA COMARCA DE NILÓPOLIS - RJ para decidir acerca de eventuais medidas urgentes".
+Os Juízos suscitados prestaram informações nas fls. 1025-1032, 1036-1047 e 1051-1055.
+O Ministério Público Federal opinou pela declaração da competência da Justiça estadual, em parecer assim ementado:
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO LABORAL X JUÍZO COMUM. RECLAMAÇÃO TRABALHISTA. CRÉDITOS. EXECUÇÃO DE SENTENÇA. ÓBITO DO AUTOR. INCLUSÃO NO INVENTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM. ENTENDIMENTO DO STJ. PARECER PARA QUE SE CONHEÇA DO CONFLITO, DECLARANDO-SE A COMPETÊNCIA DO JUÍZO DE DIREITO DA 1ª VARA DE FAMÍLIA DE NILÓPOLIS/RJ.
+Assim delimitada a controvérsia, passo a decidir.
+No presente caso, os herdeiros necessários de Eriberto da Silva se habilitaram nos autos de inventário, sob o rito de arrolamento, no qual informaram que o de cujus deixou crédito oriundo de reclamação trabalhista, requerendo o arresto do montante e, posteriormente, sua liberação e levantamento nos autos do inventário.
+As instâncias trabalhistas, no entanto, determinaram que os herdeiros legítimos do falecido credor não tinham legitimidade para figurar no feito executivo, ante a existência de dependente habilitada perante a Previdência Social, conforme demonstra a seguinte ementa proferida em sede de agravo de petição (fl. 15):
+AGRAVO DE PETIÇÃO. SUCESSÃO. A discussão acerca da legitimidade para figurar no feito como parte pretendendo o pagamento de parcelas trabalhistas devidas a empregado de cujus, resolve-se à luz da Lei nº 6.858/1980, que trata especificamente do tema. Logo, somente na falta de dependentes habilitados perante à Previdência Social, os legitimados para a percepção do crédito trabalhista serão os sucessores previstos no Código Civil, na forma do artigo 1.829.
+O entendimento adotado pela Justiça trabalhista, segundo a qual "a discussão acerca da legitimidade para figurar no feito como parte pretendendo o pagamento de parcelas trabalhistas devidas a empregado de cujus, resolve-se à luz da Lei nº 6.858/1980", não encontra respaldo na jurisprudência desta Corte, a qual reconhece que compete à Justiça Comum deliberar sobre o destino de créditos dessa natureza devidos ao falecido.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CRÉDITOS. EXECUÇÃO DE SENTENÇA. ÓBITO DO AUTOR. INCLUSÃO NO INVENTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO NÃO PROVIDO.
+1. Inaplicabilidade da Súmula nº 59 do STJ, uma vez que as circunstâncias fáticas não se amoldam ao entendimento firmado na Súmula nº 59 do STJ, diante da ausência do trânsito em julgado das ações - execução trabalhista e inventário, em curso perante os juízos confrontados.
+2. A jurisprudência desta Corte Superior se firmou no sentido de que compete à Justiça Comum deliberar sobre o destino dos créditos devidos ao de cujus, submetendo-os ao inventário e partilhados entre os herdeiros, sendo inaplicável a definição de dependentes prevista no art. 1º da Lei nº 6.858/80.
+3. Agravo interno não provido.
+(AgInt no CC n. 176.724/ES, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 13/12/2022, DJe de 16/12/2022.)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. AÇÃO DE INVENTÁRIO EM CURSO NA JUSTIÇA ESTADUAL X RECLAMAÇÃO TRABALHISTA EM CURSO NA JUSTIÇA DO TRABALHO. CRÉDITO RECONHECIDO AO FALECIDO AUTOR DA AÇÃO TRABALHISTA. INAPLICABILIDADE DA LEI N. 6.858/80. COMPETÊNCIA DO JUÍZO ESTADUAL PARA DECIDIR SOBRE A PARTILHA E O LEVANTAMENTO DO REFERIDO CRÉDITO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESOBEDIÊNCIA AO COMANDO DO ART. 1.021, § 1.º, DO CPC/2015. RECURSO NÃO CONHECIDO.
+(AgInt no CC n. 182.851/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 31/5/2022, DJe de 2/6/2022.)
+RECLAMAÇÃO TRABALHISTA. MORTE DO RECLAMANTE.
+I - Os créditos oriundos de reclamações trabalhistas em fase de execução de sentença, após o falecimento do autor, devem ser incluídos no inventário e partilhados entre os herdeiros, independentemente de serem definidos como dependentes nos termos do art. 1º da Lei 6.858/80.
+II - O valor a que faz jus o obreiro, reconhecido em Reclamação Trabalhista, é patrimônio que, com sua morte, transmite-se automaticamente aos herdeiros, razão pela qual deve ser incluído no inventário e partilhado entre eles, como se entender de direito.
+Conflito conhecido para se declarar a competência do Juízo da Vara de Sucessões e Registros Públicos de Olinda.
+(CC n. 108.166/PE, relator Ministro Sidnei Beneti, Segunda Seção, julgado em 14/4/2010, DJe de 30/4/2010.)
+RECLAMAÇÃO TRABALHISTA. RECLAMANTE. MORTE. MONTANTE. REPARTIÇÃO ENTRE OS HERDEIROS. LEI Nº 6.858/1980. NÃO APLICAÇÃO.
+1 - O montante encontrado na reclamação trabalhista é patrimônio do de cujus e, portanto, direito de todos os herdeiros, sejam eles definidos ou não como dependentes. A existência de dependentes, no caso concreto, a viúva de segundas núpcias e seu rebento, não é excludente daqueles não dependentes, mas herdeiros legais para todos os efeitos, vale dizer, os ora suscitantes, filhos do primeiro casamento.
+2 - Não incidência do art. 1º da Lei nº 6.858/1980.
+3 - Conflito conhecido para declarar competente a Justiça Comum Estadual.
+(CC n. 95.176/RS, relator Ministro Fernando Gonçalves, Segunda Seção, julgado em 26/11/2008, DJe de 9/12/2008.)
+Com isso em vista, entendo que a competência para decidir o destino dos créditos trabalhistas, na hipótese, pertence à Justiça Comum Estadual, que deverá incluí-los no inventário, a fim de que sejam partilhados entre os herdeiros, não sendo aplicável o art. 1º da Lei 6.858/80.
+Em face do exposto, conheço do conflito e declaro a competência do Juízo da 1ª Vara de Família da Comarca de Nilópolis - RJ.
+Intimem-se.
+EMENTA
