@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado:
+HABEAS CORPUS - CRIMES DE TRÁFICO DE DROGAS, COMÉRCIO ILEGAL DE ARMA DE FOGO, LAVAGEM DE DINHEIRO E ORGANIZAÇÃO CRIMINOSA (ART. 33, CAPUT, DA LEI Nº 11.343/2006, ART. 17 DA LEI Nº 10.826/2003, ART. 1º, CAPUT, DA LEI Nº 9.613/1998 E ART. 2º DA LEI Nº 12.850/2013) - ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL PELO ACOLHIMENTO DA RETRATAÇÃO AO PEDIDO DE ARQUIVAMENTO - ART. 28 DO CPP - INAPLICABILIDADE DAS ALTERAÇÕES TRAZIDAS PELA LEI Nº 13.964/2019 - REDAÇÃO EM VIGOR QUE PREVÊ A PARTICIPAÇÃO DO JULGADOR NO PROCEDIMENTO DE ARQUIVAMENTO - ATO QUE SÓ SE PERFECTIBILIZA COM A HOMOLOGAÇÃO - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - ORDEM CONHECIDA E DENEGADA.
+Imputa-se ao recorrente a prática do crime de tráfico de drogas, comércio ilegal de armas de fogo e organização criminosa.
+A defesa alega, em síntese que "m 23/05/2024,o MPS
+Epediu, de forma fundamentada, o arquivamento do inquérito policialem relação à recorrentee outrosinvestigados" e que "em 24/05/2024, sem qualquer justificativa fundamentada, o MPSE "muda" de entendimento, e passou a apresentar DENUNCIA contra a ora recorrente, indicando como escusaque o ARQUIVAMENTO deveria ser desentranhado dos autos, pois foi "um erro".
+Ao final, requer o provimento do recurso para que se determine "ao Juízo de primeiro grau que restitua aos autos a peça de arquivamento que mandou desentranhar, e, além disso, examine-a de forma imparcial, o que é medida de direito e justiça, ex vi do art. 28 do CPP".
+É o relatório.
+Decido.
+Do voto condutor do acórdão recorrido extraem-se os seguintes trechos de relevo, cujos pontos ora destacados passam a integrar a presente fundamentação:
+Pelo que se denota da prova pré-constituída, mais especificamente da resenha processual juntada às p. 120/129 e da decisão da Magistrada às p. 106/108, não resta dúvida de que o Órgão Acusador, na data de 23/05/2024, protocolizou requerimento de arquivamento parcial e uma denúncia, bem como no dia imediatamente seguinte (24/05/2024) informou o peticionamento equivocado e solicitou que fosse reparado o erro.
+Nesse sentido, considerando as premissas acima postas, de que a alteração implementada pelo Pacote Anticrime no art. 28 do CPP está com a sua eficácia suspensa em razão de decisão do STF, impõe-se reconhecer que não assiste razão ao Impetrante.
+De acordo com a redação em vigor do art. 28 do CPP, o arquivamento do inquérito policial e/ou peças informativas, diferentemente do defendido na impetração, não é um ato processual que se perfectibiliza com a sua apresentação, pois está condicionado à homologação do Magistrado que, eventualmente, pode discordar e iniciar o "procedimento" de revisão do arquivamento pelo Procurador-Geral de Justiça com a remessa dos autos à Instância Superior do Ministério Público.
+Assim, infiro ser possível que, até a análise do pedido de arquivamento pelo Julgador, o Ministério Público possa rever seu posicionamento quanto ao arquivamento e, na fase do art. 28 do CPP, requeira a realização de mais diligências ou ofereça a exordial acusatória.
+Com efeito, é assente na jurisprudência desta corte que "o arquivamento é ato complexo, que envolve o prévio requerimento do Ministério Público, titular da ação penal, e posterior decisão do juiz competente." (RHC 182466, Decisão Monocrática, Relator(a) Ministro MESSOD AZULAY NETO, Data da Publicação 14/02/2024)
+Destarte, ausente previsão legal no sentido da irretratabilidade da manifestação ministerial prévia à análise da promoção relativa ao destino final das apurações anteriores à denúncia, não se mostra viável o acolhimento da pretensão defensiva, no sentido de restaurar os efeitos do pedido de arquivamento retirado pelo "parquet" a pretexto da ocorrência de erro material.
+Pelo exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
