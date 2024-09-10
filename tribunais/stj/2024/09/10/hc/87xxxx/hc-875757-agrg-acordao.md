@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto em favor de EDSON FERNANDO DA SILVA contra decisão que não conheceu o habeas corpus em que, inicialmente, se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SANTA CATARINA (Apelação Criminal Nº 5017988-85.2020.8.24.0039/SC).
+O agravante foi condenado à pena de 5 meses e 22 dias de detenção, em regime inicial aberto, pela prática dos crimes previstos nos art. 129 §9º c/c art. 61, II, "f" e "h" c/c art. 147, caput c/c art. 61, II, "f" e "h" todos do Código Penal.
+A apelação criminal interposta pela defesa foi parcialmente provida para corrigir a dosimetria da pena, afastando a agravante prevista no art. 61, inciso II, alínea "h" do CP, com fundamento de que o agravante não tinha ciência da gravidez da vítima (e-STJ, fls. 12-20).
+Contra essa decisão, o agravante impetrou habeas corpus junto a esta Corte, pelo fato de que o Tribunal de origem manteve a valoração negativa das circunstâncias e das consequências do delito em ambos os crimes, o qual foi liminarmente denegado por esta Relatoria (e-STJ, fls.176-179).
+A defesa requer o conhecimento e o provimento do presente recurso para que, não sendo exercido positivamente o juízo de retratação pelo Exmo. Relator, seja o habeas corpus devidamente apreciado pelo Órgão Colegiado.(e-STJ, fls. 231-235).
+O Ministério Público apresentou contraminuta, manifestando-se pelo não conhecimento do agravo regimental (e-STJ, fls. 242-247).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE LESÃO CORPORAL NO ÂMBITO DOMÉSTICO E DE AMEAÇA (ART. 129 §9º C/C ART. 61, II, "F" E "H" E ART. 147, CAPUT C/C ART. 61, II, "F" E "H" TODOS DO CÓDIGO PENAL). INCIDÊNCIA DA SÚMULA Nº 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+2. A dosimetria da pena encontra-se dentro do juízo de discricionariedade do julgador, a partir da análise das particularidades fáticas do caso concreto e subjetivas do autor, sendo somentepossível a revisão, por esta Corte, no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo.
+No entanto, não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso, uma vez que a decisão agravada assim dispôs (e-STJ, fls.220-222):
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024)."De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+nãAnalisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024."
+Outrossim, a hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, apenas foram reiterados os fundamentos trazidos no writ, o que inviabiliza o conhecimento da insurgência.
+É assente nesta Corte que "não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia" (AgRg no AREsp n. 2.463.052/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2024, DJe de 8/3/2024).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial interposto pelo recorrente, apontando o óbice da Súmula 182 do STJ.
+2. Não obstante, neste agravo regimental, a parte agravante limita-se a afirmar, de modo genérico, que impugnou todos os fundamentos da decisão de admissibilidade, deixando, novamente, de atacar os fundamentos da decisão agravada.
+3. Não é viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos do recurso próprio. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP, o que é o caso.
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.513.329/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO. PLEITO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE IMPU GNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ.
+I - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, sendo insuficientes as assertivas de que todos os requisitos de admissibilidade foram preenchidos ou a mera reiteração da controvérsia. Incidência da Súmula n. 182, STJ.
+II - In casu, o agravante não enfrentou adequadamente a tese que levou ao não conhecimento do agravo em recurso especial, tendo se limitado à mera reiteração do mérito da controvérsia.
+Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.428.844/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/2/2024, DJe de 15/2/2024.)
+Ainda que assim não fosse, para que se analisasse a tese trazida pelos agravantes em sede de habeas corpus seria necessária a reapreciação do conjunto fático-probatório, o que seria impossível em ação autônoma de impugnação.
+Ademais, insere-se a dosimetria da pena encontra-se dentro do juízo de discricionariedade do julgador, a partir da análise das particularidades fáticas do caso concreto e subjetivas do autor, sendo somentepossível a revisão, por esta Corte, no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, o que não ocorreu no caso concreto (AgRg no HC n. 901.630/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/6/2024, DJe de 3/7/2024).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
