@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de TIAGO FARIAS DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0001266-88.2018.8.26.0358).
+O paciente foi definitivamente condenado às penas de 2 anos, 4 meses e 24 dias de reclusão, no regime inicial semiaberto, e ao pagamento de 11 dias-multa, como incurso no art. 155, § 4º, I e IV, c/c o art. 29 do Código Penal.
+A impetrante sustenta que o aumento da pena-base levou em consideração a presença de maus antecedentes aferidos por ações penais em curso, em desconformidade com a Súmula 444/STJ.
+Defende também a fixação do regime inicial aberto.
+A liminar foi indeferida.
+Prestadas as informações, o  Ministério  Público  Federal  opinou pelo não conhecimento do writ ou pela denegação da ordem.
+É  o  relatório.  Decido.
+A  Terceira  Seção  desta  Corte,  seguindo  entendimento  firmado  pela  Primeira  Turma  do  Supremo  Tribunal  Federal,  sedimentou  orientação  no  sentido  de  não  admitir  habeas  corpus  em  substituição  a  recurso  próprio  ou  a  revisão  criminal,  situação  que  impede  o  conhecimento  da  impetração,  ressalvados  casos  excepcionais  em  que  se  verifica  flagrante  ilegalidade  apta  a  gerar  constrangimento  ilegal.
+Veja-se:
+"O  habeas  corpus  não  pode  ser  utilizado  como  substitutivo  de  recurso  próprio,  a  fim  de  que  não  se  desvirtue  a  finalidade  dessa  garantia  constitucional,  com  a  exceção  de  quando  a  ilegalidade  apontada  é  flagrante,  hipótese  em  que  se  concede  a  ordem  de  ofício"
+(AgRg  no  HC  n.  895.777/PR,  Relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  2/4/2024,  DJe  de  8/4/2024).
+"De  acordo  com  a  jurisprudência  do  STJ,  não  é  cabível  o  uso  de  habeas  corpus  como  sucedâneo  de  revisão  criminal,  notadamente  quando  não  há  indicação  de  incidência  de  alguma  das  hipóteses  previstas  no  art.  621  do  CPP.  Precedentes"
+(AgRg  no  HC  n.  864.465/SC,  Relator  Ministro  Rogerio  Schietti  Cruz,  Sexta  Turma,  julgado  em  18/3/2024,  DJe  de  20/3/2024).
+A  jurisprudência  do  Supremo  Tribunal  Federal  é  no  mesmo  sentido:
+"Do  ponto  de  vista  processual,  o  caso  é  de  habeas  corpus  substitutivo  de  agravo  regimental  (cabível  na  origem).  Nessas  condições,  tendo  em  vista  a  jurisprudência  da  Primeira  Turma  desta  Corte,  entendo  que  o  processo  deve  ser  extinto  sem  resolução  de  mérito,  por  inadequação  da  via  eleita  (HC  115.659,  Rel.  Min.  Luiz  Fux)  (..)  A  orientação  jurisprudencial  deste  Tribunal  é  no  sentido  de  que  o  "habeas  corpus  não  se  revela  instrumento  idôneo  para  impugnar  decreto  condenatório  transitado  em  julgado"  (HC  118.292-AgR,  Rel.  Min.  Luiz  Fux).  4.  O  caso  atrai  o  entendimento  desta  Corte  no  sentido  de  que  não  cabe  habeas  corpus  para  reexaminar  os  pressupostos  de  admissibilidade  de  recurso  interposto  perante  outros  Tribunais  (HC  146.113-AgR,  Rel.  Min.  Luiz  Fux;  e  HC  110.420,  Rel.  Min.  Luiz  Fux).  (..)
+(HC  225896  AgR,  Relator  Ministro  Luís  Roberto  Barroso,  Primeira  Turma,  julgado  em  15/5/2023,  DJe  de  17/5/2023).
+O  entendimento  é  de  elevada  importância,  devendo  ser  utilizado  para  preservar  a  real  utilidade  e  eficácia  da  ação  constitucional,  qual  seja,  a  proteção  da  liberdade  da  pessoa,  quando  ameaçada  por  ato  ilegal  ou  abuso  de  poder,  garantindo  a  necessária  celeridade  no  seu  julgamento.
+A  concessão  de  ofício  da  ordem,  nos  termos  dos  arts.  647-A  e  654,  §  2º,  do  Código  de  Processo  Penal,  depende  da  existência  de  flagrante  ilegalidade,  situação  que  não  se  verifica  de  plano  na  hipótese  dos  autos,  conforme  extrai-se  do  voto  condutor  do  acórdão  impugnado:
+III - réu Tiago Farias de Oliveira
+Na primeira fase, a pena-base foi fixada em 1/6 acima do mínimo legal, resultando em 02 anos e 04 meses de reclusão e 11 dias-multa, no mínimo legal, diante dos maus antecedentes do acusado.
+Aqui, conforme devidamente destacado pelo Ministério Público, verifica-se que a reprimenda de Tiago deve ser recrudescida, primeiro, por ostentar duas condenações ensejadoras de maus antecedentes, e, depois, pela segunda qualificadora, a qual igualmente demanda a fixação de pena mais gravosa nesta fase.
+Há que se atentar, contudo, para o fato de que Tiago ostenta uma condenação a menos (ensejadora de maus antecedentes) se comparado ao seu comparsa Maxwell, o que, em respeito à individualização da pena, deve resultar em recrudescimento da pena não tão gravoso quanto aquele aplicado a Maxwell, que ostenta três condenações configuradoras de maus antecedentes.
+Desse modo, elevo a sua pena-base em 1/5, o que perfaz 02 anos, 04 meses e 24 dias de reclusão e 12 dias-multa, no mínimo legal.
+Nas demais fases, a pena não sofre alterações, restando definitiva, assim, no patamar supramencionado.
+IV - Regime de cumprimento de penas (todos os réus)
+Quanto ao regime prisional, diante dos patamares de pena impostas a Tiago e Maxwell, bem como de seus maus antecedentes, a fixação do regime inicial semiaberto se mostrou mesmo a mais adequada, pelo que deve ser mantida.
+A alegação de ofensa ao enunciado 444 da Súmula do STJ ("É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base.") não foi submetida à apreciação da instância de origem. De qualquer modo, vale conferir o seguinte precedente desta relatoria:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. CRIME DE TRÁFICO DE DROGAS. FATO ANTERIOR COM TRÂNSITO EM JULGADO POSTERIOR. CARACTERIZAÇÃO DOS MAUS ANTECEDENTES. AFASTAMENTO DO PRIVILÉGIO. REGIME CARCERÁRIO MAIS GRAVOSO JUSTIFICADO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior já fixou entendimento no sentido de que a prática de crime anterior ao fato em julgamento, porém com trânsito em julgado posterior, apesar de não se encaixar no conceito de reincidência, configura maus antecedentes. Precedentes.
+2. Não obstante o §4º do art. 33 da Lei n. 11.343/2006 possibilite a redução de pena à fração de 1/6 a 2/3, havendo o reconhecimento dos maus antecedentes, fica afastada a aplicação do redutor.
+3. Com relação à fixação do regime inicial de cumprimento de pena, a jurisprudência já se sedimentou no sentido de que ele não está atrelado, de modo absoluto, ao quantum da sanção corporal aplicada.
+4. A Corte local apresentou motivação concreta e relacionada ao caso para aplicar regime mais gravoso, estando a fundamentação em consonância com o entendimento vigente nesta Corte de que "estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, o regime inicial fechado (previsto como o imediatamente mais grave) é o adequado para prevenção e reprovação do delito, tendo em vista os maus antecedentes do acusado, consoante as diretrizes do art. 33, § 2º, alíneas "a" e "b", do CP" (AgRg no AgRg no AREsp 1713569/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/10/2020, DJe 13/10/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 865.320/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Quanto ao estabelecimento do regime semiaberto, certo é que, "mantida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu" (HC n. 538.556/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/11/2019, DJe de 5/12/2019).
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
