@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por IZAIAS ROSA DA CRUZ à decisão que não admitiu seu Recurso Especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - PRELIMINAR SUSCITADA DE OFÍCIO - INOVAÇÃO RECURSAL - EMPRÉSTIMO CONSIGNADO EM FOLHA DE PAGAMENTO -JUROS REMUNERATÓRIOS - INSTRUÇÃO NORMATIVA INSS  28 DE 2008 - AUSÊNCIA DE ABUSIVIDADE.
+Quanto à controvérsia, a parte recorrente alega violação do art. 369 do CPC, no que concerne à configuração de cerceamento de defesa em razão da impossibilidade de produção de prova pericial, trazendo a seguinte argumentação:
+Inicialmente, jus se faz trazer à baila o julgamento equivocado sentencial confirmado pela 12ª Câmara Cível do Egrégio Tribunal de Justiça do Estado de Minas Gerais, que não acolheu a preliminar da apelação interposta pelo o recorrente referente ao cerceamento de defesa, tendo em vista o indeferimento da prova pericial na fase sentencial.
+Ao analisarmos a decisão é possível verificar que o respeitoso Tribunal de Justiça acompanhou o indeferimento da prova pericial, dado na fase de conhecimento de forma equivocada, uma vez que inobservaram o que dispõe claramente o artigo 369 do Código de Processo Civil.
+Segundo o artigo supramencionado as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz.
+ ..
+Portanto, resta clarificado que o referido acórdão violou o artigo 369 do Código de Processo Civil, pois não possibilitou ao recorrente o direito de empregar todos os meios de provas legais permitidos, motivo pelo qual deve ser reformado (fls. 433-434)
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Por ocasião da interposição do recurso de apelação (ordem 37), o autor, em manifesta inovação recursal, suscitou preliminar de cerceamento de defesa, sob o argumento de que a prova pericial contábil é imprescindível para o correto deslinde da questão, por permitir a comprovação de que os juros remuneratórios foram cobrados em percentual superior àquele previsto no contrato.
+Vê-se, portanto, que, na inicial, o autor formulou pedido de limitação dos juros remuneratórios ao percentual por ele indicado (suscitando a abusividade in abstrato da cobrança), ao passo que, em suas razões recursais, requereu a produção de prova técnica, com o objetivo de comprovar que os juros foram cobrados em desconformidade com o contrato (abusividade in concreto).
+Nesses termos, tenho que a fundamentação de cerceamento de defesa sob o argumento de que a prova pericial é imprescindível para se comprovar que os juros foram aplicados diferentemente do que constou do contrato não merece conhecimento, posto que não trazida ao conhecimento da parte adversa e do Julgador em primeira instância (fl. 421).
+Aplic ável, portanto, o óbice da Súmula n. 284/STF, porquanto as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
