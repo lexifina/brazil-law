@@ -1,5 +1,5 @@
 Art. 10. Permanecem sujeitas às normas da legislação da COFINS, vigentes anteriormente a esta Lei, não se lhes aplicando as disposições dos arts. 1º a 8º:
-I - as pessoas jurídicas referidas nos §§ 6º, 8º e 9º do art. 3º da Lei nº 9.718, de 1998, e na Lei nº 7.102, de 20 de junho de 1983;
+I - as pessoas jurídicas referidas nos §§ 6º, 8º e 9º do art. 3º da Lei nº 9.718, de 27 de novembro de 1998, e na Lei que institui o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras;
 II - as pessoas jurídicas tributadas pelo imposto de renda com base no lucro presumido ou arbitrado;
 III - as pessoas jurídicas optantes pelo SIMPLES;
 IV - as pessoas jurídicas imunes a impostos;
