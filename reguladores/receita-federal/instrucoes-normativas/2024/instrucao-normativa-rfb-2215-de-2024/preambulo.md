@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2215, de 3 de setembro de 2024
+Altera a Instrução Normativa RFB nº 2.063, de 27 de janeiro de 2022, para dispor sobre o parcelamento de débitos tributários para empresas em recuperação judicial, e revoga dispositivos da Instrução Normativa RFB nº 2.168, de 28 de dezembro de 2023.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 10-A da Lei nº 10.522, de 19 de julho de 2002, e na Lei nº 14.740, de 29 de novembro de 2023, resolve:
