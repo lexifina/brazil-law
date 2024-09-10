@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROSEMERY FLAVIO contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento. Após, aquela decisão foi integrada pela decisão de fls. 1.444-1.445 (e-STJ), a qual rejeitou os embargos de declaração opostos pela defesa.
+A parte agravante alega que não é o caso da incidência da Súmula 07/STJ. Reitera os argumentos do recurso especial. Aduz para tanto que o acórdão que julgou a revisão criminal foi nulo por não ter sido intimada a defesa da data em que seria proferido o voto vista em continuação do julgamento. Aduz que o acórdão foi omisso quanto ao exame da ausência de fundamentação válida para a imposição da sanção de perda do cargo público. Conclui que o julgado recorrido não apresentou fundamentação adequada.
+Pede, ao final, o provimento deste agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. DENUNCIAÇÃO CALUNIOSA. CONTINUAÇÃO DO JULGAMENTO. NOVA INTIMAÇÃO. DESNECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A recorrente foi intimada em 24/4/2023. Em 18/5/2023, foi realizada a sessão de julgamento, na qual a defesa constituída apresentou sustentação oral. Em 20/7/2023, prosseguiu o julgamento com a apresentação do voto-vista. Apesar de o voto-vista não ter sido apresentado na sessão subsequente (15/6/2023), a sessão ocorreu em data próxima (20/7/20 23), não havendo necessidade de serem as partes intimadas novamente, visto que já iniciado o julgamento, inclusive, com apresentação de sustentação oral, o que afasta a alegação de prejuízo para o exercício da ampla defesa
+2. Em relação às demais teses de suposta omissão do acórdão recorrido, no que se refere ao exame da ausência de fundamentação válida para a imposição da sanção de perda do cargo público e de ausência de fundamentação adequada, não se pode conhecer o questionamento da parte recorrente. A pretensão está prejudicada quanto a esses pontos, uma vez que já foi examinada pela Quinta Turma ao apreciar agravo em recurso especial interposto pelo ora recorrente.
+3. Agravo regimental desprovido.
+VOTO
+As alegações da parte agravante não são suficientes para reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos.
+A respeito da alegada nulidade por falta de nova intimação da recorrente acerca da continuação do julgamento após apresentação do voto-vista, manifestou-se a Corte de origem (e-STJ, fls. 893-894):
+"A requerente foi intimada da inclusão da revisão criminal em pauta de julgamento em 24.04.23 (Id n. 273021212).
+Em 18.05.23, foi realizada a sessão de julgamento, na qual a defesa constituída apresentou a sustentação oral.
+Após os votos deste relator e dos Exmos. Desembargadores Federais Paulo Fontes e Hélio Nogueira julgando improcedente a revisão criminal, divergiu o Exmo. Desembargador Federal Ali Mazloum e pediu vista a Juíza Federal Convocada Louise Filgueiras.
+Ausentes, justificadamente, os Excelentíssimos Desembargadores Federais José Lunardelli, Fausto De Sanctis, Nino Toldo e Maurício Kato (substituído pela Juíza Federal Convocada Louise Filgueiras) (Id n. 274329596).
+Em 20.07.23, prosseguindo no julgamento com a apresentação do voto-vista, a 4ª Seção, por maioria, decidiu:
+Rejeitar a preliminar de não conhecimento arguida pelo Ministério Público Federal.
+No mérito, julgou improcedente a revisão criminal nos termos do voto deste relator, acompanhado pelos Exmos. Desembargadores Federais Paulo Fontes e Hélio Nogueira.
+Foram vencidos o Exmo. Desembargador Federal Ali Mazloum e a Juíza Federal Convocada Louise Filgueiras, que julgavam procedente a revisão criminal.
+Ausentes, justificadamente, os Desembargadores Federais Fausto De Sanctis e Ali Mazloum (Id n. 277376690).
+Assim, apesar de o voto-vista não ter sido apresentado na sessão subsequente (15.06.23), a sessão ocorreu em data próxima (20.07.23), não havendo necessidade de serem as partes intimadas novamente, visto que já iniciado o julgamento, inclusive, com apresentação de sustentação oral, o que afasta a alegação de prejuízo para o exercício da ampla defesa.
+A apresentação de memoriais pode ser realizada a qualquer tempo pelas partes, não sendo ato processual formal com previsão legal. Adiado o julgamento, em razão do pedido de vista, a requerente teve oportunidade de apresentar quaisquer documentos, haja vista que ocorreria o prosseguimento do julgamento.
+Afora isso, o voto-vista apresentado favoreceu a embargante, a revelar falta de prejuízo (não há nulidade)."
+Segundo se depreende dos autos, a recorrente foi intimada em 24.04.2023. Em 18.05.23, foi realizada a sessão de julgamento, na qual a defesa constituída apresentou sustentação oral. Em 20.07.23, prosseguiu o julgamento com a apresentação do voto-vista.
+Como se colhe do acórdão recorrido, "Assim, apesar de o voto-vista não ter sido apresentado na sessão subsequente (15.06.23), a sessão ocorreu em data próxima (20.07.23), não havendo necessidade de serem as partes intimadas novamente, visto que já iniciado o julgamento, inclusive, com apresentação de sustentação oral, o que afasta a alegação de prejuízo para o exercício da ampla defesa." (e-STJ, fl. 894).
+Tal entendimento encontra-se em consonância com a jurisprudência deste STJ, conforme se verifica dos seguintes julgados:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS CIRCUNSTANCIADO (540,4 KG DE MACONHA). NULIDADE. REGULAR INTIMAÇÃO DO ADVOGADO PARA A SESSÃO DE JULGAMENTO. ADIAMENTO DA SESSÃO. DESNECESSIDADE DA INTIMAÇÃO DA DEFESA DA NOVA DATA. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO DE PENA-BASE NO DOBRO. QUANTIDADE EXPRESSIVA DE ENTORPECENTE APREENDIDO. PROPORCIONALIDADE. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que indeferiu liminarmente a impetração, inicialmente, porque não subsiste a necessidade de nova intimação para julgamento da apelação decorrente de adiamento de julgamento para o qual a defesa já fora intimada. Precedentes.
+2. Ademais, quanto à dosimetria, uma vez que a exasperação da pena-base em 100% - fixada em 10 anos de reclusão e 1.000 dias-multa - não se mostra desproporcional em razão da expressiva quantidade do entorpecente apreendido (540,4 kg de maconha). Precedente.
+3. Agravo regimental improvido."
+(AgRg no HC n. 825.934/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PRAZO DE INTIMAÇÃO DE PAUTA. INEXISTÊNCIA DE NULIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. TUTELA PROVISÓRIA. OBRIGAÇÃO DE INSTALAR PLACAS DE ENERGIA FOTOVOLTAICA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 735/STF E 7/STJ.
+1. Segundo o art. 935 do Código de Processo Civil, "" e ntre a data de publicação da pauta e a da sessão de julgamento decorrerá, pelo menos, o prazo de 5 (cinco) dias, incluindo-se em nova pauta os processos que não tenham sido julgados, salvo aqueles cujo julgamento tiver sido expressamente adiado para a primeira sessão seguinte".
+2. "Esta Corte Superior firmou o entendimento no sentido de que não se faz necessária nova publicação nos casos de adiamento de processo de pauta, desde que o novo julgamento ocorra em tempo razoável" (EDcl no REsp n. 1.638.798/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+3. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+4. A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada a reintegração de posse dos imóveis objeto da lide principal.
+5. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.240.258/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+Assim, tendo em vista que o adiamento se deu em tempo razoável, com intervalo de dois meses, não há nulidade por ausência de renovação da intimação da recorrente.
+Em relação às demais teses de suposta omissão do acórdão recorrido, no que se refere ao exame da ausência de fundamentação válida para a imposição da sanção de perda do cargo público e de ausência de fundamentação adequada, entendo que não se pode conhecer o questionamento da parte recorrente. A pretensão está prejudicada quanto a esses pontos, uma vez que já foi examinada pela Quinta Turma ao apreciar agravo interposto pelo ora recorrente no AREsp 2.076.570/SP, assim ementado:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DENUNCIAÇÃO CALUNIOSA. REVISÃO CRIMINAL. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 11 E 489, § 1º, IV, DO CPC, TAMPOUCO DOS ARTS. 619 E 620 DO CPP. AUTORIA E MATERIALIDADE. SÚMULA 7/STJ. ART. 126-A DA LEI 8.112/1990. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há ofensa aos arts. 619 e 620 do CPP, tampouco aos arts. 11 e 489, § 1º, IV, do CPC, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+2. O Tribunal local entendeu que a ré apresentou notícia crime falsa contra colegas de trabalho, motivada por vingança pessoal, alterando os dados que recebeu do particular denunciante e dando causa à instauração de inquérito policial. Logo, o acolhimento da revisão criminal, para absolvê-la do delito de denunciação caluniosa nesta instância especial, esbarra na Súmula 7/STJ.
+3. O art. 126-A da Lei n. 8.112/1990 não protege a conduta dolosa de imputar crimes falsamente a pessoas sabidamente inocentes, valendo-se de meio fraudulento para tanto. Precedente desta Quinta Turma.
+4. A cassação judicial da pena de demissão imposta em PAD, por ausência de certeza quanto aos fatos, não impõe o acolhimento do pedido absolutório formulado em revisão criminal, tendo em vista o fundamento da decisão cível (dúvida probatória) e a independência entre as instâncias.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.076.570/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)"
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
