@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por IZABEL PEREIRA LIMA DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO. CIVIL. PROCESSO CIVIL. CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. DESCONTOS EM CONTA-CORRENTE. OFENSA AOS DIREITOS DA PERSONALIDADE.INEXISTÊNCIA. SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 14 do CDC, no que concerne à comprovação da falha na prestação de serviço pela parte recorrida e o nexo de causalidade entre tal conduta e os danos morais sofridos pela recorrente, porquanto ficou demonstrado a ocorrência de descontos não autorizados na sua conta corrente, trazendo a seguinte argumentação:
+Diante das circunstâncias evidenciadas, é irrefragável que a recorrente sofreu um dano moral, pois a conduta praticada pela recorrida causou-lhe inestimável decepção, dor psíquica e moral, que merece amparo e a devida reparação. Frisa-se que a recorrente é pessoa idosa e sofreu grande angústia quando percebeu que havia descontos em sua conta mensalmente.
+ ..
+No caso em testilha, considerando o artigo 14, do Código de Defesa do Consumidor, aplicam-se as diretrizes da responsabilidade objetiva, bastando para responsabilização a efetiva comprovação do dano e do nexo de causalidade entre a conduta imputada ao fornecedor ou prestador de serviços e os prejuízos sofridos pelo consumidor, sendo dispensada a configuração da culpa na conduta do agente.
+É perceptível a falha na prestação de serviço para com a consumidora, a qual não requisitou ou autorizou o débito de valores referentes ao banco BRB BANCO DE BRASILIA S.A em sua conta corrente. Mesmo assim, teve por meses, parte de seus rendimentos comprometidos em razão de débitos não autorizados. Ao total, foram R$ 144,03 (cento e quarenta e quatro reais e três centavos), subtraídos indevidamente de sua conta corrente, devido à absoluta negligência e falha na prestação do serviço da recorrida, que violou os preceitos do Código de Defesa do Consumidor.
+ ..
+Assim, requer a condenação da recorrida em indenização a título de danos morais na importância de R$ 15.000,00 (quinze mil reais), levando em consideração a abusividade da recorrida em descontar indevidamente da conta corrente da recorrente não autorizador por esta (fls. 337/340).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido se manifestou nos seguintes termos:
+Ainda que houvesse falha na prestação do serviço, não restou comprovado nos autos a efetiva ocorrência de prejuízos à personalidade da consumidora apelante, como naquelas situações de inscrição em cadastros de devedores, realização de cobranças vexatórias, ou indevidos descontos comprometedores da subsistência dos consumidores, não possibilitando concluir que a suposta ofensa tenha atingido a esfera íntima da consumidora para além do mero aborrecimento.
+Desta forma, não desincumbindo do ônus processual atribuído, a apelante deixou de trazer aos autos indícios mínimos aptos à comprovação dos fatos constitutivos do direito alegado.
+ ..
+Assim, por não restar comprovada a argumentada atuação abusiva por parte da instituição bancária requerida, bem como por não aferir nexo de derivação com a sustentada lesão à personalidade da autora, não há que se falar em dano extrapatrimonial a ser compensado (fls. 317/319).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
