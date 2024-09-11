@@ -1,0 +1,6 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos (Tema 1.225: "I. Tema Principal: Possibilidade de redirecionamento da execução a pessoa jurídica de direito público, em razão da insolvência de concessionária de serviço público, ainda que aquela não tenha participado da fase de conhecimento e não conste do título executivo judicial; II. Tema Subsidiário: Termo inicial do prazo prescricional quinquenal para fins de redirecionamento da execução contra o ente público"), com determinação de suspensão da tramitação de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do Código de Processo Civil de 2015 (REsp n. 2.005.469/RJ, REsp n. 2.027.163/RJ, REsp n. 2.085.625/RJ, REsp n. 2.091.784/RJ, REsp n. 2.014.924/RJ e REsp n. 2.050.880/RJ).
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão no Recurso Especial afetado, a fim de que a Corte de origem proceda, posteriormente, ao juízo de conformidade, nos moldes do art. 1.040 do estatuto processual.
+Publique-se e intimem-se. Cumpra-se.
+EMENTA
