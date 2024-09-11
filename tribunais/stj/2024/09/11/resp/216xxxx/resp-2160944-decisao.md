@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial Interposto por HERBAMED LABORATORIO NUTRACEUTICO LTDA. (HERBAMED LABORATORIO NUTRACEUTICO), com fundamento nas alíneas a e c do inciso III do artigo 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - Insurgência contra decisão que acolheu o pedido de desconsideração formulado pela exequente - Ausência dos requisitos do art. 50, do CPC - Inexistência de bens para satisfação do crédito e o encerramento irregular, por si só, não indicam abuso de personalidade - Decisão reformada - RECURSOPROVIDO. (e-STJ, fl. 22).
+Os embargos de declaração opostos por HERBAMED LABORATORIO NUTRACEUTICO foram rejeitados (e-STJ, fls. 94/99).
+No recurso especial interposto com fundamento no art. 105, III, a e c, da Constituição Federal, HERBAMED LABORATORIO NUTRACEUTICO alegou violação do art. 28, do CDC e art. 50, § 1º, do vigente Código Civil, ao aduzir que a devolução de alguns cheques de EJM COMÉRCIO LTDA. (EJM COMÉRCIO) caracterizaria ato antijurídico praticado com o intuito de fraudar os credores, configurando uso abusivo da personalidade jurídica da pessoa de existência ideal, o que, conjugado com a negativa de localização desta em seus endereços habituais, a insolvência, a inatividade e o encerramento irregular das atividades mercantis, além da discrepância entre os dados constantes da Junta Comercial e da Secretaria da Receita do Brasil quanto à composição societária da pessoa jurídica, ensejaria o decreto de desconsideração da personalidade da devedora. Também apontou dissenso pretoriano, tendo por paradigmas precedentes dos Tribunais de Justiça do Rio Grande do Sul e de Minas Gerais.
+Foram apresentadas contrarrazões (e-STJ, fls. 103/107).
+O apelo nobre foi admitido na origem (e-STJ, fls. 108/110).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De acordo com a orientação jurisprudencial desta Corte Superior, a desconsideração da personalidade jurídica exige o enquadramento nas hipóteses legais de confusão patrimonial ou desvio de finalidade, sendo insuficiente o encerramento irregular da sociedade ou a insuficiência de bens.
+Nesse sentido, confiram-se os seguinte precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. O entendimento do Superior Tribunal de Justiça é no sentido de que a desconsideração da personalidade jurídica a partir da Teoria Maior (art. 50 do Código Civil) exige a comprovação de abuso, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pelo que a mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não justifica o deferimento de tal medida excepcional. Precedentes. Incidência da Súmula 83 do STJ.
+1.1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.021.473/MT, relator Ministro Marco Buzzi, Quarta Turma, j. 12/12/2022, DJe de 16/12/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INDÍCIOS DE DISSOLUÇÃO IRREGULAR E INSOLVÊNCIA DA SOCIEDADE. REQUISITOS INSUFICIENTES. ABUSO DA PERSONALIDADE JURÍDICA. RECONHECIMENTO. REEXAME DE PROVAS. NÃO CABIMENTO.
+1. Incidente de desconsideração da personalidade jurídica.
+2. A presença de indícios de encerramento irregular da sociedade somada à inexistência de bens suficientes para pagamento do crédito exequendo não constitui motivo bastante para a desconsideração da personalidade jurídica, sendo necessária a comprovação do abuso da personalidade jurídica.
+3. A pretensão de reexame das provas dos autos não é cabível na via do recurso especial.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.205.498/DF, relatora Ministra Nancy Andrighi, Terceira Turma, j. 28/11/2022, DJe de 30/11/2022.)
+In casu, o aresto recorrido expressamente consignou a ausência de configuração de quaisquer modalidades de abuso de personalidade jurídica, nos termos seguintes:
+Ocorre que a inexistência de bens para satisfação do crédito e o encerramento irregular, por si só, não indicam fraude.
+Além do mais, a desconsideração da personalidade jurídica é medida excepcional que permite superar a autonomia patrimonial da pessoa jurídica, exigindo-se, para o seu deferimento, a prova de abuso de que trata o art. 50 do CC.
+(..)
+Diante do acima exposto, analisando o contexto do presente caso, não vislumbro presentes os requisitos legais (art. 50, do Código Civil) para a efetivação da desconsideração da personalidade jurídica da demandada, sem prejuízo de reanálise em caso de surgimento de novas provas que embasem futuro pedido neste sentido. (e-STJ, fl. 24 e 26)
+Assim, a pretensão de rever a conclusão alcançada pelo TJSP a partir de todo o acervo fático-probatório coligido aos autos constitiui providência vedada na via estreita do recurso especial por força do óbice da Súmula 7 do STJ, na esteira dos precedentes adiante apontados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CARÊNCIA DE FUNDAMENTAÇÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDCIA. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, tendo as questões postas em discussão sido dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022, ambos do CPC/15.
+2. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do art. 50, do Código Civil, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial).
+3. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de fundamentos suficientes para a medida extrema. Nesse contexto, rever as conclusões das instâncias ordinárias, quanto ao preenchimento dos requisitos para a desconsideração da personalidade jurídica da empresa, demandaria o reexame de matéria fático-probatória, providência vedada diante do óbice do Enunciado n.º 7/STJ.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 2.014.286/MS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, j. 20/3/2023, DJe de 23/3/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC. DESVIO DE FINALIDADE E CONFUSÃO PATRIMONIAL. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não enseja a desconsideração da personalidade jurídica" (AgInt no AREsp n. 924.641/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 12/11/2019).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem, analisando a prova dos autos, concluiu não estar comprovada a confusão patrimonial nem o desvio de finalidade. Alterar tal conclusão é inviável em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.159.188/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, j. 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PREENCHIMENTO DOS REQUISITOS. ENCERRAMENTO IRREGULAR DA PESSOA JURÍDICA E INSUFICIÊNCIA DE PATRIMÔNIO. HIPÓTESE NÃO PREVISTA NO ROL LEGAL. REVOLVIMENTO DA CONCLUSÃO ALCANÇADA PELO TRIBUNAL BANDEIRANTE. ÓBICE DA SÚMULA 7 DO STJ. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO .
