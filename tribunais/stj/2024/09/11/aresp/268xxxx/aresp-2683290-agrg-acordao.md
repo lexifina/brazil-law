@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+EMENTA
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WALDO FREIRE DE ALMEIDA interpõe agravo regimental contra a decisão na qual conheci do agravo mas neguei provimento ao recurso especial e, por conseguinte, mantive inalterada a reprimenda de 4 anos e 1 mês de reclusão, em regime semiaberto, mais multa, imposta pela prática do delito de associação para o tráfico.
+O agravante entende que "embora a instância de origem tenha majorado a pena-base do agravante dentro dos parâmetros estabelecidos pela jurisprudência, fundamentando-se na "culpabilidade acentuada" em razão de sua suposta maior atuação dentro do grupo criminoso, a justificativa para essa majoração foi genérica e insuficiente" (fl. 1.202).
+Requer a reconsideração do decisum agravado ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. CRITÉRIO DE EXASPERAÇÃO. DISCRICIONARIEDADE MOTIVADA DO JULGADOR. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o índice de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+2. No caso em exame, uma vez que foram apontados argumentos concretos e específicos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo feito pelas instâncias de origem para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, diminuir a reprimenda-base estabelecida ao acusado.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os argumentos desenvolvidos pelo agravante, a decisão deve ser mantida por seus próprios fundamentos.
+Isso porque, como expliquei na decisão agravada, a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, a instância de origem majorou a pena-base do acusado, por considerar como acentuada a culpabilidade do réu, "em razão de sua maior atuação dentro do grupo ao lado de Leniel e Edivaldo" (fl. 989).
+Nesses termos, considero idôneos os argumentos mencionados pela instância ordinária porque excedem os tipos penais infringidos, pois conforme já decidiu esse Superior Tribunal, "A elevação da pena-base do delito de associação para o tráfico operou-se em razão da posição ocupada pelo paciente dentro da organização criminosa (desempenhava função de confiança da cúpula do tráfico (terceiro comando), sendo certo, ainda, que era quem comandava externamente a traficância, agindo em nome dos líderes que cumpriam pena em presidio) e não pelo simples fato de integrá-la, razão pela qual extrai-se que a elevação da pena-base não ocorreu com base em elementos ínsitos ao próprio tipo penal" (HC n. 244.467/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 28/3/2016).
+Não se pode olvidar que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo as instâncias de origem fundamentado o aumento da reprimenda-base à luz, justamente, das peculiaridades do caso concreto, não vejo como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+Deve, por isso mesmo, ser mantida inalterada a sanção imposta ao acusado.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
