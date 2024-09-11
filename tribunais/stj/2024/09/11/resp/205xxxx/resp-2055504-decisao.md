@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado pelo Ministério Público Federal contra decisão que admitiu recurso especial interposto pela Associação Cultural Memorial do Holocausto.
+O Ministério Público Federal, por meio da Procuradoria-Geral da República, opinou pelo não provimento do agravo, nos termos assim resumidos (fl. 368):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DO MINISTÉRIO PÚBLICO FEDERAL. DECISÃO QUE ADMITE RECURSO ESPECIAL. IRRECORRIBILIDADE. RECURSO ESPECIAL DA ASSOCIAÇÃO CULTURAL MEMORIAL DO HOLOCAUSTO. COMPETÊNCIA AGRAVO DE INSTRUMENTO. CABIMENTO. INTERPRETAÇÃO EXTENSIVA DO ART. 1.015 DO CPC/2015. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. I - Agravo em recurso especial do Ministério Público Federal: A decisão que admite o recurso especial ao nuto do Relator é irrecorrível, à luz do dispositivo no art. 258, § 2º, do RISTJ. Precedentes: AgRg no AgRg no Ag 671.788/MG (DJ de 07.11.2005) e AgRg no AgRg no Ag 548.957/SP (DJ de 24.10.2005). (AgRg no Ag n. 1.246.095/SP, relator Ministro Luiz Fux, Primeira Turma, julgado em 3/8/2010, DJe de 17/8/2010.) II - Recurso Especial da Associação Cultural Memorial do Holocausto : a) A Corte Especial desse eg. Superior Tribunal de Justiça, em dezembro de 2018, no julgamento de recurso especial submetido à sistemática dos recursos repetitivos, firmou a orientação de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação", manifestando-se expressamente pelo cabimento do agravo de instrumento para discutir competência do juízo. III - Parecer pelo não provimento do agravo em recurso especial do Ministério Público Federal; parecer pelo provimento do recurso especial da Associação Cultural Memorial do Holocausto para que os autos retornem ao Tribunal a quo para julgamento do mérito do agravo de instrumento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece sequer ser conhecida.
+Conforme previsão do art. 1.042 do CPC, cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial.
+No caso, tendo sido admitido o recurso especial da parte adversa, revela-se incabível o agravo apresentado pelo Parquet Federal. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL ADMITIDO. NÃO PROVIMENTO.
+1. Não cabe agravo de instrumento contra a decisão que admite o recurso especial, por ausência de previsão legal.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no Ag n. 655.726/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/11/2012, DJe de 11/12/2012.)
+Colhem-se, ainda, as decisões monocráticas proferidas nos seguintes feitos: REsp 2.125.810/MG, Rel. Ministro Marco Buzzi, DJe de 03/06/2024; REsp 1.777.483/RS, Rel. Ministra Maria Isabel Gallotti, DJe de 02/09/2019; e REsp 1.992.970/DF, Rel. Ministra Regina Helena Costa, DJe de 20/04/2022.
+Imperioso consignar, ademais, que, nesta data, proferi decisão em que julguei prejudicado o recurso especial da Associação Cultural Memorial do Holocausto, ante a prolação de sentença nos autos originários.
+Assim, não há como prosseguir no exame do agravo, seja por ausência de previsão legal, seja por perda superveniente do interesse recursal do MPF .
+ANTE O EXPOSTO, não conheço do agravo.
+EMENTA
