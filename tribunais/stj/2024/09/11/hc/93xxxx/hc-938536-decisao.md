@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Yasmin Gomes de Oliveira Batista, no qual se aponta como órgão coator o Tribunal de Justiça de Minas Gerais, que denegou a ordem no HC n. 1.0000.24.331453-1/000 (fls. 14/21).
+Verifica-se dos autos que a paciente, ao lado de Thais Cunha Santos, foi presa em flagrante, em 27/6/2024, pela suposta prática do crime de furto qualificado. Posteriormente, na audiência de custódia, a prisão foi convertida em preventiva pelo Juízo da Vara Plantonista da comarca de Contagem/MG - Processo n. 5034260-98.2024.8.13.0079 (fls. 30/34).
+Irresignada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar, nos termos da seguinte ementa (fl. 14):
+EMENTA: HABEAS CORPUS - FURTO QUALIFICADO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - FIXAÇÃO DE MEDIDAS CAUTELARES DIVERSAS - INADEQUAÇÃO - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. Presentes os pressupostos e requisitos constantes nos artigos 312 e 313 do Código de Processo Penal (CPP), inviável a revogação da prisão preventiva, visto que esta se revela indispensável para a garantia da ordem pública, e a decisão que a impôs encontra-se devidamente fundamentada. A imposição de medidas insertas no artigo 319 do CPP é insuficiente para a efetiva garantia da ordem pública, quando devidamente demonstrada a necessidade da constrição cautelar.
+Daí a presente impetração, em que se alega a ausência de fundamentação idônea e dos requisitos necessários para a manutenção da constrição cautelar da paciente.
+Sustenta-se que a custódia preventiva está amparada na gravidade abstrata do delito e motivada de forma genérica.
+Invoca-se o princípio constitucional da presunção de inocência, bem como afirma-se que a segregação cautelar significa uma antecipação da pena.
+Requer-se, liminarmente e no mérito, a concessão da ordem liberatória ou a aplicação de medidas cautelares alternativas.
+Liminar indeferida (fls. 54/56).
+Prestadas as informações (fls. 63/86), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício (fl. 91):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CONHECIMENTO. FURTO QUALIFICADO (SUBTRAÇÃO DE VESTUÁRIO EM LOJA DE SHOPPING). PRISÃO PREVENTIVA. REINCIDÊNCIA DELITIVA. MOTIVAÇÃO IDÔNEA. CRIME PRATICADO SEM VIOLÊNCIA OU GRAVE AMEAÇA. OBJETOS RESTITUÍDOS À EMPRESA-VÍTIMA. CONCESSÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Parecer pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício, para revogar a prisão preventiva da paciente, salvo se por outro motivo estiver presa, aplicando-se-lhe medidas alternativas, e sem prejuízo da decretação de nova prisão.
+É o relatório.
+Está sob discussão no presente writ a idoneidade de fundamentação do decreto prisional.
+Pelos percucientes fundamentos, os quais guardam consonância com a orientação jurisprudencial desta Corte Superior, adoto como razões de decidir o parecer da lavra da Subprocuradora-Geral da República Mônica Nicida Garcia (fls. 93/94 - grifo nosso):
+ ..
+3. Muito embora se observe a existência de autoria e prova da materialidade delitiva, até porque a paciente foi presa em flagrante delito, bem como presentes as hipóteses da decretação da prisão preventiva, sobretudo pela execução do delito e em razão da reincidência específica, verifica-se que a prisão é medida desproporcional, diante do caso concreto, considerando que o crime não foi praticado mediante violência e/ou grave ameaça, e os bens subtraídos foram devolvidos ao estabelecimento comercial (fls. 37 e s.).
+Desse modo, em juízo de propocionalidade, outras providências, igualmente idôneas, revelam-se suficientes para proteger e acautelar a ordem pública, na espécie, sendo suficiente a imposição de medidas cautelares diversas, a teor do art. 319, do CPP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. RÉU TECNICAMENTE PRIMÁRIO. PROPORCIONALIDADE. AUSÊNCIA. SOLTURA. DESPROVIMENTO.
+I - Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+II - In casu, a prisão do réu, ora agravado, foi decretada com base na reiteração delitiva, ressaltando-se que, " e m que pese tecnicamente primários e o fato de o crime ora em apuração não ter sido praticado com violência ou grave ameaça, ressalto que, como visto acima os representados sempre estiveram supostamente envolvidos em crimes patrimoniais e outros".
+III - "Conquanto o Juízo singular haja mencionado o risco de reiteração delitiva pela reincidência do réu, tal elemento não é suficiente, em juízo de proporcionalidade, para justificar a imposição da cautela extrema, sobretudo diante da ausência de violência ou grave ameaça na suposta prática ilícita". (HC n. 624.116/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/12/2020, DJe de 15/12/2020.)
+IV - Agravo regimental desprovido.
+(STJ, AgRg no HC n. 823.117/MG, relator Ministro Jesuíno Rissato, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024) (g.n.)
+Corroborando tudo quanto acima explicitado, de se mencionar sobre o tema, ainda, por oportuno, os seguintes precedentes: HC n. 676.823/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 7/10/2021; HC n. 616.398/SP, Ministra Laurita Vaz, Sexta Turma, DJe 22/2/2021; HC n. 624.222/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/2/2021; e AgRg no HC n. 622.816/SP, minha Relatoria, Sexta Turma, DJe 9/12/2020.
+Sob esta moldura, acolhendo o parecer ministerial, concedo a ordem para revogar a prisão preventiva decretada em desfavor de Yasmin Gomes de Oliveira Batista, salvo se por outro motivo estiver presa, determinando a sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem implementadas pelo Juízo de primeiro grau competente, a quem incumbirá a fiscalização e também a eventual decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal.
+Comunique-se, "com urgência" , as instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO (SUBTRAÇÃO DE VESTUÁRIO EM LOJA DE SHOPPING). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REINCIDÊNCIA DELITIVA. CRIME DESTITUÍDO DE VIOLÊNCIA E/OU GRAVE AMEAÇA. RESTITUIÇÃO DA RES FURTIVAE. MEDIDAS CAUTELARES ALTERNATIVAS. SUFICIÊNCIA E PROPOR CIONALIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo. Parecer ministerial acolhido.
