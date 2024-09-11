@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por MIRELE DAS GRACAS LIMA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que a recorrente teve a prisão preventiva decretada pela suposta prática do crime de tráfico de drogas. A prisão foi decretada visando garantir a ordem pública em razão do fundado receio de reiteração delitiva.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão pelos mesmos fundamentos e denegou a ordem, em acórdão de fls. 313-327.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da a segregação cautelar.
+Alega, ainda, que a prisão seria nula em razão da inviolabilidade do domicílio.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 520-521.
+Informações prestadas às fls. 526-546.
+O Ministério Público Federal em parecer, às fls. 550-554, manifestou-se pelo desprovimento do recurso, em parecer que restou assim ementado:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGADA ILEGALIDADE DA PRISÃO EM RAZÃO DA VIOLAÇÃO DE DOMICÍLIO. IMPOSSIBILIDADE. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO. PRISÃO PREVENTIVA COM FUNDAMENTAÇÃO IDÔNEA. INCABÍVEL SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PARECER PELO NÃO PROVIMENTO DO RECURSO EM HABEAS CORPUS" - fl. 550.
+É o relatório. DECIDO.
+Com efeito, o Superior Tribunal de Justiça compreende que é possível o ingresso de policiais em domicílio, mesmo sem mandado judicial (o que não foi o caso, em que o ingresso domiciliar se deu no cumprimento de mandado judicial) ou consentimento do morador, caso haja fundadas razões da ocorrência da prática de crime no local, à luz do art. 240 do CPP.
+No presente caso, como bem destacado pela corte de origem, "a paciente foi presa em flagrante delito durante o cumprimento de mandado judicial de busca e apreensão expedido para a sua residência, ou seja, tem-se que o ingresso dos policiais no imóvel foi mediante autorização judicial" - fls. 316-317.
+Assim, consoante se apreende da fundamentação expendida, não há que se falar em falta de justa causa para o ingresso no domicílio da paciente, posto que se deu em cumprimento a mandado de busca e apreensão judicialmente expedido, inexistindo, portanto a flagrante ilegalidade apontada pela defesa.
+Nesse sentido: AgRg no HC n. 827.006/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024; AgRg no HC n. 858.214/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024; AgRg no HC n. 769.834/SP, de minha relatoria, Quinta Turma, DJe de 20/6/2024 e AgRg no HC n. 827.022/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 21/12/2023.
+Quanto a alegada ausência de fundamentação para a manutenção da prisão preventiva, verifico que melhor sorte não socorre a recorrente .
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar encontra-se em consonância com a jurisprudência desta Corte sobre o tema, eis que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, tendo em vista que "a flagranteada já foi condenada na Comarca de São João Del-Rei por crime da mesma natureza, tendo, inclusive, cumprido de pena naquela comarca, conforme FAC e CAC anexa" fl. 293.
+No ponto, impende destacar que:
+"como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais ou inquéritos em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (RHC n. 156.048/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 15/02/2022, DJe 18/02/2022)" (AgRg no RHC n. 196.193/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024).
+Nesse sentido: AgRg no RHC n. 195.603/BA,de minha relatoria, Quinta Turma, DJe de 2/8/2024; AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/7/2024; AgRg no HC n. 887.732/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 27/6/2024 e HC n. 880.148/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/6/2024.
+De mais a mais, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
