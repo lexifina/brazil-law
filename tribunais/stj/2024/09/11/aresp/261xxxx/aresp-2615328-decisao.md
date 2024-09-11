@@ -1,0 +1,31 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por TAKASHI SHINOZAKI, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 09/02/2024.
+Concluso ao gabinete em: 28/06/2024.
+Ação: embargos à execução, opostos por TAKASHI SHINOZAKI, em face de BANCO DAYCOVAL S/A.
+Sentença: rejeitou os embargos e condenou o agravante ao pagamento dos honorários, que foram arbitrados em 15% do valor atualizado da execução, ficando sob a condição suspensiva de exigibilidade do § 3º do art. 98 do CPC.
+Acórdão: negou provimento à Apelação interposta pelo agravante, nos termos da seguinte ementa:
+"Cédulas de crédito bancário. Prejudicialidade externa não caracterizada por força do que restou decidido no agravo de instrumento no 2184253-60.2021.8.26.0000. Cerceamento de defesa. Inocorrência. Impossibilidade de aplicação do CDC. Ausência de enquadramento do apelante, garantidor da dívida executada, como destinatário final da relação jurídica mantida entre o exequente e a devedora principal. Súmula 286, do STJ. Inaplicabilidade. Cobranças de juros capitalizados, comissão de permanência e tarifas bancárias. Alegações genéricas. Incidência da Súmula 381 e do Tema Repetitivo 36, ambos do STJ. Recurso desprovido." (e-STJ fl. 268)
+Embargos de Declaração: opostos, pelo agravante, foram rejeitados. (e-STJ fl. 298/301)
+Recurso especial: alega violação dos arts. 7º, 9º, 321, 369, 464, § 1º, CPC, Súmula 297/STJ, 5º, XXXV, LIV, LV, CF, bem como dissídio jurisprudencial, sustentando que: i) a Corte local malferiu a Constituição Federal e o Código de Processo Civil, na medida em que se aceitou o julgamento antecipado na espécie, quando o caso sempre demandou a produção de prova pericial contábil e a inversão do ônus da prova, com a revisão de todas as avenças entabulada pelas partes; e, ii) resta evidente que o julgamento antecipado da lide, sem que se permita a produção de prova pericial contábil, quando esta foi expressamente requerida, incide em cerceamento de defesa, dando causa à nulidade da r. Sentença e do v. Acórdão, especialmente considerando ser o recorrente hipossuficiente financeiramente, não possuindo condições para contratar profissional técnico que possa evidenciar as abusividades alegadas; e, iii) a inversão do ônus da prova também não fora apreciado pela Corte local, em clara afronta à Sumula 297 desta Corte, por entender não ser cabível a aplicação do Código de Defesa do Consumidor ao caso.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional e de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 7º, 9º, 321, 369, 464, § 1º, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "ante a controvérsia instaurada, a prova documental já existente nos autos foi suficiente para persuadir racionalmente o livre convencimento do Juízo a quo, logo é de se reconhecer que o julgamento antecipado da lide não implicou no cerceamento de defesa, pois a dilação probatória mostrou-se desnecessária", bem como de que "nos termos do art. 2º, Lei 8.078/90, não é possível o enquadramento do agravante (garantidor das cédulas de crédito bancário executadas) como destinatário final da relação jurídica mantida entre o exequente e a devedora principal", assim também de que "as garantias prestadas são obrigações pessoais firmadas por terceiro para assegurar o pagamento das dívidas constituídas, que possuem caráter autônomo dissociado de uma relação consumerista, que eventualmente possa ser objeto da Súmula 297, do STJ", além de que "não prospera a tentativa de aplicação da Súmula 286, do STJ", ao entendimento de que "as cédulas foram estabelecidas para descontos de títulos e não para renegociar ou confessar dívida, o que afasta a possibilidade de se discutir eventuais negócios jurídicos anteriores", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de embargos à execução.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial não conhecido.
