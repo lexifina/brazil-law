@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Município do Rio de Janeiro contra a decisão de fls. 1.384/1.389, por meio da qual foi julgada inadmissível a ação proposta por Supermix Concreto S.A., com fundamento no art. 966, V, do CPC/2015.
+Nas razões recursais, sustenta o embargante existir, no julgado impugnado, "omissão alusiva à base de cálculo dos honorários sucumbenciais, que devem levar em conta o proveito econômico (valor atualizado do crédito tributário), consoante compreensão sedimentada na jurisprudência do STJ" (fl. 1.395). Segundo o recorrente, o pronunciamento judicial não indicou a base de cálculo referente aos honorários sucumbenciais, elemento indispensável ao equacionamento da verba em sede de cumprimento de sentença.
+Defende o Município do Rio de Janeiro, ademais, que, de acordo com o § 4º do CPC, o valor dos honorários deve ser fixado com base no proveito econômico da ação subjacente, devendo coincidir "com o valor do crédito cobrado no referido executivo fiscal, cuja anulação foi postulada pela autora nesta ação rescisória" (fl. 1.397), devidamente atualizado.
+Em impugnação, a embargada aduz inexistir vício a ser sanado, mas pretensão de rediscussão do que já foi decidido. Além disso, para ela, "não se tem dúvidas de que não cabe, aqui, fixação de honorários sobre valor de condenação (posto que aqui não houve conteúdo condenatório) tampouco sobre proveito econômico (em se tratando de discussão de débito já constituído e cobrado pela Embargante, ou seja, não se tem aqui proveito econômico, mantendo-se o status quo ante)" (fl. 1.427).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Tem parcial razão o embargante.
+Com efeito, de acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+No caso dos autos, embora o decisório tenha definido com clareza e completude os percentuais devidos a título de honorários sucumbenciais, deixou de indicar sua base de cálculo, isto é, não especificou sobre qual grandeza devem incidir. Há, portanto, omissão a ser corrigida.
+Equivoca-se o recorrente, contudo, quando sustenta que a base de cálculo deve ser o proveito econômico buscado na ação, porque, na hipótese não houve condenação, mas inadmissibilidade da postulação. Em tal caso, aplica-se a regra do art. 85, § 4º, III, segundo a qual os honorários devem ser fixados com base no valor atualizado da causa, quando não há condenação. Nesse mesmo sentido:
+PROCESSUAL CIVIL. MULTA ADMINISTRATIVA. AÇÃO ANULATÓRIA. IMPROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA CAUSA.
+1. Esta Corte Superior tem entendido que, não havendo condenação, os honorários advocatícios sucumbenciais devem ser estabelecidos mediante percentuais a incidir sobre as seguintes bases de cálculo:
+a) o proveito econômico obtido pelo vencedor (art. 85, § 2º) ou b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º) (REsp 1.746.072/PR, Rel. p/ Acórdão Ministro RAUL ARAÚJO, Segunda Seção, DJe 29/3/2019).
+2. O posicionamento adotado na origem se harmoniza com a jurisprudência do STJ, pois, em ação anulatória de multa administrativa, a Corte local entendeu "pela aplicação do valor da causa como base de cálculo dos honorários sucumbenciais no caso em apreço, ante a inexistência de condenação em desfavor da autora, que buscou a anulação da deliberação objeto da lide."
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.429.345/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+Do voto do relator do julgado acima citado, eminente Min. Gurgel de Faria, colhe-se o seguinte trecho, esclarecedor quanto ao objeto da controvérsia:
+No caso, tem-se ação anulatória de multa administrativa cujo pedido foi julgado improcedente, pelo que, como não houve condenação, tampouco proveito econômico aferível, os honorários devem ser fixados sobre o valor da causa, observados os percentuais previstos no § 2º do art. 85 do CPC/2015, como declinado no aresto recorrido.
+No presente agravo, a parte alega que o proveito econômico pretendido pela parte autora pode ser aferido e corresponde ao valor da multa que se buscava anular.
+Ocorre que, se o pleito anulatório foi julgado improcedente, não há proveito econômico aferível, como consignado na decisão agravada.
+Os precedentes citados pela agravante para amparar a tese de fixação dos honorários advocatícios sobre o proveito econômico obtido dizem respeito ao caso em que o pleito anulatório foi acolhido para reduzir o valor da multa, isto é, a parte postulante foi vencedora no desiderato de afastar/diminuir o valor da penalidade (e-STj fls. 1335/1336).
+ ..
+Essa, no entanto, não é a hipótese dos presentes autos, como pretende fazer crer a agravante. Aqui, foi reconhecida a improcedência do pedido de anulação da multa, pelo que correta a fixação da verba honorária sucumbencial com base no valor da causa.
+Essa mesma compreensão, aplicada ao caso concreto, impõe a rejeição da pretensão do embargante nesse particular aspecto, porquanto a base de cálculo dos honorários sucumbenciais deve ser o valor da causa, dada a inadmissibilidade do pedido autoral.
+ANTE O EXPOSTO, acolho parcialmente os embargos de declaração, para sanar a omissão apontada e assentar que os percentuais definidos na decisão de fls. 1.384/1.389 devem incidir sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
