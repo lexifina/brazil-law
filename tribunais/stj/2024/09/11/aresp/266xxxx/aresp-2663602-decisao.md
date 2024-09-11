@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl.176):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BENEFÍCIOS INACUMULÁVEIS. DEDUÇÃO DE VALORES. COMPENSAÇÃO. LIMITE. DECISÃO RECORRIDA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. O recorrente não apresenta qualquer subsídio capaz de viabilizar a alteração dos fundamentos da decisão hostilizada, persistindo, destarte, imaculados e impassíveis os argumentos nos quais o entendimento foi firmado.
+2. Nas competências em que o valor recebido a título de benefício inacumulável for superior àquele devido em razão do julgado, o abatimento ocorre até o valor da renda mensal resultante da aplicação do julgado.3. Agravo interno improvido.
+Opostos embargos de declaração, foram rejeitados (fl.217) .
+Aponta o recorrente, nas razões do apelo especial, violação aos arts. 124 e 115, da Lei 8.213/91, 368 e 876, do CC, 509, § 4º, 535, VI, e 1.022, II, do CPC, sustentando, além de negativa de prestação jurisdicional, que o Tribunal de origem "afastou a possibilidade de desconto da totalidade dos valores recebidos administrativamente a título de benefício inacumulável (duas aposentadoria por tempo de contribuição).
+Afirma que o "acórdão que indeferiu o pedido quanto ao desconto integral dos valores recebidos administrativamente a título de benefício inacumulável (duas aposentadoria por tempo de contribuição. A decisão recorrida possibilitou o abatimento dos valores, porém determinou que nas competências em que o valor recebido administrativamente foi superior àquele devido em razão do julgado a dedução deve ser limitada ao valor da mensalidade resultante da aplicação do julgado" (fl. .221)
+Alega que, "a fim de evitar cumulação ilícita de benefícios previdenciários, deve-se não apenas zerar as competências em que houve gozo de benefício pago na via administrativa, mas também deduzir e/ou compensar.." (fl. 221)
+Defende que o desconto de valores pagos a maior, já incontroverso, deve ocorrer de forma integral, e não por compensação mensal de valores devidos ao segurado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, cuidam os autos tão somente da maneira como deve se verificar a compensação de valores recebidos a maior pelo segurado, em razão de benefícios inacumuláveis. Não se discute, portanto, a devolução em si, mas sim a forma como esta deve ser feita.
+Neste sentido, argumenta o INSS que a devolução dos valores deve se dar de maneira integral, argumentando que o montante pago a maior deve ser compensado integralmente por se tratar de um crédito da Autarquia previdenciária.
+Contudo, o recurso não prospera.
+Isso porque, nota-se que os dispositivos apontados como violados não contêm comando capaz de sustentar a tese recursal, no sentido de que que o abatimento deve ser feito de forma integral. Logo, não infirma o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp n.161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp n. 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ainda que ultrapassado o óbice acima apontado, melhor sorte não socorre ao recorrente, uma vez que o acórdão recorrido se encontra em alinhamento à jurisprudência desta Corte Superior, consoante se vê do seguinte precedente:.
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. COMPENSAÇÃO DE VALORES DEVIDOS EM TÍTULO JUDICIAL COM OS PAGOS ADMINISTRATIVAMENTE. CONSIDERAÇÃO DOS VALORES REMANESCENTES PARA TODO O PERÍODO. NÃO DEVOLUÇÃO DE VALORES PAGOS EM EXCESSO PELA
+ADMINISTRAÇÃO. CARÁTER ALIMENTAR DO BENEFÍCIO E BOA-FÉ DO SEGURADO. DECISÃO ULTRA PETITA. INEXISTÊNCIA. ÔNUS DE SUCUMBÊNCIA. RESTABELECIMENTO DA SENTENÇA.
+1. O acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. Sendo
+assim, não há que se falar em omissão do aresto.
+2. Na compensação de valores devidos em título judicial com os pagos administrativamente, deve-se compensar os negativos com os positivos em todas as competências, a fim de apurar se haveria direito a eventuais valores remanescentes no cômputo global.
+3. A Corte de origem alinhou-se ao entendimento deste Superior Tribunal de que constitui matéria de ordem pública a adequação do valor executado para extirpar-se o excesso. Ressalte-se que matéria de ordem pública pode ser arguida na instância ordinária a qualquer tempo, podendo inclusive ser conhecida de ofício, razão de não prosperar a alegação de julgamento ultra petita.
+4. Como houve pagamento em excesso pela administração, em razão do caráter alimentar do benefício previdenciário e da boa-fé do segurado, não cabe repetição de valores.
+5. Tendo a sentença sido reformada apenas quanto à forma de cálculo da compensação de valores, ponto esse revertido neste recurso especial, devem os ônus de sucumbência ser restabelecidos na forma indicada pelo juízo de primeiro grau.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.416.903/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 17/8/2017, DJe de 23/8/2017.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
