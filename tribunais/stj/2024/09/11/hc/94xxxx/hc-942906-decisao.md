@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Silvio Carlos dos Santos contra o ato coator proferido pela Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do Agravo em Execução n. 0006056-04.2024.8.26.0521, deu provimento à insurgência ministerial, devolvendo o paciente ao regime fechado e determinando a realização do exame criminológico (Execução n. 0002781-40.2022.8.26.0158, DEECRIM 10ª RAJ - Sorocaba/SP).
+A defesa alega, em síntese, que o Tribunal local determinou a realização de exame criminológico com base em fundamentação inidônea, a saber, a aplicação retroativa da Lei n. 14.843/2024 e a gravidade em abstrato do crime.
+Pede, em caráter liminar e no mérito, a restauração da decisão de primeiro grau (fls. 3/12).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a viabilidade do presente writ.
+O Tribunal local proveu a insurgência ministerial aos seguintes termos (fls. 46/47):
+Respeitado o entendimento do juízo monocrático, certo é que o agravado não demonstra reunir condições inequívocas para a promoção pretendida, conforme bem ponderado pelo agravante.
+O reeducando cometeu delitos graves e de acentuada perniciosidade e reprovabilidade social (no caso dele, organização criminosa e roubo triplamente circunstanciado), sem deslembrar da receptação, fato esse, por si só, ensejador da necessidade de mais acurada análise de seu mérito, porque a realidade do indivíduoegressodosistemapenitenciáriocompreendeumaconvivênciaconflituosa com a sociedade, além de possuir longa pena por cumprir(2035).
+Tais considerações revelam a personalidade distorcida do agravante e, por óbvio, exigem a comprovação de que sua periculosidade sofreu a atenuação necessária para que possa usufruir benefício prisional, o que não restou evidenciada no caso sub examine.
+É certo que a gravidade dos delitos e a longa pena por cumprir, isoladamente, não são causas impeditivas para a concessão da progressão de regime. Não menos certo é, porém, que são sérios indicadores da necessidade de se empreender maior acuidade na verificação dos requisitos legais.
+A Sexta Turma desta Corte, no RHC n. 200.670/GO, de minha relatoria, DJe de 23/8/2024, decidiu que a exigência de realização de exame criminológico para toda e qualquer progressão de regime, nos termos da Lei n. 14. 843/2024, constitui novatio legis in pejus, pois incrementa requisito, tornando mais difícil alcançar regimes prisionais menos gravosos à liberdade. A retroatividade dessa norma se mostra inconstitucional, diante do art. 5º, XL, da Constituição Federal, e ilegal, nos termos do art. 2º do Código Penal.
+Ademais, esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+É assente na jurisprudência do Superior Tribunal de Justiça que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei n. 10.792/2003, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução (AgRg no HC n. 302.033/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014). Na mesma linha, HC n. 523.840/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/10/2019; e AgRg no HC n. 562.274/SP, Ministro Felix Fischer, Quinta Turma, DJe 28/5/2020.
+No entanto, nem a gravidade abstrata dos crimes cometidos, nem a longa pena a cumprir ou ainda a reincidência, são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021; e HC n. 436.653/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2018.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem, pois não foram indicados elementos concretos da execução para impor a realização de exame criminológico.
+Ante o exposto, concedo liminarmente a ordem a fim de cassar o acórdão, restabelecendo, por consequência, a decisão do Juízo da execução.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS CRIMES PELOS QUAIS O APENADO CUMPRE PENA E LONGA PENA A ADIMPLIR. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. LEI N. 14.843/2024. NOVATIO LEGIS IN PEJUS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
