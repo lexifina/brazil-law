@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VILMA FLORES DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO - NÃO CONHECIMENTO DE RECURSO DE APELAÇÃO POR AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA DE NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência jurisprudencial em relação ao art. 1.009, § 1º, do CPC, no que concerne à inexistência de ofensa a dialeticidade e à efetiva impugnação da sentença, porquanto nas razões de apelação foram adicionados termos novos àqueles constantes da petição inicial quanto à limitação de juros à taxa média do BACEN, trazendo a seguinte argumentação:
+No recurso de apelação, que sequer checou a ser conhecido, claramente se verifica que pretendeu a parte recorrente a reforma da decisão de primeiro grau, conforme f.
+213/238, sendo demonstrado as razões onde busca na peça recursal, que haja a limitação de juros à taxa média do BACEN, que a capitalização seja efetuada de forma anual, buscando, ainda, a substituição da comissão de permanência, e exclusão das tarifas e taxas, onde claramente o recurso de apelação impugna a sentença de primeiro grau
+ ..
+Assim, conforme demonstrado, o recurso de apelação impugnou exatamente a matéria que foi decidida em primeiro grau.
+No entanto o Tribunal a quo (TJMS), entendeu defeito na fundamentação, com ofensa a dialeticidade, entendendo ainda que o recurso de apelação seria estilo "copia e cola", aduzindo, ainda, que dito recurso seria idêntico a outros recurso protocolados em feitos distintos, conforme decisão recorrida de f. 22
+ ..
+No entanto, com o devido respeito aos Desembargadores que analisaram dito recurso, sob todos os aspectos que se analise a matéria posta em debate, de maneira alguma pode ser mantida a decisão recorrida, eis que as razoes de apelação adicionou nova fundamentação, que embora tenha alguns termos constantes da inicial, também possui termos novos e que impugnam diretamente a sentença de primeiro grau, motivo pelo qual deveria ter sido analisado o mérito do recurso de apelação.
+ ..
+No entanto, com o devido respeito aos Desembargadores que analisaram dito recurso, sob todos os aspectos que se analise a matéria posta em debate, de maneira alguma pode ser mantida a decisão recorrida, eis que as razoes de apelação adicionou nova fundamentação, que embora tenha alguns termos constantes da inicial, também possui termos novos e que impugnam diretamente a sentença de primeiro grau, motivo pelo qual deveria ter sido analisado o mérito do recurso de apelação.
+ ..
+Analisando-se o Acórdão impugnado que deu a Lei Federal interpretação divergente daquelas que lhe foi emprestada em outras decisões de outros Tribunais pátrios acima demonstrado, bem como a similitude e cotejo analítico, com a permissa vênia, estas devem prevalecer também para a hipótese dos autos, motivo pelo qual deve ser provido o presente recurso, determinando o retorno doa autos ao juízo de origem, para analise meritória do recurso de apelação (fls. 298/306).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Conforme exposto na decisão monocrática, em momento nenhum a parte recorrente se referiu aos argumentos utilizados na sentença. Inclusive, a apelante mencionou cláusulas contratuais sequer apontadas na petição inicial.
+A peça do recurso de apelação é idêntica à protocolada em outros processos, ou seja, parece uma daquele padrão "copia-cola", infringindo frontalmente o comando do inciso III, parte final, do artigo 932 do Código de Processo Civil.
+Logo, mantenho a decisão monocrática, tendo em vista a ofensa ao princípio da dialeticidade (fl. 284).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ademais, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 22.5.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19.12.2019; AgInt no AgInt no REsp 1.731.585/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 26.9.2018; e AgInt no AREsp 1.149.255/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 13.4.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
