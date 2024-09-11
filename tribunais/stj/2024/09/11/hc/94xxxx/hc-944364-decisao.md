@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WASHINGTON MORAIS LEAL, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Na hipótese, depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva, pela prática, em tese, do delito previsto no artigo 33, caput, c/c art. 40, da Lei n. 11.343/06.
+Irresignada, a defesa, impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 11-16), em acórdão assim ementado:
+"HABEAS CORPUS - TRÁFICO DE DROGAS - CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO- NÃO OCORRÊNCIA - AUSÊNCIA DE DESÍDIA NA PRESTAÇÃO JURISDICIONAL - PRINCÍPIO DA RAZOABILIDADE - NÃO CONCESSÃO, COM O PARECER.
+Os prazos para a conclusão da instrução criminal podem ser flexibilizados diante das peculiaridades do caso concreto, em atenção e dentro dos limites da razoabilidade. Na hipótese, não há demora injustificada, nem excesso de prazo a caracterizar constrangimento ilegal, considerando as peculiaridades da causa, além disso, o Magistrado está observando corretamente o disposto no art. 316, Parágrafo único, do CPP." (fl. 11)
+Alega constrangimento ilegal pelo excesso de prazo e falta de fundamentação idônea para a manutenção da segregação cautelar.
+Requer a concessão da ordem liminarmente, com a confirmação no mérito, para que a prisão preventiva seja revogada.
+É  o  relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada:
+"No caso, não se verifica, por ora, desídia ou inércia da Magistrada a quo na condução da ação penal, a qual, inclusive, manteve a prisão preventiva do paciente, nos autos principais (ação penal- fl. 228), de onde se extrai que se encontram presentes os requisitos da custódia cautelar diante da necessidade de garantia da ordem pública.
+Observa-se da ação penal que o paciente já foi notificado/citado, apresentou defesa escrita, a denúncia foi recebida em 24/05/2024. O réu foi citado e apresentou defesa prévia em 20/06/2024 e, em seguida, oportunidade em que foi designada audiência de instrução e julgamento para 12/08/2024.
+Posteriormente, em virtude de uma convocação para participação de reunião no Tribunal de Justiça a audiência foi redesignada para o dia 02/10/2024 (fl. 224dos autos principais).
+Portanto, à luz do panorama fático/processual acima exposto, pode-se concluir, com extrema clareza, que o feito, até a atual fase em que se encontra, teve regular e pronto andamento, não havendo notícias da ocorrência de suposta morosidade ou retardo na implementação dos atos processuais, tampouco desídia ou inércia na prestação jurisdicional, não havendo o que se falar em coação ilegal por excesso de prazo.
+Outrossim, a confrontação entre o tempo de prisão preventiva com a reprimenda abstratamente prevista em lei, indica a inocorrência de constrangimento ilegal por excesso de prazo, no momento, ponderada a gravidade concreta da conduta imputada ao paciente, que responde pelo transporte interestadual de 15,4 kg de skunk. " (fl. 15).
+Em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, levando em consideração as particularidades da causa, na qual se apura tráfico interestadual de drogas; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+Sobre o tema:
+"In casu, verifica-se que não se constata flagrante ilegalidade por excesso de prazo na formação da culpa quando o processo segue regular tramitação. Extrai-se das informações prestadas pelas instâncias ordinárias, bem como do andamento processual da ação originária no site do Tribunal estadual, que a insatisfação da agravante com a relativa delonga na conclusão do feito não pode ser atribuída ao Juízo, mas às suas peculiaridades, considerando a complexidade do processo, no qual se apura a prática dos delitos de tráfico de drogas, associação ao tráfico de entorpecentes e posse de arma de fogo, com pluralidade réus - 4 -, representados por advogados distintos, demandando a realização de diversas diligências" (AgRg no RHC n. 174.284/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/5/2023).
+As circunstâncias fáticas (tráfico interestadual de drogas) evidenciam a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública. Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem em habeas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem -se.
+EMENTA
