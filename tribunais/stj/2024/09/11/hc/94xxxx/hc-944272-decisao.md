@@ -1,0 +1,12 @@
+DECISÃO
+JAILTON GONÇALVES RIOS alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0002397-79.2017.8.26.0505.
+Extrai-se dos autos que o paciente foi condenado às penas de 3 anos, 2 meses e 3 dias de detenção, em regime inicial semiaberto, e suspensão da habilitação pelo prazo de 3 meses e 4 dias, como incurso nos arts. 302, caput, e 303, caput, da Lei n. 9.503/1997, na forma do art. 70 do Código Penal.
+Nesta Corte, a defesa postula a "fixação do regime inicial mais brando permitido em lei, o qual seja aberto a teor do disposto no artigo 33, § 2º, "c" do Código Penal, expedindo-se alvará de soltura" (fl. 13).
+Decido.
+Este habeas corpus se insurge contra acórdão de apelação proferido em 26/5/2022. Registro que o réu interpôs recurso especial, o qual foi inadmitido pelo Tribunal de origem. Manejado o respectivo agravo, ele não foi conhecido e ocorreu o trânsito em julgado em 9/10/2023 (fl. 448 dos autos do AREsp n. 2.296.349/SP). Em 9/9/2024, a defesa impetrou este habeas corpus, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
