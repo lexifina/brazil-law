@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência, com a atribuição de efeito suspensivo ao AREsp a ser interposto, apresentado por CRM INDUSTRIA E COMERCIO DE ALIMENTOS LTDA, com fundamento no art. 1012, §3º, I c/c 932, I, 995, parágrafo único e 299, parágrafo único, todos do CPC.
+A tutela está vinculada ao recurso especial interposto contra o acórdão abaixo ementado, in verbis:
+Ação anulatória de débito fiscal. AIIM nº 4.118.153-0 lavrado em razão do não pagamento de ICMS no período de novembro de 2013 a dezembro de 2015. Não inclusão dos valores cobrados a título de royalties sobre o valor das vendas realizadas aos franqueados. Sentença de improcedência. Manutenção. Decadência parcial já afastada, não cabendo mais discutir a questão. Hipótese de incidência de ISS já declarada inconstitucional por decisão do C. Órgão Especial desta Corte, nos autos da Arguição de Inconstitucionalidade nº 9021348-14.2006.8.26.0000, tendo em vista a extrapolação, pelo Município, do âmbito de abrangência de sua competência material tributária. Royalties, por outro lado, que, por fazerem parte de uma das etapas da cadeia econômica, devem ser considerados como componentes do preço final ao consumidor. Multa e atualização monetária dentro da legalidade. Recurso da autora não provido.
+Opostos embargos de declaração estes foram rejeitados.
+O recurso especial superveniente foi inadmitido e o requerente afirma que será interposto o agravo contra a decisão referida.
+Sustenta, em síntese, que o entendimento acima contraria o entendimento sufragado no RE 603136/RJ, tema 300 do STF, onde restou reconhecida a constitucionalidade da incidência do ISS sobre os contratos de franquia.
+Argumenta que em face de tal decisão é indevida a cobrança de ICMS sobre os royalties de franquia devidos a ela pelos franqueados localizados no Estado de São Paulo.
+Argumenta, em resumo, que podem sofrer constrição no valor de cerca de vinte e um milhões de reais, não podendo assim aguardar o prazo para a interposição do AREsp já referido.
+É o relatório. Decido.
+De acordo com o art. 995, parágrafo único, do Código de Processo Civil de 2015, em caso de recurso que em regra não é dotado de efeito suspensivo, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Por sua vez, o art. 1.029, § 5º, inciso I, do CPC/2015 estabelece que o pedido de concessão de efeito suspensivo a recurso especial poderá ser formulado por requerimento dirigido ao Tribunal Superior respectivo, no período compreendido entre a interposição do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo.
+Como se pode notar, para a excepcional concessão do efeito suspensivo, há se exigir a presença cumulada dos dois requisitos legais, quais sejam, a possibilidade de risco de dano grave ou de difícil ou impossível reparação e a probabilidade de provimento do recurso.
+O requerente não demonstrou a conjugação dos pressupostos para a concessão da tutela, ou seja, o fumus boni iuris e o periculum in mora.
+Verifica-se que a análise da tese do recorrente importa, no exame do fundamento apresentado pelo Tribunal a quo para manter a cobrança do ICMS sobre os royalties, ou seja, o caráter dúplice do contrato de franquia, que implicaria na cobrança de ISS e ICMS de forma concomitante para operações diversas, sendo os royalties vinculados à uma mercadoria.
+Afirmou o Tribunal, em suma, que tal entendimento não destoou do entendimento apresentado no tema 300 do STF e que a cobrança estaria respaldada pelo art. 150, §7º da CF e pela LC 87/96.
+Verifica-se então que para a análise dos limites e efeitos da decisão proferida no RE 603136/RJ, tema 300 do STF, seria necessário o exame de matéria constitucional, o que não é devido no âmbito do recurso especial.
+Ainda como óbice, verifica-se que o recurso ainda se encontra sob a órbita do Tribunal a quo, o que exigiria uma excepcionalidade absoluta o conhecimento do reclamo. Incidindo na espécie a sumula 634 do STF.
+Ante o exposto, com fundamento no art. 288, § 2º, do RI/STJ, indefiro liminarmente a tutela pleiteada.
+Publique-se. Intimem-se.
+EMENTA
