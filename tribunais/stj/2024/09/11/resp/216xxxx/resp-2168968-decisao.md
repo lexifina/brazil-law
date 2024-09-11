@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MENEZES NIEBUHR ADVOGADOS ASSOCIADOS (MENEZES) contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. AÇÃO MONITÓRIA. CUMPRIMENTO DESENTENÇA. COBRANÇA DE HONORÁRIOS SUCUMBENCIAIS. IMPUGNAÇÃO. REJEIÇÃO.
+RECURSO DA RÉ. AVENTADA INEXIGIBILIDADE DO TÍTULO EXEQUENDO. GRATUIDADE DE JUSTIÇA PLEITEADA NOS AUTOS ORIGINÁRIOS NÃO APRECIADA PELO JUÍZO SENTENCIANTE, A ENSEJAR O DEFERIMENTO IMPLÍCITO DA BENESSE.
+IMPENHORABILIDADE DOS VALORES BLOQUEADOS POR INTERPRETAÇÃO EXTENSIVA DA LEI N. 14.334/2022. TESES ACOLHIDAS. HONORÁRIOS SUCUMBENCIAIS QUE, EMBORA DEVIDOS EM FACE DO DECAIMENTO DA AUTORA AGRAVANTE NA AÇÃO ORIGINÁRIA, NÃO SÃO EXIGÍVEIS, POR FORÇA DA GRATUIDADE DE JUSTIÇA DEFERIDA DE MODO IMPLÍCITO. ENTENDIMENTO DO STJ COMPARTILHADO POR ESTA CORTE. EXTINÇÃO DO CUMPRIMENTO QUE SE IMPÕE.
+"A Corte Especial do STJ assenta que se presume o deferimento do pedido de assistênciajudiciária gratuita não expressamente indeferido por decisão fundamentada, inclusive nainstância especial. (..) A ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo" (AgRg nos EAREsp440.971/RS, Rel. Ministro Raul Araújo, Corte Especial, julgado em 3/2/2016, DJe 17/3/2016)
+IMPENHORABILIDADE. INTERPRETAÇÃO EXTENSIVA DA LEI N. 14.334/2022, QUE VEDA APENHORA DE BENS DE HOSPITAIS FILANTRÓPICOS. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DA NORMA. MOTIVOS CONTIDOS NO PROJETO DE LEI LEVADO ÀAPROVAÇÃO QUE CONDUZEM A UM JUÍZO PONDERATIVO DE QUE OS ATIVOS FINANCEIROS EXISTENTES EM CONTAS BANCÁRIAS DAS INSTITUIÇÕES ABRANGIDAS PELA NORMATIVA TAMBÉM SERIAM IMPENHORÁVEIS. PRESERVAÇÃO DA ATIVIDADE FILANTRÓPICA. HOSPITAL DE CARIDADE AGRAVANTE QUE SE ENQUADRA NESSE ROL DE ENTIDADES COM DIFICULDADES FINANCEIRAS. BALANÇO PATRIMONIAL QUE APRESENTA DÉFICT ACUMULADO, AINDA QUE CONSIDERADO O ARRENDAMENTO DE PARTE DAS OPERAÇÕES.
+REFORÇO ARGUMENTATIVO (OBITER DICTUM). SOB OUTRO ÂNGULO, A AGRAVANTE RECEBE REPASSES PÚBLICOS POR ATENDER AO SISTEMA ÚNICO DE SAÚDE,CIRCUNSTÂNCIA QUE REVELARIA A IMPENHORABILIDADE DE SEUS NUMERÁRIOS, NOS TERMOS DO ART. 833, IX, DO CPC, AO MENOS QUANDO NÃO COMPROVADA DISTINÇÃO DE ORIGEM (RÚBRICA).
+DECISÃO AGRAVADA DESCONSTITUÍDA. JULGAMENTO DO MÉRITO DO AGRAVO DEINSTRUMENTO QUE ACARRETA A PERDA DE OBJETO DO AGRAVO INTERNO, POR AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO INTERNO PREJUDICADO. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Os embargos declaratórios opostos por MENEZES foram rejeitados (e-STJ, fls. 203/211).
+Nas razões do presente recurso interposto com base no art. 105, III, a e c, da CF, alegou-se violação dos arts. 489, § 1º, 98, §3º, e 1.022, II, do CPC; 24 da Lei n. 8.906/94; 4º da Lei n. 14.334/02, bem como divergência jurisprudencial, sob o argumento de omissão por parte do TJSC, que, mesmo instado, não se pronunciou acerca da alteração da atual condição financeira da recorrida e da natureza alimentar da verba perseguida, o que afastaria a impenhorabilidade reconhecida, questões suscitadas em tópicos específicos nas contrarraões ao agravo de instrumento e, no mérito, reitera tais matérias.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Da omissão no acórdão recorrido
+MENEZES alegou omissão por parte do TJSC, que, mesmo instado, não se pronunciou acerca da alteração da atual condição financeira da recorrida e da natureza alimentar da verba perseguida, o que afastaria a impenhorabilidade reconhecida.
+De fato, o TJSC, mesmo instado, não se manifestou acerca das questões suscitadas nos embargos declaratórios , incorrendo, dessa forma, em omissão e negativa de prestação jurisdicional.
+Esclareça-se ser condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+A propósito, veja-se o seguinte precedente:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Nessas condições, DOU PROVIMENTO ao presente recurso especial e determino o retorno dos autos ao TJSC para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Prejudicada a análise das demais questões.
+Previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. ALTERAÇÃO DA CONDIÇÃO FINANCEIRA. NATUREZA DA VERBA PERSEGUIDA. QUESTÕES SUSCITADAS EM EMBARGOS DECLARATÓRIOS. NÃO ENFRENTAMENTO. OMISSÃO. CONFIGURAÇÃO. RETORNO DOS AUTOS PARA APRECIAÇÃO DOS PONTOS OMISSOS. RECURSO ESPECIAL PROVIDO.
