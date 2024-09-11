@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RODRIGO VITOR BLASQUES DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1503222-16.2023.8.26.0544).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 33 da Lei n. 11.343/2006, à pena de 6 anos e 8 meses de reclusão, a ser cumprida no regime inicial fechado, em decorrência da apreensão de "1.569 porções de "cocaína" (massa líquida 1.046 g), 458 porções de "maconha" (1.382g), 547 porções de "crack" (massa líquida 63g), 55 frascos de "lança-perfume" (volume), um barril de 50 litros de "lança-perfume", sem autorização e em desacordo com determinação legal ou regulamentar, além da quantia de R$ 81,10 em dinheiro, uma balança de precisão, 10 folhas de diversos selos contendo valor e com referência ao tráfico de entorpecentes, 1 telefone celular da marca LG, 1 telefone celular da marca Motorola, e 1 motocicleta Honda/CG 160 FAN, ano 2023, de cor vermelha, de placa GFP-6C84" (e-STJ fl. 41).
+A apelação defensiva foi parcialmente provida pelo Tribunal de origem, para reduzir a reprimenda para 5 anos de reclusão, no regime semiaberto.
+Daí o presente writ, no qual alega a defesa que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, inclusive liminarmente, o reconhecimento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+É o relatório.
+Decido.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presente writ não encontra amparo na jurisprudência firmada nesta Corte, razão pela qual vislumbro ser o caso de denegação liminar da ordem.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso, acerca da dosimetria da pena, o Tribunal de origem consignou o seguinte (e-STJ fls. 64/65):
+No caso sub judice, a dedicação do acusado a atividades criminosas, em especial ao tráfico ilíciTribunal//331974
+o de drogas, restou bem delineada nos autos, em razão da expressiva quantidade e variedade de entorpecentes apreendidos, na forma de acondicionamento de parte das substâncias proscritas, bem como a presença dea notações e petrechos. Observo que, conforme antes mencionado, não há qualquer bis in idem, pois a quantidade e a variedade das drogas (art. 59 do CP, c.c. o art. 42 da Leinº 11.343/2006) somente estão sendo consideradas nesta fase do procedimento da dosimetria da pena para justificar a exasperação da pena-base(..)
+Considerando as razões deduzidas pela instância ordinária, constato que a suscitada minorante foi afastada não só pela elevada quantidade de entorpecente apreendido mas também pelo contexto circunstancial analisado pelo magistrado, com apoio no suporte fático-probatório dos autos, que, no caso, mostrou-se apto a demonstrar a dedicação do agravante ao crime, de modo a impedir a concessão da causa redutora legal pleiteada.
+Ademais, é indene a dúvidas que a desconstituição dos fatos adotados pelas instâncias originárias demandaria ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. ACUSADO QUE SE DEDICA À ATIVIDADE CRIMINOSA. AFERIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. MANUTENÇÃO DO REGIME PRISIONAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. A Corte local deixou de aplicar a minorante respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, com observância aos pormenores da situação concreta, que demonstraram que o acusado dedica-se à atividade criminosa.
+3. Desconstituir os fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+ ..
+6. Agravo regimental a que se nega provimento. (AgRg no HC 586.297/SC, de minha relatoria, SEXTA TURMA, julgado em 01/09/2020, DJe 04/09/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APLICAÇÃO DA MINORANTE DO TRÁFICO DE DROGAS. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. REVISÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. A apelação é o recurso disponível para defesa e acusação que leva ao Tribunal de Justiça toda a matéria fática e jurídica decidida na sentença recorrida.
+2. A fundamentação apresentada pelo Tribunal de origem para afastar a incidência do tráfico privilegiado se mostra em consonância com a jurisprudência desta Corte Superior, tendo sido destacados os elementos de prova que levaram a conclusão de que o paciente se dedicava à atividade criminosa. Rever tais conclusões, ainda que para fazer prevalecer a decisão de primeiro grau, demandaria aprofundado revolvimento fático-probatório.
+3. Agravo regimental desprovido. (AgRg no HC 541.106/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/09/2021, DJe 17/09/2021, grifei.)
+À vista de todo o exposto, denego a ordem liminarmente.
+Publique-se. Intimem-se.
+EMENTA
