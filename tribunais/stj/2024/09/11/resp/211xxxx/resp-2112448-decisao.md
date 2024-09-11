@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por JONATAN INHAIA SATONINO, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+O recorrente foi condenado às penas de 09 (nove) anos, 11 (onze) meses e 23 (vinte e três) dias de reclusão, em regime fechado, e ao pagamento de 75 (setenta e cinco) dias-multa, pela prática do crime previsto no art. 157, § 2º, incisos II e VII, por cinco vezes, na forma do art. 70, primeira parte, ambos do Código Penal. (fls. 276/287).
+Em  segunda  instância,  o  Tribunal  de  origem negou provimento  à  apelação (fls. 397/406).
+Inconformado, o recorrente interpõe recurso especial para, com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 157, §2º, inciso II e §2º-A, inciso I, do Código Penal e ao art. 381, inciso III, do Código de Processo Penal. Requer que seja aplicada a Súmula n. 443, STJ a fim de que seja atribuída a fração mínima de 1/3 (um terço) para as majorantes aplicadas (fls. 415/419).
+Apresentadas as contrarrazões (fls. 424/427), o recurso especial foi admitido na origem e os autos encaminhados a esta Corte Superior de Justiça (fls. 430/432).
+O Ministério Público Federal opina pelo provimento do recurso especial (fls. 448/450).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca da inidoneidade dos fundamentos utilizados pelo Tribunal da origem para fixar a exasperação na terceira etapa da dosimetria da pena, alegando a defesa ausência de fundamentação na fixação da fração de 3/8 (três oitavos) que é superior à mínima prevista, qual seja, de 1/3 (um terço). Pugna pela aplicação da Súmula n. 443, STJ.
+A eg. Corte a quo assim se manifestou no acórdão recorrido:
+"(..) Presentes as majorantes do concurso de agentes e do emprego de a rma branca, foram devidamente acrescidas da fração de 3/8, totalizando 07 anos, 05 meses e 25 dias de reclusão. (..)"
+Da análise do trecho do voto condutor do acórdão, verifica-se que a tese defensiva, da forma como foi posta no apelo raro, não foi alvo de debate no Tribunal de origem.
+Ademais, a Defesa não atuou de forma a viabilizar o conhecimento do recurso especial, vez que sequer opôs embargos de declaração, acarretando a incidência dos óbices contidos nas das Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Com efeito, adentrar na análise sobre a referida matéria, sem que se tenha explicitado no acórdão recorrido a tese jurídica de que ora se controverte, após o devido debate em contraditório, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Ressalto que para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, indicadas no recurso analisado, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp n. 454.427/SP, Quinta Turma, Rel. Min. Luís Felipe Salomão, DJe de 19/2/2015), situação esta inocorrente in casu.
+Ante o exposto, não conheço do Recurso Especial, consoante art. 255, §4º, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. TERCEIRA FASE. CÚMULO DE MAJORANTES. FRAÇÃO DE AUMENTO EM PATAMAR SUPERIOR AO MÍNIMO LEGAL. OBSERVÂNCIA AO ENUNCIADO DA SÚMULA 443/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 211, STJ E 282, STF. RECURSO ESPECIAL NÃO CONHECIDO.
