@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 5/3/2024 contra ato atribuído ao Secretário de Polícia Militar do Estado do Rio de Janeiro, consistente no pedido do Impetrante, ao requerer, administrativamente, o cumprimento do item 17.8 do Edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro, em razão da anulação de questões da prova objetiva, obtida por outros candidatos do referido concurso.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO denegou a segurança pleiteada, ante o reconhecimento da decadência do direito de impetração.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. Concurso público para provimento do cargo de soldado da Polícia Militar do Estado do Rio de Janeiro PMERJ/2014. Anulação de questões do certame (STF, Tema 485). Pretensão de que seja atribuída ao impetrante a mesma pontuação obtida judicialmente por outros candidatos, mediante pronunciamento transitado em julgado. Impossibilidade. Limites subjetivos da coisa julgada. "O disposto no art. 506 do CPC não permite que se incluam, dentre os beneficiados pela coisa julgada, litigantes de outras demandas em que se discuta a mesma tese jurídica" (Enunciado 36, da I Jornada de direito processual civil do CJF). Manutenção do que resultou decidido no julgamento monocrático, à falta de qualquer elemento de ordem material, doutrinária ou jurisprudencial que altere o entendimento. Recurso a que se nega provimento.
+Não foram opostos embargos de declaração.
+O Recorrente alega, em síntese, que o ato coator é o indeferimento do requerimento administrativo de atribuição dos pontos decorrentes de anulações de questões por outros candidatos na via judicial, por ser o momento em que foi violado o direito previsto no item 17.8 do edital do certame, o que afasta a decadência, visto que não discute nem a reprovação nem o mérito de tais anulações.
+Apresentadas contrarrazões.
+O Ministério Público opina pela extinção do recurso ordinário sem exame de mérito.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+O recurso ordinário não comporta provimento.
+É cediço que, na forma do disposto no art. 23 da Lei n. 12.016/2009, o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.
+Veja-se, mutatis mutandis:
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. ADMINISTRATIVO. OFICIAL DA POLÍCIA MILITAR. PROMOÇÃO EM RESSARCIMENTO DE PRETERIÇÃO. IMPETRAÇÃO APÓS CENTO E VINTE DIAS DO ATO IMPETRADO. DECADÊNCIA.
+1. A alegada preterição de promoção do recorrente, que deveria se dar em 2006, segundo o impetrante, ocorreu no dia 30.12.2014, data da publicação ato questionado. Contudo, o writ foi impetrado após o transcurso de 120 dessa última data, somente em 1º.4.2016, de modo que se operou a decadência da impetração, nos termos do art. 23 da Lei 12.016/2009.
+(..)
+3. Recurso Ordinário não provido.
+(RMS n. 53.823/MA, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe 30/6/2017.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. DECADÊNCIA. NÃO CONFIGURADA. TERMO INICIAL DO PRAZO: CIÊNCIA DO ATO IMPUGNADO. ACÓRDÃO FUNDAMENTADO COM BASE NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A jurisprudência do STJ é no sentido de que o prazo de 120 (cento e vinte) dias para que seja impetrado o Mandado de Segurança, na forma prescrita pelo art. 18 da Lei 1.533/1951, tem início com a ciência, por parte do interessado, do ato impugnado.
+(..)
+3. Agravo Regimental não provido.
+(AgRg no AREsp n. 308.332/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2016, DJe de 20/5/2016.)
+A controvérsia reside, primeiramente, na tentativa de obter administrativamente a ampliação de efeitos de sentença proferida em processo no qual o Impetrante não figura como parte.
+O Impetrante aponta como ato coator o indeferimento do requerimento administrativo, uma vez que busca a extensão dos efeitos da anulação de questões, reconhecida em sentença proferida nos autos do processo n. 0418653-89.2014.8.19.0001, a outros candidatos pela via judicial. De acordo com as informações dos autos, a referida decisão anulou três questões da disciplina de História na prova objetiva do certame ora em discussão.
+Não se desconhece o precedente formado nos autos do RMS n. 58.674/BA, de minha relatoria, em que se reconheceu o direito da parte em se beneficiar dos efeitos de anulação judicial de questões deferida em processo em que não foi parte.
+Todavia, considerando a superação do precedente, em especial, no julgamento do RMS n. 58.698/BA, com relatoria do Ministro Benedito Gonçalves, entendo que o tema merece uma solução mais consentânea com o entendimento atual da Corte.
+No caso dos autos, verifica-se que as referidas anulações decorrem de sentença proferida nos autos do processo n. 0418653-89.2014.8.19.0001, em que se reconheceu a nulidade de três questões da disciplina de História da prova objetiva do certame ora em debate.
+Conforme disposto no artigo 506 do Código de Processo Civil (CPC), "a sentença faz coisa julgada às partes entre as quais é dada". Assim, as decisões judiciais, em regra, têm efeitos restritos às partes envolvidas no processo, salvo previsão legal específica em sentido contrário.
+Neste contexto, considerando que a anulação das questões mencionadas decorreu de decisão judicial, é certo que os efeitos de tais decisões não se estendem automaticamente a todos os participantes do concurso público, a menos que se trate de anulação administrativa, o que não é o caso.
+Assim, ao objetivar a declaração de nulidade de questões da prova objetiva, o termo inicial do prazo decadencial para a impetração de mandado de segurança contra eventual irregularidade do ato que o excluiu do certame é a data da publicação da lista de aprovados da prova objetiva, a qual sacramentou a exclusão do Impetrante do certame.
+Vale dizer, eventual requerimento administrativo protocolado anos depois de sua exclusão do certame não tem o condão de reabrir o prazo decadencial, mormente porquanto a motivação para o pedido administrativo segue a mesma, qual seja, a declaração de nulidade de questões da prova objetiva há muito aplicada.
+Assim, é forçoso o reconhecimento da decadência da presente impetração.
+Ainda que superado o entendimento acima, o que se admite apenas para fins de argumentação, cumpre ressaltar que a Administração Pública não está vinculada à obrigação de estender os efeitos de decisão judicial a todos os candidatos de um certame.
+Como é cediço, conforme já destacado, as decisões judiciais, via de regra, não produzem efeitos erga omnes, mas apenas inter partes, ou seja, entre os litigantes do processo.
+Nesse contexto, mesmo que o edital do concurso contenha cláusula prevendo a extensão de eventual anulação de questões a todos os candidatos, tal previsão se aplica somente àquelas ocorridas no âmbito administrativo. Assim, essa extensão não pode ser imposta quando o reconhecimento da referida irregularidade resulta de decisão judicial que beneficia apenas as partes envolvidas no processo. A administração não está obrigada a modificar ou rever as notas de candidatos que não integraram a ação judicial que deu origem à anulação.
+Portanto, eventuais anulações de questões, para que alcancem todos os candidatos, devem necessariamente decorrer de decisão administrativa, não de sentença judicial proferida em ação movida por terceiros.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
