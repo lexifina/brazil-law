@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANDERSON MARCOS MEDEIROS PINTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+RECURSO DE APELAÇÃO CÍVEL RELAÇÃO JURÍDICA DE CONSUMO. INCÊNDIO OCORRIDO NO QUADRO GERAL DE ENERGIA ELÉTRICA MPUTAÇÃO DE RESPONSABILIDADE À CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CONTRATAÇÃO DE EMPRESA PRIVADA PARA A REGULARIZAÇÃO DAS INSTALAÇÕES ELÉTRICAS, PRETENSÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, CUMULADA COM PEDIDO DE RECEBIMENTO DE REPARAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA, CONDENANDO A PARTE RÉ À RESTITUIÇÃO DA QUANTIA DE R$ 733,33 E AO PAGAMENTO DE R$ 3.000,00, A TÍTULO DE VERBA COMPENSATÓRIA .CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 944 do CC, no que concerne à irrisoriedade do valor fixado a título de danos morais, porquanto o recorrente ficou 26 dias sem energia elétrica em razão da negligência da parte recorrida na manutenção do quadro de medidores de energia externos , trazendo a seguinte argumentação:
+Senhores Ministros desse respeitável Juízo, o acórdão recorrido merece ser reformado, pois violou os princípios da proporcionalidade e da razoabilidade, além de ter violado o artigo 944 do Código Civil.
+Conforme narrado anteriormente, o recorrente ficou 26 dias sem energia elétrica por culpa do recorrido que não fazia manutenção do quadro de medidores de energia elétrica externo a anos, o que causou o incêndio. E ainda, apesar de acionado o recorrido negligenciou a situação instruindo praticamente o recorrente a se virar sozinho, alegando que não tinha culpa nos fatos ocorridos.
+Todos esses fatos narrados acima, restou incontroverso no Tribunal de origem, porém, o valor arbitrado em reparação por danos morais foi irrisório (R$ 3.000,00), o que merece reforma, pois ficar 26 dias sem energia elétrica é um transtorno que ninguém quer passar por causa da privação, do calor e do desgaste emociona.
+No caso em tela, o valor da condenação fixado a título de danos morais foi mantido pelo Tribunal de Justiça Local não se apresenta em consonância com os critérios da razoabilidade e proporcionalidade, diante do sofrimento vivenciado pelo recorrente, que ficou 26 dias em energia elétrica.
+ ..
+Portanto, a decisão da 22 a Câmara Cível de direito privado do Egrégio Tribunal de Justiça do Rio de Janeiro merece ser reformada, para que este Superior Tribunal de Justiça MAJORE o valor da reparação por danos morais, cuja o teto máximo pedido na inicial foi de R$ 60.000,00 (sessenta mil reais) (fls. 226/231).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A propósito, a compensação pela dor moral não deve funcionar como uma espécie de metamorfose entre o estado de angústia para o de euforia. Compensar, apenas isso.
+Pontua-se que o valor compensatório arbitrado pela magistrada sentenciante se revela hábil a compensar os desdobramentos maléficos advindos da falha na prestação de serviço suportados pelo requerente.
+Sabemos que não é o prosaico interesse econômico que enceta o lesado ao processo, mas sim a busca de uma satisfação moral em razão de uma situação invencível, não criada e não desejada por ele. Mas, é preciso um limite, um balizamento que encontre o primeiro degrau na estação da razoabilidade, observados pressupostos do equilíbrio e justeza (fls. 186/187).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, Rel.a Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
