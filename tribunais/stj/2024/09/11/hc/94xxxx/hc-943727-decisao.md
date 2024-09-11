@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício próprio, por Glauco Matias de Souza, condenado pelos crimes previstos nos arts. 297, § 1º, 312, § 1º, este c/c o art. 14, II, e no art. 313-A, todos do Código Penal, à pena de 13 anos e 4 meses de reclusão, a ser cumprida inicialmente em regime fechado (Processo n. 0004152-59.2014.8.17.0420, da 2ª Vara Criminal da comarca de Camaragibe/PE).
+O impetrante aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco, que rejeitou os embargos de declaração opostos ao julgamento da apelação defensiva.
+Alega, em síntese, que o julgamento, por órgão colegiado, dos embargos de declaração postos contra decisão monocrática, evidencia notório desrespeito da competência legalmente prevista para o julgamento do recurso integrativo (fl. 4); e que o julgamento dos embargos de declaração não se limitou a mencionar os fundamentos empregados na decisão monocrática embargada para concluir pela ausência de omissão do julgado. O órgão colegiado também declinou argumentação própria no sentido de demonstrar o acerto do decisum, como um todo (fl. 4).
+Sustenta ainda, em longo arrazoado, a existência algumas nulidades, a inexistência de prova idônea dos crimes e a negativa de autoria, mencionando também a manifesta injustiça epistêmica agencial (fl. 37).
+Pede o deferimento de medida liminar (fl. 37):
+1.A) PARA DETERMINAR a correta digitalização dos autos nos termos da RESOLUÇÃO 469/2022 CNJ em face dos diversos prejuízos na apreciação deste writ e demais recursos conforme consta descrito no capítulo (3) desta petição, bem como, na representação disciplinar do CNJ 0002335- 79.2024.2.00.0000 (DOC.02);
+1.B) PARA CASSAR O ACORDÃO (DOC.10) em face da manifesta violação conforme consta descrito no capítulo (2) deste writ, posto que os embargos (DOC.12) deveriam ter sido julgados pelo próprio Desembargador, monocraticamente (art. 1.024, § 2º, do CPC);
+No mérito, requer a concessão da ordem para determinar (fl. 37):
+2.A) MANIFESTA ABSOLVIÇÃO ante a rejeição da denuncia por falta de justa causa art. 395, III, CPP e/ou ATICIDADE DA CONDUTA conforme amplamente restou delineado neste writ;
+2.B) Em sucessivo, atendendo o comando do art.158 CPP, REQUER A CASSAÇÃO DO ACORDÃO E DA SENTENÇA CONDENATÓRIA para determinar a reabertura da instrução processual a fim de proceder com o procedimento da restauração dos autos dos processos descrito na denúncia nos termos do art. 712 e seguintes do CPC, bem como, que seja oficiado ao Juizado Especial de Camaragibe no sentido de informar qual login e senha foram expedidos os alvarás motivadores da condenação, a realização de perícia no sistema processual do Juizado a fim de constatar acesso múltiplo do login e senha do acusado e demais diligência descrita nas alegações finais - doc. 05;
+É o relatório.
+Este writ é manifestamente inadmissível.
+Primeiro, os autos estão mal instruídos. Não há cópia da decisão monocrática que teria sido objeto dos mencionados embargos de declaração.
+É consabido que o habeas corpus não se presta a dilação probatória, exige prova pré-constituída das alegações, e é ônus do impetrante instruir o feito com toda a documentação necessária ao exame do arrazoado na inicial no momento do ajuizamento do writ, máxime quando se tratar de advogado. Sobre o tema, por todos, HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018.
+Segundo, pelo que consta da fl. 40 (grifo nosso):
+Trata-se de Embargos de Declaração opostos pela defesa de Glauco Matias de Souza contra acórdão proferido por esta Segunda Câmara Criminal, que negou provimento ao apelo interposto pela defesa, mantendo a sentença que condenou o embargante  ..
+Quer dizer, ao contrário do alegado, os embargos de declaração em questão foram opostos a julgamento realizado pelo Colegiado, correta, portanto, sua análise pelo mesmo órgão julgador, por ser recurso integrativo e de exame horizontal.
+Terceiro, a impetração consubstancia inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022). Ao lado disso, o habeas corpus não pode ser utilizado como panaceia universal destinada à cura de todos os males processuais a pretexto de ser garantia constitucional, ainda mais em hipóteses como a dos autos em que nem sequer há ofensa direta ao direito de ir e vir do paciente.
+Dada a excepcionalidade do ajuizamento de habeas corpus substitutivo, é necessário que o alegado constrangimento ilegal seja manifesto, perceptível primus ictus oculi, o que, na espécie, não ocorre, porquanto o exame dos temas suscitados está a exigir amplo reexame de fatos e de provas, providência inadmissível neste âmbito.
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO, PECULATO, INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÕES. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE VIOLAÇÃO DO DIREITO DE IR E VIR DO PACIENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus indeferido liminarmente.
