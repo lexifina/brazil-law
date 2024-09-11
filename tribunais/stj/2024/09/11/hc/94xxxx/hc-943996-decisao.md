@@ -1,0 +1,9 @@
+DECISÃO
+HENRIQUE TOSTES DOMINGUES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que deu provimento ao Ministério Público para condenar o paciente por receptação, ao cumprimento de 1 ano e 2 meses de reclusão, mais multa, a ser cumprida em regime semiaberto.
+Neste writ, a defesa assere " a impossibilidade de expedição de mandado de prisão para início do cumprimento da pena definitiva em regime semiaberto, devendo ser o réu notificado para comparecer ao Juízo das Execuções para iniciar o cumprimento da reprimenda, haja vista o art. 23 da Resolução 417/2021, alterado pela Resolução 474/2022, ignorada pela autoridade coatora" (fl. 4).
+Entretanto, na hipótese, o acórdão se manteve silente em relação à constrição do paciente sem a prévia intimação; some-se a isso o fato de que foi juntada pela defesa apenas a cópia de despacho proferido pelo Magistrado da 37ª Vara criminal da Comarca do Rio de Janeiro, conforme fl. 36, na qual há a expedição de mandado de prisão e, também, menção à Resolução CNJ n. 417/2021.
+Tal circunstância, além de impedir a análise precisa de eventual constrangimento ilegal (já que o referido despacho também faz alusão a Resolução), também obsta o conhecimento deste habeas corpus, sob pena de supressão de instância, visto que a questão ventilada pela defesa não foi objeto de análise pelo Tribunal de origem.
+De fato, somente foi juntado no writ a cópia do acórdão proferido em apelação, o qual, por sua vez, nada diz sobre a expedição de mandado de prisão sem a intimação prévia do paciente. A decisão impugnada, na verdade, foi proferida por Magistrado de primeiro grau.
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intime-se.
+EMENTA
