@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de ROBSON CRUZ DE SANTANA em que aponta autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+O paciente foi condenado pela prática dos delitos dos arts. 33, da Lei 11.343/06, 12 e 16 da Lei 10.826/03 e 288, paragrafo u"nico, todos do CP (respectivamente, tráfico de entorpecentes, posse irregular de arma de fogo de uso permitido, posse ilegal de arma de fogo de uso restrito e associação criminosa), à pena de 11 anos e 5 meses de reclusão e 1 ano e 2 meses de detenção.
+Irresignada, a defesa interpôs recurso de apelação, pendente de julgamento.
+No presente writ, a impetrante sustenta, em resumo, a existência de excesso de prazo no julgamento do recurso de apelação, alegadamente interposto em 10/3/2023, sem que haja previsão de julgamento.
+Requer, no mérito, a concessão da ordem para se determinar o julgamento da apelação criminal.
+Não houve pedido de medida liminar.
+Parecer ministerial de fls. 72/75 pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Com efeito, esta Corte Superior tem o entendimento de que somente configura constrangimento ilegal por excesso de prazo no julgamento da apelação, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+Em recente análise ao andamento processual no site do TJPE, verifica-se que os quatro denunciados apelaram da sentença que lhes condenou, contudo, o órgão acusador apenas se manifestou com relação a dois dos apelantes, Almeri Carlos Marques Junior e Robson Cruz de Santana, não apresentando as contrarrazões recursais com relação aos réus Willian Teixeira de Melo e Rubens Silva de Albuquerque Gomes, de sorte que os autos tiveram que retornar à origem para apresentação das respectivas peças.
+Com o retorno dos autos em 19/10/2023 ao Tribunal , a Procuradoria de Justiça emitiu parecer. Em 19/2/2024, o feito foi redistribuído por competência exclusiva em razão de sucessão do relator.
+Nessa ordem de ideias, considerando o fato de que o feito está em ponto de julgamento, entendo que não restou caracterizada a existência de mora na tramitação da apelação que justifique o relaxamento da prisão preventiva, porquanto esta tem seguido seu trâmite regular.
+Ademais, em tais casos, é cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. No caso, o paciente foi condenado à pena definitiva de 11 anos e 5 meses de reclusão e 1 ano e 2 meses de detenção, não restando desarrazoado o prazo para julgamento do recurso defensivo.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 2º, § 2º, DA LEI N. 12.850/2013; ART. 155, §§ 1º E 4º, I E IV, DO CÓDIGO PENAL; ART. 14 DA LEI N. 10.826/2003; E ART. 33 DA LEI N. 11.343/2006. EXCESSO DE PRAZO PARA O JULGAMENTO DO RECURSO DE APELAÇÃO. CONSTRANGIMENTO ILEGAL NÃO CONSTATADO. ORDEM DENEGADA, COM RECOMENDAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Como cediço, o excesso de prazo não se constata de forma puramente matemática; demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória, mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação do processo.
+2. Na espécie, tem-se que o constrangimento ilegal não está configurado, pois se está diante de agravante custodiado, segundo a própria defesa, em agosto de 2020; de ação penal proposta em desfavor de treze réus e para a apuração dos graves e plurais crimes de organização criminosa, porte ilegal de arma de fogo, furto qualificado e tráfico de entorpecentes; de sentença condenatória proferida em 2/12/2021; de apelações distribuídas em 21/2/2022, após o que o paciente e alguns corréus apresentaram suas razões recursais; de contrarrazões ofertadas em 6/6/2022 e, na sequência, juntado o parecer ministerial e conclusos os autos.
+Ademais, segundo reiterada jurisprudência do Superior Tribunal de Justiça, a análise do excesso de prazo para o julgamento do recurso de apelação deve levar em consideração a quantidade de pena aplicada na sentença condenatória, que, no caso, é de 14 anos de reclusão.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 901.672/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. FURTO QUALIFICADO E INTEGRAR ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA O JULGAMENTO DE APELAÇÃO. QUANTUM ELEVADO DE PENA IMPOSTA. RAZOABILIDADE. OBSERVÂNCIA. ILEGALIDADE MANIFESTA. AUSÊNCIA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão monocrática que não reconheceu constrangimento ilegal na manutenção da segregação cautelar das agravantes, decorrente do alegado excesso de prazo para julgamento de apelação interposta. Inicialmente, por se tratar de recurso complexo (com 12 apelantes e diversidade de condutas delitivas: seis fatos delituosos de furto qualificado e integração de organização criminosa). Depois, por inexistir culpa do Judiciário na eventual mora processual, especialmente porque redistribuído o apelo, foi concluso ao relator em 16/1/2024.
+2. Além disso, as agravantes foram condenadas a 10 anos e 6 meses de reclusão, devendo tal quantum da pena ser levado em consideração para a análise do alegado excesso de prazo para o julgamento da apelação. Precedente.
+3. Agravo regimental improvido, com recomendação para que o Tribunal de Justiça de Minas Gerais empregue celeridade no julgamento da Apelação n. 1.0000.23.223121-7/001.
+(AgRg no HC n. 882.771/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+Nesse contexto, não verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar do paciente.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Todavia, recomenda-se à Corte estadual que imprima maior celeridade ao julgamento da Apelação Criminal n. 0000250-26.2020.8.17.0570 .
+Publique-se.
+Intimem-se.
+EMENTA
