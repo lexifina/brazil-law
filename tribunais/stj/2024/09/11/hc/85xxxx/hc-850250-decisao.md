@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JULIO CESAR DE SOUZA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do crime de tráfico de drogas.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente em razão da gravidade em concreto da conduta, denegando a ordem em acórdão de fls. 156-160.
+No presente writ, alega a nulidade da revista pessoal pois não houve fundadas suspeitas.
+Aduz, ainda, a defesa que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 164-165.
+Informações prestadas às fls. 171-173 e 176-184.
+O Ministério Público Federal em parecer, às fls. 186-190, manifestou-se pelo não conhecimento da ordem, em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. NULIDADE DE PROVAS. BUSCA PESSOAL. ABORDAGEM PAUTADA EM FUNDADOS MOTIVOS. AUSÊNCIA DE ILEGALIDADE NA ATUAÇÃO POLICIAL. CAUTELAR EXTREMA EMBASADA NA GARANTIA DA ORDEM PÚBLICA. PRESSUPOSTOS DA PRISÃO BEM DELINEADOS NOS AUTOS. REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS" - fl. 186.
+É o relatório. DECIDO.
+Na presente hipótese, extrai-se dos autos que os policiais militares realizavam patrulhamento na região dos fatos, em decorrência do atendimento de uma ocorrência, quando visualizaram uma motocicleta ocupada por dois indivíduos, sendo um deles o paciente, que logo ao notar que estava sendo seguido pelos policiais, saltou da moto ainda em movimento, empreendendo em fuga. - fls. 158-159.
+Com efeito, "a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 877.943/MS (Rel. Ministro Rogerio Schietti), decidiu que a conduta de fugir correndo repentinamente ao avistar uma guarnição policial preenche o requisito de fundada suspeita de corpo de delito para uma busca pessoal em via pública, nos termos do art. 244 do CPP" (AgRg no HC n. 862.522/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 3/7/2024).
+Desse modo, dos fatos acima relatados, como consignado pela Corte a quo, a atuação policial foi escorreita e restou fundada em fortes razões da ocorrência do crime permanente cometido pelo paciente, aptas ao embasamento da abordagem pessoal, inexistindo, portanto, a flagrante ilegalidade apontada pela defesa.
+Nesse sentido: AgRg no HC n. 910.693/SC, de minha relatoria, Quinta Turma, DJe de 21/6/2024; AgRg no HC n. 897.225/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2024 e AgRg no HC n. 904.245/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 17/6/2024.
+Quanto a alegada ausência de fundamentação concreta para a segregação cautelar, verifico que melhor sorte não socorre à defesa.
+No caso, a análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao paciente encontram-se devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa, uma vez que se trata de acusado reincidente - fl. 20.
+Sobre o tema:
+"No caso em debate, ao contrário do sustentado pela Defesa, embora o paciente tenha respondido ao processo em liberdade, verifico que a prisão preventiva foi adequadamente decretada na sentença, tendo sido demonstrada pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta. Destacou-se a periculosidade do paciente e necessidade de se evitar a reiteração delitiva, uma vez que, após ter sua prisão preventiva relaxada nos autos em questão, cometeu duas vezes o crime de tráfico de drogas quando estava em liberdade, demonstrando o risco ao meio social.
+3. Por oportuno, impende consignar que, conforme orientação jurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública" (AgRg no RHC n. 194.155/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 3/7/2024).
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
