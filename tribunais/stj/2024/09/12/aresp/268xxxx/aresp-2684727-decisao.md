@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UNIQQ SOLUTIONS ADMINISTRADORA E CORRETORA DE SEGUROS LTDA. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PRESTAÇÃO DE SERVIÇOS. AÇÃO INDENIZATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. DIREITO DE PREFERENCIA. AUTORA PRETENDE COMPELIR AS RÉS AO PAGAMENTO DE INDENIZAÇÃO E À OBRIGAÇÃO DE FAZER POR QUEBRA DE CLÁUSULA CONTRATUAL QUE LHE GARANTIA O DIREITO DE PREFERÊNCIA NA NOVA CONTRATAÇÃO REALIZADA ENTRE ELAS: SEM SUA PARTICIPAÇÃO, MESES APÓS FINDO O CONTRATO ANTERIORMENTE ESTABELECIDO ENTRE TODAS AS PARTES LITIGANTES. SENTENÇA DE IMPROCEDÊNCIA. APELO DA AUTORA. INEXISTÊNCIA DE ABUSO OU ILICITUDE NA NOVA CONTRATAÇÃO REALIZADA ENTRE AS RÉS. IMPROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 113 e 422 do CC, no que concerne ao reconhecimento da violação ao princípio da boa-fé objetiva, pois " ..  houve expressa violação das regras dos dois contratos firmados entre as partes e que, coincidentemente, serviam como proteção à Recorrente para evitar quaisquer danos" (fl. 1430), trazendo a seguinte argumentação:
+No presente caso, evidente a ausência de boa-fé das Recorridas que celebraram idêntico contrato, com os mesmos valores e condições, após 3 (três) meses de rescisão do anterior em que a Recorrente era parte.
+Não se pode ignorar que é fato incontroverso nos autos que a Recorrida "Ikê" fundamentou a resilição contratual na existência de prejuízo financeiro.
+Caso tal situação fosse real, ela não teria, em tão pouco tempo, modificado seu status para a celebração do novo contrato, agora somente com a Recorrida "Shell", nas mesmas condições.
+ ..
+Nesse contexto, destaca-se que a boa-fé objetiva, prevista de forma expressa no art. 422 do Código Civil, impõe às partes da relação jurídica o dever de comportar-se de acordo com padrões éticos de confiança e de lealdade, de modo a permitir a concretização das legítimas expectativas que justificaram a celebração do contrato. Exato oposto ocorreu no presente feito, pois as Recorridas não agiram de acordo com os padrões éticos e faltaram com a confiança e a lealdade, desrespeitando as negociações anteriores, o direito de preferência e a própria relação entre as partes.
+No mesmo sentido, nos termos do art. 113 do Código Civil, a boa-fé deve ser elemento balizador da interpretação do contrato, pelo que tanto as partes, como qualquer pessoa que tenha contato com uma relação contratual, deve apreender tal situação a partir de um dever de boa-fé.
+ ..
+Sendo assim, o que se esperava das Recorridas era a verdade e a transparência, nos termos de todo o exposto no contrato celebrado com a Recorrente, mas não foi o que ocorreu. A conduta esperada é a conduta devida, de acordo com parâmetros sociais.
+ ..
+Ressalta-se, nesse sentido, que tudo isso foi assim ajustado, pois a Recorrente foi a responsável pela criação, desenvolvimento, viabilização e intermediação do negócio entre as Recorridas, sendo que tal fato jamais foi contestado nos autos. Assim, não se tratava de uma simples questão contratual entre um fornecedor e um prestador de serviço que se extingue com a mera comunicação entre as partes. Se tratava de um negócio criado e desenvolvido pela Recorrente, que apresentou as Recorridas para usufruírem do negócio e justamente por essa razão optou-se pelo "direito de preferência" e nomeação de "Corretora Oficial", caso quisessem romper entre si.
+ ..
+O que se discute, entretanto, é que a Recorrida "Ikê" teve comportamento contraditório levando a Recorrente a crer que não gostaria de manter os serviços com o cliente "Shell", quando na verdade era sua maior intenção, retirando, inclusive, a participação da "UNIQQ". Novamente, deixando de agir de acordo com a boa-fé objetiva e não respeitando o dever de informação, lealdade e transparência (fls. 1426-1434).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Isto porque as cláusulas contratuais apontadas deixam claro tratar-se de direito de preferência inerente à vigência daqueles contratos anteriores.
+A cláusula 4.7 (fls. 1334) dispõe sobre a manutenção da remuneração "enquanto estiverem vigentes os negócios fechados e suas respectivas renovações", e as cláusulas do anexo da mesma contratação (fls. 1335), na mesma linha, dispõem sobre a vigência daquele instrumento "pelos mesmos prazos" dos instrumentos coligados.
+Outrossim, as cláusulas 3.3.3 e 3.3.3.1, colacionadas às fls. 1339, estabelecem que o direito de preferência ali tratado vigorará "pelo prazo de vigência do contrato e suas renovações".
+Assim, verificados os termos contratuais, de fato nada impedia que as rés, após rescindida aquela contratação, contratassem entre si, mesmo com idêntico objeto (fls. 1417-1418).
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 9.10.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3.10.2019; AgInt no AREsp 1.165.518/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.10.2019; AgInt no AREsp 481.971/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25.9.2019; AgInt no REsp 1.815.585/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 23.9.2019; e AgInt no AREsp 1.480.197/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
