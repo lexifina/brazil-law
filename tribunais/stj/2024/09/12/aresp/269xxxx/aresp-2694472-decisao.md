@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AMAURY DOS SANTOS MONTEIRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. ASSISTÊNCIA JUDICIÁRIA. SÚMULA 25 DO TJGO. AUSÊNCIA DE ARGUMENTOS NOVOS. AGRAVO INTERNO CONHECIDO E IMPROVIDO (fl. 41).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99 do CPC, no que concerne ao direito à gratuidade de justiça em razão da comprovação de sua hipossuficiência financeira, trazendo a seguinte argumentação:
+No caso dos autos, resta amplamente comprovado que o recorrente tem direito a concessão INTEGRAL do benefício da gratuidade de justiça, devendo ser isenta do pagamento de qualquer ônus advindo do presente processo.
+O agravante aufere o valor bruto de R$ 1.740,73 (um mil, setecentos e quarenta reais e setenta e três centavos) a título de aposentadoria por invalidez previdenciária. No mais, cabível salientar que, conforme documentos juntados com a exordial, a parte agravante não declara Imposto de Renda, uma vez que não possui renda suficiente para tanto.
+Assim, não há sequer um elemento que indique que o recorrente possui suficiência econômica para arcar com as custas e despesas processuais, pelo contrário, todo o conjunto probatório demonstra suas precárias condições financeiras, o que torna inviável o custeio das despesas processuais e honorários advocatícios.
+Desse modo, resta demonstrado que caso não haja a concessão da GRATUIDADE INTEGRAL da justiça ao recorrente, ele não exercerá o direito que foi conferido e ficará prejudicado.
+Frisa-se que a gratuidade da justiça é um DIREITO de quem preenche os requisitos, os quais restam preenchidos pelo recorrente, a qual recebe menos de dois salários-mínimos mensais, conforme se percebe pelos seus documentos, não possui condições de arcar com qualquer tipo de custa e despesa processual (fl. 81).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo ;se manifestou nos seguintes termos:
+Conforme explanado na decisão agravada e, em abono ao entendimento jurisprudencial pacificado na Súmula n. 25 do TJGO, verifico que não basta à fruição do benefício da assistência judiciária (..) a simples alegação do estado de pobreza, porquanto imprescindível a apresentação de documentos para se aferir a real situação financeira de quem pretende litigar às expensas do Estado (grifei).
+Diante disso, em cotejo o conteúdo dos elementos de prova enumerados, como bem consignado pelo magistrado primevo, o agravante não colacionou documentação suficiente para atestar de forma satisfatória sua incapacidade financeira para arcar com o pagamento das custas processuais.
+De mais a mais, como registrado no decisum atacado, não basta a simples alegação do estado de pobreza ou da impossibilidade econômico-financeira, porquanto imprescindível a apresentação de documentos para se aferir a real situação financeira de quem pretende litigar às expensas do Estado.
+A esta evidência, concluiu-se pela confirmação da decisão de indeferimento do pedido de fruição da assistência judiciária, pois além do juiz de primeiro grau facultar parcelamento das custas em cinco vezes, resultando o valor de R$294,07 para cada parcela, o agravante apresentou movimentação bancária de ativos acima da importância recebida como beneficiário previdenciário.
+
+Diante disso, verifico que os fundamentos do inconformismo da agravante não têm força satisfativa para agasalhar sua pretensão, pois em nada inovaram o feito, até porque a jurisprudência deste Tribunal de Justiça é assente no sentido de afirmar que, para eventual reconsideração da decisão atacada, faz-se mister a superveniência de fatos novos (fls. 44/45).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Rcurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "in viabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
