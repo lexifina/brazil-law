@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Emerson da Silva de Jesus - condenado como incurso nos crimes de furto simples tentado e resistência -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Apelação Criminal n. 5001473-44.2021.8.21.0064), não comporta acolhimento.
+Com efeito, busca a impetração a modificação da condenação imposta ao paciente pelo Juízo de Direito da Vara Criminal da comarca de Santiago/RS e modificada pelo Tribunal estadual, ao argumento de que a Corte de origem, ao dar provimento à apelação defensiva para considerar ilegal a fundamentação utilizada para negativar a circunstância judicial da personalidade, bem como afastá-la do cálculo dosimétrico do crime de furto simples tentado, negativou as circunstâncias do crime, sem que o órgão da acusação tenha recorrido para tanto, configurando indevida reformatio in pejus.
+Ocorre que é inviável a utilização da via eleita para revisar a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, o Superior Tribunal de Justiça tem reiteradamente decidido que o efeito devolutivo da apelação autoriza o Tribunal, quando provocado a se manifestar sobre algum critério da dosimetria, analisar circunstâncias judiciais e a rever todos os termos da individualização da pena definidos no decreto condenatório. Dessa forma, desde que a situação final do réu não seja agravada, é possível nova ponderação dos critérios dosimétricos sem que se incorra em reformatio in pejus, ainda que o Tribunal agregue fundamentos diversos daqueles adotados pelo Juízo sentenciante (AgRg no HC n. 906.014/SE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/8/2024).
+Assim, considerando que a reprimenda definitiva do crime de furto simples tentado permaneceu em 6 meses e 12 dias de reclusão (fl. 80), não há falar em reformatio in pejus no caso.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO SIMPLES TENTADO. CONDENAÇÃO MANTIDA EM SEGUNDO GRAU DE JURISDIÇÃO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE NA VIA ELEITA. DOSIMETRIA DA PENA. REFORMA PELO TRIBUNAL EM RECURSO EXCLUSIVO DA DEFESA. AFASTAMENTO DE CIRCUNSTÂNCIA JUDICIAL NEGATIVADA PELO JUÍZO DE PRIMEIRO GRAU E NEGATIVAÇÃO DE OUTRA, SEM REFLEXOS NA DOSIMETRIA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
