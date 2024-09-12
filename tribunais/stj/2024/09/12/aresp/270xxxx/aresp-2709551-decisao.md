@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. CUMPRIMENTO DE SENTENÇA. Decisão agravada que determinou à executada que providencie o depósito do valor da multa (R$ 20.000,00), acrescida de 10% de honorários advocatícios, nos termos do dispositivo da decisão de fls. 68/70 de origem, no prazo de cinco dias, sob pena de bloqueio de valores. Insurgência da executada. Preliminar de não conhecimento do recurso, veiculada pela parte exequente em contraminuta, parcialmente acolhida. Alegações da executada acerca de matérias discutidas na ação principal que extrapolam os limites da execução. MULTA. Tema já analisado por esta Câmara no julgamento do Agravo de Instrumento nº 2255133-14.2020.8.26.0000. Embora a multa arbitrada possa ser revista a qualquer tempo (art. 537, §1º do CPC), não se verifica modificação nas circunstâncias anteriores para justificar a redução pretendida.
+SEGURO-GARANTIA. Apólice de seguro não configura efetivo pagamento do débito, sendo equivalente a dinheiro apenas para fins de substituição da penhora.
+Ausente equívoco neste ponto.
+HONORÁRIOSADVOCATÍCIOS. Determinação de depósito do valor da multa acrescido de 10% de honorários advocatícios, "nos termos do dispositivo da decisão de fls. 68/70 de origem" (ou seja, em razão da rejeição da impugnação ao cumprimento de sentença), que violou a decisão proferida por esta Câmara no julgamento do Agravo de Instrumento nº 2255133-14.2020.8.26.0000. De rigor o afastamento do depósito de honorários advocatícios com base na rejeição da impugnação ao cumprimento de sentença. Questão relativa à condenação da executada aos honorários advocatícios decorrentes do art. 523, §1ºdo CPC que não foi objeto da decisão impugnada.
+LITIGÂNCIA DE MÁ-FÉ. Pedido de condenação da executada à multa por litigância de má-fé, veiculado em contraminuta, afastado. Ausente conduta elencada no rol do art. 80 do CPC. Decisão reformada para afastar, do valor a ser depositado pela executada, o acréscimo de 10% de honorários advocatícios com base na rejeição da impugnação ao cumprimento de sentença, como já havia sido decidido por esta Câmara no julgamento do Agravo de Instrumento nº 2255133-14.2020.8.26.0000.
+RECURSO PARCIALMENTE PROVIDO, NA PARTE CONHECIDA." (v. 44327)." (e-STJ fls. 648/649).
+No recurso especial, a recorrente alega violação do art. 537, §1º, do Código de Processo Civil, haja vista o valor das astreintes dever ser fixado com razoabilidade pelo julgador. Sustenta que houve excesso na fixação da multa na origem.
+Aponta, ainda, afronta ao art. 520, IV, do Código de Processo Civil, pois "(..) considerando o valor elevado do bloqueio a ser realizado, faz-se necessário a prestação de uma caução como pressuposto para a ação realizada" (e-STJ fl. 667).
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa ao art. 537, §1º, do CPC, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias (e-STJ fl. 651/652).
+Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ademais, extrai-se das razões recursais que a agravante, então recorrente, não refutou os fundamentos adotados pela Corte local, segundo os quais "(..) o tema já foi analisado por esta Câmara e, nesta oportunidade, não se verifica modificação nas circunstâncias anteriores para justificar a redução pretendida, de modo que o valor da multa se mostra adequado diante das peculiaridades do caso concreto" (e-STJ fl. 652) e, ainda, "(..) Quanto à garantia do Juízo, este Tribunal possui entendimento de que a apólice de seguro não configura efetivo pagamento do débito, sendo equivalente a dinheiro apenas para fins de substituição da penhora" (e-STJ fl. 652), o que desafia o óbice constante da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
