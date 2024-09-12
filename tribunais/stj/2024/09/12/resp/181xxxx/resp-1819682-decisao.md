@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por SOCIEDADE EDUCACAO E CARIDADE - SEC, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fls. 472/473):
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RESSARCIMENTO AO SUS. ÍNDICE DE 9,56%. LIMITAÇÃO TEMPORAL. PORTARIA Nº 1.323/99. OFENSA À COISA JULGADA. INOCORRÊNCIA. JUROS DE MORA E CORREÇÃO MONETÁRIA. PRINCÍPIO DO TEMPURS REGIT ACTUM.
+1. Inexistindo disposição expressa no título executivo em relação ao termo final dos valores devidos, deve ser aplicado o entendimento consubstanciado no julgamento proferido pelo STJ, em sede de recurso repetitivo, no REsp 1.179.057, de que o índice de 9,56% somente é devido até1º de outubro de 1999, data do início dos efeitos financeiros da Portaria GM/MS 1.323, de 05/11/1999, que publicou novas tabelas substitutivas concedendo reajustes diferenciados aos serviços, revisando os seus custos em função da reapreciação de cada procedimento abrangido pelo SUS. Este entendimento não configura qualquer ofensa à coisa julgada, tendo em conta a cessação da ilegalidade reconhecida pelo título exeqüendo.
+2. Os juros de mora e a correção monetária são consectários legais do título executivo, que se caracterizam como de ordem pública, sendo cabível o seu pronunciamento de ofício (REsp 1258912/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 22/11/2011, DJe 02/12/2011). Os consectários legais da condenação possuem natureza eminentemente processual. Assim, as alterações legais nos critérios de cálculo das referidas verbas tem aplicação imediata, não se sujeitando aos institutos da preclusão e da coisa julgada.
+3. No caso de condenação genérica da União, é inaplicável o 1º - F da Lei nº 9.494/97, acrescido pela MP nº 2.180-35/2001, no período de vigência da referida MP, eis que rege os juros de mora nas condenações impostas à Fazenda Pública para pagamento de verbas remuneratórias devidas a servidores e empregados públicos. Assim, de janeiro de 2003 a junho de 2009,os juros de mora devem ser calculados pelo índice de 1% ao mês, nos termos do enunciado 20 do CJF, que versa sobre o art. 406, da Lei n. 10.406/02, de 10.1.2002.
+Os embargos de declaração opostos foram acolhidos, sem efeitos infringentes, nos termos da seguinte ementa (fl. 499):
+EMBARGOS DECLARATÓRIOS. ARTIGO 1.022 DO NCPC. CONTRARIEDADE À TESE.
+1. A decisão embargada enfrentou a questão de forma clara e suficientemente fundamentada, expressando o entendimento desta Turma.
+2. Há, no caso, contrariedade ao entendimento proferido pela Turma e os aclaratórios são cabíveis apenas em caso de omissão, obscuridade ou contradição. Em síntese, a contrariedade à tese não enseja efeitos infringentes.
+Nas razões de seu recurso, a parte recorrente alega violação ao art. 1.022 do Código de Processo Civil (CPC), apontando negativa de prestação jurisdicional.
+Sustenta afronta aos arts. 467, 473, 474 e 741, VI, do Código de Processo Civil (CPC) de 1973, ao argumento de que o acórdão recorrido ofendeu a coisa julgada ao admitir a limitação temporal da condenação a novembro de 1999, pela aplicação da Portaria GM/Ms 1.323/1999, uma vez que a sentença foi posterior a essa portaria.
+Demonstra, ainda, divergência jurisprudencial.
+Requer, ao final, o provimento do recurso especial, a fim de (fl. 548):
+a) decretar a nulidade do acórdão dos embargos de declaração, por negativa de prestação jurisdicional, com o retorno dos autos a origem para que outro seja proferido; sucessivamente, b) reformar o acórdão regional, determinando-se que, em obediência a coisa julgada material, seja retirada a limitação temporal estabelecida na decisão recorrida.
+A parte adversa apresentou contrarrazões (fls. 619/628).
+O recurso foi admitido na origem (fls. 686/687).
+É o relatório.
+Na origem, trata-se de embargos à execução contra a Fazenda Pública referente ao pagamento de diferenças decorrentes da conversão de cruzeiros reais para reais na tabela de pagamentos do Sistema Único de Saúde (SUS).
+No que importa à controvérsia de que trata o recurso especial, confira-se o seguinte trecho do acórdão recorrido (fl. 467):
+No caso, inexistindo disposição expressa no título executivo em relação ao termo final dos valores devidos, entendo que deve ser aplicado o entendimento consubstanciado no julgamento proferido pelo STJ, em sede de recurso repetitivo, no REsp 1.179.057, de que o índice de 9,56% somente é devido até 1º de outubro de 1999, data do início dos efeitos financeiros da Portaria GM/MS 1.323, de 05/11/1999, que publicou novas tabelas substitutivas concedendo reajustes diferenciados aos serviços, revisando os seus custos em função da reapreciação de cada procedimento abrangido pelo SUS. Este entendimento não configura qualquer ofensa à coisa julgada, tendo em conta a cessação da ilegalidade reconhecida pelo título exeqüendo.
+A parte recorrente opôs embargos de declaração a fim de provocar o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO a se manifestar sobre:
+(i) a tentativa da União de limitar a condenação, ainda no processo de conhecimento, foi rechaçada pelo título executivo judicial, de maneira que não poderia ser admitida na execução; e
+(ii) a sentença condenatória foi proferida em 2/5/2000 (fls. 1394/1397 dos autos originários), em data posterior, portanto, à edição da Portaria MS 1.323/1999, que é de novembro/1999.
+O Tribunal a quo rejeitou o recurso integrativo sem apreciar os questionamentos a ele feitos (fl. 497):
+Os embargos devem ser acolhidos para determinar a exclusão do vídeo do evento 18, eis que não se refere ao julgamento do presente feito.
+Quanto às demais alegações da parte embargante, não lhe assiste razão.
+São cabíveis embargos de declaração quando houver no acórdão obscuridade, contradição ou omissão em relação a algum ponto sobre o qual o Tribunal deveria se pronunciar e não o fez (NCPC, art. 1.022).
+No caso em tela, a decisão embargada enfrentou a questão deforma clara e suficientemente fundamentada, expressando o entendimento desta Turma em relação à matéria impugnada.
+Não há que se falar, também, em redistribuição da sucumbência, apesar do provimento parcial do recurso quanto à taxa de juros de mora.
+Ademais, os cálculos executivos deverão ser refeitos, após o trânsito em julgado definitivo dos embargos. Portanto, entendo que não há que se falar em sucumbência mínima dos exeqüentes, sendo cabível a compensação de honorários nos termo estabelecidos pela decisão de primeiro grau. Cabe salientar que a interpretação jurisprudencial à época da prolação da decisão embargada, ainda quando da vigência do CPC de 1973, era uniforme no sentido do cabimento da compensação dos honorários advocatícios em casos de sucumbência recíproca, autorizada pela lei processual vigente.
+Ressalto que, para fins de pré-questionamento, a mera suscitação da matéria em embargos basta, nos termos do artigo 1.025 do Novo Código de Processo Civil.
+Ante o exposto, voto por acolher parcialmente os embargos de declaração.
+Verifico a existência de omissão no julgado quanto à data da prolação da sentença condenatória e quanto à tese de que o pleito da União, por limitar a condenação, foi rechaçado na ação de conhecimento.
+O acolhimento da pretensão recursal é devido ante a ocorrência de violação ao art. 1.022 do Código de Processo Civil.
+Os autos devem retornar à origem para que seja sanado o vício apontado nos embargos de declaração por meio de novo julgamento do recurso, com manifestação expressa a respeito da questão não apreciada.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão proferido em embargos de declaração; determino a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento com o saneamento do vício apontado.
+Publique-se. Intimem-se.
+ EMENTA
