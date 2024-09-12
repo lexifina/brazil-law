@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CLEIA REGINA PAULINO GERALDO à decisão de fls. 1379/1380, que não conheceu do recurso.
+Sustenta a parte embargante:
+Data vênia porém, sustentamos que o apelo especial foi protocolizado dentro no prazo de 15 dias úteis, na forma dos artigos 994, VI, c/c os artigos 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, como demonstraremos a seguir, evidentemente excetuando-se os fins de semana; os feriados do STJ referentes aos dias 01.10.2023 e 02.10.2023, na forma do artigo 81, parágrafo 2º, IV, RISTJ), abaixo transcrito:
+ ..
+além do feriado nacional de 15 de Outubro de 2023, referente à Proclamação da República; não se tratando pois de feriados locais, como mencionado à decisão ora embargada, e que exigiriam comprovação no ato da interposição do apelo especial, na forma do parágrafo 6º do artigo 1003 do Código de Processo Civil.
+Em referida contagem de prazos, evidentemente foram computados apenas os dias úteis na forma do artigo 219 do CPC; se iniciando pois, referida contagem de prazo, no dia 03 (sexta), e sua continuidade em 6 (segunda), 7 (terça), 8 (quarta), 9 (quinta), 10 (sexta), 13 (segunda), 14 (terça), 16 (quinta), 17 (sexta), 20 (segunda), 21 (terça), 22 (quarta), 23 (quinta), 24 (sexta), todos do mês de novembro de 2023, expirando-se assim pois, o prazo para interposição do Recurso Especial, apenas em 24.11.2023.
+Ora, o Recurso Especial em tela, foi protocolizado exatamente em 24.11.2023, portanto, a nosso entender, dentro dos quinze dias a que se referem os artigos 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, excetuando-se pois os fins de semana na forma do artigo 219 do CPC; e os feriados referentes aos dias 01.10.2023, 02.10.2023 (finados), na forma do artigo 81, parágrafo 2º , IV, do RISTJ, além do feriado nacional do dia 15.10.2023 referente à proclamação da República (fls. 1385/1386).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 3.10.2019; AgRg nos EDcl no REsp 1819067/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5.9.2019.
+É certo que o feriado nacional de 02.11.2023 não precisa ser comprovado . Porém, o dia 01.11.2023 é supostamente feriado local, razão pela qual deveria ter sido comprovado no ato de interposição do Recurso Especial que não houve expediente neste dia no âmbito do Tribunal de Justiça do Estado de São Paulo.
+Veja-se que, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14.5.2020 e o AgInt no AREsp 1514470/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.12.2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
