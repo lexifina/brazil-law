@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno de MARCO ANTONIO CIRINO DE OLIVEIRA e CRISTINA PEREIRA CUNHA DE OLIVEIRA contra decisão  (fls.  755/757 e-STJ)  que  conheceu  do  agravo  para dar provimento ao  recurso  especial  para reconhecer a prescrição intercorrente.
+Em suas razões, a parte agravante defende que o recurso não reúne condições de admissibilidade, assim como defende a não ocorrência da prescrição intercorrente diante da aplicação da Súmula nº 150/STF.
+Impugnação apresentada às fls. 783/794 e-STJ.
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de fls. 755/757.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, interposto contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. Aplicação das teses firmadas pelo STJ no Incidente de Assunção de Competência nº 001 o (REsp 1.604.4121SC). Pretensão sujeita à prescrição quinquenal, prevista no art. 206, § 5º 1, do CC. Execução que prescreve no mesmo prazo de prescrição da ação (Súmula nº 150 do STF). áN Prescrição intercorrente não consumada. Processo arquivado em julho/2013. Prazo prescricional quinquenal que teve início julho/2014, após o transcurso de um ano, por aplicação analógica do art. 40, § 20, da LF nº 6.830/1980, ao caso dos autos, em que não houve prazo fixado pelo MM. Juízo para a suspensão judicial da execução (art. 791, inciso III, do CPC/73). Prescrição intercorrente que se implementaria em julho/2019, pela paralisação do feito por 05 anos. Superveniência de pedido de desarquivamento do feito em setembro/2018 e indicação de novo bem à penhora em outubro/2018, antes, portanto, de decorrido o prazo para a ocorrência de prescrição intercorrente. Precedente. Sentença reformada. Recurso provido" (fl. 611 e-STJ).
+No recurso especial, a recorrente alega violação dos arts. 202, parágrafo único, e 206, § 5º, I, do Código Civil e art. 924, V, do CPC ao argumento de que a execução não foi suspensa por ausência de bens penhoráveis, mas por inércia dos recorridos, o que acarretou o arquivamento e não, a suspensão do processo.
+Contrarrazões às fls. 646/660.
+A insurgência não merece prosperar.
+Quanto ao prazo prescricional, extrai-se do acórdão recorrido que:
+"(..) o pleito foi arquivado em julho/2013 (fls. 382/383); desta forma, o prazo prescricional quinquenal teve início julho/2014, após o transcurso de um ano, por aplicação analógica do art. 40, § 2% da LF d 6.830/1980, ao caso dos autos, em que não houve prazo fixado pelo MM. Juízo para a suspensão judicial da execução (art. 791, inciso III, do CPC/73); a prescrição intercorrente se implementaria em julho/2019 pela paralisação do feito por 05 anos; contudo, o pedido de desarquivamento do feito, entretanto, ocorreu em setembro/2018 e a indicação de novo bem à penhora se deu em outubro/2018 (fls. 384/388), portanto, antes de decorrido o prazo para a ocorrência de prescrição intercorrente" (fls. 615/616).
+Assim, verifica-se que o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte Superior.
+C o m efeito, nos termos do Tema IAC nº 1/STJ, as teses jurídicas restaram com a seguinte ementa:
+"RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido" (REsp 1.604.412/SC, Rel. Min. Marco Aurélio Bellizze, Segunda Seção, julgado em 27/06/2018, DJe 22/08/2018).
+Ante o exposto, reconsidero a decisão atacada (fls.755/757) e conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
