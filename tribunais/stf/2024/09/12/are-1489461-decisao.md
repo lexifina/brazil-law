@@ -1,0 +1,43 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "AGRAVO DE INSTRUMENTO DO RECLAMANTE. RECURSO DE REVISTA. DIFERENÇAS SALARIAIS DECORRENTES DE REDUÇÃO DAS PROMOÇÕES PREVISTAS EM NORMA COLETIVA. Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “Ante a razoabilidade da tese de violação ao artigo 468 da Consolidação das Leis do Trabalho e de contrariedade à Súmula nº 277 desta Corte, recomendável o processamento do recurso de revista, para melhor exame da matéria veiculada em suas razões. Agravo provido”. RECURSO DE REVISTA DO RECLAMANTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “Há de se mostrar omissa a decisão, mesmo após a provocação da manifestação por intermédio de embargos declaratórios, para que reste demonstrada a negativa de prestação jurisdicional ensejadora do conhecimento do recurso de revista. Exegese do disposto no artigo 535, inciso II, do Código de Processo Civil. Recurso de revista não conhecido”. DIFERENÇAS SALARIAIS DECORRENTES DE REDUÇÃO DAS PROMOÇÕES PREVISTAS EM NORMA COLETIVA E NORMA REGULAMENTAR DO BANCO (alegação de violação aos artigos 9º e 468 da Consolidação das Leis do Trabalho e contrariedade às Súmulas nºs 51 e 277 desta Corte). Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “A par da discussão acerca da retroatividade da aplicação do preconizado na nova redação da Súmula nº 277 do TST, no presente caso, resta incontroverso que os interstícios nos percentuais de 12% e 16% estavam previstos também em norma regulamentar do Banco - Circular Funci 805/91. Neste passo, ainda que se considere a antiga redação da Súmula nº 277 do TST, no sentido de que as cláusulas normativas têm sua vigência limitada no tempo, mesmo que a norma regulamentar tenha sido editada com o objetivo de regulamentar o direito previsto em norma coletiva, a partir de sua edição, passou a existir no mundo jurídico como cláusula contratual independente, sem vinculação à norma coletiva a que fazia referência, seja no campo da eficácia seja no campo da vigência. Portanto, consoante o princípio da inalterabilidade contratual lesiva, que dispõem o artigo 468 da CLT e as Súmulas nºs 51 e 288 do TST, as cláusulas contratuais benéficas somente poderão ser suprimidas por cláusula posterior mais favorável. Com efeito, tratando-se de condição benéfica, aderiu ao contrato de trabalho do autor, nos termos do artigo 444 da CLT e, tal condição não pode ser suprimida ou reduzida unilateralmente em face do que dispõe o artigo 468 da CLT. Recurso de revista conhecido e provido”. COMPLEMENTAÇÃO DE APOSENTADORIA - DIFERENÇAS SALARIAIS – INCLUSÃO (alegação de violação ao artigo 28 do Regulamento da PREVI e divergência jurisprudencial). Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “Não há que se falar em ofensa ao artigo 28 do Regulamento da PREVI, pois regulamento não é lei, para fim de admissibilidade do recurso de revista, na forma do disposto na alínea “c” do artigo 896 da Consolidação das Leis do Trabalho. Também, não prospera a alegação de divergência jurisprudencial, de acordo com a nova redação da Súmula nº 337, item IV, alínea “c”, desta Corte. Recurso de revista não conhecido”. AGRAVO DE INSTRUMENTO DA RECLAMADA CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL – PREVI. RECURSO DE REVISTA. ANUÊNIOS - INTEGRAÇÃO - NORMA REGULAMENTAR - NORMA COLETIVA - SUPRESSÃO. COMPLEMENTAÇÃO DE APOSENTADORIA - FONTE DE CUSTEIO. Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “Nega-se provimento a agravo de instrumento que visa liberar recurso despido dos pressupostos de cabimento. Agravo desprovido”. RECURSO DE REVISTA DO RECLAMADO BANCO DO BRASIL S.A. PRESCRIÇÃO - ANUÊNIOS – DESCUMPRIMENTO DE NORMA INTERNA (alegação de contrariedade à Súmula nº 294 desta Corte e divergência jurisprudencial). Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “A prescrição total somente poderia ocorrer se houvesse reconhecimento de alteração do contrato, sendo que no caso vertente ocorreu apenas o descumprimento de norma interna do Banco que previa o pagamento de anuênios, por isso operou-se apenas a prescrição parcial, eis que a matéria envolve pagamento de prestações sucessivas. Recurso de revista não conhecido”. ANUÊNIOS - INTEGRAÇÃO - NORMA REGULAMENTAR - NORMA COLETIVA - SUPRESSÃO (alegação de violação aos artigos 468, 611 e 613 da Consolidação das Leis do Trabalho, contrariedade à Súmula nº 277 desta Corte e divergência jurisprudencial). Prevaleceu o voto do Exmo. Ministro Renato de Lacerda Paiva, Relator, nos seguintes termos (art. 165, parágrafo único, do RITST): “Não demonstrada a violação à literalidade de dispositivo de lei federal ou a existência de teses diversas na interpretação de um mesmo dispositivo legal, não há que se determinar o seguimento do recurso de revista com fundamento nas alíneas “a” e “c” do artigo 896 da Consolidação das Leis do Trabalho. Recurso de revista não conhecido.”
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXVI; e 7º, inciso XXVI, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise de cláusulas de contrato de trabalho ou de negociação coletiva trabalhista, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+
+    I – Para se chegar à conclusão diversa da adotada pelo Juízo a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas integrantes de acordo coletivo de trabalho e de homologação em ação de cumprimento, o que atrai a incidência das Súmulas 279 e 454/STF. A ofensa à Constituição, portanto, se ocorrente, seria indireta. Precedentes.
+
+    II – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 1.029.393-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 30/08/2017)
+
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Complementação de aposentadoria. Revisão. Legislação infraconstitucional. Cláusulas de acordo coletivo. Reexame. Impossibilidade. Precedentes.
+
+    1. Embargos de declaração recebidos como agravo regimental.
+
+    2. A discussão acerca da manutenção da proporcionalidade entre os pisos salariais do quadro de empregados da FEPASA não prescinde da análise da legislação infraconstitucional ou do reexame das cláusulas de acordo coletivo de trabalho. Incidência das Súmulas nºs 280, 636 e 454/STF.
+
+    3. Agravo regimental não provido.” (ARE 890.071-ED, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21/10/2015)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(ARE 638.703-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 03/02/2012)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 12 de setembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
