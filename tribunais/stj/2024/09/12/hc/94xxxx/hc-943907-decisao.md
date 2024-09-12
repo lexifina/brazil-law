@@ -1,0 +1,15 @@
+DECISÃO
+WILLIAM ALVARO SANTOS DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+O paciente busca a aplicação do Decreto Presidencial n. 11.302/2002, para indulto de suas penas quanto "ao delito de receptação e art. 309 do CTB" (fl. 3). Afirma que a norma de regência não define patamar máximo da unificação das penas.
+Decido.
+O apenado foi condenado a 6 anos, 2 meses e 20 dias de reclusão (PEC n. 0006665-16.2017.8.26.0041), por incursão no art. 157, § 2º, inc. II, do CP e a 1 ano e 2 meses de reclusão e 6 meses de detenção (PEC nº 0013752-81.2021.8.26.0041) pela prática dos crimes previstos no art. 180 do CP e no art. 309, da Lei 9.503/1997.
+A pena referente ao crime impeditivo do art. 157, §2º, II, do CP foi cumprida em 25/12/2022, antes da vigência do decreto.
+Segundo o Tribunal de origem, para a aplicação do Decreto n. 11.302/2022, o julgador "deverá observar o resultado da soma das penas privativas impostas ao sentenciado, decorrentes de eventuais condenações distintas" e "caso a somatória supere o limite previsto no art. 5º do referido decreto, o benefício não será cabível" (fl. 74).
+Não é o que diz o art. 5º, parágrafo único da norma de regência. É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência desta Corte.
+Deveras, "é inaplicável o limite indicado pelas instâncias ordinárias. Com efeito, "Não há como se concluir que o limite máximo de pena em abstrato estipulado no caput do art. 5º do Decreto 11.302/2022 somente autoriza a concessão de indulto se o prazo de 5 (cinco) anos não for excedido após a soma ou unificação de penas prevista no caput do art. 11 do mesmo Decreto presidencial" (AgRg no HC 824.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/06/2023, DJe de 26/06/2023).
+No mesmo sentido, cito o AgRg no HC n. 875.807/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024. E o (AgRg no HC n. 851.752/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024.
+Nos termos da interpretação conferida ao art. 5º, parágrafo único, do Decreto n. 11.302/2022, para fins de análise do requisito objetivo do indulto, deve ser considerada, individualmente, a pena privativa de liberdade máxima em abstrato relativa a cada infração penal.
+É incabível a utilização da soma das penas unificadas para fins de obstar a concessão do indulto, nos termos do art. 11 do Decreto Presidencial n. 11.302/2022, "devendo, para os fins estipulados no art. 5º do referido ato normativo, ser consideradas individualmente as penas máximas em abstrato" (AgRg no HC n. 840.517/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 9/11/2023).
+Diante do exposto, concedo o habeas corpus, in limine, para reconhecer a satisfação do requisito objetivo do indulto e determinar que o Juiz da VEC, uma vez preenchidas as demais condições explícitas do decreto, declare extinta a punibilidade do condenado em relação à PEC n. 0013752-81.2021.8.26.0041.
+Publique-se e intimem-se.
+EMENTA
