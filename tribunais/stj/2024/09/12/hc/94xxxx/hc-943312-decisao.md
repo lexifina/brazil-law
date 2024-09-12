@@ -1,0 +1,9 @@
+DECISÃO
+JORGE SOARES CHAIM, em longa petição, alega ser vítima de constrangimento ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro, que, em discussão sobre o processamento de precatório autônomo, determinou a expedição de ofício ao Procurador-Geral de Justiça, com cópia integral do feito, para apuração de eventual infração penal, diante de supostas agressões desabonadoras à Justiça feitas pelo peticionário, com o objetivo de obter privilégio na expedição de seus mandados de pagamento.
+De início, registro que toda discussão relativa a cronologia ou processamento dos precatórios na origem é matéria que refoge ao âmbito penal e, também, não tem pertinência no habeas corpus, o qual se destina a proteção da liberdade ambulatorial ameaçada ou indevidamente cerceada.
+Por isso mesmo - em razão da própria natureza do writ - eventual expedição de ofício ao Ministério Público, para que seja apurada possível prática de crime ou mesmo a pretensão defensiva de reconhecimento da nulidade da decisão que, segundo o impetrante, negou-se a dar prioridade etária na tramitação do pagamento de precatório, não se coaduna com a via mandamental, que exige, no mínimo, alguma ameaça, ainda que indireta, à liberdade de locomoção.
+De fato, segundo a orientação desta Corte, " o  habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, ou seja, sempre que fundado for o receio de o paciente ser preso ilegalmente. Tal receio haverá de resultar de ato concreto, de ameaça iminente de prisão" (AgRg no HC n. 873.701/RS, relator Ministro Joel Ilan Paciornik, DJe 6/3/2024).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Dê-se ciência ao Miistério Público Federal.
+Publique-se e intimem-se.
+EMENTA
