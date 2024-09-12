@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SAULO DE ALMEIDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. CONDOMÍNIO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO E INDENIZAÇÃO POR DANOS MORAIS. GRATUIDADE DA JUSTIÇA INDEFERIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AUSENTE PROVA ACERCA DA NECESSIDADE DO BENEFÍCIO. O BENEFÍCIO DA GRATUIDADE DA JUSTIÇA DEVE SER CONCEDIDO À PESSOA NATURAL OU JURÍDICA, BRASILEIRA OU ESTRANGEIRA, COM INSUFICIÊNCIA DE RECURSOS PARA PAGAR CUSTAS, DESPESAS PROCESSUAIS E ATÉ HONORÁRIOS ADVOCATÍCIOS, NOS TERMOS DO ARTIGO 98 DO CÓDIGO DE PROCESSO CIVIL. AUSENTE PROVA DA NECESSIDADE QUANTO AO PAGAMENTO DAS CUSTAS E HONORÁRIOS QUE A PARTE AGRAVANTE EVENTUALMENTE VENHA A SUPORTAR, POIS EMBORA OS RENDIMENTOS SEJAM INFERIORES A CINCO SALÁRIOS MÍNIMOS, POSSUI APLICAÇÕES FINANCEIRAS EM VALORES ELEVADOS, O QUE NÃO SE COADUNA COM O BENEFÍCIO PERSEGUIDO E AFASTA A CONDIÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA. AGRAVO INTERNO DESPROVIDO (fl. 47).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99 do CPC, no que concerne ao direito à gratuidade de justiça em razão da comprovação de sua hipossuficiência financeira, trazendo a seguinte argumentação:
+Da mesma forma, destacamos o § 2º, do art. 99, do CPC, o qual explana que somente poderá ser indeferido pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, o que inexiste nos autos.
+Destarte, o recorrente encontra-se dentro dos parâmetros desenhados pelo STJ para concessão do benefício da AJG, devendo lhe ser concedido o benefício da assistência judiciária gratuita.
+ ..
+A concessão do benefício da Assistência Judiciária Gratuita não necessita de miserabilidade do requerente, haja vista que simples declaração deste de que não está em condições de pagar as custas processuais sem prejuízo próprio ou da família embasa a concessão.
+ ..
+O recorrente não tem condições de arcar com as custas processuais sem que isto afete o seu sustento e o de sua família, conforme apontam os elementos dos autos. Não se faz necessária a miserabilidade do requerente para obtenção do benefício. Portanto, a decisão merece ser reformada para conceder ao recorrente a Assistência Judiciária Gratuita.
+ ..
+Reitera-se, nos termos do art. 99, § 3º, do CPC, a alegação de insuficiência do requerente é presumidamente verdadeira, bem como o §2º da mesma legislação, onde expõe que somente poderá ser indeferida a benesse quando houver elementos que evidenciam a capacidade financeira do requerente (fls. 61/62).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A parte agravante não trouxe nenhum fato novo ou argumento hábil a dar lastro à eventual mudança do entendimento adotado quando da prolação da decisão monocrática pela E. Desa. Liége Puricelli Pires, que, de modo exauriente, bem apreciou a questão relativa ao indeferimento do pedido de concessão do benefício da assistência judiciária gratuita.
+Rogo vênia para transcrever os fundamentos da referida decisão (6.1):
+I. Trata-se de agravo de instrumento interposto por SAULO DE ALMEIDA, inconformado com a decisão que nos autos da ação de consignação em pagamento e indenização por danos morais ajuizada em face de CONDOMÍNIO DO EDIFICIO MATRIZ PALACE, indeferiu pedido de concessão do benefício da gratuidade da justiça. Em suas razões, alega a necessidade de reforma da decisão agravada, sustentando não ter condições de arcar com as custas processuais sem prejuízo do próprio sustento. Menciona ter renda mensal inferior ao parâmetro de 5 salários mínimos adotado pelo Tribunal de Justiça fazendo jus à gratuidade requerida. Pugna pelo provimento do recurso a fim de que lhe seja concedida a gratuidade da justiça requerida.
+ ..
+Insurge-se o agravante contra a seguinte decisão ( evento 18, DESPADEC1):
+Tendo em vista que a parte autora denota situação financeira incompatível com o conceito de hipossuficiência econômica, mantendo saldo em aplicação financeira em valor considerável (evento 16, OUT4), indefiro o pedido de gratuidade da Justiça.
+Por via de consequência, deverá efetuar o pagamento das custas processuais, no prazo de 15 dias, sob pena de cancelamento da distribuição, ex vi do disposto no artigo 290, do Código de Processo Civil.
+Nos termos do previsto no artigo 98 do Código de Processo Civil:
+ ..
+Assim, para a concessão da gratuidade da justiça há de vir demonstrada a alegada insuficiência, o que não ocorre, no caso.
+Compulsando os documentos aqui trazidos, verifica-se apesar de o que o agravante, no exercício 2022, ter aferido rendimentos tributáveis de R$ 43.832,57 (evento 16, OUT4), o que comprovaria renda mensal bruta em valor inferior a 5 salários mínimos brutos, parâmetro adotado por este Egrégio Tribunal de Justiça1, fato é que o agravante tem aplicações financeiras em valores elevados, além de ter um patrimônio considerável.
+Assim, ausente prova da necessidade quanto ao pagamento das custas e honorários que eventualmente venha a suportar na demanda, impõe-se a manutenção da decisão que indeferiu o benefício da gratuidade da justiça.
+ ..
+Acrescento que, diversamente do que sustenta a parte agravante, a existência de empréstimos consignados em folha de pagamento, a teor do que se observa do demonstrativo anexado ao processo de origem (processo 5042798-36.2022.8.21.0008/RS, evento 11, EXTR2), não infirma a conclusão do julgamento monocrático, porquanto considerados os rendimentos tributáveis auferidos, estes inferiores a cinco salários mínimos.
+Nada obstante se trate de pessoa idosa, beneficiária de aposentadoria por idade e com rendimentos - tributáveis e não tributáveis - inferiores ao patamar estabelecido para a concessão da gratuidade de justiça na 49ª Conclusão do Centro do Tribunal de Justiça do Estado 1 , não se pode desconsiderar o patrimônio declarado pela parte agravante à Receita Federal, no montante de R$ 589.494,03.
+Com efeito, além dos dois imóveis (casa e box de garagem), um veículo e quotas de participação em hotel na cidade de Torres/RS, a parte agravante possui saldo em aplicação de CDB/RDB, saldo em conta corrente e um fundo de capitalização, os quais, somados, totalizam o valor de R$ 130.105,00, segundo DIRPF exercício 2022/ano-calendário 2021 (processo 5042798- 36.2022.8.21.0008/RS, evento 16, OUT4).
+Importante ressaltar que o patrimônio líquido da parte agravante teve um incremento de R$ 35.048,00, se comparado com o ano-calendário 2020, o denota que possui provisão de recursos de outras fontes de renda além do benefício previdenciário.
+Evidente, portanto, que os valores existentes em aplicações financeiras não se coadunam com o benefício perseguido, o que afasta a condição de hipossuficiência da parte agravante e permite concluir que possui condições financeiras de arcar com as despesas do processo sem prejuízo do próprio sustento e da família.
+ ..
+A parte agravante, ao interpor o recurso de agravo interno, não apresentou nenhum documento novo capaz de comprovar que eventual alteração da situação econômico-financeira vislumbrada por ocasião do julgamento monocrático (fls. 43/46).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Rcurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
