@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MASTRA ENGENHARIA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DESCUMPRIMENTO DE CONTRATO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS, TENDO COMO OBJETO A CALIBRAÇÃO, INSPEÇÃO NR13, LAVAGEM E PINTURA DE VASOS DE PRESSÃO DESTINADOS AO ARMAZENAMENTO DE GASES LIQÜEFEITOS. ALEGADO DESCUMPRIMENTO CONTRATUAL PELA TOMADORA DOS SERVIÇOS. DEÍER DE REAJUSTE CONTRATUAL INEXISTENTE. CLÃUSULA PREVENDO A REUNIÃO ENTRE AS PARTES PARA AVALIAR A POSSIBILIDADE DE REPACTUAÇÃO DE PREÇOS, DE COMUM ACORDO. PRESTAÇÃO DE SERVIÇOS FORA DO ESCOPO CONTRATUAL E SEM PAGAMENTO NÃO RESTOU COMPROVADA. OBJETO CONTRATUAL QUE APARENTA ENGLOBAR A REALIZAÇÃO DE MANUTENÇÃO PREVENTIVA. DOCUMENTAÇÃO INAPTA A DEMONSTRAR O PRETENDIDO PELA PARTE, AO MENOS SEM A REALIZAÇÃO DE UMA PERÍCIA TÉCNICA. REALIZAÇÃO DA PROVA NÃO SOLICITADA PELA PARTE AUTORA. DEPOIMENTOS INSUFICIENTES PARA COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO DO AUTOR. ART. 373, INC I DO CPC. SENTENÇA MANTIDA RECURSO DESPROI IDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação e divergência jurisprudencial, com fundamento no art. 370 do CPC, no que concerne à falha do Juízo recorrido que não se valeu de seu poder instrutório para determinar de ofício a realização da perícia, trazendo a seguinte argumentação:
+A legislação processual civil; mesmo anterior ao presente Código Processual - Lei n. 13.105/2015; ou seja, Lei n. 5.869/73, sempre adotou, no tocante a produção probatória, a prevalência da autoridade julgadora na análise da pertinência e requerimento de provas que reputasse relevante.
+NO CASO em análise, apontam(ram) os julgadores antecedentes, ser necessária prova técnica/pericial para perfeita e completa análise probatória, não designando, entretanto, a sua realização, falhando em seu poder instrutor investido pela legislação processual:
+ ..
+Afinal, sendo o julgador o destinatário das provas, compete a este deferir, ou ordenar a produção de provas que melhor julgar pertinentes.
+ ..
+Afinal, tendo o magistrado o poder de indeferir, fundamentadamente, a elaboração de provas, compete, portanto, a este; baseado em seu poder instrutor, TAMBÉM, designar, de ofício, provas que considerar pertinente.
+ ..
+No julgado citado acima (anexo a estas razões); recentíssimo, ainda; citam os ministros julgadores: "Nesse sentido, diversos julgados demonstram a possibilidade de o juiz determinar a produção probatória sem que haja prévia provocação" (grifei), e colacionam julgados que fundamentam tal entendimento, demonstrando a solidez da posição quanto a interpretação do atual artigo 370 do CPC.
+ ..
+Portanto, vê-se claramente que a interpretação adotada a referido artigo violado - 370, CPC - dada, há muito, por esta Corte, trata-se daquela de que compete ao juiz determinar a prova pertinente que julgar necessária, assim não agindo o Tribunal Paranaense, falha(ou) na correta fundamentação ao proferir decisão terminativa.
+Isto posto, mostra-se necessária a reforma do acórdão recorrido, determinando- se a anulação das decisões proferidas, retornando-se os autos ao juízo de origem, para realização da prova pertinente (pericial), em consonância ao poder instrutor do julgador (fls. 7683/7689).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Do mesmo modo, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 25.3.2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.12.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
