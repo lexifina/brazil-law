@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GIOVANE AUGUSTO MONTEIRO DA SILVA, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado por infração ao artigo 28, caput, da Lei 11.343/06, à medida educativa de advertência, e por infração ao artigo 16, parágrafo único, IV, da Lei 10.826/03, às penas de 03 anos de reclusão, em regime prisional inicial semiaberto, e de 10 dias-multa, no piso legal, substituída a pena privativa de liberdade por prestação de serviços à comunidade ou a entidades públicas, pelo tempo da condenação, e por 10 dias-multa, no piso legal.
+A defesa apelou à Corte local, que negou provimento à apelação, nos seguintes termos:
+"Posse ilegal de arma de fogo com numeração suprimida Coesão e harmonia do quadro probatório Condenação mantida. Apelo defensivo improvido." (e-STJ, fl. 10)
+Neste writ, a defesa sustenta haver ilegalidade na fixação do regime semiaberto ao paciente, pois é primário e as circunstâncias judiciais foram favoráveis.
+Nesse contexto, requer a concessão do regime prisional semiaberto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Colegiado de origem estabeleceu o regime prisional mais gravoso para o paciente, pelos seguintes fundamentos:
+"As penas não foram além do mínimo legal, ficando inalteradas.
+Justificada a substituição da carcerária por restritivas de direitos, fixado o regime prisional semiaberto em caso de descumprimento, inalterado ante a gravidade concreta do delito e a personalidade desvirtuada do réu, preso, segundo ele próprio admitiu, pela prática de tráfico de drogas.
+A pena-base foi fixada no seu valor mínimo legal, em 08 (oito) anos de reclusão e nesse patamar permaneceu, pois estão ausentes circunstâncias modificadoras, agravantes ou atenuantes, causas de aumento ou de diminuição." (e-STJ, fl. 12)
+Com efeito, os fundamentos utilizados pelas instâncias ordinárias foram genéricos e, portanto, não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), havendo falar em violação da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+No caso dos autos, a reprimenda foi fixada em 3 anos de reclusão, sendo o paciente primário, com circunstâncias judiciais favoravelmente valoradas, o que leva à fixação do regime prisional aberto, nos termos do art. 33, § 2º, "c", e § 3º do CP.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO QUALIFICADO. TENTADO. REINCIDÊNCIA. FIXAÇÃO DO REGIME FECHADO. PROPORCIONALIDADE. RAZOABILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A reincidência constitui fundamento apto a promover o recrudescimento do regime prisional, porém nos moldes da razoabilidade e proporcionalidade.
+2. A fixação de regime inicial fechado à réu mesmo que reincidente condenado à pena de 2 anos e 8 meses de reclusão, mostra-se desarrazoada, fazendo jus portanto ao regime inicial semiaberto.
+3. Agravo regimental improvido.
+(AgRg no HC 448.968/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/9/2018, DJe 24/9/2018, grifou-se).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. TERCEIRA FASE. AUMENTO DA PENA. INCIDÊNCIA DE DUAS MAJORANTES. FUNDAMENTAÇÃO INSUFICIENTE. SÚMULA N. 443/STJ. REGIME FECHADO. ADEQUADO. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS. RÉU REINCIDENTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel.
+Min. Arnaldo Esteves, DJU de 11/4/2005).
+III - In casu, a pena foi exasperada, na terceira fase, na fração de 3/8 (três oitavos) em virtude da incidên cia de duas causas de aumento de pena, levando-se em conta apenas o número de majorantes contidas nos incisos I e II do § 2º do art. 157 do Código Penal.
+Diante desse contexto, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o quantum de aumento de pena foi aplicado sem que houvesse a devida fundamentação, baseando-se apenas no número de majorantes, em desacordo com a orientação firmada na Súmula n. 443/STJ: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes." (Precedentes).
+IV - Os requisitos para a imposição do regime semiaberto, constam no art. 33, § 2º, alínea b, e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período superior a 4 (quatro) anos e inferior a 8 (oito) anos, bem como a inexistência de circunstâncias judiciais desfavoráveis.
+V - Na hipótese, o paciente ostentar reincidência (fl. 57). Logo, fixada a pena em 5 (sete) anos e 4 (quatro) meses de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, §2º, alínea "b" e §3º, do Código Penal.
+Habeas corpus não conhecido. Ordem concedida de ofício apenas para estabelecer a fração mínima legal de 1/3 (um terço) na terceira fase da dosimetria, em razão das majorantes do emprego de arma e concurso de pessoas, e redimensionar a pena do paciente para 5 (cinco) anos e 4 (quatro) meses de reclusão, mais pagamento de 12 (doze) dias-multa, mantidos os demais termos da condenação."
+(HC 456.877/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/09/2018, DJe 10/09/2018).
+Ante o exposto, não conheço do habeas corpus. Concedo, porém, a ordem, de ofício, para fixar o regime aberto, salvo se, por outro motivo, não estiver descontando reprimenda em regime mais severo.
+Publique-se. Intimem-se.
+EMENTA
