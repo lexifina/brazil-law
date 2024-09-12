@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALLIANZ SAÚDE S.A. (ALLIANZ) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 520/529).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida, especialmente com relação à tempestividade do apelo nobre.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, ALLIANZ alegou, além de dissídio, a violação dos arts. 92 do CC/02 e 13, parágrafo único, III, e 30, ambos da Lei n.º 9.656/98, ao sustentar a impossibilidade de ser obrigada a manter, após a resilição contratual, o plano de saúde à beneficiária (e-STJ, fls. 407/438).
+O STJ pacificou o entendimento no sentido de que a operadora, mesmo após exercício regular do direito à rescisão unilateral do plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais prescritos ao usuário internado ou em pleno tratamento médico garantidor de sua sobrevivência ou de sua incolumidade física, até a efetiva alta, desde que o titular arque integralmente com a contraprestação devida.
+Nesse sentido, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. MANUTENÇÃO PROVISÓRIA NA CONDIÇÃO DE BENEFICIÁRIO. TEMA 1.082/STJ. AUSÊNCIA DE DETERMINAÇÃO DE SUSPENSÃO NACIONAL DE PROCESSOS. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a orientação jurisprudencial deste Tribunal Superior, embora seja possível a rescisão do contrato coletivo de plano de saúde celebrado entre a ex-empregadora do recorrido e a recorrente, ficou constatado nos autos que o beneficiário estava em tratamento médico de doença grave. Dessa forma, a extinção da apólice coletiva, apesar de legalmente aceita, só pode ser efetivada após a finalização dos procedimentos médicos impostos à parte recorrida, sob pena de configurar-se flagrante abusividade.
+2. Ademais, revela-se abusivo o cancelamento do plano de saúde enquanto o beneficiário encontra-se em tratamento médico ou internado, entendimento que deve ser privilegiado nesse momento, apesar da afetação do Tema 1.082/STJ, em face da falta de determinação para a suspensão nacional de processos e da urgência de se garantir a incolumidade da saúde do beneficiário.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.059.782/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/6/2022, DJe de 23/6/2022 - sem destaques no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. RESILIÇÃO UNILATERAL. USUÁRIO PORTADOR DE DOENÇA HEPÁTICA GRAVE. INTERRUPÇÃO DE TRATAMENTO. DESCABIMENTO. RISCO À SOBREVIVÊNCIA DO USUÁRIO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE SUPERIOR. MANUTENÇÃO DO TRATAMENTO ATÉ A ESTABILIZAÇÃO DA DOENÇA. DESNECESSIDADE DE REEXAME DE PROVAS. SUSPENSÃO DO RECURSO COM BASE NO TEMA 1082/STJ. DESCABIMENTO. AUSÊNCIA DE ORDEM DE SUSPENSÃO. CARÁTER CONTÍNUO DO TRATAMENTO. NECESSIDADE DE MANTUENÇÃO DA COBERTURA SEM LIMITE DE TEMPO. NOTIFICAÇÃO. QUESTÃO PREJUDICADA.
+1. Controvérsia pertinente à interrupção, em virtude de resilição do contrato de plano de saúde coletivo por iniciativa da operadora, de tratamento de alto custo prescrito a paciente hepático grave.
+2. Desnecessidade de suspensão do processo com base no Tema 1082/STJ, pois o referido Tema foi afetado sem ordem de suspensão.
+3. Cabimento da resilição unilateral dos contratos de plano de saúde coletivos por iniciativa da operadora após a vigência de 12 meses e mediante prévia notificação dos usuários com antecedência mínima de 60 dias.
+4. Necessidade, contudo, de manutenção da cobertura para usuários que estejam em tratamento médico garantidor da sobrevivência. Precedentes.
+5. Caso concreto em que o beneficiário do plano de saúde se encontrava em tratamento para a doença grave que lhe acomete, sendo descabida, portanto, a interrupção da cobertura, sob pena de risco à sobrevivência.
+6. Descabimento da limitação da cobertura ao prazo de um ano, devendo ser mantida a cobertura enquanto presente o risco à sobrevivência, em atenção à função social do contrato de plano de saúde.
+7. Desnecessidade de reexame de provas, uma vez que a controvérsia foi resolvida no plano jurídico, com base nos precedentes desta Corte Superior.
+8. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.836.334/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022 - sem destaques no original)
+CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL IMOTIVADA. LEGALIDADE EM TESE. PARTE BENEFICIÁRIA EM TRATAMENTO DE CÂNCER. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. VEDAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "O plano de saúde coletivo pode ser rescindido ou suspenso imotivadamente (independentemente da existência de fraude ou inadimplência), após a vigência do período de doze meses e mediante prévia notificação do usuário com antecedência mínima de sessenta dias (artigo 17 da Resolução Normativa ANS 195/2009). Nada obstante, no caso de usuário em estado de saúde grave, independentemente do regime de contratação do plano de saúde (coletivo ou individual), deve-se aguardar a conclusão do tratamento médico garantidor da sobrevivência e/ou incolumidade física para se pôr fim à avença" (AgInt no AREsp 1.433.637/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/5/2019, DJe 23/5/2019).
+2. Tal orientação foi confirmada pela Segunda Seção, em 22/6/2022, no julgamento dos Recursos Especiais n. 1.842.751/RS e 1.846.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, aprovando-se a seguinte tese: "A operadora, mesmo após o exercício regular do direito à rescisão unilateral de plano coletivo, deverá assegurar a continuidade dos cuidados assistenciais prescritos a usuário internado ou em pleno tratamento médico garantidor de sua sobrevivência ou de sua incolumidade física, até a efetiva alta, desde que o titular arque integralmente com a contraprestação devida" (Tema Repetitivo n. 1.082.)
+3. No caso, o Tribunal a quo reconheceu que a rescisão era indevida, por estar a parte beneficiária em tratamento de doença grave, no caso, neoplasia maligna (câncer). Nesse contexto, em sede de recurso especial, não há como reexaminar fatos e provas para alterar o entendimento da Corte de origem, ante o óbice da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.085.700/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022 - sem destaques no original)
+No caso, o TJSP foi claro ao consignar que, à época da resilição unilateral do contrato, a autora se encontra em franco tratamento para grave enfermidade (neoplasia de cólon transverso, atualmente com "necessidade de consultas periódicas e realização de exames frequentes")  e-STJ, fl. 403 .
+Sendo assim, o acórdão recorrido indene de reparos, pois está em consonância com o entendimento aqui consolidado, segundo o qual a operadora está obrigada à manutenção do plano de saúde vigente em favor do beneficiário até a efetiva alta do tratamento.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RESILIÇÃO UNILATERAL DO CONTRATO DURANTE TRATAMENTO MÉDICO. IMPOSSIBILIDADE. CONSONÂNCIA COM O ENTENDIMENTO DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
