@@ -1,0 +1,15 @@
+DECISÃO
+WILLIAN RAMOS DE CAMARGO alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça de origem.
+A defesa pede a esta Corte o reconhecimento da prescrição executória. Afirma que o reeducando era menor de 21 anos na data do crime e a contagem do prazo é regulada pela pena restante a cumprir na data da fuga. Adicionalmente, o impetrante argumenta que o condenado fugiu em abril de 2018 e praticou novo crime, em 15/4/2019, mas a regressão cautelar "não tem respaldo legal, posto que já se operou a prescrição para apuração da falta grave" (fl. 11).
+O MPF opinou pela denegação da ordem.
+Decido.
+O paciente foi condenado por roubo majorado (Apelação n. 210152-02.2011.8.09.0006). Pleiteou, na origem, a prescrição executória do saldo da pena a cumprir, de 3 anos, 5 meses e 21 dias. Pela regra dos arts. 109, VI, e 115, ambos do CP, diante da menoridade relativa, o prazo prescricional deve ser reduzido pela metade, e se opera em 4 anos. Não incide o aumento de 1/3, previsto no art. 110 do CP, pois a sentença não reconheceu a reincidência do réu.
+O impetrante explica que ocorreu a fuga do apenado, em abril de 2018. No dia 15/4/2019, ele praticou outros crimes
+Segundo o art. 117, VI, do CP, a reincidência é causa interruptiva da prescrição da pretensão executória. Verifica-se na data da prática do segundo delito, embora fique o seu reconhecimento condicionado à sentença transitada em julgado. No caso, o paciente foi definitivamente condenado pelos novos delitos.
+Ainda, o Juiz da VEC informa a esta Corte que a fuga (falta grave) perdurou até o dia 11/7/2024, data de cumprimento do mandado de prisão. Portanto, quando o apenado foi localizado já havia transcorrido, desde o último marco interruptivo (15/9/2019), o prazo de 4 anos e está caracterizada a prescrição executória.
+Ressalto que não se confundem os efeitos da reincidência anterior (quando a agravante é reconhecida na sentença), que provoca a majoração do prazo da prescrição executória em 1/3 (art. 110 do CP), e a reincidência posterior, prevista como causa interruptiva do lapso prescricional (art. 117, VI, do CP), a qual se verifica na data da prática do segundo delito.
+Isso ocorre porque a prescrição executória é analisada de forma separada, em relação a cada condenação. Quanto ao roubo majorado, o réu era primário e foi reconhecida a sua menoridade relativa. Assim, esses são os vetores que orientam a fixação do prazo prescricional, reduzido pela metade. A reincidência posterior não provoca, em relação à primeira condenação, o acréscimo de 1/3 (art. 110 do CP), mas apenas a interrupção do lapso prescricional.
+À vista do exposto, concedo o habeas corpus para reconhecer a prescrição executória alegada pela defesa e extinguir a punibilidade do paciente em relação à condenação por roubo qualificado (Apelação n. 10152-02.2011.8.09.0006, oriunda da Comarca de Anápolis).
+Fica prejudicada a análise da prescrição disciplinar, com o destaque de que a fuga configura falta grave de efeitos permanentes e sua prática se prolonga no tempo, até a data de recaptura.
+Publique-se e intimem-se.
+EMENTA
