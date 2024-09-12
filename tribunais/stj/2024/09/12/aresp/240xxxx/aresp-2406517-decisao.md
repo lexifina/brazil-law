@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial pelo qual INSTITUTO NACIONAL DO SEGURO SOCIAL se insurgira contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 112/116):
+Ad Argumentandum, suscita a parte exequente, que antes antes de consumada a prescrição quinquenal, em 01/11/2021, o SINDPREV/SC ajuizou a medida cautelar de protesto interruptivo nº 5033460-37.2021.4.04.7200/SC, interrompendo o prazo de prescrição da pretensão executória, que voltou a correr pela metade do prazo, com fundamento na Súmula 383/STF. Nessa linha, invoca a inocorrência da prescrição da pretensão executória.
+Todavia, não há que prevalecer o entendimento de aproveitamento do citado protesto coletivo ao presente cumprimento individual de sentença, a fim de interromper a prescrição executória.
+Senão vejamos.
+Conforme aduzido na indigitada impugnação, tratando-se de cumprimento de sentença lastreado em pronunciamento judicial transitado em julgado em 18/11/2016, a teor da certidão constante do evento 1, TIT_EXEC_JUD7, tendo o cumprimento sido somente promovido em 01/04/2022 (evento 15), inconteste que ultrapassado o prazo de prescrição de 5 (cinco) anos para a pretensão executória fixado pelo Superior Tribunal de Justiça, conforme a tese repetitiva ao Tema 877 no sentido de que:
+"O prazo prescricional para a execução individual é contado do trânsito em julgado da sentença coletiva, sendo desnecessária a providência de que trata o art. 94 da Lei n.8.078/90."
+Ademais, nos termos da Súmula 150 do STF, a prescrição que começa a correr após o trânsito em julgado do provimento condenatório não mais se qualifica como prescrição da ação, mas prescrição da execução, sendo de cinco anos o prazo para deflagrara execução contra a Fazenda Pública.
+Portanto, para o ajuizamento de execução individual com base em sentença coletiva, o termo a quo da prescrição é o trânsito em julgado desta.
+De outro giro, a teor do disposto no caput do artigo 204 do CCB, a interrupção da prescrição é ato pessoal (A interrupção da prescrição por um credor não aproveita aos outros; ..), deduzindo-se, então, que a ação de protesto genérica, que não especifica o titular do crédito e não identifica relação específica concreta não tem o condão de interromper o prazo da prescrição de cumprimento individual de sentença.
+ ..
+Diante do contexto retratado, conclui-se que: 1) de acordo com o artigo 204 do Código Civil, a interrupção da prescrição é ato pessoal, beneficiando apenas aquele que a promoveu, salvo as exceções constantes do parágrafo do artigo, e 2) o direito à satisfação de crédito assegurado por sentença coletiva é individual, patrimonial e disponível; tem-se que o ajuizamento, pelo Sindicato, de ação coletiva de cautelar de protesto judicial não tem o condão de interromper, para os substituídos na ação coletiva na qual o título judicial foi formado, o prazo prescricional, cabendo apenas a estes a propositura de cautelar de protesto visando à interrupção do prazo de que dispõem para o ajuizamento da execução individual.
+A parte adversa apresentou contrarrazões (fls. 124/139).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.033), e foi assim delimitada:
+"Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas." (REsp 1.801.615/SP e REsp 1.774.204/RS, relator Ministro Raul Araújo).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia , o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+EMENTA
