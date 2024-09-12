@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ELTON JOHN CAMPOS MACHADO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ proferido no julgamento do HC n. 0044561-70.2024.8.19.0000.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, como incurso nas sanções do art. 16, parágrafo único, IV, da Lei n. 10.826/03, à pena de 3 anos de reclusão e 10 dias-multa, em regime aberto, substituída a pena privativa de liberdade por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+Irresignada, a defesa impetrou habeas corpus originário, o qual não foi conhecido pelo TJRJ em acórdão acostado às fls. 32/37, assim ementado:
+"HABEAS CORPUS. SENTENÇA CONDENATÓRIA. PACIENTE CONDENADO A PENA DE 03 ANOS DE RECLUSÃO E 10 DIAS-MULTA, EM REGIME ABERTO, POR VIOLAÇÃO A NORMA DO ARTIGOS 16, PAR. ÚNICO, INC. IV, DA LEI Nº 10.826/06, SUBSTITUÍDA A PPL, POR 2 PRD. SUSTENTA O IMPETRANTE QUE O ARGUMENTO DE QUE FOI FRANQUEADA A ENTRADA NO IMÓVEL DO ACUSADO É DESCABIDO, TENDO SIDO REALIZADA A BUSCA DOMICILIAR NO IMÓVEL DO PACIENTE, SEM MANDADO JUDICIAL. ASSIM, PRETENDE A DEFESA SEJA DECLARADA A NULIDADE DA BUSCA DOMICILIAR, ABSOLVENDO O PACIENTE. O decisum desafia a interposição de recurso adequado. Sentença que poderá ser submetida ao segundo grau de jurisdição, mediante recurso de apelação. Imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional e, em louvor à lógica do sistema recursal. Inadequação da via eleita por violação ao sistema recursal. Pedido não conhecido. Por fim, registre-se que, foi interposto recurso de apelação. Recurso não conhecido."
+No presente writ, a defesa sustenta que a prova que embasou a condenação do paciente é ilícita, uma vez que obtida por meio de invasão de domicilio. Afirma que não haviam fundadas razões para a ação dos policiais militares.
+Aduz que "o consentimento de ingresso na residência em clima de medo e pressão, não pode ser considerada livre e espontânea, a menos que tivesse sido documentada em vídeo" (fl. 26).
+Requer, assim, em liminar e no mérito, concessão da ordem de habeas corpus para reconhecer a nulidade do flagrante em razão da violação de domicilio.
+É o relatório.
+Decido.
+O presente mandamus não merece processamento.
+De início, a  irresignação referente à ilicitude das provas obtidas em razão da alegada violação de domicílio do paciente não foi examinada pelo Tribunal a quo, que, inclusive, ressaltou que "o pleito formulado pelo impetrante, desafia a interposição de recurso próprio e não o remédio constitucional impetrado, que restringe o contraditório e a dilação probatória" (fl. 36).
+Nesse contexto, verifica-se que não houve manifestação do Colegiado de origem sobre as questões aqui deduzidas, de modo que esta Corte Superior está impedida de pronunciar-se sobre a matéria, sob pena de atuar em indevida supressão de instância.
+Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES. NULIDADE. BUSCA PESSOAL. INVASÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PRIVILÉGIO. PLEITO DE INCIDÊNCIA DE PATAMAR MAIS BENÉFICO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. ILEGALIDADE FLAGRANTE NÃO CONFIGURADA.
+I - Não se conhece de habeas corpus substitutivo de revisão criminal.
+II - Na hipótese de ilegalidade flagrante, concede-se a ordem de ofício. Precedentes.
+III - O pleito de reconhecimento da nulidade das provas obtidas em razão da ausência de justa causa para a revista pessoal, seguida da violação de domicílio, fora das hipóteses legais, não foi objeto de debate pela Corte de origem, o que obsta o conhecimento do pedido por este Tribunal, em razão da supressão de instância.
+IV - No presente caso, o Tribunal de origem - soberano na análise da matéria fática - concluiu, a partir de elementos concretamente extraídos dos autos, quais sejam, a quantidade de entorpecentes apreendidos, a apreensão de elevada quantia em dinheiro, bem como a utilização de entrega tipo delivery, dificultando a atuação policial, pela pela modulação da redutora do tráfico privilegiado no patamar de 1/6, entendimento que está em consonância com a jurisprudência desta Corte Superior.
+V - O rito do habeas corpus não admite o revolvimento de matéria fático-probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local.
+Agravo regimental desprovido.
+(AgRg no HC n. 865.591/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. INVASÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO APROFUNDADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A apontada ilicitude das provas existentes em desfavor do acusado - porque, segundo a defesa, haveriam sido obtidas por meio de violação de domicílio - não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+2. As instâncias ordinárias, depois de minuciosa análise das provas dos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelos crimes de tráfico de drogas e associação para o tráfico. No caso, para chegar a conclusão distinta, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via estreita do habeas corpus.
+3. A situação do corréu absolvido por esta Corte no AgRg no HC n. 852.949/CE era diversa, uma vez que ele, diferentemente do ora paciente, não foi apreendido com nenhuma substância entorpecente e sua condenação foi baseada apenas em testemunhos indiretos e supostas delações informais e confissão informal não comprovadas, o que permitiu excepcionalmente, em razão da manifesta ilegalidade, aferível de plano, a concessão da ordem para absolvê-lo.
+4. Agravo regimental não provido.
+(AgRg no HC n. 883.345/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
