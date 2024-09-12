@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por EBAZAR.COM.BR. LTDA. e MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA. contra a decisão da Presidência deste Superior Tribunal de Justiça (e-STJ fls. 901/902) que não conheceu do agravo em recurso especial devido à intempestividade.
+Nas presentes razões, as agravantes aduzem que
+"(..) em que pese os fundamentos expostos no r. despacho monocrático acima transcrito, quanto a ausência de comprovação de feriado local para demonstrar o requisito de admissibilidade recursal, em especial, tempestividade, é de notar-se que, no caso, se tratou de suspensão de expediente forense, em 12/02/2024, segunda-feira de Carnaval.
+As Agravantes, no ato de interposição do recurso inadmitido, demonstraram a ocorrência de suspensão do expediente forense no Tribunal de origem, nos dias 12 e 13 de fevereiro, conforme disposto no Provimento do Tribunal de Justiça n. 2728/2023, em destaque na minuta do agravo.
+Portanto, ao contrário do que consta na decisão ora agravada, não há como vislumbrar qualquer óbice ao seguimento do Agravo em Recurso Especial interposto, já que preenchidos todos os requisitos decorrentes do seu enquadramento.
+(..)" (e-STJ fls. 909/910).
+Impugnação às e-STJ fls. 926/942.
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de e-STJ fls. 901/902 e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL. Ação de obrigação de fazer c/c declaratória de inexigibilidade de débito e reparação de danos materiais e morais. Sentença de procedência. Inconformismo das rés. Não acolhimento. Preliminar suscitada nas contrarrazões. Ofensa ao princípio da dialeticidade. Inocorrência. Recurso que contém as razões pelas quais as apelantes postulam a reforma da r. sentença. Invasão e bloqueio da conta da autora na plataforma Mercado Livre e Mercado Pago, culminando na ocorrência de fraude. Incidência do CDC, adotada a teoria finalista mitigada, diante da vulnerabilidade técnica e econômica perante o fornecedor. Rés que não garantiram a segurança esperada na plataforma que gerenciam. Invasão da conta por terceiro fraudador. Conta bloqueada de forma preventiva pelas rés, mas com demora no desbloqueio sem qualquer justificativa. Falha na prestação dos serviços evidenciada. Danos materiais comprovados. Lucros cessantes devidos. Danos morais configurados. Litigância de má-fé requerida em contrarrazões. Não cabimento. Mera estratégia processual não acolhida que não implica em nenhuma das situações previstas no artigo 80 do CPC. Sentença mantida. RECURSO DESPROVIDO" (e-STJ fl. 799).
+No recurso especial, as recorrentes apontam, além de divergência jurisprudencial, violação dos artigos 402 do Código Civil e 509 a 512 do Código de Processo Civil, sustentando a imprescindibilidade de realizar perícia contábil por meio da liquidação de sentença para o auferimento da extensão dos lucros cessantes.
+Contrarrazões às e-STJ fls. 837/851.
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 509 a 512 do CPC, verifica-se que a tese acerca da imprescindibilidade de perícia contábil não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ademais, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar o art. 402 do CC como malferido, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos, incidindo, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+De toda sorte, para rever o entendimento firmado pelas instâncias ordinárias, de que os lucros cessantes restaram comprovados nos autos, demandaria a análise de fatos e de provas nos autos, o que é inviável no recurso especial ante o óbice da Súmula nº 7/STJ.
+Por fim, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática e a ausência de prequestionamento impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 901/902 e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 11% (onze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
