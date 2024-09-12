@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por High Tech Equipamentos Industriais Ltda. contra decisão de fls. 977/979, que homologou o pedido de desistência do mandado de segurança formulado às fls. 974/975, nos termos dos arts. 998 do CPC e 34, IX, do RISTJ.
+Sustenta a parte embargante erro material na decisão embargada, porquanto esta "não consignou que a homologação do pedido de desistência da ação mandamental leva à extinção do feito sem resolução de mérito, nos termos do art. 485, VIII, do CPC/2015 - conforme, inclusive, requerido expressamente no pedido de fl. e-STJ 974 (fl.984).
+Requer o acolhimento dos presentes embargos declaratórios, "a fim de que conste expressamente na decisão a extinção do feito sem resolução do mérito, nos termos do art. 485, VIII, do CPC/2015" (fl.984).
+Aberta a vista à parte embargada, decorreu in albis o prazo para resposta (fl.992).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Conforme dispõe o artigo 1.022 do CPC, os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. No caso, não se verifica a existência de quaisquer das referidas deficiências.
+Esclareça-se, por oportuno, que o erro material "é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito, como a troca de uma legislação por outra, a consideração de data inexistente no processo ou uma inexatidão numérica; e não aquele que decorre de juízo de valor ou de aplicação de uma norma jurídica sobre o(s) fato(s) do processo" (REsp n. 1.021.841/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 7/10/2008, DJe de 4/11/2008).
+Posto isso, no tocante à questão embargada, a saber, existência de erro material na decisão de fls. 977/979 que não fez constar, na parte dispositiva, a homologação do pedido de desistência do mandado de segurança formulado às fls. 974/975, nos termos do art. 485, VIII, do CPC, os aclaratórios comportam acolhimento.
+Assim, é de se acolher os presentes embargos em razão do erro material referido, tão-somente para fazer constar que, onde se lê, na parte dispositiva do decisum embargado, "ANTE O EXPOSTO, homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do mandado de segurança formulado às fls. 974/975, nos termos dos arts. 998 do CPC e 34, IX, do RISTJ", leia-se "ANTE O EXPOSTO, homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência do mandado de segurança formulado às fls. 974/975, nos termos do art. 485, VIII, do CPC".
+ANTE O EXPOSTO, acolho os embargos declaratórios, a fim de corrigir o erro material apontado, sem efeitos modificativos, nos termos da fundamentação.
+Publique-se.
+EMENTA
