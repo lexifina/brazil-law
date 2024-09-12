@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, com pedido liminar, impetrado em benefício de Josielson da Silva Santos - condenado à pena de 1 ano e 15 dias de detenção, pela prática do delito de resistência -, em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás (Apelação n. 5268857-67.2023.8.09.0011), comporta pronto acolhimento.
+Busca-se, em suma, a revisão da dosimetria da pena, arguindo-se que, afastadas duas vetoriais negativadas (personalidade e conduta social), o Tribunal a quo não reduziu a pena-base proporcionalmente, o que caracteriza reformatio in pejus, tendo em vista que houve recurso exclusivo da defesa; a fim de demonstrar a desproporcionalidade, aduz, ainda, que restaram apenas os maus antecedentes como circunstância judicial negativada, e a manutenção da pena tal qual fixada representa um acréscimo de cinco vezes a pena mínima prevista para o delito, o que afronta o entendimento desta Corte que orienta o recrudescimento da pena em 1/6 para cada vetorial negativada.
+É o relatório.
+De fato, é firme o entendimento desta Corte Superior na compreensão de que é imperiosa a redução proporcional da pena-base quando o Tribunal de origem, em recurso exclusivo da defesa, afastar uma circunstância judicial negativa do art. 59 do CP reconhecida no édito condenatório (EDv nos EREsp n. 1.826.799/RS, relator Ministro Ribeiro Dantas, relator para acórdão Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 8/9/2021, DJe de 8/10/2021) - (AgRg no AREsp n. 2.385.878/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/4/2024, DJe 29/4/2024).
+Na espécie, da atenta leitura dos autos, verifica-se que o Magistrado de primeiro grau, ao fixar a pena pelo delito de resistência, negativou as vetoriais referentes aos maus antecedentes, à personalidade e à conduta social do réu, fixando a pena-base em 1 ano e 29 dias de detenção, ou seja, em 4 meses e 9 dias para cada circunstância judicial. Assim, tendo o Tribunal a quo excluído as vetoriais referentes à personalidade e à conduta social, sobejando apenas os maus antecedentes, proporcionalmente, a pena-base deve ser fixada em 6 meses e 9 dias de detenção, tornando-se definitiva nesse patamar à mingua de outras causas modificadoras.
+Ante o exposto, concedo liminarmente a ordem para, redimensionando a pena do paciente, fixá-la em 6 meses e 9 dias de detenção, mantidos os demais termos da condenação.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. RESISTÊNCIA. DOSIMETRIA. EXCLUSÃO DE CIRCUNSTÂNCIAS JUDICIAIS PELO TRIBUNAL SEM REFLEXOS NO CÁLCULO DA REPRIMENDA. RECURSO EXCLUSIVO DA DEFESA. REFORMATIO IN PEJUS EVIDENCIADO. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE.
+Ordem concedida liminarmente.
