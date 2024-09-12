@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO VITOR DOS SANTOS JESUS contra decisão proferida no âmbito do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao recurso especial manejado pelo ora agravante, com fundamento no art. 1.030, inciso I, alínea b, do Código de Processo Civil, em relação à aplicação da orientação fixada no Tema n. 190/STJ, inadmitindo o recurso quanto às demais matérias (e-STJ fls. 351/353).
+No presente recurso, a defesa aponta que impugnou todos os fundamentos do acórdão recorrido, "pois alegou que houve nulidade da prova, violação ao sistema acusatório e lesão aos preceitos da dosimetria" (e-STJ fl. 359).
+Acrescenta que houve o prequestionamento das teses recursais, uma vez que "o MPSP e a defesa, em sede de alegações finais, requereram a desclassificação da conduta de tráfico de drogas para a conduta de porte de droga para uso pessoal" e "a r. sentença, no entanto, condenou o recorrente pelo crime de tráfico", "ou seja, tal decisão violou o sistema acusatório mencionado no recurso de apelação e fundamentado no REsp" (e-STJ fl. 359).
+Sustenta que, "no que concerne a violação de súmulas,  ..  estas foram utilizadas como interpretação argumentativa e não a tese central do recurso, como quer fazer crer a presidência do TJSP" (e-STJ fl. 359).
+Por fim, afirma que "inexiste o reexame de provas, conforme quer fazer crer a presidência do TJSP", pois "todos os fundamentos decorrem de fatos e estes não podem ser confundidos com a possibilidade de reanálise de provas, pura e simplesmente, pois deve, ao menos, analisar se é o caso" (e-STJ fl. 360).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ fls. 407/409).
+É o relatório.
+Decido.
+O agravo não reúne condições de admissibilidade.
+Colhe-se da decisão agravada que, quanto ao pedido de fixação da pena aquém do mínimo legal na segunda fase de dosimetria, foi negado seguimento ao recurso especial, com fundamento no art. 1.030, inciso I, alínea b, do Código de Processo Civil, em razão do entendimento do Superior Tribunal de Justiça consolidado no Tema n. 190 dos recursos repetitivos.
+No que tange às demais matérias, o recurso foi inadmitido em virtude do óbice das Súmulas n. 283/STF, 282/STF, 356/STF, 7/STJ e 518/STJ.
+Ocorre que configura erro não passível de aplicação do princípio da fungibilidade a interposição de agravo em recurso especial para impugnar todos os fundamentos da decisão híbrida que não admitiu o recurso especial, parte dela com amparo em tese firmada sob a sistemática dos recursos repetitivos e parte dela relativa aos pressupostos de admissibilidade recursais.
+Ilustrativamente:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, B, DO CÓDIGO DE PROCESSO CIVIL. CABIMENTO DE AGRAVO INTERNO NA ORIGEM. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. INAPLICABILIDADE DA FUNGIBILIDADE RECURSAL. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência deste Superior Tribunal, "O recurso cabível contra a decisão que nega seguimento ao recurso especial que esteja em conformidade com entendimento firmado sob o rito dos repetitivos é o agravo interno (o recurso que foi efetivamente interposto pela parte e posteriormente encaminhado a esta Corte), e também o agravo em recurso especial para impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais (desiderato do qual não se desincumbiu a defesa)" (AgRg no AREsp n. 2.428.773/PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 10/10/2023, DJe de 18/10/2023).
+2 . Agravo regimental improvido.
+(AgRg no AREsp n. 2.516.106/CE, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT , Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024, grifei.)
+No caso sob apreciação, embora a parte também tenha interposto agravo regimental contra a decisão de inadmissibilidade, a defesa tornou a suscitar a matéria relativa à dosimetria da pena no presente agravo e m recurso especial.
+Ademais, o efetivo afastamento do óbice da Súmula n. 7/STJ demanda o cotejo entre as razões de decidir do acórdão hostilizado e as teses levantadas no recurso especial, sendo insuficiente a mera menção genérica à desnecessidade de reexame de fatos e provas, tal como realizado no caso sob apreciação.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 121, CAPUT, C/C O ART. 14, II, DO CP. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA E ADEQUADA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO MONOCRÁTICA.
+1 - A ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+2 - Na hipótese, a parte agravante deixou de infirmar, como ressaltado na decisão monocrática reprochada, de maneira adequada e suficiente, as razões apresentadas pelo egrégio Tribunal de origem para negar trânsito ao recurso especial.
+3 - É entendimento pacificado no âmbito desta egrégia Corte Superior que "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe de 18/11/2016).
+4 - Agravo regimental desprovido.
+(AgRg no AREsp n. 2.185.929/MA, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023.)
+PROCE SSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impugnação específica, pormenorizada e concreta de todos os fundamentos da decisão de inadmissibilidade do recurso especial é requisito para o conhecimento do agravo. Apresenta-se insuficiente, pois, a mera alegação de não incidência de óbice apontado pela decisão agravada.
+2. No caso em tela, o agravo em recurso especial não impugnou especificamente o fundamento de inadmissibilidade consistente no óbice da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016).
+4. Ademais, "a infirmação dos fundamentos da decisão que inadmite o processamento de recurso especial deve dar-se em agravo, sob pena de preclusão consumativa, sendo incabível a impugnação somente nas razões de agravo interno" (AgInt nos EDcl no AREsp n. 2.086.418/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.237.512/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/5/2023, DJe de 26/5/2023.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
