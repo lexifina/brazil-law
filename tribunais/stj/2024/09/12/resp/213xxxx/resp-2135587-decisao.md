@@ -1,0 +1,23 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Embargos de Declaração, assim ementado (fl. 2.692e):
+Processual Civil. Retorno dos autos de ação civil pública por improbidade administrativa, em face de decisão do Superior Tribunal de Justiça, no RE 1.904.079-PB, que, ao converter agravo em Recurso Especial, para apreciação de três omissões no julgamento procedido, quando deu provimento aos recursos dos demandados, para julgar improcedente a presente ação civil pública de improbidade administrativa.
+Opostos embargos de declaração, foram rejeitados (fls. 2.765/2.768e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao 12, II, da Lei n. 8.429/1992, alegando-se, em síntese, a inadequação da sanção imposta, porquanto " ..  não houve excesso sancionatório, pois o fato foi extremamente grave, de modo que há necessidade de se restaurar as sanções aplicadas originariamente no primeiro grau de jurisdição" (fl. 2.783e).
+Com contrarrazões (fls. 2.800/2.806e), o recurso foi admitido (fl. 2.823e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 2.843/2.851e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De pronto, verifico que a insurgência objeto do presente recurso - qual seja, a adequação da dosimetria da pena, ante à considerada gravidade das condutas imputadas aos Acusados -, carece de prequestionamento, porquanto não foi analisada no acórdão recorrido.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 12, II, da Lei n. 8.429/1992, da forma trazida pelo Recorrente em suas razões recursais (é dizer, sob a perspectiva de razoabilidade das sanções impostas).
+Desse modo, não ten do sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"), como espelha o julgado assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+ ..
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+ ..
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
