@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de agravo interposto por LARISSA DALETE DA SILVA TROIANO (ou LARIÇA DALETE DA SILVA) contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 651):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - IMÓVEL PENHORADO DE TITULARIDADE DE TERCEIRO DE BOA-FÉ - PRETENSÃO À CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA - IMPOSSIBILIDADE - EXECUTADA, QUE NÃO FEZ PARTE DA DEMANDA, QUEM DEU CAUSA AOS EMBARGOS DE TERCEIRO - CUSTAS DO PROCESSO COM NATUREZA JURÍDICA DE TRIBUTO - IMPOSSIBILIDADE DE ISENÇÃO QUANTO AO PAGAMENTO - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 692-696 e 703-707).
+Nas razões do recurso especial, a recorrente alegou a ofensa aos arts. 489,§1º, inciso VI, e 1.022, inciso I, ambos do Código de Processo Civil de 2015, sustentando, em síntese, omissão no acórdão recorrido quanto à inaplicabilidade do Tema n. 872 do STJ e da Súmula n. 303 do STJ.
+Afirmou a violação ao art. 85, caput e §2º, do CPC/2015, preconizando a viabilidade da condenação do agravado em honorários advocatícios sucumbenciais, por ter dado causa à penhora, haja vista a sua inércia com relação ao registro da propriedade.
+Aduziu, ainda, que não ofereceu resistência ao pedido de desconstituição da penhora; que há dissídio jurisprudencial quanto ao caso vertente; bem como que deve ser afastada a multa fixada em virtude da oposição de embargos de declaração tidos por protelatórios.
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+A agravante impugna os fundamentos da decisão denegatória do recurso especial (e-STJ, fls. 726-735).
+Contraminuta apresentada (e-STJ, fls. 740-750).
+Brevemente relatado, decido.
+De início, consoante análise dos autos, verifica-se que a alegação de violação aos arts. 489,§1º, inciso VI, e 1.022, inciso I, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal de Justiça do Estado de São Paulo foi claro ao concluir, em suma, pela inaplicabilidade do Tema n. 872 do Superior Tribunal de Justiça, haja vista que "quem deu causa à constrição foi a parte executada, a qual não é parte nos embargos de terceiro", veja-se (e-STJ, fl. 652 e 694-695; sem grifo no original):
+Extrai-se dos autos que o imóvel localizado na Rua José de Mossamedes, 724, bloco 06F, apartamento 02, Guaianases, no Conjunto Residencial São Marcos, na cidade de São Paulo foi vendido ao embargante na data de 07 de dezembro de 2018,conforme documento de fls. 21/29.
+Entretanto, em execução decorrente de ação ajuizada pela embargada em face da Cooperativa Habitacional do Estado de São Paulo, ocorreu a penhora do imóvel, uma vez que a Cooperativa deixou de levar a registro a venda do bem a terceiro de boa-fé.
+Ora, não se pode atribuir a sucumbência da demanda a nenhuma das partes, porque, como bem asseverou a r. sentença combatida, a penhora e a consequente necessidade dos embargos se deu por culpa da executada, que não faz parte da presente demanda. (e-STJ, fl. 652)
+Apenas para não deixar sem resposta o argumento da embargante, não é caso de aplicação do posicionamento explicitado no julgamento do Tema 872, do Superior Tribunal de Justiça, ao caso em questão, tendo em vista que quem deu causa à constrição foi a parte executada, a qual não é parte nos embargos de terceiro, sendo que não se mostra razoável, pelos motivos já explicitados no acórdão, a atribuição da sucumbência a nenhuma das partes. (e-STJ, fls. 694-695)
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da agravante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+ ..
+3. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+4. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.781.868/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Por conseguinte, destaca-se que o acórdão recorrido, ao concluir que "não se pode atribuir a sucumbência da demanda a nenhuma das partes, porque, como bem asseverou a r. sentença combatida, a penhora e a consequente necessidade dos embargos se deu por culpa da executada, que não faz parte da presente demanda" (e-STJ, fl. 652), está em consonância com o entendimento desta Corte Superior, veja-se (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE REGISTRO. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. HONORÁRIOS ADVOCATÍCIOS. RESPONSABILIDADE DA EMBARGANTE. AGRAVO DESPROVIDO.
+1. Analisando a sucumbência à luz do princípio da causalidade, esta Corte de Justiça pacificou entendimento de que, nos embargos de terceiro, os honorários advocatícios sucumbenciais devem ser de responsabilidade daquele que deu causa à constrição indevida, nos termos da Súmula 303/STJ.
+2. Assim, constatada a desídia do adquirente-embargante em fazer o registro do contrato de compra e venda no Cartório de Imóveis, o que possibilitou o registro premonitório em relação à execução ajuizada dois anos após a celebração do aludido negócio jurídico, deve ser afastada a condenação do exequente-embargado ao pagamento dos ônus de sucumbência, que aquiesceu com a baixa do gravame.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.528.886/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/6/2024, DJe de 27/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. SÚMULA N.º 303 DO STJ. INAPLICABILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Súmula n.º 303 do STJ dispõe que os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição.
+3. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.024.387/MT, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+Nessa esteira, vislumbra-se que não merece reparo o acórdão recorrido, sendo de rigor a incidência da Súmula n. 83 do STJ.
+Ademais, percebe-se que a irresignação da agravante não merece prosperar, haja vista que rever a conclusão do acórdão recorrido quanto ao fato de que "quem deu causa à constrição foi a parte executada, a qual não é parte nos embargos de terceiro", ensejaria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito, guardadas as particularidades do caso (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DIREITO PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS. EMBARGOS DE TERCEIRO. PRINCÍPIO DA CAUSALIDADE. SÚMULA 303 DO STJ. OBJETO MAIOR DA DEMANDA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, o princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente. Precedentes.
+2. De acordo com entendimento cristalizado na Súmula 303/STJ, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+3. No caso, o Tribunal de origem, atento ao princípio da causalidade e com base nas provas produzidas nos autos, considerou que a ora agravante deu causa aos embargos de terceiros.
+4. Rever essa conclusão demandaria reexame de provas e fatos dos autos, o que é vedado nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.167.954/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+Por fim, no tocante à multa fixada em virtude da oposição de embargos de declaração tidos por protelatórios, convém salientar que não foram elencados, de forma objetiva, direta e clara, os dispositivos de lei federal tidos por violados ou objetos de divergência jurisprudencial a fim de viabilizar o conhecimento, por esta Corte Superior, da insurgência a respeito da referida tese.
+O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+Ilustrativamente (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVOS CONSTITUCIONAIS. EXAME. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. ADVOGADO. CARGA DOS AUTOS. ATOS PROCESSUAIS. CIÊNCIA INEQUÍVOCA PRECLUSÃO. NULIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. JUROS. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar nesta seara a violação de dispositivos constitucionais ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+3. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. A carga dos autos pelo advogado da parte enseja a ciência inequívoca do ato processual. Precedentes.
+5. Eventual nulidade decorrente da falta de intimação deve ser arguida na primeira oportunidade em que o patrono da parte teve para se pronunciar nos autos, o que não se verifica na presente hipótese.
+6. Alterar o entendimento firmado pelas instâncias ordinárias acerca da ausência de nulidade por ausência de intimação para apresentação de contrarrazões, ante a falta de alegação oportuna, demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial devido ao óbice da Súmula nº 7/STJ.
+7. A jurisprudência desta Corte firmou o entendimento de que, em se tratando de indenização por danos morais decorrentes de responsabilidade contratual, os juros moratórios fluem a partir da citação.
+8. A deficiência na fundamentação recursal restou evidenciada, pois as razões do recurso especial não indicaram especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido, o que atrai a incidência da Súmula nº 284/STF.
+9. A divergência jurisprudencial, com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+10. Não há como aferir eventual dissídio jurisprudencial sem que tenham os acórdãos recorrido e paradigma examinado o tema com enfoque na mesma legislação infraconstitucional.
+11. Agravo interno não provido.
+(AgInt no AgInt no AgInt no AREsp n. 1.731.772/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Nessas condições, constata-se a deficiência da argumentação recursal, o que justifica a incidência da Súmula n. 284/STF neste ponto.
+Assim, melhor sorte não socorre à agravante.
+Ante o expost o, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. IMÓVEL PENHORADO DE TITULARIDADE DE TERCEIRO DE BOA-FÉ. HONORÁRIOS DE SUCUMBÊNCIA POR PARTE DA EXECUTADA QUE DEU CAUSA AOS EMBARGOS DE TERCEIRO. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MULTA FIXADA EM RAZÃO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO TIDOS POR PROTELATÓRIOS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO OU OBJETO DE DIVERGÊNCIA JURISPRUDENCIAL. DEFICIÊNCIA RECURSAL. INCIDÊNCIA DA SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
