@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por DILSON JORGE DE LARA E HELLAINE PAULUS DE LARA (DILSON e outra) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação ao fundamento da decisão de inadmissibilidade, qual seja, a incidência da Súmula n. 7 do STJ.
+Nas razões do presente inconformismo, defenderam que houve impugnação especifica de tal óbice.
+Não foi apresentada impugnação).
+É o relatório.
+Decido.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas, RECONSIDERO a decisão de, e-STJ, fls. 176/177 para CONHECER do agravo em recurso especial e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, DILSON e outra alegaram a violação do art. 537, 1º, I, do NCPC, ao sustentar, em síntese, que o montante fixado a título de astreintes (R$ 100.000,00 - cem mil reais) não se mostra suficiente, considerando a recalcitrância no cumprimento da decisão, devendo ser mantido o valor originalmente fixado, que atingiu o total de R$ 1.355.710,40 (um milhão, trezentos e cinquenta e cinco mil, setecentos e dez reais e quarenta centavos).
+Suscitou dissídio jurisprudencial para defender sua tese.
+Das astreintes
+O Tribunal estadual negou provimento ao agravo de instrumentos nos seguintes termos:
+Cinge-se a controvérsia recursal em aferir se existem razões para reformar a decisão que reduziu a astreintes ao patamar de R$ 100.000,00 (cem mil reais).
+Como sabido, a multa cominatória (astreinte), de natureza processual coercitiva, tem como finalidade estimular o devedor a cumprir, em prazo razoável, a obrigação de fazer ou de não fazer estabelecida por decisão interlocutória ou, ainda, por sentença.
+(..).
+No caso dos autos, observa-se que a multa diária foi fixada pela decisão de seq. 111.1 dos autos de Rescisão de Contrato e Indenização Por Danos Materiais e Morais nº 0012816-05.2014.8.16.0001, na monta de R$ 300,00 (trezentos reais) por dia de descumprimento.
+Isso porque, anteriormente, fora deferida a liminar para suspender a exigibilidade da parcela indicada na cláusula contratual, e determinar à parte ora Agravada que devolvesse a importância de R$ 68.238,09 (sessenta e oito mil, duzentos e trinta e oito reais e oito centavos), cujo valor restou reduzido por essa e. Corte para o montante de R$63.594,43 (sessenta e três mil, quinhentos e noventa e quatro reais e quarenta e três centavos).
+Diante disso, tendo em vista que a multa atingiu a importância de R$ 1.355.710,40 (um milhão, trezentos e cinquenta e cinco mil, setecentos e dez reais e quarenta centavos), mostra-se escorreita a r. decisão agravada.
+O d. Juízo a quo bem estabeleceu não ser possível a redução do valor das astreintes tão somente por superar o valor principal, sob pena de privilegiar o inadimplemento da decisão judicial. Em realidade, deve-se ter em conta as circunstâncias do caso concreto, de modo que o atraso no cumprimento da obrigação não seja mais vantajoso ao demandante e que a multa não configure penalidade excessiva ao demandado, sob pena de enriquecimento sem causa.
+(..).
+Veja-se que o montante de R$ 1.355.710,40 (um milhão, trezentos e cinquenta e cinco mil, setecentos e dez reais e quarenta centavos) é 20 (vinte) vezes superior ao valor da obrigação estabelecida em sentença, de devolução pelos Executados da quantia de R$ 63.594,43 (sessenta e três mil, quinhentos e noventa e quatro reais e quarenta e três centavos), o que não se mostra razoável ou proporcional às circunstâncias do caso concreto.
+(..).
+Desse modo, as astreintes fixadas no valor de R$ 100.000,00 (cem mil reais) são suficientes à reprovabilidade da recalcitrância e não privilegiam a conduta da parte Agravada, bem como não configuram enriquecimento sem causa dos Agravantes, razão pela qual mantenho incólume a decisão agravada, em seus exatos termos (e-STJ, fls. 55/58).
+A jurisprudência firmou-se no sentido de que a revisão das astreintes fixadas na instância ordinária, esbarra na vedação da Súmula n. 7 desta Corte, permitida apenas nos casos em que o valor é irrisório ou exagerado, o que não ocorre na espécie.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. COMPRA E VENDA DE SALA COMERCIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DANO MORAL CONFIGURADO. MULTA COMINATÓRIA FIXADA EM PATAMAR RAZOÁVEL PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE EXCESSIVIDADE. REEXAME DE ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior está consolidada no sentido de não haver prestação jurisdicional deficiente por ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal local dirimiu, fundamentadamente, as questões suscitadas, ainda que de forma diversa à pretendida pela parte.
+2. Na hipótese dos autos, a Corte de origem reconheceu a existência de dano moral indenizável. Alterar esse entendimento demandaria o revolvimento do acervo fático-probatório, o que é inviável em recurso especial.
+3. A alteração da conclusão adotada pelo Tribunal estadual, quanto ao valor das astreintes, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7 deste Tribunal Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.098.250/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/11/2022, DJe de 18/11/2022 - sem destaque no original)
+AGRAVO IN TERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CASO DE URGÊNCIA/EMERGÊNCIA. RECUSA. NÃO CUMPRIMENTO DO PRAZO DE CARÊNCIA PARA ATENDIMENTO EMERGENCIAL. 24 HORAS. LIMITAÇÃO DA INTERNAÇÃO POR 12 HORAS. CARÁTER ABUSIVO. SÚMULAS N. 302 E 597 DO STJ. NEGATIVA INDEVIDA. OBRIGATORIEDADE DE ATENDIMENTO. DANO MORAL. CONFIGURAÇÃO. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. REVISÃO. NÃO CABIMENTO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. ASTREINTES. IMPOSIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VALOR. RAZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. ARTS. 412 E 413 DO CC. MERA INDICA ÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não é abusiva a cláusula contratual que prevê prazo de carência para os serviços prestados pelo plano de saúde. No entanto, configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora.
+2. É abusiva a cláusula contratual que, em casos de urgência ou emergência, limita o período de internação ao período de 12 horas ou prevê carência para utilização dos serviços de assistência médica após ultrapassado o prazo máximo de 24 horas da contratação, conforme disposto nas Súmulas n. 302 e 597 do STJ.
+3. Havendo, em razão do período de carência estipulado no contrato, a indevida recusa de atendimento pela operadora do plano de saúde em caso de urgência ou emergência, é cabível a indenização por danos morais.
+4. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo cabimento da multa cominatória por ausência de demonstração do cumprimento integral de obrigação, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+5. A questão relativa à redução/aumento das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+6. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.858.967/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/4/2023, DJe de 19/4/2023 - sem destaque no original)
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo em recurso especial para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente in admissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. RECONSIDERAÇÃO. RECURSO ESPECIAL. REVISÃO DAS ASTREINTES. IMPOSSIBILIDADE. REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVA ANÁLISE, CONHECER DO AGRAVO EM RECURSO ESPECIAL PARA NÃO CONHECER DO RECURSO ESPECIAL.
