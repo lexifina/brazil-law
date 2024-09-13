@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por H MOMESSO COMERCIO DE MOTORES E MAQUINAS ELETRICAS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS DECLARATÓRIOS. Alegação de contradição (sucumbência da ré na parte mínima do pedido). Existência de erro material na ementa que fica corrigido para refletir o dispositivo do acórdão embargado e aclaramento sobre a base de cálculo dos honorários. Embargos declaratórios providos parcialmente.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 86, parágrafo único, do CPC, no que concerne à inexistência de sucumbência recíproca no caso dos autos, porquanto a parte recorrente/autora sucumbiu em parte mínima do pedido e, portanto, a parte recorrida deve arcar exclusivamente com os ônus da sucumbência, trazendo a seguinte argumentação:
+Interposto apelação os autos subiram ao Eg.TJSP e de forma brilhante foi proferido v. acórdão, em votação unânime, dando provimento ao recurso e dizendo que neste caso a Autora havia decaído de parte mínima do pedido (SUCUMBÊNCIA MÍNIMA), e deveria aplicar o disposto no parágrafo único, do art. 86 do CPC/15, impondo a Ré integralmente o ônus dá sucumbência
+ ..
+Contudo, a parte devedora/Recorrida apresentou Embargos de Declaração e de forma totalmente estranha o v. acórdão foi reformado (o que não é permitido, além do que houve afronta ao Princípio da Proibição da Reformato In Pejus, tendo em vista que apenas a Autora havia recorrido da sucumbência), dizendo agora que houve sucumbência recíproca e estava condenando as partes ao pagamento das custas e despesas processuais na proporção de 50% (cinquenta por cento) cada e que a Autora pagará honorários advocatícios ao patrono da Ré no percentual de 10% (dez por cento) do seu proveito econômico (R$ 22.461,95) e que a Ré pagará honorários advocatícios ao patrono da Autora no percentual de 10% (dez por cento) sobre o valor atualizado da condenação (R$ 60.374,77).
+ ..
+Quando há formulação de único pedido, o qual é aceito ainda que em valor um pouco menor, não implica sucumbência recíproca das partes, mas está a indicar a sucumbência mínima da parte autora, pois saiu vencedora, mas em proporção inferior ao pedido originalmente formulado.
+ ..
+Portanto, houve violação ao artigo 86, § único, do Código de Processo Civil, assim requer o provimento do Recurso Especial para o fim de restabelecer o v. acórdão inicial e determinar que a Ré, ora Recorrida, deva arcar exclusivamente com o pagamento das custas, despesas processuais e verba honorária sucumbencial.(fls. 291/298).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Essa redação praticamente repete ao contido na r. sentença de primeiro grau. Contudo, de fato, a condenação deve ter a "base de cálculo" proporcional ao decaimento da respectiva parte. Ou seja, a base de cálculo dos honorários devidos ao advogado do autor é o valor da condenação que obteve; enquanto a base de cálculo dos honorários devidos ao advogado do réu é o valor do proveito econômico obtido (diferença entre o valor pedido pelo autor e o obtido pela sentença) (fl. 281).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 25.6.2020.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.848.602/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28.8.2020; AgInt no AREsp 1.571.133/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 7.5.2020; AgInt no REsp 1.336.000/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14.2.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
