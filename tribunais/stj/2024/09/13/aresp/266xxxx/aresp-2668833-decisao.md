@@ -1,0 +1,10 @@
+DECISÃO
+Em análise dos autos, uma das controvérsias devolvidas ao conhecimento desta Corte Superior mediante o agravo em recurso especial em epígrafe foi reconhecida como repercussão geral, pelo STF, no Tema 1198 (ARE 1.357.421/SP), cuja questão submetida a julgamento é:
+Constitucionalidade da cobrança do Imposto sobre a Propriedade de Veículos Automotores (IPVA) por Estado diverso da sede de empresa locadora de veículos, quando esta possuir filial em outro estado, onde igualmente exerce atividades comerciais (distinção do Tema 708, RE 1.016.605).
+Nesse contexto, os recursos que tratam da mesma controvérsia neste STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos art. 1.039, 1.040 e 1.041 do CPC/2015.
+Em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema de repercussão geral ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§9º e 10, inciso IV, do CPC/2015, sendo que não será conhecido o eventual agravo interno ou pedido de reconsideração a pretender o julgamento deste recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015 ).
+Intimem-se.
+ EMENTA
