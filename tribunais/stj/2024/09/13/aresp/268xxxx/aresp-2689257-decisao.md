@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MOVISTAR COMÉRCIO DE MATERIAL DE CONSTRUÇÃO LTDA, DESTRO PARTICIPAÇÕES S/A, JOÃO DESTRO E MARIA DELAI DESTRO (MOVISTAR e outros) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, alegaram (1) violação do art. 374 do CPC sustentando que não ficou comprovada a violação ao direito autoral; e, (2) afronta ao art. 397, parágrafo único, do CPC aduzindo que não há requisitos para o pedido de cobrança em razão de não haver prova da execução indevida de obras musicais.
+Em relação a alegada violação do art. 374 do CPC, no que concerne a violação de direito autoral e afronta ao art. 397, parágrafo único, do CPC, quanto aos requisitos para o pedido de cobrança em razão de não haver prova da execução indevida de obras musicais, o Tribunal local, com amparo no acervo fático-probatório dos autos, julgou nos seguintes termos:
+Primeiro, vejo válido esclarecimento de que a demanda se constitui em ação de conhecimento, cujo conteúdo pretende, a partir da interpretação dos pedidos deduzidos, o reconhecimento da execução de obras musicais sem as devidas autorização e contraprestação, e a consequente cobrança relativa aos direitos autorais violados.
+Assim, existindo suficiente demonstração da violação a direitos autorais, e sendo incontroversa a ausência prévia de autorização de uso e de contraprestação (porque não negada pelos Réus desde a contestação), não se mostra imprescindível a formalização de termo de verificação. Em sentido similar:
+ ..
+Em um segundo momento, é importante registrar que os Réus apelantes foram devidamente notificados (fato igualmente incontroverso), com expressa indicação da necessidade da autorização prévia para a execução de obras musicais no seu estabelecimento comercial, quando, então já notificados, se limitaram em apenas indagar o dia em que realizada a verificação, porém sem negar o fato. Assim, ao menos tacitamente, os Réus não negaram a prática habitual da reprodução de obras fonográficas no interior do seu respectivo estabelecimento comercial.
+Outrossim, não há qualquer teratologia na decisão recorrida ou nulidade no vídeo acostado aos autos, que também confirma a execução de obras musicais no estabelecimento comercial, porque, conforme preceitua o art. 374, I, do CPC, não dependem de prova os fatos notórios e, ainda, também conforme dispõe o art. 375, do mesmo diploma legal, o juiz "aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece". Assim, e com efeito, se a sentença recorrida indicou que o próprio magistrado singular reconhecia que o vídeo acostado na exordial foi filmado no estabelecimento comercial dos Réus, não há como se falar na ausência, ao menos, de suficientes indícios da utilização de obras musicais sem qualquer contraprestação, em nítida ofensa ao art. 68, da L. 9.610/98, que assim prevê:
+ ..
+No mais, em analogia ao entendimento firmado no recurso repetitivo nr. REsp 1873611-SP, para além das já supracitadas evidências da utilização de obras fonográficas sem autorização, e sendo também inconteste a existência na respectiva loja de equipamentos de som, local visto como de frequência coletiva, nos mesmos moldes do §3º do art. 68, da L. 9.610/98, vejo que plenamente possível a cobrança de direitos autorais pelo ECAD:
+ ..
+No mais, e do que se extrai do precedente supracitado, em reiteração ao disposto na Lei 9.610/98 (conforme redação do seu art. 30, §2º), cabe a quem reproduz obras fonográficas a responsabilidade de manter os registros das que executou, e nada neste sentido os Réus apresentaram como contrapartida à demonstração da utilização habitual feita pelo Autor, circunstância que afasta a alegação de que abusivos os valores apresentados como devidos na exordial, à exceção daqueles albergados pela prescrição, por óbvio (e-STJ, fls. 681/685 - sem destaques no original).
+Desse modo, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. DIREITO AUTORAL. REPRODUÇÃO DE FOTOGRAFIA SEM EXPRESSA AUTORIZAÇÃO E OUTORGA DO CRÉDITO. DANOS MORAIS E MATERIAIS. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. QUANTUM INDENIZATÓRIO. REEXAME. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A utilização de obra fotográfica sem a devida permissão e outorga do respectivo crédito configura ato ilícito.
+2. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. A revisão pelo STJ de indenização arbitrada a título de danos morais e materiais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.476.319/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 22/4/2024, DJe de 24/4/2024.)
+RECURSOS ESPECIAIS. PROCESSO CIVIL. DIREITO DE AUTOR. OBRA MUSICAL. USO INDEVIDO. AUTORIZAÇÃO PRÉVIA E EXPRESSA. INEXISTÊNCIA. FONOGRAMA. TRECHO DA OBRA. NOME DE PROGRAMA TELEVISIVO. DANOS PATRIMONIAIS. CARACTERIZAÇÃO.
+1. Recursos especiais interpostos contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir se a utilização de trecho de obra musical como nome de programa televisivo, sem a autorização prévia e expressa do titular do direito, enseja a reparação por ofensa a direitos patrimoniais do autor.
+3. O Superior Tribunal de Justiça entende não violar o art. 535 do CPC/1973 nem importar negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+4. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a utilização da obra literária, artística ou científica depende de autorização expressa e prévia do autor (art. 29 da Lei nº 9.610/1998). Precedentes.
+5. Na hipótese, a conduta da emissora ré configurou desrespeito à decisão judicial, devendo ser mantida a aplicação da multa prevista no art. 14 do CPC/1973.
+6. A alteração das conclusões adotadas pelo Tribunal local demandaria, necessariamente, o reexame do acervo fático-probatório, sobretudo no que tange aos convênios, e-mails e vídeos nos quais constam episódios do programa, procedimento inadmissível em virtude do óbice da Súmula nº 7/STJ.
+7. Os direitos de conteúdo patrimonial do autor estão relacionados ao aproveito econômico que poderá ser obtido com a exploração comercial da obra. Há configuração de ato ilícito quando sua utilização não observa o disposto no art. 29 da LDA.
+8. A citação de pequenos trechos de obras preexistentes não constituirá ofensa aos direitos autorais desde que não tenha caráter de completude nem prejudique a sua exploração, pelo titular do direito, da obra reproduzida (art. 46, VIII, da LDA). Precedentes.
+9. No caso, a escolha do trecho de maior sucesso da obra musical como título de programa televisivo e seu uso em conjunto com o fonograma, gerou uma associação inadequada do autor da obra musical com a emissora, que utilizou o sucesso da música como título em sua programação semanal também como forma de atrair audiência.
+10. Na espécie, a utilização da expressão "Se ela dança, eu danço", na espécie, configura ofensa ao direito do autor e não um mero uso acessório de trecho de obra musical, não estando acobertada pelo art. 46, VIII, da LDA.
+11. Recurso especial interposto por TVSBT - CANAL 4 DE SÃO PAULO S.A. não provido.
+12. Recurso especial interposto por LEONARDO FREITAS MANGELI DE BRITO parcialmente provido.
+(REsp n. 1.704.189/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/10/2020, DJe de 19/10/2020.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios, anteriormente fixados, em desfavor do MOVISTAR e outros, proporcionalmente, em 5% sobre o valor da condenação, limitados a 20%, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DIREITOS AUTORAIS. EXECUÇÃO DE OBRAS FONOGRÁFICAS SEM PRÉVIA AUTORIZAÇÃO. ÔNUS PROBATÓRIO. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
