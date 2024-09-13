@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VÂNIA MARIA CELEDÔNIO DE OLIVEIRA (VÂNIA) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 500/509).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a, da CF, VÂNIA alegou a violação dos arts. 489, §1º, III, IV, VI, 502, 508 e 1.022 do NCPC, aduzindo que (1) o acórdão recorrido foi omisso quanto à ausência de coisa julgada e à existência de interesse de agir; e (2) não há que se falar em coisa julgada, na medida em que a presente ação declaratória busca o afastamento de juros ilegais, mantendo-se o título, ao passo que nos embargos à execução foi discutida a inexequibilidade do título por ter se originado de agiotagem (e-STJ, fls. 450/466).
+(1) Da violação dos arts. 489 e 1.022 do NCPC; e (2) da coisa julgada
+O Tribunal estadual pronunciou-se sobre o tema, asseverando que houve coisa julgada, haja vista o pedido ter sido julgado improcedente nos embargos à execução, confira-se:
+Sem razão a embargante, uma vez que a sentença proferida nos autos da ação de embargos à execução, cujos autos, por sinal, não está disponibilizado no sistema digital, confirma ter operado a coisa julgada sobre a matéria que se pretende reabrir discussão nestes autos.
+Infere-se da contestação de mov. 32, que na inicial dos embargos à execução a embargante pretendeu a nulidade da execução sob o argumento de que na nota promissória exequenda não constava o motivo de ser da dívida (causa debendi), nada aventando sobre a cobrança excessiva de juros.
+A pretensão foi julgada improcedente, transitando em julgado a sentença em seus exatos termos, vejam:
+"(..) Faz-se desnecessária a demonstração da causa de emissão do título de crédito, cabendo ao réu o ônus da prova da inexistência do débito.
+As embargantes afirmaram que a dívida teria sido originada por um empréstimo em dinheiro, porém não rechaçaram, sequer, eventual ocorrência de juros exorbitantes ou excesso de cobrança. Ademais não comprovaram a alegação, tampouco mencionaram, meios de prova para tal finalidade.
+Frise-se que não bastam meras alegações acerca da ilegalidade do título, mas como sustentado, deveriam as Embargantes demonstrarem a instrução processual de suas alegações.
+Sendo assim, considerando-se que a parte embargante não se desincumbiu de comprovar fatos extintivos do direito do exequente (ônus que lhe cabia), nos termos do artigo 373, inciso II, do NCPC, bem como não demonstrou nenhuma prova de má-fé na relação jurídica, constituída pelas partes, não se há prosperar as alegações das embargantes. Frise-se, ainda, que a quitação regular de uma obrigação é efetuada por meio de recibo, em consonância como artigo 320, caput, do CC.(..)
+Dessa forma, não havendo prova de quitação regular da dívida, nem restituição do título às devedoras, presume-se, portanto, a subsistência da obrigação, uma vez que a prova deve ser cabal, produzindo-se com a demonstração de que a prestação cumprida corresponde ao objeto a que se refere.
+Sendo assim, observando-se o conteúdo dos autos da ação de execução, demonstram-se verdadeiros os fatos alegados naquela inicial, não havendo nenhuma prova capaz de elidir a pretensão do Exequente.
+Pelo exposto, julga-se improcedentes os embargos à execução e, de consequência, determina-se o prosseguimento da execução.(..)"
+Nesta ação pretendeu a autora, ora embargante, a declaração de inexistência parcial do débito, sob o argumento de cobrança excessiva de juros remuneratórios e prática de agiotagem, para que seja compelida apagar apenas o valor original contratado, R$ 87.548,98 (oitenta e sete mil, quinhentos e quarenta e oito reais e noventa e oito centavos), acrescido de correção monetária pelo INPC até o efetivo pagamento, e juros remuneratórios à razão de 1% a.m., expurgando-se o percentual que foi cobrado a maior desse limite legal.
+Indene de dúvidas que sobre a sua pretensão, pairam os efeitos da coisa julgada material. Na primeira oportunidade que teve para impugnar o valor exequendo, quedou-se inerte.
+E, como bem consignado na sentença proferida nos embargos à execução, em sendo nota promissória, o título exequendo, dotada de certeza, liquidez e exigibilidade, na forma dos artigos 783 e 784, I, do CPC, não há se discutir sobre o negócio jurídico subjacente, ou seja, o credor não precisa declinar a causa que deu origem à dívida (causa debendi).
+Aliás, foram considerados verdadeiros os fatos esposados na inicial da execução, e inexistente prova capaz de elidir a pretensão do Exequente. Assim, nem mesmo a superveniente discussão a respeito da cobrança de juros exorbitantes, em decorrência da prática de agiotagem, em defesa heterotópica à execução (ação declaratória de inexistência parcial do débito) possui o condão de modificar aquela sentença transitada em julgado, na forma dos artigos 502 e 508 do CPC (e-STJ, fls. 443/444).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA COLETIVA PROMOVIDA PELO IDEC EM NOME DE POUPADORES ESPECÍFICOS E DETERMINADOS. REPRESENTAÇÃO PROCESSUAL. INCIDÊNCIA DA REGRA DO PROCESSO CIVIL TRADICIONAL. NECESSIDADE DE RECOLHIMENTO PRÉVIO DAS CUSTAS JUDICIAIS DO PROCESSO DE LIQUIDAÇÃO DE SENTENÇA. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. No presente caso, não se evidencia a existência da omissão e da contradição apontadas, porquanto decididas, clara e devidamente fundamentadas, as questões submetidas a julgamento pela parte embargante, sobretudo no que diz respeito à necessidade de recolhimento das custas judiciais na fase de liquidação de sentença intentada pelo Idec, na condição de representante processual, em nome de beneficiários específicos de determinados, equiparando-se, portanto, à liquidação individual de sentença coletiva, a qual se sujeita à regra geral disposta na lei processual acerca da responsabilidade pelo pagamento das despesas processuais.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.637.366/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 22/02/2022, DJe 03/03/2022)
+Afasta-se, portanto, a alegada violação.
+Assim, rever as conclusões quanto à existência de coisa julgada demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIME NTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de VÂNIA, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. AGIOTAGEM. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. COISA JULGADA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
