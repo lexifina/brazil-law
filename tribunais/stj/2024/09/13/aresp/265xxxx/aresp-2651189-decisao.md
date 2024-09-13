@@ -1,0 +1,27 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ÁLAMO CONSTRUTORA E INCORPORADORA LTDA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de indenização por danos materiais e compensação por danos morais movida por ARIANE SIMONINI e ADIVANE SIMONINI contra a agravante e CAIXA ECONÔMICA FEDERAL
+Acórdão: deu parcial provimento à apelação dos agravados e negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+"CIVIL E PROCESSO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. NULIDADE DA SENTENÇA. SUSPENSÃO DO FEITO. RESPONSABILIDADE SOLIDÁRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. CLÁUSULA PENAL MORATÓRIA. JUROS DE OBRA. INDENIZAÇÃO.
+1. Não há nulidade a inquinar a sentença, uma vez que o juízo a quo apreciou as questões pertinentes à solução do litígio, explicitando as razões de seu convencimento (artigos 5º, inciso LIV, e 93, inciso IX, da Constituição Federal e artigo 11 do Código de Processo Civil).
+2. Em se tratando de demandas que versam sobre negócios jurídicos distintos, inexiste prejudicialidade que justifique a suspensão do processo, nos moldes pretendidos (artigo 313, inciso V, alínea "a", do CPC).
+3. A responsabilidade das rés pelos danos suportados pelo(s) autor(es) - pelo atraso na entrega do imóvel por ele adquirido (fato incontroverso) - decorre do fato de ambas terem descumprido o que fora convencionado: a Construtora, ao inobservar o prazo ajustado pelas partes, e a Caixa Econômica Federal, agente financeiro e copartícipe do empreendimento, ao não providenciar a imediata substituição da Construtora, a que estava obrigada contratualmente. Precedentes.
+4. A responsabilidade solidária da Caixa Econômica Federal pelo pagamento de valores decorrentes de atraso na entrega do imóvel exsurge a partir do esgotamento do prazo previsto no contrato de mútuo habitacional, sendo de responsabilidade exclusiva da incorporadora/construtora as importâncias relativas ao período anterior.
+5. O ressarcimento de danos materiais decorrentes de atraso na entrega do imóvel justifica-se pelo tempo em que o(s) adquirente(s) esteve(iveram) privado(s) de usufruir do bem, por fato alheio a sua vontade, independentemente de comprovação da realização de despesas com locação ou outras similares. Precedentes.
+6. A impossibilidade de cumulação de indenização por lucros cessantes com cláusula penal está assentada na diretriz jurisprudencial firmada pelo eg. Superior Tribunal de Justiça, no julgamento do recurso especial repetitivo nº 1.498.484/DF (tema n.º 970: "A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes").
+7. A cobrança de juros de obra, após o esgotamento do prazo para a entrega do imóvel, vem sendo reiteradamente afastada pelos Tribunais pátrios, em face da impossibilidade de penalizar o(s) adquirente(s)/mutuário(s) com custos adicionais, se ele(s) não deu(ram) causa à demora na conclusão do empreendimento. Tanto a Caixa Econômica Federal, na condição de agente financeiro, como a Construtora, são responsáveis, solidariamente, pela devolução dos valores pagos quando ultrapassado o prazo para o término da fase de construção da obra.
+8. É assente na jurisprudência que o abalo moral gerado pela impossibilidade de usufruir do imóvel é conhecido pela experiência comum e dispensa a produção de prova de prejuízo concreto, que é presumido e decorre do próprio fato".(e-STJ Fl.1594)
+Decisão de admissibilidade do TRF4: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. Súmula 5/STJ;
+ii. Súmula 83/STJ e
+iii. Súmula 7 do STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega que não menciona qualquer cláusula contratual em seu recurso especial. Aduz que os precedentes citados pela decisão de inadmissão não guardam relação com a hipótese dos autos, não sendo capazes de justificar a incidência do óbice da Súmula 83/STJ. Sustenta genericamente não ser necessário o revolvimento de fatos e provas dos autos para a alegação de responsabilidade exclusiva da CAIXA ECONÔMICA FEDERAL.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. Súmula 7 do STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em relação à agravante em 10% sobre o valor da condenação (e-STJ fls. 711) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
