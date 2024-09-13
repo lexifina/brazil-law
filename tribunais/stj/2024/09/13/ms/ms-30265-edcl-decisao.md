@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão em que indeferi a petição inicial do Mandado de Segurança impetrado por BRUNA CARLA SIMEÃO OLIVEIRA.
+Em seu recurso, a parte embargante argumentou a existência de omissão. Aduz que as provas não foram em sua integralidade analisadas. Sustenta que os documentos juntados "comprovam a autodeclaração da Impetrante como pessoa negra, assim como a nota obtida na prova do ENAM".
+A parte embargada, regularmente intimada, quedou-se inerte (fl. 233, e-STJ).
+Assim posta a questão, destaco que não se verificam contradição e omissão. A decisão recorrida deve ser mantida pelos seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à oposição dos embargos de declaração.
+Foram analisados todos os documentos elencados pela embargante. A própria embargante confirma que juntou apenas os seguintes documentos: "- Às fls. 62-63, encontra-se a nota obtida pela Impetrante na prova
+do ENAM; - À fl. 64, consta a autodeclaração da Impetrante como pessoa negra, conforme exigido pelo edital do ENAM (fl. 31); - Ainda, o edital do ENAM foi devidamente apresentado às fls. 31, comprovando os requisitos e condições para a inscrição na categoria de pessoa negra".
+O edital do Exame Nacional da Magistratura, em consonância com a Resolução do CNJ n. 541/23, estabeleceu requisitos a serem cumpridos para se reconhecer a condição de pessoa negra. Ainda que se admitisse o formulário apresentado na oposição destes embargos de declaração de forma extemporânea, a embargante não demonstrou ter cumprido os requisitos para o reconhecimento da condição de pessoa negra.
+Entre os requisitos previstos no item 4.0, estabeleceu-se que, após a Comissão de Heteroidentificação confirmar a autodeclaração, o comprovante de validação emitido pelo Tribunal de Justiça deveria ser enviado à banca examinadora até 26/04/2023. Mais uma vez a embargante não demonstrou o direito líquido e certo da sua pretensão.
+O Mandado de Segurança "possui como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória" (AgInt no RMS n. 73.292/RO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024). Ou seja: para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, o direito seja facilmente verificado.
+A embargante não fez prova do direito alegado. Portanto, a decisão embargada não merece reparo. Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões. Não existe vício a ser sanado. O direito líquido e certo da embargante não está demonstrado. Se a solução prestigiada não corresponde à desejada pelo embargante, não significa que a decisão esteja eivada de vícios, conforme pretendido.
+Em face do exposto, rejeito os embargos.
+Intimem-se.
+EMENTA
