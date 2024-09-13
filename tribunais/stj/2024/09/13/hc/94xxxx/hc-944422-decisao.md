@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Jhonatan Peixoto Lopes - condenado por roubos circunstanciados a 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e a 15 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça do Rio de Janeiro (fls. 60/68), não comporta processamento.
+Com efeito, busca a impetração o abrandamento do regime inicial e, sucessivamente, a concessão do direito ao recurso em liberdade - referente à condenação proferida na Ação Penal n. 0075182-81.2023.8.19.0001 (fls. 25/41 - da 1ª Vara Criminal da comarca de Nova Iguaçu/RJ) -, aos seguintes argumentos:
+a) inexistência de fundamentação para agravamento do regime inicial - o acórdão coator, ao manter a sentença do Juízo a quo, não se atentou para a ilegalidade perpetrada, qual seja, a fixação de regime fechado, mesmo diante de réu primário e de bons antecedentes, bem como do fato de a pena-base ter sido fixada no mínimo legal por restarem favoráveis as circunstâncias judiciais do art. 59 do CP (fl. 6); e
+b) incompatibilidade do regime semiaberto com o acautelamento preventivo - caso venha a ser fixado o regime aberto ou mesmo o semiaberto, tal condição abalará substancialmente a cautelar, pois o condenado deverá ter sua situação imediatamente amenizada em total consonância com o novo status jurídico, não podendo ele permanecer preso se terá uma situação mais favorável com o trânsito em julgado da decisão (fl. 12).
+Entretanto, não deve ser processada a impetração, pois o acórdão hostilizado foi publicado em data recente, estando em curso o lapso para interposição de recursos, o que impede o processamento do writ (AgRg no HC n. 873.533/ES, Ministro Teodoro Silva Santos, Sexta Turma, julgado em 11/3/2024, DJe 15/3/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) não há ilegalidade na fixação do regime inicial fechado, considerando a pena imposta (6 anos, 2 meses e 20 dias de reclusão) e a gravidade concret a (fundamento do acórdão hostilizado: diante da gravidade da conduta apurada. Como se viu, o réu, em concurso de pessoas se utilizou de extrema violência - apertão do pescoço das vítimas e revista de suas partes íntimas para procurar dinheiro e celular ou outros objetos de valor - fl. 67); e
+b) mantido o regime fechado, prejudicada a pretensão sucessiva de concessão de liberdade, ainda mais porque nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT IMPETRADO NO PRAZO RECURSAL NA CAUSA PRINCIPAL. INADMISSIBILIDADE. REGIME INICIAL E CONCESSÃO DE DIREITO A RECORRER EM LIBERDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
