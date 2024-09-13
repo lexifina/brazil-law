@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DA SERRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - MULTA APLICADA PELO PROCON - REDUÇÃO DO VALOR FIRMADO NA ESFERA ADMINISTRATIVA - POSSIBILIDADE - VEDAÇÃO AO ENRIQUECIMENTO INDEVIDO DO ÓRGÃO DE DEFESA DO CONSUMIDOR - RECURSO DESPROVIDO.
+1. É entendimento dominante nesta Corte que em situações excepcionais, tendo em vista a amplitude da garantia do acesso à justiça, a multa fixada pelo Procon fora dos parâmetros da razoabilidade e da proporcionalidade pode ser revista pelo Poder Judiciário. Afinal, é corolário da ideia de Estado de Direito a submissão de toda e qualquer forma de manifestação do poder ao primado da legalidade, que, por sua vez, só se pode fazer efetivo mediante o efeito controle desses atos pelo Poder Judiciário, fiador da lei e da ordem constitucional.
+2. No caso dos autos, tal como a instância primeva, entendo que a multa inicialmente arbitrada pelo apelante não se mostra consentânea com as peculiaridades da situação fática. É dizer, ainda que se trata de empresa de grande porte econômico, a sanção pecuniária administrativa não pode ocasionar enriquecimento sem causa da Administração Pública.
+3. Sendo assim, diante das peculiaridades da situação fática, entendo que a multa estabelecida em sentença, no patamar de dez mil reais, não deve ser majorada para o montante inicialmente fixado pelo órgão de defesa do consumidor, sob pena, repito, de ocasionar enriquecimento sem causa deste.
+4. Recurso desprovido (fl. 250).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 57 do CDC, no que concerne à impossibilidade de redução da multa aplicada pelo PROCON, sustentando que o valor da multa está abaixo do limite legal e que não se justifica o arbitramento de multa em patamar inferior ao já aplicado pelo PROCON do Município da Serra, por ser a empresa recorrida infratora contumaz. Aduz a seguinte argumentação:
+Nota-se do v. Acórdão, que o Tribunal a quo, ao manter a redução do valor da multa aplicada pelo Órgão Municipal de Defesa do Consumidor, data maxima venia, acabou por violar o artigo 57 do Código de Defesa do Consumidor, verbis:
+ ..
+Reparem que o PROCON Municipal observou todos os parâmetros legais no momento da fixação da multa, considerando, inclusive, a situação econômica do recorrido, sendo sabido que se trata de um BANCO DE GRANDE PORTE.
+Levando-se em conta todas as particularidades chegou-se ao valor da multa aplicada, que nada mais é do que uma sanção inibitória, uma punição pelo ato ilegal praticado pelo recorrido que tem por finalidade impedir reincidências desse tipo de infração que lesiona o consumidor e gera lucro para a empresa infratora.
+CASO A MULTA SEJA ARBITRADA EM VALOR MÓDICO, ESTA NÃO ATINGE SUA FINALIDADE DE DESESTIMULAR A INSTITUIÇAO BANCÁRIA A VOLTAR A COMETER OUTRAS INFRAÇÕES, COM COMPORTAMENTO PREJUDICIAL AOS CONSUMIDORES.
+E SE FOR MANTIDA A REDUÇÃO DA MULTA CERTAMENTE ESSA NÃO ATINGIRÁ O SEU OBJETIVO.
+Ora, foram verificados atos que violaram direitos do consumidor, não se justificando o arbitramento de multa em patamar menor do que aquele arbitrado pelo PROCON do Município da Serra, principalmente porque a empresa recorrida já é uma infratora contumaz, não sendo aceitável a redução da multa aplicada pelo órgão de proteção ao consumidor.
+Vale ressaltar que o valor da multa está bem abaixo do limite descrito no parágrafo único do art. 57 do CDC de, em média, no mínimo R$ 200,00 (duzentos reais) e no máximo R$ 3.000.000,00 (três milhões de reais).
+A violação literal do dispositivo de lei federal é flagrante, sendo imperiosa a intervenção deste Colendo Tribunal (fls. 261- 263).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso dos autos, tal como a instância primeva, entendo que a multa inicialmente arbitrada pelo apelante não se mostra consentânea com as peculiaridades da situação fática.
+É dizer, ainda que se trata de empresa de grande porte econômico, a sanção pecuniária administrativa não pode ocasionar enriquecimento sem causa da Administração Pública.
+Sendo assim, diante das peculiaridades da situação fática, entendo que a multa estabelecida em sentença, no patamar de R$ 10.000,00 (dez mil reais), não deve ser majorada para o montante inicialmente fixado pelo órgão de defesa do consumidor, sob pena, repito, de ocasionar enriquecimento sem causa deste. Nesse sentido, os seguintes precedentes deste Tribunal (fl. 248).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
