@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por PAULO HENRIQUE MARTINS DE ARAUJO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos crimes de tráfico de drogas e porte ilegal de arma de fogo. Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão em razão da gravidade concreta da conduta e pelo receio de reiteração delitiva e denegou a ordem, em acórdão de fls. 89-97.
+Na hipótese, a Defesa limitou-se a manifestar a sua inconformação com o |acórdão do Tribunal de Justiça de origem, sem promover a juntada das razões de recurso (fls. 106).
+Sem pedido de liminar.
+O Ministério Público Federal manifestou, às fls. 115-117, em parecer ementado nos seguintes termos:
+"RECURSO EM HABEAS CORPUS. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. NULIDADE DA PRISÃO EM FLAGRANTE. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. GRAVIDADE CONCRETA DA CONDUTA. REINCIDÊNCIA. GARANTIA DA ORDEM PÚBLICA. 1. Havia uma situação de flagrante delito que legitimou a entrada dos policiais na ; residência e a busca pessoal nos réus, uma vez que Rafael Mendes e Paulo Henrique fugiram quando avistaram os policiais, tendo Paulo Henrique dispensado uma arma de fogo e munições nas imediações. Portanto, as fundadas suspeitas de que o recorrente estivesse cometendo um crime concretizam-se nos fatos de ele ter tentado fugir e a posse de arma dc fogo c munições, que foram dispensadas no local durante a fuga, o que : constitui, por si só, situação dc flagrante delito. 2. A necessidade da manutenção da prisão preventiva está fundamentada na gravidade em concreto da conduta, especialmente no fato de que foram apreendidas : droga, arma de fogo e munições, a indicar que o réu se dedicava com habitualidade a : atividades criminosas. Soma-se a isso o fato de que se trata de réu reincidente, em ; cumprimento de pena ao tempo dos fatos, a demonstrar a necessidade da custódia cautclar para a finalidade de se evitar o cometimento dc novos crimes. 3. Parecer pelo não conhecimento do habeas corpus. Caso seja conhecido, pelo seu desprovimento" - fl. 115.
+É o relatório. DECIDO.
+Saliente-se que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer:
+"a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta Corte, constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ .
+Nesse sentido:
+"Em habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+No caso dos autos, a impetração não veio instruída com a petição inicial, peça fundamental.
+A deficiente instrução, portanto, impede sejam verificados a suposta existência de flagrante ilegalidade.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
