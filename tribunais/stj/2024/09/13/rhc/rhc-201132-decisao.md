@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ROBERTO FERREIRA DAMACENA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás (HC n. 5421782-47.2024.8.09.0000).
+Consta dos autos que o recorrente foi preso preventivamente no dia 3/4/2023, pela suposta prática do crime previsto no artigo 33, da Lei nº 11.343/06, porque transportava aproximadamente 3 quilos de pasta base de cocaína (e-STJ fl. 57).
+Inconformada, a defesa impetrou habeas corpus na Corte Estadual, alegando, em síntese, (i) ausência de fundamentação da decisão que decretou a prisão preventiva; (ii) presença de predicados pessoais favoráveis do paciente (família, residência fixa, filhos menores); (iii) ofensa ao princípio da presunção da inocência e ressaltando serem aplicáveis medidas cautelares diversas da prisão (e-STJ fl. 57).
+O Tribunal de origem, contudo, denegou a ordem nos termos da seguinte ementa (e-STJ fls. 61/62):
+HABEAS CORPUS. TRÁFICO DE DROGAS. OFENSA AO PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA. NÃO OCORRÊNCIA. Afasta-se também a alegação do impetrante de que houve ofensa ao princípio constitucional da presunção de inocência, pois impõe-se ao caso a relativização deste preceito em favor da segurança social, ameaçada pela conduta atribuída ao paciente, além do que, a própria Constituição Federal autoriza a prisão provisória em seu artigo 5º, inciso LXI, desde que se enquadre nos casos previstos na lei. PRISÃO PREVENTIVA. DECRETO FUNDAMENTADO NAGARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DEILEGALIDADE. A necessidade da medida extrema mostra-se amparada na existência dos requisitos autorizadores da prisão preventiva, a saber, prova da autoria e materialidade, estando a segregação alicerçada na garantia da ordem pública. PREDICADOS PESSOAIS. Os predicados favoráveis não têm o condão de garantir, por si só, a revogação da prisão preventiva, mormente quando o julgador visualizar a presença de seus requisitos ensejadores. MEDIDAS CAUTELARES DIVERSAS.
+Estando presentes motivos autorizadores da decretação da prisão preventiva e comprovada a necessidade da segregação, incabível a substituição pelas medidas cautelares (art. 319 do CPP), não havendo gravame ou constrangimento ilegal a ser reparado pela via mandamental. PARECER ACOLHIDO.
+ORDEM CONHECIDAEM PARTE E, NESSA EXTENSÃO, DENEGADA.
+Nas razões do presente recurso, a defesa alega, resumidamente, que não existem motivos para a manutenção da prisão preventiva, posto que o acusado em nenhum momento frustrará os objetivos da justiça e não obstará o bom andamento processual e a aplicação da lei penal em eventual sentença condenatória. Aduz que não houve fundamentação concreta a indicar a necessidade da continuidade da prisão cautelar.
+Assevera que não restou apontada qualquer circunstância, seja relativa ao modo de execução da conduta criminosa, seja quanto à pessoa do acusado, que demonstre a efetiva necessidade da custódia cautelar para garantia da ordem pública (e-STJ fls. 69/75).
+Diante disso, requer, liminarmente e no mérito, seja o recurso conhecido e provido para determinar a revogação da prisão preventiva do recorrente.
+A liminar foi indeferida (e-STJ fls.100/101)
+As informações foram prestadas (e-STJ fls.108/112)
+O Ministério Público Federal emitiu parecer pelo não provimento do recurso (e-STJ fl.137).
+É o relatório, decido.
+A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Exige-se, ainda, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+No caso, assim foi fundamentada a prisão (e-STJ fls. 59/60):
+No caso dos autos, o representado é apontado como um autor do crime de tráfico, no qual foi apreendida a expressiva quantidade de 3 (três) quilos de pasta base de cocaína, o que demonstra a gravidade concreta do delito. Além disso, a representação indica que o investigado encontra-se em local incerto e não sabido, tendo evadido-se desta cidade após a abordagem policial, o que justifica a decretação da prisão também por conveniência da instrução
+criminal e para assegurar a aplicação da lei penal. Por tais motivos, se mostra imperioso resguardar, de forma imediata, a ordem pública, a conveniência da instrução criminal e para assegurar a aplicação da lei penal, pois o representado demonstra acentuada periculosidade, além de estar em local incerto e não sabido.
+ ..
+Assim, estando presentes os requisitos necessários para a
+decretação da segregação cautelar, as medidas alternativas diversas da prisão não se revelam adequadas e suficientes ao caso, em especial, dado o desajustamento do ilícito praticado. Na confluência do exposto, forte no parecer ministerial, invoco os fundamentos supra para o fim de DECRETAR a prisão preventiva do cidadão ROBERTO FERREIRA DAMACENA, nos autos qualificado.
+Ao examinar a matéria, o Tribunal manteve a custódia, ponderando o seguinte (e-STJ fl. 60):
+No presente caso, a prisão preventiva encontra fundamento especialmente na
+garantia da ordem pública, considerando a gravidade do crime em questão, com destaque à quantidade de substâncias entorpecentes apreendidas, além do risco de reiteração delitiva.
+Extrai-se dos autos que foram localizados no interior do veículo
+aproximadamente três quilos de cocaína, um aparelho celular, e a carteira nacional de habilitação de ROBERTO FERREIRA DAMACENA.
+Além disso, conforme reconhecido pela magistrada singular, o custodiado
+possui maus antecedentes, inclusive pela prática do mesmo crime.
+ ..
+Ao teor de todo o exposto, acolhendo o parecer do órgão ministerial de
+cúpula, conheço parcialmente do pedido e, nessa extensão, denego a ordem
+Cumpre verificar se o decreto prisional afronta aos requisitos do art. 312 do Código de Processo Penal, como aduz a inicial.
+No caso em exame, como se vê nos trechos acima transcritos, as instâncias ordinárias destacaram a necessidade da medida extrema, sobretudo para a garantia da ordem pública, tendo em vista as circunstâncias concretas que envolvem o fato criminoso, porquanto o paciente foi flagrado com cerca de 3kg de pasta-base de cocaína. Segundo registrado, em operação policial, a droga foi localizada no veículo do recorrente, após ter se evadido do local, adentrando na mata, mas alcançado e detido pelos agentes.
+Além disso , também foram encontrados no automóvel, um aparelho celular e a carteira de habilitação do acusado, o que demonstra indícios de autoria, não havendo, conforme alegado pela defesa (e-STJ fl.68), ofensa ao princípio da presunção de inocência ante a decisão do decreto de prisão preventiva.
+Ainda, conforme pontuado, o acusado ostenta maus antecedentes, inclusive pela prática do crime de tráfico de drogas, o que evidencia o efetivo risco de reiteração delitiva.
+A jurisprudência da Suprema Corte é no sentido de que "a periculosidade do agente e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva" (HC 150.906 AgR, Rel. Ministro ROBERTO BARROSO, PRIMEIRA TURMA, DJe de 25/04/2018).
+Por fim, reitere-se que as circunstâncias que envolvem o fato, bem como o histórico delitivo que pesa contra o paciente, demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+Dessa forma, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. MOTIVAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RECURSO DESPROVIDO.
+1. O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na espécie, a segregação preventiva encontra-se devidamente motivada, pois destacou o Magistrado de piso a gravidade concreta da conduta, extraída da apreensão de duas balanças de precisão e de mais de 3kg (três quilos) de cocaína, asseverando, ainda, que "o acusado admitiu a posse dos entorpecentes e alegou que os guardava por ordem de "RANDU", indivíduo custodiado no sistema penitenciário (fl. 13)".
+3. Agravo regimental desprovido.
+(AgRg no HC n. 907.164/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA CONDENATÓRIA. DECRETAÇÃO DA PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. PERICULOSIDADE SOCIAL. RISCO DE REITERAÇÃO DELITIVA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE. INEXISTÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+2. No particular, prisão preventiva foi decretada em razão da periculosidade do agravante, evidenciada pelo risco de reiteração delitiva. Segundo as instâncias ordinárias, embora os fatos terem ocorrido há mais de 12 anos e o acusado se encontrar em liberdade há mais de 7 anos, o recorrente teria cometido dois novos crimes, inclusive estaria cumprindo pena definitiva por homicídio, recolhido em presídio federal, além de ostentar outras penas provisórias.
+Ademais, ao decretar a prisão preventiva, na sentença, o juízo teria levado em conta a capacidade de articulação e o poderio econômico e traficância de grandes quantidades de drogas entre estados da federação. Ausência de constrangimento ilegal. Julgados do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 179.619/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023.)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
