@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto pelo BANCO DO BRASIL SA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Agravo de instrumento: interposto pelo recorrente contra decisão, proferida nos autos de cumprimento de sentença, que reconheceu a incompetência absoluta da Justiça Federal para processar e julgar o processo.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. SOCIEDADE DE ECONOMIA MISTA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO DE INSTRUMENTO DESPROVIDO.
+I - Consoante consta nos autos, a Ação Civil Pública que se busca executar (nº 0008465-28.1994.4.01.3400) foi promovida pelo Ministério Público Federal em face do Banco do Brasil S/A, da União - Fazenda Nacional e do Banco Central - BACEN, perante a 3ª Vara Federal do Distrito Federal.
+II - Em recentes decisões sobre casos análogos, o E. Superior Tribunal de Justiça assentou entendimento segundo o qual a competência funcional sede lugar em face da competência ratione personae. Precedentes.
+III - Agravo de instrumento desprovido. (fl. 43, e-STJ)
+Decisão de admissibilidade do TRF3: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (litisconsórcio passivo e chamamento ao processo); ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (competência para julgar liquidação de sentença).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "a súmula 83 do STJ é cópia equivocada da súmula 286 do STF, além de contrariar o artigo 927 do CPC, que por sua vez, reflete a ratio juris e a vontade do legislador, é de rigor o afastamento de sua aplicação com o consequente recebimento do Recurso Especial, uma vez que, o que deve ser observado pelo Tribunal "a quo" não é a orientação jurisprudencial que emana de seus próprios julgados, tampouco decisões esparsas do STJ, mas aquela orientação jurisprudencial existente e em vigor que o Superior Tribunal de Justiça decidiu repetidamente e que deu origem a TEMAS e SÚMULAS."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (litisconsórcio passivo e chamamento ao processo); ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (competência para julgar liquidação de sentença).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
