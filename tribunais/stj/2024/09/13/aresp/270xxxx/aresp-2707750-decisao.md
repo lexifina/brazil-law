@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CENCOSUD BRASIL COMERCIAL S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. PENALIDADE APLICADA PELO PROCON. INFRAÇÃO À LEGISLAÇÃO CONSUMERISTA. L EGALIDADE DO PROCESSO ADMINISTRATIVO. VALOR DA MULTA IMPOSTA. FATURAMENTO BRUTO PRESUMIDO. RESPEITO ÀS BALIZAS LEGAIS. INVERSÃO DO ÔNUS SUCUMBENCIAL. SENTENÇA REFORMADA.
+Quanto à controvérsia, a parte recorrente alega interpretação jurisprudencial divergente do art. 57 do CDC e sustenta que o valor da multa aplicada pelo PROCON/GO é desproporcional e irrazoável, trazendo a seguinte argumentação:
+Conforme amplamente exposto e comprovado nos autos, os valores exorbitantes das multas arbitradas pelo Recorrido traduzem que o mesmo nunca se pautou pela proporcionalidade e razoabilidade, isso ao iniciar as penalidades em valores elevados e descompromissados com a intenção pedagógica, bem como desamparados da realidade do faturamento da Recorrente.
+Impõe salientar que caso fosse levado em consideração o real faturamento da Recorrente o valor da multa, tal como ordena a legislação vigente, calculado nos ditames do artigo 57 do CDC, seria bem inferior à multa arbitrada, conforme se infere do cálculo apresentado pelo próprio Recorrido na movimentação nº 67 .
+ ..
+Em divergência do entendimento do Tribunal de Justiça de Goiás, o Egrégio Tribunal do Espírito Santo tem aplicado a interpretação de que o artigo 57 do Código de Defesa do Consumidor, embora estabeleça que a pena de multa deve ser graduada de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor, precisa ser aplicada em consonância com os princípios da proporcionalidade e da razoabilidade, sendo perfeitamente cabível a redução da multa imposta na esfera administrativa quando o quantum extrapolar os limites da razoabilidade e proporcionalidade:
+ ..
+Note-se que nos casos acima relatados, cujas cópias dos acórdãos encontram-se anexas e que deverão servir de paradigma, existe os mesmos elementos desta ação, mutatis mutandis, quais sejam: (I) conduta supostamente cometida em contrariedade ao Código de Defesa do Consumidor; (II) multas, baseadas em faturamentos presumidos, irrazoáveis e desproporcionais (III) necessidade de readequação da multa em observância ao determino no artigo 57 do CDC, respeitando os limites da razoabilidade e proporcionalidade (fls. 660-666).
+É o relatório.
+Decido.
+Quanto à controvérsia, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele apontado como paradigma, tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 29.5.2020.) ;
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 26.3.2019; AgInt no AREsp 1.385.820/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 2.4.2019; AgInt no AREsp 1.625.775/RS, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 25.6.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
