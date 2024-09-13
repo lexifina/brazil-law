@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JONATHAS LAURENCAO DE SOUZA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Depreende-se dos autos que o recorrente foi condenado à pena de 8 anos e 10 meses de reclusão, em regime inicial fechado, pela prática dos delitos previstos nos arts. 33 e 35, ambos da Lei n. 11.343/2006, sendo-lhe negado o direito de recorrer em liberdade.
+Irresignada a defesa impetrou habeas corpus perante o tribunal de origem, que denegou a ordem, em acórdão de fls. 99-112.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção da segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva.
+O Ministério Público Federal em parecer, às fls. 149-151, manifestou-se pelo desprovimento do recurso, em parecer que restou assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO E ASSO-CIAÇÃO PARA O TRÁFICO. NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. Não fere o princípio da presunção de inocência a vedação do direito de recorrer em liberdade se ocorrentes os pressupostos legalmente exigidos para a preservação do condenado na prisão, a exemplo da garantia da ordem pública, em razão da periculosidade do agente, auferida de seu histórico delituoso. Precedentes.
+2. Parecer pelo desprovimento do recurso ordinário" - fl. 149.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar do recorrente encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista que, foram apreendidos 880 gramas de crack, bem como 219 pedras do mesmo entorpecente, já devidamente embalados para venda, além de 39 porções de haxixe e 420 gramas de maconha - fl. 18.
+A propósito, trago o seguinte trecho da decisão que decretou a segregação cautelar, mantida pelos mesmos fundamentos, pela sentença condenatória:
+"é possível concluir que existem provas suficientes da existência de crime a ensejar a materialidade do delito e fortes indícios de que os autuados realmente tenham praticado os crimes que lhes foram atribuídos, estando presente, neste momento, o fumus comissi delicti.
+Ademais, entendo que a liberdade dos autuados, neste momento, se mostra temerária e a prisão preventiva oportuna, eis que o contexto de investigação criminal ao qual estão submetidos, com indícios da existência de uma estrutura organizada para a prática de crimes, somado à vasta quantidade de entorpecentes e demais materiais ilícitos apreendidos - fl. 55.
+Nesse sentido: AgRg no HC n. 923.584/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2024; AgRg no RHC n. 193.464/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/8/2024; AgRg no RHC n. 190.350/MG, de minha relatoria, Quinta Turma, DJe de 16/8/2024 e AgRg no HC n. 914.608/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/8/2024).
+Outrossim, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso. Nesse sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
