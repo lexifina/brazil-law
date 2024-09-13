@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDREIA NUNES ZANELATO OLARTE apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL (Apelação Criminal n. 2000010-44.2016.8.12.0000).
+A paciente foi condenada à pena de 4 anos e 3 meses de reclusão, a ser cumprida no regime inicial semiaberto, pela prática do delito de lavagem de capitais.
+A apelação defensiva foi desprovida, nos termos da seguinte ementa (e-STJ fls. 16/17):
+APELAÇÕES CRIMINAIS - LAVAGEM OU OCULTAÇÃO DE BENS, DIREITOS E VALORES. RECURSOS DA DEFESA. PRELIMINARES - NÃO ACOLHIDAS - INÉPCIA DA DENÚNCIA - MATÉRIA SUPERADA COM O ADVENTO DO DECRETO CONDENATÓRIO - ALEGADA VIOLAÇÃO AO DEVER DE MOTIVAÇÃO INSCULPIDO NO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL - INOCORRÊNCIA - SENTENÇA CONDENATÓRIA DEVIDAMENTE FUNDAMENTADA. MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE - CONJUNTO PROBATÓRIO ROBUSTO E INDENE DE DÚVIDAS - PRETENDIDA APLICAÇÃO DA REDUTORA DO ART. 29, §1º, DO CÓDIGO PENAL (PARTICIPAÇÃO DE MENOR IMPORTÂNCIA) (APELANTE IVAMIL) - INAPLICÁVEL - PEDIDOS DE REDUÇÃO DA REPRIMENDA, ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA CORPORAL (APELANTE ANDRÉIA) - NÃO ACOLHIDOS - DETRAÇÃO PENAL - DESCABIDO - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. RECURSO MINISTERIAL - PRETENDIDA CONDENAÇÃO DOS APELADOS PELOS FATOS 01, 03, 04, 05, 06, 07, 08, 09, 10 e 11 - IMPOSSIBILIDADE - INSUFICIÊNCIA PROBATÓRIA - PRINCÍPIO DO IN DUBIO PRO REO. SENTENÇA MANTIDA - RECURSOS CONHECIDOS E DESPROVIDOS.
+1. 1. A prolação de sentença condenatória torna superada a tese de inépcia da denúncia. Com efeito, é ilógico pensar em inaptidão da inicial acusatória nos casos em que os elementos carreados aos autos permitam ao juízo proferir um julgamento acerca da materialidade e da autoria delitiva. De qualquer modo, a denúncia encontra-se apoiada em fartos elementos investigativos, de modo que trouxe em seu conteúdo descrição dos fatos minimamente capazes de permitir o exercício do direito de defesa.
+1. 2. Não há nulidade quando o magistrado fundamenta devidamente a sua decisão e aponta os elementos que formaram o seu convencimento, adotando entendimento absolutamente incompatível com as pretensões da defesa, restando essas implicitamente e sistematicamente rejeitadas.
+2. Comprovada a efetiva participação do acusado no cometimento do delito, cuja ação foi de igual modo importante a dos demais corréus, não há que se falar em reconhecimento da minorante da participação de menor importância, prevista no art. 29, §1º do Código Penal.
+3. Não prospera o pedido de redução da pena-base se presente moduladora negativa ao réu, reconhecida mediante justificativa idônea, com base em elementos concretos inferidos do conteúdo probatório dos autos.
+4. Descabe falar em redução da pena de multa quando fixada de forma proporcional, nos moldes do art. 49 do Código Penal.
+5. Questões relacionadas à detração penal, deverão ser submetidas ao juízo da execução penal, pois munido de todas as informações necessárias à efetivação do direito do apenado.
+6. Impositiva a absolvição dos apelados quanto ao crime de associação criminosa ante a ausência de elementos suficientes para demonstrar a permanência e estabilidade do vínculo associativo entre eles (Fato 01).
+7. A prova controversa, insegura e que não afasta todas as dúvidas possíveis quanto a existência do crime e sua autoria enseja um desate favorável ao acusado, em homenagem ao consagrado princípio in dubio pro reo. Assim, inviável a condenação dos apelados quanto aos Fatos 03, 04, 05, 06, 07, 08, 09, 10 e 11, ante a inexistência de substrato probatório, pois pensar o contrário, estar-se-ia a aplicar o direito de modo temerário.
+Daí o presente writ, no qual alega a defesa que as instâncias ordinárias incorreram em equívoco quando deixaram de reconhecer a detração penal para fins da fixação do regime inicial de cumprimento da pena, tendo em vista que, "entre a data da prisão temporária em 15/08/2016 (Doc. 4) e a revogação da medida cautelar de recolhimento domiciliar noturno em 19/04/2018 (Doc. 9), transcorreu-se o lapso temporal de 01 (um) ano, 08 (oito) meses e 04 (quatro) dias" (e-STJ fl. 6).
+Requer, liminarmente, seja determinado à Corte estadual que "analise a detração penal e a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos ou a modificação do regime inicial de cumprimento da pena" (e-STJ fl. 8).
+No mérito, requer "seja reconhecida a detração penal  ..  e, como consequência, seja determinado a substituição da pena privativa de liberdade por restritiva de direitos nos termos do art. 44 do CP ou ainda, o cumprimento da pena em regime aberto nos termos do art. 33, parágrafo 2º, alínea "c" do Código Penal; c) Subsidiariamente, requer a anulação do acórdão proferido pelo Eg. TJMS determinando que o Tribunal analise a detração e, consequentemente a substituição da pena privativa de liberdade por restritiva de direitos ou a modificação de regime inicial de cumprimento da pena" (e-STJ fl. 9).
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial assim ementado (e-STJ fl. 355):
+HABEAS CORPUS. SUCEDÂNEO DE RECURSOESPECIAL. INADMISSIBILIDADE. DETRAÇÃOPENAL. COMPETÊNCIA DO JUÍZO DAEXECUÇÃO. ATUAL ORIENTAÇÃOJURISPRUDENCIAL DO STJ.
+PARECER PELAEXTINÇÃO DO WRIT SEM RESOLUÇÃO DEMÉRITO OU, ALTERNATIVAMENTE, PELADENEGAÇÃO DA ORDEM.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, esta Corte, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia.
+Outrossim, ainda que se ultrapasse tal óbice, verifico que o Tribunal de origem não tratou especificamente da matéria ora trazida no presente mandamus.
+Diante desse cenário, ante a falta de manifestação do colegiado local no acórdão ora juntado acerca das matérias objeto deste writ, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+Desse modo, não há mesmo como conhecer do presente remédio, notadamente quando não se verifica flagrante ilegalidade a atrair a concessão de habeas corpus de ofício, como na espécie.
+Por essas considerações, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
