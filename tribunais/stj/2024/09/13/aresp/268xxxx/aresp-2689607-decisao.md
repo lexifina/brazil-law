@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DEANGELES DA SILVA MELO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. PROCESSO CIVIL. EMPREITADA. PRELIMINARES. REJEITADAS. DIVERGÊNCIA QUANTO A METRAGEM DA OBRA. PERÍCIA. DESNECESSIDADE. SENTENÇA MANTIDA.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 355, I, do CPC, no que concerne à configuração de cerceamento de defesa em razão do indevido julgamento antecipado da lide, sem a produção de prova imprescindível ao deslinde da demanda, trazendo a seguinte argumentação:
+Ultrapassado tal esclarecimento, menciona-se que, em sede de decisão colegiada (ID 54587113), os nobres desembargadores, acompanhando o voto do Relator, entenderam não ser o caso de prova pericial, sob o argumento de que o próprio Recorrente fez prova da área construída. Vejamos:
+ ..
+Data máxima vênia, discorda-se do raciocínio acima, vez que a questão que levou ao ingresso da ação foi exatamente a discrepância entre aquilo que existe no projeto (ID 51820911) e o que realmente foi construído pelo Recorrente.
+Com isso, é um equívoco o entendimento de que foi afirmado pelo Recorrente que a área construída foi 295,37 m 2 e que fez prova por meio do documento de ID 51820911, o documento foi juntado exclusivamente para demonstrar a DISC REPÂNCIA entre o que se pretendia fazer e o que foi entregue (imagens de satélite).
+Assim, foi afirmado pelo Peticionante e não impugnado pelas Rés que ocorreram mudanças qualitativas e quantitativas na obra, tais modificações não foram formalizadas no projeto e nem mesmo via contrato escrito, visto que as tratativas ocorreram verbalmente e via whatsapp.
+Nesse sentido, aquilo que consta no projeto da obra é apenas uma ilustração do que podería ser e não corresponde à realidade, como prova indiciária do alegado, esta defesa colacionou imagens de satélites que deixam claro que a obra concluída é muito superior ao previsto no projeto inicial.
+Assevera-se ainda que o projeto final mencionado (ID 51820911) é do dia 08/06/2020 e a obra foi entregue em novembro do mesmo ano, logo, o projeto final em nada reflete ao que foi realmente construído, pois retrata apenas uma MERA EXPECTATIVA em relação ao que seria feito na obra, bem como, não há nos autos a existência de vistoria oficial da obra já finalizada.
+ ..
+Sendo assim, em decorrência desta disparidade entre o formalmente contratado (projeto inicial) e o serviço que foi efetivamente prestado, é necessário conhecimento técnico para apurar o que foi construído pelo Peticionante, não sendo o caso de julgamento antecipado, artigo 355, I, do CPC, e sim, de designação de perícia, artigo 156 do CPC (fls. 708-709).
+Quanto à segunda controvérsia, verifica-se que a parte também fundamenta seu recurso na alínea "c" do permissivo constitucional.
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Adiante, quanto ao mérito, verifico que o ponto controvertido da questão se refere ao cálculo da diferença do valor da obra, se deve incidir sobre área total construída ou área total coberta.
+À fl. 04 da Petição Inicial, ID 51820843, consta que o preço acordado foi por "área de construção" e, igualmente, ao ID 51820911, consta que a área de construção da obra seria de 295,37m . Assim, o valor total da obra foi de R$ 289.462,60.
+Tendo em vista que ao ID 51820933 os Apelados comprovam o pagamento de R$ 303.515,05, entendo que não há valores a serem completados, eis que houve o adimplemento integral do acordado.
+Assim, não há que se falar em deferimento de perícia técnica, pois que o próprio Apelante faz prova de que a área construída é de 295,37 m , nos termos do documento de ID 51820911 (fl. 678).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Quanto à segunda controvérsia, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2.6.2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8.10.2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2.4.2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.12.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
