@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A., com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 725):
+APELAÇÃO - Ação de Reparação de Danos - Pleito fundado em erro médico - Sentença de parcial procedência - Recurso da ré, insurgindo-se contra a condenação, alegando a ausência de danos ao autor em decorrência do serviço defeituoso prestado ao autor e, subsidiariamente, postulando a redução do valor da indenização por danos morais - Incontroversa falha na prestação dos serviços médico se hospitalares - Diversas fraturas não diagnosticadas durante o atendimento prestado ao autor - Danos morais configurados e fixados em patamar razoável - Recurso desprovido.
+Nas razões do recurso especial (e-STJ, fls. 733-739), a recorrente alegou que o acórdão impugnado incorreu em violação aos arts. 186, 187, e 927, parágrafo único, do CC/2002, sustentando, em síntese, a exorbitância da indenização fixada a título de danos morais .
+Contrarrazões às fls. 818-825 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Ressalta-se que "a revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ" (AgInt no REsp 1.943.630/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/03/2022, DJe 24/03/2022).
+Na espécie, a Corte local, diante das peculiaridades fáticas do caso, reputou adequado o valor estipulado para a indenização por danos morais no valor de R$ 10.000,00 (dez mil reais). Assim, verifica-se que essa quantia não se afigura exorbitante, o que torna inviável o recurso especial, nos termos do referido enunciado sumular, não sendo o caso de valoração da prova.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. SITUAÇÃO DE EMERGÊNCIA. PRAZO DE CARÊNCIA. RECUSA INDEVIDA. DANOS MORAIS. CONFIGURAÇÃO. VALOR INDENIZATÓRIO. RAZOABILIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às situações correntes de inadimplemento contratual.
+2. Existem casos em que existe dúvida jurídica razoável na interpretação de cláusula contratual, não podendo ser reputada ilegítima ou injusta, violadora de direitos imateriais, a conduta de operadora que optar pela restrição de cobertura sem ofender, em contrapartida, os deveres anexos do contrato, tal qual a boa-fé, o que afasta a pretensão de compensação por danos morais.
+3. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante a título de danos morais fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 10.000,00 (dez mil reais).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.441.772/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. DANO MORAL. QUANTUM INDENIZATÓRIO FIXADO COM RAZOABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
