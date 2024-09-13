@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Marcos Henrique Santos e Silva e outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 26):
+AGRAVO DE INSTRUMENTO Nº 2276219-36.2023.8. 26.0000 Decisão que determinou o rateio e adiantamento dos honorários periciais - Quando a prova pericial for determinada de ofício pelo Juízo, os honorários devem ser rateados entre as partes Inteligência do art. 95 do CPC- Precedentes TJSP - Decisão mantida Recurso não provido.
+AGRAVO DE INSTRUMENTO Nº 3007490-22.2023.8.26.0000 Valor dos honorários periciais mantidos Resolução CNJ nº 232/16 que se aplica a beneficiários da gratuidade, o que não é o caso, e que não vincula o Julgador Verba compatível com a natureza e complexidade da perícia Recurso não provido.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação aos arts. 373 do CPC. Sustenta que "Em que pese o Juiz de primeiro grau ter determinado a perícia contábil, a determinação só ocorreu porque a Fazenda Pública não cumpriu com seu ônus probatório, sendo medida onerosa aos Exequentes arcar com metade dos honorários do perito designado. Na verdade, Excelências, os Exequentes estão sendo compelidos a arcar com uma prova desnecessária, já que os documentos munidos de fé pública indicaram expressamente a existência de diferenças a serem indenizadas. E a o ônus de tal prova deve ser atribuído integralmente aquele que lhe deu causa. Dessa forma, entende os Exequentes, ora recorrentes, que o v. acórdão violou o art. 373 do diploma processual, por não observar a distribuição do ônus probatório." (fl. 42).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, a matéria pertinente ao art. 373 do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
