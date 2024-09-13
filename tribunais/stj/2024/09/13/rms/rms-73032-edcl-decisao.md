@@ -1,0 +1,14 @@
+DECISÃO
+Em análise, embargos de declaração opostos por TEREZINHA ARAUJO D OLIVEIRA, contra decisão que negou provimento ao recurso ordinário.
+A embargante alega que "ao apreciar os recursos interpostos, limitou-se a fazer remissão a um julgado, transcrito na decisão, sem tecer qualquer consideração acerca dos argumentos trazidos pelos recorrentes, o que não se coaduna com o imperativo da necessidade de fundamentação adequada das decisões judiciais" (fl. 576).
+Acrescenta que a decisão embargada "inobservou a incompetência do Núcleo de Precatórios - NACP para decidir sobre a natureza do crédito, muito menos para alterar a natureza alimentar para uma suposta natureza comum. Tal papel compete ao juízo que julgou o processo em seu mérito" (fl. 577). Aduz, ainda, omissão quanto à ausência e natureza comum da verba discutida.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou manifestação expressa acerca dos motivos pelos quais foi desprovido o recurso, mencionando-se precedente jurisprudencial do STJ que, analisando questão idêntica a dos autos, reconheceu a competência do Núcleo de Precatórios - NACP para decidir sobre a natureza do crédito, bem como a natureza comum do crédito.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 2.372.143/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020.
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
