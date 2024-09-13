@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Francisco Roni da Rosa - condenado por estelionato simples a 2 anos e 11 meses de reclusão, em regime inicial fechado, e a 29 dias-multa -, atacando-se decisão de indeferimento do pedido liminar proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 86/87 - Revisão Criminal n. 0735023-57.2024.8.07.0000), não comporta processamento.
+Com efeito, busca a impetração a superação do óbice de não exaurimento da instância antecedente, a fim de abrandar o regime inicial - referente à condenação proferida na Ação Penal n. 0713412-32.2021.8.07.0007 (fls. 31/40 - da 2ª Vara Criminal da circunscrição judiciária de Taguatinga/DF), ratificada em grau de apelação (fls. 41/53), transitada em julgado em 28/6/2024 (segundo informações do endereço eletrônico da Corte distrital) -, ao argumento de desproporcionalidade na fixação do regime fechado: o Superior Tribunal de Justiça tem reiteradamente decidido que, em casos de penas baixas, mesmo em face da reincidência, o regime inicial fechado deve ser reservado a situações excepcionais onde haja comprovação de periculosidade concreta do condenado (fl. 4).
+Entretanto, não deve ser processada a impetração, pois ela hostiliza decisão liminar de Desembargador relator do Tribunal de origem, o que configura ausência de exaurimento da instância ordinária e impede o processamento do writ (AgRg no HC n. 903.069/SP, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe 26/6/2024).
+Ademais, não foi demonstrada teratologia ou ilegalidade manifesta na decisão liminar apta a superar o citado óbice, pois o decisum considerou correta a aplicação do regime fechado, ao seguinte fundamento: por ser o requerente reincidente e ter contra si três circunstâncias judiciais valoradas negativamente (antecedentes, circunstâncias e consequências do crime) - fl. 87.
+Nesse sentido: AgRg no AREsp n. 2.652.651/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/8/2024, DJe 30/8/2024.
+Assim, inexiste teratologia ou ilegalidade manifesta, de rigor a aplicação analógica da Súmula 691/STF.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ESTELIONATO SIMPLES. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU PEDIDO LIMINAR EM REVISÃO CRIMINAL. INADMISSIBILIDADE. INCOMPETÊN CIA DO STJ. REGIME INICIAL. TERATOLOGIA OU ILEGALIDADE MANIFESTA. AUSÊNCIA. SÚMULA 691/STF. APLICAÇÃO ANALÓGICA.
+Inicial indeferida liminarmente.
