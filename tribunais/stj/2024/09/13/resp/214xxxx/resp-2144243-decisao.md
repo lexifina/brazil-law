@@ -1,0 +1,37 @@
+DECISÃO
+Em análise, recurso especial interposto por MAURÍCIO TOLEDO JACOB, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE IMPROBIDADE ADMINISTRATIVA - REVELIA RECONHECIDA PELO JUÍZO DE ORIGEM - AUSÊNCIA DE CITAÇÃO - COMPARECIMENTO ESPONTÂNEO - RÉU QUE MANIFESTOU EXPRESSA CIÊNCIA ACERCA DA TRAMITAÇÃO DO FEITO
+1. Nos termos do art. 239, § 1º, do CPC, "o comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução".
+2. Hipótese na qual o réu compareceu espontaneamente e juntou substabelecimento nos autos, tendo, em seguida, manifestado ciência da virtualização do feito, inclusive apontando documentos faltantes, o que indica que teve ciência inequívoca de todos os atos processuais praticados.
+3. Tendo ocorrido o comparecimento espontâneo após a decisão que determinou a citação, e não tendo o réu apresentado contestação, deve ser reconhecida a sua revelia.
+4. Recurso não provido.
+Os embargos de declaração foram rejeitados nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO - MEIO INIDÔNEO PARA CORRIGIR OS FUNDAMENTOS JURÍDICOS OU FÁTICOS DE UMA DECISÃO - MERA REITERAÇÃO DE ARGUMENTOS JÁ RECHAÇADOS DE FORMA FUNDAMENTADA NO ACÓRDÃO - DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA SOBRE DISPOSITIVOS INVOCADOS ALEATORIAMENTE PELA PARTE - CPC, ART. 489, § 1º - AUSÊNCIA DE OMISSÃO - PREQUESTIONAMENTO - INADEQUAÇÃO DO RECURSO - NECESSIDADE DA PRESENÇA DOS PRESSUPOSTOS DO ART. 1.022 DO CPC - REJEIÇÃO
+1. Os embargos de declaração não configuram a via adequada para obtenção da reforma da decisão que não atende aos interesses do recorrente.
+2. O entendimento adotado no acórdão embargado encontra-se suficientemente fundamentado e não incorre em omissão alguma.
+3. O magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, mas apenas aqueles capazes de, em tese, infirmar a conclusão por ele adotada (CPC, art. 489, § 1º, V).
+4. Ainda que os embargos de declaração se prestem para prequestionar determinada matéria, é preciso que estejam presentes os pressupostos do art. 1.022 do CPC.
+5. Ausente qualquer omissão, contradição, obscuridade ou erro material, impõe-se a rejeição dos aclaratórios.6. Embargos de declaração rejeitados.
+Nas suas razões recursais, com fundamento no art. 105, III, a e c, da Constituição Federal, a parte recorrente alega violação aos arts. 1.022, II, 105, 231, § 1º, 239, § 1º, 242, 489, § 1º, I, IV, do CPC/2015, assim como ao art. 17, caput e § 7º, da Lei 8.429/92.
+É o relatório.
+Decido.
+De início, quanto aos arts. 489, § 1º, I, IV e 1.022, II, do CPC/2015, não se reconhece a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem dirimiu as questões necessárias à solução da lide de forma suficientemente fundamentada. Destaque-se que "não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (STJ, AgInt no REsp 2.072.333/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2023).
+Da leitura do apelo especial, é possível verificar que a parte recorrente alega vício no acórdão recorrido insistindo na tese segundo a qual "não há como pressupor, a partir da juntada de simples substabelecimento, destituído de poderes especiais para receber citação, que a parte interessada teve ciência inequívoca do recebimento da ação, sem a formalização do indispensável ato de citação. Até porque, o termo "inequívoca", não admite dúvidas". Ainda, defende que "não é diferente em relação à manifestação sobre a virtualização do processo. Embora citada a "ausência de páginas e/ou números em alguns documentos do processo", não se confirmou a indispensável ciência inequívoca do recorrente acerca de todos os atos praticados no feito (fl. 2.026).
+Por outro lado, ao dirimir a controvérsia, o Tribunal de origem consignou o seguinte:
+No caso dos autos, em que pese não tenha se concretizado a citação, observa-se que, depois da decisão de origem que recebeu a inicial e determinou a citação do réu para apresentação de contestação, o agravante compareceu nos autos para juntar substabelecimento sem reservas.
+Além disso, o recorrente compareceu novamente nos autos por meio da petição de Ordem 18, na qual manifestou ciência da virtualização do processo. Observa-se que, na referida petição, o réu aponta falhas no procedimento de conversão dos autos físicos para virtuais, elencando algumas páginas que estariam ausentes.
+Diante da referida manifestação, não há dúvidas de que o réu estava ciente da tramitação do feito e da ordem de citação para apresentação de contestação, haja vista que manifestou ciência acerca de todos os atos praticados nos autos físicos.
+Nesse diapasão, não é possível acolher a tese do recorrente de que não houve comparecimento espontâneo, ainda que não conste, no instrumento de mandado, o poder de receber citação (fl. 1.973).
+Com efeito, a jurisprudência deste STJ entende que "o peticionamento nos autos por parte de advogado destituído de poderes especiais para receber citação, e sem a apresentação de defesa, não poderia configurar comparecimento espontâneo apto a suprir a necessidade de citação, sob pena de comprometer o devido processo legal. Nessa linha: AgRg. no AREsp. 410.070/PR, relatora Ministra Eliana Calmon, Segunda Turma, julgado em 26/11/2013, DJe de 3/12/2013" ((AgInt no AREsp n. 2.335.165/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/10/2023, DJe de 18/12/2023).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. ALEGAÇÃO DE REVELIA. REJEIÇÃO. COMPARECIMENTO ESPONTÂNEO NOS AUTOS. AFASTAMENTO. JUNTADA DE PROCURAÇÃO SEM PODERES ESPECIAIS. ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Esta Corte firmou o entendimento de que o peticionamento nos autos por advogado destituído de poderes especiais para receber a citação não configura comparecimento espontâneo apto a suprir tal necessidade. Precedentes.
+2. Na espécie, o Tribunal de origem afirmou não verificar, "nos autos de origem, antes da prolatação do decisum impugnado, que tenha sido juntada, por parte dos causídicos dos Agravados, procuração com poderes especiais para o recebimento de citação, de forma a configurar o comparecimento espontâneo destes", atraindo, portanto, a incidência da Súmula 83/STJ.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial (AgInt no AREsp n. 2.411.942/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/3/2024, DJe de 18/3/2024).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. COMPARECIMENTO ESPONTÂNEO NOS AUTOS. ADVOGADO SEM PODERES ESPECIAIS PARA RECEBER CITAÇÃO. REVELIA. DECRETAÇÃO. NÃO CABIMENTO.
+1. Conforme entendimento consolidado do Superior Tribunal de Justiça, em regra, o peticionamento nos autos por parte de advogado destituído de poderes especiais para receber citação não pode configurar comparecimento espontâneo apto a suprir a necessidade de sua realização.
+ ..
+3. Agravo interno não provido (AgInt no AREsp n. 1.562.428/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/8/2020, DJe de 17/8/2020).
+Isso posto, com fundamento no art. 255, § 4º, II e III, do RISTJ, dou parcial provimento ao recurso especial para reconhecer a nulidade da citação de Maurício Toledo Jacob.
+Intimem-se.
+EMENTA
