@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA - MPSC com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - TJSC em julgamento da Apelação Criminal n. 5006729-09.2020.8.24.0067.
+Consta dos autos que o recorrido foi condenado pela prática do delito tipificado no art. 155 do Código Penal - CP (furto simples ) , à pena de 1 ano, 2 meses e 16 dias de reclusão, em regime inicial aberto, substituída em duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 2 salários-mínimos, além de 13 dias-multa (fl. 13).
+Recurso de apelação interposto pela defesa foi parcialmente provido para "reduzir o valor da prestação pecuniária para 1 (um) salário mínimo  0,16 deste importe" (fl. 244). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO SIMPLES, POR TRÊS VEZES (ART. 155, CAPUT, NA FORMA DO 71, AMBOS DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA RESTRITO À DOSIMETRIA.
+ALMEJADA REDUÇÃO AO MÍNIMO LEGAL DO VALOR DA PRESTAÇÃO PECUNIÁRIA ARBITRADA EM 2 (DOIS) SALÁRIOS MÍNIMOS. CABIMENTO EM PARTE. QUANTUM QUE DEVE OBSERVAR A PENA CORPÓREA IMPOSTA E A SITUAÇÃO FINANCEIRA DO AGENTE. PENA PRIVATIVA DE LIBERDADE AUMENTADA NO PATAMAR COMUMENTE UTILIZADO EM RAZÃO DOS MAUS ANTECEDENTES. AUSÊNCIA DE FUNDAMENTAÇÃO PLAUSÍVEL À ELEVAÇÃO OPERADA NA PENA SUBSTITUTIVA. ALÉM DO MAIS, VERIFICADA HIPOSSUFICIÊNCIA ECONÔMICA DO APELANTE, ASSISTIDO PELA DEFENSORIA PÚBLICA. IMPORTE QUE DEVE SER REDUZIDO PARA 1 (UM) SALÁRIO MÍNIMO DA ÉPOCA DOSFATOS  0,16 DESTE IMPORTE. CRITÉRIO DO ART. 45, § 1º, DO CÓDIGO PENAL. SENTENÇA REFORMADA NO PONTO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fl. 245).
+Em sede de recurso especial (fls. 252/262), o MPSC apontou violação aos arts. 45, § 1º, e 49, §1º, ambos do CP, pois o TJSC reduziu indevidamente o valor da prestação pecuniária aplicada em desfavor do recorrido, já que utilizou, para tanto, parâmetro errôneo. A acusação afirma que o parâmetro do valor do salário-mínimo a ser fixado a título de prestação pecuniária deve ser aquele vigente ao tempo do pagamento e não o vigente à época do fato delitivo, segundo o mais recente entendimento jurisprudencial.
+Requer o estabelecimento como parâmetro para o pagamento da prestação pecuniária o salário-mínimo vigente ao tempo do pagamento.
+Contrarrazões (fls. 267/271).
+Admitido o recurso no TJSC (fls. 275/277), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 291/296).
+É o relatório.
+Decido.
+Sobre a violação aos arts. 45, § 1º, e 49, § 1º, ambos do CP, verifica-se que o TJSC reduziu o montante da pena de prestação pecuniária imposta ao recorrido já em sentença, utilizando como parâmetro valorativo o salário mínimo vigente à época dos fatos. É o que se lê nos seguintes termos do voto do relator:
+"Outrossim, verifica-se que o apelante é assistido pela Defensoria Pública, o que faz presumir sua hipossuficiência, tanto que lhe foi deferido o benefício da gratuidade da justiça na sentença, o que revela que o montante fixado como prestação pecuniária é exacerbado.
+Portanto, nesse contexto, necessário o abrandamento do valor da prestação pecuniária para 1 (um) salário mínimo vigente à época dos fatos  0,16 deste importe, quantum de aumento proporcional ao 1/6 (um sexto) em razão dos antecedentes criminais." (fl. 244).
+Não obstante, o entendimento sustentado pelo tribunal de origem vai de encontro à mais atual jurisprudência desta Corte. Esta, por sua vez, posiciona-se no sentido de que a base de cálculo para a pena de prestação pecuniária deve ser a do salário mínimo vigente quando do seu efetivo pagamento e não o salário mínimo vigente à época da prática criminosa. Nesse sentido, citam-se alguns precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO MEDIANTE FRAUDE. DESCLASSIFICAÇÃO DA CONDUTA PARA ESTELIONATO. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DA PENA RESTRITIVA DE PRESTAÇÃO PECUNIÁRIA UNICAMENTE POR MULTA. MEDIDA NÃO SOCIALMENTE RECOMENDÁVEL. PRESTAÇÃO PECUNIÁRIA. SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO PAGAMENTO. RECURSO NÃO PROVIDO.
+ ..
+3. "A pena restritiva de direitos consistente na prestação pecuniária deve ser calculada com base no salário mínimo vigente à época do pagamento e não com base no valor ao tempo dos fatos" (EDcl no AgRg no REsp n. 1.954.147/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 13/9/2022, DJe de 16/9/2022).
+4. Agravo regimental não provido.
+(AgRg no HC n. 759.296/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 12/3/2024, DJe de 15/3/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO EXECUTÓRIA NÃO CONFIGURADA. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. PRESTAÇÃO PECUNIÁRIA. SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO PAGAMENTO.
+ ..
+3. A pena restritiva de direitos consistente na prestação pecuniária deve ser calculada com base no salário mínimo vigente à época do pagamento e não com base no valor ao tempo dos fatos.
+4. Embargos de declaração acolhidos para, afastada a prescrição executória, fixar a pena de prestação pecuniária em um salário mínimo vigente à época do pagamento.
+(EDcl no AgRg no REsp n. 1.954.147/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PRIVILEGIADO TENTADO (ART. 155, § 2º E § 4º, IV, C/C ART. 14, II, AMBOS DO CP). PRESTAÇÃO PECUNIÁRIA. CÁLCULO. SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. APLICAÇÃO ANALÓGICA DO ART. 49, § 1º, DO CP. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena restritiva de direitos consistente na prestação pecuniária deve ser calculada com base no valor do salário mínimo vigente à época do pagamento (EDcl no HC 529.379/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 16/3/2020). É que a prestação pecuniária e a pena de multa são institutos diversos, com consequências jurídicas diversas, de modo que não é possível a aplicação analógica do disposto no art. 49, § 1º, do Código Penal.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.983.585/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe proviment o, para que seja observado como parâmetro de pagamento da prestação pecuniária o salário-mínimo vigente ao tempo do pagamento da sanção.
+Publique-se. Intimem-se.
+ EMENTA
