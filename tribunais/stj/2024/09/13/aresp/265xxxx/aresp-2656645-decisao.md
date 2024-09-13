@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por P. de B. C. M. (menor), representado por F. A. M. R. e R. C. de B. C. com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 468):
+"DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO DOMICILIAR. HORMÔNIO DO CRESCIMENTO. NEGATIVA DE COBERTURA. LICITUDE.
+1. Medicamento de uso domiciliar para reposição de hormônio do crescimento em paciente com baixa estatura não éde cobertura obrigatória pela operadora de plano de saúde, por não se tratar de medicamento oncológico ou utilizadoem internação domiciliar, e por não haver a urgência caracterizada pelo risco à vida do paciente.
+2. Apelação improvida."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 502-507).
+O recorrente alegou, nas razões do recurso especial (e-STJ, fls. 515-528), a violação dos arts. 1.022 do Código de Processo Civil de 2015; 10, VI, e 35-C da Lei n. 9.656/1998; 51, I, IV, do Código de Defesa do Consumidor, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional; e ser indevida a negativa de cobertura de aplicação domiciliar, aduzindo que o medicamento em questão (somatropina) é de uso controlado, específico e necessita de acompanhamento médico contínuo, com limites de doses avaliadas.
+Foram apresentadas contrarrazões (e-STJ, fls. 575-586).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a incidência da Súmula 7/STJ; e a ausência de comprovação do dissídio jurisprudencial alegado (e-STJ, fls. 596-599).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação do art. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, que, expôs de forma suficientemente fundamentada as razões pelas quais entendeu pela improcedência da ação rescisória, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É firme na jurisprudência desta Corte Superior o entendimento no sentido de que "no âmbito da ação rescisória fundamentada na existência de manifesta violação da legislação federal, é vedado à parte autora trazer inovação argumentativa que não foi oportunamente debatida no acórdão rescindendo. (AgInt na AR 5.948/RJ, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 10/04/2019, DJe 16/04/2019).
+3. No caso, o Tribunal de origem limitou-se a apreciar a improcedência da ação rescisória em razão da ausência de violação literal de lei e inovação argumentativa, não tendo se manifestado sobre a ocorrência de prescrição ou ofensa ao princípio da adstrição. Desse modo, a ausência de debate, pelo Tribunal de origem, sobre o conteúdo normativo dos arts. 191, 193, 205, 206, 2028 do Código Civil e 278, 487 e 492 II, do CPC/15 impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.033.880/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022).
+O Tribunal de origem, ao julgar a apelação, consignou o seguinte excerto (e-STJ, fls. 464-465):
+Nos termos do art. 10, VI, da lei 9.656/98, está excluído da cobertura assistencial mínima prestada pelas operadoras de planos de saúde, o fornecimento de medicamento para tratamento domiciliar, ressalvados os medicamentos antineoplásicos e para o controle de efeitos colaterais e adversos dos medicamentos antineoplásicos. In verbis:
+(..)
+Em reforço, a resolução normativa nº 428/2017 da ANS dispõe que são permitidas as exclusões assistenciais referentes ao fornecimento de medicamentos para tratamento domiciliar, assim considerados "aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde", com exceção dos medicamentos oncológicos e os necessários para o controle dos seus efeitos adversos, bem como os utilizados em internação domiciliar.
+Admite-se, entretanto, interpretação extensiva do art. 10, VI, da lei 9.656/98, levando-se em conta a natureza do contrato de plano de saúde e a sua finalidade precípua de proteção à vida e à saúde do contratante -, para abranger o medicamento ministrado pororientação do médico assistente fora do regime de internação hospitalar, em caso de urgência e emergência, em que o risco à vida se revele presente.
+Não é a hipótese dos autos.
+Com efeito, o tratamento medicamentoso pleiteado não se apresenta como terapiafundamental para a vida do paciente, mormente porque o laudo do médico assistentejustifica a urgência do início do tratamento com o medicamento requisitado tão somente nofato de o menor ficar com altura final muito abaixo do padrão familiar e populacional.
+Anote-se, por relevante, que eventuais transtornos psicológicos futuros, encontram-se nomero campo abstrato da possibilidade, e não da probabilidade.
+Verifica-se, portanto, que o art. 10, VI, da Lei 9.656/1998 não limita a cobertura de medicamentos ao ambiente de internação hospitalar, havendo previsão de obrigatoriedade de custeio de antineoplásicos orais e correlacionados, medicação assistida - home care ou os que necessitam de supervisão direta de profissional habilitado em saúde, além dos medicamentos expressamente previstos no rol da ANS.
+No que tange ao Genotropin (princípio ativo Somatropina), em consulta à bula do medicamento, constata-se que o fármaco, não se amolda às hipóteses de medicação intravenosa ou injetável que necessite de supervisão direta de profissional habilitado em saúde, sendo considerado, portanto tratamento domiciliar (Disponível em: numero Registro=121100459>).
+Nesse cenário, tem-se, portanto, que o medicamento Somatropina não se está nas hipóteses de inclusão legal de cobertura de medicamento de uso domiciliar, de modo que, em não se tratando de medicamento de administração intravenosa, a recusa de custeio ao tratamento por parte do plano de saúde nã o pode ser considerada abusiva.
+Dessa forma, o acórdão recorrido julgou em conformidade com entendimento desta Corte, incidindo a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos de 15% para 17% sobre o valor atualizado da causa .
+Publique-se.
+EMENTA
