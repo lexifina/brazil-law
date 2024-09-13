@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CARLOS FELIPE DE SANTIS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA. ENERGIA ELÉTRICA. ALEGAÇÃO DE COBRANÇA DE VALOR INCOMPATÍVEL COM A MÉDIA DE CONSUMO DURANTE O PERÍODO DE JANEIRO A MARÇO DE 2020. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE CONDENOU A RÉ A REFATURAR AS CONTAS DE JANEIRO, FEVEREIRO E MARÇO DE 2020 E A INDENIZAR OS DANOS MORAIS NO PATAMAR DE R$ 5.000,00. APELO DA RÉ. ANÁLISE DO HISTÓRICO DAS FATURAS EM COTEJO COM AS TELAS SISTÊMICAS APRESENTADAS PELA CONCESSIONÁRIA QUE NÃO INDICA IRREGULARIDADE. MEDIÇÕES DE CONSUMO SEMELHANTES ÀQUELAS OBTIDAS NO MESMO PERÍODO DO ANO ANTERIOR. ALTA DE INTERNAÇÃO DA ESPOSA DO AUTOR/APELADO QUE OCORREU NO INÍCIO DO MÊS DE JANEIRO DE 2020. INEXISTÊNCIA DE COMPROVAÇÃO DE QUE O IMÓVEL PERMANECEU VAZIO. PATAMAR VERIFICADO QUE SE ENQUADRA NA ALTERAÇÃO RAZOÁVEL DE CONSUMO DE ENERGIA ELÉTRICA EM RAZÃO DO CALOR CARACTERÍSTICO DO PERÍODO DO ANO. ALEGAÇÃO DE COBRANÇA EXCESSIVA NAS FATURAS QUE CARECE DE VEROSSIMILHANÇA. AUTOR/APELADO QUE NÃO LOGROU COMPROVAR MINIMAMENTE OS FATOS CONSTITUTIVOS DO DIREITO. INTELIGÊNCIA DA SÚMULA 330 DESTA CORTE. PRECEDENTES. REFORMA INTEGRAL DA SENTENÇA. RECURSO PROVIDO (fls. 266/267).
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, a parte recorrente alega divergência de interpretação dos arts. 4º e 6º, VIII, do CDC; e 373, II, do CPC, no que concerne à inaptidão da apresentação, pela parte ré, de telas sistêmicas de produções unilaterais para a comprovação da origem da dívida, trazendo a seguinte argumentação:
+Conforme mencionado acima, vários são os julgados que fundamentam que a apresentação de telas sistêmicas, impugnadas, são provas unilaterais e de fácil manipulação por quem as produz, vejamos o r. acórdão abaixo, proferido pela 17ª Câmara Cível do Tribunal de Justiça de Minas Gerais, Trigésima Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulo e Quarta Câmara Cível do Tribunal de Justiça da Bahia:
+ ..
+O acórdão de fls. 267/274, ao considerar as telas impugnadas pelo Recorrente, para a modificação da sentença do Juízo a quo, destoa do entendimento do Superior Tribunal de Justiça que repele a averiguação unilateral da dívida, principalmente com a apresentação de telas de produção unilateral.
+Inúmeros são os Tribunais que mantém o entendimento que a apresentação de telas sistêmicas de produções unilaterais, são insuficientes para comprovação do alegado.
+ ..
+É importante salientar, que nos autos o ônus da prova foi invertido em favor do Recorrente e mesmo após a intimação do Recorrido para que este se manifestasse em provas, o mesmo deixou de fazê-lo, sequer apresentando prova pericial que pudesse confirmar suas alegações.
+O Recorrido limitou-se a apresentar no bojo de sua peça de defesa telas sistêmicas, impugnadas pelo Recorrente em réplica.
+ ..
+As alegações da Concessionária Recorrida ficaram restritas ao campo da suposição, não se desincumbindo, pois, de comprovar fato extintivo, impeditivo ou modificativo do direito da parte Recorrente (art. 373, inciso II, do CPC), uma vez que invertido o ônus da prova em favor do consumidor.
+ ..
+A modificação em sua totalidade da r. sentença de fls. 223/225 vai em sentido oposto a diversos julgados no mesmo sentido em que a parte contrária precisa comprovar suas alegações, justificando detalhadamente o porquê dos aumentos das cobranças, o que poderia ter sido feito pela Recorrida através de uma prova pericial, porém, a mesma sequer solicitou, lembrando que o ônus da prova estava invertido em favor do Recorrente (fls. 323/328). (
+É o relatório.
+Decido.
+Quanto à controvérsia, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento d a tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 25.3.2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17.12.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
