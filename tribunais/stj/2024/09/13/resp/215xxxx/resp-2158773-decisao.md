@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de dois recursos especiais.
+O primeiro foi interposto por JOÃO GUILHERME FIGUEIREDO WHITAKER (EM RECUPERAÇÃO JUDICIAL) com fundamento no art. 105, III, a e c, da Constituição Federal.
+Em suas razões recursais, o recorrente alega violação dos arts. 6º, caput, III, e §§ 4º e 7º-A, 47, 49, § 3º, e 76, caput, da Lei n. 11.101/2005; arts. 122 e 489 do Código Civil; art. 24, VI, da Lei n. 9.514/1997; e art. 85, § 11, do Código de Processo Civil, além de divergência jurisprudencial (fls. 2.528-2.570).
+O segundo recurso especial foi interposto por ITAIQUARA ALIMENTOS S.A. (EM RECUPERAÇÃO JUDICIAL) e OUTROS, com fundamento no art. 105, III, a e c, da Constituição Federal.
+Em suas razões recursais, os recorrentes alegam violação dos arts. 6º, §§ 4º e 7º-A, 47, 49, § 3º, caput, da Lei n. 11.101/2005, além da divergência jurisprudencial (fls. 3.000-3.037).
+Foram apresentadas contrarrazões (fls. 2.927-2.976 e 3.070-3.108).
+Em juízo prévio de admissibilidade, os recursos especiais foram admitidos (fls. 3.150-3.154).
+É o relatório. Decido.
+Os recursos especiais foram opostos contra acórdão assim ementado:
+Alienação fiduciária. Ação declaratória. Consolidação de propriedade fiduciária de imóvel. Devedor em recuperação judicial. Superado o stay period, a essencialidade do bem não impede a sua retomada pelo credor fiduciário. Exegese do Enunciado III do Grupo de Câmaras Reservadas de Direito Empresarial. Precedente deste E. Tribunal de Justiça.
+Recurso provido.
+A controvérsia limita-se à seguinte questão: possibilidade, ou não, de retomada dos atos de consolidação da propriedade fiduciária sobre bem imóvel considerado essencial à atividade de empresa em recuperação judicial, após o decurso do stay period.
+Na origem, JOÃO GUILHERME FIGUEIREDO WHITAKER (EM RECUPERAÇÃO JUDICIAL) formulou pedido de tutela de urgência antecipada requerida em caráter antecedente para suspender, de imediato, a eficácia de qualquer intimação de pagamento emitida pelo Oficial de Registro de Imóveis da Comarca de Mococa, a pedido do requerido, envolvendo o imóvel matriculado sob o n. 20.454, dado em garantia em contrato de Cédula de Crédito Bancário com cláusula de alienação fiduciária, evitando-se a consolidação enquanto não expirado o stay period.
+Em primeira instância, o Juízo de origem reconheceu a essencialidade do imóvel dado em garantia para a empresa recuperanda, da qual o autor também é sócio, e acolheu o pedido para impedir a consolidação da propriedade em favor da instituição financeira (fls. 2.178-2.185).
+Interposta apelação, a 34ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu provimento ao recurso e julgou improcedente o pedido (fls. 2.444-2.451).
+Nesse contexto, o Tribunal de origem entendeu que o imóvel dado em garantia em contrato com cláusula de alienação fiduciária, considerado essencial em primeira instância, poderia ter sua propriedade consolidada em favor da instituição financeira após o encerramento do stay period.
+O trecho do voto do relator no acórdão recorrido (fls. 2.447-2.450) destaca:
+De início, convém anotar que a Lei nº 14.112/2020 acrescentou ao art. 6º da Lei nº 11.101/2005 o §7º-A, o qual limita ao prazo de suspensão a que se refere o § 4º do mesmo dispositivo legal a competência do juízo da recuperação judicial para decidir sobre a suspensão dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial.
+Ademais, conforme já consignado no v. acórdão de fls.972/975 (v. 37.148), ainda que inequívoca a essencialidade dos bens, nos termos do Enunciado III do Grupo de Câmaras Reservadas de Direito Empresarial, "Escoado o prazo de suspensão de que trata o §4º, do art. 6º da Lei nº 11.101/05 (stay period), as medidas de expropriação pelo credor titular de propriedade fiduciária de bens móveis ou imóveis, de arrendador mercantil, de proprietário ou promitente vendedor, poderão ser retomadas, ainda que os bens a serem excutidos sejam essenciais à atividade empresarial".
+(..)
+Enfim, nos termos do art. 6º, § 7-A e do art. 49, § 3º, parte final, da Lei nº 11.101/20051, é vedada a retomada do bem pelo credor fiduciário somente durante o prazo de suspensão a que se refere o §4º do art. 6º da lei de regência.
+In casu, houve o exaurimento do prazo de suspensão, motivo pelo qual não há impedimento à consolidação da propriedade.
+(..)
+Ante o exposto, dou provimento ao recurso para reformar a r. sentença e julgar o pedido improcedente.
+O entendimento do Tribunal de origem, no entanto, diverge do Superior Tribunal de Justiça, que impede a retomada do bem dado em garantia, mesmo após o stay period, quando o juízo da recuperação considera o bem essencial à superação da crise econômico-financeira do devedor, preservando a fonte produtora.
+Nesse sentido, cita-se:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. ALIENAÇÃO FIDUCIÁRIA. CRÉDITOS EXTRACONCURSAIS. ESGOTAMENTO DO STAY PERIOD. ATOS EXPROPRIATÓRIOS. JUÍZO DA RECUPERAÇÃO JUDICIAL. ORIENTAÇÃO DA 2ª SEÇÃO DO STJ.
+1. Recuperação judicial.
+2. A 2ª Seção do STJ possui orientação jurisprudencial no sentido de que, mesmo que ultrapassado o período de suspensão (stay period) a que se refere o art. 6º, § 4º, da Lei n. 11.101/2005, compete ao juízo da recuperação judicial dispor acerca da essencialidade dos bens para a manutenção da atividade econômica da empresa, mesmo que se trate de alienação fiduciária em garantia, que não estaria sujeita aos efeitos da recuperação judicial (art. 49, § 3º). Precedentes.
+3. A continuidade de atos expropriatórios em juízo diverso poderá implicar alienação judicial de bens indispensáveis ao regular desenvolvimento das atividades da sociedade, inviabilizando o cumprimento do plano e violando o princípio de preservação da empresa.
+4. Agravo conhecido. Recurso especial conhecido e provido. (AREsp n. 2.442.651, Ministra Nancy Andrighi, DJe de 22/11/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. PRAZO DE SUSPENSÃO. ALIENAÇÃO FIDUCIÁRIA. ESSENCIALIDADE DO BEM. AVALIAÇÃO NECESSÁRIA.
+1. Ação ajuizada em 03/09/2012. Recurso Especial interposto em 19/08/2016 e concluso ao Gabinete em 24/03/2017. Julgamento: CPC/15.
+2. O propósito recursal é decidir se a ação de busca e apreensão deve prosseguir em relação à empresa em recuperação judicial, quando o bem alienado fiduciariamente é indispensável à sua atividade produtiva.
+3. A concessão de efeito suspensivo ao recurso especial deve ser pleiteada de forma apartada, não se admitindo sua inserção nas próprias razões recursais. Precedentes.
+4. O mero decurso do prazo de 180 dias previsto no art. 6º, § 4º, da LFRE não é bastante para, isoladamente, autorizar a retomada das demandas movidas contra o devedor, uma vez que a suspensão também encontra fundamento nos arts. 47 e 49 daquele diploma legal, cujo objetivo é garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da recuperanda. Precedentes.
+5. Apesar de credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial (art. 49, §3º, da Lei 11.101/05). Precedentes.
+6. Recurso especial conhecido e parcialmente provido. (REsp n. 1660893/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2017, DJe de 14/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AGRAVANTE.
+1. Compete ao juízo da recuperação judicial a prática de atos de execução (constritivos/expropriatórios) deduzidos em face do patrimônio da empresa recuperanda, mesmo após o transcurso do prazo de 180 dias de suspensão, previsto no art. 6º, § 4º, da Lei 11.101/05. 2
+2. Segundo orientação jurisprudencial firmada por esta Corte Superior de Justiça, os credores cujos créditos não se sujeitam ao plano de recuperação, mesmo aqueles garantidos por alienação fiduciária, não podem expropriar bens essenciais à atividade empresarial, sob pena de subvertendo-se o sistema, conferir maior primazia à garantia real em detrimento do princípio da preservação da empresa.
+2.1.Em razão de os imóveis dados em garantia fiduciária constituírem o local onde são exercidas atividades de administração, gerenciamento, plantio e produção de maçãs (objeto social das recuperandas), não se revela possível a consolidação da propriedade fiduciária em favor da parte credora.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1677661-SC 2020/0058035-0, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/10/2020, DJe de 23/10/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. BEM ESSENCIAL ÀS ATIVIDADES DA EMPRESA RECUPERANDA. IMPOSSIBILIDADE DE REMOÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "O prazo de suspensão das ações e execuções poderá ser ampliado para garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da recuperanda" ( AgInt no AREsp 1.087.323/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/03/2020, DJe de 26/03/2020).
+2. "Apesar de o credor titular da posição de proprietário fiduciário de bens móveis ou imóveis não se submeter aos efeitos da recuperação judicial, o juízo universal é competente para avaliar se o bem é indispensável à atividade produtiva da recuperanda. Nessas hipóteses, não se permite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial (art. 49, § 3º, da Lei 11.101/05)" ( REsp 1.660.893/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/08/2017, DJe de 14/08/2017).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.732.379/MS, relator Ministro Raul Araújo, Quarta Turma, DJe de 13/4/2021.)
+Nessa parte o recurso deve ser conhecido e provido para restabelecer a sentença de 1º grau.
+i) arts. 85, § 11, do Código de Processo Civil, 122 e 489 do Código Civil e 24, VI, da Lei n. 9.514/1997
+O acórdão recorrido não abordou os dispositivos mencionados, e não foram opostos embargos de declaração.
+De acordo com a reiterada jurisprudência do Superior Tribunal de Justiça, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+Desta forma, a ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF:
+Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Assim, o recurso, nesse ponto, não deve ser conhecido, conforme as Súmulas n. 282 e 356 do STF.
+Ante o exposto, conheço parcialmente dos recursos especiais e dou-lhes provimento para restabelecer a sentença de 1º grau .
+Registre-se. Intimem-se.
+EMENTA
