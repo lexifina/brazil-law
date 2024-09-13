@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO DAYCOVAL S/A, originado nos autos de agravo de instrumento interposto contra decisão que, nos autos de recuperação judicial das empresas PETRONUNESTRANSP. REV. E RET. DE DER. DE PETROLEO LTDA. E OUTRA, declarou a essencialidade dos bens objetos da ação de busca e apreensão n. 0306627-77.2017.8.24.0075, sob fundamento de que "tratam-se de caminhões de propriedade das recuperandas utilizados para as atividades de distribuição e abastecimento dos combustíveis para os clientes, portanto indispensáveis e essenciais às atividades desenvolvidas" (fl. 17 e-STJ), determinando a devolução ou a abstenção de apreender tais veículos.
+Ocorre que, conforme o ofício de fls. 359/368 e-STJ, foi prolatada sentença na recuperação judicial, encerrando o procedimento. Consta da decisão o seguinte (fl. 365 e-STJ):
+"Aqueles que, não constando do quadro geral de credores, e pretendendo postular em juízo as suas pretensões creditórias contra a recuperanda, deverão retomar e/ou ingressar com as execuções individuais, que devem seguir, com normalidade, a marcha processual.
+Sob este enfoque, o entendimento cristalizado e pacificado no âmbito do colendo Superior Tribunal de Justiça, no sentido de que a expropriação de bens da recuperanda, seja o crédito sujeito ou não à recuperação judicial, passará pela análise e autorização do juízo recuperacional, não será mais aplicável no âmbito deste juízo, em razão do encerramento deste feito".
+Em face do exposto, julgo prejudicado o presente recurso, em face da superveniente perda do objeto .
+Intimem-se.
+EMENTA
