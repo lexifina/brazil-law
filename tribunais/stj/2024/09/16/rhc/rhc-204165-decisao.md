@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por DECIO APARECIDO MORAES DA SILVA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2056589-41.2024.8.26.0000).
+Depreende-se dos autos que o ora recorrente e demais investigados foram denunciados como incursos no art. 2º, § 2º, da Lei n. 12.850/2013 e no art. 35 da Lei n. 11.343/2006.
+Impetrado prévio habeas corpus, o Tribunal de origem denegou a ordem, em acórdão assim ementado (e-STJ fl. 86):
+Habeas Corpus - Tráfico de drogas - Habeas Corpus impetrado contra decisão da magistrada da instrução que indeferiu a oitiva de testemunha protegida, pela preclusão consumativa - Pleito objetivando a suspensão do processo. Requer seja determinada ao Juízo a tomada de providências visando a localização do paradeiro da testemunha protegida, com expedição de ofícios aos órgãos públicos. Não cabimento - A presidência do processo penal cabe ao juiz da causa, sendo perfeitamente possível o indeferimento de produção de provas que ele repute irrelevantes, impertinentes ou protelatórias, conforme previsto no artigo 400, §1º, do Código de Processo Penal, desde que em decisão fundamentada - Precedentes - Ordem denegada, com determinação.
+Daí o presente recurso ordinário, no qual a defesa alega a existência de nulidade por cerceamento de defesa, consubstanciada no indeferimento do pedido de produção de prova oral (oitiva da testemunha protegida).
+Requer, desse modo (e-STJ fls. 116/117):
+i. inicialmente seja concedido liminar para que suspenda o feito de imediato, pois sua continuidade resultará em perda do objeto deste writ, para que a defesa do paciente Décio possa exercer seu direito de ouvir a testemunha protegida, nos exatos termos que peticionou em folhas 3067/3077 (que foram retirados dos autos sem justificativa), e nos exatos termos da legislação em vigor;
+ii. na concessão da liminar para suspensão do feito, devendo a MM. Juíza por ordem deste Superior Tribunal buscar por todos os meios que a justiça possui a localização do endereço da testemunha protegida e ainda a defesa trará informações de endereços onde à mesma possa ser localizada, para ser intimada e vir prestar seu depoimento;
+iii. seja afastado a preclusão consumativa que a MM. Juíza singular decretou em folhas 3075/3081, vez que tal decisão não faz sentido algum, pois a defesa do paciente Décio ficou sabendo de forma verbal no dia 21/02/2024 em audiência de que a testemunha protegida não tinha sido encontrada no endereço outrora fornecido e com isso atropelando a instrução processual indeferiu pleito de pesquisas junto ao sisbajud, renajud e etc, alegando que cabe a defesa realizar de forma administrativa, coisa que NÃO EXISTE TAL SITUAÇÃO JUNTO AO TJSP, pois tais pesquisas é realizada sempre processualmente;
+iv. Outrossim, quando do julgamento deste ROC, seja dado provimento total ao pleito, pois a defesa apenas está exercendo seu direito constitucional da ampla e irrestrita defesa e que essa testemunha é de vital importância para o desfecho da lide;
+É, em síntese, o relatório.
+Decido.
+D epreende-se dos autos que o presente recurso é mera reiteração do pedido feito no HC n. 935.194/SP, também de minha relatoria, no qual já proferi decisão denegando a ordem.
+Ante o exposto, diante da constatação de que o presente recurso é mera reiteração, indefiro-o liminarmente com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
