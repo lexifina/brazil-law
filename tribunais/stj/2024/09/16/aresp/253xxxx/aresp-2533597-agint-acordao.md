@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada não conheceu do agravo em recurso
+especial, em razão do óbice contido na Súmula n. 182/STJ. Contudo, nas razões do agravo interno, a parte agravante não impugnou, novamente, de forma específica, o fundamento da decisão agravada.
+3. A falta de impugnação específica do fundamento da decisão agravada
+inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, §1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por MUNICÍPIO DE LENÇÓIS PAULISTA contra decisão desta Corte, que não conheceu do agravo em recurso especial, ante o óbice da Súmula n. 182/STJ.
+A parte agravante alega que "não prosperam os argumentos apresentados pelo N. Relator, vez que as razões recursais são juridicamente suficientes à revisão do caso, algo que, diga-se, não implica em reexame de fatos e provas." (f. 963).
+Tece considerações sobre diversas teses, assim resumidas: (a) "DO SEGUIMENTO DO RECURSO ESPECIAL - ALÍNEA "A" DO ARTIGO 105 DA CF - DESRESPEITO À LEGISLAÇÃO - ARTIGO 944 DO CÓDIGO CIVIL - INEXISTÊNCIA DE REVOLVIMENTO DE MATÉRIA, SÚMULA 7 STJ"; (b) "DO SEGUIMENTO DO RECURSO ESPECIAL - ARTIGO 105, INCISO III, "c", CONSTITUIÇÃO FEDERAL"; (c) "DO DESCUMPRIMENTO AO ARTIGO 435, PARÁGRAFO ÚNICO C/C ARTIGO 1.014 DO CÓDIGO DE PROCESSO CIVIL"; (d) "DO DESCUMPRIMENTO AO ARTIGO 509, INCISO II DO CÓDIGO DE PROCESSO CIVIL"; (e) "DO DESCUMPRIMENTO AO ARTIGO 944 E SEU PARÁGRAFO ÚNICO"; (f) "DOS ACÓRDÃOS PARADIGMAS - DIVERGÊNCIA JURISPRUDENCIAL DEVIDAMENTE COMPROVADA NAS RAZÕES DO RECURSO ESPECIAL".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso no qual a decisão agravada não conheceu do agravo em recurso
+especial, em razão do óbice contido na Súmula n. 182/STJ. Contudo, nas razões do agravo interno, a parte agravante não impugnou, novamente, de forma específica, o fundamento da decisão agravada.
+3. A falta de impugnação específica do fundamento da decisão agravada
+inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, §1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão agravada não conheceu do agravo em recurso especial com supedâneo na Súmula n. 182/STJ, tendo por base a seguinte fundamentação (f. 956-957):
+Nos termos do que dispõe o artigo 544, § 4º, I, do CPC/73, compete à parte agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem. O normativo também faz parte do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se à parte recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão de não admissão do recurso especial concluiu pela incidência do óbice da Súmula n. 7/STJ e pela ausência de caracterização da divergência, conforme "art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ", ressaltando que, nos termos da jurisprudência do STJ, "para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, não sendo bastante a mera transcrição de ementas ou excertos de votos." (AgRg no REsp nº 1.512.655/MG, Rel. Min. ASSUSETE MAGALHÃES, DJe de 04/09/2015)"(f. 936-938).
+Ocorre que a parte agravante apresentou seu recurso prematuramente e não impugnou, especificamente, os fundamentos do decisum, em especial quanto à ausência de caracterização da divergência, nos termos legal e regimental, o que acarreta o não conhecimento do agravo, pela incidência da Súmula n. 182/STJ. Nesse sentido: AgRg no AREsp 581.718/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/10/2014; AgRg no AREsp 826.329/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 831.877/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 93.737/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 26/2/2016; AgRg no AREsp 704.988/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 10/9/2015; AgRg no AREsp 802.217/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2015; e AgRg no AREsp 834.978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/4/2016.
+Confiram-se, ainda, os seguintes julgados do Supremo Tribunal Federal: ARE 935.727 AgR/RS, Rel. Ministra Rosa Weber, Primeira Turma, DJe 15/4/2016; ARE 782.043 AgR/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 10/12/2015; ARE 678093 AgR, Rel. Ministro Teori Zavascki, Segunda Turma, DJe 20/4/2016.
+Ante o exposto, não conheço do agravo em recurso especial.
+Entretanto, a parte agravante novamente não impugnou, especificamente, o fundamento da decisão agravada, visto que se limitou a arguir, genericamente, o seguinte: "não prosperam os argumentos apresentados pelo N. Relator, vez que as razões recursais são juridicamente suficientes à revisão do caso, algo que, diga-se, não implica em reexame de fatos e provas." (f. 963).
+Tece considerações sobre diversas teses, assim resumidas: (a) "DO SEGUIMENTO DO RECURSO ESPECIAL - ALÍNEA "A" DO ARTIGO 105 DA CF - DESRESPEITO À LEGISLAÇÃO - ARTIGO 944 DO CÓDIGO CIVIL - INEXISTÊNCIA DE REVOLVIMENTO DE MATÉRIA, SÚMULA 7 STJ"; (b) "DO SEGUIMENTO DO RECURSO ESPECIAL - ARTIGO 105, INCISO III, "c", CONSTITUIÇÃO FEDERAL"; (c) "DO DESCUMPRIMENTO AO ARTIGO 435, PARÁGRAFO ÚNICO C/C ARTIGO 1.014 DO CÓDIGO DE PROCESSO CIVIL"; (d) "DO DESCUMPRIMENTO AO ARTIGO 509, INCISO II DO CÓDIGO DE PROCESSO CIVIL"; (e) "DO DESCUMPRIMENTO AO ARTIGO 944 E SEU PARÁGRAFO ÚNICO"; (f) "DOS ACÓRDÃOS PARADIGMAS - DIVERGÊNCIA JURISPRUDENCIAL DEVIDAMENTE COMPROVADA NAS RAZÕES DO RECURSO ESPECIAL".
+Assim, uma vez mais, aplica-se ao caso o disposto no art. 1.021, § 1º, do CPC/2015, ante o descumprimento do ônus da dialeticidade, de forma que incide à hipótese a Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. GRATUIDADE JUDICIÁRIA. INDEFERIMENTO. RECOLHIMENTO DO PREPARO. PEDIDO. INCOMPATIBILIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que os recorrentes não se desincumbiram do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. O regular recolhimento do preparo do recurso especial é ato incompatível com o pedido de gratuidade de justiça. Precedentes.
+4. Agravo interno não conhecido. (AgInt no AREsp n. 2.318.133/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.) (Grifei).
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida deu provimento ao recurso especial da parte contrária aplicando entendimento consolidado nesta Corte Superior acerca da possibilidade de alegação, a qualquer momento, de matéria de ordem pública, neste caso, a impenhorabilidade de bem de família.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, limitando-se a afirmar a impossibilidade de conhecimento do recurso especial, não se referindo ao tema de mérito.
+3. Aplicável ao caso em questão a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo interno não conhecido. (AgInt no AREsp n. 1.560.781/SE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023.) (Grifei).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
