@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS SOBRE O EXCESSO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado do Maranhão desafiando decisão que não conheceu do recurso especial, ante a incidência da Súmula 283/STF (fls. 86/87).
+O agravante defende a inaplicabilidade da referida súmula, sob o argumento de que "o apelo nobre da Fazenda Estadual pontuou que a fixação de honorários é imperativa na norma processual, independe de pedido expresso, pois decorre de comando legal explícito, e que o fato de ter havido o IAC não é causa excludente de honorários advocatícios, a sucumbência, resultante ou não de uma divergência que foi posteriormente pacificada, ainda é sucumbência. Senão vejamos:  ..  Dessa forma, Eminentes Ministros, resta demonstrado que não há que se falar em aplicação da Súmula 283/STF, uma vez que a Fazenda Pública enfrentou expressamente a questão levantada pela Corte de origem acerca da ausência de má-fé por parte da Agravada por não ter dado causa ao excesso, ocasião na qual sustentou que tais fatos são irrelevantes para a fixação da verba sucumbencial" (fls. 92/93).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 100).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. HONORÁRIOS ADVOCATÍCIOS SOBRE O EXCESSO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp n. 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp n. 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, o decisum agravado não merece reparos.
+Consoante anteriormente mencionado, no presente caso, o recurso especial não impugnou alicerce basilar que ampara o acórdão recorrido, qual seja, o de que "não há, pois, que se falar em má-fé da parte exequente, já que a definição do período correto da cobranca do direito buscado se deu por força de nova decisão judicial do Tribunal de Justica, interpretando os fatos que permearam a sentenca exequenda, o que se deu posteriormente ao ajuizamento do cumprimento de sentença donde se origina a decisão agravada.  ..  Dessarte, restando evidenciado que ao excesso não deu causa a exequente, deve ser excluído qualquer cálculo relacionado a condenação em honorários advocatícios sobre excesso de execução" (fls. 36/38), esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+Deve, portanto, ser mantida a decisão agravada por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
