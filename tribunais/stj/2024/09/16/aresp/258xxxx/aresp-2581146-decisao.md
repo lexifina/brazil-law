@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se  de  agravo em face de inadmissão de  recurso  especial  interposto  por  ZADIR TEREZINHA FELACIO VIEIRA.
+O apelo extremo,  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a" e "c",  da  Constituição  Federal,  insurge-se contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do Estado de Santa Catarina  assim  ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INTERLOCUTÓRIA QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECURSO DA EXECUTADA. AVENTADA PRESCRIÇÃO INTERCORRENTE. NEGLIGÊNCIA E INÉRCIA INJUSTIFICADA DO EXEQUENTE NÃO CARACTERIZADAS. ATOS PRATICADOS QUE FORAM EXITOSOS. EVIDENTE ESFORÇO DO AGRAVADO NA PERSECUÇÃO DO CRÉDITO EXECUTADO. PRESCRIÇÃO INTERCORRENTE NÃO OPERADA. DECISÃO MANTIDA. RECURSO DESPROVIDO"  (e-STJ fl.  69).
+No  recurso  especial,  a agravante  sustenta  violação  dos  artigos 921, § 4º,  do  Código  de  Processo  Civil  e 206, § 5º, do Código Civil.
+Menciona que "o prazo prescricional inicia a contar da ciência da primeira tentativa infrutífera de penhora, que OCORREU NO CASO EM TELA"  (e-STJ fl.  81).
+Contrarrazões  às  e-STJ fl.  98/103.
+É  o  relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame de recurso especial.
+A  insurgência  não  merece  prosperar.
+No tocante à prescrição intercorrente, o Tribunal de origem concluiu que:
+"(..)
+A controvérsia do reclamo cinge-se na eventual prescrição intercorrente do cumprimento de sentença.
+No caso em apreço, a ação monitória foi sentenciada em 03.06.2014, com o trânsito em julgado datado de 04.07.2014 e início do cumprimento de sentença na data de 16.10.2014.
+É incontroverso que, em se tratando de ação monitória que reconheceu a obrigação de pagar quantia certa oriunda de instrumento particular, o prazo prescricional é de 5 (cinco) anos, com fundamento no art. 206, § 5º,I do Código Civil c/c a Súmula 150 do STF.
+Ademais, é notório que o cumprimento de sentença está em trâmite a mais de 8 (oito) anos, mas, ainda assim, não há o que se falar em prescrição intercorrente.
+Sobre o tema, Alexandre Freitas Câmara ensina que "A prescrição intercorrente é um fenômeno análogo à prescrição stricto sensu, mas que desta se diferencia por ocorrer quando o processo já está em curso(não tendo, pois, havido o decurso do prazo prescricional sem que o titular do direito lesado tenha ajuizado sua demanda, o que caracterizaria a prescrição propriamente dita). Assim, paralisado o procedimento executivo nos exatos termos previstos nos §§ 1º e 4º do art. 921, configurar-se-á a prescrição intercorrente, e o exequente se ver privado de seu crédito em razão do decurso do tempo, pouco importando se o procedimento executivo teve início com base em título executivo judicial ou extrajudicial (FPPC, enunciado 194)" (CÂMARA, Alexandre Freitas. O novo processo civil brasileiro. 8. ed., rev. e atual. - Barueri  SP : Atlas, 2022. p. 437).
+Contudo, "para que se configure a prescrição intercorrente, é preciso que haja algum tipo de comportamento do credor/exequente, do qual decorra a paralisação do processo pelo tempo necessário à configuração da prescrição. É preciso que a paralisação seja imputada ao credor/exequente." (DIDIER JR. Fredie. Curso de Direito processual civil: execução. 8 ed. - Salvador  BA : Jus Podivm, 2018. p. 464).
+O entendimento da Corte de Cidadania é de que "A incidência da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao de prescrição do direito material vindicado, excluindo os casos em que a execução foi paralisada por determinação judicial  .. " (AgInt no REsp n. 1.972.904/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022).
+Nesse sentido, "tem-se que o prazo da prescrição intercorrente só pode ser efetivamente contado caso o exequente seja intimado para dar andamento ao feito e se mantenha inerte; isto é, a simples paralisação do feito por motivos inerentes ao funcionamento do Poder Judiciário não justifica a contagem do prazo" (DIDIER, op. cit. p.465).
+Para realizar a análise da prescrição, é necessário esclarecer o trâmite da execução na origem, que se deu da seguinte forma: Após o despacho inicial do cumprimento de sentença datado de 16.10.2014 (evento 90, DEC49),sobreveio consulta ao BacenJud registrado em 07.11.2014 (evento 90, BACENJUD51) em que foi constrito o valor inferior ao executado (evento 90, TERMOPENH55).
+Diante da ausência de intimação do Executado (evento 90, OFIC59), o Exequente foi intimado em 28.05.2015, se manifestando sobre o valor levantado e postulando novas consultas ao sistema bacenjud e renajud quanto ao valor remanescente (evento 90, PET61), realizada em 04.11.2015 retornando infrutífera (evento 90,BACENJUD66) com intimação na data de 24.06.2016 (evento 90, ATOORD76), oportunidade na qual o Exequente apresentou novo requerimento de renajud (evento 90, PET79).
+O bacenjud retornou insuficiente novamente em 22.11.2016 (evento 90, BACENJUD93) e em 24.11.2016 o renajud apontou a propriedade do veículo FIAT/Palio de placas MAR-6228 (evento 90, RENAJUD97),razão que postulou a penhora em 22.03.2017 (evento 90, PET99), o que foi deferido em 01.02.2018 (evento 90,DESP102).
+Com a restrição do veículo, a Executada compareceu aos autos no dia 14.11.2018 e apresentou proposta de acordo (evento 90, PET108), o que não foi aceito em 14.05.2019 (evento 90, PET131), resultando no prosseguimento do feito conforme despacho de 20.09.2019 (evento 90, DESP134).
+Em 29.01.2020, o Exequente requereu a avaliação do veículo penhorado (evento 91, PET137), com a tramitação do feito ao sistema eproc, a parte teve que regularizar o pagamento das custas efetuado no sistema saj, razão pela qual o termo de penhora foi lavrado apenas no dia 27.10.2021 (evento 104, TERMOPENH1).
+Com a impossibilidade de encontrar o veículo (evento 108, CERT1) O exequente requereu a dilação do prazo para diligenciar o paradeiro do veículo (evento 112, PET1), o que foi deferido pelo juízo (evento 114, DESPADEC1).
+Ocorre que o Exequente localizou o veículo em pátio, retido pela falta de licenciamento, encontrando-se em estado de deterioração, motivo que levou à desistência da penhora em 31.01.2022, requerendo nova pesquisa no sisbajud (evento 121, PET1), sendo encontrado o valor de R$ 677,79 (seiscentos e setenta e sete reais com setenta e nove centavos) - evento 130, DETSISPARTOT2, o qual foi declarado impenhorável em 02.05.2022 (evento 138, DESPADEC1).
+Tão somente em 09.06.2022, sobreveio a exceção de pré-executividade na qual a Executada apresentou a tese de prescrição (evento 149, EXCPRÉEX1).
+Nesse contexto, observa-se que o Exequente jamais deixou de impulsionar o feito com as medidas cabíveis a persecução do crédito, inclusive com a penhora de valores e a constrição de um veículo, o que leva a inexistência de desídia por parte do interessado que justifique a prescrição intercorrente"  (e-STJ fls.  67/68).
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  entende  que  a  prescrição  intercorrente  não  é  suspensa  pela  realização  de  diligências  infrutíferas  para  localizar  bens  do  executado.
+A  propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. REALIZAÇÃO DE VARIADAS DILIGÊNCIAS QUE SE REVELARAM INFRUTÍFERAS. HIPÓTESE QUE NÃO CONSISTE EM CAUSA INTERRUPTIVA OU SUSPENSIVA DO LAPSO PRESCRICIONAL. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência do STJ tem precedentes de distintos órgãos julgadores no sentido de que a mera realização de variadas diligências requeridas pelo credor que se revelaram infrutíferas não constitui hipótese de interrupção ou suspensão do prazo de prescrição intercorrente.
+3. Agravo interno não provido"
+(AgInt no AREsp n. 2.441.152/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  EXECUÇÃO.  AUSÊNCIA  DE  LOCALIZAÇÃO  DE  BENS  DO  DEVEDOR.  DILIGÊNCIAS  INFRUTÍFERAS.  PRESCRIÇÃO  INTERCORRENTE.  INTERRUPÇÃO  DO  PRAZO.  IMPOSSIBILIDADE.  DESÍDIA  DA  PARTE  RECONHECIDA  NO  ACÓRDÃO  RECORRIDO.  MATÉRIA  FÁTICA  E  PROBATÓRIA.  APLICAÇÃO  DA  SÚMULA  7/STJ.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Com  efeito,  a  jurisprudência  vigente  no  Superior  Tribunal  de  Justiça  manifesta-se  no  mesmo  sentido,  reconhecendo  que  a  implementação  da  prescrição  intercorrente  não  é  paralisada  com  a  realização  de  diligências  para  localização  do  patrimônio  do  executado  desprovidas  de  efetividade.
+2.  Infirmar  o  entendimento  do  Tribunal  estadual,  a  fim  de  afastar  a  prescrição,  demandaria  revolvimento  de  fatos  e  provas,  o  que  é  inviável  nesta  seara,  em  virtude  do  óbice  da  Súmula  7/STJ.
+3.  Agravo  interno  improvido."
+(AgInt  no  REsp  2.091.106/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  4/12/2023,  DJe  de  6/12/2023).
+"AGRAVO  INTERNO.  RECURSO  ESPECIAL.  PRESCRIÇÃO  INTERCORRENTE.  DILIGÊNCIAS  INFRUTÍFERAS.  NÃO  SUSPENSÃO  DO  PRAZO  PRESCRICIONAL,  SOB  PENA  DE  IMPRESCRITIBILIDADE  DA  DÍVIDA.
+1.  A  promoção  de  diligências  infrutíferas  não  tem  o  condão  de  suspender  ou  interromper  o  prazo  prescricional,  tornando  a  dívida  imprescritível.  Precedentes.
+2.  No  caso,  o  prazo  prescricional  é  trienal.  Não  obstante,  mesmo  após  efetuadas  diversas  diligências  ao  longo  de  20  anos,  a  dívida  ainda  não  foi  satisfeita.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou  o  entendimento  de  ser  possível  ao  relator  dar  ou  negar  provimento  ao  recurso  especial,  em  decisão  monocrática,  nas  hipóteses  em  que  houver  jurisprudência  dominante  quanto  ao  tema  ou  se  tratar  de  recurso  manifestamente  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida  (artigo  932,  III  e  IV,  do  Código  de  Processo  Civil  de  2015).
+4.  Agravo  interno  não  provido."
+(AgInt  no  REsp  1.986.517/PR,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  23/8/2022,  DJe  de  9/9/2022).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXECUÇÃO.  AUSÊNCIA  DE  LOCALIZAÇÃO  DE  BENS  DO  DEVEDOR.  DILIGÊNCIAS  INFRUTÍFERAS.  PRESCRIÇÃO  INTERCORRENTE.  INTERRUPÇÃO  DO  PRAZO.  IMPOSSIBILIDADE.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Com  efeito,  a  jurisprudência  vigente  no  Superior  Tribunal  de  Justiça  manifesta-se  no  mesmo  sentido,  reconhecendo  que  a  implementação  da  prescrição  intercorrente  não  é  paralisada  com  a  realização  de  diligências  para  localização  do  patrimônio  do  executado  desprovidas  de  efetividade.
+2.  Agravo  interno  improvido."
+(AgInt  no  AREsp  2.294.113/DF,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  9/10/2023,  DJe  de  16/10/2023).
+No caso dos autos, o tribunal de origem concluiu que não há falar em diligências infrutíferas, havendo, inclusive, penhora . Rever, portanto, tais fundamentos demandaria reapreciar todo o conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+Além disso, conforme iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante  o  exposto,  conheço  do agravo para não conhecer do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pela ausência de prévia fixação na origem.
+Publique-se.
+Intimem-se.
+EMENTA
