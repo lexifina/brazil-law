@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 816/817, que não conheceu do agravo em recurso especial.
+A parte embargante afirma haver omissão no julgado, pois segundo alega, "o tópico III do agravo apresentado realiza impugnação específica e pormenorizada da decisão agravada, consignando expressamente e ponto a ponto a necessidade de revisão da decisão de inadmissão do recurso especial (..) pontuou-se especificamente os temas, abordando a: violação ao artigo 1.022, I e I do CPC; violação aos artigos 272, §2º e 273 do cpc. precedentes do stj que atestam a existência da violação. decisão de inadmissão que busca adentrar no mérito do recurso. não incidência da súmula 07 e 83 do stj; recurso baseado unicamente na violação de norma infraconstitucional. desnecessidade de confronto analítico" (fls. 829/830).
+Requer, assim, "sejam CONHECIDOS e PROVIDOS os presentes embargos para manifestação específica deste juízo a respeito dos temas objetos da omissão alegada objetivando, por medida de justiça, o CONHECIMENTO DO AGRAVO E PROVIMENTO DO RECURSO ESPECIAL, com vistas ao seguinte: i. Declarar a nulidade processual de todos os atos posteriores a certidão ID23901279-1ºgrau/ID4375750-2ºgrau-digitalização e migração dos autos e demais atos a ele subsequentes" (fls. 835/836).
+Com impugnação.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, a decisão embargada registrou que, no caso, "o recurso especial restou inadmitido por não configurada a alegada omissão, pela incidência das Súmulas 7 e 83 do STJ e pela inobservância dos arts. 1.029, § 1º, e 255, § 1º, do RISTJ. Ocorre que a parte agravante não impugnou, os fundamentos da decisão agravada, especialmente quanto à incidência das Súmulas 7 e 83 do STJ, circunstância que impede o conhecimento do agravo" (fl. 816).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
