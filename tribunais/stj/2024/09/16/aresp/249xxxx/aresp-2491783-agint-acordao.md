@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ÔNUS PROBATÓRIO. MATÉRIA QUE DEMANDA O REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Na origem, cuida-se de agravo de instrumento interposto pela parte agravante com o fim de reformar decisão que, em ação civil pública movida pela Defensoria Pública do Estado de São Paulo, determinou a inversão do ônus probatório.
+2. No caso, o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais (a fim de reconhecer ilegitimidade passiva, bem como afastar o ônus probatório que recaiu sobre a agravante), demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por EDP São Paulo Distribuição de Energia S.A. desafiando decisão que negou provimento ao agravo em recurso especial, com base nos seguintes fundamentos: (I) não se verifica ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas; e (II) incide a Súmula n. 7/STJ, pois, para reconhecer a ilegitimidade passiva, bem como a quem cabe o ônus probatório na demanda, necessário se faz o reexame do acervo fático-probatório dos autos.
+Em suas razões, a parte agravante sustenta que: (I) o acórdão recorrido padece de omissão; e (II) não se aplica o susodito enunciado sumular na hipótese, pois não há pretensão de reexame de fatos e provas, mas de enfrentamento de questão de direito concernente "ao descabimento da inversão do ônus da prova e ilegitimidade passiva da EDP/SP para figurar no polo passivo da lide de origem" (fl. 295).
+Impugnações às fls. 308/311 e 315/323.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ÔNUS PROBATÓRIO. MATÉRIA QUE DEMANDA O REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Na origem, cuida-se de agravo de instrumento interposto pela parte agravante com o fim de reformar decisão que, em ação civil pública movida pela Defensoria Pública do Estado de São Paulo, determinou a inversão do ônus probatório.
+2. No caso, o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais (a fim de reconhecer ilegitimidade passiva, bem como afastar o ônus probatório que recaiu sobre a agravante), demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos deduzidos no presente recurso, o decisório agravado não merece reparos.
+Na origem, cuida-se de agravo de instrumento interposto pela EDP São Paulo Distribuição de Energia S.A. com o fim de reformar decisão que, em ação civil pública movida pela Defensoria Pública do Estado de São Paulo, determinou a inversão do ônus probatório, o qual recaiu sobre a ora recorrente.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+Nas razões do apelo nobre, a parte insurgente apontou ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, aduzindo que houve negativa de prestação jurisdicional. Apontou, ainda, violação aos arts. 8º, 373, I e II, §§ 1º e 2º, e 485, VI, do CPC, ao argumento de que não lhe cabe suportar o ônus probatório na demanda, além de sustentar a sua ilegitimidade passiva.
+O decisum agravado, por sua vez, concluiu que não ficou configurada a omissão e que as questões relacionadas ao ônus probatório e à alegada ilegitimidade passiva esbarram no óbice da Súmula n. 7/STJ, por demandar o reexame de matéria fático-probatória.
+Já no presente agravo interno, a agravante discorda dos referidos fundamentos.
+Sem razão, contudo.
+Inicialmente, tal como constatou a decisão agravada, verifica-se não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre os temas tidos como olvidados, a Corte estadual assim se manifestou (fls. 98/100):
+Com efeito, dispõe o art. 300 do Novo CPC, que a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Ocorre que os documentos carreados aos autos não demonstram, prima facie, o preenchimento dos requisitos necessários à pretensão da agravante de reconhecimento de sua ilegitimidade passiva, bem como de que o ônus da prova recaia integralmente sobre a Defensoria e as empresas Sena e Flórida.
+A propósito da primeira pretensão, bem consignou a r. decisão ora impugnada:
+De sua vez, as preliminares de ilegitimidade passiva e falta de interesse de agir, suscitadas pelos requeridos, dependem de provas que ainda não estão postas nos autos e/ou entrosadas com o mérito, motivo pelo qual a apreciação fica relegada para a ocasião da sentença.
+Nesse aspecto, impende aguardar o julgamento da lide, quando, à luz do contraditório e após instrução, a pretensão será analisada com a devida profundidade, subsistindo, por ora, a presente situação.
+No que pertine à segunda pretensão, relativa ao ônus da prova, há de ser observado o que restou decidido nos autos do AI 2119184-47.2022.8.26.0000, interposto pelas agravadas Empreendimentos Flórida Ltda. e Sena Construções Ltda.:
+Bem esclareceu o juízo de primeiro grau que a inversão do ônus da prova decorreu da verossimilhança das alegações da agravada e de sua hipossuficiência técnica, não tendo as agravantes se desincumbido, a princípio, do ônus de comprovar ausência de motivo para tanto.
+Por outro lado, com razão as agravantes quanto à alegação de que a inversão do ônus probatório não implica inversão do seu custeio.
+Nesse aspecto, há de ser atendido o pedido de que os honorários periciais sejam rateados entre a Defensoria Pública, as agravantes e os terceiros interessados, nos percentuais requeridos, ante o disposto nos arts. 95 e 91, § 1º, do Novo CPC, tendo em vista que a perícia foi requerida por ambas as partes.
+Dessa forma, em sede de cognição sumária, há de ser mantida a decisão impugnada no que pertine à alegação de ilegitimidade passiva, com as alterações levadas a efeito pela decisão proferida a fls. 4.220 dos autos principais, no tocante ao ônus da prova.
+Assim, ausentes os requisitos autorizadores da medida pretendida, mantém-se o indeferimento da antecipação de tutela pleiteada.
+Assim, não há omissão a ser sanada na via do recurso especial.
+Por outro lado, a leitura do excerto acima transcrito revela que a instância a quo concluiu que "os documentos carreados aos autos não demonstram, prima facie, o preenchimento dos requisitos necessários à pretensão da agravante de reconhecimento de sua ilegitimidade passiva, bem como de que o ônus da prova recaia integralmente sobre a Defensoria e as empresas Sena e Flórida" (fl. 98).
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer sua ilegitimidade passiva, bem como para afastar o ônus probatório que lhe impôs o Tribunal de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+A propósito do tema, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. AMBIENTAL. ÔNUS DA PROVA. INVERSÃO. REGRA DINÂMICA. ACÓRDÃO A QUO ALINHADO AO ENTENDIMENTO DO STJ SOBRE O TEMA. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não há falar em ofensa aos arts. 489, II, e 1.022 do CPC, na medida em que a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal a quo não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+3. A jurisprudência do Superior Tribunal de Justiça trilha o entendimento de que a distribuição do ônus probatório é regra dinâmica que deve ser interpretada conforme o caso concreto, devendo o referido ônus recair sobre a parte que tiver melhores condições de produzir a prova.
+4. A decisão do juízo singular foi mantida pelo Tribunal local a partir do exame dos elementos contidos no caderno processual, sendo certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, mormente quanto à inversão do ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1º/12/2022.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
