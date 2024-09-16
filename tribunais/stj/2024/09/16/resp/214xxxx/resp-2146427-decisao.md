@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCO MOREIRA MAIA com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+"PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO FAZENDÁRIA REJEITADA. HONORÁRIOS SUCUMBENCIAIS. PROVIMENTO.
+1. Agravo de instrumento de decisão que, em cumprimento de sentença impugnado pela Fazenda Pública, deixou de fixar honorários sucumbenciais em favor do credor.
+2. Conforme dicção do art. 85, §§ 1º e 7º, do CPC, uma vez rejeitada a impugnação ao cumprimento de sentença individual que enseje o pagamento por RPV, cabível a fixação de honorários advocatícios em favor do credor.
+3. Considerando o valor da execução (R$ 72.720,00), cabível a fixação da verba honorária em 10% sobre a condenação, nos termos do art. 85, § 3º, do CPC, por não importar, no caso concreto, em onerosidade excessiva ou afronta ao princípio da proporcionalidade.
+4. Agravo provido." (e-STJ, fl. 72)
+Opostos embargos de declaração, os mesmos foram acolhidos (e-STJ, fls. 107/110).
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 85, §§ 1º e 7º do Código de Processo Civil de 2015 e à Súmula 303/STJ, sustentando, em síntese, que são devidos honorários advocatícios considerando que houve impugnação ao cumprimento de sentença e que a mesma foi rejeitada, independente de que haja divergência de valores e bastando que tenha havido trabalho do advogado,
+Contrarrazões às fls. 137/143.
+Recurso admitido na origem à fl. 145.
+É o relatório. Decido.
+Quanto à alegada violação a Súmula n. 303 do STJ, registre-se que "a análise de ofensa à Súmula é inviável porque está à margem das hipóteses de cabimento do Recurso Especial, previstas no art. 105, III, da Constituição Federal" (AgRg no Ag 1.236.658/MG, Ministro HERMAN BENJAMIN, DJe de 2/3/2010). Esta Corte, sobre o tema, editou a Súmula 518, que preleciona: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+No tocante ao art. 85, §§1º e 7º do CPC/15, a Corte de origem afirmou que não há que se falar em condenação sucumbencial em razão de o juiz ter homologado de plano o valor pretendido pelo autor após o recorrido ter apontado valor superior ao pretendido por equívoco, tendo aceitado a cobrança na prática e que o montante pretendido é incontroverso, in verbis:
+"Conforme dicção do art. 85, §§ 1º e 7º, do CPC, uma vez rejeitada a impugnação ao cumprimento de sentença individual que enseje o pagamento por RPV, cabível a fixação de honorários advocatícios em favor do credor.
+Ocorre que, da análise dos autos, verifica-se que por equívoco o Instituto embargante apontou na impugnação valores superiores ao pretendido pela parte exequente. Tal erro foi logo verificado pelo Juízo que, de plano, sem qualquer dilação probatória, houve por bem homologar o montante pretendido pelo autor de R$ 72.720,00, que é, portanto, incontroverso, a ser pago por RPV.
+Assim, na prática, a quantia em cobrança foi aceita pelo executado, de modo que nesse aspecto não há controvérsia que justifique o pagamento de honorários pelo Instituto.
+A fixação de honorários de sucumbência no caso concreto, onde o montante da execução homologada é incontroverso, contraria o art. 85, § 2º, do CPC.
+Acolho os embargos do INSS, com efeitos infringentes, a fim de, sanando a omissão apontada, deixar de condená-lo na verba de sucumbência." (e-STJ, fl. 108)
+O recorrente, ao direcionar a sua tese no sentido de que são devidos honorários advocatícios considerando que houve impugnação ao cumprimento de sentença e que a mesma foi rejeitada, independente de que haja divergência de valores, deixou de impugnar o fundamento do acórdão recorrido segundo o qual "na prática, a quantia em cobrança foi aceita pelo executado, de modo que nesse aspecto não há controvérsia que justifique o pagamento de honorários pelo Instituto".
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ARTS. 3º, V, 20, 30, I, i, II, e, E 37 DA LEI N. 13.445/2017, E 43 E 44 DA LEI N. 9.474/1997. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DO VERBETE SUMULAR N. 211/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DO ENUNCIADO SUMULARR N. 283/STF. ALEGADA OFENSA A PRINCÍPIOS JURÍDICOS. NÃO EQUIVALÊNCIA À LEI FEDERAL PARA EFEITO DE CABIMENTO DE RECURSO ESPECIAL. PRECEDENTES STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à espécie. Inexistência de omissão, contradição ou obscuridade.
+III - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+IV - O art. 1.025 do estatuto processual civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada, fundamentadamente, e reconhecida a violação ao art. 1.022 do referido codex, o que não ocorreu no caso em análise.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Os princípios jurídicos não se amoldam à definição de lei federal para efeito de cabimento de Recurso Especial. Precedentes.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno desprovido. (AgInt no REsp n. 2.088.262/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/5/2024, DJe de 23/5/2024.)
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECURSO ESPECIAL. HONORÁRIOS. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ACEITAÇÃO PRÁTICA. ALEGAÇÃO DE CONTRARIEDADE À SUMULA DO STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
