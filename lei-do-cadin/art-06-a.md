@@ -1,0 +1,1 @@
+Art. 6º-A. A existência de registro no Cadin, quando da consulta prévia de que trata o art. 6º, constitui fator impeditivo para a realização de qualquer dos atos previstos nos incisos I, II e III do caput do art. 6º.
