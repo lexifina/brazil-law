@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de RAFAEL RODRIGUES DE SOUSA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva ante a suposta prática dos delitos tipificados nos arts. 158, § 3º, e 288, parágrafo único, do Código Penal.
+Neste writ, a impetrante sustenta, em síntese, que: a) há excesso de prazo para o encerramento da instrução criminal, tendo em vista que a autoridade policial não enviou ao Juízo de primeiro grau o laud o pericial dos telefones apreendidos; b) não estão presentes os requisitos legais autorizadores da prisão preventiva; c) o paciente tem bons antecedentes e possui residência fixa.
+Pleiteia o relaxamento ou a revogação da custódia preventiva imposta ao paciente.
+O pedido de medida liminar foi indeferido.
+O Ministério Público Federal opinou pela denegação da ordem.
+É o relatório.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, constata-se que a alegação relativa ao suposto excesso de prazo para o encerramento da instrução criminal não foi debatida pelo Tribunal de origem no julgamento do writ originário, o que impede o seu conhecimento por este Tribunal Superior, sob pena de incorrer em indevida supressão de instância, consoante pacífico entendimento desta Corte:
+"Sob pena de incorrer em indevida supressão de instância, o Superior Tribunal de Justiça não pode conhecer teses que sequer foram debatidas pela Corte de origem." (AgRg no HC 807.880/SP, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+"No tocante à alegada ausência de contemporaneidade entre os fatos e o decreto de custódia preventiva, observa-se que o Tribunal de origem não analisou o pleito, no julgamento do writ originário. Dessa forma, sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância." (AgRg no HC 800.656/PR, da minha relatoria, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023).
+"O Tribunal de origem não apreciou a alegação de nulidade da primeira decisão de autorização de captação ambiental por não ter declinado prazo determinado, bem como a alegação de que o Ministério Público teria dado nova capitulação sobre os mesmos fatos; ficando impossibilitada esta Corte Superior de apreciar os temas, sobrepujando a competência da Corte regional, sob pena de indevida supressão de instância." (AgRg no RHC 118.631/MG, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+"No que concerne à alegação acerca da ocorrência de excesso de prazo para a formação da culpa, "o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 725.396/SP, Quinta Turma, Rel. Ministro João Otávio de Noronha, DJe 06/04/2022-grifei)." (AgRg no HC 794.072/RS, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023).
+"Na hipótese dos autos, a irresignação da defesa não foi debatida na instância ordinária. Essa circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância." (AgRg no HC 696.456/SC, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/12/2021, DJe 10/12/2021).
+No mais, sabe-se que, em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Ocorre que, na espécie, o processo não foi instruído com cópia do decreto preventivo, peça imprescindível para a análise das alegações relacionados ao pedido de revogação da segregação cautelar.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pela defesa, de modo que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações.
+3. No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos, pois o impetrante não colacionou aos autos a cópia do decreto de prisão preventiva, o que impossibilita o exame do constrangimento ilegal alegado.
+4. Agravo regimental desprovido."
+(AgRg no RHC 197.085/DF, Relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. TESE DE FALTA DE MOTIVAÇÃO VÁLIDA. DECRETO NÃO COLACIONADO AO FEITO. DEFICIENTE INSTRUÇÃO. AGRAVO NÃO PROVIDO.
+1. Conforme posto, é ônus da defesa a correta instrução do feito, e, mais uma vez, o impetrante juntou decisão que decretou a prisão preventiva de terceiro estranho à ação penal originária desse habeas corpus. Logo, na falta de peça essencial para o exame da tese de manifesta ilegalidade na decretação da prisão preventiva, mantenho a decisão que não conheceu do writ.
+2. Agravo regimental não provido."
+(AgRg no HC 852.593/MG, de minha relatoria, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
