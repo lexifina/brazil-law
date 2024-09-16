@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo interno (fls. 860-872) interposto por BANCO SEMEAR S/A contra decisão (fls. 821-825), desta relatoria, que conheceu de seu agravo para negar provimento ao recurso especial, sob o fundamento de que o dissídio jurisprudencial não foi demonstrado.
+Nas razões do agravo interno, BANCO SEMEAR S/A alega, entre outros fundamentos, que o "(..) dissídio jurisprudencial, por meio do qual se busca a pacificação deste Colendo Tribunal Superior, surgiu quando se verificou que o TJMG dissentiu de entendimento esposado pelo Tribunal de Justiça de São Paulo, no que tange a responsabilização de Instituição Financeira, cessionária em contrato de compra e venda de imóvel que fora objeto de cessão de crédito posterior à celebração do instrumento principal, entendendo pela solidariedade e pela consequente condenação deste Agravante" (fl. 869 - destaques no original).
+Aduz, também, que a "(..) análise do Recurso Especial, frisa-se, não passa pelas Cláusulas Contratuais propriamente ditas, mas apenas exige o confronto dos julgados paradigmas com àquele proferido pelo TJMG, de forma a realizar a necessária uniformização jurisprudencial acerca da responsabilidade da Instituição Financeira como cessionária. Tanto é que, em caso IDÊNTICO, em que este Agravante foi parte, este E. Superior Tribunal de Justiça deu provimento ao Agravo em Recurso Especial interposto sob o nº 2235151 - MG (2022/0337434-4), para reconhecer a ilegitimidade passiva do Banco Semear, como cessionário, e, consequentemente, afastar a condenação solidária fixada pelas instâncias inferiores em ação de rescisão contratual baseada no atraso na entrega do empreendimento, vejamos:" (fls. 870-871 - destaques no original).
+Assevera, ainda, que, "(..) tendo sido demonstrado, como ocorreu, que são contrárias as interpretações dadas pelo acórdão recorrido e as decisões paradigmas, torna-se, pois, não só possível, mas necessário, o conhecimento e o provimento do Recurso Especial, para que seja unificada a jurisprudência e garantida a segurança jurídica. Destarte, frente a todas as considerações acima aduzidas, e reiteradas, é imperioso o conhecimento e provimento do presente Agravo Interno, para que seja proferida decisão colegiada, dando regular seguimento, e posterior provimento, ao Recurso Especial aviado pelo Banco Semear" (fl. 871).
+Sem impugnação, certidões às fls. 877-878.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. ACÓRDÃOS EM COMPARAÇÃO QUE EXAMINAM DISPOSITIVOS LEGAIS DIFERENTES. AGRAVO DESPROVIDO.
+1. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identifiquem ou assemelhem os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos no art. 1.029, § 1º, do CPC/2015 e no art. 255, § 1º, do RISTJ.
+2. No caso, a divergência jurisprudencial não foi demonstrada, porque os acórdãos em comparação examinam dispositivos de lei federal distintos.
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso em apreço não merece prosperar, na medida em que não foram apresentados argumentos jurídicos aptos a ensejar a modificação da decisão vergastada.
+No apelo especial, ao qual se pretende trânsito, manejado pela alínea c do permissivo constitucional, BANCO SEMEAR S/A aponta divergência jurisprudencial quanto aos arts. 186 e 927 do Código Civil, afirmando, entre outros argumentos, que "(..) a solidariedade não induz a condenação. Contrário disso, é preciso apurar as condutas das partes e os danos para, somente depois, se atribuir qualquer penalidade. No caso em tela, não há nexo causal entre a conduta do Banco Semear e os danos narrados pelos Recorridos. Portanto, qualquer prejuízo com o suposto atraso na entrega da obra, só deve ser custeado pela empreendedora responsável, no caso a "Cidade Verde Prudente de Morais Empreendimentos Imobiliários" (fl. 590).
+Preceitua, também, que o "(..) acórdão recorrido, proferido pelo Tribunal de Justiça do Estado de Minas Gerais, dissentiu de entendimento esposado pelo Tribunal de Justiça de São Paulo, no que tange a responsabilização de Instituição Financeira, cessionária em contrato de compra e venda de imóvel que fora objeto de cessão de crédito posterior à celebração do instrumento principal, entendendo pela solidariedade e pela consequente condenação deste Recorrente (fl. 591 - destaques no original).
+Defende, ainda, que, "(..) diante do termo de cessão, adquiriu tão somente os direitos creditórios em face dos Recorridos, restando incólume as obrigações avençadas com a parte Cidade Verde quanto à execução das obras de infraestrutura no local. Não bastasse a demonstração de divergência de interpretação acima demonstrada, vê-se que este Superior Tribunal de Justiça proferiu decisão favorável a esta Instituição Financeira, no sentido de que a deve ser reconhecida a ilegitimidade passiva do Banco Semear para responder pelos pedidos decorrentes de vícios de construção ou descumprimento das obrigações da obra financiada, mesmo com a cessão dos créditos" (fl. 595 - destaques no original).
+Com efeito, deve ser confirmada a decisão agravada que conheceu do agravo para negar provimento ao recurso especial, na medida em que o dissenso pretoriano não foi demonstrado.
+Como sabido, a admissibilidade do recurso especial pela alínea c do permissivo constitucional exige, para a correta demonstração da divergência jurisprudencial, o cotejo analítico dos julgados confrontados, expondo-se as circunstâncias que identificam ou assemelham os casos, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos do 1.029, § 1º, do CPC/2015, combinado com o art. 255, § 1º, do RISTJ. Nessa linha de intelecção, os seguintes julgados somam-se àqueles já homenageados na decisão vergastada:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO CONTRA ACÓRDÃO QUE INDEFERIU A ANTECIPAÇÃO DOS EFEITOS DA TUTELA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 735/STF E 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+(..)
+4. Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.407.072/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS AGRAVANTES.
+(..)
+3. Com efeito, o recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.334.899/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. OFENSA A DISPOSITIVO CONSTITUCIONAL. NÃO CONHECIMENTO. INTIMAÇÃO DA PARTE. AUSÊNCIA DE MANIFESTAÇÃO. PROVA DA INSUFICIÊNCIA DE RECURSOS. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA. DECISÃO MANTIDA.
+(..)
+8. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus do qual a parte recorrente não se desincumbiu.
+9. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.472.813/PR, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 1/7/2024, DJe de 2/8/2024 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CITAÇÃO DO DEVEDOR PRINCIPAL. INTERRUPÇÃO DA PRESCRIÇÃO EM RELAÇÃO AO AVALISTA. IMPOSSIBILIDAE. PRINCÍPIO DA ESPECIALIDADE. SÚMULA N. 83 DO STJ. MARCOS PRESCRICIONAIS. INÉRCIA DO CREDOR. IMPOSSIBILIDADE DE REEXAME. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+4. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+5. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.471.475/PR, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 10/6/2024, DJe de 12/6/2024 - g. n.)
+No caso, o eg. Tribunal de Justiça do Estado de Minas Gerais (TJ-MG) reconheceu a responsabilidade solidária da ora recorrente com arrimo nos arts. 24, 109 e 119 do CPC/2015 e nos arts. 2º, 7º e 14 do Código de Defesa do Consumidor (CDC). A título elucidativo, transcreve-se o seguinte trecho do v. acórdão estadual (fls. 551-558):
+"1ª. apelação, por BANCO SEMEAR S.A., diz não ser responsável pela entrega das obras de infraestrutura, não tendo ingerência sobre essas. Aduz não ter relação direta com os apelados, da mesma forma que o negócio imobiliário celebrado entre CIDADE VERDE e os apelados em nada afeta o BANCO SEMEAR. Alega ter o direito de receber dos devedores os créditos cedidos fiduciariamente, não devendo sofrer pela suspensão dos pagamentos mensais e nem ser condenado ao pagamento de indenização por danos morais.
+Nega ter responsabilidade no pagamento da indenização por danos morais por descumprimento contratual, enquanto não se obrigou à entrega das obras e, mantida a condenação, opõe-se ao valor, pugnando pela redução.
+Por fim, requer a reforma da sentença para reconhecer a inexistência de sua responsabilidade na execução das obras; decotar a condenação ao pagamento de indenização por danos morais e, subsidiariamente reduzir o valor da indenização; e determinar seja afastada a suspensão ao pagamento das mensalidades -ordem nº 28.
+(..)
+BANCO SEMEAR S.A. requer a sua inclusão como assistente litisconsorcial passivo na qualidade de cessionário dos créditos da cedente, CIDADE VERDE PRUDENTE DE MORAIS EMPREENDIMENTOS IMOBILIÁRIOS S.A., tendo interesse no deslinde do feito.
+O instituto vem previsto no CPC, nos artigos que seguem:
+Art. 109. A alienação da coisa ou do direito litigioso por ato entre vivos, a título particular, não altera a legitimidade das partes.
+§ 1º O adquirente ou cessionário não poderá ingressar em juízo, sucedendo o alienante ou cedente, sem que o consinta a parte contrária.
+§ 2º O adquirente ou cessionário poderá intervir no processo como assistente litisconsorcial do alienante ou cedente.
+§ 3º Estendem-se os efeitos da sentença proferida entre as partes originárias ao adquirente ou cessionário.
+Art. 119. Pendendo causa entre 2 (duas) ou mais pessoas, o terceiro juridicamente interessado em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la.
+Parágrafo único. A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo o assistente o processo no estado em que se encontre.
+24. Considera-se litisconsorte da parte principal o assistente sempre que a sentença influir na relação jurídica entre ele e o adversário do assistido.
+Na condição de cessionária de crédito, a responsabilidade da instituição financeira resulta manifestamente solidária com a da construtora cedente à conta de eventuais prejuízos decorrentes do contrato respectivo.
+(..)
+Em situações em que há uma cadeia de fornecimento, visto que o crédito da venda do imóvel pertencia antes à empreendedora e passou à instituição financeira, mediante cessão, a natureza complexa das relações negociais não pode, jamais, obstaculizar a realização dos direitos do consumidor. Podendo esse, assistido pelo princípio da boa-fé negocial e pela teoria da aparência, demandar contra os responsáveis pelos prejuízos causados:
+(..)
+Destarte, a cessão de crédito celebrada entre a financeira e a empreendedora (ordem nº 12 -p. 32/37) legitima aquela a figurar no polo passivo, tal como requerido pelo próprio assistente litisconsorcial passivo e deferido pelo o juiz a quo, nos termos do art. 7º, parágrafo único, do CDC.
+Logo, a decisão condenatória deve se estender ao assistente litisconsorcial passivo, não merecendo reparos a sentença.
+Do Código de Defesa do Consumidor
+De antemão, ressalto que está configurada a relação de consumo entre os litigantes, visto que se aplicam as disposições do Código de Defesa do Consumidor (CDC) aos vínculos jurídicos estabelecidos nos negócios referentes ao comércio de empreendimentos imobiliários, sendo objetiva a responsabilidade das apelantes, segundo os arts. 2º e 14, do CDC.
+Art. 14 - O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+(..)" (g. n.)
+Por sua vez, o v. acórdão indicado como paradigma proferido pelo eg. Tribunal de Justiça do Estado de São Paulo não examinou a contenda sobre o prisma dos arts. 24, 109 e 119 do CPC/2015 e dos arts. 2º, 7º e 14 do CDC.
+Nesse contexto, em que pese a argumentação trazida no agravo interno, infere-se que os acórdãos em comparação analisam dispositivos legais diversos, inviabilizando a demonstração da divergência pretoriana.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
