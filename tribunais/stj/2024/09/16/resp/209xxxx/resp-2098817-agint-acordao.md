@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR INCONTROVERSO LEVANTADO. INCIDÊNCIA APENAS SOBRE O REMANESCENTE. SÚMULA 568/STJ.
+1. Ação de complementação de aposentadoria em fase de cumprimento de sentença.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que somente é considerado como pagamento o depósito, em juízo, da quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa e dos honorários (art. 523, § 1º, do CPC) quando o depósito se deu a título de garantia do juízo. Precedentes.
+3. Na hipótese, o valor incontroverso do débito foi depositado nos autos pelo devedor e foi devidamente levantado pelos recorrentes. Assim, tendo havido o efetivo pagamento e não mera garantia do juízo, a multa e os honorários somente deverão incidir sobre o saldo remanescente.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interno em recurso especial interposto por ADALBERTO DE QUADROS BERCLAZ e OUTROS, com fundamento na alínea "a" do permissivo constitucional, contra decisão monocrática que desproveu o recurso.
+Ação: de cobrança, já em fase de cumprimento de sentença, ajuizada pelos recorrentes, em desfavor da FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL, por meio da qual objetivam a inclusão, em seus proventos de aposentadoria, de valores relativos ao abono salarial único concedido aos ativos (e-STJ fls. 3-8).
+Decisão interlocutória: julgou parcialmente procedente a impugnação ao cumprimento de sentença, "para reconhecer o excesso de execução em relação a parcela dos honorários advocatícios da fase de conhecimento, com determinação de ajuste do cálculo elaborado pelo perito judicial conforme a fundamentação".
+Acórdão: negou provimento ao agravo de instrumento interposto pelos recorrentes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AÇÃO CONDENATÓRIA. ABONOS ÚNICOS PAGOS AOS ATIVOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR INCONTROVERSO SEM QUALQUER CONDICIONANTE PARALEVANTAMENTO. MULTA DE 10 %. NÃO INCIDÊNCIA.
+1) Com relação à base de cálculo do valor da multa de que trata o art. 523, § 1º do novel CPC1, anterior artigo 475-J, do CPC/73, a orientação do STJ é no sentido deque será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito.
+2) Caso dos autos em que a parte agravada foi intimada, nos termos do artigo 523 do CPC, para pagar o valor indicado pela parte exequente. Não obstante, apresentou incidente de impugnação ao cumprimento de sentença e pagou a importância que apontou como devida (incontroversa), no valor de R$ 122.893,92, em 31/03/2016,dentro do prazo legal de 15 dias, conforme informação extraída do sitio do Tribunal de Justiça do Rio Grande do Sul.
+3) Sobre o montante incontroverso (R$ 122.893,92), depositado tempestivamente, não incide o valor da multa de 10%, porquanto houve o depósito voluntário pelo devedor sem qualquer condicionante para levantamento pelo credor, sendo inclusive liberado pelo juízo (e-STJ fls. 47-51).
+Embargos de declaração: opostos pelo agravante, em rejulgamento determinado por esta Corte Superior (e-STJ fls. 142-145), foram desacolhidos (e-STJ fls. 183-191)
+Recurso especial: alega violação aos arts. 523 e 1.022, II, do CPC (e-STJ fls. 200-214).
+Juízo prévio de admissibilidade: o TJ/RS admitiu o recurso especial (e-STJ fls. 231-235).
+Decisão monocrática: negou provimento ao recurso especial com fundamento na Súmula 568/STJ, conforme ementa que segue (e-STJ fls. 278-282):
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. MULTA E HONORÁRIOS DE 10%. DEPÓSITO DO VALOR INCONTROVERSO LEVANTADO. INCIDÊNCIA APENAS SOBRE O REMANESCENTE.1. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.2. Somente é considerado como pagamento o depósito, em juízo, da quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa e dos honorários (art. 523, § 1º, do CPC) quando o depósito se deu a título de garantia do juízo. Precedentes.3. Na hipótese, o valor incontroverso do débito foi depositado nos autos pelo devedor e foi devidamente levantado pelos recorrentes. Assim, tendo havido o efetivo pagamento e não mera garantia do juízo, a multa e os honorários somente deverão incidir sobre o saldo remanescente.4. Recurso especial não provido.
+Agravo interno: nas razões do presente recurso, o agravante defende que, de acordo com a jurisprudência desta Corte, "o depósito para mera garantia não se porta como pagamento, por não colocar o valor, mesmo que parcial, à disposição do credor". Defende ainda que, no particular, "o depositado não tinha por objetivo o pagamento, mas apenas mera garantia do juízo para apresentar impugnação, onde os depósitos não visaram o pagamento" (e-STJ fls. 287-296).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. CUMPRIMENTO DE SENTENÇA. DEPÓSITO DO VALOR INCONTROVERSO LEVANTADO. INCIDÊNCIA APENAS SOBRE O REMANESCENTE. SÚMULA 568/STJ.
+1. Ação de complementação de aposentadoria em fase de cumprimento de sentença.
+2. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que somente é considerado como pagamento o depósito, em juízo, da quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa e dos honorários (art. 523, § 1º, do CPC) quando o depósito se deu a título de garantia do juízo. Precedentes.
+3. Na hipótese, o valor incontroverso do débito foi depositado nos autos pelo devedor e foi devidamente levantado pelos recorrentes. Assim, tendo havido o efetivo pagamento e não mera garantia do juízo, a multa e os honorários somente deverão incidir sobre o saldo remanescente.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do recurso especial para negar-lhe provimento, tendo em vista a incidência da Súmula 568/STJ.
+Pela análise das razões recursais ora apresentadas, contudo, verifica-se que o agravante não trouxe qualquer argumento apto à modificação da decisão.
+- Da Súmula 568 do STJ
+Conforme consignado na decisão agravada, o Tribunal originário, ao julgar o agravo de instrumento interposto pela ora agravada, expressamente asseverou que "houve o depósito voluntário pelo devedor sem qualquer condicionante para levantamento pelo credor, sendo inclusive liberado pelo juízo" e, ainda, que "o fato de ter transcorrido dois anos entre o pedido de execução de sentença e o levantamento do alvará do valor incontroverso não afasta a voluntariedade do depósito realizado, vez que a demora decorreu da própria inércia da parte demandante em postular o levantamento" (e-STJ, fl. 190).
+Tendo como base a jurisprudência do STJ segundo a qual, somente é considerado como pagamento o depósito, em juízo, da quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença (AgInt no AREsp 2.189.739/SC, Quarta Turma, DJe de 18/5/2023; AgInt no AREsp n. 2.337.633/MA, Terceira Turma, julgado em 30/10/2023, DJe de 3/11/2023; AgInt no AREsp n. 2.189.739/SC, Quarta Turma, DJe de 18/5/2023), concluiu a Corte estadual que não há que se falar em incidência de multa de 10% e de honorários de 10% sobre o montante incontroverso.
+Destarte, correto o pronunciamento unipessoal que, verificando que a decisão proferida pelo Tribunal local encontra-se em perfeita harmonia com a jurisprudência desta Corte, afastou a insurgência recursal.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
