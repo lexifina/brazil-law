@@ -1,0 +1,15 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto pelo BANCO DO BRASIL SA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Agravo de instrumento: interposto por LEO RENATO TORRES contra decisão, proferida nos autos de liquidação por arbitramento, que determinou o sobrestamento do processo.
+Acórdão: deu provimento ao agravo de instrumento interposto, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. DECISÃO QUE DETERMINA SOBRESTAMENTO DO FEITO, EM RAZÃO DE REPETITIVO AFETADO PELO STJ. INSURGÊNCIA DO EXEQUENTE. ALEGAÇÃO DE DESNECESSIDADE DE SUSPENSÃO, POIS O PROCESSO JÁ TRAMITARIA POR LIQUIDAÇÃO. ACOLHIMENTO. AUSÊNCIA DE PREJUÍZO, CASO O STJ DEFINA QUE É DESNECESSÁRIA A LIQUIDAÇÃO. LIQUIDAÇÃO POR ARBITRAMENTO E LIQUIDAÇÃO PELO PROCEDIMENTO COMUM. QUESTÃO JÁ DECIDIDA EM ACÓRDÃO ANTERIOR DESTA CÂMARA. PRECLUSÃO CONSUMATIVA E PROJUDICATO. RECURSO PROVIDO, PARA AFASTAR A NECESSIDADE DE SOBRESTAMENTO. (fl. 43, e-STJ)
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não cabimento de recurso especial por violação a normas constitucionais; ii) aplicação das Súmulas 283 e 284/STF (preclusão da questão da modalidade do procedimento da liquidação).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "Foi amplamente demonstrada a necessidade de suspensão do feito, a impossibilidade de cumprimento provisório de sentença (INDEPENDENTEMENTE DA FORMA DE LIQUIDAÇÃO) com recurso pendente, a afetação pelo rito dos recursos especiais repetitivos pelo tema 1169 do STJ. Portanto, os fundamentos que necessitavam ser atacados foram feitos de forma específica, não sendo hipótese de preclusão da matéria."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) não cabimento de recurso especial por violação a normas constitucionais; ii) aplicação das Súmulas 283 e 284/STF (preclusão da questão da modalidade do procedimento da liquidação).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
