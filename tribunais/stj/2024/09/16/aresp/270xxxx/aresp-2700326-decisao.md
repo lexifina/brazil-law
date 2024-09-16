@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado por LEANDRO ANDRE DA FONSECA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO DE CONTRATO.
+INDENIZAÇÃO POR DANOS MATERIAIS.
+NULIDADE DO TERMO ADITIVO DO CONTRATO DE PROMESSA DE COMPRA E VENDA FIRMADO POR CO-HERDEIRA E O PROMITENTE COMPRADOR. NÃO CONFIGURAÇÃO, NO CASO CONCRETO. DEMONSTRADO NOS AUTOS O INADIMPLEMENTO CONTRATUAL DO PROMITENTE COMPRADOR, FICA AUTORIZADA A RESOLUÇÃO DO CONTRATO FIRMADO ENTRE AS PARTES. A RATIFICAÇÃO DE TERMO POR UM DOS HERDEIROS NÃO IMPLICA SUA NULIDADE, ISSO PORQUE, AINDA QUE SEJA A ÚNICA A RATIFICAR, A CO-HERDEIRA É PARTE LEGÍTIMA PARA O FIM COLIMADO. ADEMAIS, O ELEMENTO VOLITIVO DAS PARTES É DESPIDO DE VÍCIO E O OBJETO DO TERMO É LÍCITO. AO NEGÓCIO JURÍDICO ESTABELECIDO QUE O PROMITENTE COMPRADOR, ORA RÉU, ANUIU VOLUNTARIAMENTE DESCABE ALEGAR NULIDADE VISANDO PROVEITO PRÓPRIO.
+APELAÇÃO DESPROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação ao art. 166, IV e V, do CC, no que concerne à ausência dos requisitos para a condenação da parte ora recorrente em razão de descumprimento contratual, tendo em vista que quem deu causa a resolução do contrato por descumprimento legal foi a parte recorrida, trazendo a seguinte argumentação:
+O caso em testilha, trata-se de lide de conhecimento objetivando a resolução contratual de promessa de compra e venda de bem imóvel, restabelecimento do status quo ante, arbitramento de aluguel pelo período que o contestante estaria na posse do imóvel objeto do respectivo negócio, bem como indenização de multa contratual de 10%, tudo diante de alegado inadimplemento por parte do contestante/apelante, com relação ao negócio sub judice.
+De início, nota-se que o referido aditivo contratual posteriormente firmado após o falecimento da parte promitente vendedora, soa totalmente nulo 1 , eis que não anuído pelo outro herdeiro necessário noticiado - Sr. Jaime Machado Wagner.
+Inobstante, nota-se que a parte credora primitiva Sra. Diná faleceu na data 7.12.2014 (fato incontroverso), sendo que mesmo assim após o respectivo óbito noticiado, o contestante/recorrente ainda pagou mais 4(quatro) parcelas contratuais diretamente a autora Elangela (parcelas 6 a 9, vencidas de 5.1.2015 a 5.4.2015, do contrato primitivo);
+mesmo sem ter sido regularizada a situação mediante abertura de inventário.
+O contestante/recorrente teve a promessa da Autora/recorrida que o negócio seria resolvido com abertura de inventário; posteriormente foi lhe exigido o aditamento alhures referido, sempre na promessa que o outro herdeiro necessário - Sr.
+Jaime Machado Wagner, seria chamado para integralizar o negócio ou ser aberto inventário em face do noticiado falecimento da Sra. Diná Machado Wagner (contratante primitiva).
+Inobstante, o contestante/recorrente ainda pagou para parte autora mais 5 (cinco) parcelas contratuais do aditivo noticiado, sempre com a expectativa que a demandante/recorrente resolveria o impasse para regularizar a situação da ausência do outro herdeiro necessário mencionado. Todavia, a parte autora/recorrida jamais cumpriu coma a obrigação legal de abrir o inventário pelos bens e direitos incidentes do espólio de Diná Machado Wagner, ou mesmo com relação ao chamamento de seu irmão Jaime, também herdeiro necessário no caso para então integralizar uma possível composição conjunta e assim solver o impasse com todos interessados obrigatórios.
+Diante dessa fatídica questão, o contestante/recorrente viu-se obrigado a suspender os pagamentos contratuais até que o impasse fosse resolvido, eis que dessa maneira como se encontra (ou seja, sem a anuência do outro herdeiro necessário Sr. Jaime), jamais seria possível a escritura definitiva do imóvel objeto da lide, mesmo após sua quitação integral.
+Isso porque, o aditivo contratual posterior noticiado, fatalmente para sua validade jurídica precisaria ser anuído também pelo outro herdeiro necessário noticiado.
+Como visto, não foi assim, o contestante/recorrente quem deu causa ao impasse verificado, sendo que a parte autora/recorrida foi omissa e quem não providenciou as diligências legais necessárias para solver o imbróglio (abertura de inventário, ou no mínimo o chamamento do outro herdeiro necessário para uma eventual composição então conjunta obrigatória entre todos interessados).
+Nesse norte, não há que se falar em mora do contestante/recorrente, resolução contratual, ou mesmo multa contratual. Outrossim, por razão devidamente comprovada na espécie - pelo próprio atestado de óbito da parte contratante primitiva (fato incontroverso), no caso em tela estar-se diante de verdadeiro fato impeditivo (suspensivo) e extintivo do suposto direito alegado pela parte autora/recorrida (art. 350, c/c art. 373, II, ambos do CPC), razão pela qual soa de rigor a total improcedência da lide (fls. 204/206).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+E, conforme se vê das razões recursais, o apelante limita-se a alegar a nulidade do termo aditivo firmado após o falecimento da promitente vendedora.
+ ..
+Assim, o réu fi rmou, de livre e espontânea vontade, o Termo Aditivo, comprometendo-se ao pagamento do saldo devedor em 18 parcelas e, conforme referido pela parte autora na inicial, pagou somente 5 parcelas do total, o que é incontroverso nos autos.
+E tal descumprimento autoriza a resolução do contrato.
+ ..
+Como já referido, as parcelas do preço foram inadimplidas e não há como reconhecer a nulidade alegada (fls. 188/190)
+Assim, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 9.10.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3.10.2019; AgInt no AREsp 1.165.518/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.10.2019; AgInt no AREsp 481.971/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25.9.2019; AgInt no REsp 1.815.585/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 23.9.2019; e AgInt no AREsp 1.480.197/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
