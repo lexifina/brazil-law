@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SOELI DE AZEVEDO BRAVIN e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CÍVEL. DIREITO PRIVADO. AÇÃO DE COBRANÇA DE HONORÁRIOS CONTRATUAIS. CONTRATO EXISTENTE, VÁLIDO E EFICAZ. PERCENTUAL DE 20%. REVISÃO. IMPOSSIBILIDADE. BASE DE CÁLCULO. VALOR DA ESCRITURA PÚBLICA. CORREÇÃO MONETÁRIA. DATA DA VENDA DO IMÓVEL RURAL. OBSERVÂNCIA
+1. O advogado que presta serviços advocatícios ao constituinte tem direito de receber os honorários contratados, inclusive de pleitear judicialmente, em caso de inadimplência, a execução forçada do contrato, até a satisfação de seu crédito.
+2. O advogado, ao prestar os serviços de advocacia, pode formalizar com o constituinte, pois lícito e permitido, um contrato com cláusula quota littis, pela qual estipulará em pecúnia um percentual que lhe será devido pelo êxito do processo judicial.
+3. Em respeito à intervenção mínima nas relações privadas, a revisão contratual pelo Judiciário é medida excepcional e só deve ocorrer quanto existir elementos concretos e suficientes que demonstrem um enlace assimétrico e desigual.
+4. O percentual de 20% estabelecido no contrato de honorários para remunerar o advogado pelo serviço prestado em três ações judiciais (demarcatória, possessória e usucapião envolvendo imóvel rural) não é desproporcional ao proveito econômico obtido pelo constituinte (reintegração na posse, arrendamentos e venda por cifras milionárias), não comportando, pela simetria e paridade, qualquer revisão.
+5. O percentual de 20% deve incidir sobre o valor estabelecido na escritura pública de compra e venda de imóvel rural, uma vez que, dotada de fé-pública, corresponde formalmente ao proveito econômico obtido pelo constituinte com a alienação, sendo, por conseguinte, a efetiva base de cálculo.
+6. Na condenação em honorários contratuais em razão da inadimplência constatada a correção monetária incide a partir das marcos condicionantes fixados no contrato de prestação de serviço advocatício, devendo corresponder, no caso em apreço, à data em que se lavrou a escritura de compra e venda.
+7. Recurso conhecido e em parte provido, nos termos do voto prolatado.
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. SUCUMBÊNCIA RECÍPROCA. NÃO ENFRENTAMENTO EXPLÍCITO. VÍCIO DE OMISSÃO. OCORRÊNCIA. INTEGRAÇÃO DO ACÓRDÃO. EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS, MAS SEM EFEITOS INFRINGENTES.
+1. Cabem embargos de declaração para sanar vício de omissão, contradição, obscuridade e, ainda, para corrigir erro material.
+2. O reconhecimento da sucumbência recíproca pressupõe o número de pretensões formuladas na ação e, inclusive, a proporcionalidade do decaimento de cada uma delas.
+3. A modificação da base de cálculo em que incidirá o percentual da condenação dos honorários contratuais não configura sucumbência recíproca, quando há pedido subsidiário na inicial e o bem da vida for acolhido na essência.
+4. Embargos de declaração admitidos e acolhidos, porém sem efeitos infringentes, nos termos do voto prolatado.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 85 e 86 do CPC, no que concerne à configuração de sucumbência recíproca, impondo-se a redistribuição proporcional do ônus da sucumbência, trazendo a seguinte argumentação:
+Quando do manejo do apelo, fora consignado que o outrora apelado (ora recorrido) pleiteou a cifra de R$ 2.058.217,60, em 20/03/2020 e, ao prolatar sentença de primeiro grau, logrou êxito em R$ 1.200.000,00, sucumbindo em aproximadamente 40% (quarenta por cento) de seus pedidos.
+Em grau recursal, a respeitável Turma do TJTO deu parcial provimento ao recurso, reduzindo a base de cálculo para condenação em honorários no valor de R$ 910.000,00 (novecentos e dez mil reais).
+Não é forçoso consignar que, em verdade, o apelado sucumbiu em 55% (cinquenta e cinco por cento) de seus pedidos iniciais, ao ser julgado este acórdão.
+ ..
+Ora, se o recorrido pleiteia, inicialmente, cifra de R$ 2.058.217,60 e, ao final do provimento jurisdicional, obtém êxito em condenação no valor de R$ 910.000,00, têm-se que, por simples lógica aritmética, o recorrido logrou êxito somente em 44,21% (quarenta e quatro inteiros e vinte e um por cento) de seu pedido inicial, sendo, por também óbvio, sucumbente no restante (55,78%).
+ ..
+Desta forma, imperioso o reconhecimento da sucumbência recíproca, havendo plena necessidade de que este Sodalício determine o retorno dos autos ao TJTO, para que, reconhecendo a sucumbência recíproca, julgue pelo decaimento proporcional das partes, para que possa ser feita corretamente a distribuição das despesas proporcionais (fls. 740-741).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Estabelecidos esses contornos, o embargado Rudnei Fortes Drumm pleiteou a condenação dos embargados Lauro Bravin e Soeli de Azevedo Bravin ao pagamento dos honorários contratuais em 20% sobre o valor o valor de R$ 2.058.271,60 reais ou, não sendo esse o entendimento, sobre o benefício auferido por estes.
+Na sentença de mérito, o juízo de primeiro grau, embora condenando os embargantes ao pagamento dos honorários contratuais então pleiteados, estabeleceu a venda do imóvel como base de cálculo para a incidência do percentual de 20%, considerando 75.000 sacas de soja pelo preço unitário de R$ 80,00 reais.
+No recurso de apelação interposto pelos embargantes, este Tribunal de Justiça, por sua 4ª Turma da 2ª Câmara Cível, deu-lhe parcial provimento, apenas para, reformando minimamente a sentença combatida, estabelecer o valor contido na escritura pública de compra e venda como a base de cálculo em que deverá incidir o percentual de 20% referente aos honorários contratuais.
+Assim, diferentemente do que quer fazer crer os embargantes nas razões de seu recurso, não houve sucumbência recíproca, pois, além de ter havido pedido alternativo quanto à base de cálculo de incidência do percentual de 20%, a pretensão material (pedido formulado) pelo embargante foi acolhida na essência.
+Nesse passo, a modificação da base de cálculo em que incidirá o percentual da condenação dos honorários contratuais não configura sucumbência recíproca, quando há pedido subsidiário na inicial e o bem da vida for acolhido na essência (fl. 720).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 25.6.2020.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.848.602/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28.8.2020; AgInt no AREsp 1.571.133/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 7.5.2020; AgInt no REsp 1.336.000/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 14.2.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
