@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por CHICHETTO COMÉRCIO DE ALIMENTOS, com fulcro no art. 105, III, "a", da CFRB, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 336):
+TRIBUTÁRIO. LEGITIMIDADE ATIVA. PIS E COFINS. CIGARROS E CIGARRILHAS TEMA 228DO STF. INAPLICABILIDADE.
+1. No regime de substituição tributária, o substituído, relativamente às contribuições objetoda substituição, é o contribuinte de fato e de direito, agindo o substituto como mero arrecadador da exação, de modo que o substituído possui legitimidade para pleitear a restituição.
+2. Considerando a diretriz do art. 926 do CPC, alinho-me ao entendimento das Turmas daPrimeira Seção, no sentido de que na venda de cigarros, o comerciante varejista, na condição desubstituído tributário, não tem direito à restituição dos valores do PIS/COFINS recolhidos pelosubstituto quando o preço de venda for inferior ao tabelado.
+Embargos de declaração rejeitados às fls. 354-357.
+O recorrente alega violações dos artigos 62 da Lei 11.196/2005 e 165 do CTN, argumentando que i) não se trata de venda por preço abaixo do tabelado, mas de a própria venda pelo preço tabelado corresponder a valor inferior ao da base de cálculo presumida para fins da tributação questionada e ii) a decisão recorrida afronta o que dispõe o art.165 do Código Tributário Nacional, segundo o qual o contribuinte tem direito à restituição total ou parcial de tributo pago a maior.
+Aduz, à fl. 374, que a tese firmada no tema 228 é clara e não deixa exceções a serem preenchidas pelo hermeneuta, logo, os valores cobrados de PIS e COFINS sobre a diferença entre a base de cálculo efetiva e a estimada/presumida, deverão ser restituídos ao contribuinte, sob pena de enriquecimento sem causa do Estado, afrontando o art. 150 § 7º da CF, e ainda, de fazer letra mortao TEMA 228 do STF.
+Contrarrazões a fls. 408-417.
+Juízo positivo de admissibilidade à fl. 432.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Evidencia-se que o artigo 62 da Lei 11.196/2005 (e a tese a ele vinculada) não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Nesse diapasão, esclarece-se que não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pelo recorrente.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/4/2017)
+No que diz respeito ao artigo 165 do CTN (e a tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Por fim, não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido dispositivo legal.
+Ante todo o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SÚMULA 282/STF. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. ECURSO ESPECIAL NÃO CONHECIDO.
