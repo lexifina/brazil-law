@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo interno interposto por JULIANA NASCIMENTO SILVA contra decisão monocrática desta Relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, a agravante alega, em síntese, que não é necessário o reexame dos fatos e provas existentes nos autos, mas apenas a revaloração dos fatos.
+Reitera a alegação de que a cláusula constante no Contrato de Financiamento que elevou o valor a ser pago com recursos do FGTS em relação ao anteriormente estabelecido no contrato particular de promessa de compra e venda é nula de pleno direito, pois o contrato de financiamento está vinculado aos termos do contrato de promessa de compra e venda e, no caso, não pode alterar as condições definidas anteriormente.
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+Intimada, a parte agravada apresentou manifestação pleiteando a rejeição do agravo interno, com aplicação da multa do art. 1.021, § 4º, do CPC (e-STJ, fls. 1257/1262).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA COM RESTITUIÇÃO DE VALORES. PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. PRINCÍPIO DE PAGAMENTO COM VALORES DA CONTA DE FGTS. PREVISÃO CONTRATUAL EXPRESSA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos, da natureza da avença e da interpretação das cláusulas contratuais, julgou improcedente o pedido de ressarcimento, firme na convicção de que, "no contrato de financiamento firmado entre a parte apelante e a instituição financeira, também foi previsto que parte do pagamento seria pago com recursos do FGTS da parte apelante", assim, "não há que se falar em ressarcimento, pois tal valor foi devidamente previsto no contrato".
+2. A modificação da conclusão do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos, além da necessidade de interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Em que pesem os esforços empreendidos pela parte agravante, não há, nas razões recursais, argumentação capaz de modificar a decisão agravada.
+Observa-se que os argumentos trazidos mostram-se insuficientes para infirmar a decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Da análise acurada dos autos, infere-se que, na origem, JULIANA NASCIMENTO SILVA - ora agravante - ajuizou ação declaratória com pedido de repetição de indébito e indenização por danos morais contra os ora agravados, cuja causa de pedir se refere ao desconto a maior do FGTS depositado em sua conta, uma vez que o valor acordado em contrato preliminar de promessa de compra e venda era outro.
+A sentença fora de extinção do feito, com julgamento de mérito, ante o reconhecimento da prescrição trienal da pretensão inicial.
+O eg. Tribunal de Justiça do Estado de Minas Gerais deu provimento à apelação para afastar a prejudicial de prescrição e, nos termos do art. 1.013, § 4º, do CPC/2015, julgar improcedentes os pedidos iniciais, nos termos da seguinte fundamentação:
+"Recurso próprio e tempestivo, que deve ser conhecido.
+A prejudicial de mérito arguida foi acolhida pela sentença apelada, que declarou a prescrição da integralidade das prestações exigidas, com o que a parte autora não se conforma.
+Depreende-se dos autos que a parte apelante propôs a presente ação com o escopo de ressarcimento do valor correspondente à suposta cobrança a maior descontado de seu FTGS.
+Ao que se constata, as partes entabularam contrato de promessa de compra e venda de imóvel em 21/03/2011.
+Para o caso, por se tratar de reparação civil fundada em contrato, deve-se utilizar o prazo geral previsto no artigo 205, do CC, qual seja, o decenal.
+Nesse sentido, não há que se falar em prescrição.
+Ante o exposto, dou provimento ao recurso para afastar a prejudicial de prescrição e, nos termos do art. 1.013, §4º, do CPC/15, passo a analisar o mérito da demanda.
+MÉRITO
+No caso dos autos, a parte autora afirma que firmou contrato de compra e venda com o apelado RNI NEGÓCIOS IMIBILIÁRIOS S/A nova denominação de RODOBENS NEGÓCIOS IMOBILIÁRIOS e uma parte do valor acordado, R$2.000,00 (dois mil reais), seria pago pelo seu FGTS. Sustenta que o valor pago com seu FGTS, na verdade, foi de R$5.024,13 (cinco mil, vinte e quatro reais e treze centavos), e requer a restituição em dobro do valor pago a maior e indenização por danos morais.
+Verifica-se que, na promessa de compra e venda firmada às fls. 22/48 - PJE (doc. único), pactuou-se, nas condições de pagamento, que o valor de R$2.000,00 (dois mil reais) seria pago com recursos do FGTS da parte apelante.
+Por sua vez, no contrato de financiamento firmado entre a parte apelante e a instituição financeira, também foi previsto que parte do pagamento seria pago com recursos do FGTS da parte apelante, conforme fl. 73 - PJE (doc. único).
+Observa-se que o valor que a parte apelante alega que foi cobrado a mais é exatamente o valor previsto no contrato de financiamento. Dessa forma, não há que se falar em ressarcimento, pois tal valor foi devidamente previsto no contrato.
+Ante o exposto, julgo improcedentes os pedidos iniciais." (fls. 1036-1037)
+E ao julgar os embargos de declaração, acrescentou:
+Peço vênia ao Relator, eminente Desembargador Antônio Bispo, para divergir do seu voto, por verificar omissão no acórdão quanto à análise do pedido inicial de declaração de nulidade do item 3 -B do quadro resumo do contrato de financiamento entre a autora e o terceiro réu, notadamente em razão do disposto no art. 51, IV, do CDC. A matéria efetivamente não foi expressamente abordada no acórdão embargado, não sendo possível falar-se em presunção de não nulidade da cláusula apenas com base na sua aplicação no acórdão.
+Passa-se, dessa forma, à análise da ocorrência de nulidade da cláusula supramencionada, de modo a sanar o vício existente na fundamentação do acórdão.
+Não se vislumbra nulidade na cláusula prevista no contrato de financiamento, de utilização de maior valor a ser pago com recurso do FGTS para aquisição do imóvel daquele originariamente previsto na promessa de compra e venda. Não há nos autos comprovação de que isso tenha sido condicionante para realização do financiamento com o banco réu. Além disso, não se vislumbra abusividade da cláusula e sequer desvantagem exagerada ao consumidor, até mesmo porque sobre o recurso do FGTS não incidem os encargos do financiamento.
+Posto isso, pedindo nova vênia, acolho parcialmente os embargos de declaração, sem efeito modificativo, apenas para sanar omissão na fundamentação do acórdão, conforme fundamentação supra." (fls. 1087-1088)
+Do excerto transcrito, constata-se que o egrégio Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos, da natureza da avença e da interpretação das cláusulas contratuais, julgou improcedente o pedido de ressarcimento, firme na convicção de que "no contrato de financiamento firmado entre a parte apelante e a instituição financeira, também foi previsto que parte do pagamento seria pago com recursos do FGTS da parte apelante", assim, "não há que se falar em ressarcimento, pois tal valor foi devidamente previsto no contrato".
+Ainda, a Corte de origem concluiu não haver nulidade na cláusula prevista no contrato de financiamento, de utilização de maior valor a ser pago com recurso do FGTS para aquisição do imóvel originariamente previsto na promessa de compra e venda, porquanto "não há nos autos comprovação de que isso tenha sido condicionante para realização do financiamento com o banco réu. Além disso, não se vislumbra abusividade da cláusula e sequer desvantagem exagerada ao consumidor, até mesmo porque sobre o recurso do FGTS não incidem os encargos do financiamento".
+Nesse contexto, verifica-se que a modificação da conclusão do Tribunal de origem sobre a validade da cláusula do contrato de financiamento, como pleiteia a parte ora agravante, demandaria o revolvimento do suporte fático-probatório dos autos e das cláusulas contratuais, o que é inadmissível em sede de recurso especial, por vedação das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C REPETIÇÃO DE INDÉBITO. COOPERATIVA DE TRANSPORTE PÚBLICO. DÉBITO EM CONTA CORRENTE DE VALORES INADIMPLIDOS PELA COOPERATIVA, ORIUNDOS DE CONTRATOS DE FINANCIAMENTO DE MICRO-ÔNIBUS. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, não incide o diploma consumerista, pois os contratos de mútuo foram obtidos com o propósito de fomentar a atividade empresarial da pessoa jurídica. Precedentes do STJ.
+2. A modificação da conclusão delineada no acórdão recorrido - de que a cobrança se tratou de mero exercício regular do direito da instituição financeira, pois havia cláusula contratual permitindo o débito em conta corrente relativo às prestações inadimplidas - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, bem como das cláusulas dos contratos de financiamento, atraindo, assim, os óbices dispostos nas Súmulas n.ºs 5 e 7 do STJ.
+3. Agravo interno não provido (AgInt no AREsp n. 2.016.770/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS ALEGADAS. SÚMULA 211 DO STJ. ILEGITIMIDADE E IRRESPONSABILIDADE DA CEF PARA RESPONDER PELAS PRETENSÕES DE DANOS MATERIAIS E MORAIS. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. SÚMULA 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias previstas no art. 9º da Lei nº 11.977/2009, art. 25, § 1º, do Código de Defesa do Consumidor, art. 933, do Código de Processo Civil, e art. 724 do Código Civil, não foram objeto de debate no acórdão recorrido, nem nos embargos de declaração opostos.
+A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial.
+Incidência na espécie da Súmula 211/STJ.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias de que a atuação da Caixa Econômica Federal no negócio jurídico cingiu-se ao financiamento do imóvel e, nessa condição de agente financeiro, apenas possibilitou a aquisição do bem mediante a concessão do crédito, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido no que se refere aos honorários advocatícios denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.801.437/RN, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Por fim, não merece ser acolhido o pedido formulado em impugnação do presente agravo interno quanto à incidência de multa.
+Com efeito, na linha do entendimento firmado pela Segunda Seção no julgamento do AgInt nos EREsp 1.120.356/RS, "a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória".
+Contudo, o presente agravo interno não apresenta tais características.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
