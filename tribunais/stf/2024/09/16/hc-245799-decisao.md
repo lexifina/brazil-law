@@ -1,0 +1,105 @@
+DECISÃO
+
+HABEAS CORPUS. FURTO QUALIFICADO. CONCURSO DE PESSOAS. CONTUMÁCIA DELITIVA. VALOR DA RES FURTIVA: SUPERIOR A 10% DO VALOR REFERENTE AO SALÁRIO MÍNIMO VIGENTE À ÉPOCA. PRINCÍPIO DA INSIGNIFICÂNCIA: INAPLICABILIDADE. ORDEM DENEGADA.
+
+    1. Trata-se de habeas corpus impetrado contra acórdão pelo qual a Sexta Turma do Superior Tribunal de Justiça negou provimento ao Agravo Regimental no Agravo em Recurso Especial nº 2.415.430/PA (e-doc. 4, p. 73-76).
+
+    2. Consta dos autos que o paciente foi condenado, em primeira instância, à pena de 2 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa, ante o cometimento do crime previsto no art. 155, § 4º, inc. IV, do Código Penal (furto qualificado), sendo a pena privativa de liberdade substituída por duas restritivas de direitos (prestação de serviços à comunidade e limitação de final de semana).
+
+    3. O Tribunal de Justiça negou provimento à apelação da defesa (e-doc. 5, p. 6-11). O recurso especial foi inadmitido.
+
+    4. Interposto agravo ao STJ, o Ministro Relator conheceu do recurso e negou provimento ao recurso especial (e-doc. 4, p. 31-35). Sobreveio o agravo regimental de que resultou o ato ora impugnado.
+
+    5. Neste habeas corpus, a Defensoria Pública do Estado do Pará alega a atipicidade material da conduta, com fundamento no princípio da insignificância. Destaca o pequeno valor da res furtiva — aproximadamente R$ 200,00 (1 janela de alumínio; 1 boxe de blindex; 1 tampa de blindex e 1 tampa de mesa de blindex). Aduz tratar-se de furto tentado. Aponta constrangimento ilegal no reconhecimento dos maus antecedentes e reincidência, uma vez que o paciente seria primário. Ressalta a ausência de reprovabilidade do comportamento, considerando que o paciente estava afetado pelo uso de entorpecentes.
+
+    6. Busca o reconhecimento da atipicidade material da conduta, com a absolvição do paciente.
+
+    É o relatório.
+
+    Decido.
+
+    7. O princípio da insignificância surgiu no Direito Romano, no entanto restringia-se ao âmbito cível, com suporte no brocardo de minimis non curat praetor (o magistrado não deve se ocupar de assuntos irrelevantes). Na década de 1970, foi introduzido no Direito Penal, a partir dos estudos de Claus Roxin. Tem por finalidade limitar o campo de incidência do tipo penal, evitando-se a punição de comportamentos criminosos irrelevantes que resultem em lesão inexpressiva ao bem jurídico tutelado pela norma penal. Afasta-se a tipicidade material da conduta — não obstante formalmente típica — quando, como dito, não demonstrada lesão substancial ao bem jurídico. Conforme preleciona Assis Toledo:
+
+    “(...) segundo o princípio da insignificância, que se revela por inteiro pela sua própria denominação, o direito penal, por sua natureza fragmentária, só vai aonde seja necessário para a proteção ao bem jurídico. Não deve se ocupar de bagatelas.”
+
+    (TOLEDO, Francisco de Assis. Princípios básicos de direito penal, São Paulo: 5ª ed. Saraiva, 2002, p. 133).
+
+    8. Seu postulado decorre da interpretação dos seguintes princípios basilares do Direito Penal, que se inter-relacionam:
+
+    “(i) da intervenção mínima (o direito penal só deve ser utilizado como ultima ratio (ii) da fragmentariedade (o direito penal é um “sistema descontínuo de ilicitudes”, que somente se destina a proteger determinadas ofensas a certos bens jurídicos, sendo vedada a analogia para preencher lacunas sob o pretexto de resguardá-los); (iii) da subsidiariedade (só se deve lançar mão do direito penal caso outros ramos do direito não sejam capazes de oferecer uma resposta satisfatória); e (iv) da lesividade (não há crime sem lesão ou perigo de lesão a um bem jurídico pertencente a outrem).”
+
+    (BATISTA, Nilo. Introdução crítica ao direito penal brasileiro. Rio de Janeiro: Revan, 2011, p. 82-94; grifos nossos).
+
+    9. No HC nº 84.412/SP (Rel. Min. Celso de Mello, Segunda Turma, j. 19/10/2004, p. 19/11/2004), o Supremo Tribunal Federal definiu vetores para aplicação do princípio da bagatela, a saber: “(a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada.” Essas diretrizes, desde então, têm norteado a atuação dos Ministros desta Corte.
+
+    10. Estabelecidas essas premissas, cumpre esclarecer os contornos fáticos do caso sob análise. O Tribunal de Justiça, ao negar a observância ao princípio da insignificância, destacou a contumácia delitiva e a qualificadora do crime — concurso de agentes. Veja-se o seguinte trecho do voto condutor do acórdão:
+
+    “ (...) II.1 – Pleito de absolvição por atipicidade da conduta e aplicação do princípio da insignificância.
+
+    A defesa requer a absolvição do acusado, pois o furto por ele praticado demandaria a aplicação do princípio da insignificância, haja vista o inexpressivo valor econômico dos produtos subtraídos, o que tornaria sua conduta materialmente atípica.
+
+    Quanto ao pleito, lembro que não somente o valor econômico do produto do crime é considerado para fins de aplicação do princípio da insignificância, devendo serem ponderados todos os vetores jurisprudencialmente reconhecidos, de forma cumulativa, para que se possa considerar uma conduta formalmente típica como materialmente atípica. Nesse sentido, diz o Supremo Tribunal Federal:
+
+    Ementa: Direito processual penal. Agravo regimental em embargos de declaração em habeas corpus. Furto. Trancamento da ação penal. Princípio da Insignificância. Inaplicabilidade. Réu que ostenta vários antecedentes criminais e descumpriu as medidas cautelares diversas da prisão. Jurisprudência do Supremo Tribunal Federal. 1. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que o trancamento de ação penal só é possível quando estiverem comprovadas, de logo, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa (HC 103.891, Redator para o acórdão o Min. Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min.Ilmar Galvão; HC 118.066-AgR, Rel.ª Min.ª Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux). 2. O Plenário do STF tem entendimento consolidado no sentido de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente; (ii) nenhuma periculosidade social da ação; (iii) grau reduzido de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio. 3. Na hipótese de que se trata, embora o valor dos bens subtraídos não seja expressivo, os autos informam que o paciente é reincidente, portador de maus antecedentes, ostentando ainda várias anotações criminais por crimes contra o patrimônio. De modo que não se mostra possível a adoção do princípio da insignificância. 4. Merece destaque o fundamento adotado pelo Tribunal de Justiça do Estado do Rio de Janeiro no sentido de que, “em gozo de liberdade provisória mediante cumprimento de condições, o paciente as desobedeceu, ocasionando a revogação das medidas cautelares, sendo corretamente determinada sua prisão preventiva, consoante dicção do artigo 282, § 4º, do CPP”. 5. Agravo regimental a que se nega provimento. (HC 214995 ED-AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 29/08/2022, PROCESSO ELETRÔNICO DJe-250 DIVULG 07-12-2022 PUBLIC 09-12-2022)
+
+    Como se vê, quatro são as condições a serem preenchidas para aplicação do princípio da insignificância, sendo elas: mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, o grau reduzido de reprovabilidade do comportamento, e a inexpressividade da lesão jurídica provocada.
+
+    Analisando os autos, tem-se que de fato, o produto do furto teria reduzido valor econômico, considerando que o imóvel estaria abandonado e este já vinha sendo saqueado anteriormente. Todavia, quando se analisa o grau de reprovabilidade do comportamento do acusado, vê-se que este é elevado e isso por dois fatores. Primeiramente, pelo fato de ter cometido o delito em concurso de agentes, que no caso do tipo penal do art. 155, §4º, inciso IV do CP/40, representa circunstância qualificadora, ensejando maior reprovabilidade da conduta.
+
+    Ademais, compulsando os autos, vê-se que, contrariamente ao entendimento do juízo a quo, o acusado é portador de maus antecedentes e, em sua maioria, por crimes contra o patrimônio, o que denota sua habitualidade delitiva. Isso porque embora a certidão de antecedentes criminais de Num. 4401942 - Pág. 13 apenas indique 03 (três) ocorrências criminais, a certidão de antecedentes de Num. 4401939 - Pág. 7/9, mais completa e referente ao mesmo acusado com a mesma filiação, indica 15 (quinze) ocorrências criminais, as quais comprovam não só seus maus antecedentes, como também seu estado de reincidente.
+
+    Embora a reincidência e a habitualidade delitiva tenham se tornado fator controverso no campo dos crimes de bagatela (haja vista a variedade de entendimentos sobre a aplicação do princípio da insignificância, pois parte da jurisprudência a entende como óbice à aplicação deste último, enquanto outra parte a desconsidera), filio-me ao entendimento do Supremo Tribunal Federal, acima exposto, no sentido de que a contumácia delitiva impede sua incidência.
+
+    Sendo assim, entendo incabível a absolvição do acusado por atipicidade material, uma vez que incorreu na conduta tipificada no art. 155, §4º, inciso IV do CP/40, sem que se possa aplicar o princípio da insignificância ante sua contumácia delitiva e ainda a forma qualificada do crime, razão porque nego provimento ao recurso.” (e-doc. 5, p. 8-9; grifos nossos).
+
+    11. De igual modo, foi o entendimento do STJ ao afastar a aplicação do princípio da insignificância. Confira-se a ementa do acórdão:
+
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONCURSO DE AGENTES E REITERAÇÃO DELITIVA. DESPROVIMENTO.
+
+    1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+
+    2. Tratando-se de furto qualificado pelo concurso de agentes, e constatado pelas instâncias ordinárias a habitualidade delitiva do réu, ora agravante, tais circunstâncias, somadas, evidenciam o não preenchimento dos requisitos necessários ao usufruto do benefício, sobretudo a mínima ofensividade da conduta e o seu reduzido grau de reprovabilidade.
+
+    3. "A restituição da res furtiva à vítima, na forma do entendimento consolidado desta Corte Superior, não constitui, isoladamente, motivo suficiente para a aplicação do princípio da insignificância" (AgInt no REsp n. 1.642.455/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/5/2017, DJe de 30/5/2017.)
+
+    4. Agravo regimental desprovido.” (e-doc. 4; p. 73; grifos nossos).
+
+    12. Assim, observado o contexto em que ocorrido o delito — furto praticado mediante concurso de agentes — a contumácia delitiva e o valor da res furtiva, superior a 10% do salário mínimo vigente à época, mostram-se serem consideráveis a reprovabilidade e ofensividade da conduta, assim como a lesão ao bem jurídico tutelado, de modo a inviabilizar a observância ao princípio. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. AUSÊNCIA DE REFORÇO INDEVIDO NA FUNDAMENTAÇÃO. REPRODUÇÃO DAS CONSTATAÇÕES FÁTICAS AFIRMADAS NAS INSTÂNCIAS INFERIORES. NÃO INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. FURTO QUALIFICADO PELO CONCURSO DE AGENTES, PRATICADO DURANTE O REPOUSO NOTURNO. REINCIDÊNCIA.”
+
+    (HC nº 130.617-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 02/02/2016, p. 29/02/2016; grifos nossos).
+
+    “Agravo regimental em habeas corpus. Penal. Furto qualificado pelo rompimento de obstáculo e pelo concurso de agentes (CP, art. 155, § 4º, incisos I e IV). Alegada incidência do postulado da insignificância penal. Não incidência, tendo em vista a contumácia e o rompimento de obstáculo perpetrado. Precedentes do Tribunal Pleno. Expressividade financeira do bem subtraído se levado em conta o valor do salário mínimo vigente à época dos fatos (setembro de 2006). Precedentes. Agravo não provido. (...). 3. Não há como considerar de reduzida expressividade financeira o valor em que foi avaliado o bem subtraído (R$ 81,00 – oitenta e um reais), se levado em conta que o valor do salário mínimo vigente à época dos fatos (setembro de 2006) não ultrapassava a cifra de R$ 350,00 (trezentos e cinquenta reais). 4. Essas circunstâncias reunidas inibem a aplicabilidade do postulado da insignificância ao caso concreto. 5. (...). Agravo regimental ao qual se nega provimento.”
+
+    (HC nº 153.980-AgR/MS, Rel. Min. Dias Toffoli, Segunda Turma, j. 18/05/2018, p. 21/06/2018; grifos nossos).
+
+    “Agravo regimental em habeas corpus. 2. Penal e processual penal. 3. Furto qualificado. Crime praticado em concurso de agentes, durante o repouso noturno e mediante rompimento de obstáculo. Pedido de aplicação do princípio da insignificância. 4. Para que haja incidência do princípio da insignificância, não é observado apenas o valor do objeto furtado. A conduta do agravante, avaliada de modo sistemático, não é insignificante. 5. Agravo não provido.”
+
+    (HC nº 225.715-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 29/05/2023, p. 1º/06/2023; grifos nossos).
+
+    “HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONTUMÁCIA DELITIVA. IMPOSIÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. POSSIBILIDADE. CONCESSÃO DE OFÍCIO. 1. A orientação firmada pelo Plenário do SUPREMO TRIBUNAL FEDERAL é no sentido de que a aferição da insignificância da conduta como requisito negativo da tipicidade, em crimes contra o patrimônio, envolve um juízo amplo, que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados (HC 123.533, Relator Min. ROBERTO BARROSO, Tribunal Pleno, DJe de 18/2/2016). 2. Busca-se, desse modo, evitar que ações típicas de pequena significação passem a ser consideradas penalmente lícitas e imunes a qualquer espécie de repressão estatal, perdendo-se de vista as relevantes consequências jurídicas e sociais desse fato decorrentes. 3. A aplicação do princípio da insignificância não depende apenas da magnitude do resultado da conduta. Essa ideia se reforça pelo fato de já haver previsão na legislação penal da possibilidade de mensuração da gravidade da ação, o que, embora sem excluir a tipicidade da conduta, pode desembocar em significativo abrandamento da pena ou até mesmo na mitigação da persecução penal. 4. Não se mostra possível acatar a tese de atipicidade material da conduta, pois não há como afastar o elevado nível de reprovabilidade assentado pelas instâncias antecedentes, ainda mais considerando os registros do Juízo de origem dando conta de que o réu possui contra si outros processos criminais, mormente contra o patrimônio alheio em razão de furtos, o que desautoriza a aplicação do princípio da insignificância, na linha da jurisprudência desta CORTE. 5. Quanto ao modo de cumprimento da reprimenda penal, há quadro de constrangimento ilegal a ser corrigido de ofício. A imposição do regime inicial semiaberto, com arrimo nos antecedentes do réu, parece colidir com a proporcionalidade na escolha do regime de cumprimento de pena que melhor se coadune com as circunstâncias da conduta imputada ao paciente. Sobressai, neste exame, a pequena significação da conduta pela qual foi condenado o paciente. Ainda, à exceção dos antecedentes, as demais circunstâncias judiciais lhe são favoráveis. 6. Agravo Regimental a que se nega provimento. Ordem de Habeas Corpus concedida de ofício, para fixar ao paciente o regime inicial aberto e converter a pena privativa de liberdade por restritiva de direito, cabendo ao Juízo de origem fixar as condições da pena substitutiva.”
+
+    (HC nº 201.163-AgR/PR, Rel. Min. Dias Toffoli, Red. do Acórdão Min. Alexandre de Moraes, Primeira Turma, j. 20/09/2021, p. 17/12/2021; grifos nossos).
+
+    “HABEAS CORPUS. PENAL. PACIENTE DENUNCIADO POR FURTO QUALIFICADO TENTADO. REJEIÇÃO DA DENÚNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. VALOR DA COISA FURTADA QUE REPRESENTAVA QUASE 30% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. TENTATIVA REALIZADA MEDIANTE ESCALADA, DURANTE O REPOUSO NOTURNO. FURTO INSIGNIFICANTE. FURTO PRIVILEGIADO. DISTINÇÃO. ORDEM DENEGADA. I – A aplicação do princípio da insignificância de modo a tornar a ação atípica exige a satisfação, de forma concomitante, de certos requisitos, quais sejam, conduta minimamente ofensiva, a ausência de periculosidade social da ação, reduzido grau de reprovabilidade do comportamento e lesão jurídica inexpressiva. II – Não se pode considerar irrelevante a tentativa de furto de um aparelho celular avaliado em R$ 130,00, valor que, à época dos fatos, representava quase 30% do salário mínimo então vigente. III – O acusado tentou praticar o delito mediante escalada, durante a madrugada, comportamento que, ante a significativa ofensividade e reprovabilidade, não pode ser considerado insignificante e demonstra a necessidade da tutela penal. IV – Na espécie, a aplicação do referido instituto poderia significar um verdadeiro estímulo à prática destes pequenos furtos, já bastante comuns nos dias atuais, o que contribuiria para aumentar, ainda mais, o clima de insegurança hoje vivido pela coletividade. V – Convém distinguir, ainda, a figura do furto insignificante daquele de pequeno valor. O primeiro, como é cediço, autoriza o reconhecimento da atipicidade da conduta, ante a aplicação do princípio da insignificância. Já no que tange à coisa de pequeno valor, criou o legislador a causa de diminuição referente ao furto privilegiado, prevista no art. 155, § 2º, do Código Penal. VI – Ordem denegada.”
+
+    (HC nº 109.081/RS, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 13/09/2011, p. 29/09/2011; grifos nossos).
+
+    “AGRAVO INTERNO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE FURTO. ARTIGO 155 DO CÓDIGO PENAL. PRETENSÃO DE RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INEXISTÊNCIA DE TERATOLOGIA, ABUSO DE PODER OU FLAGRANTE ILEGALIDADE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. REITERAÇÃO DAS RAZÕES. AGRAVO INTERNO DESPROVIDO. 1. (...) ii) o Superior Tribunal de Justiça consignou que “a res furtiva foi avaliada em R$ 720,90 (setecentos e vinte reais e noventa centavos) não pode ser considerada de valor ínfimo, por superar em muito 10% do salário mínimo vigente à época dos fatos”, bem como reconheceu ‘que se trata de agente reincidente e com vasto histórico no cometimento de outros delitos contra o patrimônio, a revelar maior reprovabilidade do seu comportamento, diante da reiteração criminosa’. 3. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos. 4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC nº 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 9/5/2017; HC nº 122.904-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 17/5/2016; RHC nº 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 1º/7/2015. 5. Agravo interno desprovido.”
+
+    (RHC nº 214.592-AgR/SC, Rel. Min. Luiz Fux, Primeira Turma, j. 22/11/2022, p. 25/11/2022; grifos nossos).
+
+    13. Importante ressaltar que, no julgamento conjunto dos Habeas Corpus nº 123.108/MG, nº 123.533/SP e nº 123.734/MG (Rel. Min. Roberto Barroso, Tribunal Pleno, j. 03/08/2015, p. 1º/02/2016), firmou-se a orientação de que “a reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto”, constituindo, porém, ao lado da contumácia delitiva, um dos elementos que devem ser considerados dentro de um “juízo amplo (‘conglobante’), que vai além da simples aferição do resultado material da conduta”.
+
+    14. No caso, conforme fiz ver, não se vislumbra a mínima ofensividade da conduta, o reduzidíssimo grau de reprovabilidade do comportamento, tampouco a inexpressividade da lesão jurídica provocada, o que impede o pretendido reconhecimento do princípio da bagatela e, por conseguinte, do pleito absolutório.
+
+    15. Por todo o exposto, denego a ordem, com fundamento no art. 192 do RISTF.
+
+    Publique-se.
+
+    Brasília, 16 de setembro de 2024.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
