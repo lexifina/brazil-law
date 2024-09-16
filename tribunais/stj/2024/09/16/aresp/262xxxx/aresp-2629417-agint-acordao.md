@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo interno interposto por GABRIELA ANDREOLI OLIVEIRA DE TOLEDO e OUTRAS contra decisão monocrática da Presidência do STJ (e-STJ, fls. 198-199), que conheceu do agravo para não conhecer do recurso especial, em razão da intempestividade.
+Nas razões do agravo interno (e-STJ, fls. 202-208), as agravantes alegam a tempestividade do recurso, tendo em vista a suspensão dos prazos nos dias 12 e 13 de fevereiro de 2024, por força da portaria STJ/GP/2/2024 do STJ.
+Foi apresentada impugnação (e-STJ, fls. 213-224).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. PENHORA DE NUMERÁRIO EXISTENTE EM CONTA CORRENTE DOS EXECUTADOS. IMPENHORABILIDADE DE VERBA. AUSÊNCIA DE COMPROVAÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. O Tribunal de Justiça concluiu pela possibilidade de manutenção de penhora sobre valores a propósito dos quais não há comprovação da sua natureza alimentar. Na hipótese, rever a conclusão do aresto impugnado acerca da demonstração, ou não, da natureza salarial dos valores penhorados demandaria o reexame fático-probatório dos autos.
+2. Agravo interno provido para conhecer do agravo e não conhecer do recurso especial.
+VOTO
+À vista das razões apresentadas no agravo interno, reconsidero a decisão da Presidência desta Corte, tendo em vista que a parte agravante comprovou o feriado na segunda-feira de carnaval (e-STJ, fls. 202-208).
+Passa-se, assim, a novo exame do recurso.
+Trata-se de agravo de GABRIELA ANDREOLI OLIVEIRA DE TOLEDO e OUTRAS contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Despejo por falta de pagamento cumulada com cobrança - Cumprimento de sentença - Penhora de numerário existente em conta corrente dos executados - Possibilidade de manutenção de penhora sobre valores a propósito dos quais não há comprovação da sua natureza alimentar nem de que pertença a escritórios parceiros - Falecimento do executado e único sócio, mas o seu espólio continua a responder pela dívida - Agravo provido."
+Nas razões do recurso especial (e-STJ, fls. 101-128), a parte recorrente alegou violação do art. 833 do Código de Processo Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o valor bloqueado é decorrente de conta impenhorável, por se tratar de verba de natureza alimentar, de honorários advocatícios.
+Foram apresentadas contrarrazões (e-STJ, fls. 133-143).
+Passe-se à análise do mérito.
+In casu, o Tribunal de origem, ao analisar a controvérsia, consignou o seguinte (e-STJ, fls. 90-99):
+"Para análise da questão posta nos autos, transcrevo o v. acórdão proferido no julgamento do Agravo de Instrumento nº 2256947-95.2019.8.26.0000, em 17.1.20, por esta 29ª Câmara, interposto pelos agravantes, contra a r. decisão de fls. 465 do cumprimento de sentença, que deferiu a penhora no rosto de autos de "crédito de honorários contratuais em favor da sociedade de advogados, que, em princípio, é passível de constrição", processo nº 1007958-60.2013.8.26.0100, em trâmite perante a 36ª Vara Cível Central da Comarca da Capital:
+(..)
+Posteriormente, mediante pesquisa perante o RENAJUD (fls. 2362 do cumprimento de sentença), foi localizado o veículo Honda Fit, placa DRH0373, ano fab/mod 2005, de propriedade do executado Alexandre, tendo as exequentes pedido a inclusão de restrição para transferência e circulação, além da penhora do referido veículo e intimação do executado, para que informasse sua localização (fls. 2368/2369 do cumprimento de sentença).
+Em 27.7.22, foram deferidos apenas o "bloqueio" para transferência e a intimação do executado para que indicasse, no prazo de cinco dias, o endereço onde o veículo poderia ser localizado (fls. 2374/2375 do cumprimento de sentença).
+Em 17.8.22, as exequentes pediram nova penhora de ativos financeiros dos executados por meio do SISBAJUD (fls. 2383/2384 do cumprimento de sentença), além da penhora no rosto dos autos do processo nº 1065113-06.2022.8.26.0100, em trâmite perante a 38ª Vara Cível Central da Capital de São Paulo (fls. 2383/2384 do cumprimento de sentença).
+(..)
+Por decisão de 6.10.22, foi deferida a penhora de ativos financeiros dos executados (fls. 24172418 do cumprimento de sentença), obtendo-se, em 10.10.22, a penhora de R$31.032,00 da conta do Itaú Unibanco S.A da Oliveira de Toledo Sociedade Individual de Advocacia e R$49,48 da conta do Banco Bradesco do executado Alexandre (fls. 2420 e 2421 do cumprimento de sentença).
+Os executados apresentaram impugnação à penhora, alegando que o valor "oriundo da partilha de honorários advocatícios entre Escritórios parceiros, é claramente IMPENHORÁVEL, tratando-se de verba alimentar" (sic, fl. 2432 do cumprimento de sentença). Pediram a liberação da quantia penhorada, porque não pertence efetivamente aos executados, sendo decorrente de repasse de honorários advocatícios de escritórios parceiros, ou, porque é valor inferior a 40 salários, ou, alternativamente, pedem "a aplicação da moderna jurisprudência dos nossos Tribunais, para que permaneça constrito apenas 30% (trinta por cento) do valor total bloqueado, liberando-se os restantes 70% (setenta por cento) para que o Executado pessoa física possa manter a dignidade da sua família, inclusive abatendo um pouco das suas dívidas pessoais (protestos anexos), e o Escritório executado também possa quitar alguns parcelamentos realizados, e assim que possível, tenha condições de negociar/quitar a dívida que originou o bloqueio judicial" (sic, fl. 2435 do cumprimento de sentença). Juntaram certidões de protesto em nome do executado Alexandre e Valeria Andreoli de Toledo (fls. 2438/2446 do cumprimento de sentença).
+(..)
+Em primeiro lugar, deve ser afastada a alegação de que "a discussão colocada em debate pela Agravante não foi submetida à apreciação pelo Juízo "a quo"" (fl. 58 do agravo), porque foi objeto da impugnação das agravantes o fato de que "o valor bloqueado não pode ser considerado honorários advocatícios" e que a "conta da sociedade não é utilizado para fins de sustento" (sic, fl. 2454 do cumprimento de sentença).
+Sendo assim, nada impedia a determinação para que os agravados comprovassem a origem do valor penhorado, até porque, tal como constou da decisão de fl. 22 do agravo, os executados nada apresentaram em 1º grau, e tais peças eram essenciais para análise da alegação de impenhorabilidade e, portanto, da necessidade ou não de manutenção da decisão agravada.
+E os extratos bancários do escritório do executado, não comprovam a alegação de que o valor penhorado, de R$31.032,00 (fl. 78 do agravo), era proveniente de escritórios parceiros nem há prova de que se tratava de verba alimentar.
+Consta dos extratos solicitados a transferência do valor de R$166.256,25 em 26.9.22 para conta do escritório executado (fl. 76 do agravo), bem como o crédito de PIX nos valores de R$7.000,00, R$1.300,00(27.09.23, fl. 77 do agravo). Depois, consta que o valor foi utilizado para pagamento de boletos e transferências de PIX, muitos sem identificação (fls.76/77 do agravo).
+De se ver ainda que consta dos autos que o valor penhorado estava aplicado no "REST APLIC AUT MAIS", o que, por si só, afasta a alegação de que o valor pertencia a escritório parceiro, o que, ademais, não foi comprovado.
+Não se vislumbra, por outro lado, o caráter alimentar do valor, considerando que não foi demonstrado que o valor penhorado era decorrente de honorários advocatícios, não bastando, claro, mera alegação, como fizeram os executados e também as herdeiras do falecido executado.
+(..)
+Assim, nas circunstâncias do caso, considerando o falecimento do executado, inexistindo prova de que os valores eram provenientes de honorários e tinham natureza alimentar e levando em conta que seus bens continuam respondendo por suas dívidas e que suas herdeiras não respondem com seu patrimônio pessoal, fica mantida a penhora sobre o valor de R$ 31.032,00.
+A regra da execução pelo meio menos gravoso não significa complacência com devedor inadimplente.
+A execução arrasta-se há seis anos (17.7.17, fl. 114 do cumprimento de sentença), sem que os executados se abalassem em pagar o valor devido, apesar de ter sido demonstrado o recebimento de valores altos em sua conta (R$99.416,71 - 6.9.22, R$65.500,00 - 8.9.22, 9.9.22 - R$68020,92, fls.74 do agravo; R$166.256,25 - 26.9.22, fl. 76 do agravo).
+Prevalece, então, o princípio de que ao devedor incumbe pagar e, principalmente, considerando o falecimento do único sócio do escritório, também executado, e o fato de que as herdeiras já afirmaram a inexistência de herança a responder pela dívida executada, não há causa para liberação do valor penhorado, levando em conta os interesses das credoras, como está expresso no art. 797 do CPC, e a inexistência de prova de que há causa para levantar a penhora." (Sem grifo no original).
+Nesse contexto, a pretensão de alterar o entendimento firmado no acórdão recorrido sobre a comprovação da origem dos valores penhorados, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ. Com essas considerações, conclui-se que o apelo não merece prosperar.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. PRECLUSÃO. PENHORA. VERBA DE NATUREZA SALARIAL. NÃO COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A ausência de impugnação em agravo interno de capítulo autônomo e independente acarreta a preclusão da matéria não impugnada.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da demonstração, ou não, da natureza salarial dos valores penhorados demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.107.930/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+Ante o exposto, dou provimento ao agravo interno, a fim de reconsiderar a decisão de fls. 198-199, para conhecer do agravo e não conhecer do recurso especial.
+É como voto.
