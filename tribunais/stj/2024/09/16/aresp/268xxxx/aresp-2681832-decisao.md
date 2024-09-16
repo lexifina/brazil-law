@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE RIBEIRAO PRETO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ANULATÓRIA - MULTA APLICADA PELA FUNDAÇÃO PROCON COM BASE NA REGRA DO ARTIGO 55, § 4º, DO CÓDIGO DE DEFESA DO CONSUMIDOR - INEXISTÊNCIA DE RELAÇÃO DE CONSUMO - AUTUAÇÃO INDEVIDA E MULTA DESCABIDA - RECURSO DA AUTORA PROVIDO, RECURSO DA MUNICIPALIDADE PREJUDICADO E REEXAME NECESSÁRIO IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz afronta ao art. 55, §4º, do CDC, no que concerne à inexistência de nulidade do auto de infração, tendo em vista a possibilidade de notificação pelo fornecedor, porquanto o auto de infração foi lavrado em defesa do direito do consumidor, mesmo que não haja relação de consumo direta entre a seguradora e a oficina que fez a denúncia, observando que a legislação não exige que a denúncia seja feita pelo consumidor, trazendo a seguinte argumentação:
+Veja-se: o acórdão de folhas 953-958 declarou a nulidade do auto de infração com base no fato de que "(..) inexiste relação de consumo entre a seguradora e a oficina que formulou reclamação ao PROCON (..)" e que "(..) a oficina não se submete ao regime do Código de Defesa do Consumidor (..)".
+Ocorre que o fato de a oficina ter formulado a denúncia não afasta a regularidade do auto de infração.
+O artigo 55, § 4º, do CDC prevê: "§ 4º Os órgãos oficiais poderão expedir notificações aos fornecedores para que, sob pena de desobediência, prestem informações sobre questões de interesse do consumidor, resguardado o segredo industrial." (grifo acrescido).
+Ora, referido dispositivo legal não exige que a denúncia seja feita pelo consumidor. Aliás, tal previsão legal não faz nem menção sobre denúncia prévia, apenas prevendo a competência dos órgãos oficiais de expedir notificações para que os fornecedores prestem informações sobre questões de interesse dos consumidores.
+E, no caso dos autos, houve denúncia feita pela oficina, que desencadeou a notificação e o posterior auto de infração por parte do órgão oficial, e tudo isso EM DEFESA DA SEGURADA CONSUMIDORA!
+Como o próprio acórdão de folhas 953-958 declara, "(..) a relação de consumo existe apenas entre o segurado e a seguradora, como também entre o segurado e a oficina mecânica, (..)".
+Frisa-se: a denúncia, que desencadeou a notificação e o posterior auto de infração por parte do órgão oficial, abarcou o fato de a segurada ter sido impedida de levar o veículo à sua oficina de confiança, ou seja, trata de interesse claro da segurada consumidora!
+Ao declarar a nulidade do auto de infração de tal forma, o acórdão de folhas 953-958 CONTRARIA DIRETAMENTE o artigo 55, § 4º, do CDC, uma vez que o auto de infração foi lavrado justamente em DEFESA DO INTERESSE DA SEGURADA CONSUMIDORA, nos exatos moldes do referido dispositivo legal (fls. 987-988).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
