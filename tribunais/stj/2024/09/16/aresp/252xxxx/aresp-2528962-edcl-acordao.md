@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. RECURSO PROTELATÓRIO.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de segundos embargos de declaração opostos pela Associação dos Delegados de Polícia Civil do Estado de Pernambuco contra acórdão que rejeitou os embargos aclaratórios anteriormente apresentados, nos seguintes termos (fl. 569):
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+A embargante alega, em resumo, que, "com todo respeito, o acórdão que rejeitou os embargos foi omisso, pois deixou de apreciar o fundamento central dos primeiros aclaratórios, de que houve impugnação efetiva, concreta e pormenorizada em sede de Agravo em Recurso Especial para elucidar a este E. Corte que não se tratava de REsp por ofensa à portaria como entendeu a C orte, mas sim, de ofensa ao art. 2º, §5º da Lei n. 12.830/2013 e art. 50 da Lei n. 9.784/1999, de modo que a matéria devolvida a este E. STJ se trata de ofensa à norma federal. Ademais, o acórdão embargado não se manifestou também sobre a contradição apontada pela embargante, no sentido de que o Agravo Interno se restringiu à paráfrase dos argumentos previamente suscitados, visando a clareza e possibilitando a reavaliação da decisão pela Corte, não sendo possível no caso em tela a qualificação como impugnação tardia e incidência da Súmula 182/STJ. Considerando que nem o acórdão que desproveu o agravo interno, nem o acórdão que rejeitou os primeiros embargos tratou das matérias referidas, evidencia-se a persistência da omissão" (fls. 580/581).
+As razões do recurso foram impugnadas às fls. 584/589.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. RECURSO PROTELATÓRIO.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Da simples leitura do relatório, extrai-se o intento da parte de infringir o julgado, o que não se coaduna com a via integrativa.
+De fato, dispõe o artigo 1.022 do CPC que os embargos de declaração somente são cabíveis nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. No caso, uma vez mais, não se verifica a existência de quaisquer das referidas deficiências.
+Conforme já explicitado no julgamento dos embargos aclaratórios anteriores (fls. 572/573):
+verifica-se que a parte agravante comete o mesmo equívoco antes apontado, vale dizer, deixa de atacar, de modo específico, os fundamentos da decisão agravada, não desenvolvendo argumentos capazes de afastar a aplicação da Súmula 182 desta Corte, limitando-se a transcrever parte das razões deduzidas no agravo em recurso especial de fls. 417/432. Essa circunstância atrai a incidência, também ao presente agravo interno, do referido verbete sumular, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".  ..  Acrescente-se, ainda, que a impugnação tardia dos fundamentos do decisum que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação da Súmula 182/STJ, tendo em vista a ocorrência de preclusão consumativa
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+Nessa linha de entendimento:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VÍCIOS INEXISTENTES. PRETENSÃO DE REDISCUSSÃO DA CAUSA. DESCABIMENTO. 2. SEGUNDOS ACLARATÓRIOS. INSURGÊNCIA RELATIVA À DECISÃO ANTERIORMENTE EMBARGADA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. 3. DECLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. INCIDÊNCIA DE MULTA NO PERCENTUAL DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA. ART. 1.026, § 4º, DO CPC/2015. 4. EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Os embargos de declaração não se prestam à rediscussão de matéria devidamente abordada e decidida no acórdão embargado, tampouco servem para discutir manifestações relacionadas ao inconformismo das partes, afigurando-se evidente o intuito infringente da presente insurgência, cujo objetivo não é suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Ademais, "os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois o prazo para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa" (EDcl nos EDcl no AgRg nos EREsp 1.230.609/PR, Rel. Ministro Jorge Mussi, Corte Especial, julgado em 19/10/2016, DJe 26/10/2016).
+3. Por fim, dado o nítido caráter protelatório destes segundos declaratórios, tendo em vista que tiveram os mesmos argumentos dos primeiros, que, por sua vez, foram rejeitados, é impositiva a aplicação de multa de 1% sobre o valor atualizado da causa, nos termos do que dispõe o art. 1.026, § 4º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt no AREsp n. 934.341/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/2/2017, DJe de 24/2/2017.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CARÁTER PROTELATÓRIO. ABUSIVIDADE MANIFESTA. APLICAÇÃO DE MULTA. POSSIBILIDADE. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros aclaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+III - Embargos de declaração rejeitados, com aplicação de multa de 0,1% (um décimo por cento) sobre o valor atualizado da causa.
+(EDcl nos EDcl no AgRg no AREsp n. 376.500/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27/9/2016, DJe de 6/10/2016.)
+ANTE O EXPOSTO , rejeitam-se os embargos declaratórios.
+É o voto.
