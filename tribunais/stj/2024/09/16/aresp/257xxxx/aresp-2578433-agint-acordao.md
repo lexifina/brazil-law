@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANO MORAL CONFIGURADO. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DA VERBA INDENIZATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, relator o Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. No caso, alterar o entendimento alcançado pelo acórdão impugnado (quanto à afronta a direitos da personalidade da parte autora e à ocorrência de danos morais indenizáveis) exige necessariamente a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+3. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto apenas nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso. Incidência da Súmula 7/STJ.
+4. O não conhecimento do recurso especial pela alínea a do permissivo constitucional, diante da incidência da Súmula 7/STJ, prejudica o exame do dissídio jurisprudencial.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONSTRUTORA TENDA S.A. contra decisão monocrática desta relatoria (e-STJ, fls. 761-764) assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OPOSIÇÃO AO JULGAMENTO VIRTUAL E REQUERIMENTO DE SUSTENTAÇÃO ORAL. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DANO MORAL CONFIGURADO. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DA VERBA INDENIZATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 768-772), a insurgente defende, em resumo, que a análise da caracterização e da quantificação do dano moral não exige o reexame de matéria fático-probatória.
+Reafirma, ainda, a tese anteriormente vertida no recurso especial concernente à nulidade do acórdão recorrido por cerceamento de defesa, ao argumento de que a insurgente não teve oportunidade de apresentar sua oposição ao julgamento virtual e requerer a realização de sustentação oral.
+Busca, assim, a reconsideração da decisão agravada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DANO MORAL CONFIGURADO. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. REDUÇÃO DA VERBA INDENIZATÓRIA. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento da Corte Especial do Superior Tribunal de Justiça, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, relator o Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+2. No caso, alterar o entendimento alcançado pelo acórdão impugnado (quanto à afronta a direitos da personalidade da parte autora e à ocorrência de danos morais indenizáveis) exige necessariamente a reavaliação de fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+3. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Superior Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto apenas nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso. Incidência da Súmula 7/STJ.
+4. O não conhecimento do recurso especial pela alínea a do permissivo constitucional, diante da incidência da Súmula 7/STJ, prejudica o exame do dissídio jurisprudencial.
+5. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da decisão agravada.
+Inicialmente, em relação ao não conhecimento do recurso especial, no ponto concernente à incidência da Súmula 283/STF, constata-se que, nas razões do agravo interno, a parte agravante não rebate os fundamentos utilizados na decisão monocrática às fls. 761-764 (e-STJ), acarretando a preclusão das matérias não impugnadas. A esse respeito: EREsp n. 1.424.404/SP, relator o Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021.
+Por conseguinte, passa-se à análise dos demais fundamentos impugnados constantes da deliberação unipessoal.
+No caso, o Tribunal de Justiça do Estado de São Paulo reconheceu a configuração do dano moral indenizável, de acordo com as seguintes justificativas (e-STJ, fl. 616 - sem grifo no original):
+Quanto aos danos morais, incontestável que diante dos fatos narrados nos autos configurou-se situação que ultrapassa os limites do mero aborrecimento presente na vida cotidiana.
+Os alagamentos e, consequentemente, alguns mobiliários e piso laminado danificados, limitaram injustificadamente a liberdade do autor/apelante em sua própria casa, bem como sua saúde e segurança, visto que a água cobriu o chão do seu apartamento por certo período, tornando-o insalubre e inseguro (fls. 420/436). À medida que o defeito ocasionou ofensas a direitos fundamentais do apelante, entendo demonstrado o dano moral e devida reparação, fixada em montante absolutamente razoável.
+"In casu", o valor de R$ 10.000,00 mostra-se suficiente para a pretendida reparação.
+Diante desse contexto, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado pelo Tribunal de origem (no que diz respeito à existência de violação a direitos da personalidade da parte autora a ensejar a indenização por dano moral), pois se exige, para tanto, o reexame de fatos e provas da causa, o que é vedado pela Súmula n. 7/STJ, no âmbito do recurso especial.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. INDENIZAÇÃO. DANOS MORAIS. VÍCIOS DE CONSTRUÇÃO. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclama o reexame dos elementos fático-probatórios dos autos.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.249.901/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+Quanto ao mais, a jurisprudência desta Corte Superior é firme no sentido de que o valor estabelecido pelas instâncias ordinárias a título de dano moral somente deve ser revisto nas hipóteses em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade.
+Na hipótese em estudo, levando-se em consideração as particularidades do caso concreto consignadas pelo acórdão recorrido, verifica-se que a quantia indenizatória fixada em R$ 10.000,00 (dez mil reais) não se mostra desproporcional, e sua revisão demandaria inevitavelmente o reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7 do Superior Tribunal de Justiça.
+A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/ STJ, pois não é possível encontrar similitude fática entre o acórdão recorrido e o aresto paradigma, uma vez que as suas conclusões distintas ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Em face disso, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece inalterada a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+É o voto.
