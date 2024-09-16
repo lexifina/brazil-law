@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MANOEL MACEDO DANTAS FILHO, contra a decisão de fls. 121/122 (e-STJ).
+O agravante alega, em suma, ausência de possibilidade de supressão de instância, uma vez que o habeas corpus seria uma peça autônoma, não possuindo qualquer necessidade de vinculação anterior (e-STJ, fl. 133).
+Argumenta que a liberdade do indivíduo deve preponderar em relação às regras de competência, devendo o habeas corpus ser concedido de ofício. Pondera que a hodierna e pacífica jurisprudência deste Tribunal Superior é no sentido da relativização do óbice da supressão de instância (e-STJ, fls. 132/133).
+Requer, ao final, que seja afastado o entendimento de supressão de instância para análise do mérito (e-STJ, fl. 134).
+Pleiteia a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado (e-STJ, fl. 134)
+É o relatório.
+Decido.
+Da análise do recurso, verifica-se que assiste razão, em parte, ao agravante, motivo pela qual reconsidero o decisum e passo à nova análise do tema, nos seguintes termos:
+Observa-se que, embora as teses e fundamentações do presente recurso tenham sido apresentadas no habeas corpus originário, não houve o debate do tema pelo colegiado de origem, sob o argumento de incompatibilidade entre a via estreita do habeas corpus e a necessidade de análise probatória sobre a suposta ilegalidade do reconhecimento fotográfico.
+Tal fato pode ser conferido às fls. 67/68 (e-STJ), conforme se vê:
+" ..  Entretanto, é importante registrar que por ser o habeas corpus ação mandamental de rito sumaríssimo, bem como que eventual irregularidade poderá ser mantida, se a sentença for fundamentada em outras provas lícito. Assim, deixo de conhecer do writ, pois não se admite mergulho aprofundado em elementos de convicção, o que deverá ser apreciado e decidido no curso do processo penal de conhecimento, para se evitar indevida incursão no mérito da prova.
+Ademais, a apontada nulidade do procedimento não se afigura evidente, uma vez que sob o crivo do contraditório e da ampla defesa a autoridade coatora, ao prestar as informações, assevera que foi com fulcro no conjunto fático e probatório refutou aludidas nulidades
+ ..
+Assim, no momento, não comporta apreciação a tese de ilicitude no reconhecimento do paciente, bem como a discussão sobre precariedade e contradição nos depoimentos da testemunha submetida ao reconhecimento.
+Nesse sentido o julgado:
+"(..) NEGATIVA DE AUTORIA. IRREGULARIDADE NORECONHECIMENTO FOTOGRÁFICO. VIA ELEITA INADEQUADA. NÃOCONHECIMENTO. 2. A via estreita do habeas corpus não comporta conhecimento de matérias que demandam análise probatória, como a tese de negativa de autoria e a suposta ilegalidade do reconhecimento fotográfico(..)" (TJGO, HC 5267970- 87.2021.8.09.0000, Rel. DESEMBARGADORACARMECY ROSA MARIA ALVES DE OLIVEIRA, 2ª Câmara Criminal, julgado em 09/07/2021, DJe de 09/07/2021)." "
+Assim, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"(..).
+2. Em relação ao pleito de relaxamento da custódia após a anulação da sentença em acórdão de apelação, o exame por esta Corte de matéria não decidida pelo Tribunal de Justiça enseja indevida supressão de instância.
+(..).
+(AgRg no HC 773.723/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+"(..).
+2. O pleito de progressão de regime não foi objeto de debate pelo Tribunal de origem, o que evidencia a impossibilidade de conhecimento da impetração por este Sodalício, sob pena de supressão de instância. Precedentes.
+(..).
+(AgRg no HC 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+"(..)
+II - As teses relativas à alegação de nulidade do reconhecimento fotográfico e à negativa de autoria sequer foram analisadas pelo Tribunal pelo Tribunal de origem nos autos do HC n. 2085054-94.2023.8.26.0000, objeto da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.(..).
+(AgRg no HC n. 826.442/SP, relator Ministro MessodAzulay Neto, Quinta Turma, julgado em 11/12/2023, REPDJede 16/02/2024, DJe de 14/12/2023.) "
+De outro lado, da análise do acórdão atacado, verifica-se que a ausência de manifestação do Tribunal de origem acerca do pedido formulado no writ originário configura indevida negativa de prestação jurisdicional considerando que a verificação do alegado constrangimento ilegal -nulidade de reconhecimento fotográfico realizado de forma irregular -não necessita de revolvimento de matéria probatória, envolvendo apenas questão de direito.
+Nesse contexto, tratando-se de questão relevante de direito, conforme o precedente abaixo colacionado, deve a Corte estadual analisar a matéria suscitada.
+Confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. RECONHECIMENTO. ART. 226 DO CPP. INDÍCIOS DE AUTORIA. PRESENÇA. AUDIÊNCIA DE CUSTÓDIA. DEMORA JUSTIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Sexta Turma desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 598.886/SC (Rel. Ministro Rogerio Schietti), realizado em 27/10/2020, conferiu nova interpretação ao art. 226 do CPP, a fim de superar o entendimento, até então vigente, de que referido o artigo constituiria "mera recomendação" e, como tal, não ensejaria nulidade da prova eventual descumprimento dos requisitos formais ali previstos.
+2. Em julgamento concluído no dia 23/2/2022, a Segunda Turma do Supremo Tribunal Federal deu provimento ao RHC n. 206.846/SP (Rel.
+Ministro Gilmar Mendes), para absolver um indivíduo preso em São Paulo depois de ser reconhecido por fotografia, tendo em vista a nulidade do reconhecimento fotográfico e a ausência de provas para a condenação. Reportando-se ao decidido no julgamento do referido HC n. 598.886/SC, no STJ, foram fixadas pelo STF três teses: 2.1) O reconhecimento de pessoas, presencial ou por fotografia, deve observar o procedimento previsto no art. 226 do Código de Processo Penal, cujas formalidades constituem garantia mínima para quem se encontra na condição de suspeito da prática de um crime e para uma verificação dos fatos mais justa e precisa; 2.2) A inobservância do procedimento descrito na referida norma processual torna inválido o reconhecimento da pessoa suspeita, de modo que tal elemento não poderá fundamentar eventual condenação ou decretação de prisão cautelar, mesmo se refeito e confirmado o reconhecimento em Juízo. Se declarada a irregularidade do ato, eventual condenação já proferida poderá ser mantida, se fundamentada em provas independentes e não contaminadas; 2.3) A realização do ato de reconhecimento pessoal carece de justificação em elementos que indiquem, ainda que em juízo de verossimilhança, a autoria do fato investigado, de modo a se vedarem medidas investigativas genéricas e arbitrárias, que potencializam erros na verificação dos fatos.
+3. Posteriormente, em sessão ocorrida no dia 15/3/2022, a Sexta Turma desta Corte, por ocasião do julgamento do HC n. 712.781/RJ (Rel. Ministro Rogerio Schietti), avançou em relação à compreensão anteriormente externada no HC n. 598.886/SC e decidiu, à unanimidade, que, mesmo se realizado em conformidade com o modelo legal (art. 226 do CPP), o reconhecimento pessoal, embora seja válido, não tem força probante absoluta, de sorte que não pode induzir, por si só, à certeza da autoria delitiva, em razão de sua fragilidade epistêmica; se, porém, realizado em desacordo com o rito previsto no art. 226 do CPP, o ato é inválido e não pode ser usado nem mesmo de forma suplementar.
+4. No caso, o reconhecimento fotográfico seguiu o art. 226 do CPP, porquanto foram descritas previamente as características do suspeito e foram exibidas quatro imagens de pessoas semelhantes. Ademais, consta que, além do reconhecimento, a autoria foi amparada no fato de que o acusado foi flagrado quando estava armado abordando uma motocicleta e reagiu com disparos de arma de fogo contra a guarnição, momento em que houve troca de tiros e o paciente foi alvejado e internado no hospital.
+5. Quanto à demora para realizar a audiência de custódia, a jurisprudência desta Corte Superior é firme ao asseverar que a ausência do ato, por si só, não é circunstância suficiente para anular o decreto preventivo, especialmente porque, no caso em tela, a referida ausência foi justificada pela internação hospitalar do acusado, alvejado por disparos de arma de fogo no momento dos fatos, o que inviabilizou a sua oitiva imediata.
+6. Agravo regimental não provido."
+(AgRg no HC n. 875.737/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+Ante o exposto, reconsidero a decisão agravada de fls. 158-163 (e-STJ), nos termos acima delineados, com base no art. 258, § 3º, do RISTJ e dou parcial provimento ao recurso em habeas corpus para determinar que o Tribunal de Justiça do Estado do Goiás aprecie o mérito do writ, como entender de direito.
+Publique-se.
+Intimem-se.
+.
+EMENTA
