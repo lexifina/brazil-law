@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E CONSUMIDOR. AÇÃO DE REEMBOLSO C/C INDENIZAÇÃO POR DANO MORAL. DESPESAS MÉDICAS. AUSÊNCIA DE REDE CREDENCIADA. PLANO DE SAÚDE. ALEGADA VIOLAÇÃO DO ARTIGO 10, §4º, DA LEI N. 9.656/98. REEMBOLSO LIMITADO À TABELA DO PLANO. DEVER DE COBERTURA DE PROCEDIMENTO E EXAMES INTEGRANTES DO TRATAMENTO DE CÂNCER.
+1. A Segunda Seção firmou o entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Rel. Ministro Marco Aurélio Bellizze, DJe de 17/12/2020).
+2. O rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo, contudo, a natureza taxativa ou exemplificativa do aludido rol não se aplica à análise do dever de cobertura de medicamentos/procedimentos para o tratamento de câncer. Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por UNIMED NATAL - SOCIEDADE COOPERATIVA DE TRABALHO MEDICO contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE assim ementado (fl. 375):
+DIREITO CIVIL E DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. NECESSIDADE DE TRATAMENTO MÉDICO DEMONSTRADA. DOCUMENTO COMPROBATÓRIO DE QUE NÃO HÁ REDE CREDENCIADA NO ESTADO DO RIO GRANDE DO NORTE PARA O TRATAMENTO ESCOLHIDO. DEVER DE REEMBOLSO QUE SE IMPÕE. LIMITAÇÃO À TABELA DO PLANO DE SAÚDE. PRECEDENTES DESTA CORTE DE JUSTIÇA. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO APELO.
+A decisão agravada não conheceu do recurso especial do agravante nos termos da seguinte ementa (fl. 526):
+CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 10, § 4º, DA LEI 9.656/1998. AUSÊNCIA DE REDE E PROFISSIONAL CREDENCIADO NO LOCAL. REEMBOLSO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIADE. SÚMULA 7/STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+Aduz o agravante que no recurso especial que busca ver processado "a ora Agravante demonstrou o erro judicando do Tribunal de Justiça do Rio Grande do Norte, vez que o acórdão ora guerreado, permissa vênia, caminha contra legem e em desconformidade com a norma contida no artigo 10, §4º, da Lei9656/98" (fl. 595).
+Aduz irregularidade na aplicação da Súmula 7/STJ.
+Sustenta ausência de "análise exauriente acerca das exceções legais legais previstas no Art. 10, § 4º, da Lei n. 9.656/1998, a partir da redação dada pela Lei n. 14.454/2022 no tocante aos critérios de permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no rol de procedimentos e eventos em saúde" (fl. 596).
+Requer, por fim, seja recebido e processado o agravo interno.
+A agravada não apresentou manifestação (fl. 603).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E CONSUMIDOR. AÇÃO DE REEMBOLSO C/C INDENIZAÇÃO POR DANO MORAL. DESPESAS MÉDICAS. AUSÊNCIA DE REDE CREDENCIADA. PLANO DE SAÚDE. ALEGADA VIOLAÇÃO DO ARTIGO 10, §4º, DA LEI N. 9.656/98. REEMBOLSO LIMITADO À TABELA DO PLANO. DEVER DE COBERTURA DE PROCEDIMENTO E EXAMES INTEGRANTES DO TRATAMENTO DE CÂNCER.
+1. A Segunda Seção firmou o entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Rel. Ministro Marco Aurélio Bellizze, DJe de 17/12/2020).
+2. O rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo, contudo, a natureza taxativa ou exemplificativa do aludido rol não se aplica à análise do dever de cobertura de medicamentos/procedimentos para o tratamento de câncer. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Discute-se nos autos a obrigatoriedade, ou não, de reembolso parcial, pela Unimed Natal - Sociedade Cooperativa de Trabalho Médico, das despesas médicas suportadas pelo segurado fora da rede credenciada em razão da ausência de estabelecimento e/ou profissional credenciado no local.
+Na origem, cuida-se de ação de ressarcimento c/c indenização por danos morais ante a negativa do plano de saúde em reembolsar as despesas médicas advindas do tratamento de Braquiterapia, utilizado como alternativa menos invasiva ao tratamento de neoplasia maligna da próstata. Contudo, como a modalidade de tratamento não estava disponível na cidade do agravado, foi necessário fazer seu encaminhamento a hospital fora da rede credenciada.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes, condenando a operadora do plano de saúde ao ressarcimento dos valores pagos pelo usuário, limitados aos valores previstos na tabela da Unimed Natal.
+O Tribunal de origem manteve a sentença de primeiro grau.
+No recurso especial, a parte recorrente alega violação do art. 10, § 4º, da Lei n. 9.656/1998 no que concerne ao custeio das despesas decorrentes de tratamento realizado em clínica não credenciada nos limites contratuais entabulados entre as partes
+Monocraticamente, não conheci do recurso especial em razão da incidência da Súmula 7/STJ.
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+A Corte de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia acerca do reembolso das despesas médicas realizadas em rede não credenciada, ante a ausência da referida rede na sua localidade (fl. 379):
+Com efeito, para que o beneficiário do plano de saúde possa usufruir dos serviços previstos no plano de sua opção, terá que respeitar as cláusulas referentes à observância da rede credenciada, valendo-se do rol de profissionais cooperados, assim como dos estabelecimentos prestadores de serviços credenciados e no âmbito territorial de cobertura, em respeito, inclusive, à isonomia em relação aos demais usuários.
+Ocorre que, no caso concreto, há documento comprobatório de que o tratamento necessário para a saúde da parte autora não era fornecido no estado do Rio Grande do Norte (ID 12436295).
+Como bem destacado na sentença, "não há nos autos comprovação de que existente na rede credenciada ao plano demandado profissionais e estabelecimentos aptos à realização do procedimento, prevendo, outrossim, o contrato firmando entre as partes, nessas hipóteses, a possibilidade de reembolso das despesas médicas, limitado ao valor previsto na tabela da seguradora(documento do id. 42058883)".
+Desta feita, inexistem motivos para a reforma da sentença.
+ ..
+Desta feita, inexistem motivos para a reforma da sentença, sobretudo considerando que o valor a ser reembolsado foi no limite da tabela da apelante.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que "no caso concreto, há documento comprobatório de que o tratamento necessário para a saúde da parte autora não era fornecido no estado do Rio Grande do Norte (ID 12436295)" e " ..  não há nos autos comprovação de que existente na rede credenciada ao plano demandado profissionais e estabelecimentos aptos à realização do procedimento, prevendo, outrossim, o contrato firmando entre as partes, nessas hipóteses, a possibilidade de reembolso das despesas médicas, limitado ao valor previsto na tabela da seguradora (documento do id. 42058883)" (fl. 379).
+Tal entendimento está em consonância com a jurisprudência deste STJ, uma vez que a Segunda Seção firmou o entendimento de que "o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Rel. Ministro Marco Aurélio Bellizze, DJe de 17/12/2020).
+Registre-se que, no caso dos autos, a Corte estadual decidiu que o o reembolso deve ficar limitado ao valor previsto na tabela da Unimed Natal - Sociedade Cooperativa de Trabalho Médico.
+Convém destacar que, para a jurisprudência do STJ, "o rol de procedimentos editado pela ANS não pode ser considerado meramente exemplificativo. Contudo, a natureza taxativa ou exemplificativa do aludido rol não se aplica à análise do dever de cobertura de medicamentos/procedimentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no AREsp n. 2.210.504/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023).
+Nesse sentido, cito:
+1. Por ocasião do julgamento do REsp 1.733.013/PR, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2022, DJe de 24/02/2022).
+2. No caso, trata-se de fornecimento de medicamento e procedimentos para tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que o fornecimento é obrigatório. Nesse sentido: AgInt no AREsp n. 1.661.657/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/9/2020, DJe de 20/10/2020; AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.899.786/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/4/2023, DJe de 3/5/2023.)
+Não fosse só isso, os planos de saúde possuem o dever de cobertura de procedimentos e exames integrantes do tratamento oncológico.
+A esse respeito, confira-se julgado:
+1. Por ocasião do julgamento do REsp 1.733.013/PR, "fez-se expressa ressalva de que a natureza taxativa ou exemplificativa do aludido rol seria desimportante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução da ANS" (AgInt no REsp 1.949.270/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2022, DJe de 24/02/2022).
+2. No caso, trata-se de procedimento vinculado a tratamento de câncer, hipótese em que a jurisprudência é assente no sentido de que a cobertura é obrigatória. Nesse sentido: AgInt no REsp 1.911.407/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18/05/2021, DJe de 24/05/2021; AgInt no AREsp 1.002.710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe de 07/05/2020; AgInt no AREsp 1.584.526/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe de 17/03/2020.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.072.459/PE, relator Ministro RAUL ARAÚJO, QUARTA TURMA, JULGADO EM 15/5/2023, DJE DE 22/5/2023.)
+O TJRN, com base no conjunto fático-probatório dos autos, condenou a Unimed Natal - Sociedade Cooperativa de Trabalho Médico ao reembolso parcial das despesas médicas, limitado ao valor previsto na sua tabela, em razão da ausência de rede credenciada na localidade. Rever tal entendimento demandaria necessário reexame de todo o conjunto de fatos e provas dos autos, o que é vedado pela incidência da Súmula 7/STJ.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
