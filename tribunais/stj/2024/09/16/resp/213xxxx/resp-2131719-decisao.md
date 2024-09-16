@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por D. F. P., com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Ação de obrigação de fazer. Plano de saúde. Autor que é portador de "Transtorno do Espectro Autista -TEA" (CID-10F84.0). Negativa de cobertura para seu tratamento pelo método "Treini". Ré que alega ausência de previsão no rol da ANS, Negativa adequada à hipótese, considerados pareceres do NatJus, acerca da ausência de previsão no rol da ANS e ausência de evidência de superioridade do tratamento prescrito, segundo a medicina baseada em evidências, o que se fazia imperativo para a determinação de cobertura, segundo inclusive o recentemente decidido pela 2ª Seção do STJ. Sentença de parcial procedência reformada. Sucumbência invertida. Recurso provido" (e-STJ fl. 737).
+No recurso especial, a parte recorrente aponta a violação dos artigos 1.022 do Código de Processo Civil, 10, § 4º, da Lei nº 9.656/1998, 4º, III, e 10, II, da Lei nº 9.661/2000.
+Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional e que o tratamento já é reconhecido pela ANS.
+Alega, também, que necessita em caráter de urgência de tratamento intensivo de reeducação e reabilitação neurológica pelo método Treini.
+É o relatório.
+DECIDO.
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem.
+Ante a deficiente fundamentação do recurso neste ponto, incide, por analogia, a Súmula nº 284/STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido"
+(AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2017 - grifou-se).
+Quanto ao mais, a irresignação merece prosperar.
+A discussão gira em torno da natureza do Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), se exemplificativo ou se taxativo.
+De início, conforme a sentença, registra-se que o autor:
+"(..)
+é beneficiário do plano réu, que negou cobertura de tratamento prescrito ao autor, que é portador de Transtorno doEspectro Autista, nos termos do relatório do médico especialista, de onde se extrai a expressa recomendação de tratamento intensivo de reeducação e reabilitação neurológica pelo método Treini" (fl. 592 e-STJ).
+Quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Assim, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+"1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS".
+No caso, contudo, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ademais, diante da aplicabilidade imediata da lei nova, nos tratamentos de caráter continuado deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022:
+"Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais".
+Como se verifica, a inovação normativa praticamente positivou os critérios delineados pela Segunda Seção do STJ.
+Em outras palavras, a Lei nº 14.454/2022 promoveu alteração na Lei nº 9.656/1998 para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no Rol de Procedimentos e Eventos em Saúde Suplementar.
+Assim, com a edição da Lei nº 14.454/2022, o Rol da ANS passou por sensíveis modificações em seu formato, suplantando a eventual oposição rol taxativo/rol exemplificativo.
+Cabe ressaltar que os efeitos práticos serão similares, isto é, tais efeitos ultrapassam eventuais rótulos reducionistas.
+A respeito, confira-se o Enunciado nº 109 das Jornadas de Direito da Saúde:
+"Solicitado procedimento ou tratamento médico não previsto no Rol da ANS, cabe verificar, além das condições legais descritas no artigo 10, § 13 da Lei nº 9.656/98: a) se existe, para o tratamento do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol da ANS; b) se não foi indeferida pela ANS a incorporação do procedimento ou tratamento; c) se há expressa exclusão regulamentar ou legal em relação ao procedimento ou tratamento solicitado; d) se há notas ou pareceres técnicos de órgãos tais como a Conitec e o NatJus que avaliaram tecnicamente a eficácia, acurácia e efetividade do plano terapêutico" (grifou-se).
+Ante o exposto, conheço em parte do recurso especial e, nesta parte, dou-lhe provimento para determinar o retorno dos autos à Corte de origem, a fim de que julgue a apelação conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP, prejudicadas as demais questões.
+Caso o tratamento assistencial seja também de caráter continuado, deverão ser observados, a partir de sua vigência, os critérios estabelecidos pela Lei nº 14.454/2022, também a serem verificados pelo Tribunal de origem (aplicabilidade imediata da lei nova).
+Publique-se.
+Intimem-se.
+EMENTA
