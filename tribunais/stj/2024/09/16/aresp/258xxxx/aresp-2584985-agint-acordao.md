@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENRO  DE  SENTENÇA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICONAL.  NÃO  OCORRÊNCIA.  ERRO  DE  CÁLCULO  AFASTADO.  REVISÃO.  SÚMULA  Nº  7/STJ.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  revisão  da  conclusão  firmada  pelas  instâncias  ordinárias,  a  partir  da  tese  de  que  houve  erro  de  cálculo  a  atrair  a  incidência  do  art.  494  do  CPC,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  em virtude da  incidência  da  Súmula  nº  7/STJ.
+3.  É  inadmissível  o  inconformismo  por  deficiência  na  sua  fundamentação  quando  o  recurso  especial  deixa  de  indicar  especificamente  de  que  forma  os  dispositivos  legais  teriam  sido  violados.  Aplicação,  por  analogia,  da  Súmula  nº  284/STF.
+4.  A  incidência  das  Súmulas  nº  7/STJ  e  nº  284/STF  prejudica  a  análise  da  divergência  jurisprudencial  alegada.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  COOPERATIVA  HABITACIONAL  DOS  BANCÁRIOS  DE  SÃO  PAULO  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  para  negar-lhe  provimento  (e-STJ  fls.  950/953).
+Naquela  oportunidade,  concluiu-se  pela  ausência  de  negativa  de  prestação  jurisdicional  e  pela  incidência  das  Súmulas  nº  284/STF  e  nº  7/STJ.
+Nas  presentes  razões,  a  agravante  aduz  que  demonstrou,  de  forma  clara,  como  o  art.  494,  I,  do  Código de Processo Civil  foi  violado  pelo  acórdão  recorrido,  de  modo  que  não  se  aplica  a  Súmula  nº  284/STF.
+Além  disso,  afirma  que  não  há  necessidade  de  se  adentrar  na  análise  de  meras  questões  de  fato e que  deve  ser  afastado  o  óbice  da  Súmula  nº  7/STJ  em  relação  à  alegada  violação  do  art.  494  do  CPC.
+Por  fim,  assevera  que  o  tribunal  de  origem  não  apreciou  os  argumentos  acerca  da  inexistência  de  preclusão  da  correção  do  erro  de  cálculo,  violando  os  arts.  489,  §1º,  IV,  e  1.022,  parágrafo  único,  II,  do  CPC.
+  Impugnação  às  e-STJ  fls.  972/1.001 .
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  CUMPRIMENRO  DE  SENTENÇA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICONAL.  NÃO  OCORRÊNCIA.  ERRO  DE  CÁLCULO  AFASTADO.  REVISÃO.  SÚMULA  Nº  7/STJ.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  revisão  da  conclusão  firmada  pelas  instâncias  ordinárias,  a  partir  da  tese  de  que  houve  erro  de  cálculo  a  atrair  a  incidência  do  art.  494  do  CPC,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  em virtude da  incidência  da  Súmula  nº  7/STJ.
+3.  É  inadmissível  o  inconformismo  por  deficiência  na  sua  fundamentação  quando  o  recurso  especial  deixa  de  indicar  especificamente  de  que  forma  os  dispositivos  legais  teriam  sido  violados.  Aplicação,  por  analogia,  da  Súmula  nº  284/STF.
+4.  A  incidência  das  Súmulas  nº  7/STJ  e  nº  284/STF  prejudica  a  análise  da  divergência  jurisprudencial  alegada.
+5.  Agravo  interno  não  provido.
+VOTO
+O  agravo  interno  não  merece  prosperar.
+No  tocante  às  omissões  apontadas  no  acórdão  estadual,  o  tribunal  de  origem,  ao  decidir  os  embargos  de  declaração,  concluiu  que  o  caso  não  é  erro  de  cálculo ,  a  atrair  a  aplicação  do  art.  494  do  Código de Processo Civil.
+É  o  que  se  extrai  da  seguinte  passagem:
+"(..)
+Dessa  forma,  considerando  que  a  irresignação,  intempestivamente  apresentada,  quanto  a  base  de  cálculo  ou  termo  inicial  dos  juros  de  mora  não  constitui  erro  de  cálculo,  bem  como  que  a  própria  embargante  admite  que  não  houve  prévia  impugnação,  se  constata  a  consumação  da  preclusão  temporal  da  matéria,  na  forma  do  artigo  508  do  CPC.
+(..)"  (e-STJ  fl.  720).
+Nesse  contexto,  no  que  diz  respeito  à  alegada  negativa  de  prestação  jurisdicional  -  violação  do  art.  1.022  do  CPC  -,  agiu  corretamente  o  tribunal  de  origem  ao  rejeitar  os  embargos  declaratórios  por  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  embargado,  ficando  patente,  em  verdade,  o  intuito  infringente  da  irresignação,  que  objetivava  a  reforma  do  julgado  por  via  inadequada.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  DEVOLUÇÃO  DE  PARCELAS  PREVIDENCIÁRIAS.  PREVIDÊNCIA  PRIVADA.  ENCERRAMENTO  DO  PLANO.  EMBARGOS  DE  DECLARAÇÃO.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  VIOLAÇÃO  DO  ART.  489  DO  CPC/2015.  INOCORRÊNCIA.  REEXAME  DE  FATOS.  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INADMISSIBILIDADE.  SÚMULAS  5  E  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.  SÚMULA  7/STJ.  DECISÃO  MANTIDA.
+1.  Ação  de  devolução  de  parcelas  previdenciárias.
+2.  Ausentes  os  vícios  do  art.  1.022  do  CPC/15,  rejeitam-se  os  embargos  de  declaração.
+3.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  inexiste  a  violação  do  art.  489  do  CPC/15.
+4.  O  reexame  de  fatos  e  a  interpretação  de  cláusulas  contratuais  em  recurso  especial  são  inadmissíveis.
+5.  O  dissídio  jurisprudencial  deve  ser  comprovado  mediante  o  cotejo  analítico  entre  acórdãos  que  versem  sobre  situações  fáticas  idênticas.
+6.  A  incidência  das  Súmulas  5  e  7/STJ  prejudicam  a  análise  do  dissídio  jurisprudencial  pretendido.  Precedentes  desta  Corte.
+7.  Agravo  interno  não  provido" (AgInt  no  AREsp  2.183.495/RJ,  Relatora  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  28/11/2022,  DJe  de  30/11/2022  -  grifou-se).
+Registra-se  que,  mesmo  à  luz  do  art.  489  do  CPC,  o  órgão  julgador  não  estaria  obrigado  a  se  pronunciar  acerca  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas  apenas  a  respeito  daqueles  capazes  de,  em  tese,  de  algum  modo,  infirmar  a  conclusão  adotada  pelo  órgão  julgador  (inciso  IV).  A  motivação  contrária  ao  interesse  da  parte,  ou  mesmo  omissa  em  relação  a  pontos  considerados  irrelevantes  pelo  julgador,  não  autoriza  o  acolhimento  dos  embargos  declaratórios.
+Em  relação  ao  art.  494  do  CPC,  a  alegada  violação  legal  foi  afastada  na  origem , pois,
+"(..)  considerando  que  a  base  de  cálculo  utilizada  para  o  cálculo  dos  juros  moratórios  não  constitui  erro  material  ou  erro  de  cálculo,  bem  como  que  inexistiu  irresignação  dos  executados  tempestivamente  apresentada  em  relação  aos  critérios  adotados  pelos  agravados,  nos  termos  do  artigo  525,  §  1º,  inciso  V,  do  CPC,  é  evidente  a  preclusão  da  matéria  relativa  a  base  de  cálculo  dos  juros  moratórios.
+(..)"  (e-STJ  fl.  701).
+Com  efeito,  a  revisão  da  conclusão  firmada  pelas  instâncias  ordinárias,  a  a  partir  da  tese  de  que  houve  erro  de  cálculo  a  atrair  a  incidência  do  art.  494  do  CPC,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+Confira-se:
+"DIREITO  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  MONITÓRIA.  CUMPRIMENTO  DE  SENTENÇA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  ERRO  MATERIAL.  CONDENAÇÃO  POR  LITIGÂNCIA  DE  MÁ-FÉ.  INCIDÊNCIA  DA  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.
+1.  Inexiste  afronta  ao  art.  1.022  do  CPC/2015  quando  o  acórdão  recorrido  pronuncia-se,  de  forma  clara  e  suficiente,  acerca  das  questões  suscitadas  nos  autos,  manifestando-se  sobre  todos  os  argumentos  que,  em  tese,  poderiam  infirmar  a  conclusão  adotada  pelo  Juízo.
+2.  "Erro  material,  passível  de  alteração  a  qualquer  tempo,  é  aquele  derivado  de  simples  cálculo  aritmético,  ou  inexatidão  material,  e  não  decorrente  de  elementos  ou  critérios  de  cálculo"  (REsp  n.  1.650.676/RS,  Relator  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  21/2/2017,  DJe  18/4/2017).
+3.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõe  a  Súmula  n.  7  do  STJ.
+4.  No  caso  concreto,  o  Tribunal  de  origem  concluiu  que  não  teria  ocorrido  o  alegado  erro  de  cálculo  e  que  estariam  presentes  circunstâncias  a  justificar  a  penalidade  por  litigância  de  má-fé.
+Alterar  esse  entendimento  demandaria  reexame  das  provas  produzidas  nos  autos,  vedado  em  recurso  especial.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.355.610/PR,  Relator  Ministro  ANTONIO  CARLOS  FERREIRA,  Quarta  Turma,  julgado  em  13/12/2018,  DJe  de  1º/2/2019).
+Ademais,  a  deficiência  na  fundamentação  recursal  ficou  evidenciada,  visto  que  a  parte  recorrente,  apesar  de  indicar  o  art.  494  do  CPC  como  malferido,  não  especificou  de  que  forma  ele  teria  sido  contrariado  pelo  acórdão  recorrido,  inviabilizando  a  compreensão  da  controvérsia  posta  nos  autos.
+Assim,  incide,  por  analogia,  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  AÇÃO  DECLARATÓRIA.  INDENIZAÇÃO.  DANOS  MORAIS  E  MATERIAIS.  ILEGITIMIDADE  PASSIVA.  TEORIA  DA  ASSERÇÃO.  INICIAL.  ANÁLISE.  SÚMULA  Nº  83/STJ.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULAS  NºS  283  E  284/STF.  ART.  1.021,  §  4º,  CPC/2015.  MULTA  NÃO  AUTOMÁTICA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  as  condições  da  ação,  aí  incluída  a  legitimidade,  devem  ser  aferidas  com  base  na  teoria  da  asserção,  isto  é,  à  luz  das  afirmações  deduzidas  na  petição  inicial.  Súmula  nº  83/STJ.
+3.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282  do  Supremo  Tribunal  Federal.
+4.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+5.  Na  hipótese,  apesar  de  apontar  o  malferimento  à  legislação  federal,  o  apelo  extremo  foi  incapaz  de  evidenciar  as  ofensas  aos  dispositivos  legais  invocados.  Nesse  contexto,  a  fundamentação  recursal  é  absolutamente  deficiente,  o  que  atrai  a  incidência  dos  óbices  contidos  nas  Súmulas  nºs  283  e  284/STF.
+6.  A  Segunda  Seção  decidiu  que  a  aplicação  da  multa  prevista  no  art.  1.021,  §  4º,  do  CPC/2015  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.  Precedente.
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.818.651/SP,  Relator  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  14/2/2022,  DJe  de  22/2/2022  -  grifou-se).
+"AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  RENOVATÓRIA  DE  ALUGUEL.  OMISSÃO.  AUSÊNCIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  211/STJ.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  HONORÁRIOS  ADVOCATÍCIOS.  ART.  85,  §  2º,  DO  CPC.  PROVEITO  ECONÔMICO.  PARCIAL  PROVIMENTO.
+1.  O  Tribunal  de  origem  dirimiu  fundamentadamente  a  controvérsia,  sem  incorrer  em  omissão,  obscuridade,  contradição  ou  erro  material.
+2.  A  ausência  de  prequestionamento  impede  o  conhecimento  da  questão  pelo  Superior  Tribunal  de  Justiça.  Incidência  da  Súmula  n.  211  do  STJ.
+3.  É  deficiente  a  argumentação  do  recurso  especial  que  se  sustenta  em  dispositivo  de  lei  que  não  contém  comando  normativo  capaz  de  infirmar  os  fundamentos  do  acórdão  recorrido.  Incidência  da  Súmula  n.  284  do  STF.
+4.  A  Corte  Especial,  no  julgamento  do  Tema  Repetitivo  1076  (relator  Ministro  Og  Fernandes,  DJe  de  31/5/2022),  firmou  entendimento  no  sentido  de  que  "apenas  se  admite  arbitramento  de  honorários  por  equidade  quando,  havendo  ou  não  condenação:  (a)  o  proveito  econômico  obtido  pelo  vencedor  for  inestimável  ou  irrisório;  ou  (b)  o  valor  da  causa  for  muito  baixo",  hipóteses  que  não  se  configuram  na  espécie.
+5.  A  verba  honorária  referente  a  ação  renovatória  de  aluguel  julgada  parcialmente  procedente  deve  incidir  sobre  a  diferença  entre  o  valor  do  aluguel  na  data  da  citação  e  o  novo  valor  fixado  na  sentença,  quantia  a  ser  multiplicada  pelo  período  de  vigência  da  renovação  da  locação,  pois  esse  montante  reflete  objetivamente  o  proveito  econômico  obtido  pela  parte.
+6.  Agravo  interno  parcialmente  provido"  (AgInt  no  AREsp  2.103.614/RJ,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  12/12/2022,  DJe  de  16/12/2022  -  grifou-se).
+Por  fim,  resta  consignar  que  a  incidência  das  Súmulas  nº  7/STJ  e  nº  284/STF  prejudica  a  análise  da  divergência  jurisprudencial  alegada.
+Quanto  ao  tema:
+"PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  AGRAVO  INTERNO.  MANDADO  DE  SEGURANÇA.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022  DO  CPC/2015.  NÃO  OCORRÊNCIA.  VIOLAÇÃO  À  RESOLUÇÃO.  IMPOSSIBILIDADE.  NÃO  ENQUADRAMENTO  NO  CONCEITO  DE  LEI  FEDERAL.  FUNDAMENTAÇÃO.  DEFICIENTE.  SÚMULA  284  DO  STF.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  AGRAVO  INTERNO  DESPROVIDO.
+(..)
+4.  É  pacífico  o  entendimento  desta  Corte  Superior  de  que  os  mesmos  óbices  impostos  à  admissão  do  recurso  pela  alínea  a  do  permissivo  constitucional  impedem  a  análise  recursal  pela  alínea  c,  ficando  prejudicada  a  apreciação  do  dissídio  jurisprudencial  referente  ao  mesmo  dispositivo  de  lei  federal  apontado  como  violado  ou  à  tese  jurídica  5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.049.353/MG,  Relator  Ministro  PAULO  SÉRGIO  DOMINGUES,  Primeira  Turma,  julgado  em  27/3/2023,  DJe  de  4/4/2023).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
