@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO EDUARDO PAIXAO RAIOL contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+O recorrente foi condenado como incurso no art. 157 do Código Penal, à pena de 4 (quatro) anos de reclusão e 60 (sessenta) dias-multa, em regime inicial aberto.
+O Tribunal negou provimento à apelação do recorrente, por considerar a dosimetria penal idônea, mantendo a condenação (fls. 234-246).
+A defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 59 do Código Penal e reduzir a basilar ao mínimo legal (fls. 247-252).
+O Ministério Público Federal opinou pelo parcial provimento do recurso (fls. 274-278).
+É o relatório. DECIDO.
+O cerne da controvérsia consiste em aferir a validade jurídica dos argumentos utilizados para valorar os motivos e circunstâncias do crime.
+O exame da dosimetria da pena nesta Corte é admitida de forma excepcional, quando verificada flagrante ilegalidade (AgRg no AREsp n. 2.223.252/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023) ou desproporcionalidade (AgRg no HC n. 869.056/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023).
+O Tribunal de Justiça manteve integralmente a sentença condenatória, sob o fundamento de que o aumento das penas em apenas 1/6 (um sexto) pelas circunstâncias negativas averiguadas demonstra que o sentenciante apenas considerou uma circunstância desfavorável. Ainda, quanto à fundamentação pela valoração negativa do motivo e circunstâncias do crime, julgou esta última válida, pela presença da arma branca.
+Consta do acórdão (fls. 236-237):
+" Além do que, a valoração procedida pelo magistrado a quo se mostrou devidamente fundamenta, pois o uso de arma branca, aquela época, poderia ser utilizado na primeira fase dosimétrica, para negativar uma circunstância judicial, o que foi feito, tendo sido a pena base arbitrada em um patamar, repito, bastante razoável e justo para o crime cometido, sendo que, a valoração de apenas uma circunstância em desfavor do réu já é motivo suficiente para a elevação da pena além de seu mínimo legal e, no caso em estudo, as circunstâncias negativas não foram aplicadas em sua integralidade, pois caso contrário, a pena base teria sido imposta bem mais acima do que consta na decisão recorrida."
+A discricionariedade que permeia a fixação da pena-base não dispensa o magistrado de observar o dever constitucional de fundamentação das decisões judiciais. É dizer, trata-se de discricionariedade motivada, que atribui ao juiz, com norte nas circunstâncias judiciais do art. 59 do Código Penal e à luz das particularidades do caso concreto, a autonomia para exasperar a pena-base.
+Assim, a exasperação da pena-base deve estar fundada em elementos concretos que ultrapassem os próprios do tipo (HC n. 624.350/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/12/2020, DJe de 14/12/2020).
+Em primeiro lugar, observo que a valoração negativa referente ao motivo não foi devidamente fundamentada. O entendimento desta Corte é firme no sentido de que: " a obtenção de lucro fácil é circunstância inerente aos tipos penais em questão, não podendo ser utilizada para exasperar a pena do réu." (EDcl no AgRg no AREsp n. 1.704.093/ES, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 3/11/2020, DJe de 16/11/2020.)
+No caso concreto, os motivos foram valorados negativamente pelo fundamento: "vontade livre e consciente de obter indevida vantagem econômica em detrimento de outrem" (fl. 276). Dessa maneira, a justificativa não extrapola o tipo penal, não constituindo fundamento suficiente para sua valoração negativa.
+É o entendimento:
+REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE MULHERES. DOSIMETRIA DA PENA. MOTIVO DO CRIME. LUCRO FÁCIL. FUNDAMENTO INIDÔNEO. AFASTAMENTO. RECURSO IMPROVIDO.
+1. Não é dado ao juiz sentenciante se utilizar de elementares do tipo para considerar desfavorável ao denunciado os motivos do crime, consistentes na busca ao lucro fácil.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 915.244/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 14/2/2017, DJe de 2/3/2017.)
+Por outro lado, a circun stância do crime foi valorada negativamente pelo uso de arma branca, o que se coaduna com a jurisprudência pacífica deste tribunal. Nesse sentido: AgRg no HC n. 761.388/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/11/2022, DJe de 1/12/2022; AgRg no HC n. 907.929/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024; HC n. 556.629/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/3/2020, DJe de 23/3/2020.
+Na espécie, retiro a exasperação da pena base pelo motivo do crime, tendo em vista a deficiência da fundamentação. Mantenho, porém, a valoração negativa pela circunstância do crime, por entender seu motivo suficiente para exasperação.
+Feitas essas considerações, passo ao redimensionamento da reprimenda.
+Na primeira fase, afastada a valoração negativa do motivo e mantida a valoração negativa pela circunstância judicial, redimensiono a pena-base para 4 (quatro) ano e 6 (seis) meses de reclusão.
+Na segunda fase, presentes duas atenuantes penais, confissão e menoridade penal, fixo a pena em 4 (quatro) anos de reclusão, observados o verbete da Súmula n. 231, STJ.
+Ausentes causas de aumento ou de diminuição de pena, fixo, definitivamente, a reprimenda em 4 (quatro) anos de reclusão.
+Diante do exposto, nos termos do art. 255, § 4º, inciso III, do RISTJ, dou parcial provimento ao recurso especial para fixar a pena do recorrente em 4 (quatro) anos de reclusão, mantidos os demais termos da decisão recorrida.
+Publique-se. Intime-se .
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. ROUBO. DOSIMETRIA. AFERIÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL. MOTIVOS. CIRCUNSTÂNCIAS. INIDONEIDADE DOS ARGUMENTOS JURÍDICOS UTILIZADOS EM RELAÇÃO AO MOTIVO. ELEMENTOS INERENTES AO TIPO. CIRCUNSTÂNCIAS DO CRIME FUNDAMENTADAS. ARMA BRANCA. PRECEDENTES. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
