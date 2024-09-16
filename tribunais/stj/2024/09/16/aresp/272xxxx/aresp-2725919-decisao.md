@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  PORTOCRED  S.A.  -  CRÉDITO,  FINANCIAMENTO  E  INVESTIMENTO  -  EM  LIQUIDAÇÃO  EXTRAJUDICIAL  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a  parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  RIO  GRANDE  DO  SUL  cuja  ementa  guarda  os  seguintes  termos  (fl.  667):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. SENTENÇA DE PROCEDÊNCIA.
+APELO DA PARTE RÉ.
+SUSPENSÃO DO FEITO: Ainda que tenha sido decretada a liquidação extrajudicial da parte apelante, o entendimento do STJ, também adotado por esta Corte, se dá no sentido de que o comando previsto no art. 18 da Lei 6.024/74 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito, como é o caso.
+NULIDADE DA SENTENÇA: O relatório da sentença, embora simplificado, descreve a tese central apresentada pela ré, que defende a ausência de abusividade nas cláusulas ajustadas, não havendo nulidade a se reconhecer. No mesmo sentido, não há falar em ausência de fundamentação, pois a questão central da lide foi abordada na sentença e, conforme tem entendido esta Corte, não há necessidade de se explicitar a distinção do caso concreto quando não se estiver diante de precedentes vinculantes.
+CERCEAMENTO DE DEFESA: O julgamento antecipado do feito, sem despacho saneador, não configura cerceamento de defesa, pois a questão em debate pode ser resolvida com os documentos já existentes nos autos.
+PRESCRIÇÃO: A prescrição trienal se aplica à responsabilidade extracontratual, e não contratual, como é o caso dos autos. Às ações de revisão de contrato bancário aplica-se o prazo prescricional decenal, contado da data da assinatura do contrato. Prescrição afastada.
+JUROS REMUNERATÓRIOS: A média do mercado não constitui, efetivamente, um limitador rígido dos contratos, mas um sinalizador para eventual abusividade.
+Contudo, considerando as particularidades do caso concreto, como o valor e o prazo do financiamento, as fontes de renda do cliente e a forma de pagamento da operação, não há elementos que justifiquem a exorbitância da taxa de juros pactuada, sendo possível constatar a sua abusividade e limitá-los à taxa média informada pelo BACEN, nos termos da jurisprudência do STJ.
+Eventuais particularidades do consignado local ou inadimplência do consumidor são insuficientes para afastar a abusividade, mesmo porque o risco econômico que existe no exercício de atividades financeiras não pode ser transferido ao consumidor, que é parte hipossuficiente na relação.
+REPETIÇÃO DE INDÉBITO: O reconhecimento da abusividade dos juros remuneratórios praticados no contrato impõe a devolução dos valores pagos em excesso, na forma simples.
+Com relação aos critérios de correção, apesar de haver debate sobre o tema, esta Corte tem-se posicionado pela inaplicabilidade da taxa SELIC para dívidas civis, de modo que devem ser mantidos os critérios fixados na sentença.
+APELO DESPROVIDO.
+Sem  embargos  de  declaração  .
+No  recurso  especial,  alega  a  recorrente,  preliminarmente,  ofensa  aos  arts.  489,  §  1º,  inciso  V,  e  927, III,  do  Código  de  Processo  Civil,  ao  sustentar  ausência  de  fundamentação  do  acórdão  recorrido quando a Corte de origem não observou a jurisprudência pacífica do STJ,
+Aponta,  ainda,  afronta  ao  art.  51,  IV  e  §  1º,  III,  do  Código  de  Defesa  do  Consumidor  ao  se  insurgir  contra  o  entendimento  do  Tribunal  de  origem  que  limitou  os  juros  remuneratórios  à  taxa  média  de  mercado,  porquanto  configurado  desequilíbrio  contratual  e  abusividade .
+Sustenta  a  ausência  de  abusividade  na  taxa  pactuada,  onerosidade  excessiva,  ou  desequilíbrio  contratual  no  caso. Alega  que  o  Tribunal  não  se  atentou  às  peculiaridades  do  caso  concreto.
+Aduz  que  o fato de  a  taxa  de  juros  estar  acima  da  média  divulgada  pelo  BACEN  não  caracteriza  a  existência  de  desvantagem  exagerada  em  relação  ao  consumidor,  tampouco  de  vantagem  manifestamente  excessiva  para  a  Portocred,  e  que  o  STJ  entende  por  improcedente  considerar  a  taxa  de  juros  abusiva  tão  somente  cotejando  a  taxa  contratada  com  a  taxa  média  divulgada  pelo  BACEN.
+Suscitou,  outrossim,  dissídio  jurisprudencial.
+Sem contrarrazões  ao  recurso  especial  (fls.  935).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  938-940),  o  que  ensejou  a  interposição  do  presente  agravo.
+Sem contraminuta  ao  agravo  (fls.  1017).
+É,  no  essencial,  o  relatório
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+Não  merece  prosperar  o  recurso.
+De  início,  inexiste  a  alegada  ofensa  ao  art.  489,  §  1º,  inciso  V,  do  Código  de  Processo  Civil,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.  Assim,  manifestou-se  a  Corte  a  quo  de  maneira  clara  e  fundamentada  sobre  as  questões  postas  a  julgamento,  não  obstante  tenha  entendido  o  julgador  de  segundo  grau  em  sentido  contrário  ao  posicionamento  defendido  pela  ora  recorrente.
+Outrossim,  consigne-se  inviável  a  apreciação  das  alegações  da  recorrente,  considerando  que  a  Corte  de  origem,  ao  entender  por  limitar  os  juros  remuneratórios  à  taxa  média  de  mercado,  firmou  o  entendimento  com  base  no  conjunto  probatório  dos  autos  e  no  contrato  firmado  entre  as  partes.  Confira-se  o  seguinte  excerto  do  acórdão  recorrido  (fls.  662-663):
+3.2. Dos juros remuneratórios
+No terreno dos juros remuneratórios praticados por instituições financeiras prevalece, em princípio, a liberdade contratual, pois não estão limitados pela Lei de Usura (Súmula n.º 283 do Superior Tribunal de Justiça).
+O Egrégio Superior Tribunal de Justiça assentou entendimento de que a superação do percentual de12% ao ano não implica necessariamente abusividade, a qual, no entanto, pode ser sindicada no caso concreto.
+A média do mercado não constitui, efetivamente, um limitador rígido dos contratos, mas um sinalizador para eventual abusividade.9No caso dos autos, verifico que foi aplicada a taxa remuneratória mensal nos seguintes percentuais:
+(..)
+Já a média de mercado mensal dos juros remuneratórios, segundo consulta do BACEN, na época da contratação, conforme consulta ao Sistema Gerenciador de Séries Temporais do BACEN para a série 25467(Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público) era a seguinte:
+(..)
+Nesse contexto, verifica-se que as taxas fixadas no contrato objeto da presente demanda exorbitam significativamente da média de remuneração de empréstimos.
+Nessa esteira, considerando as particularidades do caso concreto, como o valor e o prazo do financiamento, as fontes de renda do cliente e a forma de pagamento da operação, não há elementos que justifiquem a exorbitância da taxa de juros pactuada, sendo possível constatar a sua abusividade, nos termos da jurisprudência do STJ:
+(..)
+Dito isso, não socorre à instituição financeira o argumento da peculiaridade do consignado local, porque a diferença é muito elevada para depender da mera circunstância como a existência de algum banco estatal.
+Também não deve ser conferido peso demasiado ao argumento da inadimplência, porque tal fator deveria ter sido levado em no momento de decidir pela concessão do crédito, mais do que no da fixação da taxa; embora se possa rediscutir em teoria a média de juros com relação a consumidores com prévia negativação, isso não representa uma justificativa para a conduta da ré, que soa contraditória, uma vez que, se sabia que a parte autora era negativada e estava endividada, isso deveria ter pesado no momento de avaliar se era adequado conceder mais um crédito.
+Ao analisar a presente situação, percebe-se que ausente argumento ou circunstância que justifique a tarifa no patamar firmado, demonstrando-se elevado com relação à média de mercado, utilizada por outras instituições para a mesma modalidade de crédito, ainda que exista a possibilidade de pactuação de juros remuneratórios em referencial superior aqueles informados pelo Banco Central.
+Ademais, o risco econômico que existe no exercício de atividades financeiras não pode ser transferido ao consumidor, eis que este é parte hipossuficiente na relação. Desse modo entendo que deve ser mantida a sentença no que refere à limitação dos juros remuneratórios à taxa média de mercado à época da contratação.
+Por outro lado, a proposta de redução para um dado percentual que afaste a abusividade se mostra prejudicada, ao passo que a abusividade é afastada com a aplicação da taxa média informada pelo Banco Central, oque já foi determinado no feito.
+Portanto, uma vez flagrante a onerosidade excessiva e o desequilíbrio contratual, não há falar em livre pactuação.
+Ao invés disso, deve ser observado o limite da taxa média informada pelo BACEN para os contratos da mesma espécie na época, que constitui um parâmetro mais equilibrado para a remuneração do mútuo, de modo que vai mantida a sentença no ponto.
+Assim,  rever  tal  entendimento,  a  eventualmente  ensejar  novo  juízo  acerca  dos  fatos  e  das  provas,  conforme  pretendido,  implicaria  o  reexame  do  contexto  fático-probatório  dos  autos  e  das  cláusulas  contratuais.  Sendo  assim,  incidem  no  caso  as  Súmulas  n.  5  e  7  do  STJ.
+A  propósito,  confira-se:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CONTRATO  BANCÁRIO.  ABUSIVIDADE  DOS  JUROS  REMUNERATÓRIOS.  REVISÃO.  IMPOSSIBILIDADE.  APLICAÇÃO  DAS  SÚMULAS  N.  7  E  83  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  O  Tribunal  estadual,  apreciando  o  conjunto  probatório  dos  autos,  concluiu  que  a  taxa  de  juros  cobrada  é  abusiva,  considerando  a  significativa  discrepância  entre  o  índice  estipulado  e  a  taxa  média  de  mercado.  Alterar  esse  entendimento  ensejaria  reavaliação  do  instrumento  contratual  e  revolvimento  das  provas  dos  autos,  circunstâncias  vedadas  pelas  Súmulas  n.os  5  e  7  do  STJ.
+2.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+3.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.529.789/RS,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  29/4/2024,  DJe  de  2/5/2024.)
+
+Outrossim,  quanto  à  alegada  divergência  jurisprudencial,  não  é  possível  o  conhecimento  do  nobre  apelo  interposto  pela  alínea  "c",  na  hipótese  em  que  ele  está  apoiado  em  fatos,  e  não  na  interpretação  da  lei,  assim  a  necessidade  de  reexame  de  matéria  fática  torna  prejudicado  o  exame  da  divergência  jurisprudencial,  considerando  a  inevitável  ausência  de  similitude  fática  entre  acórdãos.
+A  propósito,  confira-se:
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  ALEGADA  IMPENHORABILIDADE  DO  BEM  DE  FAMÍLIA.  TESE  REJEITADA.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  FUNDAMENTAÇÃO  DEFICIENTE.  INCIDÊNCIA  DAS  SÚMULAS  283  E  284/STF.  REVISÃO  DO  JULGADO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.  MULTA  DO  ART.  1.021.  INVIABILIDADE.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Considerando  que  nem  todos  os  fundamentos  do  acórdão  recorrido  foram  objeto  de  impugnação  específica  nas  razões  do  recurso  especial,  é  imperiosa  a  incidência  do  óbice  da  Súmula  n.  283  do  Supremo  Tribunal  Federal  à  hipótese.
+2.  Não  apontado  o  dispositivo  legal  tido  por  violado,  incide  o  enunciado  n.  284  da  Súmula  do  Supremo  Tribunal  Federal.
+3.  A  alteração  da  orientação  firmada  no  aresto  impugnado  só  seria  possível  mediante  o  revolvimento  do  acervo  fático-probatório  do  respectivo  processo,  providência  vedada  nesta  instância  extraordinária  em  decorrência  do  disposto  na  Súmula  7  do  Superior  Tribunal  de  Justiça.
+4.  Consoante  iterativa  jurisprudência  desta  Corte,  a  incidência  da  Súmula  n.  7/STJ  impede  o  conhecimento  do  recurso  lastreado,  também,  pela  alínea  c  do  permissivo  constitucional,  uma  vez  que  falta  identidade  entre  os  paradigmas  apresentados  e  os  fundamentos  do  acórdão,  tendo  em  vista  a  situação  fática  de  cada  caso.
+5.  Não  incide  a  multa  descrita  no  art.  1.021,  §  4º,  do  CPC/2015  quando  não  comprovada  a  manifesta  inadmissibilidade  ou  improcedência  do  pedido.
+6.  Agravo  interno  desprovido.
+(AgInt  nos  EDcl  no  AREsp  n.  2.335.203/SP,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  16/10/2023,  DJe  de  18/10/2023.)
+
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% da causa.
+Publique-se.  Intimem-se.
+EMENTA
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  APELAÇÃO  CÍVEL.  NEGÓCIOS  JURÍDICOS  BANCÁRIOS.  ACÓRDÃO  DO  TRIBUNAL  DE  ORIGEM  DEVIDAMENTE  FUNDAMENTADO.  AÇÃO  REVISIONAL.  JUROS  REMUNERATÓRIOS.  ABUSI  VIDADE  VERIFICADA.  PRETENSÃO  DE  REEXAME  DE  PROVAS  E  DE  CLÁUSULAS  CONTRATUAIS.  SÚMULAS  N.  5  E  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  CONHECIDO  EM  PARTE  E  IMPROVIDO  .
