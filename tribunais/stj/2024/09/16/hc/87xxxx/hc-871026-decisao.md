@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SAMUEL PEREIRA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal 574602-1).
+O paciente foi condenado à pena de 29 anos e de reclusão em regime fechado, mais 340 (trezentos e quarenta) dias-multas, cada um no valor de 1/30 do salário mínimo à época do crime, pela prática dos crimes previstos nos 157, §3º, inciso II, do Código Penal (latrocínio consumado) e no art.157, §2º, inciso II, §2º-A, inciso I (roubo majorado pelo uso de arma de fogo), também do Código Penal.
+A apelação interposta pela defesa foi desprovida à unanimidade. Opostos Embargos de Declaração foram rejeitados, também à unanimidade.
+A defesa fundamenta seus requerimentos alegando a ausência dos requisitos para a decretação da prisão preventiva e que o magistrado, quando da prolação da sentença condenatória, não teria fundamentado adequadamente as razões pelas quais manteve a prisão preventiva do paciente.
+Informa, expressamente, que em sede de recurso especial irá arguir a ilegalidade do reconhecimento realizado - por infringência ao que determina o artigo 226 do CPP, mas que não é esse objeto do presente writ.
+Requer, liminar e definitivamente, deferimento da ordem, revogando-se a prisão preventiva do paciente, expedindo-se respectivo alvará de soltura, fazendo com que este possa aguardar o trânsito em julgado da Ação Penal em liberdade, e, caso necessário a fixação de medidas cautelares diversas do cárcere, nos moldes do art. 319, do CPP.
+Liminar indeferida. Prestadas as informações.
+O Ministério Público apresentou parecer pelo não conhecimento do habeas corpus.
+Instada a se manifestar a defesa informou que persiste interesse no prosseguimento do feito.
+É o relatório.
+Decido.
+A matéria trazida no habeas corpus, qual seja o direito do paciente recorrer em liberdade não foi apreciada no acórdão impugnado, o que impede a apreciação por esta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ASSOCIAÇÃO CRIMINOSA. DECISÃO DE PRONÚNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS. ANÁLISE DE PROVAS. VIA INADEQUADA. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE OFÍCIO DE ORDEM DE HABEAS CORPUS. OPÇÃO EXCLUSIVA DO RELATOR.
+1. O Tribunal de origem, com apoio na prova dos autos, em especial depoimentos testemunhais colhidos sob o crivo do contraditório, concluiu pela legalidade da pronúncia, uma vez que verificou indícios suficientes nesse sentido, inclusive indicando ser inconteste a materialidade, motivo pelo qual é aplicável o princípio do in dubio pro societate.
+2. "Sobre os indícios de autoria da prática do crime imputado ao Agravante, segundo estabelece o art. 413 do Código de Processo Penal, não se faz necessário, na fase de pronúncia, um juízo de certeza a respeito da autoria do crime, mas que o Juiz se convença da existência do delito e de indícios suficientes de que o réu seja o seu autor". (AgRg no HC n. 819.544/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+3. Tendo as instâncias de origem concluído no sentido de que o conjunto fático-probatório dos autos é suficiente para embasar a pronúncia, para se acolher a alegação de insuficiência probatória seria necessário o revolvimento fático-probatório, vedado em habeas corpus. Precedentes.
+4. No tocante ao alegado excesso de prazo da prisão decretada, verifica-se que a questão não foi analisada no acórdão recorrido. Desse modo, não debatida a questão pela Corte a quo, impedido fica o Superior Tribunal de Justiça de apreciar a matéria, sob pena de se incorrer em indevida supressão de instância.
+5. Quanto à concessão de ofício de ordem de habeas corpus, em que pese a possibilidade dessa opção de julgamento (art. 654, §2º, do CPP), é necessário que haja flagrante ilegalidade, o que não se verifica no presente caso, sem falar que a concessão de habeas corpus, de ofício, é opção exclusiva do relator.
+6. Agravo regimental improvido. (AgRg no HC n. 821.781/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, j. em 13/11/2023, DJe de 16/11/2023) (destaque acrescentado).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
