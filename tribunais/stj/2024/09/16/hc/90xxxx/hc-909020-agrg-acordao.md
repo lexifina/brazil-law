@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ARTIGO 16,§1º, IV, DA LEI N. 10.826/2003. INCIDÊNCIA DA SÚMULA Nº 182/STJ. RECURSO NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No caso em apreço, o agravante tão somente reiterou os argumentos lançados no habeas corpus, sem, contudo, impugnar, de forma específica, os fundamentos da decisão que não conheceu do writ. Além disso, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GILBERTO SOUZA DE OLIVEIRA JUNIOR contra decisão de minha relatoria que não conheceu do habeas corpus substitutivo (e-STJ fls. 407-409).
+Nas razões do presente recurso (e-STJ fls. 411-429), sustenta o agravante, em síntese, que "mesmo admitida a possibilidade de ingresso no domicílio para captura de pessoa em cumprimento ao mandado de prisão, desvirtuamento da finalidade no cumprimento do ato, posto que, segundo a denúncia, as drogas estavam "escondidas em uma rede", de forma que se pode concluir que não houve mero encontro fortuito enquanto se procurava pelo foragido, mas sim verdadeira busca probatória dentro do lar, que é totalmente desvinculada da finalidade de apenas capturar pessoa foragida". "Desse modo, vislumbra-se a ilicitude da busca e apreensão domiciliar, e das provas dela decorrentes, inclusive a apreensão das drogas e a subsequente quebra de sigilo de dados do aparelho celular, nos termos do art. 157, caput, e § 1º, do CPP, impondo-se a absolvição do paciente e da corré, nos termos do art. 386, II, do CPP".
+Requer, por fim, o conhecimento e provimento do presente agravo, para que a referida decisão seja reconsiderada e conceda a ordem de habeas corpus, declarando a ilicitude das provas obtidas pela busca domiciliar.
+O Ministério Público do Estado de Minas Gerais apresentou contrarrazões requerendo o não provimento do agravo (e-STJ fls. 442-444).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ARTIGO 16,§1º, IV, DA LEI N. 10.826/2003. INCIDÊNCIA DA SÚMULA Nº 182/STJ. RECURSO NÃO CONHECIDO.
+1. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. No caso em apreço, o agravante tão somente reiterou os argumentos lançados no habeas corpus, sem, contudo, impugnar, de forma específica, os fundamentos da decisão que não conheceu do writ. Além disso, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+3. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo.
+Todavia, não constato elementos suficientes para reconsiderar o julgamento monocrático, ou prover o presente recurso, uma vez que a decisão que não conheceu do habeas corpus assim dispôs (e-STJ fls. 408-409):
+"(..) A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+(..)
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação trazida a esta instância, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024 (..)". Grifos acrescidos.
+No caso em apreço, o agravante tão somente reiterou os argumentos lançados no habeas corpus, sem, contudo, impugnar, de forma específica, os fundamentos da decisão que não conheceu do writ. Confrontada com o aludido óbice, a defesa interpôs o presente agravo ignorando, também, os sólidos argumentos apresentados pelo TJMG e reiterado por esta Corte, os quais demonstram a ausência de qualquer ilegalidade das provas obtidas. Senão, veja-se a ementa respectiva (e-STJ fl. 16):
+"EMENTA: REVISÃO CRIMINAL -POSSE ILEGAL DE ARMA DE FOGO DE NUMERAÇÃO SUPRIMIDA -NULIDADE DO FEITO PELA ILEGALIDADE DAS PROVAS -TEORIA DA ÁRVORE ENVENENADA -IMPOSSIBILIDADE -VIOLAÇÃO DE DOMICÍLIO -DESVIO DE FINALIDADE NO COMPRIMENTO DE MANDADO DE PRISÃO -"FISHING EXPEDITION" -INOCORRÊNCIA -ACUSADO QUE AUTORIZOU A REALIZAÇÃO DA DILIGÊNCIA -AUSÊNCIA DE PROVA NOVA A DESCONSTITUIR A DECISÃO TRANSITADA EM JULGADO -EXISTÊNCIA FUNDADAS RAZÕES E DE JUSTA CAUSA. -Não há falar em ilegalidade das provas, pela teoria da árvore envenenada, quando a realização da busca e apreensão foi devidamente justificada, já que o réu, que estava foragido, ao avistar os policiais, quebrou o próprio celular e apontou que no local havia uma arma de fogo, autorizando o cumprimento da diligência, notadamente quando a defesa não junta aos autos qualquer prova nova que colocasse em dúvida o depoimento judicial de policial militar. -Tratando-se de busca e apreensão realizada em razão de existência de justa causa e autorizada pelo acusado, não há falar em desvio de finalidade da ação policial, já que a prática de "fishing expedition" somente ocorre quando a diligência ocorre de forma indistinta, sem a existência de qualquer fundamento.-A revisão criminal destina-se a corrigir erro judiciário, sendo certo que, não constatada nenhuma das hipóteses relacionadas nos incisos do artigo 621 do Código de Processo Penal, não há como ser acolhida a demanda, nos termos das Súmulas nº 66 e 68 do TJMG". Grifos acrescidos.
+Além disso, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+A hipótese atrai a incidência da Súmula nº 182/STJ, segundo a qual é inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada.
+É nesse sentido o entendimento da Corte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECLÍNIO DE COMPETÊNCIA DA JUSTIÇA FEDERAL PARA A ESTADUAL. NULIDADE DOS ATOS PROCESSUAIS JÁ PRATICADOS. POSSIBILIDADE DE RATIFICAÇÃO PELO JUÍZO COMPETENTE. PRECEDENTES. REITERAÇÃO DE ARGUMENTOS. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ.
+I - Segundo a jurisprudência desta Corte, é possível a decretação da incompetência absoluta da Justiça Federal, com o envio dos autos à Justiça Estadual, sem a pré via declaração da nulidade dos atos já praticados, tendo em vista a possibilidade de aproveitamento dos atos processuais pelo juízo competente.
+II - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso por violação ao princípio da dialeticidade, nos termos da Súmula n. 182, STJ.
+III - In casu, o agravante não demonstrou que os precedentes indicados na decisão agravada são inaplicáveis ao caso, ou, ainda, que houve mudança da jurisprudência deste Sodalício.
+Agravo regimental não conhecido.
+(AgRg no REsp n. 1.988.117/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.). Grifos acrescidos.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
