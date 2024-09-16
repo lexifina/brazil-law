@@ -88,7 +88,7 @@ IX - 1,52% (um inteiro e cinquenta e dois centésimos por cento) e 7% (sete por 
 § 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos.
 § 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
 § 19. A importação de álcool, inclusive para fins carburantes, é sujeita à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação com alíquotas de, respectivamente, 2,1% (dois inteiros e um décimo por cento) e 9,65% (nove inteiros e sessenta e cinco centésimos por cento), independentemente de o importador haver optado pelo regime especial de apuração e pagamento referido no art. 5º da Lei nº 9.718, de 27 de novembro de 1998.
-§ 21. Até 31 de dezembro de 2027, as alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de 1 (um) ponto percentual na hipótese de importação dos bens classificados na Tipi, aprovada pelo Decreto nº 11.158, de 29 de julho de 2022, nos códigos:
+§ 21. Até 31 de dezembro de 2024, as alíquotas da Cofins-Importação de que trata este artigo ficam acrescidas de 1 (um) ponto percentual na hipótese de importação dos bens classificados na Tipi, aprovada pelo Decreto nº 11.158, de 29 de julho de 2022, nos códigos:
 VII - 3926.20.00, 40.15, 42.03, 43.03, 4818.50.00, 6505.00, 6812.91.00, 8804.00.00, capítulos 61 a 63;
 VIII - 64.01 a 64.06;
 IX - 41.04, 41.05, 41.06, 41.07 e 41.14;
@@ -103,6 +103,10 @@ XVII - 02.03, 0206.30.00, 0206.4, 02.07, 02.09, 0210.1, 0210.99.00, 1601.00.00, 
 XVIII - 5004.00.00, 5005.00.00, 5006.00.00, 50.07, 5104.00.00, 51.05, 51.06, 51.07, 51.08, 51.09, 5110.00.00, 51.11, 51.12, 5113.00, 5203.00.00, 52.04, 52.05, 52.06, 52.07, 52.08, 52.09, 52.10, 52.11, 52.12, 53.06, 53.07, 53.08, 53.09, 53.10, 5311.00.00, no capítulo 54, exceto os códigos 5402.46.00, 5402.47.00 e 5402.33.10, e nos capítulos 55 a 60;
 XIX - (VETADO);
 XX - (VETADO).
+§ 21-A. O acréscimo percentual nas alíquotas da Cofins-Importação de que trata o § 21 deste artigo será de:
+I - 0,8% (oito décimos por cento) de 1º de janeiro até 31 de dezembro de 2025;
+II - 0,6% (seis décimos por cento) de 1º de janeiro até 31 de dezembro de 2026; e
+III - 0,4% (quatro décimos por cento) de 1º de janeiro até 31 de dezembro de 2027.
 § 22. A utilização do benefício de alíquota zero de que tratam os incisos XIX a XXXVIII do § 12 deste artigo cessará quando houver oferta de mercadorias produzidas no Brasil em condições similares às das importadas quanto ao padrão de qualidade, conteúdo técnico, preço ou capacidade produtiva, conforme regulamentação editada pelo Poder Executivo.
 § 23. Aplica-se ao condensado destinado a centrais petroquímicas o disposto nos arts. 56 e 57 da Lei nº 11.196, de 21 de novembro de 2005.
 § 24. (VETADO).

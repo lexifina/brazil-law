@@ -1,0 +1,1 @@
+Art. 9º-B. A partir de 1º de janeiro de 2028, as obras de construção civil ainda não encerradas deverão passar a recolher as contribuições nos termos dos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991.
