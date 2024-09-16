@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+$ ementa
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por SANDRO ALVES DE CARVALHO e RITA DE CÁSSIA CAETANO FERNANDES DE CARVALHO contra decisão que não conheceu do agravo em recurso especial, em razão de ausência de impugnação dos fundamentos da decisão agravada.
+Em suas razões recursais, os agravantes afirmam que "não houve impugnação genérica, por parte dos Agravantes na medida que toda a controvérsia foi dissecada nas razões recursais na forma de tópicos e subtópicos, os quais foram mais uma vez reproduzidos acima, donde sobressai, a possibilidade de uma análise adequada da questão posta nos autos, desde que haja interesse na confrontação dos argumentos até aqui delineados".
+Requerem, ao final, a atribuição de efeito suspensivo ao recurso e a reforma da reconsideração da decisão agravada (fls. 637-654).
+A parte agravada apresentou impugnação às fls. 660-661.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. FALTA DE PREQUESTIONAMENTO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. NECESSIDADE DE APRESENTAÇÃO DE DEMONSTRATIVO DISCRIMINADO E ATUALIZADO DO CÁLCULO. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVO EXAME, CONHECER DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento (Súmula 211/STJ).
+2. Consoante entendimento desta Corte Superior, quando os embargos à execução tiverem por fundamento excesso de execução, a parte deve indicar na petição inicial o valor incontroverso, juntamente com o demonstrativo discriminado e atualizado do seu cálculo, sob pena de rejeição liminar dos embargos. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+Assiste razão à parte ora agravante, quanto à impugnação dos fundamentos da decisão agravada. Com isso, reconsidera-se a decisão agravada de fls. 632-633, passando-se a novo exame do recurso.
+Cuida-se de agravo interposto por SANDRO ALVES DE CARVALHO e RITA DE CÁSSIA CAETANO FERNANDES DE CARVALHO em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE EXCESSO. NECESSIDADE DE INDICAÇÃO DO VALOR DEVIDO. AUSÊNCIA DE DEMONSTRATIVO DISCRIMINADO. ART. 917, §4º, II, DO CPC. RECURSO PROVIDO.
+1. Cinge-se a controvérsia em analisar a correção da decisão que recebeu os embargos à execução, em sua integralidade, "para discussão".
+2. Nos termos do artigo 917, § 3º, do Código de Processo Civil, incumbe ao embargante, acompanhando os embargos à execução, trazer demonstrativo discriminados com os cálculos dos valores que entende como cobrados em excesso. (STJ, AgInt no AREsp 1004086/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/04/2019, DJe 29/04/2019; STJ, AgRg no AREsp 550.462/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/09/2016, DJe 06/10/2016).
+3. Sobreleva destacar que as questões arguidas pelos agravados nos embargos, (i) a abusividade do spread exigido pelo banco; (ii) a impossibilidade de capitalização diária de juros; (iii) a abusividade da multa de 10% sobre o principal e encargos da dívida/multa de ajuizamento; (iv) a abusividade da multa de 10% em caso de inadimplemento; (v) a necessidade de extirpação de suposto saldo devedor de quaisquer valores relativos ao imposto de renda incidente nas operações; (vi) a impossibilidade de exigência de comissão de reserva de crédito; (vii) a impossibilidade de incidência de juros moratórios sobre juros compensatórios; e (viii) a descaracterização da mora, constituem exatamente o excesso de execução apontado no artigo 917 do CPC.
+4. Tratando-se de alegação de excesso de execução, deveriam os embargantes ter indicado os valores que entendem devidos e instruído os embargos com demonstrativos discriminados e atualizados dos débitos, o que não foi feito, não se mostrando suficiente a indicação de valor com base em deduções decorrentes de supostos pagamentos e de bem dado em garantia.
+5. Não pode prosperar a alegação de que seria necessário que a parte exequente apresentasse documentos a fim de que a perícia indicasse o valor correto da dívida, uma vez que os embargos à execução possuem como mote, dentre outros, o afastamento de cláusulas contratuais tidas por abusivas e sua interpretação, repousando a discussão em matéria eminentemente de direito, de modo que sequer poderia se afirmar prejuízo à parte acerca da desnecessidade de indicação do valor correto mediante prova pericial (nesse sentido: TRF2, AC nº 0029353-86.2018.4.02.5101, Rel. Desembargador Federal RICARDO PERLINGEIRO, QUINTA TURMA ESPECIALIZADA, julgado em 13/11/2018).
+6. Agravo de instrumento provido para excluir do exame a alegação de excesso de execução, nos termos do art. 917, §4º, II, do CPC, prosseguindo-se a execução." (fl. 445)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, os ora agravantes apontam violação aos arts. 8º, 11, 277, 321, 329, 487, II, 771, 917, 926 e 1.022 do Código de Processo Civil de 2015, 7º da Lei 8.906/94 e divergência jurisprudencial, sustentando, em síntese: (a) cerceamento de defesa em razão do julgamento virtual; (b) necessidade de reconhecimento da prescrição de ofício; (c) omissão quanto à juntada de planilha de cálculo; e (d) inexistência de obrigatoriedade de planilha de cálculo.
+Apresentadas contrarrazões às fls. 543-555.
+De início, quanto à alegada violação aos arts. 8º, 11, 277, 321, 329, 487, II, 771 e 926 do Código de Processo Civil de 2015 e 7º da Lei 8.906/94, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Violação ao artigo 1.022 do CPC/15 não configurada. Acórdão estadual que enfrentou os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissões.
+Precedentes.
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2.1 A jurisprudência desta Corte não considera suficiente, para fins de configuração do prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão como "considerada ou dada por prequestionada", mas sim que a respeito tenha havido efetivo debate no aresto recorrido.
+3. A indicação de violação à dispositivo de lei de forma genérica, desacompanhada de razões suficientes para compreensão da controvérsia, caracteriza deficiência da fundamentação recursal.
+Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+4. A subsistência de fundamentos válidos, não atacados, atrai, por analogia, a incidência do enunciado contido na Súmula 283, do STF.
+5. "Não se pode confundir a nomeação de perito com a nomeação de assistente técnico. Enquanto o perito é nomeado pelo magistrado, para agir de forma imparcial no processo, o assistente técnico é profissional de confiança das partes, contratado para atuar em prol dos interesses do contratante" . Incidência d a Súmula 83/STJ.
+6. Agravo interno desprovido." (AgInt no AREsp n. 2.335.188/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023, g.n.)
+No tocante à alegada omissão quanto à juntada da planilha de cálculo, o eg, Tribunal de Justiça consignou expressamente:
+"Igualmente, não se verifica omissão quanto à alegada desconsideração quanto à existência de planilha de cálculos, posto que restou consignado no Voto condutor que a indicação de valor com base em deduções decorrentes de supostos pagamentos e de bem dado em garantia, como realizado pelos embargantes, não se mostra suficiente para comprovação da alegação de excesso de execução. Confira-se excerto do referido Voto sobre o tema:
+"(..) em se tratando de alegação de excesso de execução, deveriam os recorridos ter indicado os valores que entendem devidos e instruído os embargos com demonstrativo discriminado e atualizado dos débitos, o que não foi feito, não se mostrando suficiente a indicação de valor com base em deduções decorrentes de supostos pagamentos e de bem dado em garantia." (fl. 498)
+Nessas condições, não se verifica a alegada violação ao art. 1. 022 do CPC/2015 quanto à matéria.
+Ademais, consoante entendimento desta Corte Superior, é indispensável apontar, na petição de embargos à execução com fundamento em excesso de execução, a parcela incontroversa do débito e apresentar demonstrativo discriminado e atualizado de seu cálculo (CPC, art. 917, §§ 3º e 4º). Nesse sentido:
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. MEMÓRIA DE CÁLCULO NÃO APRESENTADA. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior possui entendimento jurisprudencial de que, "quando os embargos à execução tiverem por fundamento excesso de execução, a parte deve indicar na petição inicial o valor incontroverso, juntamente com a memória do cálculo, sob pena de rejeição liminar dos embargos". (AgInt no AREsp 2.287.007/DF, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 13/11/2023, DJe de 17/11/2023).
+2. Agrav o interno desprovido." (AgInt nos EDcl no REsp n. 2.091.670/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/6/2024, DJe de 7/6/2024, g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 632-633 e conhecer do agravo para negar provimento ao recurso especial.
+Prejudicada a análise do pedido de efeito suspensivo ao recurso.
+É como voto.
