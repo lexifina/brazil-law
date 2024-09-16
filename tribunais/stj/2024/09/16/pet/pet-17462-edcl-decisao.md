@@ -1,0 +1,17 @@
+DECISÃO
+CONSULCASA VINTE - DESENVOLVIMENTO IMOBILIÁRIO SPE LTDA. opõe embargos de declaração à decisão da Presidência que indeferiu liminarmente a petição inicial ao entendimento de que não cabe o ajuizamento de reclamação para se aferir o acerto de aplicação, na origem, de tese firmada sob a sistemática dos recursos repetitivos.
+Em suas razões, a embargante afirma que houve contradição no decisum, porquanto a decisão reclamada "viola o tema repetitivo 1.095 STJ criando suposto fator diferencial que não existe para afastar a vigência do artigo 27 da Lei de Alienação Fiduciária em Garantia (Lei nº 9.514/97) da solução do caso, em um ato de discordância dos termos do julgamento repetitivo" (fl. 81).
+Requer, assim, o provimento dos presentes aclaratórios a fim de que seja sanado o vício apontado.
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Registre-se que a decisão impugnada foi clara ao reconhecer que o disposto no art. 988, IV, do CPC não prevê a propositura de reclamação com o objetivo de verificar a adequação da aplicação de tese firmada sob a sistemática dos recursos repetitivos ao caso concreto, conforme estabelece o art. 1.030, I, b, do CPC.
+Ao indeferir liminarmente a reclamação, a decisão embargada expressamente afirmou o seguinte (fl. 73):
+A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento da Rcl n. 36.476/SP, de relatoria da Ministra Nancy Andrighi, firmou a orientação de que não cabe o ajuizamento de reclamação para se aferir o acerto de aplicação, na origem, de tese firmada sob a sistemática dos recursos repetitivos.
+Na oportunidade, prevaleceu o entendimento segundo o qual a admissão da reclamação, em casos tais, atentaria contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ.
+Nesse sentido, concluiu-se que, uma vez uniformizado o direito por esta Corte, é dos juízes e tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+Inexiste a alegada contradição, pois os argumentos da embargante foram expressamente apreciados, como se constata do trecho acima transcrito, ante a aplicação do entendimento pacífico do STJ de que não se admite a propositura de reclamação para vindicar o exame da aplicação supostamente indevida de precedente oriundo de recurso especial repetitivo. Nesse sentido: EDcl no AgInt na Rcl n. 41.902/RJ, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 3/3/2022, DJe de 15/3/2022; EDcl no AgInt na Rcl n. 40.898/DF, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 15/2/2022, DJe de 17/2/2022; EDcl no AgRg na Rcl n. 38.094/GO, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 23/6/2021, DJe de 25/6/2021.
+Percebe-se, portanto, que os presentes embargos de declaração revelam mero inconformismo da parte com o resultado do processo, hipótese que, claramente, não justifica seu cabimento.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos d e declaração.
+Publique-se. Intimem-se.
+EMENTA
