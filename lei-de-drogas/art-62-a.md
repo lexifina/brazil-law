@@ -1,6 +1,5 @@
 Art. 62-A. O depósito, em dinheiro, de valores referentes ao produto da alienação ou a numerários apreendidos ou que tenham sido convertidos deve ser efetuado na Caixa Econômica Federal, por meio de documento de arrecadação destinado a essa finalidade.
 § 1º Os depósitos a que se refere o caput deste artigo devem ser transferidos, pela Caixa Econômica Federal, para a conta única do Tesouro Nacional, independentemente de qualquer formalidade, no prazo de 24 (vinte e quatro) horas, contado do momento da realização do depósito, onde ficarão à disposição do Funad.
-§ 2º Na hipótese de absolvição do acusado em decisão judicial, o valor do depósito será devolvido a ele pela Caixa Econômica Federal no prazo de até 3 (três) dias úteis, acrescido de juros, na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995.
 § 3º Na hipótese de decretação do seu perdimento em favor da União, o valor do depósito será transformado em pagamento definitivo, respeitados os direitos de eventuais lesados e de terceiros de boa-fé.
 § 4º Os valores devolvidos pela Caixa Econômica Federal, por decisão judicial, devem ser efetuados como anulação de receita do Funad no exercício em que ocorrer a devolução.
 § 5º A Caixa Econômica Federal deve manter o controle dos valores depositados ou devolvidos.
