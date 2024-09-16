@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. RECURSO NÃO CONHECIDO DIANTE DA AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DA PETIÇÃO DE RECURSO ESPECIAL. SÚMULA N. 115/STJ. ALEGAÇÃO DE FALTA DE PARIDADE DE ARMAS ENTRE AS PARTES DIANTE DA NÃO ABERTURA DE PRAZO PARA REGULARIZAÇÃO DA CADEIA DE PROCURAÇÕES DO PARTE ORA AGRAVADA. AUSÊNCIA DE LEGITIMIDADE PARA RECORRER.
+1. Nos termos da jurisprudência pacífica desta corte, a legitimidade para recorrer (assim como o interesse processual) constitui requisito de admissibilidade dos recursos, razão pela qual não se revela cognoscível dado que a parte ora agravante não tem legitimidade para requerer em nome da parte contra quem litiga.
+2. Mesmo que assim não fosse, a inexistência de abertura de prazo para regularização da cadeia de procurações do ora agravado não interferiria no resultado prático do feito dado que, mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis (fl. 171).
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por MARLUCE VIEIRA DE OLIVEIRA contra decisão monocrática de relatoria da Presidência que não conheceu do recurso em razão da incidência da Súmula n. 115/STJ (fls. 174/175).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado (fl. 65):
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. APRESENTAÇÃO DE IMPUGNAÇÃO. EXCESSO À EXECUÇÃO. ACOLHIMENTO. DECISÃO DE NATUREZA INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO É O RECURSO ADEQUADO. TÍTULO JUDICIAL ACOBERTADO PELA PRECLUSÃO MÁXIMA. RESTITUIÇÃO DOS DESCONTOS. PARCELAS EXPRESSAMENTE DEFINIDAS NO TÍTULO. MODIFICAÇÃO. VIOLAÇÃO À COISA JULGADA. IMPOSSIBILIDADE. AGRAVO CONHECIDO E DESPROVIDO. 1. A decisão que, no curso de cumprimento de sentença, acolhe a impugnação, os cálculos do devedor e define o valor devido, sem encerrar o procedimento de cumprimento de sentença, tem natureza interlocutória, logo é recorrível por meio de agravo de instrumento, na forma do art. 1.015, caput, do Código de Processo Civil. 2. Na execução, o juiz deverá observar estritamente os limites objetivos da prestação jurisdicional, devendo seu cumprimento se dá nos exatos termos nela fixados, sendo vedado qualquer inovação ou modificação. 3. In casu, o acórdão está acobertado pelo efeito da preclusão máxima e não pode ser interpretado de forma a estender à agravante vantagens que foram expressamente excluídas do montante a ser reembolsado. Entender de modo diverso violaria os limites da coisa julgada. 4. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO."
+Rejeitados os embargos de declaração opostos (fls. 91/99).
+Alega a agravante que não houve paridade de armas, dado que "não houve a intimação da agravada  KOVR SEGURADORA S A  para regularizar sua capacidade processual, mesmo não constando nos autos procuração" (fl. 204).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 210/215).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. RECURSO NÃO CONHECIDO DIANTE DA AUSÊNCIA DE PROCURAÇÃO DO SUBSCRITOR DA PETIÇÃO DE RECURSO ESPECIAL. SÚMULA N. 115/STJ. ALEGAÇÃO DE FALTA DE PARIDADE DE ARMAS ENTRE AS PARTES DIANTE DA NÃO ABERTURA DE PRAZO PARA REGULARIZAÇÃO DA CADEIA DE PROCURAÇÕES DO PARTE ORA AGRAVADA. AUSÊNCIA DE LEGITIMIDADE PARA RECORRER.
+1. Nos termos da jurisprudência pacífica desta corte, a legitimidade para recorrer (assim como o interesse processual) constitui requisito de admissibilidade dos recursos, razão pela qual não se revela cognoscível dado que a parte ora agravante não tem legitimidade para requerer em nome da parte contra quem litiga.
+2. Mesmo que assim não fosse, a inexistência de abertura de prazo para regularização da cadeia de procurações do ora agravado não interferiria no resultado prático do feito dado que, mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis (fl. 171).
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo contra decisão da Presidência que aplicou a incidência da Súmula n. 115/STJ ao caso tendo em vista que, da "análise do recurso de MARLUCE VIEIRA DE OLIVEIRA, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Eric Gustavo de Gois Silva" (fl. 174).
+Contudo, nas razões do agravo apenas alegou que não houve paridade de armas, dado que "não houve a intimação da agravada  KOVR SEGURADORA S A  para regularizar sua capacidade processual, mesmo não constando nos autos procuração" (fl. 204).
+Nesses termos, o recurso não merece conhecimento.
+Nos termos da jurisprudência pacífica desta corte, a legitimidade para recorrer (assim como o interesse processual) constitui requisito de admissibilidade dos recursos, razão pela qual não se revela cognoscível dado que a parte ora agravante não tem legitimidade para requerer em nome da parte contra quem litiga. Mesmo que assim não fosse, a inexistência de abertura de prazo para regularização da cadeia de procurações do ora agravado não interferiria no resultado prático do feito dado que, mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que deixou o prazo transcorrer in albis (fl. 171).
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
