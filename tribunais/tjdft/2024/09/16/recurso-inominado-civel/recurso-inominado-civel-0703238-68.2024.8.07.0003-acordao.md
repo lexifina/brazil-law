@@ -1,0 +1,64 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0703238-68.2024.8.07.0003RECORRENTE(S)BANCO SANTANDER (BRASIL) SARECORRIDO(S)ANTONIO DEMONTIE SOBRINHORelatoraJuiza SILVANA DA SILVA CHAVES
+ Acórdão Nº1921682
+
+EMENTA
+
+ p{text-align: justify;}RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. CONSUMIDOR. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL (RMC). EFEITO SUSPENSIVO NEGADO. NÃO COMPROVADA A REGULAR CONTRATAÇÃO. RISCO DA ATIVIDADE. RESPONSABILIDADE OBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇO. DESCONTOS INDEVIDOS NO BENEFÍCIO PREVIDENCIÁRIO DO CONSUMIDOR. RESTITUIÇÃO DEVIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1. Trata-se de Recurso Inominado interposto em face da sentença exarada pelo Juízo do 2º Juizado Especial Cível de Ceilândia que julgou procedentes os pedidos contidos na inicial para declarar a nulidade do contrato questionado e condenar a ré ao pagamento de R$ 3.415,35 ao autor, a título de restituição dos valores cobrados indevidamente, bem como outros valores eventualmente descontados após o ajuizamento da ação, promovendo todas as baixas pertinentes ao referido contrato.
+2. Na origem o autor, ora recorrido, ajuizou ação em que pretendeu a declaração de nulidade do contrato supostamente havido entre as partes e a condenação da ré ao pagamento de R$ 3.415,36 a título de dano material. Sustentou que que não é cliente da instituição financeira requerida e nunca realizou empréstimo. Alegou que tomou conhecimento de um empréstimo que vem sendo descontado de seu benefício previdenciário desde 28/06/2021, já totalizando a quantia de R$ 3.415,36, em parcelas mensais de R$ 106,73. Afirmou que ao procurar o INSS descobriu a existência do contrato questionado nos autos, referente a um empréstimo consignado em cartão de crédito, com o qual não anuiu. Aduziu que nunca recebeu nenhum cartão de crédito em sua residência.
+3. Recurso tempestivo e adequado à espécie. Preparo regular (ID 62822542). Foram ofertadas contrarrazões (ID 62822552).
+4. Em suas razões recursais, a instituição bancária aduz que o recorrido não instruiu a inicial com comprovante de residência atualizado, tampouco instrumento de procuração, documentos imprescindíveis para a constituição e desenvolvimento válido e regular do processo. Pugna pela intimação do recorrido para efetuar a necessária regularização e, caso não seja realizada, requer a extinção do processo, sem resolução do mérito. No mérito, sustenta não existir qualquer irregularidade no contrato celebrado entre as partes, uma vez que contou com a assinatura do consumidor, houve a captura da sua biometria facial, além da proposta conter todas as informações sobre o produto, inclusive os dados bancários de recebimento do saque via TED em conta de sua titularidade. Defende que não cometeu qualquer ilicitude ao descontar o valor da parcela mínima diretamente dos vencimentos do recorrido, tratando-se de exercício regular de um direito, previsto contratualmente. Afirma que, no caso, se trata de ocorrência de distribuição massiva de processos judiciais pelo mesmo advogado subscritor da inicial, mostrando-se necessária a expedição de mandado de constatação, a fim de confirmar a veracidade da postulação autoral. Discorre sobre o princípio da autonomia da vontade e segurança jurídica. Requer o provimento do recurso, a fim de reformar a sentença para afastar integralmente a condenação imposta.
+5. A questão devolvida ao conhecimento desta Turma Recursal consiste na análise acerca dos pressupostos da responsabilidade objetiva e na forma de prestação de serviço.
+6. Nos termos do art. 43 da Lei nº 9.099/95, o recurso terá somente efeito devolutivo, podendo o Juiz dar-lhe efeito suspensivo, para evitar dano irreparável para a parte, não verificado no presente caso. Efeito suspensivo negado.
+7. No caso em concreto, cuida-se de petição inicial produzida sem assistência de advogado, reduzida a termo pelo Núcleo de Atendimento ao Jurisdicionado, com fulcro na autorização contida no art. 9º da Lei nº 9.099/95 e consoante dispõe o art. 78-H, inciso II, do Anexo da Resolução n. 1 de 2017 do Conselho da Magistratura. Outrossim, para apresentação de contrarrazões ao recurso inominado pelo recorrido, foi nomeado advogado dativo, pelo juízo de origem, nos termos da decisão de ID 62822548. Portanto, não há que se falar em intimação do recorrido para juntar aos autos procuração ou expedição de mandado de constatação.
+8. No que concerne a alegação de ausência de comprovante de residência atualizado, verifica-se do documento de ID 62822522, o cumprimento, pelo autor/recorrido, da determinação do juízo de primeiro grau de juntada aos autos do comprovante de residência atualizado e em seu nome.
+9. A relação jurídica estabelecida entre as partes é de natureza consumerista, estando as partes inseridas nos conceitos de fornecedor e consumidor previstos no Código de Defesa do Consumidor (arts. 2º e 3º da Lei 8.078/90). Aplicam-se ao caso em comento as regras de proteção do consumidor, inclusive as pertinentes à responsabilidade objetiva na prestação dos serviços. Nesse contexto, a reparação de danos pelo fornecedor ocorrerá, independente da existência de culpa, em razão de defeito na prestação do serviço, o qual leva em consideração os riscos do negócio, nos termos do art. 14, § 1º, II do CDC.
+10. No caso em exame, o autor é idoso (70 anos de idade - ID 62822154), aposentado, com rendimentos brutos aproximado de dois salários-mínimos por mês (ID 62822156), aparentemente pessoa simples. Conforme destacado na sentença, a prova de fato negativo, qual seja, que o autor não efetuou a contratação do cartão de crédito com margem consignável com a requerida/recorrente, configura hipótese de prova de difícil elaboração. A situação evidenciando a vulnerabilidade do consumidor, justificando a inversão do ônus probatório. Cabe ao fornecedor comprovar a inexistência de defeito na prestação do serviço e a regularidade na contratação do empréstimo consignado ora cobrado, o que não se verificou na hipótese.
+11. A recorrente não juntou qualquer documento hábil a evidenciar a efetiva contratação, pelo consumidor, de cartão de crédito com margem consignável, porquanto no instrumento contratual de ID 62822524, p. 11-13 não consta assinatura do autor, tampouco há comprovação de que o recorrido recebeu o referido cartão de crédito em sua residência, desbloqueou e o utilizou. Ao contrário, não constou na fatura acostada no ID 62822526 compras efetuadas pelo requerido utilizando o referido cartão, além de a instituição bancária afirmar que não houve o desbloqueio do cartão (ID 62822540, p. 4, último parágrafo) no recurso. Ademais, o "print" da tela sistêmica de ID 62822525 com os dados do autor e disponibilização de crédito por meio de saque, por si, não faz prova da regularidade da contratação ou da utilização dos serviços disponibilizados pelo autor.
+12. Nesse quadro, embora a realização de empréstimo por meio eletrônico através de biometria facial seja válida, o Banco deve disponibilizar ao cliente a devida qualidade e segurança sobre os serviços oferecidos, além de dever de arcar com o risco dessa facilitação, especificamente, apurar quanto à autenticidade da manifestação de vontade do consumidor, não podendo se eximir da responsabilidade pela falta de segurança das operações financeiras. Conforme destacado pela magistrada sentenciante, a fotografia acostada ao ID 62822524, p. 10, não é apta a comprovar a anuência do consumidor, posto que, além de não se tratar de “selfie”, poderia ter sido tirada até sem conhecimento ou consentimento do requerente. A assinatura de contrato por biometria, quando realizada por meio de reconhecimento facial, requer que a foto seja feita por selfie diretamente pela pessoa interessada. Isso ocorre por várias razões, principalmente relacionadas à segurança, autenticidade e proteção contra fraudes. A selfie garante que a imagem seja tirada no momento da assinatura, assegurando que a pessoa que está assinando o contrato é realmente quem está participando do processo e que está de acordo com os seus termos. Uma fotografia tirada por terceiros gera indubitável risco de fraude, já que poderia ser tirada sem o conhecimento ou consentimento da pessoa. Ainda, a fotografia juntada como prova de consentimento do cliente com a concessão de empréstimo consignado deixa claro que o autor não se encontrava em ambiente domiciliar, tratando-se claramente de estar em algum ambiente corporativo, seja ele público ou privado, não sendo possível aferir sequer se ele estava realmente deliberando sobre o negócio em questão quando teve seu perfil fotografado por terceiro. Assim, a mera alegação de regularidade na contratação, desacompanhada de provas robustas do alegado, não é suficiente para infirmar os fatos narrados na inicial.
+13. Portanto, a recorrente não se desincumbiu do ônus de comprovar fato impeditivo, modificativo ou extintivo do direito do autor, nos termos do art. 373, II, do Código de Processo Civil, devendo ser mantida, na íntegra, a sentença proferida.
+14. Foi nomeado advogado dativo, pelo juízo de origem, para fins de apresentação de contrarrazões (ID 62822548). O artigo 22 do Decreto Distrital nº 43.821/2022, versa que a fixação de honorários deve ser realizada pelo juiz competente para cada ato, devendo ser observados os parâmetros ali descritos para a fixação do quantum, quais sejam: I - a complexidade da matéria; II - o grau de zelo e de especialização do profissional; III - o lugar e tempo exigidos para a prestação do serviço; IV - as peculiaridades do caso. No presente caso, ante a ausência de complexidade da causa, que tramita em sede de Juizado Especial, e tendo em vista os valores máximos constantes na tabela anexa do referido Decreto, fixados os honorários, devidos ao advogado dativo da parte autora, no valor de R$ 986,00 (novecentos e oitenta e seis reais). A emissão da certidão relativa aos honorários (artigo 23 do Decreto nº 43.821/2022) deverá ser expedida pela instância de origem após o trânsito em julgado e respectiva baixa dos autos.
+15. Recurso conhecido e não provido.
+16. Custas recolhidas. Condenado o recorrente vencido ao pagamento de honorários advocatícios fixados em 10% sobre o valor da condenação, nos termos do art. 55 da Lei 9.099/95.
+17. A súmula de julgamento servirá de acórdão, com fulcro no art. 46 da Lei n.º 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, SILVANA DA SILVA CHAVES - Relatora, MARIA ISABEL DA SILVA - 1º Vogal e MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal, sob a Presidência da Senhora Juíza GISELLE ROCHA RAPOSO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Setembro de 2024
+
+Juíza SILVANA DA SILVA CHAVESRelatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza SILVANA DA SILVA CHAVES - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza MARIA ISABEL DA SILVA - 1º Vogal
+
+Cuida-se de Recurso Inominado interposto pelo banco requerido em face da sentença que julgou procedentes os pedidos inaugurais, declarando a nulidade de contrato de empréstimo mediante reserva de margem para cartão, condenando-o à restituição de R$ 3.415,35, além dos valores descontados após o ajuizamento da ação.
+
+No presente caso, a ilustre Relatora entendeu que a sentença deve ser mantida, pois estaria demonstrada a irregularidade da contratação, de modo que são indevidos os descontos realizados sobre o benefício previdenciário da parte autora.
+
+Peço vênias à ilustre Relatora, pois entendo de forma diversa.
+
+No caso em debate, creio que o recorrente logrou êxito em demonstrar, com a contestação, que a contratação foi realizada de forma voluntária e com a validação da parte recorrida, mediante o uso de selfie, instrumento eficaz e suficiente para as contratações com o uso de ferramentas digitais (ID 62822524).
+
+Além disso, verifica-se que o valor registrado como saque foi creditado na mesma conta em que o recorrido recebe seu benefício previdenciário (ID 62822525), de forma que a pretensão pertinente à restituição das parcelas já descontadas, a meu sentir, não deve prosperar.
+
+Forte nessas razões, com as devidas vênias, voto pelo conhecimento e provimento do recurso do banco recorrente, reformando-se a sentença para julgar improcedentes os pedidos autorais.
+
+É como voto.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA
