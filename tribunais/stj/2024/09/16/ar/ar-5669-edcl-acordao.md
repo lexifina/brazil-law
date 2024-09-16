@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Francisco Falcão.
+EMENTA
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos pelo DISTRITO FEDERAL contra acórdão da Segunda Turma deste STJ, assim ementado:
+PROCESSO CIVIL. AÇÃO RESCISÓRIA. REAJUSTE DE 84,32%. SERVIDORES DISTRITAIS. VIOLAÇÃO DE LITERAL DISPOSITIVO DE LEI. AUSÊNCIA. SÚMULA 343/STF. AÇÃO JULGADA IMPROCEDENTE.
+1. Não cabe ação rescisória fundamentada na existência de violação de literal dispositivo de lei quando o acórdão rescindendo adota a orientação jurisprudencial predominante à época da edição do julgado a que se visa desconstituir. Inteligência da Súmula 343/STF.
+2. A superveniente modificação do entendimento jurisprudencial a respeito da interpretação da norma jurídica tida como violada não autoriza a desconstituição do julgado por meio da ação rescisória, especialmente quando a matéria controvertida não foi objeto de controle concentrado de constitucionalidade.
+3. No âmbito do processo rescindendo, não houve debate a respeito da existência de distinção entre a situação jurídica dos servidores celetistas e estatutários do Distrito Federal para o reconhecimento do direito ao adicional de 84,32%. Essa questão apenas foi pacificada na jurisprudência do STJ em julgados posteriores ao acórdão rescindendo.
+4. A ação rescisória fundamentada no art. 485, V, do CPC/73 não admite inovação da tese jurídica que foi veiculada no feito rescindendo, sob pena de transformá-la em mero sucedâneo de recurso.
+5. Esta Corte Superior ratificou a incidência da Súmula 343/STF, inclusive aos casos em que houver divergência jurisprudencial sobre a a interpretação de normas constitucionais. Precedentes: AR 4.443/RS, Rel. Min. Herman Benjamin, Rel. p/ Acórdão Min. Gurgel de Faria, Primeira Seção, julgado em 8/5/2019, DJe 14/6/2019; AgInt na AR 4.865/SC, Rel. Min. Mauro Campbell Marques, Primeira Seção, julgado em 12/6/2019, DJe 25/6/2019.
+6. Ação rescisória julgada improcedente. (fl. 361).
+A parte embargante sustenta, em síntese, que o acórdão embargado baseou-se em premissa fática equivocada, ao julgar improcedente a ação rescisória diante da incidência da Súmula 343 do STF (fls. 400-404).
+Aduz que os precedentes juntados não respaldam o fundamento de haver, à época do julgado original, controvérsia quanto à "distinção entre a situação dos servidores do Distrito Federal que eram submetidos ao regime celetista no momento da edição da Lei distrital 38/89 e aqueles com vinculação estatutária", porque "referem à limitação temporal das diferenças reclamadas, devidas estritamente aos servidores públicos distritais".
+Alega que é inaplicável a Súmula 343 do STF ao caso, pois a jurisprudência desta "Corte Superior sempre excepcionou os empregados celetistas do direito às diferenças do Plano Collor". Requer seja o acórdão reformado para corrigir o erro e julgar procedente a ação, "na linha dos votos vencidos".
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes deduzidos na minuta e na contraminuta do recurso. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de equívoco da premissa fática, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais a ação rescisória deveria ser julgada improcedente, mesmo com a apresentação de divergência.
+A questão trazida pela parte embargante - da inaplicabilidade, ao caso, da Súmula 343 do STF, pela distinção dos servidores submetidos ao regime celetista no momento da edição da Lei distrital 38/89 - , aliás, foi ponto controvertido entre os votos da relatoria e revisão, e objeto de explícito enfrentamento nos votos vogais que, contudo, restaram vencidos. Constou, expressamente, que:
+ ..  no momento em que foi prolatado o aresto rescindendo, não havia consenso no tocante à distinção entre a situação dos servidores do Distrito Federal que eram submetidos ao regime celetista no momento da edição da Lei distrital 38/89 e aqueles com vinculação estatutária (fl. 365)
+ ..
+A propósito, não é possível acolher a tese do Distrito Federal pela inaplicabilidade dessa súmula. A princípio, a hipótese dos autos não decorre de violação direta a dispositivos constitucionais, mas sim de limite interpretativo eminentemente legal, cu ja origem é legislação do próprio Distrito Federal. Ademais, eventual natureza constitucional da questão controvertida não implica necessário afastamento da Súm. n. 343/STF. (fl. 372)
+ ..
+É curioso que, na própria petição inicial do processo rescindendo, os autores afirmam que são servidores estatutários do DF admitidos antes de 1990. Esse regime jurídico, ou seja, o debate se tais servidores estariam sujeitos à CLT ou ao regime estatutário, contudo, não foi objeto de questionamento pela Procuradoria do Distrito Federal durante a tramitação do processo rescindendo, o que corrobora a conclusão de que tal circunstância não era considerada importante para a solução do caso.
+A existência de controvérsia jurídica sobre a matéria discutida na lide, com a existência de alternância de entendimentos no âmbito do STJ, foi registrada no acórdão ora rescindendo (fl. 377)
+Verifica-se, aliás, que a tese trazida pelo embargante foi justamente a defendida no voto divergente, cujo voto-vista que o acompanhou, fez constar :
+Dessa forma, contrariamente ao assentado na decisão rescindenda, não se aplica a Lei Distrital n. 38/1989 aos réus, não havendo falar em direito adquirido ao reajuste em comento  ..
+Com efeito, contrariamente ao destacado nos votos dos em. Ministros Og Fernandes e Mauro Campbell Marques, o aresto rescindendo não contemplou a orientação jurisprudencial que prevalecia à época do julgado (proferido em 2004). Note-se que naquela época nem sequer havia divergência quanto à questão em análise. Ao contrário, já havia entendimento pacificado no STJ e no STF no sentido de que os empregados públicos da Administração Direta do Distrito Federal, regidos pela Consolidação das Leis Trabalhista, à época da edição da Medida Provisória n. 154/1990, convertida na Lei Federal n. 8.030/90, não tinham direito ao reajuste de 84,32% (IPC de março de 1990), previsto na Lei Distrital n. 38/1989, essa aplicável apenas aos servidores estatutários. (fl. 380)
+Esse entendimento, como dito, foi vencido, com ampla deliberação pelos Ministros que participaram do julgamento - o que difere da alegação de que o acórdão foi fundamentado em premissa fática equivocada. Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
