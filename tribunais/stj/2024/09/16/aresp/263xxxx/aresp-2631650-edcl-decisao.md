@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Município de Praia Grande à decisão de minha lavra que homologou o pedido de desi stência do agravo em recurso especial, interposto por Transportes Nossa Senhora do Monte Serrat Ltda.
+Aduz a parte embargante que a decisão fora omissa quanto aos honorários advocatícios devidos à embargante.
+É o relatório. Decido.
+De início, merece registro que a Segunda Turma, ao julgar o REsp 627.022/SC (Rel. Min. Eliana Calmon, REVPRO, vol. 127, p. 224), fez a distinção entre os seguintes institutos processuais: desistência da ação, desistência do recurso e renúncia do autor ao direito sobre que se funda a ação, conforme excerto parcialmente reproduzido a seguir:
+(..) Primeiramente, necessária a distinção entre os diversos institutos processuais:
+Desistência da ação - somente pode ser deferida até a prolação da sentença; após a citação apenas com a anuência do réu ou se este não anuir sem motivo justificado, a critério do magistrado. É um instituto que tem natureza eminentemente processual, acarreta a extinção do processo sem julgamento do mérito, de modo que a demanda pode ser novamente proposta; se existirem depósitos judiciais, estes poderão ser levantados pela parte autora.
+Desistência do recurso - somente tem direito à desistência do recurso a parte que recorreu; nos termos do art. 501 do CPC, desnecessária a anuência do recorrido ou dos litisconsortes e somente pode ser formulado o pedido até o julgamento do recurso; nesta hipótese, prevalece a decisão imediatamente anterior e acarreta a extinção do feito nos termos do art. 269, I do CPC (extinção do processo com julgamento do mérito).
+Renúncia - é ato privativo do autor, pode ser exercido em qualquer tempo ou grau de jurisdição, independentemente da anuência da parte contrária; enseja a extinção do feito nos termos do art. 269, V do CPC (extinção com julgamento do mérito), impedindo a propositura de qualquer outra ação sobre o mesmo direito; é instituto de natureza material, cujos efeitos são os mesmos da improcedência da ação e, em havendo depósitos judiciais, estes deverão ser convertidos em renda da União; equivale, às avessas, ao reconhecimento do pedido pelo réu.
+Por sua vez, o art. 998 do CPC/2015 dispõe que o ato de desistência do recurso pode se dar a qualquer tempo e sem a anuência da parte adversa.
+Ressalte-se que as despesas processuais e os honorários advocatícios, outrossim, deverão ser pagos pela parte que desistiu, renunciou ou reconheceu o direito, conforme o art. 90 do Código de Processo Civil, nos termos determinados pelo Juízo de origem (AgInt na DESIST no AResp 707267/MG, Relator Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 20/02/2018, DJe 06/03/2018).
+Com efeito, quanto à verba honorária, esta Corte tem entendimento firmado segundo o qual a decisão a respeito das custas processuais e dos honorários advocatícios é da competência do Juízo de origem (DESIS no AREsp 1.807.178/SP, Rel. Min. Humberto Martins, DJe de 25/05/2023).
+Fixadas tais premissas, observa-se que, no caso, a ora embargada fora condenada em sentença a arcar com honorários advocatícios fixado em 10% sobre o valor da causa, atualizado.
+Dispõe o art. 85, § 11, do CPC/2015:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(..)
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento.
+No caso, em grau recursal, os honorários advocatícios recursais foram majorados para o percentual máximo (20%) do valor da causa.
+Outrossim, conforme se depreende do referido dispositivo legal, a majoração dos honorários pressupõe o julgamento do recurso.
+De fato, de acordo com o previsto no §11 do art. 85 do CPC/2015 e em consonância com a jurisprudência do Superior Tribunal de Justiça, não há falar em arbitramento de honorários advocatícios recursais na hipótese de homologação de pedido de desistência do recurso, porquanto inexiste, na hipótese, julgamento propriamente dito (DESIS no REsp 2.086.108/SC, Rel. Ministro Herman Benjamin, DJe de 21/09/2023 e DESIS no REsp 2.074.682/SP, Rel. Min. Gurgel de Faria, DJe de 04/07/2023).
+Nesse contexto, não há falar em majoração de honorários, haja vista o não julgamento do apelo nobre, ou seja, incabível o referido aumento na verba honorária recursal, uma vez que inexistiu o exame do apelo especial.
+Ante o exposto, acolho os presentes declaratórios para tais esclarecimentos, sem, contudo, atribuir-lhes efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
