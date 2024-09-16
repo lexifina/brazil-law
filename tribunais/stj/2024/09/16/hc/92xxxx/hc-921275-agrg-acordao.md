@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Og Fernandes.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. CONSTRIÇÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É pacífica a orientação deste Superior Tribunal de que não há incompatibilidade na fixação de regime semiaberto com o indeferimento do direito de recorrer em liberdade, desde que a necessidade de constrição seja devidamente fundamentada.
+2. A reiteração delitiva, aferida inclusive pela existência de reincidência, justifica a imposição da prisão preventiva, máxime se considerado que o insurgente, no caso, cometeu o delito quando deveria estar em prisão domiciliar.
+3. Agravo regimental não provido.
+RELATÓRIO
+JORGE DOS SANTOS CORDEIRO interpõe agravo regimental contra a decisão de fls. 229-231, que denegou a ordem, na qual pretendia a revogação da prisão determinada pela sentença condenatória.
+Em suas razões, o recorrente reitera o argumento da incompatibilidade da constrição com o regime imposto e defende que há a execução da pena, somente possível com o trânsito em julgado.
+Contrarrazoado o recurso pelo Ministério Público do Estado de Minas Gerais (fls. 256-258), que propôs a manutenção da decisão impugnada, foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do agravo regimental, diante da incidência da Súmula n. 182 do STJ (fls. 263-267).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LESÃO CORPORAL. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. CONSTRIÇÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É pacífica a orientação deste Superior Tribunal de que não há incompatibilidade na fixação de regime semiaberto com o indeferimento do direito de recorrer em liberdade, desde que a necessidade de constrição seja devidamente fundamentada.
+2. A reiteração delitiva, aferida inclusive pela existência de reincidência, justifica a imposição da prisão preventiva, máxime se considerado que o insurgente, no caso, cometeu o delito quando deveria estar em prisão domiciliar.
+3. Agravo regimental não provido.
+VOTO
+Diversamente do que alega o insurgente, no caso não há a execução da pena, mas apenas a compatibilização do regime semiaberto imposto com a prisão preventiva. No particular, portanto, há de ser mantida a decisão que denegou a ordem, nestes termos (fls. 229-231, destaques no original):
+JORGE DOS SANTOS CORDEIRO, condenado por lesão corporal, alega ser vítima de constrangimento ilegal em decorrência da morosidade na tramitação do recurso defensivo interposto contra a sentença condenatória, notadamente porque determinada a expedição de mandado de prisão mesmo condenado em regime semiaberto, o qual seria incompatível com a constrição, sobretudo se considerada a impossibilidade de execução imediata da pena antes do trânsito em julgado.
+O caso comporta o julgamento antecipado, visto que encontra óbice na pacífica orientação desta Corte sobre o tema. De fato, infere-se dos autos que o paciente foi condenado ao cumprimento de 7 meses de reclusão em regime semiaberto, sendo-lhe indeferido o direito de aguardar em liberdade o julgamento de eventual recurso.
+Em primeiro lugar, no que tange à alegação de incompatibilidade do regime semiaberto com a prisão preventiva, é sólida a jurisprudência deste Superior Tribunal de que "não há incompatibilidade entre a fixação de regime semiaberto e o indeferimento do direito de recorrer em liberdade, na sentença condenatória, sendo apenas necessária a compatibilização da custódia com o regime fixado, o que foi determinado na sentença condenatória." (AgRg no RHC n. 185.992/MA, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/3/2024, DJe de 18/3/2024.)" (AgRg no RHC 195918 / RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 3/6/2024, destaquei).
+Em segundo lugar, observa-se que no caso não há execução de pena, mas a decretação da preventiva, a qual se lastreou não só no fato de o paciente cometer o delito quando deveria estar em prisão domiciliar, mas também pelo seu histórico criminal, o qual, inclusive, aponta a existência de reincidência, a indicar concretamente a possibilidade de reiteração delitiva, conforme se verifica das seguintes passagens do édito condenatório (fl. 224, grifei):
+Não posso admitir que JORGE DOSSANTOS CORDEIRO recorra em liberdade, pois praticou o crime quando deveria estar em prisão domiciliar. Noto também que JORGE DOS SANTOSCORDEIRO apresenta escalada criminosa e mesmo depois de sair da prisão continua praticando crimes, considerando seus maus antecedentes, não é cabível a substituição da pena privativa de liberdade por restritivas de direitos. Também não é cabível a suspensão condicional da pena em virtude de seus maus antecedentes.
+Tal determinação (de constrição cautelar), encontra amparo na orientação desta Corte em casos similares, segundo a qual "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, D
+Je 11/6/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+De fato, tal como consignado, repita-se, é pacífica a orientação deste Superior Tribunal de que não há incompatibilidade na fixação de regime semiaberto com o indeferimento do direito de recorrer em liberdade, desde que a necessidade de constrição seja devidamente fundamentada.
+No caso, a constrição foi devidamente justificada diante da reiteração delitiva, aferida inclusive pela existência de reincidência, máxime se considerado que o insurgente cometeu o delito quando deveria estar em prisão domiciliar.
+Ante o exposto, nego provimento ao agravo regimental.
