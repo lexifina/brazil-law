@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PEDIDO DE EFEITOS INFRINGENTES EM MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Conforme mencionado no próprio acórdão que deixou de acolher o recurso de agravo regimental, este STJ já analisou de forma devidamente fundamentada os pontos apresentados e, tanto o agravo regimental anterior quanto os presentes embargos, buscaram somente o reexame das matérias anteriormente julgadas.
+III - Na espécie, à conta de vícios no acórdão, pretende a embargante a rediscussão de matéria já apreciada pelo colegiado, o que não se mostra possível. Precedentes.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GABRIELA MONTEIRO DE SANTANA SANTOS, em face do acórdão proferido por esta Quinta Turma que negou provimento ao agravo regimental para manter a decisão que denegou a ordem no habeas corpus.
+Nos presentes aclaratórios, a embargante alega que houve contradição e omissão no acórdão embargado.
+Sustenta que, "Ao contrário do sustentado por esta Egrégia Corte, em nenhum momento, o argumento defensivo teve como objetivo discutir a justa causa, caracterizada pelos indícios mínimos de autoria e prova da materialidade para início da ação penal, mas sim a conduta descrita na denúncia, que não se amolda ao tipo penal de racismo (..)" (fl. 321).
+Afirma, ainda, que "A questão que ora se coloca, em apertada síntese, é que a conduta narrada na exordial acusatória de que a Embargante "insistiu" para que fosse acionada a Polícia, órgão preparado para lidar com situações como a do caso, não se subsome ao tipo penal do art. 20 da Lei 7.716/89" (fl. 321).
+Assere que "depreende-se da leitura do Acórdão Embargado que além da contrariedade apontada acima, reside uma omissão quanto à questão do acionamento da Polícia tratar-se de mero exercício regular deum direito (..)" (fl. 322).
+Requer, ao final, o acolhimento do incidente, a fim de que sejam sanados os supostos vícios apontados, com efeitos infringentes, para que seja provido o agravo regimental e concedida a ordem.
+O MPF manifestou-se pela rejeição dos presentes embargos (fls. 346-348).
+Submeto à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. PEDIDO DE EFEITOS INFRINGENTES EM MERA IRRESIGNAÇÃO. EMBARGOS REJEITADOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do acórdão embargado.
+II - Conforme mencionado no próprio acórdão que deixou de acolher o recurso de agravo regimental, este STJ já analisou de forma devidamente fundamentada os pontos apresentados e, tanto o agravo regimental anterior quanto os presentes embargos, buscaram somente o reexame das matérias anteriormente julgadas.
+III - Na espécie, à conta de vícios no acórdão, pretende a embargante a rediscussão de matéria já apreciada pelo colegiado, o que não se mostra possível. Precedentes.
+Embargos de declaração rejeitados.
+VOTO
+Preambularmente, insta consignar que os embargos de declaração são cabíveis nas hipóteses do art. 619 do CPP, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão. Podem também ser admitidos para a correção de eventual erro material, consoante o entendimento hoje preconizado pelo CPC; sendo possível, apenas excepcionalmente, a alteração ou modificação do decisum embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, novo julgamento do caso.
+No presente caso, a embargante alega que houve contradição e omissão no acórdão embargado.
+Conforme mencionado no próprio acórdão que deixou de acolher o recurso de agravo regimental, este STJ já analisou de forma devidamente fundamentada os pontos apresentados e, tanto o agravo regimental anterior quanto os presentes embargos, buscaram somente o reexame das matérias anteriormente julgadas.
+No acordão ora embargado foi ressaltada a impossibilidade de trancamento prematuro da ação penal, em especial, pelos motivos que podem ser encontrados de forma resumida na própria ementa de julgamento (fls. 301-302):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPOSTO CRIME DE RACISMO (PRECONCEITO DE RAÇA OU COR). ART. 20 DA LEI N. 7.716/89. CASO CONCRETO: SUSPEITA DE FURTO EM GRANDE LOJA DE DEPARTAMENTOS NÃO CONFRIMADA PELA REVISTA DA POLÍCIA MILITAR. PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA INICIAL. REQUISITOS DO ART. 41 DO CPP. JUSTA CAUSA. TESE DE ATIPICIDADE NÃO VERIFICÁVEL DE PLANO. INDÍCIOS DE AUTORIA E MATERIALIDADE MINIMAMENTE EXPOSTOS. RELATO DE HAVER PROVAS AUDIOVISUAIS DA MATERIALIDADE. REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL. NECESSIDADE DE INSTRUÇÃO CRIMINAL NA ORIGEM. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, a matéria restou devidamente debatida na decisão recorrida, claro, nos limites da via eleita, de forma que não há falar em possível reversão do antes julgado. Com efeito, o trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova da materialidade.
+III - Conforme assentado, houve a exposição de indícios mínimos necessários para a persecução penal, pois o Ministério Público, na narrativa constante da inicial acusatória, asseverou estar presente a justa causa à ação penal, de forma também a cumprir os requisitos do art. 41 do Código de Processo Penal, não sendo, portanto, o caso de trancamento prematuro da ação penal.
+IV - No caso concreto, convém ressaltar que não existe, de plano, a possibilidade de aferição da atipicidade da conduta. Como consta, as imputações em face da agravante demonstram, ao menos, a narrativa de possível atitude praticada em razão de preconceito de raça ou cor em face das vítimas (art. 20 da Lei n. 7.716/89).
+V - Vale destacar que não foram demonstrados pela defesa motivos independentes ao crime, em tese, imputado para que se chamasse a polícia militar ao estabelecimento comercial, grande loja e de relevante circulação de pessoas. Somado a isso, tem-se que houve a efetiva revista aos pertences das vítimas pela polícia, que nada de ilícito encontrou.
+VI - Ademais, a denúncia explica que teria havido "constrangimento, humilhação, vergonha, medo e exposição indevida, que, usualmente, não se dispensaria a outros grupos em razão da cor, etnia, religião ou procedência" (fl. 24). Nesse sentido, lembrando que a ação penal pende de instrução, os autos ainda refletem que já existiriam até mesmo vídeo e depoimentos colhidos em sede policial, que poderiam confirmar a situação exposta.
+VII - Como bem destacado pelo Tribunal de origem, a matéria deve ser apurada no curso da instrução, tendo em vista a necessidade de ampla análise de fatos e provas, inviável na via estreita do writ e seu recurso ordinário, mormente para se verificar as razões e intenções (ou ausência delas) para que fossem chamados policiais pela agravante em desfavor das vítimas, suspeitas de um suposto furto nem mesmo confirmado.
+VIII - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido."
+Na espécie, à conta de vício no acórdão, espera a embargante a rediscussão de matéria já apreciada pelo órgão colegiado, pois, na verdade, o que busca é o reexame de mérito - situação que não se coaduna com a estreita via dos embargos de declaração.
+Nesse sentido: EDcl no AgRg no REsp n. 1.988.016/SP, Quinta Turma, Rel. Min. João Batista Moreira, Des. Convocado do TRF1, DJe de 27/6/2023; EDcl no AgRg no AREsp n. 1.681.479/RN, Quinta Turma, de minha relatoria, DJe de 23/3/2023; e AgRg no REsp n. 2.062.933/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 17/8/2023.
+Assim, verifica- se que o julgado recorrido não padece de qualquer vício.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
