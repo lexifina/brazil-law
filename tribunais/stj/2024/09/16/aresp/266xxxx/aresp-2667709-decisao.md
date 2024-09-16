@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por JORGE LUIZ GOMES FARIA SANTOS contra decisão do Tribunal de Justiça do Estado de Mato Grosso, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - ARTIGO 33, CAPUT , C/C ARTIGO 40, INCISO V, DA LEI 11.343/06 - RECURSO DA DEFENSORIA PÚBLICA - RECONHECIMENTO DO TRÁFICO PRIVILEGIADO - QUANTIDADE DA DROGA RECONHECIDA NA PRIMEIRA FASE - MODUS OPERANDI PARA AFASTAR O BENEFÍCIO DO PRIVILÉGIO - DEDICAÇÃO À ATIVIDADE CRIMINOSA RECONHECIDA - RECURSO NÃO PROVIDO EM DISSONÂNCIA COM O PARECER DA PROCURADORIA-GERAL DE JUSTIÇA.
+A quantidade da droga pode servir para recrudescer da pena na primeira fase dosimétrica.
+Na terceira fase, mantém-se a justificativa do juiz de primeiro grau que, em razão do modus operandi, consubstanciado na descaracterização da motocicleta, criando compartimentos no próprio tanque de gasolina, denominado "mocó", agregado ao longo trajeto para o qual foi contratado, para afastar o tráfico privilegiado." (e-STJ, fl. 528).
+A defesa aponta violação do art. 33, §4º da Lei nº 11.343/06, alegando, em síntese, que a quantidade de drogas apreendidas, por si só, não é fundamento suficiente para o afastamento da redutora do tráfico privilegiado.
+Requer, assim, seja aplicada a redutora prevista no artigo 33, §4º, da Lei nº 11.343/06, na sua fração máxima de 2/3, com o consequente redimensionamento da pena (e-STJ, fls. 533-546).
+Foram apresentadas as contrarrazões (e-STJ, fls. 551-557).
+O recurso foi inadmitido (e-STJ, fls. 558-562). Daí este agravo (e-STJ, fls. 567-577).
+O Ministério Público Federal manifestou-se pelo conhecimento do presente agravo e, quanto ao mérito, pelo seu desprovimento, para que não se conheça do recurso especial (e-STJ, fls. 598-600).
+É o relatório.
+Decido.
+Consoante se verifica do autos, o réu foi condenado, em primeira instância, como incurso no art. 33, caput, c/c o art. 40, V, da Lei n. 11.343/06, à pena de 05 anos e 10 meses de reclusão, no regime fechado, e ao pagamento de 583 dias-multa.
+Irresignada, a defesa apelou, pugnando pela aplicação da causa de diminuição do tráfico privilegiado, nos termos do art. 33, § 4º da Lei n. 11.343/2006.
+O Tribunal de Justiça do Estado de Mato Grosso, todavia, negou-lhe provimento, com base nos seguintes fundamentos:
+"Na terceira fase, mantenho o entendimento assentado pelo juiz de primeiro grau para afastar o tráfico privilegiado, pois há nos autos provas suficientes de que o réu se dedica às atividades criminosas em razão do modus operandi do delito, uma vez que saiu da cidade de Ji-Paraná/RO com destino à Colatina/ES, transportando a droga, pela qual receberia o valor de R$ 4.000,00 (quatro mil reais).
+Contudo, não conseguiu chegar ao destino final por conta de uma abordagem da Polícia Federal, no KM-32 da BR-070, sentido Barra do Garças - General Carneiro.
+Na oportunidade, os policiais, ao vistoriarem a motocicleta, verificaram que a droga estava escondida em um compartimento oculto, comumente conhecido como "mocó", junto ao tanque de combustível.
+Ficou apurado pelo Laudo de Exame Pericial (busca por vestígios), que "a estrutura original do tanque foi alterada de forma a produzir, na mesma peça, compartimentos distintos e . isolados" O perito também assinalou que "considerando a posição onde os materiais foram localizados, as dimensões dos compartimentos formados; considerando pontos de soldas, presenças de massas plásticas e pinturas. Infere o perito que o local não se trata de espaço normalmente presente na peça do tanque de combustível da motocicleta. Trata-se de compartimento criado para servir de esconderijo, normalmente utilizados para transportes de materiais ilícitos, comumente conhecido como "mocó". Considerando presença de tinta avermelhada abaixo da coloração aparente da peça. É possível inferir que a cor original do tanque de combustível instalado na motocicleta era vermelha, . divergindo da cor aparente presente" Portanto, tais circunstâncias fáticas indicam que o réu tinha especial conhecimento e dedicação à atividade criminosa e, portant o, não faz jus ao benefício do privilégio. Até porque a forma como descaracterizou a motocicleta, criando compartimentos no próprio tanque de gasolina, refazendo a pintura, indicam que o apelante se dedica ao crime.
+A propósito:
+(..)" (e-STJ, fls. 499-501, grifou-se).
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Consoante o disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+No caso, consoante se verifica dos autos, foi apreendido com o embargante substancial quantidade de substâncias entorpecentes, consistente em 6.895,826 gramas de cocaína, devidamente ocultada em sua motocicleta, em compartimento especialmente criado com a finalidade de esconder a droga, comumente conhecido como "mocó".
+De acordo com o entendimento deste Superior Tribunal de Justiça, o modus operandi empregado pelo agente, que cuida de preparar previamente o veículo para ocultar grande quantidade de droga, a fim de dificultar a ação policial, é indicativo de um maior envolvimento com o narcotráfico e não condiz com o perfil do pequeno traficante, mencionado na jurisprudência desta Corte Superior.
+A corroborar esse entendimento:
+" ..
+1. As instâncias ordinárias reconheceram a dedicação do paciente à atividades criminosas e mantiveram a negativa de aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com fundamento nas circunstâncias do crime. Na oportunidade, destacou-se o modus operandi do paciente, que atuava em conjunto com outros agentes no transporte e distribuição de drogas com veículo especialmente modificado para ocultar as substâncias ilícitas. De maneira supletivamente, ressaltou-se a grande quantidade da droga apreendida (8,8 kg de maconha) no momento do flagrante.
+2. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 708.992/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/5/2022, DJe de 6/5/2022, grifou-se.)
+" ..
+1. De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+2. Na espécie, a minorante não foi concedida com fulcro na dedicação do réu a atividades criminosas e na sua integração a organização dessa natureza, não só pela quantidade do entorpecente apreendido - 31,968kg (trinta e um quilos e novecentos e sessenta e oito gramas) de cocaína -, mas também pelo modus operandi do delito, em que a droga foi armazenada debaixo do banco do passageiro do veículo que conduzia, em um compartimento de difícil acesso que havia sido preparado em sua própria oficina mecânica, a ser transportada para o portão 3 do Aeroporto Internacional de Guarulhos/SP.
+Omissis.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 719.877/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/4/2022, DJe de 2/5/2022.)
+Ante o exposto, com fundamento no art. 932, VIII, do CPC c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
