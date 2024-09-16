@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/CE, assim ementado (fls. 316-317):
+EMENTA: TRIBUTARIO. AGRAVO INTERNO. COBRANÇA DE TRIBUTO POR MEIO COERCITIVO. INADISMISSÍVEL. SUMULA 323 STF. PRECEDENTES DO STJ, STF E TJCE. RECURSO CONHECIDO E DESPROVIDO.
+1 - Cuida-se de Agravo Interno que desafia Decisão Monocrática em Embargos de Declaração, que desafiaram Decisão Monocrática em Apelação Cível interposta pelo Estado do Ceará em face de decisão proferida pelo MM Juiz da 13ª Vara da Fazenda Pública da Comarca de Fortaleza nos autos do Mandado de Segurança impetrado por Petróleo Brasileiro S.A., tendo decidido no sentido de que é inadmissível apreensão de qualquer mercadoria como meio coercitivo para pagamento de tributo, nos termos da Súmula 323 do STF..
+2 - A questão controvertida cinge-se em analisar se é possível à Administração Pública apreender as mercadorias da apelada, utilizando-se de tal expediente como meio coercitivo para o pagamento de tributos que reputa devidos.
+3 - Ora, como já decidido em sede de sentença e confirmado em Apelação e Embargos de Declaração, o entendimento correto sobreo mérito da causa é no sentido de que cabe ao credor do tributo buscara satisfação da exação através das vias processuais adequadas e não apreendendo as mercadorias da empresa indigitada devedora.
+4- Nesse diapasão, a questão discutida nos autos não suscita maiores digressões hermenêuticas, porquanto já fora exaustivamente debatida nos Pretórios Pátrios e sedimentada através das Súmulas 70, 323 e 547 do STF.
+5 - Nessa ordem de ideias, outra não será a compreensão, senão no sentido de que a Fazenda Pública deverá cobrar tributos em débito mediante procedimentos legalmente previstos, sejam eles extrajudiciais (como o lançamento tributário e a emissão de Certidão de Dívida Ativa - CDA, na forma dos arts. 142 e 201, do CTN, por exemplo), sejam judicias (como é o caso da execução fiscal, fundada na Lei 6.830/80), não podendo se valer de vias oblíquas de cobrança que impeçam, restrinjam ou dificultem o exercício da atividade econômica desenvolvida pelo contribuinte devedor.
+6 - Recurso conhecido e desprovido.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489, §1º, IV a VI e 1.022, I e II, parágrafo único, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou acerca das seguintes questões: (i) decadência do direito de impetrar mandado de segurança; (ii) o objeto da lide não trata de apreensão de mercadoria, com base na Súmula 323/STF, mas sobre pedido de exoneração do encargo legal de depositário fiel, voluntariamente assumido pela recorrida.
+Acrescenta a existência de ofensa ao art. 23 da Lei n. 12.016/99, "ao admitir o mandado de segurança impetrado após o prazo decadencial de 180 dias após o ato coator" (fl. 385).
+Aduz, ainda, a contrariedade ao art. 627 do Código Civil, sob a alegação da responsabilidade do depositário fiel pela restituição dos bens ao depositante, quando reclamado.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 451-458.
+É o relatório. Passo a decidir.
+Na hipótese, o recorrente pretende a anulação do acórdão proferido pela Corte de origem, em sede de embargos de declaração, sob o argumento de que fora omisso quanto à análise das seguintes teses: (i) decadência do direito de impetrar mandado de segurança; (ii) o objeto da lide não trata de apreensão de mercadoria, com base na Súmula 323/STF, mas sobre pedido de exoneração do encargo legal de depositário fiel, voluntariamente assumido pela recorrida.
+No caso, evidencia-se que a matéria suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+Ocorre que o Tribunal local rejeitou os referidos embargos de declaração sem apreciar as referidas questões ora arguidas pela recorrente como omissas. Ressalte-se, pois, que, consoante jurisprudência do STJ, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015 e enseja a anulação do acórdão proferido em sede de embargos de declaração, devendo os autos retornar ao Tribunal de origem para novo julgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016; AgInt no AREsp n. 1.224.162/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2018.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 1.022 DO CPC/2015. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 1.022 do CPC/2015.
+2. Agravo interno não provido. (AgInt no AgInt no AREsp 2.214.867/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/12/2023).
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a referida omissão.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PRAZO DECADENCIAL. DEPOSITÁRIO FIEL. RESPONSABILIDADE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
