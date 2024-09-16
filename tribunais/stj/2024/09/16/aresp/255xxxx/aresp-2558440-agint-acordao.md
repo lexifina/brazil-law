@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/09/2024 a 16/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. SÚMULA Nº 284/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. MANIFESTA VIOLAÇÃO LEGAL. AFASTADA. PROVA NOVA. INEXISTÊNCIA. REVISÃO. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. Rever o entendimento firmado pelas instâncias ordinárias, que afastou a ocorrência de manifesta violação da norma jurídica e a existência de prova nova a ensejar a procedência da ação rescisória, implicaria o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS FRANCISCO DA SILVA e MARIA APARECIDA DE LOURDES PEREIRA contra a decisão que conheceu do agravo para não conhecer do recurso especial devido à incidência das Súmulas nº 7 e 211/STJ e nº 284/STF (e-STJ fls. 1.201/1.205).
+Nas presentes razões, os agravantes aduzem que a discussão quanto à aplicabilidade dos artigos 975, §§2º e 3º, e 966, VII, do Código de Processo Civil foi enfrentada direta e expressamente pelo tribunal de origem, devendo ser afastada a incidência da Súmula nº 211/STJ.
+Além disso, afirmam que não há ausência de demonstração de vulnerabilidade dos dispositivos arrolados e que não se busca a revisão de provas no recurso especial, o qual deve ser conhecido e provido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. SÚMULA Nº 284/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. MANIFESTA VIOLAÇÃO LEGAL. AFASTADA. PROVA NOVA. INEXISTÊNCIA. REVISÃO. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+3. Rever o entendimento firmado pelas instâncias ordinárias, que afastou a ocorrência de manifesta violação da norma jurídica e a existência de prova nova a ensejar a procedência da ação rescisória, implicaria o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O agravo interno não merece prosperar.
+No que tange aos arts. 372, 405, 407, 411, e 975, §§2º e 3º, do CPC, observa-se que o tribunal de origem, a despeito da oposição de embargos de declaração, não decidiu a controvérsia à luz de tais preceitos legais.
+De fato, para que se configure o prequestionamento, é necessário que a Corte local se pronuncie especificamente sobre a matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto. Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTESTAÇÃO. INTEMPESTIVIDADE. JUSTA CAUSA. IMPEDIMENTO. PRECLUSÃO. SÚMULA Nº 568/STJ. REVELIA. RECONHECIMENTO E EFEITOS. PREQUESTIONAMENTO. AUSÊNCIA. POSSE. EXERCÍCIO. COMPROVAÇÃO. REEXAME DE PROVAS.
+(..)
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+5. (..)
+6. Agravo interno não provido."
+(AgInt nos EDcl no REsp 1.391.026/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2017, DJe 20/11/2017).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PROTESTO DE TÍTULO. NULIDADE. PEDIDO DE DILIGÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. NECESSÁRIO REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+(..)
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 431.782/MA, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 6/5/2014, DJe 12/5/2014).
+Além disso, se a alegada violação não foi discutida na origem e não foi verificada nesta Corte existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento da matéria nos termos do art. 1.025 do CPC/2015.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido" (AgInt no AREsp 562.067/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2017, DJe 1º/8/2017- grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.098.633/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/9/2017, DJe 15/9/2017 - grifou-se).
+Ademais, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar os arts. 372, 405, 407, 411, e 975, §§2º e 3º, do CPC como malferidos, não especificou de que forma eles teriam sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido." (AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido." (AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se).
+No mais, não há como se afastar a incidência da Súmula nº 7/STJ.
+No caso, a partir dos fatos e das provas dos autos, o tribunal entendeu o seguinte:
+"(..)
+A presente ação rescisória deve ser julgada improcedente, sendo despicienda a abertura de instrução probatória considerando a possibilidade de julgamento de mérito com as provas coligidas aos autos e submetidas ao contraditório.
+A pretensão se volta contra o r. acórdão proferido em ação de declaração de nulidade de escritura pública(processo nº 0004239-09.2011.8.26.0084) ajuizada pelo ora requerido, Geraldo Aparecido Domingues de Godoy, em face dos autores, Carlos Francisco da Silva e Maria Aparecida de Lourdes Pereira Silva, bem como de Francisco Lopes da Silva e Maria da Graça Rocha da Silva. A r. sentença julgou procedente o pedido para anular o R.04/149.411,lançado na matrícula respectiva do 3º C.R.I da Comarca de Campinas, tornando definitiva a tutela concedida, e condenou Carlos, Maria Aparecida e Francisco, e os advogados que subscrevem as contestações e demais peças processuais, a indenizar a parte autora em 20% do valor da causa pela litigância de má-fé (fls. 54/61). A decisão foi confirmada pelo v. Acórdão de fls. 359/366.
+A rescisória veio fundamentada no Artigo 966, incisos V e VII, do Código de Processo Civil, que tratam, respectivamente, das hipóteses de violação manifesta da norma jurídica e de obtenção de prova nova.(..)Desnecessária a produção de outras provas ou a concessão de prazo para alegações finais, encontrando-se o feito em termos para julgamento, vez que os documentos acostados aos autos, assim como o acesso aos processos de origem permitiram pleno conhecimento dos fatos necessários ao julgamento do feito, dispensando a abertura de dilação probatória que, ademais, não foi de interesse as partes nos feitos originários.
+Ao contrário do alegado pelos autores, não há de se falar em nulidade do acórdão por ausência de fundamentação.
+(..)
+No caso em tela, os fundamentos de ordem fática e jurídica utilizados pela decisão rescindenda estão em perfeita consonância com o decreto contido no dispositivo da decisão, guardando relação de coerência e lógica entre as premissas contidas na fundamentação com a conclusão apresentada.
+Assim, o acórdão se encontra satisfatoriamente fundamentado e não ostenta qualquer vício capaz de gerar sua nulidade, anotando-se ter sido a mesma submetida a recurso de apelo que a confirmou.
+De igual modo, não prospera a alegação de que o reconhecimento da nulidade do contrato de compra e venda firmado entre Carlos e Edilson (fls. 256/257) constitui prova nova.
+Isso porque a declaração de nulidade do contrato teve por premissa o reconhecimento do pedido pelo réu Edilson(e não análise judicial do documento), revel e representado por patrono que representou os autores inúmeras vezes em autos relacionados ao mesmo negócio jurídico, inclusive no processo que deu origem à decisão que se pretende desconstituir, como se verifica da procuração de fls. 352 e do Acórdão de fls. 359/366.
+Ademais, a parte requerida demonstrou, na presente ação rescisória, que Edilson da Silva Carneiro faleceu em2004 (fls. 1080/1081), isto é, muito antes de outorgar a suposta procuração, datada de 2021.
+De outro lado, os autores não lograram demonstrar que a certidão de óbito apresentada poderia ser de homônimo, inclusive porque se trata de indivíduo com o mesmo número de CPF e endereço que consta até mesmo na procuração que teria sido supostamente outorgada.
+Outrossim, o autor Carlos era parte na demanda em que reconhecida a nulidade do contrato de compra e venda, mas o requerido Geraldo não, de modo que contra ele não pode ser invocada a validade de um instrumento reconhecida em ação da qual não participou.
+Cumpre destacar que no ano de 2000 já havia sido reconhecida, pelo Primeiro Tribunal de Alçada Civil, a validade da venda de Carlos para Edilson e deste para Geraldo (fls. 509),sendo inúmeras as tentativas dos autores de se anular, desde então, o referido instrumento firmado.
+(..)
+Assim, a prova apresentada pelos autores não constitui prova nova, tendo sido todas as circunstâncias apontadas apreciadas por esta E. Corte de Justiça nos diversos processos em que litigam as partes, desde a década de 1990.
+Deste modo, a revisão do acórdão, tal como se pretende, é incabível na via rescisória. Não se vislumbra na decisão rescindenda manifesta violação à norma jurídica e tampouco a existência de prova nova, tudo a afastar a possibilidade de incidência do Artigo 966, incisos V e VII, do Código de Processo Civil.
+(..)" (fls. 1.111/1.115, e-STJ).
+Com efeito, rever o entendimento firmado pelas instâncias ordinárias, que afastou a ocorrência de manifesta violação da norma jurídica e a existência de prova nova a ensejar a procedência da ação rescisória, implicaria o revolvimento de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PROVA NOVA. ART. 966, VII DO CPC. PROVA CONHECIDA. ANTES DO TRÂNSITO EM JULGADO. SÚMULA 7 DO STJ. VIOLAÇÃO A DISPOSITIVO LEGAL. ART. 286, II, DO CPC. COMPETÊNCIA POR DISTRIBUIÇÃO. COMPETÊNCIA RELATIVA. JULGADOS DESTA CORTE. SÚMULA 83 DO STJ. SÚMULA 343 DO STF. DISSÍDIO PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Modificar o entendimento do Tribunal de origem, para verificar se efetivamente a prova apresentada seria efetivamente nova, ou se realmente a parte agravante já a tinha antes da sentença, demandaria reexame de matéria fático-probatória, o que seria vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+2. A regra do art. 286, II, do Código de Processo Civil (se refere ao anterior art. 253, II, do CPC) não implica a competência absoluta do Juízo, mas apenas significa que o Juízo é absolutamente competente apenas para decidir acerca de sua própria competência, podendo, todavia, aplicar, em tal decisão, as regras de competência relativa territorial. Precedentes. Incidência da Súmula 83 do STJ.
+3. Não se configura "violação literal de lei" quando a interpretação da legislação era controvertida à época da decisão que se visa rescindir. Súmula 343/STF.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp nº 2.139.936/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ALEGAÇÃO DE DOLO DA PARTE VENCEDORA. VIOLAÇÃO DO ART. 966, III, DO CPC. INEXISTÊNCIA. PROVA NOVA. INOCORRÊNCIA. PRECLUSÃO CONSUMATIVA. DOCUMENTO NÃO CONHECIDO NA AÇÃO ORIGINÁRIA. ARGUMENTAÇÃO VINCULADA À EXISTÊNCIA DO COMPROVANTE. REVISÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. INVIABILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. A ação rescisória não se presta à verificação da boa ou má valoração jurídica dos fatos, ao reexame da prova produzida ou a sua complementação, nem pode ser utilizada como sucedâneo recursal. Precedente.
+2. Afastada pelo tribunal de origem, com base na análise das provas, a violação do art. 966 do CPC, por ausência de documento novo, a revisão da questão pelo STJ é inviável por incidência da Súmula n. 7.
+3. Agravo interno desprovido" (AgInt no AREsp nº 2.317.283/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
