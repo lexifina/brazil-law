@@ -1,0 +1,127 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ÍNDICE DE ATUALIZAÇÃO MONETÁRIA INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. AUSÊNCIA DE MODULAÇÃO DE EFEITOS DO TEMA 810 DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA TAXA REFERENCIAL – TR COMO ÍNDICE DE ATUALIZAÇÃO. PRECEDENTES. ACÓRDÃO RECORRIDO EM DESACORDO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.
+
+Relatório
+
+    1. Recurso extraordinário interposto por Eurani Machado Martins, com base na al. a do inc. III do art. 102 da Constituição da República, contra o seguinte acórdão da Terceira Câmara Especial Cível do Tribunal de Justiça do Rio Grande do Sul:
+
+    “Apelação cível. Servidor público. Política de vencimentos. Reajustes. Necessidade de implementação dos reajustes previstos nos incisos IV e V do art. 15 da Lei 10.395/95. Inexistência de descumprimento da Lei Camata. Descabimento da alegação de ausência de fonte de custeio. Honorários advocatícios. Nos casos em que a Fazenda Pública for condenada ao cumprimento de obrigação pecuniária de trato sucessivo e por tempo indeterminado, é necessária a limitação da base de cálculo da verba honorária aos parâmetros indicados no artigo 260 do Código de Processo Civil, qual seja, o somatório das prestações vencidas até o ajuizamento da ação mais um ano de parcelas vincendas. Apelo desprovido” (fl. 1, e-doc. 5).
+
+    2. O recorrente alega ter a Terceira Câmara Especial Cível do Tribunal de Justiça do Rio Grande do Sul ofendido o inc. XXXVI do art. 5º e o § 12 do art. 100 da Constituição da República.
+
+    Afirma que “a decisão exarada violou os princípios constitucionais que asseguram a intangibilidade da coisa julgada e do ato jurídico perfeito (artigo 5º, XXXVI), vez que determinou a atualização da conta com base na TR, contrariando a decisão de mérito e transitada em julgado, que determinou a aplicação do IGPM como índice de correção” (fl. 13, e-doc. 11).
+
+    Sustenta que “a decisão proferida pelo Juízo a quo, vez que, ao indeferir o pedido de adimplemento de saldo remanescente decorrente do pagamento do precatório apurado, vilipendiou a coisa julgada (ofensa indireta), vez que no momento do pagamento não veio a atualização nos termos do que disposto no título executivo, em ofensa ao que disciplina o inciso XXXVI, do artigo 5º, da Constituição Federal, de acordo com o qual: ‘XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada’” (fl. 15, e-doc. 11).
+
+    Pretende seja “observada a recente orientação do Supremo Tribunal Federal, que, quando do julgamento da Ação Direita de Inconstitucionalidade nº 4357, entendeu pela inconstitucionalidade da aplicação do índice da caderneta de poupança como taxa de correção monetária, sendo determinada a aplicação dos critérios estabelecidos na sentença, quanto ao índice de correção, restando afetada a aplicabilidade da Lei 11.960/2009 tida como incidente ao feito” (fl. 24, e-doc. 11).
+
+    Pede “seja dado integral provimento ao presente Recurso Extraordinário, para ao final reformar a equivocada decisão ‘a quo’, eis que a v. decisão vergastada e ora recorrida, violou frontalmente o artigo 5º, XXXVI, da Constituição Federal, e artigo 100, § 12, da CF (EC 62/2009), merecendo, portanto, vir determinada a observância à decisão de mérito e transitada em julgado, que estabeleceu o IGP-M como índice aplicado, bem como seja afastada a não incidência de juros moratórios entre a data da expedição do precatório e o efetivo pagamento, inclusive durante o período legalmente constituído para pagamento (período de graça) em favor da parte autora, observando-se que:
+
+    a) Julgada a Ação Direta de Inconstitucionalidade nº 4357, onde veio devidamente reconhecida a inconstitucionalidade do parágrafo 12, do artigo 100, da Constituição Federal, sob o entendimento de que o índice da caderneta de poupança como taxa de correção monetária não é o suficiente para recompor as perdas inflacionárias, restando, consequentemente, afetada e contaminada a aplicabilidade da Lei nº 11.960/2009.
+
+    b) Quando do julgamento do AgRg no REsp 1436829 (DJe 01/07/2014) já manifestou-se o Superior Tribunal de Justiça, bem como o Supremo Tribunal Federal quando do julgamento do Recurso Extraordinário nº 785.580 (DJe 26/08/2014), pela inaplicabilidade dos índices da caderneta de poupança como indexador para fins de atualização do débito.
+
+    c) Deverão incidir juros simples no período compreendido entre a data da expedição da requisição de pagamento e a data do seu efetivo adimplemento, devendo ser apurada tal quantia junto ao juízo da execução, deixando a Súmula Vinculante nº 17 do STF de ter qualquer efeito, eis que expressamente modificada a orientação constitucional que deu origem à mesma, observando-se, ainda, recente decisão proferida pelo STF junto ao RE 579431.
+
+    d) Denegar ao recorrente o recebimento de juros, decorrente da atualização da conta também fere o instituto da coisa julgada (!!!), bem como o disposto no artigo 5º, XXXVI, Constituição Federal de 1988, e ainda, o artigo 475-G, do CPC.
+
+    e) Consoante se verifica às cópias em anexo, veio determinado à decisão de mérito que o recorrido deverá pagar, devidamente corrigidas, as diferenças decorrentes dos valores retroativos apurados” (fls. 25-26, e-doc. 11).
+
+    3. O Primeiro Vice-Presidente do Tribunal de Justiça do Rio Grande do Sul decidiu que “o feito deve ser sobrestado até que decisão de mérito seja prolatada pelo Supremo Tribunal Federal no recurso extraordinário paradigma, RE 579.431 – Tema 96/STF” (e-doc. 17).
+
+    O processo retornou à Turma julgadora para o exercício de eventual juízo de retração, considerando o decidido nos Recursos Extraordinários ns. 579.431 (Tema 96), 591.085 (Tema 147), 1.169.28 (Tema 1.037) e 870.947(Tema 810).
+
+    4. Ao reexaminar a matéria, a Vigésima Quinta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul deu parcial provimento “ao agravo de instrumento para ressalvar que a partir de 25.03.2015 o crédito deve ser corrigido pelo índice de Preços ao Consumidor Amplo Especial (IPCA-E) e, ainda, para determinar a incidência de juros de mora a partir do dia seguinte ao término do prazo para pagamento do precatório”. Tem-se na ementa do julgado:
+
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO EXPEDIDO ANTES DE 25.03.2015. REEXAME DA MATÉRIA, EM RAZÃO DO JULGAMENTO DOS RECURSOS PARADIGMAS REsp 1.665.599 (Tema 291), REsp 1.492.221/PR, REsp 1.495.144/RS e REsp 1.495.146/MG (Tema 905) do STJ, RE 579.431 (Tema 96), RE 591.085 (Tema 147), RE 1.169.289/SC (Tema 1.037) e RE 870.947/SE (Tema 810) DO STF. ATUALIZAÇÃO DO DÉBITO E INCIDÊNCIA DE JUROS DE MORA. PRECATÓRIO ADIMPLIDO COM ATRASO.
+
+    - Trata-se de exame quanto a possibilidade de retratação de decisão proferida nesta Câmara, em razão das teses firmadas pelos julgamentos dos recursos repetitivos REsp 1.665.599 (Tema 291), REsp 1.492.221/PR, REsp 1.495.144/RS e REsp 1.495.146/MG (Tema 905) do STJ, e RE 579.431 (Tema 96), RE 591.085 (Tema 147), RE 1.169.289/SC (Tema 1.037) e RE 870.947/SE (Tema 810) do STF.
+
+    - Ocorre que o caso em tela trata de atualização de precatório já expedido, devendo ser observadas as diretrizes traçadas pelo Pretório Excelso, no âmbito do julgamento das ADIs 4357 e 4425 do STF.
+
+    - O STF, através do julgamento das ADIs n° 4357 e 4425, declarou a inconstitucionalidade da expressão ‘índice oficial de remuneração básica da caderneta de poupança’, constante no § 12 do artigo 100 da CF/88. Por conseguinte, com a declaração de inconstitucionalidade do § 12 do artigo 100 da CF, o STF também declarou a inconstitucionalidade parcial, por arrastamento, do artigo 52 da Lei n° 11.960/09, que deu a redação atual ao artigo 1°-F da Lei nº 9.494/97.
+
+    - Tratando a espécie de atualização de precatório expedido ou pago anteriormente a 25/03/2015, impõe-se a observância da decisão proferida em questão de ordem no âmbito das referidas Ações Diretas, que, ao conferir eficácia prospectiva a declaração de inconstitucionalidade, fixou como marco inicial a data de conclusão do julgamento da questão de ordem (25.03.2015) e manteve válidos os precatórios expedidos ou pagos até esta data. Explicitou-se, no mais, a saber que: ‘2.1.) fica mantida a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), nos termos da Emenda Constitucional nº 62/2009, até 25.03.2015, data após a qual (i) os créditos em precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E)’.
+
+    - Impende, pois, no caso concreto, apenas ser ressalvada a atualização pelo IPCA-E, para o período posterior a 25.03.2015, em vista das orientações então traçadas pelo Pretério Excelso, no âmbito da modulação dos efeitos nas ADIs 4357 e 4425 do STF.
+
+    - Na hipótese de o adimplemento do requisitório ocorrer fora do prazo legal, com efeito, incidem juros a contar do dia seguinte ao término do prazo para o seu pagamento. Aplicação da redação da Súmula Vinculante nº 17 do Supremo Tribunal Federal.
+
+    - Consoante o julgamento exarado no RE nº 1.169.289/SC (Tema 1037) no STF, no período previsto no art. 100, parágrafo 5º, da Constituição Federal ou ‘período de graça constitucional’ não cabe a imposição de juros de mora, pois o ente público não está aí inadimplente. Caso não haja o pagamento integral dentro deste prazo, os juros de mora passam a correr apenas a partir do término do ‘período de graça’.
+
+    EM SEDE DE REJULGAMENTO, DERAM PARCIAL PROVIMENTO DO AGRAVO DE INSTRUMENTO. UNÂNIME” (fls. 6-7, e-doc. 18).
+
+    5. Em 25.5.2021, a Primeira Vice-Presidente do Tribunal de Justiça do Rio Grande do Sul admitiu o recurso extraordinário, ao concluir que “a Câmara julgadora, em juízo de retratação, manteve o índice de remuneração da caderneta de poupança (TR) como indexador da correção monetária. Assim, dado que a decisão destoa do aludido paradigma [Tema 810], é de ser admitido o recurso extraordinário” (e-doc. 19).
+
+    Examinados os elementos do processo, DECIDO.
+
+    6. Razão jurídica assiste ao recorrente.
+
+    7. Consta do voto condutor do acórdão proferido pelo Tribunal de origem em juízo de retaratação:
+
+    “(...) firmou-se que a inconstitucionalidade abarca somente o indexador a ser utilizado para a correção monetária dos débitos da Fazenda Pública, já que, reitera-se, declarada inconstitucional a expressão ‘índice oficial de remunera¢do básica da caderneta de poupança’. Assim sendo, não se pode mais utilizar a TR, que corrige os depósitos da caderneta de poupança.
+
+    Registre-se, no contexto, por oportuno, que o Min. Luiz Fux, Relator do RE nº 870.947/SE, paradigma que originou o Tema nº 810 do STF, Tema ao qual é estritamente vinculado o de n° 905 do STJ (dada certa equivalência das controvérsias de ambos), fez a relevante distinção, que segue, in verbis:
+
+    ‘O Supremo Tribunal Federal, ao julgar as ADIs nº 4.357 e 4.425, declarou a inconstitucionalidade da correção monetária pela TR apenas quanto ao segundo período, isto é, quanto ao intervalo de tempo compreendido entre a inscrição do crédito em precatório e o efetivo pagamento. Isso porque a norma constitucional impugnada nas ADIs (art. 100, §12, da CRFB, incluído pela EC nº 62/09) referia-se apenas a atualização do precatório e não à atualização da condenação ao concluir-se a fase de conhecimento.’ (...)
+
+    E, como já se adiantou, o caso em tela apresenta controvérsia de atualização relativa a precatório já expedido, e que provoca o exame da controvérsia ao cotejo do julgamento proferido nas ADIs 4.357 e 4.425 do STF. No caso, verifica-se que a expedição se deu anteriormente a 25/03/2015 (certidão a fl. 68).
+
+    Neste norte, a presente quaestio ingressa, outrossim, na hipótese dos itens 2 e 2.1 da tese proferida em questão de ordem, em sede de modulação dos efeitos da decisão de inconstitucionalidade então exarada nas ADIs 4357 e 4425 no STF.
+
+    É que sobreveio, ainda, julgamento proferido em questão de ordem no âmbito das referidas Ações Diretas 4357 e 4425 pelo STF, no qual se deu eficácia prospectiva a declaração de inconstitucionalidade parcial do art. 5° da Lei nº 11.960/09, determinando-se o seguinte:
+
+    2) - conferir eficácia prospectiva à declaração de inconstitucionalidade dos seguintes aspectos da ADI, fixando como marco inicial a data de conclusão do julgamento da presente questão de ordem (25.03.2015) e mantendo-se válidos Os precatórios expedidos ou pagos até esta data, a saber: 2.1.) fica mantida a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), nos termos da Emenda Constitucional nº 62/2009, até 25.03.2015, data após a qual (i) os créditos em precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Ampla Especial (IPCA-E); (...)
+
+    Dessa forma, depreende-se que restou preservada, para tais hipóteses (precatórios expedidos ou pagos até 25/03/2015), a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR) de 09.12.2009 (data em que entrou em vigor a EC n° 62/09) até 25.03.2015, consoante a tese supra colacionada. Ressalvou-se, no mais que a partir de tal data é que os créditos de precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E) (...)
+
+    No mais, impende ser observado que a orientação sufragada pela Suprema Corte se coaduna com o quanto disposto no art. 21 da Resolução n° 303, de 18 de dezembro de 2019¹, do Conselho Nacional de Justiça, que dispôs sobre atualização monetária dos precatórios não tributários.
+
+    Na espécie, portanto, urge, apenas, ser ressalvada a atualização pelo IPCA-E, para o período posterior a 25.03.2015, em vista das orientações então traçadas pelo Pretério Excelso, no âmbito da modulação dos efeitos nas ADIs 4357 e 4425 do STF (...)
+
+    Ante o exposto, dadas as peculiaridades supra esposadas, em sede de retratação, DOU PARCIAL PROVIMENTO ao agravo de instrumento, para ressalvar que a partir de 25.03.2015 o crédito deve ser corrigido pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E) e, ainda, para determinar a incidência de juros de mora a partir do dia seguinte ao término do prazo para pagamento do precatório” (fls. 14-24, e-doc. 18).
+
+    8. No julgamento do Recurso Extraordinário n. 870.947, Relator o Ministro Luiz Fux, Tema 810 da repercussão geral, este Supremo Tribunal fixou as seguintes teses:
+
+    “1) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, aos quais devem ser aplicados os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito tributário, em respeito ao princípio constitucional da isonomia (CRFB, art. 5º, caput); quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e 2) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina” (DJe 20.11.2017).
+
+    Em 3.10.2019, ao julgar os Embargos de Declaração no Recurso Extraordinário n. 870.947, este Supremo Tribunal decidiu não modular os efeitos da decisão nele proferida, aplicando-se às condenações impostas à Fazenda Pública a inconstitucionalidade da correção monetária pelo índice de remuneração oficial da caderneta de poupança (Taxa Referencial).
+
+    Naquela ocasião, o Ministro Alexandre de Moraes proferiu o voto condutor do julgamento, nestes termos:
+
+    “Em que pese o seu caráter excepcional, a experiência demonstra que é próprio do exercício da Jurisdição Constitucional promover o ajustamento de relações jurídicas constituídas sob a vigência da legislação invalidada, e essa CORTE tem se mostrado sensível ao impacto de suas decisões na realidade social subjacente ao objeto de seus julgados.
+
+    Por outro lado, há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate.
+
+    Entendo que prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma. Nesses casos, o jurisdicionado: (a) foi indevidamente lesado pelo Poder Público e suportou um desfalque patrimonial; (b) teve o ônus de buscar socorro no Poder Judiciário, com custos adicionais; (c) mesmo vitorioso, teve que executar o valor devido pela sistemática de precatórios; (d) viu o SUPREMO TRIBUNAL FEDERAL assentar a inconstitucionalidade da correção de créditos pela TR; (e) terá o valor de seu crédito corrigido por essa mesma TR, que não recompõe de forma integral o seu patrimônio.
+
+    Ora, a modulação de efeitos, nessa hipótese, transmite uma mensagem frustrante para o jurisdicionado: ele tinha razão, o Poder Judiciário reconheceu, mas isso não fez tanta diferença, seu crédito foi liquidado a menor, como preconizado pela norma inconstitucional.
+
+    Dessa feita, não vejo como a incidência da TR no período 2009/2015 possa atender a razões de segurança jurídica e interesse social. Ao contrário, é o prolongamento da eficácia do art. 1º-F da Lei 9.494/1997, na redação da Lei 11.960/2009, que se afigura atentatório aos postulados da segurança jurídica e da proteção da confiança, na medida em que impede a estabilização de relações jurídicas em conformidade com o critério de correção apontado pela própria CORTE como válido”.
+
+    Este Supremo Tribunal consolidou jurisprudência no sentido de atribuir eficácia retroativa à decisão de mérito proferida naquele recurso extraordinário, sendo considerado nulo o índice de correção monetária declarado inconstitucional (Taxa Referencial) desde a data da edição da lei pela qual estabelecido (Lei n. 11.960/2009). Confiram-se, por exemplo, os seguintes julgados:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 1º-F DA LEI N. 9.494/1997, ALTERADO PELA LEI N. 11.960/2009. ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA EM CONDENAÇÕES DA FAZENDA PÚBLICA. INCONSTITUCIONALIDADE. 1. Este Supremo Tribunal declarou inconstitucional o índice de remuneração da caderneta de poupança como critério de correção monetária em condenações judiciais da Fazenda Pública ao decidir o Recurso Extraordinário n. 870.947, com repercussão geral (Tema 810). 2. Assentou-se que a norma do art. 1º-F da Lei n. 9.494/1997, pela qual se estabelece a aplicação dos índices oficiais de remuneração da caderneta de poupança para atualização monetária nas condenações da Fazenda Pública, configura restrição desproporcional ao direito fundamental de propriedade. 3. Ação direta de inconstitucionalidade julgada procedente” (ADI n. 5.348, de minha relatoria, Plenário, DJe 28.11.2019).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CUMPRIMENTO DE SENTENÇA. COISA JULGADA MATERIAL. CORREÇÃO MONETÁRIA. IPCA-E. JUÍZO DE RETRATAÇÃO NEGATIVO. TEMA 810 DA REPERCUSSÃO GERAL. APLICABILIDADE. PRECEDENTES. APELO EXTREMO APRESENTADO PELA PARTE AGRAVADA PROVIDO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE. NÃO INCIDÊNCIA DA SÚMULA 287 DO STF E DO TEMA 733 DA RG. 1. No agravo apresentado em face da decisão de inadmissão do apelo extremo foram impugnados todos os seus fundamentos. O recurso, portanto, não encontra óbice na Súmula 287 do STF. 2. Esta Corte, ao concluir pela não modulação dos efeitos da decisão proferida no RE 870.947-RG, considerou inconstitucional o índice de correção monetária (Taxa Referencial) desde a data da edição da Lei 11.960/2009. Tema 810 da Repercussão Geral. 3. O acórdão recorrido, em sede de retratação, ao entender que já tendo ocorrido o trânsito em julgado da decisão que fixou os índices em relação aos juros e correção monetária estes deveriam ser mantidos em respeito à coisa julgada e ao princípio da segurança jurídica, decidiu a causa em dissonância com a tese fixada no mencionado Tema 810. Não incidência do Tema 733 da Repercussão Geral. 4. Agravo regimental a que se nega provimento. Inaplicável o art. 85, § 11, do CPC, tendo em vista a ausência de condenação ao pagamento de honorários advocatícios na instância de origem” (ARE n. 1.317.698-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 18.10.2021).
+
+    “SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO INSTITUTO DE PREVIDÊNCIA DO RIO GRANDE DO SUL. CONVERSÃO EM AGRAVO REGIMENTAL. ÍNDICE DE ATUALIZAÇÃO MONETÁRIA INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. IMPOSSIBILIDADE DE APLICAÇÃO DA TAXA REFERENCIAL – TR. AUSÊNCIA DE MODULAÇÃO DE EFEITOS DO TEMA 810 DA REPERCUSSÃO GERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 1.348.659-ED-segundos, de minha relatoria, Primeira Turma, DJe 25.3.2022).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 11.08.2021. CONDENAÇÃO DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO-TRIBUTÁRIA. ATUALIZAÇÃO MONETÁRIA. IMPOSSIBILIDADE DE APLICAÇÃO DO ÍNDICE OFICIAL DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA. TAXA REFERENCIAL (TR). TEMA 810 DA REPERCUSSÃO GERAL. APLICABILIDADE. PRECEDENTES. NÃO INCIDÊNCIA DO TEMA 733 DA RG. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. No caso, o Tribunal a quo determinou a aplicação do IPCA-E como índice para atualização monetária da condenação, conforme orientação traçada por esta Suprema Corte ao apreciar o RE 870.974-RG, referente ao Tema 810 da sistemática da repercussão geral. 2. Não incidência do Tema 733 da Repercussão Geral. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC” (ARE n. 1.312.852-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 12.11.2021).
+
+    “DIREITO ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. JUÍZO DE RETRATAÇÃO EXERCIDO NA ORIGEM. ADEQUAÇÃO AO TEMA Nº 810. AUSÊNCIA DE VIOLAÇÃO DA COISA JULGADA. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMAS Nº 1170 E 733. AUSÊNCIA DE IDENTIDADE. INAPLICABILIDADE. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que ‘prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela Corte no julgamento de mérito do RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma’ (Tema nº 810). 2. O exercício do juízo de retratação pela Corte de origem para adequação à tese firmada no julgamento do Tema nº 810 da repercussão geral não importa violação do princípio da coisa julgada. Precedentes. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. A teor do art. 85, § 11, do CPC/2015, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 5. Agravo interno conhecido e não provido” (ARE n. 1.372.596-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 14.6.2022).
+
+    Na mesma linha são, por exemplo, as seguintes decisões monocráticas: Recurso Extraordinário n. 1.462.134, de minha relatoria, DJe 20.11.2023; Recurso Extraordinário n. 1.385.931, Relator o Ministro Alexandre de Moraes, DJe 7.6.2022; Recurso Extraordinário n. 1.266.445, Relator o Ministro Gilmar Mendes, DJe 3.6.2022; Recurso Extraordinário n. 1.366.853, Relator o Ministro Luís Roberto Barroso, DJe 31.5.2022; Recurso Extraordinário n. 1.363.374, Relator o Ministro André Mendonça, DJe 26.10.2023; Recurso Extraordinário n. 1.376.271, Relator o Ministro Dias Toffoli, DJe 27.5.2022; e Recurso Extraordinário n. 1.436.857, Relator o Ministro Luiz Fux, DJe 23.5.2023.
+
+    O acórdão recorrido diverge dessa orientação jurisprudencial.
+
+    9. Pelo exposto, dou provimento ao recurso extraordinário (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e determino a devolução do processo ao Tribunal de origem, para decidir com observância à jurisprudência do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 16 de setembro de 2024.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
