@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por IRENE AGOSTINHO, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/7/2023.
+Concluso ao gabinete em: 31/7/2023.
+Ação: declaratória e inexistência de relação jurídica c/c inexigência de débito e compensação por dano moral, ajuizada pela agravante em face de BANCO VOTORANTIM S/A.
+Sentença: julgou parcialmente procedentes os pedidos inicias, para: a) declarar a inexistência de relação jurídica entre as partes e nulos os contratos objeto desta ação, determinando sejam cessados quaisquer descontos com base naqueles contratos; b) condenar a parte ré a restituir, na forma dobrada, os valores comprovadamente pagos ela autora com base nos contratos referidos no item anterior, a serem apurados em sede de cumprimento de sentença, com correção monetária pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo a partir de cada desembolso e acréscimo de juros de mora de 1% ao mês a partir da citação; e c) condenar a parte ré a pagar à autora, a título de compensação por danos morais, o valor de R$ 10.000,00 (dez mil reais), consignando que tal valor deve ser corrigido monetariamente pela Tabela Prática do Tribunal de Justiça do Estado de São Paulo a partir da data da prolação desta sentença e acrescido de juros de mora de 1% ao mês desde a citação.
+Embargos de declaração: opostos pelo agravado, foram rejeitados.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pelo agravado, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA - Sentença de parcial procedência - APELAÇÃO DO RÉU - Admissibilidade, em parte, do pedido de reforma, apenas para o fim de ser afastada a determinação de devolução em dobro, bem como para admitir-se a compensação com valores disponibilizados na conta da autora. Hipótese em que houve a contratação fraudulenta de diversos empréstimos consignados - Fortuito interno, responsabilidade objetiva (Súmula 479, C. STJ). Observância modulação de efeitos determinada pelo C. STJ no bojo do EREsp 1413542/RS. Danos morais cognoscíveis in re ipsa e fixados em atenção aos princípios da proporcionalidade e da razoabilidade. Substituição dos consectários pela Selic que não pode ser admitida. Alteração, de ofício, do termo inicial dos juros (art. 398,NCPC). Sentença parcialmente reformada - RECURSO PROVIDO EM PARTE.
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da falta de interesse recursal, no que se refere às alegações acerca da existência de fraude e danos morais, por ter sido vencedora a parte recorrente, ora agravante.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante defende a não incidência da Súmula 7 do STJ, bem como a violação dos arts. 1.022 do CPC; 6, VII e 14 do CDC e a existência de divergência jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira específica e consistente, a inaplicabilidade do óbice acerca da falta de interesse recursal.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, a parte recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023 e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados em desfavor da agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
