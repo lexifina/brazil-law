@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por AMBEV S.A. contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO que inadmitiu recurso especial dirigido contra o acórdão assim ementado (fls. 558):
+AGRAVO INTERNO NO RECURSO DE AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SUBSTITUIÇÃO DE PENUORA POR CARTA DE FIANÇA. VALOR INFERIOR AO EXECUTADO. AUSÊNCIA DE ACRÉSCIMO PRECONIZADO NO ARTIGO 835, § 2º, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DOS REQUISITOS LEGAIS PARA OPERAR A SUBSTITUIÇÃO DA GARANTIA. RECURSO CONHECIDO E DESPROVIDO.
+I. Nos termos da pacífica jurisprudência do Egrégio Superior Tribunal de Justiça "É cabível a suspensão da exigibilidade do crédito não tributário a partir da apresentação da fiança bancária e do seguro garantia judicial, desde que em valor não inferior ao do débito constante da inicial, acrescido de trinta por cento, nos moldes previstos no art. 151, inciso II do CTN c/c o art. 835, § 2o. do Código Fux e o art. 9o., § 3o. da Lei 6.830/1980, uma vez que não há dúvida quanto à liquidez de tais modalidades de garantia, permitindo, desse modo, a produção dos mesmos efeitos jurídicos do dinheiro. (STJ - REsp 1381254/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 28/06/2019)
+II. No caso sub examine, a Carta de Fiança em referência totaliza o valor de R$ 55.798,01 (setenta e cinco mil, setecentos e noventa e oito reais e um centavo) e, nesse sentido, a despeito de ostentar o valor do bloqueio judicial na conta corrente da Recorrente, não perfaz o valor consignado na inicial da Execução, daí não se falar em atendimento ao requisito essencial para o mister desejado, haja vista que ainda que seu prazo seja indeterminado, ou mesmo que seja atualizada :pela Taxa Selic, afigura-se incompatível com o valor inicialmente executado que perfaz o valor de R$ 60.708,35 (sessenta mil, setecentos e oito reais e trinta e cinco centavos) bem como não aditado de 30% sobre o valor do débito, nos moldes do artigo 835, §2º, do Código de Processo Civil.
+III. Recurso conhecido e desprovido.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte a quo não admitiu o apelo nobre, pois o aresto atacado estaria em harmonia com a jurisprudência desta Corte Superior (Súmula n. 83 do STJ).
+Todavia, a parte Agravante, nas razões do agravo em recurso especial, não cuidou de trazer qualquer julgado contemporâneo ao provimento judicial agravado e prolatado em moldura fática análoga, de forma a atestar que o acórdão recorrido não estaria em harmonia com a atual jurisprudência deste Superior Tribunal de Justiça, nem comprovou que os precedentes apontados na decisão agravada seriam inaplicáveis à hipótese dos autos. Nessas condições, não se desobrigou do ônus de comprovar a incorreção do decisum que não admitiu o apelo nobre.
+Na espécie, a parte Agravante cingiu-se a sustentar que não se trata de substituição de garantia, mas, sim, de apresentação originária de garantia, o que dispensaria a exigência do acréscimo legal de 30% sobre o valor devido, alegação essa de pronto afastada pelo tribunal de origem, já que indevidamente inaugurada na oposição dos aclarátórios.
+A propósito:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/R S, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido. (AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte local para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, este Superior Tribunal de Justiça possui entendimento no sentido de que: "A Súmula 83 do STJ é de possível aplicação tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional" (AgInt no AREsp n. 1.900.711/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. SÚMULA N. 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
