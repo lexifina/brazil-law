@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/09/2024 a 17/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REEXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ARAES AGROPASTORIL LTDA, BRAMIND BRASIL MINERACAO INDUSTRIA E COMERCIO LTDA, BRATA - BRASILIA TRANSPORTE E MANUTENCAO AERONAUTICA S/A, BRATUR BRASILIA TURISMO LTDA, CONDOR TRANSPORTES URBANOS LTDA, EXPRESSO BRASILIA LTDA, HOTEL NACIONAL S/A, LOCAVEL LOCADORA DE VEICULOS BRASILIA LTDA, POLIFÁBRICA FORMULÁRIOS E UNIFORMES LTDA, contra acórdão proferido pela Primeira Seção deste Superior Tribunal de Justiça, que negou provimento ao agravo interno dos embargantes, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA. DIVERGÊNCIA NÃO CONFIGURADA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. O dissenso interpretativo deve ser comprovado mediante o cotejo analítico entre acórdãos derivados de situações fático-jurídicas idênticas ou assemelhadas, mas com conclusões discrepantes, de tal sorte que suas razões devem indicar, de forma clara e precisa, as circunstâncias que identificam ou assemelham os casos confrontados, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ.
+2. No caso dos autos, a insurgência não prospera, uma vez que está ausente a similitude fática. O acórdão embargado concluiu que: "o decisum de origem negou seguimento ao recurso com base no art. 1.030, I, b, do CPC, apesar de não ter invocado esse dispositivo expressamente, considerando o entendimento firmado no repetitivo. Nessa hipótese, não cabe agravo ao STJ, mas tão somente o agravo interno perante a Corte de segunda instância, jurisdição na qual a discussão se encerrou em caráter definitivo." (fl. 930, e-STJ).
+3. O acórdão apontado como paradigma, por sua vez, tratou da taxatividade mitigada do rol do art. 1.015 do CPC/2015 referente à interposição de Agravo de Instrumento. Como se observa, os acórdãos cuidam de matérias fáticas diversas, de forma que não há divergência, nos termos do art. 1.043, § 4º, do CPC/2015.
+4. Esta Corte Superior entende que "Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica." (AgInt nos EREsp n. 1.776.467/PR, Rel. Ministro Raul Araújo, Corte Especial, DJe de 3.5.2023.). Cito precedentes: AgInt nos EREsp n. 1.679.420/MT, Rel. Ministra Nancy Andrighi, Segunda Seção, DJe de 20.4.2023; e EREsp n. 1.862.517/PE, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 19.4.2023.
+5. Agravo Interno não provido.
+Sustenta o embargante, em suma, obscuridade no acórdão embargado que não teria explicitado a aplicabilidade do Tema 988/STJ, segundo o qual "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" e insiste que a decisão recorrida foi publicada anteriormente à publicação do aludido Tema que, por isso, não teria incidência no presente caso.
+Requer, ao final, o acolhimento dos presentes embargos de declaração, com a atribuição de efeitos modificativos.
+O prazo para a resposta aos embargos declaratórios transcorreu in albis.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REEXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na hipótese, o aresto atacado não está eivado de quaisquer desses vícios. A prestação jurisdicional foi completa, não havendo omissão, contradição ou obscuridade qualquer a ser suprida ou dirimida.
+Com efeito, da leitura do acórdão embargado, observa-se que foi negado provimento ao agravo interno e mantida a decisão que indeferira liminarmente os embargos de divergência em razão da ausência de similitude fático-jurídica com o acórdão apontado como paradigma.
+Assim, como não foi ultrapassado o juízo de admissibilidade dos embargos de divergência, seria de todo inviável o exame da questão posta no alegado dissídio, relacionada à aplicabilidade do Tema 988/STJ.
+Ao que se tem, "a parte pretende o reexame de matéria julgada em razão de mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via dos declaratórios" (EDcl no AgRg nos EDcl no AREsp n. 1.995.042/PA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024).
+Decerto, o recurso aclaratório, possui finalidade integrativa e não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+A propósito do tema, confira-se, por todos, o seguinte julgado da Primeira Seção:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO OBJETO DOS ACLARATÓRIOS QUE CONFIRMOU O NÃO CONHECIMENTO DOS EMBARGOS DE DIVERGÊNCIA. IMPOSSIBILIDADE DE EXAME DE QUESTÕES RELACIONADAS AO MÉRITO DA CAUSA. AUSÊNCIA DE QUAISQUER DOS VÍCIOS DE QUE TRATA O ART. 1.022 DO CPC.
+1. De acordo com o art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição e omissão da decisão recorrida ou, ainda, para correção de erro material.
+2. No caso, o acórdão ora impugnado enfrentou e decidiu, de maneira integral e com argumentação suficiente, a controvérsia.
+3. Com efeito, o Colegiado, ao apreciar agravo interno, confirmou decisão monocrática que não conhecera dos embargos de divergência, porquanto o aresto então embargado, proferido no julgamento de recurso especial, não chegou a apreciar a controvérsia (limitando-se a assentar que "o exame da irresignação da agravante, quanto à alegada desproporcionalidade da sanção aplicada, na origem, demandaria o reexame de matéria fática, o que é vedado, em Recurso Especial, a teor da Súmula 7/STJ").
+4. Assim, como não foi ultrapassado o juízo de admissibilidade dos embargos de divergência, não se revelava possível, por ocasião do julgamento do mencionado agravo interno, o exame de questões relacionadas à dosimetria das sanções impostas pelas instâncias de origem ao réu da subjacente ação civil pública por ato de improbidade administrativa, ora embargante. Por essa razão, o acórdão ora impugnado não padece de qualquer dos vícios de que trata o art. 1.022 do CPC.
+5. Ademais, como a questão veiculada nos presentes aclaratórios (pretendida aplicação, ao caso, do § 5º do art. 12 da Lei n. 8.429/92, incluído pela Lei n. 14.230/2021) refoge aos limites do Tema 1.199 da Repercussão Geral, não é cabível a devolução dos autos à instância de origem para eventual juízo de conformação.
+6. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl nos EREsp n. 1.845.984/PR, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 15/8/2023, DJe de 18/8/2023.)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
