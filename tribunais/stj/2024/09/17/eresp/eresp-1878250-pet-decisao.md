@@ -1,0 +1,24 @@
+DECISÃO
+Aos embargos de divergência em epígrafe foi dado provimento, "para, cassando o acórdão embargado, dar provimento ao agravo interno da FAZENDA NACIONAL, de modo a adequar o julgado ao Tema 1231 do STJ", consoante decisão por mim prolatada (fls. 1273-1277), assim ementada:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÕES AO PIS E À COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES AO ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE. DESCARACTERIZAÇÃO COMO CUSTO DE AQUISIÇÃO PREVISTO NO ART. 13 DO DECRETO-LEI N. 1.598/77. CONTROVÉRSIA DECIDIDA NO TEMA 1231. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+Por meio da petição de fls. 1283-1287, a parte embargada, ora requerente, pleiteia "que as presentes razões sejam recebidas ou como questão de ordem ou processadas como embargos de declaração - como V. Exa. vir a entender mais adequado -, para que, por qualquer meio, seja realizada a correção do erro material indicado, quanto à identificação da tese que foi efetivamente objeto de julgamento pelo Tribunal de origem (fl. 988), para ao final aplicar ao presente caso o entendimento do Tema Repetitivo 1.125".
+Instado a se manifestar, a FAZENDA NACIONAL respondeu às fls. 1295-1297, pugnando pelo indeferimento do pedido da parte contribuinte, na medida em que a decisão "está a perfeita subsunção do recurso ao Tema n. 1.231/STJ, e que não há a subsunção do presente feito com a matéria decidida no Tema n. 1.125/STJ, cuja questão controvertida diz respeito à possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído".
+É o relatório.
+Decido.
+Alega a parte requerente que (fl. 1285):
+ ..  quando do recebimento dos autos neste E. STJ a r. decisão singular que então promoveu o julgamento do Recurso Especial incorreu em equívoco quanto à questão jurídica de fundo, descrevendo o caso corretamente - como exclusão do ICMS-ST da base de cálculo de PIS/Cofins - mas julgando-o como se se tratasse de exclusão do ICMS-ST do creditamento, conforme se confere objetivamente de seu texto:  ..
+Como se vê, a parte contribuinte argui suposta incorreção do julgado embargado da Primeira Turma acerca da matéria controvertida. Por óbvio, a insurgência, há muito, encontra-se fulminada pela preclusão.
+A controvérsia deduzida nos embargos de divergência, por certo, levou em consideração o quanto decidido no acórdão embargado.
+Em decorrência da afetação do Tema 1231 (e não do Tema 1125) pela Primeira Seção, proferi a decisão de fls. 1264-1266, para determinar o sobrestamento do feito, até a conclusão do julgamento dos paradigmas afetados ao rito dos recursos especiais repetitivos. Mais uma vez, não houve insurgência da parte.
+Os autos retornaram os autos ao Gabinete, em razão do julgamento do Tema 1231 (fl. 1272).
+Com a publicação do precedente vinculante da Primeira Seção, proferi a decisão de fls. 1273-1277, para dar provimento aos embargos de divergência, "para, cassando o acórdão embargado, dar provimento ao agravo interno da FAZENDA NACIONAL, de modo a adequar o julgado ao Tema 1231 do STJ".
+Não há dúvida acerca da preclusão para a parte rediscutir o que fora decidido.
+Com efeito, o acórdão embargado da Primeira Turma negou provimento ao agravo interno da FAZENDA, mantendo a decisão do relator que dera provimento ao recurso especial do contribuinte, ao entendimento de que "o contribuinte faz jus aos créditos da contribuição ao PIS e à COFINS pretendidos, quer porque independem da incidência de tais contribuições sobre o montante do ICMS-ST recolhido pelo substituto na etapa anterior, quer porque o valor do imposto estadual antecipado caracteriza custo de aquisição".
+E foi exatamente esta a controvérsia objeto de deliberação da Primeira Seção, que adotou entendimento contrário ao do acórdão embargado, por ocasião do julgamento do Tema 1231, fixando as seguintes teses:
+10.1. Os tributos recolhidos em substituição tributária não integram o conceito de custo de aquisição previsto no art. 13, do Decreto-Lei n. 1.598/77; e
+10.2. Os valores pagos pelo contribuinte substituto a título de ICMS-ST não geram, no regime não cumulativo, créditos para fins de incidência das contribuições ao PIS/PASEP e COFINS devidas pelo contribuinte substituído.
+No Tema 1125, por outro lado, a tese fixada foi esta: "O ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído no regime de substituição tributária progressiva".
+Ou seja: embora coincidentes os tributos em discussão - o ICMS-ST e a Contribuição ao PIS e à COFINS - trata-se que questões distintas, na medida em que a tese firmada no julgamento do Tema 1125 diz respeito à base de cálculo; e o objeto de análise do Tema 1231 é outro: o desconto de crédito, matéria esta debatida e julgada nos recursos interpostos perante este STJ nestes autos.
+Ante o exposto, INDEFIRO o pedido.
+Publique-se. Intimem-se.
+EMENTA
