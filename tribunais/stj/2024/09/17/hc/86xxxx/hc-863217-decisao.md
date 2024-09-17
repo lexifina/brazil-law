@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ILTON RODRIGUES SOUZA FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Depreende-se dos autos que o paciente foi preso em flagrante e, posteriormente, teve a prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas. A prisão preventiva foi decretada visando garantir a ordem pública em razão da periculosidade do paciente, que integraria a organização criminosa Comando Vermelho.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 29-45.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar ponderando as condições pessoais favoráveis do paciente.
+Sustenta, ainda, a nulidade das provas produzidas decorrente da declaração prestada pela testemunha Anna Karoline Pereira da Silva.
+Requer a revogação da prisão preventiva ou sua substituição por medidas cautelares alternativas.
+Liminar indeferida às fls. 329-330.
+Informações prestadas às fls. 342-357.
+O Ministério Público Federal em parecer, às fls. 365-374, manifestou-se pela denegação do writ, nos termos assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. PRESENTES OS PRESSUPOSTOS E FUNDAMENTOS PARA A SEGREGAÇÃO CAUTELAR. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RÉU INTEGRANTE DA ORGANIZAÇÃO CRIMINOSA COMANDO VERMELHO. PARECER PELO NÃO CONHECIMENTO OU, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM" - fl. 365.
+É o relatório. DECIDO.
+No tocante à alegação de nulidade das provas produzidas decorrente da declaração prestada pela testemunha Anna Karoline Pereira da Silva, como bem destacado pelo acórdão recorrido, "a análise dos autos revela que a prisão do paciente e os indícios de autoria e materialidade delitiva colhidos em seu desfavor não se apoiam exclusivamente no referido depoimento" - fl. 31.
+Outrossim, cumpre registrar que "eventuais irregularidades ocorridas na fase inquisitorial não contaminam o curso da ação penal, pois o inquérito policial é peça meramente informativa e não probatória, que tem por finalidade fornecer ao Ministério Público ou ao ofendido, conforme a natureza da infração, elementos necessários para a propositura da ação penal" (REsp n. 1.961.290/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 16/11/2023).
+Quanto a alegação de ausência de fundamentação concreta para a segregação cautelar, verifico que melhor sorte não socorre à defesa.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista a participação do paciente em organização criminosa denominada Comando Vermelho - fl. 77.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+A propósito:
+"Tem-se por devidamente fundamentada a prisão preventiva diante da gravidade concreta da conduta, evidenciada no envolvimento com a organização criminosa Comando Vermelho, com atuação intensa no Estado de origem. Tal fato, consoante a jurisprudência desta Corte, justifica a prisão preventiva para a garantia da ordem pública, em face da periculosidade do agente" (AgRg no RHC n. 163.839/MT, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 15/8/2022.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Ressalta-se, ainda, que "a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos de ordem objetiva e subjetiva que autorizem a imposição da medida extrema, como verificado na hipótese" (AgRg no HC n. 829.799/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/8/2023).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
