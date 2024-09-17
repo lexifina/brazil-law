@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por O CONCILIADOR COBRANÇAS E LOCAÇÕES LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (e-STJ, fl. 320):
+AGRAVO INTERNO EM APELAÇÃO. DECISÃO QUE REVOGOU O BENEFÍCIO DA GRATUIDADE JUDICIÁRIA. PRESUNÇÃO RELATIVA DE VERACIDADE DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA. POSSIBILIDADE DO MAGISTRADO EXIGIR A COMPROVAÇÃO DA SITUAÇÃO DE INSUFICIÊNCIA FINANCEIRA. ADOTADOS OS REQUISITOS E PARÂMETROS DA DEFENSORIA PÚBLICA ESTADUAL. DECISÃO QUE CONSIGNOU EXPRESSAMENTE A ADVERTÊNCIA DE QUE A NÃO APRESENTAÇÃO DA INTEGRALIDADE DOS DOCUMENTOS SOLICITADOS IMPORTARIA NA REVOGAÇÃO DO BENEFÍCIO. PARTE QUE APRESENTOU DOCUMENTAÇÃO QUE DESVELA O NÃO PREENCHIMENTO DA HIPOSSUFICIÊNCIA ALEGADA. REVOGAÇÃO DO BENEFÍCIO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 642-653), o recorrente apontou violação aos arts. 98 e 99, § 2º, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que faz jus ao benefício da gratuidade judiciária, alegando que, na qualidade de pessoa jurídica, comprovou que não possui condições financeiras para custear as despesas processuais, sem prejuízo de sua subsistência.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No tocante à gratuidade de justiça, a Corte local assim se manifestou (e-STJ, fl. 635, sem grifo no original):
+Outrossim, é consabido que eventual declaração de hipossuficiência, produzida de forma unilateral, com base na interpretação extensiva, às pessoas jurídicas, do art. 99, § 3º, do CPC possui presunção relativa, sendo permitido ao magistrado exigir a apresentação de documentos que a comprovem, consoante Informativo 84 do Tribunal de Justiça de Santa Catarina.
+Demais, a jurisprudência da Corte Superior é iterativa no sentido de que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado" (AgRg no Ag881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal convocado do TRF 1ª Região), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008) (AgRg no AREsp n. 613.443/MS, rel. Min. Luis Felipe Salomão, j. 9-6-2015).
+Se não bastasse, a decisão vergastada bem consignou que o benefício da gratuidade judiciária pode ser requerido a qualquer tempo e fase processual, não estando sujeito à preclusão (STJ, REsp. n. 723.751/RS).
+De igual modo, pode também ser revogado a qualquer tempo, uma vez constatada a alteração da situação financeira da parte contemplada. Ainda, o art. 5º, §2º do Ato Regimental n. 84/2007-TJ, assevera que a revisão do benefício concedido pode ser feita a qualquer tempo pelo próprio relator, que deve envidar esforços para diligenciar neste sentido.
+Volvendo ao caso concreto, infere-se que a parte agravante foi cientificada dos parâmetros estabelecidos por este Relator para concessão/manutenção do benefício da gratuidade judiciária, ciente que a análise para empresas, diante da documentação que porventura seja acostada, é mais delicada.
+Assim, a decisão de evento 11, DESPADEC1, nesse rumo, elencou a integralidade dos documentos a ser apresentados, com a advertência expressa de que "fica a parte recorrente ciente de que a não apresentação da integralidade dos documentos solicitados, ou justificativa plausível para a sua não apresentação, implicarão no indeferimento do pedido da gratuidade judiciária".
+Contudo, a análise da documentação apresentada, da qual já foi apontada no evento 20, DESPADEC1, desvela que o apelante não reúne as condições necessárias para que a benesse da gratuidade fosse restabelecida, eis que a realidade financeira da empresa não se coaduna com a concessão do beneplácito almejado.
+Assim, não resta comprovada a impossibilidade de arcar com os encargos processuais. Nada adianta colacionar 73 anexos (a princípio, de forma canhestra), na esperança que ovolume de documentação gere alguma resposta positiva, sem convencer o magistrado, todavia, com argumentações plausíveis, de que o pagamento de pouco mais de R$ 600,00 (seiscentos reais), à título de preparo recursal, ou eventuais verbas de sucumbência arbitradas, atravanque a desenvoltura da empresa a ponto de impossibilitar a atividade comercial.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, a pessoa jurídica faz jus à gratuidade judiciária, desde que comprove a insuficiência de recursos financeiros.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A jurisprudência desta Corte firmou o entendimento de que a autodeclaração de hipossuficiência, realizada por quem pretende ser beneficiário da justiça gratuita, possui caráter relativo, admitindo-se a denegação, pelo juízo competente, diante de provas dos autos em sentido contrário. Precedentes.
+2. O entendimento preconizado nesta Corte, nos termos da Súmula 481/STJ, é no sentido de que: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. No caso, rever a conclusão do acórdão recorrido quanto à suficiência dos documentos apresentados para comprovação da hipossuficiência, bem como quanto à capacidade da parte recorrente de, sem prejuízo do seu próprio sustento, custear as despesas do processo em curso, implica o reexame das provas dos autos, providência vedada pela Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.274.157/RN, Relator o Ministro Marco Buzzi, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. DEFERIDA ASSISTÊNCIA JUDICIÁRIA GRATUITA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de revisão de contrato.
+2. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais, in casu, exclusivamente para fins recursais.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5 . Agravo interno não provido.
+(AgInt no AREsp n. 2.310.594/RS, Relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+No caso em exame, do excerto do acórdão recorrido acima mencionado constata-se que há elementos nos autos a evidenciar o não preenchimento do pressuposto ao benefício da gratuidade da justiça.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível devido à natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS. GRATUIDADE DE JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA INSUFICIÊNCIA DE RECURSOS. SÚMULA 481/STJ. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A concessão do benefício da gratuidade de justiça a pessoa jurídica está condicionada à prova da hipossuficiência, conforme o preceito da Súmula 481 do Superior Tribunal de Justiça.
+2. No caso dos autos, as instâncias ordinárias concluíram, com base no acervo fático-probatório, que não ficou demonstrada a alegada hipossuficiência econômica. A modificação do referido entendimento demandaria o reexame de provas.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.139.060/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. DIREITO PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. ART. 98 DO CPC. PESSOA JURÍDICA. NECESSIDADE DE PREENCHIMENTO DOS REQUISITOS. DEMONSTRAÇÃO DA INCAPACIDADE FINANCEIRA. SÚMULA 481 DO STJ. INEXISTÊNCIA DE PRESUNÇÃO. TRIBUNAL DE ORIGEM AFASTOU INCAPACIDADE ECONÔMICA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Pessoa jurídica que recorre com fundamento no preenchimento dos requisitos legais para gratuidade da justiça (art. 98 do CPC).
+2. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481 do STJ).
+3. No caso em questão, o acórdão recorrido foi claro em afastar essa presunção, tendo em vista que não houve a comprovação efetiva da sua incapacidade de arcar com os ônus do processo.
+4. A pretensão de reforma do acórdão recorrido, acerca da situação de hipossuficiência financeira da parte, imprescindível à concessão da gratuidade da justiça, demandaria necessariamente o reexame de matéria fático-probatória dos autos, atraindo, assim, o óbice disposto na Súmula nº 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.185.263/SP, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA FINANCEIRA NÃO CONSTATADA. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
