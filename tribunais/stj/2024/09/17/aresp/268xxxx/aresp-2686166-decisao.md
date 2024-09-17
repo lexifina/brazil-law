@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA ROSA DE JESUS (MARIA ROSA) contra decisão que não admitiu seu apelo nobre, interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, que, em sede de apelação, condenou a CAIXA ECONÔMICA FEDERAL (CEF) ao pagamento de danos materiais e morais decorrentes de vícios de construção de imóvel financiado pelo Programa Minha Casa Minha Vida.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões do recurso especial, interposto com base no art. 105, III, alíneas a e c, da CF, MARIA ROSA alegou a violação do art. 489, § 1º, III e IV, do NCPC.
+Sustentou, em seu recurso, que (1) não houve fundamentação apta a afastar a indenização por dano moral; (2) o dano material se encontra comprovado, decorrente de perícia judicial, e é dele que decorre o abalo imaterial; e, que, (3) ao mesmo tempo em que corretamente utilizou o precedente (AREsp 1266904/RJ, Rel. Luis Felipe Salomão, DJ 15/5/2018) para entender que o caso em comento não se trata de dano moral in re ipsa, deixou de considerar o restante do r. julgado, quanto "a previsão de que provadas as circunstâncias ensejadoras, cabível seria a condenação em dano moral" (e-STJ, fls. 342).
+Foram apresentadas contrarrazões (e-STJ, fl. 378/380).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+(1) Da violação do art. 489 § 1º, III e V do CPC.
+O recurso não merece prosperar.
+Com relação ao dano moral, o Tribunal Regional Federal da 1ª Região consignou que:
+Nas razões recursais, a apelante sustenta que "O dano moral, in casu, restacomprovado pelos seguintes fatos: "A parte Autora é pessoa humilde, recebeu o imóvel confiando no ente estatal (CEF), sendo que, com o recebimento do imóvel em questão não pode mais tentar obter um imóvel com a devida qualidade, já que não poderá ser contemplada em outros projetos de habitação social, tendo que conviver pelo resto de sua existência com os defeitos e o medo de que novos vícios possam surgir dada a flagrante falta de solidez da obra; A CEF agiu com negligência ao fiscalizar as obras, não arcando com seu dever, não apenas contratual, mas principalmente constitucional enquanto ente público; A parte Autora, com o laudo de vistoria de entrada, foi induzida a crer que seu imóvel era perfeito e adequado; A existência dos vícios não é um evento que se isola no tempo, possui efeitos pretéritos (a convivência com os problemas) e futuros (a necessidade de reformas); A parte Autora foi obrigada a conviver com imóvel danificado e será obrigada a conviver com amplas reformas, tendo, por algum tempo, inutilizada parcela considerável de seu imóvel", razão pela qual pugnou pelo pagamento de indenização pordanos morais.
+No caso, presente o ato ilícito, cabe verificar se o vício de construção atingiu aesfera íntima da apelante, de forma a provocar dano extrapatrimonial.
+Segundo a doutrina, o dano moral é a violação aos direitos da personalidade, compreendidos estes como o conjunto de atributos jurídicos que emanam do princípio dadignidade da pessoa humana (art. 1º, inciso III, CF/88).
+Assim, para além do mero dissabor em razão dos vícios de construção, deve-se averiguar se o ato praticado causou agressão aos direitos da personalidade.
+Consoante jurisprudência do STJ, nas ações que tratam de vícios de construção, odano moral não pode ser presumido: "configurando-se apenas quando houver circunstânciasexcepcionais que, devidamente comprovadas, importem em significativa e anormal violação dedireito da personalidade dos proprietários do imóvel" (AgInt no REsp 1955291/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 14/02/2022, D
+Je 02/03/2022).
+Na hipótese, em que pesem as argumentações da apelante, o laudo pericial aponta apenas vícios pontuais. Desse modo, em razão da quantidade e natureza, não é possível configurar situação excepcional de violação a direitos da personalidade. (e-STJ, fls. 298/299).
+Como visto, o acórdão embargado manifestou-se expressamente sobre a matéria em exame - a inexistência de presunção de dano moral decorrentes de vícios construtivos -, analisando os argumentos expendidos nas razões recursais e conferindo ao feito o desfecho considerado com ele consentâneo.
+Essa compreensão se aplica inclusive quanto aos pontos abordados no recurso integrativo manejado pela parte embargante, tendo o referido acórdão embargado destacado que, nos termos do entendimento firmado nesta Corte Superior de Jusitça, no julgamento do AgInt no REsp 1.955.291/RS, de lavra do Ministro RAUL ARAUJO (4ª Turma, DJe 14/2/2022), "nas ações que tratam de vícios de construção, o dano moral não pode ser presumido: "configurando-se apenas quando houver circunstânciasexcepcionais que, devidamente comprovadas, importem em significativa e anormal violação dedireito da personalidade dos proprietários do imóvel".
+Assim, considerando que o Tribunal de origem se manifestou expressa e claramente quanto à falta de comprovação do dano moral alegado, o qual, como dito antes, não pode ser presumido, aplica-se, a espécie, o enunciado da Súmula 83 do STJ.
+(2) Do dissídio jurisprudencial
+Inviável o provimento do recurso especial em relação à divergência jurisprudencial, pois, nos termos da jurisprudência desta Corte, não se conhece da divergência quando a orientação firmada pela instância de origem se deu no mesmo sentido da jurisprudência dominante do STJ (AgRg nos EDcl no AREsp n. 736.821/SC, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 4/2/2016, DJe de 26/2/2016).
+Nessa mesma direção:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. INCAPACIDADE PARCIAL ALIADA ÀS CONDIÇÕES PESSOAIS. ANÁLISE. POSSIBILIDADE.
+1. "Ainda que o laudo pericial tenha concluído pela incapacidade parcial para o trabalho, pode o magistrado considerar outros aspectos relevantes, tais como, a condição socioeconômica, profissional e cultural do segurado, para a concessão da aposentadoria por invalidez" (AgRg no AREsp 308.378/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/05/2013, DJe 21/05/2013).
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Súmula 83 do STJ. 3. Agravo interno desprovido. (AgInt no AREsp n. 2.036.962/GO, relator Ministro GURGEL DE FARIA, Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022)
+Dessa forma, não há como acolher a tese de existência de dissídio jurisprudencial, tendo em vista que a conclusão da origem deu-se em harmonia com o entendimento sedimentado neste Superior Tribunal de Justiça (Súmula n.º 83 do STJ).
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da CAIXA ECONÔMICA FEDERAL, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observando-se, no que couber a gratuidade de justiça deferida na origem.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ARTS. 489 E 1.022 DO NCPC. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO E/OU FALTA DE FUNDAMENTAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA MINHA VIDA. VÍCIOS CONSTRUTIVOS. DANO MORAL. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
