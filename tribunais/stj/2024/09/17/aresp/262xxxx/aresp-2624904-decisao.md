@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto por MINISTÉRIO PÚBLICO FEDERAL contra a decisão que não conheceu do recurso especial, por sua vez, dirigido em oposição ao acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO no Agravo de Instrumento n. (202) 0041445-71.2016.4.01.0000.
+Nos autos o agravante alega que é:
+ P reciso destacar que o juízo de admissibilidade não pode incursionar no mérito do recurso especial. Saber se há ou não nulidade é exatamente o ponto do recurso especial inadmitido. Nestes autos a Vice-Presidência adiantou-se e julgou o mérito do recurso especial, afirmando que há nulidade na intimação, a despeito de não demonstrado prejuízo. É evidente que essa tarefa não lhe compete, mas sim a este STJ.
+ ..
+Na decisão agravada não foi analisada a divergência jurisprudencial apontada no recurso especial e negativa de negativa de vigência ao artigo 277 do Código de Processo Civil. (fl. 220.)
+No recurso especial, a parte recorrente alegou que o acórdão negou vigência ao art. 277 do CPC. Sustenta que foi decretada a nulidade da citação na pessoa do advogado da parte, que não causou prejuízo ao réu. Aduz, ainda, divergência jurisprudencial.
+Pede o provimento do recurso especial.
+É o relatório.
+Decido.
+Na origem, não foi admitido o recurso especial (fl. 207).
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+O Tribunal de origem, a partir da análise dos elementos fático-probatórios dos autos, concluiu pela regularidade da citação, nos seguintes termos (fls. 165-201):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DEINSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. INDÍCIOS DE CONDUTA ÍMPROBA. RECEBIMENTO DAINICIAL. FUNDAMENTAÇÃO SUFICIENTE. QUESTÕES DEMÉRITO. MOMENTO PROCESSUAL IMPRÓPRIO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. CITAÇÃO. INTIMAÇÃO NA PESSOA DO ADVOGADO. NULIDADE. AGRAVO PARCIALMENTE PROVIDO.
+1. Agravo de instrumento interposto contra decisão que, nos autos da ação civil pública de improbidade administrativa ajuizada pelo Ministério Público Federal em desfavor do agravante e outros, rejeitou as defesas preliminares e recebeu a inicial, determinando, em ato contínuo, a intimação de todos os réus, por meio de seus advogados, para, querendo, apresentarem contestação no prazo legal.
+2. Sustenta o agravante que a decisão agravada suprimiu indevidamente uma das fases processuais da ação de improbidade administrativa, prevista no art. 17, § 9º, da Lei 8.429/1992, dificultando e cerceando o direito de defesa, ao determinar a citação dos réus via intimação dos seus advogados.
+3. Na hipótese dos autos, a substituição da citação do réu por mera intimação na pessoa de seu advogado, além de malferir diretamente o disposto no art. 17, § 9º, da Lei 8.429/1992,não considerou o fato de que os advogados constituídos pelo agravante não ostentam poderes expressos para receber citação.
+4. A jurisprudência desta Corte estabelece que "em sede de ação de improbidade administrativa, é nula a substituição da citação do réu por mera intimação na pessoa do seu advogado."(TRF1, AG 0007267-96.2016.4.01.0000/BA, Rel. Juiz Federal Klaus Kuschel (Conv.), Terceira Turma, e-DJF1 de 28/10/2016)
+5. Para aplicação do art. 17, § 8º, da Lei8.429/1992, a defesa tem que demonstrar, em sua manifestação prévia, de forma cabal, a inexistência do ato de improbidade, a inadequação da via eleita ou que a ação deve ser julgada improcedente prima facie.
+6. Considerando o momento processual em que a decisão foi proferida, vê-se que não houve comprovação do prejuízo a autorizar o reconhecimento da nulidade da decisão de recebimento da inicial. Não pode a parte agravante, por ora, eximir-se da ação de improbidade. A decisão está bem fundamentada e a via escolhida é própria. O momento processual do recebimento da inicial não é adequado para o esgotamento das questões de mérito. São analisadas, sumariamente, as alegações das partes e a probabilidade da ocorrência de atos de improbidade (indícios), o que, de fato, ocorreu.
+7. A jurisprudência do Superior Tribunal de Justiça estabelece que "existindo indícios de cometimento de atos enquadrados na Lei de Improbidade Administrativa, a petição inicial deve ser recebida, pois, na fase inicial prevista no art. 17, §§ 7º, 8º e 9º, da Lei 8.429/1992, vale o princípio do in dubio pro societate, a fim de possibilitar o maior resguardo do interesse público" (STJ, AGARESP691.459/SC, Segunda Turma, Rel. Ministro Herman Benjamin, DJE de 03/02/2016). Agravo de instrumento a que se dá parcial provimento, para reformar parcialmente a decisão agravada e determinar que seja procedida a citação na pessoa do agravante(réu), nos termos do art. 17, § 9º, da LIA/1992."
+Desse modo, para rever a conclusão do acórdão recorrido, seria necessário o reexame de provas, providência descabida no âmbito do recurso especial, nos termos da Súmula n. 7 desta Corte Superior.
+A propósito:
+PROCESSUAL CIVIL. CITAÇÃO VIA POSTAL DE PESSOA JURÍDICA. ENTREGA NO ENDEREÇO CORRETO INDICADO PELA EMPRESA. AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO. VALIDADE DO ATO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. O STJ perfilha o entendimento de que é válida a citação pela via postal, com aviso de recebimento entregue no endereço correto do executado, mesmo que recebida por terceiros.
+2. A alteração das conclusões adotadas pela Corte de origem para aferir a validade da citação realizada, tal como colocada a questão nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme previsto na Súmula 7/STJ.
+3. Agravo Interno não provido. (AgInt no AREsp n. 2.154.167/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2023, DJe de 28/6/2023.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO. VALIDADE. PESSOA JURÍDICA. ENDEREÇO. TEORIA DA APARÊNCIA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é válida a citação recebida no endereço onde se situa a pessoa jurídica, mesmo que recebida por pessoa que não tenha poderes expressos para tal, prevalecendo a teoria da aparência.
+2. A alteração das conclusões adotadas pela Corte de origem para aferir a validade da citação realizada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.241.724/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/11/2018, DJe de 6/12/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. TESE DE VIOLAÇÃO AO ART. 277 DO CPC. CITAÇÃO. REGULARIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO NÃO CONHECIDO.
