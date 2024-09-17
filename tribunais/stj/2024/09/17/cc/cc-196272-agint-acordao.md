@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/09/2024 a 17/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Raul Araújo.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL E FALÊNCIA. CONFLITO DE COMPETÊNCIA. ATO CONSTRITIVO PRATICADO PELO JUÍZO EXECUTIVO FISCAL. INOPONIBILIDADE DO JUÍZO FALIMENTAR. AUSÊNCIA DE PRESSUPOSTO CARACTERIZADOR DO CONFLITO. AGRAVO DESPROVIDO.
+1. Para que haja a indevida usurpação de competência do juízo da falência pelo juízo da execução fiscal, é necessária a presença de dois pressupostos de forma cumulativa: (a) efetiva constrição de algum bem ou valor da empresa falida pelo juízo da execução; e (b) inobservância ou desrespeito pelo juízo da execução de decisão do juízo da falência que tenha reconhecido a essencialidade de bem ou valor constrito para a manutenção da atividade empresarial e determinado sua substituição (AgInt no CC n. 182.505/PR, Segunda Seção).
+2. A não demonstração de oponibilidade do juízo falimentar aos atos constritivos determinados pelo juízo executivo fiscal afasta o preenchimento dos pressupostos necessários à instauração do conflito de competência.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se d e agravo interno interposto por FIANÇA IMÓVEIS LTDA. contra a decisão que não conheceu do conflito de competência e determinou, ad cautelam, a instauração de cooperação entre o Juízo falimentar e o Juízo executivo fiscal (fls. 285-290).
+Em suas razões, a empresa agravante sustenta que, mesmo informado pelo Juízo falimentar da quebra, decretada em 15/8/2017, o Juízo da 18ª Vara Federal de Execução Fiscal da SJDF determinou penhora no rosto dos autos do processo falimentar, violando o concurso de credores (fl. 302).
+Afirma que a decisão agravada baseou-se em premissas equivocadas, pois tratou de hipóteses relacionadas ao conflito estabelecido com a Justiça do Trabalho, desconsiderando a realidade fática dos autos, em que os Juízos suscitados são o da falência e o da execução fiscal.
+Aduz que a constrição de ativos determinada pela Justiça Federal viola o disposto no inciso I do § 4º do art. 7º-A da Lei n. 11.101/2005, caracterizando, assim, o conflito de competência.
+Requer, portanto, seja reconsiderada a decisão agravada, conhecendo-se, em consequência, do conflito de competências para declarar a nulidade do ato constritivo perpetrado pela Justiça Federal a despeito da competência exclusiva do Juízo falimentar.
+Impugnação apresentada às fls. 312-330.
+É o relatório.
+EMENTA
+PROCESSO CIVIL E FALÊNCIA. CONFLITO DE COMPETÊNCIA. ATO CONSTRITIVO PRATICADO PELO JUÍZO EXECUTIVO FISCAL. INOPONIBILIDADE DO JUÍZO FALIMENTAR. AUSÊNCIA DE PRESSUPOSTO CARACTERIZADOR DO CONFLITO. AGRAVO DESPROVIDO.
+1. Para que haja a indevida usurpação de competência do juízo da falência pelo juízo da execução fiscal, é necessária a presença de dois pressupostos de forma cumulativa: (a) efetiva constrição de algum bem ou valor da empresa falida pelo juízo da execução; e (b) inobservância ou desrespeito pelo juízo da execução de decisão do juízo da falência que tenha reconhecido a essencialidade de bem ou valor constrito para a manutenção da atividade empresarial e determinado sua substituição (AgInt no CC n. 182.505/PR, Segunda Seção).
+2. A não demonstração de oponibilidade do juízo falimentar aos atos constritivos determinados pelo juízo executivo fiscal afasta o preenchimento dos pressupostos necessários à instauração do conflito de competência.
+3. Agravo interno desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+A despeito de os fundamentos apresentados na decisão agravada levarem a crer tratar-se de suscitação de conflito entre o Juízo falimentar e o Juízo trabalhista, verifica-se que os precedentes colacionados dizem respeito à inexistência de controvérsia entre a determinação pelo juízo executivo fiscal de atos constritivos quando não demonstrada a oposição manifesta do juízo falimentar.
+Como mencionado pelo Juízo falimentar nas informações prestadas, "a falência é processo de execução concursal, no qual todo o ativo do devedor será arrecadado e todo o passivo será pago. O crédito fiscal, contudo, pode ser buscado tanto pela via da habilitação do crédito na falência, quanto pela da execução fiscal a penhora no rosto dos autos da ação de falência. Nesse caso, o valor penhorado, acaso existente ativos suficientes, será transferido para a ação de execução fiscal após o pagamento dos credores mais privilegiados na falência. Isto porque, a cobrança judicial da dívida da Fazenda Pública não se sujeita à habilitação em falência (artigo 187 do CTN), mas se submete à classificação dos créditos (artigo 186 do CTN)" (fls. 257-258).
+Observa-se, assim, que, além de inexistir oposição do Juízo falimentar aos atos constritivos perpetrados pelo Juízo executivo fiscal, não há nos autos menção ou caracterização de desrespeito pelo Juízo fiscal às decisões proferidas no processo falimentar, o que afasta a alegação da parte agravante de configuração de conflito de competência.
+Consoante reiterada jurisprudência da Segunda Seção, a caracterização do conflito de competência exige a presença de dois pressupostos de forma cumulativa: (a) existência de efetiva constrição de algum bem ou valor da recuperanda/falida pelo juízo da execução; e (b) inobservância ou desrespeito pelo juízo da execução de decisão do juízo da recuperação judicial/falência que tenha reconhecido a essencialidade de bem ou valor constrito para a manutenção da atividade empresarial e determinado sua substituição. Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL E RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO FISCAL. AUSÊNCIA DE DELIBERAÇÃO POR PARTE DO JUÍZO UNIVERSAL ACERCA DA ESSENCIALIDADE DOS BENS QUE SE PRETENDEM VER CONSTRITOS. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. A teor das alterações introduzidas na Lei de Falências, para que haja a indevida usurpação de competência pelo Juízo da execução fiscal em detrimento do Juízo da recuperação judicial/falência da empresa devedora é necessária a coexistência de dois pressupostos: (i) existência de efetiva constrição de algum bem ou valor da recuperanda/falida pelo juízo da execução; e (ii) inobservância ou desrespeito, pelo juízo da execução, de decisão do juízo da recuperação judicial/falência que tenha reconhecido a essencialidade de bem ou valor constrito para a manutenção da atividade empresarial e determinado a sua substituição. Pressupostos não preenchidos.
+2. Agravo interno não provido. (AgInt no CC n. 182.505/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022.)
+Afastado um deles - no caso concreto, o item b acima -, não há falar em conflito de competência.
+Caso, pois, de manutenção da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
