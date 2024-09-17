@@ -1,0 +1,8 @@
+DECISÃO
+ERALDO GOMES PATRICIO JUNIOR, preso preventivamente, desde 18/7/2024, por suspeita de tráfico de drogas, alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa explica que o "paciente passa por um período de remissão de câncer" e "no dia 02 de setembro de 2024 realizou uma tomografia que indicou 02 nódulos médios na glândula submandibular. Sem o tratamento adequado o caso pode se agravar" (fl. 4). Ademais, a seu ver, o édito prisional não está concretamente fundamentada e desconsiderou as condições pessoais favoráveis do suspeito (primariedade e bons antecedentes) nem a possível incidência do tráfico privilegiado, uma vez que a quantidade de droga apreendida (62kg de cocaína) não é suficiente para determinar a medida de coação.
+O habeas corpus foi instruído de maneira insuficiente. Não há cópia da decisão que impôs a prisão preventiva, nem da análise do pedido de substituição da prisão por razões de saúde, assunto que não foi abordado no acórdão de segunda instância. Ainda, não consta cópia da denúncia e do andamento processual, para verificação do atual estágio do processo e das circunstâncias do tráfico de drogas.
+Foi descumprido o "ônus do impetrante  de  instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, r elator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe de 17/2/2023).
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus, com fundamento na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
