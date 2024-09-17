@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Silvio Renato Jacobsen, em face do acórdão Tribunal Regional Federal da 4ª Região assim ementado:
+
+    “PROCESSO CIVIL. CERCEAMENTO DE DEFESA. NÃO COMPARECIMENTO À AUDIÊNCIA. PERDA DA PROVA. INTIMAÇÃO ELETRÔNICA. DESNECESSÁRIA A CARGA DOS AUTOS. PREVIDENCIÁRIO. TEMPO DE SERVIÇO URBANO. DECLARAÇÃO DA EMPREGADORA COMO PROVA DOCUMENTAL. IMPOSSIBILIDADE. NÃO RECONHECIMENTO. 1 - A intimação por meio do Diário da Justiça Eletrônico contendo o teor do despacho de designação da audiência de instrução, da qual consta inclusive dia e hora de realização do ato, mostra-se suficiente, de modo que o não comparecimento da parte autora demonstra desinteresse na produção da prova testemunhal, vez que não apresentada justificativa para a ausência. 2 - Para a comprovação de tempo de serviço a Lei 8.213/1991 exige, em seu art. 55, § 3º, a apresentação de início de prova material, não sendo admissível, para esse fim, unicamente declaração da empregadora, visto equivaler à prova testemunhal.”
+
+    Na minuta, sustenta-se violação do art. 107 da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos verifica-se a deficiência na fundamentação preliminar da repercussão geral, visto que não basta a simples afirmação genérica de que o tema possui repercussão geral ou a indicação de tema ou precedente desta Suprema Corte; faz-se necessária a fundamentação adequada que supra as exigências do disposto nos arts. 1.035, §§ 1º e 2º, do Código de Processo Civil e 327, § 1º, do Regimento Interno do STF.
+
+    Na presente hipótese, a parte recorrente não demonstrou a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo.
+
+    A jurisprudência desta Corte é firme no sentido de que deficiência de fundamentação da preliminar acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido: ARE 834.512-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.4.2016; ARE 820.902-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 28.8.2014; ARE 663.637-AgR-QO, Rel. Min. Ayres Britto, Pleno, DJe, 06.5.2013; RE 930.889-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.5.2017; e RE 1.298.416-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 19.3.2021, cuja ementa transcrevo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A reversão do acórdão passa necessariamente pela revisão das provas constantes dos autos. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta Corte. 4. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).”
+
+    Ainda que superado tal óbice, melhor sorte não teria o recurso, uma vez que esta Suprema Corte já decidiu, em sede de repercussão geral, que “Não viola o postulado constitucional do juiz natural o julgamento de apelação por órgão composto majoritariamente por juízes convocados, autorizado no âmbito da Justiça Federal pela Lei 9.788/1999”. Veja-se a ementa do paradigma:
+
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. JULGAMENTO DE APELAÇÃO POR TURMA JULGADORA COMPOSTA MAJORITARIAMENTE POR JUÍZES FEDERAIS CONVOCADOS. NULIDADE. INEXISTÊNCIA. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. PRECEDENTES. RECURSO DESPROVIDO. I – Não viola o postulado constitucional do juiz natural o julgamento de apelação por órgão composto majoritariamente por juízes convocados, autorizado no âmbito da Justiça Federal pela Lei 9.788/1999. II – Colegiado constituídos por magistrados togados, integrantes da Justiça Federal, e a quem a distribuição de processos é feita aleatoriamente. III – Julgamentos realizados com estrita observância do princípio da publicidade, bem como do direito ao devido processo legal, à ampla defesa e ao contraditório. IV – Recurso extraordinário desprovido.” (RE 597133, Relator(a): RICARDO LEWANDOWSKI, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe 06-04-2011 )
+
+    Ademais, verifica-se que a Corte de origem não analisou a matéria constitucional versada no art. 107, da Lei Fundamental, tampouco tal questão foi mencionada nos embargos de declaração. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas nº 282 e 356/STF: “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012 e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, DJe 07.11.2011, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 17 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
