@@ -1,0 +1,14 @@
+DECISÃO
+JORGE LUIZ CONTAR JUNIOR alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502127-69.2023.8.26.0537.
+Extrai-se dos autos que o ora paciente foi condenado à pena de 1 ano, 3 meses e 22 dias de reclusão, em regime inicial fechado, mais multa, pela prática de crime de uso de documento falso.
+Nesta Corte, a defesa postula seja fixado regime menos gravoso para o cumprimento da pena.
+Decido.
+Este habeas corpus se insurge contra acórdão proferido em 3/6/2024. Conforme certidão de fl. 158, o feito transitou em julgado em 25/6/2024. A impetração em análise foi manejada em 12/9/2024, após o trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Ademais, não identifico flagrante ilegalidade na hipótese, a justificar a concessão de habeas corpus de ofício. Isso porque, embora o acusado haja sido condenado a reprimenda inferior a 4 anos, é reincidente e teve a pena-base fixada acima do mínimo legal, em razão dos maus antecedentes.
+Nesse sentido: "No que tange ao regime inicial de cumprimento de pena, embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 4 (quatro) anos de reclusão, o regime inicial fechado encontra-se justificado, uma vez que além da reincidência, houve a consideração de circunstâncias judiciais negativas para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ" (AgRg nos EDcl no AREsp n. 2.592.660/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024, grifei).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
