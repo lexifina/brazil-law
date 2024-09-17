@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+Furto qualificado tentado Materialidade e autoria devidamente comprovadas Absolvição por atipicidade da conduta Tese de crime impossível desacolhida Condenação mantida.
+Afastamento da qualificadora referente à fraude Impossibilidade Despicienda a elaboração de laudo pericial Mochila era revestida de material (papel alumínio) que inibia o sensor instalado nas lojas para evitar furtos Mero Auto de exibição e apreensão suficiente Pleito improvido.
+Reconhecimento furto privilegiado Maus antecedentes por furto e roubo Ausente o requisito o requisito "primariedade" do artigo 155, §2º do Código Penal.
+Terceira etapa Tentativa Aplicação do redutor em sua fração máxima Fração proporcional ao "iter criminis" percorrido Pleito improvido.
+Recurso improvido.
+Consta dos autos que a paciente foi condenada às penas de 1 ano e 4 meses de reclusão em regime inicial aberto, e pagamento de 6 dias-multa, pela prática do crime de furto qualificado tentado (art. 155, § 4º, II, c/c 14, II, do Código Penal), tendo sido substituída a pena privativa de liberdade por pena restritiva de direitos a ser especificada pelo Juízo da Execução Penal.
+A defesa alega, em síntese: a) que o caso em tela constitui hipótese de crime impossível, tendo em vista que toda a dinâmica delitiva foi visualizada pela equipe de segurança do estabelecimento comercial, e a res furtiva estava sob vigilância o tempo todo; b) que o meio empregado para a subtração dos bens foi absolutamente ineficaz; c) que o iter criminis percorrido não se aproximou da consumação do delito, devendo ser aplicada a fração máxima de redução pela tentativa; d) que deve ser reconhecido o furto na modalidade privilegiada, tendo em conta a primariedade da ré à época dos fatos e o pequeno valor da coisa subtraída.
+Ao final, requer a concessão da ordem para absolver a paciente ou para que sejam reduzidas as penas aplicadas.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção da paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+No que tange às alegações da defesa, assim, acertadamente, entendeu o Tribunal de origem (e-STJ fls. 104-111):
+A condenação de Waldirene pelo crime de furto qualificado era medida de rigor e restou embasada não só na confissão judicial, mas também na prova oral produzida sob o crivo do contraditório, declarações da representante da empresa vítima Talita(fls. 160/162), no sentido de que é fiscal de monitoramento e através das câmeras de vigilância visualizou a apelante se apoderar das peças de roupas, se agachar e colocar a "res" no interior da mochila.
+Ato contínuo, ela se dirigiu ao provador.
+Devido ao comportamento estranho, após ela sair da loja e tentar se evadir, foi abordada pelo segurança Paulo, o qual logrou êxito em localizar os bens descritos na r. denúncia no interior da mochila que ela portava.
+A referida mochila era revestida de papel alumínio, com o intuito de passar pelas máquinas da loja sem disparar o alarme.
+Constataram que ela retirou as etiquetas e as deixou no interior do provador, atrás do espelho.
+Indagada, de pronto confessou a autoria.
+Diante do conjunto probatório produzido, a condenação era medida de rigor.
+Waldirene foi detida em flagrante, quando deixava a loja em poder dos bens subtraídos e confessou o ilícito em todas as fases da persecução penal.
+Outrossim, a alegação de crime impossível não merece prosperar, eis que é pacífico o entendimento jurisprudencial no sentido de que a existência de sistema de segurança ou de vigilância pessoal e eletrônica não torna impossível, por si só, o crime de furto cometido no interior de estabelecimento comercial, a teor da Súmula 567 do E. Superior Tribunal de Justiça.
+ ..
+Destarte, ainda que avistada por funcionários no interior do comércio, é certo que poderia ter consumado o furto, o que não ocorreu em virtude da pronta ação da equipe de segurança, afinal, chegou a passar pelos detectores de alarmes e saiu do estabelecimento, razão pela qual não há que se falar em impossibilidade de consumação, nos moldes do artigo 17 do Código Penal.
+ ..
+De igual sorte, descabe cogitar de furto privilegiado, uma vez ausentes os requisitos exigidos pelo artigo 155, §2º do Código Penal.
+Com efeito, embora a soma dos bens subtraídos seja menor que o valor de um salário-mínimo, a apelante ostenta outras condenações por crimes contra o patrimônio (furto e roubo), conforme se depreende de sua folha de antecedentes criminais (processos nº 0003002-91.2015.8.26.0635e 0002347-07.2010.8.26.0050 fls. 29/47), o que, por si só, já basta para o afastamento do privilégio, sem olvido das peculiaridades do delito em tela, o qual foi cometimento em sua forma qualificada.
+ ..
+Na derradeira fase, em razão da tentativa, reprimenda devidamente diminuída da terça parte, fração proporcional e que será mantida, pois de acordo com iter criminis percorrido, a apelante foi detida após ter saído da loja vítima e somente não obteve êxito na empreitada criminosa dada a pronta ação do segurança que conseguiu abordá-la na entrada principal do shopping, perfazendo 01 (um) ano e 04 (quatro) meses de reclusão e pagamento 06 (seis) diárias mínimas.
+A hipótese fática traduzida nos autos, efetivamente, não se adequa à pretensão de crime impossível ou tentativa inidônea, ante a ausência de absoluta ineficácia do meio empregado, nos termos exigidos pelo art. 17 do Código Penal. Com efeito, estabelecimento comercial vigiado por câmeras não torna impossível a configuração do crime de furto, consoante, aliás, entendimento consolidado deste Egrégio Superior Tribunal de Justiça, por meio da Súmula n. 657:
+DIREITO E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO TENTADO. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. SISTEMA DE VIGILÂNCIA. SÚMULA N. 567 DO STJ. JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+2. Sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto (Súmula n. 567 do STJ).
+3. Quando há o monitoramento da ação delituosa, mas o agente consegue sair do estabelecimento comercial com o produto da subtração, afasta-se a configuração de crime impossível por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, conforme dicção do art. 17 do CP.
+4. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada. 5. Agravo regimental desprovido.
+(STJ - AgRg no HC: 696810 SP 2021/0312236-9, Data de Julgamento: 07/06/2022, T5 - QUINTA TURMA, Data de Publicação: DJe 10/06/2022). Grifos acrescidos.
+Quanto à fração da tentativa, sabendo-se da impossibilidade de revolvimento fático-probatório na via do mandamus, sentença e acórdão concluíram que o resultado típico estava bastante próximo, uma vez que a acusada havia saído do estabelecimento comercial com a res furtiva na mochila quando foi surpreendida pelos seguranças da loja.
+No tocante ao pretendido reconhecimento da figura do furto privilegiado, também não há teratologia no ato impugnado, considerando que as peças subtraídas somavam a importância de R$ 789,40, além da existência de outras condenações da paciente por crimes contra o patrimônio.
+No mais, a individualização da pena é questão afeta à discricionaridade do magistrado, sendo certo que a sua revisão em habeas corpus é cabível apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, não ocorrente no caso pelas particularidades do delito cometido.
+Ante o exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
