@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Alvorada Agropecuária em face de decisão que negou provimento ao agravo em recurso especial, sob os fundamentos de que: (I) não se verifica ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas; (II) o recurso especial não pode ser conhecido no tocante à alegada ofensa ao art. 91 do Regimento Interno do TJPR, por não se enquadrar no conceito de tratado ou lei federal; e (III) incide a Súmula 7/STJ tendo em vista que a verificação do impedimento do relator demandaria o reexame de matéria fático-probatória.
+A embargante, em suas razões, aponta omissão na decisão embargada ao argumento de que não foram consideradas alegações postas no apelo nobre, as quais "demonstravam de forma inequívoca o claro impedimento do Des. Francisco José dos Anjos Bandeira de Mello para o julgamento do apelo" (fl. 972), ressaltando que houve "equívoco no tocante ao impedimento do conhecimento do recurso com fundamento na Súmula 07/STJ" (fl. 972). Aduz, ainda, que a decisão embargada nada dispôs sobre o dissídio jurisprudencial invocado no apelo especial.
+Pugna, pois, pelo acolhimento dos embargos de declaração, para sanar os vícios apontados .
+Impugnação às fls. 1.005/1.008.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado na decisão embargada que o acolhimento da insurgência recursal esbarra no óbice da Súmula 7/STJ, considerando as premissas adotadas pela Corte de origem. Confira-se (fls. 266/269):
+Com efeito, sobre o tema apontado como olvidado, a Corte Estadual consignou (fls. 612/613):
+Não identifico, com a devida vénia, a omissão apontada pela embargante.
+Em primeiro plano, assinalo que a ora recorrente não peticionou nos autos para suscitar o alegado impedimento, embora alegue tê-lo feito verbalmente junto à minha assessoria e por mensagem encaminhada ao e-mail funcional deste Gabinete.
+De todo modo, o que importa é enfatizar que a assinatura aposta na petição a que se refere a embargante (petição de ratificação dos termos de anterior apelação, cf. fl. 369), e que ensejaria o meu impedimento para funcionar no feito, não é minha (nada obstante conste o meu nome na aludida petição  por ter exercido, à época, a função de Procurador-Chefe do Contencioso da PGE/PE  , junto com o nome do Procurador do Estado então responsável pelo acompanhamento da demanda).
+É (ou pelo menos era) praxe o nome do Procurador-Chefe do setor figurar em petições em conjunto com o nome do Procurador atuante no feito, não sendo incomum o fato de outros Procuradores assinarem em substituição eventual à chefia, conforme se constata, p. ex., nas petições de fls. 20, 125, 139/142, 233/258 e 369.
+Foi o que ocorreu no caso destes autos (fl. 369).
+Assim, está correta a interpretação feita pelo Estado de Pernambuco nas contrarrazões que apresentou aos presentes embargos de declaração, verbis:
+"(..) muito embora conste o nome do Dr. Francisco José dos Anjos Bandeira de Mello na referida petição, percebe-se que a mesma não foi por ele assinada. Em verdade, conforme assinatura nela aposta, quem efetivamente participou daquele ato processual foram Dr. Antônio César Catála Reis e Dr. Henrique Luiz de Lucena Moura, conjuntamente.
+(..)
+As hipóteses de impedimento são taxativas, exatamente porque constituem exceção à regra da imparcialidade. Não havendo postulação, não se pode defender haver impedimento pela simples menção do nome do julgador em petição da qual efetivamente não se demonstra sua atuação.
+No caso, claramente a petição foi feita/revisada por Dr. Antônio César Caúla Reis, que a assinou com a indicação "por", ou seja, no exercício das atribuições da função de Procurador Chefe do Contencioso, na ausência do seu titular. Ora, essa situação apontada pelo Embargante como causa de impedimento, não induz tenha, de fato, havido postulação do julgador na primeira instância, pois efetivamente não é o mesmo quem assina a petição, muito embora o seu nome conste no teor do documento."
+Nesse quadro, em que não há demonstração de efetiva participação minha - enquanto Procurador do Estado - no feito, não há espaço para, em interpretação ampliativa das regras de impedimento previstas na legislação de regência (CPC, art. 144 c/c RITJPE, art. 91), acolher a arguição sustentada pela embargante.
+ ..
+Quanto ao mais, verifica-se que a instância a quo, com base no conjunto probatório dos autos, rejeitou concluiu que não ficou configurado o impedimento do relator. Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Quanto ao dissídio, a decisão embargada consignou: "Fica prejudicada, pelos mesmos motivos, a análise do dissídio jurisprudencial." (fl. 956).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões no decisum embargado, traduzem, na verdade, inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1.022 do CPC , impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
