@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 295/299) interposto contra decisão da Presidência desta Corte Superior que não conheceu do agravo nos próprios autos, sob o fundamento de incidência, por analogia, da Súmula n. 182/STJ (e-STJ fls. 290/291).
+Em suas razões, a parte agravante alega que impugnou todos os fundamentos da decisão de admissibilidade, o que justificaria o afastamento da Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+É o relatório.
+Decido.
+O agravo nos próprios autos (e-STJ fls. 242/250) refutou adequadamente os fundamentos da monocrática que negou seguimento ao especial.
+Desse modo, reconsidero a decisão agravada (inclusive quanto ao arbitramento de honorários recursais) e passo ao exame do especial.
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 173):
+EMENTA: CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. RELAÇÃO DE CONSUMO. AGRAVO DE INSTRUMENTO. TRATAMENTO DOMICILIAR PRESCRITO POR MÉDICO ASSISTENTE DA PACIENTE. SÚMULA 7 DO TJPE QUE SE APLICA NA ESPÉCIE. DECISÃO INTERLOCUTÓRIA DE PRIMEIRO GRAU MANTIDA NA ÍNTEGRA. AGRAVO DE INSTRUMENTO A QUE SE NEGA PROVIMENTO. DECISÃO UNÂNIME.
+1. Negativa de cobertura de fisioterapia e fonoterapia em ambiente domiciliar. Paciente idosa e acometida de Síndrome Demencial (CID 10 - F03) em estágio avançado, progressivo e irreversível, com quadro clínico degenerativo, com perda da capacidade psicomotora e de deglutição, com risco de broncoaspiração.
+2. Prescrição médica de realização do tratamento em domicílio, diante do quadro clínico da paciente. Súmula 07 deste Tribunal: "É abusiva a exclusão contratual de assistência médico domiciliar (home care)". Estatuto do Idoso que se aplica na espécie.
+3. Decisão interlocutória de primeiro grau que determina a cobertura do tratamento domiciliar que se mantém na íntegra. Agravo de Instrumento a que se nega provimento. Decisão unânime.
+No recurso especial (e-STJ fls. 183/196), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente requereu, preliminarmente, a concessão de efeito suspensivo à insurgência.
+Aduziu dissídio jurisprudencial e contrariedade aos arts. 10, § 4º, 12 e 16, VI, da Lei n. 9.656/1998, 19, I, da Lei n. 8.080/1990 e 421 e 422 do CC/2002, alegando estarem ausentes os requisitos de concessão da tutela antecipada que a obrigaria a custear o tratamento de saúde multidisciplinar home care da parte recorrida.
+Segundo a jurisprudência consolidada desta Corte Superior, em regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no REsp n. 1.179.223/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+ ..
+4. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 770.439/MT, de minha relatoria, QUARTA TURMA, julgado em 21/2/2017, DJe 3/3/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. SÚMULA Nº 284/STF. PLANO DE SAÚDE. AUTOGESTÃO. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. PRECEDENTES. ANTECIPAÇÃO DE TUTELA. REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 813.590/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/8/2016, DJe 15/8/2016.)
+Além disso, "em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, a análise desta Corte Superior de Justiça fica limitada à apreciação dos dispositivos relacionados aos requisitos da tutela de urgência, ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal" (EDcl no AREsp n. 387.707/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/12/2014, DJe 10/12/2014).
+Do mesmo modo:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA EM AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE C/C APURAÇÃO DE HAVERES. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. DISCUSSÃO SOBRE OS REQUISITOS PARA CONCESSÃO LIMINAR. CABIMENTO. OMISSÃO SOBRE CIRCUNSTÂNCIAS FÁTICAS RELEVANTES. RECONHECIMENTO. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. MANUTENÇÃO.
+ ..
+2. É cabível recurso especial contra acórdão que defere antecipação de tutela se a controvérsia limitar-se aos dispositivos que regulam os requisitos para o deferimento da medida de urgência.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.355.461/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 5/5/2016, DJe 11/5/2016.)
+Nas alegações do especial, a fim de afastar a medida liminar, a parte recorrente deduziu violação dos arts. 10, § 4º, 12 e 16, VI, da Lei n. 9.656/1998, 19, I, da Lei n. 8.080/1990 e 421 e 422 do CC/2002, - relativos ao mérito da demanda -, mas que não se referem aos requisitos da antecipação de tutela ora questionada.
+Diante de tal proceder, na linha dos precedentes acima expostos, inviável o exame do recurso especial.
+O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, confirmou a tutela de urgência concedida à parte recorrida em primeira instância, a fim de compelir a recorrente ao custeio do tratamento de saúde home care impugnado, nos seguintes termos (e-STJ fls. 170/172):
+Por sua vez, nos termos do artigo 300 do CPC, "a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Na espécie, consta dos autos originários (nº0008402-44.2021.8.17.2990) que a autora/agravada foi diagnosticada com Síndrome Demencial (CID 10 - F03) em estágio avançado, progressivo e irreversível, com quadro clínico degenerativo, o que vem causando a perda da sua capacidade psicomotora e de deglutição, com risco de broncoaspiração, razão pela qual seu médico assistente, o neurologista Gutemberg Guerra (CRM-PE 13.530) prescreveu suporte domiciliar com fisioterapia e fonoterapia, diante da evolução das enfermidades e da sua incapacidade de locomoção e de mastigação.
+Com efeito, entendo que a inicial está satisfatoriamente instruída, e, os documentos apresentados nos autos, numa análise preliminar, demonstram o acerto da medida de urgência concedida em favor da agravada, com lastro no artigo 300 do CPC, porquanto, nos termos dos laudos médicos apresentados (ID nº82620848), a agravante, idosa, se encontra extremamente debilitada e imprescinde de atendimento domiciliar de suporte com fonoaudiologia e fisioterapia a fim de recuperar suas funções locomotoras e de deglutição, evitando assim o agravamento do seu quadro clínico.
+Deste modo, indubitável que a negativa do tratamento domiciliar, na forma prescrita pelo médico assistente da autora, poderá causar prejuízos incomensuráveis à paciente, pois colocará em risco a sua recuperação, quiçá sua vida, nos termos do próprio laudo médico.
+Ademais, a questão controvertida em apreço se trata de matéria já pacificada por esta Corte Estadual por meio do enunciado da Súmula de nº07 que dispõe, in verbis: "É abusiva a exclusão contratual de assistência médico domiciliar - home care".
+ ..
+Outrossim, consoante explicita o artigo 47 do CDC, as cláusulas contratuais devem ser interpretadas da maneira mais favorável ao consumidor.
+Deste modo é que, em caso de dúvidas na aplicação dos dispositivos contratuais do plano/seguro de saúde, o feito deve ser apreciado de modo a não prejudicar o consumidor, tendo em vista que esta é a parte hipossuficiente da relação jurídica de consumo, principalmente em se tratando de situações que venham a colocar em risco sua saúde, sua vida, bens jurídicos constitucionalmente protegidos em primeiro patamar.
+Portanto, considerando o entendimento jurisprudencial desta Corte Estadual transmutado na Súmula 7, retrocitada, bem como o entendimento firmado pelo Superior Tribunal de Justiça quanto à matéria controvertida, jurisprudência acima destacada, entendo que a seguradora agravante não encontra respaldo no seu pleito recursal.
+ ..
+Assim, com base no exposto, resta patente que a seguradora agravante não demonstrou, através das provas pré-constitu ídas que instruem a petição recursal, no âmbito da cognição sumária própria do presente agravo de instrumento, a plausibilidade da sua pretensão quanto à cassação da decisão interlocutória atacada.
+Deste modo, entendo que não merece guarida o pleito recursal, já que a concessão da medida exige a presença dos pressupostos preconizados no artigo 300 do CPC, consubstanciados na probabilidade do direito invocado e fundado receio de dano irreparável ou de difícil reparação, o que não ocorre na espécie.
+Com efeito, não restam dúvidas de que o dano irreparável ou de difícil reparação, na hipótese dos autos, seria trazido pela negativa de cobertura do tratamento da agravada, vez que a suspensão do mesmo colocará em risco sua saúde, e, não se pode dispor de tal bem jurídico maior diante de cláusulas contratuais que reputa a empresa agravante serem desfavoráveis ao pleito formulado na exordial dos autos principais. Outrossim, a probabilidade do direito resta mitigada pela Súmula de nº07 deste Tribunal, bem como pela vasta jurisprudência do STJ acerca da matéria controvertida.
+Ademais, ressalto que inobstante defenda a agravante perigo de irreversibilidade dos efeitos da decisão ora combatida, entendo que, na espécie, não resta qualquer plausibilidade para o alegado.
+Isto porque a obrigação de fazer imposta é de cunho meramente pecuniário, a qual pode ser revertida, se assim for entendido, após julgamento de mérito da demanda pelo magistrado singular.
+Ainda neste aspecto, destaco que a cobertura deferida não engloba tratamentos de alta complexidade ou mesmo estrutura hospitalar domiciliar, mas tão somente procedimentos de baixa complexidade (fisioterapia e fonoterapia), terapêuticas essas constantes do rol obrigatório da ANS.
+Deste modo, com fulcro no todo retro esposado, voto no sentido de NEGAR PROVIMENTO ao agravo de instrumento interposto por HAPVIDA ASSISTÊNCIA MÉDICA LTDA para manter na íntegra a decisão interlocutória agravada.
+Ultrapassar os fundamentos do acórdão recorrido, a fim de reverter a referida tutela de urgência, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Desprovido o recurso, descabe cogitar de efeito suspensivo.
+Diante do exposto, RECONSIDERO a decisão agravada de fls. 290/291 (e-STJ) para afastar a Súmula n. 182/STJ e, em novo exame, NEGO PROVIMENTO ao agravo nos próprios autos.
+Publique-se e intimem-se.
+EMENTA
