@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Apelação, assim ementado (fl. 314e):
+Processual Civil Recurso de apelação apresentado por Sebastião Terto Freires a se voltar contra a r. sentença que julgou procedente a presente ação para condenar o apelante a restituir o lote que ocupa ao DNOCS, situado as margens do Açude São Mateus, no Município de Canindé  Ceará , sacudindo, em preliminar, a divergência da sentença quanto à emenda à inicial e/ou aditamento, dada a distinção entre emendar e aditar; a impossibilidade de aditamento/emenda da exordial, a inépcia da inicial, a carência de ação, para, após a sinopse dos fatos, destacando não estar a ocupar área de preservação permanente, como aludido na inicial, não podendo o DNOCS requerer e ratificar os pedidos formulados na inicial, já que o Ministério Público Federal deixou de reconhecer a causa de pedir e os pedidos, uma vez que não ficou comprovado qualquer ato ilícito descrito na peça inicial, atroando, enfim, como razões para a reforma da sentença, esbaldar a bandeira de não poder a inicial ser emendada depois de apresentada a contestação, sob pena de malferir o princípio da estabilização da demanda, arrematando com o pedido de reforma da r. sentença.
+Opostos embargos de declaração, foram rejeitados (fls. 351/353e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao arts. 8º e 1.023 do Código de Processo Civil, alegando-se, em síntese, que o acórdão recorrido, além de silente em relação aos argumentos suscitados, não observou o " ..  atendimento dos princípios básicos que regem as relações processuais, acolhendo o aditamento, com atenção ao contraditório, à ampla defesa e ao devido processo legal, devolvendo todos os prazos processuais ao demandado para que não houvesse nenhum prejuízo à parte" (fl. 373e).
+Sem contrarrazões (certidão de fl. 389e), o recurso foi admitido (fl. 390e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 405/413e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+De pronto, observo que a tese concernente à ausência de exame dos fundamentos do Recorrente pelo tribunal de origem não encontra amparo no dispositivo apontado, art. 1.023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo"), o que impede sua apreciação em recurso especial.
+Com efeito, incide na espécie, por analogia, o óbice da Súmula n. 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+ ..
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO. DIREÇÃO CONTRA SENTENÇA. EXISTÊNCIA DE ACÓRDÃO POSTERIOR QUE A SUBSTITUIU. PEDIDO. IMPOSSIBILIDADE JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. ARTS. 485, V, E 512 DO CPC. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+ ..
+2. Há deficiência argumentativa quando o preceito legal apontado como violado (arts. 485, V, e 512 do CPC) não é suficiente para amparar a tese defendida no recurso especial. Precedentes.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.369.630/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/10/2013, DJe 20/11/2013).
+Além disso, em relação à suscitada ofensa ao art. 8º do estatuto processual, verifico que a insurgência carece de prequestionamento, porquanto não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, e, no caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação da sobredita norma processual.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, nos moldes apontados pelo Recorrente, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Espelhando tal compreensão:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+ ..
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+ ..
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010 - destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
