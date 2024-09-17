@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos de declaração, para conhecer do agravo para dar provimento ao recurso especial, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Maria Thereza de Assis Moura, os Srs. Ministros Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+EMENTA
+RELATÓRIO
+Trata-se de embargos de declaração opostos por OTICAS CAROL LTDA em face do acórdão abaixo ementado, in verbis:
+PROCESSUAL CIVIL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal (arts. 330, III, 502, 503 do CPC; art. 146 do CTN.), Súmula 7/STJ e não cabimento de REsp contra acórdão com fundamento eminentemente constitucional.
+I - Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento de REsp contra acórdão com fundamento eminentemente constitucional.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão de inadmissão do recurso na origem, não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. Conforme a jurisprudência, a impugnação tardia dos fundamentos da decisão que negou seguimento ao recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não afasta o vício do agravo em recurso especial, ante a preclusão consumativa. Precedentes: AgInt no AR Esp 888.241/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/4/2017, D Je 19/4/2017; AgInt no AR Esp 1.036.445/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/4/2017, D Je 17/4/2017; AgInt no AREsp 1.006.712/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/3/2017, DJe 16/3/2017.
+IV - Agravo interno improvido
+O embargante afirma, em suma, que no Tribunal a quo explicitou em embargos de declaração ao Tribunal local que seria necessário a adequação do pronunciamento judicial, ao entendimento sufragado nos temas 881 e 885 do STF, relacionados à mitigação da coisa julgada em matéria tributária.
+Alega, em suma, que mesmo instado a se pronunciar sobre a questão o Tribunal a quo se manteve em silêncio, o que teria infringido os arts. 489, §1º e 1022 do CPC.
+Assim, no recurso especial o recorrente apontou a alegada omissão e indicou a violação dos mencionados artigos, o que foi afastado conforme a ementa encimada, tanto na decisão monocrática, quanto no acórdão que julgou o agravo interno.
+Nos presentes embargos de declaração o embargante reitera a necessidade de retorno dos autos ao Tribunal a quo para sanear a omissão, afirmando, em suma, que a omissão é evidente.
+Também combate a parcela da decisão onde se afirmou a falta de impugnação à decisão de inadmissibilidade do recurso especial e a impossibilidade de tal enfrentamento ocorrer no agravo interno, sustentando, em resumo, que enfrentou todos os fundamentos da decisão no próprio agravo em recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃO RESCISÓRIA. ISSQN. FRANQUIA. TEMAS DE REPERCUSSÃO GERAL 881 e 885 DO STF. ANÁLISE. OMISSÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+I - Tendo o embargante apresentado questão relevante acerca da aplicação dos temas de repercussão geral 881e 885 do STF e não tendo o Tribunal a quo, analisado a questão, ocorreu a violação ao art. 1022 do CPC, razão pela qual se faz impositivo o retorno dos autos ao Tribunal para o exame de todas as questões articuladas nos embargos de declaração.
+II - Embargos de declaração acolhidos para conhecer do agravo e dar provimento ao recurso especial.
+VOTO
+Assiste razão ao embargante.
+Analisando percucientemente a decisão que inadmitiu o recurso especial e o agravo em recurso especial, verifica-se que houve o devido enfrentamento dos fundamentos apresentados naquele decisum, devendo assim ser afastada a súmula 182 do STJ.
+Por outro lado, passando a analisar a apontada omissão que teria sido cometida pelo Tribunal a quo verifica-se que dentre as omissões e obscuridades ali afirmadas pelo embargante, foi explicitamente suscitada a necessidade de aplicação dos temas de repercussão geral 881 e 885, ambos do STF, afirmando, in verbis:
+No caso vertente, os Temas 885 e 881 foram submetidos à repercussão geral em 2016, ou seja, já na vigência da Lei nº 13.105 de 2015 (CPC) e discutem o limite temporal da coisa julgada em âmbito tributário, na hipótese de o contribuinte ter em seu favor decisão judicial transitada em julgado que declare a inexistência de relação jurídico tributária ao fundamento de inconstitucionalidade de tributo, por sua vez declarado constitucional, em momento posterior.
+Sendo assim, considerando que o novo regime de repercussão geral deve ser aplicado aos processos em curso, nos termos do artigo 14 do CPC vigente, e que a repercussão geral da matéria foi reconhecida em data anterior ao julgamento do caso vertente, o presente processo deve permanecer suspenso até que a Corte Suprema julgue os mencionados Tema 885 e 881, em que foram reconhecidas as repercussões gerais da matéria.
+Com efeito, considerando que julgadas as Repercussões Gerais, a tese encampada deverá ser aplicada a todos os processos que versem sobre a mesma questão, consoante o disposto no artigo 1.040, inciso III, do CPC, o julgamento da presente demanda, isto é, sem a análise do incidente instaurado, poderá implicar ou em novo ajuizamento de Ação Rescisória pela Embargante ou a ocorrência de julgamentos divergentes sobre a mesma matéria, que é justamente o que se pretende evitar por meio do instituto da Repercussão Geral, conforme artigo 1.040 do CPC.
+Embora o embargante tenha suscitado o esclarecimento acima, o Tribunal a quo não analisou a questão, ocorrendo assim a violação ao art. 1022 do CPC.
+Ante o exposto, acolho os embargos para conhecer do agravo e dar provimento ao recurso especial para que o Tribunal a quo, analise de forma percuciente a integralidade dos embargos de declaração e as questões ali articuladas.
+É o voto.
