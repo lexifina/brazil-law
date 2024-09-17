@@ -1,0 +1,46 @@
+DECISÃO
+Examina-se de agravo interno interposto por PRUDENTIAL DO BRASIL VIDA EM GRUPO S.A., contra decisão monocrática de fls. 1.128/1.131, e-STJ, que conheceu do agravo interposto por MARI TERESINHA ALVES SILVESTRI para dar provimento a seu recurso especial.
+Em face das razões apresentadas no agravo interno de fls. 1.13 5/1.151, e-STJ, reconsidero a decisão monocrática de fls. 1.128/1.131, e-STJ, e passo a novo exame do agravo em recurso especial.
+Examina-se agravo em recurso especial interposto por MARI TERESINHA ALVES SILVESTRI contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 09/12/2023.
+Concluso ao gabinete em: 14/05/2024.
+Ação: de cobrança ajuizada por MARI TERESINHA ALVES SILVESTRI em face de PRUDENTIAL DO BRASIL VIDA EM GRUPO S.A. e OUTRO, na qual requer o pagamento de indenização decorrente do contrato de seguro de vida em grupo, haja vista as lesões sofridas por esforço repetitivo em seu trabalho.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao agravo interno interposto por MARI TERESINHA ALVES SILVESTRI para manter a decisão monocrática que negou provimento a sua apelação, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL - AGRAVO INTERNO - CPC, ART. 1.021 - JULGAMENTO MONOCRÁTICO - CABIMENTO - DECISÃO FUNDAMENTADA EM TESE FIRMA EM REPETITIVOS -CIVIL - SEGURO DE VIDA EM GRUPO - COBERTURA DE INVALIDEZ PERMANENTE TOTAL E PARCIAL POR ACIDENTE - DOENÇA OCUPACIONAL - EQUIPARAÇÃO A ACIDENTE - IMPOSSIBILIDADE - INDENIZAÇÃO INCABÍVEL - STJ, TEMA N. 1.112
+1. A existência e extensão das coberturas presentes nos contratos de seguro em grupo pode ser analisada por decisão unipessoal, na forma do estatuído no art. 932, incs. IV e V, do Código de Processo Civil, pois amparada em Tese firmada no julgamento de Tema Repetitivo do Superior Tribunal de Justiça.
+2. A doença ocupacional não se equipara ao acidente de trabalho para fins de seguro pessoal.
+3. A Corte da Cidadania definiu que "(i) na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre, e (ii) não se incluem, no âmbito da matéria afetada, as causas originadas de estipulação imprópria e de falsos estipulantes, visto que as apólices coletivas nessas  guras devem ser consideradas apólices individuais, no que tange ao relacionamento dos segurados com a sociedade seguradora " (REsp n. 1.874.811/SC, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 2.3.2023).
+INVALIDEZ FUNCIONAL POR DOENÇA - PERDA DA EXISTÊNCIA INDEPENDENTE - NÃO CONFIGURAÇÃO - INCAPACIDADE PARCIAL - INDENIZAÇÃO NÃO DEVIDA - STJ, TEMA N. 1.068
+1. A Corte da Cidadania decidiu que "não é ilegal ou abusiva a cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado, comprovada por declaração médica " (STJ, Tema n. 1.068)
+2. Inexistindo contratação de cobertura para eventual invalidez parcial decorrente de doença do segurado, resta inviável determinar que a seguradora indenize sinistro não contratado." (fl. 856, e-STJ).
+Recurso especial: alega, além de dissídio jurisprudencial, violação dos arts. 19, 20, I e II, e 21, I, da Lei 8.213/1991; e 6º, III, 14, 46 e 47 do CDC.
+Sustenta, em síntese, i) a equiparação de doença profissional (ocupacional) a acidente de trabalho para fins securitários; ii) a ofensa ao dever de informação pela seguradora sobre cláusulas restritivas/ limitativas de cobertura do seguro.
+RELATADO O PROCESSO, DECIDE-SE.
+1. Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 19, 20, I, II e 21, I, da Lei n. 8.213/1991, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+2. Da equiparação de doenças profissionais aos acidentes pessoais para fins securitários (Da Súmula 568/STJ)
+As duas Turmas de Direito Privado do STJ entendem que "a modalidade de seguro IPA (Invalidez por Acidente Pessoal) não estende sua cobertura à doença profissional" (AgInt no AREsp 1.704.681/SC, 3ª Turma, DJe de 24/3/2022).
+Nesse mesmo sentido: AgInt no REsp 1.923.355/SC, 3ª Turma, DJe de 24/5/2023; AgInt no AREsp 1.903.050/DF, 4ª Turma, DJe de 22/5/2023; e REsp 1.502.201/SC, 3ª Turma, DJe 24/3/2015.
+Argumenta a agravante sobre a possibilidade de equiparação dos microtraumas sofridos pelo trabalhador a acidente, para fins de indenização securitária.
+O TJ/SC, ao decidir que a existência de cláusula que exclui as "doenças profissionais" do conceito de acidente pessoal é válida, sendo descabido, nessa hipótese, equiparar os microtraumas repetitivos decorrentes da atividade laboral a um acidente pessoal, para fins de cobertura securitária, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: AgInt no AREsp n. 2.073.113/SC, Terceira Turma, DJe de 11/4/2024 e AgInt no AREsp n. 1.782.278/SC, Quarta Turma, DJe de 18/8/2023.
+3. Do dever de informação da seguradora em seguro de vida coletivo (Da Súmula 568/STJ)
+Sobre a questão atinente ao dever de informação pela seguradora sobre cláusulas restritivas/ limitativas de cobertura do seguro de vida coletivo, o acórdão recorrido assim se pronunciou:
+"(..) a matéria não comporta mais discussão, uma vez que a Corte da Cidadania estabeleceu o entendimento de cabe à estipulante, e não à seguradora, o dever de fornecer ao segurado ampla e prévia informação a respeito dos contornos contratuais, nos termos de recente julgado proferido em sede de julgamento do Tema Repetitivo n. 1.112
+(..)
+Assim, denota-se não ser cabível a pretensão de afastamento da limitação indenizatória sob o fundamento de malbaratamento do dever informacional por parte da requerida." (fl. 854, e-STJ).
+Verifica-se que o Tribunal de origem está em consonância com o entendimento firmado pela Segunda Seção deste STJ que é no sentido de que, "na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (Tema 1.112).
+Logo, o acórdão recorrido não merece reforma quanto ao ponto.
+Forte nessas razões, RECONSIDERO a decisão de fls. 1.128/1.131, e-STJ, para CONHECER do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 5% sobre o valor atualizado da causa devidos pela recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. IMPOSSIBILIDADE DE EQUIPARAÇÃO ENTRE DOENÇA PROFISSIONAL E ACIDENTE PESSOAL. LIMITES DA APÓLICE. DEVER DE INFORMAR. ESTIPULANTE. TEMA 1.112/STJ.
+1. Ação de cobrança de seguro de vida em grupo.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A modalidade de seguro IPA (Invalidez por Acidente Pessoal) não estende sua cobertura à doença profissional (AgInt no AREsp 1.704.681/SC, 3ª Turma, DJe de 24/3/2022).
+4. A jurisprudência desta Corte Superior é no sentido de que a existência de cláusula que exclui as "doenças profissionais" do conceito de acidente pessoal é válida, sendo descabido, nessa hipótese, equiparar os microtraumas repetitivos decorrentes da atividade laboral a um acidente pessoal, para fins de cobertura securitária.
+5. "Na modalidade de contrato de seguro de vida coletivo, cabe exclusivamente ao estipulante, mandatário legal e único sujeito que tem vínculo anterior com os membros do grupo segurável (estipulação própria), a obrigação de prestar informações prévias aos potenciais segurados acerca das condições contratuais quando da formalização da adesão, incluídas as cláusulas limitativas e restritivas de direito previstas na apólice mestre" (Tema 1112).
+6. Decisão de fls.1.128/1.131, e-STJ, reconsiderada. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
