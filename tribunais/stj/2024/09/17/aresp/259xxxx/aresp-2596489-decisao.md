@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  interposto  contra  decisão  publicada  na  vigência  do  CPC/2015,  que  inadmitiu  o  recurso  especial  em  razão  da  incidência das Súmulas n. 5 e 7 do STJ (e-STJ  fls.  1.636/1.637).
+O  acórdão  reco rrido  encontra-se  assim  ementado  (e-STJ  fls.  1.518/1.519):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E LUCROS CESSANTES. ALUGUEL DE MAQUINÁRIO AGRÍCOLA. SENTENÇA DE IMPROCDÊNCIA.
+APELAÇÃO 1 - GENERAL FORTE, IMPORTADORA, EXPORTADORA E SERVIÇOS LTDA: AUSÊNCIA DE ELEMENTOS NOS AUTOS QUE PERMITAM RECONHECER O ESTADO DE CONSERVAÇÃO DOS MAQUINÁRIOS ANTES DA LOCAÇÃO. LAUDO DE VISTORIA INICIAL EDE ENTREGA NÃO ACOSTADOS AOS AUTOS. DOCUMENTO ESSENCIAL PARA APURAR O ESTADO DO IMÓVEL. PROVA ORAL E DOCUMENTAL INSUFICIENTES PARA COMPROVAR OS ALEGADOS DANOS. INVIABILIDADE DE SE RESPONSABILIZAR O LOCATÁRIO PELO RESSARCIMENTO DE EVENTUAIS AVARIAS OCORRIDAS NO PERÍODO DA LOCAÇÃO. RECURSO CONHECIDO E IMPROVIDO.
+1. Tal como ocorre nos contratos de locação de bens imóveis, onde é pacífica a jurisprudência que afirma que o laudo de vistoria de entrada e de saída é imprescindível para especificar o estado em que o imóvel foi entregue ao locatário e devolvido ao locador, para fins de eventual condenação do locatário ao pagamento de indenizações suplementares, tem-se que o mesmo entendimento deve ser adotado no caso em concreto.
+2. No caso concreto, vê-se que foi juntado parecer técnico (mov.1.3) elaborado pela empresa VETTOR &. OLIVEIRA LTDA - EPP. Contudo, para além do fato de se tratar de documento particular ,que tampouco atesta o estado anterior dos maquinários, vê-se que em seu depoimento, Vilson Antônio Vettor disse que não acompanhou e não tinha conhecimento do estado do maquinário quando do início da locação, além de não ter elaborado o parecer técnico, mas só assinado (mov. 218.24).
+3. Todas as provas produzidas nos autos não se prestam a suprira falta do laudo de vistoria inicial, único documento que se prestaria a atestar o estado em que o maquinário foi entregue e se os danos alegados realmente decorreriam de falta de manutenção ao apenas do uso normal do maquinário. A prova, portanto, é extremamente frágil nesse sentido.
+4. Ante a inexistência de ato ilícito, não há que se falar em condenação dos réus ao pagamento de indenização por danos materiais e lucros cessantes, pois ausentes os elementos caracterizadores da responsabilidade civil (ato ilícito, dano e nexo de causalidade).
+APELAÇÃO 2 - R S SERVIÇOS AGRÍCOLAS E TRANSPORTE LTDA: MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM SENTENÇA. POSSIBILIDADE. ADEQUAÇÃO AO DISPOSTO NO ARTIGO 85, § 2º, INCISOS I A IV DO CPC. RECURSO PROVIDO.
+1. A ação foi proposta em 02/07/2014, tramitando, portanto, há quase 10 anos. Diversas foram as diligências prestadas pelo patrono da apelante, como o acompanh amento de 07 audiências de instrução e julgamento, algumas presenciais, outras on line, outras feitas mediante carta precatória nas Comarcas de Cia norte/PR, Campo Mourão/PR e Loanda/PR. Outrossim, o zelo do profissional foi capaz de garantir êxito na demanda, tendo refutado todos as provas produzidas pela parte contrária.
+2. Diante dessas premissas, cabível a majoração dos honorários fixados em sentença, atendendo ao disposto no artigo 85, §2º,incisos I a IV do CPC.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.578/1.583).
+Nas  razões  do  recurso  especial  (e  - STJ  fls.  1.590/1.608),  interposto  com  fundamento  no  art.  105,  III,  "a" e "c",  da  CF,  a parte recorrente alegou violação dos arts. 569 e 570 do CC/02, além de divergência jurisprudencial.
+Aduziu que , "No caso dos autos, em que houve a c elebração de contrato de locação de maquinário pesado, a norma aplicável é inconteste no sentido de que, ao término do contrato de locação, o bem deve ser restituído nas mesmas condições em que recebido" (e-STJ fl. 1.598).
+Defendeu que "As provas produzidas nos autos confirmam que as máquinas foram restituídas em péssimas condições, apresentando inúmeras avarias, tais como problemas no motor, escadas de acesso danificadas etc., o que decorreu do mau uso e má operações dos maquinários" (e-STJ fl. 1.599).
+  No  agravo  (e-STJ  fls.  1.645/1.650),  afirma  a  presença  dos  requisitos  de  admissibilidade  do  especial.
+Foi  oferecida  contraminuta  (e-STJ  fls.  1.660/1.663).
+  É  o  relatório.
+Decido.
+Relativamente à tese de que o bem deve ser restituído nas mesmas condições em que recebido, a Corte de origem asseverou que (e-STJ fl. 1.529, negritei):
+ ..
+Diante deste cenário, deve ser mantida a sentença que julgou improcedentes os pedidos inicias, conquanto inexistem elementos probatórios nos autos que permitam constatar o estado que se encontravam os maquinários no momento de entrada e saída da empresa requerida, bem como não restou demonstrada a responsabilidade dos apelados pelos danos a eles imputados.
+O TJPR entendeu que "i nexistem elementos probatórios nos autos que permitam constatar o estado que se encontravam os maquinários no momento de entrada e saída da empresa requerida, bem como não restou demonstrada a responsabilidade dos apelados pelos danos a eles imputados". Rever tais conclusões demandaria nova incursão no conjunto probatório do s autos, providência vedada na instância especial, a teor da Súmula n. 7 do STJ.
+Cumpre asseverar que o referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Publique-se e intimem-se.
+ EMENTA
