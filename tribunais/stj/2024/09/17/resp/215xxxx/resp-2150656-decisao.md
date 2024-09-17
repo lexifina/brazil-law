@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por CREFISA S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTOS contra acórdão da Segunda Câmara de Direito Comercial do TJSC, assim ementado (e-STJ fl. 575):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA PARTE RÉ.
+ADMISSIBILIDADE. PLEITO DE IMPOSSIBILIDADE DE REVISÃO DE CONTRATO CANCELADO. INOVAÇÃO RECURSAL. MATÉRIA QUE NÃO FOI OBJETO DA CONTESTAÇÃ O. IMPOSSIBILIDADE DE ANÁLISE SOB PENA DE SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO.
+PRELIMINAR. PRESCRIÇÃO DA PRETENSÃO REVISIONAL. TESE AFASTADA. AÇÃO DE NATUREZA PESSOAL. INCIDÊNCIA DO ART. 205 DO CC/2002. DIREITO DE AÇÃO COM LAPSO TEMPORAL DECENAL. REJEIÇÃO.
+MÉRITO. POSSIBILIDADE DE REVISAR AS CLÁUSULAS CONTRATUAIS. FLEXIBILIZAÇÃO DO PACTA SUNT SERVANDA. SÚMULA 297 DO STJ E LEI CONSUMERISTA. PRECEDENTES. DESPROVIMENTO DO RECURSO NO PONTO.
+JUROS REMUNERATÓRIOS. ORIENTAÇÃO 1 DO RESP. N. 1.061.530/RS, EM SEDE DE RECURSO REPETITIVO (TEMAS 24 A 27). EXCESSO EVIDENCIADO. MANUTENÇÃO DA SENTENÇA QUE LIMITOU A COBRANÇA DOS JUROS À TAXA MÉDIA PRATICADA PELO BANCO CENTRAL DO BRASIL À ÉPOCA DA CONTRATAÇÃO.
+REPETIÇÃO DE INDÉBITO. ART. 884, DO CÓDIGO CIVIL. CABIMENTO NA FORMA SIMPLES. SENTENÇA MANTIDA.
+HONORÁRIOS SUCUMBENCIAIS. PLEITO DE MINORAÇÃO. DESCABIMENTO. SENTENÇA QUE FIXOU NO MÍNIMO LEGAL.
+SENTENÇA INALTERADA. HONORÁRIOS RECURSAIS DEVIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ).
+RECURSO CONHECIDO EM PARTE E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 601/603).
+Nas razões do recurso especial (e-STJ fls. 621/647), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de dissídio jurisprudencial, violação dos seguintes dispositivos de lei:
+(a) art. 421 do CC/2002, porque "o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão" (e-STJ fls. 630/631), e
+(b) art. 205 do CC/2002, pois alguns dos contratos revisados teriam sido firmados há ma is de 10 (dez) anos.
+Indicou julgado do STJ, a fim de demonstrar a divergência de entendimentos.
+Foram apresentadas contrarrazões (e-STJ fls. 819/834).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 837/840).
+É o relatório.
+Decido.
+Quanto à apontada violação do art. 205 do CC/2002, o Tribunal de origem, considerando ser mesmo de 10 (dez) anos o prazo prescricional a ser aplicado, concluiu que "deve ser mantida a sentença que rejeitou a preliminar arguida" (e-STJ fl. 568).
+Desse modo, para entender de outra forma, acolhendo a alegação de que alguns dos contratos foram firmados há mais de 10 (dez) anos, seria necessário o reexame dos elementos de fato do processo, o que encontra óbice na Súmula n. 7/STJ.
+No que diz respeito à taxa de juros remuneratórios, melhor sorte não assiste à recorrente.
+Ao apreciar a questão, a Corte local assim se pronunciou (e-STJ fls. 570/571):
+Assim, levando-se em conta a matéria tratada, bem como considerando o risco da operação e a ausência de comprovação, por parte da instituição financeira acerca da existência de motivos, riscos excepcionais, custos de captação de recursos ou até mesmo circunstâncias pessoais que pudessem justificar a diferença substancial da taxa contratada em relação à taxa média de mercado, esta Segunda Câmara de Direito Comercial consolidou o entendimento de que é perfeitamente admissível uma certa variação da taxa de juros remuneratórios, quando os percentuais contratados não ultrapassem em 10% (dez por cento) àqueles praticados pela média de mercado.
+Verifica-se que, no caso em apreço, trata-se de 10 (dez) contratos de empréstimo pessoal não consignado, sendo que:
+1) No contrato n. 032450013474, firmado em 28-4-2017 (evento 17, ANEXO7), a taxa contratada é de 987,22% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 129,16% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+2) No contrato n. 032450017757, firmado em 13-8-2018 (evento 17, ANEXO10), a taxa contratada é de 987,22% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 121,44% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+3) No contrato n. 032450028175, firmado em 10-1-2019 (evento 17, ANEXO13), a taxa contratada é de 706,42% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 116,38% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+4) No contrato n. 033220018719, firmado em 7-2-2020 (evento 17, ANEXO16), a taxa contratada é de 987,22% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 106,56% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+5) No contrato n. 033220019485, firmado em 8-6-2020 (evento 17, ANEXO19), a taxa contratada é de 987,22% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 84,99% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+6) No contrato n. 033220020102, firmado em 18-9-2020 (evento 17, ANEXO22), a taxa contratada é de 987,22% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 69,53% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+7) No contrato n. 033220020283, firmado em 22-10-2020 (evento 17, ANEXO25), a taxa contratada é de 987,22% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 77,05% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+8) No contrato n. 033220020744, firmado em 23-12-2020 (evento 17, ANEXO28), a taxa contratada é de 333,45% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 73,25% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+9) No contrato n. 033220021198, firmado em 24-2-2021 (evento 17, ANEXO31), a taxa contratada é de 333,45% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 784,45% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+10) No contrato n. 033220021639, firmado em 28-4-2021 (evento 17, ANEXO33), a taxa contratada é de 628,76% ao ano, já a taxa de juros divulgada pelo BACEN para o mesmo período da assinatura do contrato é de 86,25% ao ano (série temporal utilizada: Taxa média de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal não consignado);
+Diante disso, presente a abusividade capaz de colocar o consumidor em desvantagem exagerada na relação negocial entabulada entre as partes, o que se admite a revisão e limitação dos juros fixados.
+Colhe-se que o Tribunal a quo, levando em conta as características do caso concreto, entendeu que os juros remuneratórios fora m praticados de maneira ilícita.
+Dessa forma, desconstituir a convicção formada pelas instâncias ordinárias e acolher os argumentos do recurso especial, no sentido de afastar a abusividade dos juros remuneratórios contratados, é inviável, em razão das Súmulas n. 5 e 7 do STJ.
+A propósito, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DE MERCADO. TAXA CONTRATADA. COMPARAÇÃO. MODALIDADE SEGURA DE PAGAMENTO. GARANTIA DE ADIMPLEMENTO. RECONHECIMENTO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. REVISÃO. SÚMULA Nº 7/STJ.
+1. O tribunal reconheceu a abusividade dos juros remuneratórios após considerar serem excessivamente superiores à média de mercado para operações da mesma espécie e na mesma época de pactuação, terem origem em contrato que apresenta modalidade segura de pagamento e, ainda, haver maior garantia de adimplemento.
+2. A taxa média estipulada pelo BACEN não foi o único critério utilizado para a limitação dos juros remuneratórios, estando o julgamento em conformidade com a orientação do STJ.
+3. O revolvimento das conclusões da Corte local enseja nova análise das circunstâncias fático-probatórias dos autos, procedimento incabível na via estreita do recurso especial, nos termos da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.534.029/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUROS REMUNERATÓRIOS. NATUREZA ABUSIVA. SÚMULA N. 83 DO STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. " ..  é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+2. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático- probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. Além disso, "a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.503.364/BA, de minha relatoria, Quarta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+Por fim, ressalta-se que a incidência das Súmulas n. 5 e 7 do STJ impedem o exame do dissídio jurisprudencial, uma vez que falta identidade entre o paradigma apresentado e os fundamentos do acórdão recorrido.
+Ante o exposto, NÃO CONHEÇO do especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
