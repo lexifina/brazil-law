@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se recurso especial interposto por MOELCO MONTAGENS ELÉTRICAS LTDA., FABIANO MARESE DE FREITAS E BRUNO CESAR MORAIS, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/PR.
+Recurso especial interposto em: 24/10/2023.
+Concluso ao gabinete em: 04/12/2023.
+Ação: de regresso, ajuizada pelo ESPÓLIO DE VICTORIO PIANA (fls.1-7, e-STJ).
+Sentença: julgou procedentes os pedidos da inicial para condenar a sociedade empresarial Moelco Montagens Elétricas Ltda. ao pagamento de R$ 825.948,70 e, subsidiariamente e solidariamente, Fabiano Marese de Freitas e Bruno Cesar de Morais a pagarem o valor de R$ 550.632,46. Fixou, ainda, a correção monetária pela média entre o INPC e o IGP-DI, acrescido de juros demora de 1% ao mês, com termo inicial em 27.03.2015 (fls. 1.347-1352, e-STJ).
+Acórdão: conheceu e negou provimento ao recurso interposto pelos recorrentes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REGRESSO. PAGAMENTO TOTAL DE DÍVIDA DE PESSOA JURÍDICA, EM AÇÃO JUDICIAL QUE ESTAVA EM FASE DE EXECUÇÃO, POR QUEM NÃO ERA MAIS SÓCIO DA EMPRESA, MAS TEVE IMÓVEL DE SUA PROPRIEDADE PENHORADO. ACÓRDÃO LAVRADO EM APELAÇÃO CÍVEL QUE CONHECEU PARCIALMENTE O RECURSO E, NESSA EXTENSÃO, NEGOU-LHEPROVIMENTO. NÃO CONHECIMENTO DO PEDIDO DE APLICAÇÃO DA TAXA SELIC, POR INOVAÇÃO RECURSAL. RECURSO ESPECIAL INTERPOSTO PELOS APELANTES QUE FOI PROVIDO A FIM DE DETERMINAR O RETORNO DOS AUTOS PARA REALIZAÇÃO DE NOVO JULGAMENTO DO RECURSO. ANÁLISE DO PLEITO DE APLICAÇÃO DA TAXA SELIC. MATÉRIA DE ORDEM PÚBLICA. ATUALIZAÇÃO DA CONDENAÇÃO QUE DEVE SER FEITA PELA MÉDIA ENTRE O INPC E O IGP-DI. JUROS DE MORA DE 1% AO MÊS. PRECEDENTES DESTA COLENDA CÂMARA CÍVEL. RECURSO CONHECIDO E DESPROVIDO NESTE PONTO. SENTENÇA MANTIDA (fls. 1511-1519, e-STJ).
+Recurso especial: alega violação ao art. 406 do Código Civil, bem como dissídio jurisprudencial (fls.1527-1538, e-STJ). Contrarrazões ofertadas (fls. 1563-1570, e-STJ).
+Juízo prévio de admissibilidade: o TJ/PR admitiu o recurso, considerando a divergência jurisprudencial e a potencial ofensa à legislação federal (artigo 406 do Código Civil), assinalando ser recomendável que a matéria seja apreciada pelo Superior Tribunal de Justiça.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos juros moratórios
+A Corte Especial, no recente julgamento do REsp 1.795.982/SP, em 21/8/2024, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC. Nesse sentido, a propósito: EREsp 727.842/SP, Corte Especial, DJe 20/11/2008 e REsp 1.111.117/PR, Corte Especial, DJe 2/9/2010.
+Inclusive, as duas Turmas que compõem a Seção de Direito Privado convergem acerca da aplicação da taxa SELIC às condenações posteriores à entrada em vigor no CC/02, que não pode ser cumulada com a aplicação de outros índices de atualização monetária, confira-se: AgInt nos EDcl no REsp 2.133.359/RS, 3ª Turma, DJe de 28/8/2024; AgInt no REsp 2.070.287/SP, 3ª Turma, DJe de 15/5/2024; AgInt no AREsp 2.009.253/RS, 4ª Turma, DJe de 2/5/2024; REsp 2.117.094/SP, 3ª Turma, DJe de 11/3/2024; e AgInt no AREsp 1.491.298/ES, 4ª Turma, DJe de 11/3/2024; EDcl no AgInt nos EDcl nos EDcl no REsp 1.645.236/RJ, 4ª Turma, DJe de 28/9/2023.
+Logo, encontrando-se o entendimento da Corte de origem em divergência com a jurisprudência deste Tribunal, o recurso deve ser provido, com fundamento na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, apenas para determinar a utilização da taxa do Sistema Especial de Liquidação e Custódia - SELIC como referencial dos juros moratórios, vedada a cumulação com outros índices de atualização monetária, mantendo-se os ônus sucumbenciais fixados pelas instâncias ordinárias.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REGRESSO. JUROS DE MORA. ART. 406 DO CC. TAXA SELIC. SÚMULA 568/STJ.
+1. Ação de regresso.
+2. A Corte Especial, recentemente, reafirmou a jurisprudência do STJ, consolidada no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que não pode ser cumulada com a aplicação de outros índices de atualização monetária. Precedentes.
+3. Recurso especial conhecido e provido.
