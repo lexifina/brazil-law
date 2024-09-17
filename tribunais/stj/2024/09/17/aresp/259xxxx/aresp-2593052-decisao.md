@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial ante o Tema n. 28 do STJ e, no mais, o inadmitiu em razão da ausência de violação do art. 1.022 d o CPC/2015 (e-STJ fls. 420/422).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 225/226):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO COM PEDIDO CONTRAPOSTO DE REVISÃO CONTRATUAL. CÉDULA DE CRÉDITO BANCÁRIO, EMPRÉSTIMO CAPITAL DE GIRO. CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. TAXA DE JUROS CONTRATADA. TAXA PRÓXIMA AO TRIPLO DA TAXA MEDIDA DE MERCADO INDICADA NA SENTENÇA. JUROS REMUNERATÓRIOS, CONSIDERADO O CASO CONCRETO, ABUSIVOS. CONTRATO DE FINANCIAMENTO PARA SER QUITADO EM 24 MESES. BEM DADO EM GARANTIA QUE SE MOSTRAVA APTO A GARANTIA DA TOTALIDADE DO DÉBITO. BEM APREENDIDO E VENDIDO EM SEGUIDA. ABUSIVIDADE DOS JUROS RECONHECIDA NO CASO CONCRETO. MORA DESCARACTERIZADA. RESP Nº 1.061.530/RS DO SUPERIOR TRIBUNAL DE JUSTIÇA. REDUÇÃO DA TAXA CONTRATADA À TAXA MÉDIA DE MERCADO. REPETIÇÃO DOS VALORES PAGOS A MAIOR. RESTITUIÇÃO DO BEM APREENDIDO. PARCIAL PROCEDÊNCIA DO PEDIDO CONTRAPOSTO QUE ACARRETA A INEFICÁCIA DA DECISÃO DE LIMINAR DE BUSCA E APREENSÃO. ÔNUS DE SUCUMBÊNCIA. RESPONSABILIDADE DO BANCO AUTOR, QUE FOI SUCUMBENTE NA AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ART. 85, § 11, DO VIGENTE CÓDIGO DE PROCESSO CIVIL. RECURSO DESPROVIDO COM MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 259/267 e 376/380).
+Nas razões do recurso especial (e-STJ fls. 384/397), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 330, §§ 2º e 3º, do CPC/2015, sustentando que "a revisão parcial da dívida não afasta o dever de pagamento da parte incontroversa" (e-STJ fl. 386),
+(ii) arts. 394 e 397 do CC, os quais, defende a parte agravante, "consideram constituído de pleno direito em mora o devedor que não efetuar o pagamento no lugar, tempo e forma convencionados entre as partes" (e-STJ fl. 386), e
+(iii) art. 1.022, II, do CPC/2015, aduzindo que "não houve pronunciamento acerca da não descaracterização da mora ante a ausência de depósito dos valores incontroversos apontados em cálculo realizado pelos próprios Recorridos" (e-STJ fl. 388).
+No agravo (e-STJ fls. 425/434), reitera a alegação de afronta aos arts. 330, §§ 2º e 3º, e 1.022, II, do CPC/2015 e 394 e 397 do CC, defendendo ainda o afastamento da aplicação do art. 1.030, I, "b", do CPC/2015.
+Contraminuta apresentada às fls. 444/446 (e-STJ).
+É o relatório.
+Decido.
+Da incidência do Tema n. 28 do STJ
+Preliminarmente, de acordo com a jurisprudência desta Corte, "para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais" (AgInt no REsp n. 1.920.307/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe de 15/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.423.540/SP, de minha relatoria, Quarta Turma, julgado em 26/2/2024, DJe de 29/2/2024; e AgInt no AREsp n. 2.102.191/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 20/11/2023, DJe de 22/11/2023.
+No que diz respeito à parte relativa à aplicação da sistemática dos recursos repetitivos, o recurso não comporta conhecimento, pois, de acordo com o disposto no art. 1.030, § 2º, do NCPC, contra o capítulo da decisão que nega seguimento a recurso especial com base nos incisos I e III do mesmo dispositivo, é cabível agravo interno, tendo a parte recorrente, no entanto, interposto tão somente o agravo em recurso especial, quando deveria apresentar ambos simultaneamente.
+Da violação do art. 1.022 do CPC/2015
+Não há falar em vício de fundamentação ou violação do art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação à descaracterização da mora no caso concreto, o Tribunal de origem se manifestou nos seguintes termos (e-STJ fls. 234/235):
+Certo, assim, que, conforme constou na sentença, a taxa de juros remuneratórios, por ser abusiva, devia ser, como foi, reduzida à taxa média de mercado indicada na sentença, qual seja, 1,23% ao mês.
+E, como consequência da existência de abusividades no contrato firmado entre as partes, resta descaracterizada a mora, nos termos do entendimento firmado pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.061.530/RS, anteriormente mencionado, e cuja ementa, na porção em que trata sobre a descaracterização da mora, é a seguir transcrita:
+ORIENTAÇÃO 2 - CONFIGURAÇÃO DA MORA
+a) O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora;
+b) Não descaracteriza a mora o ajuizamento isolado de ação revisional, nem mesmo quando o reconhecimento de abusividade incidir sobre os encargos inerentes ao período de inadimplência contratual.
+Na hipótese dos autos, como visto, não foi proposta ação revisional de forma isolada, mas sim formulado pedido de revisão das cláusulas contratuais na contestação apresentada em ação de busca e apreensão proposta pela instituição financeira apelante, razão pela qual é possível a descaracterização da mora.
+Sabe-se que o julgador não está obrigado a se manifestar sobre todos os argumentos e dispositivos legais invocados pelas partes, bastando que os fundamentos utilizados sejam suficientes para embasar a decisão, como no caso dos autos.
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu de maneira fundamentada a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Ante o exposto, CONHEÇO EM PARTE do agravo e, nessa extensão, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
