@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/09/2024 a 17/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO LIMINARMENTE INDEFERIDO. AUSÊNCIA DE IMPUGNAÇÃO DE TRÊS DOS FUNDAMENTOS DA DECISÃO AGRAVADA, SUFICIENTES PARA MANUTENÇÃO DO DECISUM. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Hipótese em que a decisão agravada indeferiu liminarmente os embargos de divergência em razão da (i) aplicação da Súmula n. 315 do STF; (ii) ausência de oportuna juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas, vício substancial insanável; (iii) ausência de demonstração do dissídio porque se limitou a transcrever as ementas dos acórdãos paradigmas; (iv) mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte oficial ou autorizada de jurisprudência.
+2. A agravante, em suas razões recursais, no entanto, limitou-se a impugnar apenas o segundo dos quatro fundamentos da decisão agravada - e, ainda assim, de forma precária -, deixando incólume os demais, aptos a sustentarem sozinhos a conclusão do decisum.
+3. Incidência do Verbete Sumular n. 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil. Precedentes.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por NEUSA RIBEIRO FERNANDES contra decisão da Presidência desta Corte, que indeferiu liminarmente os embargos de divergência nestes termos (fls. 3603-3605):
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL interpostos por NEUSA RIBEIRO FERNANDES, com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados: EDcl no REsp n. 1.755.052/RJ e REsp n. 1.838.195/AM, proferidos pela Segunda Turma.
+A título de reforço argumentativo, a parte também indica julgados do Supremo Tribunal Federal.
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7 do STJ e das Súmulas 283 e 284 do STF. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS E MBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTS. 1.043, § 4º, DO CPC/2015 E 266, § 4º, DO RISTJ. DESCUMPRIMENTO. AUSÊNCIA DE JULGAMENTO DE MÉRITO NO ACÓRDÃO EMBARGADO. SÚMULA 315/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A não demonstração do dissídio alegado, nos moldes exigidos pelos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, constitui vício substancial, diante do rigor técnico exigido na interposição dos Embargos de Divergência, sendo descabida a concessão de prazo para complementação de fundamentação. Precedentes.
+2. Consoante a jurisprudência sedimentada deste Tribunal, não se admite a oposição dos embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, em razão do disposto na Súmula 315 do STJ, em consonância, ainda, com a redação do art. 1.043, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt nos EAREsp n. 1.969.968/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30/5/2023, DJe de 1/6/2023.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ademais, a jurisprudência desta Corte, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas. "(..) A Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento. Assim, a não apresentação de algum desses elementos na interposição do recurso caracteriza desrespeito à regra técnica para o seu conhecimento, o que constitui vício substancial insanável." (AgInt nos EAREsp n. 1.950.564/MS, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 13/6/2023, DJe de 16/6/2023.).
+No mesmo sentido: AgInt nos EAREsp n. 1.760.860/PR, relator Ministro Humberto Martins, Segunda Seção, julgado em 15/8/2023, DJe de 18/8/2023, e; AgInt nos EDcl nos EREsp n. 1.803.803/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 26/9/2023, DJe de 6/10/2023.
+Verifica-se que a parte, no momento da interposição do recurso, limitou-se a transcrever as ementas dos acórdãos paradigmas. Dessa forma, não cumpriu regra técnica do presente recurso, o que constitui vício substancial insanável.
+Com efeito, a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão. No mesmo sentido: AgRg nos EAREsp n. 1.399.185/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/5/2023, DJe de 26/5/2023.
+Ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO CONHECIMENTO. ACÓRDÃO PARADIGMA. JUNTADA DE INTEIRO TEOR. AUSÊNCIA DA CERTIDÃO DE JULGAMENTO. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC DE 2015. PRECEDENTES.
+1. Ostentando os embargos de divergência característica de recurso de fundamentação vinculada, é imperativo que a demonstração do dissenso jurisprudencial se faça nos exatos termos estabelecidos pelo art. 1.043, § 4º, do CPC de 2015 e pelo art. 266, § 4º, do RISTJ.
+2. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC de 2015.
+3. Agravo interno desprovido.
+(AgInt nos EREsp 1617799/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 23/08/2022, DJe 25/08/2022)
+Como se vê, também não é admissível o recurso de embargos de divergência em que o recorrente não comprova a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Sustenta a parte agravante a necessidade de prevalecer os princípios da instrumentalidade das formas, da prevalência do julgamento de mérito, da boa-fé e cooperação processual, evitando-se formalismo excessivo. Afirma que "a juntada posterior dos acórdãos paradigmas, desde que sanado o vício dentro do prazo concedido pelo relator, não compromete a análise da divergência jurisprudencial e não causa prejuízo às partes" (fl. 3614). Requer, pois, o provimento do agravo interno.
+Contrarrazões da UNIÃO às fls. 3643-3645.
+Parecer do Ministério Público Federal às fls. 3649-3654.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO LIMINARMENTE INDEFERIDO. AUSÊNCIA DE IMPUGNAÇÃO DE TRÊS DOS FUNDAMENTOS DA DECISÃO AGRAVADA, SUFICIENTES PARA MANUTENÇÃO DO DECISUM. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Hipótese em que a decisão agravada indeferiu liminarmente os embargos de divergência em razão da (i) aplicação da Súmula n. 315 do STF; (ii) ausência de oportuna juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas, vício substancial insanável; (iii) ausência de demonstração do dissídio porque se limitou a transcrever as ementas dos acórdãos paradigmas; (iv) mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte oficial ou autorizada de jurisprudência.
+2. A agravante, em suas razões recursais, no entanto, limitou-se a impugnar apenas o segundo dos quatro fundamentos da decisão agravada - e, ainda assim, de forma precária -, deixando incólume os demais, aptos a sustentarem sozinhos a conclusão do decisum.
+3. Incidência do Verbete Sumular n. 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil. Precedentes.
+4. Agravo interno não conhecido.
+VOTO
+A decisão agravada indeferiu liminarmente os embargos de divergência, essencialmente, porque, in verbis (fls. 3603-3605):
+(i) "o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7 do STJ e das Súmulas 283 e 284 do STF. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"."
+(ii) "o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas. "(..) A Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento. Assim, a não apresentação de algum desses elementos na interposição do recurso caracteriza desrespeito à regra técnica para o seu conhecimento, o que constitui vício substancial insanável"."
+(iii) a parte, no momento da interposição do recurso, limitou-se a transcrever as ementas dos acórdãos paradigmas. Dessa forma, não cumpriu regra técnica do presente recurso, o que constitui vício substancial insanável.
+(iv) a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão.
+No entanto, a agravante, em suas razões recursais, limitou-se a impugnar apenas o segundo fundamento - e, ainda assim, de forma precária -, deixando incólume os demais, aptos a sustentarem sozinhos a conclusão do decisum.
+Aplica-se, pois, o óbice da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+No mesmo diapasão, é a literalidade do novo Código de Processo Civil:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1.º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO INFIRMAM O FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Cuida-se, na origem, de ação proposta por servidora pública municipal, pretendendo que seja determinado ao ente público que se abstenha de declarar nulo ato administrativo concessivo de progressão na carreira, bem como de efetuar descontos em seus vencimentos.
+2. Decisão unipessoal que indeferiu liminarmente os embargos de divergência no âmbito da competência da Corte Especial, devido à ausência de cotejo analítico e comprovação da similitude fática entre os arestos supostamente divergentes.
+3. Não merece conhecimento o agravo interno que não impugna, de maneira específica, o fundamento da decisão agravada.
+4. Agravo interno não conhecido, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+(AgInt nos EDcl nos EAREsp 399.553/MG, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 27/08/2019, DJe 02/09/2019.)
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. AGRAVANTE QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. DEFICIÊNCIA DAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo interno que não impugna os fundamentos da decisão agravada. Aplicação do disposto na Súmula 182/STJ, bem como no artigo 1.021, § 1º, do CPC.
+2. Agravo interno não conhecido.
+(AgInt no RE no AgInt nos EREsp 1.684.729/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 05/08/2020, DJe 10/08/2020.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É o voto.
