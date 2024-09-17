@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação do art. 1.022 do CPC/2015, da ausência de demonstração de ofensa ao art. 37-A da Lei n. 9.514/1997 e da incidência da Súmula n. 7 do STJ (e-STJ fls. 318/320).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 262):
+LEILÃO EXTRAJUDICIAL. ARREMATAÇÃO DE BEM IMÓVEL. Demora na desocupação. Pedido de indenização pelo tempo indevido de ocupação pelos réus. Não cabimento. Ausente prova de que houve notificação dos ocupantes quanto à arrematação do imóvel. Sentença mantida. Honorários majorados. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 297/299).
+Nas razões do recurso especial (e-STJ fls. 268/285), fundamentado no art. 105, III, "a", da CF, a parte alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022, II, do CPC/2015, apontando omissão no acórdão recorrido quanto à alegação de que o art. 37-A da Lei n. 9.514/1997 não exige, para fins de pagamento da taxa de ocupação do imóvel, prévia notificação do fiduciante, e
+(ii) art. 37-A da Lei n. 9.514/1997, defendendo que "foi nítida a escolha do legislador ao impor uma penalidade aos fiduciantes, e justa remuneração ao arrematante ou credor fiduciário, ao estabelecer a incidência da taxa de ocupação, que, por sua vez, não exige qualquer outro requisito, a exemplo da indigitada notificação premonitória, para que possa ser exigida dos fiduciantes" (e-STJ fls. 280/281).
+Acrescenta que "criar uma exigência, não prevista em lei, de notificação prévia dos fiduciantes, para que o arrematante faça jus à cobrança da taxa de ocupação, não apenas viola o princípio da legalidade, mas dá amparo à má-fé dos recorridos, possibilitando o seu enriquecimento sem causa" (e-STJ fl. 284).
+No agravo (e-STJ fls. 322/337), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 341/344 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+A Corte estadual manteve a sentença, que julgou improcedente ação de cobrança, por entender que "a obrigação dos réus de indenização pela ocupação indevida do imóvel se inicia quando notificados para desocupação do imóvel.  .. . No entanto, no caso em tela, não há prova de que os réus tenham sido notificados para desocupar o imóvel ou que tivessem ciência inequívoca de sua arrematação. Com efeito, o que se sabe é que houve entrega voluntária do bem imóvel em dezembro, meses após a arrematação" (e-STJ fls. 263/264).
+Por sua vez, a parte aponta violação do art. 37-A da Lei n. 9.514/1997, sob alegação que a norma "não impõe qualquer requisito para o recebimento da taxa de ocupação, a não ser a recusa do devedor fiduciante em desocupar o imóvel" (e-STJ fl. 274 - grifei).
+Ressalte-se que a parte requer, em sua petição inicial, que seja paga taxa de ocupação do período correspondente à arrematação do bem, em 8/8/2016, até a entrega efetiva da posse do imóvel, em 30/12/2016 (e-STJ fl. 4).
+Contudo, verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 37-A da Lei n. 9.514/1997, segundo o qual "o fiduciante pagará ao credor fiduciário ou ao seu sucessor, a título de taxa de ocupação do imóvel, por mês ou fração, valor correspondente a 1% (um por cento) do valor de que trata o inciso VI do caput ou o parágrafo único do art. 24 desta Lei, computado e exigível desde a data da consolidação da propriedade fiduciária no patrimônio do credor fiduciário até a data em que este ou seu sucessor vier a ser imitido na posse do imóvel".
+O fato de a norma não prevê a necessidade de notificação do devedor fiduciante não significa que, por via indireta, ela foi violada. Isso porque a Corte estadual não afastou a possibilidade da taxa de ocupação ser paga ao credor fiduciário ou seu sucessor - direito previsto no art. 37-A da Lei n. 9.514/1997 -, mas apenas afirmou que não houve prova da ciência dos devedores fiduciantes quanto à arrematação do imóvel para possibilitar a cobrança da taxa de ocupação pelo arrematante.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+De todo modo, segundo o TJSP não houve prova de que os réus, devedores fiduciantes, tiveram ciência da arrematação do bem imóvel pela ora recorrente. Por consequência lógica, a parte autora não comprovou que os réus, cientes da arrematação, se recusaram a desocupar o imóvel, como afirma a agravante .
+Modificar o entendimento do acórdão impugnado quanto à ausência de prova da ciência da arrematação, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
