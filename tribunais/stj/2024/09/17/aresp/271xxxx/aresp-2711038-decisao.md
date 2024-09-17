@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pela SHUTTLE LOGÍSTICA INTEGRADA LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 88):
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PRESCRIÇÃO INTERCORRENTE - INOCORRÊNCIA - Súmula 314 do Colendo STJ - Hipótese dos autos em que não permaneceram paralisados durante um quinquênio - Inércia da Fazenda Estadual que não se verificou - Para que se caracterize a prescrição intercorrente, é necessário que por mais de cinco anos nada seja requerido ou diligenciado pela Fazenda do Estado, e não o insucesso nas tentativas de localização do devedor ou de bens.
+DESÍDIA NÃO VERIFICADA - DEMORA DECORRENTE DOS MECANISMOS DO JUDICIÁRIO - Conquanto possível a decretação de ofício pelo Juiz da prescrição intercorrente, esta se caracteriza pela extinção da pretensão em face da inércia do titular em promover o andamento do processo com o objetivo de perseguir seu crédito, após a propositura da ação - No caso dos autos, o período em que o processo esteve paralisado deveu-se ao atraso na tomada de providências a cargo do próprio órgão jurisdicional, não se caracterizando desídia do exequente - Precedente do STJ.
+Decisão que rejeitou a exceção de pré-executividade, mantida. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 102/105).
+No recurso especial (e-STJ fls. 109/123), o recorrente aponta violação do art. 40, § 3º, da Lei n. 6.830/1980 pelo acórdão recorrido, "ao entender que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução" (e-STJ fl. 117).
+Com relação ao dissídio jurisprudencial, diz que o julgado diverge do que foi decidido por esta Corte no REsp 1.340.553/RS, julgado na sistemática dos recursos repetitivos.
+Ao final, pugna pela concessão de efeito suspensivo ao recurso.
+As contrarrazões foram oferecidas.
+O recurso especial teve seguimento negado com fundamento no art. 1.030, I, "b" do CPC/2015, por encontrar-se o acórdão em conformidade com tese firmada em recurso repetitivo (Tema 179, 566, 567, 568, 569, 570 E 571 do STJ) e, no mais, não foi admitido (art. 1.030, V do CPC/2015), em razão da suficiência de fundamentação do acórdão recorrido, da ausência de violação às normas legais, da incidência da Súmula 7 do STJ e da inadequada demonstração do dissídio jurisprudencial (e-STJ fls. 365/368).
+No agravo em recurso especial (e-STJ fls. 371/380), o agravante alega que "restou devidamente demonstrado  ..  o maltrato às normas legais enunciadas", que "não há de se falar em reexame de provas" (e-STJ fl. 375) e que observou os requisitos exigidos para a demonstração da divergência jurisprudencial.
+A contraminuta foi apresentada.
+O agravo interno interposto contra a mencionada decisão foi desprovido (e-STJ fl. 452/457).
+Passo a decidir.
+Do que se observa, o Tribunal de origem negou seguimento em parte ao recurso especial ao fundamento de que o acórdão recorrido está em sintonia com os seguintes precedentes obrigatórios desta Corte Superior:
+A perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário." (Tema 179 do STJ).
+O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução. (Tema 566 do STJ)
+Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável. (Temas 567 e 569 do STJ).
+A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. (Tema 568 do STJ).
+A Fazenda Pública, em sua primeira oportunidade de falar nos autos (art. 245 do CPC/73, correspondente ao art. 278 do CPC/2015), ao alegar nulidade pela falta de qualquer intimação dentro do procedimento do art. 40 da LEF, deverá demonstrar o prejuízo que sofreu (exceto a falta da intimação que constitui o termo inicial - 4.1., onde o prejuízo é presumido), por exemplo, deverá demonstrar a ocorrência de qualquer causa interruptiva ou suspensiva da prescrição. (Temas 570 e 571 do STJ).
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial com fundamento na conformidade do acórdão recorrido com o entendimento do STJ exarado em julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo sobre existência de outros óbices à admissibilidade do recurso especial, porquanto relacionados com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guardam autonomia para justificar o cabimento do agravo dirigido para esta Corte Superior.
+Logo, incabível o recurso.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial, restando prejudicado o exame do pedido de concessão de efeito suspensivo ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
