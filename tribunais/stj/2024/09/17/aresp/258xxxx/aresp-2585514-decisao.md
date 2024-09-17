@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ (e-STJ fls. 826/829).
+O acórdão recorrido está assim ementado (e-STJ fl. 758):
+APELAÇÃO CÍVEL. AÇÃO REGRESSIVA. COBRANÇA DE DÍVIDA TRABALHISTA. PRAZO PRESCRICIONAL. CLÁUSULA GERAL. PRESCRIÇÃO DECENAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE EXCLUSIVA DO PRESTADOR PELOS DÉBITOS TRABALHISTAS. CLÁUSULA CONTRATUAL. DIREITO DO TOMADOR DO SERVIÇO DE RESSARCIMENTO. ARTIGO 934 DO CPC. APELO NÃO PROVIDO. 1) A ação regressiva de cobrança de dívida trabalhista não se encaixa em nenhuma das hipóteses previstas no artigo 206 do Código Civil, de modo que se aplica a cláusula geral de prescrição, prevista no artigo205 do Código Civil, ou seja, dez anos. Precedentes do STJ. 2) Havendo cláusula contratual apontando a responsabilidade exclusiva da empresa prestadora de serviços com o pagamento de eventuais débitos trabalhistas, ante a inexistência de vínculo trabalhista entre a empresa tomadora e quaisquer dos representantes, prepostos, contratos, colaboradores ou empregados da empresa prestadora, em eventual condenação judicial, a empresa tomadora poderá reaver os valores comprovadamente pagos, nos termos do artigo 934 do Código Civil. 3) Apelo conhecido e não provido.
+Nas razões do recurso especial (e-STJ fls. 777/790), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 346, III, e 349 do CC/2002, pleiteando seja reconhecida a prescrição das parcelas anteriores a 15 de abril de 2019, as quais deveriam ser excluídas da condenação,
+(ii) art. 934 do CC/2002, por entender que "a sentença recorrida deixou de apreciar a matéria de defesa, bem como, os documentos juntados aos autos  ..  a recorrida deixou de efetuar os repasses dos valores decorrentes do acordo formulado entre as partes, razão pela qual, a Recorrente teve que arcar com um gigantesco número de reclamações trabalhista" (e-STJ fl. 788).
+Foram oferecidas contrarrazões (e-STJ fls. 802/817).
+No agravo (e-STJ fls. 840/854), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 864/876).
+É o relatório.
+Decido.
+(I) A Corte de origem entendeu que "o apelante aponta a prescrição de parcelas cobradas pela apelada antes de 15 de abril de 2019, aplicando-se o prazo prescricional de 2 (dois) anos  ..  ocorre que o referido julgado não se aplica ao caso concreto, uma vez que tratava do direito do credor em perseguir seus créditos trabalhistas, cuja prescrição é de 2 anos, conforme legislação específica. No aludido caso, a sub-rogação se deu por ex-sócio da Empresa, nos direitos do credor  ..  para o presente caso, a ação regressiva utiliza a regra geral prevista no artigo 205 do Código Civil" (e-STJ fls. 761/762 - grifei).
+A respeito de tais razões de decidir, a parte recorrente não se manifestou, limitando-se a alegar a prescrição das parcelas anteriores a 15 de abril de 2019. Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrid o, há o impedimento da Súmula n. 283/STF.
+(II) Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 763/764):
+Ressalto que, em análise aos autos do processo nº 0023751-28.2018.8.03.0001, o pleito da apelante foi julgado improcedente, com confirmação pelo órgão colegiado em grau recursal e atualmente encontra-se arquivado em razão de transito em julgado.
+Rechaçadas tais alegações do apelante, cumpre apontar que o contrato firmado entre as partes foi claro ao determinar a inexistência de vínculo trabalhista de qualquer natureza, sendo tão somente um contrato de tomada de serviços, cuja responsabilidade por eventuais dívidas trabalhistas seria exclusivamente da prestadora dos serviços, ora apelante.
+(..)
+Desse modo, a sentença recorrida, ao julgar procedentes os pedidos iniciais para condenar a apelante ao ressarcimento dos valores pagos pela apelada à título de condenação de débitos judiciais trabalhistas é escorreita, uma vez que, por força contratual, tais débitos eram de responsabilidade exclusiva da requerida/apelante.
+A ação regressiva encontra fundamento no artigo 934 do Código Civil, de modo que é direito da apelada reaver aquilo que pagou (débitos trabalhistas) em favor do devedor (apelante).
+A Corte local concluiu que a ação regressiva encontra fundamento no artigo 934 do Código Civil, de modo que é direito da parte recorrida reaver aquilo que pagou (débitos trabalhistas) em favor da parte recorrente. Para modificar o acórdão nesse ponto, seria preciso reexaminar fatos e provas, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
