@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO CESAR CARVALHO DA SILVA AFONSO contra decisão de inadmissão do recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional que desafiou acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 119):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INDISPONIBILIDADE DE BENS E DIREITOS DECRETADA ANTES DA CITAÇÃO EXECUTADO. PODER GERAL DE CAUTELA DO JUIZ. INDÍCIOS DE OCULTAÇÃO PROPOSITAL DO DEVEDOROU DE SEUS BENS. HIPÓTESE EXCEPCIONAL CONFIGURADA. AGRAVO DESPROVIDO.
+1. A decretação da indisponibilidade de bens do executado, prevista no art. 185-A do CTN, tem - em regra - sua aplicação condicionada à observância dos seguintes pressupostos: (i) citação do devedor; (ii)inexistência de pagamento ou indicação de bens à penhora; e (iii) não localização de bens penhoráveis, após o esgotamento das diligências pela Fazenda.
+2. Contudo, também é possível que a decretação de indisponibilidade de bens do devedor encontre fundamento no poder geral de cautela do juiz. Nesse caso, a indisponibilidade de bens, que terá natureza de medida cautelar, poderá ser decretada antes mesmo da citação do devedor, mas desde que, imprescindivelmente, estejam presentes indícios de ocultação proposital do devedor ou de seus bens.
+3. No caso, como bem consignado pelo Juízo de origem, estão presentes indícios de ocultação proposital não só dos devedores, mas também de seus respectivos bens, de modo que a indisponibilidade de bens do Executado/Agravante, decretada pelo Juízo de origem com fundamento no poder geral de cautela, afigura-se como correta.
+4. Agravo de instrumento do Executado a que se nega provimento.
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, o particular aponta, além de dissídio jurisprudencial, ofensa aos arts. 185-A do CTN, 300, 835, inciso I, 489, §1º, incisos IV e V e 1.022, inciso II do CPC/2015 e 7º, 8º, 9º e 10 da Lei n. 6.830/1980.
+Alega, em resumo, a nulidade do acórdão recorrido por negativa de prestação jurisdicional, pois, mesmo provocado por meio do recurso integrativo, o Tribunal de origem deixou de pronunciar sobre: (i) "os motivos ou elementos pelos quais se convenceu da potencialidade de blindagem patrimonial vinculada à conduta do Recorrente, para o que não socorre a alegação de indício de ocultação proposital dos devedores e de seus bens, sequer aventadas na origem, que, igualmente não identificou conduta do Recorrente, apenas eventos que caracterizariam a formação de grupo econômico entre pessoas jurídicas, jamais condutas infracionais do Recorrente" (e-STJ fl. 177); (ii) o pedido de esclarecimentos a respeito da prática de concutas visando a ocultação do recorrente se ele se apresentou espontaneamente nos autos.
+Defende, em apertada síntese, não haver motivo para a realização de constrições patrimoniais antes da citação de executados em execuções fiscais, acrescentando que "o Acórdão se limitou a validar o alcance, não apenas de ativos financeiros do Recorrente, mas também de todo o seu patrimônio, indisponibilizando todos os seus bens e direitos sem, contudo, explicitar porque a nomeação de bens não deveria ter sido oportunizada ao Recorrente" (e-STJ fl. 184).
+Contrarrazões apresentadas às e-STJ fls. 242/252.
+O recurso especial foi inadmitido, pela decisão de e-STJ fls. 262/264, ante a ausência de ofensa ao art. 1.022 do CPC/2015 e a aplicação do óbice das Súmulas 7 e 83 do STJ, fundamentos devidamente combatidos no agravo (e-STJ fls. 275/300).
+Sem contraminuta.
+Passo a decidir.
+Cuidam os autos, na origem, de agravo de instrumento manejado contra decisão que incluiu o ora recorrente, além de outras pessoas físicas e jurídicas, no polo passivo da execução fiscal n. 5027056-50.2020.4.02.5101, deferiu o arresto por meio de indisponibilidade dos ativos financeiros por meio do sistema BACENJUD e decretou a indisponibilidade de bens e direitos de todos os incluídos no feito executivo.
+A Corte de origem negou provimento ao recurso, mantendo a decisão agravada.
+Pois bem.
+Em consulta ao sítio eletrônico do Tribunal Regional Federal da 2ª Região, verifiquei, do andamento da Execução Fiscal n. 5027056-50.2020.4.02.5101, que essa foi extinta do referido feito executivo, por meio de sentença prolatada em 31/10/2023.
+Houve, ali, o cancelamento das constrições efetivadas no patrimônio de todos os executados, o que abrange a ordem de indisponibilidade de bens, tema abordado no apelo nobre.
+Diante desse panorama, determinei a intimação do recorrente para que se manifestasse acerca da subsistência do interesse recursal, porém, o prazo transcorreu in albis (certidão de e-STJ fl. 334).
+Dito isso, mostra-se configurado o esvaziamento do objeto recursal, tendo em vista a extinção do feito executivo que originou o agravo de instrumento, cujo acórdão foi impugnado por meio do recurso especial inadmitido pela Corte regional, que ensejou a interposição do agravo ora em exame.
+Ante o exposto, JULGO PREJUDICADO o agravo em recurso especial (art. 34 , XI, do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
