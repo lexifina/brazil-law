@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Cidimar Charao Souza, pronunciado pela prática do delito descrito no art. 121, § 2º, IV, do Código Penal Penal (Processo n. 5010398-34.2015.8.21.0001, da 2ª Vara do Júri do Foro Central da comarca de Porto Alegre/RS).
+Aponta-se como autoridade coatora o Juízo de Direito de primeiro grau (fl. 3).
+Aqui, a defesa sustenta que a Magistrada fundamentou a pronúncia do imputado apenas no depoimento de testemunhas que teriam ouvido falar sobre a autoria dos fatos (de auditu), inexistindo, portanto, prova produzida em juízo que pudesse imputar a Cidimar como autor do fato (fl. 11).
+Requer, em liminar, a suspensão da sessão plenária marcada para o dia 13 de setembro de 2024, até o julgamento do mérito do presente writ. Ao final, busca a concessão da ordem a fim de despronunciar o paciente, tendo em vista a patente fragilidade do caderno probatório, que não possui o condão de levá-lo a julgamento pelo Tribunal do Júri (fl. 16).
+É o relatório.
+Este writ é inadmissível.
+Ora, se o ato coator é imputado a Juiz de primeira instância, manifesta é a incompetência desta Corte para o conhecimento do habeas corpus, nos termos do art. 105, I, c, da Constituição Federal.
+Além disso, conquanto a insurgência se refira à sentença de pronúncia, conforme narrado na petição inicial, o paciente já havia sido submetido a julgamento pelo Tribunal do Júri e condenado, tendo sido provida a apelação defensiva para anular esse julgamento. Contudo, não há, nestes autos, cópia do decisum proferido pela Corte a quo nesse recurso.
+Ocorre que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+De toda maneira, pelo que se observa do acórdão que julgou o recurso em sentido estrito (fls. 27/31), inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação desses óbices, inclusive porque, além de a via escolhida não permitir reexame aprofundado do conjunto fático-probatório da ação penal, os fundamentos consignados pela instância ordinária mostram-se idôneos a amparar a pronúncia, na linha da jurisprudência desta Casa.
+Na ocasião, afirmou o Tribunal de origem que, além dos depoimento da testemunha Alexandre Alves na fase policial e das testemunhas Gerson e Sandra que, em juízo, afirmaram que ouviram dizer que o réu teria sido o autor do crime (elementos que, na esteira do posicionamento que venho adotando, seriam insuficientes para a pronúncia), há o depoimento da testemunha Priscila que, em juízo, afirmou que reconheceu o réu como um dos agentes que matou a vítima. Disse que, após os disparos, saiu de sua casa para ver o que estava ocorrendo, tendo visto a vítima caída e o réu Cidimar com uma arma na mão (fl. 29).
+Assim, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA TRANSITADA EM JULGADO. NULIDADE. VIOLAÇÃO DO ART. 155 DO CPP. JUÍZO DE PRIMEIRA INSTÂNCIA APONTADO COMO AUTORIDADE COATORA. DESCABIMENTO DO WRIT NESTA CORTE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Petição inicial indeferida liminarmente.
