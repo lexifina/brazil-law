@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ACACIO GONCALVES DA COSTA JUNIOR em razão do acórdão proferido pelo Colégio Recursal dos Juizados Especiais do Estado de São Paulo assim ementado (fls. 89/91):
+AGRAVO DE INSTRUMENTO - Recurso Inominado - Deserção - Preparo recursal insuficiente e/ou complementado - Recurso do autor: Oportunidade de regularização dos autos prevista no CPC (art. 1.007, § 2º) - Possibilidade de complementação das custas e despesas processuais para acesso ao duplo grau de jurisdição - Desacolhimento das razões recursais: Inviabilidade da abertura de prazo para regularização do recolhimento - Preparo recursal que engloba todas as despesas processuais, inclusive aquelas dispensadas em primeiro grau de jurisdição (art. 54, parágrafo único, Lei nº 9099/95) - Ditames estabelecidos pelo art. 1.007, § 2º ou § 4º, do CPC não são compatíveis com o procedimento recursal previsto na Lei nº 9.099/95 Enunciado nº 168 do Fonaje - Precedente - RECURSO NÃO PROVIDO.
+Na petição que inaugura a presente demanda, a parte reclamante afirma que o acórdão reclamado é teratológico, pois "contrariou a jurisprudência desse Egrégio Superior Tribunal de Justiça, no REsp 488.159/ES" (fl. 12).
+Ainda, afirma que, "ao aplicar a norma inadequada em vez da norma correta, a Nobre Relatora cometeu o deslize judicante, sobretudo porque prejudica o reclamante de modo irreversível" (fl. 12).
+Conclui alegando que "a infidelidade do r. Acordão atacado para com as decisões do STJ, com os princípios jurídicos e jurisprudência aplicáveis à espécie, somado a inaplicabilidade da legislação compatível com a causa, demonstram que a 2ª Instância Especial não atuou positivamente como garantidora da ordem jurídica com a efetividade e excelência que todo cidadão vislumbra na prestação do serviço jurisdicional do estado" (fl. 19).
+Requer, liminarmente, que "seja concedida, de plano, a medida suspensiva a que se refere o artigo 2º, Resolução nº 12/2009, do STJ" (fl. 19).
+No mérito, pede "o provimento da presente RECLAMAÇÃO para reformar o r. Acórdão da 7ª Turma Recursal da Fazenda Pública do Estado de São Paulo, no Agravo de Instrumento nº 0110892-16.2024.8.26.9061" (fl. 20).
+É o relatório.
+Inicialmente, cumpre destacar que, conforme prevê o art. 105, I, f, da Constituição Federal, c/c os arts. 988 do Código de Processo Civil (CPC) e 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação da parte interessada a fim de preservar a competência do Superior Tribunal de Justiça (STJ) e garantir a autoridade de suas decisões, bem como para "garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência" (art. 988, IV, CPC).
+Na presente demanda, o reclamante afirma que o acórdão reclamado configura decisão judicial teratológica, pois entende que a deserção declarada pelo Tribunal de origem no processo judicial referido na inicial afrontou a jurisprudência do STJ, a legislação aplicável e os princípios jurídicos.
+Essa situação, contudo, não se enquadra em nenhuma das hipóteses elencadas para o cabimento da reclamação.
+Está claro que, a pretexto de garantir a autoridade de decisões proferidas por esta Corte Superior, a parte reclamante busca, na realidade, a reforma do julgado objeto da reclamação, provimento esse incompatível com a natureza do presente instrumento processual.
+A reclamação não se destina a desconstituir decisões das instâncias ordinárias que supostamente tenham sido proferidas em desconformidade com dispositivos processuais ou com a jurisprudência do STJ.
+Conforme entendimento do STJ, mostra-se inviável a utilização da reclamação constitucional como sucedâneo recursal, como se observa no caso dos autos, não sendo adequada à preservação da jurisprudência de Tribunal, mas sim a preservar a autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada (Rcl 37.168/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/8/2019, DJe de 2/9/2019).
+Na situação em apreço, não foi apontado o descumprimento de nenhum comando jurisdicional proferido pelo STJ no âmbito da relação jurídico-processual estabelecida entre as partes; foi cogitada suposta ofensa à jurisprudência desta Corte Superior, o que, como dito, não atrai o cabimento da reclamação.
+Nesse sentido já entendeu a Primeira Seção do STJ:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+ ..
+II - A reclamação, prevista no art. 988 do CPC, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte Superior ou, ainda, como sucedâneo recursal.
+III - Incabível o ajuizamento de reclamação para discutir eventual violação à norma regimental ocorrida em julgamento desta Corte, questão essa que deve ser impugnada pelas vias recursais próprias.
+ ..
+VI - Agravo Interno improvido.
+(AgInt na Rcl n. 40.845/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/12/2022, DJe de 20/12/2022, sem destaque no original.)
+PROCESSO CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO. RECLAMAÇÃO. GRATUIDADE JUDICIÁRIA. SUPOSTA OFENSA À SÚMULA DO STJ. DESCABIMENTO. RECURSO NÃO PROVIDO.
+ ..
+2. Nos termos da firme orientação desta Corte Superior, a reclamação não tem cabimento como sucedâneo recursal, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada.
+3. Na situação em apreço, a parte insurgente utiliza-se da reclamação para impugnar decisão que, a partir dos elementos probatórios da lide, indeferiu o pedido de concessão de gratuidade judiciária. Não foi apontado o descumprimento de qualquer comando jurisdicional exarado pelo STJ no âmbito da relação jurídico-processual estabelecida entre as partes, tendo-se cogitado de suposta ofensa à orientação firmada na Súmula 481/STJ. Tal situação não autoriza o ajuizamento da reclamação, nos termos da jurisprudência desta Corte.
+4. Pedido de reconsideração recebido como agravo interno, o qual se nega provimento.
+(PET na Rcl n. 41.746/RS, relator Ministro Og Fernandes, Primeira Seção, julgado em 24/11/2021, DJe de 1º/12/2021, sem destaque no original.)
+Por fim, é importante ressaltar que a Resolução STJ 12/2009, que regulava o cabimento de reclamação ao STJ em relação a processos em tramitação no âmbito dos Juizados Especiais, foi expressamente revogada pelo art. 4º da Emenda Regimental 22, de 16/3/2016.
+Ante o exposto, não conheço da reclamação.
+Publique-se. Intimem-se.
+EMENTA
