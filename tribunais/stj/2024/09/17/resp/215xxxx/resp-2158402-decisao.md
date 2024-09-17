@@ -1,0 +1,21 @@
+DECISÃO
+ARMANDO IRIO SOUSA ROCHA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão na Apelação Criminal n. 0000572-24.2020.8.10.0026.
+Nas razões recursais, a defesa aponta a violação dos arts. 59, 67 e 68, do Código Penal, ao argumento de que a atenuante da confissão espontânea deve ser compensada integralmente com a agravante da reincidência.
+Requer o provimento do recurso, a fim de que seja redimensionada a dosimetria.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 288-291).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o recorrente foi condenado à pena de 2 anos e 3 meses de reclusão mais 27 dias-multa, em regime semiaberto, pela prática do delito previsto no art. 155, § 4º, I, do Código Penal.
+O Tribunal de origem decidiu a controvérsia em acórdão assim ementado (fl. 176):
+PENAL PROCESSO PENAL. APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELO ROMPIMENTO. DOSIMETRIA. DE ACORDO COM OS DITAMES DO ARTIGO 59 DO ESTATUTO PENAL.
+1. Compensação confissão espontânea e reincidência. Não promoveu a compensação porque a agravante seria preponderante. Tal postura, está de acordo com a construção do Supremo Tribunal Federal, no sentido de que a teor do disposto no art. 67 do Estatuto Penal, a circunstância agravante da reincidência, como preponderante, prevalece sobre a confissão. Precedentes. (STF - HC: 96061 MS) e (RHC 141.519/SC. J. 31/08/2020).
+2. Apelo conhecido e desprovido.
+No julgamento dos EREsp n. 1.154.752/RS, DJe 4/9/2012, a Terceira Seção deste Superior Tribunal pacificou o entendimento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Também é certo que este Superior Tribunal havia consolidado o entendimento de que a compensação da confissão espontânea com a agravante genérica da reincidência deveria "atender a certos parâmetros, como a espécie, a natureza e os graus de reincidência, sob pena de violação aos princípios da individualização da pena e da proporcionalidade" (AgRg no REsp 1.356.527/DF, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 25/9/2013).
+Vários foram os precedentes que não permitiam a compensação entre a confissão e a reincidência, quando a recidiva do réu for específica e/ou numerosa, por evidenciar maior reprovabilidade da conduta.
+Contudo, em sessão realizada em 11/10/2017, a Terceira Seção desta Corte Superior, por ocasião do julgamento do HC n. 365.963/SP, Rel. Ministro Felix Fischer, DJe 23/11/2017, decidiu ser possível a integral compensação da atenuante da confissão espontânea com a reincidência específica.
+Assim, constato que não há óbice à compensação integral entre a confissão espontânea e a reincidência, ainda que específica, pois não foi indicado no acórdão impugnado a existência de múltiplas condenações configuradoras da referida agravante.
+Observados os critérios adotados pelas instâncias ordinárias, verifico que a pena-base do réu foi fixada no mínimo legal, em 2 anos de reclusão mais 24 dias-multa. Na segunda etapa, a pena foi elevada, pela preponderância da reincidência específica. Identificada a ilegalidade, realizo a compensação integral entre a agravante e a confissão espontânea, o que mantém a sanção inalterada, por força da Súmula n. 231 do STJ. Por fim, ausentes causas de aumento e de diminuição, torno a reprimenda definitivamente estabelecida em 2 anos de reclusão mais 24 dias-multa.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, dou parcial provimento ao recurso especial, a fim de reconhecer a ilegalidade apontada na dosimetria, redimensionando a pena para 2 anos de reclusão mais 24 dias-multa.
+Publique-se e intimem-se.
+EMENTA
