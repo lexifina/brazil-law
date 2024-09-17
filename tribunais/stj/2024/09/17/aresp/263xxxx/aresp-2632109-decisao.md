@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE MACEIÓ, contra decisão que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 27):
+EMENTA: TRIBUTÁRIO. EXECUÇÃO FISCAL. COBRANÇA DE IPTU E TAXA DE LIMPEZA PÚBLICA, COLETA DE LIXO E RESÍDUOS DOMICILIARES. SENTENÇA PELA PRESCRIÇÃO INTERCORRENTE DA AÇÃO. APELAÇÃO CÍVEL. TESE DE IMPOSSIBILIDADE DE DECRETAÇÃO DE OFÍCIO DA PRESCRIÇÃO INTERCORRENTE, SEM A PRÉVIA COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO ART. 40, DA LEI DE N.º 6.830/80. ACOLHIDA. ENTENDIMENTO, ENTRETANTO, QUE NÃO POSSUI O CONDÃO DE MODIFICAR A CONCLUSÃO ALCANÇADA PELO JUÍZO SINGULAR, NO SENTIDO DA EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO AR. 269, IV, DO CPC. DECURSO DE PRAZO SUPERIOR A CINCO ANOS ENTRE A DATA DA CONSTITUIÇÃO DO CRÉDITO E O DECISUM COMBATIDO, SEM QUE OCORRESSE QUALQUER DAS CAUSAS DE INTERRUPÇÃO DO LAPSO PRESCRICIONAL. RECONHECIMENTO DA INCIDÊNCIA DA PRESCRIÇÃO DIRETA QUE SE MOSTRA IMPERATIVO. ALEGAÇÃO DE INÉPCIA DO PODER JUDICIÁRIO. NÃO ACOLHIDA. DESÍDIA DA MUNICIPALIDADE. INAPLICABILIDADE DA SÚMULA 106/STJ. PRECEDENTES JURISPRUDENCIAIS. SENTENÇA MANTIDA. FUNDAMENTAÇÃO DIVERSA. RECURSO CONHECIDO E NÃO PROVIDO. REMESSA NECESSÁRIA DISPENSADA, EM RAZÃO DA ANÁLISE INTEGRAL DA MATÉRIA NO BOJO DO RECURSO. DECISÃO UNÂNIME.
+No especial obstaculizado (e-STJ fls. 40/50), o Município recorrente aponta violação do art. 174 do CTN, ao argumento de que "o acórdão vergastado criou um entendimento para aplicação do Recurso repetitivo 1.120.295/SP que trata da aplicação imediata da LC n. 118/ 2005 aos processos em andamentos onde não tenha havido o despacho citatório com o intuito de gerar a responsabilidade da ausência de citação no processo judicial ao ente municipal" (e-STJ fl. 43).
+Faz referência à Súmula 106 do STJ, acrescentando que teria promovido o "ajuizamento das execuções ficais em comento em tempo hábil; sendo certo que não foi culpa sua a demora na citação do executado, não podendo de forma alguma ser prejudicado por algo que não deu causa" (e-STJ fl. 46).
+As contrarrazões não foram oferecidas.
+O especial não foi admitido em face da Súmula 7 do STJ.
+A contraminuta não foi apresentada.
+Passo a decidir.
+O agravo em recurso especial não deve ser conhecido, pois deixa de atacar especificamente os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que o Município agravante, nas razões de agravo em recurso especial, deixa de abordar a questão atinente à incidência da Súmula 7 do STJ em relação ao tema prescrição, limitando-se a tecer considerações acerca do reconhecimento da nulidade da CDA, sem que tivesse oportunidade de se manifestar sobre a questão.
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto.
+Assim, o recurso não merece ser conhecido.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
