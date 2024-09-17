@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por F A MACHADO CIA LTDA, por ausência de prequestionamento do art. 30, § 2º, da Lei 3.820/1960, incidindo o óbice da Súmula 211/STJ, e, por analogia, das Súmulas 282/STF e 356/STF.
+Em sede de agravo, sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois a matéria controvertida foi devidamente prequestionada na origem, ressaltando, inclusive, que os artigos apontados como violados possuem a mesma redação, o que dispensa a expressa indicação do dispositivo violado, desde que matéria tenha sido debatida. Em apertada síntese, alegou violação ao direito de recorrer.
+Assevera, ainda, que "decisão recorrida sequer levou em consideração que restou prequestionado o art. 33 do Decreto nº 70.235/72, o qual também prevê a aplicação do prazo de 30 (trinta) dias para a interposição de recurso administrativo, o que, no presente caso, não oportunizado, e desta forma, mesmo que entenda o n. julgador que não houve o presquestionamento do art. 30 §2º da Lei nº 3.820/60, os demais foram expressamente presquestionados em sede de embargos de declaração" (fl. 1.057).
+Sem contraminuta.
+Parecer apresentado pelo Ministério Público Federal, às fls. 1.086-1.090, no sentido de que não houve negativa ao direito de recorrer, já que a ação foi proposta antes do término do procedimento administrativo, bem como falta de comando normativo dos artigos apontados como violados, o que atrai a aplicação da Súmula 284/STF.
+É o relatório.
+Passo a decidir.
+Preenchidos os pressupostos de admissibilidade, conheço do agravo e passo à análise do recurso especial.
+Em sede de recurso especial, F A MACHADO CIA LTDA alegou negativa de vigência ao art. 33 do Decreto 70.235/1972 e art. 30, § 2º, da Lei 3.820/19 60, assim como ocorrência afronta ao direito de recorrer por ausência de concessão de prazo para tanto, o que implica em nulidade do processo administrativo, ante a violação ao contraditório e ampla defesa.
+O acordão impugnado segue assim ementado (fl. 950):
+ADMINISTRATIVO. PROGRAMA FARMÁCIA POPULAR. PROCEDIMENTO DE AVERIGUAÇÃO. CONTRADITÓRIO E AMPLA DEFESA OBSERVADOS. RECURSO ADMINISTRATIVO. LEI Nº 9.784/99.
+1. Tendo sido devidamente oportunizada à autora a apresentação de a apresentação de defesa para fins de esclarecimento das irregularidade detectadas, não há falar em supressão do contraditório e da ampla defesa.
+2. A teor do art. 56, §1º, da Lei nº 9.784/99, das decisões administrativas cabe recurso em face de razões de legalidade e de mérito, o qual será dirigido à autoridade que proferiu a decisão que, se não a reconsiderar, o encaminhará à autoridade superior. No caso em tela, não há notícia de que tal direito tenha sido negado à apelante.
+3. Os documentos trazidos aos autos não afastam as irregularidades apontadas na auditoria realizada pelo Ministério da Saúde e tampouco abalam a presunção de legitimidade e legalidade própria dos atos administrativos.
+Conforme fundamentação do acórdão, verifico que a controvérsia foi dirimida abordando a tese da violação do direito de recorr er, in verbis:
+Quanto à possibilidade de recurso, a teor do art. 56, §1º, da Lei nº9.784/99, das decisões administrativas cabe recurso em face de razões de legalidade e de mérito, o qual será dirigido à autoridade que proferiu a decisão que, se não a reconsiderar, o encaminhará à autoridade superior. No caso em tela, não há notícia de que tal direito tenha sido negado à apelante. Vale observar, ademais, que a demanda originária foi proposta antes mesmo da finalização do procedimento de auditoria. No que diz respeito ao prazo para recurso, embora despiciendo ,diante das circunstâncias do caso concreto, se debruçar sobre a questão, cumpre anotar que a legislação invocada pela apelante - qual seja, o Decreto nº 70.235/72 - não se aplica ao caso em tela, uma vez que voltada a disciplinar o processo administrativo fiscal. (fl. 953)
+Desta forma, entendo pela necessidade de afastar o óbice relacionado ao prequestionamento.
+Ainda, com relação ao mérito recursal, observo que o Tribunal a quo enfrentou a matéria com base nas provas coligidas aos autos, concluindo que, no aresto impugnado, não houve afronta ao direito de recorrer.
+Logo, entendo que alterar conclusão do Tribunal a quo, acerca da violação ao direito de recorrer, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
