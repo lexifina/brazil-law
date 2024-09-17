@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pela WD EMPREENDIMENTOS E SERVIÇOS LTDA., com fundamento no art. 105, inciso III, alínea a, da Constituição, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, proferido nos autos do Agravo de Instrumento n. 0812973-69.2023.4.05.0000, com a seguinte ementa (fl. 87):
+CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ACÓRDÃO DO TCU. MULTA. TERMO A QUO. TRÂNSITO EM JULGADO DA DECISÃO CONDENATÓRIA. PRESCRIÇÃO NÃO CONSUMADA. IMPROVIMENTO.
+1. Cuida-se de Execução de Título Extrajudicial promovida pela União em face da empresa ora agravante, visando ao pagamento de multa no valor de R$ 76.399,13, referente a condenações em Acórdãos do Tribunal de Contas da União de nº 1254/2014, 9254/2015, 10393/2016 e 12759/2016 - TCU 2ª Câmara, em que, na decisão ora agravada, foi rejeitada a alegação de prescrição levantada em objeção de pré-executividade.
+2. Quanto aos débitos decorrentes de decisão do TCU, o Supremo Tribunal Federal no julgamento do RE636.886/AL (Tema 899), assentou a tese de que: "É prescritível a pretensão de ressarcimento ao erário fundada em decisão de Tribunal de Contas".
+3. Tratando-se de cobrança de multa aplicada pelo TCU no âmbito de Tomada de Contas, deve-se aplicar o prazo quinquenal, por analogia, aos arts. 1º do Decreto 20.910/1932 e 1º da Lei 9.873/1999, conforme entendimento firmado pelo Superior Tribunal de Justiça (REsp 1.480.350/RS, Rel. Ministro Benedito Gonçalves, DJe 12/4/2016; AgInt no REsp 1592001/RS, Rel. Ministro Francisco Falcão, DJe 18/12/2017).
+4. No presente caso, conforme se extrai dos autos originários, foi emitido Relatório de Fiscalização nº 619/2010 em 06/07/2010, no qual foram identificadas diversas irregularidades perpetradas em transferências voluntárias feitas pelo Ministério do Turismo (MTur) para a Associação Sergipana de Blocos de Trio (ASBT), ocorridas no período 2008-2009; a Tomada de Contas Especial (TC009.888/2011-0) foi instaurada com a notificação dos demandados em 18/04/2011; o acórdão condenatório do TCU foi emitido em 2014; o acórdão que negou o pedido de reconsideração prolatado em 2016; tendo sido certificado o trânsito em julgado da decisão em 19/06/2018, e ajuizada a presente execução em 2021.
+5. Nesse passo, o prazo prescricional para execução não é contado da data da prolação da primeira decisão condenatória do TCU, ocorrida em 2014, como defendido pela agravante, mas do seu trânsito em julgado, em 2018, momento em que se formou o título executivo, de modo que, proposta a execução em 2021, não houve o decurso do lustro prescricional.
+6. Agravo de Instrumento improvido. Agravo interno prejudicado.
+A recorrente apresentou a petição de fls. 192-196, por meio da qual: a) sustenta a regularidade da representação processual, tendo em vista a juntada da procuração outorgada ao advogado Adriano Dias Santos e o substabelecimento com reservas deste advogado para o causídico Rodrigo Soares da Silva, disponível à fl. 135 dos autos; b) afirma que, após a interposição deste recurso especial, "efetuou acordo com o recorrido, de sorte que o débito foi transacionado e a execução extinta, consoante sentença aqui anexada, o que induz à provável perda do objeto deste recurso" (fl. 192 - Grifos no original); e c) apresenta, em anexo, a sentença de extinção da execução, proferida nos termos do art. 924, inciso III, do Código de Processo Civil (fl. 194).
+É o relatório.
+Decido.
+O recurso foi direcionado a acórdão publicado na vigência do CPC/2015, de modo que incide, na espécie, o Enunciado Administrativo n. 3 do STJ, assim prescrito: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Dito isso, o apelo nobre não comporta conhecimento, diante da perda superveniente do interesse recursal.
+A pretensão recursal consiste na reforma do acórdão impugnado, para acolher a exceção de pré-executividade oposta na origem, com fundamento na ocorrência da prescrição (fl. 112). Todavia, após a interposição do recurso, a recorrente apresentou a petição de fls. 192-196, informando que, em 30/5/2024, o juízo de piso proferiu sentença de extinção da execução com julgamento de mérito, nos seguintes termos (fl. 194):
+A parte exequente requer a extinção do feito em face de transação realizada com o devedor para pagamento da dívida.
+Alcançado o objetivo da presente execução, traduzido pela satisfação da parte ativa, aplica-se a norma que prevê a extinção do processo:
+Art. 924. Extingue-se a execução quando:
+(..)
+III - o executado obtiver, por qualquer outro meio, a extinção total da dívida;
+Diante do exposto, extingo a presente execução, com espeque no art. 924, III, do Código de Processo Civil.
+Ficam as partes dispensadas do pagamento das custas finais, em atenção ao art. 90, § 3º do CPC.
+Liberar, de imediato, as restrições nos sistemas RENAJUD, CNIB e SERASAJUD.
+Devem as partes informar se pendem outras restrições sobre bens para fins de liberação. Em caso positivo, liberar.
+Tendo em vista a ausência de interesse recursal da executada, após o transcurso do prazo recursal para o exequente, certificar, dar baixa na Distribuição.
+Assim, diante do conteúdo decisório, verifica-se a perda superveniente do interesse recursal, a obstar o conhecimento do recurso. Com efeito, sobrevindo sentença de extinção do processo com resolução de mérito, "em face de transação realizada com o devedor para pagamento da dívida" (fl. 194), eventual reforma do acórdão recorrido não se revela mais necessária e apta para beneficiar a situação jurídica da recorrente.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. POSTERIOR EXTINÇÃO DA EXECUÇÃO FISCAL POR PAGAMENTO DA DÍVIDA. PRÁTICA DE ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ART. 1.000, PARÁGRAFO ÚNICO, DO CPC/2015. CARACTERIZAÇÃO.
+1. Tendo a ora agravante procedido à quitação da dívida objeto da execução fiscal - ato incompatível com a vontade de recorrer -, ressai nítida a perda superveniente do interesse recursal relativo ao agravo de instrumento interposto anteriormente em sede de exceção de pré-executividade.
+2. De fato, o posterior pagamento da dívida na execução fiscal demonstra aceitação tácita ao que decidido na exceção de pré-executividade - questão objeto do recurso especial epigrafado, o que, por conseguinte, impede o trânsito do apelo nobre ante a existência de fato impeditivo do direito de recorrer, requisito de admissibilidade intrínseco do recurso especial.
+3. Agravo interno não provido. (AgInt no REsp n. 1.565.569/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020.)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL EXTINTA PELO PAGAMENTO. RECURSO ESPECIAL INTERPOSTO PELOS EXECUTADOS. PERDA SUPERVENIENTE DO INTERESSE RECURSAL.
+Extinta a execução fiscal pelo pagamento do débito, deve ser reconhecida a perda do objeto do recurso especial interposto na exceção de pré-executividade.
+Embargos de declaração acolhidos com efeitos infringentes. (EDcl no REsp 1.429.281/SC, relator Ministro Ari Pargendler, Primeira Turma, julgado em 12/8/2014, DJe de 20/8/2014.)
+Ante o exposto, NÃO CONHEÇO do recurso especial, por perda superveniente do interesse recursal
+Sem honorári os recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias (fl. 194).
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SUPERVENIÊNCIA DE SENTENÇA DE EXTINÇÃO DA EXECUÇÃO NA ORIGEM. ART. 924, INCISO III, DO CPC. EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. RECURSO ESPECIAL NÃO CONHECIDO.
