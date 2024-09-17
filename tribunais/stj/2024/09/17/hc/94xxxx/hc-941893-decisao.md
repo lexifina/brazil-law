@@ -1,0 +1,15 @@
+DECISÃO
+NATAN ROBERTO MARIANO SILVA e NATIELE BEATRIZ DIAS DA SILVA alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2229344- 71.2024.8.26.0000.
+A defesa pretende, em síntese, o trancamento do Processo n. 1501626-14.2023.8.26.0603, em que os pacientes foram denunciados pela suposta prática dos crimes de tráfico de drogas e de associação para o narcotráfico. Para tanto, argumenta (fl. 5):
+ ..  no caso em tela, o mandado de busca e apreensão expedido pela 1ª Vara Judicial da Comarca de Guararapes/SP, perante os autos nº: 1500568- 64.2023.8.26.0218, tinha como delimitação a busca de objetos ligados ao crime de homicídio investigado.
+No entanto, durante o cumprimento do mandado, foram apreendidos itens que não possuíam relação direta com o crime investigado. Ora, é evidente que em nada se relaciona a um crime de homicídio: um caderno com anotações, substancias entorpecentes em quantidades ínfimas, um aparelho celular, uma quantia em dinheiro.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, para que fosse julgado prejudicado.
+Decido.
+Em informações prestadas a esta Corte Superior de Justiça, o Juízo de primeiro grau noticiou que, em 21/8/2024, sobreveio a prolação de sentença condenatória nos autos do processo objeto deste writ (fl. 263).
+Assim, o pedido de trancamento do processo em razão da aventada ilegalidade das buscas está prejudicado, haja vista que a instrução criminal trouxe aos autos novos fatos, os quais foram analisados em maior profundidade na sentença e ainda não foram examinados pelo Tribunal de Justiça em apelação, a qual está pendente de julgamento.
+Assim, neste caso, a questão relativa às buscas - com os contornos fáticos que lhe foram dados ao longo da instrução criminal e analisados em cognição exauriente na sentença - deve ser primeiro submetida à instância de origem em apelação - a qual, reitero, já foi interposta e está pendente de julgamento -, para que, depois, se necessário, seja novamente trazida a este Superior Tribunal.
+Faço lembrar que o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição - horizontal e vertical - permite que o Tribunal ad quem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes.
+Portanto, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse o recurso que devolve ao Tribunal o conhecimento amplo de toda a matéria versada nos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
+EMENTA
