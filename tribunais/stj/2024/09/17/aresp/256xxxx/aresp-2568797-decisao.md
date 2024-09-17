@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por LAIMA PARTICIPACOES - EM RECUPERACAO JUDICIAL contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, a qual não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional que desafia acórdão assim ementado (e-STJ fl. 30):
+AGRAVO DE INSTRUMENTO - Execução fiscal - Insurgência contra decisão que deferiu o pedido de arresto de bens da executada - Alegada impossibilidade de realização de medidas constritivas sem a prévia deliberação do Juízo recuperacional - Não cabimento - Recuperação judicial da empresa executada que em nada repercute no regular andamento da execução fiscal, resguardada a continuidade de suas atividades - Inteligência do art. 6º, § 7º-B, da Lei nº 11.101/05 - Precedentes desta 15ª Câmara de Direito Público - Decisão mantida - Recurso desprovido.
+Embargos de declaração rejeitados (e-STJ fls. 43/49).
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 1.022, I, do CPC/2015, aduzindo obscuridade e erro no julgado, porquanto inexistente nos autos pedido de bloqueio de ativos financeiros pela municipalidade.
+Refere contrariedade aos arts. 6º, § 7º-B, e 47 da Lei n. 11.101/2002, dizendo que, embora permitidos atos de constrição patrimonial em execução fiscal contra a sociedade em recuperação judicial, essas medidas devem ser previamente analisadas pelo juízo universal da recuperação judicial.
+Contrarrazões às e-STJ fls. 199/202.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa do art. 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 31/32):
+Inicialmente, não obstante as alegações da recorrente de que não teria sido deduzido pedido de bloqueio de ativos financeiros, observa-se que a exequente expressamente requereu o arresto de bens por meio de petição protocolada em 19/01/2023.
+No mais, o art. 6º, § 7º-B, da Lei nº 11.101/05 dispõe o seguinte:
+ ..
+De maneira que o Juízo a quo pode, a princípio, deferir a penhora de bens de titularidade da empresa agravante, resguarda, contudo, a continuidade das atividades da recorrente.
+Nesse sentido já se manifestou esta 15ª Câmara, inclusive, conforme ementas abaixo transcritas:
+ ..
+No julgamento dos embargos declaratórios, acrescentou (e-STJ fl. 48):
+Acrescente-se, ainda, ao contrário do que insiste a embargante, que há pedido expresso de arresto de bens deduzido pela exequente em 19/01/2023, às 11:26, subscrito pelo Dr. Paulo Sérgio Araújo Tavares, não havendo qualquer erro material no julgado.
+Por outro lado, nas razões do agravo de instrumento, não há qualquer pedido de aplicação do princípio da menor onerosidade, nos moldes do art. 805 do CPC, não havendo, assim, necessidade de manifestação da Turma Julgadora sobre esta questão.
+Quanto ao mais, a Lei n. 14.112/2020 veio a alterar os seguintes dispositivos da Lei n. 11.101/2005:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica: (Redação dada pela Lei nº 14.112, de 2020)
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei; (Incluído pela Lei nº 14.112, de 2020)
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência; (Incluído pela Lei nº 14.112, de 2020)
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência. (Incluído pela Lei nº 14.112, de 2020)
+ ..
+§ 7º As execuções de natureza fiscal não são suspensas pelo deferimento da recuperação judicial, ressalvada a concessão de parcelamento nos termos do Código Tributário Nacional e da legislação ordinária específica. (Revogado pela Lei nº 14.112, de 2020)
+ ..
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), observado o disposto no art. 805 do referido Código. (Incluído pela Lei nº 14.112, de 2020)
+Diante dessa nova disciplina legal, a Primeira Seção, nos autos do REsp 1.694.261/SP, cancelou a afetação do Tema 987 do STJ.
+Nessa mesma oportunidade, o Colegiado reafirmou a jurisprudência desta Corte Superior de que o deferimento do plano de recuperação judicial não suspende as execuções fiscais, ressalvando, todavia, que "cabe ao juízo da recuperação judicial verificar a viabilidade da constrição efetuada em sede de execução fiscal, observando as regras do pedido de cooperação jurisdicional (art. 69 do CPC/2015), podendo determinar eventual substituição, a fim de que não fique inviabilizado o plano de recuperação judicial".
+Aplicando esse entendimento ao caso dos autos, tem-se que os autos da execução fiscal deverão prosseguir, cabendo ao juízo da execução fiscal decidir sobre os pedidos de penhora e, caso deferidos, comunicar ao juízo da recuperação judicial para que esse se manifeste sobre a pertinência de manutenção das constrições realizadas, determinando a sua substituição, se necessário for.
+Estando, pois, o acórdão recorrido em conformidade com a orientação jurisprudencial desta Corte Superior, é o caso de aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO (art. 253, parágrafo único, II, "a" e "b", do RISTJ).
+Publique-se. Intimem-se.
+ EMENTA
