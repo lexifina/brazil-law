@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da ausência de violação dos arts. 489, § 1º, e 1.022 do CPC/2015 e da incidência da Súmula n. 83 do STJ (e-STJ fls. 770/771).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 672):
+Agravo de Instrumento. Execução de título extrajudicial. Citação dos avalistas. Ausência. Prosseguimento do feito. Prescrição intercorrente. Não ocorrência.
+Existindo mais de um devedor, a ausência de citação de um deles não impede o prosseguimento da execução contra os demais e a ausência de citação dos avalistas do título não obsta o prosseguimento da execução em face do devedor principal regularmente citado, por se tratarem de obrigações autônomas.
+Demonstrado que o credor sempre se mostrou diligente, atuando na tentativa de localização de bens penhoráveis, embora o longo trâmite processual, deve ser mantida a decisão agravada, não havendo se falar em prescrição intercorrente.
+Os embargos de declaração foram rejeitados (e-STJ fls. 716/723).
+Nas razões do recurso especial (e-STJ fls. 728/741), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 489, §1º, VI, 927, III, e 1.022, I, do CPC/2015 e 44 da Lei n. 10.931/2004.
+Sustenta que, "mesmo reiterando a necessidade de análise acerca da prescrição intercorrente com base na Lei n. 10.931/2004, o Tribunal de Justiça do Estado de Rondônia se recusa em analisar essa matéria" (e-STJ fl. 738).
+Argumenta que "a pretensão de execução da Cédula de Crédito Bancário se submete ao prazo de 3 (três) anos, previsto no art. 70 da Lei Uniforme de Genebra (decreto 57.663/66), uma vez que se aplicam, à esta modalidade de título, as normas do direito cambial, conforme prevê o art. 44 da Lei nº. 10.931/04" (e-STJ fl. 739).
+Pleiteia, ao final, que "seja reformado o acórdão recorrido e, por conseguinte, reconhecida a prescrição intercorrente, considerando que a execução é fundada em cédula de crédito bancária, com a aplicação do art. 44, da Lei n. 10.931/2004" (e-STJ fl. 741).
+No agravo (e-STJ fls. 776/787), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 776/787 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, bem como quando o fundamento adotado pela Corte local exclui ou afasta, direta ou indiretamente, por incompatibilidade ou prejudicialidade, as demais alegações suscitadas pela parte, revelando-se claro, coerente e suficiente para justificar a conclusão adotada.
+O acórdão discorreu de forma fundamentada sobre as razões pelas quais concluiu pela não ocorrência da prescrição intercorrente, nos seguintes termos (e-STJ fls. 671/672, destaquei):
+A prescrição intercorrente só se opera diante da inércia do titular do direito por prazo superior ao da prescrição do direito material vindicado, o que não se vislumbra na espécie.
+Não cabe falar em inércia do exequente, pois, comprovado nos autos as inúmeras diligências realizadas por ele na tentativa de localizar a parte executada e seus bens (Ids: 34469366 - Pág. 93; 34469368 - Pág. 3; 34469384 - Pág. 29; 34469388 - Pág. 39; 34469388 - Pág. 52; 56827641;82370046 ; 82370046; 83686702 - Pág. 8 e diversos outros constantes nos autos.).
+Como se vê do breve retrospecto dos andamentos processuais, em nenhum momento houve inércia do exequente, que requereu inúmeras diligências, embora infrutíferas. É evidente que apenas a ausência de bens penhoráveis do devedor não pode conduzir à extinção do feito, quando demonstrado que o credor está diligente na busca da satisfação do seu crédito.
+Logo, como mencionado pelo juízo a quo, a ausência de bens penhoráveis não ocorreu por razões imputáveis ao exequente, mas sim ao próprio executado, que não pagou, nem nomeou bens à penhora, manifestando-se nos autos apenas com o intuito de ver sua obrigação extinta pela prescrição intercorrente.
+ ..
+Assim, demonstrado que o credor sempre se mostrou diligente, atuando na tentativa de localização de bens penhoráveis, embora o longo trâmite processual, entendo que deva ser mantida a decisão agravada.
+Tratando-se de ação de execução fundada em cédulas de crédito bancário vencidas em 07/01/2008, 08/01/2008 e 10/03/2008, ajuizada no ano de 2009, e havendo o Tribunal de origem entendido que "não cabe falar em inércia do exequente, pois, comprovado nos autos as inúmeras diligências realizadas por ele na tentativa de localizar a parte executada e seus bens" (e-STJ fl. 671), ficou prejudicado o debate acerca do prazo de prescrição intercorrente aplicável no caso.
+Desse modo, não assiste razão à parte recorrente, visto que a Justiça local decidiu fundamentadamente a lide, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, não incorrendo em nenhum dos vícios previstos nos arts. 489, § 1º, e 1.022 do CPC/2015.
+Consequentemente, apesar da oposição de embargos declaratórios, a tese de incidência do art. 44 da Lei n. 10.931/2004 não foi debatida pela Corte estadual, carecendo, por conseguinte, do indispensável prequestionamento, o que atrai a incidência da Súmula n. 211/STJ.
+Registra-se que não há contradição em se afastar a alegada ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado, como é o caso dos autos. Nesse sentido: AgInt no AREsp n. 1.475.564/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/10/2020, DJe de 29/10/2020; e AgInt no REsp n. 1.756.231/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/10/2019, DJe de 23/10/2019.
+No mais, do que consta no recurso especial, depreende-se que a parte recorrente não apresenta impugnação quanto à inexistência da prescrição intercorrente em razão da ausência de inércia da parte exequente (ora agravada), fundamento suficiente para a manutenção do acórdão recorrido. Incide a Súmula n. 283 do STF.
+Por fim, não há falar em violação do art. 927, III, do CPC/2015, porquanto os acórdãos apontados como paradigma não foram proferidos em incidente de assunção de competência ou de resolução de demandas repetitivas, tampouco em julgamento de recursos extraordinário e especial repetitivos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
