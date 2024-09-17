@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado:
+RECURSO EM SENTIDO ESTRITO. TRÁFICO DE DROGAS. DENÚNCIA. REJEIÇÃO. ILEGALIDADE DE AÇÃO POLICIAL E DAS PROVAS DELA DECORRENTES. ELEMENTOS INFORMATIVOS APARENTEMENTE VÁLIDOS. REJEIÇÃO PREMATURA DA DENÚNCIA. VIABILIDADE DA AÇÃO PENAL.
+1. Existentes elementos que evidenciem a materialidade do fato com aparência de criminoso e indícios de autoria, e não havendo comprometimento dos elementos informativos colhidos na fase investigatória, considera-se prematura a rejeição da denúncia sob o fundamento de que houve ilegalidade da atuação dos policiais militares e ilicitude das provas, quando se revela mais prudente a produção de provas para o melhor esclarecimento dos fatos.
+RECURSO CONHECIDO E PROVIDO.
+Imputa-se ao paciente a prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/06).
+A defesa alega, em síntese: a) a nulidade da busca pessoal realizada pelos policiais sem que houvesse fundadas razões para a abordagem; b) que não é possível se verificar qual teria sido a atitude suspeita que teria motivado a ação policial.
+Ao final, requer a concessão da ordem para trancamento da ação penal.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+Veja-se:
+"O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício"
+(AgRg no HC n. 895.777/PR, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe de 8/4/2024).
+"De acordo com a jurisprudência do STJ, não é cabível o uso de habeas corpus como sucedâneo de revisão criminal, notadamente quando não há indicação de incidência de alguma das hipóteses previstas no art. 621 do CPP. Precedentes"
+(AgRg no HC n. 864.465/SC, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/3/2024, DJe de 20/3/2024).
+A jurisprudência do Supremo Tribunal Federal é no mesmo sentido:
+"Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma desta Corte, entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux) (..) A orientação jurisprudencial deste Tribunal é no sentido de que o "habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado" (HC 118.292-AgR, Rel. Min. Luiz Fux). 4. O caso atrai o entendimento desta Corte no sentido de que não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante outros Tribunais (HC 146.113-AgR, Rel. Min. Luiz Fux; e HC 110.420, Rel. Min. Luiz Fux). (..)
+(HC 225896 AgR, Relator Ministro Luís Roberto Barroso, Primeira Turma, julgado em 15/5/2023, DJe de 17/5/2023).
+O entendimento é de elevada importância, devendo ser utilizado para preservar a real utilidade e eficácia da ação constitucional, qual seja, a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, garantindo a necessária celeridade no seu julgamento.
+A concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+No que tange a alegação da defesa, assim, acertadamente, entendeu o Tribunal de origem (e-STJ fl. 18):
+Diante do apurado na fase pré-processual, com mera análise perfunctória dos fatos, ausente regular instrução probatória, não é possível atestar de pronto a ilegalidade da atuação dos policiais militares e ilicitude das provas. Não se pode consignar desrespeito à abordagem e subsequente busca pessoal e ingresso domiciliar (5º, XI, CF) sem o devido aprofundamento dos acontecimentos.
+Ressalta-se que, apesar dos policiais não especificarem no auto de prisão em flagrante qual foi a atitude suspeita do acusado, ainda não houve oportunidade, em Juízo, para tanto, sendo precoce, portanto, a extinção do feito sem a oitiva dos envolvidos.
+Pondero, no entanto, que não há razão para duvidar, de plano, da veracidade dos relatos dos policiais, em especial porque merecem fé até prova em contrário, assim como o de qualquer pessoa idônea.
+Mister consignar que este não é o momento processual adequado para o sopesamento das versões constantes no feito. Trata-se de matéria relacionada ao mérito da ação penal e não pode ser valorada nessa etapa inicial.
+Se, por um lado, o standard probatório necessário para a condenação é baseado em juízo de certeza, para o recebimento da denúncia basta a mera probabilidade. Nesse contexto, a rejeição só seria possível se constatado, de maneira inequívoca e a um primeiro olhar, a patente ilegalidade da abordagem policial e por consequência das provas derivadas dela, caracterizando manifesta ausência de justa causa, sem qualquer viabilidade aparente à pretensão acusatória, mostrando-se absolutamente temerária, todavia, não é o caso.
+Por conseguinte, ausentes as hipóteses previstas no artigo 395 do Código de Processo Penal, e presentes as exigências do artigo 41 do mesmo diploma legal, uma vez que a peça acusatória expôs o fato delituoso e suas circunstâncias de forma clara e completa, apresentando a qualificação do acusado, a classificação do tipo, bem como o rol de testemunhas, impõe-se o recebimento da inicial, com o retorno dos autos à origem para regular prosseguimento do feito.
+O Tribunal de origem entendeu válida a abordagem em que foram localizados os entorpecentes, constituindo os indícios de autoria e de materialidade a justificar a deflagração da ação penal, e relegando à instrução criminal o debate acerca da validade ou não do meio de obtenção da prova, razão porque entendo permanecerem hígidos os fundamentos.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+ EMENTA
