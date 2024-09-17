@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ com respaldo na alínea "a" do permissivo constitucional contra acórdão do Tribunal de Justiça daquela unidade da Federação assim ementado (e-STJ fl. 156):
+AGRAVO DE INSTRUMENTO- CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA - DECISÃO QUE AFASTOU A PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA - INSURGÊNCIA DO ENTE FEDERATIVO EXECUTADO - MATÉRIA DE ORDEM PÚBLICA PASSÍVEL DE SER CONHECIDA DE OFÍCIO - PRAZO PRESCRICIONAL QUINQUENAL (ARTIGO 1º DO DECRETO Nº 20.910/32) - SUSPENSÃO E INTERRUPÇÃO DO PRAZO PRESCRICIONAL PARA TRATATIVAS DE ACORDO - SITUAÇÃO QUE SE ENQUADRA NOS REQUISITOS ELENCADOS NA MODULAÇÃO DE EFEITOS NO RESP Nº 1.336.026/PE (TEMA 880 DO STJ) - TRÂNSITO EM JULGADO DA AÇÃO ATÉ 08.04.2016 E EXISTÊNCIA DE PEDIDO, PERANTE O EXECUTADO, DE FORNECIMENTO DE DOCUMENTOS OU FICHAS FINANCEIRAS PARA A ELABORAÇÃO DO CÁLCULO - INÉRCIA NÃO IMPUTÁVEL AOS EXEQUENTES, ORA AGRAVADOS - PRETENSÃO NÃO FULMINADA PELA PRESCRIÇÃO - PRECEDENTES DO STJ E DESTA C. 7ª CÂMARA CÍVEL - DECISÃO MANTIDA NA ÍNTEGRA - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram parcialmente acolhidos sem atribuição de efeitos infringentes (e-STJ fls. 229/242).
+No recurso especial, o Estado recorrente alega que a prescrição para o ajuizamento do pedido de cumprimento individual de sentença coletiva teria se consumado. Para isso, aponta violação dos arts. 927, III, do CPC/2015; art. 1º do Decreto 20.910/1932; 197 e 202 do Código Civil. Além disso, diz que o julgado recorrido não teria considerado a jurisprudência desta Corte acerca dos Temas n. 877/STJ e 880/STJ, bem como os julgamentos do EResp 1.169.126/RS e do REsp 1.340.444/RS.
+Contrarrazões às e-STJ fls. 263/337.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 440/442.
+Passo a decidir.
+O apelo raro não comporta conhecimento pois a seguinte fundamentação do julgado de origem deixou de ser objeto de impugnação nas razões de recurso especial (e-STJ fls. 164/165):
+Conforme já delineado, resta comprovado o reconhecimento expresso da existência de condição suspensiva, mas também entendo que houve a interrupção pelo reconhecimento inequívoco do direito das partes, quanto à existência de débito e à possibilidade de execução, bem como concordância quanto a necessidade da apresentação de documentos. Logo, causa suspensiva e interruptiva da prescrição, Isso porque, seguindo o posicionamento desta C. Câmara, no voto de relatoria do eminente Des. FRANCISCO LUIZ MACEDO JUNIOR, conforme disposto no art. 202, VI, do CC, "qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento, pelo devedor, do direito do credor, a prescrição interrompe 40.2023.8.16.0000)
+Ademais, prevalece o entendimento no STJ de que: "o reconhecimento pela Administração Pública do direito do interessado enseja a interrupção do prazo " (REsp 1.661.083/RS, Rel. Ministra prescricional, ou, se já consumado, sua renúncia REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 16/11 /2017).
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Vale acrescentar que também não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
