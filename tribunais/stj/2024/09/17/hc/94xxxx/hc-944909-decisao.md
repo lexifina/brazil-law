@@ -1,0 +1,83 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de RENATO ARAUJO DOS SANTOS em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. Falta disciplinar de natureza grave. Desobediência e incitação da população carcerária. Absolvição. Recurso do Ministério Público. Materialidade e autoria comprovadas. Relatos dos policiais penais coerentes e harmônicos. Falta caracterizada. Inocorrência de sanção coletiva na hipótese, pratica de falta em autoria coletiva. Recurso provido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois foi imposta sanção coletiva no reconhecimento da falta grave, tendo em vista que deixou de ser individualizada a conduta do paciente; assim como não há provas suficientes do seu envolvimento na infração disciplinar.
+Alega que a conduta do paciente não pode ser enquadrada como falta grave, por não estar prevista no rol taxativos dos arts. 50 a 52 da Lei de Execução Penal, sendo que, considerando os critérios de proporcionalidade, razoabilidade e lesividade, deve ser considerada falta de natureza média.
+Por fim, aduz, ainda, que a perda dos dias remidos deve se dar no mínimo legal, considerando que não há fundamento idôneo para que seja fixada na fração de 1/3.
+Requer, em suma, a absolvição da falta grave.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+E, no curso do cumprimento de sua sanção, constou no Comunicado de Evento 100/2023 que, em 31 de agosto de 2023, às 13h30min, na Penitenciária de Marabá Paulista, o agravado juntamente com outros 74 sentenciados, durante o período do banho de sol, após serem advertidos pelo policial penal que parassem de fazê-lo, incitaram a população carcerária com gritos e disseram que era o aniversário de uma facção criminosa e se recusaram a retornar às suas celas (fls. 19/22).
+ ..
+Conforme depoimentos coesos dos agentes penitenciários, não restam dúvidas de que o agravante praticou atos de indisciplina, pois o sentenciado e outros reclusos, durante o banho de sol comemoram o aniversário de uma facção criminosa e se recusaram a retornarem as celas e incitaram a população carcerária, colocando em risco o regime disciplinar daquela unidade prisional.
+A prática de falta grave resultou bem caracterizada, tendo sido apurada em procedimento administrativo absolutamente regular em que o sentenciado teve assegurado amplo direito de defesa.
+Ademais, convém pontuar que os depoimentos dos agentes penitenciários consistem em provas consistentes e robustas para a apuração de faltas graves, posto que os servidores presenciaram o ocorrido in loco e gozam de fé pública, conforme entendimento jurisprudencial:
+ ..
+De outro lado, não se trata de imposição de sanção coletiva (artigo 45, § terceiro, da LEP), mas autoria coletiva já que 75 (setenta e cinco) sentenciados foram identificados por desobedecerem a ordem emanada e permaneceram no pátio.
+ ..
+Dessa forma, pelos elementos probatórios, constata-se que o agravado praticou a falta disciplinar de natureza grave prevista no artigo 50, incisos I e VI ambos da Lei de Execução Penal.
+ ..
+Diante do reconhecimento da falta disciplinar de natureza grave cometida pelo sentenciado, impõe-se, em consequência, a perda dos dias eventualmente remidos, com fulcro no artigo 127, da LEP, bem como o reinício do lapso temporal para fins de progressão de regime prisional, em conformidade como disposto na Súmula 534 do STJ.
+Fixa-se em 1/6 (um sexto) o índice de perda dos dias eventualmente remidos, compatível com a natureza e as circunstâncias da infração disciplinar cometida (fls. 42-46, grifo meu ).
+De acordo com a jurisprudência desta Corte, não há sanção coletiva, vedada no ordenamento jurídico (art. 45, § 3º, da LEP), mas sim falta disciplinar de autoria coletiva quando são identificados os autores da infração e individualizada a conduta do apenado.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE DE AUTORIA COLETIVA. SUBVERSÃO À ORDEM E À DISCIPLINA. SANCIONAMENTO COLETIVO. INOCORRÊNCIA. CONDUTAS INDIVIDUALIZADAS. LIDERANÇA NEGATIVA. CADA APENADO ENVOLVIDO EM SEU RESPECTIVO PAVILHÃO. REIVINDICAÇÕES DESCABIDAS. PROVAS DAS CONDUTAS COLHIDAS EM REGULAR PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD. CONTRADITÓRIO E AMPLA DEFESA GARANTIDOS. DEPOIMENTOS DOS AGENTES PRISIONAIS. VALIDADE. REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+III - Com efeito, não se pode confundir sancionamento coletivo, este sim vedado pelo ordenamento jurídico, por caracterizar verdadeira responsabilização objetiva, com autoria coletiva, a qual se configura quando apurada a infração e reconhecida a responsabilidade autoral de vários reeducandos (no caso), em razão de circunstâncias concretas, acarretando a punição individualizada dos envolvidos.
+IV - No caso concreto, não há falar em sanção coletiva, na medida em que a conduta do ora agravante, embora tenha participado conjuntamente com outros 11 (onze) apenados, foi individualizada.
+Vale destacar que, segundo os autos, cada um dos apenados envolvidos na infração, inclusive o próprio agravante, realizou os atos individualmente em seu respectivo pavilhão penitenciário. Segundo as informações prestadas, sobre o direito de defesa, há de se destacar que houve regular Processo Administrativo Disciplinar - PAD e que o paciente foi ouvido na presença de patrono.
+V - De resto, o eventual acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via estreita do habeas corpus e do seu recurso ordinário.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 791.300/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 15.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE HOMOLOGADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO. NULIDADE. INSUFICIÊNCIA DE PROVAS. FALTA COLETIVA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. Esta Corte possui orientação de ser desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado ao reeducando o contraditório e a ampla defesa, inclusive com a participação da defesa técnica.
+2. Não se configura sanção coletiva se o executado é descrito pelos agentes penitenciários presentes no momento do evento como um dos participantes da falta e tem sua conduta devidamente individualizada.
+3. Alterar a conclusão a que chegaram as instâncias ordinárias acerca da autoria e da materialidade da infração disciplinar demandaria o reexame de matéria probatória, o que é inviável na estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 782.937/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.)
+De igual sorte: AgRg no HC n. 820.672/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29.5.2023; AgRg no HC n. 842.930/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 5.10.2023; AgRg no HC n. 782.937/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.
+Nessa linha, o acórdão impugnado está de acordo com a jurisprudência do STJ, sendo que, conforme também consta dos precedentes acima citados, para modificar a decisão de origem seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Segundo entendimento firmado nessa Corte, a não obediência de ordens recebidas dos agentes da unidade prisional constitui falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DESOBEDIÊNCIA. FALTA GRAVE. JURISPRUDÊNCIA PACÍFICA DESTA CORTE. JULGAMENTO CORRETO E INDIVIDUALIZADO. RECURSO IMPROVIDO.
+1- Este C. Tribunal entende, de forma unânime e pacífica, que a desobediência constitui uma infração de natureza grave prevista no art. 39, inciso II, c/c art. 50, VI, da LEP. Precedente: AgRg no HC 679.421/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/10/2021, DJe 08/10/2021.
+2- Segundo a LEP: Art. 39. Constituem deveres do condenado:  ..  II - obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se; Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:  ..  VI - inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei.
+3- O fato foi julgado de forma correta, respeitando as garantias e direitos, em respeito ao princípio do devido processo legal, porque foi devidamente provado pelo depoimento dos agentes de segurança, que se reveste de presunção de veracidade, bem como não houve cerceamento de defesa, não havendo que falar, assim, em ofensa à individualização da conduta. O que ocorre é que, muitas vezes, as condutas de vários detentos são iguais (de negar a ordem recebida), não significando dizer que elas não foram individualizadas, uma vez que todos foram julgados separadamente.
+4-  ..  Não se trata de hipótese de sanção coletiva, que ocorreria se todos os reeducandos do estabelecimento prisional fossem responsabilizados, não sendo este o caso dos autos. Não se trata de aplicação de sanção coletiva, mas sim de infração de autoria coletiva, uma vez que foi apurada a falta disciplinar, com a responsabilização de inúmeros apenados, gerando punição individualizada de todos os envolvidos.  ..  (HC 673.816/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 26/10/2021, DJe 28/10/2021).
+5-  ..  a análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  ..  (HC n. 259.028/SP, Quinta Turma, Rel. Min. LAURITA VAZ, DJe de 7/3/2014).  ..  (AgRg no HC 550.207/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020).
+6- Agravo Regimental não provido. (AgRg no HC n. 728.505/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25.3.2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. EXAME TOXICOLÓGICO. RECUSA. DESCUMPRIMENTO DE ORDENS. REGULAMENTO DISCIPLINAR DA UNIDADE PRISIONAL. APAC. AGRAVO DESPROVIDO.
+1. O descumprimento pelo reeducando de ordens emanadas por agentes da unidade prisional configura infração disciplinar de natureza grave, nos termos do art. 50, inciso VI, da LEP. Precedentes do STJ.
+2. A recusa do paciente em realizar exame toxicológico na unidade prisional da APAC contraria norma disciplinar interna, com a qual o reeducando anuiu, e configura falta grave por desobediência à ordens da administração da unidade.
+2. Agravo regimental desprovido. (AgRg no HC n. 801.580/MG, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 31.5.2023.)
+De igual sorte: AgRg no HC n. 783.146/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 10.3.2023; AgRg no HC n. 764.761/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 14.12.2022; AgRg no AREsp n. 1.897.536/MG, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 8.8.2022.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Ademais, a reforma do julgado, a fim de absolver ou desclassificar a falta disciplinar, exigiria o reexame do conjunto fático-probatório dos autos, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023; AgRg no HC n. 748.272/MS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.2.2023.
+Quanto ao mais, está devidamente embasada a perda dos dias remidos no percentual de 1/6, considerando ter sido ressaltada na decisão de origem a natureza da infração e as circunstâncias da conduta praticada pelo apenado.
+Inclusive, o entendimento firmado na jurisprudência do STJ é de que a gravidade do ato de indisciplina é fundamento idôneo para a perda dos dias remidos em seu percentual máximo de 1/3.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. FUNDAMENTAÇÃO CONCRETA. A GRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O acórdão do Tribunal a quo está conforme a jurisprudência deste Superior Tribunal, de que a natureza especialmente grave do ato de indisciplina é fundamento idôneo para a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal).
+4. Agravo regimental não provido. (AgRg no HC n. 820.590/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. CRIME COMETIDO NO CURSO DA EXECUÇÃO. CONSECTÁRIOS LEGAIS. PERDA DOS DIAS REMIDOS. PERCENTUAL MÁXIMO DE 1/3. FUNDAMENTAÇÃO IDÔNEA. NATUREZA ESPECIALMENTE GRAVE DA CONDUTA. PRECEDENTES. NO MAIS, REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+II - A jurisprudência deste Superior Tribunal de Justiça assentou ser idônea e proporcional a determinação judicial de perda dos dias remidos no percentual máximo de 1/3 ao apenado que comete falta disciplinar, cuja conduta possui natureza especialmente grave.
+Precedente.
+III - De resto, o eventual acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via estreita do habeas corpus e do seu recurso ordinário. Precedentes.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 812.026/SC, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 28.9.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE NOVO CRIME. FALTA GRAVE. PERDA DOS DIAS REMIDOS NO PERCENTUAL MÁXIMO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão do Tribunal a quo está conforme a jurisprudência deste Superior Tribunal, de que a natureza especialmente grave do ato de indisciplina, consistente na prática de fato previsto como crime doloso durante a execução das penas, é fundamento idôneo para a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal).
+2. Agravo regimental não provido. (AgRg no HC n. 799.361/SC, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 19.4.2023.)
+De igual sorte: AgRg no HC n. 807.610/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28.3.2023; AgRg no HC n. 772.768/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 7.11.2022; AgRg no HC n. 689.147/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 4.4.2022.
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
