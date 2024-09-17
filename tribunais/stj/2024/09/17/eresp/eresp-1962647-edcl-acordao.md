@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 11/09/2024 a 17/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria, Paulo Sérgio Domingues e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. APONTADA VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. ACÓRDÃO EMBARGADO QUE ENTENDEU PELA INEXISTÊNCIA DOS VÍCIOS APONTADOS. CONTROVÉRSIAS RESOLVIDAS DE ACORDO COM CADA CASO. AUSÊNCIA DE DISSÍDIO DE TESES JURÍDICAS. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO DESPROVIDO. REITERAÇÃO DAS ALEGAÇÕES, SOB O ARGUMENTO DE HAVER OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Alegada omissão do acórdão embargado, que ratificou o indeferimento liminar dos embargos de divergência, por ausência de discrepância de teses jurídicas. Insistência dos embargantes em discutir, nos embargos de divergência, suposta omissão do Tribunal a quo, não reconhecida pelo acórdão da Primeira Turma, que ainda erigiu o óbice da Súmula n. 7 para o deslinde da controvérsia.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se  de  embargos de declaração oposto  por  ADEL  BARRETO  E  OUTROS,  contra  acórdão  desta  Primeira seção , por mim relatado, e ementado nestes termos:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. APONTADA VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. ACÓRDÃO EMBARGADO QUE ENTENDEU PELA INEXISTÊNCIA DOS VÍCIOS APONTADOS. CONTROVÉRSIAS RESOLVIDAS DE ACORDO COM CADA CASO. AUSÊNCIA DE DISSÍDIO DE TESES JURÍDICAS. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. O  Superior  Tribunal  de  Justiça  tem  entendimento  uníssono  no  sentido  da  inadequação  de  se  confrontar  julgados  que  interpretam  a  aplicação  do  art.  1.022  e  do  art.  489  do  Código  de  Processo  Civil,  na  medida  em  que  a  aferição  da  ausência  ou  não  dos  vícios  processuais  que  ensejariam  o  acolhimento  do  recurso  está  intrinsecamente  vinculada  às  peculiaridades  fático-processuais  de  cada  caso,  a  obstar  a  admissibilidade  dos  embargos  de  divergência  -  recurso  de  fundamentação  vinculada  e  de  cognição  restrita,  que  não  se  presta  à  revisão  do  acerto  ou  desacerto  do  acórdão  embargado  -,  porquanto  não  evidenciada  divergência  de  teses  jurídicas,  nos  termos  do  art.  266,  §  1.º,  do  RISTJ.
+2. Agravo interno desprovido.
+Alegam os embargantes omissão, ao argumento de que, "havendo OMISSÃO DA CORTE LOCAL QUANTO AO EXAME DE MATÉRIA DE ORDEM PÚBLICA SUSCITADA EM EMBARGOS DE DECLARAÇÃO, resta caracterizada a violação aos artigos 1.022 e 489/CPC, cuja infringência pode ser aferida pelo Eg. STJ no âmbito dos EMBARGOS DE DIVERGÊNCIA" (fl. 4199).
+Pedem o acolhimento dos embargos de declaração para "que lhes seja aplicado o mesmo entendimento do ACÓRDÃO PARADIGMA (RESP n.1.252.842/SC, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 1406.2011) e dos Embargos de Divergência no RESP 146.473-ES" (fl. 4200).
+Sem contrarrazões (fl. 4210).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. APONTADA VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC. ACÓRDÃO EMBARGADO QUE ENTENDEU PELA INEXISTÊNCIA DOS VÍCIOS APONTADOS. CONTROVÉRSIAS RESOLVIDAS DE ACORDO COM CADA CASO. AUSÊNCIA DE DISSÍDIO DE TESES JURÍDICAS. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO DESPROVIDO. REITERAÇÃO DAS ALEGAÇÕES, SOB O ARGUMENTO DE HAVER OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Alegada omissão do acórdão embargado, que ratificou o indeferimento liminar dos embargos de divergência, por ausência de discrepância de teses jurídicas. Insistência dos embargantes em discutir, nos embargos de divergência, suposta omissão do Tribunal a quo, não reconhecida pelo acórdão da Primeira Turma, que ainda erigiu o óbice da Súmula n. 7 para o deslinde da controvérsia.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Não há omissão alguma na decisão embargada. O que se evidencia é o mero inconformismo da parte com a decisão que lhe foi desfavorável, o que, evidentemente, não se coaduna com a via integrativa dos embargos de declaração, que não se presta a simples rejulgamento da matéria decidida.
+O acórdão embargado consignou de forma clara a inviabilidade de se discutir a suposta omissão do Tribunal a quo nos embargos de divergência porque (fls. 4189-4190):
+ ..  o  acórdão  embargado,  após  examinar  os  fundamentos  do  acórdão  recorrido,  concluiu  não  ter  havido  omissão  na  análise  e  resolução  da  controvérsia,  além  de  erigir  o  óbice  da  Súmula  n.  7  do  STJ  para,  com  o  objetivo  de  aferir  eventual  omissão,  rever  a  conclusão  das  instâncias  ordinárias  acerca  da  inexistência  de  valores  a  serem  executados.
+Os  subsequentes  embargos  de  divergência  foram  liminarmente  indeferidos  pela  Presidência  desta  Corte,  consignando,  com  arrimo  em  farta  jurisprudência  do  STJ,  que  (fl.  4121):
+ ..  o  recurso  de  embargos  de  divergência  versa  em  torno  da  violação  aos  arts.  489  e  1.022,  ambos  do  Código  de  Processo  Civil  de  2015,  o  que,  nos  termos  da  jurisprudência  pacificada  desta  Corte,  é  incabível  em  razão  das  situações  fáticos-processuais  diferenciadas  e  da  necessidade  de  análise  individualizada  de  cada  caso  concreto.
+De fato,  a  este  Superior  Tribunal  de  Justiça  tem  entendimento  uníssono  no  sentido  da  inadequação  de  se  confrontar  julgados  que  interpretam  a  aplicação  do  art.  1.022  e  do  art.  489  do  Código  de  Processo  Civil,  na  medida  em  que  a  aferição  da  ausência  ou  não  dos  vícios  processuais  que  ensejariam  o  acolhimento  do  recurso  está  intrinsecamente  vinculada  às  peculiaridades  fático-processuais  de  cada  caso,  a  obstar  a  admissibilidade  dos  embargos  de  divergência  -  recurso  de  fundamentação  vinculada  e  de  cognição  restrita,  que  não  se  presta  à  revisão  do  acerto  ou  desacerto  do  acórdão  embargado  -,  porquanto  não  evidenciada  divergência  de  teses  jurídicas,  nos  termos  do  art.  266,  §  1.º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Com efeito, na esteira da jurisprudência desta Corte:
+ ..  a constatação de ter ou não havido omissão em determinado julgado demanda a análise particularizada das peculiaridades de cada caso, o que inviabiliza, de regra, o reexame da questão em embargos de divergência, na medida em que a solução da controvérsia se dá casuisticamente, sem dissídio de teses jurídicas na aplicação da norma processual.
+ ..  Nesse contexto, se não há discrepância de teses jurídicas, não se admite os embargos de divergência para mera reanálise do quadro fático-processual, para simples rejulgamento do recurso especial, com se a Corte Especial fosse uma instância revisora dos julgados dos demais órgãos fracionários do Superior Tribunal de Justiça.
+(AgInt nos EAREsp n. 1.902.364/SC, relatora Ministra Laurita Vaz, Corte Especial, julgado em 22/8/2023, DJe de 30/8/2023.)
+ ..
+Portanto, não há dúvida de que inexiste dissídio de teses jurídicas.
+Inexiste, portanto, omissão a ser sanada. E, como é sabido e consabido, a pretensão de rediscutir questões que já foram objeto do devido exame e decisão, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.205.946/SP, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 12/11/2019, DJe de 20/11/2019.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NÃO CONHECIDO ANTE A INCIDÊNCIA DA SÚMULA 182 DO STJ. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. No aresto embargado foi explicitamente assinalado que o Embargante, nas razões do agravo interno, deixou de se insurgir, específica e concretamente, contra os fundamentos do decisum por meio do qual foi conhecido o conflito, para declarar competente o juízo suscitado, atraindo, dessa forma, a incidência da Súmula 182 do STJ.
+3. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC n. 198.619/RS, relator Ministro Teodoro Silva Santos, Primeira Seção, julgado em 18/6/2024, DJe de 20/6/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
