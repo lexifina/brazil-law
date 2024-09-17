@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 665/680) opostos à decisão desta relatoria que negou provimento ao recurso especial (e-STJ fls. 659/661).
+A parte embargante sustenta, em suma, a existência de omissão na decisão embargada, aduzindo não ter sido considerada a alegação de que, no caso concreto, a garantia hipotecária é posterior à celebração do compromisso de compra e venda.
+Impugnação apresentada às fls. 684/686 (e-STJ).
+É o relatório.
+Decido.
+Assiste razão à parte embargante quanto à omissão apontada, de sorte que ACOLHO os embargos de declaração e TORNO SEM EFEITO a decisão proferida às fls. 659/661 (e-STJ).
+Superada a questão, passo ao reexame do recurso especial de fls. 527/551 (e-STJ), fundamentado no art. 105, III, "a" e "c", da CF e interposto contra acórdão assim ementado (e-STJ fl. 514):
+EMBARGOS DE TERCEIRO. AÇÃO AJUIZADA POR SOCIEDADE EMPRESÁRIA QUE CELEBROU COMPROMISSO DE COMPRA E VENDA DE TRÊS SALAS COMERCIAIS, POSTERIORMENTE PENHORADAS EM EXECUÇÃO MOVIDA PELO BANCO DO BRASIL EM FACE DA INCORPORADORA. SENTENÇA QUE JULGOU PROCEDENTES OS EMBARGOS DE TERCEIRO, DESCONSIDERANDO A HIPOTECA CONSTITUÍDA EM FAVOR DA INSTITUIÇÃO FINANCEIRA, NA ESTEIRA DA SÚMULA N. 308 DO C. STJ. DIREITO DO CREDOR HIPOTECÁRIO, CONTUDO, QUE NÃO PODE SER IGNORADO. AUTORA QUE, AO CELEBRAR O COMPROMISSO DE COMPRA E VENDA, ANUIU EXPRESSAMENTE COM A CONSTITUIÇÃO DO GRAVAME. ENUNCIADO SUMULAR, ADEMAIS, INAPLICÁVEL AO CASO. RELATIVIZAÇÃO DA HIPOTECA CONSIGNADA NO ENUNCIADO 308 DA SÚMULA DO STJ QUE TEM POR FIM RESGUARDAR O DIREITO À MORADIA. CASO DOS AUTOS QUE TRATA DE IMÓVEIS PARA FINS COMERCIAIS, E NÃO RESIDENCIAIS, DEVENDO A HIPOTECA PERMANECER INCÓLUME. PRECEDENTES. SENTENÇA REFORMADA. RECURSO PROVIDO.
+Os embargos de declaração de fls. 609/619 (e-STJ) foram parcialmente acolhidos, sem efeito modificativo, nos termos da seguinte ementa (e-STJ fl. 621):
+EMBARGOS DE DECLARAÇÃO. JULGAMENTO REALIZADO NA FORMA VIRTUAL. NULIDADE. INOCORRÊNCIA. PREJUÍZO À EMBARGANTE NÃO VERIFICADO. CONTRADIÇÃO. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITO MODIFICATIVO NO RESULTADO DO JULGAMENTO.
+Em suas razões (e-STJ fls. 527/551), a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 113, 187 e 422 do CC e 927, IV, do CPC/2015, configurada pela "manutenção de um gravame hipotecário (..) ao qual o adquirente de boa-fé (ora Recorrente) (..) não deu causa e não anuiu, sobre um imóvel que ele (..) adquiriu e pagou integralmente o preço" (e-STJ fl. 538).
+Aduz a insubsistência da garantia hipotecária quando firmada posteriormente à celebração do compromisso de compra e venda e pugna pela incidência da Súmula n. 308 do STJ, independentemente da natureza comercial dos imóveis sobre os quais recai o gravame.
+Contrarrazões apresentadas às fls. 633/646 (e-STJ).
+O recurso foi admitido na origem.
+Relatado o especial, passo a decidi-lo.
+A jurisprudência do STJ é firme no sentido de que a Súmula n. 308 do STJ incide exclusivamente nas hipotecas sobre imóveis residenciais, não se aplicando aos contratos de aquisição de imóveis comerciais (AgInt no AREsp n. 2.178.177/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022; AgRg no AREsp n. 330.349/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/9/2019, DJe de 2/10/2019).
+Todavia, esta Corte Superior firmou entendimento segundo o qual "a hipoteca outorgada pela construtora ao agente financiador em data posterior à celebração da promessa de compra e venda não tem eficácia em relação ao promissário-comprador" (AgInt no REsp n. 1.704.440/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/9/2019, DJe de 21/10/2019 - destaquei).
+Logo, tratando-se de imóvel comercial, "é válida a hipoteca outorgada pela construtora ao agente financiador quando firmada anteriormente à celebração da promessa de compra e venda de imóvel comercial" (AgInt no REsp n. 1.702.163/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/10/2019, DJe de 6/11/2019 - sublinhei).
+No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL COMERCIAL. HIPOTECA FIRMADA ENTRE A CONSTRUTORA E O AGENTE FINANCEIRO. VALIDADE. INAPLICABILIDADE DA SÚMULA 308/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante entendimento desta Corte Superior, não se aplica a Súmula 308/STJ às hipóteses envolvendo contratos de aquisição de imóveis comerciais. Precedentes.
+2. Ademais, na hipótese, em que pese a boa-fé da agravante ao adquirir a unidade comercial, tal não é bastante para afastar a hipoteca firmada e previamente registrada no registro imobiliário, como garantia de financiamento, pois o compromisso de compra e venda foi celebrado posteriormente ao registro da oneração do imóvel com a hipoteca em favor do agente financeiro.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.875.125/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/10/2021, DJe de 26/11/2021 - destaquei.)
+No caso ora em análise, os provimentos jurisdicionais anteriores não esclarecem se a hipoteca outorgada pela construtora ao agente financiador é posterior ou anterior à celebração do compromisso de compra e venda, o que, considerando a inviabilidade da análise fático-probatória nesta via, justifica o retorno dos autos à origem para reexame da questão à luz da jurisprudência deste Tribunal Superior.
+Ante o exposto, ACOLHO os embargos de declaração com efeitos infringentes, de modo a DAR PARCIAL PROVIMENTO ao recurso especial, para determinar a devolução dos autos ao Tribunal de origem, a fim de que proceda a novo exame da validade da garantia hipotecária no caso concreto, de acordo com os parâmetros estabelecidos pela jurisprudência do STJ.
+Publique-se e intimem-se.
+EMENTA
