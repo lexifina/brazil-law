@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso interposto por PAULO RICARDO VERAS MATIAS, contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no HC n. 0735573-57.2021.8.07.0000 , lavrado nos termos desta ementa (fl. 200):
+HABEAS CORPUS. DESIGNAÇÃO DE AUDIÊNCIA HÍBRIDA PELO JUÍZO - PRESENCIAL E POR MEIO DE VIDEOCONFÊNCIA. POSSIBILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO, ILEGALIDADE OU CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. A designação de audiência de forma híbrida, nos moldes estabelecidos pelo Juízo de origem, ou seja, presencialmente para as testemunhas e a vítima, em face das dificuldades de acesso apontadas pelo Juízo, e por videoconferência para o réu, mostra-se viável e não ofende aos postulados do devido processo legal, não se vislumbrando qualquer impedimento para sua realização na forma de videoconferência, já que equiparada à audiência presencial.
+2. Habeas corpus conhecido. Ordem denegada.
+O recorrente sustenta, em síntese, a ocorrência de violação dos princípios da ampla defesa e contraditório, ante a designação de audiência de instrução e julgamento de modo semipresencial, estando presentes a vítima, testemunhas, promotor e o defensor, e somente o réu por videoconferência.
+Alega que inexiste previsão legal para tal tipo de audiência e que, no âmbito do TJDFT, as audiências e sessões presenciais estão suspensas em razão da ordem administrativa emanada da Portaria Conjunta nº 25, de 30/03/2021 a qual estabelece que a possibilidade de realização de audiências presenciais é excepcional e deve ser precedida de decisão fundamentada no caso concreto  .. . Contudo, o e. magistrado da Vara Criminal de Sobradinho determinou, de maneira generalizada, que todas as audiências voltarão a ser realizadas de forma presencial ou híbrida (fls. 229/244).
+Requer o provimento do recurso para que o magistrado requisite a escolta do acusado ou, subsidiariamente, redesigne a audiência para data em que seja possível sua participação física, ou, ainda, retome a realização da audiência por meio exclusivamente digital (fl. 244).
+Não houve pedido liminar, nem contrarrazões.
+O Ministério Público Federal opinou de acordo com este resumo (fl. 253):
+PENAL. PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGADA NULIDADE EM DESIGNAÇÃO DE AUDIÊNCIA SOB FORMA "SEMIPRESENCIAL" OU "HÍBRIDA". INEXISTÊNCIA DE EIVA ALGUMA. EXCEÇÃO PREVISTA EM PORTARIA CONJUNTA DO TRIBUNAL A QUO. FUNDAMENTAÇÃO IDÔNEA. GARANTIA AOS PRINCÍPIOS DA AMPLA DEFESA, CONTRADITÓRIO E ORALIDADE. PAS DE NULITTÉ SANS GRIEF. PARECER POR DESPROVIMENTO DO RECURSO ORDINÁRIO.
+Não obstante o tempo decorrido desde a interposição deste recurso, após ser instada a se pronunciar a respeito, a Defensoria Pública do Distrito Federal manifestou interesse no julgamento do feito (fl. 262).
+Entendi por pedir informações ao Juízo de Direito da Vara Criminal de Sobradinho/DF sobre a situação do Processo n. 0707119-49.2021.8.07.0006 e de Paulo Ricardo Veras Matias, as quais chegaram hoje ao gabinete (fls. 274/308).
+É o relatório.
+Sobreveio a condenação pela prática das condutas previstas nos arts. 147, 330, 331 e 344, todos do Código Penal, às penas de 1 ano e 1 meses de reclusão, 7 meses e 25 dias de detenção, e 20 dias-multa, a apelação defensiva foi desprovida e a sentença transitou em julgado em 27/3/2023. A reprimenda do recorrente foi acrescentada ao PEC n. 0011337-57.2009.8.07.0015.
+Tal o atual quadro da ação penal, perdeu o objeto o presente recurso.
+De toda maneira, nem sequer prosperaria, pois, de um lado, não houve sequer demonstração do efetivo prejuízo ao exercício do direito de defesa; e, de outro, também na forma virtual, as relações entre as partes, os depoentes e o juiz ocorrem em tempo real e os advogados podem assistir seus clientes  .. , não se verifica em que medida a audiência de instrução realizada por meio tecnológico é óbice às garantias fundamentais do processo (RHC n. 150.203/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/9/2021).
+Afora isso, a jurisprudência do Superior Tribunal de Justiça, na linha das recomendações do CNJ durante o grave quadro de pandemia, diz que a realização de audiência de instrução e julgamento de modo virtual (por videoconferência) é justificada em razão da necessidade de se manter o distanciamento social, como medida preventiva de infecção pela Covid - 19. Precedentes (AgRg no HC n. 653.433/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/12/2021).
+Julgo prejudicado este recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. DESIGNAÇÃO DE AUDIÊNCIA HÍBRIDA/SEMIPRESENCIAL, POR VIDEOCONFERÊNCIA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. RESOLUÇÃO N. 329/2020, DO CONSELHO NACIONAL DE JUSTIÇA. SUPERVENIENTE PERDA DO OBJETO.
+Recurso prejudicado.
