@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por PAULO HENRIQUE LERSCH contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 1.018/1.019):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. MUNICÍPIO DE SANTA CRUZ DO SUL. MANDATO DE VEREADOR. EXIGÊNCIA INDEVIDA DE PARCELA DOS VENCIMENTOS DE SERVIDORES. PRÁTICA CONHECIDA COMO "RACHADINHA". INDENIZAÇÃO POR DANO MATERIAL E MORAL.
+Preliminares
+1. Prescrição: conforme orientação da Corte Superior, nas ações tendentes à apuração da responsabilidade civil do ente federado aplica-se o prazo quinquenal previsto na legislação especial (art. 1º do Decreto 20.910/32), embora pretendida a aplicação do prazo trienal a que alude o disposto no art. 206, § 3º, inciso V, do Código Civil.
+2. Revogação da gratuidade da justiça concedida ao réu: a presunção de hipossuficiência econômica reconhecida no curso da lide deve ser mantida, considerando a situação econômica atual do demandado, bem como sua renda mensal.
+Prefaciais afastadas.
+3. Mérito: a pretensão indenizatória por dano material e moral está fundada em ato comissivo do Município de Santa Cruz diante da alegação de exigência feita pelo Presidente da Câmara à época, de parcela dos vencimentos do autor, enquanto ocupante do cargo comissionado de Assessor Parlamentar e, posteriormente, de Chefe de Divisão (CC4).
+4. A prova coligida é suficiente à demonstração de que o réu, aproveitando-se das dificuldades financeiras dos servidores, exigia-lhes a repartição de parcela da remuneração, tendo a expectativa de que o esquema não seria revelado em face da existência de superioridade hierárquica bem como o temor de que poderia haver represálias ou de que tivessem alguma consequência por terem participado de algo errado, o que impediria qualquer apuração dos fatos.
+5. Afastada a responsabilidade objetiva do Município, uma vez ausente nexo de causalidade entre a conduta atribuível ao corréu pelo exercício do mandado de Vereador e o prejuízo causado aos servidores. A exigência da vantagem indevida decorreu do mero exercício da vontade pessoal em face da existência de superioridade hierárquica, e não do uso de determinada prerrogativa do mandato parlamentar, que atrairia a responsabilidade civil do ente público.
+6. Quantum indenizatório a título de dano moral adequadamente dimensionado em R$ 15.000,00, considerando a situação vivenciada pela parte autora, que extrapolou os limites do mero aborrecimento, em face da exposição a que se submeteu bem como a coação e o abuso verificado pela impossibilidade de fruição de parcela significativa dos vencimentos.
+AFASTARAM AS PRELIMINARES E NEGARAM PROVIMENTO ÀS APELAÇÕES.
+Embargos de declaração rejeitados, em julgamento assim sumariado (e-STJ fl. 1.068):
+EMBARGOS DE DECLARAÇÃO. APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. MUNICÍPIO DE SANTA CRUZ DO SUL. MANDATO DE VEREADOR. EXIGÊNCIA INDEVIDA DE PARCELA DOS VENCIMENTOS DE SERVIDORES. PRÁTICA CONHECIDA COMO "RACHADINHA". INDENIZAÇÃO POR DANO MATERIAL E MORAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL INEXISTENTES.
+1. Acolhido o prazo quinquenal no curso da lide tal como proposto de forma subsidiária pelo réu, o que não foi objeto de recurso pela parte contrária e, portanto, operada a preclusão consumativa, tanto que não houve referência expressa no dispositivo da sentença condenatória, pois se tratava de questão já decidida.
+2. Assim, sobre os valores da condenação ao pagamento de indenização por dano material deve incidir a prescrição quinquenal, tal como já deliberado na decisão interlocutória irrecorrida quanto às parcelas anteriores a cinco anos anteriores ao ajuizamento, e confirmada na fundamentação do acórdão embargado. Sentença explicitada no ponto.
+3. Dimensionamento do dano material, conforme art. 944 do Código Civil: a sentença acolheu o pedido indenizatório condenando o réu a restituir integralmente a diferença entre os valores constantes nos seus contracheques e aqueles efetivamente recebidos, nos exatos termos do quadro descritivo na petição inicial, o que restou mantido na decisão embargada.
+4. Portanto, observa-se que a matéria recursal foi analisada suficientemente no aresto embargado, devendo a insurgência ser aviada no recurso próprio, se assim compreender a parte, não em embargos de declaração, que possuem natureza eminentemente integrativa do aresto.
+REJEITARAM OS EMBARGOS DE DECLARAÇÃO, COM EXPLICITAÇÃO DA SENTENÇA.
+No recurso especial obstaculizado, a parte recorrente apontou violação do art. 944 do Código Civil e do art. 373, I, do CPC/2015, argumentando que não são devidos danos materiais no caso concreto.
+Contrarrazões às e-STJ fls. 1.097/1.100.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+No caso, o Tribunal a quo manteve a sentença de procedência da demanda indenizatória, nos seguintes termos (e-STJ fls. 1.065/1.066):
+No tocante ao dimensionamento do dano material, alega o embargante que inexiste prova da extensão do dano, nos termos do disposto no art. 944 do Código Civil, uma vez que o autor não logrou demonstrar o montante exato que era repassado ao embargante.
+A sentença acolheu o pedido indenizatório condenando o réu a restituir integralmente a diferença entre os valores constantes nos seus contracheques e aqueles efetivamente recebidos, nos exatos termos do quadro descritivo na petição inicial, o que restou mantido na decisão embargada.
+A propósito, concluiu o acórdão que a prova documental era bastante para a comprovação do dano, nos seguintes termos:
+Relativamente ao montante devido, os valores devem ser calculados conforme a tabela colacionada pelo autor na inicial, tal como concluiu a sentença, que não deve ser modificada nesse ponto.
+Os extratos juntados mostram que, após o autor receber sua remuneração, ocorriam os saques em sua conta corrente, conferindo credibilidade e corroborando o argumento de que se destinavam ao repasse exigido como condição para permanecerem no cargo.
+A impugnação do réu é genérica e não houve a produção de qualquer prova que derruísse a convicção de que as diferenças devidas são aquelas demonstradas pela parte autora, que fez prova suficiente acerca do montante que deixou de receber da sua remuneração. (Grifos acrescidos)
+Como se vê, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas Instâncias ordinárias no sentido da suficiência das provas, bem como de que são devidos danos materiais no caso concreto demandaria, induvidosamente, o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. VIOLAÇÃO AO ART. 535 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 219 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEVER DE INDENIZAR. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. A alteração das conclusões adotadas pela Corte de origem, acerca da comprovação dos danos morais e materiais, da falha no serviço e do nexo de causalidade, tal como colocadas essas questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 150.872/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
