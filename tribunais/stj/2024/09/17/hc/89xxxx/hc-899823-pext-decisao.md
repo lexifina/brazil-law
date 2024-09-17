@@ -1,0 +1,9 @@
+DECISÃO
+Por meio da petição de fls. 305-306, o corréu ANTONIO CARLOS DO NASCIMENTO GONÇALVES requer a extensão dos efeitos da decisão de fls. 292-297, em que concedi a ordem de habeas corpus em favor do paciente (Alexandre Eduardo Brito), "para reconhecer a nulidade, por ausência de fundamentação concreta e idônea, da decisão que deferiu a medida de busca e apreensão em desfavor do paciente, bem como de todas as provas colhidas com base nessa diligência e, consequentemente, absolvê-lo em relação à prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, com fulcro no art. 386, II, do CPP (Processo n. 1500143-50.2022.8.26.0322, da 2ª Vara Criminal da Comarca de Lins - SP)".
+A defesa alega, em síntese, que ambos os acusados estão "em situações iguais, não podendo existir tratamento desigual, em razão do princípio da isonomia" (fl. 305).
+Decido.
+De fato, verifico que o requerente está na mesma situação fático-processual que a do paciente. Isso porque o Juiz de primeiro grau despendeu a mesma argumentação para determinar a medida de busca e apreensão em desfavor de ambos os acusados, de maneira que, caracterizada hipótese prevista no art. 580 do CPP, devem ser a ele estendidos os efeitos da decisão proferida às fls. 292-297.
+À vista do exposto, defiro o pedido de extensão formulado às fls. 305-306, para reconhecer a nulidade, por ausência de fundamentação concreta e idônea, da decisão que deferiu a medida de busca e apreensão em desfavor do ora requerente (ANTONIO CARLOS DO NASCIMENTO GONÇALVES), bem como de todas as provas colhidas com base nessa diligência e, consequentemente, absolvê-lo em relação à prática dos delitos descritos nos arts. 33, caput, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, com fulcro no art. 386, II, do CPP (Processo n. 1500143-50.2022.8.26.0322, da 2ª Vara Criminal da Comarca de Lins - SP).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
