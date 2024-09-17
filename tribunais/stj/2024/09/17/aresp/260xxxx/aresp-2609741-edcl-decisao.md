@@ -1,0 +1,38 @@
+DECISÃO
+ANTONIO CARLOS CAUDURO opõe embargos de declaração à decisão de fls. 556-560, por mim proferida, que não conheceu do agravo em recurso especial pela incidência da Súmula n. 182/STJ.
+Nas razões recursais, a Defesa sustenta que ponto essencial não foi enfrentado , como o argumento de que jamais se pretendeu revolver o acervo probatório dos autos.
+Afirma que há omissão na decisão embargada, pois, em sede de agravo, a insurgência foi pela inaplicabilidade da Súmula n. 83/STJ, visto que a orientação firmada por esta Corte Superior não se enquadra ao caso concreto.
+Requer o provimento do recurso, reconhecidos os efeitos modificativos (fl. 567).
+O Ministério Público Federal manifestou-se pela rejeição dos embargos de declaração (fls. 571-575).
+É  o  relatório.
+DECIDO.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, não houve impugnação efetiva aos fundamentos da decisão de inadmissibilidade do recurso especial, o que atrai a incidência da Súmula n. 182/STJ.
+A parte agravante deveria expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Quanto ao óbice da Súmula n. 83/STJ, deveria apontar, dentro do entendimento atual desta Corte Superior, a ausência de jurisprudência pacífica ou a alteração superveniente de posicionamento com relação ao oferecimento do Acordo de Não Persecução Penal.
+A decisão ora embargada assim consignou (fls. 556-560, grifamos):
+O agravo não pode ser conhecido.
+A Corte de origem inadmitiu o recurso especial diante dos óbices contidos nas Súmulas n. 7 e 83 do STJ (fls. 503-506). Nas razões do agravo,contudo, a parte deixou de impugnar a incidência dos referidos impedimentos.
+Inicialmente, com atinência à refutação do verbete sumular de número 7 desta Corte Superior, o agravante deixou de esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório. Não houve sequer o cuidado de se contextualizar os dados concretos constantes do acórdão recorrido.
+Como se sabe,
+são insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (AgRg no AREsp n. 2.176.543/SC, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 21/3/2023, DJe 29/3/2023), o que não se verifica na hipótese.
+(..). Outrossim, com relação à impugnação da Súmula 83/STJ, conforme a assente a jurisprudência do Superior Tribunal de Justiça, "incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie" (AgRg no AREsp n. 2.253.769/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Na espécie, contudo, a parte agravante não se desincumbiu de demonstrar o equívoco da decisão de inadmissão, uma vez que não buscou comprovar que os julgados indicados na decisão agravada são inaplicáveis à hipótese dos autos ou, ainda, que o atual entendimento jurisprudencial desta eg. Corte Superior não mais se harmoniza com os precedentes nela indicados. (..).
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal. (..).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do RISTJ, não conheço do agravo em recurso especial.
+Logo, não há fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade da decisão embargada, e não a reapreciar a causa.
+A propósito:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE RESPONSABILIDADE. CONTRADIÇÃO. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA. MATÉRIA DE ORDEM PÚBLICA.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Configurou-se a prescrição da pretensão punitiva, na modalidade retroativa, apenas em relação às condutas praticadas anteriormente ao advento da Lei n. 12.234, de 5/5/2010, tendo em vista o transcurso do prazo superior a 2 anos (art. 109, VI, do CP), contado entre a data dos fatos e a do recebimento da denúncia.
+4. Embargos de declaração rejeitados. Prescrição da pretensão punitiva reconhecida parcialmente. (EDcl no AgRg nos EDcl no AREsp n. 905.858/PB, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/06/2024, DJe de 20/06/2024 - grifamos).
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NO TRÂNSITO. ANPP. IRRETROATIVIDADE DA NORMA. PLEITO DE ANULAÇÃO. PEDIDO DE SUSTENTAÇÃO ORAL NO JULGAMENTO DE AGRAVO REGIMENTAL. AUSÊNCIA DE PREVISÃO LEGAL. INTELIGÊNCIA DO ART. 7º, § 2º-B, INCISO III, DO EOAB. INEXISTÊNCIA DOS VÍCIOS PREVISTOS NOS ARTS. 1022, CPC E 619 E 620 DO CPP. REDISCUSSÃO DE MÉRITO. IMPOSSIBILIDADE.
+I - Pleito de análise do cabimento de acordo de não persecução penal. Recebimento da denúncia em momento anterior à vigência da lei. Irretroatividade da norma.
+II - Não há previsão legal para a intimação pessoal da defesa da data do julgamento, bem como de sustentação oral no julgamento de agravo regimental no agravo em recurso especial. Assim, descabe cogitar de anulação do acórdão.
+III - Os embargos declaratórios possuem fundamentação vinculada à presença de ambiguidade, obscuridade, contradição ou omissão a ser sanada. Não constituem, pois, recurso de revisão da matéria discutida nos autos.
+IV - No caso, a parte pretende o reexame de matéria julgada em razão de mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via dos declaratórios.
+Embargos de declaração rejeitados. (EDcl no AgRg nos EDcl no AREsp n. 1.995.042/PA, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 21/05/2024, DJe de 28/05/2024 - grifamos).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
