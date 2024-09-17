@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de NATANAEL ROSENDO SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Magistrado de primeiro grau decretou a prisão preventiva do paciente em 05/04/2023, ao receber a denúncia oferecida pelo parquet pelo suposto cometimento dos crimes capitulados nos arts. 157, § 2º, incs. II e V e § 2º-A, inc. I, e 158, § 1º e § 3º, na forma do artigo 69 do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que não reconheceu o alegado excesso de prazo para a formação da culpa, denegando a ordem em acórdão de fls. 429-444.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que há excesso excesso de prazo para formação da culpa tendo em vista que o paciente está segregado cautelarmente desde 09/03/2023, sem que tenha havido o término da instrução probatória.
+Alega, ainda, que a audiência de instrução ocorreu em 05/09/2023 e que foram requeridos a expedição de ofícios em Resposta à Acusação (em abril de 2023 - e deferidos pelo magistrado em julho de 2023), contudo, até a presente data não há qualquer notícia dos ofícios, das respostas ou qualquer certidão cartorária.
+Por fim, destaca os predicados pessoais favoráveis do paciente e que revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CP.
+Requer, assim, a concessão da liberdade ao paciente.
+Liminar indeferida às fls. 447-448.
+Informações prestadas às fls. 455-456.
+O Ministério Público Federal, às fls. 458-465, manifestou-se pela denegação da ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS. PENAL E PROCESSO PENAL. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. ROUBO E EXTORSÃO MAJORADOS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INOCORRÊNCIA. AUSÊNCIA DE DESÍDIA POR PARTE DO JUÍZO E/OU DO ÓRGÃO DE ACUSAÇÃO. DELONGA RESULTANTE DAS PECULIARIDADES DO FEITO: DILIGÊNCIAS REQUERIDAS PELA DEFESA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELA EXTINÇÃO DO WRIT, SEM RESOLUÇÃO DE MÉRITO, OU PELA DENEGAÇÃO DA ORDEM" - fl. 458.
+É o relatório. DECIDO.
+No tocante ao alegado excesso de prazo para a formação da culpa, extrai-se das informações contidas no sítio eletrônico do tribunal de origem que em 08/04/2024, foram juntadas ao processo às alegações finais, sendo em 19/04/2024 proferida sentença condenatória.
+Incide, pois, o enunciado da Súmula n. 52 desta Corte Superior: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+A propósito:
+Afasta-se a alegação de excesso de prazo para a formação da culpa se, como na presente hipótese, verifica-se o encerramento da instrução criminal, consoante os termos do enunciado da Súmula 52/STJ, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo" (AgRg no RHC n. 197.478/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024).
+No mesmo sentido os seguintes precedentes deste Tribunal Superior: AgRg no RHC n. 181.496/PE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1/7/2024; AgRg no HC n. 906.376/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 20/6/2024; HC n. 903.420/PI, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 14/6/2024 e AgRg no RHC n. 196.767/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/6/2024.
+Por fim, quanto ao pedido de substituição da prisão preventiva por outras medidas cautelares alternativas positivadas no art. 319 do CP, verifico que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
