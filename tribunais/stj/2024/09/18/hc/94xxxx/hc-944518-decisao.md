@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Diego de Campos Xavier - condenado por roubo circunstanciado a 8 anos, 8 meses e 16 dias de reclusão, e a 21 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 29/36), não comporta processamento.
+Com efeito, busca a impetração a desclassificação da conduta delitiva para furto ou estelionato ou, subsidiariamente, redimensionar a pena imposta - na condenação proferida na Ação Penal n. 1504428-90.2020.8.26.0602 (fls. 21/28 - da 3ª Vara Criminal da comarca de Sorocaba/SP) -, aos seguintes argumentos:
+a) ausência de provas de violência ou grave ameaça - as provas carreadas aos autos não dão conta de que tenha o paciente praticado ameaça ou violência à vítima, o que foi corroborado pelas demais provas contidas no presente caderno processual. Portanto, se praticou crime, este seria o de furto/estelionato, não roubo, em razão da ausência do tipo objetivo: violência ou grave ameaça (fl. 9); e
+b) exasperação desproporcional da pena-base - não há elementos suficientes para valorar negativ amente a personalidade do paciente. O paciente também não demonstra má conduta social. A culpabilidade é normal à espécie. Os motivos também foram normais ao crime praticado. As circunstâncias também são normais à espécie. Por sua vez, as consequências são apenas aquelas inerentes ao delito (fls. 13/14).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 15/5/2024 (fl. 772 do AREsp n. 2.483.539), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) entender pela desclassificação da conduta delitiva para furto ou estelionato demandaria reexame probatório, providência inviável na via eleita; e
+b) a pena foi corretamente exasperada em 1/5, na primeira fase, em razão da negativação das consequências do delito - a vítima sofreu grande prejuízo, consistente em aproximadamente treze mil reais (consequências do crime), o que se constata pelas declarações da vítima em sede policial e pelos documentos de fls. 8/11 (fl. 27) - e dos antecedentes - o réu Diego apresenta três condenações definitivas (Processo n. 0001996-87.2017, n. 0106209-18.2015 e n. 0020897-11.2014 cujos trânsitos em julgado ocorreram dentro do lustro atual), conforme se constata pela certidão de fls. 311/315, de forma que uma delas será utilizada como maus antecedentes e as demais como reincidências (fl. 27).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DESCLASSIFICAÇÃO E DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
