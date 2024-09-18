@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo de EMERSON DE SOUZA NASCIMENTO contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido no julgamento da Apelação Criminal n. 0005498-14.2020.8.19.0021.
+Consta dos autos que o agravante foi absolvido em primeira instância da imputação da prática do crime previsto no art. 158 do Código Penal, com fundamento no art. 386, VII, do Código de Processo Penal - CPP (fls. 252/257).
+Recurso de apelação interposto pelo Ministério Público foi provido para condenar o agravante como incurso no art. 158 do Código Penal, à pena 5 anos e 4 meses de reclusão, no regime inicial fechado, e 13 dias-multa (fls. 332/334). O acórdão recebeu a seguinte ementa:
+"Apelação criminal. Crime de extorsão - art. 158 do Código Penal - "falso sequestro", mediante grave ameaça de matar a filha da vítima, que estaria em poder do agente, caso não depositasse quantia em determinada conta bancária. Comprovada a materialidade, autoria e culpabilidade. O número de conta bancária fornecido à vítima era da conta da namorada da filha do réu. Realiza- da pesquisa do celular que ligou para vítima, a prestadora informou que na data da extorsão o número constava no nome de Vander M. F. Na data do crime, Vander e o réu estavam presos na mesma cadeia. Todas essas circunstâncias não são meras coincidências. Constata-se um vínculo entre o réu, a titular da conta utilizada, para o deposito bancário pela vítima do falso sequestro, e o titular do celular utilizado no crime. Típica, antijurídica e culpável a conduta. Pena base majorada na fração de 1/3 pelos maus antecedentes e culpabilidade exacerbada, pois o réu era interno do sistema penitenciário, em absoluto desrespeito ao Poder Público.
+Regime fechado. Condenação ao pagamento das custas do processo. Réu se evadiu do sistema penitenciário durante a instrução. Necessidade da prisão preventiva para garantia da aplicação da lei penal e evitar a reiteração criminosa - artigo 312, do Código de Processo Penal. Recurso provido para condenar o réu nas penas do artigo 158 do Código Penal." (fl. 325).
+Embargos de declaração opostos pela defesa foram acolhidos em parte, apenas para determinar que a expedição do mandado de prisão se dê após o trânsito em julgado do acórdão condenatório (fl. 395). Eis a ementa do julgado:
+"Embargos de declaração. Acórdão que, por unanimidade, proveu o recurso do Parquet para condenar o réu por extorsão - "falso sequestro". Rejeita-se a alegada nulidade do feito por cerceamento de defesa, por não se decretar a revelia e a prisão do réu, que se evadiu do sistema prisional, impedindo que pudesse ser interrogado e exercesse sua autodefesa. O réu foi assistido no ato pela Defensoria Pública, que silenciou, mesmo constando na citada ata a determinação da abertura de vista para apresentação das alegações finais. A defesa apresentou suas alegações finais, bem como contrarrazões à apelação do Parquet, sem nada questionar sobre o fato. Quanto a alegada violação ao princípio do in dubio pro reo, por ausência de prova para condenação, e do injustificado aumento aplicado na pena base, não lhe assiste razão. Da simples leitura do acórdão embargado verifica-se que todas as questões relevantes foram claramente tratadas pelo Colegiado. Não ter o acórdão decidido de acordo com o interesse da defesa não configura omissão, contradição ou obscuridade. Porém, assiste razão à embargante quanto à impossibilidade de decretar-se a prisão preventiva sem que haja pedido expresso do Ministério Público, da autoridade policial ou das demais pessoas elencadas no artigo 311, do CPP. Embargos acolhidos, em parte, apenas para determinar que a expedição do mandado de prisão se dê após o trânsito em julgado do acórdão condenatório, recolhendo-o em caso de já ter sido expedido." (fl. 389).
+Em sede de recurso especial (fls. 410/427), a defesa aponta a violação dos arts. 155, 156, 386, VII e 564, III, "e", todos do Código de Processo Penal - CPP, porque o TJ condenou o recorrente, a despeito da insuficiência de provas da autoria delitiva.
+Aponta nulidade por cerceamento de defesa, em razão da não apresentação do recorrente à audiência, inviabilizando sua autodefesa.
+Alega que "a única testemunha que apontou para o Recorrente foi a titular beneficiária da conta em que foi feito o depósito fruto da extorsão" (fls. 424/425), que sequer foi ouvida em juízo.
+Aduz que "a reforma da sentença absolutória pelo v. acórdão, se deu com base em prova exclusivamente inquisitorial, isto é, a versão narrada extrajudicialmente pela titular da conta em que depositada a quantia fruto da extorsão, principal suspeita da empreitada criminosa" (fl. 426).
+Requer seja conhecido e provido o recurso especial para reconhecer a nulidade do acórdão por falta de interrogatório do acusado ou, subsidiariamente, a absolvição do recorrente com fundamento no art. 386, VII, do CPP.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO - MP (fls. 433/445).
+O recurso especial foi inadmitido no TJ em razão da incidência dos óbices das Súmulas n. 7 e 83 do STJ (fls. 447/453).
+Agravo em recurso especial às fls. 464/475.
+Contraminuta do MP (fls. 488/490).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo em recurso especial (fls. 515/520).
+É o relatório.
+Decido.
+O presente agravo em recurso especial não merece ser conhecido.
+O recurso especial foi inadmitido no TJ em razão da incidência das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça - STJ (fls. 447/453).
+O agravante, no entanto, não impugnou, de forma suficiente, o fundamento referente à incidência da Súmula n. 83 do STJ, uma vez que o referido enunciado sumular só é combatido com pedido explícito de afastamento do óbice e apresentação de jurisprudência desta Corte Superior contrária, contemporânea ou superveniente à apresentada na decisão de inadmissibilidade do recurso especial, acerca da mesma configuração fática e jurídica (condenação fundada não apenas nas provas colhidas na fase extrajudicial, mas igualmente na prova oral produzida em juízo), o que não foi feito pela defesa.
+No mesmo sentido (grifos nossos):
+AGRAVO REGIMENTAL NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AGRAVO NÃO CONHECIDO ANTE A FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ MANTIDA. IMPUGNAÇÃO TARDIA. PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. É inviável o agravo em recurso especial que deixa de impugnar, especificadamente, todos os fundamentos da decisão do Tribunal de origem que inadmitiu o apelo nobre.
+3. A incidência da Súmula n. 83 do Superior Tribunal de Justiça - STJ só é combatida com pedido explícito de afastamento do referido óbice e a apresentação de jurisprudência desta Corte Superior contrária, contemporânea ou superveniente, à apresentada na decisão de inadmissibilidade do recurso especial, o que não foi feito pela defesa. Aplicação da Súmula n. 182 do STJ mantida.
+4. Os fundamentos da decisão que inadmite o apelo nobre devem ser refutados no momento da interposição do agravo em recurso especial, sob pena de preclusão consumativa, razão pela qual sua impugnação no presente agravo regimental não supre a deficiência verificada na decisão impugnada.
+5. Agravo regimental desprovido.
+(AgRg na PET no AREsp n. 2.419.597/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da Súmula 182/STJ, não pode ser conhecido o agravo em recurso especial, por não ter impugnado de maneira específica todos os fundamentos da decisão de inadmissão do recurso especial na origem.
+2. A decisão que inadmitiu o recurso especial na origem pautou-se na incidência das Súmulas 7 e 83, ambas do STJ. Todavia, o agravante deixou de impugnar especificamente a incidência da Súmula 83/STJ.
+3. Para que se considere adequadamente impugnado o referido enunciado sumular, é necessário que a parte indique precedentes contemporâneos ou supervenientes aos indicados na decisão combatida, para comprovar que outro é o entendimento jurisprudencial do STJ ou demonstre que o caso dos autos diverge daqueles veiculados nos julgados transcritos pela instância de origem.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.534.189/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/4/2024, DJe de 19/4/2024.)
+Dessa forma, faz-se necessária a aplicação dos arts. 932, III e 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/05/2021).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, e no art. 253, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
