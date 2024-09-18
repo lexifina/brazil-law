@@ -1,0 +1,1 @@
+Artigo 40 - Ficam extintos os cargos em comissão de Auxiliar de Promotoria Encarregado, Auxiliar de Promotoria Chefe, Chefe de Seção Técnico e Oficial de Promotoria Chefe e seus atuais ocupantes designados em Função de Confiança, assegurados todos os direitos e vantagens previstos na legislação vigente, na forma do Anexo VIII desta lei complementar.
