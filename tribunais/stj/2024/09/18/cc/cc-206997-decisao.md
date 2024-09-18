@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa do Juízo de Direito da Vara Cível de Pinhão/PR, em face do Tribunal de Justiça do Distrito Federal e dos Territórios, relativamente à competência para processar e julgar ação de produção antecipada de provas ajuizada por Francisco Delle em face do Banco do Brasil S.A.
+O Tribunal de Justiça do Distrito Federal e Territórios reconheceu sua incompetência e determinou a redistribuição do feito à Comarca de Pinhão/PR, domicílio da parte autora (fls. 960/977 e 1116/1155).
+O Juízo de Pinhão/PR, por sua vez, suscitou o presente conflito de competência sob o fundamento de que o Banco do Brasil S/A tem sede em Brasília/ DF e que a Ação Civil Pública n. 0008465-28.1994.4.01.3400 tramitou perante a 3ª Vara Federal de Brasília - SJ/DF (fls. 1209/1215).
+Com vista dos autos, o Ministério Público Federal opinou no sentido da competência do Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 1.228/1.232) ao argumento de que se trata de competência relativa e que o "Tribunal de Justiça do Distrito Federal e dos Territórios declinou da competência, de ofício, e remeteu os autos ao foro de domicílio da parte autora, fls. (e-STJ) 960/977 e 1116/1155, embora o autor tenha optado por ajuizar o feito no foro de domicílio do réu, fls. (e-STJ) 7/21".
+Tem-se que a hipótese orbita discussão de enfrentamento rotineiro no âmbito da Segunda Seção, que por analogia permite concluir que pode o consumidor exercer a escolha pelo foro em que melhor tenha capacidade de exercer a defesa de seus interesses, não se desconsiderando os casos em que há nítido exercício da opção pelo advogado ou associação, questão da qual nos autos não há indício material, não é mencionada pelas autoridades judiciárias em conflito e nem alegada pela parte ré. Nesse sentido:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE.
+1. Nos casos em que o consumidor, autor da ação, elege, dentro das limitações impostas pela lei, o foro que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício, nos termos da Súmula 33/STJ.
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar, se for o caso, exceção de incompetência, sob pena de prorrogação da competência. Assim, não há razão para negar essa possibilidade justamente ao consumidor, a quem o legislador conferiu especial proteção.
+3. Agravo regimental a que se nega provimento.
+(AgRg no CC n. 130.813/DF, relator Ministro Raul Araújo, Segunda Seção, julgado em 22/6/2016, DJe de 3/8/2016.)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. AÇÃO REVISIONAL PROPOSTA PELO CONSUMIDOR. DOMICÍLIO DO RÉU. POSSIBILIDADE.
+1. A jurisprudência sedimentada da Segunda Seção do Superior Tribunal de Justiça é firme no sentido de que é facultado ao consumidor, quando autor da ação, eleger, dentro das limitações impostas pela lei, a comarca que melhor atende seus interesses.
+2. A competência, em casos tais, deve ser tida por relativa, somente podendo ser alterada caso o réu apresente, a tempo e modo oportunos, exceção de incompetência, não sendo possível sua declinação de ofício nos moldes da Súmula nº 33/STJ.
+3. A norma protetiva, erigida em benefício do consumidor, não o obriga a demandar em seu domicílio, sendo-lhe possível renunciar ao direito que possui de ali demandar e ser demandado, optando por ajuizar a ação no foro do domicilio do réu, com observância da regra geral de fixação de competência do art. 94 do CPC.
+4. Agravo regimental não provido.
+(AgRg no CC n. 129.294/DF, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 24/9/2014, DJe de 1/10/2014.)
+Cumpre consignar que, no caso dos autos, a ação ajuizada é de autoria do consumidor, que preferiu distribuí -la ao foro onde se localiza a sede da ré.
+Assim, se a norma existe em função da proteção do consumidor, pode ele renunciar ao privilégio legal, pois em tal atitude presume-se incluída a avaliação de que não sofrerá prejuízo em sua defesa.
+Em face do exposto, conheço do conflito para declarar competente o Tribunal de Justiça do Distrito Federal e dos Territórios.
+Comunique-se. Intimem-se.
+EMENTA
