@@ -1,0 +1,31 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea a, do permissivo constitucional contra acórdão do Tribunal de Justiça do Estado do Acre assim ementado:
+PENAL E PROCESSO PENAL. APELAÇÃO. FALSIDADE IDEOLÓGICA. PRELIMINAR DE PRESCRIÇÃO. ART. 110, §1º, DO CP. INOCORRÊNCIA. MÉRITO. ABSOLVIÇÃO POR AUSÊNCIA DE DOLO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. CONJUNTO FÁTICO-PROBATÓRIO ROBUSTO E COESO. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. AFASTAMENTO. POSSIBILIDADE. PENA DEFINITIVA. MANUTENÇÃO. NON REFORMATIO IN PEJUS. PARCIAL PROVIMENTO DO APELO.
+1. Consoante o art. 110, § 1 o, do CP, a prescrição, após o trânsito em julgado para o Ministério Público, é regulada pela pena em concreto. No caso, verifica-se que não transcorreu o prazo prescricional pelo lapso temporal entre o recebimento da denúncia e a sentença, não havendo, portanto, prescrição.
+2. Não há que se falar em absolvição ou desclassificação quando o conjunto fático-probatório é suficiente em demonstrar a prática do crime de falsidade ideológica. Ademais, a comprovação de excludente de ilicitude incumbe a quem alega, sob pena de ofensa ao art. 156 do Código Penal, de modo que, não tendo o recorrente se desincumbido da comprovação, não deve ser acolhida a mera alegação de ausência de dolo, mantendo-se, portanto, a condenação.
+3. Considerando que a condenação pretérita é referente a fato praticado em data posterior ao caso sub judice, não pode esta ser utilizada para fins de reincidência. Todavia, sendo a pena definitiva fixada, na origem, em parâmetro inferior ao apurado nesta instância revisora e considerando que o presente apelo tratar-se de recurso exclusivo da defesa, e em observância ao princípio da non reformatio in pejus, mantem-se a pena concreta e definitiva bem como o regime fixados na sentença impugnada.
+4. O prequestionamento prescinde de expressa menção dos dispositivos legais tido por violados.
+5. Apelo conhecido e parcialmente provido. (e-STJ fl. 343)
+A defesa aponta a violação dos arts. 33, § 2º, c e 299 do CP, alegando, em síntese, que "o termo de lotação apontado pela Denúncia e considerado pelo Juiz Singular como meio de materialidade, dever ser considerado como documento particular, é tanto que, embora o termo de lotação possua timbre específico do Prosaúde, destaca-se que o contrato de experiência assinado, sequer possui timbre, e nenhum dos documentos, apresentou brasão oficial que enseje documento público nacional, estadual ou municipal. Tampouco foram-lhes dadas publicação no Diário Oficial" (e-STJ fls. 362/363). Reconhecido como documento particular, deve ser declarada a prescrição. Aduz que estão presentes os requisitos para a fixação do regime prisional aberto.
+Contrarrazões às e-STJ fls. 373/379.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 423/425.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 1 ano e 2 meses de reclusão, em regime semiaberto, pelo cometimento do crime do art. 299 do CPP.
+A defesa alega que o documento a que se refere a denúncia deve ser considerado como documento particular, de forma que já ocorreu a prescrição.
+Colhe-se da sentença que "o documento de fl. 112 é sim um documento público, eis que tem conteúdo de interesse público, foi emanado por uma entidade paraestatal e assinado por um agente público legalmente investido no cargo, que foi induzido a erro por conta de informações falsas prestadas pelo acusado Gleyh" (e-STJ fl. 267).
+O TJAC confirmou a sentença nos seguintes termos:
+A princípio, vale consignar que, tendo em vista que o juízo sentenciante considerou o documento como público, ao tentar discutir tal problemática a defesa adentra ao mérito em si, o que não pode ser feito em sede de preliminar.
+ ..
+No caso, tem-se que o apelante foi condenado à pena de 01 (um) ano e 02 (dois) meses de reclusão, cujo prazo prescricional é de 4 (quatro) anos, em conformidade com o disposto no art. 109, inciso VI, do Código Penal. Dessa forma, para a contagem do prazo prescricional, no caso sob exame, há que se considerar o lapso temporal decorrido entre o recebimento da denúncia e a sentença.
+ ..
+A denúncia foi recebida em 27/09/2021 , ou seja, não decorreu mais de 04 (quatro) anos entre o ultimo marco interruptivo da prescrição (art. 117, IV, do CP) e a sentença condenatória, proferida em 01/04/2022. Portanto, não se afere a ocorrência da prescrição. (e-STJ fl. 345)
+As razões recursais alegando que o documento a que se refere a denúncia deve ser considerado como documento particular, em confronto com as afirmações do acórdão recorrido, prendem-se a uma perspectiva de reexame de matéria de fato, providência inviável na via do recurso especial, a teor do disposto na Súmula n. 7 deste STJ.
+Quanto ao regime prisional, igualmente sem razão, isso porque considerando o quantum da pena aplicada, 1 ano e 2 meses de reclusão, e a existência se circunstância judicial desfavorável (antecedentes), o regime semiaberto revela-se adequado. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. CONTRABANDO. REGIME INICIAL DE CUMPRIMENTO DE PENA. SEMIBERTO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AUSÊNCIA DE ILEGALIDADE. RECURSO NÃO PROVIDO. DECISÃO MANTIDA.
+1. O regime prisional deve observar os preceitos constantes nos artigos 33 e 59, do Código Penal, bem como os enunciados 440 da Súmula do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.
+2. Embora a pena aplicada se situe, na hipótese, em patamar inferior a 4 anos de reclusão, é cabível a imposição de regime mais gravoso, ante a existência de circunstância judicial desfavorável, mostrando-se viável a fixação do modo semiaberto, nos termos do art. 33, §§ 2º e 3º, do CP. Precedentes.
+3. Agravo regimental não provido. (AgRg no HC n. 782.545/GO, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 26/6/2024.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
