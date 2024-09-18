@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ORBIS DISTRIBUIÇÃO DE ALIMENTOS LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 491):
+APELAÇÃO - Procedimento Comum - ICMS - Adesão à Programa Especial de Parcelamento - Pretensão de revisão dos débitos fiscais - Prescrição afastada - Termo inicial que corresponde à data do pagamento da última parcela do acordo de parcelamento - Ação ajuizada antes de transcorrido o prazo quinquenal - Reconhecimento da procedência do pedido - Artigo 57 da Lei Estadual nº 17.293/20 e Orientação Normativa SubG-CTF nº 01 de 12 de julho de 2021 - Homologação que não exime o ente público de pagamento de honorários advocatícios - Artigo 90, § 4º, do CPC - Redução da verba honorária à metade - Sentença de improcedência reformada - Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 511/514).
+No recurso especial (e-STJ fls. 519/537), o recorrente aponta violação do art. 90, § 4º, do CPC/2015. Alega que o dispositivo "não se aplica ao presente caso por duas razões: (i) porque o recorrido, em sua peça contestatória, não reconheceu a procedência do pedido das recorrentes, bem como (ii) não efetuou o recálculo dos acordos de parcelamento excluindo-se os valores abusivos dos juros de mora, descumprindo, portanto, as duas condicionantes previstas no art. 90, § 4º, do CPC/2015 para que os honorários sucumbenciais fossem reduzidos pela metade" (e-STJ fl. 536).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo em razão da ausência de violação das normas legais e da incidência da Súmula 7 do STJ e da Súmula 280 do STF (e-STJ fls. 547/548).
+No agravo em recurso especial (e-STJ fls. 551/559), o agravante afirma que "a análise das razões recursais não exige o revolvimento fático-probatório dos autos" (e-STJ fl. 805) e que "a valoração dos elementos contidos no v. acórdão de origem não necessita do eventual amparo de direito local, sendo inaplicável ao presente caso a Súmula 280 do E. STF" (e-STJ fl. 559).
+A contraminuta foi apresentada.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às no rmas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Na hipótese, da análise dos autos, verifica-se que o Tribunal de origem não admitiu o recurso especial destacando, entre outros motivos, a incidência da Súmula 7 do STJ e da Súmula 280 do STF.
+Da leitura do agravo, todavia, constata-se que a parte deixou de impugnar específica e adequadamente a incidência dos referidos enunciados.
+Primeiramente, o recorrente limitou-se a aduzir que "a análise das razões recursais não exige o revolvimento fático-probatório dos autos" (e-STJ fl. 805).
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp 1.463.467/RJ, Rel. Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp 1.694.099/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Além disso, ao tratar da aplicação da Súmula 280 do STF, o recorrente apenas afirma que a questão não envolve direito local sem, contudo, elaborar argumentação concreta com o fim de sustentar sua alegação.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
