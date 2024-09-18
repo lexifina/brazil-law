@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de petição protocolada por BRASILSEG COMPANHIA DE SEGUROS, requerendo a atribuição de efeito suspensivo a agravo em recurso especial, interposto contra decisão do TJ/PR que inadmitiu o recurso especial por aplicação da Súmula 7/STJ e ausência de violação ao art. 1.022 do CPC.
+Ação: de embargos à execução ajuizada por BANCO DO BRASIL S.A. contra MARISTELA FABRICIO ALTHEIA.
+Sentença: julgou improcedentes os embargos, extinguindo o feito com resolução de mérito.
+Recurso especial: alega violação aos arts. 80, 489, 493, 1.022 e 1.024 do Código de Processo Civil e arts. 757, 762, 765 e 884 do Código Civil.
+Defende a legalidade na negativa de pagamento da indenização securitária diante do comportamento de má-fé adotado pela agravada, que falsificou a assinatura do segurado no termo de redução de cobertura securitária e que pleiteia que este mesmo termo seja considerado inválido por não ter sido assinado pelo beneficiário.
+Sustenta que a perícia concluiu que a assinatura constante no contrato era da beneficiária e não do segurado.
+Argumenta que o acórdão se fundou em premissa equivocada, ainda, ao consignar que o termo de redução do capital segurado não foi assinado pelo de cujus, motivo pelo qual deverá ser considerado o primeiro valor contratado, sem, contudo, se manifestar expressamente no sentido de que a própria beneficiária requereu a sua redução.
+Aduz que é nulo o contrato para garantia de risco proveniente de ato doloso do segurado, do beneficiário ou de representante de um ou de outro.
+Prévio juízo de admissibilidade: o TJ/PR inadmitiu o recurso especial.
+Agravo em recurso especial: Argumenta que a decisão inadmissibilidade analisou o mérito do recurso especial. Sustenta que o debate não envolve controvérsia fática, pois o argumento fulcral que embasa a tese defendida foi expressamente manifestado no acórdão recorrido.
+RELATADO O PROCESSO, DECIDE-SE.
+A concessão do pretendido efeito suspensivo a agravo em recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a agravo em recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Na hipótese dos autos, vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos elaborados pelos requerentes não demonstram a plausibilidade de reforma do aresto impugnado.
+O acórdão recorrido, pelos fatos e provas constantes do processo, assim registrou:
+"Observa-se que as alegações da apelante 2, Brasilseg Companhia de que a apelada cometeu ato ilícito, qual seja, fraude, na falsidade da assinatura, o que induz perda do direito ao pagamento do capital segurado, nos termos da Cláusula 13, item "b" das Condições Gerais e que os artigos 762 e 765 do Código Civil estabelecem que será nulo o contrato para garantia de risco proveniente de ato doloso do segurado, do beneficiário e que agiu com má-fé ao afirmar que o segurado não tinha conhecimento da redução do capital segurado, são teses de defesa novas, de mérito, isto é, não se tratam matéria de ordem pública a possibilitar a analise a qualquer momento, configurando inovação recursal.
+Na petição inicial dos embargos à execução (mov. 1.1 - autos originários, a apelante 2Brasilseg Companhia de Seguro, alegou excesso de execução, diante a redução do capital segurado feita a pedido da estipulante, com anuência do segurado. Ou seja, não houve arguição de má-fé, fraude, falsificação de assinatura por parte da beneficiária (..)
+Assim, resta claro que essas matérias levantadas pela apelante 2 (de que beneficiária/apelada, em má-fé afirmou que o segurado não tinha conhecimento da redução do capital segurado, cometendo ato ilícito, fraude, falsificando a assinatura do segurado), não foram invocadas na origem, tratando-se de inovação recursal, o que impede a análise em sede recursal, sob pena de supressão de instância e ofensa ao duplo grau de jurisdição." (e-STJ Fl. 101-102)
+Dessarte, alterar o entendimento do Tribunal de origem no sentido de que a alegação de falsificação da assinatura tratou-se de inovação recursal, exigiria o reexame de fatos e provas, o que é vedado pela Súmula 07/STJ.
+Tal óbice, inclusive, justificou a inadmissão do recurso especial na origem, não tendo os requerentes demonstrado de modo satisfatório a sua não incidência à hipótese dos autos com a simples alegação de que a matéria seria exclusivamente de direito.
+Ausente, assim, a probabilidade do direito, não é necessário perquirir acerca do periculum in mora.
+Forte nessas razões, INDEFIRO o pedido de efeito suspensivo ao agravo em recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
