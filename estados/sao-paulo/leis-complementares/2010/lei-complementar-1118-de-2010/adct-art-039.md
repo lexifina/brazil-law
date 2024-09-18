@@ -1,0 +1,6 @@
+## CAPÍTULO II
+## DAS DISPOSIÇÕES TRANSITÓRIAS
+Artigo 39 - Ficam reestruturados, na forma do Anexo VIII desta lei complementar, os atuais cargos efetivos e em comissão do Quadro de Pessoal do Ministério Público do Estado de São Paulo.
+§ 1° - Para fins de aferição da legalidade de acumulação remunerada, fica estabelecido que o cargo efetivo de Médico tem sua denominação alterada, a partir da vigência desta lei complementar, para Analista de Promotoria I, que exerça as atribuições exclusivas da sua formação superior.
+§ 2° - Os servidores inativos, atualmente enquadrados em cargos efetivos e funções-atividades já extintos serão reclassificados, mediante apostilamento de seus atos de aposentadoria, nas referências, classes e níveis das carreiras dos servidores do Ministério Público do Estado de São Paulo que lhes proporcionem o percebimento de proventos mensais nunca inferiores aos que faziam jus na data anterior à da vigência desta lei complementar.
+§ 3° - Para fins do reenquadramento e da reclassificação dos cargos atualmente integrantes do Quadro de Pessoal do Ministério Público do Estado de São Paulo, observada a reestruturação prevista neste artigo, será aplicada a seguinte correlação:
