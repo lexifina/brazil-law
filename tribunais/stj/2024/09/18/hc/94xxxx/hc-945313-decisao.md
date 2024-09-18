@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ JANIERE DA COSTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE.
+Consta dos autos que o paciente foi condenado às penas de 5 anos de reclusão, no regime inicial semiaberto, e de 500 dias-multa, no valor unitário mínimo, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O decreto condenatório transitou em julgado em 14/12/2017, após o desprovimento da apelação interposta pela defesa do paciente contra a sentença penal proferida no primeiro grau.
+A revisão criminal proposta no Tribunal de origem foi julgada improcede (fls. 10-17).
+A impetrante sustenta, no entanto, que a condenação do paciente seria contrária à lei e à jurisprudência dos tribunais superiores.
+Alega que a droga apreendida sob a guarda do paciente, consistente em duas porções de maconha, com o peso de 26g, seria para o seu exclusivo consumo pessoal, e não para fins de comercialização.
+Por esse prisma, defende a desclassificação da conduta imputada ao paciente, para subsumi-la ao art. 28 da Lei Antidrogas.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus mediante a desclassificação da condenação criminal do paciente no termos acima propostos.
+É o relatório.
+Não se pode conhecer do pedido.
+O Tribunal de origem julgou improcedente a revisão criminal lá manejada, indicando expressamente os motivos para a solução adotada. No ponto (fls. 14-16):
+No caso em análise, embora defenda o revisionando que o seu pleitos e enquadra no inciso I, do artigo 621 do CPP, não se evidencia no caso qualquer contrariedade a texto expresso de lei penal ou à evidência dos autos.
+O que requer o revisionando, na verdade, é que esta Corte reanalise as mesmas teses, a luz das mesmas provas que já foram submetidas a apreciação da Câmara Criminal, por ocasião do julgamento da Apelação Criminal nº 2017.005329-2 (ID 24033971, págs. 02-13), objetivando um resultado que lhe seja mais favorável.
+Ocorre que, como bem destacou o Desembargador Virgílio Macêdo Júnior quando do julgamento da Revisão Criminal nº 0814934-92.2023.8.20.0000,"a ação revisional não se presta ao mero reexame de provas ou à reanálise do convencimento do magistrado ou colegiado de origem, sob pena de transformar-se em sucedâneo recursal, prática esta vedada pela jurisprudência consolidada dos tribunais."
+Nesse sentido:
+ ..
+No presente caso, com base na análise das provas produzidas, concluiu primeiro o juiz sentenciante e depois a Câmara Criminal desta Corte que o revisionando cometeu o crime de tráfico de drogas e não o de porte para consumo, não havendo qualquer elemento que justifique a alteração da tipificação penal reconhecida.
+No que tange ao pleito de reconhecimento do tráfico privilegiado, destaco que foi constatada pela Câmara Criminal a inviabilidade de seu acolhimento "porquanto não preenchidos todos os requisitos, especificamente, bons antecedentes, haja vista já ter sido condenado pelo tráfico de drogas, com sentença transitada em julgado, o que veda a possibilidade de concessão do benefício."
+O entendimento adotado encontra-se em consonância com a jurisprudência firmada no Superior Tribunal de Justiça, que afirma o não cabimento da revisão criminal quando utilizada como nova apelação, visando ao mero reexame de fatos e provas, sem que se verifique hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP.
+A esse respeito: HC n. 206.847/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe de 25/2/2016; e AgRg no AREsp n. 1.807.887/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/10/2021.
+Ademais, a via estreita do habeas corpus não se coaduna com o pedido de absolvição ou de desclassificação de condutas, por extrapolar o âmbito sumário de sua cognição.
+Nessa direção:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE POSSE DE DROGAS PARA USO PESSOAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. RISCO EFETIVO DE REITERAÇÃO DELITIVA. RÉU REINCIDENTE ESPECÍFICO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - grifo acrescido.)
+No caso concreto, examinando-se o conteúdo do acórdão objeto da revisão criminal proposta no Tribunal de origem, observa-se que, ao ter sido negado provimento à apelação manejada contra a condenação do paciente por tráfico de drogas, formou-se a conclusão pelo enquadramento da conduta ao tipo penal do art. 33 da Lei n. 11.343/2006 com base nas provas produzidas ao longo da instrução criminal.
+É o que se extrai da seguinte passagem (fls. 35-37, destaque acrescido):
+No que pertine à autoria, o réu negou a imputação relativa ao tráfico, aduzindo em seu interrogatório que a droga apreendida era para seu próprio consumo, uma vez que é usuário de maconha desde os 16 (dezesseis) anos de idade (mídia audiovisual na contracapa dos autos).
+Em contrapartida, os policiais civis, que participaram da diligencia que culminou com a prisão em flagrante do recorrente, relataram que foram cumprir um mandado de prisão pendente em outro processo e um mandado de busca e apreensão na residência do acusado decorrente de uma investigação relativa ao tráfico de drogas, ocasião em que encontraram dentro de uma pochete uma quantidade de maconha; tendo, no momento da prisão, o reu alegado que a droga era para seu uso (mídia audiovisual na contracapa dos autos).
+Outrossim, o Delegado de Policia da 2ª DP, Elivaldo Bezerra Jacome, narrou em juízo (mídia audiovisual na contracapa dos autos):
+"Que o acusado foi alvo de uma operação que investigava o trafico de drogas, onde deram cumprimento a mandados de busca e apreensão para vinte e quatro alvos; que no dia do cumprimento desses mandados ficou na coordenação; neste alvo especifico, passou no local, mas não sabe exatamente quem encontrou a droga; (..) que a delegacia recebe muitas denuncias anônimas; no caso do acusado, as informações colhidas e que ele vendia drogas no seu comércio, indo em casa para pegar; que no relatório policial, constava que ele vendia drogas, por isso foi solicitado o mandado de busca e apreensão."
+Convém destacar que a prática do crime de tráfico ilícito de drogas se consubstancia em qualquer uma das ações previstas nos arts. 33 e 34 da Lei nº 11.343/20061, sendo desnecessária a prova do ato de vender a substancia entorpecente.
+No caso sob analise, constata-se que o recorrente foi alvo de uma operação policial que investigava o trafico de drogas, tendo por meio de denuncias anônimas e posterior realização de campanas sido identificado como traficante, sendo a prova de que guardava droga em sua residência a apreensão de uma pequena quantidade de maconha, configurando assim o ilícito imputado.
+Desse modo, os depoimentos dos policiais, aliados as provas materiais, além da confirmação do recorrente de que a droga lhe pertencia, mesmo que para consumo, asseguram a ocorrência do delito previsto no art. 33, caput, da Lei nº 11.343/2006, especificamente o núcleo "guardar", bem assim sua autoria; de forma que não há que se falar em ausência ou insuficiência de provas.
+Fica evidente, assim, o descabimento do writ, dada a necessidade de amplo revolvimento de questões fático-probatórias para avaliar a pretensão desclassificatória deduzida nesta impetração.
+Ante o exposto, indefiro liminarmente o habeas corpus (art. 210 do Regimento Interno do Superior Tribunal de Justiça).
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REVISÃO CRIMINAL IMPROCEDENTE NA ORIGEM. SIMPLES PRETENSÃO DE REJULGAMENTO DA CAUSA.DESCLASSIFICAÇÃO CRIMINAL. NECESSIDADE DE AMPLO REVOLVIMENTO DE QUESTÕES FÁTICO-PROBATÓRIAS. IMPOSSIBILIDADE. VIA PROCESSUAL INADEQUADA. INDEFERIMENTO LIMINAR.
