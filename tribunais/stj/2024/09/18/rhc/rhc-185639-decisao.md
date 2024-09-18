@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso habeas corpus com pedido de liminar interposto por LUIS EDUARDO LUIZ MACHADO contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o recorrente está sendo processado pela suposta prática da conduta descrita no art. 155, § 4º, IV e § 6º, do Código Penal.
+Impetrado writ perante o Tribunal de origem, a ordem foi denegada nos termos da seguinte ementa (fl. 30):
+HABEAS CORPUS. PEDIDO DE REQUISIÇÃO DE PROVA. AUSÊNCIA DE REQUERIMENTO NA RESPOSTA À ACUSAÇÃO. INSTAURAÇÃO DE INCIDENTE DE ILICITUDE DE PROVA. ELEMENTO PROBATÓRIO NÃO CONSTANTE DOS AUTOS.
+Não há ilegalidade na decisão que indefere pedido de requisição de determinado arquivo à Delegacia de Polícia e a subsequente instauração de incidente de ilicitude da prova se o requerimento não foi formulado na resposta à acusação, e se a prova cuja ilicitude se almeja ver reconhecida não integra os autos.
+ORDEM DENEGADA.
+No presente recurso, o recorrente sustenta que haveria, nos autos do inquérito policial, a referência a um áudio gravado por um policial com uma conversa informal com o recorrente contendo a sua confissão, sem indicativos de que ele teria sido advertido do seu direito à não autoincriminação.
+Diante disso, a defesa teria requerido, nos autos da ação penal originária, a instauração de "incidente de reconhecimento de ilicitude de prova", com o propósito de obter a juntada do referido áudio e possibilitar o acesso integral do documento a todas as partes, pleito que teria sido indeferido pelo Juízo da instância de origem.
+Argumenta que a referida gravação teria sido documentada e que, apesar da autoridade policial e do Ministério Público terem obtido acesso ao elemento de informação citado, a defesa teria sido impedida de acessá-lo, o que violaria os princípios do contraditório e da ampla defesa, bem como o enunciado 14 da Súmula Vinculante do Supremo Tribunal Federal.
+Requer, liminarmente, a suspensão da ação penal até o julgamento final deste writ. No mérito, pugna pelo provimento do recurso para que seja determinado o amplo acesso aos elementos informativos documentados no inquérito policial, com o objetivo de se possibilitar a abertura de incidente de ilicitude de provas.
+A liminar foi indeferida (fls. 61-62).
+Informações prestadas pela Corte de origem (fls. 67-77).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 82-86).
+É o relatório.
+No caso em exame, não se verifica a ocorrência de constrangimento que possa ensejar o provimento do recurso.
+Com efeito, o recorrente sustenta a ocorrência de cerceamento de defesa, em razão de não lhe ter sido permitido o acesso a todos os documentos documentados no inquérito policial, notadamente a gravação que conteria a sua confissão.
+O acórdão impugnado, proferido pelo Tribunal de origem, assim dirimiu a questão (fls. 28-29):
+Não há violação à Súmula Vinculante 14 porque os Impetrantes não pretendem ter acesso a elemento de prova documentado. O elemento de convicção em questão não foi documentado. Não é a Defesa apenas que não tem acesso a ele; nenhum outro ator processual tem.
+O que os Impetrantes almejam, na verdade, é a produção de determinado elemento de prova. Não a confecção propriamente dita (o arquivo com o diálogo, em teoria, já existe), mas a inclusão desse elemento de convicção nos autos, para que seja apreciado e tratado como prova.
+É por isso que, de fato, o requerimento é temporalmente inadequado. Porque deveria ter sido feito com a resposta à acusação (CPP, art. 396-A, caput), e não em petição avulsa apresentada depois de já formalmente oferecida a defesa.
+ ..
+A instauração do incidente, por sua vez, é frustrada justamente porque, até o momento, a prova cuja ilicitude se pretende reconhecer não foi produzida.
+É certo que o interesse da Defesa não é apenas no reconhecimento da ilicitude dessa prova em particular. Mas a ilicitude por derivação ainda demanda, por definição, a declaração da ilegalidade primitiva.
+Note-se, por fim, que os próprios Impetrantes afirmam sua pretensão de "antecipar um debate como oportunidade de evitar nulidade posterior" (Evento 1, doc1, p. 3). Como, porém, o debate não foi satisfatoriamente antecipado (isto é, a prova não foi postulada por ocasião da resposta à acusação), não há justificativa para travá-lo agora, especialmente porque, como a Autoridade Impetrada consignou, a providência pode ser tomada ao final da etapa instrutória, como dispõe o art. 402 do Código de Processo Penal.
+Inicialmente, não se verifica a ocorrência de violação do enunciado 14 da Súmula Vinculante do STF, uma vez que, conforme descrito no julgado impugnado, o elemento informativo a que se pretende ter acesso, em verdade, não está documentado nos autos, não tendo nenhuma das partes tido acesso à referida gravação.
+Além disso, tratando-se de elemento não documentado e produzido no âmbito inquisitorial, o momento processual adequado, para a arguição do requerimento de produção de provas adicionais, seria na apresentação da resposta à acusação (art. 396-A do Código de Processo Penal), o que não se verificou nos autos.
+A propósito:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. NULIDADE. PEDIDO DE CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA INDEFERIDO PELO MAGISTRADO. AUSÊNCIA DE ILEGALIDADE. NEGATIVA FUNDAMENTADA. PRISÃO EM FLAGRANTE. RÉU QUE RESPONDEU PRESO DURANTE TODA A AÇÃO PENAL. CONDENAÇÃO. DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. PERICULOSIDADE. REINCIDÊNCIA. ORDEM DENEGADA.
+1. "A caracterização de cerceamento do direito de defesa pelo indeferimento de alguma prova requerida pela parte possui como condicionante possível arbitrariedade praticada pelo órgão julgador, e não simplesmente a consideração ou o entendimento da parte pela indispensabilidade de sua realização. Logo, poderá o magistrado, em estrita observância à legislação de regência e com fito de formar sua convicção, entender pela necessidade ou não da produção de determinada prova, desde que fundamente o seu entendimento de forma adequada e oportuna, como ocorreu na hipótese" (AgRg no RHC n. 35.897/SP, de minha relatoria, julgado em 18/9/2018, DJe 25/9/2018).
+2. No caso, o indeferimento do pedido defensivo de conversão do julgamento em diligência ocorreu de forma devidamente fundamentada, pois demonstrada a desnecessidade de produção da prova requerida, uma vez que o resultado com ela obtido em nada contribuiria ou influenciaria para afastar a responsabilidade penal do paciente.
+Ademais, como bem assinalou o Tribunal de origem ao julgar o recurso de apelação, "o momento processual para se elaborar o pedido de produção de provas adicionais, não se tratando de fato superveniente, é quando da apresentação de defesa preliminar no caso do crime de tráfico de drogas, ou então, resposta à acusação, após a citação do acusado. E pelo que se observa, tais pedidos se apresentam extemporâneos, importando assim, em preclusão, conforme o art. 571 do Código de Processo Penal".
+ ..
+(HC n. 601.709/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/8/2021, DJe de 31/8/2021 - grifos acrescidos.)
+Ademais, não houve cerceamento de defesa, porquanto o indeferimento de acesso à gravação foi devidamente fundamentado pelo Magistrado da instância de origem, inclusive com a indicação de possibilidade de juntada da mídia requerida na fase de diligências, consoante o disposto no art. 402 do CPP (fl. 69).
+Nesse contexto, a jurisprudência desta Corte Superior é pacífica de que " o  indeferimento fundamentado de pedido de produção de prova não caracteriza ilegalidade, pois cabe ao juiz, na esfera de sua discricionariedade, negar motivadamente a realização das diligências que considerar irrelevantes ou protelatórias" (AgRg no RHC n. 189.189/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
