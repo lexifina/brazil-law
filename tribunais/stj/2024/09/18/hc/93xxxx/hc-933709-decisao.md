@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JHONATAN ALMEIDA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal nº 1547300-25.2023.8.26.0050)
+Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime fechado, além do pagamento de 13 dias-multa, como incurso no art. 157, § 2º, II (duas vezes) n/f do art. 70, do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão que recebeu a seguinte ementa;
+"APELAÇÕES. ROUBO MAJORADO. Artigo 157, § segundo, inciso II, do Código Penal. Emprego de comparsaria e simulacro de arma de fogo para subtração de bens da vítima. Recurso da defesa. Sentença bemfundamentada. Robusto conjunto probatório desfavorável ao réu. Apreensão, em flagrância, logo após o delito, em posseda coisa subtraída. Palavras da vítima e dos servidorespoliciais seguras e consistentes. Depoimentos policiaisválidos. Suficiência para a comprovação dos fatos. Condenação mantida. Dosimetria da pena mantida. Regimefechado bem aplicado. Gravidade concreta do delito. Prequestionamento. Recursos não providos." (e-STJ, fls. 115-123)
+Neste writ, a defesa alega, em síntese, falta de fundamentação para a fixação do regime fechado, tratando-se de paciente primário e que as circunstâncias judiciais foram consideradas favoráveis. Aponta contrariedade às Súmulas n. 718 e 719 do STF e n. 440 do STJ.
+Requer a concessão da ordem para que seja fixado o regime semiaberto.
+Indeferida a liminar (e-STJ, fl. 126), o Ministério Público Federal opina pelo não conhecimento do writ (e-STJ, fls. 173-175).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem, ao manter o regime, apontou :
+"Sobre o regime, para ambos, adequada a imposição do regime inicial fechado, para atingir a finalidade de retribuição e reeducação da pena imposta, levando-se em consideração especialmente a truculência dos atos praticadoscontra a vítima, que foi subjugada por superioridade agentes, com ostentação de simulacro de arma de fogo, o que denota a significativa reprovabilidade e a gravidade concreta das condutas, que colocaram a risco ilegítimo a vida e integridade física do ofendido." (e-STJ, fl. 121)
+Com efeito, os fundamentos utilizados pelas instâncias ordinárias não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo falar em violação da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+Por certo, malgrado fixação da pena base no mínimo legal e a primariedade técnica do paciente, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito. No caso, os pacientes agiram em superioridade numérica e ostentando simulacro de arma de fogo, o que constituiu elemento de gravidade suficiente para a imposição de regime mais grave.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. REGIME INICIAL DE CUMPRIMENTO DE PENA FIXADO COM BASE NA GRAVIDADE CONCRETA DO CRIME. AUSÊNCIA DE ILEGALIDADE. RECURSO NÃO PROVIDO.
+1. O regime prisional deve observar os preceitos constantes nos arts. 33 e59, do Código Penal, bem como os enunciados 440 da Súmula do SuperiorTribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.
+2. A gravidade em concreto do delito é fundamento para a fixação de regime inicial mais gravoso. Precedentes.
+3. Agravo regimental não provido." (AgRg no HC n. 759.926/SP, relatora Ministra Daniela Teixeira, QuintaTurma, julgado em 12/3/2024, DJe de 18/3/2024.);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL VALORADA NEGATIVAMENTE. MAIOR REPROVABILIDADE DA CONDUTA. QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA.
+1. De acordo com o entendimento firmado nesta Corte, fixada a pena-base nomínimo legal, é vedado o estabelecimento de regime prisional mais gravosodo que o cabível em razão da sanção imposta, com base apenas na gravidadeabstrata do delito, nos termos da Súmula n. 440 deste Tribunal e 718 e 719 do STF.
+2. No entanto, in casu, a fixação do regime mais gravoso se deu emconsonância com o entendimento firmado por esta Corte Superior, pois, apesar de fixada a pena em patamar inferior a 4 anos (3 anos e 9 meses de reclusão), é admissível recrudescimento do regime prisional, tendo em vista a maior reprovabilidade da conduta praticada - abastecimento de drogas em bairro vulnerável de pequena cidade, além da quantidade de drogaapreendida e da fixação da pena-base acima do mínimo legal, nos termos dos arts. 33, § 2º, c, e 44 do CP, c/c o art. 42 da Lei n. 11.343/2006. Precedentes.
+3. Agravo regimental improvido.(AgRg no HC n. 813.937/SP, relator Ministro Jesuíno Rissato (DesembargadorConvocado do TJDFT), Sexta Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
