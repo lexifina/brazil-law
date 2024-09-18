@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO.
+O recorrido DOUGLAS ALVES DE FARIAS foi preso em flagrante pela prática do crime do art. 33, caput, da Lei n. 11.343/06, convertida em preventiva em audiência de custódia, sob o fundamento da garantia da ordem pública.
+O Tribunal de Justiça concedeu a ordem em habeas corpus para revogar a prisão preventiva imposta, substituindo-a por outras medidas cautelares (fls. 69-72).
+O Ministério Público interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, sustentando a negativa de vigência ao art. 312, e violação ao art. 619, ambos do Código de Processo Penal (fls. 113-124).
+O recurso foi admitido na origem (fls. 132-136).
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 152-156).
+É o relatório. DECIDO.
+O recorrente insurge-se contra acórdão que concedeu ordem para revogar a prisão preventiva imposta ao réu.
+O acórdão restou assim ementado (fl. 72):
+"Entretanto, na espécie, observa-se que, embora presente o fumus comissi delicti, no que tange ao periculum libertatis, a decisão hostilizada encontra-se fundamentada na gravidade abstrata do delito, motivação que, de per si, não autoriza a manutenção da custódia cautelar, que exige fundamentação baseada em elementos que demonstrem a periculosidade em concreto do indivíduo. Em análise das condições pessoais, observa-se que o paciente é primário, com 29 anos, possui trabalho lícito, tem residência fixa e não registra nenhum elemento a indicar, no presente momento, a possibilidade de reiteração delitiva. Não se está a negar a gravidade que o delito de tráfico de drogas representa à sociedade tampouco a quantidade e diversidade de entorpecentes apreendidos, porém, neste momento, a conduta do paciente não exorbita de forma a servir unicamente como fundamento da necessidade da medida extrema, sendo que a configuração da traficância será melhor averiguada no curso da instrução criminal. Revogação da cautelar que se impõe."
+O Ministério Público insurge-se contra a decisão, sustentando a presença dos requisitos autorizadores da prisão preventiva e da gravidade concreta da conduta, consistente na variedade de drogas apreendidas e na reincidência do recorrido.
+Inicialmente, quanto à alegada omissão na apreciação da nocividade da conduta e da periculosidade da conduta, verifico que estas questões foram apreciadas pelo Tribunal que, entretanto, decidiu de modo diverso do pretendido pelo recorrente. Assim, não há que se falar em violação ao disposto no art. 619 do Código de Processo Penal, pois o Tribunal de origem se manifestou sobre todos os aspectos relevantes para a definição da causa, tendo concluído pela inexistência de periculum libertatis no caso concreto.
+Entre os fundamentos que tornariam necessária a segregação cautelar, sustenta o Ministério Público ser o recorrido reincidente e possuir três ações em curso. Verifico, porém, que o acórdão na origem fundou a decisão, entre outros elementos, na primariedade do réu. Concluir de modo diverso importaria em vedado reexame de provas, nos termos da Súmula n. 7, STJ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. PRISÃO PREVENTIVA. DESNECESSIDADE DA MEDIDA. SUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. ENTENDIMENTO DIVERSO QUE DESAFIA A SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. SUFICIÊNCIA DAS MEDIDAS CAUTELARES IMPOSTAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça - STJ firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+2. O Tribunal de origem afirmou não haver necessidade da manutenção da prisão preventiva do agente, considerando sua primariedade e a pequena quantidade de droga apreendida em seu poder, ressaltando a suficiência da aplicação de medidas cautelares alternativas. Para desconstituir esse entendimento e concluir pela necessidade de decretação da prisão preventiva seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+3. A s medidas cautelares alternativas impostas, ao que parece, se mostraram eficazes, tendo em vista que, mesmo após quase 1 ano e 7 meses da revogação da custódia, não há notícia de decretação de nova prisão preventiva do agente.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.043.869/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OPERAÇÃO "LA FAMIGLIA". LIBERDADE PROVISÓRIA CONCEDIDA AO RECORRIDO NA ORIGEM. PRETENSÃO MINISTERIAL DE RESTAURAÇÃO DA PRISÃO PREVENTIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A discussão desenvolvida no recurso especial, que busca a decretação da prisão preventiva do recorrido, esbarra no óbice da Súmula 7/STJ, já que seria necessário o reexame dos fatos e provas da causa para aferir a presença dos requisitos do art. 312 do CPP.
+Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.830.022/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+Ademais, no caso concreto, observo que o recorrido foi posto em liberdade há cerca de seis meses pelo Tribunal de origem, sem que haja notícia de qualquer ofensa à ordem pública ou reiteração delitiva de sua parte, a indicar a necessidade de lhe impor medida cautelar de natureza excepcional.
+Ressalvo a possibilidade de, estando presentes os fundamentos da medida cautelar, o Ministério Público novamente requerer a decretação da prisão preventiva ao juízo competente, nos termos do art. 316 do Código de Processo Penal.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento, nos termos do art. 255, § 4º, incisos I e II, do RISTJ.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. DÚVIDAS ACERCA DA PRIMARIEDADE DO RÉU. VEDADO REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7, STJ. AUSÊNCIA DE DEMONSTRAÇÃO DO PERICULUM LIBERTATIS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
