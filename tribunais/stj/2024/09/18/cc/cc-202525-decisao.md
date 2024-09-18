@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa do Juízo de Direito da 7ª Vara Cível de Brasília/DF em face do Juízo de Direito da 37ª Vara Cível de São Paulo/SP, relativamente à competência para processar e julgar ação civil pública proposta por PRO TESTE ASSOCIAÇÃO BRASILEIRA DE DEFESA DO CONSUMIDOR em desfavor de A"REVALO INDÚSTRIA E COMÉRCIO DE COSMÉTICOS, IMPORTAÇÃO E EXPORTAÇÃO LTDA, em razão da comercialização de produto que extrapola os limites de segurança do formol.
+O Juízo suscitado, da 37ª Vara Cível da Comarca de São Paulo/SP, declinou da competência ao Distrito Federal, por entender que a entidade é de âmbito nacional, não sediada no Estado, e o produto é comercializado em todo território nacional, sendo o dano, igualmente, nacional (fl. 41).
+O Juízo de Direito da 7ª Vara Cível de Brasília/DF suscitou o presente conflito ao fundamento de que, "levando-se em consideração que a ação foi proposta inicialmente no Foro da Capital (São Paulo/SP) em que localizada a sede da ré (Echaporã/SP), tem-se por observada a previsão contida no art. 93, inciso II, do CDC, ainda que se trate de produto comercializado em todo o território nacional. Isto porque, mesmo sendo o caso de competência concorrente entre o Distrito Federal, São Paulo/ SP (sede da ré) e o Rio de Janeiro/RJ (sede da autora), conforme dito anteriormente, a competência é fixada no momento do registro ou da distribuição da petição inicial, nos termos do art. 43 do CPC" (fls. 6/7).
+O Ministério Público Federal opinou pela declaração de competência do Juízo de Direito da 37ª Vara Cível de São Paulo/SP (fls. 46/48).
+Assim delimitada a controvérsia, passo a decidir.
+O entendimento já pacificado nesta Corte, com relação ao inciso II, do art. 93, do CDC, é no sentido de que "inexiste competência exclusiva do Distrito Federal para julgamento de ações civis públicas cuja controvérsia gravite em torno de dano ao consumidor em escala nacional, podendo a demanda também ser proposta na capital dos Estados da Federação" (REsp 712.006/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 24.8.2010).
+Nesse sentido são, também, entre outros, os seguintes julgados da Segunda Seção:
+AÇÃO CIVIL PÚBLICA. POUPANÇA. DANO NACIONAL. FORO COMPETENTE. ART. 93, INCISO II, DO CDC. COMPETÊNCIA CONCORRENTE. CAPITAL DOS ESTADOS OU DISTRITO FEDERAL. ESCOLHA DO AUTOR.
+1. Tratando-se de dano de âmbito nacional, que atinja consumidores de mais de uma região, a ação civil pública será de competência de uma das varas do Distrito Federal ou da Capital de um dos Estados, a escolha do autor.
+2. Conflito de competência conhecido para declarar competente o Juízo de Direito da 7ª Vara Cível do Foro Central da Comarca da Região Metropolitana de Curitiba/PR.
+(CC 112.235/DF, minha relatoria, unânime, DJe de 16.2.2011)
+COMPETÊNCIA. AÇÃO CIVIL PÚBLICA. DEFESA DE CONSUMIDORES. INTERPRETAÇÃO DO ART. 93, II, DO CÓDIGO DE DEFESA DO CONSUMIDOR. DANO DE ÂMBITO NACIONAL.
+Em se tratando de ação civil coletiva para o combate de dano de âmbito nacional, a competência não é exclusiva do foro do Distrito Federal. Competência do Juízo de Direito da Vara Especializada na Defesa do Consumidor de Vitória/ES.
+(CC 26.842/DF, Rel. p/ acórdão Ministro CESAR ASFOR ROCHA, DJU de 5.8.2002)
+CONFLITO DE COMPETÊNCIA. AÇÃO CIVIL COLETIVA. CÓDIGO DO CONSUMIDOR, ART. 93, II.
+A ação civil coletiva deve ser processada e julgada no foro da capital do Estado ou no do Distrito Federal, se o dano tiver âmbito nacional ou regional; votos vencidos no sentido de que, sendo o dano de âmbito nacional, competente seria o foro do Distrito Federal.
+Conflito conhecido para declarar competente o Primeiro Tribunal de Alçada Civil do Estado de São Paulo.
+(CC 17.532/DF, Rel. Ministro ARI PARGENDLER, por maioria, DJU de 5.2.2001)
+Assim, mesmo que se entenda que a pretensão alcança a defesa de direitos de consumidores de todo o país, o que caracterizaria o dano alegado como de caráter nacional, cabe ao autor o direito de escolher, dentre os foros competentes (o da capital do Estado ou o do Distrito Federal), o que mais lhe convier para ajuizamento da ação civil pública.
+Rodolfo de Camargo Mancuso, ao citar Hugo Nigro Mazzilli, afirma que, "tratando-se de de danos efetivos ou potenciais a interesses transindividuais, que atinjam todo o País, a tutela coletiva será de competência de uma vara do Distrito Federal ou da Capital de um dos Estados, a critério do autor" (in Ação civil pública: em defesa do meio ambiente, do patrimônio cultural e dos consumidores: Lei 7.347/85 e legislação complementar. 10ª ed. São Paulo: Editora Revista dos Tribunais, 2007, p. 78).
+O Ministro Cesar Asfor Rocha, quando do julgamento do CC 26.842/DF, para o qual foi relator do acórdão, afirmou, em seu voto, que, "sendo o dano de âmbito nacional, a ação poderá ser proposta em qualquer Estado-Membro ou no Distrito Federal, no que mais conveniente for ao autor".
+Se competente é o foro do Distrito Federal ou de qualquer das capitais, que são concorrentes, e escolhida pelo autor a capital paulista, ali deve tramitar a ação civil pública.
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 37ª Vara Cível de São Paulo/SP.
+Comunique-se. Intimem-se.
+EMENTA
