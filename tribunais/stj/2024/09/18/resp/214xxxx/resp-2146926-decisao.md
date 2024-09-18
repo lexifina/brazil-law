@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ com arrimo no permissivo constitucional contra acórdão do TJ/MG assim ementado (e-STJ fls. 1763/1764):
+EMENTA: AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE RECONHECEU A VIOLAÇÃO DO PRINCIPIO DA NÃO SURPRESA. ART. 10 DO CPC/2015. NECESSIDADE DE MANIFESTAÇÃO DA PARTE SOBRE FATO CONTRÁRIO ÀS SUAS PRETENSÕES. ART. 933 DO CPC. PRECEDENTES DO STJ. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+01. O mérito do presente recurso cinge-se em analisar decisão monocrática, que reconheceu a violação do princípio da não surpresa e determinou a abertura de prazo para as partes se manifestarem sobre a intempestividade de apelação cível.
+02. "O "fundamento" ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação -, não se confundindo com o fundamento legal (dispositivo de lei regente da matéria). A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure" (EDcl no Resp nº 1.280.825/RJ, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2017, DJe 1/8/2017.);
+03. O art. 933 do CPC/2015, em sintonia com o multicitado art. 10, veda a decisão surpresa no âmbito dos tribunais, assinalando que, seja pela ocorrência de fato superveniente, seja por vislumbrar matéria apreciável de ofício ainda não examinada, deverá o julgador abrir vista, antes de julgar o recurso, para que as partes possam se manifestar.
+04. Compulsando os autos, cristalino que a parte ora agravada teve vulnerado o direito ao contraditório, uma vez que não teve oportunidade de se manifestar sobre o argumento que conduziu a conclusão em sentido oposto à sua pretensão.
+05. Agravo Interno conhecido e desprovido.
+O recorrente apontou violação aos arts. 10 e 1.003, §5º, do CPC/2015, por entender que não deve ser aplicado o princípio da vedação de decisão surpresa no caso, visto que se trata de situação de inadmissibilidade recursal por descumprimento do prazo de 15 (quinze) dias para a interposição do recurso de apelação. Alega que "uma vez verificada a intempestividade recursal, não merece a Apelação Cível ser sequer conhecida, independentemente da intimação das partes para se manifestarem a respeito" (e-STJ fl. 1792).
+Contrarrazões.
+Parecer ministerial pelo provimento do recurso. (e-STJ fls. 1820/1824).
+Passo a decidir.
+A matéria aqui tratada diz respeito à aplicação (ou não) do princípio da vedação de decisão surpresa previsto no art. 10 do CPC/2015, diante da verificação dos requisitos de admissibilidade recursal.
+Conforme entendimento pacificado nesta Corte, tratando-se requisito objetivamente previsto no ordenamento processual civil vigente, notadamente a tempestividade recursal, descabe aplicar o princípio em comento.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. QUANTUM. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE COTEJO ANALÍTICO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO SURPRESA. NÃO OCORRÊNCIA.
+1. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissenso pretoriano não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, na medida em que a parte recorrente, ora agravante, não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+2. Na forma da jurisprudência desta Corte, "a verificação dos pressupostos de admissibilidade do recurso não caracteriza decisão surpresa" (AgInt no AREsp n. 2.102.397/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 1/6/2023).
+3. Impossibilidade de concessão de prazo à parte recorrente para complementar as razões do recurso especial, uma vez que "os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão" (AgInt no REsp n. 1.801.056/SE, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 9/6/2023).
+4. A revisão do quantum fixado pelo Tribunal de origem a título de indenização por danos morais demanda o reexame de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp n. 2.286.720/MG, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 22/6/2023; AgInt no REsp n. 1.949.215/AM, relator Ministro PAULO SÉRGIO DOMINGUES, PRIMEIRA TURMA, DJe de 29/6/2023.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.779.596/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)  Grifos acrescidos .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. IRRESIGNAÇÃO RECURSAL DOS DEMANDANTES.
+1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Conforme entendimento reafirmado pela Corte Especial deste STJ, a comprovação da ocorrência de feriado local deve ocorrer no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15.
+1.2. A análise dos requisitos de admissibilidade recursal, ainda que de ofício, não viola o princípio da não surpresa. Precedentes.
+1.3. O juízo de admissibilidade do recurso especial é bifásico, de modo que qualquer pronunciamento do Tribunal de origem acerca da tempestividade recursal não vincula esta Corte Superior, a quem compete analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+1.4. A certidão, constante dos autos, atestando a data de publicação do acórdão recorrido possui fé pública. Eventual alegação de erro deve vir acompanhada de certidão específica da Corte de origem, o que não ocorreu. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.211.831/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)  Grifos acrescidos  .
+De rigor, portanto, a baixa dos autos à origem para o reexame da questão, levando em consideração o atual entendimento desta Corte a respeito da impossibilidade da aplicação do princípio da não surpresa ao presente caso.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, para determinar a baixa dos autos ao Tribunal de origem, de modo a viabilizar um novo exame a respeito da tempestividade da apelação.
+Publique-se. Intimem-se.
+EMENTA
