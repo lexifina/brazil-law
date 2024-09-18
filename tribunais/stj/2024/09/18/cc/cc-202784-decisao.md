@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito de competência em que figura como suscitante o juízo da 2ª Vara Federal de Sorocaba e como suscitado o juízo do Setor de Execuções Fiscais da Comarca de Porto Feliz /SP, relativamente à competência do juízo deprecado para penhora, registro e avaliação de bens livres em nome da parte executada, considerando que a parte executada é domiciliada e possui bens na Comarca de Porto Feliz/SP.
+O juízo suscitado, por sua vez, argumenta que a constrição de bem imóvel por termo nos autos pode ser realizada pelo próprio juízo de execução, não havendo necessidade de expedição de carta precatória para tal fim. Aduz que a deprecação para penhora de bens pressupõe não somente a existência de bens situação em local diverso do foro do Juízo de execução, mas também a impossibilidade da realização da penhora no termo dos autos, o que depende de demonstração específica.
+O Ministério Público opina pelo conhecimento do conflito, a fim de que seja declarada a competência do Juízo de Direito do Setor de Execuções Fiscais de Porto Feliz - SP, conforme parecer assim ementado:
+EMENTA: PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. CARTA PRECATÓRIA. JUÍZO ESTADUAL. DEVOLUÇÃO. ROL TAXATIVO DO ART. 267 DO CPC/2015. NÃO ENQUADRAMENTO. INTIMAÇÃO PESSOAL DOS COPROPRIETÁRIOS. VIA POSTAL. FACULDADE DO JUÍZO DEPRECANTE. EXECUÇÃO FISCAL. IMÓVEL. CERTIDÃO DE MATRÍCULA. PENHORA. TERMO NOS AUTOS. ART. 845, §1º, DO CPC/2015. POSSIBILIDADE. EXPEDIÇÃO DE CARTA PRECATÓRIA. MEDIDA SUBSIDIÁRIA. PECULIARIDADES DO CASO CONCRETO. ANÁLISE DO JUÍZO DA EXECUÇÃO.
+1. Preenchidos os pressupostos contidos no art. 105, I, "d", da Constituição Federal, deve ser conhecido o incidente processual.
+2. Carta precatória expedida com fundamento no parágrafo único do art. 273 do CPC/2015. Trata-se de solicitação de cooperação que não se confunde com delegação de competência.
+3. Na espécie, a devolução da carta precatória sem cumprimento não está amparada no rol taxativo do art. 267 do CPC, bem como na jurisprudência consolidada do STJ. Precedente.
+4. Não obstante a exceção contida no art. 845, §1º, do CPC, cabe ao Juízo da causa, considerando as peculiaridades do caso concreto, decidir a respeito da penhora, avaliação, alienação dos imóveis, bem ainda quanto à modalidade de intimação pessoal dos coproprietários.
+5. Parecer pelo conhecimento do conflito, a fim de que seja declarada a competência do JUÍZO DE DIREITO DO SETOR EXECUÇÕES FISCAIS DE PORTO FELIZ-SP.
+É o relatório. Decido.
+Acolho os fundamentos do parecer ministerial, adotando-os como razão de decidir.
+Realmente, o § 1º do art. 845 prevê, como regra, a possibilidade de que a penhora seja realizada por termo nos autos, o que dispensaria a deprecação.
+Ocorre, contudo, que a regra acima descrita possui condicionantes cuja finalidade é estabelecer a desnecessidade de deprecação quando for possível que seja feita, independentemente da localidade, por termo nos autos.
+A hipótese sob análise, contudo, possui distinções relevantes, que merecem destaque. Observe-se o quanto constou do parecer ministerial (fl. 67):
+Observa-se às fls. 34 e 41 que, em 20/3/2023 e 2/2/2024, respectivamente, o Juízo Federal deprecante determinou a expedição de cartas precatórias ao Juízo Estadual, para penhora do imóvel de copropriedade da executada, bem ainda "(..) a intimação do executado e dos condôminos".
+Assim, a questão central fomentada no incidente processual em exame diz respeito à (des)necessidade de deprecação dos atos que envolvem a penhora de imóvel, em condomínio de fato, localizado em Comarca diversa, quando presente nos autos a certidão de matrícula, à luz da exceção contida no §1º do art. 845 do CPC. A controvérsia permeia, também, a definição do Juízo competente para proceder à intimação dos coproprietários envolvidos.
+ ..
+Todavia, o dispositivo supramencionado não ampara a devolução da precatória em análise, por duas razões que, se ignoradas, propiciariam futuras nulidades. A primeira diz respeito à necessidade de intimação pessoal dos coproprietários do imóvel sobre o qual se ordenou penhora. A segunda trata da patente perda da validade da certidão da matrícula do imóvel constante nos autos.
+Nesse sentido, dadas as peculiaridades do caso, que tornam mais adequada a atuação do juízo da Comarca onde está localizado o imóvel, a devolução da carta, sem seu cumprimento, fora das hipóteses taxativas previstas no art. 267 do CPC não se compatibiliza com os princípios de cooperação judiciária nacional insertos no novo Código de Processo Civil.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito para declarar competente o JUÍZO DE DIREITO DO SETOR DEEXECUÇÕES FISCAIS DE PORTO FELIZ - SP.
+Publique-se. Intimem-se.
+EMENTA
