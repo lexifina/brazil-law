@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por BANCO DO BRASIL SA contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o Recurso Especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que "o Agravo em Recurso Especial em referência, traz em seu bolo discussão de tem com orientação de suspensão, em razão do reconhecimento da repercussão geral no Recurso Extraordinário nº 1.445.162-DF, nos termos do art. 1.035, §5º, do CPC, inclusive com determinação de suspensão em todo território nacional de todos os processos que versem sobre a matéria. " (fl. 316).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 83/STJ e súmula 284/STF.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26.8.2020, e AgRg no RHC n. 128.660/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24.8.2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o recurso especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Quanto ao pedido de suspensão constante da petição, verifica-se que o fato de a controvérsia de mérito porventura discutida nestes autos ter sido afetada à sistemática dos recursos repetitivos não impede a análise de recurso que sequer preenche os requisitos de admissibilidade recursal.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. AFETAÇÃO DO TEMA À PRIMEIRA SEÇÃO EM RECURSO ESPECIAL REPETITIVO. RECURSO MANIFESTAMENTE INADMISSÍVEL. SOBRESTAMENTO. DESNECESSIDADE. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. MULTA DIÁRIA. ART. 461, § 4º, DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1 - O fato de a questão de mérito ter sido afetada a julgamento pela Primeira Seção pela sistemática do art. 543-C do CPC não obsta a pronta negativa de seguimento de recurso especial que sequer ultrapassa a barreira de admissibilidade recursal, hipótese dos autos.
+2 - É deficiente a fundamentação do especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+3 - A tese jurídica debatida no recurso especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+4 - A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de multa diária (astreintes) pelo descumprimento de decisão judicial, pois tal providência igualmente exigiria incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+5 - Agravo regimental a que se nega provimento. (AgRg no AREsp n. 763.135/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/11/2015.)
+Ante o exposto, rejeito os Embargos de Declaração, indefiro o pedido de sobrestamento do feito e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
