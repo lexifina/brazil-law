@@ -1,0 +1,13 @@
+DECISÃO
+Contra o acórdão do Tribunal de Justiça do Pará que não conheceu do HC n. 0812016-49.2024.8.14.0000, interpôs-se este recurso, em que se sustenta a existência de flagrante ilegalidade na decisão de nomeação de um advogado dativo para atuar na defesa de Edson Renato da Silva Lima na sessão de julgamento do Tribunal do Júri (Autos desmembrados n. 0810080-47.2024.8.14.0401).
+Argumenta-se que, no caso dos autos, há violação dos princípios da ampla defesa, do contraditório e do defensor público natural, tendo em vista a nomeação de defensor ad hoc, sem anuência do réu, e a desconsideração da Defensoria Pública do Estado do Pará para atuar na defesa do réu perante o juízo coator (fl. 105).
+Aduz-se que há notório prejuízo ofertado pelo paciente, uma vez que além de ter sido condenado pelo Tribunal do Júri da capital, a pena de 33 anos inicialmente em regime fechado, os defensores dativos nomeados sequer apresentaram recurso de apelação tendo a ação penal transitada em julgado (fl. 109).
+Requer-se a concessão liminar da ordem para que seja declarada a nulidade dos atos praticados a partir da nomeação do defensor dativo em descompasso com o texto constitucional, leis federais e entendimento firmado no âmbito do STF, inclusive da sessão de julgamento do júri realizado no dia 8.8.2024, diante do evidente prejuízo demonstrado, isso considerando não só a condenação do paciente em sessão de Júri, mas a desídia da defesa nomeada e a não interposição de recurso em face da condenação, a fim de fazer cessar o constrangimento ilegal que incide sobre aquele cidadão (fls. 109/110).
+É o relatório.
+Não há o que censurar na decisão tomada pelo Tribunal estadual, que, para não conhecer do writ lá ajuizado, considerou o fato de não haver flagrante ilegalidade a justificar a utilização da via eleita.
+Com efeito, não há como se aprofundar, na via eleita, no exame do acervo fático-probatório para se infirmar a conclusão de que o paciente não só teve ciência da nomeação de advogado dativo, como também concordou com a referida decisão em juízo (fl. 57), devendo ser considerado, ainda, que o requerimento de desmembramento do feito por existência de teses antagônicas foi apresentado pela própria Defensoria Pública (cf. fl. 11) e que, segundo informado pelo Juízo de piso, o defensor peticionante é o único vinculado a esta Vara (fl. 20).
+Pelo exposto, não conheço do presente feito.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE HOMICÍDIO. ALEGAÇÃO DE NULIDADE DECORRENTE DA NOMEAÇÃO DE DEFENSOR DATIVO. PRÉVIO WRIT NÃO EXAMINADO PELO TRIBUNAL ESTADUAL POR VIR COMO SUCEDÂNEO DE RECURSO PRÓPRIO. AUSÊNCIA DE PATENTE ILEGALIDADE A JUSTIFICAR A UTILIZAÇÃO DA VIA ELEITA.
+Recurso não conhecido.
