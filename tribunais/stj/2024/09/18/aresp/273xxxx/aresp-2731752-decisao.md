@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ANSELMIRA FREITAS PADILHA contra decisão do Tribunal de Justiça do Estado do Maranhão, que não admitiu recurso especial interposto para desafiar acórdão assim ementado (e-STJ fl. 348):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE SENTENÇA COLETIVA. INTIMAÇÃO DO AUTOR PARA EMENDAR A INICIAL. INÉRCIA. SENTENÇA EXTINTIVA. RECURSO DESPROVIDO.
+Declaratórios rejeitados (e-STJ fls. 383/395).
+No especial obstaculizado, a parte recorrente sustenta violação do art. 489, IV e 1.022, I, do CPC/2015, porque "tal emenda resta foi cumprida através da juntada da lista com somente um dos sobrenomes abreviados, porém a corte estadual não se pronunciou sobre isto" (e-STJ. fl. 399).
+Sem contrarrazões.
+Passo a decidir..
+Ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação, também não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+Nesse contexto, mostra-se pertinente a transcrição do excerto do julgado integrativo exarado pelo Tribunal a quo, em que a questão foi expressamente resolvida. Confira-se (e-STJ fl. 388):
+Analisando os autos, verifico que não há vício embargável no decisum objurgado conforme alegado, pois está amparada na jurisprudência desta Corte de Justiça, no sentido de que deve ser mantida a sentença que indeferiu a inicial e julgou extinto o feito sem resolução do mérito quando a parte autora não cumprir a ordem de emenda da inicial, a fim de juntar documento pessoal de identidade, procuração ad judicia, demonstração de que é vinculada ao sindicato e fichas financeiras ou contracheques.
+Ademais, restou consignado que a embargante não cumpriu a ordem de emenda da inicial proferida pela Magistrada a quo, para "(..) indicar o nome correto da exequente na lista de servidores cujos cálculos já foram homologados em sede de liquidação (ID 13167233), ou comprovar, por meio de certidão expedida pelo juízo da 1º Vara da Fazenda Pública, que o nome constante naquela lista de homologação corresponde à exequente", razão pela qual deve ser mantida o acórdão embargado.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+EMENTA
