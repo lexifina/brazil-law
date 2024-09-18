@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo de ALEX MARQUES CUNHA SANTOS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0702781-22.2023.8.07.0019.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 155, § 4º, II do Código Penal - CP (furto qualificado), às penas de 4 anos e 1 mês de reclusão, em regime inicial fechado, e 14 dias-multa (fls . 199/203).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 315). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL. FURTO QUALIFICADO PELA ESCALADA. ART. 155, § 4º, II, do CP. DESCLASSIFICAÇÃO PARA RECEPTAÇÃO. IMPOSSIBILIDADE MATERIALIDADE E AUTORIA COMPROVADAS. QUALIFICADORA. AUSÊNCIA DE LAUDO PERICIAL. DESNECESSIDADE. CRIME QUE NÃO DEIXOU VESTÍGIOS. OUTROS MEIOS DE PROVA. DOSIMETRIA. PRIMEIRA FASE. EXASPERAÇÃO ADEQUADA. REGIME INICIAL. FECHADO. ADEQUADO. RÉU REINCIDENTE. PRISÃO PREVENTIVA. MANTIDA. 1. Não há que se falar em insuficiência probatória a ser interpretada em favor do sentenciado, tendo em vista os robustos elementos probatórios juntados aos autos. 1.1 As provas produzidas nos autos demonstram que, no dia dos fatos, o réu, de maneira livre e consciente, aproveitando que a vítima, seu vizinho, não estava em casa, adentrou na residência do ofendido e subtraiu diversos bens.
+2. Não merece guarida a tese defensiva de desclassificação para o crime de receptação. 2.1 A tese defensiva resta isolada nos autos, uma vez que há diversos elementos que comprovam que o réu praticou o crime de furto.
+3. A jurisprudência deste TJDFT tem entendido que, para a caracterização da qualificadora da escalada no delito de furto, é prescindível a realização do exame pericial quando as circunstâncias do crime não permitirem a confecção do laudo e existirem outros elementos probatórios que comprovem a presença da qualificadora de forma inconteste. Precedentes.
+4. A culpabilidade está relacionada ao maior ou menor grau de reprovabilidade/censura da conduta do réu em relação à vítima. 4.1 In casu, o acusado, aproveitando-se da condição de vizinho, observou a rotina do ofendido e, sabendo da sua ausência, invadiu a casa para subtrair diversos bens. 4.2. Esses fatos justificam a valoração negativa da culpabilidade da conduta, pois a conduta extrapola a reprovabilidade inerente ao delito de furto.
+5. A exasperação da pena realizada na sentença não se mostra, no caso concreto, desarrazoada OU desproporcional, razão pela qual deve ser mantida.
+6. A manutenção da prisão preventiva é medida recomendável, em respeito à ordem e à segurança públicas.
+7. Recurso conhecido e desprovido." (fl. 314)
+Em sede de recurso especial (fls. 346/360), a defesa apontou violação ao art. 155, § 4º, II do CP e ao art. 158 do Código de Processo Penal - CPP, porquanto o Tribunal de Justiça - TJ manteve a qualificadora da escalada sem realização de exame pericial.
+Aduziu que não houve justificativa idônea para a não confecção do laudo no caso concreto. Afirmou que a qualificadora não pode ser mantida com base tão somente na prova oral acerca da existência de um muro de 2 metros de altura.
+Requereu a exclusão da supracitada qualificadora com o consequente redimensionamento da dosimetria.
+Contrarrazões do MINISTÉ RIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS (fls. 367/369).
+O recurso especial foi inadmitido no TJ em razão de óbices das Súmulas n. 7 e n. 83, ambas do Superior Tribunal de Justiça - STJ (fls. 372/373).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 379/389).
+Contraminuta do Ministério Público (fl. 393).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 409/415).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a violação aos art. 155, § 4º, II do CP e o art. 158 do CPP, o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS manteve a qualificadora da escalada, nos seguintes termos do voto do relator:
+"Da qualificadora
+A defesa postula o afastamento da qualificadora da escalada (art. 155, §4 0 , II, do CP), ao argumento de que as provas são insuficientes para lastrear o reconhecimento da circunstância. Não assiste razão à defesa. O art. 158 do CPP afirma que é indispensável o exame de corpo de delito, direto ou indireto nos crimes que deixam vestígios. Confira-se:
+ ..
+Ocorre que, na hipótese dos autos, a escalada não deixou qualquer vestígio que pudesse ser apurado em laudo pericial, uma vez que, como afirmado pela vítima em juízo, a conduta do réu não deixou avarias no portão externo da casa e nem no muro protetor da residência. Desse modo, não havendo vestígios a serem constatados, não se pode exigir a realização de laudo pericial para constatar a escalada. Nesse sentido, a jurisprudência deste TJDFT tem entendido que, para a caracterização da qualificadora da escalada no delito de furto, é prescindível a realização do exame pericial quando as circunstâncias do crime não permitirem a confecção do laudo e existirem outros elementos probatórios que comprovem a presença da qualificadora de forma inconteste. Nesse sentido, os seguintes precedentes desta Corte de Justiça:
+ ..
+Sendo assim pode-se concluir pela incidência da qualificadora a partir das outras provas existentes nos autos.
+Na espécie, a vítima relatou em juízo que a sua casa é exatamente ao lado da residência do réu e que há um muro que dividia os dois lotes.
+O ofendido também afirmou que, no dia dos acontecimentos, o portão externo da casa, que dá acesso à via pública, estava trancado e, após o furto, não havia nenhum sinal de arrombamento ou avaria no portão externo, o que lhe fez compreender que o réu havia entrado na residência após pular o muro.
+Alegou que apenas a porta principal da casa, que dá acesso ao interior da residência, já na parte interna do lote, havia sido forçada e arrombada, mas, logo depois do acontecimento, foi consertada.
+Declarou ainda que o muro que separa as duas residências possui cerca de 2 metros de altura.
+Ademais, em seu depoimento judicial, o policial SAMUEL asseverou que a casa da vítima e do réu são limítrofes e que há um muro que divide as duas residências.
+Declarou também que, no dia dos fatos, um popular informou aos agentes policiais que o réu estava transferindo objetos por cima do referido muro.
+As falas da vítima, o depoimento do policial e as circunstâncias do local em que foi praticado o crime demonstram que não havia qualquer outro meio de uma pessoa ter acesso ao imóvel sem a utilização de uma via anormal para tanto (no caso, a ultrapassagem de um muro).
+Isso porque, na descrição do local, a vítima, de forma segura e coesa, destacou que não havia qualquer avaria ou sinal de arrombamento no portão que dava acesso ao lote e que não haveria outra maneira do acusado ter entrado no imóvel senão pela escalada.
+Com efeito, pelas circunstâncias acima destacadas, resta evidente que o acusado não poderia ter tido acesso à residência sem pular o muro do lote.
+De mais a mais, considerando a proximidade da casa do réu e a residência da vítima, conclui-se que o acusado escalou o muro para entrar na casa.
+De tal sorte, na hipótese lançada aos autos, a escalada do muro que impedia o acesso aos bens subtraídos dispensa a declaração expressa em laudo pericial, mormente porque, além de óbvio, todas as provas não deixam qualquer dúvida acerca da utilização de uma via anormal para o acesso ao imóvel.
+Portanto, deve ser mantida a qualificadora relativa à escalada, prevista no artigo 155, § 4º, inciso II, do Código Penal. " (fls. 320/322).
+Extrai-se, dos trechos acima, que o Tribunal de origem afirmou que, no caso concreto, a perícia técnica mostrou-se inviável, visto que a escalada não deixou vestígios.
+Ademais , embora ausente o laudo pericial, a qualificadora da escalada restou suficientemente comprovada pelas provas reunidas nos autos, quais sejam: (i) declarações da vítima, que informou que o réu é seu vizinho e que existe um muro de 2 metros separando os lotes; (ii) depoimento judicial do policial, que confirmou a existência do muro de 2 metros separando as casas do réu e da vítima, bem como afirmou que, no dia dos fatos, um popular informou ter visto o acusado passando bens por cima do referido muro.
+O acórdão recorrido ressaltou que não teria outra forma de o réu adentrar à residência a não ser pela transposição do muro, uma vez que não havia qualquer sinal de avaria ou arrombamento do portão.
+Tal entendimento e ncontra amparo na jurisprudência desta Corte, pois para que seja reconhecida a qualificadora do rompimento de obstáculo ou da escalada é imprescindível a realização de exame pericial, salvo se: (i) o delito não deixar vestígios, (ii) se estes tiverem desaparecido, ou, ainda, (iii) se as circunstâncias do crime não permitirem a confecção do laudo, ou, excepcionalmente, (iv) quando presentes nos autos elementos aptos a comprovar as qualificadoras de forma inconteste (indene de dúvida).
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE ESCALADA. INEXISTÊNCIA DE EXAME PERICIAL. INDISPENSABILIDADE DA PERÍCIA NAS INFRAÇÕES QUE DEIXAM VESTÍGIOS. POSSIBILIDADE DE COMPROVAÇÃO SUPLETIVA. EXCEPCIONALIDADE COMPROVADA POR OUTROS MEIOS DE PROVA. PENA-BASE. EXASPERAÇÃO. PROPORCIONALIDADE.
+I - O entendimento exposto no acórdão de origem está de acordo com a jurisprudência desta Corte Superior, a qual é assente no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo ser supletivamente suprido por outros meios probatórios somente se (a) o delito não deixar vestígios; (b) os vestígios deixados desaparecerem; ou (c) as circunstâncias do crime não permitirem a confecção do laudo. Excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, é possível o suprimento da prova pericial, como in casu, no qual restou comprovada a referida qualificadora pela prova oral (relato da vítima e dos policiais condutores), além de ser notória a necessidade de escalada de muro de 2,8 metros para acessar o estabelecimento.
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.884.732/DF, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/2/2024, DJe de 1/3/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. ESCALADA. PEDIDO DE AFASTAMENTO DA QUALIFICADORA. AUSÊNCIA DE PERÍCIA. PRESCINDIBILIDADE. COMPROVAÇÃO POR OUTROS MEIOS DE PROVAS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Firme nesta Corte o entendimento de que "excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial  .. "(AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021)" (AgRg no HC n. 691.823/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 30/9/2021).
+A qualificadora foi reconhecida com base em prova idônea, colhida em ambas as fases processuais, oportunidade em que foram asseguradas as garantias da ampla defesa e contraditório, sendo a via eleita, de cognição sumária e rito célere, inadequada para desconstituir os fundamentos adotados pelas instâncias ordinárias, sem revolvimento de todo o conjunto fático-probatório. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 820.646/SC, nossa relatoria, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 155, § 4º, II, DO CÓDIGO PENAL. FURTO QUALIFICADO. ESCALADA. AUSÊNCIA DE PERÍCIA. COMPROVAÇÃO POR MEIO DE DEPOIMENTOS. SUPRIMENTO DA PROVA PERICIAL. POSSIBILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. É imprescindível, nos termos dos arts. 158 e 167 do CPP, a realização de exame pericial para o reconhecimento das qualificadoras de escalada e arrombamento no caso do delito de furto (art. 155, § 4º, II, do CP), quando os vestígios não tiverem desaparecido e puderem ser constatados pelos peritos.
+2. Todavia, conforme o entendimento firmado nesta Corte Superior, "excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial  .. " (AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021).
+No caso em apreço, a mencionada qualificadora foi comprovada por meio do depoimento da vítima, dos policiais que efetuaram a prisão em flagrante, bem como da confissão do recorrente, em ambas as etapas da persecução penal.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.413.205/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Portanto, constata-se que, na hipótese dos autos, o Tribunal de origem concluiu estar devidamente comprovada a prática do furto por escalada, de maneira que é possível, excepcionalmente, flexibilizar-se a exigência de produção do exame pericial oficial, sobretudo diante da ausência de vestígios no caso concreto.
+Portanto, a qualificadora consistente na escalada deve ser mantida, nos termos da fundamentação do acórdão recorrido.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+ EMENTA
