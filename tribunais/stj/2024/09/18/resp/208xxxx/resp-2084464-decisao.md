@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ fl. 232):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO. TEMA 1102/STF.
+"O segurado que implementou as condições para o benefício previdenciário após a vigência da Lei 9.876, de 26.11.1999, e antes da vigência das novas regras constitucionais, introduzidas pela EC 103/2019, tem o direito de optar pela regra definitiva, caso esta lhe seja mais favorável."(Tema nº 1102/STF).
+Definida a questão pelo Plenário do Supremo Tribunal Federal em sede de Repercussão Geral, cabe aos Juízes e Tribunais aplicar o referido entendimento, nos termos do artigo 1.040, III, do Código de Processo Civil.
+Embargos de declaração rejeitados (e-STJ fls. 262/268).
+Em suas razões, a parte recorrente aponta violação do art. 1.040, III, do CPC/2015, defendendo a necessidade de suspensão dos processos que versem sobre pedido de revisão do benefício previdenciário, em que a parte autora pleiteia a aplicação da regra definitiva prevista no art. 29, I e II, da Lei n. 9.876/1999 (revisão da vida toda - Tema 999 do STJ e Tema 1.102 do STF), tendo em vista que o RE n. 1.276.977/DF, representativo da controvérsia, ainda não transitou em julgado.
+Ressalta que "não há, no momento, ferramenta que possa elaborar, com segurança, o salário-de-benefício de acordo com a decisão do STF. Será necessário previamente a decisão definitiva do RE 1.276.977 para conhecimento dos contornos da decisão judicial, possibilitando a construção das ferramentas sistêmicas que possam validar o cálculo do melhor benefício para todos os segurados de forma isonômica, sob pena de concessão de benefícios totalmente desiguais, equivocados, incorretos, superestimados e que demandarão novas discussões, tanto na esfera administrativa, como na judicial" (e-STJ fl. 280).
+Por fim, caso não se entenda prequestionada a matéria, requer que seja anulado o acórdão por contrariedade ao art. 1.022, II, do CPC/2015 a fim de ser proferido novo julgamento.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 288.
+Passo a decidir.
+A questão, objeto do apelo extremo, referente à possibilidade de revisão de benefício previdenciário mediante aplicação da regra definitiva do art. 29, I e II, da Lei n. 8.213/1991, quando mais favorável do que a regra de transição contida no art. 3º da Lei n. 9.876/1999, aos segurados que ingressaram no Regime Geral de Previdência Social antes da publicação da referida Lei n. 9.876/1999, ocorrida em 26/11/1999, foi submetida ao Plenário do Supremo Tribunal Federal para ser julgada pela sistemática da repercussão geral (Tema n. 1.102), a qual fixou a tese de que "o segurado que implementou as condições para o benefício previdenciário após a vigência da Lei 9.876, de 26.11.1999, e antes da vigência das novas regras constitucionais, introduzidas pela EC 103/2019, tem o direito de optar pela regra definitiva, caso esta lhe seja mais favorável" (RE n. 1.276.977/DF, relator Ministro Alexandre de Moraes, Dje 28/02/2024).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ademais, o Tribunal de origem assim consignou acerca da desnecessidade de suspensão do presente feito (fls. 236/237):
+Revisão de benefício. Temas 999/STJ e 1102/STF
+A Primeira Seção do Superior Tribunal de Justiça, em 11/11/2019, no julgamento dos REsp nº 1.554.596/SC e 1.596.203/PR afetados ao Tema 999 dos Recursos Especiais Repetitivos, fixou a seguinte tese jurídica: Aplica-se a regra definitiva prevista no art. 29, I e II da Lei 8.213/1991, na apuração do salário de benefício, quando mais favorável do que a regra de transição contida no art. 3o. da Lei 9.876/1999, aos Segura dos que ingressaram no Regime Geral da Previdência Social até o dia anterior à publicação da Lei 9.876/1999.
+O acórdão, publicado em 17/12/2019, recebeu a seguinte ementa:
+ ..
+No âmbito constitucional, a matéria foi afetada ao Tema 1.102 da Repercussão Geral, em cujo julgamento, em 01/12/2022, o Supremo Tribunal Federal firmou a seguinte tese:
+O segurado que implementou as condições para o benefício previdenciário após a vigência da Lei 9.876, de 26.11.1999, e antes da vigência das novas regras constitucionais, introduzidas pela EC 103/2019, tem o direito de optar pela regra definitiva, caso esta lhe seja mais favorável.
+Definida a questão pelo Plenário do Supremo Tribunal Federal em sede de Repercussão Geral, cabe aos Juízes e Tribunais aplicar o referido entendimento, nos termos do artigo 1.040, III, do Código de Processo Civil.
+A ausência de trânsito em julgado não impede a produção imediata dos efeitos dos precedentes firmados pelo Plenário do Supremo Tribunal Federal (STF, ARE 686607 ED, Rel. Min. Dias Toffoli, 1ª T., j. 30.10.2012; RMS35348 AgR, Rel. Min. Celso de Mello, 2ª T., j. 10.5.2019).
+Quanto ao tema, "tanto o STF quanto o STJ possuem entendimento de que, para a aplicação do paradigma formado em sede de Recurso Repetitivo ou de Repercussão Geral, é desnecessário aguardar o trânsito em julgado" (AgRg no REsp 1.491.892/RN, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 03/06/2015).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. INTERPRETAÇÃO DE TESE FIRMADA PELO STF. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. REPERCUSSÃO GERAL. TRÂNSITO EM JULGADO. AGUARDO. DESNECESSIDADE.
+1. À luz do art. 105, III, da Constituição Federal, o recurso especial não serve à revisão da fundamentação constitucional.
+2. Tem natureza constitucional a controvérsia inerente à interpretação da tese definida pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral e o respectivo julgamento, sendo certo que, relacionando-se o debate com a forma de execução do julgado do Supremo, não poderia outro tribunal, em princípio, ser competente para solucioná-lo.
+3. Hipótese em que o recurso não pode ser conhecido, pois o Tribunal Regional Federal da 4ª Região, interpretando a tese definida pelo Supremo Tribunal Federal, decidiu ser o ICMS destacado na nota fiscal a parcela de tributo a ser excluída da base de cálculo da contribuição ao PIS e da COFINS.
+4. Desnecessidade de se aguardar o trânsito em julgado da tese firmada pelo Supremo Tribunal Federal no julgamento do RE 574.706, pois as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça têm orientação jurisprudencial pacífica pela dispensa dessa providência.
+5. Agravo interno desprovido. (AgInt no AREsp n. 1.832.976/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/8/2021, DJe de 31/8/2021.)
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
