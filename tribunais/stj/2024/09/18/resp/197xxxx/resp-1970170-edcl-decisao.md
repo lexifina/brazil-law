@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VILMA APARECIDA RIBEIRO ROSSLER contra decisão monocrática de minha relatoria que, ao promover a análise do apelo nobre do Banco do Brasil, decretou, "de ofício, a incompetência para análise do feito com relação ao Banco do Brasil S.A., extinguindo o feito com relação a ele. Prejudicado, consequentemente, o exame das questões contidas no recurso especial", no que se acresceu que "Arcará a recorrida com as custas despendidas pela entidade bancária e com os honorários advocatícios, os quais fixo em 10% sobre o valor atualizado da causa, observada eventual concessão do benefício da justiça gratuita" (fls. 1.129-1.137).
+Nas razões dos aclaratórios, a embargante aproveita a oportunidade recursal para requerer a concessão do benefício da justiça gratuita.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que, a toda evidência, não é o caso dos autos, visto que manejados tão somente com a finalidade de deferimento da justiça gratuita.
+Contudo, cabe relembrar à embargante que, mesmo que seja deferido o benefício da gratuidade nesse momento processual, a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte requerente dos custos processuais referentes aos atos anteriores, ou seja, mesmo que seja deferido o benefício, não terá o condão de retroagir para afastar as custas e os honorários a que fora condenada na decisão ora embargada.
+De qualquer modo, para melhor análise do pleito, pertinente que a embargante faça juntada dos últimos três contracheques relativos ao pagamento efetuado pelo Regime Geral de Previdência Social e pelo Plano de Previdência Privada e cópia do último imposto de renda.
+Ante o exposto, rejeito os embargos de declaração e determino a intimação da embargante para que, no prazo de 10 dias, faça juntada dos documentos elencados, sob pena de indeferimento do pedido de justiça gratuita.
+Transcorr ido o prazo sem manifestação, retornem os autos para análise definitiva do benefício da justiça gratuita.
+Publique-se.
+EMENTA
