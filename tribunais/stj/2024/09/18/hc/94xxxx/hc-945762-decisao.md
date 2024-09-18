@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Geanderson Bertoldi dos Santos, em que se aponta com o autoridade coatora o Tribunal de Justiça de São Paulo que denegou a ordem ali impetrada (HC n. 2153998-17.2024.8.26.0000), mantendo a decisão do Juízo de Direito da 2ª Vara Criminal e da Infância e Juventude da comarca de V otuporanga/SP que, quando da prolação da sentença condenatória, decretou a prisão preventiva do paciente (Ação Penal n. 1504761-79.2022.8.26.0664 ).
+Extrai-se dos autos que o paciente foi condenado como incurso no crime do art. 171, § 2º-A, 14 vezes, c/c o art. 71 do Código Penal, às penas de 10 anos de reclusão, em regime inicialmente fechado, mais pagamento de 270 dias-multa.
+Neste writ, sustenta a defesa que o paciente respondeu ao processo em liberdade e que não há fundamentação idônea e concreta para o decreto da prisão preventiva, nos termos do art. 312 do CPP, sobretudo diante das condições pessoais favoráveis e da suficiência das medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a imediata revogação da custódia cautelar do acusado a fim de que possa recorrer em liberdade.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva decretada na sentença condenatória.
+O art. 387, § 1º, do Código de Processo Penal dispõe que o Juiz deve decidir, por ocasião da prolação da sentença, de maneira fundamentada, acerca da manutenção ou, se for o caso, da imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimen to da apelação interposta.
+Ao decretar a prisão p reventiva, o Juiz de piso teceu os seguintes fundamentos (fl. 167 - grifo nosso ):
+ ..
+"O Ministério Público, com base na sentença proferida, entendeu que o réu deve ser p reso e a razão do pleito é evidente. Ainda que seja muito difícil apurar a prática do crime, porque inevitavelmente a vítima é autora do delito em parceria com o réu, tudo aponta para a tentativa de ludibriar o Juízo em busca de benefício penal relevantíssimo, que alteraria a solução da pena em 1 a 2/3, caso aceito. O réu é estelionatário contumaz, não tendo sofrido pena que o colocasse no bom caminho, mas, dessa vez, tentou ludibriar o Juízo para obter benefício penal, a revelar que nada o fará mudar o rumo de suas condutas, não enquanto as sanções penais estejam pendentes de cumprimento. Assim, acolho o pedido do Ministério Público e decreto a prisão preventiva do réu para garantia da ordem pública.
+ ..
+O Tribunal a quo, por sua vez, corroborou a decisão do Magistrado de primeiro grau (fls. 26/27):
+ ..
+Extrai-se dos principais que, no curso da ação penal, teria o réu juntado documento ideologicamente falso ao caderno processual, dissimulando o pagamento da dívida contraída junto à vítima (fls. 26 e fls. 28 dos principais) a fim de obter benefício penal; trata-se de paciente multirreincidente específico (fls.266/274 da origem), que se encontrava no cumprimento de pena privativa de liberdade em regime aberto (autos de execução nº 0000829-02.2018.8.26.066 4) e, ao que tudo indica, continua a delinquir.
+Assim, malgrado tenha permanecido em liberdade no curso da persecução, mister se faz a decretação de sua custódia cautelar como forma de ceifar sua reiteração delitiva.
+ ..
+De fato, não há ilegalidade a ser sanada.
+A prisão preventiva foi decretada na sentença condenatória em razão da ocorrência de fato novo, pois o paciente tentou ludibriar o juízo, juntando documento ideologicamente falso, na tentativa de demonstrar o pagamento à vítima. Ademais é multirreincidente específico (dosimetria, fl. 166), afigurando-se, portanto, necessária a sua custódia antecipada para se evitar reiteração delitiva e, assim, garantir a or dem pública.
+Com efeito, embora o recorrente tenha respondido solto durante a parte final da instrução criminal, sua prisão preventiva, decretada no corpo da sentença condenatória, mostra-se legal e fundamentada, afastando a alegação de constrangimento ilegal, isso porque é da jurisprudência das Turmas que compõem a Terceira Seção deste Superior Tribunal a permissividade de se negar ao acusado o direito de recorrer solto da sentença condenatória, se presentes os motivos para a segregação preventiva, ainda que o réu tenha permanecido solto durante a persecução penal. Precedentes (AgRg no RHC n. 143.832/PB, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 7/5/2021 - grifo nosso ).
+Ainda nesse sentido: In co ncreto, o réu é reincidente específico, pois ostenta diversas condenações pela prática de crimes de roubo, além de estar sendo investigado pela possível autoria de crime de homicídio qualificado perpetrado após os fatos apurados nos autos, o que indica a necessidade da medida constritiva de liberdade, a fim de impedir a reiteração delitiva (RHC n. 126.620/GO, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/9/2020 - grifo nosso).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ESTELIONATO. PRISÃO DECRETADA NA SENTENÇA CONDENATÓRIA. PACIENTE QUE RESPONDEU AO PROCESSO EM LIBERDADE. MULTIRREINCIDÊNCIA. OCORRÊNCIA DE FATO NOVO. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
