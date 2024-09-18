@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de conflito negativo por iniciativa do Juízo de Direito da 2ª Vara Cível, Fazenda Pública Municipal, Registros Públicos e Ambiental de Luziânia/GO, em face do Juízo de Direito da 8ª Vara Cível de Brasília/DF, relativamente à competência para processar e julgar ação de despejo ajuizada por Eleumar Caetano do Carmo em desfavor de Daiana Souto Barbosa de Queiroz.
+Na inicial, distribuída originalmente perante o foro de Brasília/DF, previsto no contrato de locação de imóvel para fins comerciais, o autor, proprietário do bem, pretende a rescisão do ajuste em decorrência do inadimplemento da ré.
+O Juízo de Direito da 8ª Vara Cível de Brasília/DF declinou de ofício a competência em favor do foro do domicílios das partes (Luziânia/GO), por entender que "elas não possuem domicílio nesta circunscrição e a demanda não tem por fito qualquer fato ou ato praticado no âmbito territorial deste Juízo" (fls. 49/50).
+O Juízo de Direito da 2ª Vara Cível, Fazenda Pública Municipal, Registros Públicos e Ambiental de Luziânia/GO suscitou o presente conflito pelos seguintes fundamentos (fls. 133/135):
+Cuida-se de Ação de Despejo, oriunda da 8ª Vara Cível da Circunscrição Judiciária de Brasília/DF.
+À fl. 47, a competência para julgamento do feito foi declinada para este Juízo, face o domicílio das partes.
+Pois bem.
+Mediante estudo do feito, observo que, em que pese o respeitável entendimento do Magistrado da Circunscrição Judiciária de Brasília/DF, entendo que não há que se falar em incompetência do referido Juízo.
+Isso porque, o Superior Tribunal de Justiça possui o entendimento consolidado de que a cláusula de eleição de foro é valida e somente pode ser afastada quando reconhecida a sua abusividade ou inviabilidade.
+No caso em tela, anoto que as partes firmaram Contrato de Locação de Imóvel para fins Comerciais, onde o autor pugna pela desocupação da ré e pagamento dos débitos, em razão de sua inadimplência, firmando cláusula de eleição de foro em Brasília/DF.
+De acordo com o artigo 58, inciso II, da Lei de Locações (Lei n.º 8.245 /91), é competente para conhecer e julgar as ações de despejo o foro do lugar da situação do imóvel, salvo se outro houver sido eleito no contrato.
+Desse modo, considerando que há cláusula de eleição de foro prevista no instrumento negocial, bem como considerando que a declaração, de oficio, de incompetência de natureza relativa, contraria o teor do enunciado nº 33 da Súmula do Colendo Superior Tribunal de Justiça, não há que se falar em incompetência do Juízo de Brasília/DF.
+Instado a se manifestar, o Ministério Público Federal opina no sentido da competência do Juízo de Direito da 8ª Vara Cível Brasília/DF, suscitado, (fls. 141/143).
+Assim delimitada a controvérsia, necessário consignar que, conforme se colhe dos autos, a questão orbita em torno da competência territorial, que é relativa, cuja prorrogação se impõe quando não oposta exceção no tempo próprio. Nesse sentido, o enunciado da Súmula 33-STJ:
+A incompetência relativa não pode ser declarada de ofício.
+Além disso, a manifestação das autoridades judiciárias em conflito não alude à existência de relação de consumo na espécie.
+Diante disso, a jurisprudência deste Tribunal Superior reconhece a validade de cláusula contratual de eleição do foro que, cuidando-se de direito obrigacional, no caso dos autos estabelece a comarca de Brasília/DF (fl. 16). Como exemplo:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INEXISTÊNCIA DE RELAÇÃO DE CONSUMO. COMPETÊNCIA DO FORO DE ELEIÇÃO. RECURSO DESPROVIDO.
+1. Tendo sido o contrato firmado entre duas pessoas jurídicas, com o escopo de atender às necessidades financeiras de uma delas, não se pode inferir dos autos a hipossuficiência da compromitente cedente. Trata-se de relação mercantil e não consumerista. Ainda que se pudesse mitigar a aplicação de tal regra, no caso, não há razão para o afastamento da cláusula de eleição de foro, ante a ausência de quaisquer elementos que denotem a existência de desigualdade entre os contratantes, ou mesmo evidenciem a dificuldade dos réus em litigar no foro eleito.
+2. Agravo regimental a que se nega provimento.
+(Segunda Seção, AgRg no CC 144.124/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, unânime, DJe de 1º.4.2016)
+PROCESSO CIVIL. PEDIDO DE RESOLUÇÃO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL CUMULADO COM REINTEGRAÇÃO DE POSSE. DIREITO PESSOAL. PREVALÊNCIA DO FORO DE ELEIÇÃO. EXISTÊNCIA DE DOIS CONTRATOS, CADA UM CONTENDO CLÁUSULA DE ELEIÇÃO DE FORO DIVERSA. CUMULAÇÃO IMPRÓPRIA DE PEDIDOS. LIMITAÇÃO DA COGNIÇÃO AOS LIMITES DA COMPETÊNCIA DO ÓRGÃO JULGADOR.
+- Por se tratar de discussão a respeito da competência para processar e julgar a ação, deve ser afastada a retenção do recurso especial, prevista no art. 542, § 3º, do Código de Processo Civil. Precedentes.
+- A ação de resolução de compromisso de compra e venda assenta-se em direito pessoal. A existência do pedido de reintegração de posse, conseqüência natural que decorre da resolução, não atrai a regra de competência absoluta insculpida na segunda parte do art. 95 do Código de Processo Civil. Prevalece o foro de eleição.
+- É imprópria a cumulação de pedidos que envolvem fundamentos diversos e competências distintas. Diante da propositura de uma única ação, fundada em contratos diversos, com cláusulas de eleição de foro díspares, a demanda deve ser analisada apenas nos limites da competência do órgão julgador.
+Recurso Especial conhecido e provido.
+(Terceira Turma, REsp 967.826/RN, Rel. Ministra NANCY ANDRIGHI, unânime, DJU de 22.11.2007)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 1973. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. REQUERIMENTO DE ANOTAÇÃO DO FEITO NO REGISTRO PÚBLICO. PREVALÊNCIA DO FORO DE ELEIÇÃO. AGRAVO INTERNO PROVIDO.
+1. A demanda que postula a rescisão do contrato tem natureza pessoal, e não real, daí prevalecer o foro de eleição. Precedente.
+2. Na hipótese dos autos, discute-se a rescisão do contrato de compra e venda de bem imóvel, por falta de pagamento, com requerimento de anotação no registro público, de caráter pessoal.
+3. Agravo interno provido, para negar provimento ao recurso especial.
+(Quarta Turma, AgInt no REsp 1.296.217/AM, Rel. Ministro LÁZARO GUIMARÃES  Desembargador convocado do TRF 5ª Região , unânime, DJe de 27.4.2018)
+DIREITO PROCESSUAL E CIVIL. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL C/C REINTEGRAÇÃO DE POSSE. DESERÇÃO. GUIA DARF SEM AUTENTICAÇÃO BANCÁRIA. APRESENTAÇÃO POSTERIOR DE VIA COMPROVANDO O RECOLHIMENTO OPORTUNO DAS CUSTAS DE PORTE E REMESSA. POSSIBILIDADE. AÇÃO DE NATUREZA PESSOAL. COMPETÊNCIA DO FORO DE ELEIÇÃO. ALEGAÇÃO DE FRAUDE NA NOTIFICAÇÃO JUDICIAL. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA. ÓBICE DA SÚMULA 07/STJ. NULIDADE DA CITAÇÃO EDITALÍCIA. COMPARECIMENTO ESPONTÂNEO. AUSÊNCIA DE PREJUÍZO. FUNDAMENTO DO ACÓRDÃO NÃO ATACADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 182/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO-REALIZAÇÃO DO COTEJO ANALÍTICO. JULGAMENTO ANTECIPADO DA LIDE. REQUERIMENTO DOS RÉUS. AUSÊNCIA DE CERCEAMENTO DE DEFESA. LIVRE CONVICÇÃO DO JUIZ. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. PACTO COMISSÓRIO. OPÇÃO PELO PREÇO EM AÇÃO DE EXECUÇÃO AUTÔNOMA. INOCORRÊNCIA. RELAÇÃO JURÍDICA DISTINTA. SÚMULA 07/STJ. NULIDADE DO PACTO COMISSÓRIO. ALEGAÇÃO GENÉRICA. ÓBICE DA SÚMULA 284/STF. REEMBOLSO DAS PRESTAÇÕES PAGAS. AUSÊNCIA DE RELAÇÃO DE CONSUMO. FUNDAMENTO NÃO COMBATIDO. SÚMULA 182/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não se aplica a pena de deserção quando a guia anexada ao recurso especial não contenha a devida autenticação bancária, porém o recorrente faz prova do recolhimento tempestivo das custas de porte e remessa.
+2. A ação que objetiva a resolução de contrato de compra e venda de bem imóvel tem caráter pessoal, sendo competente, quando houver, o foro de eleição. O pedido de reintegração na posse do imóvel é apenas conseqüência de eventual acolhimento do pleito principal.
+3. A alegação de fraude na notificação judicial implica reexame da situação fática presente dos autos, o que esbarra na orientação contida na Súmula 07/STJ.
+4. Não se conhece do recurso especial no tocante à argüição de nulidade da citação editalícia, porquanto não rebate fundamento suficiente do acórdão, relativo à ausência de prejuízo aos réus por conta de seu comparecimento espontâneo no processo (Súmula 182/STJ).
+5. Incabível a alegação de cerceamento de defesa pelo julgamento antecipado da lide quando o próprio recorrente postulou, sem qualquer ressalva, tal providência.
+6. Não há violação do pacto comissório por processo executivo que, apesar de envolver as mesmas partes, não guarda, em seu objeto, relação com o contrato que se pretende resolver.
+7. O recurso deixou de indicar de que forma o art. 765 do Código Civil de 1916, relativo à nulidade do pacto comissório, foi malferido, encontrando óbice na Súmula 284/STF.
+8. A pretensão de reembolso das prestações pagas, por violação do art. 53 do CDC, não pode ser conhecida, um vez que fundamento do acórdão recorrido, referente à inexistência de relação de consumo na hipótese, não foi impugnado nas razões recursais (Súmula 182/STJ).
+9. Recurso especial não conhecido.
+(Quarta Turma, REsp 332.802/MS, Rel. Ministro LUÍS FELIPE SALOMÃO, unânime, DJe de 26.2.2009)
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 8ª Vara Cível de Brasília/DF.
+Comunique-se. Intimem-se.
+EMENTA
