@@ -1,0 +1,94 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5018549-24.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO BMG SA
+RECORRIDO: MANOEL BERMUDES ROCHA
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA. RECURSO INOMINADO – JUIZADO ESPECIAL CÍVEL – CÓDIGO DE DEFESA DO CONSUMIDOR – CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO – VÍCIO DE CONSENTIMENTO – CONVERSÃO DO CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO PARA EMPRÉSTIMO CONSIGNADO. SENTENÇA MANTIDA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5018549-24.2023.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO BMG SA
+RECORRIDO: MANOEL BERMUDES ROCHA
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Conheço do recurso, eis que se encontram preenchidos os requisitos de admissibilidade, recebendo-o, apenas, em seu efeito devolutivo, eis que ausentes quaisquer das hipóteses que justifiquem a concessão do efeito suspensivo previsto no art. 43 da lei nº 9.099/95.
+
+EMENTA. RECURSO INOMINADO – JUIZADO ESPECIAL CÍVEL – CÓDIGO DE DEFESA DO CONSUMIDOR – CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO – VÍCIO DE CONSENTIMENTO – CONVERSÃO DO CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO PARA EMPRÉSTIMO CONSIGNADO. SENTENÇA MANTIDA. (1). TESE AUTORAL
+. TRATA-SE DE AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL CUMULADA COM PEDIDO DE OBRIGAÇÃO DE FAZER E DE INDENIZAÇÃO POR DANO MATERIAL E MORAL EM QUE A AUTORA ALEGOU TER CELEBRADO CONTRATO DE EMPRÉSTIMO COM A REQUERIDA. INDICA QUE PASSOU A RECEBER FATURAS DE UM CARTÃO DE CRÉDITO EMITIDO PELA REQUERIDA, O QUAL ELE NÃO SOLICITOU, RAZÃO PELA QUAL ENTROU EM CONTATO PARA SABER INFORMAÇÕES, TENDO, ENTÃO, SIDO INFORMADO QUE A FATURA DE CARTÃO DE CRÉDITO ERA REFERENTE AO CRÉDITO CONSIGNADO NO CARTÃO, E QUE O VALOR DESCONTADO DE SEUS PROVENTOS SERIA REFERENTE SOMENTE AO MÍNIMO DO PAGAMENTO DO CARTÃO. INDICA QUE FOI DESCONTADO DE SEUS PROVENTOS O VALOR DE R$29.521,93. AFIRMOU TER HAVIDO DEFICIÊNCIA DE INFORMAÇÃO POR PARTE DA REQUERIDA AO OFERTAR O EMPRÉSTIMO, LEVANDO A PARTE AUTORA A PENSAR QUE SE TRATAVA EFETIVAMENTE DE EMPRÉSTIMO QUANDO NÃO ERA. INDICA QUE A REQUERIDA CRIOU UM NOVO CONTRATO PARA REFINANCIAR ESSE SUPOSTO CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO. PLEITEOU A TUTELA DE URGÊNCIA PARA QUE SEJAM CANCELADOS OS DESCONTOS EM SEU BENEFÍCIO PREVIDENCIÁRIO. REQUEREU A DECLARAÇÃO DE NULIDADE DO CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO, DECLARANDO A INEXISTÊNCIA DO DÉBITO, OU A SUA CONVERSÃO EM EMPRÉSTIMO CONSIGNADO, BEM COMO A RESTITUIÇÃO DO VALOR PAGO E INDENIZAÇÃO POR DANO MORAL DE R$1.888,09.
+(2) ANTÍTESE
+. EM SEDE DE CONTESTAÇÃO, A REQUERIDA SUSCITOU A PRELIMINAR DE INCOMPETÊNCIA DESTE JUÍZO EM RAZÃO DA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. NO MÉRITO, AFIRMOU QUE AS PARTES CELEBRARAM O CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO, NO QUAL FICOU ACORDADO QUE NOS MESES COM UTILIZAÇÃO DO CARTÃO OU COM EXISTÊNCIA DE SALDO DEVEDOR, A REQUERIDA PROMOVERIA DESCONTO DO VALOR MÍNIMO DA FATURA, CABENDO À AUTORA O PAGAMENTO COMPLEMENTAR. INDICA QUE FOI EMITIDO O CARTÃO DE CRÉDITO PARA A AUTORA, TENDO ELA SACADO OS VALORES TOTAIS DE R$5.010,02 JUNTO A ESSE CARTÃO E REALIZADO DESPESAS COM COMPRAS. AFIRMOU QUE O AUTOR NÃO CONTRATOU EMPRÉSTIMO CONSIGNADO E SIM CARTÃO DE CRÉDITO CONSIGNADO; QUE O CABEÇALHO DO CONTRATO E OS DESCONTOS NO CONTRACHEQUE POSSUEM INFORMAÇÃO DE QUE SE REFEREM AO CARTÃO E QUE O REQUERENTE RECEBE FATURA DETALHADA DO CARTÃO EM SUA RESIDÊNCIA. POR FIM, ALEGOU A IMPOSSIBILIDADE DE APLICAÇÃO DO PARÁGRAFO ÚNICO DO ARTIGO 42 DO CDC POR NÃO HAVER MÁ-FÉ E A INEXISTÊNCIA DE DANO MORAL. PLEITEIA, AINDA, A COMPENSAÇÃO DO VALOR LIBERADO EM DECORRÊNCIA DO CONTRATO FIRMADO.
+(3) DISPOSITIVO DA SENTENÇA
+.
+“Diante do exposto, rejeito a preliminar de incompetência deste Juízo. No núcleo do mérito,
+JULGO PARCIALMENTE PROCEDENTES
+os pedidos autorais para revisar o contrato de cartão de crédito consignado estabelecido entre a Autora e a Requerida, mediante conversão do negócio jurídico em contrato de empréstimo pessoal consignado, com taxa de juros de 2,08% ao mês e 72 prestações. Declaro a quitação do contrato e determino que a Requerida restitua à parte Autora o valor de R$24.511,91 (vinte e quatro mil, quinhentos e onze reais e noventa e um centavos), a ser corrigido monetariamente a partir do efetivo desembolso e acrescido de juros de mora de 1% ao mês a partir da citação.Ratifico a decisão de ID28780620. Caso tenha havido a utilização do cartão de crédito pela parte Autora para a realização de compras, fica autorizado à Requerida a compensação de todos os valores de despesas com compras no cartão de crédito realizados pela parte Autora. Condeno a Requerida a indenizar a Autora no valor de R$1.800,00 (um mil e oitocentos reais) a título de dano moral, a ser corrigido monetariamente e acrescido de juros de mora de 1% ao mês a partir desta data. Julgo o processo com resolução do mérito, nos termos do artigo 487, I, CPC. (...) Diante do exposto,
+DOU PARCIAL PROVIMENTO
+aos embargos de declaração unicamente para corrigir erro material da sentença de ID 32328966, a fim de que onde se lê que a Requerida deve restituir ao Autor o valor de R$24.511,91, leia-se: R$19.814,17 (dezenove mil, oitocentos e catorze reais e dezessete centavos). (...)”.
+(4) RECURSO INOMINADO INTERPOSTO PELO RÉU.
+EM SUMA, O RECORRENTE REQUER QUE A SENTENÇA SEJA MODIFICADA, SENDO JULGADOS IMPROCEDENTES OS PEDIDOS AUTORAIS.
+(5) CONTRARRAZÕES
+. PLEITEOU-SE, EM SUMA, PELA MANUTENÇÃO DA SENTENÇA PROFERIDA.
+(7) MÉRITO RECURSAL.
+PRIORI
+, CUMPRE-ME DESTACAR QUE A DEMANDA VERSA SOBRE DIREITO DO CONSUMIDOR, INCIDINDO, PORTANTO, AS NORMAS CONSTANTES DA LEI N.º 8.078/1990, SENDO O AUTOR CONSUMIDOR NA FORMA DO ART. 2.º E O REQUERIDO FORNECEDOR NA FORMA DO ART. 3.º, AMBOS DO ALUDIDO DIPLOMA LEGAL. O AUTOR/RECORRIDO ALEGA VÍCIO DE CONSENTIMENTO NA CONTRATAÇÃO DO NEGÓCIO JURÍDICO - DISCUTIDO NOS AUTOS - OUTRORA FIRMADO COM O BANCO RECORRENTE. EM OUTROS TERMOS, ADUZ QUE QUE NÃO TEVE A INTENÇÃO DE CONTRATAR CARTÃO DE CRÉDITO CONSIGNADO COM A INSTITUIÇÃO FINANCEIRA RÉ. POIS BEM, NÃO HÁ DÚVIDA SOBRE A CELEBRAÇÃO DO CONTRATO, MAS SIM, SOBRE A CIÊNCIA DE SEU CONTEÚDO. NESSE ESTEIO, É CLARIVIDENTE QUE RESTOU INCONTROVERSO O FATO DE QUE A PARTE AUTORA REALMENTE ADQUIRIU EMPRÉSTIMO JUNTO AO DEMANDADO, REMANESCENDO APENAS CONTROVÉRSIA SOBRE A FORMA DE PAGAMENTO CONVENCIONADA ENTRE OS CONTRATANTES, OU SEJA, SE ESTA SE OPERARIA VIA CONTRATO ADJETO DE CARTÃO DE CRÉDITO - ATRAVÉS DO PAGAMENTO MÍNIMO DO REFERIDO CARTÃO - OU POR MEIO DE DESCONTOS NO BENEFÍCIO PREVIDENCIÁRIO DO CONSUMIDOR EM PRESTAÇÕES FIXAS QUE AMORTIZARIA O SALDO DEVEDOR. POIS BEM. ANALISANDO DETIDAMENTE OS AUTOS, ENTENDO QUE A SENTENÇA NÃO MERECE MODIFICAÇÃO.
+IN CASU,
+VEJO QUE OCORREU A PRÁTICA COMERCIAL DE INSTITUIÇÕES FINANCEIRAS CONSISTENTE EM FORNECER EMPRÉSTIMO MEDIANTE A CONTRATAÇÃO DE CARTÃO DE CRÉDITO, COM DESCONTO DO VALOR MÍNIMO EM CONTRACHEQUE, O QUE GERA DÍVIDAS IMPAGÁVEIS. E DIGO ISTO POIS, A PRESUNÇÃO DE INCONSISTÊNCIA NA CONTRATAÇÃO, DERIVA-SE DO FATO DE QUE, COMO AFIRMADO PELO PRÓPRIO REQUERENTE, A INTENÇÃO DO MESMO ERA DE CONTRATAR UM SERVIÇO SIMILAR JUNTO À INSTITUIÇÃO BANCÁRIA, QUAL SEJA O DE EMPRÉSTIMO CONSIGNADO, E NÃO DE CARTÃO DE CRÉDITO CONSIGNADO. IMPERIOSO DESTACAR AINDA QUE, A AUSÊNCIA DE TOTAL CIENTIFICAÇÃO DO AUTOR ACERCA DO PRODUTO QUE CONTRATAVA FICA EVIDENTE QUANDO É SABIDO QUE CONTRATAR UM SERVIÇO DE EMPRÉSTIMO CONSIGNADO SERIA MENOS ONEROSO AO CONSUMIDOR QUE O SERVIÇO DE CARTÃO ADQUIRIDO. ASSIM, AINDA QUE O BANCO RÉU AFIRME QUE O DEMANDANTE DETEVE DE TODAS AS INFORMAÇÕES PERTINENTES NO ATO DA CONTRATAÇÃO, TENHO QUE A INCONSISTÊNCIA NÃO FOI SUPERADA. O QUE ENTENDO PRESENTE, É, NA VERDADE, UM VÍCIO DE MANIFESTAÇÃO DE VONTADE.
+O CÓDIGO DE DEFESA DO CONSUMIDOR, TRAZ EXPRESSAMENTE EM SEU ARTIGO 6º, INCISO III, QUE É DEVER DA INSTITUIÇÃO PRESTAR TODAS AS INFORMAÇÕES DE FORMA ADEQUADA E CLARA AO CONSUMIDOR,
+SOBRE OS DIFERENTES TIPOS DE SERVIÇOS E PRODUTOS OFERTADOS POR ELA
+. TEM-SE, PORTANTO, DIGNA DE CONDÃO DE VERACIDADE A ASSERTIVA DE QUE O CONSUMIDOR NÃO PRETENDIA ADQUIRIR QUALQUER SERVIÇO DE CARTÃO DE CRÉDITO, CONSTITUINDO UM SERVIÇO/PRODUTO NÃO SOLICITADO PELO MESMO, MAS SIM UM EMPRÉSTIMO CONSIGNADO, COMO FOI CONFIRMADO PELO PRÓPRIO. NESSE VIÉS, A PROPÓSITO, NÃO HÁ EVIDÊNCIAS NOS AUTOS DE QUE O AUTOR SE UTILIZOU DO CARTÃO CONSIGNADO COMO UM CARTÃO COMUM. OUTROSSIM, NÃO FORA ACOSTADO AO FEITO PROVA DO RECEBIMENTO DO CARTÃO PELO CONSUMIDOR OU DA SOLICITAÇÃO DE DESBLOQUEIO DO MESMO, A COMPROVAR A EFETIVA ADESÃO AO SERVIÇO. ASSIM, COADUNO COM O JUÍZO SENTENCIANTE, NOS SEGUINTES TERMOS:
+“[...] Não bastasse isso, ao fazer a Autora crer que se tratava de crédito pessoal consignado, quando, em verdade, utilizou outro mecanismo para a cobrança dos referidos valores, acabou por colocar a Autora em situação de excessiva onerosidade, uma vez que a modalidade escolhida arbitrariamente pela Requerida, sem informação à parte Requerente, é muito mais onerosa do que o crédito pessoal consignado. Assim, a conduta da Requerida impingiu obrigações iníquas e excessivamente onerosas à parte Autora, violando, assim, o artigo 51, IV, CDC.”
+NO CASO EM VERTENTE (E EM RECORRENTES CASOS MOVIDOS CONTRA O DEMANDADO E OUTRAS INSTITUIÇÕES FINANCEIRAS, A RESPEITO DO MESMO TEMA), O REQUERIDO DEIXOU DE OFERECER AO CONSUMIDOR INFORMAÇÕES FUNDAMENTAIS SOBRE O NEGÓCIO JURÍDICO, POIS O PROMOVEU COMO UM CONTRATO DE EMPRÉSTIMO CONSIGNADO VINCULADO A UM CARTÃO DE CRÉDITO E QUE PARA SUA MANUTENÇÃO SÃO EXIGIDAS DEDUÇÕES MENSAIS, DIRETAMENTE DOS SEUS PROVENTOS. NESSA ESTEIRA, O VÍCIO DO SERVIÇO FINANCEIRO DEVE SER RECONHECIDO PARA ALÉM DO DESCUMPRIMENTO AO DEVER DE INFORMAÇÃO. POR CERTO, A LEI Nº 10.820/2003, ALTERADA PELA LEI Nº 13.172/2015, PERMITIU A RESERVA DE MARGEM CONSIGNÁVEL PARA AMORTIZAÇÃO DE DESPESAS CONTRAÍDAS POR MEIO DE CARTÃO DE CRÉDITO OU SAQUE. CONTUDO, DA FORMA COMO O BANCO DEMANDADO CONFECCIONOU O NEGÓCIO, BEM COMO OFERTOU AO CONSUMIDORA PARA ADESÃO, PROMOVE A PERENIZAÇÃO DA OBRIGAÇÃO E O FENÔMENO JURÍDICO CONHECIDO COMO AMORTIZAÇÃO NEGATIVA DA DÍVIDA, SENDO AMBOS OS EVENTOS REPUDIADOS PELO ORDENAMENTO JURÍDICO
+. CONTRATAÇÃO DE CARTÃO DE CRÉDITO. DESCONTOS DO PAGAMENTO MENSAL MÍNIMO, DIRETAMENTE DO BENEFÍCIO PREVIDENCIÁRIO, SEM AMORTIZAÇÃO DO PRINCIPAL.
+AFASTAMENTO DE CLÁUSULAS CONTRATUAIS, COM INDENIZAÇÃO POR DANOS MORAIS
+. 1. Conduta abusiva do banco. Autora que alega ter efetuado contrato de mútuo com desconto consignado em benefício previdenciário, porém, disponibilizado pela instituição financeira modalidade de cartão de crédito rmc (reserva de margem consignável).
+Banco requerido que não demonstrou a devida disponibilização de informação para que a aposentada tivesse subsídios que ensejassem decidir efetivamente pela modalidade ora contestada
+. [...] (TJSP; APL 1002156-15.2017.8.26.0400; Ac. 11066672; Olímpia; Trigésima Sétima Câmara de Direito Privado; Rel. Des. Sérgio Gomes; Julg. 12/12/2017; DJESP 19/12/2017; Pág. 3496) (original sem destaque).APELAÇÃO CÍVEL.
+
+Ação declaratória c. C. Obrigação de fazer e indenização por danos morais e repetição de indébito. Contrato de cartão de crédito consignado. Reserva de margem consignável (rmc). Incidência do Código de Defesa do Consumidor. Descontos em benefício previdenciário. Contrato de adesão. Violação ao dever/direito de informação da consumidora referente aos princípio da transparência, da informação clara e precisa (art. 6º, inciso III c/c art. 46 do cdc) e ao princípio da boa fé objetiva (arts. 113, 187 e 422 Código Civil e art. 4º III e 51 IV cdc). Vício de consentimento no momento da contratação. Anulação do contrato. Retorno das partes ao status quo ante (art. 182 do CC e art. 42, parágrafo único do cdc). Devolução de forma simples dos valores descontados desde a celebração do contrato até a data de 30/03/2021 e devolução em dobro a partir desta data. Novo entendimento do STJ. Resp 1823218, julgado sob a sistemática dos recursos repetitivos. Dano moral configurado. Valor da indenização reduzida para R$4.000,00 (quatro mil reais), por atender aos princípios da razoabilidade e da proporcionalidade e por estar em consonância com os parâmetros desta corte. Na condenação por danos morais os juros fluem a partir do evento danoso (Súmula nº 54 do stj) e a correção monetária a partir do arbitramento da indenização (Súmula nº 362 do STJ). Sentença reformada. Recurso conhecido e parcialmente provido. Unânime. (TJSE; AC 202200803150; Ac. 21936/2022; Segunda Câmara Cível; Rel. Des. Gilson Félix dos Santos; DJSE 22/07/2022).
+ASSIM, TENDO EM VISTA QUE A SENTENÇA CONVERTEU O CONTRATO DE CARTÃO PARA EMPRÉSTIMO CONSIGNADO, ENTENDO QUE ESTA NÃO MERECE ALTERAÇÃO, DADO QUE O ENUNCIADO Nº 29.1 DAS TURMAS RECURSAIS DO TRIBUNAL DE JUSTIÇA DO ESPÍRITO SANTO PREVÊ A REFERIDA ADEQUAÇÃO, VEJAMOS:
+ENUNCIADO Nº 29.1
+– NOS CASOS EM QUE O CONSUMIDOR NÃO TEM A PRETENSÃO DE CONTRATAR CARTÃO DE CRÉDITO CONSIGNADO, MAS TÃO SOMENTE A REVISÃO DA CLÁUSULA PARA EMPRÉSTIMO CONSIGNADO COMUM, PODERÁ HAVER A ADEQUAÇÃO CONTRATUAL.
+NESTA ESTEIRA, ENTENDO QUE A SENTENÇA IMPUGNADA DEVE SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ENUNCIADO NÚMERO 11 DAS TURMAS RECURSAIS.
+(7). RECURSO CONHECIDO E IMPROVIDO.
+
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95
+. (8)
+
+CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS E DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 20% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CAUSA.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+DOUGLAS DEMONER FIGUEIREDO
+– Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
