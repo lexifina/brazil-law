@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2218, de 17 de setembro de 2024
+Altera Instrução Normativa RFB nº 1.115, de 28 de dezembro de 2010, que dispõe sobre a Declaração de Informações sobre Atividades Imobiliárias - Dimob.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 57 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, resolve:
