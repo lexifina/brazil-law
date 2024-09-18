@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA contra acórdão do Tribunal estadual assim ementado (e-STJ, fl. 593):
+AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO, COM PEDIDO LIMINAR. Plano de saúde. Necessidade de tratamento de urticária com o medicamento OMALIZUMABE 150MG. Sentença de procedência parcial que gerou recursos de ambas as partes. A ré alegando que sua negativa está baseada na falta de previsão de cobertura, mesmo porque o medicamento não está incluído no rol da ANS que é taxativo. Pleiteia a reforma da sentença. Autora que pleiteia a condenação da ré ao pagamento de danos morais, bem como na integralidade da sucumbência. Afronta à regra do artigo 51, IV e § 1º, II, do CDC. Observação da Súmula 102 desta Corte. Exclusão invocada pela operadora do plano de saúde que contraria a finalidade do contrato. Cobertura devida. Providências que se mostraram necessárias, diante da gravidade do quadro de saúde apresentado pela autora. Indenização por danos morais que não se aplica ao caso. Recurso da autora que merece prosperar apenas no que se refere à sucumbência que deve ficar inteiramente a cargo da ré. Majoração da verba honorária de acordo com o artigo 85, § 11, do Código de Processo Civil. Recurso da ré ao qual se nega provimento, dando-o parcialmente ao da autora Nas razões do recurso especial (e-STJ, fls. 475-482), a recorrente alega violação aos arts. 10, § 13, I, e 35-C da Lei 9.656/1998.
+Nas razões do recurso especial (e-STJ, fls. 600-615), a recorrente aduziu violação aos arts. 4º, III, da Lei 9.961/2000 e 10, § 4º, da Lei 9.956/1998.
+Sustentou que o tratamento prescrito pelo médico não está previsto no rol da Agência Nacional de Saúde Suplementar - ANS, não havendo, desse modo, nenhuma obrigação legal ou contratual para o seu custeio.
+Defendeu a taxatividade do rol de procedimentos elaborado pela ANS, conforme entendimento do Superior Tribunal de Justiça.
+Ponderou ser indevida a condenação para indenização por danos morais, por ausência de ato ilícito.
+Sem contrarrazões (e-STJ, fl. 830).
+O Tribunal de origem não admitiu o processamento do recurso especial (e-STJ, fls. 831-832).
+Foi interposto agravo em recurso especial às fls. 835-842 (e-STJ), e não apresentada contraminuta, conforme certificado à fl. 844 (e-STJ).
+Brevemente relatado, decido.
+O Tribunal local, ao julgar a apelação, assim consignou (e-STJ, fls. 595-596):
+Toda a farta documentação juntada aos autos, deram conta não só da gravidade do estado de saúde da autora, como também da necessidade do tratamento pleiteado.
+Ademais, ainda que alegue que a recusa no fornecimento do referido tratamento é justa, na medida em que procedimento não é previsto no rol da ANS e respectiva Resolução, tal argumento não afasta a abusividade na negativa de cobertura por ela perpetrada.
+Além disso, diante da necessidade e o quadro de saúde da paciente, além do avanço da medicina e ainda, por se cuidar de procedimentos amplamente difundidos pela classe médica, fazse necessário acolher-se o que constantemente tem sido decidido pelos tribunais:  ..
+Não se perca de vista que a alegação da ré quanto a não inclusão do procedimento prescrito no rol da ANS, contraria a Súmula 102 desta Egrégia Corte que assim dispõe:
+ ..
+Portanto, é abusiva a recusa do plano réu à cobertura do tratamento solicitado por profissional médico que acompanha a autora.
+De início, cabe registrar que o medicamento em questão foi incluído no Rol da ANS (Resolução Normativa - RN nº 465, de 24 de fevereiro de 2021).
+Além disso, o acórdão recorrido decidiu em conformidade com o entendimento firmado por esta Corte Superior, o qual analisando caso semelhante concluiu pela obrigatoriedade do fornecimento do medicamento Omalizumabe para tratamento de urticária crônica por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+Veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. PLANO DE SAÚDE. DOENÇA AUTOIMUNE. URTICÁRIA CRÔNICA ESPONTÂNEA (UCE). RECUSA DE COBERTURA. MEDICAMENTO INCLUÍDO NO ROL DA ANS. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Cinge-se a controvérsia em definir a obrigatoriedade de cobertura do medicamento Omalizumabe, conhecido popularmente como Xolair, para paciente portadora de urticária crônica espontânea.
+2. Observa-se que o recurso especial não mereceria, sequer, conhecimento, uma vez que a Corte local não se manifestou quanto aos dispositivos legais apontados como violados no recurso especial sob o enfoque pretendido pela recorrente. Súmulas n. 282 e 356 do STF.
+3. No caso dos autos, conforme consignado na decisão agravada, o medicamento em questão foi incluído no Rol da ANS, na RN 465, de 24 de fevereiro de 2021, e essa superveniente inclusão denota que a prescrição do médico assistente já estava amparada no conceito de saúde baseada em evidências - SBE.
+4. O entendimento do Tribunal de origem quanto à condenação da operadora de saúde à cobertura do tratamento do embargante com o medicamento Omalizumabe, deve ser mantido, pois se encontra de acordo com o novo entendimento adotado pelo STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 2.024.494/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+No mais, constata-se que o medicamento em questão é de uso injetável e, conforme a jurisprudência do STJ, "a medicação intravenosa ou injetável que necessite de supervisão direta de profissional habilitado em saúde, que é o caso dos autos, não é considerada como tratamento domiciliar (é de uso ambulatorial ou espécie de medicação assistida)" (REsp nº 1.927.566/RS, Rel. Ministra Nancy Andrighi, DJe de 30/8/2021).
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. ROL DA ANS. TAXATIVO. POSSIBILIDADE DE MITIGAÇÃO. MEDICAMENTO DE USO DOMICILIAR. CUSTEIO. OPERADORA. HIPÓTESES. USO DOMICILIAR OU AMBULATORIAL. RESTRIÇÕES. PRECEDENTE DA SEGUNDA SEÇÃO.
+1. No caso dos autos, busca-se definir se o rol de procedimentos da ANS é taxativo ou exemplificativo, bem como definir se o medicamento de uso domiciliar é de cobertura obrigatória pelo plano de saúde.
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+3. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+4. A medicação intravenosa ou injetável que necessite de supervisão direta de profissional habilitado em saúde não é considerada como tratamento domiciliar.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.989.033/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA DO FÁRMACO LUCENTIS. MEDICAÇÃO ASSISTIDA. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+2. "A medicação intravenosa ou injetável que necessite de supervisão direta de profissional habilitado em saúde não é considerada como tratamento domiciliar (é de uso ambulatorial ou espécie de medicação assistida)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+3. O medicamento prescrito pelo médico assistente do agravado - Lucentis - é um fármaco aplicado via injeção intraocular, que deve ser, obrigatoriamente, administrado com a supervisão direta de profissional habilitado em saúde, não sendo considerado, portanto, como tratamento domiciliar, mas de uso ambulatorial ou espécie de medicação assistida, sendo indevida, portanto, a negativa de cobertura pelo plano de saúde 4. Agravo interno desprovido.
+(AgInt no REsp n. 2.098.367/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024., sem grifo no original)
+Desse modo, a decisão de origem não merece reparos.
+Relativamente aos danos morais, faz-se necessário consignar que a recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstre de forma clara os dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ESFERA CÍVEL E PENAL. INDEPENDÊNCIA. ART. 935 DO CC/2002. SÚMULA N. 83 DO STJ. EXISTÊNCIA DO DANO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DANO MORAL.
+REDUÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. "Nos termos da jurisprudência deste STJ, mostra-se desnecessária a condenação na esfera criminal para configurar o dever de indenizar no juízo cível, em razão da independência das esferas e responsabilidades cível e criminal, via de regra, à luz do artigo 935, do Código Civil" (AgInt no AREsp n. 1.469.039/DF, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/11/2019, DJe 18/11/2019).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem concluiu que o réu "extrapolou o limite da liberdade de expressão que lhe era de direito, tecendo comentário absolutamente estranho ao mérito da entrevista, atavicamente ligado à honestidade e conduta ética do autor". Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1550739/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte adversa em 2% sobre o valor atualizado da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. COBERTURA DEVIDA. PRECEDENTES. DANO MORAL. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
