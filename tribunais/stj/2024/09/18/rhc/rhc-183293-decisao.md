@@ -1,0 +1,20 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fl. 434:
+""Trata-se de recurso em habeas corpus com pedido de liminar interposto por ROMARIO OLIVEIRA CARVALHO contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o recorrente foi preso em preventivamente em 27/04/2023, por supostamente compor uma organização criminosa especializada, primordialmente, em subtrair motocicletas e depois adulterá-las para que sejam comercializadas.
+O recorrente sustenta a inidoneidade da fundamentação da decisão que manteve a prisão preventiva pois ausente a contemporaneidade, até porque a suposta organização criminosa teria sido desarticulada com a prisão dos investigados.
+Afirma que ainda que estivessem presentes os requisitos para a manutenção da prisão, esta poderia ser substituída por medidas cautelares.
+Defende, ainda, ser desproporcional a manutenção de uma prisão quando uma eventual condenação resultaria em um regime inicial de cumprimento de pena menos gravoso.
+Requer, liminarmente, a concessão de liberdade provisória, com a aplicação de medidas cautelares diversas da prisão. No mérito, pugna pelo provimento do recurso para declarar o direito do recorrente de permanecer em liberdade até o trânsito em julgado da sentença condenatória.""
+Em parecer, o Ministério Público Federal opinou pelo conhecimento e desprovimento do recurso (e-STJ fls. 443/447).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Em consulta realizada à  página  eletrônica  do Tribunal de origem, verifica-se que, em 05/02/2024, foi prolatada sentença condenatória em desfavor da paciente e outros corréus, fixando a pena intermediária em 4 (quatro) anos de reclusão às e-STJ fl. 655, acrescida de 13 (treze) dias-multa, alculados à razão de 1/30 (um trigésimo) do salário-mínimo vigente à época do fato (e-STJ fl. 656) em regime semiaberto, sendo que ao paciente foi disposto cumprir à pena em prisão cautelar à fls. 644 e-STJ, mantendo a prisão preventiva nos seguintes termos (e-STJ fls. 666):
+""Deste modo, conforme consignado na decisão supracitada, a prisão é imprescindível para a garantia da ordem pública, em face da reiteração delitiva, razão pela qual não faculto aos acusados ROMÁRIO, YURI, ALYSSON e JOSÉ RENATO o direito de apelar em liberdade. Por consequência, recomendo os acusados presos (ROMÁRIO, YURI e ALYSSON) na prisão em que se encontram, valendo destacar que o tempo de prisão cautelar é insuficiente para modificação do regime inicial, notadamente porque há pena remanescente em relação aos aludidos acusados, fruto de outras condenações.
+Ressalto que a custódia cautelar não é incompatível com o regime semiaberto ora fixado para o acusado ROMÁRIO, notadamente porque, com a expedição da carta de guia (definitiva ou provisória), a execução da pena dar-se-á de acordo com o regime prisional definido no édito condenatório.""
+Como o pedido constante da petição inicial diz respeito ao trancamento da ação penal, a superveniência de sentença condenatória torna prejudicada análise da impetração, por força do enunciado da Súmula n. 648 desta Corte Superior de Justiça, que dispõe que "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Nesse palmilhar, o pedido de trancamento do processo por inépcia da denúncia ou por ausência de justa causa para a persecução penal não é cabível quando já há sentença, pois seria incoerente analisar a mera higidez formal da acusação ou os indícios da materialidade delitiva se a própria pretensão condenatória já houver sido acolhida, depois de uma análise vertical do acervo fático e probatório dos autos. (STJ. 6ª Turma. RHC 32.524/PR, Rel. Min. Rogerio Schietti Cruz, julgado em 4/10/2016).
+Ante  o  exposto,  julgo  prejudicado  o presente recurso em habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
