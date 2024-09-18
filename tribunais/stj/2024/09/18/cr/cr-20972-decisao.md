@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de Carta Rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Santarém - Juízo Local Criminal de Abrantes) solicita que se proceda à notificação de Illimane da Penh a Vieira para tomar conhecimento da decisão proferida nos autos do Processo n. 559/18.6 PAABT, e, querendo, oferecer contestação no prazo de 30 dias.
+No processamento da Carta Rogatória, a observância da garantia do devido processo legal é imperativa (art. 36, caput, do CPC). A impugnação restringir-se-á à discussão quanto ao atendimento dos requisitos (ausência de ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos; e inteligência da decisão), sendo vedada a revisão do mérito do pronunciamento judicial estrangeiro (art. 36, § 2º, do CPC).
+Assim, no âmbito do procedimento preliminar à concessão da ordem, intime-se a parte interessada, no endereço indica do à fl. 3 , para que, caso queira e com advogado constituído (art. 103 do CPC), impugne, no prazo de 15 dias, o pedido de concessão do exequatur (art. 216-Q do RISTJ).
+Na circunstância de não se encontrar a parte interessada, em virtude de alteração do endereço ou por ser o seu paradeiro desconhecido, abra-se vista ao Ministério Público Federal para, se possível, fornecer outro endereço que permita a sua localização. Inexistindo outro local de residência, devolva-se a comissão à Justiça rogante, via autoridade central.
+Não se encontrando a parte interessada no endereço indicado, abra-se vista ao MPF para que se manifeste, em 15 dias, sobre a concessão do exequatur (art. 216-S do RISTJ).
+Na hipótese de revelia ou de apuração da incapacidade da parte interessada (art. 216-R do RISTJ), notifique-se a Defensoria Pública da União a fim de que indique representante para atuar como curador especial e, nesse contexto, manifestar-se.
+Apresentada a resposta, encaminhem-se os autos ao Ministério Público Federal para que, em 15 dias, se pronuncie sobre a concessão do exequatur (art. 216-S do RISTJ).
+Publique-se.
+EMENTA
