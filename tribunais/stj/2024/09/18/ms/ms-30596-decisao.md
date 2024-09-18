@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por PAULO JOSÉ BARBOSA DA SILVA apontando como autoridade coatora o Ministro Mauro Campbell Marques, Presidente da Comissão de Exame do Primeiro Exame Nacional da Magistratura - ENAM, bem como o Diretor Presidente da Fundação Getúlio Vargas.
+Insurge-se o impetrante contra o indeferimento de sua inscrição como candidato negro publicado no Edital de 13 de maio de 2024, não obstante o deferimento anterior publicado no Edital de 08 de abril de 2024.
+Sustenta que o edital de abertura do certame foi omisso e contraditório com relação ao procedimento de inscrição de candidatos na condição de pessoa negra.
+Afirma que "diante da falta de clareza e objetividade das informações fornecidas pelos editais publicados, notadamente em face de suas sucessivas, confusas e contraditórias retificações, a decisão de indeferimento da inscrição do Impetrante, culminando com a reprovação do Impetrante, mesmo atingindo pontuação suficiente para sua aprovação como pessoa examinanda autodeclarada negra, constata-se grave violação a direito fundamental de direito líquido e certo, a ser combatido mediante mandado de segurança".
+Alega que há "perigo de dano e risco ao resultado útil do processo, à medida que a ausência/negativa da validação da autodeclaração do Impetrante impede sua participação nas condições especiais às quais tem direito, o que pode resultar em sua exclusão ou desvantagem no exame".
+Argumenta, ainda, que "a tutela de urgência deve ser concedida, para garantir o direito do Impetrante de participar do exame conforme previsto, sem ser prejudicado pela demora na decisão do mérito, considerando que o prazo de entrega da validação encerra em 26/04/2024".
+Requer "seja deferida medida liminar, para que seja imediatamente suspenso qualquer ato tendente à exclusão do Impetrante do certame do Primeiro Exame Nacional da Magistratura - ENAM, garantindo sua manutenção na lista de candidatos habilitados, até decisão final deste mandamus".
+No mérito, pleiteia a "concessão definitiva da segurança, para assegurar o direito líquido e certo do Impetrante de permanecer na lista de habilitados nas vagas reservadas a candidatos negros, em conformidade com a nota obtida no certame (40 pontos), reconhecendo-se sua aprovação no ENAM I".
+É o relatório.
+Ao que se tem, questiona a impetração as regras do edital do Exame Nacional da Magistratura - ENAM com relação à inscrição de candidatos na condição de pessoa negra ao argumento de que não há clareza nos dispositivos referentes ao tema.
+Por oportuno, confira-se o seguinte trecho da exordial do mandamus (fl. 6):
+Sendo assim, interpretando-se a redação do subitem 4.5.1 do Edital de Inscrição nº 01/2024, compreende-se que o Impetrante solicitou validação da condição de pessoa negra, para posterior apreciação por uma Comissão de Heteroidentificação, a partir da remessa do anexo III, supramencionado, dentro do prazo ali estabelecido (02/04/2024):
+4.5.1 A pessoa autodeclarada negra deverá solicitar a validação de sua condição à Comissão de Heteroidentificação, conforme comprovante modelo Anexo III (autodeclaração), até o dia 07/03/2024, cujo pedido será examinado até o dia 02/04/2024.
+Ocorre que referido edital designou como responsável pela organização e execução do certame, supervisionada pelas Comissões Executiva e Acadêmica, com auxílio de subcomissões instituídas pela Escola Nacional de Formação e de Aperfeiçoamento de Magistrados - ENFAM, a Fundação Getúlio Vargas (item 3.4 do edital), sendo certo, outrossim, que, quanto à inscrição de pessoa negra (preta ou parda) ou indígena, o edital estabeleceu que
+4.5 A Comissão de Heteroidentificação do Tribunal de Justiça do Estado do domicílio da pessoa examinanda negra será responsável pela emissão do comprovante de validação dessa condição, observada a Resolução CNJ n. 541/2023.
+4.5.1 A pessoa autodeclarada negra deverá solicitar a validação de sua condição à Comissão de Heteroidentificação, conforme comprovante modelo Anexo III, até o dia 07/03/2024, cujo pedido será examinado até o dia 02/04/2024.
+4.5.1.1 O envio do comprovante do item anterior poderá ser realizado em link próprio, no prazo de 2 (dois) dias úteis a partir da publicação do resultado preliminar da prova para fins de habilitação na condição da pessoa examinanda negra.
+4.5.2 Da decisão da Comissão de Heteroidentificação que não confirmar a autodeclaração caberá recurso ao Tribunal de Justiça no período de 02/04/2024 a 05/04/2024.
+4.5.2.1 A decisão do recurso será proferida pelo Tribunal de Justiça até o dia 23/04/2024.
+4.5.3. O envio do comprovante de validação previsto no item 4.5.1 deverá ser realizado até o dia 26/4/2023 em link próprio a ser disponibilizado no sítio eletrônicohttps://conhecimento.fgv.br/concursos/enam.
+4.5.3.1. As pessoas inscritas que se autodeclararem negras e não enviarem o comprovante de validação no prazo estabelecido no item anterior não serão eliminadas do exame, mas serão submetidas às condições gerais de habilitação, ressalvada a hipótese prevista no art. 13, § 2º, da Resolução ENFAM n. 7de 7 de dezembro de 2023.
+Nesse contexto, não se verifica a legitimidade passiva do Ministro Presidente da Comissão do Primeiro Exame Nacional da Magistratura, uma vez que o ato supostamente coator não é de sua atribuição.
+Com efeito, nos termos do art. 6º, § 3º, da Lei n. 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Desse modo, forçoso reconhecer a incompetência desta Corte para examinar o mandamus.
+Nesse sentido, confiram-se os seguintes provimentos: MS 30213/DF, Min. Ricardo Villas Boas Cueva, DJe de 17/05/2024; MS 30366/DF, Min. Og Fernandes, DJe de 25/07/2024; MS 30278/DF, relator Ministro Antonio Carlos Ferreira, DJe de 11/6/2024.
+Ante o exposto, indefiro liminarmente o mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+MANDADO DE SEGURANÇA. ENAM. ATO NÃO ATRIBUÍVEL À AUTORIDADE COM FORO NESTA CORTE. PEDIDO INDEFERIDO LIMINARMENTE.
