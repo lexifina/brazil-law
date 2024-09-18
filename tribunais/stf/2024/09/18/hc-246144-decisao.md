@@ -1,0 +1,45 @@
+Habeas corpus. Tráfico de drogas e receptação. Prisão preventiva. Garantia da ordem pública. Fundamentação idônea. Manifesta ilegalidade ou teratologia não identificadas. Negativa de seguimento.
+
+    Trata-se de habeas corpus impetrado em favor de Renan Henrique Santana de Almeida contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 918.631/SP (evento 1).
+
+    O paciente foi preso em flagrante delito, convertido o título em prisão preventiva, pela suposta prática do delito de tráfico de drogas e receptação, previstos no art. 33, caput, da Lei 11.343/06 e art. 180 do Código do Penal (evento 2, fls. 63-69).
+
+    No presente writ, a Defesa sustenta ausência de fundamentação idônea do decreto prisional, porquanto lastreada na gravidade abstrata dos delitos. Alega a inexistência dos requisitos autorizadores da prisão preventiva e a suficiência das medidas cautelares diversas da prisão. Ressalta as condições pessoais favoráveis ao paciente. Salienta a ausência de violência ou grave ameaça na prática dos delitos. Requer, em medida liminar e no mérito, a revogação da prisão preventiva, cumulada com medidas cautelares diversas.
+
+    É o relatório. Decido.
+
+    Extraio do ato dito coator (evento 5):
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E RECEPTAÇÃO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+
+    I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+
+    II - In casu, a prisão preventiva se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública; notadamente se considerada a gravidade concreta da conduta, circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade do agravante, justificando a segregação cautelar imposta. Precedentes.
+
+    III- É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos. Precedentes.  Agravo regimental desprovido.”
+
+    O decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura colocará em risco a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal, à luz do art. 312 do CPP, e desde que igualmente presentes prova da materialidade do delito e indícios suficientes da autoria.
+
+    Diante dos indícios de autoria e materialidade delitivas, o juízo primevo decretou a constrição cautelar do paciente aos seguintes fundamentos: “com efeito, o Boletim de Ocorrência (fls. 17ss); Auto de Exibição e Apreensão (fls. 26ss) e o Laudo de Constatação (fls. 30ss) comprovam a apreensão das drogas com os autuados e a natureza dos materiais apreendidos (maconha; crack e cocaína). Quanto aos indícios de autoria, observa-se que os materiais foram apreendidos na residência do autuado, ao passo que a grande quantidade de drogas apreendidas torna inverossímil a tese de que ele "nada sabia" sobre o que acontecia no imóvel, anotando-se que ambos já eram monitorados pela prática do tráfico. Neste ponto, conforme se extrai dos elementos colhidos pela Autoridade Policial, a polícia civil recebeu informação de que produtos de furto, notadamente um fogão pertencente à vítima Aparecido de Sousa Duarte, estava na casa dos autuados, eis que havia sido trocado por drogas (a indicar que a atividade dos autuados incentivava, ao que consta, a ocorrência de outros crimes). Aliás, a informação dizia que haveria vasta quantidade de drogas no local, pois lá seria um "ponto" de venda drogas, praticado por ambos. Que a polícia militar confirmou que já monitorava o local, em razão de denúncias recebidas. Que então os policiais foram até o local e localizaram o fogão subtraído, e, no interior da residência, localizaram grande quantidade de drogas, quais sejam: 53 (cinquenta e três) pedras de "crack"; 47 (quarenta e sete) saquinhos "zip-lock" contento cocaína; 15 (quinze) pinos de cocaína; 13 (treze) saquinhos "zip-lock" contendo maconha; 60g de maconha 'a granel', 06 (seis) pedras brutas de cocaína; dinheiro, uma balança de precisão e celulares Ou seja, provável, ao menos até aqui, a ocorrência de traficância. Ainda, encontraram anotações para controle/contabilidade do tráfico. Portanto, entendemos que há indícios de autoria em relação a ambos os autuados. Em seguimento, relativamente aos requisitos cautelares, o autuado se envolveu na prática de delito equiparado a hediondo (art. 5º, XLIII da CF, art. 2º, caput da Lei nº 8.072/1990 e art. 44 da LD), ou seja, insuscetível de fiança, anistia, graça e indulto. Portanto, a prisão cautelar revela-se necessária para garantia da ordem pública abalada pela gravidade concreta do delito imputado e pela periculosidade do agente.” (evento 2).
+
+    Ao denegar a ordem de habeas corpus, o Tribunal de Justiça do Estado de São Paulo enfatizou que “A decisão de origem, mais que fundamentada, cumpre absoluta e perfeitamente os requisitos legais, porque esclarece quais os fundamentos e justificativas para a necessidade prisional. Que são aqui encampados e adotados. Ao referir-se às circunstâncias da prisão, à gravidade concreta do crime e à periculosidade do agente, apontando-se que é necessária a imposição de prisão cautelar para fins de garantia da ordem pública, a indicar a inadequação e insuficiência da fixação de medidas cautelares alternativas para atender a esse fim, está-se, sem dúvidas, justificando plenamente a atuação do Estado, na coarctação da liberdade de ir e vir do cidadão. Permitindo, então, à sociedade, que veja encarcerado aquele que precise ser segregado do convívio social, como aqui. Para a proteção dela e de todos os seres de bem que querem ver o Judiciário atuando. Se assim é, não se há negar que fundamento e motivação existem e são absolutamente adequados” (evento 3).
+
+    Ao manter a prisão preventiva, o Superior Tribunal de Justiça assentou que “In casu, a prisão preventiva se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública; notadamente se considerada a gravidade concreta da conduta, circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade do agravante, justificando a segregação cautelar imposta” (evento 5).
+
+    Nesse contexto, se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a gravidade em concreto do crime, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Nesse sentido: HC 212.682-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 18.4.2022; HC 210.384-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 31.5.2022; HC 213.022-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 02.6.2022; HC 216.608-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 19.8.2022; e HC 228.256-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 08.11.2023.
+
+    Além dos precedentes mencionados, destaco, ainda, os seguintes: "O entendimento do Supremo Tribunal Federal é no sentido de que a gravidade concreta do crime, a periculosidade do agente, o risco concreto de reiteração criminosa e a necessidade de impedir a interferência do acusado no regular desenvolvimento da instrução criminal constituem fundamentação idônea para a decretação da custódia preventiva. Precedentes.” (HC 225.241-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 10.04.2023); “É idônea a prisão cautelar fundada na garantia da ordem pública quando evidenciada a gravidade concreta da ação criminosa ou demonstrada a periculosidade social do agente a partir do modo como desenvolveu a conduta delitiva” (HC 216.598-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 26.10.2022); “A decretação da custódia preventiva para garantia da ordem pública que tem como fundamento a gravidade concreta do crime, evidenciada pelo modus operandi da conduta, bem como pelo risco de reiteração delitiva, encontra amparo na jurisprudência desta Corte” (HC 218.475-AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.11.2022).
+
+    Dada a necessidade da constrição cautelar do Paciente, carece de plausibilidade jurídica o pleito defensivo de aplicação das medidas cautelares diversas da prisão (arts. 282, § 6º, e 319 do CPP).
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+
+    Publique-se.
+
+    Brasília, 18 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
