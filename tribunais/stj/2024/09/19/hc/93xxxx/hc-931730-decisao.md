@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GILMAR LUIZ LAPA POCAI no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. º 5037036-11.2024.8.24.0000/SC)
+Consta nos autos que o paciente foi preso preventivamente pela suposta prática do crime previsto no art. 157, § 2º, inciso II, do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que, por maioria, denegou a ordem.
+Neste writ, alega a parte impetrante, em síntese, que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal, e que o decreto prisional não apresenta fundamentação idônea.
+Afirma que o paciente possui condições pessoais favoráveis, sendo suficiente a imposição de medidas cautelares diversas da prisão.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente ou, de modo subsidiário, a substituição da custódia por medidas cautelares alternativas.
+O pedido liminar foi indeferido às fls. 522-523.
+Informações prestadas às fls. 530-535 e 536-571.
+O Ministério Público Federal manifestou-se às fls. 576-578, opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+DECIDO.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva, em decisão mantida pela Corte local, consignou o que se segue (fls. 48-49; grifamos):
+Há prova da materialidade do crime e indícios de autoria delitiva por parte dos denunciados, conforme elementos probatórios apontados no item 1 da presente decisão, aliados aos motivos explicitados nos parágrafos anteriores. Resta, pois, assentado o fumus comissi delicti, com relação a ambos os réus.
+No tocante ao periculum in libertatis, a segregação dos acusados é necessária para a garantia da ordem pública. Primeiramente, há que se registrar a gravidade concreta das condutas ora analisadas, em que os ofendidos teriam subtraído diversos bens do interior do veículo da vítima e, ao serem vistos por ela, agrediram-na e ameaçaram-na de morte, assim como ameaçaram seu filho adolescente.
+Trata-se de crime patrimonial cometido com violência e grave ameaça contra mulher e contra adolescente, que causou um prejuízo de mais de R$ 3.000,00 (três mil reais).
+Soma-se a isso o fato de que, pelo que foi informado pela Autoridade Policial, os denunciados não possuem residência fixa, o que evidencia, por ora, o risco de que possam se furtar da aplicação da Lei Penal, o que também justifica a segregação cautelar.
+Ainda que os denunciados sejam primários, o modus operandi narrado pela autoridade policial, agravado pela condição de vulnerabilidade das vítimas da violência e da ameaças perpetradas pelos denunciados evidencia o perigo concreto à ordem pública, dada a probabilidade deque, caso colocados em liberdade nessa fase processual, os denunciados voltem a praticar crimes dessa espécie. Reitera-se que não se trata de crime de roubo comum, mas de ato cometido em local público e de grande circulação por dois agentes, em conjunto, contra pessoa do sexo feminino e seu filho menor de dezoito anos. Dadas essas circunstâncias, a fixação de medidas cautelares diversas não seria suficiente ou adequada para assegurar a ordem pública, tornando exigível posicionamento mais contundente do Poder Judiciário.
+Dos excertos transcritos, concluo que, ao contrário do que alega a parte impetrante, a prisão preventiva foi suficientemente fundamentada em virtude da especial reprovabilidade dos fatos, evidenciada a partir das circunstâncias da prática delitiva, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. MODUS OPERANDI A EVIDENCIAR PERICULOSIDADE DO AGENTE. FUNDAMENTO IDÔNEO. DESCABIMENTO DE CAUTELARES MAIS BRANDAS. AGRAVO DESPROVIDO.
+1. Verificada a gravidade concreta da conduta pela alta reprovabilidade do modus operandi empregado, no qual se infere o periculum libertatis, tem-se por justificada a prisão cautelar.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. "Quando a necessidade da prisão preventiva estiver demonstrada pelos fatos e pressupostos contidos no art. 312 do CPP, não há afronta ao princípio da presunção de inocência, tampouco antecipação ilegal da pena" (AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 184.185/AL, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024; grifamos).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. ROUBO DUPLAMENTE MAJORADO (TRÊS VEZES). PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI IGNÓBIL. FUNDAMENTAÇÃO IDÔNEA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES, NA HIPÓTESE. CONDIÇÕES PESSOAIS IRRELEVANTES NA HIPÓTESE. RECURSO DESPROVIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A custódia cautelar foi legalmente fundamentada pelas instâncias ordinárias, tendo sido salientado que o agente cometeu o crime mediante o emprego de arma de fogo, em comparsaria com outro indivíduo e pilotando uma motocicleta. Além disso, estava na posse de bens subtraídos de diversas vítimas (aproximadamente seis celulares e um armamento pertencente à polícia militar). Tais circunstâncias revelam a elevada periculosidade do agravante e justificam a decretação e manutenção da prisão.
+2. Tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal. Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso.
+3. Agravo regimental não provido.
+(AgRg no RHC n. 193.986/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/6/2024, DJe de 21/6/2024).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/202 4, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
