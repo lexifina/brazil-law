@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEONARDO ALCANTARA ALVES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0003428-83.2021.8.26.0509).
+Consta dos autos que o Juízo da Execução Penal homologou falta grave, declarando a perda de 1/6 dos dias remidos, bem como o reinício do prazo de cumprimento de pena para fins de progressão de regime a partir da data da última infração.
+O Colegiado de origem negou provimento ao agravo de execução penal interposto pela defesa.
+Neste writ, os impetrantes sustentam que não haveria nenhuma comprovação de que o paciente teria cometido falta grave, consistente em desobediência à ordem do agente penitenciário.
+Ponderam que, no seu depoimento, o sindicado disse que desconhece os fatos narrados, que não estava escondendo nada na camiseta e que não ouviu a ordem do servidor, pois neste exato momento estava entre 60 (sessenta) presos entrando na cela (e-STJ fl. 8).
+Acrescentam que não teria havido dolo por parte do paciente em desrespeitar os servidores ou incorrer em atitude desobediente (e-STJ fl. 8).
+Defendem que, considerando os princípios da proporcionalidade e da razoabilidade, a conduta deveria ser desclassificada para falta disciplinar de natureza média.
+Requerem, liminarmente, o afastamento da prática de falta grave e suas consequências. No mérito, pugnam pela confirmação da liminar ou a desclassificação da falta grave para outra de natureza mais branda.
+O pedido de liminar foi indeferido (e-STJ fls. 62/63).
+Manifestação do Ministério Público Federal pelo não conhecimento do writ (fls. 101/104).
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Relativamente à instrução probatória não ter sido suficiente para comprovar a autoria ou participação da infração disciplinar por parte do paciente, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada (e-STJ fls. 50/51):
+Instaurado o procedimento administrativo de apuração da falta disciplinar, o agente de segurança Ronaldo Cardoso da Silva informou que durante a inversão de celas dos sentenciados, para posterior procedimento de bate piso e grade, notou que o agravante, habitante da cela 01, do pavilhão habitacional 02, estava com algo escondido sob a camiseta, razão pela qual, ordenou que a levantasse para averiguar doque se tratava. Contudo, o sentenciado, desobedecendo à ordem, adentrou na cela, não sendo possível verificar o que era (fl. 23). No mesmo sentido, as declarações do servidor Elcio Rodrigues (fl. 24), que presenciou seu colega pedir ao agravante que levantasse a camiseta porque tinha algo escondido, mas ele não obedeceu e ingressou na cela.
+O agravante negou que estivesse escondendo algo na camiseta.
+Alegou, ainda, que não ouviu a ordem do servidor, pois havia mais de sessenta presos entrando na cela (fl. 26).
+Observo que não há motivos para duvidar das palavras dos agentes de segurança penitenciária, pois prestaram suas declarações cientes das consequências administrativas decorrentes da violação de seus deveres funcionais.
+A prova, portanto, autoriza afirmar que o agravante desobedeceu à ordem do agente penitenciário, ao recusar-se a levantar a camiseta, soba qual, havia algo escondido.
+Destarte, a conduta configura falta grave, nos termos do artigo50, VI, c.c. 39, incisos II e V, da Lei de Execução Penal, não havendo que se falar em absolvição.
+Verifico que para superar as conclusões alcançadas na origem e chegar às pretensões apresentadas pela parte, para análise de tese de insuficiência probatória, com a consequente absolvição da paciente, ou ainda, para desclassificar a falta grave imputada ao paciente para uma de natureza média ou leve, seria necessário amplo reexame da matéria fático-probatória, procedimento incompatível com a estreita via do habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. REEDUCANDO QUE NÃO RETORNOU DA SAÍDA TEMPORÁRIA NA DATA APRAZADA. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. AGRAVO DESPROVIDO.
+1. O atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, da LEP).
+2. Tendo as instâncias ordinárias concluído, de modo fundamentado e com base em elementos concretos, que restou configurada a falta disciplinar de natureza grave, rever esse entendimento a fim de afastar a falta grave ou desclassificar a conduta para infração de natureza média ou leve demandaria incursão na seara fático-probatória, inviável na estreita via do habeas corpus.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 894.560/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. OITIVA JUDICIAL DO APENADO E SUA AUSÊNCIA DURANTE A INQUIRIÇÃO DAS TESTEMUNHAS. DESNECESSIDADE. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Conforme orientação jurisprudencial emanada por esta Corte, além de ser desnecessária a oitiva judicial do apenado, no caso dos autos, ele foi devidamente assistido pela defesa técnica, não havendo se falar em ofensa aos princípios do contraditório e da ampla defesa. Ademais, afastar o reconhecimento da falta, ou até mesmo a sua desclassificação para falta de natureza média ou leve, demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus 2. Agravo regimental não provido.
+(AgRg no HC n. 752.366/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/3/2024, DJe de 14/3/2024)
+Ademais, de acordo com a jurisprudência desta Corte, os depoimentos dos agentes públicos gozam de presunção de veracidade e legitimidade, inerentes aos atos administrativos em geral.
+Nessa esteira, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. POSSE DE INSTRUMENTO CAPAZ DE OFENDER A INTEGRIDADE FÍSICADE OUTREM - ART. 50, INCISO III, DA LEI 7.210/84. ABSOLVIÇÃO. PRESUNÇÃO DE VERACIDADE DO DEPOIMENTO DOS AGENTES PENITENCIÁRIOS. REVOLVIMENTO FÁTICO-PROBATÓRIO INVIÁVEL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RECURSO DESPROVIDO.
+1. Não há falar-se em absolvição da prática de falta grave, uma vez que as Instâncias Ordinárias, em Procedimento Administrativo Disciplinar, assegurado ao reeducando o contraditório e a ampla defesa, inclusive com a participação de defesa técnica, concluíram que o sentenciado encontrava-se na posse de uma arma artesanal "estoque" - instrumento artesanal pontiagudo, apto a ofender a integridade física de outrem, caracterizando, assim, a infração disciplinar prevista no art. 50, III, da Lei de Execução Penal.
+2. A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral. (HC n. 391170, Rel. Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017). Na mesma linha de entendimento: HC n. 334732, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, julgado em 17/12/2015, publicado em 1º/2/2016.
+3. Outrossim, desconstituir o entendimento firmado pelas instâncias originárias demandaria amplo revolvimento da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus. Precedentes.
+4. Agravo desprovido.
+(AgRg no HC n. 821.526/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Tendo as instâncias de origem concluído, com base nas provas produzidas no procedimento disciplinar interno, especialmente nas declarações dos agentes penitenciários, que o agravante praticou falta grave consistente na subversão da ordem, para se chegar a entendimento diverso, necessário seria o revolvimento do conteúdo fático-probató rio dos autos, incabível nesta via.
+2. Outrossim, "a Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a "priori", das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade,  .
+..  (HC n. 391.170/SP, rel. Min. Nefi Cordeiro, julgado em 1º/8/2017, publicado em 7/8/2017).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 797.089/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Ante o exposto,  não  conheço  do  habeas  corpus.
+Publique-se. Intimem-se.
+EMENTA
