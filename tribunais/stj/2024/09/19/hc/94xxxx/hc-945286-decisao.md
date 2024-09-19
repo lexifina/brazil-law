@@ -1,0 +1,23 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de Roberto Jesus de Figueiredo - condenado por roubo circunstanciado e associação criminosa a 24 anos, 9 meses e 10 dias de reclusão, e a 56 dias-multa -, atacando-se o acórdão da apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 15/101), não comporta processamento.
+Com efeito, busca a impetração redimensionar a pena imposta na condenação proferida na Ação Pen al n. 1500898-76.2020.8.26.0441 (fls. 128/199 - da 3ª Vara da comarca de Peruíbe/SP).
+Em sua manifestação (fls. 3/14), a Defensoria Pública da União requereu:
+a) o afastamento da negativação dos vetores circunstâncias e consequência para o crime de roubo - sustentando que fundamentação se utilizou de elementos próprios do crime, não extrapolando a normalidade dessa espécie de delito (fl. 6);
+b) o afastamento da negativação dos vetores culpabilidade, circunstâncias e consequência para o delito de associação - aduzindo que as circunstâncias judiciais negativas foram fundamentadas em circunstâncias próprias do tipo (fl. 10);
+c) a aplicação da atenuante da confissão para o crime de roubo - infirmando que o paciente confessou, em sede policial, o crime de roubo. Outrossim, a sentença utilizou-se deste fundamento para confirmar a materialidade do delito (fl. 10); e
+d) o afastamento da agravante da calamidade pública - dizendo que a mera indicação que o delito aconteceu em período pandêmico não é suficiente para aplicação da agravante (fl. 13).
+Sem pedido liminar.
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 11/4/2024 (conforme informações do endereço eletrônico do Tribunal estadual), o que afasta a competência desta Corte Superior para análise do pleito.
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, inicialmente porque a negativação dos vetores foi fundamentada em elementos concretos dos autos, na primeira fase da dosimetria. Confiram-se:
+a) circunstâncias para o crime de roubo - o delito foi praticado em local de grande circulação de pessoas. Mais precisamente, o roubo foi cometido bem em frente ao Colégio Objetivo e a uma pequena praça pública, expondo um número indeterminado de pessoas em risco (fl. 161);
+b) consequência para o roubo - foram vários os bens roubados. Os réus tomaram a bolsa da vítima Rosa Maria, que continha carteira, celular e documentos. Também levaram a carteira, o celular e a motocicleta da vítima Ronaldo. Alguns bens foram recuperados. A motocicleta foi encontrada poucos dias após o delito. Mas parte dos bens nunca foram localizados (fl. 161);
+c) culpabilidade para a associação - os réus alugaram um imóvel de alto padrão, para servir de "sede" da associação criminosa. Reuniam-se no local com frequência, antes e depois dos delitos, inclusive nele promovendo festas bastante extravagantes. Era, conforme narrado pela policial Ivana, o "quartel general" dos acusados (fl. 156);
+d) circunstâncias da associação - bastaria a reunião de 3 pessoas, com o fim específico de cometer crimes, para que restasse configurado o delito. No caso concreto, a associação criminosa era composta por pelo menos 6 integrantes. Os réus agiam de forma especialmente organizada (fl. 157); e
+e) consequências do crime de associação - negativas. A casa alugada pelos criminosos está localizada em bairro tipicamente turístico, com muitas casas de veraneio. A atividade turística é a principal do Município de Peruíbe e tem sido bastante prejudicada nos últimos tempos, pela pandemia e, mais especificamente no local, pela atuação da associação criminosa (fl. 157).
+Ademais, para afastar o fundamento para aplicação da calamidade pública - há elementos que evidenciam que o réu se prevaleceu, efetivamente, da situação e do contexto da pandemia para a prática criminosa. O réu acreditou que sairia impune, pela dificuldade de se identificar a sua atuação criminosa, em razão da diminuição do fluxo de pessoas nas ruas ocasionada pela pandemia. Não esperava que seus crimes fossem descobertos (fl. 159) - seria necessário o reexame probatório, inviável na via eleita.
+Por fim, a atenuante da confissão foi aplicada ao delito de roubo, na sentença - na segunda fase, incide a atenuante da confissão. O réu confessou o delito na fase policial (fl. 162) -, e ratificada na apelação (fl. 89).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E ASSOCIAÇÃO CRIMINOSA. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
