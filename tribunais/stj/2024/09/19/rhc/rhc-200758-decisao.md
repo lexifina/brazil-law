@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por GUILHERME BATISTA RODRIGUES CARDOSO contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC n. 0710652-29.2024.8.07.0000).
+Consta dos autos que, por ocasião do recebimento da denúncia em 11/10/2023, foi decretada a prisão preventiva do recorrente pela suposta prática da conduta descrita nos arts. 2º, caput e §§ 2º e 3º, da Lei n. 12.850/2013; 1º, caput e § 4º, da Lei n. 9.613/1998; e 299 e 304 do Código Penal (por várias vezes).
+Em 1º/3/2024, a prisão preventiva foi reavaliada e mantida pelo Juízo de primeiro grau.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 221):
+Habeas Corpus. Crimes de organização criminosa, de lavagem de capitais, de falsidade ideológica e de uso de documento falso. Prisão preventiva. Indícios da prática de atos com o intuito de dilapidar o patrimônio oriundo da comercialização de entorpecentes e das demais atividades ilícitas do grupo criminoso. Informações conhecidas e relatadas em relatório policial após a revogação da segregação cautelar do paciente e que motivaram a decretação de nova prisão preventiva com fundamento na garantia da ordem pública e para assegurar a aplicação da lei penal. Fumus comissi delicti e periculum libertatis demonstrados. Decreto cautelar fundamentado nas circunstâncias do caso concreto. Alegação de ausência de fatos novos e contemporâneos. Improcedente. Paciente apontado como um dos líderes da organização criminosa, responsável por adquirir grandes quantidades de droga junto a fornecedores externos, por captar recursos financeiros com financiadores para aquisição do material ilícito, por difundir o material ilícito para outros integrantes do grupo e por ocultar o proveito ilícito. Risco de reiteração delitiva. O sequestro de bens e valores não afasta a necessidade da decretação da prisão preventiva do paciente para evitar o risco de dilapidação do patrimônio ilícito. Princípio da isonomia. Ausência de identidade de situação processual com a de outro corréu. Medidas cautelares diversas da prisão insuficientes. Constrangimento ilegal não evidenciado. Writ admitido. Ordem denegada.
+O recorrente sustenta a ausência de fundamentação idônea para a decretação de sua prisão preventiva, que teria sido embasada em argumentos genéricos e apoiada na gravidade abstrata do delito.
+Nesse sentido, argumenta que, desde a primeira decretação de sua prisão preventiva, posteriormente relaxada por excesso de prazo, não teriam surgido novos elementos capazes de alterar o cenário fático ou justificar a aplicação da medida extrema.
+Pontua a carência de relevância e contemporaneidade dos elementos utilizados para a decretação da segregação cautelar, enfatizando que, após o relaxamento da primeira prisão, teria permanecido em sua residência, o que demonstraria ser a medida desproporcional e desnecessária.
+Acrescenta a disparidade de tratamento entre os denunciados, apesar de terem sido denunciados pela mesma acusação.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que com a aplicação das medidas previstas no art. 319 do Código de Processo Penal, e a expedição do competente alvará de soltura.
+Liminar indeferida (e-STJ fls. 338/342).
+Informações prestadas (e-STJ fls. 347/354 e 355/493).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 442/451).
+É o relatório.
+Decido.
+Em consulta ao endereço eletrônico do Tribunal de Justiça, verifica-se que o recorrente foi condenado à pena de 14 anos e 10 dias de reclusão, em regime inicial fechado, e ao pagamento de 73 dias-multa, como incurso nos arts. 2º, §§ 2º e 3º da Lei n. 12.850/2013; 1º, § 4º, da Lei n. 9.613/1998; e 299 e 304, ambos do Código Penal, todos na forma do art. 69 do mesmo diploma penal.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar imposta ao recorrente que, agora, decorre de novo título, a ser submetido à apreciação pelo Tribunal estadual.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte Superior, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
