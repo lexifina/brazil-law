@@ -1,0 +1,22 @@
+DECISÃO
+ADRIAN GABRIEL VIANA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 5025898-97.2022.8.21.0033).
+Consta dos autos que o paciente foi condenado a 7 anos de reclusão, em regime fechado, mais multa, como incurso no art. 33, caput, da Lei de Drogas.
+Pleiteia a defesa, neste writ, a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e consectários decorrentes da redução da pena.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da ordem e, caso seja conhecida, pela denegação.
+Decido.
+O Tribunal de origem manteve o afastamento da incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas pelos seguintes fundamentos (fl. 20, grifei):
+Inviável a incidência da minorante prevista no art. 33, §4º da Lei nº 11.343/06.
+Apesar de o réu ser primário, foram apreendidas sob sua posse 25 porções de cocaína, pesando 25 gramas, 360 porções de maconha, pesando 600 gramas, 06 tijolos de maconha, pesando 2.470 gramas, 02 balanças de precisão, 16 pacotes de papel seda, dois telefones celulares, embalagem plástica contendo diversos pacotes para acondicionamento das porções de maconha e R$ 380,00 (trezentos e oitenta reais) em notas diversas.
+A grande quantidade de drogas apreendida, somado aos diversos petrechos indicam possível envolvimento do réu com associação criminosa voltada para o tráfico, sendo sendo crível que seria entregue a pessoa desconhecida mais de 03 quilos de maconha e 25 gramas de cocaína, elementos que demonstram que o acusado era pessoa de confiança de grupo criminoso.
+Atrelado à volumetria das drogas apreendidas, verifica-se que a apreensão não ocorreu de forma aleatória, sendo fundada em investigação prévia, durante o cumprimento de mandado de busca e apreensão na residência do denunciado.
+A prova colhida durante a investigação também demonstrou que o acusado era integrante da facção "Os Manos", o que somado aos demais elementos indicam possível envolvimento do acusado com atividades criminosas voltadas ao tráfico de drogas e facção criminosa.
+Dessa forma, tenho que inviável a incidência da minorante prevista no art. 33, §4º da Lei nº 11.343/06, havendo fortes elementos que indicam o envolvimento do acusado com a traficância e sua dedicação à atividades criminosas.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas.
+Para tanto, salientou a instância de origem que, apesar de não comprovada a prática do delito de associação para o tráfico, há elementos nos autos que indicam ser o réu integrante da facção criminosa "Os Manos". Além disso, o acusado foi preso na posse de significativa quantidade de drogas e petrechos do tráfico - 2 balanças de precisão, 16 pacotes de papel de seda, 2 telefones celulares e embalagens plásticas usadas para acondicionamento de drogas.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+Em razão do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida inalterada a fixação do regime inicial fechado, nos temos do art. 33, § 2º, "b", do CP, bem como a negativa de substituição da pena privativa de liberdade por restritivas de direitos (sanção superior a 4 anos).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
