@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ED CARLOS AMERICO DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0002446-64.2024.8.26.0509).
+Depreende-se dos autos que o Juiz da Execução indeferiu pedido de retificação do cálculo de penas para considerar como data base para progressão de regime o dia da primeira prisão do sentenciado (fl. 12).
+O Tribunal de origem negou provimento ao agravo de execução penal interposto pela defesa.
+No presente writ, sustenta a defesa que a data da primeira prisão deve ser considerada como base para a concessão dos benefícios da execução.
+Menciona que "períodos de detração que não foram computados, bem como o cumprimento de penas deve ser feito na pena de crime hediondo, conforme documento em anexo" (fl. 4).
+Requer, liminarmente e no mérito, a retificação do cálculo de penas.
+É o relatório. DECIDO.
+Conforme relatado, a questão a ser analisada cinge-se ao estabelecimento da data base para fins de contagem de prazo de benefícios pleiteados em sede de execução penal.
+Compulsando a tese apresentada na inicial, tenho que suas premissas não merecem prosperar.
+A respeito da controvérsia, o Tribunal de origem consignou que (fls. 15-22):
+"Consta dos autos que o agravante cumpre pena, em regime fechado, diante das seguintes condenações:
+- ação penal nº 0013789-66.2000.8.26.0002 (PEC nº 7004167-95.2005.8.26.0637), a 14 anos de reclusão, regime inicial fechado, incurso no art. 121, §2º, I, do Código Penal;
+- ação penal nº 0000692-96.2000.8.26.0002 (PEC nº 7002791-67.2000.8.26.0050), a 1 ano e 8 meses de detenção, regime inicial semiaberto, incurso no art. 10, caput, da Lei 9.437/1997, art. 309, caput, da Lei nº 9.503/1997, e art. 329, caput, todos c/c art. 69, caput, ambos do Código Penal;
+- ação penal nº 0861997-63.1998.8.26.0002 (PEC nº 7010239-57.2001.8.26.0050), a 12 anos de reclusão, regime inicial fechado, incurso no art. 121, §2º, IV, do Código Penal;
+- ação penal nº 0171359-86.1998.8.26.0002 (PEC nº 7003719-27.2005.8.26.0637), a 8 anos de reclusão, regime inicial fechado, incurso no art. 121, §2º, I, c/c art. 14, II, ambos do Código Penal;
+- ação penal nº 0005057-18.2015.8.26.0052 (PEC nº 7000421-37.2021.8.26.0032), a 20 anos de reclusão, regime inicial fechado, incurso no art. 121, §2º, I e IV, do Código Penal;
+- ação penal nº 0095511-16.2016.8.26.0050 (PEC nº 7001860-25.2017.8.26.0032), por fato corrido em 10/11/2016, a 12 anos e 10 meses de reclusão, regime inicial fechado, incurso no art. 33, caput, da Lei nº 11.343/06, e art. 16, caput, da Lei nº 10.826/03.
+Constava do cálculo anteriormente elaborado, como data base para fins de progressão de regime, o dia 10/01/2000 (fls. 856/862 do PEC 7004167-97.2005.8.26.0637).
+Contudo, em decisão de 28/11/2023, o d. Juiz da Execução determinou a retificação do cálculo de penas, para considerar a data base, para fins de progressão ao regime semiaberto, o dia da última prisão, bem como o ajuste em relação ao livramento condicional (fls. 6 deste agravo).
+Reelaborado o cálculo de liquidação de penas, passou a constar, como marco inicial para fins de progressão de regime, a data de 10/11/2016 última prisão em flagrante do reeducando, com previsão para a promoção ao regime intermediário o dia 23/05/2035. E para o livramento condicional, a data base de 27/08/1998 (fls. 21/27).
+A defesa pleiteou a retificação do cálculo de penas, para fins de livramento condicional e de progressão de regime, para ser usado como marco inicial a data da primeira prisão do sentenciado, haja vista que dessa forma o mesmo já estaria com lapso para tais benesses (fls. 29/44), tendo o Ministério Público se manifestado contrariamente, aduzindo o acerto do cálculo elaborado (fls. 45).
+Sobreveio decisão datada de 30/4/2024, pela qual o d. Juiz a quo indeferiu o pleito defensivo, sob a seguinte fundamentação, in verbis:
+"Verifica-se que o sentenciado ainda não cumpriu o requisito objetivo para a progressão de regime, portanto, considerando os princípios da celeridade e economia processual, bem como o princípio da eficiência do serviço público, julgo antecipadamente o pedido de progressão ao regime semiaberto e o faço para indeferir, ante a ausência do requisito objetivo que será preenchido somente em23/05/2035 (páginas 926/932), com relação ao sentenciado EDCARLOS AMERICO DOS SANTOS, MTR: 183238-5, RG: 24900651,RGC: 24900651, RJI: 170171155-58, recolhido na Penitenciária Valparaíso." (fls. 46).
+A defesa postula a retificação do cálculo de penas, onde busca a prevalência da data da primeira prisão, em 27/8/1998, como marco regulatório inicial para fins de benefícios executórios, e não o dia 10/11/2016, tal como consta do cálculo de penas.
+O recurso defensivo não comporta provimento.
+Com efeito, é firme a jurisprudência das Cortes Superiores no sentido de que a soma ou unificação das penas em execução definem o regime prisional de seu cumprimento, podendo o resultado implicar a regressão.
+O artigo 111 da Lei de Execução Penal estabelece que, em caso de condenação por mais de um crime, para a determinação do regime prisional considera-se o resultado da soma ou unificação das penas.
+De sua vez, o artigo 118, do referido diploma legal, dispõe quanto a sujeição do condenado à regressão de regime quando do cometimento de falta grave ou quando sofra condenação por crime anterior, cuja pena, somada ao restante da reprimenda em execução, torne incabível o regime. No referido dispositivo não há menção a elaboração de novo cálculo, desprezando-se o período de cumprimento de pena anterior.
+Efetuada a leitura conjugada do artigo 111 e parágrafo único com o inciso II do artigo 118, ambos da Lei de Execução Penal, não se infere que, efetuada a soma das penas impostas ao reeducando, é mister a alteração da data-base para concessão de novos benefícios, especialmente, diante da ausência de disposição legal expressa.
+E a Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.557.461/SC, ocorrido em 22/02/2018, firmou o entendimento de que: "A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal". A matéria, inclusive, foi afetada pela mesma Corte Superior ao rito dos recursos repetitivos, sendo firmada no Tema nº 1.006, a seguinte tese: "a unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios".
+No caso dos autos, conforme o cálculo elaborado, foi estabelecido o regime prisional fechado para o cumprimento das penas privativas de liberdade aplicadas a todas as condenações impostas, em razão das somas (nos termos do art. 111, da LEP).
+Como visto, é cediço que a ocorrência da unificação de penas não enseja a alteração do termo inicial para contagem do lapso temporal para fins de benefícios, quando então é mantida a data da primeira prisão do apenado.
+Pois bem.
+De início, verifica-se que, para fins de livramento condicional, o novo cálculo elaborado já utiliza a data da primeira prisão do agravante qual seja, 27/08/1998 como marco inicial para cálculo do benefício.
+Frise-se, por necessário, que a Terceira Seção desta Corte, ao julgar o REsp nº 1.176.486/SP, sedimentou a orientação de que a prática de falta grave resulta em novo marco interruptivo para concessão de novos benefícios exceto indulto, comutação e livramento condicional.
+ ..
+Portanto, escorreito o cálculo em relação à data base quanto ao livramento condicional.
+De outro vértice, no pertinente ao cálculo para progressão de regime, constata-se que o agravante praticou falta grave durante o cumprimento da pena, ficando sujeito à aplicação dos efeitos decorrentes do cometimento da indisciplina.
+Com efeito, o reeducando cumpria penas relativas a cinco processos distintos, vindo novamente a cometer novo delito em 10/11/2016, pela prática de tráfico de drogas e posse ou porte ilegal de arma de fogo de uso restrito, restando condenado na ação penal nº 0004858-38.2012.8.26.0266, dando ensejo ao PEC nº 7001860-25.2017.8.26.0032 gerando, por consequência, um marco interruptivo e, portanto, uma nova data base.
+ ..
+Não se olvide que referido dispositivo legal é expresso ao dispor que a prática de fato previsto como crime doloso constitui falta grave e determina o reinício do lapso para a progressão de regime prisional, na conformidade do enuncia do na Súmula 534 do Superior Tribunal de Justiça:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração".
+Portanto, com a unificação das penas, em razão de delito praticado durante o cumprimento da execução, o termo inicial do lapso temporal para a concessão da benesse deve ser a data da última prisão.
+Frise-se que, mesmo diante da modificação legislativa promovida pela Lei nº 13.964/19 (Pacote Anticrime), a prática de fato definido como crime doloso permanece sendo considerada como falta grave.
+ ..
+Portanto, considerando que a matéria em questão está pacificada nas Cortes Superiores, prevalecendo a compreensão de que não fere o princípio da legalidade interromper-se a contagem do lapso para a progressão de regime, em razão da prática de falta grave durante o cumprimento da execução das penas exceto para a concessão de livramento condicional, de comutação de penas e de indulto, deve ser mantida a r. decisão recorrida.
+A propósito, como bem consignado pela ilustre Promotoria de Justiça oficiante em 1º Grau, em sua contraminuta, "nada mais correto, afinal, caso esta nova data não pudesse ser adotada como base, o cometimento de faltas graves e a prática de novos crimes não retardariam em nada a obtenção do critério de ordem objetiva por parte dos executados, bastando que eles iniciassem o cumprimento da reprimenda em longínquo passado, o que não se pode admitir".
+Portanto, em que pese o esforço desenvolvido pela combativa Defensora, o que se verifica é que a decisão impugnada se encontra escorreita, não merecendo reparo.
+" (grifei)
+Dos excertos acima colacionados, verifico que não comporta reparo o acórdão impugnado.
+Quanto ao livramento condicional, já foi considerada como data base a da primeira prisão do acusado, qual seja, 27/08/1998 (fl. 17).
+Com relação ao cálculo para progressão de regime, diante da falta grave praticada durante o cumprimento da pena, consistente em novo delito cometido em 10/11/2016, esta foi a data fixada para a contagem do benefício (fl. 18).
+Assim, a Corte local adotou compreensão da controvérsia que se encontra em compasso com a jurisprudência desta Corte Superior, consolidada no sentido de que a prática de falta grave resulta em novo marco interruptivo para a concessão de benefícios da execução, à exceção do indulto, da comutação e do livramento condicional. Nesse sentido:
+ ..
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto.
+Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado.
+As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso especial representativo da controvérsia não provido, assentando-se a seguinte tese: a unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios.
+(ProAfR no REsp n. 1.753.512/PR, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 18/12/2018, DJe de 11/3/2019.)
+Dessa forma, estando o acórdão prolatado pelo Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ, in verbis:
+"O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Com relação à consideração de detração e "cumprimento de penas (..) de crime hediondo", não há causa de pedir explicitada na inicial, de maneira que não se pode compreender o fundamento de tal pretensão. Além disso, tais questões não foram abordadas no acórdão impugnado, o que caracteriza supressão de instância a impedir a análise direta pelo Superior Tribunal de Justiça de tais questões. Nesse sentido:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. FIXAÇÃO DA DATA-BASE PARA PROGRESSÃO DE REGIME. PLEITO DE DEFINIÇÃO DA DATA DA PRISÃO CAUTELAR. INVIABILIDADE. RECORRENTE POSTERIORMENTE SOLTO. TERMO INICIAL DE CONTAGEM DO LAPSO TEMPORAL EXIGIDO PARA BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO. PRECEDENTES. SÚMULA 568/STJ. APLICAÇÃO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
