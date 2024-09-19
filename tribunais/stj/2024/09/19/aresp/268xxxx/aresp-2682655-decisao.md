@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICÍPIO DE GOIÂNIA contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 931-933).
+O Ministério Público Federal opinou pela desnecessidade de sua intervenção (e-STJ, fls. 947-949).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, MUNICÍPIO DE GOIÂNIA alegou a violação dos arts. 102 do CC, 17 da Lei nº 6.766/79 e 3º do Decreto-Lei nº 58/37, ao sustentar que (1) o reconhecimento de bem imóvel como de natureza pública independe de atos cartorários, sendo apenas necessária a mera aprovação do loteamento, e (2) o bem público não está sujeito à usucapião, devendo, assim, ser julgado improcedente o pedido autoral.
+(1) Da ausência de prequestionamento
+Nas razões de seu recurso, MUNICÍPIO DE GOIÂNIA afirmou a ofensa aos arts. 17 da Lei nº 6.766/79 e 3º do Decreto-Lei nº 58/37, argumentando que o reconhecimento de bem imóvel como de natureza pública independe de atos cartorários, sendo apenas necessária a mera aprovação do loteamento.
+Contudo, verifica-se que o Tribunal não emitiu pronunciamento sobre o tema e não foram opostos embargos de declaração para sanar a omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial - quanto à tese da desnecessidade de atos cartorários -, em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. INSCRIÇÃO DE RECÉM NASCIDO. FALECIMENTO. TITULAR. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. IMPUGNAÇÃO. INSUFICIÊNCIA. SÚMULA Nº 283/STF. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO. NÃO REALIZADO.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+ .. 4. Agravo interno não provido.
+(AgInt no AREsp n. 2.499.951/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024)
+Incide, quanto ao ponto, o óbice da Súmula nº 282 do STF, por analogia.
+(2) Da usucapião
+MUNICÍPIO DE GOIÂNIA apontou também a vulneração do art. 102 do CC, aduzindo que o bem público não está sujeito à usucapião, devendo ser julgado improcedente o pedido autoral.
+Sobre o tema, o Tribunal de origem consignou que não há comprovação de que, antes de 14/3/2011, o bem imóvel pertencia ao ente público, devendo ser reconhecido o direito à usucapião, conforme a transcrição a seguir:
+Verifica-se que a alegação de que referida área pertence ao Município de Goiânia está baseada no Decreto n. 518, de 10 de fevereiro de 2011 (mov.28, arq. 3), do qual não se tem comprovação de que a apelada tenha tomado conhecimento antes da manifestação do ente municipal nestes autos, em 05/09/2017.
+Igualmente, não há nos autos qualquer indício ou elemento de comprovação de ciência da parte apelada acerca da existência do decreto em questão, em momento anterior, sendo que o registro da referida doação só foi levado a efeito em 14/03/2011 (mov. 263, arq. 2).
+Desse modo, verifica-se que não há nenhuma comprovação de que em momento anterior a 14/03/2011 o referido bem pertencia ao ente público, estando registrado em nome de particular.  ..
+Evidente, assim, que para que o bem imóvel seja objeto de aquisição de propriedade por meio da usucapião, é imprescindível que ele não se encontre incluído no patrimônio público municipal, estadual ou federal. Nessa senda, muito embora o apelante defenda a impossibilidade de a área ser usucapida, por ser bem público municipal e, ainda, pertencente ao sistema viário, é inegável que o bem encontrava-se registrado em nome de particular (Conselho Central Nossa Senhora de Fátima), sendo a doação registrada no CRI da 4ª Circunscrição da cidade de Goiânia no ano de 2011. Logo, como a aquisição da propriedade depende da transcrição no Registro de Imóveis (CC/02, arts. 1.227 e 1.245), deve ser afastada a natureza de bem público sustentada pelo apelante e, consequentemente, a pretendida imprescritibilidade do bem imóvel.
+Além disso, os depoimentos das testemunhas (mov. 189) corroboram a afirmação decorrente da inicial de que a parte autora está na posse do imóvel desde o ano de 1986, o que não foi desconstituído pela parte requerida/apelante, e houve o implemento do prazo para configuração do direito de propriedade originário (usucapião) sobre o imóvel em tela, de 20 anos, já no ano de 2006, consoante verificado na Sentença prolatada na Ação de Reintegração de Posse de protocolo nº 200602060200, transitada em julgado, fazendo coisa julgada material, onde foi reconhecido pelo magistrado condutor do feito a posse mansa, pacífica e ininterrupta dos autores sobre a área usucapienda por mais de 21 anos, não sendo oponível o argumento de que o bem imóvel não pode ser usucapido, pois que o prazo da prescrição aquisitiva efetivamente configurou-se antes mesmo do advento da doação ao ente público havida somente no ano de 2011.
+Vale ressaltar que a sentença proferida na ação de usucapião tem natureza declaratória e reconhece a aquisição do domínio do imóvel a partir do preenchimento dos requisitos exigidos pela norma jurídica. Além disso, tem eficácia ex tunc, ou seja, retroage à data que o possuidor cumpriu todos os requisitos legais para tornar-se proprietário do bem (TARTUCE, Flávio. Direito das Coias - v.4. 11 Ed. Rio de Janeiro: Forense, 2019).
+Dessa forma, considerando que a posse arguida iniciou-se enquanto vigia o Código Civil/1916, tendo transcorrido mais da metade do prazo prescricional (20 anos), necessário observar a regra de transição do artigo 2.028, do Código Civil/2002, tendo a apelada cumprido os requisitos necessários, vez que demonstrou a posse, a sua intenção de ter a coisa possuída como sua e a fluência do tempo exigido em lei para a prescrição aquisitiva. (e-STJ, fls. 862-864)
+Assim, rever as conclusões quanto à natureza pública do imóvel e dos requisitos para a a usucapião demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Ademais, a Corte local também destacou que (1) em ação de reintegração de posse foi reconhecida a posse mansa, pacífica e ininterrupta dos agravados por mais de 21 anos; e (2) o prazo da prescrição aquisitiva operou-se antes da doação ao do imóvel ao ente público agravante.
+Assim, da análise das razões do presente recurso, verifica-se que os referidos fundamentos não foram impugnados, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+O recurso, portanto, não merece ser conhecido diante da incidência das Súmula nº 7 do STJ e 283 do STF.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de MUNICÍPIO DO GOIÂNIA , limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. ARTS. 17 DA LEI Nº 6.766/79 E 3º DO DECRETO-LEI Nº 58/37. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. NATUREZA PÚBLICA OU PRIVADA DO BEM IMÓVEL. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7 DO STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF. AGRVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
