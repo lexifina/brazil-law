@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 489, § 1º, 871, I, e 1.022 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 673):
+Agravo de Instrumento. Cumprimento de sentença. Perícia técnica. Adiantamento de custeio pelo exequente. Prova pericial que deve ser custeada pelo devedor, conforme precedente do STJ em sede de recurso repetitivo (Tema 871). Revelia dos executados, inviabilizando o adiantamento dos honorários pretendidos. Excepcional diferimento da aplicação do precedente para que o exequente realize o adiantamento, possibilitando o desconto do valor dos honorários do produto da alienação do imóvel. Recurso parcialmente provido.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 703):
+Embargos de declaração. Alegação de omissão e erro material. Não configuração. Julgado que não se referiu ao art. 871 do CPC, mas ao Tema 871 dos recursos repetitivos do STJ. Julgado que, ademais, foi claro em indicar a necessidade de avaliação por perícia e que é ônus do devedor o adiantamento dos respectivos honorários, mas, em virtude de sua revelia, a solução para a finalização da execução é o adiantamento dos honorários pelo credor, com desconto do valor correspondente do preço da alienação, já que a execução é promovida no seu interesse. Pretensão voltada à revisão do julgado, emprestando aos embargos de declaração o efeito infringente que não lhe é próprio. Embargos rejeitados.
+Sustenta a parte agravante que, na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais.
+Afirma que a "inércia do devedor em contrapor e se insurgir pelo valor demonstrado pelo exequente atrai a consequência expressa do artigo 871, I, do CPC, a dispensar a perícia" (fl. 748).
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Destaco que a jurisprudência do STJ já decidiu que, na fase autônoma de liquidação de sentença, incumbe ao devedor a antecipação dos honorários periciais. A propósito, confira-se:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PROCESSUAL CIVIL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. LIQUIDAÇÃO DE SENTENÇA. HONORÁRIOS PERICIAIS. ENCARGO DO VENCIDO.
+1. Para fins do art. 543-C do CPC: (1.1) "Na liquidação por cálculos do credor, descabe transferir do exequente para o executado o ônus do pagamento de honorários devidos ao perito que elabora a memória de cálculos".
+(1.2) "Se o credor for beneficiário da gratuidade da justiça, pode-se determinar a elaboração dos cálculos pela contadoria judicial".
+(1.3) "Na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais ".
+2. Aplicação da tese 1.3 ao caso concreto.
+3. RECURSO ESPECIAL DESPROVIDO.
+(REsp n. 1.274.466/SC, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14.5.2014, DJe de 21.5.2014.)
+No caso dos autos, entretanto, o Tribunal de origem entendeu que não há como compelir os executados ao adiantamento dos honorários periciais, sem o qual não poderá o perito realizar a avaliação pretendida e consentida pelo agravante, uma vez que foi constatada a revelia dos executados.
+Além disso, a Corte local consignou que não se pode admitir que o Estado ou o próprio perito arquem com o respectivo custo, porquanto não é o agravante beneficiário da gratuidade da justiça, nem tampouco se deve admitir a incidência do art. 871, I, do CPC/2015, notadamente porque o dispositivo se refere à avaliação por oficial de justiça, o que não foi objeto da decisão agravada, conforme se extrai dos seguintes trechos (fls. 676/677):
+(..)
+No entanto, tendo se consagrado vencedor na fase de conhecimento, não se poderia agora dele exigir o adiantamento dos honorários, até porque não há como se carrear ao vencido as despesas que antecipar, pois já proferida a sentença. Nesse sentido é a tese firmada no REsp nº 1274466/SC, julgado sob a sistemática de julgamento de recursos repetitivos (Tema 871): Na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais. De mesmo entendimento são as decisões desta Câmara:
+(..)
+Ocorre que, constatada a revelia dos executados, não há como compeli-los ao pagamento da verba honorária, sem a qual não poderá o perito realizar a avaliação pretendida e consentida pelo agravante, que a requereu na manifestação de fls. 589 dos autos de origem. Não se pode admitir que o Estado ou próprio perito arquem com o respectivo custo, porquanto não é o agravante beneficiário da gratuidade da justiça, nem tampouco se deve admitir a incidência do art. 871, inciso I do Código de Processo Civil, notadamente porque o dispositivo se refere à avaliação por oficial de justiça, o que não foi objeto da decisão agravada.
+Portanto, a decisão mais acertada parece ser, excepcionalmente, o adiantamento dos honorários periciais pelo exequente, uma vez que se trata de medida de seu próprio interesse, diferindo a aplicação do Tema 871 para que seja possível descontar o valor adiantado do valor de eventual arrematação subsequente à venda judicial do bem, incluindo-os em demonstrativo de débito.
+(..)
+Com efeito, anoto que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
