@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se  de  habeas  corpus,  sem  pedido  de  liminar,  impetrado  em  favor  de  LOUGANS CARDOSO MARTINS,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SANTA  CATARINA,  no  julgamento do Agravo em Execução n.  º 8000234-29.2024.8.24.0075.
+Consta  dos  autos  que  o  paciente  teve  indeferido,  pelo  Juízo  de  Execução,  o  pleito  de  homologação  de  remição,  por  aprovação  no  Exame  Nacional  do  Ensino  Médio  -  ENEM/2023,  sob  o  argumento  de  que  ele  já  havia  obtido  homologação  devido à  realização  e  aprovação  no  ENCCEJA - ensino médio  no s  anos  de  2022 e 2023.
+Interposto Agravo em Execução,  o  Tribunal  a  quo  negou-lhe  provimento.
+Sustenta que
+não há qualquer impedimento à cumulação da remição por horas de estudo e da aprovação no ENCCEJA, já que o Paciente efetivamente estudou e demonstrou bom aproveitamento nas atividades. Isso em respeito à legalidade penal: como não há impedimento legal à cumulação, é vedado ao Judiciário criá-lo pela via interpretativa, imiscuindo-se ilegalmente em matéria legislativa. (e-STJ fl. 6)
+Requer  a  concessão  da  ordem  para  que  seja  reconhecida  a  remição  de  80  (oitenta)  dias  ao  paciente  em  virtude  de  sua  aprovação  parcial  no  ENEM/2023.
+Manifestação  do  Ministério  Público  Federal  pela denegação do  habeas  corpus  (e-STJ fls.  85/86).
+É  o  relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020,  e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constat ada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O  Juízo  de  primeira  instância  ao negar o pedido de remição assim fundamentou  (e-STJ fl.  11):
+Verifica-se que o reeducando realizou a prova do ENEM em 2023 e foi aprovado em quatro das cinco áreas de conhecimentos, daí porque pretende a homologação de remição (pedido do evento 225).
+Porém, observa-se que o reeducando já obteve a homologação de 133 dias remição em razão da realização e aprovação nas cinco áreas da prova do ENCCEJA nos anos de 2023 e 2022 (decisões dos eventos 132.1 e 195.1), de modo que, em razão disso, homologação da INDEFIRO a remição pelo ENEM de 2023, sob pena de receber benefício dobrado pelo mesmo fundamento.
+O Tribunal a quo, por sua vez, negou provimento ao recurso da defesa, sob os seguintes fundamentos (e-STJ fls.  49/50):
+Ocorre que, na hipótese, verifica-se que o agravante já havia sido beneficiado com 133 (cento e trinta e três) dias remidos, em razão da aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA, nível médio (Evento 1, AGRAVO1).
+O referido exame, apto para atestar a conclusão do ensino médio, aborda as mesmas áreas de conhecimento do Exame Nacional do Ensino Médio (ENEM), possuindo, assim, o mesmo fato gerador.
+Dessa forma, considerando que o apenado já recebeu o total da remição referente à aprovação no ENCCEJA/Médio, impossível cogitar-se de nova remição por estudo na mesma modalidade de ensino.
+Em outras palavras, "conceder a remição concomitante pela aprovação em ambos os exames seria uma dupla bonificação pelo mesmo fato, em áreas que já foram contabilizadas anteriormente e que dizem respeito ao mesmo nível escolar - ainda que o ENEM não seja mais suficiente para atestar a conclusão do Ensino Médio" (TJSC, Agravo de Execução Penal n. 5016092-30.2021.8.24.0020, rel. Des. Carlos Alberto Civinski, Primeira Câmara Criminal, j. em 18/11/2021).
+Desta feita, pode-se concluir que o provimento da pretensão defensiva configuraria indevido bis in idem, de modo que a medida adotada pelo Magistrado singular mostra-se escorreita.
+(..)
+Dessarte, considerando que o esforço do apenado já foi recompensado com a remição total da pena pela aprovação no ENCCEJA/Médio, inviável é a concessão do benefício pelas horas de estudo referente ao mesmo nível de escolaridade e mesmas matérias, devendo, portanto, ser mantido incólume o decisum objurgado.
+As decisões das instâncias ordinárias estão em consonância com o entendimento desta Corte Superior, pois, caso reconhecida a remição nos termos pretendidos pelo impetrante, ocorreria indevida cumulação dos dias já remidos por aprovação em edições anteriores do ENCCEJA, consequentemente, não se mostra admissível, por se tratar de duplicidade de benefícios pelo mesmo fato gerador, sob pena de bis in idem.
+Ademais, a jurisprudência desta Corte é no sentido de que
+o objetivo da remição é de recompensar o preso pelo esforço que demonstra em crescer intelectualmente por galgar os diversos níveis de educação, não simplesmente reduzir a pena. A realização do mesmo exame não demonstra evolução, mas a mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual. (AgRg no HC nº 592.511/SC, Quinta Turma, Rel. Min. Félix Fischer, julgado em 8/9/2020).
+Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. APROVAÇÃO PARCIAL NO ENEM E NO ENCCEJA. MESMAS ÁREAS DO CONHECIMENTO. DUPLICADE DE BENEFÍCIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, uma vez que a remição de pena, em razão de aprovação do paciente no exame ENCCEJA, configuraria bis in idem de remição na mesma execução penal, tendo em vista que já fora agraciado em razão de sua aprovação, em 2015, no Exame Nacional do Ensino Médio (ENEM) (AgRg no HC n. 627.958/SC, relator Ministro Jesuíno Rissato (Desembargador Conv ocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021). Ainda que se trate de exames distintos, as provas se referem à certificação de conclusão pelo mesmo nível (médio) educacional, inviabilizando a concessão do benefício em apreço pelo mesmo fato gerador, pois configurada a sua duplicidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 842.165/SP, Rel. Min. Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA POR ESTUDO. ENEM. REMIÇÃO JÁ DEFERIDA PELA APROVAÇÃO NO ENCCEJA. DUPLICIDADE DE BENEFÍCIO PELO MESMO FATO. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica sobre a impossibilidade de nova remição pela segunda aprovação nas mesmas matérias do ensino fundamental em outro exame, a qual não pode ser duplamente considerada, sob pena de bis in idem.
+2. No caso, a Corte de origem deixou de conceder a remição pela aprovação parcial no ENEM, em virtude da concessão nas mesmas áreas de conhecimento, no ENCCEJA.
+3. Assim, caso reconhecida a remição nos termos pretendidos pelo Agravante, ocorreria indevida cumulação dos dias já remidos por aprovação no ENCCEJA, o que vai de encontro ao entendimento deste Superior Tribunal de Justiça, por se tratar de duplicidade de benefícios pelo mesmo fato, o que não é admitido.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 805.511/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/5/2023, DJe de 22/5/2023)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.  Intimem-se.
+
+EMENTA
