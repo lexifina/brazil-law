@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARTUR GOMES CALDEIRA, contra acórdão do Tribunal Regional Federal da 3ª Região que, por maioria, negou provimento a recurso em sentido estrito.
+Em consulta ao sistema do Superior Tribunal de Justiça, observo que os autos deste habeas corpus possuem objeto coincidente com o tratado nos autos do Recurso Especial n.º 2160682/SP, em tramitação, de minha relatoria, porquanto impugnam o mesmo acórdão da 11ª Turma do Tribunal Regional Federal da 3ª Região.
+Assim, em razão da impossibilidade de dupla impugnação de uma mesma decisão - conforme entendimento deste Tribunal Superior, a exemplo do AgRg no HC n. 861.249/SC, relator Mi nistro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024; e AgRg no HC n. 892.282/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/9/2024, DJe de 12/9/2024, DJe de 13/3/2024 - e, também, em razão da inviabilidade de impetração de habeas corpus substituição de recurso especial, mantenho em curso do Recurso Especial n.º 2160682/SP e indefiro liminarmente o pedido de habeas corpus, sem julgamento de mérito, nos termos do art. 210, Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
