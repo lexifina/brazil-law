@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. AGRAVO REGIMENTAL DESPROVIDO. MANUTENÇÃO DA DECISÃO AGRAVADA QUE CONHECEU EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, O DESPROVEU. OMISSÃO. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO DE DISPOSITIVOS DE NATUREZA CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - No caso dos autos, não observo vícios no acórdão que manteve decisão a qual entendeu pela ausência de prequestionamento quanto à deduzida ofensa aos arts. 180, §§ 3º e 4º, do Código Penal, e arts. 155 e 156 do Código de Processo Penal, bem como pela inadequação da via eleita, para se concluir pela absolvição, nos termos da Súmula n. 7, STJ.
+III - Não compete ao Superior Tribunal de Justiça se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. Precedentes.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por JHONATAN WESLEY GOMES BUENO contra acórdão da Quinta Turma, que negou provimento ao agravo regimental.
+Nestes embargos, a defesa assevera omissão na decisão embargada, porquanto, ao não apreciar o mérito do recurso, teria incorrido em ofensa à inafastabilidade da jurisdição e à dignidade da pessoa humana por manter "pena alta por um crime que não cometeu em um processo eivado de nulidade". Busca, ao final, o aperfeiçoamento da tutela jurisdicional e o prequestionamento quanto ao art. 5º, incisos III, LIV e LXXV, da Constituição Federal (fls. 917-920).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. AGRAVO REGIMENTAL DESPROVIDO. MANUTENÇÃO DA DECISÃO AGRAVADA QUE CONHECEU EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, O DESPROVEU. OMISSÃO. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO DE DISPOSITIVOS DE NATUREZA CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - No caso dos autos, não observo vícios no acórdão que manteve decisão a qual entendeu pela ausência de prequestionamento quanto à deduzida ofensa aos arts. 180, §§ 3º e 4º, do Código Penal, e arts. 155 e 156 do Código de Processo Penal, bem como pela inadequação da via eleita, para se concluir pela absolvição, nos termos da Súmula n. 7, STJ.
+III - Não compete ao Superior Tribunal de Justiça se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. Precedentes.
+Embargos de declaração rejeitados.
+VOTO
+O presente feito decorre de condenação do embargante à pena de de 1 (um) ano de reclusão, em regime aberto, pela prática do crime de receptação, édito mantido íntegro pelo Tribunal de origem que negou provimento ao apelo defensivo e rejeitou embargos declaratórios.
+No Superior Tribunal de Justiça, a pretensão defensiva de absolvição por ausência de provas ou de desclassificação para a modalidade culposa do crime de receptação não foi conhecida por óbices das Súmulas n. 282, STF e n. 7, STJ, respectivamente, decisão mantido em sede de agravo regimental.
+Nestes embargos, a Defesa pretende a análise do mérito e o prequestionamento de dispositivo de natureza constitucional.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Conforme pacífica jurisprudência desta Corte Superior, são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua interposição.
+Vale registrar que o agravo regimental manteve a decisão agravada que não conheceu, por sua vez, do recurso especial pela ausência de prequestionamento quanto à deduzida ofensa aos arts. 180, §§ 3º e 4º, do Código Penal, e arts. 155 e 156 do Código de Processo Penal, bem como pela inadequação da via eleita para se concluir pela absolvição, nos termos da Súmula n. 7, STJ.
+Assim, no caso dos autos, não vislumbro eiva no julgado, de modo que, à conta de vícios no acórdão, pretende o embargante a modificação do julgado que lhe desfavoreceu, traduzindo, portanto, mero inconformismo com o que decidido nos autos.
+Desse modo, em que pese as alegações do embargante, o que pretende a parte, de fato, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos aclaratórios.
+Nesse sentido: EDcl no AgRg no HC n. 413.617/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 11/10/2018; EDcl no AgRg no AREsp n. 962.729/RS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 03/09/2018; EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 09/11/2018; e EDcl no AgRg no HC n. 724.821/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/5/2022.
+Por fim, não se mostra cabível a utilização dos embargos de declaração para fins de prequestionamento de matéria constitucional, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição Federal.
+Com efeito, "conforme mencionado no decisum reprochado, nos termos da jurisprudência pacífica desta eg. Corte Superior, " n ão compete ao Superior Tribunal de Justiça o exame de suposta violação de princípios e dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal" (EDcl no AgRg nos EDcl no AREsp n. 877.973/PR, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 17/4/2017). Precedentes" (AgRg no AgRg no AREsp n. 1.631.729/MG, Quinta Turma, Rel. Min. Felix Fischer, DJe de 19/05/2020).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
