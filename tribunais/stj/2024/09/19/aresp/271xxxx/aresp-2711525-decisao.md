@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por CALGARY INVESTIMENTOS IMOBILIÁRIOS LTDA. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 367):
+Apelação - Revisional de contrato de promessa de compra e venda de imóvel - Sentença que reconheceu prescrição - Recurso dos autores -
+Prescrição - Demanda relacionada à revisão do contrato - Prescrição decenal - Inteligência do artigo 205 do Código Civil - Precedentes jurisprudenciais -
+Julgamento na sequência do mérito da demanda, na forma do art. 1.013, § 4º do CPC- Causa madura- Contrato artificialmente previu pagamentos em 36 meses, para viabilizar a cobrança de correção monetária nos termos do art. 46 da lei 10.931/2004 - Abusividade reconhecida - Restituição a ser apurada em fase de liquidação de sentença - Precedentes jurisprudenciais -
+Recurso provido para reformar a sentença e, no mérito, julgar procedente o pedido
+Nas razões recursais, a recorrente alegou violação aos arts. 104, 206, §§ 3º, V, 5º, I, 927 e 925 do CC e 46 da Lei n. 10.931/2004, sustentando que a demanda versa sobre ressarcimento de quantias supostamente pagas indevidamente, ou seja, reparação civil, devendo, assim, ser aplicado o prazo prescricional trienal; e ausência de ilicitude nas cláusulas contratuais, uma vez que a incidência de correção monetária possui previsão legal e contratual (pacta sun servanda).
+Defendeu que, ainda que não se admita a aplicabilidade do prazo prescricional trienal, deverá ser aplicado o prazo prescricional de cinco anos, haja vista que a presente demanda trata de revisão contratual com base em um instrumento particular de compromisso de venda e compra.
+Sem contrarrazões (e-STJ, fl. 390).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+Na presente insurgência, argumentou a recorrente a aplicação do prazo trienal, haja vista que a demanda versa sobre ressarcimento de quantias supostamente pagas indevidamente.
+O Tribunal de origem, ao dirimir a controvérsia, concluiu que a situação não se trata de enriquecimento ilícito ou reparação civil, mas sim de revisão contratual quanto ao método de correção monetária aplicando, assim, o prazo prescricional decenal.
+Veja-se (e-STJ, fls. 370-371):
+O caso em apreço não se configura como mera questão de enriquecimento ilícito ou reparação civil.
+Trata-se de revisão contratual, que embora tenha previsto a correção mensal com alicerce no artigo 46 da lei 10.931/2004, a causa de pedir se fundamenta na ilicitude da forma como disposta, criando artificialmente um prazo de 36 meses e, com isso, a pretensão declaratória de abusividade do método de correção monetária e, com isso, devolução do que foi pago a maior.
+Neste caso, o prazo prescricional é o decenal, estatuído pelo artigo 205 do Código Civil7, conforme precedentes desta Augusta Corte Bandeirante, vejamos:
+"COMPROMISSO DE COMPRA E VENDA DE IMÓVEL - Atraso na entrega das chaves - Parcial procedência - Prescrição para devolução de valores em decorrência de aplicação de correção monetária mensal - Revisão de cláusula contratual - Incidência de prazo decenal - Inteligência do art. 205, CC - Prejudicial afastada - (..) Recurso do autor provido - Parcial provimento ao recurso das rés." (destaquei)
+No mesmo sentido:
+"PRESCRIÇÃO. Devolução de valores em decorrência de aplicação de correção monetária mensal. Revisão de cláusula contratual. Prazo decenal. Art. 205, CC. Precedentes desta Corte. Prejudicial afastada.
+Análise do mérito. Aplicação do art. 1.013, §4º,do CPC. COMPROMISSO DE COMPRA E VENDA.CORREÇÃO MONETÁRIA MENSAL PELO INCC.
+Contrato com prazo inferior a 36 meses.
+Periodicidade que deve ser anual. Arts. 46 da Lei 10.931/2004, e 28, § 1º, da Lei9.069/95. Precedentes do TJSP. Nulidade da previsão contratual de reajuste mensal e condenação a devolução dos valores cobrados a maior, a ser apurado em liquidação. Reforma da sentença. Sucumbência da ré. Recurso provido." (destaquei)
+E em precedente desta própria Colenda Nona Câmara de Direito Privado, da lavra do DD Desembargador Piva Rodrigues:
+"Apelação. Ação com pedido condenatório. Sentença de extinção com reconhecimento de prescrição quanto ao pleito de ressarcimento de valores cobrados a maior em prestações periódicas do preço, majoradas pela correção monetária supostamente calculada e incidente de modo abusivo, e de improcedência dos demais pleitos. Inconformismo do autor. Provimento parcial. Prescrição não verificada. Aplicável o prazo decenal, não o trienal.Não se trata de demanda fundada no enriquecimento sem causa, mas na relação contratual havida entre as partes e dos danos emergentes da alegada quebra contratual pela ré. Necessidade de produção probatória pericial. Rejeitada a alegação de cerceamento das demais provas requeridas pela parte autora. Sentença reformada em parte para, afastando a prescrição sobre o pleito de restituição de quantia por cobrança de atualização monetária abusiva, produção da prova em primeiro grau e prolação de nova sentença. Recurso provido em parte" (destaquei)
+Nos termos acima o colegiado estadual identificou, à luz da petição apresentada e das provas dos autos, que a recorrente buscava a declaração de abusividade do método de correção monetária e a devolução do que foi pago a maior, aplicando, assim, o prazo prescricional decadencial.
+Desse modo, elidir a conclusão do julgado, com o fim de reconhecer que a pretensão é de enriquecimento ilícito ou reparação civil, para a aplicação de prazo prescricional diverso, demandaria o revolvimento do acervo fático-probatório o que se mostra inviável em recurso especial, consoante o teor da Súmula n. 7/STJ.
+Quanto ao mérito, o TJSP concluiu pela existência de ilicitude contratual, nesses termos (e-STJ, fls. 372-373):
+O art. 46 da lei 10.931/2004, estabeleceu a impossibilidade de aplicação de reajuste de correção monetária em período inferior a um ano, aos contratos inferiores a 36 meses12.
+De acordo com o item 2.3, da cláusula 2ª do contrato firmado pelas partes, havia previsão para que houvesse aplicação da correção monetária de forma mensal13.
+Da análise do efetivo prazo do contrato, que se iniciou com a assinatura das partes em 25/06/2011, e entregada unidade (incluída na "fase 1" do empreendimento) prevista para30/04/2012, com tolerância de 180 dias (item "G" do quadro resumo e cláusula 7.1)14, isto é, até 30/10/2012.
+Todavia, quando se analisa as parcelas pactuadas para a quitação do preço, segundo a item "E" do quadroresumo15, temos uma prestação inicial em julho de 2011, treze mensais entre agosto de 2011 até agosto de 2012, uma no final do ano de 2011, e duas em setembro de 2012, sendo uma delas de valor expressivo (R$182.100,00), que poderia ser financiado.
+E além destas, três parcelas anuais, de R$3.000,00 (três mil reais) cada, com vencimento em dezembro de 2012, dezembro de 2013 e dezembro de 2014,muito após a previsão de conclusão das obras com o prazo de tolerância.
+Deste modo, verifica-se que todas as parcelas do contrato foram estipuladas para pagamento em até 13 (treze) meses, e apenas o saldo de R$9.000,00 (nove mil reais) se daria em três parcelas anuais, estendendo artificialmente a duração do contrato para que pudesse atingir 36 meses, importando em condição desfavorável aos consumidores compradores.
+Não há que se falar em antecipação de parcelas, como argumentou a ré, apelada, entretanto em prática abusiva em ilícito contratual, que ora se reconhece.
+E, com isso, devida a restituição dos valores cobrados à maior, aplicando-se aos valores previstos no contrato e saldo a ser restituído em parcela única, devidamente corrigida a partir dos desembolsos pelo índice estipulado no contrato, e acrescida de juros de mora a contar da citação.
+A apuração correta dos valores praticados ocorrerá em fase de liquidação de sentença, cabendo ao juízo de origem determinar o necessário para tal fim.
+Em caso análogo o entendimento deste Egrégio Tribunal de Justiça Bandeirante, a saber:
+ .. .
+Desse modo, elidir a conclusão da Corte estadual acerca da ilicitude contratual, demandaria a análise do conteúdo fático-probatório dos autos o que se mostra inviável em recurso especial, consoante o enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). REVISIONAL DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. PRESCRIÇÃO. SÚMULA N. 7/STJ. ABUSIVIDADE CONTRATUAL. RECONHECIMENTO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
