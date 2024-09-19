@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALCEU ANDRADE DE OLIVEIRA JUNIOR apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em Execução Penal n. 8001346-29.2023.8.24.0023).
+Consta dos autos que o paciente interpôs agravo em execução contra a decisão do Juízo de primeira instância que indeferiu os pedidos de alteração da data-base e transferência da execução penal para Portugal.
+O recurso foi desprovido pelo Tribunal de origem em acórdão cuja ementa foi assim definida (e-STJ fl. 40):
+AGRAVO EM EXECUÇÃO PENAL. SENTENÇA PENAL CONDENATÓRIA TRANSITADA EM JULGADO. MANDADO DE PRISÃO CUMPRIDO EM PORTUGAL. PEDIDO DE ALTERAÇÃO DA DATA-BASE E DE TRANSFERÊNCIA DA EXECUÇÃO PARA O PAÍS EUROPEU. INDEFERIMENTO NA ORIGEM. SOLICITAÇÃO DA EXTRADIÇÃO. INSURGÊNCIA DA DEFESA.
+ALTERAÇÃO DA DATA-BASE. DECISÃO QUE FIXA A DATA DO CUMPRIMENTO DO MANDADO DE PRISÃO. PEDIDO PARA FIXAÇÃO DA DATA DA PRISÃO EM FLAGRANTE. IMPROPRIEDADE. CONDENAÇÃO ÚNICA. RÉU SOLTO DURANTE O CURSO DO PROCESSO. PERÍODO QUE DEVE SER CONSIDERADO COMO DETRAÇÃO. DATA DA ÚLTIMA PRISÃO ININTERRUPTA FIXADA CORRETAMENTE PELO JUÍZO DA EXECUÇÃO PENAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. MANUTENÇÃO.
+TRANSFERÊNCIA DA EXECUÇÃO DA PENA PARA PORTUGAL. FUNDAMENTO LEGAL UTILIZADO PELA DEFESA QUE ESTÁ EQUIVOCADO. TRATADO DE EXTRADIÇÃO BRASIL/PORTUGAL, PROMULGADO PELO DECRETO 1.325/94, JÁ REVOGADO. POSSIBILIDADE DA TRANSFERÊNCIA PASSIVA DE PESSOA CONDENADA CONSOANTE REGRA DO ARTIGO 103, §1º, DA LEI DE MIGRAÇÃO, REGULAMENTADA PELO DECRETO 9.199/2017 E PORTARIA MJ N. 89/2018. PEDIDO A SER PROCESSADO VIA MINISTÉRIO DA JUSTIÇA. ANÁLISE ACERCA DO PREENCHIMENTO DOS REQUISITOS QUE COMPETE AO ÓRGÃO FEDERAL. SUSPENSÃO DO PEDIDO DE EXTRADIÇÃO PARA PROCESSAMENTO DO PEDIDO DE TRANSFERÊNCIA. REFORMA PARCIAL DA DECISÃO DE ORIGEM. DEFESA QUE DEVE PROVIDENCIAR A INSTRUÇÃO DO PEDIDO COM OS DOCUMENTOS ELENCADOS NOS MENCIONADOS NORMATIVOS.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Neste writ, alegou a defesa que a data-base para a concessão de progressão de regime do paciente deveria ser a data de sua primeira prisão, ocorrida em 2013; requereu, assim, a concessão da ordem para retificar a data-base em relação à progressão de regime.
+É o relatório.
+Decido.
+Verifica-se que essas questões já foram suscitadas no HC n. 879.187, cuja ordem foi denegada em decisão de minha lavra, com trânsito em julgado certificado em 16/2/2024 .
+Dessa forma, o presente writ constitui mera reiteração de pedido formulado em habeas corpus anteriormente distribuído, providência vedada pela jurisprudência desta Corte Superior. No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDOS JÁ FORMULADOS NO HABEAS CORPUS N. 701.258/RS, PREVIAMENTE IMPETRADO NO STJ. DESCABIMENTO. CONTEMPORANEIDADE. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO.
+1. Não há falar em ofensa ao princípio da colegialidade, em razão de se ter negado provimento ao recurso por meio de decisão unipessoal, pois o art. 210 do RISTJ dispõe que, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+3. No caso, a fundamentação da segregação cautelar já foi analisada no writ previamente impetrado perante esta Corte Superior de Justiça, tendo sido por mim asseverado que o delito  foi  cometido com notas de execução, com envolvimento de facções criminosas e que os agentes apresentam diversidade de antecedentes criminais, o que representa fundamento concreto para a manutenção da prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 161.267/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MERA REITERAÇÃO DE MANDAMUS JÁ JULGADO POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANÁLISE DE INSURGÊNCIA CONTRA SEUS PRÓPRIOS JULGADOS. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos formulados no HC 700.113/PR, o qual, não foi conhecido em decisão por mim proferida em 16/10/2021, após o que foram rejeitados os embargos de declaração opostos. Verifica-se que ambas as impetrações se insurgem contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010907-90.2018.8.16.0031 e trazem as mesmas alegações.
+2. Esta Corte Superior não é competente para julgamento das insurgências contra seus próprios julgados, razão pela qual não há falar em conhecimento da impugnação relativa ao julgamento do HC 700.113/PR.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/5/2022, DJe de 19/5/2022 , grifei.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
