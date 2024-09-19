@@ -1,0 +1,26 @@
+DECISÃO
+MARCOS MIGUEL DE LIMA alega sofrer coação ilegal em seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no Habeas Corpus n. 76081-32.2024.8.16.0000.
+Neste writ, pretende a defesa, em liminar e no mérito, a revogação da prisão preventiva decretada em desfavor do paciente pela suposta prática do crime de homicídio qualificado.
+Decido.
+A prisão preventiva foi decretada pelo juízo de origem com base nos seguintes fundamentos:
+O delito supostamente cometido pelos Representados é o de homicídio, cuja penaé superior a 4 (quatro) anos. No que atine aos requisitos da custódia cautelar, com relação ao fumus comissi delicti, verifica-se que existem indícios de materialidade e autoria do delito, com base nos documentos juntados no feito.
+Segundo consta, conforme registrado no Boletim de Ocorrência nº 2024/537489,no dia 27/4/2024, a equipe da Polícia Militar foi acionada para atendimento narepresa do Passaúna.
+O solicitante, Sr. Bruno Fernando da Silva Barbosa, informou que estava pescando na represa e encontrou um corpo boiando na água. O corpo foiencontrado em estado de decomposição às margens do lago, identificado comosendo da vítima Alex Alberto Gurski.
+Ademais, o corpo foi encontrado em conjunto com pedras, assim, observa-se que a provável intenção dos Autores era de ocultar o cadáver nas águas da represa,.
+estando, ainda, amarrado com fios de luzAinda, a Genitora da Vítima teria registrado o Boletim de Ocorrência nº 2024/517374, informando seu desaparecimento, esclarecendo que seu Filho teria idoaté uma biqueira gastar dinheiro.
+Foram coletadas informações de que o crime teria sido cometido por dívida novalor de R$ 2.000,00 (dois mil reais), pelas pessoas identificadas comoAlexandreCarvalho, André Luiz Nunes Martins e Marcos Miguel de Lima, os quais teriamutilizado um veículo Pálio, de cor prata, para realizar o transporte da Vítima atéo local em que o corpo foi ocultado.
+Mister consignar que o referido veículo é considerado "pizeira", uma vez que seuproprietário já seria falecido, sendo que seu irmão, Ivan, relatou informalmenteque, após a morte de Adilir, passou o carro para Reginaldo, referindo-se aReginaldo da Silva, conhecido como "Chico Dedo".
+No mais, através da quebra de sigilo dos dados da tornozeleira eletrônica deMarcos Miguel de Lima, foi possível identificar o local em que o homicídio.
+ocorreu e o momento em que os Autores dispensaram o corpo da VítimaVerificou-se, ainda, que os Autores são envolvidos com tráfico de drogas na e que a biqueira de drogas administrada por eles teria sido adquirida deregiãoindivíduo de alcunha "Chico Dedo" (identificado como sendo Reginaldo da Silva).
+Da análise dos autos, verifica-se que a custódia cautelar é fundamental para.
+garantir a ordem públicaNestes termos, tem-se que necessária a prisão preventiva requerida, como forma. De outro lado, entende-se que nenhuma de acautelamento do próprio meio socialdas outras medidas cautelares previstas no artigo 319 do Código de ProcessoPenal se mostram suficientes, ante a gravidade do delito.
+A prisão foi mantida pelo Tribunal estadual:
+HABEAS CORPUS - HOMICÍDIO DUPLAMENTE QUALIFICADO E OCULTAÇÃO DE CADÁVER - PRISÃO PREVENTIVA - IMPRESCINDIBILIDADE PARA GARANTIA DA ORDEM PÚBLICA - PERICULOSIDADE DO PACIENTE EVIDENCIADA PELO MODUS OPERANDI NA PRÁTICA DOS CRIMES IMPUTADOS E PELO RISCO DE REITERAÇÃO DELITIVA - MOTIVAÇÃO IDÔNEA - CONSTRANGIMENTO ILEGAL INEXISTENTE - DENEGADO. WRIT.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à segregação cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora recorrente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Tribunal estadual apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal; indicou motivação suficiente para decretar a prisão preventiva, ao salientar o modus operandi da conduta ("agindo em concurso de agentes, teria ele deslocado o pescoço da Vítima - Marcos cujo corpo foi, segundo a denúncia, amarrado a pedras e lançado na represa do Passaúna") a e motivação do delito ("dívida de drogas no valor de R$ 2.000,00 (dois mil reais)").
+Ademais, a prisão também é necessária para evitar a recidiva criminosa, tendo em vista que o paciente "ostenta duas condenações definitivas por roubo, além de responder a outras ações penais pelo mesmo crime patrimonial e por posse irregular de arma de fogo de uso, permitido".
+Pelos mesmos fundamentos, a adoção de medidas cautelares diversas não se prestaria, nesse momento, a garantir a aplicação da lei penal. Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública. Agravo Regimental desprovido" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
