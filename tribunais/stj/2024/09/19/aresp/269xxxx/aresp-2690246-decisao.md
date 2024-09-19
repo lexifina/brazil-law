@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIANO ALVES CORDEIRO contra decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, a qual inadmitiu o recurso especial ante a ausência de demonstração do dissídio jurisprudencial.
+Em suas razões, a parte agravante reitera os argumentos expostos no recurso especial, sustentando que os julgados apresentados demonstram a divergência jurisprudencial que enseja a via recursal.
+Requer o provimento do agravo para que seja admitido e provido o recurso especial, para absolver o agravante (e-STJ fls. 358-364).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo em recurso especial (e-STJ fls. 384-386).
+É o relatório.
+DECIDO.
+O cotejo entre a decisão de inadmissibilidade e as razões do presente agravo revela a ausência de impugnação específica ao fundamento adotado para inadmissão do recurso especial, qual seja, a ausência de comprovação do dissídio jurisprudencial.
+Com efeito, a parte limitou-se a afirmar, genericamente, ter indicado precedentes.
+O conhecimento do recurso especial, com fundamento na alínea "c" do permissivo constitucional, exige o efetivo cotejo analítico entre o acórdão apontado como paradigma e o julgado recorrido, ex vi do art. 1.029, § 1.º, do CPC, aplicável à seara criminal por força do art. 3.º do Código de Processo Penal e do art. 255, § 1.º, do RISTJ.
+Na espécie, a mera transcrição de ementas de julgados dessa Corte Superior, por não evidenciar a similitude fática e a divergência interpretativa da legislação federal entre os julgados confrontados, não atende aos impositivos legal e regimental. Nesse sentido: AgRg no AREsp 2489541/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 02/04/2024, DJe de 08/04/2024; AgRg no AgRg nos EDcl na PET no AREsp 2091916/RS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 05/03/2024, DJe de 08/03/2024, e AgRg no REsp 2398933/SP, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/02/2024, DJe de 05/03/2024.
+No que diz respeito à indicação de paradigmas de acórdãos oriundos do mesmo Tribunal, o recurso especial não é o instrumento adequado para solucionar mero dissídio interno da jurisprudência das Cortes sujeitas à jurisdição do Superior Tribunal de Justiça, conforme preceitua a Súmula n. 13/STJ: A divergência entre julgados do mesmo tribunal não enseja recurso especial. Nesse diapasão: AgRg no AREsp 2271573/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 23/05/2023, DJe de 30/05/2023, e AgRg no AREsp 1769549/PR, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/09/2021, DJe de 20/09/2021.
+Conclui-se, portanto, que o agravo não preenche os requisitos de admissibilidade, uma vez que deixou de impugnar, de forma dialética, o fundamento da decisão que, na origem, ensejou a inadmissão do recurso especial, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+Com igual conclusão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO. OFENSA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. MINUTA DE AGRAVO QUE NÃO INFIRMOU, DE FORMA CONCRETA E INDIVIDUALIZADA, TODOS OS FUNDAMENTOS DECLINADOS NA DECISÃO DE INADMISSÃO DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prolação de decisão monocrática não conhecendo do agravo em recurso especial é permitida no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça. Além disso, a possibilidade de interposição de agravo regimental afasta a alegação de ofensa ao princípio da colegialidade.
+2. Não houve concreta impugnação de todos os fundamentos declinados pela Corte de origem para inadmitir o recurso especial. Incidência da Súmula n. 182/STJ mantida.
+3. Agravo regimental desprovido. (AgRg no AREsp 1871630/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023 - grifamos)
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
