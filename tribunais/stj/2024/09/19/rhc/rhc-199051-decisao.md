@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Fabiano Alves de Souza, contra acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0623464-25,2024.8.06.0000).
+Extrai-se dos autos que o recorrente foi pronunciado pela suposta prática do crime previsto no artigo 121, § 2º, incisos I e IV, do Código Penal.
+Alega o recorrente a ocorrência de nulidade processual, ante a ausência de disponibilização integral dos áudios obtidos por meio de interceptação (prova emprestada), bem como pela impossibilidade de se aferir a cadeia de deferimento/compartilhamento para exercício da ampla defesa e do contraditório. Defende a invalidação dos atos processuais subsequentes.
+Requer a concessão da liminar para que se determine a suspensão da sessão de julgamento do dia 06/06/2024, até o julgamento do mérito desse recurso. No mérito, pleiteia o provimento do recurso para que se declare a nulidade da ação penal desde a juntada da aludida mídia, devendo a marcha processual retornar para que se anexe integralmente os diálogos interceptados, devidamente acompanhados da decisão que autorizou o início/renovação da cautelar.
+A liminar foi indeferida (fls. 313/315).
+Informações prestadas (fls. 321/323 e 328/332).
+O pedido de tutela provisória foi indeferido (fls. 350/351).
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (fl. 359).
+Sobreveio Petição n. 00798234/2024 (fls. 362/366).
+É o relatório.
+DECIDO.
+Inicialmente, nada a prover quanto à Petição de fls. 362/366.
+Isso porque, em consulta à página eletrônica do Tribunal de origem, verifico que foi proferida sentença pelo Juízo a quo, em 08/08/2024, nos autos da Ação Penal n. 0029279-45.2010.8.06.0064, condenando o recorrente à pena total de 17 (dezessete) anos e 03 (três) meses de reclusão, em regime inicial fechado, tendo-lhe sido concedido o recurso em liberdade, pela prática dos crimes previstos nos artigos 121, § 2º, incisos I e IV, e 288, ambos do Código Penal.
+Com a análise exauriente das matérias relativas às supostas nulidades na sentença condenatória, o novo título deverá ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+Exemplificativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. CORRUPÇÃO DE MENOR. ALEGAÇÃO DE NULIDADES NO CURSO DA INSTRUÇÃO CRIMINAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. INTERPOSIÇÃO DE APELAÇÃO DEFENSIVA. INSTRUMENTO ADEQUADO PARA O REEXAME DAS QUESTÕES. PRETENSÃO QUE NÃO SE REFERE À TUTELA IMEDIATA DA LIBERDADE AMBULATORIAL DO ACUSADO. SUBVERSÃO DO SISTEMA RECURSAL. AGRAVO DESPROVIDO.
+1. Consoante se verifica dos autos, o processo já se findou, com a prolação de sentença condenatória em desfavor do réu, tendo a defesa interposto a Apelação n. 0008691-47.2023.8.26.0050, perante o Tribunal de origem, ainda pendente de apreciação por aquele sodalício, o que prejudica a análise do presente writ.
+2. Com a condenação do agravante, as nulidades suscitadas passam a ter suporte decisório na sentença, que deverá ser examinada não na via estreita mandamental, mas no bojo da apelação já manejada pela defesa perante o Tribunal de origem, instrumento processual adequado para o reexame da questão, sob pena de se incidir em indevida supressão de instância.
+3. A Terceira Seção do Superior Tribunal de Justiça firmou entendimento de que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual  ..  é indevida a subversão do sistema recursal e a avaliação, enquanto não exaurida a prestação jurisdicional pela instância de origem, de tese defensiva na via estreita do habeas corpus" (HC n. 482.549/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/3/2020, DJe 3/4/2020).
+4. Agravo regimental desprovido. (AgRg no HC n. 846.290/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023 - grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE VÍCIOS E NULIDADES NO CURSO DO PROCESSO. ATUAÇÃO DE GUARDA MUNICIPAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATORIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita" (AgRg no RHC 71.840/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/6/2018, DJe 12/6/2018).
+2. Agravo regimental desprovido. (AgRg no HC n. 829.293/SP, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023 - grifamos).
+Ante o exposto, e em consonância com o parecer do Ministério Público Federal, julgo prejudicado o recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. FALSIDADE IDEOLÓGICA E DESCAMINHO. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. NÃO CABIMENTO. ANÁLISE SOBRE OS INDÍCIOS MÍNIMOS DE AUTORIA DELITIVA QUE NÃO PODE SER FEITA NA VIA ELEITA. RECURSO DESPROVIDO.
