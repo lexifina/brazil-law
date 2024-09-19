@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DEIVIDE PAULO DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2159613-85.2024.8.26.0000.
+Consta que o paciente foi preso em flagrante, em 06/05/2022, pela suposta prática do crime de furto qualificado pelo concurso de agentes, tendo sido a ele concedida liberdade provisória cumulada com medidas cautelares.
+Beneficiado com acordo de não persecução penal (ANPP), que foi homologado em 16/11/2022, o paciente descumpriu-o, razão pela qual o Ministério Público requereu a sua rescisão e em 11/07/2023 ofereceu denúncia contra ele e o corréu, como incursos no artigo 155, § 4º, inciso IV, do Código Penal, a qual foi recebida, mesmo ato em que foi rescindido o ANPP.
+Em 19/03/2024, foi decretada a prisão preventiva do paciente (fls. 23/24).
+Neste writ, a parte impetrante sustenta, em suma, que: (i) o paciente somente descumpriu uma das medidas cautelares devido a um lapso, que acabou deixando de informar seu novo endereço junto ao processo (fl. 5); (ii) não estão presentes na hipótese os requisitos legais autorizadores da decretação da prisão preventiva; e (iii) DEIVIDE possui as condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+O pedido liminar foi indeferido às fls. 52-54.
+Informações processuais prestadas às fls. 57-60.
+O Ministério Público opinou pelo não conhecimento do writ às fls. 80-82.
+É o relatório.
+DECIDO.
+O Juízo de primeiro grau decretou a prisão preventiva do paciente com suporte na seguinte fundamentação (fls. 23-24; grifamos):
+ ..  Com efeito, em audiência de custódia foi-lhe concedido nos presentes autos o benefício da liberdade provisória com aplicação de medidas cautelares alternativas previstas no art. 319 do CPP, dentre as quais a de comparecimento mensal em juízo para informar e justificar suas atividades, mediante o compromisso de comparecimento a todos os atos do processo e de não mudar de domicílio sem prévia comunicação ao Juízo (fls. 38/41).
+Ocorre, no entanto, que, apesar de instado por diversas vezes ao cumprimento de tais medidas, o acusado deixou de comparecer em juízo, imotivadamente (cf. certidões de fls. 98, 134, 151 e 169), e se mudou de endereço sem qualquer comunicação, deixando de ser citado da presente ação penal e rumando a paradeiro ignorado (cf. certidões de fls. 186 e 193).
+Forçoso concluir-se, pois, diante do evidente descumprimento da medida acima especificada, que as medidas cautelares a ele aplicadas se revelaram claramente insuficientes, a indicar situação de nítida afronta à lei e descaso com o Poder Judiciário.
+Sabe-se ainda que, uma vez descumpridas as medidas cautelares diversas da prisão, e sobrevindo razões que a justifiquem, autoriza-se ao Juiz a decretação da prisão preventiva do acusado, a teor do disposto nos arts. 282, § 4º, e 312, § 1º, do CPP, o que se dá também no caso de anterior revogação da custódia cautelar (art. 316, caput, do mesmo codex).
+Nesse cenário, a imperiosa necessidade da imposição da segregação ante tempus do imputado justifica-se sobretudo para a garantia da ordem pública, evitando-se a reiteração delitiva, e para assegurar a aplicação da lei penal, colocada em sério risco diante do paradeiro ignorado do réu (art. 312, caput, do CPP).
+O Tribunal de origem corroborou o entendimento do Juízo singular consignando que resta evidente que, mesmo depois de intimado das medidas fixadas pelo Juízo, resolveu descumpri-las, circunstância esta que desautoriza a sua permanência em liberdade, como forma de se garantir a ordem pública (fl. 20; grifamos).
+Pois  bem,  com  suporte  nessas  informações,  verifico  que  a  motivação  utilizada  pelas  instâncias  ordinárias  para  embasar  a  custódia  cautelar  do  paciente  é  idônea ,  encontrando  amparo  na  jurisprudência  deste  Tribunal:
+A jurisprudência desta Corte Superior sedimentou-se no sentido de que o descumprimento de medida cautelar imposta como condição para a liberdade provisória, demonstra, por si só, a adequação da prisão preventiva para conveniência da instrução criminal" (RHC n. 140.248/SE, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 4/5/2021, DJe de 7/5/2021).(AgRg no HC n. 711.406/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022; grifamos).
+Justifica-se a prisão preventiva para garantia da aplicação da lei penal quando demonstrado, de forma concreta, o incontroverso descumprimento de medida cautelar alternativa. (AgRg no RHC n. 161.934/BA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
