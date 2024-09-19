@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARIA DO CARMO TEIXEIRA LOPES à decisão que não admitiu seu Recurso Especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - EMBARGOS DE TERCEIRO - REINTEGRAÇÃO DE POSSE EM FAVOR DA FAZENDA PÚBLICA MUNICIPAL - SUSPENSÃO DA ORDEM - IMPOSSIBILIDADE - AGRAVANTES TIDOS COMO SUCESSORES DOS EXECUTADOS - EXCEÇÃO DO ART. 109, § 3º. DO CPC - DECISÃO MANTIDA - RECURSO NÀO PROVIDO.
+1. Em que pese os agravantes não tenham figurado como parte no feito reintegratório, surgindo já na fase executiva como residentes do imóvel objeto da ordem de despejo, não há que se falar em limites subjetivos da coisa julgada quando o art. 109, § 3º, do CPC, por exceção, permite que sucedam os executados em razão da aquisição de coisa ou direito litigioso, o que se afirma com base em mero juízo de cognição sumária.
+2. Recurso não provido, mantendo-se a ordem de reintegração expedida em favor da Fazenda Pública Municipal enquanto do processamento dos embargos de terceiro.
+Quanto à controvérsia, a parte recorrente alega violação do art. 506 do CPC, no que concerne à necessidade de manutenção da recorrente na posse do imóvel objeto da ação de reintegração, tendo em vista tratar-se de terceiro possuidor de boa-fé e que não fez parte da citada ação, onde foi determinado o despejo, trazendo a seguinte argumentação:
+Ao contrário do acordo recorrido o artigo 506 do Código de Processo Civil especifica o alcance subjetivo da coisa julgada às partes que integraram o processo, de forma a proibir que terceiros sejam prejudicados.
+Por sua vez, os recorrentes não integraram o processo nº. 0204026-84.2009.8.12.0017 e serão gravemente prejudicados com o despejo.
+Tal entendimento não pode prevalecer, tendo em vista que é fato incontroverso que os recorrentes residem no imóvel há mais de 10 (dez) anos.
+Ressalta-se que, neste caso, o Poder Público reconhece os recorrentes como moradores do imóvel, tendo em vista que o imóvel era visitado por agente de saúde.
+A concessionária de energia, que faz as vezes do Estado no fornecimento deste serviço, concedeu a titularidade da unidade consumidora aos recorrentes.
+Não foi valorado corretamente pelo acórdão que, ante a posse mansa e pacífica por mais de 10 (dez) anos, os recorrentes adquiriram legítima expectativa de permanecerem no imóvel, como se proprietários fossem.
+É fato que não é possível a usucapião de bem público. Todavia, a ordem de despejo esbarra na legítima expectativa adquirida.
+Fundamenta-se juridicamente na vedação do comportamento contraditório, 10ª Defensora Pública de Segunda Instância: Maria José do Nascimento Rua Raul Pires Barbosa, 1464, sala 214, Bairro Chácara Cachoeira, 79040-382 isto é, venire contra factum proprium, fato que foi mal valorado pelo acórdão e, portanto, contrariou diretamente o artigo 506 do CPC.
+E ainda há permissão tácita do Município na mantença dos recorrentes na posse do imóvel. Todavia, agora, há ordem de despejo que contraria a mantença. Tem-se aí, contradição capaz de gerar grave dano aos recorrentes, qual seja, a inexistência de moradia digna, esbarrando em princípio basilar do Estado brasileiro, qual seja, a dignidade humana.
+Sendo assim, é patente que os recorrentes demostraram a urgência (perigo de dano e risco ao resultado útil do processo) e comprovou TODOS os requisitos exigidos pelo STJ.
+Assim, ante a demonstrada contrariedade direta ao artigo 506 do CPC, o acórdão recorrido deve ser reformado, a fim de admitir os recorrentes na posse provisória do imóvel. (fls. 223-224).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 283/STF, porquanto a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Pois bem, de fato, os agravantes não figuraram como parte o feito reintegratório, tendo surgido já na fase executiva como residentes, há muitos anos, do imóvel objeto da ordem de despejo.
+Nesse contexto, ao menos pela regra geral (art. 506 do CPC), a sentença prolatada nos autos n. 0204026-84.2009.8.12.0017 não poderia vir a prejudicá-los, em virtude da coisa julgada se limitar às pessoas entre as quais é firmada.
+Ocorre que o art. 109, § 3º, do CPC, por exceção, dispõe que, em se tratando de aquisição de coisa ou direito litigioso, a decisão proferida entre as partes originárias pode sim estender os seus efeitos ao adquirente ou ao cessionário.
+In casu, embora não esteja suficientemente esclarecido como se deu o início da posse dos agravantes e se iniciada de boa ou má-fé, o que demanda maior dilação probatória, não se pode negar que haja nexo de interdependência com a relação jurídica submetida à apreciação judicial na origem.
+Assim, com base em mero juízo de cognição sumária, há de se considerá-los sucessores dos executados Paulo Edson e Solange, de modo a permitir a reintegração em favor da Fazenda Pública Municipal enquanto do processamento dos embargos de terceiro. (fls. 208-209, grifos meus).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, Rel. ;Ministro Luis Felipe Salomão, Quarta Turma, DJe de19.12.2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp 1.157.074/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 5.8.2020; AgInt no REsp 1.389.204/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 3.8.2020; AgInt no REsp 1.842.047/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 26.6.2020; e AgRg nos EAREsp 447.251/SP, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 20.5.2016.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Eis que surge a decisão vergastada, in verbis (fl. 67-69):
+ ..
+O artigo 678, "caput", do CPC estatui que "a decisão que reconhecer suficientemente provado o domínio ou posse determinará a suspensão das medidas constritivas sobre os bens litigiosos objeto dos embargos, bem como a manutenção ou reintegração provisória da posse, se o embargante a houver requerido".
+Sem adentrar o mérito, verifica-se que o embargante tem o ônus de provar o fato constitutivo de seu direito, ou seja, a qualidade de terceiro e o de ser proprietário ou possuidor do bem constrito judicialmente.
+No caso dos autos, a cognição sumária não leva à conclusão de que aparte embargante é proprietária do bem litigioso objeto destes embargos, de modo que, ao menos por ora, não há falar em suspensão da ordem de despejo determinada nos autos principais, pelo que fica INDEFERIDA.
+ ..
+Pois bem, de fato, os agravantes não figuraram como parte o feito reintegratório, tendo surgido já na fase executiva como residentes, há muitos anos, do imóvel objeto da ordem de despejo.
+Nesse contexto, ao menos pela regra geral (art. 506 do CPC), a sentença prolatada nos autos n. 0204026-84.2009.8.12.0017 não poderia vir a prejudicá-los, em virtude da coisa julgada se limitar às pessoas entre as quais é firmada.
+Ocorre que o art. 109, § 3º, do CPC, por exceção, dispõe que, em se tratando de aquisição de coisa ou direito litigioso, a decisão proferida entre as partes originárias pode sim estender os seus efeitos ao adquirente ou ao cessionário.
+In casu, embora não esteja suficientemente esclarecido como se deu o início da posse dos agravantes e se iniciada de boa ou má-fé, o que demanda maior dilação probatória, não se pode negar que haja nexo de interdependência com a relação jurídica submetida à apreciação judicial na origem. (fls. 208-209, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+ EMENTA
