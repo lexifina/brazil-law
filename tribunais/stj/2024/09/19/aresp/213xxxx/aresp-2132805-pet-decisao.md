@@ -1,0 +1,29 @@
+DECISÃO
+Após a publicação, em 6/2/2024, da decisão que não conheceu do agravo em recurso especial, a parte agravante protocolou petição nesta Corte, em 16/2/2024, "com o intento premente de promover o chamamento do feito à ordem com pedido de reconhecimento de perda de objeto da ação, pela quitação integral do débito e dos honorários".
+Na aludida petição, foram apresentados os argumentos e pedido a seguir:
+DA PERDA DO OBJETO DA AÇÃO
+Na origem, trata-se de Embargos opostos em face à Execução Fiscal proposta pelo Estado do Paraná, que visa à cobrança do PAF 6567286-3, que gerou a CDA 3065859-0, relativamente a suposta irregularidade fiscal da empresa ao se beneficiar com a utilização de créditos de ICMS quanto a entradas de mercadorias adquiridas ou transferidas, cuja saída destinou-se a cesta básica.
+A presente decisão, sobre a qual a Agravante se manifesta, que inadmitiu o seu Agravo em Recurso Especial, foi publicada em 06/02/2024.
+Ocorre que, em 09/08/2022 a Agravante aderiu ao programa de pagamento de débitos instituído pela Lei 20.946/2021 e regulamentado pelo Decreto 10.766/2022, realizando a quitação integral do débito e dos honorários da Procuradoria (Doc. 01).
+Diante disso, em 18 de agosto de 2022, a Agravante informou tanto nos autos da Execução Fiscal 0003977-80.2014.8.16.0036, quanto nos autos dos Embargos Execução Fiscal 0003977-80.2014.8.16.0036 que a empresa havia promovido a quitação integral do débito, incluindo os honorários da Procuradoria, com os descontos instituídos pela Lei 20.946/2021 e regulamentado pelo Decreto 10.766/2022 (Doc. 02).
+Por um lapso, as informações não foram transmitidas ao Agravo em Recurso Especial em curso neste E. STJ.
+Contudo, vale destacar que, em 13/11/2023, na Execução Fiscal 0001382-11.2014.8.16.0036 que deu origem a estes autos, já houve sentença julgando extinta a execução em razão do pagamento, com fundamento no 924, inciso II do CPC, bem como determinando o cancelamento da penhora e a retirada da anotação do nome da empresa no cadastro de inadimplentes (Doc. 03).
+Inclusive, em 11/12/2023, a referida sentença transitou em julgado (Doc. 04).
+Diante do exposto, a Agravante informa que a discussão aqui posta em exame perdeu seu objeto na medida em que a empresa promoveu a quitação integral do débito dos honorários através do programa de pagamento de débitos instituído pela Lei 20.946/2021 e regulamentado pelo Decreto 10.766/2022, conforme demonstrado pelos respectivos comprovantes de pagamento anexos.
+Assim, uma vez que desde 09/08/2022 os valores envolvidos no processo estão quitados e desde 11/12/2023 o débito e a execução originária estão extintos, impõe-se a retratação do julgado para que haja a expressa declaração de perda superveniente de objeto, bem como, seja afastada a majoração dose honorários recursais.
+PEDIDO
+Por todo o exposto, prestadas as informações acima, face a perda superveniente do objeto do presente recurso, a Agravante requer a reconsideração da decisão, com o reconhecimento de perda de objeto da ação e afastamento da majoração dos honorários recursais, em razão da quitação integral do débito e dos honorários através do programa instituído pela Lei 20.946/2021 e regulamentado pelo Decreto 10.766/2022 (fls. 921-922).
+O ESTADO DO PARANÁ, regularmente intimado, assim se pronunciou:
+A dívida objeto de discussão nos embargos à execução opostos em primeiro grau foi objeto de pagamento, como se colhe do extrato da CDA ora juntado.
+Todavia, ao contrário do que disse a contraparte, isso não foi informado nos autos de embargos à execução originários (que continua ativo sem qualquer informação sobre pagamento de honorários, despesas processuais ou mesmo da dívida principal). Importa assinalar que o comprovante de pagamento de honorários, juntado pela recorrida nas fls e-STJ 923 e ss, se refere à execução fiscal, e não aos embargos que deram origem ao presente recurso especial.
+O pagamento da CDA, como reconhece a sociedade empresária, também não foi informado nesta instância recursal.
+Por essa razão, seu agravo em recurso especial foi, de fato, julgado.
+Assim, não tendo sido interposto recurso contra a decisão de fls. e-STJ 913/915, é de se reconhecer que a jurisdição deste Superior Tribunal de Justiça já se esgotou, razão pela qual nada há a deferir da manifestação de fls. e-STJ 921 e ss. (fl. 937).
+O pedido de reconsideração não deve ser conhecido.
+Com efeito, não há previsão legal para o pedido de reconsideração de decisão nos termos em que apresentado pela requerente. A medida processual cabível para impugnar os fundamentos da decisão de não conhecimento do agravo em recurso especial seria o agravo interno, não interposto a tempo e modo na espécie.
+Ademais, ao contrário do que sustentado neste pedido de reconsideração, a requerente deixou de informar a esta Corte, oportunamente, nestes autos eletrônicos de embargos à execução fiscal, que havia promovido a quitação integral do débito, com os descontos instituídos pela Lei 20.946/2021 e regulamentado pelo Decreto 10.766/2022.
+Impende salientar, ainda, que o ente público asseverou que "o comprovante de pagamento de honorários, juntado pela recorrida nas fls. e-STJ 923 e ss, se refere à execução fiscal, e não aos embargos que deram origem ao presente recurso especial". Nesse contexto, o exame da alegação da requerente de que teria havido a quitação dos honorários advocatícios de sucumbência referente s a estes embargos à execução fiscal encontraria óbice na Súmula 280 do STF.
+Por fim, consoante o entendimento desta Corte, "o simples pedido de reconsideração não suspende ou interrompe o prazo para a interposição do recurso próprio" (AgInt no RCD no MS 23.382/DF, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 4/9/2019).
+Isso posto, não conheço do pedido de reconsideração.
+Intimem-se.
+EMENTA
