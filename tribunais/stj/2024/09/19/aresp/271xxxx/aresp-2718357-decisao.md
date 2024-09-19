@@ -1,0 +1,21 @@
+DECISÃO
+ROBERT MOREIRA DOS SANTOS agrava de decisão que não admitiu seu recurso especial, interposto contra acordão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5122605-97.2020.8.21.0001.
+Consta dos autos que o recorrente foi condenado a 3 anos de reclusão, em regime aberto, mais multa, como incurso no art. 35 da Lei de Drogas.
+Nas razões do recurso especial, a defesa pede a absolvição do réu, por não haver provas suficientes acerca do vínculo associativo e permanente com os demais acusados.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não provimento do agravo.
+Decido.
+Faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, o Tribunal de origem manteve a condenação do réu pelo delito do art. 35 da Lei n. 11.343/2006, nos seguintes termos (fls. 2.486-2.492, destaquei):
+E no que diz respeito aos demais réus ROBERT MOREIRA DOS SANTOS, GIOVANNI PEREIRA LUCAS e MARCO ANTÔNIO DORNELES FRANCO, analisando os fundamentos da sentença, verifico que a solução alcançada pelo magistrado que a prolatou é a adequada ao caso posto em julgamento, porquanto as provas são suficientemente convincentes a sustentar a imputação do crime que lhes é atribuído pela sentença, motivo pelo qual os reproduzo, no ponto que sintetiza a prova oral produzida e analisa, particularizadamente, a situação de cada um dos retromencionados apelantes, o que faço como forma de homenagear o trabalho realizado pelo juiz singular (evento 213, SENT1):
+ ..
+Acrescento, apenas, que os dados obtidos com as interceptações, os quais acostados aos autos por intermédio dos relatórios de investigação, apresentam arcabouço probatório suficiente a afastar qualquer dúvida a respeito da condição de associado ao grupo criminoso ostentada por ROBERT MOREIRA DOS SANTOS.
+Consoante adiante se pode observar - a partir da visualização das imagens dos referidos relatórios capturadas e introduzidas neste voto (fl 04) -, ROBERT está inserido de forma inconteste no grupo criminoso, revelando que ele é pessoa da confiança de "ALEMÃO" ou "BATATINHA" (CARLOS EDUARDO), que delega a ele diversas tarefas, inclusive a de distribuição de drogas aos demais integrantes do grupo, dentre eles "ROMARINHO" liderança que se encontra apenas abaixo de "PEIXE".
+ ..
+Como se depreende da análise realizada pelo juízo, somada ao trecho supratranscrito, ROBERT atuava ativamente no grupo criminoso, inexistindo motivos para afastar a condenação que lhe foi imposta na origem.
+Verifico, portanto, que as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos, constantes dos autos, que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhuma ilegalidade manifesta - tampouco ausência de fundamentação - no ponto em que houve a condenação do acusado pelo delito de associação para o narcotráfico.
+Por fim, esclareço que qualquer outra solução que não a adotada pelas instâncias de origem implicaria o revolvimento do material fático-probatório amealhado aos autos, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
