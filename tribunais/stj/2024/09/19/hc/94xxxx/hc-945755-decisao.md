@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de JULIO CESAR FIDELIS GOMES em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado:
+AGRAVO EM EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA CONFIGURADA. REGIME FECHADO. BIS IN IDEM. INOCORRÊNCIA. DECISÃO MANTIDA.
+Na unificação das penas, é possível a utilização da reincidência para a fixação do regime mais gravoso, pois devem ser observados os critérios previstos no artigo 33, do Código Penal, ainda que já tenha sido considerada na fase de conhecimento, visto que a condição de reincidente, uma vez adquirida, gera efeitos imediatos e repercute na execução como um todo, assim, não há falar em bis in idem.
+AGRAVO CONHECIDO E DESPROVIDO.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, tendo em vista que a reincidência não pode ser utilizada pelo juiz da execução penal, no momento da unificação das penas, para fins de fixação de regime mais gravoso do que o previsto para o quantum de pena obtido após o somatório das reprimendas, sob pena de bis in idem, pois já foi utilizada pelo juízo da condenação como fundamento para fixação de regime inicial semiaberto.
+Requer, assim, a fixação do regime semiaberto.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Como cediço, o artigo 111 da Lei de Execução Penal que, "quando houver condenação por mais de um crime no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição".
+De se esclarecer, ademais, que o regime de cumprimento da segunda condenação, caso não houvesse sido fixado em fechado, o parágrafo único do artigo acima descrito autoriza ao juiz alterar o regime inicial de cumprimento de pena, com a imposição do mais gravoso, quando sobrevém nova condenação no curso da execução, mesmo que a soma da nova reprimenda com o remanescente da anterior fique em patamar inferior a 08 (oito) anos.
+Acresça-se que o procedimento de unificação de pena observa, também, para a fixação do novo regime prisional, os critérios previstos no artigo 33 do Código Penal, diante da ausência de disposição específica, tendo a reincidência efeito na determinação, porquanto estabelecida a reprimenda entre 4 (quatro) anos e 8 (oito) anos e, sendo o réu reincidente, como no caso, o dispositivo citado autoriza o regime fechado:
+ ..
+Ao recepcionar os autos e verificar a prática de novo crime no curso do cumprimento da pena, o Magistrado Singular afirmou a reincidência do processado, para então determinar a imposição de regime mais gravoso para continuidade do cumprimento sancionatório.
+Portanto, nota-se que escorreito o decisum vergastado que, em se tratando de réu reincidente, cuja pena privativa de liberdade unificada superou o patamar de 04 (quatro) anos, ainda que não ultrapassado o de 08 (oito) anos, determinou a continuidade do cumprimento de pena no regime fechado, uma vez que proferido conforme preleciona o art. 33, §2º, letra "a" e "b", do Código Penal.
+ ..
+Dessarte, tal como alhures delineado, também não assiste razão à defesa quanto a alegação de que houve indevido duplo apenamento, porquanto, conforme entendimento do Superior Tribunal de Justiça, na unificação das penas, é possível a utilização da reincidência para a fixação do regime mais gravoso, pois devem ser observados os critérios previstos no artigo 33, do Código Penal, mesmo que já tenha sido considerada na fase de conhecimento, visto que a condição de reincidente, uma vez adquirida, gera efeitos imediatos e repercute na execução como um todo, assim, não há falar em bis in idem (fls. 14-15, grifo meu).
+Segundo entendimento firmado nesta Corte, havendo superveniência de nova condenação no curso da execução penal, o regime de cumprimento é determinado pela soma ou unificação das penas, devendo ser observado não somente o quantum obtido após o somatório das reprimendas, mas também a reincidência, caso existente, conforme determina o art. 33 do Código Penal.
+Nesse sentido, os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. DESCONTO DA PENA EM REGIME SEMIABERTO. UNIFICAÇÃO DAS PENAS. REGRESSÃO DE REGIME. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão de ordem pública.
+Precedentes.
+2. Nos termos do art. 111 da Lei n. 7.210/1984, quando há mais de uma condenação, seja o crime anterior ou posterior ao início da execução, o regime de cumprimento é determinado pela soma ou unificação das penas, nos termos do art. 33 e seguintes do Código Penal.
+3. Na espécie, com a unificação das penas, o quantum a ser descontado supera 4 anos, sendo, portanto, incompatível a manutenção de regime diverso do fechado, diante da reincidência do réu e conforme o regramento determinado no art. 111 da Lei de Execução Penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 863.704/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 28.2.2024.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ADVENTO DE NOVAS CONDENAÇÕES NO CURSO DA EXECUÇÃO. UNIFICAÇÃO DAS PENAS. TOTAL SUPERIOR A 4 ANOS. AGRAVANTE QUE OSTENTA A CONDIÇÃO DE REINCIDENTE. FIXAÇÃO DE REGIME INICIAL FECHADO. POSSIBILIDADE. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido.
+(AgRg no HC n. 730.696/PR, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 13.5.2022.)
+Da mesma forma, é pacífico o entendimento de que o Juízo das Execuções Penais possui o dever de adequar o cumprimento da sanção penal às condições pessoais do réu, no qual se inclui o reconhecimento da reincidência do reeducando, mesmo que não tenha sido reconhecida na sentença condenatória, sem que se possa falar em ofensa à coisa julgada.
+Nesse sentido, os seguintes julgados:
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. AUSÊNCIA DE RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO SENTENCIANTE. PROCLAMAÇÃO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. INEXISTÊNCIA DE REFORMATIO IN PEJUS. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. A individualização da pena se realiza, essencialmente, em três momentos: na cominação da pena em abstrato ao tipo legal, pelo Legislador; na sentença penal condenatória, pelo Juízo de conhecimento; e na execução penal, pelo Juízo das Execuções.
+2. A intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+3. "Tratando-se de sentença penal condenatória, o juízo da execução deve se ater ao teor do referido decisum, no tocante ao quantum de pena, ao regime inicial, bem como ao fato de ter sido a pena privativa de liberdade substituída ou não por restritivas de direitos. Todavia, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional etc)" (AgRg no REsp 1.642.746/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017).
+4. Embargos de divergência acolhidos para, cassando o acórdão embargado, dar provimento ao agravo regimental, para dar provimento ao recurso especial e, assim, também cassar o acórdão recorrido e a decisão de primeiro grau, devendo o Juízo das Execuções promover a retificação do atestado de pena para constar a reincidência, com todos os consectários daí decorrentes. (EREsp n. 1.738.968/MG, Rel. Ministra Laurita Vaz, Terceira Seção, DJe de 17.12.2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA. RECONHECIMENTO NA TOTALIDADE DA PENA UNIFICADA. DELITOS DA MESMA ESPÉCIE. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte, no julgamento do EREsp n. 1.738.968/MG/RS, de minha Relatoria, DJe 17/12/2019, estabeleceu que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+2. Desse entendimento não destoou a Corte estadual, uma vez que, na unificação das penas, a condição de reincidente, configurada na condenação posterior, deve ser levada em conta na integralidade dos feitos em execução referentes a delitos da mesma espécie.
+3. Agravo regimental desprovido (AgRg no HC n. 785.099/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023.)
+No presente caso, após a unificação das penas impostas ao paciente em condenações diversas, foi fixado o regime fechado, considerando que, a despeito de o quantum obtido após o somatório não ultrapassar 8 anos, trata-se de apenado reincidente, o que autoriza a fixação do regime mais gravoso, nos termos do art. 33, § 2º, do Código Penal, estando, portanto, esse entendimento em conformidade com a jurisprudência do STJ.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
