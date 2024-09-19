@@ -13,11 +13,19 @@ III - na cobertura de custos de desapropriações de áreas destinadas a amplia�
 § 5º Os recursos do FNAC também poderão ser aplicados:
 I - no desenvolvimento, na ampliação e na reestruturação de aeroportos concedidos, desde que tais ações não constituam obrigação do concessionário, conforme estabelecido no contrato de concessão, nos termos das normas expedidas pela Agência Nacional de Aviação Civil (Anac) e pela Secretaria de Aviação Civil (SAC) da Presidência da República, observadas as respectivas competências;
 II - no custeio de eventuais despesas decorrentes de responsabilidade civil perante terceiros, na hipótese de ocorrência de danos a bens e a pessoas, passageiros ou não, provocados por atentados terroristas, por atos de guerra ou por eventos correlatos contra aeronaves de matrícula brasileira operadas por empresas brasileiras de transporte aéreo público, excluídas as empresas de táxi aéreo.
+III - no custeio e desenvolvimento de projetos de produção de combustíveis renováveis de aviação no País, incluídas as etapas da cadeia produtiva que sejam vinculadas a essa finalidade;
+IV - no apoio financeiro reembolsável mediante concessão de empréstimo aos prestadores de serviços aéreos regulares para o adequado desenvolvimento de suas atividades, segundo regulamentação do Comitê Gestor previsto no § 9º deste artigo.
 § 6º Os recursos do FNAC, enquanto não destinados às finalidades previstas nos arts. 63-A e 63-B desta Lei, ficarão depositados na Conta Única do Tesouro Nacional.
-§ 7º Os recursos do FNAC poderão ser objeto e garantia de empréstimo, a ser celebrado até 31 de dezembro de 2020, aos detentores de concessão aeroportuária ou de concessão para a prestação de serviço regular de transporte aéreo e aos prestadores de serviço auxiliar ao transporte aéreo, desde que comprovem ter sofrido prejuízo decorrente da pandemia da Covid-19.
-§ 8º Os limites de taxa de juros, de carência, de prazo de pagamento e das demais condições contratuais serão estabelecidos em regulamento, observados os seguintes parâmetros:
-I - taxa de juros não inferior à Taxa de Longo Prazo (TLP), de que trata a Lei nº 13.483, de 21 de setembro de 2017;
-II - carência não superior a 30 (trinta) meses;
-III - quitação da dívida até 31 de dezembro de 2031;
-IV - garantia de empréstimo limitada a R$ 3.000.000.000,00 (três bilhões de reais); e.
-V - garantia de empréstimo executável a partir de 1º de janeiro de 2021.
+§ 7º (Revogado).
+§ 8º (Revogado).
+§ 9º Para o financiamento de que trata o inciso IV do § 5º deste artigo, é criado o Comitê Gestor do FNAC (CG-FNAC), órgão colegiado integrante da estrutura do Ministério de Portos e Aeroportos, cujas competência e composição serão estabelecidas em ato do Poder Executivo.
+§ 10. O FNAC terá como agente financeiro o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), para o financiamento de que trata o inciso IV do § 5º deste artigo.
+§ 11. O BNDES poderá habilitar outros agentes financeiros, públicos ou privados, para atuar nas operações de financiamento com recursos do FNAC, desde que os riscos da atuação sejam suportados por esses agentes financeiros.
+§ 12. Os agentes financeiros manterão o CG-FNAC atualizado sobre os dados de todas as operações realizadas com recursos do FNAC.
+§ 13. O Conselho Monetário Nacional, sem prejuízo de suas demais atribuições, por meio de proposta do Ministério de Portos e Aeroportos, estabelecerá normas reguladoras dos empréstimos a serem concedidos pelo FNAC no que concerne:
+I - às linhas de financiamento a serem disponibilizadas com suas finalidades específicas;
+II - aos encargos financeiros e aos prazos;
+III - às comissões devidas pelo tomador de financiamento com recursos do FNAC e às demais condições necessárias à operacionalização.
+§ 14. O CG-FNAC fixará o valor global anual a ser disponibilizado para os fins do inciso IV do § 5º deste artigo e o limite de empréstimo a ser concedido por linha de financiamento e por prestador de serviços.
+§ 15. Os recursos do FNAC, administrados pelo Ministério de Portos e Aeroportos, poderão ser utilizados como subsídio para a aquisição de querosene de aviação (QAV) em aeroportos localizados na Amazônia Legal Brasileira, na forma de regulamento.
+§ 16. O Poder Executivo regulamentará o disposto neste artigo.
