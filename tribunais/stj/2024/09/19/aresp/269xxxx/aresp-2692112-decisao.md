@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BASE ENGENHARIA E SERVICOS DE PETROLEO E GAS S.A. FALIDO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO -ADJUDICAÇÃO COMPULSÓRIA - SENTENÇA DE IMPROCEDÊNCIA - IRRESIGNAÇÂO DA REQUERIDA - NÀO CONHECIMENTO NESTA OPORTUNIDADE  CONSIDERANDO QUE O OBJETO DO PEDIDO, QUE É A ADJUDICAÇÃO COMPULSÓRIA, IMPLICA A RETIRADA DE BEM DA MASSA, EVIDENTE QUE A PRETENSÃO HÁ DE SER DESATADA POR UMA DAS COLENDAS CÂMARAS RESERVADAS DE DIREITO EMPRESARIAL DESTA CORTE RECURSO NÀO CONHECIDO, COM DETERMINAÇÃO DE REDISTRIBUIÇÀO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, § 10, do CPC, no que concerne à necessária atribuição da sucumbência à parte recorrida, com base no princípio da causalidade, porquanto a demanda de adjudicação compulsória foi ajuizada em razão do descumprimento de sua obrigação de levar a aquisição do imóvel a registro, trazendo a seguinte argumentação:
+Demonstrou-se ser fato incontroverso e confessado na inicial que a autora-recorrida, apesar de ciente de sua responsabilidade, não procedeu ao arquivamento da aquisição do imóvel no registro competente. Em razão disso, buscando resolver uma situação criada pela sua própria desídia, a recorrida viu-se obrigada a ajuizar a ação de Adjudicação Compulsória.
+Conforme referido na sentença, a recorrida "exerce a posse mansa e pacífica do imóvel há 19 (dezenove) anos, sem oposição", apesar disso, no transcorrer de quase duas décadas, não buscou realizar as diligencias que lhe incumbiam. É de conhecimento amplo e irrestrito que muitos adquirentes, a fim de evitar o recolhimento de tributos ou execuções sobre seu patrimônio, postergam ou jamais registram imóveis adquiridos, o que por vezes ocasiona situações como as dos autos.
+A recorrida confessou ter descumprido sua obrigação de levar a registro o imóvel 1 desde a inicial, circunstância que consta no acordão:
+ ..
+Resta evidente, portanto, que Arlette deu causa à presente demanda, uma vez que agiu com desídia com suas obrigações, não cumprindo as diligencias necessárias para regularização do imóvel.
+ ..
+Dessa forma, a Massa Falida não pode ser responsabilizada e punida pelo descumprimento da obrigação por parte da recorrida em regularizar a situação do imóvel. Percebe-se que Arlette deu causa à instauração da lide, tendo em vista que apenas atentou-se para a situação do imóvel e a necessidade de regulariza-lo no momento em que este seria levado à hasta pública.
+Nesse cenário, portanto, em que não há controvérsia sobre o confessado descumprimento, pela autora, de sua obrigação de levar a aquisição a registro, pela regra da causalidade a sucumbência deve ser atribuída à autora, por aplicação do princípio da causalidade, insculpido no art. 85, §10º, do CPC.
+ ..
+Todavia, no caso dos autos se tem que: (1) a autora confessou não ter requerido o termo de quitação nem pretendido o registro da transferência da propriedade; (2) a autora suprimiu o próprio contrato de compra e venda dos documentos que instruíram a inicial.
+Não há como afastar a tese recursal da Massa Falida, de que, na hipótese de que os autos tivessem sido corretamente instruídos, não se teria resistido à pretensão. Entender doutra forma é beneficiar a parte pela própria torpeza, em prejuízo da coletividade de credores, cujo interesse sempre deve preponderar.
+Assim, diferentemente do que entendeu o Tribunal a quo, a solução jurídica a ser conferida ao caso, com base exclusivamente nas premissas expressamente delineadas pelas instâncias ordinárias, é de que a parte autora deve ser condenada ao pagamento das verbas sucumbenciais. Assim, reconhecida violação ao art.85, § 10º, do Código de Processo Civil, que reflete o princípio da causalidade, deve ser reformado o acórdão (fls. 503-506).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Como se verifica da peça de defesa (fl. 90 e ss.) a apelante suscitou preliminar de falta de interesse de agir procedimento incorreto e inadequação da via eleita, o que é suficiente para afastar a alegação de que "o processo não foi adequadamente instruído com documentos essenciais e legíveis, o que levou a apresentação de oposição ao pedido inicial".
+A própria preliminar suscitada em contestação já indica oposição à pretensão da autoral.
+No mérito sustentou a improcedência do pedido argumentando a ausência de comprovação do fato constitutivo do direito da autora e ausência de instrumento de compra e venda.
+Todavia, pela análise da documentação acostada pela autora (fl. 22-68) e aquela juntada posteriormente (fl. 278-351), ficou comprovada a aquisição regular do imóvel, tendo a autora se desincumbido do ônus probatório que sobre ela recai nos termos do artigo 373, I, do CPC.
+Em conformidade com a r. sentença, a procedência do pedido se deu pelos seguintes fundamentos (fl. 458-459):
+ ..
+Em que pese o inconformismo da recorrente, a r. sentença deve ser confirmada, não havendo que se falar em aplicação do princípio da causalidade para afastar a condenação em sucumbência (fl. 491/492).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
