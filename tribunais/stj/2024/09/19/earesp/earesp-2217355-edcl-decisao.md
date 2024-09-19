@@ -1,0 +1,21 @@
+DECISÃO
+Cuidam-se de segundos Embargos de Declaração opostos por PEDRO GOMES DO NACIMENTO E OUTROS em face da decisão que acolheu os primeiros Embargos de Declaração, tornando sem efeito a decisão que indeferiu liminarmente os Embargos de Divergência e determinou a distribuição do feito.
+Sustenta a parte embargante que (fls. 4177/4178):
+Desta forma, parece haver um erro material ou, no mínimo, contraditória, art. 1022, I e III, CPC, quando se tornassem efeito a decisão de fls.4139-4141 e ao mesmo tempo determina a distribuição dos autos, transcrevo: "Ante o exposto, acolho os embargos de declaração, conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada e determino a distribuição dos autos." (e-STJ Fl.4170).
+Assim sendo, se os Embargos de Divergência -EDV, no âmbito do Superior Tribunal de Justiça, são distribuídos entre os membros integrantes das Seções (Primeira, Segunda ou Terceira) ou da Corte Especial, a depender da própria divergência alegada.
+E os Embargos cujos paradigmas são de Turmas integrantes da mesma Seção (mesma matéria), serão distribuídos entre os membros desta Seção; já os embargos cujos paradigmas sejam de Turmas ou Seções distintas (matéria diferente), são distribuídos entre os Ministros da Corte Especial -nos termos dos Arts. 11 e 12 do RISTJ.
+ ..
+Tendo em vista que a Douta Ministra Presidente tornou sem efeito apenas sua própria decisão, determinando a distribuição do Embargos de Divergência apresentados, depreende-se que serão estes atribuídos a um dos membros dos colegiados mencionados acima, cujas sessões de julgamentos retornarão a partir do término do período das férias dos magistrados, a partir de 1º de agosto de 2024.
+Ocorre quando a Excelentíssima Ministra determina a distribuição dos autos, os embargos de divergência irão ser julgados, quando na verdade deveria abrir prazo in totum aos recorrentes para opor o recurso que melhor lhes convirem no que tange ao acórdão de fls. 4039-4050conforme fundamentado acima, consectário lógico, quando a douta Presidente torna sem efeito a decisão dos embargos de divergência com base no fato da nulidade da intimação da advogada dos recorrentes, já que acolhido e provido os Embargos de Declaração, fls. 4144-4156: "Ante o exposto, acolho os embargos de declaração, conferindo-lhes efeitos infringentes, para tornar sem efeito a decisão embargada e determino a distribuição dos autos. "Assim, requer que seja suprida o erro material ou a contradição de parte do disposto referente ao decisum de fls. 4169-4170, devolvendo o prazo à advogada dos recorrentes, em observância ao contraditório e ampla defesa, com escopo de ser aclarada as ERRO MATERIAL ou CONTRADIÇÃO, para fim de saná-los nos termos do art. 1022, Ie III, do CPC/2015.
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes Aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme exposto na decisão embargada, o objeto do Recurso de Embargos de Divergência que trata da nulidade apresentada, qual seja, erro grave na grafia da causídica, é tema anterior aos pressupostos processuais do recurso e ultrapassa a competência da análise prévia da presidência. Devendo, portanto o recurso ser distribuído para uma análise mais ampla.
+Assim, não há qualquer irregularidade sanável por meio dos presentes Embargos.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1315507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Ante o exposto, rejeito os Embargos de Declaração e concluo que a reiteração de embargos de declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+ EMENTA
