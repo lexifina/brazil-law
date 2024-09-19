@@ -1,0 +1,60 @@
+DECISÃO
+LUIZ CARLOS POMAGERSKI agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5001119-86.2020.4.04.7104/RS.
+O agravante foi condenado, pelo crime previsto no art. 337-A, III, do Código Penal, em continuidade delitiva (72 vezes), à sanção de 3 anos, 10 meses e 20 dias de reclusão mais 58 dias-multa, em regime inicial aberto. A reprimenda foi substituída por duas restritivas de direitos.
+Nas razões do recurso especial, a defesa alegou violação dos arts. 18, § 1º, 20, 45, § 1º, 60, caput, e 337-A, todos do Código Penal; 315, § 2º, IV, do Código de Processo Penal; 151, II, do Código Tributário Nacional; 83, § 2º, da Lei n. 9.430/1996; 5º, XXXIX, LIV, e 93, IV, todos da Constituição Federal. Em síntese, pleiteou a absolvição por ausência de dolo específico e, alternativamente, a anulação do acórdão recorrido por vício de fundamentação. Subsidiariamente, defendeu a suspensão da ação penal até o trânsito em julgado da ação falimentar. Por fim, defendeu a redução da prestação pecuniária, em razão de sua desproporcionalidade.
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, o que motivou a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 2.046-2.062, pelo não conhecimento do AREsp e, eventualmente, pelo não conhecimento do REsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou (fl. 1.821-1.831, grifos no original):
+ ..
+2.2 Do crime do artigo 337-A do Código Penal
+No tocante ao FUNRURAL, a defesa sustenta que exigibilidade do tributo ao tempo dos fatos constituía questão juridicamente controversa, inexistindo dolo do réu na omissão da receita bruta de comercialização da produção rural.
+A despeito das polêmicas envolvendo o denominado FUNRURAL, o Supremo Tribunal Federal decidiu pela constitucionalidade do tributo, o que fez no julgamento do RE Nº 718.874/RS, sob o regime de repercussão geral, cuja ementa transcrevo abaixo:
+ ..
+No caso, a empresa gerida pelo réu não dispunha de decisão judicial que afastasse a cobrança das contribuições objeto da denúncia.
+Ainda que discordasse da obrigatoriedade do pagamento das contribuições, caberia ao réu buscar autorização judicial para não efetuar o seu recolhimento, não podendo, por contra própria, suprimir o pagamento de tais valores, sem decisão judicial que o autorizasse a assim agir:
+ ..
+3. MERITO
+Em se tratando de crime material, o lançamento definitivo do débito constitui elemento do tipo, sendo imprescindível para a configuração do delito. Tal entendimento foi objeto da Súmula Vinculante nº 24 do STF, que dispõe:
+ ..
+In casu, a materialidade delitiva está plenamente comprovada pelos documentos anexados ao Inquérito Policial e às instruções criminais, especialmente o processo administrativo  scal, que demonstram a supressão de contribuições previdenciárias no valor de R$ 6.305.502,78 (seis milhões trezentos e cinco mil quinhentos e dois reais e setenta e oito centavos) no período de 01/2008 a 12/2013 ( IPL nº 5003491-13.2017.4.04.7104, evento 16, OUT2, pp. 12 e 36-48, e Ação Penal nº 5001119-86.2020.4.04.7104, evento 1, NOT_CRIME2, pp. 10 e 113-121). Os tributos foram sonegados no âmbito da pessoa jurídica Comércio de Cereais Planalto Ltda., CNPJ nº 90.134.115/0001-61, mediante omissão da receita bruta oriunda de comercialização da produção rural em Guia de Recolhimento do FGTS e de Informações à Previdência Social (GFIP), conforme os Autos de Infração nº 37.340.904-4 e nº 51.058.697-0.
+Quanto à autoria delitiva e ao dolo, irreparável a sentença (feito originário, evento 365, SENT1):
+ ..
+A despeito de a autoria não ter sido objeto do apelo, convém registrar que a prática do delito de sonegação de contribuição previdenciária pelo réu restou devidamente comprovada pelos elementos carreados aos autos.
+No que tange à matéria, nos delitos contra a ordem tributária, autor é todo aquele que tem o domínio dos fatos tributários, especialmente no que concerne à fraude articulada para a elisão tributária. Nos delitos tributários cometidos no âmbito societário, são aqueles que efetivamente detêm o domínio dos fatos tributários empresariais (sócios-gerentes, administradores ou contadores), e, para os crimes executados no âmbito da pessoa física, o próprio sujeito passivo da obrigação tributária (isto é, a pessoa obrigada ao pagamento do tributo - artigo 121 do CTN) e/ou seu contador, excepcionalmente.
+Tanto na fase policial quanto em juízo, o réu exerceu o direito constitucional ao silêncio (IPL Nº 5003491-13.2017.4.04.7104, evento 11, AUTO_QUALIFIC2, e feito originário, evento 341, VIDEO3).
+As alterações do contrato social da Comércio de Cereais Planalto Ltda. demonstram que o réu era o único administrador da empresa ao tempo dos fatos (IPL nº 5003491-13.2017.4.04.7104, evento 16, OUT2, pp. 68-82).
+Corroborando a prova documental, as testemunhas Carlos Alberto Witte Neezow, Mateus de Araújo Muliterno e Keli Saccon foram firmes ao apontar o réu como administrador de fato da pessoa jurídica.
+No tocante à culpabilidade, suscita a defesa a possibilidade de reconhecimento de inexigibilidade de conduta diversa, haja vista as dificuldades financeiras enfrentadas pela sociedade empresária ao tempo dos fatos, que inclusive culminou com a decretação de sua falência.
+Ocorre que o crime em comento não se consuma com a mera impossibilidade de pagamento dos tributos, mas sim com o não pagamento mediante omissão deliberada de informações às autoridades fazendárias, prestação de declaração falsa, fraude à fiscalização e falsificação de documentos relacionados à fiscalização tributária, por exemplo. Haja vista que não apenas a presença da inadimplência caracteriza o delito de sonegação tributária, mas também de fraude nessa conduta típica, ambas as Turmas Criminais desta egrégia Corte entendem que a alegação de inexigibilidade de conduta diversa é tese inaplicável para os crimes do artigo 1º da Lei nº 8.137/90 e do artigo 337-A do Código Penal.
+ ..
+Ademais, as irregularidades no âmbito da empresa se arrastaram por seis anos (01/2008 a 12/2012), culminando em evasão tributária no valor de R$ 6.305.502,78 (seis milhões trezentos e cinco mil quinhentos e dois reais e setenta e oito centavos), a demonstrar que a atividade era mantida à custa da sonegação.
+Por fim, antes a fraude perpetrada, para fins de reconhecimento da inexigibilidade de conduta diversa, mostra-se irrelevante a decretação de falência da empresa, especialmente considerando que o processamento da recuperação judicial foi deferido em 16/11/2014, ou seja, sete anos após o primeiro fato delituoso narrado.
+Por fim, no delito previsto no artigo 1º da Lei 8.137/1990, o dolo é genérico (STF, AP 516, Tribunal Pleno, Rel. Ministro Ayres Britto, DJe 03-12-2010; STJ, REsp 480.395, 5ª Turma, Rel. Ministro José Arnaldo da Fonseca, DJU 07-4-2003). Por conseguinte, sendo prescindível um especial  m de agir na conduta do agente, o elemento subjetivo nela inserto decorre da evidente intenção de suprimir o pagamento de tributos, o que restou, à evidência da materialidade e autoria delitivas, comprovado na espécie.
+Afastadas as teses defensivas, confirmadas a autoria e a materialidade dos delitos e não havendo causas de exclusão da ilicitude ou da culpabilidade do réu, impõe-se a manutenção da sentença condenatória. E isso porque, agindo como sócio e administrador de fato da Comércio de Cereais Planalto Ltda., LUIZ CARLOS POMAGERSKI, de forma consciente e voluntária, mediante omissão da receita bruta oriunda de comercialização da produção rural nas GFIPs das competências de 01/2008 a 12/2013, reduziu contribuições previdenciárias no valor de R$ 6.305.502,78 (seis milhões trezentos e cinco mil quinhentos e dois reais e setenta e oito centavos).
+4. Dosimetria
+ ..
+O caso concreto recomenda a substituição da reprimenda corporal por duas penas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, pois preenchidos os demais requisitos, as circunstâncias judiciais do artigo 59 do Código Penal são majoritariamente favoráveis e a medida é socialmente recomendável.
+Verifico que os requisitos objetivos do artigo 44 do Código Penal restam preenchidos no caso concreto, bem como que as circunstâncias judiciais do artigo 59 do Código Penal são majoritariamente favoráveis e a medida é socialmente recomendável, de forma que, de ofício, substituo a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária.
+ ..
+Considerando as condições econômicas do acusado, que declarou laborar como comerciário, receber proventos de aposentadoria e ser casado, tendo optado por não responder às demais perguntas de cunho pessoal (feito originário, evento 341, VIDEO3), mantenho o valor do dia-multa em 1/20 (um vigésimo) do salário mínimo vigente ao tempo da constituição definitiva do crédito tributário, atualizado.
+ ..
+Quanto ao valor da prestação pecuniária (artigo 43, I, do Código Penal), cumpre referir que o julgador, dentre outros parâmetros estabelecidos pelo artigo 45, § 1º, do Estatuto Repressivo, deve considerar certos fatores, de modo a não tornar a prestação pecuniária tão diminuta a ponto de mostrar-se inócua, nem tão excessiva de maneira a inviabilizar seu cumprimento.
+Nessa linha, tenho que tal prestação deve ser suficiente para a prevenção e reprovação dos crimes praticados, atentando-se ainda, para a extensão dos danos decorrentes dos ilícitos e para a situação econômica do condenado, a fim de que se possa viabilizar seu cumprimento.
+À vista de tais premissas, da condição econômica do réu, já analisada alhures, e do montante sonegado (R$ 6.305.502,78), fixo o valor da prestação pecuniária em 100 (cem) salários mínimos vigentes ao tempo do efetivo pagamento.
+Inicialmente destaco a inviabilidade do recurso especial no tocante aos pleitos absolutório, alegada ausência de dolo, e de anulação do acórdão recorrido, por ausência de fundamentação, pois estão baseados também em violação direta de dispositivos da Constituição Federal, cuja competência para julgamento é exclusiva da Corte Suprema.
+Ademais, a orientação deste Tribunal Superior é de que, nos crimes contra a ordem tributária, inclusive, a sonegação de contribuição previdenciária, é suficiente a demonstração do dolo genérico para sua configuração.
+Ilustrativamente:
+ ..
+3. De acordo com a jurisprudência desta Corte, a comprovação do crime de apropriação indébita de contribuição previdenciária (art.
+337-A do CP) prescinde de dolo específico, sendo suficiente, para a sua caracterização, a presença do dolo genérico. Súmula n. 83/STJ.
+4. A reversão do entendimento das instâncias ordinárias, acerca da configuração do elemento subjetivo, demandaria reexame probatório, o que não se admite na via do recurso especial, conforme dispõe a Súmula n. 7/STJ.
+5. Agravo regimental provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgRg no AREsp n. 2.137.812/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 23/6/2023.)
+A previsão do art. 83, § 2º, da Lei n. 9.430/1996 diz respeito única e exclusivamente à suspensão da pretensão punitiva nos casos de inclusão em programa de parcelamento de débitos. Assim, a suspensão decorrente da existência de processo de falência não encontra previsão legal. Dessa forma, a insurgência é deficiente e atrai a incidência do óbice previsto na Súmula n. 284 do STF.
+A análise do pedido de redução da prestação pecuniária demandaria necessário reexame de fatos e provas, não permitido, em recurso especial, segundo entendimento da Súmula n. 7 do STJ, a fim de desconstituir as premissas estabelecidas pela instância antecedente quanto à capacidade financeira do acusado.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
