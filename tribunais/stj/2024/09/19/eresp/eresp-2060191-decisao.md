@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por Unimed Campinas Cooperativa de Trabalho Médico ao acórdão da Quarta Turma do Superior Tribunal de Justiça, relatado pelo Ministro João Otávio de Noronha, assim ementado (fl. 1.289):
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRANSTORNO DO ESPECTRO AUTISTA. COBERTURA DE TRATAMENTO MULTIDISCIPLINAR SEM LIMITE DE SESSÕES. MÉTODO ABA. PREVISÃO NO ROL DA ANS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF.. AGRAVO INTERNO DESPROVIDO.
+1. O rol de procedimentos e eventos em saúde suplementar da ANS é de taxatividade mitigada (EREsp n. 1.886.929/SP e EREsp n. 1.889.704/SP, Segunda Seção).
+2. É abusiva a recusa de cobertura, sem limite de sessões, de tratamento multidisciplinar - fonoaudiologia, psicologia e terapia ocupacional - prescrito para paciente com transtorno do espectro autista (EREsp n. 1.889.704/SP, Segunda Seção).
+3. As psicoterapias pelo método de análise do comportamento aplicada (ABA) estão contempladas no rol da ANS.
+4. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+5. Agravo interno desprovido.
+A parte embargante (fls. 1.305/1.310) aduz que há divergência jurisprudencial com relação à restrição de cobertura de plano de saúde relativa ao rol de procedimentos e eventos em saúde da ANS, motivo pelo qual não incide o óbice da Súmula 83 do STJ.
+Sustenta que houve posterior atualização do rol da ANS, e que a demanda deve ser analisada sob a ótica da legislação aplicável ao tempo do pedido junto ao plano de saúde. Afirma que ao determinar a cobertura de tratamento não previsto no Rol de Procedimentos vigente a época, a decisão tal como prolatada apresenta divergência quanto a modulação dos efeitos da decisão prolatada pelo Superior Tribunal de Justiça (fl. 1.307).
+Assevera que a matéria foi devidamente prequestionada, devendo ser afastada a incidência da Súmula 282 do STF.
+Aponta como paradigma o REsp n. 1.824.961/RJ, Ministro Og Fernandes, Segunda Turma, DJe 6/9/2019.
+Assim, requer o conhecimento do recurso e o seu provimento.
+É o relatório.
+Mediante análise dos autos, verifica-se que os embargos de divergência não ultrapassam o juízo de admissibilidade. A parte embargante não se desincumbiu do ônus de demonstrar o alegado dissídio jurisprudencial por meio da identidade fático-processual entre os casos confrontados, a fim de viabilizar a arguição de aplicação de solução jurídica diversa.
+O acórdão embargado é claro ao asseverar que o rol de procedimentos e eventos em saúde suplementar da ANS é de taxatividade mitigada, assim como é abusiva a recusa de cobertura, sem limite de sessões, de tratamento multidisciplinar - fonoaudiologia, psicologia e terapia ocupacional - prescrito para paciente com transtorno do espectro autista.
+No entanto, o acórdão paradigma não trata de tal matéria. Consoante se extrai do voto condutor, cuida a demanda de ação ordinária proposta por servidores públicos do Estado do Rio de Janeiro objetivando o recebimento de diferenças salariais supostamente devidas em razão do disposto na Lei estadual n. 1.206/1987 (fl. 1.316 ).
+Patente que a base fática é completamente distinta.
+A parte embargante se apega ao fato de que o acórdão paradigma permitiu a modulação de efeitos quando o justifique o interesse social e a segurança jurídica. Contudo, a decisão embargada não aborda o tema. Além disso, mesmo que tratasse da questão temporal, considerando o discrepante contexto fático e jurídico, a conclusão de um não influenciaria no outro decisum.
+Desse modo, é inviável o manejo de embargos de divergência quando os acórdãos confrontados não apresentam identidade de circunstâncias fáticas que permitam a contraposição de teses jurídicas consideradas abstratamente. (AgInt no AgInt nos EDcl nos EAREsp n. 2.046.368/SC, Ministro Og Fernandes, Corte Especial, DJe 26/10/2023)
+Nota-se, ademais, que a parte embargante não realizou o devido cotejo analítico, haja vista que não logrou êxito em apontar a correta circunstância fático-jurídica discutida no presente caso. Não é possível verificar a existência de divergência entre o acórdão embargado e os apontados como paradigma ante a ausência de correlação dos fatos narrados e daqueles que efetivamente se verificam. Ilustrativamente: AgInt nos EAREsp n. 2.048.762/RS, Ministra Laurita Vaz, Corte Especial, DJe 2/10/2023.
+Nesse sentido, não se pode admitir embargos de divergência quando não há a demonstração de controvérsia entre órgãos distintos do STJ (Turmas, Seções, Corte Especial). Ora, a aferição dessa divergência pressupõe efetivo cotejo analítico não resumido a simples transcrição de ementas e capaz de mostrar as similitudes fáticas e jurídicas entre os paradigmas e o acórdão recorrido (AgInt nos EDcl nos EAREsp n. 438.748/BA, Ministro Mauro Campbell Marques, Corte Especial, DJe 11/11/2021).
+Ante o exposto, indefiro liminarmente os presentes embargos de divergência.
+Caso tenham sido anteriormente fixados, majoro os honorários recursais em desfavor da parte embargante para 15% (quinze por cento) sobre o valor arbitrado na origem, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se for o caso, os limites percentuais previstos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão de gratuidade de justiça.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PLANO DE SAÚDE. ROL ANS. MODU LAÇÃO DE EFEITOS. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. AUSÊNCIA DE EFETIVO COTEJO ANALÍTICO. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
