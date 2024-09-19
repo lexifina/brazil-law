@@ -1,5 +1,7 @@
 Art. 34. São deveres dos prestadores de serviços turísticos:
 I - mencionar e utilizar, em qualquer forma de divulgação e promoção, o número de cadastro, os símbolos, expressões e demais formas de identificação determinadas pelo Ministério do Turismo;
-II - apresentar, na forma e no prazo estabelecido pelo Ministério do Turismo, informações e documentos referentes ao exercício de suas atividades, empreendimentos, equipamentos e serviços, bem como ao perfil de atuação, qualidades e padrões dos serviços por eles oferecidos;
-III - manter, em suas instalações, livro de reclamações e, em local visível, cópia do certificado de cadastro; e
-IV - manter, no exercício de suas atividades, estrita obediência aos direitos do consumidor e à legislação ambiental.
+II - (revogado);
+III - manter em suas instalações, de forma visível, mecanismos que possibilitem a apresentação de denúncias, sugestões ou reclamações e cópia do certificado de cadastro no Ministério do Turismo;
+IV - manter, no exercício de suas atividades, estrita obediência aos direitos do consumidor e à legislação ambiental;
+V - manter, em local visível, mensagem referente à vedação da exploração sexual e do tráfico de crianças e adolescentes, conforme o disposto na Lei nº 11.577, de 22 de novembro de 2007;
+VI - viabilizar a ação fiscalizadora das autoridades competentes no exercício de suas funções.

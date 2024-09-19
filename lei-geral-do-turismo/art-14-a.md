@@ -1,0 +1,1 @@
+Art. 14-A. O Ministério do Turismo e a Embratur poderão realizar, observadas as respectivas competências, em parceria com instituições privadas, nacionais ou internacionais, ações de marketing destinadas à promoção do País como destino turístico, com compartilhamento dos custos.
