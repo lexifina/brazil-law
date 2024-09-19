@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JOSE CARLOS ANTUNES DE OLIVEIRA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+EMBARGOS À EXECUÇÃO. JULGADOS PARCIALMENTE PROCEDENTES. APELAÇÃO CÉV E. EXECUÇÃO FUNDADA EM CONTRATO PARTICULAR DE COMPRA E VENDA ASSINADO POR DUAS TESTEMUNHAS. TÍTULO EXECUTIVO EXTRAJUDICIAL. 1. PRELIMINAR. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. AUSÊNCIA DE DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA TESE DE EXCESSO À LUZ DA PROVA DOCUMENTAL PRODUZIDA A ENSEJAR A PRODUÇÃO DE PROVA TESTEMUNHAL A FIM DE COMPROVAR EXCESSO DE EXECUÇÃO. 2. MÉRITO. INEXISTÊNCIA DE EXCESSO. CLÁUSULA PENAL NÃO ABUSIVA. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. RECURSO NÃO PROVIDO. RECURSO ADESIVO. IMPENHORABILIDADE DO BRINQUEDO. PARQUE DE DIVERSÕES QUE NECESSITA TER ATRAÇÕES/BRINQUEDOS PARA GERAR RECEITA. SENTENÇA MANTIDA. RECURSO ADESIVO NÃO PROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 3º do CPC e ao art. 5º, XXXV, da CF/88, no que concerne à configuração de cerceamento de defesa o julgamento com fundamento em ausência de provas quando indeferido o pedido de produção de prova oral, trazendo a seguinte argumentação:
+A presente demanda versa sobre acordo verbal, porquanto prescinde de prova testemunhal para o mais acertado deslinde.
+O Recorrente, por esse motivo, pleiteou expressamente como forma imprescindível de defesa a produção de prova testemunhal.
+Entretanto, em sede de decisão interlocutória foi negada a pretensão sob o argumento de preclusão.
+ ..
+Ocorre que, em momento algum o Recorrente foi intimado para apresentar rol de testemunhas, sob pena de preclusão da prova, nos termos do art. 357, §4º do CPC.
+Em verdade, no referido ato ordinatório (mov. 69.1) a parte foi intimada para informar os dados eletrônicos, afim de que fosse enviado convite (link) para realização de audiência na modalidade virtual, vejamos:
+ ..
+Outrossim, em atenção ao referido ato ordinatório o Recorrente apresentou manifestação (mov. 81.1) informando que as testemunhas compareceriam no escritório da procuradora para realização do ato, onde haveria disponibilidade dos meios eletrônicos necessários para realização do ato.
+ ..
+Portanto, a Nobre decisão proferida pelo Douto Juízo de Primeiro grau se mostrou contraditória haja vista a disposição do art. 1.022, inciso II do CPC, ao passo que não houve intimação nos termos do art. 357, §4º do CPC, para apresentação do rol de testemunhas, quiçá sob pena de preclusão de tal prova.
+Em verdade, houve intimação para fornecer os dados necessários para realização da audiência por meio digital, assim, tendo em vista que as testemunhas compareceriam no escritório da procuradora do Recorrente, cumpriu-se o prazo informando os dados necessários para realização da audiência com o e-mail para envio do link.
+IMPORTANTE FRISAR, que no caso em tela, a prova testemunhal é INDISPENSÁVEL para comprovar o efetivo direito do Recorrente, visto que as tratativas entre as partes se davam de forma verbal, fato amplamente conhecido no meio em que conviviam.
+Analisando detidamente os autos, é possível verificar que a sentença julgou o pedido de reconhecimento de excesso de execução improcedente por ausência de comprovação do fato constitutivo pela parte Recorrente:
+ ..
+Não obstante, tratando-se de negociação verbal, a produção de prova oral - testemunhal -, conforme requerido pela parte, é essencial para demonstrar a existência ou não da relação jurídica e das condições contratuais (fls. 385/389).
+É o relatório.
+Decido.
+Quanto à controvérsia, inicialmente, ressalta-se que é incabível o Recurso Especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe de 16.6.2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º.10.2019; EDcl no REsp 1.656.322/SC, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13.12.2019.
+No mais, incide a Súmula n. 284/STF devido à ausência de comando normativo do dispositivo apontado como violado para sustentar a tese recursal, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+Nesse sentido, vale citar os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE. FUNDAMENTAÇÃO DEFICIENTE. EXECUÇÃO FISCAL. RFFSA E UNIÃO. TRANSFERÊNCIA PATRIMONIAL. CURSO DA DEMANDA. SUCESSORA. REDIRECIONAMENTO. POSSIBILIDADE. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Os apontados arts. 130 e 131 do CTN não têm comando normativo para amparar a tese de imunidade do IPTU em favor da RFFSA, visto que tais dispositivos legais cuidam de tema diverso, referente à responsabilidade tributária por sucessão, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+ ..  (AgInt no REsp n. 1.764.763/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 27.11.2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). PREQUESTIONAMENTO. AUSÊNCIA. FUNÇÃO DESEMPENHADA PELO CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. No que tange à aduzida ofensa ao art. 12, § 1º, VI, da Lei n. 10.931/04, o presente recurso não merece prosperar, porquanto o referido dispositivo não confere sustentação aos argumentos engendrados. Incidência da Súmula 284/STF.
+5. O mesmo óbice representado pelo enunciado da Súmula 284/STF incide no que diz respeito à alegada ofensa aos arts. 421 e 425 do Código Civil, que veiculam comandos normativos demasiadamente genéricos e que não infirmam as conclusões do Tribunal de origem.
+ ..
+7. Agravo interno não provido. (AgInt no AREsp n. 1.674.879/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.3.2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.798.903/RJ, Rel. para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30.10.2019; AgInt no REsp n. 1.844.441/RN, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 14.8.2020; AgInt no AREsp n. 1.524.220/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgRg no AREsp n. 1.280.513/RJ, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27.5.2019; AgRg no REsp n. 1.754.394/MT, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 17.9.2018; AgInt no REsp n. 1.503.675/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27.3.2018; AgInt no REsp n. 1.846.655/PR, Terceira Turma, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 23.4.2020; AgInt nos EDcl no REsp n. 1.709.059/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 18.12.2020; e AgInt no REsp n. 1.790.501/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.3.2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
