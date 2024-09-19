@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, agravo em recurso especial de decisão que inadmitiu recurso especial interposto pelo ESTADO DO RIO DE JANEIRO, contra o acórdão proferido pelo TJRJ, assim ementado:
+CUMPRIMENTO DE SENTENÇA - ATUALIZAÇÃO DO VALOR EXEQUENDO - NECESSIDADE DE COMPLEMENTAÇÃO DA TAXA JUDICIÁRIA - RECOLHIMENTO QUE DEVE SER FEITO PELA PARTE SUCUMBENTE, AO FINAL DO CUMPRIMENTO DE SENTENÇA - INTELIGÊNCIA DO ARTIGO 82, PARÁGRAFO SEGUNDO, DO CÓDIGO DE PROCESSO CIVIL E DO ENUNCIADO ADMINISTRATIVO Nº 10, DO FUNDO ESPECIAL DESTA COLENDA CORTE - PROVIMENTO DO RECURSO (fl. 38).
+Nas razões do recurso especial inadmitido, o recorrente aponta violação ao art. 1.022 do CPC, por considerar omisso o acórdão recorrido, bem como ao art. 381 do CC, ao argumento de que "parece impróprio prever que o Estado, quando vencido em demanda, se veja obrigado a recolher custas (nela incluída a taxa judiciária) da qual ele mesmo é credor. Com efeito, não pode o Estado do Rio de Janeiro, a um só tempo, ser credor e devedor de si mesmo, sob pena de restar caracterizado o instituto da confusão, na forma do art. 381 do Código Civil" (fl. 73).
+É o relatório.
+Passo a decidir.
+Quanto à suposta violação do art. 1.022 do CPC/2015, não se verifica a existência dos vícios apontados, pois constou expressamente do acórdão recorrido as razões pelas quais foram rejeitados os argumentos trazidos no recurso de agravo, revelando-se, em verdade, mero inconformismo do recorrente.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/ 5/2020.
+No mérito, o TJRJ considerou devido o pagamento da taxa judiciária pelos seguintes fundamentos:
+A r. decisão proferida merece reforma. Cinge-se a controvérsia a saber se recai sobre os Agravantes o ônus da complementação da taxa judiciária para que seja iniciada a fase de cumprimento de sentença. Desta forma, é de se observar o disposto na Sumula 269 deste Egrégio Tribunal de Justiça, a qual dispõe que "não incide taxa judiciária específica no cumprimento de sentença, sem prejuízo do disposto no artigo 135, do Código Tributário do Estado do Rio de Janeiro", cabendo à parte sucumbente o recolhimento da taxa em questão, ao final do cumprimento de sentença, como se infere do artigo 82, parágrafo segundo, do Código de Processo Civil e do Enunciado Administrativo nº 10, do Fundo Especial desta Colenda Corte. (fls. 39-40).
+Com efeito, da forma como definida a questão pelo T ribunal de origem, imprescindível seria a análise de normas de direito local para o deslinde da controvérsia, providência vedada em sede de recurso especial, ante o óbice da Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TAXA JUDICIÁRIA. RECOLHIMENTO PELO ENTE ESTADUAL. ISENÇÃO. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do recurso especial. Incide ao caso a Súmula 280/STF.
+2. Agravo interno não provido (AgInt no REsp n. 1.671.879/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 30/11/2017, DJe de 7/12/2017).
+Isso posto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
