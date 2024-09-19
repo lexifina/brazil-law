@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o r. JUÍZO FEDERAL DA 8ª VARA DE PORTO ALEGRE - SJ/RS, suscitante, e o E. Tribunal de Justiça do Estado do Rio Grande do Sul., suscitado.
+A controvérsia subjacente ao incidente em epígrafe envolve ação de repactuação de dívida com fundamento na Lei do Superendividamento ajuizada por Diego Luis Melo em face da Fundação Habitacional do Exército - FHE e outro(s) objetivando, em síntese, a limitação dos descontos dos valores devidos ao importe de 30% de sua renda mensal (3/14).
+Discutem, os juízos suscitados, acerca da competência para processar e julgar a referida demanda.
+É o relatório.
+Decisão.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. O incidente em análise se instaurou no âmbito de ação por meio da qual a requerente pretende a repactuação de suas dívidas com base nos arts. 104 e seguintes do CDC, com a redação dada pela Lei n.º 14.181/2021, no qual se discute se a competência para processar e julgar o feito é da Justiça Federal ou da Justiça Estadual e/ou Distrital.
+Acerca do tema, em pronunciamento da Segunda Seção, quando do julgamento do CC 193.066-DF, Dje de 31/03/2023, desta Relatoria, firmou se entendimento segundo o qual o procedimento judicial relacionado ao superendividamento, tal como o de recuperação judicial ou falência, possui inegável e nítida natureza concursal, impondo-se, dessa forma, a concentração, na Justiça comum estadual, de todos os credores, bem como o próprio consumidor para a definição do plano de pagamento, suas condições, o seu prazo e as formas de adimplemento dos débitos.
+Assim sendo, a competência para processar e julgar ação de repactuação de dívidas, em razão da necessidade de concentrar todas as decisões que envolvam os interesses e patrimônio do consumidor, a fim de não comprometer os procedimentos atinentes à tentativa de, preservado o mínimo existencial, o devedor possa solver suas obrigações financeiras.
+Na mesma linha de intelecção, vejam-se: CC 192140/DF, Rel. Min. João Otávio de Noronha, Dje de 16/05/2023; CC 197982 /SP, Rel. Min. Humberto Martins, DJe de 02/08/2023; CC 197979 /SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 01/08/2023; CC 197806 /AC, Rel. Min. Marco Aurélio Bellizze, Dje de 03/7/2023; CC 197194 /SP, Rel. Min. Maria Isabel Gallotti, DJe de 30/06/2023.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ e no parecer ministerial, conheço do presente conflito e, por conseguinte, declaro a competência do eg. Tribunal de Justiça do Estado do Rio Grande do Sul/RS , o suscitado.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
