@@ -1,0 +1,40 @@
+DECISÃO
+VALDEMIR CORDEIRO TRACZ alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. 0068196-64.2024.8.16.0000.
+A defesa busca a revogação da custódia provisória do paciente, decretada em decorrência do flagrante pela suposta prática dos delitos de tráfico de drogas e de adulteração de sinal de veículo automotor, por reputar ausentes os requisitos do art. 312 do CPP.
+Decido.
+O Juiz de primeiro grau homologou o flagrante e converteu a prisão em preventiva, em decisão assim fundamentada (fl. 54, destaquei):
+Com efeito, as condutas de transportar droga entre Estados da Federação, em grande quantidade (115,650 kg de substância entorpecente análoga à maconha e 110 g de substância entorpecente do tipo skunk), em um veículo com a placa adulterada, fazem indicar a gravidade em concreto das condutas praticadas e, desta circunstância, a periculosidade social dos flagrados, circunstância que recomenda a sua custódia cautelar para fins de acautelamento da ordem pública.
+Note-se que, em que pese serem os autuados primários, Valdemir foi preso em flagrante nos autos nº 0006034-68.2023.8.16.0129 por ter guardado 40 g (quarenta gramas) de crack e 25 (vinte e cinco gramas) de maconha. Na oportunidade, foi-se concedida liberdade provisória mediante cumprimento de medidas cautelares.
+Weverton foi preso nos autos nº 0002970-89.2023.8.16.0116 por ter guardado 44 g (quarenta e quatro gramas) de maconha, 03 g (três gramas) de crack e 26 g (vinte e seis gramas) de cocaína. Na ocasião, também lhe foi concedida liberdade provisória, o que não lhes impediu de voltarem a delinquir.
+Logo, vê-se que, soltos, é acentuado o risco de reiteração criminosa por parte dos increpados, tendo em conta o seu histórico de vida, ligado à prática de crime, a gravidade em concreto do delito e a quantidade da droga apreendida.
+O Tribunal de origem ratificou a decisão de primeiro grau, nos seguintes termos (fl. 21):
+Em se tratando de garantir a ordem pública (primeira parte do art. 312 do CPP),tal requisito foi preenchido, pois foram apreendidos mais de cem quilogramas de entorpecentes (maconha e skank), os policiais afirmaram que em entrevista pessoal os investigados informaram que tinham partido de Caarapó-MS e tinham como destino a cidade de Paranaguá(caracterizando o tráfico interestadual - e a distância entre as cidades é de aproximadamente880 quilômetros) e os investigados estavam conduzindo veículo com adulteração na placa de identificação.
+Além destas questões que dizem respeito aos fatos investigados, também foi informado pela autoridade coatora que o paciente estava em gozo de liberdade provisória desde o dia 14/07/2023, data da expedição do Alvará de Soltura nos Autos n.º 0006034-68.2023.8.16.0129 e cumprido no mesmo dia. Na ocasião, o paciente foi flagrado na posse de quarenta gramas de crack e dois gramas e meio de maconha, bem como uma balança de precisão (vide movs. 1.2, 1.7 e 1.9 dos Autos n.º 0006034-68.2023.8.16.0129).
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro R ogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe 16/5/2022).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessas premissas, verifico que se mostram suficientes as razões invocadas nas instâncias de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar da segregação.
+Com efeito, o Juízo singular consignou no decreto prisional a presença dos vetores contidos no art. 312 do Código de Processo Penal, com indicação de motivação suficiente e concreta para determinar a prisão preventiva do réu, ao salientar a expressiva quantidade de droga apreendida (115,650 kg de maconha e 110g de skank), que estava sendo transportada para outro estado da Federação, em um veículo com a placa adulterada.
+Além do risco de reiteração delitiva, uma vez que o paciente havia sido preso anteriormente pela suposta prática do delito de tráfico de drogas, oportunidade em que lhe foi concedida liberdade provisória, com a imposição de cautelares.
+Deveras, " a  jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade e/ou a natureza das drogas apreendidas e outras circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar a gravidade concreta do delito e, por conseguinte, justificar a custódia cautelar para a garantia da ordem pública" (AgRg no HC n. 652.004/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 22/4/2021, destaquei)
+No mesmo sentido:
+ ..
+3. Embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga (6 kg de cocaína) .
+4. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 167.731/CE, Rel. Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, 6ª T., DJe 20/4/2023)
+ ..
+1. Presentes elementos concretos para justificar a manutenção da prisão preventiva, para garantia da ordem pública. As instâncias ordinárias afirmaram que, em liberdade, os recorrentes representariam risco concreto à ordem pública em razão da gravidade concreta da conduta e a periculosidade dos agentes, evidenciadas a partir da elevada quantidade das drogas que estariam sendo transportadas - 55kg de maconha -, circunstâncias que demonstram maior envolvimento com o narcotráfico e o risco ao meio social.
+ ..
+(AgRg no RHC n. 172.667/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 9/3/2023)
+ ..
+2. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do CPP.
+3. Na espécie, o Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o fato de o insurgente haver sido surpreendido quando embarcava com destino a Doha, com conexão em Tiblissi, na Geórgia (EUA), com expressiva quantidade de droga (mais de 2 kg de cocaína), a revelar a prática de tráfico internacional de entorpecentes.
+4. Agravo regimental não provido.
+(AgRg no HC n. 795.218/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 3/4/2023)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do acusado.
+Por idênticos fundamentos, (art. 282, I, do Código de Processo Penal), a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais.
+A propósito: "T endo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (HC n. 745.982/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/9/2022).
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
