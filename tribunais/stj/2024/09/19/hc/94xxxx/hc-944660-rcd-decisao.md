@@ -1,0 +1,13 @@
+DECISÃO
+O presente pedido de reconsideração, apresentado por Jucelio Rocha de Lima (Petição n. 804.612/2024), da decisão de não conhecimento da impetração - ao fundamento de instrução deficiente: carece de cópia do acórdão hostilizado (que julgou improcedente a Revisão Criminal n. 0804159-22.2024.8.15.0000) (fl. 100) -, juntando cópia do ato processua l (fls. 105/117), comporta deferimento.
+Assim, a impetração - que busca redimensionar a pena de 4 anos, 10 meses e 1 dia de reclusão e 21 dias-multa por sonegação fiscal imposta na Ação Penal n. 0006436-84.2019.8.15.0011 (fls. 65/76 - da 4ª Vara Criminal da comarca de Campina Grande/PB), retificada em grau de apelação (fls. 51/63), com o afastamento da agravante da reincidência, e o abrandamento do regime inicial ou, subsidiariamente a redução de fração de agravamento -, deve ser conhecida.
+Entretanto, tem-se que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 13/3/2023 (fl. 112), o que afasta a competência desta Corte Superior para análise do pleito.
+Especialmente porque não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois:
+a) quanto à ocorrência do período depurador para configuração da reincidência, tem-se que a alegação nem sequer foi analisada pela Corte estadual no acórdão ora hostilizado - não tendo sido conhecido nos embargos declaratórios opostos, ao fundamento de ser inovação recursal: a tese sobre o período depurador dessas condenações passadas não foi veiculada inicialmente pela defesa do embargante (fl. 29) -, o que configuraria prestação jurisdicional em indevida supressão de instância;
+b) a existência de duas condenações anteriores - o requerente ostenta duas condenações anteriores, conforme ressaltado pelo magistrado de primeiro grau e pelo Tribunal, o que autoriza o incremento na pena em uma fração de (um terço) dela (fl. 115) - justifica a utilização da fração de agravamento da pena (AgRg no HC n. 791.590/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2023); e
+c) mantida a reprimenda corpórea (4 anos, 10 meses e 1 dia de reclusão), correta a fixação do regime inicial semiaberto (art. 33, § 2º, CP).
+Em razão disso, reconsidero a decisão de não conhecimento da impetração (fls. 100/101), para indeferir liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS NÃO CONHECIDO. SONEGAÇÃO FISCAL. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. DOSIMETRIA E REGIME. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Decisão reconsiderada. Inicial indeferida liminarmente.
