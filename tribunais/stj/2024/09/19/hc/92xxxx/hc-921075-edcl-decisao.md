@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Ana Lucia Leite à decisão, de minha lavra, em que deneguei o writ impetrado em seu favor pelos fundamentos sintetizados na seguinte ementa (fl. 158):
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CABIMENTO. USO DE DOCUMENTO FALSO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE QUE JUSTIFIQUE A SUPERAÇÃO DA INCOMPETÊNCIA DESTA CORTE PARA O EXAME DO WRIT.
+Ordem denegada.
+Argumenta a defesa da embargante que, com relação as vetoriais negativas, em que pese a afirmação de que se deve prezar pela discricionariedade do julgador, há vasta jurisprudência de relatoria de V. Exa. e desta Turma, no sentido de que a ilegalidade flagrante que enseja fundamentação inidônea, pode ser objeto de correção pela via dos Habeas Corpus. Cita, em favor do alegado, precedentes de minha relatoria, argumentado a existência de contradição com os referidos julgados.
+Alega, também, a existência de contradição no que se refere ao exame do pleito de reconhecimento de reformatio in pejus na fixação da pena, uma vez que, ao se entender que não houve apreciação sobre o tema, a ausência de manifestação do TJPE sobre o tema, caracterizaria nulidade por ausência de fundamentação, igualmente sanável por esta via (fl. 169).
+Requer, assim, o acolhimento dos aclaratórios, a fim de que sejam sanadas as contradições.
+É o relatório.
+A decisão não padece do vício aventado.
+A contradição que dá ensejo à oposição de embargos de declaração é interna ao julgado, ou seja, entre as premissas e as conclusões da própria decisão, sendo absolutamente descabido suscitar o vício com base em algum parâmetro externo ao julgado embargado, tais como outras decisões deste Tribunal.
+Ademais, afigura-se inadequada a utilização dos aclaratórios para rediscutir fundamentos da decisão hostilizada, com os quais a parte não concorda. Ao contrário do afirmado, não há contradição alguma na assertiva de que, não submetida a questão - reformatio in pejus - ao exame do Tribunal a quo, a sua apreciação por esta Corte Superior, implicaria em inadmissível supressão de instância.
+Ora, como cediço, o exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal). Ademais, a jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 24/09/2019, DJe 10/10/2019)" (STJ, AgRg no HC n. 666.908/SP, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/8/2021, DJe 20/8/2021) - (AgRg no HC n. 891.649/PI, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/5/2024, DJe 22/5/2024).
+Em face do exposto, ausentes vícios a serem sanados, rejeito os embargos de d eclaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. USO DE DOCUMENTO FALSO. ALEGAÇÃO DE CONTRADIÇÃO DO DECISUM COM A JURISPRUDÊNCIA DESTA CORTE NO QUE SE REFERE À DOSIMETRIA DA PENA E À ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. O VÍCIO QUE ENSEJA A OPOSIÇÃO DOS ACLARATÓRIOS DEVE SER INTERNO AO JULGADO (ENTRE AS PREMISSAS E AS CONCLUSÕES). EVIDENTE PRETENSÃO DE REEXAME DO JULGADO. MANIFESTA IMPROCEDÊNCIA.
+Embargos de declaração rejeitados.
