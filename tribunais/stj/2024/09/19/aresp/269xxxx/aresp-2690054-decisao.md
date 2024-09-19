@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Agravo apresentado por EMFLOTUR EMPRESA FLORIANOPOLIS DE TRANSPORTES COLETIVOS EM RECUPERACAO JUDICIAL LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO. AÇÃO DE INTERDITO PROIBITÓRIO, AFORADA JUNTO À VARA REGIONAL DE REC. JUDICIAIS, FALÊNCIAS E CONCORDATAS DA COMARCA DE FLORIANÓPOLIS, POR EMPRESA DE TRANSPORTE COLETIVO EM DESFAVOR DE SINDICATO DE TRABALHADORES. SENTENÇA NA QUAL FOI HOMOLOGADO PEDIDO DE DESISTÊNCIA DA AÇÃO, SEM A FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO (fl. 392).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 85 e 238 do CPC, no que concerne ao afastamento da sua condenação em honorários sucumbenciais, quando o pedido de desistência foi apresentado anteriormente à citação da parte ré, trazendo a seguinte argumentação:
+O acórdão vergastado negou vigência aos arts. 85 e 238 do CPC, ao condenar a autora ao pagamento de honorários sucumbenciais em caso no qual o pedido de desistência foi apresentado anteriormente à citação da parte ré.
+ ..
+Com efeito, a citação é o ato oficial de chamamento ao processo, marcando o termo inicial para apresentação de defesa e a efetiva prestação do serviço jurídico que dará causa ao pagamento de honorários.
+Outrossim, conforme dicção do art. 238 do CPC: "Citação é o ato pelo qual são convocados o réu, o executado ou o interessado para integrar a relação processual".
+Em verdade, não tendo ocorrido a citação, não se pode dizer que o réu integrou a relação processual. Por tal razão, não há racionalidade alguma na decisão que determinou a condenação ao pagamento de honorários em favor dos procuradores do réu (fls. 439/440).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Melhor sorte socorre o apelante no que toca à pretensa condenação da autora/apelada ao pagamento de honorários advocatícios sucumbenciais.
+Na decisão combatida, o douto magistrado de origem deixou de fixar verba honorária em favor do patrono do réu, ao fundamento, em suma, de que a peça contestatória foi ofertada antes da citação para a apresentação de defesa, o que, no seu entender, deslegitima a condenação da parte desistente ao pagamento das verbas de sucumbência.
+Com a devida vênia, tenho que merece reforma o decisum no ponto.
+Se por um lado não se chegou a concretizar a citação específica para a apresentação de defesa, de outro tem-se que a contestação digitalizada no evento 54 foi ofertada após a citação do réu para comparecer à audiência de justificação prévia e antes do requerimento de desistência da ação pela autora (evento 60).
+Ou seja, ainda que se desconsidere a citação para a audiência de justificação prévia, é certo que ao apresentar contestação, o apelante compareceu espontaneamente no feito, ato este o qual supre o ato citatório, conforme disposição expressa do artigo 239, § 1º, da Lei Processual Civil, in verbis: "O comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução."
+Sob tal perspectiva, não procede a conclusão de que a desistência da ação teria ocorrido antes da citação, o que justificaria a isenção da autora dos ônus de sucumbência.
+Desse modo, não vislumbro razão para se afastar a incidência da regra insculpida no art. 90, caput, do CPC, segundo o qual: "Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu .".
+ ..
+Nota-se, ademais, que quando da formulação do pedido de desistência pela demandante, o advogado do réu/apelante já houvera: I) comparecido à audiência de justificação prévia; e II) ofertado contestação.
+Dado o inequívoco trabalho desenvolvido pelo profissional contratado em razão do processo ajuizado pela autora, imperativa, também sob esse viés, a condenação desta, enquanto desistente, a arcar com a remuneração devida ao respectivo causídico, por força do princípio da causalidade.
+ ..
+E mais recentemente, inclusive, a Corte da Cidadania teve oportunidade de decidir que o direito de defesa surge para o demandado imediatamente após o exercício do direito de ação pelo acionante, reputando legítimo o exercício do direito de defesa de forma espontânea, indepententemente da citação:
+ ..
+Por tais razões, deve ser reformada a sentença objurgada no ponto, de modo a condenar- se a autora/apelada ao pagamento de honorários em favor do advogado do réu/apelante (fls. 389/390).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência n a sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ademais, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
