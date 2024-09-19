@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por AGATA CATARINNE DE ARAUJO CHAGAS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, que inadmitiu o recurso especial interposto à vista de acórdão proferido na Apelação Criminal nº 0010089-52.2018.8.14.0401, assim ementado (fl. 492):
+APELAÇÃO - ART. 157, § 2º, INCISO II DO CPB - DIMINUIÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL - REQUER A APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTANEA AQUEM DO MÍNIMO LEGAL - IMPROCEDÊNCIA - Pena-base fixada em 04 (quatro) anos e 09 (nove) meses de reclusão de reclusão e 30 dias-multa, ante a existência de vetor negativo fundamentado, referente a culpabilidade. Atenuada para 04 (quatro) anos de reclusão e 10 (dez) dias-multa, mínimo legal, pela confissão espontânea, não podendo diminuir aquém desse quantum em observância a Súmula 231 do STJ. Na terceira fase aplicado o emprego do concurso de pessoas, elevando-a em 1/3 (um terço), resultando a reprimenda em 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa, nos termos das disposições legais pertinentes - RECURSO CONHECIDO E IMPROVIDO. UNANIMIDADE.
+O juízo de primeiro grau condenou a agravante como incursa no art. 157, caput, do Código Penal a 05 (cinco) anos e 03 (três) meses de reclusão, em regime inicial semiaberto, além de 51 (cinquenta e um) dias-multa (fls. 441-445).
+A Corte de origem negou provimento ao apelo defensivo (fls. 491-500).
+Nas razões do recurso especial, fundamentado na alínea "a" do permissivo constitucional, a Defesa aponta contrariedade ao art. 59 Código Penal, ao argumento de que a valoração negativa da circunstância judicial relacionada à culpabilidade do acusado não se encontra amparada em fundamentos idôneos.
+Aduz que o incremento de fração superior a 1/6 (um sexto) para cada uma das vetoriais tidas como negativas é desproporcional e excessivamente gravoso.
+Contrarrazões pelo Parquet estadual (fls. 510-517).
+O Tribunal a quo inadmitiu o recurso especial com base na incidência da Súmula n. 83/STJ (fls. 518-522), fundamento oportunamente infirmado pela parte agravante (fls. 523-530).
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (fls. 555-558).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+Inicialmente, no que diz respeito à valoração negativa da vetorial culpabilidade do acusado, o acórdão apelatório encontra-se assim fundamentado (fls. 493-494 - grifamos):
+No tocante a pena-base, verifica-se que o juízo singular fixou em 06 (seis) anos de reclusão e 60 dias-multa, ante a existência de duas circunstancias negativas: culpabilidade, assim fundamentando: pois ela premeditou detidamente o delito, ardilosamente fingiu ser uma cliente para poder entrar em um salão de beleza, subjugou diversas mulheres que trabalhavam e que eram clientes do local, sendo que esses fatos demonstram ousadia a maior gravidade da conduta e, consequentemente, ensejam maior reprovação; (circunstância negativa); bem como valorou negativa a circunstância desfavorável: circunstancias do delito, fundamentando: pois a ré armou-se com tesoura e com um simulacro de pistola, fez ameaças de morte e travou luta corporal com duas vítimas, momento em que desferiu golpes de tesoura e mordida nelas causando nas ofendidas as lesões corporais descritas nos laudos de fls. 66/67.
+Como é cediço, em razão do amplo efeito devolutivo da apelação, desde que não majore a pena já fixada, o tribunal ad quem pode proceder nova análise das circunstâncias judiciais, como no caso dos autos, em que vislumbra a maior reprovabilidade da conduta.
+ ..
+Assim, da análise dos autos constata-se que a dosimetria questionada da pena-base fora proferida atendendo as disposições legais pertinentes, fixada acima do mínimo legal em razão da existência de vetor negativo fundamentado, estando proporcional ao caso concreto e nos termos da Súmula 23 deste Egrégio Tribunal.
+Como se percebe dos excertos trazidos à baila, o desvalor da circunstância judicial em voga decorreu do ardil empregado pela agente, que premeditou a conduta, fazendo-se passar por cliente do estabelecimento para, adentrando ao local, subjugar diversas outras pessoas.
+Acerca da questão, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que a premeditação e o ardil constituem fundamentos idôneos para o incremento da pena basilar.
+Nesse sentido:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. OFENSA AO ART. 226 DO CPP. CONDENAÇÃO BASEADA EM RECONHECIMENTO FOTOGRÁFICO. PRESENÇA DE OUTRAS PROVAS PARA A MANTENÇA DE CONDENAÇÃO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MOTIVAÇÃO CONCRETA DECLINADA PARA FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. AGRAVO DESPROVIDO.
+ ..
+5. A premeditação do crime é fundamento idôneo para justificar a majoração da pena pela culpabilidade do réu, porquanto o fato de ter premeditado o crime desborda do tipo penal.
+6. Deve ser afastada a valoração negativa dos processos em andamento na dosagem das penas do três delitos, sendo, porém, descabido falar em redução da pena-base ao mínimo legal.
+7. Agravo regimental desprovido. (AgRg no AgRg no HC 862570/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 02/09/2024, DJe de 06/09/2024 - grifamos)
+EMENTA AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. ROUBO MAJORADO. DOSIMETRIA DA PENA. PENA-BASE. CULPABILIDADE DO AGENTE. ELEMENTOS CONCRETOS. FUNDAMENTAÇÃO IDONÊA. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A fixação da pena está inserida dentro do critério de discricionariedade do juiz, vinculado às circunstâncias específicas do caso concreto e às características subjetivas do agente, podendo ser revista por este Tribunal Superior apenas nos casos de desrespeito aos limites legais ou evidente desproporcionalidade.
+2. Na hipótese, a circunstância judicial da culpabilidade do agente foi desfavoravelmente avaliada com justificativa idônea, baseada em elementos concretos, a saber: a premeditação do delito e a divisão de tarefas entre os acusados. Precedentes.
+3. Modificar o entendimento adotado pela Corte de origem demandaria nova análise do conjunto probatório dos autos, situação vedada pela Súmula n. 7/STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 2595617/CE, de minha relatoria, Sexta Turma, julgado em 27/08/2024, DJe de 02/09/2024)
+Outrossim, no atinente ao quantum de incremento da pena-base pelo desvalor das duas vetoriais tidas como negativas - culpabilidade e circunstâncias do crime - percebe-se da leitura do acórdão recorrido que o Tribunal a quo não se debruçou sobre a matéria, não tendo a parte recorrente opostos os embargos de declaração.
+Destarte, resta evidente a ausência do indispensável prequestionamento e, por conseguinte, atrai os óbices das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido: AgRg no REsp 2114650/PR, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024 e AgRg nos EDcl no AREsp 1619760/PE, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2024, DJe de 18/3/2024.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
