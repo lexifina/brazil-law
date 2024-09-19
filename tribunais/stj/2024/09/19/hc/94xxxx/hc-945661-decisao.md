@@ -1,0 +1,12 @@
+DECISÃO
+WILLIAM JUNIOR RIBEIRO DE OLIVEIRA, condenado definitivamente por roubos circunstanciados, receptação e associação criminosa, alega sofrer coação ilegal diante de acórdão prolatado na Apelação n. 0003679-52.2012.8.26.0595, em 2/9/2021.
+Neste habeas corpus, a defesa pleiteia a revisão da dosimetria da pena. Contesta o percentual utilizado na terceira fase da individualização da pena, em razão do número de majorantes e requer sua redução ao mínimo legal.
+Decido.
+De início, observo que este habeas corpus se insurge contra acórdão de apelação proferido em 2/9/2021, há anos transitado em julgado.
+Com o aumento do uso indevido do remédio constitucional para contestar condenações definitivas, em detrimento das garantias da coisa julgada e do juiz natural (competência previamente estabelecida em lei para o processamento da revisão criminal), esta Corte começou a rejeitar habeas corpus substitutivas da ação revisional, para preservar a finalidade do remédio constitucional.
+Assim, em regra, "depois de já transitada em julgado a condenação, revela-se inviável  o uso do remédio constitucional , notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal  ..  (AgRg no HC n. 713.747/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 24/2/2022).
+Na mesma direção, cito, ainda, o AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024) e as seguintes decisões monocráticas: HC n. 905.628/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, relatora Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, relator Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, relator Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Destaco que, de plano, não identifiquei nenhuma ilegalidade evidente e inaceitável que justificasse a concessão da ordem de ofício. O acórdão de apelação, diante de duas majorantes do roubo (art. 157, § 2º, I e II, do CP), enfatizou o uso de "diversas armas de fogo de alto calibre, um número excessivo de agentes - pelo menos doze - e o emprego de explosivos letais" (fl. 121, destaquei), para manter o aumento da pena em fração maior que o mínimo na terceira etapa da dosimetria.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
