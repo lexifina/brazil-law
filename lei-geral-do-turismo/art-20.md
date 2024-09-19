@@ -13,6 +13,8 @@ XI - recuperação de crédito de operações honradas garantidas indiretamente 
 XII - taxa de administração e de comissão de concessão de garantia;
 XIII - contratação de empréstimos internacionais; e
 XIV - recursos de emendas parlamentares.
-§ 1º A operacionalização do Novo Fungetur deverá ser feita por intermédio de agentes financeiros credenciados.
+§ 1º A operacionalização do Novo Fungetur poderá ser realizada por meio de:
+I - agentes financeiros credenciados; e
+II - descentralizações não-reembolsáveis para Municípios, Estados e Distrito Federal, inclusive para fundos desses entes, nos casos de recursos oriundos de emendas parlamentares, com vistas à execução de ações relacionadas a planos, projetos e ações para o desenvolvimento do turismo aprovados pelo Ministério do Turismo, na forma estabelecida em regulamento.
 § 2º É vedada a participação societária do Fungetur, mediante subscrição de ações ou quotas, em qualquer empresa da cadeia produtiva do turismo, excetuada a aquisição de cotas dos fundos de investimento referidos no inciso VII do caput do art. 16 desta Lei, observadas as normas pertinentes do Conselho Monetário Nacional e da Comissão de Valores Mobiliários.
 § 3º (VETADO).

@@ -1,1 +1,1 @@
-Art. 35. O Ministério do Turismo, no âmbito de sua competência, fiscalizará o cumprimento desta Lei por toda e qualquer pessoa, física ou jurídica, que exerça a atividade de prestação de serviços turísticos, cadastrada ou não, inclusive as que adotem, por extenso ou de forma abreviada, expressões ou termos que possam induzir em erro quanto ao real objeto de suas atividades.
+Art. 35. O Ministério do Turismo, no âmbito de sua competência, fiscalizará o cumprimento do disposto nesta Lei.
