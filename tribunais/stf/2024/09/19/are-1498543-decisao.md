@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pelo Ministério Público do Estado de Santa Catarina, em face do acórdão do Tribunal de Justiça Estadual assim ementado:
+
+    “RECURSO EM SENTIDO ESTRITO - HOMICÍDIO SIMPLES (CP, ART. 121, CAPUT), POR DUAS VEZES - DECISÃO DE PRONÚNCIA - RECURSO DO ACUSADO. PLEITO DE DESCLASSIFICAÇÃO PARA A FIGURA CULPOSA - POSSIBILIDADE - AUSÊNCIA DE ELEMENTOS INDICADORES DO DOLO EVENTUAL - RÉU QUE, NA DIREÇÃO DE VEÍCULO AUTOMOTOR E APÓS A INGESTÃO DE BEBIDA ALCOÓLICA, INVADE A PISTA CONTRÁRIA E PROVOCA ACIDENTE LEVANDO A ÓBITO AS VÍTIMAS - AUSÊNCIA DE CIRCUNSTÂNCIAS EXCEDENTES AO TIPO - NÍTIDA VIOLAÇÃO DO DEVER DE CUIDADO OBJETIVO, INERENTE AO TIPO CULPOSO - DESCLASSIFICAÇÃO - VEDAÇÃO DA APRECIAÇÃO PELO JÚRI - PRECEDENTES - DEMAIS TESES ARGUIDAS PELO RECORRENTE (NULIDADE PELA PERMANÊNCIA DO INQUÉRITO, ILICITUDE DO TESTE DE ALCOOLEMIA E CULPA EXCLUSIVA DA VÍTIMA) - INCONFORMISMOS PREJUDICADOS - TEMAS A SEREM APRECIADOS PELO JUÍZO EFETIVAMENTE COMPETENTE, PRELIMINARMENTE À ESTA CORTE DE JUSTIÇA. I - É possível, em crimes de homicídio na direção de veículo automotor, o reconhecimento do dolo eventual na conduta do autor, desde que se justifique tal excepcional conclusão com base em circunstâncias fáticas que, subjacentes ao comportamento delitivo, indiquem haver o agente previsto o resultado morte e a ele anuído. Contudo, o que normalmente acontece (id quod plerunque accidit), nas situações em que o investigado descumpre regras de conduta do trânsito viário, é concluir-se pela ausência do dever de cuidado objetivo, elemento caracterizador da culpa (stricto sensu), sob uma de suas três possíveis modalidades: a imprudência (falta de cautela e zelo na conduta), a negligência (desinteresse, descuido, desatenção no agir) e a imperícia (inabilidade, prática ou teórica, para o agir). Nem sempre, é certo, essa falta de observância de certos cuidados configura tão somente uma conduta culposa. Há situações em que, claramente, o comportamento contrário ao Direito traduz, em verdade, uma tácita anuência a um resultado não desejado, mas supostamente previsto e aceito, como por exemplo nos casos de "racha", mormente quando a competição é assistida por populares, a sugerir um risco calculado e eventualmente assumido pelos competidores (que preveem e assumem o risco de que um pequeno acidente pode causar a morte dos circunstantes) (STJ, REsp 1777793/RS, rel. Min. Nefi Cordeiro, j. 15.08.2019). II - A embriaguez do agente condutor do automóvel, sem o acréscimo de outras peculiaridades que ultrapassem a violação do dever de cuidado objetivo, inerente ao tipo culposo, não pode servir de premissa bastante para a afirmação do dolo eventual. Conquanto tal circunstância contribua para a análise do elemento anímico que move o agente, não se ajusta ao melhor direito presumir o consentimento do agente com o resultado danoso apenas porque, sem outra peculiaridade excedente ao seu agir ilícito, estaria sob efeito de bebida alcoólica ao colidir seu veículo contra o automóvel conduzido pela vítima (STJ, REsp 1689173/SC, rel. Min. Rogério Schietti Cruz, j. 21.11.2017). III - Limitando-se o Tribunal a definir a competência de um juízo em detrimento de outro para processar e julgar o caso, descabe à Corte avançar na apreciação de questões outras, as quais, agora em diante, restam reservadas a quem de direito, isto é, ao novo juízo declinado. RECURSO CONHECIDO EM PARTE E PROVIDO.”
+
+    Na minuta, sustenta-se violação do art. 5º, XXXVIII, “d”, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso, embora vinculador de tema muito relevante, não comporta provimento, em face de óbices processuais.
+
+    Da análise dos autos verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. ART. 5°, XXXVIII, d, DA CF. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos. Óbice da Súmula 279/STF. IV - Agravo regimental a que se nega provimento. (ARE 1.106.179- AgR/MG, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe 30.4.2018).
+
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ofensa reflexa à Constituição. Precedentes. Pretendida desclassificação da conduta delituosa. Reexame de fatos e provas, inviável na via extraordinária, a teor da Súmula nº 279. Agravo não provido. 1. A jurisprudência da Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República. 2. Pressupõe o reexame de fatos e provas, não admitido na via extraordinária, a teor da Súmula nº 279/STF, avançar na análise da pretendida desclassificação do crime de peculato para o de apropriação indébita. 3. Agravo regimental a que se nega provimento.” (ARE 827.045/DF-AgR, 2ª Turma, Rel. Min. Dias Toffoli, DJe 13.4.2016)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 19 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
