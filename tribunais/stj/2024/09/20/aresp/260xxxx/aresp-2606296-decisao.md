@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ADAIR CARLOS MIETH contra a decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. SEGURO DE VIDA EM GRUPO. AÇÃO DE COBRANÇA. INVALIDEZ PARCIAL PERMANENTE POR ACIDENTE. GRADUAÇÃO DA LESÃO. INDENIZAÇÃO SECURITÁRIA. COMPLEMENTAÇÃO INDEVIDA. DEVER DE INFORMAÇÃO OBSERVADO. CRITÉRIOS DE CORREÇÃO DO VALOR DACONDENAÇÃO. ÔNUS SUCUMBENCIAIS.
+1. As insurgências recursais versam quanto ao cabimento de indenização integral para a cobertura envolvendo invalidez parcial permanente, critérios de correção do valor da condenação e ônus sucumbenciais.
+2. Nos contratos de seguro, de regra, existindo as condições estabelecidas no contrato e não havendo dolo ou má-fé do segurado para a implementação do risco e obtenção da referida indenização, impõe-se o pagamento da obrigação assumida pela seguradora nos limites contratados e condições acordadas. Ainda, é cabível a aplicabilidade do Código de Defesa do Consumidor, eis que se trata de relação de consumo, conforme disposto no § 2º do artigo 3º do Código de Defesa do Consumidor.
+3. Na proposta de seguro, que foi devidamente assinada pelo segurado, consta que a cobertura para a garantia de Invalidez Permanente Total Por Acidente - caso em exame - seria de até 100% do capital segurado da cobertura morte, sendo cabível a aplicação da redução no valor da cobertura, conforme a graduação da invalidez efetivada. Dever de informação observado.
+4. O valor da indenização deve ter como base o capital segurado vigente à época do sinistro, sendo aquele o termo inicial para a incidência de atualização monetária, que também consta nas condições gerais do seguro. Mantido o índice fixado pelo juízo, eis que inexistente recurso sobre o ponto, podendo resultar prejuízo ao apelante a adoção do índice previsto no contrato. Juros na forma constante no contrato.
+5. Não é de se adotar o princípio da causalidade na fixação dos ônus sucumbenciais pelo fato de a parte autora não ter postulado a cobertura securitária de forma administrativa, eis que caberia a extinção do processo, caso adotado tal entendimento, por falta de interesse. Na hipótese em comento em que a parte demandada suportou sucumbência mínima, deve o demandante arcar com custas e honorários, a teor do disposto no art. 86, parágrafo único do CPC.
+DERAM PARCIAL PROVIMENTO AO RECURSO DE APELAÇÃO" (e-STJ fls. 555/556).
+No especial (e-STJ fls. 564/570), o recorrente aponta violação dos artigos 47 e 54, § 4º, do Código de Defesa do Consumidor.
+Aduz que está comprovada nos autos a sua incapacidade fazendo jus ao recebimento integral da cobertura prevista para a invalidez permanente.
+Afirma que a seguradora afrontou o dever de informação ao não levar ao conhecimento do segurado as cláusulas contratuais limitativas, que não estão redigidas de forma clara e em destaque, de modo que não teve a exata ciência da extensão da indenização.
+Sustenta que o contrato deve ser interpretado de forma mais benéfica ao consumidor
+Ao final, requer o provimento do recurso.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De acordo com o Tribunal de origem:
+"(..) consta a assinatura e ciência do segurado com os termos ali constantes, sendo que, para o plano contratado (Individual) resta expresso que o percentual de cobertura para a garantia de Invalidez Permanente Total Por Acidente - caso em exame - seria de até 100% do capital segurado da cobertura morte, ou seja, de 100% do capital segurado de R$ 25.000,00, vigente à época da contratação (novembro de 2017). Quando da ocorrência do sinistro em análise (01.06.2020 - ev. 1, outr5, p., 1), o valor do capital segurado vigente era de R$ 26.887,54 (outr10, evento 11), com informações vigentes a partir de 06.11.2019, ao que se deduz do documento acostado. Desta forma, do capital segurado, deve ser aplicado o percentual da invalidez apurado em perícia médica.
+Como se percebe, consta assinatura com declaração do proponente de que, conforme ali descrito, " .. "  ..  tive prévio e expresso conhecimento e estou de acordo com os termos das Condições Contratuais do SICREDI Seguro Mais em vida e estou ciente de que a íntegra das Condições Contratuais encontra-se disponível nas Cooperativas do SICREDI. .. ".
+Ou seja, não há como se entender que o segurado não teve ciência da existência de graduação para a cobertura em exame, pois expressamente consta na Proposta que a cobertura seria de "até" 100%, o que denota que existiria graduação quanto ao grau de invalidez verificada. Nesse passo, não houve violação ao disposto nos artigos 6º, III, 47, 51, 54 do Código de Defesa do Consumidor mesmo se considerarmos a inversão do ônus da prova, conforme inciso VIII do art. 6ºdo aludido Código.
+Ademais, não se afigura nem mesmo razoável que o segurado, apresentando invalidez parcial em percentual não significativo, receba o valor máximo da cobertura securitária, beirando à hipótese de se configurar enriquecimento sem causa, do que resultaria infringida a boa-fé contratual entre as partes" (e-STJ fl. 552).
+Dessa forma, a alteração das conclusões do acórdão, nos moldes pretendidos pelo recorrente, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial por força das Súmulas nºs 5 e 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de cobrança de indenização securitária.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A cobertura securitária de Invalidez Funcional Permanente Total por Doença (IFPD) condiciona-se à verificação da incapacidade do segurado que lhe provoque a perda de sua existência independente, ou seja, a irreversível inviabilidade do pleno exercício de suas relações autonômicas, cobertura essa que não se confunde - também - com a de Invalidez Laborativa Permanente Total por Doença. Súmula 568/STJ.
+4. Alterar o decidido no acórdão impugnado, no que se refere à conclusão, por meio de perícia, de que o agravante não apresenta características incapacitantes para atividades da vida diária (e-STJ, fl. 879), da ausência de contratação em relação à hipótese de invalidez laborativa total permanente por doença (e-STJ, fl. 884), bem como da ausência de mácula no dever de informação na situação dos autos, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5. Agravo interno não provido."
+(AgInt no AREsp n. 2.485.721/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
