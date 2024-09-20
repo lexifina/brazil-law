@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S/A (BRADESCO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BRADESCO alegou a violação dos arts. 1.022 do NCPC e 22, § 2º da Lei nº 8.906/1994 , ao sustentar que (1) omisso o acórdão em relação ao contrato de honorários firmado entre as partes, em especial a forma de pagamento em caso de rescisão, ressaltando-se que não houve qualquer anulação do contrato. (2) Afirma não ser possível alterar a forma de pagamento de honorários de êxito consagrada em um contrato válido e que não foi anulado. Menciona julgados em apoio a sua tese.
+(1) Da ausência de violação do art. 1.022 do NCPC
+Verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando:
+No caso, verifica-se que o contrato firmado pelas partes era um contrato de êxito, com regras definidas em termos de marcos processuais e temporais para a eventual remuneração da parte autora, bem como que, além dos eventuais valores quitados a título de "adiantamento" (distribuição ou ultrapassagem de determinada etapa processual), o valor referente ao êxito seria quitado após a apuração do "Benefício Econômico" auferido em proveito da requerida.
+Neste particular, verifica-se que o arbitramento é plenamente possível para remunerar os serviços advocatícios efetivamente prestados pela banca de advogados até a rescisão unilateral.
+Isto porque, no caso, os honorários contratuais de remuneração por etapas se assemelham aos honorários , que nada tem a ver com os honorários ad exitum judiciais decorrentes dos serviços advocatícios efetivamente prestados pelo autor/apelante no curso dos processos judiciais Ressalta-se ainda, que consta nas minutas que o pedido inaugural da parte autora era o arbitramento de 18% (dezoito por cento) sobre o valor atualizado da causa nos referidos processos.
+Assim, as condições para o recebimento de valores não foram implementadas e não há que se falar em execução do título, não havendo, ainda que se falar em arbitramento no percentual de 18% (dezoito por cento), conforme aditivo na medida em que a cláusula estabelecida no item 6.6, "i" do contrato que estabeleceu que "Pelos serviços prestados a contratada fará jus aos valores adiante mencionados, entretanto sempre limitados ("Teto") ao valor de R$101.772,00 (cento e um mil, setecentos e setenta e dois reais) por processo ou caso não seja ajuizado, por acordo extrajudicial, respeitadas as exceções e regras previstas neste "Contrato".
+Assim, necessário se torna a análise do termo de quitação juntado na contestação.
+ ..
+Assim, os honorários devem ser arbitrados, não de acordo com a alínea "a" do contrato firmado entre as partes, mas, sim, levando em consideração o disposto no artigo 22, caput, e o § 2º do Estatuto da Ordem dos Advogados do Brasil:
+ ..
+Desta forma, embora a instituição financeira já tenha efetuado pagamentos parciais por trabalhos executados pelo autor/apelante, este faz jus ao recebimento dos honorários advocatícios, sendo que o arbitramento deve observar a extensão da atuação profissional na defesa do requerido, dentre outras peculiaridades, tais como: a complexidade da causa, a dedicação do advogado, o tempo despendido, bem como o com o princípio da razoabilidade e da proporcionalidade, a fim de recompensá-lo pelo trabalho realizado. E, conforme se observa dos documentos acostados aos autos, o autor/apelante desempenhou os trabalhos para os quais foi contratado até a rescisão do contrato pelo requerido.
+ ..
+Desse modo, observando-se o disposto no §2º do art. 22 da Lei nº 8.906/94 e levando-se em consideração a natureza da demanda objeto desta ação, sendo ela uma única execução, o tempo despendido pelo advogado, o zelo na defesa da instituição financeira contratante, o local da prestação dos serviços (Cuiabá/MT), tenho que deve ser majorado o valor fixado na sentença para (cinco por cento) do valor da causa5% atualizada (e-STJ, fls. 1.008/1.010)
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(2) Dos honorários contratuais
+Sobre a questão, os julgadores assim consideraram:
+ ..  as condições para o recebimento de valores não foram implementadas e não há que se falar em execução do título, não havendo, ainda que se falar em arbitramento no percentual de 18% (dezoito por cento), conforme aditivo na medida em que a cláusula estabelecida no item 6.6, "i" do contrato que estabeleceu que "Pelos serviços prestados a contratada fará jus aos valores adiante mencionados, entretanto sempre limitados ("Teto") ao valor de R$101.772,00 (cento e um mil, setecentos e setenta e dois reais) por processo ou caso não seja ajuizado, por acordo extrajudicial, respeitadas as exceções e regras previstas neste "Contrato".
+ ..
+Assim, os honorários devem ser arbitrados, não de acordo com a alínea "a" do contrato firmado entre as partes, mas, sim, levando em consideração o disposto no artigo 22, caput, e o § 2º do Estatuto da Ordem dos Advogados do Brasil:
+ ..
+Desta forma, embora a instituição financeira já tenha efetuado pagamentos parciais por trabalhos executados pelo autor/apelante, este faz jus ao recebimento dos honorários advocatícios, sendo que o arbitramento deve observar a extensão da atuação profissional na defesa do requerido, dentre outras peculiaridades, tais como: a complexidade da causa, a dedicação do advogado, o tempo despendido, bem como o com o princípio da razoabilidade e da proporcionalidade, a fim de recompensá-lo pelo trabalho realizado. E, conforme se observa dos documentos acostados aos autos, o autor/apelante desempenhou os trabalhos para os quais foi contratado até a rescisão do contrato pelo requerido.
+ ..
+Desse modo, observando-se o disposto no §2º do art. 22 da Lei nº 8.906/94 e levando-se em consideração a natureza da demanda objeto desta ação, sendo ela uma única execução, o tempo despendido pelo advogado, o zelo na defesa da instituição financeira contratante, o local da prestação dos serviços (Cuiabá/MT), tenho que deve ser majorado o valor fixado na sentença para (cinco por cento) do valor da causa5% atualizada (e-STJ, fls. 1.008/1.010)
+Esta Corte tem entendimento no sentido de que, nos termos da jurisprudência desta Corte, quando a revogação do mandato ocorre por iniciativa do constituinte (mandante), é facultado ao advogado mandatário propor ação de arbitramento judicial dos honorários advocatícios contratuais, ainda que avençados sob a cláusula ad exitum (AgInt no AREsp n. 338.397/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/3/2020, DJe de 6/4/2020.)
+Ainda assim:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. DESTITUIÇÃO DO PATRONO ANTES DO TÉRMINO DO PROCESSO. DIREITO AO ARBITRAMENTO.
+1. Consoante previsto no art. 22 da Lei n. 8.906/1994, "a prestação de serviço profissional assegura aos inscritos na OAB o direito aos honorários convencionados, aos fixados por arbitramento judicial e aos de sucumbência", sendo certo que "na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão" (§ 2º).
+2. "O Estatuto da Advocacia assegura o direito do advogado ao recebimento dos honorários da sucumbência. Rompido pelo cliente o contrato de prestação de serviços, impedindo o advogado de levar até o fim a causa sob seu patrocínio, não encerrado, portanto, o processo, cabível o pleito de arbitramento de honorários na proporção dos serviços prestados até então." (REsp 782.873/ES, Relator Ministro Carlos Alberto Menezes Direito, Terceira Turma, julgado em 06/04/2006, DJ 12/06/2006) 3. Agravo regimental não provido.
+(AgRg no AREsp n. 492.408/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/6/2015, DJe de 3/8/2015.)
+Assim, não prospera a irresignação.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de GALERA MARI, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. CONTRATO FIRMADO ENTRE AS PARTES. POSSIBILIDADE. AGRAVO CONHECIDO. NEGADO PROVIMENTO AO RECURSO ESPECIAL.
