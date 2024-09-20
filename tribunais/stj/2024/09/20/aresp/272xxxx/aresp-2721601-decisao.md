@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto em favor de CARLOS RODRIGUES OLIVEIRA.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CRFB, visa reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado (e-STJ, fls. 778-780):
+"APELAÇÃO CRIMINAL - CONDENAÇÃO PELA PRÁTICA DO CRIME PREVISTO NO ARTIGO 171, CAPUT, DO CÓDIGO PENAL - PRELIMINAR DE DECADÊNCIA DE REPRESENTAÇÃO - INACOLHIDA - VÍTIMA (BANESE - ADMINISTRAÇÃO PÚBICA INDIRETA) - APLICABILIDADE DO §5º, I, DO ART. 171, DO CP - MÉRITO - NÃO ACOLHIMENTO DO P L E I T O D E ABSOLVIÇÃO - ALEGAÇÃO DE AUSÊNCIA DE PROVAS - NÃO CABIMENTO - MATERIALIDADE E AUTORIA COMPROVADAS - ACERVO PROBATÓRIO ROBUSTO - ELEMENTOS PROBATÓRIOS QUE DEMONSTRAM A EXISTÊNCIA DE FRAUDE, COM VONTADE CONSCIENTE, PARA OBTENÇÃO DE VANTAGEM PECUNIÁRIA EM PREJUÍZO DE TERCEIRO - DELITO CARACTERIZADO - DOSIMETRIA IRRETORQUÍVEL. APELO CONHECIDO E DESPROVIDO. 1. In casu, a vítima é o Banco Banese (sociedade de economia mista), configurando-se em Administração Pública Indireta, aplicação do inciso I, do §5º, do art. 171 do CP. Preliminar de decadência de representação afastada. Ação Penal Pública Incondicionada; 2. Decisão condenatória apoiada em vetores cognitivos sólidos que denotam a autoria e a materialidade delitivas. Condenação Mantida; 3. Recurso conhecido, para rejeitar a preliminar suscitada e negar-lhe provimento."
+Em suas razões recursais, a defesa aponta violação ao art. 171, §5º, do Código Penal e ao art. art. 386, VII, do Código de Processo Penal.
+Aduz para tanto, em síntese, que "a vítima não foi a instituição bancária do BANESE, mas sim o indivíduo que seria beneficiado no Alvará Judicial, o que viabiliza a extinção da punibilidade pela decadência do direito de representação da vítima, nos termos do art. 171, §5º, do CP." (e-STJ, fl. 792).
+Subsidiariamente, defende que não há elementos concretos e seguros que demonstrem a materialidade do delito, principalmente diante da ausência de perícia no documento impugnado e da autorização expressa do advogado Marcos André para levantamento do alvará. Sustenta que " o  fato de o recorrente sacar o alvará, apresentando a ordem de levantamento e a autorização de saque pelo advogado da causa, faz afastar o animus caracterizador do tipo penal imputado, devendo o acusado ser absolvido." (e-STJ, fl. 793).
+Com contrarrazões (e-STJ, fls. 797-808), o recurso especial foi inadmitido na origem (e-STJ, fls. 811-816), ao que se seguiu a interposição de agravo (e-STJ, fls. 821-826).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do agravo (e-STJ, fls. 847-849).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, o recurso especial não foi admitido por óbice da Súmula 7 do STJ.
+Todavia, referido fundamento não foi refutado adequadamente pelo agravante.
+O agravo apenas repisa os argumentos do recurso especial, trazendo razões genéricas de inconformismo, de que não seria necessário reexaminar as provas dos autos, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo.
+Para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não ocorreu na hipótese.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. OFENSA NÃO CONFIGURADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. São insuficientes, para rebater a incidência da Súmula n. 7 do STJ, assertivas genéricas de que a apreciação do recurso não demanda reexame de provas. O agravante deve demonstrar, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos (ut, REsp n. 2.082.894/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/8/2023).
+ ..
+5. Agravo regimental não provido."
+(AgRg no AREsp 2520436 / SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/05/2024, DJe 20/05/2024; negritou-se.)
+"DIREITO PENAL. PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E USO DE ARMA DE FOGO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NULIDADE DE RECONHECIMENTO PESSOAL E PARTICIPAÇÃO DE MENOR IMPORTÂNCIA NÃO DEBATIDAS PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356, AMBAS DO STF. ALEGADA INSUFICIÊNCIA DE PROVAS. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DEVIDAMENTE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONDENAÇÃO POR ROUBO MAJORADO. INVIABILIDADE DE EXCLUSÃO DA CAUSA DE AUMENTO POR AUSÊNCIA DE APREENSÃO DA ARMA QUANDO DEMONSTRADA SUA UTILIZAÇÃO POR OUTRAS PROVAS. SÚMULA N. 83/STJ. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+I - Segundo a orientação desta Corte, para que haja a transposição do óbice das súmulas n. 282 e n. 356, STF, a defesa deve indicar como a decisão recorrida enfrentou a questão posta em debate no recurso especial, o que não ocorreu.
+II - Para a superação da Súmula n. 7, STJ, o agravo precisa demonstrar em que medida as teses não exigem a alteração do quadro fático delineado pelo Tribunal local, não bastando a assertiva genérica de que o recurso visa à revaloração das provas.
+II - A transposição da Súmula n. 83, STJ, por sua vez, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar a modificação do julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos.
+III - A ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do recurso, sendo insuficientes as assertivas de que todos os requisitos foram preenchidos ou a reiteração do mérito da controvérsia.
+Agravo em recurso especial não conhecido."
+(AREsp 2015514/TO, Rel. Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/04/2024, DJe 23/04/2024; grifou-se.)
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal de que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro Jorge Mussi, Corte Especial, DJe de 9/9/2014 e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro João Otávio de Noronha, Quinta Turma, DJe de 27/8/2014.
+Anote-se que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Além disso, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ante o exposto, com apo io no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
