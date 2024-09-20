@@ -1,0 +1,139 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5006429-84.2024.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: JOSE MARIA DE SOUZA
+RECORRIDO: BANCO PAN S.A.
+RELATOR(A):
+IDELSON SANTOS RODRIGUES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+RECURSO INOMINADO Nº
+5006429-84.2024.8.08.0024
+
+RE
+CORRENTE
+:
+JOSE MARIA DE SOUZA
+
+REC
+ORRID
+O
+:
+BANCO PAN S.A.
+
+RELATOR: O SR. JUIZ DE DIREITO IDELSON SANTOS RODRIGUES
+
+EMENTA: DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO PROPOSTA NO FORO ONDE A RÉ POSSUI FILIAL. POSSIBILIDADE. FACULDADE DE ESCOLHA. JURISPRUDÊNCIA DO STJ. PRINCÍPIO DA FACILITAÇÃO DA DEFESA. COMPETÊNCIA DO JUÍZO DE ORIGEM. RECURSO INOMINADO PROVIDO. SENTENÇA ANULADA.
+
+R E L A T Ó R I O
+
+Relatório dispensado nos termos do art. 38, da Lei 9.099/95.
+
+Recurso Inominado interposto no Id. 8396021.
+
+Não houve apresentação de contrarrazões pelo Recorrido (Id. 8396024).
+
+VOTO
+
+Inicialmente, conheço do Recurso Inominado interposto (Id. 8396021), eis que este preenche seus requisitos de admissibilidade intrínsecos e extrínsecos, motivo pelo qual o recebo em seu efeito devolutivo, na forma do art. 43, da Lei n.º 9.099/1995.
+
+Também concedo ao Recorrente os benefícios da Justiça Gratuita, pois de acordo com o art. 99, §3º, do CPC, presume-se verdadeira a alegação de hipossuficiência de recursos feita pela pessoa natural. Destaco ainda que, para o deferimento da gratuidade judiciária, não se faz necessária a demonstração de miserabilidade, mas sim que existam indícios que o pagamento das despesas processuais inviabilizará o sustento próprio da Recorrente e/ou de sua família, o que se verifica no caso dos autos.
+
+O presente Recurso Inominado tem como objetivo a reforma da sentença objurgada (Id 8396018), em que o ju
+ízo
+
+a quo
+julgou nos seguintes termos: ‘‘Ante o exposto, tendo em vista a incompetência desse Juízo, JULGO EXTINTO O PROCESSO, SEM JULGAMENTO DE MÉRITO, com fulcro no art. 51, inciso III da Lei 9099/95 c/c art. 485, IV do Código de Processo Civil de 2015, nos termos da fundamentação supra.’’
+
+Trata-se de
+ação declaratória
+com indenização por danos morais,
+sob argumento que o Recorrido teria realizado contrato de empréstimo em modalidade diversa daquela pretendida pelo Autor.
+
+Em suma,
+o
+magistrad
+o
+
+entendeu que ‘‘[...] a escolha da Comarca para ajuizamento da demanda, nos termos do art. 4º da Lei 9.099/95, deve vir acompanhada de demonstração de nexo de causalidade, sob pena de esvaziamento do instituto legal’’.
+
+A
+
+Autora
+, em suas razões recursais, pleiteia a reforma da r.
+s
+entença alegando
+ser
+facultado
+a ela
+propor a ação
+no local
+em que melhor lhe convier podendo propô-la no domicílio do
+R
+ecorrido ou, a seu critério, no local onde este exerça atividades profissionais ou econômicas ou mantenha estabelecimento, filial, agência, sucursal ou escritório, ou ainda, no lugar onde a obrigação deva ser satisfeita.
+
+Pois bem.
+
+No caso dos autos, o Recorrente, residente em Taubaté/SP, ajuizou ação indenizatória com base no direito consumerista neste juízo, indicando o endereço de uma das filiais do Recorrido, em Vitória/ES.
+
+À vista disso, em que pese o respeitável posicionamento do juízo de origem, o Superior Tribunal de Justiça (STJ), entende que o consumidor pode optar por ajuizar a demanda no foro do seu domicílio, no de domicílio do réu, no foro de eleição ou no local de cumprimento da obrigação. Examinemos:
+
+C
+ONFLITO DE COMPETÊNCIA Nº 186778 - DF (2022/0075622-0) EMENTA CONFLITO NEGATIVO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. RELAÇÃO DE CONSUMO. CONSUMIDOR QUE FIGURA NO POLO ATIVO DA AÇÃO. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE. COMPETÊNCIA DO JUÍZO SUSCITADO. DECISÃO Trata-se de conflito de competência estabelecido entre o JUÍZO DE DIREITO DA 23ª VARA CÍVEL DE BRASÍLIA/DF e o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DO FORO REGIONAL DE SANTO AMARO/SP.
+A questão, na origem, envolve ação declaratória de inexistência de débito c.c. indenização por danos morais proposta por RAMON CAIK SILVA DE FREITAS em face de OI MÓVEL S.A. A ação foi inicialmente proposta perante o Juízo de São Paulo/SP, que declinou a competência em favor de uma das Varas Cíveis de Brasília/DF, local da matriz da empresa.
+O Juízo de Brasília/DF, por sua vez, suscitou o presente conflito aduzindo que em se tratando de relação consumerista, cabe a parte autora, na qualidade de consumidora, a opção pelo foro que lhe assegure melhor acesso à justiça e lhe garanta a facilitação da defesa de seus direitos, o que torna possível o ajuizamento da demanda no foro da filial da empresa. O Ministério Público Federal deixou de se manifestar, apesar da matéria tratada no feito envolver Direito do Consumidor (e-STJ, fls. 56/59). É o relatório. DECIDO. Com base no art. 105, I, d, da Constituição Federal, conheço do incidente instaurado entre juízes vinculados a tribunais diversos.
+A controvérsia gira em torno de se definir qual o juízo competente para processar e julgar ação declaratória de inexistência de débito c.c. indenização por danos morais, ajuizada por consumidor contra empresa prestadora de serviços de telefonia móvel. A demanda versa sobre relação consumo, sendo o entendimento assente nesta Corte Superior de que a competência nesse caso é absoluta, não podendo ser declinada de ofício.
+No entanto, a jurisprudência desta Corte também entende que se a autoria do feito pertence ao consumidor, lhe é permitida a escolha do foro do domicílio do réu, de eleição contratual ou do local de cumprimento da obrigação, possibilitando-lhe ajuizar a demanda no local em que melhor possa salvaguardar seus interesses.
+Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação.
+Em situações dessa natureza, em que o consumidor elege, dentro das limitações impostas pela lei, a Comarca que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu alegue preliminar de incompetência relativa na contestação, não sendo possível sua declinação de ofício, nos moldes da Súmula nº 33, do STJ: a incompetência relativa não pode ser declarada de ofício. Nesse sentido são os precedentes a respeito do tema: CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. EFEITOS MODIFICATIVOS. PREVIDÊNCIA PRIVADA. FUNCEF. ECONOMIÁRIAS APOSENTADAS. RELAÇÃO DE CONSUMO. AJUIZAMENTO DA AÇÃO, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DA RÉ, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO OU DOMICÍLIO DAS AUTORAS. IMPOSSIBILIDADE. 1. Verificada a presença de contradição no julgamento, possível conferir efeitos infringentes aos embargos de declaração a fim de extirpar o vício. 2. Segundo entendimento desta Corte, nas ações propostas contra o consumidor, a competência pode ser declinada de ofício para o seu domicílio, em face do disposto no art. 101, inciso I, do CDC e no parágrafo único, do art. 112, do CPC. 3. Se a autoria do feito pertence ao consumidor, contudo, permite-se-lhe a escolha do foro de eleição contratual, considerando que a norma protetiva, concebida em seu benefício, não o obriga, quando optar por demandar fora do seu domicílio. 4. Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação. 5. Embargos de declaração acolhidos com efeitos modificativos para conhecer do conflito, declarando competente a Justiça do Estado da Paraíba, anulada a sentença proferida pelo Juízo de Direito da 7ª Vara Cível do Foro Central de Porto Alegre, RS. (EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 8/2/2012, DJe 20/4/2012 - sem destaque no original) PROCESSO CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO PELO JUÍZO DEPRECADO. AÇÃO DE BUSCA E APREENSÃO DE VEÍCULO OBJETO DE ALIENAÇÃO FIDUCIÁRIA. COMPETÊNCIA DO DOMICÍLIO DO RÉU. LIMITAÇÕES A ATUAÇÃO DE OFÍCIO DO JUIZ. IMPOSSIBILIDADE DE SE INVESTIGAR QUAL O VERDADEIRO E ATUAL DOMICÍLIO DO RÉU PARA SE INFIRMAR OS FATOS INDICADOS NA INICIAL. - A competência do juízo em que reside o consumidor é absoluta, devendo ser declarada de ofício pelo juízo. - Entre as faculdades concedidas ao juiz, em sua atuação de ofício, não se inclui a de infirmar as afirmações de fato feitas pelo autor em sua inicial. Assim, se o autor indica aquele que acredita ser o domicílio do réu, este local deve ser levado em consideração para fins de fixação da competência. Resguardam-se, assim, os princípios de imparcialidade e inércia processual. - Se, em momento posterior, for demonstrado que o réu reside em outra comarca, aí surge novo problema de competência a ser solucionado pelos meios processuais adequados. Conflito de Competência conhecido, para o fim de se estabelecer a competência do Juízo de Direito da 5a Vara Cível da Comarca de Bauru, Estado de São Paulo, ora suscitado, para o julgamento da causa, devendo o Juízo de Direito da 1a Vara Cível da Comarca de Foz de Iguaçu, Estado do Paraná, determinar as providências necessárias para o cumprimento da carta precatória em questão. (CC 82.493/PR, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, j. 8/8/2007, DJ 16/8/2007, p. 285 - sem destaques no original)
+Na hipótese dos autos, a ação foi proposta na comarca em que está localizada a filial da empresa prestadora de serviços. A Segunda Seção do STJ, em caso semelhante, reconheceu a possibilidade de o consumidor ajuizar a ação no local onde o réu possui filial:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE. 1. Nos casos em que o consumidor, autor da ação, elege, dentro das limitações impostas pela lei, o foro que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência ( CPC, art. 112), não sendo possível sua declinação de ofício, nos termos da Súmula 33/STJ. 2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar, se for o caso, exceção de incompetência, sob pena de prorrogação da competência. Assim, não há razão para negar essa possibilidade justamente ao consumidor, a quem o legislador conferiu especial proteção. 3. Agravo regimental a que se nega provimento. (AgRg no CC n. 130.813/DF, relator Ministro RAUL ARAÚJO, Segunda Seção, julgado em 22/6/2016, DJe de 3/8/2016 - sem destaque no original)
+Desse modo, não se trata de foro aleatório, mas de opção mais conveniente ao consumidor, é ele o competente para processar e julgar a ação, tendo em vista o princípio insculpido no art. 6º, VIII do CDC, que estabelece a prevalência do local que melhor facilitar a defesa dos seus direitos.
+Nessas condições, CONHEÇO do conflito para declarar competente o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DO FORO REGIONAL DE SANTO AMARO/SP. Publique-se. Intimem-se. Brasília, 29 de junho de 2022. Ministro MOURA RIBEIRO Relator (STJ - CC: 186778 DF 2022/0075622-0, Relator: Ministro MOURA RIBEIRO, Data de Publicação: DJ 30/06/2022) (
+grifos nossos
+)
+
+PODER JUDICIÁRIO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA Segunda Câmara Cível Processo: AGRAVO DE INSTRUMENTO n. 8011339-72.2018.8.05.0000 Órgão Julgador: Segunda Câmara Cível AGRAVANTE: HONORIO PAULO TULER Advogado (s): ROBERTA SOBRAL VARJAO AGRAVADO: AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. Advogado (s): ACORDÃO AGRAVO DE INSTRUMENTO. CONSUMIDOR E PROCESSO CIVIL. DECISÃO INTERLOCUTÓRIA QUE DECLINOU DA COMPETÊNCIA. DETERMINAÇÃO DE REDISTRIBUIÇÃO DA AÇÃO PARA O FORO DO DOMICÍLIO DO AUTOR/CONSUMIDOR. AÇÃO PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE. FACULDADE DE ESCOLHA. PRINCÍPIO DA FACILITAÇÃO DA DEFESA. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. 1 -
+A jurisprudência pátria, capitaneada pelo Superior Tribunal de Justiça, entende que o consumidor pode optar por ajuizar ação no foro do seu domicílio, do réu, do de eleição ou do local do cumprimento da obrigação, sendo vedada a escolha aleatória e injustificada. 2 - Por se tratar de questão relativa a consumo, o Princípio da Facilitação da Defesa deve ser aplicado, de modo a prevalecer o foro de competência mais benéfico ao consumidor, como forma de proteção da parte mais fraca da relação jurídica.
+
+3 - No caso em apreço, a Ação foi proposta perante Juízo de Direito em que existe filial da parte Ré.
+Nesse contexto, não há que se falar em eleição aleatória, mas em válido exercício da possibilidade de escolha, pelo consumidor, do foro que melhor atenda à sua defesa. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. ACÓRDÃO Vistos, relatados e discutidos estes autos de Agravo de Instrumento n.º 8011339-72.2018.8.05.0000, de Salvador, em que figura como Agravante HONORIO PAULO TULER e Agravado AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. ACORDAM os Desembargadores integrantes da Turma Julgadora da Segunda Câmara Cível do Tribunal de Justiça do Estado da Bahia, à unanimidade, conhecer o Recurso, e DAR PROVIMENTO pelas razões constantes do voto da Relatora. Salvador, (TJ-BA - AI: 80113397220188050000, Relator: LIGIA MARIA RAMOS CUNHA LIMA, SEGUNDA CAMARA CÍVEL, Data de Publicação: 13/02/2019) (
+grifo nosso
+)
+
+Assim, tendo a ação sido proposta em juízo no qual existe filial do Recorrido, não há que se falar em incompetência territorial, mas em válido exercício do direito de escolha do consumidor do foro que melhor atenda os seus interesses, em cumprimento ao disposto no art. 6º, VIII, do CDC.
+
+Como a causa não está madura para julgamento, pois a parte requerida sequer foi citada,
+voto pela anulação da sentença para que o processo prossiga no juízo de origem, em Vitória/ES, eis que é competente para julgamento.
+
+Ante ao exposto,
+CONHEÇO
+do recurso interposto e
+LHE DOU PROVIMENTO
+para anular a r. sentença de Id. 8396018, determinando o retorno dos autos ao juízo de origem para o regular prosseguimento do feito.
+
+Diante do provimento do recurso, sem condenação em custas processuais e honorários advocatícios, nos termos do art. 55, da Lei 9.099/95.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
