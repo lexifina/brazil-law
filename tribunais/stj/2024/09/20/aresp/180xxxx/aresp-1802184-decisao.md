@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por EMBRACON ADMINISTRADORA DE CONSÓRCIOS LTDA. contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. CONSÓRCIO. AÇÃO DE RESTITUIÇÃO DE QUANTIA. Nulidade parcial de cláusulas contratuais bem pronunciada. Taxa de administração. Dedução proporcional ao tempo em que o consorciado permaneceu no grupo. Cláusula penal. Incidência vedada, à falta de prova do prejuízo. Devolução dos valores ao final do grupo. Relação jurídica sujeita à Lei 11.795/2008. Matéria submetida à sistemática dos repetitivos (Recurso Especial nº 1.119.300-SP, Rel. Ministro LUIS FELIPE SALOMÃO, 2ª Seção, julgado em 14 de abril de 2010). Ação julgada parcialmente procedente. Sentença correta, ora confirmada pelos próprios fundamentos. - Apelação desprovida" (e-STJ fl. 232).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 27 da Lei nº 11.795/2008 - a dedução da taxa de administração deve ser feita no percentual contratado de 22% (vinte e dois por cento);
+(ii) art. 53 do Código de Defesa do Consumidor - as multas e penalidades previstas no contrato são legais, e
+(iii) arts. 24, § 1º, e 30 da Lei nº 11.795/2008 - o termo inicial da correção monetária sobre a restituição dos valores pagos pelo recorrido é a data da contemplação por sorteio ou após 30 dias da data prevista para o encerramento do grupo de consórcio, o que ocorrer primeiro, e deve ser calculada com base no percentual amortizado do valor do bem ou serviço vigente na data da assembleia de contemplação.
+Afirma que os juros moratórios incidem a partir do encerramento do grupo.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Em relação ao termo inicial dos juros de mora, a recorrente não indicou especificamente quais os artigos de lei federal teriam sido contrariados pelo aresto recorrido.
+Quanto aos arts. 24, § 1º, 27 e 30 da Lei nº 11.795/2008 e 53 do Código de Defesa do Consumidor, estes não possuem conteúdo normativo capaz de impugnar os fundamentos do acórdão recorrido.
+Assim, resta evidenciada a deficiência na fundamentação recursal, o que atrai a incidência da Súmula nº 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXCLUDENTE DE RESPONSABILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PENSIONAMENTO MENSAL. TERMO FINAL. EXPECTATIVA DE VIDA. TABELA DO IBGE OU FALECIMENTO DO BENEFICIÁRIO.
+1. Caracteriza-se a deficiência da fundamentação recursal quando o recurso especial não indica de modo preciso os dispositivos legais violados, a atrair o óbice da Súmula nº 284/STF.
+2. Consoante a jurisprudência pacífica desta Corte Superior, a obrigação de pagamento de pensão mensal por morte de cônjuge resultante da prática de ato ilícito tem como termo final a data em que a vítima do evento danoso atingiria idade correspondente à expectativa média de vida do brasileiro prevista no momento de seu óbito, segundo a tabela do IBGE, ou até o falecimento do beneficiário, se tal fato vier a ocorrer primeiro. Precedentes.
+3. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 2.177.357/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/4/2024 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. LITIGÂNCIA DE MÁ-FÉ. SÚMULA N. 7/STJ. INCOMPETÊNCIA ABSOLUTA. PRECLUSÃO DA MATÉRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. INCLUSÃO DOS HONORÁRIOS DE ASSISTENTE TÉCNICO NO VALOR DAS CUSTAS PROCESSUAIS. SÚMULA N. 284/STF. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NA FASE DE EXECUÇÃO. CONFORMIDADE COM A JURISPRUDÊNCIA. INCIDÊNCIA DE JUROS PREVISTA NO TÍTULO EXECUTIVO JUDICIAL. SÚMULA N. 7/STJ.
+1. Rever a aplicação de multa por litigância de má-fé, diante da conduta da recorrente em reviver questões já amplamente debatidas na fase de conhecimento e que foram alcançadas pela coisa julgada, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+2. A ausência de enfrentamento da questão da incompetência da justiça estadual pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+3. O recurso especial não comporta conhecimento quanto à suposta violação do art. 84 do CPC, visto que o dispositivo apontado como violado não têm comando normativo apto a amparar a tese recursal, o que atrai a aplicação da Súmula n. 284/STF.
+4. A jurisprudência desta Corte Superior tem entendimento no sentido de que o depósito ou oferecimento de seguro para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do NCPC. Precedentes.
+5. Nos termos da jurisprudência desta Corte Superior, as matérias, mesmo de ordem pública, analisadas na fase de conhecimento, são alcançadas pela eficácia preclusiva da coisa julgada (AgRg no AREsp n. 799.219/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024).
+Agravo improvido."
+(AgInt nos EDcl no AREsp 1.813.113/SP, Rel. Ministro HUMBERTO MARTINS, TERCEIRA TURMA, DJe 19/06/2024 - grifou-se)
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. AGRAVO DE INSTRUMENTO INTERPOSTO NA ORIGEM. PRETENSÃO DE REVISÃO DE MULTA COMINATÓRIA. COMANDO NORMATIVO INSUFICIENTE. SÚMULA 284/STF. MULTA DIÁRIA. REVISÃO. RAZOABILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. O art. 525, § 1º, inciso V, do CPC, não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura a deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula nº 284/STF.
+2. O valor da multa cominatória não é definitivo, pois poderá ser revisto em qualquer fase processual, inclusive em cumprimento de sentença, caso se revele excessivo ou insuficiente (art. 537, § 1º, do Código de Processo Civil).
+3. Este Superior Tribunal de Justiça tem utilizado o valor da obrigação principal como parâmetro para a verificação acerca da razoabilidade da quantia fixada para multa diária. Aplicação da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.322.954/BA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 21/12/2023 - grifou-se)
+Ainda que superado esse óbice, verifica-se que as conclusões do Tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório e do contrato carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos dos julgados da apelação e dos embargos de declaração, que ora se colacionam, nas partes que interessam:
+"(..)
+Transcreva-se por oportuno, o que constou do julgamento de 1º grau de jurisdição:
+"A imposição de multa sobre o crédito a que o consorciado faz jus, independentemente de prejuízo para a empresa, é claramente abusiva, sendo de rigor reconhecer a sua nulidade. Destaco que não há comprovação de tal prejuízo, cumprindo afastar a sua incidência.
+(..).
+Acrescente-se a isso, diante da ausência de previsão clara nas cláusulas em questão, que, quando da devolução, a empresa deverá não simplesmente acrescentar os rendimentos inerentes à remuneração do capital, mas corrigir o valor monetariamente, com base na tabela do Tribunal de Justiça de São Paulo, contando-se a partir dos respectivos desembolsos, afastando-se a incidência de índices atrelados ao bem contratado.
+(..).
+Quanto a taxa de administração, razão assiste à demandante, pois a ré poderá deduzir apenas quantia proporcional ao tempo em que a parte autora participou do consórcio, sob pena de enriquecer sem causa, como aliás, vem entendendo a jurisprudência"." (e-STJ fl. 234).
+"A taxa de administração constitui a remuneração da administradora e, em caso de desistência, ela deve ser deduzida de forma proporcional ao período em que o consorciado permaneceu no grupo, exatamente como determinado na sentença, que foi confirmada em grau de recurso.
+A cobrança da taxa referida por período superior ao da permanência do consorciado no grupo implicaria abusividade, porque, como se trata de remuneração por serviços prestados pela administradora, não pode ser descontada em sua integralidade, mas proporcionalmente e delimitada ao período que o consorciado permaneceu no grupo.
+No tocante à cláusula que permite aplicação de multa, conforme expressamente decidido, sua imposição, independentemente de qualquer prejuízo, mostra-se claramente abusiva, conforme, aliás, farta jurisprudência a respeito. Não demonstrado o prejuízo, não incide a cláusula penal.
+No mais, é evidente que os valores a serem restituídos, ao final do grupo, deverão ser corrigidos, conforme a Tabela de Cálculo deste Tribunal de Justiça, sendo certo que, no tocante aos juros de mora, a sentença é clara ao determinar que a incidência depende da ocorrência de inadimplência por parte da ré/embargante, sobretudo se considerado o fato de que a devolução deverá aguardar o decurso do prazo de trinta (30) dias após o término do prazo estipulado de duração do consórcio" (e-STJ fls. 256/257).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor dos enunciados das Súmulas nºs 5 e 7 deste Superior Tribunal.
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL. 1. AÇÃO DE CONHECIMENTO. SUSPENSÃO. INAPLICABILIDADE. 2. GRATUIDADE DE JUSTIÇA. PEDIDO INCOMPATÍVEL COM O RECOLHIMENTO DO PREPARO RECURSAL. 3. JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. AGRAVO INTERNO DESPROVIDO.
+1. Com efeito, conforme jurisprudência desta Corte Superior, o art. 18 da Lei n. 6.024/1974 não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito.
+2. O entendimento desta Corte Superior consolidou-se no sentido de que o pagamento das custas - como no caso concreto, em que a parte recolheu o preparo do recurso especial - é incompatível com o pedido de gratuidade de justiça.
+3. Nos termos da jurisprudência desta Corte Superior, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto" (AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+3.1. A modificação do entendimento alcançado pelo acórdão estadual (acerca da abusividade na cobrança dos juros remuneratórios contratados) demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que é inviável no âmbito do recurso especial, permanecendo incólume a aplicação das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. Agravo interno improvido."
+(AgInt no AREsp 2.485.847/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 2/5/2024 - grifou-se)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, em virtude da sucumbência recíproca, os honorários sucumbenciais devidos pelo recorrente foram fixados em 7% (sete por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 10% (dez por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
