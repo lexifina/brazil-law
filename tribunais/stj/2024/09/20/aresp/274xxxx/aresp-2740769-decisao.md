@@ -1,0 +1,33 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LILIAN MARCIA NUNES RIBEIRO contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/07/2024.
+Concluso ao gabinete em: 16/09/2024.
+Ação: de embargos à execução movida por LILIAN MARCIA NUNES RIBEIRO contra FERNANDES SOCIEDADE DE ADVOGADOS.
+Sentença: julgou parcialmente procedente para o fim de reconhecer a existência de excesso de execução em R$ 500,00.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS. INSURGÊNCIA DA PARTE EMBARGANTE. MAGISTRADO QUE, NA SENTENÇA, EXPRESSAMENTE CONSIGNOU A IMPOSSIBILIDADE DE RECONHECER O PAGAMENTO DO MONTANTE ALEGADO, POR HAVER DIVERGÊNCIA EM UM DOS COMPROVANTES DE DEPÓSITO E POR NÃO TER SIDO COMPROVADO OS DEMAIS PAGAMENTOS ALEGADOS. AUSÊNCIA, PORÉM, DE IMPUGNAÇÃO ESPECÍFICA AOS TERMOS DA SENTENÇA. APELANTE QUE SE RESTRINGIU A ALEGAR, GENERICAMENTE, QUE OS COMPROVANTES ANEXOS À INICIAL COMPROVAM O PAGAMENTO DO VALOR TOTAL DE R$4.000,00. VIOLAÇÃO DO PRINCÍPIO DA DIALETICIDADE. RECURSO NÃO CONHECIDO NESSE TOCANTE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. INAPLICABILIDADE DAS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR. RELAÇÃO REGIDA PELO ESTATUTO DA ORDEM DOS ADVOGADOS DO BRASIL (LEI Nº 8.906/94). PRECEDENTES DO STJ. ALEGAÇÃO DE QUE OS SERVIÇOS NÃO FORAM PRESTADOS INTEGRALMENTE. NÃO ACOLHIMENTO. ATUAÇÃO DO ADVOGADO NA AÇÃO DE DESPEJO ATÉ A EXTINÇÃO DO PROCESSO EM RAZÃO DA HOMOLOGAÇÃO DE ACORDO FIRMADO ENTRE AS PARTES. AUSÊNCIA, AINDA, DE DESÍDIA NA TRAMITAÇÃO DO AGRAVO DE INSTRUMENTO INTERPOSTO PELO EMBARGADO CONTRA A DECISÃO QUE CONCEDEU LIMINARMENTE A ORDEM DE DESPEJO, NO QUAL FOI CONCEDIDO O EFEITO SUSPENSIVO. POSTERIOR REALIZAÇÃO DE ACORDO, COM EXTINÇÃO DO PROCESSO PRINCIPAL, QUE ENSEJOU A PERDA SUPERVENIENTE DO OBJETO DO RECURSO. AJUIZAMENTO DE AÇÃO DE CONHECIMENTO PARA O ARBITRAMENTO DE HONORÁRIOS. DESNECESSIDADE, NA ESPÉCIE. REVOGAÇÃO DO MANDATO EFETIVADO DEPOIS DE EMERGIDO O DIREITO DO EMBARGADO AO RECEBIMENTO DOS HONORÁRIOS. ILIQUIDEZ DO TÍTULO NÃO RECONHECIDA. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. (e-STJ fls. 486-487)
+Acórdão: negou provimento ao agravo interno interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO. DECISÃO AGRAVADA QUE, EM APELAÇÃO CÍVEL, REVOGOU O BENEFÍCIO DA JUSTIÇA GRATUITA, CONCEDIDO PELO JUÍZO DA ORIGEM COM BASE NOS DOCUMENTOS INICIALMENTE APRESENTADOS PELA RECORRENTE. PESSOA FÍSICA. EXISTÊNCIA DE ELEMENTOS NOS AUTOS, PORÉM, QUE INFIRMAM A DECLARAÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA APRESENTADA. PARTE AGRAVADA QUE, APÓS O DEFERIMENTO DA BENESSE, TEVE CONHECIMENTO ACERCA DA EXISTÊNCIA DE OUTRA FONTE DE RENDA DA RECORRENTE. SOMA DOS GASTOS APRESENTADOS, ADEMAIS, QUE, NA HIPÓTESE, NÃO TEM O CONDÃO DE COMPROMETER A SUA SUBSISTÊNCIA. AGRAVANTE QUE NÃO APRESENTOU QUALQUER FUNDAMENTO CAPAZ DE INFIRMAR AS RAZÕES DE DECIDIR EXPOSTAS NA DECISÃO AGRAVADA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO. (e-STJ fl. 524)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º, IV, e VI, e 1.022, parágrafo único, I e II, do CPC. Além de negativa de prestação jurisdicional, insurge-se contra a distribuição do ônus da prova.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da não aplicação da lei consumerista ao caso em comento, da impossibilidade da legislação subsidiária (art. 424, do Código Civil), uma vez que a matéria foi ventilada pela primeira vez em sede de embargos de declaração, bem como quanto à prestação de serviços de forma integral pelo advogado e também dos valores devidos, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou o art. 373, II, do CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 499) para 17%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. Agravo conhecido. Recurso especial conhecido em parte, e nessa extensão, não provido.
