@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALEXEI COSTA DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ fls. 17/18).
+Consta dos autos que o paciente foi prounciado pela suposta prática do crime de homicídio qualificado.
+No presente writ, sustenta a defesa que a senteça de pronúncia está apoiada em testemunho indireto, de "ouvir dizer", o que não é suficiente para levar o paciente ao tribunal do júri.
+Requer, liminarmente, a suspensão da sessão plenária do tribunal do júri. No mérito, pleiteia a concessão da ordem a fim de cassar a sentença de pronúncia do paciente.
+Indeferido o pleito liminar (e-STJ fls, 832/833), opinou o Ministério Público Federal "pela denegação da ordem" (e-STJ fls. 841/844). Eis a ementa do parecer:
+HABEAS CORPUS. PRONÚNCIA. DECISÃO BASEADA EM PROVAS COLHIDAS EM JUÍZO. RECONHECIMENTO DO ACUSADO POR TESTEMUNHAS. PELA DENEGAÇÃO DA ORDEM.
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+No caso, busca-se afastar a sentença de pronúncia prolatada em desfavor do paciente, pois, segundo a defesa, estaria apoiada em "testemunho de ouvir dizer".
+Dispõe o artigo 413 do CPP que o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, ficando tal fundamentação limitada à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena.
+A pronúncia encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência do crime e de indícios de sua autoria, não se demandando requisitos de certeza necessários à prolação da sentença condenatória, sendo que as dúvidas, nessa fase processual, resolvem-se pro societate.
+Na hipótese, o Juízo processante, soberano na análise do conjunto fático-probatório, pronunciou o réu ressaltando que (e-STJ fl. 33):
+Já autoria encontro suporte na prova oral produzida em juízo, em especial nos depoimentos prestados pelas testemunhas Rafael Goudard Lopes (mídia de fls. 187), Sobrina do Vale Oliveira (mídia de fls. 187), Geisilani da Silva Rodrigues (mídia de fls. 187), Marcelo Silva Rosa (mídia de fis. 187), Osmar do Silva Tinoco (mídio de fis. 211), Waldney Freitos Ferreira (mídia de fis. 211) e Valter da o Conceição Oliveira (mídia de fls. 230).
+Esses depoimentos somados aos outros indícios recolhidos na fase inquisitorial são suficientes para acolher provisoriamente a acusação e, em consequência, pronunciar o acusado ALEXEI COSTA DE OLIVEIRA pelo homicídio praticado contra a vítima Waldecyr Freitas Ferreira, ocorrido no dia 16 de dezembro de 2016, no bairro de Itombi, na Cidade de Itaboraí.
+Por sua vez, a Corte de origem asseverou que (e-STJ fls. 20/21):
+Em sede policial, o recorrente foi reconhecido por fotografia pela testemunha Marcelo Silva Rosa (fls.26) e, pessoalmente, pela testemunha Valter da Conceição Oliveira (fls.35) e pela testemunha Osmar da Silva Tinoco (fls. 40).
+Deve-se consignar que o reconhecimento fotográfico foi realizado por volta das 15h, e o pessoal, após as 20h, com o réu já detido e com advogado (fls.41).
+Como bem esclareceu o Parquet Federal, "restou consignado o depoimento de diversas testemunhas presenciais apontando a autoria do crime ao paciente, bem como a divergência prévia entre a vítima e o paciente, fato este que afasta a tese de que a decisão de pronúncia se baseou apenas em testemunhos de "ouvi dizer", devendo a questão ser submetida ao Tribunal do Júri." (e-STJ fl. 842)
+Nesse sentido:
+EMENTA PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO. ALEGADA NULIDADE. CONDENAÇÃO DECORRENTE DE TESTEMUNHO INDIRETO E PROVAS PRODUZIDAS EM SEDE INQUISITORIAL. VIOLAÇÃO AO ART. 155 DO CPP. TESE AFASTADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Afasta-se a tese de nulidade da condenação do réu, uma vez que esta se fundamenta em provas produzidas não apenas em inquérito, mas também em sede judicial, consoante depoimento prestado em juízo por policial que atuou no caso.
+2. Na hipótese, a investigação policial demonstrou que a vítima era faccionada do PGC e foi assassinada por membros da própria facção. Ademais, em sede judicial, foi prestada declaração por policial civil - o qual presenciou a oitiva da testemunha que indicou o paciente como um dos autores do crime - corroborando as demais provas já produzidas quanto à autoria do delito pelo réu.
+3. No tocante ao depoimento prestado pelo policial, não se verifica hipótese de mero testemunho de "ouvir dizer" e, por mais que se trate de testemunho indireto, cuida-se de prova judicializada que vai ao encontro de outras provas produzidas extrajudicialmente, afastando a alegada ofensa do art. 155 do Código de Processo Penal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 916.363/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO, NA MODALIDADE TENTADA, E ASSOCIAÇÃO PARA O TRÁFICO. PRONÚNCIA FUNDAMENTADA APENAS EM TESTEMUNHOS INDIRETOS, DE "OUVIR DIZER". NÃO OCORRÊNCIA. ORDEM DENEGADA. DECISÃO MANTIDA.
+1. A decisão de pronúncia comporta simples juízo de admissibilidade da acusação, para o qual devem concorrer a prova da existência do fato (materialidade) e indícios da autoria ou da participação delitiva do agente, consoante dispõe o art. 413 do CPP.
+2. De acordo com o entendimento desta Corte Superior, "o testemunho de "ouvir dizer" ou hearsay testimony não é suficiente para fundamentar a pronúncia, não podendo esta, também, encontrar-se baseada exclusivamente em elementos colhidos durante o inquérito policial, nos termos do art. 155 do CPP" (AgRg no AgRg no AREsp n. 2.097.753/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022).
+3. Caso concreto em que a pronúncia não foi lastreada apenas em provas indiretas, mas também no depoimento, inclusive na fase judicial, de testemunha que presenciou a dinâmica dos fatos, de modo que, excluídos os testemunhos indiretos, subsistem elementos de prova suficientes para autorizar a pronúncia dos agravantes.
+4. Agravo regimental improvido.
+(AgRg no HC n. 854.355/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+Por outro lado, alcançar conclusão diversa da Corte local, que, de forma fundamentada e com base em provas colhidas em juízo, concluiu pela existência de elementos suficientes para pronunciar o acusado, demandaria o revolvimneto do material fático/probatório dos autos, expediente inviável na sede mandamental.
+Assim, não há como acolher o apontado constrangimento ilegal.
+Ante o exposto, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
