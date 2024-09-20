@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por KATIA VITORIA SANTOS NUNES com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. CONCURSO PÚBLICO DO IBGE. SELEÇÃO PARA CARGO DIVERSO NA MESMA INSTITUIÇÃO. IMPOSSIBILIDADE DE NOVA CONTRATAÇÃO TEMPORÁRIA ANTES DE DECORRIDOS 24 (VINTE E QUATRO) MESES DO ENCERRAMENTO DO CONTRATO ANTERIOR. PROIBIÇÃO DO ART. 9º, III, DA LEI Nº 8.745/93. APELAÇÃO PROVIDA
+1. Cuida-se de apelação interposta em face de sentença que concedeu a segurança pleiteada nos autos, para determinar que o impetrado assegure a contratação da Impetrante para o cargo de Agente de Pesquisas e Mapeamento do IBGE, sem a exigência contida no artigo 9º, inciso III, da Lei nº 8.745/1993, observados os demais requisitos documentais do Edital nº 03/2023/IBGE.
+2. Em suas razões recursais, alega o IBGE, em síntese: a) que o art. 9º, III, da Lei 8.745/93, refere-se, exclusivamente, ao candidato, e não a um ente específico, ou seja, o objeto da vedação, segundo o STF (Tema 403), seria a modalidade do contrato temporário, sendo indiferente se o novo contrato será ou não realizado por outra pessoa jurídica ou para outro cargo; b) que há alentada jurisprudência pátria no sentido de não autorizar a contratação em espécie, no âmbito do mesmo órgão público.
+3. O STF, ao decidir sobre o Tema 403 (RE 635.648/CE), fixou a tese de que é constitucional a exigência do transcurso de 24 (vinte e quatro) meses contida no art. 9º, III, da Lei nº 8.745/93, para a realização de repactuação de vínculo institucional temporário de servidor anteriormente contratado.
+4. O normativo refere-se à impossibilidade de haver nova contratação temporária antes de decorridos 24 (vinte e quatro) meses do encerramento do contrato anterior, não fazendo qualquer ressalva quanto à possibilidade de realização de tais avenças para cargos distintos na mesma instituição.
+5. O Superior Tribunal de Justiça, de sua parte, firmou o entendimento de que "Não se insere nessa regra a contratação feita com distinção de órgãos públicos contratantes" (STJ - REsp 1.919.817/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/4/2021, DJe de 3/5/2021).
+6. No caso dos autos, a impetrante foi contratada inicialmente pelo IBGE para o cargo de Agente Censitário Supervisor, em agosto de 2022, pelo prazo de 4 (quatro) meses, conforme narra a inicial (id. 4058504.7516788, p. 4). No processo seletivo simplificado atual, regido pelo edital Edital de Abertura nº 03/2023, ela foi aprovada para o cargo de Agente de Pesquisas e Mapeamento. Embora os cargos sejam diferentes, a instituição contratante é a mesma (IBGE), de modo que a situação não está amparada pelo entendimento jurisprudencial do STJ, que exige que a nova contratação se dê em entidade diversa da anterior.
+7. Nesse sentido, são citados os seguintes precedentes de nossa Corte Regional acerca dessa matéria: PROCESSO: 08002376220204058103, APELAÇÃO / REMESSA NECESSÁRIA, DESEMBARGADOR FEDERAL LEONARDO AUGUSTO NUNES COUTINHO (CONVOCADO), 1ª TURMA, JULGAMENTO: 22/10/2020; PROCESSO: 08006708820194058107, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª TURMA, JULGAMENTO: 27/06/2023; (PROCESSO: 08001605020204058201, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL FERNANDO BRAGA DAMASCENO, 3ª TURMA, JULGAMENTO: 20/08/2020.
+8. Esse entendimento também é comungado pela Sexta Turma: (PROCESSO: 08141722920234050000, AGRAVO DE INSTRUMENTO, DESEMBARGADOR FEDERAL SEBASTIÃO JOSÉ VASQUES DE MORAES, 6ª TURMA, JULGAMENTO: 30/01/2024).
+9. A leitura desses argumentos todos revela que a intenção subjacente a essa vedação legal não é outra senão a de evitar contratações temporárias consecutivas de uma mesma pessoa pelo mesmo órgão ou instituição pública, ainda que para cargos diversos, impedindo-se a perpetuação de privilégios e/ou a burla da exigência de realização de concurso público.
+10. Provimento da insurgência do IBGE, para denegar a ordem pretendida pela parte autora.
+11. Sem honorários de sucumbência (art. 25 da Lei 12.016/2009).
+No presente recurso especial, o recorrente aponta como violado o art. 9º, III, da Lei n. 8.745/93, sustentando, em síntese, que a vedação legal do dispositivo violado não incide no caso de nova contratação em cargo diverso ou órgão distinto.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o prazo estabelecido no inciso III, do art. 9º, da Lei n. 8.745/93, não se aplica quando a contratação é realizada por órgãos públicos distintos.
+Nesse sentido, confira-se:
+ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONTRATAÇÃO TEMPORÁRIA. INTERSTÍCIO MÍNIMO. NOVA CONTRATAÇÃO. PRECEDENTE VINCULANTE DO STF. DISTINÇÃO. NOVA INSTITUIÇÃO CONTRATANTE. JURISPRUDÊNCIA DO STJ.
+1. "É compatível com a Constituição Federal a previsão legal que exija o transcurso de 24 (vinte e quatro) meses, contados do término do contrato, antes de nova admissão de professor temporário anteriormente contratado". Inteligência do RE 635.648/CE, relator o Em. Ministro Edson Fachin, julgado sob a sistemática da repercussão geral.
+2. Não se insere nessa regra a contratação feita com distinção de órgãos públicos contratantes. Jurisprudência do STJ.
+3. Recurso especial não provido.
+(REsp n. 1.919.817/RN, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/4/2021, DJe de 3/5/2021.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO TEMPORÁRIO. NOVA CONTRATAÇÃO. VEDAÇÃO. CARGO E ÓRGÃO DIVERSOS. SÚMULA 83 DO STJ. 1 O
+Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O art. 9º, III, da Lei n. 8.745/1993 não admite a celebração de novo contrato temporário antes de decorridos 24 meses do encerramento do anterior, vedação que não alcança a hipótese em apreço, tendo em vista que se trata de novel vínculo firmado com órgão público diverso do anterior.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 475.263/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/9/2017, DJe de 6/12/2017.)
+Desta forma, o entendimento adotado no acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça.
+No caso dos autos, e m que pese a contratação seja para cargo diverso ela se daria com o mesmo órgão responsável pela contratação anterior, contrariando a jurisprudência desta Corte Superior.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
