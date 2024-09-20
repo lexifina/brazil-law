@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOÃO PAULO NEIVERTH, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/02/2024.
+Concluso ao gabinete em: 12/06/2024.
+Ação: de busca e apreensão, ajuizada por BANCO CATERPILLAR S/A, em face do agravante, fundada no inadimplemento de contrato de financiamento com alienação fiduciária em garantia para aquisição de carregadeira de rodas.
+Sentença: julgou procedente o pedido, para consolidar, no patrimônio da agravada, a posse e o domínio plenos do bem objeto da alienação fiduciária, além de condenar o agravante ao pagamento das custas processuais e honorários advocatícios fixados em 10% do valor atualizado da causa.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO - BUSCA E APREENSÃO DE AUTOMÓVEL - ALIENAÇÃO FIDUCIÁRIA EM GARANTIA - AUTORA QUE APONTOU, COMO INADIMPLIDA, PARCELA QUE HAVIA SIDO ADIMPLIDA - QUESTÃO JÁ APRECIADA EM SEDE DE AGRAVO DE INSTRUMENTO, NO QUAL ESTA C. CÂMARA DECLAROU TRATAR-SE DE VÍCIO SANÁVEL, RECONHECEU A CONSTITUIÇÃO DO RÉU EM MORA EM 5 DIAS A PARTIR DA PUBLICAÇÃO DO V. ACÓRDÃO E DETERMINOU O PROSSEGUIMENTO DO FEITO - APELO QUE VEICULA A MESMA MATÉRIA, JÁ APRECIADA E TRANSITADA EM JULGADO - ALEGAÇÃO GENÉRICA DE CERCEAMENTO DE DEFESA - RECURSO QUE NÃO APRESENTA TESES APTAS A ALTERAR O JULGAMENTO RECORRIDO - INTUITO MANIFESTAMENTE PROTELATÓRIO - LITIGÂNCIA DE MÁ-FÉ RECONHECIDA - INTELIGÊNCIA DO ART. 80, VII, CPC - R. SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial interposto pela agravante, em razão da deserção, visto que, embora intimado para comprovar que teria preenchido os requisitos necessários à concessão da gratuidade judiciária ou a recolher o valor das custas em dobro, teria se limitado a apresentar a petição de fl. 294/296 (e-STJ).
+Agravo em recurso especial: a agravante, além de reiterar as razões do recurso especial, sustenta que na petição de fl. 294/296 (e-STJ) teria justificado a necessidade da concessão da gratuidade da justiça, visto que estaria enfrentando dificuldades financeiras e não teria condições de arcar com custas processuais, considerando que teria passado por frustração de safra e que vem sofrendo várias demandas judiciais.
+É O RELATÓRIO. DECIDO.
+- Da deserção do recurso especial
+Da análise dos autos verifica-se que o recurso especial foi interposto às fls. 268/281 (e-STJ), no qual o agravante formulou pedido de concessão da gratuidade da justiça, sob o argumento de que estaria enfrentando diversas dificuldades financeiras e que vem sofrendo enormes prejuízos e diversas ações judiciais.
+Diante de tal pedido, o Tribunal de origem, à fl. 291 (e-STJ), determinou que o agravante comprovasse "o preenchimento dos requisitos necessários à sua concessão, ou recolha o valor das custas em dobro, no prazo de 5 (cinco) dias, sob pena de deserção, nos termos do art. 1.007, §4º, do CPC".
+Entretanto, em petição juntada às fls. 294/296 (e-STJ), a agravante limitou-se a reiterar os argumentos de que estaria enfrentando diversas dificuldades financeiras e que estaria sofrendo enormes demandas judiciais, além de requerer a dilação do prazo para juntada de documentos.
+Assim, da análise dos autos, verifica-se que o agravante, apesar de intimado, não atendeu à determinação para comprovação da gratuidade da justiça ou o recolhimento do valor das custas em dobro.
+Nesse sentido, incide na espécie o disposto na Súmula 187/STJ, o que acarreta a pena de deserção.
+Esta Corte Superior entende que "o recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 4º, do CPC/2015, a parte não comprovar ser beneficiária da gratuidade da justiça ou ter pago o preparo no momento de sua interposição ou, ainda, não efetuar o recolhimento em dobro" (AgInt no AREsp n. 2.348.108/BA, 4ª Turma, DJe de 31/10/2023).
+Ainda nesse sentido: AgInt nos EDcl no AREsp n. 2.087.066/PR, 3ª Turma, DJe de 28/6/2023.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% do valor atualizado da causa (e-STJ, fls. 255) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. PREPARO. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. RECOLHIMENTO EM DOBRO. AUSÊNCIA. DESERÇÃO DO RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de busca e apreensão, fundada no inadimplemento de contrato de financiamento com alienação fiduciária em garantia para aquisição de carregadeira de rodas.
+2. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 4º, do CPC/2015, a parte não comprovar ser beneficiária da gratuidade da justiça ou ter pago o preparo no momento de sua interposição ou, ainda, não efetuar o recolhimento em dobro. Precedentes.
+3. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
