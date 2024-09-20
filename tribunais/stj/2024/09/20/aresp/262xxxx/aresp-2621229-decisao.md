@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IMOBILIÁRIA LETRAS S/A. contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS TERCEIRO. CONSTRIÇÃO. IMÓVEL. HIPOTECA. VERBAS SUCUMBENCIAIS. CAUSALIDADE.
+1. Apelação cível interposta em face de sentença que, em sede de embargos de terceiros, julgou procedente o pedido, para determinar a manutenção do embargante na posse dos imóveis descritos na inicial.
+2. A imposição dos ônus processuais, no Direito brasileiro, pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes. Precedente: TRF2, 7ª Turma Especializada, AC 0119301-53.2015.4.02.5001, Rel. Des. Fed. SERGIO SCHWAITZER, DJe 17.12.2020.
+3. Nos termos do entendimento firmado pelo Superior Tribunal de Justiça, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência. Precedentes: STJ, 3ª Turma, AgInt no AREsp 2024387, Rel. Min. MOURA RIBEIRO, DJe 28.9.2022; STJ, 4ª Turma, AgInt no REsp 1931283, Rel. Min. RAUL ARAUJO, DJe 1.7.2021.
+4. No caso dos autos, houve resistência da apelante, de modo que devidos os honorários sucumbenciais.
+5. É devida a majoração da verba honorária sucumbencial, na forma do artigo 85, § 11, do CPC/2015,quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo CPC; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso (STJ, 2ª Seção, AgInt nos EREsp1539725, Rel. Min. ANTONIO CARLOS FERREIRA, DJE 19.10.2017). Na espécie, considerando a existência de condenação em honorários advocatícios na origem, bem como o não provimento do recurso interposto, cabível a fixação de honorários recursais no montante de 1% (um por cento), que serão somados aos honorários advocatícios anteriormente arbitrados, obedecidos os limites previstos no artigo 85, § 3º, do CPC/2015.
+6. Apelação não provida." (fl. 184)
+Os embargos de declaração opostos foram rejeitados (fls. 180/185).
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 85 do CPC, e divergência jurisprudencial, sustentando, em síntese, que deve-se reformar "o v. acórdão para excluir da sentença a condenação a que foi imposta a recorrente, pela violação ao princípio da causalidade, isentando-a de condenação aos ônus da sucumbência e custas" (fl. 254).
+Apresentadas contrarrazões às fls. 278/285 e 286/293.
+É o relatório. Decido.
+Quanto à questão de fundo, o Tribunal de origem manifestou-se nos seguintes termos:
+"A imposição dos ônus processuais, no Direito brasileiro, pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes (..) No que tange especificamente aos ônus sucumbenciais em embargos de terceiros, de acordo com o enunciado da Súmula 303 do STJ, tem-se que "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+Ademais, nos termos do entendimento firmado pelo Superior Tribunal de Justiça, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência. (..) No caso dos autos, houve resistência da apelante, de modo que devidos os honorários sucumbenciais.
+Em conclusão, imperativa a manutenção da sentença.
+É devida a majoração da verba honorária sucumbencial, na forma do artigo 85, § 11, do CPC/2015,quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de18.3.2016, quando entrou em vigor o novo CPC; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso (STJ, 2ª Seção, AgInt nos ER
+Esp 1539725, Rel. Min. ANTONIO CARLOSFERREIRA, DJE 19.10.2017).
+Na espécie, considerando a existência de condenação em honorários advocatícios na origem, bem como o não provimento do recurso interposto, cabível a fixação de honorários recursais no montante de 1% (um porcento), que serão somados aos honorários advocatícios anteriormente arbitrados, obedecidos os limites previstos no artigo 85, § 3º, do CPC/2015.
+Ante o exposto, voto no sentido de NEGAR PROVIMENTO À APELAÇÃO." (fls. 181/183)
+Assim, a conclusão do Tribunal a quo está em consonância com o entendimento adotado por esta Corte, no sentido de que os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição; contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. INCIDÊNCIA DA SÚMULA N.º 284 DO STF, POR ANALOGIA. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. CONDENAÇÃO MANTIDA. PRECEDENTES. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+2. Os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+Precedentes.
+3. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.425.182/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. SÚMULA N. 303/STJ. INAPLICABILIDADE. RECURSO ESPECIAL PROVIDO. DECISÃO MANTIDA. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A Súmula n. 303/STJ dispõe que os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição.
+2. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.130.280/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. APLICAÇÃO DO PRINCÍPIO DA SUCUMBÊNCIA. DISSÍDIO PREJUDICADO.
+1. Embargos de terceiro.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Os honorários advocatícios nos embargos de terceiro devem ser suportados por quem deu causa à constrição. Contudo, a oposição de resistência ao mérito dos embargos de terceiro, pleiteando-se a manutenção da penhora, transfere ao embargado/exequente os honorários sucumbenciais, à luz do princípio da sucumbência.
+6. Diante da análise do mérito em que foi desacolhida a pretensão da agravante, fica prejudicada a análise da divergência jurisprudencial.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.400.941/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024.)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
