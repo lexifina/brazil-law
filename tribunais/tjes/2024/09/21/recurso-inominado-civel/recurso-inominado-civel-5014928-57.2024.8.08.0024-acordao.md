@@ -1,0 +1,43 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5014928-57.2024.8.08.0024
+
+RECURSO INOMINADO CÍVEL (460)
+
+RECORRENTE: LEMUEL SOARES RANGEL e outros
+
+RECORRIDO: GOL LINHAS AEREAS S.A. e outros
+
+RELATOR(A):
+RAFAEL FRACALOSSI MENEZES
+
+______________________________________________________________________________________________________________________________________________
+
+EMENTA
+
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+
+Decisão
+: Por maioria, conhecer e negar provimento ao recurso, nos termos do voto divergente da Dra Walmea Elyze Carvalho de Moraes, gabinete 03, sendo acompanhada por Dra Thaita.
+
+Órgão julgador vencedor
+: 3ª Turma Recursal - Gabinete 3
+
+______________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+
+_______________________________________________________________________________________________________________________________________________
+
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
