@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de THIAGO DE LIMA JUNIOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Decido.
+Em consulta realizada na  página  eletrônica  do Tribunal de origem, verifica-se que sobreveio sentença condenando o paciente à reprimenda de 06 anos, 09 meses e 20 dias, em regime inicial fechado, sendo negado o direito de recorrer em liberdade, com o acréscimo de novos argumentos, nos seguintes termos:
+"JULGO PROCEDENTE a pretensão punitiva para CONDENAR LEONARDO LUCAS OLIVIERA ROSA por incursão no art. 33, caput, da Lei n.º 11.343/2006 à pena de 5 anos e 10 meses de reclusão em regime inicial fechado e ao pagamento de 583 dias-multa, no valor unitário indicado na fundamentação; e CONDENAR THIAGO DE LIMA JUNIOR por incursão no art. 33, caput, da Lei n.º 11.343/2006 à pena de 6 anos, 9 meses e 20 dias de reclusão em regime inicial fechado e ao pagamento de 680 dias-multa, no valor unitário indicado na fundamentação Para os fins previstos no art. 316, parágrafo único, e 387, § 1º, CPP, consigno que a parte sentenciada não poderá apelar em liberdade, dada a gravidade concreta do crime praticado, consoante fez-se consignar na fundamentação. Ademais, permanecem presentes as circunstâncias que fundamentaram a decretação da prisão preventiva, especialmente a necessidade de garantia da ordem pública, conforme argumentação tecida em fls. 102/103 e ora incorporada. Assim, porquanto ainda verificados os requisitos previstos no artigo 312, do Código de Processo Penal, incabível a concessão de liberdade provisória à parte acusada. Recomende-se na prisão onde se encontra. " (grifos acrescidos)
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+ EMENTA
