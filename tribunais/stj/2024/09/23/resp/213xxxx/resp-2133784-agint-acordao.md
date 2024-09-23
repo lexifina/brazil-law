@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA POR LITIGÂNCIA DE MÁ-FE. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃ O DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - Rever a conclusão alcançada pela origem, no sentido de ser devida a multa por litigância de má-fé, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por CTEEP - COMPANHIA DE TRANSMISSAO DE ENERGIA ELETRICA PAULISTA contra a decisão que não conheceu do seu recurso especial, fundamentada na incidência da Súmula7/STJ.
+Sustenta a Agravante, em síntese, que, "ao contrário do que entendeu a decisão agravada, o caso não demanda reexame fático, razão pela qual não se trata da hipótese de aplicação da Súmula 7 do STJ" (fl. 633e)
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 679/684e.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA POR LITIGÂNCIA DE MÁ-FE. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃ O DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - Rever a conclusão alcançada pela origem, no sentido de ser devida a multa por litigância de má-fé, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+VOTO
+No que se refere ao Recurso Especial da CTEEP, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou ser devida a multa por litigância de má-fé, nos seguintes termos (fls. 223/224e):
+Por fim, com razão o agravado quanto à condenação da parte agravante por litigância de má-fé, pois, a questão aqui discutida já foi objeto de análise por este Tribunal de Justiça (e esta relatoria), em outros agravos de instrumentos, aparentemente interpostos contra a mesma equipe de advogados, com a intenção de causar tumulto processual, pela insistência em atuar em dissonância com as determinações judiciais.
+E, por ocasião do julgamento dos embargos de declaração, esclareceu que (fls. 256/257e):
+No mais, sobre a condenação em litigância de má-fé, esta persiste, pois os embargantes foram condenados pela insistência em não cumprir a obrigação, causando tumulto processual desnecessário, conforme se verifica do trecho proferido no acórdão agravado: "(..). Por fim, com razão o agravado quanto à condenação da parte agravante por litigância de má-fé, pois, a questão aqui discutida já foi objeto de análise por este Tribunal de Justiça (e esta relatoria), em outros agravos de instrumento, aparentemente interpostos contra a mesma equipe de advogados, com a intenção de causar tumulto processual, pela insistência em atuar em dissonância com as determinações judiciais."(fls. 223/224).
+Por outro lado, o acolhimento quanto ao erro material(relativamente aos trechos que falam sobre a EC nº 103/2019), não retira a recalcitrância da agravante em cumprir a decisão proferida pelo Ministro Alexandre de Moraes, expressa no sentido de que "devem ser mantidas TODAS as condições e critérios de complementação das APOSENTADORIAS E PENSÕES estatuídas pela Lei Estadual nº 4.819/1958, ainda que tenham adquirido a condição de pensionistas após 2003 e desde que o beneficiário tenha sido admitido até 13 de maio de 1074."
+Cabe ressaltar que o cumprimento provisório de sentença foi instaurado para fazer cumprir a decisão do colendo Supremo Tribunal Federal, e qualquer forma de alteração, deve ser pleiteada diretamente ao Ministro Alexandre de Moraes, relator da decisão a ser executada.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO NO JULGADO. EXISTÊNCIA. SANEAMENTO. MULTA POR LITIGÂNCIA DE MÁ-FÉ APLICADA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. Caso concreto em que resta evidenciada omissão a respeito da tese de ofensa aos arts. 80, 81 e 1.022 do CPC.
+3. Na forma da jurisprudência desta Corte, "sem incorrer na vedação da Súmula n. 7/STJ, não há como averiguar, em recurso especial, se os recorridos teriam praticado condutas merecedoras de multa por litigância de má-fé" (REsp 1.953.347/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 16/8/2022). Nesse mesmo sentido: AgInt nos EDcl no AREsp 1.987.845/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/6/2022; EDcl no AgInt no AREsp 1.355.844/PR, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/8/2019.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+(EDcl no AgInt nos EDcl no REsp n. 1.898.156/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022- destaquei)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ATO QUE DETERMINOU O PROSSEGUIMENTO DE LICITAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO IMPROVIDO. LITIGÂNCIA DE MÁ-FÉ. TESE NÃO APRECIADA. EXISTÊNCIA DE OMISSÃO, QUE, TODAVIA, NÃO ALTERA O RESULTADO DO JULGAMENTO. EMBARGOS DECLARATÓRIOS PARCIALMENTE ACOLHIDOS, PARA COMPLEMENTAÇÃO, SEM EFEITOS MODIFICATIVOS.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 06/11/2023.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, quanto ao mérito da demanda. Todavia, deixou de apreciar o pedido relacionado à litigância de má-fé.
+Assim, diante da omissão apontada, acolho em parte os Embargos Declaratórios, sem efeitos modificativos quanto ao resultado do julgamento, para, tão somente, apreciar a omissão apontada.
+III. No caso, o entendimento firmado pelo Tribunal a quo, quanto ao cabimento da multa por litigância de má-fé, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+IV. Embargos Declaratórios acolhidos, para sanar a omissão apontada, nos termos da fundamentação, sem atribuição de efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.233.362/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023 - destaquei)
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
