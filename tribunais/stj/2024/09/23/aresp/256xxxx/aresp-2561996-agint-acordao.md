@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NOTRE  DAME  INTERMÉDICA  SAÚDE  S.A.  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ  (e-STJ  fls.  195/197).
+Nas  presentes  razões  (e-STJ  fls.  200/216),  a  agravante  sustenta  que  não  há  nenhum  óbice  sumular  no  presente  caso.
+Pleiteia  pelo  afastamento  da  "(..)  condenação  em  face  desta  operadora,  haja  vista  a  inexistência  dos  requisitos  necessários  para  a  configuração  do  dever  indenizatório"  (e-STJ  fl.  209).
+Requer  o  provimento  do  agravo  ou  sua  submissão  ao  colegiado.
+Não  foi  apresentada  impugnação  (e-STJ  fl.  221).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CUMPRIMENTO  DE  SENTENÇA.  ASTREINTES.  MULTA  DIÁRIA.  CABIMENTO.  VALOR.  NECESSIDADE.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  As  concl  usões  da  Corte  de  origem  em  relação  ao  cabimento,  à  proporcionalidade  e  à  razoabilidade  das  astreintes  na  hipótese  não  podem  ser  revistas  por  esta  Corte  Superior,  pois  demandaria  reexame  do  conjunto  fático-probatório  dos  autos,  o  que  é  vedado  em  recurso  especial  em  virtude  do  óbice  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+A  recorrente  não  trouxe  argumentos  suficientes  a  infirmar  a  decisão  agravada.
+A  tese  jurídica  referente  ao  cabimento  das  astreintes  foi  analisada  nos  seguintes  termos:
+"(..)
+Cuidam  os  autos  de  origem  de  cumprimento  de  sentença,  visando  a  execução  de  astreintes.
+A  tutela  de  urgência  foi  concedida  às  fls.  94/95  dos  autos  principais:  "Assim,  defiro  a  tutela  provisória  de  urgência  para  o  fim  de  determinar  à  parte  requerida  que  tome  as  providências  necessárias  para  que  sejam  autorizados/realizados  os  procedimentos  indicados  no  relatório  médico  de  fl.  91,  por  profissionais  e  hospital  credenciados  à  rede  de  atendimento  do  plano  de  saúde,  devendo  fornecer  todos  os  medicamentos  e  materiais  necessários.
+Prazo  para  cumprimento:  03  dias,  sob  pena  de  multa  diária  de  R$  1.000,00,  limitada  a  15  dias  e  sequestro  da  verba  necessária  para  a  realização  do  procedimento  na  rede  privada.
+Expeça-se  o  necessário.  Serve  a  presente  decisão  como  ofício,  devendo  a  parte  autora  providenciar  o  encaminhamento  com  futura  comprovação  nos  autos."  (g.n.).
+A  executada  recebeu  o  pedido  liminar  no  dia  05/02/2021,encerrando-se  o  prazo  em  08/02/2021.
+Em  que  pese  o  exame  tenha  poucas  disponibilidades,  a  guia  de  autorização  foi  expedida  somente  dezessete  dias  do  encerramento  do  prazo,  de  maneira  que  configurado  o  descumprimento  da  ordem  judicial  e  cabível,  portanto,  a  aplicação  da  multa  fixada.
+A  multa  cominatória,  conhecida  como  "astreintes",  está  prevista  no  artigo  537,  do  CPC:  "A  multa  independe  de  requerimento  da  parte  e  poderá  ser  aplicada  na  fase  de  conhecimento,  em  tutela  provisória  ou  na  sentença,  ou  na  fase  de  execução,  desde  que  seja  suficiente  e  compatível  com  a  obrigação  e  que  se  determine  prazo  razoável  para  cumprimento  do  preceito".
+Assim,  constitui  meio  de  coerção  indireta,  visando  pressionar  o  devedor  ao  cumprimento  da  obrigação,  não  possuindo  finalidade  ressarcitória.
+E  o  §  1º  do  artigo  supra  referido  prevê  as  hipóteses  que  permitem  a  modificação  do  valor  ou  periodicidade  da  multa  fixada,  inclusive  em  caso  dela  se  mostrar  irrisória  ou  exorbitante.
+Contudo,  não  caracterizada  nenhuma  delas.  O  valor  de  R$  15.000,00  é  adequado  para  o  atraso  que  superou  os  vinte  dias  para  expedição  de  guia  de  autorização.  Portanto,  proporcional  e  razoável  o  valor  fixado  para  que  se  satisfaça  o  escopo  de  forçar  o  cumprimento  da  determinação  judicial.
+No  que  tange  ao  pedido  de  afastamento  da  multa  e  honorários  advocatícios  diante  de  oferecimento  de  seguro  garantia,  descabida  a  irresignação.
+(..)
+Ainda  que  haja  garantia  securitária  ofertada  no  cumprimento  provisório  de  sentença,  esta  não  pode  ser  confundida  com  o  pagamento  espontâneo,  de  maneira  que  não  afasta  a  aplicação  da  multa  e  honorários  advocatícios  previstos  nos  dispositivos  acima  citados"  (e-STJ  fls.  103/105).
+Nesse  contexto,  reapreciar  a  conclusão  do  tribunal  local  acerca  do  cabimento  ou  valor  das  astreintes  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  na  Súmula  nº  7/STJ.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  DESCUMPRIMENTO  DE  DECISÃO  JUDICIAL.  MULTA.  EXORBITÂNCIA  NÃO  ATESTADA.  REVISÃO.  SÚMULA  7/STJ.  MULTA  DO  ART.  1.021  DO  CPC/2015  AFASTADA.  MULTA  DO  ART.  1.026,  §  2º,  DO  CPC/2015.  NÃO  CABIMENTO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  apuração  da  razoabilidade  e  da  proporcionalidade  do  valor  da  multa  diária  deve  ser  verificada  no  momento  da  sua  fixação,  em  relação  ao  da  obrigação  principal,  uma  vez  que  a  redução  do  montante  fixado  a  título  de  astreinte,  quando  superior  ao  valor  da  obrigação  principal,  acaba  por  prestigiar  a  conduta  de  recalcitrância  do  devedor  em  cumprir  a  decisão  judicial  e  estimular  a  interposição  de  recursos  a  esta  Corte  Superior  para  a  redução  da  sanção,  em  total  desprestígio  à  atividade  jurisdicional  das  instância  ordinárias.
+2.  O  exame  da  pretensão  recursal  de  reforma  do  acórdão  recorrido,  para  negar  ao  Tribunal  de  origem  a  prerrogativa  de  revisão  do  valor  final  das  astreintes  fixadas,  exigiria  a  alteração  das  premissas  fático-probatórias  estabelecidas  pelo  acórdão,  o  que  é  vedado  no  recurso  especial,  nos  termos  do  enunciado  da  Súmula  7  do  Superior  Tribunal  de  Justiça.
+3.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/20  15  não  é  automática,  porquanto  a  condenação  da  parte  agravante  ao  pagamento  da  aludida  multa  -  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada  -  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  se  verifica  na  hipótese  examinada.
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.337.905/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  28/8/2023,  DJe  de  30/8/2023).
+"AGRAVO  IN TERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  CASO  DE  URGÊNCIA/EMERGÊNCIA.  RECUSA.  NÃO  CUMPRIMENTO  DO  PRAZO  DE  CARÊNCIA  PARA  ATENDIMENTO  EMERGENCIAL.  24  HORAS.  LIMITAÇÃO  DA  INTERNAÇÃO  POR  12  HORAS.  CARÁTER  ABUSIVO.  SÚMULAS  N.  302  E  597  DO  STJ.  NEGATIVA  INDEVIDA.  OBRIGATORIEDADE  DE  ATENDIMENTO.  DANO  MORAL.  CONFIGURAÇÃO.  ENTENDIMENTO  EM  SINTONIA  COM  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  N.  83  DO  STJ.  REVISÃO.  NÃO  CABIMENTO.  NECESSIDADE  DE  INCURSÃO  NO  ACERVO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  N.  7  DO  STJ.  ASTREINTES.  IMPOSIÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  VALOR.  RAZOABILIDADE  E  PROPORCIONALIDADE.  ACERVO  FÁTICO-PROBATÓRIO.  REEXAME.  SÚMULA  N.  7  DO  STJ.  ARTS.  412  E  413  DO  CC.  MERA  INDICA  ÇÃO.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  N.  284  DO  STF.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  é  abusiva  a  cláusula  contratual  que  prevê  prazo  de  carência  para  os  serviços  prestados  pelo  plano  de  saúde.  No  entanto,  configura  abusividade  a  negativa  de  fornecimento  de  assistência  médica  em  casos  de  urgência  ou  emergência  durante  o  período  de  carência,  sendo  injusta  a  recusa  da  operadora.
+2.  É  abusiva  a  cláusula  contratual  que,  em  casos  de  urgência  ou  emergência,  limita  o  período  de  internação  ao  período  de  12  horas  ou  prevê  carência  para  utilização  dos  serviços  de  assistência  médica  após  ultrapassado  o  prazo  máximo  de  24  horas  da  contratação,  conforme  disposto  nas  Súmulas  n.  302  e  597  do  STJ.
+3.  Havendo,  em  razão  do  período  de  carência  estipulado  no  contrato,  a  indevida  recusa  de  atendimento  pela  operadora  do  plano  de  saúde  em  caso  de  urgência  ou  emergência,  é  cabível  a  indenização  por  danos  morais.
+4.  Tendo  o  tribunal  de  origem  concluído,  mediante  a  análise  do  acervo  probatório  dos  autos,  pelo  cabimento  da  multa  cominatória  por  ausência  de  demonstração  do  cumprimento  integral  de  obrigação,  revisar  referida  conclusão  encontra  óbice  na  Súmula  n.  7  do  STJ.
+5.  A  questão  relativa  à  redução/aumento  das  astreintes  não  pode  ser  revista  na  instância  especial,  pois  tal  procedimento  implica  reexame  das  circunstâncias  fáticas  que  delimitaram  a  controvérsia  (Súmula  n.  7  do  STJ),  salvo  se  o  arbitramento  for  excessivo  ou  ínfimo.
+6.  Aplica-se  a  Súmula  n.  284  do  STF  quando  não  for  possível  aferir  de  que  maneira  o  acórdão  impugnado  violou  os  dispositivos  de  lei  federal  indicados  no  recurso  especial.
+7.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.858.967/CE,  Relator  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  17/4/2023,  DJe  de  19/4/2023).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
