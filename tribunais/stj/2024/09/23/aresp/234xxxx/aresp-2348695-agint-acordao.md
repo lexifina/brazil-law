@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. IMÓVEL. PROMESSA DE COMPRA E VENDA. DESISTÊNCIA IMOTIVADA PELO COMPRADOR. PERCENTUAL DE RETENÇÃO. SÚMULA N. 83 DO STJ. ARRAS. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor.
+2. Para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto.
+3. Agravo interno desprovido.
+RELATÓRIO
+MORABEM BARRO VERMELHO - EMPREENDIMENTOS IMOBILIÁRIOS LTDA. interpõe agravo interno contra a decisão de fls. 553-558, que negou provimento ao agravo em recurso especial.
+A agravante alega não ser caso de aplicação da Súmula n. 83 do STJ, uma vez que as circunstâncias fático-jurídicas do caso são distintas daquelas referentes aos julgados citados na decisão agravada.
+Argumenta que a discussão presente não se limita ao percentual aplicado na cláusula penal, referindo-se também à possibilidade de incidência das arras contratuais.
+Ademais, afirma ter ocorrido o prequestionamento implícito do art. 420 do Código Civil (arras), ressaltando que "o Tribunal de Justiça do Rio Grande do Norte considerou as alegações da recorrida sobre a existência de previsão contratual da perda do sinal em hipótese de rescisão, e de que a não aplicação dessa configuraria violação ao art. 420 do CC".
+Requer, assim, o provimento do agravo interno para que seja conhecido e provido seu recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. IMÓVEL. PROMESSA DE COMPRA E VENDA. DESISTÊNCIA IMOTIVADA PELO COMPRADOR. PERCENTUAL DE RETENÇÃO. SÚMULA N. 83 DO STJ. ARRAS. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor.
+2. Para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto.
+3. Agravo interno desprovido.
+VOTO
+Como pontuado na decisão agravada, quanto à alegação de ofensa ao art. 67-A, § 5º, da Lei n. 4.591/1964, o entendimento do Tribunal a quo se coaduna com a jurisprudência firmada pelo STJ de que, na rescisão de contrato de compra e venda de imóvel por desistência do comprador, adota-se "um padrão-base de cláusula penal - retenção de 25% dos valores pagos -nos casos de desistência imotivada pelo comprador de imóvel, em que o acórdão recorrido não menciona qualquer circunstância específica apta a justificar a redução do parâmetro jurisprudencial, isto é, aquém do percentual de 25%" (AgInt nos EDcl no AREsp n. 2.064.905/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+A propósito, confiram-se ainda os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. IMÓVEL. PROMESSA DE COMPRA E VENDA. DECISÃO. PERCENTUAL DE RETENÇÃO. PARÂMETROS DE RAZOABILIDADE. SÚMULA Nº 565/STJ. ALTERAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador realizada antes da Lei nº 13.786/2018, deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento. Havendo peculiaridade que justifique, esse percentual pode ser reduzido.
+3. Na hipótese, a modificação do percentual fixado na origem demandaria a interpretação de cláusula contratual e o reexame do acervo fático probatório dos autos, providências vedadas em recurso especial (Súmulas nºs 5 e 7/STJ).
+4. Agravo interno não provido. (AgInt no AREsp n. 2.017.242/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. IMÓVEL. RESCISÃO. POSTERIOR A LEI Nº 13.786/18. PERCENTUAL. SÚMULA 83/STJ. ALTERAÇÃO DO PERCENTUAL. REEXAME DE FATOS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. "Consoante entendimento do Superior Tribunal de Justiça, "a despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" (REsp n. 1.723.519/SP, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 28/8/2019, DJe 2/10/2019).
+2. A Segunda Seção do STJ, por ocasião desse julgamento, consolidou o entendimento de que, na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor, tal como definido no julgamento dos EAg 1.138.183/PE (Rel. Ministro SIDNEI BENETI, DJe de 4.10.2012), por ser esse percentual adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato.
+3. O v. Acórdão recorrido está, portanto, de acordo com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+4. Agravo interno não provido. (AgInt no REsp n. 2.040.692/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023.)
+A contrário do que alega a agravante, os precedentes citados apresentam o mesmo arcabouço fático-jurídico observado no presente caso, qual seja, a limitação na retenção de valores já pagos após desistência imotivada pelo comprador em promessa de compra e venda de unidade imobiliária em incorporação imobiliária.
+No tocante à violação do art. 420 do CC (arras), verifica-se que esse dispositivo legal não foi objeto de análise pelo Tribunal a quo, tampouco ocorreu a oposição dos embargos de declaração, de modo que não houve o indispensável prequestionamento.
+Caso, pois, de aplicação das Súmulas n. 282 e 356 do STF.
+Ressalte-se que, de acordo com a reiterada jurisprudência do Superior Tribunal de Justiça, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A matéria referente aos arts. 884 do CC/2002 e 503 do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 282 do STF, aplicável por analogia.
+3. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+4. Agravo interno não provido. (AgInt no AgInt no AREsp n. 2.052.990/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.  ..  AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+3. Inviabiliza-se o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos pelas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas 282 e 356 do STF.
+4. A ausência de impugnação, nas razões do recurso especial, de fundamentos suficientes à manutenção do acórdão estadual atrai a incidência, por analogia, das Súmulas 283 e 284 do STF.
+5. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial. (AgInt no AREsp n. 2.028.056/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 22/9/2022, destaquei.)
+Ante o e xposto, nego provimento ao agravo interno.
+É como voto.
