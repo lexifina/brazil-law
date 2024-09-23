@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ALLIANZ SAÚDE S.A, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer com pedido de antecipação de tutela, ajuizada por BENEFIT PROGRAMAS DE FIDELIDADE LTDA, em face da agravante, na qual alega - em síntese - que teve o plano de saúde contratado com a ré cancelado, sem qualquer notificação, inviabilizando a manutenção de tratamento de beneficiária de seus quadros, que é portadora de "Doença de Crohn", com a indicação, pelo hospital, de que serão realizadas cobranças pela continuidade do atendimento.
+Acórdão recorrido: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Plano de saúde. Rescisão unilateral. Falta de pagamento de mensalidade. Atraso superior a sessenta dias. Necessidade de notificação para purgação da mora. Ausência de comprovação. Inadmissibilidade. Empresa com apenas cinco beneficiários. Equiparação a plano familiar/individual. Art. 13, II, da Lei nº 9.656/98. Precedente do STJ. Restabelecimento do contrato determinado. Sentença mantida. Recurso improvido. (e-STJ, fl. 454)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial, em razão da:
+i) não demonstração de violação dos arts. 13, II, da Lei 9.656/98, 476, 757, 760 e 774, todos do CC/02, 2º do CDC e 5 º do CPC; e
+iii) incidência da Súmula 7/STJ ( arts. 13, II, da Lei 9.656/98, 476, 757, 760 e 774, todos do CC/02, 2º do CDC e 5 º do CPC).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que "(..) no caso destes autos, não se pretende a reanalise das provas. Com o referido posicionamento, o v. acórdão violou lei federal, especificamente os artigos 476, 757 e 760 do Código Civil, ao artigo 2º do Código de Defesa do Consumidor, bem como o artigo 13, II da Lei 9.656/98 que não se aplica ao caso em tela." (e-STJ, fl. 525).
+Além disso, versa que "(..) inequívoco que o v. acórdão ao manter a r. sentença de primeira instância, violou referidos artigos, eis que até o presente momento, o Agravado sequer depositou aos autos, conforme tutela deferida, os valores dos prêmios devidos ante o restabelecimento do contrato de seguro que, FRISA-SE, foi inicialmente cancelado também por inadimplência do mesmo." (e-STJ, fl. 526).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: não demonstração de violação dos arts. 774 do CC/02 e 5 º do CPC e incidência da Súmula 7/STJ (arts. 774 do CC/02 e 5 º do CPC).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parta agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa (e-STJ, fl. 457) para 18%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
