@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+$ ementa
+RELATÓRIO
+MINISTRO AFRÂNIO VILELA: Em análise, agravo interno interposto pela COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE em objeção à decisão vista às fls. 1.175-1.179, que não conheceu do recurso especial interposto, com fundamento no art. 105, III, a, da Constituição Federal, diante da conformidade da sua fundamentação com a jurisprudência deste Tribunal e do óbice da Súmula 7/STJ.
+Em suas razões, de fls. 1.183-1.187, a agravante sustenta, em síntese, que a identidade entre o caso dos autos e o REsp 1.339.313/RJ se extrai do próprio teor do acórdão recorrido, além de estar consignado que há utilização das galerias de água, que não é prestado o tratamento e a confusão entre fases do serviço de esgoto e fases do tratamento do esgoto, não sendo o caso de aplicar o óbice da Súmula 7/STJ, pois pretende apenas corrigir a valoração jurídica equivocada do art. 3º da Lei 11.445/2007. Pede a reconsideração da decisão agravada ou o provimento do recurso.
+Intimado, o agravado deixou de responder ao recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TARIFA DE ESGOTO. DISTINÇÃO DA SITUAÇÃO FÁTICA DOS AUTOS E DAQUELA EXAMINADA NO RESP 1.339.313/RJ REGISTRADA PELO TRIBUNAL DE ORIGEM. PRETENSÃO RECURSAL QUE DEMANDA REEXAME E REVALORAÇÃO DO LASTRO PROBATÓRIO. AGRAVO INTERNO DESPROVIDO.
+1. Ao dirimir a controvérsia, o Tribunal de origem registrou a distinção da situação posta nos autos e aquela examinada no REsp 1.339.313/RJ, consignando, a partir do cotejo dos elementos de prova, especialmente da prova técnica, que não é realizada nenhuma das fases de tratamento do esgoto sanitário no imóvel do autor, não havendo a prestação do serviço que enseja a cobrança da tarifa de esgoto.
+2. A análise dos pedidos recursais demandaria o reenquadramento fático da situação dos autos, a partir do amplo cotejo do material instrutório, o que escapa à especialidade desta via recursal.
+3. Mantém-se a decisão que não conhece do recurso especial quando a pretensão do recorrente esbarra no enunciado da Súmula 7 deste Superior Tribunal de Justiça, demandando reexame e revaloração do lastro probatório.
+4. Agravo interno desprovido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos de admissibilidade.
+O agravante se irresigna contra a decisão que não conheceu do recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. Direito do Consumidor. Cobrança de água e esgoto e parcelamento por débito retroativo. Sentença de procedência. Duas unidades de consumo. Condenação das rés ao refaturamento de forma dobrada e ao pagamento de danos morais de R$ 3.000,00.
+1. Preliminares que não merecem prosperar.
+1.1. Preliminar de ilegitimidade passiva arguida pela CEDAE que se rejeita. Contrato de Concessão da Prestação do Serviço de Esgotamento Sanitário e Fornecimento de Água entre o Município do Rio de Janeiro e a FOZ ÁGUAS 5 (nome fantasia de F.AB. Zona Oeste S/A) em cooperação.
+Arrecadação conjunta do valor pago. Emissão de faturas com as logomarcas da CEDAE e Foz Águas.
+1.2. Preliminar de ausência de sucessão empresarial arguida pela Foz Aguas que importa em inovação recursal.
+2. Tese da prescrição trienal que veiculada pela CEDAE que não se acolhe. Aplicável à hipótese a prescrição decenal, nos termos do verbete sumulado nº 412 do STJ. Tema 932 do STJ. 3. Perícia que atestou não haver serviço de esgotamento no imóvel. Cobrança indevida.
+3.1. Cobrança de água que deve ser objeto de refaturamento, eis que se deu por estimativa antes e depois da instalação do hidrômetro.
+Ilegalidade da cobrança. Súmula 152 do TJRJ.
+4. Devolução do indébito na forma simples.
+4.1. Dano moral não configurado, eis que não obstante o corte no abastecimento de água por falta de pagamento de cobrança irregular, a autora não estava na posse direta de qualquer das unidades de consumo.
+PARCIAL PROVIMENTO AO RECURSO DA CEDAE.
+PARCIAL CONHECIMENTO DO RECURSO INTERPOSTO PELA FAB ZONA OESTE E, NESSA EXTENSÃO, PARCIAL PROVIMENTO (fls. 788-789) .
+A despeito do seu esforço argumentativo, não logra demonstrar a ocorrência da alegada omissão, tampouco ser cabível a superação do óbice da Súmula 7 deste Superior Tribunal de Justiça.
+No que concerne à alegada desnecessidade de reexame de provas, o Tribunal de origem registrou a distinção entre a situação narrada nos autos e a tese fixada no julgamento do REsp 1.339.313/RJ, consignando que no caso "o laudo pericial index 558 - fls. 570 e 571- item 5.2, atestou que as rés não prestam serviços de esgotamento sanitário", com indicação dos elementos probatórios que corroboraram a conclusão, sobretudo dos esclarecimentos constantes no laudo pericial.
+A recorrente, por sua vez, postula a aplicação da tese fixada no Tema Repetitivo 565/STJ, e o reconhecimento da similitude da situação dos autos e aquela examinada no precedente qualificado (REsp 1.339.313/RJ); o que demandaria o reexame do lastro probatório, vedado pela Súmula 07/STJ.
+O acórdão proferido no autos do recurso representativo da controvérsia, aliás, está assim ementado:
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. SERVIÇO DE ESGOTAMENTO SANITÁRIO. PRESTAÇÃO DE SERVIÇOS DE COLETA E TRANSPORTE DOS DEJETOS. INEXISTÊNCIA DE REDE DE TRATAMENTO. TARIFA. LEGITIMIDADE DA COBRANÇA.
+1. Não há violação do artigo 535 do CPC quando a Corte de origem emprega fundamentação adequada e suficiente para dirimir a controvérsia.
+2. À luz do disposto no art. 3º da Lei 11.445/2007 e no art. 9º do Decreto regulamentador 7.217/2010, justifica-se a cobrança da tarifa de esgoto quando a concessionária realiza a coleta, transporte e escoamento dos dejetos, ainda que não promova o respectivo tratamento sanitário antes do deságue.
+3. Tal cobrança não é afastada pelo fato de serem utilizadas as galerias de águas pluviais para a prestação do serviço, uma vez que a concessionária não só realiza a manutenção e desobstrução das ligações de esgoto que são conectadas no sistema público de esgotamento, como também trata o lodo nele gerado.
+4. O tratamento final de efluentes é uma etapa posterior e complementar, de natureza sócio-ambiental, travada entre a concessionária e o Poder Público.
+5. A legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos, principalmente porque não estabelece que o serviço público de esgotamento sanitário somente existirá quando todas as etapas forem efetivadas, tampouco proíbe a cobrança da tarifa pela prestação de uma só ou de algumas dessas atividades. Precedentes: REsp 1.330.195/RJ, Rel. Min. Castro Meira, Segunda Turma, DJe 04.02.2013;
+REsp 1.313.680/RJ, Rel. Min. Francisco Falcão, Primeira Turma, DJe 29.06.2012; e REsp 431121/SP, Rel. Min. José Delgado, Primeira Turma, DJ 07/10/2002.
+6. Diante do reconhecimento da legalidade da cobrança, não há o que se falar em devolução de valores pagos indevidamente, restando, portanto, prejudicada a questão atinente ao prazo prescricional aplicável as ações de repetição de indébito de tarifas de água e esgoto.
+7. Recurso especial provido, para reconhecer a legalidade da cobrança da tarifa de esgotamento sanitário. Processo submetido ao regime do artigo 543-C do CPC e da Resolução 8/STJ (REsp n. 1.339.313/RJ, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 12/6/2013, DJe de 21/10/2013 - grifo nosso).
+Neste sentido, a decisão agravada menciona que a situação analisada no precedente qualificado não se assemelha àquela em que não é prestado nenhum serviço ao consumidor, como na situação dos autos, conforme registrado pelo Tribunal de origem, escapando da especialidade desta via o reexame e a revaloração do conteúdo fático-probatório.
+Sobre o tema, já decidiu o Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. TARIFA DE ESGOTO. PREÇO PÚBLICO. SITUAÇÃO FÁTICO-PROBATÓRIA DESCRITA PELAS INSTÂNCIAS ORDINÁRIAS NO SENTIDO DE INEXISTIR QUALQUER SERVIÇO DE ESGOTAMENTO SANITÁRIO. REVISÃO. INADMISSIBILIDADE. EXAME DE PROVA.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Conforme decidido pela Primeira Seção, no REsp 1.339.313/RJ, repetitivo, justifica-se a cobrança da tarifa de esgoto quando a concessionária realiza a coleta, transporte e escoamento dos dejetos, ainda que não promova o respectivo tratamento sanitário antes do deságue; e a utilização das galerias de águas pluviais para a prestação do serviço não afasta a possibilidade da cobrança, uma vez que a concessionária não só realiza a manutenção e desobstrução das ligações de esgoto que são conectadas no sistema público de esgotamento, como também trata o lodo nele gerado.
+3. No caso dos autos, o acórdão recorrido, após ponderação a respeito da tese jurídica firmada por este Tribunal Superior, a partir de conclusões do laudo pericial, consignou não ocorrer nenhuma prestação de serviços, o que não autorizaria a cobrança da tarifa. Essa conclusão não pode ser revista sem reexame fático-probatório. Observância da Súmula 7 do STJ.
+4. A situação analisada no precedente qualificado não se assemelha àquela em que o esgoto é, diretamente, lançado, in natura, nas galerias de águas pluviais e, assim, corre até os corpos hídricos naturais, como, p. ex., rios e córregos. É que, nesses casos, não há qualquer serviço prestado ao consumidor. Precedentes.
+5. Agravo interno não provido (AgInt no REsp n. 1.959.679/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 19/9/2022, DJe de 21/9/2022).
+Isso posto, nego provimento ao recurso.
