@@ -1,0 +1,1 @@
+Artigo 40 - A regulamentação do presente decreto-lei poderá ser feita por partes de acôrdo com as exigências dos serviços e dela constarão as atribuições das Divisões, Sub-divisões, Secções e Serviços, bem como da Procuradoria Judicial.

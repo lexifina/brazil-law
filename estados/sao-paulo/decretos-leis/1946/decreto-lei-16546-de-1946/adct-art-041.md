@@ -1,0 +1,1 @@
+Artigo 41 - Enquanto não for expedida a regulamentação do presente decreto-lei, os casos urgentes dela dependentes serão, sob proposta do Diretor Geral, resolvidos, em carater provisorio, pelo Conselho Rodoviário, cujas decisões subirão conforme o disposto do artigo 8.° aprovação do Secretário de Estado dos Negócios da Viação e Obras Públicas ou Chefe do Govêrno do Estado

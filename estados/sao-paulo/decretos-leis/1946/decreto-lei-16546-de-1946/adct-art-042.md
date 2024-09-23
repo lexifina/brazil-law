@@ -1,0 +1,1 @@
+Artigo 42 - As disposições do decreto-lei n.° 11.665, de 30 de novembro de 1940, não atingidas pela regulamentação parcial ou total, continuarão em vigor em tudo aquilo que, implicitamente ou explicitamente, não contrariar o presente decreto-lei.

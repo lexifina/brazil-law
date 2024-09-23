@@ -1,0 +1,2 @@
+Artigo 38 - Os serviços a que se referem as alíneas "c" e "d", do artigo 2.° serão assumidos pelo DER gradativamente, no prazo de dois anos, de acôrdo com os planos propostos pelo Conselho Rodoviário e aprovados pelo Govêrno do Estado, o mesmo acontecendo com os recursos a esses serviços correspondentes, enumerados no artigo 17.
+Parágrafo único - Dos referidos planos constará a criação dos novos orgãos e cargos que forem necessários.

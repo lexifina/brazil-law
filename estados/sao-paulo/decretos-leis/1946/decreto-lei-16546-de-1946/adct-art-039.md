@@ -1,0 +1,1 @@
+Artigo 39 - As atribuições constantes das alineas "c" e "d" do art. 2.°, do presente decreto-lei enquanto não assumidas pelo DER., de conformidade com o disposto no art. 38, serão exercidas pelo Departamento do Serviço de Trânsito. (NR)
