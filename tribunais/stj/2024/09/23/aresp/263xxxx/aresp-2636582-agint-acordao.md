@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo interno interposto contra julgado da Presidência que, com amparo no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em razão da aplicação analógica da Súmula n. 182 do STJ.
+A agravante defende a inaplicabilidade da Súmula n. 182 do STJ, uma vez que, nas razões do agravo em recurso especial, impugnou todos os fundamentos da decisão recorrida, destacando print com o rebatimento à aplicação da Súmula n. 735 do STF.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+As contrarrazões não foram apresentadas, conforme a certidão à fl. 211.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANOS DE SAÚDE. TUTELA ANTECIPADA. SÚMULA N. 735 DO STF. INCIDÊNCIA POR ANALOGIA. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão pela instância de origem a qualquer momento. Incidência, por analogia, da Súmula n. 735 do STF.
+2. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo interno desprovido.
+VOTO
+Razão assiste à agravante quanto à não incidência da Súmula n. 182 do STJ, uma vez que a decisão que negou seguimento ao recurso especial utilizou como fundamento a Súmula n. 735 do STF, cuja impugnação se mostra suficiente no agravo em recurso especial (fls. 153-157).
+Assim, na forma do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 191-192 e passo à nova análise das razões recursais.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná em agravo de instrumento.
+O julgado foi assim ementado (fl. 82):
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - DECISÃO QUE DEFERE TUTELA DE URGÊNCIA PARA FORNECIMENTO DO MEDICAMENTO AVASTIN (BEVACIZUMABE) -PRESENÇA DOS REQUISITOS PARA CONCESSÃO DA TUTELA DE URGÊNCIA, PREVISTOS NO ART. 300 DO CPC - PROBABILIDADE DO DIREITO E PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO CONSTATADOS - PRETENSÃO DE EXCLUSÃO OU REDUÇÃO DA MULTA DIÁRIA - DESCABIMENTO - MONTANTE RAZOÁVEL E COMPATÍVEL COM A OBRIGAÇÃO - DECISÃO MANTIDA.
+Agravo de Instrumento conhecido e desprovido.
+Nas razões do recurso especial, a parte ora agravante aponta ofensa aos arts. 10, V, da Lei n. 9.656/1998, 12 e 66 da Lei n. 6.360/1976, 10,V, da Lei n. 6.437/1976 e 300 do CPC.
+Sustenta que é legítima a recusa da operadora de plano de saúde em custear medicamento importado, não nacionalizado, sem o devido registro pela ANVISA, e que o STJ já decidiu a respeito da questão no julgamento do Tema repetitivo n. 990.
+Argumenta que não pode fornecer o medicamento pleiteado, sob risco de aplicação de penalidades previstas em lei, e que as limitações contratuais pactuadas são válidas.
+Requer o conhecimento e o provimento do recurso especial.
+A controvérsia diz respeito à ação de obrigação de fazer em que houve a concessão de tutela de urgência para determinar o fornecimento do medicamento para tratamento oncológico - Avastim (Bevacizumabe) - da parte autora acometida de carcinomas próximos ao coração, nos pulmões e na região do pescoço.
+O Tribunal de origem manteve a decisão liminar que deferira a tutela de urgência por considerar estarem preenchidos os requisitos previstos no art. 300 do CPC, registrando que o relatório médico indica que qualquer atraso em iniciar o tratamento pode gerar risco à vida da parte autora. Destacou também o entendimento do STJ a respeito da cobertura de medicamentos para o câncer, não importando a natureza do rol da ANS. Confira-se (fl. 87):
+O relatório médico juntado com a petição inicial demonstra a respeito do quadro clínico do(mov. 1.11)Autor, diagnosticado com carcinoma espinocelular (CEC), que é um tumor maligno das células espinhosas caracterizado por evolução mais rápida e com maior poder invasivo, do que se infere que qualquer atraso em iniciar o tratamento pode gerar risco à vida.
+Ademais, "A natureza taxativa ou exemplificativa do rol da ANS é desimportante à análise do deverde cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa." (AgInt nos EREsp 2.001.192/SP, relatora Ministra Nancy andrighi, Segunda Turma, julgado em 2/5/2023, DJe de 4/5/2023.)
+As tutelas provisórias de urgência são conferidas com base na cognição sumária e mediante juízo de verossimilhança. Não representam, portanto, pronunciamento definitivo sobre o direito reclamado, podendo ser modificadas a qualquer tempo, devendo ser confirmadas ou revogadas quando proferida decisão definitiva (AgInt no AREsp n. 1.693.346/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023; AgInt no AREsp n. 2.069.406/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/10/2022, DJe de 5/10/2022; AgInt no REsp n. 1.998.824/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e AgInt no AREsp n. 1.887.163/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022).
+Em razão da natureza precária da decisão que defere ou indefere liminar ou daquela que julga procedente a antecipação de tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem.
+Isso porque, consoante dispõe o art. 105, III, da Constituição Federal, o recurso especial somente deve ser interposto para atacar as "causas decididas em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios  .. ".
+Como causa decidida, deve-se considerar aquela na qual não há mais possibilidade de reversão pelas instâncias ordinárias, permitindo que o STJ possa exercer sua missão constitucional de uniformização da legislação federal.
+Em suma, é incabível a interposição de recurso especial para reexaminar decisão precária que trate de violação de norma que diga respeito ao mérito da causa, que ainda será definitivamente decidido.
+Dessa forma, em razão da natureza transitória da referida decisão, que pode ser ou não confirmada em julgado definitivo, mostra-se correta a aplicação, por analogia, da Súmula n. 735 do STF ao caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PEDIDO DE TUTELA ANTECIPADA. DEFERIMENTO. REQUISITOS DO ART. 300 DO CPC. SÚMULA N. 7 DO STJ.
+1. Inexiste a alegada violação do art. 1.022 do CPC, visto que o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento.
+2. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo Supremo Tribunal Federal, na Súmula n. 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir-se eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC), e não violação da norma que diga respeito ao mérito da causa.
+3. No caso, o Tribunal de Justiça concluiu que foram comprovados os requisitos para a concessão da tutela de urgência. Logo, descabe o exame da tese alegada no recurso especial de contrariedade aos arts. 10, inciso V da Lei n. 9.656/98, 12 e 66 da Lei n. 6.360/76, e 10, inciso V da Lei n. 6.437/76 pois os referidos normativos não estão relacionados aos requisitos de concessão das medidas de urgência, mas sim ao mérito. Incidência, por analogia, da Súmula n. 735/STF.
+4. A pretensão de alterar o entendimento a que chegou o Tribunal de origem quanto ao preenchimentos dos requisitos de concessão da tutela de urgência, demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial por esbarrar no óbice da Súmula n. 7/STJ.
+Agravo interno improvido. (AgInt no AREsp n. 2.029.223/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ademais, ao manter a decisão que concedera o pedido de liminar, a Corte local, discorreu acerca do preenchimento dos requisitos do art. 300 do CPC, expondo sua conclusão com base nos elementos fáticos e peculiaridades dos autos.
+Assim, rever as conclusões do acórdão impugnado acerca do preenchimento dos requisitos indicados no art. 300 do CPC demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado nesta instância especial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na
+hipótese dos autos.
+3. Conforme a orientação jurisprudencial adotada por este STJ, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF.
+3.1. Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC/15) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+4. O recurso especial não constitui via adequada para análise de eventual ofensa a resoluções, enunciados, portarias, circulares ou instruções normativas, por não estarem tais atos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+5. A alegação genérica de violação à lei federal não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF.
+6. A ausência de enfrentamento do s arts. 17 e 18 da Lei pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+7. Agravo interno provido para reconsiderar a decisão de fls. 238-240, e-STJ, e, de plano, negar provimento ao agravo em recurso especial. (AgInt no AREsp n. 1.972.132/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022, destaquei.)
+Incidente, portanto, a Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
