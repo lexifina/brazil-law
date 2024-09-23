@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS VICTOR BORGES BARBOSA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Decido.
+Em consulta realizada à  página  eletrônica  do Tribunal de origem, verifica-se que, em 26/08/2024 o paciente foi absolvido sumariamente , foi prolatada sentença condenatória em desfavor da paciente e outros corréus, nos seguintes termos:
+"Cuida-se, na espécie, de feito criminal em que se apura a prática, em tese, do crime de posse de cannabis sativa para uso próprio, previsto no art. 28 da Lei 11.343/06.
+O Supremo Tribunal Federal concluiu o julgamento do RE 635659, submetido à sistemática da repercussão geral, em que declarou inconstitucional a criminalização do porte de até 40 gramas de cannabis sativa para consumo pessoal, fixando a Suprema Corte o entendimento de que o porte dessa substância a gramatura referida no julgamento, (40g), é fato penalmente atípico, constituindo apenas infração de natureza administrativa.
+Ao final do julgamento a Corte Constitucional fixou as seguintes teses sobre esse tema:
+1) Não comete infração penal quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, a substância cannabis sativa, sem prejuízo do reconhecimento da ilicitude extrapenal da conduta, com apreensão da droga e aplicação de sanções de advertência sobre os efeitos dela (artigo 28, I) e medida educativa de comparecimento a programa ou curso educativo (artigo 28, III);
+2) As sanções estabelecidas nos incisos I e III do artigo 28 da Lei 11.343/2006 serão aplicadas pelo juiz em procedimento de natureza não penal, sem nenhuma repercussão criminal para a conduta;
+3) Em se tratando de posse de cannabis para consumo pessoal, a autoridade policial apreenderá a substância e notificará o autor do fato para comparecer em juízo, sendo vedada a lavratura de auto de prisão em flagrante ou de termo circunstanciado;
+4) Nos termos do §2o do artigo 28 da Lei 11.343/2006, será presumido usuário quem, para uso próprio, adquirir, guardar, tiver em depósito, transportar ou trouxer consigo até 40 gramas de cannabis sativa ou seis plantas fêmeas, até que o Congresso Nacional venha a legislar a respeito;
+5) A presunção do item anterior é relativa, não estando a autoridade policial e seus agentes impedidos de realizar a prisão em flagrante por tráfico de drogas, mesmo para quantidades inferiores ao limite acima estabelecido, quando presentes elementos indicativos do intuito de mercancia, como a forma de acondicionamento da droga, as circunstâncias da apreensão, a variedade de substâncias apreendidas, a apreensão simultânea de instrumentos como balança, registros de operações comerciais e aparelho celular contendo contatos de usuários ou traficantes;
+6) Nesses casos, caberá ao Delegado de Polícia consignar, no auto de prisão em flagrante, justificativa minudente para afastamento da presunção do porte para uso pessoal, sendo vedada a alusão a critérios subjetivos arbitrários;
+7) Na hipótese de prisão por quantidades inferiores à fixada no item 4 deverá o juiz, ao receber o auto de prisão em flagrante, avaliar as razões invocadas para o afastamento da presunção de porte para uso próprio;
+8) A apreensão de quantidades superiores aos limites ora fixados não impede o juiz de concluir pela atipicidade da conduta, apontando nos autos prova suficiente da condição de usuário.
+A interpretação constitucional do Supremo Tribunal Federal nesse tema, exarada em julgamento submetido à sistemática da repercussão geral, equivale, na prática, a uma abolitio criminis, pois deixou de considerar penalmente típica a conduta de quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal até 40g de cannabis sativa.
+Diante do exposto, ausentes indícios de traficância, como o presente feito versa justamente sobre o porte de quantia inferior a 40g de cannabis sativa para consumo pessoal, sem indícios de traficância, absolvo sumariamente o acusado em razão da atipicidade da sua conduta, nos termos do art. 397, inciso III, do CPP, e determino o arquivamento dos autos, com a devida baixa.
+Determino a destruição da substância entorpecente apreendida e da contraprova."
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
