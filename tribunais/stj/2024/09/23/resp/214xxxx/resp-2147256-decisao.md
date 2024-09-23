@@ -1,0 +1,43 @@
+DECISÃO
+Em análise, recurso especial interposto por SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. TEMA 408 DO STJ. SÚMULA 519 DO STJ. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. AGRAVO DE INSTRUMENTO DESPROVIDO E AGRAVO INTERNO PREJUDICADO.
+1-Trata-se de Agravo de Instrumento com pedido de efeito suspensivo, interposto em face da decisão proferida nos autos do cumprimento de sentença, que negou provimento aos embargos de declaração, considerando não estar presente a omissão apontada pela agravante, já que a não condenação da executada ao pagamento de honorários de sucumbência foi devidamente fundamentada na decisão embargada.
+2-A Corte Especial do Superior Tribunal de Justiça, ao julgar o Recurso Especial Repetitivo nº 1.134.186/RS, fixou a seguinte tese (TEMA 408):"Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença".
+3- Na mesma linha, dispõe o Enunciado nº 519 da Súmula de Jurisprudência do STJ: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios." 4-Dessa forma, se a impugnação ao cumprimento de sentença é rejeitada, o executado não terá que pagar novos honorários, devendo arcar apenas com os honorários já fixados com a interposição do Cumprimento da Sentença.
+5-Isso porque, tendo em vista a natureza de incidente processual, a impugnação ao cumprimento de sentença (seja ela definitiva ou provisória), não enseja o início de novo procedimento, visto que atrelada à própria abertura do cumprimento de sentença em si, o qual já admite, por força do art.85 §1º do CPC/2015, a fixação de honorários advocatícios.
+6-Ressalto que o entendimento manifestado no REsp nº 1.134.186/RS e no qual se baseou a Súmula nº 519 do STJ, apesar de ter sido julgado em 21/10/2011, portanto, sob a égide do Código de Processo Civil de 1973, foi, por diversas vezes, reafirmado pelo E. Superior Tribunal de Justiça.
+7-Sendo assim não vislumbro razões a recomendar a modificação do entendimento externado pelo Douto Juízo de primeiro grau, revelando-se prudente a manutenção do decisum agravado.
+8- Agravo de instrumento desprovido e agravo interno prejudicado (fl. 107).
+Nas razões recursais, a recorrente aponta, além de divergência jurisprudencial, violação ao art. 85, § 1º, do CPC/2015, sustentando, em síntese, que "a lei processual determina o arbitramento dos honorários como consectário da simples resistência do devedor ao adimplemento da dívida" (fl. 129) e que "o Tribunal a quo deveria ter reconhecido o direito do exequente aos honorários de sucumbência no cumprimento de sentença contra a Fazenda Pública, em razão da rejeição da impugnação da executada" (fl. 131).
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O Tribunal de origem, ao solucionar a controvérsia, assim se manifestou:
+"Cuida-se de Agravo de Instrumento com pedido de efeito suspensivo, interposto por SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL, em face da decisão proferida pelo Juízo da 6ª Vara Federal de Vitória - Seção Judiciária do Espírito Santo, nos autos do cumprimento de sentença de nº 0034535-96.2017.4.02.5001, que negou provimento aos embargos de declaração, considerando não estar presente a omissão apontada pela agravante, já que a não condenação da executada ao pagamento de honorários de sucumbência foi devidamente fundamentada na decisão embargada.
+Inicialmente, julgo prejudicado o Agravo Interno interposto em face da decisão monocrática, que indeferiu o pedido de concessão de tutela antecipada recursal ao presente agravo de instrumento, considerando que o processo já se encontra maduro para julgamento de mérito no colegiado.
+O Juízo a quo pronunciou a decisão ora agravada (Evento 159), nos seguintes termos:
+ ..
+Cinge-se a presente controvérsia à análise da decisão do Juízo de origem que deixou de condenar a União a pagar honorários advocatícios após a apresentação de impugnação ao cumprimento de sentença.
+Nesse passo, em que pesem as sustentações do agravante em seu recurso, não merece reparos a decisão vergastada.
+A Corte Especial do Superior Tribunal de Justiça, ao julgar o Recurso Especial Repetitivo nº 1.134.186/RS, fixou a seguinte tese (TEMA 408):
+"Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença"
+ ..
+Na mesma linha, dispõe o Enunciado nº 519 da Súmula de Jurisprudência do STJ:
+Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios.
+Dessa forma, se a impugnação ao cumprimento de sentença é rejeitada, o executado não terá que pagar novos honorários, devendo arcar apenas com os honorários já fixados com a interposição do Cumprimento da Sentença.
+Isso porque, tendo em vista a natureza de incidente processual, a impugnação ao cumprimento de sentença (seja ela definitiva ou provisória), não enseja o início de novo procedimento, visto que atrelada à própria abertura do cumprimento de sentença em si, o qual já admite, por força do art.85 §1º do CPC/2015, a fixação de honorários advocatícios.
+Ressalto que o entendimento manifestado no REsp nº 1.134.186/RS e no qual se baseou a Súmula nº 519 do STJ, apesar de ter sido julgado em 21/10/2011, portanto, sob a égide do Código de Processo Civil de 1973, foi, por diversas vezes, reafirmado pelo E. Superior Tribunal de Justiça.
+Nesse sentido, os seguintes julgados:
+ ..
+Sendo assim, não vislumbro razões a recomendar a modificação do entendimento externado pelo Douto Juízo de primeiro grau, revelando-se prudente a manutenção do decisum agravado.
+Posto isso, voto por negar provimento ao Agravo de Instrumento e julgar prejudicado o Agravo Interno, nos termos da fundamentação supra (fls. 90-93).
+Observo que o acórdão recorrido afirmou que é cabível a fixação de honorários no cumprimento de sentença, nos termos do que dispõe o § 1º do art. 85 do CPC/2015, de modo que, ao invocar violação ao referido dispositivo legal, as razões recursais encontram-se dissociadas da fundamentação do acórdão. Incidência, por analogia, da Súmula 284/STF.
+Nesse sentido: "Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF" (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Por outro lado, o § 1º do art. 85 do CPC/2015 não possui comando normativo apto a sustentar a tese recursal no sentido de que a rejeição de impugnação ao cumprimento de sentença ensejaria a condenação em honorários ao mesmo tempo em que não é capaz de alterar as conclusões adotadas pelo Tribunal de origem. Tem nova aplicação o óbice da Súmula 284/STF.
+A propósito: "Incide o óbice do enunciado n. 284 da Súmula do STF quando os dispositivos indicados como violados não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão regional recorrido" (STJ, AgInt no REsp 1.675.309/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/02/2018).
+Ademais, constata-se que a Corte de origem asseverou que, "se a impugnação ao cumprimento de sentença é rejeitada, o executado não terá que pagar novos honorários, devendo arcar apenas com os honorários já fixados com a interposição do Cumprimento da Sentença. Isso porque, tendo em vista a natureza de incidente processual, a impugnação ao cumprimento de sentença (seja ela definitiva ou provisória), não enseja o início de novo procedimento, visto que atrelada à própria abertura do cumprimento de sentença em si, o qual já admite, por força do art.85 §1º do CPC/2015, a fixação de honorários advocatícios".
+No entanto, referido fundamento não foi impugnad o pela recorrente, nas razões do recurso especial, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Por fim, "assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional" (AgInt no AREsp 2.320.819/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+EMENTA
