@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado por Letícia Milena Novaes Pintino, com pedido de liminar, em face do Reitor e Fundador da Uninassau Paulista e do Ministro da Educação, visando a expedição de seu diploma de nível superior e a indenização pela respectiva demora.
+Em suas razões, aduz que, apesar de ter cumprido todas as exigências acadêmicas e financeiras, a instituição de ensino e o MEC se recusaram a emitir o diploma, colocando em risco seus empregos e sua carreira, o que configura não apenas a violação de seu direito líquido e certo à educação, mas também acarreta danos morais evidentes.
+Menciona que está impedida de colar grau por causa do Enade e que precisa da colação de grau e da expedição do diploma para se manter no cargo de pedagoga na escola em que trabalha.
+Pugna pela inversão do "ônus da prova à UNINASSAU, a qual detém os meios necessários para comprovar que, de fato, houve algum motivo que justifique a recusa na emissão do diploma. A impetrante, por sua vez, cumpriu integralmente todas as suas obrigações, e não pode ser penalizada por não possuir acesso às informações controladas pela instituição" (fl. 24).
+Ao final, requer a determinação, inclusive liminar, para que a autoridade coatora promova a emissão e entrega do diploma de graduação à impetrante, bem como o deferimento dos danos morais no valor de R$ 5.000,00, pela demora na expedição e prejuízos que a impetrante vem enfrentando.
+Os autos foram inicialmente impetrados perante o Juízo Federal da Seção Judiciária de Recife/PE, o qual declinou a competência a este STJ em razão da indicação como autoridade coatora de Ministro de Estado (fls. 47).
+É o relatório. Decido.
+Nos termos do art. 105, I, b, da Constituição Federal, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso dos autos, verifica-se que, embora a impetrante tenha indicado como autoridade coatora o Ministro de Estado da Educação, não se extrai do relatado na petição inicial e dos documentos trazidos aos autos a efetiva prática de ato comissivo ou omissivo que possa ser atribuído àquela autoridade.
+Dessa forma, "a ausência de indicação de ato coator emanado de autoridade sujeita à competência constitucional do STJ desautoriza o processamento do mandado de segurança originário por esta Corte" (AgInt no MS 25.945/DF, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 24/11/2020).
+Por conseguinte, não se vislumbrando a legitimidade do Ministro de Estado para figurar no polo passivo do presente mandado de segurança, resta afastada a competência originária desta Corte Superior.
+Nesse sentido, vale conferir as seguintes decisões de Ministros desta Corte em casos análogos: MS 30.360/DF, rel. Min. Og Fernandes, DJ 12.07.24; MS 20.010/DF, rel. Min. Regina Helena Costa, DJ 03.04.2019; MS 20.002/DF, rel. Min. Humberto Martins, DJ 14.05.24.
+Ante o exposto, indefiro liminarmente a petição inicial do mandado de segurança quanto ao Ministro de Estado, nos termos do artigo 212 do RI/STJ e 64, §3º, do CPC.
+Remetam-se os autos à Seção Judiciária de Recife/PE a fim de que se prossiga no exame do mandado de segurança em relação a outra autoridade apontada como coatora (dirigente de instituição de ensino).
+Publique-se. Intimem-se.
+EMENTA
