@@ -1,0 +1,23 @@
+DECISÃO:
+
+    Trata-se de embargos de declaração opostos contra decisão monocrática que negou seguimento ao recurso.
+
+    A parte embargante sustenta, em síntese, que “A decisão em questão foi omissa quanto ao provimento do Recurso Especial e a aplicação do art. 1.031, §1º, CPC, ao caso, o que acarretaria a não apreciação do Recurso Extraordinário, tendo em vista que a questão já foi decidida em sentido favorável à Recorrente no STJ”.
+
+    Assiste razão à parte embargante.
+
+    Com efeito, o Superior Tribunal de Justiça, ao analisar o recurso concomitantemente interposto, proferiu decisão assim ementada (e-doc. 133):
+
+    TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. APLICABILIDADE. DISCIPLINA DO ART. 178 DO CTN À HIPÓTESE DE ALÍQUOTA ZERO. POSSIBILIDADE. NÃO SUJEIÇÃO DOS VAREJISTAS AOS EFEITOS DO ART. 9º DA MP N. 690/2015 (CONVERTIDA NA LEI N. 13.241/2015). PRESENÇA DE ONEROSIDADE (CONTRAPARTIDA) NO CONTEXTO DO INCENTIVO FISCAL DA LEI N. 11.196/2005 (“LEI DO BEM”). PREMATURA CESSAÇÃO DA INCIDÊNCIA DE ALÍQUOTA ZERO. VULNERAÇÃO DA NORMA QUE DÁ CONCRETUDE AO PRINCÍPIO DA SEGURANÇA JURÍDICA (PROTEÇÃO DA CONFIANÇA) NO ÂMBITO DAS ISENÇÕES CONDICIONADAS E POR PRAZO CERTO. INTELIGÊNCIA DA SÚMULA N. 544/STF. I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 2015. II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade. III – Adequada a aplicação do art. 178 do Código Tributário Nacional à hipótese de fixação, por prazo certo e em função de determinadas condições, de alíquota zero da Contribuição ao PIS e da Cofins, porquanto os contribuintes, tanto no caso de isenção, quanto no de alíquota zero, encontram-se em posição equivalente no que tange ao resultado prático do alívio fiscal. IV – À luz de tal norma, não alcança o varejista a revogação prevista no art. 9º da MP n. 690/2015 (convertida na Lei n. 13.241/2015), dispositivo que antecipa, em três exercícios, o derradeiro dia da redução a zero, por prazo certo, das alíquotas da Contribuição ao PIS e da Cofins incidentes sobre a receita bruta das alienações dos produtos especificados na Lei n. 11.196/2005 (“Lei do Bem”). V - A fruição da apontada desoneração sujeitava o varejista: (i) à limitação do preço de venda; e (ii) à restrição de fornecedores, traduzindo inegável restrição à liberdade empresarial, especialmente, no ambiente da economia de livre mercado. Esse cenário, revela a contrapartida da Recorrente diante da ação governamental voltada à democratização do acesso aos meios digitais, pois esteve a contribuinte submetida ao desdobramento próprio daquele ônus – a diminuição do lucro –, impondo-se a imediata readequação da estrutura do negócio, além da manutenção dessa conformação empresarial durante o longo período de vigência do incentivo. VI - A proteção da confiança no âmbito tributário, uma das faces do princípio da segurança jurídica, prestigiado pelo CTN, deve ser homenageada, sob pena de olvidar-se a boa-fé do contribuinte, que aderiu à política fiscal de inclusão social, concebida mediante condições onerosas para o gozo da alíquota zero de tributos. Consistindo a previsibilidade das consequências decorrentes das condutas adotadas pela Administração outro desdobramento da segurança jurídica, configura ato censurável a prematura extinção do regime de alíquota zero, após sua prorrogação para novos exercícios, os quais, somados aos períodos anteriormente concedidos, ultrapassam uma década de ação indutora do comportamento dos agentes econômicos do setor, inclusive dos varejistas, com vista a beneficiar os consumidores de baixa renda. VII - A açodada cessação da incidência da alíquota zero da Contribuição ao PIS e da Cofins, vulnera o art. 178 do CTN, o qual dá concretude ao princípio da segurança jurídica no âmbito das isenções condicionadas e por prazo certo (Súmula n. 544/STF). VIII - Recurso Especial provido, em parte, nos termos expostos.
+
+    Desse modo, a pretensão veiculada no recurso da parte já fora obtida, razão pela qual o recurso perdeu seu objeto.
+
+    Diante do exposto, acolho os embargos de declaração e julgo prejudicado o recurso do contribuinte.
+
+    Publique-se.
+
+    Brasília, 23 de setembro de 2024.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
