@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO EM 2022. TESE DEFENSIVA DE NULIDADE. INOCORRÊNCIA. BUSCA DOMICILIAR. FUNDADAS RAZÕES. CASO CONCRETO. AMPLO REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. OFENSA NÃO CONFIGURADA. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, não obstante o trânsito em julgado da condenação na origem, tem-se que a situação foi de fundadas razões para o ingresso em domicílio, já que o agravante tentou dispensar sacola com drogas bem na frente dos policiais, em hipótese de típico flagrante delito.
+III - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de teses com necessidade de amplo revolvimento do conjunto fático-probatório. Precedentes.
+IV - A decisão monocrática proferida não afrontou o princípio da colegialidade, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando qualquer eventual vício. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por AL(L)AN SILVA DE OLIVEIRA, contra a decisão que denegou a ordem no habeas corpus.
+Consta dos autos que o agravante foi condenado, com trânsito em julgado em 2022, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ denegado, sustentando a ocorrência de constrangimento ilegal.
+Alega a nulidade da prova inicial, com o seu consequente desentranhamento dos autos.
+Sustenta que o agravante esteve submetido a constrangimento por violação de dever (ausência de fundadas razões para a busca domiciliar) praticada pelos policiais que realizaram o flagrante.
+Assere que os policiais não identificaram nenhuma conduta suspeita de ilícito penal que fosse capaz de autorizar a invasão dos agentes estatais.
+Afirma que a busca foi realizada de forma ilegal, mesmo que tenha sido encontrado entorpecentes e outras coisas, fazendo-se, no seu entender, grande desrespeito às normas de direito penal e à boa-fé da atuação policial, já que esses poderiam ter requerido autorização judicial para tanto.
+Aduz sofrer cerceamento de defesa também em razão do julgamento monocrático, por violação ao princípio da colegialidade.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao colegiado, para a concessão da ordem.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 126.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO EM 2022. TESE DEFENSIVA DE NULIDADE. INOCORRÊNCIA. BUSCA DOMICILIAR. FUNDADAS RAZÕES. CASO CONCRETO. AMPLO REVOLVIMENTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. OFENSA NÃO CONFIGURADA. SÚMULA N. 182, STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso concreto, não obstante o trânsito em julgado da condenação na origem, tem-se que a situação foi de fundadas razões para o ingresso em domicílio, já que o agravante tentou dispensar sacola com drogas bem na frente dos policiais, em hipótese de típico flagrante delito.
+III - Assente nesta Corte Superior que o habeas corpus não se presta para a apreciação de teses com necessidade de amplo revolvimento do conjunto fático-probatório. Precedentes.
+IV - A decisão monocrática proferida não afrontou o princípio da colegialidade, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando qualquer eventual vício. Precedentes.
+Agravo regimental desprovido.
+VOTO
+No presente recurso, como dito, o agravante reitera argumentos lançados anteriormente e pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+Primeiramente, deve-se explicar que a decisão monocrática proferida não afrontou o princípio da colegialidade, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, afastando qualquer eventual vício.
+Nesse sentido:
+"Na linha dos precedentes desta Corte Superior, é "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023)" (AgRg no HC n. 889.424/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/8/2024).
+No mais, conforme consta na decisão agravada, ao cotejar as alegações vertidas na exordial com a fundamentação exposta nos documentos juntados aos autos, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do agravante.
+Veja-se o decisum ora combatido (fls. 119):
+"No caso concreto, de qualquer maneira, tem-se que a situação foi de fundadas razões para o ingresso em domicílio, já que o paciente tentou dispensar sacola com drogas na frente dos policiais em situação de flagrante delito (fls. 47-49):
+(..) cabe destacar que a entrada dos agentes públicos no imóvel estava amparada em fundadas razões, pois, segundo os relatos dos policiais, eles obtiveram a informação de que os réus traficavam no local e, ao chegarem, viram LUCIMARA bater no portão e gritar ao avistá-los e, posteriormente, visualizaram ALLAN correr por trás dela e arremessar algo no imóvel do vizinho (fls. 292/294 mídia no sistema SAJ), tudo a indicar, portanto, a ocorrência de uma situação de flagrante delito.
+(..)
+Localizaram no quintal do vizinho um tijolo de maconha. Encontraram oitocentos reais na carteira de LUCIMARA e quatrocentos e cinquenta e dois reais em outra carteira, no interior do imóvel. Relataram que LUCIMARA admitiu que traficava juntamente com ALLAN (fls. 292/294 mídia no sistema SAJ). (..)
+Tais negativas, contudo, restaram isoladas no conjunto probatório, notadamente diante dos relatos firmes e seguros dos policiais militares que realizaram as diligências, das circunstâncias da abordagem, que confirmou "denúncias" anteriores, da quantidade de droga apreendida (183,08 gramas de maconha), além do dinheiro encontrado (R$ 1.252,00), aliados ao fato de ALLAN e LUCIMARA já registrarem condenações anteriores por tráfico (fls. 76/81 autos n.º 0006656-26.2016.8.26.0482 e 0002392-10.2009.8.26.0482, respectivamente), de sorte a autorizar a conclusão de que os apelantes praticavam o comércio clandestino juntos, restando inviabilizada, por isso, a absolvição por insuficiência probatória."
+Sobre a dispensa de objeto na frente da polícia, esta Corte assentou que:
+"(..) Segundo se depreende dos autos, policiais estavam em patrulhamento em ponto de tráfico de drogas quando avistaram o paciente com uma sacola nas mãos, oportunidade em que ele, ao ver a guarnição, empreendeu fuga e tentou dispensar o objeto, mas foi alcançado. Tais circunstâncias, em conjunto, ultrapassam o mero subjetivismo e indicam a existência de fundada suspeita de que a sacola contivesse substâncias entorpecentes e de que o réu estives se na posse de mais objetos relacionados ao crime" (AgRg no HC n. 846.939/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, Rel. para o acórdão Min. Rogerio Schietti Cruz, DJe de 7/12/2023)."
+"(..) os policiais mencionaram que estavam em patrulhamento de rotina em local já conhecido pelo crime de tráfico de drogas, viram o recorrente (..) ao perceber a presença da viatura, (..) dispensou esta sacola. Assim, estas circunstâncias são suficientes para configurar a "fundada suspeita", apta a justificar a abordagem policial" (AgRg no REsp n. 2.053.392/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/5/2023).
+Assim, no caso concreto, não se verifica qualquer nulidade ou ilegalidade na incursão policial, pois essa alicerceou-se na conduta suspeita do agravante, já que tentou dispensar sacola com drogas na frente dos policiais em situação de flagrante delito. Logo, não havendo que se falar em cerceamento de defesa.
+Com efeito, da análise da fundamentação empreendida pelas instâncias ordinárias, verifica-se que a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+Depreende-se, portanto, dos fatos acima relatados que, como consignou a Corte a quo, a atuação policial foi escorreita e fundada em fortes razões da ocorrência do crime permanente cometido pelo agravante, aptas ao embasamento da abordagem pessoal e domiciliar.
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório, como in casu (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+De resto, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto na Súmula n. 182, STJ:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
