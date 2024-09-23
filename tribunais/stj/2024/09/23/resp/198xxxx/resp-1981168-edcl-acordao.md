@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. QUARTOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NOVOS ACLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. EMBARGOS REJEITADOS. AUMENTO DA MULTA PROTELATÓRIA JÁ APLICADA.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. A insistência em reexaminar argumentos já afastados em julgamento de anteriores declaratórios denota o nítido caráter protelatório da insurgência, constatação apta a autorizar o aumento da multa anteriormente fixada.
+3. Embargos de declaração rejeitados, com majoração da multa.
+RELATÓRIO
+Trata-se de quartos embargos de declaração opostos por Nídio Francisco Severo e Benina Selau Eugênio Severo ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 2.340):
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Nos termos da jurisprudência vigente no Superior Tribunal de Justiça, consideram-se protelatórios os novos embargos de declaração opostos com objetivo de reexaminar argumentos já afastados em julgamento de anteriores declaratórios.
+3. Consoante o entendimento firmado pela Segunda Seção desta Corte Superior, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+Em suas razões (e-STJ, fls. 2.353-2.382), os embargantes reiteram a alegação da existência dos vícios de omissão, contradição e obscuridade no acórdão impugnado ante a aplicação dos óbices atinentes às Súmulas 7 e 83/STJ.
+Reafirmam a argumentação anteriormente deduzida, no sentido de que não houve vinculação de recursos do Sistema Financeiro de Habitação (SFH), e que os mútuos hipotecários dizem respeito a avenças particulares, mencionando a qualificação da Caixa Econômica Estadual com atuação voltada à economia privada.
+Pleiteiam, ao final, o acolhimento dos declaratórios.
+Foi apresentada impugnação (e-STJ, fl. 1.295-1.303), com pedido de majoração da multa do art. 1.026, § 2º, do Código de Processo Civil de 2015 ante a recalcitrância dos embargantes.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. QUARTOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NOVOS ACLARATÓRIOS COM NÍTIDO INTUITO PROTELATÓRIO. EMBARGOS REJEITADOS. AUMENTO DA MULTA PROTELATÓRIA JÁ APLICADA.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. A insistência em reexaminar argumentos já afastados em julgamento de anteriores declaratórios denota o nítido caráter protelatório da insurgência, constatação apta a autorizar o aumento da multa anteriormente fixada.
+3. Embargos de declaração rejeitados, com majoração da multa.
+VOTO
+De início, cumpre registrar que os embargos de declaração são cabíveis apenas para extirpar obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), situações que não se observam na espécie.
+Nas razões dos presentes aclaratórios, a parte defende, pela quarta vez, a existência vício no acórdão embargado acerca dos óbices aplicados quanto à natureza jurídica do imóvel objeto da demanda.
+Contudo, tal como anteriormente assinalado, não ficou configurado nenhum vício passível de ser sanado por meio do julgamento dos embargos de declaração em análise, pois ficou devidamente fundamentado que o entendimento jurisprudencial do Superior Tribunal de Justiça é de não ser possível adquirir, por usucapião, imóveis vinculados ao SFH, em virtude do caráter público dos serviços prestados pela instituição financeira na implementação da política nacional de habitação (AgInt no REsp n. 1.700.681/AL, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/9/2019, DJe 4/10/2019).
+Na ocasião, registrou-se que, no caso em apreço, a sentença consignou que a "prova dos autos é robusta no sentido de que o hoje Condomínio denominado Parque Amazônia, na Rua Edgar Pires de Castro 2603 foi financiado pela Caixa Estadual, qualificando-o como bem público, cuja natureza impede a aquisição por usucapião" (e-STJ, fls. 1.089-1.090).
+Na hipótese, verifica-se que o Tribunal de Justiça do Estado do Rio Grande do Sul adotou solução contrária à jurisprudência desta Corte Superior firmada no sentido de que o "imóvel vinculado ao Sistema Financeiro de Habitação, porque afetado à prestação de serviço público, deve ser tratado como bem público, sendo, pois, imprescritível" (REsp n. 1.874.632/AL, relatora a Ministra Nancy Andrighi, Terceira Turma, julgado em 25/11/2021, DJe de 29/11/2021), motivo pelo qual foi imperiosa a reforma do decisum.
+Registre-se, assim, a ausência de quaisquer dos vícios ensejadores dos aclaratórios, tendo sido as questões controvertidas decididas de forma satisfatória e adequada por este colegiado, tanto no julgamento do agravo interno, quanto no julgamento dos embargos de declaração anteriores, pretendendo a parte, na verdade, o rejulgamento da causa por via inadequada.
+Considerando todo o exposto, é nítido o intuito protelatório também da presente insurgência, já que, pela quarta vez, a parte traz, em suas razões recursais, pretensão de reforma da decisão, sem demonstrar a existência dos vícios autorizadores dos aclaratórios, o que impõe a majoração da multa para 10% (dez por cento) sobre o valor atualizado da causa, nos termos do que dispõe o art. 1.026, § 3º, do CPC/2015, ficando condicionada a interposição de qualquer outro recurso ao depósito prévio do valor da multa.
+Com esses fundamentos, rejeito os embargos de declaração, com majoração da multa para 10% (dez por cento) sobre o valor atualizado da causa, ficando condicionada a interposição de qualquer outro recurso ao depósito prévio do valor integral da multa, nos termos do que dispõe o art. 1.026, § 3º, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a inadmissibilidade do recurso, conforme preconiza o art. 1.026, § 4º, do CPC/2015.
+É como voto.
