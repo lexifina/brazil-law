@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, embargos de declaração opostos por SIEMENS LTDA. contra decisão que não conheceu do recurso especial haja vista a incidência do óbice da Súmula 7/STJ.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que "não é aplicável ao caso o óbice da Súmula 7 desta C. Corte - que veda a interposição de Recurso Especial no qual seja necessário o reexame de fatos e provas - uma vez que a discussão travada nestes autos é meramente de direito que consiste em determinar se os autos de infração descritos pelo v. acórdão recorrido atendem ao disposto no artigo 142 do CTN ou não" e que "a partir da descrição do fato gerador contido na autuação pelo v. acórdão recorrido, pode-se facilmente identificar se o art. 142 do CTN foi atendido ou não" (fl. 6905-6906).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou, expressamente, que "pretensão da parte recorrente relativa à violação dos arts. 783 e 803, inciso I, DO Código de Processo Civil; artigos 142 e 204, parágrafo único do Código de Tributação Nacional; Lei Complementar 116/03; artigos 2º e 21 da Lei Complementar 40/01 encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador em relação as alegações sobre a certeza, liquidez e exigibilidade do Título Executivo, e as autuações que lhe originaram são nulos, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Sú mula 7/STJ" (fls. 6894-6895).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
