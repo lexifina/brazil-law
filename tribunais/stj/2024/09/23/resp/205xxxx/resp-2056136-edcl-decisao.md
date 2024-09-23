@@ -1,0 +1,12 @@
+DECISÃO
+Em análise, embargos de declaração opostos por DELTA MED DISTRIBUIDORA DE MEDICAMENTOS EIRELI contra decisão que deu provimento ao recurso especial, para determinar que, neste feito, cabe a exclusão do ICMS-ST da base de cálculo do PIS e da COFINS.
+Nestes embargos de declaração, a impetrante aponta omissão quanto ao alegado direito à compensação tributária, e, ao final, requer "seja proferida decisão integrativa para declarar o direito da Embargante de restituir e/ou compensar os valores indevidamente pagos dentro do quinquênio legal, incluindo-se o acréscimo correspondente à taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC)".
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022, II, do CPC/2015, cabem embargos de declaração contra decisão judicial para suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento.
+Na decisão embargada, ficou consignado que, no que tange à possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da contribuição ao PIS e da COFINS devidas pelo contribuinte substituído temos que a Primeira Seção desta Corte, no julgamento dos Recursos Especiais 1.896.678/RS e 1.958.265/SP, de relatoria do Ministro GURGEL DE FARIA (Tema 1.125/STJ), firmou tese no sentido de que "o ICMS-ST não compõe a base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído no regime de substituição tributária progressiva". Assim, o recurso especial foi provido, para determinar que, neste feito, cabe a exclusão do ICMS-ST da base de cálculo do PIS e da COFINS.
+No entanto, a decisão embargada restou omissa acerca do pedido de declaração do direito à compensação tributária, impondo-se declarar que a impetrante faz jus à compensação, observada a modulação de efeitos realizada nos recursos repetitivos acima, sendo certo que a Primeira Seção desta Corte acolheu parcialmente os embargos de declaração, para esclarecer que a modulação dos efeitos da tese terá como marco 15/3/2017, data do julgamento do Tema 69 do STF.
+Isso posto, acolho os embargos de declaração, para declarar o direito da impetrante de compensar os valores indevidamente pagos, observada a modulação de efeitos, incluindo-se o acréscimo correspondente à taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC).
+Intimem-se.
+EMENTA
