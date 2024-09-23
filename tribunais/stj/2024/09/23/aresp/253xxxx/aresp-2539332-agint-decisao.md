@@ -1,0 +1,46 @@
+DECISÃO
+Comunidade Cristã Paz e Vida interpõe agravo interno contra a decisão de fls. 614/615, proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial.
+Sustenta a agravante, em síntese, que impugnou os fundamentos da decisão que não admitiu o recurso especial.
+A parte agravada apresentou impugnação às fls. 634/657.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero
+a decisão acima mencionada.
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 373, II, 374, II e III, e 1.022, II, do Código de Processo Civil, 186 e 476 do Código Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 343):
+DIREITO PROCESSUAL CIVIL E CIVIL. APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA. PEDIDO DE REALIZAÇÃO DE PERÍCIA. PARTES INTIMADAS PARA INFORMAREM INTERESSE EM PRODUZIR PROVAS. AUSÊNCIA DE MANIFESTAÇÃO. PRECLUSÃO. CONTRATO DE TRANSMISSÃO DE PRODUÇÃO DE CONTEÚDO E VEICULAÇÃO DE PROGRAMA RADIOFÔNICO. RESCISÃO ANTECIPADA. ALEGAÇÃO DE DESCUMPRIMENTO CONTRATUAL POR PARTE DA AUTORA. AUSÊNCIA DE PROVAS NESTE SENTIDO. ÔNUS DA PROVA. ART. 373, II, DO CÓDIGO DE PROCESSO CIVIL. CLÁUSULA PENAL CONTRATUAL QUE CARACTERIZA MULTA CONTRATUAL BIS IN IDEM. AVENÇADA PELAS PARTES QUE SE MOSTRA RAZOÁVEL. DÉBITOS JUNTO AO ECAD NÃO COMPROVADOS EM MOMENTO OPORTUNO. DOCUMENTAÇÃO JUNTADA APÓS A SENTENÇA. DOCUMENTOS QUE NÃO SE CARACTERIZAM COMO DOCUMENTO NOVO NOS TERMOS DO ART. 435 DO CÓDIGO DE PROCESSO CIVIL. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSOS CONHECIDOS E DESPROVIDOS.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 383):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NO ACÓRDÃO. INEXISTÊNCIA. FUNDAMENTO COMPLETO E EXAURIENTE PARA SOLUCIONAR SATISFATORIAMENTE A LIDE. PRETENSÃO PARA REEXAME DE MATÉRIAS JÁ ANALISADAS. TENTATIVA DE REFORMA DO JULGADO. IMPOSSIBILIDADE DE MODIFICAÇÃO PELA VIA RECURSAL ELEITA. RECURSO DESPROVIDO.
+Sustenta a agravante que a "recorrida não cumpriu sua parte na obrigação contratual, porque não garantiu licença da rádio FM 97,9 (até janeiro de 2019) e não garantiu potência contratada em Natal faltando na cobertura dos serviços de Rádio, o que impede sejam exigidos da recorrente os pagamentos por força do artigo 476 do Código Civil" (fl. 409).
+Afirma que a "Recorrida confessou a falta de potência do transmissor durante todo o período em cobrança o que implica em severo descumprimento contratual e desobriga o pagamento por parte da Recorrente (fl. 425).
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que o acórdão recorrido entendeu que não ficou configurado o cerceamento de defesa, bem como afastou a alegação de que a rescisão antecipada do contrato se deu por culpa da parte autora, ora agravada, mantendo, por conseguinte, a sentença que julgou procedentes os pedidos constantes da inicial, conforme os seguintes fundamentos (fls. 347/350):
+(..)
+Inicialmente, alega a Comunidade Cristã Paz e Vida a nulidade da sentença por cerceamento ao direito de defesa em razão de não ter sido realizado perícia para verificar se a frequência fornecida era correspondente à contratada.
+Ocorre que a requerida apesar de devidamente intimada para informar se havia interesse em produzir mais provas se manteve inerte conforme certidão de ID 12200838.
+Assim, descabe falar em cerceamento ao direito de defesa uma vez que foi devidamente oportunizado à parte informar seu interesse em produzir provas, tendo a requerida silenciado, culminando, no julgamento antecipado da lide.
+Portanto, não resta configurado o alegado cerceamento de defesa, ante a preclusão da matéria.
+(..)
+Validamente, a parte autora ingressou com a presente lide para cobrar os encargos contratuais decorrente da rescisão prematura dos contratos de IDs 12200752, 12200753, firmado em 15 de dezembro de 2013, com prazo de vigência até dezembro de 2018.
+Alegou a empresa demandada que a rescisão contratual antecipada decorreu do inadimplemento da parte autora, que não forneceu a potência contratada, prejudicando suas atividades, contudo, muito embora a parte requerida tenha apresentado o documento de ID 12200822, o mesmo não é suficiente para comprovar o inadimplemento contratual, tampouco que a frequência fornecida era diferente da contratada, por culpa da autora.
+Desta forma, conforme a distribuição do estabelecido no imperativo normativo onus probandi trazido no art. 373, II, do CPC, é dever do réu fazer prova de fato impeditivo, modificativo ou extintivo do direito da parte autora, estando tal primado expresso da seguinte forma:
+(..)
+Logo, caberia ao réu, fazer prova de fato impeditivo, modificativo ou extintivo do direito da parte autora, havendo razoabilidade no julgamento proferido em primeiro grau de jurisdição neste ponto, sobretudo, diante das ponderações apresentadas pelo magistrado para afastar a exceção do contrato não cumprido alegado pela parte ré, in verbis:
+(..)
+Nestes termos, não tendo a parte requerida diligenciado no sentido de produzir prova efetiva de fato impeditivo, modificativo ou extintivo do direito pretendido pela parte autora, descabe a alegação da demandada de que a rescisão antecipada do contrato deu-se por culpa da parte autora.
+No que se reporta ao pagamento da multa penal contratual ante a rescisão antecipada, observa-se que a cláusula penal estabelecida na Cláusula 6, parágrafo primeiro, mostra-se indevida, uma vez que corresponde a pagamento em duplicidade, pois busca indenizar a indisponibilidade dos equipamentos durante a vigência do contrato.
+Oportunamente, tem-se que o contrato firmado entre as partes, diz respeito a transmissão de produção de conteúdo e veiculação de programa radiofônico, abrangendo o arrendamento dos equipamentos para transmissão de programação da parte requerida, nos termos estabelecidos no contrato no item 4, alínea b (ID 12200752 - pág. 03), de modo que o montante pago também abrange o uso dos equipamentos elencados no documento de ID 12200752 - págs. 20/29.
+Portanto, caracterizaria obrigar a empresa requerida a indenizar pela indisponibilidade bis in idem dos equipamentos durante o período de vigência do contrato, uma vez que faz parte do objeto do contrato o uso e a indisponibilidade dos referidos equipamentos.
+Assim, não merece reforma o julgado neste ponto.
+Igualmente, deve a sentença ser mantida no que diz respeito às despesas com ECAD uma vez que a parte autora não apresentou em momento oportuno a documentação que comprovava tais cobranças, somente juntos aos autos os documentos de ID 12200842, após, proferida a sentença.
+Validamente, estabelece o art. 434 do Código de Processo Civil que "incumbe à parte instruir a petição inicial ou a contestação com os documentos destinados a provar suas alegações."
+Deste modo, deveria a parte recorrente ter apresentado a documentação referente às cobranças do ECAD em momento oportuno, não sendo legítima a caracterização do documento de ID 12200842 como documento novo a legitimar a sua apresentação no presente momento processual, uma vez que não se caracteriza o disposto no art. 435 do Código de Processo Civil.
+Deste modo, muito embora haja previsão contratual para que o pagamento das despesas com o ECAD sejam suportadas pela requerida a partir de 15 março de 2016 (ID 12200752 - pág. 09) verifica-se que a parte autora não apresentou a documentação necessária para comprovar que tais despesas no momento oportuno.
+Registre-se que em relação à multa a ser aplicada pelo descumprimento contratual por parte da empresa requerida verifico que no demonstrativo de débito apresentado no e-mail de ID 12200757 - pág. 01, consta a cobrança do arrendamento da rádio pelo período de 4 (quatro) meses, no valor de R$ 240.000,00 (duzentos e quarenta mil reais), montante que se mostra suficiente e adequado para indenizar a parte autora pela rescisão antecipada por parte da requerida.
+Ressalte-se que a multa contratual no valor correspondente ao período de 04 (quatro) meses de aluguel convencionado entre as partes através das trocas de e-mails merece acolhimento, uma vez que se mostra razoável e adequado.
+Portanto, não merece qualquer reforma a sentença, devendo ser mantida em sua integralidade.
+(..)
+Com efeito, anoto que rever tais conclusões da Corte local demandaria o reexame do acervo contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
