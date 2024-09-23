@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+II - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto contra a decisão mediante a qual não conheci do Recurso Especial, fundamentada nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, por força da aplicação, por analogia, da Súmula n. 284 do STF.
+Sustenta o Agravante, em síntese, que " ..  foi sim desconsiderada e ofendida a Legislação Federal perpetrada pela decisão agravada, não incidindo a Súmula 284 do Supremo Tribunal Federal, pois há consonância entre os artigos apontados como ofendidos, tendo em vista a omissão dos acórdãos proferidos quanto a prática de ato ímprobo doloso por parte do Agravado" (fl. 767e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 775e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+II - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Não assiste razão ao Agravante, porquanto, consoante consta da decisão ora impugnada, a tese concernente à caracterização de ato ímprobo doloso imputável à parte ora recorrida não encontra amparo nos dispositivos apontados como violados pelo Recorrente (arts. 11 e 489 do CPC/2015), impedindo, desse modo, a sua apreciação em recurso especial.
+Com efeito, incide na espécie, por analogia, o óbice da Súmula n. 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+ ..
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO. DIREÇÃO CONTRA SENTENÇA. EXISTÊNCIA DE ACÓRDÃO POSTERIOR QUE A SUBSTITUIU. PEDIDO. IMPOSSIBILIDADE JURÍDICA. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. ARTS. 485, V, E 512 DO CPC. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+ ..
+2. Há deficiência argumentativa quando o preceito legal apontado como violado (arts. 485, V, e 512 do CPC) não é suficiente para amparar a tese defendida no recurso especial. Precedentes.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.369.630/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/10/2013, DJe 20/11/2013).
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. PARADIGMAS. AUSÊNCIA DE JUNTADA. COMPROVAÇÃO DO DISSENSO PRETORIANO. PRAZO PARA REGULARIZAR VÍCIO SUBSTANCIAL. ENUNCIADO ADMINISTRATIVO N. 6/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na esteira da jurisprudência desta Corte Especial, interpretando o § 4º do art. 1.043 do CPC e o art. 266, § 4º, do RISTJ, configura pressuposto indispensável para a comprovação ou configuração da alegada divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+2. No caso posto, a embargante limitou-se a transcrever as ementas dos paradigmas apontados, sem, contudo, juntar o inteiro teor dos precedentes indicados ou mesmo citar o repositório oficial, autorizado ou credenciado, em que estejam publicados os referidos julgados.
+3. A mera indicação da publicação do acórdão paradigma não supre as exigências do § 4º do art. 1.043 do CPC/2015 e do art. 266, § 4º, do Regimento Interno desta Corte Superior, porque o diário de justiça, em sua forma eletrônica ou física, não é repositório oficial de jurisprudência, com previsão no § 3º do art. 255 do RISTJ, consubstanciando somente órgão de divulgação, na forma do art. 128, I, do referido instrumento normativo.
+4. Quanto à necessidade de ser conferido prazo para sanear os possíveis vícios processuais existentes, nos termos do art. 932, parágrafo único, do CPC, o Superior Tribunal de Justiça firmou entendimento no sentido de aplicar a referida regra somente aos vícios meramente formais, conforme se pode verificar no Enunciado Administrativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+5. Na espécie, não restou demonstrado o dissídio alegado no recurso uniformizador, o que constitui vício substancial resultante da não observância do rigor técnico exigido na interposição do recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação de fundamentação.
+6. Ainda que superado este óbice, esta Corte consolidou o entendimento quanto ao não cabimento de embargos de divergência para a verificação de ofensa ao art. 535 do CPC/1973, atual art. 1.022 do CPC/2015, porque impossível a configuração da similitude fática entre o acórdão embargado e os paradigmas apontados, devido às peculiaridades de cada caso examinado.
+7. A possibilidade de discussão, em sede de embargos de divergência, da tese relativa ao valor fixado pelas instâncias ordinárias a título de astreintes, nas hipóteses em que o conhecimento do recurso especial é obstado pela Súmula 7 do STJ, vem sendo reiteradamente rechaçada pela Corte Especial do STJ, porquanto inviável o enfrentamento de questão meritória não apreciada pelo órgão julgador que prolatou a decisão embargada. Precedente recente desta Corte:
+AgInt nos EAREsp 689.202/RJ, Relatoria Min. Herman Benjamin (vencido o Ministro Raul Araújo), julgamento em 6/4/2022.
+8. Inaplicabilidade da multa do § 4º do art. 1.021 do CPC, porque descabe a incidência automática do referido dispositivo legal quando exercitado o regular direito de recorrer e não verificada a hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária.
+9. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.550.044/PR, Rel. Min. Jorge Mussi, Redator do acórdão Min. Mauro Campbell Marques, Corte Especial, julgado em 3.5.2023, DJe de 22.5.2023 ).
+No caso, não obstante o improvimento do Agravo Interno, não resta configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao recurso.
