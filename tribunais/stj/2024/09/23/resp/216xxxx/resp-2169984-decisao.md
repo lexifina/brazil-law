@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por PEDRO MARTINS DOS SANTOS contra acórdão do Tribunal de Justiça de São Paulo, de relatoria do Desembargador L. G. COSTA WAGNER, assim ementado:
+Agravo de Instrumento. Instrumento particular de confissão de dívida. Execução de título extrajudicial. Decisão agravada que rejeitou a impugnação à penhora apresentada pela Defensoria Pública representando o Agravante. Pleito recursal que não merece prosperar. Executado que não apresentou extrato bancário da conta bloqueada, deixando de comprovar que se trata de conta-poupança, tampouco que os valores bloqueados comprometem a sua subsistência ou a de sua família. Execução que se arrasta desde 03.10.2014,sem que o crédito tenha sido satisfeito. Ausência de sinalização do devedor no sentido de cumprir a obrigação. Não é razoável que o credor tenha que suportar tempo excessivamente longo para ter o seu crédito satisfeito. Interpretação da regra da impenhorabilidade inscrita no artigo 833, incisos IV e X do Código de Processo Civil. Necessária observação dos princípios da efetividade da execução e da duração razoável do processo. Ainda que, em tese, os ativos financeiros ostentassem natureza salarial, a interpretação da regra da impenhorabilidade inscrita no artigo 833, inciso IV, do Código de Processo Civil exigiria mitigação, mormente ante a ausência de disposição do devedor em cumprir as decisões judiciais. Precedentes do Colendo Superior Tribunal de Justiça consolidados no EREsp1.874.222-DF. Decisão mantida.
+RECURSO DESPROVIDO (e-STJ, fls. 22).
+Irresignado, PEDRO MARTINS DOS SANTOS interpôs seu recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação do art. 833, X, do CPC, ao argumento de que a quantia de até 40 (quarenta) salários mínimos depositados em caderneta de poupança, fundo de investimento ou conta-corrente é absolutamente impenhorável de acordo com a jurisprudência do STJ.
+É o relatório.
+DECIDO.
+De início, vale mencionar que o Tema Repetitivo n. 1.235/STJ diz respeito a "Definir se a impenhorabilidade de quantia inferior a 40 salários mínimos é matéria de ordem pública, podendo ser reconhecida de ofício pelo juiz".
+Na espécie, entretanto, não é caso de sobrestamento do recurso, na medida em que a impenhorabilidade não foi reconhecida de ofício, mas buscada pela Defensoria Pública em favor da parte assistida mediante a interposição de agravo de instrumento que impugnava a possibilidade de penhora de valores até 40 (quarenta) salários mínimos depositados em caderneta de poupança.
+Da violação ao artigo 833, X, do CPC
+PEDRO MARTINS DOS SANTOS apontou violação do art. 833, X, do CPC, ao argumento de que a quantia de até 40 (quarenta) salários mínimos depositados em caderneta de poupança, fundo de investimento, conta-corrente ou em outras aplicações financeiras é absolutamente impenhorável de acordo com a jurisprudência do STJ.
+De fato, o STJ tem por impenhoráveis valores de até 40 salários mínimos investidos em aplicações financeiras de qualquer modalidade, mas com ressalvas, conforme demonstram os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA POUPANÇA. ART. 833, X, DO CPC/2015. MOVIMENTAÇÃO ATÍPICA DA CONTA POUPANÇA NÃO CONSTITUI MÁ-FÉ.
+1. Cinge-se a controvérsia à possibilidade de penhora de valores inferiores ao limite de 40 (quarenta) salários mínimos depositados em conta poupança.
+2. A proteção conferida pela regra da impenhorabilidade de valor até 40 (quarenta) salários mínimos abrange todos os valores depositados em conta-corrente, poupança ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude.
+Precedentes.
+(..)
+(AgInt no AREsp n. 2.513.758/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. REGRA DO ART. 833, X, DO CPC/2015. IMPENHORABILIDADE. CONTA-POUPANÇA. MOVIMENTAÇÃOES ATÍPICAS. RAZÃO INSUFICIENTE PARA AFASTAR A IMPENHORABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, são impenhoráveis os valores poupados pelo devedor, seja em caderneta de poupança, conta-corrente, fundo de investimentos ou em papel-moeda, até o limite de 40 (quarenta) salários mínimos, ressalvada a comprovação de má-fé, fraude ou abuso de direito.
+(..)
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.129.850/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 833, X, DO CPC. MONTANTE NO LIMITE DE 40 SALÁRIOS MÍNIMOS. DEPÓSITO EM CONTA-CORRENTE, CADERNETA DE POUPANÇA OU FUNDOS DE INVESTIMENTOS DO DEVEDOR. IMPENHORABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a previsão do art. 833, X, do CPC, é impenhorável o montante de até 40 salários mínimos depositado em conta-corrente, caderneta de poupança ou fundos de investimentos do devedor, ressalvada a comprovação de má-fé, abuso de direito ou fraude.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 2.011.150/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+No presente caso, concluiu o TJSP haver nos autos má-fé e abuso de direito, ao consignar que:
+(..) o acervo probatório dos autos evidencia que a Agravante se omite reiteradamente em colaborar com o Poder Judiciário para pôr fim ao processo, deixando de envidar esforços para satisfazer o crédito legitimamente perseguido pelo exequente.
+Consigne-se que não há notícias nos autos acerca de nenhuma proposta de pagamento do débito, parcelamento da dívida ou oferecimento de bens à penhora, o que revela comportamento contrário à boa-fé, legitimamente esperada e exigida de todo aquele que litiga em juízo.
+(..)
+É possível mesmo afirmar, diante do conjunto probatório, que a Agravante incorre em abuso de poder, excedendo manifestamente os limites impostos pela boa-fé, eis que participa do processo sem agir de maneira propositiva, isto é, deixando de praticar conduta com propósito de pôr fim ao processo, preferindo esquivar-se do pagamento da dívida cobrada legitimamente pelo credor.
+(..)
+A impenhorabilidade absoluta proclamada pela legislação brasileira está verdadeiramente na contramão da história e destoa da prática da maioria dos modernos ordenamentos jurídicos do mundo, e o Superior Tribunal de Justiça soube bem detectar as hipóteses em que se faz necessário mitigar a interpretação literal da lei em prol da efetividade da execução e em respeito às dignidades de credor e devedor devidamente sopesadas.
+Por essa razão, quando inexistentes outros bens penhoráveis ou diante de outros óbices que dificultem sobremaneira a efetividade da execução, penhoráveis valores inferiores ao patamar de 40 (quarenta) salários-mínimos ante a ausência de boa-fé, vale dizer, ante a inobservância da obrigação inscrita no art. 5.ºdo CPC, a recalcitrância da devedora e sua indisposição para cumprir as decisões judiciais e honrar suas dívidas junto a seus credores - sem destaque no original (e-STJ Fl.30 - sem destaque no original).
+Dessa forma, a revisão do acórdão recorrido para desconstituição das conclusões do TJSP quanto à existência de má-fe e abuso de direito do recorrente, no presente caso, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TÍTULO EXTRAJUDICIAL. EXECUÇÃO. VALOR DE ATÉ 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. EXCEÇÃO. MÁ-FÉ E ABUSO DE DIREITO. ENTENDIMENTO DO STJ. ACÓRDÃO RECORRIDO. CONCLUSÃO. PENHORABILIDADE. DESCONSTITUIÇÃO DOS FUNDAMENTOS DO TJSP . INVIABILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA. VEDAÇÃO. SÚMULA Nº 7 DESTA CORTE. RECURSO ESPECIAL NÃO CONHECIDO.
