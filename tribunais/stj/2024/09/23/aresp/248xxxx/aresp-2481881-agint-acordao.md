@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE DEFESA CONSUMIDOR. SEGURO DE PLANO DE SAÚDE. CLÁUSULA CONTRATUAL TIDA POR ABUSIVA PELO PROCON/SP. REAJUSTE POR FAIXA ETÁRIA. (I) - ARGUMENTOS DO ACÓRDÃO NÃO REFUTADOS. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. (II) - CORTE DE ORIGEM QUE ENTENDEU POR NÃO CARACTERIZADA A ABUSIVIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "Incide, de forma analógica, o óbice da Súmula n. 284 do STF quando o recurso especial não impugna efetivamente o fundamento do acórdão recorrido, inviabilizando a compreensão da controvérsia". (AgInt no AREsp n. 2.353.790/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 15/8/2024)
+2. "Rever o entendimento do acórdão impugnado no que diz respeito ao caráter abusivo das cláusulas contratuais de reajuste por faixa etária implicaria o reexame do contrato e do contexto fático-probatório dos autos, providências vedadas em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ". (AgInt no AREsp n. 2.183.984/RN, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/3/2023)
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FUNDAÇÃO DE PROTEÇÃO E DEFESA DO CONSUMIDOR (PROCON/SP), contra decisão monocrática, proferida pelo eminente Ministro HERMAN BENJAMIN, então relator, que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação dos enunciados 5 e 7 da Súmula do STJ à hipótese vertente. Confira-se:
+A tentativa de reverter o resultado do julgamento no que diz respeito à configuração de cláusula contratual abusiva também faz incidir a Súmula 7/STJ por exigir o revolvimento do acervo documental dos autos.
+A Corte local consignou:
+De outra parte, ora não se rec onhece a prática das infrações previstas nos artigos 51, VI, do Código de Defesa do Consumidor e 15, parágrafo 3º, da Lei Federal10.741/2003 (Estatuto do Idoso).
+A bem ver, o Superior Tribunal de Justiça reconhece a possibilidade de reajuste por faixa etária, desde que não discriminatório ou abusivo à pessoa idosa, conforme tese formada no julgamento do recurso especial 1.568.244/RJ (tema 952), de seguinte teor: (..)
+Assim como ocorreu com a parte contrária e pelo mesmo motivo, a divergência jurisprudencial faz-se prejudicada.
+Por fim, o Recurso não merece seguimento porque a matéria nele abordada revela a necessidade de revisão de cláusulas contratuais, o que atrai a aplicação da Súmula 5/STJ: "A simples interpretação de cláusula contratual não enseja Recurso Especial". Nessa linha:
+Em seu agravo interno, às fls. 1.498-1.501, a recorrente alega que "a Súmula 5/STJ não obsta o conhecimento do RESP, pois é desnecessário o exame de cláusula contratual para reconhecer a violação ao dispositivo do CDC. O próprio acórdão paulista já evidencia os percentuais de reajustes aplicados aos prêmios dos planos de saúde da parte agravada".
+Além disso, pontua que "tampouco se aplica a Súmula 7/STJ à hipótese. Isso porque o acórdão bandeirante registrou todas as premissas fático-probatórias necessárias à análise da matéria de fundo ora debatida".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE DEFESA CONSUMIDOR. SEGURO DE PLANO DE SAÚDE. CLÁUSULA CONTRATUAL TIDA POR ABUSIVA PELO PROCON/SP. REAJUSTE POR FAIXA ETÁRIA. (I) - ARGUMENTOS DO ACÓRDÃO NÃO REFUTADOS. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. (II) - CORTE DE ORIGEM QUE ENTENDEU POR NÃO CARACTERIZADA A ABUSIVIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "Incide, de forma analógica, o óbice da Súmula n. 284 do STF quando o recurso especial não impugna efetivamente o fundamento do acórdão recorrido, inviabilizando a compreensão da controvérsia". (AgInt no AREsp n. 2.353.790/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 15/8/2024)
+2. "Rever o entendimento do acórdão impugnado no que diz respeito ao caráter abusivo das cláusulas contratuais de reajuste por faixa etária implicaria o reexame do contrato e do contexto fático-probatório dos autos, providências vedadas em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ". (AgInt no AREsp n. 2.183.984/RN, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/3/2023)
+3. Agravo interno não provido.
+VOTO
+A insurgência não merece ser provida.
+A agravante veicula em seu recurso especial a tese jurídica de violação ao artigo 51, inciso IV, do Código de Defesa do Consumidor, uma vez que, pelo seu ponto de vista, há no contrato de seguro de saúde da recorrida (SUL AMÉRICA) , cláusula contratual abusiva, manifestamente lesiva ao consumidor, consistente em reajustes desproporcionais nas mensalidades do plano de saúde, em razão da faixa etária do segurado. Neste sentido, entende legítima a multa aplicada à recorrida, no exercício do seu mister fiscalizatório.
+Por primeiro, tem que a Corte de origem, ao afastar a pretensão recursal da agravante, além de levantar outros fundamentos, ponderou que não haveria se cogitar em abusividade da cláusula contratual questionada, fundando seu raciocínio em duas linhas cognitivas diversas: (i) porque "o STJ reconhece a possibilidade de reajuste por faixa etária, desde que não discriminatório ou abusivo à pessoa idosa, conforme tese formada no julgamento do recurso especial nº 1.568.244/RJ (Tema 952)" (fl. 1.250) e (ii) porquanto "os fundamentos para a imposição da infração são genéricos", já que "não analisado o efetivo desequilíbrio financeiro dos percentuais de reajuste nos contratos objeto de autuação" (fl. 1.253).
+Todavia, no recurso especial, a recorrente não refuta nenhuma das duas linhas de raciocínio supra mencionadas , situação a atrair a aplicação do enunciado 284 da Súmula do STF, ante a fundamentação recursal manifestamente deficiente. Com efeito, na linha do entendimento deste Tribunal Superior, "incide, de forma analógica, o óbice da Súmula n. 284 do STF quando o recurso especial não impugna efetivamente o fundamento do acórdão recorrido, inviabilizando a compreensão da controvérsia". (AgInt no AREsp n. 2.353.790/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 15/8/2024) No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CADERNETA DE POUPANÇA. JUROS REMUNERATÓRIO. ART. 535, I DO CPC. RAZÕES RECURSAIS DEFICIENTES. SU. 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. ART. 538 DO CPC E APLICAÇÃO DE MULTA. SUM. 7 DO STJ.
+(..)
+2. Se nas razões do recurso especial o recorrente deixa de refutar os fundamentos utilizados pelo aresto recorrido aplica-se, por analogia, o disposto na Súmula 284 do Excelso Pretório, que também incide quando o dispositivo legal apontado como malferido não tem qualquer relação com a matéria tratada nos autos.
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.256.606/SP, rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 19/5/2017)
+Além do mais, conforme se observa, a Corte de origem, soberana na análise das circunstâncias fáticas da causa, concluiu que não há abusividade na cláusula prevista no contrato de seguro saúde da recorrida. Todavia, a alteração desse entendimento, para acolher a tese da parte agravante, não se mostra possível em sede de recurso especial. Isso porque, "rever o entendimento do acórdão impugnado no que diz respeito ao caráter abusivo das cláusulas contratuais de reajuste por faixa etária implicaria o reexame do contrato e do contexto fático-probatório dos autos, providências vedadas em recurso especial em virtude da incidência das Súmulas nºs 5 e 7/STJ". (AgInt no AREsp n. 2.183.984/RN, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/3/2023) A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. FORNECIMENTO DE MATERIAIS INERENTES A ATO CIRÚRGICO. NEGATIVA INDEVIDA DE COBERTURA. ABUSIVIDADE. ANÁLISE DE CLÁUSULA CONTRATUAL E DOS ELEMENTOS PROBATÓRIOS DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+(..)
+2. Alterar o entendimento do tribunal de origem a respeito da abusividade da negativa de cobertura de materiais necessários a ato cirúrgico exige a interpretação de cláusulas contratuais e a revisão de provas, a atrair a aplicação das Súmulas n. 5 e 7 do STJ.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.513.815/SP, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 29/5/2024)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PLANO DE SAÚDE. COBERTURA. RECUSA INDEVIDA. ANS. ROL TAXATIVO. MITIGAÇÃO. TRANSTORNO DO ESPECTRO AUTISTA. COBERTURA OBRIGATÓRIA. COPARTICIPAÇÃO INCABÍVEL. REVISÃO. ABUSIVIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+(..)
+8. Na hipótese, rever a conclusão firmada pelas instâncias ordinárias, no sentido de que houve abusividade pelo plano de saúde e de que não há falar em coparticipação, e acolher a tese recursal, de que a cláusula contratual que prevê o pagamento da mesma não é onerosa, exigiria o revolvimento de fatos, de provas dos autos e de cláusulas contratuais, providências inviáveis no recurso especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+9. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.045.203/SP, rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO CIVIL. AÇÃO COLETIVA. CONTRATO DE PLANO DE SAÚDE COLETIVO. OFENSA AOS ARTS. 489 E 1.022 NÃO EVIDENCIADA. ACÓRDÃO ESTADUAL FUNDAMENTADO. AFASTAMENTO DAS NORMAS DO CÓDIGO DO CONSUMIDOR. PLANO DE SAÚDE GERIDO POR ENTIDADE DE AUTOGESTÃO. SÚMULA 608/STJ. CLÁUSULA DE REAJUSTE POR SINISTRALIDADE. ÍNDOLE ABUSIVA NÃO DEMONSTRADA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+5. A modificação do entendimento firmado, quanto à inexistência de índole abusiva no reajuste por sinistralidade praticado pela operadora do plano de saúde, demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.267.051/DF, rel. Min. Raul Araújo, Quarta Turma, DJe de 9/11/2023)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
