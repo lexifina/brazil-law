@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por UNIMED DE ARARAQUARA COOPERATIVA DE TRABALHO MÉDICO, em face de decisão que não admitiu recurso especial (fls. 1052-1054, e-STJ).
+O apelo nobre, de sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 429-440, e-STJ):
+APELAÇÃO. Plano de saúde. Negativa de cobertura. Tratamento multidisciplinar. MENOR com diagnóstico de PARALISIA CEREBRAL TETRAPARÉTICA MISTA, EPILEPSIA e DÉFICIT COGNITIVO. Recusa abusiva. Interpretação do diploma consumerista, da súmula 102 do TJSP e da novel legislação afeta ao tema (STATUS DE "REFERÊNCIA BÁSICA" CONSAGRADO PELA LEI Nº 14.454/22). Tratamento em clínica fora da rede credenciada apenas em caso de inexistência de profissionais habilitados perante a operadora. Dever de reembolso como consequente lógico desta deliberação. Sentença mantida. Adoção do art. 252 do RITJ. RECURSO DESPROVIDO..
+Opostos embargos de declaração (fls. 1030-1033, e-STJ), esses foram rejeitados (fls. 1034-1037, e-STJ).
+Nas razões do recurso especial (fls. 449-465, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação aos seguintes artigos:
+(i) 10, §§ 4º e 13, da Lei 9656/98, haja vista a natureza taxativa do rol de procedimentos da ANS;
+(ii) 10 do CPC/2015, ao argumento de que houve decisão surpresa quanto à determinação de produção de prova quanto à ausência de excepcionalidade do tratamento;
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, com amparo na incidência da Súmula 83/STJ e não comprovação do dissídio jurisprudencial.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo merece prosperar, em parte.
+1. De acordo com a jurisprudência do STJ, a inovação legislativa trazida pela Lei 14.454/22 tão somente esclareceu quais critérios permitiriam a cobertura de exames ou tratamentos de saúde não dispostos no rol de procedimentos da ANS.
+No ponto, cita-se o seguinte trecho do voto do e. Ministro Villas Bôas Cueva, condutor do julgamento REsp n. 2.037.616/SP, ocorrido no âmbito da Segunda Seção desta Corte:
+Conforme se verifica, a inovação normativa praticamente positivou os critérios delineados pela Segunda Seção do STJ.
+Em outras palavras, a Lei nº 14.454/2022 promoveu alteração na Lei nº 9.656/1998 para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no Rol de Procedimentos e Eventos em Saúde Suplementar.
+Assim, com a edição da Lei nº 14.454/2022, o Rol da ANS passou por sensíveis modificações em seu formato, suplantando a eventual oposição rol taxativo/rol exemplificativo.
+Cabe ressaltar que os efeitos práticos do "rol taxativo mitigado" ou do "rol exemplificativo mitigado" serão similares, isto é, tais efeitos ultrapassam eventuais rótulos reducionistas (REsps nºs 1.870.834/SP e 1.872.321/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 19/9/2023 - Tema Repetitivo nº 1.069/STJ).
+A respeito, confira-se o Enunciado nº 109 das Jornadas de Direito da Saúde, ocorridas sob a coordenação do Conselho Nacional de Justiça (CNJ):
+"Solicitado procedimento ou tratamento médico não previsto no Rol da ANS, cabe verificar, além das condições legais descritas no artigo 10, § 13 da Lei nº 9.656/98: a) se existe, para o tratamento do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol da ANS; b) se não foi indeferida pela ANS a incorporação do procedimento ou tratamento; c) se há expressa exclusão regulamentar ou legal em relação ao procedimento ou tratamento solicitado; d) se há notas ou pareceres técnicos de órgãos tais como a Conitec e o NatJus que avaliaram tecnicamente a eficácia, acurácia e efetividade do plano terapêutico." (grifou-se).
+Relevante, ainda, a menção à ementa do referido julgado:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. ROL DA ANS. NATUREZA JURÍDICA. PRESSUPOSTOS DE SUPERAÇÃO. CRITÉRIOS DA SEGUNDA SEÇÃO. LEGISLAÇÃO SUPERVENIENTE. IRRETROATIVIDADE. CARÁTER INOVADOR. TRATAMENTO CONTINUADO. APLICAÇÃO EX NUNC. NEOPLASIA MALIGNA. MEDICAMENTO QUIMIOTERÁPICO. DIRETRIZES DE UTILIZAÇÃO (DUT). MERO ELEMENTO ORGANIZADOR DA PRESCRIÇÃO FARMACÊUTICA. EFEITO IMPEDITIVO DE TRATAMENTO ASSISTENCIAL. AFASTAMENTO.
+1. Tratam os autos da interpretação do alcance das normas definidoras do plano referência de assistência à saúde, também conhecido como Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela Agência Nacional de Saúde Suplementar (ANS), sobretudo com relação às Diretrizes de Utilização (DUT).
+2. Quando do julgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP, a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+3. A Lei nº 14.454/2022 promoveu alteração na Lei nº 9.656/1998 (art. 10, § 13) para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no Rol de Procedimentos e Eventos em Saúde Suplementar.
+4. Com a edição da Lei nº 14.454/2022, o Rol da ANS passou por sensíveis modificações em seu formato, suplantando a eventual oposição rol taxativo/rol exemplificativo.
+5. A superveniência do novo diploma legal (Lei nº 14.454/2022) foi capaz de fornecer nova solução legislativa, antes inexistente, provocando alteração substancial do complexo normativo. Ainda que se quisesse cogitar, erroneamente, que a modificação legislativa havida foi no sentido de trazer uma "interpretação autêntica", ressalta-se que o sentido colimado não vigora desde a data do ato interpretado, mas apenas opera efeitos ex nunc, já que a nova regra modificadora ostenta caráter inovador.
+6. Em âmbito cível, conforme o Princípio da Irretroatividade, a lei nova não alcança fatos passados, ou seja, aqueles anteriores à sua vigência. Seus efeitos somente podem atingir fatos presentes e futuros, salvo previsão expressa em outro sentido e observados o ato jurídico perfeito, a coisa julgada e o direito adquirido.
+7. Embora a lei nova não possa, em regra, retroagir, é possível a sua aplicação imediata, ainda mais em contratos de trato sucessivo.
+Assim, nos tratamentos de caráter continuado, deverão ser observadas, a partir da sua vigência, as inovações trazidas pela Lei nº 14.454/2022, diante da aplicabilidade imediata da lei nova.
+Aplicação também do Enunciado nº 109 das Jornadas de Direito da Saúde, ocorridas sob a coordenação do Conselho Nacional de Justiça (CNJ).
+8. Mantém-se a jurisprudência da Segunda Seção do STJ, que uniformizou a interpretação da legislação da época, devendo incidir aos casos regidos pelas normas que vigoravam quando da ocorrência dos fatos, podendo a nova lei incidir, a partir de sua vigência, aos fatos daí sucedidos.
+9. A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências.
+10. Na hipótese, aplicando os parâmetros definidos para a superação, em concreto, da taxatividade do Rol da ANS (que são similares à inovação trazida pela Lei nº 14.454/2022, conforme também demonstra o Enunciado nº 109 das Jornadas de Direito da Saúde), verifica-se que a autora faz jus à cobertura pretendida de tratamento ocular quimioterápico com antiangiogênico.
+11. Recurso especial não provido.
+(REsp n. 2.037.616/SP, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 24/4/2024, DJe de 8/5/2024.)
+No caso em apreço, a Corte local não se filiou ao supracitado posiciontamento, na medida em que determinou a cobertura dos tratamentos sob o fundamento de que estes seriam necessários e que o rol de procedimentos da ANS teria cunho exemplificativo. Veja-se (fl. 438, e-STJ):
+Novidade legislativa que, alterando a lei dos planos de saúde, cuidou de consagrar o caráter EXEMPLIFICATIVO do rol da ANS, em detrimento da índole TAXATIVA defendida pela operadora.
+Em síntese, assumiu o aludido rol não a condição de uma lista fechada, imutável, irretocável e intangível, mas sim o status de "REFERÊNCIA BÁSICA".
+Outrossim, apresenta-se mais do que comprovada a necessidade da realização do tratamento para propiciar a melhoria na qualidade de vida do beneficiário do plano, figurando iníquo, senão temerário, impor ao infante, com tão grave diagnóstico, limitações das mais variadas espécies.
+2. Destaca-se, por fim, que a cassação do acórdão recorrido ora determinada não autoriza a interrupção dos tratamento atualmente em curso, na medida em que a sentença de primeiro grau confirmou a tutela provisória, determinando, em caráter liminar, a cobertura pretendida na petição inicial.
+3. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para dar parcial provimento ao recurso especial. Por conseguinte, determina-se o retorno dos autos à Corte local, para que reaprecie o dever de cobertura dos tratamentos em comento, à luz da jurisprudência do STJ sobre o tema.
+Publique-se.
+Intimem-se.
+EMENTA
