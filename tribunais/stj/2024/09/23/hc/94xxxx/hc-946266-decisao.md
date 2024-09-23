@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ VINICIUS SOARES CABRAL em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA.
+Consta dos autos que o paciente foi preso preventivamente em 15/7/2024, pela suposta prática das condutas descritas nos arts. 33, caput, c/c o art. 40, V, e 35, todos da Lei n. 11.343/2006.
+O impetrante sustenta a ausência de fundamentação idônea bem como dos requisitos legais para a decretação da prisão preventiva do paciente, que teria sido decretada com base na gravidade abstrata do delito de tráfico de drogas.
+Afirma, ainda, a ausência de contemporaneidade dos motivos ensejadores da custódia, tendo em vista que o crime ocorreu em 15/12/2022, ou seja, há quase 2 anos.
+Alega que o paciente possui condições pessoais favoráveis, como primariedade, endereço fixo e ocupação lícita, sendo, portanto, suficiente a aplicação de medidas cautelares diversas da prisão para a garantia da ordem pública.
+Aduz que o paciente é arrimo de família e indispensável aos cuidados de três filhos cuja subsistência é de sua responsabilidade.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva do paciente ainda que com a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+De início, verifica-se que, não havendo divergência sobre a matéria no órgão colegiado, é admissível seu exame preliminar pelo relator, conforme o disposto nos incisos XVIII e XX do art. 34 do RISTJ. A propósito: AgRg nos EREsp n. 1.990.992/MG, relatora Ministra Daniela Teixeira, Terceira Seção, julgado em 14/8/2024, DJe de 19/8/2024; AgRg no HC n. 843.081/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024; e AgRg no HC n. 901.409/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024.
+Extrai-se do acórdão impugnado que a prisão preventiva do paciente foi decretada nos seguintes termos (fls. 20-21):
+ ..  Menciona a denúncia que JOSÉ VINÍCIUS atuava como operador comercial de drogas de Adriano, em razão da impossibilidade de locomoção deste, sendo responsável por intermediar a negociação entre Adriano e Wanderson, bem como a compra, fornecimento e remessa da droga embarcada em Rio Branco/AC para o estado do Mato Grosso.
+A materialidade está consubstanciada nos documentos constantes dos autos de nº 7000278-72.2023.8.22.0005, nos quais repousam suficientes indícios de autoria.
+O crime em questão é doloso e punido com pena privativa de liberdade máxima superior a 04 (quatro) anos. O fato é recentíssimo, ou seja, supostamente praticado no dia 15 de dezembro de 2022, o que traduz também a contemporaneidade.
+ ..
+Na espécie, o fato imputado ao representado é de extrema gravidade, considerando a grande quantidade de droga apreendida, cuja conduta é geradora de perigo social. Neste caso, ressoa a necessidade de garantir a ordem pública, considerando que o crime em questão não tem como destinatário determinado grupo de pessoas, não interessando aos traficantes que sejam pessoas jovens, adultos ou até mesmo os idosos, o que importa, na realidade, é obter dinheiro fácil em detrimento de uma coletividade, inclusive, contribuindo para a desestabilização da maioria dos adolescentes dependentes químicos.
+ ..
+Ademais, como asseverado na representação, consta no relatório decorrente da quebra de sigilo telefônico que JOSÉ VINÍCIUS atua como gerente comercial de Adriano nos mais diversos tipos de crimes, demonstrando também o perigo gerado pelo seu estado de liberdade.
+Assim, necessária no presente caso a medida mais gravosa, sobretudo para garantia da ordem pública, um de seus fundamentos.
+Com essas razões, nos termos do artigo 312 e 313, I, do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de JOSÉ VINICIUS SOARES CABRAL.
+No caso, verifica-se a presença de fundamentos concretos para a manutenção da prisão cautelar, a bem da ordem pública, tendo em vista a gravidade concreta dos crimes praticados evidenciada pela quantidade exorbitante de droga apreendida - 107,1 kg de cocaína, sendo 85,6 kg de pasta base e 21,5 kg de cloridrato de cocaína, consoante se verifica no acórdão impugnado (fls. 21-22).
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça, que reconhece que a quantidade, a natureza e a diversidade das substâncias entorpecentes apreendidas constituem fundamentos adequados para a decretação da prisão preventiva.
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO AO ESTATUTO DO DESARMAMENTO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. ILEGALIDADE DA PRISÃO EM RAZÃO DA AUSÊNCIA DE LAUDO DE CONSTATAÇÃO PRELIMINAR DE DROGA. NÃO CONFIGURADA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerada a gravidade concreta das condutas atribuídas ao Agravante, haja vista a quantidade de drogas apreendidas, além da apreensão de arma de fogo e munições. Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Precedentes.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - Por outro lado, no que se refere à alegação acerca da ausência de laudo de constatação preliminar de drogas, não verifico flagrante ilegalidade a autorizar a soltura do Agravante, pois, conforme concluiu o Tribunal de origem, ele se encontra preso, também, pelo delito previsto no art. 16 da Lei n. 10.826/03.
+V - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 912.948/PI, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. IMPOSSIBILIDADE DE APRECIAÇÃO NA VIA ELEITA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A tese de negativa de autoria não comporta conhecimento, por demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via do habeas corpus. Precedentes.
+2. Hipótese em que a prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada a partir da quantidade de substância entorpecente apreendida, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. A suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço.
+4. Agravo regimental não provido.
+(AgRg no HC n. 896.066/SP, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024, grifo acrescido.)
+Não bastasse, verifica-se que o paciente desempenha função de destaque em associação criminosa especializada em tráfico de entorpecentes, atuando como gerente comercial do corréu Adriano, circunstância que demonstra a necessidade de manutenção da prisão cautelar.
+A propósito:
+Conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009).
+(AgRg no HC n. 910.098/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO "FIM DO MUNDO". ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. ALEGAÇÃO DE NULIDADE E DESENTRANHAMENTO DE PROVAS ILÍCITAS. ACESSO AO CONTEÚDO DO CELULAR APREENDIDO PELA AUTORIDADE POLICIAL OCORRIDO SEM AUTORIZAÇÃO JUDICIAL. QUEBRA DE SIGILO DE DADOS E TELEMÁTICOS. NÃO OCORRÊNCIA. AUTORIZAÇÃO DO CORRÉU. EXERCÍCIO DE AUTODEFESA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. DECISÃO MANTIDA.
+ ..
+2. Com efeito: "A jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação e de sua atuação em posição de destaque." (AgRg no HC n. 640.313/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 5/3/2021).
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 183.658/RJ, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual, se estiverem presentes os requisitos da custódia cautelar, como no presente caso.
+Em situações análogas:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+ ..
+3. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória (precedentes).
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023 - grifo acrescido.)
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; e AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+No mais, quanto a aventada ausência de contemporaneidade dos motivos que embasaram o decreto prisional e ao tácito pedido de prisão domiciliar, o Tribunal de origem assim dispôs (fls. 22 e 24):
+Ademais, não há o que se falar em falta de contemporaneidade, pois, as atividades de uma associação criminosa, por sua natureza, perpetuam-se no tempo até que venha a ser desmantelada. Contudo, a contemporaneidade não está restrita à época da prática do delito, e sim da necessidade no momento de sua decretação, ainda que o crime tenha ocorrido em um período passado.
+ ..
+O paciente em nenhum momento comprovou que é o único responsável pelos cuidados dos filhos, nossa legislação é bem clara na aplicação da cautelar, prevista no art. 318- VI do Código de Processo Penal.
+Quanto à contemporaneidade, verifica-se que subsistem os fundamentos utilizados para a decretação da custódia cautelar, mormente porque o paciente é integrante de associação criminosa especializada em tráfico de grandes volumes de entorpecentes.
+Com efeito, a "contemporaneidade não está restrita à época da prática do delito, e sim da verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado" (AgRg no HC n. 707.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/3/2022, DJe de 11/3/2022).
+Por fim, quanto à tese de que o paciente seria responsável pelos cuidados dos filhos menores, de fato, não há nos autos comprovação de que seria ele imprescindível aos cuidados das crianças, tampouco de que seria o único responsável por elas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PAI DE DUAS CRIANÇAS. NÃO DEMONSTRADA A IMPRESCINDIBILIDADE DOS CUIDADOS PATERNOS. FALECIMENTO DA GENITORA APÓS A INTERPOSIÇÃO DO AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior firmou o entendimento de que a prisão domiciliar para o infrator (homem), pai de filhos menores de 12 anos de idade, não possui caráter absoluto ou automático, devendo estar comprovada a imprescindibilidade dos cuidados do apenado para com as crianças.
+2. O Tribunal local indeferiu o pleito de prisão domiciliar, destacando que não se demonstrou a condição de indispensabilidade do paciente para os cuidados dos filhos. Para rever tais conclusões, seria necessário aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus .
+3. A situação das crianças após o falecimento da genitora não foi objeto de análise pelas instâncias ordinárias, o que afasta a competência desta Corte Superior para conhecer originariamente da matéria, sob pena de incorrer em indevida supressão de instância.
+4. Agravo Regimental desprovido.
+(AgRg no RHC 188.196/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024 - grifo acrescido.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
