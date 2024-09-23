@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ERBE INCORPORADORA 001 S.A. (ERBE) contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA Nº 7 DO STJ. ALEGAÇÃO DE IMPOSSIBILIDADE DA COBRANÇA CUMULATIVA DA MULTA CONTRATUAL COM OUTRAS VERBAS INDENIZATÓRIAS. INOVAÇÃODE ARGUMENTO. IMPOSSIBILIDADE. MATÉRIA PRECLUSA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel cumulada com indenização por danos materiais e morais, em decorrência de atraso na entrega da obra.
+2. No caso, a fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade dos promitentes-compradores, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula nº 7 do STJ.
+3. A alegação pela incorporadora, em agravo interno, da impossibilidade de cumulação da multa contratual com outras verbas indenizatórias, configura inovação de argumento, inadmissível na via eleita, por se tratar de questão que não foi suscitada, oportunamente, nas instâncias ordinárias, tendo sido alcançada pela preclusão consumativa.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp nº 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 31/8/2020, DJe de 8/9/2020).
+5. Agravo interno não provido.
+Nas razões do presente inconformismo, alegou a violação do art. 1.022, II, do CPC, indicando omissão do julgado acerca do descabimento da indenização por danos morais na hipótese de mero descumprimento contratual, questão cuja análise não depende do reexame de provas.
+Foi apresentada impugnação requerendo a aplicação da multa prevista no art. 1.026, § 2º, do CPC (e-STJ, fls. 933/937).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N.º 7 DO STJ. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. INTUITO PROTELATÓRIO. ART. 1.026, § 2º, DO CPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do CPC), não se prestando a novo julgamento da causa.
+2. No caso, o acórdão embargado não incorreu no vício apontado, tendo concluído, fundamentadamente, que a fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade dos promitentes-compradores, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula n.º 7 do STJ.
+3. Diante da manifesta improcedência dos embargos, está evidenciado o caráter notoriamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do CPC, fixada em 2% sobre o valor atualizado da causa.
+4. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões deste aclaratório, ERBE apontou a existência de omissão no julgado, defendendo a necessidade de afastamento da indenização por danos morais na hipótese de mero descumprimento contratual, questão cuja solução independe do reexame de provas.
+Contudo, sem razão.
+Há que se destacar que o acórdão embargado não foi obscuro, omisso ou contraditório nem tampouco apresentou erro material ao concluir, fundamentadamente, que, no caso, a fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade dos promitentes- compradores, extrapolando a esfera do mero inadimplemento contratual - demora excessiva na conclusão da obra aliada à inclusão indevida dos nomes dos compradores no SPC/SERASA -, não podendo a questão ser revista nesta via excepcional, ante a incidência da Súmula n.º 7 do STJ.
+Em conclusão, não há que se falar em deficiência na entrega da prestação jurisdicional, cumprindo assinalar que a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n.º 1.524.835/SE, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos em 17/2/2020, DJe de 19/2/2020.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n.º 1.427.815/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado aos 17/2/2020, DJe de 20/2/2020 - sem destaques no original.)
+Desse modo, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa, finalidade que desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Verificado o caráter protelatório dos presentes embargos de declaração na medida em que se constatou a impossibilidade de conhecimento do agravo em recurso especial interposto, condeno ERBE ao pagamento da multa de 2% sobre o valor atualizado da causa em favor de PEDRO ROGERIO ERNESTO GOMES e RAQUEL DE CASSIA RODRIGUES DA SILVA GOMES, nos termos do art. 1.026, § 2º, do CPC.
+Nessas condições, REJEITO os presentes embargos de declaração, com imposição de multa.
+É o voto.
