@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pela GINGA PROPAGANDA LTDA., com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado (e-STJ fls. 717/718):
+EMENTA: APELAÇÕES CÍVEIS. AÇÃO MONITÓRIA. PRESCRIÇÃO. INOCORRÊNCIA. LEGITIMIDADE PASSIVA E SOLIDARIEDADE. COMPROVAÇÃO. PROVA DA CONSTITUIÇÃO DO DIREITO E AUSÊNCIA DE FATO MODIFICATIVO, EXTINTIVO E IMPEDITIVO. ÔNUS DA PROVA. ART. 373, I, DO CPC. HONORÁRIOS ADVOCATÍCIOS FIXADOS CORRETAMENTE. PRESCINDÍVEL O REEXAME NECESSÁRIO NOS TERMOS DO ARTIGO 496, § 1º, DO CPC. RECURSOS NÃO PROVIDOS.
+1- Com a interposição de recurso voluntário por parte da Fazenda Pública, a alegação de submeter o feito ao Reexame Necessário não merece prosperar, nos termos do que dispõe o art. 496, § 1º, do Código de Processo Civil de 2015, por incompatibilidade lógica.
+2- Tempestiva a ação monitória de origem, pois não transcorrido o prazo de 05 (cinco) anos previsto no art. 1º, do Decreto nº 20.910/32.
+3- A empresa GINGA PROPAGANDA foi a responsável pela contratação direta com o Estado do Tocantins e por promover a subcontratação da empresa DOIS TOM para a execução de parte do serviço do contrato originário, de modo que ambos os Réus possuem legitimidade para permanecer no polo passivo da demanda, sendo, inclusive, evidente a obrigação solidária entre eles.
+4- Demonstrada a constituição do direito do autor por prova pré-constituída, incumbia aos Réus o ônus de desconstituí-la (art. 373, incisos I e II, do CPC), o que não foi feito, sendo de rigor a manutenção da sentença, neste particular.
+5- Não há qualquer reparo a ser feito na sentença, no tocante aos honorários advocatícios, uma vez que fixados em 10% (dez por cento) sobre o valor da condenação, em estrita observância ao disposto no art. 85, § 3º, II, do CPC.
+6- Provimento negado aos apelos.
+Embargos de declaração rejeitados (e-STJ fls. 772/787).
+Em suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, IV e 1.022, II, do CPC/2015, sustentando que, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre questões relevantes ao deslinde da controvérsia.
+Sustenta que deixou de ser analisada a existência de cláusulas no contrato por ela firmado com a Administração Pública, bem como de disposição da lei federal que trata da atividade por ela exercida, que expressamente excluem sua responsabilidade pelo pagamento dos serviços prestados por outra agência ao Estado do Tocantins, uma vez que seu contrato seria apenas para atuar como intermediadora na contratação de serviços de publicidade.
+Contrarrazões às e-STJ fls. 823/830.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 844/818.
+Passo a decidir.
+Verifica-se que assiste razão ao recorrente em relação à ofensa ao art. 1.022, do CPC/2015.
+De fato, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre a alegação de que o Contrato n. 6/2012 teria como objeto mera intermediação de serviços de publicidade, na forma prevista na legislação específica (Lei n. 4.680/1965), e existência de cláusulas contratuais que expressamente excluiriam a responsabilidade da recorrente quanto ao serviço prestado pela primeira recorrida.
+Certo que o magistrado, desde que amparado em fundamentação suficiente, não está obrigado a responder a todos os argumentos suscitados pela parte.
+Todavia, na espécie, constata-se que a Corte de origem manteve-se silente sobre questão relevante, a despeito de ter sido oportunamente provocada mediante aclaratórios.
+Assim, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 1.022 do CPC/2015, para que a questão levantada pela recorrente seja apreciada pelo Tribunal de origem, à luz do caso concreto, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido. (AgInt no AREsp 1.149.082/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1.695.486/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, por violação ao art. 1.022 do CPC de 2015, determinando o retorno dos autos à origem para reapreciação dos embargos de declaração opostos pelo recorrente, sanan do o vício de integração ora identificado. Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
