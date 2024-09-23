@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por ANTÔNIO MICAEL QUE IROZ SILVA desafiando acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0620210-44.2024.8.06.0000).
+Depreende-se dos autos que o recorrente encontra-se preso preventivamente pela suposta prática dos crimes de organização criminosa, tráfico de entorpecentes e associação para o mesmo fim (e-STJ fls. 177/181).
+Impetrado habeas corpus na origem, a ordem foi denegada (e-STJ fls. 40/55).
+No presente recurso, a Defensoria Pública alega excesso de prazo para a formação da culpa, já que o recorrente encontra-se segregado desde 18/8/202, sem que a instrução processual tenha se encerrado.
+Informa que, em 9/10/2023, foi deferido pelo juiz a diligência requerida pelo órgão ministerial, no entanto, até a presente data, não foi realizada.
+Dessa forma, requer, liminarmente e no mérito, a concessão da liberdade ao recorrente, com a expedição do competente alvará de soltura, ainda que mediante a imposição de outras medidas cautelares.
+Indeferida a liminar (e-STJ fls. 231/234) e prestadas as informações (e-STJ fls. 244/247 e 250/251), manifestou-se o Ministério Público Federal, nesta instância, pelo provimento do recurso (e-STJ fls. 254/258).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, em consulta ao sítio do Tribunal de Justiça do Estado do Ceará, verifico que em 3/9/2024 foi relaxada a prisão do paciente em razão do excesso de prazo na formação da culpa, nos seguintes termos:
+Trata-se de ação penal ajuizada pelo Ministério Público Estadual em desfavor de ANTONIO MICAEL QUEIROZ SILVA, DANIEL PEREIRA DA SILVA, ERIC ALMEIDA DOS SANTOS e MARCOS VINICIUS LIMA DOS SANTOS. Em minuciosa análise do processo, constata-se injustificada demora processual. Pois bem. Inicialmente ressalto que o artigo 316 do Código de Processo Penal diz o seguinte: "Art. 316. O juiz poderá, de ofício ou a pedido das partes, revogar a prisão preventiva se, no correr da investigação ou do processo, verificar a falta de motivo para que ela subsista, bem como novamente decretá-la, se sobrevierem razões que a justifiquem." Como se sabe, a prisão cautelar é medida excepcional e não pode perdurar por tempo indeterminado, sob pena de afrontar o princípio constitucional da razoável duração do processo, previsto no inciso LXXVIII, do art. 5º, da Constituição Federal, de forma que os oras acusados não podem sofrer as consequências das deficiências na atuação dos órgãos públicos, quando se sabe que os processos com réus presos merecem prioridade. Na hipótese dos autos, a demora para o cumprimento das diligências não se mostra plenamente justificadas, considerando que este Juízo já concedeu diversas prorrogações de prazo para seu cumprimento. Assim, entendo que a prisão preventiva dos delatados perdura por prazo alongado, sem que tenha previsão para a conclusão do processo criminal, não sendo plausível a manutenção do cárcere por deficiência do aparelho estatal.  ..  Verifica-se que transcorrido 1 (um) ano e 6 (seis) meses desde o encerramento da Audiência de Instrução e Julgamento, a diligência requerida permanece sem cumprimento, não havendo sequer previsão para a apresentação dos memoriais, bem como não há previsão para a prolação de sentença. Ora, a Defesa técnica dos acusados em nada contribuíram para a delonga da marcha processual.
+Fica, portanto, sem objeto o presente recurso.
+Diante do exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
