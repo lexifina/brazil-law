@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por DARLI GUICCIARDI contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no agravo em recurso especial.
+Eis a ementa do aresto (fls. 763-764):
+PROCESSUAL CIVIL. AGRAVO INTERNO. APOSENTADORIA. VIOLAÇÃO AO ART. 535, II, DO CPC/1973 NÃO CONFIGURADA. SÚMULA 284/STF. AUSÊNCIA DE VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. SÚMULAS 283 E 284 DO STF. ATIVIDADE PERIGOSA EM ALTA TENSÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A parte sustenta que o art. 1.022 do CPC foi infringido, mas não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária nem demonstrar a sua relevância para o julgamento do feito. Assim, é inviável o conhecimento do apelo especial nesse ponto ante o óbice da Súmula 284/STF.
+2. A parte não aponta os artigos da legislação federal tido por violados. O não preenchimento dos requisitos constitucionais exigidos para a interposição do Recurso dirigido ao STJ caracteriza deficiência na fundamentação. Ante a motivação deficiente e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF.
+3. Assim decidiu o Tribunal de origem (fls. 513, e-STJ): "Em relação ao laudo pericial (iii), restou consignado pelo expert: "O Autor não realizou atividades e operações perigosas com energia elétrica em alta tensão. Os equipamentos de rádio transmissão são energizados com baixa tensão em 110, 220 e 240 volts. Podendo nos horários de pico alcançar 250 volts. Porém esta voltagem não ocorre durante o dia inteiro" Assim, concluiu: "não restou comprovado que o Autor laborava em tensões acima de 250 volts de forma habitual e permanente, não ocasional nem intermitente. Não havendo a caracterização da periculosidade para fins previdenciários". Com efeito, resta evidenciada a exposição a baixas tensões, inferiores a 250 volts, podendo esporadicamente alcançar o valor limite.". In casu, a Corte regional baseou seu entendimento nas provas carreadas aos autos. Assim, acolher a tese defendida pela parte recorrente somente seria possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+4. A incidência da referida súmula impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa o Tribunal de origem.
+5. Agravo Interno não provido.
+Alega o embargante às fls. 774-779 que o aresto é omisso, uma vez que "a revaloração jurídica a partir de fatos incontroversos extraídos dos autos não atrai aplicação da Súmula n. 7 desta Corte".
+Além disso, "demonstrado que o recurso especial e o agravo interno contemplaram sim de maneira clara o vício incorrido pelo v. acórdão e demonstraram a relevância da matéria para o julgamento do feito, de rigor a reforma da decisão monocrática, não incidindo na hipótese a Súmula n. 284/STF".
+Por fim, "no que tange ao dissídio jurisprudencial, ficou devidamente demonstrado que para o TRF-3, ao menos no caso em análise, considerando o laudo técnico e os embargos de declaração opostos, apenas haverá reconhecimento à especialidade se o contato for habitual e permanente. Entretanto, os Tribunais da 4ª e 5ª Regiões entendem que a exposição de forma intermitente à tensão elétrica não descaracteriza o risco produzido pela eletricidade".
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, a fim de que sejam sanadas as omissões existentes no acórdão.
+Intimada, a parte embargada não apresentou impugnação (fl. 789).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO E PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos não comportam acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que negou provimento ao agravo interno, mantendo a decisão que, com amparo nas Súmulas 283 e 284, ambas do STF, e Súmula 7 do STJ, bem como na prejudicialidade do dissídio jurisprudencial, conheceu do agravo para não conhecer do recurso especial, observa-se que foram analisadas fundamentadamente as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia, sem incorrer em qualquer dos vícios acima mencionados.
+Confira-se, por oportuno, os fundamentos do aresto ora embargado (fls. 766-768):
+Conforme decisão agravada, inicialmente, a parte sustenta que o art. 1.022 do CPC foi infringido, mas não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária nem demonstrar sua relevância para o julgamento do feito. Assim, é inviável o conhecimento do apelo nobre nesse ponto ante o óbice da Súmula 284/STF.
+A parte não aponta os artigos da legislação federal tido por violados. O não preenchimento dos requisitos constitucionais exigidos para a interposição do Recurso dirigido ao STJ caracteriza deficiência na fundamentação. Ante a motivação deficiente e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF.
+Outrossim, assim consignou o Tribunal de origem (fl. 513, e-STJ):
+Em relação ao laudo pericial (iii), restou consignado pelo expert: ""O Autor não realizou atividades e operações perigosas com energia elétrica em alta tensão. Os equipamentos de rádio transmissão são energizados com baixa tensão em 110, 220 e 240 volts. Podendo nos horários de pico alcançar 250 volts. Porém esta voltagem não ocorre durante o dia inteiro" Assim, concluiu: "não restou comprovado que o Autor laborava em tensões acima de 250 volts de forma habitual e permanente, não ocasional nem intermitente. Não havendo a caracterização da periculosidade para fins previdenciários"".
+Com efeito, resta evidenciada a exposição a baixas tensões, inferiores a 250 volts, podendo esporadicamente alcançar o valor limite.
+Nota-se, pois, a ausência de exposição a tensão a 250 volts ou superior constatação de periculosidade da atividade efetivamente desempenhada pela parte autora, para fins previdenciários, com base no conjunto probatório existente nos autos.
+Cumpre salientar que o PPP e o laudo técnico pericial produzido nesta demanda, por serem individualmente elaborados e estarem devidamente preenchidos, prevalecem sobre a indicação de periculosidade existente no laudo técnico emprestado da reclamação trabalhista, elaborado em relação a diversos empregados.
+In casu, a Corte regional baseou seu entendimento nas provas carreadas aos autos. Assim, acolher a tese defendida pela parte recorrente somente seria possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+Por fim, acrescento que a incidência da referida súmula impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa o Tribunal de origem.
+A propósito, confira-se o seguinte precedente:
+(..)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nega-se provimento ao Agravo Interno.
+Pretende a parte embargante, inconformada com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do agravo interno e do agravo em recurso especial, o que é inviável em sede de embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024)
+Outrossim, de acordo com entendimento pacífico desta Corte Superior, o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa da teoria que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE AS QUANTIAS DECORRENTES DE QUINTOS/DÉCIMOS INCORPORADOS ANTERIORMENTE A DEZEMBRO DE 1994. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+(..)
+3. O órgão julgador não está obrigado a enfrentar todos os argumentos, quando por outros motivos apresente razões satisfatórias para solucionar a lide.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022)
+Por fim, impende advertir a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de recurso manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
