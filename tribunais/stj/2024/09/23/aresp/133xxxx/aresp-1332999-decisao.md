@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 539):
+AGRAVO DE INSTRUMENTO. SISTEL. PREVIDÊNCIA PRIVADA. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO PAGAMENTO. EXPURGOS INFLACIONÁRIOS EM CONTA PLUS. ÍNDICE DE CORREÇÃO MONETÁRIA. IPC. 1. A correção monetária dos valores descontados para o plano de previdência privada deve ocorrer a partir da data do desconto no salário do empregado, e não da data do ingresso dos valores no patrimônio da Fundação Sistel. 2. A Conta Plus equivale ao crédito adicional correspondente a 50% (cinquenta por cento) do valor da Reserva de Poupança Líquida apurado no momento da efetiva migração do participante ativo do Plano PBS-SISTEL para o plano TELEMARPREV. Assim, é incabível a alegação de que sobre o valor da Conta Plus não devem ser aplicados os índices de correção monetária, pois o seu montante já deve contemplar a aplicação do IPC sobre os valores da Reserva de Poupança. 3. O índice de correção monetária dos valores das contribuições ao plano de previdência é Índice de Preços ao Consumidor (IPC), nos termos do que foi julgado pela Egrégia 3ª Turma Cível. 4. Agravo de Instrumento conhecido e desprovido.
+Opostos embargos de declaração, foram eles rejeitados.
+Em razões de recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, a recorrente alega violação aos arts. 1.022, inciso II, parágrafo único, inciso I, do Código de Processo Civil, 42, §1º, da Lei 6.435/1977, 1º da Lei Complementar 109/2001, e 884 e 885, ambos do Código Civil.
+Sustenta, em síntese, que a) houve negativa de prestação jurisdicional e b) ofensa aos arts. 42, §1º, da Lei 6.435/1977, 1º da Lei Complementar 109/2001, 884 e 885, ambos do Código Civil, e divergência jurisprudencial com julgados do STJ, apontando que somente quem se desligou do plano de previdência privada original e resgatou suas contribuições terá sua reserva matemática corrigida pelos expurgos inflacionários, o que não é o caso de quem migrou para a conta plus, sob pena de se configurar o vedado enriquecimento sem causa.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Juntou-se às fls. 807/810 ofício informando que o processo, na origem, foi extinto sem resolução do mérito por ausência de pressupostos processuais.
+Em referido ofício, noticiou o Juízo de origem que, após julgamento do Recurso Especial nº 7.594 -DF, interposto pela Fundação Sistel de Seguridade Social, ora recorrente, no processo principal - que deu origem a várias liquidações de sentença, das quais o processo sob exame constitui um exemplo -, o Superior Tribunal de Justiça reformou a sentença e o acórdão daqueles autos, julgando improcedente o pedido formulado pelo autor, Sindicato dos Trabalhadores em Empresas de Telecomunicações do Estado do Espírito Santo - SC, ora recorrido.
+Naqueles autos principais, antes da reforma do julgamento inicial pelo STJ, o Sindicato havia iniciado o cumprimento provisório da sentença, que implicou sua segmentação em múltiplos outros feitos, a fim de facilitar as liquidações.
+Com a reforma do acórdão e da sentença proferida naqueles autos, todavia, os processos que estavam em fase liquidação de sentença, perderam o objeto, já que deixou de existir o título judicial que legitimava tais procedimentos.
+Nestes autos, o ofício mencionado noticia a publicação de sentença que reconheceu a circunstância e, em razão dela, julgou extinto o processo, sem resolução do mérito. Transcrevo a passagem pertinente (e-STJ, fls. 809/811):
+O processo deve ser extinto prematuramente.
+Conforme dispõe o art. 512 do CPC, a liquidação poderá ser realizada na pendência de recurso, processando-se em autos apartados no juízo de origem, cumprindo ao liquidante instruir o pedido com cópias das peças processuais pertinentes.
+Todavia, no cumprimento provisório, sendo reformada a sentença/acórdão que lhe deu origem, não há como prosseguir o feito, pois não há parâmetro a ser seguido para fins de liquidação.
+Na forma do art. 520, inciso II, do CPC, o qual aplico analogicamente à liquidação de sentença, o cumprimento provisório fica sem efeito, sobrevindo decisão que modifique ou anule a sentença objeto da execução, restituindo-se as partes ao estado anterior e liquidando-se eventuais prejuízos nos mesmos autos.
+Obviamente que não há como prosseguir com a liquidação provisória de sentença, cujo fim último é tornar o título judicial executável, dando-lhe liquidez, se não mais subsiste a sentença que lhe deu origem.
+Há nítida ausência de pressuposto para o desenvolvimento válido e regular do processo, tendo em vista a perda de sua eficácia em razão da superveniente reforma da sentença.
+(..)
+Diante disso, com base no art. 485, inciso IV, do Código de Processo Civil, extingo o processo sem resolução do mérito por ausência de pressuposto de constituição e desenvolvimento válido e regular.
+Custas pela parte autora. Sem honorários, conforme fundamentação acima.
+Independente do trânsito em julgado, determino o encaminhamento da presente sentença para ser anexada aos autos do AREsp nº 1333059 / DF, para os fins que a Ministra Relatora entender de direito.
+No caso, a recorrente pretende discutir a legalidade de acórdão que manteve decisão interlocutória proferida na liquidação da sentença destes autos.
+A liquidação de sentença, no entanto, ficou sem efeito após o julgamento proferido pelo STJ no Recurso Especial n. 7.594/DF, não mais subsistindo o título judicial que a justificava - o que afeta todas as demais liquidações conexas.
+Em razão disso, fica prejudicada a análise do presente recurso.
+Intimem-se.
+EMENTA
