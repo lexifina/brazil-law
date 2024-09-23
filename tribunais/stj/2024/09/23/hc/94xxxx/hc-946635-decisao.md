@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MARCELO BECKER AGUIAR em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE que indeferiu o pedido de liminar formulado no HC n. 0015140-67.2024.8.25.0000.
+Consta dos autos que, em 18.12.2023, foi decretada a prisão preventiva do paciente em razão da suposta prática dos delitos capitulados nos arts. 155, § 4º-B, do Código Pena, por 85 vezes e 2º da Lei n. 12.850/2013, por decisão proferida pela 8ª Vara Federal Criminal do Rio de Janeiro/RJ.
+O Superior Tribunal de Justiça, em 28.06.2024, concedeu a ordem de Habeas Corpus para determinar a substituição da prisão preventiva por domiciliar, nos termos do art. 318, VI, do CPP.
+Posteriormente, em 26.07.2024, foi decretada a sua prisão preventiva nos autos da investigação criminal em que se apura a suposta prática dos crimes previstos no art. 171 do Código Penal e 2º da Lei n. 12.850/2013, por decisão proferida pela 4ª Vara Criminal de Aracaju/SE, que, em 26/08/2024, indeferiu o pedido de substituição da segregação cautelar por prisão domiciliar.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, tendo em vista que o paciente é o único responsável pelos cuidados de seu filho, com sete anos de idade, motivo pelo qual faz jus à substituição da medida extrema por prisão domiciliar.
+Defende que a decisão do juiz da 4ª Vara Criminal de Aracaju/SE que decretou a prisão preventiva do paciente está embasada em provas compartilhadas, oriundas do processo que tramita perante a 8ª Vara Federal Criminal do Rio de Janeiro/RJ, sendo que, a prisão cautelar decretada pelo referido juízo foi substituída por prisão domiciliar por esta Corte.
+Aduz que " ..  a r. decisão que decretou a prisão preventiva (Doc. 07) do ora Paciente, pela Justiça do Estado de Sergipe, aponta que os investigados compõem o mesmo núcleo da denúncia oferecida perante a Justiça Federal do Rio de Janeiro  .. " (fl. 08).
+Assevera que o Tribunal a quo, na decisão que indeferiu a liminar no Habeas Corpus lá impetrado, acrescentou indevidamente fundamentação não utilizada pelo juiz da 4ª Vara Criminal de Aracaju/SE para decretar a segregação processual, qual seja, o suposto descump rimento de condição imposta por esta Corte na decisão que concedeu a prisão domiciliar.
+Defende, por fim, que "em momento algum restou evidenciado que o Paciente teria violado quaisquer das condições impostas para o cumprimento da medida em seu domicílio" (fl. 24).
+Requer, liminarmente e no mérito, a substituição da prisão preventiva por prisão domiciliar.
+É o relatório.
+Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a substituição da prisão preventiva por domiciliar foi indeferida com base na ausência de comprovação da imprescindibilidade do paciente aos cuidados do filho, entendimento cuja reforma exigiria o reexame da prova, inviável na via estreita do Habeas Corpus, além do descumprimento de condição fixada por esta Corte em decisão que concedeu anteriormente a prisão domiciliar ao paciente em outro processo, conforme de depreende da seguinte decisão proferida na origem:
+No caso concreto, vislumbro a ausência de comprovação de que o Paciente o único responsável pelos cuidados do seu filho M. B. D.(criança com 7 anos de idade, nascido em 01/11/2016, conforme p. 1083), ou que esteja este em situação de risco. Ademais, como bem ressaltado pela Magistrada de 1º grau na decisão que indeferiu o pedido de substituição da prisão preventiva por prisão domiciliar em 28/08/2024 (pp. 1205/1207 dos autos do processo 202420400494), "há fortes indícios de que os recursos utilizados para sustentar os menores provêm de atividades ilícitas do requerente, o que indica que este não é um provedor adequado para garantir o bem-estar dos seus filhos. Nesse contexto, vale mencionar que o bem-estar da criança não está apenas ligado à presença física do pai, mas também à garantia de um ambiente seguro e livre de influências criminosas." Por sua vez, não restou demonstrado ser o Requerente imprescindível aos cuidados de seus filhos, mormente porque a genitora das crianças, Amanda Cristina Donega, é responsável pela guarda de duas delas. Outrossim, o argumento deque ela não tem condições financeiras de sustentar o infante de 7 anos não deve ser acolhido, pois, como bem mencionado pela Presentante do Ministério Público na manifestação de pp. 1190/1220 dos autos do processo 202420400494, "tal argumento não retira dela a capacidade de mantê-los sob seus cuidados mediante o uso de auxílios sociais, oque de fato, é realidade para muitas mães que contam com o auxílio governamental para cuidar de seus filhos."
+Em outras palavras, não há notícias de que a genitora do infante de 7 anos está impedida de exercer o poder familiar ou de que seu convívio com a criança possa prejudicá-la, tampouco o fato de residir em outro Estado é empecilho para que a criança volte a morar com sua mãe e seja matriculada em outro estabelecimento de ensino para dar continuidade a seus estudos.
+ ..
+Destaco ainda que, na decisão que decretara a prisão preventiva do Paciente, a Magistrada a quo ressaltou o risco de reiteração delitiva, com base em dados concretos, destacando, ainda, que os investigados respondem a outros processos por crimes semelhantes.
+ ..
+Sobre a reiteração delitiva do Paciente e a ineficácia das medidas cautelares de meio aberto, ratifico os fundamentos do Juízo de origem na reportada decisão que indeferiu o pedido de substituição da prisão preventiva por domiciliar, formulado pela Defesa do Paciente, especialmente quando enfatiza que o Paciente, embora proibido de utilizar equipamentos eletrônicos, conforme decisão monocrática do STJ no Recurso Ordinário em Habeas Corpus nº. 198.902 /RJ, desobedecera à determinação daquela Corte Superior:
+ ..
+De fato, em consulta à Ação Penal de origem nº 202420400553, colhe-se da p. 1082 que a Autoridade Policial, em seu Relatório, narrou que o Paciente descumpriu a restrição imposta pelo STJ, conforme se extrai do seguinte excerto:  ..  (fls. 36-45).
+Quanto ao mais, trata-se de matéria sensível e que demanda maior reflexão, sendo prudente, portanto, aguardar o julgamento definitivo do Habeas Corpus impetrado no tribunal a quo antes de eventual intervenção desta Corte Superior.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
