@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA N. 7/STJ. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. POSSIBILIDADE.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o obstáculo previsto na Súmula n. 7/STJ.
+2. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp n. 1.539.725/DF, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+3.Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Sindicato dos Trabalhadores em Escolas Públicas no Distrito Federal desafiando decisão de fls. 723/726, que não conheceu do recurso especial com base na incidência do óbice da Súmula n. 7/STJ.
+Inconformada, a parte agravante requer preliminarmente o deferimento do benefício da gratuidade da justiça, aduzindo que "devidamente demonstrada hipossuficiência de recursos e o enquadramento na Resolução nº 140 da Defensoria Pública do DF" (fl. 739).
+Alega que "não se busca um reexame das provas, mas sim, uma nova valoração das provas já especificadas e delineadas na decisão recorrida.  ..  busca-se, apenas a devida aplicação do direito ao referido caso, com o reconhecimento da incorrência de prescrição com base na correta observância dos artigos 202 do CC e 1º e 8º do Decreto n .20.910/32" (fl. 741).
+Por fim, requer o afastamento da majoração dos honorários sucumbenciais.
+A parte agravada apresentou impugnação às fls. 765/780.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA N. 7/STJ. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. POSSIBILIDADE.
+1. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o obstáculo previsto na Súmula n. 7/STJ.
+2. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp n. 1.539.725/DF, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+3.Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+De início, indefiro o pedido de assistência judiciária gratuita, pois nos termos da Súmula n. 481/STJ, a concessão do aludido benefício às pessoas jurídicas, com ou sem fins lucrativos, requer a demonstração da impossibilidade de arcarem com os encargos processuais, sendo certo que o Sindicato agravante não logrou demonstrar o seu estado de hipossuficiência.
+Quanto ao mérito, colhe-se do aresto recorrido a seguinte fundamentação (fls. 592/615):
+No caso em tela, o título judicial exequendo transitou em julgado em 16 de novembro de 2012 (ID 45567228). O exequente requereu a intimação do executado para fornecer os documentos necessários para a execução da obrigação de fazer em 28 de fevereiro de 2013 (ID 45567229), mas ajuizou o cumprimento de sentença referente à obrigação de pagar apenas em 13 de julho de 2015 (ID 45567231). O cumprimento de sentença foi extinto sem resolução do mérito por decisão transitada em julgado em 8 de outubro de 2019 (ID 45567238).
+O apelante alega que o prazo prescricional para a pretensão executória é único e que qualquer ato interruptivo da prescrição abrange ambas as obrigações, tanto a obrigação de fazer quanto a obrigação de pagar.
+Entretanto, a sua tese não merece prosperar.
+É pacífico na jurisprudência do Superior Tribunal de Justiça que "o ajuizamento da execução da obrigação de fazer não interrompe ou suspende o decurso do prazo prescricional para o cumprimento da obrigação de pagar quantia certa" (REsp 1.301.935/DF)
+ ..
+Assim, no caso em análise, o prazo prescricional foi interrompido apenas em 13 de julho de 2015, 2 anos e 8 meses após o início de seu transcurso, de modo que é inaplicável a Súmula nº 383 do STF, que incide apenas nos casos em que a interrupção se dá na primeira metade do prazo prescricional.
+Desta forma, deve ser aplicado o art. 9º do Decreto nº 20.910/1932, de modo que o prazo prescricional interrompido voltou a correr em 8 de outubro de 2019, pelo período de dois anos e meio, encerrando-se em 8 de abril de 2022.
+O presente cumprimento de sentença foi ajuizado apenas em 7 de dezembro de 2022, data em que já consumada a prescrição da pretensão executiva.
+Por fim, como bem salientou o sentenciante, tem-se que o prazo analisado se refere ao pedido de cumprimento de sentença e, considerando que o Sindicato apelante optou em ajuizar o cumprimento individual da sentença coletiva, inequívoco que desconsiderou o pedido de liquidação de sentença, não havendo que se falar em necessidade prévia de liquidação do título judicial exequendo determinada no bojo dos embargos à execução nº 0031604-31.2015.8.07.0018 para fins de contagem do prazo prescricional.
+Assim, deve ser mantida a sentença recorrida, que reconheceu a prescrição e extinguiu o processo com resolução de mérito.
+Nesse contexto, acertada a decisão recorrida quando consignou que a alteração das premissas adotadas pela Corte de origem quanto à ocorrência de prescrição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. POSSIBILIDADE.
+1. O Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, tampouco foram opostos embargos declaratórios para suprir eventual omissão.
+Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o obstáculo previsto na Súmula 7/STJ.
+3. "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp n. 1.539.725/DF, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.113.414/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Por fim, conforme a jurisprudência desta Corte, "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp n. 1.539.725/DF, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 9/8/2017, DJe de 19/10/2017).
+Dessa forma, é cabível a majoração da verba honorária nas hipóteses como a presente, em que a parte recorrente sofreu condenação em honorários na origem (fl. 616).
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
