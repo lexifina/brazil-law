@@ -1,0 +1,44 @@
+DECISÃO
+Inviável conhecer do agravo interposto por Pamela Amaral da Silva contra a decisão que inadmitiu o recurso especial.
+Conforme orientação jurisprudencial sedimentada nesta Corte, a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No caso, a Corte de origem inadmitiu o recurso especial com base nos seguintes fundamentos: Súmula 182/STJ e deficiência na fundamentação do recurso calcado em dissídio jurisprudencial (falta de cotejo analítico) - fls. 144/145.
+A agravante, no entanto, não impugnou um dos fundamentos, a saber: Súmula 182/STJ.
+Ademais, no que se refere ao fundamento remanescente (falta de cotejo analítico), a impugnação deduzida, em sede de agravo, foi demasiadamente genérica, carente de argumentos concretos aptos a demonstrar a efetiva observância das diretrizes preconizadas na norma regimental para fins de demonstração da divergência jurisprudencial.
+Em casos que tais (impugnação genérica), a jurisprudência desta Corte tem orientado no sentido da inadmissão do agravo:
+ ..
+1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017 - grifo nosso).
+ ..
+1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+ ..
+(AgRg no AREsp n. 97.169/RJ, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/5/2013 - grifo nosso).
+Logo, o agravo é inadmissível (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Com fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria provido.
+A pretensão recursal é no sentido de desclassificação de falta disciplina de natureza grave para média.
+No caso, consta da moldura fática do acórdão atacado que, ao término do período de visitas, a sentenciada se recusou a entrar na cela, argumentando que havia se desentendido com sua genitora e não estava "bem da mente" (fl. 83).
+Sobre o tema, consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência aos agentes penitenciários constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais (HC n. 377.551/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/3/2017).
+No mesmo sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. FALTA GRAVE. DESOBEDIÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE DOLO REJEITADA. ABSOLVIÇÃO. IMPOSSIBILIDADE. PROVAS SUFICIENTES, BASEADAS NOS DEPOIMENTOS DOS AGENTES E NA JUSTIFICATIVA DO APENADO NÃO ACEITA. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. INVIABILIDADE. GRAVIDADE DO FATO. PREVISÃO COMO FALTA GRAVE. CONTROLE JUDICIAL SOBRE O PAD DEVIDAMENTE REALIZADO. RECURSO IMPROVIDO.
+1- As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam que o reeducando violou os arts. 50, inc. VI, c/c o art. 39, inc. II, ambos da Lei de Execução Penal, cometendo ato de indisciplina quando desobedeceu ordem do agente penitenciário, na Unidade Prisional, ao se recusar a entrar no pavilhão.  ..  (AgRg no HC n. 748.272/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+2- No caso, o recorrente se recusou a obedecer a ordem de retornar para a cela, devido ao término da recreação. O fato foi provado pelo depoimento dos agentes de segurança, que presenciaram a conduta. Não há razoabilidade na justificativa de que o apenado se distraiu, não agindo com dolo.
+3- A prova oral produzida, consistente em declarações coesas dos agentes de segurança penitenciária se mostraram suficientes para a caracterização da falta como grave (..). A Jurisprudência é pacífica no sentido de inexistir fundamento o questionamento, a priori, das declarações de servidores públicos, uma vez que suas palavras se revestem, até prova em contrário, de presunção de veracidade e de legitimidade, que é inerente aos atos administrativos em geral. (HC n. 391.170/SP, Relator Ministro NEFI CORDEIRO, julgado em 1º/8/2017, publicado em 7/8/2017).
+4- "Não está a Autoridade Judicial vinculada às conclusões da instância administrativa, sendo-lhe possível reexaminar a integralidade do procedimento de apuração e, se assim o entender, decidir fundamentadamente pela inocorrência da falta grave, pela ausência de adequação típica da conduta ou pela ausência de provas da autoria e da materialidade do fato, desde que, repita-se, faça-o de maneira fundamentada." (REsp 1.789.422/RO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/11/2019, DJe 10/12/2019).
+5- Quanto à gravidade da conduta que gerou a falta grave, ela decorre do fato de que a inobservância das regras existentes num estabelecimento prisional tem o potencial de gerar desordem, tumulto e motins, pondo em risco a vida e a integridade física dos presos, dos agentes penitenciários e até mesmo, eventualmente, de visitantes.
+6- Assim, a conduta do sentenciado, efetivamente, amolda-se à previsão contida no art. 50, inciso VI, c/c art. 50, II, da Lei n. 7.210/1984, que estabelece constituir falta disciplinar de natureza grave a desobediência.
+7- Agravo regimental não provido.
+(AgRg no HC n. 817.932/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/6/2023 - grifo nosso).
+E, no caso, o Tribunal a quo, soberano na análise das circunstâncias fáticas e de prova, concluiu que a conduta da agravante consubstanciou desobediência (fls. 83/84 - grifo nosso):
+ ..
+Nesse contexto, ainda que a conduta praticada não tenha envolvido violência ou grave ameaça, é de natureza grave, não havendo dúvida que o ato em si afronta às normas para a manutenção da ordem e da disciplina que certamente deve existir nos estabelecimentos prisionais, não se restringindo àquelas previstas no art. 45, do Regimento Interno da SAP, de modalidade média.
+O simples fato de a agravada se recusar a atender a ordem emanada pela servidora a quem deve respeito é conduta extravagante e deve ser punida, pouco importando que tal ato não tenha causado violação séria ou atingido a integridade dos servidores. A simples recusa do preso em retornar à cela, por si só, causa certo alvoroço e insegurança em todos que ali habitam.
+Outrossim, é evidente que a sentenciada teria outros meios para solicitar atendimento psicológico, não justificando a conduta ilegal que certamente atrapalha o bom andamento dos procedimentos internos da prisão, de sorte que manter a desclassificação abriria precedente temerário.
+ ..
+Assim, reconhecida a prática de falta grave, inclusive com fundamentação em consonância com a orientação jurisprudencial desta Corte sobre a matéria, afigura-se inviável acolher o pleito de desclassificação para falta média, providência essa que demandaria o reexame das provas colhidas no procedimento administrativo disciplinar, o que não é possível na estreita via, ante a incidência da Súmula 7/STJ.
+A esse respeito: AgRg no AREsp n. 1.570.857/PA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/2/2023; AgRg no AREsp n. 2.056.931/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 5/8/2022; e AgRg no AREsp n. 1.793.057/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 5/4/2021.
+Ante o exposto, não conheço do agravo (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ. FUNDAMENTO SUBSIDIÁRIO. EXECUÇÃO PENAL. DESOBEDIÊNCIA À ORDEM DE RETORNAR À CELA AO TÉRMINO DO PERÍODO DE VISITAÇÃO. FALTA GRAVE. ADEQUAÇÃO. PRECEDENTES DESTA CORTE. DESCLASSIFICAÇÃO. INADMISSIBI LIDADE. SÚMULA 7/STJ.
+Agravo não conhecido.
