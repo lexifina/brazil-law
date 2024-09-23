@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+O processo tramita nesta Corte por força da decisão proferida pelo STF (fls. 741/743e), com base no art. 1.033 do CPC/2015, para análise do pedido subsidiário acerca da compensação tributária.
+Trata-se de Recurso Especial interposto por LSL TRANSPORTES DA AMAZÔNIA LTDA E FILIAIS, contra acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, em que se discute, na via do mandado de segurança, o direito de não recolher a Contribuição ao PIS/Pasep e à COFINS sobre as receitas decorrentes das prestações de serviços destinadas à Zona Franca de Manaus, nos termos do artigo 4º do Decreto- Lei nº 288/67 e do artigo 149, §2º, I, da CRFB/88.
+Consoante anotado, atendida a pretensão principal, pelo STF, resta pendente de análise o pleito subsidiário de compensar eventuais créditos.
+Passo à análise de tal pretensão.
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No tocante à compensação, ressalto que a matéria não foi examinada pelo tribunal a quo e, assim, como regra, não poderia ser apreciada na instância especial, sob pena de ofensa ao requisito constitucional do prequestionamento.
+Entretanto, tratando-se de matéria eminentemente de direito e em observância ao princípio da celeridade processual, excepcionalmente, é possível, desde logo, conceder a ordem no mandado de segurança impetrado com o escopo exclusivo de declarar o direito à compensação tributária do indébito, submetendo-se tal procedimento, posteriormente, à apreciação da Administração Fiscal.
+Outrossim, esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual a impetração de mandado de segurança pelo contribuinte postulando a concessão da ordem apenas para se declarar o direito à compensação tributária, é suficiente, para esse efeito, a comprovação de que o impetrante ocupa a posição de credor tributário, visto que os comprovantes de recolhimento indevido serão exigidos posteriormente, na esfera administrativa, quando o procedimento de compensação for submetido à verificação pelo Fisco (1ª S., REsp 1.715.294/SP, Rel. Min. Napoleão Nunes Maia Filho, j. 13.03.2019, DJe 16.10.2019).
+Posto isso, DOU PROVIMENTO AO RECURSO ESPECIAL para declarar o direito de a Recorrente compensar os créditos tributários eventualmente existentes nos últimos cinco anos anteriores ao ajuizamento da demanda, submetendo posteriormente a compensação realizada à apreciação da Administração.
+Publique-se e intimem-se.
+EMENTA
