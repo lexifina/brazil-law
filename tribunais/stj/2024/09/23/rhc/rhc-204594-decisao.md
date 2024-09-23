@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto por FERNANDO HENRIQUE TEIXEIRA MARQUES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no HC n. 1.0000.24.367724-2/000.
+Colhe-se nos autos que o recorrente foi preso em flagrante delito no dia 26/06/2024, convertida a custódia em preventiva, tendo sido posteriormente denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006 c/ o art. 16, § 1º, inciso IV, da Lei n. 11.343/2006.
+Nesta insurgência, alega a Defesa que não se encontram presentes os requisitos autorizadores da prisão preventiva, que o decreto prisional não apresenta fundamentação idônea e que é suficiente a imposição de medidas cautelares diversas da custódia.
+Requer, ao final, o provimento do recurso para que o recorrente seja colocado em liberdade, mediante a imposição de medidas cautelares alternativas à prisão.
+O Ministério Público Federal manifestou-se às fls. 310-314, opinando pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+Para a adequada análise da controvérsia, destaco os seguintes trechos do acórdão impungado (fls. 282-283; grifamos):
+É incontroversa a presença dos referidos requisitos, no caso em tela.
+O fumus commissi delicti restou evidenciado principalmente a partir do Boletim de Ocorrência (doc. 09), do APFD (doc. 08), do Auto de Apreensão (doc. 10) e dos Exames Preliminares de Drogas de Abuso (docs. 06/15 e 21).
+Extrai-se dos autos que nos dias anteriores antes da operação que levou até o presente processo, ocorreram ataques em diferentes lugares realizados por indivíduos armados. Posteriormente, durante uma operação na Rua Antônio Camilo de Oliveira, Bairro Viriato, foram encontrados dois suspeitos em um beco. Ao perceberem a presença policial, tentaram fugir, sendo um deles avistado com uma arma de fogo vindo a apontar o armamento em direção a equipe policial. No intuito de resguardar os demais colegas, uma das autoridades disparou contra o suspeito.
+Ademais, ambos os indivíduos foram encontrados escondidos nos fundos de uma residência e, após buscas, foram encontrados materiais ilícitos e armas.
+Por outro lado, o periculum libertatis, como bem pontua o d. magistrado de piso, encontra respaldo na garantia da ordem pública, considerando, sobretudo a gravidade concreta da conduta, praticada em concurso de agentes, tendo o paciente e o coautuado empreendido fuga ao perceber a aproximação dos militares, além de terem empunhado arma de fogo contra os policiais.
+Ademais, foi apreendido 60 (sessenta) pedras de crack, totalizando 26,17g (vinte e seis gramas e dezessete centigramas); 36 (trinta e seis) buchas de maconha, pesando 65,45g (sessenta e cinco gramas e quarenta e cinco centigramas); 01 (um) papelote de cocaína, 0,89g (oitenta e nove centigramas); além de 01 (uma) arma de fogo calibre .380, 24 (vinte e quadro) cartuchos intactos de arma de fogo calibre .380 e a quantia de R$908,00 (novecentos e oito reais) em notas diversas.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do recorrente, evidenciada a partir das circunstâncias da prática delitiva, o que justifica a segregação cautelar para garantia da ordem pública.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. APREENSÃO DE ARMA DE FOGO EM CONTEXTO DE TRÁFICO DE DROGAS. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. MANDADO DE BUSCA E APREENSÃO DOMICILIAR. FUNDAMENTAÇÃO IDÔNEA.
+1. A custódia cautelar foi devidamente fundamentada na gravidade concreta da conduta pois, em cumprimento de mandado de busca e apreensão, no imóvel identificado nas investigações policiais, os policiais encontraram elevada quantidade de drogas, armas e munições apreendidas, e na reiteração delitiva, tendo em vista que o agravante é reincidente específico e tem condenações transitadas em julgado.
+2. "A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que o histórico criminal do agente, quando se presta a revelar sua periculosidade social e fundado receio de reiteração delitiva, é fundamento capaz de, por si só, legitimar a decretação ou manutenção da prisão preventiva, a bem da garantia da ordem pública". (RHC n. 100.793/RR, Sexta Turma, rel. Min. Laurita Vaz, julgado em 4/10/2018, DJe 23/10/2018.)
+3. Entende esta Corte que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública. Nesse sentido: RHC n. 137.054/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/4/2021, DJe 27/4/2021.
+4. Na decisão que determinou a busca e apreensão, ao contrário do que afirma a defesa, há motivos válidos e suficientes para a decretação da medida, pois "foi feita informação anônima à Delegacia Especializada envolvendo grave crime de tráfico de drogas, com detalhes sobre suspeitos".
+5. Agravo regimental desprovido.
+(AgRg no HC n. 915.358/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
