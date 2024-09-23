@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. DEMISSÃO. SANÇÕES PENAIS E ADMINISTRATIVAS. INDEPENDÊNCIA DE INSTÂNCIAS. AFERIÇÃO DAS CONDUTAS TIDAS POR ILÍCITAS. INVIABILIDADE. DEMISSÃO. ATO VINCULADO. ORDEM DENEGADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚ MULA DO STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Procurador-Geral de Justiça do Estado do Ceará, objetivando a anulação do ato administrativo que lhe aplicou a pena de demissão, em virtude da prática do crime de advocacia administrativa.
+II - No Tribunal de origem, denegou-se a segurança. Esta Corte negou provimento ao recurso ordinário em mandado de segurança.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à existência do crime de advocacia administrativa, à possibilidade de revisão da pena aplicada e à prescrição penal, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+RELATÓRIO
+Negou-se provimento ao recurso ordinário em mandado de segurança. interposto por Ronaldo Jeison dos Santos, com fundamento no art. 105, II, b, da Constituição Federal.
+O recurso visa reformar acórdão do Tribunal de Justiça do Estado do Ceará, nos termos assim ementados:
+DIREITO CONSTITUCIONAL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. DEMISSÃO. ART. 199, INC. I, DA LEI 9.826/74. COMETIMENTO DE CRIME CONTRA A ADMINISTRAÇÃO PÚBLICA. ALEGAÇÃO DE AUSÊNCIA DE TRÂNSITO EM JULGADO DA CONDENAÇÃO PENAL E DA POSSIBILIDADE DE APLICAÇÃO DE PENA DE SUSPENSÃO. TESES REFUTADAS. INDEPENDÊNCIA DOS PODERES E ESTRITA LEGALIDADE QUE NÃO AUTORIZAM O RECONHECIMENTO DO DIREITO LÍQUIDO E CERTO ALEGADO. SEGURANÇA DENEGADA.
+Na origem, trata-se de mandado de segurança impetrado por Ronaldo Jeison dos Santos contra ato atribuído ao Procurador-Geral de Justiça do Estado do Ceará, objetivando a anulação do ato administrativo que lhe aplicou a pena de demissão, em virtude da prática do crime de advocacia administrativa.
+No Tribunal de origem, denegou-se a segurança. Esta Corte negou provimento ao recurso ordinário em mandado de segurança.
+No recurso ordinário em mandado de segurança, Ronaldo Jeison dos Santos alega, em síntese, que o ato demissional é ilegal aos seguintes fundamentos: a) ausência de sentença penal condenatória com trânsito em julgado; b) impossibilidade de se reconhecer a prática de crime na esfera administrativa; e c) existência de sentença penal decretando a extinção da punibilidade do impetrante, por conta da prescrição; violação aos princípios da proporcionalidade e razoabilidade.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança."
+A Segunda Turma negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. DEMISSÃO. SANÇÕES PENAIS E ADMINISTRATIVAS. INDEPENDÊNCIA DE INSTÂNCIAS. AFERIÇÃO DAS CONDUTAS TIDAS POR ILÍCITAS. INVIABILIDADE. DEMISSÃO. ATO VINCULADO. ORDEM DENEGADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚMULA DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Procurador-Geral de Justiça do Estado do Ceará, objetivando a anulação do ato administrativo que lhe aplicou a pena de demissão, em virtude da prática do crime de advocacia administrativa.
+II - A jurisprudência do STJ é firme no sentido de que as instâncias penal e administrativa são independentes, sendo que a única vinculação admitida ocorre quando, na seara criminal, for provada a inexistência do fato ou a negativa de autoria.
+III - A prescrição penal corresponde a uma modalidade de extinção de punibilidade e não de negativa de autoria ou de declaração de inexistência do fato tido como criminoso. Não pode, portanto, ser utilizada como argumento para sustentar dependência da esfera administrativa à penal, visto que se aplica a regra da independência das instâncias, com exceção apenas de sentença penal absolutória com base em prova de inexistência do crime ou negativa de autoria autorizam essa interconexão.
+IV - No mais, é cediço que a demissão é ato administrativo vinculado e, por isso, emoldurada a conduta ilícita atribuída ao servidor dentre aquelas a que a lei impõe a penalidade capital (art. 132 da Lei n. 8.112/1990), não é facultado ao gestor público aplicar reprimenda diversa, nem mesmo em reverência aos princípios da razoabilidade e da proporcionalidade.
+V - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+VI - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+.. omissão de malferimento ao artigo 5º, incisos LIII e LVII, da Constituição Federal, para analisar e decidir que não havendo o reconhecimento do crime por sentença condenatória transitada em julgado, há de ser afastada, em sede administrativa, o reconhecimento do crime previsto no art. 321 do Código Penal (advocacia administrativa), elidindo, assim, a pena de demissão indevidamente aplicada.
+.. contradição, aplicando-se ao caso em mesa a Súmula 665, do STJ e os precedentes do STF, no sentido de que mesmo a pena aplicável ao caso seja a de demissão, ao Poder Judiciário cabe revisar a aplicação de referida pena, à luz dos princípios da razoabilidade e da proporcionalidade, devendo proceder com o controle judicial do ato administrativo, sem que isso configura afronta ao princípio da separação dos poderes.
+..seja analisado e julgado o presente recurso ordinário levando-se em conta que aplica-se o mesmo prazo prescricional previsto no direito penal no processo administrativo disciplinar, quando tal fato constitui crime, devendo aplicar a prescrição do processo penal também no processo administrativo disciplinar, na forma prevista no artigo 142, §3º, da Lei nº 8.112/90 e de acordo com os precedentes deste Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. DEMISSÃO. SANÇÕES PENAIS E ADMINISTRATIVAS. INDEPENDÊNCIA DE INSTÂNCIAS. AFERIÇÃO DAS CONDUTAS TIDAS POR ILÍCITAS. INVIABILIDADE. DEMISSÃO. ATO VINCULADO. ORDEM DENEGADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO N. 568 DA SÚ MULA DO STJ. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Procurador-Geral de Justiça do Estado do Ceará, objetivando a anulação do ato administrativo que lhe aplicou a pena de demissão, em virtude da prática do crime de advocacia administrativa.
+II - No Tribunal de origem, denegou-se a segurança. Esta Corte negou provimento ao recurso ordinário em mandado de segurança.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à existência do crime de advocacia administrativa, à possibilidade de revisão da pena aplicada e à prescrição penal, foram tratados no acórdão embargado, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Os vícios apontados pela parte embargante, relacionados à existência do crime de advocacia administrativa, à possibilidade de revisão da pena aplicada e à prescrição penal, foram tratados no acórdão embargado, o que afasta a alegação de omissão, nos termos assim expostos:
+Inicialmente, a jurisprudência é firme no sentido de que as instâncias penal e administrativa são independentes, sendo que a única vinculação admitida ocorre quando, na seara criminal, ficar provada a inexistência do fato ou a negativa de autoria.
+Em outras palavras, a prescrição penal corresponde a uma modalidade de extinção de punibilidade e não de negativa de autoria ou de declaração de inexistência do fato tido como criminoso. Não pode, portanto, ser utilizada como argumento para sustentar dependência da esfera administrativa à penal, visto que se aplica a regra da independência das instâncias, com exceção apenas de sentença penal absolutória com base em prova de inexistência do crime ou negativa de autoria, autorizam essa interconexão.
+No mais, é cediço que a demissão é ato administrativo vinculado e, por isso, emoldurada a conduta ilícita atribuída ao servidor dentre aquelas a que a lei impõe a penalidade capital (art. 132 da Lei n. 8.112/1990), não é facultado ao gestor público aplicar reprimenda diversa, nem mesmo em reverência aos princípios da razoabilidade e da proporcionalidade. (..)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Cumpre ressaltar que os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
