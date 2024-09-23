@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 568):
+APELAÇÃO. CONTRATO. LOCAÇÃO. IMÓVEL COMERCIAL. PRELIMINAR. ILEGITIMIDADE. PASSIVA. MÉRITO. ÔNUS. PROVA. FATOS. IMPEDITIVOS. MODIFICATIVOS. EXTINTIVOS. FIANÇA. BENEFÍCIO. ORDEM. HONORÁRIOS.
+ADVOCATÍCIOS. CONTRATUAIS. CLÁUSULA POTESTATIVA. SENTENÇA. REFORMADA.
+1. A legitimidade passiva é aferida com base nas declarações feitas pelo autor na petição inicial. O juízo é limitado ao exame da possibilidade em tese da existência do vínculo jurídico-obrigacional entre as partes e não do direito provado.
+2. O ônus da prova incumbe ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. O ônus da defesa surge a partir do momento em que o autor comprova o fato constitutivo do seu direito.
+3. Admite-se a renúncia do benefício de ordem pelo fiador no contrato de locação.
+4. A cláusula que imputa ao devedor o ônus de arcar com os honorários do advogado contratado para cobrar a dívida é abusiva.
+5. Apelação parcialmente provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 485, VI, e 1.022, II, do Código de Processo Civil; e 366 e 827 do Código Civil.
+Sustentou sua ilegitimidade passiva para figurar no feito. Alegou que o contrato de aluguel foi encerrado em 2013 e que a locatária transferiu o estabelecimento a terceira pessoa.
+Arguiu que não há se falar em renúncia do benefício de ordem no caso, face a ausência de previsão contratual.
+Ponderou ser o acórdão recorrido omisso no que concerne à novação contratual. Afirmou que houve novação contratual sem a participação dos fiadores e, por isso, deve ser considerada extinta.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos.
+Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do art. 1022 do CPC.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 574/575):
+O caso concreto está sujeito à regra estática prevista pelo art. 373, incs. I e II, do Código de Processo Civil.
+Jose Henrique Rocha Coelho comprovou o fato constitutivo do seu direito ao anexar o instrumento do contrato de locação. O locatário é obrigado a pagar pontualmente o aluguel e os encargos da locação no prazo estipulado. O descumprimento da prestação permite que o locador cobre o pagamento em juízo (art. 23, inc. I, da Lei de Locação de Imóveis).
+Coube a Regina Maria Dias, Antonio Galvão Scarabuci, Glaucia Maria Rabelo Dias Scarabuci, Ricardo Edy de Abreu e Ana Claudia Ferreira Silva provar o fato impeditivo, modificativo ou extintivo do direito do autor a partir do momento em que o contrato foi anexado aos autos.
+O pagamento dos aluguéis no prazo de vencimento seria um exemplo de fato extintivo, assim como a não prorrogação do contrato ou a alteração dos contratantes. Essas provas não foram produzidas.
+O contrato foi inicialmente firmado sob prazo determinado, entre 24 de novembro de 2008 a 23 de maio de 2011. Contudo, a cláusula 5.1 do instrumento contratual permitiu a prorrogação por prazo indeterminado. A data em que a locatária afirma que o imóvel foi entregue, em 2013, é posterior à data combinada, o que significa que o contrato estava sob as regras do prazo indeterminado. O encerramento do contrato deveria obedecer às regras predeterminadas nessa hipótese. A locatária deveria ter avisado o desejo de resilir por escrito com antecedência mínima de trinta (30) dias (id 45003500, p. 1-2).
+Os contratantes estabeleceram um rito específico para a entrega do imóvel, dessa forma não basta que a locatária e os fiadores aleguem que o contrato extinguiu-se automaticamente ou que houve a alteração dos contratantes. Deveriam ter comprovado que o procedimento contratual foi obedecido. Aplica-se ao caso concreto a regra do ônus da prova do art. 373, inc. II, do Código de Processo Civil.
+A alegação de trespasse obedece ao mesmo regramento, deveria vir acompanhada de prova suficiente. A cessão de contrato de locação para o adquirente de estabelecimento empresarial situado em bem imóvel alugado não ocorre de forma automática e exige a anuência do locador nos termos do art. 13 da Lei n. 8.245/1991.
+A locatária e os fiadores não produziram prova adequada sobre a alegação de que o locador soube do negócio jurídico. Há controvérsia sobre o fato e as cópias das correspondências eletrônicas travadas entre a imobiliária e João Batista Assis da Silva não esclarecem suficientemente a questão (id 45004269, 45004270, 45004271 e 45004271).
+A correspondência menciona João Batista Assis da Silva, mas não a ponto de ser possível afirmar que ele era o novo locatário ou que o locador anuiu com o término do contrato anterior. O locador explica que João Batista Assis da Silva era o gerente da Pizzaria Mais Rede Ltda - ME e que as pendências contratuais eram tratadas diretamente com ele desde o início. A alegação é crível e não foi impugnada satisfatoriamente na contestação (ônus da impugnação especificada).
+A única mensagem em que o nome de João Batista Assis da Silva é mencionado como locatário é de novembro de 2019, o que coincide com a alegação do locador de que somente soube da sublocação a partir desse momento e que celebrou novo contrato tão logo soube da mudança (id 45004269).
+A versão do locador é reforçada pelos recibos de pagamento de 2017 e 2018. Os recibos dessa época registram Regina Maria Dias como locatária (id 45003501 e 45003502).
+A prova produzida evidencia que o locador permitiu que João Batista Assis da Silva exercesse a atividade no mesmo local assim que soube que o empreendimento passou a ser exercido por ele, em novembro de 2019. Celebraram novo contrato para regularizar a situação, o que não objeto de controvérsia.
+O que se discute é a responsabilidade sobre o momento anterior a novembro de 2019. Não foi produzida prova suficiente de que o contrato celebrado com Regina Maria Dias, Antonio Galvão Scarabuci, Glaucia Maria Rabelo Dias Scarabuci, Ricardo Edy de Abreu e Ana Claudia Ferreira Silva estava encerrado.
+Mantenho a sentença quanto ao ponto.
+2.2. Renúncia ao benefício de ordem Regina Maria Dias, Antonio Galvão Scarabuci, Glaucia Maria Rabelo Dias Scarabuci, Ricardo Edy de Abreu e Ana Claudia Ferreira Silva consideram abusivas as cláusulas que versam sobre a renúncia ao benefício de ordem.
+As cláusulas 8.1 e 8.2 do instrumento contratual estabeleceram a responsabilidade solidária dos fiadores e a renúncia ao benefício de ordem (id 45003500, p. 3).
+O caso não envolve relação de consumo por se tratar de uma locação para exploração de empreendimento comercial regido pela Lei de Locação de Imóveis.
+O art. 828, inc. I, do Código Civil admite a renúncia ao benefício de ordem.
+As condições e as cláusulas estabelecidas no contrato são decorrentes de ajuste estabelecido livremente pelas partes. O contrato deve ser cumprido nos exatos termos por força do princípio da força obrigatória dos contratos (pacta sunt servanda). O acordo faz lei entre as partes. Constrange os contratantes ao cumprimento do negócio jurídico e não pode ser alterado pelo juiz.
+Mantenho a sentença quanto ao ponto.
+Com efeito, anoto que rever a conclusão da Corte local, que asseverou que o contrato foi prorrogado por prazo indeterminado e que houve expressa renúncia ao benefício de ordem, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial de RICARDO EDY DE ABREU E ANA CLAUDIA FERREIRA DA SILVA.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
