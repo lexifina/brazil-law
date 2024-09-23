@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+$ ementa
+RELATÓRIO
+CMES - COMÉRCIO DE METAIS E LOGÍSTICA DO ESTADO DO ESPÍRITO SANTO LTDA. e OUTRA interpõem agravo interno contra a decisão de fls. 830-831, que não conheceu do agravo em recurso especial em razão da incidência, por analogia, da Súmula n. 182 do STJ.
+A parte agravante alega que apresentou impugnação específica dos fundamentos da decisão que inadmitiu o recurso.
+Requer a reforma da decisão para que do recurso especial se conheça para ser provido.
+Sem impugnação pela parte agravada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Obsta o conhecimento do recurso especial a deficiência de fundamentação que impeça a aferição dos motivos em que se fundou a irresignação, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+2. A admissibilidade do recurso especial fundado na alínea c do permissivo constitucional depende do preenchimento dos requisitos essenciais para comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+3. A incidência de óbices sumulares quanto à interposição do recurso especial pela alínea a do permissivo constitucional impede seu conhecimento pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+VOTO
+Razão assiste à agravante quanto à impugnação específica do óbice da decisão de admissibilidade, razão pela qual a decisão de fls. 830-831 deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Espirito Santo (Apelação Cível n. 0032941-05.2018.8.08.0024) assim ementado (fls. 230-231):
+APELAÇÃO CÍVEL  AÇÃO DE DESPEJO C/C COBRANÇA  RESCISÃO DE CONTRATO DE LOCAÇÃO  ENVIO DE RESPOSTA À CONTRANOTIFICAÇÃO  CONHECIMENTO DOS TERMOS PELA PARTE REQUERIDA  ANUÊNCIA TÁCITA  DESCUMPRIMENTO  PRAZO DE DEVOLUÇÃO DO IMÓVEL  CLÁUSULA PENAL - REDUÇÃO - EQUIDADE  ART. 413 DO CÓDIGO CIVIL - RECURSO PARCIALMENTE PROVIDO.
+1. Em outras palavras, a partir do recebimento da resposta da notificação extrajudicial, as rés tomaram conhecimento da intenção da autora de não mais permitir a permanência daquelas no imóvel após o dia 30 de outubro de 2018, bem como do recebimento de aluguel pela utilização do bem e o que o não cumprimento do prazo incidiria a multa lá prevista.
+2. Restou expressamente previsto, ainda, que a parte requerida deveria, no prazo de 48 (quarenta e oito) horas, a partir do recebimento da citada resposta à contranotificação, se manifestar Sobre os termos lá mencionados, de modo que a ausência de manifestação ficaria como entendido como aceitação tácita daquele novo acordo.
+3. Do que se depreende do artigo 111 do Código Civil, resta que o silêncio contratual deve ser interpretado em consonância com o princípio da boa-fé objetiva, conforme o art. 422 daquele diploma legal, que, no caso vertente, não se verifica que tenha sido observado pelas requeridas, já que elas permaneceram mais 6 (seis) meses na posse do imóvel com plena anuência e conhecimento que se o bem não fosse entregue na data aprazada incidiria a multa posteriormente prevista.
+4. Não há qualquer impedimento que a multa lá estipulada (cláusula penal) seja prevista em outro instrumento, a teor do art. 409 do Código Civil, que afirma que a cláusula penal pode ser pactuada junto com a obrigação, ou seja, no mesmo contrato, ou em outro instrumento, como é o caso dos autos (resposta à contranotificação).
+5. É cediço que a cláusula penal pode ser livremente pactuada pelas partes, não podendo exceder, todavia, o valor da obrigação principal, nos termos do art. 412, do Código Civil.
+6. O dispositivo legal acima não só autoriza como determina ao juiz que, diante do caso concreto, avalie a razoabilidade do valor da multa (cláusula penal) fixada no contrato, levando-se em conta a natureza e a finalidade do negócio, a função social do contrato e a base econômica em que foi celebrado, para fins de redução.
+7. A orientação do C.STJ é de que a redução das penalidades contratuais na forma do artigo 413, do Código Civil podem ocorrer inclusive, de oficio.
+8. Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (fls. 261-275).
+No recurso especial, a parte recorrente aponta dissídio jurisprudencial e violação dos seguintes artigos:
+a) 5ª e 9º, II, da Lei n. 8.245/1991, alegando que a "despeito da desocupação ter ocorrido em 06 (seis) meses e 02 (dois) dias após o fim da data acordada, descabe a aplicação de multa, seja porque ela não estava prevista em lugar algum, seja, porque, no caso, a providência adequada seria a propositura de ação de despejo" (fl. 284);
+b) 13, 18, 19, 43 e 56 da Lei n. 8.245/1991, aduzindo que não há que se falar em anuência tácita ou em aplicação do art. 111 do Código Civil à cláusula penal sem previsão contratual e que foi estipulada posterior e unilateralmente.
+Afirma que, "nas locações prediais urbanas reguladas pela Lei 8.245/91, não é possível ao locador, unilateralmente, majorar o valor dos aluguéis, ainda que haja a recusa imotivada do locatário em desocupar o imóvel locado" (fl. 286); e
+c) 2.036 do CC, asseverado que não pode incidir qualquer multa ou aluguel pena, pois não se aplica à espécie o "art. 111 do estatuto civil às locações de imóveis urbanos, posto que a legislação especial que rege esta espécie de locação prevê quais os mecanismos coercitivos colocados à disposição do locador para reaver o imóvel locado e receber os valores a que faz jus em caso de resistência do locatário" (fl. 287).
+Sustenta que "o Código Civil não atribuiu ao locador de imóvel urbano um novo mecanismo de coerção, ao permitir a cobrança do aluguel-pena, haja vista que o art. 2.036, de forma expressa, afastou a aplicação das disposições da legislação civil a esta modalidade de locação" (fl. 287).
+Colaciona julgado do Superior Tribunal de Justiça visando demonstrar divergência jurisprudencial acerca da possibilidade de "fixação de aluguel-pena ao arbítrio do locador, quando não entregue o imóvel no prazo assinalado" (fl. 292).
+Requer a concessão de efeito suspensivo e, no mérito, o conhecimento e provimento do recurso.
+As contrarrazões não foram apresentadas (fl. 387).
+A parte recorrente não se desincumbiu de demonstrar, de maneira clara, precisa e compreensível, como os dispositivos legais arrolados teriam sido vulnerados no acórdão recorrido; sequer se desincumbiu de indicar, de maneira específica, qual dos incisos ou parágrafos dos arts. 13, 43 e 56 da Lei n. 8.245/1991 teria sido, em tese, violado.
+Além do mais, os artigos apontados não têm o condão de sustentar a tese recursal, que se resume no inconformismo quanto à exigência de multa, pelo descumprimento do prazo de entrega do imóvel, estipulada pelo locador em resposta à contranotificação da locatária.
+Observe-se que a alegação de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, com a específica indicação numérica do artigo de lei, dos parágrafos, incisos, alíneas, assim como sem a efetiva demonstração da contrariedade de lei federal, impedem o conhecimento do recurso especial por deficiência de fundamentação.
+Impõe-se, portanto, a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. DEFICIENTE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ACÓRDÃO A QUO EM CONSONÂNCIA COM TEMA REPETITIVO N. 886/STJ. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. O apelo nobre trazendo alegações genéricas de ofensa a dispositivos de lei federal possui deficiente fundamentação recursal, atraindo a incidência da Súmula 284 do STF.
+2. Estando o acórdão estadual em consonância com a jurisprudência desta eg. Corte (Tema Repetitivo n. 886/STJ), tem-se a incidência da Súmula 83/STJ. 3. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 1.798.889/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022.)
+Mesmo que fosse possível superar esse óbice, observe-se que o Tribunal de origem, soberano na análise dos fatos e provas dos autos e na interpretação de cláusulas contratuais, concluiu que o imóvel locado foi entregue cerca de seis meses após o prazo acordado, consignando que a locatária teve ciência de que o descumprimento do prazo faria incidir a multa prevista na resposta à contranotificação.
+Confira-se, a propósito, trecho do acórdão recorrido (fls. 236-241):
+Infere-se dos autos que as requeridas, após serem notificadas pela autora referente a rescisão do contrato de locação do imóvel descrito nos autos (fls. 35/36), encaminharam uma contra notificação extrajudicial à requerente com os seguinte termos:
+"1) Considerando que as tratativas entre as partes para renovação do contrato de locação tornaram-se infrutíferas, o Locatário efetuará a devolução do imóvel em referência, nos termos acordados no contrato de locação;
+2) Considerando que está sendo desmobilizada a operação, até então existente no local, solicita-se prazo de 60 dias contados do recebimento da presente contranotificação;
+3) O locatário segure o dia 21 de outubro de 2018, para realização de vistoria conjunta e dia 30 de outubro de 2018 para entrega do imóvel" (fl. 41/42).
+Por sua vez, a parte autora, em resposta à contranotificação recebida, após concordar com os termos acima mencionado, estipulou a previsão de multa no referido instrumento, a qual possui o seguinte teor:
+"Ficam aceitas as datas propostas na referida CONTRANOTIFICAÇÃO de V.Sa., de 21 de outubro de 2018 para a realização da vistoria conjunta, e dia 30 de outubro de 2018 para a entrega do imóvel.
+Salientamos novamente a necessidade de ser observada a Cláusula 19, parágrafo 3º no sentido de ser apresentado Certidão Negativa de Débitos, comprovantes d e quitação Condomínio, IPTU, SPU, CESAN e ESCELSA, respectivamente que incidiram ao bem.
+Todavia, em decorrência do aceite da proposta, deverão ser mantidos os pagamentos dos alugueis no período utilizado, bem como ficar estabelecido que o não cumprimento do prazo acordo incida multa de 10 alugueis.
+A não manifestação contrária no prazo máximo de 48 horas a partir do recebimento da presente, fica entendido como aceite tácitos dos termos propostos". (fls. 43/44).
+Denota-se ainda dos autos que, apesar de ser inequívoca a data final acordada para a entrega do imóvel objeto do contrato de locação firmado entre as partes litigantes, isto é, 30 de outubro de 2018, o bem foi entregue apenas em 02 de maio de 2019, conforme termo de entrega das chaves juntado à fl. 142, ou seja, cerca de 06 (seis) meses após o acordado.
+Nesse contexto, apesar de não constar a previsão da referida multa de 10 (dez) aluguéis no contrato de locação anteriormente firmado entre as partes, tal como consignado pelo juízo singular, que teria cessado de pleno direito a teor do art. 52 da Lei nº 8.245/99, é incontroverso que a parte requerida teve conhecimento dos termos fixados na resposta da contranotificação encaminhada a elas pela autora.
+Em outras palavras, a partir do recebimento da resposta da notificação extrajudicial, as rés tomaram conhecimento da intenção da autora de não mais permitir a permanência daquelas no imóvel após o dia 30 de outubro de 2018, bem como do recebimento de aluguel pela utilização do bem e o que o não cumprimento do prazo incidiria a multa lá prevista.
+Restou expressamente previsto, ainda, que a parte requerida deveria, no prazo de 48 (quarenta e oito) horas, a partir do recebimento da citada resposta à contranotificação, se manifestar sobre os termos acima mencionados, de modo que a ausência de manifestação seria entendida como aceitação tácita daquele novo acordo.
+Com efeito, o instituto da anuência tácita encontra previsão expressa no ordenamento pátrio, nos termos do art. 111 do Código Civil:
+ ..
+Do que se depreende do artigo supra, resta que o silêncio contratual deve ser interpretado em consonância com o princípio da boa-fé objetiva, conforme o art. 422 daquele mesmo diploma legal, que, no caso vertente, não se verifica que tenha sido observado pelas requeridas, já que elas permaneceram mais 6 (seis) meses na posse do imóvel com plena anuência e conhecimento que se o bem não fosse entregue na data aprazada incidiria a multa posteriormente prevista.
+Destaco, ainda, que não há qualquer impedimento que a multa lá estipulada (cláusula penal) seja prevista em outro instrumento, a teor do art. 409 do Código Civil, que afirma que a cláusula penal pode ser pactuada junto com a obrigação, ou seja, no, mesmo contrato, ou em outro instrumento, como é o caso dos autos (resposta à contranotificação).
+Ultrapassado esse ponto, sabe-se que a cláusula penal é pacto acessório à obrigação principal, através do qual se estipula penalidade ou multa para o caso de descumprimento contratual e tem a dupla função de obrigar o devedor ao cumprimento da obrigação e fixar previamente as perdas e danos no caso de descumprimento.
+Estudioso do tema, Limongi França dá a seguinte definição à cláusula penal:
+ ..
+É cediço também que a cláusula penal pode ser livremente pactuada pelas partes, não podendo exceder, todavia, o valor da obrigação principal, nos termos do art. 412, do Código Civil.
+Por outro lado, dispõe o art. 413 do Código Civil que:
+ ..
+O dispositivo legal acima não só autoriza como determina ao juiz que, diante do caso concreto, avalie a razoabilidade do valor da multa (cláusula penal) fixada no contrato ou em outro instrumento, levando-se em conta a natureza e a finalidade do negócio, a função social do contrato e a base econômica em que foi celebrado, para fins de redução.
+Ao comentar o citado artigo Nelson Nery Júnior e Rosa Maria de Andrade Nery advertem:
+ ..
+Esse é o caso dos autos. Há clara necessidade de julgar equitativamente a matéria, afastando a incidência contratual e, ainda, a força do pacta sunt servanda, para reduzir a penalidade contratada a um patamar razoável.
+Assim, considerando, que a previsão no instrumento da resposta à contranotificação era de que incidiria o valor de 10 (dez) alugueis em caso de atraso na entrega, e a efetiva devolução do bem imóvel ocorreu após 6 (seis) meses do prazo previsto, considero devido o valor correspondente a exatos 6 (seis) alugueis do valor anteriormente firmado entre eles, atualizado monetariamente.
+Desse modo, para rever a conclusão adotada na origem e acatar a tese recursal de que não é cabível a cobrança da referida multa, seria imprescindível a intepretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+Registre-se ainda que as questões infraconstitucionais relativas à violação dos artigos de lei arrolados não foram objeto de debate no acórdão recorrido, de modo que não houve o indispensável prequestionamento, nada obstante a oposição dos embargos de declaração.
+Caso, pois, de incidência das Súmulas n. 282 do STF e 211 do STJ.
+Segundo reiterada jurisprudência desta Corte, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+Nessa linha de entendimento: AgInt no AREsp n. 1.879.967/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022; AgInt no AREsp n. 2.145.330/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.
+No mais, observe-se que, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 225, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
