@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+$ ementa
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por JOÃO RICARDO GONDIM contra decisão monocrática de minha relatoria que conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 620):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA N. 284/STF. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DO PROPRIETÁRIO DO VEÍCULO AINDA QUE O MOTOTORISTA NÃO SEJA SEU EMPREGADO OU PREPOSTO OU QUE O TRANSPORTE SEJA GRATUITO OU ONEROSO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DANO MORAL. REQUISITOS DA RESPONSABILIDADE CIVIL. CONFIGURAÇÃO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA N. 7/STJ. PROVA DA RESPÓNSABILIDADE CIVIL DO RECORRENTE. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 381):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃOPOR ACIDENTE DE TRÂNSITO - PRELIMINAR DE ILEGITIMIDADE PASSIVA AFASTADA - DO MÉRITO - INVASÃO DA VIA PREFERENCIAL - CULPA EXCLUSIVA DA PARTE APELANTE QUE NÃO RESPEITOU A PLACA PARE - DANO MORAL CONFIGURADO - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+I - Conforme orientação jurisprudencial consolidada, o proprietário do veículo é parte legítima para figurar no polo passivo da demanda indenizatória de danos decorrentes de acidente de trânsito, além de responder objetiva e solidariamente pelos atos culposos do condutor.
+II - "Não comprovada a venda de veículo antes do acidente de trânsito, a proprietária constante no documento é parte legítima para figurar no polo passivo de demanda de indenização, porque proprietário e condutor são responsáveis solidários por danos causados a terceiros".(TJMS. Apelação Cível n. 0062909- 56.2009.8.12.0001, Campo Grande, 2ª Câmara Cível, Relator (a): Des. Vilson Bertelli, j: 11/07/2018, p: 12/07/2018)III - Restando comprovado que o motorista não respeitou placa de sinalização de trânsito existente no local do acidente, invadindo via preferencial, age com culpa exclusiva e se sujeita ao pagamento dos danos causados.
+IV - Na reparação por dano moral, deve o julgador considerar as circunstâncias de cada caso concreto, ponderando, com equidade, a situação econômica do causador, a situação pessoal da vítima, a intensidade da culpa, a gravidade da lesão, considerando, ainda, que a verba compensatória tem caráter misto de pena, afigurando-se em sanção ao ofensor, e, de outro vértice, de satisfação compensatória à vitima como forma de amenizar o seu sofrimento, dor e angústia pela situação experimentada.
+Valor indenizatório mantido.
+Rejeitados os embargos de declaração opostos (fls. 448-455).
+Alega a agravante que não há que se falar na aplicação da Súmula n. 284 do STF, sendo claros os argumentos trazidos nos autos, bem como concretas suas fundamentações.
+Aduz, ainda, que improcedente a incidência da Súmula n. 83/STJ e da Súmula n. 7 do STJ, no caso, porquanto não há necessidade de reanálise de prova, uma vez que a matéria é exclusivamente de direito.
+Sustenta, outrossim, que demonstrou a existência de notória contrariedade a dispositivos do Código Civil e do CPC e ao que conceitua que ninguém pode ser condenado a indenizar sem ter praticado ato ilícito.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Não foram apresentadas contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA N. 284/STF. RESPONSABILIDADE OBJETIVA E SOLIDÁRIA DO PROPRIETÁRIO DO VEÍCULO AINDA QUE O MOTOTORISTA NÃO SEJA SEU EMPREGADO OU PREPOSTO OU QUE O TRANSPORTE SEJA GRATUITO OU ONEROSO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DANO MORAL. REQUISITOS DA RESPONSABILIDADE CIVIL. CONFIGURAÇÃO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. ÓBICE DA SÚMULA N. 7/STJ. PROVA DA RESPÓNSABILIDADE CIVIL DO RECORRENTE. REVISÃO. ÓBICE DA SÚMULA N. 7/STJ. ANÁLISE PREJUDICADA.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se à hipótese o óbice da Súmula n. 284 do STF. Precedentes.
+2. O Tribunal de origem entendeu, com base no conjunto probatório dos autos, pela responsabilidade civil do agravante, tendo em vista que é proprietário do veículo, devendo responder solidariamente pelos atos culposos do condutor, incluída a responsabilidade por danos morais indenizáveis.
+3. Rever o entendimento, a ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, Incide, pois, no caso, a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Tribunal Superior esbarra no óbice da Súmula n. 83 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Conforme demonstrado na decisão agravada, não prospera a alegada violação do art. 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a agravante limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO DISTRITAL. PLANO COLLOR. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. VIOLAÇÃO AO ART. 1022, II, DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ARTS. 103, III, DO CDC; 1º DA LEI 6.899/1981; 368 E 369 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. COMPENSAÇÃO. VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. FUNDAMENTO NÃO IMPUNGADO. SÚMULAS 283 E 284 DO STF. QUESTÃO DECIDIDA A PARTIR DA LEI LOCAL. SÚMULA 280/STF. INTERPRETAÇÃO DO TÍTULO EXECUTIVO. SÚMULA 7/STJ. MATÉRIA DECIDIDA EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ.
+1. De início, não merece conhecimento a aventada violação do art. 1.022, II, do CPC, dado que a parte recorrente não logrou demonstrar objetivamente os pontos omitidos pelo acórdão combatido, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Aplica-se a Súmula 284/STF. É certo que o agravante procurou indicar, no Agravo Interno, os pontos alegadamente omitidos pela Corte de origem. Mas não o fez nas razões do Recurso Especial.
+(..)
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.499.118/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+No mais, inviável a apreciação das alegações da recorrente, ora agravante, considerando que a Corte de origem, ao entender pela responsabilidade civil do agravante, em razão de ser o proprietário do veículo, firmou o entendimento com base no conjunto probatório dos autos.
+Confira-se o seguinte excerto do acórdão recorrido (fls. 385-387):
+Inicialmente cumpre esclarecer que, em se tratando de ação de indenização em decorrência de acidente de trânsito, é assente o entendimento jurisprudencial de que a responsabilidade pelos danos causados a terceiros será solidária entre o proprietário do veículo e o seu condutor.
+No mesmo sentido, é o entendimento desta Corte Estadual de Justiça: ..
+Nesse contexto, ressalte-se que, apesar de o apelante sustentar a realização da transferência da propriedade do veículo em data anterior a do acidente, não obteve êxito em prová-lo.
+A rigor, em se tratando de venda de veículos (bem móvel) há necessidade comparecimento do proprietário do veículo ao Cartório. Exibir certificado de transferência, identificar o comprador, assinar o documento, reconhecer firma, e cientificar o Departamento de Trânsito sob pena de assim não o fazendo ser responsabilizado pelos atos praticados pelo condutor do veículo com reflexo na esfera patrimonial do recorrente.
+Nenhuma prova foi produzida pelo apelante, a meu sentir, para demonstrar a veracidade da venda do veículo noticiada nos autos, de modo a isenta-lo da responsabilidades pelo pagamento da indenização reclamada na inicial pela parte autora.
+Nestes termos, fica configurada a legitimidade a figurar no polo passivo da lide, devendo ser afastada a preliminar aventada.
+A jurisprudência desta Corte é no sentido de que o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz, provocando acidente de trânsito, pouco importando que o motorista não seja seu empregado ou preposto, ou que o transporte seja gratuito ou oneroso.
+Nesse sentido, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Rever a conclusão do Tribunal de origem quanto à não concessão da gratuidade de justiça exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+3. "Independentemente de haver identidade de partes, o contraditório é o requisito primordial para o aproveitamento da prova emprestada, de maneira que, assegurado às partes o contraditório sobre a prova, isto é, o direito de se insurgir contra a prova e de refutá-la adequadamente, afigura-se válido o empréstimo." (EREsp n. 617.428/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 4/6/2014, DJe de 17/6/2014).
+4. Em matéria de acidente automobilístico, o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz e que provoca o acidente. Precedentes.
+5. Para derruir as conclusões da Corte local quanto à culpa da recorrente e à extensão do dano, seria necessário o revolvimento de fatos e provas. Incidência da Súmula 7/STJ. Precedentes.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no ARESP n. 2.162.499/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. PROPRIETÁRIO DO VEÍCULO. RESPONSABILIDADE SOLIDÁRIA. APLICAÇÃO DA SÚMULA N. 83/STJ. RECURSO NÃO PROVIDO.
+1. "Em matéria de acidente automobilístico, o proprietário do veículo responde objetiva e solidariamente pelos atos culposos de terceiro que o conduz e que provoca o acidente, pouco importando que o motorista não seja seu empregado ou preposto, ou que o transporte seja gratuito ou oneroso, uma vez que sendo o automóvel um veículo perigoso, o seu mau uso cria a responsabilidade pelos danos causados a terceiros. Provada a responsabilidade do condutor, o proprietário do veículo fica solidariamente responsável pela reparação do dano, como criador do risco para os seus semelhantes". (REsp 577902/DF, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/06/2006, DJ 28/08/2006, p. 279). Aplicação da Súmula n. 83/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.601.198/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/6/2020, DJe de 30/6/2020.)
+In casu, verifica-se que a conclusão alcançada na origem está em harmonia com o entendimento do STJ, o que atrai a incidência da Súmula n. 83 do STJ.
+Ademais, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Em relação à alegação de inexistência de dano moral em razão da ausência dos requisitos ensejadores da responsabilidade civil, observa-se que a questão foi analisada com base nos elementos fático-probatórios constantes nos autos, e eventual revisão dos fundamentos do acórdão recorrido demandaria análise de provas, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ.
+A título exemplificativo, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO. INEXISTÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. FALECIMENTO DE IRMÃO. DANO MORAL DEVIDO. SÚMULA 7/STJ. VALOR INDENIZATÓRIO.
+EXORBITÂNCIANÃO ATESTADA. REEXAME. SÚMULA 7/STJ. TERMO INICIAL DA CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA.
+INVIABILIDADEDE PREQUESTIONAMENTO FICTO. TERMO INICIAL DOS JUROS DE MORA. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. AGRAVO INTERNO DESPROVIDO. 1. O Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio
+.2. A alteração das conclusões adotadas pela Corte de origem quanto à ocorrência, no caso, de danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7/STJ.
+3. O valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no caso em apreço, de modo que a sua revisão encontra óbice na Súmula 7 deste Tribunal Superior.
+4. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incide o enunciado da Súmula 211/STJ. Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+5. No que tange aos juros de mora, a jurisprudência deste Tribunal Superior, em caso de responsabilidade extracontratual, determina que os juros moratórios incidam desde a data do evento danoso, nos termos da Súmula 54/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.969.357/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/4/2022, DJe de 25/4/2022.)
+No que tange à tese de não comprovação pelo autor da responsabilidade civil do recorrente, alterar a conclusão do Tribunal de origem demandaria também o reexame de matéria fático-probatória, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACIDENTE DE TRÂNSITO.
+RESPONSABILIDADECIVIL CONFIGURADA. REEXAME DE PROVAS. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica ofensa aos artigos 489, § 1º, IV, e 1.022 do CPC/2015.
+2. Na hipótese vertente, a Corte de origem, soberana na análise do acervo fático-probatório constante nos autos, conclui pela configuração da responsabilidade civil da recorrente no evento danoso sofrido pelo genitor da agravada. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, com o desiderato de reconhecer a inexistência de nexo causal, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, nos termos do disposto na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.120.546/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
