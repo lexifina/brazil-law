@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por Cormasul-Industria e Comercio de Couros Limitada contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 1.199):
+CONSTITUCIONAL. ADMINISTRATIVO. MULTA POR IRREGULARIDADE EM OPERAÇÃO DE COMERCIO EXTERIOR. ART. 3º DO DECRETO 23.258/1933.
+1. No que se refere à preliminar de ilegitimidade ad causam. Inicialmente, deveria ser apontado como autoridade coatora o Banco Central, que tem o poder de inscrever a multa em dívida ativa, executá-la, bem como inscrever o nome da impetrante no CADIN. No entanto, na hipótese dos autos, a decisão final, no âmbito administrativo, pela manutenção da multa, advém do Conselho de Recursos do Sistema Financeiro Nacional. Assim, em última análise, a legitimidade passiva é do referido Conselho.
+2. O Decreto nº 23.258/33 foi editado com força de lei, em sentido material e formal, em vista da competência excepcional atribuída, à época, ao Governo Provisório, e só por outra lei poderia ser revogado.
+3. O valor da penalidade foi proporcional à reprovação da conduta da impetrante, pois o art. 6º do Decreto n. 3.258/33 aduz que: "as infrações dos arts. 1º, 2º e 3º serão punidas com multa correspondente ao dobro do valor da operação, no máximo, e no mínimo de cinco conto de réis..", sendo certo para a impetrante a aplicação da multa equivalente à 20% do montante da operação.
+4. Remessa tida como interposta provida. Apelação prejudicada.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.214/1.216).
+Nas razões do recurso especial, a parte agravante aponta:
+a) ofensa ao art. 3º do Decreto n. 23.258/33, afirmando que a multa objeto de discussão na lide é ilícita, porquanto o tipo descrito pela autoridade administrativa não se enquadra no caso, notadamente porque não houve percepção dos créditos oriundos da exportação;
+b) ofensa aos arts. 165, 458, II e 535, II, do CPC, por não ter o acórdão proferido nos aclaratórios se manifestado acerca da ilicitude da multa em razão da ausência da análise do tipo em que enquadrada sua conduta.
+Ausente contrarrazões.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo provimento do recurso especial (fls. 1.307/1.311).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Feita essa observação, já adianto que a irresignação merece prosperar.
+A pretensão recursal merece acolhida pelo art. 535 do CPC, pois a parte agravante, nas contrarrazões de apelação, nas razões dos embargos de declaração e do recurso especial, alega que sua pretensão refere-se à alegação de que não recebeu os créditos oriundos da exportação, razão pela qual tornou-se a multa ilícita, não se enquadrando no tipo legal.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+Nesse mesmo sentido:
+TRIBUTÁRIO. CRÉDITO-PRÊMIO DE IPI. CONTRATOS DE EXPORTAÇÃO FIRMADOS ANTES DE 1990. DESEMBARAÇOS ADUANEIROS OCORRIDOS APÓS 1990. PRESENÇA DE OMISSÕES E CONTRADIÇÕES NO ACÓRDÃO RECORRIDO.
+I - Na origem, trata-se de ação declaratória cujo mérito é declaração do direito ao crédito-prêmio de IPI relativo aos contratos BEFIEX, na forma do § 2º do art. 1º do Decreto-Lei n. 491, de 1969, referentes às operações firmadas antes de 31/12/1989, cujas saídas ocorreram após 1/1/1990.
+II - Inexistente a alegada violação do art. 535 do CPC quanto ao pedido relacionado à correção monetária do crédito-prêmio adimplido em 1990.
+III - O Tribunal de origem deixou de enfrentar a (im)procedência das justificativas para a não aprovação dos instrumentos contratuais pela CACEX sob a perspectiva jurídica, ao simplesmente determinar a reapreciação dos contratos pela Administração Pública. Nesse sentido, cabe ao Tribunal de origem analisar a (i)legalidade da não aprovação da documentação apresentada pela contribuinte, em virtude da ausência de autorização específica em relação aos embarques de mercadorias posteriores a 31 de dezembro de 1989.
+IV - A alegação de violação dos arts. 264 e 333, I, do CPC/1973, consistente na insuficiência dos documentos acostados aos autos pela contribuinte quanto ao cumprimento das condições para a exportação, encontra óbice na Súmula 7 do STJ, por demandar a reapreciação dos elementos de prova acostados aos autos.
+V - A despeito da conclusão na origem no sentido de dar provimento ao recurso de apelação da Fazenda Nacional, consta erroneamente que houve negativa de provimento ao recurso de apelação da União Federal e à remessa oficial, de modo que houve erro material no acórdão e violação do art. 535 do CPC com a recusa do Tribunal a quo de reconhecê-lo e saná-lo.
+VI - Correta a Fazenda Nacional em relação à alegada violação do art. 535 do CPC/1973 quanto à omissão na análise da adequação jurídica do indeferimento da CACEX pela ausência de apresentação de documentação em conformidade com a legislação.
+VII. Recurso especial da contribuinte conhecido e parcialmente provido. Recurso especial da Fazenda Nacional parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp n. 1.993.180/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/4/2024, DJe de 18/4/2024 - g.n.)
+ANTE O EXPOSTO, conheço do agravo em recurso especial para dar parcial provimento ao recurso espe cial, a fim de anular o acórdão que rejeitou os embargos de declaração, devendo os autos retornar ao Tribunal de origem, para que se dê novo julgamento, desta feita analisando as questões omitidas.
+Publique-se.
+ EMENTA
