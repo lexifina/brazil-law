@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial manejado por Eliane Pequeno Dantas, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de justiça do Estado do Rio Grande do Norte, assim ementado (fl.196):
+CONSTITUCIONAL E PREVIDENCIÁRIO. AÇÃO DE RESTABELECIMENTO DE AUXÍLIO-DOENÇA ACIDENTÁRIO. LAUDO PERICIAL QUE ATESTOU A INCAPACIDADE PARCIAL E PERMANENTE DA AUTORA E RECONHECEU A POSSÍVEL REABILITAÇÃO PARA ATIVIDADE DIVERSA. SEGURADA QUE EXERCIA A FUNÇÃO DE AUXILIAR DE PROCESSAMENTO E FOI REABILITADA PARA A FUNÇÃO DE AUXILIAR DE SERVIÇOS GERAIS. BENEFÍCIO INDEVIDO. SENTENÇA MODIFICADA. IMPROCEDÊNCIA DA PRETENSÃO AUTORAL. CONHECIMENTO E PROVIMENTO DO RECURSO DA AUTARQUIA. PREJUDICADO O RECURSO DA PARTE AUTORA. PRECEDENTE.
+Aponta a recorrente, além de divergência jurisprudencial, violação ao art. 86, § 2º, da Lei 8.213/91, na medida em que o Tribunal de origem entendeu que, "uma vez que foi atestada pelo médico perito judicial a incapacidade parcial, com possibilidade de reabilitação profissional, e o INSS encaminhou a recorrente para reabilitação, não há que se falar em concessão do benefício de Auxílio-acidente" (fl. 211).
+Aduz que, "No caso dos autos, não houve somente a redução da capacidade para o trabalho habitual, como a própria incapacidade, todavia, com possibilidade de exercer outras atividades que lhe garantam o sustento, razão pela qual deve ser a mesma encaminhada a reabilitação profissional" (fl. 211).
+Alega que, "a data de início do benefício deve ser fixada como sendo a data da cessação do benefício de Auxílio-doença, após a conclusão da reabilitação profissional. Isso porque a Recorrente recebeu o benefício de Auxílio Doença Acidentário por vários períodos.." (fls. 214/215).
+Ao final, requer a reforma do acórdão recorrido, "de modo que seja a Autarquia condenada a conceder o benefício de Auxílio-Acidente, com o pagamento dos valores atrasados desde a data de cessação do benefício de Auxílio-doença (14/01/2011), nos termos do art. 86, § 2º, da Lei 8.213/91, diante da comprovada redução da incapacidade laborativa" (fl. 216).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 219/235.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não comporta acolhida.
+Inicialmente, é importante ressaltar que o juiz não está adstrito às conclusões da perícia técnica, podendo se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa, fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto.
+Na espécie, o Tribunal de origem, para dirimir a celeuma instaurada acerca do não cumprimento dos requisitos necessários à percepção do benefício acidentário, baseou-se no conjunto fático-probatório existente nos autos, como se denota do seguinte trecho, extraído do acórdão recorrido (fls. 200/202):
+Cinge-se, o mérito do presente feito, à análise acerca do direito da parte autora ao recebimento do auxílio-doença acidentário, da determinação de reabilitação para outra função, bem como do critério aplicado no que se refere à incidência dos juros de mora e correção monetária.
+Defendeu a autarquia previdenciária apelante, que não restou demonstrada a redução da capacidade laborai da apelada, não sendo, portanto, cabível, a concessão do auxílio-doença no período em que este restou interrompido, tampouco a sua conversão em auxílio acidente.
+(..)
+Na verdade, a legislação previdenciária previu o auxílio-doença, como possuidor de caráter alimentar, sendo concedido ao segurado que sofrer com sequelas que impliquem na redução da capacidade para o trabalho habitualmente exercido.
+Na hipótese vertente, especificamente, ao analisar a perícia acostada às fls. 96/98, vê-se que o profissional perito afirmou ser a autora, portadora de doença ou sequela, especificada como "CID-10=1475.1  G560", ou seja, síndrome do manguito rotador e síndrome do túnel do carpo, causando incapacidade definitiva para o exercício da última/atual atividade laborativa.
+O expert registrou, ainda, que a incapacidade da autor é parcial em relação a outras atividades, necessitando de reabilitação profissional.
+Nessa linha de raciocínio, constata-se que a autora é portadora de sequela definitiva, sendo comprovada a existência de limitação redutora da capacidade laborativa, não estando reabilitada para o trabalho desenvolvido, qual seja, "auxiliar de processamento", conforme descrito nos itens 2.3 e 2.4 da perícia.
+Ocorre que, colhe-se dos documentos acostados aos autos, mais precisamente o de fl. 57, que a autarquia ora apelante, em 14.11.2010, ao tempo que reconheceu o direito da autora ao benefício de auxílio-doença, concluiu pelo encaminhamento da demandante à Reabilitação Profissional.
+Já à fls. 71, consta Laudo Médico Pericial do INSS realizado em 16.06.2011, onde trás em suas considerações o seguinte:
+"Segurada não comprova incapacidade para o trabalho no momento. Gozou beneficio longo para tratamento de tendinite em membros superiores e foi reabilitada para função compatível".
+Ou seja, forçoso concluir que, de fato, já houve a devida reabilitação da autora para outra função e se a perícia judicial concluiu que a incapacidade era para a função de "auxiliar de processamento", não há razão de ser para que seja deferido restabelecimento de qualquer beneficio.
+Em outras palavras, o que a perícia médica judicial concluiu é que a parte autora não está apta a desenvolver a função de "auxiliar de processamento", mas estando reabilitada para a função de "auxiliar de serviços gerais, mostra-se incabível a concessão do auxílio-doença.
+Como sabido, a concessão de auxílio-doença tem como marco final a reabilitação profissional do segurado para o exercício de outra atividade.
+(..)
+Assim, inexiste direito à percepção do auxílio-doença, devendo-se reconhecer a ausência de nexo causal para a procedência da pretensão autora.
+Como se percebe, o acórdão fundou-se nas provas existentes nos autos ao consignar o não preenchimento dos requisitos necessários à concessão do benefício acidentário, por constatar a ausência de comprovação de nexo causal entre a incapacidade e o exercício da atividade laboral.
+Logo, a alteração das premissas adotada pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, por igual, novo exame do acervo fático-probatório constante dos autos, providência, como visto, vedada em recurso especial, em razão do óbice previsto na Súmula 7/STJ.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA A DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. COMPETÊNCIA DO STF. AUXÍLIO-ACIDENTE. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. SISTEMA DA PERSUASÃO RACIONAL. ACÓRDÃO QUE CONCLUIU PELA INEXISTÊNCIA DE NEXO CAUSAL A JUSTIFICAR A CONCESSÃO DO BENEFÍCIO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO DA PRESIDÊNCIA MANTIDA AINDA QUE POR OUTROS FUNDAMENTOS.
+1. Descabe ao STJ, no âmbito do Recurso Especial, apreciar supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. O STJ tem o entendimento de que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências que as partes pretendem realizar, segundo as normas processuais, e afastar o pedido de produção de provas, se estas forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do CPC/2015 (arts. 130 e 131 do CPC/1973).
+3. Desse modo, os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.
+4. Assim, o exame da pretensão recursal de reforma do acórdão recorrido, quanto à alegação de cerceamento de defesa, exige revolvimento e alteração das premissas fático-probatórias estabelecidas pelo Tribunal a quo, o que é vedado em Recurso Especial, nos termos do enunciado de Súmula 7 do STJ.
+5. Tendo o Tribunal a quo entendido pela ausência do nexo causal entre a
+doença e o trabalho para a concessão do benefício acidentário, a modificação dessa conclusão demanda incursão no acervo fático-probatório, o que é vedado pela Súmula 7/STJ.
+6. Consigne-se que a incidência da referida súmula é óbice também para o
+exame da divergência jurisprudencial, o que inviabiliza o conhecimento do
+Recurso Especial pela alínea "c" do permissivo constitucional.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.818.209/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+ANTE O EXPOSTO, nego provimento ao agravo em recurso especial.
+Publique-se.
+EMENTA
