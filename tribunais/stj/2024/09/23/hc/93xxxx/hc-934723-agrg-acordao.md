@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. ELEMENTOS CONCRETOS. DEDICAÇÃO A ATIVIDADE CRIMINOSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do §4º do art. 33 da Lei n. 11.343/2006, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+2. No caso concreto, a dedicação às atividades criminosas foi baseada no fato de o agravante integrar esquema estruturado de transporte de drogas, além da quantidade de droga apreendida (177kg de cocaína), o que impede o reconhecimento do tráfico privilegiado.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ ALBERTO DOS SANTOS BERNARDO contra decisão monocrática, por mim proferida, a qual não conheceu o habeas corpus impetrado em seu favor.
+Na espécie, pretendia o agravante o redimensionamento da pena e o reconhecimento da minorante do tráfico privilegiado.
+Nas razões do agravo regimental, insiste apenas na incidência do art. 33, § 4.º, da Lei n. 11.343/06. Pugna, ao final, pela reconsideração da decisão agravada ou pela remessa do recurso ao Colegiado para julgamento.
+Por não reconsiderar a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. ELEMENTOS CONCRETOS. DEDICAÇÃO A ATIVIDADE CRIMINOSA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do §4º do art. 33 da Lei n. 11.343/2006, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+2. No caso concreto, a dedicação às atividades criminosas foi baseada no fato de o agravante integrar esquema estruturado de transporte de drogas, além da quantidade de droga apreendida (177kg de cocaína), o que impede o reconhecimento do tráfico privilegiado.
+3. Agravo regimental desprovido.
+VOTO
+Pretende o agravante seja reformada a decisão agravada, a fim de que seja reconhecido o tráfico privilegiado.
+Contudo, a ele não assiste razão.
+Nos termos do §4º do art. 33 da Lei n. 11.343/06, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+O Tribunal a quo afastou a mencionada minorante, nos seguintes termos:
+"Isso porque o apelado transportava mais de 177 Kg de cocaína, substância ilícita ocultada nos pneus do caminhão de propriedade de Wagner e que seria destinada ao abastecimento do comércio ilícito na Capital paulista a partir de outro Estado da Federação, circunstâncias que permitem concluir que o apelado estava inserido em esquema estruturado, próprio da criminalidade organizada, pelo qual se busca ludibriar a fiscalização das autoridades públicas, ou seja, não se trata de traficante ocasional, que praticou ato isolado, mas sim de indivíduo que se dedica a atividades criminosas e mantém vínculo com o narcotráfico, desatendidos os parâmetros exigidos para o reconhecimento da modalidade privilegiada." (e-STJ, fl. 30).
+Ao contrário do que alega a Defesa, como se vê, o julgado concluiu pela dedicação às atividades criminosas com base nas circunstâncias do delito e o modus operandi, já que o paciente integrava esquema estruturado de transporte de drogas, além da quantidade de droga apreendida (177kg de cocaína), afastando o tráfico privilegiado .
+Cito precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE. PRESENÇA DOS REQUISITOS LEGAIS. DEFERIMENTO. MODULAÇÃO DA FRAÇÃO COM BASE NA QUANTIDADE DE DROGAS APREENDIDAS. POSSIBILIDADE. REGIME PRISIONAL FIXADO IDONEAMENTE. DESPROVIMENTO.
+1. Nos termos da jurisprudência desta Corte, "consideram-se como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições, especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando ficar evidenciado, de modo fundamentado, o envolvimento do agente com organização criminosa." (AgRg no HC n. 731.344/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+2. In casu, o TJMG afastou a benesse em apreço com fundamento nas circunstâncias do caso concreto, "sobretudo diante da quantidade de drogas apreendidas - corrupção de menores, porte ilegal de arma de fogo e homicídio". Contudo, no cálculo dosimétrico, a basilar foi arbitrada no mínimo legal e, na etapa seguinte, "inexistentes agravantes e atenuantes, fic ou  mantida a pena como acima fixada", sendo o réu absolvido, no entanto, das imputações referentes aos arts. 12 e 16, § 1º, IV, da Lei n. 10.826/2003, o que demonstra a possibilidade de incidência do redutor.
+3. Entende esta Corte que "processos criminais em andamento não justificam a exasperação da pena-base". Já no Tema repetitivo n. 1.139, assentou-se a compreensão de que tais registros delitivos não impedem, por si só, a incidência da redutora do art. 33, § 4º, da Lei n. 11.343/2006.
+4. Descabida a pretensão de fixação do patamar mínimo da minorante (1/6), porquanto, em casos similares, este Tribunal tem admitido a incidência da fração de 1/3. Precedentes.
+5. A simples existência de inquéritos policiais e/ou ações penais em andamento não é fundamento idôneo para o estabelecimento de regime prisional inicial mais gravoso do que o previsto, abstratamente, para a pena aplicada. Afinal, ubi eadem ratio ibi idem jus. (HC n. 819.722/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/8/2023, DJe de 30/8/2023.)
+6. Agravo regimental desprovido.
+(AgRg no HC n. 862.894/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. CONCLUSÃO DIVERSA QUE ESBARRA NO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte, ao julgar o REsp n. 1.887.511/SP, bem como o REsp n. 1.977.027/PR, este último sob a sistemática dos recursos repetitivos (Tema n. 1139), firmou o entendimento de que a quantidade, natureza e a variedade de drogas apreendidas, por si sós, não são suficientes para se concluir pela dedicação do acusado a atividades criminosas, além da existência de inquéritos policiais e/ou ações penais em curso também não serem suficientes para afastar a redutora prevista no § 4º do art. 33 da Lei n. 11.343/2006, ante o princípio da presunção de inocência.
+2. No caso concreto, a causa especial de diminuição de pena deixou de ser aplicada em razão de os fatos terem envolvido a atuação do agravante em uma rede organizada e voltada para a prática do tráfico de drogas, que visava o transporte de 5.320kg de maconha. Também foi ressaltado o modus operandi da prática delitiva, em que o entorpecente estava acondicionado em veículo previamente preparado, sob promessa de pagamento em dinheiro, além da participação de terceiro na empreitada criminosa.
+3. Desse modo, verifica-se que o fundamento utilizado pelas instâncias ordinárias para não aplicar a pretendida causa de diminuição de pena não foi exclusivamente a quantidade de droga apreendida, mas também a sua associação a outros elementos que evidenciavam a dedicação do agente ao tráfico de drogas, o que justifica a não aplicação da minorante prevista no art. 33, § 4º, da Lei n.11.343/2006.
+4. Diante da conclusão das instâncias ordinárias, para se acolher a tese de que o agente não se dedicava às atividades criminosas, seria necessário o reexame aprofundado das provas, providência inadmissível na via do apelo nobre, em razão do óbice da Súmula n. 7 do STJ.
+5. Agravo regimental desprovido. (AgRg no AREsp n. 2.417.079/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
