@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ABSOLVIÇÃO NO PAD. INDEPENDÊNCIA ENTRE AS ESFERAS ADMINISTRATIVA E JUDICIAL. CONTROLE DE LEGALIDADE JUDICIAL. POSSIBILIDADE. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Apesar da absolvição administrativa, não há qualquer ilegalidade no acórdão que determina a instauração de incidente judicial de apuração de falta grave.
+2. Esta Corte já decidiu que as esferas administrativa e judicial são independentes e autônomas entre si, de maneira que a decisão proferida no Procedimento Administrativo Disciplinar (PAD) que absolve o apenado ou que reconhece a imputação da prática de falta grave no cumprimento de pena, pode ser submetida ao controle judicial, pelo d. Juízo das Execuções (HC n. 553.572/PR, Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe 24/3/2020).
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Lucas Tadeu Santiago de Lima contra a decisão por mim proferida nos termos da seguinte ementa (fl. 553):
+HABEAS CORPUS. EXECUÇÃO PENAL. ABSOLVIÇÃO NO PAD. INDEPENDÊNCIA ENTRE AS ESFERAS ADMINISTRATIVA E JUDICIAL. CONTROLE DE LEGALIDADE JUDICIAL. POSSIBILIDADE. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Aqui, a defesa busca o reconhecimento da desnecessidade da audiência de justificação também em casos de absolvição no Procedimento Administrativo Disciplinar. Essa desnecessidade não afasta o controle judicial sobre o PAD, que ainda poderá ser realizado nos termos do que foi delimitado no procedimento administrativo, de forma a garantir a coerência e uniformidade na aplicação do direito (fls. 566/567).
+Aduz que Da mesma forma como a condenação no PAD impede que o apenado seja submetido a uma nova oitiva em juízo, a absolvição no PAD deve igualmente vincular o juízo de execução, assegurando o respeito à paridade de armas e presunção de inocência do acusado. Permitir a realização de nova audiência de justificação em caso de absolvição seria permitir que o acusado fosse continuamente submetido ao risco de punição, mesmo após ter sido exonerado de culpa em sede administrativa, o que também configuraria uma afronta ao princípio da presunção de inocência (fl. 567).
+Requer, ao final, o provimento do agravo reconhecendo-se a validade da absolvição administrativa e afastando-se a necessidade de nova audiência de justificação (fl. 568).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. ABSOLVIÇÃO NO PAD. INDEPENDÊNCIA ENTRE AS ESFERAS ADMINISTRATIVA E JUDICIAL. CONTROLE DE LEGALIDADE JUDICIAL. POSSIBILIDADE. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Apesar da absolvição administrativa, não há qualquer ilegalidade no acórdão que determina a instauração de incidente judicial de apuração de falta grave.
+2. Esta Corte já decidiu que as esferas administrativa e judicial são independentes e autônomas entre si, de maneira que a decisão proferida no Procedimento Administrativo Disciplinar (PAD) que absolve o apenado ou que reconhece a imputação da prática de falta grave no cumprimento de pena, pode ser submetida ao controle judicial, pelo d. Juízo das Execuções (HC n. 553.572/PR, Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe 24/3/2020).
+3. Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido, devendo a decisão ser mantida por seus próprios fundamentos.
+Como afirmei na decisão ora agravada, apesar da absolvição administrativa, não há qualquer ilegalidade no acórdão que determinou a instauração de incidente judicial de apuração de falta grave.
+No caso, apliquei a jurisprudência desta Corte que já decidiu que as esferas administrativa e judicial são independentes e autônomas entre si, de maneira que a decisão proferida no Procedimento Administrativo Disciplinar (PAD) que absolve o apenado ou que reconhece a imputação da prática de falta grave no cumprimento de pena, pode ser submetida ao controle judicial, pelo d. Juízo das Execuções (HC n. 553.572/PR, Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do TJ/PE), Quinta Turma, DJe 24/3/2020).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ABSOLVIÇÃO PELO CONSELHO DISCIPLINAR. RECONHECIMENTO DA FALTA PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE.
+1. É possível o controle judicial - pelo juízo da execução penal - sobre decisão de Conselho Disciplinar que, no uso de suas atribuições, concluiu pela absolvição da acusação de eventual falta disciplinar de natureza grave imputada a reeducando do sistema prisional. (HC n. 365.431/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/11/2016).
+2. Havendo elementos para autorizar o controle judicial sobre decisão administrativa, cabe ao Juízo da execução fiscalizar/rever as decisões aplicadas em sede administrativa pelo Conselho Disciplinar.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 74.016/MG, da minha relatoria, Sexta Turma, julgado em 1/6/2017, DJe de 13/6/2017 - grifo nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. RECONHECIMENTO DE FALTA GRAVE PELO JUÍZO DA EXECUÇÃO QUANDO O APENADO É ABSOLVIDO NA ESFERA ADMINISTRATIVA. POSSIBILIDADE. RESSALVA AO ENTENDIMENTO FIRMADO NO RESP REPRESENTATIVO DA CONTROVÉRSIA Nº 1.378.557/RS. DECISÃO MANTIDA.
+I - Segundo restou decidido no REsp n. 1.378.557/RS, submetido à sistemática dos recursos repetitivos, o poder disciplinar na execução das penas será exercido pela autoridade administrativa a que estiver sujeito o condenado, cabendo ao Diretor da Unidade Prisional apurar a conduta faltosa do detento e realizar a subsunção do fato à norma legal, nos termos dos arts. 47 e 48, ambos da Lei de Execução Penal.
+II - Em que pese seja da autoridade administrativa (Diretor da Unidade Prisional ou Conselho Disciplinar) a atribuição de apurar e de classificar a infração disciplinar, as decisões por ela proferidas são atos administrativos, passíveis, portanto, de controle de legalidade pelo Poder Judiciário, conforme reconhecido no julgamento do REsp. n. 1.378.557/RS.
+III - In casu, ao contrário do alegado pela combativa defesa, uma vez provocado, pode o d. Juízo da Execução verificar a legalidade da decisão e a própria natureza da falta disciplinar, seja para afastar a falta grave, nos casos em que a conduta não se enquadra nas hipóteses taxativamente previstas nos arts. 50 e 52, ambos da Lei de Execução Penal, seja para reconhecê-la, quando constatado que a conduta praticada pelo detento está tipificada em referidos dispositivos, não estando vinculado, enfatize-se, à decisão do Diretor da Unidade Prisional ou do Conselho Disciplinar. Precedentes.
+Agravo regimental desprovido. (AgRg no REsp 1.813.064/MG, Ministro Felix Fischer, Quinta Turma, julgado em 25/6/2019, DJe 1º/8/2019 - grifo nosso).
+PROCESSO PENAL. EXECUÇÃO PENAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. RECONHECIMENTO DE FALTA DE NATUREZA MÉDIA PELO CONSELHO DISCIPLINAR. CONTROLE JUDICIAL. POSSIBILIDADE. ORDEM DENEGADA.
+1. O ordenamento jurídico pátrio adotou o sistema administrativo inglês, também conhecido como sistema da jurisdição una ou do controle judicial, de forma que os litígios administrativos ou privados estão sempre submetidos ao crivo do Poder Judiciário, único capaz de produzir decisões com força definitiva, dado o atributo da coisa julgada. Referido sistema alinha-se ao princípio constitucional da inafastabilidade da jurisdição, plasmado no art. 5º, XXXV, da Constituição Federal, o qual preconiza que "a lei não excluíra da apreciação do Poder Judiciário lesão ou ameaça a direito".
+2. É possível o controle judicial - pelo Juízo da execução penal - sobre decisão de Conselho Disciplinar que, no uso de suas atribuições, concluiu pelo cometimento de falta disciplinar de natureza média imputada a reeducando do sistema prisional.
+3. Assim, ainda que se reconheça certa discricionariedade da autoridade administrativa prisional no exercício de dosimetria da penalidade administrativa - conforme previsto no art. 59 da LEP -, não se pode admitir a convolação dessa atividade em arbitrariedade, e, ainda, retirar do Poder Judiciário a devida intervenção.
+4. Ordem denegada.
+(HC n. 381.237/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/3/2017, DJe de 23/3/2017 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
