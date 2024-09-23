@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+$ ementa
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em análise, embargos de declaração opostos por JOSÉ BENEDITO RODRIGUES DO PRADO E OUTRO contra acórdão da Segunda Turma deste STJ, assim ementado:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE SUSPENSÃO DO PROCESSO. AUSÊNCIA DE AMPARO LEGAL. INTENTO DE REFORMA DO ACÓRDÃO EMBARGADO. INCOMPATIBILIDADE COM A VIA DOS EMBARGOS DE DECLARAÇÃO. DESATENDIMENTO DO PRINCÍPIO DA DIALETICIDADE. PEDIDO DE SUSPENSÃO DO PROCESSO INDEFERIDO. EMBARGOS DE DECLARAÇÃO DE QUE NÃO SE CONHECE.
+1. Não se identifica a prejudicialidade externa (CPC, art. 313, V, a e b) na argumentação dos embargantes. O pleito de suspensão do processo tem como finalidade aguardar-se o trânsito em julgado de eventual provimento a ser deferido em Ação Civil Pública, a fim de se utilizar o quanto ali decidido, com a autoridade da coisa julgada, como reforço argumentativo pela procedência da pretensão individual.
+2. Os embargos de declaração têm intento de reforma, que a via não comporta.
+3. Confrontar a razão de decidir repetindo o mesmo argumento já afastado, em mera demonstração de inconformidade, não satisfaz o princípio da dialeticidade recursal.
+4. Pedido de suspensão do processo indeferido.
+5. Embargos de declaração que não se conhece (fl. 3.302).
+A parte embargante sustenta, em síntese:
+Desta feita, como noticiado em Peça anterior (Nº 105 eSTJ) o REsp 2.064.676-PE (2023-0107986-7) - ACP-PE - foi distribuído à 1ª Turma, ao Ministro Gurgel, em 24/04/2023, por prevenção ao REsp 1.623.331-PE (20160229587-7), consoante "Termo de Distribuição e Encaminhamento". Assim, diante da prevenção determinada no RISTJ, anterior ao início do julgamento, smj, os Acórdãos do AREsp e do Agravo Interno são imantados de nulidade, por incompetência desta 2ª Turma.
+ ..
+Ademais, designado julgamento em 05/04 (Nº 101), o Embargante já havia noticiado FATO NOVO em 19/09/23 (Nº 415), afeto aos Temas 1.022/RG (demissão motivada) - tese a fixar - e 1.143/RG (competência) do STF, e à alçada da Justiça Federal dos pleitos alternativos intocados, de natureza constitucional-administrativa e jurídico-administrativa (Temas 544/RG/RE 846.854: serviços essenciais de Segurança Pública à comunidade; 606/RG/RE 655.283: reintegração de empregado público), solicitando a retirada da pauta.
+Fixada a Tese do Tema 1.022/RG em 28/02/2024 - antes do julgamento do AgInt -, colacionou dito Acórdão (Nº 105), reforçando o fundamento recursal da competência da Justiça Comum, na apreciar os pleitos alternativos frente à Valec (sucessora da extinta RFFSA), posto a Decisão abranger tópico do Especial e do Agravo ao REsp, lastreado na demissão imotivada de empregado público de sociedade de economia mista, prestadora de serviços públicos (fl. 3.320-3.321).
+A VALEC ENGENHARIA CONSTRUÇÕES E FERROVIAS S/A apresentou impugnação aos embargos de declaração.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço dos embargos de declaração, porquanto presentes os pressupostos de admissibilidade.
+O art. 1.022 do Código de Processo Civil dispõe:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Conforme se depreende do aludido dispositivo legal, os embargos de declaração não servem à reforma do julgado e não permitem a rediscussão da matéria, pois seu objetivo é introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição, corrigir erro material e/ou suprir omissão.
+A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (deduzido na minuta ou na contraminuta do recurso). A contradição, por sua vez, caracteriza-se pela incompatibilidade entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Os efeitos dos embargos declaratórios são limitados, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso dos autos, não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Com efeito, no acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno deveria ser improvido, constando, expressamente, que (fls. 3.307-3.309):
+O corre que, da interpretação dos argumentos dos embargantes, não se identifica a prejudicialidade externa (CPC, art. 313, V, a e b). Na verdade, o pleito de suspensão tem como finalidade aguardar-se o trânsito em julgado de eventual provimento a ser deferido na Ação Civil Pública 0006489-96.2006.4.05.8300, a fim de utilizar o quanto ali decidido, com a autoridade de coisa julgada, como reforço argumentativo pela procedência da pretensão individual. Essa estratégia vem desde a inicial, conforme provam os seguintes excertos da peça inaugural:
+ ..  até a promulgação da Constituição Federal de 1988, estes são os Decretos editados para criar a POLICIA FERROVIÁRIA e regulamentar a função pública, demarcando as atribuições/atividades/prerrogativas do Policial Ferroviário Federal.
+Confirmando o embasamento legal, o Juízo da 9a Vara Federal de Recife (TRF-5),via ACP0006489-96.2006.4.05.8300, promovida pelos MPT/MPF, deferiu a Tutela Liminar (fls. 1.481-1.482), confirmada na Sentença:
+ ..
+Destarte, pelos Princípios da Continuidade do Ordenamento Jurídico e da Recepção, outra interpretação não se extrai, senão a da ascensão da Instituição Policial ao nível Constitucional, bem como do reconhecimento/enquadramento de seu Corpo Funcional, na qualidade de Policiais Ferroviários Federais.
+Nesse diapasão, o mesmo Juízo da 9a Vara Federal (ACP-PE 0006489-96.2006.4.05.8300) confirmou na Liminar e na Sentença a recepção constitucional da legislação anterior à Carta de 1988, endossando a existência da atividade de policiamento ferroviário ostensivo, que a RFFSA recebeu da União, pela técnica da descentralização administrativa, atividade esta prestada pelo seu Corpo Funcional (os Autores), admitidos para tanto (concurso/processo seletivo público)
+ ..
+Portanto, comprovada a intenção volitiva dos Constituintes (mens legislatoris), aliado à ascensão ao cargo público (PSCC/PCC) via concurso específico à época, com a permanência no exercício da função por mais de cinco anos, endossada pelas justas e consentâneas Liminar e Sentença da ACP-PE, a recepção constitucional está devidamente demonstrada, atende aos ditames do Direito e deve ser indubitavelmente confirmada.
+ ..
+A Administração Ferroviária não pode mais regulamentar o policiamento ostensivo nas ferrovias, pois a Magna Carta delegou este mister ao MJ, via Polícia Ferroviária Federal.
+Nesse sentido, esclarecem a Liminar (pg. 1.487) e a Sentença (ACP-PE), que inexistiu mudança significativa sobre o Policiamento Ferroviário, permanecendo os Autores, até aquele lapso temporal, a executar suas funções públicas policiais:
+ ..  o já citado Juiz Federal Ubiratan de Couto Maurício, da 9a Vara Federal da Seção Judiciária de Recife/PE, nos autos da ACP-PE n. 0006489-96.2006.4.05.8300, em Liminar deferida às fls. 1481 a 1483, e confirmada na Sentença, reafirma a condição funcional dos Autores como Policiais Ferroviários Federais  ..  (fls. 17-61).
+A estratégia se confirma no capítulo dos pedidos:
+Pelo exposto, protestando pela juntada posterior de documentos, modestamente pleiteiam:
+ ..  o deferimento da Tutela Provisória de Urgência Liminar e/ou de Evidência (arts. 300-302, e 311, CPC), com dispensa de caução, para determinar a imediata aplicabilidade da Sentença Coletiva da ACP-PE no 2006.83.00006489-2, que recepcionou os Autores na Constituição Federal como Policiais Ferroviários Federais (art. 144, III, § 30, CF/88 - estatutário) e/ou a reintegração à Valec como Profissionais de Segurança Pública Ferroviária, Guardas, Agentes, Assistentes ou Analistas de Segurança (empregados públicos estáveis-celetista), reconhecendo-se a nulidade das demissões/cessões à CBTU e MRS (erro de consentimento, de direito, estabilidade, ausente PDA, ilegitimidade patronal - competência do Mi), de acordo com as Leis11.483/2007, art.17,I,"a" e 11.772/2008, art.19,II, com a confirmação da Tutela na Sentença a ser proferida;
+ ..  a nulidade definitiva das "transferências" e "demissões" dos Autores da extinta RFFSA para a CBTU e MRS Logística S/A, promovidas pela RFFSA, CBTU e MRS (erro de consentimento, de direito, estabilidade e ausente PDA, ilegitimidade patronal -competência do MJ), com confirmação da aplicabilidade da Sentença Coletiva da ACP-PE no 2006.83.00006489-2, que recepcionou os Autores, validando o vínculo com a União (estatutário) (fl. 160).
+Na sentença, esses pedidos foram extintos sem resolução de mérito justamente por não haver, à época da decisão, trânsito em julgado de sentença de procedência na aludida Ação Civil Pública.
+Inexistente, pois, à luz do art. 313 do CPC, fundamento para a suspensão, fica indeferido o pedido.
+No mais, os embargos têm intento de reforma, que a via não comporta.
+Aliás, confrontar a razão de decidir repetindo o mesmo argumento já afastado, em mera demonstração de inconformidade  .. .
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
