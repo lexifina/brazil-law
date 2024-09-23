@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 186 e 653 do Código Civil; 2º da Lei n. 8.906/1994; 7º, parágrafo único, 14, § 3º, I, 18 e 25, § 1º, do Código de Defesa do Consumidor, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 721):
+APELAÇÕES CÍVEIS INTERPOSTAS PELAS REQUERIDAS (INSTITUIÇÃO FINANCEIRA E ASSESSORIA DE COBRANÇA) - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA - COBRANÇAS INDEVIDAS - RECONHECIMENTO JUDICIAL EM DEMANDA ANTERIOR - LIGAÇÕES TELEFÔNICAS, MENSAGENS DE TEXTO (SMS) E INCLUSÃO EM CADASTROS DE INADIMPLENTES - DANOS MORAIS IN RE IPSA - VALOR CONDIZENTE - JUROS MORATÓRIOS - TERMO INICIAL - MULTA (ASTREINTE) MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+As provas dos autos são suficientes para demonstrar a irregularidade no procedimento adotado pelas Requerentes, que realizaram a cobrança de dívida declarada inexistente em ação judicial anterior.
+Encontram-se configurados danos morais no caso concreto, seja pelas insistentes cobranças via ligações telefônicas e SMS, ou mesmo pela inclusão no cadastro do Banco Central, referentes à dívida inexiste.
+Segundo precedentes do STJ, o Sistema de Informações do Banco Central do Brasil (Sisbacen) e seus desdobramentos, dentre eles o SCR, possui natureza restritiva de crédito, de modo que a inclusive indevida acarreta danos morais in re ipsa.
+Quanto ao valor da indenização, destaca-se que não existe um sistema escalonado e com patamares fixos para estabelecer o respectivo quantum, devendo o juiz, diante do caso concreto e observada a repercussão dos fatos, estabelecer a indenização que venha ressarcir a parte lesada (caráter indenizatório) e que também iniba a reiteração de condutas análogas (aspecto pedagógico). O montante fixado em primeiro grau atende às mencionadas balizas, daí por que deve ser mantido.
+Tratando-se a discussão de relação extracontratual, os juros moratórios devem incidir a partir do evento danoso, conforme enunciado da Súmula nº 54 do Superior Tribunal de Justiça.
+Com relação à multa diária, ainda que não possam incidir sem parâmetros - implicando em enriquecimento ilícito -, também não podem ser desprovidas de bases intimidatórias, pois sem tal carga inexistirá a efetividade do provimento jurisdicional. Recursos conhecidos e desprovidos.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 912):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL  AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS  COBRANÇAS INDEVIDAS  ESCRITÓRIO DE ADVOCACIA  ATIVIDADE DE COBRANÇA  ILEGITIMIDADE PASSIVA AFASTADA  REDISCUSSÃO DO MÉRITO  NÃO CABIMENTO  EMBARGOS REJEITADOS.
+Os embargos de declaração são cabíveis contra qualquer decisão judicial para sanar obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e corrigir erro material, hipóteses que não se encontram presentes no caso.
+No caso, observa-se mero inconformismo da parte com o resultado da demanda, o que não autoriza a oposição dos Embargos de Declaração, devendo a insurgência, se for o caso, ser objeto de recurso apropriado, já que não se amolda a nenhuma das hipóteses do art. 1.022 do CPC.
+E mesmo para fins de prequestionamento, a oposição de embargos pressupõe a existência de algum dos vícios do art. 1.022 do CPC, sendo desnecessário que o julgador se manifeste sobre todos os dispositivos legais apontados pelas partes como violados. Embargos de Declaração rejeitados.
+Sustenta a parte agravante que não pode ser responsabilizada por eventual irregularidade da dívida originada junto ao credor.
+Alega que "o fato de atuar como mera mandatária da cobrança/negociação do crédito não atrai a responsabilidade pela regularidade e origem do crédito, salvo se extrapolado os limites do mandato, o que não se constata no caso em tela em face da ora recorrente" (fl. 740).
+Requer seja reconhecida a ilegitimidade do agravante para figurar no polo passivo da ação de obrigação de fazer cumulada com indenizatória.
+Assim posta a questão, passo a decidir.
+Para melhor exame da matéria, dou provimento ao agravo e o converto em recurso especial.
+Intimem-se.
+EMENTA
