@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. A ausência de indicação, bem como a alegação genérica de violação à dispositivo de lei, desacompanhada de razões suficientes para compreensão da controvérsia, caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno, interposto por COOPERATIVA AGRÍCOLA MISTA DE ADAMANTINA, em face de decisão monocrática de fls. 219/220 (e-STJ), da lavra da Presidência desta Corte, que não conheceu do reclamo.
+O apelo nobre, por sua vez, amparado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim resumido (fls. 90/94, e-STJ):
+AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Inconformismo do executado contra decisão que indeferiu o pedido de justiça gratuita. Agravamento da situação financeira demonstrado de forma satisfatória. Benefício concedido com efeitos "ex nunc", não alcançando, pois, fatos pretéritos. Decisão reformada. Recurso provido.
+Em suas razões de recurso especial (fls. 96/127, e-STJ), a empresa recorrente sustenta, em suma, a não comprovação do estado de hipossuficiência financeira pela parte adversa, requisito necessário para o deferimento do pedido de assistência judiciária gratuita.
+Sem contrarrazões (certidão de fl. 168, e-STJ).
+Inadmitido o processamento do apelo nobre (fls. 169/171, e-STJ), sobreveio o recurso de agravo (art. 1.042, do CPC/15), buscando destrancar o processamento daquela insurgência (fls. 174/204, e-STJ).
+Sem contraminuta (certidão de fl. 214, e-STJ).
+Por decisão monocrática de fls. 219/220 (e-STJ), da lavra da Presidência desta Colenda Corte, não se conheceu do recurso especial, com fulcro no enunciado contido na Súmula 284/STF, por deficiência de fundamentação, amparada na ausência de indicação clara e precisa dos dispositivos de lei tidos como vulnerados ou cuja interpretação conferida pela instância de origem estaria a dissentir daquela empregada por outros tribunais.
+Irresignada (fls. 224/236, e-STJ), a parte insurgente interpõe o presente agravo interno, no qual repisa os argumentos deduzidos no recurso especial.
+Sem impugnação (certidão de fl. 241, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. A ausência de indicação, bem como a alegação genérica de violação à dispositivo de lei, desacompanhada de razões suficientes para compreensão da controvérsia, caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão impugnada, motivo pelo qual ela merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Como é cediço, o recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado.
+Segundo o entendimento jurisprudencial adotado por esta Colenda Corte, a ausência de indicação clara e expressa dos dispositivos legais tidos por vulnerados, ou cuja interpretação conferida pela Corte de origem estaria a divergir daquela adotada por outros tribunais inviabiliza o exame do recurso especial fundado tanto na alínea "a", quanto na alínea "c", do permissivo constitucional, na medida em que não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+Como destacado pela Presidência desta Colenda Corte, em um exame acurado das razões de recurso especial verifica-se que não houve indicação clara e precisa dos dispositivos de lei tidos como violados ou objeto de divergência jurisprudencial.
+Dessa forma, era de rigor a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal:
+"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Neste sentido:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. URV. RENDIMENTOS RECEBIDOS ACUMULADAMENTE. REGIME DE TRIBUTAÇÃO. COISA JULGADA. REVOLVIMENTO DE FATOS E PROVAS. SÚMULAS N. 284 DO STF E 7 DO STJ. (..) 3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula n. 284/STF). (..) 6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.498.301/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. CAIXA ECONÔMICA FEDERAL. OMISSÃO DA CORTE DE ORIGEM. NÃO DEMONSTRAÇÃO. LEGITIMIDADE PASSIVA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A via estreita do recurso especial exige a demonstração inequívoca da ofensa aos preceitos de lei federal, bem como a sua indicação, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a alegação genérica de ofensa à lei caracteriza deficiência de fundamentação, em conformidade com o enunciado sumular nº 284 do STF. (..) 4. Agravo interno não provido. (AgInt no AREsp n. 1.793.776/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE BENEFÍCIO DE PREVIDÊNCIA COMPLEMENTAR - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA DEMANDADA. (..) 2. A indicação de violação à dispositivo de lei de forma genérica, desacompanhada de razões suficientes para compreensão da controvérsia, caracteriza deficiência da fundamentação recursal. Incidência, por analogia, da Súmula 284 do STF. Precedentes. (..) 4. Agravo interno provido, para reconsiderar a decisão da Presidência e, de plano, negar provimento ao agravo em recurso especial. (AgInt no AREsp n. 1.969.207/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/2/2022, DJe de 9/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. AÇÃO REGRESSIVA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. CONTRATO DE SEGURO. ISENÇÃO DE RESPONSABILIDADE. REVISÃO. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 5 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO. 1. A arguição de ofensa a dispositivo legal de forma genérica, sem demonstração efetiva da contrariedade, configura deficiência na fundamentação, justificando a incidência da Súmula n. 284 do STF. (..) 4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos. (AgInt no AREsp n. 1.861.757/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021.)
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
