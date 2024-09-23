@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  RITA  DE  CÁSSIA  RODRIGUES  contra  a  decisão  que  conheceu  parcialmente  do  recurso  especial  da  parte  adversa  para,  nessa  extensão,  dar-lhe  provimento  para  determinar  a  apuração,  na  fase  de  cumprimento  de  sentença,
+"(..)  do  adequado  aumento  a  ser  computado  na  mensalidade  do  plano  de  saúde,  à  luz  de  cálculos  atuariais  voltados  à  aferição  do  efetivo  incremento  do  risco  contratado,  mantido  o  reconhecimento  da  abusividade  dos  percentuais  constatado  pelo  Tribunal  local"  (e-STJ  fl.  1.138).
+Em  suas  razões  (e-STJ  fls.  1.143/1.153),  a  agravante  defende  a  aplicabilidade  dos  índices  da  Agência  Nacional  de  Saúde  Suplementar  -  ANS,  tendo  em  vista  que  se  operou  a  preclusão  consumativa,  já  que  a  agravada  deixou  de  produzir  provas  na  fase  processual  pertinente.
+Afirma,  no  ponto,  que
+"(..)
+ A  ausência  de  comprovação  de  que  o  reajuste  do  plano  coletivo  realmente  obedeceu  aos  critérios  legais  e  contratuais  foi  o  que  levou  a  instância  ordinária  a  acolher  o  pleito  da  petição  inicial,  que  se  frisa,  ocorreu  em  caráter  de  exceção  apenas  para  o  período  em  discussão  na  lide"  (e-STJ  fl.  1.155).
+Salienta  que  há  precedente  nesta  Corte  no  sentido  de  que  ,  nos  casos  em  que  já  houve  produção  de  prova  técnica  e  que  a  operadora  deixou  precluir  a  oportunidade  de  comprovação  técnica  da  validade  dos  reajustes,  é  de  rigor  o  afastamento  dos  índices  impugnados.
+Ao  final,  requer  a  reforma  da  decisão  at  acada.
+Devidamente  intimada,  a  parte  contrária  ofereceu  impugnação  às  e-STJ  fls.  1.180/1.185.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CONTRATO.  PLANO  DE  SAÚDE.  COLETIVO.  REAJUSTE.  SINISTRALIDADE.  ABUSIVIDADE.  CONSTATADA.  SUBSTITUIÇÃO  DE  ÍNDICES.  ANS.  IMPOSSIBILIDADE.  APURAÇÃO.  LIQUIDAÇÃO  DE  SENTENÇA.
+1.  A  constatação  de  abusividade  não  importa  na  anulação  da  respectiva  cláusula  do  contrato,  devendo  haver,  nesse  caso,  a  readequação  do  reajuste  a  parâmetros  mais  justos,  a  fim  de  preservar  o  equilíbrio  contratual.
+2.  Tratando-se  de  contrato  coletivo,  não  se  pode  aplicar  os  índices  da  Agência  Nacional  de  Saúde  Suplementar  -  ANS  por  estarem  previstos  aos  planos  de  saúde  individuais.  Assim,  é  possível  a  apuração  do  percentual  adequado  na  fase  de  cumprimento  de  sentença  com  o  intuito  de  restabelecer  o  equilíbrio  contratual  por  meio  de  cálculos  atuariais.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Ao  contrário  do  que  alega  a  agravante,  não  há  no  acórdão  recorrido  afirmação  de  que  não  foi  comprovada  a  necessidade  do  reajuste.  Em  verdade,  o  que  restou  decidido  na  instância  ordinária  foi  que  o  reajuste  realizado  pela  operadora  é  abusivo  e,  por  esse  motivo,  entendeu-se  por  aplicar  os  índices  da  ANS.
+Tal  conclusão  diverge  da  orientação  firmada  nesta  Corte  no  sentido  de  que  a  constatação  de  abusividade  não  importa  na  anulação  da  respectiva  cláusula  do  contrato,  devendo  haver,  nesse  caso,  a  readequação  do  reajuste  a  parâmetros  mais  justos,  a  fim  de  preservar  o  equilíbrio  contratual.
+Tratando-se  de  contrato  coletivo,  não  se  pode  aplicar  os  índices  da  Agência  Nacional  de  Saúde  Suplementar  -  ANS  por  estarem  previstos  aos  planos  de  saúde  individuais.  Assim,  é  possível  a  apuração  do  percentual  adequado  na  fase  de  cumprimento  de  sentença,  a  fim  de  restabelecer  o  equilíbrio  contratual  por  meio  de  cálculos  atuariais.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE  COLETIVO.  JULGAMENTO  EXTRA  PETITA.  NÃO  CONFIGURAÇÃO.  REAJUSTE  ANUAL.  SINISTRALIDADE.  LIMITAÇÃO  AOS  ÍNDICES  DA  ANS.  IMPOSSIBILIDADE.  PRECEDENTES.  OBSERVÂNCIA  DOS  ÍNDICES  CONTRATUAIS  EM  SEDE  DE  LIQUIDAÇÃO  DE  SENTENÇA.
+(..)
+2.  É  "possível  o  reajuste  de  contratos  de  saúde  coletivos  sempre  que  a  mensalidade  do  seguro  ficar  cara  ou  se  tornar  inviável  para  os  padrões  da  empresa  contratante,  seja  por  variação  de  custos  ou  por  aumento  de  sinistralidade"  (AgRg  nos  EDcl  no  AREsp  235.553/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  2/6/2015,  DJe  de  10/6/2015).
+3.  O  Superior  Tribunal  de  Justiça  possui  orientação  no  sentido  de  que,  no  plano  coletivo,  o  reajuste  anual  é  apenas  acompanhado  pela  ANS,  para  fins  de  monitoramento  da  evolução  dos  preços  e  de  prevenção  de  abusos,  não  havendo  que  se  falar,  portanto,  em  aplicação  dos  índices  previstos  aos  planos  individuais.  Precedentes.
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  R  Esp  2.030.721/SP,  Relatora  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  11/9/2023,  DJe  de  14/9/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NATUREZA  COLETIVA.  MODIFICAÇÃO.  INVIABILIDADE.  SÚMULAS  5  E  7  DO  STJ.  MENOS  DE  30  BENEFICIÁRIOS.  REAJUSTE  POR  SINISTRALIDADE.  ANO  DE  2010.  VALIDADE  DA  CLÁUSULA.  PRECEDENTES.  ABUSIVIDADE.  AFERIÇÃO  EM  CADA  CASO  CONCRETO.  ÍNDICES  LIMITE  DA  ANS.  INAPLICABILIDADE.  PRECEDENTES.  FUNDAMENTOS  SUFICIENTES  NÃO  ATACADOS.  SÚMULA  283/STF.  DEFINIÇÃO  DO  ÍNDICE  APLICÁVEL.  FALTA  DE  INFORMAÇÕES.  AUSÊNCIA  DE  COMPROVAÇÃO  DA  NECESSIDADE.  SUBMISSÃO  DA  QUESTÃO  À  PROVA  PERICIAL  OU  À  LIQUIDAÇÃO  DE  SENTENÇA.  CASO  CONCRETO.  OBSERVÂNCIA.  REVISÃO  DO  ÍNDICE  ADOTADO.  INVIABILIDADE.  SÚMULA  7/STJ.  HONORÁRIOS  RECURSAIS.  MAJORAÇÃO.  CABIMENTO.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Rever  as  conclusões  do  Tribunal  de  origem  de  que  o  contrato  celebrado  entre  as  partes  não  reúne  a  característica  de  plano  de  saúde  individual  ou  familiar,  mas  sim  de  plano  coletivo  empresarial,  demandaria  a  reinterpretação  de  cláusulas  contratuais  e  o  reexame  de  provas,  vedados  pelas  Súmulas  5  e  7  do  STJ.
+2.  O  reajuste  anual  de  planos  coletivos  não  está  vinculado  aos  índices  definidos  pela  ANS  para  planos  individuais,  cabendo  à  referida  agência  apenas  monitorar,  naquele  caso,  a  evolução  dos  preços  praticados  no  mercado  a  fim  de  prevenir  abusos.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  entende  que  nos  contratos  de  plano  de  saúde  coletivos,  ainda  que  contem  com  menos  de  30  (trinta)  beneficiários,  é  válida  a  cláusula  que  prevê  o  reajuste  por  sinistralidade,  devendo  a  eventual  abusividade  do  índice  aplicado  ser  apurada  caso  a  caso,  não  sendo  aplicáveis,  nessa  situação,  os  índices  limite  definidos  pela  ANS  para  os  planos  individuais  e  familiares.
+4.  A  manutenção  de  argumento  que,  por  si  só,  sustenta  o  acórdão  recorrido  torna  inviável  o  conhecimento  do  recurso  especial,  atraindo  a  aplicação  do  enunciado  n.  283  da  Súmula  do  Supremo  Tribunal  Federal.
+5.  Caso  reconhecida  a  abusividade  dos  reajustes  aplicados,  diante  da  não  comprovação  da  necessidade  e  da  ausência  de  informações  claras  a  respeito  dos  índices  praticados,  a  apuração  do  valor  adequado  deve  ser  remetida  à  perícia  ou  à  liquidação  de  sentença,  como  ocorreu  no  presente  processo.
+6.  Averiguar  a  regularidade  dos  percentuais  de  reajuste  aplicados  demandaria  nova  análise  da  matéria  fática,  inviável  em  recurso  especial,  nos  termos  da  Súmula  n.  7/STJ.
+7.  É  cabível  a  majoração  da  verba  honorária  sucumbencial,  na  forma  do  art.  85,  §  11,  do  CPC/2015,  quando  recurso  não  for  conhecido  integralmente  ou  for  desprovido,  monocraticamente  ou  pelo  órgão  colegiado  competente.
+8.  Agravo  interno  desprovido"  (AgInt  no  AgInt  no  AR  Esp  2.304.982/SP,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  4/9/2023,  D  Je  de  6/9/2023).
+Nesse  contexto,  deu-se  provimento  ao  recurso  da  ora  agravada  para  determinar  a  apuração,  na  fase  de  cumprimento  de  sentença,  do  adequado  aumento  a  ser  computado  na  mensalidade  do  plano  de  saúde,  à  luz  de  cálculos  atuariais  voltados  à  aferição  do  efetivo  incremento  do  risco  contratado,  mantido  o  reconhecimento  da  abusividade  dos  percentuais  constatado  pelo  t  ribunal  local.
+Desse  modo,  as  razões  do  agravo  são  insuficientes  para  infirmar  a  decisão  agravada,  que  merecer  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
