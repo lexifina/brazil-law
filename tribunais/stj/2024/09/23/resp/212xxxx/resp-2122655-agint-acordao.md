@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REPETIÇÃO DO INDÉBITO TRIBUTÁRIO. AÇÃO RESCISÓRIA. PIS-PASEP, COFINS, BASE DE CÁLCULO. ICMS. HONORÁRIOS SUCUMBENCIAIS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação rescisória. No Tribunal a quo, a ação foi julgada procedente para rescindir parcialmente o acórdão impugnado quanto ao capítulo pertinente à abrangência do direito à repetição do indébito tributário e, ato contínuo, integrar-lhe declarando que o direito à exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da Cofins tem efeitos quanto aos pagamentos realizados a partir de 15 de março de 2017.
+II - A regra é a condenação do vencido a pagar ao advogado do vencedor honorários decorrentes da sucumbência. Anote-se, ainda, que o Superior Tribunal de Justiça reconhece o cabimento de honorários advocatícios sucumbenciais autônomos na ação rescisória, ainda que resulte, conforme o caso, em dupla condenação: uma relativa ao Juízo rescisório e outra relativa ao Juízo rescindendo. Confira-se: AgInt no REsp n. 1.653.883/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022; EDcl na AR n. 4.987/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 8/5/2019, DJe de 14/5/2019. Assim, se a circunstância fático-jurídica encerra hipótese de cabimento e provimento de ação rescisória com exercício de Juízo rescisório, não há excepcionalidade específica que justifique o afastamento da regra geral de fixação de honorários advocatícios - cuja aplicabilidade à ação rescisória é reconhecida na jurisprudência desta Corte - devendo ser reformado o acórdão de origem no ponto.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que julgou embargos de declaração.
+O recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado, in verbis:
+TRIBUTÁRIO. AÇÃO RESCISÓRIA. PIS-PASEP, COFINS, BASE DE CÁLCULO, ICMS. ED RE 574.706, TEMA 69. MODULAÇÃO DE EFEITOS.
+Admite-se ação rescisória para adequar julgado à modulação de efeitos na tese 69 de repercussão geral do Supremo Tribunal Federal estabelecendo que a exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS-PASEP e da COFINS tem efeitos a partir de 15mar.2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento. Ação rescisória julgada procedente.
+Os embargos de declaração opostos foram acolhidos, com efeitos infringentes, conforme acórdão assim ementado:
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, PREQUESTIONAMENTO. EFEITOS INFRINGENTES. TEMA 1279 DO STF.
+Considerando o sistema recursal vigente, no qual convergem economia, celeridade e segurança jurídica, há que se admitir, excepcionalmente, efeitos infringentes diante de superveniente diretriz jurisprudencial vinculante, fixada por tribunal superior, em casos concretos em que seja relevante para os embargos de declaração exclusivamente a questão de direito discutida. Dá-se parcial provimento aos embargos de declaração para adequação do julgado à tese 1279 da repercussão geral do STF.
+No recurso especial, Fazenda Nacional indica negativa de vigência do art. 85, caput, do CPC, argumentando que a condenação da parte vencida ao pagamento de honorários advocatícios é um imperativo legal que somente pode ser afastado por força de lei, circunstância que não se verifica no caso.
+Alega, outrossim, que a ação rescisória, na hipótese, consubstanciava o único instrumento jurídico possível para obtenção do bem jurídico pretendido, não sendo possível atribuir à União a responsabilidade por ter dado causa ao processo, afastando a condenação em honorários pelo princípio da causalidade.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão do recurso especial tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar ao Tribunal de origem que fixe honorários advocatícios sucumbenciais em favor da parte vencedora na ação rescisória. "
+Nesta Corte, os embargos foram rejeitados.
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+Ora, veja-se que, em primeiro lugar, a Agravante possui decisão judicial transitada em julgado que foi objeto de ação rescisória pela União, sob alegação de que deveria ser aplicado ao caso a modulação de efeitos do Tema 69/STF. Trata-se de clara inovação jurídica, cuja decisão a Agravante interpôs recurso aos Tribunais Superiores, com o objetivo de resguardar a formação da coisa julgada.
+Fato é que motivo algum há para que seja condenada a Agravante ao pagamento de honorários sucumbenciais à União, isso porque, não foi a contribuinte quem deu causa à demanda.
+O ajuizamento da demanda decorreu exclusivamente da modulação temporal de efeitos, sem qualquer responsabilidade por parte da Agravante(princípio da causalidade).
+É, portanto, o princípio da causalidade aquele que deve ser aplicado a estes autos, de modo que não deve a Agravante responder pelas despesas decorrentes do processo em razão de não ter sido esta quem deu causa a distribuição da demanda.
+ ..
+Em momento algum a Agravante se opôs ao pedido, mais que isso, importante reiterar que a União foi omissa quando deixou de apontar em seus fatos e fundamentos da inicial desta ação rescisória que a Agravante concordou na sua manifestação aos embargos de declaração nos autos principais para que houvesse a adequação do julgado, vejamos:
+ ..
+Outrossim, em momento algum a Agravante realizou pedidos de compensação ou repetição de indébito de valores com fatos geradores anteriores à 15-03-2017. Em sua contestação, inclusive, deixou bastante claro tal situação.
+É evidente que foi falha exclusiva do Poder Judiciário somada também a falha procedimental da União quanto deixou de interpor novo recurso perante o E. STJ que fez com que os autos originários transitassem em julgado sem que houvesse a adequação ao Tema 69/STF. Veja-se que em razão de todos os atos relatados pela União, que deixou de atuar de maneira adequada nos autos principais, sem interposição do recurso cabível, distribuiu esta demanda a qual ocasionou a necessidade de defesa pela Recorrida para demonstrar a realidade dos fatos.
+ ..
+Por todo o exposto é mais do que evidente que a União, por seu procurador, postula pela condenação da Agravante ao pagamento dos ônus da sucumbência com pleno intuito de confundir o Judiciário, com pretensão de enriquecimento ilícito.
+ ..
+A União, e seu procurador, incidem nas condutas do citado dispositivo que se constituem em flagrante postura de desrespeito ao Poder Judiciário e a parte adversa. E inclui-se o procurador da parte, pois preceitua o Código de Ética e Disciplina da OAB os seus deveres, os quais se mostram violados, na medida em que atua com violação à boa-fé, e deixa de apresentar a verdade dos fatos nos autos:
+ ..
+A partir do momento em que a União deixa de apresentar a verdade dos fatos, qual seja, de que foi falha exclusiva do Poder Judiciário somada também a falha procedimental da União quanto deixou de interpor novo recurso perante o E. STJ que fez com que os autos originários transitassem em julgado sem que houvesse a adequação ao Tema 69/STF (reitera-se, a Agravante concordou na sua manifestação aos embargos de declaração nos autos principais para que houvesse a adequação do julgado, conforme supratranscrito), a única evidência é a existência de má-fé, disciplinada nos arts. 79 a 81 do CPC:
+ ..
+A União, e seu procurador, não devem passar impunes por suas atitudes eis que tentam de todas as formas induzir o Judiciário a erro, visando vantagem ilícita nas costas da Agravante, o que deve ser prontamente coibido, aplicando-lhe as sanções por litigância de má-fé.
+Neste sentido, a Agravante requer, de forma incidental, forte nos argumentos supramencionados, a condenação da União por litigância de má-fé, aplicando-lhe multa nos termos do art. 81, e §1º do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. REPETIÇÃO DO INDÉBITO TRIBUTÁRIO. AÇÃO RESCISÓRIA. PIS-PASEP, COFINS, BASE DE CÁLCULO. ICMS. HONORÁRIOS SUCUMBENCIAIS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação rescisória. No Tribunal a quo, a ação foi julgada procedente para rescindir parcialmente o acórdão impugnado quanto ao capítulo pertinente à abrangência do direito à repetição do indébito tributário e, ato contínuo, integrar-lhe declarando que o direito à exclusão do ICMS destacado em notas fiscais da base de cálculo do PIS e da Cofins tem efeitos quanto aos pagamentos realizados a partir de 15 de março de 2017.
+II - A regra é a condenação do vencido a pagar ao advogado do vencedor honorários decorrentes da sucumbência. Anote-se, ainda, que o Superior Tribunal de Justiça reconhece o cabimento de honorários advocatícios sucumbenciais autônomos na ação rescisória, ainda que resulte, conforme o caso, em dupla condenação: uma relativa ao Juízo rescisório e outra relativa ao Juízo rescindendo. Confira-se: AgInt no REsp n. 1.653.883/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022; EDcl na AR n. 4.987/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 8/5/2019, DJe de 14/5/2019. Assim, se a circunstância fático-jurídica encerra hipótese de cabimento e provimento de ação rescisória com exercício de Juízo rescisório, não há excepcionalidade específica que justifique o afastamento da regra geral de fixação de honorários advocatícios - cuja aplicabilidade à ação rescisória é reconhecida na jurisprudência desta Corte - devendo ser reformado o acórdão de origem no ponto.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não se controverte quanto ao cabimento da ação rescisória - que foi julgada procedente para desconstituir o acórdão originário e proferir Juízo rescisório - não tendo havido recurso por parte do contribuinte.
+A questão cinge-se à irresignação da Fazenda Nacional quanto à não fixação de honorários advocatícios sucumbenciais em desfavor da parte vencida.
+Acerca do tema controvertido, o Tribunal de origem assim se manifestou:
+Com base no princípio da causalidade, o contribuinte é dispensado dos ônus sucumbenciais. A rescisão do julgado de origem se deu em função da alteração da compreensão da matéria pela jurisprudência do STF. O contribuinte, por ocasião da propositura da demanda originária, estava escudado em precedentes até então consolidados sobre o tema que, inclusive, o fizeram vencedor da demanda.
+Não há como atribuir à empresa qualquer tipo de responsabilidade pela presente ação rescisória decorrente da modulação temporal determinada pelo STF com base em questões de segurança jurídica e não no mérito da causa (TRF4, Primeira Seção, ARS 5019547-20.2022.4.04.0000, 12jul.2022; TRF4, Primeira Turma, AC-RN 50010513920204047201, 9mar.2022).
+O Código de Processo Civil, no que interessa à presente controvérsia, assim disciplina:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+ ..
+§ 10. Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+A regra é a condenação do vencido a pagar ao advogado do vencedor honorários decorrentes da sucumbência.
+Anote-se, ainda, que o Superior Tribunal de Justiça reconhece o cabimento de honorários advocatícios sucumbenciais autônomos na ação rescisória, ainda que resulte, conforme o caso, em dupla condenação: uma relativa ao Juízo rescisório e outra relativa ao Juízo rescindendo. Confira-se: AgInt no REsp n. 1.653.883/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/4/2022, DJe de 12/4/2022; EDcl na AR n. 4.987/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 8/5/2019, DJe de 14/5/2019.
+Assim, se a circunstância fático-jurídica encerra hipótese de cabimento e provimento de ação rescisória com exercício de Juízo rescisório, não há excepcionalidade específica que justifique o afastamento da regra geral de fixação de honorários advocatícios - cuja aplicabilidade à aç ão rescisória é reconhecida na jurisprudência desta Corte - devendo ser reformado o acórdão de origem no ponto.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
