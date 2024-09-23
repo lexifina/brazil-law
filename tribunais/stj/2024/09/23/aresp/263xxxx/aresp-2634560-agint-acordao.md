@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FABIO GOMES DOMINGUES para desafiar decisão, proferida às e-STJ fls. 158/159, em que a Presidência desta Corte Superior de Justiça não conheceu do agravo em recurso especial, visto que não impugnado especificamente o fundamentos da decisão agravada, o óbice da Súmula 83 do STJ.
+Sustenta a parte agravante que, no caso, a ausência de tópico específico sobre a aplicação da Súmula 83 do STJ não prejudica o cumprimento do princípio da dialeticidade.
+Argumenta que o agravo em recurso especial rebateu adequadamente o fundamento do juízo de inadmissão proferido pela Corte de origem, uma vez que abordou o tema em debate ao longo da peça recursal, com a indicação de jurisprudência deste Superior Tribunal de Justiça acerca da impenhorabilidade vindicada e demonstração de sua divergência em relação ao entendimento proferido pelo Tribunal local.
+Requer, ao final, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação à e-STJ fl. 177.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+A parte agravante não trouxe nenhum argumento capaz de alterar o julgado atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, nos termos do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015.
+Nas razões do agravo em recurso especial, a parte insurgente não infirmou de forma clara e específica o fundamentos da decisão agravada, no caso, a incidência da Súmula 83 do STJ, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, o juízo de inadmissibilidade aplicou o óbice da Súmula 83 do STJ, ao fundamento de que a jurisprudência desta Casa de Justiça entende como legítima a expedição de um novo mandado de penhora, mesmo após uma tentativa anterior infrutífera, desde que existam razões que justifiquem a reiteração da medida, tais como nos casos de alteração na situação econômica do executado ou de decurso de tempo suficiente.
+Nas razões do agravo em recurso especial, a agravante não infirmou de forma clara e específica esse fundamento, em evidente desrespeito ao princípio da dialeticidade, porquanto limitou-se a alegar que (e-STJ fls. 137/139):
+O agravante havia interposto recurso especial em razão da violação aos artigos 8º e 833, incisos IV e X, do Código de Processo Civil. No entanto, a Vice-Presidência do Tribunal Regional da Federal da 2ª Região negou seguimento ao mesmo, por entender que o recorrente pretendia apenas o simples reexame de prova.
+Embora respeitável esse entendimento, ele deve ser revisto. A análise do recurso especial não demanda o reexame de fatos e provas. A questão federal está bem delineada na petição do recurso, e não há motivo nenhum para impedir seu conhecimento pelo Superior Tribunal de Justiça. Todas as alegações de violação a dispositivo de lei federal foram expostas em conformidade com os requisitos legais.
+Discute-se no recurso especial a manifesta violação aos artigos 8º e 833, incisos IV e X, do Código de Processo Civil, que impedem a penhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios, dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal, bem como da quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos.
+A jurisprudência consolidada do Superior Tribunal de Justiça reconhece a impenhorabilidade da quantia poupada pelo devedor até o limite de 40 salários mínimos, seja ela mantida em conta corrente, papel moeda ou aplicada em caderneta de poupança ou outros fundos de investimentos. Observe-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A Segunda Seção pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 1445026/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 03/10/2019)
+Com efeito, a constrição é indevida, uma vez que, embora a satisfação do credor seja juridicamente relevante, ela não pode ser realizada às custas da manutenção das condições mínimas de subsistência do devedor, de sua dignidade e de sua família, circunstância estaque enseja a impenhorabilidade do valor.
+Ademais, conforme já reconhecido pelas instâncias ordinárias, a quantia constrita é inferior a 40 (quarenta) salários mínimos, razão pela qual, por si só, é impenhorável. Nos termos do precedente citado, a impenhorabilidade prevista no artigo 833, inciso X, do CPC, também se aplica aos valores depositados em outras aplicações financeiras, e não apenas à caderneta de poupança.
+Logo, estão presentes todos os requisitos de admissibilidade e não há nenhum óbice à apreciação do recurso especial, devendo o mesmo ser conhecido e provido pelo Superior Tribunal de Justiça.
+Ocorre que, em observância ao princípio da dialeticidade, a impugnação deve ser feita, nas razões do agravo em recurso especial, de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão de inadmissão, trazendo argumentações capazes de demonstrar o seu desacerto.
+Da análise dos autos, verifico que a parte agravante deixou de impugnar específica e adequadamente a referência feita à existência de jurisprudência do STJ que desautorizaria o acolhimento da sua pretensão recursal (no caso, o AgInt no REsp n. 2.031.804/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 28/11/2022, DJe de 30/11/2022), trazendo alegações dissociadas quanto à impossibilidade de penhora de quantia inferior a 40 salários mínimos .
+Nesse contexto, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à incidência da Súmula 83 do STJ. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, notadamente, a incidência da Súmula 83/STJ.
+5. O STJ possui entendimento no sentido de que, uma vez inadmitido o recurso especial ante a dissonância da pretensão com jurisprudência do STJ, incumbe a parte apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Agravo interno do particular a que se nega provimento.
+(AgInt no AREsp n. 1.938.057/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/R S, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023).
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
