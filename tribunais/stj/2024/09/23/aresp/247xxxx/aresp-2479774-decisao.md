@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por SELMA VIDAL DAS CHAGAS contra decisão que não admitiu recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 1.778):
+APELAÇÃO CÍVEL - JUSTIÇA GRATUITA REVOGADA - AUSÊNCIA DE INTIMAÇÃO PARA RECOLHIMENTO DAS CUSTAS INICIAIS -INTEMPESTIVIDADE DO PAGAMENTO - INEXISTÊNCIA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO - CASSAÇÃO DA SENTENÇA. Deve ser cassada a sentença que extinguiu o feito sem o julgamento do mérito por intempestividade do pagamento das custas iniciais, quando ausente intimação para esta finalidade e quando constatado o pagamento das custas prévias.
+Opostos embargos de declaração, foram rejeitados (fl. 1.875):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO -OBSCURIDADE - ERRO MATERIAL - INEXISTÊNCIA - REJEIÇÃO. Devem ser rejeitados os embargos de declaração opostos contra a decisão judicial que não possui as omissões, contradições, obscuridades e erros materiais apontados.
+Afirma a recorrente terem sido violados os arts. 102, 218 e 995, todos do CPC.
+Argumenta que, não conhecido o recurso de apelação, interposto pelo recorrido, contra decisão que lhe revogou o benefício da justiça gratuita, passou a produzir efeitos, automaticamente, a sentença de revogação, na qual imposto prazo de 15 dias para recolhimento das custas iniciais do processo principal (ação de cobrança de honorários advocatícios movida pelo recorrido contra a recorrente).
+Assere que, em tal contexto, não era necessária nova intimação do ora recorrido, com novo prazo para recolher as custas do processo principal, porquanto a apelação, e não agravo, manejada para confrontar a revogação da justiça gratuita, foi tida por manifestamente incabível.
+Sustenta, por outro lado, que, ao contrário do que firmou o acórdão recorrido, houve, sim, intimação do ora recorrido, autor da demanda, para recolher as custas, quando sua apelação não foi conhecida, porquanto o prazo o de 15 dias já se encontrava fixado na decisão que revogara a justiça gratuita.
+Diz ainda que, após o trânsito em julgado do acórdão que não conheceu da apelação, ocorrido em 18/4/2018, o ora recorrido foi novamente intimado para recolher as custas do processo, somente o fazendo em 28/10/2019, quando já preclusa a questão.
+Foram apresentadas contrarrazões (fls. 1.934-1.941).
+É o relatório. Decido.
+Colhe-se do julgado de origem o seguinte (fls. 1.782-1.783):
+Registra-se que Celso Borges, diante da notícia de revogação de seu benefício de assistência judiciária, foi intimado a preparar seu recurso de apelação, o que o fez, dentro do prazo previsto, conforme consignado no referido acórdão (f. 1.063 dos autos - doc. 153).
+Na mesma ocasião em que efetuou o pagamento das custas do mencionado recurso, o autor, ainda, em petição protocolizada aos 30 de outubro de 2019, recolheu as custas iniciais do processo em questão, sem que fosse intimado para este fim (cf. doc. 171/172).
+Em decisão prolatada à f. 1257, a ilustre juíza da causa determinou que a Secretaria da 3ª Vara Cível de Uberaba certificasse"se restou procedido o devido preparo destes autos (0701.15.032.249 -6) após a decisão via sentença judicial de fls. 124/128 que julgou procedente o pedido de impugnação à gratuidade de Justiça" (doc. nº 187). Sobreveio a certidão da Secretaria (doc. 224) informando que as custas prévias foram pagas "em 28/10/2019".
+Posteriormente, a gerente de Secretaria certificou que "não houve observância quanto ao prazo previsto em lei para o preparo das custas prévias nestes autos" (doc. nº 230).
+Preceitua o Código de Processo Civil que, "sobrevindo o trânsito em julgado de decisão que revoga a gratuidade, a parte deverá efetuar o recolhimento de todas as despesas de cujo aditamento foi dispensada, inclusive as relativas ao recurso interposto, se houve, no prazo fixado pelo juiz, sem prejuízo de aplicação das sanções previstas em lei".
+Há uma peculiaridade nestes autos que deve ser observada. Após a decisão final que revogou a justiça gratuita concedida ao autor nos autos do processo 0701.15.037.879-5, apensos a este processo (1.0701.15.032249-6-014), e que tramitavam em autos físicos, somente foram remetidos à origem em 16 de outubro de 2019, (cf. se verifica das f. 13/14 do doc. nº 166 e consulta no site deste Tribunal de Justiça) e recebidos em 21 de outubro daquele ano.
+Após o retorno dos autos, o autor não foi sequer intimado a recolher as custas do processo, fazendo-o, todavia, por sua conta, o que afasta a intempestividade reconhecida na sentença (cf. doc. nº 171/172).
+A ausência dessa intimação, por afrontar os direitos à ampla defesa e ao contraditório substancial, conduz à anulação da decisão qu e extinguiu o processo sem o julgamento do mérito por intempestividade do pagamento das custas iniciais.
+(..)
+Acrescento, ainda, que, o pagamento das custas iniciais é vício sanável, sendo aceito, inclusive na jurisprudência deste Tribunal, o seu recolhimento tardio:
+(..)
+Com estas considerações, dou provimento ao recurso para cassar a sentença e determinar o regular prosseguimento do feito. Custas, ao final.
+Consoante se depreende, não houve, no Tribunal de Justiça, pronunciamento sobre o conteúdo normativo referente aos arts. 218 e 995, ambos do CPC (Súmulas 282 e 356/STF). O único dispositivo prequestionado, portanto, foi o art. 102 do CPC, em relação ao qual a alegada violação encontra óbice na Súmula 7/STJ, pois foi a questão decidida com base nas provas dos autos, ou seja, fixou o acórdão recorrido que o processo somente voltou ao primeiro grau muito tempo depois de julgada a apelação e que o ora recorrido, autor da ação de cobrança (principal), efetuou o recolhimento das custas iniciais sem que fosse regularmente intimado para tal.
+Elidir essa fundamentação demanda revolvimento de provas, não condizente com o recurso especial.
+Ainda que assim não fosse, está o julgamento em xeque arrimado em fundamentos infraconstitucional e constitucional (ampla defesa e contraditório) e não se tem notícia de ter havido a interposição de recurso extraordinário. Incide a Súmula 126/STJ.
+Além do mais, tem como arrimo o julgado a assertiva de que o pagamento das custas iniciais é vício sanável, o que não foi impugnado nas razões do recurso especial, atraindo o veto da Súmula 283/STF.
+Não é demais deixar registrado ainda que esta Corte, em recurso especial repetitivo (Tema 676), portanto de obrigatória obediência, fixou que não "se determina o cancelamento da distribuição se o recolhimento das custas, embora intempestivo, estiver comprovado nos autos." (REsp
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
