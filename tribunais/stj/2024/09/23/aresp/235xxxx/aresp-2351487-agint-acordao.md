@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+$ ementa
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO TOCANTINS contra a decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça (STJ) (fls. 677/679) que conheceu do agravo para não conhecer do recurso especial em razão da aplicação da Súmula 284 do Supremo Tribunal Federal (STF) e de alegação de violação de norma diversa de tratado ou lei federal.
+No agravo interno (fls. 686/692), a parte agravante defende que "as razões recursais demonstram, de forma adequada e efetiva, o desacerto do acórdão proferido pelo Tribunal local, e impugna especificamente os fundamentos do aresto recorrido, não havendo que se falar na incidência do óbice estabelecido pela Súmula 284/STF" (fl. 688).
+Assevera ainda que "não há nenhum óbice em examinar o indicado equívoco, pelo Tribunal de origem, na aplicação do Tema 877 do STJ, uma vez que a presente situação tem como objeto de análise a prescrição, que se encontra regulada no art. 1º do Decreto 20.910/32, dispositivo de Lei Federal" (fl. 690) .
+Não houve impugnação ao recurso (fl. 696).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. RAZÕES RECURSAIS DISSOCIADAS. APLICAÇÃO DA SÚMULA 284 DO STF. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+2. A análise da controvérsia sobre o marco inicial do prazo prescricional para a propositura do cumprimento individual da sentença coletiva, tal como posta a questão no recurso, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Incidência da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste.
+A decisão recorrida não conheceu do agravo em recurso especial em virtude de as razões apresentadas no recurso especial estarem dissociadas dos fundamentos do acórdão recorrido, incidindo o óbice da Súmula 284/STF, e por haver alegação de violação de norma diversa de tratado ou lei federal.
+Tal como consignado na decisão agravada, o Tribunal a quo afastou a alegada prescrição para o ajuizamento da execução individual de sentença coletiva, considerando, em suma, o seguinte (fls. 402/404):
+Como acima colacionado, nos autos 5000002-05.1993.8.27.0000 ainda resta com movimentação judicial, e não obstante o trânsito em julgado no STJ, denota-se que a última decisão proferida no processo ocorreu em 2019, o que demonstra que o prazo prescricional qüinqüenal ainda encontra-se em curso, uma vez que, de fato, o STF consolidou o entendimento quanto ao prazo prescricional para o processamento da execução, no sentido de que "prescreve a execução no mesmo prazo de prescrição da ação" (Súmula 150).
+Assim, em se tratando de ação de conhecimento de cobrança contra a Fazenda Pública Municipal, a mesma é regida pela prescrição quinquenal, nos termos do Decreto-Lei nº 29.910/32, in verbis:
+ ..
+No caso dos autos, consta que a parte exequente ingressou com o cumprimento de sentença na data de 07/04/2021 e, embora o Mandado de Segurança n. 698/93 (n. 5000002-05.1993.8.27.0000), que trata do restabelecimento de quantitativo salarial retirado dos militares, tenha sido julgado no ano de 2004, nota-se claramente que o processo ainda se encontra pendente nesta E. Corte de Justiça, com movimentação datada recentemente.
+Portanto, tenho que não transcorreu o prazo de cinco anos, não havendo que se falar em prescrição para postular o cumprimento de sentença.
+(..)
+Outrossim, há que se destacar que não se vislumbra plausibilidade na alegação de prescrição, eis que os atos de execução do acórdão foram iniciados há bem mais de uma década, quando então as partes firmaram acordo, o qual não fora cumprido pelo Estado, sendo que durante esse prazo sobrevieram questões acerca da forma e juízo competente para processamento da execução.
+Ademais, no b ojo do MS nº. 50001124220098270000, por meio do OF. PGE/GAB nº 8526/2020, de 08.10.20, houve reconhecimento da pretensão militar, com compromisso de pagamento (evento 65, OFIC3, MS50001124220098270000).
+Portanto, a sentença merece ser desconstituída, a fim de determinar a devolução dos autos à instância singular para que outra seja proferida, abordando o mérito da questão posta em debate.
+Conforme se vê, o Tribunal de origem assentou que, após o julgamento de mérito do mandado de segurança coletivo, o título executivo judicial não estava consolidado, sendo sua última movimentação datada de 2019, pelo que não havia que se falar em prescrição para o cumprimento de sentença que foi proposto em 2021 .
+Anotou-se ainda que os atos de execução do acórdão tiveram início há mais de uma década, com a realização de acordo entre as partes, sendo a avença descumprida pelo Estado do Tocantis. Após, instaurou-se contenda acerca da forma e juízo competente para o processamento da execução, o que igualmente afastava a prescrição.
+No entanto, a parte recorrente, ora agravante, não impugnou em seu recurso especial os fundamentos trazidos pelo acórdão recorrido, debatendo a prescrição sob viés diverso do assentado no julgado, limitando-se a transcrever as mesmas alegações expostas no recurso de agravo de instrumento, de modo a ser considerado como marco inicial para a contagem do prazo prescricional o trânsito em julgado da decisão que havia julgado o recurso extraordinário, no Supremo Tribunal Federal.
+O Superior Tribunal de Justiça já se manifestou no sentido de ser inadmissível o recurso especial que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido; como se viu, é o caso dos autos. Por essa razão, incide na hipótese, por analogia, o enunciado 284 da Súmula do Supremo Tribunal Federal, que estabelece: "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021 - sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020 - sem destaques no original.)
+No tocante à alegada violação ao Tema 877/STJ, a parte defende ser cabível a sua análise em recurso especial, pois lastreada na violação ao art. 1º do Decreto 20.910/1932, não havendo que se falar em alegação de violação de norma diversa de lei federal.
+Embora assista razão à parte recorrente, a tese recursal não pode ser conhecida, mas por outros fundamentos.
+Com efeito, verifico que não há controvérsia quanto à necessária incidência do art. 1º do Decreto 20.910/1932 e do Tema 877/STJ na apreciação da prescrição no caso concreto, estando a lei e a tese jurisprudencial cogente expressamente perfiladas no acórdão combatido, culminando na premissa incontroversa de que o marco inicial do prazo prescricional quinquenal das execuções individuais advindas de processo coletivo é contado a partir do trânsito em julgado da sentença proferida no processo coletivo.
+Diverge o recorrente quanto ao ato/data que culminou com o trânsito em julgado da ação coletiva, sustentando que seria o trânsito em julgado do recurso extraordinário manejado no Supremo Tribunal Federal.
+Quanto ao ponto, a Corte de origem assentou que após o julgamento de mérito do mandado de segurança coletivo, o título executivo judicial não estava consolidado, havendo decisão nos autos no ano de 2019.
+Conforme já apontado neste voto, a tese do recurso está dissociada dos fundamentos do acordão recorrido, motivo pelo qual incidiu, por analogia, a Súmula 284/STF, como óbice ao seu conhecimento. Mas, além disso, analisar os argumentos do recorrente, tal como posta a questão, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso, também, a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito os seguintes julgados deste Tribunal operados em casos e recursos idênticos ao dos autos:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE.
+1. Consoante o entendimento desta Corte, se o recorrente, nas razões do recurso especial, não impugna especificamente os fundamentos condutores do aresto recorrido, considera-se deficiente a fundamentação da irresignação, incidindo no caso as Súmulas 283 e 284 do STF.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ), sendo que, na hipótese, infirmar o entendimento alcançado pela Corte de origem - acerca dos marcos temporais para a verificação da prescrição da pretensão executória -demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via de recurso especial.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2.419.314/TO, relator Ministro Gurgel de Faria, Primeira Turma, DJe 19/4/2024.)
+SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA COLETIVO. DIREITOS SALARIAIS. PRESCRIÇÃO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Verifica-se que, no caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 284/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ", bem como no impedimento da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+2. No mais, a alteração das premissas adotadas pela Corte de origem, no que se refere à ocorrência da prescrição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 2.429.731/TO, relator Ministro Sérgio Kukina, Primeira Turma, DJe 11/4/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. MANDADO DE SEGURANÇA. PRESCRIÇÃO NÃO RECONHECIDA PELO TRIBUNAL A QUO. ALEGADA OFENSA AO ART. 1º DO DECRETO 20.910/1932. RAZÕES RECURSAIS DISSOCIADAS QUE NÃO IMPUGNAM OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. Agravo Interno contra decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial, em face da incidência da Súmula 284/STF.
+2. Cuida-se, na origem, de cumprimento de sentença interposto pelo ora recorrido contra o Estado do Tocantins, buscando executar o acórdão proferido no MS 698/1993.
+3. Verifica-se que o Recurso Especial em questão apresenta razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, atraindo a incidência da Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles", e da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+4. Ademais, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter a procedência verificada mediante reexame de matéria fática. Todavia, não cabe ao STJ, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 2.360.487/TO, relator Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2023.)
+Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
