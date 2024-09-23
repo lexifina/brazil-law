@@ -1,0 +1,3 @@
+Art. 7º-B. Ficam convalidados os reajustes concedidos às vantagens pessoais nominalmente identificadas dos servidores ativos e inativos e dos pensionistas pelas Leis nºs 13.323, de 28 de julho de 2016, e 14.528, de 9 de janeiro de 2023, ainda que não implementados, mantidos seus efeitos financeiros para todos os fins.
+§ 1º (VETADO).
+§ 2º Os efeitos financeiros dos atos administrativos praticados com fundamento nos reajustes concedidos pelas normas a que se refere o caput deste artigo integram o valor da vantagem prevista no caput do art. 62-A da Lei nº 8.112, de 11 de dezembro de 1990, para todos os efeitos, e são insuscetíveis de redução, de compensação ou de absorção.
