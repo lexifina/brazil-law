@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento na alínea a do permissivo constitucional, contra acórdão do respectivo Tribunal de Justiça assim ementado (e-STJ fl. 326):
+Apelação Criminal. Roubo. Causas de aumento de pena. Emprego de arma de fogo. Apreensão. Desnecessidade. No roubo, o reconhecimento da causa de aumento de pena referente ao emprego de arma de fogo prescinde da apreensão efetiva do referido instrumento e sua submissão a perícia, notadamente quando tal não decorreu de simples desídia do Estado.
+Opostos embargos de declaração, foram rejeitados.
+Alega o recorrente violação dos arts. 59 do Código Penal e 617 do Código de Processo Penal, ao argumento de que a majorante do concurso de agentes pode ser considerada como circunstância judicial negativa para fins de aumento da pena-base.
+Apresentada s contrarrazões e admitido na origem, manifestou-se o Ministério Público Federal, nesta instância, pelo provimento do recurso.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Relativamente à dosimetria da pena, o acórdão consignou que (e-STJ fls. 331/334):
+ ..
+Já na derradeira fase da dosimetria, aplicou o juízo de origem dois aumentos de pena sucessivos, um de um terço (1/3), em razão do concurso de agentes, e outro de dois terços (2/3), em razão do emprego de arma de fogo. Tal operação, malgrado o respeito que se reserva à leitura que a subscreve, mostra-se incorreta.
+O artigo 68, parágrafo único do Código Penal dispõe que, em caso de concursos de causas de aumento de pena, deve-se aplicar apenas um único aumento, no caso aquele que mais agrave a pena a ser aplicada. No caso em tela, encontra-se bem provada a causa de aumento de pena do emprego de arma de fogo, lembrando-se aqui que o reconhecimento da causa de aumento referente ao emprego de arma de fogo prescinde da apreensão efetiva do referido instrumento e sua submissão a perícia, notadamente quando tal não decorreu de simples desídia do Estado. Basta, para tanto, suficiente credibilidade da prova oral quanto à existência efetiva de uma arma para a rendição das vítimas, sendo esse o entendimento sempre unânime que vêm estabelecendo as duas turmas do Supremo Tribunal Federal.  ..  Também outra não tem sido a posição unânime que hoje encontramos na jurisprudência do Superior Tribunal de Justiça, o que está assentado desde o julgamento desde há muito definitivamente firmado por sua 3ª Seção (EREsp 961.863/RS Rel. p/ acórdão Gilson Dipp j. 13.12.2010) e, desde então, repetidamente seguido por imenso repertório de julgados de ambas as turmas de competência criminal daquela Casa  .. .
+Assim, deve ser aplicado, no caso, somente o aumento de pena de dois terços (2/3) referente ao emprego de arma de fogo, passando assim as penas do reincidente Ruan ao patamar definitivo de sete (7) anos, nove (9) meses e dez (10) dias de reclusão, e pagamento de dezoito (18) dias-multa, e aquelas do primário Odilon ao patamar definitivo de seis (6) anos e oito (8)meses de reclusão, e pagamento de dezesseis (16) dias-multa.
+ ..
+Observa-se que a conclusão do acórdão recorrido se refere à impossibilidade de cumulação de duas causas de aumento da pena na terceira fase da dosimetria, conferindo interpretação ao art. 68, parágrafo único, do Código Penal, devendo ser aplicado um único aumento.
+A tese recursal, no entanto, trata da possibilidade de uma das circunstâncias majorantes servir para o incremento da pena-base, que, a despeito da oposição de embargos de declaração pelo Ministério Público, não foi analisada pelo Tribunal de origem.
+Portanto, a controvérsia recursal não foi objeto de apreciação pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento, atraindo o óbice da Súmula 211/STJ.
+Destaca-se que, nas razões do recurso especial, não foi indicada a ofensa ao art. 619 do Código de Processo Penal, indispensável para aferir a existência de omissão por parte do Tribunal de origem ou a caracterização de prequestionamento ficto da matéria .
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, a , do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
