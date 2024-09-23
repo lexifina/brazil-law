@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELO ALEGRIA ZECCHINELLI, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0006058-56.2024.8.26.0041).
+Consta dos autos que o paciente foi condenado à pena de 09 anos e 4 meses de reclusão, em regime inicial fechado, por infração em ao artigo 158 § 1º § 3º, Parte 1 do Código Penal. Foi pleiteada junto ao Juízo da Vara das Execuções a remição pela realização de um curso profissionalizante de Mecânica Automotiva, bem como estudo pela leitura e resenha de 11 livros, estando o pedido devidamente fundamentado. Argumenta que, em que pese todo conjunto probatório tenha sido devidamente juntado, o Ministério Público foi desfavorável ao deferimento da remição, tendo o Juízo indeferido o pedido. Prossegue o impetrante afirmando "Desta forma foi interposto o agravo em execução que encontra-se anexo ao presente habeas corpus. Porém o Exmo. Dr. Desembargador Relator não acolheu ao pedido do paciente, negando provimento ao recurso" (fls. 05).
+Requer, tanto em liminar, quanto no mérito, a concessão da remição de pena pela realização do curso profissionalizante, bem como da remição de estudo pela leitura dos livros.
+É o relatório.
+Decido.
+Inicialmente, pontuo que, em que pese tenha o impetrante afirmado que o "Desembargador Relator, nos autos do agravo em execução nº 0006058-56.2024.8.26.0041, que por decisão totalmente arbitrária: INDEFERIU PEDIDO DE REMIÇÃO DE PENA PELA REALIZAÇÃO DE DOIS CURSOS PROFISSIONALIZANTES, BEM COMO LEITURA E RESENHAS DE LIVROS" (fls. 04), consta do acórdão combatido (fls. 13):
+Por votação unânime, DERAM PARCIAL PROVIMENTO ao agravo a fim de cassar a decisão guerreada e determinar ao juízo de origem a verificação, junto à unidade prisional, da efetiva realização de estudos à distância pelo reeducando, bem como da efetiva participação em clube de leitura integrado à unidade e da avaliação das resenhas ali produzidas por profissional integrada ao clube. Se confirmadas as atividades, deverá ser prolatada nova decisão a fim de conceder os benefícios respectivos, de conformidade com o voto do relator, que integra este acórdão.
+Portanto, tendo o Tribunal a quo cassado a decisão de Primeira Instância que indeferiu a remição, evidencia-se a falta de interesse de agir da parte impetrante.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
