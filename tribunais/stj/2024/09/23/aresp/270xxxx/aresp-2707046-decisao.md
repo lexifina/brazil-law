@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por Notre Dame Intermédica Saúde S.A. contra decisão que não admitiu seu recurso especial, este, por sua vez, manejado com fundamento no art. 105, inciso III, a, da Constituição Federal, desafiando o acórdão assim ementado (e-STJ, fl. 227):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - Requerida apelante que sustenta a possibilidade de cancelamento automático do plano de saúde após operar-se o inadimplemento do valor referente a uma mensalidade - Ausência de notificação e afronta à súmula 94 deste E. Tribunal - Legislação de consumo que impõe a facilitação da defesa do consumidor em Juízo - Consumidor que alega que não recebeu o boleto, não havendo prova em sentido contrário, não se podendo presumir sua má-fé - Parte autora que necessitava do plano contratado para cirurgia de catarata - Função social do contrato e princípio da conservação dos contratos - Dano moral que é evidente no caso - Sentença de procedência mantida para reativação do plano e condenação da requerida ao pagamento de indenização - Montante bem arbitrado - Recurso da requerida desprovido.
+Em suas razões de recurso especial (e-STJ, fls. 234-244), a parte recorrente apontou violação aos arts. 1.022, II, do CPC/2015; 927, parágrafo único, 186 e 187 do Código Civil, sob a alegação de que o aresto atacado teria incorrido em omissão quanto aos dispositivos civilistas que estabelecem que o dever de reparar deve ser proporcional ao dano provocado.
+Sustentou que os danos morais foram fixados em uma quantia exorbitante, superando a extensão do dano, o que evidencia a ocorrência de error in judicando no acórdão recorrido, especialmente em virtude da ausência de emissão de juízo de valor, pelo Tribunal de origem, sobre a matéria.
+Sem contrarrazões (e-STJ, fl. 250).
+O processamento do apelo especial não foi admitido pela Corte local (e-STJ, fls. 251-253), levando a parte insurgente à interposição do presente agravo.
+Brevemente relatado, decido.
+De início, constata-se que a recorrente não opôs embargos de declaração contra o acórdão recorrido, mostrando-se deficiente a fundamentação recursal, dado que a alegação de ofensa ao art. 1.022 do CPC/2015 pressupõe a oposição anterior dos declaratórios. Portanto, aplica-se, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+No ponto (sem destaques no original):
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONSECTÁRIOS LEGAIS. ADEQUAÇÃO PELO TRIBUNAL DE ORIGEM. TEMA 905/STJ E 810/STF. TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE DO APELO NOBRE. SÚMULA 284/STF. JUROS DE MORA. EXISTÊNCIA DE COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA FIXADA SEGUNDO COMPREENSÃO ADOTADA PELO STJ EM SEDE REPETITIVA. DÉBITO FAZENDÁRIO DE NATUREZA CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. O Superior Tribunal de Justiça já se manifestou no sentido de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018).
+2. A desconstituição da premissa lançada pela instância ordinária, segundo a qual a existência de coisa julgada material inviabiliza a rediscussão da matéria referente aos juros de mora, demandaria o reexame de matéria fática, procedimento que, nesta instância especial, encontra óbice na Súmula 7/STJ.
+3. A correção monetária restou fixada em consonância tanto com o entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral, quanto com a compreensão adotada por este Superior Tribunal no âmbito de recurso especial repetitivo.
+4. A alegada inaplicabilidade do Tema 810/STF (RE 870.947/SE), devido à natureza civil da contenda jurídica, não merece ser conhecida, porquanto carece de debate prévio (Súmula 282/STF).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.238.744/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+O Tribunal de Justiça do Estado de São Paulo, ao dirimir a controvérsia, assim decidiu (e-STJ, fls. 228-231):
+4.O recurso não prospera.
+5. Não se afigura razoável o cancelamento automático de um contrato de plano de saúde em razão do inadimplemento de uma única mensalidade vencida e já paga, sendo informado pelo beneficiário do plano que não recebeu o boleto para pagamento (fls. 3/4) e tampouco foi notificado quanto à inadimplência.
+6. O entendimento desta Corte é pacífico acerca da questão controvertida. O assunto é sumulado, o que dispensa fundamentação pormenorizada:
+"Súmula 94:A falta de pagamento da mensalidade não opera, per si, a pronta rescisão unilateral do contrato de plano ou seguro de saúde, exigindo-se a prévia notificação do devedor com prazo mínimo de dez dias para purga da mora."
+7. Tendo em vista a função social do contrato, que visa prestação de assistência suplementar à saúde, agindo no lugar do Estado para garantir direito fundamental, bem como a hipossuficiência do consumidor, impõe-se a notificação para que lhe seja dada ciência acerca da mora, optando, então, por rescindir o contrato ou purgá-la.
+8. Outrossim, os contratos de trato sucessivo trazem consigo a ideia de perpetuação da relação, criando uma dependência, não havendo razão para uma rescisão precoce, mormente levando-se em consideração que o consumidor pode não saber que está em mora, pois a experiência comum diz que pode haver, por um lapso, a inadimplência decorrente de equívoco ou mesmo de falha no serviço postal de envio dos boletos.
+9. Assim, dada a inexistência de prova da notificação por parte da seguradora, era mesmo de rigor a manutenção da parte segurada no plano de saúde contratado, bem como o dever de plena cobertura de todo o tratamento durante o tempo em questão, sendo correta a decisão.
+10. Além disso, a legislação de consumo impõe a facilitação da defesa do consumidor em Juízo. Ora, o consumidor alega que não recebeu o boleto, não havendo prova em sentido contrário, não se podendo presumir sua má-fé.
+11. Não bastasse, a parte autora necessitava com urgência do plano contratado para cirurgia de catarata (fls. 22 e seguintes),devendo se prestigiar a função social do contrato bem como o princípio da conservação dos contratos.
+12. O dano moral é evidente no caso, ultrapassando em muito o mero dissabor.
+13. A r. sentença de procedência deve ser mantida para reativação do plano e condenação da requerida ao pagamento de indenização. E o montante foi bem arbitrado, longe de ser exorbitante, cumprindo as funções da reparação civil, a saber, reparatória, preventiva e punitiva, sem ensejar enriquecimento sem causa.
+14. Quanto à verba honorária, necessário ainda aplicar a majoração prevista no §11º, do artigo 85, do Código de Processo Civil, estabelecendo nesta oportunidade os honorários advocatícios em 20% do valor da condenação.
+15.Embargos protelatórios serão apenados com multa, dando-se por prequestionada a matéria desde já.
+16. Diante do exposto, pelo meu voto, NEGO PROVIMENTO ao apelo da requerida, nos termos da fundamentação supra.
+Pela leitura do acórdão recorrido, verifica-se que não houve debate quanto à infringência ou não aos arts. 927, parágrafo único, 186 e 187 do Código Civil. Quanto a esse ponto, denota-se que o colegiado estadual não emitiu nenhum juízo de valor sobre os dispositivos tidos por violados, tampouco a parte interessada opôs embargos declaratórios para suprimento da omissão.
+Diante desse contexto, constata-se a incidência, por analogia, das Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+Súmula 282.
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse mesmo sentido (sem destaques no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS. AUSÊNCIA DE JUNTADA DO INSTRUMENTO CONTRATUAL. SÚMULAS 282 E 356/STF. ABUSIVIDADE DAS TARIFAS BANCÁRIAS. AFASTAMENTO. REEXAME. SÚMULA N. 7/STJ. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. SÚMULA N. 83/STJ. SUCUMBÊNCIA. DISTRIBUIÇÃO. REEXAME. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+ ..
+5. Agravo interno provido para, em novo julgamento, negar provimento ao recurso especial.
+(AgInt no REsp n. 1.991.236/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 26/8/2022.)
+Lado outro, relativamente ao valor da indenização, dispõe a jurisprudência do Superior Tribunal de Justiça que a alteração do valor estabelecido pelas instâncias ordinárias, a título de compensação por danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo.
+Na situação dos autos, levando-se em consideração as particularidades do caso concreto consignadas pelo acórdão recorrido, verifica-se que a quantia indenizatória fixada em R$ 6.000,00 (seis mil reais) não se mostra desproporcional, e sua revisão demandaria inevitavelme nte o reexame de matéria fático-probatória, o que é vedado pela Súmula 7/STJ.
+A propósito (sem destaques no original):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE AUTORIZAÇÃO PARA INTERNAÇÃO. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão.
+1.1. No caso, o valor estabelecido pela Corte de origem, R$ 20.000, 00 (vinte mil reais), não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.112.220/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/5/2024, DJe de 16/5/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO NÃO INTERPOSTOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. AFRONTA AOS ARTS. 927, PARÁGRAFO ÚNICO, 186 E 187 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS N. 282 E 356/STF. 3. REVISÃO DO VALOR FIXADO A TÍTULO DE DANO MORAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
