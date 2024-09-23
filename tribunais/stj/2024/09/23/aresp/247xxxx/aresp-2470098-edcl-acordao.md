@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por MINERAÇÃO COTO COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que negou provimento ao agravo interno no agravo em recurso especial.
+Eis a ementa do aresto (fl. 1.548):
+PROCESSUAL CIVIL. INADMISSÃO DO RECURSO ESPECIAL POR DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.
+1. A decisão monocrática da Presidência do STJ assentou: "Mediante análise do recurso de Mineracao Coto Comercio Importacao e Exportacao Ltda, a parte recorrente foi intimada do acórdão recorrido em 15/06/2022, sendo o recurso especial interposto somente em 08/07/2022. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil." (fl. 1.462, e-STJ).
+2. Nos termos do § 6º do art. 1.003 do CPC, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+3. Em razão da pandemia relativa à Covid-19, os prazos processuais foram suspensos, para os processos físicos, no período de 19.3.2020 a 14.6.2020, conforme as Resoluções do CNJ 313/2020 e 322/2020, bem como a Portaria 79/2020 do CNJ, voltando a fluir, para os processos físicos, em 15.6.2020.
+4. Não se tendo comprovado feriado local ou suspensão de expediente forense no Tribunal de origem no ato da interposição do Agravo em Recurso Especial e do apelo extremo, e, ademais, considerando que a hipótese em tela não se encaixa na modulação de efeitos delineada pela Corte Especial no REsp 1.813.684/SP, inafastável o decreto de intempestividade desses Recursos.
+5. Agravo Interno não provido.
+Alega a embargante às fls. 1.558-1.564 que o aresto contém erro material, na medida em que os prints do próprio site do Tribunal de origem indicavam como último dia do prazo para interposição do recurso o dia 08/07/2022. No mais, alega omissão por ausência de pronunciamento sobre a perda superveniente do objeto da ação, fato ocorrido em momento anterior à decisão embargada, consoante petição de fl. 1.542.
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, a fim de que sejam sanados os vícios existentes no acórdão.
+Intimada, a parte embargada apresentou impugnação às fls. 1.573-1.575.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos não comportam acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que negou provimento ao agravo interno, mantendo a decisão que, em razão da intempestividade do apelo nobre, não conheceu do agravo em recurso especial, observa-se que foram analisadas fundamentadamente as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia, sem incorrer em qualquer dos vícios acima mencionados.
+Confira-se, por oportuno, os fundamentos do aresto ora embargado (fls. 1.551-1.552):
+A decisão monocrática da Presidência do STJ assentou:
+Mediante análise do recurso de MINERACAO COTO COMERCIO IMPORTACAO E EXPORTACAO LTDA, a parte recorrente foi intimada do acórdão recorrido em 15/06/2022, sendo o recurso especial interposto somente em 08/07/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+No julgamento do REsp 1.813.684/SP, a Corte Especial reafirmou o entendimento segundo o qual é necessária a comprovação, no ato de interposição do recurso, da existência de feriado local por meio de documento idôneo. Todavia, segundo a modulação de efeitos determinada no referido Recurso, admitiu-se a comprovação posterior da tempestividade dos Recursos dirigidos ao STJ, protocolados até 18.11.2019, em relação ao feriado da segunda-feira de carnaval.
+A Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp 1.481.810/SP, em sessão realizada em 19.5.2021, concluiu que não se deve estender a modulação do entendimento firmado no REsp 1.813.684/SP para outros feriados locais, ou seja, consolidou o entendimento de que a comprovação posterior da tempestividade dos Recursos dirigidos ao STJ somente é permitida quando se refira ao feriado da segunda-feira de Carnaval, não sendo admitida quanto às demais hipóteses de suspensão dos prazos processuais na origem.
+Em razão da pandemia relativa à Covid-19, os prazos processuais foram suspensos, para os processos físicos, no período de 19.3.2020 a 14.6.2020, conforme as Resoluções do CNJ 313/2020 e 322/2020, bem como a Portaria 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15.6.2020.
+Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem no ato da interposição do Agravo em Recurso Especial e do apelo extremo, e, ademais, considerando que a hipótese em tela não se encaixa na modulação de efeitos delineada pela Corte Especial no REsp 1.813.684/SP, incontornável o decreto de intempestividade desses Recursos.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nega-se provimento ao Agravo Interno.
+Pretende a parte embargante, inconformada com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do agravo interno e do agravo em recurso especial, o que é inviável em sede de embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024)
+Outrossim, de acordo com entendimento pacífico desta Corte Superior, o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa da teoria que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE AS QUANTIAS DECORRENTES DE QUINTOS/DÉCIMOS INCORPORADOS ANTERIORMENTE A DEZEMBRO DE 1994. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+(..)
+3. O órgão julgador não está obrigado a enfrentar todos os argumentos, quando por outros motivos apresente razões satisfatórias para solucionar a lide.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022)
+Ademais, pondere-se que "para a comprovação de possível indução a erro na contagem do prazo processual, é indispensável que haja nos autos documento que comprove a alegação da parte, como a indicação, na própria certidão de intimação, do prazo recursal fixado pelo Tribunal de origem. A apresentação de prints de tela ou a imagem de página extraída da internet e inserida na petição do recurso não são suficientes para se concluir que houve falha na prestação da informação pelo Tribunal". (AgInt no AREsp n. 2.550.358/PR, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 22/8/2024)
+No mais, diante da intempestividade recursal comprovada, que traz consigo o trânsito em julgado da demanda, não havia necessidade de qualquer menção no acórdão embargado quanto ao conteúdo da petição de fl. 1.542, não se cogitando em qualquer omissão neste ponto. Ainda, acrescente-se que não cabe juízo de valor sobre petição avulsa acerca de questão de fato posterior ao julgamento monocrático da causa, porquanto tal proceder importaria em indevida supressão de instância, além do fato de que ao STJ, pela via do recurso especial, lhe cabe tão somente a interpretação da legislação infraconstitucional, não tendo vocação para atos judiciais típicos das instâncias ordinárias .
+Por fim, impende advertir a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de recurso manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
