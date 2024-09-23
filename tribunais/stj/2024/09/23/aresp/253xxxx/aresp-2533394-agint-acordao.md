@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/09/2024 a 23/09/2024, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE INEXIGIBILIDADE DO TÍTULO. INOCORRÊNCIA DO FATO GERADOR DO ITBI. AUSÊNCIA DE REGISTRO EM CARTÓRIO DE TRANSFERÊNCIA DE IMÓVEIS. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de inexigibilidade do título, pela inocorrência do fato gerador do tributo, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+2. A existência de óbice proce ssual impendido conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da divergência jurisprudencial acerca do tema.
+3. Agravo interno conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo interno interposto por IC - INCORPORADORA E ADMINISTRADORA DE BENS LTDA contra decisão da Presidência do Superior Tribunal de Justiça, por meio da qual não foi conhecido o respectivo agravo em recurso especial.
+Na origem, cuida-se de agravo de instrumento interposto em face de decisão que rejeitou os pedidos formulados em sede de exceção de pré-executividade.
+O Tribunal a quo negou provimento ao recurso, sob o fundamento de as alegações da exceção de pré-executividade atinentes à suposta nulidade da CDA demandariam dilação probatória para sua demonstração, o que tornou a via procedimental eleita inadequada (fls. 67-70).
+Foram opostos embargos declaratórios, os quais foram rejeitados (fls. 174-177).
+No recurso especial interposto com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, a executada sustenta violação aos arts. 1.227 e 1.245 da Lei nº 10.406/2002 (Código Civil), artigo 35 da Lei nº 5.172/1966 (Código Tributário Nacional) e artigo 803, caput, inciso I e parágrafo único da Lei nº 13.105/2015 (Código de Processo Civil - CPC), por inexigibilidade do título, em razão da inocorrência do fato gerador do ITBI, pela ausência de registro em cartório da transferência dos imóveis, além de dissídio jurisprudencial.
+A Corte de origem inadmitiu o apelo nobre em decisão de fls. 108-116.
+Houve a interposição de agravo em recurso especial, o qual não foi conhecido por decisão da Presidência desta Corte (fls. 212-213).
+Sustenta a parte agravante, no agravo interno, que não incide a Súmula n. 182 do STJ, uma vez que impugnou especificamente todos os fundamentos da decisão denegatória na origem,
+Não foi apresentada resposta ao agravo interno (fl. 231).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE INEXIGIBILIDADE DO TÍTULO. INOCORRÊNCIA DO FATO GERADOR DO ITBI. AUSÊNCIA DE REGISTRO EM CARTÓRIO DE TRANSFERÊNCIA DE IMÓVEIS. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. O Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de inexigibilidade do título, pela inocorrência do fato gerador do tributo, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+2. A existência de óbice proce ssual impendido conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da divergência jurisprudencial acerca do tema.
+3. Agravo interno conhecido para não conhecer do recurso especial.
+VOTO
+O agravo interno impugnou especificamente o fundamento adotado pela decisão da Presidência deste Superior Tribunal de Justiça. Outrossim, o agravo em recurso especial é tempestivo e estão presentes os demais pressupostos recursais, razão pela qual passo à análise do recurso especial.
+Do voto condutor do acórdão recorrido extrai-se o seguinte trecho:
+Conforme esclarecido no acórdão do referido agravo de instrumento, a agravante atribuiu aos imóveis denominados Fazenda Santa Maria - área "A"(matrícula n. 6.296), Fazenda Santa Maria - área "B" (matrícula n. 6.301) e Fazenda Santa Maria - área "C" (matrícula n. 6.297), a serem integralizados, os valores de R$383.333,33 (trezentos e oitenta e três mil, trezentos e trinta e três reais e trinta e três centavos) cada, totalizando R$ 1.500.000,00 (um milhão e quinhentos mil reais).
+Por outro lado, o Município agravado afirma que no procedimento administrativo referidos bens foram avaliados, constatando-se uma diferença de R$13.090.807,50 (treze milhões, noventa mil, oitocentos e sete reais e cinquenta centavos)quanto ao imóvel da matrícula n. 6296, R$ 11.000.170,31 (onze milhões, cento e setenta reais e trinta e um centavos) em relação ao bem da matrícula n. 6301 e R$11.483.136,18 (onze milhões, quatrocentos e oitenta e três mil, cento e trinta e seis reais e dezoito centavos) sobre o imóvel cadastrado na matrícula n. 6297.
+Evidente, portanto, que remanescem dúvidas quanto ao valor de avaliação de cada imóvel (fl. 69).
+Já nas razões de recurso especial, a recorrente alega que tal entendimento firmado nas instâncias inferiores está equivocado, pois considerou apenas a controvérsia a respeito do valor dos imóveis e ignorou elemento prejudicial à execução, qual seja, a inexistência dos requisitos essenciais para a cobrança do título executivo, em razão de não haver o registro em cartório da transferência dos imóveis.
+Ocorre que o Tribunal de origem, apesar da oposição de embargos de declaração, não apreciou a tese de inexigibilidade do título, pela inocorrência do fato gerador do tributo, motivo pelo qual está ausente o necessário prequestionamento, nos termos da Súmula n. 211 do STJ.
+Com efeito, verifica-se que o recurso especial não trouxe a alegação de violação ao art. 1.022 do Código de Processo Civil, a fim de que fosse constatada a eventual omissão por parte da Corte de origem, indispensável, inclusive, para fins de configuração do prequestionamento ficto de matéria estritamente de direito, nos termos do art. 1025 do Estatuto Processual. Nesse sentido: AgInt no REsp n. 2.076.255/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.049.701/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 18/12/2023, DJe de 21/12/2023.
+Por fim, cabe ressaltar que, segundo entendimento desta Corte Superior, a existência de óbice processual impendido conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da divergência jurisprudencial acerca do tema. Nesse sentido: AgRg no AREsp n. 2.172.856/PR, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 05/09/2023, DJe de 11/09/2023; AgRg no AREsp n. 2.218.965/CE, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/03/2023, DJe de 27/03/2023.
+Ante o exposto, CONHEÇO do agravo interno para NÃO CONHECER do recurso especial.
+É como voto.
