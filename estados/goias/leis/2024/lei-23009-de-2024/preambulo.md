@@ -1,0 +1,3 @@
+# LEI Nº 23.009, DE 20 DE SETEMBRO DE 2024
+Altera a Lei nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual para o quadriênio 2024-2027, e a Lei nº 22.874, de 24 de julho de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2025 e dá outras providências; e revoga dispositivo da Lei nº 22.087, de 5 de julho de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2024.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
