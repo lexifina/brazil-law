@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Paulo Celso de Camargo Bueno, com fulcro no art. 105, III, a, da Constituição da República, contra acórdão proferido pela Vigésima Câmara de Direito Privado do Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 22):
+EXECUÇÃO - Como (a) é do credor a prerrogativa de indicação de bens à penhora; (b) a espécie compreende pedido de desconsideração da personalidade jurídica da devedora principal para a inclusão da parte agravante no polo passivo de incidente de cumprimento de sentença em ação monitória, onde foi deferido o pedido de arresto de bens, objetivando garantir a execução do valor relativo a contrato de compromisso de compra e venda de cotas societárias; (c) em situação em que a parte credora não anuiu com a liberação dos valores constritos, ainda de pequena monta, se comparados com o valor da dívida e (d) não houve impugnação pela parte agravante acerca da existência dos requisitos autorizados do arresto executivo ou cautelar deferido no incidente de origem e (e) é admissível a penhora de benefício previdenciário, em percentual que não comprometa a subsistência digna do devedor e de sua família, (f) sendo ônus do devedor comprovar a impenhorabilidade do saldo bancário alcançado pela penhora e (g) no caso dos autos, a prova produzida pela parte agravante não gera o convencimento de que a constrição de 10% de seus proventos líquidos afetará sua subsistência digna e de sua família, (h) de rigor a manutenção da r. decisão agravada, com revogação do efeito suspensivo concedido. Recurso desprovido.
+Nas razões do apelo especial, o recorrente aponta violação aos arts. 489, §1º, IV, 833, § 2º, 836 e 1.022, II, do CPC/2015.
+Alega omissão no acórdão estadual quanto à "formação de um juízo prognóstico de não afetação do mínimo existencial do devedor, a ser feito, em concreto, à luz da sua realidade material" (e-STJ, fl. 46).
+Aduz que a penhora, "além de implicar sacrifício alimentar de pessoa idosa sujeita a benefício de baixa renda, não produz, ao fim e ao acabo, nenhum resultado útil que possa legitimamente justificar, da perspectiva da efetividade, a aplicação e a perpetuação de uma retirada alimentar que, na prática, se demonstra completamente destituída de potencial de amortização, insusceptível de fazer frente às custas do processo" (e-STJ, fl. 49).
+Não foram apresentadas contrarrazões.
+Brevemente relatado, decido.
+Verifica-se que, nos presentes autos, existe debate sobre questão de direito que foi afetada pela Corte Especial do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsp 1.894.973/PR, REsp 2.071.335/GO e REsp 2.071.382/SE, de relatoria do Ministro Raul Araújo, julgadas em 12/12/2023, DJe 20/12/2023, delimitaram o Tema 1.230 da seguinte forma: "Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos".
+Confira-se a respectiva ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO.
+IMPENHORABILIDADE DE VERBA DE NATUREZA SALARIAL. RENDA DO DEVEDOR INFERIOR A 50 SALÁRIOS MÍNIMOS. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC. CRITÉRIOS DE AFETAÇÃO PREENCHIDOS. RECURSO AFETADO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos: Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos.
+2. Recurso especial submetido ao regime dos recursos especiais repetitivos (afetação conjunta: REsp 1.894.973/PR, REsp 2.071.382/SE, REsp 2.071.335/GO e REsp 2.071.259/SP).
+(ProAfR no REsp n. 1.894.973/PR, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 20/12/2023.)
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito: I - se já
+distribuídos, serão devolvidos ao Tribunal de origem, para nele
+permanecerem suspensos, por meio de decisão fundamentada do relator; II -
+se ainda não distribuídos, serão devolvidos ao Tribunal de origem por
+decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PENHORA DE PERCENTUAL DE APOSENTADORIA. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.230 DO STJ. PENDÊNCIA DE JULGAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM.
