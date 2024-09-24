@@ -1,0 +1,22 @@
+DECISÃO
+FERNANDO APARECIDO PIRES LIBERATO ALVES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que, ao denegar a ordem, manteve a prisão preventiva.
+A defesa pretende a revogação da prisão preventiva em favor do paciente, sob o argumento de ausência do preenchimento dos requisitos da custódia cautelar.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos (fls. 35-37, grifei):
+Em sua abordagem pessoal, foi identificado como FERNANDO, e em busca pessoal nada de ilícito foi encontrado, apenas havia a quantia de R$ 51,00 (cinquenta e um reais). No veículo, estava como condutor a pessoa de FLAVIO e no banco passageiro direito a passageira PATRICIA. Ao serem questionados, negaram que dispensaram substâncias do veículo, bem como disseram não terem respeitado a ordem de parada porquê estavam com uma porção de maconha. Em diligências, os policiais recuperaram os itens jogados pela janela, que consistia em 37 porções de cocaína 48 porções de maconha, na pochete e 63 porções de maconha, uma porção a granel de "crack" e 20 porções pequenas de "crack", contidas dentro da sacola.
+ ..
+Contudo, com relação ao indiciado FERNANDO verificando a sua folha de antecedentes, constata-se que este já possuí passagens policiais, inclusive FERNANDO é reincidente específico na prática de tráfico de drogas. Assim, visando a manutenção da ordem pública e a impedir a reiteração delitiva, entendo a prisão em flagrante ser convertida em preventiva.
+O Tribunal de origem, por sua vez, manteve a custódia do acusado, conforme abaixo (fls. 16-21, grifei):
+Em revista pessoal só com Flávio foi encontrado: 01 porção de maconha (8,5g); na pochete de Patrícia: 37 porções de cocaína (34,1g), 40 porções de maconha (28,4g) e 8 porções de maconha (51,8g), na sacola arremessada por Fernando: 61 porções de maconha (39,8g), 01 pedra de crack (53,4g), 20 porções de crack (10g), 02 porções de maconha (13,5g), bem como diversas embalagens e a quantia de R$51,00.
+ ..
+Consigne-se, ainda, que Fernando ostenta um processo anterior pelo crime de tráfico de drogas caracterizando reincidência, além de ter sido agraciado, recentemente, com o regime semiaberto conforme consta da folha de antecedentes de fls. 92/95, dos autos originários (processos nº0002300-73.2019.8.26.0452), de modo que a reiteração de condutas criminosas demonstra a dificuldade do paciente em aceitar a ordem legal estabelecida, não hesitando em repetir a prática delitiva, colocando em maior risco a ordem social.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que o réu é reincidente específico.
+O Tribunal de origem destacou que "Fernando ostenta um processo anterior pelo crime de tráfico de drogas caracterizando reincidência, além de ter sido agraciado, recentemente, com o regime semiaberto conforme consta da folha de antecedentes de fls. 92/95, dos autos originários (processos nº0002300-73.2019.8.26.0452)" (fl. 21, grifei).
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 789.267/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/4/2023, DJe de 25/5/2023).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
