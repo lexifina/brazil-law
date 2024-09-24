@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JHONATAN ARAUJO DE OLIVEIRA ALMEIDA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o Recorrente foi condenado à pena de 6 (seis) anos e 3 (três) meses de reclusão, em regime inicial semiaberto, pela suposta prática do delito de tráfico de drogas; negado o direito de recorrer em liberdade. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal local. A ordem foi denegada pela Corte de origem, em acórdão (fls. 111-118).
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado no encarceramento provisório mantido em desfavor do Recorrente, apontando que a prisão preventiva seria incompatível com o regime semiaberto.
+Sustenta ausência de fundamentação para a segregação cautelar.
+Requer:
+"1. A concessão da ordem de habeas corpus, com pedido liminar, para que seja revogada a prisão preventiva de Jhonatan Araujo de Oliveira Almeida, determinando-se sua imediata soltura, em razão da incompatibilidade da manutenção da prisão preventiva com a pena imposta em regime semiaberto.
+2. A expedição do alvará de soltura em favor de Jhonatan Araujo de Oliveira Almeida, para que possa aguardar em liberdade o trânsito em julgado da sentença condenatória ou até que seja determinado o início do cumprimento da pena no regime semiaberto.
+3. A citação do Ministério Público para que se manifeste sobre o presente pedido de habeas corpus" (fl. 134).
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, notadamente em razão do fundado receio de reiteração criminosa.
+No ponto, consta na sentença condenatória:
+"Em análise ao sistema SAJ/PG5, com base na certidão de folhas 40/42, observou este Magistrado que o investigado, no dia 13 de maio de 2024, foi condenado por crime de tráfico de drogas a pena de 06 (seis) anos de reclusão, em regime inicial semi-aberto (autos nº 1500486- 98.2022.8.26.0531). No aludido processo, o acusado foi preso em flagrante, sendo que a prisão foi convertida em preventiva, e a segregação cautelar perdurou até a sua revogação. Diante disso, chega-se à inexorável conclusão de que as medidas cautelares diversas da prisão serão totalmente ineficazes para a manutenção da ordem pública, afinal, se a prisão preventiva e a condenação ao crime de tráfico de drogas (em regime semi-aberto), não foram capazes de afastar, em tese, o investigado da traficância, latente que recolhimento domiciliar, por exemplo, não irá nem de longe inibir a prática de novos delitos. Aliás, sem adentrar ao mérito, em uma rápida analise do auto de exibição e apreensão (fls. 21/22), percebe-se a gravidade em concreto do delito, que destoa, inclusive, dos demais traficos perpetrados nesta urbe. Isso porque foi apreendida uma quantidade substancial das mais variadas drogas (cocaína e maconha) e, se não bastasse, foram apreendidos diversos petrechos para o exercício da traficância" (fl. 45).
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Por outro lado, no que se refere à alegação acerca da incompatibilidade da prisão provisória com o regime de cumprimento de pena determinado; não verifico flagrante ilegalidade a ser sanada, eis que o Tribunal de origem, entendendo ser impositiva a manutenção da segregação cautelar, concluiu pela necessidade de adequação da prisão ao regime semiaberto.
+Nesse sentido, consignou a Corte local:
+"Insta registrar que não se vislumbra incompatibilidade entre a negativa do direito de recorrer em liberdade e a imposição de regime prisional semiaberto, notadamente porque o magistrado de primeiro grau determinou, conforme se verifica nas disposições finais da sentença, a expedição de guia de execução provisória. Assim, haverá a adequação da prisão do paciente ao regime imposto no decisum" (fls. 117).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em ha beas corpus.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
