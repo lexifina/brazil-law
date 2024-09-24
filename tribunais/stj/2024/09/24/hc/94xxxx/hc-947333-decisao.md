@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de BRUNO HENRIQUE DA SILVA LINO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (relatora a Desembargadora Adriana Lopes Moutinho Daudt D"Oliveira, Apelação Criminal n. 0821541-73.2022.8.19.0004).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções do art. 157, §§ 2º, II e 2º-A, I, do Código Penal, à pena de 6 anos e 8 meses de reclusão, a ser cumprida no regime inicial semiaberto.
+Irresignados, a defesa e o Ministério Público interpuseram apelação, tendo a Corte de origem dado parcial provimento aos recursos "para exasperar a pena-base e reconhecer a atenuante da confissão, sem reflexos no quantum final de pena aplicada em sentença - 06 (seis) anos e 08 (oito) meses de reclusão e 16 (dezesseis) dias-multa, no valor unitário mínimo, e estabelecer o regime fechado para início de cumprimento da pena aplicada, mantidos os demais termos da Sentença vergastada", conforme acórdão ementado às e-STJ fls. 12/15.
+Daí o presente writ, no qual alega a defesa que o acusado sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, inclusive liminarmente, o abrandamento do regime inicial de cumprimento da pena.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da controvérsia, o Tribunal de origem consignou que (e-STJ fl. 25, grifei):
+Assim, acolhendo em parte o pleito ministerial quanto ao ponto, fixo a pena-base acima do mínimo legal em 1/6, considerando o concurso de pessoas, estabelecendo-a em 04 (quatro) anos e 08 (meses) meses de reclusão e 11 (onze) dias-multa, no valor unitário mínimo.
+Na segunda fase, não foram reconhecidas circunstâncias agravantes ou atenuantes. Neste ponto, assiste razão à Defesa e, assim, considerando a atenuante da confissão, reduzo a pena ao mínimo legal, qual seja, 04 (quatro) anos de reclusão e 10 (dez) dias-multa, no valor unitário mínimo.
+Derradeiramente, na terceira fase, como já destacado, aplicando os termos do art. 68 e p.u. do CP, o Sentenciante elevou a reprimenda de apenas 2/3, ante o uso de arma de fogo, o que se mantém. Assim, a pena passa a ser de 06 (seis) anos e 08 (oito) meses de reclusão e 16 (dezesseis) dias-multa, no valor unitário mínimo, mesma estabelecida na sentença.
+Quanto ao regime prisional, considerando o uso de arma de fogo, além do concurso de agentes, entendo que merece provimento o recurso ministerial, eis que maior a periculosidade e, portanto, maior rigor se exige no cumprimento da pena e no respectivo acompanhamento pelo Estado. Assim, estabeleço o regime fechado, a teor do que dispõe o artigo 33, §3º do Código Penal.
+Do regime inicial
+Nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+Na hipótese, verifico que não assiste razão à defesa, uma vez que o regime mais gravoso foi fixado pelas instâncias ordinárias ante a presença de circunstância judicial desvalorada na primeira fase da dosimetria (e-STJ fl. 25), conjugada com a gravidade concreta do delito traduzida no seu modus operandi, o que se revela em consonância com a jurisprudência consolidada desta Corte Superior.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. DOSIMETRIA. ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA ACERCA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME. EXISTÊNCIA DE JUSTIFICATIVA PARA MAJORAÇÃO DA PENA PELAS CONSEQUÊNCIAS DO CRIME. REDIMENSIONAMENTO DA PENA. PENA ABAIXO DE 4 ANOS. REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme o posicionamento desta Corte no sentido da possibilidade de estabelecimento de regime inicial mais gravoso do que aquele indicado pelo quantum de pena estabelecido, quando presentes uma ou mais circunstâncias judiciais desfavoráveis, ex vi do art. 33, §§2º e 3º, do Código Penal, como na hipótese.
+2. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 544.801/RO, de minha relatoria, Sexta Turma, julgado em 6/10/2020, DJe de 13/10/2020, grifei.)
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. CONFISSÃO ESPONTÂNEA. ATENUANTE CONFIGURADA. COMPENSAÇÃO COM A REINCIDÊNCIA. POSSIBILIDADE. TERCEIRA ETAPA DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+7. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime, em especial o modus operandi adotado pelos agentes.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a atenuante da confissão espontânea, em relação ao primeiro paciente, a ser compensada com a agravante da reincidência, readequando a reprimenda a ele imposta.
+(HC 355.341/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 23/6/2016, grifei )
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. REGIME INICIAL FECHADO. CONCURSO DE PESSOAS. EMPREGO DE SIMULACRO DE ARMA DE FOGO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. Nada obstante a reprimenda tenha sido fixada em patamar inferior a 8 anos de reclusão e a pena-base de ambos os agravantes tenha sido dosada no mínimo legal, não se verifica manifesta ilegalidade na imposição do regime inicial fechado. Trata-se de roubo circunstanciado pelo concurso de pessoas e pelo emprego de simulacro de arma de fogo, contexto que justifica a adoção do regime mais gravoso, diante da gravidade concreta evidenciada no caso.
+Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 865.785/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/11/2023, DJe de 6/12/2023, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. ROUBO MAJORADO. DOSIMETRIA. EXCLUSÃO CAUSA DE AUMENTO RELATIVA DO EMPREDO DE ARMA DE FOGO. PRESCINDIBILIDADE DA APREENSÃO E PERÍCIA PARA A INCIDÊNCIA DA MAJORANTE. ENTENDIMENTO FIRMADO NA TERCEIRA SEÇÃO DESTA CORTE. REGIME FECHADO. ADEQUADO. QUANTUM DE PENA E CIRCUNSTÂNCIAS DO CASO CONCRETO (TRÊS CRIME DE ROUBO EM CONCURSO DE AGENTES E COM EMPREGO DE ARMA DE FOGO). INSTAURAÇÃO DE INCIDENTE DE INCONSTITUCIONALIDADE. DESCABIMENTO. INCOMPATÍVEL COM A VIA ELEITA DO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II -Quanto à aplicação da majorante do emprego de arma de fogo, no caso concreto, não há ilegalidade em razão da ausência de apreensão e de perícia, pois as instâncias ordinárias reconheceram que sua utilização fora comprovada por outras provas.
+III - Em que pese a primariedade do paciente, as circunstâncias judiciais favoráveis e a pena definitiva não ter excedido 8 anos de reclusão, a fixação do regime mais severo foi fundamentada nas particularidades do caso concreto pelas instâncias de origem, com menção das circunstâncias da conduta delituosa e de que os três delitos de roubo foram perpetrados em concurso de agentes e com emprego de arma de fogo. Inaplicáveis, portanto, a Súmula n. 440 do STJ e a Súmula n. 718 do STF.
+IV - A instauração do incidente de inconstitucionalidade, por violação do princípio da proporcionalidade, do quantum de aumento da pena correspondente à majorante do art. 157, § 2º-A, I, do Código Penal (incluída pela Lei n. 13.654/2018) é incompatível com a via eleita do habeas corpus. Nesse sentido, confiram-se os seguintes precedentes: AgRg no RHC n. 90.145/PR, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 26/2/2018 e HC n. 622.604/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 27/9/2021.
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 703.252/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/11/2022, DJe de 29/11/2022, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. ABSOLVIÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. REGIME INICIAL FECHADO. DELITO PRATICADO EM CONCURSO DE AGENTES E ARMA DE FOGO. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. A Corte de origem, com esteio nos elementos probatórios dos autos, manteve a condenação do agravante, de modo que a alteração da conclusão das instâncias de origem demandariam análise de elementos fático-probatórios, o que é vedado na via eleita.
+3. O regime inicial fechado encontra-se fundamentado "ante a gravidade do delito cometido pelos réus, em especial ante o fato de tratar-se de roubo praticado em concurso de pessoas  ao menos três agentes , e porte de arma de fogo".
+4. Recurso improvido.
+(AgRg no HC n. 798.301/SP, de minha relatoria, julgado em 27/3/2023, DJe de 30/3/2023, grifei.)
+Desse modo, não vislumbro a ilegalidade sustentada pela defesa.
+À vista do exposto, denego a ordem liminarmente.
+Publique-se. Intimem-se.
+EMENTA
