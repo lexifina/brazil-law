@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DE MATO GROSSO DO SUL contra decisão do Tribunal de Justiça daquela Unidade Federativa que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado no Agravo de Instrumento n. 2000007-45.2023.8.12.0000, assim ementado (fls. 87-95):
+AGRAVO DE INSTRUMENTO - AÇÃO DE INTERNAÇÃO COMPULSÓRIA - TUTELA ANTECIPADA - PROBABILIDADE DO DIREITO E E PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO - PRESENTES - DEVER DO ESTADO DE ASSEGURAR A SAÚDE PÚBLICA - ART. 196 DA CF E LEI N. 10216/2001 - RESPONSABILIDADE SOLIDÁRIA DOS ENTES PÚBLICOS. PRAZO MÁXIMO DA INTERNAÇÃO - ART. 23,§5º,II, DA LEI Nº13.840/19 - INAPLICABILIDADE. DIRECIONAMENTO DA DEMANDA AO ENTE COMPETENTE - SOMENTE PASSÍVEL DE EXAME NA FASE DE CUMPRIMENTO - RECURSO CONHECIDO E DESPROVIDO.
+A saúde é direito conferido constitucionalmente a todos os cidadãos que dela necessitem, devendo o Estado assegurar àqueles o tratamento médico e o fornecimento de medicamentos que lhes são ministrados, logo, é obrigação do Estado assegurar às pessoas desprovidas de recursos financeiros o acesso ao tratamento necessário para a cura de suas mazelas, em especial, as mais graves como no caso em que a autora pleiteia a internação compulsória.
+Conforme entendimento jurisprudencial acerca da alteração legislativa promovida pela Lei n.º 13.840/19, a limitação máxima de 90 (noventa) dias se aplica exclusivamente aos casos em que não há decisão judicial, o que evidentemente não se refere à hipótese discutida nos presentes autos. Assim, o tratamento deve perdurar pelo tempo necessário à recuperação, nos termos do laudo médico, apresentado por profissional que conhece o quadro clínico do paciente.
+Há a solidariedade dos entes federados nas ações de saúde, sendo que o direcionamento da obrigação deve ocorrer apenas na fase de cumprimento de sentença, com o acertamento de contas entre o ente federativo que detém a obrigação legal de fornecer o medicamento/tratamento e aquele que efetivamente suportou o seu custo.
+Irr esignado, o recorrente interpôs recurso especial com fulcro no art. 105, inciso III, alínea "a" da CF/88, sustentando violação ao art. 23-A, §5º, inciso III, da Lei n. 11.343/06 e o art. 6º da Lei n. 10.216/01.
+O recurso foi inadmitido na origem (fls. 154-158), o que ensejou a interposição do presente agravo (fls. 167-172).
+É o relatório. Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, a de que deveria ser aplicada a Lei n. 11.343/06 ao caso, sendo assim necessário a limitação temporal de 90 (noventa) dias para a internação involuntária, de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+Ou seja, não elucidou quais fatos incontroversos, contidos no acórdão vergastado, embasariam a tese de que a Lei n. 11.343/06 (que traz a limitação temporal de 90 dias para a internação compulsória) deveria ser aplicada no caso concreto, e não a Lei n. 10.216/01.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
