@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, sem pedido de liminar, impetrado em favor de WESLEY SILVA SABINO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Apelação Criminal n. 0000312-27.2022.8.17.4990).
+Consta dos autos que o paciente foi condenado às penas de 10 (dez) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e mais 250 (duzentos e cinquenta) dias-multa, em regime fechado, pela prática do delito previsto no art. 157, § 2º, II, c/c o art. 70, do Código Penal.
+Em segunda instância, o Tribunal deu parcial provimento ao apelo da defesa a fim de reduzir a pena para 09 (nove) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, mais o pagamento de 215 (duzentos e quinze) dias-multa.
+Neste writ, a impetrante sustenta a existência de flagrante ilegalidade no ato judicial impugnado, pois em recurso exclusivo da defesa, o Tribunal adicionou motivação, incorrendo em reformatio in pejus.
+No ponto, aduz que o efeito devolutivo amplo não autoriza o reconhecimento de novas circunstâncias judiciais por implicar, de toda forma, em reformatio in pejus, ainda que mantida a mesma pena (fl. 11).
+Requer a concessão da ordem para que a pena do paciente seja redimensionada nos termos delineados na impetração.
+Foram prestadas informações às fls. 74-344 e 345-377.
+O Ministério Público Federal manifestou-se à fls. 380-387, opinando pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Quanto à alegação de existência de constrangimento ilegal por ter o Tribunal a quo inovado na motivação para manutenção da exasperação da pena-base, em prejuízo do paciente, não há ilegalidade.
+A Terceira Seção do Superior Tribunal de Justiça, em sede de recurso repetitivo (REsp n. 2.058.891), fixou o Tema 1.214 estabelecendo que,
+é obrigatória a redução proporcional da pena-base quando o tribunal de segunda instância, em recurso exclusivo da defesa, afastar circunstância judicial negativa reconhecida na sentença. Todavia, não implicam reformatio in pejus a mera correção da classificação de um fato já valorado negativamente pela sentença para enquadrá-lo como outra circunstância judicial, nem o simples reforço de fundamentação para manter a valoração negativa de circunstância já reputada desfavorável na sentença.
+Dessa maneira, o Tribunal de origem está em consonância com a jurisprudência desta Corte quando transporta fundamentação de uma circunstância judicial para outra em fato já valorado na sentença , in verbis (fls. 46-47):
+Deste modo, julgo necessário desconsiderar a personalidade como vetorial desfavoráv el e, em contrapartida, valorar negativamente a culpabilidade.
+A valoração negativa acerca da conduta social do recorrente deve ser mantida tal qual procedida pela magistrada de 1º grau, pois se mostra idônea a fundamentação expendida pelo juízo a quo.
+Acerca das circunstâncias do crime, devem ser mantidas como desfavoráveis, pois o juízo sentenciante, de maneira escorreita, assinalou "que foi escolhido um coletivo lotado, na presença de mulheres, adolescentes , inclusive após o crime houve uma tentativa de fuga que resultou na revolta da população aponto de tentarem espancá-lo isso denota uma maior censurabilidade, das circunstâncias do crime, tentou-se inclusive sonegar os aparelhos já subtraídos", situação fática que desbordou da normalidade e serviu como fundamento válido para exasperação da reprimenda.
+Desta feita, observo que remanesce a valoração negativa relativa a três circunstâncias judiciais, vez que mantidas a "conduta social" e "circunstâncias do delito" e a "culpabilidade".
+No tocante à irresignação quanto à fração aplicada para a exasperação da pena, impende destacar, como cediço, que a valoração das circunstâncias judiciais do art. 59 do Código Penal e o aumento da pena-base insere-se dentro do juízo de discricionariedade do Magistrado, sobretudo porque a legislação não impôs qualquer critério objetivo.
+Contudo, convencionou-se na jurisprudência do C. Superior Tribunal de Justiça que a exasperação da pena base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro de 1/6 (um sexto) sobre o mínimo legal ou de 1/8 (um oitavo) sobre o intervalo entre as penas mínimas e máximas previstas no preceito secundário do tipo penal incriminador, para cada vetorial desfavorável, frações que se firmam em observância aos princípios da razoabilidade e da proporcionalidade, ressalvada a apresentação de motivação concreta, suficiente e idônea que justifique a necessidade de elevação em patamar superior.
+No entanto, no caso concreto, verifico que, de fato, o juízo sentenciante aplicou a fração de 1/6, considerando o intervalo entre a pena mínima e a pena máxima do art. 157 do CP, vez que fixou a pena base em 7 anos de reclusão, levando em conta 1 ano para cada circunstância que reputou negativa o que importou em expressivo incremento da pena-base, sem apresentar qualquer fundamentação que justificasse tamanha elevação.
+Por essa razão, aplicando a fração de 1/6 sobre a pena mínima para cada circunstância negativa, redimensiono a pena-base de cada roubo, individualmente, para 6 (seis) anos de reclusão.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
