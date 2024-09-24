@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VALERIA AMANTE CHIDIQUIMO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. MUNICÍPIO DE BARRA MANSA. SERVIDÃO DE PASSAGEM. LEI  4.879/21, A QUAL VEDOU O FECHAMENTO DE SERVIDÕES DE PASSAGEM NOS LOCAIS DE INTERESSE TURÍSTICO. CONCESSÃO DA ORDEM PELO JUÍZO. LEI DE EFEITOS CONCRETOS, SENDO POSSÍVEL A IMPETRAÇÃO DO MANDAMUS. NO ENTANTO, NÃO SE VERIFICA O DIREITO LÍQUIDO E CERTO ALEGADO PELA IMPETRANTE. PROPRIETÁRIA QUE INSTALOU PORTEIRA NO IMÓVEL, A QUAL É TRANCADA A NOITE, O QUE INVIABILIZARIA O TRÂNSITO DOS HÓSPEDES E FUNCIONÁRIOS DAS UNIDADES HOTELEIRAS. NECESSIDADE DE DILAÇÃO PROBATÓRIA A FIM DE APURAR SE HÁ OU NÃO PREJUÍZO AOS PRÉDIOS DOMINANTES. PRECEDENTE DESFAVORÁVEL À PRETENSÃO. RECURSO PROVIDO. REFORMA DA SENTENÇA PARA DENEGAR A ORDEM, INCLUSIVE EM SEDE DE REMESSA NECESSÁRIA (fl. 240).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1.022 do CPC, no que concerne à negativa de prestação jurisdicional.
+Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF, tendo em vista que a parte recorrente aponta ofensa ao art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, cont radição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19.12.2019.)
+Confira-se também os seguintes julgados: AgInt no AREsp n. 2.017.243/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 2.6.2022; AgInt no AREsp n. 1.721.970/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 30.3.2022; AgInt no AREsp n. 1.766.826/RS, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, DJe de 30.4.2021; AgInt no AREsp n. 1.559.920/SE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 22.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
