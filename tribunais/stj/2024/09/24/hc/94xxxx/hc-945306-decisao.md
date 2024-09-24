@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JEFERSON GARCIA RICARDO, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação n. 0024926-76.2016.8.12.0001).
+Extrai-se dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime semiaberto, além de pagamento de 30 dias-multa, como incurso no art. 311 do Código Penal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão que foi assim ementado:
+"APELAÇÃO - ADULTERAÇÃO DE SINAL IDENTIFICADOR DO VEÍCULO (ART. 311 DO CP). PRETENSÃO QUE VISA ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA (ART. 386, III, DO CPP) - APOSIÇÃO DE FITA ISOLANTE NA PLACA DO VEÍCULO - ALEGAÇÃO DE FALSIFICAÇÃO GROSSEIRA - CONDUTA TÍPICA. RECURSO DESPROVIDO.
+I - Conforme ressabido, o objeto material do crime previsto no art. 311 do CP compreende, além do chassi, qualquer sinal identificador de automóvel, de seu componente ou equipamento, incluindo a identificação externa do automóvel (placas do veículo).
+II - A conduta de adulterar ou remarcar as placas de veículos automotores, por qualquer meio, inclusive mediante adesivagem com fitas isolantes, amolda-se perfeitamente ao tipo previsto no art. 311 do Código Penal, afastando a alegação de atipicidade da conduta.
+III - Recurso desprovido. " (e-STJ, fls. 14-26).
+Neste writ, a defesa alega, em síntese, "que a simples colocação de fita isolante na placa da motocicleta, realizada de forma grosseira, certamente não afrontou a fé pública, objeto jurídico protegido pela norma penal, devendo o fato imputado ao recorrente ser considerado atípico." (e-STJ, fl. 6).
+Requer a concessão da ordem para que o paciente seja absovido, com fundamento no art. 386, III, do CPP.
+O Ministério Público Federal opina pelo não conhecimento do writ ou denegação da ordem (e-STJ, fls. 534-538).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem assim considerou:
+"Sem razão, entrementes, a pretensão defensiva.
+O artigo 115 do Código de Trânsito Brasileiro estabelece que oveículo será identificado externamente por meio de placas dianteira e traseira. Por suavez, o artigo 114 dispõe que o veículo será identificado obrigatoriamente por caracteres gravados no chassi ou no monobloco, reproduzidos em outras partes, conforme dispuser o CONTRAN. E o § 2.º deste último destaca que as regravações, quando necessárias, dependerão de prévia autorização da autoridade executiva de trânsito e somente serão processadas por estabelecimento por ela credenciado, mediante a comprovação de propriedade do veículo, mantida a mesma identificação anterior, inclusive o ano de fabricação.
+E a conduta de quem desatende a tais normas administrativasencontra repercussão na esfera criminal, pois o artigo 311, do Código Penal criminalizoua conduta de quem "Adulterar ou remarcar número de chassi ou qualquer sinalidentificador de veículo automotor, de seu componente ou equipamento".
+Trata-se de crime cujo elemento subjetivo é o dolo, não existindo aforma culposa.
+O sujeito ativo é qualquer indivíduo que, pessoalmente, adultere ouremarque os sinais identificadores do veículo. Sob a forma de participação a Lei somenteadmite a hipótese de o funcionário público contribuir para o licenciamento ou registro doveículo remarcado ou adulterado (§ 2.º do artigo 311).
+Isto significa dizer que a condenação exige prova segura no sentidode que o acusado praticou diretamente alguma das condutas que configuram o delito.
+No caso destes autos, a materialidade do delito restou comprovadaatravés do auto de prisão em flagrante (f. 7/8), boletim de ocorrência (f. 23/24), auto deexibição e apreensão (f. 25), laudo pericial (f. 219/223) e pela prova oral colhida aosautos.
+A autoria é certa e recai sobre o apelante JEFERSON GARCIARICARDO, o qual, embora tenha se mantido silente na fase judicial (f. 298), em sedepolicial (f. 17) confessou a prática delitiva, assim dizendo:
+"(..) Sou morador do Jardim Noroeste e faz alguns dias furtei uma motocicleta de placa 000-4059 na frente de uma casa no Nova Lima, nesta capital. Não sei voltar na rua em que eu fiz esse furto. Assim que furtei coloquei uma fita isolante na placa, pra que o numeral 9 ficasse parecendo o numeral 8 e assim evitar a fiscalização da polícia. Hoje por volta das 19:00h eu estava pilotando a moto e resolvi ir na casa da minha amiga Bianca, que também fica no Jardim Noroeste. Quando eu cheguei policiais civis me pegaram e viram que eu tinha colocado fita isolante na placa. Os policiais me trouxeram para essa Delegacia"
+ ..
+Quanto à adesivagem da placa da motocicleta, a fim de burlar o reconhecimento do bem que se tratava de produto de furto, ao contrário do mencionado pela defesa, caracteriza, sim, o delito previsto no art. 311 do CP. Isso porque, conforme ressabido, o objeto material do crime referido compreende, além do chassi, qualquer sinal identificador de automóvel, de seu componente ou equipamento, incluindo-se, aidentificação externa do automóvel (placa do veículo).
+O crime em questão tutela a fé pública, pois visa, além de resguardara autenticidade dos sinais identificadores dos veículos automotores quanto à propriedade, registro e segurança destes, preservar o exercício do poder de polícia pelo Estado, este prejudicado pela adulteração do sinal identificador do automóvel. Nesse sentido, o entendimento doutrinário:
+ ..
+Vale ressaltar que não se exige qualquer finalidade específica do agente, pois o delito em questão se consuma com a própria adulteração de qualquer sinal identificador do veículo. A propósito, colhe-se de precedentes dos Tribunais Superiores:
+ ..
+Quanto à alegação de que a adulteração foi feita de formaextremamente grosseira, fato que, portanto, conduziria, também, à atipicidade daconduta, não merece prosperar.
+Isso porque, ainda que a adulteração feita com fita isolante possa ser identificada de forma fácil durante uma vistoria, a alteração dos números e letras de placa do veículo é suficiente para ludibriar terceiros e a fiscalização eletrônica ems ituações nas quais o veículo está a certa distância, durante o período noturno ou em movimento.
+Nesse contexto, resta patente a ofensa ao bem jurídico tutelado pela norma, qual seja, a fé pública. Com efeito, a conduta de adulterar ou remarcar as placas de veículos automotores, por qualquer meio, amolda-se perfeitamente ao tipo previsto no art. 311 do Código Penal." (e-STJ, fls. 16-19)
+Consoante o entendimento deste STJ, a falsificação de sinal identificador de veículo automotor, prevista no art. 311 do CP, é conduta típica ainda que seja grosseira a falsificação, ou mesmo que não esteja demonstrada a intenção de lesar a fé pública. Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ART. 311 DO CÓDIGO PENAL - CP. USO DE FITA ADESIVA PARA ESCONDER A PLACA. TIPICIDADE. PRECEDENTES DESTA CORTE. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante a jurisprudência deste STJ, reconhece-se a tipicidade da conduta de alterar a placa de veículo automotor através de fitas adesivas ou qualquer outro meio, como na hipótese, tendo em vista que a placa é sinal externo de identificação.
+2. Agravo regimental desprovido." (AgRg no REsp n. 2.083.951/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. VIOLAÇÃO DO ART. 311 DO CP. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. FALSIFICAÇÃO GROSSEIRA. CONDUTA TÍPICA. FURTO QUALIFICADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA EM RAZÃO DA ATIPICIDADE MATERIAL DA CONDUTA. INAPLICABILIDADE. RES FURTIVA DE VALOR SIGNIFICATIVO. FURTO PRIVILEGIADO. PLEITO DE APLICAÇÃO APENAS DE MULTA OU APLICAÇÃO DO PATAMAR MÁXIMO DE REDUÇÃO DA PENA EM 2/3. DISCRICIONARIEDADE FUNDAMENTADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR UMA RESTRITIVA DE DIREITOS E MULTA. APLICAÇÃO DE MAIS DE UMA PENA PECUNIÁRIA. NÃO RECOMENDÁVEL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Em relação ao delito de adulteração de sinal identificador de veículo automotor, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a norma contida no art. 311 do Código Penal busca resguardar a autenticidade dos sinais identificadores dos veículos automotores, sendo, pois, típica, a simples conduta de alterar a placa de automóvel, mesmo que de maneira grosseira e ainda que não caracterizada a finalidade específica de fraudar a fé pública.
+ ..
+5. Agravo regimental improvido".
+(AgRg no HC n. 570.975/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/6/2021, DJe de 29/6/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
+EMENTA
