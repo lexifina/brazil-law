@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com fundamento nas alíneas a e c do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 1ª Região na Apelação Criminal n. 0000890-76.2016.4.01.3503, assim ementado (fls. 607/608):
+PENAL E PROCESSUAL PENAL. CRIME DE MOEDA FALSA. ART. 289, §1º, DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. AUSÊNCIA DE OFENSIVIDADE E LESIVIDADE DA CONDUTA. ABSOLVIÇÃO DO ACUSADO. O reconhecimento da atipicidade da conduta com suporte na aplicação do princípio da insignificância deve observar os seguintes requisitos: (i) conduta minimamente ofensiva do agente; (ii) ausência de risco social da ação; (iii) reduzido grau de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica. O conjunto probatório reforça a tese de irrelevância penal, pois, apesar de a conduta dos acusados constituir delito formal, não se tem qualquer elemento que possa atentar contra o bem jurídico tutelado. 2. A ofensividade e a lesividade da conduta praticada constituem a razão do distinguishing. 3. Preenchidos os vetores para a incidência do princípio da insignificância, configurada está a atipicidade da conduta. 4. Apelação do réu a que se dá provimento, para absolvê-lo.
+No recurso especial, a acusação aponta, além de dissídio jurisprudencial, a violação do art. 289, § 1º, do Código Penal, sob a tese de que é incabível a aplicação do princípio da insignificância em caso de delito de moeda falsa.
+Argumenta que a incidência do princípio da insignificância encontra óbice na jurisprudência quando se trata do crime em apreciação, de modo que, pouco importa a análise do valor material da cédula contrafeita, em face da compreensão clássica, de que, a tutela do crime de moeda falsa é a fé pública, sendo que não repercute sobre sua tipicidade material o valor da cédula contrafeita ou a quantidade de bilhetes, o que apenas ocorreria se tratasse, na espécie, de crime patrimonial (fl. 625).
+Ao final da peça recursal, requer o provimento da insurgência para afastar a aplicação do princípio da insignificância, em consequência, restabelecer integralmente a sentença que condenou o recorrido nas penas do art. 289, § 1º, do CP (fl. 634).
+Oferecidas contrarrazões (fls. 645/652), o recurso especial foi admitido na origem (fls. 653/654).
+O Ministério Público Federal opina pelo provimento da insurgência, nos termos da seguinte ementa (fl. 66):
+RECURSO ESPECIAL. MOEDA FALSA. ALEGAÇÃO DE OFENSA AO ART. 289, § 1º, DO CÓDIGO PENAL E DIVERGÊNCIA JURISPRUDENCIAL. ABSOLVIÇÃO MEDIANTE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. VIOLAÇÃO CONFIGURADA. 1. " A  aplicação do princípio da insignificância não é cabível ao crime de moeda falsa, em razão de ser a fé pública o bem jurídico tutelado. Precedentes" (AgRg no R Esp n. 2.133.358/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024). 2. Parecer pelo conhecimento e provimento do recurso especial.
+É o relatório.
+O Tribunal de origem, por maioria, aplicou o princípio da insignificância à conduta tipificada no art. 289, § 1º, do Código Penal, com os seguintes fundamentos (fls. 593/594 - grifo nosso):
+ ..  Não obstante a posição até então adotada, no sentido de inaplicabilidade do princípio da insignificância no crime de moeda falsa, passo a acompanhar o entendimento majoritário firmado nesta Terceira Turma, em sentido contrário.
+O reconhecimento da atipicidade da conduta com suporte na aplicação do princípio da insignificância deve observar os seguintes requisitos: (i) conduta minimamente ofensiva do agente; (ii) ausência de risco social da ação; (iii) reduzido grau de reprovabilidade do comportamento; e (iv) inexpressividade da lesão jurídica.
+O conjunto probatório reforça a tese de irrelevância penal, pois, apesar da conduta dos acusados constituir delito formal, não se tem qualquer elemento que possa atentar contra o bem jurídico tutelado.
+Assim, a ofensividade e a lesividade da conduta praticada constituem a razão do distinguishing.
+No caso, o acusado foi preso em flagrante na posse de 2 (duas) cédulas falsas de R$ 100,00 (cem reais), após repasse de 1 (uma) cédula falsa de R$100,00 (cem reais) em estabelecimento comercial sem o emprego de violência ou grave ameaça, ou seja, a lesão não apresenta relevância jurídica, na medida em que a conduta afeta minimamente o bem jurídico tutelado. Afiguram-se, assim, preenchidos os vetores para a incidência do princípio da insignificância.
+ ..
+Ocorre que, nos termos da jurisprudência pacífica desta Corte Superior de Justiça, é incabível a incidência da insignificância penal, quando se trata de delito de moeda falsa, não importando o número de notas/moedas contrafeitas, tendo em vista que o tipo penal visa à proteção da fé pública.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MOEDA FALSA. PRINCÍPIO DA INSIGNIFICÂNCIA.
+1. Conforme orientação desta Corte, "não se cogita a aplicação do princípio da insignificância ao crime de moeda falsa, pois o bem jurídico protegido de forma principal é a fé pública, ou seja, a segurança da sociedade, sendo irrelevante o número de notas, o seu valor ou o número de lesados" (HC n. 439.958/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2018, DJe 1º/8/2018).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.901/MA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/8/2024 - grifo nosso).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MOEDA FALSA. ANPP. DENÚNCIA RECEBIDA ANTES DA VIGÊNCIA DA LEI 13.964/2019. PRINCÍPIO DA INSIGNIFICÂNCIA. DESCABIMENTO. DOSIMETRIA DA PENA. INEXISTÊNCIA DE DIREITO SUBJETIVO AO AUMENTO DE 1/6 POR CADA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. ART. 64, I, DO CP. MAUS ANTECEDENTES. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É inviável a oferta de ANPP quando a denúncia foi recebida antes da entrada em vigor da Lei 13.964/2019. Precedentes.
+2. "Não se cogita a aplicação do princípio da insignificância ao crimes de moeda falsa, pois o bem jurídico protegido de forma principal é a fé pública, ou seja, a segurança da sociedade, sendo irrelevante o número de notas, o seu valor ou o número de lesados" (HC 439.958/SP, de minha relatoria, QUINTA TURMA, julgado em 26/6/2018, DJe 1º/8/2018).
+3. Não há direito do subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base ou mesmo outro valor.
+4. O período depurador do art. 64, I, do CP não se aplica aos maus antecedentes.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.969.774/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/3/2022 - grifo nosso).
+No caso, considerando a existência de prova da autoria e da materialidade delitiva, nos termos do voto minoritário no acórdão recorrido (fls. 597/598), de rigor o restabelecimento da condenação.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de afastar a incidência do princípio da insignificância, e restabelecer a condenação do recorrido pelo delito do art. 289, § 1º, do Código Penal.
+Comunique-se.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. MOEDA FALSA. DISSÍDIO JURISPRUDENCIAL. VIOLAÇÃO DO ART. 289, § 1º, DO CP. PLEITO DE AFASTAMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. VIABILIDADE. TIPO PENAL QUE VISA À PROTEÇÃO DA FÉ PÚBLICA. PRECEDENTES.
+Recurso especial provido nos termos do dispositivo.
