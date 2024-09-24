@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DO MARANHÃO contra a decisão que proferi às fls. 328-331, assim ementada (fl. 328):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECONSIDERADA. ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA ESTADUAL. ILEGITIMIDADE ATIVA AD CAUSAM. REGRA DA UNICIDADE SINDICAL. DECLARAÇÃO NA FASE DE EXECUÇÃO. IMPOSSIBILIDADE. RECONHECIMENTO DO DIREITO PELO ESTADO NA FASE DE LIQUIDAÇÃO. PRECLUSÃO DA MATÉRIA. OFENSA À COISA JULGADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Sustenta a parte embargante que "para se passar ao exame de mérito necessariamente teria de se enfrentar a incidência da Súmula 126/STJ suscitada pela Ministra Presidente, fato que não ocorreu e configura omissão no julgado" (fl. 338).
+Requer sejam acolhidos os embargos "a fim de que, sanada a omissão apontada, seja integrado o julgado no sentido de esclarecer acerca dos fundamentos para o afastamento da Súmula 126/STJ" (fl. 339).
+Impugnação às fls. 345-354.
+É o relatório. Decido.
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do coman do normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no decisum ora embargado.
+Ressalto que a Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do recurso especial pode ocorrer de forma implícita, sem necessidade da exposição de motivos. Assim, o exame do mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, sendo prescindível o pronunciamento explícito do julgador a respeito de cada óbice processual (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgInt no REsp n. 2.098.584/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024.
+Outrossim, cabe salientar que a parte recorrente, ora embargada, questionou apenas a questão preliminar relativa à impossibilidade de análise da suposta ilegitimidade ativa, em virtude da ocorrência de preclusão, sendo certo que o Tribunal de origem, ao examinar essa matéria específica, não apresentou fundamento constitucional, razão pela qual não incide, na hipótese, o óbice da Súmula n. 126 do STJ.
+No mais, destaco que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no ato emba rgado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Confira-se:
+PR OCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. E MBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. SIMPLES INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
