@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDRE MATEUS BUIAR apontando como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Agravo em Execução n. 9000514-54.2024.4.04.7000/PR).
+Depreende-se dos autos que o apenado obteve progressão ao regime aberto em 17/5/2023, e o Juízo das execuções indeferiu o pedido de remição de pena pelo estudo realizado enquanto cumpria pena em regime semiaberto humanizado, com tornozeleira eletrônica (e-STJ fls. 15/18).
+Impetrado habeas corpus, o Tribunal a quo não conheceu da ordem nos termos do acórdão que foi assim ementado (e-STJ fl. 21):
+AGRAVO EM EXECUÇÃO PENAL. REMIÇÃO POR ESTUDO. IMPOSSIBILIDADE. AGRAVANTE CUMPRE PENA NO REGIME ABERTO HARMONIZADO SEM USO DE TORNOZELEIRA ELETRÔNICA.
+1. Nos termos do art. 126 da LEP, a remição é destinada ao apenado que cumpre pena em regime fechado ou semiaberto.
+2. No caso, o agravante cumpre sua pena no regime "aberto harmonizado", sem monitoramento eletrônico, o que, por si só, desautoriza a remição da pena, pois o agravante não se encontra em contato efetivo com o cárcere e com todas as mazelas ali existentes e nem se encontra privado da convivência familiar ou social.
+3. Agravo de execução penal improvido.
+Daí o presente writ, no qual alega a defesa que, porquanto o paciente realizou diversas atividades educacionais, faz jus à remição da pena e que o fato de estar sem monitoramento eletrônico não obsta o benefício.
+Requer, liminarmente e no mérito, a concessão da ordem para determinar "ao Juízo de origem para que proceda com a reavaliação dos pedidos de remição de pena pelo estudo apresentados pelo paciente" (e-STJ fl. 13).
+É o relatório.
+Decido.
+No caso, acerca da controvérsia, vê-se que o Juízo de primeiro grau indeferiu o benefício e consignou para tanto o seguinte (e-STJ fl. 16):
+O apenado encontra-se atualmente cumprindo pena em regime aberto, após concessão de progressão de regime, , pelo Juízo de Florianópolis. aos 17/05/2023
+Em 28/09/2023 (seq. 14.1), o Juízo de Florianópolis apreciou e indeferiu pedido similar de remição por estudo após análise de apresentados pelo executado, que teriam sido 185 cursos/estágios realizados nos anos de 2021 e 2022. Resumidamente, entendeu o juízo que os documentos apresentados não preenchiam os requisitos legais exigidos para o reconhecimento do benefício.
+Nesta oportunidade, o apenado reitera pedido de remição apresentando nos seqs. 32.1 e 55.1 diversos cursos/estágios realizados nos anos de 2021, 2022 e 2023.
+Todavia, não há como acolher o pedido.
+Isso porque o instituto objetiva premiar o condenado que busca, por meio do trabalho/ estudo, a sua reinserção no seio social, atendendo ao caráter ressocializador das penas.
+No entendimento deste Juízo, a remição não se aplica ao caso do apenado, que progrediu para o regime aberto, fiscalizado por oficiais de justiça (sem monitoração eletrônica), e deve permanecer recolhido em prisão domiciliar somente em determinados horários.
+Embora o regime mais brando implique restrição à liberdade, o apenado não se encontra em contato efetivo com o cárcere e com todas as mazelas ali existentes e nem se encontra privado da convivência familiar ou social, não havendo que se falar, portanto, em extensão dos benefícios concedidos aos condenados encarcerados àqueles que sequer ingressaram no sistema prisional, como no caso do executado.
+Assim, a concessão do pretenso benefício representaria a quebra da isonomia e a modificação ilegítima do título judicial, porquanto visa, mediante construção jurídica, estender benefício de um regime jurídico para outro.
+Por sua vez, o Tribunal a quo manteve o entendimento firmado pelo Juízo das execuções, valendo-se dos seguintes argumentos (e-STJ fls. 20/21):
+Inicialmente, esclareço que não houve, nos autos da execução penal, nenhum descumprimento de decisão proferida pelo STJ, que inclusive não reconheceu, em momento algum, o direito à remição almejado pela defesa.
+Em decisão monocrática prolatada em 15 de junho de 2023 no Resp n. 2080294-PR, o STJ não reconheceu o direito do executado em ter a remição pelo trabalho, mas sim "deu parcial provimento ao recurso especial para que o Magistrado de primeiro grau analise o pedido de remição referente ao período em que o reeducando esteve em regime semiaberto harmonizado", o que foi cumprido pelo juízo em 2 de agosto de 2023, ao declarar "remidos 35 dias do total da pena imposta ao executado, em razão do trabalho realizado no período de 18/09/2020 a 21/02/2021, quando cumpria a pena em regime semiaberto humanizado". Portanto, não há, nos autos, decisão determinando o reconhecimento da remição pelo estudo ao agravante.
+ ..
+O instituto da remição visa a premiar o preso que, durante o cumprimento de sua pena, prefere o trabalho ou o estudo ao ócio, sendo que o referido dispositivo, em redação clara, indica que a remição pelo trabalho ou pelo estudo somente é cabível para os presos que cumprem pena nos regimes fechado e semiaberto, e neste último caso, não harmonizado.
+ ..
+No caso, como bem mencionou o Douto Representante do MPF (evento 4), "(..) levando em consideração o fato de que o agravante está em regime aberto, sem uso de monitoramento eletrônico, exercendo suas atividades estudantis como qualquer outro estudante, em sua residência, sem privação do convívio social - condições absolutamente distintas, por exemplo, do regime semiaberto convencional, acolher a pretensão defensiva acarreta o desvirtuamento do instituto, devendo ser mantida a decisão do juízo a quo."
+Com efeito, na hipótese de cumprimento da pena privativa de liberdade fora do ambiente carcerário, não há privação do convívio social ou familiar, de tal sorte que a remição pelo estudo ou trabalho perde sua principal finalidade.
+O pedido de remição, nesse contexto, não encontra amparo, devendo ser mantido o seu indeferimento.
+Desse modo, o entendimento firmado pelas instâncias ordinárias contraria, em parte, a jurisprudência desta Corte Superior, merecendo reparo. Desde que os estudos levados a efeito pelo apenado estejam devidamente comprovados e atendam os requisitos legais, devem ser considerados para fins de remição enquanto esteve em regime semiaberto, mesmo que humanizado e sem monitoramento eletrônico.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO. REGIME SEMIABERTO NA MODALIDADE DOMICILIAR. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência de ambas as turmas que integram a Terceira Seção desta Corte Superior orienta no sentido de que o art. 126 da Lei de Execução Penal assegura o direito à remição pelo trabalho ou pelo estudo a todos os condenados em regime fechado ou semiaberto, independentemente de a execução estar ocorrendo em ambiente carcerário ou em recolhimento domiciliar.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.108.075/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+PROCESSUAL PENAL. EXECUÇÃO CRIMINAL. REGIME SEMIABERTO. CUMPRIMENTO DA LIMITAÇÃO DE FINAIS DE SEMANA EM PRISÃO DOMICILIAR. AUSÊNCIA DE CASA DE ALBERGADO NA COMARCA. REMIÇÃO DA PENA PELO TRABALHO. POSSIBILIDADE. SÚMULA 562/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. Na hipótese, o reeducando progrediu ao regime intermediário e, diante da ausência de Casa de Albergado na comarca, foi-lhe deferido o regime domiciliar, com limitação de finais de semana, a fim de que ele exercesse o trabalho de motorista durante os dias úteis.
+2. Não se vislumbra incompatibilidade alguma ou qualquer óbice em se conceder ao apenado a remição pelos dias trabalhados, pois tal direito se reveste de natureza pública e se insere no sistema progressivo, em que há uma flexibilização gradual da sanção, à medida que o reeducando vai se aproximando da liberdade. Negar ao sentenciado o benefício representaria inegável desestímulo à progressão de regime.
+3. Uma vez presentes os requisitos legalmente exigidos, descabe ao intérprete opor empecilhos à remição pelo trabalho, uma vez que, ainda que o sentenciado esteja a cumprir a reprimenda em regime domiciliar, tal benefício lhe fora deferido em razão da própria falência do sistema carcerário.
+4. A jurisprudência do STJ é firme no sentido de que os sentenciados que cumprem pena no regime semiaberto, como na presente hipótese, ou fechado, têm direito à remição da pena pelo trabalho, consoante a previsão legal do art. 126 da Lei de Execução Penal, com redação dada pela Lei n. 12.433/2011, que prevê que "o condenado que cumpre pena em regime fechado e semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena". Entendimento em consonância com a dicção da Súmula n. 562/STJ.
+5. Recurso especial desprovido.
+(REsp n. 1.560.854/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2018, DJe de 26/3/2018.)
+Ante o exposto, concedo parcialmente o presente habeas corpus para determinar que o Juízo das execuções promova a análise dos documentos acostados pela defesa e, caso preencham os requisitos legais, declare remidos os dias nos quais comprovadamente estudou enquanto estava no regime semiaberto .
+Publique-se. Intimem-se.
+EMENTA
