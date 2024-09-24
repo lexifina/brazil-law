@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de UDSON RODRIGUES DA SILVA, contra ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi inicialmente condenado pela prática do crime previsto no artigo 121, § 2º, IV, c/c art. 14, II (por duas vezes), na forma do art. 69, do Código Penal, à pena de 12 anos de reclusão, em regime fechado.
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, reconhecendo o concurso formal impróprio entre os crimes de tentativa de homicídio qualificado, bem como alterando a fração relativa ao delito perpetrado contra a vítima L., fixando a sanção final do réu em 10 anos de reclusão (fls. 12-23), com trânsito em julgado.
+Na presente impetração, busca-se a concessão da ordem para cancelar o trânsito em julgado e intimar o advogado dativo pessoalmente para recorrer do acórdão de origem.
+É o relatório. DECIDO.
+Da leitura do acórdão proferido em sede de apelação, apontado como ato impugnado, bem se observa que a questão ora trazida não foi analisada naquele julgado, mesmo porque a defesa argui nulidade ocorrida posteriormente ao julgamento, na intimação para ciência do advogado quanto ao referido acórdão.
+Não obstante, a questão foi levada ao Relator na origem, que proferiu a decisão monocrática de fls. 34-35, com o seguinte teor:
+Indefiro o pedido de ordem 57.
+Com efeito, o acusado esteve assistido por defensor dativo, o qual interpôs regularmente recurso de apelação contra a sentença condenatória.
+O recurso foi julgado na sessão do dia 31 de julho de 2024 (acórdão em ordem 54) e o defensor dativo foi intimado por meio eletrônico no dia 12 de agosto de 2024, nos termos da Lei 11.419/2006, a qual dispõe:
+"Art. 5º As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta Lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico.
+(..)
+§ 6º As intimações feitas na forma deste artigo, inclusive da Fazenda Pública, serão consideradas pessoais para todos os efeitos legais".
+Ressalte-se que a intimação pessoal do réu prevista no art. 392 do Código de Processo Penal se restringe à sentença, não se aplicando aos acórdãos proferidos em sede de apelação.
+Dessa forma, devidamente intimado o defensor dativo, sem manifestação tempestiva de irresignação, não há que se falar em irregularidade do trânsito em julgado certificado, o qual efetivamente ocorreu em 30 de agosto de 2024 (ordem 56).
+Observa-se, portanto, que não houve o debate do tema pelo colegiado de origem a fim de viabilizar a impetração da ordem perante esta Corte Superior, pois não consta que tenha sido ajuizado agravo regimental em face de tal decisão.
+Ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ). Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA.
+1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. CRIMES LICITATÓRIOS. COMPETÊNCIA DA JUSTIÇA ELEITORAL. MATÉRIA NÃO DISCUTA PELO TRIBUNAL DE JUSTIÇA. INDÍCIOS DE CRIMES ELEITORAIS. REMESSA AO TRIBUNAL REGIONAL ELEITORAL PARA MELHOR EXAME. AGRAVO PARCIALMENTE PROVIDO.
+1. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018).
+2. Ainda que não se possa reconhecer imediatamente a competência da Justiça Eleitoral, se há indícios expressos nos autos acerca da possível prática dos delitos durante o período de campanha eleitoral, com promessa de fraude de futuras licitações em caso de êxito nas eleições, é pertinente que a Justiça especializada seja provocada a decidir sobre a questão.
+3. Não há necessidade anular a medida de busca e apreensão determinada pelo Tribunal de Justiça porque, ainda que seja posteriormente reconhecida a competência da Justiça Eleitoral, este Superior Tribunal de Justiça vem entendendo que o reconhecimento da incompetência do juízo, por si só, não anula decisão cautelar, que, por isso, poderá ser ratificada pela autoridade competente.
+Precedentes.
+4. Agravo regimental provido em parte para determinar a remessa da investigação à Justiça eleitoral para que analise a existência ou não de eventuais crimes eleitorais capazes de atrair a sua competência (Medida cautelar inominada: 0047746-58.2020.8.19.0000).
+(AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/4/2021, DJe de 16/4/2021.)
+De todo modo, consoante certidão de fl. 24, não vislumbro flagrante ilegalidade a ser reconhecida de ofício, haja vista que não se demonstrou a existência de situação contrária ao entendimento no sentido de que:
+"1. Conforme entendimento sedimentado nesse Tribunal Superior, "O art. 5º da Lei n. 11.419/2006 e o art. 21 da Resolução n. 185/2013 do Conselho Nacional de Justiça esclarecem que, nos processos judiciais eletrônicos, a intimação dos atos processuais se aperfeiçoa com a consulta eletrônica realizada pela parte, que deve ocorrer em até dez dias corridos, contados a partir da data de envio da comunicação. Tal previsão tem aplicação inclusive às entidades que gozam da prerrogativa de intimação pessoal, tal como a Defensoria Pública e os defensores dativos. Caso a consulta não ocorra dentro do prazo de dez dias corridos, considerar-se-á intimada a parte, automaticamente, ao término do prazo (AgRg no HC n. 753.186/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2023)". (AgRg no HC n. 778.302/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+2. No caso, conforme consignado pela Corte a quo, a Defensoria Pública foi devidamente intimada, via PJD, deixando voluntariamente de interpor recurso.
+3. Agravo regimental desprovido."
+(AgRg no HC n. 905.352/GO, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+Ante o exposto, indefiro liminarmente o habeas corpus, com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
