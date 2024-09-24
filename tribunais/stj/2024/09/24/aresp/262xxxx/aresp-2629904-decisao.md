@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MAX JHONE FERNANDES DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que não admitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 157, § 2º, inciso II, c/c artigo 14, inciso II, do Código Penal, à pena de 04 (quatro) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e pagamento de 12 dias-multa (fls. 208-216 ).
+O Tribunal negou provimento ao apelo defensivo, mantendo a condenação inalterada (fls. 289-290).
+A defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, sustentando violação ao art. 59 do Código Penal. Requereu, em síntese, o afastamento da valoração negativa da circunstância judicial referente à culpabilidade, com o redimensionamento da pena (fls. 300-306).
+Apresentadas as contrarrazões do Ministério Público (fls. 311-316), o recurso foi inadmitido na origem com fundamento na Súmuls n. 7, STJ (fls. 322-325).
+Nas razões do agravo em recurso especial, o agravante sustenta a desnecessidade de reexame da matéria fática (fls. 334-340).
+O Ministério Público Federal, por sua vez, opinou pelo desprovimento do recurso (fls. 365-368).
+É o relatório. DECIDO.
+O recorrente insurge-se contra a valoração negativa da circunstância judicial referente à culpabilidade do crime, na primeira fase da dosimetria da pena do delito de roubo majorado.
+Neste ponto, registro que esta Corte possui firme entendimento no sentido de que a dosimetria da pena se insere num juízo de discricionariedade do magistrado, observado o livre convencimento motivado, sendo passível de revisão somente em caso de flagrante ilegalidade ou desproporcionalidade (AgRg no HC n. 869.056/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+Observo que os critérios utilizados para o incremento da pena-base foram devidamente fundamentados em circunstâncias do caso concreto pelo Tribunal de origem, em consonância com o entendimento desta Corte. Assim fixou o acórdão (fl. 289):
+"3. A fundamentação utilizada para negativar a circunstância judicial culpabilidade mostra-se legítima, vez que, além de ter sido justificada em elementos concretos devidamente extraídos dos autos, encontram-se em perfeita sintonia com o princípio da individualização da pena e da discricionariedade regrada do juiz. A indicação de que o réu conhecia a vítima deve ser ponderado, vez que indica que o réu planejou o crime e escolheu a residência dela para praticar o crime, pois sabia que a vítima morava sozinha."
+Verifico que, diversamente do que sustenta a Defesa, o fato de o agravante conhecer a vítima anteriormente não foi utilizado como "exasperação automática" ou supôs relação de amizade entre ambos. Ao contrário, a culpabilidade foi valorada negativamente na origem com fundamento na premeditação do delito de roubo, visto que o réu conhecia a residência da vítima.
+Reconheço que se trata de circunstância apta a exacerbar a pena-base do delito, consoante entendimento desta Corte, pois a premeditação e o planejamento da ação delitiva representam uma maior reprovabilidade da conduta. Precedentes: HC 532.902/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/12/2019, DJe 17/12/2019. AgRg no HC n. 721.052/ES, Rel. Min. Laurita Vaz, Sexta Turma, DJe de 3/3/2022. AgRg no HC n. 827.019/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023.
+Portanto, não vislumbro ilegalidade na fixação da pena do agravante, de modo a exigir a reforma do acórdão recorrido.
+Diante do exposto, conheço do agravo, mas nego provimento ao recurso especial, nos termos d o art. 253, parágrafo único, inciso II, "b", do RISTJ.
+Publique-se. Intime-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS. CULPABILIDADE. VÍTIMA CONHECIDA DA RÉU. PREMEDITAÇÃO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
