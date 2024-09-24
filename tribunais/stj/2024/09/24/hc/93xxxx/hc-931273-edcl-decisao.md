@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão desta relatoria, que não conheceu do habeas corpus impetrado em favor de EDIMAR FIGUEIREDO CLARINDO (e-STJ fls. 136/142).
+Nesta oportunidade, argumenta a defesa que esta Corte incorreu em erro material/omissão ao afirmar a ocorrência de preclusão, por ter sido a dosimetria analisada há mais de 12 anos.
+Aduz que, uma vez que a ilegalidade constante da 2ª fase da dosimetria NÃO FOI DISCUTIDA em sede de apelação, esta defesa propôs habeas corpus substitutivo em junho do corrente ano, diretamente no E. TJES, que apenas foi negado, sob argumento de que a reforma pleiteada tem por base entendimento atual (e-STJ fl. 147).
+Assim, considerando-se que o objeto do presente writ não foi analisado há 12 anos pelo TJES, mas sim em junho/2024, requer o conhecimento e provimento dos embargos de declaração, para sanar omissão/erro material, analisando o mérito do habeas corpus e concedendo a ordem de ofício para redimensionar a pena do Agravante (e-STJ fl. 147).
+É o relatório. Decido.
+De início, esclareço que os embargos de declaração são recurso com fundamentação vinculada à precisa demonstração, pela parte embargante, de que a decisão embargada apresenta um dos vícios expressamente previstos no art. 619 do Código de Processo Penal, segundo o qual:
+Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de 2 (dois) dias contado da sua publicação, quando houver, na sentença, ambiguidade, obscuridade, contradição ou omissão.
+Na hipótese, a decisão embargada assim justificou a impossibilidade de revisão da dosimetria das penas do paciente nesta oportunidade (e-STJ, fl. 324 - destaquei):
+ ..
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio.
+Além disso, constata-se que o presente mandamus ataca matéria decidida pelo Tribunal de Justiça local há mais de doze anos. Assim, considerando-se o grande lapso temporal entre a data do julgamento do acórdão de apelação e a impetração desse habeas corpus, deve ser reconhecida a preclusão da matéria, em observância ao princípio da segurança jurídica e o respeito à coisa julgada, não havendo como rediscutir o pedido aqui deduzido por esta via mandamental.
+Isso porque é pacífico o entendimento desta Corte Superior no sentido de que "ante à longa passagem de tempo entre a data dos fatos e esta impetração, forçoso o reconhecimento da preclusão da pretensão ora manifestada, em homenagem ao princípio da segurança jurídica, notadamente quando o pleito tem nítidas características revisionais" (AgRg no HC n. 879.254/SE, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/4/2024, DJe de 12/4/2024).
+ ..
+Com efeito, merece o decisum pequeno reparo, para fazer constar que a dosimetria das penas do ora embargante foi realizada pelo juiz de primeiro grau, e o tema não foi submetido à análise da Corte local no recurso de apelação , que transitou em julgado há mais de 10 anos.
+No entanto, não há como conferir a este instrumento efeitos infringentes, já que, como também consta na decisão embargada, o fundamento utilizado para o reconhecimento da preclusão é justamente a longa passagem de tempo entre o trânsito em julgado da condenação e da impetração, ante a necessidade de observação do princípio da segurança jurídica, entendimento este que deve ser mantido, por estar de acordo com a jurisprudência desta Corte.
+Acrescente-se que, como bem observado pela Corte local no julgamento do habeas corpus lá impetrado, a alteração de entendimento jurisprudencial posterior ao trânsito em julgado da condenação não autoriza a sua aplicação retroativa, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. REVISÃO CRIMINAL NÃO CONHECIDA PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL APÓS O TRÂNSITO EM JULGADO DA AÇÃO PENAL CONDENATÓRIA. IRRETROATIVIDADE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO NÃO PROVIDO.
+1. É firme o entendimento desta Corte Superior de que a mudança no entendimento jurisprudencial após o trânsito em julgado da condenação, ainda que mais benéfico ao réu, não autoriza o ajuizamento revisão criminal.
+2. Hipótese em que o Tribunal de origem não conheceu do pedido revisional, por entender que a alteração jurisprudencial acerca validade de ações penais em curso para afastar o redutor do art. 33, § 4º, da Lei de Drogas, após o trânsito em julgado, ainda que mais benéfica ao réu, não permite à parte ajuizar revisão criminal com o propósito de anular ou modificar a coisa julgada, em atenção ao princípio da segurança jurídica.
+3. Agravo regimental não provido.
+(AgRg no HC n. 913.360/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/8/2024, DJe de 30/8/2024.)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. REVISÃO CRIMINAL. MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. SENTENÇA COM TRÂNSITO EM JULGADO ANTERIOR À EDIÇÃO DA SÚMULA N. 443/STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedente.
+2. O alegado constrangimento ilegal é analisado para a verificação da eventual possibilidade de atuação ex officio (artigo 654, § 2º, do Código de Processo Penal).
+3. "O simples fato de ter ocorrido mudança de orientação jurisprudencial não justifica o conhecimento do habeas corpus, visto que não se pode desconstituir uma sentença transitada em julgado há mais de dezoito anos, sob pena de se eliminar por completo o princípio da coisa julgada, propiciando a eterna discussão posta nos autos de conhecimento e, consequentemente, indiscutível insegurança jurídica."
+(HC n. 185.611/RJ, Relator Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 14/10/2014, DJe 17/10/2014).
+4. Habeas corpus não conhecido.
+(HC n. 488.298/SC, relator Ministro Jorge Mussi, Quinta Turma, julgado em 11/4/2019, DJe de 6/5/2019.)
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para fazer constar que a dosimetria das penas do ora embargante foi realizada pelo juiz de primeiro grau, e o tema não foi submetido à análise da Corte local no recurso de apelação, que transitou em julgado há mais de 10 anos. Mantidos os demais termos da decisão.
+Intimem-se.
+EMENTA
