@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TIAGO BORGES BARCELOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ACIDENTE DE TRÂNSITO ENTRE VEÍCULO DE PASSEIO E ÔNIBUS - AGRESSÕES PERPETRADAS POR PASSAGEIROS DO ÔNIBUS CONTRA O CONDUTOR DO AUTOMÓVEL - FATO DE TERCEIRO - RESPONSABILIDADE DA EMPRESA DE TRANSPORTE INDEMONSTRADA - DEVER DE INDENIZAR AUSENTE - SENTENÇA MANTIDA. - Para a configuração do dever de indenizar, devem estar presentes os pressupostos responsabilidade civil, quais sejam: o dano, o ato ilício e o nexo de causalidade. - A responsabilidade objetiva do transportador, conforme art. 734 do Código Civil, está vinculada aos aspectos inerentes à sua atividade precípua, não sendo o motorista, muito menos a empresa, responsáveis pelas lesões corporais de autoria dos passageiros do lado de fora do coletivo, configurando este um fato de terceiro apto a romper o nexo de causalidade.
+EMBARGOS DE DECLARAÇÃO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL NO ACÓRDÃO - RECURSO VISANDO A MODIFICAÇÃO DO JULGADO - DESCABIMENTO - RECURSO PROTELATÓRIO - APLICAÇÃO DE MULTA. Os ED"s são aptos tão somente a corrigir decisões obscuras, omissas ou contraditórias, ou sanar erro material, o que não é o caso dos autos. Verificado o intuito nitidamente protelatório, há de se aplicar a sanção do art. 1.026, §2º, do Código de Processo Civil.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1.026, § 2º, do CPC, no que concerne à ausência de caráter protelatório dos embargos de declaração com propósito de prequestionamento, sendo indevida a aplicação da multa respectiva, trazendo a seguinte argumentação:
+Permissa Vênia, não se mostra adequada a imposição da multa, prevista no §2º, do art. 1.026, do CPC, tão-só pelo fato do julgamento unânime, desfavorável, em embargos de declaração.
+Assim fosse, a interposição desse já traria consigo uma "má- fé presumida" do recorrente, uma decorrência lógica, o que não é correta, visto que como autor da demanda não se pode imaginar qualquer cunho protelatório.
+Os embargos declaratórios devem ser compreendidos como instrumento de aperfeiçoamento da prestação jurisdicional, reservando-se as sanções processuais às hipóteses em que se faz evidente o abuso na sua oposição, o que não ocorreu no caso vertente.
+Não sendo essa a situação concreta, impositivo o provimento do recurso para exclusão da sanção indevidamente aplicada.
+ ..
+Importa frisar que a oposição de embargos de declaração, ensejar a incidência da referida multa, deve ser reputada "manifestamente protelatória", ou seja, o recurso é manejado sem qualquer sinal de consistência. Ressalte-se, por outro lado, que o ato decisório impositivo da multa, monocrático ou colegiado, exige mínima fundamentação, pela qual o órgão jurisdicional revela o descabimento dos embargos declaratórios, e, assim, o propósito nitidamente procrastinatório da parte que geralmente perdeu a demanda ou teve o seu recurso improvido.
+ ..
+Partindo-se, pois, dessa inarredável premissa, não se me afigura compreensível a aplicação de multa ao litigante que opôs embargos de declaração, quando estes são desacolhidos por maioria de votos.
+ ..
+Outrossim, o estabelecimento da multa, em conta da oposição dos embargos declaratórios, apresenta-se por impertinente.
+Na espécie, não se revela o caráter protelatório desse recurso. Ao invés disso, buscou-se, tão-somente, aclarar-se o critério adotado para a fixação da verba honorária advocatícia, na forma, inclusive, do que resulta disposto no art. 85, § 2º, do CPC.
+A sanção, pois, é desnecessária pois de acordo com entendimento pacífico na jurisprudência, se ao julgar os embargos, o vício persistir ou surgirem novos vícios, pode o embargante opor novos embargos e a esses novos embargos somente pode ser imposta a multa ora em comento se reconhecido o caráter protelatório (fls. 1338-1342).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+O certo é que o acórdão foi bem claro e exaustivo para considerar pelo rompimento do nexo de causalidade, por decorrência do fortuito externo, sendo alheio ao contrato de transporte a ação criminosa dos passageiros no exterior do ônibus coletivo.
+Pontuou-se, assim, que não seria esperado que o motorista tentasse apartar a discussão que se formou do lado de fora do ônibus e que culminou nas agressões ao embargante, sob pena de se colocar também em situação de risco.
+De se destacar que impera, no ordenamento jurídico pátrio, o princípio da livre dicção do direito, isto é, "dai-me os fatos e te darei o direito", o que permite ao julgador analisar de forma ampla a pretensão inicial, atribuindo-lhe o fundamento pertinente, o que fez quando tratou a questão como "fato de terceiro".
+Logo, não há obscuridade, contradição, omissão ou erro material a serem sanados, cuidando os embargos de mera insatisfação por uma decisão desfavorável.
+ ..
+Verificando o caráter meramente protelatório dos embargos, já que as matérias trazidas pelo embargante foram devidamente analisadas, deve ser aplicada multa no valor de 2% do valor atualizado da causa, conforme o art. 1.026, §2º do CPC, a ser revertida em favor da parte embargada (fls. 1330-1331).
+Desse modo, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada no acórdão recorrido, quanto ao caráter protelatório dos embargos de declaração, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível no Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 11.2.2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23.3.2018; AgRg no REsp n. 1.192.745/PE, Rel. Ministro Og Fernandes, Sexta Turma, DJe de 21.3.2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
