@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 255):
+APELAÇÃO CÍVEL. COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL C.C. INDENIZAÇÃO POR PERDAS E DANOS E REINTEGRAÇÃO DE POSSE. Sentença de parcial procedência. Preliminar de cerceamento de defesa afastada. Mérito. Inadimplência verificada. Resolução por iniciativa da vendedora. Rescisão do contrato acarreta a reposição das partes ao "status quo ante". Retenção de 10% do que foi efetivamente pago para compensar os prejuízos decorrentes do desfazimento do negócio. Juros de mora devidos do trânsito em julgado. Mora do comprador. Correção monetária desde os desembolsos. Condenação em indenização por lucros cessantes e multa moratória. Impossibilidade de cumulação. Temas 970 e 971. REsps 1.498.484/DF e 1.635.428/SC. Condenação em lucros cessantes afastada. Benfeitorias. Posse de boa-fé. Adquirentes que têm direito à indenização pelas benfeitorias necessárias e úteis erguidas sobre o imóvel. Apuração do quantum devido pelas partes em liquidação. Distribuição do ônus de sucumbência mantida. Sucumbência mínima da autora. RECURSO ADESIVO DA AUTORA DESPROVIDO E RECURSO DOS RÉUS PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 273/277).
+Nas razões apresentadas (e-STJ fls. 280/295), a recorrente indica dissídio jurisprudencial e desrespeito:
+(i) ao art. 402 do CC/2002, alegando possível cumular a cláusula penal moratória e cobrança da taxa de fruição do imóvel, no período compreendido entre a transmissão da posse aos adquirentes e a devolução do lote à empresa,
+(ii) à Súmula n. 543/STJ, afirmando lícito reter 25% (vinte e cinco por cento) dos valores pagos pelos compradores, ante o distrato imobiliário a que deram causa,
+(iii) ao art. 34, § 1º, da Lei n. 6.766/1979, porque existiriam irregularidades na construção das benfeitorias e a má-fé dos adquirentes a justificar o afastamento dos direitos de indenização e de retenção, e
+(iv) ao art. 1.211 do CC/2002, a fim de autorizar a compensação das benfeitorias e da taxa de fruição devida pelos adquirentes.
+Foram ofertadas contrarrazões (e-STJ fls. 307/314).
+O recurso foi admitido na origem (e-STJ fls. 315/316).
+É o relatório.
+Decido.
+A Corte local concluiu pela existência de bis in idem indenizatório, ante na pretensão da empresa referente à cobrança cumulativa da cláusula penal moratória e da taxa de fruição do imóvel, motivo pelo qual indeferiu a cobrança do segundo encargo (e-STJ fls. 261/263).
+Para infirmar tal entendimento, invocou o art. 402 do CC/2002, o qual, todavia, não apresenta o alcance normativo pretendido, porque nada dispõe da possibilidade de o credor postular indenização suplementar, tampouco da prefixação das perdas e danos e do quantum indenizatório.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A tese de violação da Súmula n. 543/STJ não comporta análise no recurso. Nesse sentido: "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518/STJ).
+A Corte local não se manifestou quanto aos arts. 34, § 1º, da Lei n. 6.766/1979 e 1.211 do CC/2002 sob o enfoque pretendido pela recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguin te, o empecilho das Súmulas n. 282 e 356 do STF.
+O pedido de indenização por benfeitorias foi deferido pela Corte local, nos seguintes termos (e-STJ fl. 263):
+Quanto às benfeitorias realizadas no lote, deve os réus por elas serem indenizados. Eventual discussão sobre a natureza e os valores das benfeitorias deverá ser feita em fase de liquidação de sentença. Os requeridos, possuidores de boa-fé, em razão do contrato firmado entre as partes, tem assegurada a retenção das benfeitorias e acessões e, consequentemente, do imóvel até o pagamento integral da indenização, nos termos do artigo 1.219 do Código Civil.
+Não há como ultrapassar as conclusões do Tribunal de origem sobre a boa-fé dos compradores, a fim de afastar o direito deles à indenização das construções referidas e à retenção do imóvel, visto que, para tanto, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
