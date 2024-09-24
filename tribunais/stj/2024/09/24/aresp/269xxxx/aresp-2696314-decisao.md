@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A. à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento Revisão contratual - Indeferimento do pedido de tutela antecipada que pretendia a redução de mensalidade de plano de saúde, substituindo os reajustes praticados pelos índices da ANS - Inconformismo da autora Discussão que se limita à existência dos requisitos autorizadores da tutela de urgência do art. 300 do CPC que, no caso concreto, estão parcialmente presentes Embora aos contratos coletivos não se aplique o teto do reajuste indicado pela ANS no caso em tela o último reajuste por sinistralidade, de 35% quando o índice da ANS foi de 9,63%, se mostra abusivo Reajuste unilateral, aleatório, sem comprovação com base atuarial idônea que que prima facie se mostram abusivo - Ausência de informação - Risco de dano na possível inadimplência e consequente cancelamento do plano - Medida que é reversível, podendo haver cobrança da diferença para o caso de considerado legal o reajuste Restante da matéria que será resolvido após instrução - Decisão parcialmente reformada para que o último reajuste, de 35%, em relação ao prêmio da autora seja cancelado e substituído pelo índice divulgado pela ANS Decisão parcialmente reformada - Agravo parcialmente provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 421, parágrafo único, do CC, no que concerne à validade do reajuste aplicado no caso tendo em vista que por tratar-se de contrato coletivo não incidem o entendimento e as regras aplicadas ao contratos individuais, trazendo a seguinte argumentação:
+A suspensão dos reajustes ou aplicação dos índices determinados pela ANS aos planos de saúde familiares/individuais, por si só não prosperam, por se tratar de produtos totalmente diferentes, com normas que os regulamentam diferentes, principalmente no que tange aos reajustes.
+ ..
+Ocorre que o fundamento adotado nos leva a concluir que, infelizmente, se desconhece sobre a matéria de aplicação aos reajustes de planos de saúde.
+Isso porque o Recurso Especial Repetitivo também conhecimento como o TEMA 952 do STJ julgou a questão de aplicação dos reajustes por alteração da faixa etária nos contratos individuais e familiares.
+A discussão na presente demanda versa sobre a aplicação do reajuste ANUAL aos contratos coletivos, ou seja, hipótese TOTALMENTE distinta da aplicação do acórdão ora proferido.
+ ..
+Ao certo, as Operadoras de Planos Privados de Assistência à Saúde têm total legitimidade para aplicar o reajuste anual em seus produtos, como forma de manter o equilíbrio econômico do contrato e corrigir as perdas inflacionárias do período, desde que respeitados certos requisitos, conforme regulamentação da própria Agência reguladora.
+Tais contratos coletivos possuem regras próprias e especiais, principalmente no que tange à aplicação dos reajustes anuais, sendo certo que o procedimento para a aplicação dos reajustes anuais não é idêntico para os planos individuais e coletivos.
+No reajuste anual dos produtos individuais, o índice é AUTORIZADO pela ANS, que estipula um percentual único e obrigatório para todo o mercado. Já para os contratos coletivos, como é o caso da recorrida, não há autorização, e sim, a COMUNICAÇÃO da empresa Operadora, que apenas informa o índice que pretende aplicar.
+ ..
+Considerando o tipo de contrato (coletivo), ao ser elaborado o cálculo atuarial para a aplicação dos reajustes anuais no mês do aniversário do contrato considera-se fatores como a utilização do grupo segurado, o risco do contrato, a sinistralidade as variações de custos médicos hospitalares-VCMH, dentro outros.
+Esse reajuste é necessários para a recomposição atuarial do contrato, ou seja, para manter o contrato equilibrado, considerando a rede ofertada à recorrente e a utilização dos demais beneficiários do contrato coletivo.
+Ainda nesse sentido, é necessário destacar que a Resolução RN nº 171, de 29 de abril de 2008 que estabelece critérios para aplicação das contraprestações pecuniárias nos planos privados de assistência à saúde, em seus arts. 13 e seguintes, é clara em afirmar que nos CONTRATOS COLETIVOS as operadoras de planos de saúde deverão apenas comunicar à ANS o percentual estipulado e aplicado para a manutenção do equilíbrio econômico-financeiro no contrato:
+ ..
+Tanto o pedido de suspensão dos reajustes aplicados ao contrato assim como a aplicação dos índices determinados pela ANS aos planos individuais e familiares não somente traz prejuízos ao contrato da recorrente, mas de todos os demais beneficiários que fazem parte do coletivo segurado, o que é inadmissível.
+ ..
+Portanto, repise-se que o reajuste aplicado ao contrato não se figura abusivo, estando em passo com o previsto para contratos desta natureza.
+ ..
+Assim sendo, o contrato deve ser interpretado nos termos estipulados livremente pelos contratantes, sendo válida a cláusula contratual que fundamentou a dívida discutida.
+Ocorre que, no presente feito, somente se discute a abusividade de cláusulas às quais o autor aderiu, que foram aceitas pela estipulante do contrato coletivo por adesão.
+Desta forma, jamais poderia servir de argumento a abusividade de tais cláusulas para que se discuta se esta é válida ou não. Decisão que entendesse isto de forma diversa viola frontalmente a norma lega supracitada.
+O Estado atua através de suas funções (ou Poderes) na sociedade. Assim sendo, a atividade Jurisdicional nada mais é que uma destas.
+Quando o Poder Judiciário atua na liberdade contratual, conforme dispositivo, esta intervenção deve ser mínima.
+ ..
+Ao contrário, trata-se de declaração de abusividade de cláusula que foi estritamente obedecida por todos outros aderentes ao contrato, inclusive pela estipulante.
+Diante disto, é evidente que cabe à recorrida aderir ou não ao contrato, não estipular cláusulas de caráter individual, eis que o contrato tem natureza coletiva.
+Assim sendo é evidente que a intervenção estatal passa longe de ser mínima, mas adentra temas não abrangidos pela causa para limitar a liberdade contratual (fls. 92/99).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide, por analogia, a Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de Recurso Especial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido: "É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF"". (AgInt no AREsp 1.598.838/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 21.8.2020.)
+Confira-se ainda o seguinte precedente: AgInt no AREsp 1.571.882/BA, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º.7.2020; AgInt no REsp 1.830.644/RO, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.6.2020; AREsp 1.610.726/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.6.2020; AgInt no AREsp 1.621.446/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; AgInt no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13.4.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
