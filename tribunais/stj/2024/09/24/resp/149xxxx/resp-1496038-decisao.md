@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOÃO MESQUITA DI NAPOLI contra decisão que não conheceu do Recurso Especial.
+Inconformada, sustenta a parte agravante, em síntese, que
+"nas razões do recurso especial em momento algum houve a pretensão de reexame das provas, pois essas são incontroversas. O que foi demonstrado é que a decisão proferida pelo Tribunal viola e ofende o art. 114, inciso II, do Código de Processo Penal, uma vez que admite ser cobrada uma multa que foi cominada como pena em numa condenação criminal que está prescrita"
+Acrescenta que
+"resta evidente defesa levantada no recurso especial é para aplicação legislação federal, que é clara ao dizer que quando for imposto pena de multa cumulada com outro tipo de pena, no caso foi privativa de liberdade, o prazo prescricional será o mesmo estabelecido para prescrição da pena de liberdade, que, no entanto, foi violada pelo Tribunal. Além do mais, questões sobre prescrição, que é a perda de exercer um direito em razão da inércia frente ao lapso temporal, somente é previsto em lei para cada caso concreto".
+Pede, por fim, o provimento do Recurso Especial.
+Não houve manifestação da parte agravada.
+É o relatório. Decido.
+Trata-se de Recurso Especial, interposto por JOÃO MESQUITA DI NAPOLI, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL. MULTA PENAL. INDEPENDÊNCIA DAS ESFERAS PENAL E ADMINISTRATIVA. SENTENÇA PENAL ABSOLUTÓRIA. RECONHECIMENTO DA PRESCRIÇÃO. PENA PRIVATIVA DE LIBERDADE.
+1. A sentença absolutória criminal vincula a esfera administrativa somente quando for declarada a inexistência do crime ou da autoria. Nas demais hipóteses, como a falta de provas, prescrição, transação e a atipicidade penal, não existe repercussão.
+2. Ao débito oriundo de multa administrativa aplica-se a regra do art. 1º do Decreto 20.910/32, que estabelece o prazo prescricional de 5 (cinco) anos, levando-se em conta o princípio da isonomia para cobrança de créditos em favor ou contra a Administração Pública. Hipótese em que não transcorrido prazo superior a cinco anos entre o vencimento do débito e o ajuizamento da execução fiscal" (fl. 159).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INOCORRÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE.
+1. Não há omissão, contradição ou obscuridade se o julgado decidiu clara e expressamente sobre a questão suscitada no recurso.
+2. Inviáveis os embargos declaratórios para o reexame de matéria já decidida" (fls. 174).
+Alega-se, nas razões do Recurso Especial, ofensa aos arts. 535, II, do CPC/73 e 114, I e II, do Código Penal, sob os seguintes fundamentos: a) não obstante a oposição dos Embargos Declaratórios, o Tribunal de origem deixou de se manifestar acerca da diversos temas que foram trazidos à discussão e eram importantes para a solução do feito; b) a fixação da multa se deu em sentença condenatória e não absolutória, sendo parte da pena, decorrente da condenação criminal e não administrativa; c) a multa imposta cumulativamente com a pena privativa de liberdade com ela prescreve, no mesmo prazo; d) "o trânsito em julgado da sentença condenatória para a defesa ocorreu em 24/08/1999 e a prescrição da pena privativa de liberdade e para a cobrança da multa ocorreu em 23/08/2003. Como a presente ação executiva foi ajuizada em 10/10/2003 efetuou-se a prescrição para sua cobrança" (fl. 187).
+Requer, ao final, "seja conhecido e provido este recurso para modificar a decisão expressa no acórdão de apelação, para reestabelecer os efeitos da sentença de primeiro grau, que reconheceu a prescrição do direito de cobrança da multa criminal, tendo determinada a extinção da execução fiscal" (fl. 188).
+Em sede de contrarrazões (fls. 198-205), a parte recorrida defende a manutenção do acórdão impugnado (fls. 153-160).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 206).
+Com efeito, a jurisprudência do STJ posiciona-se no sentido de que,
+"nos termos do novo entendimento desta Corte, firmado em consonância com o STF, no julgamento da ADI 3.150/DF, ocorrido em 13/12/2018, "a Lei n. 9.268/1996, ao considerar a multa penal como dívida de valor, não retirou dela o caráter de sanção criminal que lhe é inerente por força do art. 5º, XLVI, c, da CF. Como consequência, por ser uma sanção criminal, a legitimação prioritária para a execução da multa penal é do Ministério Público perante a Vara de Execuções Penais" (CC 165.809/PR, Ministro ANTÔNIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, DJe 23/8/2019), razão pela qual não há falar em incompetência do Juízo da execução penal para decidir acerca da prescrição da pena de multa, após o trânsito em julgado da condenação" (STJ, REsp 1.724.316/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 02/06/2020).
+Mais recentemente, a jurisprudência considerou que,
+"quanto à prescrição suscitada pela Defesa na matéria atinente à multa penal, prevalece o entendimento de que a nova redação do art. 51 do Código Penal não retirou o caráter penal da multa. Assim, o prazo prescricional continua sendo regido pelo art. 114, inciso II, Código Penal. Precedentes" (STJ, AgRg no AREsp 2.033.955/SC, Rel. Ministro MESSOD AZULAY NETO, QUINTA TURMA, DJe de 16/08/2023).
+Assim, estando o acórdão recorrido em dissonância com a jurisprudência sedimentada nesta Corte, merece ser provido o recurso, em face do disposto no enunciado da Súmula n. 568 do STJ.
+Ante o exposto, reconsidero a decisão agravada e dou provimento ao Recurso Especial, a fim de que o Tribunal de origem analise a prescrição de acordo com o entendimento expendido na fundamentação do decisum.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL. MULTA PENAL. SENTENÇA PENAL ABSOLUTÓRIA. PRAZO PRESCRICIONAL. PENA PRIVATIVA DE LIBERDADE. PENA DE MULTA. PROVIMENTO AO RECURSO ESPECIAL. DEVOLUÇÃO DOS AUTOS A ORIGEM.
