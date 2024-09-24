@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICIPIO DE RIO DE JANEIRO contra a decisão em que a Presidência do Superior Tribunal de Justiça não conheceu de seu recurso por aplicação analógica da Súmula 182 do Superior Tribunal de Justiça (fls. 239/241).
+A parte agravante se insurge contra a incidência daquele óbice processual alegando a impugnação de todos os fundamentos da decisão de inadmissão do recurso especial.
+Requer a reconsideração da decisão.
+A parte agravada não apresentou impugnação (fl. 265).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+O recurso especial foi interposto, com fundamento no art.  105,  inciso III,  alínea a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 143):
+Agravo interno contra decisão que determinou o desentranhamento de documentos encartados com as razões recursais e a renumeração de páginas dos autos eletrônicos na árvore de peças processuais. Ausência de qualquer elemento trazido pelo recorrente em suas razões que se revele capaz de alterar a solução dada na decisão recorrida, daí por que deve ser mantida por seus próprios fundamentos e pelas considerações ora lançadas no julgamento do presente recurso. Antecedentes embargos de declaração que observaram que de contradição não se tratava a insurgência do recorrente e, por esta razão, foram desprovidos. Pronunciamento recorrido que discutiu a justificativa para a juntada contemporânea dos documentos, daí porque sua o questionamento acerca de sua necessidade é matéria que discrepa ao escopo dos declaratórios. Apelante que se limitou a descrever o conteúdo dos documentos, deixando de demonstrar as razões para encartá-los aos autos na fase recursal. Documentos que já eram existentes antes mesmo do ajuizamento da inicial e se referem aos fatos ali articulados, de modo que não retratam fatos novos. Manutenção da decisão recorrida. Desprovimento do recurso.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega violação do art. 1.022 do Código de Processo Civil (CPC) por suposta omissão de questões relacionadas à presunção de veracidade do título executivo. Sustenta, ainda, afronta ao art. 16, § 3º, da Lei 6.830/1980 ao defender a inadequação da exceção de pré-executividade por necessitar de dilação probatória.
+O Tribunal de origem, ao solucionar a controvérsia, relatou que o agravo interno havia sido interposto contra decisão que tinha determinado o desentranhamento de documentos juntados em recurso de apelação protocolado contra a decisão que acolhera a exceção de pré-executividade em desfavor da parte ora recorrente. Na oportunidade, fundamentou que:
+No mérito, infere-se que nenhuma razão assiste ao recorrente.
+Alega o agravante que os embargos opostos não realizaram o exame de todas as questões pertinentes ao litígio.
+No ponto, é preciso ter claro que os declaratórios tiveram por escopo a decisão que determinou o desentranhamento das peças indevidamente adunadas às razões recursais, e não ao fundo do mérito propriamente dito.
+A embargante fundou sua insurgência em uma alegação de contradição.
+A decisão recorrida, nesta toada, observou que de contradição não se tratava e por esta razão entendeu o julgador que os embargos não mereciam provimento. Assim o fez com base na norma constante do art. 1.022, I do Código de Processo Civil por entender que não havia na decisão afirmações ou fundamentos que conflitam entre si ou levam a resultados distintos ou inversos à luz da conclusão alcançada pelo julgador  estas, sim, as verdadeiras contradições que ensejam a embargabilidade.
+Deveras, tal como pontuado na decisão recorrida, a contradição sanável por embargos é aquela que se nota entre os elementos da própria decisão. A insurgência do então recorrente estava fundada na alegação de que o decisório contrariava dispositivos legais, institutos jurídicos e jurisprudência não-vinculante.
+ ..
+Insurge-se, ainda, sustentando que seria desnecessária a juntada do processo administrativo. Também aqui, não lhe assiste razão.
+O ponto de discussão no pronunciamento recorrido era a justificativa para a juntada contemporânea dos documentos, daí porque sua necessidade é matéria que discrepa ao escopo dos declaratórios. No particular, restou assim lançado na decisão embargada:
+"Na manifestação de fls. 145/146, limitou-se o apelante a descrever o conteúdo dos documentos, deixando de justificar as razões para encartá-los aos autos neste momento processual. Nada obstante, analisando-se a juntada com a devida acuidade, observa-se que os documentos em questão já eram existentes antes mesmo do ajuizamento da inicial e se referem aos fatos ali articulados  portanto, não retratam fatos novos."
+Dessa forma, não há qualquer elemento trazido pelo recorrente em suas razões que se revele capaz de alterar a solução dada na decisão recorrida, daí por que deve ser mantida por seus próprios fundamentos e pelas considerações ora lançadas no julgamento do presente recurso (fls. 146/147).
+O acolhimento da ofensa ao art. 1.022 do Código de Processo Civil (CPC) depende, necessariamente, da ausência de pronunciamento da Corte de origem sobre questão relevante, após a oposição dos competentes embargos de declaração contra a decisão colegiada tida por omissa.
+No caso concreto, observo que não houve oposição de embargos de declaração na origem após a publicação do julgado colegiado, de modo que é inviável o acolhimento da violação ao art. 1.022 do CPC.
+Quanto ao mais, a alegação de violação do art. 16 da Lei 6.830/1980 não foi apreciada pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ante o exposto, reconsidero a decisão de fls. 239/241 para conhecer do agravo e não conhecer do recurso especial.
+Majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
