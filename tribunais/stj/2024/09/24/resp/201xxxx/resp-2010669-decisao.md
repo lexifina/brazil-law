@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por CAHIVA MADEIRAS LTDA, contra a decisão assim ementada, in verbis:
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE CERTIDÕES DE DÍVIDA ATIVA. ICMS. PLEITO DE TUTELA ANTECIPADA NEGADO PELO JUÍZO. PLEITO DE CREDITAMENTO, PARA COMPENSAÇÃO, DO IMPOSTO PAGO NA AQUISIÇÃO DE BENS UTILIZADOS NA PRODUÇÃO DE PAPEL (GÁS CARBÔNICO LÍQUIDO, TELAS, FELTROS, INSTRUMENTOS DE CORTE, PEÇAS DE REPOSIÇÃO, GÁS LIQUEFEITO DE PETRÓLEO - GLP, ÓLEO DIESEL E LUBRIFICANTES).
+PRETENSÃO AFASTADA PELO GRUPO DE CÂMARAS DE DIREITO PÚBLICO DESTE NO IRDR N. 0045417-78.2011.8.24.0023/SC (TEMA 10) EM CAUSA SEMELHANTE. MATÉRIA QUE PENDE DE ANÁLISE PELO SUPERIOR TRIBUNAL DE JUSTIÇA NA CONTROVÉRSIA N. 129. PROBABILIDADE DO DIREITO NÃO EVIDENCIADA. PERIGO DA DEMORA NÃO DEMONSTRADO. MEDIDA DE URGÊNCIA REJEITADA.
+RECURSO DESPROVIDO. "O CREDITAMENTO DO ICMS INCIDENTE SOBRE A AQUISIÇÃO DE PRODUTOS INTERMEDIÁRIOS EMPREGADOS NO PROCESSO PRODUTIVO, NA VIGÊNCIA DA LEI COMPLEMENTAR N. 87/96, DEPENDE DA COMPROVAÇÃO DE SEU CONSUMO IMEDIATO E INTEGRAL, ALÉM DE SUA INTEGRAÇÃO FÍSICA AO PRODUTO FINAL"(IRDR TEMA 10/TJSC).
+Opostos embargos de declaração, estes foram rejeitados.
+O recorrente, neste recurso especial aponta violação dos arts. 19 e 20 da LC 87/1996, argumentando, em suma, que é devido o creditamento de ICMS na aquisição de mercadorias essenciais, consumidas no processo produtivo e que se integram ao produto final, in casu, telas, mantas e feltros, no processo de industrialização de papel.
+Este Superior Tribunal de Justiça tem entendimento pacificado no sentido de que a partir da vigência da Lei Complementar n. 87/1996, é legal o aproveitamento dos créditos de ICMS na compra de produtos intermediários utilizados nas atividades fins da sociedade empresária, ainda que consumidos ou desgastados gradativamente.
+Neste mesmo diapasão, confiram-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ICMS. AQUISIÇÃO DE MATERIAIS (PRODUTOS INTERMEDIÁRIOS). ITENS ESSENCIAIS AO PROCESSO PRODUTIVO E DESGASTADOS OU CONSUMIDOS GRADATIVAMENTE. CREDITAMENTO. LEGITIMIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Para a comprovação do dissenso pretoriano, impõe-se que os acórdãos confrontados tenham apreciado matéria idêntica, à luz da mesma legislação federal, dando-lhes, porém, soluções distintas, devendo a divergência apontada ser atual, excluindo-se o debate acerca de questões superadas e pacificadas no âmbito do STJ. Precedentes.
+III - A 1ª Seção deste Superior Tribunal de Justiça firmou entendimento na linha do acórdão embargado segundo o qual se revela cabível o creditamento referente à aquisição de materiais (produtos intermediários) empregados no processo produtivo, inclusive os consumidos ou desgastados gradativamente, desde que comprovada a necessidade de sua utilização para a realização do objeto social da empresa - essencialidade em relação à atividade-fim.
+IV - Nos termos da Súmula n. 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no AgInt nos EREsp n. 2.054.083/RJ, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 24/4/2024, DJe de 2/5/2024.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. APROVEITAMENTO DE CRÉDITO. COMBUSTÍVEL EMPREGADO NA ATIVIDADE RURAL (ÓLEO DIESEL). POSSIBILIDADE. LEI COMPLEMENTAR 87/96. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A LC nº 87/1996 autoriza o creditamento de ICMS decorrente da aquisição de combustível empregado na produção rural.
+No caso concreto, dois laudos periciais atestaram que o óleo diesel adquirido pelo contribuinte foi empregado no processo agroindustrial. Assim, reconhecido a legalidade do aproveitamento de crédito do ICMS sobre aquisição de óleo diesel consumido no processo produtivo a partir de 1º de janeiro de 1998, de acordo com o art. 33 da LC 87/96 (em sua redação original), faz jus o contribuinte, ao creditamento do referido imposto, nos termos da jurisprudência colacionada.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.505.188/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/11/2019, DJe de 19/11/2019.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a suspensão do crédito tributário
+Publique-se. Intimem-se.
+EMENTA
