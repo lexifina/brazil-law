@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado em 5/5/2023 contra ato atribuído ao Secretário da Polícia Militar do Estado do Rio de Janeiro, consistente no ato administrativo que excluiu o Impetrante dos quadros da corporação, decorrente de processo administrativo disciplinar.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, em decisão monocrática, denegou a segurança pleiteada, ficando consignado que o Secretário de Estado não possui legitimidade ad causam para figurar no polo passivo do writ.
+O referido julgado foi assim ementado, in verbis:
+Mandado de Segurança. Direito Administrativo. Policial Militar excluído dos quadros da Corporação. Alegação de ilegalidade do ato de exclusão praticado pelo Comandante-Geral da Polícia Militar do Estado do Rio de Janeiro - PMERJ. Ilegitimidade passiva do Secretário de Estado de Polícia Militar do Estado do Rio de Janeiro. Indicação errônea da autoridade coatora. Orientação jurisprudencial pacífica do STJ no sentido de que, "se houver equívoco na indicação da autoridade coatora, não é adequado oportunizar a emenda à inicial do mandado de segurança, caso a correção implique na alteração da competência do órgão jurisdicional, devendo ser extinto o processo sem resolução do mérito" (AgInt no AREsp 1745229/SP). Extinção liminar do feito sem resolução do mérito na forma do artigo 485, VI, do Código de Processo Civil, c/c artigo 6º, §5º da Lei nº 12.016/2009
+Interposto agravo interno, este foi desprovido, ficando assim ementado o respectivo acórdão, in verbis:
+Agravo Interno em Mandado de Segurança. Direito Administrativo. Policial Militar excluído dos quadros da Corporação. Alegação de ilegalidade do ato de exclusão praticado pelo Comandante-Geral da Polícia Militar do Estado do Rio de Janeiro - PMERJ. Ilegitimidade passiva do Secretário de Estado de Polícia Militar do Estado do Rio de Janeiro. Indicação errônea da autoridade coatora. Orientação jurisprudencial pacífica do STJ no sentido de que, "se houver equívoco na indicação da autoridade coatora, não é adequado oportunizar a emenda à inicial do mandado de segurança, caso a correção implique na alteração da competência do órgão jurisdicional, devendo ser extinto o processo sem resolução do mérito" (Aglnt no AREsp 1745229/SP). Inaplicabilidade da Teoria da Encampação em razão da modificação da competência originária. Extinção liminar do feito sem resolução do mérito na forma do artigo 485, VI, do Código de Processo Civil, c/c artigo 6o, §5º da Lei nº 12.016/2009. Decisão monocrática que se mantém por seus próprios fundamentos. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados.
+O Recorrente defende, em síntese, a legitimidade do Secretário de Estado para figurar no polo passivo, uma vez que, nos termos do Decreto Estadual n. 46.600/2019, esse acumula funções com a de Comandante-Geral da PMERJ.
+Assevera, ainda, que ocorreu a extinção da punibilidade pela ocorrência da prescrição.
+Apresentadas contrarrazões.
+O Ministério Público opina pelo não provimento do recurso ordinário.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+O entendimento desta Corte Superior é no sentido de que, "para efeito de definição da legitimidade passiva ad causam no mandado de segurança, autoridade coatora é aquele que pratica o ato vergastado e que detém, por isso mesmo, capacidade para seu desfazimento" (AgRg no RMS 39.566/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 4.12.2013).
+Veja-se:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA PARA A CAUSA. SECRETÁRIO DE ESTADO DE EDUCAÇÃO DE MINAS GERAIS. CONCURSO PÚBLICO DE PROFESSOR. NOMEAÇÃO. EXTINÇÃO DO PROCESSO, DE OFÍCIO, SEM RESOLUÇÃO DO MÉRITO. RECURSO ORDINÁRIO PREJUDICADO .
+1. In casu, entende a impetrante que teria direito líquido e certo à convocação e nomeação no cargo de professora, em vista da habilitação no concurso público regido pelo Edital nº 04/2014, tendo, todavia, dirigido a ordem contra da Secretária de Estado de Educação, quando a autoridade competente para o provimento pretendido é o Governador do Estado.
+2. "Para efeito de definição da legitimidade passiva ad causam no mandado de segurança, autoridade coatora é aquele que pratica o ato vergastado e que detém, por isso mesmo, capacidade para seu desfazimento" (AgRg no RMS 39.566/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 4.12.2013).
+3. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+4. Embargos de Declaração providos, tornando sem efeito a decisão de fls. 320-325, e-STJ, para negar provimento ao Recurso em Mandado de Segurança da embargada Renata Ladeira Santos Resende e prover os Embargos de Declaração do Estado de Minas Gerais com efeitos modificativos.
+(EDcl no RMS n. 55.062/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/11/2018, DJe de 17/12/2018.)
+No caso dos autos, o Recorrente busca a anulação de ato administrativo que determinou sua exclusão dos quadros da Polícia Militar do Estado do Rio de Janeiro, decorrente de decisão do Comandante-Geral da PMERJ em processo administrativo disciplinar, publicada no Boletim da PM n. 22, de 1 de fevereiro de 2023.
+Nos termos do disposto na alínea e do inciso I do art. 4º do Anexo I do Decreto n. 46.600/2019, compete ao Secretário de Estado da Polícia Militar "acumular as funções de Comandante Geral da Polícia Militar, orientando e direcionando as atividades da Polícia Militar do Estado do Rio de Janeiro, com foco no cumprimento de sua missão Constitucional".
+Veja-se:
+Art. 4º Ficam definidas as competências da Secretaria de Estado de Polícia Militar, na seguinte forma:
+I - Compete ao Secretário de Estado de Polícia Militar:
+a) dirigir, coordenar, controlar e fiscalizar as atividades dos órgãos da Secretaria de Estado de Polícia Militar;
+b) assistir ao Governador do Estado nos assuntos referentes à área de competência da Secretaria;
+c) coadjuvar nas relações governamentais com órgãos públicos federais, estaduais e municipais, autoridades civis, entidades políticas, religiosas, classistas e o público em geral;
+d) promover os meios ou medidas necessárias ou indispensáveis ao pleno funcionamento e à completa realização das atividades a cargo da Secretaria;
+e) acumular as funções de Comandante Geral da Polícia Militar, orientando e direcionando as atividades da Polícia Militar do Estado do Rio de Janeiro, com foco no cumprimento de sua missão Constitucional.
+Ademais, a Lei Estadual n. 443/1981, em conjunto com Decreto Estadual n. 46.544/2019, dispõe que a Polícia Militar do Estado do Rio de Janeiro é subordinada ao Secretário de Estado da Polícia Militar.
+Veja-se:
+Lei Estadual n. 443/1981
+Art. 2º - A Polícia Militar do Estado do Rio de Janeiro, subordinada ao Secretário de Estado de Segurança Pública, é uma instituição permanente, organizada com base na hierarquia e na disciplina, destinada à manutenção da ordem pública no Estado do Rio de Janeiro, sendo considerada Força Auxiliar, reserva do Exército.
+Decreto Estadual n. 46.544/2019
+Art. 4º Fica extinta a Secretaria de Estado de Segurança Pública, que será sucedida para todos os fins de direito pela Secretaria Executiva do Conselho de Segurança Pública, responsável pela transição gradual das funções da secretaria extinta para a Secretaria de Estado da Polícia Civil e para a Secretaria Estado da Polícia Militar.
+Neste contexto, é forçoso concluir que o Secretário de Estado da Polícia Militar do Rio de Janeiro, autoridade apontada como coatora na inicial do mandamus, detém capacidade para eventual desfazimento do ato de exclusão do Impetrante/Recorrente dos quadros da PMERJ, possuindo, então, legitimidade passiva ad causam no presente mandado de segurança.
+Desse modo, reconhecida a legitimidade passiva da autoridade apontada na inicial como coatora, devem os autos retornarem ao Tribunal de origem para, superado o referido óbice, prosseguir na apreciação das demais questões pertinentes.
+Ante o exposto, com fulcro no art. 34, XVIII, c, do RISTJ, dou provimento ao recurso ordinário em mandado de segurança, para afastar a ilegitimidade passiva do Secretário de Estado da Polícia Militar e determinar o retorno dos autos ao Tribunal de origem para prosseguir no julgament o das demais questões do mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
