@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por CINTIA DE OLIVEIRA SILVA à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissi bilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, suste nta a parte embargante:
+Data venia, em que pese o respeitável entendimento da douta Ministra que proferiu a decisão de conhecimento do agravo e não conhecimento do Recurso Especial, existe uma omissão relevante a ser sanada, e que se não for sanada deixará a violação à norma federal do art. 927 do Código Civil passar entre as portas do Tribunal da Cidadania, este que tem a função precípua de manter íntegra e inviolável a legislação federal brasileira.
+Não um simples equívoco, mas uma omissão que também causa à embargante um prejuízo econômico compensatório, por falta da justa e devida reparação civil, decorrente de um ato ilícito expressamente reconhecido pelo acórdão do TJSC (fl. 446).
+Data venia, se analisarmos detidamente a fundamentação do Tribunal de Justiça de Santa Catarina, vê-se o reconhecimento expresso de ato ilícito cometido pelo Município de Lages, pelo que não há necessidade de o STJ reanalisar fatos e provas, mas tão- somente fazer valer o art. 927, caput, do Código Civil, que preceitua:  ..  - fl.447.
+Os danos causados à ex-servidora pelo ente municipal também foram reconhecidos pelo TJSC, quando afirma que a administração exonerou a servidora do cargo que exercia há 9 (nove) anos, e tudo ocorreu por ato ilícito do Município.
+ ..
+Destarte, se o Tribunal de Justiça Catarinense expressamente já reconheceu que o Município de Lages atuou em nomeação irregular e por ato inconstitucional, é evidente que também reconheceu o ato ilícito, porque não pode existir ato inconstitucional que seja lícito.
+A omissão relevante a ser sanada nestes aclaratórios, é o fato de a eminente Ministra Relatora, poder aplicar do art. 927, caput, do Código Civil sem a reanálise de fatos e provas, considerando as partes transcritas, grifadas e sublinhadas do acórdão recorrido, que demonstram a desnecessidade de revolver as matérias fáticas e probatórias, uma vez que a embargante não pretendem sejam revistas, mas que tão- somente, diante do reconhecimento expresso do TJSC de que houve ato ilícito e dano perpetrado pelo Município de Lages em detrimento da embargante, seja observado e aplicado o art. 927, caput, do Código Civil ao caso destes autos (fl. 448).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+N os termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
