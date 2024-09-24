@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE IRATI com fundamento no art. 105, III, a, da Constituição Federal.
+O feito decorre de cumprimento individual de sentença coletiva o qual restou extinto ante o reconhecimento da prescrição. O valor atribuído à causa foi de R$ 282.019,79 (duzentos e oitenta e dois mil e dezenove reais, setenta e nove centavos), em fevereiro de 2022.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ deu provimento à apelação do particular para afastar a prescrição em acórdão assim ementado:
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TRANSCURSO DE MENOS DA METADE DO PRAZO ANTES DO PRIMEIRO MARCO INTERRUPTIVO. EXECUÇÃO PROPOSTA ANTES DE TRANSCORRIDOS CINCO ANOS. SENTENÇA CASSADA.
+RECURSO PROVIDO.
+No presente recurso especial, o recorrente aponta violação dos arts. 489, § 1º, VI, do CPC/2015 e 9º do Decreto n. 20.910/32. Sustenta, em síntese, a ocorrência de prescrição da pretensão executiva.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Sobre a alegada violação do art. 489, § 1º, do CPC/2015, por suposta ausência de fundamentação do acórdão recorrido, verifica-se não assistir razão ao recorrente.
+Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação do art. 489 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ANULATÓRIA DE ATO JURÍDICO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+(..)
+2. Consoante a jurisprudência deste Tribunal Superior, a ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação ao artigo 489 do CPC/15 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese. Precedentes.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1315147/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe 04/10/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. NÃO INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. MULTA (ASTREINTES). REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Deve ser rejeitada a alegada violação ao artigo 489, §1º, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp 1728080/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/11/2018, DJe 14/11/2018.)
+Em relação a prescrição o acórdão recorrido assim consignou à fl. 278:
+A Corte Suprema, por sua vez, passou a interpretar de forma restritiva o art.9º, ao declarar que o prazo somente se reinicia da metade quando o período inicialmente transcorrido for igual ou superior a 2,5 anos.
+É o que estabelece a Súmula 383:
+"A prescrição em favor da Fazenda Pública recomeça a correr, por dois anos e meio, a partir do ato interruptivo, mas não fica reduzida aquém de cinco anos, embora o titular do direito a interrompa durante a primeira metade do prazo."
+No presente caso, o processo de conhecimento transitou em julgado em 18.3.2003 e a execução coletiva foi proposta em 05.11.2003 (menos de 8 meses após o início do prazo). O processo executivo foi extinto sem resolução do mérito, tendo transitado em julgado em 16.10.2018. A execução individual foi, então, ajuizada em 17.2.2022 (cerca de 3 anos e 4 meses depois).
+Ressalte-se, ainda, que o Superior Tribunal de Justiça já decidiu que a execução coletiva interrompe o prazo para a propositura da execução individual:
+"(..) Há jurisprudência consolidada desta Corte de que a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há inércia dos beneficiários do título. Precedentes. (..) 8 "
+Assim, tendo em vista que transcorreram, no total, menos de 5 anos (entre o trânsito em julgado da ação de conhecimento e a propositura da execução coletiva; e entre o trânsito em julgado da execução coletiva e a propositura da execução individual), não há que se falar em prescrição, devendo a sentença ser cassada e o trâmite processual retomado na origem.
+O entendimento adotado no acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça no sentido de que "a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há inércia dos beneficiários do título. Precedentes" (AgInt no REsp 1.960.015/PE, relator Ministro Og Fernandes, Segunda Turma, DJe de 1º/4/2022).
+No mesmo sentido, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. INDEVIDA INOVAÇÃO RECURSAL. CUMPRIMENTO DE SENTENÇA. PRETENSÃO INDIVIDUAL EXECUTIVA. PRESCRIÇÃO. AFASTADA. EXECUÇÃO COLETIVA. AGRAVO INTERNO DESPROVIDO.
+1. É defeso à parte inovar em agravo interno, apresentando argumento não esboçado nas razões do recurso especial, dada a preclusão consumativa.
+2. Verifica-se que o Tribunal de origem julgou a demanda em consonância com a jurisprudência do Superior Tribunal de Justiça firmada no sentido de que "a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há inércia dos beneficiários do título. Precedentes" (AgInt no REsp 1.960.015/PE, relator Ministro Og Fernandes, Segunda Turma, DJe de 1º/4/2022), atraindo, portanto, a incidência da Sumula 83/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.110.888/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO COLETIVA. COISA JULGADA QUE NÃO IMPEDE A PROPOSITURA DE EXECUÇÕES INDIVIDUAIS. ART. 103, § 2º, DO CDC. PRESCRIÇÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir empecilho ao conhecimento do Recurso Especial.
+2. Ao decidir a controvérsia, o Tribunal de origem anotou: "4. De início, cumpre ressaltar que, em tese, a ação proposta individualmente não gera litispendência com a ação coletiva na fase de cognição, porque o autor individual fica fora da eficácia da coletiva. 5. Ocorre que, no presente caso, houve execução da ação coletiva proposta pelo sindicato, e esta foi arquivada pela prescrição, de modo que o próprio título coletivo perdeu a eficácia, não podendo mais ser executado. 6. Dito de outra forma, fora consumada a prescrição do título formado na ação coletiva, e que agora se quis executar individualmente. Mas havendo a prescrição do título, a coisa julgada se forma".
+3. O aresto recorrido destoa da jurisprudência do STJ que determina a aplicação do art. 103, § 2º, do CDC ao processo de execução, pois a coisa julgada formada em Ação Coletiva não atinge os interessados que não intervieram na lide como litisconsortes.
+4. Acerca da prescrição, o órgão julgador registrou: " ..  7. De outra banda, também não colhe a alegação dos exequentes, ora agravados, de que o prazo prescricional se contaria a partir de 2017, nos termos do acórdão prolatado no Recurso Especial 1.336.026/PE, de 22.06.18 ("(..) o prazo prescricional , para propositura da execução ou cumprimento de sentença, conta-se a partir de 30/6/2017", afastando a ocorrência de 5 anos de prescrição, para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973), caso dos autos.), porque, para além de no caso concreto já haver coisa julgada que reconheceu a prescrição do título, como dito, essa tese de prazo prescricional a partir de 2017 só se aplicaria se não tivesse sido possível o ajuizamento antes, mercê da falta de elementos para o cálculo, que estariam em poder do executado, aguardando-se a entrega. Não é o caso dos autos, pois, pelo menos, desde a promoção das execuções coletivas, tais elementos de cálculo estavam à disposição da parte exequente, através do sindicato que, sabe-se, aforou ações executivas do título em questão".
+6. Também nesse ponto o acórdão está em dissonância do posicionamento pacífico desta Corte, visto que "a propositura da execução coletiva tem o condão de interromper o prazo prescricional para a propositura da execução individual, pois não há inércia dos beneficiários do título", bem como que o caso "enquadra-se na modulação de efeitos do Recurso Especial repetitivo n. 1.336.026/PE (Tema n. 880), por ter a decisão exequenda transitado em julgado em agosto de 2006, sob a regência do CPC/1973, e a execução ter dependido do fornecimento de fichas financeiras, independentemente de elas terem sido apresentadas na execução coletiva" (AgInt no REsp 1.960.015/PE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 1.4.2022).
+7. Agravo Interno não provido.
+(AgInt no REsp n. 2.117.397/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/5/2024, DJe de 4/6/2024.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
