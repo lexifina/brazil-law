@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE MOGI DAS CRUZES se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 196):
+APELAÇÃO CÍVEL - Ação declaratória c. c repetição de indébito - IPTU - Templos de qualquer culto - Pretendido reconhecimento da imunidade. 1) A imunidade, prevista no inciso VI do art. 150 da Constituição Federal, deve ser interpretada em conjunto com o § 4º do mesmo artigo, compreendendo o patrimônio, a renda e os serviços relacionados com as finalidades essenciais das entidades - Entendimento consolidado dos C. STF e STJ de que cabe à Municipalidade demonstrar que os imóveis pertencentes a essas entidades estão desvinculados da destinação institucional. 2) Irrelevância do fato de o imóvel tributado ser de propriedade de terceiro, pois o bem está sob a posse direta da entidade religiosa, compromissária compradora daquele - Precedentes desta C. 15ª Câmara. 3) Repetição do indébito que deve retroagir até 30/01/2018, data em que a autora obteve a posse do imóvel tributado. 4) Alegação de ausência de comprovação do pagamento indevido - Descabimento - Apuração dos valores a serem repetidos em liquidação de sentença - Autora que, ademais, já se desincumbiu do seu ônus de prova. 5) Correção monetária e juros de mora - Valores que deverão ser atualizados pela Taxa SELIC - Inteligência do art. 3º da Emenda Constitucional nº 113/2021 - Sucumbência mínima da autora - Sentença parcialmente reformada - Recurso parcialmente provido.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 32, 34, 114 ,116 e 144, todos do Código Tributário Nacional (CTN) ao defender o afastamento da repetição de indébito dos valores pagos a título de Imposto Predial e Territorial Urbano (IPTU) do exercício de 2018.
+Aduz que o vínculo da instituição religiosa com o imóvel iniciou-se em 30.1.2018, devendo ser limitada a restituição ao exercício de 2019 em diante.
+A parte adversa apresentou contrarrazões (fls. 227/238).
+É o relatório.
+O Tribunal de origem determinou que a repetição do indébito deveria retroagir à data em que houve imissão na posse, ou seja, 30/1/2018, ocasião em que o bem ficou efetivamente à disposição da entidade religiosa.
+A propósito, cito trechos do acórdão recorrido:
+Nada obstante, a sentença merece reforma na parte em que condenou a Municipalidade à repetição do indébito dos pagamentos efetuados nos últimos 05 (cinco) anos.
+Isto porque, conforme se observa dos autos originários, a apelada adquiriu o imóvel tributado mediante instrumento particular de compromisso de compra e venda não levado a registro (fls. 110/117), com imissão na posse em 30/01/2018 (fls. 114, cláusula 4ª), razão pela qual a repetição do indébito deve retroagir até essa data, quando o bem ficou efetivamente à disposição da entidade religiosa.
+Com relação à comprovação do pagamento indevido, recentemente a Egrégia Primeira Seção do STJ firmou o entendimento no sentido de que: "para o ingresso da ação de repetição de indébito decorrente de cobrança de taxa de iluminação pública, declarada inconstitucional pelo STF, não é necessário que o contribuinte instrua sua pretensão com todos os comprovantes, basta que comprove ser o titular da exação.
+(..)
+De sorte que compete à autora comprovar os efetivos pagamentos quando da liquidação da sentença, nos termos do art. 509 do CPC, ocasião em que será apurado o quantum debeatur.
+Isto porque a jurisprudência da Corte Superior, em razão do princípio da instrumentalidade das formas, acabou por relativizar a exigência da juntada dos comprovantes de pagamento com a inicial, deixando, contudo, tal comprovação para momento posterior, qual seja, a fase de liquidação de sentença (fls. 203/204).
+A parte recorrente, por sua vez, aduz que o fato gerador do IPTU relativo ao exercício de 2018 "se dá todo dia 01 de janeiro de cada ano, como estabelece o art. 4º da Lei Complementar Municipal n. 04/2001" (fl. 210), o que afastaria a repetição concedida pois nessa data não havia vínculo da instituição religiosa com o imóvel.
+Verifico que a matéria conforme suscitada pelo recorrente não foi apreciada pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial porque não preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ademais, ainda que superado o óbice apontado, não seria caso de acolhimento do recurso pois a alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local (Lei Complementar Municipal 4/2001), providência vedada em recurso especial.
+Desse modo, aplico à espécie, por analogia, o enunciado 280 da Súmula do Supremo Tribunal Federal ("Por ofensa ao direito local não cabe recurso extraordinário").
+A análise da pretensão recursal demanda exame de legislação local, providência que é vedada a esta Corte Superior ante o óbice da Súmula 280/STF. Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRECEITO CONSTITUCIONAL. STF. COMPETÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JURISPRUDÊNCIA DO STJ. CONFORMIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA E LEGISLAÇÃO LOCAL. ANÁLISE. IMPOSSIBILIDADE
+1. Segundo jurisprudência pacífica desta Casa de Justiça, é inviável a análise de irresignação fundada em suposta afronta a dispositivo constitucional, uma vez que essa atribuição compete, exclusivamente, à Suprema Corte, nos termos do art. 102, III, da CF.
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na sua Súmula 83.
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7 do STJ).
+4. Hipótese em que infirmar o entendimento alcançado pela Corte de origem demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via de recurso especial.
+5. A análise da pretensão depende do exame de legislação local, o que também não se mostra possível, em sede de apelo nobre, incidindo in casu o óbice da Súmula 280 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.446.489/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/8/2024, DJe de 16/8/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimem-se.
+EMENTA
