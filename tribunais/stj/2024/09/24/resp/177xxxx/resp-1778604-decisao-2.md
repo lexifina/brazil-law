@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOCEL JOSE LIMA contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que inadmitiu recurso especial dirigido contra o acórdão prolatado na apelação/remessa necessária n. 5008437-59.2011.4.04.7000/PR.
+Consta dos autos a parte recorrida ajuizou ação buscando a concessão do benefício de aposentadoria especial mediante o reconhecimento de períodos de atividade especial e a conversão de períodos de atividade comum. O pedido foi julgado procedente, em sentença confirmada em sede de apelação, sendo determinada a antecipação dos efeitos da tutela, com base no então vigente art. 461 do CPC/73, e implantado o benefício.
+Inconformado, o INSS interpôs recurso especial, que foi provido, com devolução dos autos ao Tribunal a quo, para novo julgamento. Desta feita, o acórdão afastou a concessão da aposentadoria especial, tendo sido deferida apenas a aposentadoria por tempo de contribuição. Os embargos de declaração da autarquia previdenciária, requerendo a aplicação do Tema n. 692 do STJ quanto à devolução de valores recebidos por força de antecipação dos efeitos da tutela posteriormente revogada, foram rejeitados.
+Seguiu-se a interposição de novo recurso especial, especificamente quanto à devolução dos valores recebidos antecipadamente. A Exma Ministra Asussete Magalhães, então relatora, determinou a devolução do feito "nos termos do art. 1.040 do CPC/2015, o presente recurso: (a) tenha seguimento negado, se o acórdão recorrido coincidir com a orientação do STJ, ou (b) tenha novo exame, na origem, se o acórdão recorrido contrariar a orientação desta Corte" (fl. 1104).
+Em juízo de retratação, a Corte a quo assim decidiu (fl. 1282):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. TEMA 692 STJ. 1. Se o acórdão desta Instância estiver em dissonância com as teses jurídicas fixadas pelo Supremo Tribunal Federal no julgamento de recurso extraordinário submetido à sistemática da Repercussão Geral, deve ser realizado o juízo de retratação para adequação do julgado, consoante artigo 1.040, II, do Código de Processo Civil. 2. Caso em que a decisão proferida pela Turma deste Tribunal, ao julgar o presente recurso, diverge do entendimento pacificado pelo STJ quanto ao Tema 692.
+O acórdão recorrido, ao determinar a restituição dos valores recebidos pela parte autora, por força de antecipação da tutela posteriormente revogada, estabeleceu as seguintes restrições: a) os descontos não podem resultar em benefício abaixo do salário-mínimo; b) o percentual de desconto fixado deve garantir o mínimo existencial, que se reflete na preservação da dignidade do devedor e de sua família.
+Defende o recurso especial do segurado que "a situação dos autos se enquadra nas hipóteses fixadas no Tema 629/STJ de irrepetibilidade dos valores antecipados" (fl. 1242), visto que a devolução dos valores recebidos a título de tutela antecipada em ações previdenciárias era matéria controvertida à época. Aduz que não bastasse a divergência, o acórdão regional violou o disposto nos arts. 1º e 2º da Lei n. 8.213/91.
+Assim, requer "a reforma do Acórdão Regional, para que seja afastada a determinação de devolução dos valores recebidos em antecipação de tutela a título de Aposentadoria" (fl. 1250).
+Sem contrarrazões, o apelo raro foi inadmitido (fls. 1273-1275).
+É o relatório.
+Decido.
+A Corte de origem não admitiu o apelo nobre porque é incabível a interposição de recurso especial ou extraordinário contra o julgamento que aplica a sistemática da repercussão geral ou dos recursos repetitivos. Todavia, a parte Agravante, nas razões do agravo em recurso especial, não impugnou o fundamento constante da decisão agravada.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E PREVIDENCIÁRIO. MINUTA QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
