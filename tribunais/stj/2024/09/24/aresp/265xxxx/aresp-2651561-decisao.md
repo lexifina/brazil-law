@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por Paulo Henrique de Faria Saldanha em face de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 602):
+AGRAVO DE INSTRUMENTO - CONCURSO PÚBLICO - ILEGALIDADE DE ATO ADMINISTRATIVO QUE DECLAROU INAPTIDÃO DO CANDIDATO - AUSENCIA - IMPOSSIBILIDADE DO JUDICIÁRIO ADENTRAR AO MÉRITO ADMINISTRATIVO - PRESUNÇÃO DE LEGITIMIDADE DO ATO ADMINISTRATIVO - ÔNUS DA PROVA - REQUISITOS DA TUTELA DE URGÊNCIA - NÃO PREENCHIDOS. Cediço que a atuação do Poder Judiciário no controle dos atos administrativos limita-se aos aspectos da legalidade e moralidade, obstaculizado o adentrar do âmbito do mérito administrativo. Notório que a concessão da tutela provisória de urgência depende do preenchimento concomitante dos requisitos previstos no art. 300 do CPC (probabilidade do direito e perigo de dano ou o risco ao resultado útil do processo), bem como a inexistência perigo de irreversibilidade dos efeitos da decisão. A presunção de veracidade e legitimidade inerente aos atos administrativos só pode ser desconstituída apenas por provas robustas e incontroversas que, nos moldes do art. 373, I, do CPC, incumbe ao autor.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 655/659).
+No recurso inadmitido, em apertadíssima síntese, sustenta a parte agravante violação ao art. 300 do CPC, ao argumento de que se encontram presentes os requisitos para o deferimento do pedido de antecipação dos efeitos da tutela.
+Já nas razões do agravo, aduz a inaplicabilidade da Súmula 7/STJ ao caso, reprisando, no mais, a argumentação expendida no apelo especial.
+Contraminuta às fls.763/769 e 775/783.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+Como cediço, para que se defira o pedido de tutela provisória de urgência e, assim, seja concedido o provimento, é necessário que a parte requerente demonstre concomitantemente o fumus boni iuris e o periculum in mora: a plausibilidade do direito alegado, consubstanciada na elevada probabilidade de êxito do recurso interposto; e o perigo de lesão grave e de difícil reparação ao direito da parte. Nesse sentido, mutatis mutandis: AgInt na Pet n. 13.893/AC, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 6/4/2021.
+Nessa linha de ideias, a revisão das premissas fáticas que levaram o Tribunal de origem indeferir o pedido de antecipação dos efeitos da tutela formulado pela parte ora recorrente esbarra nos óbices das Súmula 7/STJ e 280/STF.
+A propósito, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. TUTELA DE URGÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 7/STJ E 735/STF. ACÓRDÃO QUE CONTÉM FUND AMENTO CONSTITUCIONAL SUFICIENTE À MANUTENÇÃO DO QUE DECIDIDO. NÃO IMPUGNAÇÃO POR MEIO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Em regra, é incabível o recurso especial contra decisão proferida em sede de liminar ou antecipação de tutela, à vista da sua natureza precária, nos termos do disposto na Súmula n. 735/STF, revelando-se cabível a mitigação de tal enunciado sumular especificamente na hipótese em que indicada a ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015).
+3. Todavia, na espécie, a revisão da conclusão a que chegou a Corte de origem a respeito do não preenchimento dos requisitos necessários à concessão da tutela de urgência demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, por força do óbice contido na Súmula 7/STJ.
+4. Segundo a inteligência da Súmula 126/STJ, a não impugnação de fundamento constitucional suficiente à manutenção do que decidido pela Corte de origem, por meio da interposição de recurso extraordinário, obsta o conhecimento do recurso especial.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.244.791/GO, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 16/8/2023.) - Grifo nosso
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
