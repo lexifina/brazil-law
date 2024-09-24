@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de VITOR RIBEIRO e EVANDRO LOPES DOS SANTOS, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA MILITAR DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que os Pacientes tiveram a prisão preventiva decretada, pela prática, em tese, dos delitos previstos no artigo 254, alíneas "a" e "b", c. c. o artigo 255, alíneas "a", "b" e "e", ambos do CPPM.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça Militar. A ordem foi denegada pela Corte de origem, em acórdão (fls. 55-61), assim ementado:
+"HABEAS CORPUS. POLICIAL MILITAR. DECRETAÇÃO DA PRISÃO PREVENTIVA. INVESTIGAÇÃO PELA SUPOSTA PRÁTICA DE CRIMES ENVOLVENDO DESVIO DE DINHEIRO PÚBLICO. ALEGAÇÃO DE FALTA MOTIVAÇÃO IDÔNEA A JUSTIFICAR A PRISÃO E DE VULNERAÇÃO AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E DA FUNDAMENTAÇÃO DAS DECISÕES. INEXISTÊNCIA. CUSTÓDIA CAUTELAR MANTIDA. 1. A decisão combatida está fundamentada, jurídica e faticamente, calcada em elementos concretos. 2. Indícios veementes de autoria e materialidade da prática de crimes graves contra o erário e administração pública. 3. Fundamentação, ainda que concisa e objetiva, é explícita e bastante suficiente para justificar a segregação cautelar na hipótese. 4. Impossibilidade de concessão de liberdade provisória. 6. Denegada a ordem." (fls. 55-56)
+Na hipótese, a Defesa alega a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a prisão cautelar determinada em desfavor dos Pacientes.
+Requer a concessão da ordem liminarmente, e, no mérito, com a revogação da segregação cautelar.
+É  o  relatório. DECIDO.
+In casu, a prisões preventivas dos Pacientes se encontram devidamente fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o modus operandi da conduta, consistente na prática de crimes envolvendo desvio de dinheiro público.
+No ponto, consta na decisão do acórdão hostilizado:
+" ..  Os pacientes ocupavam a função de auxiliares administrativos da Seção de Motomecanização do CPI-6 e passaram a ser investigados para apuração de diversas irregularidades em processos licitatórios, relativas à precificação de peças e componentes de viaturas, que evidenciam a prática de fraude e desvio de dinheiro público (peculato), por extenso período. O ilícito perdurou inclusive até o presente ano, abarcando diversos contratos com a empresa "Leg Peças para Veículos, Comércios e Serviços", que só entre os anos de 2010 e 2021 movimentou mais de R$400.000,00 em licitações. A investigação ainda localizou outros contratos semelhantes, firmados com outras empresas que prestaram serviço similar.  ..  " (fl. 58).
+Tais circunstâncias demonstram a gravidade concreta da conduta e a periculosidade do agente, justificando a segregação cautelar imposta para a garantia da ordem pública.
+Sobre o tema:
+"O Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na "custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta" (HC 146.874 AgR, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, julgado em 06/10/2017, DJe 26/10/2017)." (RHC 106.326/MG, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 24/04/2019).
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: DJe 03/10/ 2019).
+No mais, quanto à aventada ausência de contemporaneidade da medida constritiva de liberdade, tenho que a prisão foi determinada, considerando a necessidade de sua imposição no momento da decretação; não havendo que se falar em extemporaneidade da medida.
+Nesse sentido:
+"A contemporaneidade do decreto de custódia preventiva se verifica "da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em um período passado"". (AgRg no HC 716.043/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 4/4/2022).
+Ante o exposto, denego a ordem.
+Abra-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
