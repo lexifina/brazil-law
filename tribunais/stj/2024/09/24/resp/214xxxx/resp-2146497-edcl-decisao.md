@@ -1,0 +1,14 @@
+DECISÃO
+Examina-se embargos de declaração opostos por FELÍCIO PARTICIPAÇÕES SOCIETÁRIAS LTDA contra decisão unipessoal que conheceu e deu provimento ao recurso especial interposto pelo ESPÓLIO DE PEDRO PEREIRA DA SILVA e OUTRO, para anular o acórdão recorrido e determinar o retorno dos autos ao TJ/CE a fim de que promova novo julgamento da apelação, à luz da jurisprudência do STJ mencionada.
+Nas razões do presente recurso, alega a embargante que a hipótese tratada em um dos julgados mencionados na decisão embargada não teria relação com o presente processo, bem como que a parte recorrente, ora embargada, busca o reconhecimento de uma turbação inexistente, que foi debatida em instância ordinária, e que para que esta Corte Superior pudesse reapreciar a matéria, na forma proposta, seria necessário a análise do conteúdo fático-probatório, o que é vedado em recurso especial pela Súmula 7/STJ.
+É O BREVE RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material, o que não se verifica na espécie.
+Com efeito, a decisão embargada foi devidamente clara e fundamentada, quanto à determinação de retorno do processo ao Tribunal de origem, a fim de que se realize novo julgamento da apelação interposta, com a aplicação da jurisprudência firmada no âmbito da Terceira Turma do STJ, no sentido de que "a notificação extrajudicial com ordem de desocupação do imóvel sob pena de serem tomadas as medidas cabíveis é bastante à configuração do ato de turbação da posse"(AgInt no AgInt no REsp 1.687.838/ES, Terceira Turma, julgado em 23/03/2020, DJe 25/03/2020). No mesmo sentido: AgInt no REsp 1.567.122/PR, Terceira Turma, julgado em 05/06/2018, DJe 08/06/2018 e REsp 1.967.057/CE, Terceira Turma, julgado em 29/3/2022, DJe de 27/4/2022; bem como em relação a ter ficado prejudicada a análise das demais questões trazidas nas razões do recurso especial.
+Os fundamentos dos presentes embargos de declaração revelam, na verdade, mero inconformismo com a decisão embargada e o nítido desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Assim, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
