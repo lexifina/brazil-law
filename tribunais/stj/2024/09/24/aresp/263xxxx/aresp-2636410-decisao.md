@@ -1,0 +1,23 @@
+DECISÃO
+Na origem, trata-se de cumprimento individual de sentença proferida em ação coletiva referente a diferenças vencimentais a título de Retribuição Adicional Variável - RAV. Na sentença, extinguiu-se o processo sem resolução do mérito ante a ilegitimidade ativa do exequente. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 313.261,53 (trezentos e treze mil, duzentos e sessenta e um reais e cinquenta e três centavos).
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO ORDINÁRIA COLETIVA. SINDICATO. ILEGITIMIDADE ATIVA DO EXEQUENTE. NOME NÃO CONSTA NA LISTA ANEXADA À INICIAL.
+- Trata-se de apelação em face de sentença que julgou extinta a presença execução individual de sentença coletiva, sem resolução de mérito, ante o reconhecimento da ilegitimidade ativa ad causam.
+- Nos casos em que a ação ordinária coletiva é ajuizada por sindicato, os integrantes da categoria por ele representada são legitimados a executar o julgado, dispensada a prova de filiação ao Sindicato. Assim, de acordo com a referida tese, estando comprovado que a parte exequente integra a categoria representada pelo sindicato autor, faz jus aos efeitos da coisa julgada formada na ação coletiva. No entanto, a aludida tese não se aplica ao caso dos autos, pois, embora o sindicato tivesse a prerrogativa de substituir processualmente todos os integrantes da categoria por ele representada, independentemente de autorização prévia, não o fez, tendo limitado a demanda a um rol determinado de substituídos, listados na relação que instruiu a inicial.
+- Na espécie, a parte apelante não figura entre os substituídos indicados na aludida relação nominal, portanto, não possui legitimidade para propor o cumprimento da sentença.
+- Recurso de apelação do exequente desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+O Supremo Tribunal Federal (STF) consolidou entendimento no sentido de que os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos (STF, RE 883.642 (repercussão geral), Rel. Min. Ricardo Lewandowski, DJe 26/06/2015).
+ ..
+No entanto, a aludida tese não se aplica ao caso dos autos, pois, embora o sindicato tivesse a prerrogativa de substituir processualmente todos os integrantes da categoria por ele representada, independentemente de autorização prévia, não o fez, tendo limitado a demanda a um rol determinado de substituídos, listados na relação que instruiu a inicial.
+ ..
+Na espécie, a parte apelante não figura entre os substituídos indicados na aludida relação nominal, portanto, não possui legitimidade para propor o cumprimento da sentença.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsi a, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
