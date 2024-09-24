@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A., contra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, por sua vez desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1075, e-STJ):
+APELAÇÃO - Ação Monitória - Sentença de extinção, sem resolução do mérito, por reconhecimento de inépcia da inicial - Razões recursais - Não enfrentamento, na extensão necessária, da decisão - Alegações de nulidade ligadas a provas e questões de mérito sequer abordadas na decisão - Inobservância do princípio da dialeticidade - Inadmissibilidade Insurgência em face do dever da restituição de valores anteriormente penhorados e levantados nos autos que não merece acolhida - Decorrência lógica da extinção - Recurso conhecido apenas em parte e nesta parte desprovido.
+Opostos embargos de declaração (fls. 1374/1384, e-STJ), esses foram rejeitados.
+Nas razões do especial (fls. 1428/1481, e-STJ), a insurgente apontou, além de dissídio jurisprudencial, violação ao artigo 85, § 2º e 8º do Código de Processo Civil/15. . Sustentou, em síntese, a redução dos honorários, tendo em vista que foram fixados no em 15% sem qualquer justificativa. A condenação do apelante, ora recorrente, ao pagamento dos honorários de 15% sobre o valor atualizado da causa, vênia, ofende o princípio da razoabilidade e da proporcionalidade e, ainda, o da equidade, este, justamente, em razão do fato superveniente ocorrido, se constituindo em manifesta exacerbação, e, ainda, se desarmoniza com a efetiva prestação jurisdicional.
+Contrarrazões às fls. 1401/1406, e-STJ.
+Em juízo de admissibilidade (fls. 1423/1426, e-STJ), negou-se o processamento do recurso especial, com amparo na Súmula 284 do STF.
+Daí o agravo (fls. 1429/1443, e-STJ), buscando destrancar o processamento daquela insurgência, no qual o insurgente refutar o óbice aplicados pela Corte estadual.
+Sem contraminuta (fl. 1447, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. A Segunda Seção desta Corte Superior, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o § 2º do artigo 85 do Código de Processo Civil de 2015 constitui a regra geral, de aplicação obrigatória, no sentido de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+No presente caso, analisando os autos, verifico que o Tribunal de origem fixou os honorários em 15% do valor atualizado da causa, dentro, portanto, do limite previsto no art. 85, § 2º, do CPC/15. Leia-se, a propósito, o seguinte trecho do acórdão recorrido (fl. 1078, e-STJ):
+Ante o exposto, NÃO SE CONHECE de parte do apelo e, na parte conhecida, NEGA-LHE PROVIMENTO, mantida a r. sentença tal como lançada. Sucumbente o autor neste grau recursal, majoram-se os honorários de sucumbência para 15% à luz do disposto no artigo 85, parágrafo 11 do CPC.
+Desse modo, o entendimento do Tribunal de origem, no ponto, encontra-se em harmonia com a jurisprudência do STJ, o que atrai a incidência do teor da Súmula 83 desta Corte, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Ademais, o entendimento do STJ é de que, em geral, o reexame dos critérios para a fixação dos honorários advocatícios só é possível por meio da emissão de novo juízo sobre as provas dos autos, sobretudo para aferir circunstâncias como "grau de zelo do profissional", nível de complexidade da causa e outros elementos de ordem fática. Incidência da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO MONITÓRIA. CONTRATO BANCÁRIO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO EM 10% DO VALOR DA CAUSA. INTELIGÊNCIA DO ART. 85, § 2º, DO CPC/2015. PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDADE. INCIDÊNCIA. SUMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou os fundamentos da decisão que inadmitiu o apelo nobre exarada na Instância a quo. Novo exame do feito.
+2. "A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, Segunda Seção, julgado em 13/02/2019, DJe de 29/03/2019).
+3. A quantia fixada pelo Tribunal de origem, de 10% do valor da causa, encontra-se dentro dos princípios da proporcionalidade e razoabilidade, de acordo com as particularidades do presente caso.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, nos termos em que pleiteada pela parte recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. Agravo interno provido para, em novo exame, conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp n. 2.297.494/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/8/2023, DJe de 25/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESÍDIA E NEGLIGÊNCIA DOS ADVOGADOS. PERDA DE UMA CHANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. IMPOSSIBILIDADE. PERCENTUAL DOS HONORÁRIOS SUCUMBENCIAIS. SÚMULA 568/STJ. DECISÃO MANTIDA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+3.Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas não é permitido nesta via recursal.
+5. A 2ª Seção do STJ, que, no julgamento do REsp 1.746.072/PR, uniformizou o entendimento desta Corte acerca da fixação dos honorários advocatícios sucumbenciais, consignando que a regra geral a ser aplicada aos honorários advocatícios é a prevista no § 2º, do art. 85, do CPC/2015, que estabelece uma ordem de preferência para o arbitramento:(i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º). Súmula 568/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.206.933/RO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023.)
+2. Importante consignar, ainda, que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+(..)
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no agravo em recuso especial não provido.
+(AgInt no AREsp 1961863/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRATURMA, julgado em 14/02/2022, DJe 16/02/2022)
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se.
+Intimem-se.
+EMENTA
