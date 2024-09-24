@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 7/STJ (e-STJ fls. 358/360).
+O acórdão do TJGO traz a seguinte ementa (e-STJ fl. 323):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. PRAZO DE TOLERÂNCIA ULTRAPASSADO.
+1. É legal a cláusula de tolerância devidamente pactuada, não podendo ser desconsiderado o prazo extra de 180 (cento e oitenta) dias úteis para a conclusão da obra, em obediência ao princípio pacta sunt servanda.
+2. Não obstante, in casu, inexiste qualquer indício de prova de que a obra teria sido finalizada e o imóvel, entregue à apelada. Logo, constatado o não atendimento, pelas promitentes vendedoras/recorrentes, dos prazos avençados para a entrega da unidade habitacional, configurada está a sua mora. RESCISÃO CONTRATUAL - CULPA EXCLUSIVA DAS PROMITENTES VENDEDORAS.
+3. Considerando que a obra não foi entregue na data aprazada, é perfeitamente possível a rescisão contratual e a restituição integral da quantia paga pela recorrida, de uma só vez (Súmula 543, do Superior Tribunal de Justiça), ressaltando-se que a parte insurgente não se desincumbiu do ônus que lhe competia, ou seja, deixou de demonstrar a ocorrência dos alegados caso fortuito ou força maior. RETENÇÃO DE QUANTIAS PAGAS, TAXAS CONDOMINIAIS E IPTU - NÃO CABIMENTO. 4. Restando comprovada a culpa exclusiva da parte vendedora e dada a ausência de imissão na posse do imóvel, não há falar em retenção de quantias a título de perdas e danos em seu favor, notadamente, a retenção/pagamento de 5% (cinco por cento) sobre o valor total do bem; retenção de 10% (dez por cento) da quantia paga, a título de despesas administrativas e tributárias; retenção/pagamento de 1% (um por cento) por mês, a título de aluguel/taxa de fruição; despesas condominiais e de IPTU.
+JUROS DE MORA. TERMO INICIAL.
+5. Evidenciado que a rescisão do contrato firmado entre as partes ocorreu por culpa exclusiva da promitente vendedora, em virtude do atraso injustificado na entrega das obras do empreendimento imobiliário, os juros moratórios são devidos a partir da citação.
+CORREÇÃO MONETÁRIA. ALTERAÇÃO DE OFÍCIO. MATÉRIA DE ORDEM PÚBLICA.
+6. O índice de correção do valor pago pela autora/apelada deverá ser o índice Nacional de Custo da Construção (INCC), a partir de cada desembolso, até a data do ajuizamento da ação e, após essa data, aplicar-se-á o índice Nacional de Preços ao Consumidor (INPC), merecendo reforma a sentença nesse particular, de ofício, porquanto cuida-se de matéria de ordem pública. APELO CONHECIDO E DESPROVIDO. SENTENÇA ALTERADA DE OFÍCIO.
+No recurso especial (e-STJ fls. 338/344), fundamentado no art. 105, III, "a" e "c", da CF, as recorrentes apontaram violação do art. 67-A, II, da Lei n. 4.591/1964, alegando ser lícito reter 25% (vinte e cinco por cento) dos valores pagos pela parte recorrida, ante a rescisão do compromisso de compra e venda de imóvel por sua iniciativa, sob pena de ofensa ao princípio do pacta sunt servanda.
+Sustentaram que seriam devidos os juros moratórios sobre os valores objeto de restituição a partir do trânsito em julgado, e não da citação, no processo .
+No agravo (e-STJ fls. 367/371), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 376/378).
+É o relatório.
+Decido.
+A jurisprudência desta Corte é no sentido de que o direito à retenção de parte do montante das parcelas pagas somente é assegurado às construtoras quando a rescisão decorre da desistência ou da inadimplência do adquirente do imóvel. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM R ECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. RESTITUIÇÃO DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. MÁ-FÉ. NÃO OCORRÊNCIA. INVERSÃO DA CLÁUSULA PENAL. REVISÃO. SÚMULAS 5 E 7 DO STJ.
+1. "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.124.791/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/12/2017, DJe 18/12/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. 1. ARTS. 394 E 395 DO CC/02. IMPOSSIBILIDADE DE ANÁLISE. INOVAÇÃO RECURSAL. 2. ATRASO DA OBRA. RESCISÃO CONTRATUAL. EXCLUDENTE DE RESPONSABILIDADE NÃO CONFIGURADA. REEXAME FÁTICO-PROBATÓRIO E ANÁLISE E INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. 3. DEMORA NA ENTREGA DO IMÓVEL POR CULPA DA INCORPORADORA. RESTITUIÇÃO DOS VALORES. POSSIBILIDADE. SÚMULA N. 345 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. A resolução do contrato pela demora na entrega do imóvel, por culpa da incorporadora, demanda a restituição dos valores pagos pela adquirente integralmente. Súmula n. 543 do STJ.
+4. Agravo interno improvido.
+(AgInt no AREsp 889.388/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 22/8/2016.)
+O Tribunal de origem, com base nos elementos de prova, concluiu que o atraso na entrega do imóvel decorreu de culpa exclusiva das recorrentes. Confira-se o seguinte excerto (e-STJ fls. 326/327):
+Consta na avença (item VII) que a data prevista para a conclusão da obra seria o dia 30/12/2016, com carência de 180 (cento e oitenta) dias úteis. Porém, até a data do ajuizamento da demanda (14/01/2020) a obra ainda não havia sido entregue, consoante atesta a documentação juntada com a peça matriz, inclusive fotos do local (arquivo 11).
+Como se vê, não pode ser imputada à parte autora a culpa pela resolução, não merecendo prosperar as alegações das apeladas de que não haveria mais interesse da requerente na continuidade do contrato, mormente porque inexiste qualquer indício de prova a esse respeito.
+Prosseguindo, sabe-se que é legal a cláusula de tolerância devidamente pactuada, não podendo ser desconsiderado o prazo extra de 180 (cento e oitenta) dias úteis previsto para a conclusão da obra, em observância ao princípio pacta sunt servanda.
+Ocorre que, in casu, não há comunicação nos autos de que, após o decurso
+do prazo acima declinado, a obra foi concluída e o imóvel foi entregue à autora/apelada.
+Nessas circunstâncias, é presumido o prejuízo do promitente comprador, cabendo ao vendedor, para eximir-se de sua responsabilidade, provar que a mora contratual não lhe é imputável, ônus do qual não se desincumbiu.
+Alega a parte requerida que o atraso na entrega da obra seria consequência de caso fortuito e força maior, pois as dificuldades financeiras do mercado resultaram na restrição das ofertas de crédito pelas instituições financeiras.
+ ..
+Na hipótese vertente, as recorridas alegam dificuldades financeiras do mercado, fato que ensejou a diminuição da oferta de crédito. Contudo, como bem pontuou o juiz singular, trata-se de risco previsível relacionado à atividade desempenhada pelas construtoras/incorporadoras, de sorte que não há possibilidade de incidência das disposições do artigo 393, do Código Civil.
+Nesse contexto, nota-se que a autora comprovou o atraso na entrega da obra (artigo 373, inciso I, do Código de Processo Civil) e, lado outro, as requeridas não lograram êxito em desconstituir a pretensão inaugural, conforme preceitua o inciso II, do mesmo dispositivo legal.
+Nesse cenário, perfeitamente possível a rescisão contratual e a restituição integral dos valores pagos, uma vez que, mesmo incidindo o período de tolerância de 180 (cento e oitenta) dias úteis, o imóvel objeto do contrato não foi entregue no prazo avençado, por culpa exclusiva das apelantes.
+Para dissentir dessa conclusão, a fim de descaracterizar o inadimplemento contratual das empresas, seria necessário revolver o conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Diante de tal premissa fática, verifica-se que o acórdão recorrido decidiu em consonância com a jurisprudência pacífica desta Corte Superior, ao manter a condenação das empresas à devolução integral dos valores pagos pela parte recorrida (e-STJ fls. 327/329), motivo pelo qual incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+A parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada sobre o pedido de revisão do termo a quo dos juros moratórios incidentes sobre os valores a serem restituídos à parte recorrida, ante o distrato imobiliário.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia. Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
