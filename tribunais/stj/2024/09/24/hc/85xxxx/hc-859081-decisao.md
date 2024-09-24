@@ -1,0 +1,39 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto o relatório de e-STJ fls. 154:
+"Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAGNO GUILHERME MENSOR em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC 5241730-09.2023.8.21.7000).
+O paciente está preso preventivamente pela suposta infração ao art. 33, caput, c/c art. 40, VI, da Lei 11.343/2006.
+A ordem impetrada na Corte de origem foi indeferida.
+A defesa alega: a) fragilidade de provas quanto à imputação criminosa; b) "o Paciente estava apenas como motorista, não tinha conhecimento algum do conteúdo dentro da mochila do seu filho e jamais imaginou que o veículo que foi alugado para ir até a cidade de Tenente Portela/RS, visitar as suas duas filhas, seria objeto de roubo e muito menos que estava vinculado a um homicídio" (e-STJ fl. 8); c) ausência de fundamentação a justificar a prisão cautelar; d) condições pessoais favoráveis, notadamente, primariedade, residência fixa, ocupação lícita e família constituída; e) falta de demonstração de como a liberdade do paciente poderia oferecer risco à ordem pública, à instrução processual e à aplicação da lei penal; f) possível adoção de medidas cautelares diversas da prisão; g) excesso de prazo para formação da culpa, pois a instrução criminal não foi iniciada; e h) extensão da liberdade ao corréu, seu filho, nos termos do art. 580 do CPP, na hipótese de revogação da prisão preventiva.
+Requer, liminar e definitivamente, deferimento da ordem para relaxar/revogar a prisão preventiva, com ou sem imposição de medidas cautelares diversas."
+O pedido liminar foi indeferido (e-STJ, fls. 154/157).
+As informações foram prestadas (e-STJ, fls. 163/204 e 205/207)
+Parecer do Ministério Público Federal pelo não conhecimento do writ (e-STJ, fls. 214/218).
+Determinada intimação da defesa (e-STJ, fl. 222) para se manifestar se remanesce interesse na análise da impetração, esta quedou-se inerte.
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Em consulta realizada à  página  eletrônica  do Tribunal de origem, verifica-se que, em 14/03/2024, foi prolatada sentença condenatória em desfavor da paciente (Processo n. 5002734-58.2023.8.21.0069) e na qual foi expedido alvará de soltura, nos termos do seguinte dispositivo:
+"POR TAIS RAZÕES, JULGO PROCEDENTE para CONDENAR GUILHERME GABRIEL MENSOR e MAGNO GUILHERME MENSOR nas sanções do artigo 33, caput, da Lei nº 11.343/2006.
+ ..
+DOSIMETRIA DA PENA EM RELAÇÃO AO RÉU MAGNO GUILHERME MENSOR
+No que tange à culpabilidade, MAGNO é plenamente imputável, tendo o necessário potencial de consciência da ilicitude de sua conduta. A natureza e quantidade da substância apreendida indica aproximadamente 5,4kg de pasta base de cocaína e 7,92kg de substância com características análogas à cocaína, sendo necessária de exasperação da pena-base. Quanto à personalidade, não há nos autos elementos para defini-la. Em relação à conduta social não existem referências quanto ao comportamento do acusado. Os motivos estão ligados ao lucro fácil. As circunstâncias e as consequências foram próprias da espécie. Prejudicado o item relativo ao comportamento da vítima, por se tratar do Estado. O réu é primário. Portanto, a culpabilidade, entendida esta como juízo de reprovação a ser realizado sobre a conduta perpetrada pelo agente indica censurabilidade normal. Dessa forma, fixo a pena-base em 05 (cinco) anos e 06 (seis) meses de reclusão.
+Ausentes circunstâncias agravantes. Ausentes circunstâncias atenuante. Fica a pena provisoriamente em 05 (cinco) anos e 06 (seis) meses de reclusão.
+Presente o aumento de pena previsto no artigo 40, inciso VI, da Lei nº 11.343/2006, razão pela qual elevo a pena em 1/6 (11 meses). Presente causa de diminuição do tráfico privilegiado, prevista no § 4º do artigo 33 da Lei nº 11.343/2006, em razão da primariedade do réu e da inexistência de dedicação à atividade criminosa ou integração em organização criminosa, de modo que opero a redução da pena pela metade (03 anos, 02 meses e 15 dias). Fixo em 03 (três) anos, 02 (dois) meses e 15 (quinze) dias de reclusão, que resta definitivo.
+O regime para o cumprimento da pena ser ABERTO, conforme artigo 33, §2º, alínea "c", do Código Penal e tendo em vista a Súmula Vinculante aprovada pelo Supremo Tribunal Federal, que possui a seguinte redação:
+"É impositiva a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos quando reconhecida a figura do tráfico privilegiado (art. 33, § 4º, da Lei 11.343/2006) e ausentes vetores negativos na primeira fase da dosimetria (art. 59 do CP), observados os requisitos do art. 33, § 2º, alínea c, e do art. 44, ambos do Código Penal".
+(..)
+Desta forma, com fulcro nos artigos 43 e 44, §3º, do Código Penal, substituo a pena privativa de liberdade aplicada por duas penas restritivas de direito: a primeira consistirá em prestação pecuniária no pagamento de dois salários-mínimos (piso nacional) vigente à época do fato, facultando-se o parcelamento em 06 meses, cujo valor deverá ser depositados na conta das penas alternativas desta Comarca; e a segunda consistirá em 40 (quarenta) dias-multa, fixando o valor do dia-multa em 1/30 (um trigésimo) do salário mínimo vigente à época do fato, que deverá ser corrigido quando do efetivo pagamento, a contar da data da prática do delito, forte no artigo 49, "caput", e § 1º, do Código Penal.
+Ainda, consideradas as circunstâncias judiciais anteriormente analisadas, na esteira do que dispõe o artigo 43 da Lei nº 11.343/06, condeno o réu ao pagamento de 500 (quinhentos) dias-multa, fixado o valor do dia-multa em 1/30 (um trigésimo) do salário mínimo vigente ao tempo do fato, por desconhecer as condições econômicas do réu (artigos 49, § 1º, e 60, do Código Penal) - quantia esta a ser corrigida monetariamente desde a data do fato (artigo 49, § 2º, do Código Penal), pelo IGP-M.
+ DISPOSIÇÕES FINAIS:
+Considerando o montante da pena e o regime fixados aos réus GUILHERME GABRIEL MENSOR e MAGNO GUILHERME MENSOR, e considerando o período em que eles ficaram presos provisórios, entendo por revogar a prisão preventiva, uma vez que a ordem pública já foi restabelecida. Assim, CONCEDO aos réus GUILHERME GABRIEL MENSOR e MAGNO GUILHERME MENSOR a liberdade provisória, mediante o cumprimento das seguintes medidas cautelares até o trânsito em julgado:
+- compromisso de comparecimento a todos os atos e termos do processo;
+- proibição de ausentar-se da Comarca onde residem sem autorização deste juízo, sob pena de serem impostas outras medidas cautelares, inclusive o decreto de prisão preventiva, na forma do disposto no § 4º do art. 282 do Código de Processo Penal;
+- proibição de envolvimento com novos delitos e novas ocorrências policiais, sob pena de decretação de prisão preventiva;
+- recolhimento domiciliar no período noturno (o recolhimento deve se dar a partir das 19 horas diariamente até às 06h da manhã); e
+- manter endereço e telefone atualizados em juízo.
+Assim, concedo aos réus o direito de apelar em liberdade, se por outro motivo não estiverem presos. Expeçam-se, imediatamente, os alvarás de soltura em favor dos réus GUILHERME GABRIEL MENSOR e MAGNO GUILHERME MENSOR.
+Reconheço o direito aos acusados GUILHERME GABRIEL MENSOR e MAGNO GUILHERME MENSOR quanto à detração do período em que ficaram presos preventivamente, conforme dispõe o artigo 42 do Código Penal, devendo ser feito o lançamento do período em que se encontrar recluso, para fins de desconto, nos autos do processo da execução. "
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
