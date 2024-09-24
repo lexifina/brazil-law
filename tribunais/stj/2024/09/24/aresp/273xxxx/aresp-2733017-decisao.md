@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO MENEZES RIBEIRO contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado na nos autos do agravo de instrumento n. 0706693-84.2023.8.07.0000, assim ementado (fls. 476-489):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DIREITO CONSTITUCIONAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRELIMINAR. SUSPENSÃO. REJEITADA. MÉRITO. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE TÍTULO EXECUTIVO. REJEITADAS. MÉRITO. LIMITAÇÃO TEMPORAL DA CONDENAÇÃO. TÍTULO EXECUTIVO. REJULGAMENTO. TEMA 1170, STF. ART. 1.040, II, CPC. EXPEDIÇÃO DE PRECATÓRIO. VALOR INCONTROVERSO. FRACIONAMENTO. PROIBIÇÃO. JUROS E CORREÇÃO. CONSECTÁRIOS LEGAL. TEMA APLICÁVEL AO CASO. ÍNDICE DE CORREÇÃO VIGENTE NA ÉPOCA DA INCIDÊNCIA. ÍNDICE PREVISTO NO TÍTULO. AFASTADO. AUSÊNCIA VIOLAÇÃO COISA JULGADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO REFORMADA.
+1. Os embargos de declaração não têm, em regra, efeito suspensivo, não havendo que se falar em necessidade de suspender o julgamento do presente recurso até a análise dos Embargos de Declaração opostos no s autos do RE 1.317.982. Preliminar de suspensão rejeitada.
+2. O Decreto n.º 20.976, de 27 de janeiro de 2000 dispôs sobre a extinção da Fundação Zoobotânica do Distrito Federal, determinando, em seu artigo 6º, que seus servidores passariam a integrar o quadro de pessoal do ente político, sem prejuízo de seus direitos e vantagens.
+2.1. No Decreto nº 16.990 de 1996, exarado pelo então Governador do Distrito Federal, que suspendeu indevidamente o benefício ora executado, consta expressamente que a suspensão também se estenderia às Fundações do Distrito Federal
+2.2. Sendo assim, o ente distrital ora agravante substituiu a Fundação Zoobotânica e foram resguardados todos os direitos do agravado, tornando-o parte legítima para figurar no polo ativo do cumprimento de sentença. Precedentes.
+3. A sentença transitada em julgado proferida na Ação Coletiva nº 32.159/97 limitou a extensão da condenação às parcelas anteriores à data de impetração do Mandado de Segurança nº 7.253/97, tendo ocorrido a perda do objeto em relação às parcelas posteriores. Limitação temporal constante do próprio título executivo judicial.
+4. O Supremo Tribunal Federal, ao julgar o Tema 1170 firmou entendimento de que "É aplicável às condenações da Fazenda Pública envolvendo relações jurídicas não tributárias o índice de juros moratórios estabelecido no art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.960/2009, a partir da vigência da referida legislação, mesmo havendo previsão diversa em título executivo judicial transitado em julgado".
+4.1. O Ministro Nunes Marques, relator do Recurso Extraordinário que gerou o tema, esclareceu em seu voto que os consectários legais têm natureza processual e devem ser regulados pela lei da época de sua incidência.
+5. Necessário entender que o entendimento firmado para os juros de mora, também atinge à correção monetária pois, na condição de consectário legal, necessário entender que também tem natureza processual e deve ser regida pela lei vigente no momento de sua incidência.
+5.1. Nesse sentido tem entendido o Supremo Tribunal Federal e o Superior Tribunal de Justiça.
+6. Aplicando o entendimento fixado no tema 1170 do STF, necessário entender que, no caso dos autos, correta a decisão que aplicou o entendimento mais moderno quanto aos índices de correção monetária, sendo incabível aplicar o título previsto no título, pois não mais vigente no momento do pagamento da dívida.
+6.1. "Logo, ausente ofensa à coisa julgada, porquanto não há desconstituição do título judicial exequendo, mas apenas aplicação de normas supervenientes cujos efeitos imediatos alcançam situações jurídicas pendentes, tudo de acordo com o princípio tempus regit actum". (RE 1317982, Relator(a): NUNES MARQUES, Tribunal Pleno, julgado em 12-12-2023, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n DIVULG 19-12-2023 PUBLIC 08-01-2024)
+7. Reexame realizado nos termos do artigo 1.040, inciso II, do CPC.
+8. Recurso conhecido. Preliminar de suspensão rejeitada. No mérito, recurso parcialmente provido. Decisão reformada em parte.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, quais sejam ofensa a coisa julgada e inaplicabilidade da multa do art. 1.026, § 2º, do CPC/2015, de que maneira não seria necessária a incursão ao campo fático-probatório. Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
