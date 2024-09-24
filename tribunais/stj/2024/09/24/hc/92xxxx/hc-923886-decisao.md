@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ALAN GABRIEL DA SILVA ALVES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2085822-83.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 3/10/2023, posteriormente convertido em prisão preventiva, pela suposta prática dos crimes tipificados nos arts. 180, caput, e 311, § 2º, III, na forma do art. 69, do Código Penal - CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 96)
+"HABEAS CORPUS. RECEPTAÇÃO DE AUTOMÓVEL. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. CONVERSÃO DA PRISÃO EM FLAGRANTE DELITO EM PREVENTIVA. EXCESSO DE PRAZO PARA A PROLAÇÃO DA SENTENÇA. AUSÊNCIA DE ILEGALIDADE OU CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+Manutenção da custódia preventiva mantida. Fundamentação idônea. Ausência de ilegalidade ou constrangimento ilegal. Presentes os requisitos do art. 312 do CPP. Trâmite processual dentro de limites justificáveis. Instrução criminal encerrada e já apresentadas as alegações finais das partes, aguardando-se a remessa do laudo pericial faltante. Excesso de prazo não configurado. Ordem denegada, com determinação para reiteração da cobrança do laudo faltante, inclusive por meio telefônico."
+No presente writ, a defesa sustenta excesso de prazo para a formação da culpa, tendo em vista que a segregação perdura há quase 6 meses e não há previsão concreta de juntada do laudo de identificação de veículo automotor requisitado por ocasião do oferecimento da denúncia, de apresentação dos memoriais e de prolação da sentença.
+Defende a desproporcionalidade da prisão cautelar, salientando que os delitos não são considerados hediondos e não foram cometidos com violência ou grave ameaça.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas.
+A liminar foi indeferida às fls. 107/109. Informações prestadas às fls. 115/119 e 120/135. O Ministério Público Federal opinou pelo não conhecimento do writ às fls. 139/144.
+É o relatório.
+Decido.
+De acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 30/7/2024, na Ação Penal n. 1501158-73.2023.8.26.0272, o paciente foi condenado às penas de 4 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 22 dias-multa, pela prática dos delitos previstos nos arts. 180, caput, e 311, § 2º, III, na forma do art. 69, do Código Penal, tendo sido vedado o recurso em liberdade.
+Assim, é certo que a superveniência de sentença penal condenatória torna superada a alegação de excesso de prazo para formação da culpa, ficando, portanto, prejudicada a análise da tese apresentada. Nesse sentido, é o Enunciado n. 52 da Súmula do Superior Tribunal de Justiça, in verbis:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Anote-se, ainda, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OPERAÇÃO "IMPUNITAS". ORGANIZAÇÃO CRIMINOSA. CRIMES CONTRA O SISTEMA FINANCEIRO. LAVAGEM DE DINHEIRO. REVOGAÇÃO DE MEDIDA CAUTELAR. RETENÇÃO DE PASSAPORTE. DEMONSTRADO RISCO À APLICAÇÃO DA LEI PENAL. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL PELA VIA DO WRIT. EXCESSO DE PRAZO. SENTENÇA PROFERIDA. INCIDÊNCIA DA SÚMULA 52/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extraiu-se dos autos que a Corte de origem concluiu, fundamentadamente, pela manutenção da medida cautelar de retenção de passaporte em referência à garantia de aplicação da lei penal, consignando que há "a possibilidade de evasão do réu, ora paciente, sobretudo por existir nos autos informação do próprio BANCO DO NORDESTE de que o paciente possui negócios na China "tendo se constatado por meio de suas redes sociais a facilidade com que ele vai àquele país e a outros países também", conforme salientado pelo próprio MPF" (fl. 199).
+2. Uma vez demonstrado o risco à aplicação da lei penal pelas instâncias ordinárias, a desconstituição do entendimento firmado no acórdão recorrido demandaria revolvimento do material fático-probatório colhido na ação penal na origem, o que é incompatível com a estreiteza procedimental do habeas corpus. Precedentes.
+3. O excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional. Precedentes.
+4. Consta das informações prestadas pela autoridade coatora (fls. 322-327) que houve a prolação da sentença em 23/06/23, condenando o paciente à pena de 70 anos e 4 meses de reclusão, em regime inicial fechado, bem como ao pagamento de 332 dias-multa, pela prática dos crimes de organização criminosa, crimes contra o sistema financeiro e lavagem de dinheiro, incidindo, portanto, a Súmula n. 52 do STJ, in verbis: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+5. Agravo regimental desprovido.
+(AgRg no HC n. 825.698/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
