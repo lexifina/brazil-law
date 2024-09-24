@@ -1,0 +1,24 @@
+DECISÃO
+Aproveito o bem lançado relatór io do representante do Ministério Público Federal (e-STJ fls. 393/394):
+Trata-se de Habeas Corpus, com pedido liminar, impetrado em favor de CRISTIANO BIANOR DOS SANTOS sendo autoridade coatora a Segunda Turma do Tribunal Regional Federal da 5ª Região, que negou provimento a recurso de apelação criminal n. 0812317-44.2023.4.05.8300 No presente Habeas Corpus, a defesa sustenta, em síntese, às fls. 03/26, a nulidade do acordo de colaboração, por vício de vontade do colaborador, uma vez que foi negociada a conversão da prisão preventiva, com o intuito de coagi-lo à celebração do negócio jurídico.
+Nesse sentido, a defesa argumenta ter ficado expresso na Cláusula 13 do instrumento que, por ocasião da homologação judicial, a preventiva seria convertida em prisão domiciliar, prática não autorizada pelo ordenamento jurídico, sendo vedado conferir tratamento diferenciado, quanto à prisão cautelar, aos réus que tenham celebrado acordo de colaboração e aqueles que não o fizeram; se a privação da liberdade pode ser revogada/substituída como consequência da celebração de tal negócio, significa que aquela inicialmente não preenchia os requisitos legais para a sua decretação. Ao final, requer: "Ante as razões estritamente jurídicas expostas, escoradas e complementadas pelo eminente parecer formulado pelo Prof. Dr. Geraldo Prado, especialmente tendo em vista que a inserção, no acordo de colaboração, de cláusula que negocia a conversão de prisão preventiva exurge como mecanismo de coação que vicia a manifestação de vontade do colaborador, requer-se a concessão da ordem de habeas corpus para que seja declarado inválido o acordo de colaboração premiada celebrado entre o ora paciente e o MPMG, assim como todas as provas dele decorrentes, em respeito ao art. 4º, §7º, IV, da Lei 12.850/2013, ao art. 171, II, CC, e ao art. 5º, LVI, da Constituição Federal ". (fls. 25) Não foi formulado pedido liminar.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (e-STJ fls. 393/400).
+É o relatório.
+Decido.
+A jurisprudência desta Corte é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio, seja por ter sido impetrado concomitantemente, seja por estar ainda escoando o prazo para a interposição da insurgência prevista no regramento legal e regimental.
+Nesse mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+EMENTA PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+No caso, o presente writ é mera reiteração do REsp n. 2.149.770/PE, também de minha relatoria, que já consta parecer ministerial e encontra-se em vias de ser julgado.
+Ademais, não se desconhece a determinação para que, quando presente flagrante ilegalidade, é de se conceder a ordem de ofício, nos termos do art. 647-A, parágrafo único, do Código de Processo Penal.
+Entretanto, tal não é o caso do presente writ, motivo pelo qual não comporta conhecimento.
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
+EMENTA
