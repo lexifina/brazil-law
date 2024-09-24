@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MICHEL ANDRE CAVASSANI, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL no HC n. 1408595-56.2024.8.12.0000.
+Consta que o paciente foi preso em flagrante delito no dia 04/05/2024, convertida a custódia em preventiva, pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, a parte impetrante alega, em síntese, falta de indícios de autoria delitiva, ausência de fundamentação idônea e inexistência dos requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Informa que o paciente possui condições pessoais favoráveis.
+Aduz a possiblidade de aplicação de medidas cautelares diversas da prisão.
+Requer, em liminar e no mérito, a revogação da prisão preventiva do paciente, com a expedição de alvará de soltura.
+O pedido liminar foi indeferido às fls. 145-146.
+As informações foram prestadas à fls. 149-152 e 186-195.
+O Ministério Público Federal opinou (fls. 198-200) pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO.
+A tese de negativa de autoria não comporta sequer conhecimento, por
+demandar a reapreciação do conjunto fático-probatório dos autos, inadmissível na via eleita. A propósito: AgRg no HC n. 880.124/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgRg no HC n. 882.438/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+No mais, o Tribunal de origem, ao manter a prisão preventiva do paciente, ressaltou o seguinte (fls. 134-141; grifamos):
+ ..
+Historiam os autos n. 0801641-68.2024.8.12.0800, que no dia 04/05/2024, em patrulhamento pela rua João Gonçalves de Morais, no Jardim das Paineiras, os policiais militares avistaram uma caminonete Ford/Ranger, cor preta, trafegando em sentido contrário e parando defronte ao número 1574, momento em que foi visto o condutor da camionete, identificado como Michel André Cavassani, ora paciente, entregar invólucros, semelhantes a porções de drogas, para outro indivíduo, identificado como Tailon Fernando Moreira Fontoura.
+Consta que a equipe já havia sido alertada pelos policiais civis do Setor de investigações Gerais - SIG sobre o fato de que referido local seria provavelmente utilizado para armazenamento, preparo e venda de drogas ilícitas, sob a responsabilidade de Tailon, sendo a droga fornecida por Michel, motivo pelo qual o patrulhamento foi intensificado naquela área.
+ ..
+Nesse contexto, analisando os elementos extraídos dos autos, verifica- se que a decisão que decretou a prisão preventiva está em consonância com as disposições acima referidas, e atende ao disposto pelos §§ 1.º e 2.º do artigo 315 do CPP. vejamos:
+(..) Em relação a manutenção da prisão, em que pese os argumentos apresentados pelas defesas dos acusados, verifico que assiste razão ao Ministério Público em manifestar pela conversão das prisões em flagrante em prisão preventiva, pois, ao menos por ora, há necessidade de manter os indiciados presos, ante a presença dos pressupostos para a prisão preventiva, expressos no artigo 312, do CPP.
+A prova da materialidade do crime é indiscutível, conforme se extrai do laudo de constatação preliminar em que se apurou que as substâncias apreendidas eram semelhantes à maconha, cocaína e crack (fls. 55/57). Por outro lado, há indícios suficientes de autoria, uma vez que o Setor de Investigações da Polícia Civil já estava investigando os indiciados, como se observa do relatório de fls. 58/60, em que se concluiu que Michel, vulgo "Catraca", era a pessoa que fornecia a droga a um terceiro para comercialização na cidade, o qual foi identificado como Tailon Fernando Moreira Fontoura, fato confirmado pela testemunha ouvida na delegacia (fls. 19/20).
+No presente caso, por enquanto, mostra-se necessária como forma de se cumprir a Lei Penal, bem como assegurar a instrução e ordem social, já que o crime em questão é de extrema gravidade à sociedade em que é cometido e não há sequer processo criminal instaurado.
+O delito de tráfico é crime hediondo e fomenta a prática de diversos outros delitos, além de causar efeito destrutivo nos usuários, abala o meio social, pois contribui para a disseminação da droga em nossa região, aumentando todos os tipos de crimes e a destruição das famílias, de forma que a ordem pública está abalada.
+Além disso, há nos autos informações de que Michel André Cavassi é conhecido nos meios policiais por práticas delituosas, consistente no tráfico de drogas, como consta no relação de fl. 58.
+Assim, a fim de garantir a instrução criminal e a ordem pública, entendo que a prisão preventiva deve ser decretada.
+Ante o exposto, homologo o presente Auto de Prisão em Flagrante, pois formalmente em ordem e, de consequência, converto a prisão em flagrante em prisão preventiva em face de Michel André Cavassani e Tailon Fernando Moreira Fontoura , qualificados nos autos, servindo a presente decisão como ordem de prisão. No momento oportuno, expeça-se mandado de prisão no BNMP. (..) (p. 121-122) (destacou-se)
+A prisão cautelar foi mantida conforme transcreve-se a seguir:
+(..) A) MANTENHO a prisão preventiva dos flagranteados Michel André Cavassani e Tailon Fernando Moreira Fontoura, sobretudo diante dos relatório de f. 58-60, que aponta ligação interestadual com criminalidade organizada, bem como diante do depoimento contundente de f. 19-20, com tráfico de droga muito perniciosa e FARTOS antecedentes criminais, inclusive específicos (f. 68-82);
+B) diante dos indícios inaugurais de ligação dos presos com organizações criminosas e da notícia corrente nesta pequena Urbe de que os flagranteados têm periculosidade considerável (ver também f. 95-104), DETERMINO a antecipação, em Juízo, da oitiva de Welison Renato de Jesus Arantes (f. 19-20 e f. 68-76), mesmo porque há insegurança quanto ao futuro endereço em que irá residir; expeça-se instrumento de condução coercitiva, se o caso;
+C) e, por fim, oficie-se à Autoridade Policial, para, se entender cabível e necessário no caso, formular requerimento de quebra de sigilo bancário, inclusive quanto ao estabelecimento comercial ("follow the money").
+Designe-se a audiência para o dia 7-5-2024, às 13 h e 30 min., com intimação das defesas técnicas constantes dos autos. (..) (p. 137) (destacou-se)
+ ..
+Ultrapassada essa breve revisitação ao histórico fático-processual do caso, cumpre frisar que, malgrado o esforço argumentativo desenvolvido na impetração, o caso não comporta a concessão da ordem.
+Depreende-se das peças constantes dos autos que há prova do fato e indícios suficientes de autoria, cujos elementos podem ser extraídos do estado de f lagrância (p. 01-67 dos autos n. 0801641-68.2024.8.12.0800), caracterizando-se, assim, o fumus comissi delicti.
+ ..
+Quanto ao fundamento ensejador do periculum in libertatis, constata-se que este consiste na necessidade de garantir a ordem pública diante da gravidade concreta da conduta criminosa a priori desenvolvida, porquanto trata-se do tráfico de diversos tipos de droga (maconha, cocaína e crack), do risco de reiteração delitiva, tratando-se em tese de pessoa que constitui grupo criminoso para prática do tráfico de entorpecentes.
+Ademais, não se deve olvidar que o paciente é reincidente, inclusive específico, consoante se destaca na certidão de antecedentes criminais encartados às p. 95-101 dos autos nº 0801641-68.2024.8.12.0800.
+Diante desse cenário, mostra-se inviável a revogação da prisão ou a substituição desta por cautelares diversas da prisão descritas no artigo 319 do Código de Processo Penal, pois as circunstâncias retromencionadas indicam que referidas medidas seriam insuficientes ao acautelamento da ordem pública, mormente porque, no caso, a custódia é necessária e adequada (artigo 282, I e II, do CPP), notadamente porque do sério risco de reiteração criminal.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltado o risco concreto de reiteração delitiva do acusado, o qual, segundo consta, é reincidente específico.
+Tal circunstância demonstra a periculosidade do agente e é apta a justificar a segregação cautelar para garantia da ordem pública.
+Com efeito,
+ c onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC n. 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+ ..
+4. Agravo regimental improvido. (AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido. (AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade d a prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
