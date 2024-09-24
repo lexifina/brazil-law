@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial manejado por Ubiracir de Freitas Veras com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 531/532):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. AVERBAÇÃO DE PERÍODOS TRABALHADOS SOB CONDIÇÃO NOCIVA À SAÚDE DO SEGURADO. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO DO INSS. IMPUGNAÇÃO AOS PPPs E LTCATs APRESENTADOS. INSUBISTÊNCIA. RECURSO ADESIVO DO AUTOR. HIDROCARBONETOS. MENÇÃO GENÉRICA.
+1 - O Instituto Nacional do Seguro Social - INSS apresenta recurso de Apelação Cível ante r. Sentença proferida pelo Dr. Arnaldo Pereira de Andrade Segundo, MM. Juiz Federal da 13ª
+Vara da Seção Judiciária do Rio Grande do Norte, em substituição na 8ª Vara da mesma seccional (Ato TRF-5/COGE 293/2023) que, apreciando ação cível pelo procedimento comum na qual se postulava provimento jurisdicional que compelisse o INSS a conceder aposentadoria por tempo de contribuição ou aposentadoria especial, julgou parcialmente procedentes os pedidos constantes da inicial, condenando o INSS a conceder o benefício de Aposentadoria por Tempo de Contribuição ao Autor.
+2 - Em suas razões recursais o INSS impugna a) o reconhecimento da especialidade dos interregnos de 18/11/2003 a 21/11/2013 e de 24/06/2014 a 22/04/2019 sem que exista a informação do nível de ruído expresso em "NEN", afirmando não bastar a mera referência à aplicação da norma NHO-01; b) o reconhecimento da especialidade nos interregnos de 01/08/1990 até 13/02/1998 por exposição a agentes químicos sem que tenha sido informada sua denominação técnica, indicando seus componentes básicos, concentração e limites de tolerância ultrapassados.
+3 - Em pedidos alternativos, requer a fixação dos honorários advocatícios nos termos da Súmula nº 111, do STJ, e no percentual mínimo legal; a correção monetária com base no INPC e, a partir de janeiro de 2022, a aplicação da SELIC como índice de atualização monetária, remuneração de capital e compensação da mora.
+4 - O Autor também recorre. Em seu recurso adesivo busca o reconhecimento como tempo especial do período de 16/12/2013 a 11/06/2014, visto que o não reconhecimento em sentença levou ao indeferimento do pedido de concessão de aposentadoria especial, deferindo-se apenas o pedido de concessão de aposentadoria por tempo de contribuição, quando, em verdade, trabalhou exposto a hidrocarbonetos aromáticos, agente claramente nocivo à sua saúde, conforme provado em PPP acostado aos autos.
+5 - PPPs e LTCATs referentes aos períodos de 18/11/2003 à 21/11/2013 e 24/06/2014 a 22/04/2019, que registram nível de exposição a ruído acima do permissivo legal, com os LTCATs dando conta de que foi utilizada a metodologia prevista no NHO-01 da FUNDACENTRO em seu item 6.2.1.1., estando em conformidade com o Tema 174 da TNU. Tema 555 STF.
+6 - Reconhecimento da especialidade nos interregnos entre 01/08/1990 até 13/02/1998 por exposição a agentes químicos, comprovada por PPPs e LTCATs hígidos, devidamente analíticos, indicando a submissão do Segurado a agentes nocivos que menciona, referindo ao método de aferição devidamente amparado na legislação de regência.
+7 - Não conhecimento dos pedidos alternativos do INSS, visto já estarem acolhidos na r. Sentença.
+8 - Apelação do INSS conhecida, mas não provida.
+9 - Majoração dos honorários sucumbenciais a cargo do INSS no percentual de 1% (um por cento) sobre o valor da condenação, perfazendo o percentual de 11% (onze por cento) sobre o valor da condenação a título de honorários advocatícios, observada a gradação do § 3º do artigo 85 do CPC.
+10 - PPP apresentado pelo Autor, referente ao Período de 16/12/2013 a 11/06/2014, que não especifica qual o tipo de hidrocarboneto aromático a que estaria sujeito o Segurado, ou mesmo o nível de tal exposição, estando a pretensão do Autor em confronto com o Tema 298 da TNU que estabeleceu a seguinte tese: "A partir da vigência do Decreto 2.172/97, a indicação genérica de exposição a "hidrocarbonetos" ou "óleos e graxas", ainda que de origem mineral, não é suficiente para caracterizar a atividade como especial, sendo indispensável a especificação do agente nocivo".
+11 - Recurso adesivo conhecido, mas não provido.
+12 - Recursos conhecidos, mas não providos.
+Opostos embargos declaratórios, foram rejeitados (fls. 613/614).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 1.022, II, do CPC; 57, § 3º, e 58, § 1º, da Lei n. 8.213/1991. Sustenta que teria havido negativa de prestação jurisdicional e que (fl. 666):
+No caso posto a acertamento, conforme se extrai do acórdão recorrido, o segurado apresentou prova apta na forma da legislação de regência, consubstanciada em formulário PPP - Perfil Profissiográfico Previdenciário, informando que no período compreendido entre 16/12/2013 à 11/06/2014, o autor laborou na EMPERCON - Empresa de Montagem e Serviços Gerais Ltda., na função de Mecânico Industrial, desempenhando atividades de manutenção de motores, sistema de partes dos veículos, substituição de peças, reparação e teste dos componentes dos sistemas do veículo, e que para tanto fazia uso de produtos químicos na limpeza, manutenção, lubrificação e troca de óleo.
+O PPP informa que no desempenho de suas atividades como Mecânico Industrial, o segurado esteve exposto de forma habitual e permanente, não ocasional, nem intermitente, aos agentes químicos "hidrocarbonetos aromáticos", sem o uso de EPI eficaz, cuja avaliação se deu de forma qualitativa.
+Aduz, ainda (fl. 667):
+Colenda Corte, há de se ponderar que, in casu, não houve menção genérica a "hidrocarbonetos", mas ao contrário, foi especificado a qual hidrocarboneto a parte autora esteve exposta como mecânico industrial, ou seja, a "hidrocarbonetos aromáticos". Assim, ao contrário do que entendeu o e. Tribunal a quo, a menção a "hidrocarbonetos aromáticos" NÃO se traduz genérica.
+Por fim, pleiteia o provimento do recurso para que seja reformado o acórdão recorrido, a fim de "reconhecer a especialidade do período de 16/12/2013 à 11/06/2014 e, por conseguinte, conceder o benefício de aposentadoria especial ao segurado" (fl. 684).
+Contrarrazões às fls. 741/747.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não comporta êxito.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+O Tribunal de origem, após análise dos elementos de prova apresentados nos autos, concluiu não estar demonstrada a exposição a agente nocivo, nos termos das normas regulamentadoras. Observe-se o seguinte excerto do voto condutor do acórdão recorrido (fls. 527/529):
+O Autor, por sua vez, recorre adesivamente requerendo o reconhecimento como tempo especial o período de 16/12/2013 a 11/06/2014 por exposição ao agente nocivo "agentes químicos".
+Ocorre que o PPP apresentado para comprovar o alegado não especificou qual o tipo de hidrocarboneto aromático a que estaria sujeito, ou mesmo o nível de tal exposição, estando a pretensão do Autor em confronto com o Tema 298 da TNU que estabeleceu a seguinte tese: "A partir da vigência do Decreto 2.172/97, a indicação genérica de exposição a "hidrocarbonetos" ou "óleos e graxas", ainda que de origem mineral, não é suficiente para caracterizar a atividade como especial, sendo indispensável a especificação do agente nocivo".
+A esse respeito, assim discorreu o Juízo a quo:
+" 7º período: 16/12/2013 a 11/06/2014 (EMPERCON - Empresa de Montagem e Serviços Gerais Ltda):
+O período de 16/12/2013 a 11/06/2014 laborado na empresa EMPERCON, na função de "Mecânico Industrial", possui as seguintes anotações no PPP emitido (id. 12280355):
+" ..
+14. PROFISSIOGRAFIA
+14.2. Descrição das Atividades
+O segurado exerce suas atividades laborais. Elaborando plano de manutenção, realiza manutenção de motores, sistema de partes dos veículos, substitui peças, repara e testa o desempenho de componentes dos sistemas do veículo utilizando produtos químicos para limpeza e manutenção, substitui as suspensões, fazendo lubrificação e troca de óleo, trabalha seguindo normas de higiene, segurança no trabalho, qualidade e preservação ambiental, exposto aos riscos de forma habitual e permanente, nem ocasional, nem intermitente.
+15. EXPOSIÇÃO A FATORES DE RISCO
+15.3. Fator de Risco:
+Químico - Hidrocarbonetos aromáticos. Medição da intensidade/concentração N/A, feita pelo método "qualitativo", sem registro de EPI eficaz.
+ .. "
+Para tal período, o PPP não foi preciso ao avaliar os níveis dos hidrocarbonetos, mas utilizou-se da técnica "qualitativa", sendo impossível avaliar se tal técnica atendeu à NR-15 e seu Anexo 13, não podendo ser reconhecido tal período como de labor especial, inclusive já reconhecido pela autarquia em 05 meses e 26 dias de tempo comum (PA2 /NB 199.974.804-0 - id. 12280361 - p. 48) ."
+Com essas considerações, conheço, mas nego provimento ao recurso adesivo do Autor.
+A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
