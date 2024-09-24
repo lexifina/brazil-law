@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MATHEUS RICHARDY DA SILVA RODRIGUES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Decido.
+Conforme informado pela defesa, a segregação cautelar do paciente foi revogada(Processo nº 5768613-18.2022.8.09.0011), sendo-lhe concedido o benefício da liberdade provisória conforme decisão juntada aos autos às fls. 89/91.
+Consta, ainda, dos autos (e-STJ, fls. 92/104), que foi prolatada sentença condenatória em desfavor do paciente, sendo mantida sua liberdade, nos termos do seguinte dispositivo:
+IV - Dispositivo:
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a pretensão punitiva estatal contida na denúncia para CONDENAR o réu MATHEUS RICHARDY DA SILVA RODRIGUES, devidamente qualificado nos autos, pela prática do delito previsto no artigo 33, § 4º, da Lei n.º11.343/06.
+Atendendo ao princípio da individualização da pena, passo à dosimetria.
+O art. 42 da Lei 11.343/2006 estabelece as seguintes diretrizes para fixação da pena-base: "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente". Dessa feita, foram apreendidos 24 (vinte e quatro) porções de pasta base de cocaína.
+Dessa feita, a quantidade de droga, em que pese ser expressiva, não revela maiores considerações. Por sua vez, a natureza da droga merece destaque (cocaína), posto seu elevado poder viciante, entretanto, me valerei de tal circunstância na terceira fase da dosimetria, para fins de modulação da causa de diminuição da pena.
+A culpabilidade não excede a normalidade do tipo. Deixo de considerar os antecedentes do réu, eis que é tecnicamente primário. Não existem elementos nos autos que permitam a aferição da personalidade e da conduta social do acusado. Os motivos foram normais ao delito. As circunstâncias do crime não se revelam negativas. As consequências advindas do crime, embora graves, duradouras e difusas, já foram consideradas tanto na tipificação da conduta como de perigo abstrato, como também nas circunstâncias especiais previstas no art. 42 da Lei de Drogas. Por se tratar de tipo de perigo abstrato, inexiste uma vítima concreta, sendo, portanto, prejudicada a análise do comportamento da vítima.
+Assim, diante da inexistência de circunstâncias desfavoráveis, fixo a pena-base no mínimo legal de 05 (cinco) anos de reclusão e 500 (quinhentos) dias multas.
+Na segunda fase, não há agravantes. Por outro lado, o réu faz jus ao reconhecimento da circunstância atenuante da menoridade relativa (artigo 65, I, também do CP), pois contava com 20 anos na data dos fatos (data de nascimento: 23/06/2002). Contudo, considerando a impossibilidade de redução da pena aquém do mínimo legal nesta fase, nos termos da Súmula n.231, do STJ, mantenho a pena intermediáriaem05 (cinco) anos de reclusão e 500(quinhentos) dias-multa.
+Na terceira etapa dosimétrica, não há causas de aumento. Por outro lado, diante da figura do tráfico privilegiado (§ 4, do artigo 33, da Lei 13.343/06), diminuo a pena em 1/2,considerando a natureza da substância apreendida e seu alto poder viciante (cocaína), tornando a reprimenda DEFINITIVA para o crime de tráfico de drogas, em 02 (dois) anos e 06 (seis)meses de reclusão e 250 (duzentos e cinquenta) dias-multa, a razão de 1/30 do salário-mínimo vigente à época dos fatos.
+Deixo de computar a detração, uma vez que não influenciará no regime inicial de cumprimento de pena.
+Nos termos do artigo 33 e seguintes do Código Penal, bem como considerando a pena definitiva aplicada, a questão da reincidência e as circunstâncias judiciais conforme analisado por ocasião da dosimetria da pena, fixo o regime inicial aberto para o início do cumprimento da pena.
+Presentes os requisitos legais, nos termos do artigo 44, do Código Penal, substituo apena privativa de liberdade imposta por duas restritivas de direito, consistentes em:
+(..)
+Prisão Preventiva: Verifico que a decisão proferida em evento n. 108 concluiu pela ausência dos requisitos para permanência da prisão cautelar (art. 312, CPP). Logo, diante dos princípios da homogeneidade e proporcionalidade, deverá o réu recorrer (caso o faça) em liberdade.
+Como o pedido constante da petição inicial diz respeito ao trancamento da ação penal, a superveniência de sentença condenatória torna prejudicada análise da impetração, por força do enunciado da Súmula n. 648 desta Corte Superior de Justiça, que dispõe que "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
