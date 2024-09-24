@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 781/783).
+O Tribunal de origem negou provimento à apelação da recorrente, em julgado que recebeu a seguinte ementa (e-STJ fls. 655/656):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA OBJETIVANDO A NULIDADE DA CONSTITUIÇÃO DE DIREITO DE SUPERFÍCIE SOBRE O IMÓVEL LOCADO À AUTORA, EMPRESA DE TELECOMUNICAÇÕES, PARA A INSTALAÇÃO DE ESTAÇÃO RÁDIO BASE - ALEGAÇÃO AUTORAL DE SIMULAÇÃO E INCOMPATIBILIDADE ENTRE OS NEGÓCIOS (LOCAÇÃO E DIREITO DE SUPERFÍCIE), EM DECORRÊNCIA DE CONFLITO COM CLÁUSULA DO CONTRATO DE LOCAÇÃO, A QUAL PROÍBE A TRANSFERÊNCIA DA ÁREA LOCADA PARA TERCEIROS ATUANTES NO RAMO DE TELECOMUNICAÇÕES -
+SENTENÇA QUE JULGO PARCIALMENTE PROCEDENTE O PEDIDO, TÃO SOMENTE PARA, RECONHECENDO A PRIMEIRA RÉ COMO LOCADORA CREDORA, DECLARAR A EXTINÇÃO DA OBRIGAÇÃO LOCATÍCIA RELATIVA AOS ALUGUÉIS DEPOSITADOS ATÉ A DATA DA PROLAÇÃO DO JULGADO -
+IRRESIGNAÇÃO MANIFESTADA PELA AUTORA, BUSCANDO A REFORMA INTEGRAL DA SENTENÇA - RECURSO TAMBÉM INTERPOSTO PELA 1ª RÉ -
+APELAÇÃO DA 1ª RÉ QUE NÃO É CONHECIDO, UMA VEZ QUE OS PEDIDOS RECURSAIS SE REFEREM AO PROCESSO EM APENSO, DE Nº 0258092 -52.2018.8.19.000, CUJO OBJETO É A LOCAÇÃO DO IMÓVEL OCUPADO PELA AUTORA, TRATANDO -SE, PORTANTO, DE MATÉRIA ESTRANHA À PRESENTE DEMANDA -
+INCONFORMISMO DA AUTORA QUE NÃO MERECE ACOLHIMENTO - INEXISTÊNCIA DE SIMULAÇÃO SOBRE EVENTUAL CESSÃO DE POSIÇÃO CONTRATUAL NA RELAÇÃO LOCATÍCIA E TAMBÉM DE INCOMPATIBIILDADE ENTRE A LOCAÇÃO E A CONSTITUIÇÃO DO DIREITO DE SUPERFÍCIE - SUPERFICIÁRIA QUE SE OBRIGOU A RESPEITAR AS DISPOSIÇÕES DO CONTRATO DE LOCAÇÃO - AUSÊNCIA DE EXERCÍCIO DE ATIVIDADES CONCORRENTES, NO CASO CONCRETO - SENTENÇA QUE SE MANTÉM -
+NÃO CONHEÇO DO RECURSO DA 1ª RÉ E NEGO PROVIMENTO AO RECURSO DA AUTORA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 720/725).
+No recurso especial (e-STJ fls. 739/754), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou afronta aos arts. 166, II, 167, § 1º, e 1.369 do CC, defendendo a nulidade do ato de transmissão do direito de superfície, por dois motivos: (i) impossibilidade do ato jurídico praticado, tendo em vista o contrato de locação anteriormente firmado, e (ii) simulação do ato jurídico, na medida em que os recorridos formalizaram a transmissão do direito de superfície com a real finalidade de cessão de contrato pré-existente.
+Contrarrazões apresentadas (e-STJ fls. 765/777).
+No agravo (e-STJ fls. 797/801), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 807/819).
+É o relatório.
+Decido.
+Não procede o argumento de ofensa aos arts. 166, II, 167, § 1º, e 1.369 do CC.
+As instâncias de origem, diante das peculiaridades da controvérsia, entenderam pela inexistência de incompatibilidade entre os negócios jurídicos firmados entre CLARO S.A. e IEDA CORREA E CASTRO NEUMANN (contrato de locação) e IEDA CORREA E CASTRO NEUMANN e AP WIRELESS BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA (transmissão do direito de superfície).
+Nesse contexto, o TJRJ consignou que (i) inexiste concorrência entre as atividades de CLARO S.A. e AP WIRELESS BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA., o que poderia conflitar com a cláusula 8.1.2 do contrato de locação, a qual proíbe a transmissão da área locada para terceiros atuantes no ramo de telecomunicações, (ii) AP WIRELESS BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA comprometeu-se a cumprir as cláusulas do contrato de locação firmado entre IEDA CORREA E CASTRO NEUMANN e CLARO S.A, conforme cláusula 7.2.4 da Escritura de Constituição da Superfície, e (iii) no contrato de locação entre IEDA CORREA E CASTRO NEUMANN e CLARO S.A., não foi estabelecida vedação quanto à constituição de direito de superfície.
+Assim, o Tribunal de origem concluiu pela inexistência de qualquer impedimento à constituição do direito de superfície em favor de AP WIRELESS BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA.
+Acerca do tema, devem ser aplicadas as Súmulas n. 5 e 7 do STJ, dada a necessidade de revolvimento de matéria fática, bem como de análise contratual, para o afastamento da conclusão de compatibilidade entre os negócios jurídicos.
+Ademais, a Corte de origem asseverou a inexistência de simulação a ensejar a nulidade do ato jurídico que constituiu o direito de superfície em favor de AP WIRELESS BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA. Confira-se (e-STJ fls. 665/667):
+Em relação à alegada tese de simulação, a parte autora pretende ver reconhecida a nulidade do negócio jurídico celebrado entre os réus, uma vez que, segundo sua narrativa, teriam efetivamente simulado a cessão de posição contratual, o que seria vedado pelo contrato de locação.
+ ..
+Ocorre que não restou demonstrado nos autos que o negócio celebrado entre as rés configure a simulação de eventual contrato de cessão de posição contratual.
+Também não se identifica nenhuma intenção de enganar ou de prejudicar a CLARO, muito menos de interferir na sua atividade no local objeto da superfície, já que, conforme expressamente prevê a Cláusula 7.2.4. acima transcrita, a apelada assumiu a obrigação irrevogável e irretratável de respeitar em todos os termos o contrato de locação celebrado entre a CLARO e a Sra. Ieda Neumann, que aliás permanece incólume com a purga da mora efetuada nos autos em apenso nº 0167154 - 11.2018.8.19.0001.
+Neste giro, o que se verifica é que o direito de superfície instituído em favor da apelada não traz qualquer prejuízo para a recorrente, visto que todos os direitos e interesses relacionados ao contrato de locação estão rigorosamente preservados.
+Assim, não vislumbro quaisquer das hipóteses de simulação descritas no dispositivo legal do art. 167 do Código Civil.
+No especial, a recorrente não impugnou o fundamente de que, conforme previsão contratual, AP WIRELESS BRASIL INVESTIMENTOS IMOBILIÁRIOS LTDA. assumiu a obrigação irrevogável e irretratável de respeitar todos os termos do contrato de locação celebrado entre IEDA CORREA E CASTRO NEUMANN e CLARO S.A., não se identificando nenhuma intenção de simulação no negócio jurídico.
+Incide a Súmula n. 283 do STF.
+Ainda que assim não fosse, para rever o entendimento do Tribunal do estado, de que não ficou comprovada nenhuma situação a configurar a simulação do negócio jurídico, seria neces sária nova análise do ato de transmissão do direito de superfície reexame e do conjunto fático-probatório dos autos, providência vedada, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado , observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
