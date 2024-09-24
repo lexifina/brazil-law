@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MONICA BAHA DE FREITAS MENEZES (MONICA) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 998/1.013).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, MONICA apontou, a par de divergência jurisprudencial, a violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC, 47 do CDC, 189, 215, 423 e 424 do CC, ao sustentar ausência de fundamentação e omissão do acórdão recorrido acerca das seguintes questões: (1) que o prazo prescricional deve ser contado da data da assinatura da escritura pública (11/6/2014), por representar o momento em que a promitente compradora teve ciência de que estaria contratualmente habilitada a exigir a restituição do pagamento da comissão de corretagem e da taxa SATI; e (2) que a restituição pretendida tem por fundamento a própria estipulação, na escritura pública de promessa de compra e venda, de que o preço pago pela corretagem deveria ser abatido do valor do imóvel, razão pela qual o prazo prescricional deve ser computado a partir da assinatura desse documento, e não desde a data do pagamento.
+Trata-se de ação de cobrança ajuizada por MONICA contra SPE BISPO - EMPREENDIMENTO IMOBILIÁRIO LTDA., CALÇADA CONSTRUTORA LTDA. e BRASIL BROKERS, sucedida, no curso do feito por ASIMÓVEL CONSULTORIA IMOBILIÁRIA LTDA. (SPE BISPO e outras), objetivando a devolução dos valores pagos a título de comissão de corretagem e taxa de serviço de assistência técnico-imobiliária (taxa SATI). em decorrência do contrato de promessa de compra e venda de imóvel firmado entre as partes.
+Da violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC
+Sobre o o decurso do prazo prescricional trienal incidente à hipótese, ao rejulgar os embargos de declaração opostos pela ora insurgente, em cumprimento à decisão proferida por esta Corte Superior no julgamento do AREsp nº 1.929.035/RJ, o TJRJ assim consignou:
+Como regra, a jurisprudência pacífica do STJ fixou como termo inicial da prescrição trienal para a restituição dessas parcelas a data do pagamento, à luz da teoria da actio nata, vide os seguintes julgados (de ambas as turmas de direito privado daquela corte):
+ ..
+Segundo a embargante, a ciência inequívoca do fato danoso teria ocorrido posteriormente ao pagamento das verbas quando, na celebração da escritura, teria tido ciência de cláusula contratual que lhe desobrigaria do pagamento daquelas parcelas - notadamente o item VIII.2 do instrumento. No seu entender, apenas com a assinatura o seu direito ao não pagamento foi violado.
+Ocorre que, a teor dos elementos probatórios trazidos pelas partes, não existe qualquer disposição contratual que tenha sido violada, pelo contrário. A cláusula aludida pela consumidora refere-se apenas à comissão de corretagem, prevendo expressamente a responsabilidade do comprador pelo pagamento (p. 33 destes autos):
+VIII. COMISSÃO DE CORRETAGEM
+VIII.1 - A comissão de corretagem, devida em decorrência da intermediação do presente negócio imobiliário, será paga pelo COMPRADOR, em nome da VENDEDORA, diretamente ao profissional e/ou empresa que atuou na intermediação deste negócio.
+VIII.2 - A forma de pagamento da comissão de corretagem e seu respectivo montante serão objeto de termo em separado, sendo certo que o valor pago pelo COMPRADOR não é acrescentado, mas deduzido do preço da unidade objeto deste contrato (item III).
+Em verdade, o subitem VIII.2 assinalado pela embargante não a desonera do pagamento da comissão de corretagem. Essa cláusula deve ser interpretada conjuntamente com o termo apartado de p. 257, assinado na data do pagamento (07/06/2014), ocasião em que a consumidora declarou estar ciente de que o valor do contrato de promessa de compra em venda não representaria o valor total da negociação, posto que já deduzido o valor da comissão de corretagem.
+Logo, em não havendo qualquer cláusula contratual que expressamente afaste a obrigação da consumidora pelo pagamento da comissão de corretagem e da taxa SATI, a tese da embargante não é capaz de infirmar a conclusão do juízo de origem, pois a virtual lesão ao direito se submete à regra geral, coincidindo com o pagamento (e-STJ, fls. 793/795).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do CPC, o que busca MONICA é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados nos referidos dispositivos da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos a utos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp nº 1.500.162/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 25/11/2019, DJe de 29/11/2019 - sem destaque no original.)
+Não se verifica, assim, a apontada contrariedade à lei processual.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE COBRANÇA. REPETIÇÃO DE VALORES PAGOS A TÍTULO DE COMISSÃO DE CORRETAGEM E TAXA SATI. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
