@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAYCON DOUGLAS RIBEIRO DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da Apelação n. 1503474-42.2023.8.26.0019, cujo acórdão ficou assim ementado (e-STJ fl. 12):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - RECURSO DA DEFESA: Absolvição INVIABILIDADE Autoria e materialidade devidamente evidenciada nos autos. Redução do aumento da pena-base Quantidade de entorpecente que não justifica o aumento da pena-base. Manutenção da circunstância referente aos maus antecedentes 1/6. Reincidência Agravante da reincidência compensada com a atenuante da confissão Prejudicado o pedido. Manutenção do regime inicial fechado - REINCIDÊNCIA. INADMISSIBILIDADE da substituição da pena privativa de liberdade por restritiva de direitos - Inteligência do artigo 44, inciso I, do Código Penal, bem como a concessão do "Sursis". Recurso parcialmente provido.
+Daí o presente writ, no qual requer a defesa (e-STJ fl. 9):
+seja conhecido e provido o presente writ e para conceder à paciente; a fixação da pena base no seu mínimo legal, ou ao menos que seja efetuado o aumento legal, assim como o redutor previsto no parágrafo 4º do artigo 33 da Lei nº 11.343/06, além disso, requer o estabelecimento do regime semiaberto para o desconto da reprimenda, para oficiando-se à DD. Autoridade Coatora para que preste as informações de estilo, nos termos da lei, como medida de Justiça.
+É o relatório.
+Decido.
+Esta Corte, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nessa linha, o Superior Tribunal de Justiça, em diversas ocasiões, já assentou a impossibilidade de impetração de habeas corpus em substituição à revisão criminal, quando já transitada em julgado a condenação do réu, posicionando-se no sentido de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 730.555/SC, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022).
+Nesse mesmo sentido, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022, grifei.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS. ACÓRDÃO TRANSITADO EM JULGADO. DOSIMETRIA. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. AUMENTO DA PENA-BASE. ELEVADA QUANTIDADE DE DROGAS. PROPORCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no HC n. 751.137/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/8/2022, DJe de 4/8/2022, grifei.)
+Assim, não se deve conhecer do writ que pretende a desconstituição de condenação definitiva, olvidando-se a parte de ajuizar a necessária revisão criminal antes de inaugurar a competência desta Corte acerca da controvérsia, notadamente no caso, em que não se verifica flagrante ilegalidade.
+De fato, vê-se que a defesa não se atentou aos fundamentos legítimos do acórdão recorrido para elevar a pena-base, quais sejam, os antecedentes (e não a quantidade de droga, como ora afirmado), e para afastar a minorante do tráfico, no caso a reincidência.
+Por estas considerações, indefiro, in limine, o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
