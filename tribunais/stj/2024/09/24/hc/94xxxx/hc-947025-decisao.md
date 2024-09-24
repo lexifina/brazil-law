@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  THALES  RAFAEL  LUDOVICO  apontando  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  .
+Os  autos  dão  conta  de  que  o  paciente  foi  condenado,  por  sentença  prolatada  em  25/10/2022,  à  pena  de  5  anos  e  10  meses  de  reclusão,  em  regime  inicial  fechado,  pela  prática  do  delito  do  arts.  33  da  Lei  n.  11.343/2006,  pois,  "no  dia  19  de  maio  de  2022,  .. ,  trazia  consigo,  para  fins  de  entrega  ao  consumo  de  terceiros,  drogas,  consistentes  em  01  (um)  tijolo  de  maconha,  pesando  aproximadamente  142  (cento  e  quarenta  e  dois  gramas),  sem  autorização  e  em  desacordo  com  a  determinação  legal  e  regulamentar,  além  de  200  embalagens  plásticas  zip  log  e  uma  balança  de  precisão"  (e-STJ  fls. 18/36).
+Em  19/12/2022,  o  Tribunal  de  origem  deu  parcial  provimento  à  apelação  defensiva  para  alterar  a  segunda  fase  da  dosimetria,  reduzindo  a  pena  final  para  5  anos  de  reclusão,  mantidos  os  demais  termos  da  sentença  (e-STJ  fls.  27/33).
+Certidão  de  trânsito  em  julgado  do  acórdão,  ocorrido  em  12/6/2023,  à  e-STJ  fl.  34.
+No  presente  writ,  impetrado  em  18/9/2024,  a  defesa  sustenta  que  há  constrangimento  ilegal  na  fixação  de  regime  carcerário  inicial  mais  grave  imposto  ao  paciente  do  que  o  cabível  .
+Alega,  ainda,  que  houve  acréscimo  indevido  de  fundamentação  pelo  Tribunal  estadual,  em  reformatio  in  pejus.
+  Ao  final,  requer,  em  liminar  e  no  mérito,  a  concessão  da  ordem  para  a  fixação  do  regime  inicial  semiaberto.
+É  o  relatório.  Decido.
+Depreende-se  dos  autos  que  o  presente  writ  impugna  acórdão  do  Tribunal  de  origem  prolatado  na  Apelação  Criminal  n.  1501204-98.2022.8.26.0530,  sob  a  alegação  de  ilegalidade  na  fixação  do  regime  inicial  fechado.
+Ocorre  que  o  pedido  deste  habeas  corpus  foi  apresentado  no  HC  n.  874.005/SP (transitado  em  julgado  em  27/2/2024),  impetrado  contra  o  mesmo  acórdão  dos autos ora em exame  e  do qual não se conheceu por  ser  substitutivo  de  revisão  criminal  e  não haver ilegalidade  no  modo  carcerário  inicial,  tendo  em  vista  que,  "apesar  de  a  pena-base  ter  sido  fixada  no  mínimo  legal  e  de  a  reprimenda  definitiva  ter  sido  estabelecida  em  quantum  inferior  a  8  anos,  o  regime  prisional  a  ser  imposto  deve  ser  o  fechado,  uma  vez  que  se  trata  de  réu  reincidente"  (e-STJ  fl.  71 , HC n. 874.005/SP) .
+À  guisa  do  exposto,  diante  da  constatação  de  que  o  presente  remédio  constitucional  é  mera  reiteração  do  HC  n.  874.005/SP,  indefiro  liminarmente  a  petição  inicial,  com  fulcro  no  art.  210  do  Regimento  Interno  desta  Corte  Superior.
+Publique-se.  Intimem-se.
+EMENTA
