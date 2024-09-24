@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICÍPIO DE BOCAINA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, que inadmitiu recurso especial, apresentado nos autos do Agravo de Instrumento n. 0714633-36.2019.8.18.0000, assim ementado (fls. 594-602):
+ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO DE INSTRUMENTO E AGRAVO INTERNO. PRELIMINARES DE INADEQUAÇÃO DA VIA ELEITA, LITISPENDÊNCIA E COISA JULGADA. REJEITADAS. INSURGÊNCIA CONTRA NEGATIVA DE PEDIDO EM IMPUGNAÇÃO DE SENTENÇA. DECISÃO RECORRIDA ADEQUADAMENTE FUNDAMENTADA. JUÍZO QUE TAMBÉM SE BASEOU EM ACORDO REALIZADO ENTRE AS PARTES PROCESSUAIS. PEDIDO DE LIMINAR NEGADO. MANUTENÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO PREJUDICADO.
+O Ministro OG FERNANDES, no exercício da Presidência do STJ, indeferiu o pedido de efeito suspensivo (fls. 1190-1191), contra o qual a parte agravante interpôs agravo interno (fls. 1196-1302).
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte de origem não admitiu o apelo nobre pelos seguintes fundamentos (fls. 1076-1079 ):
+Portanto, o Recorrente não logra êxito em demonstrar a forma e a medida em que se deu tal ofensa aos dispositivos de lei federal supramencionados, restringindo-se à simples oposição à convicção firmada no julgado, configurando mero inconformismo e inépcia das razões recursais, caracterizando deficiência de fundamentação, e incidindo, por analogia, o óbice da Súm. 284, do STF.
+Ademais, resta claro que o acórdão objurgado fundamentou de forma pormenorizada com base nas nuances probatórias e processuais e, ainda que fosse aferir de forma diversa, seria imprescindível o revolvimento do conjunto fático-probatório da causa, esbarrando no óbice contido na Súm. nº 7, do STJ, reforçando a conclusão do mero inconformismo do Recorrente com a solução jurídica adotada e o intuito de obter novo julgamento com a reanálise de fatos e provas.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, de ofensa a coisa julgada formada no MS 022/05, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Do mesmo modo em relação à Súmula n. 284 do STF (deficiência de fundamentação), a parte agravante deixou de impugnar, especificamente, o fundamento da decisão agravada, limitando-se a assim sustentar (fls. 1135-1136):
+Não há falar em incidência da Súmula 284 /STF, quando a parte indicou expressamente os dispositivos legais violados, retrotranscritos linhas acima. Além de que os dispositivos legais foram devidamente prequestionados.
+Como se verifica do Recurso Especial, é absolutamente inaplicável o teor da Súmula 284/STF ao caso concreto, posto que foram atacados os fundamentos da decisão recorrida no sentido de demonstrar o exaurimento das tentativas de declaração/reconhecimento da coisa julgada, do v. acórdão prolatado pela 2ª CE do TJPI, o qual foi totalmente executada e sem ação rescisória.
+E que no procedimento administrativo foram observados os princípios constitucionais do devido processo legal, do contraditório e da ampla defesa, conforme teor do v. acórdão prolatado pela 2ª CE do TJPI, já retrotranscrito.
+Ademais, poder-se-ia até, hipoteticamente, cogitar que tal impugnação não fora suficiente para infirmar o fundamento em questão, mas não se pode afirmar que houve deficiência de impugnação apta a ensejar a aplicação do artigo 932 III do CPC, muito menos a aplicação do teor da Súmula 284 do STF. Absolutamente.
+De se ressaltar que a exigência de impugnação aos termos da decisão recorrida decorre da dialética processual e da própria lógica jurídica.
+Portanto, tendo o ora agravante impugnado todos os fundamentos da decisão recorrida, por ocasião da interposição do recurso excepcional, notadamente quanto a presença da coisa julgada material do v. acórdão prolatado pela 2ª CE do TJPI, não se mostra plausível, nessa hipótese, deixar de conhecer do recurso sob o argumento de ausência de impugnação específica ao acórdão regional.
+Assim, inobstante tenha o recurso todos os requisitos para o seu conhecimento e provimento, é indene de dúvidas que foi procedida a impugnação específica a todos os fundamentos da decisão recorrida, o que afasta por completo a hipótese de aplicação da Súmula 284 do STF, e permite demonstrar o desacerto da decisão que não admitiu o Recurso Especial, posto que deixou de apreciar suas relevantes razões meritórias.
+Assim, não há que se cogitar da aplicação do óbice da Súmula284/STF, relativamente à tese recursal de violação aos arts. 337, §§3º e 4º, 502, e 508 c/c com o art. 6º, §3º, da Lei de Introdução às Normas do Direito Brasileiro.
+Com essas considerações, mister que seja reconsiderada/reformada a decisão monocrática, que não conheceu do recurso especial por suposta ausência de impugnação específica aos fundamentos da decisão recorrida, afastando-se a aplicação do Art. 932, III, do CPC, no sentido de que seja devidamente apreciado o mérito do Recurso Especial, dando-lhe provimento para reformar o v. acórdão do TJPI recorrido.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC/2015). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, com fundam ento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Prejudicado o Agravo interno de fls. 1196-1302.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
