@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Erisvaldo Cardoso dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que, na execução penal, foi deferida a remição da pena pelo estudo, e revogado o benefício pelo Tribunal a quo, em agravo em execução interposto pelo Ministério Público estadual.
+O impetrante sustenta que o paciente faz jus a concessão da ordem de a fim de garantir a remição parcial pelo ENCCEJA, garantindo assim celeridade e dignidade no cumprimento da pena, com fundamento na Recomendação n. 44 de 26/11/2013 do CNJ.
+Afirma que
+O paciente em testilha não deverá ser prejudicado, pois conforme a Lei de Execução Penal e as Resoluções nº 44 e 391, do CNJ, efetivamente realizou os estudos que lhe dão direito à Remição de Penas, não estando presentes os motivos para negar tal benefício (fl. 8).
+Requer, liminarmente e no mérito, a concessão da ordem para restabelecer a decisão de primeiro grau que deferiu a remição de pena pelo estudo ao paciente.
+Liminar indeferida e requisitadas informações (fls. 24/25).
+Informações acostadas (fls. 31/47).
+Manifestação do Ministério Público Federal pela concessão da ordem de habeas corpus, de ofício (fls. 51/56).
+Vieram os autos conclusos (fl. 58).
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O Juízo de primeira instância, ao apreciar o pedido de remição formulado em favor do ora paciente, deferiu o pleito, nos seguintes termos:
+Atualmente a certificação da conclusão dos ensinos médio e fundamental não são mais feitas com base nas notas obtidas no ENEM, mas sim pela certificação pelo ENCCEJA, conforme Portaria nº 458/2020 do MEC (parágrafo único do artigo 12).
+A concessão da remição pelo estudo deve atender ao disposto no art. 126 da LEP e na Resolução 391/2021, do CNJ, dispõe em seu art. 3º, parágrafo único, acerca da aprovação em nível educacional: (..)
+Portanto, se o apenado, no período em que se encontra cumprindo sua reprimenda, obtém aprovação no ENCCEJA ou no ENEM, presume-se que tenha realizado as atividades de estudo para tanto durante o cumprimento de sua pena.
+Deve-se, no entanto, considerar que serão computados para cada área do conhecimento que o reeducando obteve aprovação no exame de certificação do ensino, a quinta parte correspondente a essa aprovação e, caso registre aprovação integral nas cinco áreas do conhecimento, a remição deverá corresponder ao total de horas dividido por doze, acrescido de 1/3 (um terço).
+(..)
+Desta forma, adotando-se tal posição, deve-se considerar para fins de remição da pena o montante de 1.600 horas no caso de aprovação no ensino fundamental e de 1.200 horas no caso de ser aprovado no ensino médio, sendo que 1/5 desse montante corresponde a 320 e 240 horas (26 e 20 dias a serem remidos, respectivamente).
+Outrossim, considerando que deve ser remido 1 dia de pena para cada 12 horas estudadas, é necessário dividir o montante de horas por 12, resultando em 26 dias a serem computados (fls. 12/15).
+Do acórdão impugnado, extrai-se o seguinte excerto do voto condutor (fls. 19/20):
+Para que fosse beneficiado com eventual remição, necessário seria a comprovação do Agravado, com juntada de documento oficial emitido pela autoridade responsável pelo exame, o que não foi feito.
+Ademais, nos termos da Recomendação nº 44/13, do Conselho Nacional de Justiça, regulamentada pela Resolução nº 391/21, para o reconhecimento da remição pela aprovação no ENCCEJA2023, na hipótese do condenado não estar vinculado às atividades regulares de ensino no interior do estabelecimento penal, há a necessidade de se comprovar a realização de estudo por conta própria ou acompanhamento pedagógico, o que também não ocorreu no caso dos autos.
+Mais, para obter a declaração parcial de proficiência da participação doENCCEJA2023, o participante deverá atender os requisitos previstos no Item 15.2, do Edital nº 19, de 13 de março de 2023, do Instituto Nacional de Estudos e Pesquisas Anísio Teixeira INEP: (..)
+No entanto, o Agravado somente atingiu a pontuação necessária em Ciências Naturais (fls. 17).
+Logo, deve ser cassada a r. decisão agravada.
+Segundo a Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) (art. 24, I), a carga horária total do ensino médio corresponde a 2.400 (duas mil e quatrocentos) horas. A base de cálculo, para o caso de o apenado não frequentar curso regular, mas estudar por conta própria, é de 50% (cinquenta por cento), ou seja, 1.200 (um mil e duzentas) horas, no caso de ensino médio, conforme art. 1º, IV, da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, devem ser consideradas 1.600 (um mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (um mil e duzentas) horas para o ensino médio, o que corresponde a 50% (cinquenta por cento) da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação n. 44/2013 do Conselho Nacional de Justiça (HC n. 602.425/SC, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 10/03/2021, DJe de 06/04/2021):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. REMIÇÃO DA PENA POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) - ENSINO FUNDAMENTAL. BASE DE CÁLCULO. RECOMENDAÇÃO CNJ 44/2013. LEI 9.394/1996. ORIENTAÇÃO JURISPRUDENCIAL DA TERCEIRA SEÇÃO. AGRAVO REGIMENTAL PROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, devem ser consideradas 1.600 horas para os anos finais do ensino fundamental e 1.200 horas para o ensino médio, o que corresponde a 50% da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça (HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/03/2021, DJe 06/04/2021).
+2. No caso, o paciente foi aprovado em duas das cinco áreas de conhecimento do ENCCEJA/Ensino Fundamental, razão pela qual tem direito à remição de 52 dias de pena.
+3. Agravo regimental provido para, concedendo a ordem, deferir ao paciente a remição de 52 dias de pena pela aprovação em 2 áreas do Exame Nacional para Certificação de Competências de Jovens Adultos - ENCCEJA/Ensino Fundamental.
+(AgRg no HC n. 622.319/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 1/6/2021, DJe de 7/6/2021).
+Ademais, existindo comprovação, por meio das notas obtidas no referido exame, ainda que não haja certificação de conclusão de grau, faz jus o paciente à remição correspondente à aprovação nas respectivas áreas de conhecimento e da redação.
+Assim, verifica-se que o Tribunal de origem, ao interpretar os mencionados dispositivos em desalinho ao entendimento sedimentado por esta Corte Superior, incorreu em flagrante constrangimento ilegal apto a justificar à concessão da ordem de habeas corpus, de ofício.
+Ante o exposto, não conheço do habeas corpus, porém, concedo a ordem, de ofício, para anular o acórdão atacad o e restabelecer a decisão do Juízo de Execução que homologou a remição referente à aprovação em uma área do ENCCEJA .
+Comunique-se, com urgência, o teor da referida decisão ao Juízo de Execução e ao Tribunal de origem.
+Publique-se e i ntimem-se.
+ EMENTA
