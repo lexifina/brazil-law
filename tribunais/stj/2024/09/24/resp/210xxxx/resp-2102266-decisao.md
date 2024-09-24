@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/RJ, assim ementado (fl. 46):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CITAÇÃO POR CORREIO. AR QUE RETORNOU COM INFORMAÇÃO DE SER DESCONHECIDA A EXECUTADA. JUÍZO QUE CONSIDEROU A DISSOLUÇÃO IRREGULAR DA SOCIEDADE, DETERMINANDO O REDIRECIONAMENTO PARA SÓCIO, EFETUANDO BLOQUEIO NAS CONTAS DESTE. INSURGÊNCIA. DECISÃO QUE SE MANTÉM. ALEGAÇÃO DE ERRO NA COMUNICAÇÃO DO CONDOMÍNIO. ENDEREÇO DA SEDE DA EMPRESA QUE CONSTOU CORRETAMENTE DO ATO DE COMUNICAÇÃO PROCESSUAL. AUSÊNCIA DE ELEMENTOS SUFICIENTES A AFASTAR A PRESUNÇÃO HAVIDA EM 1º GRAU. DESPROVIMENTO DO RECURSO.
+O recorrente alega, além de dissídio jurisprudencial, violação dos artigos 6º, III, 7º, I e 8º, III, da Lei 6.830/80, 2º, 141, 490 e 492 do CPC/2015, aos seguintes argumentos: (i) a AR de citação foi devolvida com a indicação de desconhecimento da executada, tendo a magistrada de 1º grau determinado, de ofício, o direcionamento da execução para o sócio administrador, sem que tenha havido sua citação; (ii) "é prática no Município do Rio de Janeiro que as Citações Judiciais por via epistolar da 12ª. Vara de Fazenda Pública que é responsável pelas Execuções Fiscais são feitas na administração dos condomínios e não no endereço Executado como determina a Lei de Execuções Fiscais" (fl. 61).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 153-155.
+É o relatório. Passo a decidir.
+Trata-se, na origem, de agravo de instrumento interposto pela parte ora recorrente, em face de decisão proferida nos autos de execução fiscal, na qual o Juízo de 1º Grau determinou, de ofício, o redirecionamento da execução contra sócio administrador, em razão da presunção de dissolução irregular da executada, por não ter sido encontrada no endereço informado ao Fisco (Súmula 435/STJ).
+O Tribunal de origem negou provimento ao agravo de instrumento, nos seguintes termos (fls. 49-50; grifos nossos):
+Trata-se, na origem, de ação de execução fiscal interposta em face da sociedade ORTOP ORTOPEDIA E TRAUMATOLOGIA LTDA EPP, em 12/10/2021, com base em CDA referente a débito de ISS e multas, com fundamento legal no artigo 44, observado o artigo 178, ambos da lei 691/84 e artigo 51, I, item 1, da LEI 691/84, no período de 2012 a 2017, com valor atualizado do débito: R$ 1.868.859,31.
+A dívida restou consubstanciada nos autos principais, não havendo comprovação de quitação pela executada.
+Efetuada a citação postal, assim foi devolvido o AR:
+ ..
+Diante da informação lançada, foi efetuado bloqueio pelo Sisbajud, tendo em vista que o seguinte fundamento:
+"Após consulta realizada perante a Receita Federal verificou-se que a pessoa jurídica executada encontra-se em situação irregular, porque não foi encontrada no endereço do seu domicílio fiscal (Súmula 435), pelo que, sequer se faz necessária nova tentativa de citação, impondo-se desde logo o redirecionamento da execução em face do(s) sócio(s) gerente(s), com fulcro no art. 135, III do CTN".
+A sociedade executada peticionou ao juízo informando que a correspondência não foi entregue por erro do Condomínio, que não identificou a empresa, vindo a juntar os extratos da conta corrente do sócio atingido pelo bloqueio, nos indexadores 63 a 73 dos autos originários.
+Então, foi proferida a decisão agravada.
+Consultando os autos principais, verifica-se que na certidão de indexador 26 dos autos originários, a sociedade continua ativa da Receita Federal.
+A ponderação do recurso se funda em suposto erro do Condomínio onde a sociedade está sediada, pretendendo que a declaração emitida particularmente pelo gerente de operações da administração do mesmo, seria suficiente para desconstituir a informação lançada pelo serviço de Correios.
+Tal orientação merece reforma.
+Com efeito, a Primeira Turma desta Corte já se manifestou no sentido de que o redirecionamento da execução fiscal, de forma a se ampliar subjetivamente seu polo passivo, não pode ocorrer de ofício pelo magistrado, impondo-se a necessidade de pedido específico da parte interessada.
+A propósito, confira-se a ementa do referido julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DETERMINAÇÃO DE OFÍCIO. IMPOSSIBILIDADE.
+1. A ampliação subjetiva do polo passivo da execução fiscal não pode se dar de ofício pelo magistrado, exigindo-se pedido específico da parte interessada, sob pena de violação da regra da inércia de jurisdição, de usurpação do exercício do direito de ação e, na hipótese da execução fiscal, e indevida ingerência do Poder Judiciário em atribuição privativa do Poder Executivo.
+2. Ao decidir questão não suscitada e a cujo respeito a lei exige iniciativa da parte, as instâncias ordinárias violaram, na espécie, os arts. 2º e 141 do CPC/2015, impondo-se a reforma do acórdão em agravo de instrumento e a anulação da decisão do juiz da execução que determinou ex officio o redirecionamento da execução fiscal.
+3. Recurso especial provido.
+(REsp n. 2.036.722/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 7/3/2023.)
+Além disso, na hipótese dos autos, verifica-se que o redirecionamento da execução fiscal ao sócio administrador se deu tão somente pela devolução do aviso de recebimento (AR-Postal) sem cumprimento (fl. 49), o que, nos termos da jurisprudência desta Corte, não é o bastante para justificar a aplicação da Súmula 435/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. EXECUÇÃO FISCAL. REDIRECIONAMENTO. REQUISITOS. PRESENÇA.
+1. Não há negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. O recurso especial encontra óbice na Súmula 7 do STJ, porquanto a revisão do julgado, quanto à data da ciência do Fisco da dissolução irregular da sociedade empresarial, bem como em relação à data em que foi requerido o redirecionamento da execução fiscal depende do exame de provas, providência inadequada nesta instância superior.
+3. O Superior Tribunal de Justiça pacificou o entendimento segundo o qual, para fins de aplicação do entendimento firmado na Súmula 435 do STJ, é necessária a verificação de cada caso concreto, não sendo suficiente para a presunção de dissolução irregular a simples devolução de AR-postal sem cumprimento, impondo-se que se utilizem de outros meios para verificação da atividade, localização e citação da sociedade empresária.
+4. Hipótese em que foi mantido o redirecionamento da execução fiscal pela dissolução irregular da sociedade com base na "tentativa frustrada de citação por carta e  na  declaração de inatividade apresentada à Receita Federal no ano de 2005".
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.907.651/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 21/11/2022; grifos nossos.)
+TRIBUTÁRIO. RESPONSABILIDADE TRIBUTÁRIA DO SÓCIO GESTOR DE EMPRESA EXECUTADA, NÃO LOCALIZADA NO SEU DOMICÍLIO FISCAL. (IR)REGULARIDADE DA DISSOLUÇÃO. ÔNUS DA PROVA. COMUNICAÇÃO DA INATIVIDADE DA EMPRESA À RECEITA FEDERAL DO BRASIL. MERA ETAPA PROCEDIMENTAL DA DISSOLUÇÃO REGULAR DA SOCIEDADE EMPRESÁRIA. AUSÊNCIA DE ALEGAÇÃO DA DEVIDA LIQUIDAÇÃO, COM O LEVANTAMENTO DO ATIVO E PAGAMENTO DOS CREDORES PREFERENCIAIS. CIRCUNSTÂNCIA INSUFICIENTE PARA PROVAR A REGULARIDADE DA DISSOLUÇÃO DA EMPRESA EXECUTADA. INCIDÊNCIA DA SÚMULA 435/STJ. PRESCRIÇÃO PARA O REDIRECIONAMENTO DA EXECUÇÃO FISCAL. INOCORRÊNCIA. RECURSO ESPECIAL IMPROVIDO.
+(..)
+IV. Com efeito, o entendimento que subjaz do enunciado sumular 435/STJ não é o de que apenas na hipótese em que a empresa deixa de comunicar a alteração do seu domicílio fiscal aos órgãos competentes será possível presumir a sua dissolução irregular. Aliás, "para fins de aplicação do entendimento firmado na Súmula 435 do STJ, é necessário a verificação de cada caso concreto, "não sendo razoável se proceder ao redirecionamento da execução fiscal, baseando-se, tão somente, em simples devolução de AR-postal sem cumprimento, impondo-se, nesse particular, que se utilizem meios outros para verificação, localização e citação da sociedade empresária"" (STJ, AgRg no AgRg no REsp 1.358.007/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 18/12/2013).
+(..)
+XIV. Recurso Especial improvido.
+(REsp n. 1.877.340/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/4/2022; grifos nossos.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. CITAÇÃO POR AVISO DE RECEBIMENTO. AR DEVOLVIDO. INSUFICIÊNCIA DE INDÍCIO DE DISSOLUÇÃO IRREGULAR A AUTORIZAR A MEDIDA.
+1. Para o redirecionamento da execução fiscal ao sócio, buscando sua responsabilização subsidiária, conforme previsto no art. 135 do CTN, é indispensável que este tenha agido com excesso de poderes ou infringido a lei, o contrato social ou o estatuto da empresa.
+2. Conforme fixado no REsp 1371128/RS (Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe de 17/9/2014 - representativo de controvérsia), a dissolução irregular da empresa caracteriza infração à lei, de modo que, comprovada tal circunstância, tem-se por possível o redirecionamento pretendido pelo Fisco-credor.
+3. Inobstante, "(..) há que se verificar a incidência desse entendimento diante de cada caso concreto, não sendo razoável se proceder ao redirecionamento da execução fiscal, baseando-se, tão somente, em simples devolução de AR-postal sem cumprimento, impondo-se, nesse particular, que se utilizem meios outros para verificação, localização e citação da sociedade empresária." (AgRg no AgRg no REsp 1358007/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe de 18/12/2013).
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 709.952/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 14/12/2015.)
+Ante o exposto, dou provimento ao recurso especial, a fim de reconhecer a irregularidade do redirecionamento da execução fiscal ao sócio administrador, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO DE OFÍCIO. SÓCIO ADMINISTRADOR. DESCABIMENTO. DEVOLUÇÃO DE AVISO DE RECEBIMENTO. DISSOLUÇÃO IRREGULAR. PRESUNÇÃO. IMPOSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
