@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo (e-STJ, fls. 957-962 e 974-979) contra a decisão de fls. 920-921, que inadmitiu o recurso especial interposto por WAGNER FERREIRA DA SILVA (e-STJ, fls. 903-910), com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS (e-STJ, fls. 795-811).
+Sustenta a Defesa que a apreciação das questões não demanda reexame de provas, mas somente a revaloração dos critérios jurídicos dos elementos cognitivos sopesados (Súmula 7 do STJ).
+Alega violação ao artigo 59 da Lei n. 6.001/73.
+Pretende a exclusão da agravante prevista neste dispositivo legal, alegando que "embora o Povo Maxakali conserve seu idioma, religião, costumes etc., estão totalmente integrados à comunhão nacional (civilização), gozando plenamente de seus direitos civis, sendo certo que no ano de 2020, elegeu 02 vereadores no Município de Bertópolis/MG, onde se localiza a Aldeia Pradinho e a vítima reside."
+Instado, o recorrido apresentou contrarrazões (e-STJ, fls. 915-916).
+O recurso especial foi inadmitido na origem, ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 999-1004).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No caso, a Corte de origem manteve a agravante prevista no art. 59 da Lei n. 6.001/73, ponderando da forma como segue (e-STJ, fls. 795-811):
+"As defesas buscam ainda o decote agravante disposta no artigo 59, da Lei 6.001/73 (Estatuto do Índio). Asseveram, para tanto, que índios integrados são aqueles que estão incorporados à comunhão nacional e reconhecidos no pleno exercício dos direitos civis, ainda que conservem usos, costumes e tradições característicos da sua cultura, como disposto na r. sentença. Sustentam que o povo Maxakali, embora conserve seu idioma, religião, costumes etc., estão totalmente integrados à comunhão nacional (civilização), gozando plenamente de seus direitos civis.
+A ocorrência de tal agravante ressai cristalina das provas orais colhidas, tendo em vista que a vítima pertence à etnia Maxakali (comunidade indígena), residente na Aldeia de Pradinho, Município de Bertópolis, e que possui um idioma próprio (Maxakali), além de religião e cultura também próprias, conforme documentos colacionados aos autos no IDs 7771608024 - págs.13/14, 9439266843 e 9444605679, sendo este último a ata de audiência na qual se verifica que a vítima foi ouvida por meio de representante da FUNAI, consoante gravação mediante recurso audiovisual.
+Assim, não merece acolhida os pedidos defensivos pertinente ao decote das referidas circunstâncias agravantes, vez que todas restaram sobejamente comprovadas nos autos."
+A análise do contexto normativo e dos objetivos da referida lei é imperativa para a manutenção da agravante e para a salvaguarda dos direitos da população indígena em nosso país.
+Nos termos do artigo 59 supracitado, a tipificação de agravantes tem como escopo promover uma tutela especial a grupos vulneráveis, reconhecendo a complexidade das relações sociais e culturais que permeiam a convivência com as comunidades indígenas. Este dispositivo visa, entre outros objetivos, assegurar a proteção das populações tradicionais, em respeito à sua identidade cultural e às especificidades que envolvem suas integrações (ou a falta delas) com a sociedade não indígena.
+A caracterização da vítima como indígena não integrada é fator determinante para a aplicação do referido agravo, uma vez que configura um cenário que exige maior atenção e cuidado em função da histórica marginalização e das dificuldades estruturais enfrentadas por esses indivíduos. A proteção da integridade física e moral de cidadãos que estão em situação de vulnerabilidade é um imperativo que reforça o papel do Estado em garantir a dignidade e a equidade nas relações sociais.
+No caso, a instância anterior fundamentou adequadamente a manutenção da referida agravante, destacando que a vítima pertence à etnia Maxakali (comunidade indígena), residente na Aldeia de Pradinho, Município de Bertópolis, e que possui um idioma próprio (Maxakali), precisando de um representante da FUNAI para ser ouvida em Juízo.
+Destarte, a revisão do julgado, para afastar esta majorante, demandaria o reexame dos elementos fático-probatórios, encontrando óbice na Súmula 7 do STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
