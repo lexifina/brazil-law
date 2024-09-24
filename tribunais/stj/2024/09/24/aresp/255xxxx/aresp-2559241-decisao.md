@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação do art. 1.022 do CPC/2015 e da ausência de demonstração da ofensa aos arts. 322 e 324 do CPC/2015 (e-STJ fls. 640/641).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 514/515):
+APELAÇÃO. Vícios de construção. Insurgência de ambas as partes quanto à sentença que acolheu parcialmente os pedidos iniciais de reparos dos vícios. Construção dos muros divisórios. Descabimento. Laudo pericial que indicou o caráter meramente demarcatório da construção. Ausência de dever de construção. Necessidade apenas de instalação de capas e rufos nos muros, com vistas a evitar infiltrações. Instalação de cercas elétricas nos muros dos vizinhos que indica a possibilidade de também colocar as proteções indicadas. Reparos nas janelas das áreas em comum. Pedido de afastamento da condenação imposta pela sentença em virtude da suposta maior abrangência em relação ao indicado pelo perito. Impertinência. Dispositivo sentencial que afirmou que os reparos devem ser nos termos do laudo pericial. Condenação final genérica indicando a necessidade de reparo de todos os defeitos encontrados que não caracteriza contradição com o laudo pericial. Pedido de condenação da requerida ao custeio relativo ao documento AVCB expedido pelo Corpo de Bombeiros. Descabimento. Documento constante nos autos que indica já ter ocorrido aprovação total e definitiva do empreendimento pelos bombeiros. Área indicada como aprovada que é a mesma da área total construída. Menção quanto à vistoria parcial que não caracteriza provisoriedade do documento, apenas visita in loco na única parte do empreendimento desabitada, já que o outro bloco foi entregue previamente e contava com moradores. Calçada de entrada no estacionamento. Alegação de irregularidade que justifica a realização de reparos. Impertinência. Laudo pericial que não apontou violação de normas relativas a esse tipo de construção. Entrega do paisagismo do empreendimento de forma diversa ao anunciado. Diferença de qualidade na execução da área externa e de lazer. Necessidade de certa similitude com a oferta de publicidade, sob pena de caracterização de propaganda enganosa. Piso do estacionamento. Pedido de afastamento da condenação de repará-lo. Reforma pertinente. Perito que verificou não haver dificuldades no escoamento das águas pluviais. Pequenas irregularidades constatadas que não acarretam prejuízos ao empreendimento. Pintura dos muros. Dever de entrega do empreendimento com os muros pintados. Condenação que se impõe. Multa por litigância de má-fé. Pedido de afastamento da sanção aplicada à requerente. Pertinência. Embargos declaratórios opostos de forma fundamentada. Ausência de indícios quanto a eventual atuação contrária à boa-fé. Rejeição do recurso que já se caracteriza como penalidade adequada. Ato único que não é suficiente para caracterizar má-fé da parte requerente. Sentença parcialmente reformada. Adoção parcial do art. 252 do RITJ. RECURSOS PARCIALMENTE PROVIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 609/612).
+Nas razões do recurso especial (e-STJ fls. 614/624), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC/2015, apontando omissão no acórdão recorrido acerca da alegação de inexistência de pedido expresso, na petição inicial, quanto à realização da pintura dos blocos A e B da mesma cor, e
+(ii) arts. 322 e 324 do CPC/2015, sustentando que "v. acórdão (..) determinou à recorrente a obrigação de promover a uniformização da pintura dos blocos A e B, ao desamparo de pedido certo e determinado, na petição inicial, pela parte recorrida" (e-STJ fl. 621).
+No agravo (e-STJ fls. 644/650), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 653/663 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Quanto à determinação de uniformização da pintura dos blocos A e B, o Tribunal de origem assim se manifestou:
+(e-STJ fl. 529):
+ ..  quanto ao pedido de uniformização da pintura dos blocos A e B, verifica-se que se apresentam adequado, já que às fls. 194/195 nota-se a dissonância entre a pintura da portaria e dos blocos, sendo que se trata de empreendimento único que deveria apresentar uma harmonia, pois assim foi anunciado na propaganda publicitária (fls. 68/69).
+(e-STJ fl. 611):
+Verifica-se que na petição inicial há expressa menção quanto à divergência de pintura entre os blocos A e B (item "s" das fls. 7), justificando a condenação da parte, que deve fazer por suas próprias expensas, já que descumpriu o projeto inicial.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Não há falar, ademais, em afronta aos arts. 322 e 324 do CPC/2015, porquanto o pedido de uniformização da pintura dos blocos A e B é certo e determinado, conforme se depreende dos termos da exordial de fls. 1/19 (e-STJ). A propósito (destaques no original):
+1.5. Dos demais problemas da construção
+O pior de tudo, é que os problemas/defeitos construtivos não se limitam aos retro expostos e confirmados pelo laudo técnico, há outros que foram levantados e constatados, quais sejam:
+ ..
+s) O bloco A foi pintado de cor diferente do bloco B, a iluminação externa colocada no bloco A é diferente da iluminação colocada B, ou seja, há patente violação ao projeto de incorporação imobiliária, há violação a toda a propaganda veiculada e há violação à unicidade e estética do empreendimento;
+ ..
+8. Do requerimento
+REQUER digne-se Vossa Excelência.
+ ..
+d) JULGAR PROCEDENTE a ação para condenar a requerida na obrigação de fazer em reparar todos os problemas apontados decorrentes da construção/projeto que são de sua responsabilidade  ..
+Assinala-se que, "conforme a jurisprudência do STJ, "é certo e determinado o pedido (..) quando perfeitamente caracterizados a tutela jurisdicional e o bem da vida pretendido (..)" (REsp n. 1.186.851/MA, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/8/2013, DJe 05/9/2013)" (AgInt no REsp n. 1.659.127/RS, de minha relatoria, Quarta Turma, julgado em 30/3/2020, DJe de 1/4/2020), como no caso dos autos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
