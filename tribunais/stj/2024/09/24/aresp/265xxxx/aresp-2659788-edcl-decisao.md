@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela FAZENDA NACIONAL contra decisão proferida pelo então relator, Ministro Herman Benjamin, que conheceu parcialmente do recurso especial, somente quanto à afronta ao art. 1.022 do CPC, e, nessa extensão, negou-lhe provimento (fls. 391-393).
+Em suas razões, a embargante afirma que a decisão embargada foi omissa por deixar de examinar a alegada violação ao art. 1.026, § 2º, do CPC. Requer o acolhimento dos embargos de declaração, a fim de que seja sanado o vício apontado.
+O prazo para impugnação transcorreu in albis (certidão de fl. 405).
+É o relatório.
+A pretensão recursal comporta acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+No caso, verifica-se que o aresto embargado foi omisso ao deixar de examinar o pedido de afastamento da aplicação da multa prevista no art. 1.026, § 2º, do CPC.
+Passo, pois, a suprir a omissão apontada.
+O art. 1.026, § 2º, do Código de Processo Civil assinala que "quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa".
+No caso, ao examinar os aclaratórios ali opostos, o Tribunal de origem asseverou que havia caráter manifestamente protelatório no pedido "comprometendo também a garantia constitucional da duração razoável do processo diante do que ficou suficientemente explicado e decidido (..)" (fl. 314). Por esse motivo, aplicou a multa.
+De fato, para se alcançar solução distinta daquela adotada pelo Tribunal de segundo grau, que entendeu pelo caráter protelatório do recurso, seria necessário reavaliar o conjunto de provas nos autos, o que é inviável na instância especial, consoante o disposto no enunciado n.º 7 da Súmula desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. NEGÓCIO JURÍDICO. COMPRA E VENDA. IMÓVEL. EMBARGOS DE TERCEIROS. REGISTRO. POSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIOANAL NÃO DEMONSTRADA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FICTO. NULIDADE. MATÉRIA DE ORDEM PÚBLICA. OFÍCIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. AUSÊNCIA DE NULIDADE. COMPROVADA. BOA-FÉ. ADQUIRENTE. SÚMULAS NºS 5 E 7/STJ. EMBARGOS PROTELATÓRIOS. MULTA. REEXAME. SÚMULA Nº 7/STJ.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa em deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo. Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+4. De acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC, o que não é o caso dos autos.
+5. A ausência de combate aos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n.º 283 do STF.
+6. No caso, rever o entendimento do tribunal local, que, amparado no contexto fático-probatório dos autos, afastou a nulidade do negócio jurídico porque à época não havia interdição, reconheceu a boa-fé da recorrida e a comprovação da posse do imóvel adquirido por promessa de compra e venda, exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+7. A jurisprudência do Superior Tribunal de Justiça preleciona que é admissível a oposição de embargos de terceiro com fundamento em alegação de posse advinda de compromisso de compra e venda de imóvel desprovido de registro. Incidência da Súmula nº 84/STJ.
+8. Na hipótese, a análise do artigo 1.026, § 2º, do CPC, que trata da multa por oposição de embargos de declaração protelatórios, demandaria o reexame do acervo fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 2.212.614/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. COMPROMISSO DE COMPRA E VENDA. DESISTÊNCIA DO NEGÓCIO PELO COMPROMISSÁRIO COMPRADOR. PREVISÃO CONTRATUAL. MULTA. VIOLAÇÃO DOS ARTS. 11, 489, 1.022, I e II, DO CPC. INOCORRÊNCIA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC. REFORMA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DESFAZIMENTO. NEGÓCIO JURÍDICO. DESISTÊNCIA. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A oposição dos segundos embargos de declaração reproduzindo os argumentos fulcrais do primeiro já examinados e rejeitados traduz mau uso do recurso integrativo e configura intuito protelatório passível de repreensão com a multa prevista no § 2º do art. 1.026 do CPC. Afastar as conclusões do acórdão no tocante ao caráter procrastinatório dos embargos de declaração, ensejadores da multa prevista no art. 1.026, § 2º, do CPC, demandaria, necessariamente, reexame do acervo fático-probatório dos autos, o que é vedado, em sede de recurso especial, por força do óbice da Súmula n.º 7 do STJ.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice das Súmulas n.os 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.333.503/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+ADMINISTRATIVO. PROCESSO ADMINISTRATIVO SANCIONADOR. INSIDER TRADING. APLICAÇÃO DE MULTA PELA COMISSÃO DE VALORES MOBILIÁRIOS - CVM. INTERPOSIÇÃO DE RECURSO VOLUNTÁRIO AO CONSELHO DE RECURSOS DO SISTEMA FINANCEIRO NACIONAL - CRSFN. ILEGITIMIDADE PASSIVA DA CVM. PRECEDENTES ANÁLOGOS. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. MULTA DO ART. 1.026, § 2º, DO CPC/2015. SÚMULA 7/STJ.
+(..)
+VIII - Sobre a alegada ofensa ao art. 1.026, § 2º, CPC/2015, a pretensão de afastar a multa aplicada no julgamento dos embargos de declaração esbarra no óbice da Súmula n. 7/STJ, principalmente na hipótese, não tendo sido evidenciada a apontada violação dos arts. 489 e 1.022, do CPC/2015, mas mero descontentamento com as conclusões a que chegou o Tribunal de origem. Precedentes: AgInt no REsp 1851731/AL, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 22/09/2021, AgInt no AREsp 1175734/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 15/12/2020.
+IX - Agravo conhecido para conhecer parcialmente do recurso especial, negando-lhe provimento.
+(AREsp n. 1.614.577/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Ante o exposto, acolho os embargos de declaração, sem efeitos modificativos, apenas para fins de esclarecimento, consoante fundamentação supra.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ESCLARECIMENTOS PRESTADOS. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
