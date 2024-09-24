@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 282 do STF (e-STJ fls. 627/631) .
+O acórdão recorrido está assim ementado (e-STJ fl. 563):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE CERTEZA, LIQUIDEZ E EXIGIBILIDADE. NULIDADE DO TÍTULO. NECESSIDADE DE PRÉVIA CERTIFICAÇÃO DO DIREITO SUBJETIVO ALEGADO POR MEIO DE AÇÃO ORDINÁRIA. IMPOSSIBILIDADE DE CONVERSÃO DA AÇÃO DE EXECUÇÃO EM AÇÃO ORDINÁRIA APÓS EXERCÍCIO DO CONTRADITÓRIO. HONORÁRIOS FIXADOS NO LIMITE LEGAL MÍNIMO. IMPOSSIBILIDADE DE REDUÇÃO. APELO NÃO PROVIDO.
+1. A exequibilidade dos créditos cobrados neste feito executivo depende da prévia certificação do direito, a ser obtida através de declaração judicial que ateste que os referidos contratos foram prorrogados tacitamente e inadimplidos pelo executado. E esta certificação não pode se dar no bojo do processo de execução, pois este procedimento específico está subordinado à existência de obrigação certa, líquida e exigível, a teor do disposto nos arts. 783, 786 e 803, inciso |, do CPC/2015. É dizer, a alegada prorrogação verbal e/ou tácita dos contratos de locação de equipamentos e prestação de serviços não constitui instrumento hábil a aparelhar ação de execução.
+2. O STJ julgou o REsp 1.129.938/PE, sob a sistemática dos recursos repetitivos, consolidando o entendimento de que "é inadmissível a conversão, de ofício ou a requerimento das partes, da execução em ação monitória após ter ocorrido a citação, em razão da estabilização da relação processual a partir do referido ato".
+3. O art. 85, 88 2º e 8, do CPC/2015 é expresso ao estabelecer que 10% (dez por cento) é o percentual mínimo de honorários sucumbenciais a ser fixado pelo juízo, salvo nas causas de proveito econômico inestimável ou irrisório, ou ainda quando o valor atribuído ao feito for muito baixo.
+4. Recurso de apelação não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls.588/592).
+No recurso especial (e-STJ fls. 596/611), fundamentado no art. 105, III, "a", da CF, a recorrente aponta ofensa aos arts. 574 do Código Civil, 374, IV, 783 e 917, I, VI, do CPC/2015.
+Sustenta, em síntese, o acórdão recorrido nega a natureza do título executivo extrajudicial.
+Foram apresentadas contrarrazões (e-STJ fls. 618/624).
+No agravo (e-STJ fls. 638/655), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 685/690).
+Juízo negativo de retratação (e-STJ fls. 693/694).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 565/566):
+ ..  Os elementos probatórios indicam que os diversos contratos foram formalizados por instrumento particular, com assinatura de duas testemunhas; vigeram entre os anos de 1998 e 2008; e continham previsão expressa de que a renovação contratual dependeria "de novo instrumento, com concordância expressa de ambas as partes" (fls. 16/97).
+Sabe-se que "o documento particular assinado pelo devedor e por 2 (duas) testemunhas" constitui título executivo extrajudicial, nos termos do art. 784, inciso III, do CPC/2015. No entanto, os diversos contratos aqui executados venceram entre os anos de 2003 e 2008, e continham previsão expressa da necessidade de formalização de novo instrumento para prorrogação. E os créditos cobrados dizem respeito a inadimplementos posteriores aos vencimentos contratuais.
+Nesse contexto, evidente que a exequibilidade dos créditos cobrados neste feito executivo depende da prévia certificação do direito, a ser obtida através de declaração judicial que ateste que os referidos contratos foram prorrogados tacitamente e inadimplidos pelo Grupo Walmart. E esta certificação não pode se dar no bojo do processo de execução, pois este procedimento específico está subordinado à existência de obrigação certa, líquida e exigível, a teor do disposto nos arts. 783, 786 e 803, inciso I, do CPC/2015. É dizer, a alegada prorrogação verbal elou tácita dos contratos não constitui instrumento hábil a aparelhar ação de execução.
+ ..  No caso concreto, o crédito não é certo, justamente porque não está estampado nos títulos, pois os títulos venceram entre 2003 e 2008. Em outras palavras, não há título executivo quanto ao período posterior a 2008. Conforme já adiantado, a certeza do crédito executado (posterior a 2008) depende da prévia certificação das prorrogações contratuais verbais/tácitas, restando prejudicadas, por conseguinte, a liquidez e exigibilidade da obrigação executada.
+Sendo assim, tenho que os títulos executivos extrajudiciais juntados aos autos (contratos particulares assinados por duas testemunhas) apenas são títulos executivos em relação ao período de vigência dos ajustes (entre 1998 e 2008), afigurando-se destituídos de exequibilidade em relação às supostas dívidas decorrentes de inadimplementos posteriores a este período.
+Complemente-se que não se trata de título executivo nulo apenas em relação à multa rescisória, mas sim título executivo inteiramente nulo em relação a todas as obrigações executadas (principais e acessórias), pois, repita-se à exaustão, tratando-se de créditos posteriores aos períodos de vigência contratuais, afigura-se necessária prévia certificação da prorrogação verbal/tácita dos ajustes.
+Nesse contexto, verifica-se que não houve pronunciamento do Tribunal a quo sobre os temas referentes aos arts. 574 do Código Civil, 374, IV, e 917, I, VI, do CPC/2015 tidos por violados, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede a análise da insurgência por falta de prequestionamento. Inafastáveis as Súmulas n. 282 e 356 do STF e 211 do STJ.
+Outrossim, para rever os fundamentos do acórdão impugnado e sopesar as razões recursais quanto liquidez e certeza do título , seria indispensável o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, diante do óbice da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especia l.
+Publique-se e intimem-se.
+EMENTA
