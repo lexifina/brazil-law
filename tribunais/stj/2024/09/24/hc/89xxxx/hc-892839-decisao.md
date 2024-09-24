@@ -1,0 +1,15 @@
+DECISÃO
+ANDRESSA BEIJAS MOLINA, condenada definitivamente por homicídio qualificado, alega sofrer coação ilegal diante de acórdão do Tribunal de origem, proferido em apelação, que transitou em julgado em 3/2/2020.
+A defesa contesta a dosimetria da pena. Afirma que as alegações da ré deve sem analisadas "com acuidade", pois "a paciente não estava em seu estado emocional equilibrado" (fl. 6). Busca a fixação da pena-base no mínimo legal e o reconhecimento da confissão espontânea, com a consequente redução das reprimendas.
+Decido.
+A defesa questiona acórdão de apelação com trânsito em julgado há anos. Com o aumento do direcionamento inadequado do habeas corpus para esta Corte, o que gerou sobrecarga de trabalhos e imenso volume de processos, em prejuízo das garantias da coisa julgada e do princípio do juiz natural, este Superior Tribunal passou a rejeitar impetrações que substituem a ação revisional, a fim de preservar a função original do remédio constitucional.
+A defesa deve pleitear à autoridade estabelecida em lei a revisão da condenação finda, até que eventualmente a controvérsia possa ser discutida em âmbito superior.
+Assim, "depois de já transitada em julgado a condenação, revela-se inviável  o uso do remédio constitucional , notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal  ..  (AgRg no HC n. 713.747/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 24/2/2022).
+Quando houver possibilidade, admite-se a concessão da ordem de ofício, "de iniciativa exclusiva do julgador, quando se deparar com flagrante ilegalidade em procedimento de sua competência" ((EDcl no AgRg no AREsp n. 2.572.783/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/9/2024, DJe de 13/9/2024).
+Na hipótese em análise, identifico, de imediato, apenas a confissão espontânea. A ilegalidade do acórdão é evidente, sendo possível constatar tal irregularidade pela simples leitura do ato judicial.
+Nos termos da jurisprudência desta Corte, se a confissão, ainda que parcial, retratada ou qualificada, for exteriorizada pelo acusado(a), deve incidir a respectiva atenuante.
+Aplica-se ao caso a Súmula n. 545 do STJ, pois, conforme consta no acórdão de segundo grau, a paciente assumiu os fatos, mas "quis dar contornos de infanticídio a sua conduta, não de homicídio" (fl. 31). Existiu contribuição da acusada para a elucidação dos fatos e para a legitimidade da sentença condenatória.
+A pena-base foi estabelecida em 16 anos de reclusão. Na segunda fase, foi aplicada a agravante genérica do art. 61, II, "e", da CF. Com o reconhecimento da confissão espontânea, realizo a compensação entre as circunstâncias. Houve aumento de 1/3, pela incidência do art. 121, § 4º, segunda parte, do CP, o que totaliza 21 anos e 4 meses de reclusão.
+À vista do exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para reconhecer a confissão espontânea e reduzir para 21 anos e 4 meses de reclusão a pena da ré.
+Publique-se e intimem-se.
+EMENTA
