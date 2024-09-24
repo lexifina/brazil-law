@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pela União, em face do acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+
+    “CONTRIBUIÇÃO PREVIDENCIÁRIA. FUNRURAL. EXPORTAÇÃO INDIRETA. IMUNIDADE. COOPERATIVA. 1. O Supremo Tribunal Federal, no recente julgamento do Recurso Extraordinário nº 759.244/SP, com repercussão geral reconhecida (Tema n.º 674), fixou a tese de que "a norma imunizante contida no inciso I do §2º do art. 149 da Constituição da República alcança as receitas decorrentes de operações indiretas de exportação caracterizadas por haver participação de sociedade exportadora intermediária.” 2. Na mesma oportunidade, o STF julgou procedente a Ação Direta de Inconstitucionalidade nº 4735/DF para declarar a inconstitucionalidade do artigo 170, §§1º e 2º, da Instrução Normativa SRFB nº 971/2009. 3. Deve ser afastada a incidência do Funrural sobre a receita decorrente de "exportações indiretas", ou seja, de vendas efetuadas a para posterior exportação. trading companies 4. O fato da comercialização com adquirentes estrangeiros ser intermediada pela cooperativa não desconfigura a sua condição de exportação, pois o ato cooperativo não implica operação de mercado, nos termos do artigo 79, parágrafo único, da Lei nº 5.764/71. 5. Apelação provida.”
+
+    Na minuta, sustenta-se violação do art. 149, §2º, I, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte, no sentido de que “A norma imunizante contida no inciso I do § 2º do art. 149 da Constituição da República alcança as receitas decorrentes de operações indiretas de exportação caracterizadas por haver participação de sociedade exportadora intermediária” (Tese 674 da repercussão geral), razão pela qual não se verifica a alegada violação dos dispositivos constitucionais indicados nas razões recursais. Nesse sentido:
+
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. DIREITO TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA DAS EXPORTAÇÕES. CONTRIBUIÇÕES PREVIDENCIÁRIAS. RECEITAS DECORRENTES DE EXPORTAÇÃO. EXPORTAÇÃO INDIRETA. TRADING COMPANIES. Art.22-A, Lei n.8.212/1991. 1. O melhor discernimento acerca do alcance da imunidade tributária nas exportações indiretas se realiza a partir da compreensão da natureza objetiva da imunidade, que está a indicar que imune não é o contribuinte, ‘mas sim o bem quando exportado’, portanto, irrelevante se promovida exportação direta ou indireta. 2. A imunidade tributária prevista no art.149, §2º, I, da Constituição, alcança a operação de exportação indireta realizada por trading companies , portanto, imune ao previsto no art.22-A, da Lei n.8.212/1991. 3. A jurisprudência deste STF (RE 627.815, Pleno, DJe1º/10/2013 e RE 606.107, DjE 25/11/2013, ambos rel. Min.Rosa Weber,) prestigia o fomento à exportação mediante uma série de desonerações tributárias que conduzem a conclusão da inconstitucionalidade dos §§1º e 2º, dos arts.245 da IN 3/2005 e 170 da IN 971/2009, haja vista que a restrição imposta pela Administração Tributária não ostenta guarida perante à linha jurisprudencial desta Suprema Corte em relação à imunidade tributária prevista no art.149, §2º, I, da Constituição. 4. Fixação de tese de julgamento para os fins da sistemática da repercussão geral: “A norma imunizante contida no inciso I do §2º do art.149 da Constituição da República alcança as receitas decorrentes de operações indiretas de exportação caracterizadas por haver participação de sociedade exportadora intermediária.” 5. Recurso extraordinário a que se dá provimento.” (RE 759244, Rel. Min. EDSON FACHIN, Tribunal Pleno, REPERCUSSÃO GERAL - MÉRITO DJe- 25.03.2020)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. IMUNIDADE TRIBUTÁRIA DAS EXPORTAÇÕES. CONTRIBUIÇÕES PREVIDENCIÁRIAS. RECEITAS DECORRENTES DE EXPORTAÇÃO. EXPORTAÇÃO INDIRETA. TRADING COMPANIES. TEMA 674 DA REPERCUSSÃO GERAL. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STF. 1. O acórdão do Tribunal de origem revela-se em dissonância com a jurisprudência desta SUPREMA CORTE, firmada no julgamento do RE 759.244-RG, de relatoria do Eminente Min. EDSON FACHIN (Tema 674 da repercussão geral), no sentido de que a norma imunizante contida no inciso I do § 2º do art. 149 da Constituição da República alcança as receitas decorrentes de operações indiretas de exportação caracterizadas por haver participação negocial de sociedade exportadora intermediária. 2. Agravo interno a que se nega provimento.” (RE nº 1.367.071-AgR-EDv, Redator para o acórdão o Min. Alexandre de Moraes, Plenário, DJe 2.5.2023)
+
+    “Direito tributário. Agravo interno em embargos de declaração em recurso extraordinário. Imunidade do art. 149, § 2º, I, da CF. Aplicação às exportações indiretas feitas por cooperativa. 1. Ao manter a incidência da tributação na hipótese em análise, o acórdão recorrido terminou por divergir do entendimento do Supremo Tribunal Federal, que, ao apreciar o Tema 674 da RG, fixou a seguinte tese de julgamento: ‘[a] norma imunizante contida no inciso I do § 2º do art. 149 da Constituição da República alcança as receitas decorrentes de operações indiretas de exportação caracterizadas por haver participação negocial de sociedade exportadora intermediária’. 2. O poder de tributar deve considerar a comercialização feita pela cooperativa, e não a transferência entre o cooperado e a cooperativa. Nesse contexto, por se tratar de uma operação que tem por objeto a exportação, ainda que de maneira indireta, é de rigor a incidência da imunidade prevista no texto constitucional. 3. Nos termos do art. 85, § 11, do CPC, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC. 4. Agravo interno a que se nega provimento.” (RE n. 850.113- ED-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 10.4.2023).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 24 de setembro de 2024.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
