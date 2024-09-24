@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da incidência das Súmulas 7/STJ; 280/STF e não ocorrência de negativa de prestação jurisdicional.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 383):
+Mandado de Segurança - Pensionista de ex-empregado da VASP - Benefício de complementação de pensão com base nas Leis 1.386/1951 e 4.819/1958 e na Lei Complementar 200/1974 -Admissibilidade - Inaplicabilidade, no caso,do quanto estabelecido na EC n. 103/2019 - Extinção do benefício da complementação de aposentadoria e pensão no âmbito do Estado de São Paulo que se deu com a Lei nº 200/74 - Respeito ao direito adquirido dos empregados e de seus beneficiários - Inteligência do art. 1º, § único, da Lei n. 200/74 - Sentença mantida - Recurso desprovido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 1.022 do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta, em síntese, ofensa aos artigos 6º, § 2º, do Decreto-Lei n. 4.657/42 LINDB), 926 e 927, IV, do Código de Processo Civil e à Súmula 340/STJ, ao fundamento de inexistência de direito adquirido à complementação de pensão.
+Defende que, "ocorrido o óbito do instituidor quando vigente disposição constitucional que veda, de forma expressa, a concessão de complementação de pensão em favor dos respectivos dependentes, não há como conceder, em favor do particular, o benefício em questão" (fl.469).
+Aduz que "a jurisprudência da Corte Paulista é firme quanto à impossibilidade de concessão de complementação de pensão em casos como o presente" (fl.476).
+Parecer do Ministério Público Federal, opinando pelo conhecimento do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (fls. 665-671).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A pretensão não merece prosperar.
+De início, afasta-se a alegada violação do art. 1022, inc. II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Já no que diz respeito à ofensa do artigo 6º da LINDB, ressalta-se que, segundo entendimento desta Corte, é inviável o conhecimento do recurso especial por violação do art. 6º da LINDB, porque os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988).
+A propósito:
+ADMINISTRATIVO. PROCESSO CIVIL. SERVIDOR PÚBLICO ESTADUAL. ENQUADRAMENTO. FALTA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. DIREITOS INDISPONÍVEIS. PRECLUSÃO PRO JUDICATO NÃO OCORRÊNCIA. SÚMULA 211 DO STJ.
+ ..
+4. O Superior Tribunal de Justiça firmou o entendimento de que a matéria contida no art. 6º da LINDB possui cunho eminentemente constitucional, pois consiste em mera reprodução do art. 5º, XXXVI, da Constituição Federal, o que inviabiliza o conhecimento do apelo nobre nesse ponto, sob pena de usurpação de competência do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.391.284/MT, relator Ministro Og Fernandes, Segunda Turma, julgado em 2/2/2021, DJe de 9/2/2021).
+Ainda, descabida a alegada violação da Súmula 340/STJ, pois o enunciado sumular não enseja interposição do recurso especial, conforme entendimento consolidado na Súmula 518 deste Tribunal Superior.
+No mais, observa-se que a Corte de origem reconheceu o direito da Autora de complementação da pensão, utilizando-se dos seguintes fundamentos (fls. 384-385):
+O benefício de complementação de aposentadoria, com extensã oaos dependentes foi instituído pela Lei nº 1.386/1951 e, posteriormente, estendido aos funcionários das autarquias e sociedades anônimas vinculadas ao Estado pela Lei nº 4.819/1958, esta regulamentada, por sua vez, pelo Decreto nº 34.536/1959.
+É certo que todos esses diplomas legais foram revogados quando do advento da Lei Estadual nº 200/1974, cujo artigo 1º determina:"Ficam revogadas as Leis 999, de 1º de maio de 1951, 1.386, de 9 de dezembro de 1951, 4.819, de 26 de agosto de 1958, bem assim todas as disposições, gerais ou especiais que concedem complementação, pelo Estado, de aposentadorias, pensões e outras vantagens, de qualquer natureza, aos empregados sob o regime da legislação trabalhista, da Administração direta e de entidades públicas ou privadas, de Administração descentralizada".
+Todavia, o parágrafo único do aludido artigo 1º assegurou, expressamente, que"os atuais beneficiários e os empregados admitidos até a data da vigência desta lei, ficam com seus direitos ressalvados, continuando a fazer jus aos benefícios decorrentes da legislação ora revogada."
+Denota-se, portanto, que o referido art. 1º e, parágrafo único, da Lei nº 200/74, ao ressalvar os direitos decorrentes das legislações revogadas, garantiu não só a manutenção das complementações de pensão aos beneficiários que já a recebiam, como também garantiu a permanência desses benefícios aos empregados admitidos até 13 de maio de 1974, e de complementação de pensão aos seus respectivos dependentes.
+Por outro lado, acrescente-se que a Lei Estadual n. 6.629/1989, ou seja, que autorizou a privatização da VASP, também garantiu, em seu artigo 6º, o direito ao benefício de complementação de aposentadoria a todos os funcionários que se enquadrassem nas condições previstas na Lei Estadual n. 200/1974.
+Ademais, o Decreto n. 33.168/1991, por sua vez, estabeleceu no seu artigo 3º, a competência da Fazenda do Estado quanto ao processamento e pagamento das complementações de aposentadorias e pensões a que fazem jus os inativos oriundos da VASP, desde que abarcados pelo parágrafo único do art. 1º da Lei Estadual n. 200/1974.
+No caso dos autos, por conseguinte, verifica-se que o instituidor da pensão foi admitido como funcionário da VASP, antes da edição da Lei Estadual nº 200/1974, fazendo jus, assim, à complementação de aposentadoria, que foi devidamente paga enquanto vivo.
+ ..
+Como se vê, no que diz respeito à complementação da pensão, observa-se que a questão foi decidida pela Corte de origem mediante análise de legislação local, quais sejam, Leis Estaduais n. 200/1974 e 6.629/89 . Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMPRESA PÚBLICA. PEDIDO DE CONCESSÃO DAS PRERROGATIVAS DA FAZENDA PÚBLICA INDEFERIDO, PELO TRIBUNAL DE ORIGEM. APELAÇÃO NÃO CONHECIDA, POR DESERÇÃO. APRECIAÇÃO DE ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. ALEGADA INFRINGÊNCIA AOS ARTS. 91, 496, I, E 1.007, §1º, DO CPC/2015. TESES RECURSAIS NÃO PREQUESTIONADAS. SÚMULA 211 DO STJ. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO IMPROVIDO.
+ ..
+VI. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local. Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016 .
+VII. Agravo interno improvido (AgInt no AREsp 1.433.033/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 16/09/2019).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COMPLEMENTAÇÃO DE PENSÃO. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. OFENSA AO ART. 6º DA LINDB. ANÁLISE. INVIABILIDADE. CONTEÚDO EMINENTEMENTE CONSTITUCIONAL DA NORMA. AGRAVO CONHECIDO PARA, CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
