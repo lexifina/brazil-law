@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOAO VITOR ESTEVES SOARES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (HC 0743015-40.2022.8.07.0000).
+Decido.
+Em consulta realizada à  página  eletrônica  do Tribunal de origem, verifica-se que, em 29/02/2024, foi prolatada sentença condenatória em desfavor da paciente (Processo n. 0712527-24.2021.8.07.0005), com a expedição de alvará de soltura em favor do paciente, nos termos do seguinte dispositivo:
+Diante do exposto, julgo PROCEDENTE a imputação de fato contida na denúncia para condenar os acusados ABIMAEL EVANDRO FRANÇA PEREIRA DA SILVA, JACKSON LIMA PIRES, LUCAS DA SILVA DOS SANTOS, MIGUEL DE GOIS SANTOS JUNIOR, NIVALDO SILVA FRANÇA JUNIOR e RICARDO OLAVO JESUS FRANÇA incursos nas penas do artigo 33, caput, e artigo 35, caput, ambos da Lei nº 11.343/2006, e os denunciados ADRIELLE SOUZA BISPO, ALINE SOUZA BISPO, ANDERSON DE JESUS FRANÇA, CARLOS EDUARDO DUARTE MARTIRES, DAVID ALMEIDA LIMA, EDINHO SOUZA SILVA DOS SANTOS, JOÃO VITOR ESTEVES SOARES e MATHEUS RONIERE SOUSA DE OLIVEIRA incursos nas penas do artigo 35, caput, da Lei nº 11.343/2006.
+Passo à individualização da pena, fazendo-a fundamentadamente para que se possa cumprir o disposto no art. 93, inciso IX da Carta Magna.
+ ..
+13 - JOÃO VITOR ESTEVES SOARES
+Na primeira fase da dosimetria, quanto à análise da culpabilidade, é condizente com a natureza da infração, não há nenhum indicativo com relação ao juízo crítico de reprovação social. Nos termos do Enunciado 444 da Súmula do STJ, o acusado não registra antecedentes. Quanto à conduta social e à personalidade, observo que não foram colhidos dados para melhor aferi-las. O motivo do crime se confunde com o elemento subjetivo do tipo. As consequências da infração foram normais à espécie. Nada a valorar quanto às circunstâncias do crime. O comportamento da vítima não guarda pertinência com o tipo penal. Em que pese a natureza da droga comercializada (maconha), não há maiores informações a respeito da quantidade de vendas efetuadas. Desse modo fixo-lhe a pena-base em 03 anos de reclusão e 700 dias-multa.
+Na segunda fase, ausentes atenuantes e agravantes.
+Na terceira fase de aplicação da pena, ausentes causas de aumento ou diminuição de pena, tornando a reprimenda definitiva em 03 anos de reclusão e 700 dias-multa.
+A pena de multa, dadas as condições do acusado, deverá ser calculada à razão de 1/30 do salário-mínimo vigente à época do fato, devidamente corrigido, na forma do art. 49, § 1º do Código Penal.
+Atendendo ao que dispõe os arts. 33, § 1º, "c", § 2º, "c", § 3º, 59, todos do Código Penal, determino que a pena privativa de liberdade imposta ao réu seja cumprida inicialmente em regime aberto.
+Deixo de efetuar o cálculo para a detração prevista no § 2º, do art. 387 do Código de Processo Penal, vez que o regime não será modificado, não obstante o período de prisão preventiva do sentenciado. Necessário ressaltar que se a detração não é hábil a modificar o regime, não haverá cômputo inferior de pena a ser realizado, sob pena de o juízo de conhecimento invadir a competência do juízo da execução, pois o art. 66, III, "c", da LEP, não restou alterado pela Lei 12.736/12 nesse particular. Pensar de modo diverso significa invadir seara de competência do juízo da execução, incidindo à espécie nulidade indicada no art. 564, inciso I, do Código de Processo Penal. Além disso, essa consideração equivocada do tempo de detração, como se desconto fosse, ensejaria perplexidades, como a de que o tempo de custódia cautelar tivesse cômputo diverso do tempo de recolhimento próprio da execução penal em sentido estrito.
+Presentes os requisitos do art. 44 do Código Penal, a pena privativa de liberdade deverá ser substituída por duas penas restritivas de direitos, a serem definidas pelo Juízo da Execução.
+Permito que o réu recorra em liberdade da sentença condenatória. Expeça-se alvará de soltura.
+Essa circunstância evidencia a perda do objeto da impetração.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
