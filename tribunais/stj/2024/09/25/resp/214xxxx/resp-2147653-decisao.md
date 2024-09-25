@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por JANIR MATIAS contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 579):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. FRAUDE BANCÁRIA. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR.
+PRELIMINAR EM CONTRARRAZÕES. FALTA DE DIALETICIDADE RECURSAL. INOCORRÊNCIA. RAZÕES RECURSAIS QUE SE VOLTAM CONTRA OS FUNDAMENTOS DA SENTENÇA. TESE RECHAÇADA.
+AVENTADO CERCEAMENTO DE DEFESA. INSUBSISTÊNCIA. PEDIDO DE PRODUÇÃO DE PROVAS GENÉRICO E NÃO FUNDAMENTADO. DILAÇÃO PROBATÓRIA QUE SE MOSTRA INÓCUA À ESPÉCIE.
+TRANSFERÊNCIAS VIA PIX NÃO RECONHECIDAS PELO AUTOR. FRAUDE PRATICADA POR TERCEIRO RECONHECIDA PELA RÉ. RESPONSABILIDADE OBJETIVA (ART. 14, CDC). FORTUITO INTERNO. RISCO INERENTE À ATIVIDADE. SÚMULA 479, STJ. COMPROVADO PREJUÍZO MATERIAL. DEVER DE INDENIZAR CARACTERIZADO. SENTENÇA REFORMADA. DANO MORAL EM FACE DA FRAUDE BANCÁRIA. INSUBSISTÊNCIA. INEXISTÊNCIA DE SITUAÇÃO EXTRAORDINÁRIA. DANO MORAL NÃO COMPROVADO.
+ÔNUS DA SUCUMBÊNCIA REDISTRIBUÍDO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do especial, aponta o recorrente violação dos artigos 186, 187, 927 a 954 do Código Civil, artigos 6º, VIII, 12, 14, 18, 23 e 24 da Lei nº 8.078/90, além do dissídio jurisprudencial.
+Argumenta, em síntese, que fraude em transferência bancária praticada por terceiro justificaria a repetição do valor do prejuízo suportado pelo correntista em dobro, além da compensação pelo dano moral, uma vez que se trata de fortuito interno - imputável à instituição financeira.
+Contra-arrazoado (fls. 783/788), o recurso especial não foi admitido na origem (fls. 792/793), contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à devolução dos valores ao correntista, observo que o Tribunal de origem, mesmo reconhecendo que a fraude praticada por terceiro deveria ser imputada à instituição financeira, concluiu que o valor deveria ser restituído de modo simples, acrescido apenas dos encargos bancários, correção monetária e juros de mora (fls. 576/577)
+A orientação não destoa da jurisprudência desta Corte Superior, segundo a qual a fraude praticada por terceiro alheio à instituição financeira descaracteriza, em regra, a sua má-fé, de modo que, embora seja objetiva a sua responsabilidade, admite a restituição apenas de forma simples.
+Nesse sentido:
+RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO C/C INEXISTÊNCIA DE DÉBITO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - TRANSAÇÕES BANCÁRIAS REALIZADAS POR PREPOSTO DA EMPRESA MEDIANTE FALSIFICAÇÃO DA ASSINATURA DA REPRESENTANTE LEGAL - RESPONSABILIDADE OBJETIVA DA FINANCEIRA RECONHECIDA NA SENTENÇA COM A CONDENAÇÃO DO BANCO EM DANO MATERIAL - AUSÊNCIA DE RECURSO DA CASA BANCÁRIA - TRIBUNAL LOCAL QUE, RELATIVAMENTE AO DANO MORAL, AFIRMOU A EXISTÊNCIA DE EXCLUDENTE DE RESPONSABILIDADE POR FATO DE TERCEIRO - IRRESIGNAÇÃO DA AUTORA.
+Hipótese: Cinge-se a controvérsia a três pontos específicos: a) ocorrência de dano moral à pessoa jurídica por suposta falha na prestação do serviço bancário decorrente de fraude perpetrada por funcionário/contratado/preposto da empresa; b) aplicabilidade da repetição do indébito em dobro e c) termo inicial dos juros moratórios.
+1. É inviável rever/revisitar, nessa oportunidade, a responsabilidade objetiva da casa bancária pelos danos materiais causados à empresa demandante, face a ausência de recurso da financeira para discutir o quanto estabelecido na sentença que, além de declarar nulo o negócio jurídico entabulado, condenou o banco ao ressarcimento de valores despendidos com o pagamento de cheques e perícia grafotécnica.
+2. O Superior Tribunal de Justiça, na ocasião do julgamento, nos moldes do art. 543-C do CPC/73, dos Recursos Especiais nºs 1.197.929/PR e 1.199.782/PR, de relatoria do e. Ministro Luis Felipe Salomão, consolidou posicionamento no sentido de que "as instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros". 2.1 No caso, imprescindível promover uma distinção (distinguishing) para com o entendimento sedimentado nos repetitivos, pois na hipótese ora em foco, o procedimento escuso fora empreendido por funcionário/preposto/contratado da pessoa jurídica que não permitiu aos gestores da casa bancária sequer desconfiar acerca da ocorrência de fraude, pois além da falsificação das assinaturas ser primorosa, vez que a distinção para com as legítimas somente fora constatada por perícia grafotécnica, a fraudadora possuía inegável laço de parentesco ante o corpo dirigente da empresa que atribuíra à falsária diversas funções atinentes à gestão dos negócios quando do afastamento da representante legal da entidade.
+3. O dano moral à pessoa jurídica não é presumível, motivo pelo qual deve estar demonstrado nos autos o prejuízo ou abalo à imagem comercial, coisa não verificada na hipótese.
+4. Conforme entendimento consolidado no âmbito deste Superior Tribunal de Justiça, a repetição em dobro do indébito requer a demonstração de má-fé na cobrança, o que não foi comprovado na hipótese. Precedentes.
+5. É inviável o acolhimento da tese de incidência dos juros moratórios a partir da data do evento danoso nos termos da súmula 54/STJ, haja vista que, no caso, a relação estabelecida entre as partes é contratual, pois a fraude somente se perfectibilizou mediante contrato de refinanciamento de dívida em virtude da empresa previamente manter com a financeira uma relação jurídica vinculada a operações bancárias.
+6. Recurso especial desprovido.
+(REsp n. 1.463.777/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/10/2020, DJe de 16/10/2020.)
+No que se refere ao dano moral, observo que o Tribunal de origem afastou a compensação respectiva, por considerar que não teria sido comprovado o dano extrapatrimonial, ônus que incumbia ao recorrente (fl. 577).
+A orientação adotada não destoa da jurisprudência desta Corte, segundo a qual "a caracterização do dano moral exige que a comprovação do dano repercuta na esfera dos direitos da personalidade. A fraude bancária, nessa perspectiva, não pode ser considerada suficiente, por si só, para a caracterização do dano moral" (AgInt nos EDcl no AREsp 1.669.683/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/11/2020, DJe de 30/11/2020).
+Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL.
+RESPONSABILIDADE CIVIL. SAQUE INDEVIDO EM CONTA CORRENTE. VALOR ÍNFIMO. RESSARCIMENTO DA QUANTIA. ABALO À HONRA NÃO DEMONSTRADO.
+DANO MORAL. NÃO CONFIGURAÇÃO. ACÓRDÃO RECORRIDO. CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é no sentido de que, ausente o abalo à honra, não há que se falar em indenização por danos morais por saque indevido em conta corrente, posteriormente restituído, porquanto não se trata de dano in re ipsa. No caso, o acórdão recorrido está em conformidade com a orientação jurisprudencial do STJ. Incidência da Súmula 83/STJ.
+2. Agravo interno não provido"
+(AgInt no AREsp 1622003/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26.10.2020)
+Aplica-se, portanto, a Súmula 83/STJ.
+Ademais, o Tribunal de origem, ao apreciar a controvérsia, expressamente consignou que, no caso, a parte não demonstrou ter suportado abalo aos seus direitos de personalidade.
+Assim, para a revisão da conclusão adotada no acórdão recorrido seria necessária a incursão no acervo probatório dos autos, providência vedada em sede de especial a teor da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
