@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ZELDA ELLAZIA KOHLMANN e HENRIQUE ALFREDO KOHLMANN à decisão monocrática proferida por este signatário assim ementada (e-STJ, fl. 133):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. LOCAÇÃO DE IMÓVEL COMERCIAL. PENHORABILIDADE DO IMÓVEL. POSSIBILIDADE. TEMAS 1.091/STJ E 1.127/STF. DIREITO SUBJETIVO AO ENTENDIMENTO JURISPRUDENCIAL VIGENTE À ÉPOCA DOS FATOS. NÃO CABIMENTO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões recursais, os embargantes alegam a existência de vícios na decisão embargada.
+Para tanto, sustentam ocorrência de contradição e omissão, uma vez que conforme se observa dos autos, teria ocorrido o trânsito em julgado da decisão que indeferiu a penhora do imóvel dos embargantes e o agravo de instrumento foi interposto em face da decisão que tão somente manteve a impenhorabilidade do bem.
+Sendo assim, afirmam que foi proferida decisão no processo original n. 0001970-87.2018.8.16.0194, a qual teria determinada a penhora do imóvel objeto da lide. Em 20/11/2020, os recorrentes apresentaram manifestação alegando a impenhorabilidade do imóvel por se tratar de bem de família. Logo após, em 26/2/2021, foi reconhecida a impenhorabilidade do imóvel pelo magistrado, porém, a parte ora embargada não apresentou recurso e, como consequência, ocorreu o trânsito em julgado da decisão no dia 14/4/2021.
+Ponderam que no dia 23/5/2022, mais de dois anos após a decisão que reconheceu a impenhorabilidade do imóvel, a empresa embargada requereu nova penhora do imóvel, o que foi indeferido em razão da impenhorabilidade anteriormente reconhecida.
+Dessa maneira, entendem que "quando do julgamento do RE nº 1.307.344/SP pelo Supremo Tribunal Federal, não estava pendente a análise de eventual recurso interposto pela empresa Centro Sul Participações Societárias Ltda., porquanto já havia ocorrido o trânsito em julgada da decisão que reconheceu a impenhorabilidade!" (e-STJ, fl. 146).
+Impugnação apresentada às fls. 159-162 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, a omissão, a obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição, supressão de omissão ou saneamento de erro material, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 1.706.883/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 14/3/2022, DJe 18/3/2022)
+De fato, verifica-se a presença de vício na decisão embargada no tocante à análise da preclusão consumativa em razão do julgamento anterior, pelo Tribunal de origem, da ação de execução de título extrajudicial de n. 0001970-87.2018.8.16.0194, a qual indeferiu o pedido de penhora sobre o imóvel objeto da lide, contra a qual não foi manejado recurso e, assim teria transitado em julgado.
+Diante dessas considerações, acolho os embargos de declaração, com efeitos infringentes, para tornar sem efeito a decisão de fls. 133-141 (e-STJ).
+Após, retornem os autos para nova análise do agravo em recurso especial interposto.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA À PRECLUSÃO CONSUMATIVA, EM RAZÃO DE JULGADO ANTERIOR QUE DECIDIU PELA IMPENHORABILIDADE DO IMÓVEL OBJETO DA LIDE, DO QUAL NÃO HOUVE RECURSO DA PARTE EMBARGADA. VÍCIO VERIFICADO . EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES.
