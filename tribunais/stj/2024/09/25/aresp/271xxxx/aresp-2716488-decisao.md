@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo (fls. 756/761) manejado pela Caixa Seguradora S.A., desafiando decisão do Tribunal Regional Federal da 4ª Região que não admitiu o recurso especial em razão da incidência da vedação prevista na Súmula 83/STJ, haja vista que o acórdão está alinhado à jurisprudência deste Sodalício acerca da inexistência de preclusão para o reconhecimento da nulidade por incompetência absoluta (fls. 711/712).
+Sustenta o agravante, em resumo, a inaplicabilidade da Súmula 83/STJ aduzindo que a questão não está pacificada no STJ, pois "nos referidos acórdãos paradigmas entendeu-se pela competência da Justiça Federal em face da Lei 12.409/2011" (fl. 759). Afirma que "o correto é fixar a competência para processamento e julgamento dos presentes autos com à Justiça Federal para verificação concreta do interesse da Caixa Econômica Federal" (fl. 760).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte deixou de impugnar especificamente o motivo adotado pela instância de origem para negar trânsito ao a pelo especial.
+Com efeito, a insurgente não logrou infirmar o decisum, de forma específica e mediante argumentação suficiente, no ponto em que o Tribunal local aplicou a vedação sumular n. 83/STJ, em razão de o acórdão recorrido ter se alinhado ao entendimento firmado no âmbito do STJ acerca da inexistência de preclusão para o reconhecimento da nulidade por incompetência absoluta (fls. 711/712).
+Note-se que caberia à agravante, nesse ponto, demonstrar de que modo a jurisprudência do STJ não estaria alinhada ao entendimento adotado no acórdão recorrido, quanto à matéria indicada, providência da qual não se desincumbiu.
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
