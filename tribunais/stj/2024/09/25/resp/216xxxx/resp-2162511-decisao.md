@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado de Santa Catarina com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 75):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. SUBSTITUIÇÃO DA TR PELO IPCA-E. ADOÇÃO DA SELIC A PARTIR DA EC 113/2021. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. PARCELAS DE TRATO SUCESSIVO. APLICABILIDADE IMEDIATA DO TEMA 810 DO STF. PRECLUSÃO E OFENSA À COISA JULGADA NÃO CONFIGURADAS. PRECEDENTES DO STF, DO STJ E DESTE TRIBUNAL. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+A parte recorrente aponta violação aos arts. 141, 492 e 507 do CPC. Sustenta que: "Na espécie, ocorreu a preclusão, pois o recorrido (exequente) - já na vigência do Tema 810/STF - apresentou cálculos com índice de correção monetária diverso do previsto no precedente vinculante e, num segundo momento, sem qualquer mudança de estado de fato e de direito, apresentou novos cálculos. É pacífico na jurisprudência do STJ que a ausência de impugnação sobre o cálculo apresentado ou a homologação do cálculo torna a matéria preclusa  ..  Também firme o entendimento do Superior Tribunal de Justiça que a inadequação quanto aos "critérios do cálculo" não caracteriza erro material e, por consequência,submete-se à preclusão e não comporta revisão de ofício  ..  Por fim, também conforme entendimento firme na Corte Superior, "a aplicação do índice de correção monetária diverso do posteriormente pretendido não constitui erro material, mas sim critério de cálculo", razão pela qual "a apresentação de cálculos pelo credor com um determinado índice de correção monetária é incompatível com a subsequente discordância com esse mesmo critério de atualização"" (fls. 124/126).
+Defende que: "O objeto do presente recurso não é aplicação pura e simples da racionalidade dos julgados proferidos no Temas 810 e 1170/STF, mas sim a impossibilidade da reabertura da discussão sobre cálculos já homologados pelo juízo, ou seja, a renovação da discussão acerca de questão que já está acobertada pela preclusão" (fl. 128).
+Foram ofertadas contrarrazões às fls. 153/158.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Verifica-se que o Tribunal de origem não examinou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, tampouco foram opostos embargos declaratórios para suprir eventual omissão.
+Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, não conh eço do recurso especial.
+Publique-se.
+EMENTA
