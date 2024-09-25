@@ -1,0 +1,49 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por DALLAGNOL ENGENHARIA DE OBRAS LTDA, contra a decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos, não incidindo o óbice da referida súmula.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+O recurso não merece prosperar.
+Súmula 7 do STJ
+A pretensão da parte recorrente relativa à violação dos arts. 2º, §§ 5º e 6º da Lei 6.830/80; e 156, II, 201, 202 e 203 do Código Tributário Nacional, consubstanciada na alegação de irregularidade da CDA que deu suporte à execução fiscal e no reconhecimento do direito à compensação dos créditos, encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, assentou que:
+Dirigindo-se o inconformismo sobre nulidades da CDA, estas não se sustentam. A defendida carência de assinatura do título está suprida pela informação constante na borda da cártula: "este é um documento assinado digitalmente" (Evento 1, CDA3). Ainda que se cogitasse "nula a certidão de dívida ativa a que falta a assinatura da autoridade competente para autenticá-la" (Des. Newton Trisotto) é certo que "a Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal (Enunciado n. 392/STJ)" (TJSC, Agravo de Instrumento n. 5064477-35.2022.8.24.0000, rel. Des. Cid Goulart, Segunda Câmara de Direito Público, j. 30-05-2023). A nova CDA já acostada pela municipalidade no Evento 35 supre o reportado vício. Igualmente impertinente a alegação de antinomia na descrição da natureza do débito (porque indicado como tributário ao invés de não-tributário).
+ ..
+A toda evidência, a nova CDA anexada no Evento 35 alterou o teor da natureza para "não-tributária". Assim, a sucessiva substituição da CDA, já perfectibilizada na instância originária (em 22-1- 2024), pela égide do art. 2º, § 8º, da Lei n. 6.830/80, assegurará ao executado, inclusive, devolução do prazo para embargos, arrefecendo o teor da dissidência alusiva à nulidade (art. 493 do CPC). Sob qualquer ângulo, vige a sanabilidade do título  ..
+Prossegue a agravante defendendo carência de notificação no curso do processo administrativo. A tese é contrária ao que comprova AR-Aviso de Recebimento, subscrito no dia 23-11-2020 pelo representante legal da executada, derruindo a alegada carência de notificação (Evento 20, OUT5). Finalmente, defende a insurgente ser detentora de crédito em relação à municipalidade, o que daria azo à compensação.
+O regime previsto no Código Tributário Nacional é aquele do art. 170, segundo o qual "a lei pode, nas condições e sob as garantias que estipular, ou cuja estipulação em cada caso atribuir à autoridade administrativa, autorizar a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda pública". Entretanto, o decisório do eminente Juiz de Direito, Dr. Daniel Lisboa Mendonça, que muito dignifica a magistratura catarinense, tanto por sua operosidade quanto pela qualidade de seus julgados, diligentemente fundamentou impossibilidade de sindicar o pleito em razão da necessária dilação probatória  ..  O posicionar está correto, sobretudo quando regimes distintos de atualizações poderiam interferir na análise de juros e correção. Qualquer mínima discordância das partes conduziria a demanda para intrincada dilação probatória, com cálculos discrepantes, em nítido empeço a marcha processual. A restrita via da exceção de pré-executividade não ressoa producente para encontro e desencontro de contas. Deve versar apenas matérias apreciáveis de pronto.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+CIVIL, ADMINISTRATIVO E PROCESSUAL CIVIL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. PRAZO PRESCRICIONAL. REGRA DO CÓDIGO CIVIL. TEMA 639 DO STJ. RATIO DECIDENDI. ADOÇÃO. CDA. PROCESSO ADMINISTRATIVO. IRREGULARIDADE. AFERIÇÃO. REEXAME DE PROVAS. NÃO CABIMENTO. ATO NORMATIVO INFRALEGAL. EXAME. INVIABILIDADE.
+ ..
+4. A verificação da alegada nulidade da execução fiscal por irregularidades na CDA e no processo administrativo demandaria, na hipótese, reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+ ..
+6. Agravo interno desprovido (AgInt nos EDcl no REsp n. 1.869.456/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024).
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. APELO NOBRE. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. NULIDADE DA CDA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+4. Quanto à nulidade da CDA, aferir, no caso, a ausência dos requisitos legais, exigiria nova análise de aspectos fáticos da causa, providência vedada em recurso especial (Súmula 7/STJ).
+Precedentes.
+5. Agravo interno não provido (AgInt nos EDcl no AREsp n. 2.354.972/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024).
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DAS CERTIDÕES DE DÍVIDA ATIVA. NECESSIDADE DE REANÁLISE FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. VIOLAÇÃO DOS ARTS. 9º E 10 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULAS N. 282 E 356 DO STF.
+1. Hipótese em que o recurso especial não foi conhecido em função da incidência da Súmula n. 7 do STJ e das Súmulas n. 282 e 356 do STF.
+2. No âmbito do recurso especial, não é admitido novo exame dos elementos do processo a fim de apurar a nulidade de certidões de dívida ativa já afastada pelo Tribunal local, com fundamento em análise das provas colhidas nos autos, a teor da Súmula n. 7 do STJ.
+ ..
+Agravo interno improvido (AgInt no AREsp n. 2.152.808/MG, relator Ministro Humberto Martins, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IMUNIDADE TRIBUTÁRIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE INDEFERIDA PELA INSTÂNCIA ORDINÁRIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ALTERAÇÃO DO JULGADO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Primeira Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp 1.104.900/ES, sob a sistemática do art. 543-C do CPC/1973 (Tema 103), consagrou o entendimento de que a exceção de pré-executividade somente é cabível nas situações em que não se faz necessária dilação probatória ou em que o magistrado pode conhecer das questões de ofício. Incidência da Súmula 393/STJ.
+2. É o caso dos autos, em que a alegação de imunidade tributária não pôde ser acolhida de plano ante a constatação de que não foram carreados aos autos todos os elementos necessários ao seu reconhecimento, tal como expressamente consignado no acórdão recorrido.
+3. Outrossim, a análise da suficiência ou não das provas pré-constituídas não é possível em recurso especial (AgRg no AREsp 429.474/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 4/12/2015).
+4. Agravo interno desprovido (AgInt no AREsp n. 1.834.613/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Por fim, a análise do dissídio jurisprudencial se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea a, do permissivo constitucional, alcança a alínea c, no que tange à mesma matéria. Não é outro o entendimento de ambas as Turmas de direito público desta Corte Superior, conforme os precedentes abaixo transcritos:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DECISÃO EXTRA PETITA. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. FALTA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. JORNADA DE TRABALHO DE QUARENTA HORAS SEMANAIS. BASE DE CÁLCULO. DIVISOR DE 200 HORAS MENSAIS. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+9. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+10. Agravo Interno não provido (AgInt no AREsp 2.259.405/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/6/2023, DJe de 30/6/2023).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. RECURSO PARCIALMENTE ACOLHIDO.
+ ..
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Embargos de declaração acolhidos, sem efeitos modificativos, para suprir omissão (EDcl no AgInt no REsp 1.817.210/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+ EMENTA
