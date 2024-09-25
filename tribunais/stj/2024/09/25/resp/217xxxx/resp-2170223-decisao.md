@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto do Seguro Social -INSS fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 139):
+PROCESSUAL CIVIL. DESISTÊNCIA DA AÇÃO. HOMOLOGAÇÃO. CONCORDÂNCIA DA AUTARQUIA PREVIDENCIÁRIA. DESNECESSIDADE. COISA JULGADA SECUNDUM EVENTUM LITIS OU SECUNDUM EVENTUM PROBATIONIS.
+1. Nos termos do art. 267, § 4º, do CPC/art. 485, § 4º, do NCPC, decorrido o prazo de resposta, é imprescindível o consentimento da parte ré para que possa ser acolhido o pedido de desistência do autor.
+2. Porém, como nas ações de natureza previdenciária a decisão judicial faz coisa julgada secundum eventum litis ou secundum eventum probationis, nada impede que, havendo novas provas ou completando-se os requisitos necessários à obtenção do benefício, nova ação seja proposta pelo segurado para o mesmo fim.
+3. Por essa razão, não tem relevância jurídica a resistência da autarquia previdenciária à desistência da ação, ou condicioná-la à renúncia ao direito em que se funda a ação, porque os benefícios previdenciários podem ser requeridos a qualquer tempo em que deles necessitar os segurados, prescrevendo-se tão somente as parcelas vencidas no prazo da lei, podendo o segurado até mesmo não mais prosseguir com a ação porque se desinteressou momentaneamente pelo benefício.
+4. A resistência, por uma ou outra razão, é infundada.
+5. Apelação desprovida. Sentença mantida.
+Opostos embargos declaratórios, foram rejeitados (fls. 170/171).
+Aponta o recorrente violação aos arts. 1.022, 485, § 4º, do CPC/2015; 267, § 4º, do CPC/1973; e 3º da Lei 9.469/1997, sustentando que "a autarquia previdenciária, discordando da desistência anunciada pela parte autora, opôs-se a que fosse ela homologada pelo juízo, que, contudo, homologou a desistência da ação" (fl. 186).
+Aduz que "o INSS somente poderá concordar com o pedido de desistência da demanda se o autor renunciar, expressamente. ao direito sobre o qual se funda a ação" (fl. 185).
+Juízo de retratação negativo ao Tema 524/STJ (fl. 209).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece prosperar.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Quanto à q uestão de fundo, a jurisprudência desta Corte é pacífica no sentido de que "A anuência da União à desistência, nos termos do art. 3º da Lei 9.469/1997, condiciona-se à renúncia expressa do autor ao direito sobre o qual se funda a ação e constitui motivo suficiente para obstar a homologação do pedido de desistência" (REsp 1.304.080/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 10/10/2012).
+Com efeito, o tema trazido nas razões de recurso especial já foi enfrentado pela Primeira Seção desta Corte, no julgamento do REsp 1.267.995/PB, pelo rito estabelecido pelo art. 543-C do CPC.
+Eis a ementa desse julgado:
+PROCESSUAL CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ART. 543-C DO CPC. DESISTÊNCIA DA AÇÃO. NÃO CONSENTIMENTO DO RÉU. ART. 3º DA LEI 9.469/97. LEGITIMIDADE.
+1. Segundo a dicção do art. 267, § 4º, do CPC, após o oferecimento da resposta, é defeso ao autor desistir da ação sem o consentimento do réu. Essa regra impositiva decorre da bilateralidade formada no processo, assistindo igualmente ao réu o direito de solucionar o conflito. Entretanto, a discordância da parte ré quanto à desistência postulada deverá ser fundamentada, visto que a mera oposição sem qualquer justificativa plausível importa inaceitável abuso de direito.
+2. No caso em exame, o ente público recorrente condicionou sua anuência ao pedido de desistência à renúncia expressa do autor sobre o direito em que se funda a ação, com base no art. 3º da Lei 9.469/97.
+3. A existência dessa imposição legal, por si só, é justificativa suficiente para o posicionamento do recorrente de concordância condicional com o pedido de desistência da parte adversária, obstando a sua homologação.
+4. A orientação das Turmas que integram a Primeira Seção desta Corte firmou-se no sentido de que, após o oferecimento da contestação, não pode o autor desistir da ação, sem o consentimento do réu (art. 267, § 4º, do CPC), sendo que é legítima a oposição à desistência com fundamento no art. 3º da Lei 9.469/97, razão pela qual, nesse caso, a desistência é condicionada à renúncia expressa ao direito sobre o qual se funda a ação.
+5. Recurso especial provido. Acórdão submetido ao regime do art. 543-C do
+CPC e da Resolução STJ n. 8/08.
+(REsp 1.267.995/PB, Rel. Min. MAURO CAMPBELL, 1ª SEÇÃO, DJe 03/08/2012)
+No mesmo sentido anotem-se os seguintes julgados:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. DESISTÊNCIA DA AÇÃO APÓS CONTESTAÇÃO. NÃO CONSENTIMENTO DO RÉU. LEGITIMIDADE. ART. 3º DA LEI 9.469/97.
+1. A Primeira Seção do STJ, sob o regime do art. 543-C do CPC (REsp 1.267.995/PB, Relator para Acórdão Min. Mauro Campbell), firmou o entendimento de que, nos termos do artigo 267, § 4º, do CPC, a desistência da ação, após o decurso do prazo para a resposta, somente poderá ser homologada com o consentimento do réu, condicionada à renúncia expressa do
+autor ao direito sobre o qual se funda a ação, nos termos do art. 3º da Lei 9.469/1997.
+2. Recurso Especial provido.
+(REsp nº 1.362.321/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/03/2013)
+PROCESSO CIVIL. PEDIDO DE DESISTÊNCIA DA AÇÃO. DEFERIMENTO. HOMOLOGAÇÃO. DISCORDÂNCIA DO RÉU. CONDICIONAMENTO DO ART. 3º DA LEI 9469/97. MOTIVAÇÃO SUFICIENTE. NULIDADE. NÃO-OCORRÊNCIA. INTERPRETA.ÇÃO TELEOLÓGICA. ART. 267, § 4º, DO CÓDIGO DE PROCESSO CIVIL.
+1. O autor não pode desistir da ação sem o consentimento do réu, nos termos do art. 267, § 4º, do CPC.
+2. A regra impositiva decorre da bilaterialidade formada no processo, assistindo igualmente ao réu o direito de solucionar o conflito. Todavia, a oposição à desistência da ação deverá ser fundamentada, sob pena de configurar abuso de direito. Precedentes: (REsp 976861/SP, DJ 19.10.2007; REsp 241780/PR, , DJ 03.04.2000; REsp 115642/SP, DJ 13.10.1997.)
+3. In casu, a União condicionou a concordância ao pedido de desistência formulado pelo autor à renúncia expressa deste sobre o direito em que se funda a ação.
+4. A Lei 9.469/97, em seu art. 3º dispõe que: "As autoridades indicadas no caput do artigo 1º poderão concordar com o pedido de desistência da ação, nas causas de quaisquer valores, desde que o autor renuncie expressamente ao direito em que se funda a ação."
+5. Deveras, referida norma deve ser interpretada de forma sistemática com o art. 267, § 4º do Código de Processo Civil, considerando-se como condição suficiente à recusa ao pedido de desistência formulado pelo autor, por parte da Administração, a exigência à renúncia expressa a direito sobre o qual se funda a ação. PRECEDENTES: REsp Nº 651.721 - RJ, 1ª Turma, Relator Ministro Teori Albino Zavascki; DJ de 28/9/2006; RESP 460.748/DF, 2ª T., Min. João Otávio de Noronha, DJ de 03.08.2006.
+6. Recurso especial provido.
+(REsp 1.174.137/PR, Rel. Min. LUIZ FUX, PRIMEIRA TURMA, julgado em 6/4/2010, DJe 26/4/2010)
+Na hipótese, como a parte autora não renunciou ao direito sobre o qual se funda a ação, o acórdão recorrido merece reforma.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para afastar a extinção do processo e determinar o prosseguimento do feito.
+Publique-se.
+EMENTA
