@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+Compromisso de compra e venda. Pedidos declaratório e indenizatório. Sentença de parcial procedência. Inconformismo do autor. Parcial provimento, em parte mínima. Ausente previsão de entrega em data específica, prevalece o prazo contratual previsto de trinta meses após o registro do contrato havido entre ré e agente financeiro. Atraso de dois meses na entrega do imóvel, apenas e tão somente. Prevalecem as condenações, conforme estipuladas em sentença, ao ressarcimento dos gastos em decorrência do atraso ("taxa de obra" e gastos com moradia em local outro durante tal período). Taxa de corretagem prevista, de maneira clara, em contrato. Sentença reformada apenas para que se aplique a multa em desfavor da ré pelo atraso. Sucumbência recíproca.
+Recurso parcialmente provido.
+Argumenta a parte recorrente, em síntese, a violação dos arts. 6º, III, 30, 31, 39, I, XII, artigo 51, §1º, inciso III e §2º, e artigo 54 todos do Código de Defesa do Consumidor; 186, 389, 395, 404, 722, 726, 927, do Código Civil; 5º, X, da Constituição Federal, além de dissídio jurisprudencial.
+Preliminarmente, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Incide o enunciado 211 da Súmula do STJ quanto aos dispositivos legais indicados pelo recorrente, por ausência de prequestionamento, nada obstante a oposição dos embargos de declaração, não encontrando, assim, condições de análise na instância especial, mormente porque não levantada a negativa de vigência do art. 1.022 do CPC.
+Relativamente ao atraso na entrega da obra, assim decidiu a Corte de origem, in verbis:
+Insiste o autor na tese de que deve ser considerado o prazo para entrega do imóvel o mês de fevereiro do ano 2012. Contudo, não há em lugar algum do contrato (fls. 164/177) previsão de que o imóvel seria entregue em tal data.
+A sentença corretamente reconheceu a data de entrega em setembro de 2013, em decorrência da previsão da cláusula 5 do contrato que estipula a entrega em trinta meses do registro do contrato havido entre a ré e o agente financeiro.
+Como o imóvel foi entregue em novembro de 2013 (conforme termo de recebimento apresentado em contestação e não impugnado pela parte autora), houve atraso de apenas dois meses na entrega do imóvel.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Os mesmos óbices impedem o conhecimento do recurso no que tange aos danos morais, eis que a Corte de origem afastou sua incidência com base na inter pretação dos fatos da lide, conforme se depreende do seguinte trecho do voto condutor do acórdão:
+Apesar de reconhecer, na maior parte dos casos, danos morais em razão de atraso na entrega da obra (em razão da pretensão de utilizá-la para fins de moradia, do "sonho da casa própria" e da relevância especial do descumprimento contratual em tais casos), dois meses não são suficientes para tanto. Trata-se, no caso, de aborrecimento, apenas e tão somente.
+Em face do exposto, nego provimento ao recurso especial. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos em face da gratuidade de Justiça.
+Intimem-se.
+EMENTA
