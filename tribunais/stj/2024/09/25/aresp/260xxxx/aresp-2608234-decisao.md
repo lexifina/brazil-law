@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 553):
+AÇÃO DE OBRIGAÇÃO DE FAZER (COBERTURA DE TRATAMENTO PSICOLÓGICO E PSIQUIÁTRICO) CUMPRIMENTO DE SENTENÇA Decisão que impôs à executada o pagamento de multa acumulada em R$ 4.000,00 e determinou o reembolso de despesa médica, no prazo de dois dias, sob pena de multa diária de R$ 1.000,00 Agravante que pretende a exclusão da multa, reclamando de seu cabimento, montante e do prazo concedido para cumprimento da obrigação Descabimento Multa cabível no caso dos autos, eis que se está diante de cumprimento de sentença relativa a obrigação de fazer (cobertura de tratamento psiquiátrico e psicológico), nos termos do art. 536, § 1º, do CPC Prazo fixado para cumprimento da obrigação que é razoável, notadamente porque a agravante já contou com o prazo administrativo para reembolso das despesas médicas (de 30 dias), não apresentando qualquer justificativa pela qual não consegue cumprir a obrigação Pedido de redução também incabível Multa que foi fixada em valor adequado para compelir o cumprimento da tutela específica (R$ 1.000,00 por dia de descumprimento) Agravante que não demonstrou justa causa para a demora no cumprimento da ordem Decisão mantida RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 537, §1º, I e II, do Código de Processo Civil; e 884 do Código Civil; bem como divergência jurisprudencial.
+Sustenta que o valor da multa não deve implicar enriquecimento sem causa. Pondera que o valor arbitrado é desproporcional e excessivo.
+Afirma que não houve descumprimento da decisão.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, ao julgar o recurso, concluiu que (fls. 554/556):
+Na verdade, o cumprimento de sentença de origem versa sobre obrigação de fazer, consistente na obrigação de cobertura do tratamento psiquiátrico e psicológico a que faz jus a agravada, consoante sentença (fls. 39/48) e acórdão (fls. 51/62) acostados na origem.
+Aplicável, desta forma, a multa prevista no art. 536, § 1º, do CPC, como forma de compelir a parte ao correto cumprimento da obrigação.
+Além disso, não se cogita do prazo exíguo para cumprimento da obrigação.
+Isso porque, antes mesmo de solicitar o reembolso por meio do cumprimento de sentença, a agravada comprovou ter solicitado o pagamento via extrajudicial (em 06/03/23, fls. 274/281 na origem) e que, até 31/03/23, o reembolso extrajudicial ainda não havia sido providenciado. E, justamente diante desta nova negativa, é que o Juízo a quo determinou a intimação da agravante, para reembolso dos valores em dois dias, sob pena de multa de R$ 1.000,00 (fl. 282 na origem). Mencionada decisão foi publicada em 17/04/23 (fl.
+284), ao passo que a obrigação foi cumprida apenas em 24/04/23 (conforme documento de fl. 286 acostado pela própria agravante, que informa que o depósito seria realizado apenas em 24/04/23). Evidente, portanto, o descumprimento da liminar, por 4 (quatro) dias, a incidir a multa diária de R$ 1.000,00 (acumulada, portanto, em R$ 4.000,00).
+De igual modo, quanto à nova determinação de reembolso (relativa à nota fiscal de nº 00005067, de R$ 10.350,00), é necessário pontuar que a agravada já havia solicitado o reembolso administrativo em 04/07/23 (fls. 298/302), o que ensejou a intimação da operadora para reembolso judicial, em dois dias.
+Repita-se, a obrigação de fazer está sedimentada em sentença transitada em julgado e a agravante não explica adequadamente as razões pelas quais não consegue cumprir a ordem, sequer no prazo de 30 dias a partir dos inúmeros pedidos administrativos de reembolsos destas despesas médicas.
+A renitência da agravante em cumprir a obrigação resta evidenciada nos autos e somente pode ser superada com a multa fixada pelo Juízo a quo.
+Tampouco há que se falar em redução da multa acumulada.
+Vê-se que a fixação das astreintes é legal e perfeitamente adequada à hipótese dos autos, visando a conferir efetivo cumprimento à decisão judicial.
+A multa tem conteúdo processual, de cunho intimidatório e coercitivo, destinado a vencer a resistência do devedor. Nesse contexto, o valor fixado deve ser suficiente para inibir ou forçar a conduta da parte, evitando, com isso, subtrair-se ao comando jurisdicional.
+Frise-que a multa fixada em R$ 1.000,00 por dia de descumprimento, se mostrou adequada ao caso, frente à necessidade de pronto atendimento da tutela específica concedida na origem (reembolso das despesas médicas).
+Acresça-se que a agravante sequer declinou qualquer justa causa para o descumprimento da liminar, ressaltando-se que, além do prazo já concedido pelo Juízo a quo (de dois dias), a agravante já contava com o prazo administrativo de 30 dias para realizar o reembolso (repetindo-se que a agravada já havia pugnado pelo reembolso administrativo em 06/03/23).
+Além disso, não se vislumbra mesmo violação à proporcionalidade e à razoabilidade, eis que a despesa médica objeto de discussão totalizava R$ 9.660,00 e a multa foi fixada em R$ 1.000,00 diários.
+Irretocável, portanto, a r. decisão agravada, ficando revogado o efeito suspensivo e desprovido este recurso.
+Dessa forma, alterar a conclusão do acórdão recorrido, que asseverou expressamente que houve descumprimento da decisão judicial e que o valor da multa arbitrado é proporcional, demandaria reexame de fatos e provas dos autos, providência vedada em recurso especial, ante o teor da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
