@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pela UNIÃO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 831):
+ADMINISTRATIVO. MEDICAMENTO. INSUMO. BOMBA DE INSULINA. INEFICIÊNCIA DAS ALTERNATIVAS. AUSÊNCIA DE COMPROVAÇÃO. TRATAMENTO PARTICULAR. SUBMISSÃO AOS PROTOCOLOS DO SUS. INOCORRÊNCIA. SUCUMBÊNCIA.
+1. O direito à saúde é assegurado como fundamental, nos arts. 6º e 196 da Constituição Federal, compreendendo a assistência farmacêutica (art. 6º, inc. I, alínea "d", da Lei n. 8.080/90), cuja finalidade é garantir a todos o acesso aos medicamentos necessários para a promoção e tratamento da saúde; não se trata, contudo, de direito absoluto, segundo reconhecido pelo Supremo Tribunal Federal, que admite a vinculação de tal direito às políticas públicas que o concretizem, por meio de escolhas alocativas, e à corrente da Medicina Baseada em Evidências.
+2. Para fazer jus ao recebimento de medicamentos fornecidos por entes políticos, deve a parte autora comprovar a atual necessidade e ser aquele medicamento requerido insubstituível por outro similar/genérico no caso concreto.
+Opostos embargos declaratórios, foram acolhidos conforme a seguinte ementa (fl. 847):
+ADMINISTRATIVO E PROCESSUAL CIVIL. MEDICAMENTO. OMISSÃO. AJG PARCIALMENTE CONCEDIDA. POSSIBILIDADE. REVOGAÇÃO TÁCITA. INOCORRÊNCIA. DE OMISSÃO OU CONTRADIÇÃO. PREQUESTIONAMENTO EXPRESSO. São cabíveis embargos de declaração quando houver no acórdão obscuridade, contradição ou for omisso em relação a algum ponto sobre o qual o Tribunal devia ter se pronunciado e não o fez (CPC/15, art. 1022), ou ainda, por construção jurisprudencial, para fins de prequestionamento, como indicam as súmulas 282 e 356 do e. STF e a 98 do e. STJ.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 98, §5º, do CPC. Sustenta que "é absolutamente indevida a concessão de gratuidade de justiça exclusivamente para afastar os honorários advocatícios, com a manutenção do dever de arcar com as custas processuais, como determinado pelo acórdão ora recorrido. Por essa razão, deve ser restaurada a sentença e a revogação tácita do benefício, ou, na eventualidade, deve ser determinada a aplicação da parte final do art. 98, §5º, com redução proporcional de todas as despesas processuais" (fl. 860).
+Foi ofertada contraminuta às fls. 913/915.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+Ao tratar do tema relativo à concessão da gratuidade de justiça, o Tribunal regional assentou que (fl.849):
+Quanto às possibilidade de concessão parcial da AJG, ainda que a embargante não se tenha insurgido quanto a isso à época, esclareço que não há qualquer impropriedade nessa concessão.
+ ..
+Por outro lado, ao contrário do que alega a embargante, não houve revogação tácita da AJG. Esclareça-se que consta, sim, a condenação da parte autora ao ônus sucumbencial, até porque não é outra a regra processual quanto a isso, uma vez que, no caso da AJG, suspende-se a exigibilidade dos valores dessa condenação.
+No caso, verifica-se que a conclusão alcançada pelo Tribunal de origem quanto ao regramento do benefício de justiça gratuita não destoa do entendimento do Superior Tribunal de Justiça:
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. BENEFICIÁRIO DA JUSTIÇA GRATUITA. VENCIDO. CUSTAS INICIAIS. EXIGIBILIDADE. CONDIÇÃO SUSPENSIVA. ART. 98, § 3º, DO CPC.
+1. O beneficiário da justiça gratuita, quando vencido na demanda, deverá ser condenado ao pagamento dos ônus sucumbenciais, aí incluídos os honorários advocatícios e as custas judicias.
+2. As custas judiciais adiantadas pela parte autora compõem as verbas sucumbenciais, que, por sua vez, são parte integrante da condenação da parte vencida, conforme dispõe o art. 82, § 2º, do Código de Processo Civil.
+3. A suspensão da exigibilidade disposta no §3º do art. 98 do Código de Processo Civil refere-se a todas as verbas sucumbenciais. No caso, ausente justificativa para afastar de tal previsão o valor das custas iniciais adiantas pela parte vencedora.
+4. Recurso especial provido.
+(REsp n. 1.949.665/DF, relator Ministro Marco Aurélio Bellizze, relator para acórdão Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2023, DJe de 25/10/2023.)
+Desse modo, não procede a pretensão da parte agravante de ver restaurada a sentença e a alegada revogação tácita do benefício de justiça gratuita. E estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Por fim, conforme doutrina de José Miguel Garcia Medina (Código de Processo Civil Comentado - Ed. 2020):
+A gratuidade da justiça compreende as isenções previstas no § 1.º do art. 98 do CPC/2015, dentre as quais a de taxas, honorários advocatícios e periciais, despesas com a realização do exame de código genético - DNA, depósitos previstos em lei para interposição de recurso, ajuizamento de ação e "outros atos processuais inerentes ao exercício da ampla defesa e do contraditório" e, também, "emolumentos devidos a notários ou registradores em decorrência da prática de registro, averbação ou qualquer outro ato notarial necessário à efetivação de decisão judicial ou à continuidade de processo judicial no qual o benefício tenha sido concedido". A gratuidade da justiça pode dizer respeito a apenas um ou alguns dos atos processuais (cf. § 5.º, 1.ª parte, do art. 98 do CPC/2015).
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
