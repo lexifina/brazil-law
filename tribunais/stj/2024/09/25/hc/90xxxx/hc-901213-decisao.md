@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de YASMIN DANIELA PEREIRA LOPES em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido de liminar formulado no HC n. 2071214-80.2024.8.26.0000.
+Decido.
+A impetração está prejudicada.
+Em consulta realizada à página eletrônica do Tribunal de origem, verifica-se que foi proferida sentença de parcial procedência da pretensão punitiva em desfavor da agravante, segundo o seguinte teor dispositivo:
+"Posto isso, e pelo mais que dos autos consta, julgo parcialmente procedente a ação e, com fulcro no artigo 386, II, do Código de Processo Penal, absolvo os todos os acusados do crime descrito no artigo 33 da Lei nº 11.343/06, mas condeno:
+ ..
+2) YASMIN DANIELA PEREIRA LOPES, como incursa nos artigos 2º, §§2º e 3º, da Lei nº 12.850/13, e 35 da Lei nº 11.343/06, às penas de 05 (cinco) anos, 07(sete) meses e 15 (quinze) dias de reclusão, além de 18 dias-multa, e 03 (três) anos de reclusão, além de 700 dias-multa no valor mínimo, respectivamente, fixado o valor unitário da multa em cinco salários mínimos, pelos mesmos motivos expostos acima ao estabelecer o valor da pena pecuniária do corréu Claudemir, até porque impende salientar que, não por acaso, no cumprimento dos dois mandados de busca expedidos por este juízo, antes e após da prisão de Claudemir, inicialmente na residência do casal e depois da prisão apenas na residência dela, foram apreendidas duas máquina de contar dinheiro.
+Fixei a pena base dos crimes no mínimo legal, posto que, conquanto responda a outras ações penais, como se verifica pela certidão acostada a fls.6147/6148, é primária e não ostenta antecedentes criminais. Na sequência, no tocante ao crime de organização criminosa, procedi ao aumento de 1/2, em face do disposto no aludido §2º do artigo 2º da Lei nº 12.850/13, pelos motivos acima consignados, e na sequência de 1/4, nos termos do respectivo § 3º, tendo em vista que também, juntamente com o companheiro Claudemir, liderava a organização criminosa, consoante consignado na fundamentação;
+ ..
+Subsistentes os motivos que ensejaram a decretação da prisão preventiva dos acusados, determino sejam recomendados nos estabelecimentos em que se encontram, mantida a prisão domiciliar de quem a obteve, desde que observadas a condições estabelecidas, sob pena de revogação, até o trânsito em julgado, quando deverão ser expedidos mandados de prisão, e, na sequência, arquivados os autos.
+No caso, como a pretensão da impetração do presente habeas corpus diz respeito à prisão temporária da paciente, a superveniência de título judicial condenatório torna prejudicado o presente writ.
+Ademais, dá consulta realizada à página eletrônica do Tribunal de origem, consta informação sobre interposição de recurso de apelação pela defesa da agravante, ainda que pendente de remessa ao Tribunal.
+Diante de tal cenário, a matéria objeto do recurso já sofreu alteração substancial no contexto jurídico e ainda será analisada de forma ampla e exauriente no âmbito da apelação, recurso dotado de efeito devolutivo amplo, não podendo o remédio heroico promover um indevido alargamento de competências.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. PREJUDICIALIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DOS FATOS. NECESSIDADE DE RESGUARDAR A ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Proferida sentença na ação penal, com a análise exauriente da matéria relativa à suposta nulidade arguida pela Defesa, fica prejudicado o habeas corpus, devendo o novo título ser impugnado originalmente perante o Tribunal a quo, pois, segundo a jurisprudência desta Corte, a supressão de instância impede o conhecimento da pretensão defensiva.
+2. A prisão preventiva foi adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada na especial gravidade do delito, evidenciada não apenas em razão da existência de anterior condenação pela prática do crime do art. 16, da Lei n. 10.826/2003, mas notadamente a partir da quantidade de substância entorpecente apreendida, supostamente destinado a distribuição em estabelecimento prisional, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 179.855/MG, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. INSURGÊNCIA CONTRA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ATO COATOR QUE DESAFIA IMPUGNAÇÃO PRÓPRIA. AGRAVO NÃO PROVIDO.
+1. A superveniência de um novo título judicial, decisão exarada pelo Juízo de primeiro grau, em consonância com o que determina o § 1º do art. 387 do Código de Processo Penal, com a redação que lhe foi dada pela Lei n. 12.736/2012, prejudica a impetração voltada à impugnação do decreto prisional original.
+2. No caso, o surgimento de novo título judicial a amparar prisão preventiva do agravante - a saber: a sentença condenatória - prejudica a análise do objeto da presente impetração, que se insurgia contra a ordem de custódia cautelar original.
+3. Agravo regimental não provido.
+(AgRg no AgRg no HC n. 890.403/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+Essa circunstância evidencia a perda de objeto da impetração.
+Ante  o  exposto,  julgo  prejudicado  o presente habeas corpus.
+Publique-se . Intimem-se.
+EMENTA
