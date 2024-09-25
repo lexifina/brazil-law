@@ -1,0 +1,20 @@
+DECISÃO
+Agrava-se da inadmissão de recurso especial interposto pelo MUNICÍPIO DE PETRÓPOLIS para impugnar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Analisando-se o recurso especial interposto, verifico que não cabe conhecer da alegada violação aos arts. 141 e 492 do CPC, por ausência de prequestionamento, aplicando-se, no ponto, o óbice da Súmula 282/STF.
+Quanto ao mais alegado, tem-se como igualmente incognoscível o recurso especial, haja vista que aferir a tempestividade do apelo interposto, na forma pretendida pelo recorrente, demandaria inevitável reexame do substrato fático-probatório da causa, inviável no âmbito do STJ nos termos da Súmula 7/STJ.
+Nesse sentido, cito julgados representativos da jurisprudência da PRIMEIRA TURMA:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. INTEMPESTIVIDADE DA INTERPOSIÇÃO PELO MEIO FÍSICO. REEXAME VEDADO. SÚMULA 7/STJ. AFRONTA A PRINCÍPIOS. INSTRUMENTALIDADE DAS FORMAS E FUNGIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem com vistas a atestar a tempestividade no caso concreto demandaria, a toda evidência, reexame de contexto fático-probatório dos autos, providência essa vedada em recurso especial à luz da Súmula 7/STJ.
+2. A discussão sobre a aplicação dos princípios da instrumentalidade das formas, bem como da fungibilidade, dispostos nos arts. 154, 244 e 249 do CPC/1973, não foi objeto de debate no acórdão recorrido, mesmo após a oposição dos embargos declaratórios, o que impede a apreciação da matéria por esta Corte Superior em razão da ausência de prequestionamento, conforme explicita a Súmula 211/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 745.907/RR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECISÃO DE RELATOR RECONSIDERANDO ANTERIOR DECISUM. PREJUÍZO. INEXISTÊNCIA. INTERESSE RECURSAL. AUSÊNCIA. RECURSO DE APELAÇÃO. ALEGADA INTEMPESTIVIDADE NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A retratação de anterior decisão proferida pelo Relator do feito, além de ter respaldo na norma de regência, não ocasionou qualquer prejuízo para a parte agravante, o que revela, nitidamente, a falta de interesse recursal para se insurgir contra o que foi decidido. Nesse sentido: AgInt no AREsp n. 1.987.798/SP, relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/6/2022; AgInt no AREsp n. 1.735.423/SP, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 23/2/2022).
+2. Conquanto a (in)tempestividade recursal seja matéria de ordem pública, cognoscível de ofício (AgInt no AREsp n. 1.380.806/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 9/4/2019), estando ela vinculada não a recurso dirigido a este Superior Tribunal, mas a recurso voltado ao Tribunal de origem, seu exame exige o preenchimento dos requisitos de admissibilidade do apelo especial, dentre os quais se encontra a vedação à nova incursão na seara fático-probatória dos autos, nos termos da Súmula 7/STJ.
+3. Caso concreto em que o Tribunal a quo afastou a intempestividade do recurso de apelação da parte agravada sob o fundamento de que ela não foi pessoalmente intimada da sentença, nem haveria nos autos prova de que seu patrono realizara carga dos autos.
+4. Tendo em vista a existência de controvérsia de natureza fática sobre a veracidade das informações contidas no andamento processual em contrapartida aos atos processuais efetivamente certificados nos autos, rever as conclusões firmadas pelo Tribunal de origem demandaria o revolvimento de matéria fático-probatória, o que atrai o óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.954.529/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
