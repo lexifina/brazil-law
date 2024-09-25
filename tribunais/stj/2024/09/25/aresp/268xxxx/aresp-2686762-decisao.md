@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTO , contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial: 21/02/2024.
+Concluso ao gabinete: 09/09/2024.
+Ação: revisional de contrato ajuizada por GISLAINE DE MATTOS CARVALHO em desfavor de CREFISA S/A CRÉDITO, FINANCIAMENTO E INVESTIMENTO.
+Sentença: julgou procedentes os pedidos iniciais para: a) determinar a readequação dos juros remuneratórios incidentes nos 06 instrumentos listados na fundamentação, conforme a taxa média de mercado praticada no período da contratação, para a respectiva modalidade; b) condenar a requerida a repetir os valores cobrados indevidamente em virtude do vício apontado.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL. SENTENÇA DE PROCEDÊNCIA. CONTRATOS DE EMPRÉSTIMO PESSOAL. APELO DA INSTITUIÇÃO FINANCEIRA. PLEITO DE EXPEDIÇÃO DE OFÍCIO AO NUMOPEDE. NÃO ACOLHIMENTO. NÃO OBSERVADA, NO CASO, A PRÁTICA DE ATOS ILÍCITOS OU DE ADVOCACIA PREDATÓRIA POR PARTE DO PROCURADOR DA AUTORA. AUSÊNCIA DE IRREGULARIDADES AFERÍVEIS E SEQUER INDÍCIOS DE MÁ-FÉ, DOLO OU ATUAÇÃO TEMERÁRIA. MERO EXERCÍCIO DO DIREITO DE AÇÃO. JUROS REMUNERATÓRIOS COBRADOS QUE SUPERAM A TAXA MÉDIA DE MERCADO APLICADA À ÉPOCA PARA A MESMA OPERAÇÃO. ABUSIVIDADE CONSTATADA. REVISÃO CONTRATUAL ADMITIDA NA HIPÓTESE. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP. 1.061.350/RS, SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. RECURSO CONHECIDO E NÃO PROVIDO." (e-STJ fl. 404)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou, além de dissídio jurisprudencial, ofensa ao art. 421, do Código Civil, sustentando que Tribunal a quo decidiu em contrariedade à jurisprudência do STJ ao determinar a revisão do percentual da taxa de juros remuneratórios estabelecido em contrato, respaldado exclusivamente na ausência de observância da "taxa média de mercado". Alegou, outrossim: i) que deve ser afastada a abusividade da taxa de juros remuneratórios contratada; (ii) que a taxa média de mercado não pode ser utilizada para fins de exame de suposta abusividade de taxas de juros bancários, pois não reflete a realidade; (iii) que "a revisão contratual é uma exceção, uma vez que prevalece o princípio da intervenção mínima.
+Requer o provimento de seu recurso, com a inversão do ônus probatório. Ao fim, pugna pela suspensão do feito até o julgamento final do Recurso Especial interposto, tendo em vista a iminência de início da execução, o que pode gerar prejuízos de difícil reparação à Recorrente.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela parte agravante foi inadmitido com base na ausência de demonstração de ofensa aos artigos indicados como violados, bem como na incidência da Súmula 284 do STF e na impossibilidade de prosseguimento em razão da aplicação do Tema 27/STJ.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica os óbices aplicados, não trazendo, de fato, a adequada impugnação à sua incidência.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da condenação (e-STJ, fl. 413), para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
