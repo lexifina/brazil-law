@@ -1,0 +1,39 @@
+PETIÇÃO. AÇÃO CIVIL PUBLICA. AÇÃO PROPOSTA POR ENTIDADE SINDICAL CONTRA A UNIÃO. CONTROVÉRSIA NÃO ARROLADA NAS HIPÓTESES TAXATIVAMENTE PREVISTAS NO ART. 102, INCISO I, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE CONFLITO FEDERATIVO APTO A CONFIGURAR A HIPÓTESE PREVISTA NA ALÍNEA f DO INCISO I DO ART. 102 DA CF. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. NEGATIVA DE SEGUIMENTO. REMESSA DO FEITO À PRIMEIRA INSTÂNCIA DA JUSTIÇA FEDERAL.
+
+DECISÃO: Trata-se de Ação Civil Pública autuada nesta Suprema Corte como Petição, proposta pelo Sindicato dos Trabalhadores em Educação das Redes Públicas Estadual e Municipais do Ensino Pré-Escolar, Fundamental e Médio do Estado da Bahia – Sindicato APLB, em face da União, com o objetivo de receber o pagamento de diferença nos repasses do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – FUNDEB.
+Afirma o sindicato autor, em síntese, que propôs a presente ação com os seguintes propósitos: i) anular os atos da União referentes aos pagamentos a menor; e ii) cobrar a suposta quantia devida Estado da Bahia, ante sua omissão, pela União quanto aos repasses do FUNDEB não realizados. Sustenta que a inércia do Estado da Bahia e o pagamento a menor decorrente de suposto erro na metodologia aplicada pelo ente federal, foram prejudiciais, sobretudo, para a educação básica do Estado do Ceará e para os professores da rede. Alega, ademais, que o Poder Executivo Federal, após instituição do FUNDEB, fixou o “Valor Mínimo Anual por Aluno – VMAA” em desacordo com os critérios legais e constitucionais para o cálculo e valor do piso nacional por aluno, sem a devida correção durante os pagamentos seguintes.
+Por estas razões pugna pela correção e recebimento do montante corrigido relacionado ao VMAA definido nacionalmente pelo FUNDEB, a partir de 2007 até 2020.
+A Advocacia Geral da União apresentou contestação, pugnando, preliminarmente, pela: i) ilegitimidade ativa do autor; ii) falta de interesse de agir e ausência de interesse-utilidade; iii) da incompetência originária do STF; iv) prescrição do fundo de direito; v) ilegitimidade passiva da União e necessidade de inclusão do FNDE neste polo da ação. No mérito, requereu o reconhecimento da improcedência dos pedidos apresentados (doc. 22).
+O Estado da Bahia, por sua vez, sustentou a ilegitimidade ativa do Sindicado e a inexistência de conflito federativo e requereu o reconhecimento da incompetência da Suprema Corte para processar e julgar o caso (doc. 20).
+A Procuradoria-Geral da República opinou, igualmente, pela incompetência do STF para o julgamento da causa, em parecer que restou assim ementado (doc. 31):
+
+“Processo civil. Ação Civil Pública ajuizada por Sindicato, em face da União, visando ao pagamento das diferenças relativas ao Valor Mínimo por Aluno no período de 2007 a 2020, imputando-se omissão ao Estado da Bahia. 1. Inadequação do meio processual eleito: não se verifica conflito federativo a ser solucionado pelo e. STF, na forma da alínea f do inc. I do art. 102 da CF. 2. Pelo não conhecimento do pedido, sem prejuízo de remessa do feito à Justiça Federal de 1o  grau, Seção Judiciária do Estado da Bahia.”
+
+É o relatório. DECIDO.
+
+Reconheço, de plano, a incompetência do Supremo Tribunal Federal para processar e julgar a presente ação.
+Conforme restou acima relatado, trata-se de demanda ajuizada por entidade sindical representativa de servidores públicos, em desfavor de ente federativo (União). Verifica-se, nada obstante, que a controvérsia ora em debate não encontra guarida em nenhum comando normativo constitucional que rege os elementos balizadores da fixação da competência originária desta Suprema Corte.
+Deveras, o art. 102, I, f, da Constituição Federal dispõe competir ao Supremo Tribunal Federal processar e julgar originariamente “as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta”. A jurisprudência desta Suprema Corte, na interpretação deste dispositivo, se firmou no sentido de que “a presença de entes federativos em polos opostos da lide é requisito para a configuração da competência originária deste Tribunal decorrente do previsto no mencionado preceito constitucional”, e que “exige-se que o conflito se mostre suficientemente grave, a ponto de causar risco à estabilidade do pacto federativo” (por todos: ACO 989, Tribunal Pleno, Rel. Min. Marco Aurélio, DJe 07/11/2019).
+Com efeito, a regra de competência do art. 102, I, f, da CF/88 não comporta a exegese que desloque para o Supremo Tribunal Federal o julgamento de litígio formalizado em face da União por entidade sindical, na medida em que as hipóteses de atuação do STF devem ser interpretadas restritivamente, caso contrário sua jurisdição excepcional transformar-se-ia em jurisdição de caráter ordinário. A propósito, colaciono o seguinte precedente, verbis:
+
+“AGRAVO INTERNO EM PETIÇÃO. AÇÃO CIVIL PÚBLICA. ART. 102, I, “F”, DA CONSTITUIÇÃO FEDERAL. CONFLITO FEDERATIVO. INOCORRÊNCIA. INCOMPETÊNCIA DO SUPREMO.
+    1. A competência prevista na alínea “f” do inciso I do art. 102 da Carta da República envolve causas e conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da Administração indireta, restringindo-se às situações nas quais a controvérsia implique ameaça à estabilidade institucional do Estado Federal. Precedentes.
+    2. 2. Agravo interno desprovido”. (Pet 10749 AgR, Tribunal Pleno, Rel. Min. Nunes Marques, DJe 08.03.2024).
+
+No presente caso, o Estado da Bahia manifestou-se expressamente no sentido de “reserva-se do direito de fazer os devidos levantamentos jurídicos e orçamentários que permitirão, se caso for, propor em nome próprio ação perante esse C. STF” (doc. 20). Depreende-se, portanto, da manifestação do ente federativo não haver qualquer indicativo de desequilíbrio do pacto federativo, requisito exigido para firmar a competência do STF. Sendo assim, revela-se inadequada a tentativa de ampliação da competência desta Corte para além das taxativamente arroladas no art. 102, I, da CF/88.
+A competência originária da Suprema Corte é fixada a partir do pedido principal deduzido na lide, sendo insuficiente, para configurar a hipótese de competência originária, a mera circunstância de que teriam os valores cuja cobrança se postula decorrido de repasses constitucionais a menor. Saliente-se que, neste exato sentido, já decidiu esta Suprema Corte, por unanimidade, no julgamento da ACO 3.608, in verbis:
+
+“AGRAVO INTERNO NA AÇÃO CÍVEL ORIGINÁRIA. COMPLEMENTAÇÃO DAS DIFERENÇAS RELATIVAS AO ‘VALOR MÍNIMO ANUAL POR ALUNO – VMAA’. FUNDEB. PRETENSÃO DE REPARAÇÃO DE DANO CAUSADO PELA UNIÃO. AUSÊNCIA DE CONFLITO ENTRE ENTES DA FEDERAÇÃO. DEMANDA ENTRE ENTIDADE SINDICAL E ENTE FEDERATIVO. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O exercício da competência originária desta SUPREMA CORTE deve se limitar às balizas estabelecidas no texto constitucional (art. 102, I, da Carta da República).
+2. Não se vislumbrando a existência de interesses contrapostos entre entes federados, não fica configurada a competência originária desta CORTE.
+3. Agravo Interno a que se nega provimento.”
+(ACO 3.608 AgR, Tribunal Pleno, Rel. Min. Alexandre de Moraes, DJe 20.4.2023).
+
+Ex positis, NEGO SEGUIMENTO, à presente ação, nos termos dos art. 64, § 1º, e art. 932, VIII, do CPC/2015 c/c o art. 21, § 1º, do Regimento Interno do STF.
+Remetam-se os autos ao competente órgão jurisdicional de 1ª instância da Justiça Federal, com as anotações necessárias, nos termos do art. 64, § 3º, do CPC/2015.
+Publique-se.
+Brasília, 25 de setembro de 2024.
+
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
