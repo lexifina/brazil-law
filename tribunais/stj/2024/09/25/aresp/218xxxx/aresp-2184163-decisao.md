@@ -1,0 +1,9 @@
+DECISÃO
+Perdeu o objeto o agravo em recurso especial interposto pelo Ministério Público de Goiás contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da CF) apresentado contra o acórdão proferido pelo Tribunal de Justiça local no julgamento do Agravo de Execução Penal n. 5314586-69.2018.8.09.0051.
+Ora, a insurgência ministerial objetiva cassar o acórdão que determinou a reconversão da pena restritiva de direitos em privativa de liberdade, de modo a restabelecer a decisão proferida pelo Juízo da 3ª Vara de Execução Penal da comarca de Goiânia/GO, que, ao deferir pedido de livramento condicional, determinou o desentranhamento da guia de recolhimento referente à condenação exarada no Processo n. 344222-62 .2016 (201603442221), para processamento em autos apartados, tendo em vista nela constar medidas restritivas de direitos, compatíveis com o cumprimento simultâneo do benefício inscrito no art. 83 do Código Penal.
+Ocorre, em consulta aos autos execução penal na origem (Processo n. 5314586-69.2018.8.09.0051), obtive a informação de que o restabelecimento da decisão do Juízo de primeiro grau não modificaria a situação atual da execução, pois, em julgamento subsequente do Agravo em Execução n. 5068390-71.2024.8.09.0000, a Corte de origem concedeu indulto ao agravado em relação ao crime de receptação, objeto do Processo n. 344222-62.2016.8.09.0011.
+Ante o exposto, verificada a perda superveniente do objeto, julgo prejudicado o agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INSURGÊNCIA MINISTERIAL QUANTO À RECONVERSÃO DE PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. CONCESSÃO SUBSEQUENTE DE INDULTO QUANTO AO CRIME CUJA PENA FOI OBJETO DE RECONVERSÃO. PERDA DO OBJETO.
+Agravo em recurso especial prejudicado.
