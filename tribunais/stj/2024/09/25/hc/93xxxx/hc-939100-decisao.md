@@ -1,0 +1,6 @@
+DECISÃO
+FERNANDO PEREIRA BROMONSCHENKEL opõe embargos à decisão de fls. 759-760, em que indeferi liminarmente o habeas corpus. Entre as alegações, destacou que "a ação penal 0015960- 11.2015.8.26.0506 se encontra ainda em fase cognitiva, por meio do AREsp 2.554.775/SP, distribuído a esse Relator. Não se pode falar, portanto, em uso substitutivo do presente habeas corpus à revisão criminal ou mesmo a recurso" (fl. 761).
+Todavia, consoante apontado pelo Parquet, "mostra-se irrelevante a apreciação da excepcionalidade ou não do caso, porquanto evidente a perda de objeto do presente writ. É que, de acordo com as informações prestadas pelo 3º Ofício Criminal da Comarca de Ribeirão Preto/SP sobre o andamento da Ação Penal n.º 0015960-11.2015.8.26.0506, foi prolatada sentença extintiva da punibilidade do paciente, em 21/03/2022, em razão da concessão de indulto, tendo transitado em julgado para a defesa, referida decisão liberatória, em 01/04/2022, segundo certidão de objeto e pé de fls. 18804-18805 dos autos originais" (fl. 784, grifei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
+EMENTA
