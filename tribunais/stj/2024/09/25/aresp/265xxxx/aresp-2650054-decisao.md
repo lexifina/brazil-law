@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por PARAÍBA PREVIDÊNCIA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ fls. 199/200):
+PREVIDENCIÁRIO E CONSTITUCIONAL. Servidor Público Civil. Contribuições previdenciárias. Descontos indevidos sobre verbas que não possuem caráter remuneratório: 1/3 de férias, Gratificação de Atividade Especial do art. 57, VII, LC 58/03,Gratificação de Risco de Vida, Plantão Extra GPC MP 148/10. Natureza indenizatória e propter laborem. Devida a devolução. Entendimento firmado em sede de repercussão geral (Tema 163). Décimo terceiro e Adicional por Tempo de Serviço: incorporação aos proventos. Desconto devido. Precedentes do STJ. Correção Monetária e Juros legais. Natureza tributária. Incidência de juros de mora, desde o trânsito em julgado, à razão de 1% (um por cento) ao mês e correção monetária, a partir de cada pagamento indevido, aplicando-se o IPCA-E. Desprovimento dos apelos dos entes públicos. Provimento parcial do recurso adesivo e da remessa necessária.
+- Segundo o precedente vinculante afetado sob o tema 163 da sistemática das repercussões gerais, julgado pelo STF em outubro de 2018 "Não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como "terço de férias", "serviços extraordinários", "adicional noturno" e "adicional de insalubridade."  ..  RE 593068,  ..
+-"É legitima a incidência da contribuição previdenciária sobre o 13 salário" (Súmula 688 do STF).
+- A Gratificação de Atividade Especial, prevista no do art. 57, Vll, LC 58/03 c/c art. 7º da Lei n. 8.558/08, assim como a Gratificação de Risco de Vida, disciplinada no art. 5º da Lei n. 8.558/08, estão apartadas da incidência da contribuição previdenciária, conforme disposto no art. 13, §3º, VII, da Lei n. 7.517/03 c/c art. 4º, §1º, VIII, da Lei Federal n. 10.887/04. De seu turno, a verba paga a título de Plantão Extra GPC MP 148/10, disciplinada no art. 75 da LC n. 58/03, está excluída da base de cálculo da contribuição previdenciária por expressa disposição do art. 13, §3º, XI, da Lei n. 7.517/03 c/c art. 4º, §1º, Xll, da Lei Federal n. 10887/04.
+- Tratando-se de verba oriunda da relação juridico-tributária, é inaplicável o art. 1º-F da lei nº 9494/97, devendo incidir juros de mora, desde o trânsito em julgado, à razão de 1% (um por cento) ao mês, bem como correção monetária, a partir de cada pagamento indevido, aplicando-se o IPCA-E.
+Os embargos de declaração opostos a esse acórdão foram rejeitados (e-STJ fls. 235/246).
+No recurso especial (e-STJ fls. 251/259), a parte recorrente aponta violação do art. 4º, § 1º, da Lei n. 10.887/2004, ao argumento de que os descontos previdenciários seriam devidos nas parcelas "perseguidas na peça vestibular" (e-STJ fl. 257).
+As contrarrazões não foram apresentadas.
+O recurso não foi admitido em razão da incidência da Súmula 280 do STF, e a recorrente interpôs recurso de agravo.
+A contraminuta foi apresentada.
+Passo a decidir.
+O agravo em recurso especial não deve ser conhecido, pois deixa de atacar especificamente os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..  III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a parte agravante, nas razões de agravo em recurso especial, deixa de impugnar a fundamentação da decisão que inadmitiu o apelo raro, limitando-se a reiterar os fundamentos pelos quais entende pela necessidade de incidência da contribuição previdenciária nas parcelas em debate (e-STJ fl. 289).
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto.
+Assim, o recurso não merece ser conhecido.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
