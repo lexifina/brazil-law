@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ANDRE DE JESUS PEREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1502609-51.2022.8.26.0537).
+Colhe-se dos autos que o paciente foi condenado à pena de 7 anos de reclusão, no regime inicial fechado, e pagamento de 700 dias-multa, no mínimo legal, por infração ao art. 33, caput, da Lei n. 11.343/2006. Segundo constou, o paciente fora apreendido em posse de 849 invólucros plásticos com cocaína, pesando aproximadamente 944g (novecentos e quarenta e quatro gramas; 29 invólucros contendo crack, com aproximadamente de 8,44g (oito gramas e quarenta e quatro centigramas); e 194 invólucros plásticos com maconha, com peso aproximado de 1,734kg (um quilo e setecentos e trinta e quatro gramas) - e-STJ fl. 85.
+Interposta apelação, foi o recurso desprovido pelo Tribunal de origem, em acórdão cuja ementa foi assim definida (e-STJ fl. 230):
+APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE ENTORPECENTES - RECURSO DEFENSIVO. PROVA SUFICIENTE PARA A COMPROVAÇÃO DOS FATOS. IMPOSSIBILIDADE DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. CONDENAÇÃO MANTIDA. DOSIMETRA QUE NÃO COMPORTA QUALQUER REPARO. MANUTENÇÃO DO REGIME FECHADO. APELO IMPROVIDO.
+Neste writ, sustentou a defesa que o Tribunal de origem teria dado interpretação desfavorável ao direito ao silêncio do réu, servindo tal circunstância como fundamento da condenação, em violação ao princípio nemo tenetur se detegere.
+Sustentou, alternativamente, a insuficiência de provas para a condenação do paciente, argumentando que, " p ara que a autoria no crime de tráfico de entorpecentes seja reconhecida, a prova deve ser certa, o que de fato não ocorreu no presente caso" (e-STJ fl. 10), notadamente porque (e-STJ fl. 11):
+ ..  percebe-se pelo depoimento dos policiais que, em momento algum, viram o paciente em qualquer prática que remetesse à entrega ou comercialização dos entorpecentes, tampouco realizando qualquer ato de efetiva venda, ou conversando com algum outro indivíduo.
+A suposta denúncia anônima, sequer informava a vestimenta e características do indivíduo que estaria no imóvel armazenando as drogas e as comercializando, também não houve apreensão de qualquer quantia monetária na posse de ANDRE.
+O único elemento em que se baseou a prisão do paciente foi a apreensão das referidas drogas que, conforme dito por este, não se encontravam em sua posse, bem como também não restou evidenciada a sua posse através dos frágeis e contraditórios relatos dos policiais.
+Requer, ao final, a concessão da ordem para reconhecer a nulidade apontada ou absolver o paciente diante da fragilidade probatória.
+A liminar foi indeferida (e-STJ fls. 247/248).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 284/295).
+É o relatório. Decido.
+A jurisprudência desta Corte é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+EMENTA PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a determinação segundo a qual, quando presente flagrante ilegalidade, é possível a concessão de habeas corpus de ofício, nos termos do art. 647-A, parágrafo único, do Código de Processo Penal.
+Entretanto, tal não é o caso, uma vez que, apesar de alegar a defesa que a condenação teria sido fundamentada em violação ao princípio nemo tenetur se detegere, tem-se que a Corte de origem destacou que o conjunto probatório foi apto a supedanear a condenação do paciente pela prática do delito de tráfico de drogas, notadamente pela existência de denúncia prévia, pela prova oral produzida, pela quantidade, diversidade e forma de acondicionamento das drogas, e por fim pelas circunstâncias da apreensão (e-STJ fl. 234).
+Dessa forma , para infirmar tais conclusões, seria imprescindível o amplo revolvimento do material fático-probatório dos autos, providência incompatível com os limites de cognição do writ, circunstância que por sua vez também impediria o conhecimento do habeas corpus, tal como sua própria impetração em substituição ao recurso cabível.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
