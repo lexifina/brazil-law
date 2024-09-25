@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, pedido de tutela cautelar antecedente, formulado por PACKEM S.A. e OUTROS, em que busca a atribuição de efeito suspensivo a recurso especial, interposto contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Os requerentes sustentam, em síntese, que "a probabilidade do direito se evidencia pela matéria suscitada no Recurso Especial, especialmente no que diz respeito à não observância do contraditório e da ampla defesa, pela Fazenda Pública, na instauração da PARR" (fl. 6), bem como "a necessidade de instauração de incidente de desconsideração da personalidade jurídica para responsabilizar empresa integrante de suposto grupo econômico cujo nome não consta originalmente na CDA e não enquadrada nas hipóteses dos art. 134 e 135 do CTN, tema pendente de julgamento pela sistemática dos recursos do repetitivos (Tema n. 1.209), o que ensejou o sobrestamento do feito" (fl. 6).
+Reiteram a argumentação do recurso especial, apontando violação aos arts. 489, § 1º, IV, e 1.022, I e II, parágrafo único, II, do CPC/2015; 20-D, III, da Lei 10.522/2002; 2º, X, 18 e 38 da Lei 9.784/1999; 134, 135, 142 e 151, III, do CTN; e 50 do CC.
+Alegam que "o perigo da demora, por sua vez, resta evidenciado na medida em que a manutenção do r. acórdão recorrido acarretará a indevida responsabilização dos Recorrentes por dívida cujo valor ultrapassa os R$ 13.000.000,00" (fl. 24) e que "o registro desse débito no CADIN, os protestos de CDA e a inscrição no SERASA tornam suas atividades inoperantes" (fl. 24).
+Argumentam que "há medidas constritivas realizadas na Execução Fiscal n. 1009644-78.2023.4.06.3802, pela Fazenda Nacional, impactou diretamente sua capacidade de prover o adimplemento de sua folha de pagamento e da aquisição dos insumos necessários à manutenção das operações da empresa, em especial pela vedação das instituições financeiras na concessão de crédito" (fl. 25).
+Apontam ainda que "o REsp proposto foi sobrestado em razão do Tema n. 1.209 (e. 203), o que configura o perigo da demora, porquanto é imprevisível o julgamento do tema repetitivo e poderá acarretar constrições em eventual execução ajuizada pela União" (fl. 25).
+Ao final, requer "a concessão de tutela de urgência, sem a oitiva da parte contrária, para atribuir efeito suspensivo ao recurso Especial interposto e sobrestado na origem, suspendendo-se, assim, a eficácia do acórdão que negou provimento à apelação, a fim de que os Recorrentes não venham a suportar os efeitos de eventuais medidas restritivas/constritivas em razão do crédito tributário discutido, nos termos do art. 1.029, § 5º, III, do CPC" (fl. 25).
+É o relatório. Decido.
+A pretensão não merece conhecimento.
+Colhe-se dos autos que o Tribunal de origem determinou o sobrestamento do recurso especial interposto pelos requerentes (fls. 690-691), em razão da pendência de julgamento do Tema 1.209/STJ dos recursos repetitivos.
+Com efeito, o art. 1.029, § 5º, III, do CPC/2015, assim determina:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+ ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+ ..
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Portanto, no caso, tendo sido sobrestado na origem o recurso especial, aplicável a referida regra processual, de modo que não compete a este Superior Tribunal de Justiça o exame da tutela requerida.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PEDIDO DE TUTELA DE URGÊNCIA. STJ. INCOMPETÊNCIA. MATÉRIA AFETADA À REPERCUSSÃO GERAL NO STF (TEMA 372). RECURSO ESPECIAL. SOBRESTAMENTO NA ORIGEM.
+1. O § 5º, III, do art. 1.029 do CPC/2015, assim dispõe: "O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido: III - ao presidente ou vice-presidente do tribunal local, no caso de o recurso ter sido sobrestado nos termos do art. 1.037".
+2. O STF, no julgamento da AC 2177 MC-QO/PE, entendeu que "compete ao tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada."
+3. In casu, o cerne da matéria controvertida está afetado à sistemática da repercussão geral (Tema: 372: Exigibilidade do PIS e da COFINS sobre as receitas financeiras das instituições financeiras).
+4. Hipótese em que não compete ao STJ o exame da tutela de urgência.
+5. Agravo interno desprovido (AgInt no TP n. 1.038/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1/7/2019, DJe de 6/8/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. RECURSO ESPECIAL SOBRESTADO NA ORIGEM. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NÃO INAUGURADA. PEDIDO DE TUTELA DIVERSO DO MÉRITO DO RECURSO ESPECIAL. INCOMPETÊNCIA. TUTELA PROVISÓRIA NÃO CONHECIDA.
+1. De acordo com o inciso III, §5º, do art. 1.029 do CPC/2015: "O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido: (..) III - ao presidente ou vice-presidente do tribunal local, no caso de o recurso ter sido sobrestado nos termos do art. 1.037".
+2. "O STF, no julgamento da AC 2177 MC-QO/PE, entendeu que "compete ao tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada"." (AgInt no TP 1.038/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 1/7/2019, DJe 6/8/2019).
+3. In casu, o recurso especial interposto encontra-se sobrestado na origem, para aguardar a solução a ser dada pelo Supremo Tribunal Federal à repercussão geral reconhecida no recurso extraordinário n. 609.096/RS (Tema n. 372). Diante desse contexto, é incompetente o STJ para o julgamento da presente tutela provisória.
+4. Agravo interno não provido (AgInt no TP n. 1.054/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 7/10/2019, DJe de 9/10/2019.)
+No mesmo sentido: Pet n. 16.968, Ministro Messod Azulay Neto, DJe de 02/08/2024; TP n. 4.079, Ministra Assusete Magalhães, DJe de 14/10/2022.
+Isso posto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do pedido.
+Intimem-se.
+EMENTA
