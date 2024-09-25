@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 557):
+SEGURO. Ação de cobrança. Sentença que acolheu a preliminar de prescrição. Apelação do autor. Prescrição. Prazo anual. Súmula 101 do C. STJ. Prazo que tem início a partir da ocorrência de qualquer fato que possa advir responsabilidade civil do segurado, conforme cláusula 9.1 do contrato firmado. Assim, a pretensão do autor teve início quando da citação na ação de responsabilidade ajuizada em seu desfavor. Comunicação do sinistro que competia ao demandante e não a terceiros.
+Sentença mantida.
+RECURSO NÃO PROVIDO.
+Com o processo em curso, a empresa autora pretende o pagamento de indenização decorrente de contrato de seguro de responsabilidade profissional, tendo sido o direito declarado prescrito pela 1º instância, decisão mantida pelo Tribunal local.
+Opostos embargos de declaração, foram rejeitados (fls. 567-568).
+Em julgamento de agravo em recurso especial de minha relatoria, acolhi a alegação de violação ao art. 1.022 do Código de Processo Civil, dando parcial provimento ao recurso especial e determinando o retorno dos autos à origem para novo exame dos embargos de declaração.
+Em nova análise dos embargos, o Tribunal de origem os acolheu para sanar as omissões apontadas, mas manteve a improcedência do pedido e o reconhecimento da prescrição (fls. 882-887).
+Opostos novos embargos de declaração, foram rejeitados (fls. 905-909).
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 7º, 11, 355, I, 370, 371, 489, § 1º, IV , 1.022, II, § 1º, I, do Código de Processo Civil; arts. 202, 206, II, 422 e 775 do Código Civil; art. 1º da Lei n. 4.594/1964; arts. 2º, § 3º, 6º, VIII, 14, 46, 47, 54, § 4º, do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Sustenta que o acórdão recorrido padece de: "i) nulidade por cerceamento de defesa; (ii) OMISSÃO por: (a) falta de análise da exclusão da multa; (b) falta de manifestação da preliminar de falta de fundamentação; (c) falta de manifestação expressa, conforme determinado pelo C.STJ, sobre os e-mails de fls. 143/151 e 167 e informações de fls. 75, 82, 434 e 436; (d) falta de manifestação sobre a tese da possibilidade de comunicação do sinistro à Seguradora na pessoa dos seus Corretores que agenciaram o contrato de seguros (e) falta de justificativa para a não incidência das regras do CDC ao caso".
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, com relação à suposta ofensa aos arts. 489 e 1.022 do CPC, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, conforme segue (fls. 884-887):
+A primeira observação que precisa ser feita é a de que, embora seja o apelante microempreendedor, a relação material travada entre as partes deve obediência à disciplina do Código de Defesa do Consumidor, considerado o significado que a jurisprudência hoje atribui ao termo "destinatário final", empregado pelo art. 2º do CDC para definir o que seja relação de consumo.
+Isso se dá por aplicação da denominada teoria finalista mitigada, dada a flagrante vulnerabilidade da pessoa jurídica apelante, que se trata de microempresa, frente à fornecedora de serviços apelada.
+ ..
+De outra parte, note-se que, muito embora a questão esteja fundada em relação consumerista, a inversão do ônus probatório não se opera automática e indistintamente, devendo estar demonstrada, para tanto, a verossimilhança dos argumentos suscitados pelo consumidor ou sua hipossuficiência probatória  ..
+Ou seja, "a regra do art. 6º, VIII, relativa à inversão do ônus da prova, não há de ser considerada aplicável a priori, ou utilizada sem análise individual e pormenorizada da quaestio"(JTAERGS 100/381)" (In Código de Processo Civil Anotado, Saraiva,42ª ed., nota 2 ao artigo 333, p. 446).
+Observe-se que a aplicação da Lei Consumerista não retira a obrigação do autor de provar o fato constitutivo do direito que alega (artigo 373, I, do CPC). Afinal, a prova incumbe a quem afirma e não a quem nega a existência de um fato.
+Assim, no caso dos autos caberia ao demandante demonstrar em juízo que houve a devida comunicação formal do sinistro à seguradora.
+Por outro lado, a corretora de seguros é terceiro intermediador da relação jurídica havida entre segurado e seguradora.
+Com efeito, não pode ser confundida e considerada como representante ou procuradora da seguradora, de modo que a comunicação do sinistro deveria ter sido realizada na forma das Condições Gerais da apólice de seguro.
+E os documentos juntados apenas demonstram a comunicação à corretora de seguros, além da mera possibilidade de um futuro sinistro, a qual faz parte da avaliação de risco feita pela empresa seguradora.
+Vê-se, portanto, que apesar de todos os argumentos expendidos pelo autor, depreende-se dos autos que ele não logrou êxito em comprovar os fatos afirmados, constitutivos de seu suposto direito, conforme o disposto no art. 373, I, do CPC.
+Nessas circunstâncias, de rigor a manutenção de improcedência do pedido e o reconhecimento da prescrição.
+Dessa forma, alterar a conclusão do acórdão recorrido demandaria reexame de fatos e provas dos autos, providência vedada em recurso especial, ante o teor da Súmula 7/STJ, conforme reiterados precedentes desta Corte:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO POR QUANTIA CERTA. CONTRATO DE MÚTUO. AUSÊNCIA DE PROVA HÁBIL DE QUE O NEGÓCIO FOI MERAMENTE SIMULADO. PRODUÇÃO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PEDIDO DE ADIAMENTO DE AUDIÊNCIA INDEFERIDO. ARTIGO 565 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. A análise do alegado cerceamento de defesa - quanto a produção de prova testemunhal referente à apontada simulação do contrato de mútuo-, exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do Superior Tribunal de Justiça.
+2. No sistema de persuasão racional, ou livre convencimento motivado, adotado pelo Código de Processo Civil, o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção, não cabe compeli-lo a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, o que ocorreu no presente caso.
+3. Consoante a jurisprudência do STJ "o art. 565 do CPC não é direito potestativo do advogado ao adiamento da sessão de julgamento. Há mera faculdade que será ou não concedida mediante a prudente avaliação do juiz." (REsp 956486/ES, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 06/05/2009)
+4. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no presente caso. 5. Agravo regimental não provido.
+(AgRg no Ag n. 1.341.770/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/6/2011, DJe 1º/7/2011).
+AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - EXECUÇÃO - EMBARGOS - FALTA DE PREQUESTIONAMENTO - AUSÊNCIA DE OMISSÕES NO ACÓRDÃO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - TÍTULO EXECUTIVO - LIQUIDEZ, CERTEZA E EXIGIBILIDADE - REEXAME DO QUADRO PROBATÓRIO - IMPOSSIBILIDADE - SÚMULA 7/STJ - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- O conteúdo normativo dos dispositivos tidos por violados não foi objeto de debate no v. Acórdão recorrido, carecendo, portanto, do necessário prequestionamento viabilizador do Recurso Especial, nos termos da Súmula 211 desta Corte.
+2.- Não se detecta qualquer omissão, contradição ou obscuridade no Acórdão Recorrido, uma vez que a lide foi dirimida com a devida e suficiente fundamentação, apenas não se adotou a tese do Agravante.
+3.- Sendo o magistrado o destinatário da prova, e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Desse modo, a apuração da suficiência dos elementos probatórios que justificaram o indeferimento do pedido de produção de provas demanda reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ.
+4.- Acolher a pretensão da Agravante, considerando deficiente o título executivo apresentado e reconhecendo a ofensa aos artigos 741, II e V, 745, do CPC, demandaria, inevitavelmente, o reexame de provas, incidindo, da mesma forma, o óbice da Súmula 7 desta Corte,
+5.- Agravo Regimental improvido.
+(AgRg no Ag n. 1.295.469/GO, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/6/2011, DJe 24/6/2011).
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
