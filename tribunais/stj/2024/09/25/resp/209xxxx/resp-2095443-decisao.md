@@ -1,0 +1,28 @@
+DECISÃO
+Examina-se recurso especial interposto por TOYLAND COMERCIAL, DISTRIBUIDORA, TECIDOS E APLICATIVOS DE CONSTRUÇÃO CIVIL LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 8/11/2022.
+Concluso ao gabinete em: 2/10/2023.
+Ação: de cobrança, em fase de cumprimento de sentença, requerida por ASIA SHIPPING TRANSPORTE INTERNACIONAIS LTDA em desfavor da recorrente.
+Decisão interlocutória: acolheu parcialmente a impugnação ao cumprimento de sentença, em razão da parte exequente ter reconhecido a ocorrência de erro material nos cálculos.
+Acórdão: negou provimento ao agravo de instrumento interposto pela recorrente, nos termos da seguinte ementa:
+IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA AÇÃO DE COBRANÇA TERMOS INDIVIDUAIS DE COMPROMISSO DE DEVOLUÇÃO DE CONTEINERS PROVENIENTES DE TRANSPORTE UNIMODAL PRETENSÃO DE REFORMA DA DECISÃO QUE ACOLHEU A IMPUGNAÇÃO EM PARTE INTANGIBILIDADE Termos fixados no título executivo judicial A correção monetária é devida com relação às custas e despesas processuais cobradas da parte executada Juros moratórios, incidentes em 1% ao mês, consoante o art. 406 do Código Civil e o art. 161 do CTN, desde a data da citação, como estabelecido no título executivo exequendo Decisão mantida Recurso desprovido.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 85, § 2º, 489 e 1.022 do CPC e 406 do CC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, defende, em síntese, a aplicação da taxa Selic para os juros de mora e que os honorários advocatícios devem ser fixados com base de cálculo no proveito econômico obtido por meio do trabalho realizado pelo patrono da causa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 2/2/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 2/3/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios, não se manifestou quanto as teses acerca: i) da ausência de fixação do percentual de juros de mora no título judicial; ii) do êxito na impugnação ao cumprimento de sentença; e i) dos acréscimos de mora sobre os honorários advocatícios arbitrados em favor dos patronos da recorrente.
+Da análise do processo, constata-se que, de fato, o Tribunal de origem não analisou tais alegações, especial sobre a ausência de fixação do percentual de juros de mora no título judicial e dos acréscimos de mora sobre os honorários advocatícios arbitrados em favor dos patronos da recorrente, em que pese tenham sido devidamente suscitadas no agravo de instrumento e nos embargos de declaração opostos pela parte recorrente.
+Não se pode olvidar, nesse contexto, que o conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, delineando de forma adequada os fatos que alicerçam a demanda, permitindo, desse modo, que esta Corte Superior aprecie a controvérsia sem esbarrar nos óbices das Súmulas 5 e 7 do STJ.
+Recusando-se a Corte de origem a se manifestar sobre a questão federal, fica obstaculizado o acesso à instância especial, cabendo à parte vencida invocar, como na hipótese dos autos, a infringência ao art. 1.022 do CPC, a fim de anular o acórdão recorrido, para que o Tribunal a quo supra os vícios existentes. Nesse sentido: REsp 769.831/SP, DJe 27.11.2009; e REsp 242.128/SP, DJ 18.09.2000.
+Importa consignar que as questões são relevantes para o futuro deslinde da controvérsia no âmbito do Superior Tribunal de Justiça, pois, caso a Corte estadual confirme a decisão outrora expendida, delineando o enquadramento fático da matéria, as questões apontadas integrarão o mérito propriamente dito do recurso especial, suscetível de apreciação por esta Corte Superior.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas as omissões acima referidas, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO e DOU PROVIMENTO ao recurso especial, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente. Por conseguinte, fica prejudicado o exame das demais questões aventadas no presente recurso.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação de cobrança, em fase de cumprimento de sentença.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Recurso especial conhecido e provido.
