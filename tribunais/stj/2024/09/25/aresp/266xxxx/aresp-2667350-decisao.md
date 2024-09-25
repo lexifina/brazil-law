@@ -1,0 +1,65 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CONS REG DE FISIOTERAPIA E TERAPIA OCUPAC DA 2 REGIAO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. COBRANÇA DE ANUIDADES. ART. 8º DA LEI 12.514/2011. TERMO INICIAL. VALOR MÍNIMO PARA EXECUÇÃO. ALTERAÇÕES DA LEI Nº 14.195/2021. PRINCÍPIO DA LEGALIDADE OBSERVADO. PRESCRIÇÃO ANUIDADES. OCORRÊNCIA.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega ofensa aos arts. 8º e 6º, § 1º, da Lei nº 12.514/2011, no que concerne à necessidade de se reconhecer a não ocorrência da prescrição das anuidades, pois tal prazo apenas teve início no ano de 2018, momento em que o crédito se tornou exequível, já que a dívida total atingiu o patamar mínimo exigido pela nova redação do art. 8º, publicada em 27/08/2021, antes do ajuizamento da presente execução fiscal. Aduz a seguinte argumentação:
+Na hipótese, o art. 8º da Lei n. 12.514/2011 é categórico ao afirmar que inexiste pretensão executória enquanto a dívida não alcançar o patamar de 5 anuidades:
+ ..
+Como visto E. Julgadores, o MM. Juízo a quo entendeu por declarar a prescrição das anuidades de 2012 a 2016, na forma abaixo:
+ ..
+No entanto, não há se falar em prescrição das anuidades de 2012 a 2016, senão vejamos:
+Com relação aos Conselhos de Profissão, após extensa discussão jurisprudencial e doutrinária quanto à possibilidade das Resoluções definirem os valores anuais de suas anuidades, foi publicada a Lei Federal nº 12.514 em 28 de outubro de 2011, que foi alterada pela Lei Federal nº 14.195, de 26 da agosto de 2021, a qual alterou toda a forma de cobrança das anuidades.
+A Lei Federal nº 12.514/2011, considerada constitucional pelo Supremo Tribunal Federal (STF), originariamente definiu em seu art. 8º que os Conselhos "não executarão judicialmente dívidas referentes a anuidades inferiores a 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente".
+Nesse contexto, tendo em vista que a nova redação do artigo 8º da Lei nº 12.514/2011, alterada pelo artigo 58, V, da Lei nº 14.195/2021, entrou em vigor na data de sua publicação, em 27/08/2021, e que a presente execução fiscal foi ajuizada em 14/10/2022, isto é, posteriormente à vigência da novel legislação, deve-se aplicar a nova redação do artigo 8º no presente feito.
+Assim, a Lei Federal nº 12.514/2011 passou a vigorar uma nova regra, desta vez determinando o seguinte: "Os Conselhos não executarão judicialmente dívidas, de quaisquer das origens previstas no art. 4º desta Lei, com valor total inferior a 5 (cinco) vezes o constante do inciso I do caput do art. 6º desta Lei, observado o disposto no seu § 1º".
+E o valor referente ao inciso I, do caput do art. 6º da Lei 12.514/2011, é o seguinte:
+ ..
+Ou seja, o valor de cinco vezes deve ser sobre o valor de R$ 500,00, conforme mencionado acima, devendo ainda ser atualizado.
+Com isso, após a entrada em vigor da Lei Federal nº 14.195 em 26 de agosto de 2021, somente após atingir o valor de R$ 2.500,00, devidamente atualizado, é que os Conselhos poderão ajuizar as execuções fiscais.
+Note-se que não basta o valor puro da anuidade.
+Deve incidir multas, juros e correção monetária, E NÃO APENAS A QUANTIDADE DE PARCELAS.
+O entendimento adotado no V. Acórdão, contudo, não merece prosperar, pois, em que pese as anuidades pagas aos conselhos profissionais terem natureza de tributo, considerando a limitação de valor mínimo criada pela lei para o ajuizamento da execução fiscal, o surgimento da prescrição e o início de sua contagem somente poderão ocorrer no momento em que o crédito se tornar exequível (exigível), ou seja, quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o patamar mínimo exigido.
+É o comando do parágrafo primeiro do art. 6º, previsto expressamente na parte final do art. 8º da lei federal 12.514/2011:
+ ..
+Portanto, não basta pegar o valor puro da anuidade.
+Ou seja, somente quando o valor TOTAL do débito atingisse o mencionado valor estaria apto ao ajuizamento da ação de execução fiscal, e ai sim, iniciar o prazo prescricional.
+Destaca-se que a atualização no mês de distribuição da petição inicial (dezembro de 2021 (ajuizamento da ação)) alcançou o limite de R$ 4.554,47:
+Ou seja, a prescrição só se iniciou em 2018, notadamente quando o valor do débito alcançou o valor de R$ 4.554,47.
+Na hipótese, o valor do débito só se tornou exequível em 2018.
+ ..
+Portanto, ajuizada a presente ação em DEZEMBRO/2021, NÃO HÁ SE FALAR EM PRESCRIÇÃO das anuidades de 2012 a 2016.
+(fls. 113-117).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, ainda que se considere a redação original do art 8º da lei nº 12.514/2011, a parte recorrente alega a sua afronta, no que concerne à necessidade de se reconhecer a não ocorrência da prescrição das anuidades a partir do ano de 2014, pois somando-se 4 anuidades para frente, restaria tão somente prescrita em 2022, depois do ajuizamento da demanda, considerando que o prazo prescricional de cinco anos de cada anuidade deve ter início somente quando o crédito se tornar exequível. Aduz a seguinte argumentação:
+Ademais, ainda que se utilize a redação original do art. 8º da Lei 12.514/2011, NÃO HÁ O QUE SE FALAR EM PRESCRIÇÃO DE TODAS AS ANUIDADES AFASTADAS.
+Isso porque, tomando-se como objeto a anuidade de 2012 (após a publicação da lei e à época da execução ajuizada) e somando esta com os débitos com 2013, 2014 e 2015 (4 anuidades), pela abstração legal, o termo INICIAL da prescrição tributária de 2012 seria no ano de 2015, eis que no referido ano a soma da dívida ultrapassou o patamar mínimo legal exigido pelo artigo 8º da Lei 12.514/11 (quatro vezes a anuidade de 2012) e assim sucessivamente. Senão, vejamos:
+ ..
+Assim, APENAS ESTARIA PRESCRITA A ANUIDADE DE 2012 E 2013 E NÃO O BLOCO DAS ANUIDADES! Visto que a anuidade de 2014, somando-se 4 anuidades para frente, restaria tão somente prescrita em 2022 quando já havia sido ajuizada a demanda!! E assim sucessivamente!
+ ..
+Ou seja, o prazo prescricional de cinco anos de CADA ANUIDADE, deve ter início somente quando o crédito se tornar exequível, quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o patamar mínimo requerido pela mencionada norma jurídica.
+Com isso, a partir do momento que determinada soma do débito ALCANÇAR O VALOR, soma-se PARA A FRENTE O PRAZO DE CINCO ANOS DE CADA ANUIDADE e não para trás (fls. 118).
+Portanto, ajuizada a ação de execução fiscal em DEZEMBRO/2021, não há se falar em prescrição, em especial das anuidades de 2014 em diante independente da atualização da Lei 12.514/11.
+Assim, afastando-se a declaração de prescrição das anuidades de 2014 a 2016, verifica-se facilmente que o valor atinge o mínimo exigido pela Lei Federal nº 12.514/2011, motivo pelo qual o processo preenche os seus requisitos de procedibilidade.
+(fls. 117-119).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o acórdão recorrido assim decidiu:
+Em conformidade com a orientação do Supremo Tribunal Federal, as anuidades dos Conselhos Profissionais devem observar os princípios da anterioridade de exercício e nonagesimal, motivo pelo qual a Lei nº 12.514/2011, de 28/10/2011 (publicada em 31/10/2011) é aplicável a partir de 01/01/2013. Precedente: RE nº 873678/RS, Relator Ministro ROBERTO BARROSO, decisão monocrática publicada no DJe 22/06/2015.
+Nesse contexto, a ausência de lei em sentido estrito para as cobranças das anuidades vencidas até 2012 acarreta o reconhecimento da nulidade absoluta do respectivo título executivo que embasa a execução, impondo a extinção da demanda, nos termos do artigo 803, inciso I, do CPC.
+(fls. 101).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ademais, o acórdão recorrido assim decidiu:
+Nesse sentido, o prazo prescricional da anuidade mais remota, ou seja, de 2013, iniciou-se quando somada às anuidades de 2014, 2015 e 2016, tornaram-se exequíveis, isto é, quando surgiu para o Exequente a possibilidade de exercer seu direito de cobrá-lo judicialmente, no caso, sua pretensão executória. Sem esta, não há se falar em início de prazo prescricional. Tendo em vista que a dívida passou a ser exequível a partir de 01/04/2016, o prazo para ajuizamento da execução findou-se em 1º de abril de 2021, razão pela qual o crédito referente às anuidades mencionadas, encontra-se fulminado pela prescrição, conforme consignado na sentença proferida pelo Juízo a quo.
+Aqui, cabe destacar que a alteração promovida pela Lei nº 14.195/2021 não impediu a ocorrência da prescrição das anuidades de 2013 a 2016, uma vez que a modificação do valor mínimo para ajuizamento dos executivos fiscais promovidos pelos Conselhos somente veio a ocorrer em agosto de 2021, ocasião em que já consumada a prescrição em relação às referidas anuidades (fls. 102-103. Grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Quanto à segunda controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+An te o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
