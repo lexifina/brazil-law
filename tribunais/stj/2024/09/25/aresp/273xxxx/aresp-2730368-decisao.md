@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo fundado manejado pelo Estado do Rio Grande do Sul, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 231):
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO DIRETA. OCORRÊNCIA PARCIAL. PARCELAMENTO NÃO COMPROVADO.
+Em se tratando de tributo direto, com fato gerador periódico, a constituição definitiva do crédito fiscal ocorre, automaticamente, em primeiro de janeiro de cada ano. Termo inicial do prazo prescricional para ajuizamento da competente ação de cobrança que coincide com a data do fato gerador. Art. 174 do CTN. Hipótese em que, entre a constituição definitiva do crédito tributário (05/2015 a 03/2016) e a data de ajuizamento da presente execução fiscal (30/08/2021) transcorreu lapso temporal superior a cinco anos. Extinção do crédito tributário pela prescrição. Art. 156, inc. V, CTN. Alegação de parcelamento administrativo que não encontra suporte probatório nos autos. O ato de reconhecimento de dívida pelo devedor pressupõe prova inequívoca de sua ocorrência. Art. 174, inc. IV, CNT. Singela reprodução dos
+registros internos que não atende a tal exigência. Precedentes.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 257/266).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 375, 405 e 1 .022, I, do CPC e 174 do CTN. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca dos "diversos parcelamentos comprovados nos autos" (fl. 280) e (II) "ocorreram diversos parcelamentos dos débitos, o que suspendeu a exigibilidade do tributo, bem como interrompeu o prazo prescricional, por força do disposto no inciso IV. parágrafo único, do art. 174 do Código Tributário Nacional, sendo descabida a negativa de considerar tal causa interruptiva em face das "regras de experiência comum" (CPC, art. 375) incidentes na espécie e da fé-pública que reveste os documentos oficiais (CPC, art. 405)" (fl. 283).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nesse contexto, destaca-se a seguinte fundamentação adotada pelo acórdão recorrido (fl. 229):
+A ocorrência de parcelamento administrativo, alegada pela parte exequente, não encontra suporte probatório nos autos. Com efeito, o ato jurídico, ainda que extrajudicial, que importe reconhecimento do débito pelo devedor depende de prova inequívoca de sua ocorrência, na forma do art. 174, inc. IV, do CTN.
+Singela cópia dos registros internos do ente fazendário, dando conta do parcelamento administrativo, à evidência, não atende a tal exigência. Para que seja possível reconhecer-se a interrupção do prazo prescricional, faz-se necessária a apresentação do termo de parcelamento assinado pelo contribuinte.
+ ..
+Destarte, transcorrido o prazo prescricional qüinqüenal entre a constituição do crédito tributário do período de 05/2015 a 03/2016, e a data de ajuizamento da ação de execução fiscal, deve ser mantida a decisão que
+reconheceu a ocorrência parcial da prescrição da pretensão de cobrança do crédito tributário.
+Assim, a alteração das premissas adotadas pela Corte de origem acerca da ocorrência do parcelamento a fim de interromper o prazo prescricional, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
