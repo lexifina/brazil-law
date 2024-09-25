@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Pedido de expedição de ofício ao Hospital da Santa Casa de Misericórdia de Lorena/SP para confirmação da prestação de serviços do agravado como médico e, em caso positivo, a realização de penhora de 30% do faturamento - Indeferimento Insurgência Impossibilidade - Credor que deve indicar com precisão o objeto da penhora - Artigo 829, §2º do CPC - Ausência de situação excepcional que permita a relativização da impenhorabilidade de salário, revelando-se inócua a expedição de ofício, nos termos pretendidos Penhora dos rendimentos do agravado Impossibilidade Não há notícia nos autos dos valores auferidos pelo devedor - Ausente hipótese que autorize excepcionar a determinação legal (CPC, artigo 833, incisos IV e parágrafo 2º) - Precedentes desta E. Corte e desta E. Câmara Decisão mantida Recurso não provido.
+A parte agravante sustenta ser possível a expedição de ofício ao Hospital da Santa Casa de Misericórdia de Lorena/SP para averiguar se o executado recebe salário dessa instituição. Afirma ser possível a mitigação da regra da impenhorabilidade dos salários, para efetivar a constrição de 30% dessa verba.
+O inconformismo não merece prosperar. A parte agravante deixou de indicar a violação de norma federal ou dissídio jurisprudencial quanto ao tema da possibilidade de expedição de ofício ao hospital - a qual foi afastada pela Corte de origem, sob o fundamento de que não cabe ao judiciário, mas à parte exequente, a indicação específica dos bens sobre os quais recairão a penhora.
+Dessa forma, permanece íntegro um dos fundamentos autônomos e suficientes para manter o indeferimento do pedido de penhora, incidindo, quanto ao ponto, a Súmula 283/STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
