@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, recurso especial interposto por GUILHERME PINHEIRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado:
+AGRAVO RETIDO AUSÊNCIA DE REITERAÇÃO NAS RAZÕES DE APELAÇÃO NÃO CONHECIMENTO ART 523 § 1º CPC/73 PROCESSUAL CIVIL SENTENÇA NULIDADE INOCORRÊNCIA CERCEAMENTO DE DEFESA PROVA ORAL AUDIOVISUAL E DEGRAVAÇÃO IMPROBIDADE VERBAS PUBLICAS E SAÚDE FRAUDE EM ORÇAMENTOS PREJUÍZO AO ERÁRIO E LOCUPLETAMENTO INDEVIDO ARTS 2º 3º E 9º LEI Nº 8429/92
+Os embargos de declaração foram rejeitados, com aplicação de multa.
+Nas razões recursais, a parte recorrente sustenta, em síntese: i) ausência de caráter protelatório dos embargos de declaração (arts. 489 e 1.026, § 2º, do CPC/2015); ii) necessidade de tratamento isonômico entre as partes, quanto à transcrição dos depoimentos, e impossibilidade de fundamentação por referência a processo diverso (art. 139, I, do CPC/2015); iii) impossibilidade de reenquadramento dos fatos para manutenção das penas mais graves, em recurso exclusivo da defesa (arts. 6º, § 3º, da LINDB, 502 e 508 do CPC/2015 e 617 do CPP); e iv) ausência de dolo e má-fé (arts. 9º e 10 da LIA).
+Contrarrazões apresentadas.
+O feito foi baixado para juízo de conformação à Tese n. 1.199/STF, tendo sido rejeitado o juízo de retratação. A parte interpôs novo recurso especial contra esse acórdão.
+É o relatório.
+Passo a decidir.
+A alegação de necessidade de tratamento isonômico não demonstra, nem mesmo alega, qualquer prejuízo concreto enfrentado pela defesa pela não transcrição de parcela dos depoimentos. Ademais, o acórdão trata de forma expressa dos diversos testemunhos da defesa, afastando sua relevância para a solução da causa, seja porque prestados por info rmantes, seja porque a defesa que os arrolou deixou de comparecer, seja porque nada disseram e, principalmente, porque houve a efetiva consideração de seu teor por ocasião da sentença. Ainda, assegura ter havido alteração normativa no curso do processo, que passou a dispensar as transcrições integrais, procedimento adotado igualmente para a acusação daí em diante.
+Nesse passo, o recurso esbarra no óbice das Súmulas n. 283/STF e 83/STJ. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÕES NO ACÓRDÃO PROFERIDO NA ORIGEM. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283 DO STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+ ..
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incidência no presente caso da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+(AgInt no AREsp n. 1.894.900/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+CONSTITUCIONAL E ADMINISTRATIVO. CONSELHEIRO DE TRIBUNAL DE CONTAS ESTADUAL. DESTITUIÇÃO DO CARGO. PRERROGATIVAS RECONHECIDAS PELO STF. AUSÊNCIA DE CONTRADITÓRIO. IMPOSSIBILIDADE. VÍCIOS, NA NOMEAÇÃO E NA POSTERIOR DESTITUIÇÃO DO IMPETRANTE, DISCUTIDOS NO JULGAMENTO DE AÇÕES POPULARES. FUNDAMENTOS NÃO ACOBERTADOS PELA COISA JULGADA. PERDA DO CARGO OCUPADO COM GARANTIA DE VITALICIEDADE. NECESSIDADE DE DECISÃO JUDICIAL TRANSITADA EM JULGADO, EM AÇÃO PRÓPRIA. ARTS. 73, § 3º, E 75 DA CF/88. ADI 4.190-MC. IMPOSSIBILIDADE DE REINTEGRAÇÃO IMEDIATA DO IMPETRANTE. CARGO OCUPADO POR OUTRO CONSELHEIRO VITALÍCIO. COLOCAÇÃO EM DISPONIBILIDADE. INTELIGÊNCIA DA LEGISLAÇÃO ESTADUAL.
+ ..
+II. Preliminar de nulidade do acórdão recorrido rejeitada, uma vez que "a decretação de nulidade de atos processuais depende da necessidade de efetiva demonstração de prejuízo da parte interessada, por prevalência do princípio pas de nulitte sans grief" (STJ, EREsp 1.121.718/SP, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 01/08/2012), o que não ocorreu, no caso. No mesmo sentido: STJ, AgInt no AREsp 393.085/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 08/11/2021; REsp 1.099.724/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/07/2022; AgInt nos EDcl no REsp 1.721.690/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/04/2021.
+ ..
+(RMS n. 52.896/PR, relator Ministro Mauro Campbell Marques, relatora para acórdão Ministra Assusete Magalhães, Segunda Turma, julgado em 23/8/2022, DJe de 17/10/2022.)
+O mesmo fundamento se aplica quanto à suposta fundamentação por referência emprestada de outro processo, na medida em que o acórdão expressa ter sido realizada uma mesma audiência pela pessoa julgadora competente tanto para a causa criminal quanto para a cível, e somente quanto às provas produzidas na mesma audiência é que houve a transcrição. Ademais, não há suporte normativo para a alegação de contrariedade à isonomia nesse contexto, esbarrando o recurso, ainda, na Súmula n. 284/STF.
+No que tange ao reenquadramento jurídico dos fatos, o acórdão não abordou a matéria à luz dos argumentos apresentados pela parte apenas em recurso especial. Ausente o prequestionamento, à luz da Súmula n. 356/STF (O ponto omisso da decisão, sôbre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), o recurso não comporta conhecimento.
+Quanto ao dolo e má-fé, o acórdão é taxativo ao imputar ao recorrente, estagiário da Defensoria Pública, a conduta de articular com proprietário de farmácia a cotação de medicamentos em valores máximos de tabela, distantes dos preços efetivos de mercado, a fim de fraudar o erário. Transcrevo, na essência, a conclusão:
+No caso dos autos,ante a vasta prova, documental e testemunhal, resta evidente que Guilherme Pinheiro e Emanuel Lazzari Pinto agiram em conluio, forjando fictícia coleta de preços em farmácias, de forma a privilegiar a Farmácia Ideal, de titularidade de Emanuel, anexando Guilherme tais orçamentos ficticiamente aos autos.
+Impossível, como já apreciado, que ignorasse Emanuel a ilicitude de forjar orçamentos, adotar o preço máximo de tabela e, com isso, prejudicando o erário estadual, beneficiando-se com o valor maior assim obtido.
+Como também, em relação a Guilherme, inegável ter participado do esquema de orçamentos visando fraudar a Fazenda Pública, locupletando-se ele com a diferença do valor.
+Em tudo a presença de dolo intenso, locupletando-se os apelantes de dinheiro destinado à saúde pública, sem qualquer constrangimento.
+Como também é inquestionável o prejuízo causado ao erário, a ser devidamente apurado na liquidação da sentença.
+Alterar a conclusão da origem atrai a incidência da Súmula n. 7/STJ.
+Quanto à multa por embargos protelatórios, a sanção carece de fundamentação adequada, sendo absolutamente genérica. É o caso de afastá-la, notadamente tratando dos primeiros aclaratórios. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AÇÃO RESCISÓRIA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. VIA ELEITA ADEQUADA. ENTENDIMENTO EM CONSONÃNCIA COM A JURISPRUDÊNCIA DO STJ. MULTA. EMBARGOS DECLARATÓRIOS. CARÁTER PROTELATÓRIO. AUSÊNCIA DE VERIFICAÇÃO. AGRAVO INTERNO CONHECIDO E PARCIALMENTE PROVIDO APENAS PARA AFASTAR A MULTA IMPOSTA COM FUNDAMENTO NO ART. 1.026, § 2º, DO CPC/2015 DECISÃO MANTIDA. AGRAVO INTERNO CONHECIDO E PARCIALMENTE PROVIDO.
+ ..
+3. Com relação à multa imposta no acórdão de embargos de declaração, não evidenciado o intuito protelatório da oposição, deve ser afastada, a teor da jurisprudência do STJ,
+4. Agravo interno conhecido e parcialmente provido, apenas para afastar a multa do art. 1.026, § 2º, do CPC/2015.
+(AgInt no AREsp n. 2.351.329/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/6/2024, DJe de 1/7/2024.)
+Por fim, o segundo recurso especial da mesma parte, interposto contra acórdão que refutou juízo de retratação a tese de repercussão geral (Tema n. 1.199/STF), é incabível, porquanto não houve alteração do julgado.
+E, quanto à nova LIA, tendo havido condenação por ato doloso, com dano efetivo, configurado pela conduta do art. 9º, I, da Lei n. 8.429/1992, não há impacto da nova norma.
+Isso posto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, apenas para afastar a multa por intuito protelatório.
+Intimem-se.
+EMENTA
