@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO FRACCARO apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (APC n. 5010198-37.2020.8.24.0011/SC).
+Consta dos autos que o paciente foi condenado como incurso no art. 157, § 2º, II e § 2º-A, I, do CP, à pena de 10 anos, 4 meses e 13 dias de reclusão, em regime fechado, e 106 dias-multa. Irresignada, a defesa interpôs recurso de apelação, cujo voto do relator foi trazido aos autos, dele constando que conheceu em parte do recurso e, nessa extensão, negou-lhe provimento, corrigindo de ofício o cálculo da pena, que ficou fixada em 9 anos, 4 meses e 1 dias de reclusão, em regime fechado, e 21 dias-multa (e-STJ fls. 11/17).
+No presente mandamus, a defesa sustenta que a autoria do delito decorreu de reconhecimento fotográfico que não observou o art. 226 do CPP. Destaca que a fotografia mostrada para a testemunha foi extraída de uma rede social, não foram mostradas fotografias de pessoas parecidas e tampouco houve descrição do suspeito. Ademais, afirma que não houve reconhecimento do paciente em juízo.
+Salienta que embora o acórdão afirme que "o sistema de monitoramento dos imóveis vizinhos captaram a chegada dos agentes, sendo inclusive possível visualizar os dois caminhões utilizados na empreitada delituosa" as imagens não permitem sequer visualizar o motorista e as demais pessoas o interior dos caminhões, de sorte que não servem como meio de prova da autoria (e-STJ fls. 8/9).
+Conclui que o paciente ser absolvido, pois sentença e acórdão não indicaram outras provas a corroborar o reconhecimento fotográfico.
+Requer, liminarmente, a suspensão da ordem de prisão até o julgamento do mérito do presente writ. No mérito, que seja reconhecida a ilegalidade da sentença e acórdão e, por consequência, absolver o Paciente nos termos do art. 386, VII do CPP (e-STJ fl. 10).
+É o relatório. Decido.
+De plano, verifico que o presente habeas corpus não merece prosseguimento, tendo em vista a deficiência da instrução processual, pois às fls. 11/17 e 18/26, consta apenas o voto proferido pelo Desembargador Relator, juntado em duplicidade.
+Como se sabe, o rito do habeas corpus, em razão da necessária celeridade, pressupõe a apresentação de prova pré-constituída do direito alegado, sob pena de não conhecimento da ordem.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 182.788, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+Nessa mesma linha de entendimento, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+No caso concreto, a defesa insurge-se contra o acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no julgamento da Apelação Criminal n. 5010198-37.2020.8.24.0011. Todavia, não junta aos autos o inteiro teor do referido acórdão, peça essencial à análise da impetração.
+Constata-se, portanto, a deficiência da instrução processual.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
