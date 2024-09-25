@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de Agravo apresentado por EMPRESA GESTORA DE ATIVOS S.A. - EMGEA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS DE TERCEIRO. RECONHECIDO O PEDIDO PELO EMBARGADO. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. ARTIGO 90, §4º, DO CÓDIGO DE PROCESSO CIVIL. APELAÇÃO PROVIDA.
+I - Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu, in casu, reduzidos à metade na forma do artigo 90, § 4º, do Código de Processo Civil.
+II - Apelação provida (fl. 364).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 85 do CPC, no que concerne à necessidade de se excluir a condenação da empresa recorrente ao pagamento de honorários de sucumbência, ante a ausência de culpa da EMGEA em dar causa ao processo, defendendo que "a constrição somente ocorreu pelo fato do embargante não ter providenciado a averbação da promessa de compra e venda" (fl. 380). Aduz a seguinte argumentação:
+A decisão do Tribunal a quo viola expressamente o disposto no artigo acima, visto que condenou a EMGEA ao pagamento de honorários, sem que esta tenha dado causa a ação.
+Primeiramente, é necessário verificar que a Sentença reconheceu que a EMGEA não deu causa ao processo, sendo proferida nos seguintes termos:
+ ..
+Ocorre que, apesar de constar na Sentença o trecho em destaque acima, ou seja, uma clara demonstração da ausência de culpa da EMGEA em dar causa ao processo, o Acórdão julgou de maneira diversa, atribuindo a EMGEA o ônus de sucumbência.
+Entretanto, é nítida a falta de culpa da recorrente no presente caso. Insta pontuar, assim como disposto na sentença do juízo singular que, a constrição somente ocorreu pelo fato do embargante não ter providenciado a averbação da promessa de compra e venda.
+Nesse sentido, como é de conhecimento no meio jurídico, no processo civil, para se aferir qual das partes litigantes arcará com a verba honorária, não se deve ater à respectiva sucumbência, mas atentar-se principalmente ao princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo é que deverá suportar as despesas dele decorrentes.
+Em razão disso, em caráter subsidiário, não pode ser atribuído, a EMGEA, qualquer ônus, tendo em vista que o objeto central do presente embargos de terceiro é a suspensão dos atos constritivos, e estes só se deram em razão da ausência de registro da compra e venda e ainda, pela inadimplência da construtora com a financeira, que utilizou de seu direito e dos instrumentos dados pelo sistema legal para garantia dos seus direitos consolidados como credora.
+ ..
+Ademais, segundo a Súmula 303 do STJ, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios". A EMGEA não deu causa a qualquer constrição indevida, de sorte que qualquer penhora que eventualmente recaia sobre imóvel se deve à inadimplência da empresa CLAUDIO MACARIO CONSTRUTORA LTDA e por erro do próprio embargante, o qual não registrou o compromisso de compra e venda.
+ ..
+Nesse sentido, o que pode ser constatado, nos autos, é que não houve qualquer culpa da EMGEA ante ao ocorrido, o que a exime de qualquer responsabilidade, inclusive do pagamento de sucumbências, como honorários advocatícios, devendo ser aplicada a interpretação correta do art. 85 do Código de Processo Civil, cumulado com o princípio da causalidade.
+(fls. 379- 383).
+A decisão do Tribunal a quo viola expressamente o disposto no artigo acima, visto que condenou a EMGEA ao pagamento de honorários, sem que esta tenha dado causa a ação.
+Primeiramente, é necessário verificar que a Sentença reconheceu que a EMGEA não deu causa ao processo, sendo proferida nos seguintes termos:
+ ..
+Ocorre que, apesar de constar na Sentença o trecho em destaque acima, ou seja, uma clara demonstração da ausência de culpa da EMGEA em dar causa ao processo, o Acórdão julgou de maneira diversa, atribuindo a EMGEA o ônus de sucumbência.
+Entretanto, é nítida a falta de culpa da recorrente no presente caso. Insta pontuar, assim como disposto na sentença do juízo singular que, a constrição somente ocorreu pelo fato do embargante não ter providenciado a averbação da promessa de compra e venda.
+Nesse sentido, como é de conhecimento no meio jurídico, no processo civil, para se aferir qual das partes litigantes arcará com a verba honorária, não se deve ater à respectiva sucumbência, mas atentar-se principalmente ao princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo é que deverá suportar as despesas dele decorrentes.
+Em razão disso, em caráter subsidiário, não pode ser atribuído, a EMGEA, qualquer ônus, tendo em vista que o objeto central do presente embargos de terceiro é a suspensão dos atos constritivos, e estes só se deram em razão da ausência de registro da compra e venda e ainda, pela inadimplência da construtora com a financeira, que utilizou de seu direito e dos instrumentos dados pelo sistema legal para garantia dos seus direitos consolidados como credora.
+ ..
+Ademais, segundo a Súmula 303 do STJ, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios". A EMGEA não deu causa a qualquer constrição indevida, de sorte que qualquer penhora que eventualmente recaia sobre imóvel se deve à inadimplência da empresa CLAUDIO MACARIO CONSTRUTORA LTDA e por erro do próprio embargante, o qual não registrou o compromisso de compra e venda.
+ ..
+Nesse sentido, o que pode ser constatado, nos autos, é que não houve qualquer culpa da EMGEA ante ao ocorrido, o que a exime de qualquer responsabilidade, inclusive do pagamento de sucumbências, como honorários advocatícios, devendo ser aplicada a interpretação correta do art. 85 do Código de Processo Civil, cumulado com o princípio da causalidade (fls. 379- 383).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Contexto em que é possível concluir que desde o início da controvérsia era de conhecimento pleno dos exequentes tanto a existência do negócio jurídico entabulado pela promessa de compra e venda firmada pelos ora apelantes, bem como que o referido imóvel não poderia ter averbado em sua matrícula junto ao Cartório de Registro Geral de Imóveis dito negócio jurídico em razão de gravames pré-existentes, que não podem ser atribuídos, sob qualquer ótica àqueles.
+Dessarte, não encontra amparo nos fatos o fundamento contido na sentença que rendeu ensejo à condenação em honorários de sucumbência - o princípio da causalidade -, haja vista que, frise, a existência de gravames anteriores no imóvel e a impossibilidade de registro da promessa de compra e venda decorrem de atos praticados pelos executados originários (fls. 362- 363).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
