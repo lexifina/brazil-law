@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA PROVISÓRIA. AUTORA PORTADORA DE FIBROSE PULMONAR IDIOPÁTICA. NEGATIVA DE FORNECIMENTO DO MEDICAMENTO NINTENDANIBE (OFEV). PLANO DE SAÚDE. RECOMENDAÇÃO DO NATJUS-TJMG PARA TRATAMENTO. REQUISITOS DE EXCEPCIONALIDADE INDICADOS PELO STJ (EREsp 1.886.929 e EREsp 1.889.704) PREENCHIDOS. FORNECIMENTO DO MEDICAMENTO NORTEADO PELO PRINCÍPIO ATIVO. SENTENÇA MANTIDA.
+- Embora possam as operadoras de planos de saúde restringir, por expressa disposição contratual, as enfermidades abrangidas pela cobertura, não é razoável admitir que isso implique na limitação do tratamento eleito como mais adequado pelo profissional de saúde, sobretudo se foram preenchidos, no caso concreto, os requisitos de excepcionalidade indicados pelo STJ (EREsp 1.886.929 e EREsp 1.889.704).
+- Considerando, ainda, a recomendação constante da nota técnica 1743/2020 do NATJUS-TJMG para fornecimento do tratamento, aliada aos documentos colacionados aos autos, deve ser fornecido medicamento que contenha o princípio ativo nintedanibe para tratamento da moléstia que acomete a parte autora, respeitadas as concentrações prescritas pelo médico.
+V.v. APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - PLANO DE SAÚDE - FORNECIMENTO DE MEDICAMENTO - NINTEDANIBE (OFEV) PARA TRATAMENTO DOMICILIAR DE FIBROSE PULMONAR IDIOPÁTICA - IMPOSSIBILIDADE - INTELIGÊNCIA DO ART.10, INCISO VI DA LEI Nº 9.656/98 - URGÊNCIA E EFICÁCIA DO USO DA MEDICAÇÃO PRESCRITA PELO MÉDICO - NÃO DEMONSTRADOS - DANOS MORAIS - ATO ILÍCITO - NÃO CONFIGURADO - SENTENÇA REFORMADA.
+1. À luz do art. 10, VI, da Lei 9.656/98, tem-se a obrigatoriedade da cobertura mínima de tratamentos pelos planos de saúde, o qual exclui o fornecimento de medicamentos para tratamento domiciliar, com exceção de medicamentos neoplásicos, ou seja, para o tratamento de câncer, o que não é o caso dos autos.
+2. Assim, considerando que a autora foi diagnosticada com "Fibrose Pulmonar Idiopática", a prescrição para o tratamento domiciliar por meio do medicamento "Nintedanibe (Ofev)" não é obrigatória.
+3. Ademais, em sede de cognição exauriente, não foi demonstrada a urgência e eficácia da medicação prescrita pelo médico.
+4. Se a negativa de cobertura é respaldada em lei e em contrato, não há que se falar em ato ilícito capaz de gerar o direito de indenizar por danos morais.
+5. Via de consequência, a reforma da sentença para improcedência dos pedidos é medida que se impõe.
+V.v. APELAÇÃO - PROCEDIMENTO COMUM - FORNECIMENTO DE MEDICAMENTO POR OPERADORA DE PLANO DE SAÚDE - NINTEDANIB - FIBROSE PULMONAR IDIOPÁTICA (FPI) - PRESCRIÇÃO MÉDICA - PLANO DE SAÚDE - NEGATIVA DE COBERTURA INDEVIDA - DANOS MORAIS - QUANTUM.
+A recusa injustificada pela operadora de plano de saúde em custear medicamento essencial à preservação da saúde, agravando a circunstância de vulnerabilidade a qual o consumidor está submetido, implica a obrigação de pagar indenização pelos danos morais causados. Para o arbitramento da reparação pecuniária por dano moral, o juiz deve considerar circunstâncias fáticas e repercussão do ato ilícito, condições pessoais das partes, razoabilidade e proporcionalidade" (e-STJ fls. 607/632).
+No recurso especial, a recorrente alega que o medicamento pleiteado nos presentes autos - Nintedanib (OFEV) - não está descrito no rol da ANS, situação a afastar a obrigatoriedade de custeio, em consonância com o disposto nos arts. 10, inc. VI, §4º, e 12 da Lei nº 9.656/98 e art. 54, §4º do Código de Defesa do Consumidor, tidos por violados.
+Defende, ainda, que a obrigatoriedade de fornecimento de medicamento para tratamento domiciliar, como na espécie vertente, afronta o art. 10, inc. VI, da Lei nº 9.656/98.
+Sem contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+A questão controvertida devolvida a este Tribunal é definir se o medicamento Nintedanib (OFEV), deve ser custeado pelo plano de saúde para tratamento de Fibrose Pulmonar Idiopática que acomete a beneficiária.
+Não se desconhece que a jurisprudência do Superior Tribunal de Justiça assentou-se no sentido de ser lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, ou seja, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, exceto os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e aqueles incluídos no rol da ANS para esse fim.
+Portanto, obrigatório o fornecimento do medicamento registrado na ANVISA e prescrito pelo médico do paciente, por se tratar de um antineoplásico oral, de modo que se figura abusiva a mera recusa em custear a cobertura, lastreada tão somente na ausência de previsão pela ANS para o tratamento de fibrose pulmonar.
+Nesse sentido, colhe-se o seguinte julgado recente desta Corte:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE REQUERIDA.
+1. Segundo a jurisprudência do STJ, é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental, especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+2. Agravo interno desprovido" (AgInt no REsp 2.016.007/MG, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/4/2023, DJe de 20/4/2023 ).
+Por fim, em recentíssimo precedente específico sobre o medicamento em comento, decidiu a Quarta Turma desta Corte:
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO.
+AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FIBROSE PULMONAR IDIOPÁTICA. MEDICAMENTO. USO DOMICILIAR. NEGATIVA INDEVIDA DE COBERTURA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+3. No caso em exame, todavia, o fármaco prescrito pelo médico assistente é um antineoplásico oral, devidamente registrado na ANVISA, com expressa indicação para tratamento de fibrose pulmonar idiopática, sendo abusiva a recusa de cobertura do plano de saúde, com base somente na ausência de enquadramento nas diretrizes de utilização da ANS, sem a devida indicação, em contrapartida, de terapêutica alternativa eficaz e segura para a enfermidade que acomete o paciente.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 2.483.974/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+Incidência, portanto, da Súmula 568/STJ.
+Ademais, a alteração das conclusões do Tribunal local quanto à inexistência de substituto terapêutico para o medicamento prescrito ou de alternativa terapêutica disponibilizada ao beneficiário encontra óbice na Súmula n. 7/ STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e nessa extensão negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
