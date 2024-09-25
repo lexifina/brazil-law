@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO - INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA - DECISÃO RECORRIDA QUE ACOLHEU O PEDIDO DE DESCONSIDERAÇÃO - INCONFORMISMO DA PARTE RÉ - ALEGAÇÃO DE CERCEAMENTO DE DEFESA - INOCORRÊNCIA - JUIZ É O DESTINATÁRIO FINAL DA PROVA, A QUEM CABE A ANÁLISE DA CONVENIÊNCIA E NECESSIDADE DA SUA PRODUÇÃO - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - DOCUMENTOS QUE ATESTAM CONFUSÃO PATRIMONIAL E DESVIO DE FINALIDADE - CUMPRIMENTO DAS HIPÓTESES DE DESCONSIDERAÇÃO PREVISTAS NO ART. 50 DO CÓDIGO CIVIL - AFASTAMENTO DA LIMITAÇÃO DE RESPONSABILIDADE DAS SÓCIAS - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 489, § 1º, do Código de Processo Civil e 50, 1.052 e 1.102 do Código Civil sob os argumentos de ausência de fundamentação idônea; e que não estariam presentes os requisitos para a desconsideração da personalidade jurídica da devedora.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Quanto ao mais, em longo e minucioso exame, o Tribunal local analisou os requisitos para desconsideração da personalidade jurídica.
+A saber:
+"No caso em comento, resta evidente a demonstração de desvio de finalidade e confusão patrimonial entre a executada FORÇA DE VENDAS DISTRIBUIDORA LTDA. e as sócias Sras. RENATA MARODIN DE FREITAS e ODDITE MARODIN DE FREITAS.
+Isto, pois constata-se da análise dos autos que a empresa executada, constituída em 04/10/2004, tinha como seu objeto social o comércio atacadista de chocolates, confeitos, balas, bombons e outros produtos semelhantes, conforme descrição do objeto social na Cláusula Segunda do contrato de mov. 1.9" (e-STJ, fl. 72).
+--
+"Todavia, na data de 20/07/2010, agravantes constituíram a empresa REDDISTRIBUIDORA e, em que pese as agravantes sustentem a diversidade existente em ambas as organizações, observa-se que a empresa agravada possui o mesmo quadro societário e o mesmo objeto social da empresa executada, nos termos do da Cláusula Terceira do contrato social acostado ao mov.1.4" (e-STJ, fl. 72).
+--
+"Ou seja, evidente que se tratam de empresas que atuam no mesmo seguimento do mercado, constituídas pelas mesmas sócias e, segundo o que restou apurado nos autos funcionam ou funcionaram no mesmo endereço. Tal conclusão se constata da certidão acostada pelo Oficial de Justiça ao mov. 76.2, em que a portaria da sede da empresa executada, através do Sr. Rogério Fernandes, atestou "a empresa FORÇA DE VENDAS DISTRIBUIDORA atendia no primeiro barracão do lado esquerdo e que se tratava da REDS DISTRIBUIDORA."" (e-STJ, fl. 72).
+--
+"Conjuntamente, o fato de cada empresa se destinar à distribuição de produtos para fabricantes distintos, sendo a FORÇA DE VENDAS DISTRIBUIDORA para a PERFETTI VAN MELLE BRASIL LTDA e a RED DISTRIBUIDORA para a MONDELEZ, tal situação não é relevante, tampouco suficiente para se aferir eventual confusão patrimonial ou desvio de finalidade.
+Dessa forma, não há que se falar em distinção das empresas, vez que os elementos colacionados nos autos demonstram que a empresa agravada fora constituída com a mesma atividade de distribuição de doces.
+Ademais, importante salientar que a data de constituição da empresa agravante (20/07/2020) se deu apenas 40 dias antes da realização da operação mercantil que ensejou a emissão das duplicadas executadas, qual se deu em 31/08/2020, quais totalizavam o expressivo valor de R$ 123.546,18 (cento e vinte e três mil, quinhentos e quarenta e seis reais e dezoito centavos), à época da negociação.
+Neste contexto, a conduta indicada se afigura como típica aos casos de início de processo de endividamento da empresa, retirando-lhe os recursos necessários para o cumprimento de suas obrigações, destinando a atividade a outra empresa, qual geralmente não possui relevante passivo.
+Não bastasse todos os elementos já indicados, observa-se do contrato de dissolução da empresa executada (mov. 1.9) resta inequívoco e incontroverso que a as sócias Sra. Renata e Oditte receberam os haveres societários, deixando de cobrir o passivo em relação à empresa, o que resulta na atração das responsabilidades pelas obrigações adquiridas e violação às regras impostas pelos artigos 1.102 e ss. do Código Civil" (e-STJ, fls. 72/73).
+--
+"Assim sendo, nítida a ocorrência de confusão patrimonial e desvio de finalidade pelas agravantes, restando escorreita a desconsideração da personalidade jurídica, reconhecendo a responsabilidade solidária da RENATA MARODIM DE FARIAS e ODITTE MARODIM DE FARIAS ao pagamento do quantum executado aos autos de execução sob o nº 0006721-61.2011.8.16.0001" (e-STJ, fl. 74).
+Concluindo-se, portanto, pela confusão patrimonial e o desvio de finalidade, o reexame da causa esbarra inequivocamente nas disposições do verbete n. 7 da Súmula desta Casa.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
