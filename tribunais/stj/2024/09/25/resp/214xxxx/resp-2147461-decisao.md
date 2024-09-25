@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. SENTENÇA ULTRA PETITA. DECOTE DO EXCESSO. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. MODIFICAÇÃO DO TEMRO INICIAL. INOCORRÊNCIA DE JULGAMENTO ULTRA PETITA. PEDIDO IMPLÍCITO. JUROS REMUNERATÓRIOS DEVIDAMENTE CONTRATADOS. MANUTENÇÃO. SALDO HISTÓRICO REMANESCENTE. INCONTROVERSO. ENCARGOS MORATÓRIOS. INCIDÊNCIA DESDE O INADIMPLEMENTO TENDO COMO DATA BASE 03/06/2015. FATO INCONTROVERSO ENTRE AS PARTES. CONTRATO COM PRAZO CERTO DE VENCIMENTO. ART. 397 DO CC. SENTENÇA REFORMADA EM PARTE.
+1- A decisão que examina a matéria além dos limites expostos na inicial, (sentença ultra petita) fere o disposto no art. 492, do CPC.
+2 - Em análise dos autos originários, mais especificamente dos pedidos elencados nos embargos a monitória, de fato, não vislumbro pedido de fixação de saldo remanescente, tampouco no valor fixado pelo juiz singular (R$ 17.000,00), o que há é pedido de adequação quanto ao início da incidência dos encargos moratórios, sendo essa, pois, ultra petita, hipótese em que se impõe o decote do excesso julgado.
+3 - Tendo em vista que, embora o juiz singular tenha fixado de modo diverso os encargos moratórios, é entendimento jurisprudencial tratar de pedido implícito, de modo que a alteração ou modificação, ainda que de ofício não configura julgamento extra petita ou ultra petita. (STJ - AREsp: 153209 ES 2012/0045810-0.
+4 - Em sendo incontroverso nos autos o valor do saldo histórico remanescente (R$ 29.494,28), o valor apresentado pelo apelante, não se mostra ilegal, tampouco, abusivo. Uma vez que a taxa de juros remuneratórios, constante na atualização da dívida, está de acordo com as cláusulas contratuais.
+5 - Constituída a mora pelo inadimplemento da obrigação, devem incidir sobre o valor da dívida, a partir desse momento, os encargos dela decorrentes, independentemente de ter o credor optado pela cobrança por meio de ação monitória. Art. 397 do CC.
+6 - No que trata do termo inicial dos juros moratórios e a multa de 2%, vejo que ambas as partes concordam como sendo a data da constituição em mora o de 03/06/2015, a qual deve ser fixada.
+7- Apelo conhecido e parcialmente provido. Sentença reformada em parte.
+Alega-se violação dos artigos 1.022, 489, 85, § 2º, e 86 do Código de Processo Civil, sob os argumentos de que o acórdão local é omisso e que a procedência parcial dos embargos à ação monitória enseja a distribuição da sucumbência entre as partes e a fixação dos honorários com base no proveito econômico.
+Assim delimitada a controvérsia, passo a decidir.
+Tem razão a recorrente quando afirma omisso o acórdão de origem.
+Diz-se isso porque, a despeito do provimento parcial da apelação para fins de decotar parte da dívida, não houve alteração da sucumbência.
+A questão foi provocada por meio dos embargos de declaração (e-STJ, fls. 491/496).
+É relevante, todavia, o tema suscitado, havendo precedente desta Corte no sentido de que cabe a redistribuição da sucumbência na hipótese dos autos.
+A saber:
+RECURSOS ESPECIAIS. DIREITO CIVIL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRATO DE PATROCÍNIO. RESCISÃO ANTECIPADA. ADIMPLEMENTO PARCIAL. CLÁUSULA PENAL. VALOR. REDUÇÃO EQUITATIVA. READEQUAÇÃO. DÍVIDA. MOEDA ESTRANGEIRA. CONVERSÃO. COTAÇÃO. DATA DA CONTRATAÇÃO. VERBA HONORÁRIA. PROVEITO ECONÔMICO.
+1. Recursos especiais interpostos contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Prevalece nesta Corte o entendimento de que a cláusula penal possui natureza mista, ou híbrida, agregando, a um só tempo, as funções de estimular o devedor ao cumprimento do contrato e de liquidar antecipadamente o dano.
+4. A jurisprudência do Superior Tribunal de Justiça tem admitido o controle judicial do valor da multa compensatória pactuada, sobretudo quando esta se mostrar abusiva, para evitar o enriquecimento sem causa de uma das partes, sendo impositiva a sua redução quando houver adimplemento parcial da obrigação.
+5. Não é necessário que a redução da multa, na hipótese de adimplemento parcial da obrigação, guarde correspondência matemática exata com a proporção da obrigação cumprida, sobretudo quando o resultado final ensejar o desvirtuamento da função coercitiva da cláusula penal.
+6. Hipótese em que, diante da preponderância da função coercitiva da cláusula penal, não se poderia reduzi-la ao valor de uma única prestação ao fundamento de que essa seria a quantia que mais se aproximava do prejuízo suportado pela autora.
+7. A preponderância da função coercitiva da cláusula penal justifica a fixação de uma pena elevada para a hipótese de rescisão antecipada, especialmente para o contrato de patrocínio, em que o tempo de exposição da marca do patrocinador e o prestígio a ela atribuído acompanham o grau de desempenho da equipe patrocinada.
+8. Em tese, não se mostra excessiva a fixação da multa convencional no patamar de 20% (vinte por cento) sobre o valor total do contrato de patrocínio, de modo a evitar que, em situações que lhe pareçam menos favoráveis, o patrocinador opte por rescindir antecipadamente o contrato.
+9. No caso, a cláusula penal está inserida em contrato empresarial firmado entre empresas de grande porte, tendo por objeto valores milionários, inexistindo assimetria entre os contratantes que justifique a intervenção em seus termos, devendo prevalecer a autonomia da vontade e a força obrigatória dos contratos.
+10. Quando não enquadradas nas exceções legais, as dívidas fixadas em moeda estrangeira deverão, no ato de quitação, ser convertidas para a moeda nacional, com base na cotação da data da contratação, e, a partir daí, atualizadas com base em índice oficial de correção monetária.
+11. Na hipótese de acolhimento parcial dos embargos monitórios, os honorários advocatícios são fixados em percentual sobre o valor do proveito econômico obtido, servindo a diferença entre o valor inicialmente cobrado e aquele que se reconhece ser efetivamente devido somente para fins de distribuição da sucumbência.
+12. Recurso especial de CONFEDERAÇÃO BRASILEIRA DE FUTEBOL parcialmente provido. Recurso especial de MARFRIG GLOBAL FOODS S.A. em parte prejudicado e em parte não provido.
+(REsp n. 1.803.803/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2021, DJe de 25/11/2021.)
+Em face do exposto, conheço do recurso especial e a ele dou parcial provimento para que a Corte de origem examine a questão, nos termos da fundamentação supra.
+Intimem-se.
+EMENTA
