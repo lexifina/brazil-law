@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ALESSANDRA CRISTINA SONCINI contra decisão que não admitiu recurso especial apresentado em face de acórdão assim ementado (e-STJ, fl. 937):
+RESPONSABILIDADE CIVIL - INCORPORAÇÃO IMOBILIÁRIA - VÍCIO DE CONSTRUÇÃO - DANOS MORAIS E MATERIAIS - Instalação de "caixas de gordura e sabão" coletivas em área privativa do imóvel da Autora em desacordo com a norma número 8160/1997 da ABNT - Violação ao dever de informação - Desvalorização do imóvel - Caracterizado o dano moral - SENTENÇA DE PROCEDÊNCIA, para condenar a Requerida ao pagamento de indenização por danos morais no valor de R$ 10.000,00 e de indenização por danos materiais (correspondente à depreciação do imóvel) no valor de R$ 11.500,00 - Laudo pericial conclui que o empreendimento foi construído em cumprimento às normas vigentes - Memorial descritivo e termo de recebimento consignam a presença das "caixas" no imóvel da Autora, em cumprimento do dever de informação - Não comprovado o fato constitutivo do direito (artigo 373, inciso I, do Código de Processo Civil) - Ausente o dever de indenizar - RECURSO DA REQUERIDA PROVIDO, PARA JULGAR IMPROCEDENTE A AÇÃO, E RECURSO DA AUTORA NÃO CONHECIDO, PORQUE PREJUDICADO
+Os embargos de declaração foram rejeitados (fls. 948/950).
+Nas razões do especial, aponta a recorrente violação do artigo 1.022 do Código de Processo Civil; artigos 6º, III, 30 e 37 da Lei nº 8.078/90.
+Argumenta, em síntese, que remanesceria omissão no acórdão recorrido.
+Defende, ainda, que a construção de caixa de inspeção em área privativa de unidade imobiliária comercializada deveria estar contida na oferta, além de constar no memorial descritivo para ser realizada, em observância ao princípio que vincula o contratante aos termos da oferta.
+Ressalta, ainda, que a construção da área de inspeção, em área privativa, impactaria no custo final da unidade adquirida, refletindo nos custos de transação do negócio jurídico celebrado, favorecendo de modo demasiado o vendedor.
+Contra-arrazoado (fls. 972/975), o recurso especial não foi admitido na origem (fls. 976/978); contra o que se manifesta a parte agravante na presente via.
+Assim delimitada a controvérsia, passo a decidir.
+De início, em relação à alegada violação do artigo 1.022 do CPC/15, a parte agravante limita-se a justificar que o erro de procedimento teria sido acarretado pela rejeição dos embargos de declaração, sem apontar de que forma o suprimento da omissão repercutiria no provimento adotado pela Corte Local.
+Diante desse contexto, evidenciada a deficiência da argumentação quanto ao ponto, o recurso especial não deve ser conhecido, em razão da Súmula 284/STF.
+Quanto à controvérsia de fundo, extraio do acórdão recorrido que a parte recorrente foi previamente informada sobre a construção de caixa de inspeção no bem por ela adquirido (fl. 939):
+O memorial descritivo do empreendimento (fls.433/439) consigna na cláusula 8.2 que "Caso necessário, o lançamento de esgoto poderá ser executado por sistema de bombas e as caixas de gordura, sabão e passagem de esgoto e água pluvial poderão ser executadas nas áreas privativas descobertas do pavimento térreo" (fls.438), de modo que demonstrada a ciência da Autora quanto às características do imóvel adquirido  ..  (grifo acrescido)
+Ademais, verifica-se que o perito concluiu que inexistiria proibição de construir caixa de contenção em parte da unidade imobiliária adquirida, afastando inclusive a vislumbrada desvalorização do imóvel de modo prospectivo (fl. 940).
+Por isso a conclusão de que a demanda deveria ser julgada improcedente, pois não comprovado que a construção da caixa de contenção estaria em desconformidade com memorial descritivo ou norma técnica (fl. 941).
+Dessa forma, para acolher a pretensão quanto à violação do princípio da vinculação da oferta seria imprescindível reexaminar o contexto fático-probatório; o que é vedado em recurso especial (Súmula 7/STJ).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da agravada, devida pela agravante, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
