@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MÁXIMO CONSTRUTORA E INCORPORADORA EM RECUPERAÇÃO JUDICIAL LTDA e outros contra decisão singular de minha lavra na qual dei provimento ao agravo interno e neguei provimento ao agravo em recurso especial (fls. 1.084/1.088).
+Sustenta a parte embargante que há omissão acerca da violação do art. 67-A, II, da Lei 4.591/64 e da possibilidade de retenção do montante de 25% (vinte e cinco por cento) dos valores pagos pelo recorrido.
+Impugnação não foi apresentada.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, no sentido de que, "como a rescisão contratual é decorrente de culpa exclusiva das promitentes/vendedoras, a restituição das parcelas pagas pelo promitente comprador deve ocorrer de forma integral, em parcela única, vedadas retenções de qualquer gênero e parcelamento", razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos:
+Da acurada análise do acórdão recorrido, verifico que o Tribunal de origem consignou que (i) o prazo para a conclusão da obra, ainda que computado o prazo de tolerância de 180 dias, não foi observado pelas vendedoras, haja vista que até o presente momento (2023), não há sequer previsão para a entrega do empreendimento; e (ii) como a rescisão contratual é decorrente de culpa exclusiva das promitentes/vendedoras, a restituição das parcelas pagas pelo promitente comprador deve ocorrer de forma integral, em parcela única, vedadas retenções de qualquer gênero e parcelamento. Confira-se:
+No que pertine a pretensão de retenção de 25% dos valores a serem restituídos ao Autor/ Primeiro Apelante, pelo fato de constar expressamente do contrato não prospera.
+No no contrato entabulado (movimentação 1, arquivos 7 e 8) entre as partes o prazo ajustado para conclusão das obras e entrega do imóvel com a consequente emissão do "Habite-se" seria até 31/08/2016, com tolerância de até 180 (cento e oitenta) dias úteis, contados a partir daquela data.
+Colhe-se dos autos que o prazo para a conclusão da obra, ainda que computado o prazo de tolerância de 180 (cento e oitenta) dias, não foi observado pelas vendedoras, haja vista que até o presente momento (2023), sequer há previsão para a entrega do empreendimento.
+Nesse contexto, caracterizado o descumprimento do prazo para a conclusão e entrega das obras do empreendimento, ao contratante assiste o direito de requerer a rescisão contratual com base no inadimplemento das construtoras, consoante preconiza o artigo 475 do Código Civil.
+Nessa ordem, descabida a pretensão de retenção de valores porque, consoante o enunciado da Súmula nº 543 do Superior Tribunal de Justiça, "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+Logo, como a rescisão contratual é decorrente de culpa exclusiva das promitentes/vendedoras, a restituição das parcelas pagas pelo promitente comprador deve ocorrer de forma integral, em parcela única, vedadas retenções de qualquer gênero e parcelamento  ..  (fls. 751/752)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
