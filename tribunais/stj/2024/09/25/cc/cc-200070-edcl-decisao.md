@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Cesar Roberto Borba à decisão que conheceu do conflito e declarou a competência do Juízo de Direito da 2ª Vara Cível de Osasco/SP para julgar ação proposta pelo recorrente contra a Fundação dos Econominários Federais - FUNCEF, versando sobre a inclusão na base de cálculo dos seus proventos de aposentadoria do valor recebido a título de Complemento Temporário Variável de Ajuste (CTVA).
+Em suas razões (e-STJ, fls. 773--776), o embargante aponta a existência de de omissão no julgado, pois teria deixado de aplicar "o entendimento do C. STF no julgamento do Tema 1166 ao presente processo" (e-STJ, fls. 774-775).
+Impugnação às fls. 782-788 (e-STJ).
+Brevemente relatado, decido.
+O inconformismo não se justifica.
+Conforme consignado na monocrática, "o Superior Tribunal de Justiça, seguindo a jurisprudência firmada pelo Supremo Tribunal Federal quando da análise do Tema n. 1.166, submetido à sistemática do regime de repercussão geral, firmou o entendimento de que a Justiça do Trabalho é competente para processar e julgar o feito em que se pretende o reconhecimento da natureza salarial do complemento temporário variável de ajuste de mercado e do consequente reflexo no plano de previdência complementar (REsp n. 1.716.658/SC, Corte Especial)" (AgInt no REsp n. 1.872.688/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - sem grifo no original).
+Todavia, a demanda que originou o presente incidente foi proposta exclusivamente contra a Fundação dos Econominários Federais - FUNCEF, muito embora tenha havido pedido de denunciação da lide para inclusão da Caixa Econômica Federal no polo passivo.
+Conforme precisamente consignado pelo Juízo suscitante, "a petição inicial, expressando os limites da pretensão formulada pela autora, é clara no sentido de que ela presumiu, com base na linha argumentativa ali adotada, que a CTVA e as horas extras, pela natureza salarial, deveriam integrar a base de cálculo das contribuições devidas ao plano de previdência privada complementar - atribuindo, à ré, a responsabilidade pela irregularidade no cômputo da aposentadoria devida. Não consta que a autora tenha lançado controvérsia objetivando o reconhecimento da natureza salarial dessas verbas" (e-STJ, fl. 694).
+Assim, não havendo pedido direcionado ao ex-empregador ou ao patrocinador do plano previdenciário, deve se aplicar o entendimento firmado pelo Supremo Tribunal Federal, de que a competência para o processamento de ações ajuizadas contra entidades privadas de previdência complementar é da Justiça comum, dada a autonomia do Direito Previdenciário em relação ao Direito do Trabalho.
+Portanto, a decisão embargada não se ressente da alegada omissão.
+A nte o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
