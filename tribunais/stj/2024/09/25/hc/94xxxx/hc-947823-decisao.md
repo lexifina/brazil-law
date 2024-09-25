@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FERNANDO DAS NEVES OESTRAICH, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC nº 5183628-57.2024.8.21.7000/RS).
+Consta dos autos que o paciente foi condenado pela suposta prática do crime de roubo previsto no art. 157, §2º, inc. II e §2º-A, inc. I do Código Penal c/c art. 29 do mesmo diploma legal.
+O prévio writ ajuizado na origem não foi conhecido, nos termos do julgado assim ementado (fl. 28):
+HABEAS CORPUS SUBSTITUTIVO DE APELAÇÃO CRIMINAL. INADEQUAÇÃO DA VIA ELEITA. EXTINÇÃO DO HABEAS CORPUS, SEM RESOLUÇÃO DE MÉRITO. HABEAS CORPUS NÃO CONHECIDO, EM DECISÃO MONOCRÁTICA.
+Nesta via, o impetrante alega, em síntese, a nulidade do reconhecimento fotográfico realizado em sede policial, uma vez que contrariou os parâmetros estabelecidos no art. 226 do CPP.
+Assere que a condenação foi pautada apenas no reconhecimento fotográfico ilegal, o qual sequer consta dos autos.
+Requer, liminarmente e no mérito, que seja concedida a ordem em caráter liminar para cassar o acórdão ora impugnado e determinar que a 6º Câmara do Tribunal de Justiça do Estado do Rio Grande do Sul enfrente a nulidade do reconhecimento pessoal no rosto dos autos do HC nº 51836285720248217000 oriundo daquele Tribunal.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que o Tribunal de Justiça não analisou o mérito da controvérsia, qual seja, a nulidade do reconhecimento fotográfico que teria embasado a condenação.
+Confira-se o excerto do acórdão proferido pelo Tribunal estadual, ao reproduzir trecho de decisão monocrática do Relator da origem, verbis (fl. 61):
+No caso, o impetrante pretende unicamente a revaloração das provas produzidas na ação penal sob o nº. 5003507- 97.2023.8.21.0071, alegando a nulidade da sentença penal condenatória ao argumento que de que baseada tão somente no auto de reconhecimento realizado em sede policial, o qual não seguiu as diretrizes apontadas no artigo 226, do Código de Processo Penal, referindo também que o ato não encontra-se juntado nos autos.
+Logo, diante do que foi tecido pela Defesa, observo que esse habeas corpus não tem como seguir, porquanto se trata de via processual inadequada para ver declarada nula a sentença criminal, que não transitou em julgado, na medida em que a hipótese desafia a interposição de recurso de apelação, já interposto na origem, como consta no evento 177, APELAÇÃO1 e evento 193, RAZAPELA1 do processo originário, onde a questão, aqui posta, deverá ser objeto de discussão em preliminar de mérito.
+Reitero. A ação constitucional não se mostra o instrumento jurídico apropriado, tampouco se presta a recurso substitutivo, especialmente porque há previsão legal de recurso certo e determinado a ser interposto contra a decisão afirmada causadora de constrangimento ilegal decorrente de nulidade processual, ou seja, o recurso de apelação.
+Assim, ausente manifestação do Tribunal sobre a questão de fundo também ora vindicada, incabível a análise do presente habeas corpus, porquanto está configurada a absoluta supressão de instância quanto ao ponto debatido, ficando impedida esta Corte de proceder à sua análise.
+O Superior Tribunal de Justiça entende que:
+"como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que:
+"o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Outrossim, o não conhecimento da impetração de origem não acarreta indevida negativa de jurisdição, uma vez que foi ajuizada a apelação criminal perante a Corte local, sede na qual as teses defensivas ainda serão apreciadas, em respeito ao princípio da unirrecorribilidade. Nesse sentido:
+"Ocorre que a jurisprudência do Superior Tribunal de Justiça não admite a tramitação c oncomitante de recursos e habeas corpus manejados contra o mesmo ato, sob pena de violação do princípio da unirrecorribilidade (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe 27/9/2022). Precedentes.
+7. Agravo regimental desprovido."
+(AgRg no HC n. 865.449/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
