@@ -1,0 +1,27 @@
+DECISÃO
+Agrava-se da inadmissão de recurso especial interposto por LEA LUCIANA GALLE LAUTERT para impugnar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+No especial, interposto com fundamento apenas em a, alegou-se que o acórdão recorrido teria violado os arts. 489, II, § 1º, I, e 1.022, II, do CPC, por deficiência de fundamentação. No cerne, sustenta-se violação ao art. 465, § 1º, I, do CPC.
+Não existe a apontada violação aos dispositivos legais do art. 489 e 1.022 do CPC, haja vista que a leitura do acórdão recorrido convence de que ele esteja fundamentado de maneira satisfatória, razoável e suficiente, tendo sido apreciados, conjunta ou isoladamente, todos os argumentos apresentados pela recorrente.
+Além disso, é pacífico o entendimento de que não há ofensa ao art. 1.022, II, do CPC quando o acórdão recorrido tenha se manifestado de maneira fundamentada e adequada a respeito das questões relevantes suscitadas pelas partes, não havendo vício no julgado tão somente pelo fato de a solução conferida à controvérsia ser distoante daquela desejada pelo recorrente.
+Nesse sentido, a jurisprudência da Primeira Turma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. INEXISTÊNCIA DO DISPOSITIVO TIDO POR VIOLADO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO A SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do artigo 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. O recorrente, nas razões do recurso especial, aponta violação do art. 489, IV, do CPC/15. Escorreita a aplicação da Súmula 284/STF, uma vez que tal dispositivo não consta do aludido diploma legal.
+4. O recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.947.313/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 10, 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF (Súmula n. 518/STJ).
+3. A alegada ofensa ao princípio da legalidade não está amparada na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+4. O Tribunal de origem, ao decidir a questão relativa à possibilidade de exigência da Certidão Negativa de Débito, no caso concreto, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Incidência da Súmula 126/STJ.
+5. O exame da controvérsia demanda a análise da IN n. 54/2011 do MAPA, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.646.468/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020)
+Quanto ao mais alegado no recurso especial, tenho que a medida sequer supera a etapa preambular do conhecimento, haja vista que a pretensão da recorrente consiste em impugnar o conteúdo da prova pericial produzida, a fim de fazer prevalecer conclusão oposta àquela que emana da prova questionada .
+Reformar o acórdão recorrido para atingir conclusão diversa daquela que dele emana, tal como pretendido pela agravante, exige inevitável reexame do arcabouço fático-probatório da causa, inviável em recurso especial nos termos da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
