@@ -1,0 +1,15 @@
+DECISÃO
+Em análise, pedido de reconsideração apresentado contra acórdão da 2ª Turma, assim ementado:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria. 2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora. 3. Não constatados os vícios indicados no art. 1.022 do CPC, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+A parte alega, em suma, a existência de questão de ordem pública, argumentando o que se segue:
+No presente caso está a ocorrer enriquecimento sem causa por parte da Municipalidade recorrida, pois os créditos por ela solicitados, decorrentes de IPT Us atrasados de imóvel, em sede de ação de execução de terceiro que envolveu esse bem, já se encontram há muito tempo prescritos, como restou demonstrado nas fls. e-STJ Fl. 36/37, e-STJ Fl. 82/86, e-STJ Fl. 90/103, e-STJ Fl. 201/207, e-STJ Fl. 292/294, além do fato de ela mesma ter desistido das execuções fiscais correspondentes, como também ali comprovado.
+É o relatório.
+Passo a decidir.
+Não há previsão legal para o pedido de reconsideração do acórdão nos termos em que apresentado pela requerente. Observo, entretanto, que busca a parte rediscutir matéria já decidida por esta Corte.
+Com efeito, o agravo em recurso especial da parte não foi conhecido em razão da aplicação da Súmula 182/STJ, e o agravo interno interposto foi protocolizado intempestivamente, como reconhecido por acórdão da 2ª Turma (fls. 1694-1696). Após oposição de embargos de declaração, estes foram rejeitados (fls. 1737-1741).
+Assim sendo, o pedido de reconsideração não deve ser conhecido.
+Por fim, é importante ressaltar que, consoante o entendimento desta Corte, "o simples pedido de reconsideração não suspende ou interrompe o prazo para a interposição do recurso próprio" (AgInt no RCD no MS 23.382/DF, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 4/9/2019).
+Isso posto, não conheço do pedido de reconsideração.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
