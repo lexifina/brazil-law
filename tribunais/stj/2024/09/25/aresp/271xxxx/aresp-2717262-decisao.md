@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Estado do Tocantins , desafiando decisão da Presidência do Tribunal de Justiça daquele Estado, que não admitiu recurso especial com base nos seguintes fundamentos: (I) incidência da Súmula 7/STJ em relação à inaplicabilidade da teoria do fato consumado; (II) quanto á tese pertinente à violação à autonomia conferida às universidade, a matéria possui matriz constitucional e como tal, não é suscetível de sindicância pela via do recurso especial; (III) quanto à alegada violação ao art. 1.022, inciso II, do Código de Processo Civil, incidência da Súmula 284/STF, pois não foram indicadas, de modo específico, as omissões relevantes do acórdão.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a incidência da Súmula 284/STF, pois quedou inerte em tecer qualquer fundamento a fim de afastar a incidência do mencionado óbice sumular.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
