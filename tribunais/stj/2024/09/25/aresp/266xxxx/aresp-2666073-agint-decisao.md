@@ -1,0 +1,34 @@
+DECISÃO
+Em face do recurso apresentado às fls. 611/619 (e-STJ), torno sem efeito a decisão de fls. 603/606 (e-STJ) e passo a novo exame do agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/06/2024.
+Concluso ao gabinete em: 18/09/2024.
+Ação: de obrigação de fazer c/c danos morais ajuizada por MARIA BEATRI GOMES DE ALBUQUERQUE visando a cobertura de cirurgia de gastroplastia no tratamento de obesidade mórbida.
+Sentença: julgou parcialmente procedente a demanda para condenar a agravante no custeio da cirurgia prescrita e no pagamento de compensação por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+Acórdão: negou provimento ao recurso da agravante, nos termos da seguinte ementa:
+PROCESSO CIVIL. APELAÇÃO CÍVEL. PLANO DE SAÚDE. GASTROPLASTIA PARA TRATAMENTO DE OBESIDADE MÓRBIDA. COBERTURA CONTRATUAL DA DOENÇA. PROCEDIMENTO DENTRO DAS EXIGÊNCIAS MÍNIMAS DA ANS. NEGATIVA INDEVIDA. DANO MORAL CONFIGURADO. MONTANTE FIXADO EM R$5.000,00. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+- Paciente que é portadora de obesidade mórbida (CID10 - E66.8). Médico que a acompanha que prescreveu cirurgia de gastroplastia. - Estado de saúde da paciente que se enquadra nas hipóteses de indicação de cirurgia bariátrica previstas nas exigências mínimas da Resolução nº 465/2021 da ANS (DUT nº 27).
+- Reconhecido que o contrato abarca o tratamento da doença e que o procedimento está dentro das exigências mínimas da ANS, encontra-se eivada de ilegalidade a negativa de cobertura da terapia correlata, pois não pode ser, de forma alguma, dissociada de todo o tratamento, notadamente em decorrência dos princípios e regramentos consagrados na lei consumerista (art. 6º, IV; 47; 51, IV, § 1º, II, do CDC). - Súmula nº 10 do TJPE ("É abusiva a negativa de cobertura da gastroplastia para tratamento da obesidade mórbida").
+- Dano moral in re ipsa. Valor de R$5.000,00 (cinco mil reais) que se mostra adequado as peculiaridades do caso fático em análise, encontrando-se dentro dos parâmetros fixados por este órgão julgador para casos semelhantes, mostrando-se suficiente para fazer frente à dor moral e psíquica sofrida pela vítima, restando presentes os pressupostos da responsabilidade civil, tanto em sua nuance reparadora quanto em seu efeito pedagógico.
+- Recurso não provido. Honorários advocatícios fixados em 20% sobre o valor da condenação em sentença. Decisão Unânime.
+Recurso especial: alega violação dos arts. 10, §4º, da Lei 9656/98 3 4º, III, da Lei 9961/2000, bem como dissídio jurisprudencial. Sustenta que, diante da taxatividade do rol da ANS, nela incluída a DUT, não pode o plano de saúde ser compelido a custear procedimento para o qual o paciente não completou os requisitos da DUT, uma vez que, no caso dos autos, o paciente não tinha obesidade mórbida há 2 (dois) anos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de provas.
+A Corte de origem, ao julgar o recurso de apelação interposto pela agrava nte, concluiu que:
+Em verdade, conforme acima asseverado, o procedimento GASTROPLASTIA (CIRURGIA BARIÁTRICA) consta listado no Anexo I da RN n.º 465/2021, e deve ser obrigatoriamente coberto por planos de segmentação hospitalar (com ou sem obstetrícia) e por planos-referência, observando-se as condições estipuladas em sua Diretriz de Utilização - DUT.
+Outrossim, conforme o PARECER TÉCNICO Nº 12/GEAS/GGRAS/DIPRO/2021 da ANS, "Importante destacar que, a oscilação de peso/massa corporal e, consequentemente, do IMC é considerada natural no processo de tratamento clínico conservador da obesidade, e, portanto, não descaracteriza o cumprimento dos requisitos da DUT".
+Referido parecer aponta, também, que "Adicionalmente, a ANS considera suficiente a declaração do médico assistente para fins de comprovação do enquadramento do beneficiário nas condições estipuladas pela DUT".
+Nesse aspecto, no caso, resta incontroverso que a autora sofre de obesidade mórbida, nos moldes da declaração médica, além de ter sido demonstrado o enquadramento da paciente para a realização da cirurgia, enquanto, por outro lado, a seguradora não conseguiu indicar uma possível exclusão contratual do procedimento. (FL. 242, e-STJ).
+Tem-se assim que a conclusão da Corte de origem a respeito do enquadramento do beneficiário na DUT embasou-se na análise do conjunto fático probatório, que não pode ser revisto na estreita via do recurso especial, nos termos da Súmula 7/STJ.
+- Da Súmula 568 do STJ
+Ademais, a jurisprudência desta Corte firmou-se no sentido de que "A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências." (REsp n. 2.038.333/AM, Segunda Seção, DJe de 8/5/2024).
+Assim, com fundamento na Súmula 568/STJ, o recurso não deve ser provido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PLANO DE SAÚDE. DIRETRIZ DE UTILIZAÇÃO (DUT) DA ANS. MERO ELEMENTO ORGANIZADOR DA PRESCRIÇÃO FARMACÊUTICA. NEGATIVA INDEVIDA DE COBERTURA.
+1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. "A Diretriz de Utilização (DUT) deve ser entendida apenas como elemento organizador da prestação farmacêutica, de insumos e de procedimentos no âmbito da Saúde Suplementar, não podendo a sua função restritiva inibir técnicas diagnósticas essenciais ou alternativas terapêuticas ao paciente, sobretudo quando já tiverem sido esgotados tratamentos convencionais e existir comprovação da eficácia da terapia à luz da medicina baseada em evidências." (REsp 2.038.333/AM, Segunda Seção, DJe de 8/5/2024).
+4. Torno sem efeito a decisão de fls. 603/606 (e-ST). Agravo conhecido. Recurso especial parcialmente conhecido e desprovido.
