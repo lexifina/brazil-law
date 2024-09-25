@@ -1,0 +1,74 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de DOUGLAS WILLIAM DA SILVA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+Agravo em Execução - Apuração de falta grave - Sentenciado que causou transtornos à ordem e à disciplina. Recurso Defensivo requerendo a absolvição por falta de provas e apontando para a não individualização da conduta faltosa. Subsidiariamente, pugna-se pela: a) desclassificação para falta de natureza "média"; b) redução da fração da perda do tempo remido no patamar mínimo legal de 01 dia; e c) não interrupção do lapso temporal para fins de progressão.
+Preliminar - Nulidade por ausência do sentenciado na oitiva das testemunhas - Inocorrência - Testemunhas que apenas expuseram o conteúdo da Comunicação do Evento, de cujo teor o sentenciado foi cientificado antes de ser interrogado - Defensora que apresentou alegações finais após toda a colheita de provas, de modo a assegurar o contraditório e a ampla defesa.
+Mérito - Procedimento disciplinar suficiente a constatar a ocorrência de falta grave - Ato de subversão à ordem e à disciplina - Sentenciado que negou envolvimento com a conduta - Versão que restou isolada nos autos - Agentes de segurança penitenciária que comprovaram a prática da falta disciplinar - Subsunção dos fatos à falta de natureza grave, nos termos do art. 50, inciso I, da Lei de Execução Penal.
+Insurgência quanto aos dias eventualmente remidos - A fração aplicada restou compatível com as condutas praticadas pelo Agravante, porquanto as ações praticadas são mais perniciosas que outras e, assim, devem ser punidas mais severamente, já que trazem consequências gravíssimas.
+Interrupção do lapso temporal para a progressão de regime - Possibilidade Inteligência da Súmula 534 do C. STJ. Preliminar rejeitada. Recurso Defensivo desprovido.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, em razão da nulidade do PAD por ausência de participação do paciente na oitiva das testemunhas.
+Alega que foi imposta sanção coletiva no reconhecimento da falta grave, considerando a ausência de individualização da conduta do paciente, sendo as acusações vagas e genéricas.
+Por fim, defende que não há provas suficientes em relação à materialidade e a autoria da infração disciplinar.
+Requer, em suma, o afastamento da falta grave.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto às controvérsias apresentadas:
+Inicialmente, quanto à preliminar arguida, ela deve ser rejeitada.
+Consigna-se não haver nulidade a ser sanada diante da ausência do sentenciado nas oitivas das testemunhas.
+A Defesa sequer apontou concretamente e tampouco comprovou qual teria sido o prejuízo oriundo do fato de o agravante não ter presenciado a inquirição das testemunhas.
+Além do mais, as declarações dos agentes penitenciários apenas expuseram o conteúdo da Comunicação do Evento, de cujo teor o sentenciado foi cientificado antes de ser interrogado.
+Convém destacar, ainda, que o ilustre Defensor da FUNAP acompanhou os depoimentos apresentados pelos Agentes de Segurança Penitenciária, de modo a assegurar o contraditório e a ampla defesa.
+Além do mais, caso entendesse necessária a presença do sentenciado durante aquele ato, a Defesa poderia ter se manifestado, sendo que em razão da inércia, ocorreu a preclusão.
+ ..
+Afastada a matéria preliminar, passo à análise do mérito.
+ ..
+Sobreveio, então, a r. decisão recorrida (fls. 20/24), que, a despeito do quanto alegado pela Defesa, não merece reforma.
+Os elementos colhidos no bojo da sindicância comprovam a prática da falta disciplinar de natureza "grave".
+A versão do sentenciado de que não participou dos eventos não prospera.
+Isso porque, o Agente de Segurança Penitenciária confirmou que alguns detentos, dentre eles Douglas William da Silva, eram os responsáveis pelo tumulto e pela aglomeração causados. Note-se que a identificação dos responsáveis foi possível pois estavam todos na mesma cela.
+Insta consignar ser inquestionável a validade do depoimento prestado pelos agentes penitenciários. Por serem agentes públicos investidos em cargos cujas atribuições se ligam umbilical e essencialmente à segurança pública, eles não têm qualquer interesse em prejudicar inocentes, principalmente quando os relatos apresentados são coerentes e seguros, de maneira que, não havendo absolutamente nada no conjunto probatório que desabone seus testemunhos, a estes deve ser conferida relevante força probante.
+No mais, ao contrário do alegado pela D. Defesa, não houve aplicação de "sanção coletiva".
+ ..
+Em outras palavras, a conduta tida por falta grave foi individualizada, sendo imputada a todos aqueles indivíduos que participaram da aglomeração, cuja finalidade era subverter a ordem e a disciplina da unidade prisional.
+Assim, verifica-se que a conduta do sentenciado amolda-se a falta de natureza grave, diante da subsunção dos fatos ao art. 50, incisos I e VI, da Lei de Execução Penal, devendo ser afastado o pedido de absolvição por insuficiência probatória, bem como a desclassificação para falta média, visto que Douglas William da Silva claramente desobedeceu às ordens exaradas e participou de movimento para subverter a ordem e a disciplina local (fls. 137-144, grifo meu).
+Primeiramente, quanto à alegação relativa à nulidade do PAD, por ausência de participação do apenado na oitiva das testemunhas, segundo orientação firmada na jurisprudência do STJ, a inquirição de testemunha em sindicância sem a presença do reeducando não caracteriza nulidade se houve o acompanhamento do ato pelo defensor técnico e o apenado foi ouvido durante o procedimento administrativo disciplinar.
+Na esteira desse entendimento vale citar os seguintes julgados:
+PENAL E PROCESSO PENAL. FALTA GRAVE. ALEGADAS NULIDADES DO PAD. INEXISTÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. APLICAÇÃO ANALÓGICA DO ART. 109, VI, DO CP. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. INVIABILIDADE AGRAVO REGIMENTAL EM HABEAS CORPUS. AGRAVO DESPROVIDO.
+1. "A teor dos julgados desta Corte, a inquirição de testemunha em sindicância sem a presença do sentenciado não configura nulidade se defensor técnico acompanhou o ato e o apenado foi ouvido durante o procedimento administrativo disciplinar. É desnecessária nova oitiva em juízo para homologação da falta grave, pois já foram assegurados o contraditório e a ampla defesa" (AgRg no HC 610.073/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de ser de 3 (três) anos o prazo prescricional para a aplicação de sanção disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, utilizando-se, para tanto, do art. 109, VI, do Código Penal, diante da falta de norma específica quanto à prescrição em sede de execução.
+3. In casu, considerando que o fato gerador da falta grave foi cometido em 17/6/2020 e a decisão homologatória foi proferida em 7/4/2020, verifica-se que não ocorreu a prescrição da falta grave.
+4. Analisar se o fato praticado configura ou não infração disciplinar administrativa, de natureza leve, média ou grave, demandaria o revolvimento do conteúdo fático-probatório dos autos, o que é inadmissível na via eleita. Precedentes.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 700.058/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 17.12.2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. PRESCRIÇÃO DISCIPLINAR. INOCORRÊNCIA. NULIDADE NÃO EVIDENCIADA. OITIVA JUDICIAL DO APENADO DO REGIME FECHADO. DESNECESSIDADE. INEXISTÊNCIA DE SANÇÃO DE CARÁTER COLETIVO. ABSOLVIÇÃO E DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prescrição das faltas disciplinares, diante da lacuna legislativa, observa, por analogia, o menor dos prazos previstos no art. 109 do Código Penal, que é de 3 anos. Normas penitenciárias não têm o condão de regular a perda do direito disciplinar, pois compete privativamente à União legislar sobre o assunto.
+2. A teor dos julgados desta Corte, a inquirição de testemunha em sindicância sem a presença do sentenciado não configura nulidade se defensor técnico acompanhou o ato e o apenado foi ouvido durante o procedimento administrativo disciplinar. É desnecessária nova oitiva em juízo para homologação da falta grave, pois já foram assegurados o contraditório e a ampla defesa.
+3. A palavra dos agentes penitenciários é prova idônea para o convencimento do magistrado acerca da incitação à subversão da ordem e da disciplina. O habeas corpus é ação de rito célere e de cognição sumária e não se presta a analisar alegações relativas à absolvição e à desclassificação da conduta, uma vez que não é possível, em seu bojo, o revolvimento de provas e a nova reconstrução histórica dos fatos.
+4. Não há falar em aplicação de sanção de caráter coletivo ou por ato de terceiro se foi possível precisar a responsabilidade do agravante, punido por autoria coletiva de falta grave.
+5. Agravo regimental não provido.
+(AgRg no HC n. 610.073/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18.12.2020.)
+Ademais, de acordo com a jurisprudência desta Corte, não há sanção coletiva, vedada no ordenamento jurídico (art. 45, § 3º, da LEP), mas sim falta disciplinar de autoria coletiva quando são identificados os autores da infração e individualizada a conduta do apenado.
+Nesse sentido, vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE DE AUTORIA COLETIVA. SUBVERSÃO À ORDEM E À DISCIPLINA. SANCIONAMENTO COLETIVO. INOCORRÊNCIA. CONDUTAS INDIVIDUALIZADAS. LIDERANÇA NEGATIVA. CADA APENADO ENVOLVIDO EM SEU RESPECTIVO PAVILHÃO. REIVINDICAÇÕES DESCABIDAS. PROVAS DAS CONDUTAS COLHIDAS EM REGULAR PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD. CONTRADITÓRIO E AMPLA DEFESA GARANTIDOS. DEPOIMENTOS DOS AGENTES PRISIONAIS. VALIDADE. REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL. PRECEDENTES. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+III - Com efeito, não se pode confundir sancionamento coletivo, este sim vedado pelo ordenamento jurídico, por caracterizar verdadeira responsabilização objetiva, com autoria coletiva, a qual se configura quando apurada a infração e reconhecida a responsabilidade autoral de vários reeducandos (no caso), em razão de circunstâncias concretas, acarretando a punição individualizada dos envolvidos.
+IV - No caso concreto, não há falar em sanção coletiva, na medida em que a conduta do ora agravante, embora tenha participado conjuntamente com outros 11 (onze) apenados, foi individualizada.
+Vale destacar que, segundo os autos, cada um dos apenados envolvidos na infração, inclusive o próprio agravante, realizou os atos individualmente em seu respectivo pavilhão penitenciário. Segundo as informações prestadas, sobre o direito de defesa, há de se destacar que houve regular Processo Administrativo Disciplinar - PAD e que o paciente foi ouvido na presença de patrono.
+V - De resto, o eventual acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via estreita do habeas corpus e do seu recurso ordinário.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 791.300/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 15.8.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE HOMOLOGADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO. NULIDADE. INSUFICIÊNCIA DE PROVAS. FALTA COLETIVA. ABSOLVIÇÃO. DESCLASSIFICAÇÃO. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS.
+1. Esta Corte possui orientação de ser desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado ao reeducando o contraditório e a ampla defesa, inclusive com a participação da defesa técnica.
+2. Não se configura sanção coletiva se o executado é descrito pelos agentes penitenciários presentes no momento do evento como um dos participantes da falta e tem sua conduta devidamente individualizada.
+3. Alterar a conclusão a que chegaram as instâncias ordinárias acerca da autoria e da materialidade da infração disciplinar demandaria o reexame de matéria probatória, o que é inviável na estreita via do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 782.937/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.)
+De igual sorte: AgRg no HC n. 820.672/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29.5.2023; AgRg no HC n. 842.930/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 5.10.2023; AgRg no HC n. 782.937/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023.
+Por fim, tendo o acórdão concluído pela existência de provas suficientes em relação à autoria e à materialidade da falta disciplinar de natureza grave, para modificar a decisão de origem e acolher eventuais teses absolutórias ou desclassificatórias, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023; AgRg no HC n. 748.272/MS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.2.2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
