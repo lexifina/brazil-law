@@ -1,0 +1,46 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto pelo ESTADO DA PARAÍBA contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso especial não merece prosperar.
+Súmula 284 do STF
+No que tange à alegada violação ao art. 1.022, II, do CPC/15, o recurso não merece conhecimento.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia.
+Desse modo, a deficiência na fundamentação recursal inviabiliza a abertura da instância especial, porquanto não permite a exata compreensão da controvérsia, incidindo, pois, à espécie, o óbice da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. SÚMULA N. 284/STF. VIOLAÇÃO DO ART. 489, I E IV, DO CPC. SÚMULA N. 211/STJ. INCONSTITUCIONALIDADE DO ADICIONAL SOBRE O VALOR DAS TAXAS DE LICENÇA E FUNCIONAMENTO. COMPETÊNCIA DO STF E SÚMULA N. 280/STF. AGRAVO INTERNO NÃO PROVIDO.1. O acolhimento da preliminar de violação do art. 1.022 do CPC exige que o recorrente aponte com clareza o vício do qual padece o aresto combatido, bem como que demonstre a relevância dele à conclusão do julgado, de forma que, se analisado a contento, poderia levar à alteração do resultado do julgamento. A argumentação genérica no sentido de que houve ofensa ao art. 1.022 do CPC, consoante ocorreu in casu, atrai a incidência da Súmula n. 284/STF. .. 6. Agravo interno não provido (AgInt no AREsp n. 2.263.749/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2023, DJe de 15/6/2023).
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ANÁLISE PER SALTUM DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SÚMULA 284/STF. INCIDÊNCIA. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. PRECLUSÃO.1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF. .. 5. Agravo interno não provido.(AgInt nos EDcl no AgInt no REsp n. 1.704.745/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/8/2023, DJe de 31/8/2023).
+Súmula 7 do STJ
+A pretensão da parte recorrente relativa à violação dos arts. 2º, § 5º, e 3º, parágrafo único, da Lei 6830/80; dos arts. 202 e 204, parágrafo único, do CTN; e dos arts. 278 e art. 344 do CPC/2015, consubstanciada na alegação de ausência de irregularidade da CDA que deu suporte à execução fiscal, encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, assentou que:
+No entanto, na hipótese em análise, como bem apontado pelo magistrado a quo, não é possível aferir sob que documentos fora embasado o valor cobrado na CDA objeto dos autos, considerando inexistir nos autos documentos a justificar tal cobrança, tratando-se de vício intrínseco à origem do débito fiscal, conforme se observa do instrumento, que não indica de forma clara a infração na qual incorreu o executado.
+ ..
+Nesse passo, em que pese gozar a CDA de presunção legal, verifico que os documentos apresentados pela Fazenda Pública Estadual ratificam as irregularidades apontadas.
+É que embora se trate de descrição objetiva, na CDA devem estar resumidas informações que garantam a exata compreensão da infração atribuída ao contribuinte. In casu, sequer consta no documento em qual(is) alínea(s) do art.106 do RICMS está incurso o executado, ora apelado, e diante da patente irregularidade do processo administrativo, que nada informa acerca da origem do crédito, tenho que a nulidade da CDA é medida que se impõe, ainda que o executado não tenha ajuizado ação anulatória com tal propósito.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+CIVIL, ADMINISTRATIVO E PROCESSUAL CIVIL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. PRAZO PRESCRICIONAL. REGRA DO CÓDIGO CIVIL. TEMA 639 DO STJ. RATIO DECIDENDI. ADOÇÃO. CDA. PROCESSO ADMINISTRATIVO. IRREGULARIDADE. AFERIÇÃO. REEXAME DE PROVAS. NÃO CABIMENTO. ATO NORMATIVO INFRALEGAL. EXAME. INVIABILIDADE.
+ ..
+4. A verificação da alegada nulidade da execução fiscal por irregularidades na CDA e no processo administrativo demandaria, na hipótese, reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+ ..
+6. Agravo interno desprovido (AgInt nos EDcl no REsp n. 1.869.456/PE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/5/2024, DJe de 27/5/2024).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DA CDA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 7/STJ. ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO COM BASE NO ART. 1.030, I, DO CPC/2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do aresto impugnado quanto à validade da CDA demandaria o reexame fático-probatório dos autos, providência que encontra óbice no Enunciado 7/STJ.
+ ..
+5. Agravo interno conhecido e desprovido (AgInt no AREsp n. 2.327.988/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+TRIBUTÁRIO. PROCESSUAL CIVIL. TRIBUNAL DE ORIGEM. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. APELO NOBRE. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. NULIDADE DA CDA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+4. Quanto à nulidade da CDA, aferir, no caso, a ausência dos requisitos legais, exigiria nova análise de aspectos fáticos da causa, providência vedada em recurso especial (Súmula 7/STJ).
+Precedentes.
+5. Agravo interno não provido (AgInt nos EDcl no AREsp n. 2.354.972/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/2/2024, DJe de 1/3/2024.)
+Do dissídio jurisprudencial
+Quanto à alegação da existência de dissídio jurisprudencial, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 1.029, § 1º, do CPC/15 e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Com efeito, o dissídio jurisprudencial viabilizador do recurso especial não foi demonstrado nos moldes legais pois, além da ausência do cotejo analítico, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados, que teriam recebido interpretação divergente.
+Nesse mesmo sentido, "para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso" (AgInt no AREsp 2.387.742/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2023, DJe de 18/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
