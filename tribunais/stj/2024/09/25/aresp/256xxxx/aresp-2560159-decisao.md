@@ -1,0 +1,55 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICÍPIO DE SÃO PAULO, com fundamento na ausência de violação do art. 1022 do CPC, bem como na insuficiência de comprovação da alegada ofensa ao regramento indicado e incidência da Súmula 7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois o aresto violou os arts. 373, I e II, §§ 1º e 2º, 1.022, II, do CPC; arts. 9º, IV, "c", 14, III, §§1º e 2º, 113, §2º, e 166, do CTN.
+Assevera, ainda, que os argumentos apresentados são suficientes para afastar as conclusões do acórdão, assim como que a questão discutida não necessita de reexame de provas, apenas discussão jurídica, sendo inaplicável o óbice da Súmula 7 do STJ.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+De início, extrai-se dos autos que o Ente municipal agravante busca o reconhecimento de que a instituição agravada não pode fazer jus à imunidade tributária assegurada constitucionalmente, tendo em vista o descumprimento dos requisitos estabelecidos no art. 14 do CTN.
+No mais, sustenta que a despeito de a respectiva entidade exercer atividade de natureza cultural, não exerce atividade de ensino, de modo que o benefício de imunidade não lhe pode ser estendido.
+Violação ao art. 1.022, II, do CPC
+Nesse cenário, quanto à apontada violação ao art. 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, a agravante alega a existência de vícios de omissão no acórdão recorrido, sob o argumento de que não se pronunciou acerca da necessidade de observância da determinação contida no art. 166 do CTN, mais especificamente em relação à necessidade de comprovação da efetiva assunção do encargo tributário a ser restituído.
+Todavia, denota-se que o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que a eventual restituição deverá se limitar aos valores comprovadamente pagos de forma indevida. Vejamos (fls. 2373-2379):
+ ..  A prova pericial constatou preenchimento dos requisitos do artigo 14 do Código Tributário Nacional (folhas 2.002 a 2.054): não se apurou no período irregularidade na escrituração contábil da autora; distribuição de parcela do patrimônio ou da renda; tampouco sinal de que se não apliquem integralmente no país eventuais recursos auferidos com a prestação de serviços, com vistas à manutenção dos objetivos da entidade.
+ ..  Os valores a serem restituídos, observado o lustro previsto no artigo 168, cabeça, do Código Tributário Nacional, são apenas os que tenham os respectivos pagamentos comprovados na fase de cumprimento do acórdão (artigos 165, I, e 168, I, do Código Tributário Nacional) e devem observar o quanto decidido pelo Superior Tribunal de Justiça ao examinar o recurso especial 1.495.146/MG (tema 905), segundo a sistemática do artigo 1.036 do Código de Processo Civil (tema 905), acerca dos índices a serem adotados nos casos de condenação da Fazenda Pública, in verbis:
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 2427-2431):
+ ..  Quanto ao pedido de restituição dos valores indevidamente pagos no período, a autora demonstrou à saciedade ter suportado o ônus financeiro do tributo. Daí por que não há falar em inobservância do disposto no artigo 166 do Código Tributário Nacional.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação ao art. 1.022, II, do CPC.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+Matéria eminentemente constitucional
+Nesse contexto, verifica-se que o Tribunal de origem decidiu a questão à vista da interpretação da imunidade preconizada no art. 150, VI, alínea "c", da Constituição Federal, assentando que a instituição educacional, ora agravada, comprovou todos os requisitos necessários ao gozo do respectivo benefício tributário.
+Assim, embora a agravante aponte a existência de violação a normas infraconstitucionais, depreende-se dos autos que acórdão recorrido apreciou a questão sob o enfoque eminentemente constitucional, não competindo o exame da pretensão recursal na via do apelo especial por este Superior Tribunal de Justiça, sob pena de afronta aos poderes conferidos à Suprema Corte.
+Em situações análogas esta Corte Superior já decidiu:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 10 E 489 DO CPC/2015. INEXISTÊNCIA. DISCUSSÃO ACERCA DO ENQUADRAMENTO COMO INSTITUIÇÃO DE ENSINO PARA FINS DE GOZO DE IMUNIDADE TRIBUTÁRIA. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. EVENTUAL VERIFICAÇÃO DOS REQUISITOS LEGAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO
+ ..  2. A questão relativa à caracterização da parte recorrente como entidade de instituição de ensino foi decidida sob enfoque exclusivamente constitucional, sendo a via especial inadequada para reexamina-lo, sob pena de usurpação da competência do STF.
+3. Inviável eventual análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.265.563/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TUTELA PROVISÓRIA ANTECIPADA DE URGÊNCIA. IPTU. IMUNIDADE TRIBUTÁRIA. ENTIDADE DE ENSINO. FUNDAMENTO DE CUNHO CONSTITUCIONAL. PREENCHIMENTO DOS REQUISITOS LEGAIS DO ART. 14 DO CTN. IMPOSSIBILIDADE DE REFORMA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. CERTIFICAÇÃO. ATO DECLARATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO AGRAVO INTERNO DO MUNICÍPIO NÃO PROVIDO.
+1. A revisão das conclusões adotadas pelo Tribunal de origem acerca do preenchimento dos requisitos para a concessão da imunidade tributária demandaria, necessariamente, revolvimento do contexto fático-probatório dos autos, o que é vedado a teor da Súmula 7/STJ.
+2. O acórdão recorrido baseou-se em fundamento de índole constitucional (art. 150, VI, alínea c, da CF/88), o que impede o conhecimento do recurso, nesta seara especial, sob pena de usurpação de competência do Colendo Supremo Tribunal Federal.
+ ..  5. Agravo Interno da município não provido.
+(AgInt no AREsp n. 1.860.030/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 27/9/2021, DJe de 29/9/2021.)
+Súmula 7/STJ
+Ademais, diante da circunstância dos autos, vislumbra-se que para se chegar à conclusão acerca do direito à imunidade tributária à entidade assistencial, nos moldes do art. 150, VI, alínea "c", da Constituição Federal, fez-se imperiosa a análise da respectiva escrituração contábil, de modo a aferir a distribuição do seu patrimônio ou renda, bem como dos objetivos institucionais previstos no seu estatuto ou ato constitutivo (fl. 2375).
+Portanto, observa-se que a alteração da conclusão do Tribunal a quo ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência das Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL IMUNIDADE TRIBUTÁRIA. EXTENSÃO ÀS FILIAIS. LEGITIMIDADE. ARTS. 489 E 1.022 DO CPC. OFENSA NÃO CONFIGURADA. FUNDAMENTO CONSTITUCIONAL. ..  6. A Corte de origem, acerca da presença dos requisitos da imunidade, nos termos do art. 150, inciso VI, alínea "c" , da Constituição Federal, manteve a sentença que analisou a controvérsia dos autos sob enfoque constitucional, levando em consideração os fatos e provas relacionados à matéria, o que torna inviável o presente Recurso Especial, sob pena de usurpação da competência do STF, assim como, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pela Súmula do 7/STJ.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.796.773/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/8/2021, DJe de 31/8/2021.)
+PROCESSUAL CIVIL. ITBI. IMUNIDADE TRIBUTÁRIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ.
+1. O Tribunal de origem, ao dirimir a controvérsia, concluiu (fls. 287 e 289, e-STJ): "Logo, a impetrante faz jus ao reconhecimento da imunidade tributária prevista no art. 150, VI, "c" da Constituição da República, tendo em vista que a destinação de seu patrimônio e receitas, bem como a aplicação de seus respectivos recursos se amoldam às exigências previstas no art. 14 do CTN. (..) Na hipótese dos autos, o Município não se desincumbiu de demonstrar eventual destinação diversa do imóvel descrito na inicial que pudesse obstar o reconhecimento da imunidade pleiteada. Logo, a cobrança do imposto (ITBI) mostra-se indevida".
+2. Da leitura do acórdão recorrido, observa-se que a controvérsia acerca da imunidade tributária foi decidida com base em minuciosa análise do acervo fático-probatório dos autos, cujo reexame é vedado em Recurso Especial pelo óbice da Súmula 7 do STJ.
+ ..  5. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp n. 1.589.148/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/3/2020, DJe de 19/5/2020.)
+Em vista disso: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento ), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+À vista disso, considerando que o Tribunal de origem fixou a verba honorária em 11% (onze por cento), é medida adequada a majoração dos honorários advocatícios para 13% (treze por cento) sobre o valor atribuído à causa.
+Intimem-se.
+EMENTA
